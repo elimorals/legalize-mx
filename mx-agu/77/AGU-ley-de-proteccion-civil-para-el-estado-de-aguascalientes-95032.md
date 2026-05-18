@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-civil-para-el-estado-de-aguascalientes-95032"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-08"
-last_updated: "2026-05-11"
+last_updated: "2026-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2013.
 
@@ -751,9 +751,9 @@ IX. Proporcionar información, dar asesoría a las empresas, instituciones u org
 
 X. Llevar el registro, prestar asesoría y coordinar a los grupos de voluntarios;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2026)</small>
 
-XI. Integrar la red de comunicación que permita reunir informes sobre condiciones de alto riesgo, alertar a la población, convocar a los grupos voluntarios y en general dirigir las operaciones del Sistema Estatal, habilitando entre otros medios, una aplicación informática que se diseñe para ejecutarla con teléfonos inteligentes, tabletas y otros tipos de dispositivos móviles;
+XI. Integrar la red de comunicación que permita reunir informes sobre condiciones de alto riesgo, alertar a la población, convocar a los grupos voluntarios y en general dirigir las operaciones del Sistema Estatal, en coordinación con el C5i, habilitando entre otros medios, una aplicación informática que se diseñe para ejecutarla con teléfonos inteligentes, tabletas y otros tipos de dispositivos móviles;
 
 XII. Establecer y operar los centros de acopio para recibir y administrar ayuda a la población afectada por un siniestro o desastre; así como vigilar y disponer que todos los centros de acopio establecidos en la Entidad, por personas físicas o morales, destinen la ayuda recibida a la población afectada, estableciendo mecanismos ágiles de control en recepción y destino para su recepción;
 
@@ -1744,3 +1744,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 492.- SE ADICIONAN LOS ARTÍCULOS 110 I, 110 J, 110 K Y 110 L A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría, por conducto del C5i y en coordinación con la Fiscalía y la Coordinación Estatal de Protección Civil, emitirá los lineamientos técnicos y operativos a que se refiere el artículo 110 I, fracción III, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
