@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2026-05-11"
+last_updated: "2026-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -2281,6 +2281,44 @@ Artículo 110 G.- Todos los equipos tecnológicos de grabación de imágenes fij
 
 Artículo 110 H.- El Estado garantizará el respeto de los derechos humanos y garantías individuales de los ciudadanos video grabados. Las imágenes que hagan reconocibles o identifiquen a los ciudadanos se constituyen en un dato personal que se encuentra regulado, se exige que su tratamiento sea de uso reservado, en referencia a su almacenamiento, uso, obtención, manejo, acceso, aprovechamiento, publicidad y transmisión, en términos de la normatividad aplicable en la materia.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2026)</small>
+
+Artículo 110 I.- Se crea el Sistema Estatal de Difusión de Alertas Móviles con el objetivo de emitir mensajes masivos de alerta en tiempo real a través de redes móviles, mediante el uso de tecnología de difusión celular. El Sistema estará vinculado al C5i quien estará a cargo de la operación de este.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2026)</small>
+
+Artículo 110 J.- Las alertas podrán emitirse ante:
+
+I. Situaciones de emergencia relacionadas con fenómenos naturales o antropogénicos que representen riesgo para la vida o integridad física.
+
+II. Amenazas a la seguridad pública que justifiquen informar a la población de manera inmediata.
+
+III. Reportes de personas desaparecidas, en los términos y supuestos que determine la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2026)</small>
+
+Artículo 110 K.- Las autoridades facultadas para emitir alertas serán:
+
+I. La Secretaría.
+
+II. La Fiscalía.
+
+III. La Coordinación Estatal de Protección Civil.
+
+IV. Los Municipios.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2026)</small>
+
+Artículo 110 L.- La Secretaría a través de C5i será la instancia encargada de coordinar, implementar y operar el sistema, para ello deberá:
+
+I. Gestionar la autorización y permisos necesarios ante la autoridad federal competente en materia de telecomunicaciones.
+
+II. Celebrar convenios de cooperación con las empresas concesionarias de redes móviles para la difusión de alertas.
+
+III. Establecer lineamientos técnicos y operativos para la implementación del Sistema.
+
+IV. Supervisar el correcto funcionamiento del Sistema y garantizar que las alertas se emitan conforme a los principios de legalidad, necesidad, proporcionalidad y respeto a la privacidad de las personas.
+
 ## TÍTULO SEXTO. DEL REGISTRO ADMINISTRATIVO DE DETENCIONES
 
 ###### Artículo 111.
@@ -3154,3 +3192,15 @@ P.O. 11 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 484.- SE ADICIONA UN ARTÍCULO 34 BIS A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 492.- SE ADICIONAN LOS ARTÍCULOS 110 I, 110 J, 110 K Y 110 L A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría, por conducto del C5i y en coordinación con la Fiscalía y la Coordinación Estatal de Protección Civil, emitirá los lineamientos técnicos y operativos a que se refiere el artículo 110 I, fracción III, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
