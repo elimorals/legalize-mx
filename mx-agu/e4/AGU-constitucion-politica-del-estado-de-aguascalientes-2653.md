@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2026-02-26"
+last_updated: "2026-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -275,13 +275,11 @@ La Feria Nacional de San Marcos es patrimonio cultural y pilar del desarrollo ec
 
 La charrería y la tauromaquia en su usanza tradicional, como expresiones históricas y tradiciones culturales emblemáticas del Estado de Aguascalientes, serán promovidas, protegidas y difundidas como parte del patrimonio cultural inmaterial de la entidad y de la Feria Nacional de San Marcos, observando en todo momento el respeto a los derechos humanos, así como a la protección y bienestar animal, en los términos que dispongan las leyes aplicables. La ley establecerá los mecanismos para asegurar la sustentabilidad cultural, ambiental y económica que garantice esta tradición y los derechos de las personas involucradas en sus actividades.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 25 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2026)</small>
 
-La mejora regulatoria es una política de Estado obligatoria para todas las autoridades estatales y municipales en sus respectivos ámbitos de competencia, cuyo objetivo es elevar la competitividad y productividad, así como garantizar la obtención de beneficios superiores a sus costos, el máximo bienestar para la sociedad y la transparencia.
+El Estado deberá implementar las políticas públicas de simplificación administrativa y digitalización de trámites y servicios, las buenas prácticas regulatorias, el desarrollo y fortalecimiento de capacidades tecnológicas públicas, bajo los principios y objetivos de la legislación nacional en la materia, que permitan bienestar social.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 25 DE ABRIL DE 2025)</small>
-
-El Estado generará un registro estatal obligatorio que incluya todos los trámites y servicios actualizados de las autoridades públicas, con el objeto de generar certeza y seguridad jurídica, así como facilitar su cumplimiento mediante el uso de Tecnologías de la Información. La Ley regulará el Sistema Estatal de Mejora Regulatoria.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 18 DE MAYO DE 2026)</small>
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 25 DE ABRIL DE 2025)</small>
 
@@ -4816,3 +4814,11 @@ Lo dispuesto en el presente Decreto será aplicable al periodo del cargo de la p
 ###### ARTÍCULO TERCERO.
 
 Con la entrada en vigor del presente Decreto, quedan sin efecto todas aquellas disposiciones que se opongan al mismo.
+
+P.O. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 425.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
