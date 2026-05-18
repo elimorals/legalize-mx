@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2026-05-11"
+last_updated: "2026-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -474,6 +474,12 @@ X. De la información.
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
 
 A) A tener acceso a la información de manera plural, oportuna y accesible, la cual será garantizada por el Estado.
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2026)</small>
+
+XI. Del patrimonio:
+
+A. Las personas adultas mayores tienen derecho al uso y goce de su patrimonio personal. La edad no será motivo de privación ni discriminación en el goce y disfrute de su patrimonio.
 
 ## TÍTULO TERCERO. DE LA FAMILIA Y DE LA SOCIEDAD
 
@@ -1920,3 +1926,11 @@ Las Dependencias y Entidades competentes deberán incorporar las disposiciones d
 ###### ARTÍCULO TERCERO.
 
 En caso de requerirse recursos adicionales para fortalecer los programas previstos en este Decreto, las Dependencias y Entidades competentes deberán preverlos en el proyecto de presupuesto del ejercicio fiscal subsecuente, conforme a la disponibilidad presupuestaria.
+
+P.O. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 489.- SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 5° DE LA LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
