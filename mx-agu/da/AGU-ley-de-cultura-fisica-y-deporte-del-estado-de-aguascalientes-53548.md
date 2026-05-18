@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2026-04-06"
+last_updated: "2026-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -79,9 +79,9 @@ VII. Incentivar el desarrollo de la actividad deportiva de forma organizada, don
 
 VIII. Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2026)</small>
 
-IX. Garantizar a todas las personas, sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, la igualdad de oportunidades dentro de los programas y apoyos de desarrollo que en materia de cultura física y deporte se implementen;
+IX. Garantizar a todas las personas, sin distribución de género, edad, discapacidad, condición social, religión, opiniones, preferencias, estado civil o situación migratoria, la igualdad de oportunidades dentro de los programas y apoyos de desarrollo que en materia de cultura física y deporte se implementen;
 
 > <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
 
@@ -221,7 +221,9 @@ V. Deporte: Actividad física, organizada y reglamentada, que tiene por finalida
 
 VI. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo;
 
-VII. Deporte Social o Masivo: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2026)</small>
+
+VII. Deporte Social o Masivo: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias, estado civil o situación migratoria, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
 
 VIII. Deporte Adaptado: actividad físico deportiva que es susceptible de aceptar modificaciones para garantizar la participación de las personas con discapacidades físicas, psíquicas o sensoriales;
 
@@ -231,13 +233,33 @@ IX. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que t
 
 X. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en representaciones y selecciones estatales en competiciones y pruebas oficiales de carácter nacional;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2026)</small>
 
-XI. Activación Física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física de las personas; y
+XI. Activación Física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física de las personas;
 
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE MAYO DE 2026)</small>
 
-XII. Autocuidados: La capacidad de las personas, las familias y las comunidades para promover la salud, prevenir las enfermedades, mantener la salud y hacer frente a las enfermedades o padecimientos con o sin el apoyo de un profesional de la salud.
+XII. Autocuidados: La capacidad de las personas, las familias y las comunidades para promover la salud, prevenir las enfermedades, mantener la salud y hacer frente a las enfermedades o padecimientos con o sin el apoyo de un profesional de la salud;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2026)</small>
+
+XIII. Atleta: Persona que se dedica fundamentalmente a la práctica de disciplinas deportivas olímpicas, no olímpicas, paraolímpicas o no paraolímpicas, en forma sistemática y de alto nivel competitivo, que posee aptitudes, formación deportiva y que pertenece de manera activa a las preselecciones o selecciones del estado o nacional, en sus diferentes categorías, con el registro de la federación o asociación deportiva correspondiente;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2026)</small>
+
+XIV. Deportista: Persona que realiza habitualmente actividades deportivas para competir o recrearse, pudiendo formar parte de organizaciones deportivas;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2026)</small>
+
+XV. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2026)</small>
+
+XVI. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos; y
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2026)</small>
+
+XVII. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
 
@@ -257,21 +279,79 @@ La función educativa del deporte debe implicar además de la enseñanza de téc
 
 El Gobierno del Estado y los Municipios en el ámbito de sus respectivas competencias promoverán el adecuado ejercicio del derecho de todos los aguascalentenses a la cultura física y la práctica del deporte.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2026)</small>
 
 ###### Artículo 6°.
 
-Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Gobierno del Estado y los Ayuntamientos en el ámbito de sus respectivas competencias su promoción, fomento y estímulo conforme a las leyes en la materia.
+Toda persona tiene derecho a la educación física, a la práctica de actividades físicas y a desarrollarse en el deporte de su preferencia, sin más limitaciones que las derivadas de sus aptitudes deportivas y capacidades físicas.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+Corresponde al Gobierno del Estado y los Ayuntamientos en el ámbito de sus respectivas competencias su promoción, fomento y estímulo conforme a las leyes en la materia, para el enaltecimiento cultural y social de sus habitantes y como herramienta para promover, mejorar y resguardar la salud de la población, favoreciendo su pleno desarrollo físico y mental como instrumento de combate al sedentarismo, la deserción escolar, el ausentismo laboral, los accidentes de trabajo, las adicciones, la violencia social y la comisión de delitos.
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Cultura Física y Deporte
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 2026)</small>
 
-#### SECCION PRIMERA. Del Instituto
+### CAPITULO PRIMERO BIS
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE MAYO DE 2026)</small>
 
-#### SECCION SEGUNDA. De la Junta Directiva
+#### SECCION PRIMERA
+
+Derechos de las Personas para Asegurar la Práctica del Deporte, la Actividad Física y la Educación Física.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 6° Bis.
+
+Son derechos que aseguran la práctica del deporte, la actividad física y la educación física de todas las personas:
+
+I. El libre acceso al SIEDE y a las Asociaciones y sociedades deportivas del Estado, sin más limitaciones que las exigidas por esta Ley, y sin mayores condiciones de permanencia que el desarrollo de las actividades deportivas, el rendimiento deportivo y las normas sobre disciplina establecidas en los reglamentos deportivos;
+
+II. La disponibilidad de espacios e instalaciones provistas para la práctica de deportes, actividades físicas y la educación física durante la jornada laboral, en los términos que fije la normatividad reglamentaria aplicable;
+
+III. La educación física, la práctica de deportes y actividades físicas en todo el Sistema Educativo en los términos que fije la Ley de la materia;
+
+IV. El goce de permisos para personas trabajadoras y estudiantes que sean seleccionadas para representar al Estado o al país en competencias internacionales, nacionales o estatales, en los términos de la normatividad aplicable;
+
+V. El derecho de las personas estudiantes a que sean reprogramadas sus evaluaciones, cuando asistan en representación de sus respectivas selecciones; y
+
+VI. El goce y disfrute de las instalaciones y establecimientos deportivos públicos o privados abiertos al público, en óptimas condiciones, con sujeción a sus normas de ingreso y uso.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE MAYO DE 2026)</small>
+
+#### SECCION SEGUNDA
+
+De los Derechos y Obligaciones de las Personas Atletas.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 6° Ter.
+
+Son derechos de las personas atletas, los siguientes:
+
+I. El acceso al SIEDE, la actividad física y la educación física, así como su afiliación y permanencia en las organizaciones sociales promotoras del deporte, sin más limitaciones que las previstas en la presente Ley y su Reglamento;
+
+II. Desarrollarse en las disciplinas de su preferencia, sin más limitaciones que las derivadas de sus aptitudes físicas y participar activamente en las competiciones internacionales, nacionales o estatales;
+
+III. El acceso a la preparación técnica de alto nivel;
+
+IV. El acceso a estímulos deportivos que otorgue el Estado;
+
+V. El acceso y permanencia al Sistema Educativo Estatal, bajo planes especiales de estudio y formación; y
+
+VI. Las demás que establezca la normatividad de la materia.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 6° Quater.
+
+Son obligaciones de las personas atletas, las siguientes:
+
+I. Entrenar responsablemente ajustado a los códigos éticos del deporte, así como los principios y valores de responsabilidad, solidaridad, compañerismo, tolerancia, cooperación y respeto;
+
+II. Respetar las normas nacionales e internacionales antidopaje y someterse a los controles respectivos, acatar las normas de protección de riesgos sobre su salud, competir con transparencia, justicia, honestidad y respeto por los demás;
+
+III. Apoyar y participar en las políticas públicas sobre deportes, actividades físicas y educación física, para el desarrollo de los planes de masificación en conjunto con el SIEDE, el SINADE, las Asociaciones y sociedades deportivas del Estado; y
+
+IV. Las demás que establezcan en la materia las leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -293,7 +373,7 @@ IV. El plan de inversiones con los presupuestos de los principales programas y p
 
 Para el cumplimiento de lo dispuesto en este artículo se adoptarán las acciones y estrategias pertinentes, se dictarán los instrumentos normativos a que haya lugar y se formularán los planes operativos anuales que garanticen su ejecución.
 
-### CAPITULO TERCERO. Del Instituto del Deporte del Estado de Aguascalientes
+### CAPITULO SEGUNDO. Del Sistema Estatal de Cultura Física y Deporte
 
 ###### Artículo 8°.
 
@@ -351,13 +431,11 @@ VI. Las demás que le otorgue esta Ley y otros ordenamientos Legales.
 
 El funcionamiento y requisitos de integración del SIEDE estarán regulados en términos de lo dispuesto en la presente Ley y su Reglamento.
 
-### CAPITULO CUARTO. De los Órganos Municipales de Cultura Física y Deporte
+### CAPITULO TERCERO. Del Instituto del Deporte del Estado de Aguascalientes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
+#### SECCION PRIMERA. Del Instituto
 
-#### SECCION TERCERA. Del Director General
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 13.
 
@@ -461,7 +539,7 @@ V. Los recursos que el propio IDEA genere; y
 
 VI. Los demás recursos, bienes y derechos que se adquieran o reciban por cualquier otro título legal.
 
-#### SECCION CUARTA. Del Órgano de Vigilancia
+#### SECCION SEGUNDA. De la Junta Directiva
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -599,9 +677,9 @@ XXXIII. Aprobar el Estatuto Orgánico del IDEA; y
 
 XXXIV. Ejercer las facultades que la Ley Orgánica de la Administración Pública Estatal y demás disposiciones asigne a los Órganos de Gobierno de las Entidades.
 
-#### SECCION QUINTA. Del Órgano de Control Interno
+#### SECCION TERCERA. Del Director General
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 20.
 
@@ -717,7 +795,7 @@ XLI. Las demás que le señale ésta y otras Leyes, Reglamentos, Decretos, Acuer
 
 El Director General tendrá además, las facultades que le delegue y confiera la Junta Directiva para administrar y representar legalmente al IDEA como mandatario del mismo.
 
-#### SECCION SEXTA. Del Consejo Técnico
+#### SECCION CUARTA. Del Órgano de Vigilancia
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -791,7 +869,7 @@ XX. Las demás inherentes a su función y las que le señale expresamente Secret
 
 La actuación del Comisario Público se ajustará en todo caso a lo dispuesto por la Ley Orgánica de la Administración Pública del Estado de Aguascalientes y por las demás disposiciones legales aplicables.
 
-#### SECCION PRIMERA. Del Registro de las Asociaciones y Sociedades Deportivas Estatales
+#### SECCION QUINTA. Del Órgano de Control Interno
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -845,7 +923,9 @@ XV. Examinar y evaluar los sistemas, mecanismos y procedimientos de control; efe
 
 XVI. Las demás que les atribuya expresamente el titular de la Secretaría de Fiscalización y Rendición de Cuentas y aquellas que les confieran otros ordenamientos aplicables.
 
-#### SECCION SEGUNDA. De las Asociaciones Deportivas Estatales
+#### SECCION SEXTA. Del Consejo Técnico
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 30.
 
@@ -877,7 +957,9 @@ II. Determinar los casos que deba conocer el área encargada del arbitraje en ma
 
 III. Las demás que le señale la Junta Directiva y el IDEA por conducto de su Director General.
 
-### CAPÍTULO QUINTO. De la Concurrencia, Coordinación, Colaboración y Concertación
+### CAPITULO CUARTO. De los Órganos Municipales de Cultura Física y Deporte
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 33.
 
@@ -963,7 +1045,7 @@ Artículo 37 La Administración Pública Estatal, a través del IDEA, ejercerá 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE FEBRERO DE 2015)</small>
 
-### CAPITULO SEXTO. De la Comisión Estatal de Apelación y Arbitraje del Deporte
+### CAPÍTULO QUINTO. De la Concurrencia, Coordinación, Colaboración y Concertación
 
 ###### Artículo 38.
 
@@ -1011,7 +1093,7 @@ Artículo 39 bis.- El IDEA podrá suscribir convenios con las instituciones educ
 
 Así como con el fin de hacer compatibles los estudios con los entrenamientos y la asistencia a competiciones del colectivo de deportistas de alto rendimiento, para la puesta en marcha de tutorías académicas que presten apoyo a quienes tengan dificultades para mantener el ritmo normal de asistencia.
 
-### CAPITULO SEPTIMO. De los Sectores Social y Privado
+### CAPITULO SEXTO. De la Comisión Estatal de Apelación y Arbitraje del Deporte
 
 ###### Artículo 40.
 
@@ -1063,9 +1145,9 @@ En ausencia del Presidente, en cualquiera de las sesiones, asumirá sus funcione
 
 El titular del Poder Ejecutivo del Estado expedirá las normas reglamentarias necesarias para la integración y funcionamiento de la CEAAD. Asimismo, proporcionará anualmente el presupuesto para su funcionamiento.
 
-### CAPITULO OCTAVO. Del Deporte Profesional
+### CAPITULO SEPTIMO. De los Sectores Social y Privado
 
-#### SECCION TERCERA. De Otras Asociaciones y Sociedades
+#### SECCION PRIMERA. Del Registro de las Asociaciones y Sociedades Deportivas Estatales
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -1142,6 +1224,8 @@ Las personas físicas o morales que se encuentren en el supuesto previsto en el 
 ###### Artículo 53.
 
 Las asociaciones y sociedades deportivas deberán observar y respetar los lineamientos que se señalan en la presente Ley, respecto a la integración de las delegaciones deportivas que representen al Estado en competiciones nacionales.
+
+#### SECCION SEGUNDA. De las Asociaciones Deportivas Estatales
 
 ###### Artículo 54.
 
@@ -1273,6 +1357,10 @@ El Consejero Presidente y los Consejeros Titulares durarán cuatro años en su e
 
 El funcionamiento, integración y operación del COEVED estarán regulados en términos de lo dispuesto en la presente Ley, su Reglamento y demás ordenamientos aplicables.
 
+#### SECCION TERCERA. De Otras Asociaciones y Sociedades
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+
 ###### Artículo 63.
 
 Las personas morales, cualquiera que sea su naturaleza jurídica, estructura y denominación que conforme a su objeto social promuevan, practiquen o contribuyan al desarrollo de la activación física y la recreación deportiva, serán registradas por el IDEA como Asociaciones Recreativo-Deportivas, cuando no persigan fines preponderantemente económicos o como sociedades recreativo-deportivas cuando su actividad se realice con fines de lucro.
@@ -1311,9 +1399,7 @@ Cualquier órgano ya sea público o privado que reciba recursos del erario públ
 
 Cualquier órgano ya sea público o privado de los reconocidos en este título que reciba recursos del erario público, deberá comprobar los gastos y presentar un informe semestral o cada que las autoridades del IDEA le requieran un informe financiero, técnico y deportivo, por el cual haya recibido el recurso, quedando sujetos a las auditorias financieras y evaluaciones que determine el IDEA.
 
-### CAPITULO NOVENO. Del Deporte Social o Masivo
-
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+### CAPITULO OCTAVO. Del Deporte Profesional
 
 ###### Artículo 70.
 
@@ -1341,9 +1427,9 @@ El Ejecutivo del Estado y los Gobiernos Municipales brindarán facilidades admin
 
 Para efectos de poder acceder a lo señalado en el párrafo anterior, el SIEDE determinará la pertinencia de dichos estímulo fiscales, considerando el impacto social del deporte de que se trate, a cambio de dichas facilidades y estímulos, los promotores de deporte profesional participarán con los gobiernos, estatal y municipales en actividades de desarrollo social promoviendo a través de los deportistas profesionales la importancia de practicar algún deporte previo acuerdo correspondiente.
 
-### CAPITULO DECIMO. Del Deporte Adaptado
+### CAPITULO NOVENO. Del Deporte Social o Masivo
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 75.
 
@@ -1371,9 +1457,9 @@ Una vez recibida la solicitud, el órgano estatal o municipal lo turnará al Con
 
 El IDEA destinará como mínimo el 25% de su presupuesto para la realización de actividades sociales masivas.
 
-### CAPITULO DECIMO PRIMERO. De la Activación Física y el Deporte de los Adultos Mayores
+### CAPITULO DECIMO. Del Deporte Adaptado
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
 ###### Artículo 78.
 
@@ -1393,9 +1479,9 @@ El IDEA, contará dentro de sus instalaciones deportivas con las facilidades de 
 
 Las personas con discapacidad que sean deportistas de alto rendimiento gozarán de los mismos derechos e incentivos establecidos en esta ley en materia de deporte normal y para los deportistas de alto rendimiento.
 
-### CAPITULO DECIMO SEGUNDO. Del Deporte Estudiantil
+### CAPITULO DECIMO PRIMERO. De la Activación Física y el Deporte de los Adultos Mayores
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
 
 ###### Artículo 81.
 
@@ -1407,7 +1493,7 @@ El IDEA, apoyará, promoverá y facilitará la participación de los adultos may
 
 Los clubes, asociaciones o deportistas que sean adultos mayores deberán de registrar sus organizaciones ante el IDEA, presentando su programación de actividades anuales del siguiente año, a más tardar en el mes de julio, a fin de ser considerados dentro del programa anual del deporte, así como en el presupuesto de egresos del IDEA, correspondiente al año fiscal próximo siguiente.
 
-### CAPITULO DECIMO TERCERO. De la Charrería
+### CAPITULO DECIMO SEGUNDO. Del Deporte Estudiantil
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -1421,9 +1507,9 @@ El IDEA, coordinadamente con el IEA, elaborará el programa anual de actividades
 
 El IEA proporcionará al IDEA, la información para crear y actualizar el registro de deportistas estudiantiles, con objeto de dar seguimiento a los niños y jóvenes con potencial deportivo.
 
-### CAPITULO DECIMO CUARTO. De la Activación Física y el Deporte en las Empresas
+### CAPITULO DECIMO TERCERO. De la Charrería
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 85.
 
@@ -1441,17 +1527,17 @@ Los practicantes de la Charrería del Estado adoptarán las formas de organizaci
 
 Las Asociaciones de Charros debidamente registradas ante el IDEA deberán de presentar su programa anual de trabajo del año próximo siguiente, a más tardar en el mes de julio a efectos de ser considerados en el programa anual de actividades deportivas del Estado, así como dentro del presupuesto de egresos del IDEA.
 
-### CAPITULO DECIMO QUINTO. Deporte Penitencia río
+### CAPITULO DECIMO CUARTO. De la Activación Física y el Deporte en las Empresas
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
 
 ###### Artículo 88.
 
 El IDEA, en coordinación con la Secretaría de Desarrollo Económico, Ciencia y Tecnología, y la Secretaría de Salud promoverán programas de activación física en las empresas establecidas en el Estado de Aguascalientes, procurando que éstas, dediquen por lo menos 20 minutos de la jornada laboral a estas actividades.
 
-### CAPITULO DECIMO SEXTO. De la Certificación y Supervisión de Clínicas y Gimnasios Deportivos
+### CAPITULO DECIMO QUINTO. Deporte Penitencia río
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 89.
 
@@ -1463,9 +1549,9 @@ Como parte de la rehabilitación de los internos de los centros penitenciarios d
 
 El IDEA en coordinación con la Secretaría de Seguridad Pública del Estado, realizarán actividades tendientes a procurar la activación física y el deporte dentro de las instalaciones de los centros penitenciarios.
 
-### CAPITULO DECIMO SEPTIMO. De la Cultura Taurina
+### CAPITULO DECIMO SEXTO. De la Certificación y Supervisión de Clínicas y Gimnasios Deportivos
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
 
 ###### Artículo 91.
 
@@ -1475,11 +1561,23 @@ El IDEA tendrá a su cargo la operación y administración del Programa de Forma
 
 Para tal efecto, el IDEA impartirá y validará cursos, talleres, diplomados, congresos, coloquios, clínicas, foros, seminarios y demás mecanismos de profesionalización en materia de deporte y cultura física, brindando apoyo y asesoría tanto a las Asociaciones Deportivas como al público en general interesados en capacitarse.
 
-### CAPITULO DECIMO OCTAVO. De la Cultura Física y el Deporte de los Trabajadores del Estado
+### CAPITULO DECIMO SEPTIMO. De la Cultura Taurina
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 92.
 
 El IDEA, apoyará las actividades en materia de cultura taurina, disponiendo los recursos que su presupuesto prevea, para la preservación de escuelas que la promuevan.
+
+### CAPITULO DECIMO OCTAVO. De la Cultura Física y el Deporte de los Trabajadores del Estado
+
+###### Artículo 93.
+
+Los titulares de las dependencias de la Administración Pública Estatal, tendrán la obligación de promover y fomentar la práctica de actividades físicas y deportivas entre sus trabajadores, con objeto de facilitar las condiciones de su plena integración en el desarrollo social y cultural.
+
+Igualmente, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con su entrenamiento y participación en competiciones oficiales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE ENERO DE 2010)</small>
 
 ### CAPITULO DECIMO OCTAVO BIS. De los Deportes Extremos o de Aventura
 
@@ -1525,19 +1623,7 @@ X. Automovilismo; y
 
 XI. Los demás que se establezcan en el reglamento o representen peligro directo e inmediato a la integridad física de las personas.
 
-###### Artículo 93.
-
-Los titulares de las dependencias de la Administración Pública Estatal, tendrán la obligación de promover y fomentar la práctica de actividades físicas y deportivas entre sus trabajadores, con objeto de facilitar las condiciones de su plena integración en el desarrollo social y cultural.
-
-Igualmente, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con su entrenamiento y participación en competiciones oficiales.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE ENERO DE 2010)</small>
-
 ### CAPITULO DECIMO NOVENO. De la Infraestructura
-
-### CAPITULO VIGESIMO. De la Enseñanza, Investigación y Difusión
-
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 94.
 
@@ -1597,7 +1683,7 @@ El IDEA promoverá ante las diversas instancias de los tres niveles de gobierno,
 
 En el uso de las instalaciones a que se refiere este Capítulo, con fines de espectáculo, deberán tomarse las providencias necesarias que determine la presente Ley y la Comisión. Asimismo, deberán respetarse los programas y calendarios previamente establecidos, así como acreditar por parte de los organizadores, ante la Comisión, que se cuenta con póliza de seguro vigente que cubra la reparación de los daños a personas y bienes que pudieran ocasionarse, cuando así se acredite su responsabilidad.
 
-### CAPITULO VIGESIMO PRIMERO. De las Ciencias Aplicadas
+### CAPITULO VIGESIMO. De la Enseñanza, Investigación y Difusión
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -1621,7 +1707,7 @@ El IDEA participará en la elaboración de programas de capacitación en activid
 
 El IDEA promoverá y gestionará conjuntamente con las asociaciones deportivas estatales, la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física y deporte. Para tal efecto, emitirá los lineamientos necesarios en los que se determine el procedimiento de acreditación considerando lo dispuesto por la Ley de Educación del Estado de Aguascalientes.
 
-### CAPITULO VIGESIMO SEGUNDO. Del Estímulo a la Cultura Física y al Deporte
+### CAPITULO VIGESIMO PRIMERO. De las Ciencias Aplicadas
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -1663,7 +1749,9 @@ La Secretaría de Salud y el IDEA procurarán la existencia y aplicación de pro
 
 Las instancias correspondientes, verificarán y certificarán que los laboratorios y profesionistas dedicados al ejercicio de estas ciencias, cumplan con los requisitos que fijen los Reglamentos y Normas Oficiales Mexicanas que sobre el particular, emita la dependencia con competencia en la materia.
 
-### CAPITULO VIGESIMO TERCERO. Del Control de Sustancias Prohibidas y Métodos no Reglamentarios en el Deporte
+### CAPITULO VIGESIMO SEGUNDO. Del Estímulo a la Cultura Física y al Deporte
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 114.
 
@@ -1785,9 +1873,7 @@ Las personas físicas y morales, así como las agrupaciones que hubieren contrib
 
 Para el cumplimiento del párrafo anterior, el IDEA además podrá promocionar los logros de los deportistas mediante campañas publicitarias en los diferentes medios de comunicación en todo el Estado y solicitar el apoyo de deportistas profesionales para ser promotores del deporte en todos los niveles educativos en el Estado.
 
-### CAPITULO VIGESIMO CUARTO. De la Prevención de la Violencia en la Celebración de Espectáculos Deportivos
-
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2016)</small>
+### CAPITULO VIGESIMO TERCERO. Del Control de Sustancias Prohibidas y Métodos no Reglamentarios en el Deporte
 
 ###### Artículo 120.
 
@@ -1859,9 +1945,9 @@ Los Poderes Públicos en el ámbito de sus respectivas competencias, adoptarán 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ENERO DE 2010)</small>
 
-### CAPITULO VIGESIMO QUINTO. De las Infracciones y Sanciones
+### CAPITULO VIGESIMO CUARTO. De la Prevención de la Violencia en la Celebración de Espectáculos Deportivos
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2016)</small>
 
 ###### Artículo 133.
 
@@ -1997,6 +2083,10 @@ Artículo 138 ter.- Los integrantes del SIEDE, podrán revisar continuamente sus
 
 Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
 
+### CAPITULO VIGESIMO QUINTO. De las Infracciones y Sanciones
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
+
 ###### Artículo 139.
 
 La aplicación de medidas correctivas y sanciones administrativas por infracciones a esta Ley, a su Reglamento y a las demás disposiciones que de ella deriven corresponde al IDEA, por conducto de la autoridad administrativa deportiva que resulte competente.
@@ -2063,9 +2153,9 @@ V. Cualquier acción u omisión tendiente a impedir o perturbar la correcta real
 
 VI. La administración o utilización de sustancias o prácticas prohibidas en animales destinados a la práctica deportiva; y
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2026)</small>
 
-VII. Las distinciones, exclusiones, restricciones, preferencias u hostigamiento que se hagan en contra de cualquier deportista, motivadas por origen étnico o nacional, de género, la edad, las discapacidades, la condición social, la religión, las opiniones, preferencias sexuales, el estado civil o cualquier otra que atente contra su dignidad o anule o menoscabe sus derechos y libertades.
+VII. Las distinciones, exclusiones, restricciones, preferencias u hostigamiento que se hagan en contra de cualquier deportista, motivadas por origen étnico o nacional, de género, la edad, las discapacidades, la condición social, la religión, las opiniones, preferencias sexuales, el estado civil, situación migratoria o cualquier otra que atente contra su dignidad o anule o menoscabe sus derechos y libertades.
 
 ###### Artículo 146.
 
@@ -2434,3 +2524,15 @@ P.O. 6 DE ABRIL DE 2026.
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las personas que, a la fecha de entrada en vigor de este Decreto, se encuentren impartiendo actividades deportivas de manera remunerada sin contar con la certificación a que hace referencia el artículo 91 reformado, deberán obtener dicha acreditación dentro del plazo de 180 días naturales siguientes a la entrada en vigor del presente Decreto. Durante dicho periodo, el Instituto del Deporte del Estado de Aguascalientes podrá gestionar ante las autoridades u organismos competentes en materia de cultura física y deporte el acceso a procesos de capacitación o certificación para instructores y entrenadores en ejercicio. Cumplido dicho término, no se permitirá la impartición remunerada de entrenamiento, instrucción o actividades deportivas por quienes no acrediten la certificación mínima exigida en la Ley.
+
+P.O. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 490.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 491.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
