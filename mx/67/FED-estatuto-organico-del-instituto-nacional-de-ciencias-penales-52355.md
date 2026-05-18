@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-ciencias-penales-52
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-12-05"
-last_updated: "2025-04-08"
+last_updated: "2026-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52355&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2006-11-21"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO A/002/2025 POR EL QUE SE DA A CONOCER LA NORMATIVIDAD APLICABLE DE LA FISCALÍA GENERAL DE LA REPÚBLICA, PUBLICADO EN EL D.O.F. DE 8 DE ABRIL DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES, PUBLICADO EN EL D.O.F. DE 18 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ABRIL DE 2025 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2026 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de diciembre de 2006.
 
@@ -1960,3 +1960,27 @@ CUARTO.- Se abrogan los siguientes instrumentos:
 385. Manual de Organización de Oficialía Mayor-Unidad de Planeación y Coordinación Interinstitucional (Parcial). Publicado en el Diario Oficial de la Federación el 13 de octubre de 2023.
 
 386. Manual de Organización de Oficialía Mayor-Centro de Formación y Servicio Profesional de Carrera-Unidad de Planeación y Desarrollo para la Formación de los Recursos Humanos (Parcial). Publicado en el Diario Oficial de la Federación el 13 de octubre de 2023.
+
+D.O.F. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES”.]
+
+PRIMERO.- El presente Estatuto entrará en vigor en la fecha de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto Nacional de Ciencias Penales publicado en el Diario Oficial de la Federación el 10 de febrero de 2011.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Estatuto.
+
+No obstante, los instrumentos normativos, jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, celebrados por el Instituto con anterioridad a la entrada en vigor del presente ordenamiento, continuarán vigentes en sus términos en lo que no se opongan al mismo, hasta en tanto la Junta de Gobierno o el Consejo Académico expidan la normatividad que corresponda.
+
+CUARTO.- La persona titular de la Fiscalía General ratifica la integración de la Junta de Gobierno a que se refiere el artículo 40 del presente Estatuto.
+
+QUINTO.- La Persona Rectora deberá realizar, dentro de los seis meses siguientes a la entrada en vigor del presente Estatuto, las adecuaciones estructurales, orgánicas y administrativas necesarias para su debida implementación. Para tal efecto, se coordinará con la Oficialía Mayor de la Fiscalía General, en términos de las atribuciones previstas en el presente Estatuto y demás disposiciones aplicables.
+
+Asimismo, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Estatuto, deberá elaborar o, en su caso, actualizar los manuales de organización, de procedimientos y demás instrumentos de gestión institucional que resulten necesarios, en coordinación con las unidades administrativas competentes de la Fiscalía General.
+
+SEXTO.- Los asuntos en trámite a la entrada en vigor del presente Estatuto continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio, hasta su total conclusión, en tanto no se emita la normativa que resulte aplicable.
+
+SÉPTIMO.- Las situaciones no previstas en el presente Estatuto se regirán por lo dispuesto en la Ley, sus disposiciones transitorias y demás normatividad aplicable, así como por las determinaciones que, en el ámbito de sus respectivas atribuciones, emitan los órganos colegiados y las unidades administrativas competentes del Instituto y de la Fiscalía General.
+
+OCTAVO.- Se instruye a la Persona Rectora del Instituto realizar los trámites necesarios para la publicación del presente Estatuto en el Diario Oficial de la Federación.
