@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-y-seguridad-vial-del-estado-de-182861"
 country: "mx"
 rank: "ley"
 publication_date: "2025-12-15"
-last_updated: "2026-05-04"
+last_updated: "2026-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2026.
 
 Ley publicada en la Edición Vespertina al Número 50 del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de diciembre de 2025.
 
@@ -285,7 +285,9 @@ XC. Peatón: A la persona que transita a pie por la vía pública, o aquella con
 
 XCI. Permiso: Al acto administrativo por medio del cual la Agencia autoriza a una persona física o moral a prestar el servicio público de transporte de personas o bienes, en aquellos casos donde de acuerdo a esta Ley dar servicio público no es materia de concesión;
 
-XCII. Permiso de conducir: Al título habilitante expedido por autoridad competente, que se otorga a una persona mayor de dieciséis años y menor de dieciocho años, para conducir un vehículo motorizado, pudiendo ser impreso en material plástico o de forma digital, previo cumplimiento de los requisitos legales y reglamentarios;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2026)</small>
+
+XCII. Permiso de conducir: Al título habilitante expedido por autoridad competente, que se otorga a una persona de dieciséis años y menor de dieciocho años, para conducir un vehículo motorizado, pudiendo ser impreso en material plástico o de forma digital, previo cumplimiento de los requisitos legales y reglamentarios;
 
 XCIII. Perro de asistencia: A aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
 
@@ -2667,6 +2669,16 @@ Para el registro de un vehículo de motor se deberá cumplir con lo establecido 
 
 El registro de vehículos ante la SEFI obliga a su propietario al cumplimiento de esta Ley y de los ordenamientos concordantes, y a usarlo en la forma y términos correspondientes al servicio para el que se encuentre destinado, sin más limitaciones que las modalidades que dicte el interés público.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2026)</small>
+
+Artículo 130 BIS. En caso de las motocicletas, los establecimientos que comercialicen motocicletas nuevas o usadas, previo a la entrega de la unidad, deberán realizar el registro ante la SEFI, y realizar el trámite de alta y expedición de placas, a efecto de que el vehículo sea entregado debidamente emplacado.
+
+La SEFI, en ejercicio de sus facultades, celebrará convenios de colaboración con los establecimientos de venta, los fabricantes, ensambladores, importadores, y distribuidores, para facilitar el trámite de permiso de circulación, alta y expedición de placas.
+
+Para el cumplimiento de lo dispuesto en el presente artículo, la SEFI, la Secretaría de Seguridad Pública y la Secretaría de Innovación y Gobierno Digital, definirán los criterios administrativos, operativos y tecnológicos necesarios, a fin de establecer el procedimiento ágil para el registro, asignación y expedición de placas, garantizando certeza jurídica, trazabilidad de las operaciones y control vehicular.
+
+El incumplimiento de esta obligación por parte de los establecimientos señalados en el presente artículo, será sancionado conforme a lo establecido en el artículo 391 de la presente Ley.
+
 ###### Artículo 131.
 
 Las placas son de uso individual y corresponden única y exclusivamente al vehículo para el cual fueron expedidas y son:
@@ -2823,11 +2835,17 @@ Con objeto de hacer efectivas las disposiciones de la presente Sección, a trav�
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2026)</small>
+
 ###### Artículo 145.
 
-Toda persona que conduzca un vehículo de motor dentro del territorio del Estado, deberá portar consigo licencia o permiso vigente que corresponda al tipo de vehículo utilizado, modalidad de transporte y que haya sido expedida por autoridad competente.
+Toda persona que conduzca un vehículo de motor dentro del territorio del Estado, deberá portar consigo licencia de conducir o permiso de conducir vigente que corresponda al tipo de vehículo utilizado, modalidad de transporte y que haya sido expedida por autoridad competente.
 
 Es obligación de las personas conductoras, portar y presentar la licencia o permiso de conducir vigente, al personal de las dependencias o instituciones encargadas de la seguridad pública y vialidad, cuando con motivo de sus funciones, el personal lo solicite.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2026)</small>
+
+Los permisos de conducir no autorizan la conducción de motocicletas.
 
 ###### Artículo 146.
 
@@ -2883,9 +2901,11 @@ Las licencias mencionadas en la presente fracción autorizarán conducir vehícu
 
 III. Motociclista. Autoriza conducir este tipo de vehículos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2026)</small>
+
 ###### Artículo 153.
 
-Para obtener la licencia de conducción de vehículos, previo pago de derechos, el interesado presentará la solicitud respectiva, debiendo cumplir con los requisitos que a continuación se enlistan, atendiendo al tipo solicitado:
+Para obtener la licencia de conducir y el permiso de conducir, previo pago de derechos, el interesado presentará la solicitud respectiva, debiendo cumplir con los requisitos que a continuación se enlistan, atendiendo al tipo solicitado:
 
 I. De Automovilista:
 
@@ -2931,7 +2951,9 @@ j) En caso que sea su voluntad, manifestar aprobación sobre la donación de sus
 
 III. De motociclista:
 
-Los motociclistas deberán satisfacer los mismos requisitos que los automovilistas, con excepción del relativo al examen de manejo, el cual será de motocicleta.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2026)</small>
+
+Las personas interesadas deberán satisfacer los mismos requisitos de la fracción I de este artículo. En lo relativo al examen práctico de conducción deberá ser en motocicleta. Para el caso de esta fracción, solo se otorgarán licencias de conducir.
 
 ###### Artículo 154.
 
@@ -2961,9 +2983,11 @@ Toda persona que haya obtenido licencia o permiso para conducir, deberá hacer u
 
 Si durante la vigencia de la licencia o permiso para conducir sobreviene una causa que disminuya las aptitudes necesarias para conducir vehículos de motor, se suspenderá la licencia durante el tiempo que dure la incapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2026)</small>
+
 ###### Artículo 158.
 
-Las personas menores de dieciséis años podrán solicitar por intermedio de sus padres o representantes legales la expedición y/o renovación del permiso para conducir vehículos motorizados de servicio particular, de manera física o electrónica, previo pago de los derechos correspondientes, además de entregar la copia del permiso para conducir que se pretenda renovar, o en su defecto, proporcionar el número de dicho permiso y contar con la validación de la SSP sobre la inexistencia de algún impedimento judicial o administrativo para conducir vehículos de motor. Deberá además satisfacer los siguientes requisitos:
+Las personas de dieciséis años y menores de dieciocho años deberán solicitar por intermedio de sus padres o representantes legales la expedición y/o renovación del permiso para conducir vehículos motorizados de servicio particular, exclusivamente para la categoría automovilista, de conformidad con lo establecido en la fracción I del artículo 152 de la Ley, ya sea, de manera física o electrónica, previo pago de los derechos correspondientes, además de entregar la copia del permiso para conducir que se pretenda renovar, o en su defecto, proporcionar el número de dicho permiso y contar con la validación de la SSP sobre la inexistencia de algún impedimento judicial o administrativo para conducir vehículos de motor. Deberá además satisfacer los siguientes requisitos:
 
 I. Hacerse acompañar por uno de los padres o tutores y presentar solicitud debidamente firmada por ellos, quienes responderán de forma solidaria en la responsabilidad en que incurra el menor solicitante del permiso;
 
@@ -4795,6 +4819,10 @@ Las motocicletas, cuyo cilindraje sea igual o superior a los 400 centímetros c�
 
 Las motocicletas de competencia o con aditamentos especiales no podrán circular en áreas urbanas salvo que sean acondicionadas con el equipo de iluminación que señala la presente Ley, así como la instalación de silenciador afinado a un máximo de 90 decibeles.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2026)</small>
+
+Las motocicletas deberán portar placas de circulación visibles y legibles conforme a las disposiciones que determine la autoridad competente.
+
 ###### Artículo 307.
 
 Las personas conductoras de motocicletas tendrán las siguientes obligaciones:
@@ -4811,7 +4839,9 @@ V. Para rebasar un vehículo de motor deberán utilizar el carril de la izquierd
 
 VI. Las personas conductoras de motocicletas deberán usar en la noche o cuando no hubiere suficiente visibilidad durante el día, el sistema de alumbrado tanto en la parte delantera como en la posterior;
 
-VII. Las personas conductoras de motocicletas y en su caso sus acompañantes, deberán llevar puestos cascos protectores certificados de conformidad con las Normas Oficiales Mexicanas, abrochados y correctamente colocados durante sus viajes;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2026)</small>
+
+VII. Las personas conductoras de motocicletas y en su caso sus acompañantes, deberán llevar puestos cascos protectores certificados de conformidad con las Normas Oficiales Mexicanas, abrochados y correctamente colocados durante sus viajes, tratándose de niñas, niños y adolescentes, deberán portar un casco acorde a su tamaño y correctamente ajustado;
 
 VIII. Se abstendrán de asirse o sujetar su vehículo a otros que transiten por la vía pública;
 
@@ -4819,9 +4849,21 @@ IX. Señalar de forma anticipada que van a efectuar una vuelta;
 
 X. No llevarán carga que dificulte su visibilidad, equilibrio, adecuada operación o constituya peligro para sí u otras personas usuarias de la vía pública;
 
-XI. No deberán adelantar vehículos circulando por el espacio que dejan los mismos entre los carriles; y
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2026)</small>
 
-XII. Las demás que disponga la normatividad aplicable.
+XI. No deberán adelantar vehículos circulando por el espacio que dejan los mismos entre los carriles;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2026)</small>
+
+XII. Quitarse el casco cuando ingresen a edificios públicos y lugares privados con acceso público, a efecto de permitir su identificación;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2026)</small>
+
+XIII. Dar aviso a la SEFI de la traslación de dominio de las motocicletas, a efecto de que mantenga actualizado el registro correspondiente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MAYO DE 2026)</small>
+
+XIV. Las demás que disponga la normatividad aplicable.
 
 ###### Artículo 308.
 
@@ -4851,9 +4893,11 @@ IX. Asegurarse de que todos los pasajeros de entre uno y cuatro años de edad o 
 
 X. Asegurarse de que todos los pasajeros de entre cuatro y ocho años de edad que pesen más de 18 y hasta 27 kilogramos, viajen en asientos elevados que reúnan las características establecidas en el Reglamento, colocados en los asientos traseros cuando el automóvil esté provisto de ellos y mirando hacia la parte delantera del vehículo que conduzca.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2026)</small>
+
 ###### Artículo 310.
 
-En el ámbito de sus facultades, el Gobierno del Estado y los municipios deberán implantar actividades permanentes de concientización a la población, a efecto de que el uso de cinturones de seguridad y de asientos de seguridad para menores de edad sea una práctica cotidiana e institucionalizada.
+En el ámbito de sus facultades, el Gobierno del Estado y los municipios deberán implantar actividades permanentes de concientización a la población sobre seguridad y civilidad vial, a efecto de que el uso de cinturones de seguridad y de asientos de seguridad para niñas y niños sea una práctica cotidiana e institucionalizada.
 
 ###### Artículo 311.
 
@@ -6476,3 +6520,19 @@ Los beneficios mencionados deberán contemplarse desde el ejercicio fiscal vigen
 ###### ARTÍCULO TERCERO.
 
 En un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto, la autoridad competente deberá emitir los lineamientos para la acreditación, identificación y operación del beneficio a favor de mujeres embarazadas.
+
+P.O. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 506.- SE REFORMA LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo tendrá 90 días naturales para armonizar reglamentos y emitir los criterios administrativos, operativos y tecnológicos necesarios, a fin de establecer el procedimiento ágil para el registro, asignación y expedición de placas de motocicletas al momento de la venta.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
