@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2026-02-06"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2026.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -1427,7 +1427,13 @@ Artículo 79 (Reincidencia)
 
 Hay reincidencia, cuando a una persona se le condene por un delito doloso, no obstante que antes fue condenada en sentencia ejecutoria por un delito doloso, ya sea en el fuero común o en el federal, sin que haya transcurrido el tiempo de la pena de prisión que se le impuso, más un lapso equivalente a una cuarta parte de esa pena, sin que este último período pueda exceder de tres años.
 
-También habrá reincidencia de una persona moral, cuando la misma se actualice en los términos del párrafo anterior, respecto a cualquiera de los sujetos activos cualificados señalados en el artículo 68 de este código, siempre y cuando el sujeto activo haya actuado por medio de la misma persona moral en cualquiera de los supuestos previstos en los párrafos segundo y tercero de dicho artículo 68.
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+Cuando la reincidencia se refiera al delito de narcomenudeo, conforme a lo previsto en el artículo 475 de la Ley General de Salud, y sea perseguido por la vía local conforme a los convenios de coordinación aplicables, la persona juzgadora deberá aumentar la pena hasta en dos terceras partes respecto del máximo previsto, y no podrá concederse a la persona sentenciada ningún beneficio de libertad anticipada, condena condicional ni sustitutivo de la pena de prisión.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
+
+También habrá reincidencia de una persona moral, cuando la misma se actualice en los términos de los párrafos anteriores, respecto a cualquiera de los sujetos activos cualificados señalados en el artículo 68 de este código, siempre y cuando el sujeto activo haya actuado por medio de la misma persona moral en cualquiera de los supuestos previstos en los párrafos segundo y tercero de dicho artículo 68.
 
 ### Capítulo Tercero. Punibilidad para concurso de delitos, delitos continuados y delitos conexos
 
@@ -4237,15 +4243,21 @@ Asimismo, se extinguirá la acción, o no se impondrá pena alguna o no se ejecu
 
 ### Capítulo Único. Delitos de crueldad y violencia contra seres sintientes
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 19 DE MAYO DE 2026)</small>
 
-Artículo 261 (Crueldad y violencia contra los seres sinitentes (sic))
+###### Artículo 261.
+
+(Crueldad y violencia contra los seres sintientes)
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 A. (Pautas específicas de aplicación)
 
 Toda persona tiene la obligación de respetar a los seres sintientes vivos vertebrados, no humanos, que no constituyan plaga y con arreglo a las disposiciones aplicables.
 
 Los seres sintientes objeto de violencia o crueldad a que se refiere este artículo sólo serán los que se comprenden en el párrafo precedente.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 B. (Delitos de crueldad contra seres sintientes)
 
@@ -4269,9 +4281,11 @@ Mutile cualquier parte del cuerpo de un ser sintiente vivo, o lo intervenga quir
 
 No será punible la mutilación de un ser sintiente que se realice para marcarlo o castrarlo, por su higiene, o por motivos de piedad.
 
-V. (Lesiones con fines perversos)
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
 
-Cause lesiones a un ser sintiente por medio de cualquier arma, instrumento, objeto, medio o método, por venganza, odio o diversión.
+V. (Lesiones contra seres sintientes)
+
+A quien de manera intencional cause lesiones a un ser sintiente por medio de cualquier arma, instrumento, objeto, medio o método, sin que pongan en peligro su vida, pero le ocasione dolor o sufrimiento afectando su bienestar.
 
 VI. (Modalidad agravante para los delitos de crueldad a un ser sintiente)
 
@@ -4279,17 +4293,37 @@ Se aumentará en una mitad los mínimos y máximos de las penas señaladas en el
 
 Cuando el ser intiente (sic) muera a causa de las conductas previstas en las fracciones anteriores, se aumentarán al doble los mínimos y máximos de las penas señaladas al inicio de este apartado.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 C. (Delito de violencia contra los seres sintientes)
 
 Se impondrá de dos a seis años de prisión y de mil a dos mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, a quien organice, explote, financie, promueva o realice, por cuenta propia o ajena, actos de maltrato de un ser sintiente que deriven en zoofilia, pelea de seres sintientes entre sí o con ejemplares de otra especie, ya sea en un espectáculo público o privado, salvo lo exceptuado en las Leyes de Protección a los Animales.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+D. (Sustracción ilícita de seres sintientes de compañía)
+
+Se impondrá de dos a cuatro años de prisión y de cien a quinientos días multa al que dolosamente sustraiga ilícitamente a un ser sintiente de compañía del lugar en que se encuentre, sea ocultado de su dueño o retenido en contra de la voluntad de este, salvo que el acto tenga por objeto preservar la integridad física o vida del ser sintiente. La pena prevista se aumentará en una mitad el mínimo y el máximo de las penas señaladas, cuando el sujeto activo obtenga un lucro indebido con motivo de esta conducta o realice actos tendientes a obtenerlo, así como cuando se trate de un ser sintiente de servicio o asistencia, en los términos de las leyes aplicables en el Estado. En los supuestos de este apartado, el delito se perseguirá por querella.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 Los seres sintientes que hayan sido objeto de decomiso a que se refiere este artículo, podrán ser puestos bajo los cuidados de las asociaciones protectoras de seres sintientes debidamente registradas que lo soliciten, hasta en tanto se determine su destino legal.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
 En caso de que la conducta prevista en el presente artículo sea provocada por médico veterinario o persona relacionada con el cuidado, resguardo o comercio de seres sintientes, además de las penas anteriores se aplicará la suspensión o inhabilitación, según sea el caso, por un lapso de uno a cinco años del empleo, cargo, profesión, oficio, autorización, licencia, comercio o cualquier circunstancia bajo la cual hubiese cometido el delito.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 Las mismas penas se aplicarán a los agentes del estado que teniendo conocimiento de los actos no realicen actividad para prevenirlo, salvaguardar al ser sintiente o sus restos.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2023)</small>
+
 En estos delitos se considerará como parte de la reparación del daño el trabajo bajo supervisión de instituciones privadas o a cargo del estado que brinden apoyo y/o atención a seres sintientes preferentemente de la misma especie que aquellos sobre los que recayó la conducta delictiva.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+Adicionalmente a las penas previstas en este capítulo, la autoridad podrá sujetar como medida de seguridad al agente a recibir tratamiento psicológico especializado, que en ningún caso excederá del tiempo de la pena de prisión impuesta e independientemente de las penas que correspondan por cualquier otro delito que resulte.
 
 ## Título Undécimo. Delitos contra la filiación y el matrimonio
 
@@ -8590,3 +8624,31 @@ P.O. 6 DE FEBRERO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 447.- SE REFORMA EL EPÍGRAFE; Y SE ADICIONA UN APARTADO D, Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 261, DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 452.- SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIENDO EL ULTERIOR AL ARTÍCULO 79 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 453.- SE REFORMA LA FRACCIÓN V DEL INCISO B DEL ARTÍCULO 261 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
