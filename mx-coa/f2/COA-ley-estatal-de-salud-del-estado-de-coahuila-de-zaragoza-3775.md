@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2025-05-20"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -103,9 +103,13 @@ A. En materia de Salubridad General:
 
 I. La atención médica, preferentemente en beneficio de grupos vulnerables;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
 
-II. La atención materno-infantil, de cáncer cérvico uterino y el de mama de la mujer;
+II. La atención materno-infantil;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2026)</small>
+
+II Bis. La atención de la salud de las mujeres, incluyendo el cáncer cervicouterino y el de mama;
 
 III. La prestación de servicios de planificación familiar;
 
@@ -457,6 +461,10 @@ IV. Formular y desarrollar programas municipales de salud en el marco del Sistem
 
 V. Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes.
 
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2026)</small>
+
+VI. Diseñar, implementar y evaluar, de acuerdo a su capacidad presupuestal, programas de prevención de enfermedades y promoción de la salud, con énfasis en la medicina preventiva, fomentando hábitos saludables en la población a través de campañas de educación en salud, nutrición, actividad física, detección temprana de enfermedades y reducción de factores de riesgo, en coordinación con las autoridades estatales y federales.
+
 ###### Artículo 15.
 
 Se entenderá por norma técnica el conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por la Secretaría de Salud del Estado, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
@@ -777,6 +785,14 @@ La atención materno-infantil tiene carácter prioritario y comprende las siguie
 
 I. La atención de la mujer durante el embarazo, parto y puerperio, informando del derecho al acompañamiento de una persona de su confianza en las consultas prenatales y en el proceso de parto, incluida la cesárea y el puerperio;
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+La atención de la mujer en el establecimiento de salud se garantizará de acuerdo con los protocolos de parto humanizado, entendiendo este como el modelo de atención en el que se facilita un ajuste de la asistencia médica a la cultura, creencias, valores y expectativas de la mujer, respetando la dignidad humana, así como sus derechos y los de la persona recién nacida, evitando prácticas invasivas y suministro de medicación que no estén justificados médicamente.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+Lo anterior en términos de la Ley General de Salud, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Norma Oficial Mexicana NOM-007-SSA2-2016 y demás normatividad aplicable.
+
 La atención a la mujer y a la persona recién nacida debe ser proporcionada con calidad y respeto de sus derechos humanos, principalmente a su dignidad y cultura, brindando apoyo psicológico durante su evolución.
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2020)</small>
@@ -803,6 +819,10 @@ VI. La prevención de la preeclampsia y eclampsia. En el caso de la detección d
 
 VII. La atención y acompañamiento psicológico y/o psiquiátrico a la mujer antes, durante y después del parto, así como cuando haya sufrido una muerte fetal o neonatal.
 
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2026)</small>
+
+VIII. La atención a niñas, niños y adolescentes en su vigilancia durante el crecimiento y desarrollo, incluyendo acciones para lograr identificar oportunamente signos y síntomas de cáncer en la infancia y la adolescencia.
+
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2020)</small>
 
 El derecho a la protección de la salud de los niños y las niñas en su primera infancia es una prioridad estatal, por lo tanto, los padres, madres, tutores o quienes ejerzan la patria potestad o guardia y custodia de los mismos, deberán acudir de manera obligatoria a las instituciones de salud pública o privada para que los menores de edad reciban todas sus vacunas contra enfermedades transmisibles, prevenibles por ese medio de inmunización, que estime necesarias la Secretaría de Salud.
@@ -816,6 +836,66 @@ En todo caso, se deberá proporcionar intervención psicológica especializada y
 Ninguna mujer en duelo por muerte fetal o neonatal podrá ser objeto de maltrato psicológico o físico durante la atención del embarazo, parto o puerperio. Los prestadores de servicios de salud deberán ofrecer un trato digno, empático y respetuoso a la mujer en duelo y a su familia, así como al bebé fallecido, durante todo el periodo de atención hospitalaria.
 
 Las instituciones de salud deberán capacitar al personal para que adopten conductas de empatía y respeto por el duelo de cada madre que haya sufrido la muerte fetal o neonatal, así como de las personas que la acompañen.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+Artículo 56 bis 1. Las instituciones de salud públicas deberán contar con protocolos específicos para la atención integral al duelo gestacional y perinatal, que garanticen un trato digno, empático y respetuoso y libre de discriminación hacia las personas gestantes, madres, padres y familiares, de conformidad con los principios de derechos humanos, salud mental, igualdad de género y protección a la dignidad humana.
+
+El personal médico, paramédico, de enfermería, psicología, trabajo social y administrativo deberá recibir capacitación obligatoria, continua y con enfoque especializado en atención al duelo gestacional y perinatal, con el fin de contar con herramientas profesionales para brindar acompañamiento humanizado e informado.
+
+En todos los casos de pérdida gestacional o neonatal, las instituciones de salud deberán proporcionar a la madre una atención psicológica, emocional y de acompañamiento en el duelo gestacional y perinatal.
+
+Las personas gestantes, madres, padres y familiares tendrán derecho a:
+
+l. Recibir información clara y suficiente sobre la situación clínica y causas del fallecimiento del/la bebé;
+
+II. Ver y despedirse de su hijo o hija recién nacida fallecida, siempre que así lo deseen de acuerdo a los protocolos médicos de las unidades aplicativas;
+
+III. Realizar un acto de despedida en un espacio adecuado y digno;
+
+IV. Recibir al menos diez días hábiles de permiso laboral por duelo, tanto para la persona gestante como para el padre, sin afectaciones salariales ni contractuales, tratándose de aquellos trabajadores al servicio del Estado.
+
+El acceso a estos derechos será gratuito y no podrá condicionarse bajo ningún supuesto, salvo por las restricciones sanitarias o de seguridad que determine la autoridad médica.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+Artículo 56 bis 2. Las instituciones de salud pública estatal deberán contar con un espacio físico especialmente destinado al acompañamiento en la pérdida de una hija o hijo recién nacido, denominado Sala de Despedida. Estos espacios deberán ser diseñados bajo criterios de privacidad, contención, respeto, dignidad y acompañamiento emocional.
+
+En este espacio se permitirá, de manera privada y opcional:
+
+I. La despedida por el fallecimiento de una hija o hijo recién nacido;
+
+II. La realización de actos de despedida en un espacio adecuado y digno, atendiendo los lineamientos del hospital;
+
+III. El acompañamiento por parte de personal capacitado en duelo gestacional y perinatal.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+Artículo 56 bis 3. En todos los casos de pérdida gestacional o neonatal, las instituciones de salud públicas del estado deberán proporcionar a la madre una atención, psicológica y emocional, que incluya como mínimo:
+
+I. Brindar información clara, empática y oportuna sobre los efectos fisiológicos de la lactancia tras la pérdida;
+
+II. Ofrecer opciones seguras y acompañadas para el manejo de la lactancia, incluyendo la posibilidad de donación voluntaria de leche materna, suspensión gradual o extracción simbólica;
+
+III. Proporcionar acceso a acompañamiento psicológico con enfoque en duelo gestacional y perinatal, con enfoque en salud mental materna y corporalidad;
+
+IV. Acceso a seguimiento psicológico posterior a la pérdida, por un periodo mínimo de tres a seis meses;
+
+V. Garantizar el acceso a grupos de apoyo emocional especializados, dentro del sistema de salud pública estatal;
+
+VI. Recabar en todo momento el consentimiento informado de la madre, evitando cualquier acto de re victimización y garantizando la dignidad de su experiencia corporal y emocional;
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+Artículo 56 bis 4. Las madres y padres que sufran una pérdida gestacional, perinatal o neonatal tendrán derecho a un periodo de permiso laboral por duelo, con goce de sueldo, tratándose de aquellos trabajadores al servicio del Estado, en los términos siguientes:
+
+I. La madre trabajadora podrá gozar de un permiso de hasta veinte días hábiles posteriores al evento, sin riesgo de pérdida de su empleo ni disminución de sus derechos laborales;
+
+II. El padre trabajador tendrá derecho a un permiso de hasta diez días hábiles posteriores al evento, sin riesgo de pérdida de su empleo ni disminución de sus derechos laborales;
+
+III. En los casos en que existan complicaciones médicas o psicológicas derivadas de la pérdida, podrá ampliarse el periodo de permiso, previo dictamen médico y psicológico de las instituciones de salud correspondientes;
+
+IV. Ningún empleador podrá negar, condicionar o limitar este derecho, ni ejercer represalias en contra de las personas trabajadoras que lo soliciten.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2020)</small>
 
@@ -848,6 +928,10 @@ III. Acciones para controlar las enfermedades prevenibles por vacunación, los p
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
 IV. La Red de Apoyo a las Mujeres Embarazadas y los mecanismos informativos y técnicos necesarios para asegurarles su derecho a atención médica oportuna y eficiente para ellas y sus hijos en infancia temprana.
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2026)</small>
+
+V. La promoción, identificación y búsqueda intencionada de los signos y síntomas de alerta para sospecha de cáncer en niñas, niños y adolescentes.
 
 ###### Artículo 60.
 
@@ -1025,15 +1109,49 @@ IV.- La coordinación con la Secretaría de Educación del Estado a efecto de fo
 
 V.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud dental de la población.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MAYO DE 2026)</small>
+
+### CAPITULO X. ATENCION A LA SALUD DE LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+###### Artículo 70 Bis 3.
+
+Sin menoscabo de los servicios proporcionados mediante la atención materno-infantil, la planificación familiar y de salud sexual y reproductiva, la atención a la salud de las mujeres comprende principalmente acciones de promoción, prevención, detección, tratamiento, rehabilitación y control en materia de:
+
+I. Cáncer cérvico uterino;
+
+II. Cáncer de mama;
+
+III. Salud ginecológica en general;
+
+IV. Climaterio y Menopausia;
+
+V. Enfermedades cardiovasculares;
+
+VI. Enfermedades de transmisión sexual;
+
+VII. Trastornos de la salud mental;
+
+VIII. Las demás que determine la Secretaría.
+
+Para garantizar el derecho a la salud de las mujeres, la Secretaría dispondrá las medidas para que en todo proceso de atención a su salud se garanticen sus derechos a la privacidad, el consentimiento informado y la no discriminación.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+###### Artículo 70 Bis 4.
+
+La Secretaría, en coordinación con las instituciones del sector salud, fomentará y desarrollará programas con acciones de promoción, prevención, detección, tratamiento y rehabilitación para atender de manera integral la salud de las mujeres, de acuerdo a las normas oficiales establecidas.
+
+En la medida de sus posibilidades, promoverá la organización de un Comité Interdisciplinario de Salud de las Mujeres con el propósito de promover la inclusión de la perspectiva de género en las acciones de investigación, prevención, atención, conocimiento, tratamiento y rehabilitación de la salud.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2019)</small>
+
+## TÍTULO CUARTO. RECURSOS HUMANOS PARA EL EJERCICIO DE LA SALUD
 
 ### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
-
-## TÍTULO CUARTO. RECURSOS HUMANOS PARA EL EJERCICIO DE LA SALUD
-
-### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### Artículo 71.
 
@@ -1083,7 +1201,7 @@ Las autoridades educativas del Estado proporcionarán a las autoridades sanitari
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares, y las especialidades a que se refiere este capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título profesional, de especialidad, la cédula profesional, de especialidad, los documentos que acrediten la certificación vigente del ejercicio profesional, y demás documentos que acrediten el legal ejercicio de su profesión, siempre y cuando la profesión y/o especialidad así lo requiera. Iguales menciones deberán considerarse en los documentos, receta médica y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen a su respecto.
 
-### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
+### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### Artículo 75.
 
@@ -1111,9 +1229,7 @@ Para los efectos del párrafo anterior el Gobierno del Estado, en coordinación 
 
 El Gobierno del Estado, a través de la Secretaría de Salud y con la participación de las instituciones de educación superior, elaborará programas de carácter social para profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables para el ejercicio profesional.
 
-### CAPÍTULO IV. DEL EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
 
 ###### Artículo 80.
 
@@ -1165,7 +1281,9 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE ENERO DE 2019)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO IV. DEL EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
 
 ###### Artículo 84 Bis.
 
@@ -1277,7 +1395,7 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ## TITULO SEXTO. INFORMACION PARA LA SALUD
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 ###### Artículo 90.
 
@@ -1315,7 +1433,7 @@ La Secretaría de Salud integrará la información demográfica del Registro Est
 
 ## TITULO SEPTIMO. PROMOCION DE LA SALUD
 
-### CAPITULO II. EDUCACION PARA LA SALUD
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 92.
 
@@ -1337,9 +1455,7 @@ IV. Salud ocupacional, y
 
 V. Fomento sanitario.
 
-### CAPITULO III. NUTRICION
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+### CAPITULO II. EDUCACION PARA LA SALUD
 
 ###### Artículo 94.
 
@@ -1379,9 +1495,9 @@ V. La educación para la cultura de la donación altruista de órganos y trasfus
 
 La Secretaría de Salud del Estado, en coordinación con las autoridades federales, estatales y municipales que correspondan, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+### CAPITULO III. NUTRICION
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 96.
 
@@ -1403,9 +1519,9 @@ Lo anterior, estipulando la autoridad competente como requisito para la proceden
 
 En los programas a que se refieren los artículos anteriores, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
-### CAPITULO V. SALUD OCUPACIONAL
+### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 98.
 
@@ -1455,7 +1571,9 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 La Secretaría de Salud del Estado, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población, para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO V. SALUD OCUPACIONAL
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 104.
 
@@ -1469,9 +1587,7 @@ El Gobierno del Estado, en coordinación con las dependencias y entidades federa
 
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO II. ENFERMEDADES TRANSMISIBLES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 106.
 
@@ -1487,7 +1603,9 @@ III. Coadyuvar en la aplicación de programas y actividades que establezca la Se
 
 IV. Coordinar acciones con la Secretaría de Salud del Gobierno Federal, para lograr la eliminación de transmisión materno infantil del VIH y Sífilis en el Estado.
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 107.
 
@@ -1653,7 +1771,7 @@ III. Vehículo de enfermedades transmisibles a las personas, a través de sus pr
 
 Se prohíbe la introducción o el transporte por el territorio del Estado, de animales que padezcan una enfermedad transmisible a las personas, de cadáveres de aquéllos, así como el comercio con sus productos. Asimismo, se prohíbe la introducción o el transporte de animales que provengan de áreas que la autoridad sanitaria federal considere infectadas.
 
-### CAPITULO IV. ACCIDENTES
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### Artículo 121.
 
@@ -1687,9 +1805,7 @@ VII. Las demás que sean necesarias para la prevención, tratamiento y control d
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+### CAPITULO IV. ACCIDENTES
 
 ###### Artículo 124.
 
@@ -1721,7 +1837,7 @@ Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Acci
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2019)</small>
 
-### CAPITULO II. DE LOS DERECHOS DE LOS ENFERMOS EN SITUACION TERMINAL
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
@@ -1783,7 +1899,7 @@ Corresponde al Sistema Estatal de Salud garantizar el pleno, libre e informado e
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2019)</small>
 
-### CAPITULO III. DE LAS FACULTADES Y OBLIGACIONES DE LAS INSTITUCIONES DE SALUD
+### CAPITULO II. DE LOS DERECHOS DE LOS ENFERMOS EN SITUACION TERMINAL
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
@@ -1867,7 +1983,7 @@ Todos los documentos a que se refiere este título se regirán de acuerdo a lo q
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE ABRIL DE 2019)</small>
 
-### CAPITULO IV. DE LOS DERECHOS, FACULTADES Y OBLIGACIONES DE LOS MEDICOS Y PERSONAL SANITARIO
+### CAPITULO III. DE LAS FACULTADES Y OBLIGACIONES DE LAS INSTITUCIONES DE SALUD
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
@@ -1891,7 +2007,9 @@ VI. Garantizarán la capacitación y actualización permanente de los recursos h
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2019)</small>
 
-### CAPITULO UNICO
+### CAPITULO IV. DE LOS DERECHOS, FACULTADES Y OBLIGACIONES DE LOS MEDICOS Y PERSONAL SANITARIO
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
 ###### Artículo 125 Bis 11.
 
@@ -1969,9 +2087,7 @@ Queda prohibida, la práctica de la eutanasia, entendida como homicidio por pied
 
 ## TITULO NOVENO. PREVENCION EN MATERIA DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+### CAPITULO UNICO
 
 ###### Artículo 126.
 
@@ -2097,9 +2213,9 @@ Los servicios de rehabilitación que proporcionen los establecimientos del Secto
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPÍTULO II. PROGRAMA CONTRA EL ABUSO DE LAS BEBIDAS ALCOHÓLICAS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 148.
 
@@ -2177,9 +2293,9 @@ VII. Proteger la salud y el bienestar de la población frente al uso, consumo o 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPÍTULO III. PROGRAMA CONTRA EL TABAQUISMO
+### CAPÍTULO II. PROGRAMA CONTRA EL ABUSO DE LAS BEBIDAS ALCOHÓLICAS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 150.
 
@@ -2233,7 +2349,7 @@ El Ejecutivo del Estado y los Municipios, deberán incluir en su informe anual, 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPÍTULO IV. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPÍTULO III. PROGRAMA CONTRA EL TABAQUISMO
 
 > <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -2267,9 +2383,9 @@ III. Las demás previstas en esta Ley, la Ley para la Protección de los No Fuma
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO IV. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 154.
 
@@ -2459,9 +2575,9 @@ VI. Las demás previstas para el cumplimiento de esta Ley.
 
 DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### Artículo 156.
 
@@ -2517,7 +2633,9 @@ Los propietarios, encargados o responsables de los establecimientos en que se ex
 
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 160.
 
@@ -2575,7 +2693,7 @@ La autoridad sanitaria competente publicará en el Periódico Oficial del Gobier
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efecto a partir del día siguiente de su publicación.
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### Artículo 167.
 
@@ -2593,7 +2711,7 @@ La Secretaría de Salud del Estado, verificará que los mercados y centros de ab
 
 Los vendedores, locatarios y personas que su actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ###### Artículo 170.
 
@@ -2641,7 +2759,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### Artículo 179.
 
@@ -2675,9 +2793,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación, traslado y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las normas oficiales mexicanas que dicte la Secretaría de Salud del Gobierno Federal.
 
-### CAPITULO VI. RASTROS
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### Artículo 185.
 
@@ -2721,7 +2837,9 @@ El Gobierno del Estado, por conducto de los municipios, proveerá de depósitos 
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley, otras disposiciones legales aplicables, las normas oficiales mexicanas y las normas técnicas correspondientes.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 191.
 
@@ -2769,7 +2887,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios y medi
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades sanitaria y municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 199.
 
@@ -2809,7 +2927,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las disposiciones legales aplicables.
 
-### CAPITULO IX. PROSTITUCION
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### Artículo 208.
 
@@ -2835,9 +2953,7 @@ Los establecimientos a que se refiere este capítulo, no podrán estar ubicados 
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el artículo 208 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas técnicas correspondientes.
 
-### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
-
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+### CAPITULO IX. PROSTITUCION
 
 ###### Artículo 211.
 
@@ -2877,7 +2993,9 @@ Queda prohibido el funcionamiento de prostíbulos en lugares cercanos a las áre
 
 Para la determinación del criterio de cercanía, se medirá una distancia de tres kilómetros a los puntos señalados en el párrafo anterior, el cual se considerará área no autorizada.
 
-### CAPITULO XI. BAÑOS Y ALBERCAS PÚBLICOS
+### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
 
 ###### Artículo 218.
 
@@ -2913,7 +3031,7 @@ III. Las instalaciones seguras, privadas y adecuadas que permitan a las mujeres 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MAYO DE 2020)</small>
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XI. BAÑOS Y ALBERCAS PÚBLICOS
 
 ###### Artículo 222.
 
@@ -2935,9 +3053,7 @@ Para abrir al servicio público estos establecimientos, deberán sujetarse al cu
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas en materia de salubridad local correspondientes que dicte la Secretaría de Salud del Estado.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIA, SALONES DE BELLEZA, ESTETICAS Y OTROS SIMILARES
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### Artículo 225.
 
@@ -2951,7 +3067,9 @@ La Secretaría de Salud del Estado, podrá en cualquier momento ordenar la claus
 
 El funcionamiento de los establecimientos a que se refiere el Artículo 225 de esta Ley, deberá acatarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIA, SALONES DE BELLEZA, ESTETICAS Y OTROS SIMILARES
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 228.
 
@@ -2965,7 +3083,7 @@ Conforme a lo anterior, queda expresamente prohibido que en las peluquerías, sa
 
 El funcionamiento y personal de los establecimientos señalados en el Artículo 228 deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables, y las normas técnicas correspondientes.
 
-### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### Artículo 230.
 
@@ -2981,7 +3099,7 @@ III. Lavadero público: el establecimiento al cual acuden los interesados para r
 
 Corresponde a la autoridad sanitaria competente ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### Artículo 232.
 
@@ -2997,7 +3115,7 @@ La Secretaría de Salud del Estado, realizará la verificación sanitaria a los 
 
 Para la construcción, acondicionamiento y/o funcionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, se deberá cumplir con lo establecido en esta Ley y demás disposiciones aplicables.
 
-### CAPITULO XVII. GASOLINERIAS
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### Artículo 235.
 
@@ -3007,7 +3125,7 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes que circulen por uno o más municipios del Estado de Coahuila no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas técnicas que para tal efecto se emitan.
 
-### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPITULO XVII. GASOLINERIAS
 
 ###### Artículo 237.
 
@@ -3017,23 +3135,7 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO XIX. GUARDERÍAS, ASILOS Y CASAS HOGAR
-
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2010)</small>
-
-Artículo 242 bis. Para los efectos de esta Ley, se entiende por:
-
-I. Guardería: Establecimiento dedicado a cuidar y atender a menores de los 43 días de nacidos hasta los seis años de edad;
-
-II. Asilo: Establecimiento dedicado a dar asistencia a personas adultas mayores.
-
-III. Casa Hogar: Establecimiento destinado a proporcionar asistencia a menores o adolescentes necesitados o que se encuentren en situación extraordinaria.
-
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2010)</small>
-
-Artículo 242 bis 1. El funcionamiento y personal de los establecimientos señalados en el presente capítulo, deberán apegarse a lo establecido en esta Ley, a las normas técnicas correspondientes y otras disposiciones legales aplicables.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ENERO DE 2020)</small>
+### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
 
 ###### Artículo 239.
 
@@ -3069,6 +3171,24 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2010)</small>
 
+### CAPITULO XIX. GUARDERÍAS, ASILOS Y CASAS HOGAR
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2010)</small>
+
+Artículo 242 bis. Para los efectos de esta Ley, se entiende por:
+
+I. Guardería: Establecimiento dedicado a cuidar y atender a menores de los 43 días de nacidos hasta los seis años de edad;
+
+II. Asilo: Establecimiento dedicado a dar asistencia a personas adultas mayores.
+
+III. Casa Hogar: Establecimiento destinado a proporcionar asistencia a menores o adolescentes necesitados o que se encuentren en situación extraordinaria.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2010)</small>
+
+Artículo 242 bis 1. El funcionamiento y personal de los establecimientos señalados en el presente capítulo, deberán apegarse a lo establecido en esta Ley, a las normas técnicas correspondientes y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ENERO DE 2020)</small>
+
 ### CAPITULO XX. DE LOS ESTABLECIMIENTOS DEDICADOS A LA COLOCACIÓN DE TATUAJES, MICROPIGMENTACIONES Y PERFORACIONES EN PERSONAS
 
 > <small>(ADICIONADO, P.O. 21 DE ENERO DE 2020)</small>
@@ -3091,11 +3211,9 @@ Queda prohibido realizar tatuajes, micropigmentaciones y perforaciones a persona
 
 Los establecimientos deberán mostrar al cliente todo el material debidamente cerrado, nuevo y esterilizado, mismo que será utilizado en cualquiera de sus procedimientos. Asimismo, deberán realizar una inspección general de toda persona que se atienda.
 
-### CAPITULO I. AUTORIZACIONES
-
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### Artículo 243.
 
@@ -3141,7 +3259,7 @@ Los establecimientos que prestan servicios de asistencia social, no requerirán 
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### Artículo 248.
 
@@ -3201,7 +3319,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efecto, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### Artículo 256.
 
@@ -3277,7 +3395,7 @@ Sin perjuicio de lo dispuesto en el párrafo anterior, para el traslado o inhuma
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### Artículo 261.
 
@@ -3381,7 +3499,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 273.
 
@@ -3501,7 +3619,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 286.
 
@@ -3615,7 +3733,7 @@ Artículo 297 bis 1. Las infracciones a las disposiciones de esta Ley, constitut
 
 Artículo 297 bis 2. Las autoridades de seguridad pública, procuración e impartición de justicia en el Estado podrán conocer y resolver los delitos que la Ley General de Salud establezca de su competencia.
 
-### CAPITULO IV. RECURSOS DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 298.
 
@@ -3703,7 +3821,7 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSOS DE INCONFORMIDAD
 
 ###### Artículo 308.
 
@@ -3778,6 +3896,8 @@ III. Que fueren de difícil reparación los daños y perjuicios que se causen al
 ###### Artículo 319.
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### Artículo 320.
 
@@ -4394,6 +4514,50 @@ P.O. 30 DE ENERO DE 2024.
 P.O. 20 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 249.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 6o, DE LA LEY ESTATAL DE SALUD”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 432.- SE ADICIONAN LOS ARTÍCULOS 56 BIS 1, 56 BIS 2, 56 BIS 3 Y 56 BIS 4 A LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 90 días, contados a partir de la entrada en vigor del presente Decreto, las instituciones de salud públicas deberán dar cumplimiento al contenido del mismo.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 433.- SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO, RECORRIENDO EL SUBSECUENTE, A LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 434.- SE REFORMA EL CONTENIDO DE LA FRACCIÓN II Y SE ADICIONA LA FRACCIÓN II BIS AL APARTADO "A" DEL ARTÍCULO 4º; Y SE ADICIONA EL CAPÍTULO X "ATENCIÓN A LA SALUD DE LAS MUJERES" CON SUS ARTÍCULOS 70 BIS 3 Y 70 BIS 4, AL TÍTULO TERCERO "PRESTACIÓN DE LOS SERVICIOS DE SALUD", DE LA LEY ESTATAL DE SALUD".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 446.- SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 56 Y LA FRACCIÓN V AL ARTÍCULO 59 DE LA LEY ESTATAL DE SALUD”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 450.- SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 14 DE LA LEY ESTATAL DE SALUD”.]
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
