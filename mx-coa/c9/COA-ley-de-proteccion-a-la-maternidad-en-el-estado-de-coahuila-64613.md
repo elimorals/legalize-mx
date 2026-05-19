@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-a-la-maternidad-en-el-estado-de-coahuila-6461
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-24"
-last_updated: "2022-04-29"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 24 de octubre de 2008.
 
@@ -94,6 +94,10 @@ IX. Puerperio: Es el periodo que se inicia con la expulsión o extracción del p
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2019)</small>
 
 X. Depresión perinatal: Comprende cualquier episodio depresivo menor o mayor que ocurra durante el embarazo o dentro de los 12 meses posteriores al parto.
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2026)</small>
+
+XI. Parto humanizado: Modelo de atención en el que se facilita un ajuste de la asistencia médica a la cultura, creencias, valores y expectativas de la mujer, respetando la dignidad humana, así como sus derechos y los de la persona recién nacida, evitando prácticas invasivas y suministro de medicación que no estén justificados médicamente.
 
 ###### Artículo 5.
 
@@ -389,6 +393,10 @@ X. A mantener a su lado al recién nacido, siempre que este último o la madre n
 
 XI. A que se fomente desde el momento mismo del nacimiento e independientemente de la vía del parto, el contacto del recién nacido con su madre y familiares directos y/o acompañantes que ésta disponga, sin poner en riesgo la condición de salud de ambos, y
 
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2026)</small>
+
+XII. A recibir atención de acuerdo con los protocolos de parto humanizado, lo anterior en términos de la Ley General de Salud, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Norma Oficial Mexicana NOM-007-SSA2-2016 y demás normatividad aplicable.
+
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 Artículo 21 BIS.- Las madres trabajadoras, particularmente en la asignatura de la protección de la maternidad, tendrán además los siguientes derechos:
@@ -650,3 +658,11 @@ P.O. 29 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 222.- SE ADICIONA EL ARTÍCULO 26 BIS DE LA LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA”.]
 
 Único.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 443.- SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 4, ASÍ COMO LA FRACCIÓN XII DEL ARTÍCULO 21, DE LA LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
