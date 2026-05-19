@@ -4,7 +4,7 @@ identifier: "COA-ley-de-aguas-para-los-municipios-del-estado-de-coahuila-de-6739
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-24"
-last_updated: "2025-10-03"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de febrero de 2009.
 
@@ -46,6 +46,10 @@ LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 ###### ARTÍCULO 1.
 
 La presente Ley es de interés público y tiene por objeto establecer las bases y regular la organización, atribuciones, actos y contratos relacionados con la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento, reuso y disposición de aguas residuales en los municipios del Estado de Coahuila de Zaragoza, todo ello bajo un esquema de desarrollo sustentable.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+El acceso al agua potable y al saneamiento es un derecho humano fundamental que debe garantizarse a toda persona en condiciones de igualdad, suficiencia, calidad, aceptabilidad, asequibilidad y continuidad, conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano sea parte.
 
 Para efectos de esta ley se entenderá por:
 
@@ -1304,3 +1308,15 @@ P.O. 3 DE OCTUBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 445.- SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIENDO EL SUBSECUENTE AL ARTÍCULO 1° DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades municipales y estatales, en el ámbito de sus respectivas competencias, deberán armonizar sus reglamentos, programas y políticas con lo dispuesto en este Decreto, en un plazo no mayor a 90 días naturales.
