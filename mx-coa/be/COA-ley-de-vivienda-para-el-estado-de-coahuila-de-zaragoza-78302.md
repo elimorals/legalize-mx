@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vivienda-para-el-estado-de-coahuila-de-zaragoza-78302"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-17"
-last_updated: "2024-11-12"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de diciembre de 2010.
 
@@ -821,7 +821,9 @@ I. Una Presidencia, que será ocupada por quien sea titular de la Secretaría de
 
 II. Una Secretaría Técnica, encabezada por quien sea titular de la Dirección General de la Comisión;
 
-III. Por cinco vocales del sector público que serán las y los titulares de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MAYO DE 2026)</small>
+
+III. Por seis vocales del sector público que serán las y los titulares de:
 
 a) La Secretaría de Finanzas;
 
@@ -833,11 +835,17 @@ b) La Secretaría de Inclusión y Desarrollo Social;
 
 c) La Secretaría de Medio Ambiente;
 
-d) La Dirección General de la Comisión Estatal para la Regulación de la Tenencia de la Tierra Urbana y Rústica de Coahuila;
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+d) La Secretaría de las Mujeres;
 
-e) La Dirección General del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MAYO DE 2026)</small>
+
+e) La Dirección General de la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica de Coahuila;
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 19 DE MAYO DE 2026)</small>
+
+f) La Dirección General del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza;
 
 IV. Por tres vocales del sector ciudadano que serán preferentemente los representantes de:
 
@@ -847,9 +855,13 @@ b) La Cámara Nacional de la industria de desarrollo y Promoción de Vivienda de
 
 c) La Cámara Mexicana de la Industria de la Construcción Delegación Coahuila.
 
-El Comisario será designado por quien sea titular de la Secretaría de Fiscalización y Rendición de Cuentas.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-La calidad de los suplentes designados, se acreditará mediante el oficio respectivo, dirigido al Presidente de la Junta de Gobierno y signado por el propietario a quien representa. El cargo de suplente será indelegable, de manera que no se podrán acreditar representantes de éste en las sesiones de la propia Junta de Gobierno.
+La persona servidora pública que funja como Comisaria será designada por quien sea titular de la Secretaría de Fiscalización y Rendición de Cuentas.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
+
+La calidad de las personas suplentes designadas se acreditará mediante el oficio respectivo, dirigido a quien ocupe la Presidencia de la Junta de Gobierno de la Comisión y signado por la persona titular a la que representa. El cargo de suplente será indelegable, de manera que no se podrán acreditar representantes de éste en las sesiones de la propia Junta de Gobierno.
 
 Quienes integren la Junta de Gobierno, tanto propietarios como suplentes, antes de tomar posesión de su cargo deberán rendir protesta en los mismos términos de lo dispuesto en el artículo 17 de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza. Todos los cargos de la Junta de Gobierno de la Comisión como entidad paraestatal a que se refiere el presente artículo serán honoríficos, por lo que sus titulares no recibirán emolumento alguno por su desempeño.
 
@@ -1260,3 +1272,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 444.- SE REFORMA LA FRACCIÓN III CON SUS INCISOS D) Y E), Y SE ADICIONA EL INCISO F) A ESA MISMA FRACCIÓN, Y SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 65 DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
