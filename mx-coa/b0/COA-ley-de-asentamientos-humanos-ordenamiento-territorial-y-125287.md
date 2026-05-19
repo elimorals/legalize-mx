@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-ordenamiento-territorial-y-125287"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2026-04-10"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de diciembre de 2017.
 
@@ -3795,11 +3795,11 @@ V. La circulación sobre las vías públicas pavimentadas de vehículos que care
 
 VI. Aquellos otros fines que se consideren contrarios al interés público.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
 ###### Artículo 285.
 
-En las construcciones destinadas a comercio, servicios, salud, educación, cultura, recreación, deportes y en general los equipamientos públicos y privados, así como en las banquetas en las vías públicas, deberán dejarse rampas para la circulación peatonal de personas con discapacidad y adultos mayores, así como lugares especiales en los estacionamientos, conforme a las disposiciones que rigen en esta materia en el Estado.
+En las construcciones destinadas a comercio, servicios, salud, educación, cultura, recreación, deportes y en general los equipamientos públicos y privados, así como en las banquetas en las vías públicas, deberán dejarse rampas para la circulación peatonal de personas con discapacidad, adultos mayores y personas gestantes, así como lugares especiales en los estacionamientos, conforme a las disposiciones que rigen en esta materia en el Estado.
 
 ###### Artículo 286.
 
@@ -4378,3 +4378,11 @@ P.O. 10 DE ABRIL DE 2026.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 431.- SE REFORMA EL ARTÍCULO 285 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
