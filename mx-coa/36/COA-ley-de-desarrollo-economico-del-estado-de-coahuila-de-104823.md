@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-economico-del-estado-de-coahuila-de-104823"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2021-02-12"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -189,6 +189,10 @@ IX. Proyectos que realicen obras de infraestructura que beneficien a la comunida
 
 X. Empresas constituidas bajo las leyes mexicanas que causen y paguen sus contribuciones en el estado, que tengan su domicilio fiscal y que generen empleos dentro del territorio del estado, y que lleven a cabo la ampliación de sus instalaciones o de sus líneas de producción.
 
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2026)</small>
+
+XI. Proyectos que tengan como principal objetivo la obtención de su proveeduría por parte de empresas radicadas en la entidad.
+
 ### CAPITULO III. APOYOS A LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS
 
 ###### Artículo 8.
@@ -214,6 +218,10 @@ VII. Establecer acciones que apoyen a las micro, pequeñas y medianas empresas a
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE JUNIO DE 2020)</small>
 
 VIII. Las demás acciones que, en los términos de la presente Ley, se consideren necesarias a favor de las micro, pequeñas y medianas empresas del estado.
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2026)</small>
+
+IX. Fomento e implementación de programas de apoyo a micro, pequeñas y medianas empresas que tengan como propósito la contratación de proveeduría local, regional y/o nacional.
 
 ### CAPÍTULO IV. LOS ESTÍMULOS E INCENTIVOS
 
@@ -858,5 +866,11 @@ P.O. 26 DE ENERO DE 2021.
 P.O. 12 DE FEBRERO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 912.- SE ADICIONA UNA FRACCIÓN IV, RECORRIENDO LA ACTUAL, AL ARTÍCULO 36, Y EL CAPÍTULO XI CON LOS ARTÍCULOS 50, 51, 52 Y 53 A LA LEY DE DESAROOLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 464.- SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 7, Y LA FRACCIÓN IX AL ARTÍCULO 8 DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
