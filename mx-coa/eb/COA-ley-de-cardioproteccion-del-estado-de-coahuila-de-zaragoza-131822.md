@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cardioproteccion-del-estado-de-coahuila-de-zaragoza-1318
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-27"
-last_updated: "2020-08-07"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CARDIOPROTECCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 27 de noviembre de 2018.
 
@@ -70,6 +70,12 @@ Para efectos de esta Ley se entiende por:
 ###### Artículo 3.
 
 El Sistema Integral para la Atención de los Eventos por Muerte Súbita es el mecanismo con el que se llevará a cabo la identificación, notificación y supervisión de las áreas cardioprotegidas, conforme al Reglamento que expida la Secretaría de Salud.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+###### Artículo 3 Bis.
+
+La Secretaría de Salud podrá celebrar convenios con las autoridades federales y municipales, y con los sectores social y privado, a fin de coadyuvar y procurar el incremento del mejoramiento de la salud cardiovascular de la población, con el fin de contribuir a dar cumplimiento al objeto de esta ley.
 
 ### CAPÍTULO II. DE LOS INMUEBLES Y/O EVENTOS COMO ÁREAS CARDIOPROTEGIDAS
 
@@ -232,3 +238,11 @@ P.O. 7 DE AGOSTO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se concede un plazo de noventa días naturales, contados a partir de la publicación del presente Decreto, para que los administradores de los inmuebles a que se refiere la presente ley, capaciten a las personas que al efecto se designen.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 449.- SE ADICIONA EL ARTÍCULO 3 BIS A LA LEY DE CARDIOPROTECCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
