@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-emision-y-seguimiento-de-las-medidas-de-146196"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-08"
-last_updated: "2021-01-08"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA EMISIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE PROTECCIÓN PARA MUJERES EN SITUACIÓN DE VIOLENCIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2026.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 8 de enero de 2021.
 
@@ -207,7 +207,11 @@ II. Limitación para asistir o acercarse al domicilio de la víctima directa, in
 
 III. Separación inmediata del domicilio;
 
-IV. La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que tuviera en su posesión el probable responsable;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
+
+IV. La entrega inmediata de objetos de uso personal de la víctima, así como los de sus hijas e hijos, incluyendo implementos de trabajo o estudio, dispositivos electrónicos y cualquier otro aparato de comunicación, así como los documentos de identidad de estos que tuviera en su posesión el probable responsable;
+
+Para la ejecución de la medida prevista en esta fracción, la autoridad competente deberá garantizar que la entrega de los bienes incluya la totalidad de los objetos, implementos, dispositivos electrónicos, aparatos y documentos, sin que la falta de acreditación de la propiedad sea impedimento para su recuperación inmediata. De los bienes que sean entregados se asentará por la autoridad competente, en el acta correspondiente, un inventario.
 
 V. La prohibición de realizar conductas de intimidación o molestia a la víctima directa, indirecta o potencial o a personas relacionadas con ellas;
 
@@ -588,3 +592,13 @@ EL SECRETARIO DE GOBIERNO
 LIC. FERNANDO DONATO DE LAS FUENTES HERNÁNDEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 438.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 10 DE LA LEY PARA LA EMISIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE PROTECCIÓN PARA MUJERES EN SITUACIÓN DE VIOLENCIA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
