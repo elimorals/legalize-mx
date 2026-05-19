@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2025-04-18"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -183,9 +183,9 @@ Son autoridades competentes quien sea titular de:
 
 I. Poder Ejecutivo del Estado:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
 
-II. Instituto Coahuilense de las Mujeres;
+II. Secretaría de la (sic) Mujeres;
 
 III. Presidencia de los municipios del estado; y,
 
@@ -213,17 +213,17 @@ El estado y sus municipios ejercerán sus atribuciones en materia de esta ley, d
 
 Bases de coordinación del sistema estatal.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-El Gobierno del Estado, a través del Instituto Coahuilense de las Mujeres en acuerdo con los municipios, establecerá las bases de coordinación para la integración y funcionamiento del Sistema Estatal para la Igualdad entre Mujeres y Hombres.
+El Gobierno del Estado, a través del (sic) Secretaría de las Mujeres en acuerdo con los municipios, establecerá las bases de coordinación para la integración y funcionamiento del Sistema Estatal para la Igualdad entre Mujeres y Hombres.
 
 ###### Artículo 13.
 
 Materia de los convenios de coordinación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2026)</small>
 
-El Gobierno del Estado, a través de la Secretaría de Gobierno, o de las instancias administrativas que se ocupen del adelanto de las mujeres, podrá suscribir convenios o acuerdos de coordinación con la participación del Instituto Coahuilense de las Mujeres a fin de:
+El Gobierno del Estado, a través de la Secretaría de Gobierno, o de las instancias administrativas que se ocupen del adelanto de las mujeres, podrá suscribir convenios o acuerdos de coordinación con la participación del (sic) Secretaría de las Mujeres a fin de:
 
 I. Fortalecer sus funciones y atribuciones en materia de igualdad;
 
@@ -269,9 +269,9 @@ III. Crear, vigilar el cumplimiento y fortalecer los mecanismos institucionales 
 
 IV. Elaborar políticas públicas estatales cuyo eje rector sea la perspectiva de género y la transversalidad, con una proyección de mediano y largo alcance. Lo anterior debe estar armonizado con los programas nacionales para dar cumplimiento efectivo a esta ley; y
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
 
-V. Suscribir convenios a través del Instituto Coahuilense de las Mujeres, a fin de impulsar, fortalecer y promover la difusión y el conocimiento de la presente ley; así como, velar por el cumplimiento de la misma en el Estado en los ámbitos público y privado;
+V. Suscribir convenios a través del (sic) Secretaría de las Mujeres, a fin de impulsar, fortalecer y promover la difusión y el conocimiento de la presente ley; así como, velar por el cumplimiento de la misma en el Estado en los ámbitos público y privado;
 
 VI. Coordinarse con las dependencias de la administración pública federal y municipal para promover la aplicación de la presente ley.
 
@@ -315,9 +315,9 @@ VII. Facilitar servicios periciales gratuitos, tratándose de mujeres y hombres 
 
 VIII. Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MAYO DE 2026)</small>
 
-### Capítulo Cuarto. Del Instituto Coahuilense de las Mujeres
+### Capítulo Cuarto. De la Secretaría de las Mujeres
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -325,9 +325,9 @@ VIII. Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
 Atribuciones del Instituto Coahuilense de las Mujeres.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2026)</small>
 
-Corresponde al Instituto Coahuilense de las Mujeres:
+Corresponde a la Secretaría de las Mujeres:
 
 I. Formular, conducir y evaluar la política estatal en materia de igualdad entre mujeres y hombres:
 
@@ -541,17 +541,25 @@ IV. Sea resultado del procedimiento que determine el procedimiento de acompañam
 
 V. Por determinación del Sistema Estatal.
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO SU APOSTILLADO, P.O. 19 DE MAYO DE 2026)</small>
 
 ###### Artículo 20 Quater.
 
-Acompañamiento del Instituto Coahuilense de las Mujeres.
+Acompañamiento de la Secretaría de las Mujeres.
 
-Con motivo del acompañamiento sustantivo, el Instituto Coahuilense de las Mujeres, en términos de la Ley y su reglamento deberá:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2026)</small>
+
+Con motivo del acompañamiento sustantivo, la Secretaría de las Mujeres, en términos de la Ley y su reglamento deberá:
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2021)</small>
 
 I. Solicitar al infractor su plan correctivo;
 
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2021)</small>
+
 II. Cuando encuentre presuntas prácticas desiguales en las áreas de la Administración Pública, podrá dar vista para su conocimiento a la Comisión de Derechos Humanos del Estado. Y;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2021)</small>
 
 III. Realizar el monitoreo para la observancia y seguimiento a favor de la parte quejosa.
 
@@ -587,17 +595,17 @@ En el diseño, elaboración, aplicación, evaluación y seguimiento de los instr
 
 Ejecución del sistema estatal y del programa estatal.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-La coordinación e integración del sistema estatal y la aplicación del programa estatal, estarán a cargo del Instituto Coahuilense de las Mujeres.
+La coordinación e integración del sistema estatal y la aplicación del programa estatal, estarán a cargo de la Secretaría de las Mujeres.
 
 ###### Artículo 24.
 
 Coordinación del sistema estatal.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-El Instituto Coahuilense de las Mujeres, tendrá a su cargo la coordinación del Sistema Estatal para la Igualdad entre Mujeres y Hombres así como determinar los lineamientos para establecer políticas públicas en materia de igualdad y las demás que sean necesarias para cumplir con los objetivos de la presente ley.
+La Secretaría de las Mujeres, tendrá a su cargo la coordinación del Sistema Estatal para la Igualdad entre Mujeres y Hombres, así como determinar los lineamientos para establecer políticas públicas en materia de igualdad y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
 
 ###### Artículo 25.
 
@@ -617,27 +625,27 @@ El Sistema Estatal para la Igualdad entre Mujeres y Hombres, es el conjunto org�
 
 Coordinación con el sistema nacional.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-El Ejecutivo del Estado a través del Instituto Coahuilense de las Mujeres se coordinará con la federación para la integración y funcionamiento del sistema nacional.
+El Ejecutivo del Estado a través de la Secretaría de las Mujeres se coordinará con la federación para la integración y funcionamiento del sistema nacional.
 
 ###### Artículo 28.
 
 Coordinación de acciones del sistema estatal.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-El Instituto Coahuilense de las Mujeres coordinará las acciones que el sistema estatal genere, sin perjuicio de las atribuciones y funciones contenidas en su reglamento interior, expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con los de otros estados o al sistema nacional.
+La Secretaría de las Mujeres coordinará las acciones que el sistema estatal genere, sin perjuicio de las atribuciones y funciones contenidas en su reglamento interior, expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con los de otros estados o al sistema nacional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO SU APOSTILLADO, P.O. 19 DE MAYO DE 2026)</small>
 
 ###### Artículo 29.
 
-Atribuciones del Instituto Coahuilense de las Mujeres en el sistema estatal.
+Atribuciones de la Secretaría (sic) las Mujeres en el sistema estatal.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2026)</small>
 
-Al Instituto Coahuilense de las Mujeres dentro del sistema estatal le corresponde:
+A la Secretaría de las Mujeres dentro del sistema estatal le corresponde:
 
 I. Establecer lineamientos en materia de acciones positivas para la igualdad entre mujeres y hombres, con la finalidad de erradicar la violencia y la discriminación por razón del sexo;
 
@@ -665,9 +673,9 @@ De acuerdo a los siguientes lineamientos:
 
 a) Dicho compromiso deberá ser acreditado por las empresas interesadas, que certificarán los avances en lo concerniente a la igualdad entre mujeres y hombres en: las relaciones laborales, políticas de comunicación, fomento de la igualdad sustantiva, propaganda no sexista, políticas de empleo, como: el reclutamiento e ingreso de personal, retribución, capacitación, promoción y distribución equilibrada entre mujeres y hombres en todas las plazas, prioritariamente en las de toma de decisiones.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-b) El Instituto Coahuilense de las Mujeres será el encargado de llevar a cabo la evaluación de la información proporcionada para el otorgamiento de los reconocimientos;
+b) La Secretaría de las Mujeres será el encargado (sic) de llevar a cabo la evaluación de la información proporcionada para el otorgamiento de los reconocimientos;
 
 XI. Fomentar acciones encaminadas al reconocimiento progresivo del derecho de conciliación de la vida personal, laboral y familiar y establecer los medios y mecanismos tendientes a la convivencia sin menoscabo del pleno desarrollo humano;
 
@@ -707,9 +715,9 @@ El Sistema Estatal para la Igualdad entre la Mujer y el Hombre, estará integrad
 
 I. Titular del Ejecutivo del Estado, quien lo presidirá a través de la Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
 
-II. Titular del Instituto Coahuilense de las Mujeres, quien ocupará la secretaría ejecutiva del sistema estatal
+II. Titular de la Secretaría de las Mujeres, quien ocupará la secretaría ejecutiva del sistema estatal.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -793,17 +801,17 @@ IV. Promover el desarrollo de programas y servicios, que fomenten la igualdad en
 
 Regulación del sistema estatal.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-El Instituto Coahuilense de las Mujeres, elaborará el proyecto de reglamento para el funcionamiento del sistema estatal y lo presentará a sus integrantes para su estudio y aprobación, en su caso.
+La Secretaría de las Mujeres, elaborará el proyecto de reglamento para el funcionamiento del sistema estatal y lo presentará a sus integrantes para su estudio y aprobación, en su caso.
 
 ###### Artículo 33.
 
 Consolidación y funcionamiento del sistema estatal.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-Los gobiernos municipales coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con el Instituto Coahuilense de las Mujeres, en su caso, con las dependencias o entidades de la administración pública estatal, a la consolidación y funcionamiento del sistema estatal. Así mismo, planearán, organizarán y desarrollarán en sus respectivas circunscripciones territoriales, sistemas municipales de igualdad entre mujeres y hombres, procurando su participación programática en el sistema estatal.
+Los gobiernos municipales coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con la Secretaría de las Mujeres, en su caso, con las dependencias o entidades de la administración pública estatal, a la consolidación y funcionamiento del sistema estatal. Así mismo, planearán, organizarán y desarrollarán en sus respectivas circunscripciones territoriales, sistemas municipales de igualdad entre mujeres y hombres, procurando su participación programática en el sistema estatal.
 
 ###### Artículo 34.
 
@@ -821,9 +829,9 @@ II. Determinación de las acciones de orientación, estímulo y apoyo que dichos
 
 Contenido del programa estatal.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2026)</small>
 
-El programa estatal será elaborado por el Instituto Coahuilense de las Mujeres y tomará en cuenta las necesidades del estado, así como las particularidades de la desigualdad en cada demarcación territorial. Este programa deberá ajustarse e integrarse al Plan Estatal de Desarrollo
+El programa estatal será elaborado por la Secretaría de las Mujeres y tomará en cuenta las necesidades del estado, así como las particularidades de la desigualdad en cada demarcación territorial. Este programa deberá ajustarse e integrarse al Plan Estatal de Desarrollo.
 
 Este programa establecerá los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta lo establecido en la presente ley.
 
@@ -831,9 +839,9 @@ Este programa establecerá los objetivos, estrategias y líneas de acción prior
 
 Revisión del programa estatal.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-El Instituto Coahuilense de las Mujeres deberá revisar y evaluar anualmente el programa estatal.
+La Secretaría de las Mujeres deberá revisar y evaluar anualmente el programa estatal.
 
 ###### Artículo 37.
 
@@ -1161,9 +1169,9 @@ Toda persona tendrá derecho a que las autoridades y organismos públicos, previ
 
 Participación de la sociedad en las políticas de igualdad.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-El Ejecutivo del Estado por conducto del Instituto Coahuilense de las Mujeres, promoverá la participación de la sociedad en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la política de igualdad entre mujeres y hombres a que se refiere esta ley.
+El Ejecutivo del Estado por conducto de la Secretaría de las Mujeres, promoverá la participación de la sociedad en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la política de igualdad entre mujeres y hombres a que se refiere esta Ley.
 
 ###### Artículo 50.
 
@@ -1249,9 +1257,9 @@ IX. Garantizar el principio de igualdad sustantiva entre mujeres y hombres con r
 
 Autoridad competente para la observancia.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-El Instituto Coahuilense de las Mujeres, es la encargada de la observancia en el seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad entre mujeres y hombres.
+La Secretaría de las Mujeres es la encargada de la observancia en el seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad entre mujeres y hombres.
 
 ###### Artículo 52.
 
@@ -1285,9 +1293,9 @@ Finalidad del procedimiento.
 
 El procedimiento para la igualdad. cuyo fin será establecer prácticas de igualdad entre mujeres y hombres y sancionar la violación a los principios y programas que establece esta ley, de conformidad con la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, y en su caso, por las leyes locales aplicables.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-Conocerá y resolverá del procedimiento para la igualdad, el Instituto Coahuilense de las Mujeres o la persona en quien ella delegue dicha atribución.
+Conocerá y resolverá del procedimiento para la igualdad, la Secretaría de las Mujeres o la persona en quien ella delegue dicha atribución.
 
 ### Capítulo segundo. Trámite del procedimiento
 
@@ -1301,9 +1309,9 @@ Están legitimados para iniciar el procedimiento para la igualdad, cualquier per
 
 Trámite del procedimiento.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2026)</small>
 
-El procedimiento para la igualdad iniciará con la presentación de la queja ante el Instituto Coahuilense de las Mujeres la cual puede ser por escrito, en cuyo caso se hará en original y copia, debidamente fundada y motivada, contra instituciones públicas o privadas, servidores públicos o particulares que se presuma hayan incurrido en violación a los principios y programas establecidos en esta ley.
+El procedimiento para la igualdad iniciará con la presentación de la queja ante la Secretaría de las Mujeres la cual puede ser por escrito, en cuyo caso se hará en original y copia, debidamente fundada y motivada, contra instituciones públicas o privadas, servidores públicos o particulares que se presuma hayan incurrido en violación a los principios y programas establecidos en esta Ley.
 
 La queja deberá de ir acompañada, de todos los elementos en que se funde la misma, ya sea que se trate de documentos privados o públicos, nombres y domicilios de testigos, peritajes, o cualquier otro medio de convicción de los permitidos por la ley.
 
@@ -1359,9 +1367,9 @@ Sanciones.
 
 Las infracciones a la presente ley, se sancionarán de la manera siguiente:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
 
-I. Con el establecimiento de prácticas de igualdad, sujetas a supervisión por la persona que para tal efecto designe el Instituto Coahuilense de las Mujeres
+I. Con el establecimiento de prácticas de igualdad, sujetas a supervisión por la persona que para tal efecto designe la Secretaría de las Mujeres.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -1377,9 +1385,9 @@ El catálogo de prácticas de igualdad, deberá desarrollarse en el reglamento q
 
 Criterios para sancionar.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MAYO DE 2026)</small>
 
-El Instituto Coahuilense de las Mujeres, considerará para la individualización de la sanción:
+La Secretaría de las Mujeres, considerará para la individualización de la sanción:
 
 I. La gravedad de la conducta discriminatoria contra la mujer o el hombre;
 
@@ -1720,3 +1728,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las instituciones a que hace referencia contarán con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes a sus reglamentaciones internas.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 442.- SE REFORMA LA FRACCIÓN XXXIV, DEL ARTÍCULO 6; LA FRACCIÓN II DEL ARTÍCULO 41; FRACCIÓN V DEL ARTÍCULO 50; FRACCIÓN VI DEL ARTÍCULO 54; PRIMER PÁRRAFO DEL ARTÍCULO 55; PRIMER PÁRRAFO DEL ARTÍCULO 70, ARTÍCULO 81; ASÍ COMO LA FRACCIÓN II DEL ARTÍCULO 116 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
