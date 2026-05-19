@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cultura-fisica-y-deporte-del-estado-de-coahuila-de-10162
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-17"
-last_updated: "2026-04-10"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 17 de junio de 2014.
 
@@ -59,7 +59,9 @@ III. Determinar las responsabilidades, facultades y obligaciones de las autorida
 
 IV. Regular e impulsar la actividad de las asociaciones y organizaciones de deportistas y establecer sus derechos y obligaciones;
 
-V. Ampliar los mecanismos que fomenten la equidad en la práctica deportiva, y
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
+
+V. Ampliar los mecanismos que fomenten la igualdad de género en la práctica deportiva, y
 
 VI. Promover la cultura física y el deporte entre las personas que se encuentren dentro del Estado.
 
@@ -71,9 +73,11 @@ Las disposiciones de esta ley son complementarias de la Ley Estatal de Educació
 
 El uso de las instalaciones y los servicios que ofrezcan el Estado y los municipios en materia de cultura física y deporte, se procurará que sean gratuitos, salvo aquellos que, por su naturaleza, requieran una cuota de recuperación para solventar su funcionamiento y servicio.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 4.
 
-Las acciones que, en materia deportiva, lleven a cabo el Estado, los municipios y las organizaciones deportivas que cuenten con registro, deberán respetar y garantizar el derecho a la igualdad de oportunidades de la población en general y evitarán cualquier decisión o disposición discriminatoria por razones de sexo, edad, estado físico, preferencias sexuales, poseer marcas, tatuajes o perforaciones corporales, antecedentes penales o cualquier otra que signifique un detrimento hacia la igualdad de las personas.
+Las acciones que, en materia deportiva, lleven a cabo el Estado, los municipios y las organizaciones deportivas que cuenten con registro deberán incorporar de manera transversal la perspectiva de género y garantizar la igualdad sustantiva, y la igualdad de oportunidades de la población en general, y evitarán cualquier decisión o disposición discriminatoria por razones de género, sexo, edad, estado físico, preferencias sexuales, poseer marcas, tatuajes o perforaciones corporales, antecedentes penales o cualquier otra que signifique un detrimento hacia la igualdad de las personas.
 
 ###### ARTÍCULO 5.
 
@@ -239,9 +243,13 @@ IX. Procurar la Prevención del uso de sustancias y métodos prohibidos en event
 
 X. Impulsar el desarrollo de las actividades deportivas en las zonas rurales y en los sectores marginados de acuerdo a sus planes de desarrollo.
 
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2026)</small>
+
+XI. Fomentar el deporte estudiantil y, en su caso, organizar la realización de torneos, certámenes y otras competencias interescolares, en coordinación con el Instituto y la Secretaría, a fin de complementar el proceso formativo-educativo de las y los alumnos.
+
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2016)</small>
 
-XI. Las demás que le confiera esta ley y demás disposiciones aplicables.
+XII. Las demás que le confiera esta ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 9.
 
@@ -351,11 +359,39 @@ III. Inscribirse en el Registro Estatal del Deporte previsto en la fracción XX 
 
 IV. Las demás que señale esta ley y las disposiciones que les sean aplicables.
 
-### CAPÍTULO I. CONFORMACIÓN Y ALCANCES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MAYO DE 2026)</small>
+
+### CAPÍTULO IV. DE LA IGUALDAD DE GÉNERO EN LA CULTURA FÍSICA Y EL DEPORTE
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+ARTÍCULO 15 BIS.- El Estado y los municipios adoptarán las medidas legislativas, administrativas y presupuestales necesarias para garantizar a todas las personas sin ningún tipo de distinción, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y de deporte se implementen.
+
+Para ello, deberán asegurar el acceso en igualdad de condiciones a actividades, becas, estímulos y apoyos deportivos, así como el uso de instalaciones, espacios y servicios, sin discriminación alguna.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+ARTÍCULO 15 TER.- El Plan Estatal del Deporte, así como las políticas, programas y proyectos que de este se deriven, deberán observar los siguientes lineamientos a fin de garantizar los principios de igualdad sustantiva entre mujeres y hombres y la no discriminación:
+
+I. Incorporar de manera transversal la perspectiva de género en su diseño, instrumentación, evaluación y seguimiento
+
+II. Fomentar activamente la participación de niñas, adolescentes y mujeres en todas las disciplinas y prácticas deportivas;
+
+III. Prevenir y erradicar estereotipos de género y prácticas discriminatorias que limiten el acceso de las mujeres al deporte;
+
+IV. Promover la representación de las mujeres en los cuerpos técnicos, directivos, de entrenamiento y de arbitraje;
+
+V. Etiquetar y ejercer su partida presupuestal anual con enfoque de género, y
+
+VI. Los demás que se estimen necesarios para garantizar el derecho de las mujeres de acceder a la cultura física y el deporte con igualdad y no discriminación.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+ARTÍCULO 15 QUATER.- El Estado, los municipios y las organizaciones deportivas registradas en el Estado deberán contar con protocolos para la prevención, atención y sanción del acoso sexual, hostigamiento y cualquier otra forma de violencia de género en el ámbito deportivo con un apego a la Ley de Acceso a las Mujeres a una Vida Libre de Violencia para el Estado de Coahuila de Zaragoza, y de más (sic) normatividad aplicable.
 
 ## TÍTULO II. EL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
-### CAPÍTULO II. LAS ORGANIZACIONES DE DEPORTISTAS
+### CAPÍTULO I. CONFORMACIÓN Y ALCANCES
 
 ###### ARTÍCULO 16.
 
@@ -393,7 +429,7 @@ VI. Aquellas personas que, por acuerdo de los integrantes del Sistema se determi
 
 La participación dentro del Sistema Estatal del Deporte, se formalizará mediante la creación de acuerdos, convenios de coordinación o cualquier otro instrumento jurídico de naturaleza afín.
 
-### CAPÍTULO III. ARCHIVO HISTÓRICO DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE
+### CAPÍTULO II. LAS ORGANIZACIONES DE DEPORTISTAS
 
 ###### ARTÍCULO 19.
 
@@ -455,7 +491,7 @@ VII. Establecer relaciones de cooperación y coordinación con instituciones edu
 
 VIII. Las demás que establezca esta ley y las disposiciones que les sean aplicables.
 
-### CAPÍTULO ÚNICO. ATRIBUCIONES Y OBJETIVO DE LA COMISIÓN DE MEDIACIÓN
+### CAPÍTULO III. ARCHIVO HISTÓRICO DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
 ###### ARTÍCULO 23.
 
@@ -475,7 +511,7 @@ El registro al que se refiere el artículo 5 fracción XX de la Ley será admini
 
 ## TÍTULO III. COMISIÓN DE MEDIACIÓN Y APELACIÓN DE LA CULTURA FÍSICA Y DEPORTE
 
-### CAPÍTULO ÚNICO. DEPORTISTAS PROFESIONALES
+### CAPÍTULO ÚNICO. ATRIBUCIONES Y OBJETIVO DE LA COMISIÓN DE MEDIACIÓN
 
 ###### ARTÍCULO 27.
 
@@ -513,7 +549,7 @@ La comisión elaborará su reglamento interno de conformidad con los lineamiento
 
 ## TÍTULO IV. DEPORTE PROFESIONAL
 
-### CAPÍTULO I. EL FINANCIAMIENTO PARA LA CULTURA FÍSICA Y EL DEPORTE
+### CAPÍTULO ÚNICO. DEPORTISTAS PROFESIONALES
 
 ###### ARTÍCULO 31.
 
@@ -533,7 +569,7 @@ El Instituto coordinará y promoverá la constitución de comisiones estatales d
 
 ## TÍTULO V. CULTURA FÍSICA
 
-### CAPÍTULO II. LA INFRAESTRUCTURA DEPORTIVA
+### CAPÍTULO I. EL FINANCIAMIENTO PARA LA CULTURA FÍSICA Y EL DEPORTE
 
 ###### ARTÍCULO 35.
 
@@ -561,7 +597,7 @@ En uso de su derecho a la información pública los deportistas, sus asociacione
 
 El mal uso de los recursos generará las responsabilidades procedentes, de acuerdo a las leyes aplicables en la materia.
 
-### CAPÍTULO III. EL SERVICIO MÉDICO Y CIENCIAS APLICADAS AL DEPORTE
+### CAPÍTULO II. LA INFRAESTRUCTURA DEPORTIVA
 
 ###### ARTÍCULO 39.
 
@@ -611,9 +647,7 @@ En la construcción de instalaciones deportivas deberán tomarse en cuenta las e
 
 Para la adecuada práctica de las actividades físicas, deportivas y recreativas de las personas con discapacidad, las nuevas construcciones deberán considerar los accesos y servicios suficientes para el desarrollo de dichas actividades, cumpliendo con las disposiciones que sean aplicables. Las instalaciones actuales que no cuenten con dichos espacios y servicios, deberán acondicionarse para cumplir con este precepto.
 
-### CAPÍTULO IV. ESTÍMULOS EN LA CULTURA FÍSICA Y EL DEPORTE
-
-CAPACITACIÓN E INCENTIVOS
+### CAPÍTULO III. EL SERVICIO MÉDICO Y CIENCIAS APLICADAS AL DEPORTE
 
 ###### ARTÍCULO 49.
 
@@ -661,7 +695,9 @@ Las instituciones eminentemente deportivas y asociaciones de los sectores oficia
 
 Las instituciones del sector público estatal, promoverán programas de atención médica, la formación de especialistas en medicina y ciencias aplicadas al deporte, dedicados a la práctica y/o investigación científica.
 
-### CAPÍTULO V. PREVENCIÓN DE LA VIOLENCIA EN EL DEPORTE
+### CAPÍTULO IV. ESTÍMULOS EN LA CULTURA FÍSICA Y EL DEPORTE
+
+CAPACITACIÓN E INCENTIVOS
 
 ###### ARTÍCULO 59.
 
@@ -683,9 +719,7 @@ Los entrenadores inscritos en el Registro Estatal del Deporte podrán ser acreed
 
 Para reconocer a los deportistas que destaquen en su especialidad o contribuyan notoriamente al fomento y desarrollo del deporte, la autoridad y la sociedad establecerán estímulos y acciones de reconocimiento.
 
-### CAPÍTULO VI. INFRACCIONES, SANCIONES ADMINISTRATIVAS Y DELITOS
-
-APLICACIÓN DE SANCIONES
+### CAPÍTULO V. PREVENCIÓN DE LA VIOLENCIA EN EL DEPORTE
 
 ###### ARTÍCULO 62.
 
@@ -770,6 +804,10 @@ Los integrantes del Sistema, podrán revisar continuamente sus disposiciones reg
 Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO VI. INFRACCIONES, SANCIONES ADMINISTRATIVAS Y DELITOS
+
+APLICACIÓN DE SANCIONES
 
 ###### ARTÍCULO 70.
 
@@ -978,6 +1016,20 @@ P.O. 27 DE MAYO DE 2022.
 P.O. 10 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 460.- SE ADICIONA UN NUEVO CONTENIDO A LAS FRACCIONES XV, XVI, Y XVII, RECORRIENDO LAS SUBSECUENTES DEL ARTÍCULO 5; Y SE ADICIONA EL ARTÍCULO 41 BIS A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2026
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 436.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 1° Y EL ARTÍCULO 4°, Y SE ADICIONA EL CAPÍTULO IV “DE LA IGUALDAD DE GÉNERO EN LA CULTURA FÍSICA Y EL DEPORTE”, CON LOS ARTÍCULOS 15 BIS, 15 TER Y 15 QUATER AL TÍTULO I “DISPOSICIONES GENERALES”, TODOS DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 448.- SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN XI, RECORRIENDO EL ACTUAL A LA FRACCIÓN XII QUE SE CREA, DEL ARTÍCULO 8 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
