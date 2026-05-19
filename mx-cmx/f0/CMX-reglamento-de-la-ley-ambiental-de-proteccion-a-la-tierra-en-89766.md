@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-ambiental-de-proteccion-a-la-tierra-en-897
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-19"
-last_updated: "2017-05-19"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89766&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2012-10-16"
 ---
 # REGLAMENTO DE LA LEY AMBIENTAL DE PROTECCION A LA TIERRA EN EL DISTRITO FEDERAL EN MATERIA DE VERIFICACION VEHICULAR - ANTES REGLAMENTO DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL EN MATERIA DE VERIFICACION VEHICULAR -
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO EN MATERIA DE VERIFICACIÓN VEHICULAR, PUBLICADO EN LA G.O. DE 19 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL, EN MATERIA DE VERIFICACIÓN VEHICULAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE MAYO DE 2026 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 19 de octubre de 2012.
 
@@ -829,3 +831,19 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Los procedimientos administrativos que se encuentren en trámite para que los propietarios o poseedores puedan recuperar la placa o placas de circulación de su unidad, retiradas por emitir contaminantes en contravención a las disposiciones jurídicas aplicables, así como para realizar el pago de la sanción impuesta, antes de la entrada en vigor del presente Decreto, se resolverán de conformidad con la normatividad vigente en el momento de su inicio y hasta su total conclusión.
+
+G.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO EN MATERIA DE VERIFICACIÓN VEHICULAR”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+CUARTO.- Se abroga el Reglamento de la Ley Ambiental del Distrito Federal en Materia de Verificación Vehicular, publicado en la Gaceta Oficial del entonces Distrito Federal hoy Ciudad de México, el 1 (sic) de octubre de 2012, con el número 1464.
+
+QUINTO.- Los procesos de autorización, ratificación, acreditación y/o revalidación iniciados antes de la entrada en vigor del presente reglamento, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento del inicio del procedimiento respectivo que le dio su origen.
+
+SEXTO.- El Manual que derive de la expedición del presente Reglamento deberá ser expedido dentro de los ciento ochenta días hábiles siguientes a su entrada en vigor.
