@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2025-12-12"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -799,6 +799,10 @@ Las sesiones del Ayuntamiento se celebrarán en el recinto oficial destinado par
 
 De manera excepcional, en caso fortuito o de fuerza mayor, o cuando por causas especiales lo acuerden las dos terceras partes de los integrantes del Ayuntamiento, las sesiones se podrán realizar de forma virtual, por medios electrónicos, para desahogar los asuntos concretos acordados.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+A solicitud de la persona titular de la Presidencia Municipal y previo acuerdo del Ayuntamiento, las sesiones podrán realizarse bajo la modalidad de Cabildo Itinerante, celebrándose en los ejidos, comunidades o sedes que al efecto se designen.
+
 ###### ARTÍCULO 97.
 
 Las sesiones únicamente se podrán suspender, cuando se altere gravemente el desarrollo de las mismas.
@@ -1421,9 +1425,9 @@ Las comisiones podrán ser permanentes o transitorias, y su materia y funciones 
 
 Cada una de estas comisiones, estarán integradas cuando menos por un regidor de la primera minoría.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-Las comisiones de los Ayuntamientos deberán promover, en el desempeño de sus funciones, la participación ciudadana y de las organizaciones de la sociedad civil, en los términos de la Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza, y la Ley de Fomento a las Actividades de las Organizaciones de la Sociedad Civil en el Estado de Coahuila de Zaragoza.
+Las comisiones de los Ayuntamientos deberán promover, en el desempeño de sus funciones, la participación ciudadana y de las organizaciones de la sociedad civil, en los términos de la Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza y la Ley de Fomento a las Actividades de las Organizaciones de la Sociedad Civil en el Estado de Coahuila de Zaragoza. Para tal efecto, previa autorización del Ayuntamiento, podrán celebrar reuniones públicas en las localidades del municipio, con el propósito de recabar la opinión de sus habitantes sobre temas específicos relacionados con su ramo o asuntos que les hayan sido encomendados.
 
 ###### ARTÍCULO 112.
 
@@ -5406,3 +5410,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 451.- SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 111; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 96, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
