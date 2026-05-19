@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-impulso-emprendedor-del-estado-de-coahuila-de-10481
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2024-10-04"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, al martes 30 de diciembre de 2014.
 
@@ -55,7 +55,9 @@ III. Establecer la integración y funciones del Consejo General Ciudadano para e
 
 IV. Establecer la integración y contenido del Programa Estratégico para Fomentar la cultura emprendedora e Impulsar a los Emprendedores de la entidad en cuanto a estímulos en aspectos impositivos, educativos, de financiamiento y de entidades de apoyo, así como las disposiciones aplicables a su presupuesto, revisión y actualización con alcances de largo plazo;
 
-V. Fomentar la vinculación de los sectores académico, científico y social con los sectores productivo y financiero.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
+
+V. Fomentar la vinculación de los sectores académico, científico y social con los sectores productivo y financiero, mediante la formación vocacional encaminada a competencias básicas, laborales, ciudadanas y empresariales bajo un esquema transversal de emprendimiento;
 
 VI. Establecer mecanismos y apoyos para promover la creación, el funcionamiento y la evaluación de centros de innovación, entrenamiento empresarial, innovación empresarial, alianzas estratégicas, sistemas regionales de innovación, consorcios, agrupamientos empresariales en áreas clave, capital de riesgo y capital semilla, que sean requeridos para alcanzar los objetivos de la presente Ley;
 
@@ -73,9 +75,13 @@ XII. Estimular la integración de emprendedores con inventores e investigadores 
 
 XIII. Crear un sistema integral de información que otorgue transparencia en el uso, la prioridad de asignación, y la justificación de los recursos económicos y financieros destinados a las actividades contempladas en esta Ley y el Programa Estratégico, que permita la evaluación del desempeño y los resultados obtenidos por las entidades que reciban recursos económicos y financieros para realizar actividades en el marco de la presente Ley y del Programa Estratégico.
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
 
-XIV. Coordinar esfuerzos con las comisiones de cabildo de los Ayuntamientos relacionadas con Educación, Ciencia y Tecnología; Desarrollo Económico y demás competentes a la presente Ley.
+XIV. Coordinar esfuerzos con las comisiones del Congreso del Estado de Coahuila de Zaragoza y de cabildo de los Ayuntamientos, relacionadas con Educación, Ciencia y Tecnología, Desarrollo Económico y demás competentes a la presente Ley;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2026)</small>
+
+XV. Promover la cultura y formación emprendedora mediante la cátedra transversal del emprendimiento, incorporando sus temas y contenidos en las actividades curriculares y/o extracurriculares de los niveles educativos básico, medio superior y superior, en los sectores público y privado, en el Estado.
 
 ###### Artículo 3.
 
@@ -85,7 +91,9 @@ I. Agrupamiento empresarial: es una concentración de empresas relacionadas entr
 
 II. Capital semilla y de riesgo: son las aportaciones financieras y estratégicas realizadas a través de créditos, aportaciones al capital social, diversos títulos de crédito, contratos relacionados o una combinación de los anteriores, para el inicio, crecimiento o desarrollo de nuevos negocios y empresas de reciente creación;
 
-III. Centro de innovación: En un espacio físico donde los emprendedores pueden recibir adiestramiento, capacitación, asesoría, y entrenamiento con el objetivo de que desarrollen competencias de gestión, transferencia e innovación tecnológica y de gestión de negocios que sean de utilidad para crear y desarrollar negocios innovadores.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 19 DE MAYO DE 2026)</small>
+
+III. Centro de innovación: en un espacio físico donde los emprendedores pueden recibir orientación, capacitación, asesoría, y entrenamiento con el objetivo de que desarrollen competencias de gestión, transferencia e innovación tecnológica y de gestión de negocios que sean de utilidad para crear y desarrollar negocios innovadores;
 
 Estos centros serán parte de las entidades destinadas a ejecutar programas de educación y fomento de la cultura emprendedora.
 
@@ -97,13 +105,17 @@ VI. Ecosistema de negocios: Una comunidad económica fundamentada en un conjunto
 
 Esta comunidad económica produce bienes y servicios de valor para los clientes, quienes también son parte del ecosistema. Entre las organizaciones integrantes se encuentran los proveedores, productores, competidores, y otros grupos de interés. En un ecosistema de negocios desarrollado se integran efectivamente los elementos de educación, financiamiento, gobierno, sociedad, infraestructura e industrias complementarias y de soporte;
 
-VII. Emprendedor: se refiere al individuo o en forma colectiva como equipo emprendedor al grupo de individuos que persigue una oportunidad de negocio sin limitar su iniciativa empresarial a los recursos con los cuales cuenta al momento de iniciar un proyecto empresarial;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
+
+VII. Persona emprendedora: se refiere a la persona o en forma colectiva como equipo emprendedor al grupo de personas que tiene la capacidad de identificar una oportunidad de negocio o necesidad de un producto o servicio, y, sin limitar su iniciativa por los recursos con los cuales cuenta al momento de iniciar un proyecto empresarial, la convierte en un proyecto en concreto, ya sea como persona física o como persona moral. Pudiendo tener fines de especulación comercial o no, siempre y cuando generen algún tipo de innovación, desarrollo económico o empleos;
 
 VIII. Fondo Estatal: el Fondo Estatal para Fomentar la Cultura Emprendedora e Impulsar a los Emprendedores;
 
 IX. Empresa de reciente creación: se refiera a persona física con actividad empresarial o persona moral que se encuentra en los primeros dos años del inicio de sus actividades;
 
-X. Incubadoras y aceleradoras de empresas: los espacios físicos que pueden contar con infraestructura experimental de laboratorios y plantas piloto, asesoría comercial, consultoría, sistemas de gestión de negocios que apoyan la generación y el crecimiento de nuevas empresas, el establecimiento de empresas foráneas, así como el crecimiento acelerado de las mismas;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
+
+X. Incubadoras y aceleradoras de empresas: los espacios físicos que pueden contar con infraestructura experimental de laboratorios y plantas piloto, con asesorías comerciales, legales, administrativas, contables, financieras y operativas, así como, consultorías, sistemas de gestión de negocios que evalúen la viabilidad técnica, financiera y de mercado de nuevos proyectos, apoyando la generación y el crecimiento de nuevas empresas, el establecimiento de empresas foráneas, así como el crecimiento acelerado de las mismas;
 
 XI. Innovación empresarial: la introducción de un nuevo o significativamente mejorado producto, bien, servicio, proceso productivo o de negocio, que atienda a las necesidades sociales y de mercado;
 
@@ -115,11 +127,21 @@ XIV. Sistemas regionales de innovación: el conjunto de universidades, instituci
 
 XV. Transferencia de tecnología: el proceso de transmisión o intercambio de nuevos conocimientos y tecnologías desde el entorno científico al productivo o dentro del entorno productivo para su utilización en la creación y desarrollo de productos, procesos y servicios con valor agregado y viables comercialmente.
 
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2026)</small>
+
+XVI. Fomento emprendedor: el desarrollo de la cultura emprendedora por medio del estudio de temas que despierten el interés de la ciudadanía por convertirse en agentes de cambio y satisfagan sus metas a través de su propia acción, generando riqueza para sí y su comunidad en un marco de libertad, igualdad de condiciones y no discriminación, equidad de género, legalidad y responsabilidad;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2026)</small>
+
+XVII. Esquema transversal de emprendimiento: el desarrollo de la cultura del emprendimiento dentro de los programas de estudio en todos los niveles educativos.
+
 ###### Artículo 4.
 
 Los sectores público, científico, académico, tecnológico, social, financiero y productivo podrán participar en la integración y realización de políticas públicas en materia de fomento a la cultura emprendedora e impulso emprendedor conforme a los siguientes principios:
 
-I. La toma de decisiones en materia de fomento a la cultura emprendedora e impulso a los emprendedores en la entidad;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
+
+I. La toma de decisiones en materia de fomento a la cultura emprendedora e impulso a los emprendedores en la entidad bajo aspectos y valores sociales, comunitarios y humanos, como la solidaridad, trabajo en equipo, creatividad, competitividad, innovación y el desarrollo por el bien común;
 
 II. El conocimiento, la cultura emprendedora y la innovación empresarial son factores estratégicos que contribuyen al crecimiento económico y el bienestar social de la entidad y son parte fundamental para lograr el desarrollo sustentable, mejorar la competitividad y elevar la calidad de vida de la sociedad;
 
@@ -239,15 +261,17 @@ f) Secretaría de Medio Ambiente;
 
 g) Consejo Estatal de Ciencia y Tecnología; e
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
-h) Secretaría de las Mujeres; y
+h) Secretaría de las Mujeres;
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2024)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE MAYO DE 2026)</small>
 
-i) Secretaría de Inclusión y Desarrollo Social
+i) Instituto Coahuilense de la Juventud.
 
-V. Por el sector no gubernamental, 5 representantes de organizaciones empresariales, académicas y/o sociales, invitados por el Titular del Ejecutivo del Estado, buscando mantener representatividad de las diferentes regiones del Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MAYO DE 2026)</small>
+
+V. Por el sector no gubernamental, 5 representantes de organizaciones empresariales, académicas y/o sociales, invitados por el Titular del Ejecutivo del Estado, buscando mantener representatividad de las diferentes regiones del Estado y siempre respetando los principios de igualdad y equidad de género.
 
 Las Asociaciones empresariales, académicas y/o sociales a que se refiere la fracción V de este artículo podrán ser algunas de las que a continuación se mencionan de manera enunciativa mas no limitativa:
 
@@ -297,7 +321,9 @@ I. Diseñar, aprobar y actualizar cada tres años el Programa Estratégico;
 
 II. Definir y establecer en el Programa Estratégico las áreas prioritarias y los proyectos estratégicos para el desarrollo económico y social del Estado, que en todo momento estarán diseñados y proyectados con enfoque de género, garantizando así que los términos del documento favorezcan la cultura de igualdad;
 
-III. Proponer al Congreso del Estado o al titular del Ejecutivo Estatal, según corresponda, las reformas legales o administrativas necesarias para reducir o eliminar las barreras regulatorias, presupuestales, administrativas y financieras que obstaculicen el desarrollo económico y social de la entidad, la cultura emprendedora y el desarrollo de emprendedores innovadores;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
+
+III. Proponer al Congreso del Estado o al titular del Ejecutivo Estatal, según corresponda, las reformas legales o administrativas necesarias para reducir o eliminar las barreras regulatorias, presupuestales, administrativas, educativas y financieras que obstaculicen el desarrollo económico y social de la entidad, la cultura emprendedora y el desarrollo de emprendedores innovadores;
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2020)</small>
 
@@ -387,11 +413,11 @@ VII. Realizar las demás actividades que le encomiende el Consejo General Ciudad
 
 ### CAPÍTULO III. DEL PROGRAMA ESTRATÉGICO PARA EL FOMENTO DE LA CULTURA EMPRENDEDORA Y EL IMPULSO A EMPRENDEDORES
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
 ###### Artículo 16.
 
-El Programa Estratégico será formulado, aprobado, revisado, actualizado y evaluado por el Consejo General Ciudadano, en los términos de esta Ley y deberá considerar dentro de su alcance aspectos académicos, tecnológicos, de financiamiento, bajo un enfoque de género que garantice la igualdad sustantiva en el acceso a éste, para entidades de apoyo a emprendedores y a empresas de reciente creación.
+El Programa Estratégico será formulado, aprobado, revisado, actualizado y evaluado por el Consejo General Ciudadano, en los términos de esta Ley y deberá considerar dentro de su alcance aspectos socioeconómicos, académicos, tecnológicos, científicos, de financiamiento, bajo un enfoque de género que garantice la igualdad sustantiva en el acceso a éste, para entidades de apoyo a emprendedores y a empresas de reciente creación.
 
 ###### Artículo 17.
 
@@ -455,13 +481,17 @@ b) Incentivos a la reinversión de utilidades de las empresas en el estado para 
 
 c) Innovaciones tecnológicas estratégicas y aplicables a necesidades de mercado con un enfoque de gestión ambiental;
 
-d) Vinculación y articulación de los sectores científico y tecnológico con los sectores productivos y financieros para la implementación;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
+
+d) Vinculación y articulación de los sectores educativo, científico y tecnológico con los sectores productivos y financieros para la implementación;
 
 e) Apoyo para la creación, equipamiento y operación de centros de innovación para emprendedores en zonas urbanas y rurales;
 
 f) Asignación de recursos económicos y financieros para investigación, diseño, desarrollo, y producción de programas y contenidos de educación basados en el desarrollo de competencias, de técnicas innovadoras de enseñanza, de elementos didácticos y herramientas pedagógicas ya sean materiales documentales o dispositivos físicos, multimedia o interactivos, para su utilización individual o colectiva, en formato presencial o a distancia, en modalidad central, en red o portátil, que estén orientados a fomentar la cultura emprendedora desde edades tempranas y a lo largo de la vida así como el impulso a los emprendedores innovadores de la entidad.
 
-g) Asignación de recursos económicos y financieros para la implementación de programas de educación basados en competencias para emprendedores en todos los niveles de educación del Estado desde nivel primaria a postgrado, sean entidades educativas públicas o privadas y en centros de innovación, desde una perspectiva del emprendedor como factor humano, agente económico y proyecto empresarial específico.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
+
+g) Asignación de recursos económicos y financieros para la implementación de programas de educación basados en el fomento emprendedor y competencias para emprendedores en todos los niveles de educación del Estado desde nivel primaria a postgrado, sean entidades educativas públicas o privadas y en centros de innovación, desde una perspectiva del emprendedor como factor humano, agente económico y proyecto empresarial específico.
 
 h) Definición de normas y criterios que permitan, faciliten, ordenen y evalúen la implementación de programas de educación empresarial para desarrollar competencias, en entidades educativas públicas o privadas, dentro de las ramas del desarrollo humano, economía y finanzas, marco legal fiscal, administrativo, laboral y comercial, gestión de negocios, desarrollo regional, administración de la innovación, comercialización de ciencia y tecnología, negocios electrónicos, derechos de autor, propiedad industrial y los relacionados a la creación y desarrollo de negocios innovadores, según corresponda a los niveles de educación de la entidad donde se realizará su implementación. Los programas de educación empresarial podrán ser escolarizados o no escolarizados y además podrán ser impartidos en las entidades autorizadas de apoyo a emprendedores y de fomento a la cultura emprendedora dentro del marco de la presente Ley;
 
@@ -579,7 +609,9 @@ I. Las áreas prioritarias que se establezcan en el Programa Estratégico aproba
 
 II. Las necesidades de desarrollo e implementación de procesos de innovación sustentable en la industria, comercio y servicios en el Estado;
 
-III. Los impedimentos y las barreras regulatorias, administrativas, fiscales y financieras que afectan o desalientan la cultura emprendedora, impulso a emprendedores y empresas de reciente creación en el Estado;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
+
+III. Los impedimentos y las barreras regulatorias, administrativas, educativas, fiscales y financieras que afectan o desalientan la cultura emprendedora, impulso a emprendedores y empresas de reciente creación en el Estado;
 
 IV. Las oportunidades para promover la integración de sistemas regionales de innovación, alianzas estratégicas, consorcios, agrupamientos empresariales, incubadoras de empresas, aceleradoras de negocios y empresas de reciente creación;
 
@@ -876,3 +908,11 @@ P.O. 4 DE OCTUBRE DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 463.- SE REFORMAN: LAS FRACCIONES V Y XIV DEL ARTÍCULO 2, LAS FRACCIONES III, VII Y X DEL ARTÍCULO 3, LA FRACCIÓN I DEL ARTÍCULO 4, EL INCISO H) DE LA FRACCIÓN IV Y FRACCIÓN V DEL ARTÍCULO 8, LA FRACCIÓN III DEL ARTÍCULO 10, EL ARTÍCULO 16, EL INCISO D) Y G) DE LA FRACCIÓN V DEL ARTÍCULO 18, LA FRACCIÓN III DEL ARTÍCULO 22; Y, SE ADICIONAN: LA FRACCIÓN XV AL ARTÍCULO 2, LAS FRACCIONES XVI Y XVII AL ARTÍCULO 3, EL INCISO I) A LA FRACCIÓN IV DEL ARTÍCULO 8 DE LA LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
