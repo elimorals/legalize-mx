@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2025-04-18"
+last_updated: "2026-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de marzo de 2016.
 
@@ -130,6 +130,10 @@ XVI. Igualdad de oportunidades, participación social y libertad de toma de deci
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2021)</small>
 
 XVII. Independencia y autonomía
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2026)</small>
+
+XVIII. La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2021)</small>
 
@@ -251,9 +255,9 @@ d) Garantías de no repetición: Son las medidas generales, que evitan que hecho
 
 e) Obligación de investigar, juzgar y sancionar con perspectiva de género a través de los medios legales disponibles y deberá estar orientada a la determinación de la verdad histórica y jurídica: Esta obligación deberá incluir la investigación y sanción de las y los funcionarios que obstaculizaron o que con su negligencia violaron los derechos humanos de las mujeres y las niñas;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
 
-XXXIV. Instituto Coahuilense de las Mujeres;
+XXXIV. Secretaría de las Mujeres;
 
 XXXV. Sistema Estatal: El Sistema Estatal de Acceso de las Mujeres a una Vida Libre de Violencia;
 
@@ -371,7 +375,9 @@ II. Violencia física: Es cualquier acto que inflige daño no accidental, usando
 
 III. Violencia patrimonial: Es cualquier acto u omisión que afecta la supervivencia de los bienes de la víctima. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
 
-IV. Violencia económica: Es toda acción u omisión de la persona agresora que afecta la supervivencia económica de la víctima, se manifiesta a través de limitaciones encaminadas a controlar los recursos económicos o el ingreso de sus percepciones económicas;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
+
+IV. Violencia económica: Es toda acción u omisión de la persona agresora que afecta la supervivencia económica de la víctima, se manifiesta a través de limitaciones encaminadas a controlar los recursos económicos o el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral.
 
 V. Violencia sexual: Es todo acto sexual o la tentativa de consumarlo bajo coacción, acoso, hostigamiento o abuso, comentarios sexuales no deseados, las acciones para comercializar o utilizar de cualquier otro modo la sexualidad de una mujer mediante coacción, denigrándola y concibiéndola como objeto, con independencia de la relación del agresor con la víctima, en cualquier ámbito;
 
@@ -923,6 +929,14 @@ Por ninguna circunstancia el Ministerio Público notificará de sus actuaciones 
 
 Las autoridades que intervengan en el cumplimiento de una orden de protección también serán las responsables de informar a la autoridad ordenadora sobre su implementación conforme a la Ley para la Emisión y Seguimiento de las Medidas de Protección para Mujeres en Situación de Violencia del Estado de Coahuila de Zaragoza.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2026)</small>
+
+###### Artículo 28 Ter.
+
+Las medidas u órdenes de protección podrán solicitarse a la autoridad competente, con independencia del lugar en donde se suscitaron los hechos, sea en cualquier entidad federativa o en alguno de los municipios del Estado, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud. Lo anterior de conformidad con el Artículo 34 Bis de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Para efectos del párrafo anterior, las autoridades administrativas, la Fiscalía General del Estado y el Poder Judicial del Estado, podrán celebrar convenios de colaboración con las entidades públicas para garantizar la efectiva protección de las mujeres, adolescentes, niñas y niños conforme a los principios rectores de las medidas u órdenes de protección.
+
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 29.
@@ -931,9 +945,13 @@ Las órdenes de protección deberán ser registradas dentro del Banco de Datos r
 
 El Banco de Datos contará con la información del Ministerio Público, de las autoridades judiciales competentes y demás autoridades estatales y municipales que emitan, implementen o den seguimiento a las órdenes de protección, impulsando el efectivo intercambio de la información.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
+
 ###### Artículo 30.
 
-Las autoridades encargadas de emitir las órdenes (sic) protección, serán las responsables de garantizar y monitorear su ejecución. En todo caso se allegarán del personal e insumos necesarios para cumplir la medida.
+Durante los primeros seis días posteriores a la implementación de las órdenes de protección, la autoridad que la emitió mantendrá contacto directo con la mujer víctima de violencia cada 24 horas. A partir del séptimo día, se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.
+
+Las autoridades encargadas de emitir las órdenes (sic) protección serán las responsables de garantizar y monitorear su ejecución. En todo caso se allegarán del personal e insumos necesarios para cumplir la medida.
 
 ###### Artículo 31.
 
@@ -975,7 +993,9 @@ El Poder Ejecutivo del Estado recibirá, a través de la Secretaría de Gobernac
 
 Se crea el Sistema Estatal de Acceso de las Mujeres a una Vida Libre de Violencia, que tendrá por objeto implementar los esfuerzos, instrumentos, planes, programas, políticas públicas, servicios y acciones interinstitucionales, en coordinación con las instancias y entidades federales y municipales, para la prevención, atención, asistencia, sanción y erradicación de la violencia contra las mujeres.
 
-Todas las medidas que lleven a cabo el Estado, y los municipios deberán ser realizadas sin discriminación alguna.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
+
+Todas las medidas que lleve a cabo el Estado deberán ser realizadas sin discriminación alguna. Por ello, se hará un análisis interseccional el cual considerará la etnia, el idioma, edad, condición social, de salud, de discapacidad, preferencia sexual, cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
 
 ###### Artículo 36.
 
@@ -1077,9 +1097,9 @@ El Consejo se conformará por las personas Titulares de las instituciones siguie
 
 I. Secretaría de Gobierno, quien ocupará la presidencia del Sistema Estatal;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
 
-II. Instituto Coahuilense de las Mujeres, quien fungirá como Secretaría Técnica;
+II. Secretaría de las Mujeres; quien fungirá como Secretaría Técnica;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -1357,9 +1377,9 @@ III. Proporcionar a las mujeres víctimas de violencia, cuando ésta constituya 
 
 IV. Realizar ante hechos presumiblemente delictivos, los exámenes necesarios a las mujeres víctimas de violencia para determinar las alteraciones producidas en su estado de salud físico y emocional, así como su causa probable. Para tal fin, se aplicará el protocolo respectivo y se auxiliará por especialistas del sector salud;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
 
-V. Colaborar proporcionando la información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres, al Instituto Coahuilense de las Mujeres e instancias encargadas de realizar estadísticas;
+V. Colaborar proporcionando la información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres, a la Secretaría de las Mujeres e instancias encargadas de realizar estadísticas;
 
 VI. Proporcionar a las víctimas información sobre las instituciones públicas o privadas encargadas de brindarles asistencia;
 
@@ -1497,13 +1517,17 @@ IV. Realizar acciones tendientes a mejorar las condiciones de vida de las mujere
 
 V. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres para su empoderamiento y la eliminación de las brechas y desventajas de género; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
 
-VI. Promover, en su caso, en coordinación con la Secretaría del Trabajo y el Instituto Coahuilense de las Mujeres, la realización de capacitaciones, talleres y cursos dirigidos a identificar conductas que constituyan todo tipo de violencia en contra de las mujeres, especialmente en el ámbito laboral; fomentando el desarrollo económico con sentido social que propicie el acceso a un empleo libre de violencia y acoso.
+VI. Promover, en su caso, en coordinación con la Secretaría del Trabajo y la Secretaría de las Mujeres, la realización de capacitaciones, talleres y cursos dirigidos a identificar conductas que constituyan todo tipo de violencia en contra de las mujeres, especialmente en el ámbito laboral; fomentando el desarrollo económico con sentido social que propicie el acceso a un empleo libre de violencia y acoso.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MAYO DE 2026)</small>
 
-VII. Las demás previstas para el cumplimiento de la presente Ley.
+VII. Promover, en su caso, en conjunto con la Secretaría del Trabajo y la Secretaría de las Mujeres, la realización de capacitaciones y vinculación con empresas que permitan la reinserción laboral de las mujeres que se dedicaron preponderantemente a las labores del hogar.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE MAYO DE 2026)</small>
+
+VIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
 
@@ -1521,15 +1545,27 @@ V. Coadyuvar con las dependencias y entidades de la Administración Pública Est
 
 VI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-VII. Orientar a las víctimas de violencia en el ámbito laboral y sobre las instituciones que prestan atención y protección a las mujeres víctimas de este tipo de violencia, en los términos señalados en la legislación vigente; y
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
 
-VIII. Las demás previstas para el cumplimiento de la presente Ley.
+VII. Orientar a las víctimas de violencia en el ámbito laboral y sobre las instituciones que prestan atención y protección a las mujeres víctimas de este tipo de violencia, en los términos señalados en la legislación vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MAYO DE 2026)</small>
+
+VIII. Promover la vinculación con las empresas que les permita la reinserción laboral a las mujeres que se han dedicado preponderantemente a los cuidados del hogar.
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2026)</small>
+
+IX. Diseñar, con una visión integral y transversal, una política estatal con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres, así como para reducir y erradicar la brecha salarial de género en los términos señalados en la legislación vigente.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE MAYO DE 2026)</small>
+
+X. Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2026)</small>
 
 ###### Artículo 55.
 
-Corresponde al Instituto Coahuilense de las Mujeres:
+Corresponde la Secretaría de las Mujeres:
 
 I. Participar en la elaboración y ejecución del Programa Estatal, y en el diseño de nuevos modelos de prevención y erradicación de la violencia contra las mujeres;
 
@@ -1873,11 +1909,13 @@ SECCIÓN TECERA (SIC)
 
 LA ATENCIÓN VÍA TELEFÓNICA
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2026)</small>
 
 ###### Artículo 70.
 
-El Instituto Coahuilense de las Mujeres será la entidad responsable de brindar atención vía telefónica a las víctimas de violencia con perspectiva de género. Además se encargará de elaborar el manual operativo de este tipo de atención, el cual deberá ser sometido a la consideración y aprobación del Sistema Estatal.
+La Secretaría de las Mujeres será la entidad responsable de brindar atención vía telefónica a las víctimas de violencia con perspectiva de género.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 El servicio de atención telefónica a las víctimas tendrá cobertura en todo el Estado, para lo cual, se deberán implementar las acciones y mecanismos que la garanticen.
 
@@ -1983,11 +2021,11 @@ I. Actualización y profesionalización en atención a la violencia contra las m
 
 II. Experiencia en la atención de víctimas, y deberá cumplir con los requisitos legales para el ejercicio de su respectiva profesión.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2026)</small>
 
 ###### Artículo 81.
 
-El Instituto Coahuilense de las Mujeres, podrá monitorear y dar seguimiento al funcionamiento de los refugios, para lo cual considerará la participación de las organizaciones y personas de la sociedad civil, en la supervisión de las actividades y los servicios que se brindan en los refugios
+La Secretaría de las Mujeres, podrá monitorear y dar seguimiento al funcionamiento de los refugios, para lo cual considerará la participación de las organizaciones y personas de la sociedad civil, en la supervisión de las actividades y los servicios que se brindan en los refugios.
 
 ###### Artículo 82.
 
@@ -2321,9 +2359,9 @@ Con la finalidad de avanzar en el desarrollo de políticas públicas coordinadas
 
 I. De prevención, que será coordinado por la Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2026)</small>
 
-II. De atención, que será coordinado por la (sic) Instituto Coahuilense de las Mujeres, y
+II. De atención, que será coordinado por la Secretaría de la (sic) Mujeres, y
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -2826,3 +2864,49 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las instituciones a que hace referencia contarán con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes a sus reglamentaciones internas.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 435.- SE REFORMA LA FRACCIÓN VII Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 54, Y SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONAN LAS FRACCIONES IX Y X DEL ARTÍCULO 54 BIS, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 437.- SE ADICIONA EL ARTÍCULO 28 TER Y SE REFORMA EL ARTÍCULO 30 DE LA LEY DE ACCESO DE LAS MUJERES A UNA 30 VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 439.- SE ADICIONA LA FRACCIÓN XVIII DEL ARTÍCULO 3, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 440.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 441.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 35 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 442.- SE REFORMA LA FRACCIÓN XXXIV, DEL ARTÍCULO 6; LA FRACCIÓN II DEL ARTÍCULO 41; FRACCIÓN V DEL ARTÍCULO 50; FRACCIÓN VI DEL ARTÍCULO 54; PRIMER PÁRRAFO DEL ARTÍCULO 55; PRIMER PÁRRAFO DEL ARTÍCULO 70, ARTÍCULO 81; ASÍ COMO LA FRACCIÓN II DEL ARTÍCULO 116 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
