@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-en-materia-de-gobierno-y-12616
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2026-02-04"
+last_updated: "2026-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2026.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de enero de 2018.
 
@@ -335,9 +335,9 @@ IX. No haber sido sentenciado a pena privativa de libertad por delito doloso o d
 
 X. No estar comprendido en alguna de las causas de inelegibilidad que establece la Ley de Instituciones y Procedimientos Electorales del Estado de Chiapas.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2026)</small>
 
-Los mismos requisitos serán exigibles a las personas titulares de la Secretaría del Ayuntamiento, Tesorería Municipal, Dirección de Obras Públicas, Secretaría de la Juventud, Recreación y Deporte Municipal, Oficialía Mayor y Titulares con cargos equivalentes y con percepciones similares.
+Los mismos requisitos serán exigibles a las personas titulares de la Secretaría del Ayuntamiento, Tesorería Municipal, Dirección de Obras Públicas, Secretaría de la Juventud, Recreación y Deporte Municipal, Oficialía Mayor, Dirección de Fomento Agropecuario y en su caso Pesquero y Titulares con cargos equivalentes y con percepciones similares.
 
 > <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 5 DE DICIEMBRE DE 2024)</small>
 
@@ -352,6 +352,14 @@ c). Para ser Directora o Director de Obras Públicas Municipales de un Ayuntamie
 d). Además, para ser Titular de la Secretaría de la Juventud, Recreación y Deporte Municipal, deberá contar con Capacitación y Certificación de Competencia Laboral vigente en la materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación de Competencias con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas.
 
 e). Para ser Oficial Mayor, además de los requisitos establecidos en otras disposiciones normativas correspondientes, deberá contar con Capacitación y Certificación de Competencia Laboral vigente en materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación de Competencias con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2026)</small>
+
+f). Para ser Titular de la Dirección de Fomento Agropecuario y en su caso Pesquero, deberá contar preferentemente con carrera universitaria en Ciencias Agropecuarias; Así mismo deberá contar con Capacitación y Certificación de Competencia Laboral vigente en la materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación de Competencias con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas.
+
+> <small>[N. DE E. PERTENECE AL INCISO F), P.O. 20 DE MAYO DE 2026.]</small>
+
+La Dirección de Fomento Agropecuario y en su caso Pesquero, tendrá como objetivo impulsar la productividad del campo y pesquero municipal, promoviendo la participación de productores del campo en programas y proyectos concertados con dependencias federales, estatales y del propio Municipio.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
@@ -2862,3 +2870,11 @@ P.O. 4 DE FEBRERO DE 2026.
 Artículo Primero.- El presente Decreto entrará en vigor el día primero de enero del año 2027.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 242 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL ARTÍCULO 39 DE LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
