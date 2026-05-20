@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-integral-de-periodistas-y-personas-14962
 country: "mx"
 rank: "ley"
 publication_date: "2021-05-31"
-last_updated: "2024-04-05"
+last_updated: "2026-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PROTECCIÓN INTEGRAL DE PERIODISTAS Y PERSONAS DEFENSORAS DE LOS DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE MAYO DE 2026.
 
 Ley publicada en la Sección Segunda del Número 100 de la Gaceta del Gobierno del Estado de México, el lunes 31 de mayo de 2021.
 
@@ -75,7 +75,9 @@ VIII. Fondo: Fondo para la Protección Integral de los Periodistas y Personas De
 
 IX. Mecanismo: Mecanismo para la Protección Integral de Periodistas y Personas Defensoras de los Derechos Humanos del Estado de México;
 
-X. Medidas de Prevención: Conjunto de acciones y medios encaminados a desarrollar políticas públicas y programas con el objetivo de reducir los factores de riesgo que favorecen las agresiones en contra de Periodistas y Personas Defensoras de los Derechos Humanos del Estado de México, así como para combatir las causas que las producen a fin de generar garantías de no repetición;
+> <small>(REFORMADA, G.G. 20 DE MAYO DE 2026)</small>
+
+X. Medidas de Prevención: Conjunto de acciones y medios encaminados a desarrollar políticas públicas y programas con el objetivo de reducir los factores de riesgo que favorecen las agresiones en contra de Periodistas y Personas Defensoras de los Derechos Humanos del Estado de México, así como para combatir las causas que las producen o su reparación a fin de generar garantías de no repetición;
 
 XI. Medidas Preventivas: Al conjunto de acciones y medios a favor del beneficiario para evitar la consumación de las agresiones;
 
@@ -93,13 +95,23 @@ XVII. Perspectiva de Género: Es una visión científica, analítica y política
 
 XVIII. Plan de Protección: Al conjunto de acciones para aumentar las capacidades y disminuir las vulnerabilidades, amenazas y exposición de riesgo de la persona beneficiaria, para lo cual se otorgarán lineamientos, Medidas Preventivas y/o de Protección, según el caso con la finalidad de garantizar la vida, seguridad, integridad y la labor de las personas beneficiarias, sus familiares y personas vinculadas a ellas;
 
-XIX. Procedimiento Extraordinario: Procedimiento que deriva en Medidas Urgentes de Protección con el fin de preservar la vida e integridad de la persona beneficiaria.
+> <small>(REFORMADA, G.G. 20 DE MAYO DE 2026)</small>
+
+XIX. Procedimiento Extraordinario: Procedimiento que deriva en Medidas Urgentes de Protección con el fin de preservar la vida e integridad de la persona beneficiaria;
+
+> <small>(ADICIONADA, G.G. 20 DE MAYO DE 2026)</small>
+
+XX. Garantía del ejercicio periodístico: Conjunto de condiciones jurídicas, institucionales y materiales que aseguran el ejercicio libre, independiente, seguro y sin injerencias del periodismo, en beneficio del derecho de la sociedad a la información.
 
 ###### Artículo 3.
 
 El Mecanismo estará integrado por una Junta de Gobierno, un Consejo Consultivo y una Coordinación Ejecutiva.
 
 Al analizar cada caso, los órganos del Mecanismo deberán hacerlo siempre de la manera más favorable para las personas, tomando en cuenta las condiciones particulares de riesgo para cada individuo, realizándolo con perspectiva de género y considerando las características étnicas, de preferencia u orientación sexual, religión, así como otras de tipo cultural o sociopolítico a fin de identificar factores que pudieran aumentar el riesgo, y se deberá considerar la relación que tuviera el caso con otros dentro del Mecanismo.
+
+> <small>(ADICIONADO, G.G. 20 DE MAYO DE 2026)</small>
+
+Las acciones del Mecanismo deberán regirse bajo el principio de garantía del ejercicio periodístico.
 
 ### CAPÍTULO II. LA JUNTA DE GOBIERNO
 
@@ -161,6 +173,10 @@ Las convocatorias para la realización de sesiones ordinarias deberán ser comun
 
 La Junta de Gobierno sesionará válidamente con más de la mitad de sus integrantes. Para la adopción de acuerdos se privilegiará el consenso y las determinaciones deberán ser tomadas mediante un proceso deliberativo y transparente. En caso de que esto no sea posible, las determinaciones se harán por mayoría de votos, teniendo la presidencia voto de calidad en caso de empate.
 
+> <small>(ADICIONADO, G.G. 20 DE MAYO DE 2026)</small>
+
+La Junta de Gobierno podrá sesionar mediante el uso de las tecnologías de la información y comunicación o medios electrónicos que permitan la participación de la totalidad o de algunas de las personas integrantes de forma telepresencial. En los casos estrictamente necesarios, la Coordinación Ejecutiva solventará los gastos para que las personas integrantes del Consejo Consultivo participen de forma presencial en las sesiones de la Junta de Gobierno, de conformidad con las disposiciones jurídicas aplicables.
+
 ###### Artículo 8.
 
 La Junta de Gobierno tendrá las siguientes atribuciones:
@@ -187,29 +203,43 @@ X. Las demás que establezcan las disposiciones aplicables.
 
 ### CAPÍTULO III. DEL CONSEJO CONSULTIVO
 
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
+
 ###### Artículo 9.
 
-El Consejo Consultivo es el órgano de consulta de la Junta de Gobierno y estará conformado por trece miembros, uno de ellos ocupará la presidencia por un periodo de dos años y se elegirá por mayoría simple de sus miembros.
+El Consejo Consultivo es el órgano de consulta de la Junta de Gobierno y estará conformado por nueve personas integrantes, una de ellas ocupará la presidencia por un periodo de dos años y se elegirá por mayoría simple de sus miembros.
 
-En ausencia del presidente, el Consejo elegirá a un presidente interino por el tiempo que dure la ausencia o hasta que culmine el periodo. En la integración del Consejo se buscará un equilibrio entre personas expertas en la defensa de los derechos humanos y del ejercicio de la libertad de expresión y el periodismo.
+En ausencia de la Presidencia, el Consejo elegirá a una Presidencia Interina por el tiempo que dure la ausencia o hasta que culmine el periodo. En la integración del Consejo se buscará un equilibrio entre personas expertas en la defensa de los derechos humanos y del ejercicio de la libertad de expresión y el periodismo, así como la representación regional.
 
-En la integración del Consejo Consultivo se procurará la paridad de género.
+En la integración del Consejo Consultivo se garantizará la paridad de género.
+
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
 
 ###### Artículo 10.
 
-Por cada consejero habrá un suplente. La suplencia sólo procederá en caso de ausencia definitiva del titular.
+El Consejo Consultivo contará con cuatro personas suplentes, quienes asumirán la titularidad como consejeras en caso de ausencia definitiva de las propietarias, según el orden en que se nombren.
 
 ###### Artículo 11.
 
 Las personas consejeras deberán tener experiencia en la defensa y promoción de los derechos humanos o en el ejercicio profesional del periodismo o experiencia en la evaluación de riesgos y protección de personas. No deberán desempeñarse como servidores públicos, ni representantes de partidos políticos.
 
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
+
 ###### Artículo 12.
 
-El Consejo Consultivo se integrará a través de convocatoria pública emitida por la Junta de Gobierno, dirigida a las organizaciones de la sociedad civil y personas involucradas en la defensa y promoción de los derechos humanos y en el ejercicio del periodismo y la libertad de expresión.
+El Consejo Consultivo se integrará a través de convocatoria pública aprobada por la Junta de Gobierno y emitida a través de su presidencia, dirigida a las organizaciones de la sociedad civil y personas involucradas en la defensa y promoción de los derechos humanos y en el ejercicio del periodismo y la libertad de expresión.
+
+Dicha convocatoria deberá contener el procedimiento, plazos y términos para el registro de las personas aspirantes, quienes deberán comparecer de manera pública ante la sociedad y sus pares conforme lo organice la Coordinación Ejecutiva, la cual elaborará un informe de resultados de las evaluaciones y comparecencias que será entregado a la Junta de Gobierno para que apruebe la elección de las personas integrantes y suplentes.
+
+En caso de reelección de las personas integrantes del Consejo Consultivo, si estas son integrantes de la Junta de Gobierno, deberán excusarse en la votación de la elección respectiva.
+
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
 
 ###### Artículo 13.
 
-Las personas consejeras nombrarán por periodo de dos años de entre sus miembros a cuatro de ellos para formar parte de la Junta de Gobierno, de los cuales dos serán personas expertas en la defensa de los derechos humanos y dos en el ejercicio de la libertad de expresión y el periodismo.
+Las personas consejeras nombrarán por periodo de dos años de entre sus integrantes a cuatro de ellos para formar parte de la Junta de Gobierno, de los cuales dos serán personas expertas en la defensa de los derechos humanos y dos en el ejercicio de la libertad de expresión y el periodismo, y sus respectivos suplentes.
+
+En caso de que las personas consejeras acumulen dos inasistencias sin justificación o tres consecutivas a las sesiones de la Junta de Gobierno, el Consejo Consultivo podrá designar al respectivo suplente como titular de manera permanente y nombrar a una nueva persona consejera suplente.
 
 ###### Artículo 14.
 
@@ -457,7 +487,13 @@ IV. Acompañamiento de observadores sobre la libertad de expresión en el ejerci
 
 V. Actos de reconocimiento de la labor de los periodistas y personas defensoras de los derechos humanos, que enfrentan las formas de violencia e impulsen la no discriminación;
 
-VI. Las demás que se requieran y consideren pertinentes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE MAYO DE 2026)</small>
+
+VI. Prendas u otros objetos de identificación voluntaria y preventiva para el ejercicio de su labor;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 20 DE MAYO DE 2026)</small>
+
+VII. Las demás que se requieran y consideren pertinentes.
 
 ###### Artículo 33.
 
@@ -581,7 +617,43 @@ VII. Adoptar medidas especiales para proteger a Periodistas y Personas Defensora
 
 VIII. Promover en el ámbito de sus competencias, programas y acciones dirigidas al fortalecimiento y protección de las relaciones individuales y colectivas de trabajo, así como de los derechos humanos intrínsecos a su labor periodística;
 
-IX. Las acciones de prevención estarán encaminadas al diseño de sistemas de alerta temprana y planes de contingencia, incorporando la Perspectiva de Género, con la finalidad de evitar potenciales agresiones a periodistas y personas defensoras de derechos humanos.
+> <small>(REFORMADA, G.G. 20 DE MAYO DE 2026)</small>
+
+IX. Las acciones de prevención estarán encaminadas al diseño de sistemas de alerta temprana y planes de contingencia, incorporando la Perspectiva de Género, con la finalidad de evitar potenciales agresiones a periodistas y personas defensoras de derechos humanos;
+
+> <small>(ADICIONADA, G.G. 20 DE MAYO DE 2026)</small>
+
+X. Implementar las mejores prácticas y protocolos para el reconocimiento, intervención, interacción y atención de Periodistas y Personas Defensoras de Derechos Humanos incluyendo a quienes pertenezcan a pueblos o comunidades indígenas o afromexicanas, de la diversidad sexual, migrantes o cualquier grupo vulnerable, que le sea proporcionado por la Coordinación Ejecutiva.
+
+La Secretaría de Seguridad del Estado de México, así como las autoridades municipales, deberán publicar y actualizar de forma periódica un protocolo de intervención e interacción de las fuerzas de seguridad y sus elementos con Periodistas y Personas Defensoras de Derechos Humanos incluyendo a quienes pertenezcan a pueblos o comunidades indígenas o afromexicanas, de la diversidad sexual, migrantes o cualquier grupo vulnerable;
+
+> <small>(ADICIONADA, G.G. 20 DE MAYO DE 2026)</small>
+
+XI. Gestionar e implementar capacitaciones, formación profesional, estudios educativos, diplomados o talleres para Periodistas y Personas Defensoras de los Derechos Humanos con temáticas que fortalezcan el ejercicio de la libertad de expresión y la defensa de los Derechos Humanos y brindar becas de profesionalización, de conformidad con las disposiciones jurídicas aplicables.
+
+Las autoridades educativas deberán considerar en sus programas de becas o apoyos educativos medidas para la participación de Periodistas y Personas Defensoras de los Derechos Humanos y sus hijas e hijos;
+
+> <small>(ADICIONADA, G.G. 20 DE MAYO DE 2026)</small>
+
+XII. Brindar asesoría a Periodistas y Personas Defensoras de los Derechos Humanos para participar y beneficiarse de los programas y acciones de bienestar y desarrollo social, incluyendo los relativos al acceso a la vivienda;
+
+> <small>(ADICIONADA, G.G. 20 DE MAYO DE 2026)</small>
+
+XIII. Brindar asesoría y coadyuvar con las instancias competentes para el acceso y afiliación de las personas Periodistas y Personas Defensoras de Derechos Humanos a los servicios de salud y esquemas de seguridad social del Instituto Mexicano del Seguro Social y de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar;
+
+> <small>(ADICIONADA, G.G. 20 DE MAYO DE 2026)</small>
+
+XIV. En caso de fallecimiento de personas Periodistas o Defensoras de Derechos Humanos que no cuenten con servicios funerarios derivados de sistemas de seguridad social o de cualquier otro sistema de previsión, el Mecanismo podrá gestionar las acciones necesarias para proveer los servicios funerarios de conformidad con los lineamientos correspondientes.
+
+> <small>(ADICIONADO, G.G. 20 DE MAYO DE 2026)</small>
+
+###### Artículo 45 Bis.
+
+Con el único fin de facilitar el contacto y comunicación en casos de emergencia, el Mecanismo, a través de la Coordinación Ejecutiva apoyará al Consejo Consultivo para establecer un directorio de periodistas y personas defensoras de derechos humanos, que voluntariamente proporcionen datos de contacto o, en su caso, de sus contactos de emergencia, editores, organizaciones, colectivos o medios de comunicación que determinen.
+
+El directorio será administrado por el Consejo Consultivo y no representará ningún tipo de colegiación obligatoria o condición para la incorporación al Mecanismo, y solo funcionará como instrumento complementario, voluntario y preventivo para agilizar la comunicación en caso de emergencia.
+
+Los datos proporcionados serán tratados de conformidad con la legislación en materia de protección (sic) datos personales aplicable.
 
 ### CAPÍTULO IX. DE LAS OBLIGACIONES DE LAS AUTORIDADES DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
@@ -593,7 +665,9 @@ Los Municipios deberán hacer efectivas las medidas preventivas para garantizar 
 
 Son obligaciones de las autoridades del Estado de México y sus municipios:
 
-I. Coadyuvar con la Coordinación Ejecutiva en la implementación de las Medidas Preventivas, y las Medidas de Protección correspondientes, para garantizar el cumplimiento del objeto de esta Ley;
+> <small>(REFORMADA, G.G. 20 DE MAYO DE 2026)</small>
+
+I. Coadyuvar con la Coordinación Ejecutiva en la implementación de las Medidas Preventivas, y las Medidas de Protección correspondientes, para garantizar el cumplimiento del objeto de esta Ley, e implementar, en el ámbito de su competencia, las acciones correspondientes en términos de los protocolos previstos en la fracción X del artículo 45;
 
 II. Ejecutar las Medidas Urgentes de Protección que le sean solicitadas por la Coordinación Ejecutiva;
 
@@ -753,9 +827,11 @@ IX. Las demás que las partes convengan.
 
 ### CAPÍTULO XVII. DEL FONDO PARA LA PROTECCIÓN INTEGRAL DE PERIODISTAS Y PERSONAS DEFENSORAS DE LOS DERECHOS HUMANOS
 
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
+
 ###### Artículo 64.
 
-El Ejecutivo del Estado deberá constituir un Fondo para que el Mecanismo cuente con recursos que se destinarán exclusivamente para la implementación y operación de las medidas preventivas, medidas de protección y medidas urgentes de protección.
+El Ejecutivo del Estado deberá constituir un Fondo para que el Mecanismo cuente con recursos que se destinarán exclusivamente para la implementación y operación de las medidas de prevención, medidas preventivas, medidas de protección y medidas urgentes de protección.
 
 ###### Artículo 65.
 
@@ -938,3 +1014,15 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 319.- POR EL QUE SE REFORMA LAS FRACCIONES X Y XIX DEL ARTÍCULO 2, LOS ARTÍCULOS 9, 10, 12 Y 13, LA FRACCIÓN VI DEL ARTÍCULO 32, LA FRACCIÓN IX DEL ARTÍCULO 45, LA FRACCIÓN I DEL ARTÍCULO 47, Y EL ARTÍCULO 64, Y SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 2, UN TERCER PÁRRAFO AL ARTÍCULO 3, UN CUARTO PÁRRAFO AL ARTÍCULO 7, LA FRACCIÓN VII AL ARTÍCULO 32, LAS FRACCIONES X, XI, XII, XIII Y XIV AL ARTÍCULO 45, Y EL ARTÍCULO 45 BIS DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERIODISTAS Y PERSONAS DEFENSORAS DE LOS DERECHOS HUMANOS DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Las personas consejeras integrantes del Consejo Consultivo y sus respectivas personas suplentes, elegidas de conformidad con la Convocatoria para la Elección y, en su caso, la Reelección de las Personas Integrantes del Consejo Consultivo del Mecanismo para la Protección Integral de Periodistas y Personas Defensoras de los Derechos Humanos del Estado de México, para el periodo 2026-2030, publicada en el Periódico Oficial “Gaceta del Gobierno” el 6 de marzo de 2026, continuarán desempeñándose hasta la conclusión de su encargo.
+
+CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
