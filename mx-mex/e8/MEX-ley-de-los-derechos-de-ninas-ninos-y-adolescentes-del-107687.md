@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2025-12-17"
+last_updated: "2026-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE MAYO DE 2026.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -562,6 +562,10 @@ Sin perjuicio de lo dispuesto en otras disposiciones aplicables, las autoridades
 Para efectos del párrafo anterior, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, y las instituciones académicas se coordinarán para:
 
 I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia.
+
+> <small>(ADICIONADO, G.G. 20 DE MAYO DE 2026)</small>
+
+En este sentido, las autoridades competentes deberán establecer lineamientos, protocolos, guías o manuales que regulen y, en su caso, limiten el uso de teléfonos celulares y demás dispositivos electrónicos dentro de las aulas escolares, con el objeto de prevenir su utilización inadecuada y contribuir a la erradicación de conductas vinculadas a la violencia escolar.
 
 II. Desarrollar actividades de capacitación para servidores públicos, para el personal administrativo y docente, así como para las asociaciones de padres de familia.
 
@@ -2642,3 +2646,11 @@ G.G. 17 DE DICIEMBRE DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 327.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 58 Y SE ADICIONA EL ARTÍCULO 61 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 28 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
