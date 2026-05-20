@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2026-04-28"
+last_updated: "2026-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE MAYO DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -1381,13 +1381,33 @@ Sostenimiento económico del hogar
 
 No tiene esta obligación el cónyuge que carezca de bienes propios y esté imposibilitado para trabajar; ni el que por convenio tácito o expreso, se ocupe de las labores del hogar o de la atención de los hijos. En estos casos, el otro cónyuge solventará íntegramente esos gastos.
 
-> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
 
-El trabajo del hogar consiste en realizar tareas de administración, dirección y atención del hogar, así como el cuidado de la familia, se consideran aportaciones económicas para el sostenimiento del hogar, los alimentos y la adquisición de los bienes durante el matrimonio, equivalentes a la aportación económica del otro cónyuge.
+El trabajo del hogar no remunerado, es el conjunto de actividades que se realizan dentro del ámbito doméstico con el propósito de garantizar el bienestar y el funcionamiento diario de las personas que lo integran, estas labores incluyen tareas de cuidado de niñas, niños, adolescentes, personas con discapacidad, adultas mayores, y en general de la familia, limpieza, preparación de alimentos, y lavado de ropa, así como la organización y administración del hogar en general. Los alimentos y la adquisición de bienes durante el matrimonio, se consideran aportaciones económicas para el sostenimiento del hogar, equivalentes a la aportación económica del otro cónyuge.
 
 > <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
 
 Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges, independientemente de su aportación económica al sostenimiento del hogar.
+
+> <small>(ADICIONADO, G.G. 20 DE MAYO DE 2026)</small>
+
+El trabajo del hogar será valorado en juicios sobre alimentos, guarda y custodia, compensaciones y liquidación de regímenes patrimoniales.
+
+> <small>(ADICIONADO, G.G. 20 DE MAYO DE 2026)</small>
+
+Criterios para la valoración del trabajo del hogar
+
+###### Artículo 4.
+
+18 Bis.- Para valorar económicamente el trabajo del hogar no remunerado, se considerarán, entre otros aspectos:
+
+I. El tiempo dedicado a las labores domésticas y de cuidado;
+
+II. El costo de servicios domésticos y de cuidado equivalentes en el mercado;
+
+III. La renuncia, limitación o afectación en el desarrollo de oportunidades laborales, profesionales o académicas derivada de la realización de estas actividades; y
+
+IV. Las responsabilidades asumidas en el cuidado y desarrollo integral de los miembros de la familia, particularmente hijos, hijas y personas dependientes.
 
 Educación de los hijos y administración de bienes
 
@@ -1423,14 +1443,6 @@ Entre cónyuges no hay prescripción
 
 23.- Entre los cónyuges no corre el plazo para la prescripción.
 
-###### Artículo 4.
-
-24.- El matrimonio debe celebrarse bajo el régimen de sociedad conyugal o el de separación de bienes. En el caso de omisión o imprecisión, se entenderá celebrado bajo el régimen de sociedad conyugal.
-
-El régimen patrimonial podrá cambiarse mediante resolución judicial.
-
-Concepto de capitulaciones matrimoniales
-
 ## TITULO SEGUNDO. De los efectos del Matrimonio en relación con los Bienes de los Cónyuges
 
 ### CAPITULO I. Disposiciones Generales
@@ -1438,6 +1450,14 @@ Concepto de capitulaciones matrimoniales
 Régimen patrimonial en el matrimonio
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 4.
+
+24.- El matrimonio debe celebrarse bajo el régimen de sociedad conyugal o el de separación de bienes. En el caso de omisión o imprecisión, se entenderá celebrado bajo el régimen de sociedad conyugal.
+
+El régimen patrimonial podrá cambiarse mediante resolución judicial.
+
+Concepto de capitulaciones matrimoniales
 
 ###### Artículo 4.
 
@@ -1469,6 +1489,10 @@ IV. Objetos de uso personal.
 
 28.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
+### CAPITULO II. De la Sociedad Conyugal
+
+Disposiciones que regulan las capitulaciones matrimoniales
+
 ###### Artículo 4.
 
 29.- La sociedad conyugal se regirá por las capitulaciones matrimoniales y por las disposiciones de este capítulo.
@@ -1478,10 +1502,6 @@ IV. Objetos de uso personal.
 El dominio de los bienes comunes reside en ambos cónyuges en la proporción establecida en las capitulaciones; a falta de ellas, los bienes adquiridos durante el matrimonio son propiedad de ambos cónyuges en partes iguales.
 
 Casos en que las capitulaciones y modificaciones deben constar en escritura
-
-### CAPITULO II. De la Sociedad Conyugal
-
-Disposiciones que regulan las capitulaciones matrimoniales
 
 ###### Artículo 4.
 
@@ -1599,19 +1619,19 @@ Reglas sobre terminación y liquidación de la sociedad
 
 45.- Todo lo relativo a la terminación y liquidación de la sociedad conyugal, se regirá por lo que disponga el Código de Procedimientos Civiles al respecto.
 
+### CAPITULO III. De la Separación de Bienes
+
+Disposiciones que rigen la separación de bienes
+
 ###### Artículo 4.
 
 46.- La separación de bienes se rige por las capitulaciones matrimoniales o por sentencia judicial. La separación puede comprender no sólo los bienes de que sean propietarios los cónyuges al celebrar el matrimonio, sino también los que adquieran después.
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
 
-Para efectos de divorcio, cuando alguno de los cónyuges haya realizado trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o cuidado de la familia, de manera cotidiana o tenga desproporcionalmente menos bienes que el otro cónyuge, tendrá derecho a la repartición de los bienes adquiridos durante el matrimonio hasta por el cincuenta por ciento, con base en los principios de equidad y proporcionalidad.
+Para efectos de divorcio, cuando alguno de los cónyuges haya realizado preponderantemente trabajo del hogar no remunerado, consistente en tareas de administración, dirección, atención del mismo o cuidado de la familia, de manera cotidiana o tenga desproporcionalmente menos bienes que el otro cónyuge, tendrá derecho a la repartición de los bienes adquiridos durante el matrimonio de por lo menos el cuarenta y hasta por el cincuenta por ciento, con base en los principios de equidad y proporcionalidad, independientemente del porcentaje de dedicación a actividades económicas externas.
 
 Régimen de separación de bienes absoluto o parcial
-
-### CAPITULO III. De la Separación de Bienes
-
-Disposiciones que rigen la separación de bienes
 
 ###### Artículo 4.
 
@@ -1641,15 +1661,15 @@ Contribución de los cónyuges a la educación y alimentación de los hijos
 
 51.- Cada uno de los cónyuges debe contribuir (sic) la educación y alimentación de los hijos y a las demás cargas del matrimonio.
 
+### CAPITULO IV. De las Donaciones Antenupciales
+
+Concepto de la donación antenupcial
+
 ###### Artículo 4.
 
 52.- Son donaciones antenupciales las que antes del matrimonio hace un pretendiente al otro, así como las que un tercero hace a alguno de los pretendientes, o a ambos en consideración al matrimonio, las que podrán ser inoficiosas en los términos en que lo fueren las comunes.
 
 Determinación de donación antenupcial inoficiosa
-
-### CAPITULO IV. De las Donaciones Antenupciales
-
-Concepto de la donación antenupcial
 
 ###### Artículo 4.
 
@@ -1687,19 +1707,23 @@ Reglas aplicables a las donaciones antenupciales
 
 58.- Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a este capítulo.
 
-###### Artículo 4.
-
-59.- Los cónyuges pueden hacerse donaciones siempre que no perjudiquen el derecho de los acreedores alimentarios; pero sólo se confirman con la muerte del donante.
-
-Posibilidad de revocar donaciones entre cónyuges
-
 ### CAPITULO V. De las Donaciones entre Cónyuges
 
 Confirmación de las donaciones entre cónyuges
 
 ###### Artículo 4.
 
+59.- Los cónyuges pueden hacerse donaciones siempre que no perjudiquen el derecho de los acreedores alimentarios; pero sólo se confirman con la muerte del donante.
+
+Posibilidad de revocar donaciones entre cónyuges
+
+###### Artículo 4.
+
 60.- Las donaciones entre cónyuges pueden ser revocadas libremente y en todo tiempo por los donantes.
+
+### CAPITULO VI. De los Matrimonios nulos
+
+Causas de nulidad de matrimonio
 
 ###### Artículo 4.
 
@@ -1712,10 +1736,6 @@ II. Que el matrimonio se haya celebrado con alguno de los impedimentos señalado
 III. Que se haya celebrado sin las formalidades que la ley señala.
 
 Legitimación para pedir la nulidad de matrimonio por error
-
-### CAPITULO VI. De los Matrimonios nulos
-
-Causas de nulidad de matrimonio
 
 ###### Artículo 4.
 
@@ -1901,6 +1921,10 @@ II. No se ha otorgado la dispensa a tutores, curadores o descendientes de éstos
 
 III. Se celebre sin que hayan transcurrido los plazos para que los divorciados puedan contraer matrimonio, o el fijado a la mujer después de la nulidad o disolución del matrimonio.
 
+## TITULO TERCERO. Del Divorcio
+
+Efectos jurídicos del divorcio
+
 ###### Artículo 4.
 
 88.- El divorcio disuelve el matrimonio y deja a los cónyuges en aptitud de contraer otro.
@@ -1908,10 +1932,6 @@ III. Se celebre sin que hayan transcurrido los plazos para que los divorciados p
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
 Clases de divorcio
-
-## TITULO TERCERO. Del Divorcio
-
-Efectos jurídicos del divorcio
 
 ###### Artículo 4.
 
@@ -2139,17 +2159,17 @@ Anotación en el Registro Civil
 
 De la escritura pública en que conste el convenio de divorcio ante Notaria o Notario, la propia fedataria o fedatario remitirá copia certificada al Registro Civil para que a costa de los interesados, se realicen los asientos correspondientes.
 
-###### Artículo 4.
-
-111.- Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos.
-
-Consentimiento de la mujer para la inseminación artificial
-
 ## TITULO CUARTO. Del Parentesco y los Alimentos
 
 ### CAPITULO I. Disposiciones Generales
 
 Derecho a la procreación
+
+###### Artículo 4.
+
+111.- Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos.
+
+Consentimiento de la mujer para la inseminación artificial
 
 ###### Artículo 4.
 
@@ -2187,15 +2207,15 @@ Consentimiento judicial para la inseminación artificial
 
 116.- El consentimiento a que se refiere este capítulo deberá otorgarse judicialmente.
 
+### CAPITULO II. Del parentesco
+
+Clases de parentesco
+
 ###### Artículo 4.
 
 117.- Sólo se reconocen los parentescos de consanguinidad, afinidad y civil.
 
 Parentesco consanguíneo
-
-### CAPITULO II. Del parentesco
-
-Clases de parentesco
 
 ###### Artículo 4.
 
@@ -2245,6 +2265,10 @@ Grados de parentesco en línea transversal
 
 125.- En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas hasta el tronco común y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo, en ambos casos, la del progenitor o tronco común.
 
+### CAPITULO III. De los Alimentos
+
+Normas de orden público
+
 ###### Artículo 4.
 
 126.- Las disposiciones de este capítulo son de orden público.
@@ -2253,13 +2277,11 @@ Grados de parentesco en línea transversal
 
 Derecho de recibir alimentos
 
-### CAPITULO III. De los Alimentos
-
-Normas de orden público
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
 
 ###### Artículo 4.
 
-127.- Tienen derecho a recibir alimentos las y los hijos menores de edad o mayores de edad que se dediquen al estudio, los discapacitados, los adultos mayores, cualquiera de los cónyuges o de los concubinos que se haya dedicado cotidianamente al trabajo del hogar, consistente en tareas de administración, dirección, atención y cuidado de la familia o se encuentre imposibilitado física o mentalmente para trabajar, previa acreditación con la documentación idónea expedida por una institución pública de salud.
+127.- Tienen derecho a recibir alimentos las y los hijos menores de edad o mayores de edad que se dediquen al estudio, los discapacitados, los adultos mayores, cualquiera de los cónyuges o de los concubinos que se haya dedicado preponderantemente al trabajo del hogar no remunerado en términos del artículo 4.18 de este Código, o se encuentre imposibilitado física o mentalmente para trabajar, previa acreditación con la documentación idónea expedida por una institución pública de salud.
 
 Alimentos entre cónyuges
 
@@ -2283,11 +2305,15 @@ Reglas sobre alimentos entre concubinos y los hijos
 
 I. Que acrediten haber hecho vida común por al menos un año o haber procreado algún hijo en común;
 
-> <small>(REFORMADA, G.G. 27 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 20 DE MAYO DE 2026)</small>
 
-II. Que el concubino o concubina carezca de bienes y que se haya dedicado cotidianamente al trabajo del hogar, consistente en tareas de administración, dirección, atención y cuidado de las y los hijos, tendrá derecho a alimentos, mismo que no será inferior al cuarenta por ciento del total del sueldo, hasta que los hijos cumplan la mayoría de edad o que se dediquen al estudio.
+II. Que el concubino o concubina carezca de bienes y que se haya dedicado preponderantemente al trabajo del hogar no remunerado, en términos del artículo 4.18 de este Código, tendrá derecho a alimentos, mismo que no será inferior al cuarenta por ciento del total del sueldo, hasta que los hijos cumplan la mayoría de edad o que se dediquen al estudio.
+
+> <small>(REFORMADO, G.G. 27 DE ABRIL DE 2020)</small>
 
 Tratándose de las y los hijos mayores de edad discapacitados, previa acreditación con la documentación idónea expedida por una institución pública de salud, al cuidado de alguno de los concubinos, el otro deberá proporcionarlos de por vida.
+
+> <small>(REFORMADO, G.G. 27 DE ABRIL DE 2020)</small>
 
 Cuando alguno de los concubinos se encuentre imposibilitado física o mentalmente para trabajar, previa acreditación con la documentación idónea expedida por una institución pública de salud, tendrá derecho a alimentos, el cual no será inferior al veinte por ciento del total del sueldo, por el tiempo que haya durado el concubinato.
 
@@ -2305,9 +2331,9 @@ IV. Que se reclame dentro del año siguiente de haber cesado el concubinato.
 
 En el caso de que la concubina trabaje u obtenga una actividad remunerada, la obligación del concubino para dar alimentos será en los términos que establezca este Código.
 
-> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
 
-La concubina que no tenga hijas o hijos, que carezca de bienes y que se haya dedicado cotidianamente al trabajo del hogar, consistente en tareas de administración, dirección y atención, tendrá derecho a alimentos, mismo que no será inferior al treinta por ciento del total del sueldo, por el tiempo que haya durado el concubinato.
+La concubina que no tenga hijas o hijos, que carezca de bienes y que se haya dedicado preponderantemente al trabajo del hogar no remunerado, en términos del artículo 4.18 de este Código, tendrá derecho a alimentos, mismo que no será inferior al treinta por ciento del total del sueldo, por el tiempo que haya durado el concubinato.
 
 > <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -2387,17 +2413,17 @@ Alimentos de los cónyuges
 
 138.- Cualquiera de los cónyuges está obligado a dar alimentos, conforme a las siguientes reglas y acciones afirmativas:
 
-> <small>(REFORMADO, G.G. 27 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
 
-Cualquiera de los cónyuges que carezca de bienes y que durante el matrimonio haya realizado cotidianamente trabajo del hogar consistente en tareas de administración, dirección, atención y cuidado de las y los hijos tendrá derecho a alimentos, mismo que no será inferior al cuarenta por ciento del total del sueldo, hasta que las y los hijos cumplan la mayoría de edad o que se dediquen al estudio, sin menoscabo de la repartición equitativa de bienes.
+Cualquiera de los cónyuges que carezca de bienes y que durante el matrimonio haya realizado preponderantemente trabajo del hogar no remunerado, en términos del artículo 4.18 de este Código, tendrá derecho a alimentos, mismo que no será inferior al cuarenta por ciento del total del sueldo, hasta que las y los hijos cumplan la mayoría de edad o que se dediquen al estudio, sin menoscabo de la repartición equitativa de bienes.
 
 > <small>(REFORMADO, G.G. 27 DE ABRIL DE 2020)</small>
 
 Tratándose de las y los hijos mayores de edad discapacitados, previa acreditación con la documentación idónea expedida por una institución pública de salud, al cuidado de alguno de los cónyuges, el otro deberá proporcionarlos de por vida.
 
-> <small>(REFORMADO, G.G. 27 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
 
-Cualquiera de los cónyuges que no tenga hijas o hijos y que carezca de bienes o que durante el matrimonio haya realizado cotidianamente trabajo del hogar, consistente en tareas de administración, dirección y atención, tendrá derecho a alimentos, mismo que no será inferior al treinta por ciento del total del sueldo, por el tiempo que haya durado el matrimonio, sin menoscabo de la repartición equitativa de bienes.
+Cualquiera de los cónyuges que no tenga hijas o hijos y que carezca de bienes o que durante el matrimonio haya realizado preponderantemente trabajo del hogar no remunerado, en términos del artículo 4.18 de este Código, tendrá derecho a alimentos, mismo que no será inferior al treinta por ciento del total del sueldo, por el tiempo que haya durado el matrimonio, sin menoscabo de la repartición equitativa de bienes.
 
 > <small>(REFORMADO, G.G. 27 DE ABRIL DE 2020)</small>
 
@@ -2493,6 +2519,12 @@ Obligación de pagar alimentos caídos
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE NOVIEMBRE DE 2014)</small>
 
+### CAPITULO IV. Del Registro de Deudores Alimentarios Morosos
+
+> <small>(ADICIONADO, G.G. 14 DE NOVIEMBRE DE 2014)</small>
+
+De la naturaleza del Registro de Deudores Alimentarios Morosos
+
 ###### Artículo 4.
 
 146 Bis.- El área del Registro de Deudores Alimentarios Morosos, es una unidad administrativa del Registro Civil.
@@ -2500,12 +2532,6 @@ Obligación de pagar alimentos caídos
 > <small>(ADICIONADO, G.G. 14 DE NOVIEMBRE DE 2014)</small>
 
 Actos inscribibles en el Registro de Deudores Alimentarios Morosos
-
-### CAPITULO IV. Del Registro de Deudores Alimentarios Morosos
-
-> <small>(ADICIONADO, G.G. 14 DE NOVIEMBRE DE 2014)</small>
-
-De la naturaleza del Registro de Deudores Alimentarios Morosos
 
 ###### Artículo 4.
 
@@ -2589,6 +2615,12 @@ II. Garantizar la preferencia en el pago de deudas alimentarias.
 
 146 Octies.- Cuando de las constancias que obran en el Registro se desprenda que un deudor alimentario moroso recibe un sueldo o salario, sin haber verificado, el pago de alimentos, se dará aviso al Juez de conocimiento inmediatamente, para que sin necesidad de requerimiento, ordene al empleador, en contra de quien los deba, realice la retención de la pensión alimenticia decretada, poniéndola a disposición del acreedor.
 
+## TITULO QUINTO. De la Paternidad y Filiación
+
+### CAPITULO I. De los hijos de Matrimonio
+
+Presunción de ser hijo de matrimonio
+
 ###### Artículo 4.
 
 147.- Se presumen hijos de los cónyuges, salvo prueba en contrario:
@@ -2600,12 +2632,6 @@ II. Los nacidos dentro de los trescientos días siguientes a la disolución del 
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2015)</small>
 
 Si al celebrarse el matrimonio el contrayente declara que reconoce como hijo suyo al hijo o hijos de quien la contrayente está encinta, el Oficial lo hará constar vía anotación en el acta de matrimonio.
-
-## TITULO QUINTO. De la Paternidad y Filiación
-
-### CAPITULO I. De los hijos de Matrimonio
-
-Presunción de ser hijo de matrimonio
 
 ###### Artículo 4.
 
@@ -2649,12 +2675,6 @@ Presunción de paternidad en caso de mujer que contrae nuevo matrimonio
 
 154.- Si la mujer contrajera nuevas nupcias contraviniendo los plazos para hacerlo, se presume que el hijo es del actual esposo, si nace después de ciento ochenta días de la celebración del posterior matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
 
-###### Artículo 4.
-
-155.- La filiación de los hijos se prueba con el acta de su nacimiento y si la hubiera con la de matrimonio de sus padres.
-
-Prueba de la filiación de hijo de matrimonio a falta o defecto de actas
-
 ### CAPITULO II. De la Filiación
 
 > <small>(REFORMADO SU EPÍGRAFE, G.G. 12 DE DICIEMBRE DEL 2023)</small>
@@ -2662,6 +2682,12 @@ Prueba de la filiación de hijo de matrimonio a falta o defecto de actas
 Prueba de la filiación de la hija o hijo
 
 > <small>(REFORMADO, G.G. 12 DE DICIEMBRE DEL 2023)</small>
+
+###### Artículo 4.
+
+155.- La filiación de los hijos se prueba con el acta de su nacimiento y si la hubiera con la de matrimonio de sus padres.
+
+Prueba de la filiación de hijo de matrimonio a falta o defecto de actas
 
 ###### Artículo 4.
 
@@ -2701,6 +2727,10 @@ Pérdida de la posesión de estado de hijo
 
 161.- La posesión de estado de hijo no puede perderse sino por sentencia.
 
+### CAPITULO III. Del Reconocimiento de los hijos nacidos fuera del Matrimonio
+
+Paternidad y maternidad de hijos fuera de matrimonio
+
 ###### Artículo 4.
 
 162.- La filiación de los hijos nacidos fuera de matrimonio resulta, con relación a la madre, del solo hecho del nacimiento. Respecto del padre, se establece por el reconocimiento o por una sentencia que declare la paternidad.
@@ -2708,10 +2738,6 @@ Pérdida de la posesión de estado de hijo
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
 Legitimación para reconocimiento de hijo
-
-### CAPITULO III. Del Reconocimiento de los hijos nacidos fuera del Matrimonio
-
-Paternidad y maternidad de hijos fuera de matrimonio
 
 ###### Artículo 4.
 
@@ -2823,15 +2849,15 @@ Tiempo para investigar la filiación
 
 > <small>(DEROGADO, G.G. 20 DE AGOSTO DE 2015)</small>
 
-###### Artículo 4.
-
-178.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
-
 ## TITULO SEXTO
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE AGOSTO DE 2015)</small>
 
 ### CAPITULO I
+
+###### Artículo 4.
+
+178.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 ###### Artículo 4.
 
@@ -2849,11 +2875,11 @@ Tiempo para investigar la filiación
 
 182.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
+### CAPITULO II
+
 ###### Artículo 4.
 
 183.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
-
-### CAPITULO II
 
 ###### Artículo 4.
 
@@ -2873,11 +2899,11 @@ Tiempo para investigar la filiación
 
 > <small>(DEROGADA SU DENOMINACIÓN, G.G. 15 DE MAYO DE 2012)</small>
 
+### CAPITULO III
+
 ###### Artículo 4.
 
 188.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
-
-### CAPITULO III
 
 ###### Artículo 4.
 
@@ -2901,11 +2927,11 @@ Tiempo para investigar la filiación
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE AGOSTO DE 2015)</small>
 
+### CAPITULO IV
+
 ###### Artículo 4.
 
 194.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
-
-### CAPITULO IV
 
 ###### Artículo 4.
 
@@ -2925,19 +2951,25 @@ Tiempo para investigar la filiación
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE AGOSTO DE 2015)</small>
 
-###### Artículo 4.
-
-199.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
-
 ### CAPITULO I. De los efectos de la Patria Potestad respecto de la persona
 
 Respeto y consideración entre hijos y ascendientes
 
 ###### Artículo 4.
 
+199.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
+
+###### Artículo 4.
+
 200.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+## TITULO SEXTO BIS. Disposiciones comunes de la Patria Potestad y Tutela
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia
 
 ###### Artículo 4.
 
@@ -2969,11 +3001,11 @@ XI. Educar en el conocimiento y uso responsable de las tecnologías de la inform
 
 XII. Abstenerse de ejercer castigo corporal, castigo humillante o cualquier forma o tipo de violencia, en la formación y educación de las niñas, niños y adolescentes.
 
-## TITULO SEXTO BIS. Disposiciones comunes de la Patria Potestad y Tutela
+## TITULO SEPTIMO. De la Patria Potestad
 
-> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+### CAPITULO II. De los efectos de la Patria Potestad con respecto a los bienes
 
-Obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia
+Administración de los bienes del menor por quien ejerce patria potestad
 
 ###### Artículo 4.
 
@@ -2982,12 +3014,6 @@ Obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia
 Personas sobre las que se ejerce la patria potestad
 
 > <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
-
-## TITULO SEPTIMO. De la Patria Potestad
-
-### CAPITULO II. De los efectos de la Patria Potestad con respecto a los bienes
-
-Administración de los bienes del menor por quien ejerce patria potestad
 
 ###### Artículo 4.
 
@@ -3043,15 +3069,15 @@ Quien no tenga la custodia le asiste el derecho de visita.
 
 207.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
 
+### CAPITULO III. De los modos de acabarse y suspenderse la Patria Potestad
+
+Conclusión de la patria potestad
+
 ###### Artículo 4.
 
 208.- Los que ejercen la patria potestad tienen la administración legal de los bienes que les pertenecen a los sujetos a ella y la obligación de realizar actos tendentes a conservar y mejorar su patrimonio.
 
 Administración en el ejercicio conjunto de la patria potestad
-
-### CAPITULO III. De los modos de acabarse y suspenderse la Patria Potestad
-
-Conclusión de la patria potestad
 
 ###### Artículo 4.
 
@@ -3161,6 +3187,10 @@ Entrega de bienes y cuentas por las personas que ejerzan la patria potestad
 
 Si existe disminución de los bienes de las niñas, los niños y los adolescentes, por mala administración de la persona de quien ejerció sus derechos, ésta deberá restituir el importe en su totalidad de los daños ocasionados.
 
+### CAPITULO I. Disposiciones Generales
+
+Objeto de la tutela
+
 ###### Artículo 4.
 
 223.- La patria potestad se acaba:
@@ -3186,10 +3216,6 @@ VI. Cuando los menores se encuentren albergados y abandonados por sus familiares
 VII. Por la exposición que la madre o el padre hiciera de sus hijas o hijos.
 
 Pérdida de la patria potestad por sentencia
-
-### CAPITULO I. Disposiciones Generales
-
-Objeto de la tutela
 
 ###### Artículo 4.
 
@@ -3301,6 +3327,12 @@ En la resolución que ordene cuál de los padres ejercerá la guarda y custodia,
 
 En su caso, se podrá enviar a instituciones públicas o privadas para adquirir habilidades positivas de cuidado parental y mejorar las relaciones parentales y de crianza.
 
+## TITULO OCTAVO. De la Tutela y Curatela
+
+### CAPITULO II. De la Tutela Testamentaria
+
+Persona facultada para nombrar tutor testamentario
+
 ###### Artículo 4.
 
 229.- El objeto de la tutela es la guarda de la persona y de sus bienes, respecto de los que no estando sujetos a la patria potestad tienen incapacidad natural y legal o solamente la segunda, para ejercitar sus derechos y cumplir sus obligaciones por sí mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señale la ley.
@@ -3308,12 +3340,6 @@ En su caso, se podrá enviar a instituciones públicas o privadas para adquirir 
 En la tutela se cuidará preferentemente de la persona de los incapacitados.
 
 Incapacidad natural y legal
-
-## TITULO OCTAVO. De la Tutela y Curatela
-
-### CAPITULO II. De la Tutela Testamentaria
-
-Persona facultada para nombrar tutor testamentario
 
 ###### Artículo 4.
 
@@ -3405,15 +3431,15 @@ Casos urgentes de custodia
 
 243.- El Juez competente, en los casos urgentes pondrá bajo la guarda del Sistema para el Desarrollo Integral de la Familia del Estado, a la persona y bienes del incapaz abandonado o expósito, para su cuidado hasta que se nombre tutor.
 
+### CAPITULO III. De la Tutela Legítima de los menores
+
+Procedencia de la tutela legítima
+
 ###### Artículo 4.
 
 244.- El ascendiente que ejerza la patria potestad puede nombrar tutor en su testamento a aquellos sobre quienes la ejerza, con inclusión del hijo póstumo.
 
 Cesación de la tutela testamentaria
-
-### CAPITULO III. De la Tutela Legítima de los menores
-
-Procedencia de la tutela legítima
 
 ###### Artículo 4.
 
@@ -3461,15 +3487,15 @@ Nombramiento de tutor testamentario por el adoptante
 
 252.- El adoptante tiene derecho de nombrar tutor testamentario al hijo.
 
+### CAPITULO IV. De la Tutela Legítima de mayores incapaces
+
+Tutor legítimo del cónyuge incapacitado
+
 ###### Artículo 4.
 
 253.- Ha lugar a tutela legítima cuando por cualquier causa no haya quien ejerza la patria potestad, ni tutor testamentario.
 
 Personas a quien corresponde ser tutor legítimo
-
-### CAPITULO IV. De la Tutela Legítima de mayores incapaces
-
-Tutor legítimo del cónyuge incapacitado
 
 ###### Artículo 4.
 
@@ -3489,17 +3515,17 @@ Elección de tutor legítimo por el Juez
 
 255.- Si hubiere varios parientes del mismo grado, el Juez elegirá al más apto; pero si el menor hubiere cumplido doce años, él hará la elección.
 
-###### Artículo 4.
-
-256.- El cónyuge es tutor legítimo y forzoso del otro incapacitado, a falta de aquél lo serán los hijos.
-
-Designación de tutor en caso de pluralidad de hijos
-
 ### CAPITULO V. De la Tutela Legítima de los expósitos o abandonados
 
 Tutela de expósitos y de abandonados
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE MAYO DE 2012)</small>
+
+###### Artículo 4.
+
+256.- El cónyuge es tutor legítimo y forzoso del otro incapacitado, a falta de aquél lo serán los hijos.
+
+Designación de tutor en caso de pluralidad de hijos
 
 ###### Artículo 4.
 
@@ -3523,6 +3549,10 @@ Tutor del incapacitado que tenga hijos menores
 
 260.- El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente que legalmente deba serlo.
 
+### CAPITULO VI. De la Tutela Dativa
+
+Casos en que procede la tutela dativa
+
 ###### Artículo 4.
 
 261.- La Ley coloca a los expósitos y a los que sean entregados o abandonados, bajo la tutela del Sistema para el Desarrollo Integral de la Familia del Estado de México y, en su caso, de los Municipales que cuenten con albergues, sin perjuicio que éstos otorguen la guarda y cuidado a alguna institución de asistencia social pública o privada, legalmente reconocida. La Mujer que solicitó mantener en secreto su identidad en el momento del parto y la reserva sobre el nacimiento, deberá entregar inmediatamente al menor al Sistema para el Desarrollo Integral de la Familia del Estado de México.
@@ -3535,9 +3565,9 @@ En los casos que los Sistemas Municipales otorguen la guarda y cuidado a institu
 
 El Sistema para el Desarrollo Integral de la Familia del Estado de México asumirá la tutela provisional, guarda y custodia de las niñas, niños y adolescentes que ingresen a los Centros de Asistencia Social de carácter público y privado.
 
-### CAPITULO VI. De la Tutela Dativa
+### CAPITULO VII. De la Tutela Voluntaria
 
-Casos en que procede la tutela dativa
+Nombramiento de tutor voluntario por personas capaces
 
 ###### Artículo 4.
 
@@ -3548,10 +3578,6 @@ I. No haya tutor testamentario ni persona a quien conforme a la ley corresponda 
 II. El tutor testamentario esté impedido temporalmente para ejercer su cargo, y no haya ningún pariente para desempeñarlo legalmente.
 
 Nombramiento de tutor dativo
-
-### CAPITULO VII. De la Tutela Voluntaria
-
-Nombramiento de tutor voluntario por personas capaces
 
 ###### Artículo 4.
 
@@ -3589,6 +3615,10 @@ Nombramiento de tutor dativo que adquiere bienes
 
 268.- Al menor que no teniendo bienes los adquiera, se le nombrará tutor dativo.
 
+### CAPITULO VIII. De los impedimentos para el desempeño de la tutela y de la separación del cargo de tutor
+
+Personas que no pueden desempeñar la tutela
+
 ###### Artículo 4.
 
 269.- Las personas capaces pueden designar tutor y curador, así como sus substitutos, para el caso de que llegare a caer en estado de interdicción.
@@ -3596,10 +3626,6 @@ Nombramiento de tutor dativo que adquiere bienes
 Forma para designar tutor voluntario
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-### CAPITULO VIII. De los impedimentos para el desempeño de la tutela y de la separación del cargo de tutor
-
-Personas que no pueden desempeñar la tutela
 
 ###### Artículo 4.
 
@@ -3631,6 +3657,10 @@ Requisitos para el desempeño de tutor voluntario
 
 El tutor voluntario que se excuse de ejercer la tutela, perderá todos los derechos inherentes a la tutela del incapaz.
 
+### CAPITULO IX. De las excusas para el desempeño de la tutela
+
+Causas de excusa para ser tutor
+
 ###### Artículo 4.
 
 274.- No pueden ser tutores:
@@ -3656,10 +3686,6 @@ VII. Los que mediante resolución judicial se haya acreditado que han ejercido c
 VIII. Los demás a quienes a criterio del Juez no garanticen el bien material y moral de la niña, niño o adolescente.
 
 Reglas para la separación del cargo de tutor
-
-### CAPITULO IX. De las excusas para el desempeño de la tutela
-
-Causas de excusa para ser tutor
 
 ###### Artículo 4.
 
@@ -3699,6 +3725,10 @@ Reasunción del cargo de tutor
 
 279.- Absuelto el tutor, volverá al ejercicio de su cargo.
 
+### CAPITULO X. De la garantía que deben prestar los tutores
+
+Garantía que se debe otorgar para ejercer la tutela
+
 ###### Artículo 4.
 
 280.- Pueden excusarse de ser tutores:
@@ -3717,10 +3747,6 @@ VI. Los que tengan a su cargo otra tutela o curaduría.
 
 Nombramiento de tutor interino
 
-### CAPITULO X. De la garantía que deben prestar los tutores
-
-Garantía que se debe otorgar para ejercer la tutela
-
 ###### Artículo 4.
 
 281.- Mientras que se califica el impedimento o la excusa, el Juez nombrará un tutor interino.
@@ -3737,6 +3763,10 @@ Efectos de la negativa a ejercer la tutela
 
 283.- El tutor que sin excusa o desechada la que hubiere propuesto no desempeñe la tutela, pierde el derecho que tenga para heredar al incapacitado que muera intestado, y es responsable de los daños y perjuicios. Igual sanción se aplica a la persona a quien corresponda la tutela legítima, si habiendo sido legalmente citada, no se presenta al Juez manifestando su parentesco con el incapaz.
 
+### CAPITULO XI. Del desempeño de la Tutela
+
+Nombramiento de curador para desempeñar la tutela
+
 ###### Artículo 4.
 
 284.- El tutor, para asegurar su manejo, antes de que se le discierna el cargo, otorgará garantía que podrá consistir:
@@ -3748,10 +3778,6 @@ II. En fianza;
 III. Depósito en efectivo.
 
 Tutores exentos de dar garantía
-
-### CAPITULO XI. Del desempeño de la Tutela
-
-Nombramiento de curador para desempeñar la tutela
 
 ###### Artículo 4.
 
@@ -3817,15 +3843,15 @@ Cuenta anual del tutor y prueba de la garantía
 
 292.- El tutor presentará cuenta anual, y probará la existencia de la garantía.
 
+### CAPITULO XII. De las cuentas de la Tutela
+
+Periodo en que el tutor rinde cuentas
+
 ###### Artículo 4.
 
 293.- Cuando el tutor tenga que administrar bienes no podrá entrar a la administración sin que antes se nombre curador, excepto en el caso de los expósitos o abandonados.
 
 Obligaciones del tutor
-
-### CAPITULO XII. De las cuentas de la Tutela
-
-Periodo en que el tutor rinde cuentas
 
 ###### Artículo 4.
 
@@ -3977,6 +4003,10 @@ Pérdida del derecho del tutor a ser remunerado
 
 315.- El tutor no tendrá derecho a remuneración si contrae matrimonio con el pupilo sin la dispensa respectiva.
 
+### CAPITULO XIII. De la extinción de la Tutela
+
+Causas de extinción de la tutela
+
 ###### Artículo 4.
 
 316.- El tutor está obligado a rendir al Juez cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se hubiere discernido el cargo.
@@ -3984,10 +4014,6 @@ Pérdida del derecho del tutor a ser remunerado
 Esta obligación no es dispensable.
 
 Cuenta final o exigida por el curador
-
-### CAPITULO XIII. De la extinción de la Tutela
-
-Causas de extinción de la tutela
 
 ###### Artículo 4.
 
@@ -4017,6 +4043,10 @@ Nulidad de convenio entre tutor y pupilo
 
 321.- Es nulo todo convenio entre el tutor y el pupilo mayor de edad relativo a la administración de la tutela o a las cuentas, que se celebre dentro del primer mes de que se rindan las mismas.
 
+### CAPITULO XIV. De la entrega de los bienes al concluir la Tutela
+
+Obligación del tutor de entregar los bienes del pupilo
+
 ###### Artículo 4.
 
 322.- La tutela se extingue:
@@ -4025,19 +4055,15 @@ I. Por la muerte del pupilo o porque desaparezca su incapacidad;
 
 II. Cuando el incapacitado sujeto a tutela entre a la patria potestad, por reconocimiento o por adopción.
 
-### CAPITULO XIV. De la entrega de los bienes al concluir la Tutela
+### CAPITULO XV. Del Curador
 
-Obligación del tutor de entregar los bienes del pupilo
+Curador en caso de administración de bienes
 
 ###### Artículo 4.
 
 323.- Concluida la tutela, el tutor está obligado a entregar los bienes y documentos del incapacitado, conforme al balance que se practique al respecto.
 
 Periodo para entregar los bienes
-
-### CAPITULO XV. Del Curador
-
-Curador en caso de administración de bienes
 
 ###### Artículo 4.
 
@@ -4075,13 +4101,13 @@ Prescripción de otras acciones
 
 329.- Si la tutela concluyó durante la minoría de edad, el menor tendrá las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, contándose el plazo desde el día en que llegue a la mayoría de edad. Tratándose de los demás incapaces, el plazo se computará desde que cese la incapacidad.
 
+### CAPITULO I
+
 ###### Artículo 4.
 
 330.- Todos los sujetos a tutela, tendrán además un curador, excepto en los casos en que el tutor no administre bienes.
 
 Curador interino
-
-### CAPITULO I
 
 ###### Artículo 4.
 
@@ -4133,10 +4159,6 @@ Remuneración al curador
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
-###### Artículo 4.
-
-338.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
-
 ## TITULO NOVENO. De la Mayoría de Edad
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 14 DE MARZO DE 2016)</small>
@@ -4147,9 +4169,7 @@ Comienzo de la mayoría de edad
 
 ###### Artículo 4.
 
-339.- La mayoría de edad comienza al cumplir dieciocho años.
-
-Efectos legales de la mayoría de edad
+338.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
 
 ### CAPITULO I. De las medidas provisionales en caso de ausencia
 
@@ -4157,13 +4177,13 @@ Medidas jurídicas sobre los bienes del ausente
 
 ###### Artículo 4.
 
-340.- El mayor de edad dispone libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
+339.- La mayoría de edad comienza al cumplir dieciocho años.
+
+Efectos legales de la mayoría de edad
 
 ###### Artículo 4.
 
-341.- Cuando se ignore el lugar donde se encuentre una persona, el Juez, a petición de parte, nombrará un depositario de sus bienes, y dictará las providencias necesarias para conservarlos, asimismo se le citará por edictos conforme a la ley.
-
-Personas que pueden designarse depositarios de los bienes del ausente
+340.- El mayor de edad dispone libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
 
 ## TITULO DECIMO. De los Ausentes
 
@@ -4172,6 +4192,12 @@ Personas que pueden designarse depositarios de los bienes del ausente
 Plazo para pedir la declaración de ausencia
 
 > <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 4.
+
+341.- Cuando se ignore el lugar donde se encuentre una persona, el Juez, a petición de parte, nombrará un depositario de sus bienes, y dictará las providencias necesarias para conservarlos, asimismo se le citará por edictos conforme a la ley.
+
+Personas que pueden designarse depositarios de los bienes del ausente
 
 ###### Artículo 4.
 
@@ -4227,6 +4253,10 @@ Plazo para publicar otros edictos
 
 348.- Cada tres meses, a partir de la fecha en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente.
 
+### CAPITULO III. De los efectos de la Declaración de Ausencia
+
+Presentación del testamento del declarado ausente
+
 ###### Artículo 4.
 
 349.- Pasado un año desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
@@ -4234,10 +4264,6 @@ Plazo para publicar otros edictos
 Plazo para pedir la declaración de ausencia cuando hay apoderado general
 
 > <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
-### CAPITULO III. De los efectos de la Declaración de Ausencia
-
-Presentación del testamento del declarado ausente
 
 ###### Artículo 4.
 
@@ -4275,15 +4301,15 @@ Procedimiento de declaración de ausencia
 
 354.- El procedimiento de declaración de ausencia se sujetará a las disposiciones relativas del Código procesal.
 
+### CAPITULO IV. De la administración de los bienes del ausente casado bajo el régimen de sociedad conyugal
+
+Efectos de la ausencia en relación a la sociedad conyugal
+
 ###### Artículo 4.
 
 355.- Declarada la ausencia, si hubiere testamento, la persona en cuyo poder se encuentre lo presentará al Juez, dentro de quince días siguientes a que cause ejecutoria la resolución respectiva.
 
 Lectura por el Juez del testamento del ausente
-
-### CAPITULO IV. De la administración de los bienes del ausente casado bajo el régimen de sociedad conyugal
-
-Efectos de la ausencia en relación a la sociedad conyugal
 
 ###### Artículo 4.
 
@@ -4367,17 +4393,17 @@ Presencia o existencia del ausente
 
 369.- Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, tendrán derecho a los frutos industriales y a la mitad de los frutos naturales y civiles.
 
-###### Artículo 4.
-
-370.- La declaración de ausencia suspende la sociedad conyugal, a menos que en las capitulaciones matrimoniales se estipule lo contrario.
-
-Inventario por declaración de ausencia
-
 ### CAPITULO V. De la presunción de muerte del ausente
 
 Declaración judicial de presunción de muerte
 
 > <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 4.
+
+370.- La declaración de ausencia suspende la sociedad conyugal, a menos que en las capitulaciones matrimoniales se estipule lo contrario.
+
+Inventario por declaración de ausencia
 
 ###### Artículo 4.
 
@@ -4389,6 +4415,10 @@ Entrega de sus bienes al cónyuge del ausente
 
 372.- El cónyuge presente recibirá los bienes que le correspondan hasta el día en que la resolución de ausencia haya causado ejecutoria. De esos bienes podrá disponer libremente.
 
+### CAPITULO I. De los Bienes Inmuebles
+
+Bienes que se consideran inmuebles
+
 ###### Artículo 4.
 
 373.- Cuando haya transcurrido un año y medio desde la declaración de ausencia, el Juez, a instancia de parte, declarará la presunción de muerte.
@@ -4396,10 +4426,6 @@ Entrega de sus bienes al cónyuge del ausente
 Respecto de las personas que hayan desaparecido por causa de guerra, de un siniestro, desastre o secuestro, bastará que hayan transcurrido tres meses, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales relacionadas con sus bienes.
 
 Efectos de la declaración de presunción de muerte
-
-### CAPITULO I. De los Bienes Inmuebles
-
-Bienes que se consideran inmuebles
 
 ###### Artículo 4.
 
@@ -4411,6 +4437,10 @@ Presencia del presunto muerto
 
 375.- Si el presunto muerto se presentare o se probare su existencia después de otorgada la posesión definitiva, recobrará sus bienes en el estado en que se hallen, el precio de los enajenados, o los que se hubieren adquirido con el mismo; pero no podrá reclamar frutos.
 
+## TITULO DECIMO PRIMERO. Del Patrimonio de Familia
+
+Bienes que comprende el patrimonio familiar
+
 ###### Artículo 4.
 
 376.- Son objeto del patrimonio de familia:
@@ -4420,10 +4450,6 @@ I. La casa habitación;
 II. En algunos casos, una parcela cultivable.
 
 Efectos de la constitución del patrimonio de familia
-
-## TITULO DECIMO PRIMERO. Del Patrimonio de Familia
-
-Bienes que comprende el patrimonio familiar
 
 ###### Artículo 4.
 
@@ -4573,6 +4599,12 @@ Efectos de la extinción del patrimonio familiar
 
 395.- Extinguido el patrimonio de familia los bienes que lo formaban vuelven al pleno dominio del que lo constituyó o pasan a sus herederos si aquél ha muerto.
 
+## TITULO DECIMO SEGUNDO. De la Protección contra la Violencia Familiar
+
+Denuncia de violencia familiar
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 4.
 
 396.- Toda persona que sufriese violencia familiar por parte de alguno de los integrantes del grupo familiar, podrá interponer demanda de estos hechos ante el Juez de Primera Instancia, en términos del Código de Procedimientos Civiles.
@@ -4582,12 +4614,6 @@ Efectos de la extinción del patrimonio familiar
 Concepto de grupo familiar
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE MARZO DE 2026)</small>
-
-## TITULO DECIMO SEGUNDO. De la Protección contra la Violencia Familiar
-
-Denuncia de violencia familiar
-
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 4.
 
@@ -4681,6 +4707,12 @@ La duración de las medidas de protección será de acuerdo con las necesidades 
 
 > <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
 
+## TITULO DECIMO TERCERO. Del Concubinato
+
+> <small>(REFORMADO, G.G. 1 DE NOVIEMBRE DE 2022)</small>
+
+Definición del concubinato
+
 ###### Artículo 4.
 
 403.- Se considera concubinato la relación de hecho que tienen dos personas, que sin estar casadas y sin impedimentos legales para contraer matrimonio, viven juntas, haciendo una vida en común por un período mínimo de un año; no se requerirá para la existencia del concubinato el periodo antes señalado, cuando reunidos los demás requisitos, tengan hijos o hijas en común.
@@ -4690,12 +4722,6 @@ La duración de las medidas de protección será de acuerdo con las necesidades 
 Derechos y obligaciones que nacen del concubinato
 
 > <small>(REFORMADO, G.G. 27 DE MARZO DE 2026)</small>
-
-## TITULO DECIMO TERCERO. Del Concubinato
-
-> <small>(REFORMADO, G.G. 1 DE NOVIEMBRE DE 2022)</small>
-
-Definición del concubinato
 
 ###### Artículo 4.
 
@@ -19056,3 +19082,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 328.- POR EL QUE SE REFORMAN EL PÁRRAFO TERCERO DEL ARTÍCULO 4.18; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 4.46; EL ARTÍCULO 4.127; LA FRACCIÓN II Y EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 4.129; LOS PÁRRAFOS SEGUNDO Y CUARTO DEL ARTÍCULO 4.138; SE ADICIONAN UN PÁRRAFO QUINTO AL ARTÍCULO 4.18; Y EL ARTÍCULO 4.18 BIS, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
