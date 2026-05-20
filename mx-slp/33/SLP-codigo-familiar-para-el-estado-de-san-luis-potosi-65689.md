@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2025-10-16"
+last_updated: "2026-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2026.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1239,9 +1239,13 @@ VI. Si el acreedor alimentario, sin consentimiento del que debe dar los alimento
 
 VII. En caso de divorcio incausado en los términos del artículo 93 de este Código.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 164.
 
-El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
+El derecho de recibir alimentos generados desde el nacimiento y durante la minoría de edad son imprescriptibles; no serán renunciables, ni podrán ser objeto de transacción. También es imprescriptible el derecho a recibir alimentos de las personas declaradas en estado de interdicción o el de las personas que, siendo mayores de edad, hayan sido dictaminadas con alguna discapacidad total que les impida desempeñar un trabajo u oficio por sí mismos, por el resto de su vida.
+
+Los alimentos generados y no pagados por la persona deudora alimentaria durante la vida adulta de la persona acreedora alimentaria prescriben a los cuatro años, contados a partir de la fecha en que cesó la obligación.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2017)</small>
 
@@ -3992,3 +3996,11 @@ P.O. 16 DE OCTUBRE DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0533.- QUE REFORMA EL ARTÍCULO 164, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
