@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-al-turismo-del-estado-de-nuevo-leon-51662"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-04"
-last_updated: "2023-12-20"
+last_updated: "2026-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE FOMENTO AL TURISMO DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO DE LA LEY DE DESARROLLO Y FOMENTO TURÍSTICO SOSTENIBLE DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 20 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO AL TURISMO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2026 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 4 de septiembre de 2006.
 
@@ -892,3 +894,27 @@ P.O. 20 DE DICIEMBRE DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
 
 SEGUNDO.- La persona Titular del Poder Ejecutivo y el Consejo Estatal de Fomento a la Micro, Pequeña y Mediana Empresa contarán con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se otorgan por medio del mismo.
+
+P.O. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE DESARROLLO Y FOMENTO TURÍSTICO SOSTENIBLE DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Plan Turístico y el Plan de Ordenamiento Estatal de Turismo deberán publicarse en un plazo no mayor de 180 días hábiles, contados a partir del inicio de vigencia de esta Ley.
+
+Tercero.- Los Municipios del Estado dispondrán de un plazo de hasta 90 días hábiles, contados a partir de la entrada en vigor del presente decreto, para emitir o modificar sus Reglamentos acordes a lo preceptuado por este Decreto.
+
+Cuarto.- Los Municipios deberán instalar los Consejos Ciudadanos Municipales en un plazo de 180 días hábiles posteriores a la publicación del presente Decreto.
+
+Quinto.- La Secretaría y (sic) contará con 180 días para la instalación del Consejo Interinstitucional del Observatorio de Turismo Sostenible. Los representantes actuales continuarán operando en su cargo y finalizarán en el 2030.
+
+Sexto.- La Secretaría de Turismo deberá expedir los lineamientos para la implementación y reglamentación de la presente Ley en un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto.
+
+Séptimo.- La Secretaría de Turismo tendrá hasta 365 días para crear los lineamientos y sistemas tecnológicos para establecer las bases del Registro de Anfitriones y del Registro de Plataforma Tecnológica.
+
+Octavo.- La Secretaría de Turismo deberá expedir los lineamientos para la implementación y otorgamiento del "Sello de Turismo Sostenible" en un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto.
+
+Noveno.- El Congreso del Estado de Nuevo León contará con un plazo de 180 días para realizar los ajustes a la Ley de Coordinación Hacendaria del Estado de Nuevo León con el objetivo de establecer los lineamientos del Fondo para Pueblos Mágicos señalado en el segundo párrafo del artículo 86 del presente Decreto.
+
+Décimo.- Con la entrada en vigor del presente decreto, se abroga la Ley de Fomento Turístico para el Estado de Nuevo León publicada en fecha 04 de septiembre del 2006 y se derogan todas las disposiciones jurídicas que contravengan lo dispuesto en el presente Decreto.
