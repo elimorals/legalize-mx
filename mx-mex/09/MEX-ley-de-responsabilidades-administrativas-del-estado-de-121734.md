@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-administrativas-del-estado-de-121734"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-30"
-last_updated: "2026-04-28"
+last_updated: "2026-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA LA GACETA DEL GOBIERNO: 20 DE MAYO DE 2026.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el martes 30 de mayo de 2017.
 
@@ -651,6 +651,10 @@ XIII. La obstrucción de la Justicia.
 
 XIV. La Injerencia Sindical.
 
+> <small>(ADICIONADA, G.G. 20 DE MAYO DE 2026)</small>
+
+XV. El nepotismo.
+
 #### SECCIÓN PRIMERA. DEL COHECHO
 
 ###### Artículo 53.
@@ -789,7 +793,15 @@ La solicitud deberá ser evaluada y atendida de manera oportuna por el ente púb
 
 Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en la Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
 
-#### SECCIÓN PRIMERA. DEL SOBORNO
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 20 DE MAYO DE 2026)</small>
+
+#### SECCIÓN DÉCIMA QUINTA. DEL NEPOTISMO
+
+> <small>(ADICIONADO, G.G. 20 DE MAYO DE 2026)</small>
+
+###### Artículo 67 Ter.
+
+Cometerá nepotismo el servidor público que, valiéndose de las atribuciones o facultades de su empleo, cargo o comisión, directa o indirectamente, designe, nombre o intervenga para que se contrate como personal de confianza, de estructura, de base o por honorarios en el ente público en que ejerza sus funciones, a personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato.
 
 ### CAPÍTULO TERCERO. DE LOS ACTOS DE PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES
 
@@ -813,13 +825,13 @@ VII. El uso indebido de recursos públicos.
 
 VIII. La contratación indebida de ex Servidores públicos.
 
-#### SECCIÓN SEGUNDA. DE LA PARTICIPACIÓN ILÍCITA EN PROCEDIMIENTOS ADMINISTRATIVOS
+#### SECCIÓN PRIMERA. DEL SOBORNO
 
 ###### Artículo 69.
 
 Incurrirá en soborno, el particular que prometa, ofrezca o entregue cualquier beneficio indebido a que se refiere el artículo 53 de la presente Ley a uno o varios servidores públicos, directamente o a través de terceros, a cambio que dichos Servidores Públicos realicen o se abstengan de realizar un acto relacionado con sus funciones o con las de otro servidor público, o bien, abusen de su influencia real o supuesta, con el propósito de obtener o mantener, para sí mismo o para un tercero, un beneficio o ventaja, con independencia de la aceptación o recepción del beneficio o del resultado obtenido.
 
-#### SECCIÓN TERCERA. DEL TRÁFICO DE INFLUENCIAS PARA INDUCIR A LA AUTORIDAD
+#### SECCIÓN SEGUNDA. DE LA PARTICIPACIÓN ILÍCITA EN PROCEDIMIENTOS ADMINISTRATIVOS
 
 ###### Artículo 70.
 
@@ -827,25 +839,25 @@ Incurrirá en participación ilícita en procedimientos administrativos, el part
 
 También se considerará participación ilícita en procedimientos administrativos cuando un particular que intervenga en nombre propio, pero en interés de otra u otras personas que se encuentren impedidas o inhabilitadas para participar en procedimientos administrativos federales, estatales o municipales, con la finalidad que esta o estas últimas obtengan, total o parcialmente, los beneficios derivados de dichos procedimientos. Ambos particulares serán sancionados en términos de la presente Ley.
 
-#### SECCIÓN CUARTA. DE LA UTILIZACIÓN DE INFORMACIÓN FALSA
+#### SECCIÓN TERCERA. DEL TRÁFICO DE INFLUENCIAS PARA INDUCIR A LA AUTORIDAD
 
 ###### Artículo 71.
 
 Incurrirá en tráfico de influencias para inducir a la autoridad, el particular que use su influencia, poder económico o político, real o ficticio, sobre cualquier servidor público, con el propósito de obtener para sí o para un tercero un beneficio o ventaja, o para causar perjuicio a alguna persona o al servicio público, con independencia de la aceptación del servidor o de los servidores públicos o del resultado obtenido.
 
-#### SECCIÓN QUINTA. DE LA OBSTRUCCIÓN DE FACULTADES DE INVESTIGACIÓN
+#### SECCIÓN CUARTA. DE LA UTILIZACIÓN DE INFORMACIÓN FALSA
 
 ###### Artículo 72.
 
 Incurrirá en utilización de información falsa, el particular que presente documentación o información falsa o alterada, o simulen el cumplimiento de requisitos o reglas establecidos en los procedimientos administrativos, con el propósito de lograr una autorización, un beneficio, una ventaja o de perjudicar a persona alguna.
 
-#### SECCIÓN SEXTA. DE LA COLUSIÓN
+#### SECCIÓN QUINTA. DE LA OBSTRUCCIÓN DE FACULTADES DE INVESTIGACIÓN
 
 ###### Artículo 73.
 
 Incurrirán en obstrucción de facultades de investigación, el particular que, teniendo información vinculada con una investigación de faltas administrativas, proporcione información falsa, retrase deliberada e injustificadamente la entrega de la misma, o no dé respuesta alguna a los requerimientos o resoluciones de autoridades investigadoras, substanciadoras o resolutoras, siempre y cuando le hayan sido impuestas previamente medidas de apremio conforme a las disposiciones aplicables.
 
-#### SECCIÓN SÉPTIMA. DEL USO INDEBIDO DE RECURSOS PÚBLICOS
+#### SECCIÓN SEXTA. DE LA COLUSIÓN
 
 ###### Artículo 74.
 
@@ -859,7 +871,7 @@ Las faltas referidas en el presente artículo resultarán aplicables respecto de
 
 Para efectos de este artículo se entienden como transacciones comerciales internacionales, los actos y procedimientos relacionados con la contratación, ejecución y cumplimiento de contratos en materia de adquisiciones, arrendamientos, servicios de cualquier naturaleza, obra pública y servicios relacionados con la misma; los actos y procedimientos relativos al otorgamiento y prórroga de permisos o concesiones, así como cualquier otra autorización o trámite relacionados con dichas transacciones que lleve a cabo cualquier organismo u organización públicos de un Estado extranjero o que involucre la participación de un servidor público extranjero y en cuyo desarrollo participen, de manera directa o indirecta, personas físicas o jurídicas colectivas de nacionalidad mexicana.
 
-#### SECCIÓN OCTAVA. DE LA CONTRATACIÓN INDEBIDA DE EX SERVIDORES PÚBLICOS
+#### SECCIÓN SÉPTIMA. DEL USO INDEBIDO DE RECURSOS PÚBLICOS
 
 ###### Artículo 75.
 
@@ -869,7 +881,7 @@ I. Realice actos a través de los cuales se apropie, haga uso indebido o desvíe
 
 II. Omita rendir cuentas que comprueben el destino que se otorgó a dichos recursos.
 
-#### SECCIÓN PRIMERA. DE LOS PRINCIPIOS, INTERRUPCIÓN DE LA PRESCRIPCIÓN, PARTES Y AUTORIZACIONES
+#### SECCIÓN OCTAVA. DE LA CONTRATACIÓN INDEBIDA DE EX SERVIDORES PÚBLICOS
 
 ###### Artículo 76.
 
@@ -1307,7 +1319,7 @@ II. Dejar sin efectos la determinación de calificación o abstención. En este 
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES COMUNES AL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
-#### SECCIÓN SEGUNDA. DE LOS MEDIOS DE APREMIO
+#### SECCIÓN PRIMERA. DE LOS PRINCIPIOS, INTERRUPCIÓN DE LA PRESCRIPCIÓN, PARTES Y AUTORIZACIONES
 
 ###### Artículo 115.
 
@@ -1369,7 +1381,7 @@ Para efectos de la presente Ley serán horas hábiles las que medien entre las 9
 
 Las autoridades substanciadoras o resolutoras, podrán habilitar días y horas inhábiles para la práctica de aquellas diligencias que, a su juicio, lo requieran.
 
-#### SECCIÓN TERCERA. DE LAS MEDIDAS CAUTELARES
+#### SECCIÓN SEGUNDA. DE LOS MEDIOS DE APREMIO
 
 ###### Artículo 124.
 
@@ -1383,7 +1395,7 @@ III. Auxilio de la fuerza pública de cualquier orden de gobierno, los que deber
 
 Los medios de apremio podrán ser decretados sin seguir rigurosamente el orden en que han sido enlistadas, o bien, decretar la aplicación de más de uno de ellos, para lo cual la autoridad deberá ponderar las circunstancias de cada caso en particular. Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación aplicable.
 
-#### SECCIÓN CUARTA. DE LAS PRUEBAS Y SU VALORACIÓN
+#### SECCIÓN TERCERA. DE LAS MEDIDAS CAUTELARES
 
 ###### Artículo 125.
 
@@ -1455,7 +1467,7 @@ Se podrá solicitar la suspensión de las medidas cautelares en cualquier moment
 
 Contra la resolución que niegue la suspensión de las medidas cautelares no procederá recurso alguno.
 
-#### SECCIÓN QUINTA. DE LAS PRUEBAS EN PARTICULAR
+#### SECCIÓN CUARTA. DE LAS PRUEBAS Y SU VALORACIÓN
 
 ###### Artículo 129.
 
@@ -1529,7 +1541,7 @@ Cuando la preparación o desahogo de las pruebas deba realizarse fuera del ámbi
 
 El derecho nacional no requiere ser probado. El derecho extranjero podrá ser objeto de prueba en cuanto su existencia, validez, contenido y alcance, para lo cual las autoridades resolutoras del asunto podrán valerse de informes que se soliciten por conducto de la Secretaría de Relaciones Exteriores, sin perjuicio de las pruebas que al respecto puedan ofrecer las partes.
 
-#### SECCIÓN SEXTA. DE LOS INCIDENTES
+#### SECCIÓN QUINTA. DE LAS PRUEBAS EN PARTICULAR
 
 ###### Artículo 141.
 
@@ -1705,7 +1717,7 @@ Para el desahogo de la prueba de inspección, la autoridad resolutora citará a 
 
 Al concluir el desahogo de la inspección, se integrará un acta que deberá ser firmada por quienes en ella participaron. En caso de no querer hacerlo, o estar impedidos para ello, la autoridad resolutora firmará el acta respectiva haciendo constar tal circunstancia.
 
-#### SECCIÓN SÉPTIMA. DE LA ACUMULACIÓN
+#### SECCIÓN SEXTA. DE LOS INCIDENTES
 
 ###### Artículo 173.
 
@@ -1715,7 +1727,7 @@ Cuando los incidentes tengan por objeto la tacha de testigos, o bien, objetar pr
 
 Los incidentes que tengan por objeto declarar la nulidad del emplazamiento, interrumpirán la continuación del procedimiento administrativo.
 
-#### SECCIÓN OCTAVA. DE LAS NOTIFICACIONES
+#### SECCIÓN SÉPTIMA. DE LA ACUMULACIÓN
 
 ###### Artículo 174.
 
@@ -1729,7 +1741,7 @@ Cuando resulte procedente la acumulación, será competente para conocer del asu
 
 Si la falta administrativa amerita la misma sanción, será competente para conocer del asunto la autoridad substanciadora que primero haya admitido el Informe de Presunta Responsabilidad Administrativa.
 
-#### SECCIÓN NOVENA. DE LOS INFORMES DE PRESUNTA RESPONSABILIDAD ADMINISTRATIVA
+#### SECCIÓN OCTAVA. DE LAS NOTIFICACIONES
 
 ###### Artículo 175.
 
@@ -1773,7 +1785,7 @@ VI. La resolución definitiva que se dicte en el procedimiento de responsabilida
 
 VII. Las demás que por disposición de Ley así lo requieran, o que las autoridades substanciadoras o resolutoras así lo consideren pertinente para garantizar el mejor cumplimiento de sus resoluciones.
 
-#### SECCIÓN DÉCIMA. DE LA IMPROCEDENCIA Y EL SOBRESEIMIENTO
+#### SECCIÓN NOVENA. DE LOS INFORMES DE PRESUNTA RESPONSABILIDAD ADMINISTRATIVA
 
 ###### Artículo 180.
 
@@ -1803,7 +1815,7 @@ IX. Firma autógrafa de la autoridad investigadora.
 
 En caso de que la autoridad substanciadora advierta que el informe de presunta responsabilidad administrativa adolece de alguno o algunos de los requisitos señalados en el párrafo anterior, o que la narración de los hechos fuere obscura o imprecisa, prevendrá a la autoridad investigadora para que los subsane en un término de tres días. En caso de no hacerlo se tendrá por no presentado dicho informe, sin perjuicio de que la autoridad investigadora pueda presentarlo nuevamente siempre que la sanción prevista para la falta administrativa en cuestión no haya prescrito.
 
-#### SECCIÓN DÉCIMO PRIMERA. DE LAS AUDIENCIAS
+#### SECCIÓN DÉCIMA. DE LA IMPROCEDENCIA Y EL SOBRESEIMIENTO
 
 ###### Artículo 182.
 
@@ -1831,7 +1843,7 @@ III. Cuando el señalado como presunto responsable muera en cualquier etapa del 
 
 Cuando las partes tengan conocimiento de alguna causa de sobreseimiento, la comunicarán de inmediato a la autoridad substanciadora o resolutora, según sea el caso y de ser posible, exhibirán las constancias que así lo acrediten.
 
-#### SECCIÓN DÉCIMA SEGUNDA. DE LAS ACTUACIONES Y RESOLUCIONES
+#### SECCIÓN DÉCIMO PRIMERA. DE LAS AUDIENCIAS
 
 ###### Artículo 184.
 
@@ -1851,7 +1863,7 @@ Las autoridades substanciadoras o resolutoras tienen el deber de mantener el bue
 
 Cuando la infracción llegare a tipificar un delito, se procederá contra quienes lo cometieren y de acuerdo a la legislación penal.
 
-#### SECCIÓN PRIMERA. DE LA REVOCACIÓN
+#### SECCIÓN DÉCIMA SEGUNDA. DE LAS ACTUACIONES Y RESOLUCIONES
 
 ###### Artículo 186.
 
@@ -2003,7 +2015,7 @@ IV. Una vez trascurrido el periodo de alegatos, el Tribunal, de oficio, declarar
 
 V. La resolución, deberá notificarse personalmente al servidor público o particular, según corresponda. En su caso, se notificará a los denunciantes únicamente para su conocimiento y al jefe inmediato o al titular de la dependencia, municipio u organismo auxiliar, para los efectos de su ejecución, en un término que no exceda de diez días hábiles.
 
-#### SECCIÓN SEGUNDA. DE LA RECLAMACIÓN
+#### SECCIÓN PRIMERA. DE LA REVOCACIÓN
 
 ###### Artículo 196.
 
@@ -2039,9 +2051,7 @@ Cuando la suspensión pueda afectar derechos de terceros que no sean estimables 
 
 La autoridad resolverá sobre la suspensión que solicite el promovente en un plazo que no exceda de veinticuatro horas.
 
-#### SECCIÓN TERCERA. DE LA APELACIÓN
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
+#### SECCIÓN SEGUNDA. DE LA RECLAMACIÓN
 
 ###### Artículo 199.
 
@@ -2069,7 +2079,9 @@ Del recurso de reclamación conocerá la autoridad substanciadora o resolutora q
 
 La resolución del recurso de reclamación no admitirá recurso en contra.
 
-#### SECCIÓN PRIMERA. DEL CUMPLIMIENTO Y EJECUCIÓN DE SANCIONES POR FALTAS ADMINISTRATIVAS NO GRAVES
+#### SECCIÓN TERCERA. DE LA APELACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 201.
 
@@ -2109,13 +2121,15 @@ Se exceptúan del párrafo anterior, los agentes del Ministerio Público, perito
 
 ### CAPÍTULO CUARTO. DE LA EJECUCIÓN
 
-#### SECCIÓN SEGUNDA. DEL CUMPLIMIENTO Y EJECUCIÓN DE SANCIONES POR FALTAS ADMINISTRATIVAS GRAVES Y FALTAS DE PARTICULARES
+#### SECCIÓN PRIMERA. DEL CUMPLIMIENTO Y EJECUCIÓN DE SANCIONES POR FALTAS ADMINISTRATIVAS NO GRAVES
 
 ###### Artículo 206.
 
 La ejecución de las sanciones impuestas por la comisión de faltas administrativas no graves, se llevará a cabo de manera inmediata, una vez determinadas por la Secretaría de la Contraloría o los Órganos internos de control y en los términos que disponga la resolución respectiva.
 
 Tratándose de servidores públicos de base, la suspensión y la destitución se ejecutarán por el titular del ente público que corresponda.
+
+#### SECCIÓN SEGUNDA. DEL CUMPLIMIENTO Y EJECUCIÓN DE SANCIONES POR FALTAS ADMINISTRATIVAS GRAVES Y FALTAS DE PARTICULARES
 
 ###### Artículo 207.
 
@@ -2632,3 +2646,13 @@ G.G. 28 DE ABRIL DE 2026.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 316.- POR EL QUE SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 52; LA SECCIÓN DÉCIMA QUINTA, DENOMINADA "DEL NEPOTISMO", AL CAPÍTULO SEGUNDO, DEL TÍTULO TERCERO DEL LIBRO PRIMERO Y EL ARTÍCULO 67 TER A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente Decreto.
