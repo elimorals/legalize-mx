@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-para-los-servidores-publicos-del-138246"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-09-18"
-last_updated: "2019-09-18"
+last_updated: "2026-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138246&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA PARA LOS SERVIDORES PUBLICOS DEL INSTITUTO MORELENSE DE RADIO Y TELEVISION DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO MORELENSE DE RADIO Y TELEVISIÓN, PUBLICADO EN EL P.O. DE 20 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO MORELENSE DE RADIO Y TELEVISIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2026 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 18 de septiembre de 2019.
 
@@ -382,3 +384,21 @@ Coordinador General del Instituto Morelense de Radio y Televisión.
 RÚBRICAS.
 
 LA PRESENTE HOJA DE FIRMA ES PARTE INTEGRANTE DEL CÓDIGO DE CONDUCTA A LAS (SIC) QUE DEBERÁN SUJETARSE, LOS SERVIDORES PÚBLICOS DEL INSTITUTO MORELENSE DE RADIO Y TELEVISIÓN.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL INSTITUTO MORELENSE DE RADIO Y TELEVISIÓN”.]
+
+PRIMERA. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Conducta del Instituto Morelense de Radio y Televisión publicado el dieciocho de septiembre del año dos mil diecinueve en el Periódico Oficial “Tierra y Libertad” número 5745.
+
+TERCERA.- Lo no previsto por el presente Código de Conducta, será resuelto de conformidad con lo dispuesto por el Código de Ética y Reglas de Integridad a las que deben ajustarse los servidores públicos de la Administración Pública Estatal.
+
+CUARTA. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+QUINTA. Las personas servidoras públicas del Instituto, a través de la Dirección General de Administración y Finanzas, deberán suscribir la carta compromiso a que se refiere el presente instrumento.
+
+SEXTA: Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Código de Conducta.
