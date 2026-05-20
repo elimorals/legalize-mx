@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-economico-sustentable-del-estado-libre-y-6140
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-04"
-last_updated: "2019-04-10"
+last_updated: "2026-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de junio de 2008.
 
@@ -79,21 +79,27 @@ II. Cadenas productivas: Los sistemas que integran conjuntos de empresas que agr
 
 III. CREDE: La Comisión Reguladora para el Desarrollo Económico del Estado de Morelos;
 
-IV. Consejo Intermunicipal: El Consejo Intermunicipal para el Desarrollo Económico del Estado de Morelos;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2026)</small>
+
+IV. Otorgar incentivos para la instalación de empresas nuevas o la ampliación, modernización y/o mejoramiento de las ya existentes, en función del monto de inversión, de los empleos, de los empleos verdes que se esperan generar y de las prioridades sectoriales del Estado;
 
 V. CCDE: El Consejo Consultivo para el Desarrollo Económico del Estado de Morelos, como órgano de consulta entre los sectores público, social y privado;
 
-VI. FODEPI: El Fondo de Desarrollo Empresarial y Promoción de la Inversión;
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2026)</small>
 
-VII. Ley: La Ley de Desarrollo Económico Sustentable del Estado Libre y Soberano de Morelos;
+VI. Empleos verdes: Son aquellas actividades económicas o puestos de trabajo que contribuyen de manera significativa a la sostenibilidad ambiental.
 
-VIII. MIPYMES: Las micro, pequeñas y medianas empresas morelenses legalmente constituidas, de conformidad con los criterios establecidos en el artículo 28 de la presente Ley;
+VII. FODEPI: El Fondo de Desarrollo Empresarial y Promoción de la Inversión;
 
-IX. Reglamento: El Reglamento de la Ley de Desarrollo Económico Sustentable del Estado Libre y Soberano de Morelos; y
+VIII. Ley: La Ley de Desarrollo Económico Sustentable del Estado Libre y Soberano de Morelos;
+
+IX. MIPYMES: Las micro, pequeñas y medianas empresas morelenses legalmente constituidas, de conformidad con los criterios establecidos en el artículo 28 de la presente Ley;
+
+X. Reglamento: El Reglamento de la Ley de Desarrollo Económico Sustentable del Estado Libre y Soberano de Morelos; y
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
-X. Secretaría: La Secretaría de Economía del Estado de Morelos.
+XI. Secretaría: La Secretaría de Economía del Estado de Morelos.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES Y ÓRGANOS COMPETENTES
 
@@ -119,7 +125,9 @@ II. Impulsar la modernización empresarial, entendida ésta como una mejora de p
 
 III. Promover la calidad y productividad mediante acciones conjuntas de los sectores público y privado;
 
-IV. Otorgar incentivos para la instalación de empresas nuevas o la ampliación, modernización y/o mejoramiento de las ya existentes, en función del monto de inversión, de los empleos que se esperan generar y de las prioridades sectoriales del Estado;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2026)</small>
+
+IV. Otorgar incentivos para la instalación de empresas nuevas o la ampliación, modernización y/o mejoramiento de las ya existentes, en función del monto de inversión, de los empleos, empleos verdes, que se esperan generar y de las prioridades sectoriales del Estado;
 
 V. Planificar e impulsar la modernización de la infraestructura;
 
@@ -129,11 +137,15 @@ VI. Promover la participación activa de las empresas en el diseño e implementa
 
 VII. Promover el fomento a la cultura emprendedora y empresarial que logren impulsar la creación de nuevas empresas;
 
-> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2026)</small>
 
-VIII. Promover e impulsar la industria penitenciaria, fomentando esquemas de producción, asociación y comercialización modernas y eficientes que fortalezcan el sistema de reinserción social y beneficien a los empresarios participantes; y
+VIII. Promover e impulsar la industria penitenciaria, fomentando esquemas de producción, asociación y comercialización modernas y eficientes que fortalezcan el sistema de reinserción social y beneficien a los empresarios participantes;
 
-IX. Las que determine la persona titular del Poder Ejecutivo del Estado mediante mandato o delegación expresa.
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2026)</small>
+
+IX. Impulsar la creación y el fomento de empleos verdes, y
+
+X. Las que determine la persona titular del Poder Ejecutivo del Estado mediante mandato o delegación expresa.
 
 ###### Artículo 6.
 
@@ -313,9 +325,9 @@ I. Comprobar que se trate de empresas, organizaciones sociales y privadas o pers
 
 II. Comprobar que tales empresas, organizaciones sociales y privadas o personas físicas con actividad empresarial, según sea el caso, estén al corriente de sus obligaciones fiscales, laborales y de seguridad social, tanto federales como estatales;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2026)</small>
 
-III. Comprobar que tales empresas, organizaciones sociales y privadas o personas físicas con actividad empresarial, según sea el caso, realizarán proyectos de inversión que impliquen la creación de empleos permanentes en el Estado; y
+III. Comprobar que tales empresas, organizaciones sociales y privadas o personas físicas con actividad empresarial, según sea el caso, realizarán proyectos de inversión que impliquen la creación de empleos y empleos verdes permanentes en el Estado; y
 
 > <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
 
@@ -389,9 +401,11 @@ Lo anterior, tendrá aplicación en cuanto a los derechos de inscripción en el 
 
 La persona titular del Poder Ejecutivo del Estado, a propuesta de la CREDE, establecerá la tasa preferencial, la cual deberá ser publicada en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado, para su entrada en vigor.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2026)</small>
+
 ###### Artículo 23.
 
-La reducción en los pagos por adquisición de servicios públicos estatales, se determinará dependiendo de la demanda de estos servicios, montos de inversión y número de empleos generados de cada beneficiario, atendiendo en todo momento a los acuerdos que establezca la persona titular del Poder Ejecutivo del Estado, a propuesta de la CREDE, los cuales deberán ser publicados en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado para su entrada en vigor.
+La reducción en los pagos por adquisición de servicios públicos estatales, se determinará dependiendo de la demanda de estos servicios, montos de inversión, número de empleos, y empleos verdes generados de cada beneficiario, atendiendo en todo momento a los acuerdos que establezca la persona titular del Poder Ejecutivo del Estado, a propuesta de la CREDE, los cuales deberán ser publicados en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado para su entrada en vigor.
 
 ###### Artículo 24.
 
@@ -401,7 +415,9 @@ I. Que las reducciones temporales no excedan el plazo máximo de tres años y su
 
 II. Que el monto de las condonaciones no sea mayor al acordado por el Consejo Intermunicipal;
 
-III. Que se generen nuevos empleos o se mantengan los existentes;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2026)</small>
+
+III. Que se generen nuevos empleos, empleos verdes o se mantengan los existentes;
 
 IV. Que se adquieran bienes inmuebles dentro del municipio para la generación de nuevas empresas o para la ampliación de las existentes; y
 
@@ -475,9 +491,11 @@ Mediana 51 - 250 31 - 100 51 - 100
 
 La elaboración de los programas de fomento a MIPYMES comprenderán apoyos para la formación de emprendedores, capacitación y adiestramiento, consultoría especializada, acceso a financiamiento público y privado, impulso a los procesos de calidad e innovación, difusión de información para la toma de decisiones, y todas aquellas acciones para elevar su competitividad. La Secretaría, expedirá las reglas de operación de los programas de fomento a MIPYMES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2026)</small>
+
 ###### Artículo 30.
 
-La Secretaría brindará apoyo a las inversiones estratégicas, de acuerdo a su impacto en la generación de empleos formales, monto y plazo de ejecución, e integración en la economía local, de conformidad con las reglas de operación del Fideicomiso Público del FODEPI.
+La Secretaría brindará apoyo a las inversiones estratégicas, de acuerdo a su impacto en la generación de empleos verdes y empleos formales, monto y plazo de ejecución, e integración en la economía local, de conformidad con las reglas de operación del Fideicomiso Público del FODEPI.
 
 Asimismo, la Secretaría brindará apoyo a las empresas con potencial exportador, fomentando su participación en eventos nacionales e internacionales y la capacitación hacia una cultura exportadora.
 
@@ -804,3 +822,11 @@ SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deb
 SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
 
 OCTAVO. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CIENTO VEINTISEIS.- POR EL QUE SE ADICIONA Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto a la Gobernadora Constitucional del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos, de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir de día siguiente de su publicación oficial (sic) "Tierra y Libertad".
