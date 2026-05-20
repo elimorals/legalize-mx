@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-y-proteccion-a-la-actividad-artesanal-del-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-25"
-last_updated: "2019-12-31"
+last_updated: "2026-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO Y PROTECCIÓN A LA ACTIVIDAD ARTESANAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2026.
 
 Ley publicada en la Segunda Sección al Número 326 del Periódico Oficial del Estado de Chiapas, el miércoles 25 de octubre de 2017.
 
@@ -172,6 +172,10 @@ III. Preservar las artesanías propias de cada región socioeconómica de la Ent
 IV. Fomentar y promover la producción artesanal como medio para desarrollar una actividad económica generadora de empleos.
 
 V. Impulsar la mejora continua de la calidad del proceso de producción artesanal.
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2026)</small>
+
+VI. Promover ante las autoridades competentes, la implementación de políticas y mecanismos regulatorios orientados a la protección de la autoría intelectual en la actividad artesanal; a la comercialización justa de sus productos y a la prevención de prácticas abusivas, tales como la apropiación indebida, la imitación y la explotación no autorizadas de las creaciones elaboradas por las personas artesanas.
 
 ### Capítulo III. Del Desarrollo Artesanal Sustentable
 
@@ -436,3 +440,11 @@ P.O. 31 DE DICIEMBRE DE 2019.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 243 POR EL QUE SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 9 DE LA LEY DE DESARROLLO Y PROTECCIÓN DE LA ACTIVIDAD ARTESANAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
