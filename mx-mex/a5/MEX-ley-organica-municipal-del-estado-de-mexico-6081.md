@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2026-04-28"
+last_updated: "2026-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE MAYO DE 2026.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -639,15 +639,23 @@ Los ayuntamientos podrán sesionar con la asistencia de la mayoría de sus integ
 
 Los ayuntamientos no podrán revocar sus acuerdos sino en aquellos casos en que se hayan dictado en contravención a la Ley, lo exija el interés público o hayan desaparecido las causas que lo motivaron, y siguiendo el procedimiento y las formalidades que fueron necesarios para tomar los mismos, en cuyo caso se seguirán las formalidades de ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE MAYO DE 2026)</small>
 
 ###### Artículo 30.
 
-Las sesiones del ayuntamiento serán presididas por el presidente municipal o por quien lo sustituya legalmente; constarán en un libro que deberá contener las actas en las cuales deberán asentarse los extractos de los acuerdos y asuntos tratados y el resultado de la votación. Cuando se refieran a reglamentos y otras normas de carácter general que sean de observancia municipal estos constarán íntegramente en el libro de actas debiendo firmar en ambos casos los miembros del Ayuntamiento que hayan estado presentes, debiéndose difundir en el (sic) Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento. De las actas, se les entregará copia certificada en formato físico o electrónico a los integrantes del Ayuntamiento que lo soliciten en un plazo no mayor de ocho días hábiles. Los documentos electrónicos en el que consten las firmas electrónicas avanzadas o el sello electrónico de los integrantes del Ayuntamiento tendrá (sic) el carácter de copia certificada.
+Las sesiones del ayuntamiento serán presididas por el presidente municipal o por quien lo sustituya legalmente; constarán en un libro que deberá contener las actas en las cuales deberán asentarse los extractos de los acuerdos y asuntos tratados y el resultado de la votación. Cuando se refieran a reglamentos y otras normas de carácter general que sean de observancia municipal estos constarán íntegramente en el libro de actas debiendo firmar en ambos casos los miembros del Ayuntamiento que hayan estado presentes, debiéndose difundir en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento. De las actas, se les entregará copia certificada en formato físico o electrónico a los integrantes del Ayuntamiento que lo soliciten en un plazo no mayor de ocho días hábiles. Los documentos electrónicos en el que consten las firmas electrónicas avanzadas o el sello electrónico de los integrantes del Ayuntamiento tendrán el carácter de copia certificada.
 
-> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
 
-Todos los acuerdos de las sesiones que no contengan información clasificada y el resultado de su votación, serán difundidos cada mes en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento, así como los datos de identificación de las actas que contengan información clasificada, incluyendo en cada caso, el fundamento legal que clasifica la información.
+Todos los acuerdos de las sesiones que no contengan información clasificada y el resultado de su votación, serán difundidos cada mes en la Gaceta Municipal en su versión electrónica y en los estrados de la Secretaría del Ayuntamiento, así como los datos de identificación de las actas que contengan información clasificada, incluyendo en cada caso, el fundamento legal que clasifica la información.
+
+> <small>(ADICIONADO, G.G. 20 DE MAYO DE 2026)</small>
+
+La versión electrónica de la Gaceta Municipal tendrá validez legal y el carácter de documental pública cuando se emita por la Secretaría del Ayuntamiento, garantizando la integridad y autenticidad de su contenido mediante firma y sello electrónico y previo pago de la contribución respectiva cuando se soliciten ejemplares certificados.
+
+> <small>(ADICIONADO, G.G. 20 DE MAYO DE 2026)</small>
+
+Además de la edición electrónica, se imprimirán cinco ejemplares, con idénticas características y contenido, para efectos de evidencia documental, resguardo y conservación, conforme a la Ley de Archivos y Administración de Documentos, así como para garantizar la publicación de la Gaceta Municipal en los casos en que resulte imposible por causas de fuerza mayor acceder a su edición electrónica, los cuales, no estarán a la venta y quedarán a resguardo de la Secretaría del Ayuntamiento y del Archivo Municipal.
 
 > <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -897,9 +905,9 @@ XXXV. Coadyuvar en la ejecución de los planes y programas federales y estatales
 
 XXXV Bis.- Establecer, fomentar, coordinar y difundir permanentemente programas y acciones en materia de educación vial. Para el cumplimiento de esta disposición los ayuntamientos se auxiliarán de la participación directa de los concesionarios y permisionarios del transporte público;
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.G. 20 DE MAYO DE 2026)</small>
 
-XXXVI. Editar, publicar y circular la Gaceta Municipal órgano oficial en formato físico o electrónico, cuando menos cada tres meses para la difusión de todos los acuerdos de Cabildo de las sesiones que no contengan información clasificada, los acuerdos de carácter general tomados por el ayuntamiento y de otros asuntos de interés público;
+XXXVI. Editar, publicar y difundir la Gaceta Municipal como órgano oficial de comunicación gubernamental, preferentemente en formato electrónico. La edición electrónica de la Gaceta Municipal, firmada digitalmente por la autoridad facultada, tendrá el mismo valor jurídico y probatorio que la versión impresa para todos los efectos legales, administrativos y judiciales conducentes. Su contenido incluirá la difusión de todos los acuerdos de Cabildo de las sesiones que no contengan información clasificada, con apego a las leyes en materia de transparencia y acceso a la información pública, los acuerdos de carácter general tomados por el ayuntamiento y otros asuntos de interés público. Su periodicidad será cuando menos mensual;
 
 XXXVII. Organizar y promover la instrucción cívica que mantenga a los ciudadanos en conocimiento del ejercicio de sus derechos;
 
@@ -1189,9 +1197,9 @@ I. Presidir y dirigir las sesiones del ayuntamiento;
 
 II. Ejecutar los acuerdos del ayuntamiento e informar su cumplimiento;
 
-> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE MAYO DE 2026)</small>
 
-III. Promulgar y publicar el Bando Municipal en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento, así como ordenar la difusión de las normas de carácter general y reglamentos aprobados por el Ayuntamiento;
+III. Promulgar y publicar el Bando Municipal en la Gaceta Municipal y ordenar su difusión en los estrados de la Secretaría del Ayuntamiento, así como ordenar la publicación electrónica de las normas de carácter general y reglamentos aprobados por el Ayuntamiento para su debida difusión;
 
 > <small>(REFORMADA, G.G. 30 DE OCTUBRE DE 2012)</small>
 
@@ -2063,7 +2071,9 @@ VI. Tener a su cargo el archivo general del ayuntamiento;
 
 VII. Controlar y distribuir la correspondencia oficial del ayuntamiento, dando cuenta diaria al presidente municipal para acordar su trámite;
 
-VIII. Publicar los reglamentos, circulares y demás disposiciones municipales de observancia general;
+> <small>(REFORMADA, G.G. 20 DE MAYO DE 2026)</small>
+
+VIII. Publicar en la Gaceta Municipal los reglamentos, circulares y demás disposiciones municipales de observancia general;
 
 IX. Compilar leyes, decretos, reglamentos, periódicos oficiales del estado, circulares y órdenes relativas a los distintos sectores de la administración pública municipal;
 
@@ -2079,9 +2089,9 @@ En el caso de que el ayuntamiento adquiera por cualquier concepto bienes muebles
 
 XII. Integrar un sistema de información que contenga datos de los aspectos socio-económicos básicos del municipio;
 
-> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE MAYO DE 2026)</small>
 
-XIII. Ser responsable de la publicación de la Gaceta Municipal, así como de las publicaciones en los estrados de los Ayuntamientos; y
+XIII. Ser responsable de la edición, publicación y difusión de la Gaceta Municipal. Para garantizar la autenticidad, integridad e inalterabilidad de la Gaceta Municipal en su versión electrónica, el Secretario deberá validarla mediante el uso de su firma electrónica avanzada o sello electrónico, de conformidad con la legislación aplicable en materia de Gobierno Digital y firma electrónica; y
 
 XIV. Las demás que le confieran esta Ley y disposiciones aplicables.
 
@@ -3671,11 +3681,11 @@ Artículo 154 D.- En la acción popular procede el recurso de revisión ante la 
 
 ### CAPITULO PRIMERO. Del Bando y los Reglamentos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE MAYO DE 2026)</small>
 
 ###### Artículo 160.
 
-Los ayuntamientos expedirán el Bando Municipal y los presidentes municipales lo promulgarán y difundirán en la Gaceta Municipal y en los estrados de los Ayuntamientos, así como por los medios que estime conveniente.
+Los ayuntamientos expedirán el Bando Municipal y los presidentes municipales lo promulgarán y difundirán en la Gaceta Municipal electrónica, en los estrados de los Ayuntamientos y por los medios digitales o físicos que estimen convenientes para su máxima publicidad.
 
 El 5 de febrero de cada año el presidente municipal acompañado de los demás miembros del ayuntamiento en acto solemne dará publicidad al bando municipal o sus modificaciones.
 
@@ -3739,11 +3749,13 @@ El Bando Municipal podrá modificarse en cualquier tiempo, siempre y cuando se c
 
 Los ayuntamientos podrán expedir los reglamentos, circulares y disposiciones administrativas que regulen el régimen de las diversas esferas de competencia municipal.
 
-> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
 
 ###### Artículo 165.
 
-Los Bandos, sus reformas y adiciones, así como los reglamentos municipales deberán promulgarse estableciendo su obligatoriedad y vigencia y darse a la publicidad en la Gaceta Municipal y en los estrados de los ayuntamientos, así como en los medios que se estime conveniente.
+Los Bandos, sus reformas y adiciones, así como los reglamentos municipales, acuerdos de Cabildo y demás disposiciones de observancia general, deberán promulgarse estableciendo su obligatoriedad y vigencia. Su publicación en la Gaceta Municipal electrónica será requisito indispensable para que produzcan efectos jurídicos vinculantes hacia los particulares. Adicionalmente, podrán difundirse en los estrados de los ayuntamientos y en otros medios para mayor conocimiento de la población.
+
+La publicación en la Gaceta Municipal electrónica no sustituye ni exime el cumplimiento de las obligaciones de publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México, cuando así se requiera para la validez o eficacia jurídica de los actos previstos en la legislación aplicable.
 
 ### CAPITULO SEGUNDO. De las Sanciones
 
@@ -5836,3 +5848,23 @@ CUARTO. El Ejecutivo Estatal expedirá y actualizará las disposiciones reglamen
 QUINTO. Las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al Libro Segundo del Código Administrativo del Estado de México se entenderán hechas a la Ley de Salud del Estado de México.
 
 SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 317.- POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 30; LA FRACCIÓN XXXVI DEL ARTÍCULO 31; LA FRACCIÓN III DEL ARTÍCULO 48; LAS FRACCIONES VIII Y XIII DEL ARTÍCULO 91; EL PRIMER PÁRRAFO DEL ARTÍCULO 160 Y EL ARTÍCULO 165; Y SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 30, RECORRIÉNDOSE EL SUBSECUENTE DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos del Estado de México deberán adecuar su Bando Municipal y reglamentación interna en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para establecer los mecanismos tecnológicos que garanticen la accesibilidad, autenticidad y resguardo de la Gaceta Municipal electrónica.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos deberán habilitar en sus portales de internet oficiales un repositorio público y gratuito que permita la consulta y descarga de las Gacetas Municipales electrónicas publicadas.
+
+###### ARTÍCULO CUARTO.
+
+La Agencia Digital del Estado de México brindará el apoyo tecnológico necesario, con pleno respeto a la autonomía y libertad municipal, en el cumplimiento de este Decreto.
