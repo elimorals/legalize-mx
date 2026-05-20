@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2025-12-24"
+last_updated: "2026-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2026.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -106,9 +106,9 @@ De los principios rectores
 
 2. La Ciudad de México asume como principios:
 
-> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2026)</small>
 
-a) El respeto a los derechos humanos, la defensa del Estado democrático y social, el diálogo social, la cultura de la paz y la no violencia, el desarrollo económico sustentable y solidario con visión metropolitana, la más justa distribución del ingreso, la dignificación del trabajo y el salario, la erradicación de la pobreza, el respeto a la propiedad en los mismos términos del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, la igualdad sustantiva, la no discriminación, la inclusión, la accesibilidad, el diseño universal, la preservación del equilibrio ecológico, la protección al ambiente, la protección y conservación del patrimonio cultural y natural. Se reconoce la propiedad de la Ciudad sobre sus bienes del dominio público, de uso común y del dominio privado; asimismo, la propiedad ejidal y comunal;
+a) El respeto a los derechos humanos, la defensa del Estado democrático y social, el diálogo social, la cultura de la paz y la no violencia, el desarrollo económico sustentable y solidario con visión metropolitana, la más justa distribución del ingreso, la dignificación del trabajo y el salario, la erradicación de la pobreza, el respeto a la propiedad en los mismos términos del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, la igualdad sustantiva, el reconocimiento del valor social y económico de los cuidados, la no discriminación, la inclusión, la accesibilidad, el diseño universal, la preservación del equilibrio ecológico, la protección al ambiente, la protección y conservación del patrimonio cultural y natural. Se reconoce la propiedad de la Ciudad sobre sus bienes del dominio público, de uso común y del dominio privado; asimismo, la propiedad ejidal y comunal;
 
 b) La rectoría del ejercicio de la función pública apegada a la ética, la austeridad, la racionalidad, la transparencia, la apertura, la responsabilidad, la participación ciudadana y la rendición de cuentas con control de la gestión y evaluación, en los términos que fije la ley; y
 
@@ -470,9 +470,21 @@ A. Derecho a la vida digna
 
 3. Las autoridades garantizarán progresivamente la vigencia de los derechos, hasta el máximo de los recursos públicos disponibles. Se asegurará la no discriminación, la igualdad sustantiva y la transparencia en el acceso a los programas y servicios sociales de carácter público. Su acceso y permanencia se establecerá en las leyes y normas respectivas.
 
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2026)</small>
+
 B. Derecho al cuidado
 
-Toda persona tiene derecho al cuidado que sustente su vida y le otorgue los elementos materiales y simbólicos para vivir en sociedad a lo largo de toda su vida. Las autoridades establecerán un sistema de cuidados que preste servicios públicos universales, accesibles, pertinentes, suficientes y de calidad y desarrolle políticas públicas. El sistema atenderá de manera prioritaria a las personas en situación de dependencia por enfermedad, discapacidad, ciclo vital, especialmente la infancia y la vejez y a quienes, de manera no remunerada, están a cargo de su cuidado.
+1. Toda persona tiene derecho al cuidado que sustente su vida y le otorgue los elementos materiales y simbólicos para vivir en sociedad a lo largo de toda su vida.
+
+2. El derecho humano al cuidado tutelado por esta Constitución comprende el derecho a cuidar, a ser cuidado y al autocuidado. Es indispensable para el ejercicio de otros derechos y para la sostenibilidad de la vida de las personas y la sociedad.
+
+3. Todos los trabajos de cuidado, incluidos los domésticos no remunerados, son esenciales para la reproducción social, generan valor económico y social, prosperidad y bienestar individual y colectivo.
+
+4. Los trabajos de cuidado deben distribuirse de manera equitativa entre los géneros y corresponsablemente entre las personas, el gobierno, el sector privado y el social. También son un deber entre las generaciones.
+
+5. Las autoridades establecerán un sistema de cuidados que preste servicios públicos universales, accesibles, pertinentes, suficientes y de calidad y desarrollen políticas públicas. El sistema atenderá de manera prioritaria a las personas en situación de dependencia por enfermedad, discapacidad, ciclo vital, especialmente la infancia y la vejez y a quienes, de manera no remunerada, están a carga (sic) de su cuidado.
+
+6. El Sistema de Cuidados de la Ciudad de México tendrá entre sus finalidades reconocer, redistribuir y reducir las tareas de cuidado. Este sistema tiene también como uno de sus objetivos erradicar la división sexual del trabajo por ser un mecanismo que propicie la desigualdad entre los géneros.
 
 C. Derecho a la alimentación y a la nutrición
 
@@ -4951,3 +4963,11 @@ PRIMERO: Remítase a la persona titular de la Jefatura de Gobierno para su publi
 SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO: Las obligaciones que, en su caso se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales.
+
+G.O. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 3, NUMERAL 2, INCISO A) Y 9, APARTADO B) DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
