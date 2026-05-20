@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-ambiental-del-distrito-federal-11050"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-12-03"
-last_updated: "1997-12-03"
+last_updated: "2026-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11050&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1997-11-21"
 
 REGLAMENTO DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2026 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 3 de diciembre de 1997.
 
@@ -747,3 +747,15 @@ CUARTO.- Se abrogan las disposiciones que se opongan al presente Reglamento.
 QUINTO.- Las menciones hechas en el presente ordenamiento al Jefe de Gobierno del Distrito Federal se entenderán referidas al Jefe del Departamento del Distrito Federal hasta en tanto entre en funciones aquél.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de noviembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Óscar Espinosa Villarreal.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se abroga el Reglamento de la Ley Ambiental del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal hoy Ciudad de México el 3 de diciembre de 1997.
