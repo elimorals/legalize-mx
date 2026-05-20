@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-171841"
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-29"
-last_updated: "2026-04-28"
+last_updated: "2026-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2026.
 
 Ley publicada en la Sección Segunda del Número 39 de la Gaceta del Gobierno del Estado de México, el jueves 29 de febrero de 2024.
 
@@ -707,7 +707,9 @@ En el caso de los planes y programas para la educación media superior, podrán 
 
 La educación que imparta el Estado, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial, se (sic) utilizará el avance de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, con la finalidad de fortalecer los modelos pedagógicos de enseñanza aprendizaje, la innovación educativa, el desarrollo de habilidades y saberes digitales de los educandos, además del establecimiento de programas de educación a distancia y semi presencial para cerrar la brecha digital y las desigualdades en la población.
 
-Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos.
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
+
+Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos. El uso de dispositivos de telefonía celular y demás dispositivos electrónicos por parte de niñas, niños y adolescentes en las escuelas de nivel básico deberá sujetarse a fines estrictamente académicos, de conformidad con lo previsto en el artículo 61 Bis del presente ordenamiento.
 
 ###### Artículo 59.
 
@@ -721,9 +723,31 @@ La autoridad educativa estatal promoverá acciones para combatir la brecha digit
 
 La autoridad educativa estatal promoverá la formación y educación digital, utilizando para ello los espacios de las instituciones públicas disponibles en cada comunidad; e incluso, los recursos tecnológicos con que cuentan las instituciones educativas, bajo el principio de que las escuelas son del pueblo y pueden ser utilizadas por toda la población. Se tomarán en consideración los tiempos de atención y aprendizaje pertinentes para la población.
 
+> <small>(REFORMADO, G.G. 20 DE MAYO DE 2026)</small>
+
 ###### Artículo 61.
 
-La autoridad educativa estatal procurará de manera progresiva el acceso a las tecnologías de la información y la comunicación, especialmente el servicio gratuito de internet en espacios educativos para el uso de la comunidad escolar únicamente para fines académicos o culturales.
+La autoridad educativa estatal procurará de manera progresiva el acceso a las tecnologías de la información y la comunicación, especialmente el servicio gratuito de internet en espacios educativos para el uso de la comunidad escolar únicamente para fines académicos o culturales. Asimismo, promoverá entre el personal docente y educandos de espacios educativos de nivel medio superior y superior, el uso responsable, ético y gradual de la inteligencia artificial con fines educativos.
+
+> <small>(ADICIONADO, G.G. 20 DE MAYO DE 2026)</small>
+
+###### Artículo 61 Bis.
+
+En las instituciones educativas de tipo básico, el uso de teléfonos celulares y demás dispositivos electrónicos por parte del educando, se sujetará a las disposiciones que emitan las autoridades educativas estatales y federales competentes, acorde a los lineamientos generales del uso responsable y seguro de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el sistema educativo, a través de la agenda digital educativa y garantizando un ambiente propicio para el aprendizaje y salvaguardar el derecho a la educación.
+
+El uso de dichos dispositivos quedará limitado exclusivamente a fines académicos previstos en los lineamientos generales del uso responsable y seguro de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el sistema educativo o, en caso de emergencias personales, previa autorización expresa del personal docente o directivo. En ningún caso podrá permitirse que interfieran con el desarrollo de las actividades escolares, la convivencia armónica de la comunidad educativa o el ejercicio de los derechos de niñas, niños y adolescentes.
+
+La autoridad educativa estatal deberá expedir lineamientos, protocolos, guías o manuales que contemplen lo siguiente:
+
+I. Delimitar la utilización de teléfonos celulares y demás dispositivos electrónicos para fines expresamente académicos y pedagógicos, autorizados por el responsable del aula durante los horarios de clase;
+
+II. Determinar tiempos y espacios específicos, distintos al aula, en los que se permita su uso para fines recreativos o de comunicación personal;
+
+III. Promover el uso seguro y responsable de la tecnología, con especial énfasis en la prevención de riesgos asociados al ciberacoso, la violencia en sus diversos tipos y modalidades y el acceso a contenidos que vulneren el sano desarrollo de niñas, niños y adolescentes; y
+
+IV. Fomentar la participación corresponsable de madres, padres o personas que ejerzan la tutela en el acompañamiento del uso de teléfonos celulares y dispositivos electrónicos.
+
+Lo anterior, en apoyo a la formación del educando a través de acciones de sensibilización sobre el bienestar integral y prevención de riesgos derivados del uso de dispositivos tecnológicos sin regulación.
 
 ### Capítulo IV. De la Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación Básica y Media Superior
 
@@ -1832,6 +1856,24 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 G.G. 28 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 304.- POR EL QUE SE REFORMAN LAS FRACCIONES VIII Y IX DEL ARTÍCULO 94 Y SE ADICIONAN LAS FRACCIONES X, XI Y XII AL ARTÍCULO 94 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 320.- POR EL QUE SE REFORMA EL ARTÍCULO 61 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Poder Ejecutivo dispondrá de los recursos humanos y financieros que resulten necesarios para la correcta implementación del presente Decreto.
+
+G.G. 20 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 327.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 58 Y SE ADICIONA EL ARTÍCULO 61 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 28 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
