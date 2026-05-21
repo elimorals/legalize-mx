@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-tribunal-electoral-del-estado-de-oaxaca-149412
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-05-06"
-last_updated: "2023-08-15"
+last_updated: "2026-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2026.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 6 de mayo de 2021.
 
@@ -415,9 +415,11 @@ Tratándose de una vacante definitiva de alguna de las Magistradas o Magistrados
 
 Las Magistradas y Magistrados gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2026)</small>
+
 ###### Artículo 30.
 
-Las remuneraciones de las Magistradas y Magistrados electorales, serán en términos de los artículos 127 de la Constitución, 114 BIS de la Constitución Local, sin que puedan disminuirse durante el tiempo de su encargo.
+Las remuneraciones de las Magistradas y Magistrados electorales, serán en términos de los artículos 127 de la Constitución Federal sin que puedan disminuirse durante el tiempo de su encargo; las personas Magistradas observarán el estricto cumplimiento del párrafo cuarto del artículo 134 de este último ordenamiento.
 
 ###### Artículo 31.
 
@@ -1510,3 +1512,15 @@ P.O. 15 DE AGOSTO DE 2023.
 PRIMERO. Publíquese el siguiente decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria.
 
 SEGUNDO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 21 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1552.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II Y III DEL NUMERAL 1 DEL ARTÍCULO 24, Y EL NUMERAL 4 DEL ARTÍCULO 36, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA; REFORMA EL ARTÍCULO 30 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca, salvo lo previsto en el artículo transitorio tercero.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Honorable Congreso del Estado.
+
+TERCERO. Las reformas relativas a la Integración de los ayuntamientos contenidas en el artículo 24, numeral 1, fracciones II y III, de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca surtirán efectos a partir del periodo administrativo municipal subsecuente, en términos del régimen transitorio de la reforma constitucional federal aplicable. Los ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con un número menor de regidurías conservarán su integración actual hasta la conclusión del periodo para el que fueron electos, sin perjuicio de los ajustes que legalmente correspondan en procesos electorales posteriores.
+
+CUARTO. El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y el Tribunal Electoral del Estado de Oaxaca contarán con un plazo de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas, administrativas y presupuestarias necesarias para el cumplimiento de sus disposiciones.
