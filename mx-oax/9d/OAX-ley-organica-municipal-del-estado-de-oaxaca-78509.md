@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2026-03-21"
+last_updated: "2026-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -373,11 +373,11 @@ El Ayuntamiento constituye el Órgano de Gobierno del Municipio. Se asentará en
 
 El Ayuntamiento deberá aprobar su bando de policía y gobierno, los reglamentos, las circulares y disposiciones administrativas de observancia general dentro de su territorio municipal, que organicen la administración pública municipal, que regulen las materias, procedimientos, funciones y servicios públicos de su competencia, de conformidad con sus atribuciones previstas en la fracción I, apartado A, del artículo 43 de la presente Ley.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 30.
 
-El Ayuntamiento estará integrado por el Presidente Municipal y el número de Síndicos y Regidores que señale la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
+El Ayuntamiento estará integrado por una Presidencia municipal, una Sindicatura municipal y el número de Regidurías que señale la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2025)</small>
 
@@ -399,9 +399,9 @@ Las asambleas comunitarias y la Asamblea General, garantizaran la participación
 
 El Ayuntamiento durará en su encargo tres años. El Ayuntamiento rendirá protesta el día primero de enero siguiente al de su elección y concluirá el treinta y uno de diciembre del año de las elecciones para su renovación.
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2026)</small>
 
-Los presidentes municipales, regidores y síndicos de los ayuntamientos, electos popularmente por elección directa podrán ser electos consecutivamente para un período adicional, siempre y cuando el período del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Los presidentes municipales, síndico y regidores de los ayuntamientos, electos popularmente por elección directa podrán ser electos consecutivamente para un período adicional, siempre y cuando el período del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2017)</small>
 
@@ -413,9 +413,11 @@ Los integrantes de los Ayuntamientos electos por Sistemas Normativos Internos, d
 
 ARTÍCULO 33 BIS.- Las autoridades municipales electas para integrar el Ayuntamiento, previo a la toma de protesta de ley a sus respectivos cargos, deberán solicitar a las instancias públicas, privadas y académicas, la asesoría, y curso de capacitación necesarias para la formación y buen desempeño de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 34.
 
-Los cargos de Presidente Municipal, Síndicos y Regidores del Ayuntamiento serán obligatorios y sólo podrá renunciarse a ellos por causa justificada que calificará el propio Ayuntamiento.
+Los cargos de Presidente Municipal, Síndico y Regidores del Ayuntamiento serán obligatorios y sólo podrá renunciarse a ellos por causa justificada que calificará el propio Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2019)</small>
 
@@ -1119,9 +1121,9 @@ XXVI.- De atención e Inclusión a las Personas con Discapacidad, y;
 
 XXVII.- Las demás que apruebe el Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2026)</small>
 
-La Comisión de Hacienda estará integrada por el Presidente, el Síndico o los Síndicos y el Regidor de Hacienda; será presidida por el Presidente Municipal. Las demás comisiones estarán presididas por el regidor de la materia; y los demás integrantes de dichas comisiones, se insacularán de entre de (sic) los regidores de mayoría relativa y representación proporcional.
+La Comisión de Hacienda estará integrada por el Presidente, el Síndico y el Regidor de Hacienda; será presidida por el Presidente Municipal. Las demás comisiones estarán presididas por el regidor de la materia; y los demás integrantes de dichas comisiones se insacularán de entre de (sic) los regidores de mayoría relativa y representación proporcional.
 
 ###### ARTÍCULO 57.
 
@@ -1451,9 +1453,9 @@ VI.- Expedir de manera inmediata los nombramientos de los Agentes Municipales, d
 
 VII.- Asumir la representación jurídica del ayuntamiento en los litigios, a falta de Síndico o cuando el Síndico o Síndicos estén ausentes o impedidos legalmente para ello;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2026)</small>
 
-VIII.- Informar a la población en sesión pública y solemne que deberá celebrarse dentro de los primeros quince días del mes de diciembre de cada año, sobre el estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio. En los Municipios que se rigen por usos y costumbres, los informes a que se refiere esta fracción, se realizarán en las fechas y de acuerdo a la que sus tradiciones determinen;
+VIII.- Asumir la representación jurídica del ayuntamiento en los litigios, a falta del Síndico o cuando el Síndico esté ausente o impedido legalmente para ello;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1627,15 +1629,19 @@ Así mismo, no podrán celebrar contratos o adquisiciones con personas que se en
 
 ### CAPÍTULO II. DEL SÍNDICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 71.
 
-Los Síndicos serán representantes jurídicos del Municipio y responsables de vigilar la debida administración del erario público y patrimonio municipal, con las siguientes atribuciones:
+El Síndico será representante jurídico del Municipio y responsable de vigilar la debida administración del erario público y patrimonio municipal, con las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
 
 I.- Representar jurídicamente al Municipio en los litigios en que éstos fueren parte;
 
-II.- Tendrán el carácter de mandatarios del Ayuntamiento y desempeñarán las funciones que éste les encomienden (sic) y las que designen las leyes;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2026)</small>
+
+II.- Tendrá el carácter de mandatario del Ayuntamiento y desempeñará las funciones que éste le encomiende y las que designen las leyes;
 
 III.- Vigilar la correcta aplicación del presupuesto de egresos, revisar y firmar los cortes de caja o estados financieros de la tesorería y la documentación de la cuenta pública municipal;
 
@@ -1715,9 +1721,11 @@ El Síndico Municipal no puede desistirse, transigir, comprometerse en árbitro 
 
 ### CAPÍTULO III. DE LOS REGIDORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 73.
 
-Los Regidores, en unión del Presidente y los Síndicos, forman el cuerpo colegiado denominado Ayuntamiento. Los Regidores, tendrán las siguientes facultades y obligaciones:
+Los Regidores, en unión del Presidente y el Síndico, forman el cuerpo colegiado denominado Ayuntamiento. Los Regidores, tendrán las siguientes facultades y obligaciones:
 
 I.- Asistir con derecho de voz y voto a las sesiones del Cabildo y vigilar el cumplimiento de sus acuerdos;
 
@@ -1897,7 +1905,9 @@ II.- Licencias mayores de quince días naturales:
 
 a) El Presidente Municipal, será suplido en forma improrrogable, por el concejal designado por el Ayuntamiento, como encargado de despacho, a propuesta del mismo presidente; y
 
-b) Tratándose de los Síndicos y Regidores, se requerirá al suplente respectivo.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2026)</small>
+
+b) Tratándose del Síndico y Regidores, se requerirá al suplente.
 
 III.- Licencias que excedan de ciento veinte días naturales:
 
@@ -1905,7 +1915,9 @@ III.- Licencias que excedan de ciento veinte días naturales:
 
 a) El Presidente Municipal, será suplido por su Suplente, y en su ausencia o negativa de éste, por el Concejal que el Ayuntamiento designe, considerando los principios constitucionales de paridad, alternancia y prelación. De no lograr el acuerdo respectivo, el Congreso del Estado lo designará de entre los mismos concejales, tutelando los principios de este inciso; y
 
-b) Tratándose de los Síndicos y Regidores, se llamará al suplente respectivo. De no aceptar el cargo, se requerirá a cualquiera de los suplentes para que asuma el cargo.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2026)</small>
+
+b) Tratándose del Síndico y Regidores, se llamará al suplente respectivo. De no aceptar el cargo, se requerirá a cualquiera de los suplentes para que asuma el cargo.
 
 Al término del plazo de la licencia concedida, el concejal deberá integrarse de inmediato a su cargo. De no hacerlo, los integrantes del Ayuntamiento solicitarán la suspensión y revocación del mandato, de acuerdo a lo establecido por esta Ley.
 
@@ -2475,11 +2487,11 @@ Así como de los ingresos que se determinen en leyes, decretos federales y estat
 
 Las Leyes de Ingresos Municipales una vez aprobadas por el Congreso del Estado tendrán vigencia anual y regirán el ejercicio fiscal a partir del 1º de enero y hasta el 31 de diciembre del año que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 123.
 
-La iniciativa de la Ley de Ingresos Municipales y el Presupuesto de Egresos, se deberán elaborar por el Ayuntamiento con estricto apego a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a las disposiciones contenidas en las leyes y decretos fiscales federales, estatales y municipales que resulten aplicables y con base en los convenios respectivos. La iniciativa de Ley de Ingresos Municipales deberá aprobarse por la mayoría calificada en sesión de cabildo que será presidida por la Presidencia Municipal o quien la sustituya legalmente, con la presencia de la o las Sindicaturas y la Regiduría de Hacienda, para su presentación como iniciativa de Ley ante el Congreso del Estado a más tardar el último día del mes de noviembre de cada año en los términos establecidos en la fracción I, apartado D, del artículo 43 de esta Ley. La Comisión Permanente de Hacienda del Congreso del Estado emitirá los Lineamientos para su presentación. Cuando el resultado de la operación para determinar la mayoría calificada no sea un número entero se tomará en consideración el número entero superior inmediato que corresponda.
+La iniciativa de la Ley de Ingresos Municipales y el Presupuesto de Egresos, se deberán elaborar por el Ayuntamiento con estricto apego a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a las disposiciones contenidas en las leyes y decretos fiscales federales, estatales y municipales que resulten aplicables y con base en los convenios respectivos. La iniciativa de Ley de Ingresos Municipales deberá aprobarse por la mayoría calificada en sesión de cabildo que será presidida por la Presidencia Municipal o quien la sustituya legalmente, con la presencia de la Sindicatura y la Regiduría de Hacienda, para su presentación como iniciativa de Ley ante el Congreso del Estado a más tardar el último día del mes de noviembre de cada año en los términos establecidos en la fracción I, apartado D, del artículo 43 de esta Ley. La Comisión Permanente de Hacienda del Congreso del Estado emitirá los Lineamientos para su presentación. Cuando el resultado de operación para determinar la mayoría calificada no sea un número entero se tomará en consideración el número entero superior inmediato que corresponda.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
@@ -2493,9 +2505,11 @@ En caso de que la iniciativa de Ley de Ingresos municipales no se apruebe por la
 
 Si vencido el plazo a que se refiere el párrafo anterior, no se hubiere presentado por el Ayuntamiento y aprobado por el Congreso la iniciativa de ley de ingresos del municipio, se tendrá por extendida su vigencia por el resto del año.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 124.
 
-La inspección de la hacienda pública municipal, compete al Presidente Municipal, al Síndico o Síndicos y al Regidor de Hacienda, en los términos de esta Ley. Para la mejor supervisión del ejercicio de los recursos públicos, el Ayuntamiento podrá realizar funciones de contraloría preventiva.
+La inspección de la hacienda pública municipal, compete al Presidente Municipal, al Síndico y al Regidor de Hacienda, en los términos de esta Ley. Para la mejor supervisión del ejercicio de los recursos públicos, el Ayuntamiento podrá realizar funciones de contraloría preventiva.
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2023)</small>
 
@@ -3267,11 +3281,11 @@ Los servidores públicos municipales deberán presentar su declaración patrimon
 
 ### CAPÍTULO I. DEL COMITÉ INTERNO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 169.
 
-La administración saliente, noventa días naturales previos a la conclusión de su mandato, en Sesión Extraordinaria de Cabildo, constituirá un Comité Interno de Entrega-Recepción, formado por un integrante de cada área que constituya el municipio, encabezado por el Presidente Municipal en funciones, con la finalidad de realizar las acciones previas tendientes a facilitar la entrega recepción. En dicho Comité Interno de Entrega-Recepción, participarán por parte del Cabildo entrante el Presidente o Presidenta Municipal, el Síndico (os) y el Regidor de Hacienda. Los Ayuntamientos de municipios con población menor a cien mil habitantes podrán integrar el citado Comité Interno treinta días hábiles previos a la conclusión de su mandato.
+La administración saliente, noventa días naturales previos a la conclusión de su mandato, en Sesión Extraordinaria de Cabildo, constituirá un Comité Interno de Entrega-Recepción, formado por un integrante de cada área que constituya el Municipio, encabezado por el Presidente Municipal en funciones, con la finalidad de realizar las acciones previas tendientes a facilitar la Entrega-Recepción. En dicho Comité Interno de Entrega-Recepción, participarán por parte del cabildo entrante el Presidente o Presidenta Municipal, el Síndico, el regidor de Hacienda y el personal que la primera persona designe. Los Ayuntamientos de Municipios con población menor a cien mil habitantes podrán integrar el citado Comité Interno treinta días hábiles previos a la conclusión de su mandato
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2025)</small>
 
@@ -5092,3 +5106,13 @@ P.O. 21 DE MARZO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 21 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1553.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 30; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 32, EL PÁRRAFO PRIMERO DEL ARTÍCULO 34; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 56; LA FRACCIÓN VIII DEL ARTÍCULO 68; EL PÁRRAFO PRIMERO Y LA FRACCIÓN II DEL ARTÍCULO 71; EL PÁRRAFO PRIMERO DEL ARTÍCULO 73; EL INCISO B) DE LA FRACCIÓN II Y EL INCISO B) DE LA FRACCIÓN III DEL ARTÍCULO 83; EL PÁRRAFO PRIMERO DEL ARTÍCULO 123; EL PÁRRAFO PRIMERO DEL ARTÍCULO 124 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 169, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. La integración de los Ayuntamientos establecidos respecto al número de Sindicaturas surtirá efectos a partir del periodo administrativo municipal subsecuente. Los Ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con un número de regidurías menor a 15, continuarán con su integración actual. Solo en los casos que se requiera alguna modificación de la integración por criterios de variación poblacional u otros requisitos, se realizará conforme a lo establecido en la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
