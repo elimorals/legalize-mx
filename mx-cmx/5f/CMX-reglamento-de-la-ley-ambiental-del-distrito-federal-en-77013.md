@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-ambiental-del-distrito-federal-en-77013"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-22"
-last_updated: "2010-10-22"
+last_updated: "2026-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77013&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2010-10-19"
 ---
 # REGLAMENTO DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL EN MATERIA DE AUTORREGULACION Y AUDITORIAS AMBIENTALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO EN MATERIA DE AUTORREGULACIÓN, AUDITORÍAS AMBIENTALES Y CERTIFICACIÓN DE EDIFICACIONES SUSTENTABLES, PUBLICADO EN LA G.O. DE 21 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL EN MATERIA DE AUTORREGULACION Y AUDITORIAS AMBIENTALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE MAYO DE 2026 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 22 de octubre de 2010.
 
@@ -839,3 +841,33 @@ Séptimo.- Los Certificados otorgados a los establecimientos auditados con anter
 Octavo.- Todos los lineamientos a los que hace referencia el presente Reglamento, serán emitidos por la Secretaría en un plazo máximo de ciento ochenta días naturales contados a partir de la publicación del mismo.
 
 Dado en la residencia oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los diecinueve días del mes de octubre de dos mil diez.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 21 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO EN MATERIA DE AUTORREGULACIÓN, AUDITORÍAS AMBIENTALES Y CERTIFICACIÓN DE EDIFICACIONES SUSTENTABLES”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se abroga el Reglamento de la Ley Ambiental del Distrito Federal en Materia de Autorregulación y Auditorías Ambientales, publicado en la Gaceta Oficial del Distrito Federal, ahora Ciudad de México, el veintidós de octubre de dos mil diez.
+
+CUARTO.- Mientras se instrumenta el sistema de autorización y registro de Auditores Ambientales especialistas o responsables, en materia de auditoría ambiental, las facultades de auditoría continuarán siendo ejercidas por los auditores acreditados conforme a las normas jurídicamente vigentes en el momento de su acreditación, en tanto éstos se autorizan y acreditan en los términos del presente Reglamento.
+
+QUINTO.- Una vez que se constituya el padrón al que se hace referencia en el Transitorio anterior, se publicará en la Gaceta Oficial de la Ciudad de México y estará disponible en la página de internet de la Secretaría.
+
+SEXTO.- Los procedimientos de Auditoría Ambiental, Autorregulación y de Edificaciones Sustentables, que se encuentren en proceso de evaluación al momento de la entrada en vigor del presente Reglamento, se sujetarán a las condiciones y términos que se encontraban vigentes al momento de su inscripción hasta su total conclusión.
+
+SÉPTIMO.- Los certificados de Auditoría Ambiental, Autorregulación y de Edificaciones Sustentables, otorgados con anterioridad a la entrada en vigor del presente Reglamento, continuarán vigentes en los términos en que fueron otorgados, sin embargo, su seguimiento, así como las revalidaciones de dichos certificados estarán sujetas a lo dispuesto por este ordenamiento.
+
+OCTAVO.- Los registros y renovaciones al Padrón de Implementadores del PCES otorgados con anterioridad a la entrada en vigor del presente Reglamento, continuarán vigentes en los términos en que fueron otorgados, sin embargo, su seguimiento, así como las renovaciones de dichas autorizaciones estarán sujetas a lo dispuesto por este ordenamiento.
+
+NOVENO.- La Secretaría publicará en la Gaceta Oficial de la Ciudad de México los Programas y los Lineamientos a los que se sujetarán las certificaciones aludidas en el presente Reglamento.
+
+DÉCIMO.- La Secretaría publicará en la Gaceta Oficial de la Ciudad de México los criterios de evaluación a los que se sujetarán la evaluación de los Reportes de Auditoría Ambiental, en relación a las materias que serán evaluadas dentro del programa de Auditoría Ambiental Voluntaria u Obligatoria.
+
+DÉCIMO PRIMERO.- La Secretaría publicará en la Gaceta Oficial de la Ciudad de México los criterios del PCES, relativos a las acciones de sustentabilidad y materias de evaluación que se sujetarán los sujetarán (sic) los informes del PCES.
+
+DÉCIMO SEGUNDO.- Todos los lineamientos, programas y criterios a los que hace referencia el presente Reglamento, serán emitidos y actualizados de ser necesario por la Secretaría.
