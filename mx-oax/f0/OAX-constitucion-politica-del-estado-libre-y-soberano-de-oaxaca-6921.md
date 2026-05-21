@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2026-03-21"
+last_updated: "2026-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2026.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1505,9 +1505,9 @@ El Poder Legislativo se ejerce por el Congreso del Estado, y estará integrado p
 
 El Poder Legislativo administrará con autonomía y austeridad su presupuesto, atendiendo la obligatoriedad de la rendición de cuentas y los principios establecidos en el artículo 137 de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2026)</small>
 
-El Congreso elaborará su propio proyecto de presupuesto en los términos de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria.
+El Congreso elaborará su propio proyecto de presupuesto en los términos de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, el cual no excederá del cero punto setenta por ciento del presupuesto de egresos del Estado.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -3517,9 +3517,9 @@ Los Municipios se erigirán y suprimirán de conformidad con las disposiciones c
 
 Los Municipios tienen personalidad jurídica propia y constituyen un nivel de gobierno.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2026)</small>
 
-I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una Presidenta o Presidente Municipal y el número de regidurías y sindicaturas que la ley determine, garantizándose la paridad y alternancia entre mujeres y hombres, conforme a la ley reglamentaria.
+I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una persona Presidenta Municipal, una persona Síndica Municipal y el número de regidurías que la ley determine, garantizándose la paridad y alternancia entre mujeres y hombres, conforme a la ley reglamentaria.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -4417,13 +4417,13 @@ I.- Se considera remuneración o retribución toda percepción en efectivo o en 
 
 II.- Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado o Presidente Municipal en el presupuesto público estatal o municipal que corresponda.
 
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2026)</small>
 
-Lo dispuesto en el párrafo anterior es aplicable a todos los poderes del Estado, sus órganos autónomos constitucionales o por ley, las dependencias, entidades, fideicomisos y demás ejecutores del gasto público estatal, así como a las dependencias, entidades y demás ejecutores del gasto público municipal, en su caso.
+Lo dispuesto en el párrafo anterior es aplicable a todos los poderes del Estado, sus órganos autónomos constitucionales o por ley, las dependencias, entidades, fideicomisos y demás ejecutores del gasto público estatal, así como a las dependencias, entidades y demás ejecutores del gasto público municipal, sujetándose a los principios, bases y límites previstos en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-III .- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico autorizado en el presupuesto público, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos en los términos del artículo 136 de esta Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función , la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado o Presidente Municipal en el presupuesto correspondiente.
+III .- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico autorizado en el presupuesto público, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos en los términos del artículo 136 de esta Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado o Presidente Municipal en el presupuesto correspondiente.
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
@@ -7052,3 +7052,21 @@ P.O. 21 DE MARZO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1551.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 31, EL PÁRRAFO PRIMERO DE LA FRACCIÓN I DEL ARTÍCULO 113, Y EL PÁRRAFO SEGUNDO DE LA BASE II DEL ARTÍCULO 138 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación.
+
+TERCERO. El Congreso del Estado preverá los ajustes necesarios en el presupuesto que elabore, a partir del inicio de la legislatura subsecuente.
+
+CUARTO. La integración de los ayuntamientos establecidos respecto al número de Sindicaturas surtirá efectos a partir del periodo administrativo Municipal subsecuente.
+
+Los ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con un número de regidurías menor a quince, conservarán su integración actual. Solo en los casos que se requiera alguna modificación de la integración por criterios de variación poblacional u otros requisitos, se realizará conforme a lo establecido en la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
+
+QUINTO. Los recursos públicos que resulten como economías o ahorros en el presupuesto anual derivados de las reducciones en la integración de ayuntamientos que en su caso se realicen, se destinaran a obras de infraestructura pública en beneficio de la población dentro del presupuesto correspondiente, en los términos de la legislación aplicable, garantizando en todo momento los principios de legalidad, honradez, transparencia y Austeridad.
+
+SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
