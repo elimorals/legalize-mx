@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2026-01-03"
+last_updated: "2026-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2026.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -563,9 +563,13 @@ Artículo 24
 
 I.- Una Presidencia Municipal, su titular será la candidata o el candidato que ocupe el primer lugar de la planilla registrada ante el Instituto Estatal, quien representará al ayuntamiento en el orden político y lo dirigirá en lo administrativo;
 
-II.- Una Sindicatura, si el municipio tiene veinte mil habitantes o menos y dos si se tiene más de este número. La o las sindicaturas corresponderán a quien ocupe el segundo lugar cuando sea electa una persona para ocupar la sindicatura, o segundo y tercer lugar, cuando sean electas dos sindicaturas, según sea el caso de la planilla registrada ante el Instituto Estatal. La o las personas titulares de las Sindicaturas tendrán la representación legal del ayuntamiento;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2026)</small>
 
-III.- En los municipios que tengan de cien mil a trescientos mil habitantes, el ayuntamiento se integrará hasta con once concejales electas o electos por el principio de mayoría relativa y hasta cinco regidurías electas por el principio de representación proporcional. Si los municipios se exceden de esa última cantidad, los ayuntamientos se integrarán hasta con quince integrantes del ayuntamiento electos por el principio de mayoría relativa y hasta siete regidurías electas por el principio de representación proporcional;
+II.- Una Sindicatura, independientemente del número de habitantes; la Sindicatura corresponderá a quien ocupe el segundo lugar según sea el caso de la planilla registrada ante el Instituto Estatal. La persona titular de la Sindicatura tendrá la representación legal del ayuntamiento;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2026)</small>
+
+III. En los municipios que tengan cien mil habitantes o más, el ayuntamiento se integrará hasta con once concejales electas o electos por el principio de mayoría relativa y hasta cuatro regidurías electas por el principio de representación proporcional;
 
 IV.- En los municipios que tengan de cincuenta mil y menos de cien mil habitantes, el ayuntamiento se integrará hasta con nueve concejalías electas por el principio de mayoría relativa, y hasta cuatro regidurías electas por el principio de representación proporcional;
 
@@ -855,7 +859,9 @@ Artículo 36
 
 3.- Concluido su encargo, los consejeros electorales no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales, en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-4.- Las retribuciones que perciban el Consejero Presidente, los consejeros electorales y el Secretario Ejecutivo, estarán previstas en el Presupuesto de Egresos del Estado; por ningún motivo se incrementarán sus emolumentos durante el ejercicio fiscal respectivo.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2026)</small>
+
+4.- Las retribuciones que perciban el Consejero Presidente, los consejeros electorales y el Secretario Ejecutivo, estarán previstas en el Presupuesto de Egresos del Estado, por ningún motivo se incrementarán sus emolumentos durante el ejercicio fiscal respectivo. Los servidores Públicos a que se refiere este numeral observarán el estricto cumplimiento del párrafo cuarto del artículo 134 de la Constitución Federal.
 
 5.- La retribución que reciban el Consejero Presidente y los consejeros electorales se ajustará a lo establecido en el artículo 114 Ter de la Constitución Local.
 
@@ -6398,3 +6404,15 @@ P.O. 3 DE ENERO DE 2026.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 21 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1552.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II Y III DEL NUMERAL 1 DEL ARTÍCULO 24, Y EL NUMERAL 4 DEL ARTÍCULO 36, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA; REFORMA EL ARTÍCULO 30 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca, salvo lo previsto en el artículo transitorio tercero.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Honorable Congreso del Estado.
+
+TERCERO. Las reformas relativas a la integración de los ayuntamientos contenidas en el artículo 24, numeral 1, fracciones II y III, de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca surtirán efectos a partir del periodo administrativo municipal subsecuente, en términos del régimen transitorio de la reforma constitucional federal aplicable. Los ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con un número menor de regidurías conservarán su integración actual hasta la conclusión del periodo para el que fueron electos, sin perjuicio de los ajustes que legalmente correspondan en procesos electorales posteriores.
+
+CUARTO. El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y el Tribunal Electoral del Estado de Oaxaca contarán con un plazo de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas, administrativas y presupuestarias necesarias para el cumplimiento de sus disposiciones.
