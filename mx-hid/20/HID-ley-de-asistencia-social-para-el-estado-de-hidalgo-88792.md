@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2026-04-13"
+last_updated: "2026-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -205,9 +205,9 @@ XLI. Titular del Organismo.- Persona titular del Sistema para el Desarrollo Inte
 
 XLII. Trastorno de la conducta alimentaria.- Los trastornos de conducta alimentaria y de ingesta de alimentos se caracterizan por una alteración persistente en la alimentación o en el comportamiento relacionado con la alimentación que lleva a una alteración en el consumo o en la absorción de los alimentos y causa deterioro significativo de la salud física o del funcionamiento;
 
-XLIII. Trata de personas.- La captación, transporte, traslado, acogida o la recepción de personas, recurriendo a la amenaza o al uso de la fuerza u otras formas de coacción, al rapto, fraude, engaño, abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra, con fines de explotación.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2026)</small>
 
-Dicha explotación incluirá como mínimo, la explotación de la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o las prácticas análogas a la esclavitud, la servidumbre o la extracción de órganos;
+XLIII. Trata de personas.- La captación, enganche, transporte, traslado, retención, entrega, acogida, alojamiento o la recepción de una o varias personas con fines de explotación, recurriendo a la amenaza o al uso de la fuerza u otras formas de coacción, al rapto, fraude, engaño, abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra, con fines de explotación.
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
 
@@ -573,7 +573,9 @@ I. El Gobernador del Estado;
 
 II. El Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo;
 
-III. La Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2026)</small>
+
+III. La Secretaría de Bienestar e Inclusión Social;
 
 IV. La Secretaría de Salud;
 
@@ -581,11 +583,13 @@ V. La Secretaría de Educación Pública;
 
 VI. La Secretaría de Gobierno;
 
-VII. La Secretaría Ejecutiva de la Política Pública Estatal;
+VII. (DEROGADA, P.O. 21 DE MAYO DE 2026)
 
 VIII. La Unidad de Planeación y Prospectiva;
 
-IX. La Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2026)</small>
+
+IX. La Secretaría de Agricultura y Desarrollo Rural;
 
 X. La Procuraduría General de Justicia;
 
@@ -1696,3 +1700,9 @@ TERCERO. Dentro del término de sesenta días naturales contados a partir de la 
 Dentro del mismo plazo señalado en el párrafo anterior, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo deberá crear e instalar un Comité Técnico para el acompañamiento y seguimiento a la implementación de las Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, conformado al menos por el Sistema Estatal de Desarrollo Integral de la Familia, los Sistemas DIF Municipales, así como las dependencias y entidades de la Administración Pública Estatal y Municipal que se consideren pertinentes.
 
 CUARTO. En un plazo que no exceda de ciento ochenta días naturales contados a partir de la publicación de los lineamientos a que se hace referencia en el artículo tercero transitorio de este Decreto, los municipios deberán realizar los ajustes jurídicos, administrativos, operativos y presupuestales para que las Unidades de Primer Contacto transiten a Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, conforme a lo aprobado en el presente Decreto.
+
+P.O. 21 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 636 – LXVI POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE ACTUALIZACIÓN DE CONCEPTOS Y DENOMINACIÓN DE DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
