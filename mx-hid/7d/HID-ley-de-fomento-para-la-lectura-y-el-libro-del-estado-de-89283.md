@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-de-89283"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2024-09-17"
+last_updated: "2026-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -179,13 +179,17 @@ a) Que la obra o sus copias sean necesarias para el adelanto de la ciencia, la t
 
 b) Que no exista una obra sucedánea para el adelanto de la rama de la ciencia, la tecnología, la cultura o la educación estatales de que se trate;
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2026)</small>
 
-XVI.- Catálogo de libros de interés patrimonial para (sic) Estado de Hidalgo: Es el registro de los libros considerados de interés patrimonial, según se define en el inciso anterior, que debe expedir la Dirección de Bibliotecas y Documentación de Hidalgo; y
+XVI.- Catálogo de libros de interés patrimonial para (sic) Estado de Hidalgo: Es el registro de los libros considerados de interés patrimonial, según se define en el inciso anterior, que debe expedir la Dirección de Bibliotecas y Documentación de Hidalgo;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2026)</small>
 
-XVII.- Depósito legal: Es una obligación para editores y productores de materiales bibliográficos y documentales que les exige depositar en el Fondo Estado de Hidalgo de la Biblioteca Central del Estado de Hidalgo, Ricardo Garibay, tres ejemplares de las publicaciones de todo tipo que hayan sido reproducidas en cualquier soporte a través de cualquier procedimiento para distribución pública.
+XVII.- Depósito legal: Es una obligación para editores y productores de materiales bibliográficos y documentales que les exige depositar en el Fondo Estado de Hidalgo de la Biblioteca Central del Estado de Hidalgo, Ricardo Garibay, tres ejemplares de las publicaciones de todo tipo que hayan sido reproducidas en cualquier soporte a través de cualquier procedimiento para distribución pública; y
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2026)</small>
+
+XVIII.- Perspectiva de género: Categoría científica, analítica y política que revisa las relaciones, construcciones y significados sociales entre mujeres y hombres, a partir de las diferencias biológicas, eliminando la opresión de género que se base en la desigualdad y discriminación. Este enfoque busca resignificar contenidos y estructuras tradicionales, con el propósito de establecer metodologías y mecanismos orientados a construir una sociedad más equitativa, basada en la igualdad de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
@@ -305,7 +309,9 @@ III.- Establecer un sistema de estímulos para los docentes de todos los niveles
 
 IV.- Garantizará la presencia permanente del libro, y de las obras inscritas en el catálogo de libros de interés patrimonial para el Estado de Hidalgo, en la escuela y en el aula por medio de la biblioteca escolar.
 
-V.- Realizar, fortalecer y evaluar los talleres literarios y métodos que faciliten la comprensión en la lectura;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2026)</small>
+
+V.- Realizar, fortalecer y evaluar actividades que promuevan el hábito lector con perspectiva de género, tales como talleres, círculos de lectura, encuentros con personas escritoras y acciones afines en las instituciones del sistema educativo estatal, la red estatal de bibliotecas públicas y demás espacios públicos destinados a la promoción de la lectura, procurando la implementación y mejora continua de los métodos y estrategias que faciliten la comprensión lectora.
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
@@ -778,3 +784,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1086 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 8 DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 635 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO PARA LA LECTURA DEL LIBRO DEL ESTADO DE HIDALGO, EN MATERIA DE LECTURA CON PERSPECTIVA DE GÉNERO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
