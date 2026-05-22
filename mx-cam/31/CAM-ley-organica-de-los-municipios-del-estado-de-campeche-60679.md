@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2025-08-12"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -1088,6 +1088,12 @@ VIII. Prestar a la autoridad electoral el auxilio que esta requiera conforme a l
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2022)</small>
 
 IX. Ejercer la función de seguridad pública en el territorio municipal y organizar y sostener a la corporación de policía preventiva municipal, así como las de bomberos, y de protección civil municipales, y cuerpo municipal de policía de tránsito;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+IX bis. Establecer un Consejo de Participación Ciudadana para la Seguridad, como órgano colegiado de carácter consultivo, integrado conforme a la reglamentación municipal respectiva, con participación de representantes vecinales, autoridades municipales competentes y miembros de redes comunitarias, con el objeto de promover la colaboración ciudadana en la formulación, seguimiento y evaluación de estrategias locales de seguridad y proximidad social.
+
+Para el cumplimiento de su objeto, el Consejo podrá promover mecanismos de acercamiento comunitario y participación vecinal, orientados a recabar opiniones, inquietudes y propuestas de mejora por parte de la población. El funcionamiento del Consejo se regirá por los principios de buena administración, buen gobierno, gobierno abierto, integridad pública, atención ciudadana y participación social, garantizando en todo momento el respeto irrestricto a los derechos humanos;
 
 X. Designar al Director de Seguridad Pública Municipal;
 
@@ -2411,9 +2417,37 @@ Las autoridades municipales en materia de seguridad pública deberán establecer
 
 El Ayuntamiento procurará que los centros de población mayores a quinientos habitantes cuenten con vigilancia de la policía preventiva municipal.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MAYO DE 2026)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEXTO. “DE LOS SISTEMAS MUNICIPALES DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES”
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+ARTÍCULO 185 BIS.- Con la finalidad de dar seguimiento a las políticas públicas, programas, acciones y mecanismos institucionales, así como a los estudios e investigaciones realizadas para fortalecer la defensa y protección de niñas, niños y adolescentes, cada municipio deberá instalar un Sistema Municipal de Protección Integral de Niñas, Niños y Adolescentes, que será presidido por la o el Presidente Municipal y estará integrado por las instancias y organismos municipales vinculados con la protección de los derechos de la niñez y adolescencia, y tendrá por objeto:
+
+I. La protección integral de los derechos de niñas, niños y adolescentes;
+
+II. Garantizar la participación directa, libre, efectiva e inclusiva de niñas, niños y adolescentes en los procesos de elaboración, seguimiento y evaluación de programas y políticas municipales para la protección integral de sus derechos; y
+
+III. Contar con un programa de atención y con personas servidoras públicas capacitadas en protección de derechos de niñas, niños y adolescentes que fungirán como autoridad de primer contacto con niñas, niños y adolescentes, y que serán el enlace con las instancias estatales y federales competentes, a quienes corresponderá coordinar a las personas servidoras públicas municipales cuando, en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos, a efecto de que se dé vista a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes de forma inmediata, y contará con las atribuciones previstas en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Campeche.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+ARTÍCULO 185 TER.- El Sistema Municipal de Protección Integral de Niñas, Niños y Adolescentes contará con una Secretaría Ejecutiva. La persona titular de la Secretaría Ejecutiva será libremente designada y removida por la o el Presidente Municipal y deberá contar con experiencia profesional probada en la defensa o promoción de los derechos de niñas, niños y adolescentes, así como en el trabajo con diversos grupos de población y/o conocimiento en materia de derechos humanos o materias afines.
+
+Todas las personas servidoras públicas municipales que integren el Sistema Municipal de Protección Integral deberán recibir capacitación obligatoria, continua y especializada, en el ámbito de sus respectivas competencias, de manera coordinada y conforme con la disponibilidad presupuestal, así como a los mecanismos y programas que, en su caso, implementen las instancias estatales y municipales.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+ARTÍCULO 185 QUATER.- Los Sistemas Municipales de Protección Integral de Niñas, Niños y Adolescentes tendrán las atribuciones que establece el artículo 126 Bis de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Campeche.
+
+Los Sistemas Municipales de Protección Integral de Niñas, Niños y Adolescentes, por conducto de las Secretarías Ejecutivas, deberán diseñar e implementar sus Reglamentos correspondientes, de acuerdo con el funcionamiento de cada municipio.
+
+Los Ayuntamientos deberán prever progresivamente, conforme a su suficiencia presupuestal, recursos para el funcionamiento y operación del Sistema Municipal de Protección Integral de Niñas, Niños y Adolescentes.
+
+El Sistema Municipal de Protección Integral, por conducto de su Secretaría Ejecutiva, deberá rendir un informe anual público sobre las acciones realizadas, avances, retos y resultados obtenidos, el cual será presentado ante el Cabildo y remitido al Sistema Estatal de Protección Integral.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ## TÍTULO SÉPTIMO. DEL BANDO MUNICIPAL Y DE LOS REGLAMENTOS Y LA GACETA MUNICIPAL
 
@@ -2532,6 +2566,8 @@ Todos aquellos acuerdos y demás disposiciones de carácter administrativo no co
 En la Gaceta Municipal deberá publicarse además, para el conocimiento de los habitantes los planes y programas municipales, toda aquella información u ordenanza que requiera hacerse de conocimiento general por las autoridades municipales, así como reproducirse la información contenida en la página de internet en el apartado de transparencia del municipio correspondiente, en lo relativo a sus ingresos y egresos.
 
 ## TÍTULO OCTAVO. DE LAS SANCIONES Y DEL PROCEDIMIENTO ADMINISTRATIVO
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 189.
 
@@ -2770,3 +2806,21 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los HH. Ayuntamientos del Estado de Campeche, deberán emitir en un plazo no mayor a 60 días naturales, las disposiciones administrativas necesarias para la expedición de la normatividad o lineamientos que establezcan los mecanismos, acciones y demás metodología de inspección y reporte relacionados con la seguridad infantil en espacios públicos.
 
 TERCERO.- Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 229 POR EL QUE “SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 103 DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Honorables Ayuntamientos del Estado de Campeche, en un plazo de 90 días hábiles, contados a partir de la publicación del presente decreto, deberán realizar las adecuaciones reglamentarias y administrativas necesarias para la instalación, integración y funcionamiento del Consejo de Participación Ciudadana para la Seguridad previsto en el presente Decreto.
+
+TERCERO.- Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido en el presente decreto.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 231 POR EL QUE "SE ADICIONA UN CAPÍTULO SEXTO DENOMINADO “DE LOS SISTEMAS MUNICIPALES DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES” CON LOS ARTÍCULOS 185 BIS, 185 TER Y 185 QUATER AL TÍTULO SEXTO DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
