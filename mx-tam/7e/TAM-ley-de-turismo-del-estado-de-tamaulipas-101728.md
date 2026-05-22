@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2026-05-05"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE MAYO DE 2026.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -299,11 +297,17 @@ XXXVI. La Secretaría impulsará la competitividad turística de Tamaulipas a tr
 
 XXXVII. La Secretaría definirá y clasificará en el Reglamento de esta Ley, los distintos tipos de actividad turística que se efectúan en el Estado, las condiciones particulares para su ejecución y demás elementos necesarios para su fomento y promoción;
 
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XXXVIII. Celebrar y suscribir, convenios con las y los prestadores de servicios de hospedaje y la industria hotelera en los municipios de la entidad, a fin de generar y garantizar espacios de alojamiento seguros y libres de violencia para niñas, niños y adolescentes, en observancia del principio del interés superior de la niñez y su desarrollo integral. Para tal efecto, podrán implementarse distintivos de espacios seguros como mecanismos de supervisión y acreditación de los establecimientos, así como los protocolos de actuación correspondientes.
+
+Lo anterior deberá implementarse en congruencia con las medidas de seguridad previstas en el artículo 72 Quater de la presente Ley, promoviendo mecanismos de prevención, supervisión y colaboración con autoridades competentes para la protección de este grupo vulnerable;
+
 > <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2022)</small>
 
-XXXVIII. Coordinarse con la Secretaría de Salud, con el objetivo de establecer programas, políticas públicas y medidas sanitarias, que permitan que la prestación de los servicios turísticos se otorgue en un entorno saludable y seguro para las y los turistas; y
+XXXIX. Coordinarse con la Secretaría de Salud, con el objetivo de establecer programas, políticas públicas y medidas sanitarias, que permitan que la prestación de los servicios turísticos se otorgue en un entorno saludable y seguro para las y los turistas; y
 
-XXXIX. Las demás que se prevean en este y otros cuerpos normativos.
+XL. Las demás que se prevean en este y otros cuerpos normativos.
 
 ### CAPÍTULO II. DE LOS MUNICIPIOS
 
@@ -1579,13 +1583,13 @@ La Secretaría de Turismo y la Secretaría de Finanzas deberán coordinarse para
 
 Los cabildos municipales contarán con un plazo máximo de treinta días naturales contados a partir de la entrada en vigor del presente Decreto, para integrar e instalar la Comisión de Turismo.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 476.- POR EL QUE "SE ADICIONA LA FRACCIÓN X AL APARTADO A DEL ARTÍCULO 113 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+P.O. 22 DE MAYO DE 2026.
 
-###### ARTÍCULO ÚNICO
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1058 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, Y LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS".]
 
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+###### ARTÍCULO ÚNICO.
 
-P.O. 23 DE ENERO DE 2023.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 526.- SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 74 Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 46 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
 
