@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-491-de-bienestar-animal-del-estado-de-guerrero-10628
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-26"
-last_updated: "2025-08-26"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el viernes 26 de diciembre de 2014.
 
@@ -123,7 +123,9 @@ VI. Animal doméstico: El animal que ha sido reproducido y criado bajo el contro
 
 VII. Animal feral: El animal doméstico al quedar fuera del control del hombre, se establece en el hábitat natural de la vida silvestre, así como sus descendientes nacidos en este hábitat;
 
-VIII. Animal guía: Los animales que son utilizados o adiestrados con el fin de apoyar a las personas con capacidades diferentes, y que por su entrenamiento pueden llegar a suplir alguno de los sentidos o funciones de dichas personas;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+VIII. Animal guía: Los animales que son utilizados o adiestrados con el fin de apoyar a las personas con discapacidad, y que por su entrenamiento pueden llegar a suplir alguno de los sentidos o funciones de dichas personas;
 
 IX. Animal para abasto y producción: Animales cuyo destino final es el sacrificio para el consumo de su carne o derivados;
 
@@ -1714,3 +1716,13 @@ PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicaci�
 SEGUNDO. Remítase el presente Decreto al Poder Ejecutivo del Estado para su conocimiento y efectos legales procedentes.
 
 TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, Portal Web de la Sexagésima Cuarta Legislatura del Honorable Congreso del Estado Libre y Soberano de Guerrero, redes sociales de los referidos y a través de los medios de comunicación para su difusión.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 529 POR EL QUE SE REFORMA EL ARTÍCULO 4 FRACCIÓN VIII DE LA LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto al Poder Ejecutivo del Estado para su conocimiento y efectos legales procedentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero y medios de comunicación del Honorable Congreso del Estado.
