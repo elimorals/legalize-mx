@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2026-03-31"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -389,9 +389,9 @@ II. Coherencia y racionalidad: adoptar perspectivas que promuevan el ordenamient
 
 III. Competitividad y eficiencia de las ciudades: alcanzar, sostener y mejorar una determinada posición en el entorno socioeconómico; así los retos sociales están en una mayor equidad, los retos económicos con una mejora en la competitividad de la ciudad y la región, y los retos ambientales con la sustentabilidad integral;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-IV. Derecho a la ciudad: asegura que a toda persona se le garantice el goce y disfrute de los derechos humanos en los contextos urbanos, a todos los habitantes y centros de población, entre los que se encuentran el acceso a la vivienda, infraestructura, equipamiento y servicios básicos para su plena realización política, económica, social, cultural y ecología, así como participación social en los asuntos de la ciudad a partir de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales suscritos por México en la materia y, así como de los principios enunciados en esta Ley;
+IV. Derecho a la ciudad: asegura que a toda persona que se le garantice el goce y disfrute de los derechos humanos en los contextos urbanos, a todos los habitantes y centros de población, entre los que se encuentran el acceso a la vivienda adecuada, infraestructura, equipamiento y servicios básicos para su plena realización política, economía, social cultural y ecológica, así como participación social en los asuntos de la ciudad a partir de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales suscritos por México en la materia y (sic), así como los principios enunciados en esta Ley;
 
 V. Derecho a la propiedad urbana: garantizar los derechos de propiedad inmobiliaria con la intención de que los propietarios tengan protegidos sus derechos, pero también asuman responsabilidades específicas con el Estado y con la sociedad, respetando los derechos y límites previstos en la Constitución Política de los Estados Unidos Mexicanos, la Ley General y esta Ley. El interés público prevalecerá en la ocupación y aprovechamiento del territorio;
 
@@ -399,11 +399,13 @@ VI. Desarrollo local: promover el proceso de crecimiento económico y cambio est
 
 VII. Equidad e inclusión: garantizar el ejercicio pleno de derechos en condiciones de igualdad, promoviendo la cohesión social a través de medidas que impidan la discriminación, segregación o marginación de individuos o grupos. Promover el respeto de los derechos de los grupos vulnerables, la perspectiva de género y que todos los habitantes puedan decidir entre una oferta diversa de suelo, viviendas, servicios, equipamientos, infraestructura y actividades económicas de acuerdo a sus preferencias, necesidades y capacidades;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-VIII. Equidad e inclusión: garantizar el ejercicio pleno de derechos en condiciones de igualdad, promoviendo la cohesión social a través de medidas que impidan la discriminación, segregación o marginación de individuos o grupos. Promover el respeto de los derechos de los grupos de atención prioritaria, la perspectiva de género y que todos los habitantes puedan decidir entre una oferta diversa de suelo, viviendas, servicios, equipamientos, infraestructura y actividades económicas de acuerdo a sus preferencias, necesidades y capacidades;
+VIII. Equidad e inclusión: garantizar el ejercicio pleno de derechos en condiciones de igualdad, promoviendo la cohesión social a través de medidas que impidan la discriminación, segregación o marginación de individuos o grupos. Promover el respeto de los derechos de los grupos de atención prioritaria, la perspectiva de género y que todos los habitantes puedan decidir entre una oferta diversa de suelo, viviendas adecuadas, servicios, equipamientos, infraestructura y actividades económicas de acuerdo con sus preferencias, necesidades y capacidades;
 
-IX. Participación democrática y transparencia: proteger el derecho de todas las personas a participar en la formulación, seguimiento y evaluación de las políticas y programas que determinan el desarrollo de las ciudades y el territorio. Para lograrlo se garantizará la transparencia y el acceso a la información pública de conformidad con lo dispuesto en la presente Ley y demás legislación aplicable en la materia;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+IX. Habitabilidad urbana: asegurar las condiciones de vida digna en los asentamientos humanos y en la vivienda adecuada para toda la población, y propiciar oportunidades para el desarrollo de sus habitantes;
 
 X. Preservación del patrimonio cultural y natural: la conservación y protección de los sitios, áreas y monumentos con valor cultural, histórico, arqueológico, paleontológico y natural;
 
@@ -539,7 +541,9 @@ IV. Proveer lo necesario para la exacta observancia de la planeación urbana en 
 
 V. Garantizar la participación a la ciudadanía en los procesos de planeación, seguimiento y evaluación a que se refiere esta Ley;
 
-VI. Promover el cumplimiento y la efectiva protección de los derechos humanos relacionados con el Ordenamiento Territorial de los Asentamientos Humanos, el Desarrollo Urbano y la vivienda;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+VI. Promover el cumplimiento y la efectiva protección de los derechos humanos relacionados con el Ordenamiento Territorial de los Asentamientos Humanos, el Desarrollo Urbano y la vivienda adecuada;
 
 VII. Aplicar y ajustar sus procesos de planeación con la estrategia nacional de ordenamiento territorial;
 
@@ -2125,7 +2129,9 @@ Las autoridades públicas encargadas de la ejecución de los programas referidos
 
 Los programas municipales de Ordenamiento Territorial y Desarrollo Urbano señalarán las acciones específicas necesarias para el impulso, control, consolidación y arraigo de los Centros de Población, asimismo establecerán la zonificación correspondiente.
 
-Igualmente deberán especificar los mecanismos que permitan la instrumentación de sus principales proyectos, tales como constitución de reservas territoriales, creación de infraestructura, equipamiento, servicios, suelo servido, vivienda, espacios públicos, entre otros.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+Igualmente deberán especificar los mecanismos que permitan la instrumentación de sus principales proyectos, tales como constitución de reservas territoriales, creación de infraestructura, equipamiento, servicios, suelo servido, vivienda adecuada, espacios públicos, entre otros.
 
 En caso de que el ayuntamiento expida el Programa de Desarrollo Urbano del centro de población respectivo, dichas acciones específicas y la Zonificación aplicable se contendrán en este programa.
 
@@ -2203,7 +2209,9 @@ a. El medio físico y los recursos naturales del territorio.
 
 b. Los usos de suelo y la tenencia de la tierra, considerando el valor ambiental.
 
-c. La infraestructura, vivienda, vialidad, transporte, equipamiento y servicios urbanos.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+c. La infraestructura, vivienda adecuada, vialidad, transporte, equipamiento y servicios urbanos.
 
 d. La vulnerabilidad y riesgo a la que estén sujetas las diferentes zonas y sectores del centro de población.
 
@@ -3603,9 +3611,11 @@ En cualquier recinto en que se presenten espectáculos públicos, los administra
 
 Se declaran de utilidad pública e interés social, las acciones, obras e inversiones, que ejecuten los gobiernos estatal y municipales, a efecto de adquirir reservas territoriales que satisfagan las necesidades de suelo urbano para la fundación, conservación, mejoramiento y crecimiento de los centros de población, así como para dar solución al problema de los asentamientos humanos irregulares, seguridad jurídica en la tenencia y protección del patrimonio familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 191.
 
-La ejecución de acciones para la obtención de reservas de suelo para desarrollo urbano y la vivienda y para la regularización de la tenencia de la tierra, deberá atender problemas conexos, como la falta o insuficiencia de infraestructura, equipamiento y servicios públicos y establecer un mayor control catastral y registral de las propiedades.
+La ejecución de acciones para la obtención de reservas de suelo para desarrollo urbano y la vivienda adecuada y para la regularización de la tenencia de la tierra, deberá atender problemas conexos, como la falta o insuficiencia de infraestructura, equipamiento y servicios públicos y establecer un mayor control catastral y registral de las propiedades.
 
 Los particulares y desarrolladores que obtengan contratos o concesiones para construir vivienda en dichas zonas, deberán integrar a sus proyectos de desarrollo la cobertura de equipamiento urbano del entorno.
 
@@ -3669,13 +3679,17 @@ Las zonas de reserva deberán mantenerse inalterables, en tanto no se expidan la
 
 Igualmente, deberán mantenerse inalterables las áreas no urbanizables de los centros de población, durante el término que fije el programa de desarrollo urbano respectivo, que en ningún caso será menor de cinco años.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 200.
 
-Corresponde al Gobierno del Estado y a los ayuntamientos, en coordinación con la Federación y con los sectores social y privado, realizar las acciones que agilicen la adquisición o manejo de reservas territoriales para la construcción de vivienda de interés social, popular y económica y para la ejecución de obras públicas.
+Corresponde al Gobierno del Estado y a los ayuntamientos, en coordinación con la Federación y con los sectores social y privado, realizar las acciones que agilicen la adquisición o manejo de reservas territoriales para la construcción de vivienda adecuada de interés social, popular y económica y para la ejecución de obras públicas.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 201.
 
-La Secretaría en coordinación con las entidades estatales competentes en materia de vivienda y regularización de la tenencia de la tierra urbana, así como los ayuntamientos o sus Institutos Municipales o Metropolitanos de Planeación Urbana, efectuará a través del Instituto Estatal de Planeación cuando éste se encuentre constituido o por sí, los estudios necesarios, a fin de determinar las necesidades que existen en el Estado de suelo urbano y reservas territoriales para ser canalizadas al desarrollo urbano y a la construcción de vivienda, tomando en cuenta los requerimientos presentes y los del futuro inmediato, los que servirán de base para su adquisición y urbanización. Asimismo, formulará un inventario de terrenos que puedan ser aprovechados en programas de desarrollo urbano, ordenamiento territorial y de vivienda, con base en las condiciones básicas de infraestructura y equipamiento urbano y la posibilidad de introducción de servicios públicos, con el menor costo y tiempo posible.
+La Secretaría en coordinación con las entidades estatales competentes en materia de vivienda y regularización de la tenencia de la tierra urbana, así como los ayuntamientos o sus Institutos Municipales o Metropolitanos de Planeación Urbana, efectuará a través del Instituto Estatal de Planeación cuando éste se encuentre constituido o por sí, los estudios necesarios, a fin de determinar las necesidades que existen en el Estado de suelo urbano y reservas territoriales para ser canalizadas al desarrollo urbano y a la construcción de vivienda adecuada, tomando en cuenta los requerimientos presentes y los del futuro inmediato, los que servirán de base para su adquisición y urbanización. Asimismo, formulará un inventario de terrenos que puedan ser aprovechados en programas de desarrollo urbano, ordenamiento territorial y de vivienda, con base en las condiciones básicas de infraestructura y equipamiento urbano y la posibilidad de introducción de servicios públicos, con el menor costo y tiempo posible.
 
 ###### ARTÍCULO 202.
 
@@ -7146,6 +7160,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 P.O. 31 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0503.- QUE REALIZA ADICIÓN A LOS ARTÍCULOS 354 Y 361, AMBOS DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0534.- QUE REFORMA LOS ARTÍCULOS 5, 14, 90, 95, 191, 200 Y 201, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
