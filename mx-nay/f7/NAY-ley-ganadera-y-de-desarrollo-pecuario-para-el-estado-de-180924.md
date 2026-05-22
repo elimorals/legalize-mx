@@ -4,7 +4,7 @@ identifier: "NAY-ley-ganadera-y-de-desarrollo-pecuario-para-el-estado-de-180924"
 country: "mx"
 rank: "ley"
 publication_date: "2025-07-15"
-last_updated: "2025-07-15"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY GANADERA Y DE DESARROLLO PECUARIO PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Ley publicada en la Sección Quinta del Número 10 del Periódico Oficial del Estado de Nayarit, el martes 15 de julio de 2025.
 
@@ -159,7 +159,9 @@ XXXIV. Inocuidad. Conjunto de procedimientos orientados a evitar la contaminaci�
 
 XXXV. Inspector o Inspectora. Persona Inspectora Auxiliar de Ganadería acreditado por la Secretaría;
 
-XXXVI. Ley. Ley Ganadera y Desarrollo Pecuario para el Estado de Nayarit;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XXXVI. Ley. Ley Ganadera y de Desarrollo Pecuario para el Estado de Nayarit;
 
 XXXVII. Marca. Instrumento para marcar el ganado;
 
@@ -221,7 +223,9 @@ LXV. Región en Control o Región "B". Región en la que no se ha realizado ning
 
 LXVI. Región sin Reconocimiento Internacional Nivel V. Es una región, donde no se ha constatado mediante pruebas de Tuberculina la prevalencia de la tuberculosis bovina o se desconoce la misma;
 
-LXVII. Ruta Itinerante. Inspección que se realiza de un punto A hacia un punto B en un vehículo autorizado por el Servicio Nacional de Sanidad e Inocuidad y Calidad Agroalimentaria;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+LXVII. Ruta Itinerante. Inspección que se realiza de un punto A hacia un punto B en un vehículo autorizado por el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
 LXVIII. Sanitarista. Profesionista que realizará la inspección sanitaria en los centros de sacrificio;
 
@@ -229,7 +233,9 @@ LXIX. Secretaría. Secretaría de Desarrollo Rural del Estado de Nayarit;
 
 LXX. Servidor Público. Persona adscrita a la Secretaría o alguna de las instituciones que son competentes a la materia en relación con la presente Ley;
 
-LXXI. SENASICA. Servicio Nacional de Sanidad e Inocuidad y Calidad Agroalimentaria;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+LXXI. SENASICA. Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
 LXXII. Señal de Sangre. Cortadas, incisiones o perforaciones que se hacen en las orejas o pliegues naturales del ganado;
 
@@ -293,7 +299,9 @@ XIV. Norma Oficial Mexicana NOM-067-ZOO-2007, Campaña Nacional para la prevenci
 
 XV. Norma Oficial Mexicana NOM-001-ZOO-1994, Campaña Nacional contra la Varroasis de las Abejas;
 
-XVI. Acuerdo porque se da (sic) conocer la campaña y las medidas zoosanitarias que deberán aplicarse para el diagnóstico, prevención, control y erradicación de la influencia aviar notificable, en las zonas del territorio de los Estados Unidos Mexicanos en las que se encuentre presente esa enfermedad;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XVI. Acuerdo porque se da (sic) conocer la campaña y las medidas zoosanitarias que deberán aplicarse para el diagnóstico, prevención, control y erradicación de la influenza aviar notificable, en las zonas del territorio de los Estados Unidos Mexicanos en las que se encuentre presente esa enfermedad;
 
 XVII. Acuerdo mediante el cual se dan a conocer las medidas aplicables en materia de epidemiologia y de vigilancia epidemiológica en animales terrestres y el uso de la información del sistema nacional de vigilancia epidemiológica en los Estados Unidos Mexicanos, y
 
@@ -1283,7 +1291,9 @@ En tal caso, la autoridad municipal promoverá que los rastros, unidades de sacr
 
 En todos los rastros, unidades de sacrificio y demás establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano, habrá un administrador nombrado por la autoridad municipal competente, quien deberá vigilar el adecuado funcionamiento del lugar, la aplicación de las normas que en materia de sanidad estén vigentes, y los demás requisitos que para el sacrificio establezca la presente Ley.
 
-Durante las horas laborales en la operación del rastro, unidades de sacrificio y demás establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano, se deberá contar con el servicio de cuando menos un técnico sanitarista de preferencia médico veterinario zootecnista capacitado en vigilancia epidemiológica e inspección ante y postmortem, que será supervisado por conducto de la Secretaría en coordinación con el Comité Estatal para el Fomento y Protección Pecuaria de Nayarit.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+Durante las horas laborales en la operación del rastro, unidades de sacrificio y demás establecimientos dedicados al procesamiento o industrialización de bienes de origen animal para consumo humano, se deberá contar con el servicio de cuando menos un técnico sanitarista de preferencia médico veterinario zootecnista capacitado en vigilancia epidemiológica e inspección ante y postmortem, que será supervisado por conducto de la Secretaría en coordinación con el Comité Estatal para el Fomento y Protección Pecuaria de Nayarit, S. C.
 
 El Médico Veterinario Zootecnista deberá de aplicar el control de bienestar animal y otras medidas zoosanitarias, de buenas prácticas pecuarias y de sustancias tóxicas y/o peligrosas; vigilar que se cumplan las Normas Oficiales Mexicanas y Acuerdos en la materia, además, tendrá las siguientes responsabilidades y obligaciones:
 
@@ -1682,3 +1692,11 @@ Dado en la Sala de Sesiones “Lic. Benito Juárez García” recinto oficial de
 Dip. Salvador Castañeda Rangel, Presidente.- Rúbrica.- Dip. Edgar Noel López Arciniega, Secretario.- Rúbrica.- Dip. Nadia Alejandra Ramírez López, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los catorce días del mes de julio de dos mil veinticinco.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Dra. en D. Rocío Esther González García, Secretaria General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY GANADERA Y DE DESARROLLO PECUARIO PARA EL ESTADO DE NAYARIT”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
