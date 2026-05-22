@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2026-03-30"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -831,7 +831,9 @@ I.- El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
 
 II.- La corrupción de niñas, niños y adolescentes;
 
-III.- Trata de niñas, niños y adolescentes, abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+III.- Trata de niñas, niños y adolescentes, abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, incluyendo aquella vinculada a actividades turísticas, servicios de hospedaje o cualquier modalidad de turismo sexual infantil; así como cualquier otro tipo de explotación y demás conductas punibles establecidas en las disposiciones aplicables;
 
 IV.- El tráfico de niñas, niños y adolescentes;
 
@@ -2484,6 +2486,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 30 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-1014 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII Y SE ADICIONA LA FRACCIÓN VIII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 32 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-1058 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, Y LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
