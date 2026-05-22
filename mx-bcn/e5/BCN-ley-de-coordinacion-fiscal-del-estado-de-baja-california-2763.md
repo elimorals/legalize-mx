@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-coordinacion-fiscal-del-estado-de-baja-california-2763"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2025-06-27"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 1987.
 
@@ -77,15 +77,43 @@ De la misma forma, los Municipios percibirán el 20% del importe total que recib
 
 Los ingresos que correspondan a los Municipios de acuerdo a los párrafos anteriores, serán distribuidos entre los mismos, en los términos de la presente Ley.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 4o.
 
-Con el 20%, del total que perciba el Estado, derivado de los fondos a que se refiere el primer párrafo del Artículo 3°, se constituirá un Fondo Básico de Participaciones Federales a los Municipios, el cual se incrementará con el 100% del Fondo de Fomento Municipal, y será distribuido entre los Municipios de acuerdo a las siguientes reglas:
+Con el 20%, del total que perciba el Estado, derivado de los fondos a que se refiere el primer párrafo del Artículo 3°, se constituirá un Fondo Básico de Participaciones Federales a los Municipios, el cual se incrementará con el 100% del Fondo de Fomento Municipal, con excepción del monto correspondiente al 30% del excedente de éste último fondo, de conformidad con el artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, el cual será distribuido entre los Municipios de acuerdo a las siguientes reglas:
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
 
 I.- El 70%, en proporción directa a la suma de la recaudación del Impuesto Predial y de los derechos por servicio de consumo de agua potable, que obtenga cada Municipio, durante el año anterior para el cual se efectúan el cálculo.
 
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+
 II.- El 30% en proporción directa al número de habitantes de que tenga cada Municipio, el cual se tomará de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al inicio de cada ejercicio fiscal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2026)</small>
+
+La participación del 30% del excedente del Fondo de Fomento Municipal para aquellos Municipios coordinados con el Estado en materia de impuesto predial en términos del artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, se distribuirá conforme a la siguiente fórmula:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 22 DE MAYO DE 2026, PAGINA 17.]</small>
+
+Donde:
+
+0.3 FFMt es el monto correspondiente al 30% del excedente del Fondo de Fomento
+
+Municipal a distribuir en el año t para el que se efectúa el cálculo, por la coordinación
+
+administrativa del Impuesto Predial.
+
+Ci,t es el coeficiente de distribución del 30% del excedente del Fondo de Fomento Municipal del Municipio i, en el año t en que se efectúa el cálculo; siempre y cuando el Convenio de Coordinación Administrativa para la Recaudación del Impuesto Predial, se encuentre vigente y en operación.
+
+Fi,t es la participación del 0.3 FFMt, del Municipio i en el año t en que se efectúa el cálculo.
+
+Rci,t es el monto de la recaudación del Impuesto Predial, que registre un flujo de efectivo, realizada por el municipio i que tenga celebrado con el Estado en el año t Convenio de Coordinación Administrativa para la Recaudación del Impuesto Predial y que sea reportada en los formatos que emite la Secretaría de Hacienda y Crédito Público conforme el artículo 2-A, fracción III, de la Ley de Coordinación Fiscal.
+
+nci es la última información oficial de población que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía, del municipio i que tenga celebrado Convenio de Coordinación Administrativa para la Recaudación del Impuesto Predial con el Estado.
+
+?i es la suma sobre todos los municipios de la variable que le sigue.
 
 > <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
 
@@ -404,3 +432,11 @@ P.O. 27 DE JUNIO DE 2025.
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Poder Ejecutivo del Estado deberá adecuar su normatividad interna dentro de los ciento ochenta días siguientes a que entre en vigor la presente reforma, de ser necesario y de conformidad con la Ley.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 280 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 4 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
