@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-impacto-ambiental-y-riesgo-38411"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-26"
-last_updated: "2018-10-29"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38411&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2004-01-10"
 ---
 # REGLAMENTO DE IMPACTO AMBIENTAL Y RIESGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE IMPACTO AMBIENTAL Y RIESGO DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 22 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE IMPACTO AMBIENTAL Y RIESGO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE MAYO DE 2026 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 26 de marzo de 2004.
 
@@ -2279,3 +2281,17 @@ QUINTO.- Quedan excluidas las obras que se encuentren contempladas en la Ley par
 SEXTO.- Cualquier alusión al Distrito Federal contenida en el presente Reglamento, se entenderá hecha a la Ciudad de México.
 
 SÉPTIMO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE IMPACTO AMBIENTAL Y RIESGO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se abroga el Reglamento de Impacto Ambiental y Riesgo, publicado en la Gaceta Oficial del Distrito Federal, ahora Ciudad de México, el veintiséis de marzo de dos mil cuatro.
+
+CUARTO.- En tanto se expidan las disposiciones administrativas que deriven de la presente reforma seguirán en vigor aquellas que no la contravengan.
+
+QUINTO.- Todos los Lineamientos, programas y criterios a los que hace referencia el presente Reglamento, serán emitidos o actualizados de ser necesario por la Secretaría en un plazo máximo de ciento ochenta días hábiles contados a partir de la publicación del mismo.
