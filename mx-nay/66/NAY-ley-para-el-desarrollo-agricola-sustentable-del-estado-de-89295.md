@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-el-desarrollo-agricola-sustentable-del-estado-de-89295
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-11"
-last_updated: "2024-04-17"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 11 de agosto de 2012.
 
@@ -97,15 +97,17 @@ IV.- Actores: Integrantes de la cadena productiva que contribuyen de manera dire
 
 V.- Cadena Productiva Agrícola: Proceso que sigue un producto agrícola desde la fase de producción, transformación y comercialización, hasta llegar al consumidor final;
 
-VI.- Certificado Fitosanitario: Documento oficial expedido por la SAGARPA o las personas acreditadas y aprobadas para tal efecto, que constata el cumplimiento de las disposiciones legales aplicables en materia de sanidad vegetal, para la producción, movilización, importación o exportación de vegetales, así como los productos o subproductos que representen un riesgo fitosanitario;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+VI.- Certificado Fitosanitario: Documento oficial expedido por la SADER o las personas acreditadas y aprobadas para tal efecto, que constata el cumplimiento de las disposiciones legales aplicables en materia de sanidad vegetal, para la producción, movilización, importación o exportación de vegetales, así como los productos o subproductos que representen un riesgo fitosanitario;
 
 > <small>(ADICIONADA, P.O. 19 DE MAYO DE 2015)</small>
 
 VII.- Certificado de Aportación: Documento expedido por los Organismos Auxiliares de Sanidad Vegetal mediante el cual se otorga certeza del legal origen y propiedad de los productos agrícolas oriundos de Nayarit, necesario para su movilización en el Estado;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-VIII.- Certificado de Origen: Documento que avala la sanidad de los productos a movilizar en el Estado y fuera de él, emitido por terceros especialistas en la materia, autorizados previamente por la SAGARPA;
+VIII.- Certificado de Origen: Documento que avala la sanidad de los productos a movilizar en el Estado y fuera de él, emitido por terceros especialistas en la materia, autorizados previamente por la SADER;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -145,17 +147,27 @@ XXV.- Programa Especial Concurrente: El Programa Especial Concurrente para el De
 
 XXVI.- Programas Sectoriales: Los programas específicos del Gobierno Federal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
 
-XXVII.- Sanidad Vegetal: Los actos que competen a la SAGARPA, orientados a la prevención, control y erradicación de plagas y enfermedades que afectan a los vegetales, sus productos o subproductos;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XXVIII.- SAGARPA: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación del Gobierno Federal;
+XXVII.- Sanidad Vegetal: Los actos que competen a la SADER, orientados a la prevención, control y erradicación de plagas y enfermedades que afectan a los vegetales, sus productos o subproductos;
 
-XXIX.- Secretaría: La Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XXX.- SNICS: El Servicio Nacional de Inspección y Certificación de Semillas, órgano desconcentrado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, encargado de inspeccionar, vigilar y verificar el cumplimiento de las disposiciones legales en materia de semillas y variedades vegetales para siembras;
+XXVIII.- SADER: La Secretaría de Agricultura y Desarrollo Rural del Gobierno Federal;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XXIX.- Secretaría: La Secretaría de Desarrollo Rural;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XXX.- SNICS: El Servicio Nacional de Inspección y Certificación de Semillas, órgano desconcentrado de la SADER, encargado de inspeccionar, vigilar y verificar el cumplimiento de las disposiciones legales en materia de semillas y variedades vegetales para siembras;
 
 XXXI.- Sistema-Producto Agrícola: El conjunto de elementos y agentes concurrentes de los procesos productivos agrícolas, incluidos el abastecimiento de equipo técnico, insumos y servicios de la producción primaria, el acopio, transformación, distribución y comercialización;
 
-XXXII.- SEMANAY: La Secretaría del Medio Ambiente para el Estado de Nayarit;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XXXII.- SDS: La Secretaría de Desarrollo Sustentable;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -187,19 +199,27 @@ Son autoridades competentes para aplicar esta Ley, en los términos que la misma
 
 I.- Autoridades Estatales:
 
-a).- El Gobernador del Estado;
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+a).- La persona titular del Ejecutivo Estatal;
 
-b).- La Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
 
-c).- La Secretaría de Desarrollo Económico;
+b).- La Secretaría;
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+c).- La Secretaría de Desarrollo Económico y Social;
 
 d).- La Secretaría de Salud del Estado;
 
-e).- La Secretaría del Medio Ambiente, y
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
 
-f).- La Secretaría de Seguridad Pública.
+e).- La SDS, y
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+f).- La Secretaría de Seguridad y Protección Ciudadana.
 
 II.- Autoridades Municipales:
 
@@ -213,7 +233,9 @@ a).- El Consejo Estatal para el Desarrollo Rural Sustentable;
 
 b).- El Comité Estatal de Sanidad Vegetal;
 
-c).- Los Distritos de Desarrollo Rural y los Consejos de Desarrollo Municipal;
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+c).- Los Distritos de Desarrollo Rural y los Consejos de Desarrollo Municipal para el Desarrollo Rural Sustentable;
 
 d).- Las Juntas Locales de Sanidad Vegetal, y
 
@@ -237,13 +259,23 @@ VI.- Ley General de Sociedades Cooperativas;
 
 VII.- Ley de Salud para el Estado de Nayarit;
 
-VIII.- Ley Estatal del Equilibrio Ecológico y Protección al Medio Ambiente del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+VIII.- Ley Estatal del Equilibrio Ecológico y Protección al Ambiente del Estado de Nayarit;
 
 IX.- Ley Municipal para el Estado de Nayarit;
 
-X.- Códigos Civil y Penal del Estado, y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XI.- Los demás que guarden relación con la materia y objeto de la presente Ley.
+X.- Código Civil para el Estado de Nayarit;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2026)</small>
+
+XI.- Código Penal para el Estado de Nayarit, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE MAYO DE 2026)</small>
+
+XII.- Los demás que guarden relación con la materia y objeto de la presente Ley.
 
 ###### Artículo 7.
 
@@ -277,7 +309,9 @@ XI.- Instituir reconocimientos y premios en materia agrícola;
 
 XII.- Promover en coordinación con las dependencias del sector, el CESAVENAY, las Juntas Locales de Sanidad Vegetal y las organizaciones de productores, la realización de campañas fitosanitarias para disminuir la prevalencia de plagas y enfermedades, así como las acciones y medidas necesarias para la protección fitosanitaria de la actividad agrícola y la inocuidad de los productos y subproductos agrícolas;
 
-XIII.- Operar los puntos de verificación interna en coordinación con la SAGARPA, el CESAVENAY y las Juntas Locales de Sanidad Vegetal, estableciendo esquemas de reducción de riesgos de contaminación y controlando el tránsito de productos y subproductos de origen vegetal, para procurar la sanidad e inocuidad de los mismos;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XIII.- Operar los puntos de verificación interna en coordinación con la SADER, el CESAVENAY y las Juntas Locales de Sanidad Vegetal, estableciendo esquemas de reducción de riesgos de contaminación y controlando el tránsito de productos y subproductos de origen vegetal, para procurar la sanidad e inocuidad de los mismos;
 
 XIV.- Realizar estudios técnicos y de investigación que permitan definir los cultivos agrícolas mayormente productivos en las diversas condiciones agroecológicas y socioeconómicas del Estado;
 
@@ -325,19 +359,27 @@ III.- La asociaciones, fundaciones, sociedades civiles, universidades, instituto
 
 IV.- Las cadenas productivas estatales a través de sus consejos de productores.
 
-Se mantendrá actualizada la participación como consejeros a los Presidentes de los Consejos de los Sistemas Producto, los representantes de las organizaciones de productores, así como las dependencias del Sector Agropecuario que forman parte integral del Consejo Estatal para el Desarrollo Rural Sustentable.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+Se mantendrá actualizada la participación como consejeras o consejeros a las y los Presidentes de los Consejos de los Sistemas Producto, las y los representantes de las organizaciones de productores, así como las dependencias del Sector Agropecuario que forman parte integral del Consejo Estatal para el Desarrollo Rural Sustentable.
 
 ###### Artículo 10.
 
 Con el objeto de promover y estimular el desarrollo agrícola sustentable en la entidad, así como de atender de manera adecuada los problemas fitosanitarios, se integrará un órgano de consulta, asesoría, opinión, colaboración y participación denominado Consejo Estatal para el Desarrollo Rural Sustentable, como instancia de participación de los productores y demás agentes del sector rural para la definición de prioridades regionales, la planeación y distribución de los recursos que la Federación, las entidades federativas y los municipios destinen al apoyo del proceso productivo y para el desarrollo agrícola sustentable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 11.
 
-El Consejo Estatal para el Desarrollo Rural Sustentable estará integrado por un Presidente, un Secretario Técnico y Vocales, quienes serán designados de la siguiente forma:
+El Consejo Estatal para el Desarrollo Rural Sustentable estará integrado por una Presidenta o Presidente, una Secretaria o Secretario Técnico y Vocales, quienes se designarán de la siguiente forma:
 
-I.- Como Presidente del Consejo fungirá el Gobernador del Estado, quién presidirá las reuniones de trabajo y en su caso delegará esta función al Secretario de Desarrollo Rural de la entidad, quien a su vez designará como Secretario de Actas y Acuerdos a quien corresponda de la propia dependencia pública estatal; el Delegado de la SAGARPA fungirá como Secretario Técnico del Consejo, y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-II.- Los vocales serán designados, uno por cada una de las dependencias e instituciones siguientes: SAGARPA; Secretaria de Desarrollo Económico; Secretaria de Planeación, Programación y Presupuesto; Secretaria del Medio Ambiente; Comisión Forestal de Nayarit; Consejo Nayarita del Café; Procuraduría Agraria; Consejo Estatal de Ciencia y Tecnología de Nayarit; Comisión Estatal del Agua; el Presidente de la Comisión de Asuntos Agropecuarios, Forestales y Mineros del Poder Legislativo; los Consejos Municipales de Desarrollo Agrícola; las fundaciones de productores constituidas legalmente; Secretaria de Economía; Secretaría de Medio Ambiente y Recursos Naturales; Secretaria de Desarrollo Social; Secretaría de la Reforma Agraria; el Fideicomiso de Riesgo Compartido; Fondo Nacional de Apoyo a Empresas en Solidaridad; Comisión Nacional del Agua; Registro Agrario Nacional; los organismos auxiliares de la SAGARPA; los Titulares de los Distritos de Desarrollo del Estado; los Fideicomisos instituidos en relación con la agricultura; Financiera Rural; Comisión Nacional para el Desarrollo de los Pueblos Indígenas; Instituto Nacional de Estadística y Geografía; INIFAP; así como los productores representados por las Organizaciones Sociales, Gremiales y Privadas de carácter económico relacionadas con el sector que sean reconocidos expresamente como organismos coadyuvantes en términos del Reglamento y los representantes de los Sistema-Producto que estén legalmente constituidos en la entidad, cuyos integrantes titulares podrán designar a sus respectivos suplentes.
+I.- Como Presidenta o Presidente del Consejo fungirá la persona titular del Ejecutivo Estatal, quién presidirá las reuniones de trabajo y en su caso delegará esta función a la o el Secretario de Desarrollo Rural de la entidad, quien a su vez designará como Secretaria o Secretario de Actas y Acuerdos a quien corresponda de la propia dependencia pública estatal; la persona delegada de la SADER fungirá como Secretaria o Secretario Técnico del Consejo, y
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+II.- Las personas vocales serán designadas, una por cada una de las dependencias e instituciones siguientes: SADER; Secretaría de Desarrollo Económico y Social; Instituto de Planeación del Estado de Nayarit; SDS; Comisión Forestal de Nayarit; Consejo Nayarita del Café; Procuraduría Agraria; Consejo de Ciencia y Tecnología del Estado de Nayarit; Comisión Estatal de Agua Potable y Alcantarillado; la o el Presidente de la Comisión de Asuntos Agropecuarios, Forestales y Mineros del Poder Legislativo; los Consejos Municipales de Desarrollo Agrícola; las fundaciones de productores constituidas legalmente; Secretaría de Economía; Secretaría de Medio Ambiente y Recursos Naturales; Secretaría de Bienestar; Secretaría de Desarrollo Agrario, Territorial y Urbano; el Fideicomiso de Riesgo Compartido; Instituto Nacional de la Economía Social; Comisión Nacional del Agua; Registro Agrario Nacional; los organismos auxiliares de la SADER; las personas Titulares de los Distritos de Desarrollo del Estado; los Fideicomisos instituidos en relación con la agricultura; Instituto Nacional de los Pueblos Indígenas; Instituto Nacional de Estadística y Geografía e Informática; INIFAP; así como los productores representados por las Organizaciones Sociales, Gremiales y Privadas de carácter económico relacionadas con el sector que sean reconocidos expresamente como organismos coadyuvantes en términos del Reglamento y las o los representantes de los Sistema-Producto que estén legalmente constituidos en la entidad, cuyos integrantes titulares podrán designar a sus respectivos suplentes.
 
 El Consejo propondrá al Ejecutivo Estatal los lineamientos y criterios para su integración al Plan de Desarrollo y al Programa Sectorial Agrícola, así como para la implementación de programas específicos, acciones y sistemas de planeación productiva del desarrollo agrícola sustentable, evaluando periódicamente sus avances y formulando recomendaciones generales y opiniones sobre las estrategias de producción, comercialización, transformación y de servicio agrícola, En su caso, el Consejo someterá a la aprobación del Ejecutivo Federal nuevos programas de fomento agrícola y de desarrollo rural sustentable para que puedan ser incluidos en el proyecto de presupuesto de egresos correspondiente.
 
@@ -451,9 +493,11 @@ X.- El mecanismo que permita atender las contingencias que se presenten por el a
 
 XI.- Las demás medidas que se consideren necesarias para el cumplimento de los programas del sector agrícola.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 19.
 
-Para la ejecución del Programa Sectorial para el Desarrollo Agrícola Sustentable a que alude el artículo anterior, la Secretaría se apoyará con la SAGARPA, las autoridades municipales y auxiliares, para la aplicación de los programas y apoyos que se definan de manera concurrente o independiente; asimismo promoverá los mecanismos de coordinación para la ejecución de los proyectos territoriales Agrícolas, la integración e impulso de los proyectos de inversión, así como los servicios de apoyo a la producción, transformación, comercialización y asesoría técnica que permitan canalizar productivamente los recursos públicos al sector rural, según sea conveniente y se acuerde con los organismos coadyuvantes de influencia regional.
+Para la ejecución del Programa Sectorial para el Desarrollo Agrícola Sustentable a que alude el artículo anterior, la Secretaría se apoyará con la SADER, las autoridades municipales y auxiliares, para la aplicación de los programas y apoyos que se definan de manera concurrente o independiente; asimismo promoverá los mecanismos de coordinación para la ejecución de los proyectos territoriales Agrícolas, la integración e impulso de los proyectos de inversión, así como los servicios de apoyo a la producción, transformación, comercialización y asesoría técnica que permitan canalizar productivamente los recursos públicos al sector rural, según sea conveniente y se acuerde con los organismos coadyuvantes de influencia regional.
 
 En el marco del Programa Sectorial para el Desarrollo Agrícola Sustentable, los productores agrícolas procurarán el empleo de buenas prácticas agrícolas recomendadas por las autoridades auxiliares, con el objeto de incrementar su producción y productividad, evitando causar daños al medio ambiente y respetando la frontera forestal de acuerdo al inventario que establece la Ley de Desarrollo Forestal Sustentable para el Estado de Nayarit.
 
@@ -521,7 +565,9 @@ El Estado impulsará la creación de instrumentos para el apoyo de garantías l�
 
 La Secretaría, con la participación del Consejo, definirá los mecanismos para favorecer la conexión y participación de la banca social, de desarrollo y privada en los programas gubernamentales. Asimismo, promoverá apoyos especiales de la banca a iniciativas financieras locales viables que respondan a las características socioeconómicas de las organizaciones de productores, incluyendo:
 
-I.- La gestión de apoyos de asesoría técnica especializada sobre proyectos de interés del Estado, con cargo a los programas en concurrencia con SAGARPA, para garantizar el éxito de los proyectos;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+I.- La gestión de apoyos de asesoría técnica especializada sobre proyectos de interés del Estado, con cargo a los programas en concurrencia con SADER, para garantizar el éxito de los proyectos;
 
 II.- El establecimiento de programas a través de la banca en general, que permita reprogramar y/o reestructurar las carteras vencidas a fin de reincorporar a los productores y sus organizaciones al crédito y a las actividades productivas;
 
@@ -569,9 +615,11 @@ La Secretaria, las autoridades municipales y quienes participan como auxiliares 
 
 Con el propósito de evitar incendios forestales, se evitará el uso del fuego como herramienta de trabajo en las actividades agrícolas, sobre todo en las áreas de cultivo cercanas a la frontera forestal, debiéndose aplicar estrictamente la norma oficial mexicana vigente referida al uso del fuego en prácticas agropecuarias.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 34.
 
-La Secretaria con la participación de los productores, la SEMARNAT y SEMANAY, la Comisión Nacional Forestal y la del Estado de Nayarit, previo estudio y dictaminación del impacto ambiental, promoverán un programa permanente de reforestación para la restauración de las áreas degradadas por la agricultura, la cual será de observancia obligatoria para los posesionarios o usufructuarios de la tierra.
+La Secretaría con la participación de los productores, la SEMARNAT y SDS, la Comisión Nacional Forestal y la del Estado de Nayarit, previo estudio y dictaminación del impacto ambiental, promoverán un programa permanente de reforestación para la restauración de las áreas degradadas por la agricultura, la cual será de observancia obligatoria para los posesionarios o usufructuarios de la tierra.
 
 ###### Artículo 35.
 
@@ -641,23 +689,31 @@ A efecto de especializar los procesos de producción y comercialización, los pr
 
 La Secretaría impulsará la participación de los productores y sus organizaciones en dicho tipo de comercialización, mediante la creación y modernización de los sistemas de acopio, construcción de infraestructura de comunicación, así como mediante el establecimiento de los mercados de origen y de destino, con el fin de integrar el padrón confiable de productores y la canalización adecuada de los apoyos a cada rama productiva ó Sistema-Producto.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 42.
 
-La Secretaría en coordinación con los productores organizados y los representantes de los Sistema-Producto, promoverán campañas publicitarias para la promoción de los productos de la entidad en el mercado local, nacional e internacional; asimismo impulsará prioritariamente los productos agrícolas que requieran certificarse con distintivo, grado o marcado de origen.
+La Secretaría en coordinación con los productores organizados y las y los representantes de los Sistema-Producto, promoverán campañas publicitarias para la promoción de los productos de la entidad en el mercado local, nacional e internacional; asimismo impulsará prioritariamente los productos agrícolas que requieran certificarse con distintivo, grado o marcado de origen.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
 
 ###### Artículo 43.
 
-La Secretaría en coordinación con la SAGARPA y las autoridades municipales, impulsará y fomentará el valor agregado de los productos agrícolas, capitalizando recursos gubernamentales y privados que mitiguen y reduzcan la perecibilidad de los productos, las pérdidas postcosecha y que amplíen la estacionalidad de la oferta agropecuaria.
+La Secretaría en coordinación con la SADER y las autoridades municipales, impulsará y fomentará el valor agregado de los productos agrícolas, capitalizando recursos gubernamentales y privados que mitiguen y reduzcan la perecibilidad de los productos, las pérdidas postcosecha y que amplíen la estacionalidad de la oferta agropecuaria.
 
 ### Capítulo III. De la administración de riesgos
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 44.
 
-La Secretaría en coordinación con la SAGARPA, el INIFAP, el Consejo y los organismos coadyuvantes, promoverá el cambio tecnológico, así como la reconversión de cultivos a través de las dependencias competentes, procurando proveer los instrumentos y recursos públicos necesarios a objeto de disminuir riesgos y mejorar la producción y productividad agrícola en beneficio de los productores de la entidad.
+La Secretaría en coordinación con la SADER, el INIFAP, el Consejo y los organismos coadyuvantes, promoverá el cambio tecnológico, así como la reconversión de cultivos a través de las dependencias competentes, procurando proveer los instrumentos y recursos públicos necesarios a objeto de disminuir riesgos y mejorar la producción y productividad agrícola en beneficio de los productores de la entidad.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
 
 ###### Artículo 45.
 
-El Gobierno Estatal promoverá ante la SAGARPA apoyos directos al productor para el manejo en la administración de riesgos inherentes al cambio tecnológico, que coadyuven a cubrir las primas del servicio de aseguramiento de riesgos del cultivo, la producción, la inversión y el mercado. Los apoyos económicos se entregarán prioritariamente por conducto de las organizaciones o fondos de aseguramiento de los productores.
+El Gobierno Estatal promoverá ante la SADER apoyos directos al productor para el manejo en la administración de riesgos inherentes al cambio tecnológico, que coadyuven a cubrir las primas del servicio de aseguramiento de riesgos del cultivo, la producción, la inversión y el mercado. Los apoyos económicos se entregarán prioritariamente por conducto de las organizaciones o fondos de aseguramiento de los productores.
 
 ###### Artículo 46.
 
@@ -669,9 +725,11 @@ El servicio de aseguramiento deberá incluir los Instrumentos para la cobertura 
 
 La Secretaria con el fin de facilitar el acceso de los productores al servicio de aseguramiento y ampliar su cobertura institucional, así como su involucramiento en fondos de financiamiento, inversión y la administración de otros riesgos, fomentará la utilización de coberturas de precios incluyendo los tipos de cambio en los mercados de futuros.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 48.
 
-El Gobierno Estatal con la participación de la SAGARPA, podrá contratar a través de empresas aseguradoras privadas y fondos de aseguramiento, un seguro de índole catastrófico para atender a la población rural en caso de que resulte afectada por contingencias climatológicas, con la finalidad de que los productores sean reincorporados a la actividad productiva de acuerdo con los programas de atención a desastres naturales.
+El Gobierno Estatal con la participación de la SADER, podrá contratar a través de empresas aseguradoras privadas y fondos de aseguramiento, un seguro de índole catastrófico para atender a la población rural en caso de que resulte afectada por contingencias climatológicas, con la finalidad de que los productores sean reincorporados a la actividad productiva de acuerdo con los programas de atención a desastres naturales.
 
 ###### Artículo 49.
 
@@ -775,11 +833,13 @@ V.- Los productores que participen en el establecimiento de parcelas demostrativ
 
 La Secretaría otorgará a los productores agrícolas que cumplan con alguno de los supuestos a los que se refiere el artículo anterior, los apoyos siguientes:
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
 
-I.- Se les gestionará preferentemente a su favor y con cargo a los programas en concurrencia con la SAGARPA, la autorización para recibir la asesoría técnica específica o integral, en base al tipo de programa o proyecto a desarrollar.
+I.- Se les gestionará preferentemente a su favor y con cargo a los programas en concurrencia con la SADER, la autorización para recibir la asesoría técnica específica o integral, en base al tipo de programa o proyecto a desarrollar.
 
-En este rubro, se dará preferencia a los productores que participen en los programas de interés del estado, con los apoyos que se manejan en concurrencia con la SAGARPA y los programas estatales.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+En este rubro, se dará preferencia a los productores que participen en los programas de interés del estado, con los apoyos que se manejan en concurrencia con la SADER y los programas estatales.
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
 
@@ -801,9 +861,11 @@ El diseño de instrumentos económicos deberá contemplar prioritariamente los a
 
 ### Capítulo I. Desarrollo agrícola especializado y sustentable
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 64.
 
-La Secretaría en coordinación con la SAGARPA, fomentará una agricultura sustentable en áreas con potencial productivo tanto en la modalidad de riego como de temporal, considerando la implementación de nuevas tecnologías que permitan incrementar la producción y productividad, considerando además los sistemas de producción en agricultura controlada, orgánica y labranza de conservación, entre otros.
+La Secretaría en coordinación con la SADER, fomentará una agricultura sustentable en áreas con potencial productivo tanto en la modalidad de riego como de temporal, considerando la implementación de nuevas tecnologías que permitan incrementar la producción y productividad, considerando además los sistemas de producción en agricultura controlada, orgánica y labranza de conservación, entre otros.
 
 ###### Artículo 65.
 
@@ -827,9 +889,11 @@ La Secretaría considerará productos orgánicos, solo aquéllos que hayan obten
 
 La Secretaría integrará el padrón de productores dedicados a la agricultura orgánica a nivel estatal, lo que deberá incluirse en el Sistema Estatal de Información en términos del Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 69.
 
-La Secretaría se coordinará con la SAGARPA y el INIFAP a efecto de:
+La Secretaría se coordinará con la SADER y el INIFAP a efecto de:
 
 I.- Establecer las fechas de siembra de los diferentes cultivos y ciclos, tomando en cuenta las condiciones edafoclimáticas de cada región productora del estado y, en su caso, determinar las ampliaciones de las fechas de siembra;
 
@@ -839,9 +903,11 @@ III.- Fomentar la introducción de variedades mejoradas y certificadas altamente
 
 IV.- Promover la cultura de aseguramiento agrícola a nivel de predio, de acuerdo a las condiciones agroclimáticas de las diferentes regiones del Estado, a fin de proteger las inversiones de los productores ante contingencias climatológicas, independientemente de los seguros catastróficos que se contraten por el gobierno estatal.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 70.
 
-Corresponde a la Secretaría la operación de los diferentes programas de fomento agrícola que se establezcan en la entidad, quien se constituirá en ejecutor de los diversos esquemas de apoyo que se contemplen en los programas en concurrencia con la SAGARPA, de acuerdo a las diferentes regiones productoras de la entidad.
+Corresponde a la Secretaría la operación de los diferentes programas de fomento agrícola que se establezcan en la entidad, quien se constituirá en ejecutor de los diversos esquemas de apoyo que se contemplen en los programas en concurrencia con la SADER, de acuerdo a las diferentes regiones productoras de la entidad.
 
 ###### Artículo 71.
 
@@ -891,9 +957,11 @@ Los apoyos a que se refiere el presente capítulo se otorgarán siempre que se c
 
 ### Capítulo III. De la capacitación y asistencia técnica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 77.
 
-En materia agrícola solo podrán impartir la capacitación y asistencia técnica, las instituciones de investigación, de educación superior y media superior de cobertura local y nacional, instituciones del sector especializadas en investigación y capacitación agrícola, así como profesionistas en agronomía capacitados y debidamente acreditados por entidades certificadoras a nivel nacional, cuyo desempeño será evaluado por el Centro Estatal de Capacitación y Seguimiento de la Calidad de los Servicios Profesionales o su similar, que podrá fortalecerse con técnicos especializados de las diferentes instituciones del ramo en los programas establecidos en concurrencia con la SAGARPA.
+En materia agrícola solo podrán impartir la capacitación y asistencia técnica, las instituciones de investigación, de educación superior y media superior de cobertura local y nacional, instituciones del sector especializadas en investigación y capacitación agrícola, así como profesionistas en agronomía capacitados y debidamente acreditados por entidades certificadoras a nivel nacional, cuyo desempeño será evaluado por el Centro Estatal de Capacitación y Seguimiento de la Calidad de los Servicios Profesionales o su similar, que podrá fortalecerse con técnicos especializados de las diferentes instituciones del ramo en los programas establecidos en concurrencia con la SADER.
 
 La Secretaría elaborará un directorio de despachos y técnicos acreditados para proporcionar servicios de asesoría técnica y la elaboración de proyectos de inversión para tenerlo a disposición de los productores.
 
@@ -1011,31 +1079,43 @@ Las actividades se orientarán a evitar la entrada de plagas y enfermedades a la
 
 Las acciones y programas que en este rubro lleven a cabo las autoridades estatales competentes, se ajustarán a lo que dispone la Ley Federal de Sanidad Vegetal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 88.
 
-La Secretaría en coordinación con la SAGARPA, el CESAVENAY y los organismos coadyuvantes, analizarán los criterios, especificaciones y procedimientos para la retención, disposición o destrucción de vegetales, productos o subproductos de viveros, siembras, cosechas de plantaciones, empaques, semillas y demás material vegetativo cuando sean portadores o que puedan diseminar plagas o enfermedades que los afecten, o cuando hayan sido tratados con productos químicos que no estén aprobados o registrados y rebasen los límites máximos de residuos previo a la cosecha y puedan causar daño a la salud humana o animal.
+La Secretaría en coordinación con la SADER, el CESAVENAY y los organismos coadyuvantes, analizarán los criterios, especificaciones y procedimientos para la retención, disposición o destrucción de vegetales, productos o subproductos de viveros, siembras, cosechas de plantaciones, empaques, semillas y demás material vegetativo cuando sean portadores o que puedan diseminar plagas o enfermedades que los afecten, o cuando hayan sido tratados con productos químicos que no estén aprobados o registrados y rebasen los límites máximos de residuos previo a la cosecha y puedan causar daño a la salud humana o animal.
 
-Para tales efectos, la Secretaría en coordinación con la SAGARPA y el CESAVENAY, verificará la operación de las estaciones cuarentenarias y casetas de control que se establezcan tanto en carreteras libres como de cuota, en términos de los convenios celebrados entre éstas conforme a lo dispuesto en la Ley Federal de Sanidad Vegetal.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+Para tales efectos, la Secretaría en coordinación con la SADER y el CESAVENAY, verificará la operación de las estaciones cuarentenarias y casetas de control que se establezcan tanto en carreteras libres como de cuota, en términos de los convenios celebrados entre éstas conforme a lo dispuesto en la Ley Federal de Sanidad Vegetal.
 
 ###### Artículo 89.
 
 Mediante los puntos de verificación fitosanitarios, la Secretaría garantizará que se cumplan las normas aplicables a los productos vegetales, embalajes y bienes vegetales, que representen riesgos biológicos o de salud pública y de riesgo cuarentenario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 90.
 
-La Secretaría en coordinación con el CESAVENAY, realizará campañas fitosanitarias y apoyarán la operación de los puntos de verificación interna interestatales conforme a los lineamientos y normas oficiales expedidas por la SAGARPA, según los convenios y acuerdos de participación celebrados con ésta.
+La Secretaría en coordinación con el CESAVENAY, realizará campañas fitosanitarias y apoyarán la operación de los puntos de verificación interna interestatales conforme a los lineamientos y normas oficiales expedidas por la SADER, según los convenios y acuerdos de participación celebrados con ésta.
 
-Con el objeto de promover el buen uso y manejo fitosanitario de los insumos agrícolas, la Secretaria en coordinación con la SAGARPA y el CESAVENAY, desarrollará y ejecutará en forma permanente, programas de promoción, capacitación técnica y acreditación en materia de sanidad vegetal, según lo determine el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+Con el objeto de promover el buen uso y manejo fitosanitario de los insumos agrícolas, la Secretaría en coordinación con la SADER y el CESAVENAY, desarrollará y ejecutará en forma permanente, programas de promoción, capacitación técnica y acreditación en materia de sanidad vegetal, según lo determine el Reglamento de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
 
 ###### Artículo 91.
 
-La Secretaría, en coordinación con la SAGARPA, el CESAVENAY y los organismos coadyuvantes relacionados en materia de sanidad vegetal, establecerán un Sistema Estatal de Información Fitosanitaria.
+La Secretaría, en coordinación con la SADER, el CESAVENAY y los organismos coadyuvantes relacionados en materia de sanidad vegetal, establecerán un Sistema Estatal de Información Fitosanitaria.
 
 En el Sistema Estatal de Información Fitosanitaria, se integrarán datos estatales, municipales y de distrito relativos a diagnosticar, prevenir y controlar la diseminación e introducción de plagas en los vegetales, sus productos o subproductos que representen un riesgo sanitario, así como a verificar la efectividad de los insumos y los métodos de control fitosanitarios establecidos en la entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 92.
 
-Será responsabilidad de la Secretaría coordinar los esfuerzos estadísticos y de control, así como acopiar y sistematizar la información proporcionada por la SAGARGA, (SIC) el CESAVENAY, las demás autoridades competentes en la materia y los organismos coadyuvantes, sobre la sanidad vegetal en la entidad, en términos de lo que señale el Reglamento.
+Será responsabilidad de la Secretaría coordinar los esfuerzos estadísticos y de control, así como acopiar y sistematizar la información proporcionada por la SADER, el CESAVENAY, las demás autoridades competentes en la materia y los organismos coadyuvantes, sobre la sanidad vegetal en la entidad, en términos de lo que señale el Reglamento.
 
 El Sistema estará disponible a consulta abierta al público en general, así como por medios electrónicos y demás publicaciones idóneas.
 
@@ -1053,11 +1133,15 @@ Con el propósito de evitar impactos adversos a la salud humana y al medio ambie
 
 Para tal efecto, la Secretaría establecerá lineamientos a los productores y expendedores para la eliminación adecuada de los envases usados de agroquímicos, fertilizantes y plásticos en general, con el fin de propiciar la preservación del medio ambiente y la protección de la salud humana, de acuerdo a lo que determine el Reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 95.
 
-La Secretaría fomentará el control biológico para el combate de plagas y enfermedades de los cultivos agrícolas ó en su caso un control integrado de conformidad con la normatividad vigente, siempre bajo estricta vigilancia técnica y conforme a las normas oficiales emitidas por la SAGARPA en la materia.
+La Secretaría fomentará el control biológico para el combate de plagas y enfermedades de los cultivos agrícolas o en su caso un control integrado de conformidad con la normatividad vigente, siempre bajo estricta vigilancia técnica y conforme a las normas oficiales emitidas por la SADER en la materia.
 
-En el marco de los convenios celebrados para tal efecto, la Secretaría podrá realizar en coordinación con la SAGARPA y las autoridades de salud, monitoreos periódicos en suelos, aguas y trabajadores agrícolas que estén en contacto permanente con el uso de agroquímicos.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+En el marco de los convenios celebrados para tal efecto, la Secretaría podrá realizar, en coordinación con la SADER y las autoridades de salud, monitoreos periódicos en suelos, aguas y trabajadores agrícolas, que estén en contacto permanente con el uso de agroquímicos.
 
 ###### Artículo 96.
 
@@ -1065,15 +1149,19 @@ La Secretaría vigilará aleatoriamente el cumplimiento de las restricciones o p
 
 ### Capítulo III. Regulación y certificación de semillas y material vegetativo para plantaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 97.
 
-Sobre la investigación, desarrollo, producción y comercialización de semillas y plantas, la Secretaria, en coordinación con la SAGARPA, el SNICS y el INIFAP, además de la participación de productores a través del Consejo se enfocará:
+Sobre la investigación, desarrollo, producción y comercialización de semillas y plantas, la Secretaría, en coordinación con la SADER, el SNICS y el INIFAP, además de la participación de productores a través del Consejo, se enfocará:
 
 I.- A impulsar y apoyar en forma coordinada la investigación relacionada con la producción y mejoramiento de semillas y plantas, así como la transferencia de tecnología hacia los productores;
 
 II.- Vigilar el estricto cumplimiento de las normas técnicas oficiales mexicanas e internacionales que rigen la producción y comercialización de semillas y plantas, ya sean éstas certificadas o aptas para siembra;
 
-III.- Verificar en coordinación con la SAGARPA, la certificación, distribución y comercialización de semillas a través del SNICS;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+III.- Verificar en coordinación con la SADER, la certificación, distribución y comercialización de semillas a través del SNICS;
 
 IV.- Regular y supervisar el desarrollo, producción y comercialización de semillas certificadas y verificadas en el ámbito estatal;
 
@@ -1093,23 +1181,29 @@ XI.- Apoyar a las organizaciones de productores en la producción y multiplicaci
 
 XII.- Solicitar la intervención del SNICS para que evalúe las semillas, cuando exista duda fundada sobre la veracidad de la información comercial con la cual sean ofrecidas o distribuidas.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 98.
 
-La Secretaría en coordinación con la SAGARPA, establecerá medidas de vigilancia tendientes a evitar la comercialización de semillas cuando no se apeguen a lo dispuesto en la Ley Federal de Producción Certificación y Comercio de Semillas.
+La Secretaría en coordinación con la SADER, establecerá medidas de vigilancia tendientes a evitar la comercialización de semillas cuando no se apeguen a lo dispuesto en la Ley Federal de Producción, Certificación y Comercio de Semillas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
 
 ###### Artículo 99.
 
-La Secretaría en coordinación con la SAGARPA, vigilará y exigirá que los expendedores de semillas para siembra cumplan con las normas de calidad que garantice la germinación, vigor y características vegetativas de la variedad de semilla, señalando o acompañando esta información en las etiquetas adheridas al envase del producto.
+La Secretaría en coordinación con la SADER, vigilará y exigirá que los expendedores de semillas para siembra cumplan con las normas de calidad que garantice la germinación, vigor y características vegetativas de la variedad de semilla, señalando o acompañando esta información en las etiquetas adheridas al envase del producto.
 
 Asimismo, promoverá la producción de semilla certificada a nivel oficial y particular, a efecto de estar acorde con los estándares en la materia y subsanar las necesidades del Estado en ese renglón, contribuyendo con los excedentes a los requerimientos nacionales e internacionales.
 
 ### Capítulo IV. De la movilización de productos agrícolas
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
 
 ###### Artículo 100.
 
-La Secretaría en coordinación con la SAGARPA, el CESAVENAY y las Juntas Locales de Sanidad Vegetal, regulará y vigilará la movilización de productos y subproductos de origen agrícola a fin de que estos cumplan con los requisitos establecidos por esta ley y la Ley Federal de Sanidad Vegetal.
+La Secretaría en coordinación con la SADER, el CESAVENAY y las Juntas Locales de Sanidad Vegetal, regulará y vigilará la movilización de productos y subproductos de origen agrícola a fin de que estos cumplan con los requisitos establecidos por esta ley y la Ley Federal de Sanidad Vegetal.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
 Los mecanismos de operación, cuotas y documentación requerida, estarán a cargo de las secretarías y autoridades auxiliares señalados en el párrafo anterior, incluyendo las casetas o puntos de verificación en el Estado y sus zonas limítrofes.
 
@@ -1125,9 +1219,11 @@ Para el caso de productos no cuarentenados, deberán presentar el certificado de
 
 ### Capítulo I. De la inspección y vigilancia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 102.
 
-La inspección y vigilancia que corresponda a la Secretaria en coordinación con la SAGARPA y demás autoridades competentes, tendrán por objeto;
+La inspección y vigilancia que corresponda a la Secretaría en coordinación con la SADER y demás autoridades competentes, tendrán por objeto:
 
 I.- Que los lugares donde se produzcan, fabriquen, almacenen, comercialicen y distribuyan vegetales, sus productos o subproductos, cumplan con las disposiciones de esta Ley y demás ordenamientos aplicables;
 
@@ -1141,9 +1237,11 @@ V.- Evitar el manejo y comercialización de agroquímicos prohibidos o restringi
 
 Se fomentará entre los productores frutícolas que la cosecha o el corte de su fruta se realice cuando ésta haya logrado su madurez fisiológica y obtenido las especificaciones de calidad exigidas por el mercado, a fin de evitar problemas en su comercialización y la posible desacreditación de la entidad como productora de frutas.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 103.
 
-La Secretaría supervisará en coordinación con la SAGARPA, cuando sea el caso, sobre las actividades agrícolas en las que se otorguen apoyos a productores, para verificar que dichos apoyos correspondan a los programados y aprobados por la propia dependencia.
+La Secretaría supervisará en coordinación con la SADER, cuando sea el caso, sobre las actividades agrícolas en las que se otorguen apoyos a productores, para verificar que dichos apoyos correspondan a los programados y aprobados por la propia dependencia.
 
 ###### Artículo 104.
 
@@ -1279,7 +1377,9 @@ No procederá la suspensión del acto impugnado cuando se afecte el interés pú
 
 Concluido el desahogo de pruebas, la Secretaría dictará resolución definitiva en un plazo que no exceda de diez días hábiles, en la que se confirme, modifique o revoque la resolución recurrida o el acto impugnado, lo que se notificará al interesado personalmente o por correo certificado.
 
-En lo relativo a la interpretación, substanciación y resolución del recurso que contempla esta Ley, se aplicará supletoriamente las disposiciones vigentes de la Ley de Justicia y Procedimientos Administrativos y el Código de Procedimientos Civiles, ambos para el Estado de Nayarit.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+En lo relativo a la interpretación, substanciación y resolución del recurso que contempla esta Ley, se aplicará supletoriamente las disposiciones vigentes de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit y el Código de Procedimientos Civiles para el Estado de Nayarit.
 
 ## TRANSITORIOS
 
@@ -1338,3 +1438,9 @@ P.O. 17 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DE “DECRETO QUE REFORMA Y ADICIONA DISPOSICIONES A LOS ARTÍCULOS 2 Y 3 DE LA LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT, EN MATERIA DE AGROECOLOGÍA”.]
 
 ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT, EN MATERIA DE ARMONIZACIÓN LEGISLATIVA, DENOMINACIÓN INSTITUCIONAL Y LENGUAJE CON PERSPECTIVA DE GÉNERO".]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
