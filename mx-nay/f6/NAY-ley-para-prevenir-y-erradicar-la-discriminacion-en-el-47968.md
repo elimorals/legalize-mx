@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-47968"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-10"
-last_updated: "2026-01-15"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT EL 15 DE ENERO DE 2026.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 10 de diciembre de 2005.
 
@@ -225,17 +223,21 @@ En la aplicación de la presente Ley intervendrán las autoridades y los órgano
 
 ### CAPITULO I. MEDIDAS PARA PREVENIR LA DISCRIMINACIÓN
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 11.
 
-La presente Ley protege a toda persona o grupo, que resida o transite en el territorio estatal, que pudiera sufrir cualquier tipo de discriminación proveniente de autoridades, órganos públicos, servidores públicos o de algún particular, sea éste, una persona física o moral.
+La presente Ley protege a toda persona o grupo, que resida o transite en el territorio estatal, que pudiera sufrir cualquier tipo de discriminación proveniente de autoridades, órganos públicos, personas servidoras públicas o de algún particular, sea éste, una persona física o moral.
 
 ###### Artículo 12.
 
 Se consideran medidas contra la discriminación aquellas que tengan como finalidad prevenir y corregir la situación de vulnerabilidad que haga que una persona sea discriminada o tratada de una manera directa o indirecta menos favorablemente que otra que no lo sea, en una situación análoga o comparable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 13.
 
-Queda prohibida toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades.
+Queda prohibida toda práctica discriminatoria que tenga por objeto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades entre mujeres y hombres, con pleno respeto a los derechos humanos.
 
 A efecto de lo anterior, se consideran como conductas discriminatorias:
 
@@ -357,11 +359,13 @@ XLI. En general cualquier acto u omisión discriminatoria en términos del Artí
 
 ### CAPITULO II. DE LAS MEDIDAS DE NIVELACIÓN, MEDIDAS DE INCLUSIÓN Y ACCIONES AFIRMATIVAS
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
 
 ###### Artículo 14.
 
-Cada uno de los órganos públicos y las autoridades estatales y municipales y aquellas instituciones que estén bajo su regulación o competencia, están obligados a realizar las medidas de nivelación, las medidas de inclusión y las acciones afirmativas necesarias para garantizar a toda persona la igualdad real de oportunidades y el derecho a la no discriminación.
+Cada uno de los órganos públicos y las autoridades estatales y municipales y aquellas instituciones que estén bajo su regulación o competencia, están obligados a realizar las medidas de nivelación, las medidas de inclusión y las acciones afirmativas necesarias para garantizar a toda persona la igualdad real de oportunidades y el derecho a la no discriminación, con especial énfasis en mujeres, adolescentes, niñas y niños considerando la perspectiva de género, respeto a los derechos humanos y el interés superior de la niñez.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
 
 La adopción de estas medidas forma parte de la perspectiva antidiscriminatoria, la cual debe ser incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas que lleven a cabo cada uno de los poderes públicos estatales.
 
@@ -411,9 +415,17 @@ II. La integración en el diseño, instrumentación y evaluación de las políti
 
 III. El desarrollo de políticas contra la homofobia, xenofobia, la misoginia, la discriminación por apariencia o el adulto centrismo;
 
-IV. Las acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias, y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-V. El llevar a cabo campañas de difusión al interior de los poderes públicos estatales.
+IV. Las acciones de sensibilización y capacitación dirigidas a integrantes del servicio público con el objetivo de combatir actitudes discriminatorias;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+V. El llevar a cabo campañas de difusión al interior de los poderes públicos estatales, y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+VI. Procurar el diseño e implementación de políticas públicas de atención integral a personas migrantes, que garanticen el respeto a sus derechos humanos con especial énfasis en la protección contra la discriminación por orientación sexual, identidad y expresión de género, privilegiando la protección contra cualquier tipo de discriminación y violencias.
 
 > <small>(REFORMADO, P.O. 21 DE MAYO DE 2014)</small>
 
@@ -825,15 +837,19 @@ El Consejo proporcionará a las personas que presuntamente hayan sido discrimina
 
 Las partes en el procedimiento tendrán derecho de conocer en cualquier momento el estado de su tramitación, recabando la oportuna información en el área que conozca del asunto. También podrán solicitar les sea expedida copia de los documentos contenidos en el expediente correspondiente salvo que a juicio del Consejo, atendiendo a la naturaleza del caso, algún documento deba guardar el carácter de confidencial.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
 
 ###### Artículo 30.
 
-El Consejo por conducto de su presidente, solicitará a personas físicas o morales, así como a los entes públicos, información relacionada con la tramitación de las quejas y reclamaciones.
+El Consejo por conducto de la persona que ejerza su presidencia, solicitará a personas físicas o morales, así como a los entes públicos, información relacionada con la tramitación de las quejas y reclamaciones.
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
 
 El Consejo estará facultado para realizar visitas para conocer y verificar la accesibilidad y no discriminación de espacios públicos que tengan relación con las reclamaciones que se tramiten, lo anterior se hará constar en el acta circunstanciada que al efecto elaborará la persona servidora pública correspondiente.
 
-Los servidores públicos del Consejo tendrán en sus actuaciones fe pública para certificar la veracidad de los hechos de los que tomen conocimiento en relación con las quejas o reclamaciones formuladas por la ciudadanía, de las declaraciones y hechos.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+Las personas servidoras públicas del Consejo tendrán en sus actuaciones fe pública para certificar la veracidad de los hechos de los que tomen conocimiento en relación con las quejas o reclamaciones formuladas por la ciudadanía, de las declaraciones y hechos.
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2020)</small>
 
@@ -897,11 +913,11 @@ En la contestación se afirmarán, refutarán o negarán todos y cada uno de los
 
 #### SECCIÓN TERCERA. DE LA RECLAMACIÓN Y DEL PROCESO DE CONCILIACIÓN
 
-> <small>(REFORMADO Y REUBICADO], P.O. 28 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
 
 ###### Artículo 39.
 
-La Reclamación es el procedimiento que se sigue ante el Consejo por hechos, acciones y omisiones presuntamente discriminatorias cometidas por los servidores públicos estatales en el ejercicio de sus funciones o con motivo de ellas.
+La Reclamación es el procedimiento que se sigue ante el Consejo por hechos, acciones y omisiones presuntamente discriminatorias cometidas por las personas servidoras públicas estatales en el ejercicio de sus funciones o con motivo de ellas.
 
 > <small>(REFORMADO Y REUBICADO], P.O. 28 DE FEBRERO DE 2020)</small>
 
@@ -997,7 +1013,9 @@ En caso de que la parte accionante no comparezca a la audiencia y justifique su 
 
 El Consejo en coordinación con las áreas técnicas, una vez agotada la etapa de Conciliación, iniciará la investigación de la controversia, ejerciendo las siguientes facultades:
 
-I. Solicitará a otras personas particulares, autoridades, servidores públicos, dependencias o entidades de los poderes públicos que hayan intervenido en los hechos o motivos de la controversia, la remisión de informes, documentos auténticos o certificados, relacionados con el asunto en materia de la investigación, en vía de pruebas complementarias;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+I. Solicitará a otras personas particulares, autoridades, personas servidoras públicas, dependencias o entidades de los poderes públicos que hayan intervenido en los hechos o motivos de la controversia, la remisión de informes, documentos auténticos o certificados, relacionados con el asunto en materia de la investigación, en vía de pruebas complementarias;
 
 II. Practicará inspecciones oculares en el o los lugares en que se presume ocurrieron los hechos, y
 
@@ -1160,5 +1178,11 @@ CUARTO.- La Comisión de Defensa de los Derechos Humanos hasta en tanto no entre
 P.O. 17 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL ARTÍCULO 6 BIS A LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE NAYARIT, EN MATERIA DE IGUALDAD SUSTANTIVA E INCLUSIÓN".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
