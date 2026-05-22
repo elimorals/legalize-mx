@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2025-11-14"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE, DE ACCESIBILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -283,6 +283,34 @@ En el ámbito de sus atribuciones, las autoridades en materia de movilidad deben
 
 El Estado y los municipios deberán vigilar, regular, y sancionar aquellos hechos que se constituyan como factores de riesgo para la movilidad según los criterios técnicos y prácticos para la prevención de accidentes basados en comprobación científica, así como los mecanismos apropiados para dicho fin, previstos en el Reglamento.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+###### Artículo 5 Bis.
+
+El Estado deberá garantizar el libre tránsito y el derecho a la movilidad de los vehículos foráneos que se encuentren de paso o en estancia temporal en el territorio del Estado, a través de la expedición del permiso turístico, el cual deberá ser solicitado de manera gratuita por personas usuarias de vehículos automotores.
+
+El permiso turístico tendrá las siguientes características:
+
+I. Se gestionará mediante plataformas digitales habilitadas por el Instituto de Control Vehicular, o físicamente en las oficinas del mismo, para lo cual se requerirá por lo menos:
+
+a) Tarjeta de circulación;
+
+b) Licencia para conducir vigente;
+
+c) Identificación oficial; y
+
+d) Seguro Vehicular.
+
+II. Su vigencia podrá ser uno hasta treinta días por año conforme sea solicitado por el usuario;
+
+III. El permiso será personal e intransferible, vinculado al número de placas y al propietario o conductor registrado;
+
+IV. Durante su vigencia, los vehículos con Permiso podrán circular libremente en el territorio del Estado; y
+
+V. Una vez que el usuario utilice los permisos a que se refiere la fracción II de este artículo, el usuario deberá registrar la inscripción del vehículo ante el Instituto, debiendo realizar el pago del refrendo anual que corresponda.
+
+Para los efectos del presente artículo, el permiso turístico, tiene como fin, garantizar la protección y seguridad de las personas foráneas, por lo que contarán con orientación e información de los programas y planes turísticos en coordinación con la Secretaría de Turismo.
+
 ### CAPÍTULO SEGUNDO. PRINCIPIOS
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2023)</small>
@@ -392,6 +420,10 @@ IX. Autobús Convencional: Vehículo de pasajeros con puerta de acceso ubicada d
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 X. Autobús Panorámico: Vehículo de pasajeros con puerta de acceso ubicada delante de sus ruedas frontales y con más de 10 metros de largo;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+X Bis. Automóvil compartido (carpool): Vehículo que utilizan varias personas que tienen el mismo destino, o cuentan con un recorrido o trayecto similar;
 
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
@@ -605,6 +637,10 @@ LXII. Ley: Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para e
 
 LXIII. Ley General: Ley General de Movilidad y Seguridad Vial;
 
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+LXIII. Bis. Medios de prepago: Aplicación móvil con QR determinadas por el Instituto de Movilidad y Accesibilidad y por Metrorrey, previa recomendación del Consejo Consultivo, para el pago de las tarifas por el uso de las diferentes modalidades de transporte público de pasajeros;
+
 > <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 LXIV. Metro: El sistema de transporte colectivo a base de vehículos eléctricos que conforman entre si un tren que circula por un viaducto;
@@ -673,6 +709,10 @@ LXXIX. Observatorios: Los Observatorios de Movilidad y Seguridad Vial;
 
 LXXX. Paradas: Lugar donde obligatoriamente se detienen los autobuses, midibuses y microbuses para realizar sólo labores de ascenso y descenso de pasajeros;
 
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+LXXX Bis. Permiso Turístico: Tarjeta digital gratuita expedida por el Instituto de Control Vehicular, que deberán portar las personas usuarias de los vehículos foráneos por tiempo determinado;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 LXXXI. Peatón: Persona que se traslada de un lugar a otro en la vía pública a pie, o que por su condición de discapacidad o de movilidad reducida utiliza ayuda técnica para desplazarse;
@@ -692,6 +732,10 @@ LXXXIV. Persona con movilidad reducida: Toda persona cuya movilidad se encuentre
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 LXXXV. Personas usuarias en situación de vulnerabilidad: Niñas y niños menores de doce años, personas adultas mayores, y personas con movilidad reducida;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+LXXXV Bis. Plan de Transporte Sostenible: Documento desarrollado por los centros de trabajo en el cual se contemplan alternativas para el desplazamiento de sus trabajadores hacia su lugar de trabajo. Su objetivo es recopilar información e identificar problemas para plantear medidas de actuación encaminadas a reducir la dependencia del vehículo particular, la implementación de servicios de transporte, la promoción del vehículo compartido (carpool) y el fomento a la movilidad activa;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
@@ -761,9 +805,9 @@ CI. Siniestro de tránsito: Cualquier suceso, hecho, accidente o evento en la v�
 
 CII. Sistema de Información Territorial y Urbano: Sistema al que hace referencia el artículo 27 de la presente Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-CIII. Sistema Único de Peaje: Sistema de cobro electrónico de la tarifa por los servicios de transporte público de pasajeros del SETRA que será compatible con el sistema de peaje del SETME;
+CIII. Sistema Único de Peaje: Sistema de cobro electrónico de la tarifa a través de medios electrónicos por los servicios de transporte público de pasajeros del SETRA que será compatible con el sistema de peaje del SETME;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
@@ -1141,6 +1185,10 @@ II. Implementar los programas y acciones necesarios en materia de prevención y 
 
 III. Coordinarse con las dependencias y entidades estatales, para emitir las normas técnicas en las materias objeto de esta Ley, establecer las acciones y estrategias de protección al medio ambiente, que estén vinculadas al impulso de la utilización de energías de bajo carbono en la prestación de los servicios de transporte, en los términos de la Ley Ambiental del Estado de Nuevo León y su Reglamento;
 
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+III Bis. Celebrar convenios de colaboración con municipios y sectores público, privado y social a fin de promover e instalar ceniceros de pie con contenedor de basura para residuos sólidos urbanos cerca de las áreas y lugares destinados al ascenso y descenso de pasajeros;
+
 IV. Colaborar con las autoridades municipales en la implementación de acciones y estrategias que incidan en la reducción de los percances viales y aumenten la seguridad vial;
 
 V. Colaborar con el Instituto, su Comité Técnico, y los Municipios, en la realización de los estudios necesarios para la creación, redistribución, modificación y adecuación de las vialidades, con el fin de lograr una mejor utilización de las mismas y brindar prioridad a las personas con discapacidad, al peatón, al ciclista y al usuario de transporte público;
@@ -1167,21 +1215,23 @@ XIV. Definir dentro de los programas de ordenamiento territorial y de desarrollo
 
 XV. Emitir en coordinación con el Instituto los lineamientos, manuales y criterios para el diseño de la infraestructura y equipamiento para la movilidad, con la participación de los Municipios y de la sociedad en general;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XVI. Establecer programas de sustitución para el pago del transporte público SETME y SETRA mediante mecanismos de reciclaje de botellas de plástico, en los cuales los usuarios del transporte, puedan canjear por bonos, tarjeta, boletos u otro instrumento de cambio que determine la autoridad.
+XVI. Deberá elaborar, ejecutar y promover de manera permanente en colaboración con el Instituto y otras autoridades de la Administración Pública Estatal y municipales programas de incentivos para el uso del transporte público SETME y SETRA a través de mecanismos de reciclaje de botellas de plástico, aluminio, desechos electrónicos, papel y vidrio;
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2025)</small>
+Los programas deberán garantizar al menos un centro de reciclaje en operación en cada municipio de la zona metropolitana, y deberán desarrollarse con base en los principios de accesibilidad, sustentabilidad ambiental, equidad social, participación ciudadana y priorizando los sectores vulnerables.
 
-Para ello la autoridad podrá realizar convenios de colaboración con las empresas legalmente establecidas dedicadas al reciclaje de productos de botellas de plástico clasificados como tales, con el objeto de establecer disposiciones dirigidas para llevar a cabo los programas y especificaciones que determine la secretaría, con atención a lo dispuesto por el párrafo segundo del artículo 17 de esta Ley;
+Para ello la autoridad podrá realizar convenios de colaboración con las empresas legalmente establecidas dedicadas al reciclaje de productos de botellas de plástico clasificados como tales, con el objeto de establecer disposiciones dirigidas para llevar a cabo los programas y especificaciones que determine la secretaría, con atención a lo dispuesto por el párrafo segundo del artículo 17 de esta Ley.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2025)</small>
+La Secretaría deberá publicar anualmente un informe sobre el impacto del programa, incluyendo cantidad de residuos recolectados, número de usuarios beneficiados y el nivel de reducción estimada de emisiones;
 
-XVII. Implementar el uso de tecnologías avanzadas e inteligencia artificial para optimizar la estructura general del sistema de transporte público, así como el itinerario o recorrido de las rutas y sus respectivos ramales; y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2025)</small>
+XVII. Fomentar la elaboración del Plan de Transporte Sostenible en los centros de trabajo que corresponda; y
 
-XVIII. Las demás atribuciones que le otorguen la presente Ley, su Reglamento y otros ordenamientos jurídicos aplicables en la materia siempre y cuando no contravengan esta Ley.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XVIII. Las demás atribuciones que le otorguen la presente Ley, su Reglamento y otros ordenamientos jurídicos aplicables en la materia siempre y cuando no contravengan esta Ley;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2022)</small>
 
@@ -1392,6 +1442,14 @@ Los municipios que integren áreas conurbadas, metropolitanas o Regiones, en los
 ###### Artículo 18 Bis.
 
 En el caso de la zona metropolitana del Estado, su planeación y regulación en materia de movilidad y seguridad vial se podrá realizar de manera conjunta y coordinada entre Municipios, a través de sus instancias de gobernanza establecidas por la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, mediante convenios de coordinación que para tal efecto se elaboren, con apego a la dispuesto en este (sic) Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2026)</small>
+
+En las vialidades colindantes entre Municipios metropolitanos, los contraflujos vehiculares deberán establecerse con base en estudios técnicos de factibilidad realizados por los municipios colindantes de mutuo acuerdo. Su implementación será provisional o permanente según lo determinen en el acuerdo respectivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2026)</small>
+
+Los Municipios colindantes de la Zona Metropolitana deberán coordinarse entre sí y con el Instituto para integrar y operar un Sistema Integral Metropolitano de Semaforización, garantizando la sincronización de semáforos, mantenimiento y aplicación de criterios técnicos uniformes en toda la Zona Metropolitana. Para tal efecto, podrán apoyarse en los agentes de tránsito de cada corporación municipal, a fin de supervisar y asegurar la correcta operación de las vialidades.
 
 ###### Artículo 19.
 
@@ -1647,17 +1705,21 @@ XV. Un representante de la Cámara de la Industria de la Transformación en Nuev
 
 XVI. Cuatro representantes de los prestadores del servicio de vehículos de alquiler nombrados respectivamente por las siguientes organizaciones en el Estado de Nuevo León, procurando la observancia del principio de paridad de género: Asociación Neolonesa del Autotransporte Ecológico, ANAE, Confederación Revolucionaria de Obreros y Campesinos, CROC, la Confederación de Trabajadores de México, CTM y Sindicato de Trabajadores del Transporte en general, industria, construcción, similares y conexos;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XVII. Dos representantes de Colectivos y Organizaciones No Gubernamentales, mismos que designará el Congreso del Estado, previa convocatoria pública procurando la observancia del principio de paridad de género; y
+XVII. Cuatro representantes de Colectivos y Organizaciones No Gubernamentales, mismos que designará el Congreso del Estado, previa convocatoria pública procurando la observancia del principio de paridad de género;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XVIII. Un representante de colegios y asociaciones de arquitectos e ingenieros de Nuevo León, designados por el Congreso del Estado, previa convocatoria pública, procurando la observancia del principio de paridad de género.
+XVIII. Un representante de colegios y asociaciones de arquitectos e ingenieros de Nuevo León, designados por el Congreso del Estado, previa convocatoria pública, procurando la observancia del principio de paridad de género; y
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2022)</small>
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
 
-Los integrantes que señalan la fracción (sic) XVII y XVIII durarán en su encargo un año a partir de su nombramiento. Los cargos dentro de la Junta de Gobierno serán de carácter honorífico, no obstante lo anterior, por los actos de Autoridad emitidos dentro de la Junta de Gobierno, serán sujetos de responsabilidad en los términos de la Ley de Responsabilidades Administrativas del Estado. Cada integrante deberá designar un suplente para que, debidamente acreditado, cubra sus ausencias temporales. La designación del suplente deberá recaer en una misma persona; esta atribución es indelegable a fin de garantizar la continuidad de los trabajos. Cuando un presidente municipal designe suplente, éste deberá ser otro presidente municipal. En el caso del Presidente de la Junta de Gobierno, su ausencia será suplida por la persona titular de la Secretaria. En el caso de los Secretarios del Gabinete, su suplente deberá ser un subsecretario.
+XIX. Dos representantes de las personas usuarias del transporte público, designados por el Congreso del Estado, previa convocatoria pública.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+Los integrantes que señalan las fracciones XVII, XVIII y XIX durarán en su encargo tres años a partir de su nombramiento, o en su defecto, hasta que el Congreso del Estado proceda a la designación de sus sucesores, una vez concluido el período correspondiente. Los cargos dentro de la Junta de Gobierno serán de carácter honorífico, no obstante, lo anterior, por los actos de Autoridad emitidos dentro de la Junta de Gobierno, serán sujetos de responsabilidad en los términos de la Ley de Responsabilidades Administrativas del Estado. Cada integrante deberá designar un suplente para que, debidamente acreditado, cubra sus ausencias temporales. La designación del suplente deberá recaer en una misma persona; esta atribución es indelegable a fin de garantizar la continuidad de los trabajos. Cuando un presidente municipal designe suplente, éste deberá ser otro presidente municipal. En el caso del Presidente de la Junta de Gobierno, su ausencia será suplida por la persona titular de la Secretaria. En el caso de los Secretarios del Gabinete, su suplente deberá ser un subsecretario.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2025)</small>
 
@@ -1711,7 +1773,9 @@ X. Aprobar la solicitud de la contratación de financiamiento en los términos d
 
 XI. Autorizar al Comité Técnico los recursos económicos necesarios, pudiendo gestionar recursos federales, municipales o de otras instituciones públicas o privadas;
 
-XII. Autorizar las tarifas del servicio de transporte público que proponga el Comité Técnico y que haya emitido opinión el Consejo Consultivo;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XII. Autorizar o rechazar la propuesta anual de revisión tarifaria con base en la recomendación y opinión que le realicen el Comité Técnico y el Consejo Consultivo de Movilidad y Accesibilidad, la cual en su caso solo se podrá efectuar una vez al año;
 
 XIII. Requerir opinión al Comité Técnico, respecto a los dictámenes y/o estudios que así lo requieran; y
 
@@ -1799,7 +1863,9 @@ X. Elaborar estudios de tránsito para determinar capacidades y niveles de servi
 
 XI. Elaborar estudios que establezcan y fundamenten medidas que mejoren la seguridad vial en la red;
 
-XII. Elaborar análisis de demanda de transporte, considerando los factores técnicos, sociales y económicos, proponer a la Junta de Gobierno las tarifas del servicio de transporte público, las cuales se definirán conforme a los procedimientos y formas de determinación que señale el Reglamento de la presente ley;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XII. Elaborar análisis de demanda de transporte, considerando los factores técnicos, sociales y económicos, proponer anualmente a la Junta de Gobierno las tarifas por servicios de transporte público, las cuales se definirán conforme a los procedimientos y formas de determinación que señale el Reglamento de la presente ley;
 
 XIII. Elaborar estudios del impacto al sistema de movilidad a causa de desarrollos urbanos de gran magnitud;
 
@@ -1915,7 +1981,9 @@ II. Proponer al Instituto la realización de acciones de mejora y aseguramiento 
 
 III. Nombrar a los integrantes de las Comisiones ordinarias y especiales así como a sus coordinadores;
 
-IV. Emitir recomendaciones al Comité Técnico sobre las tarifas del servicio público de pasajeros con base a los estudios técnicos y financieros;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+IV. Emitir recomendaciones al Comité Técnico sobre las tarifas del servicio público de pasajeros, competencia del Instituto y de Metrorrey, con base a los estudios técnicos y financieros;
 
 V. Auxiliar en la planeación y diseño de proyectos de transporte y vialidad, que involucren o requieran la coordinación con los Gobiernos Federal y Municipal;
 
@@ -1933,7 +2001,13 @@ XI. Emitir recomendaciones administrativas al Instituto;
 
 XII. Emitir opinión al Instituto respecto a la implementación de políticas públicas para la disminución de las emisiones generadas por fuentes móviles, así como en el diseño, implementación y fomento de la movilidad no motorizada; y
 
-XIII. Las demás que expresamente le fijen esta Ley y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2026)</small>
+
+XIII. Promover ante la autoridad competente, de conformidad con la Ley de Participación Ciudadana para el Estado de Nuevo León, las consultas ciudadanas en materia de movilidad, accesibilidad y transporte público, cuando las modificaciones propuestas impliquen un impacto directo en una comunidad, colonia o zona determinada; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE MAYO DE 2026)</small>
+
+XIV. Las demás que expresamente le fijen esta Ley y otras disposiciones legales.
 
 ###### Artículo 50.
 
@@ -1993,9 +2067,17 @@ s) Un diputado local designado por el Pleno del Congreso del Estado;
 
 t) Un representante de los prestadores del servicio público de taxis en Nuevo León;
 
-u) Un representante de la Unión de Choferes Tierra y Libertad; y
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
 
-v) Un representante del Consejo para Personas con Discapacidad.
+u) Un representante de la Unión de Choferes Tierra y Libertad;
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+v) Un representante del Consejo para Personas con Discapacidad; y
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+w) Un representante del Consejo de Participación Ciudadana del Instituto Estatal de las Mujeres.
 
 En caso de ausencia del Presidente del Consejo, será su Vicepresidente quien ejerza las atribuciones que le correspondan. El resto de los miembros del Consejo designarán a un suplente a excepción de los ratificados por el H. Congreso, quien tendrá las mismas atribuciones que el titular y deberá estar legalmente acreditado en los registros de la Secretaría del Consejo. Los cargos dentro del Consejo serán de carácter honorífico, y tendrán una duración de cuatro años.
 
@@ -2225,6 +2307,12 @@ III. Las Dependencias y Entidades de la Administración Pública Estatal y los m
 
 El Instituto y los Municipios promoverán y ejecutarán acciones en materia de seguridad y educación vial para los peatones, conductores, ciclistas, usuarios del servicio público y especial de transporte; y población en general, haciendo uso de los diferentes medios de comunicación, los avances tecnológicos.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+###### Artículo 60 Bis.
+
+El Instituto y los Municipios promoverán e implementarán un programa de capacitación para autoridades estatales y municipales en materia de seguridad ciclista, con el objetivo de fortalecer la vigilancia, el diseño urbano y la atención a incidentes viales que involucren a ciclistas.
+
 ###### Artículo 61.
 
 El Instituto y los Municipios en coordinación con la Secretaría de Educación, promoverá en la educación preescolar, primaria, secundaria, nivel medio superior y superior la impartición de cursos y talleres de educación, seguridad, cultura peatonal y vial.
@@ -2421,9 +2509,9 @@ XIII. La supervisión de pesos y dimensiones de todos los vehículos motorizados
 
 XIV. Medidas para la prevención y mitigación de factores de riesgo.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XIV. Medidas para la prevención y mitigación de factores de riesgo; y
+XIV. Medidas para la prevención y mitigación de factores de riesgo;
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
@@ -2432,6 +2520,14 @@ XV. Establecer disposiciones que regulen la obligatoriedad para que las personas
 > <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XV, P.O. 3 DE OCTUBRE DE 2025.]</small>
 
 Esta medida aplicará, siempre y cuando, cuenten con seguro vehicular vigente, existan solo daños materiales en los vehículos involucrados y estos se encuentren en condiciones de circular, así como no existan indicios que ninguno de los conductores involucrados se encuentre bajo los efectos del alcohol o de cualquier tipo de estupefaciente. De igual forma se deberá establecer los supuestos específicos y las sanciones correspondientes para su aplicación eficaz.
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XVI. La prohibición de realizar alteración, sustitución o modificación al silenciador de fábrica de un vehículo, así como a la instalación de cualquier dispositivo en el sistema de escape que genere emisiones sonoras superiores a los límites establecidos en las disposiciones normativas correspondientes; y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XVII. La prohibición de instalar, sustituir o modificar bocinas (claxon) que generen emisiones sonoras superiores a los límites máximos permitidos por la normatividad aplicable o que produzcan sonidos distintos a los previstos por el fabricante para el modelo correspondiente.
 
 El Estado y los Municipios podrán prever en los convenios de coordinación metropolitana, la armonización de los reglamentos aplicables, y la estandarización de procesos y capacitaciones relacionadas con lo establecido en el presente artículo.
 
@@ -2567,6 +2663,30 @@ El Estado y los Municipios, deberán proveer en las localidades rurales transpor
 
 Asimismo, deberán establecer rutas de transporte público destinadas a facilitar a las personas trabajadoras el desplazamiento a sus centros de trabajo.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+###### Artículo 69 Bis 1.
+
+Queda prohibida la cancelación, suspensión, fusión o modificación sustancial de rutas del Sistema Estatal de Transporte Metropolitano (SETME) y del Sistema Estatal de Transporte de Ruta Alimentadora (SETRA) salvo que previamente se cumplan los siguientes requisitos:
+
+I. La existencia de un dictamen técnico-operativo elaborado por el Comité Técnico y aprobado por la Junta de Gobierno, en el que se evalúe el impacto en los tiempos de espera, suficiencia de unidades y demanda de pasajeros. Este dictamen deberá garantizar que cualquier modificación no incremente los tiempos de espera para las personas usuarias;
+
+II. La realización de una consulta a la ciudadanía de la zona afectada, con la participación de personas usuarias y residentes, la cual se realizará conforme a lo siguiente:
+
+a) La consulta deberá garantizar la exposición de alternativas y las justificaciones técnicas, económicas y sociales que sustenten la modificación propuesta;
+
+b) La organización, desarrollo y validación de la consulta estará a cargo del Consejo Consultivo de Movilidad y Accesibilidad, en coordinación con el municipio correspondiente, quienes la llevarán a cabo a través de asambleas vecinales o mecanismos participativos equivalentes, que aseguren representatividad y transparencia, de lo cual se le informará al Consejo;
+
+c) El Instituto, participará únicamente con carácter técnico, con el objeto de integrar los resultados de la consulta en el dictamen o resolución correspondiente; y
+
+d) Los resultados de la consulta deberán ser considerados de carácter determinante para la autoridad competente, siempre que el procedimiento haya sido debidamente validado por el Consejo Consultivo.
+
+III. La garantía de continuidad operativa, asegurando que toda fusión o modificación de rutas mantenga frecuencias mínimas aceptables, el número suficiente de unidades y operadores, así como la distribución territorial de los recorridos sin reducir la conectividad de las colonias afectadas, sin disminución alguna en el nivel de servicio;
+
+IV. La implementación simultánea de una ruta alternativa, en caso de cancelación o modificación sustancial, con cobertura, frecuencia y conectividad equivalentes a la ruta original. Esta sustitución deberá ser aprobada por la Junta de Gobierno y comunicada públicamente con al menos quince días naturales de anticipación; y
+
+Toda cancelación, fusión o modificación realizada sin observar este procedimiento será considerada una afectación grave al derecho a la movilidad, dando lugar a sanciones conforme a las disposiciones aplicables.
+
 ###### Artículo 70.
 
 Son derechos de los usuarios del servicio de Transporte Público:
@@ -2591,7 +2711,9 @@ e) Padres y madres de familias monoparentales en las que la patria potestad reca
 
 f) Estudiantes de cualquier grado en Instituciones Incorporadas a la Secretaría de Educación.
 
-Para garantizar la transparencia en la asignación de tarifas preferenciales, se deberá cumplir con los requisitos que se establezcan en el Reglamento.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+Para garantizar la transparencia en la asignación de tarifas preferenciales, se deberá cumplir con los requisitos que se establezcan en la presente Ley y en su Reglamento.
 
 IV. A contar con un sistema físico y virtual, efectivo y transparente para quejas y denuncias;
 
@@ -3053,7 +3175,17 @@ V. Bolsas de aire frontales, frenos ABS o superiores, aire climatizado; y
 
 VI. Verificación vehicular anual en los términos que los señale el Instituto.
 
-La violación a este artículo será considerada grave para efectos de sanciones.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2026)</small>
+
+En ningún caso podrán registrar, habilitar ni permitir la operación, en sus plataformas, de vehículos que no cumplan o dejen de cumplir con los requisitos y características establecidos en la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+Asimismo, el Instituto deberá notificar a las personas propietarias de los vehículos registrados cuando la antigüedad máxima permitida esté próxima a vencerse, con al menos noventa días naturales de anticipación.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE MAYO DE 2026)</small>
+
+La violación a este artículo será considerada grave para efectos de sanciones
 
 ###### Artículo 106.
 
@@ -3239,7 +3371,9 @@ Se sancionará en los términos establecidos por el artículo 120 del presente o
 
 I. El conductor y/o su acompañante no porte debidamente colocado y ajustado con las correas de seguridad, casco protector para motociclista;
 
-II. Llevar como acompañante a un menor de edad que no pueda sujetarse por sus propios medios y alcanzar el posapiés que tenga la motocicleta para ese efecto;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+II. Llevar como acompañante a un menor de edad, que, aun estando correctamente sentado, no pueda sujetarse por sí mismo a la motocicleta o colocar de manera adecuada y firme los pies en los estribos o posapiés, salvo que se utilicen aditamentos especialmente diseñados para garantizar su seguridad.
 
 III. Cuando se exceda la capacidad de pasajeros que señale la tarjeta de circulación;
 
@@ -3549,7 +3683,9 @@ La Interconexión de viaductos y vialidades con las modalidades de servicio a tr
 
 I. Terminales de Integración: Áreas básicas del sistema para ascenso y descenso de pasajeros que sirven como centro de confluencia de diferentes modalidades del transporte público de pasajeros y la Red Troncal;
 
-II. Sistema de Peaje: Sistema de cobro electrónico de tarifa multimodal que sirve para la utilización de los diversos servicios del servicio de transporte;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+II. Sistema de Peaje: Sistema de cobro a través de medios de prepago que sirve para la utilización de los diversos servicios del servicio de transporte;
 
 III. Sistema de Control de Operación: Medios electrónicos que dan prioridad a la circulación del transporte público y/o ajustan la frecuencia de paso de los vehículos a la demanda de usuarios;
 
@@ -3582,6 +3718,10 @@ VI. Paradas: Lugar donde obligatoriamente se detienen los autobuses, midibuses y
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2025)</small>
 
 Los materiales para la construcción de las estaciones inteligentes sustentables que se mencionan en la fracción IV del presente artículo buscarán ser preferentemente de material reciclable.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+Los ceniceros de pie con contenedor de basura, previstos en el inciso g) de la fracción IV del presente artículo, deberán instalarse en un lugar próximo a la estación, procurando en todo momento que su ubicación no interfiera ni contravenga la delimitación del espacio declarado como 100% libre de humo de tabaco y emisiones, de conformidad con la normativa aplicable.
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2025)</small>
 
@@ -3689,9 +3829,15 @@ Este sistema deberá ser compatible con el sistema único de peaje del SETME.
 
 El cobro del servicio de transporte Servicio de Taxi deberá posibilitarse por medio del sistema único de peaje y por medio de pago en efectivo, el Reglamento de la Ley establecerá los mecanismos y plazos para la implementación del Sistema de Peaje.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 144.
 
-El Sistema único de Peaje del servicio de transporte, deberá utilizar exclusivamente medios electrónicos para el cobro de las tarifas e incorporar de manera eficiente los avances tecnológicos a que haya lugar en esta materia. El recaudo llevado a cabo mediante el Sistema de Peaje se realizará exclusivamente en los términos de las concesiones y permisos que para la prestación de dichos servicios expida el Instituto.
+El Sistema único de Peaje del servicio de transporte, deberá utilizar medios electrónicos para el cobro de las tarifas e incorporar de manera eficiente los avances tecnológicos a que haya lugar en esta materia. El recaudo llevado a cabo mediante el Sistema de Peaje se realizará exclusivamente en los términos de las concesiones y permisos que para la prestación de dichos servicios expida el Instituto.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+Se deberá realizar la revisión tarifaría conforme al procedimiento, plazos y condicionamientos establecidos en esta Ley y su Reglamento.
 
 ###### Artículo 145.
 
@@ -4127,6 +4273,12 @@ Todo permiso que no establezca una fecha de vigencia o se plasme como indefinida
 
 La vigencia de los permisos para el STDE será por un plazo no mayor de cinco años, aquel que se proporcione a grupos mayores a cinco personas, que cuente con un destino específico.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+###### Artículo 173 Bis.
+
+El permiso otorgado bajo la modalidad STDE podrá ser suspendido por el tiempo que determine la autoridad competente cuando alguna unidad de transporte de personal o de transporte turístico resulte responsable en un accidente de tránsito derivado del incumplimiento a lo dispuesto en la presente Ley, en los Reglamentos Municipales de Tránsito y/o en el Reglamento de esta Ley, conforme a lo establecido en el artículo 116 Bis del presente ordenamiento.
+
 > <small>(F. DE E., P.O. 24 DE ENERO DE 2020)</small>
 
 ###### Artículo 174.
@@ -4250,6 +4402,14 @@ Los municipios implementarán programas permanentes de uso de automóvil compart
 Dichos programas deberán ser inscritos ante el Instituto y supervisados por el mismo.
 
 Los municipios, mediante convenio con el Instituto podrán solicitar el apoyo de recursos económicos, materiales y humanos para la operación de los programas de auto compartido.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+###### Artículo 186 Bis.
+
+Los centros de trabajo cuya plantilla laboral exceda de trescientos trabajadores podrán elaborar, implementar y difundir un Plan de Transporte Sostenible.
+
+Dicho plan deberá incluir una evaluación periódica de los patrones de desplazamiento de su personal, con el objeto de proponer y promover alternativas de movilidad hacia y desde el centro de trabajo, priorizando el bienestar de las personas trabajadoras, la reducción de la congestión vehicular, la disminución de la contaminación atmosférica y la mitigación de emisiones de gases de efecto invernadero.
 
 ## TÍTULO DÉCIMO PRIMERO. INSPECCIÓN Y VIGILANCIA
 
@@ -4902,3 +5062,17 @@ P.O. 14 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 146. SE REFORMA LA FRACCIÓN XVI, XVII, XVIII, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 27, EL ARTÍCULO 35, EL INCISO A) DE LA FRACCIÓN IV DEL ARTÍCULO 50, TODO DE LA LEY DE MOVILIDAD SOSTENIBLE, DE ACCESIBILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 UNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 209. SE REFORMA LA FRACCIÓN CIII AL ARTÍCULO 8, LAS FRACCIONES XVI, XVII Y XVIII DEL ARTÍCULO 12, EL ARTÍCULO 18 BIS, LAS FRACCIONES XVII, XIX Y SEGUNDO PÁRRAFO DEL ARTÍCULO 27, LA FRACCIÓN XII DEL ARTÍCULO 30, LA FRACCIÓN XII DEL ARTÍCULO 39, LA FRACCIÓN XIII DEL ARTÍCULO 49, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 70, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 105, LA FRACCIÓN II DEL ARTÍCULO 120 BIS, LA FRACCIÓN II DEL ARTÍCULO 133; Y SE ADICIONA EL ARTÍCULO 5 BIS, LA FRACCIÓN X, LXIII BIS, LXXX BIS Y LXXXV BIS AL ARTÍCULO 8, LA FRACCIÓN III BIS AL ARTÍCULO 12, LA FRACCIÓN XIX AL ARTÍCULO 27, LA FRACCIÓN XIV AL ARTÍCULO 49, EL INCISO W) AL ARTÍCULO 50, EL ARTÍCULO 60 BIS 1, LA FRACCIÓN XVII AL ARTÍCULO 68 BIS 1, EL ARTÍCULO 69 BIS 1, EL TERCER Y CUARTO PÁRRAFO AL ARTÍCULO 105, EL TERCER PÁRRAFO AL ARTÍCULO 133, EL SEGUNDO PÁRRAFO AL ARTÍCULO 144, EL ARTÍCULO 173 BIS, EL ARTÍCULO 186 BIS, TODO DE LA LEY DE MOVILIDAD SOSTENIBLE, DE ACCESIBILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La persona Titular del Poder Ejecutivo, contará con un plazo de 120 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
+
+TERCERO.- El Instituto de Control Vehicular deberá emitir, en un plazo no mayor a treinta días naturales, contados a partir de la entrada en vigor del presente decreto, los lineamientos necesarios para su implementación, operación, control y seguimiento del Permiso turístico.
+
+CUARTO.- Los municipios del Estado en lo que es materia de su competencia deberán homologar sus reglamentos en un plazo no mayor a 90 días hábiles, a partir de la entrada en vigor del presente decreto.
+
+QUINTO.- El Gobierno del Estado, a través del Instituto (sic) Control Vehicular, en un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente decreto, deberá compartir los medios de identificación vehicular, y demás registros, datos e información previstos en la Ley, mediante convenio que celebre con los Centros de Control, Comando, Comunicaciones y Cómputo de los municipios.
