@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-familiar-del-estado-de-tamaulipas-43166"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-28"
-last_updated: "2026-03-30"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:22 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 28 de diciembre de 2004.
 
@@ -555,6 +555,10 @@ La facultad de corregirlos será siempre mediante formas de crianza positiva y p
 
 2. En situaciones de suma urgencia podrán los padres, de común acuerdo, confiar tal cuidado mientras dure la misma, a persona de su confianza, sin que por tal razón desatiendan sus deberes paternos. Esta facultad la tiene también el padre o la madre que en forma exclusiva ejerza el cuidado personal del hijo.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+3. El deber de cuidado comprende la obligación de proteger a niñas, niños y adolescentes contra cualquier forma de violencia, abuso o explotación, en particular la explotación sexual y su posible vinculación con actividades de turismo sexual infantil, debiendo adoptar las medidas de vigilancia necesarias y dar aviso inmediato a las autoridades competentes cuando exista riesgo o indicio de tales conductas.
+
 ###### ARTICULO 37.
 
 1. Cuando el padre y la madre no convivan con su hijo, deberán mantener con él las relaciones afectivas y el trato personal que favorezcan el normal desarrollo de su personalidad.
@@ -884,6 +888,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 30 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1015 MEDIANTE EL CUAL SE REFORMA EL NUMERAL 2 DEL ARTÍCULO 2 DE LA LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1058 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, Y LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
