@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2026-04-21"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -2043,15 +2043,9 @@ Si la enfermedad es incurable, se le impondrán al sujeto de dos a diez años de
 
 Este delito se perseguirá por querella de la víctima.
 
-(NOTA: EL 23 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 117/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE ABRIL DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 491, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2024)</small>
-
 ###### Artículo 170 Bis.
 
-A quien elabore, falsifique, altere o posea medicamentos clonados, alterados y/o caducados con fines de venta, comercialización, circulación y/o distribución de éstos en vía pública; de manera directa o en establecimientos no autorizados, así como el decomiso de los productos u objetos del delito, se le impondrá una pena de tres a ocho años de prisión y una multa de ciento cincuenta a cuatrocientos del valor diario de la Unidad de Medida y Actualización.
-
-Estas sanciones serán independientes de las que establezca el Artículo 464 Bis de la la (sic) Ley General de Salud y las que se desprendan tanto de la Ley de Salud del Estado y la Ley de Responsabilidades Administrativas del Estado de Guerrero.
+(DEROGADO, P.O. 22 DE MAYO DE 2026)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE ENERO DE 2026)</small>
 
@@ -3279,27 +3273,13 @@ II. Por una o más personas armadas o portando instrumentos peligrosos.
 
 Se equipara a la violencia moral, la utilización de juguetes u otros objetos que tengan la apariencia, forma o configuración de armas de fuego, o de pistolas de municiones o aquellas que arrojen proyectiles a través de aire o gas comprimido.
 
-(NOTA: EL 23 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 117/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE ABRIL DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 491, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2024)</small>
-
 ###### Artículo 229 Bis.
 
-Robo de medicamentos.
-
-Comete el delito de robo de medicamentos, quien sustraiga o se apodere de forma indebida de dichos medicamentos destinados para la atención médica del sector salud del Estado de Guerrero y cuyo objetivo sea lucrar o utilizarlo para beneficio propio. Este delito se sancionará de cuatro a seis años de prisión y multa de mil veces el valor diario de la unidad de medida y actualización. A quien utilice, trafique o comercialice con los medicamentos robados, se le impondrán de seis a doce años y multa de dos mil veces el valor diario de la unidad de medida y actualización.
-
-Estas sanciones serán independientes de las que establezca el Artículo 464 Bis de la la (sic) Ley General de Salud del Estado y las que se desprendan tanto de la Ley de Salud y la Ley de Responsabilidades Administrativas del Estado de Guerrero.
-
-(NOTA: EL 23 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 117/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE ABRIL DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 491, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2024)</small>
+(DEROGADO, P.O. 22 DE MAYO DE 2026)
 
 ###### Artículo 229 Ter.
 
-Agravantes específicas.
-
-Si el delito de robo de medicamentos se realiza por un servidor público, además de las penas señaladas, se le destituirá del cargo que ostente y se inhabilitará hasta por cinco años para ocupar cualquier otro cargo público.
+(DEROGADO, P.O. 22 DE MAYO DE 2026)
 
 ###### Artículo 230.
 
@@ -6052,3 +6032,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 517 POR EL QUE SE DEROGAN LOS ARTÍCULOS 170 BIS, 229 BIS Y 229 TER DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente en la Gaceta Parlamentaria, en el Portal web del H: (sic) Congreso del Estado y difundirse a través de los medios oficiales para su conocimiento general.
