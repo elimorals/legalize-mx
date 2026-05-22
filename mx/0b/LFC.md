@@ -4,7 +4,7 @@ identifier: "LFC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-29"
-last_updated: "2021-03-22"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LFC"
 ---
 # LEY FEDERAL DE CINEMATOGRAFIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CINE Y EL AUDIOVISUAL, PUBLICADA EN EL D.O.F. DE 22 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY FEDERAL DE CINEMATOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2026 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el martes 29 de diciembre de 1992.
 
@@ -801,3 +803,29 @@ D.O.F. 22 DE MARZO DE 2021.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El Poder Ejecutivo Federal contará con un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para modificar el Reglamento de la Ley Federal de Cinematografía y demás disposiciones que deriven de esta.
+
+D.O.F. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE CINE Y EL AUDIOVISUAL, Y SE ABROGA LA LEY FEDERAL DE CINEMATOGRAFÍA”.]
+
+Primero. El presente Decreto entra en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley Federal de Cinematografía publicada en el Diario Oficial de la Federación el 29 de diciembre de 1992.
+
+Tercero. Se derogan todas las disposiciones que se opongan a lo establecido en este Decreto.
+
+Cuarto. El Poder Ejecutivo Federal deberá expedir el Reglamento en un plazo no mayor de 180 días hábiles contados a partir del día de la entrada en vigor de la presente Ley.
+
+Quinto. Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se oponga a la presente Ley, en tanto se expidan las que deban sustituirlas.
+
+Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho conforme a las disposiciones jurídicas aplicables al momento de su recepción.
+
+Sexto. La Secretaría de Gobernación deberá emitir y adecuar los acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a 220 días hábiles siguientes contados a partir de la entrada en vigor del presente Decreto.
+
+Séptimo. En las disposiciones reglamentarias y administrativas que se emitan con motivo del presente Decreto, se determinarán los plazos para que los particulares den cumplimiento a las obligaciones y deberes señalados en la presente Ley.
+
+Octavo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables, por lo que no se autorizarán ampliaciones a su presupuesto, y en caso de que se efectúe alguna modificación a su estructura orgánica, deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
+
+Noveno. A la entrada en vigor del presente Decreto, el Poder Ejecutivo Federal, los órganos de gobierno y demás instancias respectivas realizarán las modificaciones que correspondan a los instrumentos de creación de las entidades paraestatales de la Administración Pública Federal denominadas Instituto Mexicano de Cinematografía; Centro de Capacitación Cinematográfica, A.C.; Estudios Churubusco Azteca, S.A., y Fideicomiso para la Cineteca Nacional, a más tardar en 180 días hábiles.
+
+Dichas entidades paraestatales, sin perjuicio de las disposiciones contenidas en la presente Ley y su Reglamento, quedan sujetas por cuanto a su constitución, organización, funcionamiento, control, evaluación y regulación a sus instrumentos de creación y demás normativa aplicable a las mismas.
