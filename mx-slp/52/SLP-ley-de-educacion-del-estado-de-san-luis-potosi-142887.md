@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2026-04-30"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -981,7 +981,13 @@ Sin perjuicio de la aplicación de las demás disposiciones en la materia, en la
 
 Las y los docentes y el personal que labora en los planteles de educación deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
 
-En caso de que los docentes, el personal que labora en los planteles educativos, así como las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
+En caso de que los docentes, el personal que labora en los planteles educativos, así como las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente, siguiendo los protocolos de actuación que para tal efecto se emitan.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+La omisión de esta obligación será sancionada conforme a la legislación penal aplicable y a las disposiciones administrativas correspondientes, garantizando en todo momento el interés superior de la niñez.
 
 Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres y padres de familia o tutores o quienes ejerzan la patria potestad, las autoridades escolares de las escuelas públicas y privadas del tipo básico deberán dar aviso a las instancias encargadas de la protección de los derechos de niñas, niños y adolescentes, para los efectos correspondientes, en términos de la legislación aplicable.
 
@@ -1013,9 +1019,11 @@ IX. Elaborar y difundir materiales educativos para la prevención y atención de
 
 X. Elaborar y difundir materiales educativos para la prevención del embarazo en niñas, niños y adolescentes, así como relativas al suicidio.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 85.
 
-Las autoridades educativas estatal y municipales, en el ámbito de su respectiva competencia, emitirán los lineamientos para los protocolos de actuación que sean necesarios para el cumplimiento del artículo 83 de esta Ley, entre otros, para la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario contra cualquier integrante de la comunidad educativa, para su detección oportuna y para la atención de accidentes que se presenten en el plantel educativo. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
+Los protocolos de actuación que refiere el artículo 83 de esta Ley entre otros, serán elaborados de manera conjunta por la Autoridad Educativa Estatal, Fiscalía General del Estado, el Sistema Estatal para el Desarrollo Integral de la Familia, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado y la Comisión Estatal de Derechos Humanos, para la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario contra cualquier integrante de la comunidad educativa, para su detención oportuna y para la atención de accidentes que se presenten en el plantel educativo, A su vez, determinará, los mecanismos para la medición y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
 
 ## TÍTULO QUINTO. Revalorización de las Maestras y los Maestros
 
@@ -2264,3 +2272,11 @@ P.O. 30 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0515.- QUE REFORMA EL ARTÍCULO 48, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ; Y REFORMA EL ARTÍCULO 25, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0535.- QUE REFORMA LOS ARTÍCULOS 83, 85 Y REALIZA ADICIÓN AL ARTÍCULO 83, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Esta reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan al presente decreto.
