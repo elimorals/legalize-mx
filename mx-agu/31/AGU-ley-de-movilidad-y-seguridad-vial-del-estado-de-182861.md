@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-y-seguridad-vial-del-estado-de-182861"
 country: "mx"
 rank: "ley"
 publication_date: "2025-12-15"
-last_updated: "2026-05-18"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Ley publicada en la Edición Vespertina al Número 50 del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de diciembre de 2025.
 
@@ -6397,9 +6397,11 @@ Con la entrada en vigor del presente Decreto, se Abroga la Ley de Movilidad del 
 
 ARTÍCULO TECERO (SIC). A partir de la entrada en vigencia del presente Decreto, todas las referencias que se hagan a la Ley de Movilidad del Estado de Aguascalientes, en ordenamientos jurídicos, decretos, reglamentos, acuerdos, convenios y demás disposiciones jurídicas y reglamentarias se entenderán hechas a la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO CUARTO.
 
-La “Agencia de Movilidad del Estado de Aguascalientes” deberá quedar formalmente instalada y registrada para su operación y funcionamiento en un término no mayor a ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto.
+La "Agencia de Movilidad del Estado de Aguascalientes" deberá quedar formalmente instalada y registrada para su operación y funcionamiento en un término no mayor a los ocho meses posteriores a la entrada en vigor del presente Decreto.
 
 Para los efectos legales a que haya lugar, la Coordinación General de Movilidad será sustituida por la “Agencia de Movilidad del Estado de Aguascalientes” en el cumplimiento de sus obligaciones y el ejercicio de sus atribuciones en su respectiva materia, una vez que se encuentre formalmente instalada y registrada.
 
@@ -6479,6 +6481,20 @@ III. Los trámites administrativos en materia de concesiones, permisos y autoriz
 
 Quedan sin efectos todas aquellas disposiciones que se opongan al contenido del presente Decreto.
 
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Se autoriza y faculta a la Agencia de Movilidad del Estado de Aguascalientes a lo siguiente:
+
+I. Convenir con el Instituto Mexicano del Seguro Social para que se incorpore a las personas trabajadoras a su servicio, en términos de la Incorporación Voluntaria al Régimen Obligatorio del Seguro Social;
+
+II. Pactar con el Instituto Mexicano del Seguro Social la fecha de inicio de la prestación de los servicios y los sujetos de aseguramiento que comprenderá; la vigencia; las prestaciones que se otorgarán; las cuotas a cargo de los asegurados y demás sujetos obligados; y, los procedimientos de inscripción y cobro de las cuotas respectivas; y
+
+III. Que las cuotas obrero patronales que se generen con motivo de la incorporación de los trabajadores a su servicio, sean pagadas directamente al Instituto Mexicano del Seguro Social; asimismo, podrá destinar como fuente de pago de las cuotas obrero patronales y cualquier otro concepto que se deriven del Convenio, respecto de los recursos e ingresos propios de la Agencia de Movilidad del Estado de Aguascalientes, incluyendo aquellos ingresos provenientes de la operación y explotación de las concesiones, o cualquier otro ingreso de los que puedan disponer de conformidad con la legislación aplicable, para el pago de cuotas obrero patronales y cualquier otro concepto derivado de la aplicación del referido Convenio.
+
+Se autoriza al Poder Ejecutivo del Gobierno del Estado de Aguascalientes para que se constituya en obligado solidario y/o garante de la Agencia de Movilidad del Estado de Aguascalientes, así como para que otorgue en garantía las participaciones presentes y futuras que en ingresos federales correspondan al Gobierno del Estado de Aguascalientes, aceptando que en caso de que no se cubran las cuotas obrero patronales en términos del artículo 39 de la Ley del Seguro Social y 120 del Reglamento de la Ley del Seguro Social en materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización por parte de la Agencia de Movilidad del Estado de Aguascalientes, a solicitud del Instituto Mexicano del Seguro Social, la Secretaría de Hacienda y Crédito Público, realice la compensación de las cuotas adeudadas con cargo a las participaciones que en ingresos federales correspondan al propio Gobierno del Estado de Aguascalientes del Fondo General de Participaciones, en términos de las disposiciones aplicables.
+
 Al Ejecutivo para su promulgación y publicación.
 
 Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, a los once días del mes de diciembre del año dos mil veinticinco.
@@ -6536,3 +6552,11 @@ El Poder Ejecutivo tendrá 90 días naturales para armonizar reglamentos y emiti
 ###### ARTÍCULO TERCERO.
 
 Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 518.- SE REFORMA LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
