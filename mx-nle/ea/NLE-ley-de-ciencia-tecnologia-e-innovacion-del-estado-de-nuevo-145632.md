@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-nuevo-1456
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-21"
-last_updated: "2025-11-07"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 21 de diciembre de 2020.
 
@@ -103,13 +103,17 @@ XXII. Conferir al Instituto, las atribuciones y facultades necesarias para coord
 
 XXIII. Establecer la integración y funciones del Consejo General para impulsar la ciencia, la tecnología e innovación, en el que participen los sectores públicos, científico-académico, social y privado;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XXIV. Promover el acceso a la regulación y otorgamiento de patentes de invención, registros de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombres comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas; y
+XXIV. Promover el acceso a la regulación y otorgamiento de patentes de invención, registros de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombres comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas;
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XXV. Fomentar el uso ético de la ciencia, la tecnología, la inteligencia artificial, la robótica y las innovaciones en general.
+XXV. Fomentar el uso ético de la ciencia, la tecnología, la inteligencia artificial, la robótica y las innovaciones en general; e
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XXVI. Impulsar la formación, capacitación y el desarrollo de habilidades digitales en el Estado, mediante programas dirigidos a personas emprendedoras y empresas que operen a través de internet, con el objetivo de fomentar su inclusión en la innovación, así como, en el desarrollo económico y tecnológico del Estado.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
@@ -125,9 +129,17 @@ III. La ciencia, tecnología e innovación son factores estratégicos que contri
 
 IV. La construcción de las políticas públicas en CTI estará centrada en las personas, de manera incluyente y orientada al desarrollo social, cultural y económico de las mismas, así como el combate a la pobreza; la participación de la mujer y el hombre en el ámbito científico y tecnológico, que deberá ser equilibrada y sin discriminación, e incentivando el impulso al desarrollo de las nuevas generaciones de investigadores;
 
-V. La divulgación de conocimientos, innovaciones tecnológicas y sus impactos se promoverá con el propósito de ampliar y fortalecer la cultura científica y tecnológica en la sociedad; y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-VI. La política estatal de impulso al conocimiento preverá áreas prioritarias, proyectos estratégicos y apoyos a largo plazo a la investigación científica, el desarrollo y la innovación tecnológica, con el propósito de garantizar el fortalecimiento del capital humano, la creación de instituciones científicas, el mejoramiento de la enseñanza de la ciencia, la integración de la ciencia en la cultura de los nuevoleoneses, la creación de infraestructura científico-tecnológica, el fomento de capacidades de innovación y de emprendimiento de base tecnológica y la transformación de la base industrial mediante la vinculación con universidades y centros de investigación.
+V. La divulgación de conocimientos, innovaciones tecnológicas y sus impactos se promoverá con el propósito de ampliar y fortalecer la cultura científica y tecnológica en la sociedad;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+VI. La política estatal de impulso al conocimiento preverá áreas prioritarias, proyectos estratégicos y apoyos a largo plazo a la investigación científica, el desarrollo y la innovación tecnológica, con el propósito de garantizar el fortalecimiento del capital humano, la creación de instituciones científicas, el mejoramiento de la enseñanza de la ciencia, la integración de la ciencia en la cultura de los nuevoleoneses, la creación de infraestructura científico - tecnológica, el fomento de capacidades de innovación y de emprendimiento de base tecnológica y la transformación de la base industrial mediante la vinculación con universidades y centros de investigación; y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+VII. De desarrollo sostenible, considerando en todo momento el respeto a los ecosistemas y el cuidado del medio ambiente.
 
 ###### Artículo 3.
 
@@ -196,6 +208,10 @@ XV. Modelo Ecosistema de Innovación Estatal: el desarrollo de un modelo en dond
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
 XVI. Parque de Investigación Científica, Tecnología e Innovación: el espacio físico donde se asienta y concentra la infraestructura territorial y de servicios para abastecer y servir a las unidades individuales destinadas a la investigación e innovación tecnológica dirigidos (sic) a la satisfacción de necesidades sociales y productivas; facilitando la transferencia tecnológica al sector productivo, e impulsando el desarrollo del capital intelectual del Estado;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XVI BIS. Premio Estatal: Premio Estatal de Ciencia, Tecnología e Innovación;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
@@ -367,13 +383,17 @@ XIII. Emitir anualmente un informe general acerca del estado que guarda la cienc
 
 XIV. Proponer esquemas generales de organización para la coordinación y vinculación de las actividades de investigación, desarrollo tecnológico e innovación en los diferentes sectores de la Administración Pública Estatal y con los diversos sectores productivos y de servicios del Estado;
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XV. Proponer estrategias para el uso ético y responsable de la inteligencia artificial, la ciencia, la tecnología y la innovación; y
+XV. Proponer estrategias para el uso ético y responsable de la inteligencia artificial, la ciencia, la tecnología y la innovación;
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XVI. Proponer acciones con perspectiva de género para impulsar la participación científica, tecnológica y de innovación.
+XVI. Proponer acciones con perspectiva de género para impulsar la participación científica, tecnológica y de innovación; y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XVII. Proponer acciones y programas de capacitación que incluyan, al menos materias de mercadotecnia digital, ciberseguridad, competitividad y gestión de negocios para la formación integral de emprendimientos digitales.
 
 Las demás que se establezcan en otras disposiciones jurídicas y en las Reglas de Organización y Funcionamiento que expida el propio Consejo General.
 
@@ -439,9 +459,9 @@ Para el debido cumplimiento del PROCTEINL, en concordancia con el objeto y objet
 
 I. A la Secretaría de Economía: coadyuvar en la promoción y financiamiento de programas de impulso y apoyo dentro del PROCTEINL para:
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
 
-a. Desarrollos tecnológicos e innovaciones para el sector productivo, especialmente para micro, pequeñas y medianas empresas; y
+a) Desarrollos tecnológicos e innovaciones para el sector productivo, especialmente para micro, pequeñas y medianas empresas, con el propósito de generar infraestructura tecnológica y fortalecimiento de ciberseguridad que propicien condiciones para su desarrollo, crecimiento, competitividad y consolidación; y
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
@@ -549,9 +569,21 @@ n) Conformación y promoción de instrumentos de capital de riesgo y capital sem
 
 o) Difusión científica y tecnológica a la sociedad nuevoleonesa;
 
-p) Cooperación y colaboración nacional e internacional; y
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
 
-q) Las demás que determine el Consejo General.
+p) Cooperación y colaboración nacional e internacional;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2026)</small>
+
+q) Impulso al uso de nuevas tecnologías en zonas rurales o marginadas;
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+r) Fortalecimiento y desarrollo tecnológico de emprendimientos digitales de micro, pequeñas y medianas empresas; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 22 DE MAYO DE 2026)</small>
+
+s) Las demás que determine el Consejo General.
 
 VI. El planteamiento de las acciones, medidas y esfuerzos a realizar a mediano y largo plazos, por parte de los sectores público, social y privado, para que el Estado alcance niveles de desarrollo económico y social mediante la aplicación de conocimientos e innovaciones tecnológicas equiparables a los de los países más desarrollados; y
 
@@ -747,7 +779,9 @@ V. Fomentar la investigación científica y tecnológica orientada a necesidades
 
 VI. Realizar y promover estudios de diagnóstico y prospectiva científico-tecnológica para identificar áreas de oportunidad para el desarrollo del Estado con base en el desarrollo científico y la aplicación de la tecnología e innovación;
 
-VII. Apoyar la creación de empresas del conocimiento o de base tecnológica, alianzas estratégicas, asociaciones y demás mecanismos previstos en esta Ley para formar parte del Programa Estratégico;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+VII. Apoyar la creación de empresas del conocimiento o de base tecnológica, alianzas estratégicas, asociaciones y demás mecanismos previstos en esta Ley, así como, fomentar e impulsar desarrollos tecnológicos y de innovaciones para el sector productivo, especialmente para micro, pequeñas y medianas empresas para formar parte del Programa Estratégico;
 
 VIII. Fomentar la vinculación de los sectores académicos, centros de investigación y productivos, para impulsar la transferencia y generación de nuevos productos, procesos o servicios;
 
@@ -785,13 +819,17 @@ XIX. La vinculación entre los estudios científicos y la innovación tecnológi
 
 XX. Promover y apoyar la cultura de la creatividad y la innovación científica y tecnológica en la sociedad nuevoleonesa y en los diversos sectores productivos del Estado, realizando actividades de difusión y divulgación y el fomento a las vocaciones científico-tecnológicas;
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XXI. Promover y fomentar la igualdad sustantiva en el apoyo, reconocimiento, participación y desarrollo de la ciencia, tecnología e innovación; y
+XXI. Promover y fomentar la igualdad sustantiva en el apoyo, reconocimiento, participación y desarrollo de la ciencia, tecnología e innovación;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2026)</small>
 
-XXII. Las demás que deriven de esta Ley, así como las que se establezcan en otras leyes y su Reglamento Interior.
+XXII. Fomentar que los proyectos de ciencia, tecnología y de innovación que formen parte del PROCTEINL, estén orientados bajo criterios de desarrollo sostenible, considerando en todo momento el respeto a los ecosistemas y el cuidado del medio ambiente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADO], P.O. 22 DE MAYO DE 2026)</small>
+
+XXIII. Las demás que deriven de esta Ley, así como las que se establezcan en otras leyes y su Reglamento Interior.
 
 ###### Artículo 27.
 
@@ -1085,13 +1123,49 @@ XIII. En la operación y financiamiento del fondo, se deberán tomar en cuenta l
 
 ### CAPÍTULO IV. PREMIO ESTATAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### Artículo 39.
 
-Se crea el Premio Estatal de Ciencia, Tecnología e Innovación, con el objeto de reconocer y estimular la investigación científica y tecnológica de calidad, su promoción y difusión, realizada por el científico o tecnólogo, o equipos de científicos o tecnólogos, cuya obra en estos campos desarrolle conocimiento y se haga acreedora a tal distinción.
+Se crea el Premio Estatal, con el objeto de reconocer y estimular la investigación científica y tecnológica de calidad, su promoción y difusión, realizada por el científico, tecnólogo, investigador, académico o estudiante, de manera individual o en equipo, cuya obra en estos campos desarrolle conocimiento y se haga acreedora a tal distinción.
 
-El Premio Estatal de Ciencia, Tecnología e Innovación tendrá las categorías que el Consejo General estime convenientes, entre las que se encuentran de manera enunciativa, pero no limitativa, las categorías de Ciencia, Tecnología e innovación, divulgación, innovación y desarrollo del conocimiento, las cuales se establecerán en la convocatoria correspondiente, conforme a las tendencias que se presenten.
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
 
-El premio consistirá en un monto de hasta 10,500 UMAS, mismo que será entregado anualmente por el Consejo General.
+###### Artículo 40.
+
+El Premio Estatal tendrá las categorías que el Consejo General estime convenientes, entre las que se encuentran de manera enunciativa, pero no limitativa:
+
+a) Ciencia, Tecnología e innovación;
+
+b) Divulgación científica;
+
+c) Innovación social;
+
+d) Emprendimiento tecnológico;
+
+e) Sostenibilidad y Transferencia Tecnológica; y
+
+f) Desarrollo del conocimiento.
+
+Dichas categorías se establecerán en la convocatoria correspondiente, conforme a las tendencias que se presenten.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+###### Artículo 41.
+
+La designación de las personas galardonadas la realizará un comité de evaluación y selección de aspirantes constituido para tal fin por el Consejo General, el cual, se integrará observando principios de paridad de género, imparcialidad y ausencia de conflicto de interés, y estará conformado por un mínimo de siete y un máximo de nueve miembros con destacada trayectoria y conocimientos en las áreas de ciencia, tecnología, innovación, educación, desarrollo sostenible y demás aplicables, en términos del artículo 11 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+###### Artículo 42.
+
+El Consejo General promoverá la participación de las personas galardonadas en actividades de divulgación y mentoría, mediante la impartición de conferencias, cátedras o actividades académicas, con el propósito de compartir sus experiencias con la sociedad nuevoleonesa.
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2026)</small>
+
+###### Artículo 43.
+
+El Premio Estatal consistirá en un monto de hasta 10,500 UMAS, mismo que será entregado anualmente por el Consejo General.
 
 ## TRANSITORIOS
 
@@ -1220,3 +1294,17 @@ P.O. 7 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 138. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 210. SE REFORMAN LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 2, LAS FRACCIONES V Y VI DEL ARTÍCULO 2 BIS, LAS FRACCIONES XV Y XVI DEL ARTÍCULO 9, EL INCISO A) DE LA FRACCIÓN I DEL ARTÍCULO 16, LOS INCISOS P) Y Q) DE LA FRACCIÓN V DEL ARTÍCULO 17, LAS FRACCIONES VII, XXI Y XXII DEL ARTÍCULO 26 Y, EL ARTÍCULO 39; Y SE ADICIONA UNA FRACCIÓN XXVI AL ARTÍCULO 2, UNA FRACCIÓN VII AL ARTÍCULO 2 BIS, UNA FRACCIÓN XVI BIS AL ARTÍCULO 3, UNA FRACCIÓN XVII AL ARTÍCULO 9, LOS INCISOS R) Y S) A LA FRACCIÓN V DEL ARTÍCULO 17, UNA FRACCIÓN XXIII AL ARTÍCULO 26 Y LOS ARTÍCULOS 40, 41, 42 Y 43, TODOS DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, el Consejo General para el Fomento a la Investigación Científica, Tecnológica y de Innovación del Estado de Nuevo León deberá adecuar las disposiciones reglamentarias correspondientes para dar cumplimiento al mismo.
+
+TERCERO. En un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, el Instituto de Innovación y Transferencia de Tecnología de Nuevo León deberá expedir o adecuar las disposiciones reglamentarias correspondientes para dar cumplimiento al mismo.
+
+CUARTO. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal correspondiente, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+En todo momento, el cumplimiento a las acciones emanadas del presente Decreto, estarán sujetas a las capacidades económicas, fiscales y financieras del Gobierno del Estado tomando en cuenta el Presupuesto de Egresos del ejercicio fiscal correspondiente.
