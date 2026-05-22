@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2026-04-10"
+last_updated: "2026-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -39,7 +39,9 @@ La LIX Legislatura del Congreso del Estado de Campeche decreta:
 
 NÚMERO 65
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MAYO DE 2026)</small>
+
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS DEL ESTADO DE CAMPECHE
 
 ## TÍTULO PRIMERO
 
@@ -131,15 +133,21 @@ VII. El patrimonio
 
 ARTÍCULO 2 quater.- Para los efectos de la presente ley se entenderá por:
 
-(sic) Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Campeche;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+I. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencias del Estado de Campeche;
 
 II. Programa: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
 III. Sistema: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-IV. Violencia contra las Mujeres: Cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual, política o cualquiera otra forma análoga que lesione o sea susceptible de dañar su dignidad, integridad o libertad, inclusive la muerte, sea en el ámbito privado como en el público;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-V. Modalidades de la Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
+IV. Violencia y/o violencias contra las Mujeres: Cualquier acción u omisión, o el conjunto de estas, basada en su género, que les cause o pretenda causarles daño o sufrimiento psicológico, físico, patrimonial, económico, sexual, política o cualquiera otra forma análoga que lesione o sea susceptible de dañar su dignidad, integridad o libertad, inclusive la muerte, sea en el ámbito privado como en el público;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+V. Modalidades de las Violencias: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presentan las violencias contra las mujeres;
 
 VI. Parto Humanizado: Modelo de atención en el que se facilita un ajuste de la asistencia médica a la cultura, creencias, valores y expectativas de la mujer, respetando la dignidad humana, así como sus derechos y los de la persona recién nacida, erradicando todo tipo de violencia física, psicológica e institucional, respetando los tiempos biológicos y psicológicos, evitando prácticas invasivas y suministro de medicación que no estén justificados médicamente;
 
@@ -149,7 +157,9 @@ VIII. Agresor: La persona que inflige cualquier tipo de violencia contra las muj
 
 IX. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW); la Convención sobre los Derechos de la Niñez; la Convención sobre los Derechos de las Personas con Discapacidad; la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem do Pará) y demás instrumentos internacionales en la materia;
 
-X. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres, que tiene como propósito eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+X. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres, que tiene como propósito eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; promueve la igualdad sustantiva, el derecho a una vida libre de violencias, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
 XI. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, inclusión, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
@@ -167,13 +177,17 @@ XVI. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaci
 
 XVII. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y asegurando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XVIII. Refugios: Centros de alta seguridad con atención y protección multidisciplinaria para mujeres, niñas, niños y adolescentes y discapacitados víctimas de violencia; y
+XVIII. Refugios: Centros de alta seguridad con atención y protección multidisciplinaria para mujeres, niñas, niños y adolescentes y discapacitados víctimas de violencia;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XIX. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito.
+XIX. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito; y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XX. Deberes reforzados de protección del Estado hacia mujeres, adolescentes, niñas y niños: Obligación constitucional prevista en el penúltimo párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, que establece el deber de todas las autoridades de adoptar acciones reforzadas para garantizar el derecho de las mujeres, adolescentes, niñas y niños a una vida libre de violencias. Esta obligación implica la aplicación más amplia de medidas orientadas a salvaguardar la vida, integridad, libertad y seguridad personales, bienestar físico y mental, así como el respeto a su dignidad y autonomía.
 
 ###### ARTÍCULO 3.
 
@@ -253,19 +267,31 @@ XIV. Cualesquiera otras formas análogas que lesionen o sean susceptibles de da�
 
 La violencia familiar es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicoemocional, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE MAYO DE 2026)</small>
 
-Para proteger a las víctimas de violencia familiar, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos considerando la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, deberán tomar en consideración:
+Para proteger a las víctimas de violencia familiar, como parte de los deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, considerando la perspectiva de género, respeto a los derechos humanos, interés superior de la niñez, la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, deberán tomar en consideración:
 
-I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan, en su caso, su autonomía, su empoderamiento y reparen el daño causado por dicha violencia;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
 II. Brindar servicios reeducativos integrales, especializados y gratuitos al agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia;
 
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
 III. Evitar que la atención que reciba la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
 IV. Evitar procedimientos de mediación o conciliación por ser inviables en una relación de sometimiento entre el agresor y las víctimas;
 
-V. Favorecer la separación y alejamiento del agresor con respecto a la víctima; y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+V. Garantizar la separación y alejamiento del agresor con respecto a la víctima; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
 VI. Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia.
 
@@ -307,13 +333,23 @@ El acoso sexual es una forma de violencia en la que, si bien no existe la subord
 
 El Estado en función de sus atribuciones, tomará en consideración:
 
-I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales y/o de docencia;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencias en sus relaciones laborales y/o de docencia;
 
 II. Fortalecer el marco penal y civil para asegurar la sanción a quienes hostigan y acosan;
 
-III. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos; y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-IV. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores.
+III. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son expresiones de violencia y delitos, y pueden constituir causas de rescisión laboral y faltas administrativas;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+IV. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores; y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+V. Promover acciones de cambio cultural en la sociedad para identificar, promover la denuncia y combatir el hostigamiento sexual y acoso sexual en todos los ámbitos y promover relaciones respetuosas, igualitarias y no sexistas entre mujeres y hombres.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 2024)</small>
 
@@ -481,9 +517,11 @@ ARTÍCULO 16 SEPTIES.- La violencia digital será sancionada en la forma y térm
 
 ### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 17.
 
-El Estado y los Municipios se coordinarán para establecer el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+El Estado y los Municipios se coordinarán para establecer el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar las Violencias contra las Mujeres, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de las violencias contra las mujeres.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2020)</small>
 
@@ -581,11 +619,17 @@ VI. Fomentar y apoyar programas de educación pública y privada, destinados a c
 
 VII. Diseñar programas de atención y capacitación a víctimas y victimarios que les permita participar plenamente en todos los ámbitos de la vida;
 
-VIII. Promover que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+VIII. Promover que los medios de comunicación no fomenten las violencias contra las mujeres en toda su diversidad y etapas de vida, para impulsar un cambio cultural en favor de la igualdad sustantiva, el derecho a una vida libre de violencias, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
 
 IX. Garantizar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
 
-X. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres para integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
+
+X. Integrar y difundir información estadística desagregada y con enfoque diferenciado sobre los casos de violencia contra las mujeres para integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
+
+Para cumplir con este propósito, se establecerán mecanismos eficaces de coordinación y captura, que permita el análisis de tendencias e identificación de áreas críticas y recomendaciones para mejorar la prevención, atención, sanción y erradicación de las violencias contra las mujeres;
 
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
@@ -599,9 +643,13 @@ XII. Diseñar un modelo integral de atención a los derechos humanos y ciudadan�
 
 XIII. Vigilar que los usos y costumbres sociales no atenten contra los derechos humanos de las mujeres; y
 
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2026)</small>
 
-XIV. Impulsar políticas para el adelanto y desarrollo de las mujeres cuyo objeto sea mejorar su calidad de vida y contribuir al logro de la igualdad sustantiva.
+XIV. Impulsar políticas para el adelanto y desarrollo de las mujeres cuyo objeto sea mejorar su calidad de vida y contribuir al logro de la igualdad sustantiva; y
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2026)</small>
+
+XV. Impulsar con la institución responsable de la procuración de justicia en el Estado, la creación de la fiscalía especializada de investigación de delitos relacionados con las violencias de género contra las mujeres, adolescentes y niñas, la cual deberá contar con personal capacitado en procuración de justicia con perspectiva de género, derechos humanos y de infancia y adolescencia.
 
 ###### ARTÍCULO 21.
 
@@ -977,9 +1025,11 @@ Las órdenes de protección son actos de urgente aplicación en función del int
 
 En materia de violencia política de las mujeres en razón de género, el Instituto Electoral del Estado de Campeche y el Tribunal Electoral del Estado de Campeche, podrán solicitar a las autoridades competentes las medidas a que se refiere el presente capítulo
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
 
-ARTÍCULO 32 BIS.- Quien en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un hecho que la ley señale como delito en contra de una mujer o niña, está obligado a denunciarlo inmediatamente al Ministerio Público, proporcionándole todos los datos que tuviere, poniendo a su disposición a la persona imputada, si hubiere sido detenida en flagrancia.
+ARTÍCULO 32 BIS.- Quien en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un hecho que la ley señale como delito en contra de una mujer, una adolescente o una niña, está obligado a denunciarlo inmediatamente al Ministerio Público, proporcionándole todos los datos que tuviere, poniendo a su disposición a la persona imputada, si hubiere sido detenida en flagrancia.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
 
 Quien tenga el deber jurídico de denunciar y no lo haga, será acreedor a las sanciones correspondientes.
 
@@ -1027,9 +1077,11 @@ IX. Principio de buena fe: Las autoridades deben presumir la buena fe de las ni�
 
 X. Principio de igualdad y no discriminación: Todas las niñas, adolescentes y mujeres tendrán acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de sus derechos y libertades. Estará prohibida toda distinción, exclusión o restricción basada en el origen étnico o nacional, sexo, identidad de género, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil, orientación sexual, características sexuales o cualquier otra que tenga por efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad de oportunidades de las niñas, adolescentes y mujeres.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2026)</small>
 
-ARTÍCULO 32 QUINQUIES.- Cuando una mujer o una niña víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
+ARTÍCULO 32 QUINQUIES.- Cuando una mujer, una adolescente o una niña víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar de inmediato toda la información disponible sobre el procedimiento relacionado con la propia orden.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
 
 La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud. Así también deberá realizar la medición y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica.
 
@@ -1432,3 +1484,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor de (sic) presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 22 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 232 POR EL QUE “SE REFORMAN LA DENOMINACIÓN DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE PARA QUEDAR COMO “LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS DEL ESTADO DE CAMPECHE; LAS FRACCIONES I, IV, V, X, XVIII Y XIX DEL ARTÍCULO 2 QUATER; EL PÁRRAFO SEGUNDO, LAS FRACCIONES I Y V DEL ARTÍCULO 6; LAS FRACCIONES I, III Y IV DEL ARTÍCULO 9 TER; EL ARTÍCULO 17; LAS FRACCIONES VIII, X Y XIV DEL ARTÍCULO 20; EL PÁRRAFO PRIMERO DEL ARTÍCULO 32 BIS; EL PÁRRAFO PRIMERO DEL ARTÍCULO 32 QUINQUIES; Y SE ADICIONAN LA FRACCIÓN XX AL ARTÍCULO 2 QUATER; LA FRACCIÓN V AL ARTÍCULO 9 TER Y LA FRACCIÓN XV AL ARTÍCULO 20, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las autoridades de la Administración Pública del Estado y los HH. Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las previsiones presupuestarias de manera progresiva para el adecuado cumplimiento del presente decreto.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
