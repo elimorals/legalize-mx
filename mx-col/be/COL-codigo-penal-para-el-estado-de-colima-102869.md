@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2026-03-14"
+last_updated: "2026-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2026.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -2323,7 +2323,9 @@ Cuando entre el activo y la pasivo exista relación de matrimonio, concubinato o
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2025)
 
-### CAPÍTULO III. RAPTO
+### CAPÍTULO III. COHABITACIÓN FORZADA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 159.
 
@@ -2357,13 +2359,29 @@ VIII. Que en la privación de la libertad intervengan dos o más personas.
 
 Si el agente espontáneamente pone en libertad a la víctima dentro de los dos días siguientes a la comisión del delito podrá disminuirse la pena hasta la mitad.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2026)</small>
+
 ### CAPÍTULO IV. SUSTRACCIÓN DE MENORES O INCAPACES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 162.
 
-(DEROGADO, P.O. 20 DE OCTUBRE DE 2018)
+Comete el delito de cohabitación forzada quien obligue, coaccione, induzca, amenace, gestione u oferte a una o varias personas para unirse de manera informal o consuetudinariamente, con el fin de convivir en forma constante y equiparable a la de un matrimonio.
+
+A la persona responsable de este delito se le impondrá pena de uno a cinco años de prisión y multa de mil a dos mil quinientas veces el valor diario de la unidad de medida y actualización.
+
+Se aumentarán en una mitad las penas establecidas en el párrafo anterior en los siguientes supuestos:
+
+I. Cuando sea cometido en contra de alguna persona menor de dieciocho años de edad.
+
+II. Cuando sea cometido en contra de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo.
+
+III. Cuando sea cometido sin su consentimiento.
+
+IV. Cuando sea cometido por un miembro de la familia. Se entenderá como miembro de la familia para efecto de este artículo, a los parientes en línea recta, ascendente o descendente, sin limitación de grado, pariente colateral o consanguíneo o por afinidad hasta el cuarto grado, adoptante o adoptado.
+
+En el caso de las agravantes señaladas en las fracciones de la I, II y IV de este artículo, este delito se perseguirá de oficio por la Fiscalía General del Estado de Colima.
 
 ### CAPÍTULO I. CORRUPCIÓN DE MENORES
 
@@ -5126,5 +5144,11 @@ P.O. 28 DE FEBRERO DE 2026.
 P.O. 14 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 253.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE COLIMA, EN MATERIA DE HOMICIDIO POR ODIO, MOTIVADO POR RAZONES DE ORIENTACIÓN SEXUAL, IDENTIDAD O EXPRESIÓN DE GÉNERO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 313.- POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO III, DEL TÍTULO CUARTO, DEL LIBRO SEGUNDO Y EL ARTÍCULO 162 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, EN MATERIA DE COHABITACIÓN FORZADA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
