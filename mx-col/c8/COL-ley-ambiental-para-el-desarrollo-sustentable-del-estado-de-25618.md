@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2024-12-14"
+last_updated: "2026-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2026.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -1281,45 +1281,125 @@ XVI. Proporcionar información cuando se solicite con las formalidades previstas
 
 XVII. Las demás que establezca su reglamento interior.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
+
+El Fideicomiso Ambiental podrá contemplar las subcuentas temáticas que resulten necesarias, siempre que éstas tengan como finalidad el financiamiento de actividades relacionadas con la implementación de programas, políticas, proyectos, investigaciones y acciones de la política ambiental estatal. El establecimiento de dichas subcuentas se sujetará a lo dispuesto por la legislación aplicable y deberá observar lo previsto en este capítulo respecto de sus fuentes de financiamiento y destino.
+
 ###### ARTÍCULO 70.
 
 El Fideicomiso Ambiental se destinará a:
 
-I. La realización de acciones de preservación del ambiente, la protección ecológica y la restauración del equilibrio ecológico;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MAYO DE 2026)</small>
 
-II. El manejo y la administración de las áreas de valor ambiental y áreas naturales protegidas de competencia estatal o municipal;
+I. La conservación y administración sustentable de los recursos naturales:
 
-III. La creación de biodigestores o sumideros de gases efecto invernadero;
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
 
-IV. El desarrollo de programas vinculados con inspección y vigilancia en las materias a que se refiere esta Ley;
+a) Acciones de conservación, protección y restauración del equilibrio ecológico y los ecosistemas;
 
-V. La protección y preservación de la flora y fauna silvestres en libertad o en cautiverio;
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
 
-VI. El pago a las comunidades o a los titulares de derechos de propiedad o poseedores por servicios ambientales que sean proporcionados por los ecosistemas;
+b) Manejo, administración y vigilancia de las Áreas Naturales Protegidas y Áreas de Valor Ambiental;
 
-VII. El apoyo a programas de prevención y restauración del equilibrio ecológico que desarrollen los municipios;
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
 
-VIII. El fortalecimiento institucional ambiental estatal y municipal;
+c) Protección de la flora y fauna silvestres, incluyendo programas de conservación de especies endémicas o en riesgo, y;
 
-IX. El apoyo al desarrollo de programas de educación e investigación en materia ambiental;
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
 
-X. La prevención y control de la contaminación atmosférica, de suelos y de agua;
+d) Pago por servicios ambientales (hidrológicos, captura de carbono, etc.) a comunidades, propietarios o poseedores de terrenos forestales.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MAYO DE 2026)</small>
 
-XI. Los incentivos a la aplicación de tecnología ambiental;
+II. La prevención, control de la contaminación y gestión de residuos:
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
 
-XII. La vigilancia del cumplimiento de los convenios con los sectores productivo y académico;
+a) Programas y acciones para la prevención y control de la contaminación del aire, agua y suelo.
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
 
-XIII. El fomento de Soluciones Basadas en la Naturaleza, actividades productivas regenerativas, actividades climáticamente inteligentes y medios de vida sostenibles, así como acciones que promuevan la resiliencia de los ecosistemas y su adaptación ante el cambio climático; y
+b) Gestión Integral de Residuos: Financiamiento de infraestructura para la recolección, transferencia, tratamiento, valorización y disposición final de residuos sólidos urbanos y de manejo especial.
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2024)</small>
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
 
-XIV. La ejecución de acciones que impulsen el desarrollo comunitario y la reconversión productiva a prácticas sustentables.
+c) Remediación de sitios contaminados y atención a pasivos ambientales, y;
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
+
+d) Incentivos para la adopción de tecnologías limpias y procesos productivos de baja emisión.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MAYO DE 2026)</small>
+
+III. La acción climática:
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
+
+a) Implementación de acciones de mitigación de gases de efecto invernadero;
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
+
+b) Programas de adaptación al cambio climático, basada en ecosistemas, resiliencia de ecosistemas y gestión de riesgos ante fenómenos hidrometeorológicos;
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
+
+c) Fomento de Soluciones Basadas en la Naturaleza, actividades climáticamente inteligentes y reconversión productiva sustentable, y;
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
+
+d) Atención integral a pérdidas y daños derivados de impactos climáticos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MAYO DE 2026)</small>
+
+IV. Generación de conocimiento, educación y comunicación ambiental y Participación Social:
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
+
+a) Apoyo a programas de educación ambiental formal y no formal y difusión de la cultura para la sustentabilidad;
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
+
+b) Financiamiento de investigación científica aplicada, monitoreo ambiental y desarrollo tecnológico para la solución de retos locales, y;
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
+
+c) Impulso al desarrollo comunitario y proyectos productivos regenerativos que mejoren los medios de vida sostenibles.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MAYO DE 2026)</small>
+
+V. Gobernanza y Fortalecimiento Institucional:
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
+
+a) Fortalecimiento de las capacidades operativas de las autoridades ambientales estatales y municipales;
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
+
+b) Desarrollo y ejecución de programas de inspección y vigilancia para garantizar el cumplimiento de la normatividad ambiental, y;
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
+
+c) Operación y actualización de los sistemas estatales que integren información ambiental, así como los registros en donde se reporta información ambiental relevante proveniente de sectores regulados por esta ley.
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2026)</small>
+
+VI. Las demás acciones que determine el Comité Técnico en congruencia con la política ambiental estatal y los planes de desarrollo vigentes.
+
+VII. (DEROGADA, P.O. 23 DE MAYO DE 2026)
+
+VIII. (DEROGADA, P.O. 23 DE MAYO DE 2026)
+
+IX. (DEROGADA, P.O. 23 DE MAYO DE 2026)
+
+X. (DEROGADA, P.O. 23 DE MAYO DE 2026)
+
+XI. (DEROGADA, P.O. 23 DE MAYO DE 2026)
+
+XII. (DEROGADA, P.O. 23 DE MAYO DE 2026)
+
+XIII. (DEROGADA, P.O. 23 DE MAYO DE 2026)
+
+XIV. (DEROGADA, P.O. 23 DE MAYO DE 2026)
 
 ###### ARTÍCULO 71.
 
@@ -1337,7 +1417,11 @@ IV. Las herencias, legados y donaciones que reciba;
 
 V. Los recursos destinados para ese efecto en los presupuestos de egresos de la Federación y del Presupuesto de egresos del ejercicio fiscal anual respectivo del Estado; y
 
-VI. Los demás recursos que se generen por cualquier otro concepto.
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2026)</small>
+
+VI. Los ingresos que por concepto de impuestos por la emisión de gases y compuestos de efecto invernadero a la atmósfera se perciban en el Estado para ser aplicados a sus fines respectivos; y
+
+VII. Los demás recursos que se generen por cualquier otro concepto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2024)</small>
 
@@ -3476,3 +3560,39 @@ P.O. 14 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 25.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 23 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 312.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA Y SE EXPIDE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Colima.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Mitigación y Adaptación Ante los Efectos del Cambio Climático para el Estado de Colima publicada en el Periódico Oficial No. 73, sup. 1, del 22 noviembre del 2016, así como sus reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado de Colima expedirá el Reglamento de la Ley de Cambio Climático para el Estado de Colima en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo Estatal, los instrumentos de planeación, los registros, fondos y demás mecanismos previstos en la nueva Ley de Cambio Climático para el Estado de Colima deberán integrarse, actualizarse o constituirse en un plazo no mayor a dos años contados a partir de la entrada en vigor del presente Decreto, atendiendo al principio de progresividad.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos, juicios y trámites iniciados con anterioridad a la entrada en vigor de la Ley de Cambio Climático para el Estado de Colima, continuarán sustanciándose hasta su conclusión de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO SEXTO.
+
+El Poder Ejecutivo, el Poder Legislativo del Estado y los ayuntamientos realizarán las adecuaciones necesarias a los ordenamientos jurídicos y disposiciones administrativas de su competencia para armonizarlos con las disposiciones de la Ley de Cambio Climático para el Estado de Colima, en un plazo no mayor a dos años contados a partir de su entrada en vigor.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las disposiciones legales, reglamentarias y administrativas que se opongan a lo dispuesto en la Ley de Cambio Climático para el Estado de Colima Ley (sic).
+
+###### ARTÍCULO OCTAVO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto con motivo de la Ley de Cambio Climático para el Estado de Colima se realizarán con cargo al presupuesto autorizado de las dependencias y entidades competentes para el ejercicio fiscal de que se trate. En caso de que la implementación de las obligaciones previstas en esta Ley requiera de recursos adicionales, las dependencias y entidades correspondientes lo solicitarán conforme al procedimiento presupuestario aplicable.
