@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-mitigacion-y-adaptacion-ante-los-efectos-del-117394
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-22"
-last_updated: "2023-06-10"
+last_updated: "2026-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COL"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, LA PRESENTE LEY ENTRA EN VIGOR EL 01 DE ENERO DE 2017, PREVIA PUBLICACIÓN EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA".]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 23 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2026 (ABROGADA).
 
 Ley publicada en el Suplemento No. 1 al Número 73 del Periódico Oficial del Estado de Colima.
 
@@ -904,3 +906,39 @@ P.O. 10 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 312.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA Y SE EXPIDE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Colima.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Mitigación y Adaptación Ante los Efectos del Cambio Climático para el Estado de Colima publicada en el Periódico Oficial No. 73, sup. 1, del 22 noviembre del 2016, así como sus reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado de Colima expedirá el Reglamento de la Ley de Cambio Climático para el Estado de Colima en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo Estatal, los instrumentos de planeación, los registros, fondos y demás mecanismos previstos en la nueva Ley de Cambio Climático para el Estado de Colima deberán integrarse, actualizarse o constituirse en un plazo no mayor a dos años contados a partir de la entrada en vigor del presente Decreto, atendiendo al principio de progresividad.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos, juicios y trámites iniciados con anterioridad a la entrada en vigor de la Ley de Cambio Climático para el Estado de Colima, continuarán sustanciándose hasta su conclusión de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO SEXTO.
+
+El Poder Ejecutivo, el Poder Legislativo del Estado y los ayuntamientos realizarán las adecuaciones necesarias a los ordenamientos jurídicos y disposiciones administrativas de su competencia para armonizarlos con las disposiciones de la Ley de Cambio Climático para el Estado de Colima, en un plazo no mayor a dos años contados a partir de su entrada en vigor.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las disposiciones legales, reglamentarias y administrativas que se opongan a lo dispuesto en la Ley de Cambio Climático para el Estado de Colima Ley (sic).
+
+###### ARTÍCULO OCTAVO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto con motivo de la Ley de Cambio Climático para el Estado de Colima se realizarán con cargo al presupuesto autorizado de las dependencias y entidades competentes para el ejercicio fiscal de que se trate. En caso de que la implementación de las obligaciones previstas en esta Ley requiera de recursos adicionales, las dependencias y entidades correspondientes lo solicitarán conforme al procedimiento presupuestario aplicable.
