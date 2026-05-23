@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2025-09-12"
+last_updated: "2026-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2026.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -1531,6 +1531,10 @@ Los Atlas de Riesgos Estatal y Municipales son instrumentos de consulta técnica
 
 Para el señalamiento y delimitación de las áreas necesarias para el asentamiento humano, así como la localización y relocalización del área de urbanización, las autoridades municipales de su jurisdicción, o en su defecto, con la Coordinación Estatal para consultar dicha herramienta.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2026)</small>
+
+En los atlas de riesgos municipales, los Ayuntamientos identificarán los edificios públicos que se encuentren en zonas de riesgo, para establecer acciones preventivas de conservación y, en su caso reubicación, con la finalidad de garantizar la integridad física de las personas.
+
 ###### Artículo 57.
 
 Los Atlas de Riesgo Estatal y Municipales estarán conformados de modo tal que, su uso y manejo incentiven la gestión integral del riesgo en sus etapas de Análisis y reducción de riesgos, manejo de eventos adversos y recuperación de la población ante la ocurrencia de riesgos, integrándose en la plataforma de información de Gestión Integral de Riesgos de Oaxaca (GIRO), como sustento para la implementación de medidas de prevención y mitigación;
@@ -2400,6 +2404,14 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 12 DE SEPTIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 764.- MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS TRANSITORIOS TERCERO, CUARTO Y QUINTO, DEL DECRETO 623, PUBLICADO EN FECHA 12 DE ABRIL DE 2025, MEDIANTE EL QUE SE REFORMÓ LA FRACCIÓN LXIX DEL ARTÍCULO 4; EL ARTÍCULO 22; EL PRIMER PÁRRAFO, LAS FRACCIONES I Y III, Y LOS NUMERALES 1 Y 2 DEL INCISO B) DEL ARTÍCULO 33; Y SE ADICIONA EL NUMERAL 10 AL ARTÍCULO 33; LAS FRACCIONES LVIII Y LIX RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 35, Y EL ARTÍCULO 36 BIS, TODOS DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1497.- MEDIANTE EL CUAL ADICIONA EL TERCER PÁRRAFO AL ARTÍCULO 56 DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
