@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cultura-fisica-y-deporte-para-el-estado-de-oaxaca-139171
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-22"
-last_updated: "2026-01-03"
+last_updated: "2026-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 22 de octubre de 2019.
 
@@ -85,7 +85,9 @@ VI. Contribuir a la formación educativa de las personas, a través del conocimi
 
 Esta Ley, tienen (sic) por objeto desarrollar las bases para la coordinación, colaboración y distribución de competencias entre el Estado y sus Municipios, y de ambos con la Federación, en materia de cultura física y deporte, bajo el principio de concurrencia, así como la participación de las Asociaciones Deportivas, tomando en cuenta las estrategias, programas, proyectos y planes diseñados por la Comisión Nacional de Cultura Física y Deporte en su ámbito de competencia y con las siguientes finalidades:
 
-I. Asegurar el disfrute, promoción, estímulo, fomentar el óptimo, equitativo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones, a través de su regulación;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2026)</small>
+
+I. Asegurar el disfrute, promoción, estímulo, fomentar el óptimo, equitativo, Inclusivo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones, a través de su regulación;
 
 II. Elevar por medio de la cultura física y el deporte, el nivel de vida social y cultural de los habitantes del Estado;
 
@@ -303,17 +305,21 @@ VI. Deporte: Actividad física, organizada y reglamentada, que tiene por finalid
 
 VII. Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
 
-VIII. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional;
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2026)</small>
 
-IX. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
+\/III. Deporte adaptado: Disciplina que realizan personas con discapacidad en condiciones de equidad, que es reglamentado e institucionalizado.
 
-X. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
+IX. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional;
 
-XI. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo;
+X. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
 
-XII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
+XI. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
 
-XIII. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo; y
+XII. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo;
+
+XIII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
+
+XIV. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo; y
 
 ###### Artículo 17.
 
@@ -409,13 +415,17 @@ XVII. Recibir apoyos económicos, técnicos y materiales en territorio nacional 
 
 XVIII. Operar, administrar y aplicar los recursos federales a su cargo conforme a los lineamientos establecidos en la Ley General y en su Reglamentación;
 
-XIX. Supervisar, sin violentar la autonomía municipal, las construcciones, equipamiento, adecuación y mejora de los espacios públicos en materia de cultura física y deporte;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2026)</small>
+
+IX (SIC). Supervisar, sin violentar la autonomía municipal, las construcciones, equipamiento, adecuación, adaptación progresiva para la accesibilidad y mejora de los espacios públicos en materia de cultura física y deporte;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
 XX. Formular el Programa Estatal de Cultura Física y Deporte y Plan de Desarrollo Integral del Deporte; en lo específico, deberá considerar lo correspondiente a las y los atletas medallistas paralímpicos, paramundialistas y parapanamericanos del Estado de Oaxaca.
 
-XXI. Promover la capacitación y especialización en materia de cultura física y deporte en el Estado;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2026)</small>
+
+XXI. Promover la capacitación y especialización en materia de cultura física, deporte, deporte adaptado y de alto rendimiento en el Estado;
 
 XXII. Integrar en coordinación con la Secretaría de Salud, Secretaria de Seguridad Pública, Instituto Estatal de Educación Pública de Oaxaca, el Estatal de Cultura Física y Deporte y Plan de Desarrollo Integral del Deporte;
 
@@ -497,7 +507,9 @@ LVIII. Diseñar y proponer los criterios para asegurar la coordinación y congru
 
 LIX. Ejercer los derechos corporativos y patrimoniales del Gobierno del Estado en las sociedades, asociaciones, clubes, patronatos u órganos afines de carácter deportivo profesional en los que el instituto participe como socio, asociado o miembro activo, normando la dirección y su funcionamiento en los que tenga participación mayoritaria;
 
-LX. Promover la Cultura Física y la práctica del Deporte entre la población en general, incluyendo políticas dirigidas a la niñez, juventud, discapacitados, personas adultas mayores.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2026)</small>
+
+LX. Promover la Cultura Física y la práctica del Deporte entre la población en general, garantizando la inclusión, y accesibilidad, incluyendo políticas dirigidas a la niñez, juventud, personas adultas mayores.
 
 LXI. Vigilar y asegurar a través del COEVED que los procesos electorales en los órganos de gobierno y representación de las Asociaciones Deportivas Estatales y Organismos Afines, en atención a sus funciones que como agentes colaboradores del Gobierno Estatal les son delegadas, se realicen con estricto cumplimiento de las disposiciones legales y estatutarias vigentes;
 
@@ -1091,13 +1103,17 @@ II. Promover la iniciación y garantizar el acceso a la práctica de las activid
 
 III. Ejecutar y dar seguimiento al Programa Estatal de Cultura Física y Deporte;
 
-IV. Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para la cultura física y el deporte, de acuerdo a los lineamientos técnicos emitidos por el Instituto y a las Normas Oficiales Mexicanas correspondientes;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2026)</small>
+
+IV. Promover la construcción, adecuación, conservación y adaptación progresiva para accesibilidad, asegurando el aprovechamiento óptimo de la infraestructura para la cultura física y el deporte, de acuerdo a los lineamientos técnicos emitidos por el Instituto y a las Normas Oficiales Mexicanas correspondientes;
 
 V. Formular y ejecutar políticas públicas, que fomenten actividades físicas y deportivas destinadas a las personas con discapacidad;
 
 VI. Dar seguimiento y ejecutar las políticas y planes aprobados por el SIEDE de acorde (sic) con los planes aprobados por el SINADE;
 
-VII. Establecer procedimientos de promoción en materia de cultura física y deporte, y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2026)</small>
+
+VII. Establecer procedimientos y programas de promoción en materia de cultura física y deporte en todas sus modalidades sin distinción alguna, y
 
 VIII. Promover los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y de Protección Civil correspondientes.
 
@@ -2452,6 +2468,14 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 3 DE ENERO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 850.- MEDIANTE EL CUAL REFORMA EL INCISO C) DE LA FRACCIÓN II, EL INCISO C) DE LA FRACCIÓN III, Y LA FRACCIÓN IV DEL ARTÍCULO 220; Y SE ADICIONAN LAS FRACCIONES I Y II AL ARTÍCULO 70 RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES; EL INCISO D) A LA FRACCIÓN II, EL INCISO D) A LA FRACCIÓN III Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 220, DE LA LEY ESTATAL DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1496.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 6, LAS FRACCIONES XIX, XXI Y LX DEL ARTICULO 22, Y LAS FRACCIONES IV Y VII DEL ARTICULO 63; Y SE ADICIONA LA FRACCION VIII RECORRIENDOSE LAS SUBSECUENTES AL ARTICULO 16, TODOS DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA ".]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
