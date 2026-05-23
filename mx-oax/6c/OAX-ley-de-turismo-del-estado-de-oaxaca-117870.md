@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2026-01-03"
+last_updated: "2026-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2026.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -111,9 +111,9 @@ I. Actividades Turísticas: Las que realizan las personas durante sus viajes y e
 
 I Bis. Atlas Turístico del Estado de Oaxaca: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo turístico del Estado de Oaxaca;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2026)</small>
 
-I Ter. Anfitrión: Persona física o moral que de manera directa o mediante intermediario, incluyendo plataformas tecnológicas, pone a disposición de los turistas para uso a partir de tres noches, sus casas, casas dúplex, departamentos, vecindades o cuarterías destinados a uso habitacional a cambio de una contraprestación;
+I Ter. Anfitrión: Persona física o moral que de manera directa o mediante intermediario, incluyendo plataformas tecnológicas, pone a disposición de los turistas para uso a partir de cuatro noches, sus casas, casas dúplex, departamento, vecindades o cuarterías destinados a uso habitacional a cambio de una contraprestación;
 
 II. Catálogo Turístico del Estado de Oaxaca: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos del estado, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo;
 
@@ -155,9 +155,9 @@ XII Bis. Padrón de anfitriones: Registro de persona (sic) físicas o morales qu
 
 XII Ter. Padrón de plataformas tecnológicas: Registro de personas físicas o morales que operan, intermedian y/o administran una aplicación tecnológica o página de internet mediante la cual se ofertan, entre otros servicios, inmuebles de uso habitacional a partir de cuatro noches, autorizados para operar en el Estado de Oaxaca.
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2026)</small>
 
-XII Quater. Plataforma Tecnológica: Personas físicas o morales que operan, intermedian y/o administran una aplicación tecnológica o página de internet, mediante la cual los anfitriones, en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, ofertan los inmuebles a que se refiere la fracción III de este artículo, y que permite a las y los usuarios contratar diferentes tipos de servicios, incluyendo los ofertados por los prestadores de servicios turísticos;
+XII Quáter. Plataforma Tecnológica: Personas físicas o morales que operan, intermedian y/o administran una aplicación tecnológica o página de internet, mediante la cual los anfitriones, en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, ofertan los inmuebles a que se refiere la fracción IX BIS de este artículo, y que permite a las y los usuarios contratar diferentes tipos de servicios, incluyendo los ofertados por los prestadores de servicios turísticos;
 
 > <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
 
@@ -511,9 +511,9 @@ X. Promover de manera permanente y estratégica la imagen turística y las oport
 
 XI. Desarrollar de manera permanente fuentes alternas de turismo que están en armonía con el entorno de vida de las diferentes comunidades;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2026)</small>
 
-XII. Promover en coordinación con la Secretaría de las Culturas y las Artes y demás instancias competentes la realización de eventos que promuevan las expresiones y manifestaciones culturales, incrementando la afluencia turística;
+XII. Promover en coordinación con la Secretaría de las Culturas y Artes y demás instancias competentes la realización de eventos que promuevan las expresiones y manifestaciones culturales, incrementando la afluencia turística;
 
 > <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
 
@@ -551,7 +551,9 @@ XX. Las que en el ámbito de su competencia le confiera directamente el Gobernad
 
 Corresponde a La Secretaría recabar, investigar, sistematizar y difundir la información turística del Estado de Oaxaca.
 
-Con la información que genere y obtenga la Secretaría elaborará y actualizará el Atlas Turístico de Oaxaca y se aplicará al Atlas Turístico de México a que se refiere la Ley General;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2026)</small>
+
+Con la información que genere y obtenga la Secretaría elaborará y actualizará el Atlas Turístico de Oaxaca y se replicará al Atlas Turístico de México a que se refiere la Ley General.
 
 ###### Artículo 10.
 
@@ -787,7 +789,9 @@ El Estado podrá otorgar incentivos, apoyos y reconocimientos a prestadores de s
 
 La Secretaría de Turismo, en coordinación con las autoridades ambientales y demás instancias competentes, promoverá la planificación, supervisión y seguimiento de las actividades ecoturísticas, asegurando su desarrollo sostenible, la protección del medio ambiente, la calidad de los servicios ofrecidos y el cumplimiento de los principios de sostenibilidad, equidad e integridad ecológica.
 
-## TÍTULO SEXTO
+> <small>(ADICIONADO [N. DE E. REFORMADO, ANTES TÍTULO SEXTO], P.O. 23 DE MAYO DE 2026)</small>
+
+## TÍTULO QUINTO (SIC). DE LAS ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE
 
 ### CAPÍTULO ÚNICO. DE LAS ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE
 
@@ -815,7 +819,9 @@ El Ejecutivo del Estado y los ayuntamientos podrán presentar ante la Secretarí
 
 En el Reglamento de la presente Ley, se establecerán los lineamientos de coordinación, para que el Ejecutivo del Estado y los Ayuntamientos conjuntamente realicen la solicitud señalada en el artículo anterior.
 
-## TÍTULO SÉPTIMO
+(REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], P.O. 23 DE MAYO DE 2026)
+
+## TÍTULO SEXTO
 
 DE LA PROMOCIÓN, DIFUSIÓN Y CAPACITACIÓN TURÍSTICA.
 
@@ -905,7 +911,9 @@ La Secretaría propondrá al Titular del Ejecutivo del Estado programas de capac
 
 Asimismo, la Secretaría en coordinación con instancias estatales competentes establecerá programas permanentes de capacitación dirigidos a los trabajadores del sector turístico, con inclusión de las personas con discapacidad.
 
-## TÍTULO OCTAVO. DE LOS ASPECTOS OPERATIVOS
+(REUBICADO [N. DE E. ANTES TÍTULO OCTAVO], P.O. 23 DE MAYO DE 2026)
+
+## TÍTULO SÉPTIMO. DE LOS ASPECTOS OPERATIVOS
 
 ### CAPÍTULO ÚNICO. DEL REGISTRO NACIONAL DE TURISMO
 
@@ -943,7 +951,9 @@ El Sistema Integral de Información Turística contará con las normas de calida
 
 El Sistema Integral de Información Turística operará con la información que proporcione la Subsecretaría de Desarrollo Turístico y la Subsecretaría de Operación Turística, con instituciones del sector privado, instituciones del sector educativo, instituciones, entidades federales, estatales, municipales y con instituciones relacionadas con el turismo en el Estado.
 
-## TÍTULO NOVENO. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y DE LOS TURISTAS
+(REUBICADO [N. DE E. ANTES TÍTULO NOVENO], P.O. 23 DE MAYO DE 2026)
+
+## TÍTULO OCTAVO. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y DE LOS TURISTAS
 
 ### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
@@ -1263,9 +1273,9 @@ VI. En caso de hacer uso de los servicios de hospedaje en compañía de niñas, 
 
 VII. En caso de que las niñas, niños o adolescentes, vayan acompañados por persona distinta a un familiar, por tratarse de un viaje escolar o deportivo, el adulto que los acompañe deberá acreditar por cualquier medio idóneo, que cuenta con la autorización para realizar dicho viaje.
 
-## TÍTULO DÉCIMO
+(REUBICADO Y REFORMADA SU DENOMINACIÓN [N. DE E. ANTES TÍTULO DÉCIMO], P.O. 23 DE MAYO DE 2026)
 
-DE LA COMPETIVIDAD (SIC) Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA Y DE LOS TRABAJADORES TURÍSTICOS.
+## TÍTULO NOVENO. DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA Y DE LOS TRABAJADORES TURÍSTICOS
 
 ### CAPÍTULO PRIMERO. DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA
 
@@ -1331,7 +1341,9 @@ La Secretaría emitirá reconocimientos por la calidad en la prestación de serv
 
 La Secretaría contará con el padrón de empleados y trabajadores a los que se les haya reconocido en los términos del artículo anterior, el cual deberá de publicarse al menos en un periódico de mayor circulación en el Estado, así como en los medios de difusión y comunicación de los que disponga la Secretaría.
 
-## TÍTULO DÉCIMO PRIMERO
+(REUBICADO [N. DE E. ANTES TÍTULO DÉCIMO PRIMERO], P.O. 23 DE MAYO DE 2026)
+
+## TÍTULO DÉCIMO
 
 ### CAPÍTULO ÚNICO. DE LA SITUACIÓN DE EMERGENCIA Y DESASTRE
 
@@ -1357,7 +1369,9 @@ II. Aplicar los protocolos de higiene y las medidas de limpieza y saneamiento de
 
 III. Cooperar estrechamente con los tres ámbitos de Gobierno, proporcionando la información requerida, aplicando las medidas adecuadas para evitar brotes y la propagación de enfermedades transmisibles.
 
-## TÍTULO DÉCIMO SEGUNDO. DE LA PROTECCIÓN AL TURISTA
+(REUBICADO [N. DE E. ANTES TÍTULO DÉCIMO SEGUNDO], P.O. 23 DE MAYO DE 2026)
+
+## TÍTULO DÉCIMO PRIMERO. DE LA PROTECCIÓN AL TURISTA
 
 ### CAPÍTULO I. DE LA PROTECCIÓN Y ORIENTACIÓN AL TURISTA
 
@@ -1467,9 +1481,11 @@ VII. En general, cualquier dato o circunstancia que aporte elementos para la apl
 
 Para la determinación del monto de las multas, se tomará en consideración, además de lo estipulado en el artículo anterior, el tipo de servicio turístico de que se trate, su categoría y ubicación, así como los precios y tarifas que tengan establecidos, las cuales en todo caso deberán ser proporcionales a la infracción y dentro de los parámetros establecidos para cada caso en el Reglamento de ésta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2026)</small>
+
 ###### Artículo 80.
 
-Serán supletorias de la presente Ley, el Código Civil, el Código de Procedimientos Civiles y la Ley de Justicia Administrativa, todas del Estado de Oaxaca.
+Serán supletorias de la presente Ley, el Código de Procedimientos Civiles y la Ley de Procedimientos y Justicia Administrativa para el Estado de Oaxaca.
 
 ###### Artículo 81.
 
@@ -1718,3 +1734,11 @@ P.O. 3 DE ENERO DE 2026.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1498.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I TER Y XII QUÁTER DEL ARTÍCULO 4, LA FRACCIÓN XII DEL ARTÍCULO 9, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 9 BIS, Y EL ARTÍCULO 80; SE ADICIONA EL TÍTULO QUINTO, DENOMINADO "DE LAS ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE", RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES TÍTULOS DE LA LEY DE TURISMO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en (sic) Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
