@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2026-01-10"
+last_updated: "2026-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3323,17 +3323,21 @@ Homicidio.
 
 285.- Comete el delito de homicidio el que priva de la vida a otro.
 
-286.- Para la aplicación de las sanciones que correspondan al que infrinja el artículo anterior, no se tendrá como mortal una lesión sino cuando se verifiquen las tres circunstancias siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2026)</small>
+
+286.- Para la aplicación de las sanciones que correspondan al que infrinja el artículo anterior, no se tendrá como mortal una lesión sino cuando se verifiquen las circunstancias siguientes:
 
 I.- Que la muerte se deba a las alteraciones causadas por la lesión en el órgano u órganos interesados, a alguna de sus consecuencias inmediatas o alguna complicación determinada por la misma lesión y que no pudo combatirse, ya sea por ser incurable, ya por no tenerse al alcance los recursos necesarios;
 
-II.- Que la muerte del ofendido se verifique dentro de sesenta días contados desde que fue lesionado;
+II.- (DEROGADA, P.O. 23 DE MAYO DE 2026)
 
 III.- Que si se encuentra el cadáver del occiso declaren los peritos, después de hacer la autopsia que la lesión fue mortal, sujetándose para ello a las reglas contenidas en este Artículo, en los dos siguientes y en el Código de Procedimientos Penales.
 
 Cuando el cadáver no se encuentre, o por otro motivo no se haga la autopsia, bastará que los peritos en vista de los datos que obran en la causa, declaren que la muerte fue resultado de las lesiones inferidas.
 
-287.- Siempre que se verifiquen las tres circunstancias del artículo anterior, se tendrá como mortal una lesión, aunque se pruebe:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2026)</small>
+
+287.- Siempre que se verifiquen las circunstancias del artículo anterior, se tendrá como mortal una lesión, aunque se pruebe:
 
 I.- Que se habría evitado la muerte con auxilios oportunos;
 
@@ -6828,5 +6832,15 @@ P.O. 10 DE ENERO DE 2026.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su Publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 23 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1494.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 286 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 287; Y SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 286, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
