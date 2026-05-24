@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-gestion-ambiental-sustentable-para-el-estado-de-75884"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-24"
-last_updated: "2025-12-04"
+last_updated: "2026-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de junio de 2010.
 
@@ -73,11 +73,21 @@ VI. El establecimiento de medidas que aseguren el cumplimiento y aplicación de 
 
 VII. Suscribir, convenios o acuerdos de coordinación con la Federación a través de la Secretaría de Recursos Naturales y Medio Ambiente para aplicar sanciones administrativas y penales que de ellos se deriven;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE MAYO DE 2026)</small>
+
 VIII. La realización de convenios derivados de sanción administrativa, emitida por la propia dependencia;
 
-IX. La protección de la biodiversidad, así como el establecimiento de áreas naturales protegidas, su administración y el aprovechamiento sustentable que de ahí se genere; y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2026)</small>
 
-X. La sustentabilidad en el manejo y el aprovechamiento de los recursos naturales, así como su preservación.
+IX. La protección de la biodiversidad, así como el establecimiento de áreas naturales protegidas, su administración y el aprovechamiento sustentable que de ahí se genere;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2026)</small>
+
+X. La sustentabilidad en el manejo y el aprovechamiento de los recursos naturales, así como su preservación, y
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2026)</small>
+
+XI. Fomentar el reconocimiento de los Paisajes Bioculturales.
 
 ###### ARTÍCULO 2.
 
@@ -355,17 +365,21 @@ LXV. Utilidad pública: De interés o beneficio para el pueblo;
 
 LXVI. Vocación natural: Condiciones propias o particulares que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos;
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2026)</small>
 
-LXVII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente, y
+LXVII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente;
 
-> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2026)</small>
 
-LXVIII. ARBORIZAR: Plantar árboles, preferentemente de especies frutales, en las áreas urbanas existentes en una población, Municipio y el Estado; con independencia de que dichos arboles sean nativos o bien exóticos que hayan sido adaptados a las condiciones climáticas del Estado, pero con el fin de lograr un equilibrio ecológico propicio para el desarrollo de los habitantes.
+LXVIII. Arborizar: Plantar árboles, preferentemente de especies frutales, en las áreas urbanas existentes en una población, Municipio y el Estado; con independencia de que dichos arboles sean nativos o bien exóticos que hayan sido adaptados a las condiciones climáticas del Estado, pero con el fin de lograr un equilibrio ecológico propicio para el desarrollo de los habitantes;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2026)</small>
 
-LXIX. Área destinada voluntariamente a la conservación: aquella que los pueblos indígenas, organizaciones sociales, personas físicas y morales han determinado de manera voluntaria a la conservación ambiental.
+LXIX. Área destinada voluntariamente a la conservación: Aquella que los pueblos indígenas, organizaciones sociales, personas físicas y morales han determinado de manera voluntaria a la conservación ambiental, y
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2026)</small>
+
+LXX. Paisajes bioculturales: Son territorios reconocidos como tales a través de una certificación otorgada por la Secretaría, que contribuyen a la gestión territorial integral, teniendo por objetivo proteger el patrimonio natural y cultural que les da identidad, mediante la planificación de los usos tradicionales del suelo y la promoción del crecimiento económico local a través del desarrollo rural y urbano sustentable.
 
 ###### ARTÍCULO 3.
 
@@ -377,7 +391,9 @@ Atendiendo al objeto de esta Ley, se consideran de utilidad pública:
 
 I. El ordenamiento ecológico del territorio estatal en los casos previstos por ésta y demás leyes aplicables;
 
-II. El establecimiento, administración, protección, preservación, conservación y restauración de áreas naturales protegidas y de las zonas de restauración ecológica del Estado;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2026)</small>
+
+II. El establecimiento, administración, protección, preservación, conservación y restauración de áreas naturales protegidas y de las zonas de restauración ecológica del Estado; así como la gestión sostenible de los territorios a través de paisajes bioculturales u otros mecanismos efectivos de conservación del Estado;
 
 III. La prevención y control de la contaminación del ambiente;
 
@@ -493,13 +509,17 @@ XLI. Prohibir que se entreguen para transportación, carga o traslado del consum
 
 XLII. Llevar un registro estatal de arbolado, con acceso al público y de las personas autorizadas para presentar algún servicio en materia de arbolado urbano;
 
-> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2026)</small>
 
-XLIII. Procurar la reforestación, la creación de viveros, la arborización de los Centros de Educación y promover entre los particulares campañas para dichos fines y Cultura Ambiental, en las áreas urbanas de su competencia que carezcan de árboles suficientes para mantener el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes; y
+XLIII. Procurar la reforestación, la creación de viveros, la arborización de los Centros de Educación y promover entre los particulares campañas para dichos fines y Cultura Ambiental, en las áreas urbanas de su competencia que carezcan de árboles suficientes para mantener el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2026)</small>
+
+XLIV. Fomentar el reconocimiento y la conservación de los paisajes bioculturales, promoviendo la participación de las comunidades y propietarios del territorio, y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE NOVIEMBRE DE 2020)</small>
 
-XLIV. Las demás a que se refiere esta Ley y demás ordenamientos jurídicos complementarios y supletorios.
+XLV. Las demás a que se refiere esta Ley y demás ordenamientos jurídicos complementarios y supletorios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
@@ -1403,11 +1423,29 @@ Los ingresos que se recauden por el concepto de otorgamiento de permisos, autori
 
 El Gobierno estatal y los municipales, en el ámbito de sus respectivas competencias, regularán el trato digno que deberá darse a los animales.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 2026)</small>
+
+### CAPÍTULO IV. DE OTROS MECANISMOS EFECTIVOS DE CONSERVACIÓN
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2026)</small>
+
+ARTÍCULO 66 BIS. Los paisajes bioculturales son territorios reconocidos por el Estado que contribuyen a la gestión territorial con el objetivo de proteger el patrimonio natural y cultural que les da identidad, mediante la planificación de los usos tradicionales del suelo y la promoción del crecimiento económico local a través del desarrollo rural sustentable. El reconocimiento del paisaje biocultural iniciará mediante acuerdo entre los municipios involucrados, los ejidos y comunidades, así como los propietarios de los predios comprendidos, en el territorio correspondiente. En dicho proceso podrán participar, además, organizaciones de la sociedad civil, sectores productivos, instituciones académicas y la Secretaría.
+
+El reconocimiento de los paisajes bioculturales se realizará mediante certificado expedido por la Secretaría, con una vigencia de quince años, conforme a los requisitos, procedimiento y demás disposiciones que establezca el reglamento de la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2026)</small>
+
+ARTÍCULO 66 TER. La Secretaría podrá otorgar el uso del distintivo que identifique a los paisajes bioculturales del Estado de Durango a las administraciones de aquellos que cuenten con el certificado vigente, en los términos que establezca el reglamento.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2026)</small>
+
+ARTÍCULO 66 QUATER. El Gobierno del Estado, a través de la Secretaría, tomará en cuenta las estrategias de gestión territorial determinadas en los paisajes bioculturales para la planeación del territorio y la implementación de otros mecanismos de conservación, en aquellas acciones que se lleven a cabo dentro de las superficies comprendidas en los certificados de paisajes bioculturales.
+
+Asimismo, los paisajes bioculturales, por conducto de sus órganos de representación, podrán fungir como representantes de la colectividad ante las instancias del Gobierno del Estado y los diversos órganos de consulta existentes, de conformidad con la reglamentación aplicable.
 
 ## TÍTULO QUINTO. DE LA PROTECCIÓN AL AMBIENTE
 
-### CAPÍTULO II. DEL REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES (RETC)
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 67.
 
@@ -1445,7 +1483,7 @@ II. Preservar al máximo posible las condiciones naturales de las horas nocturna
 
 III. Reducir la intrusión lumínica en zonas distintas a las que se pretende iluminar, principalmente en entornos naturales e interior de edificios.
 
-### CAPÍTULO III. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AIRE
+### CAPÍTULO II. DEL REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES (RETC)
 
 ###### ARTÍCULO 70.
 
@@ -1481,7 +1519,7 @@ El Estado deberá promover en los Municipios la integración del RETC municipal,
 
 El Reglamento de la presente Ley Estatal en materia del Registro citado, fijará las formas y los tiempos, así como los procedimientos para la integración del propio registro y la actualización del mismo.
 
-### CAPÍTULO IV. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
+### CAPÍTULO III. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AIRE
 
 ###### ARTÍCULO 76.
 
@@ -1561,7 +1599,7 @@ III. Realicen investigación científica y tecnológica e innovación, cuya apli
 
 IV. Ubiquen o relocalicen sus instalaciones para evitar emisiones contaminantes en zonas urbanas.
 
-### CAPÍTULO V. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO Y DE LA EROSIÓN
+### CAPÍTULO IV. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
 ###### ARTÍCULO 85.
 
@@ -1645,9 +1683,7 @@ III. Programas de ordenamiento ambiental y las declaratorias de uso de suelo que
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO VI. CONTAMINACIÓN GENERADA POR RUIDO, VIBRACIONES, OLORES, VISUAL, ENERGÍA LUMÍNICA, TÉRMICA Y RADIACIONES ELECTROMAGNÉTICAS NO IONIZANTES
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2025)</small>
+### CAPÍTULO V. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO Y DE LA EROSIÓN
 
 ###### ARTÍCULO 96.
 
@@ -1663,7 +1699,9 @@ ARTÍCULO 96 BIS. (DEROGADO, P.O. 26 DE DICIEMBRE DE 2021)
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2021)
 
-### CAPÍTULO VII. DEL SISTEMA DE INFORMACIÓN AMBIENTAL Y DE RECURSOS NATURALES
+### CAPÍTULO VI. CONTAMINACIÓN GENERADA POR RUIDO, VIBRACIONES, OLORES, VISUAL, ENERGÍA LUMÍNICA, TÉRMICA Y RADIACIONES ELECTROMAGNÉTICAS NO IONIZANTES
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2025)</small>
 
 ###### ARTÍCULO 99.
 
@@ -1725,7 +1763,7 @@ La Secretaría y los Ayuntamientos en el ámbito de sus competencias, estarán f
 
 En los 39 municipios de la entidad queda prohibida la fabricación, depósito, distribución, comercio, uso y venta al público de fuegos pirotécnicos con fines de entretenimiento, cuyos efectos audibles o sonoros sean superiores a 85 decibeles.
 
-### CAPÍTULO VII (SIC). DE LOS PRESTADORES DE SERVICIO
+### CAPÍTULO VII. DEL SISTEMA DE INFORMACIÓN AMBIENTAL Y DE RECURSOS NATURALES
 
 ###### ARTÍCULO 102.
 
@@ -1736,6 +1774,40 @@ Se establecerá un Sistema de Información Ambiental y de Recursos Naturales, mi
 En dicho Sistema, la Secretaría deberá integrar, entre otros aspectos, información relativa a los inventarios de recursos naturales existentes en el estado, a los mecanismos y resultados obtenidos del monitoreo de la calidad del aire y al ordenamiento ecológico del territorio del estado, así como la información correspondiente a los registros, planes y acciones que se realicen para la preservación y restauración del equilibrio ecológico y protección al ambiente.
 
 La Secretaría reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o cualquier otra índole en materia ambiental, y de protección o aprovechamiento sustentable de recursos naturales, realizados sobre el estado, por personas físicas o morales, nacionales o extranjeras, los que serán remitidos al Sistema Estatal de Información Ambiental y Recursos Naturales.
+
+### CAPÍTULO VII (SIC). DE LOS PRESTADORES DE SERVICIO
+
+###### ARTÍCULO 103.
+
+De conformidad con la presente Ley las personas físicas o morales que presten servicios en materia ambiental en general, y en materia de impacto y riesgo ambiental, así como los laboratorios ambientales, deberán de estar inscritas en un Registro Estatal de Prestadores de Servicio en materia ambiental, que estará a cargo de la Secretaría. Aquellos prestadores que carezcan de dicha inscripción, o no hayan solicitado a la Secretaría la actualización de su registro, en los términos que establece el Reglamento de la presente Ley, no podrán prestar sus servicios de gestoría, tramitación o intermediación de ninguna de las materias que establece la presente Ley y los ordenamientos e instrumentos que de ella se deriven.
+
+Los Prestadores que incumplan lo dispuesto en el presente artículo serán sancionados en los términos que establece la presente Ley.
+
+###### ARTÍCULO 104.
+
+Los Prestadores de Servicios en materia ambiental en general y de impacto y riesgo ambiental, serán responsables ante la Secretaría, de los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo que elaboren, quienes declararán bajo protesta de decir verdad, que en ellos se incorporarán las mejores técnicas y metodologías existentes, así como la información y las medidas de prevención y mitigación más efectivas respecto de las obras y actividades que evalúen.
+
+Así mismo, los informes preventivos, las manifestaciones de impacto ambiental y los estudios de riesgo podrán ser presentados directamente por los interesados, en este caso la responsabilidad respecto del contenido del documento corresponderá a quien lo suscriba.
+
+###### ARTÍCULO 105.
+
+Para integrar y actualizar el registro a que se refiere el Artículo 103 de esta Ley, la Secretaria elaborará una lista de Prestadores de Servicios en materia ambiental en general y en materia de impacto y riesgo ambiental, al efecto se consultará periódicamente a los colegios de profesionistas respectivos, a las cámaras empresariales e industriales y a las instituciones de investigación y de educación superior, cuyos representantes integrarán un Consejo Técnico, que podrá practicar las investigaciones y evaluaciones necesarias para verificar la capacidad y aptitud de los prestadores de servicios en materia ambiental y de impacto y de riesgo ambiental.
+
+El Reglamento de la presente Ley establecerá los procedimientos correspondientes al registro, así como a la integración del Consejo Técnico.
+
+###### ARTÍCULO 106.
+
+Los Prestadores de Servicios en materia ambiental general y en materia de impacto y riesgo ambiental son responsables de la calidad y veracidad de la información, así como del nivel profesional de los estudios que elaboren; y deberán recomendar a los promoventes sobre la adecuada realización de las medidas de mitigación y compensación derivadas de los estudios.
+
+###### ARTÍCULO 107.
+
+La Secretaría podrá convenir programas de evaluación o capacitación de Prestadores de Servicios en materia ambiental en coordinación con los colegios, asociaciones de profesionales e instituciones de investigación y de educación superior correspondiente.
+
+###### ARTÍCULO 108.
+
+La Secretaría establecerá los lineamientos y procedimientos para incorporar al registro señalado en el presente capítulo, a los laboratorios ambientales de análisis de contaminantes en el aire, agua, suelo, subsuelo, materiales o residuos, atendiendo las acreditaciones, certificaciones o reconocimientos que hayan obtenido dichos laboratorios.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ### CAPÍTULO IX (SIC). DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN POR EL USO DE PLÁSTICOS
 
@@ -1803,43 +1875,9 @@ ARTÍCULO 108 NONIES. La Secretaría será la encargada de vigilar y verificar e
 
 La Secretaría podrá celebrar convenios de colaboración con los ayuntamientos a fin de dar cumplimiento a lo previsto en este capítulo.
 
-###### ARTÍCULO 103.
-
-De conformidad con la presente Ley las personas físicas o morales que presten servicios en materia ambiental en general, y en materia de impacto y riesgo ambiental, así como los laboratorios ambientales, deberán de estar inscritas en un Registro Estatal de Prestadores de Servicio en materia ambiental, que estará a cargo de la Secretaría. Aquellos prestadores que carezcan de dicha inscripción, o no hayan solicitado a la Secretaría la actualización de su registro, en los términos que establece el Reglamento de la presente Ley, no podrán prestar sus servicios de gestoría, tramitación o intermediación de ninguna de las materias que establece la presente Ley y los ordenamientos e instrumentos que de ella se deriven.
-
-Los Prestadores que incumplan lo dispuesto en el presente artículo serán sancionados en los términos que establece la presente Ley.
-
-###### ARTÍCULO 104.
-
-Los Prestadores de Servicios en materia ambiental en general y de impacto y riesgo ambiental, serán responsables ante la Secretaría, de los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo que elaboren, quienes declararán bajo protesta de decir verdad, que en ellos se incorporarán las mejores técnicas y metodologías existentes, así como la información y las medidas de prevención y mitigación más efectivas respecto de las obras y actividades que evalúen.
-
-Así mismo, los informes preventivos, las manifestaciones de impacto ambiental y los estudios de riesgo podrán ser presentados directamente por los interesados, en este caso la responsabilidad respecto del contenido del documento corresponderá a quien lo suscriba.
-
-###### ARTÍCULO 105.
-
-Para integrar y actualizar el registro a que se refiere el Artículo 103 de esta Ley, la Secretaria elaborará una lista de Prestadores de Servicios en materia ambiental en general y en materia de impacto y riesgo ambiental, al efecto se consultará periódicamente a los colegios de profesionistas respectivos, a las cámaras empresariales e industriales y a las instituciones de investigación y de educación superior, cuyos representantes integrarán un Consejo Técnico, que podrá practicar las investigaciones y evaluaciones necesarias para verificar la capacidad y aptitud de los prestadores de servicios en materia ambiental y de impacto y de riesgo ambiental.
-
-El Reglamento de la presente Ley establecerá los procedimientos correspondientes al registro, así como a la integración del Consejo Técnico.
-
-###### ARTÍCULO 106.
-
-Los Prestadores de Servicios en materia ambiental general y en materia de impacto y riesgo ambiental son responsables de la calidad y veracidad de la información, así como del nivel profesional de los estudios que elaboren; y deberán recomendar a los promoventes sobre la adecuada realización de las medidas de mitigación y compensación derivadas de los estudios.
-
-###### ARTÍCULO 107.
-
-La Secretaría podrá convenir programas de evaluación o capacitación de Prestadores de Servicios en materia ambiental en coordinación con los colegios, asociaciones de profesionales e instituciones de investigación y de educación superior correspondiente.
-
-###### ARTÍCULO 108.
-
-La Secretaría establecerá los lineamientos y procedimientos para incorporar al registro señalado en el presente capítulo, a los laboratorios ambientales de análisis de contaminantes en el aire, agua, suelo, subsuelo, materiales o residuos, atendiendo las acreditaciones, certificaciones o reconocimientos que hayan obtenido dichos laboratorios.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2019)</small>
-
-### CAPÍTULO I. DISPOSICIONES COMUNES
-
 ## TÍTULO SEXTO. GESTIÓN AMBIENTAL Y PARTICIPACIÓN SOCIAL
 
-### CAPÍTULO II. DE LAS AUTORIZACIONES
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 109.
 
@@ -1879,9 +1917,7 @@ VIII. La Secretaría desarrollará un Sistema Estatal de Información Ambiental 
 
 IX. Fomentarán acciones encaminadas a que los establecimientos que vendan alimentos y bebidas no promuevan el consumo de popotes, salvo que el usuario así lo disponga. Los establecimientos deberán cerciorarse de que el cliente realmente necesite de estos para su entrega.
 
-### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+### CAPÍTULO II. DE LAS AUTORIZACIONES
 
 ###### ARTÍCULO 112.
 
@@ -1933,9 +1969,9 @@ V. Por cumplirse el término de vigencia.
 
 ## TÍTULO SÉPTIMO. DEL CONTROL, SEGURIDAD Y SANCIONES
 
-### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 116.
 
@@ -2039,9 +2075,9 @@ La Autoridad ambiental podrá revocar o modificar la sanción o sanciones impues
 
 La Secretaría o el Ayuntamiento, deberán hacer del conocimiento del Ministerio Público Federal o local cuando del procedimiento o verificaciones se advierta la comisión de delitos.
 
-### CAPÍTULO III. DE LA RESPONSABILIDAD POR DAÑO AMBIENTAL
+### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 128.
 
@@ -2065,9 +2101,9 @@ VII. Las medidas urgentes que, a criterio de la autoridad, puedan evitar que se 
 
 Cuando se ordene cualquier medida de seguridad, prevista en esta Ley, deberá informársele al interesado sobre las acciones que debe realizar para subsanar las irregularidades que motivaron la imposición de dicha medida, así como los plazos para su realización, para que una vez que se ha cumplido con dichas acciones se ordene el retiro de la medida de seguridad impuesta.
 
-### CAPÍTULO IV. DE LAS SANCIONES
+### CAPÍTULO III. DE LA RESPONSABILIDAD POR DAÑO AMBIENTAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 130.
 
@@ -2101,7 +2137,9 @@ Si con motivo del juicio en el que se ejerza la acción de responsabilidad por d
 
 Cuando por infracción a las disposiciones de esta ley así como a sus disposiciones reglamentarias se ocasionen daños o perjuicios, los interesados podrán solicitar a la autoridad ambiental, la formulación de un dictamen técnico al respecto, el cual tendrá el valor de medio de convicción en caso de que se presente en juicio.
 
-### CAPÍTULO V. DE LOS DELITOS CONTRA LA ECOLOGÍA
+### CAPÍTULO IV. DE LAS SANCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 134.
 
@@ -2297,9 +2335,7 @@ Los ingresos que se obtengan de las sanciones por infracción a lo dispuesto en 
 
 Los Municipios, en la esfera de su competencia, regularán las sanciones administrativas que correspondan por violaciones a los bandos y reglamentos que expidan para tal efecto, en concordancia con lo dispuesto en esta Ley.
 
-### CAPÍTULO VI. DEL RECURSO DE INCONFORMIDAD
-
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+### CAPÍTULO V. DE LOS DELITOS CONTRA LA ECOLOGÍA
 
 ###### ARTÍCULO 146.
 
@@ -2365,9 +2401,9 @@ La Secretaría será coadyuvante del Ministerio Público Federal y del local en 
 
 La Secretaría proporcionará, en las materias de su competencia los dictámenes técnicos o periciales que se soliciten por parte del Ministerio Público Federal, local o de las autoridades judiciales correspondientes para llevar a cabo la investigación relativa a la procuración e impartición de justicia en la comisión de los delitos ecológicos y ambientales.
 
-### CAPÍTULO VII. DE LA DENUNCIA POPULAR
+### CAPÍTULO VI. DEL RECURSO DE INCONFORMIDAD
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 152.
 
@@ -2498,6 +2534,10 @@ En caso de que se expidan licencias, permisos, autorizaciones o concesiones cont
 ###### ARTÍCULO 163.
 
 En todo caso los interesados afectados por los actos y resoluciones de la Secretaría o Ayuntamientos que pongan fin al procedimiento del recurso de inconformidad, podrán recurrir directamente ante el Tribunal de Justicia Fiscal y Administrativa del Estado, conforme a las reglas de la Ley de la materia, interponer el recurso que corresponda.
+
+### CAPÍTULO VII. DE LA DENUNCIA POPULAR
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 164.
 
@@ -2768,3 +2808,13 @@ P.O. 4 DE DICIEMBRE DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 24 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 397 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de (sic) publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. La persona titular del Poder Ejecutivo deberá expedir, dentro de un plazo no mayor a 365 días contado a partir de la entrada en vigor del presente Decreto, las reformas y adiciones necesarias a la reglamentación en materia de Gestión Ambiental Sustentable.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
