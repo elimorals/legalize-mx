@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-actos-y-procedimientos-administrativos-del-estado-de-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-07"
-last_updated: "2025-12-24"
+last_updated: "2026-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE MAYO DE 2026.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de diciembre de 2009.
 
@@ -185,9 +185,11 @@ Lo señalado en el párrafo anterior no será impedimento para que la autoridad 
 
 La declaración de nulidad producirá efectos retroactivos. Si los efectos del acto administrativo ya se hubieran consumado o sea imposible retrotraerlos, la declaratoria de nulidad sólo dará lugar a la responsabilidad del servidor público que lo hubiere emitido u ordenado.
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 10.
 
-Cuando se haya generado algún derecho o beneficio al particular y la autoridad administrativa advierta que no contiene los elementos establecidos en el artículo 6 de esta Ley y que tal omisión ocasiona afectación al interés público deberá promover juicio contencioso administrativo ante el Tribunal, salvo en los casos en que los ordenamientos jurídicos aplicables permitan a la autoridad revocar o anular oficiosamente dichos actos administrativos.
+Cuando se haya generado algún derecho o beneficio al particular mediante actos administrativos, y la autoridad administrativa advierta que no contiene los elementos establecidos en el artículo 6 de esta Ley y que tal omisión ocasiona afectación al interés público, deberá promover juicio de lesividad ante el Tribunal, salvo en los casos en que los ordenamientos jurídicos aplicables permitan a la autoridad revocar o anular oficiosamente dichos actos administrativos.
 
 ###### Artículo 11.
 
@@ -1356,3 +1358,21 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Artículo segundo. Derogación expresa
 
 Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
+
+D.O. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 188/2026 POR EL QUE SE MODIFICAN LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE YUCATÁN, LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN Y LA LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE YUCATÁN, EN MATERIA DE JUICIO DE LESIVIDAD Y MEDIDAS CAUTELARES”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de las disposiciones del capítulo XIII de la Ley de lo Contencioso Administrativo del Estado de Yucatán con relación a las notificaciones a través del boletín jurisdiccional que lo harán conforme al plazo establecido en el artículo tercero transitorio de este decreto.
+
+Segundo. Procedimiento y asuntos en trámite
+
+Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se substanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
+
+Artículo Tercero. Implementación de Boletín Jurisdiccional
+
+El Tribunal de Justicia Administrativa del Estado de Yucatán contará con un plazo de hasta noventa días naturales contados a partir de la publicación del presente decreto, para crear e implementar el Boletín Jurisdiccional.
+
+En tanto se implementa el boletín jurisdiccional las notificaciones que lleve a cabo el Tribunal de Justicia Administrativa del Estado de Yucatán, continuarán realizándose conforme a las disposiciones vigentes previo a la entrada en vigor de este decreto.
