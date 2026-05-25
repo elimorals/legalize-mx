@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2026-02-27"
+last_updated: "2026-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2026.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -53,7 +53,7 @@ El Estado de Sinaloa, como parte integrante de los Estados Unidos Mexicanos, se 
 
 En lo que atañe a su régimen interior la soberanía del Estado reside esencial y originariamente en el pueblo sinaloense, el cual propugna como valores superiores de su orden jurídico y social, la libertad, la igualdad sustantiva, la justicia, la solidaridad, el pluralismo político y la diversidad cultural.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2026)</small>
 
 ###### Art. 4º.
 
@@ -2345,15 +2345,13 @@ Las autoridades garantes podrán ejercer sus atribuciones por conducto de entida
 
 Las autoridades garantes y los sujetos obligados se regirán por las leyes generales y estatales en materia de transparencia y acceso a la información pública y protección de datos personales.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE MARZO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MAYO DE 2026)</small>
 
-### CAPITULO VIII. DE LA REFORMA REGULATORIA
+### CAPITULO VIII. DE LA SIMPLIFICACIÓN ADMINISTRATIVA Y DIGITALIZACIÓN DE TRÁMITES Y SERVICIOS
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2026)</small>
 
-Art. 109 Bis C. La Reforma Regulatoria es una Política Pública de desarrollo obligatorio de manera permanente, continua y coordinada para todas las autoridades del Estado y los Municipios en sus respectivos ámbitos de competencia, que consiste en la generación de normas claras, de trámites y servicios simplificados, así como de instituciones eficaces para su creación y aplicación, que se orienten a obtener el mayor valor posible de los recursos disponibles y del óptimo funcionamiento de las actividades comerciales, industriales, productivas, de servicio y de desarrollo humano de la sociedad en su conjunto.
-
-El Congreso del Estado mediante una ley creará el Sistema Estatal de Mejora Regulatoria en términos de la Ley General de la materia, así como los instrumentos necesarios para que las leyes emitidas por dicho Congreso y las normas de carácter general que emita cualquier autoridad, entidad, órgano u organismo gubernamental, así como órganos autónomos de ámbito estatal y municipal garanticen beneficios superiores a sus costos y el máximo bienestar para la sociedad, incorporando para ello el uso de las tecnologías de la información.
+Art. 109 Bis C. A fin de contribuir al desarrollo y bienestar de las personas, grupos, comunidades y sectores sociales y económicos, las autoridades del Gobierno del Estado y de los Municipios deberán implementar políticas públicas de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas y los demás objetivos que establezca la ley nacional en la materia.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE MARZO DE 2017)</small>
 
@@ -3275,7 +3273,7 @@ Para los efectos del artículo 18 de esta Constitución y mientras se expidan la
 
 ###### Art. 3º.
 
-El Estado de Sinaloa es libre y soberano en su régimen interior, sin más limitaciones que las expresamente establecidas por el Pacto Federal. Sus tareas fundamentales son promover el bienestar individual y colectivo de los sinaloenses, el desarrollo económico sustentable considerando la mejora regulatoria como una estrategia para alcanzar dicho propósito, también el procurar la seguridad y la paz social, la participación de todos los ciudadanos en la vida política, económica, cultural y social, y la equidad en las relaciones sociales.
+El Estado de Sinaloa es libre y soberano en su régimen interior, sin más limitaciones que las expresamente establecidas por el Pacto Federal. Sus tareas fundamentales son promover el bienestar individual y colectivo de los sinaloenses, el desarrollo económico sustentable considerando la simplificación administrativa y digitalización de trámites y servicios, y el desarrollo de capacidades tecnológicas como una estrategia para alcanzar dicho propósito, también el procurar la seguridad y la paz social, la participación de todos los ciudadanos en la vida política, económica, cultural y social, y la equidad en las relaciones sociales.
 
 ###### Art. 4o.
 
@@ -4934,3 +4932,11 @@ P.O. 27 DE FEBRERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 345 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 4° BIS A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 397 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VIII DEL TÍTULO CUARTO, Y LOS ARTÍCULOS 3° Y 109 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
