@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-agencia-de-transporte-de-yucatan-168912"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-28"
-last_updated: "2025-12-31"
+last_updated: "2026-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LA AGENCIA DE TRANSPORTE DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE MAYO DE 2026.
 
 Ley publicada en la Edición Vespertina del Número 35,272 del Diario Oficial del Estado de Yucatán, el jueves 28 de diciembre de 2023.
 
@@ -55,9 +55,15 @@ Ley de la Agencia de Transporte de Yucatán
 
 Objeto de la ley
 
-Esta ley es de orden público, de interés social y de observancia general en el estado de Yucatán, y tiene por objeto regular la organización, atribuciones y el funcionamiento de la Agencia de Transporte de Yucatán, así como regular la organización, administración y control de la organización del servicio de transporte de personas pasajeras en el estado de Yucatán.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
+
+Esta ley es de orden público, de interés social y de observancia general en el estado de Yucatán, y tiene por objeto regular las atribuciones y el funcionamiento de la Agencia de Transporte de Yucatán, así como gestionar la administración y control de la organización del servicio de transporte de personas pasajeras en el estado de Yucatán.
 
 Queda exceptuado de la aplicación de esta ley, el servicio de transporte de carga público y privado, incluyendo el contratado a través de plataformas tecnológicas, el cual se regula conforme a lo establecido en la Ley de Movilidad y Seguridad Vial del Estado de Yucatán y demás normativa aplicable.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Se considera de utilidad pública e interés general la prestación del servicio de transporte público de personas pasajeras, así como el establecimiento, funcionamiento de centros de trasbordo de pasajeros, bienes muebles, instalaciones, terminales, estacionamientos, patios de encierro, confinamientos y demás infraestructura necesaria para la prestación del servicio.
 
 ###### Artículo 2.
 
@@ -77,9 +83,23 @@ V. Concesión: la autorización que emite la persona titular de la agencia, para
 
 VI. Constancia: el documento expedido por la persona titular de la agencia, mediante el cual se autoriza a una persona física o moral para prestar, promover, administrar u operar el servicio de transporte de personas pasajeras contratado a través de plataformas tecnológicas o de medios alternativos de transporte.
 
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VI bis. Costo fijo: la cantidad que se integra con los costos y gastos necesarios para la operación de los vehículos de transporte público, y que no varían directamente con el número de kilómetros recorridos. Entre estos conceptos se comprenden: los sueldos y cargas laborales de personal operativo, administrativo y directivo, los seguros, los gastos administrativos, gastos de patios de encierro, limpieza de las unidades, entre otros, conforme a lo establecido en esta ley y a lo que establezca la agencia.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VI ter. Costo variable: la cantidad que se integra con los costos incurridos que se relacionan directamente con el funcionamiento y el kilometraje recorrido por los vehículos de transporte público. Entre estos conceptos se identifican: los combustibles, los aditivos, los lubricantes, los neumáticos, el mantenimiento preventivo y correctivo, entre otros, conforme a lo establecido en esta ley y a lo que establezca la agencia.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VI. quater. Costo financiero: el gasto en el que incurre la persona concesionaria por la adquisición y la renovación de la flota vehicular, dividido entre el número de meses de vida útil de la unidad, para mantener la calidad del servicio de transporte y mejorar la eficiencia del costo por kilómetro recorrido.
+
 VII. Derrotero: la descripción de la ruta que especifica las vialidades que deberán circular los vehículos del servicio de transporte público de personas pasajeras, a excepción de la clasificación de taxi.
 
-VIII. Dispositivos electrónicos: la tecnología utilizada para el funcionamiento del sistema de control de acceso y la operatividad del vehículo, así como los sistemas de posicionamiento global, contadores de personas pasajeras y validadores, o los demás que se establezcan en la normativa correspondiente.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VIII. Equipo embarcado. Conjunto de dispositivos, sistemas o componentes instalados a bordo de los vehículos del Sistema de Transporte, destinados a la operación, comunicación, control, seguridad, monitoreo o gestión del servicio y que se adquiera conforme a la determinación de la Agencia.
 
 IX. Empresas de redes de transporte: la persona física o moral que, basándose en el desarrollo de las tecnologías de los teléfonos inteligentes y los sistemas de posicionamiento global, promueva, administre u opere una plataforma tecnológica en el estado, para la prestación del servicio de transporte de personas pasajeras, ya sea directamente o a través de una filial, subsidiaria o empresa relacionada, en virtud de acuerdos comerciales que tenga celebrados y estén vigentes.
 
@@ -91,9 +111,11 @@ XII. Kilometraje programado: la cantidad de kilómetros que determinará la agen
 
 XIII. Kilómetros en ruta: la distancia recorrida por un vehículo de transporte público de personas pasajeras, adherido al sistema, durante su operación diaria dentro del derrotero, sin incluir las paradas o salidas desde o hacia el patio de encierro.
 
-XIV. Kilómetros en vacío: la distancia recorrida por un vehículo de transporte público adherido al sistema, cuando está fuera de su ruta planificada o del derrotero, o no está prestando el servicio de transporte de personas pasajeras. Estos desplazamientos incluyen maniobras, salidas del patio de encierro y traslados que no forman parte de la ruta regular del vehículo.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-XV. Kilómetros mínimos garantizados: la cantidad de kilómetros asegurados en un día, en una concesión a un vehículo de transporte público de personas pasajeras, siempre que cumpla con las características mínimas determinadas por la agencia en la concesión o en los lineamientos que al efecto emita o se trate de vehículos nuevos. Este incluye tanto los kilómetros en ruta, así como los kilómetros en vacío.
+XIV. Kilómetros en vacío: la distancia recorrida por un vehículo de transporte público adherido al sistema, cuando está fuera de su ruta planificada o del derrotero, o no está prestando el servicio de transporte de personas pasajeras. Estos desplazamientos incluyen maniobras, salidas del patio de encierro y traslados que no forman parte de la ruta regular del vehículo de transporte público, conforme a lo previsto en la concesión o en el programa de operación.
+
+XV. (DEROGADA, D.O. 25 DE MAYO DE 2026)
 
 XVI. Ley de Movilidad: la Ley de Movilidad y Seguridad Vial del Estado de Yucatán.
 
@@ -133,6 +155,14 @@ XXXIII. Vehículos: el medio de transporte terrestre utilizado para prestar el s
 
 XXXIV. Validadores: los dispositivos instalados en los vehículos de transporte público para el cobro de las tarifas a través de medios electrónicos.
 
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 2 Bis.
+
+Supletoriedad
+
+La Ley de Actos y Procedimientos Administrativos del Estado de Yucatán será supletoria respecto a lo no previsto en esta ley.
+
 ### Capítulo II. Atribuciones de la agencia y régimen de administración
 
 ###### Artículo 3.
@@ -147,7 +177,9 @@ Atribuciones de la agencia
 
 La agencia tendrá las siguientes atribuciones:
 
-I. Otorgar, renovar, modificar, suspender, revocar o extinguir las autorizaciones del servicio de transporte, y, en su caso, aumentar o disminuir el número de estas, según las necesidades de cada servicio.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+I. Otorgar, renovar, modificar, suspender, extinguir, revocar o rescatar las autorizaciones del servicio de transporte y, en su caso, aumentar o disminuir el número de estas, según las necesidades de cada servicio, así como por causas de utilidad pública e interés general.
 
 II. Regular la prestación de los servicios de transporte público, privado, el servicio contratado a través de plataformas tecnológicas y el servicio prestado a través de medios alternativos de transporte en el estado, conforme a lo establecido en esta ley.
 
@@ -155,15 +187,29 @@ III. Emitir la regulación que deberán observar las personas concesionarias, pe
 
 IV. Expedir el reglamento interior para establecer su estructura y funcionamiento de las unidades administrativas para el correcto ejercicio de sus atribuciones para el cumplimiento de sus fines.
 
-V. Emitir los acuerdos, lineamientos y demás instrumentos necesarios para el correcto funcionamiento y operatividad del servicio de transporte.
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IV bis. Diseñar, formular, instrumentar, implementar y evaluar políticas públicas, procesos, programas, planes y proyectos, así como los instrumentos técnicos, operativos, normativos, regulatorios, tecnológicos y financieros necesarios, para garantizar el cumplimiento de las atribuciones conferidas por la presente Ley en materia de transporte en el Estado.
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+V. Emitir lineamientos, manuales, normas técnicas y disposiciones administrativas de carácter general; establecer mecanismos de planeación, programación, optimización, monitoreo, supervisión, control y evaluación del servicio.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+V. bis. Integrar y administrar sistemas de información y plataformas tecnológicas; celebrar convenios y contratos; así como coordinarse con autoridades de los tres órdenes de gobierno, organismos públicos y privados, concesionarios y demás actores involucrados, a fin de asegurar la eficiencia, calidad, seguridad, accesibilidad, sostenibilidad y continuidad en la prestación del servicio público de transporte.
 
 VI. Realizar las acciones necesarias para la implementación, coordinación y correcta operación del sistema y el cumplimiento de sus objetivos y principios.
 
-VII. Determinar el diseño, desarrollo, establecimiento y modificación de las etapas para la implementación del sistema, así como la articulación de la red del servicio público de transporte de personas en el estado.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VII. Determinar el diseño, desarrollo, establecimiento y modificación de las etapas para la implementación y consolidación del sistema, así como la articulación de la red del servicio público de transporte de personas pasajeras en el estado.
 
 VIII. Vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de esta ley e imponer las medidas de seguridad y las sanciones por violaciones a sus disposiciones.
 
-IX. Procurar que el servicio de transporte sea regular, confiable, eficaz, eficiente, cómodo, seguro y de bajas emisiones contaminantes; y que se preste con altos estándares de calidad, accesibilidad y cobertura, con tecnologías limpias y con vehículos eficientes.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IX. Procurar que el servicio de transporte sea financieramente viable, regular, confiable, eficaz, eficiente, cómodo, seguro y de bajas emisiones contaminantes; y que se preste con altos estándares de calidad, accesibilidad y cobertura, con tecnologías limpias y con vehículos eficientes, de manera que se asegure la sostenibilidad del servicio a corto, mediano y largo plazo.
 
 X. Formular políticas y programas que tiendan a favorecer la construcción de infraestructura y obras, el equipo, los servicios y los demás elementos que complementen el servicio de transporte.
 
@@ -177,7 +223,9 @@ XIV. Realizar u ordenar la práctica de visitas de inspección y verificación p
 
 XV. Proponer e implementar políticas, programas, estrategias y acciones para mejorar la organización y el funcionamiento del servicio de transporte en todos sus ámbitos, aprovechando el desarrollo tecnológico y tomando en cuenta sus efectos en el medio ambiente.
 
-XVI. Evaluar el estado que guarda el servicio de transporte en el estado, con base en los informes generados a partir de la actividad de la agencia y la información pública disponible.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XVI. Evaluar el estado que guarda el servicio de transporte en el estado, con base en los informes generados a partir de la actividad de la agencia y la información pública disponible, así como la información que les requiera a las personas que cuenten con autorizaciones del servicio de transporte respecto a la prestación de estos servicios, conforme a lo previsto en esta ley.
 
 XVII. Coordinar la ejecución de acciones, proyectos y obras para la implementación, conservación y vigilancia de la infraestructura, de la tecnología y de los servicios relacionados con el transporte en el estado, para mejorar su organización y funcionamiento, y propiciar su desarrollo.
 
@@ -199,7 +247,9 @@ XXV. Aprobar, de conformidad con lo establecido en esta ley, y demás ordenamien
 
 XXVI. Comercializar, administrar y supervisar los espacios publicitarios que formen parte del servicio de transporte público.
 
-XXVII. Establecer restricciones al servicio de transporte público cuando las condiciones socioeconómicas, de seguridad, de salud y ambientales en el estado así lo requieran y dictar las medidas necesarias para evitar prácticas monopólicas o usurarias en la prestación del servicio de transporte.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXVII. Establecer restricciones al servicio de transporte público cuando las condiciones socioeconómicas, financieras, de seguridad, de salud y ambientales en el estado así lo requieran y dictar las medidas necesarias para evitar prácticas monopólicas o abusivas en la prestación del servicio de transporte.
 
 XXVIII. Disponer del servicio de transporte público, en caso de cualquier problema grave, de fuerza mayor o caso fortuito, que afecte a los municipios en donde presten su servicio o en cualquier otro punto del territorio del estado.
 
@@ -217,7 +267,9 @@ XXXIV. Administrar y distribuir los recursos financieros que se le asignen, así
 
 XXXV. Implementar esquemas para el diseño, construcción, financiamiento, apoyo, operación y transferencia de infraestructura, en concurrencia con los sectores público, privado y social.
 
-XXXVI. Participar en la evaluación, estructuración y ejecución de los proyectos en materia de transporte.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXXVI. Participar en la evaluación, estructuración, ejecución, seguimiento y consolidación de los proyectos en materia de transporte.
 
 XXXVII. Disponer, mediante la emisión de lineamientos, la implementación de las medidas necesarias para evitar que, en la prestación del servicio de transporte público, se realicen prácticas discriminatorias contra las personas usuarias, que atenten contra la generalidad, regularidad, seguridad, eficiencia e igualdad.
 
@@ -227,19 +279,59 @@ XXXIX. Participar y apoyar en la realización de estudios, proyectos, investigac
 
 XL. Suscribir, emitir, adquirir, administrar y enajenar toda clase de instrumentos jurídicos asociados a los proyectos de transporte para el cumplimiento de los objetivos y fines de la agencia, en términos de las disposiciones aplicables.
 
-XLI. Ejecutar verificaciones técnicas a los vehículos destinados al servicio de transporte de personas pasajeras.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XLI. Ejecutar por si o a través de las personas que al efecto autorice, las verificaciones técnicas a los vehículos para garantizar la seguridad de las personas pasajeras, el cuidado del ambiente y el cumplimiento de las disposiciones legales y normativas aplicables, así como verificaciones a los patios o espacios destinados al resguardo y encierro y demás infraestructura inherente y necesaria para la prestación del servicio público de transporte, acorde a los lineamientos específicos que expida para ello.
 
 XLII. Emitir lineamientos donde se determinen las características y especificaciones técnicas de los vehículos, parque vehicular e infraestructura de los servicios del transporte público de personas pasajeras y todas aquellas necesarias para la implementación y operación del sistema.
 
-XLIII. Establecer, en términos de la legislación aplicable en la materia, medidas para asegurar que los bienes muebles e inmuebles, infraestructura, accesorios físicos, tecnológicos y materiales destinados a la prestación del servicio de transporte o que apoyan su funcionalidad y lo complementan, así como aquellas medidas destinadas a garantizar la seguridad de las personas y los bienes, se mantengan en buen estado.
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
 
-XLIV. Planear, presupuestar, administrar y ejecutar, por sí o a través de personas terceras, los proyectos y obras necesarias de infraestructura para la operación del transporte público en sus diversas modalidades.
+XLII bis. Emitir las directrices para que las personas concesionarias del servicio de transporte público de personas pasajeras mantengan estándares éticos centrados en la seguridad, el respeto a las personas pasajeras, hacia sus empleadas y empleados, el medio ambiente, la transparencia, la responsabilidad social y prevención de la corrupción, su normativa interna deberá mantener congruencia con estas directrices.
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XLIII. Establecer en términos de la legislación aplicable en la materia, medidas para asegurar que los bienes muebles e inmuebles, infraestructura, accesorios físicos, tecnológicos y materiales destinados a la prestación del servicio de transporte o que apoyan su funcionalidad y lo complementan, así como verificar que se apliquen estas medidas para garantizar la seguridad de las personas y que los bienes, se mantengan en buen estado.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XLIII bis. Dictaminar sobre la congruencia y registrar los documentos que integren la normativa interna de las empresas concesionarias del servicio de transporte público de personas pasajeras, de conformidad con la fracción XLII bis de este artículo.
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XLIV. Planear, presupuestar, administrar y ejecutar, por sí o a través de terceras personas, los proyectos y obras necesarias de infraestructura para la operación del transporte público de personas pasajeras en sus diversas modalidades, previo estudio para determinar su viabilidad.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 25 DE MAYO DE 2026)</small>
 
 XLV. Resolver los casos de su competencia y sancionar administrativamente la violación de esta ley.
 
 XLVI. Autorizar mediante el instrumento jurídico correspondiente en su caso, el uso y explotación o aprovechamiento de los bienes que integran el sistema.
 
-XLVII. Las demás que establezca esta ley y las demás disposiciones aplicables.
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XLVII. Autorizar el esquema para determinar los conceptos de pago y cualquier otro esquema de pago que asegure la sostenibilidad y viabilidad del servicio y del sistema a corto, mediano y largo plazo.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XLVIII. Determinar la necesidad de llevar a cabo el rescate a las concesiones del servicio de transporte público de personas pasajeras cuando impliquen perjuicios para el interés público.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XLIX. Expedir la normativa que establezca el procedimiento de adjudicación de concesiones, así como para su renovación.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+L. Diseñar, determinar, instalar, regular y, en su caso, autorizar la información que deba publicarse, difundirse o exhibirse en los bienes, equipamiento tecnológico e instalaciones vinculados a la prestación del servicio, independientemente de su soporte físico o digital, así como aquella dirigida a las personas usuarias de la agencia.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+LI. Determinar, definir, instrumentar e implementar el equipamiento y las soluciones tecnológicas aplicables al sistema de transporte, así como establecer sus especificaciones técnicas, con el objeto de mejorar la calidad, eficiencia, seguridad y accesibilidad en la prestación del servicio.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+LII. Diseñar, integrar, actualizar, administrar y resguardar los expedientes individuales de las personas operadoras, asegurando la integridad, veracidad, confidencialidad y disponibilidad de la información, así como su actualización periódica y uso para fines de control, seguimiento y evaluación del desempeño en la prestación del servicio.
+
+LIII. Las demás que establezca esta ley y las demás disposiciones aplicables.
 
 ###### Artículo 5.
 
@@ -247,7 +339,13 @@ Autonomía presupuestal
 
 El presupuesto aprobado por el Congreso para la agencia se ejercerá con autonomía y conforme a la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán y demás disposiciones legales aplicables. Su administración tendrá como fin lograr la eficacia en la aplicación de las disposiciones en materia de transporte.
 
-Dicho ejercicio deberá realizarse con base en los principios de legalidad, certeza, independencia, honestidad, responsabilidad, eficiencia, eficacia, transparencia, rendición de cuentas, austeridad y racionalidad; y estará sujeto a la evaluación y control de los órganos correspondientes, en términos de lo dispuesto en el reglamento interior o en la normativa que al efecto dicte la agencia.
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Dicho ejercicio deberá realizarse con base en los principios de legalidad, certeza, independencia, honestidad, responsabilidad, eficiencia, eficacia, economía, imparcialidad, transparencia, rendición de cuentas, austeridad y racionalidad; y estará sujeto a la evaluación y control de los órganos correspondientes, en términos de lo dispuesto en el reglamento interior, en la normativa que al efecto dicte la agencia, en la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán, la Constitución Política del Estado de Yucatán y demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+La asignación de las concesiones a que se refiere esta ley se llevará a cabo a través de concursos públicos mediante convocatoria pública para que libremente se presenten proposiciones solventes, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
 ###### Artículo 6.
 
@@ -261,17 +359,23 @@ II. Los recursos que le transfieran o le asignen los Gobiernos federal, estatal 
 
 III. Los bienes muebles e inmuebles y derechos que adquiera por cualquier título legal.
 
-IV. Los ingresos que perciba por la prestación de sus servicios y operación.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IV. Los ingresos que perciba por la prestación de sus servicios y operación, así como por la publicidad audiovisual, visual y de audio en los vehículos de servicio de transporte público de personas pasajeras, infraestructura, equipamiento y en los medios tecnológicos de la agencia.
 
 V. Las utilidades, intereses, dividendos y rendimientos de sus bienes y derechos.
 
-VI. Los demás recursos, bienes o ingresos que obtenga por cualquier medio.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VI. Los demás recursos, bienes o ingresos que obtenga por cualquier medio legal.
 
 ###### Artículo 7.
 
 Presupuesto de la agencia
 
-Dentro del presupuesto de cada ejercicio fiscal de la agencia, se deberá considerar el monto de recursos necesarios para asegurar la continuidad y sostenibilidad del servicio de transporte público de personas pasajeras bajo la premisa del balance presupuestario sostenible, considerando la proyección del ingreso por concepto de tarifa y la ministración por concepto de subsidio o apoyo y los gastos que requiere el sistema de transporte de personas para su sostenibilidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
+
+Dentro del presupuesto de cada ejercicio fiscal de la agencia, se deberá considerar el monto de recursos necesarios para asegurar la continuidad y sostenibilidad del servicio de transporte público de personas pasajeras bajo la premisa del balance presupuestario sostenible y mayor rentabilidad social considerando la proyección del ingreso por concepto de tarifa y la ministración por concepto de subsidio o apoyo y los gastos que requiere el sistema de transporte de personas para su sostenibilidad.
 
 Asimismo, ante el interés público en asegurar el desarrollo del transporte y movilidad estatal, los recursos que se otorguen con cargo al presupuesto estatal con el carácter de subsidios o apoyos a la población en materia de transporte público de personas pasajeras serán ejercidos por la agencia a través del fideicomiso del sistema. Lo anterior, a efecto de evaluar los resultados de su aplicación y destinarlos efectivamente a la sustentabilidad y permanente modernización del Sistema.
 
@@ -279,17 +383,25 @@ El recurso otorgado por el estado por concepto de subsidio para la continuidad y
 
 Se otorgará un presupuesto adecuado y suficiente a la agencia para su efectivo funcionamiento y el cumplimiento de sus indicadores y obligaciones, conforme a las leyes en materia de presupuesto y responsabilidad hacendaria.
 
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Para efectos del párrafo tercero de este artículo, se entiende por continuidad, los recursos que permitan a la agencia otorgar el servicio de transporte de personas pasajeras con regularidad y por sostenibilidad que los recursos presupuestados deben estar sustentados en una fuente de financiamiento prevista en la ley de ingresos del ejercicio fiscal correspondiente, con un balance presupuestario positivo sostenible en el corto, mediano y largo plazo.
+
 ### Capítulo III. Estructura de la agencia
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 8.
 
 Estructura de la agencia
 
-La agencia conforme lo establece el artículo 75 sexies de la Constitución Política del Estado de Yucatán, establecerá su estructura organizacional en el reglamento interior que emita la persona titular de la agencia, en el cual deberá prever, por lo menos, las siguientes unidades administrativas con las denominaciones que se establezcan en el propio reglamento interior:
+La Agencia para la consecución de su objeto y el ejercicio de sus atribuciones, se estructurará de acuerdo con lo siguiente:
 
-I. La persona titular de la agencia.
+I. Junta Directiva.
 
-II. Unidades administrativas:
+II. Titular de la agencia.
+
+III. Las unidades administrativas mínimas siguientes:
 
 a) Unidad administrativa encargada del transporte.
 
@@ -297,7 +409,7 @@ b) Unidad administrativa encargada de la planeación y finanzas de la agencia.
 
 c) Unidad administrativa encargada del sistema.
 
-d) Unidad administrativa encargada de (sic) calidad del sistema.
+d) Unidad administrativa encargada de calidad del sistema.
 
 e) Unidad administrativa de la administración de la agencia.
 
@@ -310,6 +422,326 @@ h) Unidad administrativa encargada de la materia de tecnologías de la informaci
 i) Las demás unidades administrativas que se establezcan en el reglamento interior.
 
 La adscripción y nivel jerárquico de las unidades administrativas serán establecidos en el reglamento interior.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 8 Bis.
+
+Atribuciones de la Junta Directiva
+
+La Junta Directiva, para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
+
+I. Aprobar la misión, visión, valores y código de conducta, de la agencia y de los servidores públicos a ella adscritos.
+
+II. Aprobar los programas y presupuestos de egresos e ingresos de la agencia, así como sus modificaciones, las fuentes de financiamiento que lo soporten, en los términos de la legislación aplicable.
+
+III. Aprobar el programa anual de austeridad, racionalidad y disciplina presupuestal.
+
+IV. Conocer de los informes sobre el otorgamiento, renovación y modificación de las autorizaciones del servicio de transporte, y, en su caso, el aumento o disminución del número de estas, según las necesidades de cada servicio.
+
+V. Ratificar la suspensión, extinción, revocación o rescate de las autorizaciones del servicio de transporte según las necesidades de cada servicio, así como por causas de utilidad pública e interés general.
+
+VI. Dar seguimiento a la regulación de la prestación de los servicios de transporte público, privado, el servicio contratado a través de plataformas tecnológicas y el servicio prestado a través de medios alternativos de transporte en el estado, conforme a lo establecido en esta ley.
+
+VII. Aprobar la regulación que deberán observar las personas concesionarias, personas permisionarias, personas operadoras, personas usuarias, las empresas de redes de transporte y personas que cuenten con certificados de personas operadoras titulares o adhesivas, para la correcta prestación del servicio de transporte en el estado.
+
+VIII. Aprobar el reglamento interior para establecer la estructura y funcionamiento de las unidades administrativas de la agencia para el correcto ejercicio de sus atribuciones y demás normativa necesaria para el cumplimiento de sus fines, conforme a la suficiencia presupuestal.
+
+IX. Aprobar los acuerdos, lineamientos y demás instrumentos necesarios para el correcto funcionamiento y operatividad del servicio de transporte.
+
+X. Emitir, a propuesta del titular de la agencia los lineamientos en materia de auditoría y evaluación del desempeño, aplicables en la agencia.
+
+XI. Emitir, a propuesta del titular de la agencia los lineamientos que regulen el sistema de control interno aplicable en la Agencia, los cuales deben incluir la administración de riesgos, y vigilar su implementación, con base en la información presentada por la persona titular de la agencia, de la Auditoría Interna o de las personas auditoras externas, dando especial atención a los principales riesgos estratégicos.
+
+XII. Evaluar y dar seguimiento a los sistemas de contabilidad, control, seguridad y auditoría, registro, archivo e información y su divulgación al público.
+
+XIII. Establecer las políticas y bases generales para generar una rentabilidad sostenible, con las cuales la Agencia puede participar en los mecanismos de adquisición y contratación contemplados en esta ley y en la legislación y normativa aplicables.
+
+XIV. Aprobar, respecto del otorgamiento de concesiones, lineamientos para regular la forma y términos en que deben realizarse las bases del proceso de selección de participantes, los términos técnicos y operativos, el modelo de contrato, el modelo financiero y los términos generales que debe considerar el proyecto para su aprobación, los cuales deben ser publicados en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+XV. Aprobar el modelo de contrato, el modelo financiero y el proyecto de concesión.
+
+XVI. Determinar los parámetros para el otorgamiento de poderes generales o especiales, a las personas que juzgue conveniente, con todas las facultades, aun las que conforme a la ley requieran cláusula especial.
+
+XVII. Determinar el diseño, desarrollo, establecimiento y modificación de las etapas para la implementación y consolidación del sistema, así como la articulación de la red del servicio público de transporte de personas pasajeras en el estado.
+
+XVIII. Conocer las medidas de seguridad y las sanciones por violaciones a las disposiciones de esta ley que imponga la persona titular de la agencia.
+
+XIX. Aprobar las medidas y regulaciones necesarias para garantizar que el servicio de transporte sea financieramente viable, regular, confiable, eficaz, eficiente, cómodo, seguro y de bajas emisiones contaminantes; y que se preste con altos estándares de calidad, accesibilidad y cobertura, con tecnologías limpias y con vehículos eficientes, de manera que se asegure la sostenibilidad del servicio a corto, mediano y largo plazo.
+
+XX. Aprobar, a propuesta de la persona titular de la agencia, las políticas y programas que tiendan a favorecer la construcción de infraestructura y obras, el equipamiento, los servicios conexos y los demás elementos que complementen el servicio de transporte.
+
+XXI. Aprobar la regulación y límites presupuestales aplicables a los mecanismos de consulta tendientes a mejorar el servicio de transporte en el estado.
+
+XXII. Aprobar, a propuesta del titular, nuevas modalidades de servicio de transporte y su regulación, de acuerdo con las necesidades que dicte el interés público.
+
+XXIII. Aprobar los lineamientos para la administración de los padrones y registros establecidos en esta ley.
+
+XXIV. Aprobar políticas, programas, estrategias y acciones para mejorar la organización y el funcionamiento del servicio de transporte en todos sus ámbitos, aprovechando el desarrollo tecnológico y tomando en cuenta sus efectos en el medio ambiente, así como los límites presupuestales para su implementación.
+
+XXV. Conocer, los informes de actividades de resultados que presente la persona titular de la agencia, previa su presentación al Congreso, de conformidad con los lineamientos, políticas, programas, estrategias y acciones de la materia.
+
+XXVI. Vigilar y evaluar el desempeño de la Agencia y de sus mandos superiores.
+
+XXVII. Vigilar que los actos de la Agencia procuren su operación eficiente y cumplan con su objeto.
+
+XXVIII. Conocer el estado que guarda el servicio de transporte en el estado, con base en los informes presentados por la persona titular de la agencia, elaborados a partir de la actividad de la agencia y la información pública disponible, así como la información que les requiera a las personas que cuenten con autorizaciones del servicio de transporte respecto a la prestación de estos servicios, conforme a lo previsto en esta ley.
+
+XXIX. Aprobar, a propuesta de la persona titular de la Agencia, los acuerdos, lineamientos y demás instrumentos necesarios para el correcto funcionamiento y operatividad del servicio de transporte.
+
+XXX. Aprobar políticas generales para cancelar adeudos a cargo de terceros y a favor de la agencia cuando exista inviabilidad económica o imposibilidad práctica de su cobro, así como las políticas para el otorgamiento de mutuos, garantías, préstamos o cualquier tipo de créditos y para la exención de dichas garantías.
+
+XXXI. Aprobar los criterios y lineamientos para el otorgamiento de pagos extraordinarios, donativos y donaciones, en efectivo o en especie que realice la agencia.
+
+XXXII. Aprobar la ejecución de acciones, proyectos y obras para la implementación, conservación y vigilancia de la infraestructura, de la tecnología y de los servicios relacionados con el transporte en el estado, para mejorar su organización y funcionamiento, así como propiciar su desarrollo.
+
+XXXIII. Aprobar el plan para la integración progresiva de los diferentes servicios de transporte, para ampliar su cobertura en beneficio de la población y su integración al sistema.
+
+XXXIV. Conocer y ratificar las autorizaciones respecto a la ubicación de los sitios, terminales, paraderos, paradas, parabuses, estaciones, bahías y centros para la prestación del servicio de transporte, así como su reubicación, que haya otorgado la persona titular de la agencia.
+
+XXXV. Aprobar, a propuesta del titular de la agencia, los mecanismos de mediación y conciliación para los conflictos que se susciten entre las personas prestadoras y personas operadoras del servicio de transporte o entre estas y las personas usuarias del servicio.
+
+XXXVI. Aprobar los mecanismos para la innovación y aplicación del desarrollo tecnológico en el servicio de transporte en el estado para generar las bases de una movilidad inteligente.
+
+XXXVII. Aprobar la constitución, modificación y extinción de fideicomisos en materia de transporte público de personas pasajeras, de conformidad con la normativa aplicable, así como la participación de la agencia en su operación y administración.
+
+XXXVIII. Ratificar las tarifas para la prestación del servicio de transporte público de personas pasajeras.
+
+XXXIX. Conocer de los esquemas de comercialización, administración y supervisión de los espacios publicitarios que formen parte del servicio de transporte público de personas pasajeras.
+
+XL. Conocer y, en su caso, ratificar o suspender los medios de apremio, medidas de seguridad y demás restricciones al servicio de transporte público de personas pasajeras establecidas por la persona titular de la agencia, cuando las condiciones socioeconómicas, financieras, de seguridad, de salud y ambientales en el estado, así lo requieran.
+
+XLI. Aprobar, a propuesta del titular de la agencia, los lineamientos para adoptar buenas prácticas en el servicio de transporte público de personas pasajeras a fin de evitar prácticas monopólicas o abusivas.
+
+XLII. Conocer y, en su caso, ratificar o suspender las medidas aprobadas por la persona titular de la agencia derivado de la disposición del servicio de transporte público, en caso de cualquier problema grave, de fuerza mayor o caso fortuito, que afecte a los municipios en donde presten su servicio o en cualquier otro punto del territorio del estado.
+
+XLIII. Aprobar mecanismos para incentivar la inversión en el servicio de transporte público por la persona titular de la agencia.
+
+XLIV. Aprobar los proyectos de inversión que sean propuestos por la persona titular de la agencia.
+
+XLV. Conocer las opiniones sobre iniciativas de leyes o sus reformas y anteproyectos de reglamentos y decretos en materia de transporte.
+
+XLVI. Conocer sobre los mecanismos de colaboración y coordinación con las autoridades federales, estatales y municipales en materia de transporte o en materias afines a la operación de la agencia.
+
+XLVII. Recibir los informes respecto a la celebración, avance y cumplimiento de acuerdos, convenios, contratos, acuerdos interinstitucionales y demás instrumentos jurídicos con los sectores público, privado y social, con autoridades federales, estatales y municipales y organismos internacionales según corresponda, que la agencia haya celebrado, en las materias de su competencia, en los términos de las disposiciones aplicables para el cumplimiento de sus atribuciones.
+
+XLVIII. Autorizar a la persona titular de la agencia suscribir, emitir, adquirir, administrar y enajenar toda clase de instrumentos jurídicos asociados a los proyectos de transporte para el cumplimiento de los objetivos y fines de la agencia, en términos de las disposiciones aplicables.
+
+XLIX. Aprobar la suscripción de toda clase de títulos de crédito para el cumplimiento de sus objetivos, así como la solicitud de créditos de cualquier índole y el otorgamiento de las garantías que corresponda según las disposiciones aplicables.
+
+L. Aprobar las políticas, normas, manuales y bases generales de adquisiciones, contrataciones de servicios, arrendamiento y enajenación de bienes muebles e inmuebles, así como aprobar el programa anual respectivo de la agencia.
+
+LI. Aprobar, a propuesta de la persona titular de la agencia, la regulación que deberán observar las personas concesionarias, personas permisionarias, personas operadoras, personas usuarias, las empresas de redes de transporte y personas que cuenten con certificados de personas operadoras titulares o adhesivas, para la correcta prestación del servicio de transporte en el estado.
+
+LII. Autorizar a la persona titular de la agencia adquirir, arrendar, explotar, construir, administrar, mantener, rehabilitar o ampliar todos aquellos bienes muebles e inmuebles que requiera para el cumplimiento de sus fines, objeto y atribuciones.
+
+LIII. Aprobar la implementación de esquemas para el diseño, construcción, financiamiento, apoyo, operación y transferencia de infraestructura, con participación de los sectores público, privado y social.
+
+LIV. Aprobar los lineamientos para la implementación de las medidas necesarias para evitar que, en la prestación del servicio de transporte público de personas pasajeras, se realicen prácticas discriminatorias contra las personas usuarias, que atenten contra la generalidad, regularidad, seguridad, eficiencia e igualdad.
+
+LV. Autorizar la participación de la agencia como persona accionista, persona socia o inversionista en cualquier tipo de personas morales, incluyendo asociaciones, o sociedades, mercantiles, bursátiles, civiles o de otra naturaleza, así como suscribir, adquirir, enajenar y transferir todo tipo de acciones, cuotas, partes sociales o participaciones en todo tipo de personas morales de conformidad con la legislación aplicable, relacionadas con su objeto.
+
+LVI. Aprobar los lineamientos para la ejecución de las verificaciones técnicas a los vehículos para garantizar la seguridad de las personas pasajeras y el cuidado del ambiente, así como verificaciones a los patios o espacios destinados al resguardo y encierro y demás infraestructura inherente y necesaria para la prestación del servicio público de transporte.
+
+LVII. Conocer, trimestralmente, los resultados de las verificaciones técnicas efectuadas a los vehículos para garantizar la seguridad de las personas pasajeras y el cuidado del ambiente, así como verificaciones a los patios o espacios destinados al resguardo y encierro y demás infraestructura inherente y necesaria para la prestación del servicio público de transporte, acorde a los lineamientos específicos que expida para ello.
+
+LVIII. Aprobar, a propuesta de la persona titular de la agencia, lineamientos donde se determinen las características y especificaciones técnicas de los vehículos, parque vehicular e infraestructura de los servicios del transporte público de personas pasajeras y todas aquellas necesarias para la implementación y operación del sistema.
+
+LIX. Aprobar las directrices para que las personas concesionarias de transporte público de personas pasajeras mantengan estándares éticos centrados en la seguridad, el respeto a los usuarios, hacia los empleados, el medio ambiente, la transparencia, la responsabilidad social y prevención de la corrupción.
+
+LX. Aprobar, en términos de la legislación aplicable en la materia, medidas para asegurar que los bienes muebles e inmuebles, infraestructura, accesorios físicos, tecnológicos y materiales destinados a la prestación del servicio de transporte o que apoyan su funcionalidad y lo complementan, se mantengan en buen estado; así como aquellas medidas destinadas a garantizar la seguridad de las personas y los bienes.
+
+LXI. Conocer los dictámenes de congruencia que emita la agencia respecto a los documentos normativos de las empresas concesionarias del servicio público de transporte de pasajeros, de conformidad con lo previsto en esta ley.
+
+LXII. Conocer las sanciones que, en su caso, se hayan aplicado por violaciones a lo previsto en esta ley.
+
+LXIII. Autorizar los términos y condiciones para el uso y explotación o aprovechamiento de los bienes que integran el sistema.
+
+LXIV. Aprobar lineamientos para la adopción de la eficiencia energética, la reducción de emisiones y gestión de la velocidad de los vehículos.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 8 Ter.
+
+Integración de la Junta Directiva
+
+La Junta Directiva estará integrada por cinco personas, durarán en su cargo dos años con posibilidad de ratificación, quienes serán designadas conforme al siguiente procedimiento:
+
+La persona titular del Poder Ejecutivo designará a tres personas integrantes para ocupar el cargo; el Poder Legislativo designará a dos personas mediante el voto de mayoría de integrantes presentes del Congreso.
+
+Las personas a las que alude el párrafo anterior, ejercerán su función con independencia e imparcialidad de acuerdo a sus atribuciones previstas en esta ley.
+
+Los cargos a que se refiere el párrafo anterior, serán honorarios y, en su caso, podrán ser ocupados por los servidores públicos de ambos poderes.
+
+La calidad de servidor público de ninguna forma hará nugatoria la libertad y autonomía de la persona integrante en la toma de decisiones y votaciones ante la Junta Directiva.
+
+La Junta Directiva contará con una Presidencia, una Secretaría Técnica y sus integrantes.
+
+La Presidencia será designada por la mayoría de las personas integrantes de la junta directiva.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 8 Quater.
+
+Secretaría técnica
+
+La Junta Directiva contará con una persona titular de la secretaría técnica, nombramiento que recaerá en el Titular de la agencia y participará en las sesiones únicamente con derecho a voz.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 8 Quinquies.
+
+Personas invitadas
+
+La persona titular de la presidencia podrá invitar a participar en las sesiones de la Junta Directiva a las personas servidoras públicas de los tres órdenes de gobierno, poderes del Estado y de los organismos constitucionales autónomos, a los representantes de instituciones académicas u organizaciones civiles o a las personas que tengan conocimiento o prestigio en la materia que puedan aportar opiniones valiosas y ser de utilidad para este.
+
+Las personas participarán en las sesiones únicamente con derecho a voz.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 8 Sexies.
+
+Suplencias
+
+Las personas integrantes de la Junta Directiva designarán a sus suplentes, quienes las sustituirán en caso de ausencia con las facultades y obligaciones que dispone para aquellas esta ley.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 8 Septies.
+
+Carácter de los cargos
+
+Los cargos de las personas integrantes de la Junta Directiva son de carácter honorífico, por lo tanto, quienes los ocupen no devengarán retribución alguna por su desempeño.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 8 Octies.
+
+Sesiones
+
+La Junta Directiva sesionará, de manera ordinaria, por lo menos cuatro veces al año y, de manera extraordinaria, cuando la persona titular de la presidencia lo estime pertinente o lo solicite la mayoría de las personas integrantes.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 8 Nonies.
+
+Convocatorias
+
+La persona titular de la presidencia solicitará (sic) la persona titular de la secretaría técnica que convoque a cada una de las personas integrantes de la Junta Directiva con una anticipación de, por lo menos, cinco días hábiles a la fecha en que habrán de celebrarse las sesiones ordinarias y veinticuatro horas en el caso de las sesiones extraordinarias.
+
+Las convocatorias de las sesiones se realizarán mediante oficio o correo electrónico y deberán señalar, por lo menos, el carácter y el número de la sesión, el día, la hora y el lugar de su celebración. Adicionalmente, llevarán adjuntas el orden del día y la documentación correspondiente, el cual deberá incluir los asuntos a tratar y el objetivo general de la sesión.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 8 Decies.
+
+Cuórum
+
+Las sesiones de la Junta Directiva serán válidas siempre que se cuente con la asistencia de la mayoría de las personas integrantes. En todo caso se deberá contar con la presencia de la persona titular de la presidencia y de la persona titular de la secretaría técnica.
+
+Cuando, por falta de cuórum, la sesión no pueda celebrarse el día determinado, la persona titular de la presidencia, a través de la persona titular de la secretaría técnica, emitirá una segunda convocatoria para realizar dicha sesión, la cual se efectuará con la presencia de las personas integrantes que asistan. Esta sesión no podrá celebrarse sino transcurridas veinticuatro horas contadas a partir de la convocatoria.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Artículo 8 Undecies. Validez de los acuerdos
+
+Las decisiones sobre los asuntos que conozca la Junta Directiva se aprobarán con el voto de la mayoría de las personas integrantes que asistan a la sesión correspondiente. En caso de empate, la persona titular de la presidencia tendrá el voto de calidad.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Artículo 8 Duodecies. Actas de las sesiones
+
+Las actas de las sesiones de la Junta Directiva deberán señalar la fecha, la hora y el lugar de su celebración; los acuerdos alcanzados, y los demás temas analizados durante la sesión correspondiente.
+
+Adicionalmente, a dichas actas se les anexará la lista de asistencia firmada por las personas participantes y los documentos utilizados durante la sesión.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Artículo 8 Terdecies. Facultades y obligaciones de la persona titular de la presidencia
+
+La persona titular de la presidencia de la Junta Directiva tendrá las siguientes facultades y obligaciones:
+
+I. Representar a la Junta Directiva.
+
+II. Convocar y presidir las sesiones ordinarias y extraordinarias de la Junta Directiva.
+
+III. Proponer el orden del día de las sesiones, en coordinación con la secretaría técnica.
+
+IV. Conducir los trabajos de la Junta Directiva, moderar las deliberaciones y procurar el adecuado desarrollo de las sesiones.
+
+V. Emitir voto de calidad en caso de empate.
+
+VI. Suscribir las actas, acuerdos, opiniones y recomendaciones que emita la Junta Directiva.
+
+VII. Solicitar a la Secretaría Técnica la información necesaria para el adecuado funcionamiento de la Junta Directiva.
+
+VIII. Dar seguimiento, a través de la Secretaría Técnica, a los acuerdos adoptados por la Junta Directiva.
+
+IX. Proponer a la Junta Directiva la creación de grupos de trabajo o comisiones temporales.
+
+X. Rendir un informe anual de actividades de la Junta Directiva.
+
+XI. Las demás que le confiera el presente ordenamiento y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Artículo 8 Quaterdecies. Facultades y obligaciones de la persona titular de la Secretaría Técnica
+
+La persona titular de la Secretaría Técnica de la Junta Directiva tendrá las siguientes facultades y obligaciones:
+
+I. Auxiliar a la Presidencia en la preparación, organización y desarrollo de las sesiones de la Junta Directiva.
+
+II. Elaborar y remitir las convocatorias a las sesiones ordinarias y extraordinarias, así como integrar el orden del día correspondiente.
+
+III. Recabar, sistematizar y poner a disposición de las personas integrantes de la Junta Directiva la información necesaria para el análisis de los asuntos a tratar.
+
+IV. Levantar las actas de las sesiones y recabar las firmas correspondientes.
+
+V. Dar seguimiento administrativo a los acuerdos, opiniones y recomendaciones emitidos por la Junta Directiva.
+
+VI. Resguardar y custodiar la documentación, actas y archivos de la Junta Directiva.
+
+VII. Informar periódicamente a la Presidencia sobre el estado que guardan los acuerdos de la Junta Directiva.
+
+VIII. Fungir como enlace entre la Junta Directiva y la agencia.
+
+IX. Proporcionar el apoyo técnico y logístico necesario para el adecuado funcionamiento de la Junta Directiva.
+
+X. Proponer a la presidencia el diseño e implementación de esquemas, herramientas e instrumentos orientados a fortalecer el seguimiento, control y cumplimiento de los acuerdos adoptados en las sesiones
+
+XI. Las demás que le confiera el presente ordenamiento o le encomiende la Presidencia, dentro del ámbito de sus atribuciones.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Artículo 8 Quindecies. Facultades y obligaciones de las personas integrantes
+
+Las personas integrantes de la Junta Directiva tendrán las siguientes facultades y obligaciones:
+
+I. Asistir a las sesiones de la Junta Directiva y participar en sus deliberaciones.
+
+II. Emitir su voto respecto de los asuntos sometidos a consideración de la Junta Directiva.
+
+III. Formular opiniones, recomendaciones y propuestas relacionadas con el objeto de la Junta Directiva.
+
+IV. Solicitar, por conducto de la presidencia, la información necesaria para el adecuado análisis de los asuntos a tratar.
+
+V. Integrar, en su caso, grupos de trabajo o comisiones temporales.
+
+VI. Conducirse con imparcialidad, objetividad y profesionalismo en el desempeño de su encargo.
+
+VII. Excusarse de conocer aquellos asuntos en los que tengan conflicto de interés.
+
+VIII. Guardar confidencialidad respecto de la información que, por su naturaleza, así lo requiera.
+
+IX. Cumplir con los acuerdos de la Junta Directiva dentro del ámbito de sus atribuciones.
+
+X. Las demás que les confiera el presente ordenamiento.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Artículo 8 Sexdecies. Creación
+
+La Junta Directiva, a propuesta de la persona titular de la agencia, podrá determinar la creación, integración y funcionamiento de los comités, tanto de carácter permanente como transitorio, que considere necesarios para el cumplimiento del objeto de la agencia.
 
 ###### Artículo 9.
 
@@ -325,7 +757,9 @@ La persona titular de la agencia tendrá las siguientes facultades y obligacione
 
 I. Representar legalmente a la agencia ante cualquier autoridad o persona, mediante poder general amplísimo para pleitos y cobranzas y actos de administración, pudiendo promover y desistirse de cualquier acto o procedimiento, de naturaleza administrativa o jurisdiccional.
 
-II. Planear, dirigir y administrar el funcionamiento de la agencia.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+II. Administrar el funcionamiento de la agencia.
 
 III. Ejecutar los actos de autoridad necesarios para el debido cumplimiento de su objeto.
 
@@ -333,15 +767,23 @@ IV. Convocar, presidir y conducir las sesiones del consejo consultivo.
 
 V. Otorgar, a nombre de la agencia, mandatos o poderes generales o limitados en términos de lo establecido en el Código Civil del Estado de Yucatán para la atención de los asuntos de su competencia y revocar dichos mandatos.
 
-VI. Aprobar y remitir el proyecto de presupuesto de egresos de la agencia al Poder Ejecutivo Estatal, para su integración al proyecto de presupuesto de egresos; y ejercer el presupuesto aprobado por el Congreso del Estado; así como rendir cuentas sobre su ejercicio.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-VII. Otorgar, renovar, modificar, suspender o extinguir, las autorizaciones del servicio de transporte, exceptuando los permisos especiales y provisionales, el certificado vehicular, certificado de persona operadora titular o adhesiva, previo cumplimiento de los requisitos establecidos en la ley y demás disposiciones aplicables.
+VI. Remitir el proyecto de presupuesto de egresos de la agencia al Poder Ejecutivo Estatal, para su integración al proyecto de presupuesto de egresos; y ejercer el presupuesto aprobado por el Congreso del Estado; así como rendir cuentas sobre su ejercicio.
 
-VIII. Emitir los lineamientos, reglas, acuerdos y demás normativa necesaria para la aplicación de esta ley y la relacionada con el servicio de transporte.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-IX. Aprobar la estructura de la agencia, emitir el reglamento interior, los manuales de organización, y demás instrumentos que regulen el funcionamiento de la agencia, así como sus propuestas de modificación.
+VII. Otorgar, renovar, modificar, suspender, rescatar o extinguir, las autorizaciones del servicio de transporte, exceptuando los permisos especiales y provisionales, el certificado vehicular, certificado de persona operadora titular o adhesiva, previo cumplimiento de los requisitos establecidos en la ley y demás disposiciones aplicables.
 
-X. Instrumentar acciones de coordinación con diferentes autoridades e instituciones para la implementación de programas y proyectos de transporte público en el estado, así como para la capacitación del personal de la agencia.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VIII. Emitir los lineamientos, reglas, acuerdos, circulares y demás normativa necesaria para la aplicación de esta ley y la relacionada con el servicio de transporte.
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IX. Emitir el reglamento interior, los manuales de organización y procedimientos, así como los demás instrumentos que regulen el funcionamiento de la agencia, así como sus propuestas de modificación.
+
+X. (DEROGADA, D.O. 25 DE MAYO DE 2026)
 
 XI. Autorizar con base al dictamen del área competente, el crecimiento, expansión y desarrollo de los diferentes servicios de transporte de personas para su integración al sistema.
 
@@ -349,39 +791,87 @@ XII. Establecer las medidas y mecanismos que aseguren la calidad, eficacia y efi
 
 XIII. Determinar las políticas y programas generales de la agencia, y expedir la normativa necesaria para el cumplimiento de sus fines.
 
-XIV. Reconocer y autorizar mediante acuerdo un nuevo tipo de servicio de transporte.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XIV. Proponer a la junta directiva nuevas modalidades de servicio de transporte de personas pasajeras, previo análisis de las condiciones financieras y operativas permitidas por esta Ley y su Reglamento o de acuerdo con las necesidades que dicte el interés público, que garanticen la prestación de este servicio bajo elementos de seguridad, eficiencia, regularidad y cuidado del ambiente.
 
 XV. Autorizar la ubicación de los sitios, terminales, paraderos, paradas, parabuses, estaciones, bahías y centros para la prestación del servicio de transporte, así como su reubicación.
 
 XVI. Otorgar o autorizar mediante el instrumento legal adecuado el manejo, explotación o administración de los centros o la operación de los sistemas informáticos establecidos en esta ley o demás normativa aplicable.
 
-XVII. Constituir fideicomisos de conformidad con la normativa aplicable para el cumplimiento del objeto de la agencia.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-XVIII. Regular y autorizar la publicidad en los vehículos de transporte público, así como en la infraestructura destinada para este, de conformidad con esta ley.
+XVII. Constituir, modificar y extinguir fideicomisos, previa aprobación de la junta directiva, de conformidad con la normativa aplicable para el cumplimiento del objeto de la agencia.
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XVIII. Autorizar, regular y establecer tarifas para la publicidad en los vehículos de transporte público de personas pasajeras, así como en la infraestructura destinada para este, de conformidad con esta ley.
 
 XIX. Emitir mediante acuerdo las restricciones al servicio de transporte público cuando las condiciones socioeconómicas, de seguridad, de salud y ambientales en el estado así lo requieran.
 
 XX. Emitir mediante acuerdo las condiciones para la disposición del servicio de transporte público de personas pasajeras en caso de cualquier problema grave, de fuerza mayor o caso fortuito, que afecte a los municipios en donde presten su servicio o en cualquier otro punto del territorio del estado.
 
-XXI. Instrumentar acciones de coordinación con diferentes autoridades e instituciones para la implementación de programas y proyectos de transporte público en el estado, así como para la capacitación del personal de la agencia.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-XXII. Suscribir acuerdos, convenios, contratos, acuerdos interinstitucionales y demás instrumentos jurídicos con los sectores público, privado y social, con autoridades federales, estatales y municipales y organismos internacionales según corresponda, en las materias competencia de la agencia, en los términos de las disposiciones aplicables para el cumplimiento de las atribuciones de la agencia.
+XXI. Instrumentar acciones de coordinación con diferentes autoridades e instituciones para la implementación de programas y proyectos de transporte público en el estado, la verificación del cumplimiento de la normatividad relacionada con el transporte público, así como para la capacitación del personal de la agencia.
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXII. Suscribir acuerdos, convenios, contratos, acuerdos interinstitucionales y demás instrumentos jurídicos con los sectores público, privado y social, con autoridades federales, estatales y municipales y organismos nacionales e internacionales según corresponda, en las materias competencia de la agencia, en los términos de las disposiciones aplicables para el cumplimiento de las atribuciones de la agencia.
 
 XXIII. Administrar los ingresos de la agencia, así como los bienes que integren y se incorporen a su patrimonio.
 
 XXIV. Autorizar, mediante el instrumento jurídico correspondiente, en su caso, el uso, explotación o aprovechamiento de los bienes que integren el sistema.
 
-XXV. Elaborar el proyecto de informe anual de actividades de la agencia para su presentación ante el Congreso.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-XXVI. Comparecer anualmente ante el Congreso, a fin de presentar el informe anual de actividades de la agencia (sic) términos del Capítulo II del Título I de esta ley.
+XXV. Elaborar el proyecto de informe anual de actividades de la agencia para su presentación ante el Consejo Directivo y al Congreso.
 
-XXVII. Las demás que establezca esta ley, el reglamento interior y demás disposiciones aplicables.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXVI. Comparecer anualmente ante el Congreso, a fin de presentar el informe anual de actividades de la agencia, en términos del Capítulo IV del Título I de esta ley.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXVII. Determinar el rescate de las concesiones por las causas establecidas en esta ley.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXVIII. Determinar los casos en los que las condiciones de una concesión no la hagan financieramente viable.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXIX. Autorizar el esquema para determinar los conceptos de pago, las reglas de carácter general para la determinación de la cantidad y la forma en que se pagará a las personas concesionarias o cualquier otro esquema de pago.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXX. Elaborar los estudios socioeconómicos y determinar la necesidad de realizar los ajustes a las tarifas de transporte público de personas pasajeras a que se refiere el artículo 61 de esta ley.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXXI. Autorizar en los casos a que se refiere el artículo 61 de esta ley medidas de carácter temporal para el cobro de la tarifa de transporte público de personas pasajeras.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXXII. Acordar, de manera fundada y motivada, la intervención de la prestación del servicio de transporte público cuando este se interrumpa o afecte.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXXIII. Modificar el programa de operación aprobado en casos de fuerza mayor, conforme a los instrumentos jurídicos que emita la agencia.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXXIV. Determinar la aplicación de medidas de seguridad y medios de apremio, conforme a lo previsto en esta ley y aplicarlos.
+
+XXXV. Las demás que establezca esta ley, el reglamento interior y demás disposiciones aplicables.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 11.
 
 Suplencias
 
-Las personas titulares de las unidades administrativas, conforme a lo establecido en el reglamento interior, suplirán a la persona titular de la agencia en sus ausencias temporales que no impliquen falta absoluta.
+La persona titular de la agencia será suplida en sus ausencias por la persona servidora pública que designe mediante oficio. En caso de que no se lleve a cabo la designación, la suplirán las personas titulares de las unidades administrativas, conforme a lo establecido en el reglamento interior.
 
 ###### Artículo 12.
 
@@ -394,6 +884,26 @@ La persona titular de la agencia tendrá la facultad de nombrar y remover a las 
 Suplencia de las personas titulares de las unidades administrativas
 
 Las personas titulares de las unidades administrativas de la agencia serán suplidas en sus ausencias temporales, por las personas titulares de la jerarquía inmediata inferior en sus respectivas adscripciones, conforme lo que establezca el reglamento interior.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 13 Bis.
+
+Requisitos Generales para ser persona titular de las unidades administrativas
+
+Para ser persona titular de alguna de las unidades administrativas de la agencia deberán de cumplir, al menos, con los requisitos siguientes:
+
+I. Tener nacionalidad mexicana con pleno ejercicio de sus derechos civiles y políticos.
+
+II. Tener por lo menos treinta y cinco años cumplidos el día de la designación.
+
+III. Contar, al momento de su designación, con experiencia de, al menos, cinco años en las materias relacionadas con las atribuciones que ejercerá como titular de la unidad administrativa.
+
+IV. No ser beneficiaria de concesión, permiso, constancia o certificado para prestar servicio de transporte público o haber tenido relación contractual, de negocios o de parentesco consanguíneo o de afinidad hasta el cuarto grado con alguna persona que haya tenido una autorización en los cinco años anteriores al día de su designación.
+
+V. No ser persona deudora alimentaria morosa.
+
+VI. Contar, al día de su designación, con fecha de expedición mínima de cinco años previa a la fecha del nombramiento, con título y cédula profesional relacionado con las actividades a desempeñar, expedido por autoridad o institución legalmente facultada para ello.
 
 ###### Artículo 14.
 
@@ -417,17 +927,23 @@ VII. Representar al área a su cargo ante las autoridades correspondientes.
 
 VIII. Coordinarse con las demás unidades administrativas de la agencia y funcionarios subalternos, para el mejor desempeño de sus funciones.
 
-IX. Programar, organizar, dirigir y evaluar las actividades y funcionamiento de las direcciones adscritas al área a su cargo, conforme a lo que determine la persona titular.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IX. Programar, organizar, dirigir y evaluar las actividades y funcionamiento de las unidades administrativas adscritas al área a su cargo, conforme a lo que determine esta ley y el reglamento interior de la agencia.
 
 X. Emitir los informes que le solicite la persona titular dentro del ámbito de competencia de sus funciones.
 
 XI. Proporcionar la información y cooperación técnica que le sea solicitada por otras autoridades, previo acuerdo de la persona titular.
 
-XII. Expedir certificaciones de constancias y documentos que obren en los expedientes, relativos a los asuntos de su competencia.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XII. Expedir certificaciones de constancias y documentos que obren en los expedientes, relativos a los asuntos de su competencia, previo informe a la unidad administrativa encargada de los asuntos jurídicos de la agencia para su registro y control.
 
 XIII. Coordinarse con la persona titular, para la elaboración de los anteproyectos de lineamientos, acuerdos, reglas, políticas, y demás disposiciones jurídicas o administrativas de su competencia.
 
-XIV. Revisar y dar visto bueno, cuando corresponda, a las propuestas de las demás unidades administrativas, en materia de anteproyectos de leyes, lineamientos, acuerdos, reglas, políticas, presupuestos, formatos y demás documentación, que deba ser publicada conforme a la legislación aplicable para someterlas a consideración de la persona titular.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XIV. Revisar y dar visto bueno a las propuestas de las unidades administrativas de la agencia, en cuanto involucren a su área, en materia de anteproyectos de leyes, lineamientos, acuerdos, reglas, políticas, presupuestos, formatos y demás documentación, que deba ser publicada conforme a la legislación aplicable para someterlas a consideración de la persona titular.
 
 XV. Proponer a la persona titular, la modificación del reglamento interior de la agencia.
 
@@ -437,11 +953,15 @@ XVII. Acordar con la persona titular, los asuntos cuya resolución no se encuent
 
 XVIII. Vigilar que en los asuntos de su competencia se cumpla estrictamente con las disposiciones legales aplicables.
 
-XIX. Proponer a la persona titular, manuales de organización, normas, políticas, criterios, servicios, sistemas y procedimientos de carácter técnico, que deban regir en las unidades administrativas de la agencia.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XIX. Proponer a la persona titular de la agencia, manuales de organización y de procedimientos, normas, políticas, criterios, circulares, servicios, sistemas y procedimientos de carácter técnico, que deban regir en las unidades administrativas de la agencia.
 
 XX. Someter a la aprobación de la persona titularlos (sic) estudios y proyectos elaborados en las áreas de su responsabilidad.
 
-XXI. Las demás que le confiera la persona titular de la agencia, el reglamento interior y demás disposiciones normativas aplicables.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXI. Las demás que le confiera el reglamento interior y demás disposiciones normativas aplicables.
 
 ###### Artículo 15.
 
@@ -451,13 +971,17 @@ La persona titular de la unidad administrativa encargada del Transporte tendrá 
 
 I. Solicitar, fundada y motivadamente, la información necesaria para el adecuado ejercicio de sus atribuciones y proporcionar la que le corresponda en cumplimiento de las obligaciones de confidencialidad y protección de datos de las partes involucradas.
 
-II. Emitir el dictamen técnico para otorgar, renovar, modificar, suspender o extinguir las autorizaciones del servicio de transporte correspondientes.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+II. Emitir el dictamen técnico para otorgar, renovar, modificar, suspender, extinguir o revocar las autorizaciones del servicio de transporte correspondientes, así como para rescatar o intervenir las concesiones por causa de utilidad pública o interés general.
 
 III. Otorgar, renovar, modificar, suspender, extinguir o revocar los permisos especiales y provisionales, el certificado vehicular y certificado de persona operadora titular o adhesiva a que hace referencia la presente ley.
 
 IV. Expedir, renovar, suspender o revocar los tarjetones únicos de personas operadoras y vigilar que las personas prestadoras del servicio de transporte, tanto público como privado, cumplan con el perfil y demás requisitos que emita la agencia.
 
-V. Determinar los exámenes médicos que deberán sujetarse las personas operadoras del servicio de transporte, así como la forma en que éstos deberán ser acreditados.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+V. Determinar los exámenes médicos a que deberán sujetarse las personas operadoras del servicio de transporte, así como la forma en que éstos deberán ser acreditados.
 
 VI. Diseñar e instrumentar programas de seguridad en materia de transporte.
 
@@ -465,25 +989,27 @@ VII. Nombrar a las personas inspectoras de transporte, previa verificación de q
 
 VIII. Aplicar las medidas de seguridad establecidas en la presente ley y conforme a la normativa aplicable.
 
-IX. Practicar u ordenar las visitas de inspección y verificación a fin de revisar sistemáticamente la operación de las autorizaciones del servicio de transporte, así como el debido cumplimiento de las disposiciones establecidas en esta ley y demás normativa aplicable.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IX. Practicar, coordinar, ordenar y, en su caso, ampliar las visitas de inspección y verificación a fin de revisar sistemáticamente la operación de las autorizaciones del servicio de transporte, así como el debido cumplimiento de las disposiciones establecidas en esta ley y demás normativa aplicable.
 
 X. Ejecutar verificaciones técnicas a los vehículos destinados al servicio de transporte.
 
 XI. Vigilar el cumplimiento y aplicar las sanciones por infracciones establecidas en la presente ley y conforme a la normativa aplicable.
 
-XII. Calificar las infracciones e imponer las sanciones correspondientes por violaciones a la presente ley y demás disposiciones que emita la agencia, cometidas por las personas concesionarias, personas permisionarias, personas operadoras del servicio de transporte, personas empleadas o personas relacionadas directamente con la prestación del servicio de transporte público de personas pasajeras en sus diferentes modalidades, incluyendo a los titulares de las constancias y certificados a que refiere esta ley.
+XII. (DEROGADA, D.O. 25 DE MAYO DE 2026)
 
-XIII. Proponer la implementación de políticas, estrategias y acciones para mejorarla (sic) movilidad sostenible en el estado.
+XIII. (DEROGADA, D.O. 25 DE MAYO DE 2026)
 
 XIV. Generar, implementar, coordinar y ejecutar programas, estrategias y proyectos para el desarrollo del transporte y la movilidad sostenible en el estado considerando la infraestructura necesaria, los vehículos de combustible alternativo y la electromovilidad.
 
-XV. Proyectar y ejecutar, en términos de la legislación aplicable, las obras para la implementación, conservación y vigilancia de la infraestructura del transporte y movilidad sostenible.
+XV. (DEROGADA, D.O. 25 DE MAYO DE 2026)
 
 XVI. Proponer la implementación de políticas, estrategias y acciones para mejorar la organización y el funcionamiento que aporten las personas concesionarias, personas permisionarias, empresas de redes de transporte, personas titulares del certificado vehicular, certificado de persona operadora titular o adhesiva y personas usuarias del servicio, para la elaboración de los programas que tiendan a mejorar el servicio de transporte de personas pasajeras en el estado.
 
 XVII. Dictaminar con base en las necesidades del interés público, la viabilidad de reconocer, regular o implementar un nuevo tipo de servicio de transporte.
 
-XVIII. Integrar y mantener actualizado los padrones y registros establecidos en esta ley.
+XVIII. (DEROGADA, D.O. 25 DE MAYO DE 2026)
 
 XIX. Realizar estudios para evaluar las condiciones y el funcionamiento del servicio de transporte de personas pasajeras.
 
@@ -507,7 +1033,25 @@ XXVIII. Generar y establecer los criterios para determinar las características 
 
 XXIX. Determinar y vigilar la periodicidad, los contenidos teóricos y prácticos, así como los sistemas de acreditación de la capacitación y actualización que se imparta a las personas que laboran en el servicio de transporte.
 
-XXX. Las demás que le confiera la persona titular de la agencia, el reglamento interior y demás disposiciones normativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 25 DE MAYO DE 2026)</small>
+
+XXX. Nombrar y designar al personal comisionado para la práctica de visitas de inspección y verificación.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXXI. Habilitar días y horas hábiles para la práctica de visitas de inspección y de verificación.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXXII. Admitir las observaciones, alegatos y pruebas que ofrezcan las personas visitadas derivadas de la realización de visitas de inspección y verificación.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXXIII. Resolver en definitiva y, en su caso, imponer las sanciones que procedan, en relación con los incumplimientos a las disposiciones establecidas en esta ley y demás normativa aplicable en relación con los hechos consignados en las actas de visitas de inspección y verificación.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 25 DE MAYO DE 2026)</small>
+
+XXXIV. Las demás que le confiera el reglamento interior y demás disposiciones normativas aplicables.
 
 ###### Artículo 16.
 
@@ -515,15 +1059,23 @@ Facultades y obligaciones de la persona titular de la unidad administrativa enca
 
 La persona titular de la unidad administrativa encargada de la planeación y las finanzas de la agencia tendrá las siguientes facultades y obligaciones:
 
-I. Establecer los criterios para el manejo y control de los ingresos y egresos de la agencia.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-II. Administrar los ingresos y presupuesto asignado que se genere del sistema.
+I. Establecer los criterios para el manejo y control de los ingresos y egresos de la agencia, de conformidad con la normativa aplicable a la materia.
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+II. Administrar los ingresos y presupuesto asignado que se genere del sistema, de acuerdo a lo establecido en esta ley.
 
 III. Elaborar la información financiera y presupuestaria sobre cada uno de los proyectos o acciones realizados por la agencia.
 
-IV. Emitir el dictamen financiero para otorgar, renovar, modificar, suspender o extinguir las concesiones relacionadas al sistema.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-V. Dictaminar la viabilidad de crecimiento, expansión y desarrollo de los servicios de transporte y sus servicios conexos.
+IV. Emitir el dictamen financiero para otorgar, renovar, revocar, rescatar, intervenir, modificar, suspender o extinguir las concesiones relacionadas con el sistema.
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+V. Dictaminar la viabilidad de crecimiento, expansión, desarrollo y racionalización de los servicios de transporte y sus servicios conexos.
 
 VI. Proponer los lineamientos para la evaluación de los proyectos, programas y acciones de la agencia.
 
@@ -531,7 +1083,9 @@ VII. Establecer las necesidades, criterios y desarrollo de los sistemas informá
 
 VIII. Proponer a la persona titular de la agencia que se otorgue a terceros, mediante el instrumento legal adecuado, el funcionamiento de los bienes o servicios o la operación de los sistemas informáticos establecidos en esta ley o demás normativa aplicable.
 
-IX. Administrar y operar el fideicomiso que se constituya para el funcionamiento del sistema.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IX. Administrar y operar el fideicomiso que se constituya para el funcionamiento del sistema, en coordinación con la unidad administrativa encargada de los asuntos jurídicos de la agencia.
 
 X. Proponer a la persona titular de la agencia las tarifas que se emitan para la operación del transporte público de personas pasajeras adherido al sistema.
 
@@ -549,17 +1103,25 @@ XVI. Diseñar e instrumentar medidas para el mejoramiento técnico y financiero 
 
 XVII. Dictaminar la procedencia para la participación de la agencia como persona accionista, persona socia o inversionista en cualquier tipo de personas morales, incluyendo asociaciones, o sociedades, mercantiles, bursátiles, civiles, o de otra naturaleza, así como suscribir, adquirir, enajenar y transferir todo tipo de acciones, cuotas, partes sociales o participaciones en todo tipo de personas morales.
 
-XVIII. Administrar, operar y gestionar el Centro de Control y Monitoreo.
+XVIII. (DEROGADA, D.O. 25 DE MAYO DE 2026)
 
 XIX. Vigilar y controlar, dentro del ámbito de su competencia, los recorridos que realicen los vehículos afectos a la prestación del servicio de transporte que corresponda al sistema.
 
-XX. Determinar el pago por kilómetro que corresponda a las personas concesionarias con la información que determine el Centro de Control y Monitoreo de la agencia y actualizar el precio por kilómetro que corresponda conforme esta Ley y las demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-XXI. Aplicar las deducciones al pago por kilómetro conforme a las disposiciones de la ley y las demás disposiciones jurídicas aplicables, relacionadas con el sistema.
+XX. Determinar el pago que corresponda a las personas concesionarias con la información que le proporcionen el Centro de Control y Monitoreo, la unidad administrativa encargada del Sistema, la unidad administrativa encargada de calidad del sistema y la unidad administrativa encargada del Transporte de la agencia y actualizarlo conforme esta Ley y las demás disposiciones jurídicas aplicables.
 
-XXII. Atender y tramitar los procedimientos de aclaración del pago por kilómetro con las personas concesionarias adheridas al sistema.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-XXIII. Coadyuvar en la determinación de los criterios de las características y especificaciones técnicas de los vehículos y parque vehicular, por lo que respecta al impacto en el precio de pago por kilómetro.
+XXI. Aplicar las deducciones a los conceptos de pago conforme a las disposiciones de la ley y las demás disposiciones jurídicas aplicables, relacionadas con el sistema.
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXII. Atender y tramitar los procedimientos de aclaración de los conceptos de pago con las personas concesionarias adheridas al sistema.
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXIII. Coadyuvar en la determinación de los criterios de las características y especificaciones técnicas de los vehículos y parque vehicular, por lo que respecta al impacto en el precio de pago a las personas concesionarias.
 
 XXIV. Proponer a la unidad administrativa encargada de la calidad del sistema los indicadores de calidad para la operación del sistema.
 
@@ -581,7 +1143,9 @@ XXXII. Monitorear y evaluar el desempeño institucional de la agencia.
 
 XXXIII. Dar seguimiento al cumplimiento de los objetivos de la planeación de la agencia y su vinculación con la programación y gestión.
 
-XXXIV. Las demás que le confiera a la persona titular de la agencia, el reglamento interior y demás disposiciones normativas aplicables.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXXIV. Las demás que le confiera el reglamento interior y demás disposiciones normativas aplicables.
 
 ###### Artículo 17.
 
@@ -609,7 +1173,13 @@ IX. Coordinar la ejecución de acciones, planes y programas para el cumplimiento
 
 X. Diseñar, redistribuir, modificar, adecuar, acordar y administrar los itinerarios, recorridos, rutas, parque vehicular, y demás información del transporte público de personas pasajeras adheridos al sistema, en forma coordinada con la unidad administrativa encargada de la planeación y las finanzas de la agencia.
 
-XI. Las demás que le confiera la persona titular de la agencia, el reglamento interior y demás disposiciones normativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 25 DE MAYO DE 2026)</small>
+
+XI. Proponer a la persona titular de la agencia la emisión, reforma o actualización del marco normativo, regulatorio y administrativo necesario para la gestión, regulación, supervisión y control del sistema, particularmente en lo relativo a la operación, obligaciones, desempeño y cumplimiento de las personas concesionarias, con el objeto de impulsar la mejora continua, la calidad, eficiencia, seguridad y sostenibilidad del servicio.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 25 DE MAYO DE 2026)</small>
+
+XII. Las demás que le confiera el reglamento interior y demás disposiciones normativas aplicables.
 
 ###### Artículo 18.
 
@@ -655,7 +1225,9 @@ XVIII. Determinar las acciones correctivas y recomendaciones para mantener la ca
 
 XIX. Proponer a la persona titular de la agencia los criterios para regular el sistema de calidad del sistema.
 
-XX. Las demás que le confiera la persona titular de la agencia, el reglamento interior y demás disposiciones normativas aplicables.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XX. Las demás que le confiera el reglamento interior y demás disposiciones normativas aplicables.
 
 ###### Artículo 19.
 
@@ -699,7 +1271,13 @@ XVII. Definir, establecer, operar y supervisar el sistema de contabilidad, así 
 
 XVIII. Suscribir los contratos derivados de las adquisiciones de bienes y servicios que adquiera la agencia para su operación.
 
-XIX. Las demás que le confiera la persona titular de la agencia, el reglamento interior y demás disposiciones normativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 25 DE MAYO DE 2026)</small>
+
+XIX. Elaborar, en coordinación con la persona titular de la unidad administrativa encargada de la planeación y finanzas de la agencia, bienalmente, el estudio y el dictamen sobre la viabilidad financiera de las concesiones vigentes y sus tarifas.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 25 DE MAYO DE 2026)</small>
+
+XX. Las demás que le confiera el reglamento interior y demás disposiciones normativas aplicables.
 
 ###### Artículo 20.
 
@@ -719,7 +1297,9 @@ V. Proporcionar asistencia jurídica a la persona titular de la agencia para la 
 
 VI. Elaborar toda clase de instrumentos jurídicos y administrativos encaminados a la realización del objeto de la agencia, conforme al marco legal aplicable.
 
-VII. Participar, previo acuerdo con la persona titular de la agencia, en la negociación y celebración de convenios y acuerdos interinstitucionales con autoridades federales, estatales y municipales y organismos internacionales respectivamente, en las materias competencia de la agencia, en los términos de las disposiciones aplicables.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VII. Participar, previo acuerdo con la persona titular de la agencia, en la negociación y celebración de convenios y acuerdos interinstitucionales con autoridades federales, estatales y municipales y organismos nacionales e internacionales respectivamente, en las materias competencia de la agencia, en los términos de las disposiciones aplicables.
 
 VIII. Elaborar y emitir opinión acerca de la procedencia legal de los instrumentos jurídicos de la agencia que le sean turnados, relativos a la celebración de actos con las diversas dependencias y entidades de los tres órdenes de gobierno, asociaciones y personas físicas o morales.
 
@@ -749,7 +1329,17 @@ XX. Asesorar, previa solicitud por escrito, a las direcciones y unidades adminis
 
 XXI. Elaborar, en coordinación con la unidad administrativa competente de la agencia, las denuncias por probables faltas administrativas de las personas servidoras públicas de esta o de los particulares que intervengan en actos vinculados con ellas, anexando las actas administrativas, informes, documentos y, en su caso, dictámenes, en términos de la legislación aplicable en materia de responsabilidades administrativas.
 
-XXII. Las demás que le confiera la persona titular de la agencia, el reglamento interior y demás disposiciones normativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 25 DE MAYO DE 2026)</small>
+
+XXII. Calificar las infracciones e imponer las sanciones correspondientes por violaciones a la presente ley y demás disposiciones que emita la agencia, cometidas por las personas concesionarias, personas permisionarias, personas operadoras del servicio de transporte, personas empleadas o personas relacionadas directamente con la prestación del servicio de transporte público de personas pasajeras en sus diferentes modalidades, incluyendo a los titulares de las constancias y certificados a que refiere esta ley.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXIII. Integrar y mantener actualizado (sic) los padrones y registros establecidos en esta ley.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 25 DE MAYO DE 2026)</small>
+
+XXIV. Las demás que le confiera el reglamento interior y demás disposiciones normativas aplicables.
 
 ###### Artículo 21.
 
@@ -787,13 +1377,17 @@ XV. Proponer los lineamientos para el uso y aplicación de la Imagen Institucion
 
 XVI. Difundir la información estadística y geográfica que genere la agencia, relacionada con el transporte de manera directa.
 
-XVII. Las demás que le confiera la persona titular de la agencia, el reglamento interior y demás disposiciones normativas aplicables.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XVII. Las demás que le confiera el reglamento interior y demás disposiciones normativas aplicables.
 
 ###### Artículo 22.
 
 Facultades y obligaciones de la unidad administrativa encargada de la materia de Tecnologías de la Información
 
-La persona titular de la unidad administrativa encargada de la materia de Tecnologías de la Información de la información (sic) tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
+
+La persona titular de la unidad administrativa encargada de la materia de Tecnologías de la Información tendrá las siguientes atribuciones:
 
 I. Proponer, dar seguimiento y coordinar la elaboración de la Estrategia Digital de la agencia.
 
@@ -823,7 +1417,17 @@ XIII. Proveer herramientas tecnológicas que aprovechen la información de las p
 
 XIV. Procurar la administración, la salvaguarda de la información, el control de accesos y la confidencialidad que coadyuven al correcto manejo de los datos.
 
-XV. Las demás que le confiera la persona titular de la agencia, el reglamento interior y demás disposiciones normativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 25 DE MAYO DE 2026)</small>
+
+XV. Investigar, evaluar y proponer la adopción de soluciones tecnológicas, plataformas y buenas prácticas que fortalezcan las capacidades de las unidades administrativas de la agencia, asegurando la interoperabilidad, la gestión eficiente de la información y la sostenibilidad del servicio, mediante la mejora continua y la innovación tecnológica.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XVI. Supervisar, administrar y verificar el cumplimiento de los contratos vinculados con componentes tecnológicos, equipamiento y gestión de información digital de la agencia, asegurando que las obligaciones contractuales, especificaciones técnicas, niveles de servicio, seguridad de la información e interoperabilidad se cumplan conforme a lo establecido en las disposiciones legales y normativas aplicables, a fin de garantizar la continuidad, calidad y eficiencia en la prestación del servicio.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 25 DE MAYO DE 2026)</small>
+
+XVII. Las demás que le confiera el reglamento interior y demás disposiciones normativas aplicables.
 
 ###### Artículo 23.
 
@@ -909,6 +1513,10 @@ El órgano de control interno es un órgano dotado de autonomía técnica y de g
 
 El órgano de control interno de la agencia tendrá una persona titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimento de su objetivo.
 
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+El titular del órgano de control interno establecerá los lineamientos para la atención e investigación de quejas y denuncias, así como las disposiciones generales para la realización del proceso de fiscalización de la agencia y demás normativa que sea necesaria para el desempeño de su función, de los cuales deberá publicarse un extracto en el Diario Oficial del Gobierno del Estado de Yucatán, y su versión íntegra en su repositorio.
+
 ###### Artículo 32.
 
 Requisitos Para ser titular del órgano de control interno se deberán cumplir los siguientes requisitos:
@@ -921,11 +1529,15 @@ III. No haber sido titular del Poder Ejecutivo, de alguna secretaría del estado
 
 IV. Contar, al momento de su designación con experiencia de, al menos, cinco años en el sector público o en el privado, de preferencia en el ámbito de fiscalización o de control interno.
 
-V. No pertenecer o haber pertenecido en los tres años anteriores al día de su designación a despachos de consultoría o auditoría que hubiesen prestado sus servicios a la agencia, o haber fungido como consultor o auditor externo de la agencia, en lo individual, durante este período.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+V. No pertenecer o haber pertenecido en los cinco años anteriores al día de su designación a despachos de consultoría o auditoría que hubiesen prestado sus servicios a la agencia o haber fungido como consultor o auditor externo de la agencia en lo individual, durante este período, así como no ser titular de una autorización del servicio de transporte o haber tenido relación contractual, de amistad, de parentesco por consanguineidad o de afinidad, hasta el cuarto grado, ni haber estado en sociedad con alguna persona que haya tenido esa autorización.
 
 VI. No ser persona deudora alimentaria morosa.
 
-VII. Contar, al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VII. Contar, al día de su designación, con antigüedad mínima de cinco años, con título y cédula profesional relacionados con las actividades de fiscalización, expedidos por autoridad o institución legalmente facultada para ello.
 
 > <small>(REFORMADO, D.O. 28 DE JULIO DE 2025)</small>
 
@@ -947,11 +1559,17 @@ Las actividades de inspección y verificación que realice el órgano de control
 
 ### Capítulo VI. Consejo Consultivo de la agencia
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 35.
 
 Objeto
 
-El consejo es un órgano colegiado de consulta integrado por el sector público, privado y social que tiene como objeto emitir opiniones, propuestas y recomendaciones para su consideración en la toma de decisiones, políticas y planeación en materia de transporte del estado.
+El consejo es un órgano colegiado de consulta que tiene como objeto emitir opiniones, propuestas y recomendaciones para su consideración en la toma de decisiones, definición de políticas y planeación en materia del servicio de transporte de personas pasajeras del estado.
+
+Este órgano colegiado deberá contar con una secretaría técnica, que será desempeñada por la persona que proponga la persona titular de la agencia, propuesta que deberá ser aprobada por la mayoría de los integrantes del consejo con derecho a voto.
+
+La persona que ocupe la secretaría técnica del consejo participará en sus sesiones con derecho a voz, pero sin voto.
 
 ###### Artículo 36.
 
@@ -991,21 +1609,35 @@ II. Una persona representante del Poder Ejecutivo del Estado.
 
 III. Una persona representante del H. Congreso del Estado de Yucatán.
 
-IV. Una persona representante de las personas concesionarias del sistema.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-V. Una persona representante de la sociedad civil.
+IV. Una persona representante de las personas concesionarias del sistema, que será propuesta por el presidente del consejo y designada mediante votación de los demás integrantes.
 
-VI. Las personas titulares de las unidades administrativas de la agencia, que tendrán derecho a voz, pero sin voto.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+V. Una persona representante de la sociedad civil, propuesta por el presidente del consejo y designada mediante votación de los demás integrantes.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VI. Una persona representante del Consejo Coordinador Empresarial de Yucatán, previa aceptación de la invitación que le extienda la persona presidenta del consejo.
+
+VII. Las personas titulares de las unidades administrativas de la agencia, que tendrán derecho a voz, pero sin voto.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Los cargos de las personas representantes a que se refieren las fracciones IV, V y VI de este artículo tendrán una duración de un año y podrán ser ratificadas.
 
 El consejo contará con una secretaría técnica, que será desempeñada por la persona que proponga la persona titular de la agencia, propuesta que deberá ser aprobada por la mayoría de los integrantes del consejo con derecho a voto. La persona que ocupe la secretaría técnica del consejo participará en sus sesiones con derecho a voz, pero sin voto.
 
 Las personas integrantes del consejo a que se refieren las fracciones I, II, III y VI del presente artículo designarán, por oficio o correo electrónico dirigido a la persona que ocupe la secretaría técnica, a sus suplentes, quienes las sustituirán en caso de ausencia con las facultades y obligaciones que dispone la presente ley.
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 38.
 
 Reglamento interno
 
-El reglamento interno del consejo deberá establecer lo relativo a la organización y el desarrollo de las sesiones, las formalidades de las convocatorias y las facultades de quienes lo integran. Asimismo, establecerá el mecanismo de selección y acreditación del nombramiento de las personas integrantes del consejo señaladas en las fracciones IV y V del artículo anterior, siendo que, en el caso de la persona representante de la sociedad civil, se requerirá que ésta cuente con experiencia laboral o administrativa acreditable superior a tres años en materia de transporte público de personas pasajeras en el estado.
+El reglamento interno del consejo deberá establecer lo relativo a la organización y el desarrollo de las sesiones, las formalidades de las convocatorias y las facultades de quienes lo integran.
 
 ## Título segundo. Servicio de transporte de personas pasajeras en el estado
 
@@ -1030,6 +1662,10 @@ I. Urbano.
 II. Suburbano.
 
 III. Foráneo.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IV. Las demás que establezca la agencia.
 
 El servicio de transporte público de personas pasajeras urbano es aquel que se presta exclusivamente en el interior de los centros de población.
 
@@ -1059,17 +1695,43 @@ En el caso de aquellas modalidades de transporte en las cuales por el tipo de ve
 
 Instalación de publicidad en el transporte público de personas pasajeras
 
-La agencia es la autoridad competente para autorizar la instalación de publicidad en cualquier espacio disponible del servicio de transporte. Las condiciones, características, estándares y demás especificaciones para la publicidad exhibida en los espacios disponibles del servicio de transporte del estado, se establecerán en las disposiciones que emitan la agencia para tal efecto.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
 
-La publicidad en los vehículos del sistema únicamente podrá ser interior sin obstruir ni minimizar la imagen institucional del sistema y demás información o documentación que deba ser visible en los vehículos. Queda prohibida la instalación de publicidad en el exterior de los vehículos de transporte del sistema.
+La agencia es la autoridad competente para autorizar la instalación de publicidad en cualquier espacio disponible del servicio de transporte público de personas pasajeras y para establecer las tarifas correspondientes. Las condiciones, características, estándares y demás especificaciones para la publicidad exhibida en los espacios disponibles del servicio de transporte público de personas pasajeras del estado, se establecerán en las disposiciones que emitan (sic) la agencia para tal efecto.
+
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
 
 Los costos correspondientes para la instalación y exhibición de la publicidad en el servicio de transporte del estado, será fijado por la agencia mediante acuerdo y atendiendo al espacio disponible en el servicio de transporte, duración de la exhibición y al tipo de publicidad de que se trate.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 43 Bis.
+
+Publicidad mediante sistemas electrónicos en el transporte público de personas pasajeras
+
+La agencia es la autoridad competente para operar, autorizar o concesionar sistemas electrónicos para la difusión y reproducción de audiovisuales, visuales y de audio para el entretenimiento e información de interés general de las personas usuarias del servicio público de transporte de personas pasajeras.
+
+Las personas concesionarias y personas operadoras no podrán reproducir ni instalar en los vehículos asignados al servicio público de transporte de personas pasajeras sistemas electrónicos audiovisuales, visuales o de audio sin la autorización de la agencia y siempre que no obstaculicen o interfieran con los señalados en el párrafo anterior.
+
+La agencia podrá operar de manera directa, a través de personas concesionarias o contratistas sistemas de entretenimiento audiovisuales, visuales o de audio, e insertar publicidad e información de interés general.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 43 Ter.
+
+Publicidad en los aplicativos y sistemas de información en el transporte público de personas pasajeras
+
+La agencia es la autoridad competente para autorizar o concesionar la difusión y reproducción en los aplicativos y sistemas de información de publicidad por medio de banners o clips audiovisuales, visuales o de audio de los vehículos asignados al servicio público de transporte de personas pasajeras, de los centros, equipamiento y demás infraestructura destinada al servicio.
+
+La agencia podrá operar de manera directa o a través de personas concesionarias sistemas informáticos para insertar publicidad e información de interés general en los aplicativos y sistemas de información de la agencia.
 
 ###### Artículo 44.
 
 Información para el Sistema de Información Territorial y Urbano
 
-En cumplimiento del artículo 29 de la Ley General de Movilidad y Seguridad y (sic) Vial y el artículo 26 de la Ley de Movilidad y Seguridad y (sic) Vial del Estado de Yucatán, la agencia remitirá con periodicidad y por el medio electrónico que determine el Instituto de Movilidad y Desarrollo Urbano Territorial la siguiente información a efecto de incluirla en el Sistema de Información Territorial y Urbano del Estado:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
+
+En cumplimiento del artículo 29 de la Ley General de Movilidad y Seguridad y (sic) Vial y el artículo 26 de la Ley de Movilidad y Seguridad y (sic) Vial del Estado de Yucatán, la agencia remitirá con periodicidad y por el medio electrónico que determine la Secretaría de Desarrollo Agrario, Territorial y Urbano la siguiente información a efecto de incluirla en el Sistema de Información Territorial y Urbano del Estado:
 
 I. Las personas operadoras de los vehículos del servicio de transporte.
 
@@ -1079,7 +1741,9 @@ III. La información sobre encuestas que midan la movilidad actual de los habita
 
 IV. El número de vehículos, capacidad y rutas de transporte público o privado.
 
-La información anterior deberá ser remitida en datos georreferenciados (en los casos que aplique) y estadísticos.
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+La información referida deberá remitirse, cuando corresponda, en formatos georreferenciados y estadísticos, a través de los medios, repositorios o instrumentos que determine la autoridad competente. En caso de inexistencia de la información, la agencia lo notificará conforme a los formatos y medios que esta establezca.
 
 ### Capítulo II. Personas operadoras, vehículos, tarifas y recursos de transporte
 
@@ -1089,13 +1753,21 @@ La información anterior deberá ser remitida en datos georreferenciados (en los
 
 Obligatoriedad de los expedientes individuales de las personas operadoras
 
-Todas las personas operadoras del servicio de transporte contempladas en esta ley deberán contar con un expediente individual.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
+
+Todas las personas operadoras del servicio de transporte contempladas en esta ley deberán contar con un expediente individual actualizado y vigente.
 
 Las personas concesionarias de los servicios de transporte público de personas pasajeras, sea que estén o no adheridas al sistema, las personas permisionarias del servicio de transporte privado y los titulares de una constancia para prestar el servicio en medios alternativos de transporte tendrán la obligación de generar los expedientes de cada una de las personas operadoras bajo su cargo y actualizarlo durante todo el tiempo que se encuentren en activo.
 
 En caso de que la persona permisionaria y la persona operadora sean la misma persona, también tendrá la obligación de generar el expediente individual en los mismos términos que las demás personas operadoras.
 
-En el caso del servicio de transporte contratado a través de plataformas tecnológicas de personas pasajeras, la empresa de redes de transporte será la responsable de generar las condiciones para tener los expedientes individuales de cada uno (sic) de sus personas operadoras.
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+En el caso del servicio de transporte de personas pasajeras contratado a través de plataformas tecnológicas, la empresa de redes de transporte será la responsable de generar las condiciones para tener los expedientes individuales actualizados y vigentes de cada una de sus personas operadoras. Esta información deberá ser compartida a la agencia por medio de los instrumentos y herramientas que esta dictamine.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Para efectos de lo previsto en el párrafo anterior, la agencia definirá y comunicará la estructura y condiciones de la información a entregar.
 
 ###### Artículo 46.
 
@@ -1104,6 +1776,14 @@ Inscripción de los expedientes individuales de las personas operadoras
 El expediente individual de las personas operadoras es considerado como requisito para la expedición del tarjetón único de persona operadora o del certificado de persona operadora titular o adhesiva, el cual será inscrito en el Registro Estatal de Personas Operadoras mediante el trámite correspondiente.
 
 La agencia podrá solicitar a quien corresponda el o los expedientes individuales de las personas operadoras cuando, en ejercicio de sus facultades de inspección, detecte una posible infracción a las disposiciones de esta ley, la ley general, la ley de movilidad, o cualquier otra disposición que la agencia emita y que regule el tipo de transporte específico de que se trate.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+El expediente individual deberá integrarse con documentación en formato físico y, en su caso, digital, conforme a los lineamientos que determine la agencia, a efecto de conformar el Registro Estatal de Personas Operadoras.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Será responsabilidad de las personas operadoras, concesionarias, empresas de transporte de personal y plataformas tecnológicas, según corresponda, mantener actualizada la documentación que cuente con vigencia, debiendo realizar su actualización en un plazo no mayor a diez días hábiles contados a partir de su vencimiento.
 
 ###### Artículo 47.
 
@@ -1115,9 +1795,13 @@ I. La licencia vigente de manejo correspondiente, emitida por la Secretaría de 
 
 II. Una identificación oficial vigente con fotografía, emitida por una autoridad mexicana.
 
-III. Comprobante de domicilio.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-IV. Exámenes médico-toxicológicos actualizados, una vez al año.
+III. Comprobante de domicilio con una antigüedad no mayor a tres meses a la fecha de presentación de la solicitud.
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IV. Resultados de los exámenes médico-toxicológicos actualizados, una vez al año o cuando la agencia instruya su realización por alguna situación específica acontecida en el ejercicio de la función del operador.
 
 V. La comprobación de al menos cuatro horas de capacitación al mes en cualquiera de las siguientes materias: seguridad vial; prácticas viales que garanticen la integridad física de las personas peatonas y ciclistas; seguridad en materia de transporte; primeros auxilios; perspectiva de género y necesidades de grupos en situación de vulnerabilidad; sensibilización para la prestación del servicio para todas las personas usuarias; derechos de las personas usuarias; manejo a la defensiva; accesibilidad e inclusión en el transporte público; sensibilización de género y demás materias o áreas que señale la agencia.
 
@@ -1127,7 +1811,11 @@ VII. Los incidentes e infracciones de tránsito en los que se hubiera visto invo
 
 VIII. En su caso, el último tarjetón único de persona operadora para el servicio de transporte público de personas pasajeras o el último certificado de persona operadora titular o adhesiva para el transporte contratado a través de plataformas tecnológicas.
 
-IX. La demás documentación o información que se establezcan en los lineamientos que para tal efecto emita la agencia.
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IX. Informes de valoración psicológica, por lo menos una vez al año o cuando la agencia instruya su realización por alguna situación específica acontecida en el ejercicio de la función del operador, conforme a lo previsto en esta ley o en la normativa que emita la agencia.
+
+X. La demás documentación o información que se establezcan en los lineamientos que para tal efecto emita la agencia.
 
 A partir de la información contenida en los expedientes, la agencia podrá emitir por escrito las sugerencias que considere pertinentes para las personas concesionarias o permisionarias y reconocer a las personas operadoras.
 
@@ -1139,7 +1827,9 @@ Las personas operadoras del servicio de transporte en todas sus modalidades y ca
 
 I. Estar uniformados conforme a la normativa que establezca la agencia.
 
-II. Portar su tarjetón único de persona operadora o certificado como identificación visible, así como la licencia de conducir, el número telefónico de la unidad de atención a la persona usuaria del transporte y pegar el tarjetón en un lugar visible del vehículo.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+II. Tramitar y cumplir con los requisitos establecidos en la presente Ley y demás disposiciones aplicables; portar, durante la prestación del servicio, el tarjetón único de persona operadora o el certificado correspondiente como medio de identificación visible, así como la licencia de conducir vigente; exhibir en un lugar visible del vehículo dicho tarjetón; y mantener a la vista el número telefónico de la unidad de atención a las personas usuarias del transporte.
 
 III. Atender con amabilidad y cortesía las peticiones de ayuda e información que les sea solicitada por las personas usuarias del servicio de transporte de que se trate.
 
@@ -1151,7 +1841,9 @@ VI. Cumplir, en su caso, estrictamente con la ruta y horarios establecidos por l
 
 VII. Proporcionar la información que le soliciten las personas inspectoras de transporte y demás autoridades de transporte y sus auxiliares, así como cumplir con lo que éstos le señalen, con base en las disposiciones legales y normativas aplicables.
 
-VIII. Prohibir el acceso al vehículo a su cargo, a personas bajo el efecto visible de alcohol, droga o aquellas sustancias que puedan poner en peligro a las demás personas usuarias, o, en su caso, proceder a retirarlos de la unidad.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VIII. Prohibir el acceso al vehículo a su cargo, a personas bajo el efecto visible de alcohol, droga o aquellas sustancias que puedan poner en peligro a las demás personas usuarias, o, en su caso, proceder conforme lo dispuesto en la fracción XIII de este artículo.
 
 IX. Transportar en el vehículo a su cargo, sólo al número de personas pasajeras autorizado por las autoridades de transporte.
 
@@ -1163,7 +1855,37 @@ XII. Mantener los vehículos en buen estado, de tal forma que su utilización se
 
 XIII. Solicitar el auxilio de la Secretaría de Seguridad Pública.
 
-XIV. Las demás que se establezcan en las diferentes normativas que expida la agencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 25 DE MAYO DE 2026)</small>
+
+XIV. Permitir el acceso al servicio de transporte solo a personas usuarias que paguen la tarifa correspondiente, salvo las excepciones contempladas en los artículos 64 y 83, último párrafo, de esta ley.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XV. Reportar a la agencia las incidencias ocurridas durante el turno al finalizar su jornada con excepción de aquellas que requieran atención inmediata, según lo determine la agencia, las cuales deberán reportarse en el momento en que ocurran, a través de los mecanismos, medios o procesos que esta establezca
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XVI. Denunciar ante las autoridades competentes las infracciones a esta ley, la Ley de Movilidad o la comisión de un delito ocurridas durante el turno.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XVII. Cumplir con el Reglamento de la Ley de Tránsito y Vialidad del Estado de Yucatán.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XVIII. Asistir y concluir satisfactoriamente los cursos de capacitación y de adiestramiento de acuerdo con el programa de capacitación continua que apruebe la agencia.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XIX. Realizarse al menos una vez al año estudios toxicológicos y psicológicos.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XX. Realizar la maniobra de parada a toda persona que solicite ascenso y descenso a la unidad.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 25 DE MAYO DE 2026)</small>
+
+XXI. Las demás que se establezcan (sic) esta ley, la autorización del servicio de transporte y la normativa que expida la agencia.
 
 Lo previsto en las fracciones I y V de este artículo no será aplicable para las personas operadoras del servicio de transporte contratado a través de plataformas tecnológicas y del servicio de transporte prestado por medios alternativos de transporte de personas pasajeras.
 
@@ -1171,9 +1893,13 @@ Lo previsto en las fracciones I y V de este artículo no será aplicable para la
 
 Tarjetón único de persona operadora de transporte público
 
-El tarjetón único de operador es el documento de identificación que emite la agencia, la cual reconoce a la persona operadora para prestar el servicio de transporte de persona pasajeras y, se deberá registrar en el Registro Estatal de Personas Operadoras.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
 
-Todas las personas operadoras activas del servicio público de transporte de personas pasajeras deberán contar, además de la licencia de conducir vigente correspondiente, emitida por la Secretaría de Seguridad Pública, con un tarjetón único de persona operadora vigente.
+El tarjetón único de operador es el documento oficial de identificación que emite la agencia, que certifica a la persona operadora la capacidad y requisitos cumplidos para poder prestar el servicio de transporte de persona (sic) pasajeras y este se deberá registrar en el Registro Estatal de Personas Operadoras.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Todas las personas operadoras activas del servicio público de transporte de personas pasajeras deberán contar, además de la licencia de conducir vigente correspondiente, emitida por la Secretaría de Seguridad Pública, con un tarjetón único de persona operadora vigente para poder prestar servicio.
 
 Es obligación de la persona operadora y de la persona concesionaria mantener actualizado el expediente individual. La agencia señalará, de manera periódica, la información del expediente necesaria para actualizar sus registros, en términos de los lineamientos que los regulen.
 
@@ -1193,7 +1919,15 @@ II. Por reiteración de más de dos quejas por parte de las personas usuarias, e
 
 III. Por reincidencia de infracciones no graves señaladas en esta ley.
 
-IV. Las demás señaladas en esta ley y demás normativa aplicable.
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IV. Por el incumplimiento de las obligaciones a que se refiere el artículo 48 de esta ley.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+V. Por la revocación de la licencia de conducir expedida por la Secretaría de Seguridad Pública.
+
+VI. Las demás señaladas en esta ley y demás normativa aplicable.
 
 Se entenderá como reincidencia la comisión de tres o más infracciones en un periodo de seis meses. La suspensión podrá ser de hasta cuarenta y cinco días hábiles, salvo que sea por resolución judicial ejecutoriada, esta suspensión será durante el tiempo que la resolución señale.
 
@@ -1217,7 +1951,9 @@ La revocación a que hace referencia este artículo se dará sin perjuicio de la
 
 Capacitación continua
 
-Para generar una educación continua en materia de transporte, la agencia, a través del área correspondiente al Centro de Profesionalización de las Personas Operadoras del Transporte del Estado de Yucatán, estará encargada de brindar capacitación a las personas operadoras del servicio de transporte del estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
+
+Para generar una formación continua en materia de transporte pública (sic) de personas pasajeras, la agencia, a través del área correspondiente del Centro de Profesionalización de las Personas Operadoras del Transporte del Estado de Yucatán, estará encargada de brindar capacitación a las personas operadoras del servicio de transporte del estado, así como emitir los programas de capacitación continua para las personas operadoras que deberán de ser proporcionados por las personas concesionarias, en los términos y condiciones que la Agencia establezca.
 
 Las capacitaciones tienen el objetivo de mejorar la calidad del servicio de transporte y dignificar el trabajo de las personas operadoras, a través de la educación en temas relacionados con la materia de transporte, que incluyan de manera enunciativa más no limitativa, el cuidado de la integridad de la persona conductora, la atención a la persona usuaria en general, la inclusión, la prevención de violencia de género; conducción segura y sustentable, así como reacción ante emergencias y accidentes.
 
@@ -1226,6 +1962,14 @@ La educación en materia de transporte también considera un área práctica de 
 Las capacitaciones y el adiestramiento deberán estar acorde con el tipo de transporte que realiza la persona operadora.
 
 La agencia fijará los costos y precios correspondientes para cada una de las capacitaciones brindadas por el área correspondiente.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+La agencia aprobará anualmente el Programa de Capacitación Continua.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+La agencia podrá acreditar a instituciones educativas o asociaciones para que se encarguen de impartir la capacitación a que se refiere este artículo.
 
 #### Sección segunda. Vehículos del servicio transporte
 
@@ -1241,11 +1985,19 @@ Quedan exceptuados de lo anterior, los vehículos eléctricos cuya antigüedad m
 
 Seguros en materia de transporte
 
-Todos los vehículos que se utilicen para la prestación de un servicio de transporte en el estado de Yucatán, sin distinción de modalidades, temporalidad o características, deberán contar con una póliza de seguro vigente que sea de cobertura amplia con el fin de proteger y asegurar la vida e integridad física de la persona operadora, las personas pasajeras y de cualquier otra persona que pudiera verse afectada en los términos establecidos en la Ley de Tránsito y Vialidad del Estado de Yucatán y demás normativa aplicable.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
+
+Todos los vehículos que se utilicen para la prestación de un servicio de transporte en el estado de Yucatán, sin distinción de modalidades, temporalidad o características, deberán contar con una póliza de seguro vigente con el fin de proteger y asegurar la vida, los bienes e integridad física de la persona operadora, las personas pasajeras y de cualquier otra persona que pudiera verse afectada en los términos establecidos en la Ley de Tránsito y Vialidad del Estado de Yucatán y demás normativa aplicable. En el caso de los vehículos adheridos al Sistema la póliza de seguro deberá contar con las características que para tal fin emita la propia Agencia y lo previsto en las Condiciones Generales de Operación.
 
 La póliza del seguro deberá expedirse a favor de la persona concesionaria, de la persona titular del certificado, constancia o permiso y expedida por una institución autorizada. Además, deberá ser correspondiente al número de ocupantes de los vehículos que se utilicen para la prestación del servicio de transporte, así como cubrir la responsabilidad civil o penal establecida en la normativa aplicable.
 
-En el caso del servicio de transporte contratado a través de plataformas tecnológicas de personas pasajeras, en el supuesto de que el seguro de cobertura amplia no se encuentre vigente, las empresas de redes de transporte serán consideradas obligadas solidarias de las personas operadoras del servicio ante el estado, las personas usuarias del servicio y terceros, por la responsabilidad civil que pudiera surgir con motivo de su operación, únicamente hasta por un monto igual a las sumas aseguradas en la póliza de seguro del vehículo que deberán entregar las personas operadoras a estas empresas.
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Las personas concesionarias, en el supuesto de que el seguro de cobertura no se encuentre vigente, serán consideradas obligadas solidarias ante el estado.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+En el caso del servicio de transporte contratado a través de plataformas tecnológicas de personas pasajeras, en el supuesto de que el seguro no se encuentre vigente, las empresas de redes de transporte serán consideradas obligadas solidarias de las personas operadoras del servicio ante el estado, las personas usuarias del servicio y terceros, por la responsabilidad civil que pudiera surgir con motivo de su operación, únicamente hasta por un monto igual a las sumas aseguradas en la póliza de seguro del vehículo que deberán entregar las personas operadoras a estas empresas.
 
 ###### Artículo 55.
 
@@ -1255,7 +2007,9 @@ Los vehículos del servicio de transporte público y privado de personas pasajer
 
 I. Llantas de refacción en buen estado y los instrumentos necesarios para realizar el cambio de aquéllas que se dañen durante el servicio que presten.
 
-II. Equipo de señalamiento para estacionarse en la vía pública, en caso de que los vehículos sufran algún desperfecto.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+II. Equipo de señalamiento para estacionarse en la vía pública, en caso de que los vehículos sufran algún desperfecto o se presente alguna emergencia.
 
 III. Equipo de seguridad necesario como extinguidores y botiquín de primeros auxilios.
 
@@ -1327,7 +2081,21 @@ VII. Por necesidades de interés social.
 
 VIII. Cuando se necesite prestar el servicio en lugares en donde no exista, o el mismo no sea suficiente.
 
-El plazo por el que se otorgará el permiso provisional será de seis meses. Aquellos a los que se les otorgue este permiso, estarán obligados a prestar el servicio en la forma que señala la autorización obtenida originalmente para este efecto.
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IX. Para realizar pruebas de vehículos o de rutas de transporte.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+X. Cuando se requiera derivado de la intervención o el rescate de una concesión, así como de la aplicación de sanciones a las personas concesionarias, por el incumplimiento de lo previsto en esta ley y en las disposiciones que emita la agencia.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XI. Cuando la persona concesionaria no cumpla con la prestación del servicio público de transporte de personas pasajeras conforme a lo requerido por la agencia.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+El plazo por el que se otorgará el permiso provisional será hasta de seis meses. Aquellos a los que se les otorgue este permiso, estarán obligados a prestar el servicio en la forma que señala la autorización obtenida originalmente para este efecto, siempre que no se establezcan otras condiciones en el permiso provisional.
 
 #### Sección tercera. Tarifas
 
@@ -1349,7 +2117,9 @@ Determinación de las tarifas
 
 Para fijar las tarifas la agencia deberá generar un análisis que incluya por lo menos los siguientes parámetros:
 
-I. El precio por kilómetro estimado que se pagará a la persona concesionaria, en su caso considerar precio promedio.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+I. El precio que se pagará por cada concepto de pago a la persona concesionaria, en su caso considerar precio promedio.
 
 II. La disponibilidad presupuestal del subsidio estatal al momento en que se genere el análisis.
 
@@ -1513,25 +2283,29 @@ Las personas concesionarias del servicio de transporte público en la modalidad 
 
 #### Sección segunda. Personas concesionarias
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 76.
 
 Obligaciones de las personas concesionarias del servicio de transporte público de personas pasajeras
 
 Las personas concesionarias del servicio de transporte público de personas pasajeras tendrán las siguientes obligaciones:
 
-I. Prestar el servicio exclusivamente en los términos establecidos en su concesión y conforme a las disposiciones de esta ley, las condiciones generales de operación y demás disposiciones aplicables.
+I. Prestar el servicio exclusivamente en los términos establecidos en su concesión, conforme a esta ley, las disposiciones e instrumentos jurídicos que emita la agencia y demás aplicables para la prestación del servicio.
 
 II. Rotular los vehículos destinados al servicio concesionado con los datos de identificación del servicio prestado, con excepción de los vehículos que operen adheridos al sistema, los cuales deberán cumplir con lo señalado en esta ley.
 
-III. Realizar mantenimiento al parque vehicular y demás equipos e instalaciones afectos a la prestación del servicio, para lo cual deberán contar con un programa anual de mantenimiento de acuerdo con las especificaciones de los fabricantes, que deberá presentar anualmente a la agencia para conocimiento y supervisión, a fin de mantener los vehículos en buen estado de funcionamiento y operación, de calidad, y seguridad e higiene.
+III. Realizar mantenimiento al parque vehicular y demás equipos e instalaciones afectos a la prestación del servicio, para lo cual deberán contar con un programa anual de mantenimiento de acuerdo con las especificaciones de los fabricantes, que deberán presentar anualmente a la agencia para conocimiento e informar a esta sobre su cumplimiento mensualmente para su supervisión, a fin de mantener los vehículos en buen estado de funcionamiento y operación, de calidad, seguridad e higiene.
 
 IV. Utilizar los medios de pago físicos o electrónicos que determine la agencia, así como respetar las tarifas que se cobren por dichos medios y exhibirla de manera obligatoria en sus vehículos o terminales.
 
 V. Respetar los derechos de las personas usuarias establecidos en esta ley y demás disposiciones aplicables.
 
-VI. Notificar y autorizar la cesión, enajenación o transferencia de la concesión a la persona titular a la agencia conforme al procedimiento señalado en la presente ley, o en las disposiciones jurídicas que emita la agencia.
+VI. No enajenar, afectar o gravar de manera alguna, total o parcialmente la concesión, o alguno de los derechos en ella contenidos.
 
-VII. No portar o exhibir rótulos o anuncios que atenten contra la moral y las buenas costumbres o que tiendan a fomentar el consumo de productos que puedan causar daños a la salud.
+VII. No portar o exhibir rótulos o anuncios que tiendan a fomentar el consumo de productos que puedan causar daños a la salud.
+
+Además, toda publicidad en los vehículos asignados al servicio de transporte público de personas pasajeras deberá de ser previamente autorizada por la agencia.
 
 VIII. Utilizar los vehículos destinados a prestar el servicio concesionado, conforme a las condiciones autorizadas.
 
@@ -1541,31 +2315,51 @@ X. Usar correctamente los vehículos destinados a la prestación del servicio, a
 
 XI. Prestar servicio gratuito en casos de emergencia, desastre o cualquier problema grave que afecte a los municipios comprendidos en la ruta en que operen y en cualquier otro punto del estado, a requerimiento de la autoridad competente.
 
-XII. Enviar periódicamente a las personas operadoras, a su costa, a practicarse los exámenes médicos-toxicológicos para la integración de su expediente individual.
+XII. Enviar periódicamente a las personas operadoras, a su costa, a practicarse los exámenes médicos-toxicológicos y valoraciones psicológicas individuales e informar mensualmente a la agencia los resultados de dichos exámenes.
 
 XIII. Inscribir los vehículos que se destinen a la prestación del servicio concesionado, en el registro público vehicular.
 
 XIV. Someter los vehículos destinados a la prestación del servicio de transporte a verificación periódica, a efecto de controlar la emisión de contaminantes a la atmósfera y gases de efecto invernadero, así como emprender medidas para la reducción de estos.
 
-XV. Proporcionar a las autoridades de transporte toda la información que le sea requerida, para conocer y evaluar la forma de prestación del servicio.
+XV. Proporcionar a la agencia toda la información que le sea requerida, para conocer y evaluar la forma de prestación del servicio.
 
-XVI. No alterar la infraestructura para la prestación del servicio y en caso de deterioro por negligencia, hacer las reparaciones con recursos propios.
+XVI. Cuidar y no alterar la infraestructura para la prestación del servicio y en caso de deterioro por negligencia, hacer las reparaciones con recursos propios o indemnizar directamente a la agencia por los daños ocasionados.
 
 XVII. Compartir anualmente con la agencia, los estados financieros anuales auditados dentro de los cuatro meses siguientes al cierre de cada ejercicio fiscal, así como los reportes de cumplimiento y pago de sus obligaciones fiscales.
 
 XVIII. Prestar el servicio permanentemente y de manera continua, evitando la suspensión de manera injustificada.
 
-XIX. Solicitar la autorización por escrito de la agencia, para ceder, enajenar, transmitir, afectar o gravar de manera alguna, total o parcialmente la concesión, o alguno de los derechos en ella contenidos.
+XIX. Solicitar la autorización, previa y por escrito de la persona titular de la agencia, para ceder, total o parcialmente la concesión, o alguno de los derechos en ella contenidos.
 
-XX. Vigilar que el manejo y control efectivo de los vehículos destinados a la prestación del servicio, que de encomendado únicamente a las personas operadoras que cuenten con la licencia y tarjetón único de persona operadora correspondientes, y que cumplan con el perfil y demás requisitos que establezca esta ley y demás normatividad aplicable.
+XX. Vigilar que el manejo y control efectivo de los vehículos destinados a la prestación del servicio, quede encomendado únicamente a las personas operadoras que cuenten con la licencia y tarjetón único de persona operadora correspondientes, y que cumplan con el perfil y demás requisitos que establezca esta ley y demás normatividad aplicable.
 
-XXI. Integrar y poner a disposición de la agencia, cuando les sean requeridos, los expedientes individuales de sus personas operadoras, los cuales deberán contener la documentación y registros relativos a los hechos de tránsito en que cada uno de ellos haya participado derivado de la prestación del servicio y el resultado de los exámenes médicos a que se hayan sometido, así como las anotaciones pertinentes derivadas de la observación y vigilancia de la conducta y eficacia.
+XXI. Integrar y poner a disposición de la agencia, cuando les sean requeridos, los expedientes individuales de sus personas operadoras, los cuales deberán contener la documentación y registros relativos a los hechos de tránsito en que cada uno de ellos haya participado con motivo de la prestación del servicio y el resultado de los exámenes médicos a que se hayan sometido; las anotaciones pertinentes derivadas de la observación y vigilancia sobre su conducta y eficacia en el servicio, así como la información del pago de su salario y de sus prestaciones.
 
-XXII. Informar mediante escrito motivado, a la agencia cuando vayan a dejar de operar el servicio público de transporte en las rutas o zonas otorgadas, con anticipación no menor de treinta días a que esto ocurra, o noventa días, si son los únicos prestadores.
+XXII. Informar, mediante escrito motivado, a la agencia cuando vayan a dejar de operar el servicio público de transporte en las rutas o zonas otorgadas, con una anticipación no menor de treinta días a que esto ocurra, o noventa días, si son los únicos prestadores.
 
 XXIII. Tramitar y obtener, para la prestación del servicio concesionado, las placas de circulación específicas de dicho servicio, en un plazo máximo de treinta días hábiles posteriores a su alta correspondiente en el registro de vehículos.
 
-XXIV. Las demás que señalen esta ley, la propia concesión, su renovación y anexos, así como otras disposiciones legales y normativas aplicables.
+XXIV. Capacitar a su costa a las personas operadoras a través de los programas que autorice la agencia, conforme a lo previsto en esta ley.
+
+XXV. Informar a la agencia cuando adquiera créditos, obligaciones, empréstitos o deudas que representen o excedan, en su totalidad, el veinticinco por ciento de su capital o cuando la suma de estas exceda dicho monto.
+
+XXVI. Informar a la agencia cuando una autoridad hacendaria o fiscal le finque créditos fiscales.
+
+XXVII. Informar a la agencia cuando una autoridad judicial o jurisdiccional embargue cualquiera de sus activos, cuentas o bienes que puedan afectar la prestación del servicio de transporte.
+
+XXVIII. Informar a la agencia cuando solicite concurso mercantil o alguno de sus acreedores lo solicite, así como, en su caso, de las etapas del procedimiento.
+
+XXIX. Informar a la agencia cualquier cambio en las condiciones por las que originalmente le fue otorgada la concesión, dentro de los tres días hábiles siguientes a que tenga conocimiento de este.
+
+XXX. Verificar que sus personas operadoras cumplan con sus obligaciones, conforme a las disposiciones legales aplicables, así como supervisar que estas únicamente permitan el acceso al servicio de transporte a personas pasajeras que cubran el pago de la tarifa correspondiente, salvo las excepciones contenidas en esta ley.
+
+XXXI. Informar a la agencia sobre cualquier cambio en su sociedad accionaria con cinco días de anticipación a que sesione su órgano de gobierno.
+
+XXXII. Ser obligado solidario de las personas operadoras por los cobros no efectuados en sus unidades a las personas pasajeras en la prestación del servicio de transporte público.
+
+XXXIII. Aceptar las modificaciones, restricciones, medidas de seguridad y extinciones que la agencia determine, así como aceptar y acatar la resolución con motivo del rescate de la concesión, en términos de lo previsto en esta ley.
+
+XXXIV. Las demás que señalen esta ley, la propia concesión, su renovación y anexos, así como otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 77.
 
@@ -1611,6 +2405,10 @@ Es atribución de la agencia, la operación de todos los sistemas informáticos 
 
 Cuando los sistemas informáticos sean operados por un tercero ajeno a la agencia, éste está obligado a dar todas las facilidades al personal que la misma designe para tal efecto y someterse a los calendarios de instalación respectivos.
 
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+De Igual manera, el tercero ajeno estará obligado a la preservación e integridad de los sistemas informáticos, las bases de datos y los datos que generen los sistemas informáticos y será responsable de su entrega a la agencia en cualquier momento que se requiera y al término de la concesión, autorización, permiso, licencia, contrato o bien, la figura jurídica correspondiente al caso en concreto.
+
 ###### Artículo 81.
 
 Dispositivos electrónicos en vehículos o espacios del sistema
@@ -1623,15 +2421,27 @@ Interconexión de sistemas y registros
 
 Los sistemas y registros establecidos en esta ley y que se generen para la operatividad del Sistema Metropolitano de Movilidad Amable y Sostenible estarán interconectados a través de una única plataforma que permita la lectura de los datos de manera integral.
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 83.
 
 Sistema de recaudo de la tarifa
 
-La tecnología a través de la cual se realiza el pago de la tarifa electrónica será a través de medios magnéticos y digitales, de los equipos de validación instalados en los vehículos de transporte público de personas pasajeras, o en su caso en terminales o paradas.
+La tecnología a través de la cual se realiza el pago de la tarifa electrónica será a través de medios magnéticos y digitales, validadores instalados y demás equipo embarcado en los vehículos de transporte público de personas pasajeras, o en su caso en terminales o paradas.
 
 Independientemente del sistema de recaudo de la tarifa, la agencia tendrá la facultad de establecer los medios de pago que considere idóneos o necesarios, de manera excepcional u ordinaria para recibir los importes de las tarifas de las personas usuarias, así como implementar alternativas para lograr una mayor cobertura y facilidad de acceso de las personas usuarias.
 
-Asimismo, cuando la persona usuaria no tenga saldo suficiente en su tarjeta inteligente, podrá realizar un viaje a crédito para la utilización del servicio de transporte, no acumulable, mismo que será cobrado en conjunto con la tarifa normal en el siguiente viaje que realice.
+Asimismo, de acuerdo con las políticas establecidas por la Agencia cuando la persona usuaria no tenga saldo suficiente en su tarjeta inteligente, podrá realizar un viaje a crédito para la utilización del servicio de transporte, no acumulable, mismo que será cobrado en conjunto con la tarifa normal en el siguiente viaje que realice.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 83 Bis.
+
+Vía de cobro de tarifa
+
+El cobro de la tarifa del servicio del transporte público de personas pasajeras deberá efectuarse únicamente mediante el sistema que autorice la agencia, en términos de lo previsto en el artículo anterior. Los programas de operación que expida la agencia establecerán las condiciones de instalación, habilitación, conservación y todo lo relativo a su funcionamiento; los mecanismos y plazos para su implementación; y la manera de realizar el recaudo.
+
+En casos de fuerza mayor o caso fortuito la agencia podrá disponer medidas de carácter temporal para que el cobro de la tarifa del transporte público de personas pasajeras se efectúe mediante otros sistemas o, inclusive, mediante boletaje o en efectivo.
 
 ###### Artículo 84.
 
@@ -1683,21 +2493,37 @@ Para la prestación eficiente del servicio de transporte público de personas pa
 
 #### Sección cuarta. Centro de control y monitoreo
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 90.
 
 Centro de control y monitoreo
 
-El centro de control y monitoreo, en adelante centro de monitoreo, es la unidad administrativa de la agencia, que permite el adecuado control, monitoreo y gestión de los vehículos destinados al servicio de transporte público de personas pasajeras y coadyuva a mantener la regularidad en el servicio a cargo de la agencia.
+El centro de control y monitoreo es la instancia operativa responsable de controlar, regular, monitorear y gestionar la prestación del servicio público de transporte del Sistema, mediante los procesos y mecanismos que determine la agencia, para garantizar su cumplimiento, continuidad y seguridad.
 
 ###### Artículo 91.
 
 Funcionamiento del centro de monitoreo
 
-El centro de monitoreo debe contar con un sistema de geolocalización, una plataforma de control y gestión de flota que permita la supervisión, monitoreo de la operación y análisis de los recorridos de los vehículos, insumos para el pago de kilómetros en ruta, control aforo de los vehículos, así como el seguimiento a fallas del servicio de transporte público de personas pasajeras.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
 
-Los datos mínimos que recabará y generará son:
+El centro de monitoreo debe contar con un sistema de geolocalización, una plataforma de control y gestión de flota que permita la supervisión, monitoreo de la operación y análisis de los recorridos de los vehículos, insumos para determinar los conceptos de pago, control de aforo de los vehículos, así como el seguimiento a fallas del servicio de transporte público de personas pasajeras.
 
-I. Los kilómetros recorridos por vehículo para realizar el pago a las personas concesionarias adheridas al sistema por kilómetros en ruta.
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+El centro de monitoreo será el enlace de coordinación con las autoridades de seguridad, tránsito y protección civil, para brindar una atención oportuna y minimizar las afectaciones a las personas usuarias.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+El centro de monitoreo elaborará los proyectos de criterios técnicos y operativos obligatorios en materia de monitoreo, control y desempeño para estandarizar los procedimientos de supervisión en todo el estado y de las medidas técnicas necesarias para la mejora progresiva de la accesibilidad, eficiencia y calidad del servicio.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 25 DE MAYO DE 2026)</small>
+
+Asimismo, deberá recabar, sistematizar y generar, la información siguiente:
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+I. Los kilómetros recorridos por vehículo.
 
 II. El recorrido de los vehículos.
 
@@ -1723,17 +2549,27 @@ En caso de detectar alguna incidencia, el centro de monitoreo deberá seguir los
 
 Preferentemente la plataforma utilizada por el centro de monitoreo podrá llegar a convivir y compartir información de manera automática con otros sistemas.
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 92.
 
 Obligación de contar con un sistema de geolocalización
 
-Para generar la información requerida para determinar el pago por kilómetros en ruta del servicio de transporte público de personas pasajeras, las personas concesionarias, estarán obligadas a colocar, utilizar y mantener funcionando en sus vehículos, un sistema de geolocalización, el cual estará conectado en todo momento y será monitoreado desde el centro de monitoreo. La agencia establecerá los lineamientos que deben cubrir dichos dispositivos.
+Para generar la información requerida para determinar los conceptos de pago del servicio de transporte público de personas pasajeras, las personas concesionarias, estarán obligadas a adquirir, colocar, utilizar y mantener funcionando en sus vehículos, un sistema de geolocalización, el cual estará conectado en todo momento y será monitoreado desde el centro de monitoreo. La agencia establecerá los lineamientos que deben contener las características técnicas de los dispositivos que conforman dicho sistema.
 
 Cuando los dispositivos del sistema de localización vía satelital sean propiedad o de legal posesión de la agencia, esta última coordinará la instalación correspondiente, conforme al procedimiento que se determine en la normativa aplicable, para lo cual, la persona concesionaria estará obligada a dar todas las facilidades al personal que la agencia designe para tal efecto, y a someterse a los calendarios de instalación respectivos.
 
-En caso de observar fallas en el sistema de geolocalización deberá reportarlo inmediatamente al centro de monitoreo y dicho vehículo será retirado del servicio hasta en tanto pueda ser identificado nuevamente por el centro a través de su sistema.
+En caso de observar fallas en el sistema de geolocalización, la persona concesionaria deberá reportarlo inmediatamente al centro de control y monitoreo y dicho vehículo será retirado del servicio hasta en tanto pueda ser identificado nuevamente por el centro a través de su sistema.
 
-El centro de monitoreo también podrá reportar a la persona operadora a la persona concesionaria si detecta fallas en el sistema de geolocalización, teniendo que retirar ese vehículo del servicio hasta en tanto se regularice el sistema.
+El centro de monitoreo también podrá reportar a la persona operadora y a la persona concesionaria si detecta fallas en el sistema de geolocalización, teniendo que retirar ese vehículo del servicio hasta en tanto se regularice el sistema.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 92 Bis.
+
+Propiedad y finalidad de la información
+
+La información generada por los sistemas y equipamiento embarcado instalados en las unidades, infraestructura, centros y en el Centro de Control y Monitoreo será propiedad de la agencia y se considerará parte integral de la operación del servicio. Dicha información tendrá como finalidad contribuir a la prestación del servicio en condiciones de seguridad, comodidad y eficiencia, así como a la atención, seguimiento y esclarecimiento de incidentes y hechos de tránsito que se presenten durante su operación.
 
 #### Sección quinta. Programa de operación y las rutas del servicio de transporte público de personas pasajeras
 
@@ -1751,7 +2587,9 @@ Publicación de los programas de operación
 
 La agencia publicará cada lunes el programa de operación en la plataforma tecnológica correspondiente. En los casos en que el día determinado sea inhábil, la publicación habrá de realizarse el siguiente día hábil. Asimismo, en el supuesto que no se publicará o difundiera el programa de operación semanal que corresponda, seguirá surtiendo efectos el último publicado y difundido.
 
-Sobre la base del programa de operación se medirá el grado de cumplimiento de la concesión y se calculará la participación que le corresponda a la persona concesionaria por el kilómetro en ruta. En consecuencia, la prestación de los servicios de la persona concesionaria debe ajustarse al programa de operación que se defina semanalmente dentro del marco de su concesión.
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Sobre la base del programa de operación se medirá el grado de cumplimiento de la concesión y se calculará la participación que le corresponda a la persona concesionaria por concepto de pago. En consecuencia, la prestación de los servicios de la persona concesionaria debe ajustarse al programa de operación que se defina semanalmente dentro del marco de su concesión.
 
 La elaboración, aprobación y modificación del programa de operación, así como el procedimiento y criterios de evaluación para el cambio de los parámetros que lo definen, se detallarán en los instrumentos jurídicos respectivos que, para tal efecto emita la agencia.
 
@@ -1999,7 +2837,15 @@ El servicio de transporte prestado por medios alternativos de transporte de pers
 
 El servicio a que se refiere el párrafo anterior podrá ser prestado por personas físicas, morales o agrupaciones sindicales que cuenten con la constancia respectiva y exclusivamente mediante el uso de microvehículos.
 
-La constancia será expedida por la persona titular de la agencia, previo dictamen de la dirección de transporte de la agencia, en el que se determine que es viable la prestación del servicio, y conforme a los requisitos establecidos en esta ley. La constancia tendrá una vigencia anual y podrá ser renovada cumpliendo los mismos requisitos requeridos para su expedición.
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+La constancia será expedida por la persona titular de la agencia, previo dictamen de la unidad administrativa correspondiente de la agencia, en el que se determine que es viable la prestación del servicio, y conforme a los requisitos establecidos en esta ley.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+La constancia tendrá una vigencia de dos años, y podrá ser renovada cumpliendo los mismos requisitos requeridos para su expedición.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 115.
 
@@ -2007,9 +2853,9 @@ Requisitos para operar
 
 El servicio de transporte prestado por medios alternativos de transporte de personas pasajeras solo podrá ser otorgado en microvehículos que cuenten con el certificado vehicular, y por quienes cuenten con el certificado de persona operadora titular o adhesivo.
 
-La persona titular de la agencia expedirá el certificado vehicular a favor de la persona propietaria o persona legal poseedora del microvehículo con el que se pretenda prestar el servicio de transporte a través de medios alternativos y el certificado de persona operadora titular o adhesivo a la persona que opere los microvehículos destinados a la prestación de dicho servicio, siempre y cuando cumpla con los requisitos establecidos en esta ley.
+La persona titular de la agencia expedirá el certificado vehicular a favor de la persona propietaria del microvehículo con el que se pretenda prestar el servicio de transporte a través de medios alternativos y el certificado de persona operadora titular o adhesivo a la persona que opere los microvehículos destinados a la prestación de dicho servicio, siempre y cuando cumpla con los requisitos establecidos en esta ley.
 
-Las personas que deseen contar con los certificados de persona operadora titular o adhesiva deberán estar registradas con las personas morales o agrupaciones sindicales que cuenten con constancia vigente.
+Las personas que deseen contar con los certificados de persona operadora titular o adhesiva podrán estar registradas con las personas morales o agrupaciones sindicales que cuenten con constancia vigente.
 
 ###### Artículo 116.
 
@@ -2073,6 +2919,10 @@ El Sistema Metropolitano de Movilidad Amable y Sostenible es el sistema de trans
 
 El sistema funcionará y operará conforme a esta ley, los programas de operación y demás disposiciones jurídicas, técnicas y administrativas que al efecto emita la agencia, bajo el concepto de complementariedad entre los diferentes medios y servicios de transporte, con identidad única, planificación y operación integrada, combinando infraestructura, estaciones, terminales, paraderos, vehículos, sistemas de control e información, así como recaudación centralizada y un sistema de dispersión de pagos, con rutas, derroteros, recorridos, horarios, frecuencias y paradas específicas.
 
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Asimismo, deberá administrar, operar y gestionar el Centro de Control y Monitoreo.
+
 ###### Artículo 122.
 
 Principios del sistema
@@ -2089,6 +2939,14 @@ IV. Asequibilidad: procurar que el servicio de transporte público de personas p
 
 V. Innovación tecnológica: procurar el uso de soluciones y sistemas tecnológicos que permitan un desempeño eficiente del servicio de transporte público de personas pasajeras y que puedan generar un desarrollo sustentable con eficiencia energética y fuentes de energía renovable.
 
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VI. Financieramente viable: debe ser sostenible desde su implementación y a mediano y a largo plazo.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VII. Socialmente rentable: Es el criterio que permite determinar el máximo beneficio social a partir de la inversión pública mediante el análisis financiero y socioeconómico.
+
 ###### Artículo 123.
 
 Adhesión al sistema
@@ -2099,7 +2957,9 @@ En caso de que las personas concesionarias decidan adherirse al sistema, la agen
 
 En caso de que decidan no adherirse al sistema conforme a lo dispuesto en esta ley y demás normativa que emita la agencia, a criterio de la agencia y disponibilidad se modificará la ruta de aquellas concesiones vigentes, considerando la calidad y continuidad del servicio de transporte prestado por la persona concesionaria.
 
-En el supuesto de que (sic) no aceptar la modificación de la ruta a que se refiere el párrafo anterior la concesión será revocada.
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+El no aceptar la modificación de la ruta a que se refiere el párrafo anterior será causa de revocación de la concesión.
 
 ###### Artículo 124.
 
@@ -2119,9 +2979,15 @@ V. Mantener los vehículos destinados al servicio concesionado, en los patios de
 
 VI. Contar con patios de encierro y talleres, que estarán equipados con áreas administrativas para personas operadoras, estacionamiento, limpieza de los vehículos y talleres de mantenimiento. El espacio de estos locales será proporcional al número de vehículos que se pretenda introducir a estos, conforme a las disposiciones que la agencia emita para tal efecto.
 
-VII. Cubrir en tiempo y forma el número de kilómetros que determine su concesión, en el entendido de que estos podrán variar en función de la demanda de personas usuarias, con base en la evaluación que realice la agencia.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-VIII. Las demás que señalen esta ley, la propia concesión, su renovación y anexos, así como otras disposiciones legales y normativas aplicables.
+VII. Cumplir con las condiciones que determine su concesión, las reglas de operación, la normativa que emita la agencia, así como los kilómetros programados, en el entendido de que estos podrán variar en función de la demanda de personas usuarias, con base en la evaluación que realice la agencia.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VIII. Asegurarse de que las personas operadoras realicen la apertura y cierre de jornada laboral utilizando su identificación oficial emitida por la agencia a través del validador en su vehículo asignado según la programación correspondiente.
+
+IX. Las demás que señalen esta ley, la propia concesión, su renovación y anexos, así como otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 125.
 
@@ -2137,7 +3003,9 @@ III. Cursar y acreditar las capacitaciones en los plazos establecidos que se les
 
 IV. Cumplir con el Programa de Operación correspondiente.
 
-V. Garantizar que las personas operadoras realicen la apertura y cierre de jornada laboral utilizando su identificación oficial emitida por la agencia a través del validador en su vehículo asignado según la programación correspondiente.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+V. Realizar la apertura y cierre de jornada laboral utilizando su identificación oficial emitida por la agencia a través del validador en su vehículo asignado según la programación correspondiente.
 
 ###### Artículo 126.
 
@@ -2301,7 +3169,21 @@ IV. Que se requiera la continuidad del servicio específico a determinación de 
 
 V. Que la persona concesionaria acepte expresamente las modificaciones de la autorización del servicio de transporte que se pretenda renovar.
 
-VI. Para el caso de las concesiones se solicite dentro del plazo compendio (sic) de seis meses antes de la fecha de su vencimiento y para el resto de las autorizaciones del servicio de transporte se solicite dentro del plazo comprendido de treinta días hábiles antes de su vencimiento.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VI. Para el caso de las concesiones se solicite dentro del plazo comprendido de seis meses antes de la fecha de su vencimiento y para el resto de las autorizaciones del servicio de transporte se solicite dentro del plazo comprendido de treinta días hábiles antes de su vencimiento.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VII. Haber cumplido con los informes mensuales a que se refiere el artículo 110, fracción II, de esta ley; los exámenes toxicológicos y valoraciones psicológicas anuales y los programas de capacitación continua para sus personas operadoras, dentro de los plazos previstos en esta ley, en la concesión y en la normativa que emita la agencia.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VIII. Contar con solvencia financiera, en el caso de las personas concesionarias.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IX. Cumplir todavía con las capacidades legal, técnica, material, financiera y no haber incurrido en infracciones graves a esta ley.
 
 ### Capítulo II. Concesiones
 
@@ -2319,7 +3201,9 @@ I. Hasta diez años para vehículos propulsados por gasolina, diésel o híbrida
 
 II. Hasta quince años para el caso de concesiones otorgadas para vehículos eléctricos.
 
-La vigencia de la concesión se contará a partir del inicio de la prestación del servicio del primer kilómetro en ruta conforme al acta correspondiente que emita la agencia. Para tales efectos, el acta deberá contener, cuando menos, la ruta, fecha, hora y placas del vehículo o vehículos que inician operaciones, así como la firma de la autoridad correspondiente y de la persona concesionaria.
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+La vigencia de la concesión se contará a partir de su otorgamiento.
 
 ###### Artículo 140.
 
@@ -2341,35 +3225,51 @@ V. Los requisitos que deberán cumplir las personas interesadas y la documentaci
 
 VI. La forma en que las personas interesadas acreditarán la capacidad técnica, administrativa, financiera o económica.
 
-VII. Las demás disposiciones legales, técnicas, operativas y administrativas que deberán de cumplir las personas interesadas para participar en el proceso de concesión.
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VII. Las etapas, plazos y horarios, así como los lugares en donde se llevarán a cabo cada uno de los actos relacionados con el proceso de asignación de las concesiones.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VIII. El costo de las bases.
+
+IX. Las demás disposiciones legales, técnicas, operativas y administrativas que deberán de cumplir las personas interesadas para participar en el proceso de concesión.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 141.
 
 Requisitos de las personas interesadas en participar en una convocatoria
 
-Las personas interesadas en participar en la convocatoria deberán presentar un escrito de manifestación de interés de participar en el proceso, que contenga nombre o razón social y domicilio de la persona solicitante; la clase de servicio que se pretenda prestar; y la relación y características de los vehículos que se pretendan utilizar para la prestación del servicio y tendrán cuando menos que:
+Las personas interesadas en participar en la convocatoria deberán presentar un escrito donde manifiesten su interés de participar en el proceso, que contenga nombre o razón social y domicilio de la persona solicitante; la clase de servicio que se pretenda prestar; y la relación y características de los vehículos que se pretendan utilizar para la prestación del servicio de transporte de personas pasajeras y tendrán cuando menos que:
 
 I. Acreditar la personalidad de la persona solicitante:
 
 a) Las personas físicas deberán presentar copia del acta de nacimiento e identificación oficial.
 
-b) Tratándose de personas morales, copia del acta constitutiva debidamente certificada y, en su caso, copia de la última modificación a sus estatutos, así como el documento que acredite la personalidad de su representante legal o apoderado.
+b) Tratándose de personas morales, copia del acta constitutiva debidamente certificada ante notario público y, en su caso, copia de la última modificación a sus estatutos, así como el documento que acredite la personalidad de su representante legal o apoderado.
 
-II. Acreditar su capacidad técnica, administrativa y financiera para la prestación del servicio.
+II. Acreditar su capacidad técnica, administrativa y financiera para la prestación del servicio en el corto, mediano y largo plazo.
 
-III. Presentar documento que garantice el cumplimiento de sus obligaciones fiscales y en materia de seguridad social.
+La agencia determinará las condiciones técnicas, administrativas y financieras necesarias para prestar el servicio público de transporte de personas pasajeras.
 
-IV. Presentar un programa de inversión a mediano o largo plazo.
+III. Presentar el documento que acredite que está en pleno cumplimiento de sus obligaciones fiscales y en materia de seguridad social.
 
-V. Garantizar su experiencia y solvencia económica.
+IV. Presentar un programa de inversión a corto, mediano o largo plazo.
 
-VI. No haber tenido un procedimiento previo de revocación de concesión en el estado.
+V. Acreditar su experiencia y solvencia financiera.
 
-VII. Acreditar que los vehículos destinados al servicio son de su propiedad o dispone legalmente de ellos por un tiempo igual al de la duración máxima de la concesión. Si la persona solicitante no se encontrare en condiciones de acreditar lo anteriormente señalado, por tratarse de vehículos en proceso de compra o adquisición, deberá presentar la orden de compra, el comprobante fiscal o el instrumento jurídico correspondiente para acreditar que dispondrá de los vehículos por un tiempo igual al de la duración máxima de la concesión.
+VI. No haber tenido un procedimiento previo de revocación, extinción o intervención de alguna concesión en el estado.
+
+VII. Acreditar que los vehículos destinados al servicio son de su propiedad. Si la persona solicitante no se encontrare en condiciones de acreditar lo anteriormente señalado, por tratarse de vehículos en proceso de compra o adquisición, deberá presentar la orden de compra, el comprobante fiscal o el instrumento jurídico correspondiente para acreditar que dispondrá de los vehículos por un tiempo igual al de la duración máxima de la concesión.
+
+En caso de no contar con vehículos de su propiedad, se podrá proponer arrendamiento o arrendamiento financiero por un tiempo igual al de la duración máxima de la concesión, siempre que solventar su costo sea factible y acorde al de mercado, de manera que sea financieramente viable.
 
 VIII. Acreditar la internación y permanencia legal en el país de los vehículos de procedencia extranjera que se pretendan utilizar en la prestación del servicio público de transporte, con los documentos expedidos por la autoridad correspondiente.
 
-IX. Cumplir con el resto de los requisitos y documentos señalados en la convocatoria correspondiente.
+IX. Cubrir los derechos que por tal concepto establezcan los ordenamientos legales aplicables y la garantía suficiente para cubrir los daños y perjuicios ocasionados por la terminación anticipada de la concesión o de su revocación.
+
+X. Cumplir con los demás requisitos y documentos señalados en la convocatoria correspondiente.
 
 ###### Artículo 142.
 
@@ -2381,11 +3281,29 @@ I. Las personas interesadas en obtener una concesión deberán presentar en las 
 
 II. Concluido el plazo de la recepción de las solicitudes, la unidad administrativa determinada por la agencia procederá a realizar la revisión de la documentación presentada por las personas interesadas con el fin de verificar si cumplen con los requisitos previstos en la convocatoria que expida la agencia a fin de crear un expediente del procedimiento de otorgamiento de la concesión y un expediente con la documentación de cada persona interesada.
 
-En caso de que la documentación presentada no cumpla con alguno de los requisitos, se les requerirá a las personas interesadas para que, en un término de tres días hábiles, lo subsanen, bajo el apercibimiento respectivo. En caso de no realizarlo, lo hagan fuera de tiempo o no se cumpla con la totalidad de lo requerido, se desechará la solicitud y se tendrá por no presentada.
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+En caso de que la documentación presentada no cumpla con alguno de los requisitos, se desechará la solicitud y se tendrá por no presentada.
 
 III. Una vez recibido (sic) la documentación conforme a lo previsto en la fracción anterior, la agencia contará con un plazo de hasta quince días hábiles para la elaboración del dictamen de procedencia, previo estudio de las solicitudes presentadas y remitir al área correspondiente de la agencia para que en el ejercicio de sus atribuciones emita conforme a derecho el fallo respectivo.
 
 IV. La persona titular de la agencia emitirá la resolución que contenga el fallo respectivo, en un plazo máximo de diez días hábiles contados a partir de la recepción del dictamen. El fallo será notificado de manera personal o por los medios electrónicos que determine la agencia, a la persona física o moral correspondiente en el plazo máximo de diez días hábiles a partir de su emisión.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 142 Bis.
+
+Criterios para la evaluación de las proposiciones de las personas interesadas en una concesión
+
+En todos los casos la agencia deberá verificar que las proposiciones cumplan con los requisitos solicitados en la convocatoria.
+
+Preferentemente deberá de utilizarse el criterio de puntos y porcentajes o el de costo beneficio, según sea el caso.
+
+De no ser factible la evaluación mediante puntos y porcentajes o costo beneficio podrá utilizarse el método binario.
+
+En ambos casos, se evaluarán, al menos, las dos proposiciones cuyo costo para el estado sea el más conveniente y de no resultar éstas, se evaluarán a las que le sigan en costo.
+
+Realizada la evaluación de proposiciones, se otorgará la concesión a la persona que cumpla con los requisitos legales, técnicos y económicos establecidos en la convocatoria y, por tanto, garantice el cumplimiento de las obligaciones respectivas y, en su caso, haya obtenido el mejor resultado en la evaluación combinada de puntos y porcentajes, o bien, de costo beneficio o, en su caso, del método binario, priorizando la que resulte más conveniente para el Estado.
 
 ###### Artículo 143.
 
@@ -2395,9 +3313,15 @@ En el caso de que varias de las personas interesadas se encuentren en igualdad d
 
 I. La calidad del servicio que prestan las personas interesadas.
 
-II. La capacidad técnica y económica de las personas interesadas.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+II. La capacidad técnica, administrativa y económica de las personas interesadas, así como su solvencia financiera.
 
 III. La experiencia con la que cuenta en la prestación del servicio de transporte por sí mismo o por medio de sus socios, accionistas o personas del mismo grupo económico.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IV. La viabilidad financiera a corto, mediano y largo plazo, considerando el impacto del costo de la concesión bajo el principio de balance presupuestario sostenible.
 
 ###### Artículo 144.
 
@@ -2405,7 +3329,9 @@ Excepción a la convocatoria
 
 Las concesiones podrán ser otorgadas de manera directa en los siguientes supuestos:
 
-I. Cuando el solicitante tenga una concesión y se le requiera adherirse al sistema.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+I. Cuando el solicitante tenga una concesión, siempre que demuestre capacidad técnica, administrativa y económica, y se le requiera adherirse al sistema.
 
 II. Cuando se requiera a un solicitante en particular por las especificaciones técnicas y características del servicio, previo estudio de mercado en el que la agencia determine que no existe otra persona que lo pueda obtener bajo las mismas determinaciones.
 
@@ -2416,6 +3342,10 @@ III. Cuando la convocatoria sea declarada desierta por falta de personas interes
 Título de concesión
 
 El título de concesión es el documento mediante el cual se reconoce a la persona física o moral para prestar el servicio de transporte en los tipos, clasificaciones y modalidades.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Las concesiones, asignaciones, permisos y autorizaciones sobre bienes sujetos al régimen de dominio público del Estado no crean derechos reales; otorgan simplemente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones, de acuerdo con las reglas y condiciones que establezcan las leyes y el título de la concesión o asignación, el permiso o la autorización correspondiente.
 
 El título de concesión contendrá, como mínimo, la siguiente información:
 
@@ -2443,13 +3373,19 @@ XI. Las firmas de la persona titular de la agencia y de la persona a quien se le
 
 Cuando la concesión se otorgue derivado de un procedimiento de convocatoria, ésta será expedida por la persona titular de la agencia en un plazo máximo de noventa días hábiles, a partir de la fecha de notificación del fallo, para lo cual deberá de notificarse a la persona beneficiaria del fallo el lugar, fecha y hora para entrega del título de concesión correspondiente.
 
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+En caso de que la persona adjudicada dentro del plazo señalado en el párrafo anterior, de manera injustificada, no acuda a la entrega del título, respecto de lo que se levantará acta circunstanciada, o no inicie el servicio de transporte público de personas pasajeras una vez que se haya notificado la programación respectiva, se podrá dar por renunciada la concesión, sin responsabilidad para la agencia.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 146.
 
 Solicitud para la suspensión del servicio de transporte público de personas pasajeras
 
-Las personas concesionarias que, por razones justificadas, requieran suspender de manera temporal o permanente su operación en el servicio de transporte público de personas pasajeras, deberán informar por escrito a la agencia, con una anticipación no menor a treinta días hábiles a que inicie la suspensión. La referida solicitud de suspensión deberá contener las siguientes formalidades:
+Las personas concesionarias que, por razones justificadas, requieran suspender de manera temporal o permanente su operación en el servicio de transporte público de personas pasajeras, deberán informar por escrito a la agencia, con una anticipación no menor a treinta días hábiles a que requieran que inicie la suspensión. La referida solicitud de suspensión deberá contener las siguientes formalidades:
 
-I. El nombre, denominación o razón social de la persona concesionaria y, en su caso, del representante legal, agregándose los documentos que acrediten su personalidad.
+I. El nombre, la denominación o razón social de la persona concesionaria y, en su caso, del representante legal, agregándose los documentos que acrediten su personalidad.
 
 II. Número y datos de identificación de la concesión.
 
@@ -2463,17 +3399,25 @@ VI. El lugar, la fecha y la firma del representante legal.
 
 En caso de que no se de aviso en el tiempo establecido se aplicarán las sanciones establecidas en el artículo 209 de esta ley.
 
+La solicitud a que se refiere este artículo no implica la constitución de derecho alguno para la persona solicitante, por lo que la agencia valorará la justificación de la solicitud y, en caso de no estar justificada, podrá negarla.
+
 Cuando se realice la suspensión, la agencia podrá decretar la ocupación temporal a favor de otra persona concesionaria o persona permisionaria con el objetivo que el servicio de transporte no se vea afectado y se permita dar continuidad en la prestación del servicio para las personas usuarias u otorgar el permiso provisional respectivo para atender el servicio de transporte.
 
-La suspensión realizada por la persona concesionaria no podrá ser mayor a treinta días hábiles, una vez que se exceda del término se procederá a realizar la revocación o modificación de la concesión.
+La suspensión realizada por la persona concesionaria no podrá ser mayor a treinta días hábiles, una vez que se exceda del término se procederá a realizar la revocación, rescate o modificación de la concesión.
 
-Una vez que la causa de suspensión del servicio de transporte público haya cesado, la persona concesionaria reanudará de inmediato la prestación del servicio de transporte público en los términos previstos en el título de concesión, y anexos, dando aviso por escrito a la agencia.
+En caso de suspensión, la agencia no realizará pago alguno por ningún concepto, por lo que la persona concesionaria deberá absorber los costos de la suspensión.
+
+De determinarse que no fue justificada la suspensión, la agencia calculará las multas y penalizaciones y las notificará a la persona concesionaria.
+
+Una vez que la razón de suspensión del servicio de transporte público haya cesado, la persona concesionaria reanudará de inmediato la prestación del servicio de transporte público en los términos previstos en la concesión, y anexos, dando aviso por escrito a la agencia.
 
 ###### Artículo 147.
 
 Designación de persona beneficiaria de las personas concesionarias
 
-Cuando la persona titular de los derechos de la concesión sea una persona física, podrá designar a una persona física beneficiaria, en caso de que no pueda prestar el servicio por causa de muerte o incapacidad mental permanente declarada judicialmente, quien deberá demostrar a la agencia, en el momento de materializar el reconocimiento de persona beneficiaria, los requisitos establecidos en el artículo 149 de esta ley, para que sea acreedora de los mismos.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
+
+Cuando la persona titular de los derechos de la concesión sea una persona física y haya designado a una persona física beneficiaria de sus activos destinados a la prestación del servicio público de transporte, esto mediante una lista de prelación de hasta 3 personas, en caso de que no pueda prestar el servicio por causa de muerte o incapacidad mental permanente declarada judicialmente, la agencia podrá reconocerla como persona concesionaria por el plazo que reste de la concesión, siempre que lo solicite y demuestre a la agencia, en el momento de materializar el reconocimiento de persona beneficiaria, los requisitos establecidos en el artículo 149 de esta ley.
 
 Para realizar el procedimiento de designación de persona beneficiaria la persona concesionaria deberá presentarse ante la unidad administrativa de la agencia que resulte competente, presentando, como mínimo, los siguientes documentos:
 
@@ -2481,7 +3425,11 @@ I. Identificación oficial de la persona concesionaria y de la persona que se de
 
 II. Acta de nacimiento de la persona designada como beneficiaria.
 
-III. Las demás que emita la agencia y señalen las disposiciones legales y normativas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 25 DE MAYO DE 2026)</small>
+
+III. La documentación legal que acredite la titularidad legal de los activos destinados para la prestación del servicio de transporte público de personas pasajeras en caso de que no pueda prestar el servicio por causa de muerte o incapacidad mental permanente declarada judicialmente.
+
+IV. Las demás que emita la agencia y señalen las disposiciones legales y normativas aplicables.
 
 Los documentos deberán ser presentados en original y copia para cotejo, una vez corroborada la información se procederá a firmar el acuerdo de designación por parte de la agencia, debiendo suscribir en dicho acuerdo la persona concesionaria, la persona designada como beneficiaria y dos personas que sean testigos e intervengan en el acto, para posteriormente integrarse como anexo al expediente de la concesión.
 
@@ -2503,13 +3451,25 @@ V. Copia de la licencia correspondiente para el servicio de transporte público 
 
 VI. Acreditar el pago de derechos correspondientes establecidos en la Ley General de Hacienda del Estado de Yucatán. La persona beneficiaria deberá realizar el cambio de propietario de el o los vehículos dentro de los diez días hábiles posteriores a la firma del reconocimiento como nuevo titular de la concesión.
 
-En caso de que la persona beneficiaria desee realizar cambio de vehículo deberá presentar copia de la factura del vehículo que utilizará para prestar el servicio, el cual deberá contar con una antigüedad no mayor a diez años.
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VII. Acreditar el cumplimiento de los requisitos a que se refieren las fracciones II, III, IV, V, VI, VII, VIII y X del artículo 141 de esta ley, respecto a esta última fracción deberán acreditar el cumplimiento de los requisitos adicionales previstos en la convocatoria que se haya emitido para otorgar la concesión a la persona titular de la concesión que la designó como beneficiaria.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VIII. Acreditar la posible titularidad legal de los activos asignados para la prestación del servicio de transporte público de personas pasajeras.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 25 DE MAYO DE 2026)</small>
+
+En caso de que hayan transcurrido más de siete años desde el otorgamiento de la concesión a su titular original, la agencia podrá evaluar el estado de conservación y mantenimiento de los vehículos sujetos a la concesión.
 
 ###### Artículo 149.
 
 Cesión de la concesión de transporte público de personas pasajeras
 
-Las personas concesionarias podrán solicitar la cesión de los derechos reconocidos en un título de concesión, mediante escrito dirigido a la persona titular de la agencia, manifestando el deseo de llevar a cabo la cesión de derechos y su justificación. La notificación de la cesión y solicitud de la autorización de la agencia para reconocer la cesión de la persona concesionaria en sus calidades de personas cedentes, y la persona a cuyo favor de (sic) cederá, en su calidad de persona cesionaria, deberá estar acompañado de la siguiente documentación:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
+
+Las personas concesionarias podrán solicitar la cesión de los derechos reconocidos en un título de concesión, con autorización previa de la agencia, mediante escrito dirigido a la persona titular de esta. La notificación de la intención de la cesión de derechos y solicitud de la autorización de la agencia para reconocer la cesión de la persona concesionaria en su calidad de persona cedente, y la persona a cuyo favor se cederá, en su calidad de persona cesionaria, deberá estar acompañada de la siguiente documentación:
 
 I. Identificación oficial vigente con fotografía y acta de nacimiento para las personas físicas y, en caso de persona moral, acta constitutiva y su última modificación, de ser el caso, además del poder notarial donde se nombre al representante legal; así como copia de la identificación oficial vigente con fotografía del representante legal.
 
@@ -2519,13 +3479,21 @@ III. Comprobante de domicilio con una antigüedad no mayor a tres meses, previos
 
 IV. Constancia del historial de infracciones de tránsito y vialidad en sentido positivo, emitida por la Secretaría de Seguridad Pública, con una fecha de expedición no mayor a tres meses, previos a la presentación de la solicitud, donde conste que los vehículos ligados a la concesión de la persona cedente y el o los vehículos a emplear por la persona cesionaria, no cuentan con adeudos pendientes por infracciones en materia de tránsito y vialidad, o en su caso, el comprobante del pago correspondiente.
 
-V. Constancia del historial de infracciones establecidas en esta ley y demás disposiciones legales y normativas aplicables, emitido por la agencia, con una fecha de expedición no mayor a tres meses a la presentación de la solicitud, donde conste que tanto la persona que cederá, enajenará o transferirá como aquella a cuyo favor se cede, enajena o transfiere la concesión, o alguno de sus derechos o bienes afectos a la prestación, no cuentan con adeudos pendientes por infracciones a los dispositivos legales mencionados.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-VI. Documento probatorio de la existencia y vigencia de la concesión que será cedida, enajenada o transferida o de la que derivan los derechos o bienes, en original, emitido por la autoridad competente.
+V. Constancia del historial de infracciones establecidas en esta ley y demás disposiciones legales y normativas aplicables, emitido por la agencia, con una fecha de expedición no mayor a tres meses a la presentación de la solicitud, donde conste que tanto la persona que pretende ceder, como aquella a cuyo favor se cede la concesión, o alguno de sus derechos o bienes afectos a la prestación, no cuentan con adeudos pendientes por infracciones a los dispositivos legales mencionados.
 
-VII. Manifestación por escrito, bajo protesta de decir verdad, de las causas que justifiquen la cesión, enajenación o transferencia, firmada por la persona titular del documento, derecho o bien de que se trate.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VI. Documento probatorio de la existencia y vigencia de la concesión que será cedida o de la que derivan los derechos o bienes, en original, emitido por la autoridad competente.
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VII. Manifestación por escrito, bajo protesta de decir verdad, de las causas que justifiquen la cesión, firmada por la persona titular del documento, derecho o bien de que se trate.
 
 VIII. Se exime de dicho requisito a la persona cesionaria, cuando el o los vehículos se encuentren en proceso de compra, debiendo exhibir la orden de compra, el comprobante fiscal o el instrumento jurídico correspondiente para acreditar que dispondrá del vehículo o los vehículos para prestar el servicio de transporte.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 25 DE MAYO DE 2026)</small>
 
 IX. De manera adicional, la persona a quien se ceda la concesión deberá presentar:
 
@@ -2533,17 +3501,21 @@ a) Factura original del vehículo que utilizará para prestar el servicio, carta
 
 b) Póliza de seguro vigente de los vehículos a que se refiere el inciso anterior, siempre que el vehículo no esté en proceso de compra.
 
-c) Documento que acredite su capacidad técnica y económica para la prestación del servicio.
+c) Documento que acredite su capacidad técnica, administrativa y económica para la prestación del servicio y su solvencia a corto y mediano plazo.
 
 d) Un programa de inversión a mediano o largo plazo.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 150.
 
 Procedimiento de cesión de derechos
 
-La persona cedente, deberá presentar la solicitud por escrito, en los términos expresados en el artículo anterior, seguidamente la agencia procederá a revisar la solicitud y sus documentos adjuntos, constatando su autenticidad con las autoridades emisoras, dentro de los diez días hábiles de haberlos recibido.
+La persona cedente, deberá presentar la solicitud por escrito, bajo formal protesta de decir verdad, en los términos expresados en el artículo anterior, seguidamente, la agencia procederá a revisar la solicitud y sus documentos adjuntos, constatando su autenticidad con las autoridades emisoras, dentro de los diez días hábiles siguientes a haberlos recibido, plazo que podrá ampliarse en caso de que alguna autoridad no se haya pronunciado respecto de la autenticidad de algún documento presentado.
 
-En caso de detectar alguna irregularidad, se prevendrá a la persona titular del documento, derecho o bien a ceder, para que la subsane dentro del plazo de cinco días hábiles contados a partir de la notificación de la prevención. En caso de que no se corrija la irregularidad en el término establecido, la solicitud y sus anexos se tendrán por no interpuestos y serán desechados.
+En caso de detectar alguna irregularidad que sea subsanable, se prevendrá a la persona titular del documento, derecho o bien a ceder, para que la subsane dentro del plazo de cinco días hábiles, contado a partir de la notificación de la prevención. En caso de que no se corrija la irregularidad en el término establecido, la solicitud y sus anexos se tendrán por no interpuestos y serán desechados.
+
+Se entenderá que la irregularidad no es subsanable, cuando existe alteración de documentos o la autoridad emisora no los reconozca como propios. En este caso, se procederá a realizar las denuncias correspondientes.
 
 Si la documentación se encuentra completa, se integrará el expediente respectivo y se les notificará a las partes la fecha, hora y lugar para que comparezcan a ratificar el referido acto. Las partes deberán ir acompañadas de dos testigos, y deberán exhibir el comprobante del pago de derechos correspondientes.
 
@@ -2554,6 +3526,10 @@ Formalidades de la comparecencia de cesión de derechos
 En la comparecencia, se levantará el acta respectiva que servirá para dar constancia de que la persona titular de la agencia ha recibido la notificación, así como de que la persona que ha recibido la concesión o permiso o alguno de sus derechos o bienes, cumplió con los requisitos dispuestos en esta ley y demás normatividad aplicable y, en su caso, autorizar y reconocer dicha cesión por el plazo de vigencia que le reste a la concesión o permiso que es cedida.
 
 Durante la comparecencia, el nuevo titular de la concesión manifestará estar de acuerdo con las modificaciones que resulten al título de concesión que se le fue cedido, mediante la suscripción de las modificaciones y demás anexos que la conformen, incluida la aceptación de las Condiciones Generales de Operación que al efecto determine la persona titular de la agencia.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+En caso de que la nueva persona titular de la concesión con posteridad, en un plazo de cinco días hábiles, contado a partir de que se le cite, no suscriba las modificaciones y demás anexos que la conforman, incluida la aceptación de las condiciones generales de operación, la concesión se considerará vacante y podrá ser asignada a persona diversa mediante el procedimiento establecido en esta ley.
 
 #### Sección segunda. Adhesión al sistema
 
@@ -2573,11 +3549,15 @@ IV. Los demás casos que conforme a las atribuciones de la agencia correspondan.
 
 Para los casos de adhesión al sistema y atendiendo a la eficiencia del servicio de transporte público, previo a la adhesión, las personas concesionarias que se agrupen podrán ceder sus derechos de cada una de sus concesiones a una sola persona, acumulándose todos los derechos y obligaciones de las concesiones que formen parte de la agrupación en un solo y nuevo título de concesión adherido al sistema.
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 153.
 
-Concesión automática del sistema
+Concesión del sistema
 
-Las personas concesionarias que, previo a la implementación del sistema prestaran el servicio de transporte en el sector, área o modalidad designada, podrán acceder a una nueva concesión de manera automática, siempre que cumplan con los requisitos mínimos para el otorgamiento de una concesión, por lo que estarán comprendidos dentro de los casos de excepción a la convocatoria establecida en el artículo 144 de esta ley.
+Las personas concesionarias que, previo a la implementación del sistema prestaran el servicio de transporte en el sector, área o modalidad designada, podrán acceder a una nueva concesión, siempre que acepten las nuevas condiciones de la concesión, los anexos que la conforman y las condiciones generales de operación y cumplan con los requisitos mínimos para su otorgamiento, por lo que estarán comprendidas dentro de los casos de excepción a la convocatoria establecida en el artículo 144 de esta ley.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 154.
 
@@ -2587,21 +3567,15 @@ Además de los requisitos enlistados en el artículo 145 de esta ley, las conces
 
 I. El número de kilómetros que se otorgan por la agencia y que ampara la concesión.
 
-II. El kilómetro mínimo garantizado diario por vehículo.
+II. El precio que la agencia pagará a la persona concesionaria por concepto de pago.
 
-III. El precio que la agencia pagará a la persona concesionaria por cada kilómetro en ruta.
+III. Las variables que se consideraron para calcular el pago por cada concepto de pago.
 
-IV. Las variables que se consideraron para calcular el precio por kilómetro.
+IV. El número máximo de kilómetros en vacío.
 
-V. El número máximo de kilómetros en vacío.
+V. Las deducciones por las cuales se restará por cada concepto de pago.
 
-VI. Las deducciones por las cuales se restará en el pago por kilómetro en ruta.
-
-VII. Las condiciones generales de operación que regirán la prestación del servicio.
-
-Si junto con la concesión se tiene aparejado el compromiso de renovación de flota, esto es, el compromiso de adquirir vehículos nuevos para la prestación del servicio de transporte en la concesión, renovación o anexos, se podrá establecer un mínimo de kilómetros garantizados que, de manera obligatoria, la agencia deberá programar y pagar a favor de la persona concesionaria por cada vehículo que conforme el parque vehicular, incluido la reserva técnica, por lo que, en caso de que dicha persona o la persona operadora no cumpliera con la programación correspondiente, no tendrá derecho al pago señalado.
-
-Se considerará el kilometraje programado contra los kilómetros mínimos garantizados y, en caso de que el kilometraje programado sea menor a los kilómetros mínimos garantizados, la agencia deberá cubrir la diferencia a la persona concesionaria por cada vehículo; de igual manera, si existieran kilómetros en remanentes que hayan sido previamente pagados, la agencia podrá emplearlos conforme a la necesidad del servicio de transporte.
+VI. Las condiciones generales de operación que regirán la prestación del servicio.
 
 ###### Artículo 155.
 
@@ -2609,15 +3583,23 @@ Modificaciones a las concesiones del sistema
 
 La agencia tendrá la facultad exclusiva de modificar las concesiones del sistema, otorgadas para la prestación del servicio de transporte conforme a lo siguiente:
 
-I. Podrá disminuir el número de kilómetros otorgados en una concesión cuando se compruebe por nueve meses seguidos la imposibilidad de la persona concesionaria de cubrir la totalidad de los kilómetros señalados en su concesión.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-II. Los kilómetros disminuidos serán reasignados a otra concesión, ya sea de manera directa o mediante convocatoria, según sea el caso.
+I. Podrá disminuir el número de kilómetros otorgados en una concesión cuando se compruebe por nueve meses seguidos la imposibilidad de la persona concesionaria de cubrir la totalidad de los kilómetros señalados en su concesión o cuando la continuidad y sostenibilidad del servicio de transporte público de personas pasajeras, bajo la premisa del balance presupuestario sostenible, así lo requieran.
 
-III. Podrá modificar cualquier punto, características o especificación de la concesión, renovación o anexos, incluidas las Condiciones Generales de Operación cuando las condiciones del servicio de transporte así lo requieran.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+II. Los kilómetros disminuidos podrán ser reasignados a otra concesión, ya sea de manera directa o mediante convocatoria, según sea el caso.
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+III. Podrá modificar cualquier punto, características o especificación de la concesión, renovación o anexos, incluidas las Condiciones Generales de Operación cuando las condiciones del servicio de transporte o la continuidad y sostenibilidad del servicio de transporte público de personas pasajeras bajo la premisa del balance presupuestario sostenible, así lo requieran.
 
 IV. Podrá aumentar el número de kilómetros otorgados en una concesión cuando se tenga aparejado un proceso de renovación de flota o cuando se aumenten como consecuencia de la disminución de kilómetros en otra concesión.
 
-V. El monto determinado en la concesión para el pago del precio por kilómetro podrá ser modificado en el caso de que se lleve un proceso de renovación de flota o ajustarse conforme a las condiciones y características particulares de cada persona concesionaria, con base en las variables que conforman el precio por kilómetro.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+V. El monto determinado en la concesión como concepto de pago, podrá ser modificado en el caso de que se lleve un proceso de renovación de flota o ajustarse conforme a las condiciones y características particulares de cada persona concesionaria, con base en las variables que conforman dichos conceptos de pago.
 
 VI. Las demás que establezcan esta ley, la concesión y demás disposiciones legales y normativas aplicables.
 
@@ -2629,77 +3611,67 @@ Las personas concesionarias adheridas al sistema, al momento de obtener la conce
 
 Las condiciones generales de operación serán el documento que contendrá las disposiciones específicas para la operación del servicio público concesionado y dependerá de la modalidad, tipo de servicio y a las especificaciones técnicas y operativas aplicables.
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 157.
 
 Contratos de crédito adquiridos por personas concesionarias
 
-Si la persona concesionaria adquiere obligaciones crediticias sobre los vehículos autorizados para prestar el servicio, a favor de un tercero integrante del sistema financiero mexicano o a favor del Gobierno del estado, en virtud de la celebración de un contrato de crédito con garantía prendaria o instrumento equivalente, los vehículos no podrán ser sustituidos si no se cuenta con el consentimiento por escrito de la personal acreedora de que se trate.
+Si la persona concesionaria adquiere obligaciones crediticias sobre los vehículos autorizados para prestar el servicio, a favor del Gobierno del estado, en virtud de la celebración de un contrato de crédito con garantía prendaria o instrumento equivalente, los vehículos no podrán ser sustituidos si no se cuenta con el consentimiento por escrito de la persona acreedora de que se trate.
 
 #### Sección tercera. Pago a personas concesionarias del sistema
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 158.
 
 Forma de pago a personas concesionarias del sistema
 
-A las personas concesionarias del servicio de transporte público de personas pasajeras que formen parte del sistema, se les pagará por concepto de kilómetro en ruta. Para determinar dicha cantidad, la concesión establecerá el precio por kilómetro.
+A las personas concesionarias del servicio de transporte público de personas pasajeras que formen parte del sistema, se les podrá pagar por concepto de pago o mediante cualquier otro esquema que determine la agencia mediante reglas de carácter general.
 
-En la misma concesión y documentos que formen parte de ella, se podrán establecer cantidades diferenciadas para el concepto de precio por kilómetro atendiendo a las características y circunstancias específicas en las que la persona concesionaria prestará el servicio de transporte. Las particularidades para hacer esta diferenciación incluyen, de manera enunciativa y no limitativa, el tipo de vehículo con la cual se brinda el servicio y el tipo de combustible que utilice el vehículo, entre otros elementos variables e invariables.
+La determinación del monto por concepto de pago, así como la cantidad y forma en que se pagará a las personas concesionarias, se estipularán por la agencia en las condiciones generales de operación.
+
+La agencia podrá acordar ajustes en las condiciones generales de operación cuando las circunstancias económicas o financieras lo hagan necesario.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 159.
 
-Precio por kilómetro del sistema
+Conceptos de pago
 
-El precio por kilómetro en ruta es la cantidad determinada en dinero que se calcula a partir de la suma del costo financiero y el costo operativo por kilómetro recorrido. Además, a esta cantidad también se le aplicarán las deducciones correspondientes que se actualicen conforme lo estipulado en la propia concesión, los demás documentos que la integren y normatividad aplicable.
+El monto a pagar a las personas concesionarias se basará en los siguientes conceptos:
 
-El precio por kilómetro es la base para el pago por kilómetro en ruta a favor de la persona concesionaria, considerando el kilometraje programado, el kilometraje mínimo garantizado y las deducciones que se actualicen, de acuerdo con el procedimiento y fórmula indicado en las Condiciones Generales de Operación, los lineamientos que a efecto se emitan, así como las normas jurídicas, administrativas, técnicas y demás disposiciones legales y normativas aplicables.
+I. El costo fijo, por unidad vehicular.
 
-La cantidad del precio por kilómetro se incrementará en términos de lo dispuesto en los artículos 162 o 163 de esta ley, según corresponda, o en su caso, podrá ajustarse cuando el costo operativo y costo financiero sea variable, conforme a las condiciones y características particulares de cada persona concesionaria, entre otros elementos variables e invariables establecidas en la concesión.
+II. El costo variable, por kilómetro recorrido.
+
+III. El costo financiero, por la recuperación de la inversión.
+
+El monto a pagar a favor de la persona concesionaria considerará el kilometraje programado y las deducciones que se actualicen, de acuerdo con el procedimiento y fórmula indicados en las Condiciones Generales de Operación aprobadas por la agencia mediante los lineamientos que al efecto se emitan, así como las normas jurídicas, administrativas, técnicas y demás disposiciones legales y normativas aplicables.
 
 ###### Artículo 160.
 
-Fórmula para determinar el precio por kilómetro
-
-El precio por kilómetro se determinará conforme a la siguiente fórmula:
-
-> <small>[N. DE E. VÉASE LA FÓRMULA EN EL D.O. DE 28 DE DICIEMBRE DE 2023, PÁGINA 104.]</small>
+(DEROGADO, D.O. 25 DE MAYO DE 2026)
 
 ###### Artículo 161.
 
-Fórmula para determinar el pago por kilómetro total
-
-De conformidad con el artículo 158 de esta ley, la forma de pago por la prestación del servicio de transporte concesionado será por kilómetro recorrido. La fórmula para determinar el pago por kilómetro en ruta es la siguiente:
-
-> <small>[N. DE E. VÉASE LA FÓRMULA EN EL D.O. DE 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 104 A LA 105.]</small>
+(DEROGADO, D.O. 25 DE MAYO DE 2026)
 
 ###### Artículo 162.
 
-Actualización del precio por kilómetro de vehículos diésel
-
-El pago por kilómetro de vehículos diésel podrá actualizarse cada año en el mes de abril, siempre que durante dicho año no se lleve a cabo una revisión extraordinaria y como consecuencia se realice la actualización correspondiente.
-
-La revisión extraordinaria podrá realizarse en fecha distinta, por incremento al diésel mayor al 10%, cuando existan condiciones que pongan en peligro la generalidad, la eficiencia, la regularidad o la seguridad del servicio.
-
-Las actualizaciones del pago por kilómetro se realizarán conforme a los incrementos que se señalan a continuación:
-
-> <small>[N. DE E. VÉASE LA FÓRMULA EN EL D.O. DE 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 105 A LA 106.]</small>
+(DEROGADO, D.O. 25 DE MAYO DE 2026)
 
 ###### Artículo 163.
 
-Actualización del precio por kilómetro de vehículos eléctricos
-
-El pago por kilómetro de vehículos eléctricos podrá actualizarse cada año en el mes de abril, siempre que durante dicho año no se lleve a cabo una revisión extraordinaria y como consecuencia se realice la actualización correspondiente.
-
-La revisión extraordinaria podrá realizarse en fecha distinta, por incremento a las tarifas eléctricas aplicables, precios del combustible alternativo mayor al 10%, existan condiciones que pongan en peligro la generalidad, la eficiencia, la regularidad o la seguridad del servicio.
-
-Las actualizaciones del pago por kilómetro se realizarán conforme a los incrementos que se señalan a continuación:
-
-> <small>[N. DE E. VÉASE LA FÓRMULA EN EL D.O. DE 28 DE DICIEMBRE DE 2023, PÁGINAS DE LA 106 A LA 107.]</small>
+(DEROGADO, D.O. 25 DE MAYO DE 2026)
 
 ###### Artículo 164.
 
 Deducciones del sistema
 
-Además de las sanciones aplicables en el Capítulo II del Título VI de esta ley, en caso de no cumplir con las obligaciones contenidas en la concesión adherida al sistema y las disposiciones normativas aplicables, la agencia podrá deducir el monto aplicado en el pago por kilómetro.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
+
+Además de las sanciones aplicables en el Capítulo II del Título VI de esta ley, en caso de no cumplir con las obligaciones contenidas en la concesión adherida al sistema y las disposiciones normativas aplicables, la agencia podrá deducir el monto aplicado de los conceptos de pago.
 
 La agencia, determinará los conceptos mediante los cuales se generarán las deducciones, que podrán ser los siguientes:
 
@@ -2711,13 +3683,19 @@ III. Incumplimientos a los indicadores de calidad en el servicio.
 
 IV. Incumplimiento a las obligaciones para la prestación del servicio.
 
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+V. Incumplimiento a las solicitudes administrativas de información, cuando el concesionario no proporcione, retrase o entregue de forma incompleta o inexacta la información requerida por la agencia, en los plazos y términos establecidos.
+
 ###### Artículo 165.
 
 Aplicación de las deducciones del sistema
 
 La deducción por motivo de los incumplimientos o faltas de la persona concesionaria, establecida en la concesión del sistema se realizará conforme a lo siguiente:
 
-I. Ajustando el monto del pago por kilómetro, según el costo asociado al incumplimiento del servicio concesionado.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+I. Ajustando el monto por concepto de pago, según el costo asociado al incumplimiento del servicio concesionado.
 
 II. Contabilizando los incumplimientos o faltas por vehículo conforme a la gravedad de las faltas y a las deducciones correspondientes.
 
@@ -2725,17 +3703,21 @@ Se establecerán criterios y costos unitarios aplicables por cada concepto de in
 
 Además, con el fin de dar continuidad en el servicio de transporte, la agencia estará facultada para modificar el número de kilómetros asignados a una persona concesionaria, y otorgarlos a otra concesión.
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 166.
 
-Aclaración de pago por kilómetro
+Aclaración de conceptos de pago
 
-En caso de existir una diferencia o desacuerdo respecto al pago por kilómetro efectuado, las personas concesionarias podrán presentar una solicitud de aclaración en un plazo no mayor a cinco días hábiles contados a partir de la fecha en que se recibió dicho pago. El procedimiento tiene por objeto el esclarecimiento sobre los kilómetros en ruta o las posibles irregularidades por las cuales existieron deducciones en su pago.
+En caso de existir una diferencia o desacuerdo respecto a los conceptos de pago, las personas concesionarias podrán presentar una solicitud de aclaración en un plazo no mayor a cinco días hábiles, contado a partir de la fecha en que se recibió dicho pago. El procedimiento tiene por objeto el esclarecimiento sobre los conceptos de pago o las posibles irregularidades por las cuales existieron deducciones en su pago.
 
 Las personas concesionarias podrán presentar las pruebas y los medios de convicción que estimen pertinentes para argumentar sus intereses.
 
-La agencia a través de un órgano colegiado conformado por las unidades administrativas involucradas en el sistema, realizarán el procedimiento con la persona concesionaria tomando en cuenta el kilometraje programado contra el kilómetro en ruta y demás información que se obtenga del Centro de Control y Monitoreo.
+La agencia a través de un órgano colegiado conformado por las unidades administrativas involucradas en el sistema, realizarán el procedimiento con la persona concesionaria tomando en cuenta los conceptos de pago y demás información que se obtenga del Centro de Control y Monitoreo.
 
-En caso de que la persona concesionaria comprobara de manera fehaciente algún error en los kilómetros en ruta o la no aplicabilidad de una deducción, se modificará a su favor el monto en la asignación al mes siguiente correspondiente. En caso de no comprobar la persona concesionaria el error, prevalecerá el resultado del cálculo de pago que dio origen a este artículo.
+En caso de que la persona concesionaria comprobara de manera fehaciente algún error en los conceptos de pago o la no aplicabilidad de una deducción, se modificará a su favor el monto en la asignación al mes siguiente correspondiente. En caso de no comprobar la persona concesionaria el error, prevalecerá el resultado del cálculo de pago que dio origen a esta aclaración.
+
+En caso de existir pagos excedentes por los conceptos de pago, aquellos deberán ajustarse en los pagos futuros que deban realizarse dentro del mismo ejercicio fiscal.
 
 ### Capítulo IV (SIC). Permisos
 
@@ -2785,15 +3767,21 @@ VI. En el caso de los vehículos foráneos, exhibir el documento original de la 
 
 VII. Los demás que se establezcan en las disposiciones legales que emita la agencia.
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 170.
 
 Procedimiento para la obtención de los permisos
 
-Las personas interesadas en obtener los permisos para el servicio de transporte de personas pasajeras deberán realizar la solicitud correspondiente. Cumplidos los requisitos enlistados, la agencia, en un plazo que no podrá exceder de cinco días hábiles, procederá al estudio de la solicitud presentada.
+Las personas interesadas en obtener los permisos para el servicio de transporte de personas pasajeras deberán realizar la solicitud correspondiente, bajo formal protesta de decir verdad.
+
+La agencia procederá a revisar la solicitud y sus documentos adjuntos, constatando su autenticidad con las autoridades emisoras, dentro de los diez días hábiles de haberlos recibido, plazo que podrá ampliarse en caso de que alguna autoridad no se haya pronunciado respecto de la autenticidad de algún documento.
 
 En caso de que las personas interesadas no cumplan con algún requisito, se les comunicará dicha falta para que en un término de tres días hábiles lo satisfagan; en caso contrario, se desechará la solicitud y se tendrá por no presentada.
 
-Cumplidos los requisitos, la agencia expedirá el permiso correspondiente en un plazo de hasta cinco días hábiles, el cual deberá ser notificado a las personas interesadas en el domicilio o correo electrónico que señalaron en su solicitud. El permiso comenzará su vigencia a partir del día siguiente al de la notificación.
+Cuando la agencia sospeche que existe alteración de documentos o la autoridad emisora no los reconozca como propios, se procederá a realizar las denuncias correspondientes.
+
+Cumplidos los requisitos, la agencia expedirá el permiso correspondiente en un plazo de hasta cinco días hábiles, el cual deberá ser notificado a las personas interesadas, en el domicilio o correo electrónico que señalaron en su solicitud. La vigencia del permiso comenzará a partir del día siguiente al de la notificación.
 
 En el caso de los permisos provisionales para transporte público de personas pasajeras, además de lo establecido en el procedimiento anterior, se expedirán considerando lo establecido en el artículo 60 de esta ley.
 
@@ -2959,11 +3947,27 @@ VI. Presentar el certificado vehicular por el cual sujetará el servicio.
 
 VII. Acreditar el pago de los derechos correspondientes.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 25 DE MAYO DE 2026)</small>
+
+### Capítulo VI Bis. Intervención
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 179 Bis.
+
+Intervención
+
+En cualquier momento, la agencia podrá intervenir el servicio público de transporte, en el ámbito de su competencia, cuando se interrumpa o afecte su prestación eficiente y continua.
+
+Para efectos del párrafo anterior, se emitirá de manera fundada y motivada el acuerdo correspondiente, señalando con precisión la parte del servicio público de transporte que se afecta; el tiempo que habrá de durar o si es indefinido; la forma en que la agencia participará en el servicio y, en su caso, las mejoras o beneficios que se pretenden alcanzar.
+
+Cuando la afectación del servicio se motive en alguna causa imputable al titular de la concesión, permiso, o constancia, el costo que se origine con motivo de la intervención será a cuenta de los ingresos que le correspondan por la explotación del servicio.
+
+El acuerdo de intervención deberá ser notificado por escrito al afectado en el domicilio señalado en la concesión, permiso, o constancia y publicado en el Diario Oficial del Gobierno del Estado de Yucatán.
+
 ### Capítulo VII. Terminación de las autorizaciones de transporte
 
-### Capítulo VIII
-
-Padrón de concesiones, permisos, constancias, certificados vehiculares y certificados de personas operadoras de transporte del estado y del Registro de Vehículos de Transporte del Estado de Yucatán
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 180.
 
@@ -2973,15 +3977,21 @@ Las concesiones, permisos, constancias o certificados se extinguen por:
 
 I. Expiración del plazo por el que se otorgó.
 
-II. Revocación.
+II. Revocación o cancelación.
 
 III. Renuncia o muerte de la persona titular, siempre que no se hubiere realizado el trámite de designación de persona beneficiaria.
 
-IV. Desaparición del objeto de la autorización de transporte.
+IV. Desaparición de la finalidad o del objeto de la autorización de transporte.
 
-V. Declaración de nulidad.
+V. Declaración de nulidad, o caducidad.
 
-VI. Caducidad.
+VI. Disolución, insolvencia, encontrarse en concurso mercantil o modificación de la persona moral que sea titular de la concesión, en cuanto a su objeto, integración y denominación.
+
+VII. Declaración de rescate de la concesión por razones de interés público o utilidad pública.
+
+VIII. Por incumplimiento de obligaciones fiscales.
+
+IX. Cualquiera otra prevista en las leyes, reglamentos, disposiciones administrativas o en la concesión que, a juicio de la agencia, según corresponda, haga imposible o inconveniente su continuación.
 
 Una vez que se materialice alguno de los supuestos anteriores por el que se extinga la concesión, la agencia estará facultada para realizar los trámites necesarios para continuar con la prestación del servicio en los términos de esta ley.
 
@@ -2995,7 +4005,9 @@ I. No iniciar la prestación del servicio dentro del plazo señalado en la autor
 
 II. Ceder, enajenar, transferir, afectar o gravar los permisos, constancias y certificados o alguno de los derechos en ella establecidos, o los bienes afectos al servicio de que se trate.
 
-III. Ceder, enajenar, transferir, afectar o gravar la concesión correspondiente o alguno de los derechos en ella establecidos, o los bienes afectos al servicio de que se trate, sin la previa notificación y autorización de la agencia.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+III. Enajenar, afectar o gravar la concesión correspondiente o alguno de los derechos en ella establecidos afectos al servicio de que se trate.
 
 IV. No acatar las disposiciones legales y la normativa que emita la agencia relativas a las autorizaciones del servicio de transporte correspondientes, así como sus modificaciones.
 
@@ -3013,27 +4025,129 @@ X. Cometer infracciones graves en más de dos ocasiones, de conformidad con las 
 
 XI. No cubrir las aportaciones previstas en el artículo 110, fracción VI, de esta ley en un plazo de 40 días hábiles.
 
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XII. Ceder la concesión correspondiente o alguno de los derechos en ella establecidos, o los bienes afectos al servicio de que se trate, sin la previa notificación y autorización de la agencia.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XIII. No proporcionar la información a la agencia que le sea requerida o esté obligada a proporcionar periódicamente, proporcione información falsa, retrase deliberadamente y sin justificación la entrega de la información o documentación, a pesar de haberla apercibido al respecto.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XIV. En el caso de las concesiones, tratándose de una persona moral, no informar a la agencia sobre cambios en su sociedad accionaria, con cinco días de anticipación a que sesione su órgano de gobierno.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XV. No cumplir la persona concesionaria con los objetivos de productividad.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XVI. No cumplir la persona concesionaria con los estándares de calidad requeridos.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XVII. No respetar la persona concesionaria la tarifa establecida por la agencia.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XVIII. No respetar la persona concesionaria los trayectos de rutas establecidos por la agencia.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XIX Suspender la persona concesionaria el servicio sin causa justificada previamente autorizada por la agencia.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XX. Brindar la persona concesionaria el servicio de forma diferente a la que se haya establecido por la agencia.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Además de la revocación a la que hace referencia este artículo, la agencia podrá inhabilitar, por un periodo de entre cinco y veinticinco años, a la persona sancionada según la gravedad de la infracción cometida.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 181 Bis.
+
+Causas de rescate de las concesiones
+
+Son causas de rescate de las concesiones:
+
+I. La suspensión injustificada de la prestación del servicio de transporte por causas imputables al titular de la concesión.
+
+II. El incumplimiento de pago de los seguros, el salario de las personas operadoras de las unidades para la prestación del servicio que ponga en riesgo o afecte la continuidad del servicio.
+
+III. La insolvencia, quiebra o concurso mercantil de la persona moral titular de la concesión.
+
+IV. Las causas de utilidad pública o interés general.
+
+V. La determinación de la agencia de no ser financieramente viable.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 181 Ter.
+
+Indemnización
+
+La agencia podrá rescatar las concesiones al actualizarse cualquiera de las causas establecidas en el artículo anterior.
+
+La declaratoria de rescate tendrá los efectos previstos en el artículo 185 Quater de esta ley.
+
+Podrá decretarse que la persona concesionaria retire y disponga de los bienes, equipo e instalaciones de su propiedad afectos a la concesión, cuando no fueren útiles a la agencia, según corresponda y puedan ser aprovechados por la persona concesionaria; pero, en este caso, su valor no se incluirá en el monto de la indemnización.
+
+En la declaratoria de rescate se establecerán las bases generales que servirán para fijar el monto de la indemnización que habrá de cubrirse a la persona concesionaria, en los términos fijados en las disposiciones que al efecto emita la agencia.
+
+La declaratoria de rescate deberá ser publicada en el Diario Oficial del Gobierno del Estado de Yucatán, para efectos de su conocimiento y notificación.
+
+Si la persona afectada estuviese conforme con el monto de la indemnización, que en su caso proceda, la cantidad que se señale por este concepto tendrá carácter definitivo.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 181 Quater.
+
+Causal imputable a la persona titular de una concesión, permiso, constancia o certificado
+
+Si la persona titular de una autorización del servicio de transporte, por su causa o negligencia no solicita en tiempo y forma su renovación al concluir su vigencia, de conformidad con lo previsto en el reglamento de esta ley, no podrá continuar prestando el servicio autorizado.
+
+Si la solicitud antes mencionada se presentare en tiempo y forma, se deberá continuar prestando el servicio, hasta en tanto se emita la resolución correspondiente por parte de la persona titular de la agencia.
+
+Lo anterior, no otorga a la persona titular de la autorización del servicio de transporte derecho alguno, ni prejuzga a su favor el resultado de la solicitud relacionada con la renovación a que se hace referencia en este artículo.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 182.
 
-Procedimiento para la revocación
+Procedimiento para la intervención, revocación o rescate
 
-La revocación de la autorización del servicio de transporte que corresponda, será declarada administrativamente por la agencia conforme el siguiente procedimiento:
+La intervención, revocación o rescate de la autorización del servicio de transporte que corresponda, será declarada administrativamente por la agencia conforme al siguiente procedimiento:
 
-I. La agencia notificará por escrito a la persona titular de la autorización de los servicios de transporte las causales de la revocación que a su juicio se hayan actualizado, acompañándola de copias simples de las actas, documentos e informes de las inspecciones realizadas y fijará un plazo de diez días hábiles, contado a partir de la notificación, para que la persona interesada presente pruebas y manifieste lo que a su derecho convenga.
+I. La agencia notificará por escrito a la persona titular de la autorización de los servicios de transporte las causas de la intervención, revocación o rescate que a su juicio se hayan actualizado, acompañándola de copias simples de las actas, documentos e informes de las inspecciones realizadas y fijará un plazo de diez días hábiles, contado a partir de la notificación, para que la persona interesada presente pruebas y manifieste lo que a su derecho convenga.
 
-II. Transcurrido dicho plazo, la agencia notificará a la persona titular de la autorización de servicios de transporte interesada o su representante, señalando fecha y hora dentro de los diez días hábiles siguientes a la recepción de la notificación para el desahogo de las pruebas que así lo ameriten.
+Los informes de las inspecciones podrán omitirse cuando no sean aplicables, tratándose de intervención o rescate de concesiones.
 
-III. Concluido el periodo probatorio, la agencia notificará a la persona titular de la autorización de servicios de transporte o a su representante que cuenta con un plazo de tres días hábiles para formular alegatos, contado a partir de la recepción de la notificación.
+II. Transcurrido dicho plazo, la agencia notificará a la persona titular de la autorización de servicios de transporte interesada o su representante legal, señalando fecha y hora dentro de los diez días hábiles siguientes a la recepción de la notificación, para el desahogo de las pruebas que así lo ameriten.
 
-IV. Una vez concluido el plazo previsto en la fracción anterior, la agencia contará con un plazo de quince días hábiles para dictar resolución fundada y motivada y, en su caso, ordenará la revocación de la autorización del servicio de transporte respectiva. La resolución deberá notificarse personalmente a la persona titular o a su representante legal dentro de un plazo de tres días hábiles, contado a partir de su emisión.
+III. Concluido el periodo probatorio, la agencia notificará a la persona titular de la autorización de servicios de transporte o a su representante legal que cuenta con un plazo de tres días hábiles para formular alegatos, contado a partir de la recepción de la notificación.
 
-V. Declarada la revocación de la autorización de transporte que corresponda, realizará los trámites administrativos correspondientes para extinguir la autorización de transporte y actualizar los registros aplicables.
+IV. Una vez concluido el plazo previsto en la fracción anterior, la agencia contará con un plazo de quince días hábiles para dictar resolución fundada y motivada y, en su caso, ordenará la intervención, revocación o rescate de la autorización del servicio de transporte respectiva. La resolución deberá notificarse personalmente a la persona titular o a su representante legal dentro de un plazo de tres días hábiles, contado a partir de su emisión.
+
+V. Declarada la intervención, revocación o rescate de la autorización de transporte que corresponda, la agencia realizará los trámites administrativos correspondientes para extinguir la autorización de transporte y actualizar los registros aplicables.
 
 ###### Artículo 183.
 
 Inhabilitación para obtener autorizaciones del servicio de transporte por revocación
 
 Las personas que hubiesen sido sancionadas con la revocación de una autorización del servicio de transporte no podrán solicitar de nuevo una autorización en esa modalidad, hasta transcurridos tres años a partir de la fecha en que la revocación hubiese quedado firme.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 183 Bis.
+
+Vigencia de la revocación, intervención o rescate
+
+Las personas a quienes se les hubiese rescatado, intervenido o revocado una concesión, permiso, constancia o certificado para prestar el servicio de transporte no podrán solicitar de nuevo concesión, permiso, constancia o certificado para prestar el servicio de transporte, hasta transcurridos tres años a partir de la fecha en que el rescate, intervención o revocación hubiese quedado firme.
+
+En el caso de las personas morales a quienes se les hubiese rescatado, intervenido o revocado una concesión, el párrafo anterior será aplicable a sus socios, accionistas o asociados, los cuales no podrán solicitar de nuevo concesión, permiso, constancia o certificado, ni por cuenta propia ni como parte de una persona moral.
 
 ###### Artículo 184.
 
@@ -3043,13 +4157,47 @@ Cuando se hubiere otorgado una concesión, permiso, constancia o certificado con
 
 La nulidad se hará de conocimiento a la persona titular de la autorización del servicio de transporte para que, en un término de quince días a partir de la notificación, manifieste lo que a su derecho convenga. Cuando de su manifestación o pruebas no se subsane el error que originó el procedimiento, la agencia procederá a declarar la nulidad del título respectivo.
 
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Cuando la nulidad se funde en error, y no en la violación de la Ley o en la falta de los requisitos para el otorgamiento de las autorizaciones del servicio de transporte, estas podrán ser confirmadas por la agencia tan pronto como cese tal circunstancia. La agencia queda facultada para limitar los efectos de la resolución, cuando, a su juicio, la persona titular de la autorización del servicio de transporte haya procedido de buena fe.
+
 ###### Artículo 185.
 
 Caducidad
 
 Procede la caducidad cuando la persona concesionaria, permisionaria, titular de la constancia o certificado deje de prestar el servicio injustificadamente más de treinta días hábiles consecutivos y sin haber realizado la notificación a la agencia en los términos de la fracción XXII del artículo 76 de esta ley. La caducidad seguirá el mismo procedimiento aplicable para la nulidad.
 
-### Capítulo único. Inspección y verificación
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 185 Bis.
+
+Terminación de la concesión por renuncia
+
+Para que la concesión pueda extinguirse por medio de la renuncia de la persona concesionaria, esta deberá cubrir al Estado los daños y perjuicios que, en su caso, se ocasionen por la interrupción del servicio público concesionado. Dichos daños y perjuicios serán cubiertos mediante la garantía solicitada al momento de otorgarse la concesión.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 185 Ter.
+
+Reasignación de concesiones y permisos
+
+Para los casos de terminación de la vigencia, renuncia, rescate, revocación o cancelación de concesiones y permisos, la autoridad competente podrá realizar su reordenamiento y la reasignación según corresponda, previo análisis u opinión técnica que así lo determine; debiendo verificar que las personas físicas o morales a las que se les asignen estas concesiones o permisos, cumplan con los requisitos establecidos en esta Ley, las normas que emita la agencia y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 185 Quater.
+
+Efectos
+
+En el caso de que la autoridad declare la nulidad, revocación, cancelación, caducidad o rescate de una autorización del servicio de transporte, por causa imputable a la persona titular de esta, el servicio objeto de la concesión pasará, de pleno derecho, al control de la agencia.
+
+En caso de que el objeto de la concesión haya sido un bien, este así como la infraestructura especializada asociada a él, sus mejoras y accesiones se revertirán, de pleno derecho, al control y administración de la agencia, sin pago de indemnización alguna a la persona concesionaria.
+
+En ambos casos la agencia podrá aplicar lo previsto en el artículo anterior.
+
+### Capítulo VIII
+
+Padrón de concesiones, permisos, constancias, certificados vehiculares y certificados de personas operadoras de transporte del estado y del Registro de Vehículos de Transporte del Estado de Yucatán
 
 #### Sección primera. Padrón de concesiones, permisos, constancias, certificados vehiculares y certificados de personas operadoras
 
@@ -3105,7 +4253,15 @@ V. Las autorizaciones del servicio de transporte.
 
 VI. Información respecto a las pólizas de seguro de cada vehículo.
 
-VII. La demás información contenida en la normativa aplicable.
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VII. La ficha técnica de la unidad, que detalle sus características físicas, mecánicas, tecnológicas, de seguridad, accesibilidad y funcionalidad, conforme a las especificaciones que determine la agencia.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VIII. Los datos del equipo tecnológico instalado en la unidad.
+
+IX. La demás información contenida en la normativa aplicable.
 
 ###### Artículo 190.
 
@@ -3149,9 +4305,13 @@ Transparencia
 
 Los registros de transporte en materia de concesiones, permisos, constancias, certificados vehiculares y certificados de personas operadoras de transporte del Estado, así como del registro de vehículos de transporte a los que hace referencia el presente capitulo, deberán ser actualizados de forma permanente y publicados anualmente de forma accesible para consulta pública de la ciudadanía en medios electrónicos oficiales de la Agencia, así como en el Diario Oficial del Gobierno del Estado de Yucatán en el mes de diciembre, contemplando como mínimo información desagregada en relación a la vigencia, renovación, otorgamiento, y terminación en su caso, respetando la normatividad en materia de protección de datos personales en posesión de sujetos obligados.
 
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Las publicaciones anuales a que se refiere este artículo podrán realizarse a través de la publicación de extractos en el Diario Oficial del Gobierno del Estado de Yucatán.
+
 ## Título quinto. Inspección y verificación
 
-### Capítulo I. Visitas
+### Capítulo único. Inspección y verificación
 
 ###### Artículo 195.
 
@@ -3159,7 +4319,9 @@ Inspección y verificación
 
 A fin de comprobar que las personas prestadoras de los servicios de transporte en cualquiera de sus modalidades, proporcionan el servicio en los términos y condiciones señaladas en las autorizaciones del servicio de transporte otorgadas, así como el cumplimiento de las disposiciones jurídicas y administrativas aplicables en materia de transporte; la agencia con auxilio de la Secretaría de Seguridad Pública, podrá realizar visitas de inspección y verificación, las cuales, versarán sobre los requisitos, calidad del servicio y condiciones de los bienes muebles e inmuebles afectos al servicio público de transporte o conexos, en términos de lo previsto en esta ley, la autorización del servicio de transporte respectiva y las disposiciones normativas que emita la agencia.
 
-Asimismo, la agencia estará facultada para realizar verificaciones cuando se acumulen más de dos quejas sobre el servicio de transporte, en términos del artículo 50, fracción III, de esta ley.
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Asimismo, la agencia estará facultada para realizar verificaciones cuando se acumulen más de dos quejas sobre el servicio de transporte, en términos del artículo 50, fracción II, de esta ley.
 
 ###### Artículo 196.
 
@@ -3174,6 +4336,10 @@ II. Haber acreditado los cursos que determine la agencia para fungir como person
 III. Haber concluido cuando menos la educación secundaria o equivalente.
 
 IV. No ser deudor alimentario moroso.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+V. No ser titular de una autorización del servicio de transporte.
 
 ###### Artículo 197.
 
@@ -3197,17 +4363,43 @@ VII. Imponer medidas de seguridad, de manera fundada y motivada.
 
 VIII. Realizar informes y exhortos a las personas concesionarias, permisionarias, titulares de constancias y personas operadoras del servicio de transporte.
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 198.
 
 Medidas de seguridad
 
-La agencia, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de seguridad idóneas cuando estime que el servicio de transporte de personas pasajeras se encuentra en riesgo o podría poner en riesgo la seguridad de las personas usuarias o la sociedad en general. Entre las medidas de seguridad, se encuentran las siguientes:
+La agencia, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de seguridad idóneas cuando estime que el servicio de transporte de personas pasajeras se encuentra en riesgo o podría poner en riesgo la seguridad de las personas usuarias o la sociedad en general o el interés público en contravención de esta Ley y su Reglamento. Entre las medidas de seguridad, se encuentran las siguientes:
 
 I. La suspensión total o parcial del servicio.
 
 II. La prohibición de utilizar los inmuebles, muebles y demás elementos destinados a la prestación del servicio de transporte.
 
+III. El retiro de los vehículos de la circulación para dejarlos en depósito en las instalaciones de las personas concesionarias o en aquellas áreas que determine la agencia para garantizar que no se cometan infracciones de carácter continuado.
+
+IV. La suspensión de la concesión o permiso de transporte público o privado, o del tarjetón único de persona operadora o del certificado de persona operadora titular o adhesiva, que puede ser temporal o definitiva, parcial o total, y se aplicará por el tiempo necesario para corregir las irregularidades que la hubieren motivado, ejecutándose las acciones necesarias que permitan asegurar tal medida.
+
+V. El aseguramiento de vehículos, instalaciones o anuncios publicitarios, el cual tendrá lugar cuando estos se destinen a actividades ilegales o cualquier otra que impida la prestación del servicio público de transporte o provoquen distracción de las personas operadoras o inseguridad en la operación. La agencia podrá retirarlos y situarlos en depósito, para que la persona interesada en un plazo no mayor de treinta días contados a partir de la fecha en que se determinó la medida de seguridad, subsane el motivo que le dio origen o en su caso se determine su destino.
+
+VI. El retiro de los vehículos de la circulación para dejarlos en depósito en las instalaciones de las personas concesionarias o en aquellas áreas que determine la autoridad, el cual tendrá lugar cuando el vehículo circule con placas alteradas, dañadas o dobladas, cuando se encuentren ocultas total o parcialmente por cualquier medio incluyendo aditamentos de cualquier material, micas, etiquetas o calcomanías que obstruyan o distorsionen su vista total o parcialmente.
+
+Los derechos de los trabajadores de la persona titular de una autorización del servicio de transporte se respetarán conforme a la Ley de la materia.
+
 Una vez que la persona titular de una autorización del servicio de transporte demuestre que el riesgo fue controlado o eliminado, la agencia podrá levantar la medida de seguridad establecida, sin perjuicio de los demás procesos o procedimientos que se deban seguir como consecuencia del hecho que dio lugar a la imposición de la medida de seguridad.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 198 Bis.
+
+Para la terminación anticipada de las concesiones, se seguirá el procedimiento administrativo que señale el reglamento que, al efecto, emita la agencia.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 198 Ter.
+
+Siempre que la autoridad ejecute cualquiera de las medidas de seguridad establecidas en el presente Capítulo, se hará constar en actas circunstanciadas en los tantos que determine la agencia, en las que se señalen los motivos que dan origen a la realización de la medida de seguridad y se indique su fundamento, expresando con claridad y precisión el acto administrativo de que se trate. En cada caso la autoridad entregará copia del acta correspondiente a la persona interesada.
+
+Las medidas de seguridad a que hace referencia el presente Capítulo, deberán inscribirse en el expediente individual y en el Padrón de concesiones, permisos, constancias, certificados vehiculares y certificados de personas operadoras de transporte del estado que contempla la presente Ley.
 
 ###### Artículo 199.
 
@@ -3223,23 +4415,31 @@ III. Conducirse con estricto respeto hacia las personas.
 
 IV. Registrar los datos estadísticos relativos al número de infracciones de transporte, sus causas, los vehículos y las personas operadoras implicadas en estas, las sanciones que, en su caso, se aplicaron, y otros datos que estime conveniente, para que las áreas competentes puedan llevar a cabo acciones para prevenir infracciones de transporte, integrar los registros correspondientes y emitir las constancias que se requieran.
 
-V. Las demás que les confiera esta ley y demás disposiciones aplicables que emita la agencia.
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+V. Cumplir con el protocolo de actuación, el Código de Ética y el Código de conducta que emita la agencia.
+
+VI. Las demás que les confiera esta ley y demás disposiciones aplicables que emita la agencia.
 
 ## Título sexto. Infracciones y sanciones
 
-### Capítulo II. Sanciones
+### Capítulo I. Visitas
 
 #### Sección primera. Disposiciones generales
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 200.
 
 Visitas de inspección y verificación
 
-Las visitas de inspección y verificación serán ordenadas por la agencia y se realizarán periódicamente a las personas titulares de las autorizaciones del servicio de transporte y a las personas operadoras para verificar que los vehículos, centrales, terminales, sitios, patios de encierro y demás infraestructura afecta al servicio de transporte, están en condiciones adecuadas de funcionamiento para la prestación del servicio.
+Las visitas de inspección y verificación serán ordenadas por la agencia y se realizarán periódicamente a las personas titulares de las autorizaciones del servicio de transporte y a las personas operadoras para verificar que:
 
-Se podrán verificar bienes, documentos y vehículos, con el objeto de comprobar el cumplimiento de las normas aplicables a la operación del servicio de transporte de que se trate y de las demás exigencias estipuladas en la normativa aplicable.
+I. Los vehículos, centrales, terminales, sitios, patios de encierro y demás infraestructura afecta al servicio de transporte, están en condiciones adecuadas de funcionamiento para la prestación del servicio.
 
-Las visitas de inspección y verificación deberán ajustarse a las disposiciones establecidas en esta ley, y la persona inspectora deberá levantar un acta circunstanciada de cada una, de la cual se dejará copia a la persona con quien se haya entendido la diligencia.
+II. Estén dando cumplimiento a esta ley, a las autorizaciones del servicio de transporte respectivas y sus anexos y a las condiciones generales de operación, así como a las disposiciones que emita la agencia.
+
+III. Se mantienen las condiciones y requisitos bajo los cuales se otorgó la autorización del servicio de transporte respectiva.
 
 ###### Artículo 201.
 
@@ -3249,9 +4449,7 @@ Las visitas de inspección y verificación podrán ser ordinarias o extraordinar
 
 ###### Artículo 202.
 
-Supletoriedad
-
-La Ley de Actos y Procedimientos Administrativos del Estado de Yucatán será supletoria respecto a los procedimientos de visitas de inspección y verificación a que se refiere esta ley.
+(DEROGADO, D.O. 25 DE MAYO DE 2026)
 
 #### Sección segunda. Inspecciones ordinarias
 
@@ -3295,7 +4493,117 @@ Por último, se le hará de conocimiento a la persona presunta infractora que po
 
 La agencia, dentro de un plazo de quince días hábiles, contado a partir de que concluya el plazo previsto en el párrafo anterior, calificará e impondrá la sanción correspondiente, la cual notificará a la persona responsable en un plazo de diez días hábiles, contado a partir de la calificación de esta.
 
-### Capítulo I. Recurso de Revisión
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 25 DE MAYO DE 2026)</small>
+
+#### Sección cuarta. Visitas de verificación
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 205 Bis.
+
+Visitas de verificación
+
+La agencia, a través del personal designado para tal efecto, podrá realizar visitas de verificación con el objeto de constatar que las personas titulares de las autorizaciones del servicio de transporte y las personas operadoras conservan la capacidad técnica, administrativa y financiera por las cuales les fue otorgada la autorización del servicio de transporte respectiva, que están dando cumplimiento a esta ley, a las autorizaciones de transporte respectivas y sus anexos, a las condiciones generales de operación y a las disposiciones que emita la agencia.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 205 Ter.
+
+Orden de visita
+
+Para dar inicio a la visita la persona visitadora deberá exhibir documento vigente con fotografía que contenga su nombre, cargo, área de adscripción y que lo acredite para desempeñar tal función, así como la orden de visita, que deberá entregarse en original a quien atienda la visita, la cual contendrá, al menos, la siguiente información:
+
+I. Nombre, denominación o razón social de la persona visitada.
+
+II. Nombre y cargo de la persona servidora pública de la agencia que ordenó la visita.
+
+III. Fundamento jurídico.
+
+IV. Lugar y plazo de la visita.
+
+V. Objeto de la visita.
+
+VI. Nombre del personal comisionado, incluyendo en su caso, a los prestadores de servicios profesionales.
+
+VII. Solicitud de designación de representante.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 205 Quater.
+
+Acta de la visita
+
+De toda visita de inspección o de verificación se levantará acta debidamente circunstanciada en presencia de dos testigos propuestos por la persona con quien se entienda la diligencia o por quien la practique, si aquella se hubiere negado a proponerlos y deberá contener, al menos, lo siguiente:
+
+I. Lugar, fecha y hora de su inicio y de su conclusión.
+
+II. Nombre, cargo e identificación del personal que llevó a cabo la visita y del personal comisionado.
+
+III. Nombre de la persona a la que se le realizó la visita, o de quien lo represente.
+
+IV. Nombre de las personas que participaron como testigos, quienes podrán ser designados hasta dos por la agencia y dos por la persona visitada.
+
+V. Dejar constancia de la entrega formal de la orden de visita.
+
+VI. Describir los datos, pormenores y circunstancias relativas a la actuación.
+
+VII. En su caso, los requerimientos de información que se realicen y las declaraciones de la persona con la que se atendió la visita.
+
+VIII. En su caso, las medidas de seguridad que se ejecutaron.
+
+IX. Nombre y firma de quienes intervinieron en la diligencia.
+
+X. Las manifestaciones que se formulen en el acto de la visita.
+
+Del acta formulada se dejará copia a la persona con quien se entendió la visita, aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni del documento de que se trate, siempre y cuando la persona visitadora haga constar dicha circunstancia en la propia acta.
+
+Las personas visitadas a quienes se haya levantado acta de visita podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación con los hechos contenidos en esta, o bien, por escrito, hacer uso de tal derecho dentro de un plazo de cinco días hábiles siguientes a la fecha en que se hubiere levantado.
+
+Las personas titulares de autorizaciones del servicio de transporte, sus apoderados legales, responsables, encargados u ocupantes de los lugares objeto de la visita de inspección o de verificación están obligados a permitir el acceso al personal de la agencia, dar facilidades e informes al personal que realiza la visita para su desarrollo.
+
+Cuando en la visita de inspección o de verificación se adviertan hechos que generen condiciones graves de riesgo o peligro para la salud, medio ambiente o seguridad pública, podrá determinarse en el mismo acto, la medida de seguridad de urgente aplicación que corresponda, así como su ejecución inmediata, conforme a lo previsto en esta ley.
+
+Dicha determinación se hará constar en el acta circunstanciada de manera fundada y motivada haciéndolo del conocimiento de quien atienda la diligencia.
+
+Si se impide u obstaculiza la práctica de la visita de inspección o de verificación, la persona visitadora hará constar tal circunstancia y suspenderá la diligencia levantando el acta correspondiente.
+
+En tal caso, podrá ordenar los medios de apremio previstos en esta ley y de no haberse logrado la visita de inspección o de verificación, con base en las constancias y actas circunstanciadas levantadas, podrá denunciarse la comisión de hechos delictivos ante la autoridad competente.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 205 Quinquies.
+
+Bienes objeto de verificación
+
+La agencia podrá verificar bienes, personas y vehículos de transporte, así como los documentos y archivos, tanto físicos como electrónicos, con objeto de comprobar el cumplimiento de las disposiciones de esta ley y en las autorizaciones del servicio de transporte respectivas.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 25 DE MAYO DE 2026)</small>
+
+#### Sección quinta. Medios de apremio
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 205 Sexies.
+
+Cumplimiento
+
+Las personas concesionarias están obligadas a cumplir los mandatos, órdenes y medidas impuestas en los actos y resoluciones emitidas por la agencia.
+
+> <small>(ADICIONADA, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 205 Septies.
+
+Medios de apremio
+
+La agencia, para hacer cumplir sus determinaciones, podrá hacer uso de los siguientes medios de apremio:
+
+I. Multa de cincuenta a cien unidades de medida y actualización.
+
+II. Auxilio de la fuerza pública.
+
+III. Retiro de la circulación de vehículos afectos al servicio de transporte, previo acuerdo por escrito.
+
+### Capítulo II. Sanciones
 
 ###### Artículo 206.
 
@@ -3323,7 +4631,9 @@ A las personas operadoras del servicio de transporte que infrinjan o contravenga
 
 I. Amonestación.
 
-II. Multa.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+II. Multa de 2 a 15 Unidades de Medida y Actualización.
 
 III. Multa adicional por cada día que persista la infracción.
 
@@ -3351,7 +4661,9 @@ I. Iniciar su jornada activa en servicio sin escanear el código que permita vis
 
 II. Negar la prestación del servicio a las personas usuarias en los paraderos o paradas previamente autorizadas por la agencia, sin causa justificada.
 
-III. Insultar o discriminar a las personas pasajeras, conforme a lo previsto en la Constitución Política del Estado de Yucatán y la Ley para Prevenir y Eliminar la Discriminación en el Estado de Yucatán.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+III. Prestar el servicio en condiciones distintas a las previstas en la autorización de transporte de que se trate y contrario a lo establecido en esta ley.
 
 IV. Prestar el servicio fuera de la ruta o derrotero autorizado por la agencia.
 
@@ -3419,9 +4731,13 @@ Responsabilidad solidaria de las personas autorizadas
 
 Las personas titulares de autorizaciones del servicio de transporte serán responsables solidarias de las infracciones cometidas por las personas operadoras que contraten para la prestación del servicio de transporte.
 
-Las sanciones producto de la aplicación de esta ley serán independientes de las responsabilidades civiles, penales o administrativas que, en su caso, se actualicen conforme a la legislación aplicable.
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Las sanciones producto de la aplicación de esta ley serán independientes de las responsabilidades civiles, fiscales, penales o administrativas que, en su caso, se actualicen conforme a la legislación aplicable.
 
 Asimismo, la aplicación de la sanción deberá ser registrada en el expediente individual de las personas operadoras, así como en el padrón de concesiones, permisos, constancias, certificados vehiculares y certificados de personas operadoras.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 211.
 
@@ -3431,9 +4747,21 @@ Cuando las personas concesionarias, permisionarias, empresas de redes de transpo
 
 I. Suspensión temporal de las autorizaciones de transporte desde dos días hábiles hasta un año.
 
-II. Multa.
+II. Multa de 20 a 5,000 veces la Unidad de Medida y Actualización.
 
 III. Revocación de la concesión, permiso o constancia.
+
+IV. Clausura temporal o definitiva, parcial o total, de los lugares que se encuentren directamente relacionados con la prestación del servicio objeto de la imposición de la sanción.
+
+La imposición de las multas se realizará con base en la Unidad de Medida y Actualización al momento de imponerse la infracción.
+
+Si una vez vencido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido, conforme a la fracción II de este artículo.
+
+En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del doble del máximo permitido y, en su caso, podrá proceder la clausura definitiva.
+
+Se considera reincidente a la persona infractora que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un período de dos años, contados a partir de la fecha en que quede firme la sanción por la primera infracción.
+
+La persona concesionaria será responsable solidaria de las personas operadoras de sus autobuses, únicamente por los daños y perjuicios que se cometan con motivo de la prestación del servicio de transporte público de personas pasajeras.
 
 ###### Artículo 212.
 
@@ -3507,55 +4835,113 @@ XVII. Las demás que con este carácter establezca la autorización de servicio 
 
 ## Título séptimo. Procedimientos de impugnación
 
-### Capítulo II. Medios alternos de solución de controversias
+### Capítulo I. Recurso de Revisión
 
 ###### Artículo 214.
 
 Recurso de revisión
 
-Contra los actos y resoluciones emitidas por la agencia, la persona solicitante podrá, por sí misma o a través de su representante, interponer el recurso de revisión a través de un escrito o por medios electrónicos ante la unidad administrativa que determine la agencia en el reglamento interior, dentro de los quince días hábiles siguientes contados a partir del día siguiente a aquel en que se tenga conocimiento del acto que se recurre, siempre que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente en aplicación de esta ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
+
+Contra los actos y resoluciones de carácter definitivo emitidas por la agencia, la persona solicitante podrá, por sí misma o a través de su representante legal, interponer el recurso de revisión a través de un escrito o por medios electrónicos ante la unidad administrativa que determine la agencia en el reglamento interior, dentro de los quince días hábiles siguientes contados a partir del día siguiente a aquel en que se tenga conocimiento del acto que se recurre, siempre que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente en aplicación de esta ley.
 
 Contra la resolución definitiva que se emita en el recurso administrativo de revisión, la persona afectada podrá acudir en juicio contencioso administrativo ante el Tribunal de Justicia Administrativa del Estado de Yucatán.
 
 Se considera como acto definitivo todo aquel que resuelve el fondo del asunto o pone fin a un procedimiento. No obstante, dicho derecho de impugnación es optativo para la tramitación ante la vía jurisdiccional que corresponda.
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 215.
 
 Procedimiento de admisión
 
-Una vez presentado el escrito que dé inicio al recurso de revisión, la agencia contará tres días hábiles, a partir de su recepción, para revisar que cumpla los requisitos establecidos en el artículo anterior y para, en su caso, prevenir al recurrente, en caso de que al escrito le falte alguno de los requisitos referidos, otorgando al recurrente, por escrito y por única ocasión, para que subsane las omisiones, un plazo de cinco días hábiles, contado a partir del día siguiente de la notificación de la prevención, con el apercibimiento de que, de no cumplir se tendrá por no interpuesto y se desechará el recurso.
+Una vez presentado el escrito que dé inicio al recurso de revisión, la agencia contará con tres días hábiles, a partir de su recepción, para revisar que cumpla los requisitos establecidos en el artículo anterior, verificar que no se actualice alguna de las causales de improcedencia que establece el artículo siguiente y para, en su caso, prevenir al recurrente, en caso de que al escrito le falte alguno de los requisitos referidos, otorgando al recurrente, por escrito y por única ocasión, para que subsane las omisiones, un plazo de cinco días hábiles, contado a partir del día siguiente al de la notificación de la prevención, con el apercibimiento de que, de no cumplir se desechará el recurso y se tendrá por no interpuesto.
 
-La autoridad designada resolverá el recurso de revisión en un plazo que no podrá exceder de cuarenta días hábiles, contados a partir de la admisión de este en los términos de esta ley, plazo que podrá ampliarse por una sola vez y hasta por un periodo de veinte días hábiles adicionales. En caso de que la autoridad designada no resuelva el recurso en los plazos señalados se considerará confirmado el acto impugnado.
+Para el caso de que, previa revisión o prevención al solicitante, la Agencia determine la procedencia de la admisión del Recurso de Revisión, dictará el acuerdo respectivo, debiendo notificarse al solicitante dentro de un término que no exceda de diez días hábiles contados a partir de su emisión.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 215 Bis.
+
+Causales de improcedencia
+
+El recurso administrativo de revisión es improcedente:
+
+I. Contra actos que sean materia de otro medio de defensa o juicio que se encuentre pendiente de resolución, promovido por el mismo recurrente y por el propio acto impugnado.
+
+II. Contra actos que no afecten el interés jurídico del recurrente.
+
+III. Contra actos consumados de un modo irreparable.
+
+IV. Contra actos consentidos por el recurrente.
+
+V. Cuando no se expresen agravios.
+
+VI. Cuando se esté tramitando ante los tribunales algún recurso o defensa legal interpuesto por el promovente, que pueda tener por efecto modificar, revocar o nulificar el acto respectivo.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 215 Ter.
+
+Procedimiento ordinario
+
+Una vez admitido el Recurso, la Agencia deberá acordar la fecha y hora para el desahogo de las pruebas que en su caso presentare el recurrente, período que debe encontrarse comprendido dentro de los veinte días hábiles posteriores a la notificación de la admisión del Recurso, para posteriormente, de ser necesario, ordenar su desahogo acorde a la naturaleza del material probatorio ofrecido, y en su caso, cerrar la instrucción y abrir la fase de alegatos.
+
+La autoridad designada resolverá el recurso de revisión en un plazo que no podrá exceder de cuarenta días hábiles, contados a partir de la admisión del recurso, en los términos de esta ley, plazo que podrá ampliarse por una sola vez y hasta por un periodo de veinte días hábiles adicionales. En caso de que la autoridad designada no resuelva el recurso en los plazos señalados se considerará confirmado el acto impugnado.
 
 ###### Artículo 216.
 
 Resoluciones del recurso
 
-Transcurrido el plazo para desahogo de las pruebas, se procederá a dictar una resolución en un plazo no mayor a 15 días hábiles. Las resoluciones de la agencia podrán:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
+
+Las resoluciones de la agencia podrán:
 
 I. Desechar por improcedente.
 
 II. Sobreseer el recurso.
 
-III. Confirmar el acto impugnado.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+III. Confirmar o modificar total o parcialmente el acto impugnado.
 
 IV. Suspender el acto.
 
-V. Revocar o modificar el acto, total o parcialmente, u ordenar uno nuevo que lo sustituya cuando el recurso sea resuelto parcialmente a favor de la persona recurrente.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-Las resoluciones establecerán, en su caso, los plazos y términos para su cumplimiento y los procedimientos para asegurar su ejecución, los cuales no podrán exceder de diez días para las modificaciones del acto. Excepcionalmente, la agencia, previa fundamentación y motivación, podrá ampliar estos plazos por un término igual hasta por una ocasión cuando el asunto así lo requiera. No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
+V. Revocar el acto y ordenar uno nuevo que sustituya al dictado primigeniamente.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Las resoluciones establecerán, en su caso, los plazos y términos para su cumplimiento y los procedimientos para asegurar su ejecución, los cuales no podrán exceder de cuarenta y cinco días hábiles.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 217.
 
-Sobreseimiento del recurso
+Causales de sobreseimiento
 
-Deberá procederse al sobreseimiento de los recursos, cuando:
+El sobreseimiento del recurso administrativo de revisión procede cuando:
 
-I. La persona promovente se desista expresamente.
+I. El recurrente se desista expresamente.
 
-II. La autoridad modifique el acto impugnado y consecuentemente el recurso quede sin materia.
+II. Cuando el recurrente fallezca durante el procedimiento, si el acto respectivo sólo afecta su persona.
 
-III. Durante su instrucción sobrevenga una causal de notoria improcedencia.
+III. Durante el procedimiento sobrevenga alguna de las causas de improcedencia señaladas en esta Ley.
+
+IV. Hayan cesado los efectos del acto impugnado.
+
+V. Por falta o desaparición del objeto o materia del acto respectivo.
+
+VI. No se probare la existencia del acto impugnado.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 217 Bis.
+
+Sobreseimiento
+
+Cuando la agencia detecte que se actualiza alguna de las causales de sobreseimiento previstas en el artículo anterior podrá sobreseer fundada y motivadamente el recurso de revisión admitido, notificando de ello a la persona que lo haya interpuesto dentro de un término que no exceda de diez días hábiles, contados a partir de que la Agencia tome conocimiento de la actualización de la causal.
 
 ###### Artículo 218.
 
@@ -3568,6 +4954,8 @@ Para las formalidades de las notificaciones, ofrecimiento, desahogo de pruebas y
 Impugnación de las multas
 
 La imposición de multas derivadas de la ejecución de las sanciones podrá ser impugnadas ante el Tribunal de Justicia Administrativa del Poder Judicial del Estado de Yucatán. La impugnación a que se refiere este artículo será independiente del procedimiento sancionador que se le aplique a la persona presunta infractora dependiendo la falta realizada.
+
+### Capítulo II. Medios alternos de solución de controversias
 
 ###### Artículo 220.
 
@@ -3583,7 +4971,9 @@ La mediación o conciliación como métodos alternos de solución de conflictos 
 
 I. Las personas usuarias del servicio de transporte público en cualquiera de sus modalidades, con las personas concesionarias, permisionarias o titulares de los certificados y constancias por conflictos relacionados con la prestación del servicio.
 
-II. Las personas prestadoras del servicio público de transporte en cualquiera de sus modalidades por conflictos relacionados con la prestación del servicio.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+II. Las personas prestadoras del servicio público de transporte en cualquiera de sus modalidades por conflictos relacionados con la prestación del servicio o con los términos y obligaciones relacionadas con las autorizaciones del servicio de transporte.
 
 III. Las personas prestadoras del servicio público de transporte público con otras personas prestadoras del servicio.
 
@@ -3760,3 +5150,43 @@ Artículo primero. El presente decreto entrará en vigor el día 01 de enero del
 Derogación expresa
 
 Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
+
+D.O. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 187/2026 POR EL QUE SE MODIFICA LA LEY DE LA AGENCIA DE TRANSPORTE DE YUCATÁN, EN MATERIA DE FORTALECIMIENTO INTERNO Y SOSTENIBILIDAD FINANCIERA".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Obligación normativa
+
+La Agencia de Transporte de Yucatán deberá expedir la normativa contemplada en este decreto, dentro de un plazo no mayor de ciento ochenta días naturales, contado a partir de su entrada en vigor.
+
+Artículo tercero. Obligación normativa
+
+La Agencia de Transporte de Yucatán deberá realizar las adecuaciones normativas y administrativas necesarias para la aplicación de este decreto, dentro de un plazo de ciento ochenta días naturales, contado a partir de su entrada en vigor.
+
+Artículo cuarto. Instalación de la Junta Directiva
+
+La Junta Directiva deberá instalarse dentro de los treinta días hábiles siguientes, contados a partir de la entrada en vigor del presente decreto.
+
+Artículo quinto. Asuntos en trámite en materia de transporte
+
+Los procedimientos de contratación, aplicación de sanciones, inconformidades y los recursos administrativos, así como los demás asuntos que se encuentren en trámite o pendientes de resolución se tramitarán y resolverán en los términos de las disposiciones de las leyes con las que se iniciaron.
+
+Quedan exceptuadas del párrafo anterior las concesiones, permisos, constancias y certificados que se encuentren en proceso de renovación, cuyo procedimiento y trámite se ajustará a lo previsto en este decreto.
+
+Artículo sexto. Concesiones, permisos, constancias y certificados
+
+Las concesiones, permisos, constancias y certificados vigentes a la fecha de entrada en vigor de este decreto, continuarán vigentes hasta la fecha de su vencimiento y serán aplicables en lo conducente, las disposiciones legales vigentes en la materia al momento que se otorgaron, en todo lo que no contravenga lo dispuesto en este decreto.
+
+Las concesiones, permisos, constancias y certificados que se encuentren en proceso de renovación, los términos de expedición de dichos documentos deberán ajustarse a lo previsto en este decreto.
+
+A partir de la primera renovación posterior a la entrada en vigor de este decreto, cada concesión que se renueve deberá incorporar gradualmente ciertos estándares y requisitos de manera progresiva y escalonada, con el fin de asegurar que el servicio evolucione hacia los nuevos estándares de calidad y eficiencia para el transporte sostenible.
+
+Las disposiciones establecidas en este artículo transitorio no serán aplicables a las concesiones del Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+Artículo séptimo. Concesiones del Sistema Metropolitano de Movilidad Amable y Sostenible
+
+La Agencia de Transporte de Yucatán en un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto, deberá de adecuar las condiciones, términos y disposiciones, de las concesiones del Sistema Metropolitano de Movilidad Amable y Sostenible para ajustarse a lo establecido en este decreto.
