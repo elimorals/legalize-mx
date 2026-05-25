@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-lo-contencioso-administrativo-del-estado-de-yucatan-1192
 country: "mx"
 rank: "ley"
 publication_date: "1987-10-01"
-last_updated: "2017-07-18"
+last_updated: "2026-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE MAYO DE 2026.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 1 de octubre de 1987.
 
@@ -101,6 +101,10 @@ b) El titular del organismo descentralizado que dicte, ordene, ejecute o trate d
 
 c) En asuntos fiscales, el Secretario de Finanzas o el Síndico Municipal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 25 DE MAYO DE 2026)</small>
+
+d) El particular, a quien favorezca la resolución cuya modificación o nulidad pida la autoridad administrativa.
+
 III.- El tercero perjudicado. Entendiéndose por tal, cualquier persona cuyos derechos o intereses puedan verse afectados por las resoluciones del Tribunal.
 
 ###### ARTICULO 8.
@@ -125,19 +129,27 @@ Los servidores públicos del Poder Ejecutivo y de los Municipios, así como los 
 
 ### CAPITULO III. DE LA DEMANDA
 
-> <small>(F. DE E., D.O. 9 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 12.
 
-La demanda deberá formularse por escrito y presentarse directamente ante el Tribunal dentro de los quince días hábiles, contados a partir del día siguiente al en que se haya notificado el acto que se reclame o al día en que se haya tenido conocimiento del mismo.
+La demanda deberá formularse por escrito y presentarse directamente ante el Tribunal.
+
+Los plazos para presentar la demanda serán:
+
+I.- Dentro de los quince días hábiles, contados a partir del día siguiente a aquel en que se haya notificado el acto que se reclame o al día en que se haya tenido conocimiento de este.
+
+II.- De cinco años cuando las autoridades demanden la modificación o nulidad de un acto o resolución de carácter fiscal favorable a un particular, los que se contarán a partir del día siguiente a la fecha en que éste se haya emitido, salvo que haya producido efectos de tracto sucesivo, caso en el que se podrá demandar la modificación o nulidad en cualquier época sin exceder de los cinco años del último efecto, pero los efectos de la sentencia, en caso de ser total o parcialmente desfavorable para el particular, sólo se retrotraerán a los cinco años anteriores a la presentación de la demanda. En los demás casos en que la autoridad demande la modificación o nulidad de un acto o resolución distintos a los de naturaleza fiscal, los plazos previstos en esta fracción serán de siete años.
 
 Cuando el demandante resida fuera de la sede del Tribunal podrá enviarse por correo certificado con acuse de recibo, siempre que el envío se efectúe en el lugar de la residencia de éste.
 
-Si el particular reside en el extranjero o no tiene representante en el Estado, o fallece durante el plazo a que el primer párrafo se refiere, el plazo será de cuarenta y cinco días, siguientes a la notificación del acto impugnado.
-
-> <small>(F. DE E., D.O. 9 DE OCTUBRE DE 1987)</small>
+Si el particular reside en el extranjero o no tiene representante en el Estado, o fallece durante el plazo a que se refiere la fracción I, el plazo será de cuarenta y cinco días, siguientes a la notificación del acto impugnado.
 
 Los particulares podrán demandar en cualquier tiempo la nulidad de la resolución negativa ficta, cuando las autoridades no den respuesta a su instancia en el término de noventa días hábiles.
+
+Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere la fracción I de este artículo, este se suspenderá hasta por un año, si antes no se hubiere aceptado el cargo de albacea de la sucesión.
+
+En los casos de incapacidad o declaración de ausencia, decretadas por autoridad judicial, cuando el particular se encuentre afectado por un acto o resolución administrativa, se suspenderá el plazo a que se refiere la fracción I de este artículo hasta por un año. La suspensión cesará cuando se acredite que se ha aceptado el cargo de tutor del incapaz o representante legítimo del ausente.
 
 ###### ARTICULO 13.
 
@@ -151,15 +163,21 @@ II.- Cuando el actor no conozca los fundamentos o motivos del acto impugnado, si
 
 La demanda deberá expresar y llenar los siguientes requisitos:
 
-> <small>(F. DE E., D.O. 9 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-I.- El nombre y domicilio del actor y, en su caso, de quien promueva en su nombre.
+I.- El nombre, domicilio y dirección de correo electrónico del actor y, en su caso, de quien promueva en su nombre.
 
-II.- El acto impugnado.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-III.- La fecha de notificación o en la que se tuvo conocimiento del acto impugnado.
+II.- El acto o resolución que se impugna.
 
-IV.- La autoridad o autoridades demandadas, y en su caso el titular del organismo descentralizado, así como el nombre y domicilio del particular demandado si existiere.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+III.- La fecha de notificación o en la que se tuvo conocimiento del acto impugnado. En el caso de que se controvierta un decreto o acuerdo de carácter general a nivel local, diversos a los reglamentos, precisará la fecha de su publicación.
+
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+IV.- La autoridad o autoridades demandadas, y en su caso, el nombre y domicilio del particular demandado cuando el juicio sea promovido por la autoridad administrativa.
 
 V.- El nombre y domicilio del tercero perjudicado, si lo hubiere.
 
@@ -169,7 +187,13 @@ VII.- Las pruebas que el actor ofrezca.
 
 VIII.- Los puntos petitorios.
 
-Cuando se omitan estos requisitos, el Magistrado, si no pudiere subsanar tal omisión, requerirá mediante notificación personal al demandante para que los proporcione en el plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda. Cuando no obstante el apercibimiento a que este artículo se refiere, omitiere ofrecer pruebas, solamente se le tendrá por desistido del derecho de ofrecerlas.
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Cuando la demanda sea oscura, irregular o incompleta o se omitan los requisitos previstos en este artículo, el Magistrado requerirá al actor para que, en el término de cinco días hábiles, la aclare, corrija o complemente, con el apercibimiento de que, de no hacerlo, se tendrá por no presentada o por no ofrecidas las pruebas, según corresponda.
+
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Cuando no se señale dirección de correo electrónico, no se enviará el aviso electrónico que corresponda.
 
 ###### ARTICULO 15.
 
@@ -261,43 +285,79 @@ Contestada la demanda, el Magistrado examinará el expediente y si encontrare ac
 
 En los juicios en que no exista tercero perjudicado, los demandados podrán allanarse a la demanda, en cuyo caso, se dictará la resolución correspondiente sin mayor trámite.
 
-### CAPITULO V. DE LA SUSPENSION
+> <small>(REFORMADA SU DENOMINACION, D.O. 25 DE MAYO DE 2026)</small>
+
+### CAPÍTULO V. Medidas cautelares
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 23.
 
-La suspensión de los actos impugnados, deberá acordarse por el Magistrado en el mismo auto en que admita la demanda haciéndolo saber, sin demora, a la autoridad demandada, para su cumplimiento.
+Una vez admitida la demanda, salvo en los casos en que se ocasione perjuicio al interés social o se contravengan disposiciones de orden público, y con el fin de asegurar la eficacia de la sentencia, el Magistrado podrá decretar la suspensión de la ejecución del acto impugnado, a fin de mantener la situación de hecho existente en el estado en que se encuentra, así como todas las medidas cautelares positivas necesarias para evitar que el litigio quede sin materia o se cause un daño irreparable al actor. La suspensión con efectos restitutorios procederá observando los requisitos de apariencia de buen derecho, peligro en la demora y razonabilidad.
+
+La suspensión también podrá consistir en la orden de custodia del folio real del predio, al Registro Público de la Propiedad y de Comercio del estado, cuando se trate de un juicio de nulidad o lesividad, relacionado con desarrollo urbano, construcciones, inmuebles u ordenamiento territorial, para evitar la inscripción de actos que impidan la ejecución de la sentencia que resuelva el fondo del asunto y la protección del patrimonio a terceros.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 24.
 
-La suspensión podrá solicitarla el actor en cualquier tiempo mientras no se dicte sentencia ejecutoria y tendrá por efecto mantener las cosas en el estado en que se encuentren, en tanto se pronuncie sentencia. No se otorgará la suspensión si se sigue perjuicio a un evidente interés social o si se contravienen disposiciones de orden público.
+Las medidas cautelares se tramitarán de conformidad con el incidente respectivo, el cual deberá ajustarse a los principios de proporcionalidad y necesidad, sin que impliquen prejuzgar sobre el fondo del asunto, y conforme a lo siguiente:
 
-La suspensión podrá concederse con efectos restitutorios únicamente cuando se trate de actos privativos de libertad decretados al particular por la autoridad administrativa, o bien cuando a juicio del Magistrado sea necesario otorgarle estos efectos, con el objeto de conservar la materia del litigio o impedir perjuicios irreparables al propio particular.
+I.- La promoción en donde se soliciten las medidas cautelares, deberá contener los siguientes requisitos:
 
-Cuando los actos materia de impugnación hubieren sido ejecutados y afecten a los particulares de escasos recursos económicos, impidiendo el ejercicio de su única actividad personal de subsistencia y, entre tanto se pronuncie la resolución que corresponda, el Tribunal podrá dictar las medidas que estime pertinentes para preservar el medio de subsistencia del quejoso, siempre que no se lesionen derechos de terceros.
+a) El nombre del actor y su domicilio para recibir notificaciones.
 
-La suspensión estará vigente durante la tramitación del procedimiento contencioso administrativo; no obstante podrá ser revocada por el Tribunal, en cualquier momento del juicio, si varían las condiciones en las cuales se otorgó.
+b) Resolución que se pretende impugnar y su fecha de notificación.
+
+c) Los hechos que se pretenden resguardar con la medida cautelar.
+
+d) Expresión de los motivos por los cuales solicita la medida cautelar.
+
+II.- El escrito de solicitud de medidas cautelares deberá cumplir con lo siguiente:
+
+a) Acreditar la necesidad para gestionar la medida cautelar.
+
+b) Adjuntar copia de la solicitud, para cada una de las partes, a fin de correrles traslado.
+
+En caso de no cumplir con los requisitos previstos en las fracciones I y II del presente artículo, se tendrá por no interpuesto el incidente.
+
+El solicitante justificará en su petición las razones por las cuales las medidas cautelares son indispensables y el Magistrado podrá otorgarlas, motivando las razones de su procedencia.
+
+La solicitud de las medidas cautelares se podrá presentar en cualquier tiempo, hasta antes de que se dicte sentencia definitiva.
+
+El Magistrado deberá proveer sobre la suspensión provisional de la ejecución, dentro de las veinticuatro horas siguientes a la presentación de la solicitud.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 25.
 
-Cuando a juicio del Magistrado fuere necesario garantizar los intereses del fisco, la suspensión del acto reclamado se concederá previo aseguramiento de los mismos, en cualquiera de las formas que se establecen en las disposiciones fiscales relativas, a menos que la garantía se hubiese constituido de antemano ante la autoridad demandada.
+El acuerdo que admita el incidente de petición de medidas cautelares deberá emitirse dentro de las veinticuatro horas siguientes a su interposición; en dicho acuerdo se ordenará correr traslado a quien se impute el acto administrativo o los hechos objeto de la controversia, pidiéndole un informe que deberá rendir en un plazo de setenta y dos horas siguientes a aquél en que surta efectos la notificación del acuerdo respectivo. Si no se rinde el informe o si éste no se refiere específicamente a los hechos que le impute el promovente, dichos hechos se tendrán por ciertos. En el acuerdo a que se refiere este párrafo, el Magistrado resolverá sobre las medidas cautelares previas que se le hayan solicitado.
 
-Tratándose de multas, impuestos, derechos o cualquier otro crédito fiscal, el Magistrado discrecionalmente podrá conceder la suspensión sin necesidad de que se garantice su importe.
+Dentro del plazo de cinco días contados a partir de que haya recibido el informe o que haya vencido el término para presentarlo, el Magistrado dictará la resolución en la que, de manera definitiva, decrete o niegue las medidas cautelares solicitadas, decida en su caso, sobre la admisión de la garantía ofrecida, la cual deberá otorgarse dentro del plazo de tres días. Cuando no se otorgare la garantía dentro del plazo señalado, las medidas cautelares dejarán de tener efecto.
+
+Mientras no se dicte sentencia definitiva, el Magistrado que hubiere conocido del incidente podrá modificar o revocar la resolución que haya decretado o negado las medidas cautelares, cuando ocurra un hecho superveniente que lo justifique.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 26.
 
-En los casos en que proceda la suspensión, pero pueda ocasionar daños o perjuicios a terceros, se concederá si el actor otorga garantía bastante para reparar el daño e indemnizar los perjuicios que con ella se causaren, si no obtiene sentencia favorable en el juicio.
+El Magistrado podrá decretar medidas cautelares positivas, entre otros casos, cuando, tratándose de situaciones jurídicas duraderas, se produzcan daños substanciales al actor o una lesión importante del derecho que pretende por el simple transcurso del tiempo.
 
-Cuando con la suspensión puedan afectarse derechos de terceros no estimables en dinero, el Magistrado que conozca del asunto fijará discrecionalmente el importe de la garantía.
+Cuando los actos materia de impugnación hubieren sido ejecutados y afecten a los particulares de escasos recursos económicos, impidiendo el ejercicio de su única actividad personal de subsistencia y, entre tanto se pronuncie la resolución que corresponda, el Tribunal podrá dictar las medidas que estime pertinentes para preservar el medio de subsistencia del quejoso, siempre que no se lesionen derechos de terceros.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 27.
 
-La suspensión otorgada conforme al artículo anterior, quedará sin efecto si el tercero da, a su vez, caución bastante para que las cosas se mantengan en el estado en que se encontraban al momento en que fue concedida, y cubrir los daños que sobrevengan en perjuicio del actor, en el caso de que éste obtenga sentencia favorable.
+En los casos en los que las medidas cautelares puedan causar daños a terceros, el Magistrado las ordenará siempre que el actor otorgue garantía bastante para reparar, mediante indemnización, los daños y perjuicios que con ellas pudieran causarse si no obtiene sentencia favorable en el juicio; garantía que deberá expedirse a favor de los terceros que pudieran tener derecho a la reparación del daño o a la indemnización citada y quedará a disposición del Tribunal. Si no es cuantificable la indemnización respectiva, se fijará discrecionalmente el importe de la garantía, expresando los razonamientos lógicos y jurídicos respectivos.
 
-Para que surta efecto la caución que ofrezca el tercero, conforme al párrafo anterior, deberá cubrir previamente el costo de la que hubiere otorgado el actor.
+Las autoridades tendrán dentro del procedimiento contencioso, en cualquier forma en que intervengan, la misma situación que otra parte cualquiera; pero nunca podrá dictarse, en su contra, mandamiento de ejecución ni providencia de embargo, y estarán exentos de prestar las garantías que esta ley exija de las partes.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 28.
 
-Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los treinta días siguientes a que surta efectos la notificación de la sentencia. El Tribunal dará vista a las demás partes por un término de cinco días, vencido el cual, pronunciará la resolución que corresponda.
+Tratándose de créditos fiscales o de multas administrativas, se concederá la suspensión, debiéndose garantizar su importe ante la Tesorería General del Estado en alguna de las formas y con los requisitos previstos en el Código Fiscal del Estado de Yucatán.
 
 ### CAPITULO VI. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
@@ -321,7 +381,9 @@ VI.- Contra actos cuya impugnación, mediante otro recurso o medio de defensa le
 
 VII.- Cuando no se haga valer agravio alguno.
 
-VIII.- Contra reglamentos, circulares o disposiciones de carácter general.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VIII.- Contra reglamentos.
 
 IX.- Cuando de las constancias de autos apareciere claramente que no existe el acto impugnado.
 
@@ -435,9 +497,11 @@ El incidente se tramitará aún de oficio.
 
 El procedimiento se reanudará cuando se apersone a juicio el representante de la sucesión. Si éste no se apersonare en el plazo de un año a partir de la fecha en que se decretó la suspensión las notificaciones se harán por lista.
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 40.
 
-Independientemente de lo previsto en el Capítulo V de esta Ley, el incidente de suspensión del procedimiento administrativo de ejecución, también procederá ante el Tribunal cuando la autoridad ejecutora no respete la suspensión que fue otorgada, bien sea por la autoridad administrativa o por el propio Tribunal.
+Independientemente de lo previsto en el Capítulo V de esta Ley, el incidente de suspensión del procedimiento administrativo de ejecución también procederá ante el Tribunal cuando la autoridad ejecutora no respete la suspensión que fue otorgada, bien sea por la autoridad administrativa o por el propio Tribunal.
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -607,9 +671,11 @@ Sino obstante los requerimientos anteriores, no se da cumplimiento a la resoluci
 
 Si la autoridad demandada goza de fuero constitucional el Tribunal solicitará de la Legislatura del Estado la aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, y cuando fuere materialmente posible ejecutará el fallo.
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 65.
 
-Las sanciones mencionadas en este capítulo también serán procedentes cuando no se cumplimente en sus términos la suspensión que se hubiere decretado respecto al acto reclamado en el juicio.
+Las sanciones mencionadas en este capítulo también serán procedentes cuando no se cumplimente en sus términos las medidas cautelares que se hubiere decretado respecto al acto reclamado en el juicio.
 
 ### CAPITULO XII. DE LOS RECURSOS
 
@@ -625,11 +691,11 @@ El recurso se interpondrá, con expresión de agravios, dentro del plazo de tres
 
 #### SECCION SEGUNDA. DEL RECURSO DE QUEJA
 
-> <small>(F. DE E., D.O. 9 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 68.
 
-El recurso de queja es procedente contra actos de las autoridades por exceso o defecto en la ejecución del acto en que se haya concedido la suspensión del acto reclamado; así como por exceso o defecto en la ejecución de la sentencia del Tribunal que haya declarado fundada la pretensión del actor. Será también procedente cuando la autoridad repita el acto administrativo anulado.
+El recurso de queja es procedente contra actos de las autoridades por exceso o defecto en la ejecución del acto en que se haya concedido medida cautelar respecto al acto reclamado; así como por exceso o defecto en la ejecución de la sentencia del Tribunal que haya declarado fundada la pretensión del actor. Será también procedente cuando la autoridad repita el acto administrativo anulado.
 
 El recurso deberá interponerse por escrito ante el Tribunal dentro de un plazo de tres días contados a partir del día siguiente hábil en que surta efectos la notificación de la resolución recurrida, acompañando una copia del escrito para cada una de las partes.
 
@@ -641,65 +707,71 @@ Si la autoridad o funcionario demandados no cumplieren con la resolución dictad
 
 ### CAPITULO XIII. DE LAS NOTIFICACIONES Y DE LOS TERMINOS
 
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 69.
 
-Las resoluciones serán notificadas, a más tardar el día hábil siguiente a aquél en que se pronuncien.
+Las notificaciones a los particulares y a las autoridades en el juicio deberán realizarse por medio del Boletín Jurisdiccional, enviándose previamente un aviso electrónico a su dirección de correo electrónico o dirección de correo electrónico institucional según sea el caso, de que se realizará la notificación, a más tardar el tercer día siguiente a aquél en que el expediente haya sido turnado al actuario para ese efecto. El aviso de notificación deberá ser enviado cuando menos con tres días de anticipación a la publicación del acuerdo, resolución o sentencia de que se trate en el Boletín Jurisdiccional.
+
+Los particulares y las autoridades, mientras no se haya realizado la notificación por Boletín Jurisdiccional, podrán apersonarse en el Tribunal para ser notificados personalmente. Una vez realizada la notificación por Boletín Jurisdiccional, las partes, cuando esto proceda, deberán acudir al Tribunal a recoger sus traslados de ley, en el entendido de que con o sin la entrega de los traslados, los plazos comenzarán a computarse a partir del día siguiente al en que surta efectos la notificación correspondiente. El Actuario o el Secretario de Acuerdos, en todos los casos, previo levantamiento de razón entregará los traslados de ley.
+
+La notificación surtirá sus efectos al tercer día hábil siguiente a aquél en que se haya realizado la publicación en el Boletín Jurisdiccional o al día hábil siguiente a aquél en que las partes sean notificadas personalmente en las instalaciones designadas por el Tribunal, cuando así proceda, en términos de lo establecido por el artículo 71 de esta Ley.
+
+Dicho aviso deberá incluir el archivo electrónico que contenga el acuerdo y en el caso del emplazamiento, el escrito de demanda correspondiente.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 70.
 
-Las notificaciones se harán:
+La lista de autos y resoluciones dictados por un Magistrado o por el Pleno, se publicará en el Boletín Jurisdiccional.
 
-I.- A las autoridades siempre por oficio, o por telegrama en casos urgentes, cuando se trate de resoluciones que exijan cumplimiento inmediato.
+En el Boletín Jurisdiccional deberá indicarse la denominación de la ponencia del Magistrado que corresponda, el número de expediente, la identificación de las autoridades a notificar y, en términos de la normatividad aplicable en materia de protección de datos personales, en su caso, el nombre del particular; así como una síntesis del auto, resolución o sentencia. El Boletín Jurisdiccional podrá consultarse en la página electrónica del Tribunal o en el módulo de Transparencia del Tribunal.
 
-II.- Personalmente o por correo certificado con acuse de recibo, a los particulares cuando se trate de alguna de las siguientes resoluciones:
+El Pleno del Tribunal, mediante lineamientos, establecerá el contenido de la síntesis del auto, resolución o sentencia, así como las áreas, dentro del propio Tribunal, en las cuales serán entregados los traslados de ley; y en su caso, los mecanismos que permitan a las partes conocer el auto, resolución o sentencia correspondiente.
 
-a) La que admita o deseche una demanda o su ampliación.
-
-b) La que admita o deseche la contestación o su ampliación.
-
-c) La que admita o deniegue la intervención del tercero perjudicado.
-
-d) La que mande citar a un tercero.
-
-e) El requerimiento de un acto a la parte que deba cumplirlo.
-
-f) Las de sobreseimiento y las incidentales.
-
-g) La sentencia definitiva.
-
-h) En cualquier caso urgente o importante, si así lo considera el Tribunal.
-
-III.- Fuera de los casos señalados en la fracción anterior, las notificaciones se harán directamente en el Tribunal a los particulares, si se presentan dentro del día siguiente al en que se haya dictado la resolución, y sino se presentaren con oportunidad por lista autorizada que se fijará en los estrados.
-
-> <small>(F. DE E., D.O. 9 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 71.
 
-Las notificaciones surtirán efectos a partir del día siguiente hábil al en que se verifiquen.
+Las notificaciones únicamente deberán realizarse personalmente, o por correo certificado con acuse de recibo, cuando se trate de las resoluciones siguientes:
 
-> <small>(F. DE E., D.O. 9 DE OCTUBRE DE 1987)</small>
+I. La que corra traslado de la demanda, en el caso del tercero, así como el emplazamiento al particular en el juicio de lesividad a que se refiere el artículo 12, fracción II de esta Ley;
 
-En los casos de notificaciones por lista, se tendrá como fecha de notificación el día hábil siguiente al en que se hubieren fijado.
+II. La que mande citar al testigo que no pueda ser presentado por la parte oferente.
+
+En los demás casos, las notificaciones deberán realizarse por medio del Boletín Jurisdiccional.
+
+Para los efectos señalados en las fracciones anteriores, una vez que las partes y el testigo se apersonen en el juicio, y el perito haya comparecido para aceptar y protestar el cargo, deberán señalar dirección de correo electrónico, bajo el apercibimiento que, de no hacerlo, se procederá en los términos del artículo 14, último párrafo, de la presente Ley.
+
+El Magistrado podrá, excepcionalmente, ordenar la notificación personal, por oficio o por correo certificado con acuse de recibo a las partes, atendiendo a su situación concreta, para lo cual deberá fundar y motivar esa determinación en el acuerdo respectivo.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 72.
 
-En las actuaciones respectivas, el actuario asentará razón del envío por correo o entrega de los oficios de notificación, así como de las notificaciones personales o por lista.
+El actuario deberá asentar razón de las notificaciones por Boletín Jurisdiccional, de las notificaciones personales o del envío por correo certificado, atendiendo al caso de que se trate. Los acuses de recibo del correo certificado se agregarán como constancia al expediente.
 
-Los acuses de recibo postales y las piezas certificadas devueltas se agregarán como constancias, a dichas actuaciones.
+Al actuario que sin causa justificada no cumpla con esta obligación, se le impondrá una multa de una a tres veces la Unidad de Medida y Actualización, mensual, sin que exceda del 30 por ciento de su salario. Será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
+
+El Tribunal llevará en archivo especial las publicaciones atrasadas del Boletín Jurisdiccional y hará la certificación que corresponda, a través de los servidores públicos competentes.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 73.
 
-La notificación omitida o irregular se entenderá hecha formalmente a partir del momento en que el interesado se haga sabedor de la misma, salvo cuando se promueva su nulidad.
+Las notificaciones surtirán sus efectos, el día hábil siguiente a aquél en que fueren hechas. En el caso de las notificaciones realizadas por medio del Boletín Jurisdiccional, surtirán sus efectos conforme a lo previsto en el artículo 69 de esta Ley.
+
+> <small>(REFORMADO, D.O. 25 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 74.
 
-El cómputo de los plazos se sujetará a las reglas siguientes:
+La notificación personal o por correo certificado con acuse de recibo, también se entenderá legalmente efectuada cuando se lleve a cabo por cualquier medio por el que se pueda comprobar fehacientemente la recepción de los actos que se notifiquen.
 
-> <small>(F. DE E., D.O. 9 DE OCTUBRE DE 1987)</small>
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
 
-I.- Comenzarán a correr desde el día hábil siguiente al en que surta efectos la notificación; serán fatales e improrrogables y se incluirá en ellos el día del vencimiento.
+###### ARTICULO 75.
 
-II.- Se contarán por días hábiles, entendiéndose por éstos aquellos en que se encuentren abiertas al público las oficinas del Tribunal.
+Una notificación omitida o irregular se entenderá legalmente hecha a partir de la fecha en que el interesado se haga sabedor de su contenido.
 
 ## TRANSITORIOS
 
@@ -820,3 +892,21 @@ Octavo. Presidencia del tribunal
 El presidente del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán que se encuentre en funciones a la entrada en vigor de este decreto, asumirá el cargo de presidente del Tribunal de Justicia Administrativa del Estado de Yucatán, para continuar durante el período para el que fue elegido.
 
 NOVENO.- Se deroga toda disposición de igual o menor rango en lo que se oponga a la presente ley.
+
+D.O. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 188/2026 POR EL QUE SE MODIFICAN LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE YUCATÁN, LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN Y LA LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE YUCATÁN, EN MATERIA DE JUICIO DE LESIVIDAD Y MEDIDAS CAUTELARES”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de las disposiciones del capítulo XIII de la Ley de lo Contencioso Administrativo del Estado de Yucatán con relación a las notificaciones a través del boletín jurisdiccional que lo harán conforme al plazo establecido en el artículo tercero transitorio de este decreto.
+
+Segundo. Procedimiento y asuntos en trámite
+
+Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se substanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
+
+Artículo Tercero. Implementación de Boletín Jurisdiccional.
+
+El Tribunal de Justicia Administrativa del Estado de Yucatán contará con un plazo de hasta noventa días naturales contados a partir de la publicación del presente decreto, para crear e implementar el Boletín Jurisdiccional.
+
+En tanto se implementa el boletín jurisdiccional las notificaciones que lleve a cabo el Tribunal de Justicia Administrativa del Estado de Yucatán, continuarán realizándose conforme a las disposiciones vigentes previo a la entrada en vigor de este decreto.
