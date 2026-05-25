@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2025-03-05"
+last_updated: "2026-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -1027,7 +1027,9 @@ Podrán participar en reuniones de información y audiencia, a invitación de su
 
 En las reuniones de comisión, podrán participar con derecho a voz y previa autorización de la comisión de que se trate, los titulares de los órganos de soporte técnico y de apoyo del congreso o quienes éstos designen para el caso, cuando el asunto a tratar sea de su competencia.
 
-El Presidente del órgano de trabajo correspondiente, durante el desarrollo de las reuniones del mismo, tendrá las mismas atribuciones que la Ley y el Reglamento otorgan al Presidente del Congreso, relativas a la salvaguarda del orden y respeto al Congreso y a sus integrantes.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2026)</small>
+
+El Presidente del órgano de trabajo correspondiente, durante el desarrollo de las reuniones del mismo, tendrá las mismas atribuciones que la Ley y el Reglamento otorgan al Presidente del Congreso, relativas a la salvaguarda del orden y respeto al Congreso y a sus integrantes, así como conceder el uso de la palabra, dirigir los debates, discusiones y deliberaciones.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2020)</small>
 
@@ -1782,3 +1784,11 @@ P.O. 5 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 065. SE REFORMAN LAS FRACCIONES V, XXIV Y XXV DEL ARTÍCULO 70 Y SE ADICIONAN LAS FRACCIONES XXVI Y XXVII AL ARTÍCULO 70 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL INCISO B) DE LA FRACCIÓN II; AL ENCABEZADO DE LA FRACCIÓN V; LOS INCISOS B), C), D), E), F), G), H), I) Y J) DE LA FRACCIÓN V; SE ADICIONAN LAS FRACCIONES XXVI Y XXVII, LA PRIMERA CON LOS INCISOS A), B), C), D), E), F), G) Y H), Y LA SEGUNDA CON LOS INCISOS A), B), C), D) Y E), Y SE DEROGA EL INCISO L) DE LA FRACCIÓN V, TODOS DEL ARTÍCULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 207. SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 75, EL SEGUNDO PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 93 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- Se deja sin efectos el decreto No. 439 aprobado el día 25 de septiembre del 2023.
