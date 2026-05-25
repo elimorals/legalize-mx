@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-procuracion-de-justicia-ambiental-y-urbana-del-179651"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-22"
-last_updated: "2025-07-28"
+last_updated: "2026-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179651&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE PROCURACIÓN DE JUSTICIA AMBIENTAL Y URBANA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE MAYO DE 2026.
 
 Ley publicada en el Suplemento del Número 35,269 del Diario Oficial del Estado de Yucatán, el viernes 22 de diciembre de 2023.
 
@@ -1381,6 +1381,10 @@ Ejercicio de atribuciones
 
 Artículo décimo tercero. Las dependencias y entidades correspondientes continuarán ejerciendo las atribuciones en materia de control, inspección, vigilancia y sanción en materia ambiental, de ordenamiento territorial y urbana que les conferían las leyes vigentes previo a la entrada en vigor de este decreto, hasta en tanto entra en funciones la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, conforme a la Ley de Procuración de Justicia Ambiental y Urbana del Estado de Yucatán.
 
+> <small>(ADICIONADO, D.O. 25 DE MAYO DE 2026)</small>
+
+Para efectos de la entrada en funciones de la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán a que se refieren el párrafo anterior y el transitorio segundo del Decreto 67/2025 por el que se modifican los decretos 702/2023 por el que se expide la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Yucatán y la Ley de Procuración de Justicia Ambiental y Urbana del Estado de Yucatán, y 721/2023 por el que se modifica la Ley de Gobierno de los Municipios del Estado de Yucatán, la Ley de Desarrollos Inmobiliarios del Estado de Yucatán, la Ley de Vivienda del Estado de Yucatán y la Ley sobre el Régimen de Propiedad en Condominio del Estado de Yucatán, en materia de asentamientos humanos y desarrollo urbano, el Congreso del estado emitirá la declaratoria correspondiente, lo cual no deberá exceder del 1 de enero de 2027.
+
 Procedimientos y asuntos en trámite
 
 Artículo décimo cuarto. Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se sustanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
@@ -1476,3 +1480,23 @@ El Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, d
 Titular de la dependencia
 
 Artículo décimo primero. Con el objeto de no afectar derechos adquiridos con anterioridad a la entrada en vigor de este decreto, la persona titular de la actual Secretaría de la Contraloría General continuará en el cargo de titular de la Secretaría Anticorrupción y Buen Gobierno sin necesidad de nuevo nombramiento por parte del titular del Poder Ejecutivo, ni la ratificación por parte de la legislatura y concluirá su cargo en los términos de su nombramiento.
+
+D.O. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 189/2026 POR EL QUE SE MODIFICA EL DECRETO 702/2023 POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE YUCATÁN Y LA LEY DE PROCURACIÓN DE JUSTICIA AMBIENTAL Y URBANA DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Obligación normativa
+
+El Gobernador deberá realizar las modificaciones al marco normativo para ajustarlo a las disposiciones de este decreto, dentro de los ciento ochenta días naturales siguientes contados a partir de su entrada en vigor.
+
+Artículo tercero. Adecuaciones presupuestales, financieras, de bienes y recursos humanos
+
+La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales, financieras, de bienes y recursos humanos que resulten necesarias para la aplicación de este decreto.
+
+Artículo cuarto. Notificación al Congreso
+
+La Secretaría de Desarrollo Sustentable, en su carácter de dependencia coordinadora del sector, deberá notificar al Congreso del Estado sobre la conclusión del procedimiento de asignación y transferencia de recursos humanos, materiales y financieros que permitan la entrada en funciones de la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, a más tardar el 31 de diciembre de 2026.
