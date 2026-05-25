@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2026-05-18"
+last_updated: "2026-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2026.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -14245,11 +14245,23 @@ Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día pref
 
 (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2004)
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 2358.
 
-Si después de terminado el plazo por el que se celebró el arrendamiento, el arrendatario continúa sin oposición en el uso y goce del bien arrendado, continuará el arrendamiento por tiempo indeterminado, estando obligado el arrendatario a pagar la renta que corresponda por el tiempo que exceda conforme a lo convenido en el contrato; pudiendo cualquiera de las partes solicitar la terminación del contrato en los términos del artículo 2349. Las obligaciones contraídas por un tercero con objeto de garantizar el cumplimiento del arrendamiento, cesan al término del plazo determinado, salvo convenio en contrario.
+Si después de terminado el plazo por el que se celebró el arrendamiento, el arrendatario se encontraba al corriente del pago y continúa sin oposición en el uso y goce del bien arrendado, el contrato se entenderá prorrogado por un plazo igual al originalmente pactado, siempre que este no exceda el plazo previsto en el artículo 2269 de este Código. En caso contrario, el contrato se prorrogará en su vigencia solo por el lapso faltante para completar el plazo establecido en dicho artículo.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2026)</small>
+
+No obstante, las obligaciones contraídas por un tercero con objeto de garantizar el cumplimiento del arrendamiento, tales como la fianza, la obligación solidaria o cualquier otra garantía, cesarán al término del plazo determinado originalmente, salvo estipulación en contrario establecida entre las partes al perfeccionar el contrato o en cualquier momento posterior de su vigencia.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2026)</small>
+
+Durante el tiempo que dure esta prórroga, el inquilino continuará obligado a pagar la renta en los mismos términos y condiciones estipulados en el contrato original.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2026)</small>
+
+En el supuesto previsto por el primer párrafo de este artículo, cualquiera de las partes podrá solicitar la terminación del contrato, mediante aviso previo y fehaciente dado a la otra parte, en los términos del artículo 2349 de este Código.
 
 ###### Artículo 2359.
 
@@ -18522,3 +18534,11 @@ P.O. 18 DE MAYO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL " DECRETO NÚMERO 494.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO AGUASCALIENTES ".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de (sic) publicación en el Periódico Oficial del Estado
