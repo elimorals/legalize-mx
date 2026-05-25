@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2026-04-02"
+last_updated: "2026-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -3031,11 +3031,11 @@ La violencia familiar es la ejercida dentro o fuera del domicilio de la víctima
 
 Para efectos de este artículo, se entiende por integrante de la familia a la persona que se encuentre unida a otra por una relación de matrimonio, concubinato, cohabitación o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, colateral o afín hasta el cuarto grado.
 
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2026)</small>
 
 ###### Art. 455 Quáter.
 
-Queda prohibido el ejercicio de la violencia a través de interpósita persona en términos de lo establecido en la fracción VII del artículo 10 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco.
+Queda prohibido el ejercicio de la violencia a través de interpósita persona y de la violencia vicaria en términos de lo establecido en la Ley General de Acceso de las Mujeres a una Vida libre de Violencia y en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco.
 
 ## TITULO SEXTO. De la paternidad y filiación
 
@@ -19546,3 +19546,13 @@ P.O. 2 DE ABRIL DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Los procedimientos que a la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares se encuentren en trámite, continuaran su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+P.O. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 30151/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 10 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 455 QUÁTER DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; Y CREA EL CAPÍTULO I BIS, DE LA VIOLENCIA VICARIA, EN EL TÍTULO DÉCIMO SEGUNDO, DELITOS CONTRA EL ORDEN DE LA FAMILIA, SE REFORMAN LOS ARTÍCULOS 176-TER 1 Y 176-TER 2 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DEL ESTADO DE JALISCO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
