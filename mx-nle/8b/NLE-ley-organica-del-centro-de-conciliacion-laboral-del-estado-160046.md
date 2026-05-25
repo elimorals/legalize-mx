@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1600
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-09"
-last_updated: "2022-09-09"
+last_updated: "2026-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2026.
 
 Ley publicada en el número 128 del Periódico Oficial del Estado de Nuevo León, el viernes 9 de septiembre de 2022.
 
@@ -483,6 +483,10 @@ La cantidad mínima de orientadores antes mencionada se incrementará de conform
 
 El Consejo Consultivo del Sector Productivo es un cuerpo colegiado técnico y especializado, de naturaleza consultiva, para la asesoría, opinión, proposición, seguimiento y evaluación de los programas, proyectos y acciones del Centro. No tendrá carácter de autoridad y sus integrantes ocuparán cargos honoríficos.
 
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2026)</small>
+
+En la integración del Consejo Consultivo del Sector Productivo se procurará la observancia del principio de paridad de género.
+
 ###### Artículo 44.
 
 El Consejo Consultivo en Pleno tiene las siguientes funciones:
@@ -710,3 +714,11 @@ EL C. SECRETARIO DEL TRABAJO
 MTRO. FEDERICO ROJAS VELOQUIO
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 212. SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 43, DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
