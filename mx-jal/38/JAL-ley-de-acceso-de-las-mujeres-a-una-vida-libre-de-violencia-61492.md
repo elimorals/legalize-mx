@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2026-03-07"
+last_updated: "2026-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2026.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -275,15 +275,15 @@ V. Violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o la sexu
 
 VI. Violencia Digital. Es cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como daño moral a ellas y su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones graficas o sonoras verdaderas o alteradas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2026)</small>
 
-VII. Violencia a través de interpósita persona: Es cualquier acto u omisión que, con el objeto de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
+VII. Violencia vicaria: Es cualquier acto u omisión que, con dolo y por razones de género, tenga por objeto causar perjuicio o daño a las mujeres mediante la inferencia de maltrato en contra de sus hijas, hijos, familiares, personas allegadas o seres sintientes. Esta violencia es cometida por quien tenga o haya tenido una relación de hecho, matrimonio o concubinato con la víctima; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
 
-Se manifiesta a través de diversas conductas, entre otras:
+Se manifiesta a través de diversas conductas, de manera enunciativa, mas no limitativa a las siguientes:
 
-a) Amenazar con causar daño a las hijas e hijos;
+a) Amenazar con causar o realizar daño a las hijas e hijos, familiares, personas allegadas o seres sintientes, con quien la víctima tenga un vínculo afectivo;
 
-b) Amenazar con ocultar, retener o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+b) Amenazar con ocultar, retener o sustraer de manera temporal o permanente a sus hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
 
 c) Utilizar a hijas y/o hijos para obtener información respecto de la madre;
 
@@ -291,11 +291,21 @@ d) Promover, incitar o fomentar actos de violencia física de hijas y/o hijos en
 
 e) Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
 
-f) Ocultar, retener o sustraer a hijas y/o hijos así como a familiares o personas allegadas;
+f) Ocultar, retener o sustraer a hijas y/o hijos sin autorización de la madre, así como a familiares, personas allegadas o seres sintientes;
 
-g) Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común; y
+g) Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común, así como para obstaculizar, limitar o excluir los derechos de maternidad de la víctima;
 
-h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos; y
+h) Condicionar o suspender el cumplimiento de las obligaciones alimentarias, médicas, educativas, terapéuticas o de cuidado hacia sus hijas e hijos;
+
+i) Amenazar a la madre con no volver a ver a sus hijas e hijos;
+
+j) Limitar o restringir la convivencia y comunicación a hijas o hijos con la madre;
+
+k) Dilatar procesos jurídicos existentes mediante recursos notoriamente improcedentes y/o evasión de requerimientos judiciales para los procesos de la convivencia, o la guarda y custodia, con la finalidad de afectar o romper el vínculo materno filial;
+
+l) Negar la entrega de hijas e hijos a la madre, cuando exista una sentencia provisional o definitiva a favor de ésta, en más de tres requerimientos de una autoridad judicial; y
+
+m) Provocar o inducir riesgos graves a la vida o la salud de las hijas e hijos con el propósito de dañar a la madre, incluyendo situaciones que puedan derivar en la muerte o suicidio de la madre y/o de sus hijas e hijos.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2024)</small>
 
@@ -2260,3 +2270,13 @@ P.O. 7 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 30138/LXIV /26 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 11 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 30151/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA AL ARTÍCULO 10 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO; REFORMA EL ARTÍCULO 455 QUÁTER DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; Y CREA EL CAPÍTULO I BIS, DE LA VIOLENCIA VICARIA, EN EL TÍTULO DÉCIMO SEGUNDO, DELITOS CONTRA EL ORDEN DE LA FAMILIA, SE REFORMAN LOS ARTÍCULOS 176-TER 1 Y 176-TER 2 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DEL ESTADO DE JALISCO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
