@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-tribunal-de-justicia-administrativa-del-122648
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-18"
-last_updated: "2025-12-24"
+last_updated: "2026-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE MAYO DE 2026.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el martes 18 de julio de 2017.
 
@@ -101,7 +101,9 @@ No será aplicable lo dispuesto en la presente fracción en todos aquellos casos
 
 VII.- El recurso de reclamación, en términos de su reglamento interior, en contra de los autos de admisión o desechamiento de la demanda ante el tribunal o de su ampliación y del auto que admita o deseche la contestación o su ampliación, así como del que admita o rechace pruebas.
 
-VIII.- Los juicios que promueva la Administración Pública estatal o municipal, o sus autoridades, para que sean modificadas las resoluciones administrativas o fiscales favorables a un particular, provenientes de autoridades diferentes a este tribunal, en términos del reglamento respectivo.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+VIII.- Los juicios de lesividad que promueva la Administración Pública estatal o municipal, o las autoridades, para que las resoluciones administrativas o fiscales favorables a un particular, provenientes de autoridades diferentes a este tribunal, sean modificadas o declaradas nulas, en términos de la normatividad respectiva.
 
 IX.- La imposición, en los términos que disponga la ley, de las sanciones a los servidores públicos por responsabilidades administrativas graves, con excepción de los servidores públicos del Poder Judicial, y a los particulares que participen en actos vinculados con faltas administrativas graves, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos estatales o municipales.
 
@@ -113,9 +115,9 @@ XII.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2025)
 
 XIII.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2025)
 
-> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-XIV.- Las suspensiones del acto impugnado, por cuerda separada a cargo de la persona magistrada ponente, en términos de esta ley, de la Ley de lo Contencioso Administrativo del Estado de Yucatán y demás normativa aplicable.
+XIV.- Las medidas cautelares respecto al acto impugnado, por cuerda separada a cargo de la persona magistrada ponente, en términos de esta ley, de la Ley de lo Contencioso Administrativo del Estado de Yucatán y demás normativa aplicable.
 
 XV.- El incumplimiento de las sentencias del tribunal, conforme a lo que establezca el reglamento interior y demás normativa aplicable.
 
@@ -309,7 +311,9 @@ XXIII.- Determinar la suspensión de labores del tribunal en días hábiles.
 
 XXIV.- Ordenar la publicación de los acuerdos generales y demás disposiciones reglamentarias, que se estimen de interés general, en el diario oficial del estado.
 
-XXV.- Dictar sentencia interlocutoria en los incidentes que procedan, respecto de los asuntos de su competencia, con excepción de lo relativo a la suspensión.
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
+
+XXV.- Dictar sentencia interlocutoria en los incidentes que procedan, respecto de los asuntos de su competencia, con excepción de lo relativo a las medidas cautelares.
 
 XXVI.- Conocer y resolver los recursos que sean interpuestos en contra de los acuerdos y resoluciones, que en el ámbito de su competencia emitan sus magistrados en los asuntos en los que hayan sido designados ponentes.
 
@@ -453,13 +457,13 @@ En caso de que dos personas magistradas soliciten la sesión, una vez recibida l
 
 En caso de que pasadas las veinticuatro horas la persona magistrada presidenta no hubiera convocado, las personas magistradas que hubieran solicitado la sesión instruirán a la persona secretaria de acuerdos para que, de manera extraordinaria y excepcional, convoque a la sesión a las personas magistradas, en términos de lo previsto en el párrafo anterior.
 
-> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-XIII.- En los casos que correspondan a su ponencia, resolver acerca de las suspensiones de los actos impugnados ante el tribunal.
+XIII.- En los casos que correspondan a su ponencia, resolver acerca de las medidas cautelares relativas a los actos impugnados ante el tribunal.
 
-> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O. 25 DE MAYO DE 2026)</small>
 
-XIV.- Emitir las disposiciones necesarias para dar cumplimiento a sus resoluciones relativas a la suspensión de los actos impugnados ante el tribunal.
+XIV.- Emitir las disposiciones necesarias para dar cumplimiento a sus resoluciones relativas a las medidas cautelares respecto a los actos impugnados ante el tribunal.
 
 XV.- Las demás que establezcan las leyes y la normativa interna.
 
@@ -1094,3 +1098,21 @@ Nombramiento
 Artículo tercero. El Congreso deberá expedir la convocatoria para la designación del titular del órgano de control interno del Tribunal de Justicia Administrativa del Estado de Yucatán dentro de un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
 
 La persona titular del órgano de control interno del Tribunal de Justicia Administrativa del Estado de Yucatán en funciones, continuará ejerciendo el cargo hasta en tanto el Congreso realice el nombramiento a que se refiere el primer párrafo de este artículo.
+
+D.O. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 188/2026 POR EL QUE SE MODIFICAN LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE YUCATÁN, LA LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN Y LA LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE YUCATÁN, EN MATERIA DE JUICIO DE LESIVIDAD Y MEDIDAS CAUTELARES”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de las disposiciones del capítulo XIII de la Ley de lo Contencioso Administrativo del Estado de Yucatán con relación a las notificaciones a través del boletín jurisdiccional que lo harán conforme al plazo establecido en el artículo tercero transitorio de este decreto.
+
+Segundo. Procedimiento y asuntos en trámite
+
+Los procedimientos, así como los demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se substanciarán y resolverán hasta su total conclusión conforme a las disposiciones anteriores que les sean aplicables.
+
+Artículo Tercero. Implementación de Boletín Jurisdiccional.
+
+El Tribunal de Justicia Administrativa del Estado de Yucatán contará con un plazo de hasta noventa días naturales contados a partir de la publicación del presente decreto, para crear e implementar el Boletín Jurisdiccional.
+
+En tanto se implementa el boletín jurisdiccional las notificaciones que lleve a cabo el Tribunal de Justicia Administrativa del Estado de Yucatán, continuarán realizándose conforme a las disposiciones vigentes previo a la entrada en vigor de este decreto.
