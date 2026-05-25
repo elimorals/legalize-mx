@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2026-05-11"
+last_updated: "2026-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -501,9 +501,11 @@ La violencia de género contra las mujeres en el ámbito institucional, comprend
 
 En los órdenes de gobierno estatal y municipal, los Poderes Ejecutivo, Legislativo y Judicial, así como los Órganos Constitucionales Autónomos, a través de los cuales se manifiesta el ejercicio del poder público, tienen la obligación de organizar la estructura gubernamental de tal manera que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 16.
 
-El Estado debe garantizar a las mujeres la erradicación de la violencia social e institución a través de:
+El Estado debe garantizar a las mujeres la erradicación de la violencia social e institucional a través de:
 
 I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
 
@@ -519,9 +521,9 @@ III. El establecimiento de un banco de datos sobre las órdenes de protección y
 
 IV. El diseño de políticas públicas encaminadas a la prevención, sanción y erradicación de todo tipo de violencia contra las mujeres, las adolescentes y las niñas.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2026)</small>
 
-Artículo 16 bis.- Las conductas, acciones y omisiones que constituyan violencia política en contra de las mujeres en razón de género conforme a las disposiciones del Código Electoral para el Estado de Aguascalientes, se sancionarán en los términos establecidos en el mismo, así como el Código Penal para el Estado de Aguascalientes y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, según corresponda.
+Artículo 16 bis.- Las conductas, acciones y omisiones que constituyan violencia política en contra de las mujeres en razón de género conforme a las disposiciones del Código Electoral para el Estado de Aguascalientes, se sancionarán en los términos establecidos en el mismo, y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, según corresponda.
 
 ### CAPÍTULO III. De la Prevención, Atención y Sanción
 
@@ -729,21 +731,21 @@ Artículo 29 bis. Las medidas u órdenes de protección podrán solicitarse en c
 
 Para efectos del párrafo anterior, las autoridades administrativas, la Fiscalía General del Estado y el Poder Judicial celebrarán convenios de colaboración con las entidades públicas para garantizar la efectiva protección de las mujeres, adolescentes, niñas y niños conforme a los principios rectores de las medidas u órdenes de protección.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2026)</small>
 
 Artículo 29 ter. Las medidas u órdenes de protección administrativas, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes:
 
-IV (SIC). El traslado de las víctimas a donde se requiera, cuantas veces sea necesario en las diferentes diligencias para garantizar su seguridad y protección;
+I. El traslado de las víctimas a donde se requiera, cuantas veces sea necesario en las diferentes diligencias para garantizar su seguridad y protección;
 
-V. Custodia personal y o domiciliaria a las víctimas, que estará a cargo de los cuerpos policiacos adscritos a la Fiscalía General del Estado, según corresponda.
+II. Custodia personal y o domiciliaria a las víctimas, que estará a cargo de los cuerpos policiacos adscritos a la Fiscalía General del Estado, según corresponda.
 
 En caso de que no exista disponibilidad podrá apoyarse en las instituciones de seguridad pública del Estado y Municipios.
 
 Esta medida se aplicará bajo la más estricta responsabilidad del Ministerio Público;
 
-VI. Proporcionar a las mujeres, o las niñas, en situación de violencia y en su caso a sus hijas e hijos o personas que dependan de la víctima, alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta ley;
+III. Proporcionar a las mujeres, o las niñas, en situación de violencia y en su caso a sus hijas e hijos o personas que dependan de la víctima, alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta ley;
 
-IV (SIC). Proporcionar los recursos económicos para garantizar su seguridad personal, transporte, alimentos, comunicación, mudanza y los trámites oficiales que requiera entre otros;
+IV. Proporcionar los recursos económicos para garantizar su seguridad personal, transporte, alimentos, comunicación, mudanza y los trámites oficiales que requiera entre otros;
 
 V. Canalizar y trasladar sin demora alguna a las mujeres, o las niñas, en situación de violencia sexual a las instituciones que integran el sistema estatal de salud para que provean gratuitamente y de manera inmediata los servicios de:
 
@@ -795,41 +797,41 @@ XXIII. Además de las anteriores, aquellas y cuantas sean necesarias para salvag
 
 Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección para la víctima.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2026)</small>
 
 Artículo 29 quáter.- Las medidas u órdenes de naturaleza jurisdiccional, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes acciones:
 
-XVII (SIC). La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a la persona agresora o su familia puedan ubicar a la víctima;
+I. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a (sic) la persona agresora o su familia puedan ubicar a la víctima;
 
-XVIII. El uso de medios o dispositivos electrónicos para impedir el contacto directo de la persona agresora con la víctima;
+II. El uso de medios o dispositivos electrónicos para impedir el contacto directo de la persona agresora con la víctima;
 
-XIX. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y en su caso, de sus hijas e hijos;
+III. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y en su caso, de sus hijas e hijos;
 
-XX. Medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares. Tratándose de niñas hay una prohibición absoluta de transmitir datos e imágenes que permitan su identificación;
+IV. Medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares. Tratándose de niñas hay una prohibición absoluta de transmitir datos e imágenes que permitan su identificación;
 
-XXI. Prohibir el acceso a la persona agresora al domicilio, permanente o temporal de la mujer, o la niña, en situación de violencia, así como acercarse al lugar de trabajo, estudio o cualquier lugar que frecuente;
+V. Prohibir el acceso a la persona agresora al domicilio, permanente o temporal de la mujer, o la niña, en situación de violencia, así como acercarse al lugar de trabajo, estudio o cualquier lugar que frecuente;
 
-XXII. Embargo preventivo de bienes de la persona agresora, a efecto de garantizar las obligaciones alimentarias;
+VI. Embargo preventivo de bienes de la persona agresora, a efecto de garantizar las obligaciones alimentarias;
 
-XXIII. La desocupación por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, y en su caso el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad;
+VII. La desocupación por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, y en su caso el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad;
 
-XXIV. Cumplimiento de la obligación alimentaria provisional e inmediata;
+VIII. Cumplimiento de la obligación alimentaria provisional e inmediata;
 
-XXV. La notificación al superior jerárquico inmediato, cuando la persona agresora sea servidora pública y en el ejercicio de su cargo, comisión o servicio, se le involucre en un hecho de violencia contra las mujeres. Esta orden será emitida en todos los casos donde la persona agresora pertenezca a los cuerpos policiacos, militares o de seguridad, ya sea corporaciones públicas o privadas;
+IX. La notificación al superior jerárquico inmediato, cuando la persona agresora sea servidora pública y en el ejercicio de su cargo, comisión o servicio, se le involucre en un hecho de violencia contra las mujeres. Esta orden será emitida en todos los casos donde la persona agresora pertenezca a los cuerpos policiacos, militares o de seguridad, ya sea corporaciones públicas o privadas;
 
-XXVI. La obligación de la persona agresora de presentarse periódicamente ante el órgano jurisdiccional que emitió la orden;
+X. La obligación de la persona agresora de presentarse periódicamente ante el órgano jurisdiccional que emitió la orden;
 
-XXVII. La colocación de localizadores electrónicos, previo consentimiento de la persona agresora;
+XI. La colocación de localizadores electrónicos, previo consentimiento de la persona agresora;
 
-XXVIII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
+XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
 
-XXIX. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima;
+XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima;
 
-XXX. Ordenar la restitución, recuperación o entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de forma ilícita;
+XIV. Ordenar la restitución, recuperación o entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de forma ilícita;
 
-XXXI. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes; y
+XV. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes; y
 
-XXXII. Las demás que se requieran para brindar una protección integral a la víctima.
+XVI. Las demás que se requieran para brindar una protección integral a la víctima.
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
 
@@ -1097,15 +1099,19 @@ VII. Las demás que le señale la presente Ley y ordenamientos aplicables.
 
 El Gobernador del Estado, como Presidente Honorario del Consejo, expedirá el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres y propondrá en el Proyecto de Presupuesto de Egresos del Estado una partida presupuestaria para garantizar su cumplimiento. Dicho Programa se publicará en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 41.
 
-Son atribuciones del Presidente Ejecutivo del Consejo:
+Son atribuciones de la Presidencia Ejecutiva del Consejo:
 
 I. Conducir la política pública en la materia;
 
 II. Presidir las sesiones del Consejo;
 
-III. Presentar a la consideración del Gobernador del Estado, el Proyecto de Programa para su aprobación;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2026)</small>
+
+III. Presentar a la consideración de la persona titular del Poder Ejecutivo el Proyecto de Programa para su aprobación;
 
 IV. Elaborar el proyecto de reglamento de la presente Ley y presentarlo a los miembros del Consejo para su consideración y aprobación en su caso;
 
@@ -1371,11 +1377,11 @@ X. Impulsar mecanismos de promoción, protección y respeto de los derechos pol�
 
 XI. Las demás que le asigne el Programa.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 56.
 
-Forman parte del Sector Salud:
-
-I. El Instituto de Salud del Estado.
+Forma parte del Sector Salud, el Instituto de Servicios de Salud del Estado de Aguascalientes.
 
 ###### Artículo 57.
 
@@ -1401,15 +1407,17 @@ VIII. Las demás que le asigne el Programa.
 
 Forman parte del Sector de Seguridad Pública y Justicia:
 
-I. La Secretaria de Seguridad Pública;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2026)</small>
+
+I. La Secretaría de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
 II-. La Fiscalía General del Estado; y
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2026)</small>
 
-III. La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes.
+III. La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes de Aguascalientes.
 
 ###### Artículo 59.
 
@@ -1641,9 +1649,9 @@ I. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 II. La Dirección General del Registro Civil;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2026)</small>
 
-III. La Secretaría de la Juventud; y
+III. El Instituto Aguascalentense de la Juventud; y
 
 IV. El Instituto del Deporte del Estado de Aguascalientes.
 
@@ -1861,9 +1869,9 @@ II.- Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos pol�
 
 III.- Realizar la difusión en los medios de comunicación de las conductas, acciones u omisiones que conllevan a la violencia política de género, así como la prevención, formas de denuncia y conciencia sobre la erradicación de ésta;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2026)</small>
 
-IV.- Capacitar a las personas integrantes de sus organismos y demás personal adscrito al propio Instituto o funcionarios electorales, para prevenir y en su caso erradicar la violencia política de género;
+IV.- Capacitar a las personas integrantes de sus organismos y demás personal adscrito al propio Instituto o personas funcionarias electorales, para prevenir y en su caso erradicar la violencia política de género;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2020)</small>
 
@@ -2352,3 +2360,9 @@ P.O. 11 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 478.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 497. SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
