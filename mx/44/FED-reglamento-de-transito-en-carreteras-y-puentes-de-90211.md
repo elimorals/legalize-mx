@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transito-en-carreteras-y-puentes-de-90211"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-22"
-last_updated: "2012-11-22"
+last_updated: "2026-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90211&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-11-14"
 
 REGLAMENTO DE TRÁNSITO EN CARRETERAS Y PUENTES DE JURISDICCIÓN FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2026.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 22 de noviembre de 2012.
 
@@ -57,7 +57,9 @@ V. AUTOMÓVIL, el vehículo automotor de cuatro llantas y capacidad de hasta cin
 
 VI. BICICLETA, el vehículo de dos llantas en orden lineal que es accionado por el movimiento de las piernas de su conductor;
 
-VII. BOLETA DE INFRACCIÓN, el formato elaborado por la Secretaría y llenado por el Policía Federal, en donde se hace constar una infracción al presente Reglamento y su consecuente sanción;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+VII. BOLETA DE INFRACCIÓN, el formato emitido por la Secretaría, el cual debe ser requisitado por la persona integrante de la Guardia Nacional, para hacer constar una infracción al presente Reglamento y su correspondiente sanción;
 
 VIII. CAMIÓN, el vehículo automotor de seis o más llantas, destinado al transporte de carga;
 
@@ -109,27 +111,41 @@ XVII. CRUCE, el área donde dos o más vías federales se unen, inclusive con la
 
 XVIII. CUATRIMOTO, el vehículo automotor de cuatro ruedas que puede o no presentar sistema de dirección tipo automóvil;
 
-XIX. CUOTA DIARIA, la cantidad en dinero equivalente a un día de salario mínimo general vigente para el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
 
-XX. DICTAMEN TÉCNICO, la opinión técnica que el Policía Federal formula por escrito acerca de las causas que dieron origen a un hecho de tránsito;
+XIX. CUOTA DIARIA, la cantidad en dinero equivalente a una Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+XX. DICTAMEN TÉCNICO, la opinión que formula por escrito la persona integrante de la Guardia Nacional acerca de las causas que dieron origen al hecho de tránsito;
 
 XXI. DISPOSITIVOS PARA EL CONTROL DEL TRÁNSITO, todo señalamiento que se utilice para regular y guiar el tránsito;
 
 XXII. GRÚA INDUSTRIAL, maquina de diseño especial montada sobre un vehículo o autopropulsable para efectuar maniobras de carga, descarga, montaje y desmontaje;
 
-XXIII. HECHO DE TRÁNSITO, suceso relacionado con el movimiento de vehículos, personas, semovientes o cosas en las vías federales, que tenga trascendencia jurídica;
+> <small>(ADICIONADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+XXII Bis. GUARDIA NACIONAL, la persona integrante de la Guardia Nacional con facultades de inspección, seguridad y vigilancia en materia de tránsito federal y para determinar las sanciones por infracciones a las disposiciones de este Reglamento cuando se encuentren o circulen en vías federales;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+XXIII. HECHO DE TRÁNSITO, evento relacionado con el tránsito de vehículos, de personas, de fenómenos naturales, de semovientes o de cosas en las vías federales, que genera o no daños en la vida, la salud, el patrimonio; o que produzca la obstrucción de la circulación vehicular, o que tenga trascendencia jurídica;
 
 XXIV. INTERSECCIÓN, la superficie de rodamiento común a dos o más vías federales;
 
 XXV. LEY, la Ley de Caminos, Puentes y Autotransporte Federal;
 
-XXVI. LUCES DEMARCADORAS, las que emiten hacia los lados las lámparas colocadas en los extremos y centro de los autobuses, camiones y remolques para delimitar sus dimensiones (largo, ancho y alto);
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+XXVI. LUCES DEMARCADORAS, las que emiten las lámparas colocadas en los costados de los autobuses, camiones y remolques para delimitar su longitud y altura;
 
 XXVII. LUCES DE ESTACIONAMIENTO, las de baja intensidad emitidas por dos faros accesorios colocados en el frente y en la parte posterior del vehículo y que pueden ser de haz fijo o intermitente;
 
 XXVIII. LUCES DE FRENO, las que emiten el haz por la parte posterior del vehículo cuando se oprime el pedal del freno, de color rojo;
 
-XXIX. LUCES DE GÁLIBO, las que emiten hacia los lados las lámparas colocadas en los extremos y centro de los autobuses, camiones y remolques para delimitar sus dimensiones (largo, ancho y alto);
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+XXIX. LUCES DE GÁLIBO, las que emiten las lámparas colocadas lo más próximo a los bordes superiores de las partes trasera y delantera de los autobuses, camiones y remolques para indicar su altura y anchura;
 
 XXX. LUCES DE MARCHA ATRÁS, las que iluminan la vía federal, colocadas en la parte posterior del vehículo, durante su movimiento hacia atrás;
 
@@ -139,7 +155,9 @@ XXXII. LUCES PRINCIPALES, las que emiten los faros colocados en la parte delante
 
 XXXIII. LUCES ROJAS POSTERIORES, las emitidas por lámparas colocadas en la parte posterior del vehículo o del remolque o semirremolque y que se encienden simultáneamente con los faros principales o con los de estacionamiento;
 
-XXXIV. MATRICULAR, el acto de inscribir un vehículo en la oficina de tránsito correspondiente con el fin de obtener tarjeta de circulación, placa y engomado o, en su caso, la documentación que autoriza su tránsito en las vías federales;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+XXXIV. MATRICULAR, el acto de inscribir un vehículo en la oficina de tránsito correspondiente o ante la Secretaría de Infraestructura, Comunicaciones y Transportes, con el fin de obtener tarjeta de circulación, placa y engomado o, en su caso, la documentación que autoriza su tránsito en las vías federales;
 
 XXXV. MIDIBÚS, el vehículo automotor de seis o más llantas, de estructura integral o convencional con capacidad mínima de 16 y máxima de 30 personas;
 
@@ -155,17 +173,21 @@ XL. PEATÓN, la persona que transita a pie por las vías federales, así como la
 
 XLI. PESO BRUTO VEHICULAR, la suma del peso del vehículo y el peso de la carga que éste lleve, en el caso de vehículos de carga. En el caso de vehículos de pasaje, la suma del peso vehicular y el peso de los pasajeros, equipaje y paquetería;
 
-XLII. POLICÍA(S) FEDERAL(ES), el servidor público adscrito a la Policía Federal con funciones de inspección, seguridad, vigilancia y facilitador del tránsito en las vías federales;
+XLII. (DEROGADA, D.O.F. 25 DE MAYO DE 2026)
 
 XLIII. PUENTES, aquéllos que tengan el carácter de vías generales de comunicación, sus servicios auxiliares, las obras, construcciones e instalaciones que les sean conexas, incluyendo el derecho de vía, para salvar obstáculos topográficos;
 
-XLIV. PLACAS, las láminas metálicas de identificación vehicular que otorgan las oficinas de tránsito correspondientes o la Secretaría de Comunicaciones y Transportes, que acreditan que el vehículo fue matriculado;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+XLIV. PLACAS, las láminas metálicas de identificación vehicular que otorgan las oficinas de tránsito correspondientes o la Secretaría de Infraestructura, Comunicaciones y Transportes, que acreditan que el vehículo fue matriculado;
 
 XLV. REMOLQUE, el vehículo con eje delantero y trasero, no dotado de medios de propulsión y destinado a ser jalado por un vehículo automotor o acoplado a un semirremolque;
 
 XLVI. REMOLQUE LIGERO, el vehículo no dotado de medios de propulsión cuyo peso bruto vehicular no exceda de 750 kilogramos y destinado a ser jalado por un vehículo automotor;
 
-XLVII. SECRETARÍA, la Secretaría de Seguridad Pública;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+XLVII. SECRETARÍA, la Secretaría de la Defensa Nacional;
 
 XLVIII. SEMIRREMOLQUE, el vehículo sin eje delantero, destinado a ser acoplado a un tractocamión de manera que sea jalado y parte de su peso sea soportado por éste;
 
@@ -209,21 +231,29 @@ LXVII. ZONA DE CRUCE DE PEATONES, el área de la superficie de rodamiento de una
 
 LXVIII. ZONA DE SEGURIDAD, el área demarcada sobre la superficie de rodamiento de una vía federal que está destinada para el uso exclusivo de peatones.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 3.
 
-Las disposiciones en materia de tránsito en las vías federales deberán garantizar la seguridad pública y la fluidez vehicular.
+Las disposiciones en materia de tránsito en las vías federales deberán garantizar la seguridad pública y la fluidez vehicular a cargo de la Secretaría, a través de la Guardia Nacional y de la Secretaría de Infraestructura, Comunicaciones y Transportes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 4.
 
-La aplicación de las disposiciones del presente Reglamento es competencia de la Secretaría de Comunicaciones y Transportes y de la Secretaría de la manera siguiente:
+La aplicación de las disposiciones del presente Reglamento es competencia de la Secretaría de Infraestructura, Comunicaciones y Transportes y de la Secretaría, a través de la Guardia Nacional, conforme a lo siguiente:
 
-A. Corresponde a la Secretaría de Comunicaciones y Transportes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+A. Corresponde a la Secretaría de Infraestructura, Comunicaciones y Transportes:
 
 I. Operar la instalación, mantenimiento y actualización de los dispositivos para el control del tránsito, y
 
 II. Realizar todos los actos administrativos necesarios para matricular, conforme a las disposiciones jurídicas aplicables.
 
-B. Corresponde a la Secretaría, a través de la Policía Federal:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+B. Corresponde a la Secretaría, a través de la Guardia Nacional:
 
 I. Preservar la vida y la integridad física de los usuarios de las vías federales;
 
@@ -237,7 +267,9 @@ V. Prevenir hechos de tránsito que tengan como resultado daños o perjuicios a 
 
 VI. Dirigir el tránsito mediante el uso de las posiciones corporales, los ademanes y las señales visibles y audibles de que trata este Reglamento y las indicaciones específicas a los conductores y peatones que el caso amerite;
 
-VII. Sancionar a los usuarios de las vías federales que violen las disposiciones de este Reglamento;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+VII. Sancionar a las personas usuarias de las vías federales que infrinjan las disposiciones de este Reglamento;
 
 VIII. Vigilar que no sean dañadas las vías federales y, en general, cualquier bien de propiedad nacional que se encuentre o transite en ellas;
 
@@ -247,7 +279,9 @@ X. Celebrar convenios de coordinación con autoridades Federales, de las Entidad
 
 XI. Proporcionar a las autoridades competentes y a los usuarios de las vías federales, información acerca de situaciones anormales del tránsito, sea por daños, condiciones climatológicas, hechos de tránsito, desórdenes colectivos o cualquier otra circunstancia que ponga en peligro la seguridad del tránsito;
 
-XII. Coadyuvar con las autoridades investigadoras de los delitos, mediante la persecución y captura de delincuentes en el caso de flagrancia y prestar, en general, el apoyo que le sea solicitado por aquéllas;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+XII. Coadyuvar con las autoridades investigadoras de los delitos, mediante la persecución y detención de personas en el caso de flagrancia y prestar, en general, el apoyo que le sea solicitado por dichas autoridades;
 
 XIII. Colaborar con las autoridades federales o locales competentes, en la salvaguarda de la seguridad nacional y en la atención de desastres y emergencias que pongan en peligro a la población;
 
@@ -619,11 +653,15 @@ V. Luz roja intermitente, indicación de que el tránsito vehicular que se encue
 
 VI. Luz ámbar intermitente, señal que autoriza a los conductores y peatones a continuar su marcha en una intersección, vía federal o zona de cruce de peatones, con las precauciones necesarias para evitar un accidente en la vía federal.
 
-En los casos de luz roja además se deberá observar lo señalado en lo dispuesto para el control de tránsito que realicen los Policías Federales.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+En los casos de luz roja, además se deberá observar lo dispuesto para el control de tránsito que realicen las personas integrantes de la Guardia Nacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 18.
 
-La inobservancia de las conductas ordenadas a los conductores y a los peatones en los términos del artículo 17 de este Reglamento, será sancionada por los Policías Federales en los siguientes términos:
+La inobservancia de las conductas ordenadas a los conductores y a los peatones en los términos del artículo 17 de este Reglamento, será sancionada por las personas integrantes de la Guardia Nacional en los términos siguientes:
 
 I. Tratándose de conductores de vehículos:
 
@@ -651,7 +689,9 @@ I. PASE, luz verde fija con leyenda o símbolo para autorizar el cruce de la ví
 
 II. NO PASE, luz roja fija o intermitente con leyenda o símbolo que ordene la abstención de iniciar el cruce de la vía federal transversal a aquélla en la que los peatones se encuentren. Quienes hayan reiniciado la marcha bajo la indicación de “PASE”, continuarán hasta situarse en la acera o zona de seguridad inmediata, acelerando su paso en forma prudente.
 
-Los peatones que desobedezcan las órdenes de los semáforos específicos para el tránsito peatonal, serán sancionados mediante amonestación verbal que les haga el Policía Federal.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+Los peatones que no respeten las señales de los semáforos específicos para el tránsito peatonal, serán sancionados mediante amonestación verbal que les haga la persona integrante de la Guardia Nacional.
 
 #### SECCIÓN TERCERA. DE LOS SEMÁFOROS PARA CONTROL DE CIRCULACIÓN EN CARRILES
 
@@ -675,11 +715,15 @@ Los conductores que desobedezcan la orden de alto de semáforos en cruceros de f
 
 Cuando se trate de vehículos destinados al servicio de autotransporte federal, sus servicios auxiliares, transporte privado y público local, se sancionará al conductor mediante multa de 100 a 120 veces la cuota diaria establecida por este Reglamento.
 
-### CAPÍTULO VIII. DEL CONTROL DE TRÁNSITO POR LOS POLICÍAS FEDERALES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 25 DE MAYO DE 2026)</small>
+
+### CAPÍTULO VIII. DEL CONTROL DE TRÁNSITO POR LAS PERSONAS INTEGRANTES DE LA GUARDIA NACIONAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 22.
 
-Cuando el tránsito sea dirigido por los Policías Federales o por policías de las corporaciones estatales o municipales en auxilio de aquéllos, se utilizarán los siguientes ademanes y posiciones, acompañados de señales acústicas o visuales congruentes con aquéllos:
+Cuando el tránsito sea dirigido por las personas integrantes de la Guardia Nacional o por policías de las corporaciones estatales o municipales en auxilio de la Guardia Nacional, se utilizarán los siguientes ademanes y posiciones, acompañados de señales acústicas o visuales congruentes con dichos ademanes y posiciones:
 
 I. La posición de frente o la de espalda para indicar que:
 
@@ -693,7 +737,9 @@ a) Los conductores deben seguir de frente o dar vuelta a la derecha, si no exist
 
 b) Los peatones pueden cruzar la vía federal transversal a aquélla por la que circulan.
 
-III. La posición lateral del Policía Federal con un brazo colocado horizontalmente con la mano extendida hacia arriba del lado de donde procede la circulación para indicar que:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+III. La posición lateral de la persona integrante de la Guardia Nacional con un brazo colocado horizontalmente con la mano extendida hacia arriba del lado de donde procede la circulación para indicar que:
 
 a) Los conductores deben tomar sus precauciones porque está a punto de ser ordenado el alto de la circulación, y
 
@@ -715,13 +761,17 @@ d) Tres toques largos para el alto general de la circulación, y
 
 e) Una serie de toques cortos para activar el tránsito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 23.
 
-Cuando los ademanes de los Policías Federales encargados de dirigir el tránsito no sean claramente visibles a una distancia de 100 metros, los harán con el apoyo de una linterna que emita luz roja.
+Cuando los ademanes de las personas integrantes de la Guardia Nacional encargadas de dirigir el tránsito no sean claramente visibles a una distancia de 100 metros, los harán con el apoyo de una linterna que emita luz roja.
 
 En este caso, las posiciones serán las señaladas en el artículo anterior y los movimientos de la linterna indicarán:
 
-a) Alto a los vehículos que circulen en dirección transversal a un movimiento pendular por el frente del Policía Federal y siga a los que circulen en la misma dirección de éste, y
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+a) Alto a los vehículos que circulen en dirección transversal a un movimiento pendular por el frente de la persona integrante de la Guardia Nacional y siga a los que circulen en la misma dirección de esta, y
 
 b) Señal preventiva cuando la lámpara sea sostenida con el brazo extendido hacia arriba en posición fija.
 
@@ -1157,6 +1207,14 @@ a) Estarán provistas de dos sistemas de frenos de servicio, uno de los cuales d
 
 b) Además de los dispositivos previstos en el inciso anterior, las motocicletas que tengan tres o cuatro llantas simétricas con relación al plano longitudinal medio del vehículo, deberán estar provistas de un freno de estacionamiento que reúna las condiciones especificadas en el inciso b) de la fracción I del presente artículo.
 
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+La persona integrante de la Guardia Nacional y la Secretaría de Infraestructura, Comunicaciones y Transportes, en el ámbito de sus atribuciones, verificarán las condiciones físico-mecánicas del sistema de frenado de los vehículos destinados al servicio de autotransporte federal, sus servicios auxiliares y transporte privado conforme al procedimiento previsto en la norma oficial mexicana correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+En hechos de tránsito ocasionados por fallas en el sistema de frenado, se impondrán las sanciones correspondientes.
+
 ###### Artículo 43.
 
 El sistema de frenado de los vehículos automotores y el de cualquier vehículo que remolquen deberá:
@@ -1177,9 +1235,11 @@ El sistema de frenado deberá conservarse en buen estado de funcionamiento, proc
 
 #### SECCIÓN SÉPTIMA. DE LOS DISPOSITIVOS ACÚSTICOS
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 45.
 
-Todo vehículo automotor deberá estar provisto de una bocina que emita un sonido audible desde una distancia de 60 metros en circunstancias normales. Queda prohibido instalar bocinas u otros dispositivos de advertencia que emitan sonidos extremadamente fuertes o agudos.
+Todo vehículo automotor deberá estar provisto de una bocina que emita un sonido audible desde una distancia de 60 metros. Queda prohibido instalar bocinas u otros dispositivos de advertencia con especificaciones distintas a las del fabricante o a las previstas en las normas oficiales mexicanas correspondientes.
 
 #### SECCIÓN OCTAVA. DEL SISTEMA DE ESCAPE
 
@@ -1189,7 +1249,9 @@ Los vehículos automotores deberán estar provistos de un silenciador de escape 
 
 Queda prohibido utilizar válvulas de escape, derivaciones u otros dispositivos similares.
 
-El motor de todo vehículo deberá estar ajustado de manera que impida el escape de humo en cantidad excesiva.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+El motor de todo vehículo deberá estar en condiciones mecánicas adecuadas, a fin de cumplir con las especificaciones y requisitos establecidos en las normas oficiales mexicanas relativas al control de emisiones al ambiente.
 
 #### SECCIÓN NOVENA. DE LOS ESPEJOS RETROVISORES
 
@@ -1227,9 +1289,11 @@ SECCIÓN DECIMOSEGUNDA
 
 DE LAS LLANTAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 50.
 
-Todo vehículo automotor, remolque, semirremolque, bicicleta y triciclo deberá estar provisto de llantas de tipo neumático en condiciones que garanticen la seguridad del vehículo y proporcionen su adecuada adherencia sobre el pavimento, aun cuando se encuentre mojado. Además y a excepción de las bicicletas y las motocicletas, se deberá llevar una llanta de refacción en buen estado e inflada a la presión adecuada.
+Todo vehículo automotor, remolque, semirremolque, bicicleta y triciclo deberá estar provisto de llantas de tipo neumático en condiciones que garanticen la seguridad del vehículo y proporcionen su adecuada adherencia sobre el pavimento, aun cuando se encuentre mojado. Además, con excepción de las bicicletas y las motocicletas, se deberá llevar una llanta de refacción en buen estado e inflada conforme a las especificaciones del fabricante o a las normas oficiales mexicanas correspondientes.
 
 Las llantas no deberán tener en su periferia bloques, clavos, salientes, listones, puntas o protuberancias de cualquier material que no sea caucho y que sobresalgan de la huella de su superficie de tracción, salvo el caso de las utilizadas en maquinaria agrícola, las que podrán tener protuberancias que no dañen la carretera.
 
@@ -1361,9 +1425,11 @@ El mal funcionamiento del equipo mínimo obligatorio para cada vehículo, en ate
 
 ### CAPÍTULO I. DE LOS ASPECTOS GENERALES
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 58.
 
-Todo usuario de las vías federales está obligado a obedecer las disposiciones contenidas en el presente Reglamento, así como los dispositivos para el control del tránsito y las que deriven de las posiciones corporales, ademanes, señales visibles y audibles de los Policías Federales.
+Todo usuario de las vías federales está obligado a obedecer las disposiciones contenidas en el presente Reglamento, así como a los dispositivos para el control del tránsito y a las que deriven de las posiciones corporales, ademanes, señales visibles y audibles de las personas integrantes de la Guardia Nacional.
 
 ###### Artículo 59.
 
@@ -1373,9 +1439,13 @@ Los dispositivos para el control de tránsito serán aplicables desde el punto d
 
 Los dispositivos para el control del tránsito prevalecen sobre las reglas de tránsito.
 
-Las indicaciones de los Policías Federales predominan sobre los dispositivos para el control del tránsito y cualquier otra regla aplicable.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
-La contravención a lo establecido en los dispositivos para el control del tránsito y a las órdenes para el control del tránsito de los Policías Federales en las vías federales serán sancionadas mediante multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
+Las indicaciones de las personas integrantes de la Guardia Nacional prevalecen sobre los dispositivos para el control del tránsito y cualquier otra regla aplicable.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+La contravención a lo establecido en los dispositivos para el control del tránsito y a las órdenes para el control del tránsito de las personas integrantes de la Guardia Nacional en las vías federales será sancionada mediante multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
 
 Las sanciones anteriores se aplicarán cuando en el presente Reglamento no se establezca una sanción particular por la contravención de señales o la desobediencia de órdenes específicas.
 
@@ -1387,9 +1457,11 @@ Para el caso de conductores de vehículos de procedencia extranjera que circulen
 
 La aplicación de las multas establecidas por este Reglamento, no excluye la denuncia o querella de las conductas ilícitas de los infractores ante el Ministerio Público ni tampoco la reparación de los daños causados.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 63.
 
-Los usuarios de las vías federales deberán abstenerse de todo acto que pueda constituir un peligro para las personas o para la propiedad pública o privada.
+Las personas usuarias de las vías federales deberán abstenerse de todo acto u omisión que pueda constituir un peligro para las personas o para la propiedad pública o privada.
 
 ###### Artículo 64.
 
@@ -1425,9 +1497,11 @@ El arreo de ganado para cruzar las vías federales sólo podrá realizarse duran
 
 La omisión al cumplimiento de lo previsto en el primer párrafo de este artículo se sancionará mediante amonestación verbal.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 68.
 
-Para la realización de eventos deportivos y tránsito de caravanas de vehículos o peatones, se deberá obtener la correspondiente autorización de la Policía Federal, a través de las Coordinaciones Estatales, solicitada con la necesaria anticipación, en términos de los lineamientos de operación que emita esa institución policial.
+Para la realización de eventos deportivos y tránsito de caravanas de vehículos o peatones, se deberá obtener la autorización correspondiente de la Guardia Nacional, solicitada con anticipación, en términos de los lineamientos de operación que emita la propia Guardia Nacional.
 
 ###### Artículo 69.
 
@@ -1481,9 +1555,11 @@ IV. No oculte o disminuya la función de las luces y reflectantes que este Regla
 
 La omisión al cumplimiento de lo previsto en este artículo se sancionará con multa de 30 a 60 veces la cuota diaria que establece este Reglamento. La sanción pecuniaria se duplicará cuando el infractor conduzca un vehículo de autotransporte federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 76.
 
-La carga de mal olor o que sea repugnante a la vista será transportada en caja cerrada o debidamente cubierta.
+La carga que genere mal olor o que sea repugnante a la vista será transportada en caja cerrada o debidamente cubierta.
 
 La inobservancia de este artículo será sancionada con multa de 20 a 30 veces la cuota diaria que establece este Reglamento.
 
@@ -1509,17 +1585,23 @@ El tránsito de los vehículos de autotransporte federal, sus servicios auxiliar
 
 #### SECCIÓN PRIMERA. DE LAS REGLAS GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 80.
 
-El tránsito en las vías federales sólo podrá ser hecho por vehículos que se encuentren en un estado físico y mecánico idóneo a su tipo y modelo, que asegure razonablemente su operación y desempeño.
+El tránsito en las vías federales sólo podrá ser hecho por vehículos que se encuentren en un estado físico y mecánico idóneo que asegure razonablemente su operación y desempeño.
 
 Tratándose de vehículos destinados al autotransporte federal, sus servicios auxiliares y transporte privado, además de lo previsto en el párrafo anterior, para poder transitar requieren cumplir con las obligaciones que les impone la Ley, el Reglamento de Autotransporte Federal y Servicios Auxiliares, y las demás disposiciones generales aplicables al tipo de servicio que les corresponde.
 
-La violación de lo dispuesto por este artículo se sancionara con multa de 20 a 30 veces la cuota diaria establecida por este Reglamento.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+La violación de lo dispuesto por este artículo se sancionará con multa de 20 a 30 veces la cuota diaria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 81.
 
-Todo conductor tiene el deber de:
+Todo conductor de un vehículo automotor en vías federales deberá:
 
 I. Estar en pleno uso de sus facultades físicas y mentales, y
 
@@ -1527,19 +1609,35 @@ II. Portar su licencia de manejo vigente o el documento que la supla.
 
 La inobservancia de la fracción I, se sanciona con multa de 10 a 15 veces la cuota diaria establecida por este Reglamento; la de la fracción II, se sanciona con multa de 20 a 40 veces la misma cuota.
 
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+Para determinar la inobservancia de la fracción I, la persona integrante de la Guardia Nacional se apoyará del personal médico legista, de la unidad administrativa de la Secretaría de Infraestructura, Comunicaciones y Transportes competente en materia de medicina preventiva en el transporte o de institución pública o persona tercera autorizada por dicha Secretaría, a fin de que se certifique lo correspondiente.
+
 Respecto de las licencias para la conducción de vehículos de autotransporte federal, sus servicios auxiliares y transporte privado se aplicarán las disposiciones de la Ley y del Reglamento de Autotransporte Federal y Servicios Auxiliares, así como las demás que resulten aplicables.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 82.
 
-Los conductores que detecten una falla mecánica o la falta de combustible en su vehículo deberán tomar las medidas de seguridad para hacer una parada o estacionar el vehículo en el acotamiento.
+Los conductores que detecten una falla mecánica o la falta de combustible en su vehículo automotor deberán hacer una parada o estacionar el vehículo en el acotamiento e implementar las medidas de seguridad siguientes:
 
-La violación al presente artículo será sancionada con multa de 10 a 20 veces la cuota diaria que establece este Reglamento.
+I. Orientar el vehículo automotor en el sentido de la circulación, sin invadir la vía de rodamiento;
 
-Los vehículos que se encuentren por más de 24 horas en las condiciones a que se refiere el párrafo primero de este artículo, serán remolcados al depósito de vehículos permisionado por la Secretaría de Comunicaciones y Transportes que corresponda, para su guarda y custodia.
+II. Aplicar el freno de estacionamiento, y
+
+III. Hacer uso de señalamientos de advertencia a través de luces de estacionamiento y triángulos fluorescentes o de cualquier otro dispositivo visible para los demás conductores.
+
+La infracción al presente artículo será sancionada con multa de 10 a 20 veces la cuota diaria.
+
+Los vehículos automotores que se encuentren por más de veinticuatro horas en las condiciones a que se refiere el párrafo primero de este artículo, serán remolcados al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes que corresponda, para su guarda y custodia.
+
+No se sancionará a los conductores que hagan parada en situaciones de emergencia en lugares donde no haya acotamiento, cuando ocupen el mínimo de la superficie de rodamiento y hayan implementado las medidas de seguridad descritas en el párrafo primero de este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 83.
 
-Los conductores de vehículos destinados a los servicios de autotransporte federal, sus servicios auxiliares y transporte privado deberán portar, debidamente requisitada, la bitácora de horas de servicio a que se refieren las disposiciones administrativas aplicables.
+Los conductores de vehículos automotores destinados a los servicios de autotransporte federal, sus servicios auxiliares y transporte privado deberán portar, debidamente requisitada de forma impresa o electrónica, la bitácora de horas de servicio a que se refieren las disposiciones jurídicas aplicables.
 
 La bitácora de horas de servicio es el registro diario que contiene los datos necesarios para conocer el tiempo efectivo de conducción y determinar el descanso. Los permisionarios deberán dotar a sus conductores de dicha bitácora, la cual contendrá, cuando menos, lo siguiente:
 
@@ -1573,7 +1671,9 @@ IX. Casos de excepción en los que el conductor pueda excederse de la jornada, y
 
 X. Firmas del conductor y del permisionario o de la persona que éste designe.
 
-La falta de bitácora o la omisión de algún dato serán sancionadas conforme a lo establecido en el reglamento respectivo.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+La falta de bitácora o la omisión de algún dato será sancionada con multa de 20 a 30 veces la cuota diaria.
 
 ###### Artículo 84.
 
@@ -1589,7 +1689,9 @@ Queda prohibido que los vehículos transiten por las vías federales con placas 
 
 El engomado de identificación vehicular deberá estar colocado en alguna de las ventanillas en un lugar claramente visible desde el exterior, pero que no obstruya el campo visual del conductor.
 
-El original de la tarjeta de circulación deberá llevarse en el vehículo y el conductor está obligado a entregarla, para su revisión, al Policía Federal que la solicite o al servidor público comisionado por la Secretaría de Comunicaciones y Transportes, referido en el artículo 90 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+El conductor está obligado a entregar la tarjeta de circulación, para su revisión, a la persona integrante de la Guardia Nacional que la solicite o a la persona servidora pública comisionada por la Secretaría de Infraestructura, Comunicaciones y Transportes, a que se refiere el artículo 90 de este Reglamento, la cual será devuelta al término de su revisión.
 
 La violación al presente artículo se sancionará con lo señalado en el artículo 86 del presente Reglamento.
 
@@ -1605,7 +1707,9 @@ IV. Vehículos de las fuerzas armadas del País, y
 
 V. Motocicletas, cuatrimotos y trimotos, así como bicicletas y triciclos que no requieran placas, engomado ni tarjeta de circulación conforme a las disposiciones aplicables.
 
-La Secretaría de Comunicaciones y Transportes establecerá las características y especificaciones de las placas, engomados y tarjetas de circulación de todos los vehículos automotores, remolques y semirremolques matriculados en el país y asignará la numeración que corresponda a cada entidad federativa. Las características y especificaciones serán uniformes para cada clase de vehículos y servicio al que estén destinados.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+La Secretaría de Infraestructura, Comunicaciones y Transportes establecerá las características y especificaciones de las placas, los engomados y las tarjetas de circulación de todos los vehículos automotores, remolques, semirremolques y sistemas de acoplamiento matriculados en el país y asignará la numeración que corresponda a cada entidad federativa. Las características y especificaciones serán uniformes para cada clase de vehículos y servicio al que estén destinados.
 
 ###### Artículo 86.
 
@@ -1614,6 +1718,16 @@ La falta parcial o total de placas metálicas de identificación vehicular, tarj
 I. 15 a 20 veces la cuota diaria establecida por este Reglamento, tratándose de vehículos de servicio particular, y
 
 II. 30 a 40 veces la cuota diaria establecida por este Reglamento, tratándose de vehículos destinados al servicio de autotransporte federal, sus servicios auxiliares y transporte privado.
+
+> <small>(ADICIONADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+###### Artículo 86 Bis.
+
+No se sancionará la falta parcial o total de placas metálicas de identificación vehicular, tarjeta de circulación o, en su caso, engomado, vigentes, cuando se presente:
+
+I. Acta ministerial levantada por el robo o extravío de las placas, tarjeta de circulación o engomado, siempre que su expedición no exceda de quince días naturales, y
+
+II. Constancia original que acredite haber realizado el trámite de reposición ante la autoridad competente o su refrendo respectivo, cuando su expedición no exceda de treinta días naturales.
 
 ###### Artículo 87.
 
@@ -1631,15 +1745,19 @@ La internación legal a territorio nacional de los vehículos que transiten con 
 
 En caso de violación a lo dispuesto en el párrafo que antecede, además de la imposición de las sanciones pecuniarias que apliquen en materia de tránsito, se dará aviso a las autoridades fiscales y de las del Instituto Nacional de Migración que correspondan. El conductor extranjero será entregado a la autoridad migratoria y el vehículo remitido al depósito más cercano para su resguardo y custodia.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 90.
 
-La Secretaría de Comunicaciones y Transportes, a través de servidores públicos comisionados, inspeccionará y verificará en centros fijos de verificación de peso y dimensiones, que los vehículos destinados al servicio de autotransporte federal, sus servicios auxiliares y los de transporte privado, cumplan con las disposiciones de peso, dimensiones y capacidad de acuerdo con lo establecido por la normatividad en la materia.
+La Secretaría de Infraestructura, Comunicaciones y Transportes, a través de las personas servidoras públicas comisionadas, inspeccionará y verificará en centros fijos de verificación de peso y dimensiones, que los vehículos destinados al servicio de autotransporte federal, sus servicios auxiliares y los de transporte privado, cumplan con las disposiciones de peso, dimensiones y capacidad de acuerdo con lo establecido en las disposiciones jurídicas aplicables.
 
-La inspección y verificación anterior se llevará a cabo en presencia del conductor, del permisionario o de su representante legal, de conformidad con lo establecido en las normas respectivas. La inspección y verificación es independiente de la revisión que, en su caso, efectúe la Policía Federal.
+La inspección y verificación a que se refiere el párrafo anterior se llevará a cabo en presencia del conductor, del permisionario o de su representante legal, de conformidad con lo establecido en las disposiciones jurídicas aplicables. La inspección y verificación es independiente de la revisión que, en su caso, efectúen las personas integrantes de la Guardia Nacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 91.
 
-Los Policías Federales apoyarán al personal médico autorizado de la Secretaría de Comunicaciones y Transportes a cargo de la verificación, en términos de las disposiciones aplicables, de los signos de cansancio de los conductores de vehículos destinados al servicio de autotransporte federal y transporte privado, conforme a los parámetros establecidos en la normatividad respectiva y, en su caso, el exceso en los tiempos de conducción con base en su bitácora de horas de servicio.
+Las personas integrantes de la Guardia Nacional apoyarán al personal de la unidad administrativa competente de la Secretaría de Infraestructura, Comunicaciones y Transportes para llevar a cabo la verificación de los conductores de vehículos destinados al servicio de autotransporte federal y transporte privado, en términos del Reglamento del Servicio de Medicina Preventiva en el Transporte, de las normas oficiales mexicanas y demás disposiciones jurídicas aplicables.
 
 Se entenderá por cansancio la sensación de sueño o el cansancio físico o psíquico que disminuya la capacidad del conductor y ponga en riesgo o peligro la seguridad del mismo o de terceros con motivo de la operación del vehículo.
 
@@ -1661,11 +1779,17 @@ I. Multa de 100 a 200 veces la cuota diaria que establece este Reglamento, y
 
 II. Retiro de la circulación del vehículo.
 
-Además de la sanción señalada en el párrafo anterior, el Policía Federal pondrá al conductor a disposición del Ministerio Público de la Federación, para los efectos a que haya lugar, e informará a la autoridad que emitió la licencia sobre la infracción cometida, para los efectos legales correspondientes.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
-Los conductores deben someterse a las pruebas de detección de ingestión de alcohol, de sustancias psicotrópicas, estupefacientes, incluyendo medicamentos con este efecto y de todos aquellos fármacos o sustancias cuyo uso afecte su capacidad de conducir, cuando lo solicite el personal médico autorizado de la Secretaría de Comunicaciones y Transportes a cargo de la verificación, o en su caso, los Policías Federales que realicen las pruebas de detección a que se refiere este párrafo. En caso de que el conductor se oponga a realizarse las pruebas será sancionado conforme a lo establecido en las fracciones I y II del tercer párrafo de este artículo.
+Además de la sanción señalada en el párrafo anterior, la persona integrante de la Guardia Nacional pondrá al conductor a disposición del Ministerio Público de la Federación, para los efectos a que haya lugar, e informará a la autoridad que emitió la licencia sobre la infracción cometida, para los efectos legales correspondientes.
 
-Los Policías Federales apoyarán al personal médico autorizado de la Secretaría de Comunicaciones y Transportes a cargo de la verificación, en términos de las disposiciones aplicables, para detectar cualquier alteración de las que se refiere el primer párrafo del presente artículo.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+Los conductores deben someterse a las pruebas de detección de ingestión de alcohol, de sustancias psicotrópicas y estupefacientes, incluidos los medicamentos con este efecto, y de todos aquellos fármacos o sustancias cuyo uso afecte su capacidad de conducir, cuando lo solicite el personal médico autorizado de la Secretaría de Infraestructura, Comunicaciones y Transportes a cargo de la verificación, o en su caso, de las personas integrantes de la Guardia Nacional que realicen las pruebas de detección a que se refiere este párrafo. En caso de que el conductor se oponga a realizarse las pruebas será sancionado conforme a lo establecido en las fracciones I y II del párrafo tercero de este artículo.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+Las personas integrantes de la Guardia Nacional apoyarán al personal médico de la unidad administrativa competente de la Secretaría de Infraestructura, Comunicaciones y Transportes a cargo de la verificación, en términos de las disposiciones aplicables, para detectar cualquier alteración de las que se refiere el párrafo primero del presente artículo.
 
 ###### Artículo 94.
 
@@ -1681,7 +1805,9 @@ I. Llevar asido firmemente con ambas manos, el control de dirección y no permit
 
 II. Utilizar el cinturón de seguridad a la altura del reposacabezas;
 
-III. Abstenerse de usar cubre asientos;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+III. Abstenerse de incorporar sobre respaldos o sobre asientos removibles;
 
 IV. Abstenerse de utilizar aparatos de comunicación o entretenimiento que interfieran el manejo seguro del vehículo;
 
@@ -1731,7 +1857,7 @@ El conductor de un vehículo debe conservar, respecto del que va adelante, la di
 
 Siempre que las condiciones lo permitan, los conductores de cualquier tipo de vehículo dejarán suficiente espacio entre ellos para que otro vehículo que intente adelantarlos pueda ocuparlo sin peligro alguno. Lo anterior se exceptúa cuando el conductor trate de adelantar al que lo precede, salvo tratándose de columnas militares y de cortejos fúnebres, los vehículos que circulen en caravana o convoy, transitarán dejando suficiente espacio entre ellos para que otro pueda ocuparlo sin peligro.
 
-Los camiones remolque, tractocamiones articulados y tractocamiones doblemente articulados, no deberán transitar cuando se presenten condiciones climatológicas desfavorables como niebla, granizo, hielo, nieve y lluvia intensa; debiendo estacionar la unidad en un lugar adecuado que no represente peligro para los demás usuarios de la vía federal . Además deberán ceder el paso cuando la vía federal se encuentre congestionada y no podrán transitar en caravana o convoy cuando lleven el mismo sentido de circulación.
+Los camiones remolque, tractocamiones articulados y tractocamiones doblemente articulados, no deberán transitar cuando se presenten condiciones climatológicas desfavorables como niebla, granizo, hielo, nieve y lluvia intensa; debiendo estacionar la unidad en un lugar adecuado que no represente peligro para los demás usuarios de la vía federal. Además deberán ceder el paso cuando la vía federal se encuentre congestionada y no podrán transitar en caravana o convoy cuando lleven el mismo sentido de circulación.
 
 La contravención de lo dispuesto en los párrafos primero y segundo de este artículo será sancionada con multa de 20 a 25 veces la cuota diaria que establece este Reglamento.
 
@@ -1791,9 +1917,11 @@ V. La vía federal sea para el tránsito en un solo sentido.
 
 La circulación fuera del carril derecho de la vía federal que no esté en caso de excepción, se sancionará con multa de 30 a 40 veces la cuota diaria que establece este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 110.
 
-En una carretera de cuatro o más carriles con circulación en ambos sentidos, el vehículo no deberá ser conducido por el lado izquierdo de la línea central de la vía federal.
+En una carretera de cuatro o más carriles con circulación en ambos sentidos, el vehículo no deberá ser conducido por el lado izquierdo del eje de la vía federal.
 
 La violación de este artículo se sancionará con multa de 40 a 50 veces la cuota diaria que establece este Reglamento.
 
@@ -2083,7 +2211,9 @@ a) Si el exceso de velocidad es inferior a 20 km/h, 80 a 100 veces la cuota diar
 
 b) Si el exceso de velocidad es de 20 km/h o mayor, 100 a 120 veces la cuota diaria que establece este Reglamento;
 
-II. Cuando se trate de camiones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+II. Cuando se trate de camiones unitarios ligeros y pesados y camión remolque:
 
 a) Si el exceso es de hasta 20 km/h, 60 a 70 veces la cuota diaria que establece este Reglamento, y
 
@@ -2139,9 +2269,11 @@ En pendiente descendente, la velocidad del vehículo se deberá controlar median
 
 La infracción al presente artículo se sancionará con multa de 15 a 20 veces la cuota diaria que establece este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 141.
 
-Para verificar que se respeten los límites de velocidad establecidos, los Policías Federales podrán contar con los instrumentos técnicos idóneos para detectar su inobservancia.
+Los límites de velocidad establecidos o su inobservancia, se verificarán por las personas integrantes de la Guardia Nacional con los instrumentos técnicos idóneos.
 
 ###### Artículo 142.
 
@@ -2297,9 +2429,13 @@ IV. A una distancia menor de 5 metros de:
 
 a) Una zona de seguridad y la acera adyacente;
 
-b) Frente a un hidrante;
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
-c) Frente a una señal de ALTO o de un semáforo;
+b) Un hidrante;
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+c) Una señal de ALTO o de un semáforo;
 
 d) Una zona de cruce de peatones;
 
@@ -2353,9 +2489,11 @@ Queda prohibido a los demás ocupantes del vehículo abrir las portezuelas o dej
 
 El conductor deberá instruir a los ocupantes del vehículo en cuanto al sentido de este artículo y él mismo será el responsable de las infracciones que se cometan, mismas que se sancionarán con multa de 30 a 40 veces la cuota diaria establecida en este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 160.
 
-Para el ascenso o descenso de pasajeros, los conductores deberán detener sus vehículos a la orilla de la vía federal y utilizar los paraderos, de tal manera que aquéllos no tengan que pisar la superficie de rodamiento.
+Para el ascenso o descenso de pasajeros, los conductores deberán detener sus vehículos a la orilla de la vía federal y utilizar las paradas establecidas, de tal manera que los pasajeros no tengan que pisar la superficie de rodamiento.
 
 La violación a lo dispuesto por este artículo se sancionará con multa de 40 a 50 veces la cuota diaria establecida por este Reglamento.
 
@@ -2515,9 +2653,11 @@ La infracción de la restricción establecida se sancionará con multa de 10 a 1
 
 ### CAPÍTULO IV. DE LOS PEATONES
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 176.
 
-Los peatones estarán obligados a obedecer la señalización de las vías federales y las órdenes de los Policías Federales. Al mismo tiempo, gozarán de la protección y preferencias que les otorga este Reglamento.
+Los peatones estarán obligados a acatar la señalización de las vías federales y las órdenes de las personas integrantes de la Guardia Nacional. Al mismo tiempo, gozarán de la protección y preferencias que les otorga este Reglamento.
 
 ###### Artículo 177.
 
@@ -2563,25 +2703,35 @@ III. Bajar del vehículo en movimiento, y
 
 IV. Consumir bebidas alcohólicas, estupefacientes o sustancias psicotrópicas ya sea que el vehículo se encuentre estacionado o en movimiento.
 
-El desacato de las prohibiciones que este artículo establece será sancionado mediante amonestación escrita por parte de los Policías Federales y, en el caso de la fracción IV, cuando se consuman estupefacientes o sustancias psicotrópicas, los pasajeros deberán ser presentados ante la autoridad competente.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+El incumplimiento de este artículo será sancionado mediante amonestación escrita por parte de las personas integrantes de la Guardia Nacional y, en el caso de la fracción IV, cuando se consuman estupefacientes o sustancias psicotrópicas, los pasajeros deberán ser presentados ante la autoridad competente.
 
 ### CAPÍTULO VI. DE LOS HECHOS DE TRÁNSITO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 183.
 
-El conductor de cualquier vehículo implicado en un hecho de tránsito en el que resulten personas muertas o lesionadas, o bien se causen daños materiales a otros vehículos o propiedades, deberá detenerse inmediatamente en el lugar del evento o tan cerca de él como sea posible, y permanecer en dicho sitio hasta que la autoridad competente tome el conocimiento que corresponda, salvo en los casos a que se refiere el artículo 184 de este Reglamento.
+El conductor de cualquier vehículo implicado en un hecho de tránsito en el que resulten personas muertas o lesionadas, o bien se causen daños materiales a otros vehículos o propiedades, deberá detenerse inmediatamente en el lugar del evento si las circunstancias lo permiten o lo más cerca posible, y permanecer en dicho sitio hasta que la autoridad competente tome el conocimiento que corresponda, salvo en los casos a que se refiere el artículo 184 de este Reglamento.
 
 La infracción al párrafo que antecede se sancionará con multa de 50 a 60 veces la cuota diaria que establece este Reglamento.
 
-Una vez que el Policía Federal haya determinado la posición final del o los vehículos participantes, éstos se colocarán lo más alejado posible de la superficie de rodamiento, para no crear un peligro adicional para el tránsito. En caso de que el o los vehículos tengan que permanecer sobre la vía federal, se colocarán las señales de protección a que haya lugar y se atenderán las demás disposiciones de este Reglamento en la materia.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+Una vez que la persona integrante de la Guardia Nacional haya determinado la posición final del o los vehículos participantes, estos se colocarán lo más alejado posible de la superficie de rodamiento, para no crear un peligro adicional para el tránsito. En caso de que el o los vehículos tengan que permanecer sobre la vía federal, se colocarán las señales de protección a que haya lugar y se atenderán las demás disposiciones de este Reglamento en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 184.
 
-Advertida la naturaleza y la gravedad de las lesiones a las personas involucradas en el hecho de tránsito, los participantes procederán a prestar ayuda a los lesionados y, si es necesario y posible, procurarán su traslado al lugar más próximo en que puedan recibir asistencia médica, bien por los medios a su alcance o con su propio vehículo.
+Con base en la naturaleza y la gravedad de las lesiones de las personas involucradas en el hecho de tránsito, cualquier persona o autoridad solicitará auxilio a los servicios de emergencia para prestar ayuda a las personas lesionadas y, si es necesario y posible, procurar su traslado al lugar más próximo en que puedan recibir asistencia médica, bien por los medios a su alcance o con su propio vehículo.
 
 En todo caso, el implicado en el hecho de tránsito que se ausente del sitio del siniestro en busca de auxilio para las víctimas, regresará a dicho lugar y se pondrá a disposición de la autoridad que tome conocimiento del caso.
 
-Los conductores de los demás vehículos que pasen por el lugar del hecho, estarán obligados a detenerse a la indicación de los Policías Federales y a colaborar en el auxilio de los lesionados.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+Los conductores de los demás vehículos que pasen por el lugar del hecho estarán obligados a detenerse a la indicación de las personas integrantes de la Guardia Nacional y a colaborar en el auxilio de las personas lesionadas.
 
 La misma obligación se impone a toda persona que llegue al lugar del evento, sea pasajero o peatón.
 
@@ -2589,33 +2739,45 @@ La infracción a que se refiere este artículo en los párrafos primero y segund
 
 La infracción a que se refiere este artículo en los párrafos tercero y cuarto, se sancionará con amonestación verbal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 185.
 
-Cuando del hecho de tránsito se deriven únicamente daños materiales a los vehículos, los conductores involucrados, previa manifestación de voluntad, podrán convenir en el lugar de los hechos sobre la reparación o pago de los mismos y, si éstos así lo solicitan, se elaborará el Acta-Convenio correspondiente, entregándoles copia de la misma, así como del Dictamen Técnico respectivo.
+Cuando del hecho de tránsito se deriven únicamente daños materiales a los vehículos, los conductores involucrados, previa manifestación de voluntad, siempre que no se encuentren bajo el influjo del alcohol o de algún tipo de estupefaciente o psicotrópico, podrán convenir en el lugar de los hechos sobre la reparación o pago de los daños y, si estos así lo solicitan, la persona integrante de la Guardia Nacional elaborará el Acta-Convenio correspondiente y una vez firmada por los conductores involucrados les entregará copia de dicha acta, así como del dictamen de hecho de tránsito respectivo.
 
 La suscripción del Acta-Convenio exime a los conductores de las sanciones por las infracciones que hayan causado el hecho de tránsito, más no así por la falta de la documentación que autoriza su tránsito en las vías federales.
 
-En caso de que en el hecho de tránsito haya participado únicamente un vehículo, el Policía Federal podrá entregar copia del Dictamen Técnico correspondiente a petición del conductor. Asimismo, si se causaron daños materiales a terceros, previo convenio con el propietario o representante legal en el lugar de los hechos, sobre la reparación o pago de los daños, el conductor quedará eximido de las sanciones por las infracciones que hayan causado el hecho de tránsito, más no así por la falta de la documentación que autoriza su tránsito en las vías federales.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+En caso de que en el hecho de tránsito haya participado únicamente un vehículo, la persona integrante de la Guardia Nacional elaborará el dictamen técnico del hecho de tránsito correspondiente y entregará copia a petición del conductor. Asimismo, si se causaron daños materiales a personas terceras, previo convenio con la persona propietaria o su representante legal en el lugar de los hechos, sobre la reparación o pago de los daños, el conductor quedará eximido de las sanciones por las infracciones que hayan causado el hecho de tránsito; sin perjuicio de lo anterior, se sancionará por la falta de la documentación que autoriza su tránsito en las vías federales.
 
 ###### Artículo 186.
 
 No procederá la celebración del Acta-Convenio en los siguientes casos:
 
-I. Cuando alguno de los conductores pretenda o logre evadir la intervención del Policía Federal en el hecho de tránsito;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
 
-II. Cuando alguno de los conductores se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas, y
+I. Cuando alguno de los conductores pretenda o logre evadir la intervención de las personas integrantes de la Guardia Nacional en el hecho de tránsito;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+II. Cuando alguno de los conductores se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas y se acredite con certificación médica, y
 
 III. Cuando por virtud del hecho de tránsito se causen daños a personas físicas, a las vías federales u a otros bienes propiedad de la Nación.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 187.
 
-Cuando no proceda la celebración del Acta-Convenio o los conductores involucrados no se pongan de acuerdo respecto de la responsabilidad en que hayan incurrido, el Policía Federal que tome conocimiento del hecho de tránsito, los remitirá de inmediato ante la instancia correspondiente y elaborará el Dictamen Técnico a que haya lugar.
+Cuando no proceda la celebración del Acta-Convenio o los conductores involucrados no se pongan de acuerdo respecto de la responsabilidad en que hayan incurrido, la persona integrante de la Guardia Nacional que tome conocimiento del hecho de tránsito los remitirá de inmediato ante la instancia correspondiente y elaborará el dictamen técnico a que haya lugar.
 
-Asimismo, los vehículos involucrados serán remitidos a los depósitos de vehículos permisionados por la Secretaría de Comunicaciones y Transportes.
+Asimismo, los vehículos involucrados serán remitidos a los depósitos de vehículos permisionados por la Secretaría de Infraestructura, Comunicaciones y Transportes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 188.
 
-El Policía Federal que tome conocimiento del hecho de tránsito procurará que los interesados lleguen al acuerdo que permite el artículo 185 de este Reglamento, orientándolos sobre la responsabilidad en que hayan incurrido y, en su caso, procederá a formular el Acta-Convenio y el Dictamen Técnico correspondientes.
+La persona integrante de la Guardia Nacional que tome conocimiento del hecho de tránsito procurará que los interesados lleguen al acuerdo que permite el artículo 185 de este Reglamento, orientándolos sobre la responsabilidad en que hayan incurrido y, en su caso, procederá a formular el Acta-Convenio y el dictamen técnico correspondientes.
 
 El Acta-Convenio contendrá:
 
@@ -2637,21 +2799,29 @@ VIII. Descripción del arreglo entre los conductores involucrados;
 
 IX. Nombres y firmas de aceptación de los compromisos adquiridos por las partes y, en su caso, de dos testigos, y
 
-X. Nombre y firma del Policía Federal que toma conocimiento del hecho de tránsito y del arreglo de las partes.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
 
-Una vez formulada el Acta-Convenio, se entregará copia a cada una de las partes, mientras que el original quedará bajo el resguardo de la Policía Federal.
+X. Nombre y firma de la persona integrante de la Guardia Nacional que toma conocimiento del hecho de tránsito y del arreglo de las partes.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+Una vez formulada el Acta-Convenio, se entregará copia a cada una de las partes, mientras que el original quedará bajo el resguardo de la Guardia Nacional.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 189.
 
-En caso de que quien haya aceptado la responsabilidad de ejecutar la reparación de los daños en un Acta-Convenio no lo haga en los términos de ésta, la Policía Federal proporcionará, a petición de cualquiera de las otras partes, los elementos documentales que al respecto se encuentren en sus archivos.
+Quien haya aceptado la responsabilidad de ejecutar la reparación de los daños en un Acta-Convenio y no lo haga en los términos de esta, la Guardia Nacional proporcionará, a petición de cualquiera de las otras partes, los elementos documentales que al respecto se encuentren en sus archivos.
 
 ###### Artículo 190.
 
 Los participantes de un hecho de tránsito que falten a la verdad al proporcionar informes sobre el mismo, estarán sujetos a las sanciones previstas por la legislación penal.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 191.
 
-Los Policías Federales que conozcan de los hechos de tránsito en las vías federales, formularán el Dictamen Técnico correspondiente en el formato que para tal efecto se publique en el Diario Oficial de la Federación.
+Las personas integrantes de la Guardia Nacional, que conozcan de los hechos de tránsito en las vías federales, formularán el dictamen técnico correspondiente en el formato que para tal efecto se publique en el Diario Oficial de la Federación.
 
 ###### Artículo 192.
 
@@ -2659,17 +2829,23 @@ Aquellos conductores que incurran en responsabilidad por hechos de tránsito en 
 
 En los casos a que se refiere el párrafo anterior no se concederán los beneficios de reducción por pronto pago y allanamiento que establece este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 193.
 
-En los casos de hechos de tránsito en que alguno de los conductores se encuentre en estado de ebriedad o bajo los efectos de estupefacientes o sustancias psicotrópicas, los Policías Federales procederán de inmediato a su detención, y lo remitirá a la autoridad competente más cercana.
+En los casos de hechos de tránsito en que alguno de los conductores se encuentre en estado de ebriedad o bajo los efectos de estupefacientes o sustancias psicotrópicas, las personas integrantes de la Guardia Nacional procederán de inmediato a su detención, y lo remitirán a la autoridad competente más cercana.
+
+Las sanciones que se apliquen a los conductores que se encuentren en estado de ebriedad o bajo los efectos de estupefacientes o sustancias psicotrópicas en los términos de este Reglamento, serán independientes de las responsabilidades civiles o penales a cargo del infractor, de sus acompañantes o pasajeros, según lo establezcan las leyes respectivas.
 
 ## TÍTULO QUINTO. DE LAS SANCIONES Y DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
 ### CAPÍTULO I. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 194.
 
-Las violaciones a las normas de tránsito en las vías federales, a los dispositivos para el control del tránsito y a las órdenes de los Policías Federales serán sancionadas de conformidad con las disposiciones de este Reglamento que establezcan la conducta que haya sido violada por el conductor, sus pasajeros o acompañantes y por los peatones.
+Las violaciones a las normas de tránsito en las vías federales, a los dispositivos para el control del tránsito y a las órdenes de las personas integrantes de la Guardia Nacional serán sancionados de conformidad con las disposiciones de este Reglamento que establezcan la conducta que haya sido incumplida por el conductor, sus pasajeros o acompañantes y por los peatones.
 
 Las sanciones que sean aplicadas en los términos del párrafo que antecede, serán independientes de las responsabilidades civiles o penales a cargo del infractor, de sus acompañantes o pasajeros, según lo establezcan las leyes respectivas.
 
@@ -2685,39 +2861,55 @@ III. Multa, y
 
 IV. Retiro de los vehículos de la circulación.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 196.
 
-La amonestación verbal es el acto por el cual el Policía Federal advierte al conductor, pasajeros o peatones sobre el incumplimiento cometido a las disposiciones contenidas en este Reglamento y tiene como propósito orientarlos a conducirse de conformidad con lo establecido en el mismo y prevenir la realización de otras conductas similares.
+La amonestación verbal es el acto por el cual la persona integrante de la Guardia Nacional advierte al conductor, pasajeros o peatones sobre el incumplimiento cometido a las disposiciones contenidas en este Reglamento y tiene como propósito orientarlos a conducirse de conformidad con lo establecido en dicho Reglamento y prevenir la realización de otras conductas similares.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 197.
 
-La amonestación escrita es el acto por el cual el Policía Federal advierte por escrito al conductor, pasajeros o peatones sobre el incumplimiento cometido a las disposiciones contenidas en este Reglamento y tiene como propósito orientarlos a conducirse de conformidad con lo establecido en el mismo y prevenir la realización de otras conductas similares.
+La amonestación escrita es el acto por el cual la persona integrante de la Guardia Nacional advierte por escrito al conductor, pasajeros o peatones sobre el incumplimiento cometido a las disposiciones contenidas en este Reglamento y tiene como propósito orientarlos a conducirse de conformidad con lo establecido en dicho Reglamento y prevenir la realización de otras conductas similares.
 
-La amonestación escrita se expedirá a través del formato establecido para ese efecto y autorizado por la Secretaría, en el que se hará notar objetivamente al infractor la conducta que contravino las disposiciones de este Reglamento, de los dispositivos para el control del tránsito o de las órdenes de los Policías Federales, así como las consecuencias que ésta pudo haber causado.
+La amonestación escrita se expedirá a través del formato establecido para ese efecto y autorizado por la Secretaría, en el que se hará notar objetivamente al infractor la conducta que contravino las disposiciones de este Reglamento, de los dispositivos para el control del tránsito o de las órdenes de las personas integrantes de la Guardia Nacional, así como las consecuencias que esta pudo haber causado.
 
 ###### Artículo 198.
 
 Los usuarios de las vías federales que reincidan en conductas sancionables mediante amonestación escrita, recibirán multa de 20 a 25 veces la cuota diaria que establece este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 199.
 
-La multa o sanción pecuniaria que se imponga a los infractores de las disposiciones de este Reglamento, de los dispositivos para el control del tránsito o de las órdenes de los Policías Federales, será cuantificada tomando como base la cuota diaria.
+La multa o sanción pecuniaria que se imponga a los infractores de las disposiciones de este Reglamento, de los dispositivos para el control del tránsito o de las órdenes de las personas integrantes de la Guardia Nacional, será cuantificada tomando como base la cuota diaria.
 
 ###### Artículo 200.
 
 La cuantificación de las sanciones pecuniarias, se hará tomando como límites de referencia el mínimo y el máximo de su monto y atenderá a los criterios que se establecen en la Ley Federal de Procedimiento Administrativo.
 
-No obstante lo anterior, se aplicará el mínimo de la sanción pecuniaria a los infractores que reconozcan expresamente, en la boleta de infracción respectiva, la falta en que hayan incurrido. En estos casos, el monto de la multa se reducirá en un 25 por ciento, siempre que el infractor se abstenga de impugnar la sanción.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
-Cuando el pago se efectúe dentro de los 15 días hábiles posteriores a la imposición de la multa, ésta se reducirá en un 25 por ciento adicional al beneficio señalado en el párrafo anterior.
+El monto de la multa se aplicará en un mínimo a los infractores que reconozcan expresamente en la boleta de infracción respectiva, la falta en que hayan incurrido. En estos casos, el monto de la multa se reducirá en un 25 por ciento.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+El infractor gozará de un beneficio de reducción de un 25 por ciento adicional en el monto de la multa, cuando esta sea cubierta dentro de los quince días hábiles siguientes a que fue impuesta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 201.
 
-En los casos en que los usuarios de las vías federales se opongan a las órdenes que los Policías Federales emitan en los términos del presente Reglamento y demás disposiciones aplicables, o bien, cuando se resistan al cumplimiento de sus indicaciones, los Policías Federales procederán a su inmediata detención y presentación ante el Ministerio Público, por su probable responsabilidad en la comisión del delito de desobediencia y resistencia de particulares a que alude el artículo 178 del Código Penal Federal, sin perjuicio de la probable responsabilidad por otros delitos.
+Cuando las personas usuarias de las vías federales se opongan a las órdenes que las personas integrantes de la Guardia Nacional emitan en los términos del presente Reglamento y demás disposiciones aplicables, o bien, cuando se resistan al cumplimiento de sus indicaciones, las personas integrantes de la Guardia Nacional procederán a su inmediata detención y presentación ante el Ministerio Público, por su probable responsabilidad en la comisión del delito de desobediencia y resistencia de particulares a que alude el artículo 178 del Código Penal Federal, sin perjuicio de la probable responsabilidad por otros delitos.
 
-Entre otros supuestos, se entiende que los usuarios de las vías federales se oponen a las órdenes que emitan los Policías Federales, en los casos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
-I. Se nieguen a entregar al Policía Federal original de la licencia para conducir y tarjeta de circulación, así como, en su caso, la demás documentación inherente al servicio que presten;
+Entre otros supuestos, se entiende que las personas usuarias de las vías federales se oponen a las órdenes que emitan las personas integrantes de la Guardia Nacional, en los casos siguientes:
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+I. Se nieguen a entregar la licencia para conducir y tarjeta de circulación a la persona integrante de la Guardia Nacional, así como, en su caso, la demás documentación inherente al servicio que presten;
 
 II. Se resistan injustificadamente a la imposición de la sanción por la infracción cometida, de conformidad con lo dispuesto en el presente Reglamento y demás disposiciones aplicables;
 
@@ -2725,7 +2917,9 @@ III. No esperen la entrega de la boleta de infracción o la destruyan;
 
 IV. Se rehúsen a entregar el vehículo a la autoridad que tome conocimiento de un hecho de tránsito cuando proceda, y
 
-V. Realicen amenazas, insultos o agresiones al Policía Federal, a otras autoridades o al personal de servicios de emergencia.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+V. Realicen amenazas, insultos o agresiones a las personas integrantes de la Guardia Nacional, a otras autoridades o al personal de servicios de emergencia.
 
 ###### Artículo 202.
 
@@ -2733,17 +2927,25 @@ Se considerarán reincidentes los usuarios de las vías federales que incurran e
 
 La sanción pecuniaria que se imponga a los reincidentes será notificada por correo certificado con acuse de recibo en el domicilio que aparezca acreditado en la última boleta de infracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 203.
 
-Los Policías Federales aplicarán las sanciones que deriven de la violación a las disposiciones de este Reglamento, atendiendo al siguiente procedimiento:
+Las personas integrantes de la Guardia Nacional aplicarán las sanciones que deriven del incumplimiento a las disposiciones de este Reglamento, conforme al procedimiento siguiente:
 
-I. Una vez detenido el vehículo y por seguridad del conductor, acompañantes y pasajeros, instruirá a que éstos permanezcan en el interior del mismo y únicamente descenderán hasta que así lo indique el Policía Federal;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+I. Una vez detenido el vehículo y por seguridad del conductor, acompañantes y pasajeros, instruirá a que estos permanezcan en el interior del vehículo y únicamente descenderán hasta que así lo indique la persona integrante de la Guardia Nacional;
 
 II. Informará al conductor del vehículo el motivo de la detención;
 
-III. Solicitará al conductor la entrega de la licencia para conducir y la tarjeta de circulación, así como, en su caso, la demás documentación inherente al servicio que preste, y
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
 
-IV. En caso de que proceda la multa, el Policía Federal requisitará la boleta de infracción asentando con letra completamente legible la información que el formato requiera y fijará al infractor la sanción que corresponda, además de:
+III. Solicitará al conductor la entrega de la licencia para conducir y la tarjeta de circulación, así como, en su caso, la demás documentación inherente al servicio que preste, para su verificación y devolución al conductor, y
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+IV. En caso de que proceda la multa, la persona integrante de la Guardia Nacional llenará la boleta de infracción, asentando con letra completamente legible la información que el formato requiera y fijará al infractor la sanción que corresponda, además de:
 
 a) La narración sucinta y objetiva de los hechos de que sea responsable el conductor;
 
@@ -2751,25 +2953,35 @@ b) La presentación y lectura de los ordenamientos reglamentarios violados por e
 
 c) Cuando se trate de multa, las modalidades de su pago y garantías, así como las reducciones a que se tiene derecho y los medios de impugnación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 204.
 
-Cuando se trate de infracciones que se sancionen con multa y proceda el retiro de la circulación en términos del artículo 74 Ter de la Ley y este Reglamento, para obtener la liberación o entrega del vehículo por parte de la Policía Federal, el conductor o el legítimo propietario del vehículo deberá pagar o garantizar el monto de las sanciones que se hayan impuesto por violaciones a la Ley y a los ordenamientos que de ella se deriven por la operación del servicio de autotransporte federal, sus servicios auxiliares y transporte privado, así como por violaciones al presente reglamento.
+Cuando se trate de infracciones que se sancionen con multa y proceda el retiro de la circulación de los vehículos en términos del artículo 74 Ter de la Ley y este Reglamento, por conducto de los servicios de arrastre y salvamento a los depósitos permisionados cuando no cuenten o no apliquen las pólizas de seguro, para obtener la liberación o entrega del vehículo por parte de las personas integrantes de la Guardia Nacional, el conductor o el legítimo propietario del vehículo deberá pagar o garantizar el monto de las sanciones que se hayan impuesto por violaciones a la Ley y a los ordenamientos que de ella se deriven por la operación del servicio de autotransporte federal, sus servicios auxiliares y transporte privado, así como por violaciones al presente Reglamento.
 
-Tratándose de vehículos particulares, procederá el otorgamiento de garantía para responder por el monto de las sanciones impuestas cuando se trate de falta grave o reincidencia, prevista en el artículo 202 de este Reglamento.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+Tratándose de vehículos particulares, se deberá otorgar garantía suficiente, entre otras, fianza o billete de depósito expedidos por institución financiera debidamente autorizada conforme a las disposiciones aplicables, cualquier otro medio legal permitido o con el propio vehículo, para responder por el monto de las sanciones impuestas cuando se trate de falta grave o reincidencia, prevista en el artículo 202 de este Reglamento.
 
 Para efectos del presente reglamento, se entenderá por falta grave:
 
 I. Cuando en una sola boleta de infracción se impongan sanciones por la falta de los tres documentos, o documento que haga sus veces, a que se refiere el artículo 85 de este Reglamento y por la falta de licencia de manejo vigente o el documento que la supla, conforme al artículo 81, fracción II, de este Reglamento;
 
-II. Cuando con motivo de la imposición de sanciones, los usuarios se opongan a las órdenes de los Policías Federales, en los casos previstos en el artículo 201 de este Reglamento, y
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+II. Cuando con motivo de la imposición de sanciones, las personas usuarias de las vías federales se opongan a las órdenes de las personas integrantes de la Guardia Nacional, en los casos previstos en el artículo 201 de este Reglamento, y
 
 III. Cuando con motivo de la imposición de sanciones, se tenga conocimiento de la probable comisión de algún delito, de flagrancia en la comisión de algún delito o se ejecute orden de detención o presentación del conductor o de alguno de sus acompañantes o pasajeros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 205.
 
-Las sanciones señaladas en este Reglamento serán impuestas por el Policía Federal que tenga conocimiento de su comisión, cualquiera que sea su categoría jerárquica y grado, quien las hará constar en las boletas de infracción seriadas que autorice y expida la Secretaría, las cuales contendrán cuando menos:
+Las sanciones señaladas en este Reglamento serán impuestas por la persona integrante de la Guardia Nacional que tenga conocimiento de su comisión, cualquiera que sea su categoría jerárquica y grado, quien las hará constar en las boletas de infracción seriadas que autorice y expida la Secretaría, las cuales contendrán cuando menos:
 
-I. Los preceptos legales que faculten al Policía Federal para imponer la sanción, así como las disposiciones de este Reglamento que fueron incumplidas;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+I. Los preceptos legales que faculten a las personas integrantes de la Guardia Nacional para imponer la sanción, así como las disposiciones de este Reglamento que fueron incumplidas;
 
 II. Día, hora, vía federal, tramo y kilómetro, Municipio y Entidad Federativa en el que ocurran los hechos;
 
@@ -2799,31 +3011,43 @@ b) Los beneficios cuantitativos por concepto de allanamiento y pronto pago, y
 
 c) Las denominaciones convencionales del formato.
 
-X. Firma de recibido del infractor, misma que implicará la notificación formal de la multa;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+X. Firma de recibido del infractor;
 
 XI. Firma de allanamiento del infractor, y
 
-XII. Nombre, grado, número de expediente, adscripción y firma del Policía Federal que imponga la sanción.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
 
-La falta de firma del infractor en los términos de la fracción X, no invalidará la sanción impuesta por lo que será eficaz y exigible. En este caso, el Policía Federal hará constar la razón en la boleta de infracción respectiva.
+XII. Nombre, grado, número de expediente, adscripción y firma de la persona integrante de la Guardia Nacional que imponga la sanción.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+La falta de firma del infractor en los términos de las fracciones X y XI, no invalidará la sanción impuesta por lo que será eficaz y exigible. En este caso, la persona integrante de la Guardia Nacional hará constar la razón en la boleta de infracción respectiva.
 
 ###### Artículo 206.
 
 Si la sanción pecuniaria no es cubierta dentro del plazo de treinta días hábiles concedido para su pago, se formulará la liquidación y se turnará a la autoridad fiscal competente para la ejecución de los actos relativos a su cobro y, en su caso, de la garantía otorgada.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 207.
 
-La boleta de infracción original se entregará al infractor y las dos primeras copias se enviarán a las oficinas de la Policía Federal que corresponda para su registro en la base de datos y, en caso de incumplimiento del pago, para la remisión a la autoridad fiscal que deba iniciar el procedimiento administrativo de ejecución.
+La boleta de infracción original se entregará al infractor y las dos primeras copias se enviarán a las oficinas de la Guardia Nacional que corresponda para su registro en la base de datos y, en caso de incumplimiento del pago, para la remisión a la autoridad fiscal que deba iniciar el procedimiento administrativo de ejecución.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 208.
 
-Una vez que la información relativa a las sanciones impuestas por las infracciones de tránsito de vehículos quede incorporada a la base de datos de la Policía Federal, ésta expedirá automáticamente la boleta de infracción a los usuarios de las vías federales que tengan el carácter de reincidentes.
+Una vez que la información relativa a las sanciones impuestas por las infracciones de tránsito de vehículos quede incorporada a la base de datos de la Guardia Nacional, esta expedirá automáticamente la boleta de infracción a los conductores en las vías federales que tengan el carácter de reincidentes.
 
-La sanción será impuesta por el Policía Federal que elaboró la última boleta de infracción en que se hizo constar la infracción que se reincide y será por el mismo monto que se indicó en ella, así como notificada en términos del artículo 202 de este Reglamento.
+La sanción será impuesta por la persona integrante de la Guardia Nacional que elaboró la última boleta de infracción en que se hizo constar la infracción que se reincide y será por el mismo monto que se indicó en ella, así como notificada en términos del artículo 202 de este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 209.
 
-La Policía Federal ejecutará las medidas necesarias para mantener bajo su custodia al conductor, acompañantes o pasajeros y al vehículo operado por el primero de los citados, a fin de hacer del conocimiento de la autoridad investigadora correspondiente los siguientes supuestos:
+Las personas integrantes de la Guardia Nacional realizarán las medidas necesarias para mantener bajo su custodia al conductor, acompañantes o pasajeros y al vehículo involucrado en el hecho de tránsito, a fin de hacer del conocimiento de la autoridad investigadora correspondiente los siguientes supuestos:
 
 I. Probable comisión de algún delito detectado durante el procedimiento para la imposición de la sanción por infracciones a este Reglamento;
 
@@ -2831,15 +3055,21 @@ II. Flagrancia en la comisión de algún delito, y
 
 III. Ejecución de alguna orden de detención o presentación del conductor o de alguno de sus acompañantes o pasajeros, en cumplimiento de una orden del Ministerio Público competente.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 210.
 
-Cuando los vehículos deban ser retenidos por los Policías Federales por estar involucrados en alguno de los supuestos a que se refiere el artículo anterior, serán remitidos a los depósitos de vehículos autorizados por la Secretaría de Comunicaciones y Transportes, para su guarda y custodia.
+Cuando los vehículos deban ser retenidos por las personas integrantes de la Guardia Nacional por estar involucrados en alguno de los supuestos a que se refiere el artículo anterior, serán remitidos a los depósitos de vehículos permisionados por la Secretaría de Infraestructura, Comunicaciones y Transportes, para su guarda y custodia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 211.
 
-La liberación de los vehículos que hayan sido remitidos para su guarda y custodia a los depósitos de vehículos autorizados por la Secretaría de Comunicaciones y Transportes, por casos distintos a los previstos en el artículo 204 de este Reglamento, procederá una vez que:
+La liberación de los vehículos que hayan sido remitidos para su guarda y custodia a los depósitos de vehículos permisionados por la Secretaría de Infraestructura, Comunicaciones y Transportes, por casos distintos a los previstos en el artículo 204 de este Reglamento, procederá una vez que:
 
-I. El interesado formule la solicitud respectiva en las oficinas de la Policía Federal y acredite su personalidad;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+I. La persona interesada formule la solicitud respectiva en las oficinas de la Guardia Nacional y acredite su personalidad;
 
 II. En su caso, se exhiba la orden del Ministerio Público o del Juez del conocimiento;
 
@@ -2847,23 +3077,31 @@ III. Se acredite la propiedad del vehículo;
 
 IV. En su caso, se presente comprobante del pago de los daños que se hubieren causado a las vías federales o comprobante de que los mismos fueron garantizados, y
 
-V. Se cubra el importe del servicio de depósito de vehículo, así como el de arrastre o el de arrastre y salvamento.
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+V. Se cubra el importe del servicio de depósito de vehículo, excepto cuando se dictamine que el conductor no tuvo responsabilidad en el siniestro, así como el de arrastre o el de arrastre y salvamento.
 
 Satisfechos los requisitos anteriores, el permisionario del servicio de depósito de vehículos deberá hacer la entrega del mismo en las condiciones en que lo haya recibido y que consten en su inventario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 212.
 
-La Secretaría a través de Policía Federal, proporcionará a la Secretaría de Comunicaciones y Transportes datos técnicos que requiera para el ejercicio de sus funciones, la información relativa a las infracciones y sanciones impuestas a conductores y permisionarios de vehículos de autotransporte federal, servicios auxiliares y de transporte privado.
+La Secretaría, a través de la Guardia Nacional, proporcionará a la Secretaría de Infraestructura, Comunicaciones y Transportes datos técnicos que requiera para el ejercicio de sus funciones, la información relativa a las infracciones y sanciones impuestas a conductores y permisionarios de vehículos de autotransporte federal, servicios auxiliares y de transporte privado.
 
 En igualdad de condiciones, se informará al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública respecto de la totalidad de infracciones impuestas.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 213.
 
-La Secretaría a través de Policía (sic) Federal podrá celebrar convenios con otras Dependencias o Instituciones y las Entidades Federativas para el intercambio de informes y registros sobre conductores, licencias, infracciones o cualquier materia relacionada con la seguridad en las vías federales que se ubiquen dentro de sus respectivos territorios.
+La Secretaría, a través de la Guardia Nacional, podrá celebrar convenios con otras dependencias y entidades de la Administración Pública Federal, instituciones públicas o privadas y las entidades federativas para el intercambio de informes y registros sobre conductores, licencias, infracciones o cualquier materia relacionada con la seguridad en las vías federales que se ubiquen dentro de sus respectivos ámbitos de competencias.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 214.
 
-Las sanciones que se impongan con base en este Reglamento y que el infractor no haya consentido en los términos previstos en el artículo 200, párrafo segundo, de este Reglamento, podrán ser impugnadas en los términos que establece la Ley Federal de Procedimiento Administrativo. Esta circunstancia será hecha formalmente del conocimiento del infractor al momento en que se imponga la sanción respectiva.
+Las sanciones que se impongan con base en este Reglamento, podrán ser impugnadas en términos de la Ley Federal de Procedimiento Administrativo. Esta circunstancia será hecha formalmente del conocimiento del infractor al momento en que se imponga la sanción respectiva.
 
 ###### Artículo 215.
 
@@ -2871,17 +3109,23 @@ Cualquier infracción a las disposiciones del presente Reglamento cuya sanción 
 
 ### CAPÍTULO II. DEL RETIRO DE LA CIRCULACIÓN
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 216.
 
-Se entenderá por retiro de la circulación el acto fundado en el artículo 74-Ter de la Ley, mediante el cual los Policías Federales suspenden el tránsito de los vehículos y realizan su remisión a los depósitos de vehículos permisionados por la Secretaría de Comunicaciones y Transportes en el respectivo tramo carretero.
+Se entenderá por retiro de la circulación el acto mediante el cual las personas integrantes de la Guardia Nacional suspenden el tránsito de los vehículos y realizan su remisión a los depósitos de vehículos permisionados por la Secretaría de Infraestructura, Comunicaciones y Transportes en el respectivo tramo carretero, de conformidad con los supuestos previstos en el artículo 74 Ter de la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 217.
 
-Los vehículos que sean retirados de la circulación por las causas que establecen las fracciones I, II y V del artículo 74-Ter de la Ley, serán remitidos al depósito de vehículos permisionado por la Secretaría de Comunicaciones y Transportes y sólo serán liberados después de realizado el pago de las sanciones impuestas o de haberse otorgado garantía suficiente en términos del artículo 76 de la Ley.
+Los vehículos que sean retirados de la circulación por las causas que establecen las fracciones I, II y V del artículo 74 Ter de la Ley, serán remitidos al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes y sólo serán liberados después de realizado el pago de las sanciones impuestas o de haberse otorgado garantía suficiente en términos del artículo 76 de la Ley y 204 de este Reglamento.
 
 Los vehículos respecto de los cuales el retiro de la circulación se fundamente en la fracción III del artículo 74 Ter de la Ley, serán puestos a disposición de la autoridad competente, en términos del artículo 89 de este Reglamento.
 
-Aquellos vehículos retirados de la circulación por no cumplir con las condiciones mínimas de seguridad a que se refiere el artículo 74 Ter, fracción IV de la Ley, deberán ser conducidos al depósito de vehículos permisionados por la Secretaría de Comunicaciones y Transportes, en el respectivo tramo carretero, y únicamente podrán reincorporarse al tránsito hasta que hayan sido subsanadas las deficiencias detectadas.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+Aquellos vehículos retirados de la circulación por exceder las especificaciones de peso, dimensiones y capacidad máximas permitidas por las disposiciones aplicables y, por tanto, no cumplir con las condiciones mínimas de seguridad a que se refiere el artículo 74 Ter, fracción IV, de la Ley, deberán ser conducidos y remitidos al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes, en el respectivo tramo carretero, y únicamente podrán reincorporarse al tránsito hasta que hayan sido subsanadas las deficiencias detectadas.
 
 El retiro de la circulación de los vehículos será independiente de las sanciones que hayan sido impuestas.
 
@@ -2893,9 +3137,13 @@ El retiro de la circulación de vehículos se hará conforme a lo siguiente:
 
 A. Cuando el retiro de la circulación de los vehículos obedezca a los casos fijados por las fracciones I, II y V del artículo 74 Ter de la Ley, se observará el siguiente procedimiento:
 
-I. El Policía Federal ordenará a los conductores de vehículos que detengan su circulación y exhiban la documentación que establezcan las disposiciones legales aplicables e impondrá, en su caso, las sanciones por la infracción cometida al presente Reglamento, así como por el incumplimiento de las normas que regulan la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
 
-II. Requisitará la Boleta de Infracción y ordenará que se retire el vehículo de la circulación y se remita al depósito de vehículos autorizado por la Secretaría de Comunicaciones y Transportes;
+I. La persona integrante de la Guardia Nacional ordenará a los conductores de vehículos que detengan su circulación y exhiban la documentación que establezcan las disposiciones jurídicas aplicables e impondrá, en su caso, las sanciones por la infracción cometida al presente Reglamento, así como por el incumplimiento de las normas que regulan la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado;
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+II. Llenará la boleta de infracción y ordenará que se retire el vehículo de la circulación y se remita al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes;
 
 III. De conformidad con la naturaleza del servicio que presten los vehículos:
 
@@ -2905,29 +3153,43 @@ a) Cuando se trate del servicio de autotransporte federal de pasaje o turismo, e
 
 Para efectos de lo dispuesto en el párrafo que antecede, se requerirá el apoyo de los demás permisionarios de autotransporte federal de pasaje o turismo;
 
-2. Concluidos los actos anteriores, el vehículo será conducido al depósito de vehículos permisionado por la Secretaría de Comunicaciones y Transportes que corresponda, acompañado por los Policías Federales, mismos que elaborarán el inventario de la unidad respectiva.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+2. Concluidos los actos anteriores, el vehículo será conducido al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes que corresponda, acompañado por las personas integrantes de la Guardia Nacional, estas elaborarán el inventario de la unidad respectiva.
 
 La responsabilidad del permisionario cuyo vehículo sea retirado de la circulación, respecto de los recursos necesarios para el traslado final del pasaje trasbordado, se hará efectiva de conformidad con las disposiciones aplicables en materia de autotransporte federal, y
 
 b) Cuando se trate del servicio de autotransporte federal de carga general o especializada, así como de los servicios de arrastre o arrastre y salvamento:
 
-1. El vehículo será conducido al depósito de vehículos permisionado por la Secretaría de Comunicaciones y Transportes que corresponda, siendo acompañado por los Policías Federales, mismos que en su momento elaborarán el inventario respectivo;
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
-2. La carga quedará a disposición del conductor o de su propietario, brindándole las facilidades necesarias para realizar el trasbordo de la misma y, en su caso, cuando el vehículo sea un remolque o semirremolque podrá ser acoplado a otro tractocamión para su traslado, y
+1. El vehículo será conducido al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes que corresponda, siendo acompañado por las personas integrantes de la Guardia Nacional, estas elaborarán el inventario respectivo;
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+2. La carga quedará a disposición del conductor o de su propietario en cualquier momento, brindándole las facilidades necesarias para realizar el trasbordo de dicha carga y, en su caso, cuando el vehículo sea un remolque o semirremolque podrá ser acoplado a otro tractocamión para su traslado, y
 
 3. Tratándose de vehículos que transporten materiales y residuos peligrosos, se aplicaran las disposiciones previstas en el Reglamento para el Transporte Terrestre de Materiales y Residuos Peligrosos, en la Ley y demás que resulten aplicables a la carga que se transporta.
 
 B. Cuando el retiro de la circulación de los vehículos obedezca al caso fijado por la fracción III del artículo 74-Ter de la Ley, además de lo previsto en el inciso A, fracción I, de este artículo, se observará el siguiente procedimiento:
 
-I. Establecida la infracción del conductor y, atendiendo a las características y placas del vehículo, los Policías Federales le solicitarán que acredite la legal estancia del mismo en el territorio nacional;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
 
-II. En caso de que de la documentación entregada a los Policías Federales se desprende la legal estancia del vehículo en el territorio nacional, procederán a requisitar la Boleta de Infracción.
+I. Establecida la infracción del conductor y, en atención a las características y placas del vehículo, las personas integrantes de la Guardia Nacional le solicitarán que acredite la legal estancia del vehículo en el territorio nacional;
 
-En caso contrario, además de requisitar la Boleta de Infracción, los Policías Federales dispondrán la remisión del vehículo al depósito de vehículos permisionado por la Secretaría de Comunicaciones y Transportes que corresponda en el tramo carretero respectivo, dando aviso a la autoridad aduanera competente, y quedando el vehículo a su disposición, y
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
 
-III. En caso de que los vehículos estén destinados al servicio de autotransporte federal de pasaje o turismo, los Policías Federales estarán a lo dispuesto en la fracción III del apartado A del presente artículo.
+II. En caso de que de la documentación entregada a las personas integrantes de la Guardia Nacional se desprende la legal estancia del vehículo en el territorio nacional, procederán a requisitar la boleta de infracción.
 
-C. Cuando el retiro de la circulación de los vehículos obedezca al caso fijado por la fracción IV del artículo 74 Ter de la Ley, éstos serán remitidos a los depósitos de vehículos permisionados por la Secretaría de Comunicaciones y Transportes, conforme a lo siguiente:
+En caso contrario, además de requisitar la boleta de infracción, las personas integrantes de la Guardia Nacional dispondrán la remisión del vehículo al depósito de vehículos permisionado por la Secretaría de Infraestructura, Comunicaciones y Transportes que corresponda en el tramo carretero respectivo, avisando a la autoridad aduanera competente, y quedando el vehículo a su disposición, y
+
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+III. En caso de que los vehículos estén destinados al servicio de autotransporte federal de pasaje o turismo, las personas integrantes de la Guardia Nacional estarán a lo dispuesto en la fracción III del apartado A del presente artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+C. Cuando el retiro de la circulación de los vehículos obedezca al caso previsto por la fracción IV del artículo 74 Ter de la Ley, estos serán remitidos a los depósitos de vehículos permisionados por la Secretaría de Infraestructura, Comunicaciones y Transportes, conforme a lo siguiente:
 
 I. Para efectos de lo dispuesto en este apartado, se entenderá que los vehículos no cumplen con las condiciones mínimas de seguridad, en los casos en que el equipo de éstos falte, presente descomposturas, sea inoperante o tenga un funcionamiento deficiente, de conformidad con lo siguiente:
 
@@ -2993,7 +3255,9 @@ g) Sistema de frenos hidráulicos:
 
 h) Cuando falte la conexión entre la unidad motriz y la de arrastre en el sistema de frenos eléctricos.
 
-II. Detenido el vehículo por su evidente incumplimiento a las señaladas condiciones mínimas de seguridad, los Policías Federales procederán a inspeccionar la situación físico-mecánica del mismo;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2026)</small>
+
+II. Detenido el vehículo por su evidente incumplimiento a las condiciones mínimas de seguridad señaladas en este Reglamento, las personas integrantes de la Guardia Nacional procederán a inspeccionar la situación físico-mecánica de dicho vehículo;
 
 III. Verificada la falta de alguna de las condiciones mínimas de seguridad:
 
@@ -3001,17 +3265,23 @@ a) Si el vehículo presta el servicio autotransporte (sic) federal de pasaje o t
 
 1. Se seguirá en lo conducente el procedimiento establecido en el apartado A, fracción III, inciso a), de este artículo, y
 
-2. Será trasladado por su conductor, a velocidad mínima, al lugar más cercano para su reparación, acompañado, de ser posible, por los Policías Federales, una vez que el pasaje haya sido reubicado en las unidades que le permitan la continuación de su traslado.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+2. Será trasladado por su conductor al lugar más cercano para su reparación, acompañado, de ser posible, por las personas integrantes de la Guardia Nacional, una vez que el pasaje haya sido reubicado en las unidades que le permitan la continuación de su traslado.
 
 b) Si el vehículo presta el servicio de autotransporte federal de carga general o especializada, así como los servicios de arrastre y de arrastre y salvamento:
 
 1. Se seguirá en lo conducente el procedimiento establecido en el apartado A, fracción III, inciso b), y
 
-2. Será trasladado por su conductor, a velocidad mínima, al lugar más cercano para su reparación, acompañado, de ser posible, por los Policías Federales.
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+2. Será trasladado por su conductor al lugar más cercano para su reparación, acompañado, de ser posible, por las personas integrantes de la Guardia Nacional.
 
 c) Si el vehículo es de uso particular, se aplicará el punto dos del inciso precedente.
 
-IV. Asimismo, se entenderá que los vehículos no cumplen con las condiciones mínimas de seguridad y serán remitidos a depósitos de vehículos permisionados por la Secretaría de Comunicaciones y Transportes en el respectivo tramo carretero, cuando se encuentren en tránsito bajo las siguientes circunstancias:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+IV. Se entenderá que los vehículos no cumplen con las condiciones mínimas de seguridad y serán remitidos a depósitos de vehículos permisionados por la Secretaría de Infraestructura, Comunicaciones y Transportes en el respectivo tramo carretero, cuando se encuentren en tránsito bajo las siguientes circunstancias:
 
 a) No estén provistos de placas metálicas de identificación vehicular, tarjeta de circulación y, en su caso, engomado vigente, conforme al artículo 85 de este Reglamento, y el conductor no porte su licencia de manejo vigente o el documento que la supla, conforme al artículo 81, fracción II, del mismo ordenamiento;
 
@@ -3035,9 +3305,11 @@ La autoridad competente expedirá el oficio de liberación o, en su caso de entr
 
 El permisionario del servicio de depósito de vehículos deberá hacer la entrega del vehículo que tenga bajo su guarda y custodia, en las condiciones en que lo haya recibido y que conste en el inventario del mismo, una vez que se cubra el importe de los servicios proporcionados respecto del vehículo de que se trate.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 220.
 
-La Secretaría y la Secretaría de Comunicaciones y Transportes se coordinarán para el ejercicio de las funciones a que se refiere este Capítulo.
+La Secretaría, por conducto de la Guardia Nacional, y la Secretaría de Infraestructura, Comunicaciones y Transportes se coordinarán para el ejercicio de las funciones a que se refiere este Capítulo.
 
 ### CAPÍTULO III. DEL COBRO DE LAS MULTAS
 
@@ -3049,25 +3321,33 @@ El infractor deberá cubrir el importe de las multas dentro de los treinta días
 
 El pago de la multa se realizará en términos de las disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 223.
 
-La Secretaría y la Policía Federal promoverán convenios de coordinación o colaboración con autoridades Federales, de las Entidades Federativas y Municipios o delegaciones, a fin de cumplir con el objeto del presente Reglamento.
+La Secretaría, a través de la Guardia Nacional, promoverán convenios de coordinación o colaboración con autoridades federales, de las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México, a fin de acordar acciones conjuntas o complementarias y de apoyo en casos de emergencias o auxilio a las personas usuarias de vías federales.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 224.
 
-En caso de que el conductor infractor sea persona diversa al propietario del vehículo, la Policía Federal notificará a este último, por correo certificado con acuse de recibo, la infracción y la multa impuesta.
+En caso de que el conductor infractor sea persona diversa al propietario del vehículo, la Guardia Nacional notificará a este último, por correo certificado con acuse de recibo, la infracción y la multa impuesta.
 
 ###### Artículo 225.
 
 Vencido el plazo señalado en el artículo 206 de este Reglamento, la Boleta de Infracción será turnada a la autoridad fiscal correspondiente.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 226.
 
-En los términos establecidos por la Ley Federal de Procedimiento Administrativo, las multas podrán ser recurridas por el infractor o por su representante legal ante la Coordinación Estatal a la que esté o se encontraba adscrito el Policía Federal que la haya impuesto, mediante el recurso de revisión. En su defecto, se podrá promover juicio ante el Tribunal Federal de Justicia Fiscal y Administrativa, en los términos y formas señalados por las disposiciones aplicables.
+En los términos establecidos por la Ley Federal de Procedimiento Administrativo, las multas podrán ser recurridas por el infractor o por su representante legal ante la Coordinación de la Guardia Nacional o en alguna de sus estaciones dentro de la misma entidad federativa en que se impuso la sanción, mediante el recurso de revisión. En su defecto, se podrá promover juicio ante el Tribunal Federal de Justicia Administrativa, en los términos y formas señalados por las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 227.
 
-La interposición del medio de defensa suspenderá la ejecución de la multa, siempre que se acredite que se encuentra debidamente garantizado el interés fiscal, en los términos de las disposiciones aplicables.
+La interposición del medio de defensa suspenderá la ejecución de la multa cuando resulte procedente conforme a las disposiciones jurídicas aplicables.
 
 ###### Artículo 228.
 
@@ -3077,9 +3357,11 @@ Los ingresos derivados por concepto de multas, a que se refiere este Reglamento,
 
 #### SECCIÓN PRIMERA. DE LAS PREVENCIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 229.
 
-La Policía Federal y la Secretaría dispondrán de un sistema informático para administrar la información que derive de la imposición de sanciones a los usuarios de las vías federales y, en su caso, a los permisionarios de autotransporte federal, sus servicios auxiliares y transporte privado, por las infracciones de las disposiciones de este Reglamento.
+La Guardia Nacional y la Secretaría dispondrán de un sistema informático para administrar la información que derive de la imposición de sanciones a las personas usuarias de las vías federales y, en su caso, a los permisionarios de autotransporte federal, sus servicios auxiliares y transporte privado, por las infracciones de las disposiciones de este Reglamento.
 
 ###### Artículo 230.
 
@@ -3109,7 +3391,9 @@ j) Nombre y domicilio del permisionario, si se trata de vehículos destinados al
 
 k) Unidad Operativa dentro de cuya circunscripción territorial se haya cometido y sancionado la infracción;
 
-l) Nombre, grado y número de expediente del Policía Federal que imponga la sanción;
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+l) Nombre, grado y número de expediente de la persona integrante de la Guardia Nacional que imponga la sanción y firma;
 
 m) Vehículo en garantía de la multa impuesta y, en su caso, en depósito, y
 
@@ -3159,7 +3443,9 @@ a) Ingresos recibidos por pago de multas impuestas a usuarios de las vías feder
 
 b) Ingresos recibidos por pago de multas impuestas a conductores por violaciones a las disposiciones en materia de autotransporte federal, sus servicios auxiliares o al transporte privado;
 
-c) Remisiones a la Secretaría de Comunicaciones y Transportes;
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
+c) Remisiones a la Secretaría de Infraestructura, Comunicaciones y Transportes;
 
 d) Ingresos recibidos por operaciones bancarias;
 
@@ -3171,13 +3457,17 @@ f) Remisiones a cada Centro de Verificación de baja emisión de contaminantes.
 
 Sólo las autoridades fiscales podrán ingresar al Sistema de Administración de Información los datos relativos a su intervención en materia de cobro de sanciones pecuniarias.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
+
 ###### Artículo 232.
 
-Corresponderá únicamente a la Policía Federal rectificar los datos del Sistema Administrativo de Información.
+Corresponde únicamente a la Guardia Nacional rectificar los datos del sistema administrativo de información.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2026)</small>
 
 ###### Artículo 233.
 
-La Policía Federal podrá expedir constancias respecto de los vehículos que estén involucrados en hechos de tránsito o en infracciones administrativas a las que se refiere este Reglamento.
+La Guardia Nacional podrá expedir constancias respecto de los vehículos que estén involucrados en hechos de tránsito o en infracciones administrativas a las que se refiere este Reglamento.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -3196,3 +3486,17 @@ SEXTO.- Las acciones que se deriven de la aplicación del presente Reglamento, s
 SÉPTIMO.- Las menciones que en cualquier disposición se hagan respecto del Reglamento de Tránsito en Carreteras Federales, se entenderán referidas al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a catorce de noviembre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Seguridad Pública, Genaro García Luna.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Dionisio Arturo Pérez-Jácome Friscione.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO EN CARRETERAS Y PUENTES DE JURISDICCIÓN FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto que intervienen en la aplicación de este, por lo que no se autorizarán ampliaciones a su presupuesto para el ejercicio fiscal ni en subsecuentes, y no se podrá incrementar su presupuesto regularizable para gasto de operación y servicios personales.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+CUARTO.- A partir de la entrada en vigor del presente Decreto, se otorga un plazo de ciento ochenta días para que la Secretaría de la Defensa Nacional emita el acuerdo por el que se establecen los formatos de boleta de infracción, amonestación escrita, Acta-Convenio y dictamen técnico de hecho de tránsito.
