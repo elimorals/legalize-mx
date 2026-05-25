@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2026-05-11"
+last_updated: "2026-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1927,15 +1927,43 @@ Privación ilegal de la libertad. La Privación Ilegal de la Libertad consiste e
 
 Al responsable de Privación Ilegal de la Libertad se le aplicarán de 6 meses a 3 años de prisión y de 50 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 135.
 
-Aumento de sanción. La punibilidad será de 2 a 8 años de prisión y de 100 a 200 días multa, y pago total de la reparación de los daños y perjuicios ocasionados, cuando el hecho descrito en el Artículo 134 se realice:
+Aumento de sanción. La punibilidad en la privación ilegal de la libertad será de 2 a 8 años de prisión, de 100 a 200 días multa y el pago total de la reparación de los daños y perjuicios ocasionados, cuando:
 
-I. Con utilización de fuerza física o moral, o vejación de la víctima;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2026)</small>
 
-II. En víctima menor de 16 años de edad o mayor de 70, o que por cualquier otra circunstancia esté en situación de desventaja o inferioridad física respecto del inculpado; o
+I. Se lleve a cabo con violencia física, moral o psicológica contra la víctima;
 
-III. Que el resultado lesivo se prolongue por más de 8 días.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2026)</small>
+
+II. La víctima sea niña, niño, adolescente o mayor de 60 años, o que por cualquier otra circunstancia esté en situación de desventaja o inferioridad física o mental respecto de la persona inculpada;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2026)</small>
+
+III. El resultado lesivo se prolongue por más de 24 horas;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2026)</small>
+
+IV. La persona inculpada tenga un vínculo familiar, afectivo o contractual, en virtud del cual la víctima haya depositado su confianza en este;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2026)</small>
+
+V. Por razones de género, cuando la conducta se cometa en agravio de una mujer y el hecho tenga como finalidad, efecto o contexto someterla, controlarla, dominarla, restringir su autonomía o castigarla, aprovechándose de una relación de poder o sentimental;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2026)</small>
+
+VI. Cuando el sujeto activo sea una persona servidora pública, y cometa la conducta aprovechándose de su cargo, funciones, investidura o de la confianza que la función pública le confiere, independientemente de que el hecho se ejecute dentro o fuera del horario de servicio o sin utilizar medios oficiales; o
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2026)</small>
+
+VII. Que la conducta se realice en el domicilio familiar o lugar de residencia de la víctima, valiéndose del uso de candados, cerraduras, ataduras o instrumentos de inmovilización que anulen su libertad de tránsito o movimiento.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2026)</small>
+
+Las agravantes previstas en este artículo podrán concurrir de manera simultánea, sin que se excluyan entre sí, y deberán ser valoradas conforme a las circunstancias del caso concreto.
 
 ###### ARTÍCULO 136.
 
@@ -3360,6 +3388,10 @@ Al responsable de las conductas descritas en este Artículo, se le aplicarán de
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
 Si quien comete este delito es servidor público o que por su trabajo o labores se encuentre bajo su resguardo o custodia el cadáver o restos humanos, las penas se incrementarán en una tercera parte en sus mínimos y máximos.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2026)</small>
+
+Al responsable de las conductas descritas en las fracciones anteriores, tratándose de cuerpos sin vida o restos humanos de niñas, niños y adolescentes, las penas previstas en este artículo se incrementarán hasta en una mitad, en sus mínimos y máximos.
 
 ### CAPÍTULO XV. Tipos Penales Protectores de la Seguridad Interior del Estado
 
@@ -5000,6 +5032,26 @@ Las autoridades competentes implementarán, en el ámbito de sus atribuciones, c
 P.O. 11 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 482.- SE DEROGA UN CAPÍTULO VI DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 495.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Aquellos procedimientos judiciales, que se estén llevando a cabo respecto del tipo penal que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
+
+P.O. 25 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 496.- SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 183 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
