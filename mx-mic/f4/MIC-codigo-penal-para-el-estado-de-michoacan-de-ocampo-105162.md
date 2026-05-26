@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2026-02-12"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -2027,25 +2027,45 @@ Si se ejerciera violencia física o psicológica, en los supuestos de las fracci
 
 ### CAPÍTULO II. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2026)</small>
 
 ###### Artículo 166.
 
-Abuso sexual.
+Comete el delito de abuso sexual quien sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, realice en el ámbito público o privado, cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
+También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo. Se entiende por acto sexual los tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explícitas. Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad. El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
 
-A quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual o la haga ejecutarlo, se le impondrá de tres a diez años de prisión. Si se hiciere uso de violencia física o psicológica, la pena prevista se aumentará hasta en una mitad.
+A quien cometa este delito se le impondrá una sanción de tres a siete años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización. Así mismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres. El cumplimiento de esta obligación es de especial relevancia para la procedencia y continuidad de la suspensión condicional.
 
-También se considera abuso sexual cuando se obligue a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
+Este delito se perseguirá de oficio.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
+Las penas previstas para el delito de abuso sexual y abuso sexual de menores, se aumentarán en una tercera parte cuando el delito se cometa en cualquiera de las siguientes circunstancias:
 
-Se entiende por acto sexual, los tocamientos o manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
+I. Con violencia física, psicológica o moral;
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
+II. Por dos o más personas;
 
-Este delito se perseguirá por querella, salvo que concurra violencia en cuyo caso se procederá de oficio.
+III. En un lugar despoblado, solitario o poco accesible;
+
+IV. Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
+
+V. Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidado o dependencia económica;
+
+VI. Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VII. Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles;
+
+VIII. Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
+
+IX. Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+X. Cuando la víctima se encuentre en estado de embarazo o puerperio;
+
+XI. Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género; y,
+
+XII. Cuando la víctima se encuentre en estado de indefensión.
+
+Adicional a las sanciones establecidas en este artículo, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que deberá incluir, entre otras medidas establecidas en la Ley General de Víctimas, la atención psicológica especializada para la víctima, hasta su total recuperación.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2024)</small>
 
@@ -2063,13 +2083,11 @@ Este delito se perseguirá de oficio.
 
 Los delitos de violación equiparada y de abuso sexual de personas menores de dieciocho años de edad se excluyen cuando las conductas típicas de los mismos sean realizadas de forma consensuada, libre e informada, entre una persona mayor de dieciséis años y menor de dieciocho años de edad, con otra persona mayor que aquella hasta por dos años de edad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2026)</small>
+
 ###### Artículo 168.
 
-Agravantes
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2024)</small>
-
-Las penas previstas para la violación, violación equiparada, abuso sexual y abuso sexual de personas menores de dieciocho años de edad, se aumentarán en dos terceras partes cuando sean cometidos o tengan como resultado:
+Las penas previstas para la violación y violación equiparada, se aumentarán en dos terceras partes cuando sean cometidos o tengan como resultado:
 
 I. Con intervención directa o inmediata de dos o más personas;
 
@@ -5116,3 +5134,9 @@ P.O. 12 DE FEBRERO DE 2026.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. La Secretaría del Medio Ambiente y los Gobiernos Municipales, contarán con un plazo de 180 días hábiles para hacer las modificaciones necesarias a sus reglamentos, para fijar los parámetros de las sanciones de multa a que se refiere el artículo 66 de la Ley de Derechos, el Bienestar y Protección de los Animales en el Estado de Michoacán de Ocampo.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 447 POR EL QUE ”SE REFORMAN LOS ARTÍCULOS 166 Y 168 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
