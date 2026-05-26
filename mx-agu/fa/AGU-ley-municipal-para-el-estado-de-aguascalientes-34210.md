@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2026-05-11"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -166,6 +166,12 @@ IV. El respeto a la dignidad de las mujeres;
 V. El pluralismo social y la multiculturalidad de las mujeres; y
 
 VI. La perspectiva de género que permite incorporar a la mujer como sujeto social.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+###### Artículo 11 Quáter.
+
+Los ayuntamientos podrán promover el financiamiento de proyectos productivos para mujeres emprendedoras, y establecer mecanismos de apoyo técnico y capacitación para el fortalecimiento de dichos proyectos, en coordinación con el sector público, privado y organizaciones civiles.
 
 ### CAPITULO CUARTO. De la Creación de Municipios
 
@@ -3050,3 +3056,11 @@ Las autoridades municipales, en el ámbito de sus respectivas competencias, debe
 ###### ARTÍCULO TERCERO.
 
 Quedan sin efectos todas aquellas disposiciones que se oponga (sic) al presente Decreto.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 500.- SE ADICIONA EL ARTÍCULO 11 QUÁTER A LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
