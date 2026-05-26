@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-profesiones-del-estado-de-michoacan-de-ocampo-140205"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-20"
-last_updated: "2020-01-20"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROFESIONES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 20 de enero de 2020.
 
@@ -507,6 +507,14 @@ Las escuelas, institutos, universidades y autoridades competentes establecerán 
 
 La acreditación del servicio social estudiantil será regulada por el Instituto de la Juventud Michoacana.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+ARTÍCULO 23 BIS. Las y los estudiantes de las instituciones de educación superior del Estado que se desempeñen dentro de la función pública, podrán liberar el servicio social estudiantil exigido para su titulación, como parte del trabajo que desempeñan.
+
+Las y los estudiantes deberán acreditar una antigüedad mínima de un año en el desempeño de su cargo o comisión, mediante constancia oficial expedida por el área de recursos humanos o administrativa competente de la dependencia o entidad pública correspondiente.
+
+La validación a que se refiere este artículo surtirá plenos efectos académicos ante las autoridades educativas y las instituciones de educación superior públicas y privadas del Estado.
+
 ###### ARTÍCULO 24.
 
 Objeto del servicio social profesional.
@@ -526,6 +534,10 @@ El servicio social profesional deberá ejercerse con los mismos requisitos, comp
 Inscripción del Servicio Social Profesional.
 
 El servicio social profesional será informado a la Dirección de Profesiones; anotado en el expediente del profesionista. Al término extenderá una constancia de su ejercicio.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+ARTÍCULO 26 BIS. El servicio social realizado por estudiantes de nivel medio superior y superior, conforme a la normatividad vigente y debidamente acreditado por la institución receptora, será reconocido como experiencia laboral para efectos de empleabilidad, programas de primer empleo, prácticas profesionales y demás políticas públicas en materia de trabajo y juventud.
 
 ### CAPÍTULO OCTAVO. CERTIFICACIÓN PROFESIONAL
 
@@ -926,3 +938,19 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 03 tres días del mes de enero del año 2020 dos mil veinte.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- ING. CARLOS HERRERA TELLO.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 444 POR EL QUE “SE ADICIONAN LOS ARTÍCULOS 23 BIS Y 26 BIS A LA LEY DE PROFESIONES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Las instituciones de educación superior en el Estado de Michoacán de Ocampo dispondrán de un plazo de 60 días, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a sus reglamentos internos y normatividad escolar, conforme lo señalado en el artículo 23 Bis del presente Decreto.
+
+Tercero. Las dependencias y entidades de la Administración Pública estatal y municipal, cuentan con 60 días, contados a partir de la entrada en vigor del presente Decreto, para realizar los trámites necesarios para inscribirse en la plataforma oficial correspondiente del Instituto de la Juventud Michoacana, atento a lo establecido en el artículo 23 Bis del presente Decreto.
+
+Cuarto. Los estudiantes o pasantes que, a la entrada en vigor del presente Decreto, se encuentren realizando su servicio social y cumplan con los requisitos establecidos en el artículo 23 Bis del presente Decreto, podrán solicitar la convalidación inmediata de sus actividades laborales para la liberación de dicho requisito.
+
+Quinto. La Secretaría de Educación a través de la Dirección de Profesiones cuenta con 60 días, contados a partir de la entrada en vigor del presente Decreto, para adecuar su reglamentación correspondiente, conforme a lo establecido en el artículo 26 Bis del presente Decreto.
