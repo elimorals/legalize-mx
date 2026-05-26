@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-553-de-acceso-de-las-mujeres-a-una-vida-libre-de-614
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-08"
-last_updated: "2025-10-31"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de febrero de 2008.
 
@@ -113,9 +113,17 @@ XX. Víctima: la mujer de cualquier edad, a quien se le inflinge cualquier tipo 
 
 XXI. Víctima indirecta: familiares de la víctima y/o personas que tengan relación o convivencia con la misma, y que sufran o se encuentren en estado de riesgo por motivo de la violencia ejercida contra las mujeres;
 
-XXII. Violencia contra las mujeres: cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte, tanto en el ámbito privado como en el público; y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-XXIII. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformado por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta contra las mujeres.
+XXII. Violencia contra las mujeres: cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte, tanto en el ámbito privado como en el público;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XXIII. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta contra las mujeres, y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XXIV. Modalidades de violencia: los diversos ámbitos, formas o manifestaciones en los que ocurren los tipos de violencia contra las mujeres.
 
 ## TÍTULO SEGUNDO (SIC)
 
@@ -301,85 +309,73 @@ XVII. Garantizar la confidencialidad de los datos personales de las mujeres víc
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO I. TIPOS DE VIOLENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MAYO DE 2026)</small>
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO No. 811 SESIONADO EL 27 DE MAYO Y PUBLICADO EN EL P.O. DE 28 DE JUNIO AMBOS DEL 2024, SE ADVIERTE QUE LA FRACCIÓN VIII DEL CITADO DECRETO YA HABIA SIDO ADICIONADA EN EL DECRETO No. 809 SESIONADO EL 21 DE MAYO DE 2024 Y PUBLICADO EN LA MISMA FECHA DEL DECRETO No. 811, TRATÁNDOSE DE UNA NUEVA FRACCIÓN VIII EN VIRTUD DE QUE EL CONTENIDO ES DISTINTO.]</small>
+### CAPÍTULO I. TIPOS Y MODALIDADES DE VIOLENCIA
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 9.
 
-Los tipos de violencia contra las mujeres son:
+Los tipos y modalidades de violencia contra las mujeres, son:
+
+De los tipos:
 
 I. Violencia física: toda agresión en la que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física del otro, ya sea que provoque o no lesiones internas, externas, o ambas;
 
-II. Violencia psico-emocional: el patrón de conducta que consiste en actos u omisiones, cuyas formas de expresión pueden ser prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias o de abandono, negligencia, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la victima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+II. Violencia psicológica: el patrón de conducta que consiste en actos u omisiones, cuyas formas de expresión pueden ser prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias o de abandono, negligencia, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
-III. Violencia sexual. es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
+III. Violencia sexual: es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
 IV. Violencia patrimonial: es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; y
 
 V. Violencia económica: es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas.
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+De las modalidades:
 
-VI. Violencia Obstétrica: Se refiere a toda acción u omisión de profesionales y personal de la salud en el ámbito público y privado, que cause daño o perjuicio físico, sexual, psicológico y de cualquier índole a las mujeres durante el embarazo, parto o puerperio, que se exprese en:
+I. Violencia obstétrica: se refiere a toda acción u omisión de profesionales y personal de la salud en el ámbito público y privado, que cause daño o perjuicio físico, sexual, psicológico y de cualquier índole a las mujeres durante el embarazo, parto o puerperio, que se exprese en:
 
-a) La falta u obstaculización de acceso a servicios de salud sexual o reproductiva;
+a)-La falta u obstaculización de acceso a servicios de salud sexual o reproductiva;
 
-b) Un trato discriminatorio y (sic) menoscabo a las mujeres;
+b)-Un trato discriminatorio y menoscabo a las mujeres;
 
-c) Medicación sin contemplar el contexto particular de cada una de las mujeres;
+c)-Medicación sin contemplar el contexto particular de cada una de las mujeres;
 
-d) La práctica innecesaria, no autorizada o consentida sin información suficiente de intervenciones o procedimientos quirúrgicos;
+d)-La práctica innecesaria, no autorizada o consentida sin información suficiente de intervenciones o procedimientos quirúrgicos;
 
-e) La falta de acceso, manipulación o negación de información;
+e)-La falta de acceso, manipulación o negación de información;
 
-f) Las prácticas que violenten la intimidad de las mujeres a través de tocamientos o exhibiciones innecesarias a sus cuerpos;
+f)-Las prácticas que violenten la intimidad de las mujeres a través de tocamientos o exhibiciones innecesarias a sus cuerpos;
 
-g) La ausencia o falta de aplicación de protocolos de actuación, políticas públicas, reglamentos y acciones en espacios públicos dirigidas al cuidado de las mujeres en estas etapas;
+g)-La ausencia o falta de aplicación de protocolos de actuación, políticas públicas, reglamentos y acciones en espacios públicos dirigidas al cuidado de las mujeres en estas etapas;
 
-h) La ausencia o falta de aplicación de protocolos de actuación, políticas públicas, reglamentos y acciones en espacios públicos dirigidos al cuidado de las mujeres cuyos productos nacen muertos;
+h)-La ausencia o falta de aplicación de protocolos de actuación, políticas públicas, reglamentos y acciones en espacios públicos dirigidos al cuidado de las mujeres cuyos productos nacen muertos;
 
-i) La ausencia o falta de aplicación (sic) protocolos de actuación, políticas públicas, reglamentos y acciones en espacios públicos dirigidas al trato digno de las familias, acompañantes y amistades de las mujeres durante estas etapas;
+i)-La ausencia o falta de aplicación de protocolos de actuación, políticas públicas, reglamentos y acciones en espacios públicos, dirigidas al trato digno de las familias, acompañantes y amistades de las mujeres durante estas etapas;
 
-j) Cualquier otra forma de violencia obstétrica física como el suministro injustificado de medicación de la mujer o el no respetar los tiempos y las posibilidades del parto biológico.
+j)-Cualquier otra forma de violencia obstétrica física, como el suministro injustificado de medicación de la mujer o el no respetar los tiempos y las posibilidades del parto biológico;
 
-k) Cualquier otra forma de violencia obstétrica psicológica, incluido el trato grosero o discriminatorio cuando la mujer pide asesoramiento o requiere atención.
+k)-Cualquier otra forma de violencia obstétrica psicológica, incluido el trato grosero o discriminatorio cuando la mujer pide asesoramiento o requiere atención; y
 
-l) En general, en cualquier situación que implique la pérdida o disminución de su autonomía y la capacidad de decidir, de manera libre e informada, a lo largo de dichas etapas.
+l)-En general, en cualquier situación que implique la pérdida o disminución de su autonomía y la capacidad de decidir, de manera libre e informada, a lo largo de dichas etapas;
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+II. Violencia vicaria: acción u omisión cometida por aquel con quien una mujer tenga o haya tenido relación de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho, que tenga por objeto o resultado el rompimiento o la obstrucción del vínculo con la madre, provocar un daño físico, psicológico, emocional o de cualquier otro tipo a una mujer a través del maltrato, menoscabo, sustracción, daño, peligro u homicidio de sus hijas e hijos, una persona vinculada afectivamente a la mujer, o un ser sintiente. Este tipo de violencia puede cometerse por sí o a través de un tercero, y es particularmente grave cuando se ejerce por familiares o personas con relación afectiva de quien comete este tipo de violencia, así como por las instituciones de justicia, que al no reconocerla emiten sentencias en contra de los derechos de las mujeres y del interés superior de la niñez;
 
-VII. Violencia vicaria: Acción u omisión cometida por aquel con quien una mujer tenga o haya tenido relación de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho, que tenga por objeto o resultado el rompimiento o la obstrucción del vínculo con la madre, provocar un daño físico, psicológico, emocional o de cualquier otro tipo a una mujer a través del maltrato, menoscabo, sustracción, daño, peligro u homicidio de sus hijas e hijos, una persona vinculada afectivamente a la mujer, o un ser sintiente. Este tipo de violencia puede cometerse por sí, o a través de un tercero, y es particularmente grave cuando se ejerce por familiares o personas con relación afectiva de quien comete este tipo de violencia, así como por las instituciones de justicia que al no reconocerla, emiten sentencias en contra de los derechos de las mujeres y del interés superior de la niñez.
+III. Violencia ácida: se refiere al uso de cualquier tipo de agente o sustancia química, corrosiva, tóxica, inflamable, incluyendo álcalis, ácidos, irritantes, líquidos a altas temperaturas, medicamentos, drogas, gases o cualquier otra sustancia que provoque lesiones que causen daño físico irreversible a una mujer o que le cause alguna discapacidad;
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
+IV. Violencia simbólica: es la que se ejerce a través de patrones estereotipados, mensajes, valores, íconos o signos que transmiten y reproducen dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad;
 
-VIII. Violencia Ácida: Se refiere al uso de cualquier tipo de agente o sustancia química, corrosiva, tóxica, inflamable, incluyendo álcalis, ácidos, irritantes, líquidos a altas temperaturas, medicamentos, drogas, gases o cualquier otra sustancia que provoque lesiones, que causen daño físico irreversible a una mujer o que le cause alguna discapacidad.
+V. Violencia digital: es cualquier acto realizado por medio del uso de las tecnologías de la información y la comunicación en las cuales se exponga, difunda, distribuya, exhiba, comparta, comercialice, transmita, oferte, intercambie imágenes, audios, videos reales o simulados de contenido íntimo y sexual de una persona sin su consentimiento, autorización o aprobación, y que derivado de esta acción le cause un daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia, causando daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MAYO DE 2025)</small>
+Entre otras, se puede manifestar mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas, ya sean propias o de otra persona, que cause daño o perjuicio y que atente contra la integridad, la dignidad, la libertad o la vida privada de las mujeres.
 
-IX. Violencia simbólica: es la que se ejerce a través de patrones estereotipados, mensajes, valores, íconos o signos que transmiten y reproducen dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad;
+Para efectos de la presente fracción, se entenderá por Tecnologías de la Información y la Comunicación, aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2025)</small>
+VI. Violencia mediática: se entiende como todo acto a través de cualquier medio de comunicación que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida. La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad;
 
-X. Violencia digital: es cualquier acto realizado por medio del uso de las tecnologías de la información y la comunicación en las cuales se exponga, difunda, distribuya, exhiba, comparta, comercialice, transmita, oferte, intercambie imágenes, audios, videos reales o simulados de contenido íntimo y sexual de una persona sin su consentimiento, autorización o aprobación y que derivado de esta acción le cause un daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia, causando daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+VII. Violencia reproductiva: son todas las acciones u omisiones que limitan o vulneran el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de las hijas e hijos, acceso a métodos anticonceptivos de su elección y acceso a una maternidad elegida y segura;
 
-Entre otras, se puede manifestar mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas, ya sean propias o de otra persona que cause daño o perjuicio y que atente contra la integridad, la dignidad, la libertad o la vida privada de las mujeres.
-
-Para efectos de la presente fracción se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos;
-
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2025)</small>
-
-XI. Violencia mediática: se entiende como todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida. La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad; y
-
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2025)</small>
-
-XII. Violencia reproductiva: son todas las acciones u omisiones que limitan o vulneran el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de las hijas e hijos, acceso a métodos anticonceptivos de su elección y acceso a una maternidad elegida y segura;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE MAYO DE 2025)</small>
-
-XIII. Violencia política: la violencia contra las mujeres en razón de género, es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular, menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+VIII. Violencia política: la violencia contra las mujeres en razón de género, es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular, menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
 Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
@@ -393,9 +389,9 @@ b) Restringir o anular el derecho al voto libre y secreto de las mujeres, u obst
 
 c) Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
 
-d) Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
+d) Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular, información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
 
-e) Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres la garantía del debido proceso;
+e) Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
 
 f) Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones;
 
@@ -407,7 +403,7 @@ i) Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o de
 
 j) Divulgar imágenes, mensajes o información privada de una mujer o candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
 
-k) Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+k) Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores, con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
 
 l) Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
 
@@ -423,7 +419,7 @@ q) Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inh
 
 r) Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
 
-s) Obstaculizar o impedir acceso a la justicia de mujeres para proteger sus derechos políticos;
+s) Obstaculizar o impedir el acceso a la justicia de mujeres para proteger sus derechos políticos;
 
 t) Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
 
@@ -431,15 +427,11 @@ u) Imponer sanciones injustificadas abusivas, impidiendo o restringiendo el ejer
 
 v) Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
 
-La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas; y
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas;
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2025)</small>
+IX. Violencia por acecho: aquellas conductas que se manifiestan mediante el contacto repetido y no deseado que hacen sentir a la víctima insegura y en peligro, a tal grado que se vea obligada a cambiar su itinerario normal, hábitos, costumbres, número de teléfono, correo electrónico, perfiles de redes sociales, lugar de residencia o campo laboral; y
 
-XIV. Violencia por acecho: aquellas conductas que se manifiestan mediante el contacto repetido y no deseado que hacen sentir a la víctima insegura y en peligro, a tal grado que se vea obligada a cambiar su itinerario normal, hábitos, costumbres, número de teléfono, correo electrónico, perfiles de redes sociales, lugar de residencia o campo laboral; y
-
-> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2025)</small>
-
-XV. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
 
@@ -1918,3 +1910,13 @@ PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su pub
 SEGUNDO. Remítase a la persona titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y efectos legales correspondientes.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, y désele difusión en el portal Web del H. Congreso del Estado y en sus redes sociales, para conocimiento general y efectos legales procedentes.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 518 POR EL QUE SE REFORMAN LAS FRACCIONES XXII Y XXIII DEL ARTÍCULO 5; LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO TERCERO, EL ARTÍCULO 9; Y SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 5 DE LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficio del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase a la persona Titular del Poder Ejecutivo Estatal, para su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero y los efectos legales conducentes.
+
+TERCERO. Publíquese el presente en la Gaceta Parlamentaria, en el Portal web del H. Congreso del Estado y difúndase a través de los medios oficiales para su conocimiento general.
