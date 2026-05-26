@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-de-datos-personales-en-posesion-de-124645"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-13"
-last_updated: "2017-11-13"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 26 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026 (ABROGADA).
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Michoacán, el lunes 13 de noviembre de 2017.
 
@@ -1600,3 +1602,19 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 03 tres días del mes de noviembre de 2017 dos mil diecisiete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- LIC. ADRIÁN LÓPEZ SOLÍS.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 443 QUE EXPIDE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. A la entrada en vigor del presente Decreto se abroga la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 13 de noviembre de 2017.
+
+Tercero. La persona Titular del Ejecutivo Estatal deberá expedir las adecuaciones correspondientes a los reglamentos y demás disposiciones aplicables, dentro de los 180 días hábiles siguientes a la entrada en vigor del presente Decreto, a fin de armonizarlos a lo previsto en el mismo.
+
+Cuarto. Los sujetos obligados deberán cumplir con sus obligaciones en materia de protección de datos personales, en términos de lo previsto por la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Michoacán de Ocampo y demás disposiciones en la materia.
+
+Quinto. Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
