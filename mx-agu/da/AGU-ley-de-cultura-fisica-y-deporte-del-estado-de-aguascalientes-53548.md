@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2026-05-18"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -673,9 +673,17 @@ XXXI. Autorizar al Director General para ejercitar y desistirse de acciones judi
 
 XXXII. Ratificar los nombramientos de apoderados que recaigan en personas ajenas al IDEA;
 
-XXXIII. Aprobar el Estatuto Orgánico del IDEA; y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-XXXIV. Ejercer las facultades que la Ley Orgánica de la Administración Pública Estatal y demás disposiciones asigne a los Órganos de Gobierno de las Entidades.
+XXXIII. Aprobar el Estatuto Orgánico del IDEA;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2026)</small>
+
+XXXIV. Emitir lineamientos generales de profesionalización y mérito para el desempeño de los cargos directivos del Instituto, mismos que deberán incorporarse en el Estatuto Orgánico y en los manuales de organización, observando los principios de idoneidad técnica, capacidad, experiencia y no discriminación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE MAYO DE 2026)</small>
+
+XXXV. Ejercer las facultades que la Ley Orgánica de la Administración Pública Estatal y demás disposiciones asigne a los Órganos de Gobierno de las Entidades.
 
 #### SECCION TERCERA. Del Director General
 
@@ -2536,3 +2544,13 @@ P.O. 18 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 491.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 504.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- La Junta Directiva del Instituto del Deporte del Estado de Aguascalientes deberá, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones correspondientes al Estatuto Orgánico y a los manuales de organización del Instituto, a fin de incorporar los lineamientos de profesionalización y mérito a que se refiere la fracción XXXIV del artículo 19.
+
+TERCERO.- Las disposiciones contenidas en el presente Decreto no afectarán la validez de los nombramientos realizados con anterioridad a su entrada en vigor.
