@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-152189"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-08"
-last_updated: "2025-03-08"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Ley publicada en la Octava Sección del Número 77 del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 8 de octubre de 2021.
 
@@ -673,9 +673,21 @@ XL. Emitir normas, lineamientos específicos y manuales que, dentro del ámbito 
 
 XLI. Seleccionar a los integrantes de los órganos internos de control, garantizando la igualdad sustantiva y de oportunidades en el acceso a la función pública, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
 
-XLII. Actualizar el Código de Ética y de Conducta de los servidores públicos de las dependencias y entidades del Ejecutivo del Estado de Michoacán de Ocampo y las Reglas de Integridad para el ejercicio de la función pública; y,
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-XLIII. Las demás que le encomienden expresamente las leyes y reglamentos.
+XLII. Proponer la actualización del Código de Ética de las personas servidoras públicas del Poder Ejecutivo del Gobierno del Estado, así como promover y regular la emisión de los Códigos de Conducta de las dependencias, órganos desconcentrados y entidades, en los que se establezcan las Reglas de Integridad para el ejercicio de la función pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2026)</small>
+
+XLIII. Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales en posesión de sujetos obligados, de conformidad con las disposiciones jurídicas aplicables, así como conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XLIV. Promover y consolidar los principios de transparencia y acceso a la información pública, y los mecanismos de participación ciudadana en la ejecución y evaluación de la gestión pública; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE MAYO DE 2026)</small>
+
+XLV. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### Artículo 23.
 
@@ -1738,3 +1750,11 @@ SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a (sic) establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 442 POR EL QUE “SE REFORMAN LAS FRACCIONES XLII Y XLIII; Y, SE ADICIONAN LAS FRACCIONES XLIV Y XLV AL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Ejecutivo del Estado, deberá realizar las adecuaciones reglamentarias y administrativas necesarias para la debida observancia del presente Decreto, en un plazo no mayor a ciento ochenta días hábiles, contados a partir de su entrada en vigor.
