@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transparencia-acceso-a-la-informacion-publica-y-115044"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2024-01-25"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 26 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 18 de mayo de 2016.
 
@@ -2448,3 +2450,37 @@ P.O. 25 DE ENERO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Para garantizar el nombramiento anual y rotativo en base al criterio de escalonamiento, dentro de los tres días hábiles siguientes a la entrada en vigor del presente Decreto, los comisionados en funciones elegirán a quien ocupará la Presidencia del Instituto en los términos del presente Decreto.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 441 POR EL QUE “SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. A la entrada en vigor del presente Decreto se abroga la Ley de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 18 de mayo de 2016 y sus reformas posteriores.
+
+Tercero. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales se entenderán hechas o conferidas a las autoridades garantes que adquieren tales atribuciones o funciones, según corresponda.
+
+Cuarto. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, en materia de acceso a la información pública y de protección de datos personales, se sustanciarán ante las autoridades garantes según corresponda, conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, en materia de acceso a la información pública y de protección de datos personales, se llevará a cabo por las Autoridades garantes según corresponda.
+
+La Secretaría de Contraloría del Estado podrá remitir a la Autoridad garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le correspondan conforme al ámbito de sus atribuciones para su atención.
+
+Quinto. La persona titular del Ejecutivo Estatal deberá expedir las adecuaciones correspondientes a los reglamentos y demás disposiciones aplicables, dentro de los 180 días hábiles siguientes a la entrada en vigor del presente Decreto, a fin de armonizarlos a lo previsto en el mismo.
+
+Sexto. El Comité del Subsistema de Transparencia de Michoacán deberá instalarse dentro de los noventa días naturales, a partir de la entrega en vigor del presente Decreto, previa convocatoria que al efecto emita la Secretaría de Contraloría del Estado.
+
+En los casos en que no exista persona titular de la contraloría, órgano interno de control u homólogo de los poderes Ejecutivo, Legislativo y Judicial, así como de los órganos constitucionales autónomos en el Estado, la persona servidora pública que legal o reglamentariamente tenga asignadas funciones de control interno podrá formar parte del Comité referido, hasta en tanto se emita el nombramiento del titular respectivo.
+
+Séptimo. Los órganos encargados de la contraloría interna u homólogos de los poderes ejecutivo, legislativo y judicial, así como los órganos constitucionales autónomos en el Estado, en un plazo máximo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+Para efectos de lo previsto en este transitorio, se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia por las autoridades que se mencionan en el párrafo anterior.
+
+Octavo. Las obligaciones comunes y específicas de transparencia se actualizarán y publicarán conforme lo establezcan los lineamientos vigentes emitidos en la materia.
+
+Noveno. A la entrada en vigor del presente Decreto queda sin efectos el Programa Anual de Verificación 2025 emitido por el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, sin embargo, las Autoridades garantes deberán sustanciar los procedimientos de verificación que se encuentren en trámite.
+
+Décimo. Los municipios deberán cumplir con sus obligaciones en materia de transparencia, acceso a la información pública y protección de datos personales, en términos de lo previsto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo y demás disposiciones en la materia.
+
+Décimo Primero. Quedan derogadas todas las disposiciones que se opongan al presente Decreto.
