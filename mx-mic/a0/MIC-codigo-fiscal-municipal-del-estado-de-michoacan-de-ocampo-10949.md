@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-municipal-del-estado-de-michoacan-de-ocampo-10949
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-25"
-last_updated: "2020-10-26"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 25 de agosto de 1997.
 
@@ -283,7 +283,7 @@ Unicamente se podrá rechazar la presentación cuando no contenga el nombre del 
 
 ###### ARTICULO 24.
 
-Las personas obligadas al pago de contribuciones, deberán conservar por el término de cinco años la documentación comprobatoria del cumplimiento de sus obligaciones fiscales, en el domicilio que para tal efecto manifiesten; asimismo, estarán obligadas a proporcionar a las autoridades fiscales competentes, la documentación que estén obligados a conservar.
+(DEROGADO, P.O. 26 DE MAYO DE 2026)
 
 ## TITULO TERCERO. DE LAS AUTORIDADES FISCALES MUNICIPALES Y SUS FACULTADES
 
@@ -725,13 +725,27 @@ Los actos y resoluciones de las autoridades fiscales municipales se presumirán 
 
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias municipales, estará obligado a guardar absoluta reserva en lo concerniente a los documentos y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los servidores públicos encargados de la administración y de la defensa de los intereses fiscales municipales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MAYO DE 2026)</small>
+
+## TITULO TERCERO BIS. DE LA CONSERVACIÓN PROBATORIA DE LAS OBLIGACIONES FISCALES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MAYO DE 2026)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+ARTICULO 53 BIS.- La documentación comprobatoria del cumplimiento de obligaciones fiscales deberá ser conservada por un plazo de cinco años por:
+
+I. Las dependencias públicas que, en el ámbito de sus atribuciones, intervengan en la determinación, administración, o cobro de contribuciones; y,
+
+II. Los contribuyentes, en el domicilio fiscal que tengan registrado o en el que para tal efecto señalen.
+
+La documentación a que se refiere el presente artículo deberá mantenerse disponible, íntegra y accesible para su verificación cuando las autoridades fiscales competentes lo requieran.
+
 ## TITULO CUARTO. DE LAS INFRACCIONES Y DELITOS FISCALES
 
 ### CAPITULO I. DE LAS INFRACCIONES
-
-## TITULO QUINTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
-
-### CAPITULO II. DE LOS DELITOS FISCALES
 
 ###### ARTICULO 54.
 
@@ -955,7 +969,7 @@ I. Tratándose de establecimientos que expendan bebidas alcohólicas al público
 
 II. Tratándose de renovación o refrendo anual de licencias, por el equivalente del 50% al 75% de las cuotas de derechos que correspondan en cada caso, conforme a lo dispuesto en la Ley de Ingresos para los Municipios del Estado de Michoacán de Ocampo, o de la Ley de Ingresos para aquel Municipio, que en forma particular le fue aprobada por el Congreso del Estado, a Iniciativa del Ayuntamiento respectivo.
 
-### CAPITULO I. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPITULO II. DE LOS DELITOS FISCALES
 
 ###### ARTICULO 73.
 
@@ -1119,7 +1133,9 @@ Al que viole, deteriore o destruya los sellos o marcas colocadas por las autorid
 
 Se impondrá prisión de tres meses a tres años, a los servidores públicos que ordenen o practiquen intervenciones o embargos sin mandamiento escrito de autoridad fiscal competente.
 
-### CAPITULO II. DE LAS NOTIFICACIONES Y LA GARANTIA DEL INTERES FISCAL
+## TITULO QUINTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
+
+### CAPITULO I. DE LOS RECURSOS ADMINISTRATIVOS
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -1273,7 +1289,7 @@ V.- Modificar el acto impugnado o dictar uno nuevo que lo sustituya, cuando el r
 
 Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de cuatro meses.
 
-### CAPITULO III. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
+### CAPITULO II. DE LAS NOTIFICACIONES Y LA GARANTIA DEL INTERES FISCAL
 
 ###### ARTICULO 111.
 
@@ -1377,7 +1393,7 @@ En caso de negativa o violación a la suspensión del procedimiento administrati
 
 El superior o la autoridad ante quien se tramita el recurso, pedirá a la ejecutora un informe que deberá rendirse en un plazo de tres días y resolverá de inmediato la cuestión.
 
-### CAPITULO IV. DEL PROCEDIMIENTO SOBRE BIENES MUEBLES Y SEMOVIENTES MOSTRENCOS
+### CAPITULO III. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -1829,6 +1845,8 @@ Las cantidades excedentes después de haber hecho la aplicación del producto de
 
 En caso de conflicto, el remanente se depositará ante la autoridad fiscal municipal correspondiente, en tanto, resuelvan los Tribunales competentes.
 
+### CAPITULO IV. DEL PROCEDIMIENTO SOBRE BIENES MUEBLES Y SEMOVIENTES MOSTRENCOS
+
 ###### ARTICULO 175.
 
 Se entenderá por bien mostrenco todo mueble o semoviente que carezca de dueño o se encuentre abandonado por éste.
@@ -2000,3 +2018,11 @@ P.O. 26 DE OCTUBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. La Secretaría de Finanzas y Administración del Gobierno del Estado y las autoridades fiscales municipales que correspondan; deberán realizar las adecuaciones necesarias en sus sistemas de recaudación de las contribuciones para efectos de cumplimiento del presente Decreto.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 448 POR EL QUE "SE DEROGA EL ARTÍCULO 24; Y, SE ADICIONA EL TÍTULO TERCERO BIS, UN CAPÍTULO ÚNICO, ASÍ COMO EL ARTÍCULO 53 BIS AL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
