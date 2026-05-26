@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-educacion-de-aguascalientes-142996"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2022-12-31"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,610 +21,262 @@ state: "AGU"
 ---
 # LEY DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
-LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+ACUERDO GENERAL 33/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
 
-Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
+Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 2011.
 
-EUGENIO HERNÁNDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+ACUERDO GENERAL 33/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGION, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN.
 
-Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+CONSIDERANDO
 
-LA QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN EL ARTICULO 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO; Y EL ARTÍCULO 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+PRIMERO. Por decretos publicados en el Diario Oficial de la Federación el treinta y uno de diciembre de mil novecientos noventa y cuatro, veintidós de agosto de mil novecientos noventa y seis, así como del once de junio de mil novecientos noventa y nueve, se reformaron, entre otros, los artículos 94, 99 y 100 de la Constitución Política de los Estados Unidos Mexicanos, modificando así la estructura y competencia del Poder Judicial de la Federación;
 
-D E C R E T O No. LIX-959
+SEGUNDO. En términos de lo dispuesto por los artículos 94, segundo párrafo; 100, párrafos primero y octavo, de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina de los tribunales de Circuito y juzgados de Distrito, con independencia técnica, de gestión y para emitir sus resoluciones; además, tiene facultades para expedir acuerdos generales que permitan el adecuado ejercicio de sus funciones;
 
-MEDIANTE EL CUAL SE EXPIDE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES.
+TERCERO. El artículo 17 de la Constitución Federal establece que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes;
 
-### Capítulo I. Disposiciones Generales
+CUARTO. Los artículos 94, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos y 81, fracciones V y VI, y 144 de la Ley Orgánica del Poder Judicial de la Federación, establecen que son atribuciones del Consejo de la Judicatura Federal, determinar el número y límites territoriales de los tribunales de Circuito y juzgados de Distrito, en cada uno de los Circuitos en que se divide el territorio de la República Mexicana;
 
-###### Artículo 1.
+QUINTO. La dinámica social que implica el crecimiento de la población, el desarrollo económico del país y la promulgación de nuevos ordenamientos legales o la reforma de éstos como generadores de una demanda creciente de impartición de justicia pronta y expedita, propicia el aumento en las cargas de trabajo que afrontan la mayoría de los tribunales de Circuito y juzgados de Distrito, situación que trae aparejada la necesidad de contar con órganos jurisdiccionales suficientes para abreviar el tiempo en el dictado de las resoluciones, y con ello, cumplir con el imperativo consagrado en el artículo 17 de la Constitución Federal;
 
-1. Las presentes disposiciones son de orden público, interés social y de aplicación obligatoria en el Estado de Tamaulipas, y se dictan con base en lo dispuesto por los artículos 4, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, y 17 fracción III de la Constitución Política del Estado.
+SEXTO. Derivado del análisis de los informes y reportes estadísticos de los tribunales de Circuito y juzgados de Distrito, proporcionados por la Dirección General de Estadística Judicial, es posible advertir un desequilibrio en las cargas de trabajo en diversos Circuitos y Distritos Judiciales Federales;
 
-2. Esta ley complementa y desarrolla, en el ámbito estatal, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y tiene por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, para lo cual establece los principios y modalidades que propiciarán y asegurarán el acceso a las mujeres a una vida sin violencia, donde se favorezcan su desarrollo y bienestar.
+SEPTIMO. A fin de atender la problemática planteada en el considerando que antecede, en sesión del ocho de junio de dos mil once, el Pleno del Consejo de la Judicatura Federal aprobó el dictamen relativo a la creación del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, que se integrará con dos tribunales de Circuito y dos juzgados de Distrito, ambos auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta;
 
-3. Toda acción que se desprenda de la aplicación e interpretación de esta ley tenderá a la prevención, atención y erradicación de usos y prácticas de ejercicio de la violencia contra las mujeres, así como a su correspondiente sanción, en su caso, sea con base en sus disposiciones o en cualesquiera otras de carácter administrativo, civil o penal tendentes a dichos objetivos.
+OCTAVO. En atención al objetivo específico que tendrán los órganos jurisdiccionales que integran el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, atinente a apoyar en la resolución de los asuntos competencia de los juzgados de Distrito y tribunales de Circuito en funciones en el territorio de la República Mexicana, podrán en consecuencia recibir de la Suprema Corte de Justicia de la Nación aquellos asuntos a que se refiere el artículo 11, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación, en relación al Acuerdo General 5/2001 del Pleno del mencionado Máximo Tribunal del País, publicado en el Diario Oficial de la Federación el veintinueve de junio de dos mil uno;
 
-4. En la aplicación e interpretación de esta ley se considerarán los principios constitucionales de igualdad jurídica entre la mujer y el hombre, respeto a la dignidad humana de las mujeres, no discriminación y libertad de la mujer; así como las previsiones de la Ley General para Prevenir y Erradicar la Discriminación en el Estado de Tamaulipas.
+NOVENO. A fin de facilitar a los justiciables, el seguimiento de la situación que guardan sus expedientes, un extracto con carácter informativo de la lista diaria de acuerdos de los órganos jurisdiccionales a los que se determine su apoyo por parte de los juzgados y tribunales del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, se podrá consultar en la página de Internet de la Dirección General de Estadística Judicial del Consejo de la Judicatura Federal en la dirección: http://www.dgepj.cjf.gob.mx.
 
-###### Artículo 2.
+En consecuencia, con fundamento en los artículos Constitucionales y legales invocados, el Pleno del Consejo de la Judicatura Federal expide el siguiente
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+ACUERDO
 
-En la elaboración y ejecución de los planes, programas y políticas públicas del Estado y de los municipios, se procurará:
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-a) implementar mecanismos certeros que sustenten la igualdad jurídica entre mujeres y hombres;
+PRIMERO. CONFORMACIÓN, UBICACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz está conformado por un Tribunal Colegiado de Circuito Auxiliar, el cual tendrá jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias, su denominación será la siguiente: Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz.
 
-b) asegurar el respeto inquebrantable a la dignidad humana de la mujer;
+> <small>(REFORMADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+El tribunal colegiado se denominará:
 
-c) Evitar por todos los medios las prácticas discriminatorias, así como los actos que fomentan o reproducen estereotipos, concepciones y valores de subordinación o inferioridad de un género a otro;
+> <small>(REFORMADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-d) asegurar el pleno disfrute de los derechos y garantías que consagra la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales suscritos por el Estado Mexicano, en beneficio de la mujer; y
+Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz.
 
-e) privilegiar el desarrollo de un ambiente social en el cual se promuevan la libertad y los derechos de la mujer en su sentido más amplio.
+> <small>(REFORMADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 3.
+SEGUNDO. INICIO DE FUNCIONES Y DOMICILIO. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones, así como la ubicación del órgano jurisdiccional que integrará el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO DECIMONOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-Para los efectos de esta ley se consideran manifestaciones de violencia contra la mujer, las siguientes:
+TERCERO. LIBROS DE GOBIERNO. El órgano jurisdiccional Auxiliar que formará parte del Centro Auxiliar de la Decimoprimera Región, como mecanismo de control de los asuntos de su respectiva competencia y como auxiliar en la supervisión de éstos, contará con libros electrónicos de registro que se le implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Gestión Judicial.
 
-a) Psicológica: cualquier acción u omisión que provoque un daño o alteración en la estabilidad psicológica de la mujer. Dicha acción u omisión comprende cualesquiera conducta o conductas que produzcan depresión, aislamiento, deterioro de la autoestima o propensión al suicidio de la mujer;
+Dichos libros electrónicos de registro se formarán automáticamente con la captura de los datos y registros que el personal correspondiente de los órganos jurisdiccionales lleve a cabo en el mencionado Sistema Integral de Seguimiento de Expedientes (SISE).
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+CUARTO. (DEROGADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)
 
-b) Física: cualquier acción u omisión que produzca un daño en la mujer, provocado por la utilización de fuerza física o algún objeto capaz de provocar una lesión interna, externa o ambas;
+QUINTO. (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL MECANISMO DE ENVÍO, RECEPCIÓN Y DEVOLUCIÓN DE LAS REMESAS RELATIVAS A LOS APOYOS QUE PRESTAN LOS ÓRGANOS JURISDICCIONALES AUXILIARES, D.O.F. 15 DE ABRIL DE 2016)
 
-c) Patrimonial: cualquier acción u omisión que afecte la supervivencia de la mujer. Dicha acción u omisión comprende cualquier conducta o conductas que produzcan la afectación de bienes de la mujer destinados a satisfacer sus propias necesidades, incluyéndose los daños a los bienes comunes o propios de la mujer;
+SEXTO. PLANTILLAS. Las plantillas de los órganos jurisdiccionales serán las siguientes:
 
-d) Económica: cualquier acción u omisión que afecte la supervivencia económica de la mujer. Dicha acción u omisión comprende cualquier limitación encaminada a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo en condiciones laborales semejantes;
+> <small>[N. DE E. VEASE TABLA EN LA TERCERA SECCION DEL D.O.F. DE 30 DE SEPTIEMBRE DE 2011, PAGINA 10.]</small>
 
-e) Sexual: cualquier acción que degrade o dañe el cuerpo, la integridad y libertad sexuales de la mujer. Dicha acción comprende cualquier afectación a la dignidad humana, integridad, libertad y seguridad; y
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 15 DE JUNIO DE 2018, PÁGINA 92.]</small>
 
-f) Diversa: cualquier forma análoga que lesione o pueda lesionar la dignidad, integridad o libertad de la mujer.
+> <small>(REFORMADO POR EL PUNTO DECIMONOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-### Capítulo II. Modalidades de la violencia
+SÉPTIMO. La o el titular del órgano jurisdiccional que integra el Centro Auxiliar de la Decimoprimera Región deberá enviar dentro de los primeros cinco días de cada mes, su reporte estadístico mensual a la Dirección General de Estadística Judicial.
 
-###### Artículo 4.
+Asimismo, el órgano jurisdiccional auxiliar que integra el Centro Auxiliar de la Decimoprimera Región, así como los auxiliados, deberán enviar su reporte estadístico dentro de los primeros cinco días de cada mes a la Secretaría Ejecutiva de Creación de Nuevos Órganos, vía electrónica, como ésta lo determine el cual deberá contener la siguiente información estadística:
 
-1. Violencia familiar contra la mujer es toda acción u omisión abusiva intencional de poder dirigida a dominarla, someterla, controlarla o agredirla física, verbal, psicológica, patrimonial, económica o sexualmente, dentro o fuera del domicilio común o familiar, cuando el agresor tenga o haya tenido relación matrimonial, de concubinato, parentesco por consanguinidad o afinidad, o cualquier relación de hecho que haya implicado la convivencia en un domicilio común o familiar.
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O.F. DE 14 DE MARZO DE 2022, PÁGINA 145.]</small>
 
-2. El Estado y los municipios adoptarán, a través de las dependencias y entidades de sus respectivas administraciones, medidas y acciones para proteger a las mujeres víctimas de la violencia familiar.
+La Secretaría Ejecutiva de Creación de Nuevos Órganos, con el reporte estadístico que remitan los órganos jurisdiccionales Auxiliares, informará a la Comisión de Creación de Nuevos Órganos el estado que guardan, y ésta, lo enviará al Pleno del Consejo de la Judicatura Federal para su conocimiento.
 
-3. Al efecto, impulsarán modelos de atención, prevención y sanción, con base en los siguientes elementos:
+OCTAVO. ESPACIO FISICO. La Comisión de Administración proveerá lo conducente, para asignar el espacio físico que ocupará el Centro Auxiliar de la Decimoprimera Región, y ordenará se les dote de los recursos materiales que se estimen necesarios, de acuerdo con las condiciones particulares de cada caso.
 
-a) brindar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las víctimas, a efecto de favorecer la reparación del daño que se le haya producido, así como facilitarle su empoderamiento;
+> <small>(REFORMADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2018)</small>
 
-b) otorgar servicios de reeducación al individuo agresor de carácter integral, especializado y gratuito, para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina y, en general, los patrones de comportamiento basados en la superioridad del sexo masculino;
+NOVENO. DE LA COMISIÓN. La Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal, queda facultada para dictar los acuerdos relativos, tendentes a regular el turno y tipo de los asuntos del conocimiento del órgano jurisdiccional que conforma el Centro Auxiliar de la Decimoprimera Región, así como el apoyo y el diverso auxilio que se preste a otros órganos jurisdiccionales.
 
-c) procurar que la atención que se otorgue tanto a la víctima como al agresor, se ejecute por persona distinta y en lugares diferentes; en particular, se favorecerá la separación y alejamiento de la víctima y su agresor; y
+En caso de resultar necesario el órgano jurisdiccional del Centro Auxiliar se podrá trasladar temporalmente a otra sede, con motivo de alguna contingencia natural, incremento inusitado de ingresos o cualquier otra causa que así lo amerite, previa autorización de la Comisión de Creación de Nuevos Órganos.
 
-d) establecer inmuebles que sirvan como refugio para víctimas y sus descendientes, los cuales funcionarán gratuitamente.
+DECIMO. (DEROGADO POR EL TRANSITORIO OCTAVO DEL ACUERDO GENERAL 15/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)
 
-###### Artículo 5.
+DECIMOPRIMERO. (DEROGADO POR EL TRANSITORIO OCTAVO DEL ACUERDO GENERAL 15/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE JUNIO DE 2018)
 
-1. Violencia laboral o docente contra la mujer es toda acción u omisión abusiva intencional al poder que se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, que daña la autoestima, salud, integridad, libertad o seguridad de la víctima e impide su desarrollo y atenta contra la igualdad. Puede tratarse de un solo evento o una serie de éstos. Esta modalidad de violencia incluye el acoso u hostigamiento sexual.
+DECIMOSEGUNDO. VISITAS DE INSPECCION. La Visitaduría Judicial propondrá al Pleno del Consejo de la Judicatura Federal, el mecanismo que se implementará para realizar las visitas de inspección al Centro Auxiliar de la Decimoprimera Región.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+DECIMOTERCERO. INTERPRETACION DEL ACUERDO. El Pleno o las Comisiones de Administración; de Disciplina; de Carrera Judicial; de Adscripción, y de Creación de Nuevos Organos del Consejo de la Judicatura Federal, están facultados para interpretar y resolver las cuestiones administrativas que se susciten con motivo de la aplicación del presente acuerdo, en el ámbito de su respectiva competencia.
 
-2. Constituye violencia laboral contra la mujer toda negativa ilegal e indebida a contratar a la víctima, a negar el goce de licencia de maternidad o de paternidad, al acceso a servicios de guardería o a no respetar su permanencia o las condiciones generales de su empleo, así como la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación o todo tipo de discriminación por condiciones de género.
+## TRANSITORIOS
 
-3. Constituye violencia docente toda conducta que dañe la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que inflinjan (sic) los directores, maestros o integrantes de las instituciones educativas.
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
-###### Artículo 6.
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-1. Violencia comunitaria contra la mujer es toda acción u omisión abusiva intencional de poder que a partir de actos individuales o colectivos que transgreden los derechos fundamentales de toda mujer, propiciando su denigración, discriminación, marginación o exclusión de carácter público.
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de este Acuerdo General al diverso Acuerdo General 11/2011 del Pleno del Consejo de la Judicatura Federal, para efectos de su actualización.
 
-2. El Estado y los municipios adoptarán, a través de las dependencias y entidades de sus respectivas administraciones, medidas y acciones para proteger a las mujeres de la violencia en la comunidad.
+EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 33/2011, del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, así como los órganos jurisdiccionales que lo integrarán, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintiuno de septiembre de dos mil once, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a veintidós de septiembre de dos mil once.- Conste.- Rúbrica.
 
-3. Al efecto, impulsarán modelos de atención, prevención y sanción, sobre la base de los siguientes elementos:
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-a) promover la educación y reeducación libre de estereotipos, sobre roles o papeles sociales predeterminados o la superioridad de los varones;
+D.O.F. 18 DE ENERO DE 2012.
 
-b) dar seguimiento al comportamiento violento de los individuos, grupos o ámbitos de la sociedad, en perjuicio de las mujeres; y
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-c) establecer un banco de datos en el cual obren las órdenes de protección y las personas sujetas a ellas, a efecto de generar el intercambio de información de las diversas instancias y, con base en sus resultados, realizar las acciones necesarias de política criminal.
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
-###### Artículo 7.
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, a los Acuerdos Generales 10/2008, 18/2008, 27/2008, 52/2008, 53/2008, 54/2008, 20/2009, 51/2009, 54/2009, 32/2010 y 33/2011, relativos a la Creación de cada uno de los once Centros Auxiliares Regionales.
 
-1. Violencia institucional contra la mujer es toda acción u omisión abusiva de cualquier servidor público de los órdenes estatal o municipal que la discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y disfrute de sus derechos y libertades fundamentales; así como la que pretenda obstaculizar u obstaculice el acceso de la mujer al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar las manifestaciones y modalidades de violencia conceptualizadas en esta ley.
+D.O.F. 15 DE ABRIL DE 2016.
 
-2. En el cumplimiento de sus atribuciones, todo servidor público deberá ejercer funciones de prevención de acciones u omisiones de violencia contra la mujer. Cunado (sic) el servidor público se percate de alguna acción u omisión de esa naturaleza, deberá dar aviso a la autoridad competente para su debida atención.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL MECANISMO DE ENVÍO, RECEPCIÓN Y DEVOLUCIÓN DE LAS REMESAS RELATIVAS A LOS APOYOS QUE PRESTAN LOS ÓRGANOS JURISDICCIONALES AUXILIARES”.]
 
-###### Artículo 8.
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-1. Violencia feminicida es la forma extrema de agresión contra las mujeres por razones de género y consiste en la expresión de conductas misóginas que alienten el ejercicio de la violencia, agresiones que pueden conllevar impunidad social y del Estado e incluso culminar en la privación de la vida de la mujer o de la niña.
+TERCERO. Se deroga el punto Quinto de los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 20/2009, que crea el Centro Auxiliar de la Primera Región; 10/2008, por el que se crea el Centro Auxiliar de la Segunda Región, así como los órganos jurisdiccionales que lo integrarán; 18/2008, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán; 27/2008, por el que se crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, así como los órganos jurisdiccionales que lo integrarán; 52/2008, por el que se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como los órganos jurisdiccionales que lo integrarán; 53/2008, por el que se crea el Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, así como los órganos jurisdiccionales que lo integrarán; 54/2008, por el que se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, así como los órganos jurisdiccionales que lo integrarán; 32/2010, que crea el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, así como los órganos jurisdiccionales que lo integrarán; 51/2009, que crea el Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, así como los órganos jurisdiccionales que lo integrarán; 54/2009 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila, así como los órganos jurisdiccionales que lo integrarán; y 33/2011, que crea el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, así como los Órganos Jurisdiccionales que lo integrarán.
 
-2. Los individuos o la comunidad de determinada circunscripción territorial del Estado podrán plantear la declaratoria de alerta de violencia de género, con la finalidad de enfrentar, sancionar y erradicar la violencia feminicida.
+D.O.F. 15 DE JUNIO DE 2018.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 15/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DEL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ, Y SU TRANSFORMACIÓN EN JUZGADO DÉCIMO NOVENO DE DISTRITO EN EL ESTADO DE VERACRUZ, CON RESIDENCIA EN COATZACOALCOS, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES, Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS”.]
 
-3. La alerta de violencia de género constituye el conjunto de acciones de las instituciones públicas del Estado para enfrentar, sancionar y erradicar la violencia feminicida en un municipio o región determinados de la entidad federativa. Los Gobiernos estatal y municipales dispondrán de las medidas para garantizar la seguridad de las mujeres y las niñas, y el cese de la violencia en su contra, para lo cual se deberá:
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de junio de dos mil dieciocho, con excepción del artículo 1, el cual entrará en vigor en la fecha señalada en el mismo; y de los Transitorios CUARTO y QUINTO de dicho instrumento normativo, los cuales iniciarán su vigencia a partir de la aprobación del citado Acuerdo.
 
-I.- Establecer un grupo interinstitucional y multidisciplinario con perspectiva de género que brinde seguimiento a las acciones emprendidas, acorde con el motivo de dichas acciones;
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
-II.- Implementar las acciones preventivas, de seguridad o de justicia;
+TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, establecido para los Juzgados de Distrito en el Estado de Veracruz, con residencia en Coatzacoalcos, continuará aplicándose hasta el dieciocho de junio de dos mil dieciocho, y se modifica para incorporar al Juzgado de Distrito de nueva creación, para quedar como sigue:
 
-III.- Elaborar los reportes especiales por zona y el comportamiento de los índices de violencia contra las mujeres;
+PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL
 
-IV.- Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género contra las mujeres y niñas; y
+QUE CORRESPONDE LA GUARDIA
 
-V.- Hacer del conocimiento público el motivo de las acciones y medidas implementadas, así como la zona territorial que abarca.
+Del 18 al 25 de junio de 2018 Juzgado Décimo Noveno de
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+Distrito en el Estado de Veracruz,
 
-4.- La declaratoria de alerta de violencia de género contra las mujeres, podrá emitirse por cualquier autoridad que forme parte del grupo interinstitucional referido en el párrafo anterior, cuando:
+con residencia en Coatzacoalcos
 
-a). La comisión de delitos contra la vida, la integridad personal, la libertad o la seguridad de las mujeres, alteren la paz pública en una circunscripción territorial determinada;
+Del 25 de junio al 2 de julio Juzgado Noveno de Distrito en el
 
-b). Exista un agravio que impida el ejercicio pleno de los derechos humanos por parte de las mujeres;
+de 2018 Estado de Veracruz, con residencia
 
-c). Lo soliciten las organizaciones de la sociedad civil, así como los organismos protectores de los derechos humanos de carácter estatal, nacional o internacionales de los que el Estado mexicano sea parte.
+en Coatzacoalcos
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+Del 2 al 9 de julio de 2018 Juzgado Décimo de Distrito en el
 
-5. La solicitud de declaratoria de alerta de violencia de género se podrá presentar ante cualquier Centro de Salud, el cual deberá remitirla a la autoridad competente de manera inmediata, quien la emitirá, en caso procedente, en un plazo de 24 horas contado a partir de la recepción de la solicitud o a partir de que la autoridad haya tenido conocimiento de los hechos de violencia feminicida.
+Estado de Veracruz, con residencia
 
-### Capítulo III. De las Órdenes de Protección
+en Coatzacoalcos
 
-###### Artículo 9.
+Del 9 al 16 de julio de 2018 Juzgado Décimo Cuarto de Distrito
 
-1. Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, para salvaguardar sus derechos, siendo fundamentalmente precautorias y cautelares.
+en el Estado de Veracruz, con
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+residencia en Coatzacoalcos
 
-2. Dichas órdenes deberá emitirlas el Juez competente, a solicitud del agente del Ministerio Público o bien a petición de la víctima, que conozca de los hechos que constituyan violencia en contra de las mujeres.
+Del 16 al 23 de julio de 2018 Juzgado Décimo Noveno de Distrito
 
-3. Las órdenes de protección son de carácter personal e intransferible, pudiendo ser:
+en el Estado de Veracruz, con
 
-a) de emergencia;
+residencia en Coatzacoalcos
 
-b) preventivas; o
+Y así sucesivamente en ese orden.
 
-c) de naturaleza meramente civil.
+Los turnos de guardia inician el día lunes a las ocho horas con treinta minutos y finalizan el siguiente lunes a las ocho horas con veintinueve minutos.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+CUARTO. La Dirección General de Recursos Humanos atenderá la situación laboral, derivada de la conclusión de los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Decimoprimera Región con residencia en Coatzacoalcos, Veracruz.
 
-4. Las órdenes de protección de emergencia y las preventivas tendrán una temporalidad no mayor de 15 días naturales y se emitirán dentro de las 24 horas siguientes al conocimiento de los hechos que las generan o bien de la solicitud de la víctima.
+QUINTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional de nueva creación de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
 
-5. Al momento de otorgarlas, deberá considerarse el riesgo o peligro existente; la seguridad de la víctima, y los elementos con que se cuente.
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Veracruz, con residencia en Coatzacoalcos.
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+SEXTO. Los Jueces Primero y Segundo de Distrito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, serán readscritos por el Pleno del Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción.
 
-###### Artículo 9 Bis.
+SÉPTIMO. Se reforman los numerales SEGUNDO, fracción X, número 4; y QUINTO, número 11, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
 
-El hostigamiento sexual es el ejercicio abusivo del poder en la relación de subordinación real de la víctima frente al agresor, en los ámbitos laboral, escolar o cualquier otro; se manifiesta en conductas verbales o físicas o ambas, relacionadas con la sexualidad, de connotación lasciva.
+“SEGUNDO. …
 
-El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva de hecho a un estado de indefensión y de riesgo para la victima, independientemente de que se realice en uno o varios eventos.
+I. a IX. …
 
-###### Artículo 10.
+X. …
 
-1. Son órdenes de protección de emergencia las siguientes:
+1. a 3. …
 
-a) las que determinan que el agresor deba desocupar el domicilio común o familiar donde habita la víctima, sin importar si el agresor acredita derechos reales respecto del inmueble o la titularidad de algún contrato, bastando que la víctima habite ese sitio;
+4. Cuatro Juzgados de Distrito en el Estado de Veracruz, con sede en Coatzacoalcos.
 
-b) la prohibición al agresor de acercarse al domicilio, lugar de trabajo, de estudios, y al de los ascendientes y descendientes de la víctima;
+XI. a XXXII. …
 
-c) el propio reingreso de la víctima a su domicilio, hasta que se haya salvaguardado éste; y
+QUINTO. …
 
-d) la prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
+1. a 10. …
 
-2. Son órdenes de protección preventivas las siguientes:
+11. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz se integrará por dos tribunales Colegiados de Circuito Auxiliares.
 
-a) la retención de cualquier arma de fuego, cortante, punzo-cortante o punzo-contundente del agresor, sean propias o las posea con motivo de prestación de servicios lícitos;
+…”
 
-b) la elaboración de un inventario de bienes muebles e inmuebles de propiedad o uso común, incluyendo los implementos de trabajo de la víctima;
+OCTAVO. Se reforman el numeral PRIMERO, párrafo primero; así como la tabla contenida en el numeral SEXTO; y se derogan los párrafos segundo, tercero y cuarto del numeral PRIMERO, así como los numerales DÉCIMO y DÉCIMO PRIMERO, del Acuerdo General 33/2011 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, así como los Órganos Jurisdiccionales que lo integrarán, para quedar como sigue:
 
-c) el uso y disfrute de bienes muebles que se encuentren en el inmueble que sirva de domicilio a la víctima;
+“PRIMERO. CONFORMACIÓN, UBICACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz está conformado por dos tribunales colegiados de Circuito Auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
-d) el apoyo policial a la víctima para tener acceso seguro al momento de tomar sus pertenencias personales y las de sus descendientes;
+Derogado.
 
-e) la entrega inmediata de los objetos de uso personal y documentos de identidad de la víctima y de sus descendientes;
+Derogado.
 
-f) el auxilio policial en favor de la víctima, con autorización para ingresar a su domicilio en su ayuda; y
+Derogado.
 
-g) brindar servicios de reeducación de carácter integral, especializado y gratuito, con perspectiva de género al agresor, en instituciones públicas debidamente acreditadas.
+…
 
-3. Son órdenes de protección de naturaleza civil las siguientes:
+…
 
-a) la suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+…
 
-b) la prohibición al agresor de enajenar o gravar bienes de su propiedad cuando se trate de domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
+SEXTO. …
 
-c) la posesión exclusiva de la víctima sobre el inmueble que sirve como domicilio particular; y
+> <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 15 DE JUNIO DE 2018, PÁGINA 92.]</small>
 
-d) la garantía de otorgar pensión alimenticia provisional e inmediata.
+DÉCIMO. Derogado
 
-4. Las órdenes de protección de naturaleza civil ameritan simultáneamente la promoción por la vía civil que corresponda al hecho de que se trate, sin demérito de que los titulares de los órganos jurisdiccionales valoren las órdenes de protección dictadas previamente o, en su caso, en ejercicio de sus atribuciones determinen las medidas pertinentes, pero siempre prefiriéndose las que brinden mayor protección a la víctima.
+DÉCIMO PRIMERO. Derogado.”
 
-### Capítulo IV. Del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
+NOVENO. Los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, previo a su conclusión de funciones, deberán remitir los asuntos pendientes de resolución de manera equitativa a los Juzgados de Distrito del Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla. Los asuntos que reciban los Juzgados de Distrito Auxiliares en cita, formarán parte de la remesa del mes correspondiente de dos mil dieciocho.
 
-###### Artículo 11.
+DÉCIMO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
 
-1. El Estado y los municipios se coordinarán para la integración y funcionamiento del Sistema Estatal, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+D.O.F. 30 DE NOVIEMBRE DE 2018.
 
-2. Las medidas que se implementen para logar (sic) su objeto deberán ser ajenas a cualquier práctica discriminatoria.
+## [N. DE E. TRANSITORIOS DEL ACUERDO GENERAL 45/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ; LA CONCLUSIÓN Y TRANSFORMACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES COLEGIADOS DEL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN; CAMBIO DE DENOMINACIÓN DEL TRIBUNAL COLEGIADO DEL DÉCIMO CIRCUITO EN EL MISMO ESTADO Y RESIDENCIA; EL INICIO DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DEL DÉCIMO CIRCUITO, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES EN LA RESIDENCIA INDICADA; Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
 
-3. El Sistema Estatal se integrará con los titulares de:
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Internet.
 
-a) El Gobernador del Estado, quien lo presidirá;
+TERCERO. La conclusión de funciones del Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz y el inicio del Segundo Tribunal Colegiado del Décimo Circuito, en el citado Estado y residencia, implicará el traslado de sus magistrados, en la calidad en que se encuentran adscritos y del personal con su plaza respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente, en el entendido que el órgano jurisdiccional de nueva creación contará con la misma plantilla de personal que tiene su homólogo.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
 
-b) La Secretaría de Desarrollo Social;
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
+D.O.F. 14 DE MARZO DE 2022.
 
-c) La Secretaría General de Gobierno;
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO”.]
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación.
 
-d) La Secretaría del Trabajo y Asuntos Jurídicos;
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral del Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en los portales electrónicos del Consejo de la Judicatura Federal en Intranet e Internet.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
+TERCERO. Las Direcciones Generales de Gestión Judicial y Tecnologías de la Información llevarán a cabo las acciones necesarias para ajustar el sistema computarizado de turno en términos de las reglas establecidas en este Acuerdo General, en un plazo no mayor de dos meses, contados a partir de la entrada en vigor del presente instrumento.
 
-e) La Secretaría de Educación;
+CUARTO. Las referencias hechas a los Tribunales Colegiados de Apelación se entenderán formuladas respecto de los Tribunales Unitarios de Circuito, hasta en tanto aquéllos entren en operación.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
+QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deberá actualizar, dentro de los seis meses siguientes a la entrada en vigor de este Acuerdo, los criterios de turno establecidos en la normativa aplicable a los tribunales Unitarios de Circuito, cuando se constituyan como Tribunal de Alzada para la atención de los asuntos del sistema penal acusatorio, de conformidad con lo establecido en el presente Acuerdo.
 
-f) La Secretaría de Salud;
+SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
-
-g) La Secretaría de Seguridad Pública;
-
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
-
-h) La Procuraduría General de Justicia;
-
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014.)</small>
-
-i) El Instituto de la Mujer Tamaulipeca, quien ocupará la Secretaría Ejecutiva del Sistema;
-
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014.)</small>
-
-j) Los Sistemas para el Desarrollo Integral de la Familia del Estado y de los municipios; y
-
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014.)</small>
-
-k) Los Institutos de la Mujer de los Municipios o las unidades administrativas con funciones similares;
-
-4. A su vez, el Sistema Estatal se coordinará con el Sistema Nacional en términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y considerará las directrices que promueva en la materia, a fin de implementar acciones para ejercerlas en su ámbito de competencia.
-
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014.)</small>
-
-5. Las ausencias del Gobernador serán suplidas por el Secretario de Desarrollo Social, los demás integrantes del Sistema nombrarán a su respectivo suplente, quien deberá desempeñar una función del nivel administrativo inmediato inferior.
-
-###### Artículo 12.
-
-1. El Sistema Estatal impulsará el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, a que se refiere la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y sus acciones se realizarán en concordancia a los preceptos de ese ordenamiento, enriqueciéndolos, en su caso, con las premisas y circunstancias que deriven de los aspectos culturales y las costumbres en determinada región que sean útiles para salvaguardar el propósito de la presente ley estatal.
-
-2. En todo caso, el Sistema Estatal podrá asumir las atribuciones que establece el orden normativo de carácter general sobre una vida libre de violencia para las mujeres.
-
-### Capítulo V. De las atribuciones
-
-###### Artículo 13.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
-
-1. Corresponde al Ejecutivo Estatal, por conducto de la Secretaría de Desarrollo Social:
-
-a) garantizar el pleno ejercicio de las mujeres a una vida libre de violencia, vigilando el cumplimiento de la presente ley;
-
-b) conducir la política estatal integral desde la perspectiva de género, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, considerándose al efecto los términos de la política nacional de la materia;
-
-c) fomentar el desarrollo social con una visión integral que garantice a las mujeres una vida libre de violencia;
-
-d) impulsar la promoción, el conocimiento y el respeto de los derechos humanos de las mujeres;
-
-e) contribuir al funcionamiento y consolidación del Sistema Estatal;
-
-f) efectuar acciones encaminadas a mejorar las condiciones de vida de las mujeres;
-
-g) promover políticas de igualdad de condiciones entre hombres y mujeres, que tiendan a la eliminación de las desproporciones y desequilibrio de género;
-
-h) celebrar convenios de colaboración, coordinación y concertación en la materia;
-
-i) participar en la elaboración del Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres a que refiere la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
-
-j) promover, en coordinación con la Federación, programas y proyectos de atención, educación, derechos humanos de las mujeres y erradicación de la violencia en su contra, en los términos del Programa referido en el inciso anterior;
-
-k) difundir ampliamente la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y esta ley;
-
-l) revisar y evaluar la eficiencia y eficacia de los avances de las políticas públicas y los programas instrumentados en torno al respeto hacia las mujeres y su derecho a una vida libre de violencia; y
-
-m) las demás que le confieren esta ley u otros ordenamientos aplicables.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
-
-2. La coordinación general de las acciones del Ejecutivo del Estado en esta materia se realizarán por la Secretaría de Desarrollo Social. A través de esta dependencia estatal, el Ejecutivo del Estado ejercerá las atribuciones que establecen las fracciones III, V, VIII, XI, XII, XIV, XV, XVI, XVII, XVIII y XIX del artículo 49 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
-
-###### Artículo 14.
-
-1. A la Secretaría de Seguridad Pública, le corresponde:
-
-a) instrumentar cursos de capacitación al personal administrativo y operativo, que les permita atender responsablemente los casos de violencia contra las mujeres;
-
-b) integrar un archivo que contenga los antecedentes, circunstancias, acciones y resultados de los casos de violencia contra las mujeres de que conozca;
-
-c) formular acciones y programas de concientización orientados a fomentar la cultura de respeto a los derechos humanos de las mujeres y la ausencia de violencia en su contra;
-
-d) proveer de la ayuda necesaria a las diversas instancias que lo soliciten, para preservar la integridad física de las mujeres;
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
-
-e) celebrar convenios de colaboración, coordinación y concertación en la materia;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-f) tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-g) establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-h) ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-i) participar en el diseño, con una visión transversal, de la política estatal integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-j) establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa; y
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
-
-k) las demás que le confieren esta ley u otros ordenamientos aplicables.
-
-###### Artículo 15.
-
-1. A la Procuraduría General de Justicia le corresponde:
-
-a) instrumentar cursos de capacitación que provean personal profesional para atender los casos de violencia contra las mujeres;
-
-b) ofrecer orientación y asesoría a las mujeres víctimas de cualquier tipo o modalidad de violencia, con objeto de alentar su atención y protección;
-
-c) dictar las medidas inmediatas para que la mujer víctima de la violencia reciba atención médica de urgencia, cuando sea el caso;
-
-d) promover la cultura de respeto a los derechos humanos de las mujeres;
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
-
-e) celebrar convenios de colaboración, coordinación y concertación en la materia;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-f) garantizar la seguridad de las mujeres que denuncian;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-g) proporcionar a las mujeres información objetiva que les permita tener plena conciencia de su situación de víctima;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-h) brindar a las victimas la información integral sobre las instituciones públicas o privadas encargadas de su atención;
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
-
-i) proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de victimas atendidas y demás datos que se requieran en virtud de lo establecido en la presente ley; y
-
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
-
-j) las demás que le confieren esta ley u otros ordenamientos aplicables.
-
-###### Artículo 16.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
-
-1. A la Secretaría de Salud le corresponde:
-
-a) diseñar instrumentos para la política de prevención y atención de la violencia contra la mujer, como parte integral de la política de salud destinada a las mujeres;
-
-b) brindar atención médica y psicológica a las mujeres víctimas de la violencia, por medio de las instituciones públicas del sector salud, sin demérito de lo que dispongan las normas de protección a las víctimas del delito;
-
-c) proporcionar capacitación en materia de atención a las mujeres víctimas de violencia, al personal de las instancias públicas que lo soliciten;
-
-d) generar un archivo de datos que contengan los hechos relativos a violencia contra las mujeres atendidas por el sector salud, la manifestación y modalidad de violencia, sus efectos y los recursos erogados en su atención; esta información la compartirá con las instancias competentes cuando la soliciten;
-
-e) celebrar convenios de colaboración, coordinación y concertación en la materia; y
-
-f) las demás que le confieran esta ley u otros ordenamientos aplicables.
-
-###### Artículo 17.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
-
-1. A la Secretaría de Educación le corresponde:
-
-a) consolidar las políticas educativas que se establezcan en el ámbito federal para prevenir la violencia contra la mujer y diseñar las políticas estatales en la materia, así como aplicarlas en el Estado;
-
-b) capacitar al personal docente y administrativo en el conocimiento, respeto y difusión de los derechos de la mujer a una vida libre de violencia;
-
-c) incorporar en los programas educativos la difusión y enseñanza del respeto de los derechos humanos de las mujeres;
-
-d) implementar campañas publicitarias que orienten a la erradicación de la violencia contra las mujeres;
-
-e) garantizar acciones y mecanismos que favorezcan el progreso de las mujeres en todas las etapas del proceso educativo;
-
-f) celebrar convenios de colaboración, coordinación y concertación en la materia; y
-
-g) las demás que le confieran esta ley u otros ordenamientos aplicables.
-
-###### Artículo 18.
-
-1. A los Sistemas para el Desarrollo Integral de la Familia del Estado y de los Municipios, en el ámbito de sus respectivas competencias, les corresponde:
-
-a) coadyuvar de manera integral, coordinada y directa al cumplimiento de las disposiciones de esta ley;
-
-b) participar activamente en el diseño de estrategias y programas que garanticen el respeto de los derechos humanos de las mujeres y promuevan la erradicación de la violencia en su contra, en los términos que se les soliciten las instancias facultadas para ello;
-
-c) proveer de refugios para víctimas, así como de provisiones de alimentación indispensables para aquéllas y sus familiares, cuando así lo requieran justificadamente;
-
-d) promover programas de concientización de las comunidades para el respeto de los derechos humanos de la mujer;
-
-e) establecer programas regenerativos para quienes ejerzan actos de violencia contra las mujeres;
-
-f) coadyuvar en la adopción y consolidación del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
-
-g) celebrar convenios de colaboración coordinación y concertación en la materia; y
-
-h) las demás que le confieran esta ley u otros ordenamientos aplicables.
-
-###### Artículo 19.
-
-1. Las corporaciones policiales preventivas de los municipios del Estado cumplirán las instrucciones relacionadas con esta ley que dispongan las autoridades administrativas competentes.
-
-2. A su vez, con base en el orden jurídico aplicable, auxiliarán a las mujeres víctimas de violencia en la forma más amplia que les sea posible.
-
-3. También integrarán una base de datos que contenga todos los aspectos relacionados con la violencia en contra de las mujeres.
-
-###### Artículo 20.
-
-1. Al Instituto de la Mujer Tamaulipeca le corresponde:
-
-a) fungir como Secretaría Ejecutiva del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar con (sic) la Violencia contra las Mujeres, a través de su Directora General;
-
-b) integrar los expedientes que contengan las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención, sanción y erradicación de ese fenómeno;
-
-c) proponer a las autoridades encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que considere pertinentes, para contribuir a prevenir, atender, sancionar y erradicar la violencia en contra de las mujeres;
-
-d) colaborar en el diseño y evaluación del modelo de atención a víctimas en los refugios;
-
-e) canalizar a las mujeres víctimas de la violencia a programas de reeducación de carácter integral, especializado y gratuito, con objeto de que puedan participar activamente en la vida pública, privada y social;
-
-f) promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
-
-g) difundir ampliamente la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia y de seguridad pública, garanticen la integridad física de quienes sean víctimas o denunciantes de violencia en contra de las mujeres.
-
-h) promover foros educativos, exposiciones de toda índole, programas radiofónicos o televisivos, obras de teatro, conferencias y todo método que sea útil para que la población en general conozca esta ley, los derechos humanos de la mujer y la importancia de respetarlos.
-
-i) celebrar convenios de colaboración, coordinación y concertación en la materia; y
-
-j) las demás que le confieren esta ley u otros ordenamientos aplicables.
-
-2. Para el cumplimiento de sus atribuciones, el Instituto dispondrá de los procedimientos que le otorga la ley, efectuará oportunamente las previsiones pertinentes y justificará su actuación.
-
-### Capítulo VI. De la atención y refugio para víctimas
-
-###### Artículo 21.
-
-1. Toda autoridad estatal o municipal, en el ámbito de sus atribuciones, deberá prestar atención a las víctimas de la violencia en contra de las mujeres. A su vez, deberá fomentar la adopción y aplicación de programas y acciones de protección a las víctimas de esos hechos.
-
-2. En su caso, dichas autoridades gestionarán la atención gratuita a las víctimas por parte de instituciones del sector salud, de carácter médico, psicológico o psiquiátrico.
-
-3. Igualmente, proveerán de refugio seguro a las víctimas de la violencia contra la mujer, en el cual disfruten de seguridad, higiene y apoyo alimentario.
-
-###### Artículo 22.
-
-1. En Tamaulipas las mujeres víctimas de la violencia disfrutan del derecho a:
-
-a) recibir un trato de respeto a su integridad;
-
-b) ejercer a plenitud sus derechos de toda índole;
-
-c) obtener protección inmediata y efectiva por parte de las autoridades;
-
-d) recibir información oportuna, suficiente y veraz para decidir sobre las opciones inherentes a su atención;
-
-e) contar con asesoría jurídica gratuita y expedita;
-
-f) disfrutar de la atención y cuidados médicos que requiera;
-
-g) acudir a un refugio mientras lo necesite;
-
-h) en general, a ser educadas y apreciadas socialmente con independencia de cualquier estereotipo de comportamiento y/o práctica cultural basados en prejuicios de inferioridad o subordinación.
-
-2. En caso de que la víctima tenga descendientes menores de edad, podrá incorporarlos a su refugio por el tiempo que esto sea indispensable.
-
-3. El agresor deberá participar en los programas de reeducación integral, especializada y gratuita, previa disposición de la autoridad competente conforme a los Códigos de Procedimientos Civiles y de Procedimientos Penales para el Estado.
-
-###### Artículo 23.
-
-1. Los refugios deberán estar acondicionados de tal forma que resulten sitios seguros para las mujeres víctimas de la violencia, los cuales contarán con los satisfactores básicos para su subsistencia.
-
-2. Además, deberán disponer del personal médico, psicológico y jurídico para proporcionar apoyo, asesoría y cuidados a la víctima, según corresponda.
-
-###### Artículo 24.
-
-1. En los refugios se deberá:
-
-a) aplicar el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
-
-b) velar por la seguridad de las mujeres víctimas de la violencia que reciban;
-
-c) proporcionar la atención médica, psicológica y jurídica necesarias para la víctima;
-
-d) dar a las mujeres víctimas de la violencia, información útil para que decidan sobre sus opciones de atención;
-
-e) contar con personal capacitado y suficiente para brindar un servicio óptimo y expedito; y
-
-f) dotar de todo aquello que sea necesario para la protección y atención de las mujeres víctimas de la violencia y, en su caso, de sus descendientes.
-
-2. Asimismo, en los refugios se implementarán los programas reeducativos integrales, a fin de que las mujeres víctimas de la violencia puedan volver a participar con plenitud en el desarrollo de su vida cotidiana.
-
-###### Artículo 25.
-
-1. La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos que subsistan los motivos de inestabilidad física, psicológica, o de riesgo inminente.
-
-2. En ningún caso se podrá mantener a las mujeres víctimas de la violencia en los refugios, en contra de su voluntad.
-
-T R A N S I T O R I O S
-
-Artículo Primero. La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo. El Sistema Estatal a que se refiere esta ley se integrará dentro de los cuatro meses siguientes a la entrada en vigor de esta ley.
-
-Artículo Tercero. Los recursos para cumplir con los términos de esta ley se cubrirán con cargo al presupuesto autorizado a las dependencias y entidades estatales y municipales involucradas, las cuales harán las debidas previsiones en la planeación y programación de los subsecuentes presupuestos de Egresos del Estado.
-
-SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 29 de junio del año 2007.- DIPUTADA PRESIDENTA.- ANASTACIA GUADALUPE FLORES VALDÉZ.- Rúbrica.- DIPUTADA SECRETARIA.- AÍDA ARACELI ACUÑA CRUZ.- Rúbrica.- DIPUTADO SECRETARIO.- ALEJANDRO CENICEROS MARTÍNEZ.- Rúbrica."
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los cuatro días del mes de julio del año dos mil siete.
-
-ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNÁNDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTÍNEZ TORRES.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 26 DE MAYO DE 2011.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 24 DE SEPTIEMBRE DE 2013
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
-
-P.O. 6 DE MARZO DE 2014.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 15 DE ABRIL DE 2014.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 108.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 62, EL PÁRRAFO PRIMERO DEL ARTÍCULO 80, EL INCISO D) DEL ARTICULO 82, EL PÁRRAFO PRIMERO DEL ARTÍCULO 106 Y LAS FRACCIONES V Y VI DEL ARTÍCULO 125 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 6o DE LA LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES”.]
+SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
