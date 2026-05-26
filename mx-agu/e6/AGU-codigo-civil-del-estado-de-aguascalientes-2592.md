@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -373,11 +373,11 @@ La Dirección General del Registro Civil tendrá bajo su control, inspección y 
 
 DE LAS ACTAS DE NACIMIENTO.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2026)</small>
 
 ###### Artículo 50.
 
-Toda persona desde su nacimiento, tiene derecho a contar con nombre y los apellidos que le correspondan, así como a ser inscrito en el Registro Civil respectivo de forma inmediata y gratuita, y a que se le expida en forma ágil y sin costo la primera copia certificada de su acta de nacimiento.
+Toda persona desde su nacimiento tiene derecho a contar con nombre y los apellidos que le correspondan, así como a ser inscrito en el Registro Civil respectivo de forma inmediata, ágil y gratuita, y a que se le expida de inmediato y sin costo la primera copia certificada de su acta de nacimiento.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
@@ -438,6 +438,12 @@ En los registros de nacimiento por ningún concepto se asentarán palabras que c
 En el momento en que se lleve a cabo un registro de nacimiento, el Oficial del Registro Civil asentará la filiación de la madre desprendiéndola del certificado de nacimiento, y la del padre, con la anuencia de la progenitora, en función al reconocimiento expreso que realice el que comparezca al registro con carácter de reconocedor, lo anterior independientemente del estado civil de la madre.
 
 Si se actualiza la presunción a que refiere el artículo 348 del presente Código y quien pretenda realizar el reconocimiento es alguien diverso al marido, tendrá lugar un trámite administrativo en el que el reconocedor y la madre deberán comparecer de manera personal y exhibir una declaratoria en la que manifiesten bajo protesta de decir verdad el vínculo de filiación con la persona registrada.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+###### Artículo 57 Bis.
+
+Siendo el padre y/o la madre, menores de edad que se encuentren físicamente imposibilitados para acudir ante el Registro Civil, tanto los ascendentes maternos como los paternos podrán llevar a cabo el trámite del registro correspondiente del recién nacido exhibiendo los documentos señalados en el Reglamento del Registro Civil del Estado de Aguascalientes y acreditando fehacientemente el parentesco.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
@@ -18542,3 +18548,15 @@ P.O. 25 DE MAYO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de (sic) publicación en el Periódico Oficial del Estado
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 501.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo contará con 180 días a partir de la entrada en vigor de este Decreto, para hacer las reformas y adecuaciones necesarias en el Reglamento del Registro Civil del Estado de Aguascalientes y demás normatividad aplicable.
