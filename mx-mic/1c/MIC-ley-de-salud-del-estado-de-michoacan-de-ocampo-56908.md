@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2026-03-31"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -203,6 +203,10 @@ XXXIV. Pandemia: La propagación mundial de una enfermedad;
 
 XXXIV Bis. Salud: Estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades;
 
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XXXIV Ter. Psicosis postparto: Trastorno de salud mental que puede manifestarse durante el periodo posterior al parto, caracterizado por alteraciones emocionales, cognitivas o conductuales asociadas a factores biológicos, hormonales y psicosociales;
+
 > <small>(ADICIONADA, P.O. 22 DE JULIO DE 2021)</small>
 
 XXXV. Salud Mental: Estado de bienestar que una persona experimenta como resultado de su buen funcionamiento en los aspectos cognoscitivos, afectivos, conductuales, y, en última instancia, al despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación;
@@ -255,7 +259,9 @@ XLVI. SIDA: Síndrome de Inmunodeficiencia Adquirida, es la etapa avanzada de la
 
 El derecho a la protección de la salud tiene las siguientes finalidades:
 
-I. El bienestar físico, mental y social del hombre, para contribuir al ejercicio pleno de sus capacidades;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+I. El bienestar físico, mental, emocional y social de la persona, para contribuir al ejercicio pleno de sus capacidades;
 
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
@@ -589,6 +595,10 @@ XVII. Diseñar, coordinar e implementar programas y acciones para garantizar el 
 
 XVIII. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema, y los que determinen las disposiciones generales aplicables.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+ARTÍCULO 14 BIS. Los cargos administrativos de primer nivel dentro del sector salud estatal, incluyendo direcciones, subdirecciones, coordinaciones y jefaturas de área en hospitales, jurisdicciones sanitarias y unidades administrativas, podrán ser desempeñados por profesionistas con título y cédula profesional en alguna rama de las ciencias de la salud, siempre que cumplan con el perfil, la experiencia, la capacidad técnica y los demás requisitos establecidos en las disposiciones legales, reglamentarias y administrativas aplicables.
+
 ###### ARTÍCULO 15.
 
 La Secretaría, promoverá la participación de los prestadores de servicios en materia de esta Ley, de los sectores público, social y privado, colegios de profesionistas reconocidos por el Estado, así como de sus trabajadores y de los usuarios de los mismos en el Sistema, en los términos de las disposiciones que al efecto se expidan.
@@ -679,9 +689,9 @@ Las omisiones a lo anterior, serán sancionadas en los términos que establezcan
 
 ARTÍCULO 17 B. La atención materno-infantil abarca el período que va del embarazo, parto, posparto y puerperio, en razón de la condición de vulnerabilidad en que se encuentra la mujer y el producto; tiene carácter prioritario y comprende, entre otras, las acciones siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-I. La atención de niñas y niños, la vigilancia de su crecimiento, desarrollo integral, incluyendo la promoción y provisión del acceso oportuno a las vacunas contempladas en los esquemas nacionales de vacunación, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas;
+I. La atención a la primera infancia y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, la atención prenatal, la atención especializada en neurodesarrollo, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas;
 
 II. La aplicación de la prueba del tamiz metabólico neonatal, preferentemente entre el segundo y séptimo día de vida. Además, la aplicación del tamiz metabólico neonatal ampliado a todo prematuro, así como a cualquier neonato en caso de ser necesario conforme examen clínico previo;
 
@@ -696,6 +706,18 @@ VI. La detección de ictericia y, en su caso conforme examen clínico previo, la
 VII. La aplicación del tamiz neonatal para la detección de cardiopatías congénitas graves o críticas, antes del alta hospitalaria, durante las primeras setenta y dos horas de nacido; y,
 
 VIII. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida.
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+IX. La detección temprana de condiciones deformantes como el pie equino varo, el pie valgo y los defectos del cierre del tubo neural; y,
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+X. La remisión a los centros especializados en neurodesarrollo de la primera infancia que presenten alteraciones en su desarrollo psicomotor, signos de daño neurológico, problemas de lenguaje o comunicación, dificultades emocionales o conductuales, antecedentes perinatales de riesgo, historia médica previa relacionada con afecciones neurológicas, o cualquier otro indicador clínico que requiera atención especializada en neurodesarrollo.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, P.O. 26 DE MAYO DE 2026.]</small>
+
+Cuando el personal de salud identifique indicadores clínicos que puedan derivar en una discapacidad, deberá realizar las gestiones necesarias para remitirlos al Centro de Rehabilitación de Educación Especial, unidades básicas de rehabilitación o centros de rehabilitación integral, conforme a las disposiciones legales vigentes en materia de asistencia social.
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
@@ -725,6 +747,10 @@ IX. Ejercer la lactancia plenamente en cualquier lugar, incluido su centro de tr
 
 X. Recibir información oportuna, veraz y comprensible sobre los beneficios de la lactancia materna, las técnicas adecuadas para el amamantamiento y las posibles dificultades con sus respectivos medios de solución;
 
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+X Bis. Recibir información clara, oportuna, veraz y comprensible sobre ansiedad, depresión y psicosis postparto en la etapa perinatal;
+
 XI. Ser respetada en su privacidad y en la confidencialidad de su información personal y médica durante todo su embarazo;
 
 XII. Participar libre y plenamente en las decisiones sobre su atención médica, incluyendo el otorgamiento del consentimiento informado, y acceder, si así lo decide, a una segunda opinión institucional en condiciones de oportunidad, accesibilidad y sin represalias;
@@ -741,7 +767,9 @@ XVI. Ejercer su derecho humano a la información, de forma completa, accesible y
 
 Las mujeres tendrán derecho a decidir sobre el futuro de su hijo o hija en situaciones en las que no puedan o no deseen asumir su crianza, y podrán optar por el procedimiento de adopción conforme a la normatividad aplicable, con pleno acceso a la información sobre las opciones disponibles, los derechos de las niñas y niños, y las instituciones competentes;
 
-XVII. Recibir, de manera gratuita y a petición personal, atención psicológica especializada en caso de manifestar depresión postparto o cualquier otra condición que afecte su salud mental, incluyendo aquellas derivadas de la interrupción del embarazo, sin importar su causa.
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XVII. Recibir de manera gratuita atención psicológica especializada y/o psiquiátrica, en caso de manifestar depresión postparto, psicosis postparto o cualquier otra condición que afecte su salud mental, incluyendo aquellas derivadas de la interrupción del embarazo, sin importar su causa.
 
 Esta atención deberá brindarse sin discriminación, estigmatización ni barreras institucionales, garantizando la confidencialidad, el respeto a la autonomía personal y el acceso oportuno a los servicios de salud mental;
 
@@ -882,6 +910,82 @@ IV. La Secretaría de Salud integrará y difundirá anualmente la información e
 ARTÍCULO 17 E. La Secretaría, en coordinación con la Secretaría de Educación del Estado, implementará las medidas necesarias para optimizar el rendimiento académico de la mujer embarazada y durante el periodo de lactancia materna; además, en coordinación con la Secretaría encargada del desarrollo social y los sistemas DIF estatal y municipales, promoverá la vinculación de programas sociales para la atención a mujeres embarazadas y durante el periodo de lactancia materna, especialmente aquellas que se encuentren en estado de vulnerabilidad social o económica, estableciendo acciones que promuevan el fomento a la paternidad responsable, que propicie la vigencia de los derechos de los menores de edad a la satisfacción de sus necesidades, salud física y mental.
 
 Además, la Secretaría de Salud del Estado en coordinación con la Secretaría de Gobierno deberá promover ante la Secretaría de Relaciones Exteriores y la Secretaría de Comunicaciones y Transportes, el que se lleven a cabo las acciones necesarias para garantizar el derecho al transporte de leche materna, y se faciliten las condiciones para su traslado adecuado.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+ARTÍCULO 17 F. La Secretaría, conforme a su planeación institucional y disponibilidad presupuestal, deberá contar con un Centro Estatal de Desarrollo Infantil, Estimulación Temprana y Neurodesarrollo y podrá establecer, conforme al presupuesto disponible, centros de neurodesarrollo en cada jurisdicción sanitaria.
+
+El Centro Estatal de Desarrollo Infantil, Estimulación Temprana y Neurodesarrollo tendrá entre sus funciones establecer criterios técnicos, apoyar la formación del personal, así como supervisar y evaluar el desempeño de los demás centros especializados en neurodesarrollo.
+
+Los centros especializados en neurodesarrollo tendrán como objetivo principal la vigilancia y el seguimiento del desarrollo psicomotriz de la primera infancia; sus atribuciones y competencias, como mínimo, serán las siguientes:
+
+I. Coadyuvar en la atención especializada en neurodesarrollo, la cual podrá incluir evaluación, diagnóstico temprano, tratamiento, rehabilitación y seguimiento integral de las personas menores de edad de la primera infancia, para que reciban estimulación temprana y logren un desarrollo integral, potenciando al máximo sus capacidades cognitivas, físicas, emocionales, sociales, afectivas y lingüísticas;
+
+II. Participar, en el ámbito de su competencia, en la evaluación mediante estudios de imagen, estudios electrofisiológicos y evocados visuales y auditivos, necesarios para la detección precisa de alteraciones neurológicas;
+
+III. Coadyuvar en el diagnóstico y tratamiento de trastornos neurológicos en la infancia, así como en la coordinación de las intervenciones necesarias para prevenir complicaciones;
+
+IV. Contribuir al análisis del desarrollo emocional y conductual, y en la detección temprana de problemas relacionados con el desarrollo neurológico;
+
+V. Participar en el diseño y aplicación de estrategias de estimulación motriz y rehabilitación para fortalecer el desarrollo psicomotor;
+
+VI. Favorecer el desarrollo de habilidades motoras finas y funcionales, promoviendo la autonomía del menor de edad en la primera infancia en sus actividades diarias;
+
+VII. Coadyuvar en la evaluación y atención de alteraciones en el desarrollo del lenguaje y la comunicación;
+
+VIII. Brindar orientación general sobre la adecuada alimentación de los menores, contribuyendo al desarrollo neurológico óptimo mediante intervenciones nutricionales;
+
+IX. Promover la vinculación con programas de apoyo social y educativo que refuercen el desarrollo integral del menor y su entorno familiar;
+
+X. Promover acciones de prevención primaria a través de campañas de concienciación, talleres informativos y capacitación para personal de salud, madres, padres y personas cuidadoras;
+
+XI. Orientar y canalizar, en su caso, para la gestión de prótesis, órtesis o medicamentos; y,
+
+XII. Podrán celebrar convenios de colaboración con bancos de prótesis, órtesis, ayudas técnicas y medicinas de uso restringido para apoyar en su gestión y obtención.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+ARTÍCULO 17 G. Los centros especializados en neurodesarrollo preferentemente estarán integrados por un equipo multidisciplinario conformado por los siguientes perfiles profesionales:
+
+I. Médico especialista en medicina de rehabilitación;
+
+II. Pediatra con enfoque en desarrollo infantil;
+
+III. Neurólogo pediatra;
+
+IV. Psicólogo infantil:
+
+V. Terapeuta físico o fisioterapeuta pediátrico;
+
+VI. Terapeuta ocupacional;
+
+VII. Logopeda o terapeuta del lenguaje;
+
+VIII. Enfermera o enfermero especializado en pediatría;
+
+IX. Nutriólogo pediátrico;
+
+X. Trabajador social; y,
+
+XI. Especialista en diagnóstico por imágenes.
+
+El equipo multidisciplinario trabajará de manera coordinada para facilitar la evaluación, diagnóstico temprano, tratamiento, rehabilitación y seguimiento integral de las personas menores de edad, promoviendo su desarrollo pleno e integral.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+ARTÍCULO 17 H. El Centro Estatal de Desarrollo Infantil, Estimulación Temprana y Neurodesarrollo, tendrá como funciones específicas:
+
+I. Fungir como unidad de referencia para casos complejos de desarrollo infantil y trastornos neurológicos;
+
+II. Desarrollar y actualizar protocolos técnicos, guías clínicas y criterios de referencia para la atención en los centros especializados en neurodesarrollo;
+
+III. Establecer mecanismos de formación, capacitación y actualización para el personal de los centros de neurodesarrollo en el estado;
+
+IV. Supervisar y evaluar el desempeño técnico y operativo de los centros de neurodesarrollo;
+
+V. Recabar, sistematizar y analizar información sobre los indicadores de desarrollo infantil para diseñar políticas públicas y acciones de mejora continua; y,
+
+VI. Coordinarse con instituciones académicas, científicas y de salud, nacionales e internacionales, para fortalecer la investigación y la innovación en materia de neurodesarrollo.
 
 ###### ARTÍCULO 18.
 
@@ -1059,13 +1163,13 @@ X. La prevención de enfermedades crónico degenerativas y la concientización s
 
 ### CAPÍTULO IV. DE LA SALUD PÚBLICA EN EL ESTADO
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 30.
 
 La Salud Pública tiene por objeto promover la salud, para prevenir enfermedades y prolongar la vida, a través del esfuerzo comunitario organizado.
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
-
-Dentro de las necesidades básicas del ser humano se encuentra la salud mental, por ello la Secretaría de Salud establecerá el servicio de psicología permanente en todos los establecimientos de salud de primer nivel de atención en el Estado y de psiquiatría, cuando sea referenciado al segundo nivel de salud.
+Dentro de las necesidades básicas del ser humano se encuentra la salud mental; por ello, la Secretaría de Salud, conforme a su capacidad instalada, habilitará áreas de atención especializada en salud mental en los establecimientos de salud de primer nivel de atención del Estado, a fin de brindar atención integral a la población que lo requiera, desde un enfoque preventivo y garantizará los servicios de psiquiatría en el segundo nivel de atención, cuando exista referencia médica.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2024)</small>
 
@@ -1203,13 +1307,21 @@ ARTÍCULO 39 BIS. Se concede acción pública para denunciar ante autoridades ad
 
 #### SECCIÓN PRIMERA. DE LA PREVENCIÓN, DIAGNÓSTICO Y ATENCIÓN DEL CÁNCER INFANTIL Y DE ADOLESCENTES
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2026)</small>
 
-ARTÍCULO 39 TER. El cáncer infantil y de adolescentes, es el que afecta a niñas, niños y adolescentes, siendo una enfermedad provocada por un grupo de células que se multiplican sin control y de manera autónoma, invadiendo localmente y a distancia otros tejidos del cuerpo humano.
+ARTÍCULO 39 TER. El cáncer en la infancia y la adolescencia es considerado una enfermedad prioritaria en términos de esta Ley, siendo una enfermedad provocada por un grupo de células que se multiplican sin control y de manera autónoma, invadiendo localmente y a distancia otros tejidos del cuerpo humano.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ARTÍCULO 39 QUATER. La Secretaría en coordinación con el Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia, diseñará e implementará de forma permanente, en coordinación con las autoridades estatales y municipales, las acciones y programas necesarios para la prevención, diagnóstico y atención del cáncer infantil, de manera prioritaria para aquellos menores que no cuenten con algún sistema, seguro o servicio de atención a la salud, dichas acciones y programas deberán ser gratuitos.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+Asimismo, la Secretaría deberá establecer un rubro específico para la creación, operación, mantenimiento y actualización del Registro de Casos de Cáncer en la Infancia y la Adolescencia del Estado de Michoacán, conforme a lo dispuesto por la Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia y en apego a los términos, lineamientos técnicos y criterios de interoperabilidad establecidos en el Reglamento del Registro Nacional de Cáncer.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+Dicho Registro Estatal deberá integrarse funcionalmente al Registro Nacional, garantizando la recolección, resguardo, sistematización y análisis de la información sobre diagnóstico, seguimiento, evolución y desenlace clínico de los casos de cáncer infantil y adolescente en la entidad, con el objetivo de incidir en la planeación, evaluación y mejora de las políticas públicas en materia de oncología pediátrica.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
@@ -3732,3 +3844,57 @@ Segundo. Las acciones derivadas del presente Decreto se implementarán de manera
 Tercero. El Poder Ejecutivo del Estado podrá considerar, en los ejercicios fiscales subsecuentes, la asignación de recursos presupuestales necesarios para el cumplimiento del presente Decreto, conforme a la disponibilidad financiera y a las disposiciones aplicables en materia presupuestal.
 
 Cuarto. La Secretaría de Salud del Estado contará con un plazo de hasta ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las acciones preparatorias necesarias para la creación del Registro Estatal de Enfermedades Raras y Crónico-Degenerativas y la conformación del Consejo Estatal correspondiente, conforme a su planeación institucional y a la disponibilidad presupuestal y operativa.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 446.- ÚNICO. SE REFORMA EL ARTÍCULO 39 TER; Y, SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 39 QUATER DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado, podrá realizar las adecuaciones presupuestales que resulten necesarias, conforme a la disponibilidad financiera del ejercicio fiscal correspondiente que contiene el Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, conforme a la disponibilidad financiera del ejercicio fiscal correspondiente que contiene el Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, para dar cumplimiento con el presente Decreto.
+
+TERCERO. El Titular del Poder Ejecutivo dentro de los 180 días hábiles siguientes a la entrada en vigor del presente Decreto, realizará, conforme a la disponibilidad presupuestal y operativa, las acciones necesarias para la implementación progresiva.
+
+CUARTO. El Centro Regional de Desarrollo Infantil y Estimulación Temprana actualmente en operación, a partir de la entrada en vigor del presente Decreto, será denominado Centro Estatal de Desarrollo Infantil, Estimulación Temprana y Neurodesarrollo, para lo cual, la Secretaría de Salud adecuará su estructura y operación conforme a este Decreto, en un plazo no mayor a 90 días naturales.
+
+QUINTO. La Secretaría de Salud realizará las gestiones necesarias para que los recursos humanos, financieros y materiales con que cuenta el Centro Regional de Desarrollo Infantil y Estimulación Temprana, sean transferidos al Centro Estatal de Desarrollo Infantil, Estimulación Temprana y Neurodesarrollo, en términos de lo dispuesto en el presente Decreto.
+
+SEXTO. Los derechos laborales del personal adscrito al Centro Regional de Desarrollo Infantil y Estimulación Temprana, serán respetados y reconocidos por el Centro Estatal de Desarrollo Infantil, Estimulación Temprana y Neurodesarrollo.
+
+SÉPTIMO. Las obligaciones asumidas previamente a la publicación del presente Decreto y las pendientes que se tengan con terceros con cargo al Centro Regional de Desarrollo Infantil y Estimulación Temprana actualmente en operación, se continuarán atendiendo en términos de las disposiciones que lo regían.
+
+OCTAVO. El Congreso del Estado a propuesta del Titular del Poder Ejecutivo del Estado, podrá considerar, en los ejercicios fiscales subsecuentes, la asignación de recursos presupuestales, conforme a la disponibilidad financiera y a las disposiciones aplicables en materia presupuestal.
+
+NOVENO. En un periodo de 1 año, contado a partir de la entrada en vigor del presente Decreto, la Secretaría de Salud presentará al Congreso del Estado un informe del cumplimiento de cobertura de los servicios de Desarrollo Infantil, Estimulación Temprana y Neurodesarrollo.
+
+DÉCIMO. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 446.- ÚNICO. SE REFORMA EL ARTÍCULO 39 TER; Y, SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 39 QUATER DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La implementación de las acciones derivadas del presente Decreto se realizará con cargo al presupuesto aprobado a las dependencias competentes para el ejercicio fiscal correspondiente, por lo que no se autorizarán ampliaciones presupuestales específicas para su cumplimiento.
+
+Tercero. La Secretaría de Salud del Estado emitirá, en su caso, los lineamientos, mecanismos de coordinación y disposiciones administrativas necesarias para la operación y actualización del Registro de Casos de Cáncer en la Infancia y la Adolescencia del Estado de Michoacán, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 430.- PRIMERO. SE ADICIONA UNA FRACCIÓN XXXIV TER AL ARTÍCULO 2°; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3°; SE ADICIONA LA FRACCIÓN X BIS Y SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 17 C; Y, SE REFORMA EL ARTÍCULO 30, TODOS DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría de Salud del Estado contará con un plazo de ciento ochenta días naturales para emitir o adecuar los lineamientos y protocolos necesarios para el cumplimiento del presente Decreto. La implementación de las acciones previstas se realizará de manera gradual y progresiva, conforme a la capacidad instalada, disponibilidad presupuestaria y suficiencia operativa de las unidades administrativas competentes.
+
+Tercero. Las dependencias y entidades competentes realizarán las adecuaciones administrativas necesarias para el cumplimiento del presente Decreto con los recursos humanos, materiales y financieros existentes.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 434 POR EL QUE "SE ADICIONA EL ARTÍCULO 14 BIS DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La aplicación del presente Decreto se realizará sin perjuicio de las disposiciones administrativas, laborales, presupuestarias y reglamentarias aplicables al régimen de organización y funcionamiento de las instituciones del sector salud.
+
+Tercero. Las dependencias y entidades competentes realizarán, en el ámbito de sus atribuciones, las adecuaciones administrativas necesarias para el cumplimiento del presente Decreto con los recursos humanos, materiales y financieros existentes.
