@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2026-02-24"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -750,6 +750,10 @@ El salario será igual para cada una de las categorías de trabajadores señalad
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2022)</small>
 
 A trabajo igual, desempeñado en puesto, jornada y condiciones de eficiencia también iguales, debe corresponder salario igual entre trabajadoras y trabajadores, sin excepción alguna.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+En cumplimiento de las obligaciones del Estado de reducir la brecha salarial de género, se promoverán acciones para erradicar las prácticas retributivas desiguales de conformidad con lo dispuesto en la Ley General para la Igualdad entre Mujeres y Hombres y la Ley para la Igualdad entre Mujeres y Hombres del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2022)</small>
 
@@ -2440,3 +2444,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los entes públicos del Estado y sus Municipios deberán realizar las adecuaciones administrativas necesarias para el cumplimiento del presente Decreto.
 
 TERCERO. Quedan derogadas todas las disposiciones legales, reglamentarias o administrativas que se opongan al presente Decreto.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 499.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 48 DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
