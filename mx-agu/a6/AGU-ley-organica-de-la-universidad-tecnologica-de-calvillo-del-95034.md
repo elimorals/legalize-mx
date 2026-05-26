@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-tecnologica-de-calvillo-del-9503
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-07-08"
-last_updated: "2024-05-13"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2013.
 
@@ -277,9 +277,11 @@ II. Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y es
 
 III. Poseer grado de maestría preferentemente;
 
-IV. Poseer reconocida experiencia académica y profesional;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-V. Ser persona de amplia solvencia moral y de reconocido prestigio; y
+IV. Contar con reconocidos méritos profesionales y/o experiencia en la dirección de programas académicos; y
+
+V. (DEROGADA, P.O. 26 DE MAYO DE 2026)
 
 VI. Tener capacidad de conducción con base en un proyecto de desarrollo para la Universidad.
 
@@ -472,3 +474,9 @@ El presente Decreto iniciará su vigencia a los 180 días naturales siguientes a
 ###### ARTICULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 502.- SE REFORMA LA FRACCIÓN IV; Y SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 17 DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
