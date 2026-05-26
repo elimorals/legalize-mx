@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-mental-del-estado-de-michoacan-de-ocampo-102417"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2024-05-28"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -243,7 +243,9 @@ I. Elaborar un Modelo de Salud Mental para el Estado de Michoacán, conforme a l
 
 II. Implementar de manera formal y sistemática programas en materia de salud mental, con un enfoque de derechos humanos y perspectiva de género;
 
-III. Diseñar y ejecutar de forma permanente campañas educativas de difusión masiva para orientar, motivar e informar a la población sobre el concepto de salud mental, los estigmas imperantes en la población, los diversos trastornos mentales existentes, los síntomas que se presentan, las formas de prevención, y modos de atención, en coordinación con las dependencias e instituciones competentes;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+III. Diseñar y ejecutar de forma permanente campañas educativas de difusión masiva y jornadas comunitarias para orientar, motivar e informar a la población sobre el concepto de salud mental, los estigmas imperantes en la población, los diversos trastornos mentales existentes, los síntomas que se presentan, las formas de prevención, y modos de atención priorizando su implementación en comunidades rurales y zonas de alta marginación, en coordinación con las dependencias e instituciones competentes;
 
 IV. Coordinar y supervisar las acciones para la salud mental;
 
@@ -263,7 +265,9 @@ VIII. Instalar, administrar y operar la línea telefónica de Red Estatal de Sal
 
 IX. Llevar a cabo reuniones periódicas con los demás organismos centralizados, descentralizados y desconcentrados de la Administración Pública del Estado de Michoacán, a efecto de suscribir los instrumentos jurídicos necesarios para generar las condiciones necesarias para la implementación del Modelo Estatal de Salud Mental;
 
-X. Fijar los lineamientos de coordinación para que los Municipios, en el ámbito de su competencia, intervengan en la promoción de la salud mental, e incentiven la participación social;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+X. Fijar los lineamientos de coordinación para que los Municipios, en el ámbito de su competencia, intervengan en la promoción de la salud mental, e incentiven la participación social y participen activamente en la realización de jornadas y acciones focalizadas de prevención del suicidio, promoción del bienestar emocional y canalización temprana de personas en riesgo, especialmente en comunidades rurales y zonas de alta marginación;
 
 XI. Implementar estrategias de coordinación de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y mecanismos de coordinación para llevar a cabo acciones de prevención, diagnóstico oportuno, tratamiento y rehabilitación;
 
@@ -327,9 +331,9 @@ IV. Fortalecer las acciones comunitarias que aseguren los factores de protecció
 
 V. Promover la participación de observadores externos para vigilar el pleno respeto de los derechos humanos de las personas con trastornos mentales y del comportamiento que son atendidas en los establecimientos de la Red Estatal de Salud Mental;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-VI. Diseñar y llevar a cabo campañas que reduzcan los factores de riesgo de desarrollar trastornos mentales;
+VI. Diseñar y llevar a cabo campañas informativas, digitales y/o impresas, orientadas a la prevención y reducción de los factores de riesgo asociados al desarrollo de trastornos mentales en la población, con énfasis en las personas en situación de vulnerabilidad durante la etapa perinatal;
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2021)</small>
 
@@ -359,9 +363,17 @@ IV. Realizar programas para la prevención y control del uso de sustancias psico
 
 IV BIS. La mejora continua en los centros destinados a la prevención, orientación, desintoxicación, deshabituación y reinserción de la persona, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen;
 
-V. Detectar y atender de manera inmediata a personas que practiquen actividades que pongan en riesgo su vida; y,
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-VI. Elaborar programas que promuevan la referencia de estudiantes que presenten conductas disfuncionales en las distintas áreas del desarrollo humano.
+V. Detectar y atender de manera inmediata a personas que practiquen actividades que pongan en riesgo su vida;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+VI. Elaborar programas que promuevan la referencia de estudiantes que presenten conductas disfuncionales en las distintas áreas del desarrollo humano; y,
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+VII. Realizar programas de prevención en materia de salud mental perinatal, incluyendo ansiedad, depresión y psicosis postparto.
 
 ###### Artículo 17.
 
@@ -370,6 +382,10 @@ Los programas de prevención tendrán una orientación psicoeducativa y deberán
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 Las escuelas, centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles participarán en dichos programas conforme a lo que estipule la Ley de la materia, para atender de manera temprana la salud física y mental de la niñez, con el fin de generar un buen funcionamiento en los aspectos cognoscitivos, afectivos, conductuales, y, en última instancia, al despliegue óptimo de sus potencialidades individuales para la convivencia, el estudio y la recreación.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+Las instituciones de salud del sector público y privado que presten servicios de atención de primer y segundo nivel en el Estado deberán proporcionar, en el ámbito de su competencia, información clara, oportuna y veraz en materia de salud mental a las mujeres que se encuentren en la etapa perinatal.
 
 ###### Artículo 18.
 
@@ -489,6 +505,12 @@ IV. Sensibilizar a la sociedad sobre los trastornos mentales y las alternativas 
 
 La Secretaría procurará dar prioridad en la atención especializada a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo, puerperio o en menopausia, adultos mayores y personas que se encuentran en situación de calle, de emergencia o desastre.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+###### Artículo 38 Bis.
+
+Para efectos de esta Ley, el personal médico interno y residente en formación adscrito al Sistema Estatal de Salud será considerado población de atención prioritaria en materia de salud mental.
+
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 39.
@@ -515,9 +537,69 @@ III. Proporcionar material informativo básico en salud mental a los padres o tu
 
 La Secretaría de Educación, deberá coordinarse con las instituciones de educación privada, a efecto de que se apliquen las acciones señaladas en el presente Capítulo.
 
-### CAPÍTULO V. DEL COMITÉ TÉCNICO DE SALUD MENTAL PARA EL ESTADO DE MICHOACÁN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2026)</small>
 
-### CAPÍTULO VI. RECURSOS HUMANOS PARA LA ATENCIÓN EN SALUD MENTAL
+### CAPÍTULO IV BIS. DE LA ATENCIÓN A LA DEPRESIÓN Y LA ANSIEDAD EN NIÑAS, NIÑOS Y ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+###### Artículo 42 Bis.
+
+El presente Capítulo tiene por objeto establecer las bases para la prevención, detección temprana, atención integral, tratamiento especializado y seguimiento de la depresión, la ansiedad y otras afectaciones emocionales en niñas, niños y adolescentes, como parte del derecho a la salud mental y en observancia del principio del interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+###### Artículo 42 Ter.
+
+La atención a la salud mental de niñas, niños y adolescentes deberá considerar las distintas etapas de su desarrollo físico, emocional, cognitivo y social, así como los factores familiares, escolares y comunitarios que influyan en su bienestar emocional.
+
+Las acciones previstas en este Capítulo tendrán un enfoque preventivo, formativo y de atención temprana, orientado al fortalecimiento de habilidades socioemocionales y vínculos afectivos sanos, reconociendo que la atención emocional desde la niñez contribuye a la formación de personas adultas emocionalmente sanas y a la consolidación de entornos familiares y sociales estables.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+###### Artículo 42 Quater.
+
+La Secretaría, en coordinación con el Sistema para el Desarrollo Integral de la Familia y las autoridades educativas, deberá implementar acciones para:
+
+I. La detección temprana de signos y síntomas de depresión, ansiedad y otras afectaciones emocionales en niñas, niños y adolescentes;
+
+II. La referencia a atención médica especializada en psiquiatría infantil o adolescente, cuando así lo determinen los criterios clínicos establecidos;
+
+III. La atención prioritaria en los casos en que se identifique riesgo para la integridad física, emocional o social de la persona menor de edad; y,
+
+IV. La orientación y acompañamiento a madres, padres, tutores o personas cuidadoras durante el proceso de atención.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+###### Artículo 42 Quinquies.
+
+Las niñas, niños y adolescentes que presenten afectaciones a su salud mental tendrán derecho a recibir atención integral, continua y oportuna, la cual podrá incluir evaluación psicológica, atención médica especializada en psiquiatría, intervención interdisciplinaria y acompañamiento familiar, respetando en todo momento la dignidad, confidencialidad y autonomía progresiva de la persona menor de edad.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+###### Artículo 42 Sexies.
+
+Las instituciones educativas públicas y privadas del Estado deberán colaborar con las autoridades de salud para la detección temprana de posibles afectaciones a la salud mental de niñas, niños y adolescentes, observando las siguientes obligaciones:
+
+I. Identificar y comunicar de manera oportuna a madres, padres, tutores o personas cuidadoras la posible existencia de señales de depresión o ansiedad;
+
+II. Abstenerse de aplicar medidas disciplinarias, sanciones, exclusiones o condicionamientos académicos derivados de una afectación a la salud mental; y,
+
+III. Promover entornos escolares libres de estigmatización, discriminación o violencia por motivos relacionados con la salud mental.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+###### Artículo 42 Septies.
+
+La Secretaría de Salud, en coordinación con la Secretaría de Educación, promoverá la capacitación continua del personal de salud, docente y administrativo en materia de salud mental infantil y adolescente, con énfasis en la detección temprana, canalización y atención de la depresión y la ansiedad.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+
+###### Artículo 42 Octies.
+
+Las autoridades competentes deberán generar información estadística desagregada por edad sobre la atención brindada en el marco del presente Capítulo, con el fin de evaluar su impacto, mejorar la coordinación interinstitucional y fortalecer las políticas públicas de prevención en materia de salud mental infantil y adolescente.
+
+### CAPÍTULO V. DEL COMITÉ TÉCNICO DE SALUD MENTAL PARA EL ESTADO DE MICHOACÁN
 
 ###### Artículo 43.
 
@@ -585,7 +667,7 @@ VII. Desempeñarse como un organismo de vinculación entre los sectores público
 
 VIII. Las demás que le reconozca la presente ley y otras disposiciones normativas aplicables.
 
-### CAPÍTULO VII. DEL CENTRO DE INVESTIGACIÓN E INFORMACIÓN EN SALUD MENTAL
+### CAPÍTULO VI. RECURSOS HUMANOS PARA LA ATENCIÓN EN SALUD MENTAL
 
 ###### Artículo 47.
 
@@ -615,7 +697,7 @@ La Secretaría promoverá la capacitación de los profesionales en salud mental,
 
 La capacitación de los profesionales de la salud mental, comprenderá el acceso al conocimiento científico de los padecimientos mentales crónicos, deterioro de la calidad de vida y posibles riesgos ante situaciones críticas o de desastres naturales, manteniendo programas actualizados de capacitación en salud mental de manera continua.
 
-### CAPÍTULO VIII. DEL INTERNAMIENTO
+### CAPÍTULO VII. DEL CENTRO DE INVESTIGACIÓN E INFORMACIÓN EN SALUD MENTAL
 
 ###### Artículo 54.
 
@@ -643,7 +725,7 @@ VII. Mantener la confidencialidad y protección de los datos e información de l
 
 VIII. Las que le confiera la presente ley y el Reglamento.
 
-### CAPÍTULO IX. DE LAS UNIDADES MÉDICAS EN RECLUSORIOS Y DE LOS CENTROS DE INTEGRACIÓN PARA ADOLESCENTES
+### CAPÍTULO VIII. DEL INTERNAMIENTO
 
 ###### Artículo 56.
 
@@ -761,7 +843,7 @@ En caso de que la persona usuaria sea candidata para continuar su tratamiento am
 
 Los familiares o responsables legales del usuario contarán con 72 horas después de haber sido notificados para acudir a la unidad médica por el usuario dado de alta, a fin de que sea reintegrado en la sociedad. De no hacerlo en el plazo establecido, la Secretaría notificará al Sistema Estatal de Desarrollo Integral de la Familia a fin de que en un plazo no mayor a 8 días hábiles proceda a la reinserción del paciente en su familia o comunidad.
 
-### CAPÍTULO X. DEL FINANCIAMIENTO EN SALUD MENTAL
+### CAPÍTULO IX. DE LAS UNIDADES MÉDICAS EN RECLUSORIOS Y DE LOS CENTROS DE INTEGRACIÓN PARA ADOLESCENTES
 
 ###### Artículo 73.
 
@@ -791,7 +873,7 @@ La valoración psiquiátrica, se llevará a cabo para identificar la multiplicid
 
 Los Reclusorios, los Centros de Integración para Adolescentes y los reclusorios preventivos implementarán programas para aprovechar los recursos con los que cuenta, tales como el centro escolar y los diferentes talleres donde la persona usuaria de los servicios de salud mental pueda realizar actividades encaminadas a su rehabilitación.
 
-### CAPÍTULO XI. DE LAS SANCIONES Y RECURSOS
+### CAPÍTULO X. DEL FINANCIAMIENTO EN SALUD MENTAL
 
 ###### Artículo 78.
 
@@ -808,6 +890,8 @@ La Secretaría deberá considerar en la erogación del recurso asignado, medidas
 ###### Artículo 81.
 
 La Secretaría fomentará la aportación de recursos económicos y en especie para la atención de la salud mental por parte de los sectores social y privado.
+
+### CAPÍTULO XI. DE LAS SANCIONES Y RECURSOS
 
 ###### Artículo 82.
 
@@ -898,3 +982,13 @@ P.O. 28 DE MAYO DE 2024.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 430.- PRIMERO. SE ADICIONA UNA FRACCIÓN XXXIV TER AL ARTÍCULO 2°; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3°; SE ADICIONA LA FRACCIÓN X BIS Y SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 17 C; Y, SE REFORMA EL ARTÍCULO 30, TODOS DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMAN LAS FRACCIONES III Y X DEL ARTÍCULO 10 Y LA FRACCIÓN VI DEL ARTÍCULO 15; SE REFORMAN LAS FRACCIONES V Y VI Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 16; SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 17, EL ARTÍCULO 38 BIS Y UN CAPÍTULO IV BIS QUE COMPRENDE LOS ARTÍCULOS 42 BIS A 42 OCTIES, TODOS DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría de Salud del Estado contará con un plazo de ciento ochenta días naturales para emitir o adecuar los lineamientos y protocolos necesarios para el cumplimiento del presente Decreto. La implementación de las acciones previstas se realizará de manera gradual y progresiva, conforme a la capacidad instalada, disponibilidad presupuestaria y suficiencia operativa de las unidades administrativas competentes.
+
+Tercero. Las dependencias y entidades competentes realizarán las adecuaciones administrativas necesarias para el cumplimiento del presente Decreto con los recursos humanos, materiales y financieros existentes.
