@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-bibliotecas-para-el-estado-de-michoacan-de-ocampo-130624
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-19"
-last_updated: "2018-07-19"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE BIBLIOTECAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 19 de julio de 2018.
 
@@ -127,6 +127,8 @@ El Gobierno del Estado a través de la Secretaría celebrará convenios conforme
 
 ### CAPÍTULO TERCERO. LA DIRECCIÓN ESTATAL DE BIBLIOTECAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2026)</small>
+
 ###### Artículo 14.
 
 Corresponde a la Dirección Estatal de Bibliotecas:
@@ -137,7 +139,9 @@ II. Promover y fomentar la capacitación, certificación y profesionalización d
 
 III. Modernizar y actualizar las colecciones promoviendo para ello programas periódicos de descarte que permitan su reaprovechamiento o reasignación, favoreciendo con ello a la actualización del acervo;
 
-IV. Coordinar la digitalización de los acervos de las bibliotecas;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+IV. Coordinar la digitalización de los acervos de las bibliotecas, así como promover la creación y acceso a bibliotecas digitales que permitan la consulta gratuita de materiales académicos, científicos y culturales;
 
 V. Evaluar, supervisar y proponer la creación de bibliotecas en el Estado;
 
@@ -219,13 +223,17 @@ El Consejo Consultivo sesionará cuando menos dos veces al año con la asistenci
 
 ### CAPÍTULO QUINTO. SISTEMA ESTATAL DE BIBLIOTECAS
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2026)</small>
+
 ###### Artículo 21.
 
-Se declara de interés social la creación de un Sistema Estatal de Bibliotecas integrado por las bibliotecas de los sectores públicos y privado, el cual tiene el propósito de conjuntar esfuerzos para integrar y ordenar los acervos bibliográficos, hemerográficos y digitales disponibles en las bibliotecas que lo integran.
+Se declara de interés social la creación de un Sistema Estatal de Bibliotecas integrado por las bibliotecas de los sectores públicos y privado, así como por bibliotecas digitales de acceso gratuito, con el propósito de conjuntar esfuerzos para integrar y ordenar los acervos bibliográficos, hemerográficos y digitales disponibles en las bibliotecas que lo integran.
 
 ###### Artículo 22.
 
 El Sistema Estatal de Bibliotecas estará coordinado por la Secretaría que actuará conforme a los lineamientos y directrices emitidas por la Ley General de Bibliotecas y la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2026)</small>
 
 ###### Artículo 23.
 
@@ -241,9 +249,17 @@ IV. Desarrollar programas y establecer convenios con instituciones y organizacio
 
 V. Asesorar en la creación de programas para la formación, actualización, capacitación técnica y profesional del personal;
 
-VI. Orientar a los interesados en los servicios de catalogación y clasificación; y,
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-VII. Profesionalizar en el área de bibliotecología a los directivos de las bibliotecas, durante el ejercicio de su cargo.
+VI. Orientar a los interesados en los servicios de catalogación y clasificación;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+VII. Profesionalizar en el área de bibliotecología a los directivos de las bibliotecas, durante el ejercicio de su cargo; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2026)</small>
+
+VIII. Promover la creación de bibliotecas digitales estatales y el acceso a bibliotecas digitales externas mediante convenios con instituciones nacionales e internacionales.
 
 ###### Artículo 24.
 
@@ -320,3 +336,11 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 04 cuatro días del mes de julio de 2018 dos mil dieciocho.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- ING. PASCUAL SIGALA PÁEZ.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 445.- ARTÍCULO ÚNICO. SE REFORMAN LOS ARTÍCULOS 14, 21 Y 23 DE LA LEY DE BIBLIOTECAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
