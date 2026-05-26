@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2026-05-18"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -605,7 +605,9 @@ I. Garantizar el cumplimiento de la presente Ley y demás disposiciones que deri
 
 II. Contribuir a la efectiva coordinación entre los Sistemas Nacional y Estatal de Seguridad Pública;
 
-III. Aplicar y supervisar los procedimientos relativos a la profesionalización y régimen disciplinario de las instituciones policiales;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+III. Aplicar y supervisar los procedimientos relativos a la carrera policial, profesionalización y régimen disciplinario de las instituciones policiales;
 
 IV. Integrar y consultar en las bases de datos correspondientes, los expedientes de los aspirantes a ingresar a instituciones policiales;
 
@@ -621,13 +623,65 @@ VIII. Participar en la ejecución de las acciones para el resguardo de las insta
 
 IX. Determinar la participación de la comunidad y de instituciones académicas para coadyuvar en los procesos de evaluación de las políticas de prevención del delito, así como de las Instituciones de Seguridad Pública, a través de mecanismos eficaces;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-X. Fortalecer las remuneraciones y prestaciones de los integrantes de las Instituciones Policiales del Estado y de los municipios, así como los sistemas de seguridad social de los servidores públicos, sus familias y dependientes; y
+X. Fortalecer las remuneraciones y prestaciones de los integrantes de las instituciones policiales del Estado y de los municipios, así como los sistemas de seguridad social de los servidores públicos, sus familias y dependientes;
 
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-XI. Garantizar el cumplimiento de las disposiciones en materia de medidas u órdenes de protección de las mujeres, adolescentes, niñas y niños, en términos de lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes y el Código Nacional de Procedimientos Penales.
+XI. Garantizar el cumplimiento de las disposiciones en materia de medidas u órdenes de protección de las mujeres, adolescentes, niñas y niños, en términos de lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes y el Código Nacional de Procedimientos Penales;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XII. Constituir y, en su caso, operar las academias, institutos y comisiones a que se refiere esta Ley, en términos de lo previsto en la legislación general aplicable;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XIII. Asegurar su integración a las bases de datos criminalísticas y de personal de seguridad pública, de conformidad con la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XIV. Designar a un responsable del control, suministro y adecuado manejo de la información a que se refiere esta Ley;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XV. Integrar y consultar la información relativa a la operación y desarrollo policial para el registro y seguimiento, en las bases de datos criminalísticas y de personal de seguridad pública, así como en el Sistema Nacional de Información en materia de seguridad pública;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XVI. Apoyar el intercambio de experiencias, la investigación académica y la aplicación práctica de conocimientos basados en evidencias;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XVII. Apoyar la organización y la sistematización de experiencias exitosas en el combate a los delitos;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XVIII. Compartir conocimientos, según corresponda, con investigadores, entes normativos, educadores, especialistas de otros sectores pertinentes y la sociedad en general;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XIX. Repetir intervenciones exitosas, concebir nuevas iniciativas y diagnosticar nuevos problemas de delincuencia y posibilidades de prevención;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XX. En coordinación con la Federación, podrán generar bases de datos especializadas que permitan administrar la prevención social de la violencia y la delincuencia, así como reducir la victimización y persistencia de delitos en zonas con altos niveles de delincuencia;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XXI. Realizar estudios sobre la victimización y la delincuencia;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XXII. Impulsar la participación ciudadana y comunitaria en la prevención social de la violencia y la delincuencia, en los términos que dispone la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XXIII. Implementar sistemas de vigilancia vecinal o de proximidad; y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XXIV. Las demás atribuciones específicas que se establezcan en esta Ley y en otras disposiciones jurídicas aplicables.
 
 ###### Artículo 22.
 
@@ -3204,3 +3258,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría, por conducto del C5i y en coordinación con la Fiscalía y la Coordinación Estatal de Protección Civil, emitirá los lineamientos técnicos y operativos a que se refiere el artículo 110 I, fracción III, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 498.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
