@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fomento-economico-inversion-y-desarrollo-del-estado-2518
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-21"
-last_updated: "2020-04-14"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE FOMENTO ECONÓMICO, INVERSIÓN Y DESARROLLO DEL ESTADO DE GUERRERO, NÚMERO 487
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el 21 de junio de 2002.
 
@@ -989,9 +989,9 @@ VI.- Del 25% hasta el 80% en el pago del impuesto sobre la compraventa de inmueb
 
 VII.- Del 5% adicional en el pago del impuesto sobre remuneraciones al trabajo personal, para aquellas empresas nuevas o ampliadas que dentro de su plantilla laboral contraten a un 40% de personal femenino;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-VIII.- Del 5% adicional en el pago sobre remuneraciones al trabajo personal, para aquellas empresas nuevas o ampliadas que contraten dentro de su plantilla laboral un 5% de personas con discapacidad;
+VIII.- Del 25% adicional en el pago sobre remuneraciones al trabajo personal, para aquellas empresas nuevas o ampliadas que contraten dentro de su plantilla laboral un 8% de personas con discapacidad;
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2012)</small>
 
@@ -1374,3 +1374,15 @@ TERCERO.- Los hechos suscitados dentro de las empresas antes de la entrada en vi
 CUARTO.- La Secretaría de Fomento y Desarrollo Económico tendrá hasta 90 días de la entrada en vigor del presente Decreto para armonizar su reglamento con la norma.
 
 QUINTO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en la página web del Congreso del Estado y divúlguese en los medios de comunicación.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 523 POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 78 DE LA LEY DE FOMENTO ECONÓMICO, INVERSIÓN Y DESARROLLO DEL ESTADO DE GUERRERO NÚMERO 487".]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO: Remítase a la Titular del Poder Ejecutivo para su conocimiento y efectos legales correspondientes.
+
+TERCERO: Remítase a la Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno el Estado para conocimiento general.
+
+CUARTO: Publíquese en la página web del Congreso del Estado Libre y Soberano de Guerrero, para su conocimiento general.
