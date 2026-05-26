@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-gaceta-municipal-de-cortazar-guanajuato-138416
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-09-05"
-last_updated: "2019-09-05"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138416&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 REGLAMENTO DE LA GACETA MUNICIPAL DE CORTAZAR, GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Reglamento publicado en el Número 178 del Periódico Oficial del Estado de Guanajuato, el jueves 5 de septiembre de 2019.
 
@@ -71,9 +71,11 @@ III. Las actas de las Sesiones del Ayuntamiento, salvo que sean materia de sesi�
 
 IV. La agenda semanal del desarrollo de las Comisiones Municipales.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 7.
 
-Los miembros del ayuntamiento que presidan alguna Comisión deberán comunicar por escrito al titular de la Secretaría del Ayuntamiento una vez por semana, la fecha en que sesionará su Comisión y la agenda que se desahogará en la misma, así como la minuta o dictamen que se genere en la Comisión.
+Los miembros del ayuntamiento que presidan alguna Comisión deberán comunicar por escrito a la persona titular de la Secretaría del Ayuntamiento una vez por semana, la fecha en que sesionará su Comisión y la agenda que se desahogará en la misma, así como la minuta o dictamen que se genere en la Comisión.
 
 ### CAPÍTULO III. DE LA DIFUSIÓN
 
@@ -104,3 +106,13 @@ C. ARIEL ENRIQUE CORONA RODRÍGUEZ
 SECRETARIO DEL AYUNTAMIENTO
 
 ING. ALEJANDRO PEREA CASTRO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL CUAL SE REFORMA EL REGLAMENTO DE LA GACETA MUNICIPAL DE CORTAZAR, GUANAJUATO".]
+
+PRIMERO: El presente acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+SEGUNDO: Estos reglamentos han sido modificados para adecuarse a la nueva normativa vigente, sustituyendo toda referencia de la Ley Organica Municipal para el Estado de Guanajuato por la Ley para el Gobierno y Administración de los Municipios del Estado de Guanajuato. Dejando sin efectos aquellas que se opongan o contravengan a lo dispuesto en ella.
