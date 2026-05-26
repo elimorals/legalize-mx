@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-economico-del-estado-de-michoacan-de-103814"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-03"
-last_updated: "2016-10-25"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -45,9 +45,11 @@ LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 1.
 
-La Presente Ley es de orden público e interés social, tiene por objeto promover el desarrollo económico del Estado, a través del fomento, estímulo y establecimiento de mecanismos para impulsar los sectores productivos en el Estado, mediante la aplicación de programas, acciones y la instalación de la infraestructura necesaria en la Entidad para atraer inversión productiva, nacional y extranjera así como la promoción de empresas estatales.
+La Presente Ley es de orden público e interés social, tiene por objeto promover el desarrollo económico del Estado, a través del fomento, estímulo y establecimiento de mecanismos para impulsar los sectores productivos en el Estado, mediante la aplicación de programas, acciones y la instalación de la infraestructura necesaria en la Entidad para atraer inversión productiva, nacional y extranjera, así como la promoción de empresas y sociedades cooperativas estatales.
 
 ###### ARTÍCULO 2.
 
@@ -83,9 +85,17 @@ XII. Región Económica para el Estado: Es la región geográfica definida con b
 
 XIII. Secretaría: La Secretaría de Desarrollo Económico del Estado;
 
-XIV. Sistema: El Sistema de Información Económica Integral; y,
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-XV. Zonas integrales de actividades logísticas: Zonas delimitadas en el interior de los cuales se ejercen, por distintos operadores, todas las actividades relativas al transporte, a la logística y a la distribución de mercancías tanto para el tránsito nacional como internacional.
+XIV. Sistema: El Sistema de Información Económica Integral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2026)</small>
+
+XV. Sociedad cooperativa: Sociedades cooperativas legalmente constituidas con base en lo establecido por la Ley General de Sociedades Cooperativas vigente; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XV], P.O. 26 DE MAYO DE 2026)</small>
+
+XVI. Zonas integrales de actividades logísticas: Zonas delimitadas en el interior de los cuales se ejercen, por distintos operadores, todas las actividades relativas al transporte, a la logística y a la distribución de mercancías tanto para el tránsito nacional como internacional.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
@@ -97,15 +107,21 @@ I. Dar a conocer al Consejo los resultados anuales de los programas y acciones t
 
 II. Formular el inventario de los recursos productivos del Estado, así como de la infraestructura existente, promoviendo programas de desarrollo económico conjuntamente con otras instancias estatales y federales, con la finalidad de generar políticas públicas e inversiones productivas para difundir el potencial de los recursos del Estado e impulsar la inversión nacional e internacional, así como la comercialización de productos y servicios generados en el Estado, sometiéndolos a un proceso permanente de evaluación y actualización;
 
-III. Estimular la creación, consolidación, regulación y desarrollo de las MIPYMES, empresas de comercio exterior, empresas con programa de fomento, mediante la ejecución de gestiones con organismos públicos y/o privados, para concretar beneficios a la economía del estado, ya sea para actuar en concurrencia o para atraer y promover inversiones;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-IV. Asesorar a empresas michoacanas para su desarrollo y consolidación;
+III. Estimular la creación, consolidación, regulación y desarrollo de las MIPYMES, sociedades cooperativas, empresas de comercio exterior, empresas con programa de fomento, mediante la ejecución de gestiones con organismos públicos y/o privados, para concretar beneficios a la economía del Estado, ya sea para actuar en concurrencia o para atraer y promover inversiones;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+IV. Asesorar a empresas y sociedades cooperativs michoacanas para su desarrollo y consolidación;
 
 V. Promover la diversificación e innovación de la planta productiva estatal existente;
 
 VI. Proporcionar los instrumentos para la evaluación y actualización de las políticas públicas, proyectos y actividades de fomento para la productividad y competitividad del Estado y empresas regionales;
 
-VII. Promover un entorno favorable para las empresas regionales tendientes a la competitividad en los mercados estatales, nacionales e internacionales;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+VII. Promover un entorno favorable para las empresas regionales y sociedades cooperativas tendientes a la competitividad en los mercados estatales, nacionales e internacionales;
 
 VIII. Diseñar y promover políticas públicas que estimulen la inversión, eleven la productividad y competitividad de las empresas regionales, los sectores productivos; mediante el fortalecimiento de la alianza estratégica entre el Gobierno, los sectores social, académico y empresarial;
 
@@ -119,7 +135,9 @@ XII. Gestionar conjuntamente con las empresas regionales, la integración de pro
 
 XIII. Promover programas que impulsen la inversión nacional e internacional en el Estado, a fin de fomentar el desarrollo económico, mediante políticas públicas e inversiones productivas, en el diseño y aprobación de incentivos que tengan un respaldo institucional transparente;
 
-XIV. Diseñar, fomentar, promover la constitución y operación de instrumentos y mecanismos de garantía, así como de otros esquemas que faciliten el acceso a apoyos financieros para las empresas regionales, MIPYMES, empresas de comercio exterior y empresas con programas de fomento;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XIV. Diseñar, fomentar, promover la constitución y operación de instrumentos y mecanismos de garantía, así como de otros esquemas que faciliten el acceso a apoyos financieros para las empresas regionales, MIPYMES, sociedades cooperativas, empresas de comercio exterior y empresas con programas de fomento;
 
 XV. Impulsar la constitución y operación de mecanismos legales con esquemas aduaneros, que coadyuven al establecimiento de condiciones de competitividad que favorezcan el desarrollo económico dirigido a la construcción de un entorno jurídico y operativo que infiera certidumbre y confianza en el desarrollo y consolidación del comercio y la industria en el Estado;
 
@@ -133,7 +151,9 @@ XVIII. Impulsar la generación de fuentes de empleo o el autoempleo de los micho
 
 XIX. Promover en el mercado estatal, nacional e internacional los productos y servicios Michoacanos;
 
-XX. Estimular el comercio exterior en el Estado, y la definición de los apoyos que se requieran, para ofrecer estrategias de desarrollo económico en beneficio de las empresas Michoacanas;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XX. Estimular el comercio exterior en el Estado, y la definición de los apoyos que se requieran, para ofrecer estrategias de desarrollo económico en beneficio de las empresas y sociedades cooperativas Michoacanas;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
@@ -141,7 +161,9 @@ XXI. Consolidar la competitividad de la planta productiva estatal, la implementa
 
 XXII. Promover y desarrollar corredores turísticos, comerciales, de servicios, parques industriales y agropecuarios, así como zonas integrales de actividades logísticas en puntos de fácil acceso, dotándolos con infraestructura y servicios necesarios para el desarrollo de los mismos;
 
-XXIII. Promover la vinculación de los sectores educativo y productivo, para obtener una mano de obra adecuada a la demanda de las empresas, así como apoyar proyectos productivos de los jóvenes para estimular su capacidad emprendedora;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XXIII. Promover la vinculación de los sectores educativo y productivo, para obtener una mano de obra adecuada a la demanda de las empresas, así como apoyar proyectos productivos de los jóvenes para estimular su capacidad emprendedora y de participación para la integración de sociedades cooperativas;
 
 XXIV. Implementar estrategias y mecanismos para industrializar los productos agrícolas, pecuarios, ganaderos, pesqueros, forestales y mineros;
 
@@ -175,7 +197,9 @@ XXXVIII. Solicitar la opinión del Consejo Consultivo, al momento de la elaborac
 
 XXXIX. Apoyar la creación y fortalecimiento de las incubadoras de empresas;
 
-XL. Brindar facilidades administrativas a las empresas productoras de mercancías de exportación, que participen de manera dinámica en los mercados internacionales;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XL. Brindar facilidades administrativas a las empresas y sociedades cooperativas productoras de mercancías de exportación, que participen de manera dinámica en los mercados internacionales;
 
 XLI. Ofrecer planes de capacitación a nivel directivo y operativo tendientes a elevar la producción, calidad y competitividad de los bienes y servicios Michoacanos;
 
@@ -187,13 +211,13 @@ XLIV. Impulsar apoyos financieros para fomentar y acrecentar el desarrollo de fr
 
 XLV. Elevar los niveles de calidad y competitividad, fomentando la creación de centros de articulación productiva.
 
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-XLVI. Promover, en lo posible, esquemas para facilitar el acceso al financiamiento público y privado con tasas de interés acordes a la capacidad de pago de las MIPYMES, a fin de garantizar su consolidación y desarrollo;
+XLVI. Promover, en lo posible, esquemas para facilitar el acceso al financiamiento público y privado con tasas de interés acordes a la capacidad de pago de las MIPYMES y sociedades cooperativas a fin de garantizar su consolidación y desarrollo;
 
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-XLVII. Elaborar programas de participación estatal con créditos solidarios para las MIPYMES; y,
+XLVII. Elaborar programas de participación estatal con créditos solidarios para las MIPYMES; y sociedades cooperativas; y,
 
 > <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
@@ -343,9 +367,9 @@ XVII. Conocer de las opiniones y recomendaciones que emitan las comisiones del C
 
 XVIII. Elaborar su reglamento interno; y,
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-XIX. Elaborar recomendaciones y emitir opiniones respecto al otorgamiento de estímulos, para fomentar la creación de empresas, principalmente de las MIPYMES. Las recomendaciones y opiniones deberán ser atendidas por la Secretaría o, en su caso, fundamentar y argumentar la razón de lo contrario; y,
+XIX. Elaborar recomendaciones y emitir opiniones respecto al otorgamiento de estímulos, para fomentar la creación de empresas, principalmente de las MIPYMES y sociedades cooperativas. Las recomendaciones y opiniones deberán ser atendidas por la Secretaría o, en su caso, fundamentar y argumentar la razón de lo contrario.
 
 > <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
@@ -465,11 +489,13 @@ k) Sanciones.
 
 ### CAPÍTULO CUARTO. DE LOS ESTÍMULOS
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 27.
 
-Los estímulos que se otorguen a las empresas a través de la Secretaria; mediante sus programas económicos, podrán consistir en:
+Los estímulos que se otorguen a las empresas y sociedades cooperativas a través de la Secretaría; mediante sus programas económicos, podrán consistir en:
+
+> <small>(REFORMADa, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 I. Subsidio mediante pago con recursos propios del Gobierno del Estado, en los siguientes casos:
 
@@ -489,6 +515,8 @@ Los contribuyentes deberán acreditar a la Secretaría, mediante la presentació
 
 Al efecto de acreditar que se está en alguno de los supuestos anteriores, para ser considerado en los beneficios descritos, la Secretaría deberá normar los procedimientos y las documentales exigibles, siempre garantizando que sean lógicas, racionales y tiendan a facilitar su cumplimiento, es decir, deberán eliminar cualquier barrera que obstaculice su acreditación.
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 II. Apoyos económicos para:
 
 a) Becas para capacitación;
@@ -503,17 +531,31 @@ e) Aquellas acciones que, mediante programa, implemente la Secretaría.
 
 Los apoyos económicos a que refiere esta fracción, se sujetarán al límite de disponibilidad presupuestal de los programas y fondos destinados para dicho fin.
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 III. Asesoría y capacitación;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 IV. Impulso al desarrollo agroindustrial;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 V. Apoyo para promover exportaciones;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 VI. Apoyo para trámites ante diversas dependencias del Gobierno Federal, Estatal y Municipal;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 VII. Gestionar ante la autoridad competente, donación, permuta o venta de bienes inmuebles o muebles propiedad del Gobierno del Estado, en la medida de la disponibilidad de estos recursos, previa solicitud y autorización del Congreso del Estado, cuando así se requiera;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 VIII. Gestionar ante la autoridad competente, el arrendamiento o comodato, a través de los organismos estatales competentes, de bienes inmuebles propiedad del Estado o de los municipios, con vocación industrial o acorde al giro del proyecto, y condicionado al aprovechamiento en la ejecución del proyecto de inversión; y,
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 IX. Gestionar facilidades ante el Fideicomiso de Parques Industriales de Michoacán para adquirir la posesión de terrenos que impulsen el desarrollo de proyectos de inversión.
 
@@ -533,11 +575,13 @@ El plazo para la resolución de las solicitudes de estímulos recibidas en el ma
 
 Las empresas que sean objeto de estímulos no podrán transferirlos.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 30.
 
-En cualquier tiempo, la Secretaría podrá verificar el cumplimiento de los requisitos por parte de las empresas beneficiarias de los estímulos a que se refiere este Capítulo y, en su caso, suspender los que les hayan sido otorgados, procediendo a determinar la cancelación de dichos estímulos y a señalar el monto del subsidio indebidamente aplicado.
+En cualquier tiempo, la Secretaría podrá verificar el cumplimiento de los requisitos por parte de las empresas y sociedades cooperativas beneficiarias de los estímulos a que se refiere este Capítulo y, en su caso, suspender los que les hayan sido otorgados, procediendo a determinar la cancelación de dichos estímulos y a señalar el monto del subsidio indebidamente aplicado.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 Al adoptarse la determinación suspensiva se otorgará el derecho de audiencia a la empresa beneficiaria, cuyo desahogo es indispensable para que la Secretaría resuelva lo procedente.
 
@@ -599,9 +643,11 @@ V. Establecer programas de capacitación y profesionalización de los servidores
 
 ### CAPÍTULO SÉPTIMO. DEL COMERCIO EXTERIOR
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 37.
 
-La Secretaría promoverá el desarrollo de estrategias y mecanismos de fomento empresarial, así como en materia de comercio exterior, con la finalidad de impulsar el establecimiento, desarrollo, apertura, operación y ampliación de las MIPYMES, empresas con programas de fomento y empresas de comercio exterior, a través de las acciones siguientes:
+La Secretaría promoverá el desarrollo de estrategias y mecanismos de fomento empresarial, así como en materia de comercio exterior, con la finalidad de impulsar el establecimiento, desarrollo, apertura, operación y ampliación de las MIPYMES, sociedades cooperativas, empresas con programas de fomento y empresas de comercio exterior, a través de las acciones siguientes:
 
 I. Atender a las empresas en función de su problemática y grado de oportunidades de negocios en mercados internacionales, proporcionándoles los servicios de capacitación y asesoría para estimular su vocación exportadora;
 
@@ -647,11 +693,11 @@ Los servidores públicos que no cumplan con eficacia y diligencia las obligacion
 
 ### CAPÍTULO OCTAVO. DEL SISTEMA ESTATAL DE FINANCIAMIENTO
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 40.
 
-El Titular del Ejecutivo del Estado, promoverá la obtención de recursos financieros a través de partidas presupuestales específicas para la promoción del desarrollo económico del Estado, utilizando los Sistemas Estatales de Financiamiento, con los cuales buscará fomentar e impulsar el desarrollo tecnológico y de innovación, proyectos productivos industriales, comerciales y de servicios, acceso a mercados nacionales e internacionales, crear fondos para programas de financiamiento de proyectos productivos viables principalmente de las MIPYMES interesadas en establecerse en la Entidad y demás empresas del Estado que lo requieran.
+El Titular del Ejecutivo del Estado, promoverá la obtención de recursos financieros a través de partidas presupuestales específicas para la promoción del desarrollo económico del Estado, utilizando los Sistemas Estatales de Financiamiento, con los cuales buscará fomentar e impulsar el desarrollo tecnológico y de innovación, proyectos productivos industriales, comerciales y de servicios, acceso a mercados nacionales e internacionales, crear fondos para programas de financiamiento de proyectos productivos viables principalmente de las MIPYMES y sociedades cooperativas interesadas en establecerse en la Entidad y demás empresas del Estado que lo requieran.
 
 ###### ARTÍCULO 41.
 
@@ -728,3 +774,9 @@ SEGUNDO. El Gobierno del Estado por conducto de la Secretaría de Finanzas y Adm
 TERCERO. En el caso del inciso b de la fracción primera del primer párrafo del artículo 27, en su aplicación se garantizará el principio de no retroactividad, es decir, sólo las empresas que se constituyan posterior a la publicación del presente decreto, podrán beneficiarse de tales estímulos. La autoridad verificará en todo momento que no se den simulaciones por parte de los particulares, con el objeto de beneficiarse de los referidos estímulos. Las simulaciones que se presenten serán sancionables en los términos de la norma aplicable para el caso de los particulares y, por la Ley en materia de responsabilidades, para los servidores públicos que las consientan.
 
 CUARTO. La normativa que refiere el segundo párrafo de la fracción I del artículo 27 de la presente Ley, deberá publicarse dentro de los 60 sesenta días siguientes a la entrada en vigor del presente Decreto, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, su no publicación en el tiempo aquí señalado no limita el ejercicio del derecho del particular, por lo que, a las solicitudes que lleguen a presentarse a la Secretaría, la autoridad, de oficio, subsanará las deficiencias.
+
+P.O. 26 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 439 POR EL QUE SE "REFORMAN LOS ARTÍCULOS 1, 3 Y 4 EN SUS FRACCIONES III, IV, VII, XIV, XX, XXIII, XL, XLVI, Y XLVII; 19 EN SU FRACCIÓN XIX; 27, 30; 37 Y 40, DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
