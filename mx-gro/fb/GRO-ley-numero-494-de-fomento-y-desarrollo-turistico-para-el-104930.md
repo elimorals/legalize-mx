@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-494-de-fomento-y-desarrollo-turistico-para-el-104930
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-11"
-last_updated: "2023-04-28"
+last_updated: "2026-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NÚMERO 494 DE FOMENTO Y DESARROLLO TURÍSTICO PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el martes 11 de noviembre de 2014.
 
@@ -1399,9 +1399,25 @@ XIX. Garantizar al usuario la tranquila y segura disposición y uso de los biene
 
 XX. Ofrecer al turista la obtención de una prima de seguro para su protección, mediante un pago adicional, cuando la naturaleza del servicio contratado así lo requiera;
 
-XXI. Difundir de manera ética, profesional y responsable información sobre los bienes y servicios turísticos que oferta, cualquiera que sea el medio de comunicación que utilice para promocionarse, y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
 
-XXII. Las demás que establezca la legislación aplicable en la materia.
+XXI. Difundir de manera ética, profesional y responsable información sobre los bienes y servicios turísticos que oferta, cualquiera que sea el medio de comunicación que utilice para promocionarse;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2026)</small>
+
+XXII. Instrumentar medidas de seguridad conforme los protocolos y acciones preventivas definidas por las autoridades que, garantizando el interés superior de niñas, niños y adolescentes, permitan detectar posibles delitos contra su integridad y en su caso dar aviso a las autoridades correspondientes en caso de advertir la posible comisión de un delito;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XXIII. En los casos que corresponda, comprobar que los huéspedes son mayores de edad y autorizar el ingreso de niñas, niños y adolescentes a las habitaciones o inmuebles de uso habitacional exclusivamente en compañía de persona adulta que acredite, mediante documento idóneo, tener parentesco o ser quien ejerza la patria potestad, tutela o guarda y custodia. De no comprobarse, se deberá dar aviso inmediato a la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+
+XXIV. Garantizar que la prestación de servicios turísticos se realice conforme al interés superior de las niñas, niños y adolescentes, promoviendo entornos seguros, libres de violencia, acceso inclusivo y sin discriminación;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE MAYO DE 2026)</small>
+
+XXV. Las demás que establezca la legislación aplicable en la materia.
 
 ###### Artículo 121.
 
@@ -1664,3 +1680,23 @@ Comuníquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, pa
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página web del Congreso del Estado, para su conocimiento general.
+
+P.O. 26 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE "DECRETO NÚMERO 525 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES AL ARTÍCULO 120 DE LA LEY NÚMERO 494 DE FOMENTO Y DESARROLLO TURÍSTICO PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO ".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Las Secretarías de Turismo, Seguridad Pública del Estado de Guerrero, así como el Sistema para el Desarrollo Integral de la Familia para el estado de Guerrero y el Sistema Integral de Protección de Niñas, Niños y Adolescentes de Guerrero dispondrán de 180 días a partir de la entrada en vigor del presente decreto para la elaboración de los protocolos referidos en el presente Decreto, los cuales deberán contener al menos los siguientes elementos:
+
+a) Identificar los riesgos específicos vinculados con la explotación sexual, la trata, el trabajo infantil, la violencia o la negligencia en los entornos turísticos, poniendo especial atención en situaciones que puedan evidenciar vulneración a la integridad de niñas, niños y adolescentes. Estos riesgos incluyen, entre otros, conductas de control o coerción por parte de adultos; solicitudes inusuales de hospedaje o transporte que involucren menores; la utilización de servicios turísticos para fines ilícitos; y cualquier otra situación que denote abuso, manipulación o vulnerabilidad hacia la infancia en espacios turísticos.
+
+b) Mecanismos de denuncia interna y externa, incluyendo canal de contacto directo con las autoridades competentes en materia de protección de la infancia y adolescencia.
+
+c) Capacitación obligatoria al personal de los prestadores de servicios turísticos en derechos de niñas, niños y adolescentes, indicadores de riesgo, actuación y derivación hacia autoridades especializadas.
+
+d) Mecanismo de información visible al público sobre derechos de niñas, niños y adolescentes, y los canales de denuncia o protección disponibles.
+
+e) Supervisión, evaluación y reporte anual al órgano competente estatal en materia de turismo y, en su caso, al sistema de protección de la infancia del Estado de Guerrero.
+
+TERCERO. Remítase el presente a la persona Titular del Poder Ejecutivo del Estado para los efectos conducentes y publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, en la Gaceta del Congreso del Estado Libre y Soberano de Guerrero.
