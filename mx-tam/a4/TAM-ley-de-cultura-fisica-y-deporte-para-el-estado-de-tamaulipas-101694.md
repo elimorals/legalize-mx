@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2024-08-21"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -59,9 +59,17 @@ I. El establecimiento de los principios y finalidades en los cuales el Estado ga
 
 II. Regular la planeación, organización, coordinación, promoción, fomento, desarrollo y capacitación de la cultura física y el deporte;
 
-III. Establecer el Sistema Estatal de Cultura Física y Deporte, así como crear las bases para su funcionamiento; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-IV. Fomentar, propiciar e impulsar la participación de los sectores social y privado en materia de cultura física y el deporte.
+III. Establecer el Sistema Estatal de Cultura Física y Deporte, así como crear las bases para su funcionamiento;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+IV. Fomentar, propiciar e impulsar la participación de los sectores social y privado en materia de cultura física y el deporte; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2026)</small>
+
+V. Garantizar entornos deportivos libres de violencia, discriminación, racismo, acoso y de cualquier forma de agresión física, sexual, verbal, psicológica o simbólica.
 
 ###### ARTÍCULO 3.
 
@@ -89,7 +97,9 @@ VIII. Las instituciones deportivas públicas y privadas del Estado deben colabor
 
 IX. La distinción entre las diversas manifestaciones o modalidades del deporte resulta necesaria para el óptimo, equitativo y ordenado desarrollo de los sistemas deportivos del Estado;
 
-X. El desarrollo y la práctica del deporte debe realizarse observando sus bases éticas;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+X. El desarrollo de la cultura física y la práctica del deporte debe realizarse en entornos seguros, inclusivos, libres de violencia, discriminación y cualquier otra forma de agresión, observando sus bases éticas;
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2019)</small>
 
@@ -271,9 +281,17 @@ XVII. Recreación Física: Actividad física con fines lúdicos que permiten la 
 
 XVIII. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo;
 
-XIX. Sistema: El Sistema Estatal del Deporte; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-XX. Sistema Nacional: El Sistema Nacional de Cultura Física y Deporte.
+XIX. Sistema: El Sistema Estatal del Deporte;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+XX. Sistema Nacional: El Sistema Nacional de Cultura Física y Deporte; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2026)</small>
+
+XXI. Violencia en el Deporte: Toda acción, omisión o conducta, individual o colectiva, que cause o pueda causar daño físico, psicológico, sexual, verbal, patrimonial, simbólico o moral, así como cualquier forma de discriminación, exclusión, intimidación, hostigamiento o acoso, ejercida dentro o fuera de los espacios deportivos con motivo de la práctica, enseñanza, organización, desarrollo o participación en actividades deportivas, recreativas o de cultura física, que tenga por objeto o resultado vulnerar la dignidad humana, los derechos, la integridad o la igualdad de las personas.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES
 
@@ -1656,6 +1674,14 @@ La aplicación del presente Decreto se sujetará a la disponibilidad presupuesta
 P.O. 21 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-891 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VI, DEL ARTÍCULO 96; VIII, DEL ARTÍCULO 98 Y EL ARTÍCULO 101; Y SE ADICIONAN LAS FRACCIONES VII, AL ARTÍCULO 96, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE Y IX, AL ARTÍCULO 98, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-1060 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
