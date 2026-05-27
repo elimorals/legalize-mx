@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2026-05-13"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -869,6 +869,10 @@ g) Las acciones en materia de igualdad sustantiva, no discriminación y para pre
 
 h) En general, coordinarse conforme a las leyes, para la ejecución y operación de obras y la prestación de servicios públicos;
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+i) La previsión, desarrollo y ejecución de programas, incentivos o apoyos que permitan la preservación de la vivienda de las personas adultas mayores, especialmente de quienes se encuentren en situación de abandono.
+
 > <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 XXVI.- Aprobar y ordenar la publicación en el Periódico Oficial del Estado, el Plan Municipal de Desarrollo con Perspectiva de Derechos Humanos, de Género, interculturalidad y de familia, correspondiente a su periodo constitucional de gobierno y derivar de este, los programas anuales para la ejecución de obras y la prestación de los servicios de su competencia;
@@ -1009,9 +1013,13 @@ LVI.- Impulsar la aprobación e implementación transversal de la perspectiva de
 
 LVII.- Establecer mecanismos de atención digna y preferente para las personas mayores en todos los trámites, servicios y actuaciones concernientes a la Administración Pública Municipal, sus dependencias y de quienes las integren.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2026)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
 
-LVIII.- Las demás que les confieren las leyes y sus reglamentos.
+LVIII.- Considerar en el Presupuesto de Egresos, esquemas especiales e incentivos para personas adultas mayores, tomando en cuenta aquellas que se encuentren en situación de abandono.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2026)</small>
+
+LIX.- Las demás que les confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -5873,7 +5881,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 1 DE JULIO DE 2023.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXVII/RFLEY /0583/2023 VIII P.E. POR EL QUE “SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NO. LXVI/RFLEY /0732/2020 VIII P.E.”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXVII/RFLEY/0583/2023 VIII P.E. POR EL QUE “SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NO. LXVI/RFLEY/0732/2020 VIII P.E.”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5992,3 +6000,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Los Ayuntamientos del Estado de Chihuahua, en el ámbito de sus atribuciones, podrán armonizar sus Bandos de Policía y Reglamentos de Espectáculos Públicos o análogos con lo dispuesto en este Decreto.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFCOD/0501/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES AL ARTÍCULO 28, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
