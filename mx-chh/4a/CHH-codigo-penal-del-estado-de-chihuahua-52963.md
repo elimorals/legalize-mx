@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2026-04-18"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2293,13 +2293,29 @@ Si se ejerciera violencia física o moral, la pena prevista se aumentará en una
 
 ###### Artículo 173.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
 
-A quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual, la obligue a observarlo o la haga ejecutarlo, se le impondrán de seis meses a seis años de prisión y de cien a trescientos días multa.
+Comete el delito de abuso sexual quien, sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, realice cualquier acto de naturaleza sexual, la obligue a observarlo o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo. También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo.
 
-Si se hiciere uso de violencia física o moral, la pena prevista se aumentará en una mitad.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-Este delito se perseguirá previa querella, salvo que concurra violencia o se trate de personas menores de edad o que no tenga la capacidad de comprender el significado del hecho.
+Para los efectos del presente artículo, no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+A quien cometa este delito se le impondrá una sanción de uno a siete años de prisión y de doscientos a quinientos días multa.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Asimismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública, a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Este delito se perseguirá de oficio.
 
 ###### Artículo 174.
 
@@ -2313,7 +2329,9 @@ Si se hiciere uso de violencia física o moral, la pena prevista se aumentará e
 
 ###### Artículo 175.
 
-Las penas previstas para la violación y el abuso sexual, se aumentarán en dos terceras partes, cuando fueren cometidos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
+
+Las penas previstas para abuso sexual, se aumentarán en una tercera parte y, para violación, en dos terceras partes, cuando fueren cometidos:
 
 I. Con intervención directa o inmediata de dos o más personas;
 
@@ -2329,17 +2347,25 @@ IV. Ejerciendo sobre la víctima actos que revistan un carácter particularmente
 
 V. Encontrándose la víctima a bordo de un vehículo de servicio público;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-VI. En despoblado o lugar solitario; o
+VI. En despoblado o lugar solitario;
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-VII. Por personas con quien la víctima tenga un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil; con quien tenga o haya tenido alguna relación afectiva o sentimental de hecho.
+VII. Por personas con quien la víctima tenga un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil; con quien tenga o haya tenido alguna relación afectiva o sentimental de hecho;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2026)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE MAYO DE 2026)</small>
 
-VIII. Por quien, desempeñando una profesión u oficio, se valiere de los medios o circunstancias que ellos les proporcionen.
+VIII. Cuando la víctima se encuentre en estado de embarazo o puerperio; o
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2026)</small>
+
+IX. Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Adicional a las sanciones establecidas en este artículo, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que deberá incluir, las medidas previstas en la Ley General de Víctimas.
 
 ### CAPÍTULO III. HOSTIGAMIENTO SEXUAL
 
@@ -4055,7 +4081,9 @@ De verificarse el perjuicio o los beneficios a que se refiere el primer párrafo
 
 Cuando en la comisión de este delito intervenga de forma directa o indirecta un licenciado en Derecho o litigante legalmente autorizado, además se le suspenderá en el ejercicio profesional o en la actividad indicada, por un término igual al de la prisión impuesta, haciéndose lo anterior del conocimiento de la autoridad que corresponda para la vigilancia de la pena impuesta.
 
-### CAPÍTULO II. FALSEDAD ANTE AUTORIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 2026)</small>
+
+### CAPÍTULO II. LLAMADAS FALSAS O FALSEDAD ANTE AUTORIDADES
 
 ###### Artículo 307.
 
@@ -4067,11 +4095,15 @@ Quien al declarar por sí o por medio de representante ante autoridad en ejercic
 
 La misma penalidad se aplicará al representante que, con conocimiento de la falsedad, intervenga en la forma prevista en el párrafo anterior.
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
-
 ###### Artículo 307 Bis.
 
-Las penas a que se refiere el artículo anterior, se podrán aumentar hasta en una mitad, si la declaración a la autoridad se realiza dolosamente a través del servicio telefónico o por cualquier otro medio de telecomunicación, para dar un falso aviso de alarma o emergencia.
+> <small>(REFORMADO PRIMER ´PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
+
+Las penas a que se refiere el artículo anterior, se aumentarán en un tercio, si la declaración a la autoridad se realiza dolosamente a través del servicio telefónico o las tecnologías de la información y la comunicación, para dar un falso aviso de alarma o emergencia.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Si el falso aviso de alarma o emergencia genera la movilización de personal médico, protección civil o bomberos, las penas contempladas en el artículo anterior se aumentarán en una mitad.
 
 ###### Artículo 308.
 
@@ -6010,6 +6042,22 @@ El Poder Ejecutivo del Estado, deberá presentar la iniciativa correspondiente p
 P.O. 18 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFCOD/0464/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 175, LA FRACCIÓN VIII, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVIII/RFCOD/0491/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO LXVIII/RFCOD/0495/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
