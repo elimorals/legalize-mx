@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2026-02-27"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -57,9 +57,17 @@ IV. Erradicar, a través de la educación, concientización y diversos instrumen
 
 V. Establecer programas que inculquen en la sociedad el respeto, cuidado y consideración a todas las formas de vida animal;
 
-VI. Establecer programas que contribuyan a la formación y promoción del individuo a su superación personal, familiar y social, al inculcarle actitudes responsables y humanitarias hacia los animales; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-VII. Promover y apoyar la creación y funcionamiento de asociaciones cuyo fin sea el de proteger a los animales.
+VI. Establecer programas que contribuyan a la formación y promoción del individuo a su superación personal, familiar y social, al inculcarle actitudes responsables y humanitarias hacia los animales;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+VII. Promover y apoyar la creación y funcionamiento de asociaciones cuyo fin sea el de proteger a los animales; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2026)</small>
+
+VIII. Promover en todas las instancias públicas, privadas, sociales y científicas, el reconocimiento de la importancia ética, ecológica y cultural, que representa la protección de los animales a efecto de obtener mejores niveles educativos de bienestar social.
 
 ###### ARTICULO 2.
 
@@ -1554,6 +1562,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 27 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-985 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVIII Y XIX; Y SE ADICIONA UNA FRACCIÓN XX, AL ARTÍCULO 18 DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1064 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VI, VII Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 1, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
