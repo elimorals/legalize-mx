@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2026-05-13"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1979,7 +1979,7 @@ ARTICULO 146 TER.- (DEROGADO, P.O. 28 DE ENERO DE 2026)
 
 ### CAPITULO V. AMENAZAS
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 147.
 
@@ -1987,7 +1987,9 @@ A quien intimide a otro con causarle daño en su persona o en sus bienes, u ocas
 
 Si el ofendido por la amenaza fuere víctima, ofendido o testigo en un procedimiento penal, la pena será de cuatro a ocho años de prisión y de cien a trescientos días multa.
 
-Los delitos previstos en este artículo se perseguirán por querella, con excepción del establecido en el párrafo inmediato anterior que se perseguirá de oficio.
+La conducta típica del presente artículo se agravará con pena de seis a doce años de prisión, para la persona que posea documentos físicos o digitales que contengan amenazas explicitas o sutiles con la intención de obtener un lucro o aprovechamiento, cuando dichas comunicaciones estén destinadas a una víctima identificable o puedan razonablemente ser utilizadas para ejercer presión sobre una persona.
+
+Los delitos previstos en este artículo se perseguirán por querella, con excepción de lo establecido en los dos párrafos inmediatos anteriores, que se perseguirán de oficio.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
@@ -2841,19 +2843,31 @@ El juez, teniendo en cuenta la naturaleza del hecho, las circunstancias personal
 
 ### CAPITULO XII. OPERACIONES CON RECURSOS DE PROCEDENCIA ILICITA
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 198.
 
-Se impondrá de cinco a quince años de prisión y de quinientos a cinco mil días multa al que por sí o por interpósita persona realice cualquiera de las siguientes conductas: adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio del Estado de Morelos o de éste hacia otras entidades, o a la inversa, recursos, derechos o bienes de cualquier naturaleza, que procedan o representen el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar o pretender ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita.
+Se impondrá de seis a quince años de prisión y de mil a cinco mil veces la Unidad de Medida y Actualización diaria vigente al momento de la comisión del delito, al que, por sí o por interpósita persona realice cualquiera de las siguientes conductas:
 
-La misma sanción se aplicará, cuando se trate de delitos sujetos al conocimiento de las autoridades del Estado de Morelos, a los empleados y funcionarios de las instituciones que integran el sistema financiero que opera en dicha entidad federativa, que presten ayuda o auxilien a otro para la comisión de las conductas previstas en el párrafo anterior, sin perjuicio de los procedimientos y sanciones que correspondan conforme a otras leyes aplicables.
+I. Adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, traspase, transporte o transfiera, dentro del Estado de Morelos, de éste hacia otras entidades o a la inversa, recursos, derechos o bienes de cualquier naturaleza, cuando procedan o representen el producto de una actividad ilícita, u
 
-La sanción prevista en el primer párrafo será aumentada en una mitad, cuando el delito se cometa por servidores públicos encargados de prevenir, denunciar, investigar o juzgar la comisión de delitos. En este caso, se impondrá a dichos servidores públicos, además, inhabilitación para desempeñar empleo, cargo o comisión públicos hasta por un tiempo igual al de la pena de prisión impuesta.
+II. Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos o bienes, cuando procedan o representen el producto de una actividad ilícita.
 
 En caso de conductas previstas en este artículo, en las que se utilicen servicios de instituciones que integren el sistema financiero, cuando los hechos queden sujetos al conocimiento de las autoridades del Estado de Morelos, para proceder penalmente se requerirá la denuncia previa de la Secretaría de Hacienda y Crédito Público del Gobierno Federal.
 
 Para los efectos de este artículo, se entiende que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
 
 Para los mismos efectos, se entenderá que el sistema financiero se encuentra integrado por las instituciones que a este respecto considera la legislación federal correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+ARTICULO 198 BIS.- Las penas previstas en este Capítulo se aumentarán desde un tercio hasta en una mitad, cuando el que realice cualquiera de las conductas previstas en el artículo 198 de este Código tenga el carácter de consejero, administrador, funcionario, empleado, apoderado o prestador de servicios de cualquier persona sujeta al régimen de prevención de operaciones con recursos de procedencia ilícita, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos.
+
+Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión en personas morales sujetas al régimen de prevención hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
+
+Las penas previstas en este Capítulo se duplicarán, si la conducta es cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales, así como a los ex servidores públicos encargados de tales funciones que cometan dicha conducta en los dos años posteriores a su terminación. Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
+
+Asimismo, las penas previstas en este Capítulo se aumentarán hasta en una mitad si quien realice cualquiera de las conductas previstas en el artículo 198, fracciones I y II, utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tiene capacidad para resistirlo.
 
 ### CAPITULO XIII. DISPOSICIONES COMUNES
 
@@ -3163,27 +3177,47 @@ Si en la comisión de los delitos previstos en el Capítulo I del presente Títu
 
 ### CAPÍTULO III. DISCRIMINACIÓN
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE MAYO DE 2026)</small>
 
 ARTICULO 212 QUATER.- Se impondrán de uno a tres años de prisión o de veinticinco a cien días de trabajo en favor de la comunidad y multa de cincuenta a doscientos días al que, por razón de edad, sexo, estado civil, embarazo, raza, procedencia étnica, idioma, religión, ideología en general, orientación o preferencia sexual, identidad de género, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas mediante la realización de las siguientes conductas:
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 I.- Provoque o incite al odio o a la violencia;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 II.- Niegue a una persona un servicio o una prestación a la que tenga derecho. Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general;
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 III.- Veje o excluya a alguna persona o grupo de personas; o
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 IV.- Niegue o restrinja derechos laborales o cualquier otro derecho.
 
-Al servidor público que, por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará en una mitad la pena prevista en el primer párrafo del presente artículo, y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Si las conductas descritas en este artículo las realiza un servidor público, se aumentará hasta una mitad la pena prevista en el primer párrafo del presente artículo, y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que la víctima tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 Asimismo, se incrementará la pena cuando los actos discriminatorios limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 Lo anterior, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+
 No serán consideradas discriminatorias todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
 Este delito se perseguirá por querella.
 
@@ -3705,7 +3739,7 @@ No será punible la comercialización y transporte de árboles de navidad obteni
 
 ### CAPITULO II. ASOCIACION DELICTUOSA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 243.
 
@@ -3717,9 +3751,11 @@ Al que por incendio, explosión, inundación o por cualquier otro medio, provoqu
 
 ###### ARTICULO 244.
 
-Cuando tres o más personas integren una asociación formal o informal con la finalidad de cometer delitos de manera permanente o transitoria y no se trate de simple participación delictuosa, por el sólo hecho de pertenecer a la asociación se impondrá a los integrantes de dos a cinco años de prisión y de cien a quinientos días-multa además de las sanciones aplicables por los delitos cometidos. Cuando la organización delictuosa incurra en los delitos considerados como graves por la ley, la sanción podrá aumentarse hasta en una tercera parte.
+Al que forme parte de una asociación o banda de tres o más personas con propósito de delinquir, se le impondrá prisión de seis a diez años y de cien a quinientas veces la Unidad de Medida y Actualización diaria vigente al momento de la comisión del delito.
 
-Dicha sanción se incrementará hasta en una mitad más cuando el agente sea o haya sido servidor público en alguna institución de seguridad pública, procuración o administración de justicia. En estos casos se aplicará, asimismo, destitución e inhabilitación para obtener otro cargo, empleo o comisión hasta por diez años.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Cuando el miembro de la asociación sea o haya sido servidor público, la pena a que se refiere el párrafo anterior se aumentará en una mitad y se impondrá, además, la destitución del empleo, cargo o comisión públicos e inhabilitación hasta por diez años.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
@@ -4647,7 +4683,7 @@ A quien quebrante cualquier sanción no privativa de la libertad que se le hubie
 
 ### CAPITULO IX. ENCUBRIMIENTO POR FAVORECIMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 310.
 
@@ -4673,29 +4709,27 @@ Si el responsable de los delitos previstos en este artículo fuere abogado, se l
 
 ###### ARTICULO 311.
 
-Al que después de la ejecución de la conducta o hecho calificados por la ley como delito y sin haber participado en éste, auxilie en cualquier forma al imputado a eludir las investigaciones de la autoridad competente o a sustraerse de la acción de ésta, o bien, oculte, altere, destruya o haga desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo, se le impondrá de uno a cinco años de prisión, sin exceder de la sanción aplicable por el delito encubierto.
+Al que después de la ejecución de la conducta o hecho calificados por la ley como delito y sin haber participado en éste, auxilie en cualquier forma al imputado a eludir las investigaciones de la autoridad competente o a sustraerse de la acción de ésta, o bien, oculte, altere, destruya o haga desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo, se le impondrá de seis a doce años de prisión y de mil a cinco mil veces la Unidad de Medida y Actualización diaria vigente al momento de la comisión del delito, sin exceder de la sanción aplicable por el delito encubierto.
 
 Las mismas sanciones se impondrán:
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
-
 I. Al que pudiendo impedir la comisión de un delito, con su intervención inmediata y sin riesgo propio o ajeno, se abstuviere voluntariamente de hacerlo;
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
 
 II. Al que requerido por la autoridad, no dé auxilio para la investigación de los delitos o para la ubicación de los probables responsables o sentenciados;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2009)</small>
-
 III. Al que conociendo la procedencia ilícita de las mercancías las reciba en prenda o depósito;
 
-> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+IV. A quien altere, modifique o destruya ilícitamente el lugar, huellas, indicios, evidencias, objetos, instrumentos o productos del hecho delictivo;
 
-IV. Al que altere, modifique o perturbe ilícitamente el lugar, huellas o vestigios del hecho delictivo, y
+V. Al que desvíe u obstaculice la investigación del hecho delictivo de que se trate o favorezca que el imputado se sustraiga a la acción de la justicia o que por cualquier medio impida el cumplimiento de un mandamiento judicial.
 
-> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2009)</small>
+Para el caso de ordenes de aprehensión, citación o presentación, se actualizará esta hipótesis, con independencia de que tenga o no conocimiento la persona a quien va dirigido el mismo, o bien la persona que impida el cumplimiento;
 
-V. Al que desvíe u obstaculice la investigación del hecho delictivo de que se trate o favorezca que el imputado se sustraiga a la acción de la justicia.
+VI. A quien después de la ejecución de un hecho delictivo y sin haber participado en cualquiera de ellas, adquiera o reciba el producto de éstas a sabiendas de esta circunstancia;
+
+VII. Al que preste auxilio o cooperación al autor de un hecho delictivo, con conocimiento de esta circunstancia, y
+
+VIII. A quien oculte o favorezca el ocultamiento del responsable de ejecutar un hecho delictivo, con conocimiento de esta circunstancia, así como los efectos, objetos o instrumentos de este o impida que se averigüe.
 
 ###### ARTICULO 312.
 
@@ -6338,3 +6372,23 @@ SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicaci
 TERCERA. Se derogan todas las disposiciones de igual o menor jerarquía jurídica del estado de Morelos que contravengan al presente decreto.
 
 CUARTA. Publíquese en la Gaceta Legislativa de este Honorable Congreso.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MIL CIENTO TREINTA Y SEIS.- POR EL CUAL SE REFORMA EL ARTÍCULO 212 QUÁTER DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERA. Se derogan todas las disposiciones legales de igual o menor rango, que se opongan o contradigan al presente Decreto.
+
+P.O. 27 DE MAYO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO MIL CIENTO OCHENTA Y CINCO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de (sic) Gobierno del Estado.
+
+TERCERA.- El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
