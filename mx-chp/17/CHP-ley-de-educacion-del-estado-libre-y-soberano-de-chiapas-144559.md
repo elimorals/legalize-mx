@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-educacion-del-estado-libre-y-soberano-de-chiapas-144559"
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-14"
-last_updated: "2025-06-18"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de octubre de 2020.
 
@@ -1161,7 +1161,9 @@ Será responsabilidad de la autoridad educativa estatal, garantizar la distribuc
 
 En términos de la Ley General de Educación, la autoridad educativa federal determinará los planes y programas de estudio, aplicables y obligatorios en toda la República Mexicana, de la educación preescolar, la primaria, la secundaria, la educación normal y demás aplicables para la formación de maestras y maestros de educación básica, de conformidad a los fines y criterios establecidos en los artículos 13 y 14 de esta Ley.
 
-De conformidad a las disposiciones aplicables, la Secretaría emitirá la opinión para que se considere en los planes y programas de estudio, el contenido los proyectos y programas educativos que contemplen las realidades y contextos, regionales y locales del Estado de Chiapas.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+De conformidad a las disposiciones aplicables, la Secretaría emitirá la opinión para que se considere en los planes y programas de estudio, el contenido, los proyectos y programas educativos que contemplen las realidades y contextos, regionales y locales, e incorporen la pertenencia cultural y lingüística en los procesos de enseñanza y aprendizaje, con el propósito de fortalecer, preservar, difundir y conservar el conocimiento, la cultura y las lenguas indígenas del Estado de Chiapas.
 
 La Secretaría podrá solicitar a la autoridad educativa federal actualizaciones y modificaciones de los planes y programas de estudio, para atender el carácter regional, local, contextual y situacional del proceso de enseñanza aprendizaje.
 
@@ -2328,3 +2330,11 @@ P.O. 18 DE JUNIO DE 2025.
 Artículo Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 248 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 92 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
