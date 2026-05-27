@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-en-materia-electoral-y-de-participacion-101653"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2025-05-06"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE JUSTICIA EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 30 de junio de 2014.
 
@@ -137,11 +137,11 @@ Durante el proceso electoral todos los días y horas son hábiles. Los plazos se
 
 Cuando la violación reclamada en el medio de impugnación respectivo no se produzca durante el desarrollo de un proceso electoral, el cómputo de los plazos se hará contando solamente los días hábiles, debiendo entenderse por tales todos los días a excepción de los sábados, domingos y los inhábiles en términos de ley.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 9.
 
-Los medios de impugnación previstos en esta Ley deberán presentarse dentro de los cuatro días contados a partir del día siguiente a aquel en que se tenga conocimiento del acto, acuerdo o resolución impugnado, con excepción del juicio de inconformidad y del juicio para la protección de los derechos políticos electorales que serán de cinco días.
+Los medios de impugnación previstos en esta Ley deberán presentarse dentro de los cinco días contados a partir del día siguiente a aquel en que se tenga conocimiento del acto, acuerdo o resolución impugnado.
 
 ### CAPÍTULO III. DE LOS REQUISITOS DE LOS MEDIOS DE IMPUGNACIÓN
 
@@ -541,7 +541,9 @@ III. Por oficio: a las autoridades responsables; a la Secretaría de Servicios P
 
 IV. Por correo certificado, a la Oficialía Mayor u órgano administrativo de los ayuntamientos diferentes al de la capital del Estado; y,
 
-V. Por fax cuando las circunstancias lo requieran y existan los medios para garantizar su práctica; este medio podrá ser utilizado sobre todo para notificar a las autoridades competentes de los ayuntamientos diferentes al de la capital del Estado las sentencias recaídas a los juicios de inconformidad correspondientes, mediante la remisión de los puntos resolutivos de la misma; sin perjuicio de que con posterioridad les sea remitida copia íntegra certificada mediante correo certificado.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+V. Por correo electrónico, cuando así lo señalen expresamente las partes como medio de contacto y las circunstancias lo requieran. Este medio podrá utilizarse, preferentemente, para notificar a quienes tengan el carácter de parte actora, terceros interesados, terceros coadyuvantes y a las autoridades responsables cuyo domicilio se ubique fuera de la capital del Estado.
 
 ###### ARTÍCULO 38.
 
@@ -885,7 +887,9 @@ IV. Los candidatos a juzgadores, que hayan sido registrados por al menos un Pode
 
 La demanda del juicio de inconformidad deberá presentarse dentro de los cinco días contados a partir del siguiente de que concluya el cómputo respectivo.
 
-El plazo para interponer los juicios de inconformidad que impugnen los actos de las autoridades electorales relativos a la elección de diputados por el principio de representación proporcional se contará a partir del día siguiente en que el Consejo General realice la asignación correspondiente, en los demás casos, el Juicio de Inconformidad se presentará ante los Consejos distritales o municipales según el tipo de elección, salvo en el caso que se combata el acta de cómputo estatal en la elección de Gobernador, por error aritmético, y el otorgamiento de la constancia de mayoría.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+El plazo para interponer los juicios de inconformidad que impugnen los actos de las autoridades electorales relativos a la elección de diputados por el principio de representación proporcional se contará a partir del día siguiente en que el Consejo General realice la asignación correspondiente, en los demás casos, el Juicio de Inconformidad se podrá presentar ante los Consejos General, distritales y/o municipales indistintamente según el tipo de elección, salvo en el caso, que se combata el acta de cómputo estatal en la elección de Gobernador, por error aritmético, y el otorgamiento de la constancia de mayoría.
 
 ### CAPÍTULO VI. DE LAS SENTENCIAS
 
@@ -1003,9 +1007,17 @@ VIII. Haber impedido el acceso de los representantes de los partidos políticos 
 
 IX. Ejercer violencia física o presión sobre los miembros de la mesa directiva de casilla o sobre los electores y siempre que esos hechos sean determinantes para el resultado de la votación;
 
-X. Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudadanos y esto sea determinante para el resultado de la votación; y,
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-XI. Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
+X. Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudadanos y esto sea determinante para el resultado de la votación;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+XI. Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma; y,
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2026)</small>
+
+XII. Cuando se acrediten actos de violencia, amenaza, intimidación, coacción o cualquier forma de injerencia ilícita, ejercida por personas u organizaciones vinculadas a actividades criminales o de delincuencia organizada, dirigidas a condicionar, inhibir o alterar la libre emisión del sufragio, la participación ciudadana, la integración, instalación o funcionamiento de la casilla, o el desarrollo de la jornada electoral, así como los resultados de la misma, afectando de manera sustancial los principios de libertad, autenticidad y efectividad del sufragio.
 
 ### CAPÍTULO III. DE LA NULIDAD DE LA ELECCIÓN Y DE LOS PROCESOS DE REFERÉNDUM O PLEBISCITO
 
@@ -1043,23 +1055,41 @@ a) Se exceda el gasto de campaña en un cinco por ciento o más del monto total 
 
 b) Se compre cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la Ley;
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
 
 c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos prohibidos por la Ley en las campañas; y,
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-d) Se realice violencia política en razón de género.
+d) Se realice violencia política contra las mujeres en razón de género.
 
 Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
 
-En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+De confirmarse cualquier supuesto de nulidad, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada, y, en su caso, se dispondrán medidas de seguridad para la reposición del proceso.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Tratándose de la fracción XII, del artículo 69 de esta ley, la determinación se acreditará bajo un criterio cualitativo, considerando la afectación a la equidad en la contienda, el efecto inhibitorio en el electorado y la vulneración a la libertad del sufragio, con independencia del margen de votación.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+En caso de nulidad de la elección por la causal prevista en la fracción XII, del artículo 69 de esta ley, el Tribunal Electoral deberá valorar el contexto de violencia y la posible injerencia de factores externos para garantizar que la nulidad no sea instrumentalizada indebidamente.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
 
 Para efectos de lo dispuesto en la Base VI del artículo 41 de la Constitución General, se presumirá que se está en presencia de cobertura informativa indebida cuando, tratándose de programación y de espacios informativos o noticiosos, sea evidente que, por su carácter reiterado y sistemático, se trata de una actividad publicitaria dirigida a influir en las preferencias electorales de los ciudadanos y no de un ejercicio periodístico.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
+
 Se entenderá por violaciones graves, aquellas conductas irregulares que produzcan una afectación sustancial a los principios constitucionales en la materia y pongan en peligro el proceso electoral y sus resultados.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
+
 Se calificarán como dolosas aquellas conductas realizadas con pleno conocimiento de su carácter ilícito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
 
 A fin de salvaguardar las libertades de expresión, información y a fin de fortalecer el Estado democrático, no serán objeto de inquisición judicial ni censura, las entrevistas, opiniones, editoriales, y el análisis de cualquier índole que, sin importar el formato sean el reflejo de propia opinión o creencias de quien las emite.
 
@@ -1262,3 +1292,35 @@ Cuarto. El Instituto Electoral de Michoacán deberá realizar las adecuaciones n
 Quinto. El Tribunal Electoral del Estado, deberá realizar las adecuaciones normativas y reglamentarias necesarias para armonizar la legislación estatal con las disposiciones de este Decreto en un plazo no mayor a treinta días naturales.
 
 Sexto. Notifíquese al Instituto Electoral de Michoacán y al Tribunal Electoral del Estado el presente Decreto, para los efectos legales que hubiere a lugar.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 476 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 9; 37; 60; 69 Y 72; Y SE ADICIONAN LA FRACCIÓN XII AL ARTÍCULO 69 Y DIVERSOS PÁRRAFOS AL ARTÍCULO 72, TODOS DE LA LEY DE JUSTICIA EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Consejo General del Instituto Electoral de Michoacán deberá emitir o adecuar los reglamentos, lineamientos, protocolos y disposiciones administrativas necesarias para la debida aplicación del presente Decreto.
+
+CUARTO. El Instituto Electoral de Michoacán deberá implementar los mecanismos técnicos, tecnológicos, interinstitucionales y documentales necesarios para el cumplimiento de lo dispuesto en el artículo 13 BIS del Código Electoral del Estado de Michoacán de Ocampo.
+
+Para tal efecto, el Instituto podrá celebrar convenios de coordinación y colaboración con el Poder Judicial del Estado, el Poder Judicial de la Federación, el Sistema Nacional DIF, las autoridades jurisdiccionales competentes, el Registro Nacional de Obligaciones Alimentarias y demás autoridades competentes.
+
+QUINTO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Instituto Electoral de Michoacán deberá emitir, actualizar o armonizar los protocolos institucionales para la prevención, atención, sustanciación y seguimiento de casos de violencia política contra las mujeres en razón de género, incluyendo medidas específicas de atención a personas pertenecientes a grupos de atención prioritaria.
+
+Los protocolos deberán incorporar mecanismos de accesibilidad, atención diferenciada, acompañamiento institucional y perspectiva intercultural, interseccional y de derechos humanos.
+
+SEXTO. Los procedimientos administrativos sancionadores, medios de impugnación, actos preparatorios, procedimientos de fiscalización y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+No obstante, las disposiciones contenidas en el presente Decreto serán aplicables de manera inmediata cuando resulten más favorables para la protección de los derechos humanos, la igualdad sustantiva, la paridad de género o la tutela efectiva de los derechos político-electorales.
+
+SÉPTIMO. Los procedimientos de disolución o liquidación de partidos políticos locales, asociaciones civiles constituidas para respaldar candidaturas independientes, así como de agrupaciones políticas estatales, que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán substanciándose conforme a las disposiciones vigentes al momento de su inicio.
+
+La Coordinación de Fiscalización del Instituto Electoral de Michoacán asumirá las atribuciones previstas en el artículo 45 reformado respecto de los procedimientos que continúen en trámite.
+
+OCTAVO. Dentro de los sesenta días naturales siguientes a la emisión de los lineamientos previstos en el artículo 84 reformado, las agrupaciones políticas estatales con registro vigente deberán presentar, por única ocasión, el primer informe anual de actividades públicas verificables conforme al nuevo régimen jurídico previsto en el presente Decreto.
+
+NOVENO. El Tribunal Electoral del Estado de Michoacán, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá implementar o adecuar las herramientas tecnológicas necesarias para garantizar la operatividad de las notificaciones por correo electrónico previstas en el artículo 37 del Código Electoral del Estado de Michoacán de Ocampo.
+
+DÉCIMO. Las modificaciones al artículo 21 del Código Electoral del Estado de Michoacán de Ocampo, únicamente por cuanto ve a la supresión de disposiciones relativas a la elección consecutiva de integrantes de los ayuntamientos, no serán aplicables al proceso electoral local ordinario 2026-2027, y surtirán efectos para el proceso electoral local ordinario 2029-2030, conforme al régimen transitorio aplicable en la materia.
