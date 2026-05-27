@@ -4,7 +4,7 @@ identifier: "CMX-protocolo-para-la-prevencion-atencion-y-sancion-del-151854"
 country: "mx"
 rank: "otro"
 publication_date: "2020-09-15"
-last_updated: "2020-09-15"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2020-09-14"
 ---
 # PROTOCOLO PARA LA PREVENCION, ATENCION Y SANCION DEL HOSTIGAMIENTO Y ACOSO SEXUALES DE LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDIGENAS RESIDENTES DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL PROTOCOLO PARA LA PREVENCIÓN Y ATENCIÓN DEL HOSTIGAMIENTO SEXUAL Y ACOSO SEXUAL DE LA SECRETARÍA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, PUBLICADO EN LA G.O. DE 27 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 PROTOCOLO PARA LA PREVENCIÓN, ATENCIÓN Y SANCIÓN DEL HOSTIGAMIENTO Y ACOSO SEXUALES DE LA SECRETARÍA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MAYO DE 2026 (SIN EFECTOS).
 
 Protocolo publicado en el No. 431 Bis de la Gaceta Oficial de la Ciudad de México, el martes 15 de septiembre de 2020.
 
@@ -1779,3 +1781,15 @@ CIENCIAS DE LA SALUD, 57 296 000 ext. 63476
 CLÍNICA DE PSICOLOGÍA
 
 IPN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “PROTOCOLO PARA LA PREVENCIÓN Y ATENCIÓN DEL HOSTIGAMIENTO SEXUAL Y ACOSO SEXUAL DE LA SECRETARÍA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES”.]
+
+PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El Protocolo para la prevención, atención y sanción del hostigamiento sexual y acoso sexual de la Secretaría de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes, entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se deja sin efectos el Protocolo para la prevención, atención y sanción del hostigamiento y acoso sexuales de la Secretaría de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes de la Ciudad de México publicado el 15 de septiembre de 2020 en la Gaceta Oficial de la Ciudad de México.
