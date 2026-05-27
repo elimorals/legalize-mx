@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2026-03-09"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -160,6 +160,26 @@ La administración pública municipal, en el ámbito de su competencia cumplirá
 ###### Artículo 2.
 
 El Municipio libre constituye la base de la división territorial y de la organización política y administrativa del Estado Mexicano. Es una entidad de carácter público, dotado de personalidad jurídica y patrimonio propio; susceptible de derechos y obligaciones, autónomo en su régimen interior y con libertad para administrar e integrar su hacienda, conforme a las disposiciones constitucionales, la presente Ley y demás Leyes en la materia que apruebe el Congreso.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+###### Artículo 2 Bis.
+
+En el Estado de Morelos, los municipios indígenas legalmente constituidos son reconocidos como sujetos de derecho público, dotados de personalidad jurídica y patrimonio propio. Están facultados para ejercer su derecho a la libre determinación a través de:
+
+I. La organización, funcionamiento y operación de sus gobiernos municipales indígenas;
+
+II. La administración de su hacienda pública, recursos propios y patrimonio municipal; y
+
+III. El manejo y otorgamiento de sus servicios públicos municipales.
+
+Lo anterior, sin más límite que los establecidos expresamente en la legislación vigente.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+###### Artículo 2 Ter.
+
+En los municipios del Estado de Morelos donde se encuentren asentados pueblos y comunidades indígenas, afromorelenses y equiparables, los ayuntamientos deberán promover el ejercicio de su libre determinación y, en consecuencia, a la autonomía, para el desarrollo de sus formas de organización política, social, económica y cultural.
 
 ###### Artículo 3.
 
@@ -701,13 +721,17 @@ y) Atención a Personas con Discapacidad;
 
 z) Atención a la Diversidad Sexual;
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-aa) Protección de los Derechos de las Personas Contribuyentes, y
+aa) Protección de los Derechos de las Personas Contribuyentes;
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-ab) Comunidades Indígenas y Afromexicanas.
+ab) Comunidades Indígenas y Afromexicanas, y
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+ac) Del Deporte
 
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2025)</small>
 
@@ -4858,3 +4882,23 @@ PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal 
 SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO VEINTIUNO.- POR EL QUE SE REFORMAN LOS INCISOS AA) Y AB), Y SE ADICIONA EL INCISO AC) A LA FRACCIÓN II DEL ARTÍCULO 24 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL CIENTO VEINTIDÓS.- POR EL QUE SE ADICIONAN LOS ARTÍCULOS 2 BIS Y 2 TER A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
