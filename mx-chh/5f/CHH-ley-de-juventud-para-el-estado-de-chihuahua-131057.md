@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juventud-para-el-estado-de-chihuahua-131057"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-20"
-last_updated: "2025-07-30"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Anexo al Periódico Oficial, del Estado de Chihuahua, el sábado 20 de octubre de 2018.
 
@@ -203,15 +203,23 @@ Se incluirá en la política estatal en la materia, el acceso a las tecnologías
 
 ### Capítulo X. DERECHO A UN TRABAJO DIGNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### Artículo 26.
 
-Las personas jóvenes tienen derecho a un trabajo digno, bien remunerado y a una protección especial respecto al mismo, de acuerdo con su vocación, aptitudes y destrezas, de forma que les permita elevar su calidad de vida, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones jurídicas aplicables.
+Las personas jóvenes tienen derecho a un trabajo digno, bien remunerado y a una protección especial respecto al mismo, de acuerdo con su vocación, aptitudes y destrezas, de forma que les permita elevar su calidad de vida, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones jurídicas aplicables. El Gobierno del Estado y los Ayuntamientos, en coordinación con la Federación, generarán los mecanismos necesarios para garantizar este derecho.
 
 Lo anterior, bajo las consideraciones de igualdad de oportunidades y trato, en lo relativo a la inserción, remuneración sin discriminación, promoción y condiciones en el trabajo para hacer compatible el tiempo de estudio con la jornada laboral, tomando en cuenta su edad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### Artículo 27.
 
-El Ejecutivo, los Ayuntamientos, las dependencias y entidades de la administración pública estatal y municipal, así como cualquier otro organismo autónomo, deberán contemplar en sus planes y programas de gobierno estrategias y líneas de acción para impulsar el empleo juvenil, bolsas de trabajo, capacitación laboral; así como políticas públicas en coordinación con el Gobierno Federal, que promuevan la oportunidad de trabajo para los jóvenes. Además, procurarán su inclusión en cargos públicos.
+El Ejecutivo, los Ayuntamientos, las dependencias y entidades de la administración pública estatal y municipal, así como cualquier otro organismo autónomo, deberán contemplar en sus planes y programas de gobierno estrategias y líneas de acción para impulsar el empleo juvenil, bolsas de trabajo, capacitación laboral y políticas públicas en coordinación con el Gobierno Federal, para fomentar, promover e impulsar la creación de primeros empleos para los jóvenes, previendo la posibilidad, de así considerarse viable, de otorgar estímulos, incentivos, beneficios técnicos, fiscales, no fiscales y económicos; así como acceso preferente a los programas y apoyos, además de promover la inversión privada para la generación de empleo para personas jóvenes e implementar programas de capacitación laboral permanente destinados a este grupo etario.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Además, podrán generarse, por las autoridades mencionadas en este artículo, bolsas de trabajo específicas para las personas jóvenes trabajadoras de primer empleo. Dando preferencia a la contratación de personas jóvenes de entre 18 y 25 años de edad, residentes en el territorio estatal, que no cuenten con ningún apoyo de programas o subsidio de gobierno en materia de empleo, o que no tengan fuentes de ingreso por una relación laboral.
 
 ###### Artículo 28.
 
@@ -1052,3 +1060,11 @@ P.O. 30 DE JULIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0485/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.p
