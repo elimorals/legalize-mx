@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-175296"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-12-05"
-last_updated: "2025-12-31"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Número 382 del Periódico Oficial del Estado de Chiapas, el jueves 5 de diciembre de 2024.
 
@@ -309,7 +309,9 @@ X. Secretaría del Campo;
 
 XI. Secretaría de Turismo;
 
-XII. Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+XII. Secretaría de los Pueblos Indígena y Afromexicanos;
 
 XIII. Secretaría de Salud;
 
@@ -1185,7 +1187,9 @@ XXIV. Coordinar la operación de los Programas de los sectores agrícolas, y gan
 
 XXV. Coordinar el funcionamiento, operación y administración de los recursos del Fideicomiso Fondo de Fomento Agropecuario del Estado de Chiapas, y coadyuvar en el cumplimiento de su objeto.
 
-XXVI. Coordinar el funcionamiento operación y administración del Centro de Mejoramiento Genético Bovino, en beneficio de los productores ganaderos del Estado.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+XXVI. Coordinar el funcionamiento operación y administración del Centro Internacional de Biotecnología Reproductiva de Chiapas (CIBRECH).
 
 XXVII. Promover el desarrollo de la infraestructura básica agropecuaria, para contribuir en la modernización y a la productividad de los sectores agrícolas y ganaderos en el Estado.
 
@@ -1193,7 +1197,9 @@ XXVIII. Coordinar y vigilar la regulación y movilización pecuaria, productos y
 
 XXIX. Emitir la acreditación de los inspectores pecuarios en el Estado, para la realización de la inspección y verificación de la movilización de animales, productos y subproductos pecuarios en la Entidad.
 
-XXX. Promover la certificación y cumplimiento de las normas de calidad e inocuida (sic) del sector pecuario, productos y subproductos de origen animal, para el cumplimiento de los estándares de los mercados internacionales, nacionales y estatales.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+XXX. Promover la certificación y cumplimiento de las normas de calidad e inocuidad del sector pecuario, productos y subproductos de origen animal, para el cumplimiento de los estándares de los mercados internacionales, nacionales y estatales.
 
 XXXI. Promover campañas de sensibilización, estrategias y prácticas pecuarias sustentables y responsables con el medio ambiente.
 
@@ -1239,51 +1245,53 @@ XIV. Fortalecer a nivel nacional e internacional, la imagen e identidad turísti
 
 XV. Los demás asuntos que le correspondan, en los términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### Artículo 42.
 
-La Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas es la dependencia de gobierno del Estado encargada de la promoción y protección de los derechos de los pueblos y comunidades indígenas, así como de fomentar su desarrollo sustentable en el Estado. Le corresponde el despacho de los siguientes asuntos:
+La Secretaría de los Pueblos Indígenas y Afromexicanos es la dependencia de gobierno del Estado, encargada de la promoción y protección de los derechos de los pueblos y comunidades indígenas y afromexicanas, así como de fomentar su desarrollo sustentable en el Estado. Para cumplir con su encargo, le corresponde el despacho de los siguientes asuntos:
 
-I. Proponer y ejecutar la política pública de los pueblos y comunidades indígenas, buscando siempre su participación efectiva y promoviendo su desarrollo social y humano.
+I. Proponer y ejecutar la política pública de los pueblos y comunidades indígenas y afromexicanas, buscando siempre su participación efectiva y promoviendo su desarrollo social y humano.
 
-II. Conducir y normar la aplicación de las políticas públicas de los pueblos y comunidades indígenas que garantice el ejercicio de sus derechos, fortaleciendo la coordinación interinstitucional de los tres niveles de gobierno en los proyectos, programas y acciones orientadas a su desarrollo sustentable.
+Il. Conducir y normar la aplicación de las políticas públicas de los pueblos y comunidades indígenas y afromexicanas que garantice el ejercicio de sus derechos, fortaleciendo la coordinación interinstitucional de los tres niveles de gobierno en los proyectos, programas y acciones orientadas a su desarrollo sustentable.
 
-III. Promover, proteger y difundir el respeto a los derechos individuales y colectivos de los pueblos y comunidades indígenas, para erradicar toda forma de discriminación y de violencia de género.
+III. Promover, proteger y difundir el respeto a los derechos individuales y colectivos de los pueblos y comunidades indígenas y afromexicanas, para erradicar toda forma de discriminación y de violencia de género.
 
-IV. Promover el cuidado, protección y conservación del patrimonio cultural y natural de los pueblos y comunidades indígenas, así como el acceso pleno a su identidad.
+IV. Promover el cuidado, protección y conservación del patrimonio cultural y natural de los pueblos y comunidades indígenas y afromexicanas, así como el acceso pleno a su identidad.
 
-V. Contribuir con la instancia competente de la política interna del Estado, en los procesos de concertación para la solución de los conflictos sociales, políticos y religiosos de los pueblos y comunidades indígenas, procurando fortalecer una cultura de paz.
+V. Contribuir con la instancia competente de la política interna del Estado, en los procesos de concertación para la solución de los conflictos sociales, políticos y religiosos de los pueblos y comunidades indígenas y afromexicanas, procurando fortalecer una cultura de paz.
 
-VI. Contribuir con la instancia competente, en la atención y asistencia a desplazados de la población de los pueblos y comunidades indígenas.
+VI. Contribuir con la instancia competente, en la atención y asistencia a desplazados de la población de los pueblos y comunidades indígenas y afromexicanas.
 
-VII. Promover y fortalecer la participación a través de consultas de los pueblos y comunidades indígenas en la toma de decisiones en acciones públicas inherentes a los mismos.
+VII. Promover y fortalecer la participación a través de consultas previas, culturalmente adecuadas, informadas y de buena fe de los pueblos y comunidades indígenas y afromexicanas en la toma de decisiones en acciones públicas inherentes a los mismos.
 
-VIII. Asesorar a las instituciones públicas del Estado, en materia jurídica y de los derechos de los pueblos y comunidades indígenas.
+VIII. Asesorar a las instituciones públicas del Estado, en materia jurídica y de los derechos de los pueblos y comunidades indígenas y Afromexicanas.
 
-IX. Promover la igualdad de género en los pueblos y comunidades indígenas, así como la participación de las mujeres indígenas en los ámbitos social, económico, cultural y político.
+IX. Promover la igualdad de género de los pueblos y comunidades indígenas y afromexicanas, así como la participación de las mujeres en los ámbitos social, económico, cultural y político.
 
-X. Contribuir con la instancia competente, en la promoción y difusión de los derechos humanos de la niñez indígena.
+X. Contribuir con la instancia competente, en la promoción y difusión de los derechos humanos de la niñez indígena y afromexicanas.
 
-XI. Contribuir con la instancia competente, en la difusión y promoción de las artesanías, así como en la protección de los diseños, modelos, productos artesanales y artísticos de los pueblos y comunidades indígenas, con el fin de evitar su falsificación, logrando con ello fomentar la identidad de los pueblos y comunidades indígenas.
+XI. Contribuir con la instancia competente, en la difusión y promoción de las artesanías, así como en la protección de los diseños, modelos, productos artesanales y artísticos, con el fin de evitar su falsificación, logrando con ello fomentar la identidad de los pueblos y comunidades indígenas y Afromexicanas.
 
-XII. Fortalecer la coordinación interinstitucional que favorezca el desarrollo sustentable e integral de los pueblos y comunidades indígenas.
+XII. Fortalecer la coordinación interinstitucional que favorezca el desarrollo sustentable e integral de los pueblos y comunidades indígenas y afromexicanas.
 
-XIII. Participar en la formulación y evaluación de proyectos de cooperación internacional orientados al desarrollo sustentable y sostenible de los pueblos y comunidades indígenas.
+XIII. Participar en la formulación y evaluación de proyectos de cooperación internacional orientados al desarrollo sustentable y sostenible de los pueblos y comunidades indígenas y afromexicanas.
 
-XIV. Formular, integrar, validar y evaluar en coordinación con las instancias correspondientes, las propuestas de inversión dirigidas a los pueblos y comunidades indígenas.
+XIV. Formular, integrar, validar y evaluar en coordinación con las instancias correspondientes, las propuestas de inversión dirigidas a los pueblos y comunidades indígenas y Afromexicanas.
 
-XV. Instrumentar, ejecutar y supervisar programas y proyectos estratégicos que busquen el desarrollo sustentable de los pueblos y comunidades indígenas.
+XV. Instrumentar, ejecutar y supervisar programas y proyectos estratégicos que busquen el desarrollo sustentable de los pueblos y comunidades indígenas y afromexicanas.
 
-XVI. Proporcionar asesoría y orientación jurídica a los pueblos y comunidades indígenas.
+XVI. Proporcionar asesoría y orientación jurídica de los pueblos y comunidades indígenas y afromexicanas.
 
-XVII. Contribuir al cumplimiento de los objetivos de desarrollo sostenible aplicable a los pueblos y comunidades indígenas.
+XVII. Contribuir al cumplimiento de los objetivos de desarrollo sostenible aplicable de los pueblos y comunidades indígenas y afromexicanas.
 
-XVIII. Suscribir convenios y acuerdos de colaboración con los tres niveles de gobierno y la sociedad civil, con el objeto de fortalecer el ejercicio pleno de los derechos de los pueblos y comunidades indígenas.
+XVIII. Suscribir convenios y acuerdos de colaboración con los tres niveles de gobierno y la sociedad civil, con el objeto de fortalecer el ejercicio pleno de los derechos de los pueblos y comunidades indígenas y afromexicanas.
 
-XIX. Contribuir con la instancia competente en la protección, promoción y aprovechamiento sustentable de los recursos naturales e implementar programas y acciones para la conservación de la biodiversidad en los territorios de los pueblos y comunidades indígenas y evitar la explotación irracional de los recursos naturales.
+XIX. Contribuir con la instancia competente en la protección, promoción y aprovechamiento sustentable de los recursos naturales e implementar programas y acciones para la conservación de la biodiversidad en los territorios de los pueblos y comunidades indígenas y afromexicanas y evitar la explotación irracional de los recursos naturales.
 
-XX. Contribuir con los tres niveles de gobierno en la instrumentación de programas prioritarios encaminados al fortalecimiento e incremento de la cobertura de los servicios sociales básicos de agua potable, drenaje, electrificación, vivienda y demás servicios que promuevan el desarrollo integral de los pueblos y comunidades indígenas.
+XX. Contribuir con los tres niveles de gobierno en la instrumentación de programas prioritarios encaminados al fortalecimiento e incremento de la cobertura de los servicios sociales básicos de agua potable, drenaje, electrificación, vivienda y demás servicios que promuevan el desarrollo integral de los pueblos y comunidades indígenas y afromexicanas.
 
-XXI. Coadyuvar con las instancias jurisdiccionales y normativas correspondientes, proporcionándoles según las necesidades, traductores certificados y acreditados en las doce lenguas indígenas reconocidas en el Estado, garantizando con ello, el acceso a la justicia, salud y demás procedimientos administrativos en beneficio de los pueblos y comunidades indígenas.
+XXI. Coadyuvar con las instancias jurisdiccionales y normativas correspondientes, proporcionándoles según las necesidades, traductores certificados y acreditados en las doce lenguas indígenas reconocidas en el Estado, garantizando con ello, el acceso a la justicia, salud y demás procedimientos administrativos en beneficio de los pueblos y comunidades indígenas y afromexicanas.
 
 XXII. Los demás asuntos que le correspondan, en términos de las leyes aplicables, su reglamento interior y los que determine la persona titular del Poder Ejecutivo.
 
@@ -1331,7 +1339,9 @@ III. Elaborar los programas anuales en materia de educación, ejecutarlos vigila
 
 IV. Fomentar la enseñanza pública autorizando la participación privada, cuidando estrictamente que la calidad y los servicios educativos que se presten, contribuyan al mejoramiento social.
 
-V. Ejecutar los programas de educación en los niveles preescolar, primaria, secundaria, preparatoria y profesional, incluyendo la promoción de la enseñanza y la investigación a través de licenciaturas, diplomados, especialidades y postgrados.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+V. Ejecutar los programas de educación en los niveles inicial, preescolar, primaria, secundaria, preparatoria y profesional, incluyendo la promoción de la enseñanza y la investigación a través de licenciaturas, diplomados, especialidades y postgrados.
 
 VI. Expedir los títulos, certificados, diplomas y constancias de estudios por los que otorgue autorización y llevar el registro de profesionistas, diplomados, especialistas y postgraduados.
 
@@ -1533,7 +1543,9 @@ XV. Analizar y validar los proyectos de respuestas de informes documentados que 
 
 XVI. Certificar y dar fe, de los documentos, decretos, acuerdos, dictámenes, reglamentos, nombramientos, circulares, periódicos oficiales y demás disposiciones de carácter jurídico administrativo con efectos generales, que emita la persona titular del Poder Ejecutivo y las dependencias y entidades de la administración pública.
 
-XVII. Compilar y publicar los ordenamientos jurídicos estatales, a través de medios propios u oficiales.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+XVII. Gestionar la publicación de los ordenamientos jurídicos estatales, a través de medios oficiales.
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2025)</small>
 
@@ -1804,3 +1816,13 @@ Los recursos humanos, materiales y financieros que, a la entrada en vigor del pr
 Artículo Cuarto.- En tanto el Poder Ejecutivo del Estado, emite las disposiciones reglamentarias y administrativas necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se oponga, las disposiciones emitidas con anterioridad a la entrada en vigor del presente Decreto.
 
 Artículo Quinto.- Las Dependencias y Entidades del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones necesarias para el cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 247 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Las Dependencias y Entidades del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones necesarias para el cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
