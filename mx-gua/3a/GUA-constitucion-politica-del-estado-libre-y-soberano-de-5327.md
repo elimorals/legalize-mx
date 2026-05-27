@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2026-02-16"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -915,6 +915,10 @@ Los consejeros electorales locales tendrán un período de desempeño de siete a
 
 Los consejeros electorales locales y demás servidores públicos que establezca la Ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Las remuneraciones de las personas consejeras electorales, así como de las personas titulares de las secretarías, áreas ejecutivas, técnicas o sus equivalentes del organismo público electoral local, no podrán exceder el límite establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos. En ningún caso podrán autorizarse, contratarse u otorgarse con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas en la ley, decreto legislativo, disposición general, contrato colectivo o condiciones generales de trabajo.
+
 En los casos previstos y conforme al procedimiento que determine la Ley de la materia, el organismo público electoral local podrá convenir con el Instituto Nacional Electoral se haga cargo de la organización de los procesos electorales locales.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2025)</small>
@@ -930,6 +934,10 @@ El organismo público electoral local contará con un órgano interno de control
 Para dar definitividad y garantizar la legalidad de las distintas etapas de los procesos electorales, la Ley establecerá un sistema de medios de impugnación. También establecerá los casos y los procedimientos conforme a los cuales, en los ámbitos administrativo y jurisdiccional, se realizarán el recuento total o parcial de votación, de la elección de Gobernador, de diputados al Congreso del Estado o de los Ayuntamientos.
 
 La autoridad jurisdiccional electoral local se integrará por tres magistrados, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Las remuneraciones de las personas magistradas electorales, así como de las personas titulares de las áreas administrativas, ejecutivas o técnicas de la autoridad jurisdiccional electoral local, se sujetarán a lo dispuesto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos. En ningún caso podrán percibir o contratar con recursos públicos prestaciones adicionales a las previstas en la ley, incluyendo seguros de gastos médicos, de vida, de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales o regímenes especiales de retiro.
 
 En materia electoral la interposición de los medios de impugnación no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnados. La legislación penal y la electoral, respectivamente, tipificarán los delitos y determinarán las faltas en materia electoral, así como las sanciones que les correspondan.
 
@@ -1051,9 +1059,9 @@ Jamás podrán reunirse dos o más de estos Poderes en un solo individuo o corpo
 
 El Congreso del Estado de Guanajuato se compondrá de representantes populares electos en su totalidad cada tres años, mediante votación libre, directa y secreta. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-En la integración del Congreso del Estado de Guanajuato, esta Constitución y la ley electoral determinarán los mecanismos para cumplir con el principio de paridad de género.
+En la integración y funcionamiento del Congreso del Estado, esta Constitución y la ley electoral determinarán los mecanismos para cumplir con los principios de paridad de género, igualdad sustantiva y perspectiva de género.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
 
@@ -1151,23 +1159,25 @@ II.- Los que sean Ministros de cualquier culto religioso en los términos de las
 
 III.- El Consejero Presidente o Consejero Electoral en los consejos general, locales o distritales del Instituto Nacional Electoral, el Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-IV.- El Consejero Presidente o Consejero Electoral y el Secretario Ejecutivo del organismo público electoral local, Magistrado Presidente o Magistrado Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección; y
+IV. La persona Consejera Presidente o Consejera Electoral y la Secretaría Ejecutiva del organismo público electoral local, persona Magistrada Presidente o Magistrada Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-V.- Las personas que hayan tenido resolución firme por infracción que constituya violencia política contra las mujeres en razón de género, emitidas por los órganos jurisdiccionales en materia electoral, en tanto se extingue la sanción impuesta.
+V. Las personas que hayan tenido resolución firme por infracción que constituya violencia política contra las mujeres en razón de género, emitidas por los órganos jurisdiccionales en materia electoral, en tanto se extingue la sanción impuesta; y
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NUMERO 176, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2014, LA REFORMA AL PRESENTE ARTÍCULO, NO SERÁ APLICABLE A LOS DIPUTADOS LOCALES, PRESIDENTES MUNICIPALES, REGIDORES Y SÍNDICOS QUE HAYAN PROTESTADO EL CARGO EN LA LEGISLATURA O AYUNTAMIENTO QUE SE ENCUENTRE EN FUNCIONES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.]</small>
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+VI. Las personas que tengan o hayan tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 47.
 
-Los Diputados podrán ser electos hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos políticos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las personas diputadas no podrán ser reelectas para el mismo cargo para el período inmediato posterior al ejercicio de su mandato.
 
-Ninguno de los Diputados mencionados en el párrafo anterior, cuando hayan tenido el carácter de propietarios durante cuatro periodos consecutivos, podrán ser electos para el periodo inmediato como suplentes, pero éstos sí podrán ser electos para el periodo inmediato como propietarios si en su última elección tuvieron el cargo de suplentes.
+Las personas diputadas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero éstas sí podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieran estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
@@ -1402,6 +1412,10 @@ En el supuesto de que al iniciarse el año fiscal correspondiente, el Congreso d
 > <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
 
 Los poderes del Estado así como los organismos autónomos que la Constitución o las leyes del Estado reconozcan como tales y las entidades de la administración pública estatal, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+El presupuesto anual del Congreso del Estado no podrá exceder del cero punto siete por ciento del Presupuesto de Egresos del Estado.
 
 XIV.- Autorizar al Ejecutivo del Estado y a los Ayuntamientos para que contraten empréstitos para la ejecución de obras de utilidad pública, designando los recursos con que deben cubrirse y de acuerdo con la Ley de Deuda Pública. Dicha autorización no será necesaria cuando los créditos se contraten como consecuencia de una calamidad general;
 
@@ -1707,9 +1721,9 @@ III.- Tener por lo menos treinta años cumplidos al día de la elección.
 
 No son elegibles al cargo de Gobernador del Estado:
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-I.- Los Secretarios de Estado de la Federación, los Ministros de la Suprema Corte de Justicia de la Nación, el Fiscal General (sic) la Republica, el Jefe de Gobierno de la Ciudad de México, los Magistrados del Supremo Tribunal de Justicia del Estado, los Titulares o Encargados de las Dependencias de los Ramos en que se divida la Administración Pública Estatal, el Fiscal General del Estado, los Militares en servicio activo y los ciudadanos con mando de fuerza en el Estado, a no ser que se separen definitivamente de su cargo, por lo menos seis meses antes de la fecha de la elección;
+I. Las personas secretarias de Estado de la Federación, las personas Ministras de la Suprema Corte de Justicia de la Nación, la persona titular de la Fiscal General de la República, la personas (sic) titular de la Jefatura de Gobierno de la Ciudad de México, las personas Magistradas del Supremo Tribunal de Justicia del Estado, las personas titulares o Encargadas de las Dependencias de los Ramos en que se divida la Administración Pública Estatal, la personas (sic) titular de la Fiscalía General del Estado, las personas militares en servicio activo y las personas ciudadanas con mando de fuerza en el Estado, a no ser que se separen definitivamente de su cargo, por lo menos seis meses antes de la fecha de la elección;
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
 
@@ -1723,13 +1737,17 @@ III.- El Consejero Presidente o Consejero Electoral en los consejos General, loc
 
 IV.- El Consejero Presidente o Consejero Electoral y el Secretario Ejecutivo del organismo público electoral local, Magistrado Presidente o Magistrado Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-V.- No estar comprendido en alguno de los supuestos establecidos en el artículo 70 de esta Constitución; y
+V. No estar comprendido en alguno de los supuestos establecidos en el artículo 70 de esta Constitución;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-VI.- Las personas que hayan tenido resolución firme por infracción que constituya violencia política contra las mujeres en razón de género, emitidas por los órganos jurisdiccionales en materia electoral, en tanto se extingue la sanción impuesta.
+VI. Las personas que hayan tenido resolución firme por infracción que constituya violencia política contra las mujeres en razón de género, emitidas por los órganos jurisdiccionales en materia electoral, en tanto se extingue la sanción impuesta; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2026)</small>
+
+VII. La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gobernatura.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2815,19 +2833,15 @@ Los Municipios serán gobernados por un Ayuntamiento. La competencia de los Ayun
 
 #### SECCION PRIMERA. DE LOS AYUNTAMIENTOS
 
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 108.
 
-Los Ayuntamientos se compondrán de un Presidente Municipal y del número de Síndicos y Regidores que determine la Ley Orgánica, sin que el número total de miembros que los integren sea menor de ocho ni mayor de diecinueve.
+Los ayuntamientos se compondrán por la persona titular de la Presidencia Municipal, una sindicatura y el número de regidurías que determine la ley de la materia, sin exceder de quince.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2019)</small>
+En la integración y ejercicio del poder público municipal, los ayuntamientos deberán observar los principios de paridad de género vertical y horizontal, igualdad sustantiva y perspectiva de género, en los términos que establezcan esta Constitución y la ley electoral.
 
-En la integración de los Ayuntamientos, esta Constitución y la ley electoral determinarán los mecanismos para cumplir con el principio de paridad de género.
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
-
-Por cada Regidor y Síndico Propietario se elegirá un suplente. Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente y a falta de ambos, se procederá según lo disponga la Ley.
+Por cada regiduría y sindicatura propietaria se elegirá una persona suplente. Si alguna de las personas integrantes del Ayuntamiento dejare de desempeñar su cargo, será sustituida por su suplente y a falta de ambas, se procederá según lo disponga la Ley.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2871,31 +2885,35 @@ III.- Tener cuando menos dos años de residir en el municipio en donde deba dese
 
 Los guanajuatenses que migren al extranjero tendrán derecho a que se les reconozca la residencia binacional, cuando así lo acrediten en los términos de la ley de la materia, pero en todo caso, para poder ser electos, deberán incorporarse al municipio por lo menos ciento ochenta días previos al de la elección.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 111.
 
-No podrán ser Presidentes Municipales, Síndicos o Regidores:
+No podrán ser personas titulares de la Presidencia Municipal, sindicatura y regidurías:
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-I.- Los militares en servicio activo o el Secretario y Tesorero del Ayuntamiento a no ser que se separen de sus cargos cuando menos con sesenta días de anticipación al de la elección;
+I. Las personas militares en servicio activo o la persona titular de la Secretaría y Tesorería del Ayuntamiento a no ser que se separen de sus cargos cuando menos con sesenta días de anticipación al de la elección;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-II.- Los que sean Ministros de cualquier culto religioso en los términos que establezcan las leyes respectivas;
+II. Las personas que sean Ministras de cualquier culto religioso en los términos que establezcan las leyes respectivas;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-III.- El Consejero presidente o consejero electoral en los consejos General, locales o distritales del Instituto Nacional Electoral, el Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección;
+III. La persona Consejera presidente o consejera electoral en los consejos General, locales o distritales del Instituto Nacional Electoral, las personas titulares de la Secretaría Ejecutiva, Dirección Ejecutiva o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-IV.- El Consejero Presidente o Consejero Electoral y el Secretario Ejecutivo del organismo público electoral local, Magistrado Presidente o Magistrado Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección; y
+IV. La persona Consejera presidente o consejera Electoral y la persona titular de la Secretaría Ejecutiva del organismo público electoral local, la persona Magistrada Presidente o Magistrada Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-V.- Las personas que hayan tenido resolución firme por infracción que constituya violencia política contra las mujeres en razón de género, emitidas por los órganos jurisdiccionales en materia electoral, en tanto se extingue la sanción impuesta.
+V. Las personas que hayan tenido resolución firme por infracción que constituya violencia política contra las mujeres en razón de género, emitidas por los órganos jurisdiccionales en materia electoral, en tanto se extingue la sanción impuesta; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2026)</small>
+
+VI. La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2907,19 +2925,17 @@ Si alguno de los integrantes propietarios del Concejo Municipal dejare de desemp
 
 Para ser miembro de un Concejo Municipal deberán satisfacerse los requisitos que señalan los artículos anteriores.
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NUMERO 176, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2014, LA REFORMA AL PRESENTE ARTÍCULO, NO SERÁ APLICABLE A LOS DIPUTADOS LOCALES, PRESIDENTES MUNICIPALES, REGIDORES Y SÍNDICOS QUE HAYAN PROTESTADO EL CARGO EN LA LEGISLATURA O AYUNTAMIENTO QUE SE ENCUENTRE EN FUNCIONES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 113.
 
-Los presidentes municipales, regidores y síndicos electos popularmente, durarán en su encargo tres años y podrán ser electos consecutivamente, para el mismo cargo por un periodo adicional. La postulación sólo podrá ser realizada por el mismo partido político o por cualquiera de los partidos políticos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Los miembros de los Concejos Municipales no podrán ser electos para el período inmediato.
+Las personas titulares de las presidencias municipales, regidurías y sindicaturas electas popularmente, durarán en su encargo tres años y no podrán ser electas consecutivamente, para el mismo cargo por un periodo adicional. Las personas integrantes de los Concejos Municipales no podrán ser electas para el período inmediato.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 114.
 
-Ninguno de los funcionarios municipales mencionados en el artículo anterior, cuando hayan tenido el carácter de Propietarios durante los dos periodos consecutivos, podrán ser electos para el periodo inmediato como suplentes, pero éstos sí podrán ser electos para el periodo inmediato como propietarios, pudiendo ser electos para el mismo cargo hasta por un periodo adicional.
+Ninguna de las personas servidoras públicas municipales mencionadas en el artículo anterior, cuando hayan tenido el carácter de propietarias, podrán ser electas para el periodo inmediato como suplentes, pero estas sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -4810,3 +4826,21 @@ P.O. 16 DE FEBRERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 171, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONA UN PÁRRAFO A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 191, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSA DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artícu lo Pr imer o (sic).El (sic) presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artícu loSegundo (sic). Las reformas a los artículos 46, fracción VI; 69, fracción VII; 111, fracción VI, respecto de la prohibición de nepotismo electoral, serán aplicables a partir del proceso electoral local a celebrarse en el año 2030.
+
+Ar tícu loTer cer o (sic).Las (sic) reformas a los artículos 47, 113 y 114, respecto de la prohibición de reelección de las personas servidoras públicas señaladas en los mismos, serán aplicables a partir del proceso electoral local a celebrarse en el año 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+Artícu loCu arto.Las (sic) disposiciones relativas a la integración de los ayuntamientos surtirán efectos a partir del siguiente periodo constitucional municipal.
+
+Artícu lo Qu into (sic). Las disposiciones del presente Decreto en materia de remuneraciones de las autoridades electorales administrativas y jurisdiccionales del Estado serán aplicables a partir del ejercicio fiscal siguiente a su entrada en vigor.
+
+Las remuneraciones y prestaciones que se encuentren vigentes a la entrada en vigor del presente Decreto deberán ajustarse de manera progresiva en los presupuestos de egresos correspondientes, sin afectar los derechos adquiridos durante el periodo para el cual fueron designadas las personas servidoras públicas.
+
+Artícu loSexto (sic). El Congreso del Estado contará con 30 días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones legislativas correspondientes.
