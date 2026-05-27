@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de-572
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-17"
-last_updated: "2025-10-15"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE RESIDUOS SÓLIDOS Y DE ECONOMÍA CIRCULAR PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 17 de octubre de 2007.
 
@@ -1447,9 +1447,9 @@ Las sanciones por la comisión de las infracciones señaladas en el artículo an
 
 I. Multa que se determinará en los casos y montos siguientes:
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-a) Con el equivalente de 5 a 99 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, II, XI, XV, XVII y XVIII;
+a) Con el equivalente de 15 a 99 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción a quienes incurran en los supuestos previstos en las fracciones I, II, XI, XVII y XVIII del artículo anterior;
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
@@ -1882,3 +1882,15 @@ SEGUNDA. Se derogan todas aquellas disposiciones de igual o menor rango que cont
 TERCERA. El presente Decreto entrará en vigor a partir de primero de enero de 2026, con el objeto de que las autoridades obligadas implementen y ejecuten lo dispuesto por la presente reforma.
 
 CUARTA. La Secretaría de Desarrollo Sustentable y los Ayuntamientos del Estado de Morelos, en un plazo no mayor a 90 días hábiles a partir de la vigencia del presente decreto, deberán de actualizar sus reglamentos respectivos.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHENTA Y SIETE.- POR EL QUE SE REFORMA LA LEY DE RESIDUOS SÓLIDOS Y ECONOMÍA CIRCULAR PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la titular del Poder Ejecutivo para su correspondiente publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, en términos de lo dispuesto por los artículos 44; 47, y 70, fracciones XVI y XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos y la aplicación de las sanciones previstas será a partir del primero de enero del año dos mil veintiséis.
+
+TERCERA. Las autoridades estatales y municipales, deberán considerar lo dispuesto en el presente decreto dentro de sus respectivas leyes de ingresos de los ejercicios fiscales subsecuentes, para su efectiva aplicación.
+
+CUARTA. Las autoridades del orden estatal y municipal deberán informar a la población las sanciones aplicables, con anticipación a su aplicación, para fomentar una cultura de responsabilidad en el manejo de residuos sólidos.
