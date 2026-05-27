@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2026-02-18"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -2581,11 +2581,9 @@ Las leyes y el estatuto correspondiente determinarán los regímenes laborales y
 
 En los municipios regidos electoralmente por sistemas normativos internos indígenas, el Instituto de Elecciones y Participación Ciudadana tendrá la obligación de reconocer, respetar, coadyuvar, salvaguardar y garantizar el funcionamiento de dichos sistemas, vigilando que se respeten en todo momento los derechos individuales de las y los miembros de la comunidad.
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ONCEAVO DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2025)</small>
-
-Asimismo, se faculta al Instituto de Elecciones y Participación Ciudadana para organizar, desarrollar y vigilar las elecciones de autoridades auxiliares municipales; ASÍ COMO PARA QUE CONOZCA DE LOS ASUNTOS RELACIONADOS CON EL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS PARTIDOS POLÍTICOS, DE LAS AGRUPACIONES POLÍTICAS Y DE LAS ASOCIACIONES CIVILES CREADAS POR CIUDADANAS Y CIUDADANOS QUE PRETENDAN POSTULAR SU CANDIDATURA INDEPENDIENTE; IGUALMENTE, EN LO RELACIONADO CON LA PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS PARTIDOS POLÍTICOS.
+Asimismo, se faculta al Instituto de Elecciones y Participación Ciudadana para organizar, desarrollar y vigilar las elecciones de autoridades auxiliares municipales.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -5408,3 +5406,13 @@ Artículo Tercero: El Honorable Congreso del Estado de Chiapas, en un plazo de c
 Artículo Cuarto: El Poder Ejecutivo debe realizar las reformas a las disposiciones administrativas aplicables, para asegurar el respeto y la implementación de los derechos del Pueblo Akateko, reconocidos en el presente instrumento; lo anterior, en un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
 
 Artículo Quinto: El Ejecutivo del Estado y el Honorable Congreso del Estado de Chiapas, en un acto solemne reconocerán al Pueblo Akateko como parte de los Pueblos y Comunidades Indígenas del Estado de Chiapas.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 246 POR EL QUE SE REFORMA EL PÁRRAFO DÉCIMO PRIMERO DEL ARTÍCULO 100 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo previsto en el presente Decreto.
+
+Artículo Tercero.- Las adecuaciones legislativas en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales en Posesión de Sujetos Obligados requeridas, deberán realizarse en un plazo no mayor a treinta días hábiles posteriores a la entrada de la presente reforma constitucional.
