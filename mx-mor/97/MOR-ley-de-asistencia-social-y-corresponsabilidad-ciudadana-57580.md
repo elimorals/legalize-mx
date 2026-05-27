@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-asistencia-social-y-corresponsabilidad-ciudadana-57580"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2025-10-01"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de noviembre de 2007.
 
@@ -57,6 +57,12 @@ El gobierno del Estado y los Municipios, encaminados al desarrollo integral de l
 
 Para los efectos de lo mencionado en el párrafo anterior, el gobierno del Estado y los Municipios, procurarán proporcionar a las personas beneficiarias de esta Ley los servicios básicos en materia de asistencia social de acuerdo a los recursos disponibles, para lo cual deberán observar la normatividad técnica que emita la Secretaría de Salud del Estado de Morelos, en el ámbito de su competencia.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+ARTÍCULO 2 BIS.- El gobierno del Estado y los Municipios, dentro del ámbito de sus competencias, deberán coordinar acciones interinstitucionales e intersectoriales para proporcionar una atención integral a las personas que viven en situación de calle en el estado de Morelos, a fin de garantizar el goce y ejercicio pleno y efectivo de sus derechos humanos.
+
+Para los efectos de lo dispuesto en el párrafo anterior deberán emitir un Protocolo de Atención a Personas en Situación de Calle, en el cual se establecerán las bases para generar las condiciones que permitan a la población en situación de calle considerar alternativas de vida, el acceso a servicios sociales especializados acorde a las necesidades y el perfil de las poblaciones en situación de calle y revertir las condiciones de exclusión social e inseguridad a los que se encuentra expuesta esta población.
+
 ###### ARTÍCULO 3.
 
 Para los efectos de esta Ley se entiende por:
@@ -85,17 +91,25 @@ VI.- Persona con discapacidad: incluyen a aquellas que tengan deficiencias físi
 
 VII.- Violencia Familiar, al acto de poder u omisión, intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica y emocional, sexual, patrimonial o económica a cualquier persona integrante de la familia, dentro o fuera del domicilio familiar, con quien tenga parentesco consanguíneo, por afinidad o civil, por vínculo de matrimonio, concubinato y que tiene por efecto causar daño o sufrimiento a la víctima.
 
-VIII.- Sistema: El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-IX.- Ley: La Ley de Asistencia Social y Corresponsabilidad Ciudadana.
+VIII.- Sistema: El Sistema para el Desarrollo Integral de la Familia del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+IX.- Ley: La Ley de Asistencia Social y Corresponsabilidad Ciudadana; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2026)</small>
+
+X.- Población en situación de calle: A aquellas personas que viven desvinculadas total o parcialmente de sus familias, adoptando la calle como espacio de hábitat, convivencia y pernoctación, así como área de socialización, des-socialización y sobrevivencia.
 
 ### CAPÍTULO II. DE LOS SUJETOS DE LA ASISTENCIA SOCIAL
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 4.
 
-Tienen derecho a la asistencia social las personas y familias que, por sus condiciones físicas, mentales, jurídicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar; en especial, aquellas que pertenezcan a grupos en condiciones de vulnerabilidad, particularmente tratándose de mujeres, niñas y niños, adultos mayores, personas con discapacidad, población indígena y afromexicana.
+Tienen derecho a la asistencia social las personas y familias que por sus condiciones físicas, mentales, jurídicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar; en especial, aquellas que pertenezcan a grupos en condiciones de vulnerabilidad, particularmente tratándose de mujeres, niñas y niños, adultos mayores, personas con discapacidad, población indígena, afromexicana, y población en situación de calle.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
@@ -305,9 +319,9 @@ XIV.- Procurar, de acuerdo a los programas y recursos disponibles, mantener en p
 
 XV.- Llevar a cabo acciones en materia de prevención de la discapacidad y de rehabilitación de personas con discapacidad con sujeción a las disposiciones aplicables en materia de salud;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-XVI.- Llevar a cabo acciones de alimentación complementaria a personas de escasos recursos y población de zonas marginadas;
+XVI.- Llevar a cabo acciones de alimentación complementaria a personas de escasos recursos, población de zonas marginadas y población en situación de calle;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE AGOSTO DE 2018)</small>
 
@@ -1328,3 +1342,15 @@ PRIMERA. Se remite el presente Decreto a la Persona Titular del Poder Ejecutivo 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
 
 TERCERA. El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan al presente Decreto.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHENTA Y NUEVE.- POR EL QUE SE ADICIONAN UN ARTÍCULO 2 BIS, UNA FRACCIÓN X AL ARTÍCULO 3, Y SE REFORMAN LOS ARTÍCULOS 4 Y 16 DE LA LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la Gobernadora Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado.
+
+TERCERA. El gobierno del Estado y los Municipios, conforme a sus ámbitos de competencias tendrán un término de treinta días naturales contados a partir de que entre en vigor el presente decreto, para emitir los protocolos que prevé el segundo párrafo del artículo 2 Bis del presente ordenamiento.
+
+CUARTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
