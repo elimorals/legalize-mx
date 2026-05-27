@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2026-03-02"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,465 +21,299 @@ state: "MIC"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
+REGLAMENTO PARA LA EXPLOTACION DE JUEGOS ELECTRICOS Y FUTBOLITOS EN EL MUNICIPIO DE APODACA, NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+TEXTO ORIGINAL.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE MICHOACÁN EL 2 DE MARZO DE 2026.]</small>
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 18 de abril de 1994.
 
-Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
+Con fundamento en el artículo 26 fracción VII y artículo 29 fracción IV de la Ley Orgánica de Administración Pública para los Municipios del Estado de Nuevo León, el C. C.P. Raymundo Flores Elizondo, Presidente Municipal de Apodaca, N. L., a sus habitantes hace saber:
 
-SALVADOR JARA GUERRERO, Gobernador Substituto del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+Que el H. Cabildo en sesión ordinaria celebrada el día 26 de Octubre de 1993, se acordó la creación, formulación, aprobación y publicación del Reglamento de:
 
-El H. Congreso del Estado, se ha servido dirigirme el siguiente:
+JUEGOS ELECTRONICOS Y FUTBOLITOS
 
-DECRETO NÚMERO 323
+Damos Fe de quienes en ella intervinieron
 
-ÚNICO.- Se aprueba (sic) Código Electoral del Estado de Michoacán de Ocampo, para quedar como sigue:
+C. Lic. Roel Guajardo Cantú Secretario del R. Aytto.
 
-CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
+C. C.P. Jesús Rafael García Garza Tesorero Municipal
+
+C. Lic. César Garza Villarreal Primer Regidor
+
+C. Aurelia Zavala Guevara Segunda Regidora
+
+C. Laurentina Villarreal Gutiérrez Tercera Regidora
+
+C. Estardo Guajardo Flores Cuarto Regidor
+
+C. Pedro Guajardo Guajardo Quinto Regidor
+
+C. Guadalupe González González Sexto Regidor
+
+C. Lic. Silvia M. González Martínez Séptima Regidora
+
+C. Luis Pasquel Rodríguez Octavo Regidor
+
+C. Lic. Macario Rodríguez Rivera Noveno Regidor
+
+C. Guadalupe Velázquez Sifuentes Decimo Regidor
+
+C. José Trinidad Dorantes de la Rosa Onceavo Regidor
+
+C. Horacio Bazán Cadena Síndico Primero
+
+C. Lic. Oscar Jaime Treviño Villarreal Síndico Segundo
+
+SUFRAGIO EFECTIVO NO REELECCION
+
+Apodaca, N. L. a 10 de Enero de 1994
+
+C.P. RAYMUNDO FLORES ELIZONDO
+
+Presidente Municipal
+
+REGLAMENTO PARA LA EXPLOTACION DE JUEGOS ELECTRICOS Y FUTBOLITOS EN EL MUNICIPIO DE APODACA, NUEVO LEON
 
 # LIBRO PRIMERO. PREELIMINARES (SIC)
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO PRIMERO. NATURALEZA Y COMPETENCIA
+### CAPITULO I. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 1.
+###### ARTICULO 1.
 
-Las disposiciones de este Código son de orden público y de observancia general en el Estado Libre y Soberano de Michoacán de Ocampo y reglamenta las normas constitucionales y generales relativas a:
+El presente Reglamento se expide con fundamento en los artículos 160 y 161 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León y tiene por objeto establecer las condiciones para el establecimiento, operación y vigilancia de Juegos Electrónicos y Futbolitos, en este Municipio, siendo su observancia obligatoria por contener disposiciones de orden público e interés social.
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+###### ARTICULO 2.
 
-I. La función de organizar las elecciones de los integrantes de los poderes Legislativo, Ejecutivo y Judicial, así como de los ayuntamientos;
+Los Órganos Oficiales encargados de vigilar el cumplimiento de las disposiciones de este Reglamento son:
 
-II. La organización, funcionamiento, derechos, obligaciones, prerrogativas y demás acciones relativas a los partidos políticos; y,
+a) El H. Cabildo.
 
-III. El ejercicio de los derechos y obligaciones político-electorales de los ciudadanos.
+b) El C. Presidente Municipal.
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+c) El C. Secretario de Ayuntamiento.
 
-IV. Los Mecanismos de Participación Ciudadana, establecidos en la Ley de la materia.
+d) El C. Tesorero Municipal.
 
-> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2023)</small>
+e) El C. Jefe de Inspectores.
 
-V. Los derechos políticos de autonomía y autogobierno indígena de los pueblos y comunidades indígenas de Michoacán.
+###### ARTICULO 3.
 
-Además de lo anterior, establece y armoniza las disposiciones aplicables en materia de instituciones y procedimientos electorales entre el Estado y la Federación, así como la relación entre el Instituto Nacional Electoral y el Instituto Electoral de Michoacán.
+Las personas físicas o morales que sean propietarios de establecimientos en los que se exploten Juegos Electrónicos o Futbolitos, tienen la obligación de contar con el permiso correspondiente expedido por el R. Ayuntamiento, antes de iniciar sus actividades.
 
-###### ARTÍCULO 2.
+El permiso deberá ser refrendado dentro de los tres primeros meses del año, debiendo efectuarse para la expedición y refrendo el pago de los derechos correspondientes.
 
-La aplicación de las disposiciones de este Código corresponde al Instituto, al Tribunal y al Congreso, en sus respectivos ámbitos de competencia.
+El original de dicho permiso deberán exhibirlo en un lugar visible de su establecimiento y presentarlo ante las Autoridades Municipales cuantas veces fuera requerido para ello.
 
-Las autoridades estatales y municipales, están obligadas a prestar apoyo y colaboración a los organismos electorales previstos en la Constitución y en este Código.
+### CAPITULO II. DE LOS PERMISOS Y DE LAS OBLIGACIONES DE SUS TITULARES
 
-La interpretación de este Código se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución General.
+###### ARTICULO 4.
 
-###### ARTÍCULO 3.
+Los permisos no son transferibles. En caso de cambio de domicilio del establecimiento, deberá solicitarse previamente la autorización correspondiente al R. Ayuntamiento, quien podrá negarlo si no se satisfacen los requisitos previstos en este Reglamento, o demás disposiciones aplicables.
 
-Para los efectos de la norma electoral, se entenderá por:
+La Autoridad Municipal, al otorgar el permiso correspondiente, deberá adherir al mismo una fotografía del titular, en caso de tratarse de personas físicas y del encargado del negocio si es persona moral, la cual será cancelada con el sello de la Dirección de Tesorería Municipal.
 
-I. Constitución General: Constitución Política de los Estados Unidos Mexicanos;
+###### ARTICULO 5.
 
-II. Constitución Local: Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
+Para determinar la ubicación de los establecimientos dedicados a la explotación de Juegos Electrónicos o Futbolitos, se tomara en cuenta lo siguiente:
 
-III. Código: Código Electoral del Estado de Michoacán de Ocampo;
+A) Que no se ubiquen en un radio de 300 m2. de cualquier Centro Educativo a excepción de 200 mts. de plazas públicas que se han constituido en áreas comerciales.
 
-IV. Congreso: Congreso del Estado de Michoacán de Ocampo;
+B) Que se instalen en locales cerrados, separados de la entrada a la casa habitación, y que cuenten con servicios sanitarios, ventilación, iluminación, condiciones de salubridad e higiene y que se dediquen únicamente al giro de video-juegos y futbolitos.
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+C) Que no existan en un radio de 100 mts., billares, cantinas o centros de vicio.
 
-V. Defensoría: La Defensoría Jurídica para la Protección de los Derechos Político-Electorales en Michoacán;
+D) De que no exista otro negocio del mismo giro en un radio de 300 mts.
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+E) Los negocios de este giro deben de contar con un máximo de 6 máquinas de video-juego en un espacio de 6 x 4 mts.
 
-VI. Discriminación por motivos de discapacidad: Se entenderá cualquier distinción, exclusión o restricción por motivos de discapacidad, que tenga el propósito de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio en igualdad de condiciones de los derechos Político Electorales;
+###### ARTICULO 6.
 
-VII. Estado: Estado Libre y Soberano de Michoacán de Ocampo;
+La apertura y cierre de los establecimientos dedicados a los giros que se regulan en este Reglamento, deberán sujetarse al siguiente horario:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2026)</small>
+Lunes a Domingo de las 10:00 a las 20:00 horas, sujeto a disposición de la autoridad los días festivos y obligatorios en la Ley.
 
-VIII. Influencers: Para efectos de este Código, se entiende por influencer a la persona física o moral que, a través de redes sociales o plataformas digitales, realiza de manera sistemática y continua publicaciones dirigidas a una audiencia de al menos cien mil seguidores o suscriptores, o cuyas publicaciones, en promedio, generan un nivel de exposición orgánica o de interacción que supere las cien mil impresiones, vistas o alcances mensuales, de manera verificable y sostenida.
+###### ARTICULO 7.
 
-Esta definición no será aplicable a expresiones ciudadanas espontáneas, no remuneradas, que formen parte del ejercicio del derecho a la libertad de expresión; ni tampoco a contenidos de análisis, crítica, opinión, sátira, investigación o trabajo periodístico, los cuales no podrán ser objeto de sanción alguna, conforme a los principios constitucionales de libertad de pensamiento y prensa;
+El Presidente Municipal podrá autorizar, previa solicitud por escrito, la ampliación del horario establecido en el Artículo anterior, tratándose de Ferias, Exposiciones, Kermesses o eventos especiales similares.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+###### ARTICULO 8.
 
-IX. Instituto: Instituto Electoral de Michoacán;
+Serán días de cierre obligatorio los que determine la Autoridad Municipal, lo cual se anunciará previamente.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+### CAPITULO III. DE LA UBICACIÓN Y DE LOS HORARIOS
 
-X. Instituto Nacional: Instituto Nacional Electoral;
+###### ARTICULO 9.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+Queda prohibido para los propietarios de los establecimientos donde se exploten los giros a que se refiere este Reglamento:
 
-XI. Ley General: Ley General de Instituciones y Procedimientos Electorales;
+I. Iniciar la explotación de los giros antes mencionados, sin contar con el permiso correspondiente otorgado por la Autoridad Municipal.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+II. Vender o permitir la venta o consumo de cigarros, bebidas alcohólicas o de otras substancias con efectos psicotrópicos.
 
-XII. Ley de Partidos: Ley General de Partidos Políticos;
+III. Instalar los aparatos electrónicos o futbolitos, en lugares abiertos, o en la vía pública.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+IV. Provocar ruido inmoderado por el uso de los Juegos Electrónicos o Futbolitos.
 
-XIII. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
+V. Utilizar Juegos Electrónicos que contengan imágenes pornográficas, o reñidas con la moral y las buenas costumbres.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+VI. Exhibir en el local cuando se instalen estos Juegos, cualquier imagen de contenido pornográfico.
 
-XIV. Paridad de género: Igualdad política entre hombres y mujeres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
+VII. Convertir el establecimiento en el lugar de reunión de vagos pandilleros, desertores de escuelas o cualquier otro tipo de personas sin oficio.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2026)</small>
+VIII. Permitir que se enciendan fogatas o portar armas de cualquier tipo en el local.
 
-XV. Promoción digital: Para efectos de este Código, se entiende por promoción digital segmentada o alcance potencial amplio, a la difusión de contenidos a través de redes sociales o plataformas digitales que utilicen herramientas de promoción pagada, segmentación por audiencia, algoritmos de amplificación o cualquier otro mecanismo técnico o económico que permita dirigir el mensaje a sectores específicos de la población o multiplicar su visibilidad más allá del alcance orgánico del perfil o página emisora;
+IX. La entrada de jóvenes con libros o con uniforme escolar.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+###### ARTICULO 10.
 
-XVI. Tribunal: Tribunal Electoral del Estado de Michoacán;
+Los Organos Oficiales que se mencionan en el artículo 2 de este Reglamento, por conducto del C. Tesorero Municipal o a través del Jefe de Inspectores, mantendrán la vigilancia para el debido cumplimiento de las disposiciones de este Reglamento.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+###### ARTICULO 11.
 
-XVII. UMA: Unidad de Medida y Actualización;
+Son auxiliares en la vigilancia del cumplimiento de las disposiciones de este Reglamento:
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+a) El C. Director de Policía Municipal.
 
-XVIII. Urna electrónica: medio electrónico o cualquier otra tecnología de recepción del sufragio, en el cual el emitente del voto deposita o expresa su voluntad;
+b) Inspectores de Autorizaciones y permisos.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+c) Inspectores de Desarrollo Urbano.
 
-XIX. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo;
+e) Los Jueces Auxiliares y las Juntas de Mejoras.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+###### ARTICULO 12.
 
-XX. Poder Judicial: Poder Judicial del Estado de Michoacán de Ocampo;
+Son infracciones al presente Reglamento:
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+I. La violación de cualquiera de las prohibiciones a que se refiere el Artículo 9 de este Reglamento.
 
-XXI. Ley de Justicia: Ley de Justicia en Materia Electoral y de Participación Ciudadana del Estado de Michoacán de Ocampo; y,
+II. No contar con el permiso previo otorgado por la Autoridad, al iniciar sus operaciones.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
-
-XXII. Ley General: Ley General del Sistema de Medios de Impugnación en Materia Electoral.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
-
-ARTÍCULO 3 BIS. Se consideran como conductas constitutivas de violencia política por razones de género, las siguientes:
-
-I. Imponer la realización de actividades distintas a las atribuciones inherentes al cargo o función;
-
-II. Restringir o limitar injustificadamente la realización de acciones o actividades inherentes a su cargo o función;
-
-III. Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
-
-IV. Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
-
-V. Difundir cualquier tipo de información y/o material con la finalidad de coartar, inhibir, impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
-
-VI. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido nombrada o elegida;
-
-VII. Impedir o restringir su reincorporación al cargo o función en los casos de licencia o permiso conforme a las disposiciones aplicables;
-
-VIII. Impedir u obstaculizar los derechos de asociación y afiliación a un partido; y,
-
-IX. Dañar en cualquier forma el desarrollo de la campaña electoral en la que participe una mujer, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad.
-
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-X. Cuando se acrediten aquellas acciones que lesionen o dañen la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
-
-### CAPÍTULO SEGUNDO. DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
-
-###### ARTÍCULO 4.
-
-Votar en las elecciones constituye un derecho y una obligación que se ejerce para integrar órganos del Estado de elección popular. También es derecho de los Ciudadanos y obligación para los partidos políticos la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular; así como brindar a las mujeres y grupos vulnerables las condiciones propicias para ejercer libremente sus derechos político-electorales; además de prevenir, atender, sancionar y en su caso erradicar la violencia política por razones de género.
-
-El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores.
-
-Es derecho de los ciudadanos ser votado para todos los puestos de elección popular, teniendo las calidades que establece la ley y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine este Código.
-
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
-
-Aquellas personas que vivan con una discapacidad que las imposibilite para emitir su derecho al voto, podrán ser asistidas por una persona de su confianza, siempre y cuando no sea representante de casilla.
-
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-Los derechos político-electorales, se ejercerán libres de violencia política en razón de género, sin discriminación por origen étnico o nacional, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
-
-###### ARTÍCULO 5.
-
-Es derecho y obligación de los ciudadanos, votar en las consultas populares sobre temas de trascendencia, en los términos que determine la ley de la materia y en los demás procesos de participación ciudadana que estén previstos en la legislación correspondiente, conforme a los requisitos y procedimientos que se establecen en la Ley local respectiva y el Reglamento de la materia.
-
-###### ARTÍCULO 6.
-
-Votar en las elecciones es una prerrogativa, que se suspende:
-
-I. Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones establecidas en el artículo 36 de la Constitución General;
-
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
-
-II. Por pérdida de la nacionalidad mexicana por naturalización o pérdida de la ciudadanía mexicana, de acuerdo con las causales establecidas en el artículo 37 de la Constitución General;
-
-III. Por estar extinguiendo pena corporal;
-
-IV. Por ser declarado ebrio consuetudinario en los términos de la ley;
-
-V. Por estar sustraído a la acción de la justicia; y,
-
-VI. Por condena en sentencia judicial que así lo disponga que haya causado ejecutoria.
-
-Para ser electo se requiere no estar en ninguno de los supuestos anteriores.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
-
-###### ARTÍCULO 7.
-
-Es derecho exclusivo de los ciudadanos participar como observadores electorales de los actos de preparación y desarrollo del proceso electoral, de todos los actos de la jornada electoral, que se realicen de conformidad con la legislación correspondiente, en la forma, términos y bases que determine la Ley General y demás normatividad aplicable.
-
-La observación electoral podrá realizarse siempre y cuando se cumplan los requisitos correspondientes, pudiendo aplicarse en cualquier ámbito territorial de la entidad, respecto de todas y cada una de las actividades del proceso electoral, identificándose necesariamente con los gafetes y acreditaciones que certifiquen la personalidad de observadores electorales, que haya expedido el órgano electoral correspondiente.
-
-###### ARTÍCULO 8.
-
-Son obligaciones de los ciudadanos:
-
-I. Inscribirse en el padrón electoral y tramitar su credencial para votar;
-
-II. Votar en la casilla de la sección electoral que corresponda a su domicilio, salvo los casos de excepción expresamente señalados por este Código;
-
-III. Integrar las mesas directivas de casilla desempeñando las funciones correspondientes en forma gratuita, en los términos de la Ley General y este Código;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
-
-IV. Participar en los mecanismos de participación ciudadana establecidos en la Constitución Local, en la Ley de Mecanismos de Participación Ciudadana del Estado de Michoacán de Ocampo y en el presente Código;
-
-V. Ocupar los cargos de elección popular; y,
-
-VI. Las demás que señale este Código y otras disposiciones legales.
-
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
-
-El ejercicio de los derechos y el cumplimiento de las obligaciones de la ciudadanía en el ámbito político electoral, se regirán por el principio de la no violencia y la no discriminación.
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
-
-### CAPÍTULO TERCERO. DERECHO DE RÉPLICA
-
-###### ARTÍCULO 9.
-
-(DEROGADO, P.O. 1 DE JUNIO DE 2017)
-
-###### ARTÍCULO 10.
-
-(DEROGADO, P.O. 1 DE JUNIO DE 2017)
-
-###### ARTÍCULO 11.
-
-(DEROGADO, P.O. 1 DE JUNIO DE 2017)
-
-###### ARTÍCULO 12.
-
-(DEROGADO, P.O. 1 DE JUNIO DE 2017)
+III. No respetar el horario establecido.
 
 ## TÍTULO SEGUNDO. DE LA ELECCIÓN DE LOS ÓRGANOS DEL ESTADO
 
-### CAPÍTULO PRIMERO. DE LAS ELECCIONES
+### CAPITULO IV. DE LAS PROHIBICIONES EN GENERAL
 
-###### ARTÍCULO 13.
+###### ARTICULO 13.
 
-Para ser electo a los cargos de elección popular a que se refiere este Código, se requiere cumplir los requisitos que para cada caso señala la Constitución General, la Constitución Local, la Ley General, así como estar inscrito en el Registro de Electores y contar con credencial para votar con domicilio en el Estado.
+Las infracciones al presente Reglamento serán calificadas y sancionadas por el C. Tesorero Municipal de acuerdo a los informes o reportes de la Dirección de Autorizaciones y Permisos, o auxiliares en la vigilancia en los términos de lo dispuesto en el presente Reglamento.
 
-Los integrantes y funcionarios de los órganos electorales que se mencionan enseguida, no podrán contender para los cargos de elección regulados por este Código, a menos que se separen de su función un año antes del día de la elección:
+###### ARTICULO 14.
 
-I. Los magistrados y secretarios del Tribunal; y,
+Por la comisión de las infracciones señaladas en el Artículo 12 del presente Reglamento, fracciones I, II, III, se sancionará al propietario del establecimiento con:
 
-II. Los miembros con derecho a voto del Consejo General del Instituto.
+I. Multa.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+II. Clausura temporal.
 
-Los directores ejecutivos del Instituto Electoral de Michoacán y los integrantes de los Órganos Desconcentrados de los consejos electorales de comités distritales o municipales, no podrán ser postulados a cargos de elección popular para el proceso electoral en el que actúan.
+III. Clausura definitiva.
 
-A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral en el Estado y sus municipios, salvo el caso de los candidatos a diputados por el principio de mayoría relativa que sean a la vez candidatos a diputados de representación proporcional, o de regidores propuestos en las planillas para integrar los ayuntamientos, que serán a la vez candidatos a regidores por el principio de representación proporcional, de acuerdo con lo señalado en este Código.
+###### ARTICULO 15.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+La sanción de multa se aplicará de la siguiente manera.
 
-Tampoco podrá ser candidato para un cargo estatal o municipal de elección popular y simultáneamente para un cargo de elección federal. En este supuesto, si el registro para el cargo de la elección estatal o municipal ya estuviere hecho, se procederá a la cancelación automática del registro respectivo.
+A) Por violar el horario establecido, de 10 a 100 salarios mínimos generales diarios vigentes en esta área geográfica.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2022)</small>
+B) Por iniciar operaciones sin contar con el permiso, de 1 a 50 (sic) el salario mínimo generales (sic) vigente en esta área geográfica y clausura temporal.
 
-ARTÍCULO 13 BIS. No podrán ser postulados como aspirantes a cargos de elección popular quienes hayan sido condenados o sancionados mediante resolución o sentencia firme en los siguientes supuestos:
+C) Por vender o permitir la venta o consumo de cigarros, bebidas alcohólicas o cualquier otra sustancia con efectos psicotrópicos, 50 salarios diarios mínimos generales vigentes en esta área geografía y clausura sin perjuicio de la responsabilidad penal.
 
-I. Por violencia familiar, doméstica, política en razón de género o cualquier agresión de género en el ámbito privado o público o que se encuentre vigente en algún padrón o registro de personas sancionadas por violencia;
+D) Por instalar Juegos Electrónicos o futbolitos en la vía pública, de 20 a 100 salarios mínimos en esta área geográfica.
 
-II. Por delitos sexuales, contra la libertad sexual o la intimidad corporal o que se encuentre vigente en algún padrón o registro de personas sancionadas por delitos sexuales; o,
+E) Por permitir ruido inmoderado, al hacer uso de los Juegos Electrónicos o Futbolitos, 10 salarios mínimos diarios vigentes en esta área geográfica.
 
-III. Como deudor alimentario moroso que atenten contra las obligaciones alimentarias o que se encuentre vigente en algún padrón o registro de deudores alimentarios morosos.
+F) Por utilizar en el establecimiento aparatos o juegos que contengan imágenes pornográficas o reñidas con las buenas costumbres, 50 salarios mínimos diarios vigentes en esta área geográfica.
 
-Cumplida la sentencia o la sanción que se haya aplicado en cada caso, las personas podrán ser postuladas para cargos de elección popular conforme lo establecido en la normatividad aplicable.
+G) Por exhibir en el local donde se encuentra el establecimiento imágenes de contenido pornográfico, erótico o reñido con las buenas costumbres 50 veces el salario mínimo general diario vigente en esta área geográfica y, en caso de continuar, clausurar.
 
-Atendiendo al principio de presunción de inocencia, no se considerará a las personas estar en los supuestos mencionados por manifestaciones públicas o privadas, escritas o verbales por cualquier medio que sea.
+H) Por permitir que el establecimiento se convierte (sic) en lugar de reunión de vagos, pandilleros o desertores de escuelas, 50 veces el salario mínimo vigente en esta área geográfica.
 
-Cualquier persona física o moral, podrá hacer del conocimiento al Instituto mediante denuncia con los elementos de prueba de aquella o aquellas personas que se encuentran comprendidas dentro de los supuestos señalados en las fracciones del presente artículo.
+###### ARTICULO 16.
 
-Los aspirantes a cargos de elección popular, podrán acreditar no encontrarse en ninguno de los supuestos en los términos que determine la autoridad o la legislación aplicable.
+Procederá la clausura temporal o difinitiva (sic) de los establecimientos que se dediquen a la explotación de Juegos Electrónicos y Futbolitos, en los siguientes casos:
 
-###### ARTÍCULO 14.
+I. Cuando los propietarios de establecimientos que se dediquen a la explotación de Juegos Electrónicos y Futbolitos, inicien sus actividades sin haber solicitado y obtenido el permiso de la Autoridad Municipal correspondiente.
 
-El Consejo General expedirá convocatoria para las elecciones ordinarias por lo menos ciento cincuenta días antes de la fecha en que deban efectuarse.
+II. Cuando la ubicación del establecimiento o por movimiento de las actividades que se realicen en esta, afecten el orden, la tranquilidad, seguridad y salud de la población.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+III. La calidad de reincidente del infractor, en un período de seis meses.
 
-Toda convocatoria a elecciones se publicará en el Periódico Oficial, se le dará amplia difusión a través de los medios de comunicación, siendo accesible para que las personas con discapacidad puedan conocer su contenido.
+IV. Por quejas fundadas de los ciudadanos.
 
-###### ARTÍCULO 15.
+V. Cuando en los establecimientos a que se viene haciendo referencia se ataquen a la moral o se provoquen escándalos.
 
-En elecciones ordinarias, el Consejo General podrá acordar la ampliación de los plazos que señala este Código, cuando haya imposibilidad material para cumplirlos.
+###### ARTICULO 17.
 
-En el caso de las elecciones extraordinarias, el Consejo General podrá acordar la reducción de los plazos que señala este Código.
+En el procedimiento de clausura preventiva o definitiva, el personal comisionado para su ejecución por la Autoridad Municipal correspondiente, procederá a levantar acta detallada de la diligencia, siguiendo para ella los lineamientos establecidos por la Autoridad Municipal.
 
-###### ARTÍCULO 16.
+###### ARTICULO 18.
 
-Cuando se declare empate entre los candidatos que hayan obtenido la más alta votación y una vez resueltos los medios de impugnación correspondientes, se convocará a elecciones extraordinarias.
+En los casos de clausura definitiva quedará sin efecto y cancelado el permiso que hubiera otorgado la Autoridad Municipal correspondiente.
 
-###### ARTÍCULO 17.
+### CAPITULO V. DE LA VIGILANCIA PARA EL CUMPLIMIENTO DE LAS DISPOSICIONES DE ESTE REGLAMENTO
 
-Las elecciones ordinarias y extraordinarias se realizarán conforme a lo dispuesto en esta legislación y demás leyes aplicables.
+###### ARTICULO 19.
 
-###### ARTÍCULO 18.
+Contra los actos y resoluciones de la Autoridad Municipal dictados con motivo de la aplicación de este Reglamento, los interesados podrán interponer el Recurso de Inconformidad.
 
-Las elecciones extraordinarias para integrar ayuntamientos serán convocadas por el Instituto, dentro de los treinta días naturales siguientes a aquél en que quede firme la declaración de nulidad de la elección.
+### CAPITULO VI. DE LAS INFRACCIONES
 
-El Congreso convocará a elecciones extraordinarias de gobernador y diputados por el principio de mayoría relativa, por nulidad de la elección respectiva, por inelegibilidad del candidato a Gobernador o de la fórmula de candidatos a diputados de mayoría relativa, o por las causas previstas en los artículos 30 y 54 de la Constitución Local, dentro de los siguientes treinta días naturales a que ocurra el supuesto correspondiente.
+###### ARTICULO 20.
 
-Para las elecciones extraordinarias de Gobernador, de diputados o de ayuntamientos se estará a lo que dispone la Constitución Local, este Código y demás leyes aplicables, debiéndose celebrar a más tardar ciento cincuenta días después de expedida la convocatoria respectiva.
+El recurso deberá interponerse por escrito y firmado por el interesado o por su representante legal debidamente acreditado, ante la Autoridad Municipal que hubiera dictado la resolución que se conteste.
 
-(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+### CAPITULO VII. DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+###### ARTICULO 21.
 
-Las vacantes de diputaciones POR AMBOS PRINCIPIOS y regidurías de representación proporcional, serán cubiertas por acuerdo del Congreso de la lista plurinominal o planilla que hubiese presentado el mismo partido respetando el orden de prelación de la lista, para lo cual contará con un término hasta de treinta días naturales.
+El recurso deberá contener:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+I. Nombre y domicilio de quien lo promueve y en su caso, de quien promueva en su representación.
 
-En el caso de elección consecutiva en donde el suplente no asuma el cargo se atenderá a lo dispuesto en el párrafo anterior.
+II. La mención precisa del acto de la Autoridad que motive la interposición del Recurso, debiéndose anexar copia del acta o resolución impugnada.
 
-Las vacantes de Presidente Municipal, síndico y regidores de mayoría relativa, generadas por inelegibilidad de las respectivas fórmulas de candidatos, se cubrirán por el Congreso, de acuerdo a lo establecido en el artículo 44 fracción XX de la Constitución Local.
+III. Los conceptos de violación que a su juicio se le hayan causado.
 
-La convocatoria expedida para la celebración de elecciones extraordinarias, no podrá restringir los derechos y prerrogativas a los ciudadanos y a partidos políticos, ni alterar los procedimientos y formalidades establecidas. En la misma, se fijarán los plazos y términos de las etapas y actos correspondientes al proceso extraordinario.
+IV. Las pruebas que ofrezca el recurrente, en la inteligencia que no será admisible, la confesión por posicionarse de la Autoridad.
 
-Los ciudadanos que resulten electos entrarán a ejercer su cargo a más tardar cuarenta y cinco días después de la elección.
+V. Lugar y fecha de la promoción.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
-
-### CAPÍTULO SEGUNDO. DE LA ELECCIÓN DEL PODER LEGISLATIVO
-
-###### ARTÍCULO 19.
-
-El Poder Legislativo se renovará cada tres años, debiendo celebrarse la elección en la fecha dispuesta por la Constitución Local.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
-
-Para la elección de diputados se dividirá el territorio del Estado en veinticuatro distritos electores, en cada uno de los cuales se elegirá un diputado por el principio de mayoría relativa. Con base en los resultados de la votación estatal válida emitida se elegirán dieciséis diputados por el principio de representación proporcional.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
-
-Los diputados podrán ser electos de manera consecutiva para el mismo cargo hasta por cuatro periodos, en los términos que establecen la Constitución General y la Constitución Local.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
-
-Para participar en una elección consecutiva, los diputados que representen a un partido político deberán haber sido electos en los procesos internos correspondientes. En el caso de los de origen independiente no le serán exigibles las firmas de respaldo ciudadano para obtener su registro como candidato, salvo que no hubieren sido electos inicialmente por una candidatura independiente, y por ende, no hubiesen obtenido el respaldo ciudadano correspondiente.
-
-> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
-
-(REUBICADO, P.O. 1 DE JUNIO DE 2017)
-
-Por cada Diputado propietario se elegirá un suplente.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
-
-Para efectos de la elección consecutiva a los suplentes se les contabilizará el periodo en caso de entrar en funciones.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
-
-### CAPÍTULO TERCERO. DE LA ELECCIÓN DEL PODER EJECUTIVO
-
-###### ARTÍCULO 20.
-
-El Poder Ejecutivo se renovará cada seis años. La elección para renovarlo se celebrará en la fecha dispuesta por la Constitución Local.
-
-### CAPÍTULO CUARTO. DE LA ELECCIÓN DE AYUNTAMIENTOS
-
-###### ARTÍCULO 21.
-
-Los ayuntamientos se renovarán cada tres años.
-
-La elección para renovarlos se realizará en la fecha dispuesta por la Constitución Local.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
-
-Los integrantes de los ayuntamientos podrán participar en la elección consecutiva, para el mismo cargo, de forma individual o conjunta por un periodo adicional, en los términos que establecen la Constitución Federal y la Constitución Local.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
-
-Para efectos de la elección consecutiva a los suplentes de síndicos y regidores que entren en funciones se les contabilizará el período respectivo.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
-
-Para acceder a una elección consecutiva, los presidentes municipales, síndicos o regidores que representen a un partido político, deberán haber sido electos en los procesos internos correspondientes. En el caso de los de origen independiente no le serán exigibles las firmas de respaldo ciudadano para obtener su registro como candidato, salvo que no hubieren sido electos inicialmente por candidatura independiente, y por ende, no hubiesen obtenido el respaldo ciudadano correspondiente.
-
-> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
+VI. Firma del promovente.
 
 # LIBRO SEGUNDO. ÓRGANOS ELECTORALES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO PRIMERO. DE LA FUNCIÓN ELECTORAL
+### CAPITULO VIII. DE LAS MULTAS
 
-###### ARTÍCULO 22.
+###### ARTICULO 22.
 
-Las autoridades estatales y municipales están obligadas a proporcionar a los órganos electorales, a petición de los presidentes respectivos, los informes, certificaciones y el auxilio de la fuerza pública, para el cumplimiento de sus funciones y la ejecución de sus resoluciones.
+El recurso se interpondrá dentro del término de cinco días hábiles, contados a partir de la fecha en que se haya notificado la resolución imugnada (sic).
 
-Las personas físicas y morales que con motivo de sus actividades, cuenten con información de interés de los órganos electorales para el cumplimiento de sus funciones, están obligados a proporcionarla, cuando les sea solicitada.
+###### ARTICULO 23.
 
-###### ARTÍCULO 23.
+Interpuesto el Recurso y en su caso admitido se substanciara por el C. Alcalde Municipal. Se citará al recurrente a la Audiencia de Pruebas y Alegatos, la que se efectuará dentro de un término de cinco días hábiles, contados a partir del día siguiente el (sic) auto de admisión de Recurso.
 
-Las resoluciones de los órganos electorales del Instituto se tomarán por mayoría de votos, salvo las excepciones señaladas en este Código. En caso de empate se someterá a nueva votación, de persistir, el presidente tendrá voto de calidad.
+###### ARTICULO 24.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+Dentro de un término de quince días hábiles, después de celebrada la Audiencia a que se refiere el Artículo anterior, la Autoridad dictará resolución.
 
-###### ARTÍCULO 24.
+###### ARTICULO 25.
 
-Los servidores públicos de los órganos electorales desempeñarán su función con autonomía y probidad, no podrán utilizar la información reservada o confidencial de que dispongan en razón de su cargo, salvo para el estricto ejercicio de sus funciones, ni divulgarla por cualquier medio, apegándose a lo establecido en la legislación que regule la transparencia, acceso a la información pública y protección de datos personales atinente.
+La admisión del Recurso de Inconformidad, suspenderá la ejecución de la sanción pecuniaria previa garantía otorgada en los términos del Código Fiscal del Estado.
 
-###### ARTÍCULO 25.
+### CAPITULO IX. DE LAS CLAUSURAS
 
-Los secretarios de los órganos electorales del Instituto estarán investidos de fe pública para hacer constar actos o hechos de naturaleza electoral, teniendo las siguientes atribuciones:
+###### ARTICULO 26.
 
-a) A petición de los partidos políticos o candidatos independientes, dar fe de actos o hechos en materia electoral que pudieran influir o afectar la equidad en la contienda electoral;
+En la medida que se modifiquen las condiciones socio-económicas del Municipio, en virtud de su crecimiento demográfico, social y desarrollo de actividades productivas y demás aspectos de la vida comunitaria, el presente Reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad.
 
-b) Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en el proceso.
+###### ARTICULO 27.
 
-Lo anterior, será independiente a que cualquier persona pueda solicitar la colaboración de los notarios públicos.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
-
-Los secretarios podrán, dar fe de actos y hechos que les consten de manera directa y expedir las certificaciones que se requieran, sobre documentos que tengan a la vista en original, relacionados con los asuntos de la competencia del Instituto, así como delegar dicha atribución en servidores públicos a su cargo.
-
-### CAPÍTULO SEGUNDO. DE LA ACREDITACIÓN DE LOS REPRESENTANTES
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
-
-###### ARTÍCULO 26.
-
-En el Consejo General y los consejos electorales de comité distrital o municipal, los partidos políticos y candidatos independientes ejercerán los derechos que este Código les otorga, por conducto de sus representantes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
-
-###### ARTÍCULO 27.
-
-Los representantes de los partidos políticos se acreditarán con el nombramiento que les expida su partido, a través del órgano que autoricen sus estatutos; de la misma manera los candidatos independientes lo harán mediante el formato que al efecto les proporcione el Consejo General. Los representantes ante el Consejo General se podrán acreditar en cualquier momento; los representantes ante los consejos electorales distrital o municipal se acreditarán desde cinco días antes de que se instale el órgano respectivo y hasta diez días después de dicha instalación; los representantes generales y los representantes ante las mesas directivas de casillas lo harán en los términos de lo dispuesto en la Ley General.
-
-Los registros de los representantes ante los consejos electorales de comités distritales o municipales y, en su caso, las sustituciones de los mismos, deberán presentarse ante el Consejo General.
+Para lograr el propósito anterior, la Administración Municipal, a través de la Dirección de Autorizaciones y Permisos, recibirá cualquier sugerencia, ponencia o queja que presente la comunidad en relación con el contenido normativo del presente Reglamento, a fin de que en Sesión Ordinaria del R. Ayuntamiento, el C. Presidente Municipal, de cuenta de una síntesis de tales propuestas, a fin de que dicho Cuerpo Colegiado tome la decisión correspondiente.
 
 ###### ARTÍCULO 28.
 
@@ -489,7 +323,7 @@ Los partidos políticos y los candidatos independientes podrán sustituir en tod
 
 ## TÍTULO SEGUNDO. DEL INSTITUTO ELECTORAL DE MICHOACÁN
 
-### CAPÍTULO PRIMERO. DE LA NATURALEZA DEL INSTITUTO
+### CAPITULO X. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 29.
 
@@ -503,7 +337,7 @@ El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se
 
 Son fines u objetos del Instituto, los que la Ley General determina para los Organismos Públicos Locales Electorales, la Ley de Partidos, la Constitución Local y el presente Código.
 
-### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS CENTRALES DEL INSTITUTO
+### CAPITULO XI. PROCEDIMIENTO DE REVISION Y CONSULTA
 
 ###### ARTÍCULO 31.
 
@@ -7263,43 +7097,23 @@ El Tribunal o en su caso, la Sala Regional o Superior del Tribunal Electoral, re
 
 Las personas juzgadoras locales electas deberán tomar protesta ante el Congreso el día en que se instale el primer periodo ordinario de sesiones del año de la elección que corresponda.
 
-## TRANSITORIOS
+## ARTICULOS TRANSITORIOS
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+PRIMERO. EL presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico del Estado y en la Gaceta Municipal.
 
-SEGUNDO. Los actuales Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán continuarán en su encargo hasta en tanto se realicen las designaciones a que refiere el transitorio Noveno del Decreto Legislativo por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos en materia político electoral, publicado en el Diario Oficial de la Federación con fecha 10 de febrero de 2014.
+SEGUNDO. Este Reglamento abroga y deja sin efecto legal todos los acuerdos, órdenes o disposiciones que se opongan al mismo.
 
-TERCERO. Los Magistrados del Tribunal Electoral del Estado de Michoacán continuarán en su encargo hasta en tanto se realicen las designaciones a que refiere el transitorio Noveno del Decreto Legislativo por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos en materia político electoral, publicado en el Diario Oficial de la Federación con fecha 10 de febrero de 2014.
+TERCERO. Las personas que se dediquen a la actividad regulada por este Reglamento, y no cuenten con el permiso correspondiente, dispondrán de un término improrrogable de 30 días naturales, contados a partir del siguiente al de la publicación de este Reglamento en el Periódico Oficial del Estado, para que presenten la solicitud respectiva debidamente requisitada a la Jefatura de Inspectores y Permisos, en la inteligencia de que de no hacerlo se harán acreedores a las sanciones previstas en este Reglamento.
 
-CUARTO. Por única ocasión, el proceso electoral ordinario local correspondientes (sic) a las elecciones que tendrán lugar el primer domingo de junio del año 2015 iniciará en la primera semana del mes de octubre del año 2014. Para tal efecto el Instituto Electoral de Michoacán aprobará los ajustes necesarios a los plazos establecidos en el presente Código.
+Es dado en el Salón de Sesiones del R. Ayuntamiento de Apodaca, Nuevo León a los 11 días del mes de Noviembre de mil novecientos noventa y tres.
 
-QUINTO. La celebración de las elecciones que se verifiquen en el año 2018 se llevarán (sic) a cabo el primer domingo del mes de julio, conforme al artículo quinto transitorio contenido en la reforma que en materia político electoral se hiciera a la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+C.P. RAYMUNDO FLORES ELIZONDO
 
-SEXTO. Las funciones correspondientes a la fiscalización, capacitación electoral, así como la ubicación de las casillas y la designación de funcionarios de la mesa directiva, en los procesos electorales locales, delegadas al Instituto Electoral de Michoacán por virtud de la publicación del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político-electoral, se mantendrán delegadas hasta en tanto no sean reasumidas por el Consejo General del Instituto Nacional Electoral, en términos del Octavo Transitorio de dicho decreto.
+Presidente Municipal
 
-SÉPTIMO. En lo correspondiente a facilitar a los órganos de comités distritales y municipales, a los partidos políticos y a los representantes de candidatos independientes la información sobre seccionamiento y lista nominal de electores, hasta en tanto no se determine procedimiento por el Instituto Nacional Electoral, el Consejo General del Instituto Electoral de Michoacán determinará lo correspondiente.
+LIC. ROEL GUAJARDO CANTU
 
-OCTAVO. (DEROGADO, P.O. 25 DE ENERO DE 2017)
-
-NOVENO. Para efectos de lograr una norma que precise de manera más amplia sobre los criterios sustantivos y de procedimiento que regulen el sistema de elección por usos y costumbres, el Congreso desarrollará un proceso de consulta a los pueblos y comunidades indígenas del Estado, bajo los principios que regula el Derecho Internacional de los Derechos Humanos, en particular los de la materia, este proceso debe desarrollarse dentro de los noventas días contados a partir de que sea vigente la normatividad que regule el derecho de consulta a los pueblos indígenas. Éste último, deberá aprobarse dentro de los ciento veinte días siguientes de la publicación del presente decreto.
-
-DÉCIMO. Se abroga el Código Electoral del Estado de Michoacán publicado con fecha 30 de noviembre del 2012, en el Periódico Ocampo (sic).
-
-DÉCIMO PRIMERO. Notifíquese el presente Decreto a los Titulares de los poderes Ejecutivo y Judicial, de los Órganos Constitucionales Autónomos y los Ayuntamientos, todos del Estado de Michoacán de Ocampo, así como al Instituto Nacional Electoral y la Presidencia de las Cámaras del Congreso de la Unión, para su conocimiento.
-
-El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
-
-DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 27 veintisiete días del mes de junio de 2014 dos mil catorce.
-
-ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN”.- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. ALFONSO JESÚS MARTÍNEZ ALCÁZAR.- PRIMER SECRETARIO.- DIP. JOSÉ ELEAZAR APARICIO TERCERO.- SEGUNDA SECRETARIA.- DIP. DANIELA DE LOS SANTOS TORRES.- TERCER SECRETARIO.- DIP. CÉSAR MORALES GAYTÁN. (Firmados).
-
-En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 29 veintinueve días del mes de junio del año 2014 dos mil catorce.
-
-SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR SUBSTITUTO DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARIO OSEGUERA MÉNDEZ. (Firmados).
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 23 DE JUNIO DE 2016.
+Secretario del R. Ayuntamiento
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 152 POR EL QUE “SE REFORMAN LAS FRACCIONES I Y II, Y SE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 298, ASÍ COMO REFORMA LA FRACCIÓN II DEL ARTÍCULO 314 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
