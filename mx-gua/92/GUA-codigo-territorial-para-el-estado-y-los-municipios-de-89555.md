@@ -4,7 +4,7 @@ identifier: "GUA-codigo-territorial-para-el-estado-y-los-municipios-de-89555"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-25"
-last_updated: "2026-03-18"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -4947,6 +4947,12 @@ c) Exista falsedad en la información proporcionada por el solicitante.
 
 En los casos en que el acuerdo del Ayuntamiento implique el cambio del uso del suelo, se seguirá el procedimiento previsto en las fracciones III a X del artículo 58 del Código.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Restricción para autorizar el cambio de uso de suelo o la expedición del permiso
+
+Artículo 262 bis. No se autorizará el cambio de uso de suelo o la expedición del permiso, cuando se trate de terrenos incendiados en áreas naturales protegidas y zonas de restauración, de acuerdo con los instrumentos vigentes de planeación, tala ilegal o desmonte sin que haya pasado un periodo de 20 años y su regeneración se haya acreditado.
+
 Vigencia del permiso de uso de suelo
 
 ###### Artículo 263.
@@ -9436,3 +9442,11 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Adecuación normativa
 
 Artículo Segundo. Los ayuntamientos deberán realizar las adecuaciones a los reglamentos respectivos dentro de los ciento ochenta días siguientes a la publicación del presente Decreto.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 192, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONA UN ARTÍCULO 262 BIS AL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
