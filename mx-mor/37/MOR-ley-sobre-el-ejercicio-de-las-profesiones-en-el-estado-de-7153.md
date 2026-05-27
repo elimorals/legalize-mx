@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-el-ejercicio-de-las-profesiones-en-el-estado-de-7153"
 country: "mx"
 rank: "ley"
 publication_date: "1968-01-03"
-last_updated: "2026-02-18"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 3 de enero de 1968.
 
@@ -311,11 +311,31 @@ El mandato para asunto judicial, administrativo o contencioso-administrativo det
 
 El acusado penalmente podrá ser oído en defensa por sí o por medio de persona de su confianza, o por ambos, según su voluntad; pero si ésta no es Licenciado en Derecho, deberá designar a uno o a varios con título registrado, y si no hace uso de este derecho, el juez de la causa le nombrará al defensor de oficio; en los términos del artículo 20 fracción IX de la Constitución General de la República.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 29.
 
-Los pasantes de las distintas actividades profesionales podrán ejercer la práctica por el término de tres años; previa autorización de la Oficina de Profesiones, a la que se le comprobará con informes de la facultad o escuela correspondiente la capacidad y buena conducta de los estudiantes, así como que han terminado sus estudios y que tan sólo les falta la presentación de sus exámenes profesionales.
+Las personas pasantes de las distintas actividades profesionales podrán ejercer la práctica correspondiente por un término que no exceda de tres años.
 
-En cada caso, se le extenderá al interesado una credencial en que figuren datos de identificación, el tiempo de validez del permiso y otras más que se considere conveniente para el desarrollo de su trabajo.
+Para tales efectos, se requerirá autorización previa de la Dirección de Profesiones, ante la cual deberá acreditarse la capacidad y buena conducta de la persona pasante mediante los informes que emita la facultad o escuela correspondiente.
+
+En cada caso, la Dirección de Profesiones expedirá una credencial que contendrá los datos de identificación de la persona pasante, el periodo de vigencia y los requisitos que la autoridad estime necesarios para el adecuado desarrollo de la práctica profesional. Concluido el plazo de tres años, tanto la autorización como la credencial perderán su vigencia de pleno derecho.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+ARTICULO 29 BIS.- Para obtener la autorización para realizar práctica profesional en calidad de persona pasante, se deberán cumplir los siguientes requisitos:
+
+I. Constancia emitida por la institución educativa correspondiente o por la unidad administrativa estatal competente en materia de profesiones, en la que se acredite alguno de los supuestos siguientes:
+
+a) Contar con un avance mínimo del ochenta por ciento de los créditos totales del plan de estudios, indicando el semestre que se cursa, así como las fechas de inicio y término del mismo;
+
+b) Haber concluido en su totalidad los estudios correspondientes, precisando la fecha de conclusión, o
+
+c) El promedio general mínimo aprobatorio que la institución educativa determine como requisito para la permanencia y egreso regular del estudiantado.
+
+II. Carta responsiva otorgada por una persona profesionista que cuente con título y cédula profesional debidamente registrados, que ejerza la misma carrera de la persona pasante, debiendo anexarse copia de la cédula profesional correspondiente.
+
+Se exceptúa del cumplimiento de los requisitos previstos en las fracciones anteriores a quienes cuenten con certificado total de estudios, quienes únicamente deberán presentar dicho documento para la expedición de la autorización y la credencial respectivas.
 
 ###### ARTICULO 30.
 
@@ -718,3 +738,13 @@ P.O. 18 DE FEBRERO DE 2026.
 PRIMERA. Remítase el presente decreto a la Gobernadora Constitucional del Estado, para que se publique en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos, de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+P.O. 27 DE MAYO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CIENTO CUARENTA Y DOS POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS Y LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente decreto a la Persona Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos; lo anterior, conforme a lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos, y el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se contrapongan al presente Decreto.
