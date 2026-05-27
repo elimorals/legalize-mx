@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-seguridad-escolar-para-el-estado-de-chihuahua-40693"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-31"
-last_updated: "2025-11-26"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 31 de julio de 2004.
 
@@ -519,6 +519,28 @@ c) Forma y tiempo en que deberán ser devueltas a sus propietarios las posesione
 
 d) Causas y motivos de infracciones, así como sus sanciones.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE MAYO DE 2026)</small>
+
+### Capítulo V Bis. Del Contenido Mínimo de los Protocolos de Protección a las Personas Trabajadoras de la Educación
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+###### Artículo 32 Bis.
+
+La Secretaría de Educación y Deporte establecerá los Protocolos de actuación y acompañamiento para prevenir, atender y canalizar cualquier tipo de agresión, acoso o violencia que afecte a las personas trabajadoras de la educación en el ejercicio de sus funciones, incluyendo aquellas conductas que pudieran provenir de alumnas, alumnos, madres, padres de familia o tutores, que deberán cubrir como mínimo lo siguiente:
+
+I. Garantizar la seguridad e integridad de niñas, niños, adolescentes y personal que forman parte de las comunidades escolares, atendiendo a las particularidades regionales y a las condiciones de accesibilidad a recursos tecnológicos.
+
+II. Establecer medidas inmediatas y proporcionales para atender hechos de violencia, accidentes, agresiones sexuales u otras situaciones de riesgo, dentro o fuera del entorno escolar, que involucren a miembros de la comunidad educativa, considerando las características de ubicación, nivel educativo, funciones específicas de las personas trabajadoras de la educación, así como las particularidades que pudieran suponer una barrera de acceso a las mismas.
+
+III. Establecer mecanismos de actuación que respeten en todo momento el debido proceso, la presunción de inocencia, los derechos humanos y laborales del personal educativo, ante la posible existencia de denuncias infundadas, maliciosas o sin sustento.
+
+IV. Garantizar la atención legal, psicológica y administrativa y gremial adecuada e inmediata, tanto a las presuntas víctimas como a los trabajadores señalados, con enfoque diferenciado y perspectiva de derechos humanos, evitando ejercer acciones, medidas y/o sanciones que resulten coercitivas.
+
+V. Crear una instancia formal, dentro de la autoridad educativa federal y local, que brinde a las y los trabajadores de la educación asesoría, acompañamiento y un mecanismo seguro y confiable para interponer quejas o denuncias anónimas relacionadas con la vulnerabilidad de sus derechos humanos y laborales con un enfoque integral, imparcial y con seguimiento pertinente, aprovechando en la medida de lo posible, las plataformas y medios existentes que faciliten el flujo y difusión de información.
+
+VI. Promover la capacitación periódica de las autoridades escolares sobre el manejo de conflictos, actuación ante denuncias, canales institucionales y garantías laborales.
+
 ### Capítulo VI. De la Observancia de esta Ley
 
 ###### Artículo 33.
@@ -672,3 +694,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Hacienda, destinará, en la medida financiera posible, una partida presupuestal suficiente para garantizar el costo de las capacitaciones que se impartirán al personal que asignen las autoridades educativas, para los efectos previstos en el presente Decreto.
 
 TERCERO.- La Secretaría de Educación y Deporte del Estado deberá emitir las disposiciones reglamentarias correspondientes dentro de los 90 días naturales siguientes a la entrada en vigor del presente Decreto, a fin de establecer los criterios y lineamientos necesarios para la aplicación de lo dispuesto en el artículo 4, fracción X, tercer párrafo, de la Ley de Seguridad Escolar para el Estado de Chihuahua.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFLEY/0474/2026 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE CHIHUAHUA Y A LA LEY ESTATAL DE EDUCACIÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Protocolo deberá ser elaborado y publicado por la Secretaría de Educación y Deporte, con la participación de las trabajadoras y trabajadores de la educación, de todas las regiones del Estado, convocados de manera general por las supervisiones escolares, sindicatos magisteriales, quienes integran la Comisión de Educación, Cultura Física y Deporte de la Sexagésima Octava Legislatura, organismos de derechos humanos y organizaciones especializadas, dentro de los 90 días hábiles posteriores a la publicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Háganse llegar los insumos recabados por la Comisión de Educación, Cultura Física y Deporte al Poder Ejecutivo del Estado de Chihuahua, por conducto de la Secretaría de Educación y Deporte, a efecto de que sean tomados en cuenta para la elaboración del Protocolo.
