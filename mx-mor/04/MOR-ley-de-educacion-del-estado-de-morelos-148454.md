@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-148454"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-17"
-last_updated: "2026-01-21"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el número 5926 del Periódico Oficial del Estado de Morelos, el miércoles 17 de marzo de 2021.
 
@@ -1293,9 +1293,13 @@ En la impartición de la educación media superior con preparación de conocimie
 
 La educación superior es el último esquema de la prestación de los servicios educativos para la cobertura universal, y es el servicio que se imparte en sus distintos niveles, después del tipo medio superior. Está compuesta por la licenciatura, el Técnico Superior Universitario, la especialidad, la maestría, el doctorado y posdoctorado, así como por opciones terminales previas a la conclusión de la licenciatura. Comprende también la educación normal en todos sus niveles y especialidades.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 110.
 
-Los Organismos Descentralizados, en el ámbito de sus competencias, establecerán políticas para fomentar la inclusión, continuidad y egreso oportuno de estudiantes inscritos en educación superior, poniendo énfasis en las y los jóvenes, y determinarán medidas que amplíen el ingreso y permanencia a toda aquella persona que, en los términos que señale la ley en la materia, decida cursar este tipo de estudios, tales como el establecimiento de mecanismos de apoyo académico y económico que responda a las necesidades de la población estudiantil. Las instituciones podrán incluir, además, opciones de formación continua y actualización para responder a las necesidades de la transformación del conocimiento y cambio tecnológico, procurando la aplicación de la formación dual que privilegia el aprendizaje práctico en el entorno real de trabajo de una empresa, en armonía con la formación teórica.
+Los Organismos Descentralizados, en el ámbito de sus competencias, establecerán políticas para fomentar la inclusión, continuidad, egreso y titulación oportuna de estudiantes inscritos en educación superior, poniendo énfasis en las y los jóvenes, y determinarán medidas que amplíen el ingreso y permanencia a toda aquella persona que, en los términos que señale la ley en la materia, decida cursar este tipo de estudios, tales como el establecimiento de mecanismos de apoyo académico y económico que responda a las necesidades de la población estudiantil. Las instituciones podrán incluir, además, opciones de formación continua y actualización para responder a las necesidades de la transformación del conocimiento y cambio tecnológico, procurando la aplicación de la formación dual que privilegia el aprendizaje práctico en el entorno real de trabajo de una empresa, en armonía con la formación teórica.
+
+Además de lo previsto en el presente ordenamiento, las instituciones de educación superior deberán implementar programas permanentes que incluyan, al menos dos veces al año, campañas de información dirigidas a sus personas egresadas, con la finalidad de promover la realización oportuna de los trámites de titulación, así como la obtención de la cédula profesional correspondiente, conforme a la normativa aplicable.
 
 ###### ARTÍCULO 111.
 
@@ -2604,3 +2608,13 @@ P.O. 21 DE ENERO DE 2026.
 PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos; lo anterior, conforme a lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos, y el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
 
 SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 27 DE MAYO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CIENTO CUARENTA Y DOS POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS Y LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente decreto a la Persona Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos; lo anterior, conforme a lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos, y el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se contrapongan al presente Decreto.
