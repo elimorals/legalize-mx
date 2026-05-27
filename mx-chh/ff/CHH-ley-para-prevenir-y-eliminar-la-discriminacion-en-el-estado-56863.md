@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-568
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-07"
-last_updated: "2025-07-09"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 7 de julio de 2007.
 
@@ -157,7 +157,9 @@ I. Impedir el acceso a la educación pública o privada, obstaculizar el acceso 
 
 II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad, que difundan o induzcan una condición de subordinación, que repliquen roles de género o que carezcan de sustento científico;
 
-III. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo. En el caso de las mujeres, condicionar las oportunidades referidas a la realización en cualquier momento de pruebas de gravidez o embarazo;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+III. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo, incluyendo el diseño e implementación de procedimientos de selección o el establecimiento de requisitos que carezcan de justificación objetiva, racional y proporcional, o que no estén directamente vinculados con el perfil y las tareas inherentes al puesto de trabajo. En el caso de las mujeres, condicionar las oportunidades referidas a la realización en cualquier momento de pruebas de gravidez o embarazo;
 
 IV. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
 
@@ -950,3 +952,11 @@ P.O. 9 DE JULIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0484/2026 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 9, SEGUNDO PÁRRAFO, FRACCIÓN III, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
