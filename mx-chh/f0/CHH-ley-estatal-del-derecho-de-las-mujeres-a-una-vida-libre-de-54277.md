@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2024-10-19"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -795,7 +795,13 @@ X. Evaluar y considerar la eficacia del Programa, con base en los resultados de 
 
 XI. Garantizar que las pláticas prematrimoniales que se imparten a través del Consejo Estatal de Población, con relación a la violencia de género, se realicen de manera clara, amplia, eficaz y con perspectiva de género; y
 
-XII. Las demás que esta Ley y otros ordenamientos aplicables le confieran.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XII. Garantizar el cumplimiento de los programas y protocolos para eliminar, combatir y erradicar la violencia laboral al interior de las dependencias, instituciones y órganos del Poder Ejecutivo Estatal.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XIII. Las demás que esta Ley y otros ordenamientos aplicables le confieran.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2024)</small>
 
@@ -973,11 +979,23 @@ XVIII. Promover, proteger, respetar y garantizar el ejercicio de los derechos hu
 
 XIX. Las demás previstas para el cumplimiento de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
 
 ###### Artículo 31.
 
-(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
+Corresponde a la Secretaría de Seguridad Pública:
+
+I. Diseñar la política integral para la prevención, detección y atención de delitos violentos cometidos contra las mujeres, en los ámbitos público y privado;
+
+II. Promover la creación, en coordinación con los Municipios, de Unidades Especializadas de Policía en materia de violencia contra las mujeres, que conozcan, operen y atiendan, por lo menos, lo siguiente:
+
+A. Mecanismos y Protocolos de Reacción Inmediata.
+
+B. Ejecución de Medidas de Protección ordenadas por parte del Agente del Ministerio Público y, en su caso, ratificadas o modificadas por personas juzgadoras.
+
+C. Capacidad de actuación en todo el Estado, enfáticamente en los municipios donde esté vigente la Alerta de Violencia de Género.
+
+D. Estrategias coordinadas para gestión de datos estadísticos en los casos atendidos por la unidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -1027,9 +1045,23 @@ XV. Elaborar y aplicar protocolos de actuación en casos de acoso, hostigamiento
 
 XVI. Las demás previstas para el cumplimiento de esta Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
 ###### Artículo 33.
 
-(DEROGADO, P.O. 29 DE JUNIO DE 2016)
+Corresponde a la Secretaría del Trabajo y Previsión Social:
+
+I. Promover políticas, programas y acciones enfocadas al respeto y garantía de los derechos humanos de las mujeres en el ámbito laboral, así como aquellas que fomenten el desarrollo de sus capacidades, competencias y habilidades en el desempeño laboral.
+
+II. Supervisar, en el ámbito de su competencia, el cumplimiento de las normas de trabajo relativas a la igualdad sustantiva entre hombres y mujeres en los términos que establece la Ley Federal del Trabajo.
+
+III. Promover campañas permanentes orientadas a difundir los derechos de las trabajadoras y las obligaciones de las personas empleadoras, así como a fomentar la sensibilización sobre la violencia contra las mujeres y la importancia de su denuncia oportuna.
+
+IV. Promover la realización de estudios estadísticos e investigaciones sobre la situación de las mujeres en el trabajo que permitan la formulación de políticas públicas para garantizar su acceso al trabajo en condiciones de igualdad, dignidad y el ejercicio pleno de sus derechos laborales.
+
+V. Implementar programas de apoyo al empleo, favoreciendo la participación de mujeres víctimas de violencia.
+
+VI. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 34.
 
@@ -1085,7 +1117,17 @@ VI. Elaborar programas de sensibilización y proyectos culturales que promuevan 
 
 VII. Promover la participación de organismos públicos, privados y de la sociedad civil en programas y acciones de apoyo a las víctimas de violencia familiar y por razones de género.
 
-VIII. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+VIII. Dictar, a través de los Tribunales de Arbitraje Municipal, las providencias cautelares a las que se refiere la Ley Federal del Trabajo.
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2026)</small>
+
+IX. Garantizar el cumplimiento de providencias cautelares dictadas por el Tribunal de Arbitraje Municipal o, en su caso, por autoridades jurisdiccionales que soliciten el apoyo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2026)</small>
+
+X. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2020)</small>
 
@@ -1126,6 +1168,22 @@ VIII. Sancionar, de acuerdo con la normatividad aplicable, las conductas que con
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2020)</small>
 
 IX. Las demás que establezcan esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Artículo 35 TER.- Corresponde a la Secretaría de la Función Pública, en el ámbito de su competencia:
+
+I. Elaborar y aplicar protocolos para eliminar, combatir y erradicar la violencia laboral al interior de las dependencias, instituciones y órganos del Poder Ejecutivo Estatal.
+
+II. Implementar acciones conjuntas con las unidades de género y los órganos internos de control para asegurar la correcta aplicación de los protocolos previstos en la fracción anterior, bajo principios de confidencialidad, imparcialidad y protección a las víctimas.
+
+III. Recibir, tramitar e investigar las denuncias o quejas relacionadas con actos de violencia económica, acoso o hostigamiento sexual cometidos por personas servidoras públicas del Poder Ejecutivo Estatal, de conformidad con la normativa aplicable en materia de responsabilidades administrativas.
+
+IV. Dictar medidas preventivas y de protección inmediatas para salvaguardar la integridad, dignidad y derechos de las personas denunciantes, testigos y víctimas, conforme a los principios de legalidad, proporcionalidad y debido proceso.
+
+V. Emitir recomendaciones administrativas y, en su caso, turnar los expedientes a las instancias competentes cuando los hechos puedan constituir delitos o violaciones graves a derechos humanos.
+
+VI. Las demás que le confieran esta Ley, la Ley Orgánica del Poder Ejecutivo, su Reglamento Interno y disposiciones aplicables.
 
 ### CAPÍTULO SEXTO. DE LA PREVENCIÓN DE LA VIOLENCIA FAMILIAR Y LA ASISTENCIA A SUS VICTIMAS
 
@@ -1718,3 +1776,15 @@ P.O. 19 DE OCTUBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFLEY/0493/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal contará con un plazo de 60 días hábiles posteriores a la fecha en que entre en vigor el presente Decreto, a fin de publicar el protocolo al que se refiere la fracción XII del artículo 27 de esta Ley.
