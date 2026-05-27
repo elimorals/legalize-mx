@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2026-05-13"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -2471,13 +2471,11 @@ VII.- A las personas que hubieren acogido a los expósitos; y
 
 VIII.- A los directores de instituciones de beneficencia, asistencia o similares quienes no requerirán discernimiento del cargo.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 275.
 
-ELECCIÓN DEL TUTOR EN CASO DE IGUALDAD DE PARENTESCO. Si hubiere varios parientes del mismo grado, y entre ellos se discutiere la preferencia en el desempeño de la tutela, el Juez elegirá, al que de ellos le parezca más apto para el cargo, a menos que el menor de dieciocho, pero mayor de dieciséis años, lleve a cabo la elección; en todos los casos se procurará escuchar la opinión de la niña, niño o adolescente.
-
-Cuando haya dos o más hijos, el Juez elegirá al que le parezca más apto y podrá ser preferido el que viva en compañía del padre o de la madre.
+ELECCIÓN DEL TUTOR EN CASO DE IGUALDAD DE PARENTESCO.- Si hubiere varios parientes del mismo grado, y entre ellos se discutiere la preferencia en el desempeño de la tutela, el Juez elegirá al que de ellos le parezca más apto para el cargo, procurando escuchar al menor de dieciocho años, en caso de que éste sea mayor de doce años, podrá llevar a cabo la elección velando siempre por el interés superior del menor.
 
 ###### ARTÍCULO 276.
 
@@ -7418,3 +7416,11 @@ SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publi
 TERCERA. El presente decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan al presente decreto.
 
 CUARTA. Publíquese en la Gaceta Legislativa de este Congreso.
+
+P.O. 27 DE MAYO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO MIL CIENTO VEINTIOCHO POR EL CUAL SE REFORMA EL ARTÍCULO 275 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
