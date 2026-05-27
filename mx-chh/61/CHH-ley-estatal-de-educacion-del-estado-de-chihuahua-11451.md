@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2026-01-24"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -142,6 +142,10 @@ Los jóvenes recibirán obligatoriamente una orientación vocacional gratuita y 
 El Estado, a través de la Autoridad Educativa Estatal, está obligado a impartir los servicios educativos de preescolar, primaria y secundaria a toda la población; además, podrá promover y atender directamente, o con los organismos descentralizados, a través de apoyos financieros o bien, por cualquier otro medio, los otros niveles, tipos o modalidades educativos. Así como apoyar la investigación científica y tecnológica y alentar el fortalecimiento y la difusión de la cultura regional, estatal, nacional y universal.
 
 Los pueblos y comunidades indígenas, tendrán acceso a la educación obligatoria intercultural y bilingüe.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+El Estado deberá garantizar el Derecho Humano a la Educación en los Centros de Reinserción Social para Adolescentes Infractores del Estado, mediante la coordinación entre las diversas dependencias intervinientes, así como la celebración de convenios con particulares para la implementación de programas de educación básica, media superior y formación técnica. Dichos programas deberán estar diseñados de tal forma que se posibilite en todo momento la continuidad y conclusión de los estudios de las y los adolescentes una vez completado su proceso de internamiento.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -738,6 +742,14 @@ Igualmente procurará, en todos los tipos, niveles y modalidades, desarrollar ha
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2025)</small>
 
 El Estado promoverá progresivamente la presencia de personal especializado en atención psicológica en los centros educativos, priorizando zonas de riesgo.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Corresponde a la autoridad educativa, garantizar en todo momento la defensa de la dignidad, el honor, la seguridad, la estabilidad laboral y emocional de las personas trabajadoras de la educación.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+En los casos en donde se violente la esfera de derechos de las y los trabajadores de la educación, corresponderá a la autoridad educativa brindar asesoría y acompañamiento jurídico y, en su caso, psicológico, activando para tal efecto, los protocolos generados en los términos del Capítulo V BIS, de la Ley de Seguridad Escolar para el Estado de Chihuahua.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1490,6 +1502,14 @@ Los Departamentos de Educación Especial diseñarán programas factibles de apli
 ###### ARTÍCULO 54.
 
 La educación especial brindará su atención basándose en el currículum de la educación regular. Sus peculiaridades consistirán en adecuaciones, adiciones, mecanismos de colaboración y trabajo corresponsable que puedan ser aplicados en el sistema educativo o en otros ámbitos, partiendo del conocimiento del individuo en interacción con su contexto y de las necesidades que presente.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+La Autoridad Educativa Estatal establecerá mecanismos para la detección y, en su caso, la evaluación diagnóstica, de educandos con aptitudes y destrezas sobresalientes. Se procurará, por todos los actores involucrados en el proceso educativo, la prestación de una educación que potencialice, estimule e impulse las aptitudes destacadas de los educandos. Los esfuerzos y acciones en la materia, serán en fortalecimiento del derecho al libre desarrollo de la personalidad, atendiendo a los intereses, necesidades y anhelos de los educandos.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+El oportuno desarrollo de aptitudes y destrezas sobresalientes de los educandos se asumirá, por la Autoridad Educativa Estatal, con diligencia y tenacidad, actuando en primera instancia, acorde a la legislación aplicable, en lo que le corresponda y competa, así como participando y concurriendo en lo conducente con la Autoridad Educativa Federal. Lo anterior, se robustecerá, alentando la participación ciudadana y del sector empresarial, promoviendo la colaboración interinstitucional, pudiendo para ello, convenir, gestionar o coordinarse con instituciones académicas, de educación superior, con las dedicadas a los avances científicos, tecnológicos y artísticos, así como con todas aquellas organizaciones que, objetivamente, puedan favorecer el adecuado desarrollo y focalización de las aptitudes o destrezas sobresalientes.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -4898,5 +4918,33 @@ P.O. 24 DE ENERO DE 2026.
 P.O. 24 DE ENERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0307/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 8, LA FRACCIÓN XXXI, DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFLEY/0474/2026 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE CHIHUAHUA Y A LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Protocolo deberá ser elaborado y publicado por la Secretaría de Educación y Deporte, con la participación de las trabajadoras y trabajadores de la educación, de todas la regiones del Estado, convocados de manera general por las supervisiones escolares, sindicatos magisteriales, quienes integran la Comisión de Educación, Cultura Física y Deporte de la Sexagésima Octava Legislatura, organismos de derechos humanos y organizaciones especializadas, dentro de los 90 días hábiles posteriores a la publicación del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Háganse llegar los insumos recabados por la Comisión de Educación, Cultura Física y Deporte al Poder Ejecutivo del Estado de Chihuahua, por conducto de la Secretaría de Educación y Deporte, a efecto de que sean tomados en cuenta para la elaboración del Protocolo.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0486/2026 II P.O., MEDIANTE EL CUAL SE ADICIONAN AL ARTÍCULO 54, LOS PÁRRAFOS SEGUNDO Y TERCERO, DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0487/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 4, UN TERCER PÁRRAFO, DE LA LEY ESTATAL DE EDUCACIÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
