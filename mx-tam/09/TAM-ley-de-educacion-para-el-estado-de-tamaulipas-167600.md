@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-167600"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-23"
-last_updated: "2026-04-14"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en la Edición Vespertina Número 101 del Periódico Oficial del Estado de Tamaulipas, el miércoles 23 de agosto de 2023.
 
@@ -62,6 +62,16 @@ La distribución de la función social educativa se funda en la obligación de c
 ###### ARTÍCULO 3.
 
 La autoridad educativa estatal fomentará la participación de los educandos, madres y padres de familia o tutores, maestras y maestros, así como de los distintos actores involucrados en el proceso educativo y, en general, de todo el Sistema Educativo Estatal, para asegurar que éste extienda sus beneficios a todos los sectores sociales y regiones de la entidad federativa, a fin de contribuir al desarrollo económico, social y cultural de sus habitantes.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+ARTÍCULO 3 BIS.
+
+1.- El Estado, a través de la Secretaría de Educación y en coordinación con la Secretaría de Bienestar Social, los municipios, las instituciones educativas y la sociedad civil, fomentará la educación artística y cultural como componente esencial de la formación integral de las y los educandos. Para tal efecto, se promoverá la realización sistemática de actividades, talleres, cursos, exposiciones y eventos en todas las disciplinas artísticas.
+
+2.- En este marco, se garantizará la utilización preferente, programada y accesible de los espacios culturales y educativos del Estado, tales como bibliotecas, teatros, museos y centros culturales, a fin de facilitar el acceso y la participación de la comunidad estudiantil y de la sociedad en general.
+
+3.- Durante el mes de abril de cada año, declarado como Mes del Arte en el Estado de Tamaulipas, las autoridades educativas coordinarán un programa anual de acciones que visibilice el talento local, promueva la formación artística y fomente la vinculación entre escuelas y espacios culturales.
 
 ###### ARTÍCULO 4.
 
@@ -111,7 +121,9 @@ Para el cumplimiento de los fines y criterios previstos en esta Ley y de conform
 
 4.- La obligatoriedad de la educación superior corresponde al Estado en los términos dispuestos por el artículo 3o. Constitucional y las leyes en la materia.
 
-5.- Además de impartir educación en los términos establecidos en la Constitución Política del Estado de Tamaulipas, la autoridad educativa estatal apoyará la investigación e innovación científica, humanística y tecnológica, y alentará el fortalecimiento y la difusión de la cultura estatal, nacional y universal, en los términos que las leyes en la materia determinen.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+5.- Además de impartir educación en los términos establecidos en la Constitución Política del Estado de Tamaulipas, la autoridad educativa estatal apoyará la investigación e innovación científica, humanística y tecnológica, asegurando la integración de herramientas como la Inteligencia Artificial para fortalecer los procesos de enseñanza-aprendizaje con base en criterios pedagógicos, éticos y conforme a los lineamientos establecidos por la autoridad educativa federal y alentará el fortalecimiento y la difusión de la cultura estatal, nacional y universal, en los términos que las leyes en la materia determinen.
 
 ### CAPÍTULO TERCERO. DE LA EDUCACIÓN EN EL ESTADO DE TAMAULIPAS
 
@@ -263,7 +275,11 @@ A través del Sistema Educativo Estatal se articularán y coordinarán los esfue
 
 ###### ARTÍCULO 17.
 
-El Sistema Educativo Estatal participará en la programación estratégica que se realice en el marco del Sistema Educativo Nacional para que la formación docente y directiva, la infraestructura, así como los métodos y materiales educativos, se armonicen con las necesidades de la prestación del servicio público de educación y contribuya a su mejora continua en el Estado de Tamaulipas.
+1.- El Sistema Educativo Estatal participará en la programación estratégica que se realice en el marco del Sistema Educativo Nacional para que la formación docente y directiva, la infraestructura, así como los métodos y materiales educativos, se armonicen con las necesidades de la prestación del servicio público de educación y contribuya a su mejora continua en el Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+2.- Para atender lo señalado en el párrafo anterior, se deberá incluir en el plan estatal de Desarrollo, en el ámbito educativo, un plan estratégico específico para la incorporación de tecnologías avanzadas, como la Inteligencia Artificial, promoviendo el uso responsable de éstas en el desarrollo académico de las y los estudiantes y en el fortalecimiento de la labor docente.
 
 ###### ARTÍCULO 18.
 
@@ -443,7 +459,9 @@ Las autoridades educativas respetarán el régimen jurídico de las universidade
 
 ###### ARTÍCULO 35.
 
-1.- En el Estado de Tamaulipas se reconoce el derecho de toda persona a gozar de los beneficios del desarrollo científico, humanístico, tecnológico y de la innovación, considerados como elementos fundamentales de la educación y la cultura.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+1.- En el Estado de Tamaulipas se reconoce el derecho de toda persona a gozar de los beneficios del desarrollo científico, humanístico, tecnológico y la innovación, considerados como elementos fundamentales de la educación y la cultura. Para tal efecto, podrán integrarse herramientas tecnológicas avanzadas, como la inteligencia artificial, que contribuyan a fortalecer los procesos de enseñanza-aprendizaje y a impulsar la innovación educativa.
 
 2.- Las autoridades educativas estatales y municipales, en el ámbito de su competencia, promoverán el desarrollo, la vinculación y divulgación de la investigación científica para el beneficio social y el desarrollo de las actividades productivas de Tamaulipas.
 
@@ -451,9 +469,11 @@ Las autoridades educativas respetarán el régimen jurídico de las universidade
 
 El fomento de la investigación, la ciencia, las humanidades, la tecnología y la innovación que realicen las autoridades educativas estatales y municipales se realizará de conformidad con lo establecido en la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación y la Ley de Fomento a la Investigación Científica y Tecnológica en el Estado de Tamaulipas.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 37.
 
-El desarrollo tecnológico y la innovación, asociados a la actualización, a la excelencia educativa y a la expansión de las fronteras del conocimiento se apoyará en las nuevas tecnologías de la información, comunicación, conocimiento y aprendizaje digital, mediante el uso de plataformas de acceso abierto.
+El desarrollo tecnológico y la innovación, asociados a la actualización, a la excelencia educativa y a la expansión de las fronteras del conocimiento, se apoyarán en las nuevas tecnologías de la información, comunicación, conocimiento y aprendizaje digital, mediante el uso de plataformas de acceso abierto, así como en el uso ético, responsable y evaluado por autoridades educativas competentes, de tecnologías avanzadas, como la Inteligencia Artificial, que contribuyan al progreso social, económico y cultural de Tamaulipas.
 
 ### CAPÍTULO SEXTO. DE LA EDUCACIÓN HUMANISTA
 
@@ -577,7 +597,9 @@ I.- El pensamiento lógico matemático y la alfabetización numérica;
 
 II.- La comprensión lectora, la expresión oral y escrita, con elementos de la lengua que permitan la construcción de conocimientos correspondientes a distintas disciplinas y favorezcan la interrelación entre ellos;
 
-III.- El conocimiento tecnológico, con el empleo de tecnologías de la información, comunicación, conocimiento y aprendizaje digital, manejo de diferentes lenguajes y herramientas de sistemas informáticos, y de comunicación;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+III.- El conocimiento tecnológico, orientado al desarrollo de competencias digitales, pensamiento crítico y ciudadanía responsable, mediante el uso de tecnologías de la información, comunicación, aprendizaje digital, manejo de diferentes lenguajes, herramientas informáticas; incluyendo la aplicación ética y responsable de tecnologías avanzadas, como la Inteligencia Artificial;
 
 IV.- El conocimiento científico, a través de la apropiación de principios, modelos y conceptos científicos fundamentales, empleo de procedimientos experimentales y de comunicación;
 
@@ -606,6 +628,12 @@ XII. La participación de las y los jóvenes en actividades de voluntariado dent
 ###### ARTÍCULO 50.
 
 Las maestras y los maestros acompañarán a los educandos en sus trayectorias formativas en los distintos tipos, niveles, modalidades y opciones educativas, propiciando la construcción de aprendizajes interculturales, tecnológicos, científicos, humanísticos, sociales, biológicos, comunitarios y plurilingües, para acercarlos a la realidad, a efecto de interpretarla y participar en su transformación positiva.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+ARTÍCULO 50 BIS.
+
+Para fortalecer la protección del entorno escolar, las autoridades educativas del Estado promoverán, en coordinación con la Secretaría de Salud, la capacitación en materia de primeros auxilios dirigida al personal directivo, docente y administrativos de las instituciones educativas públicos y privados. Dicha capacitación deberá impartirse, al menos, dos veces durante cada ciclo escolar e incluir contenidos teórico-prácticos sobre atención inmediata ante emergencias, con el objeto de salvaguardar la integridad física y emocional de la comunidad escolar.
 
 ###### ARTÍCULO 51.
 
@@ -657,7 +685,9 @@ II.- El conocimiento de la lecto-escritura y la literacidad, para un mejor aprov
 
 III.- El aprendizaje de la historia, la geografía, el civismo y la filosofía;
 
-IV.- El fomento de la investigación, la ciencia, la tecnología y la innovación, así como su comprensión, aplicación y uso responsables;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+IV.- El fomento de la investigación, la ciencia, la tecnología y la innovación, así como la incorporación de metodologías de aprendizaje digital y el uso ético y responsable de herramientas informáticas, incluyendo tecnologías avanzadas como la Inteligencia Artificial, cuando éstas contribuyan a fortalecer el proceso educativo y se encuentren alineadas con los fines formativos de los planes y programas de estudio;
 
 V.- El conocimiento y, en su caso, el aprendizaje de lenguas indígenas de nuestro país, la importancia de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas;
 
@@ -705,15 +735,21 @@ XXV.- Los demás necesarios para el cumplimiento de los fines y criterios de la 
 
 ### CAPÍTULO TERCERO. DE LAS TECNOLOGÍAS DE LA INFORMACIÓN, COMUNICACIÓN, CONOCIMIENTO Y APRENDIZAJE DIGITAL EN EL PROCESO EDUCATIVO
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 56.
 
-1.- En la educación que se imparta en el Estado de Tamaulipas, se utilizará el avance de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, con la finalidad de fortalecer los modelos pedagógicos de enseñanza aprendizaje, la innovación educativa, el desarrollo de habilidades y saberes digitales de los educandos, además del establecimiento de programas de educación a distancia y semi-presencial para cerrar la brecha digital y las desigualdades en la población.
+1.- En la educación que se imparta en el Estado de Tamaulipas, se promoverá el uso pedagógico de las tecnologías de la información, comunicación y aprendizaje digital, y el manejo de herramientas informáticas, como parte de un enfoque educativo integral e inclusivo; el uso de tecnologías avanzadas, como la Inteligencia Artificial, deberá ser ético, responsable y con fines formativos, contribuyendo al fortalecimiento de los modelos de enseñanza aprendizaje, la innovación educativa, el desarrollo de habilidades digitales y la implementación de programas de educación a distancia y semi-presencial, orientados a reducir la brecha digital y las desigualdades en la población.
 
-2.- Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos.
+2.- Las tecnologías de la información, comunicación, aprendizaje digital y herramientas informáticas, incluyendo tecnologías avanzadas, como la Inteligencia Artificial, se utilizarán como complemento de los demás materiales educativos, incluidos los libros de texto gratuitos. Su implementación deberá alinearse a los objetivos pedagógicos definidos en los planes y programas de estudio autorizados por la autoridad educativa.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 57.
 
-La Secretaría, en el ámbito de su competencia, promoverá la formación y capacitación de maestras y maestros para desarrollar las habilidades necesarias en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para favorecer el proceso educativo.
+1.- La Secretaría, en el ámbito de su competencia, promoverá la formación y capacitación de maestras y maestros para desarrollar las habilidades necesarias en el uso de las tecnologías de la información, comunicación, conocimiento, aprendizaje digital, manejo de distintos lenguajes y herramientas informáticas, como la aplicación ética y responsable de tecnologías avanzadas, como la Inteligencia Artificial para favorecer el proceso educativo.
+
+2.- Se garantizará que el acceso a la Inteligencia Artificial en las instituciones educativas sea inclusivo, respetando los principios de igualdad y no discriminación, mediante el desarrollo de proyectos educativos que incluyan plataformas y recursos digitales enfocados en atender las necesidades específicas de cada nivel educativo. Asimismo, se impulsará el diseño de un plan estratégico para la implementación progresiva de programas piloto en colaboración con instituciones de educación superior y centros de investigación, con el propósito de evaluar, fortalecer y replicar modelos de innovación educativa basados en el uso ético y responsable de la Inteligencia Artificial.
 
 ### CAPÍTULO CUARTO. DE LA GUÍA OPERATIVA PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS SERVICIOS DE EDUCACIÓN BÁSICA Y MEDIA SUPERIOR
 
@@ -887,7 +923,9 @@ VI.- Celebrar convenios de cooperación, coordinación y concertación con los s
 
 VII.- Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencia en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales;
 
-VIII.- Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+VIII.- Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento, aprendizaje digital, manejo y uso responsable de tecnologías avanzadas, como la Inteligencia Artificial, a fin de concientizar sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social;
 
 IX.- Concertar con las autoridades municipales, instancias de seguridad pública e integrantes de la comunidad en que esté ubicado el centro escolar, acciones para salvaguardar la integridad física y psicológica de la comunidad escolar, así como de la infraestructura educativa; y
 
@@ -961,7 +999,9 @@ Para ejercer la docencia en instituciones establecidas por las autoridades educa
 
 I.- La formación con nivel de licenciatura, de maestras y maestros de educación básica con los conocimientos y aptitudes necesarios para el aprendizaje y el desarrollo integral de los educandos;
 
-II.- La formación continua, la actualización de conocimientos de las humanidades, las artes, la ciencia, la tecnología e innovación y otras que contribuyan a la superación docente de las maestras y los maestros en servicio;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+II.- La formación continua, la actualización de conocimientos de las humanidades, las artes, la ciencia, la tecnología e innovación, así como en competencias digitales, incluyendo el aprendizaje digital, el uso pedagógico de herramientas informáticas y la aplicación ética y responsable de tecnologías avanzadas como la Inteligencia Artificial y otras que contribuyan a la superación docente de las maestras y los maestros en servicio;
 
 III.- La promoción de programas de especialización, maestría y doctorado para una orientación integral, adecuados a las necesidades, contextos regionales y locales de la prestación de los servicios educativos y de los recursos disponibles;
 
@@ -1029,7 +1069,9 @@ La formación inicial que imparten las escuelas normales del Estado de Tamaulipa
 
 1.- Los muebles e inmuebles destinados a la educación impartida por las autoridades educativas estatal y municipales; y por los particulares con autorización o con reconocimiento de validez oficial de estudios en el Estado de Tamaulipas, así como los servicios e instalaciones necesarios para proporcionar educación, forman parte del Sistema Educativo Estatal.
 
-2.- Dichos muebles e inmuebles deberán cumplir con los requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, resiliencia, pertinencia, integralidad, accesibilidad, inclusividad e higiene, incorporando los beneficios del desarrollo de la ciencia y la innovación tecnológica, para proporcionar educación de excelencia, con equidad e inclusión, conforme a los lineamientos que para tal efecto emita la autoridad educativa federal.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+2.- Dichos muebles e inmuebles deberán cumplir con los requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, resiliencia, pertinencia, integralidad, accesibilidad, inclusividad e higiene, incorporando los beneficios del desarrollo de la ciencia y la innovación tecnológica, en particular aquellos relacionados con el acceso a recursos digitales y tecnológicos que faciliten el aprendizaje, con equidad e inclusión, conforme a los lineamientos que para tal efecto emita la autoridad educativa federal.
 
 3.- La Secretaría coadyuvará con la autoridad educativa federal para mantener actualizado el Sistema Nacional de Información de la Infraestructura Física Educativa, a fin de realizar sobre ésta, diagnósticos y definir acciones de prevención en materia de seguridad, protección civil y de mantenimiento de los muebles o inmuebles que se destinen al servicio educativo.
 
@@ -1191,15 +1233,21 @@ VII.- Otorgar, negar y retirar el reconocimiento de validez oficial a estudios d
 
 VIII.- Editar libros y producir otros materiales educativos, distintos de los señalados en la fracción IV del artículo 113 de la Ley General de Educación, apegados a los fines y criterios establecidos en el artículo 3o. Constitucional y para el cumplimiento de los planes y programas de estudio autorizados por la autoridad educativa federal;
 
-IX.- Fomentar la prestación de servicios bibliotecarios a través de las bibliotecas públicas a cargo de la Secretaría de Cultura Federal y demás autoridades competentes, a fin de apoyar al Sistema Educativo Estatal, a la innovación educativa y a la investigación científica, tecnológica y humanística, incluyendo los avances tecnológicos que den acceso al acervo bibliográfico, con especial atención a personas con discapacidad;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-X.- Promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, fomentar su enseñanza, su expansión y divulgación en acceso abierto, cuando el conocimiento científico y tecnológico sea financiado con recursos públicos o se haya utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
+IX.- Fomentar la prestación de servicios bibliotecarios a través de las bibliotecas públicas a cargo de la Secretaría de Cultura Federal y demás autoridades competentes, a fin de apoyar al Sistema Educativo Estatal, a la innovación educativa y a la investigación científica, tecnológica y humanística, incluyendo los avances tecnológicos que den acceso al acervo bibliográfico, incluyendo herramientas digitales, lenguajes informáticos y tecnologías avanzadas como la Inteligencia Artificial, en un marco de inclusión y accesibilidad para toda la comunidad;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+X.- Promover la investigación y el desarrollo de la ciencia, la tecnología, la innovación, incluyendo el aprendizaje digital, el uso de herramientas informáticas y el impulso ético y responsable de tecnologías emergentes, fomentar su enseñanza, su expansión y divulgación en acceso abierto, cuando el conocimiento científico y tecnológico sea financiado con recursos públicos o se haya utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
 
 XI.- Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones, incluido el deporte adaptado para personas con discapacidad;
 
 XII.- Promover y desarrollar en el ámbito de su competencia las actividades y programas relacionados con el fomento de la lectura y el uso de los libros, de acuerdo con lo establecido en la ley de la materia;
 
-XIII.- Fomentar el uso responsable y seguro de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el sistema educativo, para apoyar el aprendizaje de los estudiantes, ampliar sus habilidades digitales para la selección y búsqueda de información;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+XIII.- Fomentar el uso ético, responsable y seguro de las tecnologías de la información, comunicación, aprendizaje digital y herramientas informáticas, incluyendo tecnologías avanzadas como la Inteligencia Artificial, para apoyar los procesos de enseñanza-aprendizaje y fortalecer las habilidades digitales de las y los estudiantes en la búsqueda, selección y uso crítico de la información;
 
 XIV.- Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a los educandos, así como corroborar que el trato de las y los educadores y educandos sea de respeto recíproco y atienda al cumplimiento de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano y demás legislación aplicable a niñas, niños, adolescentes y jóvenes;
 
@@ -1303,9 +1351,11 @@ La Secretaría aplicará los programas compensatorios implementados de manera co
 
 Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 113.
 
-La Secretaría desarrollará actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos:
+La Secretaría desarrollará actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información y comunicación. Estas acciones incluirán contenidos sobre lectura, aprendizaje digital y manejo de herramientas informáticas de uso común, incluyendo orientación básica sobre tecnologías emergentes, como la Inteligencia Artificial y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
 
 ###### ARTÍCULO 114.
 
@@ -1852,3 +1902,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Educación del Estado promoverá la celebración de convenios con instituciones de educación superior para facilitar la participación de estudiantes de licenciatura en psicología, pedagogía, educación especial o áreas afines, en el acompañamiento educativo a que se refiere el presente Decreto, en el marco de su servicio social o prácticas profesionales.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1062 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación, en coordinación con la Secretaría de Bienestar Social, los municipios y el Consejo Estatal de Participación Social en la Educación, dispondrá de un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para elaborar y publicar el Programa Estatal de Educación Artística y Cultural, que contendrá las metas, responsables, indicadores, calendario anual de actividades y la convocatoria referente al Mes del Arte.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Educación del Estado, deberá diseñar e implemente (sic) las estrategias necesarias para la correcta aplicación del presente Decreto.
