@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2026-01-24"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -2293,19 +2293,31 @@ VII. Resguardarlos en instituciones públicas.
 
 VIII. Colocación en acogimiento residencial.
 
-IX. Las demás que contribuyan al desarrollo integral de niñas, niños y adolescentes y estén dentro de su ámbito de competencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+IX. Separación de la persona agresora del lugar de residencia de la víctima.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2026)</small>
+
+X. Las demás que contribuyan al desarrollo integral de niñas, niños y adolescentes y estén dentro de su ámbito de competencia.
 
 El Sistema Estatal de Protección coadyuvará con la Procuraduría de Protección en la ejecución de las medidas que ésta determine, prestando las facilidades administrativas y de gestión que les correspondan a los integrantes del Sistema en su desarrollo.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+En atención al principio de interés superior de la niñez, se priorizará la medida de protección establecida en la fracción IX, antes de separar a las niñas, niños o adolescentes de su lugar de residencia, siempre y cuando la autoridad así lo determine.
 
 ###### Artículo 159.
 
 Los servicios que implican las medidas de protección, asistencia y atención integral, podrán ser prestados en forma directa por los organismos para la asistencia social pública en el ámbito estatal o municipal, según corresponda, o mediante la subrogación de los servicios respectivos.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### Artículo 160.
 
-La separación preventiva del seno familiar solo se aplicará cuando la conducta que la originó sea atribuible por acción u omisión a quien vive con niñas, niños y adolescentes y no exista otra alternativa.
+Cuando, atendiendo a las circunstancias particulares del caso, no sea posible imponer la medida de protección consistente en la separación de la persona agresora del lugar de residencia de la víctima, se aplicará la separación preventiva del seno familiar, la cual procederá únicamente cuando la conducta que la motive sea atribuible por acción u omisión, a la persona que habite con niñas, niños o adolescentes y no exista otra alternativa viable.
 
-La separación definitiva del seno familiar, únicamente se podrá realizar por las causas establecidas en las leyes aplicables y mediante resolución de autoridad judicial.
+La separación definitiva del seno familiar, solo podrá decretarse por las causas establecidas en las leyes aplicables y mediante resolución de autoridad judicial competente. La medida que emita la Procuraduría de Protección, deberá adoptarse con estricto apego al principio del interés superior de la niñez.
 
 ###### Artículo 161.
 
@@ -2425,19 +2437,29 @@ XVIII. Cometan una falta administrativa o conducta tipificada como delito y sean
 
 La falta de recursos económicos no podrá ser considerada como motivo suficiente para la separación de los familiares con los que viva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### Artículo 173.
 
-Si de las primeras investigaciones realizadas se aprecia la existencia de motivos o elementos para dar trámite al procedimiento administrativo de protección, se podrán determinar preventivamente las medidas de protección urgentes que se estimen pertinentes de acuerdo a la gravedad del caso, fundando y motivando tal circunstancia.
+Cuando de las investigaciones iniciales se adviertan motivos o elementos suficientes para dar inicio al procedimiento administrativo de protección, podrán determinarse, de manera preventiva, las medidas de protección urgentes que se consideren pertinentes de acuerdo con la gravedad del caso, fundando y motivando tal circunstancia.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+La Procuraduría de Protección, al decretar las medidas de protección urgentes por encontrarse una niña, niño o adolescente en situación de riesgo o desamparo, deberá actuar con estricto apego al principio del interés superior de la infancia y priorizar la medida de protección, consistente en la separación de la persona agresora del lugar de residencia de la víctima.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### Artículo 174.
 
-Sin perjuicio de lo establecido en el artículo 160, la separación preventiva del hogar podrá establecerse cuando aparezcan motivos fundados que hagan presumir la existencia de un peligro inminente e inmediato a la salud, integridad o seguridad, aun cuando no haya concluido la investigación.
+Sin perjuicio de lo dispuesto en el artículo 160, podrá ordenarse la separación de la persona agresora del lugar de residencia de la víctima o, en su caso, la separación preventiva de la víctima del seno familiar, cuando existan motivos fundados que permitan presumir la existencia de un peligro inminente e inmediato para su salud, integridad o seguridad, aun cuando la investigación no haya concluido.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### Artículo 175.
 
-Al llevar a cabo la medida a que se refiere el artículo anterior, la Procuraduría de Protección deberá notificarla a la autoridad judicial correspondiente, señalando el lugar donde preventivamente habrá de quedar la niña, niño o adolescente, acompañando copia de las constancias respectivas a efecto de que dicha medida sea analizada por la mencionada autoridad.
+Al imponer la medida de protección de separación de la persona agresora del lugar de residencia de la víctima, la Procuraduría de Protección deberá notificar, de manera inmediata, al Ministerio Público y a la autoridad jurisdiccional competente.
 
-El órgano jurisdiccional competente deberá pronunciarse sobre la ratificación, modificación o revocación, dentro de las veinticuatro horas siguientes a la imposición de la separación preventiva como medida urgente de protección.
+Tratándose de la medida de separación preventiva de la víctima del seno familiar, la Procuraduría de Protección deberá notificarla a las autoridades antes mencionadas, precisando el lugar en el que, de manera preventiva, quedará bajo resguardo la niña, niño o adolescente, y anexando copia de las constancias respectivas, a fin de que dicha medida sea analizada por la autoridad correspondiente.
 
 ###### Artículo 176.
 
@@ -3080,6 +3102,14 @@ SEGUNDO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Hacienda
 P.O. 24 DE ENERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0285/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 53, LA FRACCIÓN VII, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0494/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
