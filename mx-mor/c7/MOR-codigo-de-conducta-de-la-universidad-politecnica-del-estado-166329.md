@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-universidad-politecnica-del-estado-166
 country: "mx"
 rank: "codigo"
 publication_date: "2023-05-24"
-last_updated: "2023-05-24"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166329&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA UNIVERSIDAD POLITECNICA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 27 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026 (ABROGADO).
 
 Código publicado en el Número 6198 del Periódico Oficial del Estado de Morelos, el miércoles 24 de mayo de 2023.
 
@@ -562,3 +564,13 @@ ATENTAMENTE
 EL RECTOR DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS DR. ARTURO MAZARI ESPÍN
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS”.]
+
+PRIMERO. El presente código entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se Abroga el Código de Conducta de la Universidad Politécnica del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 6198 de fecha veinticuatro de mayo de dos mil veintitrés.
