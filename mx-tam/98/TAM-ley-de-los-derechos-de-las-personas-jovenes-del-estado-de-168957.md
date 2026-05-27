@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-jovenes-del-estado-de-16895
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-21"
-last_updated: "2026-03-09"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Anexo del Número 153 del Periódico Oficial del Estado de Tamaulipas, el jueves 21 de diciembre de 2023.
 
@@ -967,9 +967,15 @@ IX. Coadyuvar en la vinculación con organizaciones, cámaras y dependencias afi
 
 X. Coordinar y desarrollar el Sistema de Información e investigación de la juventud;
 
-XI. Velar por la correcta aplicación de la presente Ley; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-XII. Las demás que le otorgue esta Ley y demás ordenamientos aplicables.
+XI. Velar por la correcta aplicación de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2026)</small>
+
+XII. Impulsar y garantizar la participación política activa y efectiva de las personas jóvenes en el Estado; y
+
+XIII. Las demás que le otorgue esta Ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 94.
 
@@ -1406,3 +1412,11 @@ P.O. 9 DE MARZO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado, con excepción de las reformas realizadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas, las cuales surtirán efectos a partir de su aprobación.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1063 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XI Y SE ADICIONA UNA FRACCIÓN XII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA ACTUAL PARA SER XIII, AL ARTÍCULO 93 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
