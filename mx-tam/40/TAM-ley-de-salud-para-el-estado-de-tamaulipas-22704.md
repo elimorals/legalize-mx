@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2026-03-24"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -199,9 +199,15 @@ R).- Participar con las autoridades federales en el desarrollo de los programas 
 
 S).- El control sanitario de publicidad de las actividades, productos y servicios a los que se refiere la Ley General de Salud;
 
-T).- El control sanitario de los establecimientos que procesen alimentos, bebidas no alcohólicas y alcohólicas; y
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-U).- Las demás que establezca la Ley General de Salud y otros ordenamientos legales aplicables.
+T).- El control sanitario de los establecimientos que procesen alimentos, bebidas no alcohólicas y alcohólicas;
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+U).- La orientación, vigilancia, evaluación y el control del riesgo coronario; y
+
+V).- Las demás que establezca la Ley General de Salud y otros ordenamientos legales aplicables.
 
 II.- De Salubridad Local:
 
@@ -1032,6 +1038,10 @@ I.- Procedimientos que permitan la participación activa de la mujer en la preve
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2024)</small>
 
 II.- Acciones de orientación y vigilancia en materia de nutrición, fomento a la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida, y en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil y del adolescente; de igual forma promoverán la instalación de salas de lactancia en los centros de trabajo de los sectores público y privado, los cuales serán espacios donde las mujeres lactantes puedan amamantar o extraer su leche, almacenarla adecuadamente y llevarla consigo al término de su jornada laboral para alimentar a su hija o hijo, en términos de la normatividad que al efecto se expida;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2026)</small>
+
+II BIS.- Al menos un banco de leche humana en el Estado en alguno de sus establecimientos de salud que cuente con servicios neonatales;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2024)</small>
 
@@ -4272,3 +4282,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las Instituciones privadas que no cuenten con una Unidad de Terapia Intensiva Neonatal dispondrán de un plazo máximo de 12 meses, para cumplir con esta disposición ante la Secretaría de Salud del Estado.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1061 MEDIANTE EL CUAL SE REFORMA EL INCISO T) Y SE ADICIONAN EL INCISO U), RECORRIÉNDOSE EL SUBSECUENTE EN SU ORDEN NATURAL, DE LA FRACCIÓN I DEL ARTÍCULO 3°; Y LA FRACCIÓN II BIS AL ARTÍCULO 33 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud del Estado deberá implementar lo dispuesto en el presente Decreto de manera progresiva, conforme a la disponibilidad presupuestal aprobada en el ejercicio fiscal correspondiente y atendiendo a la planeación administrativa y operativa que garantice la sostenibilidad y correcto funcionamiento de los bancos de leche humana en las unidades hospitalarias que cuenten con servicios neonatales.
