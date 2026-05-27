@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2025-10-29"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -113,9 +113,13 @@ X.- Garantizar la institucionalización progresiva de la perspectiva de género 
 
 XI.- Implementar políticas públicas deportivas que permitan el acceso y la práctica igualitaria del deporte entre hombres y mujeres.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
 
-XII.- Las demás que esta Ley, su Reglamento y otras disposiciones determinen.
+XII. Promover actividades y prácticas físico deportivas, con la finalidad de prevenir, combatir y erradicar el consumo de drogas.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XIII. Las demás que esta Ley, su Reglamento y otras disposiciones determinen.
 
 ###### Artículo 3.
 
@@ -366,6 +370,10 @@ Las actividades deportivas del orden profesional quedan excluidas del Sistema, s
 ###### Artículo 15.
 
 El funcionamiento y requisitos de integración del Sistema se normará por lo dispuesto en la Ley General, la presente Ley y sus respectivos Reglamentos.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Artículo 15 BIS. La Secretaría de Educación y Deporte del Estado, a través del Instituto Chihuahuense del Deporte y Cultura Física, en el ámbito de su competencia, conforme a las asignaciones presupuestales correspondientes, en coordinación con la Secretaría de Salud, la Secretaría de Seguridad Pública Estatal y los gobiernos municipales, diseñará, establecerá e implementará programas permanentes de deporte y recreación como estrategia de prevención psicosocial, y de prevención, combate y erradicación de las adicciones, dirigidos prioritariamente a niñas, niños y adolescentes que habiten en zonas con alto riesgo de violencia, delincuencia o consumo de sustancias.
 
 ### CAPÍTULO SEGUNDO
 
@@ -763,9 +771,9 @@ XVII.- Diseñar y establecer los criterios para asegurar la uniformidad y congru
 
 XVIII.- Promover e incrementar con las previsiones presupuestales existentes, los fondos y fideicomisos ya sean públicos o privados, que en materia de cultura física y deporte se constituyan con el objeto de organizar la participación de los sectores social y privado, a efecto de contribuir al desarrollo deportivo del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-XIX.- Fomentar la cultura física, la recreación, la rehabilitación y el deporte entre la población en general, como medio para la prevención del delito.
+XIX. Fomentar la cultura física, la recreación, la rehabilitación y el deporte entre la población en general, como medio para la prevención del delito; así como para la prevención, combate y erradicación de las adicciones.
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -2778,3 +2786,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0488/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
