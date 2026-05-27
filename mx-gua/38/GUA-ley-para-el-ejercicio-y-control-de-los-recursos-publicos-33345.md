@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-ejercicio-y-control-de-los-recursos-publicos-33345"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-12"
-last_updated: "2026-04-21"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de agosto del 2003.
 
@@ -366,6 +366,10 @@ Los pronósticos de ingresos, los proyectos de presupuestos de egresos y las res
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
 Tales pronósticos de ingresos, proyectos de presupuestos de egresos y las respectivas iniciativas, deberán formularse y presentarse en las fechas señaladas en la presente Ley, del año inmediato anterior a aquél en que tendrán vigencia.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+En el caso del Poder Legislativo, el monto total de los recursos asignados no podrá exceder del cero punto setenta por ciento del Presupuesto de Egresos del Estado, en términos de la Constitución Política para el Estado de Guanajuato.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -2196,3 +2200,15 @@ P.O. 21 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 181, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 193, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 5 DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. La disposición contenida en el presente decreto establece al Poder Legislativo del Estado de Guanajuato la obligación de no autorizar, aprobar o ejercer para sí mismo incrementos presupuestarios reales respecto del monto aprobado para el ejercicio fiscal 2026, ni incrementar dicha proporción respecto del presupuesto de egresos del Estado en los ejercicios fiscales subsecuentes.
+
+El monto del presupuesto anual al Poder Legislativo del Estado de Guanajuato únicamente podrá actualizarse conforme a la inflación anual.
+
+No se podrán aprobar ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas o cualquier otro mecanismo que tenga por objeto o efecto incrementar directamente el presupuesto del Poder Legislativo del Estado de Guanajuato por encima del límite previsto en el presente decreto.
