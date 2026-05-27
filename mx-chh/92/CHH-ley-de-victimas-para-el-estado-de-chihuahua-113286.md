@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-victimas-para-el-estado-de-chihuahua-113286"
 country: "mx"
 rank: "ley"
 publication_date: "2016-02-27"
-last_updated: "2018-06-20"
+last_updated: "2026-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de febrero de 2016.
 
@@ -223,6 +223,24 @@ XVIII. Celebrar convenios de cooperación, coordinación y concertación en la m
 
 XIX. Las demás previstas en la Ley General, en la presente Ley y otros ordenamientos aplicables.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+###### Artículo 7 Bis.
+
+Toda niña, niño o adolescente que haya sido víctima o testigo de un hecho victimizante, tiene derecho a recibir por parte de las instituciones responsables de su atención, explicaciones claras, veraces y adecuadas a su edad, que le permitan comprender su situación, las medidas que se están tomando a su favor y las etapas del proceso en que participe.
+
+Esta información deberá:
+
+I. Brindarse de forma oportuna, sensible y en un lenguaje que la niña, niño o adolescente pueda entender.
+
+II. Proporcionarse en un entorno emocionalmente seguro.
+
+III. Ser orientada a reducir la incertidumbre y evitar cualquier forma de revictimización.
+
+IV. Ser impartida por personal capacitado en el trato digno, emocionalmente empático y especializado para la atención a niñas, niños y adolescentes.
+
+Este derecho será exigible en todos los niveles de atención y protección.
+
 ###### Artículo 8.
 
 Atribuciones a cargo de los municipios.
@@ -246,6 +264,18 @@ VII. Participar y coadyuvar en la protección y atención a las víctimas.
 VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia.
 
 IX. Las demás aplicables a la materia, que les conceda la Ley u otros ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+###### Artículo 8 Bis.
+
+En la atención de víctimas niñas, niños o adolescentes dentro del Estado de Chihuahua, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán observar las medidas especiales siguientes:
+
+I. Brindar a la niña, niño o adolescente, información completa sobre sus derechos, sobre el proceso de atención y sobre el estado de los procedimientos legales vinculados a su caso, en forma clara, comprensible y acorde a su edad y nivel de desarrollo.
+
+II. Evitar en todo momento la revictimización institucional. Ninguna autoridad deberá someter a la víctima a trámites o diligencias repetitivas o innecesarias que le causen angustia o revivan el trauma.
+
+III. Proporcionar acompañamiento y apoyo emocional especializado durante todo el proceso de asistencia. La autoridad competente deberá asegurar que psicólogos o personal especializado en atención infantil estén presentes o disponibles para atender las necesidades emocionales de la niña, niño o adolescente.
 
 ###### Artículo 9.
 
@@ -1382,3 +1412,11 @@ SÉPTIMO.- A la entrada en vigor del presente Decreto, el Ejecutivo del Estado n
 Dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, la persona que ocupe la titularidad del Poder Ejecutivo, deberá realizar la consulta establecida en el artículo 15 del presente Decreto.
 
 OCTAVO.- En un plazo de sesenta días contados a partir de la entrada en vigor del presente Decreto, las secretarías, dependencias, organismos y entidades en materia de hacienda, del sector salud, educación, desarrollo social y las demás obligadas; así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán adecuar y armonizar su normatividad conforme a la Ley, a la Ley General y al presente Decreto, así como al programa y modelos de atención integral a víctimas respectivos.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0483/2026 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE VÍCTIMAS PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
