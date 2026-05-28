@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2019-06-14"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "ROO"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
+
+NOTA 2: DE CONFORMIDAD CON EL PUNTO PRIMERO Y TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 240, PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2026, SE DECLARA LA VIGENCIA Y APLICACIÓN DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES EN EL ESTADO DE QUINTANA ROO, DE MANERA PROGRESIVA, EN LOS TÉRMINOS Y DENTRO DEL PLAZO ESTABLECIDO EN EL "DECRETO POR EL QUE SE EXPIDE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES", PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 7 DE JUNIO DE 2023; ASÍ COMO SE ABROGA EL PRESENTE ORDENAMIENTO; ÚNICAMENTE EN LAS FECHAS, CIRCUNSCRIPCIONES TERRITORIALES Y LOS ASUNTOS EN QUE COMIENCE A APLICARSE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES. EN CONSECUENCIA, TODA MENCIÓN AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO O AL CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES CONTENIDA EN DISPOSICIONES NORMATIVAS DEL ESTADO DE QUINTANA ROO, SE ENTENDERÁ REFERIDA AL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES, EN TALES SUPUESTOS.
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -8468,3 +8470,57 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los juicios que hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose según las disposiciones normativas en los que tuvieron su origen.
 
 TERCERO. Se derogan todas las normas jurídicas que se opongan al presente.
+
+P.O. 28 DE MAYO DE 2026.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL “DECRETO NÚMERO: 240 POR EL CUAL SE EMITE LA DECLARATORIA DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES EN EL ESTADO DE QUINTANA ROO", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+D E C R E T A:
+
+PRIMERO. Se declara la vigencia y aplicación del Código Nacional de Procedimientos Civiles y Familiares en el Estado de Quintana Roo, de manera progresiva, en los términos y dentro del plazo establecido en el “Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares”, publicado en el Diario Oficial de la Federación el 7 de junio de 2023; así como conforme a lo previsto en el presente Decreto.
+
+SEGUNDO. La primera etapa de implementación comprenderá las siguientes acciones civiles en lo principal y sus respectivos procedimientos, reconvenciones, medios preparatorios, tercerías, recursos y medios de defensa:
+
+I. Las acciones susceptibles de tramitarse mediante el juicio especial de arrendamiento inmobiliario oral;
+
+II. Las acciones susceptibles de tramitarse mediante el juicio especial hipotecario oral;
+
+III. La acción que se promueva para obtener el pago de cuotas condominales, conforme al artículo 43 de la Ley de Propiedad en Condominio de Inmuebles del Estado de Quintana Roo;
+
+IV. La acción de cumplimiento de contrato;
+
+V. La acción de usucapión;
+
+VI. La acción reivindicatoria;
+
+VII. Las jurisdicciones voluntarias de información ad perpetuam en materia civil, y
+
+VIII. Los interdictos de retener la posesión, de recuperar la posesión, de obra nueva y de obra peligrosa.
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga el Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, publicado en el Periódico Oficial del Estado el 8 de enero de 1981, únicamente en las fechas, circunscripciones territoriales y los asuntos en que comience a aplicarse el Código Nacional de Procedimientos Civiles y Familiares, conforme a la presente Declaratoria.
+
+En consecuencia, toda mención al Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo o al Código Federal de Procedimientos Civiles contenida en disposiciones normativas del Estado de Quintana Roo, se entenderá referida al Código Nacional de Procedimientos Civiles y Familiares, en tales supuestos.
+
+TERCERO. Las acciones en lo principal y sus respectivos procedimientos, reconvenciones, medios preparatorios, tercerías, recursos y medios de defensa no comprendidos en la presente Declaratoria continuarán tramitándose conforme a las disposiciones vigentes del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo.
+
+Los procedimientos que, a la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, se encuentren en trámite conforme al Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, continuarán sustanciándose conforme a dicho ordenamiento, salvo que las partes, de común acuerdo, soliciten su tramitación conforme al Código Nacional, en los términos del artículo cuarto transitorio del decreto federal de su expedición, siempre que la acción en lo principal o procedimiento de que se trate se encuentre comprendido dentro de las etapas de implementación vigentes conforme a la presente Declaratoria.
+
+CUARTO. Las acciones en lo principal y sus respectivos procedimientos, reconvenciones, medios preparatorios, tercerías, recursos y medios de defensa que correspondan a las subsecuentes etapas de implementación del Código Nacional de Procedimientos Civiles y Familiares en el Estado de Quintana Roo se incorporarán mediante las modificaciones a la presente Declaratoria que, en su caso, sean propuestas por el Pleno del Tribunal Superior de Justicia del Poder Judicial del Estado de Quintana Roo y aprobadas por la Legislatura del Estado.
+
+QUINTO. El Poder Legislativo del Estado de Quintana Roo, en coordinación con el Poder Judicial del Estado de Quintana Roo, deberán armonizar la legislación local con el Código Nacional de Procedimientos Civiles y Familiares previo al inicio de su aplicación, conforme a la presente Declaratoria.
+
+SEXTO. El Poder Judicial del Estado de Quintana Roo, en el ámbito de sus respectivas competencias, realizará las acciones y medidas necesarias para la implementación del Código Nacional de Procedimientos Civiles y Familiares, especialmente las relacionadas con los sistemas de justicia digital y oral, de conformidad con las asignaciones presupuestales aprobadas para tal fin.
+
+En la implementación de tales acciones y medidas se respetarán los derechos laborales de las personas trabajadoras del Poder Judicial del Estado de Quintana Roo, en términos de la normatividad aplicable.
+
+SEPTIMO. En caso de que durante el proceso de implementación surjan circunstancias técnicas, operativas o presupuestales que hagan necesario modificar los términos de la presente Declaratoria, el Pleno del Tribunal Superior de Justicia del Poder Judicial del Estado de Quintana Roo podrá someter a consideración del Poder Legislativo del Estado de Quintana Roo la propuesta correspondiente para su eventual aprobación en los términos que procedan.
+
+OCTAVO. La Secretaría de Finanzas y Planeación del Estado de Quintana Roo dotará al Poder Judicial los recursos necesarios para la implementación, ejecución y consolidación del Código Nacional de Procedimientos Civiles y Familiares en el Estado, en el presente ejercicio fiscal, en términos de las disposiciones aplicables.
+
+Asimismo, el Poder Judicial del Estado de Quintana Roo establecerá en sus proyectos de presupuesto de egresos subsecuentes al presente ejercicio fiscal los requerimientos para la implementación y consolidación progresiva del Código Nacional, atendiendo a las etapas correspondientes.
+
+NOVENO. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
