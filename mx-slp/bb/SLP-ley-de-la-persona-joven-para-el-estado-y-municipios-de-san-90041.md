@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-persona-joven-para-el-estado-y-municipios-de-san-9004
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2025-10-02"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de octubre de 2012.
 
@@ -877,27 +877,33 @@ f) Con el fin de estimular el ejercicio del diálogo y la construcción de acuer
 
 g) Los gastos por concepto de viáticos, hospedaje y alimentación de las personas participantes que no residan en la ciudad de San Luis Potosí, serán cubiertos por el Congreso del Estado con cargo al presupuesto anual que al efecto se establezca;
 
-II. De la Comisión de Educación, Cultura, Ciencia y Tecnología:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 28 DE MAYO DE 2026)</small>
 
-a) En preparación del Parlamento, la Comisión invitará a los organismos, instancias, instituciones educativas y ayuntamientos a que se refiere la fracción XIII del artículo 108 de la Ley Orgánica del Poder Legislativo del Estado, para participar en su realización.
+II. De la Comisión de Niñas, Niños, Adolescentes, Juventud y Deporte:
 
-b) La Comisión emitirá una Convocatoria Pública para la realización del Parlamento, en la que deberá contemplar las bases a que se refiere la fracción anterior, y conforme a lo dispuesto por el artículo 84 BIS del Reglamento para el Gobierno Interior del Congreso del Estado.
+a) En preparación del Parlamento, la Comisión invitará instituciones educativas; organismos públicos competentes en temas de juventud; ayuntamientos; asociaciones y organismos de la sociedad civil en materia de juventud debidamente constituidas, para participar en su realización.
 
-c) La Comisión, en coordinación con las instituciones, instancias, organismos y ayuntamientos participantes, seleccionará a las personas que integrarán el Parlamento.
+b) La Comisión emitirá una Convocatoria Pública para la realización del Parlamento, en la que deberá contemplar las bases a que se refiere la fracción anterior, y conforme a lo dispuesto por el artículo 57 del Reglamento del Congreso del Estado de San Luis Potosí.
 
-d) La Comisión coordinará todas las actividades relacionadas con el Parlamento, lo que realizará con el auxilio de los órganos de apoyo del Congreso del Estado, y en unión con las instituciones, organismos, ayuntamientos, asociaciones y demás instancias participantes;
+c) La Comisión, en coordinación con instituciones educativas; organismos públicos competentes en temas de juventud; ayuntamientos participantes; asociaciones y organismos de la sociedad civil en materia de juventud debidamente constituidas, seleccionará a las personas que integrarán el Parlamento.
 
-III. De las instituciones, instancias, organismos y ayuntamientos a que se refiere la fracción XIII del artículo 108 de la Ley Orgánica del Poder Legislativo del Estado:
+d) La Comisión coordinará todas las actividades relacionadas con el Parlamento, lo que realizará con el auxilio de los órganos de apoyo del Congreso del Estado, y en conjunto con instituciones educativas; organismos públicos competentes en temas de juventud; ayuntamientos participantes; asociaciones y organismos de la sociedad civil en materia de juventud debidamente constituidas;
 
-a) Los organismos, instancias, instituciones educativas y ayuntamientos, formalizarán su participación en la realización de las actividades del Parlamento mediante la firma del Convenio que al efecto emita el Congreso del Estado.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 28 DE MAYO DE 2026)</small>
 
-b) Las instituciones, instancias, organismos y ayuntamientos participantes intervendrán al menos, en la evaluación y selección de las personas que integrarán el Parlamento; en la promoción y organización del Parlamento, y en las sesiones de Comisión del Parlamento;
+III. Las instituciones educativas; organismos públicos competentes en temas de juventud; ayuntamientos participantes, deberán:
 
-IV. De las asociaciones y organizaciones de la sociedad civil en materia de juventud:
+a) Formalizar su participación en la realización de las actividades del Parlamento mediante la firma del Convenio que al efecto emita el Congreso del Estado.
 
-a) Podrán participar en las actividades del Parlamento, las asociaciones y organizaciones de la sociedad civil dedicadas a los asuntos de la juventud, que se encuentren debidamente constituidas y que así lo soliciten, previa autorización de la Comisión de Educación, Cultura, Ciencia y Tecnología, la cual determinará los términos, alcances y efectos de su participación, y
+b) Intervenir al menos, en la evaluación y selección de las personas que integrarán el Parlamento; su promoción y organización; así como en las sesiones de Comisión del mismo;
 
-V. Las cuestiones no contempladas en este artículo y en las bases de la Convocatoria Pública respectiva, serán resueltas por acuerdo de la Comisión de Educación, Cultura, Ciencia y Tecnología.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IV. Las asociaciones y organismos de la sociedad civil en materia de juventud debidamente constituidas, podrán participar en las actividades del Parlamento, cuando así lo soliciten y previa autorización de la Comisión de Niñas, Niños, Adolescentes, Juventud y Deporte, la cual determinará los términos, alcances y efectos de su participación, y
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+V. Las cuestiones no contempladas en este artículo y en las bases de la Convocatoria Pública respectiva, serán resueltas por acuerdo de la Comisión de Niñas, Niños, Adolescentes, Juventud y Deporte.
 
 ## TITULO CUARTO. DEL INSTITUTO POTOSINO DE LA JUVENTUD
 
@@ -1492,3 +1498,11 @@ P.O. 2 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0537.- QUE REFORMA EL ARTÍCULO 65 BIS, DE LA LEY DE LA PERSONA JOVEN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
