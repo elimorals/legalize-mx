@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2025-06-12"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE MAYO DE 2026.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -531,7 +531,9 @@ El Instituto Estatal Electoral y de Participación Ciudadana será autoridad en 
 
 EL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA TENDRÁ COMPETENCIA PARA CONOCER DE LOS ASUNTOS RELACIONADOS CON EL ACCESO A LA INFORMACIÓN PÚBLICA Y LA PROTECCIÓN DE DATOS PERSONALES A CARGO DE LOS PARTIDOS POLÍTICOS LOCALES; TAMBIÉN CONOCERÁ DE LOS RECURSOS DE REVISIÓN QUE INTERPONGAN LOS PARTICULARES RESPECTO DE LAS RESOLUCIONES DE LOS PARTIDOS POLÍTICOS LOCALES EN LOS TÉRMINOS QUE ESTABLEZCA LA LEY.
 
-Los siete consejeros electorales durarán en su encargo un período de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, en los términos dispuestos en las leyes aplicables.
+> <small>(REFORMADO, B.O. 28 DE MAYO DE 2026)</small>
+
+Los siete consejeros y consejeras electorales durarán en su encargo un período de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones, que no excederá el límite establecido en el artículo 127 de la Constitución Federal y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo, condiciones generales de trabajo o reglamentos interiores de trabajo; y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, en los términos dispuestos en las leyes aplicables. Los límites a las remuneraciones y prestaciones para consejeras y consejeros electorales, así como de magistradas y magistrados electorales señaladas en el presente artículo, serán aplicables también, a titulares de las secretarías de órganos administrativos y titulares de áreas ejecutivas y técnicas u homólogos del Instituto Estatal Electoral y de Participación Ciudadana, como del Tribunal Estatal Electoral.
 
 Los consejeros electorales deberán ser originarios del Estado de Sonora o contar con una residencia efectiva de, por lo menos, cinco años anteriores a su designación y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezcan la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
 
@@ -587,9 +589,9 @@ La ley establecerá un sistema de nulidades y medios de impugnación de los que 
 
 El Tribunal Estatal Electoral tendrá plena autonomía operativa y de decisión, así como personalidad jurídica y patrimonio propios. Será la máxima autoridad jurisdiccional en materia electoral y de procesos de participación ciudadana, funcionará de manera permanente y tendrá a su cargo la sustanciación y resolución, en única instancia, de los medios de impugnación que establezcan las leyes aplicables, así como la resolución de los procedimientos sancionadores ordinarios y juicios orales sancionadores en materia electoral en los términos que establezca la ley.
 
-> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, B.O. 28 DE MAYO DE 2026)</small>
 
-El Tribunal se integrará por tres magistrados propietarios los cuales serán designados por la Cámara de Senadores, en términos de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables. De igual manera, el Tribunal contará con un Órgano Interno de Control, cuyo titular será designado conforme a lo dispuesto en la fracción XV del artículo 64 de esta Constitución.
+El Tribunal se integrará por tres magistraturas propietarias las cuales serán designadas por la Cámara de Senadores, en términos de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables. Percibirán una remuneración en los términos de lo dispuesto por el sexto párrafo de este artículo. De igual manera, el Tribunal contará con un Órgano Interno de Control, cuyo titular será designado conforme a lo dispuesto en la fracción XV del artículo 64 de esta Constitución.
 
 La organización y competencia del Tribunal Estatal Electoral será fijada por la ley.
 
@@ -1200,6 +1202,18 @@ Los organismos autónomos reconocidos en la presente constitución deberán esta
 > <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
 
 En caso de que el Congreso no apruebe en tiempo la Ley de Ingresos y Presupuesto de Ingresos o el Presupuesto de Egresos, continuarán en vigor la última Ley de Ingresos y Presupuesto de Ingresos y el último Presupuesto de Egresos que hayan sido publicados en el Boletín Oficial del Gobierno del Estado de Sonora, excepto los recursos públicos que deban destinarse exclusivamente al financiamiento público de los partidos políticos, lo cual se regirá por las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, B.O. 28 DE MAYO DE 2026)</small>
+
+El presupuesto anual del Congreso no podrá exceder el cero punto setenta por ciento del Presupuesto de Egresos del Estado.
+
+> <small>(ADICIONADO, B.O. 28 DE MAYO DE 2026)</small>
+
+El monto del presupuesto anual del Congreso únicamente podrá actualizarse conforme a la inflación anual. No podrán aprobarse ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas o cualquier otro mecanismo que tenga por objeto o efecto incrementar directamente el presupuesto del Congreso por encima del límite previsto en esta fracción.
+
+> <small>(ADICIONADO, B.O. 28 DE MAYO DE 2026)</small>
+
+La Ley establecerá los mecanismos institucionales de control, disciplina presupuestaria y responsabilidad administrativa necesarios para asegurar la observancia del límite previsto en esta fracción.
 
 XXIII. (DEROGADA, B.O. 4 DE NOVIEMBRE DE 2021)
 
@@ -2455,11 +2469,13 @@ La base de la división territorial, política y administrativa del Estado de So
 
 El Municipio será considerado como persona de derecho público con personalidad jurídica y patrimonio propios.
 
-> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 130.
 
-Los Ayuntamientos serán órganos colegiados deliberantes, integrados por un Presidente Municipal, un Síndico y los Regidores que sean designados por sufragio popular, directo, libre y secreto. Las elecciones se basarán en el sistema de elección de mayoría relativa, y en el caso de los regidores, habrá también de representación proporcional, de conformidad con las bases que establezca la Ley. Por cada Síndico y Regidor Propietario será elegido un Suplente.
+Los ayuntamientos serán órganos colegiados deliberantes, integrados por un Presidente o Presidenta Municipal, una sindicatura y hasta quince regidurías designadas, por sufragio popular, directo, libre y secreto. Las elecciones se basarán en el sistema de elección de mayoría relativa, y en el caso de las regidurías, habrá también de representación proporcional, de conformidad con las bases que establezca la Ley. Por cada sindicatura y regiduría propietaria será elegida una o un Suplente.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 Todos los Regidores Propietarios serán considerados como representantes populares, con idéntica categoría e igualdad de derechos y obligaciones.
 
@@ -2973,9 +2989,13 @@ Tratándose de esquemas de contratación distintos a las licitaciones públicas,
 
 En el Estado, las mujeres y los hombres tienen los mismos derechos civiles y políticos; de manera igualitaria podrán ser electas y electos y tendrán derecho a voto en cualquier elección, siempre que reúnan los requisitos que señalan esta Constitución y las leyes aplicables.
 
-Los partidos políticos o coaliciones deberán garantizar en la postulación de fórmulas de candidatos a diputados por los principios de mayoría relativa, la paridad entre los géneros en la totalidad de sus candidaturas, debiendo sus fórmulas de propietario y suplente estar compuestas por candidatos del mismo género en la elección que se trate. En las listas de fórmulas de candidatos a diputados por el principio de representación proporcional deberá observarse la paridad entre los géneros y se integrarán por fórmulas de genero distintos en forma alternada en la elección correspondiente.
+> <small>(REFORMADO, B.O. 28 DE MAYO DE 2026)</small>
 
-En los procesos electorales municipales que se rige por el principio de mayoría relativa se observará la paridad horizontal y vertical para ambos géneros. Las planillas deberán integrarse por candidatos propietarios y suplentes del mismo género.
+Los partidos políticos o coaliciones deberán garantizar en la postulación de fórmulas de candidaturas a diputaciones por los principios de mayoría relativa, la observancia de los principios de paridad, igualdad sustantiva y perspectiva de género, en la totalidad de sus candidaturas, debiendo sus fórmulas estar compuestas por candidaturas propietarias y suplentes del mismo género en la elección que se trate. En las listas de fórmulas de candidaturas a diputaciones por el principio de representación proporcional deberán observarse los principios de paridad, igualdad sustantiva y perspectiva de género, y se integrarán por fórmulas del mismo género en forma alternada en la elección correspondiente.
+
+> <small>(REFORMADO, B.O. 28 DE MAYO DE 2026)</small>
+
+En los procesos electorales municipales que se rigen por el principio de mayoría relativa se observará la paridad horizontal y vertical para ambos géneros, así como los principios de perspectiva de género e igualdad sustantiva. Las planillas deberán integrarse por candidaturas propietarias y suplentes del mismo género.
 
 Se entenderá por paridad de género vertical en la postulación de los candidatos de planillas de ayuntamientos, la obligación de los partidos políticos o coaliciones, de salvaguardar en todo momento la paridad y la igualdad entre los géneros. En las candidaturas que integren cada planilla de Ayuntamiento deberá alternarse el género en la elección respectiva.
 
@@ -4766,3 +4786,33 @@ Las reformas a los artículos 30, párrafo segundo; 33, fracción V y VII; 131; 
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+B.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 158, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado Libre y Soberano de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen la declaratoria correspondiente y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en el supuesto de resultar aprobada.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto Estatal Electoral y de Participación Ciudadana y el Tribunal Estatal Electoral revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado garantizará que los presupuestos del Instituto Estatal Electoral y de Participación Ciudadana; y del Tribunal Estatal Electoral se ajusten a lo previsto en los artículos 22 y 64, fracción XXII, de esta Constitución, por lo que, en cada ejercicio fiscal realizarán los ajustes necesarios a los presupuestos que integren, previo a su aprobación.
+
+###### ARTÍCULO CUARTO.
+
+La integración de los ayuntamientos establecida en el artículo 130 de esta Constitución surtirá efectos a partir del periodo administrativo municipal subsecuente. Los ayuntamientos que, a la entrada en vigor de la presente Ley, cuenten con un número de regidurías menor a quince, conservarán su integración actual. Solo en los casos que se requiera alguna modificación de la integración por criterios de variación poblacional u otros requisitos, se realizará conforme a lo establecido en esta Constitución y la Ley de Gobierno y Administración Municipal.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos públicos que resulten como economías o ahorros en los presupuestos anuales del Estado derivados de las reducciones en la integración de los ayuntamientos conforme al artículo 130 de esta Constitución, quedarán en el patrimonio de la hacienda pública de cada Municipio. El Congreso destinará estos recursos a obras de infraestructura pública en beneficio de la población dentro del presupuesto correspondiente, en los términos de la legislación aplicable, garantizando en todo momento, los principios de legalidad, honradez, transparencia y austeridad.
+
+###### ARTÍCULO SEXTO.
+
+El Congreso del Estado a la entrada en vigor de la presente Ley, no podrá autorizar, aprobar o ejercer incrementos reales a su presupuesto respecto del monto aprobado para el ejercicio fiscal 2026, ni incrementar dicha proporción respecto del Presupuesto de Egresos del Estado en los ejercicios fiscales subsecuentes.
