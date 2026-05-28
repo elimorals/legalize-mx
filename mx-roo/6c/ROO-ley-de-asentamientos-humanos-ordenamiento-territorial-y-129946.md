@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asentamientos-humanos-ordenamiento-territorial-y-129946"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-16"
-last_updated: "2026-04-21"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quinta Roo, el jueves 16 de agosto de 2018.
 
@@ -53,7 +53,9 @@ I. Establecer las disposiciones básicas e instrumentos para ordenar el uso del 
 
 II. Determinar las acciones y fijar las normas y criterios para una efectiva participación, congruencia y coordinación entre gobierno y sociedad a que se sujetará la ordenación del territorio, así como la fundación, crecimiento, mejoramiento, consolidación y conservación de los centros de población en el Estado, garantizando en todo momento el fomento, la protección y el acceso equitativo a los espacios públicos y los equipamientos;
 
-III. Establecer los criterios para armonizar la planeación y la ordenación de los asentamientos humanos con el ordenamiento sustentable del territorio y la seguridad de sus habitantes;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+III. Establecer los criterios para armonizar la planeación y la ordenación de los asentamientos humanos con el ordenamiento sustentable del territorio y la seguridad de la población;
 
 IV. Establecer las bases y definir los principios conforme a las cuales el Estado y los municipios ejercerán sus atribuciones para zonificar el territorio y determinar las correspondientes provisiones, usos del suelo, reservas y destinos de áreas y predios que regulan la propiedad en los centros de población;
 
@@ -61,7 +63,9 @@ V. Disponer las normas conforme a las cuales se dará la política del suelo y r
 
 VI. Establecer las normas conforme a las cuales se sujetará la autorización de las acciones urbanísticas, así como las demás obras de equipamiento, infraestructura y servicios urbanos en el Estado;
 
-VII. Determinar las normas básicas para la prevención de riesgos y contingencias en los asentamientos humanos, tendiente a garantizar la seguridad y protección civil de sus habitantes y sus bienes, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VII. Determinar las normas básicas para la prevención de riesgos y contingencias en los asentamientos humanos, tendiente a garantizar la seguridad y protección civil de la población y sus bienes, y
 
 VIII. Establecer las bases y propiciar mecanismos que permitan la participación ciudadana en los procesos de planeación y gestión del territorio, con base en el acceso a información transparente, completa y oportuna, así como la creación de instrumentos que garanticen la corresponsabilidad del gobierno y la ciudadanía en la formulación, seguimiento y evaluación de la política pública en la materia.
 
@@ -77,27 +81,43 @@ Es obligación de la autoridad estatal y municipal promover una cultura de corre
 
 La planeación y regulación de los asentamientos humanos, el desarrollo urbano, el ordenamiento del territorio y la coordinación metropolitana en el Estado, deberán considerar los siguientes principios de política pública:
 
-I. Derecho a la ciudad. Garantizar a todos los habitantes de un asentamiento humano o centros de población la humanización de los espacios, su dignidad social, el bien común y la sustentabilidad, así como el acceso a la vivienda, infraestructura, equipamiento y servicios básicos, a partir de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales suscritos por México en la materia, así como en la Constitución Política del Estado Libre y Soberano de Quintana Roo;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-II. Equidad e inclusión. Garantizar el ejercicio pleno de derechos en condiciones de igualdad, promoviendo la cohesión social a través de medidas que impidan la discriminación, segregación o marginación de individuos o grupos. Promover el respeto de los derechos de los grupos vulnerables, la perspectiva de género y que todos los habitantes puedan decidir entre una oferta diversa de suelo, viviendas, servicios, equipamientos, infraestructura y actividades económicas de acuerdo a sus preferencias, necesidades y capacidades;
+I. Derecho a la ciudad. Garantizar a la población habitante de un asentamiento humano o centros de población la humanización de los espacios, su dignidad social, el bien común y la sustentabilidad, así como el acceso a la vivienda, infraestructura, equipamiento y servicios básicos, a partir de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales suscritos por México en la materia, así como en la Constitución Política del Estado Libre y Soberano de Quintana Roo;
 
-III. Función social de la propiedad urbana. Garantizar la protección de los derechos de la propiedad inmobiliaria, pero que también los propietarios asuman responsabilidades específicas con el Estado y con la sociedad, respetando los derechos y límites previstos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y esta ley. El interés público prevalecerá en la ocupación y aprovechamiento del territorio;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-IV. Coherencia y racionalidad. Adoptar perspectivas que promuevan el ordenamiento territorial y el desarrollo urbano de manera equilibrada, armónica, racional y congruente, acorde a las políticas nacionales con centralidad en el ser humano y la sustentabilidad medioambiental; así como procurar la eficiencia y transparencia en el uso de los recursos públicos;
+II. Equidad e inclusión. Garantizar el ejercicio pleno de derechos en condiciones de igualdad, promoviendo la cohesión social a través de medidas que impidan la discriminación, segregación o marginación de las personas o agrupaciones de personas. Promover el respeto de los derechos de las personas en situación de vulnerabilidad, la perspectiva de género y que la población pueda decidir entre una oferta diversa de suelo, viviendas, servicios, equipamientos, infraestructura y actividades económicas de acuerdo a sus preferencias, necesidades y capacidades;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+III. Función social de la propiedad urbana. Garantizar la protección de los derechos de la propiedad inmobiliaria, pero que también las personas propietarias asuman responsabilidades específicas con el Estado y con la sociedad, respetando los derechos y límites previstos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y esta ley. El interés público prevalecerá en la ocupación y aprovechamiento del territorio;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IV. Coherencia y racionalidad. Adoptar perspectivas que promuevan el ordenamiento territorial y el desarrollo urbano de manera equilibrada, armónica, racional y congruente, acorde a las políticas nacionales con centralidad en las personas y la sustentabilidad medioambiental; así como procurar la eficiencia y transparencia en el uso de los recursos públicos;
 
 V. Participación democrática y transparencia. Proteger el derecho de todas las personas a participar en la formulación, seguimiento y evaluación de las políticas, programas que determinan el desarrollo de las ciudades y el territorio. Para lograrlo se garantizará la transparencia y el acceso a la información pública de conformidad con lo dispuesto en la presente Ley y demás legislación aplicable en la materia;
 
-VI. Productividad y eficiencia. Fortalecer la productividad y eficiencia de las ciudades y del territorio como eje del crecimiento económico, a través de la consolidación de redes de espacio público y equipamientos urbanos, vialidad y movilidad, energía y comunicaciones, creación y mantenimiento de infraestructura productiva, equipamientos y servicios públicos de calidad. Maximizar la capacidad de la ciudad para atraer y retener talentos e inversiones, minimizando costos y facilitar la actividad económica, sin perder de vista la centralidad del ser humano como fin último;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-VII. Protección y progresividad del espacio público. Crear condiciones de habitabilidad de los espacios públicos, como elementos fundamentales para el derecho a una vida sana, la convivencia, recreación y seguridad ciudadana que considere las necesidades diferenciadas por personas y grupos. Se fomentará el rescate, la creación y el mantenimiento de los espacios públicos que podrán ampliarse, o mejorarse pero nunca destruirse o verse disminuidos. En caso de utilidad pública, estos espacios sólo podrán ser sustituidos por otros que generen beneficios equivalentes;
+VI. Productividad y eficiencia. Fortalecer la productividad y eficiencia de las ciudades y del territorio como eje del crecimiento económico, a través de la consolidación de redes de espacio público y equipamientos urbanos, vialidad y movilidad, energía y comunicaciones, creación y mantenimiento de infraestructura productiva, equipamientos y servicios públicos de calidad. Maximizar la capacidad de la ciudad para atraer y retener talentos e inversiones, minimizando costos y facilitar la actividad económica, sin perder de vista la centralidad de la persona como fin último;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VII. Protección y progresividad del espacio público. Crear condiciones de habitabilidad de los espacios públicos, como elementos fundamentales para el derecho a una vida sana, la convivencia, recreación y seguridad ciudadana que considere las necesidades diferenciadas por personas y agrupaciones. Se fomentará el rescate, la creación y el mantenimiento de los espacios públicos que podrán ampliarse, o mejorarse, pero nunca destruirse o verse disminuidos. En caso de utilidad pública, estos espacios sólo podrán ser sustituidos por otros que generen beneficios equivalentes;
 
 VIII. Resiliencia, seguridad urbana y riesgos. Propiciar y fortalecer todas las instituciones y medidas de prevención, mitigación, atención, adaptación y resiliencia que tengan por objetivo proteger a las personas y su patrimonio, frente a los riesgos naturales y antrópicos; así como evitar la ocupación de zonas de alto riesgo;
 
 IX. Sustentabilidad ambiental. Promover prioritariamente, el uso racional del agua y de los recursos naturales renovables y no renovables; así como evitar rebasar la capacidad de carga de los ecosistemas y que el crecimiento urbano ocurra sobre suelos agropecuarios de alta calidad, áreas naturales protegidas, manglares y cenotes; para evitar comprometer la capacidad de futuras generaciones;
 
-X. Accesibilidad universal y movilidad. Promover una adecuada accesibilidad universal que genere cercanía y favorezca la relación entre diferentes actividades urbanas con medidas como la flexibilidad de usos del suelo compatibles y densidades sustentables, un patrón vertebrador de la vida social que dignifique al ser humano, a través del espacio público posibilitando el encuentro y la convivencia, una coherente planificación de redes viales primarias, la distribución jerarquizada de los equipamientos y una efectiva movilidad que privilegie las calles completas, el transporte público, peatonal y el no motorizado, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-XI. Desregulación y simplificación administrativa. Asegurar que los trámites, requisitos y plazos de los procedimientos ante la Administración Pública que establece esta ley, sean explícitos y claros, dando certeza a los particulares y evitando la discrecionalidad y la corrupción. En ningún caso se podrán crear nuevos conceptos, ampliar o duplicar los trámites, pagos o gravámenes por el mismo concepto por parte de las autoridades estatales y municipales.
+X. Accesibilidad universal y movilidad. Promover una adecuada accesibilidad universal que genere cercanía y favorezca la relación entre diferentes actividades urbanas con medidas como la flexibilidad de usos del suelo compatibles y densidades sustentables, un patrón vertebrador de la vida social que dignifique a la humanidad, a través del espacio público posibilitando el encuentro y la convivencia, una coherente planificación de redes viales primarias, la distribución jerarquizada de los equipamientos y una efectiva movilidad que privilegie las calles completas, el transporte público, peatonal y el no motorizado, y
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XI. Desregulación y simplificación administrativa. Asegurar que los trámites, requisitos y plazos de los procedimientos ante la Administración Pública que establece esta ley, sean explícitos y claros, dando certeza a las y los particulares y evitando la discrecionalidad y la corrupción. En ningún caso se podrán crear nuevos conceptos, ampliar o duplicar los trámites, pagos o gravámenes por el mismo concepto por parte de las autoridades estatales y municipales.
 
 ###### Artículo 5.
 
@@ -107,7 +127,9 @@ I. El efectivo cumplimiento de los principios y derechos a que se refiere este o
 
 II. La vinculación del desarrollo regional y urbano con el bienestar social de la población;
 
-III. El desarrollo socioeconómico sustentable e integral del Estado, armonizando la interrelación de los centros de población y el campo y distribuyendo equitativamente los beneficios y cargas entre todos los actores del proceso de urbanización;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+III. El desarrollo socioeconómico sustentable e integral del Estado, armonizando la interrelación de los centros de población y el campo y distribuyendo equitativamente los beneficios y cargas entre las personas actoras del proceso de urbanización;
 
 IV. La distribución equilibrada y sustentable de los centros de población y las actividades económicas en el territorio del Estado;
 
@@ -119,7 +141,9 @@ VII. El desarrollo planeado, particípativo y congruente de los procesos de conu
 
 VIII. El mejoramiento de las condiciones de habitabilidad en los asentamientos humanos rurales y comunidades indígenas, respetando sus valores y usos y costumbres;
 
-IX. La eficiente interacción entre los habitantes y el equipamiento, los servicios y la infraestructura que integran los sistemas de convivencia en los centros de población;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IX. La eficiente interacción entre la población y el equipamiento, los servicios y la infraestructura que integran los sistemas de convivencia en los centros de población;
 
 X. El establecimiento de áreas de suelo estratégico para la fundación, crecimiento, mejoramiento, consolidación y conservación de los centros de población;
 
@@ -179,7 +203,9 @@ IX. Barrio: Zona urbanizada de un centro de población dotado de identidad y car
 
 X. Centros de Población: Áreas constituidas por las zonas urbanizadas y las que se reserven a su expansión;
 
-XI. Conjunto Urbano: Es la modalidad que se adopta en la ejecución del desarrollo urbano, que tiene por objeto estructurar o reordenar, como una unidad espacial integral, el trazo de la infraestructura vial, la división del suelo, las normas de usos, aprovechamientos y destinos del suelo; las obras de infraestructura, la urbanización y equipamiento urbano, todas ellas a costa del promovente; la ubicación de la vivienda o lotes, la imagen urbana de un predio ubicado en áreas urbanas o urbanizables;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XI. Conjunto Urbano: Es la modalidad que se adopta en la ejecución del desarrollo urbano, que tiene por objeto estructurar o reordenar, como una unidad espacial integral, el trazo de la infraestructura vial, a división del suelo, las normas de usos, aprovechamientos y destinos del suelo; las obras de infraestructura, la urbanización y equipamiento urbano, todas ellas a costa de la persona promovente; la ubicación de la vivienda o lotes, la imagen urbana de un predio ubicado en áreas urbanas o urbanizables;
 
 XII. Consejo Estatal: El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano;
 
@@ -199,9 +225,13 @@ XVI. Conurbación: La continuidad física y demográfica que formen dos o más c
 
 XVII. Crecimiento: La acción tendiente a ordenar y regular la expansión física de los centros de población;
 
-XVIII. Densificación: Acción urbanística cuya finalidad es incrementar el número de habitantes y la población flotante por unidad de superficie, considerando la capacidad de soporte del territorio y en su caso, adecuando los espacios públicos y sus infraestructuras, conforme a los programas municipales a que se refiere el artículo 31 de esta ley;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-XIX. Desarrollo Urbano: Proceso de planeación y regulación de la fundación, crecimiento, mejoramiento, consolidación y conservación de los centros de población, en donde se privilegia al ser humano, el medio ambiente, la calidad de vida y el bien común, partiendo de estrategias y objetivos reflejados en ejes compositivos vertebradores del espacio público, la infraestructura, el equipamiento y la movilidad;
+XVIII. Densificación: Acción urbanística cuya finalidad es incrementar el número de la población y la población flotante por unidad de superficie, considerando la capacidad de soporte del territorio y en su caso, adecuando los espacios públicos y sus infraestructuras, conforme a los programas municipales a que se refiere el artículo 31 de esta ley;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XIX. Desarrollo Urbano: Proceso de planeación y regulación de la fundación, crecimiento, mejoramiento, consolidación y conservación de los centros de población, en donde se privilegia a las personas, el medio ambiente, la calidad de vida y el bien común, partiendo de estrategias y objetivos reflejados en ejes compositivos vertebradores del espacio público, la infraestructura, el equipamiento y la movilidad;
 
 XX. Desarrollo Metropolitano: Proceso de planeación, regulación, gestión, financiamiento y ejecución de acciones, obras y servicios, en zonas metropolitanas que por su población, extensión y complejidad, deberán participar en forma coordinada los tres órdenes de gobierno de acuerdo a sus atribuciones;
 
@@ -213,9 +243,13 @@ XXII. Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos
 
 XXIII. Equipamiento Urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos para desarrollar actividades económicas, sociales, culturales, deportivas, educativas, de traslado y de abasto;
 
-XXIV. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute y aprovechamiento colectivo, de acceso generalizado y libre tránsito, propiciando equilibrio, bienestar y convivencia, fortaleciendo al ser humano y su dignidad;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-XXV. Espacio Edificable: Suelo apto para el uso y aprovechamiento de sus propietarios o poseedores en los términos de la legislación correspondiente;
+XXIV. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute y aprovechamiento colectivo, de acceso generalizado y libre tránsito, propiciando equilibrio, bienestar y convivencia, fortaleciendo a las personas y su dignidad;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XXV. Espacio Edificable: Suelo apto para el uso y aprovechamiento de las personas propietarias o poseedoras en los términos de la legislación correspondiente;
 
 XXVI. Estado: El Estado de Quintana Roo;
 
@@ -233,7 +267,9 @@ XXX. Fundación: La acción de establecer un nuevo centro de población;
 
 XXXI. Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la implementación de políticas públicas, estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Comprende la identificación de los riesgos y, en su caso, su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
 
-XXXII. Imagen Urbana: El conjunto de elementos naturales, construidos y artísticos que integran una ciudad, tales como la traza urbana, la zonificación urbana, sus usos y destinos, el espacio público, los edificios, el equipamiento urbano, las expresiones plásticas, los hitos, los corredores biológicos, el medio ambiente natural, y todo aquello que formando referencias visuales dan identidad al centro de población, transmitiendo valores y cosmovisiones, fortaleciendo el arraigo y la dignidad de sus moradores;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XXXII. Imagen Urbana: El conjunto de elementos naturales, construidos y artísticos que integran una ciudad, tales como la traza urbana, la zonificación urbana, sus usos y destinos, el espacio público, los edificios, el equipamiento urbano, las expresiones plásticas, los hitos, los corredores biológicos, el medio ambiente natural, y todo aquello que formando referencias visuales dan identidad al centro de población, transmitiendo valores y cosmovisiones, fortaleciendo el arraigo y la dignidad de las personas moradoras;
 
 XXXIII. Infraestructura: Los sistemas y redes de organización y distribución de bienes y servicios en los asentamientos humanos, incluyendo los espacios públicos, los elementos para la movilidad de las personas y las relativas a las telecomunicaciones y radiodifusión;
 
@@ -249,7 +285,9 @@ XXXVIII. Parcelación: Al acto por el cual se fracciona, segrega o divide un pre
 
 XXXIX. Patrimonio Natural y Cultural: Sitios, lugares o edificaciones con valor arqueológico, histórico, artístico, ambiental o de otra naturaleza, definidos y regulados por la legislación correspondiente;
 
-XL. Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano: Es el conjunto de estudios, políticas, instrumentos, normas técnicas y disposiciones jurídicas relativas a la ordenación y regulación de los asentamientos humanos, el ordenamiento territorial en el Estado, en donde se prioriza al ser humano, el bien común y el medio ambiente natural y su biodiversidad, con la finalidad de dignificar la calidad de vida, el enraizamiento de costumbres, y la formación de un tejido de relaciones territoriales y comunitarias, que propicien certeza y seguridad jurídica, dentro de una cultura de sustentabilidad socio ambiental;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XL. Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano: Es el conjunto de estudios, políticas, instrumentos, normas técnicas y disposiciones jurídicas relativas a la ordenación y regulación de los asentamientos humanos, el ordenamiento territorial en el Estado, en donde se prioriza a las personas, el bien común y el medio ambiente natural y su biodiversidad, con la finalidad de dignificar la calidad de vida, el enraizamiento de costumbres, y la formación de un tejido de relaciones territoriales y comunitarias, que propicien certeza y seguridad jurídica, dentro de una cultura de sustentabilidad socio ambiental;
 
 XLI. Polígonos de Salvaguarda: Son aquellas áreas que pueden ser afectadas por actividades riesgosas, y en general aquellas que por su importancia tengan como finalidad la protección y seguridad de la población, sus bienes y el ambiente;
 
@@ -259,7 +297,9 @@ XLIII. Programas y Planes Municipales de Desarrollo Urbano: Son los instrumentos
 
 XLIV. Provisiones: Las áreas que serán utilizadas para la fundación de un centro de población;
 
-XLV. Reagrupamiento Parcelario: Es un instrumento de intervención urbana, que permite la ejecución de acciones de crecimiento, mejoramiento o conservación en un área determinada de un Centro de Población, mediante la agrupación y redefinición de las propiedades y los espacios públicos, mediante la asociación y gestión común de sus propietarios y las autoridades municipales;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XLV. Reagrupamiento Parcelario: Es un instrumento de intervención urbana, que permite la ejecución de acciones de crecimiento, mejoramiento o conservación en un área determinada de un Centro de Población, mediante la agrupación y redefinición de las propiedades y los espacios públicos, mediante la asociación y gestión común de las personas propietarias y las autoridades municipales;
 
 XLVI. Registro Público: El Registro Público de la Propiedad y del Comercio del Estado de Quintana Roo;
 
@@ -269,7 +309,9 @@ a. Otorgar las autorizaciones urbanísticas para un asentamiento humano irregula
 
 b. Promover y resolver la legitimación de la posesión y la propiedad de la tierra, en aquellos casos que proceda;
 
-c. La obtención y regularización de escrituras públicas o títulos de propiedad a favor de posesionarios legítimos, ubicados en asentamientos regulares, y
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+c. La obtención y regularización de escrituras públicas o títulos de propiedad a favor de las personas posesionarias legítimas, ubicados en asentamientos regulares, y
 
 d. Promover el mejoramiento integral de los asentamientos humanos.
 
@@ -301,7 +343,9 @@ LX. Zona Metropolitana: Centros de población o conurbaciones que, por su comple
 
 LXI. Zonificación Primaria: La determinación de las áreas que integran un territorio municipal, comprendiendo aquellas de preservación ecológica y del medio rural, con características no urbanizables; así como aquellas ocupadas por los centros de población o los asentamientos humanos, incluyendo sus aprovechamientos predominantes, espacios públicos, infraestructuras y equipamientos estratégicos, las reservas de usos y destinos de suelo, así como la clasificación de las áreas de crecimiento, conservación y mejoramiento;
 
-LXII. Zonificación Incluyente: Instrumento que permite dar flexibilidad a los usos del suelo y transparencia financiera a la gestión urbana, mediante el cual, los ciudadanos puedan desarrollar y acceder a mejores condiciones para el desarrollo de sus propiedades, así como generar mecanismos para sufragar los rezagos de infraestructura y equipamiento urbano en los centros de población;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+LXII. Zonificación Incluyente: Instrumento que permite dar flexibilidad a los usos del suelo y transparencia financiera a la gestión urbana, mediante el cual, la ciudadanía pueda desarrollar y acceder a mejores condiciones para el desarrollo de sus propiedades, así como generar mecanismos para sufragar los rezagos de infraestructura y equipamiento urbano en los centros de población;
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
 
@@ -315,11 +359,11 @@ LXIV. Zona de Riesgo: Espacio territorial determinado en el que existe la probab
 
 LXV. Vivienda Social: Es aquella destinada a personas que no cuentan con la capacidad económica para adquirir una vivienda, priorizando a quienes se encuentran en condiciones de bajos ingresos, pobreza, riesgo o vulnerabilidad, a través de los programas sociales y crediticios de vivienda. Se clasifica en económica, popular y tradicional de conformidad con las disposiciones jurídicas aplicables y la normativa federal en la materia.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 8.
 
-En lo no previsto por esta ley se aplicarán en forma supletoria la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Quintana Roo, el Código de Justicia Administrativa del Estado de Quintana Roo; el Código Civil para el Estado de Quintana Roo y el Código Penal para el Estado Libre y Soberano de Quintana Roo.
+En lo no previsto por esta ley se aplicarán en forma supletoria la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Quintana Roo, el Código de Procedimientos y Justicia Administrativa del Estado de Quintana Roo; el Código Civil para el Estado de Quintana Roo y el Código Penal para el Estado Libre y Soberano de Quintana Roo.
 
 ## Título Segundo. De Las Autoridades
 
@@ -377,15 +421,21 @@ XII. Promover la participación social en las materias a que se refiere este ord
 
 La Secretaría, además de las atribuciones que le asigna la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, tendrá las siguientes:
 
-I. Formular, modificar, actualizar y evaluar la Estrategia Estatal de Ordenamiento Territorial y el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, así como sus actualizaciones, en coordinación, participación y consenso con los representantes público, social y privado en materia de Ordenamiento Territorial y Desarrollo Urbano, así como también someterlo a la consideración de la persona Titular del Ejecutivo;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I. Formular, modificar, actualizar y evaluar la Estrategia Estatal de Ordenamiento Territorial y el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, así como sus actualizaciones, en coordinación, participación y consenso con las personas representantes públicas, sociales y privadas en materia de Ordenamiento Territorial y Desarrollo Urbano, así como también someterlo a la consideración de la Gobernadora o el Gobernador del Estado de Quintana Roo;
 
 II. Participar de manera conjunta con los municipios, en la ordenación y regulación de centros de población, ubicados en el territorio de la entidad, que constituyan o tiendan a constituir una conurbación o zona metropolitana;
 
 III. Apoyar y participar, en coordinación con los Municipios involucrados, en la ejecución de los programas a que se refiere el artículo 31 de esta ley, en coordinación con otras dependencias y entidades públicas y con la participación de los sectores social y privado;
 
-IV. Promover, en coordinación, participación y consenso con los representantes público, social y privado en materia de Ordenamiento Territorial y Desarrollo Urbano, las políticas y estrategias de ordenamiento territorial y desarrollo urbano, así como de suelo urbano y reservas territoriales, incluyendo la asignación de recursos presupuestales y de otras fuentes de financiamiento en la materia;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-V. En coordinación con los actores del territorio, verificar la congruencia y vinculación que deberán observar entre sí los distintos instrumentos de planeación del territorio, emitiendo los dictámenes o resoluciones, fundados y motivados, que correspondan;
+IV. Promover, en coordinación, participación y consenso con las personas representantes públicas, sociales y privadas en materia de Ordenamiento Territorial y Desarrollo Urbano, las políticas y estrategias de ordenamiento territorial y desarrollo urbano, así como de suelo urbano y reservas territoriales, incluyendo la asignación de recursos presupuestales y de otras fuentes de financiamiento en la materia;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+V. En coordinación con las personas actoras del territorio, verificar la congruencia y vinculación que deberán observar entre sí los distintos instrumentos de planeación del territorio, emitiendo los dictámenes o resoluciones, fundados y motivados, que correspondan;
 
 > <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
 
@@ -397,15 +447,21 @@ VIII. Intervenir en los procesos de regularización territorial, en los término
 
 IX. Gestionar y, en su caso, ejercer el derecho de preferencia que corresponde al Estado, para la adquisición de predios comprendidos en las áreas de crecimiento conforme a lo dispuesto en el artículo 132 de esta ley;
 
-X. Promover en coordinación con los actores del territorio que las acciones e inversiones en materia de esta ley que realicen las dependencias y entidades de la administración pública estatal, se ajusten a la misma y a los instrumentos de planeación a que se refiere el artículo 31 de esta ley;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-XI. Vigilar el cumplimiento de las políticas de ordenamiento territorial de los asentamientos humanos en la entidad, y de los convenios y acuerdos que suscriba el Titular del Ejecutivo con los sectores público, social y privado, en materia de desarrollo urbano, así como determinar, en su caso, las medidas correctivas procedentes;
+X. Promover en coordinación con las personas actoras del territorio que las acciones e inversiones en materia de esta ley que realicen las dependencias y entidades de la administración pública estatal, se ajusten a la misma y a los instrumentos de planeación a que se refiere el artículo 31 de esta ley;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XI. Vigilar el cumplimiento de las políticas de ordenamiento territorial de los asentamientos humanos en la entidad, y de los convenios y acuerdos que suscriba la Gobernadora o el Gobernador del Estado de Quintana Roo con los sectores público, social y privado, en materia de desarrollo urbano, así como determinar, en su caso, las medidas correctivas procedentes;
 
 XII. Verificar y asegurarse de la publicación en el Periódico Oficial del Estado de Quintana Roo y su inscripción en el Registro Público, de los instrumentos de planeación a que alude el artículo 31 de esta ley;
 
 XIII. Asesorar a los Municipios en la elaboración y asistir en la ejecución de los programas municipales a que se refiere el artículo 31 de esta ley, la gestión de recursos y en la capacitación técnica de su personal;
 
-XIV. Coordinar las acciones que convenga el Titular del Ejecutivo con los gobiernos federal y municipales para el ordenamiento territorial y el desarrollo urbano, de las zonas metropolitanas y áreas conurbadas;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XIV. Coordinar las acciones que convenga la Gobernadora o el Gobernador del Estado de Quintana Roo con los gobiernos federal y municipales para el ordenamiento territorial y el desarrollo urbano, de las zonas metropolitanas y áreas conurbadas;
 
 XV. Promover, apoyar y realizar investigaciones científicas y tecnológicas en materia de ordenamiento territorial, desarrollo urbano, regional y metropolitano, así como promover ante las autoridades correspondientes la adecuación de los programas educativos, en todos los niveles, para fomentar una cultura de los derechos y valores urbanos;
 
@@ -429,15 +485,21 @@ XXIII. Informar y difundir permanentemente sobre el contenido, la aplicación y 
 
 XXIV. Emitir el Dictamen de Verificación de Congruencia, sobre los instrumentos de planeación municipales a que se refiere el artículo 31 de esta Ley, como requisito previo para solicitar su inscripción en el Registro Público de la Propiedad y del Comercio;
 
-XXV. En coordinación con las autoridades, las instancias federales, estatales y municipales correspondientes homologar en todos los municipios los perfiles profesionales para los peritos responsables de obra y corresponsables;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-XXVI. Promover la capacitación de los peritos y servidores públicos involucrados en la gestión urbanística en el Estado;
+XXV. En coordinación con las autoridades, las instancias federales, estatales y municipales correspondientes homologar en todos los municipios los perfiles profesionales para las personas peritos responsables de obra y corresponsables;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XXVI. Promover la capacitación de las personas peritos y servidoras públicas involucradas en la gestión urbanística en el Estado;
 
 XXVII. Resolver los recursos de su competencia;
 
 XXVIII. Inspeccionar, vigilar y verificar el cumplimiento y aplicación de las disposiciones legales de su competencia, y
 
-XXIX. Imponer medidas de seguridad y sanciones administrativas de acuerdo con su competencia, a los infractores de las disposiciones jurídicas, en los términos de esta ley.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XXIX. Imponer medidas de seguridad y sanciones administrativas de acuerdo con su competencia, a las personas infractoras de las disposiciones jurídicas, en los términos de esta ley.
 
 ###### Artículo 13.
 
@@ -471,7 +533,9 @@ XII. Prestar los servicios públicos municipales, atendiendo a lo previsto en la
 
 XIII. Otorgar o negar las autorizaciones, licencias o permisos para realizar fusiones, subdivisiones, parcelaciones, relotificaciones, fraccionamientos, condominios, conjuntos urbanos o urbanizaciones, así como de construcción, ampliación, remodelación, reparación, restauración, demolición o reconstrucción de inmuebles, de propiedad pública o privada situados en el Municipio, con estricto apego a este ordenamiento, los programas municipales a que se refiere el artículo 31 de esta ley y demás normas aplicables; sin menoscabo de las atribuciones que esta ley le confiere al Gobierno del Estado;
 
-XIV. Llevar el registro de peritos responsables de obra y corresponsables que ejerzan tales funciones en el Municipio;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XIV. Llevar el registro de personas peritos responsables de obra y corresponsables que ejerzan tales funciones en el Municipio.
 
 XV. Autorizar conforme a lo previsto en los programas municipales a que se refiere el artículo 31 de esta ley, la ampliación y delimitación de las zonas de urbanización ejidal y su reserva de crecimiento;
 
@@ -495,7 +559,9 @@ XXIV. Atender y cumplir los lineamientos y normas relativas a los polígonos de 
 
 XXV. Establecer y promover mecanismos de participación ciudadana para la formulación, modificación y evaluación de los programas municipales a que se refiere el artículo 31 de esta ley, de conformidad con lo dispuesto por esta ley;
 
-XXVI. Vigilar el cumplimiento de este ordenamiento, así como imponer medidas de seguridad y sanciones administrativas a los infractores de las disposiciones jurídicas y de los programas municipales a que se refiere el artículo 31 de esta ley, así como dar vista a las autoridades competentes, para la aplicación de las sanciones que en materia penal se deriven de las faltas y violaciones en la materia;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XXVI. Vigilar el cumplimiento de este ordenamiento, así como imponer medidas de seguridad y sanciones administrativas a las personas infractoras de las disposiciones jurídicas y de los programas municipales a que se refiere el artículo 31 de esta ley, así como dar vista a las autoridades competentes, para la aplicación de las sanciones que en materia penal se deriven de las faltas y violaciones en la materia;
 
 XXVII. Resolver sobre los recursos administrativos que conforme a su competencia le sean planteados;
 
@@ -573,7 +639,9 @@ VII. La prevención, control y atención de riesgos y contingencias ambientales 
 
 VIII. La participación en los procesos de los observatorios ciudadanos.
 
-### Capítulo Segundo. De los Derechos y Obligaciones de los Ciudadanos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2026)</small>
+
+### Capítulo Segundo. De los Derechos y Obligaciones de la Ciudadanía
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
@@ -655,11 +723,11 @@ II. Los Consejos Metropolitanos y de Conurbaciones.
 
 III. Los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 25.
 
-El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano, es un órgano de consulta y participación de los sectores y grupos de la comunidad, su conformación será incluyente y representativa de los diversos sectores de la sociedad civil y tendrá por objeto el análisis, diagnóstico, aportación, difusión y evaluación de los programas, proyectos, obras, acciones e inversiones que se lleven a cabo conforme a las disposiciones de esta ley. Su sede será la ciudad de Chetumal, Quintana Roo, pudiendo sesionar fuera de ella, y funcionará permanentemente con jurisdicción en toda la entidad.
+El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano, es un órgano de consulta y participación de los sectores y agrupaciones de la comunidad, su conformación será incluyente y representativa de los diversos sectores de la sociedad civil y tendrá por objeto el análisis, diagnóstico, aportación, difusión y evaluación de los programas, proyectos, obras, acciones e inversiones que se lleven a cabo conforme a las disposiciones de esta ley. Su sede será la ciudad de Chetumal, Quintana Roo, pudiendo sesionar fuera de ella, y funcionará permanentemente con jurisdicción en toda la entidad.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
 
@@ -679,9 +747,13 @@ III. Los Ayuntamientos, que estarán representados por la persona titular de la 
 
 IV. Una persona Secretaria de Actas y Acuerdos, que será designada por la persona titular de la presidencia municipal.
 
-V. Las personas Vocales, que no serán menos de quince y un máximo de cuarenta y ocho, entre los que se incluirá a una persona representante de las dependencias y entidades de la administración pública federal y estatal relacionadas con el ordenamiento territorial; representantes de los centros de investigación y educación superior, cámaras empresariales, colegios de profesionistas, prestadores de servicios inmobiliarios, asociaciones y organizaciones de los sectores social y privado que, a juicio de la persona Titular de la Secretaría, deban integrarse al Consejo Estatal, en virtud de que sus actividades incidan en el desarrollo urbano y ordenamiento territorial o se vinculen con éstos.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-Adicionalmente podrán solicitar su inclusión como integrantes del Consejo, asociaciones y organizaciones de los sectores social y privado, misma que deberá de ser votada para aceptar o negar su incorporación. En todo caso, se deberá asegurar una mayoría de representantes de la ciudadanía en la composición del mismo en relación al número de representantes del Gobierno del Estado. El Consejo Estatal deberá convocarse cuando así lo determine el Pleno, la persona titular de la presidencia o a solicitud de una tercera parte de sus integrantes.
+V. Las personas Vocales, que no serán menos de quince y un máximo de cuarenta y ocho, entre las que se incluirá a una persona representante de las dependencias y entidades de la administración pública federal y estatal relacionadas con el ordenamiento territorial; representantes de los centros de investigación y educación superior, cámaras empresariales, colegios de profesionistas, personas prestadoras de servicios inmobiliarios, asociaciones y organizaciones de los sectores social y privado que, a juicio de la persona Titular de la Secretaría, deban integrarse al Consejo Estatal, en virtud de que sus actividades incidan en el desarrollo urbano y ordenamiento territorial o se vinculen con éstos.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Adicionalmente podrán solicitar su inclusión como integrantes del Consejo, asociaciones y organizaciones de los sectores social y privado, misma que deberá de ser votada para aceptar o negar su incorporación. En todo caso, se deberá asegurar una mayoría de personas representantes de la ciudadanía en la composición del mismo en relación al número de personas representantes del Gobierno del Estado. El Consejo Estatal deberá convocarse cuando así lo determine el Pleno, la persona titular de la presidencia o a solicitud de una tercera parte de sus integrantes.
 
 Para su instalación, así como para la inclusión de nuevas personas integrantes, incluyendo la sustitución o expulsión de personas que anteriormente hubieren sido incluidas, tratándose de personas representantes de la ciudadanía, deberá realizarse una convocatoria pública, la cual, se difundirá ampliamente por todos los medios de comunicación posibles, al menos con 15 días de anticipación, a efecto de propiciar la participación de la ciudadanía en general, requiriéndose la justificación de las razones para la aceptación o negación de las propuestas a las que se refiere el párrafo anterior.
 
@@ -699,7 +771,9 @@ I. Opinar y emitir recomendaciones sobre el proceso de formulación, ejecución 
 
 II. Emitir recomendaciones sobre las obras de infraestructura, urbanización, espacio público, movilidad y equipamiento urbano;
 
-III. Proponer la integración de comités especiales o de los grupos técnicos de asesoramiento y apoyo que consideren necesarios, que tendrán las facultades que se establezcan en su acta de instalación, reglamento interior y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+III. Proponer la integración de comités especiales o de las agrupaciones técnicas de asesoramiento y apoyo que consideren necesarios, que tendrán las facultades que se establezcan en su acta de instalación, reglamento interior y demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
@@ -735,19 +809,27 @@ Los Municipios del Estado deberán contar con un órgano de opinión y consulta 
 
 Los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano se integrarán por:
 
-I. Una persona Presidente, que será la persona que ocupe la Presidencia Municipal que corresponda.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I. Una persona titular de la Presidencia, que será la persona que ocupe la Presidencia Municipal que corresponda.
 
 II. Una persona Secretaria Técnica, que será la persona titular de la dependencia del Ayuntamiento a cargo de las funciones relacionadas con el desarrollo urbano.
 
-III. Una persona Secretaria de Actas y Acuerdos, que será designada por la persona titular de la Presidencia o su suplente.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-IV. Las personas Vocales, que no serán menos de diez y un máximo que determine el municipio correspondiente, entre las que se incluirá una persona representante de las dependencias y entidades de la administración pública federal, estatal y municipal relacionadas con el desarrollo urbano, medio ambiente y ordenamiento territorial; y, no más de una persona representante de los colegios de profesionistas municipales, cámaras empresariales, prestadores de servicios inmobiliarios, asociaciones y organizaciones de los sectores social y privado que, a juicio de la persona titular de la presidencia, deban integrarse en virtud de que sus actividades incidan en el desarrollo urbano y ordenamiento territorial o se vinculen con éstos.
+III. Una persona Secretaria de Actas y Acuerdos, que será designada por la persona titular de la Presidencia o quien ejerza la suplencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
+IV. Las personas Vocales, que no serán menos de diez y un máximo que determine el municipio correspondiente, entre las que se incluirá una persona representante de las dependencias y entidades de la administración pública federal, estatal y municipal relacionadas con el desarrollo urbano, medio ambiente y ordenamiento territorial; y, no más de una persona representante de los colegios de profesionistas municipales, cámaras empresariales, de las personas prestadoras de servicios inmobiliarios, asociaciones y organizaciones de los sectores social y privado que, a juicio de la persona titular de la presidencia, deban integrarse en virtud de que sus actividades incidan en el desarrollo urbano y ordenamiento territorial o se vinculen con éstos.
 
 Adicionalmente sin exceder el máximo que determine el municipio correspondiente podrán solicitar su inclusión como personas integrantes de los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano, asociaciones y organizaciones de los sectores social y privado, misma que deberá de ser votada para aceptar o negar su incorporación. En todo caso se deberá asegurar una mayoría de personas representantes de la ciudadanía en la composición del mismo.
 
 Para su instalación, así como para la inclusión de nuevas personas integrantes, incluyendo la sustitución o expulsión de personas que anteriormente hubieren sido incluidas, tratándose de personas representantes de la ciudadanía, deberá realizarse una convocatoria pública, la cual, se difundirá ampliamente por todos los medios de comunicación posibles, al menos con 15 días de anticipación, a efecto de propiciar la participación de la ciudadanía en general, requiriéndose la justificación de las razones para la aceptación o negación de las propuestas a las que se refiere el párrafo anterior.
 
-Las personas consejeras que integran los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano contarán con voz y voto para determinar el consenso de su criterio, su participación será a título de colaboración ciudadana y su desempeño tendrá el carácter honorífico, por lo que no percibirán remuneración alguna por el ejercicio de sus funciones, ni serán consideradas personas servidoras públicas ni autoridades. Las ausencias de la persona titular de la presidencia, serán suplidas por la persona suplente, de preferencia la persona titular de la dependencia del Ayuntamiento a cargo de las funciones de planeación urbana.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Las personas consejeras que integran los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano contarán con voz y voto para determinar el consenso de su criterio, su participación será a título de colaboración ciudadana y su desempeño tendrá el carácter honorífico, por lo que no percibirán remuneración alguna por el ejercicio de sus funciones, ni serán consideradas personas servidoras públicas ni autoridades. Las ausencias de la persona titular de la presidencia, serán suplidas por quien ejerza la suplencia, de preferencia la persona titular de la dependencia del Ayuntamiento a cargo de las funciones de planeación urbana.
 
 Sesionarán previa convocatoria de la persona que ocupe la Presidencia cuando menos una vez cada cuatro meses, efectuando como mínimo tres sesiones ordinarias al año y las extraordinarias que sean necesarias, cuando así lo solicite la persona titular de la presidencia o una tercera parte de sus integrantes.
 
@@ -765,11 +847,15 @@ I. Opinar, emitir recomendaciones y coadyuvar en los procesos de consulta convoc
 
 II. Promover la participación social en las materias a que se refiere este ordenamiento, especialmente en lo que hace a la formulación, actualización y seguimiento de los instrumentos de planeación de las distintas localidades del Municipio, incluyendo el mejoramiento de barrios y colonias, así como el rescate, ampliación y conservación del espacio público;
 
-III. Opinar y emitir recomendaciones a las autoridades responsables o al Consejo Estatal, acerca de las demandas, propuestas, quejas y denuncias en la materia, de las distintas localidades del Municipio que presenten sus habitantes;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+III. Opinar y emitir recomendaciones a las autoridades responsables o al Consejo Estatal, acerca de las demandas, propuestas, quejas y denuncias en la materia, de las distintas localidades del Municipio que presente la población residente;
 
 IV. Proponer programas permanentes de información y difusión de los aspectos vinculados con las acciones que se deriven de los instrumentos de planeación que afecten al Municipio;
 
-V. Promover e impulsar la capacitación técnica de los servidores públicos municipales en materia de desarrollo urbano y la adecuada aplicación de sus normas;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+V. Promover e impulsar la capacitación técnica de las personas servidoras públicas municipales en materia de desarrollo urbano y la adecuada aplicación de sus normas;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
@@ -779,7 +865,9 @@ VI. Integrar el Consejo Técnico Asesor, para coadyuvar en el análisis y emisi�
 
 VII. Solicitar la opinión de las instituciones académicas y de profesionistas en las diversas materias que inciden en el desarrollo urbano y ecológico municipal, con el propósito de enriquecer sus planteamientos y propuestas;
 
-VIII. Evaluar los estudios y proyectos específicos tendientes a solucionar los problemas urbanos y formular las propuestas correspondientes, pudiendo recomendar que se efectúen las consultas que a su juicio deban formularse a peritos en las materias objeto de esta ley;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VIII. Evaluar los estudios y proyectos específicos tendientes a solucionar los problemas urbanos y formular las propuestas correspondientes, pudiendo recomendar que se efectúen las consultas que a su juicio deban formularse a personas peritos en las materias objeto de esta ley;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
@@ -861,7 +949,9 @@ I. Identificar los sistemas urbano rurales y la regionalización que estructuran
 
 II. A partir de un análisis estratégico, en el que se incluya a los Municipios, plantear medidas para el desarrollo sustentable de las regiones del Estado, en función de sus recursos naturales, de sus actividades productivas y del equilibrio entre el medio urbano y rural, así como de los asentamientos humanos y sus condiciones ambientales;
 
-III. Proponer lineamientos para la dotación de la infraestructura, espacio público, equipamientos, instalaciones básicas y la movilidad, para el desarrollo de las regiones del estado, que permitan mejorar la calidad de vida de los habitantes y sus comunidades, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+III. Proponer lineamientos para la dotación de la infraestructura, espacio público, equipamientos, instalaciones básicas y la movilidad, para el desarrollo de las regiones del estado, que permitan mejorar la calidad de vida de la población y sus comunidades, y
 
 IV. Plantear y establecer junto a los Municipios los mecanismos para su implementación, articulación intersectorial y evaluación.
 
@@ -873,7 +963,9 @@ La Estrategia Estatal de Ordenamiento Territorial tendrá una visión con un hor
 
 I. La Secretaría, en coordinación con SEMA y SEDETUR, formulará la Estrategia Estatal de Ordenamiento Territorial y la pondrá a consideración del Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano;
 
-II. El Presidente del Consejo Estatal convocará a sesiones plenarias, a fin de que sus integrantes, de manera conjunta, formulen, analicen, evalúen y emitan opinión sobre la propuesta de Estrategia Estatal de Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II. La persona titular de la Presidencia del Consejo Estatal convocará a sesiones plenarias, a fin de que sus integrantes, de manera conjunta, formulen, analicen, evalúen y emitan opinión sobre la propuesta de Estrategia Estatal de Ordenamiento Territorial;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
@@ -895,9 +987,9 @@ I. Marco de referencia en el contexto del Plan Nacional de Desarrollo, del Plan 
 
 II. Las conclusiones del diagnóstico;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-III. Las políticas y estrategias de ordenamiento territorial y desarrollo urbano de las regiones, zonas metropolitanas y Municipios del Estado, en función de sus recursos naturales, de sus actividades productivas, la dignidad del ser humano, sus relaciones sociales, el bien común, y del equilibrio entre los asentamientos humanos y sus condiciones ambientales, que orienten la inversión pública y privada a proyectos prioritarios para la conservación de los recursos naturales y el desarrollo urbano y metropolitano, y
+III. Las políticas y estrategias de ordenamiento territorial y desarrollo urbano de las regiones, zonas metropolitanas y Municipios del Estado, en función de sus recursos naturales, de sus actividades productivas, la dignidad de las personas, sus relaciones sociales, el bien común, y del equilibrio entre los asentamientos humanos y sus condiciones ambientales, que orienten la inversión pública y privada a proyectos prioritarios para la conservación de los recursos naturales y el desarrollo urbano y metropolitano, y
 
 IV. Los instrumentos que permitan la puesta en marcha y ejecución de las políticas, estrategias y proyectos prioritarios planteados, así como los mecanismos de control y evaluación correspondientes.
 
@@ -929,17 +1021,21 @@ La participación social y ciudadana en los distintos talleres o consultas públ
 
 I. El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano dará aviso público, del inicio del proceso de planeación y pondrá a consideración social y ciudadana en forma impresa, digital, electrónica el proyecto y los alcances, así como la calendarización de los talleres a realizarse en la formulación y que deberá contener el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, difundiéndolo ampliamente; en una sesión en el pleno del Consejo Estatal. Una vez iniciado el proceso de formulación del documento, este será revisado por el consejo en cada uno de sus apartados en las sesiones que para ello sea necesario realizar a convocatoria de la Secretaría;
 
-II. El Consejo Estatal establecerá un término no menor de veintiún días hábiles, para recibir y analizar los comentarios y aportaciones que consideren oportuno formular las personas, instituciones y los distintos grupos relacionados con la materia, que integran la comunidad;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II. El Consejo Estatal establecerá un término no menor de veintiún días hábiles, para recibir y analizar los comentarios y aportaciones que consideren oportuno formular las personas, instituciones y las distintas agrupaciones relacionadas con la materia, que integran la comunidad;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
 III. Los comentarios y aportaciones de la consulta serán enviados por el Consejo Estatal a la Secretaría, quien dará respuestas a dichos planteamientos;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-IV. Las modificaciones del proyecto se realizarán con aquellas aportaciones que se consideren procedentes y que contribuyan al perfeccionamiento y soporte del proyecto y estarán a consulta de los interesados en las oficinas de la Secretaría, así como en la página electrónica del Gobierno del Estado, en los términos que se fijen en la convocatoria, por un plazo no menor de quince días hábiles para que expresen sus opiniones y propuestas, y
+IV. Las modificaciones del proyecto se realizarán con aquellas aportaciones que se consideren procedentes y que contribuyan al perfeccionamiento y soporte del proyecto y estarán a consulta de las personas interesadas en las oficinas de la Secretaría, así como en la página electrónica del Gobierno del Estado, en los términos que se fijen en la convocatoria, por un plazo no menor de quince días hábiles para que expresen sus opiniones y propuestas, y
 
-V. Una vez integrado el proyecto, se remitirá al Titular del Ejecutivo para su aprobación, publicación, registro y difusión.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+V. Una vez integrado el proyecto, se remitirá a la Gobernadora o Gobernador del Estado de Quintana Roo para su aprobación, publicación, registro y difusión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
@@ -969,9 +1065,13 @@ En todo caso, las zonas metropolitanas deberán cumplir con los lineamientos, cr
 
 La planeación y gestión de las zonas metropolitanas se efectuará a través de las siguientes instancias:
 
-I. Un mecanismo de coordinación de autoridades, denominado Comisión de Ordenamiento Metropolitano, que se integrará por los titulares de la Secretaría, SEMA y SEDETUR y, los Presidentes municipales de la zona de que se trate, quienes participarán en el ámbito de su competencia. Se invitará a participar a las delegaciones del gobierno federal en la materia;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-II. Una instancia de participación social y ciudadana, denominado Consejo Consultivo Metropolitano, que se integrará mayoritariamente con representantes de la sociedad, y de los tres órdenes de Gobierno, incluyendo a cámaras y colegios de profesionistas con conocimiento y experiencia en la materia;
+I. Un mecanismo de coordinación de autoridades, denominado Comisión de Ordenamiento Metropolitano, que se integrará por las personas titulares de la Secretaría, SEMA y SEDETUR y las personas titulares de las Presidencias municipales de la zona de que se trate, quienes participarán en el ámbito de su competencia. Se invitará a participar a las delegaciones del gobierno federal en la materia;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II. Una instancia de participación social y ciudadana, denominado Consejo Consultivo Metropolitano, que se integrará mayoritariamente con personas representantes de la sociedad, y de los tres órdenes de Gobierno, incluyendo a cámaras y colegios de profesionistas con conocimiento y experiencia en la materia;
 
 III. Una instancia técnica, a cargo del Gobierno del Estado y los Municipios involucrados, que puede tener características de Secretariado Técnico o Instituto de Planeación Metropolitana, según convengan, y
 
@@ -991,9 +1091,11 @@ III. Aprobar la agenda metropolitana y sus prioridades, y
 
 IV. Expedir sus reglas de operación y funcionamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 43.
 
-El Consejo Consultivo Metropolitano se integrará con perspectiva de género, por representantes de los tres órdenes de gobierno y representantes de agrupaciones sociales legalmente constituidas, cámaras, colegios de profesionistas, instituciones académicas y expertos en la materia, este último sector deberá conformar la mayoría en el Consejo. Lo presidirá el titular de la Secretaría y tendrá las siguientes atribuciones:
+El Consejo Consultivo Metropolitano se integrará con perspectiva de género, por las personas representantes de los tres órdenes de gobierno y las personas representantes de agrupaciones sociales legalmente constituidas, cámaras, colegios de profesionistas, instituciones académicas y expertas en la materia, este último sector deberá conformar la mayoría en el Consejo. Lo presidirá la persona titular de la Secretaría y tendrá las siguientes atribuciones:
 
 I. Proponer a la Comisión de Ordenamiento Metropolitano la agenda en las zonas metropolitanas, así como sus prioridades;
 
@@ -1059,7 +1161,9 @@ Una vez aprobados los Programas de las Zonas Metropolitanas o Conurbaciones, los
 
 Se definen como materias de interés metropolitano, las siguientes:
 
-I. La dignificación del ser humano y la comunidad mediante la planeación y ordenamiento del territorio metropolitano;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I. La dignificación de las personas y la comunidad mediante la planeación y ordenamiento del territorio metropolitano;
 
 II. La infraestructura metropolitana y movilidad;
 
@@ -1087,7 +1191,9 @@ XII. Otras materias que, a propuesta de las instancias de coordinación metropol
 
 Los instrumentos de gestión para el desarrollo metropolitano buscarán dar cumplimiento a los siguientes objetivos:
 
-I. Lograr la efectiva coordinación de autoridades en las zonas metropolitanas y una planeación integral, de largo plazo que implique un beneficio común y el fomento a la cultura socio ambiental que dignifique al ser humano y sus espacios;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I. Lograr la efectiva coordinación de autoridades en las zonas metropolitanas y una planeación integral, de largo plazo que implique un beneficio común y el fomento a la cultura socio ambiental que dignifique a las personas y sus espacios;
 
 II. Avanzar hacia una estructura física ordenada, densa y sustentable en las zonas metropolitanas, con preponderancia del sistema natural y el espacio público como ejes compositivos vertebradoras y del paisaje, así como a mejorar la infraestructura y equipamiento común;
 
@@ -1153,7 +1259,9 @@ Los Programas Municipales de Desarrollo Urbano deberán de ser congruentes con l
 
 Los Programas Municipales de Desarrollo Urbano tendrán como objetivos:
 
-I. La dignificación del ser humano y la comunidad mediante la planeación y el ordenamiento territorial municipal;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I. La dignificación de las personas y la comunidad mediante la planeación y el ordenamiento territorial municipal;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
@@ -1193,9 +1301,9 @@ I. Las determinaciones de otros niveles de planeación para el Municipio;
 
 II. La identificación de los sistemas urbano rurales del territorio municipal, incluyendo la definición de los límites de los centros de población ubicados en el mismo;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-III. La definición de las políticas, criterios, estrategias y demás lineamientos que se consideren necesarios para orientar el ordenamiento municipal y el desarrollo urbano, teniendo a la convivencia respetuosa con el entorno natural, la creación del espacio público, la integración del paisaje, la infraestructura, el equipamiento y la movilidad como ejes compositivos vertebradores, que descansen en el misterio y el asombro, la poesía y la belleza; y a la dignificación del ser humano, sus relaciones sociales y la sustentabilidad socio-ambiental como finalidad última; y
+III. La definición de las políticas, criterios, estrategias y demás lineamientos que se consideren necesarios para orientar el ordenamiento municipal y el desarrollo urbano, teniendo a la convivencia respetuosa con el entorno natural, la creación del espacio público, la integración del paisaje, la infraestructura, el equipamiento y la movilidad como ejes compositivos vertebradores, que descansen en el misterio y el asombro, la poesía y la belleza; y a la dignificación de las personas, sus relaciones sociales y la sustentabilidad socio-ambiental como finalidad última; y
 
 IV. La Zonificación Primaria, con visión de mediano y largo plazo, en los términos a que alude el artículo 76 de esta ley.
 
@@ -1215,9 +1323,13 @@ Los procedimientos, contenidos y alcances en materia de asentamientos humanos, o
 
 Los Programas de Desarrollo Urbano de Centros de Población son el conjunto de disposiciones jurídicas y normas técnicas emitidas para:
 
-I. Ordenar y regular el crecimiento, mejoramiento, consolidación y conservación de los centros de población tendientes a la dignificación del ser humano, sus relaciones sociales y a la sustentabilidad socio-ambiental;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-II. Establecer o precisar la zonificación de los usos, destinos y reservas, tendientes a componer, regular el uso y aprovechamiento del suelo y sus compatibilidades, las especificaciones de las densidades de población, construcción y ocupación, así como a distribuir las cargas y beneficios del desarrollo urbano, a la luz de estrategias y objetivos que tengan a la convivencia respetuosa con el medio ambiente natural, la creación del espacio público, la integración del paisaje urbano, la infraestructura, el equipamiento y la movilidad sustentable; y a la dignificación del ser humano, sus relaciones sociales y a la sustentabilidad socio ambiental como finalidad última; privilegiando una mejor calidad de vida, la serenidad y el bien común, y
+I. Ordenar y regular el crecimiento, mejoramiento, consolidación y conservación de los centros de población tendientes a la dignificación de las personas, sus relaciones sociales y a la sustentabilidad socio-ambiental;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II. Establecer o precisar la zonificación de los usos, destinos y reservas, tendientes a componer, regular el uso y aprovechamiento del suelo y sus compatibilidades, las especificaciones de las densidades de población, construcción y ocupación, así como a distribuir las cargas y beneficios del desarrollo urbano, a la luz de estrategias y objetivos que tengan a la convivencia respetuosa con el medio ambiente natural, la creación del espacio público, la integración del paisaje urbano, la infraestructura, el equipamiento y la movilidad sustentable; y a la dignificación de las personas, sus relaciones sociales y a la sustentabilidad socio ambiental como finalidad última; privilegiando una mejor calidad de vida, la serenidad y el bien común, y
 
 III. Establecer las bases para la programación, así como para proveer el eficiente y eficaz funcionamiento y organización de las acciones, obras y servicios en el Municipio.
 
@@ -1225,7 +1337,9 @@ III. Establecer las bases para la programación, así como para proveer el efici
 
 Los programas de desarrollo urbano de centros de población guardarán congruencia con los instrumentos de planeación estatales y de zonas metropolitanas y con los programas municipales de desarrollo urbano que correspondan.
 
-Dichos programas de desarrollo urbano deberán proveer un mínimo de doce metros cuadrados de área verde por habitante, así como una estrategia para el manejo integral del agua, los residuos sólidos municipales y el espacio público seguro.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Dichos programas de desarrollo urbano deberán proveer un mínimo de doce metros cuadrados de área verde por cada persona residente, así como una estrategia para el manejo integral del agua, los residuos sólidos municipales y el espacio público seguro.
 
 ###### Artículo 57.
 
@@ -1233,11 +1347,17 @@ Los Programas de Desarrollo Urbano de Centros de Población deberán contener lo
 
 I. Conclusiones del Diagnóstico, que dé cuenta de la situación actual y las tendencias del área o sectores del desarrollo urbano del centro de población de que se trate, en sus aspectos socioeconómicos, físicos, poblacionales, de infraestructura, espacio público, movilidad, paisaje urbano, equipamiento, servicios, de vivienda, accesibilidad universal, perspectiva de género, medio ambiente natural, corredores biológicos, desechos sólidos y peligrosos, riesgos urbanos, resiliencia y demás elementos que sea necesario considerar;
 
-II. Objetivos y políticas, en los que se contemplen los propósitos o finalidades que se pretenda alcanzar con la ejecución del programa respectivo; así como las directrices de políticas públicas relacionadas con el crecimiento, mejoramiento, consolidación y conservación, de las distintas zonas, áreas o predios que integran el centro de población; priorizando la dignificación del ser humano, sus relaciones sociales y la sustentabilidad socio-ambiental como finalidad última;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-III. Estrategias, en las que se establezcan los lineamientos compositivos y políticas del programa, así como las alternativas para el crecimiento, mejoramiento, consolidación y conservación del centro de población; tomando en cuenta la preeminencia del espacio público, el equipamiento urbano, la escala humana, la integración del paisaje urbano, la imagen urbana, la convivencia respetuosa con el medio ambiente natural, el cambio climático, la infraestructura y la movilidad incluyendo la no motorizada, mediante ejes compositivos vertebradores, que contengan entre otros, hitos, nodos, puertas, corredores biológicos, distritos y corredores a escala humana con preeminencia del espacio público peatonal y áreas e infraestructura verdes, y equipamientos urbanos estratégicos; para la dignificación del ser humano, sus relaciones sociales y la sustentabilidad socio-ambiental que promuevan la serenidad, la paz, la solidaridad y el bien común;
+II. Objetivos y políticas, en los que se contemplen los propósitos o finalidades que se pretenda alcanzar con la ejecución del programa respectivo; así como las directrices de políticas públicas relacionadas con el crecimiento, mejoramiento, consolidación y conservación, de las distintas zonas, áreas o predios que integran el centro de población; priorizando la dignificación de las personas, sus relaciones sociales y la sustentabilidad socio-ambiental como finalidad última;
 
-IV. Programas, en los que se precisen las acciones, obras o servicios que deban llevarse a cabo o prestarse de acuerdo con los objetivos y estrategias planteados en el corto, mediano y largo plazos, incluyendo: definición del suelo estratégico, acciones y proyectos prioritarios, acciones de inversión, en las que se contendrán las prioridades del gasto público y privado, y corresponsabilidad sectorial, en la que se determinarán las acciones, obras e inversiones concretas que deban realizarse, y se establecerán los responsables de su ejecución;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+III. Estrategias, en las que se establezcan los lineamientos compositivos y políticas del programa, así como las alternativas para el crecimiento, mejoramiento, consolidación y conservación del centro de población; tomando en cuenta la preeminencia del espacio público, el equipamiento urbano, la escala humana, la integración del paisaje urbano, la imagen urbana, la convivencia respetuosa con el medio ambiente natural, el cambio climático, la infraestructura y la movilidad incluyendo la no motorizada, mediante ejes compositivos vertebradores, que contengan entre otros, hitos, nodos, puertas, corredores biológicos, distritos y corredores a escala humana con preeminencia del espacio público peatonal y áreas e infraestructura verdes, y equipamientos urbanos estratégicos; para la dignificación de las personas, sus relaciones sociales y la sustentabilidad socio-ambiental que promuevan la serenidad, la paz, la solidaridad y el bien común;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IV. Programas, en los que se precisen las acciones, obras o servicios que deban llevarse a cabo o prestarse de acuerdo con los objetivos y estrategias planteados en el corto, mediano y largo plazos, incluyendo: definición del suelo estratégico, acciones y proyectos prioritarios, acciones de inversión, en las que se contendrán las prioridades del gasto público y privado, y corresponsabilidad sectorial, en la que se determinarán las acciones, obras e inversiones concretas que deban realizarse, y se establecerán las personas responsables de su ejecución;
 
 V. Los requerimientos de espacio público y equipamiento urbano para los distintos polígonos de los centros de población; en estricta congruencia con los objetivos, estrategias y ejes compositivos vertebradores planteados para el centro de población;
 
@@ -1253,7 +1373,9 @@ Los Programas Parciales de Desarrollo Urbano se derivarán de los Programas de D
 
 I. Precisar la zonificación secundaria de las áreas que forman parte de un centro de población;
 
-II. Regular en forma específica las acciones de urbanización, edificación o para la conservación de las obras de arquitectura, derivadas de las acciones de crecimiento, conservación, consolidación o mejoramiento, previstas en los programas del que se deriven, tomando en cuenta la preeminencia del espacio público, el equipamiento, la escala humana, la integración del paisaje urbano, la imagen urbana, el cambio climático, la convivencia respetuosa con el medio ambiente natural, la infraestructura, y la movilidad, mediante ejes compositivos vertebradores; para la dignificación del ser humano, sus relaciones sociales y la sustentabilidad socio-ambiental que promuevan la serenidad vivencial, la paz, la solidaridad y el bien común, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II. Regular en forma específica las acciones de urbanización, edificación o para la conservación de las obras de arquitectura, derivadas de las acciones de crecimiento, conservación, consolidación o mejoramiento, previstas en los programas del que se deriven, tomando en cuenta la preeminencia del espacio público, el equipamiento, la escala humana, la integración del paisaje urbano, la imagen urbana, el cambio climático, la convivencia respetuosa con el medio ambiente natural, la infraestructura, y la movilidad, mediante ejes compositivos vertebradores; para la dignificación de las personas, sus relaciones sociales y la sustentabilidad socio-ambiental que promuevan la serenidad vivencial, la paz, solidaridad y el bien común, y
 
 III. Regular las acciones dirigidas al desarrollo de elementos sectoriales de un centro de población o de un área del mismo, en materias de equipamiento, infraestructura, espacio público, movilidad, servicios, ecología urbana, patrimonio cultural urbano, entre otras.
 
@@ -1275,7 +1397,9 @@ VI. Los mecanismos para articular la utilización del suelo y reservas territori
 
 VII. Las obligaciones y responsabilidades a cargo de las autoridades en la ejecución de acciones derivadas del Programa Parcial de Desarrollo Urbano;
 
-VIII. Las obligaciones y responsabilidades, así como las medidas de estímulo y fomento a los propietarios de predios y fincas comprendidos en el área de aplicación del Programa Parcial de Desarrollo Urbano y de sus usuarios, respecto a modalidades en su aprovechamiento y acciones de conservación, mejoramiento y crecimiento que se determinen, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VIII. Las obligaciones y responsabilidades, así como las medidas de estímulo y fomento a las personas propietarias de predios y fincas comprendidos en el área de aplicación del Programa Parcial de Desarrollo Urbano y de las personas usuarias, respecto a modalidades en su aprovechamiento y acciones de conservación, mejoramiento y crecimiento que se determinen, y
 
 IX. Las medidas e instrumentos para la consecución de sus políticas y objetivos.
 
@@ -1293,7 +1417,9 @@ IV. El presupuesto del proyecto de que se trate;
 
 V. El plazo para su ejecución, y
 
-VI. Los resultados previsibles de la ejecución del proyecto en beneficio del predio o área y de sus habitantes.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VI. Los resultados previsibles de la ejecución del proyecto en beneficio del predio o área y de las personas residentes.
 
 ### Capítulo Octavo. De los Esquemas Simplificados de Planeación
 
@@ -1301,9 +1427,13 @@ VI. Los resultados previsibles de la ejecución del proyecto en beneficio del pr
 
 Los Municipios para la regulación de los asentamientos humanos en el medio rural o de los centros de servicios rurales, que no requieran técnicamente de un programa de desarrollo urbano, podrán contemplar Esquemas Simplificados de Planeación del Desarrollo Urbano, atendiendo a sus características y dimensiones, conforme a los principios de esta ley.
 
-Los Esquemas Simplificados de Planeación del Desarrollo Urbano son un instrumento de carácter técnico administrativo que tiene por objeto ordenar y orientar el crecimiento de los asentamientos humanos de manera equilibrada y racional a corto y mediano plazos, para dar solución a los diversos problemas que adolece las localidades que se encuentran en el rango poblacional menor a los veinticinco mil habitantes y que ameriten la aplicación de normas de planificación urbana. Estos esquemas deben de ser congruentes con las condicionantes sectoriales de desarrollo urbano vigente.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
-La estructura y contenido de los Esquemas de Desarrollo Urbano podrá adecuarse a las características del ámbito territorial o sectorial de su aplicación, así como a la capacidad técnica y administrativa de las autoridades urbanas encargadas de elaborarlos y ejecutarlos. En todo caso deberán considerar como mínimo un diagnóstico de la situación del área de que se trate, así como una estrategia de desarrollo mediante ejes compositivos vertebradores, que contengan entre otros, hitos, nodos, puertas, corredores biológicos, corredores a escala humana con preeminencia del espacio público peatonal y áreas verdes, equipamientos urbanos estratégicos, imagen urbana, cambio climático, la zonificación aplicable y las acciones o proyectos más relevantes, priorizando la dignificación del ser humano, sus relaciones sociales y la sustentabilidad socio-ambiental como finalidad última.
+Los Esquemas Simplificados de Planeación del Desarrollo Urbano son un instrumento de carácter técnico administrativo que tiene por objeto ordenar y orientar el crecimiento de los asentamientos humanos de manera equilibrada y racional a corto y mediano plazos, para dar solución a los diversos problemas que adolece (sic) las localidades que se encuentran en el rango poblacional menor a las veinticinco mil personas residentes y que ameriten la aplicación de normas de planificación urbana. Estos esquemas deben de ser congruentes con las condicionantes sectoriales de desarrollo urbano vigente.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+La estructura y contenido de los Esquemas de Desarrollo Urbano podrá adecuarse a las características del ámbito territorial o sectorial de su aplicación, así como a la capacidad técnica y administrativa de las autoridades urbanas encargadas de elaborarlos y ejecutarlos. En todo caso deberán considerar como mínimo un diagnóstico de la situación del área de que se trate, así como una estrategia de desarrollo mediante ejes compositivos vertebradores, que contengan entre otros, hitos, nodos, puertas, corredores biológicos, corredores a escala humana con preeminencia del espacio público peatonal y áreas verdes, equipamientos urbanos estratégicos, imagen urbana, cambio climático, la zonificación aplicable y las acciones o proyectos más relevantes, priorizando la dignificación de las personas, sus relaciones sociales y la sustentabilidad socio-ambiental como finalidad última.
 
 ### Capítulo Noveno. Procedimientos para Formular y Aprobar los Programas Municipales
 
@@ -1323,9 +1453,9 @@ Para formular y aprobar cualquiera de los instrumentos de planeación municipal 
 
 I. El Municipio dará aviso público del inicio del proceso de planeación, por conducto del Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano, así como en los medios electrónicos de que disponga. El Ayuntamiento por conducto de las dependencias de la administración pública formulará el proyecto de programa municipal de desarrollo urbano, actualización o, en su caso, de modificaciones, difundiéndolo;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-II. El Consejo Municipal hará talleres y/o mesas de trabajo con participación ciudadana, así como podrán acudir los grupos organizados de la sociedad a quienes corresponda participar de acuerdo al área de aplicación o de las acciones urbanísticas propuestas;
+II. El Consejo Municipal hará talleres y/o mesas de trabajo con participación ciudadana, así como podrán acudir a las agrupaciones organizadas de la sociedad a quienes corresponda participar de acuerdo al área de aplicación o de las acciones urbanísticas propuestas;
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
@@ -1369,15 +1499,17 @@ En ningún caso podrá abrogarse un programa de desarrollo urbano o un esquema s
 
 Para el caso de que se solicite una modificación o cambio de uso de suelo, se deberá presentar ante la dependencia encargada del desarrollo urbano de cada Municipio la solicitud con el estudio justificado en materia de impacto vial e impacto urbano, misma que se someterá por conducto de la dependencia a la comisión de desarrollo urbano y movilidad y a su vez deberá ser aprobada por el cabildo municipal previo contar con la opinión técnica de la SEDETUS.
 
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
-Una vez aprobada el interesado deberá publicar dicha sesión ante el Periódico Oficial del Estado e inscribirlo al Registro Público de la Propiedad y del Comercio del Estado de Quintana Roo, quién deberá corroborar para su inscripción que cuente con todos y cada uno de los requisitos anteriormente descritos.
+Una vez aprobada la persona interesada deberá publicar dicha sesión ante el Periódico Oficial del Estado de Quintana Roo e inscribirlo al Registro Público de la Propiedad y del Comercio del Estado de Quintana Roo, quién deberá corroborar para su inscripción que cuente con todos y cada uno de los requisitos anteriormente descritos.
 
 ###### Artículo 65.
 
 La modificación o actualización de los Programas Municipales de Desarrollo Urbano a que se refiere el artículo 31 de esta ley, podrá ser solicitada ante la autoridad municipal correspondiente por:
 
-I. El Titular del Ejecutivo;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I. La Gobernadora o el Gobernador del Estado de Quintana Roo;
 
 II. La Secretaría;
 
@@ -1423,11 +1555,11 @@ Dichos instrumentos de planeación o sus modificaciones, deberán ser inscritos 
 
 La inscripción en el Registro Público, así como la publicación en el Periódico Oficial del Estado de Quintana Roo serán gratuitas.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 69.
 
-La Secretaría y los Municipios pondrán a disposición de los interesados los instrumentos de planeación establecidos en el artículo 31 de esta ley para su consulta. Igualmente promoverán la difusión y conocimiento ciudadano de dichos instrumentos de ordenamiento territorial y planeación urbana.
+La Secretaría y los Municipios pondrán a disposición de las personas interesadas los instrumentos de planeación establecidos en el artículo 31 de esta ley para su consulta. Igualmente promoverán la difusión y conocimiento a la ciudadanía de dichos instrumentos de ordenamiento territorial y planeación urbana.
 
 ## Título Quinto. De las Regulaciones Urbanas en los Centros de Población
 
@@ -1441,9 +1573,11 @@ Las tierras agrícolas, pecuarias, forestales y las destinadas a la preservació
 
 Las zonas que se determinen como de riesgo grave en los atlas de riesgo, en los programas a que se refiere el artículo 31 de esta ley, y demás instrumentos aplicables, solo podrán tener un uso, destino o aprovechamiento compatible y conforme a los estudios de riesgo correspondientes; en ningún caso se permitirá alojar o construir infraestructura o equipamientos estratégicos, o vivienda de cualquier tipo.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 71.
 
-Los propietarios y poseedores de inmuebles comprendidos en las zonas determinadas como reservas y destinos en los programas municipales a que se refiere el artículo 31 de esta ley, sólo utilizarán los predios en forma que no presenten obstáculo al aprovechamiento previsto en dichos programas. En ningún caso podrán autorizarse acciones urbanísticas que adelanten los plazos contemplados en dichos programas para su ocupación y aprovechamiento, a menos que se cumpla con lo dispuesto en el artículo 96 de esta ley.
+Las personas propietarias y poseedoras de inmuebles comprendidos en las zonas determinadas como reservas y destinos en los programas municipales a que se refiere el artículo 31 de esta ley, sólo utilizarán los predios en forma que no presenten obstáculo al aprovechamiento previsto en dichos programas. En ningún caso podrán autorizarse acciones urbanísticas que adelanten los plazos contemplados en dichos programas para su ocupación y aprovechamiento, a menos que se cumpla con lo dispuesto en el artículo 96 de esta ley.
 
 ###### Artículo 72.
 
@@ -1455,7 +1589,9 @@ Previa a la urbanización, fraccionamiento, parcelación, transmisión o incorpo
 
 El Registro Público no podrá inscribir título alguno de dominio pleno, de cesión de derechos parcelarios o cualquier otro acto tendiente a la urbanización, fraccionamiento, subdivisión, parcelación o incorporación al desarrollo urbano de la propiedad sujeta al régimen agrario, si no cumple con los principios y estipulaciones de esta ley y de las establecidas en la Ley Agraria, así como no contar con las autorizaciones expresas a que alude el artículo anterior.
 
-Los notarios públicos no podrán dar fe ni intervenir en ese tipo de operaciones, a menos de que ante ellos se demuestre que se han otorgado las autorizaciones previstas en este artículo.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Las personas titulares de las notarías públicas no podrán dar fe ni intervenir en ese tipo de operaciones, a menos de que ante ellas se demuestre que se han otorgado las autorizaciones previstas en este artículo.
 
 ###### Artículo 74.
 
@@ -1495,7 +1631,9 @@ V. La identificación y las medidas necesarias para la creación, custodia, resc
 
 VI. Las reservas territoriales;
 
-VII. Las normas y disposiciones técnicas aplicables para el diseño o adecuación de destinos específicos tales como para vialidades, parques, plazas, áreas verdes o equipamientos que garanticen las condiciones materiales de la vida comunitaria, la dignidad del ser humano, el bien común y la movilidad;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VII. Las normas y disposiciones técnicas aplicables para el diseño o adecuación de destinos específicos tales como para vialidades, parques, plazas, áreas verdes o equipamientos que garanticen las condiciones materiales de la vida comunitaria, la dignidad de las personas, el bien común y la movilidad;
 
 VIII. La identificación y medidas para la protección de las zonas de salvaguarda y derechos de vía, especialmente en áreas de instalaciones de riesgo o sean consideradas de seguridad nacional, y
 
@@ -1515,25 +1653,33 @@ a) Se considerarán compatibles y se permitirá la mezcla de usos de suelo resid
 
 b) Conforme a lo que determinen los instrumentos de planeación urbana vigentes y previa autorización y pago del potencial de edificación o desarrollo a favor del Municipio, en los predios aplicables, se podrá permitir la densificación en las edificaciones, siempre y cuando no se rebase y se asegure la capacidad de los servicios de agua, drenaje y electricidad o el equipamiento urbano y la movilidad. Los recursos que se generen se destinarán a sufragar tales conceptos.
 
-c) Los promotores o desarrolladores, en su caso, deberán asumir el costo incremental de recibir estos servicios y equipamientos urbanos, así como mantenerlos operativos hasta su municipalización. El gobierno municipal, en coordinación con otras autoridades o entidades responsables, establecerá mecanismos para aplicar dicho costo y ajustar la capacidad de infraestructuras y equipamientos que permita a promotores o desarrolladores mejorar la densidad de sus edificaciones y la mezcla de usos del suelo;
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+c. Las personas promotoras o desarrolladoras, en su caso, deberán asumir el costo incremental de recibir estos servicios y equipamientos urbanos, así como mantenerlos operativos hasta su municipalización. El gobierno municipal, en coordinación con otras autoridades o entidades responsables, establecerá mecanismos para aplicar dicho costo y ajustar la capacidad de infraestructuras y equipamientos que permita a las personas promotoras o desarrolladoras mejorar la densidad de sus edificaciones y la mezcla de usos del suelo;
 
 d) La determinación de densidades y los usos del suelo que se propongan deberán ser congruentes entre sí, y
 
-e) Se garantizará que se consolide una red coherente de espacios públicos y equipamientos suficientes mediante ejes compositivos vertebradores, que contengan entre otros, hitos, nodos, puertas, corredores biológicos, corredores a escala humana con preeminencia del espacio público peatonal y áreas verdes, y equipamientos urbanos estratégicos para la convivencia, el encuentro y la dignificación del ser humano, sus relaciones sociales y la sustentabilidad socio-ambiental, la imagen urbana, así como de vialidades primarias y de movilidad no motorizada o mixta.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+e. Se garantizará que se consolide una red coherente de espacios públicos y equipamientos suficientes mediante ejes compositivos vertebradores, que contengan entre otros, hitos, nodos, puertas, corredores biológicos, corredores a escala humana con preeminencia del espacio público peatonal y áreas verdes, y equipamientos urbanos estratégicos para la convivencia, el encuentro y la dignificación de las personas, sus relaciones sociales y la sustentabilidad socioambiental, la imagen urbana, así como de vialidades primarias y de movilidad no motorizada o mixta.
 
 Los programas municipales a que se refiere el artículo 31 de esta ley, deberán incluir las reglas o criterios para interpretar la zonificación, cuando los limites o demarcación de las zonas afecten parcialmente a los predios o se les apliquen dos o más usos del suelo a una sola propiedad.
 
 ### Capítulo Tercero. Zonificación incluyente
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 78.
 
-Los programas municipales a que se refiere el artículo 31 de esta ley, podrán establecer instrumentos de zonificación incluyente, mediante los cuales se administre y regule el coeficiente básico de uso y ocupación del suelo, en función de la capacidad urbana, para lo cual, los propietarios tendrán que aportar al Municipio la compensación por el potencial de uso del suelo de las superficies a ampliar. Los recursos obtenidos por esos conceptos se destinarán exclusivamente a la adecuación de espacios públicos, infraestructura, servicios públicos y equipamientos urbanos en la zona de influencia.
+Los programas municipales a que se refiere el artículo 31 de esta ley, podrán establecer instrumentos de zonificación incluyente, mediante los cuales se administre y regule el coeficiente básico de uso y ocupación del suelo, en función de la capacidad urbana, para lo cual, las personas propietarias tendrán que aportar al Municipio la compensación por el potencial de uso del suelo de las superficies a ampliar. Los recursos obtenidos por esos conceptos se destinarán exclusivamente a la adecuación de espacios públicos, infraestructura, servicios públicos y equipamientos urbanos en la zona de influencia.
 
 Las leyes de hacienda municipales determinarán el monto de los derechos a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 79.
 
-Los programas municipales a que se refiere el artículo 31 de esta ley, podrán establecer zonas donde los propietarios o promotores puedan administrar los coeficientes de utilización y ocupación del suelo, a cambio de suelo para la población de menores ingresos por los beneficios de tal incremento, preferentemente en la zona del desarrollo. En estas zonas se deberán evitar políticas de exclusión social como regulaciones que imponen un tamaño excesivo en la dimensión de lotes, coeficientes de ocupación de suelo lesivos o un número mínimo de cajones de estacionamiento.
+Los programas municipales a que se refiere el artículo 31 de esta ley, podrán establecer zonas donde las personas propietarias o promotoras puedan administrar los coeficientes de utilización y ocupación del suelo, a cambio de suelo para la población de menores ingresos por los beneficios de tal incremento, preferentemente en la zona del desarrollo. En estas zonas se deberán evitar políticas de exclusión social como regulaciones que imponen un tamaño excesivo en la dimensión de lotes, coeficientes de ocupación de suelo lesivos o un número mínimo de cajones de estacionamiento.
 
 Los Municipios, con base a estudios realizados por profesionales en la materia, establecerán los mecanismos para fijar el costo por metro cuadrado de coeficiente adicional. Igualmente definirá los mecanismos y procedimientos para asegurar una administración transparente, eficiente y pública de los recursos que se generen.
 
@@ -1621,13 +1767,13 @@ Las solicitudes de Dictamen de Viabilidad en Materia de Acciones Urbanísticas o
 
 I. La ubicación, medidas y colindancias del área o predio;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-II. Los antecedentes jurídicos que amparen el tracto sucesivo de la propiedad del predio o inmueble motivo de la acción urbanística;
+II. Documentación en la cual se acredite fehacientemente la propiedad del predio o inmueble motivo de la acción urbanística;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-III. Documentación en la cual se acredite fehacientemente la superficie incluyendo alguna demasía en su caso, cuando se trate de certificación de medidas y colindancias y de apeos y deslindes, lo que permita identificar que el predio o inmueble no es, en todo o en parte, un terreno nacional, en régimen ejidal o de propiedad estatal o municipal o afecte propiedad privada de diversa persona;
+III. Documentación en la cual se acredite fehacientemente la superficie incluyendo alguna demasía en su caso, cuando se trate de certificación de medidas y colindancias y de apeos y deslindes, lo que permita identificar que el predio o inmueble no es, en todo o en parte, un terreno nacional en régimen ejidal o de propiedad estatal o municipal o afecte propiedad privada de diversa persona; en caso de incertidumbre u omisión a lo antes señalado, se podrá requerir a la persona promovente los antecedentes jurídicos que amparen el tracto sucesivo de la propiedad del predio o inmueble motivo de la acción urbanística;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE AGOSTO DE 2025)</small>
 
@@ -1663,11 +1809,17 @@ X. Las factibilidades de conexión y abasto de agua potable, servicio de alcanta
 
 Los Dictámenes de Viabilidad en Materia de Acciones Urbanísticas o, en su caso, en Modalidad de Viabilidad Urbanística y Mitigación de Impactos, una vez integrados los expedientes de que se trate, deberán ser emitidos por la Secretaría en un plazo máximo de veinte días hábiles, previa acreditación del pago de derechos correspondiente.
 
-En caso de que una acción urbanística sujeta a evaluación presente una dimensión o complejidad que amerite un análisis más exhaustivo, la Secretaría podrá ampliar ese plazo por única vez, por otro plazo hasta de veinte días hábiles más para emitir el Dictamen de Viabilidad en Materia de Acciones Urbanísticas que corresponda.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
-Y de considerarse necesario para la elaboración y emisión del Dictamen de Viabilidad en Materia de Acciones Urbanísticas, podrá solicitar una junta de conciliación con la persona solicitante, con la finalidad de unificar criterios con la Secretaría respecto de su solicitud.
+En caso de que una acción urbanística sujeta a evaluación presente una dimensión o complejidad que amerite un análisis más exhaustivo, la Secretaría deberá notificar por escrito a la persona promovente la suspensión de términos y plazos de la solicitud, así como la totalidad de los requerimientos o ampliaciones de información que le sean solicitados; una vez solventado lo anterior, se reanudarán los términos y plazos establecidos en el primer párrafo de este artículo.
 
-En caso de que transcurran los plazos indicados en este artículo, sin que la Secretaría emita su resolución, aplicará la negativa ficta y se tendrá como negada la solicitud del trámite de que se trate. En caso de que aplique la negativa ficta, las personas servidoras públicas omisas o negligentes se sujetarán a los procedimientos y sanciones contempladas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo y sus Municipios.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Con el objeto de garantizar agilidad y certeza jurídica en los procesos de evaluación, y de considerarse necesario para la elaboración y emisión del Dictamen de Viabilidad en Materia de Acciones Urbanísticas, se podrá solicitar una junta de conciliación con la persona promovente, con la finalidad de unificar criterios con la Secretaría respecto de su solicitud.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+En caso de que transcurran los plazos indicados en este artículo, sin que la Secretaría emita su resolución, deberá, en un plazo no mayor a 3 días hábiles, notificar de manera fundada y motivada las causas por las cuales no fue emitido el Dictamen de Viabilidad en Materia de Acciones Urbanísticas que corresponda, dejando a salvo en todo momento el derecho de la persona promovente para ejercer la acción o recurso que estime conveniente.
 
 Las notificaciones de la Secretaría a las personas promoventes, relacionadas con el trámite y resolución de las solicitudes a que se refiere este artículo, se realizarán mediante el sistema de trámites y servicios alojado en su página electrónica oficial, correo electrónico oficial y en caso necesario, a través de notificaciones personales por escrito.
 
@@ -1677,15 +1829,13 @@ En dichos casos, deberá promover juicio de lesividad ante el Tribunal de Justic
 
 Las personas físicas o morales, titulares de Dictámenes de Viabilidad en Materia de Acciones Urbanísticas o, en su caso, los Dictámenes en Modalidad de Viabilidad Urbanística y Mitigación de Impactos, informarán a la Secretaría, la conclusión de las obras, para que esta dependencia pueda verificar el adecuado cumplimiento de las obligaciones o condiciones impuestas en dichos instrumentos por ser de orden público e interés social.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
 
-###### Artículo 84.
-
-Se deberá contar con el Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos en los siguientes casos:
+Artículo 84 Se deberá contar con el Dictamen en Modalidad de Viabilidad Urbanística y Mitigación de Impactos únicamente en los siguientes casos:
 
 I. Las acciones a que se refieren las fracciones I, II, III, IV y XV del artículo 81, cualquiera que sea su tipo y dimensión;
 
-II. En los proyectos de vivienda que tengan más de quince mil metros cuadrados de construcción;
+II. (DEROGADA, P.O. 28 DE MAYO DE 2026)
 
 III. En los proyectos que incluyan oficinas, comercios o servicios, por más de cuatro mil quinientos metros cuadrados de construcción;
 
@@ -1731,7 +1881,9 @@ Las garantías y/o acciones que obliguen al cumplimiento de las condicionantes q
 
 Los Estudios de Viabilidad Urbanística y Mitigación de Impactos que presente la persona promovente, además de lo señalado en el artículo 85 de esta Ley, deberán incluir:
 
-I. Los datos del promotor y propietario, así como la ubicación, descripción detallada y calendario de la obra o actividad proyectada;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I. Los datos de la persona promotora y propietaria, así como la ubicación, descripción detallada y calendario de la obra o actividad proyectada;
 
 II. La descripción puntual de los usos del suelo y su compatibilidad con otras actividades de la zona en que se ubique;
 
@@ -1843,7 +1995,9 @@ VIII. La prevención, control y atención de riesgos y contingencias ambientales
 
 IX. La acción integrada del sector público que articule la regularización de la tenencia de tierra urbana con la dotación de servicios y satisfactores básicos que tiendan a integrar a la comunidad;
 
-X. La potestad administrativa que permita la celebración de convenios entre autoridades y propietarios a efectos de facilitar la expropiación de sus predios por las causas de utilidad pública previstas en esta ley;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+X. La potestad administrativa que permita la celebración de convenios entre autoridades y personas propietarias a efectos de facilitar la expropiación de sus predios por las causas de utilidad pública previstas en esta ley;
 
 XI. La construcción y adecuación de la infraestructura, el equipamiento y los Servicios Urbanos para garantizar la seguridad, libre tránsito y accesibilidad universal requeridas por las personas con discapacidad;
 
@@ -1867,7 +2021,9 @@ IV. La previsión que debe existir de áreas verdes, espacios públicos y espaci
 
 No podrán realizarse conjuntos urbanos o fraccionamientos habitacionales dentro de los Centros de Población, en ninguno de sus tipos, en terrenos que no se encuentren conectados o no prevean en el proyecto de que se trate, a las redes de infraestructura y servicio de las zonas urbanizadas o a otros fraccionamientos que ya estén dotados de todos los servicios públicos municipales.
 
-En todo caso, las obras de cabecera o redes de infraestructura, incluyendo el equipamiento urbano, imagen urbana, corredores biológicos, y la movilidad no motorizada del proyecto y su área de influencia correrán a cargo del propietario o promovente. Para el caso de fraccionamientos o conjuntos urbanos, además deberán asumir el costo de las obras viales y sistemas de movilidad necesarias para garantizar la conectividad entre la acción urbanística de que se trate y el centro de población más cercano, en dimensión y calidad tales, que permita el tránsito de transporte público que se genere.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+En todo caso, las obras de cabecera o redes de infraestructura, incluyendo el equipamiento urbano, imagen urbana, corredores biológicos, y la movilidad no motorizada del proyecto y su área de influencia correrán a cargo de la persona propietaria o promovente. Para el caso de fraccionamientos o conjuntos urbanos, además deberán asumir el costo de las obras viales y sistemas de movilidad necesarias para garantizar la conectividad entre la acción urbanística de que se trate y el centro de población más cercano, en dimensión y calidad tales, que permita el tránsito de transporte público que se genere.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
 
@@ -1877,7 +2033,9 @@ Los conjuntos urbanos, condominios y/o fraccionamientos deberán presentar un Es
 
 Para las acciones urbanísticas que impliquen la expansión del área urbana, así como para el fraccionamiento de terrenos o para la subdivisión o parcelación de la tierra, las autoridades locales deberán asegurarse de que existe congruencia con las normas de zonificación y planeación urbana vigentes, la viabilidad y factibilidad para brindar los servicios públicos y extender o ampliar las redes de agua, drenaje, energía, alumbrado público y el manejo de desechos sólidos de manera segura y sustentable, sin afectar los asentamientos colindantes, sin ocupar áreas de riesgo o no urbanizables y garantizando la suficiencia financiera para brindar los servicios públicos que se generen.
 
-Los nuevos fraccionamientos o conjuntos urbanos deberán respetar y conectarse a la estructura vial existente, así como a la estructura compositiva en materia del espacio público, corredores biológicos, corredores a escala humana con preeminencia del espacio público peatonal y áreas verdes, equipamientos urbanos estratégicos para la convivencia, el encuentro y la dignificación del ser humano, sus relaciones sociales, la sustentabilidad socio-ambiental, y la movilidad no motorizada.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Los nuevos fraccionamientos o conjuntos urbanos deberán respetar y conectarse a la estructura vial existente, así como a la estructura compositiva en materia del espacio público, corredores biológicos, corredores a escala humana con preeminencia del espacio público peatonal y áreas verdes, equipamientos urbanos estratégicos para la convivencia, el encuentro y la dignificación de las personas, sus relaciones sociales, la sustentabilidad socio-ambiental, y la movilidad no motorizada.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
@@ -1937,9 +2095,11 @@ VI. Los demás casos que señalen las disposiciones en materia de protección ci
 
 Los estudios de prevención de riesgo a que aluden los artículos 102 y 103, contendrán la identificación del riesgo y vulnerabilidad de que se trate, así como las especificaciones, responsables técnicos, requisitos y alcances que determine la autoridad competente de conformidad con las disposiciones en materia de protección civil, de esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 105.
 
-Toda ocupación del territorio deberá garantizar la seguridad de sus usuarios y de cualquier otra persona que pudiera verse afectada por las obras que genere.
+Toda ocupación del territorio deberá garantizar la seguridad de las personas usuarias y de cualquier otra persona que pudiera verse afectada por las obras que genere.
 
 Si no se cuenta con las medidas de mitigación correspondientes, queda prohibido realizar obras o acciones urbanísticas en:
 
@@ -1995,9 +2155,11 @@ La Secretaría promoverá ante las autoridades competentes la emisión de las no
 
 ### Capítulo Primero. Elementos Generales de Infraestructura, Equipamiento y Servicios Urbanos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 107.
 
-Toda acción urbanística que implique mayores demandas a las redes de infraestructura, equipamiento o servicios públicos existentes, se realizará hasta que se construyan o se garanticen de manera satisfactoria las obras correspondientes que permitan atender el servicio faltante demandado. Los costos correrán a cargo de sus promotores y de los propietarios o poseedores de los inmuebles, y se sujetarán a las normas y regulaciones que establece este ordenamiento.
+Toda acción urbanística que implique mayores demandas a las redes de infraestructura, equipamiento o servicios públicos existentes, se realizará hasta que se construyan o se garanticen de manera satisfactoria las obras correspondientes que permitan atender el servicio faltante demandado. Los costos correrán a cargo de las personas promotoras y de las personas propietarias o poseedoras de los inmuebles, y se sujetarán a las normas y regulaciones que establece este ordenamiento.
 
 Una vez ejecutadas y recibidas por las autoridades competentes las obras de que se trate, correrá a cargo de los gobiernos federal, estatal o municipales, según sus atribuciones, la administración, mantenimiento de la infraestructura, equipamiento o prestación de los servicios públicos correspondientes.
 
@@ -2005,7 +2167,9 @@ Una vez ejecutadas y recibidas por las autoridades competentes las obras de que 
 
 Corresponderá al Gobierno del Estado y los Municipios la aplicación de mecanismos financieros y fiscales que permitan la distribución equitativa de cargas y beneficios derivados de la ejecución o introducción de infraestructura, equipamiento y servicios públicos y otras obras de interés público urbano.
 
-Los promotores y los propietarios o poseedores de predios que se beneficien con las obras de infraestructura, equipamiento o servicios públicos aportarán recursos, en la proporción de sus beneficios, para su construcción, mejoramiento y adecuado mantenimiento.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Las personas promotoras y las personas propietarias o poseedoras de predios que se beneficien con las obras de infraestructura, equipamiento o servicios públicos aportarán recursos, en la proporción de sus beneficios, para su construcción, mejoramiento y adecuado mantenimiento.
 
 ###### Artículo 109.
 
@@ -2053,13 +2217,17 @@ Los proyectos para la instalación, construcción o modificación de la infraest
 
 Los programas municipales a que se refiere el artículo 31 de esta ley, deberán incluir los aspectos relacionados con la creación, el uso, aprovechamiento, rescate y custodia del espacio público, contemplando la participación ciudadana y entre otras acciones, las siguientes:
 
-I. Establecer las medidas para la identificación y mejor localización de los espacios públicos con relación a la función que tendrán y a la ubicación de los beneficiarios, atendiendo las normas nacionales y estatales, así como las de los tratados internacionales suscritos por México en la materia;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I. Establecer las medidas para la identificación y mejor localización de los espacios públicos con relación a la función que tendrán y a la ubicación de las personas beneficiarias, atendiendo las normas nacionales y estatales, así como las de los tratados internacionales suscritos por México en la materia;
 
 II. Crear y defender el espacio público, la calidad de su entorno y las alternativas para su expansión, incluyendo corredores biológicos y corredores a escala humana con preeminencia del espacio público peatonal y áreas verdes;
 
 III. Definir el trazado y características del espacio público y la red vial de manera que ésta no afecte o interfiera con aquellos, y
 
-IV. Definir la mejor localización y dimensión del espacio público, con relación a la función que tendrá y a la ubicación de los beneficiarios.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IV. Definir la mejor localización y dimensión del espacio público, con relación a la función que tendrá y a la ubicación de las personas beneficiarias.
 
 Las solicitudes de conjuntos urbanos o fraccionamientos deberán incluir los proyectos específicos de diseño del espacio público, que serán evaluados como parte integrante de la autorización correspondiente.
 
@@ -2071,7 +2239,9 @@ I. Prevalecerá el interés general sobre el interés particular;
 
 II. Se deberá promover la equidad en su uso y disfrute;
 
-III. Se deberá asegurar la accesibilidad y libre circulación de todos los usuarios, promoviendo espacios públicos que sirvan como transición y conexión entre barrios y fomenten la pluralidad y la cohesión social;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+III. Se deberá asegurar la accesibilidad y libre circulación de todas las personas usuarias, promoviendo espacios públicos que sirvan como transición y conexión entre barrios y fomenten la pluralidad y la cohesión social;
 
 IV. En el caso de los bienes de dominio público, éstos son inalienables e imprescriptibles;
 
@@ -2079,17 +2249,21 @@ V. Se procurará mantener el equilibrio entre las áreas verdes y la infraestruc
 
 VI. Deberán ser diseñados a escala humana, con preeminencia peatonal y de áreas verdes, destinadas a la recreación, el deporte, así como a corredores biológicos, parques, jardines o zonas de esparcimiento, mismas que no podrán ser destinados a otro uso;
 
-VII. Los instrumentos en los que se autorice la ocupación del espacio público solo conferirá a sus titulares el derecho sobre la ocupación temporal y para el uso definido, previendo en todo caso las condiciones de desocupación de los inmuebles;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VII. Los instrumentos en los que se autorice la ocupación del espacio público solo conferirá a las personas titulares el derecho sobre la ocupación temporal y para el uso definido, previendo en todo caso las condiciones de desocupación de los inmuebles;
 
 VIII. En caso de tener que utilizar suelo destinado a espacio público para otros fines, la autoridad tendrá que justificar sus acciones para dicho cambio en el uso de suelo, además de sustituirlo por otro de características, ubicación y dimensiones similares;
 
 IX. Los Municipios vigilarán y protegerán la seguridad, la integridad y la calidad del espacio público, y
 
-X. Todos los habitantes tienen el derecho de denunciar cualquier acción que atente contra la integridad y condiciones de uso, goce y disfrute del espacio público.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+X. Todas las personas tienen el derecho de denunciar cualquier acción que atente contra la integridad y condiciones de uso, goce y disfrute del espacio público.
 
-En la formulación de los programas municipales de desarrollo urbano se promoverá la creación de espacios públicos de dimensiones adecuadas para integrar barrios, de tal manera que su ubicación y beneficios sean accesibles a distancias peatonales para sus habitantes.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+En la formulación de los programas municipales de desarrollo urbano se promoverá la creación de espacios públicos de dimensiones adecuadas para integrar barrios, de tal manera que su ubicación y beneficios sean accesibles a distancias peatonales para la población.
 
 ## Título Octavo. De la Movilidad
 
@@ -2107,7 +2281,9 @@ Las políticas y programas de movilidad deberán:
 
 I. Procurar la accesibilidad universal de las personas, garantizando la máxima interconexión entre vialidades, medios de transporte, rutas y destinos, priorizando la movilidad peatonal y no motorizada;
 
-II. Fomentar la distribución equitativa del espacio público de vialidades que permita la máxima armonía entre los diferentes tipos de usuarios;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II. Fomentar la distribución equitativa del espacio público de vialidades que permita la máxima armonía entre los diferentes tipos de personas usuarias;
 
 III. Promover los usos del suelo mixtos, la distribución jerárquica de equipamientos, favorecer una mayor flexibilidad en las alturas y densidades de las edificaciones y evitar la imposición innecesaria de cajones de estacionamiento;
 
@@ -2115,7 +2291,9 @@ IV. Promover acciones y proyectos que devuelvan las calles a los peatones, reduc
 
 V. Promover la innovación tecnológica de punta, para almacenar, procesar y distribuir información que permita contar con nuevos sistemas, aplicaciones y servicios que contribuyan a una gestión eficiente, así como a la reducción de las externalidades negativas en la materia;
 
-VI. Incrementar la oferta de opciones de servicios y modos de transporte integrados, a los diferentes grupos de usuarios, que proporcionen disponibilidad, velocidad, densidad y accesibilidad universal, que permitan reducir la dependencia del uso del automóvil particular, aquellas innovaciones tecnológicas que permitan el uso compartido del automóvil, el uso de la motocicleta y desarrollar nuevas alternativas al transporte público;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VI. Incrementar la oferta de opciones de servicios y modos de transporte integrados, a las diferentes agrupaciones de personas usuarias, que proporcionen disponibilidad, velocidad, densidad y accesibilidad universal, que permitan reducir la dependencia del uso del automóvil particular, aquellas innovaciones tecnológicas que permitan el uso compartido del automóvil, el uso de la motocicleta y desarrollar nuevas alternativas al transporte público;
 
 VII. Implementar políticas y acciones de movilidad residencial que faciliten la venta, renta o intercambio de inmuebles, para una mejor interrelación entre el lugar de vivienda, el empleo y demás satisfactores urbanos, tendientes a disminuir la distancia y frecuencia de los traslados y hacerlos más eficientes;
 
@@ -2139,15 +2317,21 @@ I. El diagnóstico, información, seguimiento y evaluación de las políticas y 
 
 II. La gestión de instrumentos en la materia, tales como: cargos por congestión o restricciones de circulación en zonas determinadas; infraestructura peatonal, ciclista o de pacificación de tránsito; sistemas integrados de transporte; zonas de bajas o nulas emisiones; cargos y prohibiciones por estacionamientos en vía pública; estímulos a vehículos motorizados con baja o nula contaminación; restricciones de circulación para vehículos de carga y autos; tasas diferenciadas del impuesto de la tenencia que consideren la dimensión o características de los vehículos motorizados, entre otros, y
 
-III. La priorización, congruencia y eficacia en las inversiones públicas, considerando el nivel de vulnerabilidad de usuarios, las externalidades que genera cada modo de transporte y su contribución a la productividad de la colectividad.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+III. La priorización, congruencia y eficacia en las inversiones públicas, considerando el nivel de vulnerabilidad de las personas usuarias, las externalidades que genera cada modo de transporte y su contribución a la productividad de la colectividad.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 117.
 
-El Estado y los Municipios deberán promover y priorizar en la población la adopción de nuevos hábitos de movilidad urbana sustentable y prevención de accidentes encaminados a mejorar las condiciones en que se realizan los desplazamientos de la población, lograr una sana convivencia en las calles, respetar el desplazamiento del peatón y su preferencia, prevenir conflictos de tránsito, desestimular el uso del automóvil particular, promover el uso intensivo del transporte público y no motorizado y el reconocimiento y respeto a la siguiente jerarquía: personas con movilidad limitada y peatones, usuarios de transporte no motorizado, usuarios del servicio de transporte público de pasajeros, prestadores del servicio de transporte público de pasajeros, prestadores del servicio de transporte de carga y usuarios de transporte particular.
+El Estado y los Municipios deberán promover y priorizar en la población la adopción de nuevos hábitos de movilidad urbana sustentable y prevención de accidentes encaminados a mejorar las condiciones en que se realizan los desplazamientos de la población, lograr una sana convivencia en las calles, respetar el desplazamiento de las personas que transitan a pie y su preferencia, prevenir conflictos de tránsito, desestimular el uso del automóvil particular, promover el uso intensivo del transporte público y no motorizado y el reconocimiento y respeto a la siguiente jerarquía: personas con movilidad limitada y de las personas a pie, personas usuarias de transporte motorizado, personas usuarias del servicio de transporte público de personas pasajeras, personas prestadoras del servicio de transporte público de personas pasajeras, personas prestadoras del servicio de transporte de carga y personas usuarias de transporte particular.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 118.
 
-En lo previsto en esta ley en materia de movilidad sustentable, se deberá observar lo establecido en la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado y demás disposiciones aplicables.
+En lo previsto en esta ley en materia de movilidad sustentable, se deberá observar lo establecido en la Ley de Movilidad del Estado de Quintana Roo.
 
 ## Título Noveno. Del Suelo y la Regularización Territorial
 
@@ -2187,9 +2371,9 @@ El Estado y los Municipios llevarán a cabo acciones coordinadas en materia de r
 
 I. Establecer una política integral, mediante la adquisición y habilitación de suelo y reservas territoriales, tendientes a incrementar la oferta de ese recurso para el desarrollo urbano y la vivienda, que propicie a la vez ciudades compactas y ordenadas;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-II. Reducir y abatir los procesos de ocupación irregular, en especial en zonas de riesgo, mediante la oferta de tierra que atienda preferentemente, las necesidades de los grupos de bajos ingresos, proveyéndoles, de información oportuna para prevenir sean víctimas de quien se aproveche de su estado de necesidad y les induzca a realizar las conductas prohibidas por la ley;
+II. Reducir y abatir los procesos de ocupación irregular, en especial en zonas de riesgo, mediante la oferta de tierra que atienda preferentemente, las necesidades de las personas de bajos ingresos, proveyéndoles, de información oportuna para prevenir sean víctimas de quien se aproveche de su estado de necesidad y les induzca a realizar las conductas prohibidas por la ley;
 
 III. Asegurar la disponibilidad de suelo para los diferentes usos y destinos que determinen los programas de desarrollo urbano;
 
@@ -2223,7 +2407,9 @@ VIII. Los mecanismos e instrumentos para la dotación de infraestructura, equipa
 
 Con base en los convenios o acuerdos que señala el artículo anterior, la Secretaría gestionará y promoverá:
 
-I. La transferencia, enajenación o destino de terrenos de propiedad federal para el desarrollo urbano y la vivienda, a favor del Gobierno del Estado de Quintana Roo, de los Municipios, de las organizaciones sociales y de los promotores privados, conforme a las disposiciones jurídicas aplicables, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I. La transferencia, enajenación o destino de terrenos de propiedad federal para el desarrollo urbano y la vivienda, a favor del Gobierno del Estado de Quintana Roo, de los Municipios, de las organizaciones sociales y de las personas promotoras privadas, conforme a las disposiciones jurídicas aplicables, y
 
 II. La asociación o cualquier otra forma de participación que determinen los núcleos agrarios, a efecto de incorporar terrenos ejidales y comunales para el desarrollo urbano y la vivienda y evitar su ocupación irregular, sujetándose a lo dispuesto en esta ley y en las demás disposiciones aplicables.
 
@@ -2235,7 +2421,9 @@ II. La asociación o cualquier otra forma de participación que determinen los n
 
 La urbanización, parcelación, apertura de calles, avenidas primarias, fraccionamientos, conjuntos urbanos, subdivisión, lotificación, construcción o incorporación al desarrollo urbano de predios rurales deberá contar con las autorizaciones y permisos federales, estatales y municipales que le sean aplicables.
 
-El Registro Público de la Propiedad y del Comercio y sus delegaciones en el Estado de Quintana Roo, no podrán inscribir título de propiedad alguno, fraccionamiento, conjunto urbano, subdivisión, lotificación, parcelación, construcción o incorporación al desarrollo urbano de predios ejidales o comunales, si no cuenta con las autorizaciones expresas a que alude el párrafo anterior. Las personas notarios no podrán dar fe ni intervenir en este tipo de operaciones, a menos de que cuenten con las mencionadas autorizaciones, para lo cual estarán obligadas a efectuar la verificación correspondiente.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+El Registro Público de la Propiedad y del Comercio y sus delegaciones en el Estado de Quintana Roo, no podrán inscribir título de propiedad alguno, fraccionamiento, conjunto urbano, subdivisión, lotificación, parcelación, construcción o incorporación al desarrollo urbano de predios ejidales o comunales, si no cuenta con las autorizaciones expresas a que alude el párrafo anterior. Las personas titulares de las notarías no podrán dar fe ni intervenir en este tipo de operaciones, a menos de que cuenten con las mencionadas autorizaciones, para lo cual estarán obligadas a efectuar la verificación correspondiente.
 
 Para poder solicitar ante el Registro Público de la Propiedad y del Comercio y sus delegaciones en el Estado de Quintana Roo, la inscripción de actos, contratos o cualquier otro instrumento jurídico que tenga como objeto formalizar operaciones o traslaciones de dominio que provengan de una subdivisión, lotificación o parcelación, mayor a doce fracciones resultantes, deberá contar con el Dictamen de Viabilidad en Materia de Acciones Urbanísticas en Modalidad de Conjunto Urbano, de Fraccionamiento o de Viabilidad Urbanística y Mitigación de Impactos, según corresponda, en términos de lo dispuesto en el artículo 46 de la Ley de Acciones Urbanísticas del Estado de Quintana Roo.
 
@@ -2273,15 +2461,17 @@ Las políticas, programas, instrumentos y apoyos públicos en materia de regular
 
 Quedan prohibidos en el Estado, los asentamientos humanos irregulares; la regularización por excepción de los existentes quedará sujeta a las disposiciones que establece este Capítulo.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
-Las autoridades estatales y municipales adoptarán las medidas necesarias para prevenir y evitar que tengan lugar, así como para corregir los que ilegalmente, ocurran y sancionar a los responsables de ello; y de acuerdo con sus facultades, publicarán en medios digitales oficiales de la Secretaría y de los Municipios, las acciones urbanísticas no autorizadas. Los datos contenidos en las publicaciones se ajustarán a lo establecido en la legislación en materia de protección de datos personales.
+Las autoridades estatales y municipales adoptarán las medidas necesarias para prevenir y evitar que tengan lugar, así como para corregir los que ilegalmente, ocurran y sancionar a las personas responsables de ello; y de acuerdo con sus facultades, publicarán en medios digitales oficiales de la Secretaría y de los Municipios, las acciones urbanísticas no autorizadas. Los datos contenidos en las publicaciones se ajustarán a lo establecido en la legislación en materia de protección de datos personales.
 
 La existencia de ocupaciones o asentamientos humanos irregulares podrán ser denunciados por cualquier persona a la Secretaría, a efecto de que se realicen las acciones administrativas correspondientes y se promuevan las denuncias penales o las acciones civiles ante las autoridades competentes.
 
 Las autoridades locales, al conocer de un asentamiento humano irregular o la formación de éste, procederán a la suspensión de cualquier ocupación, obra o venta de predios que se realicen ilícitamente, fijando en los lugares públicos y visibles, copias del ordenamiento que disponga tal situación, el cual deberá estar fundado en las disposiciones legales, así como publicado en los periódicos de mayor circulación de la localidad, como advertencia pública.
 
-Cuando el asentamiento irregular se localice en terrenos no aptos para el desarrollo urbano o que pongan en peligro a la población o a sus bienes, las autoridades competentes procederán al desalojo del asentamiento humano de que se trate, independientemente de las sanciones civiles, administrativas o penales a que se hagan acreedores sus promoventes u ocupantes.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Cuando el asentamiento irregular se localice en terrenos no aptos para el desarrollo urbano o que pongan en peligro a la población o a sus bienes, las autoridades competentes procederán al desalojo del asentamiento humano de que se trate, independientemente de las sanciones civiles, administrativas o penales a que se hagan acreedores sus personas promoventes u ocupantes.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
@@ -2301,19 +2491,25 @@ II. Procederá conforme al Programa Municipal de Desarrollo Urbano aplicable, en
 
 III. En los casos de aquellos que se encuentren previamente en uso de suelo urbano, se priorizará brindar certeza jurídica en la tenencia de la tierra, de lo contrario deberá acreditarse la evaluación y mitigación de riesgos de la población asentada irregularmente, para la introducción de infraestructura y su conexión a las redes existentes, así como la proyección a futuro sobre la provisión de servicios públicos;
 
-IV. Para los casos de Titulación por el ente público, podrán recibir el beneficio de la regularización quienes ocupen un predio y no sean propietarios de otro inmueble en el Municipio de que se trate. Tendrán preferencia las y los poseedores de forma pacífica y de buena fe de acuerdo a la antigüedad de la posesión;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IV. Para los casos de Titulación por el ente público, podrán recibir el beneficio de la regularización quienes ocupen un predio y no sean personas propietarias de otro inmueble en el Municipio de que se trate. Tendrán preferencia las personas poseedoras de forma pacífica y de buena fe de acuerdo a la antigüedad de la posesión;
 
 V. Ninguna persona podrá resultar beneficiada con más de un título de propiedad o escritura pública por la regularización con más de un lote o predio cuya superficie no podrá exceder de la extensión determinada por la legislación, programas o esquemas de desarrollo urbano aplicables;
 
 VI. Basta acreditarse con el hecho notorio que la acción de regularización representa un beneficio social y público
 
-Los beneficiarios de la regularización, en su caso, deberán en un momento posterior tramitar y obtener de las autoridades municipales correspondientes las licencias o permisos de edificación y funcionamiento que sean necesarios.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Las personas beneficiarias de la regularización, en su caso, deberán en un momento posterior tramitar y obtener de las autoridades municipales correspondientes las licencias o permisos de edificación y funcionamiento que sean necesarios.
 
 Las autoridades municipales, por excepción y motivados en causas debidamente justificadas, podrán autorizar dimensiones inferiores en lotes, viviendas o vialidades secundarias a regularizar, así como autorizar lotificaciones que no cumplan con el porcentaje específico de las áreas de cesión para destinos, esto con el fin de que logren generar certeza jurídica en la tenencia de la tierra.
 
 Las vialidades que en su caso no cumplan con los parámetros establecidos por la ley, en donde se impida la construcción de infraestructura como alumbrado público, guarniciones, banquetas, etc., al momento de conceptualizar los proyectos para la dotación de infraestructura, se realizará una evaluación con talleres participativos con personas que habitan en la zona, para efecto de socializar la situación en cada uno de los casos de inversión, y se levantarán minutas de acuerdos.
 
-Los gobiernos estatal y municipales deberán establecer mecanismos de coordinación tendientes a la regularización de los asentamientos humanos, que sean viables mediante convenios o instrumentos de coordinación interinstitucional como acciones integrales de mejoramiento, para reordenar, renovar e integrar las zonas de que se trate al desarrollo urbano. Igualmente, deberán establecer las condiciones conforme a las cuales los beneficiarios de la regularización deberán cooperar en forma proporcional y equitativa con los costos que genere la urbanización.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Los gobiernos estatal y municipales deberán establecer mecanismos de coordinación tendientes a la regularización de los asentamientos humanos, que sean viables mediante convenios o instrumentos de coordinación interinstitucional como acciones integrales de mejoramiento, para reordenar, renovar e integrar las zonas de que se trate al desarrollo urbano. Igualmente, deberán establecer las condiciones conforme a las cuales las personas beneficiarias de la regularización deberán en su caso cooperar en forma proporcional y equitativa con los costos que genere la urbanización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
 
@@ -2323,9 +2519,11 @@ Si para la regularización de asentamientos humanos resulta necesaria la ocupaci
 
 En estos mismos términos se estará para la desocupación de predios edificados que deben ser demolidos total o parcialmente, así como el retiro de objetos en predios, edificados o no, que en cualquier forma obstaculicen la ejecución de obras.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 131.
 
-Las autoridades estatales y municipales realizarán acciones coordinadas para promover y facilitar la obtención de escrituras públicas o títulos de propiedad en favor de posesionarios legítimos, ubicados en asentamientos regulares de los Centros de Población, para ese efecto podrán:
+Las autoridades estatales y municipales realizarán acciones coordinadas para promover y facilitar la obtención de escrituras públicas o títulos de propiedad en favor de las personas posesionarias legítimas, ubicados en asentamientos regulares de los Centros de Población, para ese efecto podrán:
 
 I. Brindar asesoría técnica, jurídica y financiera para el mejoramiento de sus viviendas y barrios;
 
@@ -2333,25 +2531,29 @@ II. Otorgar facilidades administrativas para regularizar las viviendas y constru
 
 III. Establecer un régimen de subsidios y condonaciones fiscales en los impuestos, derechos y aprovechamientos relacionados con los procesos de reconocimiento, escrituración y registro de títulos de propiedad, y
 
-IV. Promover la reducción de normas, trámites y costos de las acciones civiles, administrativas y los procedimientos judiciales, que permitan a los posesionarios legítimos la obtención de títulos de propiedad, con plenos efectos registrales.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-Los poseedores de predios con las condiciones para usucapirlos, que no tenga título de propiedad y no exista en el Registro Público inscripción de propiedad alguna, podrán demostrar su posesión en los términos del Código Civil para el Estado Libre y Soberano de Quintana Roo, para que se le reconozca su derecho de propiedad por esta vía.
+IV. Promover la reducción de normas, trámites y costos de las acciones civiles, administrativas y los procedimientos judiciales, que permitan a las personas posesionarias legítimas la obtención de títulos de propiedad, con plenos efectos registrales.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Las personas poseedoras de predios con las condiciones para usucapirlos, que no tenga título de propiedad y no exista en el Registro Público inscripción de propiedad alguna, podrán demostrar su posesión en los términos del Código Civil para el Estado de Quintana Roo, para que se le reconozca su derecho de propiedad por esta vía.
 
 ### Capítulo Cuarto. Del Derecho de Preferencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 132.
 
-En los términos de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, la Ley Agraria y esta Ley, la Federación, el Gobierno del Estado y los Municipios tienen el derecho de preferencia en igualdad de condiciones, para adquirir los predios comprendidos en las zonas de reserva o urbanizables señaladas en los programas municipales a que se refiere el artículo 31 de esta Ley, para destinarlos preferentemente a reservas para la edificación de vivienda social y lotes con servicios para familias de bajos ingresos, o para la constitución de espacio público cuando éstos vayan a ser objeto de enajenación a título oneroso.
+En los términos de la Ley General de Asentamientos Humamos Ordenamiento Territorial y Desarrollo Urbano, la Ley Agraria y esta Ley, la Federación, el Gobierno del Estado y los Municipios tienen el derecho de preferencia en igualdad de condiciones, para adquirir los predios comprendidos en las zonas de reserva o urbanizables señaladas en los programas municipales a que se refiere el artículo 31 de esta Ley, con superficie mínima de cinco hectáreas, para destinarlos preferentemente a reservas para la edificación de vivienda social y lotes con servicios para familias de bajos ingresos, o para la constitución de espacio público y aquellos con superficie mínima de una hectárea, cuando se encuentren fuera de dichas zonas de reserva o urbanizables, lo anterior, cuando, en cualquiera de estos supuestos, vayan a ser objeto de enajenación a título oneroso.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
 
 Para tal efecto, las personas propietarias de los predios, las personas notarios públicos, las personas juzgadoras y las autoridades administrativas respectivas deberán notificarlo a la Secretaría y al Municipio correspondiente, dando a conocer el monto de la operación y el plano de ubicación con coordenadas, a fin de que, en un plazo no mayor de treinta días naturales, ejerzan el derecho de preferencia si lo consideran conveniente, garantizando el pago respectivo.
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
-El ejercicio o no del derecho de preferencia deberá ser manifestado por la Secretaría a través de escrito a la persona solicitante dentro del periodo de 30 días naturales que menciona este párrafo. Este documento deberá ser solicitado por el Registro Público de la Propiedad y del Comercio y sus delegaciones en el Estado de Quintana Roo, previo a la inscripción correspondiente.
+El ejercicio o no del derecho de preferencia deberá ser manifestado por la Secretaría a través de escrito a la persona solicitante dentro del periodo de treinta días naturales que menciona este párrafo. Este documento deberá ser solicitado por el Registro Público de la Propiedad y del Comercio y sus delegaciones en el Estado de Quintana Roo, previo a la inscripción correspondiente, en caso que transcurra dicho término sin que la Secretaría emita respuesta por escrito, se tendrá por acreditado el no ejercicio del derecho de preferencia a que se refiere el presente artículo.
 
 Cuando la Federación o el Gobierno del Estado o el municipio pretendan ejercer dicho derecho de preferencia, tendrá preferencia este último.
 
@@ -2367,7 +2569,9 @@ La Secretaría y los Municipios, en coordinación con otras dependencias y entid
 
 Las regulaciones en materia de imagen urbana, se regirán por los siguientes principios:
 
-I. La calidad visual y espacial, para garantizar que la estructura urbana y sus elementos sean armónicos entre sí, en términos de espacio público, paisaje urbano, áreas verdes, diseño, textura, color y volumetría, considerando el conjunto de elementos naturales, construidos y artísticos que integran una ciudad, tales como la traza urbana, la zonificación urbana, sus usos y destinos, el espacio público, los edificios, el equipamiento urbano, las expresiones plásticas, los hitos, los corredores biológicos, el medio ambiente natural, y todo aquello que formando referencias visuales dan identidad al centro de población, transmitiendo valores y cosmovisiones, fortaleciendo el arraigo y la dignidad de sus moradores;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I. La calidad visual y espacial, para garantizar que la estructura urbana y sus elementos sean armónicos entre sí, en términos de espacio público, paisaje urbano, áreas verdes, diseño, textura, color y volumetría, considerando el conjunto de elementos naturales, construidos y artísticos que integran una ciudad, tales como la traza urbana, la zonificación urbana, sus usos y destinos, el espacio público, los edificios, el equipamiento urbano, las expresiones plásticas, los hitos, los corredores biológicos, el medio ambiente natural, y todo aquello que formando referencias visuales dan identidad al centro de población, transmitiendo valores y cosmovisiones, fortaleciendo el arraigo y la dignidad de las personas moradoras;
 
 II. La eficiencia y funcionalidad, consistente en que los criterios, normas y regulaciones en materia de imagen y diseño urbanos, deberán tender a las soluciones más adecuadas para la operación, dignificación, realce y funcionamiento de los centros de población, y
 
@@ -2435,23 +2639,29 @@ Las acciones que se realicen aplicando cualquier sistema de acción urbanística
 
 Las leyes hacendarias de los Municipios, en su caso, establecerán los beneficios fiscales que se otorguen a las acciones que se emprendan en los distintos sistemas de acción urbanística, conforme al interés público, el beneficio general y su objetivo social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 139.
 
-La acción urbanística privada se refiere a la realización de obras de urbanización para usos determinados mediante la asociación de propietarios o promotores, en predios de propiedad privada o social que cumplan con los requisitos estipulados en esta ley.
+La acción urbanística privada se refiere a la realización de obras de urbanización para usos determinados mediante la asociación de personas propietarias o promotoras, en predios de propiedad privada o social que cumplan con los requisitos estipulados en esta ley.
 
 Bajo este sistema, se regirán las obras de urbanización y edificación promovidas y ejecutadas por los organismos públicos descentralizados.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 140.
 
-La acción urbanística por concertación comprende las distintas acciones en esa materia, que se realicen mediante convenio con el gobierno del Estado o Municipio, celebrado por los propietarios de predios o promotores.
+La acción urbanística por concertación comprende las distintas acciones en esa materia, que se realicen mediante convenio con el gobierno del Estado o Municipio, celebrado por las personas propietarias de predios o promotoras.
 
-Podrá realizarse siempre y cuando se presente el acuerdo de aceptación de todos los propietarios y participantes directamente involucrados con la obra.
+Podrá realizarse siempre y cuando se presente el acuerdo de aceptación de todas las personas propietarias y participantes directamente involucradas con la obra.
 
-Las asociaciones de vecinos legalmente constituidas podrán promover obras por este sistema, acreditando el acuerdo de asamblea que, conforme a sus estatutos, apruebe las obras y obligue a la totalidad de sus miembros a hacer las aportaciones que les correspondan para su financiamiento.
+Las asociaciones de vecinas y vecinos legalmente constituidas podrán promover obras por este sistema, acreditando el acuerdo de asamblea que, conforme a sus estatutos, apruebe las obras y obligue a la totalidad de sus integrantes a hacer las aportaciones que les correspondan para su financiamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 141.
 
-La acción urbanística por contribución por obra pública comprende aquellas obras de urbanización y edificación para uno o varios destinos, generando beneficios en forma indirecta o general, a los habitantes o propietarios de predios o fincas de un Centro de población o de una zona del mismo.
+La acción urbanística por contribución por obra pública comprende aquellas obras de urbanización y edificación para uno o varios destinos, generando beneficios en forma indirecta o general, a la población habitante o a las personas propietarias de predios o fincas de un Centro de población o de una zona del mismo.
 
 El Proyecto deberá incluir:
 
@@ -2461,7 +2671,9 @@ II. Monto probable de las indemnizaciones por expropiación, en su caso;
 
 III. Clasificación de la zona en secciones según los diversos grados de mejoría o beneficio generado por la obra;
 
-IV. El estudio socioeconómico que determine la capacidad de pago de los propietarios de los predios y fincas comprendidos en la zona de beneficio, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IV. El estudio socioeconómico que determine la capacidad de pago de las personas propietarias de los predios y fincas comprendidos en la zona de beneficio, y
 
 V. Número de exhibiciones y plazo en que deberá ser pagada la contribución especial.
 
@@ -2475,17 +2687,23 @@ La contribución por obra pública tendrá carácter objetivo y afectará a todo
 
 La zona de beneficio de la obra se regulará en el programa parcial de desarrollo urbano que se apruebe.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 144.
 
-La acción urbanística por asociación de interés público se refiere a las obras de urbanización para usos y destinos, promovidas con los propietarios de los predios comprendidos en las áreas de reservas o urbanizables.
+La acción urbanística por asociación de interés público se refiere a las obras de urbanización para usos y destinos, promovidas con las personas propietarias de los predios comprendidos en las áreas de reservas o urbanizables.
 
 ###### Artículo 145.
 
 Para la ejecución de obras de urbanización en la acción urbanística por asociación de interés público, se seguirá el siguiente procedimiento:
 
-I. Los propietarios o autoridades interesadas en la ejecución de las obras, elaborarán un estudio urbanístico que acredite el interés público en dichas obras;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-II. Aprobado por el Municipio, se podrá formalizar el convenio respectivo con los propietarios de las áreas o predios;
+I. Las personas propietarias o autoridades interesadas en la ejecución de las obras, elaborarán un estudio urbanístico que acredite el interés público en dichas obras;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II. Aprobado por el Municipio, se podrá formalizar el convenio respectivo con las personas propietarias de las áreas o predios;
 
 III. El convenio a que se refiere la fracción anterior, podrá establecer la constitución de una asociación, organismo o entidad para la gestión urbana integral del área de reserva o urbanizable, y
 
@@ -2495,15 +2713,17 @@ IV. Si las áreas o predios son propiedad de un núcleo de población ejidal, pr
 
 La acción urbanística de objetivo social se refiere a las urbanizaciones que se desarrollarán mediante la gestión pública, bajo la coordinación de la Secretaría, con la participación que corresponda a otras dependencias y entidades competentes, conforme a las siguientes disposiciones generales:
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-I. La finalidad de la acción urbanística por objetivo social en acciones de crecimiento y mejoramiento urbano, es responder a la demanda de suelo para la vivienda social y evitar con ello el asentamiento irregular o el rescate y renovación de barrios y colonias;
+II. En acciones de mejoramiento para la regularización de la tenencia de la tierra urbana, formalizará los términos y condiciones para la participación de las personas titulares de los predios y fincas, en la ejecución de las obras de infraestructura, urbanización y equipamiento necesarias para su integración al desarrollo del Centro de Población;
 
 II. En acciones de mejoramiento para la regularización de la tenencia de la tierra urbana, formalizará los términos y condiciones para la participación de los titulares de los predios y fincas, en la ejecución de las obras de infraestructura, urbanización y equipamiento necesarias para su integración al desarrollo del Centro de Población;
 
 III. En todo caso, para la autorización de obras en la acción urbanística por objetivo social, se requerirá elaborar y autorizar por las autoridades municipales el proyecto ejecutivo correspondiente, y
 
-IV. La ejecución de acciones quedará a cargo del Municipio, el Gobierno del Estado, el organismo público o el Municipio que promueva la urbanización, así como por la asociación de vecinos que integren los titulares de los predios.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IV. La ejecución de acciones quedará a cargo del Municipio, el Gobierno del Estado, el organismo público o el Municipio que promueva la urbanización, así como por la asociación de personas residentes en el Municipio que integren las personas titulares de los predios.
 
 ###### Artículo 147.
 
@@ -2523,25 +2743,29 @@ I. Se delimitará polígono de actuación cuando por el desarrollo de un Proyect
 
 II. Dicha zona será objeto de planeación a través de un Plan Maestro de Desarrollo Urbano, bajo la dirección de la AGEPRO o la Secretaría;
 
-III. Los beneficiarios o propietarios de los predios se beneficiarán con un mejor aprovechamiento de su potencial, sin embargo, a través de medidas de mitigación urbana, contribuirán al mejoramiento de la zona realizando las obras, acciones y proyectos derivadas del Plan Maestro, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+III. Las personas beneficiarias o propietarias de los predios se beneficiarán con un mejor aprovechamiento de su potencial, sin embargo, a través de medidas de mitigación urbana, contribuirán al mejoramiento de la zona realizando las obras, acciones y proyectos derivadas del Plan Maestro, y
 
 IV. Las obras, acciones y proyectos serán coordinadas por la AGEPRO.
 
 #### Sección Segunda. Polígonos de Actuación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 149.
 
-Los Municipios podrán determinar la constitución de Polígonos de Actuación para el mejor aprovechamiento del potencial de desarrollo en áreas de crecimiento, consolidación o mejoramiento, con base en los estudios que para tal efecto se elaboren. Para ello, se reunirán los representantes de dichas autoridades con los propietarios de predios, de manera que todos los procesos y las decisiones se convengan de común acuerdo. Los polígonos de actuación se determinarán en los programas municipales de desarrollo urbano y deberán contar con un plan maestro o de ejecución de acciones.
+Los Municipios podrán determinar la constitución de Polígonos de Actuación para el mejor aprovechamiento del potencial de desarrollo en áreas de crecimiento, consolidación o mejoramiento, con base en los estudios que para tal efecto se elaboren. Para ello, se reunirán las personas representantes de dichas autoridades con las personas propietarias de predios, de manera que todos los procesos y las decisiones se convengan de común acuerdo. Los polígonos de actuación se determinarán en los programas municipales de desarrollo urbano y deberán contar con un plan maestro o de ejecución de acciones.
 
 Para la ejecución de proyectos a través de los polígonos de actuación, las autoridades municipales resolverán sobre la relocalización de los usos y destinos del suelo, el intercambio de potencialidad de edificación dentro de un mismo polígono, así como la relotificación de los predios participantes, para generar una nueva división.
 
 Los Municipios tendrán facultades de supervisión y vigilancia sobre el proyecto aprobado, así como para tomar las medidas de seguridad e imponer las sanciones a que hubiera lugar por el incumplimiento o irregularidades que sean detectadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 150.
 
-El propietario o propietarios podrán solicitar al municipio, la constitución de un Polígono de Actuación, para lo cual deberán acompañar el estudio respectivo los siguientes elementos:
+La persona o personas propietarias podrán solicitar al municipio, la constitución de un Polígono de Actuación, para lo cual deberán acompañar al estudio respectivo los siguientes elementos:
 
 I. Análisis de las disposiciones que aplican en el predio o predios;
 
@@ -2555,7 +2779,9 @@ IV. Cualquiera de los sistemas de actuación para su ejecución y financiamiento
 
 El Municipio resolverá sobre la procedencia de la constitución del polígono de actuación. En todo caso, solicitará las opiniones a otras dependencias competentes sobre las condiciones y medidas que tienen que adoptarse para su adecuada ejecución.
 
-En el acuerdo de constitución del polígono, el Ayuntamiento emitirá la aprobación y ordenará su inscripción en el Registro Público, previo pago de derechos a cargo del solicitante.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+En el acuerdo de constitución del polígono, el Ayuntamiento emitirá la aprobación y ordenará su inscripción en el Registro Público, previo pago de derechos a cargo de la persona solicitante.
 
 ###### Artículo 152.
 
@@ -2567,13 +2793,17 @@ II. Los lineamientos en términos de área libre, niveles de construcción, supe
 
 #### Sección Tercera. Del Reagrupamiento Parcelario
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 153.
 
-Para la ejecución de los programas municipales a que se refiere el artículo 31 de esta ley, se podrá establecer el reagrupamiento parcelario. El Gobierno del Estado y los Municipios promoverán ante propietarios e inversionistas la integración de la propiedad requerida. Una vez ejecutadas las acciones urbanísticas planeadas, los propietarios e inversionistas procederán a recuperar la parte alícuota que les corresponda, ya sea en tierra, edificaciones o en numerario.
+Para la ejecución de los programas municipales a que se refiere el artículo 31 de esta ley, se podrá establecer el reagrupamiento parcelario. El Gobierno del Estado y los Municipios promoverán ante las personas propietarias e inversionistas la integración de la propiedad requerida. Una vez ejecutadas las acciones urbanísticas planeadas, las personas propietarias e inversionistas procederán a recuperar la parte alícuota que les corresponda, ya sea en tierra, edificaciones o en numerario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 154.
 
-Cuando uno o varios de los propietarios de predios contemplados en un programa municipal a que se refiere el artículo 31 de esta ley, debidamente aprobado no acepte el reagrupamiento parcelario, el Gobierno del Estado procederá a la expropiación en términos de lo dispuesto en la Ley de Expropiación del Estado de Quintana Roo y demás relacionadas con la materia, siempre y cuando más de dos tercios de los propietarios afectados, que representen como mínimo la mitad del área requerida, convengan la realización del programa.
+Cuando una o varias de las personas propietarias de predios contemplados en un programa municipal a que se refiere el artículo 31 de esta ley, debidamente aprobado no acepte el reagrupamiento parcelario, el Gobierno del Estado procederá a la expropiación en términos de lo dispuesto en la Ley de Expropiación, Ocupación Temporal y Limitación de Dominio del Estado de Quintana Roo y demás relacionadas con la materia, siempre y cuando más de dos tercios de las personas propietarias afectadas, que representen como mínimo la mitad del área requerida, convengan la realización del programa.
 
 Una vez expropiados los predios, el Gobierno del Estado los entregará para el reagrupamiento parcelario, gozando de los derechos y obligaciones que le correspondan.
 
@@ -2589,19 +2819,25 @@ II. Previo al reagrupamiento parcelario se formulará un proyecto ejecutivo, mis
 
 III. La administración y desarrollo de los predios reagrupados se realizará mediante fideicomiso o cualquier otra forma de gestión u organización legal que garantice la distribución equitativa de beneficios y cargas que se generen, la factibilidad financiera de los proyectos y la transparencia en su administración;
 
-IV. La habilitación con infraestructura primaria, y en su caso la urbanización y la edificación se llevará a cabo bajo la responsabilidad del fiduciario o responsable de la gestión común;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IV. La habilitación con infraestructura primaria, y en su caso la urbanización y la edificación se llevará a cabo bajo la responsabilidad de la persona fiduciaria o responsable de la gestión común;
 
 V. Solo podrán enajenarse los predios resultantes una vez que hayan sido construidas las obras de habilitación con infraestructura primaria, salvo en los casos en que se trate de proyectos progresivos autorizados con base en la legislación vigente, y
 
-VI. La distribución de cargas y beneficios entre los participantes se realizará con base en un estudio de factibilidad financiera, que formulará el promovente del reagrupamiento de predios.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VI. La distribución de cargas y beneficios entre las personas participantes se realizará con base en un estudio de factibilidad financiera, que formulará la persona promovente del reagrupamiento de predios.
 
 ### Capítulo Segundo. De los Instrumentos de Financiamiento y Fomento al Desarrollo Urbano
 
 #### Sección Primera. Instrumentos de Financiamiento
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 156.
 
-En términos de las leyes federales y estatales aplicables, y sin perjuicio de lo previsto por la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, corresponderá a las autoridades estatales y municipales, en la esfera de sus respectivas competencias, la aplicación de mecanismos financieros y fiscales que permitan que los costos de la ejecución o introducción de infraestructura primaria, servicios básicos, otras obras y acciones de interés público urbano, se carguen de manera preferente a los que se benefician directamente de los mismos, así como aquellos que desincentiven la existencia de predios vacantes y subutilizados que tengan cobertura de infraestructura y servicios. Para dicho efecto, realizará la valuación de los predios antes de la ejecución o introducción de las infraestructuras, para calcular los incrementos del valor del suelo sujetos a imposición fiscal.
+En términos de las leyes federales y estatales aplicables, y sin perjuicio de lo previsto por la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, corresponderá a las autoridades estatales y municipales, en la esfera de sus respectivas competencias, la aplicación de mecanismos financieros y fiscales que permitan que los costos de la ejecución o introducción de infraestructura primaria, servicios básicos, otras obras y acciones de interés público urbano, se carguen de manera preferente a las personas que se benefician directamente de los mismos, así como aquellos que desincentiven la existencia de predios vacantes y subutilizados que tengan cobertura de infraestructura y servicios. Para dicho efecto, realizará la valuación de los predios antes de la ejecución o introducción de las infraestructuras, para calcular los incrementos del valor del suelo sujetos a imposición fiscal.
 
 ###### Artículo 157.
 
@@ -2661,13 +2897,17 @@ II. Impuestos o contribuciones sobre el aumento del valor de los inmuebles como 
 
 III. Contribuciones de mejoras por obras públicas u otras figuras tributarias relacionadas con la ejecución y financiamiento de las obras, acciones o servicios públicos;
 
-IV. Asociaciones o aportaciones fiduciarias para la administración de aprovechamientos inmobiliarios en Centros de Población y zonas metropolitanas, para baldíos urbanos o ampliar las áreas urbanizadas, integrando las aportaciones de propietarios, gobiernos, inversionistas y ofreciendo alternativas de desarrollo para largo plazo, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IV. Asociaciones o aportaciones fiduciarias para la administración de aprovechamientos inmobiliarios en Centros de Población y zonas metropolitanas, para baldíos urbanos o ampliar las áreas urbanizadas, integrando las aportaciones de las personas propietarias, gobiernos, inversionistas y ofreciendo alternativas de desarrollo para largo plazo, y
 
 V. Otros mecanismos financieros regulados por la legislación en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 160.
 
-Las acciones de construcción de vivienda social deberán considerar un diseño de ampliación o mejoramiento progresivo en favor de sus usuarios.
+Las acciones de construcción de vivienda social deberán considerar un diseño de ampliación o mejoramiento progresivo en favor de las personas usuarias.
 
 El Gobierno del Estado y los Municipios podrán establecer subsidios, condonaciones o reducciones en el pago de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos correspondientes a los diversos trámites y gestiones relacionados con la construcción y comercialización de vivienda social y la producción social de vivienda a que se refiere la Ley del (sic) Vivienda del Estado de Quintana Roo.
 
@@ -2675,11 +2915,13 @@ El Gobierno del Estado y los Municipios podrán establecer subsidios, condonacio
 
 Cuando se trate de acciones urbanísticas de vivienda social y la producción social de vivienda a que se refiere el artículo anterior, el Gobierno del Estado otorgará un subsidio del cien por ciento en los derechos a que se refiere la Ley de Hacienda del Estado de Quintana Roo, que se causen con motivo de:
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-I. La expedición de las Constancias de Congruencia Urbanística Estatal;
+I. La expedición del Dictamen de Viabilidad en Materia de Acciones, Urbanísticas;
 
-II. Los servicios de análisis, calificación e inscripción de documentos que brinda el Registro Público, correspondientes a las trasmisiones de las áreas de cesión para destinos, así como de propiedad de las viviendas a favor de sus beneficiarios;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II. Los servicios de análisis, calificación e inscripción de documentos que brinda el Registro Público, correspondientes a las trasmisiones de las áreas de cesión para destinos, así como de propiedad de las viviendas a favor de las personas beneficiarias;
 
 III. Los derechos de conexión por concepto de agua potable y alcantarillado.
 
@@ -2687,15 +2929,21 @@ Para las acciones de vivienda a que se refiere este artículo, la Secretaría pr
 
 En caso de que los subsidios otorgados no se destinen efectivamente a la población objetivo, la malversación o uso indebido de dichos subsidios o recursos se considerará como defraudación fiscal y se castigará conforme dispongan las leyes fiscales y el presente ordenamiento.
 
-El concepto y monto de los subsidios otorgados deberá identificarse en los contratos de transmisión individual de las viviendas e informarse fehacientemente a sus beneficiarios.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
-Los notarios y registradores, en los actos de transmisión de la propiedad de la vivienda social en que intervengan y en los cuales se apliquen los subsidios a que se refiere este artículo, deberán asegurarse que los valores de venta no rebasen los montos autorizados para el tipo de acción habitacional de que se trate. En caso de atestiguar desviaciones se negará el otorgamiento de escrituras o de inscripción y lo notificarán a la Secretaría y a las autoridades fiscales competentes.
+El concepto y monto de los subsidios otorgados deberá identifcarse en los contratos de transmisión individual de las viviendas e informarse fehacientemente a las personas beneficiarias.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Las personas titulares de las notarías públicas y las personas registradoras, en los actos de transmisión de la propiedad de la vivienda social en que intervengan y en los cuales se apliquen los subsidios a que se refiere este artículo, deberán asegurarse que los valores de venta no rebasen los montos autorizados para el tipo de acción habitacional de que se trate. En caso de atestiguar desviaciones se negará el otorgamiento de escrituras o de inscripción y lo notificarán a la Secretaría y a las autoridades fiscales competentes.
 
 #### Sección Tercera. Del Desarrollo Institucional
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 162.
 
-Los gobiernos, estatal y municipales promoverán programas permanentes de capacitación para los servidores públicos en la materia de esta ley.
+Los gobiernos, estatal y municipales promoverán programas permanentes de capacitación para las personas servidoras públicas en la materia de esta ley.
 
 Se promoverá: la legalidad, eficiencia, objetividad, calidad, imparcialidad, equidad, competencia por mérito y equidad de género, como principios del servicio público.
 
@@ -2711,27 +2959,39 @@ En los términos de la Ley Nacional para Eliminar Trámites Burocráticos, se pr
 
 ### Capítulo Primero. De las Acciones Urbanísticas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 164.
 
-Quienes formulen solicitudes o realicen gestiones en asuntos relativos al desarrollo urbano, lo harán en el ejercicio de sus legítimos derechos y bajo protesta de decir verdad ante autoridad distinta a la judicial. En el Estado se reconocen las figuras de perito responsable de obra, corresponsables en materia de urbanismo, estructuras, instalaciones, instalaciones especiales, proyecto arquitectónico, constructor y director de obra, así como peritos ambientales, quienes tendrán a su cargo por sí o solidariamente, según medie en los contratos respectivos, la responsabilidad, autenticidad, validez, calidad, contenido, cálculos y especificaciones que contengan los estudios, peritajes, memorias, responsivas, planos, así como el cumplimiento de las medidas de mitigación o compensación de los impactos ambientales y demás documentos que presenten ante las autoridades estatales o municipales.
+Quienes formulen solicitudes o realicen gestiones en asuntos relativos al desarrollo urbano, lo harán en el ejercicio de sus legítimos derechos y bajo protesta de decir verdad ante autoridad distinta a la judicial. En el Estado se reconocen las figuras de persona perito responsable de obra, corresponsables en materia de urbanismo, estructuras, instalaciones, instalaciones especiales, proyecto arquitectónico, persona constructora y director de obra, así como personas peritos ambientales, quienes tendrán a su cargo por sí o solidariamente según medie en los contratos respectivos, la responsabilidad, autenticidad, validez, calidad, contenido, cálculos y especificaciones que contengan los estudios, peritajes, memorias, responsivas, planos, así como el cumplimiento de las medidas de mitigación o compensación de los impactos ambientales y demás documentos que presenten ante las autoridades estatales o municipales.
 
 Las autoridades estatales y municipales, al emitir las autorizaciones, licencias y demás actos de autoridad, serán responsables de que las solicitudes y expedientes integren la documentación respectiva y cumplan con los requisitos que establece este ordenamiento y sus disposiciones reglamentarias, en ningún caso responderán por la calidad, veracidad o validez de los cálculos, peritajes o especificaciones que les sean presentados.
 
-El otorgamiento de las autorizaciones, licencias y demás actos de autoridad de conformidad con esta ley no impide ni condiciona el ejercicio de las facultades de verificación a cargo de las autoridades competentes, ni prejuzgan sobre los derechos de propiedad, gravámenes, servidumbres o cualquier otro derecho de terceros.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+El otorgamiento de las autorizaciones, licencias y demás actos de autoridad de conformidad con esta ley no impide ni condiciona el ejercicio de las facultades de verificación a cargo de las autoridades competentes, ni prejuzgan sobre los derechos de propiedad, gravámenes, servidumbres o cualquier otro derecho de terceras personas.
 
 ###### Artículo 165.
 
 Las autoridades competentes en la aplicación de esta ley y para la expedición de las licencias y autorizaciones a que se refiere la misma, actuarán con arreglo a los principios de economía, celeridad, eficacia, legalidad, publicidad y buena fe.
 
-Las autoridades competentes en sus relaciones con los particulares, tendrán las siguientes obligaciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MAYO DE 2026)</small>
 
-I. En el otorgamiento de las autorizaciones o licencias, no podrán exigir más requisitos que los previstos en esta ley y sus disposiciones reglamentarias, y tendrán la obligación de otorgarlas si el interesado cumple con las normas aplicables e integra dichos requisitos; la negativa injustificada por parte de los servidores públicos a otorgarlas, implicará el fincamiento de las responsabilidades que procedan;
+Las autoridades competentes en sus relaciones con las personas particulares tendrán las siguientes obligaciones:
 
-II. Solicitar la comparecencia de éstos, previa citación en la que se hará constar expresamente el lugar, fecha, hora y objeto de la comparecencia, así como los efectos de no atenderla;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I. En el otorgamiento de las autorizaciones o licencias, no podrán exigir más requisitos que los previstos en esta ley y sus disposiciones reglamentarias, y tendrán la obligación de otorgarlas si la persona interesada cumple con las normas aplicables e integra dichos requisitos; la negativa injustificada por parte de las personas servidoras públicas a otorgarlas, implicará el fincamiento de las responsabilidades que procedan;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II. Solicitar la comparecencia de éstas, previa citación en la que se hará constar expresamente el lugar, fecha, hora y objeto de la comparecencia, así como los efectos de no atenderla;
 
 III. Requerir informes, documentos y otros datos durante la realización de visitas de verificación, solo en aquellos casos previstos en ésta u otras leyes;
 
-IV. Hacer del conocimiento de éstos, en cualquier momento, del estado de la tramitación de los procedimientos en los que tengan interés jurídico, y a proporcionar copia de los documentos contenidos en ellos;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IV. Hacer del conocimiento de estas, en cualquier momento, del estado de la tramitación de los procedimientos en los que tengan interés jurídico, y a proporcionar copia de los documentos contenidos en ellos;
 
 V. Hacer constar en las copias de los documentos que se presenten junto con los originales, la presentación de los mismos;
 
@@ -2741,11 +3001,17 @@ VII. Proporcionar información y orientar acerca de los requisitos jurídicos o 
 
 VIII. Permitir el acceso a sus registros y archivos en los términos previstos en ésta u otras leyes, siempre que acrediten su interés jurídico;
 
-IX. Tratar con respeto a los particulares y a facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-X. Dictar resolución expresa sobre cuantas peticiones le formulen, así como en los procedimientos iniciados de oficio, cuya instrucción y resolución afecte a terceros, debiendo dictarla dentro del plazo fijado por la ley, y
+IX. Tratar con respeto a las personas particulares y a facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones;
 
-XI. Resguardar los expedientes de las autorizaciones y procedimientos administrativos donde intervengan, así como proporcionar la información correspondiente a cualquier solicitante, con las reglas y salvaguardas de la legislación de transparencia y acceso a la información pública gubernamental.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+X. Dictar resolución expresa sobre cuantas peticiones le formulen, así como en los procedimientos iniciados de oficio, cuya instrucción y resolución afecte a terceras personas, debiendo dictarle dentro del plazo fijado por la ley, y
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XI. Resguardar los expedientes de las autorizaciones y procedimientos administrativos donde intervengan, así como proporcionar la información correspondiente a cualquier persona solicitante, con las reglas y salvaguardas de la legislación de transparencia y acceso a la información pública gubernamental.
 
 ###### Artículo 166.
 
@@ -2759,7 +3025,9 @@ III. Las respuestas a las solicitudes deben ser mediante acuerdo por escrito;
 
 IV. En los casos en que no proceda la autorización se deberá motivar y fundamentar en derecho, las causas de la improcedencia en el acuerdo respectivo;
 
-V. Deberá considerar expresamente la aplicación de positivas y negativas fictas, para los casos en que la autoridad sea omisa en el tiempo de resolución de las solicitudes, sin perjuicio de la responsabilidad que por esta omisión recaiga sobre los servidores públicos;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+V. Deberá considerar expresamente la aplicación de positivas y negativas fictas, para los casos en que la autoridad sea omisa en el tiempo de resolución de las solicitudes, sin perjuicio de la responsabilidad que por esta omisión recaiga sobre las personas servidoras públicas;
 
 VI. Deberá definir los medios e instancias de impugnación administrativa y judicial que, en su caso, procedan;
 
@@ -2767,7 +3035,9 @@ VII. Deberá definir los casos y condiciones para la suspensión y clausura de l
 
 VIII. Deberá definir los casos y condiciones para la revocación de autorizaciones, y
 
-IX. La simplificación de las autorizaciones, permisos o licencias de las autoridades, con relación a la infraestructura de telecomunicaciones, en los términos del Artículo 147 de Ley Federal de Telecomunicaciones y Radiodifusión.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IX. La simplificación de las autorizaciones, permisos o licencias de las autoridades, con relación a la infraestructura de telecomunicaciones, en los términos de lo dispuesto en la Ley en Materia de Telecomunicaciones y Radiodifusión.
 
 Las acciones urbanísticas, cualquiera que sea su modalidad estarán sujetas a las normas, tipos, restricciones y obligaciones establecidas en esta ley y sus disposiciones reglamentarias.
 
@@ -2795,7 +3065,9 @@ IX. La capacidad de servicio de las redes de infraestructura y del equipamiento 
 
 X. La adecuación del proyecto a la topografía y características del suelo, a fin de no propiciar la ejecución de obras o proyectos en zonas no aptas para el desarrollo urbano o, en su caso, garantizar que se efectúen las obras de prevención necesarias;
 
-XI. La densificación demográfica del área urbana para la optimización del equipamiento, la infraestructura y los servicios existentes, así como para la salvaguarda de la dignidad del ser humano y sus relaciones sociales, privilegiando el bien común y los derechos humanos;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XI. La densificación demográfica del área urbana para la optimización del equipamiento, la infraestructura y los servicios existentes, así, como para la salvaguarda de la dignidad de la persona y sus relaciones sociales, privilegiando el bien común y los derechos humanos;
 
 XII. El contexto urbano, la protección y conservación del ambiente y de las zonas arboladas, así como las características de las fachadas y alturas de las construcciones;
 
@@ -2837,9 +3109,11 @@ Las autorizaciones y demás documentos a que se refiere este artículo, deberán
 
 En caso de que el predio de que se trate no esté al corriente en el pago del impuesto predial, la autoridad no dará trámite a la solicitud correspondiente.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 169.
 
-La revocación de las autorizaciones, licencias y demás actos de autoridad emitidos de conformidad con esta ley, deberá respetar en todo caso las formalidades esenciales del procedimiento. Solo se podrá acordar la revocación por la misma autoridad que emitió el acto, cuando el particular viole o incumpla las condiciones fijadas en la autorización o cuando la resolución de que se trate hubiera sido emitida con error inducido por el solicitante o mediante documentación que haya sido alterada o declarada falsa por autoridad competente; en los demás casos deberá ser declarada por una autoridad jurisdiccional.
+La revocación de las autorizaciones, licencias y demás actos de autoridad emitidos de conformidad con esta ley, deberá respetar en todo caso las formalidades esenciales del procedimiento. Solo se podrá acordar la revocación por la misma autoridad que emitió el acto, cuando la persona particular viole o incumpla las condiciones fijadas en la autorización o cuando la resolución de que se trate hubiera sido emitida con error inducido por la persona solicitante o mediante documentación que haya sido alterada o declarada falsa por autoridad competente; en los demás casos deberá ser declarada por una autoridad jurisdiccional.
 
 ### Capítulo Segundo. De los Conjuntos Urbanos
 
@@ -2853,7 +3127,9 @@ Las normas básicas para los conjuntos urbanos son las siguientes:
 
 I. Con relación a las áreas de cesión para destinos, deberá sujetarse a lo establecido en la Ley de Acciones Urbanísticas del Estado de Quintana Roo;
 
-II. El diseño deberá sujetarse a las normas y disposiciones en materia de accesibilidad universal y perspectiva de género que incluye a mujeres y niños;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II. El diseño deberá sujetarse a las normas y disposiciones en materia de accesibilidad universal y perspectiva de género que incluye a mujeres, niñas y niños;
 
 III. En el régimen jurídico del conjunto urbano de que se trate, deberá establecerse el derecho de acceso al personal adscrito a las dependencias y entidades públicas para el cumplimiento de sus funciones;
 
@@ -2867,7 +3143,9 @@ VII. Contar con las autorizaciones y observar las normas para la construcción, 
 
 Los espacios mínimos aplicables en los conjuntos urbanos de vivienda social, serán determinados en los reglamentos de construcción municipales, considerando los elementos básicos en materia de derechos humanos y bienestar social.
 
-Las agrupaciones ciudadanas que se constituyan al interior de conjuntos urbanos o condominios, tales como comités o asambleas de vecinos, consejos de administración y otros similares, no sustituyen o suplen las funciones y atribuciones de la autoridad; por lo tanto, no tendrán poder ni facultades para impedir, prohibir o modificar las determinaciones de la autoridad competente.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Las agrupaciones ciudadanas que se constituyan al interior de conjuntos urbanos o condominios, tales como comités o asambleas de personas residentes en el municipio, consejos de administración y otros similares, no sustituyen o suplen las funciones y atribuciones de la autoridad; por lo tanto, no tendrán poder ni facultades para impedir, prohibir o modificar las determinaciones de la autoridad competente.
 
 Los reglamentos de convivencia vecinal o similares de las organizaciones ciudadanas a que se refiere el párrafo anterior no tienen preeminencia ni sustituyen las normas legales aplicables.
 
@@ -2881,9 +3159,13 @@ La persona física o moral, o sus causahabientes, que realicen un conjunto urban
 
 Los fraccionamientos de acuerdo a su tipo de ejecución, podrán ser:
 
-I. De Urbanización Terminada. Son aquellos en los que el propietario o promotor del fraccionamiento, deberá llevar a cabo la totalidad de las obras de urbanización establecidas en esta ley y la Ley de Acciones Urbanísticas del Estado de Quintana Roo, según el tipo de fraccionamiento de que se trate, dentro del plazo que técnicamente resulte necesario, contado a partir de la fecha de su autorización; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-II. De Urbanización Progresiva. Son aquellos en que el Gobierno del Estado tiene la disposición o propiedad de la tierra y la dirección en su ejecución. Los usuarios o beneficiarios por su parte, están obligados a realizar las obras completas de infraestructura, drenaje, agua potable y energía eléctrica por porciones o partes de un área o predio comprendidos en un proyecto, conforme a los plazos y condiciones que fije la autoridad respectiva.
+I. De Urbanización Terminada. Son aquellos en los que la persona propietaria o promotora del fraccionamiento, deberá llevar a cabo la totalidad de las obras de urbanización establecidas en esta ley y la Ley de Acciones Urbanísticas del Estado de Quintana Roo, según el tipo de fraccionamiento de que se trate, dentro del plazo que técnicamente resulte necesario, contado a partir de la fecha de su autorización; y
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II. De Urbanización Progresiva. Son aquellos en que el Gobierno del Estado tiene la disposición o propiedad de la tierra y la dirección en su ejecución. Las personas usuarias o beneficiarias por su parte, están obligados a realizar las obras completas de infraestructura, drenaje, agua potable y energía eléctrica por porciones o partes de un área o predio comprendidos en un proyecto, conforme a los plazos y condiciones que fije la autoridad respectiva.
 
 ###### Artículo 174.
 
@@ -2891,17 +3173,23 @@ Las normas aplicables a los diferentes tipos de fraccionamientos en sus diferent
 
 Dicha Ley establecerá las normas técnicas aplicables al diseño, proyecto, obras de urbanización, áreas de cesión para destinos, ejecución de obras, entrega y recepción a los municipios, autorización de ventas y constitución de garantías, entre otros elementos de verificación y control de los fraccionamientos. Igualmente contendrá las normas relativas a los procedimientos de autorización de las distintas acciones urbanísticas según se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 175.
 
-Las áreas cedidas por el propietario o promotor a título gratuito en favor de los Ayuntamientos, o al Gobierno del Estado, en cumplimiento de lo dispuesto por Ley de la materia, serán del dominio público y únicamente podrán aprovecharse en equipamientos, espacios públicos y áreas verdes, conforme a lo que dispongan los programas municipales a que se refiere el artículo 31 de esta ley.
+Las áreas cedidas por la persona propietaria o promotora a título gratuito en favor de los Ayuntamientos, o al Gobierno del Estado, en cumplimiento de lo dispuesto por (sic) Ley de la materia, serán del dominio público y únicamente podrán aprovecharse en equipamientos, espacios públicos y áreas verdes, conforme a lo que dispongan los programas municipales a que se refiere el artículo 31 de esta ley.
 
 Queda prohibido a los Ayuntamientos el ejercer cualquier acto de enajenación de las áreas de cesión para destinos.
 
-Para el caso de conjuntos urbanos turísticos o desarrollos verticales, que no requieran de equipamientos públicos porque éstos encuentran una cobertura suficiente conforme a los programas municipales a que se refiere el artículo 31 de esta ley, o porque se encuentran ubicados en áreas alejadas de los Centros de Población donde no se requieren, los propietarios o promotores podrán cumplir sus obligaciones de cesión para destinos, mediante el pago equivalente al valor comercial de las superficies de que se trate.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Para el caso de conjuntos urbanos turísticos o desarrollos verticales, que no requieran de equipamientos públicos porque éstos encuentran una cobertura suficiente conforme a los programas municipales a que se refiere el artículo 31 de esta ley, o porque se encuentran ubicados en áreas alejadas de los Centros de Población donde no se requieren, las personas propietarias o promotoras podrán cumplir sus obligaciones de cesión para destinos, mediante el pago equivalente al valor comercial de las superficies de que se trate.
 
 Los recursos que se generen deberán aportarse al Fondo para el Espacio Público y la Sustentabilidad, mismo que tendrá por objeto el adquirir, construir o rehabilitar equipamiento urbano y espacios públicos, así como para acciones en materia de seguridad y mejoramiento de los servicios públicos en el Municipio.
 
-El incumplimiento de esta disposición por los servidores públicos será sancionada conforme lo dispone el Título Décimo Tercero de esta ley y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+El incumplimiento de esta disposición por las personas servidoras públicas será sancionado conforme lo dispone el Título Décimo Tercero de esta ley y demás disposiciones legales aplicables.
 
 El Reglamento de esta ley, definirá las reglas para constitución y operación del Fondo a que alude este artículo, considerando la participación del Gobierno del Estado y los Municipios.
 
@@ -2917,9 +3205,11 @@ Los requisitos a que deben sujetarse las construcciones e instalaciones en predi
 
 Toda obra de construcción, restauración, reconstrucción, adaptación, demolición y ampliación de edificaciones, pública o privada, rural o urbana, requerirá de autorización o licencia previamente expedida por la autoridad municipal competente, de conformidad con esta ley, el reglamento de la materia, las normas técnicas para la construcción y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 178.
 
-La licencia de construcción es el documento expedido por las autoridades competentes, por medio del cual se autoriza a los propietarios o poseedores de un predio para construir, restaurar, ampliar, modificar, reparar o demoler una edificación o instalación.
+La licencia de construcción es el documento expedido por las autoridades competentes, por medio del cual se autoriza a las personas propietarias o poseedoras de un predio para construir, restaurar, ampliar, modificar, reparar o demoler una edificación o instalación.
 
 Este documento será indispensable para el inicio y ejecución de la construcción de cualquier obra o edificación. La falta de este documento en el inicio y ejecución de la construcción, conllevará en su caso, la aplicación de sanciones administrativas, económicas, civiles, penales según sea el caso.
 
@@ -2965,21 +3255,27 @@ VI. Aquellos otros fines que se consideren contrarios al interés público.
 
 Las edificaciones, de acuerdo con su tipo y ubicación, deberán contar con espacios para el estacionamiento de vehículos, conforme lo dispongan los programas municipales a que se refiere el artículo 31 de esta ley y las normas reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 183.
 
-Los propietarios y poseedores de las edificaciones y predios deben conservarlos en buenas condiciones de estabilidad, servicio, aspecto e higiene y adoptar las medidas conducentes, a fin de evitar riesgos para la integridad personal de los vecinos y su patrimonio. De igual manera están obligados a participar en la conservación, limpieza y buen mantenimiento general del espacio público situado en frente a sus propiedades.
+Las personas propietarias y poseedoras de las edificaciones y predios deben conservarlos en buenas condiciones de estabilidad, servicio, aspecto e higiene y adoptar las medidas conducentes, a fin de evitar riesgos para la integridad personal de las personas residentes en el municipio y su patrimonio. De igual manera están obligadas a participar en la conservación, limpieza y buen mantenimiento general del espacio público situado en frente a sus propiedades.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 184.
 
-En la elaboración de proyectos, así como en la ejecución de obras relativas a conjuntos urbanos, fraccionamientos y construcciones, se requerirá de la intervención de peritos responsables de obra y sus corresponsables, en los términos de esta ley, la Ley de Acciones Urbanísticas del Estado de Quintana Roo y sus disposiciones reglamentarias.
+En la elaboración de proyectos, así como en la ejecución de obras relativas a conjuntos urbanos, fraccionamientos y construcciones, se requerirá de la intervención (sic) las personas peritos responsables de obra y sus corresponsables, en los términos de esta ley, la Ley de Acciones Urbanísticas del Estado de Quintana Roo y sus disposiciones reglamentarias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 185.
 
-Para los efectos de esta ley, los peritos y los corresponsables otorgan su responsiva para:
+Para los efectos de esta ley, las personas peritos junto con las personas corresponsables otorgan su responsiva para:
 
-I. Suscribir una solicitud de licencia de construcción o de una acción urbanística, cuya ejecución lo requiera o vaya a realizarse directamente por él o cuando supervise obras a realizarse por otras persona físicas o morales;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I. Suscribir una solicitud de licencia de construcción o de una acción urbanística, cuya ejecución lo requiera o vaya a realizarse directamente por la persona perito o cuando supervise obras a realizarse por otras persona (sic) físicas o morales;
 
 II. Suscribir un estudio de impacto territorial;
 
@@ -2991,15 +3287,21 @@ V. Suscribir el visto bueno de seguridad y operación de una obra, y
 
 VI. Suscribir documento que indique la aplicación de las medidas de mitigación o compensación en materia de impacto territorial y ambiental.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 186.
 
-Son obligaciones del propietario o promotor, para lo cual deberá auxiliarse de un Perito Responsable, el realizar las siguientes acciones:
+Son obligaciones de la persona propietaria o promotora, para lo cual deber auxiliarse de una persona perito responsable, el realizar las siguientes acciones:
 
 I. Vigilar la obra, asegurándose de que tanto el proyecto, como la ejecución de la misma, cumpla con lo establecido en los ordenamientos y demás disposiciones a que se refiere esta ley;
 
-II. Contar con los corresponsables en los casos que esta ley y los reglamentos establecen;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-III. Responder a cualquier violación a las disposiciones de esta ley. El perito responsable, en caso de observar que no son atendidas por el promotor o propietario, deberá de notificarlo de inmediato a la autoridad correspondiente, para que ésta proceda a aplicar las medidas de seguridad y sanciones previstas por este ordenamiento;
+II. Contar con las personas corresponsables en los casos que esta ley y los reglamentos establecen;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+III. Responder a cualquier violación a las disposiciones de esta ley. La persona perito responsable, en caso de observar que no son atendidas por la persona promotora o propietaria, deberá de notificarlo de inmediato a la autoridad correspondiente, para que ésta proceda a aplicar las medidas de seguridad y sanciones previstas por este ordenamiento;
 
 IV. Planear y supervisar las medidas de seguridad del personal y terceras personas en la obra, en sus colindancias y en la vía pública, durante su ejecución;
 
@@ -3007,15 +3309,21 @@ V. Planear y supervisar las medidas de mitigación o compensación;
 
 VI. Llevar una bitácora de obra foliada y encuadernada;
 
-VII. Colocar en un lugar visible de la obra un letrero con su nombre y, en su caso, de los corresponsables y de los residentes correspondientes;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-VIII. Una vez concluida la obra, realizará los trámites correspondientes a los procedimientos de terminación de la misma, conforme al reglamento municipal correspondiente y entregará al propietario toda la documentación relativa a la obra entre otros los planos registrados actualizados del proyecto completo en original y las memorias de cálculo, y
+VII. Colocar en un lugar visible de la obra un letrero con su nombre y, en su caso, de las personas corresponsables y de las personas residentes correspondientes;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VIII. Una vez concluida la obra, realizará los trámites correspondientes a los procedimientos de terminación de la misma, conforme al reglamento municipal correspondiente y entregará a la persona propietaria toda la documentación relativa a la obra entre otros los planos registrados actualizados del proyecto completo en original y las memorias de cálculo, y
 
 IX. En los casos de que no exista reglamentos municipales, se remitirá en forma supletoria a la Ley en la materia.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 187.
 
-Los corresponsables de obra son los profesionistas que tienen conocimientos especializados en un área específica del proyecto u obra y que por ello puede responsabilizarse junto con el Perito responsable, cuando por las características, complejidad o el tamaño lo requiera.
+Las personas corresponsables de obra son las personas profesionistas que tienen conocimientos especializados en un área específica del proyecto u obra y que por ello puede responsabilizarse junto con la persona perito responsable, cuando por las características, complejidad o el tamaño lo requiera.
 
 ## Título Décimo Tercero. Del Control del Desarrollo Urbano
 
@@ -3065,9 +3373,13 @@ IV. Estimular procesos de consulta y deliberación para ayudar a identificar e i
 
 V. Ayudar a desarrollar capacidades para la recolección, manejo y aplicaciones de información urbana, centrada en indicadores y mejores prácticas;
 
-VI. Proveer información y análisis a todos los interesados para lograr una participación más efectiva en la toma de decisiones sobre desarrollo urbano y ordenamiento territorial;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-VII. Compartir información y conocimientos con todos los interesados en el Desarrollo Urbano y el ordenamiento del territorio, y
+VI. Proveer información y análisis (sic) todas las personas interesadas para lograr una participación más efectiva en la toma de decisiones sobre desarrollo urbano y ordenamiento territorial;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VII. Compartir información y conocimientos con todas las personas interesadas en el Desarrollo Urbano y el ordenamiento del territorio, y
 
 VIII. Garantizar la interoperabilidad y la consulta pública electrónica de los sistemas de información.
 
@@ -3085,7 +3397,9 @@ Para efectos de lo dispuesto en el párrafo anterior, las solicitudes presupuest
 
 El Gobierno del Estado y los municipios, así como sus entidades paraestatales y paramunicipales deberán prever en sus presupuestos, programación y gasto, el ejercicio de acciones y recursos para atender las necesidades de la planeación y operación del desarrollo urbano, de zonas metropolitanas y áreas conurbadas, así como para cumplir sus responsabilidades y funciones en la materia.
 
-La violación a lo dispuesto en este precepto será sancionada en los términos de las leyes en materia de responsabilidad de servidores públicos.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+La violación a lo dispuesto en este precepto será sancionada en los términos de las leyes en materia de responsabilidad de personas servidoras públicas.
 
 ###### Artículo 194.
 
@@ -3097,9 +3411,21 @@ En ningún caso se autorizarán acciones urbanísticas que contravengan las prov
 
 La vigencia de las autorizaciones urbanísticas a que se refiere este ordenamiento se ajustará a lo siguiente:
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2025)</small>
+(REFORMADO [N. DE E. ESTE PÁRRAFO), P.O. 28 DE MAYO DE 2026)
 
-I. Las Constancias de Zonificación y los Dictámenes de Viabilidad en Materia de Acciones Urbanísticas en cualquiera de sus modalidades, tendrán una vigencia permanente, a menos que cambien los programas municipales a que se refiere el artículo 31 de esta Ley, en cuyo caso quedarán sin efecto y deberán ajustarse a las nuevas disposiciones;
+I. Las Constancias de Zonificación, mantendrán la vigencia que en las mismas se otorguen, una vez fenecida esta y en caso que cambien los programas municipales a que se refiere el artículo 31 de esta Ley, quedarán sin efectos dichas constancias y deberán ajustarse a las nuevas disposiciones.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Para el caso en que sean contempladas acciones urbanísticas en las Constancias de Zonificación a que se refiere el párrafo que antecede, y las mismas sean realizadas dentro de la vigencia correspondiente, no podrán ser sujetas o condicionadas a modificaciones o restricciones que limiten los derechos ya adquiridos desde su otorgamiento.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Los Dictámenes de Viabilidad en Materia de Acciones Urbanísticas en cualquiera de sus modalidades, tendrán una vigencia permanente, de conformidad con lo previsto en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+En caso de modificaciones a los instrumentos señalados en el artículo 31, de la presente Ley, que determinen aumentos o mejores condiciones por cuanto a los potenciales de aprovechamiento urbano respecto de predios que ya cuenten de manera previa con la Constancia o Dictamen de Viabilidad en Materia de Acciones Urbanísticas otorgado por la Secretaría, podrán solicitar la actualización correspondiente que incluya a su favor dichas modificaciones.
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2023)</small>
 
@@ -3111,29 +3437,35 @@ IV. Las autorizaciones y licencias de construcción, restauración, ampliación,
 
 Los documentos donde se consignen las constancias, licencias o autorizaciones deberán expresar su plazo de vigencia, de acuerdo a lo indicado en este artículo.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 196.
 
-Cuando los programas municipales a que se refiere el artículo 31 de esta ley determinen polígonos de salvaguarda y zonas de riesgo, los actos de aprovechamiento urbano deberán llevarse a cabo tanto por las autoridades como por los propietarios y poseedores del suelo, en las circunstancias que los propios programas señalen. Una vez aprobados y publicados, las autoridades y particulares quedarán obligados a cumplirlos.
+Cuando los programas municipales a que se refiere el artículo 31 de esta ley determinen polígonos de salvaguarda y zonas de riesgo, los actos de aprovechamiento urbano deberán llevarse a cabo tanto por las autoridades como por las personas propietarias o poseedoras del suelo, en las circunstancias que los propios programas señalen. Una vez aprobados y publicados, las autoridades y las personas particulares quedarán obligadas a cumplirlos.
 
-Los propietarios o poseedores a título de dueño de los predios comprendidos en dichas áreas o polígonos deberán cumplir con las obligaciones derivadas de los mismos; para este efecto, podrán celebrar convenios entre sí, con terceros, con el gobierno municipal o con el Gobierno del Estado.
+Las personas propietarias o poseedoras a título de dueñas de los predios comprendidos en dichas áreas o polígonos deberán cumplir con las obligaciones derivadas de los mismos; para este efecto, podrán celebrar convenios entre sí, con terceras personas, con el gobierno municipal o con el Gobierno del Estado.
 
-En caso de que exista violación e incumplimiento por parte de sus propietarios o poseedores, se aplicarán los procedimientos previstos en la legislación aplicable.
+En caso de que exista violación e incumplimiento por parte de las personas propietarias o poseedoras, se aplicarán los procedimientos previstos en la legislación aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 197.
 
-Las autoridades que expidan instrumentos de planeación a que se refiere el artículo 31 de esta ley y no gestionen su publicación e inscripción en el Registro Público; así como los servidores públicos que se abstengan de llevar a cabo dichos actos o las realicen con deficiencia, serán sancionadas conforme a las disposiciones jurídicas aplicables.
+Las autoridades que expidan instrumentos de planeación a que se refiere el artículo 31 de esta ley y no gestionen su publicación e inscripción en el Registro Público; así como las personas servidoras públicas que se abstengan de llevar a cabo dichos actos o las realicen con deficiencia, serán sancionadas conforme a las disposiciones jurídicas aplicables.
 
 No podrá inscribirse en el Registro Público ningún acto, convenio, contrato o afectación que no se ajuste a lo dispuesto en la presente ley, así como a los programas y autorizaciones expedidas por las autoridades competentes, aplicables en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 198.
 
-Las personas notarios públicos, registradores y demás fedatarios públicos sólo podrán autorizar escrituras de actos, convenios y contratos relacionados con el uso, aprovechamiento, trasmisión o gravamen de bienes inmuebles, previa comprobación de la existencia de las autorizaciones municipales necesarias, así como del Dictamen de Viabilidad en Materia de Acciones Urbanísticas que al efecto corresponda, de conformidad con lo previsto en la presente Ley; mismas que deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
+Las personas titulares de las notarías, registradoras y demás personas fedatarias públicas sólo podrán autorizar escrituras de actos, convenios y contratos relacionados con el uso, aprovechamiento, trasmisión o gravamen de bienes inmuebles, previa comprobación de la existencia de la Constancia de Congruencia Urbanística Estatal, así como de las autorizaciones municipales correspondientes, de conformidad con lo previsto en esta ley; mismas que deberán ser señaladas o insertadas en los instrumentos públicos respectivos.
 
 Asimismo, tendrán la obligación de insertar en las escrituras de transmisión de propiedad en que intervengan, cláusula especial en la que se hagan constar, las obligaciones de respetar los programas municipales a que se refiere el artículo 31 de esta ley, en especial el uso o destino del predio objeto de tales actos, y el respeto a la definición de área urbanizable.
 
-Los jueces, al emitir sus resoluciones y sentencias, no validarán actos que permitan la partición o subdivisión de la propiedad o la incorporación de suelo al desarrollo urbano sin cubrir la normatividad y requisitos a que se refiere este ordenamiento.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Las juezas y los jueces, al emitir sus resoluciones y sentencias, no validarán actos que permitan la partición o subdivisión de la propiedad o la incorporación de suelo al desarrollo urbano sin cubrir la normatividad y requisitos a que se refiere este ordenamiento.
 
 ###### Artículo 199.
 
@@ -3153,9 +3485,13 @@ Las autoridades para la efectiva aplicación y cumplimiento de esta ley, deberá
 
 I. Recibir y canalizar ante las autoridades competentes, las denuncias, quejas y demandas de la ciudadanía por la inobservancia de la legislación, normas y reglamentos y autorizaciones o licencias de desarrollo urbano a que se refiere este ordenamiento, y darle el seguimiento correspondiente;
 
-II. Brindar servicios gratuitos de información a los ciudadanos, que requieran y le soliciten apoyo en asuntos relativos al cumplimiento y aplicación de la presente Ley, así como de los instrumentos de planeación a que se refiere el artículo 31 de esta ley;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-III. Capacitar y profesionalizar a los servidores públicos encargados de ejercer las funciones administrativas a que se refiere esta ley;
+II. Brindar servicios gratuitos de información a las personas ciudadanas, que requieran y le soliciten apoyo en asuntos relativos al cumplimiento y aplicación de la presente Ley, así como de los instrumentos de planeación a que se refiere el artículo 31 de esta ley;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+III. Capacitar y profesionalizar a las personas servidoras públicas encargadas de ejercer las funciones administrativas a que se refiere esta ley;
 
 IV. Realizar las acciones necesarias para la defensa de la integridad de los bienes de su patrimonio;
 
@@ -3183,7 +3519,9 @@ XIII. Solicitar a otras autoridades la información relativa a la expedición, c
 
 La Secretaría y los Municipios, tendrán a su cargo la inspección, vigilancia y verificación del cumplimiento de esta ley, sus normas reglamentarias y demás disposiciones aplicables; para tal efecto, podrán adoptar y ejecutar las medidas de seguridad, determinar las infracciones e imponer las sanciones administrativas que correspondan.
 
-Las acciones a que se refiere el párrafo anterior, se regirán por lo dispuesto en el Código de Justicia Administrativa del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Las acciones a que se refiere el párrafo anterior se regirán por lo dispuesto en el Código de Procedimientos y Justicia Administrativa del Estado de Quintana Roo.
 
 ###### Artículo 203.
 
@@ -3241,7 +3579,9 @@ VII. La imposición de medidas para minimizar, compensar o restaurar los efectos
 
 VIII. La revocación de las concesiones, autorizaciones, permisos, licencias, certificaciones o constancias otorgadas;
 
-IX. La cancelación del registro de perito responsable y corresponsable de obra;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IX. La cancelación del registro de la persona perito responsable y corresponsable de obra;
 
 X. El retiro de los anuncios y sus estructuras;
 
@@ -3259,7 +3599,9 @@ A quienes incurran en infracción la presente Ley, le serán aplicables las sigu
 
 I. A quienes no cumplan con la obligación de proporcionar los informes que le solicite la autoridad competente, lo hagan con falsedad o fuera del tiempo que se les hubiere concedido al efecto, se les impondrá una sanción equivalente al importe de diez a quinientas veces la Unidad de Medida y Actualización;
 
-II. A los que den un uso o aprovechamiento urbano a un terreno o alguna edificación, sin la autorización correspondiente, o les den un uso distinto del autorizado, se les aplicará una sanción equivalente al importe de cincuenta a diez mil veces la Unidad de Medida y Actualización;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II. A quienes den un uso o aprovechamiento urbano a un terreno o alguna edificación, sin la autorización correspondiente, o les den un uso distinto del autorizado, se les aplicará una sanción equivalente al importe de cincuenta a diez mil veces la Unidad de Medida y Actualización;
 
 III. A quienes realicen una acción urbanística sin la autorización correspondiente, se les aplicará una sanción equivalente al importe de diez veces la Unidad de Medida y
 
@@ -3277,17 +3619,23 @@ VIII. A quienes en cualquier forma obstaculicen o impidan la supervisión de una
 
 IX. A quienes habiendo efectuado obras sin ajustarse al diseño y especificaciones del proyecto autorizado, no realicen los cambios o modificaciones ordenados por la autoridad competente en el plazo que al efecto se les haya concedido, se les aplicará una sanción equivalente al importe de doscientas a mil veces la Unidad de Medida y Actualización, sin perjuicio de las demás fracciones aplicables que resulten;
 
-X. Al propietario de un conjunto urbano, fraccionamiento o condominio que sin contar con la autorización correspondiente, celebre cualquier acto jurídico o incurra en acciones u omisiones que mediata o inmediatamente, transmitan la propiedad o posesión de lotes de terreno, se les aplicará una sanción equivalente al monto total de las operaciones efectuadas y de no existir obras de urbanización, además se hará acreedor a una sanción equivalente de cien a mil veces la Unidad de Medida y Actualización;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-XI. Al promotor de un conjunto urbano, fraccionamiento o condominio que no cumpla con lo ofrecido en la publicidad de que haya sido autorizado, se le aplicará una sanción equivalente al importe de cien a diez mil veces la Unidad de Medida y Actualización;
+X. A la persona propietaria de un conjunto urbano, fraccionamiento o condominio que sin contar con la autorización correspondiente, celebre cualquier acto jurídico o incurra en acciones u omisiones que mediata o inmediatamente, transmitan la propiedad o posesión de lotes de terreno, se les aplicará una sanción equivalente al monto total de las operaciones efectuadas y de no existir obras de urbanización, además la persona se hará acreedora a una sanción equivalente de cien a mil veces la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XI. A la persona promotora de un conjunto urbano, fraccionamiento o condominio que no cumpla con lo ofrecido en la publicidad de que haya sido autorizado, se le aplicará una sanción equivalente al importe de cien a diez mil veces la Unidad de Medida y Actualización;
 
 XII. A quienes no respeten la transmisión de las áreas de cesión para destinos en los términos de esta ley y la Ley de Acciones Urbanísticas del Estado de Quintana Roo, se les aplicará una sanción equivalente al costo del quince por ciento de la superficie lotificada vendible, de acuerdo con el precio por metro cuadrado promedio al que se hayan enajenado los lotes, sin perjuicio de ceder la parte faltante al Municipio, y
 
 XIII. A quienes no respeten el destino de superficies para áreas verdes en los términos de esta ley, se les aplicará una sanción equivalente al importe de cincuenta a mil veces la Unidad de Medida y Actualización Mensual, sin perjuicio de destinar obligatoriamente la superficie correspondiente a tal fin.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 208.
 
-Las sanciones a que se refiere el artículo anterior, se podrán duplicar para el caso de reincidencia o rebeldía del infractor.
+Las sanciones a que se refiere el artículo anterior se podrán duplicar para el caso de reincidencia o rebeldía de la persona infractora.
 
 ###### Artículo 209.
 
@@ -3301,25 +3649,37 @@ Para la imposición de las sanciones a que se refiere este Capítulo se deberá 
 
 I. La gravedad de la infracción;
 
-II. Las condiciones económicas del infractor;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II. Las condiciones económicas de la persona infractora;
 
 III. La reincidencia o reiterada desobediencia, si la hubiera;
 
-IV. La intencionalidad o negligencia del infractor, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-V. El beneficio obtenido por el infractor, por los actos que motiven la sanción.
+IV. La intencionalidad o negligencia de la persona infractora, y
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+V. El beneficio obtenido por la persona infractora, por los actos que motiven la sanción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 211.
 
-Las multas que se impongan por concepto de violación a lo previsto en la presente Ley y sus disposiciones reglamentarias, podrán ser sustituidas por inversiones que tengan por objeto evitar mayores daños o atenuar los que se hubiesen cometido, así como la aportación de bienes en especie que contribuyan a reparar el daño cometido o la prestación de mejores servicios por parte de la autoridad, siempre y cuando se garanticen las obligaciones a que se sujetará el infractor.
+Las multas que se impongan por concepto de violación a lo previsto en la presente Ley y sus disposiciones reglamentarias, podrán ser sustituidas por inversiones que tengan por objeto evitar mayores daños o atenuar los que se hubiesen cometido, así como la aportación de bienes en especie que contribuyan a reparar el daño cometido o la prestación de mejores servicios por parte de la autoridad, siempre y cuando se garanticen las obligaciones a que se sujetará la persona infractora.
 
-La sustitución a que se refiere este artículo, sólo procederá previa solicitud escrita del infractor y una vez que se haya celebrado el convenio correspondiente con la autoridad que impuso la multa.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+La sustitución a que se refiere este artículo, sólo procederá previa solicitud escrita de la persona infractora y una vez que se haya celebrado el convenio correspondiente con la autoridad que impuso la multa.
 
 En todo caso la autoridad correspondiente, deberá justificar plenamente su decisión.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 212.
 
-Si las circunstancias así lo exigen, podrán imponerse al infractor, simultáneamente, las medidas de seguridad y las sanciones que correspondan, para lo cual se tomará en consideración la gravedad de la infracción, las particularidades del caso y la reincidencia del infractor.
+Si las circunstancias así lo exigen, podrán imponerse a la persona infractora, simultáneamente, las medidas de seguridad y las sanciones que correspondan, para lo cual se tomará en consideración la gravedad de la infracción, las particularidades del caso y la reincidencia de la persona infractora.
 
 ###### Artículo 213.
 
@@ -3333,31 +3693,41 @@ III. Auxilio de la fuerza pública, y
 
 IV. Arresto hasta de treinta y seis horas.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 214.
 
-Los servidores públicos que expidan constancias, certificaciones, autorizaciones, permisos, licencias, documentos, contratos y convenios que contravengan esta ley y otras disposiciones aplicables; los que faltaren a la obligación de guardar el secreto respecto de los documentos y datos de que conozcan en virtud de funciones derivadas de la misma, revelando asuntos confidenciales, o los que se aprovechen de ellos o exijan para su beneficio cualquier prestación pecuniaria o de otra índole a cambio de los servicios que por ley deben prestar, serán sancionados con multa de cincuenta a mil veces la Unidad de Medida y Actualización y con la separación del cargo, lo anterior sin perjuicio de las sanciones que se les apliquen de conformidad con la Ley General de Responsabilidades Administrativas.
+Las personas servidoras públicas que expidan constancias, certificaciones, autorizaciones, permisos, licencias, documentos, contratos y convenios que contravengan esta ley y otras disposiciones aplicables; aquellas personas que faltaren a la obligación de guardar el secreto respecto de los documentos y datos de que conozcan en virtud de funciones derivadas de la misma, revelando asuntos confidenciales, o aquellas que se aprovechen de ellas o exijan para su beneficio cualquier prestación pecuniaria o de otra índole a cambio de los servicios que por ley deben prestar, serán sancionados con multa de cincuenta a mil veces la Unidad de Medida y Actualización y con la separación del cargo, lo anterior sin perjuicio de las sanciones que se les apliquen de conformidad con la Ley General de Responsabilidades Administrativas.
 
-Los servidores públicos del Estado y los Municipios deberán abstenerse de prestar servicios profesionales independientes, en las materias que regula el presente ordenamiento, la contravención de esta disposición será sancionada en términos de lo que disponga la Ley General de Responsabilidades Administrativas.
+Las personas servidoras públicas del Estado y los Municipios deberán abstenerse de prestar servicios profesionales independientes, en las materias que regula el presente ordenamiento, la contravención de esta disposición será sancionada en términos de lo que disponga la Ley General de Responsabilidades Administrativas.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 215.
 
-Los empleados del Registro Público y de las unidades municipales catastrales y, en general, los servidores públicos investidos de fe pública que den trámite a documentos, contratos, escrituras o minutas que consignen operaciones que contravengan lo dispuesto en esta ley, serán sancionados con multa de uno a mil veces la Unidad de Medida y Actualización vigente.
+Las personas empleadas del Registro Público y de las unidades municipales catastrales y, en general, las personas servidoras públicas investidas de fe pública que den trámite a documentos, contratos, escrituras o minutas que consignen operaciones que contravengan lo dispuesto en esta ley, serán sancionados con multa de uno a mil veces la Unidad de Medida y Actualización vigente.
 
-En caso de reincidencia, se les separará en forma definitiva de su cargo. A los notarios y a los corredores públicos, se les aplicarán las sanciones que establezca la legislación que rige sus funciones.
+En caso de reincidencia, se les separará en forma definitiva de su cargo. A las personas titulares de las notarías públicas y a las personas corredoras públicas, se les aplicarán las sanciones que establezca la legislación que rige sus funciones.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 216.
 
-Las sanciones a que se refiere esta ley, se aplicarán a los infractores, sin perjuicio de las responsabilidades civiles, administrativas o penales en que hubieren incurrido.
+Las sanciones a que se refiere esta ley, se aplicarán a las personas infractoras, sin perjuicio de las responsabilidades civiles, administrativas o penales en que hubieren incurrido.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 217.
 
-Las autoridades o los particulares que propicien o permitan la ocupación irregular de áreas o predios o autoricen el asentamiento humano o construcción en zonas de riesgo, en polígonos de salvaguarda en torno a la infraestructura o equipamientos de seguridad pública o de protección en derechos de vía o zonas federales, se harán acreedores a las sanciones administrativas, civiles y penales aplicables.
+Las autoridades o las personas particulares que propicien o permitan la ocupación irregular de áreas o predios o autoricen el asentamiento humano o construcción en zonas de riesgo, en polígonos de salvaguarda en torno a la infraestructura o equipamientos de seguridad pública o de protección en derechos de vía o zonas federales, se harán acreedoras a las sanciones administrativas, civiles y penales aplicables.
 
 ### Capítulo Quinto. Del Recurso de Revisión
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 218.
 
-Las resoluciones que dicten las autoridades competentes con base en lo dispuesto en esta ley, podrán ser impugnadas por los afectados mediante el recurso de revisión, en los términos que establece el Código de Justicia Administrativa del Estado de Quintana Roo.
+Las resoluciones que dicten las autoridades competentes con base en lo dispuesto en esta ley, podrán ser impugnadas por las personas afectadas mediante el recurso de revisión, en los términos que establece el Código de Procedimientos y Justicia Administrativa del Estado de Quintana Roo.
 
 ### Capítulo Sexto. De la Denuncia Ciudadana
 
@@ -3365,25 +3735,37 @@ Las resoluciones que dicten las autoridades competentes con base en lo dispuesto
 
 Toda persona tiene derecho a exigir que se apliquen las medidas de seguridad y sanciones procedentes, cuando se estén llevando a cabo acciones urbanísticas que contravengan las disposiciones jurídicas de desarrollo urbano, así como los programas en la materia.
 
-Este derecho se ejercerá ante las autoridades competentes, quienes oirán previamente a los interesados y en su caso a los afectados, y deberán resolver lo conducente en un término no mayor de treinta días hábiles, contados a partir de la fecha de recepción del escrito correspondiente.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Este derecho se ejercerá ante las autoridades competentes, quienes oirán previamente a las personas interesadas y en su caso a las personas afectadas, y deberán resolver lo conducente en un término no mayor de treinta días hábiles, contados a partir de la fecha de recepción del escrito correspondiente.
 
 ###### Artículo 220.
 
 La denuncia ciudadana podrá ejercitarse por cualquier persona, bastando que se presente por escrito o en medio electrónico y contenga:
 
-I. El nombre o razón social, domicilio, teléfono si lo tiene, del denunciante y, en su caso, de su representante legal;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I. El nombre o razón social, domicilio, teléfono si lo tiene, la persona denunciante y, en su caso, de su representante legal;
 
 II. Los actos, hechos u omisiones denunciados;
 
-III. Los datos que permitan identificar al presunto infractor, y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-IV. Las pruebas que en su caso ofrezca el denunciante.
+III. Los datos que permitan identificar a presunta persona infractora, y
 
-No se admitirán a trámite denuncias notoriamente improcedentes o infundadas, aquéllas en las que se advierta mala fe, carencia de fundamento o inexistencia de petición, lo cual se notificará al denunciante.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IV. Las pruebas que en su caso ofrezca la persona denunciante.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
+No se admitirán a trámite denuncias notoriamente improcedentes o infundadas, aquéllas en las que se advierta mala fe, carencia de fundamento o inexistencia de petición, lo cual se notificará a la persona denunciante.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 221.
 
-El Gobierno del Estado y los Municipios promoverán mecanismos de contraloría o vigilancia social, donde participen los vecinos, usuarios, cámaras, colegios de profesionales y demás ciudadanos, en el cumplimiento y ejecución de los instrumentos de planeación a que se refiere el artículo 31 de esta ley.
+El Gobierno del Estado y los Municipios promoverán mecanismos de contraloría o vigilancia social, donde participen las personas residentes en el Municipio, personas usuarias, cámaras, colegios de profesionistas y demás personas ciudadanas, en el cumplimiento y ejecución de los instrumentos de planeación a que se refiere el artículo 31 de esta ley.
 
 ###### Artículo 222.
 
@@ -3538,3 +3920,25 @@ P.O. 21 DE ABRIL DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 230 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se (sic) contravengan lo dispuesto en este Decreto.
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO: 236 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO Y LA LEY DE ACCIONES URBANÍSTICAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo;
+
+SEGUNDO. Los procedimientos relacionados con el derecho de preferencia que se encuentren en trámite a la entrada en vigor del presente decreto se sujetarán a los plazos y reglas vigentes al momento de su inicio.
+
+TERCERO. Las Constancias de Zonificación expedidas con anterioridad a la entrada en vigor del presente decreto, conservarán su vigencia en los términos en que fueron otorgadas salvo que se actualicen los programas municipales a que se refiere el artículo 31 de esta Ley o que el propio instrumento establezca condiciones distintas conforme a la normativa aplicable.
+
+CUARTO. El Poder Ejecutivo del Estado contará con un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente decreto para realizar las adecuaciones correspondientes y, en su caso, expedir las disposiciones reglamentarias necesarias para su correcta implementación y aplicación.
+
+QUINTO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente decreto.
