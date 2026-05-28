@@ -4,7 +4,7 @@ identifier: "MIC-ley-contra-las-adicciones-en-el-estado-de-michoacan-159508"
 country: "mx"
 rank: "ley"
 publication_date: "2022-07-11"
-last_updated: "2022-07-11"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY CONTRA LAS ADICCIONES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
 
 Ley publicada en la Octava Sección del Número 73 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 11 de julio de 2022.
 
@@ -89,6 +89,10 @@ Para efectos de esta ley se entiende por:
 
 I. Adicción a las drogas: Estado psicofísico causado por la interacción de un organismo vivo con un fármaco, alcohol, tabaco u otras sustancias que modifican el comportamiento además de otras reacciones que se manifiestan como impulsos irreprimibles a consumir dichas sustancias en forma continua o periódica, a fin de experimentar sus efectos psíquicos y a veces para evitar el malestar producido por la privación;
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I Bis. Ludopatía: Trastorno o conducta adictiva caracterizada por un patrón persistente, recurrente y progresivo de comportamiento de juego, que genera deterioro o afectación significativa en el ámbito personal, familiar, social, académico, laboral o en cualquier otra esfera relevante de la vida de la persona;
+
 II. CAPAS: Centros de atención primaria en adicciones, unidades públicas que brindan servicios gratuitos, dirigidos a prevenir y atender el uso y abuso de sustancias adictivas;
 
 III. CECA: Consejo Estatal Contra las Adicciones;
@@ -111,7 +115,9 @@ XI. Médico responsable: profesional que tiene a su cargo coordinar la informaci
 
 XII. NOM: Norma Oficial Mexicana 028-SSA2-2009, para la prevención, tratamiento y control de las adicciones;
 
-XIII. Persona con problemas de adicción: Persona con dependencia a una o más sustancias psicoactivas;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XIII. Persona con problemas de adicción: Persona que presenta un trastorno del comportamiento o de salud mental, caracterizado por dependencia física o psicológica hacia una sustancia psicoactiva o por una adicción conductual, incluida la ludopatía, que afecte de manera significativa su funcionalidad, bienestar integral o entorno social;
 
 XIV. Prevención: Conjunto de acciones dirigidas a identificar, evitar, reducir, regular o eliminar el consumo no terapéutico de sustancias psicoactivas, como riesgo sanitario, así como sus consecuencias físicas, psíquicas, económicas, familiares y sociales;
 
@@ -121,7 +127,9 @@ XVI. Recuperación: Estado de abstinencia que conlleva un mejoramiento en todas 
 
 XVII. Reducción del daño: Conjunto de acciones dirigidas a evitar o reducir situaciones de riesgo y limitar los daños asociados al consumo de sustancias psicoactivas, por lo que se articula necesariamente con la prevención y el tratamiento. No pretende necesariamente la abstinencia. Para el caso de VIH/SIDA, es la estrategia con la que se considera que a través de información a los usuarios sobre el VIH/SIDA, instrucción sobre limpieza adecuada de jeringas, del uso de agujas y jeringas estériles, dotación de condones, cloro, gasa y otros, además de asesoría médica, realización de prueba de detección del VIH, trabajo comunitario de acercamiento a las y los usuarios de drogas inyectadas, formación de grupos interdisciplinarios y consejería sobre uso de drogas, es la manera más segura y efectiva de limitar la transmisión de VIH por los consumidores de drogas inyectadas;
 
-XVIII. Rehabilitación: Proceso por el cual un individuo que presenta trastornos asociados con sustancias psicoactivas alcanza un estado óptimo de salud, funcionamiento psicológico y bienestar social;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XVIII. Rehabilitación: Proceso terapéutico integral mediante el cual una persona con trastorno por consumo de sustancias o con ludopatía recupera gradualmente su salud física, mental, emocional y social, a través de intervenciones multidisciplinarias orientadas a su reintegración familiar, comunitaria y social;
 
 XIX. Integración comunitaria: Conjunto de acciones dirigidas a promover un estilo de vida mejor al de quien usa, abusa o depende de sustancias psicoactivas y a lograr un mejor funcionamiento interpersonal y social;
 
@@ -283,9 +291,17 @@ XV. Promover la integración de grupos de trabajo tendientes al establecimiento 
 
 XVI. Celebrar convenios de colaboración con los Ayuntamientos del Estado, en relación con las materias señaladas en las fracciones anteriores, dar seguimiento y evaluar el cumplimiento de los mismos;
 
-XVII. Aprobar su Reglamento Interior; y,
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-XVIII. Sumar esfuerzos en las estrategias nacionales para la prevención de las adicciones, y las demás que sean necesarias para el cumplimiento de esta ley.
+XVII. Aprobar su Reglamento Interior;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XVIII. Sumar esfuerzos en las estrategias nacionales para la prevención de las adicciones, y las demás que sean necesarias para el cumplimiento de esta ley; y,
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XIX. Diseñar, implementar y coordinar acciones y programas específicos de prevención, orientación, detección temprana, atención, tratamiento y rehabilitación relacionados con la ludopatía, así como promover la capacitación del personal correspondiente y la elaboración de estudios e información estadística que permitan conocer su magnitud e impacto en la entidad.
 
 ###### Artículo 10.
 
@@ -764,3 +780,13 @@ ATENTAMENTE.- PRESIDENTA DE LA MESA DIRECTIVA.- DIP. ADRIANA HERNÁNDEZ ÍÑIGUE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 05 cinco días del mes de julio del año 2022 dos mil veintidós.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- MTRO. ALFREDO RAMÍREZ BEDOLLA.- EL SECRETARIO DE GOBIERNO.- LIC. CARLOS TORRES PIÑA.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 450 POR EL QUE “SE ADICIONA UNA FRACCIÓN I BIS Y SE REFORMAN LAS FRACCIONES XIII Y XVIII DEL ARTÍCULO 3; ASIMISMO, SE REFORMAN LAS FRACCIONES XVII Y XVIII; Y, SE ADICIONA UNA FRACCIÓN XIX AL ARTÍCULO 9 DE LA LEY CONTRA LAS ADICCIONES EN EL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Salud del Estado, en el ámbito de sus atribuciones y de conformidad con la disponibilidad presupuestaria, administrativa y operativa, realizará las acciones necesarias para la implementación de los programas y acciones derivados del presente Decreto.
