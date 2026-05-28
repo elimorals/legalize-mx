@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2026-05-26"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -514,6 +514,14 @@ Los pagos que deban ejecutarse por concepto de multas por violaciones a esta Ley
 El Sistema está constituido por las dependencias y entidades de la Administración Pública del Estado, personas físicas y morales de los sectores social y privado que presten servicios de salud en la entidad, así como los mecanismos de coordinación de acciones que conlleven al legal y debido cumplimiento del derecho a la protección de la salud, con base en lo establecido en el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos.
 
 El Sistema, con la intervención que corresponda a la Secretaría de Planeación y Desarrollo Estatal, definirá los mecanismos de coordinación y colaboración en materia de planeación de la Secretaría, de conformidad con las disposiciones de esta Ley y las que al efecto sean aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+ARTÍCULO 12 BIS. La Secretaría promoverá e implementará, acciones y programas de salud digital, mediante el uso de herramientas tecnológicas que permitan ampliar el acceso a los servicios de salud.
+
+En el marco de dichas acciones podrán desarrollarse modalidades de telemedicina, orientadas a fortalecer la atención médica, la orientación, la prevención, el seguimiento clínico, el apoyo diagnóstico y la interconsulta, especialmente en zonas rurales, alejadas o de difícil acceso.
+
+En la prestación de los servicios y acciones previstos en el presente artículo se deberá observar lo dispuesto en la Ley General de Salud, la presente Ley y demás disposiciones aplicables en materia de prestación de servicios de salud, protección de datos personales, confidencialidad de la información clínica, consentimiento informado y seguridad del paciente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2023)</small>
 
@@ -3898,3 +3906,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. La aplicación del presente Decreto se realizará sin perjuicio de las disposiciones administrativas, laborales, presupuestarias y reglamentarias aplicables al régimen de organización y funcionamiento de las instituciones del sector salud.
 
 Tercero. Las dependencias y entidades competentes realizarán, en el ámbito de sus atribuciones, las adecuaciones administrativas necesarias para el cumplimiento del presente Decreto con los recursos humanos, materiales y financieros existentes.
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 451 POR EL QUE "SE ADICIONA EL ARTÍCULO 12 BIS A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las acciones derivadas del presente Decreto se implementarán de manera progresiva, conforme a la disponibilidad presupuestaria, tecnológica, de infraestructura y de recursos humanos de las autoridades competentes.
