@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2026-05-15"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -199,9 +199,9 @@ X. Proporcionar orientación a la población sobre la importancia de la alimenta
 
 XI. Impulsar el bienestar y el desarrollo de las familias y comunidades indígenas que propicien el desarrollo de sus potencialidades político sociales y culturales; con su participación y tomando en cuenta sus valores y organización social;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-XII. Promover el conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones adecuadas en ese sector;
+XII. Promover, proteger, reconocer y fortalecer el conocimiento, la preservación, el desarrollo y la transmisión de la medicina tradicional indígena, así como garantizar el ejercicio digno y seguro de sus prácticas en condiciones dignas, incluida la partería tradicional;
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2024)</small>
 
@@ -1174,6 +1174,10 @@ IV. Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales y los certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamamiento y sus ramas, es indispensable que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Para el ejercicio de la partería tradicional, se promoverá y brindará los apoyos necesarios para su práctica en condiciones de dignidad, respeto a sus métodos, saberes y prácticas tradicionales vinculadas a la atención del embarazo, parto y puerperio, sin imponer condicionamientos o certificaciones, siendo suficiente el reconocimiento de la comunidad; debiendo apegarse en todo momento a las disposiciones sanitarias que emita la Secretaría Federal y demás autoridades en la materia.
 
 ###### Artículo 95.
 
@@ -2281,6 +2285,10 @@ Para fines sanitarios se extenderán los siguientes certificados:
 
 I. Prenupciales;
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2026)</small>
+
+I Bis. De nacimiento;
+
 II. De defunción;
 
 III. De muerte fetal; y
@@ -2291,6 +2299,14 @@ IV. Los demás que determine esta Ley y demás disposiciones legales y reglament
 
 El certificado médico prenupcial será requerido por las autoridades del Registro del Estado Civil a quienes pretendan contraer matrimonio, con las excepciones que establezcan las disposiciones legales y reglamentarias aplicables.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+###### Artículo 210 Bis.
+
+El certificado de nacimiento se expedirá para cada nacido vivo una vez comprobado el hecho, en términos de lo dispuesto en el párrafo primero del artículo 389 Bis de la Ley General de Salud.
+
+El certificado de nacimiento será expedido por profesionales de la medicina, parteras tradicionales y personas autorizadas para ello por la autoridad sanitaria competente.
+
 ###### Artículo 211.
 
 Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas facultadas por la Secretaría Estatal.
@@ -2298,6 +2314,10 @@ Los certificados de defunción y de muerte fetal serán expedidos, una vez compr
 ###### Artículo 212.
 
 Los certificados a que se refiere este Título, serán expedidos en los modelos o formatos aprobados por la Secretaría Estatal, de conformidad con las normas oficiales mexicanas correspondientes. Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en este artículo y en el precedente.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Los formatos que se autoricen para el uso de las parteras tradicionales y profesionales, así como aquellos que ellas elaboren, deberán ser claros, accesibles y de la mayor sencillez posible, emplear lenguaje culturalmente pertinente y respetuoso de su identidad, y contener, al menos, los datos básicos previstos en el artículo 389 Bis de la Ley General de Salud.
 
 Título Decimoséptimo
 
@@ -3172,3 +3192,13 @@ P.O. 15 DE MAYO DE 2026.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL NÚMERO 233 POR EL QUE “SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 5; Y SE ADICIONAN UN PÁRRAFO TERCERO AL ARTÍCULO 94; LA FRACCIÓN I BIS AL ARTÍCULO 209; EL ARTÍCULO 210 BIS Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 212 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Salud en un plazo de 180 días naturales deberá realizar las adecuaciones a la reglamentación correspondiente.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
