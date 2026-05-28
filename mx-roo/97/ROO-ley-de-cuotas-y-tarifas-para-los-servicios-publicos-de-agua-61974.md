@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-cuotas-y-tarifas-para-los-servicios-publicos-de-agua-619
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-02"
-last_updated: "2021-04-15"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE CUOTAS Y TARIFAS PARA LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 2 de julio de 2008.
 
@@ -123,13 +123,11 @@ XXXV. Uso en servicios generales a la comunidad: el empleo que se hace del agua 
 
 XXXVI. Usuario: las personas físicas o morales que reciban los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, según corresponda;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-XXXVII. Vivienda de interés social o popular: Es aquella que tiene una construcción mayor a 45 M2, que sean promovidas mediante alguno de los programas de apoyo a construcción de vivienda para los trabajadores;
+XXXVII. Vivienda social: Es aquella destinada a personas que no cuentan con la capacidad económica para adquirir una vivienda, priorizando a quienes se encuentran en condiciones de bajos ingresos, pobreza, riesgo o vulnerabilidad, a través de los programas sociales y crediticios de vivienda. Se clasifica en económica, popular y tradicional de conformidad con los valores previstos en la presente Ley, las disposiciones jurídicas aplicables y la normativa federal en la materia;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
-
-XXXVIII. Vivienda progresiva: Es aquella que tiene como máximo una construcción de 45 M2, destinada a personas con ingresos menores o igual a dos salarios mínimos vigentes en la zona.
+XXXVIII. (DEROGADA, P.O. 28 DE MAYO DE 2026)
 
 > <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2009)</small>
 
@@ -427,9 +425,13 @@ I. Las tarifas por instalación, reinstalación y/o reubicación considerarán e
 
 II. El importe a pagar por dotación de litros por segundo, se determinará de acuerdo a la tarifa vigente y al volumen del proyecto total de que se trate o de la etapa del mismo que corresponda según lo solicitado al requerimiento mensual solicitado, a partir de los precios actualizados a la fecha en que se realice la contratación.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
-Para el cálculo del monto a cubrir por este concepto, la tarifa base del litro por segundo será de $1,077,808.52 En el caso de que se contrate la conexión al alcantarillado, adicional a la contratación de litros por segundo, se cobrará el equivalente al 40% de los derechos que se cubran por concepto de dotación de agua potable. En el caso de los fraccionadores o desarrolladores de vivienda o lotes con servicio adicionalmente deberán pagar un 3% del importe de las inversiones para la infraestructura hidráulica y sanitaria de su desarrollo, para los gastos de supervisión normativa.
+Para el cálculo del monto a cubrir por este concepto, la tarifa base del litro por segundo será el que indique la tarifa vigente, actualizada mensualmente conforme a lo previsto en lo conducente por el artículo 7 de la presente Ley. En el caso de que se contrate la conexión al alcantarillado, adicional a la contratación de litros por segundo, se cobrará el equivalente al 40% de los derechos que se cubran por concepto de dotación de agua potable, el cual se desglosa de un 35% para concepto de drenaje y un 5% para concepto de saneamiento previsto en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Las personas fraccionadoras o desarrolladoras de vivienda, no prevista en la fracción XXIII del artículo 5 de la Ley de Vivienda del Estado de Quintana Roo, adicionalmente deberán pagar un 3% del importe de las inversiones para la infraestructura hidráulica y sanitaria de su desarrollo, para los gastos de supervisión normativa.
 
 ###### Artículo 36.
 
@@ -439,17 +441,37 @@ En el caso de que la dotación de litros por segundo contratada sea menor que el
 
 Las tarifas de conexión al servicio de agua potable y alcantarillado que deberán pagar los fraccionadores y desarrolladores, serán las siguientes.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 28 DE MAYO DE 2026)</small>
 
-I.- Por cada lote o vivienda de interés social o popular por un valor comercial de hasta 11.235 salarios mínimos vigentes en la Zona del Estado, pagaran $8,294.01 más el equivalente al 40% de este importe por servicio de alcantarillado, independientemente de los derechos de instalación, y gastos de supervisión normativa para las obras que deban desarrollar equivalente al 3% sobre el importe de las inversiones para la infraestructura hidráulica y sanitaria;
+I.- Para vivienda social con las siguientes características, para los efectos de esta Ley, se considera lo siguiente:
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+a) Vivienda Económica: Superficie de construcción de hasta 45 m2 con las siguientes características: 1 baño, cocina y área de usos múltiples. Para el cálculo de los Derechos de Dotación de Litros por Segundo, de la vivienda económica, donde su avalúo comercial no deberá exceder las 175 veces el valor mensual de la UMA, pagarán 7,985.18 pesos por concepto de derechos de conexión, más el equivalente del 40% que corresponde al 35% de drenaje y 5% de saneamiento de este importe, actualizado mensualmente conforme a lo previsto en lo conducente por el artículo 7 de esta Ley.
 
-II.- Las instituciones públicas y empresas privadas dedicadas a desarrollar lotes con servicios y/o viviendas progresivas por un valor comercial de hasta 4750 salarios mínimos vigentes en la Zona del Estado, pagaran $4,604.89 pesos por concepto de derechos de conexión y el equivalente al 40% de este importe por servicio de alcantarillado independientemente de los derechos de instalación y gastos de supervisión normativa para las obras que deban desarrollar equivalente al 3% sobre el importe de las inversiones para infraestructura hidráulica y sanitaria.
+b) Vivienda Popular: Superficie de construcción de 45.01 hasta 60 m2 con las siguientes características: 1 baño, cocina, estancia, comedor, de 1 a 2 recámaras y 1 cajón de estacionamiento. Para el cálculo de los Derechos de Dotación de Litros por Segundo, de la vivienda Popular, donde su avalúo comercial deberá estar en el rango de las 175.01 hasta las 288 veces el valor mensual de la UMA, pagarán 9,933.28 pesos por concepto de derechos de conexión, más el equivalente del 40% que corresponde al 35% de drenaje y 5% de saneamiento de este importe, actualizado mensualmente conforme a lo previsto en lo conducente por el artículo 7 de esta Ley.
+
+c) Vivienda Tradicional: Superficie construida de 60.01 hasta 75 m2 cuentan con 1 y 1/2 baños, cocina, estancia-comedor, de 2 a 3 recámaras, 1 cajón de estacionamiento. Para el cálculo de los Derechos de Dotación de Litros por Segundo, de la vivienda tradicional, donde su avalúo comercial deberá estar en el rango de las 288.01 hasta las 350 veces el valor mensual de la UMA, pagarán 11,493.43 pesos por concepto de derechos de conexión, más el equivalente del 40% que corresponde al 35% de drenaje y 5% de saneamiento de este importe, actualizado mensualmente conforme a lo previsto en lo conducente por el artículo 7 de esta Ley.
+
+Independientemente del pago de los derechos de instalación, los tipos de vivienda señalados en los incisos que anteceden quedarán exentos del pago por el concepto de supervisión normativa para las obras que deban desarrollar, consistente en un 3% sobre el importe de las inversiones para infraestructura hidráulica y sanitaria.
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II.- Las instituciones públicas y empresas privadas dedicadas a desarrollar lotes con servicios con un avalúo comercial que no exceda las 73 veces el valor mensual de la UMA, pagarán 7,183.39 pesos por concepto de derechos de conexión, más el equivalente del 40% que corresponde al 35% de drenaje y 5% de saneamiento, de este importe actualizado mensualmente conforme a lo previsto en lo conducente por el artículo 7 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2026)</small>
+
+III.- Las instituciones públicas y empresas privadas dedicadas a desarrollar lotes con servicios con un avalúo comercial que exceda las 73.01 a 350 veces el valor mensual de la UMA, pagarán 10,775.09 pesos por concepto de derechos de conexión, más el equivalente al 40% que corresponde al 35% de drenaje y 5% de saneamiento de este importe, actualizado mensualmente conforme a lo previsto en lo conducente por el artículo 7 de esta Ley.
+
+Para las instituciones públicas y empresas privadas dedicadas a desarrollar lotes con servicios señalados en las fracciones II y III del presente artículo, independientemente del pago de los derechos de instalación, se aplicará por concepto de supervisión normativa para las obras que deban desarrollar, un equivalente del 3% sobre el importe de las inversiones para infraestructura hidráulica y sanitaria.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IV.- Para los lotes con servicio que excedan 350.01 veces el valor mensual de la UMA, el cálculo se aplicará conforme al artículo 35 fracción II de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 38.
 
-El prestador de los servicios podrá cobrar una sanción equivalente hasta dos salarios mínimos a falta del pago de los servicios de dos meses consecutivos, ello con el objeto de no afectar al usuario con la suspensión de los servicios, en caso de que el usuario continué en mora se procederá en términos del Artículo 26 de la presente Ley, sin menoscabo de limitar o suspender los servicios, en esta última hipótesis, adicionalmente procederá el cobro de los gastos inherentes a la reinstalación del servicio, la cual será equivalente a un 30% del monto de los derechos de conexión por instalación vigente a la fecha del pago, para el tipo de toma de que se trate.
+A falta del pago de dos meses consecutivos el prestador de los servicios podrá cobrar una sanción de hasta dos veces el valor diario de la UMA, ello con el objeto de no afectar a la persona usuaria con la suspensión de los servicios. En caso de que la persona usuaria continué en mora se procederá en términos del Artículo 26 de la presente Ley, sin menoscabo de limitar o suspender los servicios; en esta última hipótesis, adicionalmente procederá el cobro de los gastos inherentes a la reinstalación del servicio, la cual será equivalente a un 7% del monto de los derechos de conexión por instalación vigente a la fecha del pago, para el tipo de toma de que se trate.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -847,13 +869,25 @@ La tarifa por el servicio de agua en bloque será de $13.14 por M3.
 
 El usuario que solicite el servicio de agua en bloque, deberá de cumplir con todas las características antes señaladas; en cualquier momento en que el usuario no cumpla con alguna de ellas se procederá al cobro de acuerdo con el uso y las tarifas establecidas en el capítulo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 54.
 
-El prestador del servicio deberá cobrar a los usuarios por los servicios diferentes a los señalados en la presente Ley, de acuerdo con lo siguiente:
+El prestador del servicio deberá cobrar a las personas usuarias por los servicios diferentes a los señalados en la presente Ley, de acuerdo con lo siguiente:
 
-I. Por el cambio del titular del contrato, la cantidad de $65.64 pesos;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-II. Por la emisión de cada constancia de no adeudo, la cantidad de $65.64;
+I. Por el cambio de persona titular del contrato, la cantidad de 144.47 pesos actualizado mensualmente conforme a lo previsto en lo conducente por el artículo 7 de esta Ley.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 28 DE MAYO DE 2026)</small>
+
+II. Tratándose de la constancia de no adeudo, la solicitud será resuelta por el prestador del servicio en un término de cinco días hábiles a partir de su presentación, cuyo costo por emisión será de 3 UMA, en el caso de las constancias de no adeudo para vivienda social, sea económica, popular o tradicional, el costo será de 147.00 pesos actualizado mensualmente conforme a lo previsto en lo conducente por el artículo 7 de esta Ley. Para la emisión de la constancia de no adeudo, se deberán presentar los requisitos siguientes:
+
+a) Copia de escritura pública o Título de propiedad, en caso de ser de comunidad rural podrá entregarse orden de ocupación con las firmas de la persona titular del Comisariado Ejidal y/o Delegación Municipal de la Comunidad, según corresponda;
+
+b) Copia de identificación con fotografía, y
+
+c) Copia de cédula catastral vigente, salvo en las comunidades rurales donde no aplique dicho trámite.
 
 III. Por la emisión de una constancia para el transporte de agua potable en carro tanque, la cantidad de $262.29; y
 
@@ -942,3 +976,11 @@ P.O. 15 DE ABRIL DE 2021.
 PRIMERO. El presente decreto entrará en vigor el primero de enero del año dos mil veintidós, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 237 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO; POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CUOTAS Y TARIFAS PARA LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES DEL ESTADO DE QUINTANA ROO, Y POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
