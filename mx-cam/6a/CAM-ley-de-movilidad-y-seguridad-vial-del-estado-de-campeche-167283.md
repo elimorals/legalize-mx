@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-movilidad-y-seguridad-vial-del-estado-de-campeche-167283
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-28"
-last_updated: "2025-10-22"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 28 de julio de 2023.
 
@@ -827,6 +827,10 @@ I. Realizar convenios con la Secretaría de Salud Estatal o las dependencias Fed
 
 II. Elaborar la reglamentación en materia de tránsito y seguridad vial que deba expedir la o el Depositario del Ejecutivo Estatal, que incluya la política integral de la movilidad y sus elementos accesorios públicos en el Estado en coordinación con los municipios, la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas y la Secretaría de Modernización Administrativa e Innovación Gubernamental, de conformidad a la presente Ley y demás disposiciones jurídicas y administrativas aplicables;
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+II Bis. Incorporar, dentro de la política integral de movilidad y en los instrumentos administrativos relativos a la expedición, renovación o reposición de licencias de conducir, un mecanismo que permita asentar de manera expresa la voluntad de la persona titular respecto de ser o no donadora de órganos, tejidos y células para fines de trasplante, garantizando que dicha manifestación se realice de manera libre, informada, expresa, accesible y conforme a la legislación aplicable en materia de salud, protección de datos personales y donación de órganos;
+
 III. Desarrollar el reglamento en materia de tránsito, control y operación vial, para propiciar la movilidad segura y eficiente de personas y mercancías en la infraestructura vial Estatal, en coordinación con la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas.
 
 IV. Las demás establecidas en la presente Ley y otros ordenamientos aplicables.
@@ -1461,6 +1465,10 @@ El Estado, a través de la Secretaría de Protección y Seguridad Ciudadana dete
 
 Al respecto, se podrán realizar convenios con la Secretaría de Salud de la Administración Pública Estatal en los términos de la Ley General de Salud y la ley Estatal en la materia.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Asimismo, en los procedimientos para la expedición, renovación o reposición de licencias de conducir, deberá incorporar un mecanismo que permita asentar de manera expresa la voluntad de la persona titular respecto de ser o no donadora de órganos, tejidos y células para fines de trasplante, garantizando en todo momento el respeto a los derechos humanos, la autodeterminación de la voluntad y la protección de datos personales, conforme a los requisitos, formalidades, principios y disposiciones previstos en la Ley General de Salud, la legislación estatal aplicable y demás ordenamientos en materia de donación y trasplantes.
+
 ###### Artículo 109.
 
 El formato de la licencia de conducción será único a nivel Estatal; la Secretaría de Protección y Seguridad Ciudadana establecerá la ficha técnica para su elaboración y los mecanismos de control correspondientes, así como los requisitos y particularidades que establezcan los trámites administrativos para la obtención de licencias y permisos, incluyendo aquellos solicitados por personas con alguna discapacidad física o limitación física progresiva, concesión, recategorizaciones y autorizaciones, así como casos de suspensión, de conformidad con el Reglamento de Tránsito correspondiente.
@@ -2093,6 +2101,10 @@ En el Reglamento de transporte que emane de la presente Ley, se detallará todo 
 
 Las concesiones para la prestación del servicio de BRT, únicamente se otorgarán a las personas morales constituidas en sociedad mercantil que cumplan los requisitos establecidos en este artículo, en la presente Ley y demás disposiciones jurídicas y administrativas aplicables, debiendo conservar durante la vigencia el tipo de sociedad, objeto social, personalidad jurídica y razón social con la que obtuvo la concesión, así comoel (sic) número de accionistas y capital social. La acreditación de la capacidad técnica, administrativa y financiera para la prestación del servicio de corredores de transporte, deberá asegurar la prestación del servicio en condiciones de calidad, seguridad, oportunidad y permanencia.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Además de los mecanismos previstos por la Secretaría de Protección y Seguridad Ciudadana para recabar la manifestación expresa de la persona titular de la licencia de conducir respecto a su voluntad de donar órganos, tejidos o células para fines de trasplante, las personas físicas concesionarias, permisionarias, autorizadas o relacionadas con la prestación de servicios públicos o privados de transporte deberán, al momento de realizar cualquier trámite ante la Agencia, manifestar de forma expresa su voluntad o no para la donación.
+
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 135 Bis.
@@ -2440,3 +2452,19 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo del Estado y los Municipios contarán con un plazo de 60 días hábiles para realizar las modificaciones a las disposiciones reglamentarias relacionadas con la materia de este decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 234 POR EL QUE "SE ADICIONAN LA FRACCIÓN II BIS AL ARTÍCULO 34; EL PÁRRAFO TERCERO AL ARTÍCULO 108 Y, EL PÁRRAFO NOVENO AL ARTÍCULO 135 DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Protección y Seguridad Ciudadana y la Agencia Reguladora del Transporte, ambas de la Administración Pública del Estado de Campeche, deberán adecuar sus lineamientos, protocolos, formatos y sistemas electrónicos necesarios para el cumplimiento de las disposiciones contenidas en este decreto, en un plazo que no exceda de 90 días naturales contados a partir de su entrada en vigor, garantizando mecanismos accesibles para la modificación o revocación de la manifestación de voluntad realizada por las personas titulares de licencias, permisos o autorizaciones.
+
+TERCERO.- La Secretaría de Salud de la Administración Pública Estatal, en coordinación con las autoridades señaladas en el segundo transitorio, deberá establecer los mecanismos técnicos y administrativos para la integración, actualización e intercambio de información necesaria para el Registro Estatal de Donadores, en un plazo de 180 días naturales, contados a partir de la entrada en vigor.
+
+CUARTO.- Las licencias y permisos para conducir expedidos con anterioridad a la entrada en vigor del presente decreto mantendrán su vigencia hasta la fecha señalada en los propios documentos. La manifestación expresa de voluntad para donar podrá ser incorporada a dichas licencias mediante los mecanismos que para tal efecto establezcan las autoridades competentes, sin que ello implique la emisión obligatoria de una nueva licencia o permiso. La ausencia de dicha manifestación en licencias o permisos expedidos con anterioridad no generará limitación, restricción o afectación alguna en materia de derechos, trámites o servicios.
+
+QUINTO.- Las autoridades competentes deberán realizar campañas de difusión accesibles y permanentes para informar a la ciudadanía sobre los nuevos mecanismos de manifestación expresa de voluntad respecto a la donación de órganos, tejidos y células, así como sobre los derechos asociados a la autodeterminación y a la protección de datos personales.
+
+SEXTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco normativo estatal en lo que se opongan al contenido del presente decreto.
