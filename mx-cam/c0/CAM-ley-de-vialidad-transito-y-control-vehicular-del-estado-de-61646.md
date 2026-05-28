@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-transito-y-control-vehicular-del-estado-de-6164
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2025-10-22"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -147,7 +147,9 @@ VII. Garantizar la seguridad de las personas que utilicen la vialidad a fin de m
 
 VIII. Celebrar convenios de coordinación con las autoridades federales, municipales, o de las demás entidades federativas, en materia de tránsito y control vehicular;
 
-IX. Expedir las licencias y permisos que para la conducción de vehículos señala la presente ley;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+IX. Expedir las licencias y permisos que para la conducción de vehículos señala la presente ley, implementando un mecanismo claro, accesible y verificable para recabar la manifestación expresa de la persona solicitante respecto a su voluntad de ser o no donante de órganos, tejidos o células para fines de trasplante, dejando constancia de dicha decisión en el trámite correspondiente, garantizando en todo momento que dicha manifestación se realice de manera libre, informada, expresa y conforme a la legislación aplicable en materia de salud, protección de datos personales y donación de órganos;
 
 X. Determinar las características que deberán tener las placas y engomados que identifiquen a los vehículos registrados en el Estado;
 
@@ -368,6 +370,14 @@ El propietario de vehículo automotor que permita que este sea conducido por per
 ###### Artículo 32.
 
 La Secretaría de Protección y Seguridad Ciudadana determinará las características de las licencias y permisos de conducir, cuidando en todo momento que cuente con por lo menos cinco sellos de seguridad que eviten su falsificación, firma y huella para garantizar la identidad del conductor, la autorización mediante firma electrónica por el titular de la dependencia, así como los demás datos de seguridad que se consideren necesarios.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Por otra parte, la Secretaría deberá incorporar en las licencias y permisos de conducir un apartado destinado a la manifestación expresa de la persona titular respecto a la voluntad de ser o no donante de órganos, tejidos o células para fines de trasplante, garantizando mecanismos seguros, verificables y accesibles para su registro. El tratamiento, resguardo, intercambio y utilización de la información derivada de dicha manifestación deberá sujetarse a los principios de consentimiento, finalidad, confidencialidad, proporcionalidad y seguridad previstos en la legislación aplicable en materia de protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Para tales efectos, coadyuvará con la Secretaría de Salud de la Administración Pública del Estado en la integración y actualización de la información correspondiente al Registro Estatal de Donadores, conforme a la legislación aplicable.
 
 ###### Artículo 33.
 
@@ -617,7 +627,11 @@ VI. Cuando no porten una o ambas placas de circulación; las que ostente no se e
 
 VII. Sus conductores no presenten para su revisión, la tarjeta de circulación o ésta se encuentre vencida; o se carezca de la misma y no se acredite haber cubierto el pago de derechos por tenencia o uso de vehículos;
 
-VIII. Permanezcan notoriamente abandonados en la vía pública;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VIII. Permanezcan notoriamente abandonados en la vía pública o bien aquellos vehículos que, sin encontrarse en tal condición, permanezcan estacionados por lapsos excesivos, conforme a los plazos previstos en la reglamentación respectiva, que generen afectaciones a la movilidad, al uso adecuado de los espacios públicos o que puedan implicar un riesgo a la seguridad, el medio ambiente, la salud pública o al bienestar de la comunidad.
+
+De manera particular, la autoridad de tránsito podrá disponer medidas para su retiro cuando dichos vehículos sean localizados por las autoridades competentes o mediante denuncia ciudadana, en las inmediaciones de centros escolares, hospitales, clínicas, unidades de emergencia, instalaciones de seguridad pública o en otros espacios públicos determinados en la reglamentación correspondiente y constituyan un peligro, causen perturbaciones a la circulación de vehículos, peatones o al funcionamiento de algún servicio público;
 
 IX. Se encuentren estacionados en los lugares prohibidos;
 
@@ -1628,3 +1642,33 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo del Estado y los Municipios contarán con un plazo de 60 días hábiles para realizar las modificaciones a las disposiciones reglamentarias relacionadas con la materia de este decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 234 POR EL QUE “SE REFORMA LA FRACCIÓN IX AL ARTÍCULO 10 Y, SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 32 DE LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Protección y Seguridad Ciudadana y la Agencia Reguladora del Transporte, ambas de la Administración Pública del Estado de Campeche, deberán adecuar sus lineamientos, protocolos, formatos y sistemas electrónicos necesarios para el cumplimiento de las disposiciones contenidas en este decreto, en un plazo que no exceda de 90 días naturales contados a partir de su entrada en vigor, garantizando mecanismos accesibles para la modificación o revocación de la manifestación de voluntad realizada por las personas titulares de licencias, permisos o autorizaciones.
+
+TERCERO.- La Secretaría de Salud de la Administración Pública Estatal, en coordinación con las autoridades señaladas en el segundo transitorio, deberá establecer los mecanismos técnicos y administrativos para la integración, actualización e intercambio de información necesaria para el Registro Estatal de Donadores, en un plazo de 180 días naturales, contados a partir de la entrada en vigor.
+
+CUARTO.- Las licencias y permisos para conducir expedidos con anterioridad a la entrada en vigor del presente decreto mantendrán su vigencia hasta la fecha señalada en los propios documentos. La manifestación expresa de voluntad para donar podrá ser incorporada a dichas licencias mediante los mecanismos que para tal efecto establezcan las autoridades competentes, sin que ello implique la emisión obligatoria de una nueva licencia o permiso. La ausencia de dicha manifestación en licencias o permisos expedidos con anterioridad no generará limitación, restricción o afectación alguna en materia de derechos, trámites o servicios.
+
+QUINTO.- Las autoridades competentes deberán realizar campañas de difusión accesibles y permanentes para informar a la ciudadanía sobre los nuevos mecanismos de manifestación expresa de voluntad respecto a la donación de órganos, tejidos y células, así como sobre los derechos asociados a la autodeterminación y a la protección de datos personales.
+
+SEXTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco normativo estatal en lo que se opongan al contenido del presente decreto.
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 235 POR EL QUE “SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 52 DE LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado, por conducto de la Secretaría de Protección y Seguridad Ciudadana de la Administración Pública del Estado, deberá emitir, dentro de un plazo de ciento veinte días naturales contados a partir de la entrada en vigor del presente decreto, los protocolos administrativos y operativos necesarios para la aplicación de lo dispuesto en este decreto. Dichos protocolos deberán observar los principios de legalidad, proporcionalidad y respeto a los derechos humanos.
+
+TERCERO.- Los HH. Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, deberán armonizar sus reglamentos de tránsito y vialidad con lo dispuesto en el presente decreto dentro de un plazo de ciento veinte días naturales contados a partir de su entrada en vigor.
+
+CUARTO.- La Secretaría de Protección y Seguridad Ciudadana y los HH. Ayuntamientos del Estado, podrán celebrar convenios de coordinación, a efecto de definir mecanismos de cooperación, intercambio de información y procedimientos de notificación, retiro y resguardo de vehículos en los supuestos previstos en la fracción VIII del artículo 52 a que se refiere este decreto.
+
+QUINTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico local en lo que se opongan al presente decreto.
