@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acciones-urbanisticas-del-estado-de-quintana-roo-129947"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-16"
-last_updated: "2025-08-20"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCIONES URBANÍSTICAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
 
 Ley publicada en el Número 108 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 16 de agosto de 2018.
 
@@ -374,6 +374,10 @@ Con la finalidad de garantizar la inclusión y el derecho de las personas con di
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
 Los espacios abiertos del fraccionamiento de la superficie vendible se ajustarán a las disposiciones de zonificación de los programas municipales de desarrollo urbano, consideradas como parámetros urbanísticos de coeficiente de ocupación de suelo, no siendo inferiores al 15% del lote o unidad de que se trate, y debiendo considerar que por lo menos el 50% de dicho porcentaje deberá destinarse para áreas verdes y forestación.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Sin perjuicio a lo antes señalado, se podrán establecer y permitir superficies menores a los rangos establecidos por la presente Ley, respecto de las áreas edificables, no edificables y urbanizables, siempre y cuando las unidades o espacios habitables que se generen provengan de programas sociales en materia de vivienda que ejecute el gobierno federal, estatal o municipal, pudiéndose ajustar de igual manera, los potenciales de aprovechamiento urbano en los predios que se destinen para tal fin, en razón de las necesidades y características de dichos programas.
 
 ###### Artículo 24.
 
@@ -1426,3 +1430,17 @@ Las solicitudes que fueron presentadas previo a la entrada en vigor del presente
 CUARTO. Las obligaciones previstas en el artículo 46, párrafo primero de la Ley de Acciones Urbanísticas del Estado de Quintana Roo, en su porción normativa "con excepción a conjuntos urbanos tipo condominio" derivado de la sentencia de la controversia constitucional 471/2023, entrarán en vigor una vez que los Municipios emitan las disposiciones generales para su aplicación.
 
 QUINTO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO: 236 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO Y LA LEY DE ACCIONES URBANÍSTICAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo;
+
+SEGUNDO. Los procedimientos relacionados con el derecho de preferencia que se encuentren en trámite a la entrada en vigor del presente decreto, se sujetarán a los plazos y reglas vigentes al momento de su inicio.
+
+TERCERO. Las Constancias de Zonificación expedidas con anterioridad a la entrada en vigor del presente decreto, conservarán su vigencia en los términos en que fueron otorgadas, salvo que se actualicen los programas municipales a que se refiere el artículo 31 de esta Ley o que el propio instrumento establezca condiciones distintas conforme a la normativa aplicable.
+
+CUARTO. El Poder Ejecutivo del Estado contará con un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones correspondientes y, en su caso, expedir las disposiciones reglamentarias necesarias para su correcta implementación y aplicación.
+
+QUINTO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente decreto.
