@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-vivienda-del-estado-de-quintana-roo-77789"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-21"
-last_updated: "2026-04-21"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Quintana Roo, el martes 21 de diciembre de 2010.
 
@@ -57,9 +57,9 @@ I. Definir y regular la política de suelo y vivienda del Estado, de conformidad
 
 II. Definir los lineamientos generales de la política y los programas de suelo y vivienda del Estado y la debida coordinación con sus Municipios;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-III. Regular, coordinar y concertar las acciones de los sectores público, privado y social, y dirigidas a garantizar el derecho y disfrute de una vivienda adecuada, digna y decorosa para los habitantes del Estado de Quintana Roo;
+III. Regular, coordinar y concertar las acciones de los sectores público, privado y social, y dirigidas a garantizar el derecho y disfrute de una vivienda adecuada para los habitantes del Estado de Quintana Roo;
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
@@ -123,7 +123,9 @@ V. Consejo Estatal: El Consejo Estatal de Ordenamiento Territorial, Medio Ambien
 
 VI. Crédito de Vivienda: Son los préstamos que se conceden con la finalidad de adquirir suelo, construir, rehabilitar, mejorar y ampliar, complementar o adquirir una vivienda;
 
-VII. Estímulos: Las medidas de carácter jurídico, administrativo, fiscal o financiero que establezcan los diferentes órdenes de gobierno para promover y facilitar la participación de los sectores social y privado, en la ejecución de acciones, procesos o programas habitacionales, de suelo y de vivienda popular o económica y de interés social;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VII. Estímulos: Las medidas de carácter jurídico, administrativo, fiscal o financiero que establezcan los diferentes órdenes de gobierno para promover y facilitar la participación de los sectores social y privado, en la ejecución de acciones, procesos o programas habitacionales, de suelo y de vivienda social, considerando los valores que, para tal efecto, se establezcan conforme a lo previsto en la fracción VII Bis del Artículo 10 de esta Ley;
 
 VIII. (DEROGADA, P.O. 16 DE JULIO DE 2021)
 
@@ -133,7 +135,9 @@ IX. AGEPRO: La Agencia de Proyectos Estratégicos del Estado de Quintana Roo;
 
 X. Ley: La Ley de Vivienda del Estado de Quintana Roo;
 
-XI. Mejoramiento de Vivienda: La acción tendiente a consolidar o renovar las viviendas deterioradas física o funcionalmente, mediante actividades de ampliación, reparación, reforzamiento estructural o rehabilitación que propicien una vivienda digna y decorosa;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XI. Mejoramiento de Vivienda: La acción tendiente a consolidar o renovar las viviendas deterioradas física o funcionalmente, mediante actividades de ampliación, reparación, reforzamiento estructural o rehabilitación que propicien una vivienda adecuada;
 
 XII. Organismos especializados: Los Colegios de Arquitectos, Ingenieros, Abogados, Consejo de Notarios Públicos, la representación de la Cámara Nacional de la Industria y promoción del desarrollo de la vivienda, y de la Cámara de la industria de la Construcción, y de Empresas de Consultoría, las Asociaciones de Promotores Inmobiliarios y otras Agrupaciones legalmente constituidas, que por su naturaleza estén vinculadas con el desarrollo habitacional;
 
@@ -215,9 +219,9 @@ III. Promover y ejecutar Programas de Vivienda, incluyendo aquellos dirigidos a 
 
 IV. Vigilar y asesorar que la construcción de vivienda que se realice bajo sus programas se preserve el equilibrio ecológico y procurando la utilización de materiales y tecnologías que coadyuven a elevar los niveles de habitabilidad de la vivienda, de salud y bienestar de las personas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-V. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de las acciones de suelo y vivienda otorgando atención preferente a la población en situación de pobreza y que carezca de una vivienda digna y decorosa;
+V. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de las acciones de suelo y vivienda otorgando atención preferente a la población en situación de pobreza y que carezca de una vivienda adecuada;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
 
@@ -227,13 +231,19 @@ VI. Dictaminar previamente a su ejecución, la congruencia de los programas de s
 
 VII. Coordinar los programas y acciones de suelo y vivienda;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE ABRIL DE 2026)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MAYO DE 2026)</small>
 
-VII Bis. Expedir y publicar en el Periódico Oficial del Estado de Quintana Roo, los valores de referencia para la vivienda social, los cuales servirán de base para la clasificación, gestión y ejecución de los programas, acciones de mejora y trámites en materia de vivienda que sean competencia de las dependencias y entidades de la administración pública estatal. Dichos valores deberán:
+VII Bis. Expedir y publicar en el Periódico Oficial del Estado de Quintana Roo, los valores de referencia para la vivienda social, los cuales servirán de base para la clasificación, gestión y ejecución de los programas, acciones de mejora, trámites y estímulos en materia de vivienda que sean competencia de las dependencias y entidades de la administración pública estatal. Dichos valores deberán:
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
 
 a) Estar homologados con los lineamientos, clasificaciones y valores máximos que para cada tipo de vivienda social emitan las instituciones públicas federales de vivienda.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
+
 b) Ser actualizados anualmente o cuando las instituciones federales modifiquen sus referentes, asegurando la congruencia de la política pública estatal.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
 
 c) Considerar en su aplicación las particularidades económicas y de desarrollo de las distintas regiones del Estado, en especial las zonas insulares, sin contravenir los topes establecidos en los valores federales.
 
@@ -341,7 +351,9 @@ Los Municipios tendrán las siguientes atribuciones:
 
 I. Fijar la política municipal en materia de vivienda en congruencia con esta ley, los programas estatales y municipales de ordenamiento territorial, ecológico y desarrollo urbano;
 
-II. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de acciones de suelo y vivienda, en su ámbito territorial, otorgando atención preferente a la población que carezca de una vivienda digna y decorosa, considerando e impulsando la autogestión y autoconstrucción;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+II. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a mediano y largo plazo, así como realizar la planeación, programación y presupuestación de acciones de suelo y vivienda, en su ámbito territorial, otorgando atención preferente a la población que carezca de una vivienda adecuada, considerando e impulsando la autogestión y autoconstrucción;
 
 III. Formular, aprobar, y administrar los Programas Municipales de Suelo y Vivienda, de conformidad con los lineamientos de la Política Estatal de Vivienda, establecidos en esta Ley y en congruencia con el Programa Estatal de Vivienda y demás ordenamientos locales aplicables, así como evaluar y vigilar su cumplimiento;
 
@@ -449,7 +461,9 @@ IV. Elaborar y Aprobar el Programa Operativo Anual de Suelo y Vivienda del Estad
 
 V. Vincular las acciones de fomento al crecimiento económico, de desarrollo social, desarrollo urbano, desarrollo rural, ordenación del territorio, mejoramiento ambiental y aprovechamiento óptimo de los recursos naturales, con la Política Estatal de Suelo y Vivienda;
 
-VI. Conocer las evaluaciones de los Programas de Vivienda y de la aplicación de las acciones e inversiones intersectoriales para el logro de una vivienda digna y decorosa;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VI. Conocer las evaluaciones de los Programas de Vivienda y de la aplicación de las acciones e inversiones intersectoriales para el logro de una vivienda adecuada;
 
 VII. Ser conducto de las observaciones y proposiciones que hagan los organismos especializados y la sociedad en general;
 
@@ -515,7 +529,9 @@ XIV. La promoción de fraccionamientos de interés social, desarrollados por el 
 
 XV. Promover y apoyar la producción social de vivienda, mediante la procuración de incentivos y exenciones para quienes desarrollen acciones de vivienda social sin objeto de lucro;
 
-XVI. Promover y apoyar la producción de vivienda social, mediante el otorgamiento de incentivos, estímulos y/ó exenciones para quienes desarrollen, financien ó adquieran las mismas;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XVI. Promover y apoyar la producción de vivienda social, mediante el otorgamiento de incentivos, estímulos y/o exenciones para quienes desarrollen, financien o adquieran las mismas, considerando los valores, que, para tal efecto, se establezcan conforme a lo previsto en la fracción VII Bis del artículo 10 de esta Ley;
 
 XVII. Promover medidas que proporcionen a la población información suficiente para la toma de decisiones sobre las tendencias del desarrollo urbano en su localidad y acerca de las opciones que ofrecen los programas institucionales y el mercado, de acuerdo a sus necesidades, posibilidades y preferencias;
 
@@ -539,7 +555,9 @@ XXVI. Promover el uso de ecotecnologías en la construcción de viviendas y ener
 
 XXVII. Crear los mecanismos que permitan integrar la información del Sistema Estatal de Información e Indicadores de Vivienda, así como para el Sistema Nacional de Información e Indicadores de Vivienda;
 
-XXVIII. Establecer, de conformidad con el atlas de riesgo previsto en la Ley de Protección Civil para el Estado de Quintana Roo, los criterios para evitar las condiciones de vulnerabilidad de las viviendas, ante los fenómenos naturales y antropogénicos que colocan a sus habitantes en situación de riesgo; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XXVIII. Establecer, de conformidad con el atlas de riesgo previsto en la Ley de Protección Civil del Estado de Quintana Roo, los criterios para evitar las condiciones de vulnerabilidad de las viviendas, ante los fenómenos naturales y antropogénicos que colocan a sus habitantes en situación de riesgo, y
 
 XXIX. Fomentar asesoría y asistencia integral en materia de gestión social, financiera, legal, técnica y administrativa, para el desarrollo y ejecución de la acción habitacional.
 
@@ -715,23 +733,23 @@ La formulación de los Programas de Suelo y Vivienda a que se refiere esta ley, 
 
 I. La Secretaría formulará el anteproyecto, considerando las disposiciones de esta ley y demás ordenamientos jurídicos aplicables;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-II. Cuando se trate de Programas Municipales se podrá solicitar la participación y asesoría del Instituto para la elaboración de los mismos;
+II. Cuando se trate de Programas Municipales se podrá solicitar la participación y asesoría de la Secretaría para la elaboración de los mismos;
 
 III. El Anteproyecto que se elabore se remitirá con oportunidad al Consejo, para su revisión y visto bueno;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-IV. El Consejo por conducto del Instituto someterá el anteproyecto revisado, a consideración del Titular del Ejecutivo Estatal, para su aprobación en su caso y publicación correspondiente en el Periódico Oficial del Estado;
+IV. El Consejo por conducto de la Secretaría someterá el anteproyecto revisado, a consideración de la persona Titular del Poder Ejecutivo Estatal, para su aprobación en su caso y publicación correspondiente en el Periódico Oficial del Estado de Quintana Roo, y
 
 V. Finalmente una versión abreviada del mismo será puesto a disposición del público en los medios electrónicos en la página de internet de la Secretaría o una que se establezca con este fin, y cuando menos publicada en los diarios de mayor circulación del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 31.
 
-El Instituto se apoyará y tomará en consideración para la elaboración de la Política y de la Programación de suelo y vivienda a que se refiere este Capítulo, las propuestas que formulen los sectores privado y social, así como los particulares interesados, a través de los foros de consulta ciudadana.
+La Secretaría se apoyará y tomará en consideración para la elaboración de la Política y de la Programación de suelo y vivienda a que se refiere este Capítulo, las propuestas que formulen los sectores privado y social, así como las y los particulares interesados, a través de los foros de consulta ciudadana.
 
 ###### Artículo 32.
 
@@ -743,11 +761,11 @@ Los Programas a que se refiere esta Ley serán sometidos a un proceso permanente
 
 ### CAPÍTULO ÚNICO. DE SU OBJETO E INTEGRACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### Artículo 33.
 
-Se establece el Sistema Estatal de Suelo y Vivienda, como el mecanismo permanente de coordinación y concertación de acciones e inversiones entre los sectores público, social y privado, para fomentar el acceso a los habitantes del Estado a una vivienda digna y decorosa; que tiene por objeto:
+Se establece el Sistema Estatal de Suelo y Vivienda, como el mecanismo permanente de coordinación y concertación de acciones e inversiones entre los sectores público, social y privado, para fomentar el acceso a las personas habitantes del Estado a una vivienda adecuada; que tiene por objeto:
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2018)</small>
 
@@ -911,9 +929,11 @@ El sector público, con la participación que corresponda de los Sectores Social
 
 Por concepto de servicio de amortizaciones e intereses, ningún crédito de vivienda otorgado por el Gobierno del Estado o por los Municipios en su caso, debe superar el treinta por ciento de los ingresos nominales mensuales del beneficiado.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 46.
 
-Si por efecto de la situación económica del país o por la evolución de los ingresos de las personas el pago del crédito llegara a representar más del treinta por ciento de los ingresos nominales mensuales del beneficiario, el deudor tendrá derecho a acogerse a las soluciones que el INFOVIR o su similar en el ámbito municipal establezcan, con el objeto de no superar esta proporción.
+Si por efecto de la situación económica del país o por la evolución de los ingresos de las personas el pago del crédito llegara a representar más del treinta por ciento de los ingresos nominales mensuales de la persona beneficiaria, la persona deudora tendrá derecho a acogerse a las soluciones que la Secretaría o el Instituto municipal establezcan, con el objeto de no superar esta proporción.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
 
@@ -1047,9 +1067,11 @@ Para garantizar la inclusión y el derecho de las personas con discapacidad o mo
 
 Las viviendas para la personas con discapacidad o movilidad reducida, deberán estar ubicadas dentro del conjunto habitacional en áreas de fácil acceso de los servicios públicos y de servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 60.
 
-El Ejecutivo del Estado fomentará la participación de los sectores público, social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de ecotécnias y de nuevas tecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con parámetros de certificación y cumplan con los principios de una vivienda digna y decorosa.
+El Ejecutivo del Estado fomentará la participación de los sectores público, social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de ecotécnias y de nuevas tecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con parámetros de certificación y cumplan con los principios de una vivienda adecuada.
 
 Asimismo, promoverá que las tecnologías sean acordes con los requerimientos sociales, regionales y a las características propias de la población, estableciendo mecanismos de investigación y experimentación tecnológicas.
 
@@ -1341,9 +1363,11 @@ V. La denuncia se tramitará y resolverá conforme a lo dispuesto en la Ley de P
 
 ### CAPÍTULO II. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### Artículo 94.
 
-Los servidores públicos que intervengan en los programas habitacionales que utilicen indebidamente su posición, para beneficiarse o favorecer a terceros en los procesos de producción y adquisición de vivienda, construcción de obras de infraestructura o en operaciones inmobiliarias, serán sancionados conforme a lo dispuesto por el Título Octavo de la Constitución Política del Estado Libre y Soberano de Quintana Roo, la Ley de Responsabilidades de los Servidores Públicos o en su caso por el Código Penal del Estado.
+Las personas servidoras públicas que intervengan en los programas habitacionales que utilicen indebidamente su posición, para beneficiarse o favorecer a terceros en los procesos de producción y adquisición de vivienda, construcción de obras de infraestructura o en operaciones inmobiliarias, serán sancionadas conforme a lo dispuesto por el Título Octavo de la Constitución Política del Estado Libre y Soberano de Quintana Roo, la Ley de Responsabilidades Administrativas del Estado de Quintana Roo y sus Municipios o en su caso por el Código Penal para el Estado Libre y Soberano de (sic) Estado.
 
 Toda persona tendrá derecho al acceso a la información pública sobre vivienda, en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado.
 
@@ -1568,3 +1592,11 @@ P.O. 21 DE ABRIL DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 237 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO; POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CUOTAS Y TARIFAS PARA LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES DEL ESTADO DE QUINTANA ROO, Y POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
