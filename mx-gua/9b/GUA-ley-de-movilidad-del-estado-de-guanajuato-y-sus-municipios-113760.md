@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2025-12-05"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -391,6 +391,10 @@ XIX ter. Unidad administrativa de transporte: La unidad administrativa adscrita 
 
 XX. Usuario: La persona que previo pago de la tarifa correspondiente, utiliza el servicio público y especial de transporte que se presta por las vías públicas dentro del Estado;
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2026)</small>
+
+XX Bis. Vehículo de Micromovilidad Eléctrica: vehículo de transporte propulsado total o parcialmente por energía eléctrica, con capacidad máxima para una o dos personas, y con velocidad operativa que no exceda los 25 kilómetros por hora. Incluye, entre otros, los monopatines eléctricos, bicicletas eléctricas, motocicletas eléctricas ligeras, monociclos eléctricos, patinetas motorizadas y dispositivos similares que no requieren licencia de conducir conforme a la normativa vigente;
+
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
 XXI. Vehículo motorizado: La unidad impulsada por un motor, en la cual se lleva a cabo la transportación de personas o cosas, utilizando las vías públicas dentro del Estado;
@@ -674,6 +678,10 @@ V. Realizar estudios para la innovación, el desarrollo tecnológico e informát
 VI. Desarrollar programas de información, educación e investigación en materia de sensibilización, educación y formación sobre movilidad y seguridad vial; y
 
 VII. Otros que permitan el cumplimiento de esta Ley, sus principios y objetivos.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VIII. Promover y fortalecer la infraestructura, reglamentación y medidas de seguridad para el uso de vehículos de micromovilidad eléctrica, asegurando su integración segura en el sistema de movilidad y su adecuada convivencia con peatones, ciclistas, transporte público y transporte motorizado y no motorizado.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
 
@@ -1662,6 +1670,14 @@ Centros de alquiler de bicicletas
 ###### Artículo 54.
 
 La unidad administrativa de transporte y los municipios podrán establecer centros de alquiler de bicicletas y establecerán los requisitos y condiciones para emitir autorización a centros particulares de alquiler.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Vehículos de Micromovilidad Eléctrica
+
+###### Artículo 54 Bis.
+
+El Reglamento de la presente Ley y los reglamentos municipales, en el ámbito de su competencia, establecerán las disposiciones aplicables a los vehículos de micromovilidad eléctrica, con el objeto de regular su circulación, operación, zonas de tránsito permitidas, horarios, dispositivos de seguridad, requisitos para su uso y condiciones para su estacionamiento en espacios públicos. Dichas disposiciones deberán atender las particularidades técnicas, de velocidad, masa y riesgo de dichos vehículos, a fin de garantizar la seguridad vial, la integridad de las personas usuarias y la convivencia armónica con peatones, ciclistas y demás usuarios de la vía pública.
 
 ### Capítulo III. Vehículos
 
@@ -4932,3 +4948,19 @@ Artículo Segundo. Las autoridades estatales y municipales contarán con el tér
 Abrogación
 
 Artículo Tercero. Se abroga el Decreto Legislativo número 77 expedido por la Sexagésima Sexta Legislatura.
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 190, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONAN LOS ARTÍCULOS 7 FRACCIÓN XX BIS; 14 BIS, FRACCIÓN VIII; Y 54 BIS DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
+
+Inicio de vigencia del decreto
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Término para la adecuación del Reglamento Estatal
+
+Artículo Segundo. A partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado adecuará el Reglamento en un plazo que no exceda de ciento ochenta días.
+
+Término para la adecuación de los reglamentos municipales
+
+Artículo Tercero. A partir de la entrada en vigor del presente Decreto, los municipios del Estado adecuarán sus respectivos reglamentos en un plazo que no exceda de ciento ochenta días.
