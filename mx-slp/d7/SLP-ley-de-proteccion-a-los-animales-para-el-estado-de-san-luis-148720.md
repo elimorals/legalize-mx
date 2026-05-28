@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-a-los-animales-para-el-estado-de-san-luis-148
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-23"
-last_updated: "2026-02-10"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 23 de marzo de 2021.
 
@@ -45,9 +45,13 @@ Es de expedirse y, se expide, la Ley de Protección a los Animales para el Estad
 
 Ley de Protección a los Animales para el Estado de San Luis Potosí
 
-## Título Primero
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2026)</small>
 
-### Capítulo Único
+## Título Primero. Disposiciones Generales
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2026)</small>
+
+### Capítulo Único. Disposiciones Generales
 
 ###### ARTÍCULO 1°.
 
@@ -71,9 +75,11 @@ VI. Asegurar la sanidad, salud pública y libertades del animal, siendo estas: l
 
 Las autoridades competentes, los particulares en lo personal, las sociedades protectoras de animales y demás asociaciones legalmente constituidas, apoyaran en lo que este a su alcance, para los fines de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 3°.
 
-Los principios básicos que sustentan el trato digno hacia los animales son:
+Los principios básicos que sustentan el trato digno y respetuoso hacia los animales son:
 
 I. Adoptar las medidas necesarias, atendiendo a lo establecido en los Tratados Internacionales y las normas ambientales oficiales mexicanas, para evitar dolor, deterioro físico o sufrimiento, durante su posesión o propiedad, así como en el adiestramiento o sacrificio;
 
@@ -289,13 +295,17 @@ Si los propietarios o poseedores de animales, observan que se presenta alguna en
 
 Se denomina así a los animales domésticos que auxilien o compartan actividades con el hombre para facilitarle su labor.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 31.
 
-Son de trabajo, los animales, que se utilizan por el hombre para realizar el servicio de carga, tiro o monta de jinetes.
+Son de trabajo, los animales, que se utilizan por el hombre para realizar el servicio de carga, tiro, labranza o monta de jinetes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 32.
 
-Toda persona que sea propietaria, encargada o posea un animal de carga, tiro o monta, debe procurarle alimentación, cuidados apropiados, atención médica, preventiva y correctiva.
+Toda persona que sea propietaria, encargada o posea un animal de carga, tiro, labranza o monta, debe procurarle alimentación, cuidados apropiados, atención médica, preventiva y correctiva.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2023)</small>
 
@@ -369,7 +379,9 @@ IV. Obligar al que se haya caído, a levantarse fustigándolo;
 
 V. Utilizarlo para carga, tiro, monta o labranza en condiciones fisiológicas no aptas, como los desnutridos, enfermos, con lesiones, contusiones, heridas o laceraciones, así como los impedidos para trabajar debido a su poca o avanzada edad, y cabalgar sobre animales de este tipo que se encuentren en estas condiciones;
 
-VI. Usar para la carga, tiro o monta sin causa justificada, cualquier animal menor de un año, así como hembras en periodo próximo a parir, entendido éste como el último tercio de la gestación;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
+
+VI. Usar para la carga, tiro, labranza o monta sin causa justificada, cualquier animal menor de un año, así como hembras en periodo próximo a parir, entendido éste como el último tercio de la gestación;
 
 VII. Evitar siempre, latigazos y otros medios de crueldad en su arreo;
 
@@ -667,9 +679,13 @@ La prestación de los servicios a que se refiere este artículo, podrá ser conc
 
 Las represas, los estanques y jagüeyes, en los cuales se pretenda llevar a cabo la siembra de peces, deberán garantizar a través de convenios específicos con las autoridades correspondientes, un nivel mínimo del espejo del agua, que asegure su supervivencia.
 
-## Título Quinto
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2026)</small>
 
-### Capítulo Único
+## Título Quinto. De las Investigaciones Científicas con Animales
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2026)</small>
+
+### Capítulo Único. Investigaciones Científicas con Animales
 
 ###### ARTÍCULO 76.
 
@@ -695,17 +711,23 @@ Las investigaciones científicas que se realicen con animales, deben efectuarse 
 
 Las disposiciones de este apartado aplica (sic) a todo tipo de animales, ya sea domésticos o silvestres.
 
-## Título Sexto
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2026)</small>
 
-### Capítulo Único
+## Título Sexto. Del Inventario de Animales Silvestres
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2026)</small>
+
+### Capítulo Único. Inventario de Animales Silvestres
 
 ###### ARTÍCULO 82.
 
 Los animales silvestres y su progenie, en cualquiera de sus formas, son propiedad de la Nación.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 83.
 
-El Gobierno del Estado, por conducto de la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, coadyuvará con la Federación y los Municipios, en levantar y mantener actualizados (sic) el inventario de la población animal existente en la Entidad.
+El Gobierno del Estado, por conducto de la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, coadyuvará con la Federación y los Municipios, en levantar y mantener actualizados (sic) el inventario de la población animal silvestre existente en la Entidad.
 
 ###### ARTÍCULO 84.
 
@@ -713,9 +735,9 @@ Las autoridades mencionadas en el artículo anterior, respecto de dichos animale
 
 I. Velar por su adecuada conservación, protección, propagación y aprovechamiento;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2026)</small>
 
-II. Crear reservas, salvaguardar especies animales, y III. (sic) Velar que los cazadores en la Entidad cuenten con la autorización de la Secretaría del Ramo Federal para cazar cualquier especie animal, y que se respeten los tiempos de veda;
+II. Crear reservas y salvaguardar las especies de animales silvestres;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
 
@@ -731,19 +753,37 @@ El inventario de especies deberá comprender: todo tipo de animales que se encue
 
 Los parques naturales o santuarios de determinadas especies de animales silvestres, forman parte de inventario.
 
-## Título Séptimo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2026)</small>
 
-### Capítulo Único
+## Título Séptimo. De las Autoridades en Materia Animal
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2026)</small>
+
+### Capítulo Único. Autoridades en Materia Animal
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 86.
 
-Son Autoridades competentes para aplicar esta Ley:
+Son Autoridades competentes para aplicar esta Ley
 
-I. El Gobernador del Estado, a través de la Secretaría de Salud del Estado; Secretaría de Ecología; y Gestión Ambiental; y Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos;
+I. La persona titular del Poder Ejecutivo, a través de:
 
-II. La Secretaría de Seguridad Pública, y
+a) La Secretaría de Salud del Estado.
 
-III. Los presidentes municipales a través de los secretarios y síndicos; así como también a través de la Dirección de Seguridad Pública Municipal.
+b) Secretaría de Ecología y Gestión Ambiental.
+
+c) La Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos;
+
+d) La Secretaría de Seguridad y Protección Ciudadana.
+
+II. Las personas titulares de las presidencias municipales a través de:
+
+a) La persona titular de la Secretaría General.
+
+b) Las personas síndicos municipales.
+
+d (sic)) Las direcciones de Seguridad Pública de los municipios o sus áreas homólogas.
 
 ###### ARTÍCULO 87.
 
@@ -997,9 +1037,13 @@ En caso de que el animal no sea reclamado por su dueño en doce días hábiles, 
 
 En el caso de que no concurra ninguna de las precisiones anteriores, los animales podrán ser sacrificados humanitariamente.
 
-## Título Noveno
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2026)</small>
 
-### Capítulo Único
+## Título Noveno. De la Captura de Animales
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2026)</small>
+
+### Capítulo Único. Captura de Animales
 
 ###### ARTÍCULO 102.
 
@@ -1374,6 +1418,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0458.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 317, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA EL ARTÍCULO 121 BIS A LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0538.- QUE REFORMA LAS DENOMINACIONES DEL TÍTULO PRIMERO Y SU CAPÍTULO ÚNICO, DEL TÍTULO QUINTO Y SU CAPÍTULO ÚNICO, DEL TÍTULO SEXTO Y SU CAPÍTULO ÚNICO, DEL TÍTULO SÉPTIMO Y SU CAPÍTULO ÚNICO, Y DEL TÍTULO NOVENO Y SU CAPÍTULO ÚNICO; LOS ARTÍCULOS 3°, 31, 32, 39, 83, 84 Y 86, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
