@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-agua-potable-y-alcantarillado-del-estado-de-quintana-110
 country: "mx"
 rank: "ley"
 publication_date: "1981-10-06"
-last_updated: "2021-07-16"
+last_updated: "2026-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 6 de octubre de 1981.
 
@@ -127,11 +127,15 @@ Al establecerse los servicios de agua potable y alcantarillado en los lugares qu
 
 Los usuarios de los servicios de agua potable y alcantarillado a que se refiere esta Ley, estarán obligados a pagar los derechos que en la misma y demás ordenamientos aplicables se establezcan, así como dentro de los plazos que se fijen. La falta de pago oportuno obligará al usuario a cubrir recargos conforme a la tasa que se señala en las leyes fiscales vigentes en el Estado.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2026)</small>
 
-###### ARTICULO 12.
+###### ARTÍCULO 12.
 
-Los servicios de agua potable y alcantarillado a que se refiera esta ley, no podrán ser objeto de exenciones de ninguna clase, tanto por lo que hace a los usuarios particulares, como de los gobiernos y dependencias o entidades federales, estatales o municipales, instituciones educativas y culturales o de asistencia pública o privada, con excepción de la hipótesis prevista en el Artículo 33 de la Ley de Cuotas y Tarifas para los Servicios Públicos de Agua Potable, Alcantarillado, Tratamiento y Disposición de Aguas Residuales del Estado de Quintana Roo.
+Los servicios de agua potable y alcantarillado a que se refiera esta Ley, no podrán ser objeto de exenciones de pago de ninguna clase, con excepción de la hipótesis prevista en el artículo 33 de la Ley de Cuotas y Tarifas para los Servicios Públicos de Agua Potable, Alcantarillado, Tratamiento y Disposición de Aguas Residuales del Estado de Quintana Roo. Sin embargo, cuando se trate de personas usuarias o solicitudes de carácter público que por su naturaleza estén destinados al servicio de la comunidad como son instituciones educativas y culturales, hospitales, centros de rehabilitación, bibliotecas, panteones, y oficinas gubernamentales, podrán ser exentos únicamente por concepto de pago de los derechos de conexión por dotación de litros por segundo.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2026)</small>
+
+Cuando se trate de programas de vivienda o lotes con servicios de gobierno, dependencias, entidades federales y estales, será la persona Titular de Poder Ejecutivo en calidad de Presidenta o Presidente del Consejo Directivo, quien podrá exentar u otorgar descuentos por concepto de pago de los derechos de conexión por dotación de litros por segundo y otros servicios diferentes a los señalados en la presente Ley. En el caso que el prestador de servicio no cuente con la infraestructura hidráulica a pie de lote para la prestación de los servicios de agua potable y alcantarillado, la Comisión de Agua Potable y Alcantarillado informará a la persona Titular del Poder Ejecutivo la cuantificación de las inversiones necesarias para la expansión de la infraestructura primaria, como son: tanques de almacenamiento, red de agua potable, cárcamo de agua potable y residuales; equipamientos a pozos de extracción, líneas primarias de agua potable y alcantarillado, plantas de tratamiento de aguas residuales y saneamiento que deberán construirse para garantizar la calidad, cantidad y continuidad de los servicios públicos de agua potable y alcantarillado.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 1996)</small>
 
@@ -1456,3 +1460,11 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 28 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “ DECRETO NÚMERO: 237 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO; POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CUOTAS Y TARIFAS PARA LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES DEL ESTADO DE QUINTANA ROO, Y POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
