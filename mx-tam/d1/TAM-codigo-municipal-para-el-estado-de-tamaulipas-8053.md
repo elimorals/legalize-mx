@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2026-05-05"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 5 DE MAYO DE 2026, NÚMERO 53, PÁGINA 3, NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 66-1002 PUBLICADO EN EL P.O. DEL 17 DE MARZO DE 2026.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -99,11 +97,13 @@ El Municipio constituye la unidad básica de la división territorial y de la or
 
 El Municipio es una institución de orden público, dotado de personalidad jurídica y patrimonio propios, autónomo en su régimen interior y con libre administración de su Hacienda, recursos y servicios destinados a la comunidad local, sin más límites que los señalados expresamente en las leyes.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 4o.
 
-Cada Municipio será gobernado por un ayuntamiento de elección popular directa, e integrado por un presidente, regidores y síndicos electos por el principio de votación mayoritaria relativa y con regidores electos por el principio de representación proporcional.
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una presidenta o un presidente, una sindicatura y hasta quince regidurías, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal; serán electos por el principio de votación mayoritaria relativa y con regidores electos por el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
 
 Las facultades que la Constitución Federal otorga al gobierno municipal, se ejercerán por el ayuntamiento de manera exclusiva, sin que pueda existir autoridad intermedia entre éste y el gobierno del Estado.
 
@@ -289,23 +289,19 @@ Los Ayuntamientos son los órganos de Gobierno Municipal a través de los cuales
 
 ARTICULO 21 BIS.- El Ayuntamiento, como órgano deliberante, posterior a la primera sesión ordinaria del mandato constitucional, deberá acordar la integración y funcionamiento de los sistemas que se establecen en las leyes estatales en materia de igualdad de género, discriminación y erradicación de la violencia contra las mujeres.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 22.
 
-Los Ayuntamientos durarán en su encargo tres años y se integrarán con servidores públicos de elección popular directa, en la siguiente forma:
+Los Ayuntamientos durarán en su encargo tres años y se integrarán conforme a las bases siguientes:
 
-I.- En los Municipios cuya población sea hasta por treinta mil habitantes, el Ayuntamiento se integrará con un Presidente Municipal, cuatro Regidores y un Síndico.
+I.- En los Municipios cuya población sea menor de 30,000 habitantes, el Ayuntamiento se integrará con 1 presidencia municipal, 1 sindicatura y 6 regidurías de las cuales 4 corresponderán al principio de mayoría relativa y 2 al principio de representación proporcional;
 
-II.- En los Municipios con población hasta de cincuenta mil habitantes, el Ayuntamiento se integrará por un Presidente Municipal, cinco Regidores y dos Síndicos.
+II.- En los Municipios cuya población sea hasta 50,000 habitantes, el Ayuntamiento se integrará con 1 presidencia municipal, 1 sindicatura y 8 regidurías de las cuales 5 corresponderán al principio de mayoría relativa y 3 al principio de representación proporcional;
 
-III.- En los Municipios cuya población sea hasta de cien mil habitantes, el Ayuntamiento se integrará por un Presidente Municipal, ocho Regidores y dos Síndicos.
+III.- En los municipios cuya población sea hasta 100,000 habitantes, el ayuntamiento se integrará con 1 presidencia municipal, 1 sindicatura y 12 regidurías de las cuales 8 corresponderán al principio de mayoría relativa y 4 al principio de representación proporcional; y
 
-IV.- En los Municipios con población hasta de doscientos mil habitantes, el Ayuntamiento se integrará por un Presidente Municipal, doce Regidores y dos Síndicos.
-
-V.- En los Municipios cuya población sea mayor de doscientos mil habitantes, el Ayuntamiento será integrado por un Presidente Municipal, catorce Regidores y dos Síndicos.
-
-En los términos que señala la Ley Electoral para el Estado de Tamaulipas, los Ayuntamientos se complementarán con Regidores de Representación Proporcional.
+IV.- En los municipios cuya población sea mayor a 100,000 habitantes, el ayuntamiento se integrará con 1 presidencia municipal, 1 sindicatura y 15 regidurías de las cuales 10 corresponderán al principio de mayoría relativa y 5 al principio de representación proporcional.
 
 ###### ARTICULO 23.
 
@@ -349,11 +345,11 @@ V.- Tener un modo honesto de vivir, saber leer y escribir, y no estar en los cas
 
 VI.- No ser servidor público de la Federación o del Estado, con excepción de los cargos de elección popular o del Municipio; no tener el mando de la fuerza pública en el que se haga la elección, a no ser que se separe de su cargo por lo menos 90 días antes de dicha elección.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 27.
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos de manera directa, podrán ser reelectos para el mismo cargo por un periodo adicional; también tendrán este derecho las personas que por elección indirecta, por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé.
+Los presidentes y presidentas municipales, regidores y regidoras, y personas síndicas de los ayuntamientos no podrán reelegirse de manera consecutiva para el mismo cargo. Las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes si podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2017)</small>
 
@@ -719,9 +715,9 @@ XXXVII.- Cumplir y hacer cumplir las disposiciones legales en materia de eleccio
 
 XXXVIII.- Recopilación, organización, bajo los criterios de máxima publicidad, difusión y transparencia de la información relativa a la estadística municipal.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-XXXIX.- Rendir a la población, por conducto del Presidente Municipal, regidores y síndicos, un informe anual detallado sobre el estado que guardan los negocios municipales.
+XXXIX.- Rendir a la población, por conducto del Presidente Municipal, regidores y sindicatura, un informe anual detallado sobre el estado que guardan los negocios municipales;
 
 XL.- Vigilar que el Tesorero y Cajero otorguen caución para el manejo de los caudales públicos, en cantidad suficiente, a juicio del propio Ayuntamiento.
 
@@ -847,7 +843,9 @@ LXXI.- Las demás que determina este Código o cualquier otra ley y sus reglamen
 
 ARTICULO 49 BIS.- El Ayuntamiento podrá desarrollar anualmente jornadas de Cabildo infantil y juvenil, como espacios de participación ciudadana, deliberación y debate, que permita a niñas, niños y adolescentes de sus municipios, desarrollar el análisis, la exposición, discusión social y política de asuntos de interés en cada región, así como fomentar la integración y gestión de proyectos y propuestas en beneficio de la niñez y la juventud.
 
-Para la realización de estas jornadas, el Ayuntamiento de conformidad con el reglamento municipal respectivo, emitirá una convocatoria pública en la que se establecerán los requisitos, procedimientos e integración del Cabildo infantil y juvenil, mismo que estará integrado por la persona titular de la Presidencia Municipal Juvenil, y por las personas titulares de las sindicaturas y regidurías Juveniles según el número de integrantes del Ayuntamiento correspondiente.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Para la realización de estas jornadas, el Ayuntamiento de conformidad con el reglamento municipal respectivo, emitirá una convocatoria pública en la que se establecerán los requisitos, procedimientos e integración del Cabildo infantil y juvenil, mismo que estará integrado por la persona titular de la Presidencia Municipal Juvenil, y por las personas titulares de la sindicatura y regidurías Juveniles según el número de integrantes del Ayuntamiento correspondiente.
 
 El Ayuntamiento podrá solicitar la colaboración del Instituto Electoral de Tamaulipas y la Secretaría de Educación de Tamaulipas, para la implementación y desarrollo de este ejercicio.
 
@@ -965,7 +963,9 @@ IV.- Ejecutar los acuerdos del Ayuntamiento, aplicando, si fuere necesario, las 
 
 V.- Dar publicidad a las leyes, reglamentos y demás disposiciones de observancia general, concernientes al Municipio, bien sea que procedan de la Federación, del Estado o del Ayuntamiento respectivo.
 
-VI.- Celebrar a nombre del Ayuntamiento todos los actos y contratos necesarios para el despacho de los negocios administrativos y la atención de los servicios públicos municipales. Asimismo, los Síndicos comparecerán en el otorgamiento de contratos o de cualquier otra obligación patrimonial.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VI.- Celebrar a nombre del Ayuntamiento todos los actos y contratos necesarios para el despacho de los negocios administrativos y la atención de los servicios públicos municipales. Asimismo, la persona titular de la sindicatura comparecerá en el otorgamiento de contratos o de cualquier otra obligación patrimonial;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -985,7 +985,9 @@ IX.- Conceder vacaciones y licencias a los servidores públicos municipales en l
 
 X.- Dirigir, vigilar y dictar las medidas necesarias para el buen funcionamiento de los servicios públicos municipales y la aplicación de los reglamentos y bandos municipales correspondientes.
 
-XI.- Practicar visitas a la Tesorería Municipal y demás oficinas que tengan a su cargo el manejo de fondos y valores, informando de su resultado al Ayuntamiento y autorizar, en unión del Síndico o Síndicos, los cortes de caja mensual.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XI.- Practicar visitas a la Tesorería Municipal y demás oficinas que tengan a su cargo el manejo de fondos y valores, informando de su resultado al Ayuntamiento y autorizar, en unión con la persona titular de la sindicatura, los cortes de caja mensual;
 
 XII.- Conceder audiencia al público, dedicando a ello por lo menos tres horas diarias.
 
@@ -1031,9 +1033,11 @@ XXV.- Proponer al cabildo la integración de las comisiones, debiéndose refleja
 
 Para hacer cumplir los acuerdos y medidas dictadas por el Ayuntamiento, podrán los Presidentes Municipales emplear las medidas de apremio establecidas en este Código y en las leyes y reglamentos correspondientes, observándose, en lo conducente, lo dispuesto por el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 57.
 
-El Presidente Municipal, con la aprobación del Ayuntamiento en cada caso, asumirá la representación jurídica del Municipio en los litigios en que éste fuera parte, cuando el Síndico o Síndicos tengan impedimento legal.
+El Presidente Municipal, con la aprobación del Ayuntamiento en cada caso, asumirá la representación jurídica del Municipio en los litigios en que éste fuera parte, cuando la persona titular de la sindicatura tenga impedimento legal.
 
 ###### ARTICULO 58.
 
@@ -1137,11 +1141,9 @@ XIX.- Suplir al Presidente Municipal en sus faltas temporales siempre que sean m
 
 XX.- Las demás que le señalen las Leyes, Reglamentos o el Ayuntamiento.
 
-(REFORMADO, P.O. 26 DE OCTUBRE DE 2006) (F. DE E., P.O. 31 DE OCTUBRE DE 2006)
-
 ###### ARTICULO 61.
 
-Para el ejercicio de las facultades y obligaciones que corresponden a los Síndicos en los municipios donde este Código prevea la existencia de dos de ellos, a ambos corresponden indistintamente las funciones previstas en las fracciones I, IX, X, XIV y XIX del artículo anterior. Al Primer Síndico le competen las funciones señaladas en las fracciones II, segunda parte, III, IV, V, VI, VII, VIII y XV del artículo anterior, y al Segundo Síndico le corresponden las funciones aludidas en las fracciones II, primera parte, XI, XII, XIII, XVI, XVII y XVIII.
+(DEROGADO, P.O. 29 DE MAYO DE 2026)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1181,7 +1183,9 @@ Las Comisiones que se nombren serán:
 
 I.- De Gobierno y Seguridad Pública.
 
-II.- De Hacienda, Presupuesto y Gasto Público que la compondrán los Síndicos.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+II.- De Hacienda, Presupuesto y Gasto Público que la compondrá la persona titular de la sindicatura;
 
 III.- De Salud Pública y Asistencia Social.
 
@@ -1355,7 +1359,9 @@ Son facultades y obligaciones del Tesorero Municipal:
 
 I.- Hacer efectivas las contribuciones y demás ingresos que se causen conforme a la Ley, siendo el responsable directo de su recaudación, depósito y vigilancia.
 
-II.- Efectuar los pagos de salarios, gastos y demás erogaciones conforme al Presupuesto de Egresos aprobado, con la autorización del Presidente y Síndico o Síndicos Municipales. En consecuencia, negará los pagos no previstos en el Presupuesto de Egresos o los que afecten a partidas que estuvieren agotadas.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+II.- Efectuar los pagos de salarios, gastos y demás erogaciones conforme al Presupuesto de Egresos aprobado, con la autorización de la presidencia y sindicatura. En consecuencia, negará los pagos no previstos en el Presupuesto de Egresos o los que afecten a partidas que estuvieren agotadas;
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -1377,9 +1383,9 @@ VIII.- Formular, conservar y registrar un inventario detallado de los bienes mun
 
 IX.- Planear y proyectar oportunamente los presupuestos anuales de ingresos y egresos del Municipio, con base en la información financiera y presupuestaria y en las reglas de disciplina financiera, debiendo contribuir al Balance presupuestario sostenible.
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-X.- Hacer conjuntamente con el Síndico Primero, en los Ayuntamientos integrados con dos Síndicos, las gestiones oportunas en los asuntos de interés para la Hacienda Municipal.
+X.- Hacer conjuntamente con la persona titular de la sindicatura, las gestiones oportunas en los asuntos de interés para la Hacienda Municipal;
 
 XI.- Ejercer las atribuciones que como autoridad fiscal le otorga el Código Fiscal del Estado y demás leyes y reglamentos.
 
@@ -2763,9 +2769,9 @@ Los Ayuntamientos invertirán las aportaciones y los subsidios que les otorguen 
 
 Las Tesorerías Municipales son los órganos competentes de la administración pública municipal para efectuar los cobros y pagos correspondientes, así como el manejo de fondos, sin perjuicio de los convenios celebrados con el Estado.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-En consecuencia, sólo efectuarán los pagos de salarios, gastos y demás erogaciones conforme al presupuesto de egresos aprobado y con el correspondiente tabulador de sueldos publicado, con la autorización del Presidente Municipal y los Síndicos, debiendo negar los pagos no previstos en dichos presupuestos y tabuladores que afecten a partidas que estuvieren agotadas.
+En consecuencia, sólo efectuarán los pagos de salarios, gastos y demás erogaciones conforme al presupuesto de egresos aprobado y con el correspondiente tabulador de sueldos publicado, con la autorización de la persona titular de la presidencia y sindicatura, debiendo negar los pagos no previstos en dichos presupuestos y tabuladores que afecten a partidas que estuvieren agotadas.
 
 ###### ARTICULO 162.
 
@@ -3225,7 +3231,9 @@ b).- Los representantes de las organizaciones mayoritarias de empresarios que ac
 
 c).- Los representantes de instituciones de Educación Superior y Centros de Investigación que operen en el Municipio.
 
-X.- Los Síndicos y Regidores.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+X.- La sindicatura y regidurías.
 
 Por cada miembro propietario, con excepción de las fracciones I, II y VII, se designará un suplente.
 
@@ -7360,3 +7368,49 @@ P.O. 9 DE ABRIL DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1072 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS; DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS; Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA ELECTORAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas a los artículos 25; 30; 79 y 130 del presente Decreto, respecto a la prohibición de nepotismo entrarán en vigor para el Proceso Electoral 2026-2027 y las relativas a la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir del proceso electoral estatal a celebrarse en el año 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+Asimismo, las derogaciones contenidas en los artículos 25 y 130 del presente Decreto serán aplicables a partir del proceso electoral estatal a celebrarse en el año 2030.
+
+###### ARTÍCULO TERCERO.
+
+El Tribunal Electoral del Estado de Tamaulipas, así como el Instituto Electoral del Estado de Tamaulipas deberán adecuar sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento del presente Decreto.
+
+El Congreso del Estado, en el ámbito de su competencia, garantizará que los presupuestos se ajusten a lo previsto en los artículos 20 y 25 Bis, del presente Decreto, por lo que realizarán en cada ejercicio fiscal los ajustes necesarios a los presupuestos que integren, previo a su aprobación.
+
+###### ARTÍCULO CUARTO.
+
+La integración de los Ayuntamientos establecida en lo dispuesto en el artículo 130 constitucional surtirá efectos a partir de la integración resultante del Proceso Electoral 2026-2027 y subsecuentes.
+
+Los Ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con un número de regidurías menor a quince, conservarán su integración actual.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos públicos que resulten como economías o ahorros en los presupuestos anuales del Estado, derivado de la reducción en la integración de los Ayuntamientos conforme al artículo 130 del presente Decreto, quedarán en el patrimonio de la hacienda pública de cada municipio.
+
+###### ARTÍCULO SEXTO.
+
+El Congreso del Estado no podrá autorizar, aprobar o ejercer para sí mismo incrementos presupuestarios reales dentro del límite establecido en el artículo 25 BIS del presente Decreto, respecto del monto aprobado para el ejercicio fiscal 2026, ni incrementar dicha proporción respecto del presupuesto de egresos del Estado, en los ejercicios fiscales subsecuentes.
+
+El monto del presupuesto anual del Congreso del Estado únicamente podrá actualizarse conforme a la inflación anual. No podrá aprobar ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas o cualquier otro mecanismo que tenga por objeto o efecto incrementar directamente su presupuesto por encima del límite previsto en el presente transitorio.
+
+El Congreso del Estado, así como los órganos internos de control u homólogos competentes, establecerán mecanismos institucionales de control, disciplina presupuestaria y responsabilidad administrativa necesarios para asegurar su cumplimiento. Cualquier disposición, determinación presupuestaria o acto de autoridad que contravenga lo establecido en el presente transitorio será nulo de pleno derecho.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las reformas del presente Decreto respecto a la prohibición de nepotismo entrarán en vigor para el Proceso Electoral 2026-2027 y las relativas a la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir del proceso electoral estatal a celebrarse en el año 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
