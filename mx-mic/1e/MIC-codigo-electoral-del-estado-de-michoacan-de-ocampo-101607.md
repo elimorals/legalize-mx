@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2026-05-27"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,299 +21,621 @@ state: "MIC"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO PARA LA EXPLOTACION DE JUEGOS ELECTRICOS Y FUTBOLITOS EN EL MUNICIPIO DE APODACA, NUEVO LEON
+CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 18 de abril de 1994.
+Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
-Con fundamento en el artículo 26 fracción VII y artículo 29 fracción IV de la Ley Orgánica de Administración Pública para los Municipios del Estado de Nuevo León, el C. C.P. Raymundo Flores Elizondo, Presidente Municipal de Apodaca, N. L., a sus habitantes hace saber:
+SALVADOR JARA GUERRERO, Gobernador Substituto del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
-Que el H. Cabildo en sesión ordinaria celebrada el día 26 de Octubre de 1993, se acordó la creación, formulación, aprobación y publicación del Reglamento de:
+El H. Congreso del Estado, se ha servido dirigirme el siguiente:
 
-JUEGOS ELECTRONICOS Y FUTBOLITOS
+DECRETO NÚMERO 323
 
-Damos Fe de quienes en ella intervinieron
+ÚNICO.- Se aprueba (sic) Código Electoral del Estado de Michoacán de Ocampo, para quedar como sigue:
 
-C. Lic. Roel Guajardo Cantú Secretario del R. Aytto.
-
-C. C.P. Jesús Rafael García Garza Tesorero Municipal
-
-C. Lic. César Garza Villarreal Primer Regidor
-
-C. Aurelia Zavala Guevara Segunda Regidora
-
-C. Laurentina Villarreal Gutiérrez Tercera Regidora
-
-C. Estardo Guajardo Flores Cuarto Regidor
-
-C. Pedro Guajardo Guajardo Quinto Regidor
-
-C. Guadalupe González González Sexto Regidor
-
-C. Lic. Silvia M. González Martínez Séptima Regidora
-
-C. Luis Pasquel Rodríguez Octavo Regidor
-
-C. Lic. Macario Rodríguez Rivera Noveno Regidor
-
-C. Guadalupe Velázquez Sifuentes Decimo Regidor
-
-C. José Trinidad Dorantes de la Rosa Onceavo Regidor
-
-C. Horacio Bazán Cadena Síndico Primero
-
-C. Lic. Oscar Jaime Treviño Villarreal Síndico Segundo
-
-SUFRAGIO EFECTIVO NO REELECCION
-
-Apodaca, N. L. a 10 de Enero de 1994
-
-C.P. RAYMUNDO FLORES ELIZONDO
-
-Presidente Municipal
-
-REGLAMENTO PARA LA EXPLOTACION DE JUEGOS ELECTRICOS Y FUTBOLITOS EN EL MUNICIPIO DE APODACA, NUEVO LEON
+CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 # LIBRO PRIMERO. PREELIMINARES (SIC)
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO PRIMERO. NATURALEZA Y COMPETENCIA
 
-###### ARTICULO 1.
+###### ARTÍCULO 1.
 
-El presente Reglamento se expide con fundamento en los artículos 160 y 161 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León y tiene por objeto establecer las condiciones para el establecimiento, operación y vigilancia de Juegos Electrónicos y Futbolitos, en este Municipio, siendo su observancia obligatoria por contener disposiciones de orden público e interés social.
+Las disposiciones de este Código son de orden público y de observancia general en el Estado Libre y Soberano de Michoacán de Ocampo y reglamenta las normas constitucionales y generales relativas a:
 
-###### ARTICULO 2.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Los Órganos Oficiales encargados de vigilar el cumplimiento de las disposiciones de este Reglamento son:
+I. La función de organizar las elecciones de los integrantes de los poderes Legislativo, Ejecutivo y Judicial, así como de los ayuntamientos;
 
-a) El H. Cabildo.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-b) El C. Presidente Municipal.
+II. La organización, funcionamiento, derechos, obligaciones, prerrogativas y demás acciones relativas a los partidos políticos;
 
-c) El C. Secretario de Ayuntamiento.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-d) El C. Tesorero Municipal.
+III. El ejercicio de los derechos y obligaciones político-electorales de los ciudadanos;
 
-e) El C. Jefe de Inspectores.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-###### ARTICULO 3.
+IV. Los Mecanismos de Participación Ciudadana, establecidos en la Ley de la materia;
 
-Las personas físicas o morales que sean propietarios de establecimientos en los que se exploten Juegos Electrónicos o Futbolitos, tienen la obligación de contar con el permiso correspondiente expedido por el R. Ayuntamiento, antes de iniciar sus actividades.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-El permiso deberá ser refrendado dentro de los tres primeros meses del año, debiendo efectuarse para la expedición y refrendo el pago de los derechos correspondientes.
+V. Los derechos políticos de autonomía y autogobierno indígena de los pueblos y comunidades indígenas de Michoacán; y,
 
-El original de dicho permiso deberán exhibirlo en un lugar visible de su establecimiento y presentarlo ante las Autoridades Municipales cuantas veces fuera requerido para ello.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
 
-### CAPITULO II. DE LOS PERMISOS Y DE LAS OBLIGACIONES DE SUS TITULARES
+VI. Promover la cultura de la no violencia y la no discriminación dentro del ámbito de su competencia, principalmente en lo que refiere a las mujeres y los grupos de atención prioritaria.
 
-###### ARTICULO 4.
+Además de lo anterior, establece y armoniza las disposiciones aplicables en materia de instituciones y procedimientos electorales entre el Estado y la Federación, así como la relación entre el Instituto Nacional Electoral y el Instituto Electoral de Michoacán.
 
-Los permisos no son transferibles. En caso de cambio de domicilio del establecimiento, deberá solicitarse previamente la autorización correspondiente al R. Ayuntamiento, quien podrá negarlo si no se satisfacen los requisitos previstos en este Reglamento, o demás disposiciones aplicables.
+###### ARTÍCULO 2.
 
-La Autoridad Municipal, al otorgar el permiso correspondiente, deberá adherir al mismo una fotografía del titular, en caso de tratarse de personas físicas y del encargado del negocio si es persona moral, la cual será cancelada con el sello de la Dirección de Tesorería Municipal.
+La aplicación de las disposiciones de este Código corresponde al Instituto, al Tribunal y al Congreso, en sus respectivos ámbitos de competencia.
 
-###### ARTICULO 5.
+Las autoridades estatales y municipales, están obligadas a prestar apoyo y colaboración a los organismos electorales previstos en la Constitución y en este Código.
 
-Para determinar la ubicación de los establecimientos dedicados a la explotación de Juegos Electrónicos o Futbolitos, se tomara en cuenta lo siguiente:
+La interpretación de este Código se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución General.
 
-A) Que no se ubiquen en un radio de 300 m2. de cualquier Centro Educativo a excepción de 200 mts. de plazas públicas que se han constituido en áreas comerciales.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
 
-B) Que se instalen en locales cerrados, separados de la entrada a la casa habitación, y que cuenten con servicios sanitarios, ventilación, iluminación, condiciones de salubridad e higiene y que se dediquen únicamente al giro de video-juegos y futbolitos.
+###### ARTÍCULO 3.
 
-C) Que no existan en un radio de 100 mts., billares, cantinas o centros de vicio.
+Para los efectos de la norma electoral, se entenderá por:
 
-D) De que no exista otro negocio del mismo giro en un radio de 300 mts.
+I. Constitución General: Constitución Política de los Estados Unidos Mexicanos;
 
-E) Los negocios de este giro deben de contar con un máximo de 6 máquinas de video-juego en un espacio de 6 x 4 mts.
+II. Constitución Local: Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
 
-###### ARTICULO 6.
+III. Código: Código Electoral del Estado de Michoacán de Ocampo;
 
-La apertura y cierre de los establecimientos dedicados a los giros que se regulan en este Reglamento, deberán sujetarse al siguiente horario:
+IV. Congreso: Congreso del Estado de Michoacán de Ocampo;
 
-Lunes a Domingo de las 10:00 a las 20:00 horas, sujeto a disposición de la autoridad los días festivos y obligatorios en la Ley.
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
-###### ARTICULO 7.
+V. Defensoría: La Defensoría Jurídica para la Protección de los Derechos Político-Electorales en Michoacán;
 
-El Presidente Municipal podrá autorizar, previa solicitud por escrito, la ampliación del horario establecido en el Artículo anterior, tratándose de Ferias, Exposiciones, Kermesses o eventos especiales similares.
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
 
-###### ARTICULO 8.
+VI. Discriminación por motivos de discapacidad: Se entenderá cualquier distinción, exclusión o restricción por motivos de discapacidad, que tenga el propósito de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio en igualdad de condiciones de los derechos Político Electorales;
 
-Serán días de cierre obligatorio los que determine la Autoridad Municipal, lo cual se anunciará previamente.
+VII. Estado: Estado Libre y Soberano de Michoacán de Ocampo;
 
-### CAPITULO III. DE LA UBICACIÓN Y DE LOS HORARIOS
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
 
-###### ARTICULO 9.
+VII Bis. Grupos de Atención Prioritaria: personas en situación de vulnerabilidad, desigualdad estructural, exclusión o discriminación histórica, que requieren medidas especiales;
 
-Queda prohibido para los propietarios de los establecimientos donde se exploten los giros a que se refiere este Reglamento:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-I. Iniciar la explotación de los giros antes mencionados, sin contar con el permiso correspondiente otorgado por la Autoridad Municipal.
+VIII. Influencers: Para efectos de este Código, se entiende por influencer a la persona física o moral que, a través de redes sociales o plataformas digitales, realiza de manera sistemática y continua publicaciones dirigidas a una audiencia de al menos cien mil seguidores o suscriptores, o cuyas publicaciones, en promedio, generan un nivel de exposición orgánica o de interacción que supere las cien mil impresiones, vistas o alcances mensuales, de manera verificable y sostenida.
 
-II. Vender o permitir la venta o consumo de cigarros, bebidas alcohólicas o de otras substancias con efectos psicotrópicos.
+Esta definición no será aplicable a expresiones ciudadanas espontáneas, no remuneradas, que formen parte del ejercicio del derecho a la libertad de expresión; ni tampoco a contenidos de análisis, crítica, opinión, sátira, investigación o trabajo periodístico, los cuales no podrán ser objeto de sanción alguna, conforme a los principios constitucionales de libertad de pensamiento y prensa;
 
-III. Instalar los aparatos electrónicos o futbolitos, en lugares abiertos, o en la vía pública.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-IV. Provocar ruido inmoderado por el uso de los Juegos Electrónicos o Futbolitos.
+IX. Instituto: Instituto Electoral de Michoacán;
 
-V. Utilizar Juegos Electrónicos que contengan imágenes pornográficas, o reñidas con la moral y las buenas costumbres.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-VI. Exhibir en el local cuando se instalen estos Juegos, cualquier imagen de contenido pornográfico.
+X. Instituto Nacional: Instituto Nacional Electoral;
 
-VII. Convertir el establecimiento en el lugar de reunión de vagos pandilleros, desertores de escuelas o cualquier otro tipo de personas sin oficio.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-VIII. Permitir que se enciendan fogatas o portar armas de cualquier tipo en el local.
+XI. Ley General: Ley General de Instituciones y Procedimientos Electorales;
 
-IX. La entrada de jóvenes con libros o con uniforme escolar.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-###### ARTICULO 10.
+XII. Ley de Partidos: Ley General de Partidos Políticos;
 
-Los Organos Oficiales que se mencionan en el artículo 2 de este Reglamento, por conducto del C. Tesorero Municipal o a través del Jefe de Inspectores, mantendrán la vigilancia para el debido cumplimiento de las disposiciones de este Reglamento.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-###### ARTICULO 11.
+XIII. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
 
-Son auxiliares en la vigilancia del cumplimiento de las disposiciones de este Reglamento:
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-a) El C. Director de Policía Municipal.
+XIV. Paridad de género: Igualdad política entre hombres y mujeres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
 
-b) Inspectores de Autorizaciones y permisos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-c) Inspectores de Desarrollo Urbano.
+XV. Promoción digital: Para efectos de este Código, se entiende por promoción digital segmentada o alcance potencial amplio, a la difusión de contenidos a través de redes sociales o plataformas digitales que utilicen herramientas de promoción pagada, segmentación por audiencia, algoritmos de amplificación o cualquier otro mecanismo técnico o económico que permita dirigir el mensaje a sectores específicos de la población o multiplicar su visibilidad más allá del alcance orgánico del perfil o página emisora;
 
-e) Los Jueces Auxiliares y las Juntas de Mejoras.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-###### ARTICULO 12.
+XVI. Tribunal: Tribunal Electoral del Estado de Michoacán;
 
-Son infracciones al presente Reglamento:
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-I. La violación de cualquiera de las prohibiciones a que se refiere el Artículo 9 de este Reglamento.
+XVII. UMA: Unidad de Medida y Actualización;
 
-II. No contar con el permiso previo otorgado por la Autoridad, al iniciar sus operaciones.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-III. No respetar el horario establecido.
+XVIII. Urna electrónica: medio electrónico o cualquier otra tecnología de recepción del sufragio, en el cual el emitente del voto deposita o expresa su voluntad;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XIX. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XX. Violencia digital: es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia.
+
+Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+
+Para efectos del presente Código se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXI. Poder Judicial: Poder Judicial del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXII. Ley de Justicia: Ley de Justicia en Materia Electoral y de Participación Ciudadana del Estado de Michoacán de Ocampo; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXIII. Ley General: Ley General del Sistema de Medios de Impugnación en Materia Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
+
+ARTÍCULO 3 BIS. Se consideran como conductas constitutivas de violencia política contra las mujeres en razón de género, las siguientes:
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+I. Imponer la realización de actividades distintas a las atribuciones inherentes al cargo o función;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+II. Restringir o limitar injustificadamente la realización de acciones o actividades inherentes a su cargo o función;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+III. Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+IV. Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+V. Difundir cualquier tipo de información y/o material con la finalidad de coartar, inhibir, impedir o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+VI. Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido nombrada o elegida;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+
+VII. Impedir o restringir su reincorporación al cargo o función en los casos de licencia o permiso conforme a las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+VIII. Impedir u obstaculizar los derechos de asociación y afiliación a un partido;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+IX. Dañar en cualquier forma el desarrollo de la campaña electoral en la que participe una mujer, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+X. Cuando se acrediten aquellas acciones que lesionen o dañen la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XI. Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XII. Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XIII. Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XIV. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XV. Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, con el que induzca al incorrecto ejercicio de sus atribuciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XVI. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XVII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XVIII. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XIX. Divulgar imágenes, mensajes o información privada de una mujer precandidata, candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XX. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la precandidatura, candidatura o al cargo para el que fue electa o designada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXI. Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXII. Restringir los derechos políticos de las mujeres con base en la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXIII. Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXIV. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXV. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXVI. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo de elección popular que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXVII. Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXVIII. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos, limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXIX. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXX. Cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales, correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como, daño moral a ellas y a su familia que se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXXI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+### CAPÍTULO SEGUNDO. DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
+
+###### ARTÍCULO 4.
+
+Votar en las elecciones constituye un derecho y una obligación que se ejerce para integrar órganos del Estado de elección popular. También es derecho de la ciudadanía y obligación para los partidos políticos la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular; así como brindar a las mujeres y grupos vulnerables las condiciones propicias para ejercer libremente sus derechos político-electorales; además de prevenir, atender, sancionar y en su caso erradicar la violencia política por razones de género.
+
+El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores.
+
+Es derecho de los ciudadanos ser votado para todos los puestos de elección popular, teniendo las calidades que establece la ley y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine este Código.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+Aquellas personas que vivan con una discapacidad que las imposibilite para emitir su derecho al voto, podrán ser asistidas por una persona de su confianza, siempre y cuando no sea representante de casilla.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+
+Los derechos político-electorales, se ejercerán libres de violencia política en razón de género, sin discriminación por origen étnico o nacional, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+Las personas residentes en el Estado de Michoacán incapacitados físicamente para acudir a una casilla y que hayan realizado su trámite de inscripción al Registro Federal de Electores de conformidad con lo establecido por el artículo 141, numeral 1 de la Constitución Federal, así como personas cuidadoras primarias con credencial de elector, tendrán a salvo sus derechos para ejercer su voto de conformidad con los procedimientos establecidos por el Instituto Nacional.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+Las personas que se encuentren sujetas a prisión preventiva sin sentencia firme tienen derecho a emitir su voto en las elecciones para la gubernatura, diputaciones locales, Ayuntamientos, cargos del Poder Judicial del Estado de Michoacán, así como a Consultas Populares y en los demás procesos de participación ciudadana previstos en la ley, de conformidad con los procedimientos establecidos por el Instituto Nacional.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+###### ARTÍCULO 5.
+
+Es derecho y obligación de los ciudadanos, votar en las consultas populares sobre temas de trascendencia, en los términos que determine la ley de la materia y en los demás procesos de participación ciudadana que estén previstos en la legislación correspondiente, conforme a los requisitos y procedimientos que se establecen en la Ley local respectiva y el Reglamento de la materia.
+
+###### ARTÍCULO 6.
+
+Votar en las elecciones es una prerrogativa, que se suspende:
+
+I. Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones establecidas en el artículo 36 de la Constitución General;
+
+> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+
+II. Por pérdida de la nacionalidad mexicana por naturalización o pérdida de la ciudadanía mexicana, de acuerdo con las causales establecidas en el artículo 37 de la Constitución General;
+
+III. Por estar extinguiendo pena corporal;
+
+IV. Por ser declarado ebrio consuetudinario en los términos de la ley;
+
+V. Por estar sustraído a la acción de la justicia; y,
+
+VI. Por condena en sentencia judicial que así lo disponga que haya causado ejecutoria.
+
+Para ser electo se requiere no estar en ninguno de los supuestos anteriores.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+###### ARTÍCULO 7.
+
+Es derecho exclusivo de los ciudadanos participar como observadores electorales de los actos de preparación y desarrollo del proceso electoral, de todos los actos de la jornada electoral, que se realicen de conformidad con la legislación correspondiente, en la forma, términos y bases que determine la Ley General y demás normatividad aplicable.
+
+La observación electoral podrá realizarse siempre y cuando se cumplan los requisitos correspondientes, pudiendo aplicarse en cualquier ámbito territorial de la entidad, respecto de todas y cada una de las actividades del proceso electoral, identificándose necesariamente con los gafetes y acreditaciones que certifiquen la personalidad de observadores electorales, que haya expedido el órgano electoral correspondiente.
+
+###### ARTÍCULO 8.
+
+Son obligaciones de los ciudadanos:
+
+I. Inscribirse en el padrón electoral y tramitar su credencial para votar;
+
+II. Votar en la casilla de la sección electoral que corresponda a su domicilio, salvo los casos de excepción expresamente señalados por este Código;
+
+III. Integrar las mesas directivas de casilla desempeñando las funciones correspondientes en forma gratuita, en los términos de la Ley General y este Código;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+
+IV. Participar en los mecanismos de participación ciudadana establecidos en la Constitución Local, en la Ley de Mecanismos de Participación Ciudadana del Estado de Michoacán de Ocampo y en el presente Código;
+
+V. Ocupar los cargos de elección popular; y,
+
+VI. Las demás que señale este Código y otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+
+El ejercicio de los derechos y el cumplimiento de las obligaciones de la ciudadanía en el ámbito político electoral, se regirán por el principio de la no violencia y la no discriminación.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO TERCERO. DERECHO DE RÉPLICA
+
+###### ARTÍCULO 9.
+
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
+
+###### ARTÍCULO 10.
+
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
+
+###### ARTÍCULO 11.
+
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
+
+###### ARTÍCULO 12.
+
+(DEROGADO, P.O. 1 DE JUNIO DE 2017)
 
 ## TÍTULO SEGUNDO. DE LA ELECCIÓN DE LOS ÓRGANOS DEL ESTADO
 
-### CAPITULO IV. DE LAS PROHIBICIONES EN GENERAL
+### CAPÍTULO PRIMERO. DE LAS ELECCIONES
 
-###### ARTICULO 13.
+###### ARTÍCULO 13.
 
-Las infracciones al presente Reglamento serán calificadas y sancionadas por el C. Tesorero Municipal de acuerdo a los informes o reportes de la Dirección de Autorizaciones y Permisos, o auxiliares en la vigilancia en los términos de lo dispuesto en el presente Reglamento.
+Para ser electo a los cargos de elección popular a que se refiere este Código, se requiere cumplir los requisitos que para cada caso señala la Constitución General, la Constitución Local, la Ley General, así como estar inscrito en el Registro de Electores y contar con credencial para votar con domicilio en el Estado.
 
-###### ARTICULO 14.
+Los integrantes y funcionarios de los órganos electorales que se mencionan enseguida, no podrán contender para los cargos de elección regulados por este Código, a menos que se separen de su función un año antes del día de la elección:
 
-Por la comisión de las infracciones señaladas en el Artículo 12 del presente Reglamento, fracciones I, II, III, se sancionará al propietario del establecimiento con:
+I. Los magistrados y secretarios del Tribunal; y,
 
-I. Multa.
+II. Los miembros con derecho a voto del Consejo General del Instituto.
 
-II. Clausura temporal.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
-III. Clausura definitiva.
+Los directores ejecutivos del Instituto Electoral de Michoacán y los integrantes de los Órganos Desconcentrados de los consejos electorales de comités distritales o municipales, no podrán ser postulados a cargos de elección popular para el proceso electoral en el que actúan.
 
-###### ARTICULO 15.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-La sanción de multa se aplicará de la siguiente manera.
+A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral en el Estado y sus municipios, con la excepción de los casos de las candidaturas a diputaciones, por el principio de mayoría relativa que sean postuladas a la vez por el principio de representación proporcional, y de las candidaturas postuladas en las planillas para integrar los ayuntamientos, que serán a la vez candidaturas a regidurías por el principio de representación proporcional, de acuerdo con lo señalado en este Código.
 
-A) Por violar el horario establecido, de 10 a 100 salarios mínimos generales diarios vigentes en esta área geográfica.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
-B) Por iniciar operaciones sin contar con el permiso, de 1 a 50 (sic) el salario mínimo generales (sic) vigente en esta área geográfica y clausura temporal.
+Tampoco podrá ser candidato para un cargo estatal o municipal de elección popular y simultáneamente para un cargo de elección federal. En este supuesto, si el registro para el cargo de la elección estatal o municipal ya estuviere hecho, se procederá a la cancelación automática del registro respectivo.
 
-C) Por vender o permitir la venta o consumo de cigarros, bebidas alcohólicas o cualquier otra sustancia con efectos psicotrópicos, 50 salarios diarios mínimos generales vigentes en esta área geografía y clausura sin perjuicio de la responsabilidad penal.
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2022)</small>
 
-D) Por instalar Juegos Electrónicos o futbolitos en la vía pública, de 20 a 100 salarios mínimos en esta área geográfica.
+ARTÍCULO 13 BIS. No podrán ser postulados como aspirantes a cargos de elección popular quienes hayan sido condenados o sancionados mediante resolución o sentencia firme en los siguientes supuestos:
 
-E) Por permitir ruido inmoderado, al hacer uso de los Juegos Electrónicos o Futbolitos, 10 salarios mínimos diarios vigentes en esta área geográfica.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-F) Por utilizar en el establecimiento aparatos o juegos que contengan imágenes pornográficas o reñidas con las buenas costumbres, 50 salarios mínimos diarios vigentes en esta área geográfica.
+I. Por violencias contra las mujeres, niñas o las adolescentes, en cualquiera de sus tipos y modalidades, violencia familiar, violencia vicaria y violencia política contra las mujeres en razón de género; en el ámbito privado o público o quien se encuentre vigente en algún padrón o registro de personas sancionadas por violencia;
 
-G) Por exhibir en el local donde se encuentra el establecimiento imágenes de contenido pornográfico, erótico o reñido con las buenas costumbres 50 veces el salario mínimo general diario vigente en esta área geográfica y, en caso de continuar, clausurar.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-H) Por permitir que el establecimiento se convierte (sic) en lugar de reunión de vagos, pandilleros o desertores de escuelas, 50 veces el salario mínimo vigente en esta área geográfica.
+II. Por delitos dolosos;
 
-###### ARTICULO 16.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-Procederá la clausura temporal o difinitiva (sic) de los establecimientos que se dediquen a la explotación de Juegos Electrónicos y Futbolitos, en los siguientes casos:
+III. Por ser declarada persona deudora alimentaria, en términos de la normatividad aplicable, incluida su inscripción en el Registro Nacional de Obligaciones Alimentarias; o,
 
-I. Cuando los propietarios de establecimientos que se dediquen a la explotación de Juegos Electrónicos y Futbolitos, inicien sus actividades sin haber solicitado y obtenido el permiso de la Autoridad Municipal correspondiente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
 
-II. Cuando la ubicación del establecimiento o por movimiento de las actividades que se realicen en esta, afecten el orden, la tranquilidad, seguridad y salud de la población.
+IV. Haber sido condenados mediante sentencia firme por delitos vinculados con hechos de corrupción, o que cuenten con sanción firme de inhabilitación para desempeñar empleo, cargo o comisión en el servicio público derivada de faltas administrativas graves, mientras subsistan los efectos de dicha sentencia o sanción, emitida mediante resolución de autoridad competente.
 
-III. La calidad de reincidente del infractor, en un período de seis meses.
+Cumplida la sentencia o la sanción que se haya aplicado en cada caso, las personas podrán ser postuladas para cargos de elección popular conforme lo establecido en la normatividad aplicable.
 
-IV. Por quejas fundadas de los ciudadanos.
+Atendiendo al principio de presunción de inocencia, no se considerará a las personas estar en los supuestos mencionados por manifestaciones públicas o privadas, escritas o verbales por cualquier medio que sea.
 
-V. Cuando en los establecimientos a que se viene haciendo referencia se ataquen a la moral o se provoquen escándalos.
+Cualquier persona física o moral, podrá hacer del conocimiento al Instituto mediante denuncia con los elementos de prueba de aquella o aquellas personas que se encuentran comprendidas dentro de los supuestos señalados en las fracciones del presente artículo.
 
-###### ARTICULO 17.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-En el procedimiento de clausura preventiva o definitiva, el personal comisionado para su ejecución por la Autoridad Municipal correspondiente, procederá a levantar acta detallada de la diligencia, siguiendo para ella los lineamientos establecidos por la Autoridad Municipal.
+Los aspirantes a cargos de elección popular, podrán acreditar no encontrarse en ninguno de los supuestos en los términos que determine la autoridad o la legislación aplicable; en caso de la fracción III, el Instituto deberá verificar que los aspirantes a cargos de elección popular no se encuentren inscritos en el Registro Nacional de Obligaciones Alimentarias como deudores alimentarios.
 
-###### ARTICULO 18.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
 
-En los casos de clausura definitiva quedará sin efecto y cancelado el permiso que hubiera otorgado la Autoridad Municipal correspondiente.
+En los supuestos de este artículo, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, en términos de lo dispuesto por el artículo 38, de la Constitución Política de los Estados Unidos Mexicanos.
 
-### CAPITULO V. DE LA VIGILANCIA PARA EL CUMPLIMIENTO DE LAS DISPOSICIONES DE ESTE REGLAMENTO
+###### ARTÍCULO 14.
 
-###### ARTICULO 19.
+El Consejo General expedirá convocatoria para las elecciones ordinarias por lo menos ciento cincuenta días antes de la fecha en que deban efectuarse.
 
-Contra los actos y resoluciones de la Autoridad Municipal dictados con motivo de la aplicación de este Reglamento, los interesados podrán interponer el Recurso de Inconformidad.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-### CAPITULO VI. DE LAS INFRACCIONES
+Toda convocatoria a elecciones se publicará en el Periódico Oficial y se le dará amplia difusión a través de los medios de comunicación, así como en el sitio web oficial y las redes sociales institucionales del Instituto, además deberán de ser accesibles para que las personas con discapacidad puedan conocer su contenido.
 
-###### ARTICULO 20.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
 
-El recurso deberá interponerse por escrito y firmado por el interesado o por su representante legal debidamente acreditado, ante la Autoridad Municipal que hubiera dictado la resolución que se conteste.
+A fin de garantizar los derechos de los pueblos y comunidades indígenas, el Instituto deberá asegurar la traducción y difusión de dichas convocatorias en las lenguas indígenas predominantes en las regiones correspondientes del Estado, utilizando para ello medios digitales, radios comunitarias y formatos accesibles que garanticen su conocimiento efectivo por parte de la ciudadanía hablante de dichas lenguas.
 
-### CAPITULO VII. DE LAS SANCIONES
+###### ARTÍCULO 15.
 
-###### ARTICULO 21.
+En elecciones ordinarias, el Consejo General podrá acordar la ampliación de los plazos que señala este Código, cuando haya imposibilidad material para cumplirlos.
 
-El recurso deberá contener:
+En el caso de las elecciones extraordinarias, el Consejo General podrá acordar la reducción de los plazos que señala este Código.
 
-I. Nombre y domicilio de quien lo promueve y en su caso, de quien promueva en su representación.
+###### ARTÍCULO 16.
 
-II. La mención precisa del acto de la Autoridad que motive la interposición del Recurso, debiéndose anexar copia del acta o resolución impugnada.
+Cuando se declare empate entre los candidatos que hayan obtenido la más alta votación y una vez resueltos los medios de impugnación correspondientes, se convocará a elecciones extraordinarias.
 
-III. Los conceptos de violación que a su juicio se le hayan causado.
+###### ARTÍCULO 17.
 
-IV. Las pruebas que ofrezca el recurrente, en la inteligencia que no será admisible, la confesión por posicionarse de la Autoridad.
+Las elecciones ordinarias y extraordinarias se realizarán conforme a lo dispuesto en esta legislación y demás leyes aplicables.
 
-V. Lugar y fecha de la promoción.
+###### ARTÍCULO 18.
 
-VI. Firma del promovente.
+Las elecciones extraordinarias para integrar ayuntamientos serán convocadas por el Instituto, dentro de los treinta días naturales siguientes a aquél en que quede firme la declaración de nulidad de la elección.
+
+El Congreso convocará a elecciones extraordinarias de gobernador y diputados por el principio de mayoría relativa, por nulidad de la elección respectiva, por inelegibilidad del candidato a Gobernador o de la fórmula de candidatos a diputados de mayoría relativa, o por las causas previstas en los artículos 30 y 54 de la Constitución Local, dentro de los siguientes treinta días naturales a que ocurra el supuesto correspondiente.
+
+Para las elecciones extraordinarias de Gobernador, de diputados o de ayuntamientos se estará a lo que dispone la Constitución Local, este Código y demás leyes aplicables, debiéndose celebrar a más tardar ciento cincuenta días después de expedida la convocatoria respectiva.
+
+(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Las vacantes de diputaciones POR AMBOS PRINCIPIOS y regidurías de representación proporcional, serán cubiertas por acuerdo del Congreso de la lista plurinominal o planilla que hubiese presentado el mismo partido respetando el orden de prelación de la lista, para lo cual contará con un término hasta de treinta días naturales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+
+En el caso de elección consecutiva en donde el suplente no asuma el cargo se atenderá a lo dispuesto en el párrafo anterior.
+
+Las vacantes de Presidente Municipal, síndico y regidores de mayoría relativa, generadas por inelegibilidad de las respectivas fórmulas de candidatos, se cubrirán por el Congreso, de acuerdo a lo establecido en el artículo 44 fracción XX de la Constitución Local.
+
+La convocatoria expedida para la celebración de elecciones extraordinarias, no podrá restringir los derechos y prerrogativas a los ciudadanos y a partidos políticos, ni alterar los procedimientos y formalidades establecidas. En la misma, se fijarán los plazos y términos de las etapas y actos correspondientes al proceso extraordinario.
+
+Los ciudadanos que resulten electos entrarán a ejercer su cargo a más tardar cuarenta y cinco días después de la elección.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO SEGUNDO. DE LA ELECCIÓN DEL PODER LEGISLATIVO
+
+###### ARTÍCULO 19.
+
+El Poder Legislativo se renovará cada tres años, debiendo celebrarse la elección en la fecha dispuesta por la Constitución Local.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Para la elección de diputados se dividirá el territorio del Estado en veinticuatro distritos electores, en cada uno de los cuales se elegirá un diputado por el principio de mayoría relativa. Con base en los resultados de la votación estatal válida emitida se elegirán dieciséis diputados por el principio de representación proporcional.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+
+Los diputados podrán ser electos de manera consecutiva para el mismo cargo hasta por cuatro periodos, en los términos que establecen la Constitución General y la Constitución Local.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
+Para participar en una elección consecutiva, los diputados que representen a un partido político deberán haber sido electos en los procesos internos correspondientes. En el caso de los de origen independiente no le serán exigibles las firmas de respaldo ciudadano para obtener su registro como candidato, salvo que no hubieren sido electos inicialmente por una candidatura independiente, y por ende, no hubiesen obtenido el respaldo ciudadano correspondiente.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
+
+(REUBICADO, P.O. 1 DE JUNIO DE 2017)
+
+Por cada Diputado propietario se elegirá un suplente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 2017)</small>
+
+Para efectos de la elección consecutiva a los suplentes se les contabilizará el periodo en caso de entrar en funciones.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JUNIO DE 2017)</small>
+
+### CAPÍTULO TERCERO. DE LA ELECCIÓN DEL PODER EJECUTIVO
+
+###### ARTÍCULO 20.
+
+El Poder Ejecutivo se renovará cada seis años. La elección para renovarlo se celebrará en la fecha dispuesta por la Constitución Local.
+
+### CAPÍTULO CUARTO. DE LA ELECCIÓN DE AYUNTAMIENTOS
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+###### ARTÍCULO 21.
+
+Los ayuntamientos se renovarán cada tres años.
+
+La elección para renovarlos se realizará en la fecha dispuesta por la Constitución Local.
+
+En cada municipio del Estado se elegirá el número de regidurías que determine la ley orgánica municipal.
+
+Para la asignación de regidurías por el principio de representación proporcional, cada partido político, candidatura común, coalición o candidatura independiente integrará su lista a partir de la planilla registrada para la elección de mayoría relativa del Ayuntamiento.
+
+La lista iniciará con la persona candidata a la Presidencia Municipal y continuará conforme al orden de prelación de las candidaturas registradas en la planilla respectiva.
+
+La suplencia de las regidurías asignadas por el principio de representación proporcional se realizará conforme al orden de prelación de las personas propietarias registradas en la planilla de mayoría relativa.
+
+La persona candidata a la Presidencia Municipal carecerá de suplente; por tanto, la suplencia de la primera regiduría de representación proporcional corresponderá a la persona suplente de regiduría que siga en el orden de la planilla y que no hubiera sido asignada, respetando el principio de paridad de género.
+
+Las candidaturas a la Sindicatura, así como a la primera regiduría y subsecuentes de mayoría relativa, conservarán a sus respectivas personas suplentes registradas en la planilla correspondiente.
 
 # LIBRO SEGUNDO. ÓRGANOS ELECTORALES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO VIII. DE LAS MULTAS
+### CAPÍTULO PRIMERO. DE LA FUNCIÓN ELECTORAL
 
-###### ARTICULO 22.
+###### ARTÍCULO 22.
 
-El recurso se interpondrá dentro del término de cinco días hábiles, contados a partir de la fecha en que se haya notificado la resolución imugnada (sic).
+Las autoridades estatales y municipales están obligadas a proporcionar a los órganos electorales, a petición de los presidentes respectivos, los informes, certificaciones y el auxilio de la fuerza pública, para el cumplimiento de sus funciones y la ejecución de sus resoluciones.
 
-###### ARTICULO 23.
+Las personas físicas y morales que con motivo de sus actividades, cuenten con información de interés de los órganos electorales para el cumplimiento de sus funciones, están obligados a proporcionarla, cuando les sea solicitada.
 
-Interpuesto el Recurso y en su caso admitido se substanciara por el C. Alcalde Municipal. Se citará al recurrente a la Audiencia de Pruebas y Alegatos, la que se efectuará dentro de un término de cinco días hábiles, contados a partir del día siguiente el (sic) auto de admisión de Recurso.
+###### ARTÍCULO 23.
 
-###### ARTICULO 24.
+Las resoluciones de los órganos electorales del Instituto se tomarán por mayoría de votos, salvo las excepciones señaladas en este Código. En caso de empate se someterá a nueva votación, de persistir, el presidente tendrá voto de calidad.
 
-Dentro de un término de quince días hábiles, después de celebrada la Audiencia a que se refiere el Artículo anterior, la Autoridad dictará resolución.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
-###### ARTICULO 25.
+###### ARTÍCULO 24.
 
-La admisión del Recurso de Inconformidad, suspenderá la ejecución de la sanción pecuniaria previa garantía otorgada en los términos del Código Fiscal del Estado.
+Los servidores públicos de los órganos electorales desempeñarán su función con autonomía y probidad, no podrán utilizar la información reservada o confidencial de que dispongan en razón de su cargo, salvo para el estricto ejercicio de sus funciones, ni divulgarla por cualquier medio, apegándose a lo establecido en la legislación que regule la transparencia, acceso a la información pública y protección de datos personales atinente.
 
-### CAPITULO IX. DE LAS CLAUSURAS
+###### ARTÍCULO 25.
 
-###### ARTICULO 26.
+Los secretarios de los órganos electorales del Instituto estarán investidos de fe pública para hacer constar actos o hechos de naturaleza electoral, teniendo las siguientes atribuciones:
 
-En la medida que se modifiquen las condiciones socio-económicas del Municipio, en virtud de su crecimiento demográfico, social y desarrollo de actividades productivas y demás aspectos de la vida comunitaria, el presente Reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad.
+a) A petición de los partidos políticos o candidatos independientes, dar fe de actos o hechos en materia electoral que pudieran influir o afectar la equidad en la contienda electoral;
 
-###### ARTICULO 27.
+b) Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en el proceso.
 
-Para lograr el propósito anterior, la Administración Municipal, a través de la Dirección de Autorizaciones y Permisos, recibirá cualquier sugerencia, ponencia o queja que presente la comunidad en relación con el contenido normativo del presente Reglamento, a fin de que en Sesión Ordinaria del R. Ayuntamiento, el C. Presidente Municipal, de cuenta de una síntesis de tales propuestas, a fin de que dicho Cuerpo Colegiado tome la decisión correspondiente.
+Lo anterior, será independiente a que cualquier persona pueda solicitar la colaboración de los notarios públicos.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+Los secretarios podrán, dar fe de actos y hechos que les consten de manera directa y expedir las certificaciones que se requieran, sobre documentos que tengan a la vista en original, relacionados con los asuntos de la competencia del Instituto, así como delegar dicha atribución en servidores públicos a su cargo.
+
+### CAPÍTULO SEGUNDO. DE LA ACREDITACIÓN DE LOS REPRESENTANTES
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 26.
+
+En el Consejo General y los consejos electorales de comité distrital o municipal, los partidos políticos y candidatos independientes ejercerán los derechos que este Código les otorga, por conducto de sus representantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+
+###### ARTÍCULO 27.
+
+Los representantes de los partidos políticos se acreditarán con el nombramiento que les expida su partido, a través del órgano que autoricen sus estatutos; de la misma manera los candidatos independientes lo harán mediante el formato que al efecto les proporcione el Consejo General. Los representantes ante el Consejo General se podrán acreditar en cualquier momento; los representantes ante los consejos electorales distrital o municipal se acreditarán desde cinco días antes de que se instale el órgano respectivo y hasta diez días después de dicha instalación; los representantes generales y los representantes ante las mesas directivas de casillas lo harán en los términos de lo dispuesto en la Ley General.
+
+Los registros de los representantes ante los consejos electorales de comités distritales o municipales y, en su caso, las sustituciones de los mismos, deberán presentarse ante el Consejo General.
 
 ###### ARTÍCULO 28.
 
@@ -323,7 +645,7 @@ Los partidos políticos y los candidatos independientes podrán sustituir en tod
 
 ## TÍTULO SEGUNDO. DEL INSTITUTO ELECTORAL DE MICHOACÁN
 
-### CAPITULO X. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO PRIMERO. DE LA NATURALEZA DEL INSTITUTO
 
 ###### ARTÍCULO 29.
 
@@ -337,7 +659,7 @@ El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se
 
 Son fines u objetos del Instituto, los que la Ley General determina para los Organismos Públicos Locales Electorales, la Ley de Partidos, la Constitución Local y el presente Código.
 
-### CAPITULO XI. PROCEDIMIENTO DE REVISION Y CONSULTA
+### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS CENTRALES DEL INSTITUTO
 
 ###### ARTÍCULO 31.
 
@@ -409,9 +731,9 @@ VIII. Determinar el tope máximo de gastos de campaña por cada elección;
 
 IX. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-X. Integrar las comisiones permanentes de Organización Electoral, Administración, Prerrogativas y Partidos Políticos, Educación Cívica y Participación Ciudadana y Vinculación y Servicio Profesional Electoral, así como las temporales que considere necesarias para el desempeño de sus atribuciones, a las cuales fijará su competencia;
+X. Integrar las comisiones permanentes de Organización Electoral, Administración, Prerrogativas y Partidos Políticos, Educación Cívica y Participación Ciudadana y Vinculación, Servicio Profesional Electoral y Auxiliar para la Verificación de Integridad de Candidaturas, así como las temporales que considere necesarias para el desempeño de sus atribuciones, a las cuales fijará su competencia;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -507,17 +829,25 @@ XXXIX TER. Promover el uso e implementación de instrumentos electrónicos o tec
 
 XL. Ajustar los plazos previstos en el calendario electoral del proceso electoral local a los plazos previstos en el proceso electoral federal para el mejor desarrollo del proceso electoral concurrente;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-XLI. En el ámbito de su competencia, prevenir, atender y erradicar la violencia política por razones de género, garantizando el respeto al ejercicio de los derechos político-electorales de las mujeres y la igualdad sustantiva, mediante mecanismos y lineamientos que el propio Instituto diseñe para tal efecto.
+XLI. En el ámbito de su competencia, prevenir, atender y erradicar la violencia política por razones de género, garantizando el respeto al ejercicio de los derechos político-electorales a votar, ser votada y el libre ejercicio del cargo de las mujeres y la igualdad sustantiva, mediante mecanismos y lineamientos que el propio Instituto diseñe para tal efecto;
 
 > <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
 
 XLII. El Instituto proporcionará apoyo a los ayuntamientos que lo solicitaren, consistente en el préstamo del material electoral y en la impartición de cursos de capacitación para los funcionarios encargados de realizar la elección de las autoridades auxiliares;
 
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-XLIII. Todas las demás que le confiere este Código y otras disposiciones legales.
+XLIII. Todas las demás que le confiere este Código y otras disposiciones legales; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XLIV. El instituto deberá realizar las consultas previas, libres, informadas y de buena fe a los Grupos de Atención Prioritaria del Estado de Michoacán, sobre la acreditación de su auto adscripción, pertenencia o vinculación a dichos grupos, para efectos de la postulación de candidaturas en los Procesos Electorales Ordinarios Locales y en su caso, las elecciones extraordinarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+Una vez realizadas las consultas señaladas en el párrafo que antecede, el Instituto deberá de emitir los lineamientos al inicio del proceso electoral respectivo, a efecto de que se permita la configuración de acciones afirmativas en cargos de elección popular a favor de los Grupos de Atención Prioritaria, aplicables para los procesos electorales locales y, en su caso, las elecciones extraordinarias que se deriven.
 
 ###### ARTÍCULO 35.
 
@@ -538,6 +868,14 @@ Las comisiones permanentes contarán con un secretario técnico que será el tit
 En todos los asuntos que les encomienden, las comisiones deberán presentar un informe, dictamen o proyecto de resolución, según el caso, dentro del plazo que determine este Código o haya sido fijado por el Consejo General.
 
 El Consejo General, de acuerdo con la disponibilidad presupuestal del Instituto, podrá crear comités técnicos especiales para actividades o programas específicos, en que requiera del auxilio o asesoría técnico-científica de especialistas en las materias en que así lo estime conveniente.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+ARTÍCULO 35 BIS. La Comisión Auxiliar para la Verificación de Integridad de Candidaturas, es un órgano dependiente del Consejo General del Instituto, con carácter temporal y vigente durante el proceso electoral, cuyo objetivo será constituir un enlace para turnar las solicitudes de registro de personas candidatas de partidos políticos y candidaturas independientes a la Comisión de Verificación de Integridad en Candidaturas del Instituto Nacional.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+ARTÍCULO 35 TER. La Comisión estará integrada por 3 Consejerías Electorales, designadas por el Consejo General del Instituto de acuerdo con la normatividad aplicable. La persona titular de la Secretaría Ejecutiva realizará las funciones de secretaria técnica de dicha comisión.
 
 #### SECCIÓN SEGUNDA. DEL PRESIDENTE Y DEL SECRETARIO EJECUTIVO
 
@@ -715,7 +1053,9 @@ ARTÍCULO 37 BIS. En el ejercicio de la función de oficialía electoral, el Sec
 
 a) Durante la sustanciación de los procedimientos administrativos sancionadores, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales;
 
-b) A petición de los partidos políticos, sus candidatos, los candidatos independientes y/o sus representantes legales, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales;
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+b) A petición de los partidos políticos, sus candidatos, los candidatos independientes, sus representantes legales y de la ciudadanía, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales;
 
 c) Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos locales o federales; y,
 
@@ -729,7 +1069,7 @@ d) Las demás que establezca el Código y demás disposiciones aplicables.
 
 La Junta Estatal Ejecutiva será integrada por el Presidente del Consejo General, quien la presidirá, por el Secretario Ejecutivo, que será a la vez Secretario de la misma, por el Director Ejecutivo de Organización Electoral, por el Director Ejecutivo de Administración, Prerrogativas y Partidos Políticos, por el Director Ejecutivo de Educación Cívica y Participación Ciudadana, y por el Director Ejecutivo de Vinculación y Servicio Profesional Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 39.
 
@@ -737,7 +1077,13 @@ La Junta Estatal Ejecutiva se reunirá, por lo menos una vez al mes, con las sig
 
 I. Fijar las políticas generales, los programas y los procedimientos administrativos del Instituto;
 
-II. Definir, a propuesta del Presidente, la política salarial para regular el sistema de remuneraciones y prestaciones del Instituto misma que estará fundamentada en los principios de austeridad, racionalidad, disciplina presupuestal, certeza, equidad, motivación y proporcionalidad. Los integrantes de los órganos de dirección, órganos ejecutivos, órganos desconcentrados y los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de cualquier periodo de trabajo, del periodo para el que fueron nombrados o por separación del cargo, sea cual fuere el mecanismo o forma de pago, su lugar de adscripción, puesto, plaza o remuneración que devenguen; ingresos adicionales por concepto de bonos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+II. Definir, a propuesta del Presidente, la política salarial para regular el sistema de remuneraciones y prestaciones del Instituto misma que estará fundamentada en los principios de austeridad, racionalidad, disciplina presupuestal, certeza, equidad, motivación y proporcionalidad. Los integrantes de los órganos de dirección, órganos ejecutivos, órganos desconcentrados y los mandos medios y superiores desde el nivel de jefe de departamento o equivalente, no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de cualquier periodo de trabajo, del periodo para el que fueron nombrados o por separación del cargo, sea cual fuere el mecanismo o forma de pago, su lugar de adscripción, puesto, plaza o remuneración que devenguen; ingresos adicionales por concepto de bonos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas.
+
+La política salarial deberá respetar lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Remuneraciones de los Servidores Públicos del Estado de Michoacán de Ocampo.
+
+Queda prohibido compensar reducciones al tabulador mediante el otorgamiento o incremento de estímulos, compensaciones, bonos, gratificaciones o cualquier otro concepto que, directa o indirectamente, eleve la remuneración total por encima de los topes referidos.
 
 III. Cuidar el cumplimiento de las normas aplicables a los partidos políticos y sus prerrogativas;
 
@@ -1103,7 +1449,9 @@ XVII. Sustanciar y tramitar los procedimientos administrativos de queja y oficio
 
 XVIII. Presentar al Consejo General para su aprobación, los proyectos de resolución de los procedimientos administrativos en materia de fiscalización;
 
-XIX. Ser responsable de los procedimientos de liquidación de los partidos políticos locales y agrupaciones políticas locales, en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+XIX. Ser responsable de supervisar, vigilar y dar seguimiento a los procedimientos de liquidación de los partidos políticos locales y agrupaciones políticas locales, en los términos de las disposiciones aplicables;
 
 XX. Coordinar los apoyos que se presten y reciban, en términos de los convenios en materia de fiscalización;
 
@@ -1121,9 +1469,17 @@ XXVI. Tramitar y atender los requerimientos de información y documentación que
 
 XXVII. Formular las opiniones e informes sobre asuntos propios de la Coordinación;
 
-XXVIII. Coadyuvar y asesorar técnicamente en asuntos de la competencia de la Coordinación a otras áreas del Instituto; y,
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-XXIX. Las demás que establezca la normativa aplicable.
+XXVIII. Coadyuvar y asesorar técnicamente en asuntos de la competencia de la Coordinación a otras áreas del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXIX. Supervisar y dar seguimiento a los procedimientos de disolución y liquidación de las asociaciones civiles que se constituyan con la finalidad de postular candidaturas independientes en los procesos electorales en el Estado; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XXX. Las demás que establezca la normativa aplicable.
 
 Los sujetos obligados a los que se refiere este artículo, serán determinados por los Reglamentos o Acuerdos expedidos por el Instituto Nacional Electoral de conformidad con sus atribuciones o, en su caso, los Convenios que se suscriban en materia de fiscalización entre el Instituto Nacional y el Instituto, así como la demás normativa aplicable.
 
@@ -1289,9 +1645,9 @@ En cada uno de los distritos electorales y municipios, el Instituto contará con
 
 I. Un Consejo Electoral; y,
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-II. Vocales, uno de Organización Electoral y otro de Capacitación Electoral y Educación Cívica.
+II. Vocalías, una de Organización Electoral y otra de Participación Ciudadana y Educación Cívica.
 
 Si no existe queja fundada de los representantes de los partidos políticos, los integrantes de los comités, podrán ser reelectos para subsecuentes procesos electorales, atendiendo a la evaluación que se haga de su desempeño.
 
@@ -1429,11 +1785,11 @@ IV. Un representante por partido político y candidato independiente, en su caso
 
 El Presidente y Secretario del Consejo Electoral, lo será también del Comité que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 56.
 
-El Presidente, el Secretario y los vocales de los comités tendrán en el ámbito de su competencia y en lo conducente, las mismas atribuciones que señala este Código a los órganos ejecutivos del Instituto, así como las que específicamente señala el Reglamento Interior del Instituto Electoral de Michoacán. Por cada consejero electoral se designará un suplente.
+La presidencia, la secretaría y las vocalías de los comités tendrán en el ámbito de su competencia y en lo conducente, las mismas atribuciones que señala este Código a los órganos ejecutivos del Instituto, así como las que específicamente señala el Reglamento Interior del Instituto.
 
 Por cada representante de partido político y candidato independiente se acreditará un suplente.
 
@@ -1441,15 +1797,27 @@ El Presidente y los consejeros electorales tendrán derecho a voz y voto. Los de
 
 En caso de falta del Presidente a una sesión, los miembros del Consejo Electoral con derecho a voto nombrarán de entre ellos a la persona que presida la misma. Este hecho se hará constar en el acta correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+Las personas que participen en el procedimiento de selección y que no hayan sido designadas, integrarán una lista de reserva, a partir de la cual se cubrirán las vacantes que se generen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 57.
 
-Para ser designados, los consejeros electorales deberán reunir los siguientes requisitos:
+Para la designación de las consejerías electorales deberán reunir los siguientes requisitos:
 
-I. Ser michoacano en pleno ejercicio de sus derechos políticos;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-II. Estar inscrito en el Registro de Electores y contar con credencial para votar;
+I. Ser persona michoacana en pleno ejercicio de sus derechos políticos;
 
-III. Tener más de veinticinco años al día de su designación;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+II. Estar inscrita en el Registro de Electores y contar con credencial para votar vigente;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+III. Tener veintiún años al día de su designación;
 
 IV. Haber residido en el distrito durante los últimos tres años;
 
@@ -1459,17 +1827,25 @@ V. No desempeñar, ni haber desempeñado en los tres años inmediatos anteriores
 
 VI. No desempeñar cargo de dirección en la Federación, el Estado o los municipios, salvo los que sean de carácter académico.
 
-VII. Gozar de buena reputación; y,
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-VIII. No haber sido condenado por delito doloso que merezca pena corporal.
+VII. Gozar de buena reputación;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+VIII. No haber sido condenada por delito doloso que merezca pena corporal; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+IX. No desempeñar ningún cargo empleo o comisión en los ayuntamientos o poderes públicos estatales.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 58.
 
-A más tardar ciento setenta días antes de la jornada electoral, los consejos electorales deberán ser instalados e iniciar sus sesiones y actividades. El Consejo General podrá, por causa plenamente justificada, modificar el plazo de instalación, debiendo fijarlo en el respectivo calendario electoral. A partir de su instalación y hasta el término del proceso, sesionarán por lo menos una vez al mes.
+De conformidad con los plazos establecidos en el calendario electoral, los consejos electorales deberán ser instalados e iniciar sus sesiones y actividades. El Consejo General podrá, por causa plenamente justificada, modificar el plazo de instalación, debiendo fijarlo en el respectivo calendario electoral. A partir de su instalación y hasta el término del proceso, sesionarán por lo menos una vez al mes.
 
-Para que los consejos electorales puedan sesionar será necesaria la presencia del Presidente y de la mayoría de los integrantes con derecho a voto, de no tenerse esa mayoría en primera convocatoria, se citará de inmediato a una sesión a realizarse dentro de las veinticuatro horas siguientes, llamándose a los consejeros suplentes de quienes no hayan asistido, la cual se podrá celebrar con la asistencia del Presidente y de los consejeros que concurran. Este acto se consignará en el acta respectiva.
+Para que los consejos electorales puedan sesionar será necesaria la presencia de la mayoría de los integrantes con derecho a voto, entre ellos deberá estar la presidencia, de no tenerse esa mayoría en primera convocatoria, se citará de inmediato a una sesión a realizarse dentro de las veinticuatro horas siguientes, la cual se podrá celebrar con la persona titular de la presidencia y consejerías electorales, que concurran. Este acto se consignará en el acta respectiva.
 
 ###### ARTÍCULO 59.
 
@@ -1481,19 +1857,25 @@ Los consejos electorales determinarán el horario de labores de sus comités, te
 
 ### CAPÍTULO PRIMERO. DE LA NATURALEZA DEL TRIBUNAL
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 60.
 
-El Tribunal Electoral del Estado de Michoacán es el órgano permanente, con autonomía técnica y de gestión e independencia en sus decisiones, máxima autoridad jurisdiccional en materia electoral; el cual es competente para conocer y resolver Recursos de Apelación, Juicios de Inconformidad, Juicios para la Protección de los Derechos Político-Electorales y Procedimientos Especiales Sancionadores.
+El Tribunal Electoral del Estado de Michoacán es el órgano constitucional permanente, con autonomía técnica y de gestión e independencia en sus decisiones, máxima autoridad jurisdiccional en materia electoral; con personalidad jurídica y patrimonio propios; el cual es competente para conocer y resolver Recursos de Apelación, Juicios de Inconformidad, Juicios para la Protección de los Derechos PolíticoElectorales y Procedimientos Sancionadores y las impugnaciones por actos o resoluciones que violen los derechos político-electorales de la ciudadanía.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+Las resoluciones del Tribunal serán públicas, en los términos que determine la Ley. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 61.
 
-El Tribunal se regirá por los principios de certeza, legalidad, independencia, imparcialidad, objetividad, probidad y máxima publicidad.
+El Tribunal se regirá por los principios de certeza, legalidad, independencia, imparcialidad, objetividad, probidad, máxima publicidad, paridad de género, perspectiva de género y de derechos humanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 62.
 
-El Tribunal funcionará en Pleno con cinco magistrados, la temporalidad, requisitos, procedimiento para designación, vacantes definitivas, excusas y recusaciones, modalidades para ejercer la función y demás disposiciones que norman la actividad de éstos, serán las dispuestas en la Ley General.
+El Tribunal se integra con cinco magistraturas electas en forma escalonada por el Senado de la República. La temporalidad, requisitos, procedimiento para designación, vacantes definitivas, excusas y recusaciones, modalidades para ejercer la función y demás disposiciones que norman la actividad de éstos, serán las dispuestas en la Ley General.
 
 De presentarse alguna vacante temporal no mayor de tres meses, de alguno de los magistrados electorales, deberá enterarse por el Magistrado Presidente al Pleno del Tribunal, éste una vez en conocimiento de la vacante contará con cinco días para integrar una terna que contenga las propuestas de las personas que puedan cubrirla de entre el personal de dicho órgano jurisdiccional con mayor experiencia y capacidad para desempeñarlo, una vez aprobada la terna deberá remitirse al Congreso.
 
@@ -1533,7 +1915,9 @@ VII. Celebrar para su mejor desempeño, convenios de colaboración con otros tri
 
 VIII. Notificar al Congreso las vacantes temporales para que éste las cubra atendiendo al procedimiento dispuesto en el presente Código.
 
-IX. Definir, acatando las políticas y lineamientos establecidos por el Congreso, a partir de la estructura orgánica autorizada, a propuesta presentada por el Presidente, la política salarial para regular el sistema de remuneraciones y prestaciones del Tribunal, misma que estará fundamentada en los principios de austeridad, racionalidad, disciplina presupuestal, certeza, equidad, motivación y proporcionalidad;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+IX. Definir, acatando las políticas y lineamientos establecidos por el Congreso, a partir de la estructura orgánica autorizada, a propuesta presentada por el Presidente, la política salarial para regular el sistema de remuneraciones y prestaciones del Tribunal, misma que estará fundamentada en los principios de austeridad, racionalidad, disciplina presupuestal, certeza, equidad, motivación y proporcionalidad; deberá respetar lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Remuneraciones de los Servidores Públicos del Estado de Michoacán de Ocampo. Queda prohibido compensar reducciones al tabulador mediante el otorgamiento o incremento de estímulos, compensaciones, bonos, gratificaciones o cualquier otro concepto que, directa o indirectamente, eleve la remuneración total por encima de los topes referidos;
 
 X. Conocer y aprobar el proyecto de presupuesto del Tribunal;
 
@@ -1873,9 +2257,11 @@ En la designación del titular del Órgano Interno de Control del Tribunal, se d
 
 Las responsabilidades administrativas a que se refiere este artículo se sustanciarán y resolverán conforme a la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo y prescribirán en los términos que establece dicha normatividad.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
 
-ARTÍCULO 69 d). El Tribunal contará con una Defensoría Jurídica para la Protección de los Derechos Político-Electorales, con autonomía técnica y operativa, con independencia en sus decisiones, cuya finalidad es brindar de manera gratuita, los servicios de orientación, asesoría y representación jurídica en los supuestos que determinan las leyes.
+ARTÍCULO 69 d). El Tribunal contará con una Defensoría Jurídica para la Protección de los Derechos Político-Electorales, con autonomía técnica y operativa, con perspectiva de género, no discriminación y de derechos humanos con independencia en sus decisiones, cuya finalidad es brindar de manera gratuita a la ciudadanía y a la población objetivo de la Defensoría Pública Electoral los servicios de orientación, asesoría y representación de sus derechos político-electorales.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
 Los servicios se prestarán a favor de personas en situación de vulnerabilidad, antes, durante y después de los procesos electorales y de los mecanismos de participación ciudadana, siempre y cuando sea competencia de la Defensoría.
 
@@ -1883,17 +2269,27 @@ Los servicios se prestarán a favor de personas en situación de vulnerabilidad,
 
 ARTÍCULO 69 e). La Defensoría tiene por objeto ser una instancia accesible para trámite, seguimiento y conclusión de los juicios ante las instancias que deriven de la cadena impugnativa.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-ARTÍCULO 69 f). Los servicios de la Defensoría se brindarán a los ciudadanos con residencia en el Estado de Michoacán, siempre que se cumplan los requisitos para ello, pero se abstendrá de prestarlos a los dirigentes de partidos políticos o sus representantes. La representación se hará ante el Tribunal Electoral del Estado de Michoacán y organismos jurisdiccionales que deriven de la cadena impugnativa, y, ante el Instituto Electoral de Michoacán, en casos de paridad y violencia política en razón de género, o en aquellos casos que sean de su competencia.
+ARTÍCULO 69 f). Los servicios de la Defensoría solo se brindarán a la ciudadanía que acredite tener residencia en el estado de Michoacán, no así a los partidos políticos o a sus representantes. La representación se hará únicamente ante el Tribunal, ante la Sala Regional correspondiente a la Quinta Circunscripción del Tribunal Electoral del Poder Judicial de la Federación y la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, únicamente en aquellos medios de impugnación que deriven de los presentados en la instancia jurisdiccional local.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+Asimismo, los servicios de la defensoría se otorgarán ante el Instituto en los Procedimientos Especiales Sancionadores por violencia política contra la mujer en razón de género.
 
-ARTÍCULO 69 g). Los servicios de la Defensoría deberán prestarse bajo los principios de legalidad, certeza, objetividad, máxima publicidad, austeridad, probidad, honestidad, honradez, imparcialidad, independencia, rendición de cuentas y transparencia.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+ARTÍCULO 69 g). Los servicios de la Defensoría deberán prestarse bajo los principios de legalidad, certeza, objetividad, máxima publicidad, austeridad, probidad, honestidad, honradez, imparcialidad, independencia, rendición de cuentas, transparencia, paridad de género, perspectiva de género y no discriminación, favoreciendo en todo momento la protección más amplia de los derechos humanos.
 
-ARTÍCULO 69 h). El servicio de la Defensoría, se prestará cuando medie solicitud expresa de la parte interesada, acreditando el interés jurídico y se cumplan con los requisitos establecidos para tal efecto. Además el servicio se prestará cuando sea necesario, con los intérpretes y traductores en lengua de señas mexicanas y lengua materna indígena, sistema braille y las medidas necesarias para un mejor servicio.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+ARTÍCULO 69 h). El servicio de la Defensoría en materia electoral, se prestará cuando medie solicitud expresa de la parte interesada de quien aspire o ejerza algún cargo de elección popular, ya sea por sistema normativo indígena, de partidos políticos o vía independiente y a cualquier persona que se encuentre en situación de vulnerabilidad en el ejercicio de sus derechos político-electorales.
+
+La representación jurídica de la Defensoría solo procederá cuando:
+
+I. La persona interesada solicite el apoyo de la Defensoría Jurídica;
+
+II. Cuando la ciudadanía considere que exista una vulneración al ejercicio óptimo de sus derechos político-electorales; y,
+
+III. La representación jurídica podrá solicitarse de manera escrita, verbal, en idioma español, lengua indígena, en lenguaje de señas mexicanas, medio electrónico o cualquier otro habilitado por la persona titular de la Defensoría Jurídica.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
@@ -1907,79 +2303,169 @@ III. El personal de apoyo necesario para el cumplimiento de sus atribuciones de 
 
 En dichas designaciones se deberá garantizar la paridad de género.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
 
 ARTÍCULO 69 j). Para ser el titular de la Defensoría deben reunirse los siguientes requisitos:
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Tener cuando menos treinta años cumplidos al día de su designación;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-III. Contar con título y cédula profesional de Licenciatura en Derecho, con experiencia mínima comprobable de cinco años en área afín al derecho electoral y de los derechos humanos;
+II. Tener cuando menos veinticinco años cumplidos al día de su designación;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+III. Contar con título y cédula profesional de Licenciatura en Derecho y acreditar que cuenta con estudios y conocimiento en materia electoral y derechos humanos;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 IV. Gozar de buena reputación y no haber sido condenado con sentencia firme por delito grave;
 
-V. No ser militante de algún partido político; y,
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-VI. No haber sido sancionado con destitución o inhabilitación administrativa por conducta grave en cualquier institución pública.
+V. No ser militante de algún partido político;
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-ARTÍCULO 69 k). La Defensoría deberá actuar con la máxima diligencia, esmero y cuidado, a efecto de salvaguardar los derechos político-electorales de los ciudadanos, guardando la debida reserva de la información y de los datos personales que se conozcan con motivo de la defensa o asesoría electoral que presten.
+VI. No haber sido sancionado con destitución o inhabilitación administrativa por conducta grave en cualquier institución pública;
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
 
-ARTÍCULO 69 l). Son atribuciones del titular de la Defensoría:
+VII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a su designación; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+VIII. No haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a su designación, exceptuando la elección popular del poder judicial.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+ARTÍCULO 69 k). La Defensoría deberá actuar con la máxima diligencia, esmero y cuidado óptimo, a efecto de salvaguardar los derechos políticoelectorales de la ciudadanía, guardando la debida reserva de la información y de los datos personales que se conozcan con motivo de la defensa o asesoría electoral que presten.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
+
+ARTÍCULO 69 l). Son atribuciones de la persona titular de la Defensoría Jurídica:
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 I. Diseñar e implementar, el programa anual de difusión sobre los derechos político-electorales de los ciudadanos en el Estado de Michoacán de Ocampo y de los servicios que presta, apoyándose de las áreas respectivas del Instituto para tal efecto;
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 II. Coordinar, vigilar y dar seguimiento a los asuntos y servicios que presta la Defensoría;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 III. Emitir dictámenes o acuerdos fundados y motivados en los que se justifique la prestación o no de los servicios solicitados;
 
-IV. Elaborar un registro de personas sancionadas por violencia político (sic) de género y entregarlo al Secretario General del Tribunal, para los efectos correspondientes;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-V. Coadyuvar en la organizar (sic) y participar en eventos académicos y reuniones, con la finalidad de promover la difusión, el desarrollo y la defensa de los derechos político-electorales en el Estado de Michoacán;
+IV. Elaborar un registro de personas sancionadas por violencia política contra las mujeres en razón de género y entregarlo al secretario general del Tribunal, para los efectos correspondientes;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+V. Coadyuvar en la organización y participar en eventos académicos y reuniones con la finalidad de promover la difusión, el desarrollo y la defensa de los derechos político-electorales en el Estado de Michoacán;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 VI. Promover y gestionar la celebración de convenios con instituciones públicas y privadas, que puedan contribuir al correcto cumplimiento de las funciones de la Defensoría;
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 VII. Atender los requerimientos de las distintas áreas del Tribunal que se le formulen en el ámbito de su competencia;
 
-VIII. Rendir informes cuatrimestrales ante el Pleno del Tribunal sobre el funcionamiento, resultados y servicios que presta; y,
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-IX. Las demás que establezca el Reglamento Interior de la Defensoría.
+VIII. Rendir informes cuatrimestrales ante el Pleno del Tribunal sobre el funcionamiento, resultados y servicios que presta;
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
 
-ARTÍCULO 69 m). Para ser Defensora o Defensor se deberán cumplir con los mismos requisitos establecidos para el titular y tendrán las funciones siguientes:
+IX. Asistir jurídicamente a la parte solicitante, darle a conocer sus derechos y estar presente en audiencias o cualquier acto del medio de impugnación en el que se requiera su participación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+X. Representar y ejercer ante las autoridades electorales locales los intereses y los derechos de la parte representada o asistida;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XI. Procurar la continuidad y uniformidad en los criterios de la defensa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XII. Promover incidentes, medios de impugnación o realizar cualquier trámite o gestión que proceda conforme a Derecho y que resulte necesario para una defensa ciudadana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XIII. Evitar la indefensión de la parte representada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XIV. Generar mecanismos de acceso a la justicia a disposición y de uso fácil para las personas en desventaja histórica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+XV. Cumplir con los deberes propios del cargo y con el Código de Ética; su incumplimiento podrá ser materia de procedimiento de responsabilidad administrativa; y,
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+XVI. Las demás que se deriven de la naturaleza de sus funciones y la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
+
+ARTÍCULO 69 m). Para ser Defensora o Defensor se deberán cumplir con los mismos requisitos establecidos para la persona titular de la Defensoría y tendrán las funciones siguientes:
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 I. Desahogar las consultas que le sean formuladas, orientando sobre la naturaleza, contenido y los alcances de sus derechos político-electorales;
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 II. Representar y asesorar a quien lo solicite, velando por la protección de sus intereses en los procesos jurisdiccionales que se tramiten;
 
-III. Presentar, promover e interponer ante el Tribunal los actos, promociones, medios de impugnación y recursos necesarios para defender y salvaguardar los derechos político-electorales;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+III. Presentar e interponer ante el Tribunal los actos, promociones, medios de impugnación y recursos necesarios para defender y salvaguardar los derechos político-electorales;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 IV. Requerir a sus representados y allegarse de todos los documentos y elementos necesarios que se consideren indispensables para ejercer debidamente sus atribuciones y defender eficazmente los derechos político-electorales;
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 V. Vigilar la tramitación de los procesos en que intervengan, e informar periódicamente a sus asesorados del estado procesal que guarden los mismos;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 VI. Llevar a cabo un registro y formar un expediente de control de todos los procedimientos o asuntos en los que intervengan;
 
-VII. Procurar en cualquier tiempo, la conciliación de intereses ante las partes en los asuntos que asesoren, atendiendo el interés de su representado; y,
+VII. (DEROGADA, P.O. 27 DE MAYO DE 2026)
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 VIII. Las demás que se deriven de la naturaleza de sus atribuciones, de las disposiciones aplicables y las que le instruya el titular.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
 
 ARTÍCULO 69 n). La Defensoría se abstendrá de intervenir en los supuestos siguientes:
 
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+
 I. Cuando los servicios se estén prestando en forma gratuita por institución pública o privada distinta a la Defensoría;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 II. Cuando técnica y procesalmente resulte inviable la prestación de los servicios;
 
-III. Cuando la defensa o asesoría no verse sobre derechos político-electorales en la vertiente de quienes aspiren o desempeñen en su caso el (sic) algún cargo de elección; y,
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-IV. Cuando los asuntos no sean competencia del Tribunal Electoral del Estado de Michoacán.
+III. Cuando la defensa o asesoría no verse sobre derechos políticoelectorales; y,
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+IV. Cuando los asuntos no sean competencia electoral, ni del Tribunal.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
 
 La abstención de actuar de la Defensoría deberá sustentarse plenamente en un dictamen o acuerdo fundado y motivado, propuesto por la Defensora o el Defensor correspondiente y aprobado por el titular, lo cual se hará del conocimiento de Pleno del Tribunal.
 
@@ -2109,17 +2595,21 @@ El Instituto contará con los recursos presupuestarios, técnicos, humanos y mat
 
 ### CAPÍTULO SEGUNDO. DE LAS AGRUPACIONES POLÍTICAS ESTATALES
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 82.
 
-Las agrupaciones políticas estatales son formas de asociación ciudadana que coadyuvan al desarrollo de la vida democrática y de la cultura política, así como a la creación de una opinión pública mejor informada.
+Las agrupaciones políticas estatales son formas de asociación ciudadana que coadyuvan al desarrollo de la vida democrática y de la cultura política, así como a la creación de una opinión pública mejor informada, y deberán acreditar actividad pública en los términos previstos en este Código.
 
-Las agrupaciones políticas estatales no podrán utilizar bajo ninguna circunstancia, las denominaciones de «partido» o «partido político».
+Las agrupaciones políticas estatales no tendrán derecho a financiamiento público, ni a prerrogativas a cargo del erario, por lo que sus actividades se sostendrán exclusivamente con financiamiento privado permitido por la normatividad aplicable y estarán sujetas a las obligaciones de transparencia y fiscalización previstas en este Código.
 
 ###### ARTÍCULO 83.
 
 Las agrupaciones políticas estatales sólo podrán participar en procesos electorales mediante acuerdos de participación con un partido político o coalición. Las candidaturas surgidas de los acuerdos de participación serán registradas por un partido político y serán votadas con la denominación, emblema, color o colores de éste o de la coalición.
 
-El acuerdo de participación a que se refiere el párrafo anterior deberá presentarse para su registro ante el Consejo General.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+El acuerdo de participación a que se refiere el párrafo anterior deberá presentarse para su registro ante el Consejo General, siempre que la agrupación política se encuentre al corriente en la presentación del informe anual de actividades y del informe anual sobre el origen y destino de sus recursos, así como en las obligaciones de transparencia que resulten aplicables.
 
 En la propaganda y campaña electoral, se podrá mencionar a la agrupación participante.
 
@@ -2149,6 +2639,14 @@ Las agrupaciones políticas con registro deberán presentar al Instituto, un inf
 
 El informe a que se refiere el párrafo anterior deberá presentarse a más tardar dentro de los noventa días siguientes al último día de diciembre del año del ejercicio que se reporte.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+Además, las agrupaciones políticas con registro deberán presentar al Instituto un informe anual de actividades públicas mediante el cual acrediten acciones de formación cívica, difusión de ideas y participación ciudadana, conforme a los lineamientos que emita el Consejo General. Dicho informe deberá ser público y difundirse en los medios oficiales que determine el Instituto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+El informe anual de actividades a que se refiere el párrafo anterior deberá presentarse en el mismo plazo previsto para el informe anual del origen y destino de los recursos.
+
 La agrupación política perderá su registro por las siguientes causas:
 
 a) Cuando se haya acordado su disolución por la mayoría de sus miembros;
@@ -2157,7 +2655,9 @@ b) Haberse dado las causas de disolución conforme a sus documentos básicos;
 
 c) Omitir rendir el informe anual del origen y aplicación de sus recursos;
 
-d) No acreditar actividad alguna durante un año calendario, en los términos que establezca el Reglamento;
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+d) No acreditar actividad alguna durante un año calendario, en los términos que establezca el Reglamento o no presentar el informe anual de actividades en los plazos previstos en este Código;
 
 e) Por incumplir de manera grave con las disposiciones contenidas en este Código;
 
@@ -2799,9 +3299,25 @@ III. Tratándose de candidato a diputado por el principio de mayoría relativa, 
 
 IV. Las candidaturas a diputados por el principio de representación proporcional no podrán ser objeto de candidaturas comunes;
 
-V. La aceptación o en su caso, rechazo de la solicitud de registro presentada por cada partido político no producirá ningún efecto sobre las solicitudes presentadas por otro u otros partidos políticos respecto del mismo candidato; y,
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-VI. Los gastos de campaña de las candidaturas comunes, no deberán exceder el tope que para cada elección se establezca como si fuera uno solo.
+V. La aceptación o en su caso, rechazo de la solicitud de registro presentada por cada partido político no producirá ningún efecto sobre las solicitudes presentadas por otro u otros partidos políticos respecto del mismo candidato;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+VI. Los gastos de campaña de las candidaturas comunes, no deberán exceder el tope que para cada elección se establezca como si fuera uno solo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+VII. Deberán suscribir un convenio, el cual será firmado por quienes presiden los partidos políticos o por las personas que encabecen los órganos de dirección facultados para ello, el cual presentará para su registro ante el Instituto, a más tardar treinta días antes del inicio del periodo de campaña de la elección de que se trate;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+VIII. Los partidos políticos que integren una coalición podrán ir en candidatura común siempre que las candidaturas comunes no rebasen el 25% de los distritos electorales, o de los ayuntamientos, en su caso; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+IX. El convenio de candidatura común deberá indicar las aportaciones en porcentajes de cada uno de los partidos para gastos de la campaña, sujetándose a los límites de contratación de los medios de comunicación distintos a radio y televisión y a los topes de gastos de campaña determinados por el Consejo General.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -2839,17 +3355,25 @@ Los partidos políticos nacionales y locales de nuevo registro no podrán postul
 
 ### CAPÍTULO PRIMERO. DE LOS PROCESOS INTERNOS DE SELECCIÓN DE CANDIDATOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 157.
 
-Los partidos políticos están obligados a elegir sus candidatos conforme a los principios democráticos establecidos en la Constitución Local y las normas aplicables en la materia.
+Los partidos políticos deberán elegir sus candidatos conforme a los principios democráticos establecidos en la Constitución Local y las normas aplicables en la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+El mecanismo interno de selección se determinará conforme a sus Estatutos y normas internas, con respeto a los principios de autodeterminación de cada partido político. El Instituto vigilará y verificará el cumplimiento del resultado final de paridad de género.
 
 Los procesos internos para la selección de candidatos a cargos de elección popular son el conjunto de actividades que realizan los partidos políticos y los aspirantes a dichos cargos, de conformidad con lo establecido en la norma, en los Estatutos, reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político.
 
 Ningún proceso de selección de candidatos comenzará antes de que se declare el inicio del proceso electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 158.
 
-Al menos treinta días antes del inicio formal de los procesos internos de selección de candidatos, cada partido determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate.
+Al menos treinta días antes del inicio formal de los procesos internos de selección de candidatos, cada partido determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate, los mecanismos para garantizar la paridad de género en las candidaturas a diputaciones, presidencias municipales, sindicaturas y regidurías; y la definición de los distritos electorales y municipios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -2887,19 +3411,15 @@ XIII. El órgano responsable de la resolución de impugnaciones y quejas;
 
 XIV. Los mecanismos de control de confianza de sus precandidatos; y,
 
-> <small>[N. DE E. EL CONTENIDO DEL TERCER PÁRRAFO DE ESTE ARTÍCULO, QUEDÓ INMERSO EN LA PRESENTE FRACCIÓN.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 27 DE MAYO DE 2026)</small>
 
 XV. La fecha de celebración de la asamblea electoral, estatal, distrital o municipal o, en su caso, de realización de la jornada comicial interna. En caso de realización de la jornada comicial interna, se estará conforme a lo siguiente:
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-a) Durante los procesos electorales estatales en que se renueven el Titular del Poder Ejecutivo, el Congreso y ayuntamientos, las precampañas darán inicio, en el caso del Poder Ejecutivo la primera semana de enero del año de la elección, por lo que al Congreso y ayuntamientos la segunda semana del mes de enero;
+a) Durante los procesos electorales estatales las precampañas darán inicio en la primera semana de enero del año de la elección;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2017)</small>
-
-b) Durante los procesos electorales estatales en que se renueve solamente el Congreso y ayuntamientos, las precampañas darán inicio en la segunda semana de febrero del año de la elección;
+b) (DEROGADO, P.O. 27 DE MAYO DE 2026)
 
 c) Tratándose de precampañas, darán inicio al día siguiente de que se apruebe el registro interno de los precandidatos. Las precampañas de todos los partidos deberán celebrarse dentro de los mismos plazos; y,
 
@@ -2907,13 +3427,23 @@ c) Tratándose de precampañas, darán inicio al día siguiente de que se aprueb
 
 d) Las precampañas que se realicen para la selección de candidato a Gobernador no podrán durar más de cuarenta días, y para la selección de candidatos a diputados y a miembros de los ayuntamientos no podrán durar más de treinta días.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+La comunicación al Consejo General tendrá efectos informativos y de certeza. En ningún caso el Instituto podrá condicionar, modificar o imponer a los partidos políticos un mecanismo específico de selección interna; su facultad se limitará a verificar, al momento del registro, el cumplimiento del resultado final de paridad de género y demás disposiciones aplicables, respetando la autodeterminación del mecanismo interno partidista.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
+
 Los precandidatos a candidaturas a cargos de elección popular que participen en los procesos de selección interna convocados por cada partido no podrán realizar actividades de proselitismo o difusión de propaganda, por ningún medio, antes de la fecha de inicio de las precampañas; la violación a esta disposición se sancionará con la negativa de registro como precandidato.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
 
 Los partidos políticos harán uso del tiempo en radio y televisión que conforme a la Constitución General y la Ley General les corresponda para la difusión de sus procesos de selección interna de candidatos a cargos de elección popular.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
+
 Queda prohibido a los precandidatos a candidaturas a cargos de elección popular, en todo tiempo, la contratación o adquisición de propaganda o cualquier otra forma de promoción personal en radio y televisión. La violación a esta norma se sancionará con la negativa de registro como precandidato o, en su caso, con la cancelación de dicho registro. De comprobarse la violación a esta norma en fecha posterior a la de postulación del candidato por el partido de que se trate, el Instituto negará el registro legal del infractor.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
 
 Las y los aspirantes, precandidatos y candidatos incluidos los independientes, partidos políticos y coaliciones, deberán abstenerse de expresiones que impliquen calumnia, degraden, denigren, discriminen o ejerzan actos u omisiones que constituyan violencia política por razones de género durante las precampañas, campañas y en la propaganda política o electoral que se utilice durante las mismas. Por lo tanto, su propaganda no deberá atentar contra los derechos fundamentales de la honra y dignidad de las personas, ni contener elementos que configuren la violencia política por razones de género.
 
@@ -3013,6 +3543,8 @@ El Consejo General, de manera fundada y motivada, determinará solicitar al órg
 
 ### CAPÍTULO TERCERO. PROPAGANDA ELECTORAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 169.
 
 Los partidos políticos gozarán de libertad para realizar propaganda a favor de sus candidatos, programas y plataformas, la que deberán respetar mutuamente.
@@ -3060,6 +3592,16 @@ Los servidores públicos no deberán vincular su cargo, imagen, nombre, voz o cu
 > <small>(DEROGADO DÉCIMO NOVENO PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
 En los casos de infracción a lo dispuesto en este artículo, será competente en todo momento el Instituto, quien conocerá y sancionará de manera pronta y expedita, sin menoscabo de las responsabilidades a que pueda ser acreedor.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+Tratándose de candidaturas independientes, las campañas electorales deberán realizarse de manera individual, autónoma e independiente, por lo que no podrán desarrollar actos conjuntos o coordinados de campaña entre sí, compartir propaganda, imagen, emblema, plataformas comunes, estrategias de promoción conjunta, eventos proselitistas simultáneos o cualquier mecanismo que implique asociación política o actuación electoral colectiva.
+
+(NOTA: EL 27 DE AGOSTO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2026, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE SEPTIEMBRE DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+Se considerará prohibida toda forma de campaña conjunta o alianza de facto entre candidaturas independientes QUE GENERE FRENTE AL ELECTORADO UNA PERCEPCIÓN DE BLOQUE, AGRUPACIÓN, FRENTE O PLATAFORMA COMÚN.
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
 
@@ -3135,7 +3677,7 @@ c) En proporción igual, aquella en la que no se identifique a ningún partido p
 
 La proporción de la responsabilidad a que se refieren los incisos b) y c) anteriores, podrá variar si se acredita acuerdo distinto entre los partidos políticos postulantes;
 
-XI. Deberán retirar la propaganda electoral difundida en internet tres días antes de la jornada electoral.
+XI. (DEROGADA, P.O. 27 DE MAYO DE 2026)
 
 En aquellos casos en los que las autoridades concedan gratuitamente a los partidos políticos, coaliciones o candidatos el uso de locales cerrados propiedad pública, deberá estarse a lo siguiente:
 
@@ -3144,6 +3686,24 @@ I. Las autoridades estatales y municipales deberán dar un trato equitativo en e
 II. Los partidos políticos, coaliciones o candidatos deberán solicitar el uso de los locales con suficiente antelación, señalando la naturaleza del acto a realizar, el número de ciudadanos que se estima habrán de concurrir, las horas necesarias para la preparación y realización del evento, los requerimientos del equipamiento con que cuente, y el nombre del ciudadano autorizado que se responsabilice del buen uso del local y sus instalaciones.
 
 Los partidos políticos, coaliciones o candidatos que decidan dentro de la campaña electoral realizar marchas o reuniones que impliquen una interrupción temporal de la vialidad, deberán hacer del conocimiento a la autoridad competente, al menos cuarenta y ocho horas antes, su itinerario a fin de que ésta provea lo necesario para modificar la circulación vehicular y garantizar el libre desarrollo de la marcha o reunión.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+ARTÍCULO 171 BIS. Los ciudadanos aspirantes, precandidatos y candidatos a cargos de elección popular, incluidos quienes participen bajo la modalidad de aspirantes o candidatos independientes, así como los partidos políticos, coaliciones, organizaciones y agrupaciones políticas, deberán abstenerse de utilizar en su propaganda, cualquiera que sea su modalidad, escritos, publicaciones, grabaciones, proyecciones, expresiones, nombres, imágenes, emblemas, signos distintivos o denominaciones que se encuentren vinculados o asociados a:
+
+I. Registro de imagen comercial;
+
+II. Publicación de nombre comercial;
+
+III. Registro de aviso comercial;
+
+IV. Registro de marca;
+
+V. Registro de marca colectiva; o,
+
+VI. Cualquier otro signo distintivo o denominación que se encuentre protegido conforme a la Ley Federal de Protección a la Propiedad Industrial.
+
+La infracción a lo dispuesto en el presente artículo será sancionada con la negativa del registro de la candidatura correspondiente; y, en caso de que este ya hubiese sido otorgado, procederá su cancelación, sin perjuicio de las demás responsabilidades legales que sean aplicables.
 
 ### CAPÍTULO CUARTO. DE LOS DEBATES
 
@@ -3405,7 +3965,7 @@ b) Su distintivo, con el color o combinación de colores que lo identifiquen; y,
 
 c) En su caso, la mención de que solicita el registro en común con otros partidos políticos y la denominación de éstos;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 27 DE MAYO DE 2026)</small>
 
 II. De los candidatos de manera impresa:
 
@@ -3433,19 +3993,31 @@ h) Declaración de intereses: Deberá manifestar aquellas actividades o relacion
 
 i) Declaración de situación fiscal emitida por la autoridad fiscal correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
 
-j) Cartas de no antecedentes penales, expedidas por la Fiscalía General del Estado y la Fiscalía General de la República, respectivamente, con una antigüedad no mayor a treinta días a la fecha de su presentación; y
+j) En su caso, Declaración 8 de 8;
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-k) Manifestación bajo protesta de decir verdad, de que no ha sido condenado mediante sentencia firme por violencia política por razones de género.
+k) Cartas de no antecedentes penales, expedidas por la Fiscalía General del Estado y la Fiscalía General de la República, respectivamente, con una antigüedad no mayor a treinta días a la fecha de su presentación;
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+l) Manifestación bajo protesta de decir verdad, de que no ha sido condenado mediante sentencia firme por violencia política contra las mujeres en razón de género; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+m) Manifestación bajo protesta de decir verdad de no contar con sanción de inhabilitación vigente para desempeñar empleo, cargo o comisión en el servicio público, derivada de falta administrativa grave, siempre que dicha sanción se encuentre firme, definitiva e inatacable, por haberse agotado todos los medios ordinarios y extraordinarios de defensa procedentes, incluyendo, en su caso, recurso administrativo, juicio contencioso administrativo y juicio de amparo; y que dicha inhabilitación comprenda expresamente el periodo de ejercicio del cargo de elección popular al que se aspira.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+No se considerará firme, definitiva ni inatacable la sanción que se encuentre controvertida mediante cualquier medio de defensa pendiente de resolución definitiva.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
 
 El Instituto expedirá los formatos físicos o electrónicos bajo los cuales el candidato deberá presentar su declaración de situación patrimonial, de intereses y fiscal, mismos que serán homologables a lo que expida el Sistema Estatal Anticorrupción y resguardados con los criterios que dicha Ley señala.
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE MAYO DE 2026)</small>
 
 La información relativa a la situación patrimonial, de intereses y fiscal, será pública y accesible a cualquier persona, con las reservas que la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Michoacán de Ocampo señala.
 
@@ -3491,13 +4063,19 @@ II. La convocatoria que para cada elección expida el Consejo General, señalar�
 
 III. Para Gobernador del Estado, el periodo de registro concluirá setenta y cuatro días antes de la elección;
 
-IV. Para diputados electos por el principio de mayoría relativa el periodo de registro concluirá cincuenta y nueve días antes de la elección;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+IV. Para candidaturas a diputaciones por el principio de mayoría relativa el periodo de registro concluirá setenta días antes de la elección;
 
 V. Para candidatos a diputados electos por el principio de representación proporcional el periodo de registro concluirá cuarenta y cinco días antes de la elección;
 
-VI. Para las planillas de candidatos a integrar los ayuntamientos, que se integrarán de conformidad con la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, el periodo de registro concluirá cincuenta y nueve días antes de la elección;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-VII. El Consejo General celebrará en los diez días siguientes al término de cada uno de los plazos sesión cuyo único objeto será registrar las candidaturas que procedan; y,
+VI. Para las planillas de candidaturas a integrar los ayuntamientos, se integrarán de conformidad con la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, el periodo de registro concluirá setenta días antes de la elección;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+VII. El Consejo General celebrará en los diez días siguientes al término del plazo establecido para las elecciones de la Gubernatura y de las diputaciones de representación proporcional sesión cuyo único objeto será registrar las candidaturas que procedan, y en un plazo de veinte días para el registro de candidaturas de diputaciones de mayoría relativa y de los ayuntamientos; y,
 
 VIII. El Secretario Ejecutivo del Instituto, solicitará la publicación en el Periódico Oficial de los registros aprobados, así como las posteriores cancelaciones o sustituciones que, en su caso, se presenten.
 
@@ -3511,15 +4089,17 @@ Los partidos políticos podrán sustituir libremente a sus candidatos dentro de 
 
 Una vez recibida la renuncia ante la oficialía electoral del Instituto, se le otorgará al candidato o candidata un plazo máximo de cuarenta y ocho horas, contadas a partir de la notificación, para que acuda a las instalaciones del Instituto, o en su caso, a las del Comité Distrital o Municipal respectivo, con su credencial para votar vigente y copia simple de la misma, a efecto de que lleve a cabo la ratificación de su escrito de renuncia, bajo apercibimiento que en caso de no acudir para dicho efecto, se tendrá por no presentada la misma, acordándose lo procedente.
 
-Dentro de los treinta días anteriores al de la elección, no podrá ser sustituido un candidato que haya renunciado a su registro.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Dentro de los cuarenta días anteriores al de la elección, no podrá ser sustituida una candidatura que haya renunciado a su registro. En caso de fallecimiento, renuncia o inhabilitación de la candidatura a la Presidencia Municipal la planilla subsistirá y en el supuesto que resulte electa, el Congreso designará a la persona titular de la Presidencia de conformidad con la normativa aplicable.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 Un candidato a cargo de elección popular puede solicitar en todo tiempo la cancelación de su registro, con tan solo dar aviso por escrito al partido y al Consejo General del Instituto, el cual deberá ratificarse en un plazo máximo de cuarenta y ocho horas.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-En el caso de las candidaturas independientes, solo procede la sustitución por renuncia o fallecimiento y serán sustituidos única y exclusivamente por su suplente o uno de los integrantes de la misma planilla; en el caso de diputaciones por su suplente.
+En el caso de las candidaturas independientes, solo procede la sustitución por renuncia o fallecimiento y serán sustituidas única y exclusivamente por la persona suplente o alguna persona integrante de la misma planilla; en el caso de diputaciones, por la persona suplente; lo anterior, siempre que la persona que sustituye forme parte de la fórmula o planilla registrada, cumpla con los requisitos de elegibilidad y haya participado en la etapa del respaldo ciudadano, en los términos precisados en el presente Código.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -3531,33 +4111,39 @@ Las boletas electorales para la emisión del voto, se imprimirán conforme al mo
 
 Las boletas contendrán:
 
-I. Para la elección de Gobernador:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE MAYO DE 2026)</small>
+
+I. Para la elección de Gubernatura:
 
 a) Nombre del Estado;
 
 b) Cargo para el que se eligen;
 
-(NOTA: EL 25 DE AGOSTO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO c) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE AGOSTO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+c) El distintivo con el color o combinación de colores y emblema de cada partido político, o candidatura independiente; y, la fotografía de la candidatura, conforme a los Lineamientos de registro;
 
-c) El distintivo con el color o combinación de colores y emblema de cada partido político, COALICIÓN o candidato independiente; y, la fotografía del candidato;
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+d) Nombre y apellidos de las candidaturas y en su caso el sobrenombre;
 
-d) Nombre y apellidos de los candidatos y en su caso el sobrenombre;
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-e) Un solo espacio para cada partido político o coalición o candidato independiente;
+e) Un solo espacio para cada partido político o coalición o candidatura independiente;
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 f) Un espacio para asentar los nombres de los ciudadanos no registrados;
 
-g) Las firmas impresas del Presidente y Secretario Ejecutivo del Consejo General; y,
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+g) Las firmas impresas de la Presidencia y Secretaría Ejecutiva del Consejo General; y,
 
 h) Talón desprendible con folio.
 
-II. Para la elección de diputados de mayoría relativa, la boleta contendrá los elementos generales anotados en la fracción anterior y precisará además, el distrito de que se trate y llevará impreso un sólo emblema por partido político o coalición o candidato independiente para comprender la fórmula de candidatos y la lista de representación proporcional; al reverso llevarán impresas las listas plurinominales de los candidatos, propietarios y suplentes, que registren los partidos políticos;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+II. Para la elección de diputaciones de mayoría relativa, la boleta contendrá los elementos generales anotados en la fracción anterior y precisará además, el distrito de que se trate y llevará impreso un sólo emblema por partido político o candidatura independiente para comprender la fórmula de candidaturas y la lista de representación proporcional; al reverso llevarán impresas las listas plurinominales de las candidaturas, propietarias y suplentes, que registren los partidos políticos;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -3565,21 +4151,25 @@ III. Para la elección de ayuntamientos, se estará a lo dispuesto en los inciso
 
 a) Nombre del Estado y del Municipio;
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-b) Nombre y apellido de los candidatos, propietario y suplente, que integren las planillas.
+b) Nombre y apellido de las candidaturas, propietario y suplente, que integren las planillas.
 
-Al frente de la boleta aparecerán los nombres de los candidatos a Presidente Municipal, Síndico propietario y suplente, al reverso de la boleta se incluirán los nombres de los candidatos a regidores propietarios y suplentes;
+Al frente de la boleta aparecerán los nombres de las candidaturas a Presidencia Municipal, Sindicaturas propietarias y suplentes, al reverso de la boleta se incluirán los nombres de las candidaturas a regidurías propietarias y suplentes;
 
-c) Un solo espacio para cada planilla de candidatos a integrar los ayuntamientos, propietarios y suplentes; y,
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-d) Los distintivos con el color o combinación de colores que tengan registrados los partidos políticos, coaliciones o candidatos independientes, mismos que aparecerán en las boletas en el orden que les corresponda, de acuerdo con la antigüedad de su registro.
+c) Un solo espacio para cada planilla de candidaturas a integrar los ayuntamientos, propietarios y suplentes; y,
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+d) Los distintivos con el color o combinación de colores que tengan registrados los partidos políticos o candidaturas independientes, mismos que aparecerán en las boletas en el orden que les corresponda, de acuerdo con la antigüedad de su registro.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 193.
 
-Dentro de los treinta y cinco días anteriores a la jornada electoral, las boletas por ningún motivo podrán ser sustituidas, corregidas o reimpresas. En todo caso, los votos contarán para los partidos políticos y los candidatos que estuviesen registrados ante el Consejo General del Instituto Electoral, al momento de la elección.
+Dentro de los cuarenta días anteriores a la jornada electoral, las boletas por ningún motivo podrán ser sustituidas, corregidas o reimpresas. En todo caso, los votos contarán para los partidos políticos y los candidatos que estuviesen registrados ante el Consejo General del Instituto Electoral, al momento de la elección.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -3789,15 +4379,23 @@ IV. La hora en que inicie la captura y difusión de los resultados.
 
 Los consejos electorales de comités distritales o municipales celebrarán sesión permanente a partir de las ocho horas del miércoles siguiente a la jornada electoral, para hacer el cómputo en el siguiente orden:
 
-I. De Gobernador del Estado;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-II. De diputados de mayoría relativa;
+I. De Gubernatura del Estado;
 
-III. De diputados de representación proporcional; y,
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+II. De diputaciones de mayoría relativa;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+III. De diputaciones de representación proporcional; y,
 
 IV. De ayuntamientos.
 
-Cada uno de los cómputos a que se refiere el presente artículo, se realizarán sucesivamente y de forma ininterrumpida hasta su conclusión.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Cada uno de los cómputos a que se refiere el presente artículo, se realizarán sucesivamente y conforme a los lineamientos que emita el Consejo General.
 
 ###### ARTÍCULO 208.
 
@@ -3867,7 +4465,9 @@ V. Concluido el cómputo y emitida la declaración de validez para la elección 
 
 VI. Acto continuo se abrirán los paquetes en que se contengan los expedientes de las casillas especiales para extraer el de la elección de diputados por el principio de representación proporcional y se procederá en los términos del artículo anterior;
 
-VII. El cómputo distrital de la elección de diputados por el principio de representación proporcional será el resultado de la suma distrital de los votos obtenidos únicamente por los partidos políticos o coaliciones, más la cifra que resulte de la suma de los resultados de las actas de escrutinio y cómputo de las casillas a que se refiere la fracción inmediata anterior; mismo que se asentará en el acta correspondiente a la elección de representación proporcional. No se sumarán los votos que se contabilizaron para la candidatura en común de diputados por el principio de mayoría relativa en su caso; y,
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+VII. El cómputo distrital de la elección de diputados por el principio de representación proporcional será el resultado de la suma distrital de los votos obtenidos por los partidos políticos, coaliciones y candidaturas comunes, más la cifra que resulte de la suma de los resultados de las actas de escrutinio y cómputo de las casillas a que se refiere la fracción inmediata anterior; mismo que se asentará en el acta correspondiente a la elección de representación proporcional.
 
 VIII. Se hará constar en el acta circunstanciada de la sesión los resultados del cómputo, y los incidentes que ocurrieron durante la misma.
 
@@ -3927,13 +4527,19 @@ a) Cociente electoral; y,
 
 b) Resto Mayor.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 213.
 
-La asignación de regidores por el principio de representación proporcional se hará siguiendo el orden que ocupan los candidatos a este cargo en la planilla a integrar el Ayuntamiento. Los partidos políticos, coaliciones y candidatos independientes que participen de la asignación de regidores por el principio de representación proporcional, tendrán derecho a que se les asignen tantas regidurías como veces contenga su votación el cociente electoral.
+La asignación de regidurías por el principio de representación proporcional se hará de la planilla registrada, en el orden de prelación establecido en la misma. Los partidos políticos, coaliciones, candidaturas comunes y candidaturas independientes que participen de la asignación de regidurías por el principio de representación proporcional, tendrán derecho a que se les asignen tantas regidurías como veces contenga su votación el cociente electoral.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 Si hecho lo anterior, aun quedaran regidurías por asignar, se distribuirán por resto mayor, siguiendo el orden decreciente de los votos no utilizados por cada uno de los partidos políticos o candidatos independientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+Cuando la planilla de candidaturas no haya obtenido el triunfo por el principio de mayoría relativa, ocupará la primera regiduría de representación proporcional que corresponda al partido político, coalición, candidatura común, garantizando la paridad sustantiva.
 
 ###### ARTÍCULO 214.
 
@@ -3951,23 +4557,51 @@ III. Por cociente electoral, el resultado de dividir la votación válida entre 
 
 IV. Por resto mayor, el remanente de las votaciones de cada partido político, coalición o candidaturas independientes, una vez hecha la asignación de regidores, cuando aún haya regidurías por distribuir.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 215.
 
-Los presidentes de los consejos electorales publicarán en el exterior de los locales que ocupen, al término del cómputo, los resultados de cada una de las elecciones, así mismo, deberán:
+Las presidencias de los consejos electorales publicarán en el exterior de los inmuebles de los comités, al término del cómputo, los resultados de cada una de las elecciones, así mismo, deberán:
 
-I. Integrar el expediente del cómputo distrital de la elección de diputados de mayoría, con las actas de las casillas, el original del acta de cómputo distrital, la declaración de validez de la elección, la copia de la constancia de mayoría otorgada, el acta circunstanciada de la sesión de cómputo y el informe pormenorizado del presidente sobre el desarrollo del proceso electoral;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS, P.O. 27 DE MAYO DE 2026)</small>
 
-II. Integrar el expediente del cómputo distrital de la elección de diputados de representación proporcional, con una copia certificada de las actas de las casillas y el original del acta del cómputo distrital de representación proporcional, copia certificada del acta circunstanciada de la sesión de cómputo y copia del informe pormenorizado del Presidente sobre el desarrollo del proceso electoral;
+I. Integrar un expediente que contenga la documentación electoral utilizada, de conformidad con los lineamientos que emita el Consejo General, mismo que podrá ser integrado como mínimo con los siguientes originales:
 
-III. Integrar el expediente del cómputo distrital de la elección de Gobernador del Estado, con las actas de las casillas, el original del acta de cómputo distrital, copia del acta circunstanciada de la sesión de cómputo y copia del informe pormenorizado del Presidente sobre el desarrollo del proceso electoral; y,
+a) Actas de la jornada electoral;
 
-IV. Los presidentes de los consejos electorales de comités distritales, una vez integrados los expedientes a que se refieren las fracciones I, II y III de este artículo procederán a:
+b) En su caso, hojas de incidentes;
 
-a) Remitir al Tribunal, cuando se hubiere interpuesto el Juicio de Inconformidad, junto con éste, los escritos de protesta, actas de casilla y el informe respectivo, así como copia certificada de los expedientes de los cómputos distritales cuando se impugnen las elecciones de diputados por ambos principios; y en su caso, el expediente del cómputo distrital de la elección de Gobernador del Estado cuyos resultados hubieren sido impugnados;
+c) En su caso, escritos de protesta;
 
-b) Remitir al Congreso, copia certificada de la constancia de mayoría y validez de la fórmula de candidatos a diputados de mayoría que la hubiere obtenido;
+d) Actas de escrutinio y cómputo, según la elección de que se trate;
 
-c) Remitir al consejo general copia del expediente del cómputo distrital y declaración de validez de la elección de mayoría relativa, así como el original del cómputo de representación proporcional; y,
+e) Actas de los cómputos, según corresponda;
+
+f) Actas circunstanciadas de la sesión de cómputo, según corresponda;
+
+g) Informe pormenorizado de la Presidencia del Consejo respectivo, sobre el desarrollo del Proceso Electoral; y,
+
+h) En su caso, Declaratorias de Validez de la Elección, así como copia certificada de las Constancias de Mayoría entregadas a las candidaturas ganadoras.
+
+II. (DEROGADA, P.O. 27 DE MAYO DE 2026)
+
+III. (DEROGADA, P.O. 27 DE MAYO DE 2026)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE MAYO DE 2026)</small>
+
+IV. Las presidencias de los consejos electorales, una vez integrado el expediente a que se refiere la fracción I de este artículo procederán a:
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+a) Remitir el Original del Expediente al Consejo General a través de la Dirección Ejecutiva de Organización Electoral, conforme a la planificación de entregas;
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+b) Remitir al Congreso del Estado, copia certificada de las actas distritales de la elección de las diputaciones por el principio de Mayoría Relativa, así como de las Constancias de mayoría y validez, entregadas a las candidaturas ganadoras; y,
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+c) En su caso, remitir al Tribunal Electoral del Estado, el expediente de la elección correspondiente, cuando se presente Juicio de Inconformidad.
 
 d) Remitir al Consejo General, el expediente del cómputo distrital de la elección de Gobernador del Estado.
 
@@ -4155,11 +4789,11 @@ k) El incumplimiento de las reglas establecidas para el manejo y comprobación d
 
 l) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
 
-m) La comisión de violencia política. Para tales efectos, se entenderá por Violencia Política, a todo acto u omisión en contra de cualquier persona por medio del cual se cause un daño moral, físico, psicológico o económico, a través de la presión, discriminación, persecución, hostigamiento, acoso, coacción, amenaza y/o privación de la vida, cometidos por una persona o un grupo de personas, directamente o a través de terceros, con el fin de menoscabar, limitar, condicionar, excluir, impedir o anular el ejercicio de sus derechos político-electorales, así como el inducirle u obligarle a tomar decisiones de tipo político-electoral en contra de su voluntad; y,
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2020)</small>
+m) La comisión de violencia política. Para tales efectos, se entenderá por Violencia Política, a todo acto u omisión en contra de cualquier persona por medio del cual se cause un daño moral, físico, psicológico o económico, a través de la presión, discriminación, persecución, hostigamiento, acoso, coacción, amenaza y/o privación de la vida, cometidos por una persona o un grupo de personas, directamente o a través de terceros, con el fin de menoscabar, limitar, condicionar, excluir, impedir o anular el ejercicio de sus derechos político-electorales a votar y ser votada, y los que se comentan en su vertiente del ejercicio del cargo, así como el inducirle u obligarle a tomar decisiones de tipo político-electoral en contra de su voluntad; y,
 
-Además de lo establecido en párrafo anterior, se considerarán como faltas graves, cuando concurran actos que impliquen violencia política por razones de género.
+Además de lo establecido en párrafo anterior, se considerarán como faltas graves, cuando concurran actos que impliquen violencia política contra las mujeres en razón de género.
 
 n) La comisión de cualquier otra falta de las previstas.
 
@@ -4167,9 +4801,17 @@ II. Constituyen infracciones de las agrupaciones políticas estatales al present
 
 a) El incumplimiento de las obligaciones que les señala la Ley de Partidos;
 
-b) La comisión de violencia política prevista en el inciso m) de la fracción I de este artículo; y,
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-c) El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en este Código.
+b) La comisión de violencia política prevista en el inciso m) de la fracción I de este artículo;
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+c) El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en este Código; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+d) La omisión de presentar el informe anual de actividades a que se refiere este Código, o la presentación de información que impida acreditar su actividad pública.
 
 III. Constituyen infracciones de los aspirantes, precandidatos o candidatos a cargos de elección popular al presente Código:
 
@@ -4227,9 +4869,19 @@ l) La difusión de propaganda política o electoral que contenga expresiones que
 
 m) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
 
-n) La comisión de violencia política prevista en el inciso m) de la fracción I de este artículo; y,
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-o) El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables.
+n) La comisión de violencia política prevista en el inciso m) de la fracción I de este artículo;
+
+(NOTA: EL 27 DE AGOSTO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2026, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO o) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE SEPTIEMBRE DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+o) Realizar, promover, participar, consentir o beneficiarse de campañas conjuntas, coordinadas o vinculadas política o electoralmente con otras personas aspirantes o candidaturas independientes, así como compartir, utilizar o difundir de manera conjunta propaganda, plataformas políticas, propuestas programáticas, estrategias de comunicación o promoción, colores, símbolos, emblemas, logotipos, imágenes, lemas, identificadores visuales o auditivos, estructuras de apoyo o cualquier otro elemento QUE GENERE ANTE EL ELECTORADO LA PERCEPCIÓN DE PERTENENCIA A UNA MISMA ORGANIZACIÓN, BLOQUE, FRENTE, AGRUPACIÓN, MOVIMIENTO, PLATAFORMA POLÍTICA COMÚN, CANDIDATURA COMÚN, COALICIÓN O ALIANZA DE FACTO; y,
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 27 DE MAYO DE 2026)</small>
+
+p) El incumplimiento de cualquiera de las disposiciones contenidas en este Código y demás disposiciones aplicables.
 
 V. Constituyen infracciones de los ciudadanos, de los dirigentes y afiliados a partidos políticos, o en su caso de cualquier persona física o moral, al presente Código:
 
@@ -4259,9 +4911,9 @@ e) La utilización de programas sociales y de sus recursos, del ámbito federal,
 
 f) El incumplimiento de las disposiciones aplicables en materia de mecanismos de participación ciudadana, conforme a lo establecido en el presente Código, la Ley de la materia y/o su Reglamento, así como cualquiera de las disposiciones contenidas en este Código.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
 
-g) Cuando se acredite el hecho de menoscabar, limitar o impedir el ejercicio de los derechos político-electorales de las mujeres o se incurra en actos u omisiones constitutivos de violencia política en razón de género, en términos del presente Código.
+g) Cuando se acredite el hecho de menoscabar, limitar o impedir el ejercicio de los derechos político-electorales de las mujeres a votar y ser votada (sic), y los que se comentan en su vertiente del ejercicio del cargo, o se incurra en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en términos del presente Código.
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -5053,17 +5705,25 @@ b) Imponer las sanciones que resulten procedentes en términos de lo dispuesto e
 
 ### CAPÍTULO TERCERO BIS. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LA MUJER EN RAZÓN DE GÉNERO
 
-> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 264 Bis.
 
-Los hechos relacionados con violencia política contra la mujer en razón de género, serán sustanciados y resueltos mediante el procedimiento especial sancionador regulado en el presente capítulo, antes, durante y después de los procesos electorales.
+Los hechos relacionados con violencia política contra la mujer en razón de género, que afecten los derechos político-electorales a votar y ser votada, y los que se comentan en su vertiente del ejercicio del cargo, serán sustanciados y resueltos mediante el procedimiento especial sancionador regulado en el presente capítulo, antes, durante y después de los procesos electorales.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
 
 Para la tramitación, sustanciación y resolución del procedimiento regulado en este capítulo se aplicarán las reglas generales, así como las reglas del procedimiento especial sancionador que establece este Código, salvo disposición en contrario.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 La autoridad competente para tramitar y sustanciar el procedimiento lo será el Instituto por conducto de la Secretaría Ejecutiva.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 El Tribunal será el competente para resolver el procedimiento, con base en las reglas que establezca la normativa aplicable y en su caso, las sanciones y medidas de reparación correspondientes.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
 
 El Instituto, por conducto del área competente, deberá brindar asesoría legal a las víctimas.
 
@@ -5110,6 +5770,10 @@ V. Narración expresa y clara de los hechos en que base su queja o denuncia y, d
 VI. Ofrecer y aportar las pruebas con que cuente, o en su caso, mencionar las que habrán de requerirse, cuando la parte promovente acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas. La parte denunciante deberá relacionar las pruebas que ofrezca con cada uno de los hechos narrados en su escrito inicial de queja o denuncia; y,
 
 VII. En su caso, las medidas cautelares o de protección que soliciten.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+La secretaria ejecutiva analizará las deficiencias, de cualquiera de los requisitos señalados en el escrito inicial y prevendrá a la persona denunciante para que, en un plazo improrrogable de tres días, contados a partir de su notificación, los subsane o aclare. En caso de no hacerlo, se desechará de plano la queja o denuncia.
 
 Ante la omisión de los requisitos señalados la Secretaría Ejecutiva prevendrá a la persona denunciante para que, en un plazo improrrogable de tres días, contados a partir de su notificación, los subsane o aclare. En caso de no hacerlo, se desechará de plano la queja o denuncia.
 
@@ -5713,6 +6377,12 @@ Con la solicitud, el aspirante a candidato independiente deberá presentar la do
 
 La persona moral deberá estar constituida con por lo menos el aspirante a candidato independiente, su representante legal y el encargado de la administración de los recursos de la candidatura independiente; en tratándose de planillas para ayuntamientos, toda la planilla deberá integrarse en la persona moral.
 
+(NOTA: EL 27 DE AGOSTO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2026, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE SEPTIEMBRE DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+La candidatura independiente constituye una postulación individual de carácter ciudadano y no podrá establecer mecanismos de asociación, coordinación político-electoral o formas equivalentes a coaliciones, candidaturas comunes o frentes electorales con otras candidaturas independientes QUE GENERE EN EL ELECTORADO LA PERCEPCIÓN DE UNA MISMA IDENTIDAD.
+
 ###### ARTÍCULO 304.
 
 La solicitud deberá presentarse de manera individual en el caso de la elección de Gobernador del Estado, por fórmula en el caso de Diputados y por planilla en el de ayuntamientos, y contendrá como mínimo la siguiente información:
@@ -5729,7 +6399,19 @@ V. Tratándose del registro de fórmulas, deberá especificarse el propietario y
 
 VI. La designación de un representante, así como del responsable del registro, administración y gasto de los recursos a utilizar en la obtención del respaldo ciudadano;
 
-VII. La identificación de los colores y, en su caso, emblema que pretendan utilizar en la propaganda para obtener del respaldo ciudadano, los cuales no podrán ser iguales o semejantes a los utilizados por los partidos políticos con registro o acreditación vigente. Si dos o más aspirantes coinciden en estos elementos, prevalecerá el que haya sido presentado en primer término, solicitando al resto que modifiquen su propuesta;
+(NOTA: EL 27 DE AGOSTO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2026, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE SEPTIEMBRE DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE MAYO DE 2026)</small>
+
+VII. La identificación de los colores y, en su caso, emblema que pretendan utilizar en la propaganda para obtener el respaldo ciudadano, los cuales no podrán ser iguales O SEMEJANTES a los utilizados por otros aspirantes a candidatos independientes sin importar la elección a la que aspire ser postulada la candidatura independiente que se trate, por los partidos políticos con registro, o acreditación vigente. Si dos o más aspirantes coinciden en estos elementos, prevalecerá el que haya sido presentado en primer término, solicitando al resto que modifiquen su propuesta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+Para efectos de lo anterior, se considerará que existe igualdad o semejanza cuando se reproduzcan o incorporen elementos simbólicos dominantes, tales como figuras, íconos, objetos de la misma naturaleza y/o tipo o representaciones gráficas distintivas que puedan inducir al electorado a vincular indebidamente candidaturas distintas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+No se podrá registrar el emblema utilizado por una candidatura independiente en los procesos electorales anteriores, cualquiera que sea la elección de que se trate.
 
 No se podrán utilizar los colores que el Consejo General apruebe para la impresión de las boletas electorales;
 
@@ -5991,11 +6673,37 @@ II. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
 III. El nombramiento de un representante ante el respectivo Consejo; y un responsable de la administración de los recursos financieros y de la presentación de los informes de campaña a que se refiere este Código, que deberá ser el de la persona moral dispuesta en el numeral 303 del presente Código; y,
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+(NOTA: EL 27 DE AGOSTO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2026, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE SEPTIEMBRE DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-IV. Señalar los colores y, en su caso, emblema que pretendan utilizar en su propaganda electoral, los cuales no podrán ser iguales o semejantes a los utilizados por los partidos políticos ya existentes, ni a los colores institucionales utilizados por el Instituto.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+IV. Señalar los colores y, en su caso, emblema que pretendan utilizar en su propaganda electoral, los cuales no podrán ser iguales O SEMEJANTES a los utilizados por otras candidaturas independientes sin importar la elección a la que se postule o por los partidos políticos con registro, o acreditación vigente. Si dos o más candidaturas independientes coinciden en estos elementos, prevalecerá el que haya sido presentado en primer término, solicitando al resto que modifiquen su propuesta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+No se podrá registrar el emblema utilizado por una candidatura independiente en los procesos electorales anteriores, cualquiera que sea la elección de que se trate.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 27 DE MAYO DE 2026)</small>
 
 No se podrán utilizar los colores que el Consejo General apruebe para la impresión de las boletas electorales.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+
+###### ARTÍCULO 318 Bis.
+
+Queda prohibido a las candidaturas independientes:
+
+I. Realizar campañas conjuntas o coordinadas con otras candidaturas independientes, partidos políticos, candidaturas comunes y coaliciones;
+
+II. Compartir propaganda, lemas, plataformas, imagen o identidad política común;
+
+III. Presentarse ante el electorado como bloque, frente, alianza o agrupación electoral;
+
+IV. Contratar o desarrollar estrategia común de promoción o estructura territorial conjunta; y,
+
+V. Realizar actos que impliquen, de hecho o por simulación, formas equivalentes a coalición o candidatura común.
+
+El incumplimiento podrá dar lugar a la negativa o cancelación del registro, en términos de este Código.
 
 ###### ARTÍCULO 319.
 
@@ -6293,9 +7001,17 @@ I. Deberán vigilar que sean respetados los principios de paridad de género en 
 
 II. En cada etapa prevista en sus estatutos, deberán vigilar el cumplimiento de la paridad de género para los diversos cargos de elección;
 
-III. La paridad de género será el criterio para la ponderación de principios constitucionales como certeza, legalidad, transparencia, reelección y autoorganización de los partidos políticos, previstos en la organización de sus procesos de selección interna de candidaturas; y,
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
 
-IV. La ponderación para garantizar cualitativa y cuantitativamente el principio de paridad de género, atenderá lo dispuesto por el artículo 1 de la Constitución General.
+III. La paridad de género será el criterio para la ponderación de principios constitucionales como certeza, legalidad, transparencia, reelección y autoorganización de los partidos políticos, previstos en la organización de sus procesos de selección interna de candidaturas;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+
+IV. La ponderación para garantizar cualitativa y cuantitativamente el principio de paridad de género, atenderá lo dispuesto por el artículo 1 de la Constitución General; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MAYO DE 2026)</small>
+
+V. En cada uno de estos supuestos, el Instituto no podrá cuestionar, sustituir o imponer el mecanismo interno de selección de candidaturas determinado por los partidos políticos conforme a su normativa interna; su actuación se limitará a verificar el cumplimiento del resultado final de paridad y de la metodología prevista en este Título al momento del registro.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
 
@@ -6313,7 +7029,13 @@ La solicitud y el registro de las candidaturas se realizará conforme a lo dispu
 
 Las solicitudes de registro de candidaturas a cargos de elección popular, deberán presentarse en fórmulas de propietarios y suplentes del mismo género, según sea el caso.
 
-Asimismo, tanto en las listas de candidaturas a diputados por ambos principios, como en las planillas para integrar ayuntamientos, se deberá observar la alternancia de género.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2026)</small>
+
+Asimismo, tanto en las listas de candidaturas a diputados por ambos principios, como en las planillas para integrar ayuntamientos, se deberá cumplir con la alternancia de género.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MAYO DE 2026)</small>
+
+El Instituto a más tardar al inicio del proceso electoral, emitirá lineamientos de paridad conforme a los bloques.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
 
@@ -7097,23 +7819,43 @@ El Tribunal o en su caso, la Sala Regional o Superior del Tribunal Electoral, re
 
 Las personas juzgadoras locales electas deberán tomar protesta ante el Congreso el día en que se instale el primer periodo ordinario de sesiones del año de la elección que corresponda.
 
-## ARTICULOS TRANSITORIOS
+## TRANSITORIOS
 
-PRIMERO. EL presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico del Estado y en la Gaceta Municipal.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-SEGUNDO. Este Reglamento abroga y deja sin efecto legal todos los acuerdos, órdenes o disposiciones que se opongan al mismo.
+SEGUNDO. Los actuales Consejero Presidente y Consejeros Electorales del Instituto Electoral de Michoacán continuarán en su encargo hasta en tanto se realicen las designaciones a que refiere el transitorio Noveno del Decreto Legislativo por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos en materia político electoral, publicado en el Diario Oficial de la Federación con fecha 10 de febrero de 2014.
 
-TERCERO. Las personas que se dediquen a la actividad regulada por este Reglamento, y no cuenten con el permiso correspondiente, dispondrán de un término improrrogable de 30 días naturales, contados a partir del siguiente al de la publicación de este Reglamento en el Periódico Oficial del Estado, para que presenten la solicitud respectiva debidamente requisitada a la Jefatura de Inspectores y Permisos, en la inteligencia de que de no hacerlo se harán acreedores a las sanciones previstas en este Reglamento.
+TERCERO. Los Magistrados del Tribunal Electoral del Estado de Michoacán continuarán en su encargo hasta en tanto se realicen las designaciones a que refiere el transitorio Noveno del Decreto Legislativo por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos en materia político electoral, publicado en el Diario Oficial de la Federación con fecha 10 de febrero de 2014.
 
-Es dado en el Salón de Sesiones del R. Ayuntamiento de Apodaca, Nuevo León a los 11 días del mes de Noviembre de mil novecientos noventa y tres.
+CUARTO. Por única ocasión, el proceso electoral ordinario local correspondientes (sic) a las elecciones que tendrán lugar el primer domingo de junio del año 2015 iniciará en la primera semana del mes de octubre del año 2014. Para tal efecto el Instituto Electoral de Michoacán aprobará los ajustes necesarios a los plazos establecidos en el presente Código.
 
-C.P. RAYMUNDO FLORES ELIZONDO
+QUINTO. La celebración de las elecciones que se verifiquen en el año 2018 se llevarán (sic) a cabo el primer domingo del mes de julio, conforme al artículo quinto transitorio contenido en la reforma que en materia político electoral se hiciera a la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
-Presidente Municipal
+SEXTO. Las funciones correspondientes a la fiscalización, capacitación electoral, así como la ubicación de las casillas y la designación de funcionarios de la mesa directiva, en los procesos electorales locales, delegadas al Instituto Electoral de Michoacán por virtud de la publicación del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político-electoral, se mantendrán delegadas hasta en tanto no sean reasumidas por el Consejo General del Instituto Nacional Electoral, en términos del Octavo Transitorio de dicho decreto.
 
-LIC. ROEL GUAJARDO CANTU
+SÉPTIMO. En lo correspondiente a facilitar a los órganos de comités distritales y municipales, a los partidos políticos y a los representantes de candidatos independientes la información sobre seccionamiento y lista nominal de electores, hasta en tanto no se determine procedimiento por el Instituto Nacional Electoral, el Consejo General del Instituto Electoral de Michoacán determinará lo correspondiente.
 
-Secretario del R. Ayuntamiento
+OCTAVO. (DEROGADO, P.O. 25 DE ENERO DE 2017)
+
+NOVENO. Para efectos de lograr una norma que precise de manera más amplia sobre los criterios sustantivos y de procedimiento que regulen el sistema de elección por usos y costumbres, el Congreso desarrollará un proceso de consulta a los pueblos y comunidades indígenas del Estado, bajo los principios que regula el Derecho Internacional de los Derechos Humanos, en particular los de la materia, este proceso debe desarrollarse dentro de los noventas días contados a partir de que sea vigente la normatividad que regule el derecho de consulta a los pueblos indígenas. Éste último, deberá aprobarse dentro de los ciento veinte días siguientes de la publicación del presente decreto.
+
+DÉCIMO. Se abroga el Código Electoral del Estado de Michoacán publicado con fecha 30 de noviembre del 2012, en el Periódico Ocampo (sic).
+
+DÉCIMO PRIMERO. Notifíquese el presente Decreto a los Titulares de los poderes Ejecutivo y Judicial, de los Órganos Constitucionales Autónomos y los Ayuntamientos, todos del Estado de Michoacán de Ocampo, así como al Instituto Nacional Electoral y la Presidencia de las Cámaras del Congreso de la Unión, para su conocimiento.
+
+El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
+
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 27 veintisiete días del mes de junio de 2014 dos mil catorce.
+
+ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN”.- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. ALFONSO JESÚS MARTÍNEZ ALCÁZAR.- PRIMER SECRETARIO.- DIP. JOSÉ ELEAZAR APARICIO TERCERO.- SEGUNDA SECRETARIA.- DIP. DANIELA DE LOS SANTOS TORRES.- TERCER SECRETARIO.- DIP. CÉSAR MORALES GAYTÁN. (Firmados).
+
+En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 29 veintinueve días del mes de junio del año 2014 dos mil catorce.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR SUBSTITUTO DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARIO OSEGUERA MÉNDEZ. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JUNIO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 152 POR EL QUE “SE REFORMAN LAS FRACCIONES I Y II, Y SE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 298, ASÍ COMO REFORMA LA FRACCIÓN II DEL ARTÍCULO 314 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
@@ -7462,3 +8204,47 @@ P.O. 12 DE FEBRERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 329 POR EL QUE SE REFORMA EL ARTÍCULO 3; Y, SE ADICIONA EL ARTÍCULO 169 TER AL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 476.- PRIMERO.- SE REFORMAN LOS ARTÍCULOS 1; 3; 3 BIS; 4; 13; 13 BIS; 14; 18; 21; 34; 37 BIS; 39; 45; 51; 56; 57; 58; 60; 61; 62; 64; 69 D); 69 F); 69 G); 69 H); 69 J); 69 K); 69 L); 69 M); 69 N); 82; 83; 84; 152; 157; 158; 169; 189; 190; 191; 192; 193; 207; 210; 213; 215; 230; 264 BIS; 264 QUINQUIES; 303; 304; 318; 339; 341; SE ADICIONAN LOS ARTÍCULOS 171 BIS Y 318 BIS; Y SE DEROGAN LA FRACCIÓN VII DEL ARTÍCULO 69 M); EL INCISO B) DE LA FRACCIÓN XV DEL ARTÍCULO 158; LA FRACCIÓN XI DEL ARTÍCULO 171; Y LAS FRACCIONES II Y III DEL ARTÍCULO 215, TODOS DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN LOS ARTÍCULOS 9; 37; 60; 69 Y 72; Y SE ADICIONAN LA FRACCIÓN XII AL ARTÍCULO 69 Y DIVERSOS PÁRRAFOS AL ARTÍCULO 72, TODOS DE LA LEY DE JUSTICIA EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Consejo General del Instituto Electoral de Michoacán deberá emitir o adecuar los reglamentos, lineamientos, protocolos y disposiciones administrativas necesarias para la debida aplicación del presente Decreto.
+
+CUARTO. El Instituto Electoral de Michoacán deberá implementar los mecanismos técnicos, tecnológicos, interinstitucionales y documentales necesarios para el cumplimiento de lo dispuesto en el artículo 13 BIS del Código Electoral del Estado de Michoacán de Ocampo.
+
+Para tal efecto, el Instituto podrá celebrar convenios de coordinación y colaboración con el Poder Judicial del Estado, el Poder Judicial de la Federación, el Sistema Nacional DIF, las autoridades jurisdiccionales competentes, el Registro Nacional de Obligaciones Alimentarias y demás autoridades competentes.
+
+QUINTO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Instituto Electoral de Michoacán deberá emitir, actualizar o armonizar los protocolos institucionales para la prevención, atención, sustanciación y seguimiento de casos de violencia política contra las mujeres en razón de género, incluyendo medidas específicas de atención a personas pertenecientes a grupos de atención prioritaria.
+
+Los protocolos deberán incorporar mecanismos de accesibilidad, atención diferenciada, acompañamiento institucional y perspectiva intercultural, interseccional y de derechos humanos.
+
+SEXTO. Los procedimientos administrativos sancionadores, medios de impugnación, actos preparatorios, procedimientos de fiscalización y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+No obstante, las disposiciones contenidas en el presente Decreto serán aplicables de manera inmediata cuando resulten más favorables para la protección de los derechos humanos, la igualdad sustantiva, la paridad de género o la tutela efectiva de los derechos político-electorales.
+
+SÉPTIMO. Los procedimientos de disolución o liquidación de partidos políticos locales, asociaciones civiles constituidas para respaldar candidaturas independientes, así como de agrupaciones políticas estatales, que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán substanciándose conforme a las disposiciones vigentes al momento de su inicio.
+
+La Coordinación de Fiscalización del Instituto Electoral de Michoacán asumirá las atribuciones previstas en el artículo 45 reformado respecto de los procedimientos que continúen en trámite.
+
+OCTAVO. Dentro de los sesenta días naturales siguientes a la emisión de los lineamientos previstos en el artículo 84 reformado, las agrupaciones políticas estatales con registro vigente deberán presentar, por única ocasión, el primer informe anual de actividades públicas verificables conforme al nuevo régimen jurídico previsto en el presente Decreto.
+
+NOVENO. El Tribunal Electoral del Estado de Michoacán, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá implementar o adecuar las herramientas tecnológicas necesarias para garantizar la operatividad de las notificaciones por correo electrónico previstas en el artículo 37 del Código Electoral del Estado de Michoacán de Ocampo.
+
+DÉCIMO. Las modificaciones al artículo 21 del Código Electoral del Estado de Michoacán de Ocampo, únicamente por cuanto ve a la supresión de disposiciones relativas a la elección consecutiva de integrantes de los ayuntamientos, no serán aplicables al proceso electoral local ordinario 2026-2027, y surtirán efectos para el proceso electoral local ordinario 2029-2030, conforme al régimen transitorio aplicable en la materia.
+
+P.O. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 478 POR EL QUE “SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 34; Y, SE ADICIONAN LOS ARTÍCULOS 35 BIS Y 35 TER DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La operación y funcionamiento de la Comisión Auxiliar para la Verificación de Integridad de Candidaturas quedará sujeta a la entrada en vigor de la legislación general federal y de los lineamientos, acuerdos o disposiciones que, en su caso, emita el Instituto Nacional Electoral en materia de verificación de integridad de candidaturas.
+
+TERCERO. El Instituto Electoral de Michoacán deberá realizar las adecuaciones reglamentarias y administrativas necesarias para el cumplimiento del presente Decreto dentro de los noventa días naturales posteriores a la entrada en vigor de la normativa federal aplicable.
+
+CUARTO. Notifíquese el presente Decreto al Instituto Electoral de Michoacán para los efectos legales conducentes.
