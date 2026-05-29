@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2025-07-08"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -3473,7 +3473,7 @@ III. Que no se traduzca en afectación a principios o valores democráticos.
 
 Una vez que se ha verificado la primera lectura, el dictamen regresa a la Comisión respectiva, la cual puede profundizar en el estudio de la iniciativa en cuestión, modificando el dictamen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 247.
 
@@ -3481,13 +3481,9 @@ No podrá discutirse ningún dictamen de Ley, Decreto o Propuesta de Acuerdo, si
 
 Asimismo, sólo podrá modificarse la exposición de motivos respectivos, pero en ningún caso el proyecto de articulado normativo o acuerdo, salvo por el procedimiento reservado al Pleno.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2024)</small>
+Con excepción de lo establecido en el primer párrafo del presente artículo y lo establecido en el artículo 217 de la presente Ley, las Minutas Proyecto de Decreto remitidas al Congreso del Estado para la emisión del voto de conformidad en lo dispuesto por el artículo 135 de la Constitución Política de los Estados Unidos Mexicanos y emitir el voto respectivo al Congreso de la Unión, se estará a lo siguiente:
 
-A excepción de lo establecido en el primer párrafo del presente artículo, en los dictámenes elaborados por la Comisión de Puntos Constitucionales, relativos a las minutas que contengan reformas, adiciones y derogaciones a la Constitución Política de los Estados Unidos Mexicanos, en los que el Congreso del Estado de Michoacán de Ocampo deba emitir el voto respectivo, para notificar al Congreso de la Unión, se estará a lo siguiente:
-
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2024)</small>
-
-Cuando la Comisión de Puntos Constitucionales apruebe el Dictamen, lo remitirá a la Presidencia de la Mesa Directiva, de manera física y digital; la que podrá convocar, previo acuerdo de la Junta de Coordinación Política, a Sesión Extraordinaria con al menos 12 horas de anticipación, acompañando el Dictamen respectivo.
+Notificada la Minuta con Proyecto de Decreto al Congreso del Estado, previo acuerdo de la Junta de Coordinación Política, la Presidencia de la Mesa Directiva, convocará por cualquier medio a las y los diputados integrantes de la Legislatura, a Sesión de Emisión de Voto de Reforma Constitucional, con un mínimo de cuatro horas de anticipación, acompañando a dicha convocatoria la Minuta Proyecto de Decreto remitida por el Congreso de la Unión.
 
 ### CAPÍTULO SÉPTIMO. DE LOS DEBATES Y DISCUSIONES
 
@@ -4884,3 +4880,11 @@ PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en té
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 TERCERO. Notifíquese el presente Decreto a la presidencia de la Comisión de Derechos Humanos del Congreso del Estado, para su conocimiento.
+
+P.O. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 475 POR EL QUE "SE REFORMA EL ARTÍCULO 247 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
