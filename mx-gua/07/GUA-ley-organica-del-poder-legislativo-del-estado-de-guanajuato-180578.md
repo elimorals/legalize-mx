@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-180
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-06-20"
-last_updated: "2026-04-17"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 20 de junio de 2025.
 
@@ -43,7 +45,9 @@ Ley Orgánica del Poder Legislativo del Estado de Guanajuato
 
 La presente Ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Legislativo del Estado de conformidad con lo que le señala la Constitución Política para el Estado de Guanajuato.
 
-El Poder Legislativo atenderá en su organización al principio de paridad de género.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+El Poder Legislativo atenderá en su organización y funcionamiento a los principios de paridad de género, igualdad sustantiva y perspectiva de género.
 
 ###### Artículo 2.
 
@@ -871,9 +875,27 @@ XXIII. Dar seguimiento a las recomendaciones emitidas por el Observatorio Ciudad
 
 XXIV. Emitir los lineamientos de la asistencia de las personas Diputadas a sesiones y reuniones de comisiones a distancia;
 
-XXV. Acordar la celebración de los mecanismos de colaboración entre las autoridades de los diversos órdenes de gobierno a efecto de coordinar las actividades que el Congreso del Estado o sus órganos legislativos lleven a cabo con otras autoridades; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-XXVI. Las demás que le señale la presente Ley, le encomiende el Pleno o la Diputación Permanente.
+XXV. Acordar la celebración de los mecanismos de colaboración entre las autoridades de los diversos órdenes de gobierno a efecto de coordinar las actividades que el Congreso del Estado o sus órganos legislativos lleven a cabo con otras autoridades;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XXVI. Elaborar el proyecto de convocatoria para la integración del listado de candidaturas a cargos del Poder Judicial del Estado, para su aprobación por el Pleno;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XXVII. Proponer al Pleno la integración del Comité de Evaluación del Poder Legislativo;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XXVIII. Dar seguimiento, por conducto de la Secretaría General, a la recepción e integración de los listados remitidos por el Comité de Evaluación del Poder Legislativo y por los Poderes del Estado, exclusivamente para efectos de su integración;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XXIX. Ordenar la integración y remisión de los listados de candidaturas al organismo público electoral local, sin emitir pronunciamiento sobre su contenido, lo cual se formalizará mediante acuerdo de trámite del Pleno en términos de esta Ley; y
+
+XXX. Las demás que le señale la presente Ley, le encomiende el Pleno o la Diputación Permanente.
 
 ###### Artículo 77.
 
@@ -1217,11 +1239,15 @@ El Pleno podrá acordar la constitución de comisiones legislativas especiales, 
 
 Cuando se haya agotado el objeto de una comisión legislativa especial o al final de la Legislatura, la Presidencia de dicha comisión informará a la Mesa Directiva, la cual comunicará al Pleno para que determine su extinción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 104.
 
-Las Comisiones legislativas permanentes serán colegiadas y se integrarán con cinco personas diputadas, excepto la de Gobernación y Puntos Constitucionales que estará integrada por siete, procurando que reflejen la proporcionalidad y pluralidad de la conformación del Congreso del Estado.
+Las Comisiones legislativas permanentes serán colegiadas y se integrarán con cinco personas diputadas, excepto la de Gobernación y Puntos Constitucionales que estará integrada por siete, procurando que reflejen la proporcionalidad y pluralidad de la conformación del Congreso del Estado y garantizando en todo momento los principios de paridad de género, igualdad sustantiva y perspectiva de género en su integración y funcionamiento.
 
-En cada comisión legislativa permanente y especial habrá una Presidencia y una Secretaría, quienes las ocupen serán propuestas atendiendo a los criterios de proporcionalidad y pluralidad.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+En cada comisión legislativa permanente y especial habrá una Presidencia y una Secretaría, cuya designación deberá realizarse bajo criterios de paridad de género, igualdad sustantiva y perspectiva de género, garantizando una distribución equilibrada en el ejercicio del poder.
 
 La Comisión de Responsabilidades, estará integrada por cinco personas integrantes propietarias y cinco suplentes, y se elegirá a más tardar en la segunda sesión ordinaria siguiente a aquella en que se instale la Legislatura. Las personas integrantes serán designadas por insaculación, la primera de las nombradas ocupará la Presidencia y la última la Secretaría.
 
@@ -1391,7 +1417,9 @@ I. Los que se refieran a las iniciativas de ley o modificaciones, relacionadas c
 
 II. Los que se refieran a leyes reglamentarias u orgánicas que deriven de alguna disposición de la Constitución Política para el Estado de Guanajuato o que deriven de la Constitución Política de los Estados Unidos Mexicanos y que expresamente autorice a la Legislatura regular;
 
-III. Los que se refieran al conocimiento de la licencia de quien ostente el cargo de Gobernador del Estado, de personas diputadas y personas magistradas del Supremo Tribunal de Justicia del Estado y las demás personas servidoras públicas que establezca la Constitución Política para el Estado de Guanajuato y las leyes que de ella emanen. Así como el conocimiento de las renuncias y separaciones de las personas magistradas del Supremo Tribunal de Justicia del Estado y del Consejo del Poder Judicial;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+III. Los que se refieran al conocimiento de la licencia de quien ostente el cargo de Gobernador del Estado; de las personas magistradas y juzgadoras del Supremo Tribunal de Justicia del Estado, así como de quienes integren el Órgano de Administración Judicial y las demás personas servidoras públicas que establezcan la Constitución Política para el Estado de Guanajuato y las leyes que de ella emanen. Así como el conocimiento de las renuncias y separaciones de las personas magistradas y juzgadoras del Supremo Tribunal de Justicia del Estado, así como de quienes integren el Órgano de Administración Judicial;
 
 IV. Los relativos al cambio de residencia de los poderes del Estado y de las cabeceras municipales. Estos cambios se autorizarán siempre en forma provisional y condicionados a la duración de la causa que los motive;
 
@@ -1649,15 +1677,181 @@ La Convención Legislativa de Seguridad Pública y Prevención Social de la Viol
 
 La persona titular del Instituto de Investigaciones Legislativas fungirá como Secretaría Técnica.
 
-### Capítulo Único. Formas de Organización
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
 
-#### Sección Primera. Dirección General de Servicios y Apoyo Técnico Parlamentario
+### Capítulo IX. Procedimiento para la Integración de Candidaturas del Poder Judicial del Estado
 
-#### Sección Segunda. Dirección General de Administración
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Primera. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 131 Bis.
+
+Corresponde al Congreso del Estado, en materia de elección de personas juzgadoras:
+
+I. Emitir la convocatoria para la integración de los listados de candidaturas;
+
+II. Integrar el Comité de Evaluación del Poder Legislativo;
+
+III. Recibir, integrar y remitir al organismo público electoral local los listados de candidaturas remitidos por los Poderes del Estado; y
+
+IV. Las demás que establezca la Constitución Política para el Estado de Guanajuato y la legislación electoral.
+
+Los plazos se regirán por la Constitución Política para el Estado de Guanajuato y la legislación electoral.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 131 Ter.
+
+El Congreso del Estado emitirá y publicará la convocatoria para la integración del listado de candidaturas a los cargos del Poder Judicial del Estado, en los términos de la Constitución Política para el Estado de Guanajuato y la legislación electoral.
+
+La convocatoria deberá observar lo dispuesto por la Constitución Política para el Estado de Guanajuato y la legislación electoral y contener, al menos:
+
+I. Los cargos para elegir, conforme a la información proporcionada por el órgano de administración judicial;
+
+II. Las etapas del procedimiento;
+
+III. Las fechas y plazos;
+
+IV. Los requisitos constitucionales y legales que deberán cumplir las personas aspirantes;
+
+V. Los mecanismos de participación; y
+
+VI. Los criterios de observancia obligatoria en materia de paridad de género, inclusión y transparencia.
+
+La convocatoria será aprobada por el Pleno del Congreso del Estado y publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato, en la Gaceta Parlamentaria y en el portal institucional.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 131 Quáter.
+
+El Congreso del Estado, por conducto de la Secretaría General, será responsable de la recepción, integración y, resguardo de los listados de candidaturas judiciales.
+
+La recepción de postulaciones se sujetará estrictamente a los plazos establecidos en la legislación electoral y la convocatoria.
+
+El Congreso del Estado no podrá pronunciarse, directa o indirectamente, sobre la elegibilidad, idoneidad o evaluación de las personas aspirantes o candidatas.
+
+En caso de inconsistencias formales, se informará al Poder postulante para los efectos conducentes.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 131 Quinquies.
+
+El Congreso del Estado integrará los listados de candidaturas conforme a lo dispuesto por la Constitución Política para el Estado de Guanajuato y la legislación electoral.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 131 Sexies.
+
+Los listados serán integrados por el Congreso del Estado y formalizados mediante acuerdo de trámite del Pleno, sin deliberación sobre su contenido.
+
+El acuerdo de trámite tendrá por objeto dar cumplimiento a lo previsto en el artículo 76, fracción XXIX de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 131 Septies.
+
+El Congreso del Estado remitirá los listados de candidaturas al organismo público electoral local dentro del plazo establecido en la Constitución Política para el Estado de Guanajuato y en la legislación electoral.
+
+La remisión deberá incluir:
+
+I. Los listados integrados;
+
+II. Los expedientes en versión pública; y
+
+III. La documentación que garantice la trazabilidad del procedimiento.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 131 Octies.
+
+El Congreso del Estado establecerá mecanismos de coordinación con:
+
+I. El Poder Ejecutivo del Estado;
+
+II. El Poder Judicial del Estado y el órgano de administración judicial; y
+
+III. El organismo público electoral local;
+
+Lo anterior, exclusivamente para garantizar la adecuada ejecución del procedimiento, sin afectar la autonomía de las autoridades involucradas.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 131 Nonies.
+
+Toda la información relacionada con el procedimiento previsto en este Capítulo será pública, en términos de las disposiciones aplicables en materia de transparencia y protección de datos personales.
+
+El Congreso del Estado promoverá:
+
+I. La publicación de la convocatoria;
+
+II. La difusión de los listados;
+
+III. El acceso a versiones públicas de los expedientes; y
+
+IV. La trazabilidad de cada etapa del procedimiento.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 131 Decies.
+
+Las personas magistradas electas tomarán protesta de su encargo ante el Congreso del Estado el 25 de septiembre del año de la elección que corresponda, en la sesión solemne convocada para tal efecto.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Segunda. Comité de Evaluación del Poder Legislativo
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Artículo 131 Undiecies (sic). El Congreso del Estado contará con un Comité de Evaluación del Poder Legislativo, de carácter técnico, temporal y con independencia en el ejercicio de sus atribuciones.
+
+El Comité de Evaluación del Poder Legislativo se regirá por lo dispuesto en la Constitución Política para el Estado de Guanajuato y la legislación electoral, siendo esta Ley de carácter complementaria.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Artículo 131 Duodecies. El Comité de Evaluación del Poder Legislativo se integrará por cinco personas designadas por el Pleno del Congreso del Estado, a propuesta de la Junta de Gobierno y Coordinación Política.
+
+Las personas integrantes deberán contar con los requisitos señalados en la Constitución Política para el Estado de Guanajuato y en la legislación electoral.
+
+El Comité de Evaluación del Poder Legislativo durará en funciones exclusivamente durante el proceso correspondiente y su participación será honorífica.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Artículo 131 Terdecies. El Comité de Evaluación del Poder Legislativo se regirá por los principios de legalidad, imparcialidad, objetividad, transparencia, máxima publicidad, paridad de género e inclusión.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Artículo 131 Quaterdecies. Son atribuciones del Comité de Evaluación del Poder Legislativo los señalados en la Constitución Política para el Estado de Guanajuato y en la legislación electoral, así como de carácter complementaria las siguientes:
+
+I. Acordar su operatividad conforme a la convocatoria;
+
+II. Emitir la convocatoria para participar en el proceso de evaluación y selección de postulaciones;
+
+III. Recibir las solicitudes de registro;
+
+IV. Integrar y resguardar los expedientes respectivos;
+
+V. Verificar requisitos constitucionales y legales;
+
+VI. Evaluar la idoneidad de las personas aspirantes con base en criterios objetivos previamente definidos, considerando sus conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica;
+
+VII. Identificar a las personas mejor evaluadas para cada cargo;
+
+VIII. Integrar los listados correspondientes;
+
+IX. Ajustar los listados mediante insaculación pública, únicamente cuando resulte estrictamente necesario, conforme a lo previsto en la Constitución Política para el Estado de Guanajuato, garantizando en todo momento el principio de idoneidad y paridad de género; y
+
+X. Remitir los listados al Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Artículo 131 Quindecies. Las determinaciones del Comité de Evaluación del Poder Legislativo tendrán carácter técnico y deberán estar debidamente fundadas, motivadas y ser públicas.
 
 ## TÍTULO QUINTO. Grupos Parlamentarios y Representaciones Parlamentarias
 
-### Capítulo I. Apertura y Clausura de los Periodos de Sesiones
+### Capítulo Único. Formas de Organización
 
 ###### Artículo 132.
 
@@ -1727,7 +1921,7 @@ Las personas diputadas que conformen los grupos y representaciones parlamentaria
 
 ## TÍTULO SEXTO. Práctica Parlamentaria
 
-### Capítulo II. Sesiones
+### Capítulo I. Apertura y Clausura de los Periodos de Sesiones
 
 ###### Artículo 142.
 
@@ -1749,7 +1943,7 @@ La Presidencia hará la declaratoria sobre el periodo ordinario o extraordinario
 
 La apertura y clausura de los periodos ordinarios y extraordinarios de sesiones se comunicarán a la persona titular del Poder Ejecutivo del Estado, a la Presidencia del Supremo Tribunal de Justicia del Estado, al Congreso de la Unión a través de sus dos cámaras, a la persona titular del Poder Ejecutivo Federal, a quien presida la Suprema Corte de Justicia de la Nación, a los órganos legislativos de las entidades federativas, y a los ayuntamientos del Estado.
 
-### Capítulo III. Ceremonial
+### Capítulo II. Sesiones
 
 ###### Artículo 146.
 
@@ -1877,7 +2071,7 @@ Los asuntos generales que se presenten en sesión ordinaria no podrán exceder d
 
 Se podrá solicitar el uso de la voz para alusiones personales o rectificación de hechos cuando concluya la persona oradora, por persona diputada por una sola ocasión hasta por tres minutos desde su curul.
 
-### Capítulo IV. Orden del Público en las Sesiones
+### Capítulo III. Ceremonial
 
 ###### Artículo 160.
 
@@ -1929,7 +2123,7 @@ El uso de la tribuna es exclusivo de las personas diputadas; el acceso a este es
 
 Siempre se destinará un lugar especial en el salón de sesiones a las personas magistradas del Supremo Tribunal de Justicia, a las personas titulares de los organismos autónomos, de la administración pública centralizada del Ejecutivo Estatal, de las presidencias municipales del Estado y a quienes sean integrantes de los cuerpos diplomático y consular.
 
-### Capítulo I. Iniciativas
+### Capítulo IV. Orden del Público en las Sesiones
 
 ###### Artículo 171.
 
@@ -1949,7 +2143,7 @@ Si las disposiciones ordenadas por la Presidencia del Congreso del Estado no bas
 
 ## TÍTULO SÉPTIMO. Proceso Legislativo
 
-### Capítulo II. Dictámenes
+### Capítulo I. Iniciativas
 
 ###### Artículo 175.
 
@@ -2055,7 +2249,7 @@ Las iniciativas populares que sean presentadas seguirán el procedimiento de pro
 
 En caso de no contar con los requisitos establecidos en la Constitución Política para el Estado de Guanajuato y la Ley de la materia, la Mesa Directiva acordará su archivo definitivo. Las notificaciones derivadas del trámite de la declaratoria de procedencia o improcedencia serán de manera personal y mediante los medios o firma electrónica.
 
-### Capítulo III. Discusiones
+### Capítulo II. Dictámenes
 
 ###### Artículo 186.
 
@@ -2089,7 +2283,7 @@ La dispensa de lectura de los dictámenes en las Comisiones legislativas procede
 
 Los dictámenes suscritos por alguna comisión legislativa de una Legislatura anterior, que no hayan sido presentados al Pleno, serán objeto de estudio por la comisión legislativa respectiva de la Legislatura actual, la que podrá ratificarlos o proceder a la formulación de un nuevo dictamen en los términos que así lo considere.
 
-### Capítulo IV. Votaciones
+### Capítulo III. Discusiones
 
 ###### Artículo 192.
 
@@ -2223,7 +2417,7 @@ Las reservas en lo particular podrán exponerse hasta por cinco minutos.
 
 Aprobado un proyecto de ley, decreto o acuerdo, si así lo acuerda el Pleno, deberá ser enviado a las secretarías de la Mesa Directiva para que, en unión con la Presidencia de la comisión dictaminadora, elaboren la minuta en los términos que deba publicarse y, se remitirá a la persona titular del Poder Ejecutivo del Estado, para los efectos constitucionales correspondientes o a las autoridades que se señalen en el acuerdo respectivo, según corresponda.
 
-### Capítulo V. Resoluciones
+### Capítulo IV. Votaciones
 
 ###### Artículo 203.
 
@@ -2347,7 +2541,7 @@ La persona diputada que no participó en la discusión podrá solicitar que el r
 
 Ninguna persona diputada podrá abstenerse de votar estando en la sesión o reunión de comisión, a no ser que tenga interés personal en el asunto que sea objeto de proposición o dictamen o haya fijado su posición política, la cual deberá de quedar registrada en el acta o minuta correspondiente. Tampoco podrá retirarse durante las votaciones.
 
-### Capítulo VI. Expedición de Leyes
+### Capítulo V. Resoluciones
 
 ###### Artículo 218.
 
@@ -2371,7 +2565,7 @@ V. Minutas Proyecto de Decreto: Es la resolución que contiene el texto exacto d
 
 Las resoluciones del Congreso del Estado en materia electoral tendrán el carácter de decreto.
 
-### Capítulo VII. Evaluación Legislativa
+### Capítulo VI. Expedición de Leyes
 
 ###### Artículo 220.
 
@@ -2407,7 +2601,7 @@ La Mesa Directiva requerirá a los ayuntamientos que no se hayan pronunciado apr
 
 Vencido el plazo de requerimiento, la Mesa Directiva en sesión de Pleno o Diputación Permanente inmediata llevará a cabo en su caso, la declaratoria correspondiente.
 
-### Capítulo I. Participación Ciudadana
+### Capítulo VII. Evaluación Legislativa
 
 ###### Artículo 226.
 
@@ -2417,13 +2611,13 @@ En el caso de leyes o decretos ya aprobados o publicados, la Unidad de Seguimien
 
 ## TÍTULO OCTAVO. Participación Ciudadana y Observatorio Ciudadano Legislativo
 
-### Capítulo II. Observatorio Ciudadano Legislativo
+### Capítulo I. Participación Ciudadana
 
 ###### Artículo 227.
 
 El Congreso del Estado establecerá mecanismos de participación, en colaboración con el Observatorio Ciudadano Legislativo, en la planeación, programación, ejecución, evaluación y supervisión de las actividades en materia legislativa y parlamentaria, que se lleven a cabo en sus ámbitos de competencia, de acuerdo con esta Ley y los lineamientos.
 
-### Capítulo II. Parlamento Abierto
+### Capítulo II. Observatorio Ciudadano Legislativo
 
 ###### Artículo 228.
 
@@ -2491,7 +2685,7 @@ Las recomendaciones deberán ser aprobadas por la mayoría de los integrantes de
 
 Los Grupos Parlamentarios, Representaciones Parlamentarias o personas diputadas a las que se dirijan las recomendaciones, deberán dar respuesta fundada y motivada, en un plazo que no exceda de quince días hábiles a partir de su recepción, tanto en los casos en los que se acepte la recomendación, como en los casos en los que decidan rechazarla. En caso de aceptar la recomendación se deberá informar al Observatorio Ciudadano Legislativo las acciones específicas que se tomarán para dar cumplimiento.
 
-### Capítulo I. Declaratoria de separación del cargo
+### Capítulo II. Parlamento Abierto
 
 ###### Artículo 236.
 
@@ -2509,7 +2703,7 @@ Cualquier infracción a esta norma será sancionada con la remoción de las Comi
 
 ## TÍTULO NOVENO. Procedimientos Constitucionales
 
-### Capítulo II. Substanciación del Trámite para Declarar Desaparecido un Ayuntamiento o Suspender o Revocar el Mandato a quienes los integran
+### Capítulo I. Declaratoria de separación del cargo
 
 ###### Artículo 238.
 
@@ -2555,7 +2749,7 @@ V. Personas integrantes de ayuntamientos, se procederá de conformidad con la Le
 
 El Congreso del Estado determinará la restitución en el cargo público de la persona que hubiera sido absuelta por sentencia firme o bien el proceso penal concluya con resoluciones absolutoria o revocatoria del auto de vinculación a proceso, firmes.
 
-### Capítulo III. Procedimiento para Declarar la Imposibilidad de los Municipios para Ejercer una Función o Prestar un Servicio Público
+### Capítulo II. Substanciación del Trámite para Declarar Desaparecido un Ayuntamiento o Suspender o Revocar el Mandato a quienes los integran
 
 ###### Artículo 244.
 
@@ -2671,7 +2865,7 @@ Cuando la denuncia se deba a la ausencia absoluta de la mayoría de las personas
 
 Si el Congreso del Estado dicta la revocación del mandato contra de personas integrantes de los ayuntamientos, en la resolución correspondiente el propio Congreso del Estado decretará la suspensión, ordenando se llame a la persona suplente si se tratare de quien ostenta el cargo de sindicatura o regiduría. Si la persona suspendida fuera la persona titular de la Presidencia Municipal, la designación de la persona interina o sustituta en su caso se llevará a cabo por el Ayuntamiento
 
-### Capítulo IV. Procedimiento para la Erección de un Nuevo Municipio
+### Capítulo III. Procedimiento para Declarar la Imposibilidad de los Municipios para Ejercer una Función o Prestar un Servicio Público
 
 ###### Artículo 259.
 
@@ -2695,7 +2889,7 @@ III. Transcurrido el término anterior, la Comisión de Asuntos Municipales elab
 
 IV. En el supuesto de que el Congreso del Estado resuelva favorablemente la solicitud del Ayuntamiento, esta resolución deberá determinar las condiciones en que el Poder Ejecutivo del Estado, asumirá el ejercicio de la función o la prestación del servicio público de que se trate, atendiendo a las circunstancias de cada caso concreto.
 
-### Capítulo I. Auditoría Superior del Estado
+### Capítulo IV. Procedimiento para la Erección de un Nuevo Municipio
 
 ###### Artículo 262.
 
@@ -2761,7 +2955,7 @@ El Congreso del Estado y las autoridades municipales nombradas, atenderán en el
 
 ## TÍTULO DÉCIMO. De la Organización del Congreso del Estado
 
-### Capítulo II. Organización Interna del Congreso del Estado
+### Capítulo I. Auditoría Superior del Estado
 
 ###### Artículo 268.
 
@@ -2769,7 +2963,7 @@ El Congreso del Estado ejercerá las funciones técnicas de fiscalización a tra
 
 La Auditoría Superior del Estado tendrá las unidades administrativas necesarias para el cumplimiento de sus funciones de conformidad con la disponibilidad presupuestal y su normatividad.
 
-### Capítulo III. Secretaría General
+### Capítulo II. Organización Interna del Congreso del Estado
 
 ###### Artículo 269.
 
@@ -2783,7 +2977,7 @@ II. Órgano Interno de Control del Poder Legislativo.
 
 Las dependencias señaladas en el artículo anterior tendrán las unidades administrativas necesarias para el cumplimiento de las funciones que les competen, de conformidad con el Presupuesto de Egresos del Poder Legislativo del Estado, con la presente Ley, así como con el Estatuto del Servicio Civil de Carrera, reglamentos y manuales de organización y funcionamiento.
 
-### Capítulo IV. Órgano Interno de Control del Poder Legislativo
+### Capítulo III. Secretaría General
 
 ###### Artículo 271.
 
@@ -2881,7 +3075,7 @@ VI. Las violaciones graves en los términos de la Ley de responsabilidades aplic
 
 Las personas responsables de los órganos administrativos deberán elaborar y suscribir la información de su área para integrar los anexos de la entrega recepción que la Legislatura saliente entregará a la entrante.
 
-#### Sección Tercera. Dirección General de Archivos
+#### Sección Primera. Dirección General de Servicios y Apoyo Técnico Parlamentario
 
 ###### Artículo 276.
 
@@ -2955,7 +3149,7 @@ Las personas que ostenten el cargo de secretaría técnica de las comisiones leg
 
 Para el ejercicio de sus funciones la Dirección General de Servicios y Apoyo Técnico Parlamentario, contará con las secretarías técnicas y unidades necesarias para el desempeño de sus funciones.
 
-#### Sección Cuarta. Instituto de Investigaciones Legislativas
+#### Sección Segunda. Dirección General de Administración
 
 ###### Artículo 279.
 
@@ -3013,7 +3207,7 @@ III. Desarrollo Institucional; y
 
 IV. Dirección de Innovación y Desarrollo Tecnológico.
 
-#### Sección Quinta. Unidad de Estudios de las Finanzas Públicas
+#### Sección Tercera. Dirección General de Archivos
 
 ###### Artículo 283.
 
@@ -3047,7 +3241,7 @@ II. Contar con título profesional en alguna de las ramas de las ciencias social
 
 III. Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto.
 
-#### Sección Sexta. Unidad de Transparencia
+#### Sección Cuarta. Instituto de Investigaciones Legislativas
 
 ###### Artículo 285.
 
@@ -3095,7 +3289,7 @@ III. Tener experiencia en la investigación parlamentaria y legislativa; y
 
 IV. Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto.
 
-#### Sección Séptima. Unidad de Seguimiento y Análisis de Impacto Legislativo
+#### Sección Quinta. Unidad de Estudios de las Finanzas Públicas
 
 ###### Artículo 287.
 
@@ -3143,7 +3337,7 @@ II. Contar con título profesional en alguna de las ramas de las ciencias juríd
 
 III. Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto.
 
-#### Sección Octava. Unidad de Igualdad de Género
+#### Sección Sexta. Unidad de Transparencia
 
 ###### Artículo 290.
 
@@ -3167,7 +3361,7 @@ II. Contar con título profesional en alguna de las ramas de las ciencias juríd
 
 III. Tener los conocimientos y capacidad de acuerdo al perfil del puesto y preferentemente con experiencia en la materia.
 
-#### Sección Novena. Dirección de Comunicación Social
+#### Sección Séptima. Unidad de Seguimiento y Análisis de Impacto Legislativo
 
 ###### Artículo 292.
 
@@ -3199,7 +3393,7 @@ II. Contar con título profesional en alguna de las ramas de las ciencias social
 
 III. Tener los conocimientos, experiencia y capacidad de acuerdo a las atribuciones del puesto.
 
-#### Sección Décima. Dirección de Asuntos Jurídicos
+#### Sección Octava. Unidad de Igualdad de Género
 
 ###### Artículo 294.
 
@@ -3223,6 +3417,8 @@ II. Contar con título profesional en alguna de las ramas de las ciencias social
 
 III. Tener experiencia en el desarrollo, implementación y evaluación acreditable en materia de igualdad de género.
 
+#### Sección Novena. Dirección de Comunicación Social
+
 ###### Artículo 296.
 
 La Dirección de Comunicación Social tendrá las siguientes atribuciones:
@@ -3244,6 +3440,8 @@ I. Tener ciudadanía mexicana en pleno goce de sus derechos civiles y políticos
 II. Contar con título profesional en alguna de las áreas de ciencias de la comunicación o periodismo, legalmente expedido y contar con una experiencia profesional de cuando menos cinco años; y
 
 III. Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto.
+
+#### Sección Décima. Dirección de Asuntos Jurídicos
 
 ###### Artículo 298.
 
@@ -3274,6 +3472,8 @@ I. Tener ciudadanía mexicana en pleno goce de sus derechos, civiles y político
 II. Contar con título profesional de licenciatura en derecho o abogado, legalmente expedido y contar con una experiencia profesional de cuando menos cinco años; y
 
 III. Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto.
+
+### Capítulo IV. Órgano Interno de Control del Poder Legislativo
 
 ###### Artículo 300.
 
@@ -3472,3 +3672,15 @@ P.O. 17 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 181, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 115 Y LA FRACCIÓN X DEL ARTÍCULO 288 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno de Estado de Guanajuato.
+
+P.O. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 195, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato, con excepción de la reforma al artículo 114, fracción III, que entrará en vigor el veinticinco de septiembre de dos mil veintisiete.
+
+Artículo segundo. Las disposiciones contenidas en el presente Decreto, en materia de integración, organización y funcionamiento bajo los principios de paridad de género, igualdad sustantiva y perspectiva de género, no serán aplicables a la Legislatura en funciones.
+
+Dichas disposiciones serán aplicables a partir de la siguiente Legislatura que se integre con motivo del proceso electoral inmediato posterior.
+
+Artículo tercero. El Congreso del Estado deberá emitir la convocatoria para la integración de los listados de candidaturas a los cargos del Poder Judicial del Estado en los plazos previstos en la Constitución Política para el Estado de Guanajuato y en la legislación electoral aplicable.
