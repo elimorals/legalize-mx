@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-proteccion-e-inclusion-de-las-personas-con-22515"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2025-09-15"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 15 de mayo de 1996.
 
@@ -49,11 +49,11 @@ LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 1o.
 
-Las disposiciones de esta Ley son de orden público e interés social y tienen por finalidad, el establecimiento de medidas y acciones que contribuyan a promover, proteger y asegurar el pleno ejercicio de los derechos humanos y libertades fundamentales de las personas con discapacidad, asegurando su plena inclusión a la sociedad en un marco de respeto, igualdad y equiparación de oportunidades para el desarrollo integral de las personas que padecen algún tipo y grado de discapacidad en el Estado de Nayarit.
+Las disposiciones de esta Ley son de orden público e interés social y tienen por finalidad, el establecimiento de medidas y acciones que contribuyan a promover, proteger y asegurar el pleno ejercicio de los derechos humanos y libertades fundamentales de las personas con discapacidad, asegurando su plena inclusión a la sociedad en un marco de respeto, igualdad sustantiva y equiparación de oportunidades para el desarrollo integral de las personas que padecen algún tipo y grado de discapacidad en el Estado de Nayarit.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -129,7 +129,9 @@ II. La justicia social;
 
 III. La igualdad de oportunidades;
 
-IV. El reconocimiento de la igualdad entre humanos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+IV. El reconocimiento de la igualdad sustantiva entre mujeres y hombres;
 
 V. El respeto de la dignidad inherente, la autonomía individual, incluida la libertad de tomar las propias decisiones y la independencia de las personas;
 
@@ -141,7 +143,9 @@ VIII. La accesibilidad;
 
 IX. La no discriminación;
 
-X. La igualdad entre mujeres y hombres con discapacidad;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+X. La igualdad sustantiva entre mujeres y hombres con discapacidad;
 
 XI. La transversalidad, y
 
@@ -357,55 +361,77 @@ La orientación y tratamiento psicológico tendrán en cuenta las característic
 
 ### Capítulo IV. Rehabilitación socioeconómica y laboral, y del empleo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 23.
 
-El Consejo Estatal, el Sistema Estatal de Empleo y el Sistema para el Desarrollo Integral de la Familia en el Estado, en coordinación con las dependencias estatales y federales relacionadas con la materia fomentarán las condiciones que propicien la inclusión laboral de las personas con discapacidad, tendiente al logro de su independencia económica para alcanzar un desarrollo pleno y disfrutar de una vida digna e independiente, promoviendo para el caso su integración en el sistema ordinario de trabajo o, bien, la incorporación al sistema productivo en Talleres y Centros Especiales de Empleo.
+El Consejo Estatal, el Servicio Estatal de Empleo y el Sistema para el Desarrollo Integral de la Familia del Estado, en coordinación con las dependencias estatales y federales relacionadas con la materia fomentarán las condiciones que propicien la inclusión laboral de las personas con discapacidad, tendiente al logro de su independencia económica para alcanzar un desarrollo pleno y disfrutar de una vida digna e independiente, promoviendo para el caso su integración en el sistema ordinario de trabajo o, bien, la incorporación al sistema productivo en Talleres y Centros Especiales de Empleo.
 
 A este efecto, promoverá la capacitación de las personas con discapacidad con el fin de permitir e incrementar su inserción en el mercado de trabajo.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 24.
 
-El Consejo Estatal, el Sistema Estatal de Empleo y el Sistema Estatal para el Desarrollo Integral de la Familia implementarán programas de capacitación dirigidos a las personas con discapacidad se lleven a cabo de acuerdo a las necesidades de éstas y a los requerimientos de la planta laboral o las posibilidades de empleo.
+El Consejo Estatal, el Servicio Estatal de Empleo y el Sistema Estatal para el Desarrollo Integral de la Familia implementarán programas de capacitación dirigidos a las personas con discapacidad (sic) se lleven a cabo de acuerdo a las necesidades de éstas y a los requerimientos de la planta laboral o las posibilidades de empleo.
 
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
-Artículo 24 bis.- Las personas con discapacidad tienen derecho al trabajo y la capacitación, en términos de igualdad de oportunidades y equidad. Para tales efectos, la Secretaría del Trabajo Productividad y Desarrollo Económico y demás autoridades competentes establecerán entre otras, las siguientes medidas:
+Artículo 24 bis.- Las personas con discapacidad tienen derecho al trabajo y la capacitación, en términos de igualdad de oportunidades y equidad. Para tales efectos, la Secretaría del Trabajo y Justicia Laboral y demás autoridades competentes establecerán entre otras, las siguientes medidas:
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2017)</small>
 
 I. Promover el establecimiento de políticas estatales en materia de trabajo encaminadas a la inclusión laboral de las personas con discapacidad, a fin de garantizar que en ningún caso la discapacidad sea motivo de discriminación para la selección, contratación y continuidad en el empleo;
 
-II. Proteger los derechos laborales de las personas con discapacidad, en equidad de condiciones que el resto de los trabajadores, incluyendo oportunidades escalafonarias y de remuneración;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+II. Proteger los derechos laborales de las personas con discapacidad, en equidad de condiciones que el resto de las trabajadoras y los trabajadores, incluyendo oportunidades escalafonarias y de remuneración;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2017)</small>
 
 III. Fomentar becas económicas de capacitación para el trabajo;
 
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2017)</small>
+
 IV. Promover programas de capacitación para el empleo y el desarrollo de actividades productivas destinadas a personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2017)</small>
 
 V. Fomentar programas estatales de trabajo y capacitación para personas con discapacidad a través de convenios con los sectores empresariales, sector público y privado, universidades, entidades públicas, organismos sociales, sindicatos y empleadores, que propicien el acceso al trabajo, incluyendo la creación de agencias de integración laboral, centros de trabajo protegido, talleres, asistencia técnica y becas económicas temporales;
 
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2017)</small>
+
 VI. Formular y ejecutar programas específicos de incorporación de personas con discapacidad como servidores públicos;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2017)</small>
 
 VII. Fomentar la capacitación y sensibilización al personal que trabaje con personas con discapacidad en el sector público y privado;
 
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2017)</small>
+
 VIII. Promover medidas a efecto de que las obligaciones laborables no interrumpan el proceso de rehabilitación de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2017)</small>
 
 IX. Promover el autoempleo de las personas con discapacidad, y
 
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2017)</small>
+
 X. Salvaguardar el ejercicio de los derechos laborales de las personas con discapacidad, incluso para aquellas que adquieran una discapacidad durante el empleo.
 
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
-Artículo 24 ter.- La Secretaría del Trabajo Productividad y Desarrollo Económico del Estado, fomentará convenios con empresas para el desarrollo de estrategias de formación en el trabajo, y para desarrollar programas tendientes a la capacitación y actualización continua de las personas con discapacidad.
+Artículo 24 ter.- La Secretaría del Trabajo y Justicia Laboral, fomentará convenios con empresas para el desarrollo de estrategias de formación en el trabajo, y para desarrollar programas tendientes a la capacitación y actualización continua de las personas con discapacidad.
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2017)</small>
 
 Las autoridades estatales y municipales competentes convocarán a las organizaciones no gubernamentales, a los empresarios y sus representantes, los sindicatos y el sector social, para que impulsen programas de capacitación e integración laboral para personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 25.
 
-Corresponderá al Consejo Estatal, al Sistema Estatal de Empleo, y la Secretaría del Trabajo Productividad y Desarrollo Económico del Estado, facilitar la relación entre los organismos de capacitación con las empresas y oficinas públicas y privadas, con el objeto de dar colocación en puestos de trabajo a personas con discapacidad.
+Corresponderá al Consejo Estatal, al Servicio Estatal de Empleo, y a la Secretaría del Trabajo y Justicia Laboral, facilitar la relación entre los organismos de capacitación con las empresas y oficinas públicas y privadas, con el objeto de dar colocación en puestos de trabajo a personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
@@ -433,11 +459,11 @@ Los centros especiales de empleo podrán ser creados por el Gobierno del Estado,
 
 El trabajo que realicen las personas con discapacidad en los centros especiales de empleo, deberá ser productivo y remunerado, adecuado a las características individuales del trabajador, en orden a favorecer su adaptación personal y social y facilitar en su caso, su posterior integración en el mercado ordinario de trabajo.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 30.
 
-El Gobernador y los Ayuntamientos promoverán el otorgamiento de estímulos fiscales para aquellas personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes, en virtud de tales contrataciones, realicen adaptaciones, eliminación de barreras físicas o rediseño de sus áreas de trabajo.
+La Gobernadora o el Gobernador y los Ayuntamientos promoverán el otorgamiento de estímulos fiscales para aquellas personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes, en virtud de tales contrataciones, realicen adaptaciones, eliminación de barreras físicas o rediseño de sus áreas de trabajo.
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
 
@@ -551,17 +577,19 @@ El gobierno municipal podrá realizar convenios de colaboración con centros com
 
 Los edificios que tengan escaleras en su acceso desde la vía pública, deberán contar con un sistema de rampas para dar servicio a las personas con discapacidad, instalándose o adecuándose en su caso pasamanos, barandales o elevadores con las características de seguridad y diseño que disponga la autoridad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 47.
 
-El Ejecutivo del Estado y los Municipios procurarán que en los programas para el desarrollo urbano se establezcan las adecuaciones urbanísticas y arquitectónicas que se requieran conforme a las necesidades de las personas con discapacidad debiéndose contemplar las directrices a que deban someterse los proyectos de construcciones o modificaciones respectivas.
+El Poder Ejecutivo del Estado y los Municipios procurarán que en los programas para el desarrollo urbano se establezcan las adecuaciones urbanísticas y arquitectónicas que se requieran conforme a las necesidades de las personas con discapacidad debiéndose contemplar las directrices a que deban someterse los proyectos de construcciones o modificaciones respectivas.
 
 Los proyectos de construcción de zonas urbanas de nueva creación y conjuntos habitacionales que constituyan un complejo arquitectónico, contemplarán las directrices antes señaladas, a fin de que tales inmuebles resulten de fácil acceso para las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 48.
 
-Los Ayuntamientos asumirán, en los términos de este ordenamiento y convenios que suscriba con el Ejecutivo del Estado, un programa de supresión de barreras arquitectónicas y vigilarán dentro de su respectiva esfera de competencia, el cumplimiento de las disposiciones contenidas en esta Ley y demás disposiciones legales y reglamentarias aplicables en la materia.
+Los Ayuntamientos asumirán, en los términos de este ordenamiento y convenios que suscriba con la persona Titular del Poder Ejecutivo del Estado, un programa de supresión de barreras arquitectónicas y vigilarán dentro de su respectiva esfera de competencia, el cumplimiento de las disposiciones contenidas en esta Ley y demás disposiciones legales y reglamentarias aplicables en la materia.
 
 ### Capítulo II. Del Servicio Público de Transporte
 
@@ -571,7 +599,9 @@ Los Ayuntamientos asumirán, en los términos de este ordenamiento y convenios q
 
 Sin perjuicio de lo dispuesto en otros ordenamientos legales, las personas con discapacidad tienen derecho a contar con preferencias que les permitan el abordaje, libre desplazamiento y descenso en el transporte.
 
-El Ejecutivo del Estado, en los términos de la ley de la materia, otorgará concesiones de Transporte especializado a las organizaciones o particulares que satisfagan los requisitos y condiciones que la misma establece, debiendo reunir además, las especificaciones técnicas y especiales que permitan el acceso y uso adecuado a las personas con capacidad.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+La persona Titular del Poder Ejecutivo del Estado, en los términos de la ley de la materia, otorgará concesiones de Transporte especializado a las organizaciones o particulares que satisfagan los requisitos y condiciones que la misma establece, debiendo reunir además, las especificaciones técnicas y especiales que permitan el acceso y uso adecuado a las demás personas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
@@ -619,41 +649,73 @@ La Secretaría de Educación Pública promoverá la incorporación de estos cont
 
 Se crea el Consejo Estatal para la Inclusión de las Personas con Discapacidad, como el órgano deliberativo permanente encargado de promover, impulsar y dar seguimiento a las acciones, estrategias, programas y políticas públicas para la atención, inclusión y desarrollo integral de las personas con discapacidad en el Estado de Nayarit, mediante la coordinación institucional e interinstitucional con los sectores público y privado.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 54.
 
-El Consejo Estatal se integrará por los siguientes titulares:
+El Consejo Estatal se integrará por las siguientes personas titulares:
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 I.- Del Poder Ejecutivo, quien lo presidirá;
 
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
 II.- De la Secretaría General de Gobierno;
 
-III.- De la Secretaría del Trabajo, Productividad y Desarrollo Económico;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+III.- De la Secretaría del Trabajo y Justicia Laboral;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 IV.- De la Secretaría de Educación;
 
-V.- De la Secretaría de Obras Públicas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VI.- De la Secretaría de Planeación, Programación y Presupuesto;
+V.- De la Secretaría de Infraestructura;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VI.- De la Secretaría de Desarrollo Sustentable;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 VII.- De La Secretaría de Salud;
 
-VIII.- De la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VIII.- De la Secretaría de Desarrollo Económico y Social;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 IX.- Del Sistema para el Desarrollo Integral de la Familia;
 
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
 X.- Del Instituto Nayarita de Cultura Física y Deporte;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 XI.- De los Servicios de Educación Pública del Estado de Nayarit;
 
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
 XII.- Del Centro de Rehabilitación y Educación Especial, y
 
-XIII.- Un Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-El Titular del Poder Ejecutivo podrá ser suplido en sus ausencias, preferentemente por el Secretario General de Gobierno, o por el servidor público que designe. Los demás integrantes designarán a sus suplentes, quienes deberán tener un nivel mínimo de Director.
+XIII.- Una Secretaria o Secretario Ejecutivo.
 
-Con excepción del Secretario Ejecutivo, los demás integrantes del Consejo Estatal participarán con carácter honorifico.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+La persona Titular del Poder Ejecutivo podrá ser suplida en sus ausencias, preferentemente por la Secretaria o Secretario General de Gobierno, o por la o el servidor público que designe. Las demás personas integrantes designarán a sus suplentes, quienes deberán tener un nivel mínimo de Directora o Director.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Con excepción de la Secretaria o Secretario Ejecutivo, las y los demás integrantes del Consejo Estatal participarán con carácter honorifico.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 Para el cumplimiento de sus atribuciones, el Consejo Estatal contará con el personal de apoyo que requiera y se le asigne en el Presupuesto de Egresos correspondiente.
 
@@ -665,15 +727,15 @@ Artículo 54 bis.- Podrán participar como miembros del Consejo Estatal seis int
 
 El Consejo Estatal, por conducto de su Presidente y atendiendo a la naturaleza del asunto a tratar, podrá invitar a las personas, instituciones y representantes de las organizaciones de la sociedad civil con conocimiento en materia de discapacidad, para que realicen las aportaciones que consideren oportunas. Asimismo, podrá convocar a los representantes de las dependencias públicas federales, estatales o municipales, que por la importancia de sus atribuciones, resulte necesaria su presencia. De ser el caso, intervendrán con voz pero sin voto.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 55.
 
-El Consejo Estatal, sesionará de manera ordinaria tres veces por año, y de manera extraordinaria tantas veces como sea necesario y así lo disponga su Presidente.
+El Consejo Estatal, sesionará de manera ordinaria tres veces por año, y de manera extraordinaria tantas veces como sea necesario y así lo disponga su Presidenta o Presidente.
 
-Para sesionar válidamente se requerirá la asistencia de por lo menos la mitad más uno de sus integrantes, las decisiones se tomarán por mayoría de votos de los presentes, y en caso de empate, el Presidente tendrá el voto de calidad.
+Para sesionar válidamente se requerirá la asistencia de por lo menos la mitad más uno de sus integrantes, las decisiones se tomarán por mayoría de votos de las personas presentes, y en caso de empate, la Presidenta o el Presidente tendrá el voto de calidad.
 
-El Secretario Ejecutivo participará únicamente con derecho a voz en las sesiones del Consejo Estatal.
+La Secretaria o Secretario Ejecutivo participará únicamente con derecho a voz en las sesiones del Consejo Estatal.
 
 ###### Artículo 56.
 
@@ -683,9 +745,9 @@ I.- Analizar la problemática estatal de las personas con discapacidad;
 
 II.- Formular, presentar o apoyar la elaboración de planes y programas sobre la materia;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-III.- Proponer al Titular del Poder Ejecutivo, en el marco de los Programas Nacional y Estatal para el Desarrollo y la Inclusión de las Personas con Discapacidad, la celebración de acuerdos de coordinación con la federación, los particulares y los municipios para hacer efectivos los derechos que esta Ley establece a favor de las personas con discapacidad;
+III.- Proponer a la persona Titular del Poder Ejecutivo, en el marco de los Programas Nacional y Estatal para el Desarrollo y la Inclusión de las Personas con Discapacidad, la celebración de acuerdos de coordinación con la federación, los particulares y los municipios para hacer efectivos los derechos que esta Ley establece a favor de las personas con discapacidad;
 
 IV.- Vigilar y supervisar el estricto cumplimiento de las disposiciones de esta ley, por la autoridades encargadas de su aplicación;
 
@@ -693,15 +755,17 @@ V.- Evaluar periódicamente, el avance y resultado de los planes y programas est
 
 VI.- Impulsar la investigación científica y desarrollo tecnológico sobre la discapacidad con el concurso de las instituciones de educación superior existentes en el Estado.
 
-VII.- Proponer al Titular del Poder Ejecutivo y a los Ayuntamientos la modificación, reformas y adiciones del marco jurídico en materia de discapacidad;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VII.- Proponer a la persona Titular del Poder Ejecutivo y a los Ayuntamientos la modificación, reformas y adiciones del marco jurídico en materia de discapacidad;
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
 
 VIII.- Organizar y participar en eventos y foros de discusión y análisis relativos a la problemática de las personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-IX.- Presentar un informe anual de actividades al Gobernador del Estado;
+IX.- Presentar un informe anual de actividades a la Gobernadora o Gobernador del Estado;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
@@ -723,45 +787,75 @@ XIII.- Las demás que sean necesarias para la consecución de los fines de su cr
 
 ### Capítulo II. Del Consejo Consultivo para las Personas con Discapacidad
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-Artículo 56 bis.- El Secretario Ejecutivo tendrá a su cargo la coordinación operativa y representación ejecutiva del Consejo Estatal, debiendo ser nombrado y removido por el Gobernador del Estado.
+Artículo 56 bis.- La Secretaria o Secretario Ejecutivo tendrá a su cargo la coordinación operativa y representación ejecutiva del Consejo Estatal, debiendo dicha persona ser nombrada y removida por la Gobernadora o el Gobernador del Estado.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
-Artículo 56 ter.- Para ser Secretario Ejecutivo se requiere:
+Artículo 56 ter.- Para ser Secretaria o Secretario Ejecutivo se requiere:
 
-I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+I.- Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 II.- Gozar de buena reputación;
 
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
 III.- Tener al menos 30 años de edad al día de su designación, y
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 IV.- Acreditar experiencia en la materia, habiéndose desempeñado destacadamente en actividades profesionales, de servicio público, académicas, en la sociedad civil u otras relacionadas en apoyo de personas con discapacidad.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
-Artículo 56 quáter.- Son atribuciones del Secretario Ejecutivo las siguientes:
+Artículo 56 quáter.- Son atribuciones de la Secretaria o Secretario Ejecutivo las siguientes:
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 I.- Ejecutar los acuerdos y decisiones tomadas por el Consejo Estatal;
 
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
 II.- Formular y proponer al Consejo Estatal los anteproyectos de planes, programas y demás instrumentos necesarios para su operatividad;
 
-III.- Convocar a las sesiones del Consejo Estatal que le instituya el Presidente, y asistir a las mismas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+III.- Convocar a las sesiones del Consejo Estatal que le instituya la o el Presidente, y asistir a las mismas;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 IV.- Elaborar las actas de las sesiones del Consejo Estatal y llevar a cabo el registro y archivo de éstas y de las convocatorias;
 
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
 V.- Registrar el avance y resultado de las acciones, planes y programas ejercidos a favor de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 VI.- Elaborar y proponer al Consejo Estatal, las disposiciones normativas o modificaciones que considere necesarias en materia de inclusión de personas con discapacidad;
 
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
 VII.- Presentar anualmente al Consejo Estatal, las actividades realizadas para la elaboración del informe respectivo;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 VIII.- Realizar ante instituciones públicas y privadas, las gestiones necesarias para la atención e inclusión de personas con discapacidad;
 
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
 IX.- Ejercer las acciones jurídicas necesarias ante las autoridades administrativas, y en su caso jurisdiccionales, que sean competentes, con motivo de hechos de los que tenga conocimiento que sean privativos de los derechos de las personas con discapacidad;
 
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
+
 X.- Suscribir, previo acuerdo del Consejo Estatal, convenios, acuerdos de colaboración y demás instrumentos que se celebren en beneficio de las personas con discapacidad, y
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
 XI.- Las demás que le sean asignadas por el Consejo Estatal, que sean necesarias para el cumplimiento de sus funciones, o que le establezcan otras disposiciones aplicables.
 
@@ -769,11 +863,17 @@ XI.- Las demás que le sean asignadas por el Consejo Estatal, que sean necesaria
 
 Artículo 56 quinquies.- El Consejo Consultivo es un órgano de asesoría y consulta, de carácter honorífico, que tendrá por objeto proponer y opinar sobre los programas o acciones que se emprendan a favor de las personas con discapacidad, así como recabar propuestas y presentarlas al Consejo Estatal.
 
-El Consejo Consultivo estará integrado por representantes de las organizaciones de personas con discapacidad, que participarán en calidad de consejeros de acuerdo con la convocatoria pública que para estos efectos emitirá el Consejo Estatal.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-De igual manera, el Consejo Consultivo se integrará por el Presidente de la Comisión de Asuntos Migratorios, Gestoría Social y Grupos Vulnerables del Honorable Congreso del Estado y el Presidente de la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit.
+El Consejo Consultivo estará integrado por representantes de las organizaciones de personas con discapacidad, que participarán en calidad de consejeras o consejeros de acuerdo con la convocatoria pública que para estos efectos emitirá el Consejo Estatal.
 
-El Consejo Consultivo será presidido por un representante electo de entre sus miembros.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+De igual manera, el Consejo Consultivo se integrará por la o el Presidente de la Comisión de Gestoría Social y Grupos Vulnerables del Honorable Congreso del Estado y la o el Presidente de la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+El Consejo Consultivo será presidido por una persona representante electa de entre sus personas miembros.
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO II], P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -783,9 +883,9 @@ El Consejo Consultivo será presidido por un representante electo de entre sus m
 
 Con la finalidad de que las personas con discapacidad, sus familiares o las organizaciones constituidas por ellos puedan realizar los trámites administrativos y ejercicio de los derechos que esta Ley contempla, el Sistema Estatal para el desarrollo Integral de la Familia integrará un cuerpo de procuradores que asista, oriente y defienda a las personas con discapacidad, sin perjuicio de los derechos de asistencia que otros ordenamientos establecen.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-Dicho cuerpo de procuradores dependerá y será acreditado por el Titular del Sistema en el número que acuerde el Consejo Estatal, entre los que deberán figurar de manera preferente, profesionistas con discapacidad en cualquier ramo de especialidad.
+Dicho cuerpo de procuradores dependerá y será acreditado por la persona Titular del Sistema en el número que acuerde el Consejo Estatal, entre los que deberán figurar de manera preferente, profesionistas con discapacidad en cualquier ramo de especialidad.
 
 ###### Artículo 58.
 
@@ -811,9 +911,11 @@ Son personas con discapacidad de custodia, aquellas personas que por secuelas ir
 
 Es obligación de las instituciones de salud, públicas y privadas, informar al Consejo Estatal y al Sistema Estatal para el Desarrollo Integral de la Familia el establecimiento del estado de discapacidad que ocurra en una persona, haciendo señalamiento específico de que se trata de custodia, a efecto de que se inscriba con tal carácter en el registro estatal de la discapacidad.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 61.
 
-Recibido el aviso a que se refiere el artículo anterior, la Titular del Sistema Estatal para el Desarrollo Integral de la Familia, dictará las medidas de evaluación y seguimiento correspondientes con la participación de los especialistas del Centro de Rehabilitación y Educación Especial, prestando además la asesoría jurídica conducente a su tutela y curatela en los casos y términos previstos por el Código Civil.
+Recibido el aviso a que se refiere el artículo anterior, la persona Titular del Sistema Estatal para el Desarrollo Integral de la Familia, dictará las medidas de evaluación y seguimiento correspondientes con la participación de las y los especialistas del Centro de Rehabilitación y Educación Especial, prestando además la asesoría jurídica conducente a su tutela y curatela en los casos y términos previstos por el Código Civil.
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO IV], P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -827,9 +929,9 @@ El Consejo Estatal llevará el Registro de Personas con discapacidad, donde se a
 
 Dicho Registro contendrá, por lo menos, la información siguiente:
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-I.- Nombre, domicilio, edad, estado civil, sexo, grado de escolaridad y ocupación de la persona con discapacidad, y en su caso, dependencia económica o personas que de él dependen;
+I.- Nombre, domicilio, edad, estado civil, sexo, grado de escolaridad y ocupación de la persona con discapacidad, y en su caso, dependencia económica o personas que de ella dependen;
 
 II.- Tipo y grado de discapacidad que presenta y si ésta es temporal o permanente;
 
@@ -861,9 +963,11 @@ Es obligación de las personas con discapacidad y de sus familiares, proporciona
 
 Las oficinas municipales encargadas de obras públicas o desarrollo urbano se abstendrán de extender licencias de construcción, o de autorizar la realización de obras en la vía pública, así como de otorgar permisos o concesiones para el aprovechamiento de dicha vía o cualesquiera otros bienes de uso común o destinados a un servicio público, si en los planos o proyectos que a sus consideración se sometan no se observan con estricto rigor la disposiciones de esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 65.
 
-El Gobernador del Estado o la entidad que corresponda se abstendrán de dar trámite a las solicitudes de otorgamiento de concesión o permiso para la prestación del servicio público de transporte colectivo de pasajeros, si el solicitante no acredita que los vehículos con los cuales se prestará no cumplen con las especificaciones técnicas y disposiciones que sobre el particular establece el presente ordenamiento.
+La Gobernadora o el Gobernador del Estado o la entidad que corresponda se abstendrán de dar trámite a las solicitudes de otorgamiento de concesión o permiso para la prestación del servicio público de transporte colectivo de pasajeros, si el solicitante no acredita que los vehículos con los cuales se prestará no cumplen con las especificaciones técnicas y disposiciones que sobre el particular establece el presente ordenamiento.
 
 ###### Artículo 66.
 
@@ -891,13 +995,17 @@ V.- Cancelación de la correspondiente concesión o permiso; y
 
 VI.- Clausura temporal o definitiva de centros recreativos, deportivos o de espectáculos públicos.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 68.
 
-Son autoridades competentes para conocer y resolver acerca de las infracciones que se cometan en contravención a lo dispuesto por esta ley, dentro de sus respectivos ámbitos o esferas de competencia, los Presidentes Municipales y el Gobernador Constitucional de la Entidad
+Son autoridades competentes para conocer y resolver acerca de las infracciones que se cometan en contravención a lo dispuesto por esta ley, dentro de sus respectivos ámbitos o esferas de competencia, las Presidentas y los Presidentes Municipales y la Gobernadora o Gobernador Constitucional de la Entidad.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 69.
 
-Al Servidor Público del Estado o municipios que sin fundamento alguno niegue a una persona con discapacidad el acceso a los servicios, o no cumpla dentro del ámbito de su competencia con las obligaciones que esta ley les impone, será sancionado, según sea la culpa, en los términos y bajo los procedimientos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado.
+A la persona servidora pública del Estado o municipios que sin fundamento alguno niegue a una persona con discapacidad el acceso a los servicios, o no cumpla dentro del ámbito de su competencia con las obligaciones que esta ley les impone, será sancionado, según sea la culpa, en los términos y bajo los procedimientos que establece la Ley de Responsabilidades Administrativas del Estado de Nayarit.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -1086,3 +1194,9 @@ P.O. 15 DE SEPTIEMBRE DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO.- Las referencias establecidas en los ordenamientos jurídicos qué hacen mención al termino discapacitado, deberá entenderse como personas con discapacidad.
+
+P.O. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT, EN MATERIA DE IGUALDAD SUSTANTIVA, PERSPECTIVA DE GÉNERO Y ACTUALIZACIÓN DE DENOMINACIÓN DE ENTES PÚBLICOS”.]
+
+Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
