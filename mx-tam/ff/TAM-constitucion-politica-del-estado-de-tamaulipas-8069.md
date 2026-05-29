@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2026-04-29"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -683,7 +683,11 @@ III.- De la Autoridad Administrativa Electoral.- La organización de las eleccio
 
 8. En caso de que ocurra una vacante de consejero electoral, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos de la Constitución Federal y la ley general aplicable. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el periodo. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo.
 
-9. Los consejeros electorales tendrán un periodo de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración igual a la de los Magistrados del Tribunal Electoral del Estado.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+9. Los consejeros electorales tendrán un periodo de desempeño de siete años y no podrán ser reelectos.
+
+Las remuneraciones de las personas consejeras electorales, así como del personal que integra el Instituto Electoral de Tamaulipas, no excederán el límite establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo; cualquier incremento a las percepciones previstas en el Tabulador de remuneraciones del Presupuesto de Egresos del Estado, solo procederá previa autorización expresa del Congreso del Estado.
 
 10. Los consejeros electorales y demás servidores públicos que establezcan las leyes aplicables, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
@@ -811,9 +815,9 @@ En términos de lo que dispone la ley general aplicable, durante el periodo de s
 
 Las Magistradas y Magistrados electorales gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución Federal a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-La retribución que reciban las y los Magistrados Electorales y la o el Magistrado Presidente, será igual a la que recibe una o un Magistrado del Supremo Tribunal de Justicia del Estado.
+Las remuneraciones de las personas titulares de las magistraturas electorales, así como del personal del Tribunal Electoral del Estado de Tamaulipas, no excederán el límite establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo; cualquier incremento a las percepciones previstas en el Tabulador de remuneraciones del Presupuesto de Egresos del Estado, solo procederá previa autorización expresa del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
 
@@ -897,11 +901,21 @@ La residencia de los Poderes únicamente podrá cambiarse por resolución del Co
 
 El ejercicio de las funciones propias del Poder Legislativo se encomienda a una asamblea que se denominará "Congreso del Estado Libre y Soberano de Tamaulipas". Las Diputadas y los Diputados al Congreso serán electos en su totalidad cada tres años. Por cada Diputada o Diputado propietario se elegirá un suplente.
 
-En los términos de la Constitución Federal, la ley general aplicable, esta Constitución y la ley estatal aplicable, las diputadas y los diputados podrán ser reelectos, de manera consecutiva, por una sola ocasión.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. En los casos de las Diputadas o los Diputados que hayan accedido a tal cargo mediante una candidatura independiente, sólo podrán postularse para ser electos de manera consecutiva por esa misma vía, sin que puedan ser postulados por algún partido político o coalición.
+En los términos de la Constitución Federal, la ley general aplicable, esta Constitución y la ley estatal aplicable las Diputadas y los Diputados no podrán reelegirse para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes.
+
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 Las legislaturas del Estado se integrarán con Diputadas y Diputados electos según los principios de Mayoría Relativa y de Representación Proporcional, en los términos que señale la Constitución Federal y la ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Art. 25 Bis.
+
+El presupuesto anual del Poder Legislativo no excederá del cero punto setenta por ciento del presupuesto de egresos del Estado.
+
+El Congreso deberá garantizar los principios de paridad, igualdad sustantiva y perspectiva de género, en su integración y funcionamiento.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
@@ -997,13 +1011,17 @@ IV.- Los Servidores Públicos del Estado y los Municipios, y los Jueces en su ci
 
 V.- (DEROGADA, P.O. 13 DE JUNIO DE 2015)
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VI.- Los miembros de los Consejos General, Distritales y Municipales Electorales del Instituto Electoral de Tamaulipas, o Magistrado, Secretario General, Secretario de Estudio y Cuenta o Actuario del Tribunal Electoral del Estado, a menos que no haya ejercido, concluyan o se separe del cargo dentro del plazo que establezcan la Constitución Federal, la ley general aplicable y la ley estatal de la materia; y
+VI.- Los miembros de los Consejos General, Distritales y Municipales Electorales del Instituto Electoral de Tamaulipas, o Magistrado, Secretario General, Secretario de Estudio y Cuenta o Actuario del Tribunal Electoral del Estado, a menos que no haya ejercido, concluyan o se separe del cargo dentro del plazo que establezcan la Constitución Federal, la ley general aplicable y la ley estatal de la materia;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VII.- Los que estén procesados por delito doloso. El impedimento surte efectos desde el momento en que se notifique el auto de vinculación a proceso. Tratándose de Servidores Públicos que gocen de fuero constitucional, el impedimento surte efecto desde que se declare que ha lugar para la formación de causa.
+VII.- Los que estén procesados por delito doloso. El impedimento surte efectos desde el momento en que se notifique el auto de vinculación a proceso. Tratándose de Servidores Públicos que gocen de fuero constitucional, el impedimento surte efecto desde que se declare que ha lugar para la formación de causa, y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VIII.- La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
@@ -1929,13 +1947,17 @@ IV.- Los que desempeñen algún cargo o comisión de otros Estados o de la Feder
 
 V.- Las Magistradas y los Magistrados del Poder Judicial, las y los integrantes del Pleno del Tribunal de Disciplina Judicial y del Pleno del Órgano de Administración Judicial, las Juezas y los Jueces, Diputadas y Diputados locales, la persona titular de la Fiscalía General de Justicia y la persona titular de la Secretaría General de Gobierno, o quien haga sus veces, si no se encuentran separados de sus cargos, cuando menos 120 días antes de la elección;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VI.- Los miembros de los Consejos General, Distritales y Municipales Electorales del Instituto Electoral de Tamaulipas, o Magistrado, Secretario General, Secretario de Estudio y Cuenta o Actuario del Tribunal Electoral del Estado, a menos que no hayan ejercido, concluyan o se separen del cargo dentro del plazo que establezcan la Constitución Federal, la ley general aplicable y la ley estatal de la materia; y
+VI.- Los miembros de los Consejos General, Distritales y Municipales Electorales del Instituto Electoral de Tamaulipas, o Magistrado, Secretario General, Secretario de Estudio y Cuenta o Actuario del Tribunal Electoral del Estado, a menos que no hayan ejercido, concluyan o se separen del cargo dentro del plazo que establezcan la Constitución Federal, la ley general aplicable y la ley estatal de la materia;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VII.- Los que estén sujetos a proceso criminal por delito que merezca pena corporal a contar de la fecha del auto de vinculación a proceso.
+VII.- Los que estén sujetos a proceso criminal por delito que merezca pena corporal a contar de la fecha del auto de vinculación a proceso, y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VIII.- La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura, para el periodo inmediato.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
@@ -2915,15 +2937,15 @@ Una ley reglamentará la organización de la defensoría pública y los requisit
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Art. 130.
 
-Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una presidenta o un presidente, síndicas, síndicos, regidoras y regidores electas y electos por el principio de votación de Mayoría Relativa y con regidoras y regidores electos por el principio de Representación Proporcional, en los términos de la Constitución Federal, la ley general aplicable y la ley estatal de la materia.
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una presidenta o un presidente, una sindicatura y hasta quince regidurías, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal; serán electas y electos por el principio de votación de mayoría relativa y con regidoras y regidores electos por el principio de representación proporcional, en los términos de la Constitución Federal, la ley general aplicable y la ley estatal de la materia. En ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y la sindicatura, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-Los integrantes de los Ayuntamientos serán electos en su totalidad cada tres años.
+Los integrantes de los Ayuntamientos serán electos en su totalidad cada tres años. Los presidentes y presidentas municipales, regidores y regidoras, y personas síndicas de los ayuntamientos no podrán reelegirse de manera consecutiva para el mismo cargo. Las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -2933,13 +2955,9 @@ Tendrán derecho a la asignación de regidores de Representación Proporcional, 
 
 Las facultades que la Constitución Federal otorga al gobierno municipal, se ejercerán por el Ayuntamiento de manera exclusiva, sin que pueda existir autoridad intermedia entre éste y el gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
-Los integrantes de los Ayuntamientos, electos popularmente por elección directa, podrán ser reelectos para el periodo inmediato, por una sola ocasión. Los ciudadanos que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas para un periodo adicional, en los términos del presente artículo.
-
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
-
-En los casos de los integrantes del Ayuntamiento que hayan accedido a tal cargo mediante una candidatura independiente, solo podrán postularse para ser electos de manera consecutiva por esa misma vía, sin que puedan ser postulados por algún partido político o coalición.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -6128,3 +6146,49 @@ Remítase el presente Decreto a la persona Titular del Poder Ejecutivo del Estad
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente Decreto, los ayuntamientos deberán actualizar y armonizar su normatividad y reglamentos municipales para garantizar su adecuada implementación.
+
+P.O. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-1072 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS; DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS; Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA ELECTORAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas a los artículos 25; 30; 79 y 130 del presente Decreto, respecto a la prohibición de nepotismo entrarán en vigor para el Proceso Electoral 2026-2027 y las relativas a la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir del proceso electoral estatal a celebrarse en el año 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+Asimismo, las derogaciones contenidas en los artículos 25 y 130 del presente Decreto serán aplicables a partir del proceso electoral estatal a celebrarse en el año 2030.
+
+###### ARTÍCULO TERCERO.
+
+El Tribunal Electoral del Estado de Tamaulipas, así como el Instituto Electoral del Estado de Tamaulipas deberán adecuar sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento del presente Decreto.
+
+El Congreso del Estado, en el ámbito de su competencia, garantizará que los presupuestos se ajusten a lo previsto en los artículos 20 y 25 Bis, del presente Decreto, por lo que realizarán en cada ejercicio fiscal los ajustes necesarios a los presupuestos que integren, previo a su aprobación.
+
+###### ARTÍCULO CUARTO.
+
+La integración de los Ayuntamientos establecida en lo dispuesto en el artículo 130 constitucional surtirá efectos a partir de la integración resultante del Proceso Electoral 2026-2027 y subsecuentes.
+
+Los Ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con un número de regidurías menor a quince, conservarán su integración actual.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos públicos que resulten como economías o ahorros en los presupuestos anuales del Estado, derivado de la reducción en la integración de los Ayuntamientos conforme al artículo 130 del presente Decreto, quedarán en el patrimonio de la hacienda pública de cada municipio.
+
+###### ARTÍCULO SEXTO.
+
+El Congreso del Estado no podrá autorizar, aprobar o ejercer para sí mismo incrementos presupuestarios reales dentro del límite establecido en el artículo 25 BIS del presente Decreto, respecto del monto aprobado para el ejercicio fiscal 2026, ni incrementar dicha proporción respecto del presupuesto de egresos del Estado, en los ejercicios fiscales subsecuentes.
+
+El monto del presupuesto anual del Congreso del Estado únicamente podrá actualizarse conforme a la inflación anual. No podrá aprobar ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas o cualquier otro mecanismo que tenga por objeto o efecto incrementar directamente su presupuesto por encima del límite previsto en el presente transitorio.
+
+El Congreso del Estado, así como los órganos internos de control u homólogos competentes, establecerán mecanismos institucionales de control, disciplina presupuestaria y responsabilidad administrativa necesarios para asegurar su cumplimiento. Cualquier disposición, determinación presupuestaria o acto de autoridad que contravenga lo establecido en el presente transitorio será nulo de pleno derecho.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las reformas del presente Decreto respecto a la prohibición de nepotismo entrarán en vigor para el Proceso Electoral 2026-2027 y las relativas a la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir del proceso electoral estatal a celebrarse en el año 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
