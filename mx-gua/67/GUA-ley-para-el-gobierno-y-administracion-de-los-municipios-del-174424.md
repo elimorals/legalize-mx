@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-gobierno-y-administracion-de-los-municipios-del-174
 country: "mx"
 rank: "ley"
 publication_date: "2024-09-17"
-last_updated: "2025-11-13"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA EL GOBIERNO Y ADMINISTRACIÓN DE LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
 
 Ley publicada en la Quinta Parte del Número 187 del Periódico Oficial del Estado de Guanajuato, el martes 17 de septiembre de 2024.
 
@@ -77,7 +77,9 @@ Glosario
 
 Para efectos de la presente Ley, se entiende por:
 
-I. Ayuntamiento: Órgano de gobierno municipal de elección popular directa integrado por las personas titulares de la presidencia municipal, de regidurías y sindicaturas que esta ley determina;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+I. Ayuntamiento: Órgano de gobierno municipal de elección popular directa integrado por las personas titulares de la presidencia municipal, la sindicatura y las regidurías que esta ley determina;
 
 II. Comisiones del Ayuntamiento: Órganos que tienen como objeto la elaboración de dictámenes, opiniones o resoluciones que son competencia municipal, conformados por los integrantes del Ayuntamiento;
 
@@ -369,15 +371,17 @@ El municipio libre será gobernado y administrado por un Ayuntamiento cuyas pers
 
 Integración
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 21.
 
-Los ayuntamientos estarán integrados por una persona titular de la presidencia, una o dos personas titulares de las sindicaturas y el número de regidores o regidoras, de conformidad con lo siguiente:
+Los ayuntamientos estarán integrados por una persona titular de la presidencia, una persona titular de la sindicatura y el número de regidurías, de conformidad con lo siguiente:
 
-I. Los municipios de: Celaya, Guanajuato, Irapuato, León y Salamanca, se integrarán con dos sindicaturas y doce regidurías.
+I. Los municipios de: Acámbaro, Celaya, Guanajuato, Irapuato, León y Salamanca, se integrarán con doce regidurías.
 
-II. Los municipios de: Acámbaro, Cortazar, Dolores Hidalgo Cuna de la Independencia Nacional, Moroleón, Pénjamo, Salvatierra, San Felipe, San Francisco del Rincón, San Luis de la Paz, San Miguel de Allende, Silao, Uriangato, Valle de Santiago y Yuriria, se integrarán con una sindicatura y diez regidurías.
+II. Los municipios de: Cortazar, Dolores Hidalgo Cuna de la Independencia Nacional, Moroleón, Pénjamo, Salvatierra, San Felipe, San Francisco del Rincón, San Luis de la Paz, San Miguel de Allende, Silao de la Victoria, Uriangato, Valle de Santiago y Yuriria, se integrarán con diez regidurías.
 
-III. Los municipios de Abasolo, Apaseo el Alto, Apaseo el Grande, Atarjea, Comonfort, Coroneo, Cuerámaro, Doctor Mora, Huanímaro, Jaral del Progreso, Jerécuaro, Manuel Doblado, Ocampo, Pueblo Nuevo, Purísima del Rincón, Romita, San Diego de la Unión, San José de Iturbide, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Villagrán, Tarimoro, Tierra Blanca, Victoria y Xichú, se integrarán con una sindicatura y ocho regidurías.
+III. Los municipios de Abasolo, Apaseo el Alto, Apaseo el Grande, Atarjea, Comonfort, Coroneo, Cuerámaro, Doctor Mora, Huanímaro, Jaral del Progreso, Jerécuaro, Manuel Doblado, Ocampo, Pueblo Nuevo, Purísima del Rincón, Romita, San Diego de la Unión, San José de Iturbide, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Villagrán, Tarimoro, Tierra Blanca, Victoria y Xichú, se integrarán con ocho regidurías.
 
 Requisitos para ser integrante del ayuntamiento
 
@@ -425,7 +429,9 @@ f) Nombrar y remover a las personas titulares de las delegaciones y subdelegacio
 
 g) Aprobar anualmente, el informe del estado que guarda la Administración Pública Municipal, que será rendido por conducto de la persona titular de la presidencia municipal en sesión pública y solemne;
 
-h) Conceder licencia para separarse de su cargo a la persona titular de la presidencia municipal, sindicaturas y regidurías. Tratándose de la persona titular de la presidencia municipal autorizar ausentarse del municipio, por un término mayor a quince días;
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+h) Conceder licencia para separarse de su cargo a la persona titular de la presidencia municipal, sindicatura y regidurías. Tratándose de la persona titular de la presidencia municipal, autorizar ausentarse del municipio, por un término mayor a quince días;
 
 i) Crear las dependencias administrativas centralizadas y constituir entidades paramunicipales;
 
@@ -617,11 +623,15 @@ XXVI. Emitir convocatoria donde se fijen las bases para llevar a cabo la partici
 
 XXVII. Las demás que le señale esta Ley y otras disposiciones legales.
 
-Atribuciones de las personas titulares de la sindicatura
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 29 DE MAYO DE 2026)</small>
+
+Atribuciones de la persona titular de la sindicatura
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 27.
 
-Las personas titulares de la sindicatura tendrán las siguientes atribuciones:
+La persona titular de la sindicatura tendrá las siguientes atribuciones:
 
 I. Procurar, defender y promover los intereses municipales en los juicios en que sea parte y presentar trimestralmente al Ayuntamiento el informe del estado que guardan los asuntos;
 
@@ -643,11 +653,9 @@ IX. Solicitar y obtener de los titulares de las dependencias y paramunicipales d
 
 X. Las demás que le señalen esta Ley y otras disposiciones legales de la materia.
 
-De la distribución
-
 ###### Artículo 28.
 
-Cuando haya dos personas con el carácter de titulares de la sindicatura, el Ayuntamiento acordará la distribución equitativa de las atribuciones que ejercerán cada uno de ellos.
+(DEROGADO, P.O. 29 DE MAYO DE 2026)
 
 Atribuciones (sic) las personas titulares de las regidurías
 
@@ -681,9 +689,11 @@ XI. Las demás que le señalen esta Ley y otras disposiciones legales.
 
 Comisión instaladora
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 30.
 
-En la última sesión ordinaria del mes inmediato anterior a la fecha de terminación del mandato del Ayuntamiento saliente, se nombrará una comisión plural con los titulares de las regidurías y de la o las sindicaturas, que fungirá como comisión instaladora del Ayuntamiento electo.
+En la última sesión ordinaria del mes inmediato anterior a la fecha de terminación del mandato del Ayuntamiento saliente, se nombrará una comisión plural con los titulares de las regidurías y de la sindicatura, que fungirá como comisión instaladora del Ayuntamiento electo.
 
 La comisión designada convocará a los integrantes del Ayuntamiento electo, de conformidad con la declaratoria de validez y las constancias de mayoría y de asignación expedidas por el órgano electoral o, en su caso, con la resolución de la autoridad jurisdiccional electoral, para que acudan a la sesión de instalación solemne del mismo, en los términos del presente capítulo.
 
@@ -721,7 +731,9 @@ Concluida la protesta, la persona titular de la presidencia municipal la tomará
 
 "¿Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Guanajuato y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo que el pueblo les ha conferido?".
 
-A lo cual las personas titulares de las sindicaturas y regidurías, levantando la mano dirán:
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+A lo cual las personas titulares de la sindicatura y regidurías, levantando la mano dirán:
 
 "Sí, protesto".
 
@@ -739,7 +751,9 @@ Quórum y declaración de instalación
 
 La instalación del Ayuntamiento será válida, con la presencia de más de la mitad de sus integrantes propietarios electos.
 
-A falta de la persona titular de la presidencia municipal electa, el Ayuntamiento se instalará con la persona titular de la sindicatura, en el caso de los Ayuntamientos en que existan dos sindicaturas, quien rendirá la protesta será quien ocupe la primera y a continuación se tomará protesta a los demás integrantes que estén presentes.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+A falta de la persona titular de la presidencia municipal electa, el Ayuntamiento se instalará con la persona titular de la sindicatura.
 
 En caso de que no se tenga Quórum de instalación, la comisión instaladora referida en el artículo 30 de esta Ley, llamará a sus suplentes quienes entrarán en ejercicio definitivo.
 
@@ -757,9 +771,11 @@ El Ayuntamiento instalado, sin la totalidad de sus integrantes propietarios elec
 
 Falta absoluta de la persona titular de la presidencia municipal
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 39.
 
-Se considera falta absoluta de la persona titular de la presidencia municipal electa, cuando transcurrido el plazo de quince días hábiles, citado en el artículo anterior, no se presente sin causa justificada. En tanto, el titular de la primera sindicatura desempeñará sus atribuciones, en el caso de los ayuntamientos en que existan dos sindicaturas.
+Se considera falta absoluta de la persona titular de la presidencia municipal electa, cuando transcurrido el plazo de quince días hábiles, citado en el artículo anterior, no se presente sin causa justificada. En tanto, la persona titular de la sindicatura desempeñará sus atribuciones.
 
 Posterior Protesta de Ley
 
@@ -909,17 +925,23 @@ La elección consecutiva, parcial o total, de las personas integrantes del Ayunt
 
 Licencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 50.
 
-Las personas titulares de las sindicaturas y regidurías podrán solicitar licencias mayores a quince días y hasta por dos meses, para lo cual se llamará a sus suplentes. Al término del plazo de la licencia concedida, la persona con el carácter de propietaria deberá integrarse de inmediato a su cargo.
+Las personas titulares de la sindicatura y regidurías podrán solicitar licencias mayores a quince días y hasta por dos meses, para lo cual se llamará a sus suplentes. Al término del plazo de la licencia concedida, la persona con el carácter de propietaria deberá integrarse de inmediato a su cargo.
 
 Para licencias superiores a dos meses, se someterá a aprobación del Ayuntamiento, con excepción de las licencias por maternidad y paternidad.
 
-Vacante de las personas titulares de las sindicaturas y regidurías
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 29 DE MAYO DE 2026)</small>
+
+Vacante de las personas titulares de la sindicatura y regidurías
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 51.
 
-Cuando por causa justificada alguna de las personas titulares de las sindicaturas y regidurías dejaren de desempeñar el cargo, éste será cubierto por su suplente. En el caso de las personas titulares de las sindicaturas y regidurías y, a falta tanto del propietario como del suplente, se estará a lo que el Congreso del Estado defina.
+Cuando por causa justificada alguna de las personas titulares de la sindicatura y regidurías dejaren de desempeñar el cargo, éste será cubierto por su suplente. En el caso de las personas titulares de la sindicatura y regidurías y, a falta tanto del propietario como del suplente, se estará a lo que el Congreso del Estado defina.
 
 Despacho por encargo
 
@@ -931,9 +953,15 @@ Asimismo, la persona titular de la presidencia municipal o quien se encuentre de
 
 De la presidencia municipal provisional
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 53.
 
-En el caso de falta de la persona titular de la presidencia municipal por licencia o causa justificada, por más de quince días y hasta por sesenta y cinco días, asumirá el cargo de titular de la presidencia municipal provisional, la persona titular de la sindicatura o de la primera sindicatura para aquellos municipios que cuenten con dos. En tal caso, se llamará al suplente, quien ocupará el cargo de la persona titular de la sindicatura que asuma el cargo de titular de la presidencia municipal provisional.
+En el caso de falta de la persona titular de la presidencia municipal, por licencia o causa justificada, por más de quince días y hasta por sesenta y cinco días, asumirá el cargo de titular de la presidencia municipal provisional, la persona titular de la sindicatura. En tal caso, se llamará a la persona suplente, quien ocupará el cargo de la sindicatura.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+A falta de la persona titular de la sindicatura, asumirá el cargo de la presidencia la persona titular de la primera regiduría en orden de prelación. En tal caso, se llamará a la persona suplente, quien ocupará el cargo de la regiduría.
 
 De la presidencia municipal interina
 
@@ -967,9 +995,11 @@ El nombramiento de la persona con el carácter de interino o sustituto podrá re
 
 Renuncia o excusa del cargo
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 57.
 
-Las personas titulares de la presidencia municipal, sindicaturas o regidurías del Ayuntamiento, sólo por causa justificada a juicio del Congreso del Estado o de la Diputación Permanente, en su caso, podrán renunciar o excusarse del cargo.
+Las personas titulares de la presidencia municipal, sindicatura o regidurías del Ayuntamiento, sólo por causa justificada a juicio del Congreso del Estado o de la Diputación Permanente, en su caso, podrán renunciar o excusarse del cargo.
 
 Licencia de las personas titulares de la administración pública
 
@@ -1023,7 +1053,9 @@ Los concejos municipales, ejercerán las atribuciones que la Ley establece para 
 
 Para cubrir las faltas o ausencias temporales de algún integrante del Concejo Municipal, se aplicará en lo conducente, lo dispuesto por la presente Ley, para integrantes del Ayuntamiento.
 
-Con excepción de la persona titular de la presidencia municipal, cuando por cualquier causa alguno de los integrantes del Concejo Municipal, dejare de desempeñar su cargo, éste será ocupado por su suplente; a falta de ambos, el Congreso del Estado, nombrará a quien deba ocuparlo, en tal caso, la persona designada deberá cubrir los requisitos que para ser titular de las sindicaturas o regidurías establezca la Ley.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Con excepción de la persona titular de la presidencia municipal, cuando dejare de desempeñar su cargo alguno de los integrantes del Concejo Municipal, éste será ocupado por su suplente; a falta de ambos, el Congreso del Estado nombrará a quien deba ocupar la sindicatura o regidurías, cumpliendo con los requisitos que establezca la Ley.
 
 Protesta de los concejeros
 
@@ -1065,9 +1097,11 @@ El procedimiento para decretar la revocación del mandato de alguna o algunas de
 
 Suplencia por revocación
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 68.
 
-Decretada la revocación del mandato de cualquiera de las personas titulares de las sindicaturas o regidurías, el Ayuntamiento llamará a su suplente, para que rinda la protesta y ocupe el cargo, dentro de las cuarenta y ocho horas siguientes a la notificación de la resolución del Congreso del Estado.
+Decretada la revocación del mandato de cualquiera de las personas titulares de la sindicatura o regidurías, el Ayuntamiento llamará a su suplente, para que rinda la protesta y ocupe el cargo, dentro de las cuarenta y ocho horas siguientes a la notificación de la resolución del Congreso del Estado.
 
 Suplencia por revocación de la persona titular de la presidencia municipal
 
@@ -1157,9 +1191,11 @@ IV. El índice y el contenido.
 
 Comisiones
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 75.
 
-Se entiende por comisión a los órganos internos del Ayuntamiento, conformados por las personas titulares de las sindicaturas y regidurías, cuya integración deberá reflejar los principios de pluralidad, proporcionalidad y paridad de género del Ayuntamiento.
+Se entiende por comisión a los órganos internos del Ayuntamiento, conformados por las personas titulares de la sindicatura y regidurías, cuya integración deberá reflejar los principios de pluralidad, proporcionalidad y paridad de género del Ayuntamiento.
 
 Integración y funcionamiento de las comisiones
 
@@ -1529,9 +1565,11 @@ Se deberá contar para las sesiones públicas con el espacio físico que permita
 
 Quórum para sesionar
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 102.
 
-Las sesiones del Ayuntamiento serán válidas con la asistencia de más de la mitad de la totalidad de las personas integrantes del Ayuntamiento, presidiéndola la persona titular de la presidencia municipal. En su ausencia será suplido por la persona titular de la primera sindicatura, en el supuesto de que existan dos, auxiliado por la persona titular de la Secretaría del Ayuntamiento.
+Las sesiones del Ayuntamiento serán válidas con la asistencia de más de la mitad de la totalidad de las personas integrantes del Ayuntamiento, presidiéndola la persona titular de la presidencia municipal. En su ausencia será suplido por la persona titular de la sindicatura, auxiliado por la persona titular de la Secretaría del Ayuntamiento.
 
 Cuando durante el transcurso de una sesión se pierda el quórum necesario para que ésta sea válida, se terminará la misma.
 
@@ -2353,7 +2391,9 @@ Integración del Comité Técnico
 
 El Comité Técnico deberá estar integrado por lo menos con las siguientes personas propietarias:
 
-I. La persona titular de la Sindicatura Municipal, en el caso de los Ayuntamientos en que existan dos sindicaturas quien desempeñará las funciones será quien ocupe la segunda;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+I. La persona titular de la Sindicatura Municipal;
 
 II. Una persona representante de las dependencias o paramunicipales de la Administración Pública Municipal que de acuerdo con los fines del fideicomiso deba intervenir;
 
@@ -4033,7 +4073,9 @@ I. La persona titular de la presidencia municipal;
 
 II. Las personas titulares de las regidurías; y
 
-III. Las personas titulares de las Sindicaturas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+III. La persona titular de la sindicatura.
 
 Facultad de presentar proyectos
 
@@ -5138,3 +5180,37 @@ Inicio de vigencia
 Artículo Único. El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo (sic). Los ayuntamientos deberán realizar las adecuaciones a los reglamentos respectivos y protocolos de seguimiento en la materia, dentro de los ciento ochenta días siguientes a la publicación del presente decreto.
+
+P.O. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 194, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL GOBIERNO Y ADMINISTRACIÓN DE LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO”.]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Aplicación electoral
+
+Artículo Segundo. Las disposiciones relativas a la integración de los ayuntamientos previstas en el presente Decreto serán aplicables a partir del proceso electoral local ordinario inmediato siguiente a su entrada en vigor.
+
+Integración de los ayuntamientos
+
+Artículo Tercero. Para efectos del proceso electoral referido en el artículo anterior, los ayuntamientos se integrarán con una persona titular de la presidencia municipal y una persona titular de la sindicatura, sin perjuicio del número de regidurías que corresponda, en términos de lo dispuesto por el presente Decreto.
+
+Régimen transitorio de los ayuntamientos en funciones
+
+Artículo Cuarto. La integración de los ayuntamientos en funciones al momento de la entrada en vigor del presente Decreto no se verá afectada, por lo que sus integrantes continuarán en el ejercicio de sus cargos hasta la conclusión del periodo constitucional para el que fueron electos.
+
+Durante dicho periodo, las atribuciones, representación jurídica, funcionamiento, integración de órganos y régimen de suplencias de las sindicaturas se regirán por las disposiciones vigentes al momento de su elección. Las modificaciones previstas en el presente Decreto serán aplicables únicamente a los ayuntamientos que se elijan con posterioridad, en términos del artículo segundo transitorio.
+
+Adecuaciones por la autoridad electoral
+
+Artículo Quinto. El Instituto Electoral del Estado de Guanajuato deberá realizar las adecuaciones necesarias en la normativa, lineamientos y formatos de registro de candidaturas, a efecto de garantizar la correcta postulación de planillas de ayuntamientos conforme al nuevo esquema de integración previsto en este Decreto.
+
+Armonización legislativa
+
+Artículo Sexto. El Congreso del Estado deberá realizar las adecuaciones normativas correspondientes a las leyes que resulten aplicables, a más tardar al inicio del proceso electoral local ordinario en el que habrá de aplicarse el presente Decreto, a efecto de armonizarlas con el contenido del presente Decreto.
+
+Interpretación normativa
+
+Artículo Séptimo. En tanto se realizan las adecuaciones normativas a que se refiere el artículo anterior, todas las referencias legales a «las sindicaturas» o a más de una persona titular de la sindicatura se entenderán hechas a una sola persona titular de la sindicatura, en lo que resulte aplicable.
