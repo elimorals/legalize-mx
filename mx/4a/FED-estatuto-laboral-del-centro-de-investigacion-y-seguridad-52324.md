@@ -4,7 +4,7 @@ identifier: "FED-estatuto-laboral-del-centro-de-investigacion-y-seguridad-52324"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-11-29"
-last_updated: "2006-11-29"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52324&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-11-27"
 ---
 # ESTATUTO LABORAL DEL CENTRO DE INVESTIGACION Y SEGURIDAD NACIONAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO LABORAL DEL CENTRO NACIONAL DE INTELIGENCIA, PUBLICADO EN EL D.O.F. DE 29 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO LABORAL DEL CENTRO DE INVESTIGACION Y SEGURIDAD NACIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2026 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 29 de noviembre de 2006.
 
@@ -776,3 +778,19 @@ El Comité de Personal del Centro emitirá los lineamientos a que se refiere el 
 Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Estatuto.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de noviembre de dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO LABORAL DEL CENTRO NACIONAL DE INTELIGENCIA”.]
+
+PRIMERO.- El presente Estatuto Laboral entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Laboral del Centro de Investigación y Seguridad Nacional, publicado el 29 de noviembre de 2006 en el Diario Oficial de la Federación.
+
+TERCERO.- Las acciones que lleve a cabo el Centro para la aplicación del presente Estatuto Laboral, se sujetarán a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, así como a las disposiciones aplicables en materia presupuestaria y a la disponibilidad de recursos que se hayan aprobado para tal fin en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
+
+CUARTO.- Los procedimientos que se encuentren en trámite o pendientes de resolución a la fecha de la entrada en vigor del presente Estatuto Laboral, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado.
+
+QUINTO.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Estatuto Laboral.
