@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2026-03-05"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -179,9 +179,19 @@ IV. No ser persona titular de una Magistratura del Tribunal Electoral del Estado
 
 V. No ejercer el ministerio de cualquier culto religioso, a menos que se separe formal y definitivamente de su ministerio cuando menos cinco años antes del inicio del proceso electoral.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
 
-Las personas titulares de las presidencias Municipales, Sindicaturas y Regidurías de los Ayuntamientos que hayan estado en ejercicio, podrán ser electas por un periodo adicional como propietarias o suplentes. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que la hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+VI. No contar con sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VII. No ser persona deudora alimentaria morosa, y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio, concubinato, unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
@@ -4198,3 +4208,23 @@ DÉCIMO QUINTO. El Instituto de Movilidad tendrá un plazo de hasta noventa día
 DÉCIMO SEXTO. El Gobierno del Estado de Quintana Roo, a través de sus dependencias y organismos auxiliares, y los Ayuntamientos deberán proveer lo necesario para el correcto y eficaz cumplimiento de lo previsto en el presente Decreto.
 
 DÉCIMO SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se oponga (sic) a lo establecido en el presente Decreto.
+
+P.O. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 251 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO, Y SE DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Instituto Electoral de Quintana Roo y el Tribunal Electoral del Estado de Quintana Roo, revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el presente decreto.
+
+TERCERO. Las disposiciones relativas a la prohibición del nepotismo electoral y a la no reelección de las personas diputadas serán aplicables a partir del proceso electoral a celebrarse en el año 2030. En consecuencia, las personas que en dicho año se encuentren ejerciendo los cargos públicos a que se refiere el presente decreto, no podrán postularse para un proceso de reelección consecutiva.
+
+CUARTO. Las disposiciones relativas a la prohibición del nepotismo electoral y a la no reelección de las personas integrantes de los ayuntamientos serán aplicables a partir del proceso electoral a celebrarse en el año 2030. En consecuencia, las personas que en dicho año se encuentren ejerciendo los cargos públicos a que se refiere el presente decreto no podrán postularse para un proceso de reelección.
+
+QUINTO. Las disposiciones relativas al cumplimiento del principio de paridad de género, serán de observancia obligatoria en los términos de la legislación aplicable.
+
+SEXTO. El mecanismo de asignación de representación proporcional para diputaciones establecido en el artículo 54, fracción I, inciso a) de la Constitución Política del Estado Libre y Soberano de Quintana Roo, será aplicable a partir del proceso electoral del año 2027.
+
+SÉPTIMO. Lo establecido en el artículo 383 de la Ley de Instituciones y Procedimientos Electorales para el Estado de Quintana Roo, será aplicable a partir de la elección de las personas integrantes de los Ayuntamientos en el proceso electoral del año 2027.
+
+OCTAVO. Se derogan las disposiciones que se opongan a lo establecido en el presente decreto.
