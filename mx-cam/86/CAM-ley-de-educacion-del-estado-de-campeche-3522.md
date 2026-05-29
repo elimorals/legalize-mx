@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2026-03-26"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -83,7 +83,9 @@ La educación que imparte el Estado de Campeche, sus Municipios, los organismos 
 
 La educación inicial, preescolar, primaria, secundaria y media superior son obligatorias para todos los habitantes del Estado y, es deber de todo ciudadano hacer que sus hijos, hijas o pupilos menores de edad la cursen.
 
-Todos los habitantes del Estado tienen derecho a recibir una educación. La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Todos los habitantes del Estado tienen derecho a recibir una educación. La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva, entendida como la obligación de adoptar medidas diferenciadas, acciones afirmativas y políticas compensatorias orientadas a eliminar brechas estructurales en el acceso, permanencia y logro educativo, particularmente respecto de grupos en situación de vulnerabilidad. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje
 
 El Estado priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos.
 
@@ -256,6 +258,14 @@ XXXVII.- Impulsar y propiciar esquemas de revalorización de residuos, reciclaje
 > <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
 
 XXXVIIII.- Lograr con perspectiva de género, que se identifique y elimine la discriminación como resultado de las diferencias sexuales y las ideas y representaciones que se construyen con referencia a esa diferencia sexual y a los géneros.
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XXXIX. Promover la formación en desarrollo sostenible, protección del medio ambiente, adaptación al cambio climático y conservación de los ecosistemas del Estado, fomentando una cultura de corresponsabilidad social y de respeto al patrimonio natural y biocultural de la Entidad, con enfoque preventivo, comunitario e intercultural.
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XL. Promover la igualdad sustantiva, con medidas diferenciadas, acciones afirmativas y políticas compensatorias destinadas a eliminar desigualdades estructurales.
 
 ### CAPITULO III. AMBITO DE APLICACION
 
@@ -1023,13 +1033,11 @@ I.- La educación especial estará destinada a personas con y sin discapacidad, 
 
 II.- Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje, con equidad social incluyente y con perspectiva de género, considerando siempre la protección del interés superior del educando.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 37
 
-3.- Tratándose de menores de edad con discapacidad, se garantizará su inclusión a los planteles de educación regular mediante la aplicación de métodos, técnicas y materiales específicos, incluyendo la realización de ajustes razonables y las medidas de apoyo que sean necesarias.
+3.- La autoridad educativa estatal adoptará medidas para eliminar barreras para el aprendizaje y la participación, garantizando ajustes razonables, accesibilidad física, tecnológica y pedagógica para personas con discapacidad y grupos en situación de vulnerabilidad, conforme a los artículos 8, 9 y 41 de la Ley General de Educación, priorizando condiciones de inclusión efectiva, accesibilidad universal y no discriminación dentro de los espacios educativos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1055,15 +1063,23 @@ II.- Atenderá a los educandos de manera adecuada a sus propias condiciones, est
 
 6.- La educación especial incluye la orientación y participación de los padres de familia o responsables de las personas con discapacidad, así como también a los maestros y personal de las escuelas de educación básica regular, para garantizar la educación inclusiva.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE MAYO DE 2026)</small>
+
+### CAPÍTULO VIII TER. DE LA EQUIDAD Y EXCELENCIA EDUCATIVA
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 37
+
+7.- La autoridad educativa estatal está obligada a prestar servicios educativos con equidad, inclusión, excelencia y no discriminación.
+
+Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo y que enfrenten barreras estructurales para el acceso, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, territorio, lingüística, situación migratoria o bien, relacionadas con estereotipos de género, orientación sexual o prácticas culturales que constituyan barreras para acceder a servicios educativos.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2014)</small>
 
 ### CAPÍTULO IX. DE LAS AUTORIDADES EDUCATIVAS
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
-
-### CAPITULO X. DE LA EDUCACION NORMAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### Artículo 38.
 
@@ -1087,9 +1103,9 @@ El Secretario de Educación, los Subsecretarios, los Directores de área y los T
 
 Son atribuciones de la Secretaría de Educación las que se contienen en el artículo 33 de la Ley Orgánica de la Administración Pública del Estado de Campeche vigente.
 
-### CAPITULO X BIS. EDUCACIÓN CIENTÍFICA, TECNOLÓGICA E INNOVACIÓN
+### CAPITULO X. DE LA EDUCACION NORMAL
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### Artículo 42.
 
@@ -1127,21 +1143,21 @@ Los alumnos de las Escuelas Normales prestarán un servicio social como base par
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2024)</small>
 
+### CAPITULO X BIS. EDUCACIÓN CIENTÍFICA, TECNOLÓGICA E INNOVACIÓN
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 44
+
+1.- La educación científica, tecnológica y de innovación tendrá como finalidad promover en todos los niveles educativos planes, estrategias, proyectos, metodología, planes de estudio y herramientas tecnológicas a cargo del Estado, con la finalidad de desarrollar las aptitudes y competencias científicas, de innovación, así como digitales, mediante el uso responsable y ético de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, de las niñas, niños y adolescentes.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 44
+
+2.- El Estado con apego a sus posibilidades económicas y presupuestales, preverá los recursos necesarios para promover progresivamente la educación científica, tecnológica y de innovación en todos sus niveles educativos. Para tal efecto, implementará de manera gradual infraestructura tecnológica educativa, priorizando su desarrollo en zonas rurales, localidades con alto grado de marginación y regiones que representen mayores rezagos en materia de acceso a tecnologías educativas.
+
 ### CAPITULO XI. DE LAS ASOCIACIONES DEL SISTEMA EDUCATIVO ESTATAL
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
-
-###### Artículo 44
-
-1.- La educación científica, tecnológica y de innovación tendrá como finalidad promover en todos los niveles educativos planes, estrategias, proyectos, metodología, planes de estudio y herramientas tecnológicas a cargo del Estado, con la finalidad de desarrollar las aptitudes y competencias de las niñas, niños y adolescentes en esta materia.
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
-
-###### Artículo 44
-
-2.- El Estado con apego a sus posibilidades económicas y presupuestales, preverán los recursos necesarios para promover la educación científica, tecnológica y de innovación en todos sus niveles educativos.
-
-### CAPITULO XII. DE LA PARTICIPACION SOCIAL EN LA EDUCACION
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1169,9 +1185,9 @@ El Gobierno del Estado, por conducto de la Secretaría de Educación, participar
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
-### CAPITULO XIII. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO XII. DE LA PARTICIPACION SOCIAL EN LA EDUCACION
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### Artículo 49.
 
@@ -1343,9 +1359,9 @@ Las Sociedades de Padres de Familia, funcionarán de acuerdo con el Reglamento r
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
-### CAPITULO XIV. DEL RECURSO ADMINISTRATIVO
+### CAPITULO XIII. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 54.
 
@@ -1422,6 +1438,10 @@ II.- Revocación de la autorización o retiro del reconocimiento de validez ofic
 Las demás contravenciones a la presente ley o a sus reglamentos, cometidas por un particular que no constituyan un delito o que no tengan sanción expresa en este ordenamiento, se sancionarán con multa hasta por el equivalente de quinientos días de salario mínimo general diario vigente en la Entidad en la fecha en que se cometa la infracción. En el presente caso, por igual podrá duplicarse la multa impuesta en caso de reincidirse en la misma infracción.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+
+### CAPITULO XIV. DEL RECURSO ADMINISTRATIVO
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 57.
 
@@ -1790,3 +1810,11 @@ TERCERO.- La implementación del servicio de transporte escolar gratuito para ni
 En la implementación se procurará garantizar criterios de equidad territorial, inclusión y acceso efectivo al derecho a la educación de niñas, niños y adolescentes en el Estado.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 236 POR EL QUE “SE REFORMAN EL PÁRRAFO TERCERO DEL ARTÍCULO 5; LOS ARTÍCULOS 37-3; 44-1; 44-2 Y, SE ADICIONAN LAS FRACCIONES XXXIX Y XL AL ARTÍCULO 11; EL CAPÍTULO VIII TER DENOMINADO “DE LA EQUIDAD Y EXCELENCIA EDUCATIVA” CON UN ARTÍCULO 37-7, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
