@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2026-04-09"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
 
 Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
 
@@ -1371,15 +1371,21 @@ El Consejo General será su máximo órgano de dirección y se integrará por un
 
 Las decisiones del Consejo General se tomarán por mayoría de votos de las Consejeras y Consejeros Presentes, salvo que la Ley prevea una mayoría calificada.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 94.
 
-La Consejera o el Consejero Presidente y las Consejeras y Consejeros del Consejo General recibirán la retribución que al efecto se indique en el presupuesto de egresos del propio IETAM.
+La Consejera o el Consejero Presidente y las Consejeras y Consejeros del Consejo General, así como el personal, recibirán la retribución que al efecto se indique en el presupuesto de egresos del propio IETAM, en términos del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo, cualquier incremento a las percepciones previstas en el Tabulador de remuneraciones del Presupuesto de Egresos del Estado, solo procederá previa autorización expresa del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 La Consejera o el Consejero Presidente y las Consejeras y Consejeros del IETAM, durante el tiempo de su nombramiento, no podrán, en ningún caso, aceptar o desempeñar empleo o cargo de la Federación, del Estado, Municipios o de los partidos políticos, ni aceptar cargo o empleo de particulares que implique dependencia o subordinación de carácter político.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
+
 La Consejera o el Consejero Presidente y las Consejeras y Consejeros del IETAM, no podrán tener otro empleo, cargo o comisión, con excepción de aquellas que actúen en representación del Consejo General y los no remunerados que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 Quien encabece la Secretaría Ejecutiva y quienes representen a los partidos políticos concurrirán a las sesiones del Consejo General con derecho a voz. Las sesiones de los organismos electorales serán públicas.
 
@@ -2947,9 +2953,17 @@ II. Ser Magistrado o Magistrada, titular de la Secretaría General, Secretaría 
 
 III. Ser integrante de algún ayuntamiento, a menos que se separe del cargo 90 días antes de la elección;
 
-IV. Haber sido reelecto diputado o diputada en la elección anterior; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-V. Estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
+IV. Haber sido electo diputado o diputada en la elección anterior. Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+V. Estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VI. Tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
@@ -3031,9 +3045,17 @@ I. Ser Consejero o Consejera Electoral en los Consejos General, Distritales o Mu
 
 II. Ser Magistrado o Magistrada, titular de la Secretaría General, Secretaría de Estudio y Cuenta, Actuario o Actuaria del Tribunal Electoral, a menos que se separe del cargo un año antes de la elección;
 
-III. Ser integrante de algún Ayuntamiento, a menos que se separe del cargo 120 días antes de la elección; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-IV. Estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
+III. Ser integrante de algún Ayuntamiento, a menos que se separe del cargo 120 días antes de la elección;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+IV. Estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+V. Tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura, para el periodo inmediato.
 
 ### CAPÍTULO III. Requisitos de elegibilidad para ser miembro de un Ayuntamiento
 
@@ -3073,13 +3095,17 @@ IV. Ser Consejero o Consejera Electoral en los Consejos General, Distritales o M
 
 V. Ser integrante de algún Ayuntamiento de otro Municipio del Estado, aun cuando haya solicitado licencia para separarse del cargo;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VI. Haber obtenido la reelección en el cargo en la elección anterior; y
+VI. Haber sido electo como presidentes y presidentas municipales, regidores y regidoras, y personas síndicas de los ayuntamientos en la elección anterior. Las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el período inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el período inmediato como propietarias a menos que hayan estado en ejercicio;
 
-> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VII. Estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
+VII. Estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VIII. Tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2020)</small>
 
@@ -3105,7 +3131,9 @@ Se entiende por distrito electoral uninominal, la demarcación territorial en la
 
 Las elecciones de diputaciones por ambos principios, se sujetarán a las disposiciones de la Constitución General de la República, de la Ley General, de la Ley de Partidos, Constitución del Estado y a lo previsto por esta Ley.
 
-Los Diputados y Diputadas podrán ser reelectos de manera consecutiva por una sola ocasión.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Los Diputados y Diputadas no podrán reelegirse para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes.
 
 ###### Artículo 189.
 
@@ -3177,13 +3205,13 @@ La Gubernatura se elegirá el primer domingo del mes de junio del año que corre
 
 El municipio es la base de la división territorial y de la organización política y administrativa del Estado de Tamaulipas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 194.
 
-Cada municipio será gobernado por un ayuntamiento, integrado con representantes que se elegirán popularmente por votación directa, según el principio de mayoría relativa y complementado con regidurías electas según el principio de representación proporcional. En la integración de los ayuntamientos deberá observarse el principio de paridad de género.
+Cada municipio será gobernado por un ayuntamiento, integrado con representantes que se elegirán popularmente por votación directa, según el principio de mayoría relativa y complementado con regidurías electas según el principio de representación proporcional. En la integración de los ayuntamientos deberá observarse el principio de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. El IETAM emitirá la reglamentación para hacer efectivos los referidos principios.
 
-En los términos de los que dispone la Constitución del Estado, los integrantes de los Ayuntamientos electos popularmente por elección directa podrán ser reelectos para el período inmediato por una sola ocasión.
+En los términos de los que dispone la Constitución del Estado, los presidentes y presidentas municipales, regidores y regidoras, y personas síndicas de los ayuntamientos no podrán reelegirse de manera consecutiva para el mismo cargo. Las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
 ###### Artículo 195.
 
@@ -3197,25 +3225,23 @@ Los Municipios del Estado son los siguientes: Abasolo, Aldama, Altamira, Antiguo
 
 Los Ayuntamientos se integrarán conforme a las bases siguientes:
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-I. En los Municipios cuya población sea menor de 30,000 habitantes, el Ayuntamiento se integrará con 1 presidencia municipal, 4 regidurías y 1 sindicatura;
+I. En los Municipios cuya población sea menor de 30,000 habitantes, el Ayuntamiento se integrará con 1 presidencia municipal, 1 sindicatura y 6 regidurías de las cuales 4 corresponderán al principio de mayoría relativa y 2 al principio de representación proporcional;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-II. En los Municipios cuya población sea hasta 50,000 habitantes, el Ayuntamiento se integrará con 1 presidencia municipal, 5 regidurías y 2 sindicaturas;
+II. En los Municipios cuya población sea hasta 50,000 habitantes, el Ayuntamiento se integrará con 1 presidencia municipal, 1 sindicatura y 8 regidurías de las cuales 5 corresponderán al principio de mayoría relativa y 3 al principio de representación proporcional;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-III. En los municipios cuya población sea hasta 100,000 habitantes, el ayuntamiento se integrará con 1 presidencia municipal, 8 regidurías y 2 sindicaturas;
+III. En los municipios cuya población sea hasta 100,000 habitantes, el ayuntamiento se integrará con 1 presidencia municipal, 1 sindicatura y 12 regidurías de las cuales 8 corresponderán al principio de mayoría relativa y 4 al principio de representación proporcional;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-IV. En los municipios cuya población sea hasta 200,000 habitantes, el ayuntamiento se integrará con 1 presidencia municipal, 12 regidurías y 2 sindicaturas; y
+IV. En los municipios cuya población sea mayor a 100,000 habitantes, el ayuntamiento se integrará con 1 presidencia municipal, 1 sindicatura y 15 regidurías de las cuales 10 corresponderán al principio de mayoría relativa y 5 al principio de representación proporcional;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
-
-V. En los municipios cuya población sea mayor 200,000 habitantes, el ayuntamiento será integrado con 1 presidencia municipal, 14 regidurías y 2 sindicaturas.
+V. (DEROGADA, P.O. 29 DE MAYO DE 2026)
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
@@ -3235,21 +3261,9 @@ Para la asignación de regidurías electas según el principio de representació
 
 Tendrán derecho a la asignación de regidurías de representación proporcional, los partidos políticos que en la elección de Ayuntamientos no hayan obtenido la mayoría relativa, siempre que la votación recibida a su favor sea igual o mayor al 1.5 % del total de la votación municipal emitida para el Ayuntamiento correspondiente.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
-
 ###### Artículo 201.
 
-Para complementar los Ayuntamientos con regidurías de representación proporcional se procederá de acuerdo a las siguientes premisas y bases:
-
-I. En los municipios con población hasta 30,000 habitantes se asignarán dos regidurías de representación proporcional;
-
-II. En los municipios con población hasta 50,000 habitantes se asignarán tres regidurías de representación proporcional;
-
-III. En los municipios con población hasta 100,000 habitantes se asignarán cuatro regidurías de representación proporcional;
-
-IV. En los municipios con población hasta 200,000 habitantes se asignarán seis regidurías de representación proporcional; y
-
-V. En los municipios con población superior a 200,000 habitantes se asignarán siete regidurías de representación proporcional.
+(DEROGADO, P.O. 29 DE MAYO DE 2026)
 
 ###### Artículo 202.
 
@@ -6598,3 +6612,49 @@ P.O. 9 DE ABRIL DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1072 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS; DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS; Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA ELECTORAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas a los artículos 25; 30; 79 y 130 del presente Decreto, respecto a la prohibición de nepotismo entrarán en vigor para el Proceso Electoral 2026-2027 y las relativas a la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir del proceso electoral estatal a celebrarse en el año 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+Asimismo, las derogaciones contenidas en los artículos 25 y 130 del presente Decreto serán aplicables a partir del proceso electoral estatal a celebrarse en el año 2030.
+
+###### ARTÍCULO TERCERO.
+
+El Tribunal Electoral del Estado de Tamaulipas, así como el Instituto Electoral del Estado de Tamaulipas deberán adecuar sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento del presente Decreto.
+
+El Congreso del Estado, en el ámbito de su competencia, garantizará que los presupuestos se ajusten a lo previsto en los artículos 20 y 25 Bis, del presente Decreto, por lo que realizarán en cada ejercicio fiscal los ajustes necesarios a los presupuestos que integren, previo a su aprobación.
+
+###### ARTÍCULO CUARTO.
+
+La integración de los Ayuntamientos establecida en lo dispuesto en el artículo 130 constitucional surtirá efectos a partir de la integración resultante del Proceso Electoral 2026-2027 y subsecuentes.
+
+Los Ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con un número de regidurías menor a quince, conservarán su integración actual.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos públicos que resulten como economías o ahorros en los presupuestos anuales del Estado, derivado de la reducción en la integración de los Ayuntamientos conforme al artículo 130 del presente Decreto, quedarán en el patrimonio de la hacienda pública de cada municipio.
+
+###### ARTÍCULO SEXTO.
+
+El Congreso del Estado no podrá autorizar, aprobar o ejercer para sí mismo incrementos presupuestarios reales dentro del límite establecido en el artículo 25 BIS del presente Decreto, respecto del monto aprobado para el ejercicio fiscal 2026, ni incrementar dicha proporción respecto del presupuesto de egresos del Estado, en los ejercicios fiscales subsecuentes.
+
+El monto del presupuesto anual del Congreso del Estado únicamente podrá actualizarse conforme a la inflación anual. No podrá aprobar ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas o cualquier otro mecanismo que tenga por objeto o efecto incrementar directamente su presupuesto por encima del límite previsto en el presente transitorio.
+
+El Congreso del Estado, así como los órganos internos de control u homólogos competentes, establecerán mecanismos institucionales de control, disciplina presupuestaria y responsabilidad administrativa necesarios para asegurar su cumplimiento. Cualquier disposición, determinación presupuestaria o acto de autoridad que contravenga lo establecido en el presente transitorio será nulo de pleno derecho.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las reformas del presente Decreto respecto a la prohibición de nepotismo entrarán en vigor para el Proceso Electoral 2026-2027 y las relativas a la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir del proceso electoral estatal a celebrarse en el año 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
