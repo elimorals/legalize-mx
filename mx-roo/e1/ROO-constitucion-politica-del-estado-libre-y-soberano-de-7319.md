@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2026-04-09"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -163,9 +163,9 @@ El Estado de Quintana Roo reconoce, protege y garantiza el derecho a la vida de 
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, la condición sexual, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas que habitan en este Estado. El Estado diseñara, promoverá y llevará a cabo las acciones y medidas necesarias para garantizar el derecho a la no discriminación.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-El Estado garantiza la igualdad jurídica respecto de sus personas habitantes sin distinción de origen, sexo, condición o actividad social.
+El Estado garantiza la igualdad sustantiva respecto de sus personas habitantes sin distinción de origen, sexo, condición o actividad social.
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
 
@@ -951,13 +951,43 @@ II.- PODER SER VOTADO PARA TODO CARGO DE ELECCIÓN POPULAR TENIENDO LAS CALIDADE
 
 III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos de la entidad;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-IV.- Iniciar leyes ante el Congreso del Estado, mediante escrito firmado por una o más personas ciudadanas, en los términos que señale la Ley, y
+IV.- Iniciar leyes ante el Congreso del Estado, mediante escrito firmado por una o más personas ciudadanas, en los términos que señale la Ley;
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2026)</small>
 
-V.- Las demás que le confieran esta Constitución y las leyes que de ella emanen.
+V.- Votar en las consultas populares sobre temas de trascendencia estatal, las que se sujetarán a lo siguiente:
+
+1°. Serán convocadas por el Congreso del Estado, a petición de:
+
+a) La Gobernadora o el Gobernador del Estado;
+
+b) El equivalente al treinta y tres por ciento de las personas integrantes de la Legislatura, o
+
+c) Las personas ciudadanas en un número equivalente, al menos, al dos por ciento de las inscritas en la lista nominal de electores de la entidad con corte a la fecha que se haga la petición, debiéndose atender los términos que determine la ley.
+
+Con excepción de la hipótesis prevista en el inciso c) anterior, la petición deberá ser aprobada por la mayoría de las personas integrantes de la Legislatura.
+
+2°. Cuando la participación total corresponda, al menos, al cuarenta por ciento de las personas ciudadanas inscritas en la lista nominal de electores con corte a la fecha que se haga la consulta popular, en el respectivo ámbito, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo y para las autoridades estatales competentes;
+
+3°. No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte, y la particular del Estado; los principios consagrados en el artículo 40 de la Constitución Federal; los principios consagrados en el artículo 3 de esta Constitución; la materia electoral; la permanencia o continuidad en el cargo de las personas servidoras públicas de elección popular; el sistema financiero, los ingresos, gastos y el Presupuesto de Egresos del Estado; las obras de infraestructura en ejecución y, la seguridad estatal. La Sala Constitucional del Tribunal Superior de Justicia del Estado resolverá, previo a la convocatoria que realice el Congreso del Estado, sobre la constitucionalidad de la materia de la consulta;
+
+4°. El Instituto Electoral de Quintana Roo tendrá a su cargo, en forma directa, la verificación del requisito establecido en el inciso c) del apartado 1o de la presente fracción, así como la organización, difusión, desarrollo, cómputo y declaración de resultados.
+
+El Instituto promoverá la participación de la ciudadanía en las consultas populares y será la única instancia a cargo de la difusión de las mismas. La promoción deberá ser imparcial y de ninguna manera podrá estar dirigida a influir en las preferencias de la ciudadanía, sino que deberá enfocarse en promover la discusión informada y la reflexión de los ciudadanos. Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de la ciudadanía sobre las consultas populares.
+
+Durante el tiempo que comprende el proceso de consulta popular, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno, salvo aquellas que tengan como fin difundir campañas de información de las autoridades electorales, las relativas a los servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia y seguridad pública;
+
+5°. Las consultas populares convocadas conforme a la presente fracción se realizarán el primer domingo de agosto;
+
+6°. Las resoluciones del Instituto Electoral de Quintana Roo podrán ser impugnadas en los términos de lo dispuesto en el artículo 49, fracción V de esta Constitución.
+
+7°. Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 29 DE MAYO DE 2026)</small>
+
+VI.- Las demás que le confieran esta Constitución y las leyes que de ella emanen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
@@ -1089,9 +1119,9 @@ Los Poderes Legislativo, Ejecutivo y Judicial del Estado se depositan en ciudada
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-I.- El sufragio constituye la expresión soberana de la voluntad popular. Los ciudadanos, los partidos políticos y las autoridades velarán por su respeto y cuidarán que los procesos electorales sean preparados, organizados, desarrollados, vigilados y calificados por órganos profesionales conforme a los principios rectores de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad. La Ley establecerá las sanciones por violaciones al sufragio.
+I.- El sufragio constituye la expresión soberana de la voluntad popular. La ciudadanía, los partidos políticos y las autoridades velarán por su respeto y cuidarán que los procesos electorales sean preparados, organizados, desarrollados, vigilados y calificados por órganos profesionales conforme a los principios rectores de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género. La Ley establecerá las sanciones por violaciones al sufragio.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ENERO DE 2025)</small>
 
@@ -1141,17 +1171,17 @@ La Ley General de Instituciones y Procedimientos Electorales establece los requi
 
 > <small>(DEROGADO DÉCIMO SEGUNDO PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los titulares de los órganos internos de control será la misma que se señale para los Consejeros y Magistrados Electorales, según corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos del Instituto Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Instituto Electoral de Quintana Roo, presentará su proyecto de presupuesto de egresos ante la Legislatura a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que se presupuesta, para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, del año que corresponda. El proyecto de presupuesto de egresos del Tribunal deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno y, será remitido a la Legislatura, para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que se presupueste. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos del Tribunal Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+Las remuneraciones que perciban las personas Consejeras Electorales, así como las personas Magistradas Electorales, serán las previstas en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Las remuneraciones de las personas consejeras electorales, magistradas electorales, secretarias de órganos administrativos y titulares de áreas ejecutivas y técnicas u homólogas, no excederán el límite establecido en el artículo 165 de esta Constitución y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la Ley, Decreto, disposición general, contrato colectivo o condiciones generales de trabajo. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de las personas titulares de los órganos internos de control será la misma que se señale para las personas Consejeras y Magistradas Electorales, según corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban las personas servidores públicas del Instituto Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Instituto Electoral de Quintana Roo, presentará su proyecto de presupuesto de egresos ante la Legislatura a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que se presupuesta, para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, del año que corresponda. El proyecto de presupuesto de egresos del Tribunal deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno y, será remitido a la Legislatura, para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que se presupueste. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban las personas servidoras públicas del Tribunal Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 El Instituto Electoral de Quintana Roo contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
-III.- Los partidos políticos son entidades de interés público que tienen como fin promover la participación de los ciudadanos en la vida democrática, contribuir a la integración de la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Su participación en los procesos electorales, estará garantizada y determinada por ley. Sólo podrán ser constituidos por ciudadanos, sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. La ley reconocerá y regulará otras formas de organización política. Los partidos políticos para poder conservar su registro deberán haber obtenido al menos el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales.
+III.- Los partidos políticos son entidades de interés público que tienen como fin promover la participación de la ciudadanía en la vida democrática, contribuir a la integración de la representación popular y, como organizaciones de la ciudadanía, hacer posible el acceso de esta al ejercicio del poder público bajo el principio de paridad de género, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Su participación en los procesos electorales, estará garantizada y determinada por ley. Sólo podrán ser constituidos por ciudadanas y ciudadanos, sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. La ley reconocerá y regulará otras formas de organización política. Los partidos políticos para poder conservar su registro deberán haber obtenido al menos el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1225,9 +1255,9 @@ La ley establecerá los procedimientos para la liquidación de los partidos pol�
 
 IV.- Las agrupaciones políticas estatales son formas de asociación ciudadana que coadyuvarán al desarrollo de la vida democrática y de la cultura política; su constitución, financiamiento y funcionamiento quedarán regulados en la Ley.
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
-V.- La Ley establecerá un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. Asimismo, en la Ley se establecerán los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos parciales o totales de la votación.
+V.- La Ley establecerá un sistema de medios de impugnación para que todos los actos y resoluciones electorales, incluidos los relativos a los procesos de consulta popular, se sujeten invariablemente al principio de legalidad. Asimismo, en la Ley se establecerán los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos parciales o totales de la votación.
 
 Dicho sistema fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación, en los términos de esta Constitución. De las impugnaciones conocerán el Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo. En materia electoral la interposición de los medios de impugnación legales no producirán efectos suspensivos sobre la resolución o el acto impugnado.
 
@@ -1335,11 +1365,11 @@ Las personas titulares de los Órganos Internos de Control de los órganos públ
 
 #### SECCION PRIMERA. De la Elección e Instalación de la Legislatura
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 52.
 
-La Legislatura del Estado de Quintana Roo, se integra con quince Diputadas y Diputados electos en igual número de distritos electorales según el principio de votación mayoritaria relativa y con diez Diputadas y Diputados electos según el principio de representación proporcional, cuya determinación y asignación no podrá realizarse en exceso y/o defecto de los límites de sobre y/o sub-representación, previstos en el artículo 54, fracción III de esta Constitución. Por cada Diputada y Diputado propietario se elegirá un suplente.
+La Legislatura del Estado de Quintana Roo, se integra con quince Diputadas y Diputados electos en igual número de distritos electorales según el principio de votación mayoritaria relativa y con diez Diputadas y Diputados electos según el principio de representación proporcional, cuya determinación y asignación no podrá realizarse en exceso y/o defecto de los límites de sobre y/o sub-representación, previstos en el artículo 54, fracción III de esta Constitución. Por cada Diputada y Diputado propietario se elegirá una persona suplente, debiendo garantizar los principios de paridad, igualdad sustantiva y perspectiva de género.
 
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
@@ -1399,9 +1429,9 @@ I.- Para obtener el registro de su lista de las diputadas y diputados por el pri
 
 La lista de Diputadas y Diputados por el principio de representación proporcional de cada partido político, deberá estar integrada de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-a) Cinco personas candidatas postuladas y registradas de manera directa y cinco personas candidatas que hayan participado bajo el principio de mayoría relativa y que no habiendo obtenido el triunfo por este principio, hayan obtenido los mayores porcentajes de votación válida distrital.
+a) Diez personas candidatas postuladas y registradas de manera directa, garantizando en todo momento la paridad de género.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
 
@@ -1461,23 +1491,33 @@ IV.- Las personas servidoras públicas federales que realicen sus funciones en e
 
 V.- Las y los militares en servicio activo y las personas ciudadanas que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos a más tardar noventa días anteriores a la elección;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VI.- Las personas que sean o hayan sido ministras de cualquier culto religioso a menos que se hayan separado de su ministerio cinco años antes de la fecha de la elección, y
+VI.- Las personas que sean o hayan sido ministras de cualquier culto religioso a menos que se hayan separado de su ministerio cinco años antes de la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VII.- Las personas Magistradas del Tribunal Electoral de Quintana Roo, las personas Consejeras Electorales, las personas Secretarias y Funcionarias del Instituto Electoral de Quintana Roo, así como sus similares de los Órganos Electorales Federales, a menos que se separen de su cargo tres años antes de la fecha de la elección.
+VII.- Las personas Magistradas del Tribunal Electoral de Quintana Roo, las personas Consejeras Electorales, las personas Secretarias y Funcionarias del Instituto Electoral de Quintana Roo, así como sus similares de los Órganos Electorales Federales, a menos que se separen de su cargo tres años antes de la fecha de la elección;
 
-(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO XIII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2015 Y SU ACUMULADA 127/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+VIII.- Las personas condenadas por sentencia ejecutoriada por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+IX.- Las personas deudoras alimentarias morosas, y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+X.- Las personas que tengan o hayan tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 57.
 
-Los Diputados a la Legislatura, podrán ser reelectos por un período adicional. Los suplentes podrán ser electos para el período inmediato con el carácter de propietarios EN UNA FÓRMULA DIVERSA, SIEMPRE QUE NO HUBIEREN ESTADO EN EJERCICIO. Los Diputados Propietarios que hayan sido reelectos para un período adicional, no podrán ser electos para el período inmediato con el carácter de suplentes.
+Las Diputadas o Diputados de la Legislatura que hayan desempeñado su cargo no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato.
 
-La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las Diputadas o Diputados suplentes podrán ser electas o electos para el periodo inmediato con el carácter de propietarias o propietarios, siempre que no hubieren estado en ejercicio; pero las Diputadas o Diputados propietarias o propietarios no podrán ser electas o electos para el periodo inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
@@ -1599,9 +1639,9 @@ La Ley Orgánica del Poder Legislativo de Quintana Roo, regulará el ejercicio d
 
 El Poder Legislativo del Estado administrará con autonomía su presupuesto, el cual deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-Durante el ejercicio fiscal que corresponda, con la finalidad de cumplir con el principio de sostenibilidad del balance presupuestario y del balance presupuestario de recursos disponibles, se podrán realizar ajustes a los presupuestos del Poder Legislativo y de los Órganos Constitucionales Autónomos, durante el ejercicio fiscal que corresponda, con base en lo dispuesto en el artículo 15 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y artículo 35 de la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo.
+El presupuesto anual del Poder Legislativo, no excederá del cero punto setenta por ciento del presupuesto de egresos del Estado. Asimismo, se deberán garantizar los principios de paridad, igualdad sustantiva y perspectiva de género.
 
 #### SECCION TERCERA. De la Iniciativa y Formación de las Leyes y Decretos
 
@@ -1723,9 +1763,7 @@ VI.- Legislar sobre la protección, conservación y restauración del patrimonio
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
 
-VII.- Convocar a elecciones extraordinarias para la Gobernatura, en caso de falta absoluta de la persona Titular de esta, ocurrida dentro de los primeros dos años del período constitucional, conforme al
-
-ARTICULO 83 de esta Constitución.
+VII.- Convocar a elecciones extraordinarias para la Gobernatura, en caso de falta absoluta de la persona Titular de esta, ocurrida dentro de los primeros dos años del período constitucional, conforme al Artículo 83 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1833,9 +1871,9 @@ Para la revisión de la cuenta pública, la legislatura se apoyará en la Audito
 
 La Legislatura del Estado evaluará el desempeño de la Auditoría Superior del Estado y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE MAYO DE 2026)</small>
 
-XXX.- Aprobar las leyes de ingresos municipal y estatal y el presupuesto de egresos del Estado, determinando en cada caso, las partidas correspondientes para cubrirlas. Asimismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Estado.
+XXX.- Aprobar las leyes de ingresos municipal y estatal y el presupuesto de egresos del Estado, considerando lo establecido en el párrafo segundo del artículo 67 de esta Constitución, determinando en cada caso, las partidas correspondientes para cubrirlas. Asimismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Estado.
 
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
@@ -2159,13 +2197,25 @@ VII.- No estar comprendido en alguna de las prohibiciones establecidas por el ar
 
 VIII.- No ser persona Consejera Presidenta, Consejera Electoral, Secretaria Ejecutiva o Funcionaria del Instituto Electoral de Quintana Roo, Secretaria o Magistrada del Tribunal Electoral, a menos que se separe de su cargo tres años antes de la fecha de elección.
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-IX.- No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate, y
+IX.- No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-X.- No ser Presidenta o Presidente Municipal o persona titular de algún órgano político administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección.
+X.- No ser Presidenta o Presidente Municipal o persona titular de algún órgano político administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XI.- No contar con sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XII.- No ser persona deudora alimentaria morosa, y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XIII.- No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio, concubinato, unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la Gobernadora o Gobernador del Estado en funciones.
 
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
@@ -2255,9 +2305,9 @@ Son facultades de la Gobernadora o el Gobernador:
 
 I.- Nombrar y remover libremente a las personas Titulares de las Secretarías de Despacho de la Administración Pública y a las demás personas empleadas y servidoras públicas del Estado, cuyo nombramiento o remoción no esté determinado de otro modo en esta Constitución o en las Leyes del Estado.
 
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-Los nombramientos de las personas titulares de la Administración Pública centralizada y paraestatal se realizarán en apego al principio de paridad de género. En la estructura orgánica de la Administración Pública Estatal se promoverá este principio.
+Los nombramientos de las personas titulares de la Administración Pública centralizada y paraestatal se realizarán garantizando y observando el principio de paridad de género. En la estructura orgánica de la Administración Pública Estatal se promoverá este principio.
 
 II.- (DEROGADA, P.O. 9 DE JULIO DE 1998)
 
@@ -3269,11 +3319,11 @@ La administración de la hacienda pública estará a cargo del Poder Ejecutivo p
 
 La ley determinará la organización y funcionamiento de las oficinas de hacienda en el Estado.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 118.
 
-Anualmente, a más tardar el 20 de noviembre, el Poder Ejecutivo presentará a la Legislatura el proyecto de Presupuesto de Egresos, que deberá incluir los tabuladores desglosados de las remuneraciones que perciban las personas servidoras públicas estatales, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+Anualmente, a más tardar el 20 de noviembre, el Poder Ejecutivo presentará a la Legislatura el proyecto de Presupuesto de Egresos, que deberá incluir los tabuladores desglosados de las remuneraciones que perciban las personas servidoras públicas estatales, sujetándose a lo dispuesto en el párrafo segundo del artículo 67 y 165 de esta Constitución.
 
 ###### ARTICULO 119.
 
@@ -4193,11 +4243,11 @@ La extensión y límites de las cabeceras, alcaldías, delegaciones y subdelegac
 
 ### CAPITULO II. Del Gobierno Municipal
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 133.
 
-Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, que se renovara cada tres años y residirá en la Cabecera Municipal. La competencia que esta Constitución otorga al Gobierno Municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal, que se renovará cada tres años y residirá en la Cabecera Municipal. La competencia que esta Constitución otorga al Gobierno Municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2020)</small>
 
@@ -4275,6 +4325,18 @@ IV. No ser titular de Magistratura o de Juzgado del Tribunal Superior de Justici
 
 V. No ser ministra o ministro de cualquier culto, a menos que se separe formal y definitivamente de su ministerio cuando menos cinco años antes del inicio del proceso electoral.
 
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VI. No contar con sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VII. No ser persona deudora alimentaria morosa, y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio, concubinato, unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
+
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
 Para los efectos de este artículo, son residentes de un Municipio, las personas habitantes del mismo que por razones del desempeño de un cargo de elección popular, puesto público, comisión de carácter oficial, estudio o empleo, permanezcan dentro de su territorio, sin la intención de establecerse de manera definitiva en el mismo. Son vecinas de un municipio, las personas residentes establecidas de manera fija en su territorio y que mantengan casa en el mismo en la que habiten de manera ininterrumpida y permanente, y se encuentren inscritas en el padrón electoral correspondiente a ese propio municipio.
@@ -4299,13 +4361,13 @@ El Instituto Electoral de Quintana Roo, de acuerdo con lo que disponga la Ley, d
 
 Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y la asignación de regidurías podrán ser impugnadas ante el Tribunal Electoral de Quintana Roo. Los fallos del Tribunal serán definitivos e inatacables en el ámbito local. La Ley de la materia establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 139.
 
-Las personas titulares de las Presidencias Municipales, de las Sindicaturas y de las Regidurías de los Ayuntamientos que hayan estado en ejercicio, podrán ser reelectas por un período adicional como propietarias o suplentes.
+Se prohíbe la reelección consecutiva para el mismo cargo de las Presidencias Municipales, de las Sindicaturas y de las Regidurías de los Ayuntamientos.
 
-La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que la hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
 
@@ -4370,6 +4432,10 @@ Los Ayuntamientos, tendrán facultades para formular, aprobar y publicar, de acu
 ###### ARTICULO 146.
 
 Conforme al artículo anterior, la Ley establecerá las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad; asimismo, las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+ARTICULO 146 BIS.- Los nombramientos de las personas titulares en la administración pública municipal, deberán observar y garantizar el principio de paridad de género. Las leyes determinarán las formas y modalidades que correspondan.
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2003)
 
@@ -4919,9 +4985,9 @@ VI.- Las Legislatura del Estado expedirá (sic) las leyes para hacer efectivo el
 
 VII.- Los salarios serán fijados en los presupuestos respectivos sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, en este artículo y en la ley.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-Los poderes Legislativo, Ejecutivo y Judicial del Estado de Quintana Roo, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus personas servidoras públicas. Estas propuestas deberán observar el procedimiento que para la aprobación del presupuesto de egresos, prevé el artículo 75 fracción XXX de esta Constitución y demás disposiciones legales aplicables.
+Los poderes Legislativo, Ejecutivo y Judicial del Estado de Quintana Roo, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus personas servidoras públicas. Estas propuestas deberán observar el procedimiento que para la aprobación del presupuesto de egresos, prevé el párrafo segundo del artículo 67 y el artículo 75 fracción XXX de esta Constitución y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2025)</small>
 
@@ -6834,3 +6900,27 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Poder Ejecutivo, así como las autoridades en materia de movilidad y seguridad vial, de conformidad con la viabilidad presupuestal, deberán realizar las adecuaciones a las disposiciones reglamentarias y normativas que resulten pertinentes para armonizarlas a lo previsto en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto.
 
 TERCERO. La Secretaría de Finanzas y Planeación del Poder Ejecutivo del Estado de Quintana Roo, deberá realizar las previsiones y adecuaciones presupuestales que resulten necesarias para la aplicación del presente Decreto.
+
+P.O. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 257 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Instituto Electoral de Quintana Roo y el Tribunal Electoral del Estado de Quintana Roo, revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el presente decreto.
+
+TERCERO. El Poder Legislativo en el ámbito de su competencia, garantizará que los presupuestos de los entes públicos y autoridades electorales se ajusten a los previsto en el presente decreto.
+
+CUARTO. La disposición relativa a que el presupuesto anual exclusivamente aplicable al Poder Legislativo no excederá del cero punto setenta por ciento del presupuesto de egresos del Estado, surtirá efectos a partir del inicio de la XIX Legislatura del Estado de Quintana Roo, que podrá determinar las medidas de austeridad y ajustes presupuestales necesarios. El presupuesto deberá ajustarse de manera progresiva durante los tres ejercicios fiscales subsecuentes, con el objeto de alcanzar al término de dicho periodo el presupuesto establecido. La reducción no podrá afectar los derechos laborales de las personas trabajadoras quedando exento de recorte o ajuste presupuestal.
+
+QUINTO. Las disposiciones relativas a la prohibición del nepotismo electoral y a la no reelección de las personas diputadas serán aplicables a partir del proceso electoral a celebrarse en el año 2030. En consecuencia, las personas que en dicho año se encuentren ejerciendo los cargos públicos a que se refiere el presente decreto, no podrán postularse para un proceso de reelección consecutiva.
+
+SEXTO. Las disposiciones relativas a la prohibición del nepotismo electoral y a la no reelección de las personas integrantes de los ayuntamientos serán aplicables a partir del proceso electoral a celebrarse en el año 2030. En consecuencia, las personas que en dicho año se encuentren ejerciendo los cargos públicos a que se refiere el presente decreto no podrán postularse para un proceso de reelección.
+
+SÉPTIMO. Las disposiciones relativas al cumplimiento del principio de paridad de género, serán de observancia obligatoria en los términos establecidos en el presente decreto.
+
+OCTAVO. Los recursos públicos que resulten como economías o ahorros en el presupuesto anual del Estado derivado de las reducciones que se realicen, se deberán destinar a obras de infraestructura pública en beneficio de la población, en los términos de la legislación aplicable, garantizando en todo momento los principios de legalidad, honradez, transparencia y austeridad.
+
+NOVENO. El mecanismo de asignación de representación proporcional para diputaciones establecido en el artículo 54, fracción I, inciso a) de la Constitución Política del Estado Libre y Soberano de Quintana Roo, será aplicable a partir del proceso electoral del año 2027.
+
+DÉCIMO. Se derogan las disposiciones que se opongan a lo establecido en el presente decreto.
