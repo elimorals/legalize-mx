@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-medios-de-impugnacion-electorales-de-tamaulipas-66394"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-29"
-last_updated: "2025-11-14"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 29 de diciembre de 2008.
 
@@ -1177,11 +1177,11 @@ Para la elección de las Magistradas y los Magistrados electorales se estará a 
 
 Los requisitos para ser magistrado electoral estatal son los que prevé el artículo 115 de la Ley General de Instituciones y Procedimientos Electorales.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 91.
 
-El Congreso del Estado deberá fijar en el presupuesto anual las remuneraciones de las Magistradas y Magistrados electorales, en términos del artículo 127 de la Constitución, las cuales no podrán disminuirse durante el tiempo que dure su encargo, ni podrán ser menores a las que recibe una Magistrada o un Magistrado del Supremo Tribunal de Justicia del Estado.
+El Congreso del Estado deberá fijar en el presupuesto anual las remuneraciones de las Magistradas y Magistrados electorales, así como del personal del Tribunal, en términos del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo; cualquier incremento a las percepciones previstas en el Tabulador de remuneraciones del Presupuesto de Egresos del Estado, solo procederá previa autorización expresa del Congreso del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2025)</small>
 
@@ -2014,3 +2014,49 @@ Para la implementación de las cuestiones administrativas y financieras relacion
 ###### ARTÍCULO TERCERO.
 
 El Tribunal Electoral del Estado de Tamaulipas efectuará las acciones necesarias para que la Defensoría de los Derechos Político-Electorales entre en funciones, ajustándose a las partidas presupuestales vigentes, sin que las mismas impliquen incremento presupuestal adicional o la creación de obligaciones permanentes no autorizadas por el Congreso del Estado Libre y Soberano de Tamaulipas.
+
+P.O. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 66-1072 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS; DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS; Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA ELECTORAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas a los artículos 25; 30; 79 y 130 del presente Decreto, respecto a la prohibición de nepotismo entrarán en vigor para el Proceso Electoral 2026-2027 y las relativas a la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir del proceso electoral estatal a celebrarse en el año 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+Asimismo, las derogaciones contenidas en los artículos 25 y 130 del presente Decreto serán aplicables a partir del proceso electoral estatal a celebrarse en el año 2030.
+
+###### ARTÍCULO TERCERO.
+
+El Tribunal Electoral del Estado de Tamaulipas, así como el Instituto Electoral del Estado de Tamaulipas deberán adecuar sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento del presente Decreto.
+
+El Congreso del Estado, en el ámbito de su competencia, garantizará que los presupuestos se ajusten a lo previsto en los artículos 20 y 25 Bis, del presente Decreto, por lo que realizarán en cada ejercicio fiscal los ajustes necesarios a los presupuestos que integren, previo a su aprobación.
+
+###### ARTÍCULO CUARTO.
+
+La integración de los Ayuntamientos establecida en lo dispuesto en el artículo 130 constitucional surtirá efectos a partir de la integración resultante del Proceso Electoral 2026-2027 y subsecuentes.
+
+Los Ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con un número de regidurías menor a quince, conservarán su integración actual.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos públicos que resulten como economías o ahorros en los presupuestos anuales del Estado, derivado de la reducción en la integración de los Ayuntamientos conforme al artículo 130 del presente Decreto, quedarán en el patrimonio de la hacienda pública de cada municipio.
+
+###### ARTÍCULO SEXTO.
+
+El Congreso del Estado no podrá autorizar, aprobar o ejercer para sí mismo incrementos presupuestarios reales dentro del límite establecido en el artículo 25 BIS del presente Decreto, respecto del monto aprobado para el ejercicio fiscal 2026, ni incrementar dicha proporción respecto del presupuesto de egresos del Estado, en los ejercicios fiscales subsecuentes.
+
+El monto del presupuesto anual del Congreso del Estado únicamente podrá actualizarse conforme a la inflación anual. No podrá aprobar ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas o cualquier otro mecanismo que tenga por objeto o efecto incrementar directamente su presupuesto por encima del límite previsto en el presente transitorio.
+
+El Congreso del Estado, así como los órganos internos de control u homólogos competentes, establecerán mecanismos institucionales de control, disciplina presupuestaria y responsabilidad administrativa necesarios para asegurar su cumplimiento. Cualquier disposición, determinación presupuestaria o acto de autoridad que contravenga lo establecido en el presente transitorio será nulo de pleno derecho.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las reformas del presente Decreto respecto a la prohibición de nepotismo entrarán en vigor para el Proceso Electoral 2026-2027 y las relativas a la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir del proceso electoral estatal a celebrarse en el año 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
