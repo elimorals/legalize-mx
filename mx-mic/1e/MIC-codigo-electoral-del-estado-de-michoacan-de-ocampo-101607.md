@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2026-05-27"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -731,9 +731,9 @@ VIII. Determinar el tope máximo de gastos de campaña por cada elección;
 
 IX. (DEROGADA, P.O. 1 DE JUNIO DE 2017)
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-X. Integrar las comisiones permanentes de Organización Electoral, Administración, Prerrogativas y Partidos Políticos, Educación Cívica y Participación Ciudadana y Vinculación y Servicio Profesional Electoral, así como las temporales que considere necesarias para el desempeño de sus atribuciones, a las cuales fijará su competencia;
+X. Integrar las comisiones permanentes de Organización Electoral, Administración, Prerrogativas y Partidos Políticos, Educación Cívica y Participación Ciudadana y Vinculación, Servicio Profesional Electoral y Auxiliar para la Verificación de Integridad de Candidaturas, así como las temporales que considere necesarias para el desempeño de sus atribuciones, a las cuales fijará su competencia;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -868,6 +868,14 @@ Las comisiones permanentes contarán con un secretario técnico que será el tit
 En todos los asuntos que les encomienden, las comisiones deberán presentar un informe, dictamen o proyecto de resolución, según el caso, dentro del plazo que determine este Código o haya sido fijado por el Consejo General.
 
 El Consejo General, de acuerdo con la disponibilidad presupuestal del Instituto, podrá crear comités técnicos especiales para actividades o programas específicos, en que requiera del auxilio o asesoría técnico-científica de especialistas en las materias en que así lo estime conveniente.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+ARTÍCULO 35 BIS. La Comisión Auxiliar para la Verificación de Integridad de Candidaturas, es un órgano dependiente del Consejo General del Instituto, con carácter temporal y vigente durante el proceso electoral, cuyo objetivo será constituir un enlace para turnar las solicitudes de registro de personas candidatas de partidos políticos y candidaturas independientes a la Comisión de Verificación de Integridad en Candidaturas del Instituto Nacional.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+ARTÍCULO 35 TER. La Comisión estará integrada por 3 Consejerías Electorales, designadas por el Consejo General del Instituto de acuerdo con la normatividad aplicable. La persona titular de la Secretaría Ejecutiva realizará las funciones de secretaria técnica de dicha comisión.
 
 #### SECCIÓN SEGUNDA. DEL PRESIDENTE Y DEL SECRETARIO EJECUTIVO
 
@@ -8228,3 +8236,15 @@ OCTAVO. Dentro de los sesenta días naturales siguientes a la emisión de los li
 NOVENO. El Tribunal Electoral del Estado de Michoacán, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá implementar o adecuar las herramientas tecnológicas necesarias para garantizar la operatividad de las notificaciones por correo electrónico previstas en el artículo 37 del Código Electoral del Estado de Michoacán de Ocampo.
 
 DÉCIMO. Las modificaciones al artículo 21 del Código Electoral del Estado de Michoacán de Ocampo, únicamente por cuanto ve a la supresión de disposiciones relativas a la elección consecutiva de integrantes de los ayuntamientos, no serán aplicables al proceso electoral local ordinario 2026-2027, y surtirán efectos para el proceso electoral local ordinario 2029-2030, conforme al régimen transitorio aplicable en la materia.
+
+P.O. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 478 POR EL QUE “SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 34; Y, SE ADICIONAN LOS ARTÍCULOS 35 BIS Y 35 TER DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La operación y funcionamiento de la Comisión Auxiliar para la Verificación de Integridad de Candidaturas quedará sujeta a la entrada en vigor de la legislación general federal y de los lineamientos, acuerdos o disposiciones que, en su caso, emita el Instituto Nacional Electoral en materia de verificación de integridad de candidaturas.
+
+TERCERO. El Instituto Electoral de Michoacán deberá realizar las adecuaciones reglamentarias y administrativas necesarias para el cumplimiento del presente Decreto dentro de los noventa días naturales posteriores a la entrada en vigor de la normativa federal aplicable.
+
+CUARTO. Notifíquese el presente Decreto al Instituto Electoral de Michoacán para los efectos legales conducentes.
