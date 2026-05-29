@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-instituciones-y-procedimientos-electorales-para-el-10170
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-27"
-last_updated: "2023-11-20"
+last_updated: "2026-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de junio de 2014.
 
@@ -43,9 +43,11 @@ LA SEXAGÉSIMA SEGUNDA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE
 
 #### Sección Única
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y de observancia general en el estado de Guanajuato. Tiene por objeto garantizar el ejercicio de los derechos y obligaciones político-electorales de los ciudadanos y establecer las disposiciones aplicables que regulan los procesos electorales ordinarios, especiales y extraordinarios, que se celebran para elegir Gobernador, Diputados al Congreso del Estado y miembros de los Ayuntamientos.
+La presente Ley es de orden público y de observancia general en el estado de Guanajuato. Tiene por objeto garantizar el ejercicio de los derechos y obligaciones político-electorales de la ciudadanía y establecer las disposiciones aplicables que regulan los procesos electorales ordinarios, especiales y extraordinarios, que se celebran para elegir a la persona titular del Poder Ejecutivo Estatal, personas diputadas al Congreso del Estado, integrantes de los Ayuntamientos y personas juzgadoras del Poder Judicial del Estado, con base en lo que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guanajuato, las Leyes Generales aplicables y la presente Ley.
 
 ###### Artículo 2.
 
@@ -55,17 +57,13 @@ El poder público dimana del pueblo, el cual designa a sus representantes median
 
 Para los efectos de esta Ley se entiende por:
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+I. Actos anticipados de campaña: Los actos de expresión que se realicen bajo cualquier modalidad, fuera de la etapa de campañas, que contengan llamados expresos al voto en contra o a favor de una candidatura o un partido político o personas juzgadoras, que soliciten directa o explícitamente a la ciudadanía o mediante equivalentes funcionales cualquier tipo de apoyo para contender en el proceso electoral por alguna candidatura o para un partido político;
 
-I. ACTOS ANTICIPADOS DE CAMPAÑA: LOS ACTOS DE EXPRESIÓN QUE SE REALICEN BAJO CUALQUIER MODALIDAD Y EN CUALQUIER MOMENTO Y EN ESPACIO PÚBLICO O VIRTUAL CONTENIDOS EN PORTALES DE INTERNET Y REDES SOCIALES FUERA DE LA ETAPA DE CAMPAÑAS, QUE CONTENGAN LLAMADOS EXPRESOS AL VOTO EN CONTRA O A FAVOR DE UNA CANDIDATURA O UN PARTIDO POLÍTICO, SOLICITEN DIRECTA Y EXPLÍCITAMENTE A LA CIUDADANÍA CUALQUIER TIPO DE APOYO PARA CONTENDER EN EL PROCESO ELECTORAL POR ALGUNA CANDIDATURA O PARA UN PARTIDO POLÍTICO;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
-
-II. ACTOS ANTICIPADOS DE PRECAMPAÑA: LOS ACTOS DE EXPRESIÓN QUE SE REALICEN BAJO CUALQUIER MODALIDAD Y EN CUALQUIER MOMENTO Y EN UN ESPACIO PÚBLICO O VIRTUAL CONTENIDOS EN PORTALES DE INTERNET Y REDES SOCIALES DURANTE EL LAPSO QUE VA DESDE EL INICIO DEL PROCESO ELECTORAL HASTA ANTES DEL PLAZO LEGAL PARA EL INICIO DE LAS PRECAMPAÑAS, QUE CONTENGAN DIRECTA Y EXPLÍCITAMENTE LLAMADOS EXPRESOS AL VOTO EN CONTRA O A FAVOR DE UNA PRECANDIDATURA;
+II. Actos anticipados de precampaña: Los actos de expresión que se realicen bajo cualquier modalidad durante el lapso que va desde el inicio del proceso electoral hasta antes del plazo legal para el inicio de las precampañas, que contengan directa o explícitamente llamados al voto en contra o a favor de una precandidatura;
 
 III. Afiliado o militante: El ciudadano que, en pleno goce y ejercicio de sus derechos político-electorales, se registra libre, voluntaria e individualmente a un partido político en los términos que para esos efectos disponga el partido político en su normatividad interna, independientemente de su denominación, actividad y grado de participación;
 
@@ -73,37 +71,61 @@ III. Afiliado o militante: El ciudadano que, en pleno goce y ejercicio de sus de
 
 IV. Buzón electrónico: El depósito en el que se almacenan y organizan los mensajes de correo electrónico recibidos por las autoridades electorales;
 
-V. Candidato independiente: El ciudadano que obtenga por parte de la autoridad electoral el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la presente Ley;
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VI. Ciudadanos: Las personas que teniendo la calidad de mexicanos reúnan los requisitos determinados en el artículo 34 de la Constitución Política de los Estados Unidos Mexicanos;
+V. Comités de Evaluación: Órgano de los Poderes del Estado encargado de evaluar a las personas aspirantes a candidaturas judiciales;
 
-VII. Consejo General: El Consejo General del Instituto Electoral del Estado de Guanajuato;
+VI. Candidato independiente: El ciudadano que obtenga por parte de la autoridad electoral el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la presente Ley;
 
-VIII. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
+VII. Ciudadanos: Las personas que teniendo la calidad de mexicanos reúnan los requisitos determinados en el artículo 34 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IX. Constitución del Estado: La Constitución Política para el Estado de Guanajuato;
+VIII. Consejo General: El Consejo General del Instituto Electoral del Estado de Guanajuato;
 
-X. Instituto Nacional: El Instituto Nacional Electoral;
+IX. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
 
-XI. Instituto Estatal: El Instituto Electoral del Estado de Guanajuato;
+X. Constitución del Estado: La Constitución Política para el Estado de Guanajuato;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
 
-XII. Juicio en línea: El juicio en línea para la protección de los derechos político-electorales de los ciudadanos;
+XI. Igualdad sustantiva: La condición mediante la cual se garantiza el acceso real y efectivo al ejercicio de derechos político-electorales en condiciones de igualdad, eliminando barreras estructurales, discriminación y desigualdades históricas;
 
-XIII. Ley General: La Ley General de Instituciones y Procedimientos Electorales;
+XII. Instituto Nacional: El Instituto Nacional Electoral;
 
-XIV. Ley: La Ley de Instituciones y Procedimientos Electorales para el Estado de Guanajuato;
+XIII. Instituto Estatal: El Instituto Electoral del Estado de Guanajuato;
 
-XV. Partidos políticos: Los partidos políticos nacionales y estatales, y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-XVI. Tribunal Estatal Electoral: El Tribunal Estatal Electoral de Guanajuato.
+XIV. Juicio en línea: El juicio de la ciudadanía en línea;
+
+XV. Ley General: La Ley General de Instituciones y Procedimientos Electorales;
+
+XVI. Ley: La Ley de Instituciones y Procedimientos Electorales para el Estado de Guanajuato;
+
+XVII. Partidos políticos: Los partidos políticos nacionales y estatales, y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XVIII. Órgano garante: Órganos encargados de la contraloría interna de control del Instituto Estatal y del Tribunal Estatal Electoral;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XIX. Personas juzgadoras: Personas magistradas y juezas del Poder Judicial del Estado, electas por mayoría relativa mediante voto libre, directo y secreto de la ciudadanía;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XX. Proceso electoral judicial: El conjunto de actos ordenados por la Constitución Federal, Constitución del Estado, las Leyes Generales aplicables y la presente Ley para la elección de personas juzgadoras; y
+
+XXI. Tribunal Estatal Electoral: El Tribunal Estatal Electoral de Guanajuato.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
 ###### Artículo 3 Bis.
 
 Para los efectos de esta Ley se entiende por violencia política contra las mujeres en razón de género, la acción u omisión que, en el ámbito político o público, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político- electorales, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o su función del poder público.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Las autoridades electorales y los partidos políticos deberán adoptar medidas permanentes de prevención, atención, reparación integral y no repetición, a fin de erradicar la violencia política contra las mujeres en razón de género y garantizar el ejercicio pleno de sus derechos político-electorales en condiciones de igualdad sustantiva.
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
@@ -153,13 +175,25 @@ El Instituto Nacional y el Instituto Estatal, en el ámbito de su respectiva com
 
 Las autoridades estatales y municipales deberán prestar la colaboración para el adecuado desempeño de las funciones de las autoridades electorales establecidas por la Constitución Federal, la Constitución del Estado, la Ley General de Partidos Políticos, la Ley General y esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 5.
 
-La aplicación de esta Ley corresponde al Instituto Estatal, al Tribunal Estatal Electoral y, en su caso, al Instituto Nacional y a la Cámara de Senadores.
+La aplicación de esta Ley corresponde al Instituto Estatal, al Tribunal Estatal Electoral, y, en su caso, al Instituto Nacional y al Senado de la República.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+La interpretación de esta Ley se realizará conforme a los criterios gramatical, sistemático y funcional, así como bajo los principios de igualdad sustantiva, perspectiva de género, control de constitucionalidad y de convencionalidad.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Las autoridades electorales deberán interpretar y aplicar las disposiciones de esta Ley conforme a los principios pro persona, de progresividad y no regresión, favoreciendo en todo tiempo la protección más amplia de los derechos político-electorales y la representación política efectiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 6.
 
-La promoción de la participación ciudadana para el ejercicio del derecho al sufragio corresponde al Instituto Nacional, al Instituto Estatal, a los partidos políticos y a los candidatos. El Instituto Nacional emitirá las reglas a las que se sujetarán las campañas de promoción del voto que realicen otras organizaciones.
+La promoción de la participación ciudadana para el ejercicio del derecho al sufragio corresponde al Instituto Nacional, al Instituto Estatal, a los partidos políticos y a las candidaturas. El Instituto Nacional emitirá las reglas a las que se sujetarán las campañas de promoción del voto que realicen otras organizaciones.
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
@@ -169,27 +203,35 @@ Para el cumplimiento de estas obligaciones, el Instituto Electoral promoverá la
 
 #### Sección Única
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 7.
 
-Son derechos de los ciudadanos:
+Son derechos de la ciudadanía:
 
-I. Votar en las elecciones. El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+I. Votar en las elecciones. El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción al electorado;
 
 II. La igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular, en los términos que señale la Constitución del Estado y esta Ley;
 
-III. Ser votado para todos los puestos de elección popular, teniendo las calidades que establece la Ley y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine esta Ley;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+III. Ser votada para todos los puestos de elección popular, teniendo las calidades que establece la Ley y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determinen las leyes aplicables;
 
 IV. Votar en los procesos de participación ciudadana, en los términos de la legislación correspondiente;
 
-V. Participar como observadores de los actos de preparación y desarrollo de los procesos electorales locales, así como en los procesos de participación ciudadana, en los términos de la legislación correspondiente;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+V. Participar como personas observadoras de los actos de preparación y desarrollo de los procesos electorales locales, así como en los procesos de participación ciudadana, en los términos de la legislación correspondiente;
 
 VI. Asociarse o reunirse pacíficamente para tomar parte en los asuntos políticos del Estado;
 
 VII. Afiliarse libre e individualmente a los partidos políticos, y
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VIII. Votar y ser votado para todos los cargos de elección popular dentro de los procesos internos de selección de candidatos y elección de dirigentes, teniendo las calidades que establezca la ley, los estatutos y las normas internas de cada partido político. Lo anterior aplicará tratándose de diputados e integrantes de ayuntamientos que pretendan la elección consecutiva.
+VIII. Votar y ser votada para todos los cargos de elección popular dentro de los procesos internos de selección de candidaturas y elección de dirigencias, teniendo las calidades que establezca la ley, los estatutos y las normas internas de cada partido político. Lo anterior aplicará tratándose de personas diputadas e integrantes de ayuntamientos que pretendan la elección consecutiva.
 
 ###### Artículo 8.
 
@@ -251,17 +293,15 @@ Para el ejercicio de sus derechos político-electorales, los ciudadanos podrán 
 
 #### Sección Única
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 11.
 
-Son requisitos para ser Diputado, Gobernador del Estado o miembro de un Ayuntamiento, además de los que señalan respectivamente la Constitución Federal y los artículos 45, 46, 68, 69, 110 y 111 de la Constitución del Estado, los siguientes:
+Son requisitos para ser persona gobernadora del Estado, persona diputada al Congreso del Estado o integrante de un Ayuntamiento, además de los que señalan respectivamente la Constitución Federal y los artículos 45, 46, 68, 69, 110 y 111 de la Constitución del Estado, los siguientes:
 
-I. Estar inscrito en Registro Federal de Electores y contar con credencial para votar, y
+I. Estar inscrita en el Registro Federal de Electores y contar con credencial para votar vigente; y
 
-II. No ser ni haber sido Secretario General del Tribunal, oficial mayor, secretario de ponencia o actuario del Tribunal Estatal, a menos que se haya separado del cargo, de manera definitiva, tres años antes del día de la elección.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
+II. No ser ni haber sido titular de la Secretaría General del Tribunal, de la Oficialía Mayor, secretariado de ponencia o personal actuarial del Tribunal Estatal Electoral, a menos que se haya separado del cargo, de manera definitiva, tres años antes del día de la elección.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -291,7 +331,9 @@ En el caso de que una candidatura a presidencia municipal resulte ganadora y ade
 
 Los partidos políticos no podrán registrar más de cinco candidatos a diputados propietarios o suplentes, para la lista que señala el artículo 44, fracción I, inciso a) de la Constitución del Estado y 189 fracción II inciso a) de esta Ley, que contiendan simultáneamente por mayoría relativa y por el principio de representación proporcional, en un mismo proceso electoral.
 
-### Capítulo IV. De la integración de los poderes Legislativo y Ejecutivo del Estado y de los ayuntamientos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2026)</small>
+
+### Capítulo IV. De la integración de los poderes Legislativo, Ejecutivo y Judicial, y de los ayuntamientos del Estado
 
 #### Sección Primera. De los sistemas electorales
 
@@ -359,9 +401,11 @@ LOS PARTIDOS POLÍTICOS DE RECIENTE CREACIÓN PODRÁN POSTULAR CANDIDATURAS PARA
 
 El Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador del Estado, electo cada seis años por mayoría relativa y voto directo en toda la entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 16.
 
-Cada municipio será gobernado por un Ayuntamiento integrado por representantes electos según el principio de mayoría relativa, y de representación proporcional en los términos del artículo 109 de la Constitución del Estado y de la Ley Orgánica Municipal para el Estado de Guanajuato.
+Cada municipio será gobernado por un Ayuntamiento integrado por representantes electos según el principio de mayoría relativa, y de representación proporcional en los términos del artículo 109 de la Constitución del Estado y de la Ley para el Gobierno y Administración de los Municipios del Estado de Guanajuato.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -403,11 +447,29 @@ LOS INTEGRANTES DE UN AYUNTAMIENTO QUE HAYAN SIDO ELECTOS POR LA VÍA INDEPENDIE
 
 Las elecciones ordinarias se verificarán el primer domingo de junio del año que corresponda para elegir:
 
-I. Diputados al Congreso del Estado, cada tres años;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-II. Gobernador del Estado, cada seis años, y
+I. Persona gobernadora del Estado, cada seis años;
 
-III. Ayuntamientos, cada tres años.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+II. Personas diputadas al Congreso del Estado, cada tres años;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+III. Personas integrantes a los ayuntamientos, cada tres años;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+IV. Personas magistradas del Supremo Tribunal de Justicia del Estado, cada nueve años;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+V. Personas magistradas del Tribunal de Disciplina Judicial del Estado, cada seis años; y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VI. Personas juezas del Poder Judicial del Estado, cada nueve años.
 
 ###### Artículo 18.
 
@@ -444,6 +506,14 @@ b) Cuando el órgano electoral haya hecho la declaratoria definitiva y firme del
 El Congreso del Estado convocará a quienes hayan obtenido el empate para que se lleve a cabo una nueva elección, en un plazo no mayor de dos meses, asimismo convocará a elecciones en caso de nulidad de los comicios ya sea de Gobernador, de diputados o de ayuntamientos, en un plazo no mayor de seis meses.
 
 Las vacantes de miembros del Congreso del Estado o de los ayuntamientos electos por el principio de representación proporcional, deberán ser cubiertas por sus suplentes y en su defecto, por aquellos candidatos del mismo partido que sigan en el orden de la lista correspondiente, después de habérsele asignado los que le hubieren correspondido.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 19 Bis.
+
+Se convocará a elecciones extraordinarias cuando se declare nula la elección de las personas juzgadoras, en los términos y plazos que marca la Constitución del Estado y esta Ley.
+
+Para el caso de vacantes de personas magistradas, deberá atenderse a lo previsto por el artículo 84 de la Constitución del Estado.
 
 ## TÍTULO SEGUNDO. DEL RÉGIMEN DE LOS PARTIDOS POLÍTICOS
 
@@ -665,7 +735,9 @@ XIV. Actuar y conducirse sin ligas de dependencia o subordinación con partidos 
 
 XV. Aplicar el financiamiento de que dispongan exclusivamente para los fines que les hayan sido entregados;
 
-XVI. Abstenerse, en su propaganda política o electoral, de cualquier expresión que denigre a las instituciones y a los partidos políticos o que calumnie a las personas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XVI. Abstenerse en su propaganda política o electoral de cualquier expresión que calumnie a las personas;
 
 XVII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
@@ -691,9 +763,9 @@ XXII. Elaborar y entregar los informes de origen y uso de recursos al Instituto 
 
 XXIII. Cumplir con las obligaciones que la legislación en materia de transparencia y acceso a su información les impone;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-XXIV. Garantizar a las mujeres el ejercicio de sus derechos políticos y electorales libres de violencia política, en los términos de esta Ley;
+XXIV. Garantizar a las mujeres el ejercicio de sus derechos políticos y electorales libres de violencia política en razón de género, en los términos de esta Ley;
 
 > <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -1133,7 +1205,9 @@ Corresponde al Instituto Estatal:
 
 I. Aplicar las disposiciones generales, reglas, lineamientos, criterios y formatos que, en ejercicio de las facultades que le confiere la Constitución Federal y la Ley General, establezca el Instituto Nacional;
 
-II. Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos y candidatos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+II. Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos y candidaturas, incluidas las de las personas juzgadoras, en los términos de la Ley General y esta Ley;
 
 III. Garantizar la ministración oportuna del financiamiento público a que tienen derecho los partidos políticos nacionales y locales y, en su caso, a los candidatos independientes, en la entidad;
 
@@ -1151,29 +1225,29 @@ IX. Expedir las constancias de mayoría y declarar la validez de la elección a 
 
 X. Efectuar el cómputo de la elección de Gobernador del Estado;
 
-XI. Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones que se lleven a cabo en la entidad, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional;
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
 
-XII. Verificar el cumplimiento de los criterios generales que emita el Instituto Nacional en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o morales que pretendan llevar a cabo este tipo de estudios en el estado;
+XI. Efectuar los cómputos de la elección de las personas juzgadoras, así como publicar los resultados y entregar las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres observando el principio de paridad de género. También declarar la validez de la elección y enviar sus resultados al Tribunal Estatal Electoral;
 
-XIII. Desarrollar las actividades para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en la entidad, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional;
+XII. Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones que se lleven a cabo en la entidad, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional;
+
+XIII. Verificar el cumplimiento de los criterios generales que emita el Instituto Nacional en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o morales que pretendan llevar a cabo este tipo de estudios en el estado;
+
+XIV. Desarrollar las actividades para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en la entidad, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional;
 
 (NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-XIV. ORDENAR LA REALIZACIÓN DE CONTEOS RÁPIDOS BASADOS EN LOS RESULTADOS REGISTRADOS EN LAS ACTAS CORRESPONDIENTES A FIN DE CONOCER LAS TENDENCIAS DE LOS RESULTADOS EL DÍA DE LA JORNADA ELECTORAL, DE CONFORMIDAD CON LOS LINEAMIENTOS EMITIDOS POR EL INSTITUTO NACIONAL;
+XV. ORDENAR LA REALIZACIÓN DE CONTEOS RÁPIDOS BASADOS EN LOS RESULTADOS REGISTRADOS EN LAS ACTAS CORRESPONDIENTES A FIN DE CONOCER LAS TENDENCIAS DE LOS RESULTADOS EL DÍA DE LA JORNADA ELECTORAL, DE CONFORMIDAD CON LOS LINEAMIENTOS EMITIDOS POR EL INSTITUTO NACIONAL;
 
-XV. Organizar, desarrollar, y realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana que se prevean en la Constitución del Estado y en la ley de la materia;
+XVI. Organizar, desarrollar, y realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana que se prevean en la Constitución del Estado y en la ley de la materia;
 
-XVI. Supervisar las actividades que realicen los órganos distritales locales y municipales en la entidad, durante el proceso electoral;
+XVII. Supervisar las actividades que realicen los órganos distritales locales y municipales en la entidad, durante el proceso electoral;
 
-XVII. Ejercer la función de oficialía electoral respecto de actos o hechos exclusivamente de naturaleza electoral;
+XVIII. Ejercer la función de oficialía electoral respecto de actos o hechos exclusivamente de naturaleza electoral;
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
-
-XVIII. LLEVAR A CABO LA RECEPCIÓN Y TRÁMITE DE SOLICITUDES DE OFICIALÍA ELECTORAL A TRAVÉS DE UN SISTEMA ELECTRÓNICO;
+(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA LA FRACCIÓN XVIII DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: "XVIII. Llevar a cabo la recepción y trámite de solicitudes de Oficialía Electoral a través de un sistema electrónico;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 (NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA LA FRACCIÓN XIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1181,41 +1255,37 @@ XVIII. LLEVAR A CABO LA RECEPCIÓN Y TRÁMITE DE SOLICITUDES DE OFICIALÍA ELECT
 
 XIX. INFORMAR AL INSTITUTO NACIONAL, A TRAVÉS DE LA UNIDAD ADMINISTRATIVA CORRESPONDIENTE, SOBRE EL EJERCICIO DE LAS FUNCIONES QUE LE HUBIERA DELEGADO CONFORME A LO PREVISTO POR LA LEY GENERAL Y DEMÁS DISPOSICIONES QUE EMITA EL CONSEJO GENERAL DEL INSTITUTO NACIONAL;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
-XX. Impulsar y generar mecanismos para prevenir y atender la violencia política electoral en razón de género.
+XX. Impulsar y generar mecanismos para prevenir y atender la violencia política contra las mujeres en razón de género;
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
 Implementar el programa de capacitación obligatoria en igualdad de género y en perspectiva de género para todo el personal del Instituto;
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-XXI. Sustanciar los procedimientos correspondientes sobre violencia política electoral en razón de género;
+XXI. Sustanciar los procedimientos correspondientes sobre violencia política contra las mujeres en razón de género;
 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 XXII. Garantizar la igualdad de género y el pleno ejercicio de los derechos políticos de las personas;
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-XXIII. Realizar la difusión en los medios de comunicación de las conductas, acciones u omisiones que conllevan a la violencia política electoral en razón de género; la prevención, formas de denuncia y conciencia sobre la erradicación de ésta;
+XXIII. Realizar la difusión en los medios de comunicación de las conductas, acciones u omisiones que conllevan a la violencia política contra las mujeres en razón de género; la prevención, formas de denuncia y conciencia sobre la erradicación de ésta;
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-XXIV. Capacitar al personal que labora en el Instituto Electoral y personas integrantes de mesas directivas de casilla para prevenir la violencia política electoral en razón de género, y
+XXIV. Capacitar al personal que labora en el Instituto Estatal y a personas integrantes de mesas directivas de casilla para prevenir la violencia política contra las mujeres en razón de género; y
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA LA FRACCIÓN XXV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
-
-XXV. RECIBIR, REGISTRAR Y DISTRIBUIR LA DOCUMENTACIÓN QUE INGRESE AL INSTITUTO ESTATAL, A TRAVÉS DE UN SISTEMA ELECTRÓNICO PARA SU INMEDIATA ATENCIÓN, Y
+(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA LA FRACCIÓN XXV DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: "XXV. Recibir, registrar y distribuir la documentación que ingrese al Instituto Estatal, a través de un sistema electrónico para su inmediata atención, y"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 (NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA LA FRACCIÓN XXVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MAYO DE 2023)</small>
 
-XXVI. LAS DEMÁS QUE SE ESTABLEZCAN EN ESTA LEY.
+XXV. LAS DEMÁS QUE SE ESTABLEZCAN EN ESTA LEY.
 
 (NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1373,73 +1443,77 @@ V. Formular y aprobar su anteproyecto de presupuesto de egresos, para su incorpo
 
 VI. Registrar a los representantes que los partidos políticos acrediten ante el propio Consejo General y, supletoriamente, los que nombren ante los consejos distritales o municipales;
 
-VII. Determinar conforme a las disposiciones establecidas en los artículos47 (sic) y 48 de esta Ley, el monto del financiamiento público a que tendrán derecho los partidos políticos y acordar el calendario para la ministración de dicho financiamiento; asimismo vigilará lo relativo al cumplimiento de las normas referentes al financiamiento privado en los términos de ley;
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VIII. Proveer lo relativo a las prerrogativas que se otorgan a los partidos políticos;
+VII. Recibir los listados de candidaturas a personas juzgadoras enviado (sic) por el Congreso del Estado;
+
+VIII. Determinar conforme a las disposiciones establecidas en los artículos47 (sic) y 48 de esta Ley, el monto del financiamiento público a que tendrán derecho los partidos políticos y acordar el calendario para la ministración de dicho financiamiento; asimismo vigilará lo relativo al cumplimiento de las normas referentes al financiamiento privado en los términos de ley;
+
+IX. Proveer lo relativo a las prerrogativas que se otorgan a los partidos políticos;
 
 (NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-IX. RESOLVER SOBRE LOS CONVENIOS DE COALICIONES, QUE SOMETAN A SU CONSIDERACIÓN LOS PARTIDOS POLÍTICOS;
+X. RESOLVER SOBRE LOS CONVENIOS DE COALICIONES, QUE SOMETAN A SU CONSIDERACIÓN LOS PARTIDOS POLÍTICOS;
 
 (NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
-X. RECIBIR Y RESOLVER LAS SOLICITUDES DE REGISTRO DE CANDIDATURAS A GOBERNADOR DEL ESTADO, DE FÓRMULAS A DIPUTADOS POR MAYORÍA RELATIVA Y DE PLANILLAS A INTEGRAR LOS AYUNTAMIENTOS;
+XI. RECIBIR Y RESOLVER LAS SOLICITUDES DE REGISTRO DE CANDIDATURAS A GOBERNADOR DEL ESTADO, DE FÓRMULAS A DIPUTADOS POR MAYORÍA RELATIVA Y DE PLANILLAS A INTEGRAR LOS AYUNTAMIENTOS;
 
-XI. Recibir y resolver las solicitudes de registro de las listas estatales de candidatos a diputados por el principio de representación proporcional;
+XII. Recibir y resolver las solicitudes de registro de las listas estatales de candidatos a diputados por el principio de representación proporcional;
 
-XII. Expedir el reglamento para la difusión, fijación y retiro de la propaganda electoral;
+XIII. Expedir el reglamento para la difusión, fijación y retiro de la propaganda electoral;
 
-XIII. Vigilar la adecuada aplicación del mecanismo para el sorteo de ciudadanos que habrán de integrar las mesas directivas de casilla;
+XIV. Vigilar la adecuada aplicación del mecanismo para el sorteo de ciudadanos que habrán de integrar las mesas directivas de casilla;
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE DEROGA LA FRACCIÓN XIV DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+XV. (DEROGADA, P.O. 29 DE MAYO DE 2026)
 
-XIV. (DEROGADA, P.O. 31 DE MAYO DE 2023)
+XVI. Proporcionar a los organismos electorales la documentación y material, así como los demás elementos y útiles necesarios para el cumplimiento de sus funciones;
 
-XV. Proporcionar a los organismos electorales la documentación y material, así como los demás elementos y útiles necesarios para el cumplimiento de sus funciones;
+XVII. Aprobar, en su caso, la propuesta que le presente la Junta Estatal Ejecutiva sobre la implementación del voto de los guanajuatenses en el extranjero;
 
-XVI. Aprobar, en su caso, la propuesta que le presente la Junta Estatal Ejecutiva sobre la implementación del voto de los guanajuatenses en el extranjero;
+XVIII. Vigilar que las actividades de los partidos políticos se desarrollen con apego a esta Ley;
 
-XVII. Vigilar que las actividades de los partidos políticos se desarrollen con apego a esta Ley;
+XIX. Registrar la plataforma electoral que para cada proceso electoral deben presentar los partidos políticos y los candidatos independientes en los términos de esta Ley;
 
-XVIII. Registrar la plataforma electoral que para cada proceso electoral deben presentar los partidos políticos y los candidatos independientes en los términos de esta Ley;
+XX. Efectuar el cómputo de la votación estatal de la elección de Gobernador del Estado y de la emitida para los efectos de la asignación de diputaciones, según el principio de representación proporcional, aplicando la fórmula que esta Ley determina; así como expedir las constancias de mayoría y de asignación correspondientes y las declaratorias de validez;
 
-XIX. Efectuar el cómputo de la votación estatal de la elección de Gobernador del Estado y de la emitida para los efectos de la asignación de diputaciones, según el principio de representación proporcional, aplicando la fórmula que esta Ley determina; así como expedir las constancias de mayoría y de asignación correspondientes y las declaratorias de validez;
+XXI. Enviar a las instancias competentes los expedientes relativos a las elecciones de diputados según el principio de representación proporcional o de Gobernador del Estado, para la sustanciación de los recursos que correspondan en términos de esta Ley;
 
-XX. Enviar a las instancias competentes los expedientes relativos a las elecciones de diputados según el principio de representación proporcional o de Gobernador del Estado, para la sustanciación de los recursos que correspondan en términos de esta Ley;
+XXII. Acordar la elaboración e impresión de la documentación electoral, en los términos de los lineamientos que emita el Instituto Nacional;
 
-XXI. Acordar la elaboración e impresión de la documentación electoral, en los términos de los lineamientos que emita el Instituto Nacional;
+XXIII. Aprobar la celebración de convenios con autoridades federales, estatales y municipales para el mejor desarrollo del proceso electoral;
 
-XXII. Aprobar la celebración de convenios con autoridades federales, estatales y municipales para el mejor desarrollo del proceso electoral;
+XXIV. Resolver en los términos de esta Ley, el otorgamiento o pérdida del registro de los partidos políticos estatales; emitir la declaratoria correspondiente, y ordenar su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato;
 
-XXIII. Resolver en los términos de esta Ley, el otorgamiento o pérdida del registro de los partidos políticos estatales; emitir la declaratoria correspondiente, y ordenar su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato;
+XXV. Registrar de manera supletoria a los consejos distritales electorales las candidaturas a diputados que serán electos por el principio de mayoría relativa;
 
-XXIV. Registrar de manera supletoria a los consejos distritales electorales las candidaturas a diputados que serán electos por el principio de mayoría relativa;
+XXVI. Registrar supletoriamente en los consejos municipales electorales, las planillas de candidatos a miembros de los ayuntamientos;
 
-XXV. Registrar supletoriamente en los consejos municipales electorales, las planillas de candidatos a miembros de los ayuntamientos;
+XXVII. Desahogar las dudas que se le presenten sobre la aplicación e interpretación de esta Ley;
 
-XXVI. Desahogar las dudas que se le presenten sobre la aplicación e interpretación de esta Ley;
-
-XXVII. Resolver los recursos que esta Ley establece y que sean de su competencia;
+XXVIII. Resolver los recursos que esta Ley establece y que sean de su competencia;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
-XXVIII. Designar al Secretario Ejecutivo, a los directores ejecutivos y a los titulares de las unidades técnicas del Instituto Estatal no integrados al servicio profesional electoral nacional;
+XXIX. Designar al Secretario Ejecutivo, a los directores ejecutivos y a los titulares de las unidades técnicas del Instituto Estatal no integrados al servicio profesional electoral nacional;
 
-XXIX. Prever lo necesario para garantizar a los ciudadanos el derecho de observación electoral, de acuerdo a los lineamientos y criterios que emita el Instituto Nacional;
+XXX. Prever lo necesario para garantizar a los ciudadanos el derecho de observación electoral, de acuerdo a los lineamientos y criterios que emita el Instituto Nacional;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
-XXX. Fiscalizar el origen y destino de los recursos de agrupaciones políticas locales y de organizaciones de ciudadanos que pretendan obtener el registro como partido político local;
+XXXI. Fiscalizar el origen y destino de los recursos de agrupaciones políticas locales y de organizaciones de ciudadanos que pretendan obtener el registro como partido político local;
 
 Para tal efecto, podrá ordenar la práctica de auditorías, cuando exista causa justificada a propuesta de la Comisión de Fiscalización, que se creare para tal fin;
 
-XXXI. Integrar las comisiones que considere para el desempeño de sus atribuciones, con el número de miembros que para tal caso acuerde, presididas siempre por un Consejero Electoral;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-XXXII. Celebrar convenios con el Instituto Nacional para que asuma la organización integral de los procesos electorales en el Estado. Con base en el convenio que se celebre, se establecerán de manera fehaciente las circunstancias de tiempo, modo y lugar de que se actualiza alguno de los siguientes supuestos:
+XXXII. Integrar las comisiones y comités que considere para el desempeño de sus atribuciones, con el número de miembros que para tal caso acuerde, presididas siempre por una consejería electoral;
+
+XXXIII. Celebrar convenios con el Instituto Nacional para que asuma la organización integral de los procesos electorales en el Estado. Con base en el convenio que se celebre, se establecerán de manera fehaciente las circunstancias de tiempo, modo y lugar de que se actualiza alguno de los siguientes supuestos:
 
 a) Que existan diversos factores sociales que afecten la paz pública o pongan a la sociedad en grave riesgo en el Estado que, a decir del peticionario afectan los principios constitucionales electorales de imparcialidad, certeza, legalidad, objetividad y equidad en la contienda electoral e impiden por lo tanto, que se lleve a cabo la organización pacífica de la elección por el Instituto Estatal, y
 
@@ -1451,53 +1525,39 @@ La petición de asunción total deberá formularse hasta antes de que inicie el 
 
 Las peticiones de asunción se resolverán en los términos previstos en el Título Quinto del Libro Tercero de la Ley General;
 
-XXXIII. Acordar por mayoría, formular la petición al Consejo General del Instituto Nacional para que ejerza la facultad de atracción a que se refiere el inciso c) del Apartado C, de la Base V del artículo 41 de la Constitución Federal y podrá presentase en cualquier momento, en los términos previstos en la Ley General;
+XXXIV. Acordar por mayoría, formular la petición al Consejo General del Instituto Nacional para que ejerza la facultad de atracción a que se refiere el inciso c) del Apartado C, de la Base V del artículo 41 de la Constitución Federal y podrá presentase en cualquier momento, en los términos previstos en la Ley General;
 
-XXXIV. Ejercer las facultades que le delegue el Instituto Nacional que señala el inciso b) del Apartado C, de la Base V del artículo 41 de la Constitución Federal;
+XXXV. Ejercer las facultades que le delegue el Instituto Nacional que señala el inciso b) del Apartado C, de la Base V del artículo 41 de la Constitución Federal;
 
-XXXV. Dictar los acuerdos para organizar las elecciones de las dirigencias de los partidos políticos estatales que así lo soliciten, con cargo a sus prerrogativas, en los términos que establece esta Ley. La solicitud deberá realizarse al Instituto Estatal cuando menos con cuatro meses de anticipación. El Instituto Estatal establecerá mediante acuerdo las modalidades que deberán cumplir los partidos políticos estatales para la solicitud respectiva, siendo obligación tener actualizado el padrón de afiliados en el registro de partidos políticos;
+XXXVI. Dictar los acuerdos para organizar las elecciones de las dirigencias de los partidos políticos estatales que así lo soliciten, con cargo a sus prerrogativas, en los términos que establece esta Ley. La solicitud deberá realizarse al Instituto Estatal cuando menos con cuatro meses de anticipación. El Instituto Estatal establecerá mediante acuerdo las modalidades que deberán cumplir los partidos políticos estatales para la solicitud respectiva, siendo obligación tener actualizado el padrón de afiliados en el registro de partidos políticos;
 
-XXXVI. Organizar durante las campañas al menos un debate entre los candidatos a Gobernador, diputados y presidentes municipales; en su caso, los subsecuentes a petición no vinculante de dos o más candidatos;
+XXXVII. Organizar durante las campañas al menos un debate entre los candidatos a Gobernador, diputados y presidentes municipales; en su caso, los subsecuentes a petición no vinculante de dos o más candidatos;
 
-XXXVII. Aprobar el calendario y el plan integral del proceso electoral local, a más tardar sesenta días antes de su inicio, y de los procesos extraordinarios o especiales que fueren convocados, y
+XXXVIII. Aprobar el calendario y el plan integral del proceso electoral local, a más tardar sesenta días antes de su inicio, y de los procesos extraordinarios o especiales que fueren convocados, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2016)</small>
-
-XXXVIII. Presentar al Congreso para su aprobación, la propuesta de remoción del titular del Órgano Interno de Control, en los términos de esta ley y demás disposiciones; y
+XXXIX. (DEROGADA, P.O. 29 DE MAYO DE 2026)
 
 > <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
 
-XXXIX. Garantizar en foros de difusión y debate, que organice el Instituto Electoral, la presencia de intérpretes de lenguaje de señas para personas con discapacidad auditiva;
+XL. Garantizar en foros de difusión y debate, que organice el Instituto Electoral, la presencia de intérpretes de lenguaje de señas para personas con discapacidad auditiva;
 
 > <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
 
-XL. Emitir los lineamientos para la integración paritaria al momento de realizar la asignación en los consejos municipales;
+XLI. Emitir los lineamientos para la integración paritaria al momento de realizar la asignación en los consejos municipales;
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE DEROGA LA FRACCIÓN XLI DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE MAYO DE 2026)</small>
 
-XLI. (DEROGADA, P.O. 31 DE MAYO DE 2023)
+XLII. Presentar al Congreso del Estado para su aprobación, la propuesta de remoción de la persona titular del órgano garante, en los términos de esta ley y demás disposiciones;
 
 > <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
 
-XLII. Vigilar que las actividades de los partidos políticos y de las agrupaciones políticas locales se desarrollen con apego a la Ley y a los lineamientos que emita el Consejo General para que los partidos políticos prevengan, atiendan y erradiquen la violencia política contra las mujeres en razón de género, y
+XLIII. Vigilar que las actividades de los partidos políticos y de las agrupaciones políticas locales se desarrollen con apego a la Ley y a los lineamientos que emita el Consejo General para que los partidos políticos prevengan, atiendan y erradiquen la violencia política contra las mujeres en razón de género, y
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA LA FRACCIÓN XLIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA LA FRACCIÓN XLIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: "XLIII. Determinar los topes máximos de gastos de precampaña y campaña que puedan erogarse en las elecciones de gobernador, diputados e integrantes de ayuntamientos en los términos previstos en esta ley;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA LA FRACCIÓN XLIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: "XLIV. Designar en caso de ausencia del titular de la Secretaría Ejecutiva del Instituto Estatal, de entre los titulares de las direcciones que integran la Junta Estatal Ejecutiva, a la persona que fungirá como Secretario del Consejo General en la sesión de que se trate;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-XLIII. DETERMINAR LOS TOPES MÁXIMOS DE GASTOS DE PRECAMPAÑA Y CAMPAÑA QUE PUEDAN EROGARSE EN LAS ELECCIONES DE GOBERNADOR, DIPUTADOS E INTEGRANTES DE AYUNTAMIENTOS EN LOS TÉRMINOS PREVISTOS EN ESTA LEY;
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA LA FRACCIÓN XLIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
-
-XLIV. DESIGNAR EN CASO DE AUSENCIA DEL TITULAR DE LA SECRETARÍA EJECUTIVA DEL INSTITUTO ESTATAL, DE ENTRE LOS TITULARES DE LAS DIRECCIONES QUE INTEGRAN LA JUNTA ESTATAL EJECUTIVA, A LA PERSONA QUE FUNGIRÁ COMO SECRETARIO DEL CONSEJO GENERAL EN LA SESIÓN DE QUE SE TRATE;
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA LA FRACCIÓN XLV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
-
-XLV. RECIBIR EL PROGRAMA E INFORME ANUAL SOBRE EL CUMPLIMIENTO DE LAS FUNCIONES DEL ÓRGANO INTERNO DE CONTROL, Y
+(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA LA FRACCIÓN XLV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: XLV. Recibir el programa e informe anual sobre el cumplimiento de las funciones del Órgano Interno de Control, y"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 XLVI. Las demás que le confiera esta Ley.
 
@@ -1931,11 +1991,9 @@ Las oficinas auxiliares dependerán de la Secretaría Ejecutiva y de las Direcci
 
 (DEROGADO, P.O. 31 DE MAYO DE 2023)
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### Artículo 108.
 
-(DEROGADO, P.O. 31 DE MAYO DE 2023)
+(DEROGADO [N. DE E. REPUBLICADO], P.O. 29 DE MAYO DE 2026)
 
 #### Sección Quinta. De los Consejos Distritales Electorales
 
@@ -1947,13 +2005,11 @@ Los Consejos Distritales Electorales son los órganos encargados de la preparaci
 
 Los Consejos Distritales Electorales se integrarán con un Consejero Presidente, un Secretario, dos consejeros electorales propietarios y un supernumerario, y representantes de los partidos políticos con registro y de los candidatos independientes que participen en la elección.
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 111.
 
-Los consejeros electorales de los órganos distritales serán nombrados por el Consejo General que deberá recabar las propuestas de los partidos políticos y grupos organizados de la sociedad civil. El Presidente del Consejo General formará una lista de por lo menos ocho nombres, preferentemente de residentes de alguno de los municipios que conforman el distrito y con votación de la mayoría de sus miembros, designará a los consejeros electorales y a sus suplentes.
+Las personas consejeras electorales de los consejos distritales serán nombradas por el Consejo General que deberá recabar las propuestas de los partidos políticos y grupos organizados de la sociedad civil. La persona que presida el Consejo General formará una lista de por lo menos ocho nombres, preferentemente de personas residentes de alguno de los municipios que conforman el distrito y con votación de la mayoría de sus miembros, designará a las personas consejeras electorales y a sus suplentes, atendiendo al principio de paridad de género.
 
 (NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1993,9 +2049,11 @@ Los miembros de los consejos distritales tendrán voz y voto, con excepción del
 
 Es aplicable a los consejeros electorales de los consejos distritales lo previsto en el párrafo segundo del artículo 82 de esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 117.
 
-El presidente y los consejeros electorales de los consejos distritales deberán reunir los requisitos que se exigen para ser consejero electoral ante el Consejo General y recibirán dieta de asistencia durante el proceso electoral.
+La persona titular de la presidencia y las consejerías electorales de los consejos distritales deberán reunir los requisitos que se exigen para desempeñar la consejería electoral ante el Consejo General, exceptuando la fracción XI del artículo 83 de esta Ley y recibirán dieta de asistencia durante el proceso electoral, a partir de la instalación del Consejo y hasta su desinstalación.
 
 (NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -2051,11 +2109,9 @@ Son atribuciones del presidente del Consejo Distrital Electoral, las siguientes:
 
 I. Convocar, presidir y conducir las sesiones del Consejo Distrital;
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
-
-II. PROPONER AL SECRETARIO DEL CONSEJO DISTRITAL; BAJO LOS PROCEDIMIENTOS (SIC) RECLUTAMIENTO, SELECCIÓN E INGRESO DEL INSTITUTO;
+II. Proponer a la persona secretaria del Consejo Distrital;
 
 III. Vigilar el cumplimiento de los acuerdos y resoluciones del Consejo Distrital;
 
@@ -2069,7 +2125,7 @@ VI. Publicar mediante avisos colocados en el exterior de las oficinas del consej
 
 VII. Notificar a los partidos políticos la omisión o incumplimiento de requisitos para el registro o de elegibilidad de los candidatos postulados, así como a los candidatos independientes;
 
-VIII. Determinar el número y ubicación de las casillas, conforme al procedimiento señalado en el artículo 136 de esta Ley;
+VIII. (DEROGADA, P.O. 29 DE MAYO DE 2026)
 
 IX. Capacitar, seleccionar y designar a los ciudadanos que habrán de integrar las mesas directivas de casilla, en los términos de esta Ley, y
 
@@ -2091,11 +2147,11 @@ Cuando dos o más distritos tengan su cabecera en un mismo municipio, el Consejo
 
 Los consejos municipales se integran con un presidente, un secretario, dos consejeros electorales propietarios y un supernumerario, y representantes de los partidos políticos y candidatos independientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 125.
 
-La designación del presidente, el secretario y los consejeros electorales, se hará conforme al procedimiento previsto para la integración de los Consejos Distritales Electorales; salvo en la formación de las listas que, para el caso de no completar su integración con aspirantes residentes en el municipio y agotadas dos convocatorias, podrán ser conformadas con nombres de residentes de cualquier otro municipio del Estado.
+La designación de las personas que ocuparán las presidencias, las secretarías y las consejerías de los consejos municipales electorales, se harán conforme al procedimiento previsto para la integración de los Consejos Distritales Electorales y atendiendo al principio de paridad de género; salvo en la formación de las listas que, para el caso de no completar su integración con las personas aspirantes residentes en el municipio y agotadas dos convocatorias, podrán ser conformadas con nombres de residentes de cualquier otro municipio del Estado.
 
 Cada partido político con registro y candidato independiente que participen en la elección tendrán derecho a acreditar a un representante propietario y un suplente. Podrán sustituirlos en todo tiempo, dando el aviso correspondiente por escrito al presidente.
 
@@ -2103,11 +2159,11 @@ Los miembros de los consejos municipales electorales tendrán voz y voto, con ex
 
 Es aplicable a los consejeros electorales de los consejos municipales lo previsto en el párrafo segundo del artículo 82 de esta Ley.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 126.
 
-El presidente y los consejeros electorales de los consejos municipales deberán reunir los requisitos señalados en el artículo 83 de esta Ley, con excepción de los requisitos previstos en las fracciones III, IV y XI de ese artículo y tendrán derecho a recibir dieta de asistencia durante el proceso electoral.
+La persona titular de la presidencia y las consejerías electorales de los consejos municipales deberán reunir los requisitos señalados en el artículo 83 de esta Ley, con excepción de los requisitos previstos en las fracciones III, IV y XI de ese artículo y tendrán derecho a recibir dieta de asistencia durante el proceso electoral, a partir de la instalación del consejo y hasta su desinstalación.
 
 (NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -2131,7 +2187,7 @@ Los consejos municipales electorales tienen las siguientes atribuciones:
 
 I. Velar por la observancia de esta Ley y de los acuerdos y resoluciones del Consejo General;
 
-II. Determinar el número y ubicación de las casillas, conforme al procedimiento señalado en el artículo 136 de esta Ley;
+II. (DEROGADA, P.O. 29 DE MAYO DE 2026)
 
 III. Capacitar, seleccionar y designar a los ciudadanos que habrán de integrar las mesas directivas de casilla, en los términos del artículo 136 esta Ley;
 
@@ -2441,9 +2497,11 @@ Las ausencias del Presidente serán suplidas, si no exceden de un mes, por el ma
 
 En caso de renuncia, se procederá a elegir a un nuevo Presidente, quien lo será hasta la conclusión del período para el que fue electo el sustituido. Este nuevo titular de la Presidencia del Tribunal Estatal Electoral, de ser el caso, podrá ser reelecto por una sola ocasión.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 156.
 
-Los magistrados electorales percibirán las mismas prestaciones que los magistrados del Supremo Tribunal de Justicia del Estado, las cuales no podrán disminuirse durante el tiempo que dure su encargo.
+Las personas magistradas del Tribunal Estatal Electoral percibirán una remuneración que deberá ajustarse a lo establecido en los artículos 127 y 134 de la Constitución Federal, la cual no podrá disminuirse durante el tiempo que dure su encargo.
 
 ###### Artículo 157.
 
@@ -2543,11 +2601,15 @@ IV. Expedir su reglamento interior;
 
 V. Realizar tareas de capacitación, investigación y difusión en materia de derecho electoral;
 
-VI. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño;
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VII. Notificar al Congreso del Estado y a los ayuntamientos respectivos, de la interposición de los medios de impugnación, así como las resoluciones definitivas que recaigan a aquellos, promovidos en contra de resultados electorales, y
+VI. Resolver las impugnaciones en materia del proceso electoral judicial, antes de que el Congreso del Estado abra el primer periodo ordinario de sesiones del año de la elección correspondiente.
 
-VIII. Las demás funciones que le señale la Constitución del Estado y esta Ley.
+VII. Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño;
+
+VIII. Notificar al Congreso del Estado y a los ayuntamientos respectivos, de la interposición de los medios de impugnación, así como las resoluciones definitivas que recaigan a aquellos, promovidos en contra de resultados electorales, y
+
+IX. Las demás funciones que le señale la Constitución del Estado y esta Ley.
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 29 DE MAYO DE 2020, PÁGINA 50.]</small>
 
@@ -2649,15 +2711,19 @@ XVI. Implementar el programa de capacitación obligatoria en igualdad de género
 
 XVII. Las demás que le confiere esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 166.
 
-Son atribuciones de los magistrados, las siguientes:
+Son atribuciones de las magistraturas las siguientes:
 
 I. Integrar el Pleno del Tribunal Estatal Electoral;
 
 II. Emitir en los plazos previstos en esta Ley las resoluciones sobre los asuntos de su competencia que le sean turnados;
 
-III. Tramitar, sustanciar y formular las ponencias en los recursos de revisión y juicios ciudadanos que les sean turnados, así como formular las ponencias en los procedimientos sancionadores especiales y laborales que correspondan;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+III. Tramitar, sustanciar y formular las ponencias en los medios de impugnación y laborales que les sean turnados, así como formular las ponencias en los procedimientos especiales sancionadores que correspondan;
 
 IV. Nombrar a los secretarios de su ponencia;
 
@@ -2671,7 +2737,9 @@ VIII. Realizar las tareas de capacitación, investigación o de otra índole que
 
 IX. Solicitar al secretario información relacionada con las actividades administrativas o jurisdiccionales del Tribunal Estatal Electoral;
 
-X. Requerir o en su caso solicitar, a instancia de cualquiera de los magistrados, a los diversos órganos electorales o a las autoridades federales, estatales o municipales, cualquier informe o documento que obrando en su poder, pueda servir para la sustanciación de los asuntos competencia del Tribunal Estatal Electoral, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+X. Requerir o en su caso solicitar, a instancia de cualquiera de las magistraturas, a los diversos órganos electorales y partidistas o a las autoridades federales, estatales o municipales, cualquier informe o documento que, obrando en su poder, pueda servir para la sustanciación de los asuntos competencia del Tribunal Estatal Electoral, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos;
 
 XI. Realizar las funciones de relator en las sesiones de Pleno cuando sean designados;
 
@@ -2795,9 +2863,11 @@ Los magistrados electorales sólo podrán ser privados de sus cargos en término
 
 #### Sección Única
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 173.
 
-El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, la Ley General, la Constitución del Estado y esta Ley, realizados por las autoridades electorales, los partidos políticos, así como los ciudadanos, que tienen por objeto la renovación periódica de los integrantes de los poderes Legislativo y Ejecutivo del Estado, y de los ayuntamientos.
+El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, la Ley General, la Constitución del Estado y esta Ley, realizados por los Poderes del Estado, las autoridades electorales, los partidos políticos, quienes aspiren a ser personas juzgadoras y la ciudadanía, que tienen por objeto la renovación periódica de las personas integrantes de los poderes Legislativo, Ejecutivo y Judicial, así como de los ayuntamientos del Estado.
 
 ###### Artículo 174.
 
@@ -3119,11 +3189,11 @@ Los organismos electores darán amplia difusión a la apertura del registro de l
 
 Los candidatos a diputados electos por el principio de representación proporcional, podrán hacer actos de campaña a favor de su partido siempre y cuando no realicen ningún tipo de gasto de campaña.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 189.
 
-El registro de candidatos a diputados y a miembros de ayuntamientos, se sujetará además de lo establecido en los artículos 47 y 113 de la Constitución del Estado y 184 y 185 de esta Ley, a las reglas siguientes:
+El registro de personas candidatas a diputaciones y a integrantes de ayuntamientos, se sujetará además de lo establecido en los artículos 47 y 113 de la Constitución del Estado y 184 y 185 de esta Ley, a las reglas siguientes:
 
 I. Las candidaturas de diputados por el principio de mayoría relativa serán registradas por fórmulas, integradas cada una por un propietario y un suplente del mismo género;
 
@@ -3139,13 +3209,19 @@ Para efectos del párrafo anterior, serán computables para los partidos políti
 
 Las listas de candidatos por el principio de representación proporcional, podrán ser con candidatos propios de un partido político o en su caso, cada uno de los partidos políticos coaligados deberá registrar listas propias de candidatos.
 
-III. Las candidaturas para integrar ayuntamientos serán registradas por planillas completas que estarán formadas por los candidatos a presidente y sindico o síndicos y regidores, propietarios y suplentes, que correspondan.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+III. Las candidaturas para integrar ayuntamientos serán registradas por planillas completas que estarán formadas por las personas candidatas a la presidencia, sindicatura y regidurías, propietarias y suplentes, que correspondan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 190.
 
-La solicitud de registro de candidaturas deberá ser firmada de manera autógrafa por el representante del partido político con facultades para formular tal solicitud y contener los siguientes datos de los candidatos:
+La solicitud de registro de candidaturas deberá ser firmada de manera autógrafa por la representación del partido político con facultades para formular tal solicitud y contener los siguientes datos de las personas candidatas:
 
-I. Apellidos paterno, materno y nombre completo;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+I. Primer y segundo apellidos, y nombre completo;
 
 II. Lugar y fecha de nacimiento;
 
@@ -3165,11 +3241,9 @@ a) La declaración de aceptación de la candidatura;
 
 b) Copia certificada del acta de nacimiento;
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA EL INCISO c) DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
-
-c) LA CREDENCIAL PARA VOTAR CON FOTOGRAFÍA HARÁ LAS VECES DE CONSTANCIA DE RESIDENCIA, SALVO CUANDO EL DOMICILIO DE LA CANDIDATURA PROPORCIONADO EN LA SOLICITUD DE REGISTRO NO CORRESPONDA CON EL ASENTADO EN LA PROPIA CREDENCIAL, EN CUYO CASO SE DEBERÁ PRESENTAR LA CORRESPONDIENTE CONSTANCIA DE RESIDENCIA EXPEDIDA POR LA AUTORIDAD COMPETENTE;
+c) La credencial para votar con fotografía hará las veces de constancia de residencia, salvo cuando el domicilio en la credencial no sea visible o cuando el domicilio de la candidatura proporcionado en la solicitud de registro no corresponda con el asentado en la propia credencial, en cuyo caso se deberá presentar la correspondiente constancia de residencia expedida por la autoridad competente;
 
 d) Copia del anverso y reverso de la credencial para votar y constancia de inscripción en el padrón electoral;
 
@@ -3185,7 +3259,9 @@ f) En el caso de los ciudadanos guanajuatenses que migren al extranjero deberán
 
 3. La constancia que acredite el tiempo de residencia del candidato, expedida por autoridad municipal competente o acta emitida por notario público en la cual se haga constar el domicilio del interesado, que acrediten que el migrante ha regresado al estado, por lo menos con ciento ochenta días anteriores al día de la elección.
 
-En el caso de que el candidato sea postulado en coalición, se deberá cumplir además con lo establecido en la Ley General de Partidos Políticos, la Ley General y esta Ley.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+En el caso de que la candidatura sea postulada en coalición, se deberá cumplir además con lo establecido en la Ley General de Partidos Políticos, la Ley General y esta Ley.
 
 ###### Artículo 191.
 
@@ -3219,9 +3295,11 @@ El Consejo General solicitará oportunamente la publicación en el Periódico Of
 
 En la misma forma, se publicarán y difundirán las cancelaciones de registros o sustituciones de candidatos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 194.
 
-Para la sustitución de candidatos, los partidos políticos lo solicitarán por escrito al Consejo General, respetando las reglas de paridad y observando las siguientes disposiciones:
+Para la sustitución de personas candidatas, los partidos políticos lo solicitarán por escrito al Consejo General, respetando las reglas de paridad y observando las siguientes disposiciones:
 
 I. Dentro del plazo establecido para el registro de candidatos podrán sustituirlos libremente;
 
@@ -3238,6 +3316,10 @@ Sólo se podrán sustituir el o los candidatos registrados por una coalición po
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
 
 Una vez recibida la renuncia, el Instituto Estatal requerirá dentro de las veinticuatro horas siguientes al candidato para que la ratifique, en el entendido de que de no hacerlo se le tendrá por ratificándola (sic).
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Las mujeres postuladas como candidatas por partidos políticos, coaliciones o por la vía independiente, únicamente podrán ser sustituidas por personas del mismo género. Los hombres postulados como candidatos por partidos políticos, coaliciones o por la vía independiente, podrán ser sustituidos por mujeres.
 
 (NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA LA SECCIÓN TERCERA AL CAPÍTULO II DEL TÍTULO CUARTO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -3317,27 +3399,33 @@ La propaganda impresa que los candidatos utilicen durante la campaña electoral,
 
 La propaganda que en el curso de una campaña difundan por medios gráficos los partidos políticos, las coaliciones y los candidatos, no tendrán más límite, en los términos del artículo 7° de la Constitución Federal, que el respeto a la vida privada de candidatos, autoridades, terceros y a las instituciones y valores democráticos.
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 199.
 
-Los partidos políticos, las coaliciones y los candidatos que realicen propaganda política o electoral deberán evitar en ella, cualquier ofensa, difamación o calumnia que denigre a candidatos, partidos políticos, instituciones y terceros, y deberán abstenerse de expresiones que discriminen o constituyan actos de violencia política en razón de género en términos de esta Ley.
+Los partidos políticos, las coaliciones y las candidaturas que realicen propaganda política o electoral deberán abstenerse de realizar expresiones que calumnien a las personas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 200.
 
-La propaganda que los partidos políticos, las coaliciones y los candidatos realicen en la vía pública a través de medios impresos, video grabaciones y, en general cualquier otro medio, se sujetará a lo previsto en el artículo anterior, así como a las disposiciones en materia de protección del medio ambiente y de prevención de la contaminación por ruido.
+La propaganda que los partidos políticos, las coaliciones y las candidaturas realicen en la vía pública a través de medios impresos, video grabaciones y, en general cualquier otro medio, se sujetará a lo previsto en el artículo anterior, así como a las disposiciones en materia de protección del medio ambiente y de prevención de la contaminación por ruido.
 
-Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos y candidatos independientes deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Toda la propaganda electoral impresa deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente. Los partidos políticos y candidaturas independientes deberán presentar un plan de reciclaje de la propaganda que utilizarán durante su campaña.
 
 Para efectos de esta Ley se entenderá por artículos promocionales utilitarios aquellos que contengan imágenes, signos, emblemas y expresiones que tengan por objeto difundir la imagen y propuestas del partido político, coalición o candidato que lo distribuye.
 
 Los artículos promocionales utilitarios sólo podrán ser elaborados con material textil.
 
-La entrega de cualquier tipo de material que contenga propaganda política o electoral de partidos, coaliciones o candidatos, en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona está estrictamente prohibida a los partidos, candidatos, sus equipos de campaña o cualquier persona. Dichas conductas serán sancionadas de conformidad con esta Ley y se presumirá como indicio de presión al elector para obtener su voto.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-El partido político, candidato registrado o simpatizante que viole lo dispuesto en este artículo, será sancionado en los términos previstos en la presente Ley.
+La entrega de cualquier tipo de material en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona está estrictamente prohibida a los partidos, a las personas candidatas, sus equipos de campaña o cualquier persona. Dichas conductas serán sancionadas de conformidad con esta Ley y se presumirá como indicio de presión al electorado para obtener su voto.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+El partido político, candidatura registrada o persona simpatizante que viole lo dispuesto en este artículo, será sancionado en los términos previstos en la presente Ley.
 
 (NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -3419,13 +3507,11 @@ IV. Los gastos de producción de los mensajes para radio y televisión comprende
 
 No se considerarán dentro de los topes de campaña los gastos que realicen los partidos políticos para su operación ordinaria y para el sostenimiento de sus órganos directivos y de sus organizaciones.
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 206.
 
-EL CONSEJO GENERAL, A MÁS TARDAR EL DÍA QUINCE DE FEBRERO DEL AÑO DE LA ELECCIÓN, DETERMINARÁ LOS TOPES DE GASTOS DE CAMPAÑA PARA GOBERNADOR, DIPUTADOS LOCALES Y AYUNTAMIENTOS, MEDIANTE EL SIGUIENTE PROCEDIMIENTO:
+El Consejo General, a más tardar el día veinte de febrero del año de la elección, determinará los topes de gastos de campaña para la gubernatura, diputaciones locales y ayuntamientos, mediante el siguiente procedimiento:
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -4159,15 +4245,15 @@ El Consejo General sólo procederá al registro de constancias de mayoría de lo
 
 Concluida la asignación de diputados de representación proporcional, y una vez verificado que se ha cumplido con las formalidades de la elección y que los candidatos reúnan los requisitos de elegibilidad, el Consejo General expedirá las constancias de asignación a los partidos políticos, correspondientes a las listas registradas de candidatos propios o coaligados. Actos que, de no haberse interpuesto recurso ante el Tribunal Estatal Electoral, constituirán la calificación de la elección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 263.
 
-El presidente del Consejo General fijará en el exterior del local, al término de la sesión de cómputo y asignación de diputados de representación proporcional, el resultado obtenido para cada partido político de cada una de las elecciones.
+La presidencia del Consejo General fijará en el exterior del local, al término de la sesión de cómputo y asignación de diputaciones de representación proporcional, el resultado obtenido para cada partido político de cada una de las elecciones.
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 29 DE MAYO DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
-
-ASIMISMO, SOLICITARÁ PUBLICAR EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO LOS NOMBRES DE LAS PERSONAS ELECTAS EN EL PROCESO ELECTORAL CORRESPONDIENTE, ASÍ COMO EN LOS MEDIOS INSTITUCIONALES.
+Asimismo, solicitará publicar en el Periódico Oficial del Gobierno del Estado de Guanajuato los nombres de las personas electas en el proceso electoral correspondiente, así como en los medios institucionales.
 
 ###### Artículo 264.
 
@@ -4653,7 +4739,9 @@ j) Las personas que vivan o trabajen en el extranjero;
 
 V. Abstenerse de realizar por sí o por interpósita persona, actos de presión o coacción para obtener el apoyo ciudadano;
 
-VI. Abstenerse de proferir ofensas, difamación, calumnia o cualquier expresión que denigre a otros aspirantes o precandidatos, partidos políticos, personas, instituciones públicas o privadas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VI. Abstenerse de realizar expresiones que calumnien a las personas;
 
 VII. Rendir el informe de ingresos y egresos, y presentar la respectiva constancia de cumplimiento;
 
@@ -4855,9 +4943,11 @@ VII. Solicitar a los órganos electorales copia de la documentación electoral, 
 
 VIII. Las demás que les otorgue esta Ley, y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 321.
 
-Son obligaciones de los candidatos independientes registrados:
+Son obligaciones de personas candidatas independientes registradas:
 
 I. Conducirse con respeto irrestricto a lo dispuesto en la Constitución del Estado y en la presente Ley;
 
@@ -4897,7 +4987,9 @@ VII. Depositar únicamente en la cuenta bancaria aperturada sus aportaciones y r
 
 VIII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-IX. Abstenerse de proferir ofensas, difamación, calumnia o cualquier expresión que denigre a otros candidatos, partidos políticos, personas, instituciones públicas o privadas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+IX. Abstenerse de realizar expresiones que calumnien a las personas.
 
 X. Insertar en su propaganda de manera visible la leyenda: «Candidato Independiente»;
 
@@ -5111,9 +5203,13 @@ Son sujetos de responsabilidad por infracciones cometidas a las disposiciones el
 
 I. Los partidos políticos;
 
-II. Los aspirantes, precandidatos, candidatos y candidatos independientes a cargos de elección popular;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-III. Los ciudadanos, o cualquier persona física o moral;
+II. Las personas aspirantes, precandidatas, candidatas y candidatas independientes a cargos de elección popular;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+III. La ciudadanía, o cualquier persona física o moral;
 
 IV. Las autoridades o los servidores públicos de cualquiera de los poderes del Estado y de los municipios, órganos autónomos locales, y cualquier otro ente público;
 
@@ -5129,7 +5225,11 @@ IX. Los observadores electorales o las organizaciones de observadores electorale
 
 X. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, y
 
-XI. Los demás sujetos obligados en los términos de la presente Ley.
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XI. Las personas aspirantes y candidatas a magistraturas y juezas; y
+
+XII. Los demás sujetos obligados en los términos de la presente Ley.
 
 En los términos de la Ley General, cuando el Instituto Estatal tenga conocimiento de que un extranjero por cualquier forma, pretenda inmiscuirse o se inmiscuya en asuntos políticos, tomará las medidas conducentes y procederá a informar de inmediato a la Secretaría de Gobernación, para los efectos previsto por la ley. Si el infractor se encuentra fuera del territorio nacional el Instituto Estatal procederá a informar a la Secretaría de Relaciones Exteriores para los efectos a que haya lugar.
 
@@ -5153,7 +5253,9 @@ V. La realización de actos de precampaña o campaña en territorio extranjero c
 
 VI. El incumplimiento de las demás disposiciones previstas en la presente Ley en materia de precampañas y campañas electorales;
 
-VII. La difusión de propaganda política o electoral que contenga expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VII. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas;
 
 VIII. El incumplimiento de las obligaciones establecidas por la presente Ley en materia de transparencia y acceso a la información;
 
@@ -5165,11 +5267,29 @@ X. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y
 
 XI. La realización de cualquier acción u omisión que constituyan violencia política contra las mujeres en razón de género, y
 
-XII. La comisión de cualquier otra falta de las previstas en esta Ley.
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XII. Realizar actos de proselitismo, o posicionarse públicamente a favor o en contra de alguna persona aspirante o candidata a magistraturas o juezas;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XIII. La contratación de personas físicas o jurídicas que realicen y difundan encuestas o sondeos de opinión por sí o por interpósita persona que tengan por objeto influir en las preferencias electorales de personas aspirantes o candidatas a magistraturas o juezas;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XIV. La contratación de espacios en cualquier medio para promocionar a cualquier persona aspirante o persona candidata a magistraturas o juezas, incluyendo medios de comunicación, espacios físicos, impresos o digitales;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XV. La entrega de cualquier tipo de material en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona a favor de una persona aspirante o candidata a magistraturas o juezas; y
+
+XVI. La comisión de cualquier otra falta de las previstas en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 347.
 
-Constituyen infracciones de los aspirantes, precandidatos o candidatos a cargos de elección popular a la presente Ley:
+Constituyen infracciones de las personas aspirantes, precandidatas o candidaturas a cargos de elección popular a la presente Ley:
 
 I. La realización de actos anticipados de precampaña o campaña, según sea el caso;
 
@@ -5177,7 +5297,9 @@ II. Solicitar o recibir recursos, en dinero o en especie, de personas no autoriz
 
 III. Exceder el tope de gastos de precampaña o campaña establecidos;
 
-IV. La difusión de propaganda política o electoral que contenga expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+IV. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas;
 
 V. Omitir informar adecuadamente en los informes sobre los recursos recibidos y el no presentar informe de gastos de campaña, y
 
@@ -5233,11 +5355,15 @@ XV. La realización de cualquier acción u omisión que constituyan violencia po
 
 XVI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 349.
 
-Constituyen infracciones de los ciudadanos, de los dirigentes y afiliados a partidos políticos, o en su caso de cualquier persona física o moral, a la presente Ley:
+Constituyen infracciones de la ciudadanía, de las dirigencias y personas afiliadas a partidos políticos, o en su caso de cualquier persona física o moral, a la presente Ley:
 
-I. La negativa a entregar la información requerida por el Instituto Estatal entregarla en forma incompleta o con datos falsos, o fuera de los plazos que señale el requerimiento, respecto de las operaciones mercantiles, los contratos que celebren, los donativos o aportaciones que realicen, o cualquier otro acto que los vincule con los partidos políticos, los aspirantes, precandidatos o candidatos a cargos de elección popular;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+I. La negativa a entregar la información requerida por el Instituto Estatal, entregarla en forma incompleta o con datos falsos, o fuera de los plazos que señale el requerimiento, respecto de las operaciones mercantiles, los contratos que celebren, los donativos o aportaciones que realicen, o cualquier otro acto que los vincule con los partidos políticos, personas aspirantes, precandidatas o candidatas a cargos de elección popular, así como a personas aspirantes o candidatas a magistraturas o juezas;
 
 II. La promoción de denuncias frívolas. Para tales efectos, se entenderá como aquélla que se promueva respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja o denuncia, y
 
@@ -5245,39 +5371,65 @@ II. La promoción de denuncias frívolas. Para tales efectos, se entenderá como
 
 III. La realización de cualquier acción u omisión que constituyan violencia política contra las mujeres en razón de género, y
 
-IV. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+IV. Participar como persona observadora electoral en el proceso de elección de personas juzgadoras, teniendo militancia o la representación de algún partido político; y
+
+V. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 350.
 
-Constituyen infracciones de las autoridades o los servidores públicos, según sea el caso, de cualquiera de los poderes del Estado y de los municipios, órganos autónomos locales, y cualquier otro ente público a la presente Ley:
+Constituyen infracciones de las autoridades o de las personas servidoras públicas, según sea el caso, de cualquiera de los poderes del Estado y de los municipios, órganos autónomos locales, y cualquier otro ente público a la presente Ley:
 
 I. La omisión o el incumplimiento de la obligación de prestar colaboración y auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Estatal;
 
 II. La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
 
-III. El incumplimiento del principio de imparcialidad establecido por el artículo 134 de la Constitución Federal, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos durante los procesos electorales;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+III. El incumplimiento del principio de imparcialidad establecido por el artículo 134 de la Constitución Federal, cuando tal conducta afecte la equidad de la competencia entre los partidos políticos; entre las personas aspirantes, precandidatas o candidatas; así como entre las personas aspirantes o candidatas a magistraturas o juezas durante los procesos electorales.
 
 IV. Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal;
 
-V. La utilización de programas sociales y de sus recursos, del ámbito federal, estatal y municipal, con la finalidad de inducir o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+V. La utilización de programas sociales y de sus recursos, del ámbito federal, estatal y municipal, con la finalidad de inducir o coaccionar a la ciudadanía para votar a favor o en contra de cualquier partido político, candidatura o personas aspirantes o candidatas a magistraturas o juezas;
 
 VI. Que presente o haga valer un documento electoral alterado, así como que altere o inutilice alguno;
 
-VII. Por favorecer intereses políticos, reduzca a prisión a los propagandistas, promotor, aspirantes, precandidatos, candidatos o representantes de un partido político o candidato independiente, pretextando delitos o faltas que no se han cometido, y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VII. Por favorecer intereses políticos, reduzca a prisión a personas propagandistas, promotoras, representantes de un partido político, personas aspirantes, precandidatas, candidatas o de una candidatura independiente, así como a personas aspirantes o candidatas a magistraturas o juezas, pretextando delitos o faltas que no se han cometido;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
 
 VIII. La realización de cualquier acción u omisión que constituyan violencia política contra las mujeres en razón de género, y
 
-IX. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+IX. La entrega de cualquier tipo de material en el que se oferte u otorgue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona a favor de una persona aspirante o candidata a magistraturas o juezas;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+X. Vulnerar cualquiera de las disposiciones establecidas para el proceso electoral judicial; y
+
+XI. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Las conductas a las que se refiere el presente artículo serán sancionadas de conformidad con la Ley General y esta Ley, y se presumirá como indicio de presión al electorado para obtener su voto.
 
 ###### Artículo 351.
 
 Constituyen infracciones de los notarios públicos, a la presente Ley, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y de atender las solicitudes que les hagan las autoridades electorales, los funcionarios de casilla, los ciudadanos y los representantes de partidos políticos y candidatos, para dar fe de hechos o certificar documentos concernientes a la elección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 352.
 
-Constituyen infracciones de las organizaciones de ciudadanos que pretendan constituir partidos políticos estatales a la presente Ley:
+Constituyen infracciones de las organizaciones de la ciudadanía que pretendan constituir partidos políticos estatales a la presente Ley:
 
 I. No informar mensualmente al Instituto Estatal del origen y destino de los recursos que obtengan para el desarrollo de las actividades tendentes a la obtención del registro;
 
@@ -5296,6 +5448,42 @@ Constituyen infracciones de las organizaciones sindicales, laborales o patronale
 I. Intervenir en la creación y registro de un partido político estatal o en actos de afiliación colectiva a los mismos, y
 
 II. El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 353 Bis.
+
+Constituyen infracciones de las personas aspirantes o candidatas a magistraturas o juezas las siguientes:
+
+I. La contratación por sí o por interpósita persona de espacios en cualquier medio para promocionar su candidatura, incluyendo medios de comunicación, físicos, impresos o digitales;
+
+II. La realización de actos anticipados de campaña;
+
+III. La difusión de propaganda electoral que contenga expresiones que constituyan calumnia;
+
+IV. La difusión de propaganda electoral en la que se vulnere el interés superior de la niñez;
+
+V. La entrega de cualquier tipo de material en el que se oferte u otorgue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona;
+
+VI. La difusión de propaganda electoral impresa en material distinto al papel;
+
+VII. La difusión de propaganda electoral impresa en papel que no sea reciclable, biodegradable o contenga sustancias tóxicas o nocivas para la salud o el medio ambiente;
+
+VIII. Realizar actos de campaña o difusión de propaganda electoral dentro de los tres días previos a la elección y hasta la hora de cierre de las casillas;
+
+IX. Publicar, difundir o dar a conocer por cualquier medio de comunicación, los resultados de las encuestas o sondeos de opinión, que tengan como fin dar a conocer las preferencias electorales, dentro de los tres días previos a la elección y hasta la hora de cierre de las casillas;
+
+X. La contratación, por sí o por interpósita persona, de personas físicas o jurídicas que realicen y difundan encuestas o sondeos de opinión;
+
+XI. No proporcionar a los órganos del Instituto Estatal, en tiempo y forma, la información requerida:
+
+XII. La comisión de actos que constituyan violencia política contra las mujeres en razón de género;
+
+XIII. La difusión de propaganda electoral que haga referencias inequívocas de identidad a un partido político;
+
+XIV. La utilización de recursos públicos, en efectivo o en especie: y
+
+XV. El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 ###### Artículo 354.
 
@@ -5317,11 +5505,9 @@ Tratándose de infracciones relacionadas con el incumplimiento de las obligacion
 
 d) Con suspensión del financiamiento, hasta que se subsane la causa que le dio origen, y
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA EL INCISO e) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2023)</small>
-
-e) EN LOS CASOS DE GRAVES Y REITERADAS CONDUCTAS VIOLATORIAS DE LA CONSTITUCIÓN DEL ESTADO Y DE ESTA LEY, ESPECIALMENTE EN CUANTO A SUS OBLIGACIONES EN MATERIA DE ORIGEN Y DESTINO DE SUS RECURSOS, ASÍ COMO LAS RELACIONADAS CON EL INCUMPLIMIENTO DE LAS OBLIGACIONES PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, CON LA CANCELACIÓN DE SU REGISTRO COMO PARTIDO POLÍTICO ESTATAL.
+e) En los casos de graves y reiteradas conductas violatorias de la Constitución del Estado y de esta Ley, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, así como las relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, con la cancelación de su registro como partido político estatal.
 
 II. Respecto de los aspirantes, precandidatos o candidatos a cargos de elección popular:
 
@@ -5343,7 +5529,9 @@ b) Con multa de hasta mil veces la Unidad de Medida y Actualización diaria, y
 
 c) Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo.
 
-IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, aspirantes, precandidatos y candidatos o de cualquier persona física o moral en el caso de que promuevan una denuncia frívola:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
+IV. Respecto de la ciudadanía, las dirigencias y personas afiliadas a los partidos políticos, aspirantes, precandidaturas y candidaturas o de cualquier persona física o moral:
 
 a) Con amonestación pública;
 
@@ -5371,7 +5559,9 @@ a) Con amonestación pública, y
 
 b) Con multa de hasta cinco mil veces la Unidad de Medida y Actualización diaria, según la gravedad de la falta.
 
-VII. Respecto a los servidores públicos de cualquiera de los poderes públicos del Estado, del órgano de gobierno municipal, de los organismos autónomos, de las dependencias y entidades de la administración pública estatal y municipal, y cualquier otro ente público estatal o municipal, se estará a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
+VII. Respecto a las personas servidoras públicas de cualquiera de los poderes públicos del Estado, del órgano de gobierno municipal, de los organismos autónomos, de las dependencias y entidades de la administración pública estatal y municipal, y cualquier otro ente público estatal o municipal, se estará a lo siguiente:
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
@@ -5387,11 +5577,9 @@ a) Con amonestación, suspensión, destitución del cargo o multa de hasta cien 
 
 5. A los funcionarios electorales que por negligencia extravíen paquetes que contengan votos.
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL INCISO b) DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE MAYO DE 2023)</small>
-
-b) CON SUSPENSIÓN, DESTITUCIÓN DEL CARGO, INHABILITACIÓN PARA OBTENER ALGÚN CARGO PÚBLICO HASTA POR TRES AÑOS O MULTA DE HASTA CIENTO CINCUENTA VECES LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN DIARIA:
+b) Con suspensión, destitución del cargo, inhabilitación para obtener algún cargo público hasta por tres años o multa de hasta ciento cincuenta veces la Unidad de Medida y Actualización diaria:
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
 
@@ -5475,7 +5663,9 @@ La Comisión de Denuncias y Quejas se integrará por tres Consejeros Electorales
 
 Las notificaciones se harán a más tardar dentro de los tres días hábiles siguientes al en que se dicten las resoluciones que las motiven y surtirán sus efectos el mismo día de su realización.
 
-Cuando la resolución entrañe una citación o un plazo para la práctica de una diligencia se notificará personalmente, al menos con tres días hábiles de anticipación al día y hora en que se haya de celebrar la actuación o audiencia, con las excepciones previstas en esta Ley. Las demás se harán por cédula que se fijará en los estrados del Instituto Estatal o del órgano que emita la resolución de que se trate. En todo caso, las que se dirijan a una autoridad u órgano partidario se notificarán por oficio. También podrán ser comunicadas las resoluciones por correo electrónico y fax.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Cuando la resolución entrañe una citación o un plazo para la práctica de una diligencia se notificará personalmente, al menos con tres días hábiles de anticipación al día y hora en que se haya de celebrar la actuación o audiencia, con las excepciones previstas en esta Ley. Las demás se harán por cédula que se fijará en los estrados del Instituto Estatal o del órgano que emita la resolución de que se trate. En todo caso, las que se dirijan a una autoridad u órgano partidario se notificarán por oficio. También podrán ser comunicadas las resoluciones por correo electrónico.
 
 Las notificaciones personales se realizarán en días y horas hábiles al interesado o por conducto de la persona que éste haya autorizado para el efecto.
 
@@ -5495,15 +5685,23 @@ IV. Día y hora en que se deja el citatorio y nombre de la persona a la que se l
 
 V. El señalamiento de la hora a la que, al día siguiente, deberá esperar la notificación.
 
-Al día siguiente, en la hora fijada en el citatorio, el notificador se constituirá nuevamente en el domicilio y si el interesado no se encuentra, se hará la notificación por estrados, de todo lo cual se asentará la razón correspondiente. También podrá ser comunicado por correo electrónico y fax.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-Si a quien se busca se niega a recibir la notificación, o las personas que se encuentran en el domicilio se rehúsan a recibir el citatorio, o no se encuentra nadie en el lugar, éste se fijará en la puerta de entrada, procediéndose a realizar la notificación por estrados, asentándose razón de ello en autos. También podrá ser comunicada la notificación por correo electrónico y fax.
+Al día siguiente, en la hora fijada en el citatorio, la persona notificadora se constituirá nuevamente en el domicilio y si la interesada no se encuentra, se hará la notificación por estrados, de todo lo cual se asentará la razón correspondiente. También podrá ser comunicado por correo electrónico.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Si a quien se busca se niega a recibir la notificación, o las personas que se encuentran en el domicilio se rehúsan a recibir el citatorio, o no se encuentra nadie en el lugar, éste se fijará en la puerta de entrada, procediéndose a realizar la notificación por estrados, asentándose razón de ello en autos. También podrá ser comunicada la notificación por correo electrónico.
 
 Las notificaciones personales podrán realizarse por comparecencia del interesado, de su representante, o de su autorizado ante el órgano que corresponda.
 
 La notificación de las resoluciones que pongan fin al procedimiento de investigación será personal, se hará a más tardar dentro de los tres días hábiles siguientes a aquél en que se dicten, entregando al denunciante y al denunciado copia certificada de la resolución.
 
 Los plazos se contarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas. Durante los procesos electorales todos los días y horas son hábiles. En el caso de las quejas que se inicien antes del proceso electoral, los plazos se computarán por días hábiles, respecto de las que se presenten una vez iniciado aquél, por días naturales.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Además de los medios previstos en este artículo, las notificaciones podrán efectuarse mediante el buzón electrónico que las partes designen, sujeto a las reglas de funcionamiento que el Instituto Estatal y el Tribunal Estatal Electoral determine en los lineamientos respectivos.
 
 ###### Artículo 358.
 
@@ -5552,6 +5750,10 @@ En el caso de existir imposibilidad material para compulsar las copias simples q
 ###### Artículo 360.
 
 Para la resolución expedita de las quejas o denuncias y con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos por que existan varias quejas o denuncias contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+La acumulación podrá decretarse tanto en la fase de sustanciación por la autoridad competente del Instituto Estatal o de resolución por parte del Tribunal Estatal Electoral.
 
 ### Capítulo III. Del Procedimiento Sancionador Ordinario
 
@@ -5781,11 +5983,11 @@ VI. En su caso, las medidas cautelares que se soliciten.
 
 El órgano del Instituto Estatal que reciba o promueva la denuncia la remitirá inmediatamente a la Unidad Técnica Jurídica y de lo Contencioso Electoral de la Secretaría Ejecutiva del Instituto Estatal, para que ésta la examine junto con las pruebas aportadas.
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 372 Bis.
 
-La Unidad Técnica Jurídica y de lo Contencioso Electoral de la Secretaría Ejecutiva del Instituto Estatal podrá realizar una investigación preliminar previa a la admisión o desechamiento de la denuncia.
+La Unidad Técnica Jurídica y de lo Contencioso Electoral de la Secretaría Ejecutiva del Instituto Estatal podrá realizar una investigación preliminar previa a la admisión o desechamiento de la denuncia, la cual deberá desahogarse dentro del plazo máximo de tres meses, el cual correrá a partir de la recepción de la denuncia, queja o del inicio oficioso.
 
 ###### Artículo 373.
 
@@ -5935,17 +6137,35 @@ IV. Medidas de no repetición.
 
 #### Sección Única
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 381.
 
-Los medios de impugnación regulados por esta Ley, tienen por objeto garantizar que todos los actos o resoluciones dictadas por los órganos electorales del Instituto Estatal y en su caso, por el Pleno del Tribunal Estatal Electoral, se sujeten invariablemente a los principios constitucionales de legalidad, certeza, independencia, imparcialidad y objetividad, así como dar definitividad a los distintos actos y etapas de los procesos electorales; y proteger los derechos político-electorales de los ciudadanos del estado.
+Los medios de impugnación regulados por esta Ley, tienen por objeto garantizar que todos los actos o resoluciones dictadas por los órganos electorales del Instituto Estatal y en su caso, por el Pleno del Tribunal Estatal Electoral, se sujeten invariablemente a los principios constitucionales de legalidad, certeza, independencia, imparcialidad y objetividad, así como dar definitividad a los distintos actos y etapas de los procesos electorales; y proteger los derechos político-electorales de la ciudadanía del estado.
 
 Los medios de impugnación reglamentados por este ordenamiento son:
 
-I. El juicio para la protección de los derechos político-electorales del ciudadano;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-II. El recurso de revocación, y
+I. El juicio de la ciudadanía;
 
-III. El recurso de revisión.
+II. (DEROGADA, P.O. 29 DE MAYO DE 2026)
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+III. El recurso de revisión;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+IV. El juicio electoral;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+V. El juicio de inconformidad; y
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VI. El juicio general.
 
 ###### Artículo 382.
 
@@ -5977,9 +6197,17 @@ Para la interposición y resolución de los recursos durante el proceso electora
 
 Los plazos para interposición y resolución de los recursos cuando no se lleve a cabo un proceso electoral, se computarán considerando exclusivamente los días hábiles, entendiéndose por tales todos los días, a excepción de los sábados, domingos y los inhábiles que establezca la Ley Federal del Trabajo.
 
-Los medios de impugnación deberán presentarse ante la autoridad competente, para su conocimiento y resolución, dentro de los plazos previstos para cada uno de los mismos en las disposiciones de esta Ley.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-La interposición del medio de impugnación ante autoridad distinta a la señalada en esta Ley, no interrumpirá el plazo establecido para su interposición.
+Los medios de impugnación deberán presentarse ante la autoridad competente, para su conocimiento y resolución, o ante la responsable dentro de los plazos previstos para cada uno de los mismos en las disposiciones de esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+En caso de que se presente ante la responsable, ésta deberá entregarlo al Tribunal Estatal Electoral, a más tardar dentro de las veinticuatro horas siguientes.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+La interposición del medio de impugnación ante autoridad distinta a las señaladas en esta Ley no interrumpirá el plazo establecido para su interposición.
 
 En ningún caso la interposición del medio de impugnación suspende los efectos de los actos y resoluciones controvertidos.
 
@@ -6029,59 +6257,97 @@ Para los efectos de las dos fracciones anteriores, el hecho de que algún repres
 
 (DEROGADO, P.O. 31 DE MAYO DE 2023)
 
-### Capítulo III. Del juicio para la protección de los derechos político- electorales del ciudadano
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2026)</small>
+
+### Capítulo III. Del Juicio de la Ciudadanía
 
 #### Sección Única. De la procedencia y reglas particulares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 388.
 
-El juicio materia del presente Capítulo, tiene por objeto la protección de los derechos político-electorales, cuando el ciudadano por sí o a través de sus representantes legales, haga valer presuntas violaciones, a los derechos de votar y ser votado; de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos; y de afiliarse libre e individualmente a los partidos políticos, siempre y cuando se hubieren reunido los requisitos constitucionales y legales para el ejercicio de esos derechos.
+El juicio materia del presente Capítulo, tiene por objeto la protección de los derechos político-electorales, cuando una persona ciudadana por sí o a través de sus representantes legales, haga valer presuntas violaciones, a los derechos de votar y ser votada; de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos; y de afiliarse libre e individualmente a los partidos políticos, siempre y cuando se hubieren reunido los requisitos constitucionales y legales para el ejercicio de esos derechos.
 
-El juicio podrá ser interpuesto en contra de actos o resoluciones de las autoridades partidistas durante los procesos internos de elección de dirigentes y de candidatos a puestos de elección popular, así como en las controversias que se susciten entre diversos órganos partidistas en el estado.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-En los casos señalados en el párrafo que antecede, para efecto de restituir al ciudadano en el derecho político-electoral violado, podrá decretarse la nulidad de los procesos electivos internos correspondientes.
+El juicio podrá ser interpuesto en contra de actos o resoluciones de las autoridades partidistas durante los procesos internos de elección de dirigencias y de candidaturas a puestos de elección popular, así como en las controversias que se susciten entre diversos órganos partidistas en el estado.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+En los casos señalados en el párrafo que antecede, para efecto de restituir a la persona ciudadana el derecho político-electoral violado, podrá decretarse la nulidad de los procesos electivos internos correspondientes.
 
 El juicio resultará procedente para impugnar los actos y resoluciones por quien teniendo interés jurídico considere que indebidamente se afecta su derecho para integrar las autoridades electorales.
 
 En el presente medio de impugnación se deberá suplir las deficiencias u omisiones en los agravios cuando los mismos puedan ser deducidos claramente de los hechos expuestos.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Además, será procedente contra actos y resoluciones vinculados a procedimientos de participación ciudadana, en los que la persona promovente aduzca supuestas violaciones a sus derechos político-electorales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 389.
 
-El juicio podrá ser promovido por los ciudadanos guanajuatenses con interés jurídico, en los casos siguientes:
+El juicio podrá ser promovido por personas ciudadanas con interés jurídico, en los casos siguientes:
 
 I. Cuando habiendo cumplido con los requisitos y trámites correspondientes, no hubieren obtenido oportunamente el documento que exija la ley electoral respectiva para ejercer el voto;
 
-II. Cuando habiendo obtenido oportunamente el documento a que se refiere la fracción anterior, no aparezcan incluidos en la lista nominal de electores de la sección correspondiente a su domicilio, y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-III. Cuando sin causa justificada sean excluidos de la lista nominal de electores de la sección correspondiente a su domicilio.
+II. Cuando habiendo obtenido oportunamente el documento a que se refiere la fracción anterior, no aparezcan incluidas en la lista nominal de electores de la sección correspondiente a su domicilio; y
 
-En el caso de las fracciones anteriores, si la sentencia que se llegase a dictar resultare favorable a los intereses del promovente y la autoridad responsable, por razón de los plazos legales o por imposibilidad técnica o material, no lo puede incluir debidamente en la lista nominal de electores correspondiente a la sección de su domicilio, o expedirle el documento que exige la ley electoral para poder sufragar, bastará la exhibición de la copia certificada de los puntos resolutivos de la sentencia, así como de una identificación, para que los funcionarios electorales permitan que los ciudadanos respectivos ejerzan el derecho de voto el día de la jornada electoral;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-IV. Cuando habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular; o bien cuando habiendo obtenido oportunamente su registro, sea indebidamente declarado inelegible en la etapa de resultados.
+III. Cuando sin causa justificada sean excluidas de la lista nominal de electores de la sección correspondiente a su domicilio.
 
-En los procesos electorales, si también el partido político interpuso el recurso electoral correspondiente por la negativa del registro, o la declaratoria de inelegibilidad del mismo candidato, el juicio ciudadano se acumulará a aquél, para que se resuelvan en una sola sentencia;
+En el caso de las fracciones anteriores, si la sentencia que se llegase a dictar resultare favorable a los intereses de la parte promovente y la autoridad responsable, por razón de los plazos legales o por imposibilidad técnica o material, no la puede incluir debidamente en la lista nominal de electores correspondiente a la sección de su domicilio, o expedirle el documento que exige la ley electoral para poder sufragar, bastará la exhibición de la copia certificada de los puntos resolutivos de la sentencia, así como de una identificación, para que el funcionariado electoral permita que la ciudadanía respectiva ejerza el derecho de voto el día de la jornada electoral;
 
-V. Cuando se niegue indebidamente el derecho de participar como observador electoral;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VI. Cuando habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político.
+IV. Cuando habiendo sido propuesta por un partido político, le sea negado indebidamente su registro como persona candidata a un cargo de elección popular; o bien cuando habiendo obtenido oportunamente su registro, sea indebidamente declarada inelegible en la etapa de resultados.
 
-En el supuesto de esta fracción, el juicio ciudadano deberá ser interpuesto por quien ostente la representación de la agrupación que se pretenda constituir como partido político;
+En los procesos electorales, si también el partido político interpuso el recurso electoral correspondiente por la negativa del registro, o la declaratoria de inelegibilidad de la misma persona candidata, el juicio de la ciudadanía se acumulará a aquél, para que se resuelvan en una sola sentencia;
 
-VII. Cuando considere que el partido político o coalición, a través de sus dirigentes u órganos de dirección, violaron sus derechos político-electorales de participar en el proceso interno de selección de candidatos o de ser postulado como candidato a un cargo de elección popular, por transgresión a las normas de los estatutos del mismo partido o del convenio de coalición. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aun cuando no estén afiliados al partido político señalado como responsable;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VIII. Cuando estando afiliado a un partido político u organización política, considere que un acto o resolución de los órganos partidarios, es violatorio de cualquier otro de sus derechos político- electorales;
+V. Cuando se niegue indebidamente el derecho de participar como persona observadora electoral;
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-IX. Cuando siendo diputado o integrante de ayuntamiento con derecho a participar en un proceso interno de selección de candidatos considere que el partido político a través de sus dirigentes u órganos de dirección, violaron sus derechos político-electorales de participar en el proceso interno de selección de candidatos o de ser postulado como candidato a un cargo de elección popular, por transgresión a los estatutos y normativa interna del mismo partido;
+VI. Cuando habiéndose asociado con otras personas ciudadanas para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político estatal.
+
+En el supuesto de esta fracción, el juicio de la ciudadanía deberá ser interpuesto por quien ostente la representación de la agrupación que se pretenda constituir como partido político estatal;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VII. Cuando considere que el partido político o coalición, a través de sus dirigencias u órganos de dirección, violaron sus derechos político-electorales de participar en el proceso interno de selección de candidaturas o de ser postulada como persona candidata a un cargo de elección popular, por transgresión a las normas de los estatutos del mismo partido o del convenio de coalición. Lo anterior es aplicable a las personas precandidatas y candidatas a cargos de elección popular aun cuando no estén afiliadas al partido político señalado como responsable;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VIII. Estando bajo afiliación a un partido político, considere que un acto o resolución de los órganos partidarios, es violatorio de cualquier otro de sus derechos político- electorales;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+IX. Cuando siendo persona diputada o integrante de ayuntamiento con derecho a participar en un proceso interno de selección de candidaturas considere que el partido político a través de sus dirigentes u órganos de dirección, violaron sus derechos político-electorales de participar en el proceso interno de selección de candidaturas o de ser postulada como persona candidata a un cargo de elección popular, por transgresión a los estatutos y normativa interna del mismo partido;
 
 X. Cuando se aduzca la violación del derecho de integrar las autoridades electorales del Estado, o
 
 XI. Cuando considere que un acto o resolución de la autoridad electoral es violatorio de cualquier otro de sus derechos político-electorales.
 
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XII. Cuando se pretenda la restitución de un derecho político electoral ante la actualización de algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en las leyes aplicables; o
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XIII. En las controversias que deriven de los procesos de participación ciudadana expresamente previstos en la Ley de la materia, siempre y cuando se hagan valer presuntas violaciones a sus derechos político-electorales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 390.
 
-El juicio para la protección de los derechos político-electorales del ciudadano, sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las normas respectivas establezcan para tal efecto.
+El juicio de la ciudadanía sólo será procedente cuando la parte promovente haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las normas respectivas establezcan para tal efecto.
 
 Se consideran entre otras, como instancias previas las establecidas en los documentos internos de los partidos políticos.
 
@@ -6091,73 +6357,87 @@ I. Los órganos competentes estén establecidos, integrados e instalados con ant
 
 II. Se respeten todas las formalidades esenciales del procedimiento exigidas constitucionalmente, y
 
-III. Que formal y materialmente resulten eficaces para restituir al promovente en el goce de sus derechos político-electorales transgredidos.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-Cuando falte algún requisito de los señalados con anterioridad, acudir a las instancias internas será optativo, por lo que el afectado podrá acudir directamente a la autoridad jurisdiccional, siempre y cuando se corra el riesgo de que la violación alegada se torne irreparable, y en su caso, acredite haberse desistido previamente de las instancias internas que hubiera iniciado, y que aún no se hubieran resuelto, a fin de evitar resoluciones contradictorias.
+III. Que formal y materialmente resulten eficaces para restituir a la parte promovente en el goce de sus derechos político-electorales transgredidos.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Cuando falte algún requisito de los señalados con anterioridad, acudir a las instancias internas será optativo, por lo que la persona afectada podrá acudir directamente a la autoridad jurisdiccional, siempre y cuando se corra el riesgo de que la violación alegada se torne irreparable, y en su caso, acredite haberse desistido previamente de las instancias internas que hubiera iniciado, y que aún no se hubieran resuelto, a fin de evitar resoluciones contradictorias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 391.
 
-El juicio para la protección de los derechos político-electorales del ciudadano será resuelto en única instancia por el Pleno del Tribunal Estatal Electoral.
+El juicio de la ciudadanía será resuelto en única instancia por el Pleno del Tribunal Estatal Electoral.
 
-El escrito de interposición deberá presentarse dentro de los cinco días siguientes a la fecha de la notificación del acto o resolución impugnados o del momento en que por cualquier medio el promovente haya tenido conocimiento de ellos y contendrá los mismos requisitos que para el efecto señala el artículo 382 de esta Ley.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+El escrito de interposición deberá presentarse dentro de los cinco días siguientes a la fecha de la notificación del acto o resolución impugnados o del momento en que por cualquier medio la parte promovente haya tenido conocimiento de ellos y contendrá los mismos requisitos que para el efecto señala el artículo 382 de esta Ley.
 
-Recibida la demanda en la oficialía de partes se remitirá a la Secretaría General de Acuerdos, la que dará cuenta al presidente, para que por turno la asigne al Magistrado encargado de elaborar el proyecto que corresponda. La demanda se radicará en un plazo máximo de cuatro días.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-El juicio ciudadano se resolverá en todo caso dentro de los treinta días hábiles siguientes al auto en que se admita.
+Recibida la demanda en la oficialía de partes se remitirá a la Secretaría General de Acuerdos, la que dará cuenta a la presidencia, para que por turno la asigne a la magistratura encargada de elaborar el proyecto que corresponda. La demanda se radicará en un plazo máximo de cuatro días.
 
-Para la resolución del juicio ciudadano, el Magistrado podrá solicitar al pleno la ampliación por diez días más para resolver, siempre y cuando exista causa justificada para ello.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+El juicio de la ciudadanía se resolverá en todo caso dentro de los treinta días hábiles siguientes al auto en que se admita.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Para la resolución del juicio de la ciudadanía, la magistratura podrá solicitar al pleno la ampliación por diez días más para resolver, siempre y cuando exista causa justificada para ello.
 
 En la tramitación y sustanciación del presente procedimiento, resultarán aplicables las disposiciones generales y comunes previstas en este ordenamiento para los medios de impugnación, en todo aquello que no se oponga a lo establecido en el presente capítulo.
 
+> <small>(DEROGADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
 ### Capítulo IV. De la Revocación
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
 
 #### Sección Única
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### Artículo 392.
 
-(DEROGADO, P.O. 31 DE MAYO DE 2023)
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 29 DE MAYO DE 2026)
 
 ###### Artículo 393.
 
-(DEROGADO, P.O. 31 DE MAYO DE 2023)
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 29 DE MAYO DE 2026)
 
 ###### Artículo 394.
 
-(DEROGADO, P.O. 31 DE MAYO DE 2023)
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 29 DE MAYO DE 2026)
 
 ###### Artículo 395.
 
-(DEROGADO, P.O. 31 DE MAYO DE 2023)
+(DEROGADO, P.O. 29 DE MAYO DE 2026)
 
 ### Capítulo V. De la Revisión
 
 #### Sección Única
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
+
 ###### Artículo 396.
 
-El recurso de revisión podrá ser promovido por los partidos políticos y, en su caso, por los candidatos independientes con interés jurídico, y tendrá como efecto la anulación, revocación, modificación o confirmación de la resolución impugnada y procede en los siguientes casos:
+El recurso de revisión podrá ser promovido por los partidos políticos y, en su caso, por candidaturas independientes con interés jurídico, y tendrá como efecto la anulación, revocación, modificación o confirmación de la resolución impugnada y procede en los siguientes casos:
 
 I. Contra las resoluciones que pronuncien los consejos distritales o municipales que no tengan previsto otro medio de impugnación;
 
-II. Contra las resoluciones que se dicten al resolver el recurso de revocación;
+II. (DEROGADA, P.O. 29 DE MAYO DE 2026)
 
-III. Contra las resoluciones que no admitan el recurso de revocación;
+III. (DEROGADA, P.O. 29 DE MAYO DE 2026)
 
 IV. Contra los actos o resoluciones de los consejos general, distritales o municipales que nieguen o concedan el registro de candidatos en los procesos electorales;
 
-V. Cuando se niegue al aspirante a candidato independiente el registro;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-VI. Cuando el candidato independiente sea declarado inelegible en la etapa de resultados;
+V. Cuando se niegue a la persona aspirante a candidata independiente el registro;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+VI. Cuando la candidatura independiente sea declarada inelegible en la etapa de resultados;
 
 VII. Contra las resoluciones del Consejo General que nieguen o concedan el registro de un partido político estatal;
 
@@ -6165,7 +6445,9 @@ VIII. Contra las resoluciones del Consejo General que fijen, suspendan o modifiq
 
 IX. Contra las resoluciones del Consejo General que nieguen o admitan los convenios de coalición de los partidos políticos;
 
-X. Contra las resoluciones de los Consejos General, distritales o municipales que nieguen la acreditación de representantes de los partidos políticos y de candidatos independientes;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+X. Contra las resoluciones de los Consejos General, distritales o municipales que nieguen la acreditación de personas representantes de los partidos políticos y de candidaturas independientes;
 
 XI. Contra las resoluciones o acuerdos relativos a la integración de las autoridades electorales del Estado;
 
@@ -6173,21 +6455,33 @@ XII. Contra los actos o resoluciones del consejo general que se relacionen con l
 
 XIII. Contra los actos o resoluciones relacionadas con la aprobación de los formatos, documentación y material que habrán de usarse en la jornada electoral;
 
-XIV. Contra los actos o resoluciones de los consejos distritales o municipales que nieguen el registro de representantes generales de partido político o candidatos, o de sus representantes ante las casillas electorales;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XIV. Contra los actos o resoluciones de los consejos distritales o municipales que nieguen el registro de personas representantes generales de partido político o candidaturas independientes, o de sus representantes de éstas ante las casillas electorales;
 
 XV. Contra los actos o resoluciones relativos a la determinación, fijación o modificación de los gastos de campaña;
 
-XVI. Contra los resultados contenidos en las actas de cómputo de los consejos distritales en las elecciones de diputados y de Gobernador cuando se aleguen causales de nulidad de una o varias casillas, así como contra la expedición de la constancia de mayoría y declaración de validez de la elección de diputados por mayoría;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-XVII. Contra los cómputos distritales de la elección de gobernador o de diputados de mayoría relativa cuando exista error aritmético;
+XVI. Contra los resultados contenidos en las actas de cómputo de los consejos distritales en las elecciones de diputaciones y de gubernatura cuando se aleguen causales de nulidad de una o varias casillas, así como contra la expedición de la constancia de mayoría y declaración de validez de la elección de diputaciones por mayoría;
 
-XVIII. Contra los cómputos realizados por el Consejo General en la elección de Gobernador, cuando exista error aritmético y contra la expedición de la constancia de mayoría y validez de dicha elección;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-XIX. Contra las actas de los cómputos estatales y la declaratoria de validez y expedición de las constancias de asignación de diputados por el principio de representación proporcional;
+XVII. Contra los cómputos distritales de la elección de la gubernatura o de diputaciones de mayoría relativa cuando exista error aritmético;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XVIII. Contra los cómputos realizados por el Consejo General en la elección de la gubernatura, cuando exista error aritmético y contra la expedición de la constancia de mayoría y validez de dicha elección;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XIX. Contra las actas de los cómputos estatales y la declaratoria de validez y expedición de las constancias de asignación de diputaciones por el principio de representación proporcional;
 
 XX. Contra los cómputos municipales de la elección de ayuntamientos cuando se alegue causales de nulidad de una o varias casillas y contra la expedición de las constancias de mayoría y declaración de validez de la elección de ayuntamientos;
 
-XXI. Contra los cómputos municipales de la elección de ayuntamientos cuando exista error aritmético y contra la expedición de las constancias de asignación de regidores;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XXI. Contra los cómputos municipales de la elección de ayuntamientos cuando exista error aritmético y contra la expedición de las constancias de asignación de regidurías;
 
 (NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA LA FRACCIÓN XXII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -6195,17 +6489,11 @@ XXI. Contra los cómputos municipales de la elección de ayuntamientos cuando ex
 
 XXII. CONTRA LAS RESOLUCIONES DEL CONSEJO GENERAL RELATIVAS A LA FISCALIZACIÓN DEL ORIGEN Y USO DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS ESTATALES CUANDO ESTA HAYA SIDO DELEGADA;
 
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE REFORMA LA FRACCIÓN XXIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+XXIII. Contra los demás actos o resoluciones del Consejo General que no tengan previsto otro medio de impugnación en términos de esta Ley.
 
-XXIII. CONTRA LAS RESOLUCIONES EN LAS QUE DE MANERA EXPRESA ESTA LEY FACULTE AL TRIBUNAL ESTATAL ELECTORAL PARA QUE CONOZCA DE LAS IMPUGNACIONES, Y
-
-(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
-
-XXIV. CONTRA ACTOS O RESOLUCIONES EMITIDOS POR EL CONSEJO GENERAL O CUALQUIER OTRO ÓRGANO DEL INSTITUTO QUE NO TENGAN PREVISTO RECURSO.
+(NOTA: EL 28 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2023, DECLARÓ LA INVALIDEZ DEL DECRETO LEGISLATIVO 205, POR EL QUE SE ADICIONA LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE SEPTIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: "XXIV. Contra actos o resoluciones emitidos por el Consejo General o cualquier otro órgano del instituto que no tengan previsto recurso."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -6221,19 +6509,97 @@ El recurso de revisión deberá resolverse por el Pleno del Tribunal Estatal Ele
 
 Para la resolución del recurso de revisión el Magistrado ponente podrá solicitar al Pleno la ampliación por diez días más para resolver, siempre y cuando exista causa justificada para ello y no sea obstáculo para hacer valer otro medio de impugnación ni interfiera con la fecha de toma de posesión de quienes resulten electos.
 
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+### Capítulo V Bis. Del Juicio Electoral
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Única
+
+Reglas particulares, procedencia y competencia.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 398 Bis.
+
+El juicio electoral será procedente para impugnar los actos y resoluciones que restrinjan el derecho a ser votadas de las personas aspirantes o candidatas a magistraturas o juezas del Poder Judicial del Estado de Guanajuato en el proceso electoral judicial respectivo.
+
+Sólo podrán promover juicio electoral las personas que acrediten su interés jurídico como aspirantes o candidatas a magistraturas o juezas del Poder Judicial del Estado de Guanajuato.
+
+El Tribunal Estatal Electoral será competente para conocer de este recurso. El plazo para impugnar será de cinco días, contados a partir del día siguiente a aquél en que se haya notificado o tenga conocimiento de la resolución o el acto correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 398 Ter.
+
+Para la tramitación, sustanciación y resolución del juicio electoral, serán aplicables, en lo conducente, las reglas de procedimiento establecidas en esta ley y en particular las señaladas en el juicio de la ciudadanía.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+### Capítulo V Ter. Del Juicio de Inconformidad
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Única
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 398 Quáter.
+
+Durante el proceso electoral local y exclusivamente en la etapa de cómputo y sumatoria, y de declaraciones de validez para la elección de magistraturas y juezas del Poder Judicial del Estado de Guanajuato, el juicio de inconformidad procederá para impugnar las determinaciones de las autoridades electorales que violen normas constitucionales o legales, en los términos señalados por esta ley. Los medios de impugnación no producirán efectos suspensivos sobre la resolución o acto impugnado.
+
+El plazo para impugnar será de cinco días, contados a partir del día siguiente a aquél en que se haya notificado o tenga conocimiento de la resolución o el acto correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 398 Quinquies.
+
+Son actos impugnables a través del juicio de inconformidad los siguientes:
+
+I. Los resultados consignados en las actas de cómputo, las declaraciones de validez de las elecciones y el otorgamiento de las constancias de mayoría y validez, por estimar que se acredita la nulidad de la votación recibida en una o varias casillas o de la elección;
+
+II. Los resultados consignados en las actas de cómputo por error aritmético; o
+
+III. La inelegibilidad de la candidatura que resulte triunfadora.
+
+El juicio de inconformidad será resuelto en única instancia por el Pleno del Tribunal Estatal Electoral.
+
+Para la tramitación, sustanciación y resolución del juicio de inconformidad, serán aplicables, en lo conducente, las reglas de procedimiento establecidas en esta ley y en particular las señaladas en el juicio de la ciudadanía.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+### Capítulo V Quater. Del Juicio General
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Única. Reglas particulares, procedencia y competencia
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 398 Sexies.
+
+El juicio general será procedente para impugnar los actos y resoluciones que:
+
+I. Determinen el desechamiento de la queja en los procedimientos sancionadores especial y ordinario;
+
+II. Establezcan la procedencia o improcedencia de medidas cautelares y de protección dictadas por la autoridad competente del Instituto Estatal;
+
+III. Los actos dentro del procedimiento sancionador especial y ordinario, que produzcan un daño material irreparable en la sentencia definitiva o afecten de manera cierta e inmediata derechos sustantivos en dichos procedimientos; o
+
+IV. Aquellas que afecten derechos político-electorales y no contemplen otro medio de impugnación.
+
+El plazo para impugnar será de cinco días, contados a partir del día siguiente a aquél en que se haya notificado o tenga conocimiento de la resolución o el acto correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 398 Septies.
+
+Para la tramitación, sustanciación y resolución del juicio general, serán aplicables, en lo conducente, las reglas de procedimiento establecidas en esta ley y en particular las señaladas en el juicio de la ciudadanía.
+
+La suplencia de la queja solo aplicará a la ciudadanía que acuda por propio derecho o en defensa de derechos colectivos.
+
 ### Capítulo VI. De la acumulación y de la sustanciación
-
-#### Sección Única
-
-### Capítulo VII. De las partes
-
-#### Sección Única
-
-### Capítulo VIII. De las Notificaciones
-
-#### Sección Única
-
-### Capítulo IX. De las pruebas
 
 #### Sección Única
 
@@ -6257,13 +6623,17 @@ En todo caso, la acumulación se resolverá de plano, debiendo acumular el medio
 
 Recibido el escrito que contenga el medio de impugnación por el órgano competente para resolverlo, se procederá a revisar que se reúnen todos los requisitos previstos en esta Ley. Una vez realizada ésta, el órgano competente resolverá sobre su admisión o desechamiento.
 
-Interpuesto el recurso de revisión o el juicio para la protección de los derechos político-electorales del ciudadano, la autoridad responsable y los terceros interesados podrán comparecer y aportar las pruebas o alegatos que consideren pertinentes, a más tardar dentro de las cuarenta y ocho horas siguientes, a partir del momento en que se les notifique la admisión del medio de impugnación.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Interpuestos los medios de impugnación que establece esta ley, la autoridad responsable y personas terceras interesadas podrán comparecer y aportar las pruebas o alegatos que consideren pertinentes, a más tardar dentro de los dos días siguientes, a que se les notifique la admisión del medio de impugnación.
 
 ###### Artículo 401.
 
 Si el medio de impugnación se desecha por ser notoriamente improcedente, o en su caso, si cumplió con todos los requisitos, se procederá a formular el proyecto de resolución correspondiente, mismo que será sometido al órgano competente para su resolución.
 
-Cuando se trate de recursos o juicios ciudadanos que deba conocer el Tribunal Estatal Electoral, si el órgano electoral remitente omitió algún requisito, el secretario lo hará de inmediato del conocimiento de su presidente para que éste requiera la complementación de los requisitos omitidos, procurando que se resuelva a la mayor brevedad posible.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Si el órgano electoral remitente omitió algún requisito, el secretariado lo hará de inmediato del conocimiento de la magistratura instructora para que ésta requiera la complementación de los requisitos omitidos, procurando que se resuelva a la mayor brevedad posible.
 
 ###### Artículo 402.
 
@@ -6273,7 +6643,7 @@ Si en el recurso se hacen valer causas de nulidad en contra de actos de la etapa
 
 Si el Tribunal Estatal Electoral considera probadas las causas de nulidad de actos o resoluciones de la etapa preparatoria de la elección, hará la declaración correspondiente y precisará los efectos de la nulidad; sin entrar al estudio de las causas de nulidad de los otros actos.
 
-### Capítulo X. De la improcedencia
+### Capítulo VII. De las partes
 
 #### Sección Única
 
@@ -6281,17 +6651,27 @@ Si el Tribunal Estatal Electoral considera probadas las causas de nulidad de act
 
 Serán partes en el procedimiento para tramitar los medios de impugnación:
 
-I. Los partidos políticos, candidatos independientes o coaliciones, actuando por conducto de sus representantes legales;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-II. La autoridad responsable, que será el órgano electoral o partidista que realice el acto o dicte la resolución que se impugna;
+I. Los partidos políticos, aspirantes, candidaturas, candidaturas independientes o coaliciones, actuando por propio derecho o por conducto de sus representaciones legales;
 
-III. El tercero interesado, que será el partido político, candidato independiente o coalición que tenga interés legítimo en la causa, derivado de un derecho incompatible con el que pretende el actor, y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-IV. Los ciudadanos, cuando se trate del juicio para la protección de los derechos político-electorales del ciudadano.
+II. La autoridad responsable, que será el órgano electoral, estatal o partidista que realice el acto o dicte la resolución que se impugna;
 
-Tratándose del recurso de revisión, los candidatos no son parte, sólo podrán participar como coadyuvantes del partido político que los registró y con la autorización del mismo. Salvo el caso de los candidatos independientes.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-### Capítulo XI. Del sobreseimiento
+III. La persona tercera interesada, que será el partido político, aspirante, candidatura, candidatura independiente o coalición que tenga interés legítimo en la causa, derivado de un derecho incompatible con el que pretende la parte actora, y
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+IV. La ciudadanía, cuando se trate del juicio de la ciudadanía y demás medios que no requieran una calidad específica.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Tratándose del recurso de revisión, las personas candidatas no son parte, sólo podrán participar como coadyuvantes del partido político que los registró y con la autorización del mismo. Salvo el caso de las candidaturas independientes.
+
+### Capítulo VIII. De las Notificaciones
 
 #### Sección Única
 
@@ -6303,29 +6683,49 @@ Durante los procesos electorales, los órganos del Instituto Estatal y el Tribun
 
 Las partes podrán facultar para oír notificaciones en su nombre, a la persona o personas autorizadas, proporcionando los datos correspondientes en el escrito en el que se otorgue dicha autorización, las que estarán facultadas para realizar todos los actos procesales conducentes a la defensa de los intereses del autorizante, inclusive hacer valer los recursos que sean procedentes.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 406.
 
-Las notificaciones se podrán hacer en forma personal, pudiendo realizarse en domicilio físico o por medios electrónicos; por estrados físicos y electrónicos; por oficio; por servicio postal y por telegrama, lo que se determinará en el acto o resolución a notificar, según se requiera para la eficacia del acto o resolución a notificar. También podrán ser comunicadas las resoluciones por correo electrónico, distinto al buzón electrónico, mas no hará las veces de notificación.
+Las notificaciones se podrán hacer en forma personal, pudiendo realizarse en domicilio físico o por medios electrónicos; por estrados físicos y electrónicos; por oficio; por servicio postal o mensajería, lo que se determinará en el acto o resolución a notificar, según se requiera para la eficacia del acto o resolución a notificar. También podrán ser comunicadas las resoluciones por correo electrónico, distinto al buzón electrónico, mas no hará las veces de notificación.
 
-Los interesados deberán señalar en su primer escrito domicilio o buzón electrónico para recibir notificaciones personales. En caso de no cumplir con lo anterior las notificaciones se harán por estrados físicos o electrónicos.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Las personas interesadas deberán señalar en su primer escrito domicilio o buzón electrónico para recibir notificaciones personales. En caso de no cumplir con lo anterior las notificaciones se harán por estrados físicos o electrónicos.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 Lo mismo se observará cuando el domicilio señalado no resulte cierto o esté ubicado fuera de la ciudad en la que tenga su sede la autoridad electoral, además si lo desean proporcionarán su dirección de correo electrónico.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
 Para obtener el buzón electrónico, la persona interesada deberá registrar una dirección de correo electrónico ante el Instituto Estatal o el Tribunal Estatal Electoral, según corresponda, en términos de la normativa que expidan al respecto.
 
-Los partidos políticos deberán obtener del Instituto Estatal el buzón electrónico para sus comunicaciones y notificaciones. El Consejo General, la Unidad Técnica Jurídica y de lo Contencioso Electoral de la Secretaría Ejecutiva del Instituto Estatal y cada uno de los consejos municipales y distritales, así como las comisiones u órganos encargados de la impartición de justicia intrapartidaria, deberán obtener del Tribunal Estatal Electoral el buzón electrónico para sus comunicaciones y notificaciones.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Los partidos políticos deberán obtener del Instituto Estatal el buzón electrónico para sus comunicaciones y notificaciones. El Consejo General, la Unidad Técnica Jurídica y de lo Contencioso Electoral de la Secretaría Ejecutiva del Instituto Estatal y cada uno de los consejos municipales y distritales, así como las comisiones u órganos encargados de la impartición de justicia intrapartidaria, así como los órganos que tengan relación con el proceso electoral judicial, deberán obtener del Tribunal Estatal Electoral el buzón electrónico para sus comunicaciones y notificaciones.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 La utilización de la comunicación por correo electrónico distinto al buzón electrónico no exime a la autoridad electoral respectiva de la obligación de realizar las notificaciones que por disposición de esta ley tengan carácter personal, ni las que deban hacerse por estrados. A las notificaciones personales realizadas a través de buzón electrónico, no será aplicable esta disposición.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
 Los estrados físicos son los lugares destinados en las oficinas de los órganos del Instituto Estatal y del Tribunal Estatal Electoral para que sean colocadas para su notificación copias de los autos y resoluciones que se dicten. Los estrados electrónicos son los espacios ligados a las páginas oficiales en medios electrónicos de las autoridades electorales, en los que se publican los autos, resoluciones y demás determinaciones para conocimiento de las personas interesadas.
 
-Las notificaciones por servicio postal se harán en pieza certificada agregándose al expediente el acuse de recibo postal. La notificación por telegrama se hará en casos urgentes, enviando por duplicado el mensaje para que la oficina que lo transmita devuelva un ejemplar sellado que se agregará al expediente.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Las notificaciones por servicio postal o mensajería se harán en pieza certificada agregándose al expediente el acuse de recibo postal.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 En las comunicaciones por correo electrónico distinto al buzón electrónico se procurará cerciorar su remisión a través del acuse correspondiente, el que si fuere emitido se agregará al expediente.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+
 Tratándose de notificaciones personales a través del buzón electrónico, se tendrán por realizadas cuando se cuente con el recibo que genere los medios electrónicos de la autoridad electoral que ordenó su práctica, recibo que habrá de certificarse y agregarse al expediente por quien practique la notificación. En el caso del Instituto Estatal quien certificará el recibo será el titular de la Unidad Técnica y de lo Contencioso Electoral.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
 Las notificaciones electrónicas se practicarán en días y horas hábiles, excepto durante los procesos electorales.
 
@@ -6347,23 +6747,25 @@ En caso de que la persona con quien se entiende la diligencia se niegue a recibi
 
 Las resoluciones recaídas a los medios de impugnación serán notificadas de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-I. A los partidos políticos y candidatos independientes, con la sola asistencia de sus representantes acreditados a la sesión en que se realizó el acto o se dictó el acuerdo o resolución. En caso de no contar con representantes acreditados o en ausencia de estos a la sesión correspondiente, la notificación se hará en el domicilio o buzón electrónico señalado para tal efecto;
+I. A los partidos políticos y candidaturas independientes, con la sola asistencia de su representación acreditada a la sesión en que se realizó el acto o se dictó el acuerdo o resolución. En caso de no contar con representación acreditada o en ausencia de esta a la sesión correspondiente, la notificación se hará en el domicilio o buzón electrónico señalado para tal efecto;
 
 II. A la autoridad cuyo acto o resolución fue impugnado, personalmente, mediante oficio anexando copia certificada del acuerdo o resolución respectiva;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-III. A los terceros y demás interesados, personalmente si tienen domicilio o buzón electrónico señalado, a falta de ello, por estrados físicos y electrónicos, y
+III. A las personas terceras interesadas, personalmente si tienen domicilio o buzón electrónico señalado, a falta de ello, por estrados físicos y electrónicos, y
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
 
-IV. A los ciudadanos, cuando se trate del juicio para la protección de los derechos político-electorales del ciudadano, personalmente si tienen domicilio o buzón electrónico señalado, a falta de ello, por estrados.
+IV. A las y los ciudadanos, cuando se trate del juicio de la ciudadanía, personalmente si tienen domicilio en la ciudad sede del Tribunal Estatal Electoral o buzón electrónico señalado, a falta de ello, por estrados.
 
 Se notificarán personalmente los acuerdos relativos a la admisión, requerimiento o desechamiento del medio de impugnación y las resoluciones que recaigan al mismo.
 
-Para efectos de notificación, se entenderá que los partidos políticos y candidatos independientes tienen conocimiento personal de los actos y resoluciones de los organismos electorales, cuando sus representantes hayan concurrido a las sesiones en que se dictaron dichos actos o resoluciones, aun cuando hayan abandonado la sesión o no hayan firmado el acta correspondiente.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
+
+Para efectos de notificación, se entenderá que los partidos políticos y candidaturas independientes tienen conocimiento personal de los actos y resoluciones de los organismos electorales, cuando sus representantes hayan concurrido a las sesiones en que se dictaron dichos actos o resoluciones, aun cuando hayan abandonado la sesión o no hayan firmado el acta correspondiente.
 
 ###### Artículo 409.
 
@@ -6387,7 +6789,7 @@ IV. La actuación por desahogar, y
 
 V. Los documentos para el debido desahogo de la diligencia.
 
-### Capítulo XII. De las resoluciones
+### Capítulo IX. De las pruebas
 
 #### Sección Única
 
@@ -6471,13 +6873,9 @@ El órgano competente para resolver el medio de impugnación de que se trate, po
 
 Las autoridades deberán proporcionar oportunamente los informes o documentos a que se refiere el párrafo anterior.
 
-### Capítulo XIII. Del juicio en línea para la protección de los derechos político-electorales de los ciudadanos
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2020)</small>
+### Capítulo X. De la improcedencia
 
 #### Sección Única
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
 
 ###### Artículo 419.
 
@@ -6511,9 +6909,9 @@ XI. En los demás casos en que la improcedencia derive de alguna disposición de
 
 Las causales de improcedencia deberán ser examinadas de oficio.
 
-### Capítulo XIV. De las nulidades
+### Capítulo XI. Del sobreseimiento
 
-#### Sección Primera. De las generalidades
+#### Sección Única
 
 ###### Artículo 421.
 
@@ -6529,9 +6927,9 @@ IV. Cuando habiendo sido admitido el medio de impugnación correspondiente, apar
 
 V. Cuando el ciudadano agraviado fallezca o sea suspendido o privado de sus derechos político-electorales.
 
-### Capítulo I. Del órgano interno de control, las Responsabilidades Administrativas y el Procedimiento para su Determinación
+### Capítulo XII. De las resoluciones
 
-#### Sección Segunda. De la nulidad de las votaciones
+#### Sección Única
 
 ###### Artículo 422.
 
@@ -6589,11 +6987,15 @@ El Tribunal Estatal Electoral sólo puede declarar la nulidad de la votación en
 
 La nulidad de la votación emitida en una o varias casillas afectará los resultados del cómputo de la elección impugnada. Los efectos de la nulidad declarada por el Tribunal Estatal Electoral se contraerán a la votación o elección para la que expresamente se haya hecho valer el recurso.
 
-> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2026)</small>
 
-### Capítulo II. Del procedimiento para dirimir los conflictos o diferencias laborales de los servidores públicos
+### Capítulo XIII. Del Juicio de la Ciudadanía en Línea
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2020)</small>
 
 #### Sección Única
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
 
 ###### Artículo 426 Bis.
 
@@ -6703,11 +7105,15 @@ Artículo 426 Octodecies. Cuando por caso fortuito, fuerza mayor o por fallas t�
 
 El reporte que determine que existió interrupción en los medios electrónicos, deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, el tiempo que dure la interrupción del sistema. Para tal efecto, la ponencia hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizará el cómputo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales. No obstante, las partes podrán presentar sus promociones como si se tratara de un juicio en vía tradicional, mismas que se deberán digitalizar y agregarse al expediente electrónico, sin perjuicio de lo señalado en el artículo 357 de esta Ley, durante el proceso electoral.
 
-#### Sección Única
+### Capítulo XIV. De las nulidades
+
+#### Sección Primera. De las generalidades
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 427.
 
-Las nulidades establecidas en este Capítulo podrán afectar la votación emitida en una o varias casillas sólo para la elección de que se trate y, en consecuencia, los resultados del cómputo de la elección impugnada, la declaración de validez de la elección, así como el otorgamiento de la constancia de mayoría.
+Las nulidades establecidas en este Capítulo podrán afectar la votación emitida en una o varias casillas sólo para la elección de que se trate y, en consecuencia, los resultados del cómputo de la elección impugnada, la declaración de validez de la elección, así como el otorgamiento de la constancia de mayoría. Asimismo, podrán afectar los resultados del cómputo de las elecciones del proceso electoral judicial.
 
 ###### Artículo 428.
 
@@ -6720,6 +7126,8 @@ Las elecciones cuyos cómputos, constancias de validez y mayoría o de asignaci�
 ###### Artículo 430.
 
 Los partidos políticos o candidatos no podrán invocar en su favor, en medio de impugnación alguno, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
+
+#### Sección Segunda. De la nulidad de las votaciones
 
 ###### Artículo 431.
 
@@ -6785,6 +7193,24 @@ I. Cuando alguna de las causales señaladas en el artículo 431 de esta Ley, se 
 
 II. Cuando no se instalen las casillas en el 20% de las secciones que comprenden el estado y consecuentemente la votación no hubiere sido recibida.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 435 Bis.
+
+Son causas de nulidad en las elecciones del Poder Judicial del Estado:
+
+I. Cuando alguna o algunas de las causales de nulidad relativas a la votación recibida en casilla, se acrediten en por lo menos el veinte por ciento de las casillas instaladas para la elección respectiva y, en su caso, no se hayan corregido durante el recuento de votos;
+
+II. Cuando no se instale el veinte por ciento o más de las casillas y consecuentemente la votación no hubiere sido recibida;
+
+III. Cuando la candidatura ganadora de la elección resulte inelegible;
+
+IV. Cuando se acredite el uso de financiamiento público o privado, con excepción del legalmente permitido por la Ley; y
+
+V. Cuando se acredite que partidos políticos o personas servidoras públicas beneficiaron o perjudicaron indebidamente una campaña de una persona candidata.
+
+Las causales de nulidad listadas deberán acreditarse y demostrar plenamente que fueron determinantes para el resultado de la elección.
+
 ###### Artículo 436.
 
 Además de las causales de nulidad, señaladas en este capítulo, relativas a las elecciones de las que se trate, también lo serán por violaciones graves, dolosas y determinantes las siguientes:
@@ -6799,21 +7225,25 @@ Dichas violaciones deberán acreditarse de manera objetiva y material. Se presum
 
 En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2026)</small>
 
 ## TÍTULO NOVENO
 
-DEL ÓRGANO INTERNO DE CONTROL, LAS RESPONSABILIDADES ADMINISTRATIVAS Y PROCEDIMIENTOS ADMINISTRATIVOS Y LABORALES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO Y DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
+DEL ÓRGANO GARANTE, LAS RESPONSABILIDADES ADMINISTRATIVAS Y PROCEDIMIENTOS ADMINISTRATIVOS Y LABORALES DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO Y DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE MAYO DE 2026)</small>
+
+### Capítulo I. Del Órgano Garante, las Responsabilidades Administrativas y el Procedimiento para su Determinación
+
+#### Sección Única
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 437.
 
-Para los efectos del presente Capítulo, serán considerados como servidores públicos, todos los funcionarios o empleados, y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Instituto Estatal que no formen parte del Servicio Profesional Electoral Nacional en términos de la Ley General y el Estatuto que sea expedido por el Instituto Nacional, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos del presente Capítulo, serán considerados como personas servidoras públicas, todas las personas funcionarias o empleadas, y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Tribunal Estatal Electoral o en el Instituto Estatal que no formen parte del Servicio Profesional Electoral Nacional en términos de la Ley General y el Estatuto que sea expedido por el Instituto Nacional, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
-
-Los titulares de los Órganos Internos de Control y el personal adscrito a los mismos, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución Política para el Estado de Guanajuato y esta Ley confieren a los funcionarios del Instituto Estatal y del Tribunal Electoral.
+Las personas titulares de los órganos garantes y el personal adscrito a los mismos, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución Política para el Estado de Guanajuato y esta Ley confieren a las personas funcionarias del Instituto Estatal y del Tribunal Estatal Electoral.
 
 ###### Artículo 438.
 
@@ -6881,25 +7311,25 @@ El procedimiento para determinar las responsabilidades administrativas de los se
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 448.
 
-En Instituto Electoral contará con un Órgano Interno de Control con autonomía técnica y de gestión que tendrá a su cargo la fiscalización de los ingresos y egresos del Instituto.
+El Instituto Estatal contará con un órgano garante con autonomía técnica y de gestión que tendrá a su cargo la fiscalización de los ingresos y egresos del Instituto Estatal.
 
-El Tribunal Estatal Electoral contará con un Órgano Interno de Control con la misma naturaleza y atribuciones del Órgano Interno de Control del Instituto Electoral.
+El Tribunal Estatal Electoral contará con un órgano garante con la misma naturaleza y atribuciones del órgano garante del Instituto Electoral.
 
-Ambos órganos internos de control contarán con la estructura orgánica, personal y recursos, que respectivamente, aprueben el Consejo General y el Pleno del Tribunal, según corresponda, a propuesta de cada titular, de conformidad con las reglas previstas en este Capítulo.
+Ambos órganos garantes contarán con la estructura orgánica, personal y recursos, que respectivamente, aprueben el Consejo General y el Pleno del Tribunal, según corresponda, a propuesta de cada titular, de conformidad con las reglas previstas en este Capítulo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 448 Bis.
 
-Quienes detenten la titularidad de los órganos internos de control del Instituto Estatal y del Tribunal Estatal Electoral durarán en su cargo un periodo de cinco años sin posibilidad de reelección y sólo en el caso del titular del órgano interno de control del Instituto Estatal este será designado por el voto de las dos terceras partes de la totalidad de quienes integren el Congreso del Estado.
+Quienes ejerzan la titularidad de los órganos garantes del Instituto Estatal y del Tribunal Estatal Electoral durarán en su cargo un periodo de cinco años sin posibilidad de reelección y sólo en el caso de la persona titular del órgano garante del Instituto Estatal, esta será designada por el voto de las dos terceras partes de la totalidad de quienes integren el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-La designación de los titulares de los órganos internos de control se hará mediante elección que derivará de consulta pública realizada por el Consejo General tratándose del Instituto Estatal y del Pleno tratándose del Tribunal Estatal Electoral cuyas bases serán publicadas en el Periódico Oficial de (sic) Gobierno del Estado, además de la amplia difusión en el portal de internet del Instituto Estatal y del Tribunal Estatal Electoral, respectivamente, y periódicos de mayor circulación. Lo anterior apegándose a los principios de equidad, oportunidad, transparencia, imparcialidad y honradez.
+La designación de las personas titulares de los órganos garantes se hará mediante elección que derivará de consulta pública realizada por el Consejo General tratándose del Instituto Estatal y del Pleno tratándose del Tribunal Estatal Electoral cuyas bases serán publicadas en el Periódico Oficial del Gobierno del Estado de Guanajuato, además de la amplia difusión en el portal de internet del Instituto Estatal y del Tribunal Estatal Electoral, respectivamente, y periódicos de mayor circulación. Lo anterior apegándose a los principios de equidad, oportunidad, transparencia, imparcialidad y honradez.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
@@ -6909,33 +7339,45 @@ En el caso de que la consulta pública sea declarada desierta, sea por no contar
 
 En el supuesto del Instituto Estatal, este enviará al Congreso del Estado una terna para la designación correspondiente, si la terna no fuese aprobada, se regresará al Consejo General, para que en el término de cinco días hábiles elabore una nueva terna, considerando a otros de los propuestos a partir de la consulta pública realizada y cuya aprobación se hará conforme a lo previsto por los párrafos anteriores.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-La consulta pública deberá ser emitida con sesenta días hábiles de anticipación al vencimiento del periodo en el cual se desempeñen los titulares de los órganos de control, tratándose del Instituto Estatal la terna deberá ser remitida treinta días hábiles previos a su vencimiento.
+La consulta pública deberá ser emitida con sesenta días hábiles de anticipación al vencimiento del periodo en el cual se desempeñen las personas titulares de los órganos garantes, tratándose del Instituto Estatal la terna deberá ser remitida treinta días hábiles previos a su vencimiento.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 449.
 
-Para ocupar la titularidad del Órgano Interno de Control tanto del Instituto Electoral y del Tribunal Estatal Electoral se requiere:
+Para ocupar la titularidad del órgano garante tanto del Instituto Electoral y del Tribunal Estatal Electoral se requiere:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 I. Ser ciudadano mexicano, con pleno goce de sus derechos civiles y políticos y contar con residencia en el Estado no menor de tres años anteriores a la fecha de designación;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 II. Tener cuando menos treinta años cumplidos al día del nombramiento;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 III. Tener, al día de su nombramiento, título profesional en las áreas económicas, contables, jurídicas o administrativas, expedido por autoridad o institución legalmente facultada para ello, y con la antigüedad mínima en su ejercicio de cinco años;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 IV. Contar con experiencia profesional de cuando menos dos años en el control, manejo y fiscalización de recursos;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 V. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de la libertad de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza, enriquecimiento ilícito o cometido contra la administración pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 VI. No ser o haber sido dirigente de partido político o asociación política a nivel nacional, estatal o municipal o candidato a puesto de elección popular, ni haber desempeñado cargo alguno de elección popular, ni ministro de ningún culto religioso, en los cinco años anteriores a su designación.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 450.
 
-Quien detente la titularidad del Órgano Interno de Control, durante el ejercicio de su cargo, no podrá:
+Quien ejerza la titularidad del órgano garante, durante el ejercicio de su cargo, no podrá:
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2018)</small>
 
@@ -6943,19 +7385,29 @@ I. Desempeñar otro empleo, cargo o comisión, excepto las actividades docentes;
 
 II. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia, la que sólo deberá utilizarse para los fines de control interno.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 450 Bis.
 
-Son causas graves de remoción del titular del Órgano Interno de Control:
+Son causas graves de remoción de la persona titular de los órganos garantes:
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 I. Actualizarse alguno de los supuestos previstos en el artículo anterior;
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 II. Incumplir la obligación de determinar los daños y perjuicios y de promover el fincamiento de sanciones en los casos que establece esta ley;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 III. Sustraer, destruir, ocultar o utilizar indebidamente la documentación que, por razón de su cargo, tenga a su cuidado o custodia;
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 IV. Conducirse con parcialidad en los procedimientos de control interno, así como en el cumplimiento de las disposiciones de esta ley; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 V. Incurrir en abandono del cargo por un periodo de 5 días.
 
@@ -6963,75 +7415,115 @@ V. Incurrir en abandono del cargo por un periodo de 5 días.
 
 Ante la actualización de alguna de las causales previstas en el presente artículo, el Consejo General presentará la solicitud de remoción ante el Congreso del Estado. Para el caso del Tribunal Estatal Electoral, la Presidencia presentará la solicitud ante el Pleno para la remoción correspondiente.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 450 Ter.
 
-En caso de falta absoluta, renuncia o remoción de algún titular de los órganos internos de control, se procederá de conformidad con el artículo 448 Bis de esta ley.
+En caso de falta absoluta, renuncia o remoción de alguna persona titular de los órganos garantes, se procederá de conformidad con el artículo 448 Bis de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 En tanto se hace la designación correspondiente, el Consejo General o el Pleno del Tribunal, según corresponda, designará al encargado del despacho, quien no podrá permanecer en el encargo por más de tres meses.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 451.
 
-El Órgano Interno de Control tanto del Instituto Electoral como del Tribunal Estatal Electoral serán responsables del control, evaluación y desarrollo administrativo de sus respectivos organismos, así como de la prevención de conductas constitutivas de responsabilidad administrativa y, en su caso, de la aplicación del derecho disciplinario; por lo cual, les competen las siguientes atribuciones:
+El órgano garante tanto del Instituto Electoral como del Tribunal Estatal Electoral serán responsables del control, evaluación y desarrollo administrativo de sus respectivos organismos, así como de la prevención de conductas constitutivas de responsabilidad administrativa y, en su caso, de la aplicación del derecho disciplinario; por lo cual, les competen las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 I. Inspeccionar el ejercicio del gasto público y su congruencia con el presupuesto de egresos, así como validar los indicadores para la evaluación del funcionamiento y operación del organismo correspondiente, en los términos de las disposiciones aplicables;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 II. Proponer las normas que regulen los instrumentos y procedimientos de control interno. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 III. Establecer las bases generales para la realización de auditorías internas y externas, así como las recomendaciones y observaciones que deriven de las mismas, y las normas que regulen los instrumentos y procedimientos de auditoría;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 IV. Realizar auditorías, revisiones y evaluaciones, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 V. Fiscalizar que se cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 VI. Designar y remover a los titulares de las áreas a su cargo; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales, representando al Organismos (sic) correspondiente;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 VII. Llevar y normar el registro de servidores públicos, recibir y registrar las declaraciones patrimoniales y de intereses así como la constancia de declaración fiscal que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, hayan sido impuestas;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 VIII. Atender las inconformidades que presenten los particulares con motivo de convenios o contratos que se celebren, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 IX. Establecer y conducir la política general de las contrataciones públicas reguladas por la Ley de Contrataciones Públicas para el Estado de Guanajuato y la Ley de Obra Pública y Servicios Relacionados con las Misma (sic) para el Estado y los Municipios de Guanajuato, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 X. Definir la política de gestión digital y datos abiertos;
 
-XI. Ejercer las facultades que la Constitución le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2026)</small>
+
+XI. Ejercer las facultades que la Constitución Local le otorga a los órganos garantes para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 XII. Conocer e investigar las conductas de los servidores públicos que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades aplicable, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal Estatal de Justicia Administrativa y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 XIII. Presentar al Consejo General o al Pleno del Tribunal Electoral según corresponda un programa e informe anual o, cuando le sea requerido, sobre el cumplimiento de sus funciones;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 XIV. Recibir y dar seguimiento a las sugerencias, quejas y denuncias ciudadanas, con respecto a la actuación de los servidores públicos adscritos a su organismo; y
 
-XV. Las demás que establezcan otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+XV. Ejercer las facultades de autoridad garante de control en materia de acceso a la información pública y protección de datos personales, a efecto de garantizar el libre ejercicio de estos derechos y vigilar el cumplimiento de las obligaciones en la materia por parte del sujeto obligado; y
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XVI. Las demás que establezcan otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 452.
 
-Los servidores públicos adscritos a los Órganos Internos de Control y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+Las personas servidoras públicas adscritas a los órganos garantes y, en su caso, las personas profesionistas contratadas para la práctica de auditorías deberán guardar reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades, así como de sus actuaciones y observaciones.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 453.
 
-Los órganos, áreas ejecutivas y servidores públicos del Instituto Estatal y del Tribunal Electoral estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control respectivo, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
+Los órganos, áreas ejecutivas y personas servidoras públicas del Instituto Estatal y del Tribunal Estatal Electoral estarán obligadas a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el órgano garante respectivo, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2026)</small>
 
 ###### Artículo 454.
 
-Si transcurrido el plazo establecido por el Órgano Interno de Control respectivo, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, el Órgano Interno de Control respectivo procederá a fincar las responsabilidades que correspondan conforme a derecho.
+Si transcurrido el plazo establecido por el órgano garante respectivo, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, procederá a fincar las responsabilidades que correspondan conforme a derecho.
 
 El fincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las sanciones.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
-El Órgano Interno de Control respectivo, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, será sancionado.
+El órgano garante respectivo, además de imponer la sanción respectiva, requerirá a la persona infractora para que, dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquella incumple, será sancionada.
 
 Durante el desahogo de los procedimientos administrativos tendentes, en su caso, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de las garantías constitucionales.
+
+### Capítulo II. Del procedimiento para dirimir los conflictos o diferencias laborales de los servidores públicos
+
+#### Sección Única
 
 ###### Artículo 455.
 
@@ -7150,6 +7642,574 @@ La ponencia someterá el proyecto de resolución al Pleno del Tribunal Estatal E
 ###### Artículo 471.
 
 En todo lo no previsto en el presente Capítulo, se aplicarán supletoriamente, en su orden, la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios y la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.»
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+## TÍTULO DÉCIMO. DE LA INTEGRACIÓN DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+### Capítulo I. De la Participación de la Ciudadanía en la Renovación del Poder Judicial
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Única. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 472.
+
+Las personas juzgadoras del Poder Judicial del Estado de Guanajuato serán electas por mayoría relativa y voto directo de la ciudadanía conforme a las bases, procedimientos, requisitos y periodos que establece la Constitución Federal, la Constitución Local, esta Ley y las leyes aplicables.
+
+La elección ordinaria de las personas juzgadoras se llevará a cabo el primer domingo del mes de junio del año que corresponda de manera concurrente con los procesos electorales ordinarios.
+
+El Instituto Nacional y el Instituto Estatal, en el ámbito de sus competencias, serán las autoridades responsables de la organización del proceso electivo, su jornada electoral y los cómputos de los resultados electorales.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 473.
+
+Las personas juzgadoras del Poder Judicial del Estado serán electas por entidad, regiones, distrito judicial, partidos judiciales y municipio según correspondan, conforme a las bases y procedimientos que establece la Constitución Local y esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 474.
+
+En caso de ausencia de disposición expresa dentro de este Título se aplicará supletoriamente, en lo conducente lo dispuesto para los procesos electorales dentro de esta Ley.
+
+En ningún caso los medios de impugnación, constitucionales o legales, producirán efectos suspensivos sobre la resolución o el acto impugnado.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+### Capítulo II. Del proceso electoral de las personas juzgadoras del Poder Judicial del Estado
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Primera. Reglas Generales
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 475.
+
+El proceso electoral judicial es el conjunto de actos, ordenados por la Constitución Federal, Constitución Local, las Leyes Generales aplicables y la presente Ley, realizados por las autoridades electorales, los Poderes del Estado, así como la ciudadanía, que tiene por objeto la renovación periódica de las personas juzgadoras que integran el Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 476.
+
+El proceso de elección de las personas juzgadoras del Poder Judicial del Estado comprende las etapas siguientes:
+
+I. Preparación de la elección;
+
+II. Convocatoria y postulación de candidaturas;
+
+III. Jornada electoral;
+
+IV. Cómputos y sumatoria;
+
+V. Asignación de cargos; y
+
+VI. La entrega de constancias de mayorías y declaración de validez de la elección.
+
+La etapa de preparación de la elección inicia con la primera sesión que el Consejo General del Instituto Estatal celebre en los primeros siete días del mes de septiembre del año anterior a la elección, y concluye al iniciarse la jornada electoral.
+
+La etapa de convocatoria y postulación de candidaturas inicia con la publicación de la convocatoria que emita el Congreso del Estado conforme a la fracción I del artículo 86 bis de la Constitución del Estado, y concluye con la remisión por dicho órgano legislativo del listado de candidaturas al Instituto Estatal.
+
+La etapa de la jornada electoral inicia a las 8:00 horas del primer domingo de junio del año que corresponda y concluye con la clausura de las casillas.
+
+La etapa de cómputos y sumatoria inicia a partir de las 8:00 horas del segundo lunes siguiente al día de la jornada electoral, previa remisión de la documentación y los expedientes electorales a los Consejos Electorales respectivos, y concluye con la sumatoria de los cómputos de la elección que realice el Consejo General del Instituto Estatal.
+
+La etapa de asignación de cargos inicia con la identificación por el Instituto Estatal de las candidaturas que hayan obtenido el mayor número de votos y la asignación de estas en cada cargo, en función de su especialización por materia, y alternando entre mujeres y hombres, atendiendo al principio de paridad de género, y concluye con la entrega por el Instituto Estatal de las constancias de mayoría a las candidaturas que resulten ganadoras y la emisión de la declaración de validez respectiva. El Instituto Estatal remitirá los resultados al Tribunal Estatal Electoral, al Congreso del Estado y al Órgano de Administración del Poder Judicial del Estado.
+
+La etapa de calificación y declaración de validez inicia con la remisión de resultados al Tribunal Estatal Electoral y concluye al resolverse el último de los medios de impugnación que se hubiesen interpuesto en contra de las elecciones respectivas o cuando se tenga constancia de que no se presentó ninguno.
+
+Atendiendo al principio de definitividad que rige la materia electoral, a la conclusión de cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los órganos electorales, la persona Secretaria Ejecutiva del Instituto Estatal, podrá difundir su realización y conclusión por los medios que estime pertinentes.
+
+El Instituto Estatal habilitará a las personas candidatas un buzón electrónico a través del cual recibirán notificaciones personales de acuerdos y resoluciones emitidas por las autoridades electorales, en los términos de esta Ley.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Segunda. De la Convocatoria y Postulación de Candidaturas
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 477.
+
+El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la apertura del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos y los cargos a elegir. El órgano de administración judicial hará del conocimiento del Congreso del Estado los cargos sujetos a elección, la especialización por materia, y demás información que requiera.
+
+Además, deberá contener:
+
+I. Fundamentos constitucionales y legales aplicables;
+
+II. Denominación de los cargos sujetos a elección, número de personas a elegir por tipo de cargo, periodo de ejercicio del cargo, así como la especialización por materia, región, distrito judicial, partido judicial y municipio o ámbito estatal respectivo cuando resulte aplicable;
+
+III. Requisitos para cada tipo de cargo, en los términos establecidos por la Constitución Local y la Ley Orgánica del Poder Judicial del Estado de Guanajuato;
+
+IV. Etapas y fechas del proceso de elección de las personas juzgadoras, desde la etapa de postulación hasta la de calificación y declaración de validez;
+
+V. Fechas y plazos que deberán observar los Poderes del Estado para la postulación de las personas candidatas, así como los procedimientos para la recepción de las candidaturas; y
+
+VI. Fecha de cierre de la convocatoria, que se verificará una vez que concluya el plazo para la instalación de los Comités de Evaluación.
+
+La convocatoria no podrá establecer requisitos adicionales a los establecidos por la Constitución Local, la Ley Orgánica del Poder Judicial del Estado de Guanajuato y esta Ley, para la integración y funcionamiento de los Comités de Evaluación que establezcan los Poderes del Estado.
+
+Para la emisión de la convocatoria, el órgano de administración judicial comunicará a más tardar en el mes de septiembre previo al de la elección al Congreso del Estado los cargos sujetos a elección y el número de vacantes a cubrir, la especialización por materia y demás información que le proporcione. De generarse vacantes no previstas en la convocatoria con fecha posterior a su publicación y previo al cierre de esta, el órgano de administración judicial lo comunicará de inmediato al Congreso del Estado para su incorporación en la convocatoria respectiva.
+
+En caso de que el órgano de administración judicial no remita oportunamente la información que requiera el Congreso del Estado para la elaboración de la convocatoria, el órgano legislativo lo integrará con la información pública que disponga.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 478.
+
+Es derecho de la ciudadanía participar en igualdad de condiciones en los procesos de evaluación y selección de candidaturas para todos los cargos de elección del Poder Judicial del Estado. Dichos procesos serán públicos, abiertos, transparentes, inclusivos, accesibles y deberán garantizar la participación de todas las personas interesadas que cumplan con los requisitos, condiciones y términos que determine la Constitución Local, la Ley Orgánica del Poder Judicial del Estado de Guanajuato y esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 479.
+
+Cada Poder del Estado instalará un Comité de Evaluación, integrado por cinco personas reconocidas en la actividad jurídica, a través de los mecanismos que determinen dentro de los quince días naturales posteriores a la publicación de la convocatoria que emita el Congreso del Estado.
+
+Los Comités emitirán las reglas para su funcionamiento. Asimismo, podrán celebrar convenios con instituciones públicas que coadyuven en sus respectivos procesos y privilegiarán el uso de las tecnologías de la información para la recepción de solicitudes, evaluación y selección de postulaciones. Estarán conformados por cinco personas reconocidas en la actividad jurídica, quienes deberán reunir al menos los siguientes requisitos, observando el principio de paridad de género:
+
+I. Contar con ciudadanía mexicana, en pleno goce de sus derechos civiles y políticos;
+
+II. No haber sido condenada por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+III. Contar con título de licenciatura en derecho expedido legalmente, con antigüedad mínima de cinco años, y práctica profesional de por lo menos cinco años en el ejercicio de la actividad jurídica; y
+
+IV. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos tres años anteriores a la designación.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 480.
+
+Los Comités publicarán dentro de los quince días naturales posteriores a su integración las convocatorias que les corresponden para participar en el proceso de evaluación y selección de postulaciones, que contendrán lo siguiente:
+
+I. La información pertinente contenida en la convocatoria que publique el Congreso del Estado;
+
+II. Las etapas, fechas y plazos aplicables al proceso de inscripción, evaluación y selección de postulaciones por el Comité que convoca;
+
+III. Los mecanismos, formatos y otros medios de contacto para inscribirse en la convocatoria, así como para el seguimiento del proceso; y
+
+IV. La metodología de evaluación de idoneidad de las personas aspirantes para el desempeño de los cargos de elección que correspondan por cada cargo, materia de especialización y demás información que proporcione el órgano de administración judicial, la cual incluirá, por lo menos, lo dispuesto en el párrafo cuarto de este artículo.
+
+Concluido el plazo para inscribirse en la convocatoria, los Comités integrarán la lista de las personas aspirantes que hayan concurrido a la convocatoria y reúnan los requisitos previstos en la Constitución Local y la Ley Orgánica del Poder Judicial del Estado de Guanajuato, sin que puedan exigirse requisitos adicionales.
+
+Los Comités publicarán la lista de las personas candidatas que hayan cumplido con los requisitos. Las personas aspirantes que hayan sido rechazadas podrán impugnar esa decisión ante el Tribunal Estatal Electoral, según corresponda, dentro del plazo y conforme al procedimiento que determine esta Ley y los acuerdos generales en la materia. Las impugnaciones serán resueltas dentro de un plazo que permita a las y los aspirantes participar en la evaluación de idoneidad en caso de que su impugnación resulte fundada.
+
+Acreditados los requisitos de las personas aspirantes, los Comités procederán a calificar su idoneidad para desempeñar el cargo. Para ello, deberán tomar en cuenta la aplicación de exámenes de conocimientos, su perfil curricular, así como sus antecedentes profesionales y académicos, entre otros que determine cada Comité para valorar su honestidad, buena fama pública y competencia. Por último, los Comités realizarán entrevistas públicas a las personas aspirantes que califique más idóneas a efecto de evaluar sus conocimientos técnicos para el desempeño del cargo en cuestión y su competencia en el ejercicio de la actividad jurídica.
+
+La participación simultánea de una persona aspirante en dos o más convocatorias emitidas por otros Poderes del Estado por el mismo cargo no afectará el resultado de la evaluación.
+
+Las personas juzgadoras en funciones a la fecha de la convocatoria podrán ser postuladas simultáneamente por uno o varios poderes del Estado siempre que aspiren al mismo cargo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 481.
+
+Las personas juzgadoras en funciones que participen en procesos de elección lo harán en igualdad de condiciones, sin prerrogativas adicionales respecto de las demás candidaturas, sin utilizar recursos públicos ni ventajas derivadas de su cargo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 482.
+
+Los Comités de Evaluación integrarán, en su caso, un listado de las seis personas mejor evaluadas para cada cargo. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, que será hasta dos personas por Poder, observando el principio de paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y, en su caso, envío al Congreso del Estado, los que deberán publicarse en los estrados de cada Poder.
+
+Los listados aprobados en términos del párrafo anterior serán remitidos al Congreso del Estado a más tardar el primero de febrero del año de la elección que corresponda.
+
+Los Poderes del Estado que no remitan postulaciones al término del plazo previsto en la convocatoria respectiva estarán impedidos para hacerlo posteriormente.
+
+El Congreso del Estado recibirá las postulaciones acompañadas con los expedientes que acrediten la elegibilidad e idoneidad de las personas postuladas, remitirá los listados y expedientes al Instituto Estatal a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+El Congreso del Estado incorporará a los listados que remita al organismo electoral local a las personas magistradas y juezas que se encuentren en funciones, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a la publicación de la convocatoria o sean postuladas para un cargo jurisdiccional diverso.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 483.
+
+En caso de fallecimiento, incapacidad, inhabilitación o declinación de alguna de las personas postuladas, el Poder postulante podrá solicitar al Congreso del Estado su sustitución antes del inicio de la impresión de las boletas electorales, observando el procedimiento de insaculación pública sobre el listado de las personas finalistas que no fueron seleccionadas para la candidatura del cargo que se registraron. Dicha solicitud se comunicará al Instituto Estatal para los efectos correspondientes.
+
+Si la renuncia, fallecimiento o incapacidad definitiva de una candidatura ocurre con posterioridad a la impresión de boletas, los votos emitidos a su favor serán nulos para efectos de asignación, y el cargo se otorgará a la candidatura con mayor votación válida.
+
+Las vacantes definitivas posteriores a la elección se cubrirán conforme al orden de votación obtenido, en términos de la Constitución del Estado y la Ley Orgánica del Poder Judicial del Estado de Guanajuato.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+### Capítulo III. De la Organización de la Elección
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Primera. Reglas Generales
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 484.
+
+El Instituto Estatal es la autoridad responsable de la organización, vigilancia, desarrollo y cómputo de la elección de personas juzgadoras del Poder Judicial del Estado. En el cumplimiento de sus atribuciones, garantizará la observancia de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, así como el principio de la paridad de género.
+
+La etapa de preparación de la elección local correspondiente iniciará con la primera sesión que el Consejo General celebre en los primeros siete días del mes de septiembre del año anterior a la elección.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 485.
+
+Corresponde al Consejo General:
+
+I. Aprobar el modelo de la boleta, documentación y materiales electorales, en términos de lo previsto en la Constitución Federal, Constitución Local, la Ley General y esta Ley, así como las demás disposiciones que emita el Consejo General del Instituto Nacional;
+
+II. Aprobar los lineamientos o acuerdos necesarios para llevar a cabo la organización, desarrollo y cómputo de la elección;
+
+III. Emitir las medidas de racionalidad, austeridad y disciplina presupuestal aplicables al proceso de organización de la elección;
+
+IV. Llevar a cabo la elección Judicial del Estado de conformidad con el ámbito territorial, entidad, región, distrito judicial, partido judicial y municipio según corresponda;
+
+V. Realizar los cómputos de la elección de las personas juzgadoras, declarar su validez, emitir las constancias de mayoría asignando los cargos alternadamente entre mujeres y hombres, observando el principio de paridad de género, así como publicar los resultados;
+
+VI. Organizar y desarrollar, en su caso, foros de debate entre las personas candidatas y establecer las bases para que las instituciones del sector público, privado o social puedan brindar dichos espacios de manera gratuita, vigilando su adecuado desarrollo y la participación de las personas candidatas que lo deseen en condiciones de equidad;
+
+VII. Determinar los topes máximos de gastos personales de campaña aplicables para cada candidatura;
+
+VIII. Supervisar que ningún partido político o persona servidora pública realice actos de proselitismo o posicionamientos a favor o en contra de candidatura alguna;
+
+IX. Garantizar la equidad en el desarrollo de las campañas entre las personas candidatas; y
+
+X. Emitir los acuerdos necesarios para coadyuvar en la difusión equitativa de las propuestas de personas candidatas y promover la participación ciudadana en el proceso electivo.
+
+El Consejo General se instalará y funcionará conforme a lo dispuesto en esta Ley.
+
+El Consejo General no podrá suspender o interrumpir los procesos o actividades relacionadas con la organización, desarrollo y cómputo de la elección de personas juzgadoras.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Segunda. De la Propaganda
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 486.
+
+Durante el tiempo que comprendan las campañas electorales, las personas candidatas a cargos de elección del Poder Judicial del Estado de Guanajuato podrán difundir su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada bajo el derecho al ejercicio de la libertad de expresión, siempre que no excedan o contravengan los parámetros constitucionales y legales aplicables.
+
+Se entiende por propaganda al conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que difundan las personas candidatas durante el periodo de campaña con el objeto de dar a conocer a la ciudadanía su trayectoria profesional, méritos y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora o cualquier otra manifestación amparada por la libertad de expresión.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 487.
+
+Los partidos políticos y las personas servidoras públicas no podrán realizar ningún acto de proselitismo o manifestarse públicamente a favor o en contra de candidatura alguna. Queda prohibido el uso de recursos públicos para fines de promoción y propaganda relacionados con los procesos de elección de personas juzgadoras del Poder Judicial del Estado, de conformidad con lo dispuesto por los artículos 134 de la Constitución Federal y 86 bis de la Constitución Local.
+
+Las personas juzgadoras en funciones que sean candidatas a un cargo de elección deberán actuar con imparcialidad, objetividad y profesionalismo en los asuntos que conozcan, por lo que deberán abstenerse de utilizar los recursos materiales, humanos y financieros a su cargo con fines electorales.
+
+La infracción a lo dispuesto en este artículo será sancionada en los términos de la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 488.
+
+Queda estrictamente prohibida la entrega de cualquier tipo de material en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona. Dichas conductas serán sancionadas de conformidad con esta Ley y se presumirá como indicio de presión al electorado para obtener su voto.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 489.
+
+La difusión de propaganda electoral solo será impresa en papel, la cual deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente, atendiendo el periodo legal de las campañas y deberá suspenderse o retirarse tres días antes de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 490.
+
+Queda prohibida la contratación por sí o por interpósita persona de tiempos de radio y televisión para fines de promoción de las personas candidatas, así como de espacios publicitarios y de promoción personal en medios de comunicación impresos o digitales.
+
+Las personas candidatas podrán hacer uso de redes sociales o medios digitales para promocionar sus candidaturas, siempre que su uso sea orgánico, quedando prohibido el uso de mecanismos de pago, promoción patrocinada o cualquier herramienta de posicionamiento artificial para potenciar o amplificar sus contenidos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Tercera. Encuestas y Sondeos de Opinión
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 491.
+
+De conformidad con las reglas, lineamientos y criterios, que emita el Consejo General del Instituto Nacional, las personas físicas o morales deberán adoptarlas para realizar encuestas o sondeos de opinión durante el proceso electoral local en el que se elijan a personas juzgadoras. El Instituto Estatal realizará las funciones en esta materia de conformidad con las citadas reglas, lineamientos y criterios.
+
+Durante los tres días previos a la elección y hasta la hora de cierre de las casillas, queda estrictamente prohibido publicar, difundir o dar a conocer por cualquier medio de comunicación, los resultados de las encuestas o sondeos de opinión, que tengan como fin dar a conocer las preferencias electorales.
+
+Las personas físicas o morales que difundan encuestas o sondeos de opinión deberán presentar al Instituto Nacional o al Instituto Estatal un informe sobre los recursos aplicados en su realización en los términos que disponga la autoridad electoral correspondiente.
+
+Queda prohibida la contratación, por parte de personas aspirantes, candidatas y de los partidos políticos, por sí o por interpósita persona, de personas físicas o morales que realicen y difundan encuestas o sondeos de opinión.
+
+La metodología, costos, personas responsables y resultados de las encuestas o sondeos serán difundidas en su página de Internet, por el Instituto Estatal en el ámbito de su competencia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Cuarta. De la Elección de Personas Juzgadoras
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 492.
+
+A más tardar en el mes de junio del año previo al de la elección, el órgano de administración judicial remitirá al Instituto Estatal información sobre los cargos a elegir, así como la división del territorio estatal por especialidad por materia, distrito judicial, región y partido judicial, junto con la información necesaria sobre el funcionamiento y organización del Poder Judicial del Estado, así como el número y materia de los distintos órganos jurisdiccionales que tengan residencia en el Estado y demás información que se estime conveniente. En caso de que el órgano de administración judicial no remita dicha información, el Instituto Estatal determinará lo conducente con la información pública que disponga.
+
+La Junta Estatal Ejecutiva, con base en la información remitida por el órgano de administración judicial, elaborará un plan integral del proceso electoral local, en el cual indicará los órganos del Instituto Estatal que coadyuvarán en la organización de la elección, y en su caso, en la respectiva etapa de cómputos de las elecciones.
+
+El Consejo General aprobará el plan integral del proceso electoral local y llevará a cabo la instalación de los Consejos correspondientes estrictamente indispensables para la realización de la elección que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 493.
+
+El Instituto Estatal instalará los Consejos Electorales correspondientes que coadyuvarán en la elección de las personas juzgadoras.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Quinta. De las Mesas Directivas de Casilla
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 494.
+
+La integración, ubicación y designación de las personas integrantes de las mesas directivas de casillas para la recepción de la votación, así como la capacitación de las personas funcionarias de casilla, se realizará en los términos dispuestos en la Ley General, esta Ley y los acuerdos que emita el Consejo General del Instituto Nacional.
+
+El Instituto Estatal se sujetará a la estrategia en materia de integración de mesas directivas de casilla de conformidad con los acuerdos que para tal efecto emita el Consejo General del Instituto Nacional.
+
+La capacitación y los simulacros de las personas funcionarias adicionales de mesas directivas de casilla para la elección de las personas juzgadoras podrán realizarse de manera presencial o a través de medios electrónicos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Sexta. De las Boletas y Materiales Electorales
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 495.
+
+Para la emisión del voto el Consejo Estatal, tomando en cuenta las medidas de certeza y seguridad que estime pertinentes, determinará el modelo de las boletas electorales, la documentación del proceso de elección de las personas juzgadoras y los materiales que serán utilizados en ésta, conforme a lo previsto en la Constitución Federal, la Constitución Local, la Ley General y la presente Ley.
+
+El Instituto Estatal será responsable de la producción y distribución de la documentación y materiales electorales que se emplearán en el proceso de elección.
+
+No habrá modificación a las boletas en caso de sustitución de una o más candidaturas si éstas ya estuvieran impresas.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 496.
+
+Por cada tipo de elección se empleará una sola boleta que contendrá la siguiente información general:
+
+I. Cargo para el que se postula la persona candidata;
+
+II. Entidad, región, distrito judicial y partido judicial que corresponda, para el que se postula la persona candidata;
+
+III. En su caso, especialidad por materia a la que se postula la persona candidata;
+
+IV. Primer apellido, segundo apellido y nombres completos de las personas candidatas, numerados y distribuidos por orden alfabético y progresivo, distinguiendo la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar. Las boletas podrán incluir, además, el sobrenombre con el que se conoce públicamente a las personas candidatas a petición expresa de éstas, y
+
+V. Firmas impresas de las personas titulares de la Presidencia del Consejo General y de la Secretaría Ejecutiva del Instituto Estatal.
+
+Las boletas estarán adheridas a un talón con folio, del cual serán desprendibles. La información que contenga el talón será la relativa a la entidad, región, distrito judicial y partido judicial que corresponda. El número de folio será progresivo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Séptima. De la Observación Electoral
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 497.
+
+La ciudadanía podrá ejercer sus derechos como persona observadora electoral en términos de lo dispuesto en esta Ley, y en la forma y términos que determine la Ley General, los reglamentos, lineamientos y acuerdos que al efecto emita el Consejo General del Instituto Nacional.
+
+Las personas observadoras acreditadas deberán conducirse conforme a los principios de imparcialidad, objetividad, certeza y legalidad. Podrán participar como personas observadoras las personas físicas o agrupaciones acreditadas ante el Instituto Nacional, con excepción de aquellas personas que sean representantes o militantes de partidos políticos.
+
+Las organizaciones a las que pertenezcan las personas observadoras acreditadas serán responsables de supervisar las actividades que realicen, así como del cumplimiento de los requisitos y obligaciones que establece esta Ley. Las organizaciones que tengan conocimiento de alguna falta, omisión o irregularidad de una de sus personas observadoras en el desarrollo de sus funciones deberán solicitar al Instituto el retiro de su acreditación. La falta de supervisión imputable a la organización respectiva será causa para que se niegue o retire la acreditación a la organización participante.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Octava. De las Campañas Electorales
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 498.
+
+La campaña electoral, para los efectos de este Título, es el conjunto de actividades llevadas a cabo por las personas candidatas a juzgadoras para la obtención del voto por parte de la ciudadanía.
+
+Se entiende por actos de campaña las actividades que realicen las personas candidatas dirigidas al electorado para promover sus candidaturas, sujetas a las reglas de propaganda y a los límites dispuestos por la Constitución Federal, la Constitución Local, la Ley General y esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 499.
+
+Las personas candidatas podrán participar durante el periodo de campañas en entrevistas de carácter noticioso y foros de debate organizados por el Instituto Estatal o aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad, observando al efecto las directrices y acuerdos que al efecto emita el Consejo General en observancia a lo dispuesto por la Ley General, esta Ley y los acuerdos del Instituto Nacional.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 500.
+
+La duración de las campañas para los cargos de personas juzgadoras será de sesenta días las cuales deberán de concluir tres días antes de celebrarse la jornada electoral, y en ningún caso habrá etapa de precampaña. Las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales se sujetarán a lo establecido en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 501.
+
+Las personas candidatas podrán erogar recursos con la finalidad de cubrir gastos personales, viáticos y traslados dentro del ámbito territorial que corresponda a su candidatura dentro de los periodos de campaña respectivos.
+
+Los topes de gastos personales para cada persona candidata, serán determinados por el Consejo General, estableciendo montos diferenciados en función del tipo de elección de que se trate y la demarcación territorial de la candidatura, considerando parámetros idóneos, adecuados, necesarios, proporcionales y razonables.
+
+Queda prohibido que las personas candidatas, por sí o interpósita persona, hagan erogaciones de recursos públicos o privados para promocionar sus candidaturas.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Novena. De las Actividades en Materia Registral y del Listado Nominal
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 502.
+
+Durante la jornada electoral se utilizará el Listado Nominal de Electores de forma física o digital, conforme lo determine el Consejo General del Instituto Nacional.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Décima. De las Actividades del Instituto Estatal para la Promoción de la Participación Ciudadana
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 503.
+
+El Consejo General observará la metodología aprobada por el Instituto Nacional para la difusión y promoción de la participación ciudadana en el proceso de elección, privilegiando el uso de las tecnologías de la información y observando al efecto los principios de austeridad, eficacia y eficiencia del gasto público.
+
+El Instituto Estatal creará un micrositio con fines informativos en su página de internet oficial para informar a la ciudadanía sobre el proceso electivo y dar a conocer las candidaturas registradas.
+
+El micrositio que se determine tendrá por objeto difundir la identidad, perfil e información curricular de las personas candidatas, incluyendo la versión pública de los expedientes que acrediten su elegibilidad e idoneidad para el cargo que se trate, así como información relativa al proceso electivo, ajustándose al menos a lo siguiente:
+
+I. No será un medio de propaganda política;
+
+II. Proporcionará a la ciudadanía información suficiente y relevante relacionada con el proceso electivo, e incluirá como mínimo el perfil personal, fotografía, medios de contacto público, trayectoria académica e historial profesional y laboral de cada candidatura;
+
+III. Incorporará las visiones de las personas candidatas acerca de la función jurisdiccional y la impartición de justicia, así como sus propuestas de mejora;
+
+IV. La información de las candidaturas será proporcionada por las personas candidatas y autorizada por el Instituto Estatal, que deberá supervisar que se ajuste a esta Ley y los parámetros que al efecto determine el Consejo General, y
+
+V. La información deberá estar disponible de manera clara, completa y accesible a más tardar en la fecha de inicio del periodo de campañas y hasta el día de la jornada electoral.
+
+Para efectos de las actividades que realice el Instituto Estatal para la promoción de la participación ciudadana en el proceso de elección, se privilegiará el uso de medios electrónicos, entre ellos, la página de Internet del Instituto Estatal, medios electrónicos o digitales institucionales y periódicos de mayor circulación y cobertura en la entidad, entre otros.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Undécima. Del Proceso de Fiscalización
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 504.
+
+La fiscalización de las candidaturas de las personas juzgadoras se realizará en los términos y conforme a los procedimientos previstos por la Ley General.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+### Capítulo IV. De la Jornada Electoral
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Única
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 505.
+
+La jornada electoral se desarrollará en los términos de la Ley General y esta Ley, debiéndose llenar al efecto la documentación que apruebe el Consejo General por parte de las personas funcionarias de las mesas directivas de casilla, conforme a la estrategia de integración determinada por el Instituto Nacional y en términos de lo dispuesto en esta Ley.
+
+El Instituto Estatal emitirá los lineamientos correspondientes para regular esta disposición.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 506.
+
+Para determinar la validez o nulidad de los votos, se observarán las reglas siguientes:
+
+I. Se contará un voto válido por la marca o asiento que realice la persona votante en un recuadro de una misma boleta en favor de una candidatura claramente identificable, con independencia de que puedan emitirse dos o más votos por diversas candidaturas contenidas en una misma boleta;
+
+II. El Instituto Estatal determinará la cantidad de votos válidos que pueda emitir cada persona votante en una misma boleta, en función del tipo de elección y el número de candidaturas a elegir; y
+
+III. Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.
+
+El Instituto Estatal emitirá las disposiciones correspondientes para regular esta disposición.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+### Capítulo V. De los Cómputos y Sumatoria
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Única
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 507.
+
+Los Consejos Electorales realizarán el cómputo de las boletas o las actas que contengan las votaciones de las elecciones de personas juzgadoras, a partir de las 8:00 horas del segundo lunes siguiente al día de la jornada electoral, y se llevará a cabo de manera ininterrumpida hasta su conclusión.
+
+El Consejo General emitirá los lineamientos que regulen esta etapa.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 508.
+
+Concluidos los cómputos de cada elección, los Consejos Electorales emitirán a cada candidatura ganadora una constancia de resultados, misma que contendrá los votos obtenidos.
+
+Una vez que se hayan computado la totalidad de las elecciones por parte de los Consejos Electorales, se remitirán al Consejo General para que proceda a realizar la sumatoria por tipo de elección.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+### Capítulo VI. De la Asignación de Cargos
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Única
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 509.
+
+Una vez que el Consejo General realice la sumatoria final, procederá a asignar los cargos de personas juzgadoras, entre las candidaturas que hayan obtenido el mayor número de votos, observando el principio de paridad de género y publicará los resultados de la elección.
+
+En caso de empate en el número de votos entre dos o más candidaturas para un mismo cargo, se asignará el cargo a la persona que haya obtenido la mayor calificación en la evaluación de idoneidad. De persistir el empate, se resolverá mediante insaculación pública organizada por el Instituto Estatal.
+
+El Consejo General hará entrega de las constancias de mayoría a las candidaturas que resulten ganadoras y emitirá la declaración de validez respectiva.
+
+Emitida la declaración de validez de la elección, el Instituto Estatal comunicará los resultados al Tribunal Estatal Electoral, al Congreso del Estado y al Poder Judicial del Estado.
+
+El resguardo de los paquetes electorales se realizará conforme a lo dispuesto en esta Ley.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+### Capítulo VII. Resolución de Impugnaciones y toma de protesta
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Única
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 510.
+
+Las impugnaciones que se presenten contra las constancias de mayoría y declaraciones de validez se resolverán antes del 25 de septiembre del año de la elección que corresponda.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 511.
+
+Las personas magistradas electas tomarán protesta de su encargo ante el Congreso del Estado en la fecha de apertura del primer periodo ordinario de sesiones del año de la elección que corresponda.
+
+En el caso de las personas juezas que hayan resultado electas, la protesta se realizará ante el Pleno del Supremo Tribunal de Justicia del Estado de Guanajuato, en la sesión solemne convocada para tal efecto.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2026)</small>
+
+### Capítulo VIII. Disposiciones complementarias
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE MAYO DE 2026)</small>
+
+#### Sección Única
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2026)</small>
+
+###### Artículo 512.
+
+La duración del encargo, posibilidad de reelección y requisitos para participar en procesos subsecuentes se regirán por lo dispuesto en la Constitución del Estado, la Ley Orgánica del Poder Judicial del Estado y esta Ley.
 
 T r a n s i t o r i o s
 
@@ -7406,3 +8466,19 @@ P.O. 20 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 235, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO Y LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 29 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 196, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. La primera elección de las personas juzgadoras del Poder Judicial del Estado se realizará en el proceso electoral ordinario que corresponda al año 2027.
+
+Artículo tercero. Las personas magistradas y juzgadoras en funciones a la entrada en vigor del presente Decreto continuarán en el ejercicio de su encargo hasta la toma de protesta de las personas electas conforme al nuevo modelo, garantizando en todo momento la continuidad institucional del Poder Judicial del Estado de Guanajuato.
+
+Artículo cuarto. El Instituto Electoral del Estado de Guanajuato deberá emitir, a partir de la entrada en vigor del presente Decreto, los lineamientos, acuerdos y disposiciones necesarias para la organización del proceso electoral judicial.
+
+Artículo quinto. Toda aquella referencia al Órgano de Administración Judicial se entenderá realizada al Consejo del Poder Judicial del Estado de Guanajuato, hasta su creación.
+
+Artículo sexto. Los procedimientos especiales sancionadores que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de su inicio.
