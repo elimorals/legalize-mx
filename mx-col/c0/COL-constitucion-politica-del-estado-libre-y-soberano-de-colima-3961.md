@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2026-04-18"
+last_updated: "2026-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2026.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -87,9 +87,9 @@ IV. Al trabajo;
 
 V. A la protección de la salud;
 
-VI. A disfrutar de vivienda digna y decorosa en los términos que dispongan las leyes.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2026)</small>
 
-Los gobiernos del Estado y los municipios promoverán la construcción de vivienda popular e inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones legales aplicables;
+VI. A disfrutar de vivienda adecuada. La Ley establecerá los instrumentos apoyos necesarios a fin de alcanzar tal objetivo.
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -173,9 +173,13 @@ Artículo 4º
 
 Las personas adultas mayores de sesenta años tendrán derecho a recibir servicios médicos adecuados, de manera gratuita, en las instituciones de salud del Gobierno del estado. La exención anterior se otorgará a los usuarios que pertenezcan a población abierta, con base en el estudio socioeconómico correspondiente y de acuerdo con la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2026)</small>
 
-Las personas con discapacidad que pertenezcan a población abierta también gozarán del beneficio establecido en el párrafo anterior; en caso de contar con capacidad económica para cubrir la contraprestación, de acuerdo con el estudio respectivo, solamente pagarán el nivel mínimo del tabulador vigente de cuotas de recuperación.
+Las personas con discapacidad que pertenezcan a población abierta también gozarán del beneficio establecido en el párrafo anterior; en caso de contar con capacidad económica para cubrir la contraprestación, de acuerdo con el estudio respectivo, solamente pagarán el nivel mínimo del tabulador vigente de cuotas de recuperación. El Estado garantizará la rehabilitación y habilitación de las personas que viven con discapacidad permanente, dando prioridad a las personas menores de dieciocho años de edad, en los términos que fije la ley.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2026)</small>
+
+El Estado, en coparticipación con la Federación, garantizarán la entrega de una pensión no contributiva a las personas con discapacidad permanente menores de sesenta y cinco años, en los términos que fije la ley.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -679,6 +683,10 @@ Por cada diputada o diputado propietario electo por el principio de mayoría rel
 
 Al efecto, el Estado se dividirá en dieciséis distritos electorales uninominales, cuya demarcación será determinada por el Instituto Nacional Electoral con base en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales, y una circunscripción plurinominal que comprenderá la extensión territorial del Estado.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2026)</small>
+
+En la integración y funcionamiento del Congreso se deberá garantizar los principios de paridad, igualdad sustantiva y perspectiva de género.
+
 Artículo 25
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
@@ -715,9 +723,9 @@ II. Tener inscripción en la lista nominal de electores;
 
 III. No estar en servicio activo de las Fuerzas Armadas o de los cuerpos de seguridad pública, a menos que se separe de él por lo menos un día antes del inicio del registro de candidatura;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2026)</small>
 
-IV. No ser Magistrada o Magistrado del Tribunal Superior de Justicia; Titular de una Secretaría de la Administración Pública, de la Consejería Jurídica, de la Fiscalía General del Estado, o Presidente Municipal del lugar donde se realicen las elecciones, ni desempeñarse como Juez o Jueza Federal de Distrito en el Estado, a menos que se separe del cargo por lo menos un día antes del inicio de registro de candidaturas;
+IV. No ser Magistrada o Magistrado del Tribunal Superior de Justicia; Titular de una Secretaría o Subsecretaría de la Administración Pública, de la Consejería Jurídica, de la Fiscalía General del Estado, ni desempeñarse como Juez o Jueza Federal de Distrito en el estado, a menos que se separe del cargo por lo menos un día antes del inicio de registro de candidaturas;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -727,13 +735,19 @@ V. No ser Presidenta o Presidente Municipal en el lugar donde se realicen las el
 
 VI. No ser Ministro o Ministra de algún culto religioso.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2026)</small>
 
-Las ciudadanas o ciudadanos que sean elegidos para desempeñar el cargo de Diputado o Diputada Propietaria tendrán derecho a ser electos consecutivamente para el mismo cargo, por un periodo adicional. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+VII. No estar comprendido en alguno de los impedimentos que señala el penúltimo párrafo del presente artículo; y
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2026)</small>
 
-En el caso de elección consecutiva no será requisito separarse del cargo.
+VIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2026)</small>
+
+Las personas diputadas del Congreso del Estado no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE MAYO DE 2026)</small>
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -997,6 +1011,10 @@ III. Aprobar anualmente, a más tardar el 30 de noviembre y, en su caso, hasta e
 
 Si en las fechas mencionadas no se han aprobado los ordenamientos referidos, quedarán en vigor, en forma provisional y sin modificaciones, los del año en curso, hasta en tanto sean aprobados los nuevos.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2026)</small>
+
+El presupuesto anual del Congreso no excederá del cero punto setenta por ciento del Presupuesto de Egresos del Estado.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 Artículo 36
@@ -1215,13 +1233,21 @@ V. No ser Ministra o Ministro de algún culto religioso;
 
 VI. No estar en servicio activo de las Fuerzas Armadas y de los cuerpos de seguridad pública, a menos que se separe de la función por lo menos un día antes del inicio del registro de candidaturas.
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2026)</small>
 
-VII. No ocupar la titularidad de una secretaría de la Administración Pública, de la Consejería Jurídica, de la Fiscalía General, Magistratura del Tribunal Superior de Justicia o Presidencia Municipal, a menos que se separe del cargo por lo menos un día antes del inicio del registro de candidaturas;
+VII. No ocupar la titularidad de una secretaría o subsecretaría de la Administración Pública, de la Consejería Jurídica, de la Fiscalía General, Magistratura del Tribunal Superior de Justicia o Presidencia Municipal, a menos que se separe del cargo por lo menos un día antes del inicio del registro de candidaturas;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
 
 VIII. No haberse desempeñado como Gobernadora o Gobernador del Estado de Colima electo popularmente, o de otra entidad federativa, ni como Jefa o Jefe de Gobierno de la Ciudad de México, o haber ejercido cualquier otra atribución relacionada con las mismas funciones.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2026)</small>
+
+IX. No estar comprendido en alguno de los impedimentos previstos en el artículo 54 de esta Constitución; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2026)</small>
+
+X. No tener o haber tenido en los últimos tres años anteriores al día de la elección, un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
@@ -1499,9 +1525,9 @@ III. Imponer contribución alguna, a no ser que esté extraordinariamente facult
 
 IV. Ocupar la propiedad de persona alguna, ni perturbarla en la posesión, uso o aprovechamiento, sino en los términos que prevenga la ley;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2026)</small>
 
-V. Intervenir en las elecciones para que recaigan en determinada persona, ya sea por sí o por medio de otras autoridades o agentes, siendo este motivo de nulidad de la elección y causa de responsabilidad;
+V. Intervenir en las elecciones para que recaigan en determinada persona, siendo este motivo de nulidad de la elección y causa de responsabilidad;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
 
@@ -2231,9 +2257,9 @@ Durante el tiempo que comprendan las campañas electorales locales y hasta la co
 
 II. La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidaturas a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales, además de las sanciones para quienes las infrinjan.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2026)</small>
 
-La duración de las campañas no deberá exceder de noventa días para la elección de la gubernatura, ni de sesenta días cuando se elijan diputaciones locales, ayuntamientos, magistraturas o judicaturas del Poder Judicial; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales. En ningún caso habrá etapa de precampaña para los cargos de elección popular del Poder Judicial.
+La duración de las campañas no deberá exceder de sesenta días para la elección de la gubernatura, diputaciones locales, ayuntamientos, magistraturas o judicaturas del Poder Judicial; las precampañas no podrán durar más de las dos terceras partes de las campañas electorales. En ningún caso habrá etapa de precampaña para los cargos de elección popular del Poder Judicial.
 
 La violación de estas disposiciones por los partidos o cualquier otra persona física o moral será sancionada conforme a la ley;
 
@@ -2427,15 +2453,15 @@ Artículo 90
 
 El Estado de Colima adopta para su régimen interior la forma de gobierno republicano, representativo y popular, y tiene al Municipio Libre como base de su división territorial y de su organización política y administrativa, conforme a las siguientes bases:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2026)</small>
 
-I. Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una Presidenta o Presidente Municipal, una Síndica o Síndico y Regidoras y Regidores propietarios y suplentes, en los términos de esta Constitución, electos y electas de conformidad con la ley electoral.
+I. Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una Presidenta o Presidente Municipal, una Síndica o Síndico y Regidoras y Regidores propietarios y suplentes, en los términos de esta Constitución, electos y electas de conformidad con la ley electoral, y con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal.
 
 La competencia que la Constitución Federal y esta Constitución otorgan al gobierno municipal, será ejercida exclusivamente por el Ayuntamiento y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2026)</small>
 
-Las presidentas y presidentes municipales, las síndicas y los síndicos, así como las regidoras y los regidores de los ayuntamientos de elección popular directa durarán tres años en su cargo y tendrán derecho a ser electos consecutivamente para el mismo cargo por un periodo adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hayan postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas en el mismo cargo para el período inmediato.
+Las presidentas y presidentes municipales, las síndicas y los síndicos, así como las regidoras y los regidores de los ayuntamientos de elección popular directa durarán tres años en su cargo y no podrán ser electas consecutivamente para el mismo cargo. Las personas que tengan el carácter de suplentes en los cargos antes mencionados podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas en el mismo cargo para el periodo inmediato.
 
 En caso de que no se realicen las elecciones municipales o éstas se declaren nulas, el Congreso designará un Concejo Municipal que estará en funciones hasta que tomen posesión los integrantes del Ayuntamiento que hayan sido electos en los comicios extraordinarios.
 
@@ -2667,13 +2693,19 @@ VI. No ser ministra o ministro de algún culto religioso en los términos que es
 
 VII. No ser integrante de los organismos electorales, en los términos que señale la ley de la materia;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+VIII. (DEROGADA, P.O. 30 DE MAYO DE 2026)
 
-VIII. No ser Presidenta o Presidente Municipal a menos que se separe del cargo dentro de los cinco días anteriores al inicio del periodo de registro de candidaturas; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+IX. No ser servidora o servidor público en ejercicio de la Federación, el estado o los organismos descentralizados y empresas de participación estatal o municipal, en las categorías a que se refiere la ley, a menos que se separe del cargo por lo menos un día antes del inicio del periodo de registro de candidaturas;
 
-IX. No ser servidora o servidor público en ejercicio de la Federación, el estado o los organismos descentralizados y empresas de participación estatal o municipal, en las categorías a que se refiere la ley, a menos que se separe del cargo por lo menos un día antes del inicio del periodo de registro de candidaturas.
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2026)</small>
+
+X. No estar comprendido en alguno de los impedimentos que señala el párrafo tercero de la fracción I, del artículo 90 de esta Constitución; y
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2026)</small>
+
+XI. No tener o haber tenido en los últimos tres años anteriores al día de la elección, un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del cargo para el que se postula.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -3289,6 +3321,10 @@ La propaganda que, bajo cualquier modalidad de comunicación social, difundan co
 
 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2026)</small>
+
+Las remuneraciones de las personas consejeras electorales, las magistradas y magistrados electorales, titulares de las secretarías de órganos administrativos y titulares de áreas ejecutivas y técnicas u homólogos del Instituto Electoral del Estado, no excederán el límite establecido en el artículo 142 de esta Constitución y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 Artículo 137
@@ -3333,7 +3369,9 @@ I. Se considera remuneración o retribución toda percepción en efectivo o en e
 
 No forman parte de la remuneración los recursos que perciban las personas servidoras públicas, en términos de ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo, relacionados con jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos, ni los servicios de seguridad y protección especial que requieran las personas servidoras públicas por razón del tipo de cargo que desempeñen;
 
-II. Ninguna persona servidora pública podrá recibir remuneración o retribución, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la que tenga derecho a recibir la persona titular del Poder Ejecutivo Federal por concepto de percepciones ordinarias, sin considerar las prestaciones de seguridad social a las que tenga derecho conforme a la legislación en la materia;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2026)</small>
+
+II. Ninguna persona servidora pública podrá recibir remuneración o retribución, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la que tenga derecho a recibir la persona titular del Poder Ejecutivo Estatal por concepto de percepciones ordinarias, sin considerar las prestaciones de seguridad social a las que tenga derecho conforme a la legislación en la materia;
 
 III. Ninguna persona servidora pública podrá tener una remuneración igual o mayor que su superior jerárquico, excepto en los casos siguientes:
 
@@ -4676,3 +4714,31 @@ P.O. 18 DE ABRIL DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO. El Congreso del Estado de Colima deberá llevar a cabo las reformas a la legislación secundaria que se deriven del presente Decreto para garantizar lo previsto en este, en el plazo de 180 días hábiles a partir de la entrada en vigor del mismo debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
+
+P.O. 30 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 317.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA DE BIENESTAR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. El Congreso del Estado de Colima deberá llevar a cabo las reformas a la legislación secundaria que se deriven del presente Decreto para garantizar lo previsto en este, en el plazo de 180 días hábiles a partir de la entrada en vigor del mismo, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
+
+P.O. 30 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 318.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA DE NO REELECCIÓN, NEPOTISMO ELECTORAL Y AUSTERIDAD".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Las reformas a los artículos 26, fracción VIII; 51, fracción X; y 93, fracción XI de esta Constitución, respecto de la prohibición de nepotismo electoral, serán aplicables a partir del proceso electoral a celebrarse en 2030.
+
+TERCERO. Las reformas a los artículos 26, fracción VII y penúltimo párrafo; 90, fracción I, párrafo tercero, y 93, fracción X, respecto de la prohibición de elección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir del proceso electoral a celebrarse en 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+CUARTO. El Instituto Electoral del Estado y el Tribunal Electoral del Estado revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el presente Decreto, en un plazo no mayor a sesenta días contados a partir de la vigencia del presente Decreto.
+
+El Congreso del Estado, en el ámbito de su competencia, garantizará que los presupuestos de los entes públicos y autoridades electorales se ajusten a lo previsto en los artículos 116 y 134 de la constitución Política de los Estados Unidos Mexicanos, por lo que realizarán en cada ejercicio fiscal los ajustes necesarios a los presupuestos que integren, previo a su aprobación.
+
+QUINTO. El monto del presupuesto anual del Congreso del Estado únicamente podrá actualizarse conforme a la inflación anual.
+
+No podrán aprobar ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas o cualquier otro mecanismo que tenga por objeto o efecto incrementar directamente el presupuesto del Congreso local por encima del límite previsto en la fracción III del artículo 35 de esta constitución.
+
+SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
