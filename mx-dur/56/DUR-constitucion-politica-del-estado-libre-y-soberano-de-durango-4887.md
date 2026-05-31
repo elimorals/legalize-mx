@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2026-02-01"
+last_updated: "2026-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1101,7 +1103,9 @@ El Escudo e Himno de Durango deben estar vinculados a la identidad duranguense, 
 
 Las elecciones de Gobernador del Estado, diputados, e integrantes de los ayuntamientos se realizarán mediante sufragio universal, libre, secreto y directo. La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda. En la postulación de las candidaturas de los partidos políticos a los distintos cargos de elección popular, se observará el principio de paridad de género, de acuerdo con las reglas que para tal efecto determinen las leyes electorales.
 
-Los tiempos de campañas no deberán exceder de sesenta días, la ley fijará su duración; las precampañas no podrán prolongarse más de las dos terceras partes de las respectivas campañas electorales.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2026)</small>
+
+Los tiempos de campañas no deberán exceder de cincuenta días, la ley fijará su duración; las precampañas no podrán prolongarse más de las dos terceras partes de las respectivas campañas electorales.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
@@ -1169,6 +1173,10 @@ En ningún caso, un partido político podrá contar, con un número de diputados
 
 El Congreso del Estado se regirá por los principios de parlamento abierto, por lo que el ejercicio de sus funciones se acompañará de mecanismos para garantizar la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura legislativa, la participación ciudadana y rendición de cuentas. La Ley Orgánica del Congreso establecerá las disposiciones que aseguren el ejercicio de estos principios.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2026)</small>
+
+El Congreso del Estado, administrará sus recursos con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas; el presupuesto anual de la Cámara de Diputados no excederá del cero punto setenta por ciento del presupuesto de egresos del Estado.
+
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
 ###### Artículo 67.
@@ -1231,11 +1239,21 @@ VII. No tener antecedentes penales por violencia familiar, hostigamiento sexual,
 
 VIII. No ser deudora o deudor alimentario moroso.
 
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2026)</small>
+
+IX. No tener, o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación correspondiente al distrito por el que se pretenda postular.
+
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 ###### Artículo 70.
 
-Las y los diputados podrán ser electos de manera consecutiva hasta por cuatro periodos sucesivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2026)</small>
+
+Las diputadas y los diputados no podrán ser reelectos para el periodo inmediato posterior al ejercicio de su mandato.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2026)</small>
+
+Únicamente las personas electas, mediante la figura de suplencia, podrán ser electas para el periodo inmediato con el carácter de propietaria, siempre y cuando no hubiesen ejercido el cargo de forma temporal o definitiva, las personas diputadas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1789,7 +1807,9 @@ IV. No estar en servicio activo, en caso de pertenecer al Ejército, cuando meno
 
 V. No ser Secretaria o Secretario, Subsecretaria o Subsecretario, Consejera o Comisionada, Consejero o Comisionado de un órgano constitucional autónomo, Magistrada o Magistrado del Poder Judicial, integrante del Órgano de Administración del Poder Judicial, Auditora o Auditor Superior del Estado, Presidenta o Presidente Municipal, Síndica o Síndico, Regidora o Regidor del Ayuntamiento, servidor público de mando superior de la Federación, a menos de que se separe de su puesto cuando menos ciento veinte días antes del día de la elección.
 
-VI. No haya sido condenado por la comisión de delito doloso.
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2026)</small>
+
+VI. No haber sido sentenciada o sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos; y por delitos de violencia política contra las mujeres por razones de género.
 
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 2025)</small>
 
@@ -1798,6 +1818,10 @@ VII. No tener antecedentes penales por violencia familiar, hostigamiento sexual,
 > <small>(ADICIONADA, P.O. 6 DE JULIO DE 2025)</small>
 
 VIII. No ser deudora o deudor alimentario moroso.
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2026)</small>
+
+IX. No tener, o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
@@ -2773,6 +2797,10 @@ Las sesiones del Consejo General serán públicas, salvo las excepciones previst
 
 El Instituto contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2026)</small>
+
+Las remuneraciones incluyendo bonos, compensaciones, o cualquier otra forma de percepción que impacte en el ingreso total, de las personas consejeras electorales, titulares de las secretarías, direcciones, jefaturas y demás órganos administrativos del instituto o plazas homologas, será inferior a lo percibido por la persona que ocupe la Gubernatura del Estado, además de que no podrán adquirir o contratar ya sea por sí o por interpósita persona, con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
+
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 140.
@@ -2803,17 +2831,35 @@ El Tribunal Electoral tendrá la competencia que determine la ley, funcionará d
 
 Se integrará por tres Magistrados, que actuarán en forma colegiada y permanecerán en su encargo durante siete años, prorrogables por una sola ocasión. Serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la ley.
 
-Durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional local, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2026)</small>
+
+Las remuneraciones incluyendo bonos, compensaciones, o cualquier otra forma de percepción que impacte en el ingreso total, de las magistraturas electorales, titulares de las secretarías, direcciones, jefaturas y demás órganos administrativos y operativos del Tribunal Electoral, o plazas homologas, será inferior a lo percibido por la persona que ocupa la Gubernatura del Estado, además de que no podrán adquirir o contratar ya sea por sí o por interpósita persona, con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2026)</small>
+
+Durante el periodo de su encargo, las Magistradas y los Magistrados electorales no podrán tener ningún otro empleo, cargo o comisión con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional local, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE MAYO DE 2026)</small>
 
 Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
 
-Los requisitos para ocupar el cargo de Magistrado del Tribunal Electoral, serán los que disponga la ley.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2026)</small>
+
+Los requisitos para ocupar el cargo de Magistrada o Magistrado del Tribunal Electoral, serán los que disponga la ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE MAYO DE 2026)</small>
 
 En caso de presentarse alguna vacante temporal de alguno de los magistrados que componen el Tribunal Electoral, ésta se cubrirá de conformidad con el procedimiento que disponga la ley.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE MAYO DE 2026)</small>
+
 Tratándose de una vacante definitiva de magistrado, ésta será comunicada a la Cámara de Senadores para que se provea el procedimiento de sustitución. Las vacantes temporales que excedan de tres meses, serán consideradas como definitivas.
 
-El Presidente del Tribunal será electo por los mismos magistrados, durará en el cargo tres años. La presidencia será rotativa. La ley establecerá el procedimiento para cubrir las ausencias temporales del Presidente.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2026)</small>
+
+La Presidenta o el Presidente del Tribunal será electo por los mismos magistrados, durará en el cargo tres años. La presidencia será rotativa. La ley establecerá el procedimiento para cubrir las ausencias temporales de la Presidenta o Presidente.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE MAYO DE 2026)</small>
 
 La ley establecerá los impedimentos y las excusas bajo los cuales los Magistrados Electorales deben abstenerse de votar.
 
@@ -2893,37 +2939,47 @@ La Fiscalía Especializada en Combate a la Corrupción, tendrá las atribuciones
 
 ### Capítulo I. Del gobierno municipal
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 147.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2026)</small>
+
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una Presidenta o Presidente Municipal una sindicatura y hasta quince regidurías conforme la ley determine, observando el principio de paridad de género, este principio se aplicará igualmente para la integración de las y los titulares de las secretarías, direcciones o equivalentes de la administración pública municipal.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2026)</small>
+
+Para las personas que ocupen la Presidencia, Sindicatura y Regiduría propietaria, se elegirá un suplente. Todas las regidurías propietarias serán consideradas como representaciones populares, con idéntica categoría e igualdad de derechos y obligaciones. En la elección de los ayuntamientos se contemplará el principio de la representación proporcional.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2022)</small>
 
-Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de regidores y síndicos que la ley determine, observando el principio de paridad de género, este principio se aplicará igualmente para la integración de las y los titulares de las secretarías, direcciones o equivalentes de la administración pública municipal. Para el Presidente Municipal, Síndico y Regidor propietario, se elegirá un suplente. Todos los regidores propietarios serán considerados como representantes populares, con idéntica categoría e igualdad de derechos y obligaciones. En la elección de los ayuntamientos se contemplará el principio de la representación proporcional.
-
 El Ayuntamiento se renovará en su totalidad cada tres años e iniciará sus funciones el primero de septiembre posterior a la elección.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2022)</small>
+
 El gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2022)</small>
 
 Los municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley.
 
 ###### Artículo 148.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2023)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 31 DE MAYO DE 2026, PÁGINA 97.]</small>
 
-Para ser electos presidentes o presidentas, síndicas o síndicos, regidoras o regidores de un Ayuntamiento, se requiere:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2026)</small>
+
+Para ser electos presidentas o presidentes, síndicas o síndicos, regidoras o regidores de un Ayuntamiento, se requiere:
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
 I. Ser ciudadana o ciudadano duranguense, en pleno ejercicio de sus derechos, originario del Municipio y con residencia efectiva de tres años, o ciudadano duranguense con residencia efectiva que no sea menor de cinco años inmediatamente anteriores al día de la elección.
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2026)</small>
 
-II. Ser mayor de veintiún años de edad al día de la elección.
+II. Ser mayor de dieciocho años de edad, al día de la elección.
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2026)</small>
 
-III. En el caso de ser Secretaria, Secretario o Subsecretaria, Subsecretario, Diputada o Diputado en ejercicio, Magistrada, Magistrado, Consejera, Consejero de la Judicatura, Comisionada, Comisionado, Consejera o Consejero de un órgano constitucional autónomo, funcionario municipal de mando superior, servidor público de mando superior de la Federación, o militar en servicio activo, deberá separarse del cargo noventa días antes de la elección.
+III. En el caso de ser Secretaria, Secretario o Subsecretaria, Subsecretario, Diputada o Diputado en ejercicio, Magistrada, Magistrado, Comisionada, Comisionado del Órgano de Administración del Poder Judicial del Estado, de un órgano constitucional autónomo, funcionario municipal de mando superior, servidor público de mando superior de la Federación, o militar en servicio activo, deberá separarse del cargo noventa días antes de la elección.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2023)</small>
 
@@ -2945,15 +3001,21 @@ VI. No tener antecedentes penales por violencia familiar, hostigamiento sexual, 
 
 VII. No ser deudora o deudor alimentario moroso.
 
-> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2022)</small>
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2026)</small>
 
-Para el caso de los funcionarios municipales de mando superior que opten por la elección consecutiva, no será aplicable el periodo de separación del cargo establecido en la fracción III del presente artículo.
-
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+VIII. No tener, o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, siempre que se pretenda postular para el mismo cargo dentro del mismo ayuntamiento.
 
 ###### Artículo 149.
 
-Las y los presidentes municipales, regidores y síndicos de los ayuntamientos, podrán ser electos para el mismo cargo por un periodo adicional, siempre y cuando el periodo del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2026)</small>
+
+Las y los presidentes municipales, regidores y síndicos de los ayuntamientos, no podrán ser electos para el periodo inmediato posterior al ejercicio de su mandato.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2026)</small>
+
+Únicamente las personas electas, mediante la figura de suplencia, podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre y cuando no hubiesen ejercido el cargo de forma temporal o definitiva. Las personas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
 La Presidenta o el Presidente del Ayuntamiento es el representante jurídico del mismo y tiene el carácter de ejecutor de las resoluciones y acuerdos del propio cuerpo edilicio.
 
@@ -5288,3 +5350,15 @@ DECRETO 267 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 20; SE ADICIO
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 31 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 426 QUE CONTIENE REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA ELECTORAL”.]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Las disposiciones respecto a la no reelección y nepotismo electoral contenidas en los artículos 69, 70, fracción IX del 91, 147,148 y 149 serán aplicables a partir del año 2030, conforme a lo dispuesto por el decreto por el que se reforma y adicionan los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral publicado en el Diario Oficial de la Federación de fecha martes 1 de abril de 2025 en su Edición Vespertina.
+
+TERCERO.- El porcentaje establecido en el último párrafo del artículo 66 del presente decreto, deberá ser ajustado a partir del inicio de la LXXI Legislatura del H. Congreso del Estado.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente decreto.
