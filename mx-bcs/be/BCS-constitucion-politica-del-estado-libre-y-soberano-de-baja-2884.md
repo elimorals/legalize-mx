@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2025-09-17"
+last_updated: "2026-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2026.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -324,6 +324,10 @@ Toda persona tiene derecho al acceso, disposición y saneamiento de agua para co
 > <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 Todos los habitantes del Estado tienen derecho a disfrutar de una vivienda digna, de calidad y sustentable, que sea la base de su patrimonio familiar, como objetivo de la permanente superación del nivel de vida de la población. Para tal efecto el Gobierno del Estado y los Gobiernos Municipales, deberán implementar políticas y programas de acceso a la vivienda; desarrollaran planes de financiamiento para la construcción de viviendas de interés social, en colaboración con el Gobierno Federal; inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones aplicables; y deberán garantizar la dotación de servicios públicos, en coordinación con los Municipios.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+En el Estado de Baja California Sur queda prohibido el maltrato a los animales. El Estado garantizará la protección, el trato adecuado, la conservación y el cuidado de los animales, en los términos que señalen las leyes respectivas.
 
 > <small>[N. DE E. POR DECRETO DE REFORMAS NÚMERO 2345 PUBLICADO EN EL B.O. DE 27 DE ABRIL DE 2016, LOS ANTERIORES PÁRRAFOS OCTAVO Y NOVENO CON SUS FRACCIONES PASAN A SER APARTADO "A".]</small>
 
@@ -5060,3 +5064,9 @@ B.O. 17 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 3155 SE ADICIONA UN TÍTULO OCTAVO BIS DENOMINADO: DE LAS RELACIONES JURÍDICAS DE TRABAJO ENTRE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR Y LOS TRABAJADORES A SU SERVICIO, CON UN CAPÍTULO ÚNICO DENOMINADO: BASES GENERALES Y UN ARTÍCULO 155 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3284 SE ADICIONA UN PÁRRAFO OCTAVO AL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
