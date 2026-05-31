@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2026-05-14"
+last_updated: "2026-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2026.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -293,9 +293,11 @@ En caso de concurso de delitos se estará a lo dispuesto en el artículo 82 de e
 
 ### CAPÍTULO V. CAUSAS DE EXCLUSIÓN DEL DELITO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MAYO DE 2026)</small>
+
 ###### Artículo 31.
 
-Causas de exclusión del delito. El delito se excluye cuando:
+Causas de exclusión del delito. El delito se excluye cando (sic):
 
 I. Ausencia de conducta como una causa de atipicidad. La actividad o la inactividad se realicen sin intervención de la voluntad del agente;
 
@@ -323,7 +325,29 @@ VI. Legítima defensa como causa de justificación. Se repela una agresión real
 
 Se presume que existe legítima defensa, salvo prueba en contrario, cuando se cause un daño a quien por cualquier medio trate de penetrar o penetre, sin derecho, al lugar en que habite de forma temporal o permanente el que se defiende, al de su familia o al de cualquier persona respecto de las que el agente tenga la obligación de defender, a sus dependencias o al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación. Igual presunción existirá cuando el daño se cause a un intruso al momento de sorprenderlo en alguno de los lugares antes citados en circunstancias tales que revelen la posibilidad de una agresión.
 
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+También se presumirá la legítima defensa, salvo prueba en contrario, en caso de que la mujer sea víctima de violencia física, sexual o feminicida, o en el hecho haya estado en peligro de serlo y repela la agresión. En estos casos el Ministerio Publico o el órgano jurisdiccional, según corresponda, deberán actuar con perspectiva de género para determinar la procedencia de la legítima defensa. Mismo criterio se aplicará cuando una tercera persona actúe en defensa de ella.
+
 En los casos de agresiones provenientes de menores de 18 años se evitará lesionar al agresor y sólo se ejercerá la defensa necesaria ante ataques graves. La contravención a esta disposición será considerada un exceso en la legítima defensa conforme a lo dispuesto en el artículo 87 de este Código;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2026)</small>
+
+VI Bis. Legítima defensa como causa de justificación en mujeres víctimas de violencia doméstica o familiar. Es obligación de las juezas y jueces y de las magistradas y magistrados de juzgar con perspectiva de género los casos de lesiones o privación de la vida de los sujetos pasivos de estos delitos, aun en grado de tentativa, cometidos por mujeres víctimas de violencia doméstica o familiar tomando en consideración los indicios que se desprendieron de las pruebas y el contexto de violencia doméstica que padeció la quejosa, generada por el violentador, además, del contexto y circunstancias en el que se presentan la agresión y la respuesta.
+
+El método de juzgar con perspectiva de género debe considerar al menos los siguientes elementos:
+
+a) Se repela una agresión. Debe considerarse que la violencia de género es, por sí misma, una agresión ilegítima y, por tanto, sin derecho, la agresión no se genera sólo cuando existe lesión al bien jurídico tutelado, sino también cuando se pone en peligro;
+
+b) La agresión sea real, actual o inminente. La violencia contra la mujer tiene un carácter continuo y cíclico; por tanto, puede acontecer en cualquier momento, más aún en el ámbito doméstico. Debe considerarse que la víctima viva con el constante temor y preocupación de que en cualquier momento sufrirá agresiones, por eso los ataques hacia su persona son un mal inminente que amerita emplear la defensa;
+
+c) En defensa de bienes jurídicos propios o ajenos. Debe considerarse que la repulsa que resulta de la agresión injusta debe ser en defensa de bienes jurídicos propios o ajenos. Es válido pues, no sólo justificar que una mujer se defienda por sí misma de su agresor, sino también que una tercera persona actúe en su defensa para repeler la agresión de la que es víctima;
+
+d) Que exista la necesidad racional y proporcional de la defensa empleada. La necesidad de la defensa debe evaluarse en orden a la situación particular de la mujer, por un lado y, por otro, al contexto generalizado de violencia. En este sentido, la necesidad de la defensa está asociada a la agresión misma, en la medida en que la defensa es necesaria, porque responde a un hecho continuado que supone ser víctima de violencia. la mujer no está obligada a soportar malos tratos.
+
+En cambio, la proporcionalidad de los medios empleados, bajo un enfoque de género, debe entenderse en un sentido amplio y no estricto. Es preciso considerar factores como las condiciones físicas del agresor (que generalmente lo favorecen), la situación de vulnerabilidad de la víctima, el constante peligro en que se encuentra, entre otros; y,
+
+e) No medie provocación dolosa, suficiente e inmediata por parte del agredido o de su defensor. Al analizarse este elemento, debe despejarse cualquier estereotipo de género, pues no en pocas ocasiones la violencia que sufren las mujeres se convierte en una situación revictimizante, cuando se considera que ella provocó que la agredieran, sea por su comportamiento, por su vestimenta, por estar sola en la noche, entre muchos otros factores.
 
 VII. Estado de necesidad justificante. Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el agente, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo;
 
@@ -341,7 +365,9 @@ XI. Inexigibilidad de otra conducta como causa de inculpabilidad. En atención a
 
 Las causas de exclusión del delito se resolverán de oficio en cualquier etapa del procedimiento.
 
-Si en los casos de las fracciones VI, VII, VIII y X de este artículo la persona se excediere, se atenderá a lo previsto en el artículo 87 de este Código.
+> <small>(REFORMADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Si en los casos de las fracciones VI, VI BIS, VII, VIII y X de este artículo la persona se excediere, se atenderá a lo previsto en el artículo 87 de este Código.
 
 ## TÍTULO CUARTO. CONSECUENCIAS JURÍDICAS DEL DELITO
 
@@ -886,6 +912,10 @@ Si el error vencible es el previsto en el inciso b) de la misma fracción, se im
 ###### Artículo 87.
 
 Exceso en las causas de justificación y de inculpabilidad. A quien incurra en exceso en los casos previstos en las fracciones VI, VII, VIII y X del artículo 31 de este Código, se le impondrá la cuarta parte de la pena o medida de seguridad correspondiente al delito de que se trate, siempre que con relación al exceso no se actualice otra causa de exclusión del delito.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+No se considerará exceso en la legítima defensa cuando la mujer sea víctima de violencia física, sexual o feminicida, o en el hecho haya estado en peligro de serlo y al momento en que ésta se concretice acredite haber estado en un estado (sic) miedo o terror o se encuentren en un estado de confusión que afecte su capacidad para determinar el límite adecuado de su respuesta o la racionalidad de los medios empleados.
 
 ### CAPÍTULO VII. SUSTITUCIÓN DE PENAS
 
@@ -3847,15 +3877,31 @@ Abandono del servicio médico. A quien teniendo la calidad de médico y habiénd
 
 Cuando derivada de la desatención en que se deje al paciente el estado de salud de éste se agrave o se ponga en peligro su vida, se le impondrá de cuatro a siete años de prisión, multa de doscientos a cuatrocientos días, y suspensión para ejercer la profesión por un tiempo igual al de la pena de prisión impuesta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE MAYO DE 2026)</small>
+
 ###### Artículo 343.
 
-Práctica indebida del servicio médico. Se impondrán de tres a ocho años de prisión y multa de doscientos a quinientos días, a quien teniendo la calidad de médico:
+Práctica indebida del servicio médico. Se impondrán de tres a ocho años de prisión y multa de mil a cinco mil días multa, suspensión o privación de derechos e inhabilitación o destitución, hasta por un tiempo igual a la pena de prisión impuesta, a quien teniendo la calidad de médico:
 
-I. Realice una operación quirúrgica innecesaria;
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2026)</small>
+
+I. Ponga en peligro la vida del enfermo o cause la pérdida de la vida, de un miembro o afecte la integridad de una función vital realizando una operación quirúrgica innecesaria;
 
 II. Simule la práctica de una intervención quirúrgica; o
 
 III. Sin autorización del paciente o de quien legítimamente pueda otorgarla, salvo en casos de urgencia, realice una operación quirúrgica que por su naturaleza ponga en peligro la vida del enfermo o cause la pérdida de un miembro o afecte la integridad de una función vital.
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2026)</small>
+
+IV. Engañando a alguien o aprovechándose del error en que éste se halle, proporcione servicios médicos o consultas con propósitos de lucro.
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2026)</small>
+
+V. Realice un procedimiento quirúrgico de orden estético en personas menores de edad, sin contar con la autorización expresa de los padres y/o tutores y que no sea con fines estrictamente reconstructivos para mejorar la calidad de vida.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Para los efectos de la autorización referida en la fracción anterior, esta debe ser otorgada por quienes comprueben que ejercen la patria potestad o en su caso por quien funja como tutor legal de la persona menor de edad, en ambos casos, previo dictamen médico que justifique la necesidad de la cirugía y dictamen psicológico que certifique la madurez física y emocional suficiente de la persona menor de edad para comprender sus implicaciones y riesgos.
 
 ### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN Y MEDIOS DE TRANSPORTE
 
@@ -5190,3 +5236,31 @@ Artículo Primero: El presente Decreto entrará en vigor al día siguiente al de
 Artículo Segundo: Los procedimientos penales que se hayan iniciado antes de la entrada en vigor del presente decreto deberán concluirse aplicando la legislación penal vigente en el momento de la comisión del delito.
 
 Artículo Tercero: Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+B.O. 31 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3279 SE REFORMA EL ÚLTIMO PÁRRAFO AL ARTÍCULO 31 Y SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN VI, RECORRIENDOSE LA SUBSECUENTE Y LA FRACCIÓN VI BIS AL ARTÍCULO 31; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 87, TODAS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+B.O. 31 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3281 SE REFORMA EL ARTÍCULO 343 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito del contemplado en el presente Decreto con anterioridad a su entrada en vigor, le serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
