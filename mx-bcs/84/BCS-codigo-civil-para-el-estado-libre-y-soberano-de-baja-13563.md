@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2026-02-05"
+last_updated: "2026-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2026.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -455,9 +455,13 @@ El nombre de las personas físicas se constituye con el nombre propio y los apel
 
 El nombre propio no se constituirá con palabras denigrantes o números que afecten la dignidad del registrado.
 
+> <small>(REFORMADO, B.O. 31 DE MAYO DE 2026)</small>
+
 ###### Artículo 72.
 
-La madre tiene la obligación de reconocer a su hijo. Si al registrarse el nacimiento de un hijo extramatrimonial ésta no comparece, se dará vista al Ministerio Público para que inicie oficiosamente la investigación de la maternidad ante los tribunales.
+Las personas progenitoras tienen la obligación de reconocer a sus hijos. En el registro del nacimiento, la madre o el padre podrán reconocer al hijo en el acto. Si la persona que deba comparecer para el reconocimiento no lo hiciere, el Oficial del Registro Civil dará vista a la autoridad competente.
+
+Los actos de reconocimiento podrán ser objeto de impugnación por la vía judicial correspondiente, con las garantías del debido proceso y respetando en todo momento el interés superior de la niñez.
 
 ###### Artículo 73.
 
@@ -469,7 +473,7 @@ Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solici
 
 ###### Artículo 75.
 
-Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Oficial del Registro Civil asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoriada excluyendo la paternidad.
+·(DEROGADO, B.O. 31 DE MAYO DE 2026)
 
 ###### Artículo 76.
 
@@ -2605,7 +2609,7 @@ El cónyuge podrá reconocer al hijo habido antes de su matrimonio sin el consen
 
 ###### Artículo 386.
 
-El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoriada se haya declarado que no es hijo suyo.
+(DEROGADO, B.O. 31 DE MAYO DE 2026)
 
 ###### Artículo 387.
 
@@ -16462,3 +16466,9 @@ B.O. 5 DE FEBRERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 3037 SE ADICIONAN LOS ARTÍCULOS 1529, 1531 Y 2252 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3283 SE REFORMA EL ARTÍCULO 72 Y SE DEROGAN LOS ARTÍCULO (SIC) 75 Y 386 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
