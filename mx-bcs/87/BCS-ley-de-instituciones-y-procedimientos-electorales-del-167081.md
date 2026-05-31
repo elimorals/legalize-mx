@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-instituciones-y-procedimientos-electorales-del-167081"
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-26"
-last_updated: "2025-11-21"
+last_updated: "2026-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2026.
 
 Ley publicada en el Extraordinario No. 44 del Boletín Oficial del Gobierno del Estado de Baja California Sur, el miércoles 26 de julio de 2023.
 
@@ -104,6 +104,10 @@ XVI. Consejo Municipal: Consejo Municipal Electoral del Instituto Estatal Electo
 XVII. Constitución Local: Constitución Política del Estado Libre y Soberano de Baja California Sur;
 
 XVIII. Constitución General: Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, B.O. 31 DE MAYO DE 2026)</small>
+
+XVIII BIS. Defensoría Pública Electoral: Defensoría Pública Electoral del Tribunal Estatal Electoral de Baja California Sur
 
 XIX. Discapacidad: Es la consecuencia de la presencia de una deficiencia o limitación permanente en una persona ya sea hereditaria, congénita, progresiva y/o accidental, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con las demás personas;
 
@@ -1283,7 +1287,9 @@ I. Conocer y resolver de los asuntos de su competencia, interpuestos de conformi
 
 II. Emitir los acuerdos que resulten necesarios para garantizar el debido funcionamiento del Pleno, en todo aquello que no esté previsto expresamente en la presente Ley;
 
-III. Elaborar su reglamento interno;
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2026)</small>
+
+III. Elaborar su reglamento interno y las modificaciones que considere necesarias para su operación;
 
 IV. Fijar los criterios de observancia obligatoria, cuando haya sentado jurisprudencia después de haberse dictado tres resoluciones en el mismo sentido, no interrumpidas por ninguna en contrario;
 
@@ -1295,9 +1301,13 @@ VII. Autorizar la celebración de convenios de colaboración con otros tribunale
 
 VIII. Discutir y aprobar el proyecto de presupuesto anual de egresos del Tribunal, enviarlo al titular del Poder Ejecutivo del Estado para su inclusión en el presupuesto de egresos que aprueba el Congreso; A través de la persona titular de la presidencia, ejercer el presupuesto de egresos del Tribunal;
 
-IX. Brindar de manera gratuita el servicio de orientación y asesoría en materia electoral a la ciudadanía en general en los términos de la Constitución, la presente Ley y la normatividad aplicable; y
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2026)</small>
 
-X. Las demás que le señale la Ley General, la Constitución local, esta Ley y otras disposiciones legales que sean aplicables.
+IX. Orientar a la ciudadanía que integre grupos de atención prioritaria, a efecto de que se le brinde de manera gratuita el servicio de asesoría en materia electoral, a través de la defensoría pública electoral, en los términos de la Constitución, la presente ley y la normatividad aplicable; y
+
+> <small>(REFORMADA, B.O. 31 DE MAYO DE 2026)</small>
+
+X. Las Demás que le señale la Ley General, la Constitución Local, esta ley y otras disposiciones legales que sean aplicables.
 
 2. Todas las sesiones de las autoridades electorales jurisdiccionales locales serán públicas.
 
@@ -4753,6 +4763,172 @@ Artículo 328
 
 1. Los recursos económicos para la celebración de los procesos de referéndum, plebiscito y consulta ciudadana serán ministrados al Instituto por la persona titular del Poder Ejecutivo, y en el caso de asuntos municipales por el ayuntamiento correspondiente; de acuerdo al presupuesto y solicitud que les sea presentado por el Consejo General del Instituto.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE MAYO DE 2026)</small>
+
+## TÍTULO DÉCIMO OCTAVO. De la defensa de los derechos político-electorales
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE MAYO DE 2026)</small>
+
+### CAPÍTULO ÚNICO. De la Defensoría Pública Electoral
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 329
+
+El Tribunal Electoral contará con una Defensoría Pública Electoral, la cual contará con autonomía técnica y operativa, cuya finalidad es brindar de manera gratuita a la ciudadanía, los servicios de asesoría y defensa de sus derechos Político Electorales a los que refiere esta Ley, así como a las disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 330
+
+Los servicios que prestaran los profesionales que pertenezcan a esta instancia se guiaran bajo los principios de probidad, legalidad, calidad, certeza, eficiencia, economía, eficacia, objetividad, máxima publicidad, austeridad, honestidad, honradez, imparcialidad, independencia, profesionalismo, rendición de cuentas y transparencia.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 331
+
+La Defensoría Pública Electoral, tendrá como finalidad garantizar el acceso efectivo a la justicia electoral de los ciudadanos pertenecientes a grupos de atención prioritaria para el trámite, seguimiento y acompañamiento de denuncias, quejas, procedimientos y juicios previstos en esta Ley, hasta su resolución definitiva.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 332
+
+Los servicios que preste la Defensoría Pública Electoral se prestarán exclusivamente a las personas pertenecientes a grupos de atención prioritaria dentro del ámbito local, con el propósito de garantizarles su acceso efectivo a la justicia electoral, quedando exceptuada la materia federal, los partidos políticos o sus representantes legales.
+
+La representación que se realice por los Defensores se hará únicamente ante el Tribunal Electoral del Estado de acuerdo con esta Ley, lo que establezca en el Reglamento Interior de la Defensoría y, en su caso, el del Tribunal Electoral del Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 333
+
+El servicio de la Defensoría, se prestará a petición de parte interesada.
+
+Cuando la Defensoría brinde protección y defensa a personas integrantes de pueblos y comunidades indígenas o afro mexicanos que no hablen español y se comuniquen en alguna lengua indígena, se les deberá garantizar de manera gratuita la asistencia de una persona intérprete o traductora que facilite la comunicación y les informe, en su propia lengua, sobre las etapas, actuaciones y documentos relacionados con el procedimiento correspondiente.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 334
+
+La Defensoría se integrará por el personal siguiente:
+
+I. Un Titular, el cual deberá cumplir con los requisitos que contempla esta ley;
+
+II. Las Personas defensoras que, de conformidad a la disponibilidad presupuestal se determine, quienes prestaran los servicios de representación jurídica y asesoría; y,
+
+III. El personal administrativo necesario para el cumplimiento de sus atribuciones.
+
+Cuando inicie el año electoral correspondiente, se podrá contar con personal adicional para bridar el servicio que se requiera. En las designaciones que se realicen bajo este supuesto se deberá garantizar la paridad de género.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 335
+
+Para ser el titular de la Defensoría se deberá contar con treinta años al día de su designación y una experiencia mínima comprobable de cinco años en área afines al derecho electoral y de los derechos humanos y deberá reunirse los siguientes requisitos:
+
+I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Contar con título y cédula profesional de Licenciatura en Derecho o ciencias jurídicas;
+
+III. No ser dirigente o militante de algún partido político en los cinco años previos a su designación;
+
+IV. No haber sido sancionado con destitución o inhabilitación administrativa por conducta grave;
+
+V. No haber ocupado un cargo de elección popular, ni haber sido registrada o registrado como candidata o candidato, en los últimos cinco años antes de su designación; y,
+
+VI. No estar inscrito en el Registro Nacional de Obligaciones Alimentarias.
+
+La persona titular de la Defensoría será designada mediante el voto de las dos terceras partes de los integrantes de la legislatura en funciones, de entre una terna propuesta por la comisión Permanente de Asuntos Políticos, resultado de los tres mejores perfiles que se hayan registrado con motivo de la convocatoria pública que al efecto se haya emitido, y durará en su encargo cuatro años, sin la posibilidad de reelegirse.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 336
+
+La Defensoría Pública electoral deberá actuar con la máxima diligencia, y cuidado en la protección de los derechos de las personas usuarias de sus servicios, garantizando la debida reserva y confidencialidad de la información y de los datos personales que conozca con motivo de la prestación de servicios de defensa, representación o asesoría electoral, en observancia de las disposiciones legales aplicables en la materia.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 337
+
+Son atribuciones de la persona titular de la Defensoría:
+
+I. Diseñar e implementar el programa anual sobre difusión de los derechos electorales de la ciudadanía en el Estado de Baja California Sur y de los servicios que presta, considerando prioritariamente la defensa de los derechos de las mujeres, y de los grupos prioritarios considerados en esta ley.
+
+II. Coordinar, vigilar y dar seguimiento a los asuntos y servicios que presta la Defensoría;
+
+III. Emitir dictámenes, acuerdos o resoluciones fundadas y motivadas en los que se justifique la prestación o no de los servicios solicitados;
+
+IV. Coadyuvar en la organización y participación en foros y reuniones, con la finalidad de promover la difusión, el desarrollo y la defensa de los derechos electorales en el Estado de Baja California Sur;
+
+V. Celebrar convenios con instituciones públicas y privadas, que puedan ayudar al cumplimiento de las funciones de la Defensoría; y,
+
+VI. Las demás que establezca el Reglamento Interior de la Defensoría Pública Electoral, el reglamento Interno del Tribunal estatal electoral del estado y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 338
+
+Para ser Defensora o Defensor se deberán cumplir con los mismos requisitos establecidos para el titular y tendrán las funciones siguientes:
+
+I. Desahogar y brindar la atención a las solicitudes de consultas que le sean formuladas, por personas de grupos de atención prioritaria orientando sobre la naturaleza, contenido y los alcances de sus derechos;
+
+II. Representar y asesorar en lo individual o de forma colectiva, a las personas que formen parte de los grupos de atención prioritaria, velando por la protección de sus intereses en los procesos jurisdiccionales que se tramiten;
+
+III. Dar seguimiento a los procesos en que intervengan, e informar periódicamente a sus asesorados del estado procesal que guarden los mismos:
+
+IV. Requerir a sus representados y allegarse de todos los elementos que se consideren necesarios para ejercer debidamente sus atribuciones;
+
+V. Presentar, promover e interponer ante el Tribunal los actos, promociones, y recursos necesarios para defender y salvaguardar los derechos electorales:
+
+VI. Llevar a cabo un registro de los expedientes de los procedimientos o asuntos en los que intervengan;
+
+VII. Procurar la utilización de los métodos alternos para la conciliación de intereses ante las partes en los asuntos que asesoren, priorizando el interés superior de su representado; y,
+
+VIII. Las demás que establezca las disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 339
+
+La Defensoría se abstendrá de intervenir en los supuestos siguientes:
+
+I. Cuando sus servicios sean solicitados por una persona que no se auto adscriba como parte de un grupo de atención prioritaria;
+
+I (SIC). Cuando no se encuentren facultados para ello.
+
+II. Cuando los servicios se estén prestando en forma gratuita por institución pública o privada distinta a la Defensoría; y
+
+III. Cuando técnica y procesalmente resulte inviable la prestación de los servicios;
+
+La abstención de actuar de la Defensoría deberá sustentarse plenamente en un dictamen, acuerdo o resolución debidamente fundado y motivado, propuesto por la Defensora o el Defensor correspondiente y aprobado por el titular, lo cual se hará del conocimiento de Pleno del Tribunal Electoral estableciendo claramente su impedimento.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 340
+
+Los servicios de la Defensoría dejarán de prestarse a los solicitantes cuando:
+
+I. Cuando se advierta que la persona solicitante no pertenece a alguno de los grupos de atención prioritaria previstos en la Ley.
+
+II. Por petición expresa de quien solicitó el servicio, en el sentido de que no tiene interés de que se siga con el procedimiento;
+
+III. Cuando dolosamente proporcionen datos falsos ante la autoridad;
+
+IV. Por causa grave debidamente justificada; y,
+
+V. Cuando se incurra en actos de violencia, amenaza o injuria en contra de la defensoría en los casos de las fracciones anteriormente mencionadas; el personal de la defensoría quedarán exentos de toda responsabilidad por motivo de la no continuidad en la prestación de los servicios.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 341
+
+Al titular de la Defensoría, así como a las y los Defensores, les estará prohibido, recibir o exigir una contraprestación por los servicios de la Defensoría, así como desempeñar otro empleo, cargo o comisión remunerados en alguno de los tres órdenes de gobierno, salvo el desempeño de actividades docentes y de investigación.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 342
+
+Los servidores públicos adscritos a la defensoría Pública Electoral deberán abstenerse de realizar cualquier acto a través de ellos o de un tercero que viole cualquier conducta que sancione la Ley.
+
 T R A N S I T O R I O S
 
 PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
@@ -4876,3 +5052,23 @@ DÉCIMO SEGUNDO. En tanto entre en funciones el Instituto de Transparencia para 
 DÉCIMO TERCERO. Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente decreto.
 
 DÉCIMO CUARTO. A partir de la entrada en vigor del presente Decreto, toda mención realizada a la Contraloría General, contenidas en cualquier disposición normativa, reglamentaria, administrativa, así como en convenios, acuerdos, programas, lineamientos y cualquier otro documento con carácter legal vigente, se entenderá referida a la Secretaría de la Contraloría y Transparencia Gubernamental del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3287 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA SUR, PARA LA CREACIÓN DE LA DEFENSORÍA PÚBLICA ELECTORAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigor el día de su publicación en el boletín oficial del gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La designación del titular de la Defensoría Pública Electoral deberá realizarse en un plazo no mayor a 30 días naturales siguiente a la entrada en vigor de este decreto.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que se haya nombrado a la persona Titular de la Defensoría Pública Electoral, éste tendrá un plazo de 30 días naturales para presentar al pleno del Tribunal, el Reglamento Interior de la Defensoría, para su aprobación.
+
+###### ARTÍCULO CUARTO.
+
+Una vez entrado en vigor el reglamento, el Titular de la Defensoría Electoral proveerá la contratación del personal pertinente.
