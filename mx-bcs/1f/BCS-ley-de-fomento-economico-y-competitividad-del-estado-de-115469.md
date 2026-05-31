@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fomento-economico-y-competitividad-del-estado-de-115469"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-30"
-last_updated: "2016-06-30"
+last_updated: "2026-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE FOMENTO ECONÓMICO Y COMPETITIVIDAD DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2026.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 30 de Junio de 2016.
 
@@ -206,6 +206,50 @@ XII. Den empleo directo a personas jóvenes entre los 18 y 29 años de edad, sin
 XIII. Fomenten la integración de cadenas productivas, y
 
 XIV. Realicen nuevas inversiones o amplíen sus instalaciones, generando con su actividad nuevos empleos permanentes.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 7 BIS.- DEL DISTINTIVO ESTATAL "EMPRESA LIBRE DE VIOLENCIA" El Ejecutivo del Estado establecerá el Distintivo Estatal "Empresa Libre de Violencia", con el objeto de reconocer a las empresas que adopten políticas internas, protocolos y acciones orientadas a prevenir, atender o erradicar la violencia, el acoso y el hostigamiento, en el ámbito laboral.
+
+Para obtener el distintivo, las empresas deberán cumplir, al menos, con:
+
+I. Su Código de conducta y política de cero tolerancia.
+
+II. Protocolo interno para quejas y denuncias.
+
+III. Capacitación anual en igualdad de género, acoso laboral y hostigamiento sexual.
+
+IV. Mecanismos confidenciales y seguros para denuncias internas, y (SIC) V. Evaluación anual y plan de mejora continua.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 7 TER.- INCENTIVOS PARA EMPRESAS CON EL DISTINTIVO "EMPRESA LIBRE DE VIOLENCIA" Las empresas certificadas podrán acceder a:
+
+I. Prioridad en programas de fomento económico.
+
+II. Reconocimientos oficiales del Ejecutivo por responsabilidad social empresarial.
+
+III. Criterios preferenciales en compras públicas estatales.
+
+IV. Participación en cadenas de valor y programas de desarrollo empresarial.
+
+V. Elegibilidad preferencial en fondos estatales de responsabilidad social empresarial.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2026)</small>
+
+Artículo 7 QUATER.- RED ESTATAL DE EMPRESAS REFUGIO. La Secretaría de Turismo y Economía, en coordinación con El poder Judicial del estado, la Procuraduría General de Justicia en el estado, a través del Centro de Justicia para las mujeres, el SEDIF, e instituciones especializadas, promoverá la Red Estatal de Empresas Refugio, cuyo propósito es impulsar la autonomía económica de mujeres sobrevivientes de violencia.
+
+Las empresas participantes deberán:
+
+I. Ofrecer empleos formales con condiciones dignas, para mujeres sobrevivientes de violencia, dando prioridad a las que sean jefas de familia.
+
+II. Implementar acciones de sensibilización interna.
+
+III. Proporcionar horarios flexibles, cuando corresponda.
+
+IV. Facilitar apoyo psicosocial y asesoría legal.
+
+V. Participar en el seguimiento de indicadores de permanencia y bienestar.
 
 ### CAPÍTULO CUARTO. DE LA OBTENCIÓN Y EXTINCIÓN DE ESTÍMULOS
 
@@ -570,3 +614,21 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3285 SE REFORMA LA LEY DE FOMENTO ECONÓMICO Y COMPETITIVIDAD DEL ESTADO DE BAJA CALIFORNIA SUR, MEDIANTE LA ADICIÓN DE LOS ARTÍCULOS 7 BIS, 7 TER Y 7 QUATER A LA MISMA".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo emitirá los lineamientos o reglas de operación del Distintivo y de la Red estatal de empresas refugio dentro de 90 días naturales a la entrada en vigor del presente decreto.
+
+###### ARTICULO TERCERO.
+
+La Secretaría de Turismo y Economía deberá promover campañas para incentivar la participación del sector empresarial en un plazo máximo de 120 días.
