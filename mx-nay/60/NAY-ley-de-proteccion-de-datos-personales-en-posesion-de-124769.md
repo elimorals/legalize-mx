@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-de-datos-personales-en-posesion-de-124769"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-21"
-last_updated: "2022-06-13"
+last_updated: "2026-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS PARA EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 1 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2026 (ABROGADA).
 
 Ley publicada en la Sección Tercera al Número 78 del Periódico Oficial del Estado de Nayarit, el sábado 21 de octubre de 2017.
 
@@ -1740,3 +1742,25 @@ P.O. 13 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Para la correcta aplicación del presente Decreto, se deberá observar a lo dispuesto por la Ley de Firma Electrónica Avanzada para el Estado de Nayarit.
+
+P.O. 1 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE NAYARIT”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. A la entrada en vigor de la presente Ley se abroga la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Nayarit, publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el 21 de octubre de 2017.
+
+Tercero. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit se entenderán hechas o conferidas a las autoridades garantes de los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+Cuarto. Los procedimientos iniciados con anterioridad a la entrada en vigor de esta Ley ante el Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, en materia de datos personales, se sustanciarán ante la (sic) las autoridades garantes de los entes públicos, según corresponda, conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, en materia de datos personales, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales y laborales, se llevarán a cabo por la Secretaría.
+
+La Secretaría podrá remitir a la autoridad garante de los entes públicos competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+Quinto. Los Sujetos Obligados, en un plazo máximo de sesenta días hábiles contados a partir de la entrada en vigor de esta Ley, deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+Para efectos de lo previsto en este transitorio, se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento.
+
+Sexto. Se derogan todas las disposiciones que se opongan a la presente Ley.
