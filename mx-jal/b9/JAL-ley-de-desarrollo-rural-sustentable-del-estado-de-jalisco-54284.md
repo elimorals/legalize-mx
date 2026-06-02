@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2021-07-29"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -309,13 +309,17 @@ XVI. Impulso a los programas orientados a la paz social;
 
 XVII. Promoción de la investigación científica aplicada, el desarrollo e innovación tecnológica de las actividades agropecuarias, y difundir sus resultados, observando para tal efecto lo dispuesto en la ley estatal en materia de ciencia, desarrollo tecnológico e innovación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XVIII. Interconectividad regional e intermunicipal rural; y
+XVIII. Interconectividad regional e intermunicipal rural;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2026)</small>
 
-XIX. Las demás que determine el Ejecutivo Estatal.
+XIX. Impulso a programas de infraestructura carretera y caminos municipales; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2026)</small>
+
+XX. Las demás que determine el Ejecutivo Estatal.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2017)</small>
 
@@ -457,11 +461,17 @@ XXX. Promover y participar, de acuerdo a sus posibilidades presupuestarias, en c
 
 XXXI. Promover y validar los convenios de cooperación para la investigación científico-tecnológica con las instituciones de investigación, nacionales, estatales y con los organismos internacionales para la investigación tecnológica agropecuaria y de desarrollo rural sustentable, relativos a los diferentes aspectos de las cadenas productivas del sector;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXXII. Divulgar y promover la agricultura de conservación; y
+XXXII. Divulgar y promover la agricultura de conservación.
 
-XXXIII. Las demás que la presente Ley y otros ordenamientos legales aplicables señalen.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2026)</small>
+
+XXXIII. Promover e impulsar, en el ámbito de sus atribuciones y en coordinación con las dependencias competentes de la Administración Pública Estatal, así como el sector social, programas de infraestructura rural para la construcción, rehabilitación, mantenimiento y conservación de carreteras y caminos municipales; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2026)</small>
+
+XXXIV. Las demás que la presente Ley y otros ordenamientos legales aplicables señalen.
 
 ### Capítulo II. De los Ayuntamientos
 
@@ -1722,3 +1732,9 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28425/LXII/21 QUE REFORMA EL ARTÍCULO 43 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
 
 UNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30169/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 2 DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO, ASÍ COMO LOS ARTÍCULOS 16 Y 22 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
