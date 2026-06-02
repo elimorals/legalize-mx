@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-municipio-de-matamoros-tamaulipas-para-1841
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-26"
-last_updated: "2025-12-26"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "TAM"
 
 LEY DE INGRESOS DEL MUNICIPIO DE MATAMOROS, TAMAULIPAS, PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en el Extraordinario Número 64 del Periódico Oficial del Estado de Tamaulipas, el viernes 26 de diciembre de 2025.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA IMPUGNADO ANTE ESTE TRIBUNAL CONSTITUCIONAL.]</small>
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO Y SU REFORMA SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA IMPUGNADO ANTE ESTE TRIBUNAL CONSTITUCIONAL.]</small>
 
 ###### Artículo 16.
 
@@ -73,9 +73,13 @@ B. De instalación de tubería o ductos: 10% del valor diario de la Unidad de Me
 
 C. De excavación en la vía pública: 5 veces el valor diario de la Unidad de Medida y Actualización por cada metro cúbico o fracción;
 
-D. De construcción de cimentaciones para la instalación de torres o estructuras de antenas incluidas las de telecomunicaciones y anuncios publicitarios: 20 veces el valor diario de la Unidad de Medida y Actualización por tonelada del peso total de la cimentación;
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-E. De instalación de estructuras verticales y/o estructuras para soporte de antenas incluidas las de telecomunicaciones y anuncios publicitarios: 30 veces el valor diario de la Unidad de Medida y Actualización por metro lineal de altura o fracción;
+D. De construcción de cimentaciones para la instalación de torres o estructuras de anuncios publicitarios: 20 veces el valor diario de la Unidad de Medida y Actualización por tonelada del peso total de la cimentación;
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+E. De instalación de estructuras verticales y/o estructuras para soporte de anuncios publicitarios: 30 veces el valor diario de la Unidad de Medida y Actualización por metro lineal de altura o fracción;
 
 F. Por autorización para la licencia de obra pública:
 
@@ -89,13 +93,9 @@ F. Por autorización para la licencia de obra pública:
 
 G. Instalación de postes, por unidad: 8 veces el valor diario de la Unidad de Medida y Actualización, cuando no rebase los 11 metros lineales de altura; 10 veces el valor diario de la Unidad de Medida y Actualización por poste superior a los 11 metros lineales;
 
-H. Por instalación de ductos subterráneos y/o aéreos de cable para televisión, fibra óptica y demás servicios de telecomunicación de empresas públicas y privadas que requieran ocupar territorio municipal para brindar sus servicios:
+H. (DEROGADO, P.O. 2 DE JUNIO DE 2026)
 
-1. Aéreo, 10% del valor diario de la Unidad de Medida y Actualización por metro lineal; y
-
-2. Subterráneo: 15% del valor diario de la Unidad de Medida y Actualización por metro lineal.
-
-V. Por licencia de uso de suelo comercial para instalación de antena de telefonía celular (cuota única): 100 veces el valor diario de la Unidad de Medida y Actualización.
+V. (DEROGADA, P.O. 2 DE JUNIO DE 2026)
 
 VI. Por licencia para remodelación se calculará sobre la base de superficie de construcción remodelada: 10% del valor diario de la Unidad de Medida y Actualización por metro cuadrado o fracción.
 
