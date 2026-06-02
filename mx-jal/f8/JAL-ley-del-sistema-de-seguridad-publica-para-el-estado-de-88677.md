@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2024-10-31"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -2033,7 +2033,9 @@ En el procedimiento no será admitida la prueba confesional a cargo de la autori
 
 En el caso de la prueba testimonial, cuando los testigos sean servidores públicos de la dependencia serán citados por la instancia que instruya el procedimiento; en el caso de que los testigos sean personas ajenas a la institución el oferente, deberá presentarlos el día y hora señalados para el desahogo de la diligencia; en caso de no presentarlos se le tendrá por perdido el derecho al desahogo de la prueba.
 
-Será supletorio para el presente procedimiento el Código de Procedimientos Civiles del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Será supletorio para el presente procedimiento el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 121.
 
@@ -2149,11 +2151,11 @@ El procedimiento se iniciará de oficio por la institución de seguridad públic
 
 Iniciado el procedimiento, se emplazará al denunciado para que comparezca a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cinco días hábiles posteriores a la notificación. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado del procedimiento, para que manifieste lo que a su derecho corresponda, debiendo señalar domicilio en el lugar donde se instaura el procedimiento para recibir notificaciones o correo electrónico, apercibiéndolo que en caso de no hacerlo, éstas le serán notificadas por estrados.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
 ###### Artículo 133.
 
-El personal operativo, sujeto al presente procedimiento especial, actuará personalmente o por conducto de apoderado quien en todo caso deberá ser un abogado o licenciado en derecho con cédula profesional que lo acredite como tal para su legal defensa, en los términos del Código de Procedimientos Civiles del Estado de Jalisco, el cual será supletorio para el presente procedimiento.
+El personal operativo, sujeto al presente procedimiento especial, actuará personalmente o por conducto de apoderado quien en todo caso deberá ser un abogado o licenciado en derecho con cédula profesional que lo acredite como tal para su legal defensa, en los términos del Código Nacional de Procedimientos Civiles y Familiares, el cual será supletorio para el presente procedimiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2016)</small>
 
@@ -2163,11 +2165,11 @@ La audiencia de pruebas y alegatos se llevará a cabo en forma oral y será cond
 
 La autoridad instructora tendrá la facultad de realizar la certificación de las actuaciones del presente procedimiento, quien podrá delegar dicha atribución a quien se designe para ese efecto conforme a su reglamento.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
 ###### Artículo 135.
 
-En el procedimiento especial serán admisibles todas las pruebas que establece el Código de Procedimientos Civiles del Estado, mismas que deberán ser desahogadas y valoradas en lo conducente de conformidad con las reglas previstas en dicho ordenamiento.
+En el procedimiento especial serán admisibles todas las pruebas que establece el Código Nacional de Procedimientos Civiles y Familiares, mismas que deberán ser desahogadas y valoradas en lo conducente de conformidad con las reglas previstas en dicho ordenamiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2023)</small>
 
@@ -4154,3 +4156,9 @@ DÉCIMO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tan
 DÉCIMO PRIMERO. El Titular del Poder Ejecutivo, deberá aprobar y publicar las disposiciones reglamentarias necesarias para la correcta conformación y operación de las dependencias que conforman la Administración Pública Centralizada en los términos del presente Decreto.
 
 En el caso de la Secretaría de Seguridad y de la Fiscalía del Estado, sus reglamentos deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30165/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMAN LOS ARTÍCULOS 120, 133 Y 135 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
