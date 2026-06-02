@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2026-05-29"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -755,17 +755,25 @@ En materia electoral, la interposición de los medios de impugnación no produci
 
 Las autoridades electorales del Estado, administrativas y jurisdiccionales, contarán con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-En términos de lo que dispone la Constitución Federal, la ley señalará los supuestos y las reglas para la realización de recuentos totales o parciales de votación en los ámbitos administrativo y jurisdiccional y establecerá el sistema de nulidades de las elecciones de Gobernadora o Gobernador, Diputadas y Diputados e integrantes de los Ayuntamientos.
+En términos de lo que dispone la Constitución Federal, la ley señalará los supuestos y las reglas para la realización de recuentos totales o parciales de votación en los ámbitos administrativo y jurisdiccional y establecerá el sistema de nulidades de las elecciones de Gobernadora o Gobernador, Diputadas y Diputados, Magistradas y Magistrados del Poder Judicial y del Tribunal de Disciplina Judicial, Juezas y Jueces, e integrantes de los Ayuntamientos.
 
 Además de las previstas en la legislación de la materia, se consideran causas de nulidades de elecciones locales por violaciones graves, dolosas y determinantes en los siguientes casos:
 
 a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
 
-b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley; y
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas; y
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+d) Se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales.
 
 Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
 
@@ -6192,3 +6200,15 @@ Las reformas del presente Decreto respecto a la prohibición de nepotismo entrar
 ###### ARTÍCULO OCTAVO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1082 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 20, FRACCIÓN IV, PÁRRAFO SEXTO Y EL PÁRRAFO SÉPTIMO, INCISOS B) Y C); Y SE ADICIONA UN INCISO D) AL PÁRRAFO SÉPTIMO DEL ARTÍCULO 20, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, EN MATERIA DE NULIDAD DE ELECCIONES POR INTERVENCIÓN O INJERENCIA EXTRANJERA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto Electoral de Tamaulipas y el Tribunal Electoral del Estado de Tamaulipas, en el ámbito de sus respectivas competencias, deberán revisar y adecuar sus disposiciones normativas, reglamentarias y administrativas para garantizar el cumplimiento de lo previsto en el presente Decreto.
