@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-160360"
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-28"
-last_updated: "2024-12-22"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 28 de septiembre de 2022.
 
@@ -213,7 +213,9 @@ XV. Constitución del Estado: la Constitución Política del Estado Libre y Sobe
 
 XVI. Constitución Federal: la Constitución Política de los Estados Unidos Mexicanos;
 
-XVII. Documentación Electoral: el conjunto elementos en los que se registra lo sucedido durante la jornada electoral y las sesiones especiales de cómputos, como son las boletas electorales, las actas de la jornada electoral, los cuadernillos de operaciones y las actas de escrutinio y cómputo de cada una de las elecciones;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+XVII. Documentación Electoral: el conjunto de elementos en los que se registra lo sucedido durante la jornada electoral y las sesiones especiales de cómputos, como son las boletas electorales, las actas de la jornada electoral, los cuadernillos de operaciones y las actas de escrutinio y cómputo de cada una de las elecciones, entre otros;
 
 XVIII. Elección extraordinaria: la que se efectúa en los casos que establece esta Ley, fuera de las fechas previstas para la elección ordinaria;
 
@@ -267,9 +269,9 @@ XLI. Precampaña: el conjunto de actividades que realizan los partidos político
 
 XLII. Prerrogativas de los partidos políticos: los derechos que la Ley otorga a estas entidades para el ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XLIII. Proceso electoral: la fase temporal que comienza con la primera sesión del Consejo, a celebrarse el dos de enero del año de la elección, de conformidad con el artículo 255 de la presente Ley, y que concluye con la declaración de validez de las elecciones que emita el Consejo o, en su caso, la última resolución que emita el Tribunal Electoral del Estado, y comprende el conjunto de decisiones de éste, así como los actos, tareas y actividades que realicen los organismos electorales del Estado, los partidos políticos y las y los ciudadanos, dentro de este término;
+XLIII. Proceso electoral: la fase temporal que comienza con la primera sesión del Consejo, a celebrarse el día quince del mes de noviembre del año inmediato anterior al de la elección, de conformidad con el artículo 255 de la presente Ley, y concluye con la declaración de validez de las elecciones que emita el Consejo o, en su caso, la última resolución que emita el Tribunal Electoral del Estado, y comprende el conjunto de decisiones de este, así como los actos, tareas y actividades que realicen los organismos electorales del Estado, los partidos políticos y las y los ciudadanos, dentro de este término;
 
 XLIV. Propaganda electoral: el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, las y los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las respectivas candidaturas;
 
@@ -321,13 +323,21 @@ Se aplicarán, para los efectos de interpretación de la presente Ley, los crite
 
 El ejercicio del Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador o Gobernadora Constitucional del Estado Libre y Soberano de San Luis Potosí, quien será electo por votación mayoritaria relativa, resultante de los procesos electorales correspondientes.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+En la renovación de la titularidad del Poder Ejecutivo, se deberá de garantizar el principio de paridad de género y la alternancia en la postulación que realicen los partidos políticos y coaliciones.
+
 ###### ARTÍCULO 10.
 
 El Poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado, integrada por quince diputadas y diputados electos bajo el principio de mayoría relativa, uno por cada distrito electoral, y hasta doce diputadas y diputados electos según el principio de representación proporcional, mediante el sistema de listas de candidatas y candidatos votados en el Estado, propuestas por los partidos políticos. Por cada diputada o diputado propietario se elegirá un suplente. El Congreso del Estado se integra a partir del principio de paridad de género.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 11.
 
-Los integrantes de los ayuntamientos se elegirán bajo los principios de mayoría relativa y de representación proporcional, de conformidad con lo establecido en la Constitución del Estado, la Ley Orgánica del Municipio, y la presente Ley. El ayuntamiento se integra a partir del principio de paridad de género.
+Las personas integrantes de los ayuntamientos se elegirán bajo los principios de mayoría relativa y de representación proporcional, de conformidad con lo establecido en la Constitución Federal, la Constitución del Estado, la Ley Orgánica del Municipio, y la presente Ley. El ayuntamiento se integra a partir del principio de paridad de género.
+
+En todo momento se garantizará el ejercicio de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y los tratados Internacionales en materia de género, inclusión y participación política de las mujeres.
 
 ###### ARTÍCULO 12.
 
@@ -531,7 +541,9 @@ Los recursos obtenidos por la aplicación de sanciones económicas derivadas de 
 
 Los recursos mencionados en el párrafo anterior no podrán ejercerse en servicios personales ni conceptos distintos a programas y proyectos estratégicos directamente vinculados en la materia de ciencia, tecnología, e innovación.
 
-La ejecución de las sanciones será mediante la retención de sus ministraciones de gasto ordinario sin que dicha deducción supere el veinte por ciento de sus aportaciones mensuales.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+La ejecución de las sanciones será mediante la retención de sus ministraciones de gasto ordinario sin que dicha deducción supere el veinticinco por ciento de sus aportaciones mensuales.
 
 ###### ARTÍCULO 41.
 
@@ -603,7 +615,9 @@ d) Establecer los procedimientos para designar a las personas integrantes de las
 
 e) Expedir y publicar oportunamente las convocatorias para que los partidos políticos, coaliciones, ciudadanos o ciudadanas por su propio derecho, soliciten el registro de candidaturas a Gobernador o Gobernadora, diputaciones, y ayuntamientos.
 
-f) Aprobar el diseño y las características de las boletas y demás documentación material electoral que deban utilizarse en las elecciones, cuidando especialmente que se garantice la preservación de su autenticidad y que sea elaborado utilizando materias primas que permitan ser recicladas, debiendo atender para ello los lineamientos y modelos únicos que en la materia emita el Instituto; así mismo conseguir, distribuir y asegurar bajo su responsabilidad dicho material.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+f) Aprobar el diseño y las características de las boletas, demás documentación y material electoral que deban utilizarse en las elecciones, cuidando especialmente que se garantice la preservación de su autenticidad y que sea elaborado utilizando materias primas que permitan ser recicladas, debiendo atender para ello los lineamientos y modelos únicos que en la materia emita el Instituto; así mismo conseguir, distribuir y asegurar bajo su responsabilidad dicho material.
 
 g) Ordenar, concluido el proceso de elección de que se trate, la destrucción del material y documentación electoral que corresponda, considerando la normatividad en la materia, siempre y cuando hubieren sido resueltos en forma definitiva, los medios de impugnación interpuestos. La destrucción deberá llevarse a cabo empleando métodos que protejan el ambiente, según lo apruebe el Consejo General.
 
@@ -797,21 +811,29 @@ j) Las demás que confiere (sic) tanto la Ley de Acceso de las Mujeres a una Vid
 
 El Consejo General se reunirá en sesión ordinaria por lo menos una vez al mes. La persona que presida podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de las y los consejeros electorales o de las y los representantes de los partidos políticos, conjunta o indistintamente.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 51.
 
-El Consejo General, para la preparación del proceso electoral, se reunirá el dos de enero del año en que se celebren las elecciones estatales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará por lo menos dos veces por mes.
+El Consejo General, para la preparación del proceso electoral, se reunirá el día quince del mes de noviembre del año inmediato anterior al de la elección. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará por lo menos dos veces por mes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 52.
 
-El Consejo General para poder sesionar necesitará la presencia de la mayoría de sus integrantes con derecho a voto, entre los que deberá estar la o el Presidente, quien será suplido en sus ausencias momentáneas por la o el consejero que él mismo designe. Asimismo, deberán estar presentes la o el secretario ejecutivo y por lo menos la mitad más uno de las y los representantes de los partidos políticos con registro o inscripción. Sus acuerdos o determinaciones se tomarán por mayoría de votos. La o el Presidente ejercerá además, voto de calidad.
+El Consejo General para poder sesionar necesitará que esté presente la mayoría de sus integrantes, entre los que deberá estar la o el presidente, quien será suplido en sus ausencias momentáneas por la consejería que designe. Asimismo, deberá estar presente la o el secretario ejecutivo y, por lo menos, la mitad más uno de las y los representantes de los partidos políticos con registro o inscripción. Los acuerdos o determinaciones se tomarán por mayoría de votos. En caso de empate, la o el Presidente tendrá la facultad del voto de calidad.
 
-En caso de ausencia de la o el secretario ejecutivo a la sesión, sus funciones serán realizadas por alguno de las o los funcionarios del órgano electoral que al efecto designe el Consejo General para esa sesión.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+En caso de ausencia de la o el secretario ejecutivo a la sesión, sus funciones serán realizadas por alguna o alguno de las o los funcionarios del órgano electoral que al efecto designe el Consejo General para esa sesión.
 
 En caso de que no se reúna la mayoría de las y los integrantes del Consejo General a que se refiere el párrafo primero del presente artículo, se citará de nuevo a sesión para celebrarse dentro de las siguientes veinticuatro horas, la cual se efectuará con los miembros que asistan.
 
 En el supuesto de que por caso fortuito o de fuerza mayor no asista la o el presidente, a una sesión del Consejo General convocada en los términos de esta Ley, la o el secretario ejecutivo instalará la sesión, a fin de que las y los consejeros electorales presentes con derecho a voto, elijan de entre ellos a quien deba fungir como presidenta o presidente del Consejo General para esa única ocasión.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+En el caso de que alguna de las representaciones partidarias incurra en dos ausencias consecutivas a las sesiones del Consejo General, la Secretaría Ejecutiva dará aviso por escrito de manera inmediata a la presidencia del Partido Político, con el objeto de prevenirla para que, en el caso de que su representación incurra en una tercera inasistencia, esta será dada de baja ante el Consejo General.
 
 ###### ARTÍCULO 53.
 
@@ -993,9 +1015,11 @@ Se fusionarán para cada proceso electoral a fin de integrar la Comisión de Cap
 
 El Consejo General designará, en octubre del año previo al de la elección, a sus integrantes, y a la o al Consejero Electoral que la presidirá.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 70.
 
-La Comisión de Género e Inclusión tendrá las siguientes atribuciones:
+La Comisión permanente de igualdad de género y no discriminación tendrá las siguientes atribuciones:
 
 I. Verificar que los acuerdos, acciones y programas del Consejo, así como de los partidos políticos y de las agrupaciones políticas, observen, en todos los casos, la legislación nacional e internacional en materia de derechos humanos, igualdad de género, e inclusión de grupos prioritarios y, en su caso, promover e implementar las modificaciones o cambios correspondientes;
 
@@ -1023,17 +1047,25 @@ El Consejo General ejercerá las facultades de supervisión, seguimiento y contr
 
 La Comisión Permanente de Fiscalización tendrá las siguientes atribuciones:
 
-I. Revisar los proyectos de reglamentos en materia de fiscalización que elabore la Unidad Técnica de Fiscalización de acuerdo con lo dispuesto por esta Ley, y someterlos a la aprobación del Consejo General;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-II. Revisar los acuerdos generales y normas técnicas que elabore la Unidad Técnica de Fiscalización y que se requieran para regular el registro contable de los partidos políticos, en caso de delegación de facultades;
+I. Revisar los proyectos de reglamentos en materia de fiscalización que elabore la Unidad de Fiscalización de acuerdo con lo dispuesto por esta Ley, y someterlos a la aprobación del Consejo General;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+II. Revisar los acuerdos generales y normas técnicas que elabore la Unidad de Fiscalización y que se requieran para regular el registro contable de los partidos políticos, en caso de delegación de facultades;
 
 III. Revisar y someter a la aprobación del Consejo General los proyectos de resolución relativos a los procedimientos y quejas en materia de fiscalización, en los términos del reglamento que emita el propio Consejo General;
 
 IV. Delimitar los alcances de la revisión de los informes que están obligados a presentar los partidos políticos, en caso de delegación de funciones en la materia, así como los demás sujetos de fiscalización de acuerdo con lo dispuesto por esta Ley;
 
-V. Revisar las funciones y acciones realizadas por la Unidad Técnica de Fiscalización, con la finalidad de garantizar la legalidad y certeza en los procesos de fiscalización;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-VI. Supervisar de manera permanente y continua las auditorías ordinarias, de precampaña y de campaña; así como los procedimientos oficiosos, quejas y verificaciones realizadas por la Unidad Técnica de Fiscalización; lo anterior, en caso de delegación de facultades en la materia;
+V. Revisar las funciones y acciones realizadas por la Unidad de Fiscalización, con la finalidad de garantizar la legalidad y certeza en los procesos de fiscalización;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+VI. Supervisar de manera permanente y continua las auditorías ordinarias, de precampaña y de campaña; así como los procedimientos oficiosos, quejas y verificaciones realizadas por la Unidad de Fiscalización; lo anterior, en caso de delegación de facultades en la materia;
 
 VII. Ordenar la práctica de auditorías a las finanzas de los partidos políticos de manera directa o bien a través de terceros especializados en la materia, en caso de delegación de facultades en este rubro;
 
@@ -1043,13 +1075,17 @@ IX. Modificar, aprobar o rechazar los proyectos de dictamen consolidados y las r
 
 X. Modificar, aprobar o rechazar los proyectos de dictamen consolidados y las resoluciones emitidas con relación a los informes que las agrupaciones políticas estatales están obligadas a presentar, para ponerlos a consideración del Consejo General en los plazos que establezca el Reglamento respectivo;
 
-XI. Elaborar, a propuesta de la Unidad Técnica de Fiscalización, los lineamientos generales que regirán en los procedimientos de fiscalización a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+XI. Elaborar, a propuesta de la Unidad de Fiscalización, los lineamientos generales que regirán en los procedimientos de fiscalización a que se refiere esta Ley;
 
 XII. Resolver las consultas que realicen los partidos políticos, las agrupaciones políticas estatales y demás sujetos de fiscalización de acuerdo a lo dispuesto por esta Ley;
 
 XIII. Aprobar las solicitudes que se pretendan realizar al Instituto, con la finalidad de superar el secreto fiduciario, bancario y fiscal, en caso de delegación de facultades en esta materia;
 
-XIV. Llevar a cabo, con el apoyo de la Unidad Técnica de Fiscalización y de la Unidad de Prerrogativas y Partidos Políticos, la liquidación de los partidos políticos locales y agrupaciones políticas estatales que pierdan su registro; la liquidación de las asociaciones civiles constituidas por las candidaturas independientes, así como el procedimiento para que sean adjudicados al Estado los recursos y bienes remanentes de los partidos políticos nacionales que pierdan su inscripción, de conformidad con lo previsto en esta ley, y la normatividad que para el caso emita el Consejo General;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+XIV. Llevar a cabo, con el apoyo de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos y la Unidad de Fiscalización, la liquidación de los partidos políticos locales y agrupaciones políticas estatales que pierdan su registro; la liquidación de las asociaciones civiles constituidas por las candidaturas independientes, así como el procedimiento para que sean adjudicados al Estado los recursos y bienes remanentes de los partidos políticos nacionales que pierdan su inscripción, de conformidad con lo previsto en esta ley, y la normatividad que para el caso emita el Consejo General.
 
 XV. Integrar la información relativa a los topes aplicables a los gastos de precampaña y campaña determinados por el Consejo General, que estarán vigentes en las elecciones locales, y
 
@@ -1057,9 +1093,11 @@ XVI. Las demás que le establezca la presente Ley.
 
 La Comisión deberá dar cuenta inmediata al Consejo General, de los resultados obtenidos en las acciones a que se refieren las fracciones anteriores, para los efectos legales procedentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 73.
 
-Para el adecuado ejercicio de sus funciones, la Comisión de Fiscalización contará con un órgano técnico especializado denominado Unidad Técnica Fiscalizadora, que dependerá administrativamente de la Presidencia del Consejo, y que tendrá las siguientes facultades y atribuciones:
+Para el adecuado ejercicio de sus funciones, la Comisión de Fiscalización contará con un órgano técnico especializado denominado Unidad de Fiscalización, que dependerá administrativamente de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, la cual tendrá las siguientes atribuciones:
 
 I. Presentar a la Comisión Permanente, para su validación, y posterior remisión al Consejo General para su aprobación, el proyecto de Reglamento de la materia, y los demás acuerdos para regular el registro contable de los ingresos y egresos de los partidos políticos registrados o inscritos ante el Consejo, las características de la documentación comprobatoria sobre el manejo de sus recursos, y establecer los requisitos que deberán satisfacer los informes de ingresos y egresos que le presenten, de conformidad con lo establecido por la LGPP, esta Ley y sus disposiciones complementarias; lo anterior, en caso de delegación de facultades en la materia;
 
@@ -1091,15 +1129,17 @@ XIV. Requerir de las personas, físicas o morales, públicas o privadas, en rela
 
 XV. Las demás que le confiera esta Ley, el Consejo General, y la Comisión de Fiscalización.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 74.
 
-En el ejercicio de sus facultades, la Unidad Técnica de Fiscalización deberá garantizar el derecho de audiencia de los partidos políticos y, en general, de toda persona requerida con motivo de los procesos de fiscalización a que se refiere esta Ley y sus disposiciones complementarias. Los partidos políticos y las agrupaciones políticas estatales tendrán derecho a la confronta de los documentos comprobatorios de sus ingresos y gastos, o de sus estados contables, contra los obtenidos o elaborados por la Unidad sobre las mismas operaciones, a fin de aclarar las discrepancias entre unos y otros.
+En el ejercicio de sus atribuciones, la Unidad de Fiscalización deberá garantizar el derecho de audiencia de los partidos políticos y, en general, de toda persona requerida con motivo de los procesos de fiscalización a que se refiere esta Ley y sus disposiciones complementarias. Los partidos y las agrupaciones políticos estatales tendrán derecho a la confronta de los documentos comprobatorios de sus ingresos y gastos, o de sus estados contables, contra los obtenidos o elaborados por la Unidad sobre las mismas operaciones, a fin de aclarar las discrepancias entre unos y otros.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 75.
 
-El personal de la Unidad Técnica de fiscalización está obligado a guardar reserva sobre el curso de las revisiones y auditorías en las que tenga participación, o sobre las que disponga de información. El Órgano Interno de Control del Consejo conocerá de las violaciones a esta norma y, en su caso, impondrá las sanciones que correspondan conforme a esta Ley.
-
-La persona que presida el Consejo y las y los consejeros electorales recibirán de la persona que dirige la Unidad, informes periódicos respecto del avance en las revisiones y auditorías que la misma realice.
+El personal de la Unidad de Fiscalización está obligado a guardar reserva y confidencialidad sobre el curso de las revisiones y auditorías en las que tenga participación, o sobre las que disponga de información. El Órgano Interno de Control del Consejo conocerá de las violaciones a esta norma y, en su caso, impondrá las sanciones que correspondan conforme a esta Ley.
 
 ### Capítulo VI. De la Secretaría Ejecutiva
 
@@ -1267,9 +1307,17 @@ I. A petición de los partidos políticos o candidaturas independientes, dar fe 
 
 II. A petición de las comisiones distritales electorales o de los comités municipales electorales, constatar hechos que influyan o afecten la organización del proceso electoral;
 
-III. Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos respectivos, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2026)</small>
 
-IV. Las demás que establezca la ley y demás disposiciones aplicables.
+III. A petición de las candidaturas a elección judicial, constatar hechos que influyan o afecten la equidad en las contiendas electorales;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+IV. Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos respectivos, y
+
+> <small>(ADICIONADA [N. DE E REUBICADA], P.O. 2 DE JUNIO DE 2026)</small>
+
+V. Las demás que establezca la ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 86.
 
@@ -1421,9 +1469,11 @@ El órgano interno de control contará con la estructura orgánica, personal y r
 
 ### Capítulo VIII. De la Unidad de Prerrogativas y Partidos Políticos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 96.
 
-La Unidad de Prerrogativas y Partidos Políticos, dependerá directamente de la Secretaría Ejecutiva, y tendrá las siguientes atribuciones:
+La Dirección Ejecutiva de Prerrogativas y Partidos Políticos, dependerá directamente de la Secretaría Ejecutiva, encargada del control técnico de las facultades y atribuciones que realiza la Unidad de Fiscalización, y tendrá las siguientes funciones:
 
 I. Conocer de las notificaciones que formulen las organizaciones que pretendan constituirse como partidos políticos o como agrupaciones políticas estatales; así como de los partidos políticos nacionales que pretendan la inscripción para participar en los procesos locales, y realizar las actividades pertinentes;
 
@@ -1447,15 +1497,29 @@ X. Acordar con la o el secretario ejecutivo del Consejo, los asuntos de su compe
 
 XI. Actuar como secretaria o secretario técnico en las sesiones de la Comisión de Prerrogativas y Partidos Políticos sólo con derecho de voz;
 
-XII. Integrar los informes sobre el registro de candidaturas que realicen para cada elección el Consejo, las comisiones distritales electorales y los comités municipales electorales, y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XIII. Las demás que le confiera esta Ley.
+XII. Integrar los informes sobre el registro de candidaturas que realicen para cada elección el Consejo, las comisiones distritales electorales y los comités municipales electorales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2026)</small>
+
+XIII. Supervisar a la Unidad de Fiscalización en los procedimientos de liquidación de los partidos políticos locales y agrupaciones políticas estatales que pierdan su registro; la liquidación de las asociaciones civiles constituidas por las candidaturas independientes;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+XIV. Supervisar los planes y programas de la Unidad de Fiscalización, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] ANTES FRACCIÓN XIII, P.O. 2 DE JUNIO DE 2026)</small>
+
+XV. Las demás que le confiera esta Ley.
 
 ### Capítulo IX. De las Disposiciones Generales para las Comisiones Distritales, de los Comités Municipales, y de las Mesas Directivas de Casilla
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 97.
 
-Las comisiones distritales electorales y comités municipales electorales deberán instalarse a más tardar el último día del mes de enero del año de la elección que se trate.
+Las comisiones distritales electorales y comités municipales electorales deberán instalarse a más tardar el último día del mes de enero del año de la elección que se trate y deberán integrarse conforme el principio de paridad de género.
 
 (NOTA: EL 11 DE JULIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2022 Y SU ACUMULADA 152/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE JULIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -1495,9 +1559,13 @@ X. No estar inhabilitada o inhabilitado para desempeñar funciones, empleos, car
 
 XI. No haber sido sancionado o sancionada por actos de violencia política.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 100.
 
-Los consejeros y consejeras ciudadanas que integran las comisiones distritales electorales y los comités municipales electorales deberán rendir la protesta de guardar y hacer guardar la Constitución Federal, la Constitución del Estado y las leyes que de ellas emanen, cumplir con las normas contenidas en esta Ley, y desempeñar leal y patrióticamente la función que se les ha encomendado.
+Las personas consejeras ciudadanas que integran las comisiones distritales electorales y los comités municipales electorales deberán rendir la protesta de guardar y hacer guardar la Constitución Federal, la Constitución del Estado y las leyes que de ellas emanen, cumplir con las normas contenidas en esta Ley, y desempeñar leal y patrióticamente la función que se les ha encomendado.
+
+La Presidencia, la Secretaría Técnica y las Consejerías ciudadanas de las Comisiones Distritales Electorales y Comités Municipales Electorales recibirán por el desempeño de su encargo una remuneración acorde con sus funciones, la que deberá ser presupuestada por el Consejo General. El monto de las remuneraciones a que se refiere este artículo deberá publicarse un mes antes al inicio del proceso electoral que corresponda en el Periódico Oficial del Estado, “Plan de San Luis”.
 
 ###### ARTÍCULO 101.
 
@@ -1511,9 +1579,11 @@ Los partidos políticos podrán sustituir en todo tiempo a sus representantes en
 
 El Consejo General designará en cada comisión distrital, y comité municipal, a una secretaria o secretario técnico, encargado de orientar y coadyuvar con los integrantes de los mismos, respecto de la aplicación de la presente Ley en el ámbito de sus respectivas competencias; así como de cumplir con las funciones que el propio Consejo le señale. Dicha secretaria o secretario contará con voz en las sesiones de los organismos señalados, y deberá ser de reconocida solvencia moral y, preferentemente, contar con licenciatura en Derecho, o ser abogada o abogado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 103.
 
-El Consejo General proveerá la sustitución de las y los integrantes de las comisiones distritales, y los comités municipales, que falten a tres sesiones consecutivas sin causa justificada.
+El Consejo General proveerá la sustitución de las personas integrantes de las comisiones distritales y los comités municipales que falten a dos sesiones consecutivas, sin causa justificada.
 
 En caso de ausencia en dos sesiones consecutivas, de la representación de un partido, los organismos electorales comunicarán por escrito este hecho al partido respectivo.
 
@@ -1535,17 +1605,33 @@ VI. Violar de manera grave o reiterada las reglas, lineamientos, criterios y for
 
 VII. Desempeñar otra función, empleo o actividad dentro del Consejo o de otro órgano electoral, que imposibilite el desempeño de las funciones del cargo para el que fue designado.
 
-Cuando la persona titular de la Secretaría Ejecutiva del Consejo, tenga conocimiento de hechos que actualicen alguna de las causas de procedencia de la revocación de nombramiento y considere que existen elementos de prueba, notificará a la presidencia, consejerías ciudadanas, y secretarias técnicas, de que se trate.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-En la notificación deberá expresarse el lugar, día y hora en que tendrá verificativo la audiencia; los actos u omisiones que se le imputen; las consecuencias posibles; y el derecho de éste o ésta a comparecer con asistencia de un defensor o defensora. La notificación a que se refiere este párrafo se practicará de manera personal.
+Cuando la persona titular de la Secretaría Ejecutiva del Consejo tenga conocimiento de hechos que actualicen alguna de las causas de procedencia de la revocación de nombramiento y considere que existen elementos de prueba, iniciará el procedimiento de revocación de nombramiento a las presidencias, consejerías ciudadanas, o secretarias técnicas que se trate, en términos de los lineamientos que para tal efecto apruebe el Consejo General.
 
-Entre la fecha de la citación y la de la audiencia, deberá mediar un plazo no menor de cinco ni mayor de quince días.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-Concluida la audiencia, se concederá al consejero o consejera ciudadana un plazo de diez días para que ofrezca los elementos de prueba que estime pertinentes y que tengan en su poder.
+La Secretaría Ejecutiva contará con un plazo de cinco días naturales para emitir el acuerdo de admisión o propuesta de desechamiento, contado a partir de que se reciba el escrito de denuncia.
 
-Desahogadas las pruebas que fueren admitidas, la persona titular de la Secretaría Ejecutiva, dentro de los veinte días siguientes, someterá el dictamen con proyecto de resolución al Consejo General.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-La revocación del nombramiento de, presidencias, consejerías ciudadanas, y secretarías técnicas, requerirá de cinco votos del Consejo General, el cual deberá notificar la resolución correspondiente y ejecutar la revocación, sin perjuicio de cualquier otra sanción a que hubiere lugar de conformidad con las disposiciones jurídicas aplicables.
+Admitida la denuncia, la Secretaría Ejecutiva emplazará a la Presidencia, Consejería Ciudadana, o Secretaría Técnica que se trate, expresando los actos u omisiones que se le imputen y las consecuencias posibles, corriéndoles traslado con copia simple del expediente, para que en un plazo de tres días naturales expresen lo que a su derecho convenga, así como para que ofrezca los elementos de prueba que estimen pertinentes, y que tenga en su poder.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+La notificación a que se refiere este párrafo se practicará de manera personal.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+La omisión de contestar la denuncia tendrá como efecto la pérdida del derecho de ofrecer pruebas, sin generar presunción respecto de la veracidad de los hechos imputados.
+
+> <small>(ADICIONADO [N. DE E REFORMADO], P.O. 2 DE JUNIO DE 2026)</small>
+
+Desahogadas las pruebas la Secretaría Ejecutiva pondrá el expediente a la vista de las partes para que dentro de un plazo de dos días naturales manifiesten lo que a su derecho convenga.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Concluido el plazo a que se refiere el párrafo anterior, la persona titular de la Secretaría Ejecutiva, dentro de los diez días naturales siguientes, someterá el proyecto de resolución al Consejo General. La revocación del nombramiento de las presidencias, consejerías ciudadanas, o secretarías técnicas, estará regulado por los lineamientos que para tal efecto apruebe el Consejo General del Organismo Electoral.
 
 ###### ARTÍCULO 105.
 
@@ -1563,17 +1649,29 @@ En la cabecera de cada distrito electoral uninominal habrá una comisión distri
 
 Las comisiones distritales electorales se integrarán de la siguiente manera:
 
-I. Un Presidente o presidenta;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-II. Un Secretario o secretaria técnica;
+I. Una persona Presidenta;
 
-III. Cuatro consejeras o consejeros ciudadanos, y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-IV. Una persona representante por cada partido político registrado que contienda o, en su caso, un o una representante por cada una de las candidaturas independientes que participen.
+II. Una persona Secretaria Técnica;
 
-Las y los funcionarios a que se refieren las fracciones I, II y III de este artículo, serán designados por el Consejo General.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-Las y los representantes de los partidos políticos, o de candidaturas independientes, y la o el secretario Técnico, solamente tendrán derecho (sic) voz.
+III. Hasta cuatro personas consejeras ciudadanas, y
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+IV. Una persona representante por cada partido político registrado que contienda o, en su caso, una persona representante por cada una de las candidaturas independientes que participen.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Las personas funcionarias a que se refieren las fracciones I, II y III de este artículo, serán designadas por el Consejo General.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Las personas representantes de los partidos políticos, o de las candidaturas independientes, y la persona Secretaria Técnica, solo tendrán derecho de voz, pero no de voto.
 
 ###### ARTÍCULO 108.
 
@@ -1585,9 +1683,11 @@ Habrá dos consejerías ciudadanas suplentes, quienes cubrirán las ausencias de
 
 Las y los representantes de partidos políticos, de las candidaturas independientes, y la o el secretario técnico, contarán con su respectivo suplente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 109.
 
-Para la primera sesión que será citada por su Presidente, y a fin de quedar debidamente instaladas, las comisiones distritales electorales convocarán a los partidos políticos con derecho a participar en las elecciones, para que comparezcan a dicho acto por conducto de sus representantes con acreditación ante el Consejo.
+Para la primera sesión que será citada por su Presidenta o Presidente, y a fin de quedar debidamente instaladas, las comisiones distritales electorales convocarán a los partidos políticos con derecho a participar en las elecciones, para que comparezcan a dicho acto por conducto de sus representantes con acreditación ante el Consejo.
 
 Las comisiones distritales electorales harán llegar oportunamente al Consejo, el acta con los pormenores de su instalación. El Consejo ordenará que se publique en el Periódico Oficial, la forma de integración de las comisiones distritales electorales, dentro de los diez días posteriores a la fecha de la conclusión del plazo para su instalación.
 
@@ -1627,7 +1727,9 @@ X. Publicar, mediante avisos visibles colocados en el exterior de sus oficinas, 
 
 XI. Expedir las constancias respectivas a las candidatas y los candidatos que hubieren obtenido mayoría relativa de votos, en las elecciones para diputaciones bajo ese principio;
 
-XII. Enviar al Consejo la documentación relativa a los cómputos de la elección para Gobernador o Gobernadora, y diputaciones, en forma inmediata a la conclusión de los mismos. Los paquetes electorales serán remitidos una vez resuelta la totalidad de los recursos que hayan sido interpuestos;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+XII. Enviar al Consejo la documentación relativa a los cómputos de la elección para Gobernadora o Gobernador, y diputaciones, en forma inmediata a la conclusión de los mismos. Los paquetes electorales serán remitidos si no se hubiera interpuesto algún recurso o, en su caso, una vez resuelta la totalidad de los recursos que hayan sido interpuestos;
 
 XIII. Informar al Consejo sobre el ejercicio de sus funciones y el resultado de las elecciones. Las comisiones quedan relevadas de informar del resultado de las elecciones cuando se presentare la salvedad que establecen las fracciones VIII y IX de este artículo;
 
@@ -1645,9 +1747,11 @@ XIX. Realizar el conteo, sellado y agrupamiento de boletas electorales de las el
 
 XX. Las demás que le confieren esta Ley, y las disposiciones relativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 113.
 
-Son atribuciones de las presidentas y los presidentes de las comisiones distritales electorales:
+Son atribuciones de las personas presidentas de las comisiones distritales electorales:
 
 I. Representar legalmente a la comisión distrital ante toda clase de autoridades y particulares;
 
@@ -1687,9 +1791,21 @@ XVIII. Ejecutar los programas de educación cívica, paridad de género y el res
 
 XIX. Entregar, una vez concluido el proceso electoral, a la funcionaria o funcionario que para tal caso habilite el Consejo, el archivo de la comisión distrital electoral, de acuerdo al formato que para tal caso establezca el Reglamento de Archivos del Consejo;
 
-XX. Coordinar el conteo, sellado y agrupamiento de boletas electorales de la elección de Ayuntamientos, correspondiente a sus municipios, y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXI. Las demás que les confiera esta Ley.
+XX. Coordinar el conteo, sellado y agrupamiento de boletas electorales de la elección de Ayuntamientos, correspondiente a sus municipios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2026)</small>
+
+XXI. Organizar, dirigir y controlar la administración de los recursos materiales y financieros otorgados a la Comisión;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+XXII. Presentar, a quienes integran la Comisión, el informe mensual, respecto del ejercicio del recurso financiero durante el tiempo que dure en funciones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] ANTES FRACCIÓN XXI, P.O. 2 DE JUNIO DE 2026)</small>
+
+XXIII. Las demás que les confiera esta Ley.
 
 Las y los presidentes serán auxiliados en sus funciones por las secretarías técnicas de las comisiones distritales electorales.
 
@@ -1741,17 +1857,29 @@ Habrá un comité municipal electoral durante el proceso electoral, que tenga do
 
 Los comités municipales se integrarán de la siguiente manera:
 
-I. Un Presidente o Presidenta;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-II. Un Secretario o Secretaria Técnica;
+I. Una persona Presidenta;
 
-III. Cuatro consejeras o consejeros ciudadanos, y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-IV. Un representante por cada partido político registrado que contienda y, en su caso, un representante de candidatura independiente que participe.
+II. Una persona Secretaria Técnica;
 
-Las y los funcionarios a que se refieren las fracciones I, II y III de este artículo serán designados por el Consejo General.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-Las y los representantes de los partidos políticos, de candidaturas independientes y la o el secretario técnico, sólo tendrán derecho a voz.
+III. Hasta cuatro consejeras ciudadanas, y
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+IV. Una persona representante por cada partido político registrado que contienda y, en su caso, una persona representante por cada candidatura independiente que participe.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Las personas funcionarias a que se refieren las fracciones, I, II y III, de este artículo, serán designados por el Consejo General.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Las personas representantes de los partidos políticos y de las candidaturas independientes que participen, así como la persona Secretaria Técnica, sólo tendrán derecho de voz, pero no de voto.
 
 ###### ARTÍCULO 117.
 
@@ -1805,9 +1933,9 @@ VIII. Expedir las constancias de mayoría a las candidatas y los candidatos inte
 
 IX. Remitir a la comisión distrital de su adscripción, los paquetes electorales que haya recibido, correspondientes a la elección de diputaciones, y Gobernador o Gobernadora del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-X. Enviar al Consejo la documentación relativa al cómputo de la elección de ayuntamientos, así como la relativa al cómputo de la elección de personas juzgadoras del Poder Judicial del Estado, en forma inmediata a la conclusión del mismo. Los paquetes electorales serán remitidos una vez resueltos la totalidad de los recursos que hayan sido interpuestos;
+X. Enviar al Consejo la documentación relativa al cómputo de la elección de ayuntamientos, así como la relativa al cómputo de la elección de personas juzgadoras del Poder Judicial del Estado, en forma inmediata a la conclusión del mismo. Los paquetes electorales serán remitidos si no se hubiera interpuesto algún recurso o, en su caso, una vez resueltos la totalidad de los recursos que hayan sido interpuestos;
 
 XI. Realizar el cómputo total de los votos emitidos en el municipio;
 
@@ -1833,7 +1961,9 @@ XXI. Informar mensualmente sobre el manejo de los recursos financieros con los q
 
 XXII. Acompañar las actividades que el Instituto lleva a cabo en materia de integración, ubicación de mesas directivas de casilla y de capacitación de funcionarias y funcionarios electorales en los términos que prevenga el Consejo y que para ese efecto señale el Instituto;
 
-XXIII. Realizar el conteo, sellado y agrupamiento de boletas electorales de las elecciones de Ayuntamientos correspondientes a su municipio, y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+XXIII. Realizar el conteo, sellado y agrupamiento de boletas electorales de las elecciones de Ayuntamientos correspondientes a su municipio, así como de la elección de personas juzgadoras del Poder Judicial del Estado, y
 
 XXIV. Las demás que le confiere esta Ley, y las disposiciones relativas.
 
@@ -1873,9 +2003,21 @@ XV. Entregar, una vez concluido el proceso electoral, a la funcionaria o funcion
 
 XVI. Ejecutar los programas de educación cívica, paridad de género y el respeto de los derechos humanos en el ámbito político y electoral;
 
-XVII. Coordinar el conteo, sellado y agrupamiento de boletas electorales de la elección de Ayuntamientos, correspondiente a su municipio, y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XVIII. Las demás que les confiera esta Ley.
+XVII. Coordinar el conteo, sellado y agrupamiento de boletas electorales de la elección de Ayuntamientos, correspondiente a su municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2026)</small>
+
+XVIII. Organizar, dirigir y controlar la administración de los recursos materiales y financieros otorgados al Comité;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+XIX. Presentar, a las y los integrantes del Comité, el informe mensual, respecto del ejercicio del recurso financiero durante el tiempo que dure en funciones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] ANTES FRACCIÓN XVIII, P.O. 2 DE JUNIO DE 2026)</small>
+
+XX. Las demás que les confiera esta Ley.
 
 ###### ARTÍCULO 122.
 
@@ -2153,7 +2295,9 @@ XVII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusio
 
 XVIII. Abstenerse de realizar afiliaciones colectivas de ciudadanas y ciudadanos;
 
-XIX. Cada partido político determinará y hará públicos los criterios para garantizar la paridad entre los géneros en todas sus dimensiones en candidaturas a diputaciones y ayuntamientos. Éstos deberán de ser objetivos y asegurar condiciones de igualdad entre géneros.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JUNIO DE 2026)</small>
+
+XIX. Cada partido político determinará y hará públicos los criterios para garantizar la paridad entre los géneros en todas sus dimensiones en candidaturas a la gubernatura, diputaciones y ayuntamientos. Éstos deberán de ser objetivos y asegurar condiciones de igualdad entre géneros.
 
 En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sea asignado exclusivamente candidaturas a diputaciones y ayuntamientos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior. La autoridad electoral será responsable del cumplimiento de este precepto.
 
@@ -2165,7 +2309,9 @@ XXI. Fortalecer los liderazgos de las mujeres y de las poblaciones de los grupos
 
 XXII. Cumplir con las obligaciones que la legislación en materia de transparencia, acceso a la información y protección de datos personales les impone;
 
-XXIII. Retirar dentro de los veinte días siguientes al de la jornada electoral que corresponda, la propaganda que en apoyo a sus candidaturas hubieran fijado, pintado o instalado;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+XXIII. Retirar la propaganda que en apoyo a sus candidaturas hubieran fijado, pintado o instalado, dentro de los treinta días hábiles siguientes a la jornada electoral que corresponda;
 
 XXIV. Observar los límites de gastos de precampaña y campaña que para cada elección determine el Consejo;
 
@@ -2339,13 +2485,19 @@ e) Para la capacitación, promoción y el desarrollo del liderazgo político de 
 
 f) Para la capacitación, promoción y el desarrollo del liderazgo político de las y los jóvenes, cada partido político deberá destinar anualmente, el tres por ciento del financiamiento público ordinario;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2026)</small>
+
+g) Para la capacitación, promoción y el desarrollo del liderazgo político de las personas con discapacidad y personas de la diversidad sexual, cada partido político deberá destinar anualmente, el cinco por ciento del financiamiento público ordinario;
+
 II. Para gastos de Campaña:
 
 a) En el año de la elección en que se renueven el Poder Ejecutivo; el Poder Legislativo, y los ayuntamientos del Estado, se otorgará para gastos de campaña un monto equivalente al cincuenta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año.
 
 b) En el año de la elección en que elija al Poder Legislativo y ayuntamientos del Estado a cada partido político se le otorgará para gastos de campaña un monto equivalente al treinta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año.
 
-c) El financiamiento de campaña será administrado en su totalidad por los partidos políticos; estableciendo el prorrateo conforme lo previsto en la LGPP y esta Ley; teniendo que informarlas (sic) al órgano respectivo del Instituto o del Consejo, en caso de delegación de facultades en esta materia, diez días antes del inicio de la campaña electoral, la cual se hará del conocimiento del Pleno del Instituto o del Consejo General, en la siguiente sesión, según corresponda, sin que dichos porcentajes de prorrateo puedan ser modificados, y
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+c) El financiamiento de campaña será administrado en su totalidad por los partidos políticos; estableciendo el prorrateo conforme lo previsto en la LGPP y esta Ley; teniendo que informarlas al órgano respectivo del Instituto o del Consejo, en caso de delegación de facultades en esta materia, diez días antes del inicio de la campaña electoral, la cual se hará del conocimiento del Pleno del Instituto o del Consejo General, en la siguiente sesión, según corresponda, sin que dichos porcentajes de prorrateo puedan ser modificados.
 
 III. Por actividades específicas como entidades de interés público:
 
@@ -2353,7 +2505,23 @@ a) La educación y capacitación política, investigación socioeconómica y pol
 
 b) El Instituto o el Consejo, en caso de delegación de facultades, vigilará que los partidos políticos con registro o inscripción destinen el financiamiento a que se refiere la presente fracción exclusivamente a las actividades señaladas en el inciso inmediato anterior.
 
-c) Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+c) Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente, y
+
+IV...(sic)
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+a) El Consejo General determinará en el presupuesto anual de egresos del propio Consejo, la partida destinada a cubrir el costo de la franquicia postal de los partidos políticos con inscripción o registro ante el Consejo. En años no electorales el monto total será equivalente al dos por ciento del financiamiento público para actividades ordinaria (sic). En años electorales equivaldrá al cuatro por ciento del financiamiento público para actividades ordinarias;
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+b) La franquicia postal será asignada en forma igualitaria a los partidos políticos;
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+c) Las partidas destinadas a cubrir el pago de las franquicias postales y telegráficas, no será entregado a los partidos políticos de manera líquida, sino en especie, y siempre que cada partido político las solicite.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
 
@@ -2775,7 +2943,7 @@ IX. Informar y comprobar al Consejo, con documentación fehaciente, en forma sem
 
 La agrupación política deberá presentar dos informes semestrales y uno de manera anual, en los términos establecidos por la presente Ley, y el Reglamento respectivo;
 
-X. Reembolsar al Consejo el monto del financiamiento público, cuyo uso y destino no haya sido legalmente comprobado ante el mismo, o del que no se haya ejercido;
+X. (DEROGADA, P.O. 2 DE JUNIO DE 2026)
 
 XI. Permitir y dar todas las facilidades al Consejo en la verificación e inspección de sus recursos;
 
@@ -3403,11 +3571,11 @@ El Consejo, para efectos de la contratación a que se refiere el artículo inmed
 
 ### Capítulo I. Del Inicio del Proceso Electoral
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 255.
 
-El Consejo General dará inicio al proceso electoral, mediante una sesión pública de instalación convocada por la o el Presidente del mismo, el dos de enero del año de la elección, a fin de iniciar la preparación de la elección que corresponda, en la que se procederá a:
+El Consejo General dará inicio al proceso electoral, mediante una sesión pública de instalación convocada por la o el Presidente de este, el día quince del mes de noviembre del año inmediato anterior al de la elección, a fin de iniciar la preparación de la elección que corresponda, en la que se procederá a:
 
 I. Convocar a los partidos políticos para que designen o ratifiquen ante el Consejo, a quienes deban representarlos:
 
@@ -3509,21 +3677,27 @@ Los partidos políticos, o las coaliciones con derecho a participar en las elecc
 
 El Consejo dará amplia difusión a las convocatorias de registro de candidatas y candidatos, procurando que sean conocidas oportunamente por la ciudadanía potosina.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 265.
 
-En cumplimiento del principio de paridad de género establecido en la Constitución Federal, de la totalidad de solicitudes de registro, tanto de las candidaturas a diputaciones de mayoría relativa, como de representación proporcional; así como de las candidaturas postuladas en las planillas de mayoría relativa y en las listas de regidurías de representación proporcional para la renovación de los ayuntamientos, que sean presentadas ante el Consejo y sus órganos desconcentrados, en ningún caso incluirán más del cincuenta por ciento de candidatos o candidatas propietarias y suplentes del mismo género, con la excepción de que, en virtud de la operación aritmética que se realice para el cálculo del respectivo porcentaje, no sea posible cumplir en esa medida; en consecuencia, se tomará el entero superior siguiente como válido para conformar la lista de candidaturas.
+Para garantizar el cumplimiento del principio de paridad de género en la postulación de Gobernador o Gobernadora, los partidos políticos y coaliciones deberán observar la alternancia de género en las solicitudes de registro, considerando el género de la candidatura registrada en la elección inmediata anterior. En el supuesto de que la candidatura que les corresponda postular sea hombre, podrán postular a una candidata mujer sin que esto afecte la alternancia.
 
-En las fórmulas para el registro de candidaturas a diputaciones de mayoría relativa, como de representación proporcional; así como de candidaturas postuladas en las planillas de mayoría relativa y en las listas de regidurías de representación proporcional para la renovación de los ayuntamientos, las candidaturas de propietario y suplente serán del mismo género.
+En el caso de coaliciones, la referencia del género se hará tomando al partido político que encabece dicha coalición, en términos del convenio correspondiente y en apego al contenido señalado en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
-(NOTA: EL 11 DE JULIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2022 Y SU ACUMULADA 152/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE JULIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+Las candidaturas independientes deberán de cumplir con el principio de paridad de género en la elección de la titularidad del Poder Ejecutivo, para lo cual deberán de participar únicamente aquellas personas que sean del género distinto al que postularon los partidos políticos en la elección inmediata anterior.
 
-En las listas de candidatos o candidatas a diputados o diputadas se deberá incluir al menos una persona, joven menor de treinta años; UNA PERSONA CON DISCAPACIDAD; y una persona de la diversidad sexual, Los medios de verificación de cumplimiento de estas medidas y sus condiciones serán establecidos mediante los lineamientos que al efecto expida el Consejo.
+En cumplimiento del principio de paridad de género establecido en la Constitución Política de los Estados Unidos Mexicanos, de la totalidad de solicitudes de registro, tanto de las candidaturas a diputaciones de mayoría relativa, como de representación proporcional, así como de las candidaturas postuladas en las planillas de mayoría relativa y en las listas de regidurías de representación proporcional para la renovación de los ayuntamientos, que sean presentadas ante el Consejo y sus órganos desconcentrados, en ningún caso incluirán más del cincuenta por ciento de candidatos o candidatas propietarias y suplentes del mismo género, con la excepción de que, en virtud de la operación aritmética que se realice para el cálculo del respectivo porcentaje, no sea posible cumplir en esa medida; en consecuencia, se tomará el entero superior siguiente como válido para conformar la lista de candidaturas.
 
-Las listas de representación proporcional deberán cumplir con el principio de paridad de género señalado en la Constitución Federal, para lo cual se registraran de forma alternada, candidatos propietarios de género distinto.
+En las fórmulas para el registro de candidaturas a diputaciones de mayoría relativa y de representación proporcional, así como de candidaturas postuladas en las planillas de mayoría relativa y en las listas de regidurías de representación proporcional para la renovación de los ayuntamientos, las candidaturas de propietario y suplente serán del mismo género.
 
-Las candidaturas suplentes serán del mismo género que la o el candidato propietario.
+En las listas de personas candidatas diputadas se deberá incluir al menos una persona joven menor de treinta años, una persona con discapacidad, y una persona de la diversidad sexual. Los medios de verificación de cumplimiento de estas medidas, y sus condiciones, serán establecidos mediante los lineamientos que para tal efecto expida el Consejo.
 
-Las candidatas y candidatos a diputaciones, regidurías, y sindicaturas municipales, se registrarán por fórmulas, con un propietario o propietaria, y un suplente para cada cargo.
+Las listas de representación proporcional deberán cumplir con el principio de paridad de género señalado en la Constitución Federal, para lo cual se registrarán, de forma alternada, las personas candidatas propietarias de género distinto.
+
+Las candidaturas suplentes serán del mismo género que la persona candidata propietaria.
+
+Las personas candidatas a diputaciones, regidurías, y sindicaturas municipales, se registrarán por fórmulas, con una persona propietaria, y una suplente para cada cargo.
 
 ###### ARTÍCULO 266.
 
@@ -3541,19 +3715,19 @@ Así también, los partidos políticos, una vez que registren sus fórmulas de c
 
 Las candidatas y candidatos a diputaciones, regidurías y sindicaturas municipales, se registrarán por fórmulas, con una persona propietaria y una suplente para cada cargo.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 268.
 
-En la elección de ayuntamientos se elegirán candidaturas propuestas por los principios de mayoría relativa, y representación proporcional. Los de mayoría se registrarán en una planilla con los nombres de quienes se proponen a los cargos de presidenta o presidente municipal, primera regiduría propietaria, y una o dos sindicaturas, según corresponda. Por cada regiduría y sindicatura propietarias se elegirá un suplente. Las candidaturas a regidurías de representación proporcional, se presentarán en una lista en orden ascendente en el número que al efecto señala esta Ley, y el artículo 13, de la Ley Orgánica del Municipio.
+En la elección de ayuntamientos se elegirán candidaturas propuestas por los principios de mayoría relativa, y representación proporcional. Las personas candidatas por el principio de mayoría se registrarán en una planilla con los nombres de quienes se proponen al cargo de presidenta o presidente municipal, al cargo de primera regiduría propietaria, y al cargo de sindicatura, según corresponda. Por cada regiduría y sindicatura propietarias se elegirá un suplente. Las candidaturas a regidurías de representación proporcional se presentarán en una lista en orden ascendente de acuerdo con el número que al efecto señala esta Ley, y el artículo 13 de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí.
 
-Tanto las candidaturas de las planillas de mayoría relativa, como de las listas de regidurías de representación proporcional, deberán cumplir con el principio de paridad de género establecido en la Constitución Federal.
+Tanto las candidaturas de las planillas de mayoría relativa, como de las listas de regidurías de representación proporcional, deberán cumplir con el principio de paridad de género establecido en la Constitución Política de los Estados Unidos Mexicanos.
 
-Para lo anterior, adicionalmente a lo dispuesto en este artículo, las candidaturas se registrarán tanto en las planillas como en las listas, de forma alternada, integrando candidaturas propietarias de género distinto, garantizando con ello la paridad vertical. Las candidaturas suplentes serán del mismo género que las candidaturas propietarias.
+Las candidaturas se registrarán tanto en las planillas como en las listas de representación proporcional de forma alternada, integrando candidaturas propietarias de género distinto, garantizando con ello la paridad vertical. Las candidaturas suplentes serán del mismo género que las candidaturas propietarias.
 
-Así también, a efecto de garantizar la paridad horizontal, los partidos políticos deberán postular planillas encabezadas en un cincuenta por ciento por un género y el restante cincuenta por ciento por candidaturas de género distinto. En caso que del total de quienes encabezan las postulaciones, resulte un número impar, se deberá privilegiar al género femenino. El Consejo emitirá los lineamientos correspondientes para el establecimiento de las condiciones mínimas exigibles para el cumplimiento del principio de paridad.
+Con el propósito de garantizar la paridad horizontal, los partidos políticos deberán postular planillas encabezadas en un cincuenta por ciento por un género y el restante cincuenta por ciento por candidaturas de género distinto. En caso que del total de quienes encabezan las postulaciones resulte un número impar, se deberá privilegiar al género femenino. El Consejo emitirá los lineamientos correspondientes para el establecimiento de las condiciones mínimas exigibles para el cumplimiento del principio de paridad.
 
-(NOTA: EL 11 DE JULIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2022 Y SU ACUMULADA 152/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE JULIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-Para el caso de las postulaciones de candidaturas para la integración de los ayuntamientos, cada partido político deberá postular, dentro de sus listas de representación proporcional al menos, UNA FÓRMULA INTEGRADA POR PERSONAS CON DISCAPACIDAD, y una fórmula integrada por personas de la diversidad sexual en cualquiera de los municipios de la Entidad. Los medios de verificación de cumplimiento de estas medidas y sus condiciones serán establecidos mediante los lineamientos que al efecto expida el Consejo.
+Para el caso de las postulaciones de candidaturas para la integración de los ayuntamientos, cada partido político deberá postular, dentro de sus listas de representación proporcional al menos, una fórmula integrada por personas con discapacidad y una fórmula integrada por personas de diversidad sexo genérica en cualquiera de los municipios de la entidad. Los medios de verificación de cumplimiento de estas medidas y sus condiciones serán garantizados mediante los lineamientos que al efecto expida el Consejo.
 
 (NOTA: EL 11 DE JULIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2022 Y SU ACUMULADA 152/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 13 DE JULIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -4003,9 +4177,11 @@ SE DISPONDRÁ EL USO DE PLANTILLAS EN BRAILLE, PARA LAS BOLETAS ELECTORALES, Y C
 
 El orden en que aparezcan los logotipos de los partidos, o los de las candidatas o candidatos independientes, en las boletas electorales, atenderá a la antigüedad del registro que tenga cada partido político o la candidata o candidato independiente.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 310.
 
-En caso de cancelación o sustitución de uno o más candidatas o candidatos, no habrá modificación a las boletas si éstas ya estuvieran impresas. En todo caso, los votos contarán para los partidos políticos, las coaliciones, y las candidatas o candidatos que estuviesen legalmente registrados ante los comités municipales electorales, comisiones distritales electorales, o el Consejo.
+En caso de cancelación o sustitución de una o más candidatas o candidatos, no habrá modificación a las boletas si éstas ya fueron remitidas para su impresión. En todo caso, los votos contarán para los partidos políticos, las coaliciones, y para las personas candidatas que estuviesen legalmente registradas ante los comités municipales electorales, las comisiones distritales electorales, o el Consejo.
 
 ###### ARTÍCULO 311.
 
@@ -4037,11 +4213,17 @@ La entrega de material electoral y, particularmente, de las boletas y carteles e
 
 Las comisiones distritales, o los comités municipales electorales, entregarán a cada presidenta y presidente de mesa directiva de casilla, dentro de los cinco días previos a la jornada electoral, y contra el recibo detallado correspondiente, el material electoral, que quedará hasta el día de la elección bajo su custodia y que deberá conformarse por:
 
-I. Las boletas para cada elección en paquetes fajillados, en número igual al de los electores que figuren en la lista nominal de electores con fotografía para cada casilla de la sección, más las que, justificadamente, en su caso, apruebe el Consejo General;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-II. Las urnas de material transparente para recibir la votación; se entregará una urna para cada elección de que se trate;
+I. Las boletas para cada elección en paquetes agrupados, en número igual al de las y los electores que figuren en la lista nominal de electores con fotografía para cada casilla de la sección, más las que, justificadamente, en su caso, apruebe el Consejo General;
 
-III. La documentación, formas de actas, en el número y clase prescritas, preparadas para permitir obtenerse las suficientes copias legibles, así como el instructivo correspondiente, y un ejemplar de la Ley Electoral del Estado vigente;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+II. Las urnas de material transparente para recibir la votación. Se entregará una urna para cada elección de que se trate;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+III. La documentación, formas de actas, en el número y clase prescritas, preparadas para permitir obtenerse las suficientes copias legibles, así como el instructivo correspondiente.
 
 IV. Los canceles o elementos modulares que garanticen que el elector pueda emitir su voto en secreto;
 
@@ -4255,9 +4437,11 @@ Ninguna persona física o moral, sea a título propio o por cuenta de terceros, 
 
 Durante todo el tiempo que duren los procesos electorales, está prohibido el uso de todo tipo de publicidad o propaganda relacionada con partidos políticos, candidatas o candidatos, tanto en exterior como en el interior de los vehículos destinados al servicio de transporte público, y en los servicios auxiliares del mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 337.
 
-Las campañas electorales para la Gubernatura del Estado tendrán una duración de sesenta días. Las campañas electorales para diputaciones y ayuntamientos tendrán una duración de cuarenta días.
+Las campañas electorales para la Gubernatura del Estado tendrán una duración de sesenta días. Las campañas electorales para diputaciones y ayuntamientos tendrán una duración de cuarenta días, debiendo concluir tres días antes de celebrarse la jornada electoral.
 
 Las campañas electorales de los partidos políticos se iniciarán a partir del día siguiente al de la sesión de registro de candidaturas para la elección respectiva, debiendo concluir tres días antes de celebrarse la jornada electoral.
 
@@ -4269,15 +4453,21 @@ Durante los tres días previos a la elección y hasta la hora del cierre oficial
 
 Las personas físicas o morales que pretendan llevar a cabo encuestas por muestreo para dar a conocer las preferencias electorales de los ciudadanos, o las tendencias de las votaciones, adoptarán los criterios generales de carácter científico que para tal efecto emita el Instituto, previa consulta con los profesionales del ramo o las organizaciones en que se agrupen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 338.
 
-En materia de debates, es obligatoria la organización de por lo menos dos entre todos los candidatos o candidatas a la Gubernatura del Estado, dentro de los sesenta días del plazo de campaña; y uno entre los candidatos o candidatas por cada distrito, dentro de los cuarenta días del plazo de la campaña.
+Para todas las personas candidatas a la Gubernatura del Estado, será obligatoria la organización y participación en por lo menos dos debates, los cuales deberán celebrarse dentro de los sesenta días de duración de la campaña. También será obligatoria la celebración de por lo menos un debate para todas las personas candidatas al cargo de la presidencia de los cinco municipios con la mayor lista nominal.
 
-El Consejo promoverá la celebración de debates entre los diversos candidatos o candidatos a cargos de elección popular, los cuales se podrán llevar a cabo cuando alguno de ellos lo solicite, y siempre que medie acuerdo entre los candidatos que deseen participar.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-Asimismo, a petición de los interesados, el Consejo podrá coordinar la celebración de debates entre otras candidaturas a cargos de elección popular, para ello se deberá contar con el acuerdo previo de las candidatas y candidatos interesados.
+El Consejo promoverá debates entre las diversas candidaturas a cargos de elección popular, que se podrán realizar cuando alguno de ellos lo solicite, y siempre que medie acuerdo entre quienes deseen participar.
 
-En ambos casos, los candidatos y candidatas se regirán por el Reglamento y mecanismos que para tal efecto emita el Consejo General, y que deberá ser publicado en el Periódico Oficial; además de mostrar en todo momento, un alto nivel de civilidad y respeto a los otros contendientes, y a los propios organismos electorales.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+En todos los casos, las candidaturas se regirán por el Reglamento y mecanismos que emita el Consejo General y que deberá publicarse en el Periódico Oficial del Estado, “Plan de San Luis”. Durante la realización de los debates, todas las personas candidatas a los diversos cargos de elección popular deberán mostrar en todo momento, un alto nivel de civilidad y respeto a las personas contendientes, y a los organismos electorales.
 
 Los medios de comunicación, nacionales y locales, podrán organizar libremente debates entre las candidatas y candidatos a cargos de elección popular, siempre y cuando cumplan con lo siguiente:
 
@@ -4337,7 +4527,9 @@ Las facultades que tendrán los funcionarios de las mesas directivas de casilla 
 
 El primer domingo de junio del año de la elección ordinaria, a las 7:30 horas, los ciudadanos presidenta o presidente, secretaria o secretario y escrutadores de las mesas directivas de las casillas nombrados como propietarios deberán presentarse para iniciar con los preparativos para la instalación de la casilla en presencia de los representantes de partidos políticos y de candidatos independientes que concurran.
 
-Los demás organismos electorales se instalarán en sesión permanente a partir de las 6:30 horas.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Los demás organismos electorales se instalarán en sesión permanente a partir de las 08:00 horas.
 
 ###### ARTÍCULO 347.
 
@@ -5071,9 +5263,11 @@ III. La Secretaría Ejecutiva, por sí o a través del funcionario o los funcion
 
 La Comisión de Quejas y Denuncias mencionada, se integrará por tres consejeros electorales, quienes serán designados, para un periodo de tres años, por el Consejo General. Sus sesiones y procedimientos serán determinados en el reglamento que al efecto apruebe el propio Consejo General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 408.
 
-Las notificaciones se harán a más tardar dentro de los tres días hábiles siguientes al en que se dicten las resoluciones que las motiven y surtirán sus efectos el mismo día de su realización.
+Las notificaciones se harán a más tardar dentro de los tres días hábiles siguientes a la fecha en que se dicten las resoluciones que las motiven y surtirán sus efectos el mismo día de su realización.
 
 Cuando la resolución entrañe una citación o un plazo para la práctica de una diligencia se notificará personalmente, al menos con tres días hábiles de anticipación al día y hora en que se haya de celebrar la actuación o audiencia. Las demás se harán por cédula que se fijará en los estrados del Consejo o del órgano que emita la resolución de que se trate. En todo caso, las que se dirijan a una autoridad u órgano partidario se notificarán por oficio.
 
@@ -5101,9 +5295,23 @@ Si a quien se busca se niega a recibir la notificación, o las personas que se e
 
 Las notificaciones personales podrán realizarse por comparecencia del interesado, de su representante, o de su autorizado ante el órgano que corresponda.
 
-La notificación de las resoluciones que pongan fin al procedimiento de investigación será personal, se hará a más tardar dentro de los tres días hábiles siguientes a aquél en que se dicten, entregando al denunciante y al denunciado, copia certificada de la resolución.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+La notificación de la resolución que ponga fin al procedimiento de investigación será personal, se hará a más tardar dentro de los tres días hábiles siguientes a aquél en que se dicten, entregando al denunciante y al denunciado, copia certificada de la resolución.
 
 Los plazos se contarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas. Durante los procesos electorales todos los días y horas son hábiles. En el caso de las quejas o denuncias que se inicien antes del proceso electoral, los plazos se computarán por días hábiles, respecto de las que se presenten una vez iniciado aquél, por días naturales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2026)</small>
+
+Cuando las personas promoventes o comparecientes omitan señalar domicilio procesal para oír y recibir notificaciones, o este no resulte correcto, o se encuentre ubicado fuera de la capital del Estado, esta se realizará por estrados.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE JUNIO DE 2026)</small>
+
+Los términos se contarán de momento a momento, y si están señalados por días, estos se considerarán de veinticuatro horas. Durante los procesos electorales todos los días y horas son hábiles. En el caso de las quejas o denuncias que se inicien antes del proceso electoral, los términos se computarán por días hábiles.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Respecto de las quejas que se presenten una vez iniciado el proceso electoral, los términos se computarán por días naturales.
 
 ###### ARTÍCULO 409.
 
@@ -5189,7 +5397,9 @@ IV. Medidas de no repetición.
 
 El Procedimiento Sancionador Ordinario se aplicará para el conocimiento de las faltas, y aplicación de sanciones por las infracciones a que se refiere esta Ley, distintas de aquéllas respecto de las cuales proceda el Procedimiento Sancionador Especial.
 
-El Procedimiento Sancionador Ordinario podrá iniciar a instancia de parte; o de oficio cuando cualquier órgano del Consejo tenga conocimiento de la comisión de conductas infractoras.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+El Procedimiento Sancionador Ordinario podrá iniciar a instancia de parte; o de oficio cuando cualquier órgano del Consejo tenga conocimiento de la comisión de conductas infractoras, quien deberá informarlo a la Secretaría Ejecutiva, mediante oficio dentro de las cuarenta y ocho horas siguientes a que tuviera conocimiento de los hechos y en su caso, remitir las constancias con las que cuente.
 
 La facultad del Consejo para fincar responsabilidades por infracciones a las disposiciones de esta Ley, prescribe en cinco años.
 
@@ -5203,7 +5413,9 @@ La queja o denuncia podrá ser presentada por escrito, en forma oral o por medio
 
 I. Nombre de la persona quejosa o denunciante; cuando sea por escrito deberá contar con firma o huella digital;
 
-II. Domicilio en la capital del Estado para oír y recibir notificaciones;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+II. Domicilio procesal dentro de la capital del Estado para oír y recibir notificaciones; debiendo indicar el nombre de las personas autorizadas para tales efectos;
 
 III. Tratándose de personas morales, el documento o documentos que acrediten la personería;
 
@@ -5277,7 +5489,9 @@ I. Nombre de la persona denunciada o su representante, con firma autógrafa o hu
 
 II. Deberá referirse a los hechos que se le imputan, afirmándolos, negándolos, o declarando que los desconoce;
 
-III. Domicilio para oír y recibir notificaciones;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+III. Domicilio procesal dentro de la capital del Estado para oír y recibir notificaciones; debiendo indicar el nombre de las personas autorizadas para tales efectos;
 
 IV. En su caso, los documentos que sean necesarios para acreditar la personería, y
 
@@ -5367,7 +5581,9 @@ La denuncia deberá reunir los siguientes requisitos:
 
 I. Nombre del denunciante con firma autógrafa o huella digital;
 
-II. Domicilio para oír y recibir notificaciones;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+II. Domicilio procesal dentro de la capital del Estado para oír y recibir notificaciones; debiendo indicar el nombre de las personas autorizadas para tales efectos;
 
 III. Los documentos, en su caso, que sean necesarios para acreditar la personería;
 
@@ -5389,13 +5605,23 @@ II. Los hechos denunciados no constituyan una violación en materia de propagand
 
 III. La denunciante no aporte ni ofrezca prueba alguna de sus dichos, o
 
-IV. La denuncia sea evidentemente frívola.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-La Secretaría Ejecutiva deberá admitir o desechar la denuncia en un plazo no mayor a 48 horas posteriores a su recepción. En caso de desechamiento, notificará a la denunciante su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas; tal resolución deberá ser confirmada por escrito y se informará al Tribunal Electoral del Estado, para su conocimiento.
+IV. La denuncia sea notoriamente improcedente.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+La Secretaría Ejecutiva deberá admitir o desechar la denuncia en un plazo no mayor a cuarenta y ocho horas posteriores a su recepción, o una vez que, a su juicio, cuente con los elementos necesarios para emitir dicha determinación; procurando la celeridad de la misma. En caso de desechamiento, notificará a la denunciante su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas. La resolución deberá ser confirmada por escrito y se informará al Tribunal Electoral del Estado, para su conocimiento.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 430.
 
-La Secretaría Ejecutiva cuando admita la denuncia, emplazará a la persona denunciante y a la persona denunciada para que comparezcan a una audiencia de pruebas y alegatos que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos para que produzca su contestación, la que deberá cumplir con los requisitos que establece el artículo 420, de la presente Ley.
+La Secretaría Ejecutiva cuando admita la denuncia, emplazará a la persona denunciante y a la persona denunciada para que comparezcan a una audiencia de pruebas y alegatos que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión.
+
+En caso de que posterior a la admisión, se estime necesario ordenar diligencias de investigación para la debida integración del expediente, se reservará el emplazamiento hasta en tanto se desahoguen las diligencias ordenadas.
+
+En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos para que produzca su contestación, la que deberá cumplir con los requisitos que establece el artículo 420, de la presente Ley.
 
 Si la Secretaría Ejecutiva considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión de Quejas y Denuncias dentro del mismo plazo de cuarenta y ocho horas, en los términos que establece la presente Ley. Esta decisión podrá ser impugnada ante el Tribunal Electoral competente.
 
@@ -5447,7 +5673,9 @@ La denuncia deberá contener lo siguiente:
 
 I. Nombre de la persona denunciante, con firma autógrafa o huella digital;
 
-II. Domicilio para oír y recibir notificaciones;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+II. Domicilio procesal dentro de la capital del Estado para oír y recibir notificaciones; debiendo indicar el nombre de las personas autorizadas para tales efectos;
 
 III. Narración expresa de los hechos en que se basa la denuncia;
 
@@ -5455,9 +5683,11 @@ IV. Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las
 
 V. En su caso, las medidas cautelares y de protección que se soliciten.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 434.
 
-La Secretaría Ejecutiva, deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción; tal determinación deberá ser notificada y se informará al Tribunal Electoral del Estado, para su conocimiento.
+La Secretaría Ejecutiva, deberá notificar al Tribunal Electoral del Estado la admisión o desechamiento de las denuncias que tramite, para su conocimiento, en un plazo no mayor a 24 horas.
 
 La Secretaría Ejecutiva desechará la denuncia cuando:
 
@@ -5468,6 +5698,10 @@ II. Sea notoriamente frívola o improcedente.
 Cuando la Secretaría Ejecutiva admita la denuncia, emplazará a las partes, para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará a la persona denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
 
 En lo procedente, el desarrollo de la audiencia de pruebas y alegatos y su traslado al Tribunal Electoral del Estado, atenderá a lo dispuesto por los artículos, 430, y 431 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Para el caso de que se ordenen diligencias de investigación, se observará lo previsto por el artículo 430 de esta Ley.
 
 ###### ARTÍCULO 435.
 
@@ -5611,25 +5845,41 @@ II. Incumplir cualquiera de las disposiciones del presente Ordenamiento y las qu
 
 III. Permitir la violencia política atribuible a sus representantes, dirigentes o afiliados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 442.
 
-Son infracciones atribuibles a los aspirantes, precandidatas o precandidatos, candidatas o candidatos a cargos de elección popular, a que se refiere esta Ley:
+Son infracciones atribuibles a las personas aspirantes precandidatas, y candidatas a cargos de elección popular, a que se refiere esta Ley:
 
-I. Realizar actos anticipados de precampaña o campaña, según sea el caso;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-II. Solicitar o recibir recursos, en dinero o en especie, de personas no autorizadas por esta Ley, tratándose de los aspirantes, precandidatas o precandidatos;
+I. Realizar actos anticipados de precampaña o campaña, según se trate;
 
-III. Omitir en los informes respectivos los recursos recibidos, en dinero o en especie, destinados a su precampaña o campaña;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-IV. Incumplir con la obligación de presentar el informe de gastos de precampaña o campaña que estatuye esta Ley;
+II. Solicitar o recibir recursos, en dinero o en especie, de personas no autorizadas por esta Ley, tratándose de las personas aspirantes a precandidatas;
 
-V. Exceder el tope de gastos de precampaña, o campaña, establecido por el Consejo;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-VI. La utilización de programas sociales y de sus recursos del ámbito federal, estatal o municipal, con la finalidad de realizar una promoción personalizada tendiente de inducir o coaccionar a las ciudadanas o ciudadanos para votar a favor o en contra de cualquier partido político, candidata o candidato, y
+III. Incumplir con la obligación de presentar el informe de gastos de precampaña o campaña que estatuye esta Ley;
 
-VII. Ejercer actos u omisiones que constituyan violencia política, y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-VIII. Incumplir cualquiera de las disposiciones del presente Ordenamiento, y las diversas que prevean otras disposiciones legales aplicables.
+IV. Exceder los topes de gastos de precampaña o campaña, establecidos por el Consejo;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+V. La utilización de programas sociales y de sus recursos del ámbito federal, estatal o municipal, con la finalidad de realizar una promoción personalizada tendiente de inducir o coaccionar a la ciudadanía para votar a favor o en contra de cualquier partido político, o de las personas candidatas;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+VI. Ejercer actos u omisiones que constituyan violencia política, y
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+VII. Incumplir cualquiera de las disposiciones de la presente Ley, y de las diversas normas que prevean otras disposiciones legales aplicables.
+
+VIII. (DEROGADA, P.O. 2 DE JUNIO DE 2026)
 
 ###### ARTÍCULO 443.
 
@@ -6476,3 +6726,13 @@ P.O. 22 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0539.- MEDIANTE EL CUAL SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, ASÍ COMO SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Para el proceso electoral local ordinario 2026-2027, los partidos políticos y coaliciones podrán postular y registrar libremente a personas de cualquier género, en observancia con los principios generales de paridad de género. A partir del proceso electoral 2032-2033, los partidos políticos y las coaliciones deberán observar la alternancia de género en sus postulaciones para la renovación del Poder Ejecutivo del Estado, debiendo postular a una persona del género distinto a la registrada en el proceso electoral local ordinario 2026-2027. Para el proceso electoral 2032-2033, los partidos políticos y las coaliciones solamente podrán postular a una persona del mismo género al registrado en el proceso inmediato anterior, cuando esta sea mujer.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
