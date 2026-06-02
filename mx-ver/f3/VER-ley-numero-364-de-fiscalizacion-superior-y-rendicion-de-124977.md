@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-364-de-fiscalizacion-superior-y-rendicion-de-124977"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-18"
-last_updated: "2025-04-29"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 18 de diciembre de 2017.
 
@@ -521,9 +521,11 @@ En el caso del Poder Ejecutivo, independientemente de lo anterior, para su integ
 
 Los titulares de las Dependencias y Entidades serán los responsables directos de atender las revisiones o auditorías, en el proceso de la Fiscalización Superior, que deriven de la información proporcionada para la integración de la Cuenta Pública, debiendo aportar al Órgano los soportes documentales que sustenten dicha información para los efectos de la validación a que haya lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2026)</small>
+
 ###### Artículo 28.
 
-Las Cuentas Públicas del año anterior, serán presentadas por los Entes Fiscalizables al Congreso, a más tardar el día treinta de abril. Sólo se podrá ampliar el plazo de presentación de la Cuenta Pública del Gobierno del Estado, hasta por treinta días naturales, mediante solicitud del Gobernador y con autorización del Congreso, pudiendo en su caso, comparecer el Secretario de Despacho correspondiente.
+Las Cuentas Públicas del año anterior, serán presentadas por los Entes Fiscalizables al Congreso, a más tardar el día treinta de abril. Sólo se podrá ampliar el plazo de presentación de la Cuenta Pública del Gobierno del Estado, hasta por treinta días naturales, mediante solicitud de la persona titular del Poder Ejecutivo y con autorización del Congreso, pudiendo en su caso, comparecer la persona titular de la Secretaría de Despacho correspondiente. La Cuenta Pública se presentará a través de medios electrónicos, de conformidad con las disposiciones que para tal efecto emita el Congreso.
 
 El Congreso, por conducto de la Comisión, remitirá al Órgano las Cuentas Públicas dentro de los primeros quince días del mes posterior en que éste las reciba, con las opiniones y recomendaciones que se estimen pertinentes.
 
@@ -1556,3 +1558,13 @@ CUARTO. A partir de la entrada en vigor del presente Decreto, el Órgano de Fisc
 QUINTO. A partir de la entrada en funcionamiento del Buzón Fiscalizador, los Entes Fiscalizables deberán integrar y mantener actualizado un archivo físico con la documentación remitida al Órgano a través del Buzón Fiscalizador o de cualquier otro medio electrónico de los que disponga el Órgano, la cual deberá estar debidamente certificada y disponible para su remisión a cualquier autoridad que la requiera.
 
 SEXTO. A partir de la entrada en vigor del presente Decreto, el Órgano podrá realizar las acciones que permitan y faciliten a los Entes Fiscalizables recibir y remitir la información inherente al Procedimiento de Fiscalización Superior en curso.
+
+G.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 518 POR EL QUE SE REFORMA EL ARTÍCULO 28 PRIMER PÁRRAFO DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Congreso del Estado, en un plazo no mayor a 180 días naturales contado a partir de la entrada en vigor del presente Decreto, realizará las adecuaciones y adiciones que sean necesarias a su marco normativo para la implementación de los medios electrónicos a los que se refiere el mismo.
+
+TERCERO. La Comisión Permanente de Vigilancia coordinará los trabajos de elaboración y formalización de las disposiciones necesarias para efectuar la recepción de los archivos digitales que contengan las Cuentas Públicas que envíen los entes, considerando la opinión de la Secretaría de Fiscalización del Congreso del Estado.
