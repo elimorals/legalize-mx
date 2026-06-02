@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2026-04-30"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -657,9 +657,9 @@ III.- En los demás casos que señalen la Constitución Política de los Estados
 
 La ley fijará el procedimiento para la pérdida y suspensión de los derechos o prerrogativas del ciudadano, el tiempo de la suspensión, las causas y el procedimiento para su rehabilitación.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JUNIO DE 2026)</small>
 
-## TÍTULO QUINTO. DE LA PARTICIPACIÓN DE LOS CIUDADANOS EN LOS PROCESOS ELECTORALES, EN EL REFERENDUM Y EN EL PLEBISCITO
+## TÍTULO QUINTO. DE LA PARTICIPACIÓN DE LA CIUDADANÍA EN LOS PROCESOS ELECTORALES, EN EL REFERENDUM Y EN EL PLEBISCITO
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -767,9 +767,9 @@ Los organismos electorales competentes, con la participación de los partidos po
 
 Los partidos políticos son entidades de interés público que tienen como fin promover la participación de los ciudadanos en la vida democrática, la paridad de género, así como el hacer posible el acceso de sus candidatos, mediante el sufragio universal, libre, secreto y directo de los electores, al ejercicio del poder público, de acuerdo con los programas, principios, ideas y postulados; así como las reglas para garantizar la igualdad entre mujeres y hombres, de conformidad con los procedimientos que establezcan sus estatutos para la postulación de candidatos.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-Los partidos políticos que participen en los procesos electorales locales para integración del Congreso del Estado, deberán garantizar la paridad entre los géneros en la totalidad de sus candidaturas, por ambos principios, debiendo sus fórmulas estar compuestas por candidatos del mismo género.
+Los partidos políticos que participen en los procesos electorales locales observarán la alternancia de género en la postulación para el cargo de Gobernador o Gobernadora considerando el género de la persona registrada en la elección inmediata anterior. Para la integración del Congreso del Estado, deberán garantizar la paridad entre los géneros en la totalidad de sus candidaturas, por ambos principios, debiendo sus fórmulas estar compuestas por candidatos del mismo género.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2020)</small>
 
@@ -1391,15 +1391,17 @@ Ninguna ley tiene carácter obligatorio si no ha sido publicada con dicha formal
 
 ## TÍTULO SÉPTIMO. DEL PODER EJECUTIVO
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JUNIO DE 2026)</small>
 
-### CAPÍTULO I. Del Gobernador del Estado
+### CAPÍTULO I. De la Gubernatura del Estado
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 72.
 
-El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denomina Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí. Su elección será directa y en los términos que disponga la Ley Electoral del Estado, salvo los casos previstos en la presente Constitución.
+El ejercicio del Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador o Gobernadora Constitucional del Estado Libre y Soberano de San Luis Potosí. Su elección será directa y en los términos que disponga la Ley Electoral del Estado, salvo los casos previstos en la presente Constitución.
+
+Los partidos políticos y coaliciones deberán observar la alternancia de género en sus postulaciones para la renovación del Poder Ejecutivo del Estado, considerando el género de la persona registrada en la elección inmediata anterior.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2023)</small>
 
@@ -4242,3 +4244,13 @@ SEGUNDO. El Congreso del Estado, en un plazo de ciento ochenta días, contados a
 TERCERO. El Poder Ejecutivo del Estado y los cincuenta y nueve municipios del Estado, deberán realizar las adecuaciones a sus disposiciones reglamentarias aplicables dentro de los ciento ochenta días siguientes contados a partir de la entrada en vigor del presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0539.- MEDIANTE EL CUAL SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, ASÍ COMO SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Para el proceso electoral local ordinario 2026-2027, los partidos políticos y coaliciones podrán postular y registrar libremente a personas de cualquier género, en observancia con los principios generales de paridad de género. A partir del proceso electoral 2032-2033, los partidos políticos y las coaliciones deberán observar la alternancia de género en sus postulaciones para la renovación del Poder Ejecutivo del Estado, debiendo postular a una persona del género distinto a la registrada en el proceso electoral local ordinario 2026-2027. Para el proceso electoral 2032-2033, los partidos políticos y las coaliciones solamente podrán postular a una persona del mismo género al registrado en el proceso inmediato anterior, cuando esta sea mujer.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
