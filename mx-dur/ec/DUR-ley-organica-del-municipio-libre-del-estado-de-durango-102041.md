@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2026-04-26"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -341,21 +341,19 @@ Los Planes de Desarrollo Municipal, deberán incluir programas de acción tendie
 
 ### Capítulo I. De la Integración del Ayuntamiento
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### Artículo 21.
 
-Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal, un síndico y el número de regidores, de la siguiente manera:
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una Presidencia Municipal, una sindicatura y el número de regidurías, de la siguiente manera:
 
-I. En Durango, 17 regidores.
+I. En los municipios de Durango, Gómez Palacio y Lerdo, 15 regidurías.
 
-II. En Gómez Palacio y Lerdo, 15 regidores.
+II. En Canatlán, Cuencamé, Guadalupe Victoria, Mapimí, Nuevo Ideal, Vicente Guerrero, Mezquital, Nombre de Dios, Poanas, Pueblo Nuevo, San Dimas, Santiago Papasquiaro, Tamazula y Tlahualilo, 9 regidurías.
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
+III. En los demás municipios, se integrarán con 7 regidurías.
 
-III. En Canatlán, Cuencamé, Guadalupe Victoria, Mapimí, Nuevo Ideal, Vicente Guerrero, Mezquital, Nombre de Dios, Poanas, Pueblo Nuevo, San Dimas, Santiago Papasquiaro, Tamazula y Tlahualilo, 9 regidores.
-
-IV. En los demás municipios, se integrarán con 7 regidores.
-
-Para el Presidente Municipal, Síndico y Regidor propietario, se elegirá un suplente. Todos los regidores propietarios serán considerados como representantes populares, con idéntica categoría e igualdad de derechos y obligaciones. En la elección de los ayuntamientos se contemplará el principio de la representación proporcional.
+Para la Presidencia Municipal, Sindicatura o Regidurías propietaria, se elegirá una suplencia. Todas las regidurías propietarias serán consideradas como representantes populares, con idéntica categoría e igualdad de derechos y obligaciones. En la elección de los ayuntamientos se contemplará el principio de la representación proporcional.
 
 ###### Artículo 22.
 
@@ -373,21 +371,35 @@ Cada Ayuntamiento tendrá un secretario, un tesorero o su equivalente, y los dem
 
 ###### Artículo 25.
 
-Para ser electos presidentes, síndicos o regidores de un Ayuntamiento, se requiere:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
 
-I. Ser ciudadano duranguense, en pleno ejercicio de sus derechos, originario del Municipio y con residencia efectiva de tres años, o ciudadano duranguense con residencia efectiva que no sea menor de cinco años inmediatamente anteriores al día de la elección.
+Para ser electos presidentas o presidentes, síndicas o síndicos, regidoras o regidores de un Ayuntamiento, se requiere:
 
-II. Ser mayor de veintiún años de edad al día de la elección.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-III. En el caso de ser Secretario o Subsecretario, Diputado en ejercicio, Magistrado, Consejero de la Judicatura, Comisionado o Consejero de un órgano constitucional autónomo, funcionario municipal de mando superior, servidor público de mando superior de la Federación, o militar en servicio activo, deberá separarse del cargo noventa días antes de la elección.
+I. Ser ciudadana o ciudadano duranguense, en pleno ejercicio de sus derechos, originario del Municipio y con residencia efectiva de tres años, o ciudadana o ciudadano duranguense con residencia efectiva que no sea menor de cinco años inmediatamente anteriores al día de la elección.
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+II. Ser mayor de dieciocho años de edad, al día de la elección.
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+III. En el caso de ser Secretaria, Secretario o Subsecretaria, Subsecretario, Diputada o Diputado en ejercicio, Magistrada, Magistrado, Comisionada o Comisionado del órgano de Administración del Poder Judicial del Estado, Titular, Consejera o Consejero de un órgano constitucional autónomo, funcionario municipal de mando superior, servidor público de mando superior de la Federación, o militar en servicio activo, deberá separarse del cargo noventa días antes de la elección.
 
 IV. No ser Ministro de algún culto religioso.
 
-V. No haya sido condenado por la comisión de delito doloso.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2025)</small>
+V. No haber sido sentenciada o sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos y por delitos de violencia política contra las mujeres por razones de género.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE JUNIO DE 2026)</small>
 
 VI. No ser persona inscrita en el Registro Nacional de Obligaciones Alimentarias.
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+VII. No tener, o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que haya ejercido el cargo siempre que se pretenda postular para dicho cargo dentro del mismo ayuntamiento.
 
 ###### Artículo 26.
 
@@ -3022,3 +3034,21 @@ P.O. 26 DE ABRIL DE 2026.
 PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 427 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO Y DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO".]
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente del inicio de la vigencia de la reforma a la Constitución Política del Estado Libre y Soberano de Durango en materia electoral, publicada en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Lo dispuesto en la fracción I del artículo 21 de la Ley Orgánica del Municipio Libre de Durango, será vigente para la integración de los Cabildos que resulten electos en proceso electoral local 2027-2028.
+
+TERCERO: Lo dispuesto en la fracción VII del articulo 25 de la Ley Orgánica del Municipio Libre de Durango, entrará en vigor previo al inicio del proceso electoral 2029-2030, atendiendo a lo dispuesto por el Decreto por el que se reforma y adicionan los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral publicado en el Diario Oficial de la Federación de fecha martes 1 de abril de 2025 en su edición vespertina.
+
+CUARTO: Por cuanto hace a los numerales 3 y 4 del artículo 10 de la Ley de Instituciones y Procedimientos Electorales para el Estado de Durango, estos cobrarán vigencia para el inicio del proceso electoral 2029-2030, atendiendo a lo dispuesto por el Decreto por el que se reforma y adicionan los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral publicado en el Diario Oficial de la Federación de fecha martes 1 de abril de 2025 en su edición vespertina.
+
+QUINTO: Lo establecido en el artículo 18, numeral 2, de la Ley de Instituciones y Procedimientos Electorales para el Estado de Durango, para la postulación de la Gubernatura los partidos políticos deberán observar el principio de alternancia de género, el cual entrará en vigor para la elección inmediata posterior del proceso electoral local a celebrarse en 2028. En consecuencia, para el proceso electoral 2027-2028, los partidos políticos, coaliciones o candidaturas comunes determinarán libremente el género a postular, conforme a las disposiciones que establezcan para hacer efectiva la paridad sustantiva. Le corresponderá a la Septuagésima Primera Legislatura del H. Congreso del Estado de Durango, establecer las disposiciones legales a fin de garantizar la alternancia de género para los procesos electorales subsecuentes.
+
+SEXTO: Lo dispuesto en el artículo 19, numeral 2, fracción I de la Ley de Instituciones y Procedimientos Electorales para el Estado de Durango, entrará en vigor para la integración de los Cabildos que resulten electos derivado del proceso electoral local 2027-2028.
+
+SÉPTIMO: Se derogan todas las disposiciones que se opongan al presente Decreto.
