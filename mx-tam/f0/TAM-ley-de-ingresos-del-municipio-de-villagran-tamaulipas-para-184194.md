@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-municipio-de-villagran-tamaulipas-para-1841
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-26"
-last_updated: "2025-12-26"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE INGRESOS DEL MUNICIPIO DE VILLAGRÁN, TAMAULIPAS PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en Extraordinario Número 64 del Periódico Oficial del Estado de Tamaulipas, el viernes 26 de diciembre de 2025.
 
@@ -39,8 +39,8 @@ CONCEPTO TARIFA
 
 I a XXV.. […]
 
-XXVI. Por la expedición de licencias de construcción o edificación para antenas de telefonía celular, por cada una 1,138 UMA´s;
+XXVI. (DEROGADA, P.O. 2 DE JUNIO DE 2026)
 
-XXVII. Por la expedición de licencias de construcción o edificación para antenas de radiocomunicación privadas, por cada 30 metros lineales, 7.5 UMA´s
+XXVII. (DEROGADA, P.O. 2 DE JUNIO DE 2026)
 
 XVIII a XXX. […]
