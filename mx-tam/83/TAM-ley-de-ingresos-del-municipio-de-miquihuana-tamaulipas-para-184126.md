@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-municipio-de-miquihuana-tamaulipas-para-184
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-26"
-last_updated: "2025-12-26"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE INGRESOS DEL MUNICIPIO DE MIQUIHUANA, TAMAULIPAS, PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en el Número Extraordinario 64 del Periódico Oficial del Estado de Tamaulipas, el viernes 26 de diciembre de 2025.
 
@@ -91,6 +91,16 @@ XVI. Por alineamiento de predios urbanos o suburbanos, por cada 10 metros lineal
 
 XVII. Por deslinde de predios urbanos o suburbanos, 15 % de una unidad de medida y actualización (UMA), cada metro lineal o fracción del perímetro.
 
-XVIII. Por la expedición de licencias de construcción o edificación para antenas de telefonía celular por cada una 1,138 UMA´S mínimos;
+XVIII. (DEROGADA, P.O. 2 DE JUNIO DE 2026)
 
-XIX. Por la expedición de licencias de construcción o edificación para antenas de radiocomunicación privadas, por cada 30 metros lineales (altura) 7.5 UMA´S.
+XIX. (DEROGADA, P.O. 2 DE JUNIO DE 2026)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JUNIO DE 2026
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1067 MEDIANTE EL CUAL SE DEROGAN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 16 DE LA LEY DE INGRESOS DEL MUNICIPIO DE MIQUIHUANA, TAMAULIPAS PARA EL EJERCICIO FISCAL 2026".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
