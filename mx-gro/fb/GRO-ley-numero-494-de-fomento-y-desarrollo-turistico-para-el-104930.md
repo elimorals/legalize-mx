@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-494-de-fomento-y-desarrollo-turistico-para-el-104930
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-11"
-last_updated: "2026-05-26"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NÚMERO 494 DE FOMENTO Y DESARROLLO TURÍSTICO PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el martes 11 de noviembre de 2014.
 
@@ -39,7 +39,7 @@ C O N S I D E R A N D O
 
 Que en sesión de fecha 30 de julio del 2014, los Ciudadanos Diputados integrantes de la Comisión de Turismo, presentaron a la Plenaria el Dictamen con Proyecto de Ley de Fomento y Desarrollo Turístico para el Estado y los Municipios de Guerrero, en los siguientes términos:
 
-…
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -548,6 +548,14 @@ La Secretaría y los Ayuntamientos, vigilarán que lo dispuesto en este capítul
 ###### Artículo 26.
 
 Las dependencias y entidades de la Administración Pública del Estado y de los Municipios promoverán entre sus trabajadores el turismo social y el accesible
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+###### Artículo 26 Bis.
+
+Será obligación de las autoridades de la administración pública estatal y municipal, garantizar la protección, equipamiento y mantenimiento de las playas incluyentes en nuestro Estado de Guerrero.
+
+Las autoridades de la administración pública estatal y municipal deberán destinar los recursos técnicos y financieros para la protección, equipamiento y mantenimiento de las playas incluyentes; garantizando en todo momento la accesibilidad para la población con discapacidad.
 
 ### CAPÍTULO V. De la Cultura Turística
 
@@ -1700,3 +1708,13 @@ d) Mecanismo de información visible al público sobre derechos de niñas, niño
 e) Supervisión, evaluación y reporte anual al órgano competente estatal en materia de turismo y, en su caso, al sistema de protección de la infancia del Estado de Guerrero.
 
 TERCERO. Remítase el presente a la persona Titular del Poder Ejecutivo del Estado para los efectos conducentes y publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, en la Gaceta del Congreso del Estado Libre y Soberano de Guerrero.
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 530 POR EL QUE SE ADICIONA EL ARTÍCULO 26 BIS A LA LEY NÚMERO 494 DE FOMENTO Y DESARROLLO TURÍSTICO PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto al Poder Ejecutivo del Estado para su conocimiento y efectos legales procedentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, en la Gaceta del Congreso del Estado Libre y Soberano de Guerrero.
