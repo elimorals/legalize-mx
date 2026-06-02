@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2026-03-07"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -2457,9 +2457,9 @@ VII. Salvaguardar su prestigio;
 
 VIII. Recibir atención médica oportuna con la finalidad de prevenir, atender, orientar y controlar el síndrome del desgaste ocupacional;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XI (SIC). Acceder a servicios tendientes a promover, prevenir, diagnosticar, atender, conservar y mejorar la salud mental con enfoque de derechos humanos, perspectiva de género y de juventudes en su caso; y
+IX. Acceder a servicios orientados a la promoción, prevención, diagnóstico, atención, conservación y fortalecimiento de la salud mental, con enfoque de derechos humanos, perspectiva de género y juventudes en su caso, incorporando estrategias de carácter preventivo, psicoeducativo y comunitario; y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE MARZO DE 2023)</small>
 
@@ -5136,3 +5136,9 @@ P.O. 7 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 30132/LXIV /26 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 21, 48, 49, 102, 105, Y 108 DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periód ico Oficial "El Estado de Jalisco"
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30119/LXIV/25 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 186 NUMERAL 1, FRACCIÓN IX DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
