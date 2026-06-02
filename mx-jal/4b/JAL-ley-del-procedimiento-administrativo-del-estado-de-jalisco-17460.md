@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2023-06-01"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -59,9 +59,11 @@ Las disposiciones de este ordenamiento no son aplicables en las materias financi
 
 La presente ley será de aplicación supletoria en materia de actos y procedimientos administrativos municipales, con excepción del Título Primero y del Título Segundo de la Sección Primera, cuya observación será obligatoria para toda autoridad municipal.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### Artículo 3.
 
-El Código de Procedimientos Civiles del Estado de Jalisco será de aplicación supletoria en materia adjetiva a este ordenamiento.
+El Código Nacional de Procedimientos Civiles y Familiares será de aplicación supletoria en materia adjetiva a este ordenamiento.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
@@ -1522,3 +1524,9 @@ P.O. 1 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29199/LXIII/23 QUE ADICIONA UN ARTÍCULO TERCERO TRANSITORIO AL DECRETO 29129/LXIII/23 ESTABLECIENDO QUE ESTE AÑO DEL 2023 POR ÚNICA OCASIÓN EL DÍA INHÁBIL DECLARADO SERÁ EL VIERNES 16 DE JUNIO, EN LUGAR DEL SEGUNDO LUNES DE DICHO MES DE JUNIO, LO QUE PERMITIRÁ REALIZAR EN DICHO DÍA LOS EVENTOS PÚBLICOS Y FESTEJOS QUE EL GOBIERNO DEL ESTADO Y MUNICIPIOS TENGAN PROGRAMADOS PARA TAL EFECTO”.]
 
 ÚNICO. Publíquese el presente decreto, el cual entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30166/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 3° DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco"
