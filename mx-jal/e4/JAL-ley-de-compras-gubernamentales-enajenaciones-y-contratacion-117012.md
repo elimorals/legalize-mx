@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-compras-gubernamentales-enajenaciones-y-contratacion-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-27"
-last_updated: "2026-04-02"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 27 de octubre de 2016.
 
@@ -1831,9 +1831,11 @@ IV. Decretar la nulidad del acto impugnado, para efectos de su reposición, subs
 
 1. Si como resultado de las facultades de vigilancia la Contraloría, o el Órgano de control, se detectan presuntas irregularidades en el seguimiento de las contrataciones por parte de la convocante, se podrá determinar la sustanciación de investigaciones de oficio, a fin de revisar la legalidad de los actos a que se refiere la presente Ley.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### Artículo 109.
 
-1. Para los aspectos no previstos en esta Ley para la integración de la instancia de la inconformidad, se aplicará como norma supletoria la Ley del Procedimiento Administrativo del Estado de Jalisco, y en lo no previsto en ésta, el Código de Procedimientos Civiles del Estado de Jalisco.
+1. Para los aspectos no previstos en esta Ley para la integración de la instancia de la inconformidad, se aplicará como norma supletorio (sic) la Ley del Procedimiento Administrativo del Estado de Jalisco, y en lo no previsto en ésta, el Código Nacional de Procedimientos Civiles y Familiares.
 
 ### CAPÍTULO V. PROCEDIMIENTO DE CONCILIACIÓN
 
@@ -2452,3 +2454,9 @@ P.O. 2 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 30118/LXIV /25 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 6 Y 8 DE LA LEY PARA EL DESARROLLO ECONÓMICO Y EL ARTÍCULO 144 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30172/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
