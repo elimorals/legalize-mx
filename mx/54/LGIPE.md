@@ -4,7 +4,7 @@ identifier: "LGIPE"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-05-23"
-last_updated: "2024-10-14"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100928&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGIPE"
 
 LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2026.
 
 Ley publicada en la Segunda y Tercera Sección del Diario Oficial de la Federación, el viernes 23 de mayo de 2014.
 
@@ -1018,11 +1018,9 @@ j) No ser ni haber sido miembro del Servicio Profesional Electoral, ni ser o hab
 
 1. El Consejo General integrará las comisiones temporales que considere necesarias para el desempeño de sus atribuciones, las que siempre serán presididas por una Consejera o Consejero Electoral.
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2023)</small>
-
-2. EL CONSEJO GENERAL PARA EL DESEMPEÑO DE SUS ATRIBUCIONES Y PARA LA SUPERVISIÓN DE SUS ÓRGANOS EJECUTIVOS Y TÉCNICOS, INTEGRARÁ DE MANERA PERMANENTE LAS COMISIONES SIGUIENTES: ADMINISTRACIÓN; ORGANIZACIÓN Y CAPACITACIÓN ELECTORAL; IGUALDAD DE GÉNERO Y ATENCIÓN A GRUPOS EN SITUACIÓN DE VULNERABILIDAD; PARTIDOS POLÍTICOS; REGISTRO FEDERAL DE ELECTORES; JURÍDICA Y DE LO CONTENCIOSO ELECTORAL, Y FISCALIZACIÓN. LAS PERSONAS CONSEJERAS ELECTORALES PODRÁN PARTICIPAR HASTA EN CUATRO DE LAS COMISIONES ANTES MENCIONADAS POR UN PERIODO DE TRES AÑOS. LA PRESIDENCIA DE TALES COMISIONES SERÁ ROTATIVA EN FORMA ANUAL ENTRE SUS INTEGRANTES Y SE DEBERÁ RENOVAR A LA TOTALIDAD DE SUS INTEGRANTES CADA TRES AÑOS. NO PUEDEN SER PARTE DE LA MISMA COMISIÓN NINGUNA CONSEJERA O CONSEJERO ELECTORAL DE FORMA CONSECUTIVA.
+2. Independientemente de lo señalado en el párrafo anterior, las comisiones de: Capacitación Electoral y Educación Cívica; Organización Electoral; Prerrogativas y Partidos Políticos; Servicio Profesional Electoral Nacional; Registro Federal de Electores; Quejas y Denuncias; Fiscalización, y Vinculación con los Organismos Públicos Locales; Igualdad de Género y no Discriminación, y Verificación de Integridad en Candidaturas funcionarán permanentemente y se integrarán exclusivamente por Consejeras o Consejeros Electorales designados por el Consejo General. Las Consejeras y los Consejeros Electorales podrán participar hasta en cuatro de las comisiones antes mencionadas por un periodo de tres años; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
 
 (NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE DEROGA EL NUMERAL 3 DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -5202,15 +5200,55 @@ o) Proponer a la Comisión de Fiscalización las sanciones a imponer de acuerdo 
 
 2. DE IGUAL FORMA LA DIRECCIÓN EJECUTIVA DE FISCALIZACIÓN PODRÁ REQUERIR A LOS PARTICULARES, PERSONAS FÍSICAS Y MORALES, LE PROPORCIONEN LA INFORMACIÓN Y DOCUMENTACIÓN NECESARIA PARA EL CUMPLIMIENTO DE SUS ATRIBUCIONES, QUIENES DEBERÁN ATENDER EL REQUERIMIENTO EN LOS PLAZOS SEÑALADOS EN EL PÁRRAFO INMEDIATO ANTERIOR.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE JUNIO DE 2026)</small>
+
+## TÍTULO SEGUNDO BIS. De la Integridad de las Candidaturas
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO ÚNICO. De la Comisión de Verificación de Integridad en Candidaturas
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2026)</small>
+
+###### Artículo 200 Bis.
+
+1. La Comisión de Verificación de Integridad en Candidaturas tiene por objeto recibir de los partidos políticos o de las personas que aspiren a una candidatura independiente, los listados de personas que pretendan postular como candidatas a un cargo de elección popular, ya sea federal o local, previo a su registro ante la autoridad electoral para que, en coordinación con las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y financiera, se realice un análisis de riesgo sobre sus perfiles.
+
+2. La entrega de la información a que se refiere el párrafo anterior podrá ser total o parcial, y se realizará de manera voluntaria por parte de los partidos políticos o de las personas que aspiren a una candidatura independiente.
+
+3. Los partidos políticos establecerán mecanismos para que las personas que pretendan ser postuladas manifiesten su conformidad de que su perfil sea objeto de un análisis de riesgo, en los términos previstos en la ley.
+
+4. Los partidos políticos, con base en la información que les sea proporcionada por la Comisión de Verificación de Integridad en Candidaturas, determinarán sobre la procedencia o no del registro de las personas evaluadas como candidatas por ese instituto político.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2026)</small>
+
+###### Artículo 200 Ter.
+
+1. La Comisión de Verificación de Integridad en Candidaturas tiene las atribuciones siguientes:
+
+a) Recibir de los partidos políticos y, en su caso, de las personas que aspiren a una candidatura independiente las listas de las personas que pretendan postular a fin de que se sometan a una evaluación de riesgo. La Comisión deberá garantizar la confidencialidad de la información que reciba en términos del presente artículo;
+
+b) Remitir a las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y financiera, la información a que se refiere el inciso anterior, a fin de que determinen la existencia o no de un riesgo razonable sobre posibles actividades delictivas respecto de las postulaciones propuestas por los partidos políticos o, en su caso, de las personas que aspiren a una candidatura independiente, y
+
+c) Recibir la información de las instancias competentes a que se refiere el inciso anterior donde se advierta la existencia o no de un riesgo razonable, sin señalar el asunto del que se derive el riesgo, y notificar a los partidos políticos o a las personas que aspiren a una candidatura independiente el número y las instancias competentes que, en su caso, hayan identificado la existencia de un riesgo razonable.
+
+2. Con independencia de lo anterior, de encontrar información relevante, las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y financiera, de acuerdo a sus atribuciones, iniciarán o continuarán con las investigaciones que correspondan.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2026)</small>
+
+###### Artículo 200 Quáter.
+
+1. Para el funcionamiento de la Comisión de Verificación de Integridad en Candidaturas, se estará a las reglas siguientes:
+
+a) Estará integrada por tres Consejeras o Consejeros Electorales;
+
+b) Las Consejeras o Consejeros Electorales integrantes de la Comisión durarán en su encargo tres años, y
+
+c) La presidencia de la Comisión es rotativa y será designada anualmente entre los integrantes de la Comisión.
+
 ## TÍTULO TERCERO. De las Bases para la Organización del Servicio Profesional Electoral Nacional
 
 ### CAPÍTULO I. Disposición Preliminar
-
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-## TÍTULO PRIMERO. De las Reglas Generales para los Procesos Electorales Federales y Locales
-
-### CAPÍTULO II. Del Servicio Profesional Electoral Nacional
 
 (NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -5218,7 +5256,7 @@ o) Proponer a la Comisión de Fiscalización las sanciones a imponer de acuerdo 
 
 (DEROGADO, D.O.F. 2 DE MARZO DE 2023)
 
-### CAPÍTULO III. Del Estatuto del Servicio Profesional Electoral Nacional
+### CAPÍTULO II. Del Servicio Profesional Electoral Nacional
 
 (NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -5226,7 +5264,7 @@ o) Proponer a la Comisión de Fiscalización las sanciones a imponer de acuerdo 
 
 (DEROGADO, D.O.F. 2 DE MARZO DE 2023)
 
-### CAPÍTULO IV. De las Disposiciones Complementarias
+### CAPÍTULO III. Del Estatuto del Servicio Profesional Electoral Nacional
 
 (NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -5234,9 +5272,9 @@ o) Proponer a la Comisión de Fiscalización las sanciones a imponer de acuerdo 
 
 (DEROGADO, D.O.F. 2 DE MARZO DE 2023)
 
-### CAPÍTULO I. De las Disposiciones Preliminares
+### CAPÍTULO IV. De las Disposiciones Complementarias
 
-> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 ###### Artículo 204.
 
@@ -5256,9 +5294,11 @@ o) Proponer a la Comisión de Fiscalización las sanciones a imponer de acuerdo 
 
 # LIBRO QUINTO. De los Procesos Electorales
 
-## TÍTULO SEGUNDO. De los Actos Preparatorios de la Elección Federal
+## TÍTULO PRIMERO. De las Reglas Generales para los Procesos Electorales Federales y Locales
 
-### CAPÍTULO II. De la Propaganda Electoral
+### CAPÍTULO I. De las Disposiciones Preliminares
+
+> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
 ###### Artículo 207.
 
@@ -5278,7 +5318,7 @@ d) Dictamen y declaraciones de validez de la elección.
 
 2. La etapa de la jornada electoral se inicia a las 8:00 horas del primer domingo de junio y concluye con la clausura de casilla.
 
-### CAPÍTULO III. De las Encuestas y Sondeos de Opinión
+### CAPÍTULO II. De la Propaganda Electoral
 
 ###### Artículo 209.
 
@@ -5320,7 +5360,7 @@ NOTA: EL 9 DE SEPTIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA
 
 1. Los partidos políticos, precandidatos y simpatizantes están obligados a retirar su propaganda electoral de precampaña para su reciclaje, por lo menos tres días antes al inicio del plazo para el registro de candidatos de la elección de que se trate. De no retirarse, el Instituto o los Organismos Públicos Locales tomarán las medidas necesarias para su retiro con cargo a la ministración del financiamiento público que corresponda al partido, además de la imposición de la sanción que al respecto establezca esta Ley.
 
-### Capítulo IV. De la Distritación Electoral
+### CAPÍTULO III. De las Encuestas y Sondeos de Opinión
 
 ###### Artículo 213.
 
@@ -5332,7 +5372,7 @@ NOTA: EL 9 DE SEPTIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA
 
 4. La metodología, costos, personas responsables y resultados de las encuestas o sondeos serán difundidas en su página de Internet, por los Organismos Públicos Locales en el ámbito de su competencia.
 
-### CAPÍTULO V. De la Capacitación Electoral
+### Capítulo IV. De la Distritación Electoral
 
 ###### Artículo 214.
 
@@ -5348,7 +5388,7 @@ NOTA: EL 9 DE SEPTIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA
 
 4. Para la elección de los 200 diputados elegidos por el principio de representación proporcional, el Consejo General aprobará, en su caso, previo al inicio del proceso electoral, la conformación de las cinco circunscripciones electorales plurinominales en el país.
 
-### CAPÍTULO VI. De la Documentación y Materiales Electorales
+### CAPÍTULO V. De la Capacitación Electoral
 
 ###### Artículo 215.
 
@@ -5360,7 +5400,7 @@ NOTA: EL 9 DE SEPTIEMBRE DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE MARZO DE 2023)</small>
 
-### CAPÍTULO VII. De la Observación Electoral
+### CAPÍTULO VI. De la Documentación y Materiales Electorales
 
 ###### Artículo 216.
 
@@ -5396,7 +5436,7 @@ d) La salvaguarda y cuidado de las boletas electorales son considerados como un 
 
 4. EL CONSEJO GENERAL TOMANDO EN CUENTA LAS MEDIDAS DE CERTEZA QUE ESTIME PERTINENTES SIN QUE ESTO INCREMENTEN (SIC) LOS COSTOS DE PRODUCCIÓN ORDINARIA, APROBARÁ Y ESTARÁ A CARGO DEL DISEÑO DE UN ACTA ÚNICA POR ELECCIÓN QUE CONTENDRÁ UN APARTADO RELATIVO A LA INFORMACIÓN DE LA INSTALACIÓN Y CIERRE DE LA CASILLA, UN APARTADO RELATIVO AL ESCRUTINIO Y CÓMPUTO Y UN APARTADO RELATIVO A LA REMISIÓN DE PAQUETES ELECTORALES.
 
-### CAPÍTULO VIII. De los Debates
+### CAPÍTULO VII. De la Observación Electoral
 
 ###### Artículo 217.
 
@@ -5458,7 +5498,7 @@ j) Los observadores podrán presentar, ante la autoridad electoral, informe de s
 
 2. Las organizaciones a las que pertenezcan los observadores electorales, a más tardar treinta días después de la jornada electoral, deberán declarar el origen, monto y aplicación del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con la observación electoral que realicen, mediante informe que presenten al Consejo General.
 
-### CAPÍTULO IX. Del Programa de Resultados Electorales Preliminares
+### CAPÍTULO VIII. De los Debates
 
 ###### Artículo 218.
 
@@ -5490,7 +5530,7 @@ c) Se establezcan condiciones de equidad en el formato.
 
 7. La transmisión de los debates por los medios de comunicación será gratuita y se llevará a cabo de forma íntegra y sin alterar los contenidos. La no asistencia de uno o más de los candidatos invitados a estos debates no será causa para la no realización del mismo.
 
-### CAPÍTULO X. Del Conteo Rápido
+### CAPÍTULO IX. Del Programa de Resultados Electorales Preliminares
 
 ###### Artículo 219.
 
@@ -5500,7 +5540,7 @@ c) Se establezcan condiciones de equidad en el formato.
 
 3. Su objetivo será el de informar oportunamente bajo los principios de seguridad, transparencia, confiabilidad, credibilidad e integridad de los resultados y la información en todas sus fases al Consejo General, los Organismos Públicos Locales, los partidos políticos, coaliciones, candidatos, medios de comunicación y a la ciudadanía.
 
-### CAPÍTULO XI. De la Coordinación en Materia de Inteligencia Financiera
+### CAPÍTULO X. Del Conteo Rápido
 
 ###### Artículo 220.
 
@@ -5522,7 +5562,7 @@ c) Se establezcan condiciones de equidad en el formato.
 
 3. DE IGUAL MANERA, LAS PERSONAS FÍSICAS O MORALES QUE REALICEN ESTOS CONTEOS PONDRÁN A SU CONSIDERACIÓN, LAS METODOLOGÍAS Y FINANCIAMIENTO PARA SU ELABORACIÓN Y TÉRMINOS PARA DAR A CONOCER LOS RESULTADOS DE CONFORMIDAD CON LOS CRITERIOS QUE PARA CADA CASO SE DETERMINEN.
 
-### CAPÍTULO I. De las Disposiciones Preliminares
+### CAPÍTULO XI. De la Coordinación en Materia de Inteligencia Financiera
 
 ###### Artículo 221.
 
@@ -5542,9 +5582,9 @@ c) Se establezcan condiciones de equidad en el formato.
 
 1. La Secretaría de Hacienda y Crédito Público, a través de la unidad administrativa competente en materia de inteligencia financiera, podrá requerir a los organismos o dependencias de la Federación, de las entidades federativas o de los municipios la información, documentos, opiniones y elementos de prueba en general necesarios para el ejercicio de sus atribuciones, así como coordinarse con otras autoridades supervisoras en materia de prevención y detección de los delitos de operaciones con recursos de procedencia ilícita y financiamiento al terrorismo. Los organismos, dependencias y autoridades deberán colaborar de manera pronta y efectiva.
 
-## TÍTULO TERCERO. De la Jornada Electoral
+## TÍTULO SEGUNDO. De los Actos Preparatorios de la Elección Federal
 
-### CAPÍTULO II. De los Procesos de Selección de Candidatos a Cargos de Elección Popular y las Precampañas Electorales
+### CAPÍTULO I. De las Disposiciones Preliminares
 
 ###### Artículo 224.
 
@@ -5596,7 +5636,7 @@ d) Dictamen y declaraciones de validez de la elección y de Presidente electo.
 
 7. ATENDIENDO AL PRINCIPIO DE DEFINITIVIDAD QUE RIGE EN LOS PROCESOS ELECTORALES, A LA CONCLUSIÓN DE CUALQUIERA DE SUS ETAPAS O DE ALGUNO DE LOS ACTOS O ACTIVIDADES TRASCENDENTES DE LOS ÓRGANOS ELECTORALES, LAS PERSONAS TITULARES DE LA SECRETARÍA EJECUTIVA O VOCALÍA EJECUTIVA DEL ÓRGANO LOCAL O VOCALÍA OPERATIVA DE LA OFICINA AUXILIAR DEL INSTITUTO, SEGÚN CORRESPONDA, PODRÁ DIFUNDIR SU REALIZACIÓN Y CONCLUSIÓN POR LOS MEDIOS QUE ESTIME PERTINENTES.
 
-### CAPÍTULO III. Del Procedimiento de Registro de Candidatos
+### CAPÍTULO II. De los Procesos de Selección de Candidatos a Cargos de Elección Popular y las Precampañas Electorales
 
 ###### Artículo 226.
 
@@ -5684,7 +5724,7 @@ La violación a esta norma se sancionará con la negativa de registro como preca
 
 2. El Consejo General emitirá los demás reglamentos y acuerdos que sean necesarios para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en esta Ley.
 
-### CAPÍTULO IV. De las Campañas Electorales
+### CAPÍTULO III. Del Procedimiento de Registro de Candidatos
 
 ###### Artículo 232.
 
@@ -5832,7 +5872,7 @@ b) Vencido el plazo a que se refiere el inciso anterior, exclusivamente podrán 
 
 c) En los casos en que la renuncia del candidato fuera notificada por éste al Consejo General, se hará del conocimiento del partido político que lo registró para que proceda, en su caso, a su sustitución.
 
-### CAPÍTULO V. De los Procedimientos para la Integración y Ubicación de Mesas Directivas de Casilla
+### CAPÍTULO IV. De las Campañas Electorales
 
 ###### Artículo 242.
 
@@ -5996,7 +6036,7 @@ e) No podrá colgarse, fijarse o pintarse en monumentos ni en edificios público
 
 1. Cualquier infracción a las disposiciones contenidas en el presente Capítulo será sancionada en los términos de esta Ley.
 
-### CAPÍTULO VI. Del Registro de Representantes
+### CAPÍTULO V. De los Procedimientos para la Integración y Ubicación de Mesas Directivas de Casilla
 
 ###### Artículo 253.
 
@@ -6166,7 +6206,7 @@ f) En su caso, el presidente del consejo distrital ordenará una segunda publica
 
 3. En cada distrito electoral se podrán instalar hasta diez casillas especiales. El número y ubicación serán determinados por el consejo distrital en atención a la cantidad de municipios comprendidos en su ámbito territorial, a su densidad poblacional, y a sus características geográficas y demográficas. La integración de las mesas directivas de las casillas especiales se hará preferentemente con ciudadanos que habiten en la sección electoral donde se instalarán, en caso de no contar con el número suficiente de ciudadanos podrán ser designados de otras secciones electorales.
 
-### CAPÍTULO VII. De la Documentación y el Material Electoral
+### CAPÍTULO VI. Del Registro de Representantes
 
 ###### Artículo 259.
 
@@ -6338,11 +6378,7 @@ h) CLAVE ALFANUMÉRICA DEL REPRESENTANTE O DIRIGENTE QUE REALICE EL NOMBRAMIENTO
 
 3. Para garantizar a los representantes generales el ejercicio de los derechos que les otorga esta Ley, se imprimirá al reverso del nombramiento el texto de los artículos que correspondan.
 
-### CAPÍTULO VIII. De la Elección Consecutiva
-
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, D.O.F. 2 DE MARZO DE 2023)</small>
+### CAPÍTULO VII. De la Documentación y el Material Electoral
 
 ###### Artículo 266.
 
@@ -6478,7 +6514,11 @@ i) Los canceles o elementos modulares que garanticen que el elector pueda emitir
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE MARZO DE 2023)</small>
 
-### CAPÍTULO I. De la Instalación y Apertura de Casillas
+### CAPÍTULO VIII. De la Elección Consecutiva
+
+(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 2 DE MARZO DE 2023)</small>
 
 ###### Artículo 272 Bis.
 
@@ -6534,13 +6574,9 @@ i) Los canceles o elementos modulares que garanticen que el elector pueda emitir
 
 1. Los partidos políticos de reciente creación podrán postular candidaturas para elección consecutiva, siempre que la persona a postular hubiese renunciado o perdido su militancia antes de la mitad de su mandato, o bien, se trate de legisladores que provengan de partidos políticos que hubiesen perdido el registro.
 
-## TÍTULO CUARTO. De los Actos Posteriores a la Elección y los Resultados Electorales
+## TÍTULO TERCERO. De la Jornada Electoral
 
-(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL CAPÍTULO I, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE MARZO DE 2023)</small>
-
-### CAPÍTULO II. De la Votación
+### CAPÍTULO I. De la Instalación y Apertura de Casillas
 
 ###### Artículo 273.
 
@@ -6656,7 +6692,7 @@ e) El consejo distrital así lo disponga por causa de fuerza mayor o caso fortui
 
 2. Para los casos señalados en el párrafo anterior la casilla deberá quedar instalada en la misma sección y en el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del lugar original que no reunió los requisitos.
 
-### CAPÍTULO III. Del Escrutinio y Cómputo en la Casilla
+### CAPÍTULO II. De la Votación
 
 ###### Artículo 277.
 
@@ -6810,7 +6846,7 @@ a) Hora de cierre de la votación, y
 
 b) Causa por la que se cerró antes o después de las 18:00 horas.
 
-### CAPÍTULO IV. De la Clausura de la Casilla y de la Remisión del Expediente
+### CAPÍTULO III. Del Escrutinio y Cómputo en la Casilla
 
 ###### Artículo 287.
 
@@ -7010,7 +7046,7 @@ c) LOS ESCRITOS QUE SE HUBIEREN RECIBIDO.
 
 1. Cumplidas las acciones a que se refiere el artículo anterior, los presidentes de las mesas directivas de casilla, fijarán avisos en lugar visible del exterior de las mismas con los resultados de cada una de las elecciones, los que serán firmados por el presidente y los representantes que así deseen hacerlo.
 
-### CAPÍTULO V. Disposiciones Complementarias
+### CAPÍTULO IV. De la Clausura de la Casilla y de la Remisión del Expediente
 
 ###### Artículo 298.
 
@@ -7036,7 +7072,7 @@ c) Hasta 24 horas cuando se trate de casillas rurales.
 
 6. El consejo distrital hará constar en el acta circunstanciada de recepción de los paquetes a que se refiere el artículo 304 de esta Ley, las causas que se invoquen para el retraso en la entrega de los paquetes.
 
-### CAPÍTULO I. De los Cómputos Distritales de la Declaración de Validez
+### CAPÍTULO V. Disposiciones Complementarias
 
 ###### Artículo 300.
 
@@ -7118,9 +7154,13 @@ h) No haber participado como representante de partido político o coalición en 
 
 i) Presentar solicitud conforme a la convocatoria que se expida, acompañando los documentos que en ella se establezcan.
 
-## TÍTULO PRIMERO. De las Disposiciones Preliminares
+## TÍTULO CUARTO. De los Actos Posteriores a la Elección y los Resultados Electorales
 
-### CAPÍTULO II. De la Información Preliminar de los Resultados
+(NOTA: EL 22 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2023 Y SUS ACUMULADAS 75/2023, 89/2023, 90/2023, 91/2023, 92/2023 Y 93/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA EL CAPÍTULO I, LA CUAL SURTIÓ EFECTOS EL 23 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE MARZO DE 2023)</small>
+
+### CAPÍTULO I. De los Cómputos Distritales de la Declaración de Validez
 
 ###### Artículo 304.
 
@@ -7144,7 +7184,7 @@ d) El presidente del consejo distrital, bajo su responsabilidad, los salvaguarda
 
 2. De la recepción de los paquetes que contengan los expedientes de casilla, se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala esta Ley.
 
-### CAPÍTULO III. De los Cómputos Distritales y de la Declaración de Validez de la Elección de Diputados de Mayoría Relativa
+### CAPÍTULO II. De la Información Preliminar de los Resultados
 
 ###### Artículo 305.
 
@@ -7188,9 +7228,7 @@ d) Los representantes de los partidos políticos acreditados ante el Consejo Gen
 
 1. Para el mejor conocimiento de los ciudadanos, concluido el plazo a que se refiere el artículo 299 de esta Ley, el presidente deberá fijar en el exterior del local del consejo distrital, los resultados preliminares de las elecciones en el distrito.
 
-### CAPÍTULO IV
-
-De los Cómputos de Entidad Federativa de la Elección de Senadores por Ambos Principios y de la Declaración de Validez de la Elección de Senadores por el Principio de Mayoría Relativa
+### CAPÍTULO III. De los Cómputos Distritales y de la Declaración de Validez de la Elección de Diputados de Mayoría Relativa
 
 ###### Artículo 309.
 
@@ -7374,7 +7412,9 @@ e) Remitir al correspondiente consejo local con residencia en la cabecera de cir
 
 2. Asimismo, los presidentes tomarán las medidas necesarias para el depósito en el lugar señalado para tal efecto, de los sobres que contengan la documentación a que se refiere el artículo 295 de esta Ley hasta la conclusión del proceso electoral. Una vez concluido el proceso electoral, se procederá a su destrucción.
 
-### CAPÍTULO V. De los Cómputos de Representación Proporcional en cada Circunscripción
+### CAPÍTULO IV
+
+De los Cómputos de Entidad Federativa de la Elección de Senadores por Ambos Principios y de la Declaración de Validez de la Elección de Senadores por el Principio de Mayoría Relativa
 
 ###### Artículo 319.
 
@@ -7426,7 +7466,7 @@ d) Remitir al Tribunal Electoral, cuando se hubiere interpuesto el medio de impu
 
 e) Remitir, una vez transcurrido el plazo para la interposición del medio de impugnación correspondiente, al Secretario Ejecutivo del Instituto, copia certificada del acta de cómputo de entidad por ambos principios, copia de los medios de impugnación interpuestos, del acta circunstanciada de la sesión y el informe del propio presidente sobre el desarrollo del proceso electoral.
 
-### Capítulo VI. De las Constancias de Asignación Proporcional
+### CAPÍTULO V. De los Cómputos de Representación Proporcional en cada Circunscripción
 
 ###### Artículo 322.
 
@@ -7460,7 +7500,7 @@ c) Remitir al Secretario Ejecutivo del Instituto, una copia certificada del acta
 
 1. El domingo siguiente al de la jornada electoral, el Secretario Ejecutivo del Consejo General, con base en la copia certificada de las actas de cómputo distrital de la elección para Presidente de los Estados Unidos Mexicanos, informará al Consejo General, en sesión pública, la sumatoria de los resultados consignados en dichas actas, por partido y candidato. Lo anterior, sin perjuicio de las facultades constitucionales y legales del Tribunal Electoral.
 
-### CAPÍTULO ÚNICO
+### Capítulo VI. De las Constancias de Asignación Proporcional
 
 ###### Artículo 327.
 
@@ -7478,7 +7518,7 @@ c) Remitir al Secretario Ejecutivo del Instituto, una copia certificada del acta
 
 # LIBRO SEXTO. Del Voto de los Mexicanos Residentes en el Extranjero
 
-### CAPÍTULO I. De la Convocatoria
+### CAPÍTULO ÚNICO
 
 ###### Artículo 329.
 
@@ -8062,7 +8102,7 @@ f) Para determinar la validez o nulidad del voto, será aplicable lo establecido
 
 # LIBRO SÉPTIMO. De las Candidaturas Independientes
 
-## TÍTULO SEGUNDO. Del Proceso de Selección de Candidatos Independientes
+## TÍTULO PRIMERO. De las Disposiciones Preliminares
 
 ###### Artículo 357.
 
@@ -8112,7 +8152,7 @@ b) Diputados y Senadores del Congreso de la Unión por el principio de mayoría 
 
 1. Los Candidatos Independientes que hayan participado en una elección ordinaria que haya sido anulada, tendrán derecho a participar en las elecciones extraordinarias correspondientes.
 
-## TÍTULO TERCERO. De las Prerrogativas, Derechos y Obligaciones
+## TÍTULO SEGUNDO. Del Proceso de Selección de Candidatos Independientes
 
 ###### Artículo 366.
 
@@ -8126,7 +8166,7 @@ c) De la obtención del apoyo ciudadano, y
 
 d) Del registro de Candidatos Independientes.
 
-### CAPÍTULO II. De los Actos Previos al Registro de Candidatos Independientes
+### CAPÍTULO I. De la Convocatoria
 
 ###### Artículo 367.
 
@@ -8134,7 +8174,7 @@ d) Del registro de Candidatos Independientes.
 
 2. El Instituto dará amplia difusión a la Convocatoria.
 
-### CAPÍTULO III. De la Obtención del Apoyo Ciudadano
+### CAPÍTULO II. De los Actos Previos al Registro de Candidatos Independientes
 
 ###### Artículo 368.
 
@@ -8162,7 +8202,7 @@ c) LOS ASPIRANTES AL CARGO DE DIPUTADO POR EL PRINCIPIO DE MAYORÍA RELATIVA, AN
 
 5. La persona moral a la que se refiere el párrafo anterior deberá estar constituida con por lo menos el aspirante a candidato independiente, su representante legal y el encargado de la administración de los recursos de la candidatura independiente.
 
-### CAPÍTULO IV. De los Derechos y Obligaciones de los Aspirantes
+### CAPÍTULO III. De la Obtención del Apoyo Ciudadano
 
 ###### Artículo 369.
 
@@ -8250,7 +8290,7 @@ c) Los aspirantes a Candidato Independiente para el cargo de Diputado, contarán
 
 2. Los aspirantes que sin haber obtenido el registro a la candidatura independiente no entreguen los informes antes señalados, serán sancionados en los términos de esta Ley.
 
-### CAPÍTULO V. Del Registro de Candidatos Independientes
+### CAPÍTULO IV. De los Derechos y Obligaciones de los Aspirantes
 
 ###### Artículo 379.
 
@@ -8316,7 +8356,7 @@ h) Respetar los topes de gastos fijados para obtener el apoyo ciudadano, en los 
 
 i) Las demás establecidas por esta Ley.
 
-### CAPÍTULO I. De los Derechos y Obligaciones
+### CAPÍTULO V. Del Registro de Candidatos Independientes
 
 #### Sección Primera. De los Requisitos de Elegibilidad
 
@@ -8446,9 +8486,9 @@ g) En el caso que una misma persona haya presentado manifestación en favor de m
 
 1. En el caso de las listas de fórmulas de Candidatos Independientes al cargo de Senador, si por cualquier causa falta uno de los integrantes propietarios de una de las fórmulas, se cancelará el registro de ambas. La ausencia del suplente no invalidará las fórmulas.
 
-## TÍTULO CUARTO. De la Propaganda Electoral de los Candidatos Independientes
+## TÍTULO TERCERO. De las Prerrogativas, Derechos y Obligaciones
 
-### CAPÍTULO II. De las Prerrogativas
+### CAPÍTULO I. De los Derechos y Obligaciones
 
 ###### Artículo 393.
 
@@ -8558,7 +8598,7 @@ c) Los Candidatos Independientes a diputados federales, ante el consejo distrita
 
 1. El registro de los nombramientos de los representantes ante mesas directivas de casilla y generales, se realizará en los términos previstos en esta Ley.
 
-### CAPÍTULO I. De la Documentación y el Material Electoral
+### CAPÍTULO II. De las Prerrogativas
 
 #### Sección Primera. Del Financiamiento
 
@@ -8744,7 +8784,7 @@ III. Los Candidatos Independientes al cargo de Diputado, podrán remitir propaga
 
 (DEROGADO, D.O.F. 2 DE MARZO DE 2023)
 
-## TÍTULO QUINTO. De la Fiscalización
+## TÍTULO CUARTO. De la Propaganda Electoral de los Candidatos Independientes
 
 ###### Artículo 423.
 
@@ -8754,7 +8794,7 @@ III. Los Candidatos Independientes al cargo de Diputado, podrán remitir propaga
 
 1. La propaganda electoral de los Candidatos Independientes deberá tener el emblema y color o colores que los caractericen y diferencien de otros partidos políticos y de otros Candidatos Independientes, así como tener visible la leyenda: “Candidato Independiente”.
 
-## TÍTULO SEXTO. De los Actos de la Jornada Electoral
+## TÍTULO QUINTO. De la Fiscalización
 
 ###### Artículo 425.
 
@@ -8856,9 +8896,9 @@ c) Entregarlos junto con la solicitud de registro a que se refiere esta Ley.
 
 3. El procedimiento para la presentación y revisión de los informes se sujetará a las reglas establecidas en la Ley General de Partidos Políticos.
 
-## TÍTULO SÉPTIMO. De las Disposiciones Complementarias
+## TÍTULO SEXTO. De los Actos de la Jornada Electoral
 
-### CAPÍTULO II. Del Cómputo de los Votos
+### CAPÍTULO I. De la Documentación y el Material Electoral
 
 ###### Artículo 432.
 
@@ -8878,7 +8918,7 @@ c) Entregarlos junto con la solicitud de registro a que se refiere esta Ley.
 
 1. Los documentos electorales serán elaborados por el Instituto, aplicando en lo conducente lo dispuesto en esta Ley para la elaboración de la documentación y el material electoral.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. Del Cómputo de los Votos
 
 ###### Artículo 436.
 
@@ -8888,9 +8928,9 @@ c) Entregarlos junto con la solicitud de registro a que se refiere esta Ley.
 
 1. Para determinar la votación nacional emitida que servirá de base para la asignación de diputados y senadores por el principio de representación proporcional, en términos de lo previsto por la Constitución y esta Ley, no serán contabilizados los votos recibidos a favor de Candidatos Independientes.
 
-## TÍTULO PRIMERO. De las Faltas Electorales y su Sanción
+## TÍTULO SÉPTIMO. De las Disposiciones Complementarias
 
-### CAPÍTULO I. De los Sujetos, Conductas Sancionables y Sanciones
+### CAPÍTULO ÚNICO
 
 ###### Artículo 438.
 
@@ -8902,7 +8942,7 @@ c) Entregarlos junto con la solicitud de registro a que se refiere esta Ley.
 
 # LIBRO OCTAVO. De los Regímenes Sancionador Electoral y Disciplinario Interno
 
-## TÍTULO SEGUNDO. De las Responsabilidades de los Servidores Públicos del Instituto Nacional Electoral
+## TÍTULO PRIMERO. De las Faltas Electorales y su Sanción
 
 ###### Artículo 440.
 
@@ -8932,7 +8972,7 @@ IV. Aquéllas que únicamente se fundamenten en notas de opinión periodística 
 
 3. Deberán regular el procedimiento especial sancionador para los casos de violencia política contra las mujeres en razón de género.
 
-### CAPÍTULO II. Del Procedimiento Sancionador
+### CAPÍTULO I. De los Sujetos, Conductas Sancionables y Sanciones
 
 ###### Artículo 441.
 
@@ -9436,9 +9476,7 @@ f) En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del inc
 
 8. Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en este Libro Octavo, serán destinados al Consejo Nacional de Ciencia y Tecnología en los términos de las disposiciones aplicables, cuando sean impuestas por las autoridades federales, y a los organismos estatales encargados de la promoción, fomento y desarrollo de la ciencia, tecnología e innovación cuando sean impuestas por las autoridades locales.
 
-### CAPÍTULO II BIS. De las Medidas Cautelares y de Reparación
-
-> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
+### CAPÍTULO II. Del Procedimiento Sancionador
 
 ###### Artículo 459.
 
@@ -9610,7 +9648,9 @@ f) Instrumental de actuaciones.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO III. Del Procedimiento Sancionador Ordinario
+### CAPÍTULO II BIS. De las Medidas Cautelares y de Reparación
+
+> <small>(ADICIONADO, D.O.F. 13 DE ABRIL DE 2020)</small>
 
 ###### Artículo 463 Bis.
 
@@ -9640,7 +9680,7 @@ c) Disculpa pública, y
 
 d) Medidas de no repetición.
 
-### CAPÍTULO IV. Del Procedimiento Especial Sancionador
+### CAPÍTULO III. Del Procedimiento Sancionador Ordinario
 
 ###### Artículo 464.
 
@@ -9874,7 +9914,7 @@ e) Rechazado un proyecto de resolución se entiende que se aprueba un acuerdo de
 
 8. En el desahogo de los puntos de la orden del día en que el Consejo General deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, éstos se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
 
-### CAPÍTULO I. De las Responsabilidades Administrativas
+### CAPÍTULO IV. Del Procedimiento Especial Sancionador
 
 ###### Artículo 470.
 
@@ -10152,11 +10192,9 @@ a) Declarar la inexistencia de la violación objeto de la queja o denuncia y, en
 
 b) Imponer las sanciones que resulten procedentes en términos de lo dispuesto en esta Ley.
 
-## TÍTULO PRIMERO. De la Participación de la Ciudadanía en la Renovación de los Poderes Judiciales
+## TÍTULO SEGUNDO. De las Responsabilidades de los Servidores Públicos del Instituto Nacional Electoral
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
-
-### CAPÍTULO II. Del Régimen de Responsabilidades Administrativas
+### CAPÍTULO I. De las Responsabilidades Administrativas
 
 ###### Artículo 478.
 
@@ -10200,7 +10238,7 @@ k) Las demás que determine esta Ley o las leyes que resulten aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ENERO DE 2017)</small>
 
-### CAPÍTULO III. Del Órgano Interno de Control
+### CAPÍTULO II. Del Régimen de Responsabilidades Administrativas
 
 ###### Artículo 480.
 
@@ -10234,9 +10272,7 @@ k) Las demás que determine esta Ley o las leyes que resulten aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ENERO DE 2017)</small>
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
-
-> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+### CAPÍTULO III. Del Órgano Interno de Control
 
 ###### Artículo 487.
 
@@ -10398,11 +10434,11 @@ v) Las demás que le otorgue esta Ley, la Ley General de Responsabilidades Admin
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-## TÍTULO SEGUNDO. Del Proceso Electoral de las Personas Juzgadoras del Poder Judicial de la Federación
+## TÍTULO PRIMERO. De la Participación de la Ciudadanía en la Renovación de los Poderes Judiciales
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-### CAPÍTULO PRIMERO. Reglas Generales
+### CAPÍTULO ÚNICO. Disposiciones Generales
 
 > <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
@@ -10436,7 +10472,11 @@ v) Las demás que le otorgue esta Ley, la Ley General de Responsabilidades Admin
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-### CAPÍTULO SEGUNDO. De la Convocatoria y Postulación de Candidaturas
+## TÍTULO SEGUNDO. Del Proceso Electoral de las Personas Juzgadoras del Poder Judicial de la Federación
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO PRIMERO. Reglas Generales
 
 > <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
@@ -10480,7 +10520,7 @@ f) La entrega de constancias de mayoría y declaración de validez de la elecci�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-### CAPÍTULO TERCERO. De la Organización de la Elección
+### CAPÍTULO SEGUNDO. De la Convocatoria y Postulación de Candidaturas
 
 > <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
@@ -10574,7 +10614,7 @@ c) El Poder Judicial, por conducto del pleno de la Suprema Corte de Justicia de 
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-### CAPÍTULO CUARTO. De la Jornada Electoral
+### CAPÍTULO TERCERO. De la Organización de la Elección
 
 > <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
@@ -10888,7 +10928,7 @@ e) La información deberá estar disponible de manera clara, completa y accesibl
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-### CAPÍTULO QUINTO. De los Cómputos y Sumatoria
+### CAPÍTULO CUARTO. De la Jornada Electoral
 
 > <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
@@ -10934,7 +10974,7 @@ f) Personas juezas integrantes de los Juzgados de Distrito.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-### CAPÍTULO SEXTO. De la Asignación de Cargos
+### CAPÍTULO QUINTO. De los Cómputos y Sumatoria
 
 > <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
@@ -10954,7 +10994,7 @@ f) Personas juezas integrantes de los Juzgados de Distrito.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
-### CAPÍTULO SÉPTIMO. Entrega de Constancias de Mayoría y Declaración de Validez de la Elección
+### CAPÍTULO SEXTO. De la Asignación de Cargos
 
 > <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
@@ -10969,6 +11009,10 @@ f) Personas juezas integrantes de los Juzgados de Distrito.
 4. El resguardo de los paquetes electorales se realizará conforme a lo dispuesto en esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE OCTUBRE DE 2024)</small>
+
+### CAPÍTULO SÉPTIMO. Entrega de Constancias de Mayoría y Declaración de Validez de la Elección
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 534.
 
@@ -11234,10 +11278,16 @@ Para atender de manera adecuada los trabajos de entrega-recepción de los asunto
 
 Noveno.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO No. 649.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS".]
+D.O.F. 2 DE JUNIO DE 2026.
 
-Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, EN MATERIA DE INTEGRIDAD EN CANDIDATURAS”.]
 
-Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-P.O. 11 DE MARZO DE 2023.
+Segundo. La Comisión de Verificación de Integridad en Candidaturas deberá estar integrada, instalada y en funcionamiento antes del inicio del proceso electoral para el año 2027.
+
+Tercero. Las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y financiera que, de manera enunciativa, serán la Fiscalía General de la República, el Centro Nacional de Inteligencia, la Unidad de Inteligencia Financiera y la Comisión Nacional Bancaria y de Valores, establecerán la metodología y los criterios aplicables para realizar sus evaluaciones de riesgo; y, con base en ello, determinar la existencia de un riesgo razonable a partir del análisis de la información indiciaria con la que cuenten para presumir que la persona evaluada está relacionada con actividades delictivas.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado al Instituto Nacional Electoral, por lo que no se autorizarán recursos adicionales para tales efectos ni en los ejercicios fiscales subsecuentes.
+
+Quinto. El Instituto Nacional Electoral, en coordinación con las instancias competentes en materia de seguridad, inteligencia, procuración de justicia y del sistema financiero, en el ámbito de sus respectivas competencias, emitirá los lineamientos que regulen, entre otros, el funcionamiento interno de la Comisión; los plazos, términos, criterios y procedimientos aplicables para la recepción, análisis, procesamiento y entrega de la información que corresponda; así como los mecanismos necesarios para salvaguardar la protección de datos personales y la confidencialidad de la información proporcionada en todas las etapas del proceso.
