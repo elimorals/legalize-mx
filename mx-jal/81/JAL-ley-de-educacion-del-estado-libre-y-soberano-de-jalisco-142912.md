@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2026-03-07"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -1099,9 +1099,17 @@ XXII. El conocimiento de las artes, la valoración, la apreciación, preservaci�
 
 XXIII. La enseñanza de la música para potencializar el desarrollo cognitivo y humano, así como la personalidad de los educandos;
 
-XXIV. El conocimiento de los principios básicos de seguridad y educación vial, conforme a la pirámide de la jerarquía de la movilidad; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXV. Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
+XXIV. El conocimiento de los principios básicos de seguridad y educación vial, conforme a la pirámide de la jerarquía de la movilidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2026)</small>
+
+XXV. Educación para el bienestar animal, a través de su protección, trato adecuado, conservación y cuidado, integrando conceptos de empatía, prevención del maltrato y responsabilidad compartida con el medio ambiente; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2026)</small>
+
+XXVI. Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### Capítulo III. De las Tecnologías de la Información, Comunicación, Conocimiento y Aprendizaje Digital en el proceso educativo
 
@@ -2852,5 +2860,11 @@ SEGUNDO. Las personas titulares del Ejecutivo y de la Secretaría de Educación 
 P.O. 7 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 30127/LXIV/26 DEL CONGRESO DEL ESTADO SE REFORMA EL ARTÍCULO 124 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30162/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 60 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
