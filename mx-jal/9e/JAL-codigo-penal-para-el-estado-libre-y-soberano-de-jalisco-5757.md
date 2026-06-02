@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2026-05-25"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -600,6 +600,10 @@ La prisión consiste en la privación de la libertad personal, con la posibilida
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
 
 La prisión podrá durar de tres días a setenta años. En toda pena de prisión que se imponga en una sentencia, se computará el tiempo de la detención.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2026)</small>
+
+Tratándose del delito de femicidio, cuando la víctima sea mujer menor de edad, embarazada, o mujer con discapacidad, la pena podrá aumentarse hasta en un tercio del máximo previsto para dicho delito.
 
 El trabajo en prisión consiste en la prestación de servicios remunerados, en el centro penitenciario, cuando existan las condiciones necesarias para ello y en los términos de la legislación aplicable.
 
@@ -4527,6 +4531,10 @@ XI. Cuando la víctima haya sido incomunicada, cualquiera que sea el tiempo prev
 
 XII. Cuando el sujeto activo actúe como prestador del servicio de transporte público o privado, cuente o no con autorización y registro correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2026)</small>
+
+La pena se agravará hasta en un tercio cuando la víctima sea mujer menor de edad, embarazada, o mujer con discapacidad.
+
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2022)</small>
 
 En caso de que no se acredite el feminicidio se aplicarán las reglas del homicidio o parricidio, según corresponda.
@@ -7474,3 +7482,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "El Estado de
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30163/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMAN LOS ARTÍCULOS 29 Y 232 BIS, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
