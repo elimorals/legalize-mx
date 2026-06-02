@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-municipio-de-tula-tamaulipas-para-el-184192
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-26"
-last_updated: "2025-12-26"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE INGRESOS DEL MUNICIPIO DE TULA, TAMAULIPAS, PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en el extraordinario Número 64 del Periódico Oficial del Estado de Tamaulipas, el viernes 26 de diciembre de 2025.
 
@@ -378,6 +378,8 @@ POR LOS SERVICIOS DE PLANIFICACIÓN, URBANIZACIÓN Y PAVIMENTACIÓN
 Los derechos por la expedición de licencias por los conceptos siguientes se causarán y liquidarán conforme a la tarifa en cada uno de ellos señalada:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 26 DE DICIEMBRE DE 2025, PÁGINAS DE LA 1054 A LA 1055.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 2 DE JUNIO DE 2026, PÁGINA 5.]</small>
 
 ###### Artículo 18.
 
@@ -924,3 +926,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los quince días del mes de diciembre del año dos mil veinticinco.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1077 MEDIANTE EL CUAL SE DEROGAN LAS FRACCIONES XIX y XX DEL ARTÍCULO 17 DE LA LEY DE INGRESOS DEL MUNICIPIO DE TULA, TAMAULIPAS, PARA EL EJERCICIO FISCAL DEL AÑO 2026".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
