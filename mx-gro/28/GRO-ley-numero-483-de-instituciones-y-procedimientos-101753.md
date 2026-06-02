@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-483-de-instituciones-y-procedimientos-101753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2025-12-23"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el lunes 30 de junio de 2014.
 
@@ -35,7 +35,7 @@ LA SEXAGÉSIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE 
 
 C O N S I D E R A N D O
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -55,7 +55,9 @@ I. Los derechos y obligaciones político-electorales de los ciudadanos del Estad
 
 II. La organización, funciones, derechos y obligaciones de los partidos políticos nacionales y estatales, en términos de la Ley General de Partidos Políticos, esta Ley y demás ordenamientos aplicables;
 
-III. La función estatal realizada a través de los órganos electorales, de organizar las elecciones de los integrantes de los Poderes Legislativo, Ejecutivo del Estado y de los Ayuntamientos;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+III. La función estatal realizada a través de los órganos electorales, de organizar las elecciones de los integrantes de los Poderes Ejecutivo, Legislativo, Judicial y de los Ayuntamientos;
 
 IV. Las bases para la organización de los procesos de participación ciudadana, en términos de la ley respectiva;
 
@@ -167,23 +169,11 @@ Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley
 
 Para el desempeño de sus funciones, las autoridades y órganos electorales establecidos por la Constitución Política del Estado y esta Ley, contarán con el apoyo y colaboración de las autoridades federales, estatales y municipales.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 4.
 
-La aplicación de las disposiciones de esta Ley corresponderan, según el caso, al Instituto Electoral, al Instituto Nacional, al Tribunal Electoral del Estado, a la Fiscalía Especializada para la Atención de Delitos Electorales del Estado y al Congreso del Estado, para las elecciones de Diputados, Gobernador y Ayuntamientos, quienes tendrán la obligación de preservar su estricta observancia y cumplimiento, al igual que en los procesos de participación ciudadana conforme a la (sic) leyes de la materia.
-
-La interpretación de las disposiciones de esta Ley, se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Federal.
-
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2020)</small>
-
-En la aplicación e interpretación de esta ley se atenderán los instrumentos internacionales en materia de derechos humanos y no discriminación, y no violencia contra las mujeres, de los que el Estado Mexicano sea parte.
-
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2020)</small>
-
-En la aplicación de las normas electorales, se tomarán en cuenta de conformidad con el artículo 2° de la Constitución Federal y 9° de la Constitución local, los usos, costumbres y formas especiales de organización social y política de los pueblos indígenas y afromexicanos del Estado, siempre y cuando no se violen con ello los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, rectores en el ejercicio de la función estatal de organizar las elecciones.
-
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 2 DE JUNIO DE 2020)</small>
-
-En los casos no previstos en el presente ordenamiento se aplicarán: la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos y demás ordenamientos expedidos por la autoridad competente.
+La aplicación de las disposiciones de esta Ley corresponderán, según el caso, al Instituto Electoral, al Instituto Nacional, al Tribunal Electoral del Estado, a la Fiscalía Especializada para la Atención de Delitos Electorales del Estado, al Congreso del Estado, para las elecciones de Diputaciones, Gubernatura, Ayuntamientos Magistradas, Magistrados, Juezas y Jueces del Poder Judicial, quienes tendrán la obligación de preservar su estricta observancia y cumplimiento, al igual que en los procesos de participación ciudadana conforme a la leyes (sic) de la materia.
 
 ## TÍTULO SEGUNDO. DE LA PARTICIPACIÓN DE LOS CIUDADANOS EN LAS ELECCIONES
 
@@ -261,17 +251,25 @@ Para los efectos de los Distritos Electorales a que se refiere el párrafo anter
 
 ### CAPÍTULO II. DE LOS REQUISITOS DE LEGIBILIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 10.
 
-Son requisitos para ser Diputado local, Gobernador del Estado o miembro de Ayuntamiento, además de los que señalan los artículos 116 de la Constitución Federal, 46, 75, 76 y 173 de la Constitución Local, los siguientes:
+Son requisitos para ser Diputada o Diputado local, Gobernadora o Gobernador del Estado o integrantes del Ayuntamiento, además de los que señalan los artículos 116 de la Constitución Federal, 46, 75, 76 y 173 de la Constitución Local, los siguientes:
 
 I. Estar inscrito en el Padrón del Registro Federal de Electores y contar con la credencial para votar;
 
-II. No ser Consejero ni Secretario Ejecutivo de los organismos electorales locales o nacionales, salvo que se separe del cargo dos años antes de la fecha de inicio del proceso electoral;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-III. No ser Magistrado o Secretario del Tribunal Electoral del Poder Judicial de la Federación, salvo que se separe del cargo dos años antes de la fecha de inicio del proceso electoral;
+II. No ser Consejera o Consejero ni Secretaria o Secretario Ejecutivo de los organismos electorales locales o nacionales, salvo que se separe del cargo dos años antes de la fecha de inicio del proceso electoral;
 
-IV. No ser Magistrado, Juez o Secretario del Tribunal Electoral del Estado, salvo que se separe del cargo dos años antes de la fecha de inicio del proceso electoral;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+III. No ser Magistrada o Magistrado, Secretaria o Secretario del Tribunal Electoral del Poder Judicial de la Federación, salvo que se separe del cargo dos años antes de la fecha de inicio del proceso electoral;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+IV. No ser Magistrada, Magistrado, Jueza, Juez, Secretaria o Secretario del Tribunal Electoral del Estado, salvo que se separe del cargo dos años antes de la fecha de inicio del proceso electoral;
 
 V. No ser miembro del Servicio Profesional Electoral Nacional, salvo que se separe del cargo dos años antes de la fecha de inicio del proceso electoral;
 
@@ -279,35 +277,45 @@ V. No ser miembro del Servicio Profesional Electoral Nacional, salvo que se sepa
 
 VI. No ser representante popular federal, estatal o municipal, salvo que se separe de su encargo noventa días antes de la jornada electoral. Esta disposición no aplicará en materia de reelección conforme lo dispone esta ley.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-VII. No ser funcionario público de alguno de los tres niveles de gobierno o de los órganos constitucionales autónomos u organismos públicos descentralizados, que tenga bajo su mando la dirección, fiscalización, supervisión o manejo de recursos públicos o lleve a cabo la ejecución de programas gubernamentales, salvo que se separe del cargo noventa días antes de la jornada electoral.
+VII. No ser funcionaria o funcionario público de alguno de los tres niveles de gobierno o de los órganos constitucionales autónomos u organismos públicos descentralizados, que tenga bajo su mando la dirección, fiscalización, supervisión o manejo de recursos públicos o lleve a cabo la ejecución de programas gubernamentales, salvo que se separe del cargo noventa días antes de la jornada electoral.
 
-Podrán participar en el proceso electoral correspondiente sin separarse de su cargo, aquellos servidores públicos que no tengan funciones de dirección, fiscalización, supervisión o manejo de recursos públicos, ni lleven a cabo la ejecución de programas gubernamentales;
+Podrán participar en el proceso electoral correspondiente sin separarse de su cargo, aquellas personas servidoras públicas, que no tengan funciones de dirección, fiscalización, supervisión o manejo de recursos públicos, ni lleven a cabo la ejecución de programas gubernamentales;
 
 > <small>(REFORMADA, P.O. 2 DE JUNIO DE 2020)</small>
 
 VIII. En el caso de que se haya tenido la responsabilidad de administrar recursos públicos en los cinco años anteriores a la elección, haber cumplido en tiempo y forma con las obligaciones que establece la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero, en cuanto a la entrega de informes semestrales y cuentas públicas anuales, según corresponda, en cuyo caso, lo manifestarán bajo protesta de decir verdad;
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 2 DE JUNIO DE 2026)</small>
 
-IX. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; delitos contra el libre desarrollo de la personalidad; delitos contra la libertad sexual y el desarrollo psicosexual; delitos contra la libertad personal; delitos cometidos en contra de un integrante de la familia y delitos por discriminación contra la dignidad de las personas; y, delitos contra la familia; y,
+IX. No haber sido condenada o condenado mediante sentencia firme por la comisión dolosa de alguno de los delitos previstos en los siguientes Títulos del Código Penal para el Estado Libre y Soberano de Guerrero:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE JUNIO DE 2023)</small>
+a) Contra la vida y la integridad corporal;
 
-X.- No estar inscrito en alguno de los Registros Nacional, Estatal o de otra entidad federativa: de Deudores Alimentarios Morosos (4); de Personas Sancionadas; o, de Personas Inhabilitadas para el Servicio Público.
+b) Contra la libertad sexual y el normal desarrollo psicosexual, y
 
-(4) Los deudores alimentarios morosos son las personas que estando obligadas a proporcionar alimentos han dejado de cumplir con esa obligación por el periodo de tiempo que dispongan los códigos civiles, o los códigos o leyes para la familia que resulten aplicables al caso concreto. Tomado de la página electrónica “Justicia México” que puede consultarse en https://mexico.justia.com/derecho-de-familia/registro-de-deudores-alimentarios-morosos/preguntas-y-respuestas-sobre-registro-de-deudoresalimentarios-morosos/#:~:text=Los%20deudores%20alimentarios%20morosos%20son,resulten%20aplicables%20al%20caso%20concreto.
+c) Contra un integrante de la familia y delitos por discriminación contra la dignidad de las personas.
 
-(REUBICADA, P.O. 3 DE FEBRERO DE 2023)
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-> <small>[N. DE E. DE LA APLICACIÓN DEL DECRETO NÚMERO 245 DEL P.O. 3 DE FEBRERO DE 2023 SE ADVIERTE QUE ESTE PÁRRAFO CORRESPONDE A LA FRACCIÓN X DEL PRESENTE ARTÍCULO, VÉASE PÁGINAS 23 Y 27]</small>
+X. No ser declarada como persona deudora alimentaria morosa o no estar inscrita en alguno de los Registros Nacional, Estatal o de otra entidad federativa: de Deudores Alimentarios Morosos; de Personas Sancionadas; o, de Personas Inhabilitadas para el Servicio Público;
 
-XI. No estar inhabilitado para ocupar un cargo público por resolución ejecutoriada emitida por autoridad competente.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE JUNIO DE 2026)</small>
+
+XI. No tener sentencia ejecutoria que imponga como pena medidas de suspensión, y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+XII. No tener sentencia firme por violencia política contra las mujeres en razón de género;
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Las personas que se encuentren en los supuestos establecidos en las fracciones anteriores, no podrán ser registradas a candidaturas de ningún cargo de elección popular.
 
 ###### ARTÍCULO 11.
 
@@ -343,7 +351,9 @@ Las vacantes de las diputadas y diputados electos por el principio de representa
 
 Para cumplir con lo establecido en el párrafo anterior, se seguirá el procedimiento previsto en la Ley Orgánica del Poder Legislativo del Estado.
 
-Las Diputadas y diputados al Congreso del Estado, podrán ser electos de manera consecutiva hasta por cuatro periodos en términos del artículo 45 de la Constitución Política Local. Cuando las Diputadas o Diputados pretendan ser electos para el mismo cargo por un periodo consecutivo, podrán participar en el proceso electoral correspondiente sin separarse del cargo, para lo cual deberán observar estrictamente las disposiciones dirigidas a preservar la equidad en las contiendas, así como el uso eficiente, eficaz, transparente e imparcial de los recursos públicos.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Las Diputadas y Diputados al Congreso del Estado no podrán ser electos para el periodo inmediato posterior al ejercicio de su mandato. Las Diputadas y Diputados suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubiera estado en ejercicio del cargo, pero las Diputadas o Diputados propietarios no podrán ser electas para el periodo inmediato con el carácter de suplente.
 
 Para efectos de lo dispuesto en el párrafo que antecede, deberán:
 
@@ -409,31 +419,47 @@ En caso de pertenecer a más de un grupo en situación de vulnerabilidad, la can
 
 La protección de datos personales quedará sujeta a los lineamientos que el Instituto Electoral al efecto emita, considerando las leyes de la materia.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
 
-ARTÍCULO 13 QUINQUIES. En la postulación de candidaturas para la elección de diputaciones locales por el principio de representación proporcional, los partidos políticos deberán registrar cuando menos una fórmula de candidatura integrada por personas con discapacidad dentro de las primeras nueve posiciones de la lista correspondiente.
+ARTÍCULO 13 QUINQUIES. En la postulación de candidaturas para la elección de diputaciones locales por el principio de representación proporcional, los partidos políticos deberán registrar cuando menos una fórmula de candidatura integrada por personas con discapacidad dentro de las primeras ocho posiciones de la lista correspondiente.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
 Para garantizar que quienes accedan a candidaturas para la elección de diputaciones locales por el principio de representación proporcional, los partidos políticos deberán presentar documento original con que se acredite la existencia de la discapacidad y que la misma sea de carácter permanente, pudiendo ser un certificado médico expedido por una Institución de salud pública o privada, que acredite el diagnóstico y tipo de discapacidad; o carta bajo protesta de decir verdad, en la que la persona candidata o la persona que lo represente, manifieste que es una persona con algún tipo de discapacidad; o copia fotostática legible de documento emitido por autoridad federal o estatal que certifique que es beneficiario de algún programa asistencial o social por su carácter de persona con discapacidad.
 
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+
 Las personas con discapacidad que sean candidatas podrán ser asistidas y contarán con los apoyos necesarios para llevar a cabo sus actividades durante el proceso electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 14.
 
-Los Municipios serán gobernados y administrados por sus respectivos Ayuntamientos electos popularmente, integrados por un Presidente Municipal, uno o dos síndicos y regidores de representación proporcional, a partir de las siguientes bases:
+Los Municipios serán gobernados y administrados por sus respectivos Ayuntamientos electos popularmente, integrados por un Presidente o Presidenta Municipal, un Síndico o Síndica Procuradora, así como hasta 15 Regidoras y Regidores de Representación Proporcional, a partir de las siguientes bases:
 
-I. En los municipios con más de 300 mil habitantes, los Ayuntamientos se integrarán por un Presidente Municipal, dos Síndicos y 20 regidores de representación proporcional;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-II. En los municipios con población de 115 mil a 299,999 habitantes, los Ayuntamientos se integrarán por un presidente Municipal, dos síndicos y 12 regidores de representación proporcional;
+I. En los municipios con más de 300 mil habitantes, los Ayuntamientos se integrarán por un Presidente o Presidenta Municipal, un Síndico o Síndica Procuradora y 15 Regidoras y Regidores de Representación Proporcional;
 
-III. En los municipios con población de 75 mil a 114,999 habitantes, los Ayuntamientos se integrarán por un Presidente Municipal, un síndico y 10 regidores de representación proporcional.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-IV. En los municipios con población de entre 25 mil y 74,999, los Ayuntamientos se integrarán por un Presidente Municipal, un Síndico y 8 regidores de representación proporcional; y
+II. En los municipios con población de 115 mil a 299,999 habitantes, los Ayuntamientos se integrarán por un Presidente o Presidenta Municipal, un Síndico o Síndica Procuradora y 12 Regidoras y Regidores de Representación Proporcional;
 
-V. En los municipios con población menor de 25 mil habitantes, los Ayuntamientos se integrarán por un Presidente Municipal, un Síndico y 6 regidores de representación proporcional.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2020)</small>
+III. En los municipios con población de 75 mil a 114,999 habitantes, los Ayuntamientos se integrarán por un Presidente o Presidenta Municipal, un Síndico o Síndica Procuradora y 10 Regidoras y Regidores de Representación Proporcional.
 
-Los Ayuntamientos se renovarán en su totalidad cada tres años, cuyos integrantes podrán ser reelectos para el mismo cargo por un periodo adicional de manera consecutiva, en términos del artículo 176, numeral 1, de la Constitución Política Local. En este caso, cuando algún integrante pretenda ser electo para el mismo cargo por un periodo consecutivo, podrá participar en el proceso electoral correspondiente sin separarse del cargo, para lo cual deberán observar estrictamente las disposiciones dirigidas a preservar la equidad en las contiendas, así como el uso eficiente, eficaz, transparente e imparcial de los recursos públicos.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+IV. En los municipios con población de entre 25 mil y 74,999, los Ayuntamientos se integrarán por un Presidente o Presidenta Municipal, un Síndico o Síndica Procuradora y 8 Regidoras y Regidores de Representación Proporcional; y
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+V. En los municipios con población menor de 25 mil habitantes, los Ayuntamientos se integrarán por un Presidente o Presidenta Municipal, un Síndico o Síndica Procuradora y 6 Regidoras y Regidores de Representación Proporcional.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Los Ayuntamientos se renovarán en su totalidad cada tres años, sus integrantes no podrán ser reelectos para el mismo cargo por un periodo adicional de manera consecutiva, en términos del artículo 176, numeral 1, de la Constitución Política Local.
 
 > <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 2 DE JUNIO DE 2020)</small>
 
@@ -455,17 +481,27 @@ La inobservancia a lo dispuesto en el numeral 3 de este artículo, será sancion
 
 Los informes de gestión que realicen las y los integrantes de un ayuntamiento, no constituirán propaganda electoral, siempre y cuando se ajusten a lo dispuesto por el artículo 264 de esta ley.
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2020)</small>
+> <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
 
-La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
 
-(REUBICADO, P.O. 2 DE JUNIO DE 2020)
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
 
-Quienes sean postulados por partidos políticos no podrán participar en calidad de candidatos independientes.
+(NOTA: EL 3 DE SEPTIEMBRE DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 75/2026 Y SUS ACUMULADAS 80/2026, 88/2026 Y 89/2026 DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 3 DE SEPTIEMBRE DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-Tratándose de los candidatos independientes sólo podrán postularse con ese carácter.
+ARTÍCULO 14 BIS. En la integración de los ayuntamientos señalada en el artículo anterior, en aquellos Municipios del Estado, que históricamente no hayan sido gobernados por una mujer, en una tercera parte de ellos, los partidos políticos, coaliciones y candidaturas comunes deberán postular exclusivamente mujeres para el cargo de titularidad de la Presidencia Municipal.
+
+En los Municipios restantes, los partidos políticos podrán postular libremente el género de sus candidaturas conforme a las reglas de paridad aplicables.
+
+La implementación de esta medida será gradual y se aplicará durante tres procesos electorales ordinarios consecutivos, correspondiendo una tercera parte de dichos Municipios en cada proceso electoral.
+
+Los Municipios en los que se aplicara la medida prevista en el presente artículo serán determinados por el Congreso del Estado de Guerrero, mediante Decreto.
+
+En caso de coaliciones o candidaturas comunes, la obligación de postulación exclusiva de mujeres corresponderá al partido político que encabece la postulación municipal correspondiente, conforme al convenio respectivo.
+
+Las postulaciones exclusivas de mujeres a| (sic) las que refiere el presente artículo serán consideradas para efectos del cumplimiento de las reglas de paridad y bloques de competitividades previstas en esta Ley.
 
 ### CAPÍTULO II. DE LAS DIPUTACIONES DE REPRESENTACIÓN PROPORCIONAL Y DE LA FÓRMULA DE ASIGNACIÓN
 
@@ -2567,7 +2603,13 @@ IV. Asegurar a los ciudadanos el ejercicio de los derechos político-electorales
 
 V. Garantizar la celebración periódica y pacífica de las elecciones, para renovar a los integrantes de los Poderes Legislativo y Ejecutivo del Estado y de los Ayuntamientos;
 
-VI. Garantizar la transparencia, equidad y legalidad en los procesos electorales y de participación ciudadana, regulados en esta Ley y demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+VI. Garantizar la transparencia, equidad y legalidad en los procesos electorales y de participación ciudadana, regulados en esta Ley y demás ordenamientos aplicables.
+
+(NOTA: EL 3 DE SEPTIEMBRE DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 75/2026 Y SUS ACUMULADAS 80/2026, 88/2026 Y 89/2026 DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADAS CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE SEPTIEMBRE DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+SOLO EN CASO DE OMISIÓN LEGISLATIVA, el Consejo General podrá implementar alguna acción afirmativa no prevista expresamente en la Norma Legal, por lo cual deberá fundar y motivar su procedencia conforme a los parámetros establecidos en la presente Ley, acreditando su necesidad, razonabilidad, proporcionalidad y temporalidad.
 
 VII. Monitorear las actividades de los servidores públicos del Estado y de los Municipios, para garantizar que apliquen con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos. Asimismo, que la propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro Órgano del Gobierno Estatal y los Ayuntamientos, deberá tener carácter institucional y fines informativos, educativos o de orientación social. Y que en ningún caso esta propaganda incluya nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público;
 
@@ -2785,35 +2827,27 @@ Atendiendo a su misión y visión, el Instituto Electoral podrá contar con Unid
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN DEL CONSEJO GENERAL
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 180.
 
-El Consejo General, es el órgano de dirección superior, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género guíen todas las actividades del Instituto Electoral, en su desempeño aplicará la perspectiva de género.
+El Consejo General, es el órgano de dirección superior, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral; así como de velar por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad, máxima inclusión democrática y paridad de género para guiar las actividades del Instituto Electoral, y en su desempeño aplicar la perspectiva de género.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 181.
 
-El Consejo General se integra por un Consejero Presidente, seis Consejeros Electorales, con derecho a voz y voto; un Secretario Ejecutivo y representantes de los partidos políticos con registro nacional o local, quienes concurrirán a las sesiones solo con derecho a voz.
+El Consejo General se integra con una Consejera Presidenta o Consejero Presidente, seis Consejeras y Consejeros Electorales, con derecho a voz y voto; una Secretaria o Secretario Ejecutivo y las representaciones de los partidos políticos con registro nacional o local, la representación de los Pueblos y Comunidades Indígenas y la representación del Pueblo Afromexicano, quienes concurrirán a las sesiones solo con derecho a voz.
 
-Los requisitos para ser consejero electoral serán los previstos en el artículo 100 de la Ley General Electoral.
+Los requisitos para ser Consejera o Consejero Electoral, incluyendo a la Consejera Presidenta o Consejero Presidente, serán los previstos en el artículo 100 numeral 2 de la Ley General Electoral.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+La Consejera Presidenta o Consejero Presidente y las Consejeras y Consejeros Electorales, serán designadas por el Consejo General del Instituto Nacional, en los términos previstos por la Ley General Electoral.
 
-El Consejero Presidente y los Consejeros Electorales serán designados por el Consejo General del Instituto Nacional, en los términos previstos por la Ley General Electoral.
+Las Consejera Presidenta o Consejero Presidente, las Consejeras y Consejeros Electorales designados, tendrán un periodo de desempeño único de siete años; percibirán una remuneración acorde a sus funciones en términos del artículo 127 constitucional y del presupuesto aprobado, y podrán ser removidas por el Consejo General del Instituto Nacional, por las causas que establezca la Ley General Electoral.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+De producirse una ausencia definitiva de la Consejera Presidenta o Consejero Presidente, así como de las Consejeras y Consejeros Electorales, el Consejo General del Instituto Nacional hará la designación correspondiente en términos de la Ley General Electoral. Si la vacante se verifica durante los primeros cuatro años del encargo, se elegirá para un nuevo periodo.
 
-Los Consejeros Electorales tendrán un periodo de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde a sus funciones en términos del presupuesto aprobado, y podrán ser removidos por el Consejo General del Instituto Nacional, por las causas que establezca la Ley General Electoral.
-
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
-
-De producirse una ausencia definitiva del Consejero Presidente o Consejero Electoral, el Consejo General del Instituto Nacional hará la designación correspondiente en términos de la Ley General Electoral. Si la vacante se verifica durante los primeros cuatro años del encargo, se elegirá un sustituto para concluir el periodo. Si la falta ocurriese dentro de los últimos tres años, se elegirá un Consejero para un nuevo periodo.
-
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
-
-El Secretario Ejecutivo, será nombrado y removido por al menos el voto de cinco Consejeros Electorales a propuesta del Consejero Presidente, debiendo reunir los requisitos establecidos en el artículo 200 de la presente Ley. Durará en su encargo seis años y podrá ser reelecto por una sola vez.
+La Secretaria o Secretario Ejecutivo será designada y removida por el voto de al menos cinco Consejeras y Consejeros Electorales, a propuesta de la Consejera Presidenta o Consejero Presidente y, deberá reunir los requisitos previsto (sic) en el artículo 200 de la presente Ley. Durará en su encargo seis años y podrá ser reelecta por una sola ocasión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2901,49 +2935,53 @@ I. Vigilar el cumplimiento de la Legislación en materia electoral y las disposi
 
 II. Aclarar las dudas que se susciten con motivo de la interpretación y aplicación de esta Ley y demás disposiciones relativas;
 
-III. Expedir los reglamentos necesarios para el buen funcionamiento del Instituto Electoral y para el adecuado ejercicio de sus atribuciones y funciones, originarias o delegadas;
+(NOTA: EL 3 DE SEPTIEMBRE DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 75/2026 Y SUS ACUMULADAS 80/2026, 88/2026 Y 89/2026 DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADAS CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE SEPTIEMBRE DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-IV. Designar al Secretario Ejecutivo por al menos el voto de cinco Consejeros Electorales, conforme a la propuesta que presente el Consejero Presidente;
+III. Expedir los reglamentos necesarios para el buen funcionamiento del Instituto Electoral y para el adecuado ejercicio de sus atribuciones y funciones, originarias o delegadas dentro de lo establecido en la Ley. SOLO EN CASO DE OMISIÓN LEGISLATIVA, podrá aprobar acciones afirmativas no previstas expresamente en la ley de la materia, para lo cual, deberá justificar con base a datos objetivos y verificables, la existencia de subrepresentación histórica o exclusión estructural en el estado, acreditar que la medida no anula ni distorsiona la competencia electoral, establecer su carácter razonable, proporcional y temporal y, garantizar que no contravenga disposiciones constitucionales o legales vigente;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-V. Designar a los Directores Ejecutivos y a los titulares de las Unidades Técnicas por al menos el voto de cinco Consejeros Electorales, conforme a la propuesta que presente el Consejero Presidente;
+IV. Designar a la Secretaria o Secretario Ejecutivo, por al menos el voto de cinco Consejeras y Consejeros Electorales, conforme a la propuesta que presente la Consejera Presidenta o Consejero Presidente;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-VI. Aprobar la estructura de las Direcciones y demás órganos del Instituto Electoral, el Estatuto del Servicio, las necesidades del servicio y la disponibilidad presupuestal;
+V. Designar a las Directoras y Directores Ejecutivos, Jefas y Jefes de las Unidades Técnicas por al menos el voto de cinco de las Consejeras y Consejeros Electorales, conforme a la propuesta que presente la Consejera Presidenta o Consejero Presidente;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-VII. Vigilar la oportuna integración y adecuado funcionamiento de los órganos electorales del Instituto Electoral, y conocer, por conducto de su Presidente y de sus comisiones, las actividades de los mismos, así como de los informes específicos que el Consejo General estime necesarios solicitarles;
+VI. Aprobar la estructura de las Direcciones y demás Órganos del Instituto Electoral, el Estatuto del Servicio, las necesidades del servicio y la disponibilidad presupuestal;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-VIII. Designar por al menos el voto de cinco Consejeros Electorales a más tardar la primer semana de noviembre del año anterior a la elección, de entre las propuestas que al efecto haga el Consejero Presidente, a los Consejeros Electorales de los consejos distritales, a que se refiere el artículo 219 de esta Ley, derivado de la convocatoria pública expedida;
+VII. Vigilar la oportuna integración y adecuado funcionamiento de los órganos electorales del Instituto Electoral, y conocer, por conducto de la Consejera Presidenta o Consejero Presidente, de las Consejeras o Consejeros integrantes de sus Comisiones, las actividades de los mismos, así como de los informes específicos que el Consejo General estime necesarios solicitarles;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-IX. Resolver sobre las consultas y controversias que le sometan los partidos políticos, coaliciones o candidatos, relativas a la integración o funcionamiento de los órganos electorales del Instituto Electoral y demás asuntos de su competencia;
+VIII. Designar por al menos el voto de cinco Consejeras y Consejeros Electorales, a más tardar la primera semana de noviembre del año anterior a la elección, de entre las propuestas que al efecto haga la Consejera Presidenta o Consejero Presidente, a las Consejeras y Consejeros Electorales de los consejos distritales, a que se refiere el artículo 219 de esta Ley, derivado de la convocatoria pública expedida para tal efecto;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-X. Proporcionar a los consejos distritales, la documentación, las formas que apruebe para las actas del proceso electoral y los elementos y útiles necesarios para sus funciones, conforme a las reglas, lineamientos, criterios y formatos en materia de impresión de documentos y producción de materiales electorales que acuerde el Consejo General del Instituto Nacional;
+IX. Resolver sobre las consultas y controversias que le sometan los partidos políticos, coaliciones o candidatas o candidatos, relativas a la integración o funcionamiento de los órganos electorales del Instituto Electoral y demás asuntos de su competencia, así mismo, conocer las consultas formuladas por los Pueblos y Comunidades Indígenas y por el Pueblo Afromexicano en el ámbito de sus atribuciones e informar al Congreso del estado sobre sus resultados y conclusiones.
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XI. Resolver en los términos de la Ley de Partidos y demás disposiciones aplicables, el otorgamiento del registro, así como la pérdida del mismo por los partidos políticos locales, emitir la declaratoria correspondiente y solicitar su publicación en el Periódico Oficial del Gobierno del Estado;
+X. Aprobar y proporcionar a los Consejos Distritales, la documentación, las formas que apruebe para las actas del proceso electoral y los elementos y útiles necesarios para sus funciones, conforme a las reglas, lineamientos, criterios y formatos en materia de impresión de documentos y producción de materiales electorales que acuerde el Consejo General del Instituto Nacional;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XII. Resolver sobre el cambio de nombre de los partidos políticos locales;
+XI. Resolver en los términos de la Ley de Partidos y demás disposiciones aplicables, el otorgamiento y pérdida del registro, así como la pérdida del mismo por los Partidos Políticos locales, así como emitir la declaratoria correspondiente y solicitar su publicación en el Periódico Oficial del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+XII. Resolver sobre el cambio de nombre de los Partidos Políticos locales;
 
 XIII. Registrar supletoriamente los nombramientos de los representantes de los partidos políticos, coaliciones o candidaturas independientes;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XIV. Resolver sobre los convenios de fusión, frente, coaliciones y candidaturas comunes que celebren los partidos políticos;
+XIV. Resolver sobre los convenios de fusión, frente, coaliciones y candidaturas comunes que celebren los Partidos Políticos;
 
 XV. Registrar la plataforma electoral que para cada proceso electoral, deben presentar los partidos políticos, coaliciones o candidaturas independientes en los términos de esta Ley;
 
@@ -2951,9 +2989,9 @@ XVI. Vigilar que en lo relativo a las prerrogativas de los partidos políticos, 
 
 XVII. Vigilar que las elecciones internas de los partidos políticos se ajusten a lo dispuesto en esta Ley;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XVIII. Vigilar, en el ámbito de su competencia, que los partidos políticos cumplan con las obligaciones a que están sujetos, y sus actividades se desarrollen con apego a la Ley General de Partidos Políticos, a esta Ley y a los lineamientos que emita el Consejo General para que los partidos políticos prevengan, atiendan y erradiquen la violencia política contra las mujeres en razón de género;
+XVIII. Vigilar, en el ámbito de su competencia, que los Partidos Políticos cumplan con las obligaciones a que están sujetos, y sus actividades se desarrollen con apego a la Ley General de Partidos Políticos, a esta Ley y a los lineamientos que emita el Consejo General para que los Partidos Políticos prevengan, atiendan y erradiquen la violencia política contra las mujeres en razón de género;
 
 XIX. Registrar las candidaturas a Gobernador del Estado, así como las listas de candidatos a diputados de representación proporcional;
 
@@ -2965,9 +3003,9 @@ XXII. Establecer y difundir las reglas a las que se sujetarán los partidos pol�
 
 XXIII. Investigar por los medios legales pertinentes, de conformidad con el procedimiento ordinario o especial sancionador, según corresponda, todos aquellos hechos relacionados con el proceso electoral y de manera especial, los que denuncie un partido político, coalición, candidato, consejero electoral u órgano del Instituto Electoral, que impliquen violación a la Ley, por parte de las autoridades o de otros partidos, coaliciones o candidato;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXIV. Conocer, y en su caso ratificar, los convenios que el Presidente del Consejo General celebre con el Instituto Nacional en las diversas materias relacionadas con los procesos electorales locales y/o concurrentes;
+XXIV. Conocer, y en su caso ratificar, los convenios que la Consejera Presidenta o Consejero Presidente del Consejo General celebre con el Instituto Nacional en las diversas materias relacionadas con los procesos electorales locales y/o concurrentes;
 
 XXV. Ordenar la suspensión inmediata de la propaganda o campaña que se esté realizando por los partidos políticos, coaliciones, candidatos o terceros en contra de alguno de estos en contravención a lo dispuesto por esta Ley y la Ley de Imprenta;
 
@@ -2981,199 +3019,213 @@ XXIX. Cumplir con las resoluciones o acuerdos emitidos por la autoridad jurisdic
 
 XXX. Informar dentro de los tres días siguientes a la conclusión de los medios de impugnación, al H. Congreso Local sobre el otorgamiento de las constancias de asignación de diputados electos por los principios de mayoría relativa y de representación proporcional, así como de los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXXI. Aprobar el calendario de las actividades del proceso electoral ordinario, y en su caso extraordinario, propuesto por el Consejero Presidente;
+XXXI. Aprobar el calendario de las actividades del proceso electoral ordinario, y en su caso extraordinario, propuesto por la Consejera Presidenta o Consejero Presidente.
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXXII. Aprobar anualmente el anteproyecto de presupuesto del Instituto Electoral que le proponga el Presidente del Consejo General y una vez aprobado, someterlo a consideración del Congreso del Estado, así como remitirlo al titular del Poder Ejecutivo del Estado para su inclusión en el proyecto de presupuesto de egresos del Estado, y siguiendo el mismo procedimiento elaborar en su caso, los presupuestos que vía ampliación presupuestal sean necesarios para la organización y desarrollo de actividades extraordinarias que por disposición legal deban desarrollar;
+XXXII. Aprobar anualmente el anteproyecto de presupuesto del Instituto Electoral que le proponga la Consejera Presidenta o Consejero Presidente, del Consejo General y una vez aprobado, someterlo a consideración del Congreso del Estado, así como remitirlo a la o al titular del Poder Ejecutivo del Estado para su inclusión en el proyecto de presupuesto de egresos del Estado, y siguiendo el mismo procedimiento elaborar en su caso, los presupuestos que vía ampliación presupuestal sean necesarios para la organización y desarrollo de actividades extraordinarias que por disposición legal deban desarrollar;
 
 XXXIII. Designar en caso de ausencia del Secretario Ejecutivo, de entre los integrantes de la Junta Estatal, a la persona que fungirá como Secretario del Consejo en la sesión;
 
 XXXIV. Publicar en el Periódico Oficial del Gobierno del Estado y dos periódicos de mayor circulación en el Estado, su integración y la de los consejos distritales;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXXV. Aprobar el financiamiento público para actividades ordinarias permanentes, gastos de campaña y para actividades específicas, que se entregará a los partidos políticos o candidaturas independientes en los términos que dispone la presente Ley y demás disposiciones aplicables;
+XXXV. Aprobar el financiamiento público para actividades ordinarias permanentes, gastos de campaña y para actividades específicas, para entregar a los Partidos Políticos, en el caso, lo correspondiente a las candidaturas independientes en el tiempo y términos que disponen la presente Ley y demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXXVI. Solicitar información a personas físicas o morales sobre cualquier elemento que obre en su poder y que permita sustanciar las quejas administrativas en materia electoral;
+XXXVI. Solicitar información a personas físicas o morales sobre cualquier elemento que obre en su poder que sea indispensable y permita sustanciar las quejas administrativas en materia electoral, debiendo hacer la solicitud debidamente fundada y motivada;
 
 > <small>(REFORMADA, P.O. 2 DE JUNIO DE 2020)</small>
 
 XXXVII. Aprobar el modelo de las boletas, actas de la jornada electoral y los formatos de la demás documentación, así como del material electoral, para ser proporcionado a los consejos distritales, de conformidad con los lineamientos generales y de seguridad que al respecto emitan el Instituto Nacional Electoral y el Instituto Electoral Local;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXXVIII. Requerir a los partidos políticos debidamente registrados y acreditados ante el Consejo General, para que dentro del plazo de 15 días previos a la instalación de los consejos distritales electorales, registren de manera supletoria a sus representantes propietarios y suplentes;
+XXXVIII. Requerir a los Partidos Políticos debidamente registrados y acreditados ante el Consejo General, para que, dentro del plazo de 15 días previos a la instalación de los Consejos Distritales electorales, registren de manera supletoria a sus representaciones propietarias y suplentes;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXXIX. Registrar de manera supletoria las fórmulas de candidatos a diputados por el principio de mayoría relativa;
+XXXIX. Registrar de manera supletoria las fórmulas de candidaturas a diputaciones por el principio de Mayoría Relativa;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XL. Registrar supletoriamente las planillas a candidatos a miembros de los Ayuntamientos y listas de candidatos a regidores de representación proporcional;
+XL. Registrar supletoriamente las planillas a candidaturas a la Presidencia y Sindicatura de los Ayuntamientos y listas de Candidaturas a Regidurías de Representación Proporcional;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XLI. Hacer el cómputo general de la elección de Gobernador y expedir la constancia de mayoría del candidato que resulte triunfador; así como la declaración de validez de la elección y de elegibilidad del candidato triunfador;
+XLI. Hacer el cómputo general de la elección de Gubernatura y expedir la constancia de mayoría y la declaración de validez de la elección y de elegibilidad a la candidatura que resulte triunfadora.
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XLII. Conocer las actividades institucionales y los informes de las Comisiones;
+XLII. Conocer las acciones institucionales y los informes de actividades que rindan las Comisiones;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XLIII. Autorizar al Consejero Presidente y al Secretario del Consejo General, celebren convenio de colaboración con el Instituto Nacional, para la organización de los procesos electorales que les corresponda desarrollar de forma coincidente, así como de los procesos extraordinarios. El convenio, deberá establecer las actividades que ejecutará cada uno de los órganos electorales, y las que realizarán de forma conjunta para garantizar la organización eficaz de los procesos electorales coincidentes.
+XLIII. Autorizar a la Consejera Presidenta o Consejero Presidente, y a la persona titular de la Secretaría Ejecutiva, del Consejo General, celebren convenio de colaboración con el Instituto Nacional, para garantizar la organización eficaz de los procesos electorales concurrentes, así como de los procesos extraordinarios que se requieran.
 
-El convenio establecerá las bases bajo las cuales se organizará el proceso electoral;
+El convenio, deberá establecer las bases bajo las cuales se organizarán los procesos electorales y las actividades que ejecutará cada uno de los órganos electorales, y las que realizarán de forma conjunta;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XLIV. Aprobar los programas anuales de las Direcciones Ejecutivas y Unidades Técnicas y los dictámenes que presenten las respectivas Comisiones sobre el cumplimiento de los mismos;
+XLIV. Aprobar los programas anuales de las Direcciones Ejecutivas y Unidades Técnicas, así como, los dictámenes que presenten las respectivas Comisiones sobre el cumplimiento de los mismos;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XLV. Atender las solicitudes de los observadores electorales, de conformidad con lo que establece la Ley General Electoral y los lineamientos que para el efecto emita el Instituto Nacional;
+XLV. Atender las solicitudes de las y los observadores electorales, conforme a lo establecido en la Ley General Electoral y los Lineamientos que para el efecto emita el Instituto Nacional;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 XLVI. Aprobar la integración de las Comisiones y de los Comités del Instituto Electoral;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XLVII. Crear Comisiones Temporales y Comités para el adecuado funcionamiento del Instituto Electoral;
+XLVII. Crear Comisiones y Comités temporales para atender asuntos no previstos en la presente Ley y demás ordenamientos reglamentarios, con la finalidad de un adecuado funcionamiento del Instituto Electoral;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XLVIII. Conocer los informes financieros semestrales y anual que rinda el Secretario Ejecutivo, previa la validación de la Comisión de Administración del Instituto Electoral;
+XLVIII. Conocer los informes financieros semestrales y anual que rinda la Secretaria o Secretario Ejecutivo, previa la validación de la Comisión de Administración del Instituto Electoral;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XLIX. Fijar las políticas y los programas generales del Instituto Electoral a propuesta de la Junta Estatal;
+XLIX. Fijar las políticas y los programas generales del Instituto Electoral previa propuesta de la Junta Estatal;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-L. Acordar el orden del día de sus sesiones;
+L. Acordar el Orden del Día de sus sesiones;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LI. Contar con el auxilio de la fuerza pública necesaria para garantizar el desarrollo del proceso electoral en los términos de esta Ley;
+LI. Contar con el auxilio de la fuerza pública necesaria para garantizar el óptimo desarrollo del proceso electoral, de conformidad con lo dispuesto por las leyes de la materia;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LII. Remitir al Congreso del Estado, dentro de los tres días siguientes a la entrega de la constancia de mayoría, la documentación correspondiente a la calificación de la elección de Gobernador;
+LII. Remitir al Congreso del Estado, dentro de los tres días siguientes a la entrega de la constancia de mayoría, la documentación correspondiente a la calificación de la elección para la Gubernatura;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LIII. Expedir los nombramientos a los integrantes de los consejos distritales;
+LIII. Expedir los nombramientos a las personas que integran los Consejos Distritales;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LIV. Efectuar estudios, encuestas y sondeos de opinión orientados a recoger la opinión pública respecto de temas diversos en materia político-electoral y publicarlos cuando corresponda;
+LIV. Efectuar estudios, encuestas y sondeos de opinión orientados a recoger la opinión pública respecto de temas diversos en materia político-electoral y realizar publicaciones respectivas con oportunidad;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE JUNIO DE 2026)</small>
 
 LV. Autorizar a instituciones, organizaciones o empresas especializadas, la realización de encuestas o sondeos de opinión pública respecto de tendencias de preferencia o votación durante el proceso electoral en el Estado, así como los plazos y términos que para el efecto se determinen, conforme a las reglas, lineamientos y criterios que emita el Instituto Nacional;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LVI. Enviar al Ejecutivo del Estado a más tardar el día 15 del mes de octubre de cada año, su anteproyecto de presupuesto de egresos el cual deberá comprender partidas específicas para cubrir las prerrogativas a que los partidos políticos tienen derecho para su incursión en el presupuesto de egresos del Estado, y posterior aprobación por el Congreso del Estado;
+LVI. Enviar a la o el titular del Poder Ejecutivo Estatal, a más tardar el día 15 del mes de octubre de cada año, su anteproyecto de presupuesto de egresos el cual deberá comprender partidas específicas para cubrir las prerrogativas a que los partidos políticos tienen derecho para su incursión en el presupuesto de egresos del Estado, y posterior aprobación por el Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE JUNIO DE 2026)</small>
 
 LVII. Celebrar los convenios conducentes tanto con instituciones públicas como privadas, con la finalidad de generar imparcialidad y equidad en la información que se difunda a la ciudadanía en materia político-electoral;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LVIII. Confirmar la vigencia del registro ante el Instituto Nacional de los partidos políticos que tengan derecho a participar en las elecciones de diputados por los principios de mayoría relativa y de representación proporcional, Gobernador del Estado y Ayuntamientos, en los términos que establece esta Ley;
+LVIII. Confirmar la vigencia del registro ante el Instituto Nacional de los Partidos Políticos que tengan derecho a participar en las elecciones para diputaciones por los principios de Mayoría Relativa y de Representación Proporcional, Gobernadora o Gobernador del Estado y Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LIX. Expedir la convocatoria pública para la selección de los consejeros distritales electorales;
+LIX. Expedir la convocatoria pública para la selección de las personas que aspiran a ser Consejeras o Consejeros Electorales Distritales;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LX. Recibir y dictaminar la solicitud de procedencia de los procedimientos de participación ciudadana, así como encargarse de su organización y desarrollo, en términos de la Ley de Participación Ciudadana del Estado de Guerrero;
+LX. Verificar la procedencia y, de ser el caso organizar y calificar lo relativo a los instrumentos de participación ciudadana, en los términos de lo que dispone la Ley de Participación Ciudadana del Estado de Guerrero;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LXI. Supervisar el cumplimiento de lo dispuesto en los artículos 191 numeral 1, fracciones III y IV de la Constitución Política del Estado y acatar lo señalado en el artículo 174 fracción VII de esta Ley, imponiendo la sanción administrativa que corresponda y dando vista a las autoridades competentes para que en su caso apliquen la normativa respectiva;
+LXI. Supervisar el cumplimiento de lo dispuesto en los artículos 191 numeral 1, fracciones III y IV de la Constitución Local, y acatar lo señalado en el artículo 174 fracción VII de la presente Ley, imponiendo la sanción administrativa que corresponda y dando vista a las autoridades competentes para que en su caso apliquen la normativa respectiva;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LXII. Aprobar los manuales de organización y operación financiera del Instituto Electoral;
+LXII. Aprobar los Manuales de Organización y Operación Financiera del Instituto Electoral;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LXIII. Vigilar que la Junta Estatal dé cumplimiento con las disposiciones legales en materia de transparencia y acceso a la información pública en el Estado;
+LXIII. Vigilar que la Junta Estatal dé cumplimiento con las disposiciones legales en materia de Transparencia y Acceso a la Información Pública en el Estado;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LXIV. Solicitar al Instituto Nacional el otorgamiento de los tiempos de Estado que les corresponde a los partidos políticos y al Instituto Electoral así como los que requiera para el proceso electoral local, en términos de lo dispuesto por la Constitución Federal y la Ley General Electoral;
+LXIV. Solicitar al Instituto Nacional el otorgamiento de los tiempos de Estado que les corresponde a los Partidos Políticos y al Instituto Electoral, así como los que requiera para el proceso electoral local, en términos de lo dispuesto por la Constitución Federal y la Ley General Electoral;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LXV. Aprobar los lineamientos, acuerdos, resoluciones y todo aquello que resulte necesario en las diversas materias relacionadas con los procesos electorales para determinar los procedimientos, calendarización y actividades que se requieran, así como instrumentar los convenios y/o anexos técnicos que celebren o suscriban con las autoridades electorales;
+LXV. Aprobar los lineamientos, acuerdos, resoluciones y todo aquello que resulte necesario en las diversas materias relacionadas con los procesos electorales para determinar los procedimientos, calendarización y actividades que se requieran, así como instrumentar los Convenios y/o Anexos Técnicos que se celebren o suscriban con las autoridades electorales, conforme a esta Ley y demás normativa aplicable;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LXVI. Aprobar los ajustes necesarios a los plazos establecidos en la presente Ley, conforme a la Ley General Electoral, criterios, lineamientos y demás ordenamientos aplicables que determine el Instituto Nacional;
+LXVI. Aprobar los ajustes necesarios a los plazos establecidos en la presente Ley, conforme a la Ley General Electoral, así como a los criterios, lineamientos y demás ordenamientos aplicables que determine el Instituto Nacional;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LXVII. Solicitar con la aprobación de la mayoría de los consejeros, al Instituto Nacional, ejerza su facultad de atracción, fundando y motivando en los términos de la Ley General Electoral;
+LXVII. Solicitar al Instituto Nacional con la aprobación de la mayoría de las Consejeras y Consejeros Electorales, ejerza su facultad de atracción, fundando y motivando en los términos de la Ley General Electoral;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LXVIII. Solicitar con la aprobación de la mayoría de los consejeros, al Instituto Nacional, ejerza su facultad de asunción total o parcial, fundando y motivando en los términos de la Ley General Electoral;
+LXVIII. Solicitar al Instituto Nacional con la aprobación de la mayoría de las Consejeras y Consejeros Electorales, ejerza su facultad de asunción total o parcial, fundando y motivando en los términos de la Ley General Electoral;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LXIX. En los procesos en que se realicen elecciones federales y locales coincidentes en el Estado, el Consejo General hará los ajustes necesarios a los procedimientos electorales de esta Ley;
+LXIX. Hacer los ajustes necesarios a los procedimientos electorales de esta Ley, cuando en el Estado se realicen elecciones federales y locales concurrentes;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LXX. Comunicar al Instituto Nacional, el número de diputaciones de mayoría relativa que integrarán el Congreso del Estado para los efectos de la determinación de los distritos electorales;
+LXX. Comunicar al Instituto Nacional, el número de diputaciones de mayoría relativa que integrarán el Congreso del Estado, para los efectos de la determinación de los Distritos Electorales;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LXXI. Aprobar la creación de nuevas Direcciones, Unidades Técnicas y Administrativas, así como la creación de Unidades Desconcentradas Regionales para el mejor funcionamiento, cumplimiento y necesidades del servicio del Instituto Electoral, a propuesta del Consejero Presidente.
+LXXI. Aprobar la creación de nuevas Direcciones, Unidades Técnicas y Administrativas, así como la creación de Unidades Desconcentradas Regionales para el mejor funcionamiento, cumplimiento y necesidades del servicio del Instituto Electoral, a propuesta de la Consejera Presidenta o Consejero Presidente;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-LXXII. Aprobar en el mes de enero, para el ejercicio fiscal correspondiente, el presupuesto de ingresos y egresos del Instituto Electoral;
+LXXII. Aprobar en el mes de enero del ejercicio fiscal correspondiente, el Presupuesto de Ingresos y Egresos del Instituto Electoral;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JUNIO DE 2026)</small>
 
-LXXIII. En materia del Servicio Profesional Electoral Nacional:
+LXXIII. En correlación al Servicio Profesional Electoral Nacional:
 
-a) Supervisar las actividades que realicen los miembros del Servicio Profesional Electoral Nacional adscritos al Instituto Electoral, e informar sobre ellas al Instituto Nacional por conducto de la Unidad Técnica de Enlace;
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-b) Realizar nombramientos, promociones y actos relacionados con el Servicio Profesional Electoral Nacional, conforme a lo dispuesto por el Estatuto del Servicio y la demás normativa aplicable;
+a) Supervisar las actividades que realicen las personas que pertenecen al Servicio Profesional Electoral Nacional y se encuentran adscritas al Instituto Electoral, así mismo, informar sobre ellas, al Instituto Nacional por conducto de la Unidad Técnica de Enlace;
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+b) Realizar nombramientos, promociones y actos relacionados con el Servicio Profesional Electoral Nacional, en términos de lo dispuesto por el Estatuto del Servicio y la demás normativa aplicable;
 
 c) Hacer cumplir las normas y procedimientos previstos en el Estatuto del Servicio y la demás normativa aplicable;
 
-d) Atender los requerimientos que formule el Instituto Nacional;
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-e) Informar al Instituto Nacional sobre el presupuesto asignado a incentivos y promociones que se otorguen a miembros del Servicio Profesional Electoral Nacional adscritos al Instituto Electoral;
+d) Atender los requerimientos que formule el Instituto Nacional, relacionado con el Servicio Profesional Electoral;
 
-f) Designar al funcionario que fungirá como autoridad instructora para efectos del Procedimiento Laboral Disciplinario previsto en el Estatuto del Servicio;
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-g) Resolver los recursos de inconformidad que se presenten contra resoluciones emitidas por la autoridad resolutora del Procedimiento Laboral Disciplinario previsto en el Estatuto del Servicio;
+e) Informar al Instituto Nacional sobre el presupuesto asignado a incentivos y promociones que se otorguen a las personas pertenecientes al Servicio Profesional Electoral Nacional adscritas al Instituto Electoral;
 
-h) Las demás que en materia del Servicio Profesional Electoral Nacional se deriven del Estatuto del Servicio y demás normativa aplicable; y
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2018)</small>
+f) Designar a la o el servidor público que fungirá como Autoridad Instructora para efectos del Procedimiento Laboral Disciplinario previsto en el Estatuto del Servicio;
 
-LXXIV. Atender las solicitudes que presenten los ciudadanos, los pueblos y las comunidades indígenas para el cambio de modelo de elección de sus autoridades municipales por sistemas normativos internos;
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2018)</small>
+g) Resolver los Recursos de Inconformidad que se presenten contra resoluciones emitidas por la Autoridad Resolutora del Procedimiento Laboral Disciplinario previsto en el Estatuto del Servicio;
 
-LXXV. Desarrollar el procedimiento de consulta para el cambio de modelo de elección de sus autoridades municipales por sistemas normativos internos; y
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+h) Las demás relativas al Servicio Profesional Electoral Nacional que se deriven del Estatuto del Servicio y demás normativa aplicable; y
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+LXXIV. Atender las solicitudes que presenten las y los Ciudadanos, los Pueblos y las Comunidades Indígenas para el cambio de modelo de elección de sus Autoridades Municipales por Sistemas Normativos Internos;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+LXXV. Desarrollar el procedimiento de consulta para el cambio de modelo de elección de sus Autoridades Municipales por Sistemas Normativos Internos; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -3653,87 +3705,87 @@ X. No desempeñar ni haber desempeñado el cargo de representante de partido pol
 
 XI. No pertenecer al estado eclesiástico, ni ser ministro de culto religioso, durante los últimos cuatro años anteriores a su designación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 201.
 
-Son atribuciones del Secretario Ejecutivo:
+Son atribuciones de la Secretaria o Secretario Ejecutivo;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-I. Recibir poderes a nombre del Instituto Electoral para actos de dominio, de administración y para representarlo ante cualquier autoridad administrativa o judicial, o ante particulares;
+I. Recibir poderes a nombre del Instituto Electoral para actos de dominio, de administración y para representarlo ante cualquier Autoridad Administrativa o Judicial, o ante Particulares;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-II. Conocer de las notificaciones que formulen los ciudadanos que pretendan constituirse como partidos políticos locales y realizar las actividades pertinentes;
+II. Conocer de las notificaciones que formulen las y los ciudadanos que pretendan constituirse como Partidos Políticos locales y realizar las actividades pertinentes;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-III. Recibir las solicitudes de registro de los ciudadanos que pretendan constituirse como partidos políticos locales; que hayan cumplido los requisitos establecidos en esta Ley e integrar el expediente respectivo para que el Presidente lo someta a la consideración del Consejo General;
+III. Recibir las solicitudes de registro de las y los ciudadanos que pretendan constituirse como Partidos Políticos locales; que hayan cumplido los requisitos establecidos en esta Ley e integrar el expediente respectivo para que la Consejera o Consejero Presidente la someta a la consideración del Consejo General;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-IV. Inscribir en el libro respectivo el registro de partidos, cambio de nombre, así como los convenios de fusión, frentes, coaliciones y candidaturas comunes;
+IV. Inscribir en el libro respectivo el registro de Partidos Políticos, cambio de nombre, así como los convenios de fusión, frentes, coaliciones y candidaturas comunes;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-V. Llevar el registro de los representantes de los partidos políticos, coaliciones y candidaturas independientes acreditados ante los órganos electorales;
+V. Llevar el registro de las representaciones de los Partidos Políticos, coaliciones y candidaturas independientes acreditadas ante los Órganos Electorales; así como el de las representaciones de los Pueblos y Comunidades Indígenas y del Pueblo Afromexicano que concurran ante dichos órganos, conforme a esta Ley;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-VI. Proveer a los órganos electorales de los elementos necesarios para el cumplimiento de sus funciones;
+VI. Proveer a los Órganos Electorales de los elementos necesarios para el cumplimiento de sus funciones;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-VII. Colaborar con las comisiones del Consejo General para el cumplimiento de las tareas que se les hayan encomendado;
+VII. Colaborar con las Comisiones del Consejo General para el cumplimiento de las tareas que se les hayan encomendado;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-VIII. Organizar en la etapa de preparación del proceso electoral, reuniones regionales de orientación y capacitación a servidores púbicos electorales y coordinar las que con carácter distrital se celebren, así como formular los instructivos de capacitación para los servidores públicos electorales;
+VIII. Organizar en la etapa de preparación del proceso electoral, reuniones regionales de orientación y capacitación a las y los servidores públicos electorales y coordinar las que con carácter distrital se celebren, así como formular los instructivos de capacitación correspondientes;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-IX. Auxiliar al Presidente, en la recepción de las solicitudes de registro de candidatos que competan al Consejo General e informar de esos registros, por la vía más rápida a los consejos distritales;
+IX. Auxiliar a la Consejera o Consejero Presidente, en la recepción de las solicitudes de registro de candidaturas que competan al Consejo General e informar de esos registros, a los Consejos Distritales por la vía más rápida.
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-X. Llevar los libros de registro de los candidatos a puestos de elección popular;
+X. Llevar los libros de registro de las candidaturas a puestos de elección popular;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XI. Preparar los proyectos de la documentación electoral y proveer lo necesario para su impresión, distribución y recolección, conforme a los lineamientos que establezca el Instituto Nacional;
+XI. Preparar los proyectos de la documentación electoral y proveer lo necesario para su impresión, distribución y recolección, conforme a los Lineamientos que establezca el Instituto Nacional;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XII. Participar en los convenios que se celebren con el Instituto Nacional, respecto a la información y documentos que se generen en las diversas materias relacionadas con el proceso electoral local;
+XII. Participar en los convenios que se celebren con el Instituto Nacional, respecto a la información y documentos que se generen en las diversas materias relacionadas con los procesos electorales locales y federales;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE JUNIO DE 2026)</small>
 
 XIII. Proveer lo necesario, a fin de que se hagan oportunamente las publicaciones que ordena la Ley y las que disponga el Consejo General.
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XIV. Llevar el Archivo General del Instituto Electoral;
+XIV. Llevar el Archivo General del Instituto Electoral conforme a las Leyes Electorales y la Ley General de Archivos;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XV. Ejercer y atender oportunamente la función de Oficialía Electoral por sí o por conducto de los secretarios técnicos de los consejos distritales u otros servidores públicos del Instituto Electoral, en los que delegue dicha función respecto de actos o hechos exclusivamente de naturaleza electoral. El Secretario Ejecutivo podrá delegar la atribución en servidores públicos a su cargo;
+XV. Ejercer y atender oportunamente la función de Oficialía Electoral por sí o por conducto de las Secretarias o Secretarios Técnicos de los Consejos Distritales u otras personas servidoras públicas del Instituto Electoral, en los que delegue dicha función respecto de actos o hechos exclusivamente de naturaleza electoral. La o el Secretario Ejecutivo podrá delegar la atribución en las o los servidores públicos a su cargo;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XVI. Ser fedatario de los actos o hechos exclusivamente de naturaleza electoral y expedir las certificaciones que se requieran;
+XVI. Dar fe de los actos o hechos exclusivamente de naturaleza electoral y expedir las certificaciones que se requieran;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XVII. Orientar y coordinar las acciones de las Direcciones Ejecutivas y demás órganos del Instituto Electoral, informando permanentemente al Presidente del Consejo General;
+XVII. Orientar y coordinar las acciones de las Direcciones Ejecutivas y demás órganos del Instituto Electoral, informando permanentemente a la Consejera Presidenta o Consejero Presidente del Consejo General;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 XVIII. Ejercer las partidas presupuestales aprobadas, llevando la administración y finanzas del Instituto Electoral, con estricto apego al presupuesto aprobado por el Consejo General y bajo la supervisión de la Comisión de Administración y la Contraloría Interna;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XIX. Rendir a la Junta Estatal los informes financieros semestrales y un anual sobre el cierre del ejercicio fiscal; así como al Consejo General previa validación de la Comisión de Administración;
+XIX. Rendir a la Junta Estatal los Informes Financieros semestrales y uno Anual sobre el cierre del Ejercicio Fiscal correspondiente; así como al Consejo General previa validación de la Comisión de Administración;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3743,77 +3795,85 @@ XX. Organizar, dirigir y controlar la administración de los recursos materiales
 
 XXI. Establecer y operar los sistemas administrativos para el ejercicio y control presupuestal;
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXII. Con la supervisión de la Comisión de Organización Electoral, integrar y difundir la estadística electoral por casilla, sección, municipio y distrito, de las elecciones de Gobernador del Estado, Diputados y Ayuntamientos, una vez calificadas;
+XXII. Con la supervisión de la Comisión de Organización Electoral, integrar y difundir, una vez calificada la elección, la Estadística Electoral por Casilla, Sección, Municipio y Distrito, de las elecciones para la Gubernatura del Estado, Diputaciones y Ayuntamientos;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXIII. Presentar al Consejero Presidente, para la aprobación del Consejo General, los proyectos de convenios a celebrarse con autoridades para el apoyo y colaboración en el cumplimiento de la función electoral;
+XXIII. Presentar a la Consejera Presidenta o Consejero Presidente para la aprobación del Consejo General, los proyectos de convenios a celebrarse con autoridades para el apoyo y colaboración en el cumplimiento de la función electoral;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXIV. En ausencia del Presidente, recibir las solicitudes de registro de candidatos y hacerlas del conocimiento del Presidente para su trámite correspondiente;
+XXIV. Recibir las solicitudes de registro de candidaturas, en ausencia de la Consejera Presidenta o Consejero Presidente, haciéndolas de su conocimiento a la brevedad, para su trámite correspondiente;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXV. Informar de manera expedita, a los consejos distritales acerca del registro que de manera directa o supletoria se hagan ante el Consejo General;
+XXV. Informar de manera expedita, a los Consejos Distritales acerca del registro que de manera directa o supletoria se hagan ante el Consejo General;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXVI. Supervisar el cumplimiento de las normas aplicables a los partidos políticos y sus prerrogativas;
+XXVI. Supervisar el cumplimiento de las normas aplicables a los Partidos Políticos y sus prerrogativas;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXVII. Sustanciar el procedimiento de pérdida del registro de los partidos políticos locales que se encuentre en los supuestos previstos en la Ley de Partidos y esta Ley, hasta dejarlo en estado de proyecto de dictamen y resolución;
+XXVII. Sustanciar el procedimiento de pérdida del registro de los Partidos Políticos locales que se encuentren en los supuestos previstos en la Ley de Partidos y esta Ley, hasta dejarlo en estado de proyecto de dictamen y resolución;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
 XXVIII. Instruir a la Unidad de Enlace el cambio de adscripción, por necesidades del Servicio Profesional Electoral Nacional, en los casos, expresamente previstos en el Estatuto del Servicio;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXIX. Fungir como autoridad resolutora del Procedimiento Laboral Disciplinario del Personal del Servicio Profesional Electoral Nacional, conforme a lo dispuesto por el Estatuto del Servicio y demás normativa aplicable;
+XXIX. Fungir como Autoridad Resolutora del Procedimiento Laboral Disciplinario del Personal del Servicio Profesional Electoral Nacional, conforme a lo dispuesto por el Estatuto del Servicio y demás normativa aplicable;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXX. Informar a los órganos del Instituto Electoral sobre los acuerdos adoptados por el Consejo General para su conocimiento general;
+XXX. Informar a los Órganos del Instituto Electoral, para su conocimiento general, sobre los Acuerdos adoptados por el Consejo General;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXXI. Preparar los proyectos de resolución de las quejas o denuncias que se presenten al Consejo General para su atención, siguiendo el procedimiento establecido en el Capítulo II del Título VI de la Presente Ley;
+XXXI. Preparar los proyectos de Resolución de las quejas o denuncias que se presenten al Consejo General para su atención, siguiendo el procedimiento establecido en el Capítulo II del Título VI de la Presente Ley;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXXII. Tramitar y sustanciar los procedimientos administrativos sancionadores ordinarios y especiales establecidos en esta Ley, a través de la Unidad Técnica de lo Contencioso Electoral;
+XXXII. Tramitar y sustanciar los Procedimientos Administrativos Sancionadores ordinarios y especiales establecidos en esta Ley, a través de la Unidad Técnica de lo Contencioso Electoral;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXXIII. Llevar el registro de antecedentes de los agresores de violencia política; y
+XXXIII. Llevar el Registro de antecedentes de personas agresoras de violencia política;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
 
-XXXIV. Las demás que le sean conferidas por esta Ley, el Consejo General y su Presidente.
+XXXIV. Las demás que le sean conferidas por esta Ley, el Consejo General y la Consejera Presidenta o Consejero Presidente.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-Para el mejor desempeño de sus funciones, el Secretario Ejecutivo organizará las unidades administrativas del Instituto Electoral y las que determine su Consejero Presidente.
+Para el mejor desempeño de sus funciones, la o el Secretario Ejecutivo organizará las Unidades Administrativas del Instituto Electoral y las que determine la Consejera Presidenta o Consejero Presidente.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-La Secretaría Ejecutiva tendrá adscrita una Unidad Técnica de lo Contencioso Electoral que será competente para la tramitación de los procedimientos sancionadores y demás que determine esta Ley y las disposiciones aplicables.
+La Secretaría Ejecutiva tendrá adscrita una Unidad Técnica de lo Contencioso Electoral que será competente para la tramitación de los procedimientos sancionadores y demás actos que determine esta Ley y las disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-En el ejercicio de la función de oficialía electoral, el Secretario Ejecutivo, los secretarios técnicos de los consejos distritales, así como los demás servidores públicos en quien se delegue esta función tendrán las siguientes atribuciones, las cuales deberán realizar de manera oportuna:
+En el ejercicio de la función de oficialía electoral, la o el Secretario Ejecutivo, las y los Secretarios Técnicos de los Consejos Distritales, así como las demás personas servidoras públicas en quienes se delegue esta función, deberán realizar de manera oportuna, las siguientes atribuciones:
 
-a) A petición de los partidos políticos, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales;
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-b) A petición de los órganos del Instituto Electoral, constatar hechos que influyan o afecten la organización del proceso electoral;
+a) A petición de los Partidos Políticos, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales;
 
-c) Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos locales; y
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-d) Las demás que establezca esta Ley y demás disposiciones aplicables.
+b) A petición de los Órganos del Instituto Electoral, constatar hechos que influyan o afecten la organización del proceso electoral;
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+c) Solicitar la colaboración de las Notarías Públicas para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos locales; y
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+d) Las demás que determinen la presente Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
 
@@ -5227,9 +5287,13 @@ VI. Cargo para el que se les postule;
 
 VII. Curriculum Vitae; y
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-VIII. Las legisladoras y legisladores, así como los miembros de ayuntamientos que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos, ya sea por el inicio de cargo o en forma consecutiva y el partido o la coalición por el que fue electo. En caso de tratarse de un partido diferente, deberá acompañar constancia que demuestre cuándo concluyó su militancia en ese partido y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección.
+VIII. Las personas diputadas y miembros de ayuntamientos no podrán ser reelectas en el proceso electoral para el periodo inmediato posterior al ejercicio de su mandato. Las diputadas, diputados e integrantes de los ayuntamientos en calidad de suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hayan estado en ejercicio del cargo, pero las diputadas y diputados propietarios no podrán ser electas para el periodo inmediato con el carácter de suplentes.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VIII, P.O. 2 DE JUNIO DE 2026]</small>
+
+En ningún caso, podrá participar en la elección de una diputación o para integrar un ayuntamiento la persona que tenga a haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hechos o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está o haya ejercido en el periodo inmediato anterior, la titularidad de la diputación o haya o integre un ayuntamiento, según sea el caso.
 
 La solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento, del anverso y reveros (sic) de la credencial para votar, así como, en su caso, la constancia de residencia de propietarios y suplentes.
 
@@ -8028,3 +8092,87 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 538, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+(NOTA: EL 3 DE SEPTIEMBRE DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 75/2026 Y SUS ACUMULADAS 80/2026, 88/2026 Y 89/2026 DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO SEGUNDO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE SEPTIEMBRE DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+SEGUNDO. LOS PARTIDOS POLÍTICOS Y LAS CANDIDATURAS INDEPENDIENTES, A PARTIR DEL PROCESO ELECTORAL ORDINARIO 2026-2027, DEBERÁN REGISTRAR EXCLUSIVAMENTE A MUJERES EN LOS CARGOS DE PRESIDENTA MUNICIPAL EN LOS MUNICIPIOS QUE A LA FECHA NO HAN SIDO PRESIDIDOS POR UNA MUJER, DE MANERA GRADUAL CONFORME A LOS BLOQUES DE 7, 7 Y 6 MUNICIPIOS, DE ACUERDO A LA SIGUIENTE DISTRIBUCIÓN:
+
+I. PRIMER BLOQUE ELECTIVO PARA POSTULAR EXCLUSIVAMENTE CANDIDATURAS MUJERES, EN EL PROCESO ELECTORAL ORDINARIO 2026-2027 CORRESPONDE A LOS MUNICIPIOS:
+
+MUNICIPIO
+
+1. ATLAMAJALCINGO DEL MONTE.
+
+2. XOCHIHUEHUETLAN.
+
+3. TLACOAPA.
+
+4. ZAPOTITLÁN TABLAS.
+
+5. IGUALAPA.
+
+6. COAHUAYUTLA DE JOSÉ MA. IZAZAGA.
+
+7. MOCHITLÁN.
+
+II. SEGUNDO BLOQUE ELECTIVO EXCLUSIVO PARA EL REGISTRO DE CANDIDATURAS DE MUJERES, EN EL PROCESO ELECTORAL ORDINARIO 2029-2030 CORRESPONDE A LOS MUNICIPIOS:
+
+MUNICIPIO
+
+1. MARQUELIA.
+
+2. COPALILLO.
+
+3. COPANATOYAC.
+
+4. ALCOZAUCA DE GUERRERO.
+
+5. LEONARDO BRAVO.
+
+6. CUAJINICUILAPA.
+
+7. MALINALTEPEC
+
+III. TERCER BLOQUE ELECTIVO DE CANDIDATURAS EXCLUSIVAS PARA MUJERES, EN EL PROCESO ELECTORAL ORDINARIO 2032-2033 CORRESPONDE A LOS MUNICIPIOS:
+
+MUNICIPIO
+
+1. ATLIXTAC
+
+2. ACATEPEC.
+
+3. QUECHULTENANGO.
+
+4. SAN LUIS ACATLÁN.
+
+5. TLAPA DE COMONFORT.
+
+6. IGUALA DE LA INDEPENDENCIA.
+
+PARA EFECTO DE LO ANTERIOR, EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO, DEBERÁ REALIZAR LA ELECCIÓN QUE SE CELEBRE EN EL PROCESO ELECTORAL ORDINARIO DE 2026-2027, EN LOS TÉRMINOS DE LA LISTA CORRESPONDIENTE AL PRIMER BLOQUE SEÑALADO. DICHO BLOQUE SERÁ CONTABILIZADO PARA EFECTOS DE LA OBLIGACIÓN QUE TIENEN LOS PARTIDOS POLÍTICOS EN EL REGISTRO PARITARIO DE CANDIDATURAS A AYUNTAMIENTOS.
+
+SI, DURANTE LA APLICACIÓN DE LA PRESENTE MEDIDA AFIRMATIVA Y CON ANTERIORIDAD AL PROCESO ELECTORAL EN QUE CORRESPONDA SU INCLUSIÓN EN ALGUNO DE LOS BLOQUES SUBSECUENTES, UNA MUJER RESULTA ELECTA PARA OCUPAR LA PRESIDENCIA MUNICIPAL DE CUALQUIERA DE LOS MUNICIPIOS PREVISTOS EN DICHOS BLOQUES, EL MUNICIPIO DE QUE SE TRATE QUEDARÁ EXCLUIDO DE LA OBLIGACIÓN DE POSTULACIÓN EXCLUSIVA DE MUJERES Y NO SERÁ CONSIDERADO PARA LA INTEGRACIÓN DEL BLOQUE CORRESPONDIENTE.
+
+CONCLUIDA LA APLICACIÓN DE LOS BLOQUES PREVISTOS EN EL PRESENTE ARTÍCULO TRANSITORIO, EL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO ELABORARÁ UN INFORME DE EVALUACIÓN SOBRE LOS RESULTADOS DE LA MEDIDA AFIRMATIVA IMPLEMENTADA, MISMO QUE DEBERÁ REMITIRSE AL CONGRESO DEL ESTADO DENTRO DE LOS SEIS MESES SIGUIENTES A LA CONCLUSIÓN DEL PROCESO ELECTORAL ORDINARIO 2032-2033, CON EL OBJETO DE VALORAR EL CUMPLIMIENTO DE LA FINALIDAD DE IGUALDAD SUSTANTIVA QUE MOTIVÓ SU ESTABLECIMIENTO Y, EN SU CASO, FORMULAR RECOMENDACIONES PARA FORTALECER LA PARTICIPACIÓN POLÍTICA DE LAS MUJERES EN AQUELLOS MUNICIPIOS DONDE SUBSISTAN CONDICIONES DE SUBREPRESENTACIÓN HISTÓRICA.
+
+LAS DISPOSICIONES PREVISTAS EN EL PRESENTE ARTÍCULO CONSTITUYEN UNA ACCIÓN AFIRMATIVA DE CARÁCTER TEMPORAL, RAZONABLE Y PROPORCIONAL, ORIENTADA A GARANTIZAR LA IGUALDAD SUSTANTIVA Y A REMOVER LAS BARRERAS HISTÓRICAS QUE HAN LIMITADO EL ACCESO DE LAS MUJERES A LA TITULARIDAD DE LAS PRESIDENCIAS MUNICIPALES EN LOS MUNICIPIOS COMPRENDIDOS EN LOS BLOQUES PREVISTOS EN ESTE DECRETO.
+
+LOS PARTIDOS POLÍTICOS QUEDAN EXCEPTUADOS, POR ÚNICA OCASIÓN, DEL CUMPLIMIENTO DE LO ESTABLECIDO EN EL ARTÍCULO 3, NUMERAL 5 DE LA LEY GENERAL DE PARTIDOS POLÍTICOS PARA FORTALECER LA PARIDAD EFECTIVA EN EL ESTADO DE GUERRERO.
+
+TERCERO. Por única ocasión, y con el objeto de preservar la continuidad institucional y operativa del Proceso Electoral Ordinario 2026-2027, la conclusión del encargo del actual Secretario Ejecutivo del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero se realizará en el mes de septiembre de 2027. La designación de la persona que habrá de ocupar dicho cargo deberá efectuarse una vez concluidas las etapas sustanciales del referido proceso electoral, en términos de la presente Ley.
+
+(NOTA: EL 3 DE SEPTIEMBRE DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 75/2026 Y SUS ACUMULADAS 80/2026, 88/2026 Y 89/2026 DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO CUARTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 3 DE SEPTIEMBRE DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+CUARTO. PARA LA INTERPRETACIÓN Y APLICACIÓN DE ESTE DECRETO, LOS ÓRGANOS JURISDICCIONALES Y AUTORIDADES EN MATERIA ELECTORAL, PARTIDOS POLÍTICOS, CANDIDATAS Y CANDIDATOS INDEPENDIENTES, DEBERÁN ATENERSE A SU LITERALIDAD Y NO HABRÁ LUGAR A INTERPRETACIONES ANÁLOGAS O EXTENSIVAS QUE PRETENDAN INAPLICAR, SUSPENDER, MODIFICAR O HACER NUGATORIOS SUS TÉRMINOS O SU VIGENCIA, YA SEA DE MANERA TOTAL O PARCIAL.
+
+QUINTO. Las reformas a los artículos 14, segundo párrafo, 273, fracción VIII, y de esta Ley, respecto de la prohibición de nepotismo electoral y reelección, serán aplicables a partir de los procesos electorales a celebrarse en 2030.
+
+SEXTO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+SÉPTIMO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
