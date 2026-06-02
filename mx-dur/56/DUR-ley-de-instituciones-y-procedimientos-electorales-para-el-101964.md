@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-instituciones-y-procedimientos-electorales-para-el-10196
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2026-04-26"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2014.
 
@@ -259,19 +259,17 @@ ARTÍCULO 10
 
 2. En ningún caso procederá el registro de candidatura para los cargos señalados en el numeral anterior, a las y los ciudadanos que hayan sido sancionados por infracciones o delitos relacionados con violencia política contra las mujeres por razones de género.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-3. Para el caso de las y los diputados que aspiren a la elección consecutiva, deberán respetar el principio por el que fueron electos, exceptuando cuando se trate de representación proporcional y deseen contender para un distrito de mayoría relativa.
+3. Las diputadas y diputados no podrán ser reelectos para el periodo inmediato posterior al ejercicio de su mandato.
 
-Será optativo separarse del cargo, pero en caso de decidir no hacerlo, deberá asistir a todas y cada una de las sesiones de Congreso, así como comisiones de las que forme parte.
+Únicamente las personas electas, mediante la figura de suplencia, podrán ser electas para el periodo inmediato con el carácter de propietaria siempre y cuando no hubiesen ejercido el cargo de forma temporal o definitiva, las personas diputadas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes.
 
-En cualquier caso, queda expresamente prohibido el uso de recursos públicos del Congreso para actividades proselitistas, como lo son el uso de la infraestructura del recinto parlamentario, de las oficinas de representación, del personal, de vehículos o cualquier otro que sea propiedad del Congreso o provenga de sus recursos.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2023)</small>
+4. Las y los presidentes municipales, regidores y síndicos de los ayuntamientos, no podrán ser electos para el mismo cargo por un periodo consecutivo.
 
-4. Para el caso de los Presidentes Municipales, Síndicos y Regidores que opten por la elección consecutiva, podrán separarse de su cargo público hasta un día antes del inicio de las campañas electorales y hasta la entrega, en su caso, de la constancia de mayoría.
-
-En cualquier caso, queda expresamente prohibido el uso de recursos públicos del Ayuntamiento para actividades proselitistas, como lo son el uso de la infraestructura, del personal de vehículos o cualquier otro bien que sea propiedad del ayuntamiento o provenga de sus recursos.
+Únicamente las personas electas, mediante la figura de suplencia, podrán ser electas para el periodo inmediato con el carácter de propietaria, siempre y cuando no hubiesen ejercido el cargo de forma temporal o definitiva, las personas que ocupen la Presidencia, Sindicatura y Regidurías propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes.
 
 (NOTA: EL 16 DE NOVIEMBRE DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2023 Y SU ACUMULADA 188/2023, DECLARÓ LA INVALIDEZ DEL NUMERAL 5 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -371,7 +369,13 @@ ARTÍCULO 17
 
 ARTÍCULO 18
 
-1. La elección de Gobernador del Estado se llevará a cabo cada seis años, será directa y por el principio de mayoría relativa en todo el territorio de la Entidad.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+1. La elección de la Gobernadora o Gobernador del Estado, se llevará a cabo cada seis años, será directa y por el principio de mayoría relativa en todo el territorio de la Entidad.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+2. Para la elección de la Gubernatura, los partidos políticos deberán observar en la postulación el principio de alternancia de género.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
@@ -403,19 +407,23 @@ En caso de ausencia de disposición expresa, se aplicará supletoriamente lo dis
 
 ARTÍCULO 19
 
-1. El Municipio Libre es la base de la división territorial y de la organización política y administrativa del Estado; y, estará administrado por un ayuntamiento integrado con un Presidente y un Síndico por mayoría relativa, y por Regidores de representación proporcional, electos cada tres años.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-2. El número de regidores de representación proporcional en los municipios se asignarán de conformidad con la distribución siguiente:
+1. El Municipio Libre es la base de la división territorial y de la organización política y administrativa del Estado; y, estará administrado por un ayuntamiento integrado con una Presidenta o Presidente y una Síndica o Síndico por mayoría relativa, y por Regidurías de representación proporcional, electos cada tres años.
 
-I. En el municipio de Durango serán electos diecisiete regidores;
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 2 DE JUNIO DE 2026)</small>
 
-II. En los municipios de Gómez Palacio y Lerdo serán electos quince regidores;
+2. El número de regidurías de representación proporcional en los municipios se asignarán de conformidad con la distribución siguiente:
 
-III. En los municipios de Canatlán, Cuencamé, Guadalupe Victoria, Mapimí, Mezquital, Nombre de Dios, Nuevo Ideal, Poanas, Pueblo Nuevo, San Dimas, Santiago Papasquiaro, Tamazula, Tlahualilo y Vicente Guerrero se elegirán nueve regidores; y
+I. En los municipios de Durango, Gómez Palacio y Lerdo serán electos quince regidurías;
 
-IV. En los demás municipios se elegirán siete regidores.
+II. En los municipios de Canatlán, Cuencamé, Guadalupe Victoria, Mapimí, Mezquital, Nombre de Dios, Nuevo Ideal, Poanas, Pueblo Nuevo, San Dimas, Santiago Papasquiaro, Tamazula, Tlahualilo y Vicente Guerrero se elegirán nueve regidurías; y
 
-3. La asignación de regidores será de acuerdo y en el orden en que fueron presentados en las planillas para contender en la elección correspondiente.
+III. En los demás municipios se elegirán siete regidurías.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+3. La asignación de regidurías será de acuerdo y en el orden en que fueron presentados en las planillas para contender en la elección correspondiente.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2021)</small>
 
@@ -597,11 +605,13 @@ ARTÍCULO 32 BIS
 
 I. Nombre de los partidos que la conforman, así como el tipo de elección de que se trate;
 
-II. Emblema común de los partidos que lo conforman y el color o colores con que se participa;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+II. El emblema, así como los colores con que participaran los partidos que la conforman, el cual deberá contener el logo de los mismos;
 
-III. Nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar, CURP y el consentimiento por escrito de quien encabece la candidatura;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+III. Nombre, apellidos, edad, lugar de nacimiento, domicilio, clave de la credencial para votar, CURP, consentimiento por escrito de quien encabece la candidatura, así como el siglado al que pertenecerá cada candidatura, únicamente para efectos de determinar la fracción partidaria a la que pertenecerán las personas electas;
 
 IV. La aprobación del convenio por parte de los órganos directivos correspondientes de cada uno de los partidos políticos postulantes del candidato común;
 
@@ -631,7 +641,13 @@ ARTÍCULO 32 QUÁTER
 
 3. Para los efectos de la integración de los organismos electorales, del financiamiento y de la responsabilidad en materia electoral, civil y penal, los partidos políticos que postulen candidatos comunes mantendrán su autonomía y serán responsables de sus actos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE JUNIO DE 2026)</small>
+
 4. Los votos se computarán a favor del candidato común y la distribución del porcentaje de votación será conforme al convenio de candidatura común registrado ante el Consejo General.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Tratándose de la elección de diputaciones, del total de la votación valida emitida en favor de la candidatura común se destinará el porcentaje de votos acordado en el convenio correspondiente a cada partido político, lo anterior para efectos de la asignación de la representación proporcional, la conservación del registro tratándose de partidos estatales y/o acreditación de partidos políticos con registro nacional, así como para el otorgamiento del financiamiento público.
 
 5. En la boleta deberá aparecer en un mismo espacio el emblema conjunto de los partidos
 
@@ -1149,7 +1165,13 @@ ARTÍCULO 76
 
 3. Los funcionarios del instituto recibirán una remuneración adecuada por el desempeño de su función, empleo o comisión, que deberá ser proporcional a sus responsabilidades. Se considera remuneración toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
-4. La remuneración que perciban los consejeros electorales y demás funcionarios del Instituto se hará de conformidad con el Presupuesto de Egresos aprobado por el Congreso del Estado.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+4. La remuneración que perciban los consejeros electorales y demás funcionarios del Instituto, o plazas homologas, se hará de conformidad con el Presupuesto de Egresos aprobado por el Congreso del Estado, la cual deberá ser inferior a lo percibido por la persona que ocupe la Gubernatura del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+5. El Instituto, sus funcionarios, así como las consejerías, por si, o por interpósita persona, no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
 ARTÍCULO 77
 
@@ -2193,7 +2215,17 @@ ARTÍCULO 131
 
 1. El Tribunal Electoral funcionará de forma permanente con una Sala Colegiada, integrada por tres magistrados. En ningún caso la Sala Colegiada se deberá integrar por personas de un solo género, es decir, que de los tres integrantes al menos uno de ellos debe ser de género diferente, quienes ejercerán el cargo por un periodo de siete años, prorrogables por una sola ocasión. Serán electos por el Senado de la República, de manera escalonada, de acuerdo con el procedimiento previsto en la Ley General. Sus sesiones de resolución jurisdiccional serán públicas.
 
-Los magistrados electorales percibirán la remuneración que corresponda a los magistrados del Tribunal Superior de Justicia del Estado, la cual no podrá ser disminuida durante el periodo de su encargo.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+La remuneración que perciban las magistraturas electorales, titulares de las secretarías, direcciones, jefaturas y demás órganos administrativos y operativos del Tribunal Electoral, o plazas homologas, será inferior a lo percibido por la persona que ocupe la Gubernatura del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Se considera remuneración toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Las magistraturas, sus funcionarios en todos sus niveles, por si, o por interpósita persona, no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
 ARTÍCULO 132
 
@@ -3291,9 +3323,7 @@ ii. En los municipios con nueve regidurías: se deberá presentar una fórmula e
 
 iii. En los municipios con quince regidurías: se deberá presentar una fórmula en las primeras siete posiciones del listado de sus candidaturas del municipio, en favor de cualquiera de los grupos o sectores sociales vulnerables, enlistados anteriormente.
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2023)</small>
-
-iv. En el municipio de Durango: se deberá presentar una fórmula en las primeras ocho posiciones del listado de sus candidaturas del municipio, en favor de cualquiera de los grupos o sectores sociales vulnerables, enlistados anteriormente.
+iv. (DEROGADA, P.O. 2 DE JUNIO DE 2026)
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2023)</small>
 
@@ -3411,9 +3441,7 @@ VI. CURP;
 
 VII. Cargo para el que se les postule;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
-
-VIII. Los candidatos a Diputados e integrantes del Ayuntamiento que busquen la elección consecutiva en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución en materia de reelección; y
+VIII. (DEROGADA, P.O. 2 DE JUNIO DE 2026)
 
 > <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
 
@@ -3571,9 +3599,13 @@ ARTÍCULO 199
 
 ARTÍCULO 200
 
-1. Las campañas electorales para Gobernador del Estado, tendrán una duración de sesenta días.
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
-2. Las campañas electorales para Diputados locales, tendrán una duración de cincuenta días.
+1. Las campañas electorales para Gobernadora o Gobernador del Estado, tendrán una duración de cincuenta días.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+2. Las campañas electorales para Diputadas y Diputados locales, tendrán una duración de treinta y cinco días.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
@@ -4539,6 +4571,10 @@ IV. Abrirá los paquetes que tenga muestras de alteración, si las actas finales
 
 V. EN SU CASO, SE SUMARÁN LOS VOTOS QUE HAYAN SIDO EMITIDOS A FAVOR DE DOS O MÁS PARTIDOS COALIGADOS Y QUE POR ESA CAUSA HAYAN SIDO CONSIGNADOS POR SEPARADO EN EL APARTADO CORRESPONDIENTE DEL ACTA DE ESCRUTINIO Y CÓMPUTO DE CASILLA. LA SUMA DE TALES VOTOS SE DISTRIBUIRÁ IGUALITARIAMENTE ENTRE LOS PARTIDOS QUE INTEGRAN LA COALICIÓN; DE EXISTIR FRACCIÓN, LOS VOTOS CORRESPONDIENTES SE ASIGNARÁN A LOS PARTIDOS DE MÁS ALTA VOTACIÓN;
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+En la elección de integrantes de los ayuntamientos, tratándose de Candidatura Común, el voto emitido a favor de la misma se contabilizará como una unidad, para efectos de conteo y asignación de las regidurías correspondientes, de acuerdo al listado proporcionado por los partidos políticos integrantes.
+
 VI. El Consejo Municipal deberá realizar nuevamente el escrutinio y cómputo cuando:
 
 a). Existan errores o inconsistencias evidentes en los distintos elementos de las actas, salvo que puedan corregirse o aclararse con otros elementos a satisfacción plena de quien lo haya solicitado;
@@ -4595,9 +4631,13 @@ I. Del total de la votación válida se deducirá la votación obtenida por aque
 
 II. La votación resultante se dividirá entre el total de regidurías a distribuir para obtener un factor común;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
 
-III. Se asignará a cada partido tantos regidores como veces se contenga el factor común en su votación; y
+III. Se asignará a cada partido tantos regidores como veces se contenga el factor común en su votación.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Tratándose de la Candidatura Común, la asignación se realizará de acuerdo al listado proporcionado por los partidos que la integran, al momento de la solicitud de registro; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE FEBRERO DE 2015)</small>
 
@@ -6628,3 +6668,21 @@ P.O. 26 DE ABRIL DE 2026.
 PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 427 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO Y DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO".]
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente del inicio de la vigencia de la reforma a la Constitución Política del Estado Libre y Soberano de Durango en materia electoral, publicada en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Lo dispuesto en la fracción I del artículo 21 de la Ley Orgánica del Municipio Libre de Durango, será vigente para la integración de los Cabildos que resulten electos en proceso electoral local 2027-2028.
+
+TERCERO: Lo dispuesto en la fracción VII del articulo 25 de la Ley Orgánica del Municipio Libre de Durango, entrará en vigor previo al inicio del proceso electoral 2029-2030, atendiendo a lo dispuesto por el Decreto por el que se reforma y adicionan los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral publicado en el Diario Oficial de la Federación de fecha martes 1 de abril de 2025 en su edición vespertina.
+
+CUARTO: Por cuanto hace a los numerales 3 y 4 del artículo 10 de la Ley de Instituciones y Procedimientos Electorales para el Estado de Durango, estos cobrarán vigencia para el inicio del proceso electoral 2029-2030, atendiendo a lo dispuesto por el Decreto por el que se reforma y adicionan los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral publicado en el Diario Oficial de la Federación de fecha martes 1 de abril de 2025 en su edición vespertina.
+
+QUINTO: Lo establecido en el artículo 18, numeral 2, de la Ley de Instituciones y Procedimientos Electorales para el Estado de Durango, para la postulación de la Gubernatura los partidos políticos deberán observar el principio de alternancia de género, el cual entrará en vigor para la elección inmediata posterior del proceso electoral local a celebrarse en 2028. En consecuencia, para el proceso electoral 2027-2028, los partidos políticos, coaliciones o candidaturas comunes determinarán libremente el género a postular, conforme a las disposiciones que establezcan para hacer efectiva la paridad sustantiva. Le corresponderá a la Septuagésima Primera Legislatura del H. Congreso del Estado de Durango, establecer las disposiciones legales a fin de garantizar la alternancia de género para los procesos electorales subsecuentes.
+
+SEXTO: Lo dispuesto en el artículo 19, numeral 2, fracción I de la Ley de Instituciones y Procedimientos Electorales para el Estado de Durango, entrará en vigor para la integración de los Cabildos que resulten electos derivado del proceso electoral local 2027-2028.
+
+SÉPTIMO: Se derogan todas las disposiciones que se opongan al presente Decreto.
