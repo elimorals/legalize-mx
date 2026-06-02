@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obra-publica-para-el-estado-de-jalisco-y-sus-125988"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-30"
-last_updated: "2026-05-14"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE OBRA PÚBLICA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en el Número 42 Sección III del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2018.
 
@@ -161,11 +161,21 @@ VII. Las obras de irrigación, introducción, ampliación y mejoramiento de las 
 
 VIII. Las obras para caminos, vialidad urbana, tráfico y transporte colectivo;
 
-IX. Las obras que coadyuven a la conservación del medio ambiente;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2026)</small>
 
-X. Las obras necesarias ante contingencias derivadas de caso fortuito o fuerza mayor; y
+IX. Las obras de construcción, rehabilitación, mantenimiento y conservación de carreteras y caminos municipales, observando lo dispuesto por las leyes aplicables a la materia,
 
-XI. Las obras de naturaleza análoga a las anteriores que deriven de programas públicos.
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN IX], P.O. 2 DE JUNIO DE 2026)</small>
+
+X. Las obras que coadyuven a la conservación del medio ambiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN X], P.O. 2 DE JUNIO DE 2026)</small>
+
+XI. Las obras necesarias ante contingencias derivadas de caso fortuito o fuerza mayor; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], P.O. 2 DE JUNIO DE 2026)</small>
+
+XII. Las obras de naturaleza análoga a las anteriores que deriven de programas públicos.
 
 3. Se consideran servicios relacionados con la obra pública o servicios, y por tanto se rigen por la presente ley, entre otros los siguientes:
 
@@ -3272,3 +3282,9 @@ P.O. 14 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 30144/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 16 DE LA LEY DE OBRA PÚBLICA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 96 DE LA LEY DE VIVIENDA DEL ESTADO DE JALISCO, ASÍ COMO 366 Y 379 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, CON EL PROPÓSITO DE ESTABLECER CLARAMENTE LA REGLA DE SUPLETORIEDAD DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES EN CADA UNO DE LOS ORDENAMIENTOS LEGALES REFORMADOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 30169/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 2 DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO, ASÍ COMO LOS ARTÍCULOS 16 Y 22 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
