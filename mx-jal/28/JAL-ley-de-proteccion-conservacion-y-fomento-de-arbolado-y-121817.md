@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-conservacion-y-fomento-de-arbolado-y-121817"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-06"
-last_updated: "2022-07-16"
+last_updated: "2026-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN, CONSERVACIÓN Y FOMENTO DE ARBOLADO Y ÁREAS VERDES URBANAS PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
 
 Ley publicada en la Sección II del Número 40 del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 2017.
 
@@ -151,7 +151,11 @@ II. Aplicar las sanciones administrativas a quien cometa alguna infracción a es
 
 III. Desarrollar y aplicar programas de capacitación continua para el personal de la Dirección Municipal encargado de realizar los trabajos de plantación, poda, derribo o trasplante de árboles y palmas;
 
-IV. Elaborar programas de arborización y restitución;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+
+IV. Elaborar programas de arborización, restitución y mantenimiento de áreas verdes.
+
+Los programas a los que se refiere el párrafo anterior, incluirán estrategias de riego que se adapten al clima, tipo de suelo y vegetación local, priorizando la aplicación de métodos de riego sostenibles y eficientes;
 
 V. Implementar programas de prevención y atención oportuna para el tratamiento de palmas y árboles riesgosos;
 
@@ -277,11 +281,39 @@ Los árboles y palmas deberán ser mantenidos mediante podas correctivas, preven
 
 Será responsabilidad de quien realice los trabajos de poda, limpieza, trasplante o derribo de arbolado y palmas, retirar y gestionar los residuos a efecto de no obstruir el tránsito vehicular o peatonal, garantizando la seguridad de personas y cosas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO QUINTO BIS. Del Riego
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+###### Artículo 16 Bis.
+
+Las autoridades responsables del cuidado, conservación y promoción de las áreas verdes en el Estado y sus municipios, promoverán la reutilización y aprovechamiento de agua tratada para las actividades relacionadas con el riego de las áreas verdes públicas que les correspondan.
+
+Para efectos de lo establecido en el presente artículo, en el caso de aquellos municipios o zonas metropolitanas que cuenten con plantas de tratamiento de aguas residuales en funcionamiento, priorizarán la reutilización de agua tratada, para ser empleada en actividades relacionadas con el riego de áreas verdes públicas, de conformidad con los lineamientos técnicos y de calidad que establezcan las autoridades competentes, para proteger la salud pública y el medio ambiente.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+###### Artículo 16 Ter.
+
+Las actividades de riego de áreas verdes, deberá (sic) realizarse preferentemente durante la noche.
+
+En caso de que lo establecido en el presente artículo no sea posible, las actividades de riego se llevarán a cabo al amanecer o al atardecer, esto con el fin de reducir la evaporación y lograr un mayor aprovechamiento del agua.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Artículo 16 quater. En zonas con clima semiárido o árido, se fomentará el uso de especies vegetales nativas o adaptadas a condiciones de baja disponibilidad hídrica, promoviendo un diseño de áreas verdes que reduzca la necesidad de riego intensivo.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Artículo 16 quinquies. Las autoridades municipales y estatales podrán celebrar convenios con organismos operadores del agua para asegurar el suministro de agua residual tratada destinada al mantenimiento de parques, jardines, camellones y demás áreas verdes.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+
+Artículo 16 sexies. El incumplimiento de lo establecido en el presente Capítulo será sancionado conforme a lo dispuesto en la presente Ley y en las demás normativas ambientales aplicables.
+
 ### CAPÍTULO SEXTO. Del trasplante y derribo de árboles y palmas
-
-### CAPÍTULO SÉPTIMO. De la restitución
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 17.
 
@@ -327,7 +359,9 @@ II. Por la sustitución de especies o para evitar la generación de desechos de 
 
 III. Los demás que señale la normatividad en la materia.
 
-### CAPÍTULO OCTAVO. Del riesgo
+### CAPÍTULO SÉPTIMO. De la restitución
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 21.
 
@@ -343,7 +377,7 @@ La restitución se realizará en el sitio donde se derribe el árbol o palma, o 
 
 Cuando no sea posible realizar la restitución de la masa arbórea, se determinarán restituciones económicas. Dicha restitución podrá ser entregada en especie, siempre que los insumos, obras o productos entregados tengan utilidad de forma íntegra para restaurar el daño ambiental generado por las acciones sancionadas o para la conservación y reposición de las áreas verdes y arbolado urbano, previa autorización de la autoridad municipal.
 
-### CAPÍTULO NOVENO. De las prohibiciones y sanciones
+### CAPÍTULO OCTAVO. Del riesgo
 
 ###### Artículo 24.
 
@@ -366,6 +400,8 @@ VI. Las unidades de Protección Civil lo determinen.
 ###### Artículo 25.
 
 Las autoridades municipales recibirán reportes ciudadanos por causa de riesgo en árboles y palmas, debiendo dar respuesta inmediata en casos de peligro a la integridad de las personas, y en su caso las derivará a la autoridad correspondiente.
+
+### CAPÍTULO NOVENO. De las prohibiciones y sanciones
 
 ###### Artículo 26.
 
@@ -468,3 +504,11 @@ P.O. 16 DE JULIO DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Para el correcto cumplimiento de lo dispuesto por el segundo párrafo del artículo 27, los municipios tendrán 90 días naturales para hacer las adecuaciones propias a sus leyes de ingresos, presupuestos y disposiciones reglamentarias aplicables.
+
+P.O. 2 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 30170/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 5 Y ADICIONA EL CAPÍTULO QUINTO BIS DE LA LEY DE PROTECCIÓN, CONSERVACIÓN Y FOMENTO DE ARBOLADO Y ÁREAS VERDES URBANAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los municipios, realizarán las medidas que estimen necesarias a efecto de que la operación de las plantas de tratamiento de aguas residuales que administren, y que, al momento de la publicación del presente Decreto, se encuentren en funcionamiento, garantice las condiciones mínimas necesarias para la reutilización de agua tratada, en actividades relacionadas con el riego de áreas verdes.
