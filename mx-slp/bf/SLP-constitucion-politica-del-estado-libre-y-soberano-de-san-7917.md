@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2026-06-02"
+last_updated: "2026-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2026.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -705,9 +705,9 @@ El Consejo Estatal Electoral y de Participación Ciudadana es competente para im
 
 El Consejo Estatal Electoral y de Participación Ciudadana contará con un órgano de dirección superior integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; un secretario ejecutivo y representantes de los partidos políticos y, en su caso, el representante del candidato independiente a Gobernador del Estado; quienes concurrirán a las sesiones sólo con derecho a voz.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
 
-Los consejeros electorales integrantes del Consejo Estatal Electoral y de Participación Ciudadana durarán en su encargo un periodo de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones; serán nombrados por el Consejo General del Instituto Nacional Electoral, y podrán ser removidos por causas graves que establezca la ley.
+Las personas consejeras electorales integrantes del Consejo Estatal Electoral y de Participación Ciudadana durarán en su encargo un periodo de siete años y no podrán ser reelectas; percibirán una remuneración acorde con sus funciones, sin que pueda exceder del límite previsto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, ni comprender prestaciones extraordinarias, seguros, bonos, apoyos, beneficios o regímenes especiales que no estén expresamente previstos en la ley y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, o disposición general; serán nombradas por el Consejo General del Instituto Nacional Electoral, y podrán ser removidas por causas graves que establezca la ley.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -719,21 +719,23 @@ ARTÍCULO 31 BIS.- El órgano interno de control del Consejo Estatal Electoral y
 
 El titular del órgano interno de control será electo, previa convocatoria pública, por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes; y sólo podrá ser removido por las causas y en la forma que establezca la Ley Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 32.
 
-El Tribunal Electoral del Estado es el órgano jurisdiccional de única instancia y especializado en materia electoral en el Estado; gozará de autonomía técnica, gestión en su funcionamiento, e independencia en sus decisiones. Éste deberá cumplir sus funciones bajo los principios de, certeza, imparcialidad, objetividad, legalidad y probidad.
+El Tribunal Electoral del Estado es el órgano jurisdiccional de única instancia y especializado en materia electoral en el Estado; gozará de autonomía técnica, gestión en su funcionamiento, e independencia en sus decisiones. Este deberá cumplir sus funciones bajo los principios de, certeza, imparcialidad, objetividad, legalidad y probidad.
 
-El Tribunal Electoral del Estado no formará parte del Poder Judicial del Estado, y se integra por tres magistrados que actuarán en forma colegiada, y permanecerán en su encargo durante siete años.
+El Tribunal Electoral del Estado no formará parte del Poder Judicial del Estado, y se integra por tres personas magistradas que actuarán en forma colegiada, y permanecerán en su encargo durante siete años.
 
-Los magistrados electorales serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, de conformidad con lo que establecen, la Constitución Federal, y las leyes generales en materia electoral que de ella emanen.
+Las personas magistradas electorales serán electas en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, de conformidad con lo que establecen, la Constitución Federal, y las leyes generales en materia electoral que de ella emanen.
 
-Los magistrados electorales serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes locales en la materia.
+Las personas magistradas electorales serán responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes locales en la materia.
 
-Durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional local, y de los que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+Durante el período de su encargo, las personas magistradas electorales no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación de la autoridad electoral jurisdiccional local, y de los que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
 
-Todas las sesiones del Tribunal Electoral del Estado serán públicas.
+Todas las sesiones del Tribunal Electoral del Estado, serán públicas.
+
+Las personas magistradas electorales percibirán una remuneración acorde con sus funciones, sin que pueda exceder del límite previsto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, o disposición general.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -877,7 +879,9 @@ El Presidente del Congreso o de la Diputación Permanente, en su caso, velará p
 
 El Congreso del Estado se integra con quince diputaciones electas por mayoría relativa y hasta doce diputaciones electas según el principio de representación proporcional. Por cada Diputado propietario se elegirá un suplente.
 
-Para la integración del Congreso del Estado se observará el principio de paridad de género, la ley establecerá las reglas y fórmulas para estos efectos.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
+
+Para la integración del Congreso del Estado se observarán los principios de paridad de género, igualdad sustantiva y perspectiva de género. La ley establecerá las reglas y fórmulas para estos efectos. Para el funcionamiento de los órganos legislativos, aplicarán los mismos principios.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -979,15 +983,17 @@ XIII.- No ser funcionario municipal con atribuciones de mando.
 
 Quienes se encuentren en los supuestos que señalan las fracciones, II, III, IV, VII, VIII, X, y XIII de este artículo, estarán impedidos a menos que se separen definitivamente de sus funciones noventa días antes del día de la elección. Los ministros de culto deberán hacerlo con la anticipación y en la forma establecida en la Ley reglamentaria del artículo 130 de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2026)</small>
+
+En ningún caso, podrá participar en la elección de una diputación la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 48.
 
-Las diputadas y los diputados podrán ser electos hasta por cuatro períodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las diputadas y los diputados no podrán ser electos para el periodo inmediato posterior al ejercicio de su mandato.
 
-Quienes pretendan reelegirse en una diputación deberán separarse de su cargo cuarenta y cinco días antes de la elección, previa solicitud de la licencia respectiva, pudiendo reincorporarse el día posterior de la elección. Las y los legisladores electos como candidatos independientes sólo podrán ser reelectos bajo esta misma figura.
-
-La ley establecerá las bases y mecanismos que habrán de observar las diputadas y los diputados que pretendan acceder a la elección consecutiva.
+Las diputadas y los diputados suplentes podrán ser electos para el periodo inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero las diputadas y los diputados propietarios no podrán ser electos para el periodo inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2014)</small>
 
@@ -1123,9 +1129,13 @@ VIII.- Aprobar las leyes que regulen su organización y funcionamiento internos;
 
 IX.- Dictar todas las leyes que sean necesarias para hacer efectivas las atribuciones que esta Constitución otorga a los Poderes del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JUNIO DE 2026)</small>
 
-X.- Elaborar su respectivo presupuesto de egresos; el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, para remitirlo al Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; asimismo, administrarlo y ejercerlo en forma autónoma, en los términos que disponga su Ley Orgánica;
+X.- Elaborar su respectivo presupuesto de egresos; el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, para remitirlo al Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; asimismo administrarlo y ejercerlo en forma autónoma, en los términos que disponga su Ley Orgánica.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2026)</small>
+
+El presupuesto del Congreso del Estado no podrá exceder del cero punto setenta por ciento del Presupuesto de Egresos del Estado;
 
 XI.- Fijar los ingresos y egresos del Estado con base en los presupuestos anuales que el Ejecutivo deberá presentar;
 
@@ -2195,13 +2205,23 @@ No se hará pago alguno que no esté previsto en la Ley del Presupuesto de Egres
 
 El Municipio Libre constituye la base de la división territorial y de la organización política y administrativa del Estado y tendrá a su cargo la administración y gobierno de los intereses municipales, conforme a las bases siguientes:
 
-> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2026)</small>
 
-I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa. La competencia del gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado. Los ayuntamientos se compondrán por un presidente municipal y el número de regidores y síndicos que la ley determine, de conformidad con el principio de paridad de género electos popularmente por votación directa, quienes podrán reelegirse por un período adicional por el mismo cargo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Cuando se trate de presidentes municipales y los integrantes de la planilla electos como candidatos independientes, sólo podrán ser reelectos con esta misma calidad. Las personas que, por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen la función propia de sus cargos, cualquiera que sea la denominación que se les dé, podrán ser reelectas para el período inmediato siguiente.
+I. Cada Municipio será gobernado por un Ayuntamiento de elección popular directa. La competencia del gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
 
-En el caso de los funcionarios suplentes podrán ser electos para el período inmediato siguiente sin ser considerado como reelección, siempre que no hayan ejercido funciones u ostentado el carácter de propietarios en el Ayuntamiento respectivo. Para poder ser candidatos al mismo cargo, los integrantes de los ayuntamientos deberán separarse de su cargo noventa días antes de la elección solicitando licencia respectiva, pudiendo reincorporarse el día posterior de la elección;
+Los ayuntamientos se integrarán por un Presidente o Presidenta Municipal, una sindicatura y hasta quince regidurías, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. En ningún caso podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2026)</small>
+
+Las personas integrantes de los ayuntamientos no podrán ser electas para el periodo inmediato posterior al ejercicio de su mandato.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2026)</small>
+
+Las personas integrantes suplentes de los ayuntamientos podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes.
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 II.- Los Municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley.
 
@@ -2271,6 +2291,8 @@ Los municipios del Estado, previo el acuerdo entre sus ayuntamientos y con sujec
 
 La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
 
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 IV.- Los Municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso establezca a su favor y, en todo caso:
 
 a).- Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio del valor de los inmuebles.
@@ -2333,13 +2355,21 @@ i).- Celebrar convenios para la administración y custodia de las zonas federale
 
 En lo conducente y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios;
 
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 VI.- Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas, formen o tiendan a formar una continuidad demográfica, los Municipios intervendrán en la planeación de dichos centros, en forma conjunta y coordinada con la Federación, entidades federativas y demás municipios interesados, con apego a la ley federal de la materia;
 
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+
 VII.- El Estado estará facultado para celebrar convenios con los Municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a que se refiere el artículo 80 fracción XVII de esta Constitución;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 VIII.- Los Municipios estarán facultados para celebrar convenios con el Gobierno del Estado a efecto de que éste asuma la prestación de servicios públicos de su competencia.
 
 Asimismo podrán concesionar, con autorización del Congreso del Estado, de manera parcial o total, los servicios públicos a su cargo, a excepción de los de seguridad pública y tránsito, en los términos previstos en la Ley Orgánica del Municipio Libre;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 IX.- Cada Municipio deberá llevar y mantener actualizado el catastro de propiedad, industria, profesión o trabajo de sus habitantes, en los términos del artículo 36, fracción I, de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -4254,3 +4284,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para el proceso electoral local ordinario 2026-2027, los partidos políticos y coaliciones podrán postular y registrar libremente a personas de cualquier género, en observancia con los principios generales de paridad de género. A partir del proceso electoral 2032-2033, los partidos políticos y las coaliciones deberán observar la alternancia de género en sus postulaciones para la renovación del Poder Ejecutivo del Estado, debiendo postular a una persona del género distinto a la registrada en el proceso electoral local ordinario 2026-2027. Para el proceso electoral 2032-2033, los partidos políticos y las coaliciones solamente podrán postular a una persona del mismo género al registrado en el proceso inmediato anterior, cuando esta sea mujer.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0540.- QUE REFORMA LOS ARTÍCULOS 31, 32, 42, 48 Y 114; Y ADICIONA A LOS ARTÍCULOS 47, 57 Y 114 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Las reformas a los artículos 48 y 114 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, en materia de prohibición de reelección inmediata para diputaciones e integrantes de los ayuntamientos, serán aplicables para el proceso electoral constitucional local a celebrarse en 2030.
+
+Las personas que hayan resultado electas en el proceso electoral local 2024, conservarán el derecho de reelegirse en el proceso electoral a celebrarse en 2027, conforme a las disposiciones constitucionales y legales vigentes hasta antes de la entrada en vigor del presente Decreto.
+
+TERCERO. El Congreso del Estado deberá realizar las adecuaciones a la legislación secundaria en materia electoral que resulten necesarias para dar cumplimiento al presente Decreto, por lo menos noventa días antes de que inicie el proceso electoral en que vayan a aplicarse.
+
+CUARTO. Las reformas al párrafo tercero de la fracción XIII del artículo 47 y 114, de esta Constitución, respecto de la prohibición de nepotismo electoral de las personas candidatas a una diputación y ayuntamientos, será aplicable a partir del proceso electoral a celebrarse en 2030.
+
+QUINTO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
