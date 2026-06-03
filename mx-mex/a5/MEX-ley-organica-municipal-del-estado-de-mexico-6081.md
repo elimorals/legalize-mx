@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2026-05-20"
+last_updated: "2026-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JUNIO DE 2026.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -461,17 +461,17 @@ Los integrantes de los ayuntamientos de elección popular deberán cumplir con l
 
 Los Ayuntamientos se renovarán cada tres años, iniciarán su periodo el 1 de enero del año inmediato siguiente al de las elecciones municipales ordinarias y concluirán el 31 de diciembre del año de las elecciones para su renovación; y se integrarán por:
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-I. Un presidente, un síndico y cuatro regidores, electos por planilla según el principio de mayoría relativa, y tres regidores designados según el principio de representación proporcional, cuando se trate de municipios que tengan una población de menos 150 mil habitantes.
+I. Una presidencia, una sindicatura y cuatro regidurías, electas por planilla según el principio de mayoría relativa, y tres regidurías designadas según el principio de representación proporcional, cuando se trate de municipios que tengan una población de menos 150 mil habitantes.
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-II. Un presidente, un síndico y cinco regidores, electos por planilla según el principio de mayoría relativa, y cuatro regidores designados según el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de 150 mil habitantes y menos de 500 mil habitantes.
+II. Una presidencia, una sindicatura y cinco regidurías, electas por planilla según el principio de mayoría relativa, y cuatro regidurías designadas según el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de 150 mil habitantes y menos de 500 mil habitantes.
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-III. Un presidente, un síndico y siete regidores, electos por planilla según el principio de mayoría relativa; un síndico y cinco regidores designados según el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de 500 mil habitantes.
+III. Una presidencia, una sindicatura y siete regidurías, electas por planilla según el principio de mayoría relativa; y cinco regidurías designadas según el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de 500 mil habitantes.
 
 IV. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 
@@ -483,11 +483,11 @@ Dentro de los primeros cinco días hábiles del mes de diciembre de cada año, e
 
 Dicho informe se publicará en la página oficial, en la Gaceta Municipal y en los estrados de la Secretaría del ayuntamiento para su consulta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 18.
 
-Una vez rendidos los informes de los ayuntamientos en funciones, previa convocatoria a sesión solemne, deberán presentarse los ciudadanos que en términos de ley resultaron electos para rendir protesta y ocupar los cargos de presidente municipal, síndico o síndicos y regidores, sin que dicho plazo exceda el mes de diciembre del último año de la gestión del ayuntamiento saliente.
+Una vez rendidos los informes de los ayuntamientos en funciones, previa convocatoria a sesión solemne, deberán presentarse los ciudadanos que en términos de ley resultaron electos para rendir protesta y ocupar los cargos de presidente municipal, síndico y regidores, sin que dicho plazo exceda el mes de diciembre del último año de la gestión del ayuntamiento saliente.
 
 La reunión tendrá por objeto:
 
@@ -513,9 +513,9 @@ La inasistencia de los integrantes del ayuntamiento saliente no será obstáculo
 
 A continuación se procederá a la suscripción de las actas y demás documentos relativos a la entrega-recepción de la administración municipal, con la participación de los miembros de los ayuntamientos y los titulares de sus dependencias administrativas salientes y entrantes, designados al efecto; la cual se realizará siguiendo los lineamientos, términos, instructivos, formatos, cédulas y demás documentación que disponga el Órgano Superior de Fiscalización del Estado de México, para el caso, misma que tendrá en ese acto, la intervención que establezcan las leyes. La documentación que se señala anteriormente deberá ser conocida en la primera sesión de Cabildo por los integrantes del Ayuntamiento a los cuales se les entregará copia de la misma. El ayuntamiento saliente, a través del presidente municipal, presentará al ayuntamiento entrante, con una copia para la Legislatura, un documento que contenga sus observaciones, sugerencias y recomendaciones en relación a la administración y gobierno municipal.
 
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
-La inasistencia de alguno de los integrantes del ayuntamiento saliente o entrante, no será obstáculo para que se lleve a cabo el acto de entrega-recepción, para lo cual, el síndico o primer síndico saliente será responsable de entregar; y el síndico o primer síndico entrante, el responsable de recibir; en ausencia de éstos, cualquier servidor público que designe el titular de la Contraloría Municipal para el caso de la administración saliente y un representante de la administración que recibe designado por el Presidente Municipal entrante; sin otra responsabilidad administrativa relacionada con el acto.
+La inasistencia de alguna de las personas integrantes del ayuntamiento saliente o entrante, no será obstáculo para que se lleve a cabo el acto de entrega-recepción, para lo cual, la sindicatura saliente será responsable de entregar; y la sindicatura entrante, la responsable de recibir; en ausencia de éstos, cualquier servidor o servidora pública que designe el titular de la Contraloría Municipal para el caso de la administración saliente y un representante de la administración que recibe designado por la Presidencia Municipal entrante; sin otra responsabilidad administrativa relacionada con el acto.
 
 > <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2009)</small>
 
@@ -773,9 +773,9 @@ Si cumplido el plazo que corresponda no se hubiere aprobado el Presupuesto de Eg
 
 Los Ayuntamientos al aprobar su presupuesto de egresos, deberán señalar la remuneración de todo tipo que corresponda a un empleo, cargo o comisión de cualquier naturaleza, determinada conforme a principios de racionalidad, austeridad, disciplina financiera, equidad, legalidad, igualdad y transparencia, sujetándose a lo dispuesto por el Código Financiero y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, G.G. 6 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
-Las remuneraciones de todo tipo del Presidente Municipal, Síndicos, Regidores y servidores públicos en general, incluyendo mandos medios y superiores de la administración municipal, serán determinadas anualmente en el presupuesto de egresos correspondiente y se sujetarán a los lineamientos legales establecidos para todos los servidores públicos municipales.
+Las remuneraciones de todo tipo de la Presidencia Municipal, Sindicatura, Regidurías y personas servidoras públicas en general, incluyendo mandos medios y superiores de la administración municipal, serán determinadas anualmente en el presupuesto de egresos correspondiente y se sujetarán a los lineamientos legales establecidos para todos los servidores públicos municipales.
 
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2015)</small>
 
@@ -1089,7 +1089,9 @@ El Ayuntamiento deberá resolver las solicitudes de licencia que excedan de quin
 
 Las faltas temporales del presidente municipal, que no excedan de quince días, las cubrirá el secretario del ayuntamiento, como encargado del despacho; las que excedan de este plazo y hasta por 100 días serán cubiertas por un regidor del propio ayuntamiento que se designe por acuerdo del cabildo, a propuesta del presidente municipal, quien fungirá como presidente municipal por ministerio de ley.
 
-Las faltas temporales de los síndicos serán suplidas por el miembro del ayuntamiento que éste designe, cuando sólo haya un síndico; y cuando haya más de uno, la ausencia será cubierta por el que le siga en número.
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+Las faltas temporales de la persona síndica serán suplidas por la persona integrante del ayuntamiento que éste designe.
 
 > <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2008)</small>
 
@@ -1377,15 +1379,21 @@ IX. Nombrar, contratar o promover directamente o por interpósita persona como s
 
 X. Dejar de enterar en tiempo y forma las cuotas y/o aportaciones obligadas de los Servidores Públicos al Régimen de Seguridad Social.
 
-### CAPITULO SEGUNDO. De los Síndicos
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 3 DE JUNIO DE 2026)</small>
+
+### CAPITULO SEGUNDO. De la Sindicatura
+
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 52.
 
-Los síndicos municipales tendrán a su cargo la procuración y defensa de los derechos e intereses del municipio, en especial los de carácter patrimonial y la función de contraloría interna, la que, en su caso, ejercerán conjuntamente con el órgano de control y evaluación que al efecto establezcan los ayuntamientos.
+La sindicatura municipal tendrá a su cargo la procuración y defensa de los derechos e intereses del municipio, en especial los de carácter patrimonial y la función de contraloría interna, la que, en su caso, ejercerá conjuntamente con el órgano de control y evaluación que al efecto establezcan los ayuntamientos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 53.
 
-Los síndicos tendrán las siguientes atribuciones:
+La persona síndica municipal tendrá las siguientes atribuciones:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE OCTUBRE DE 2012)</small>
 
@@ -1455,13 +1463,13 @@ XVII. Firmar las Actas de Cabildo, y
 
 XVIII. Las demás que les señalen las disposiciones aplicables.
 
-En el caso de que sean dos los síndicos que se elijan, uno estará encargado de los ingresos de la hacienda municipal y el otro de los egresos. El primero tendrá las facultades y obligaciones consignadas en las fracciones I, IV, V, y XVI y el segundo, las contenidas en las fracciones II, III, VI, VII, VIII, IX, X y XII entendiéndose que se ejercerán indistintamente las demás.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 3 DE JUNIO DE 2026)</small>
 
 > <small>(DEROGADO TERCER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
-> <small>(REFORMADO, G.G. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
-Los síndicos y los presidentes municipales que asuman la representación jurídica del Ayuntamiento, no pueden desistirse, transigir, comprometerse en árbitros, ni hacer cesión de bienes muebles o inmuebles municipales, sin la autorización expresa del Ayuntamiento.
+La persona síndica y las presidencias municipales que asuman la representación jurídica del Ayuntamiento, no pueden desistirse, transigir, comprometerse en árbitros, ni hacer cesión de bienes muebles o inmuebles municipales, sin la autorización expresa del Ayuntamiento.
 
 ###### Artículo 54.
 
@@ -1679,7 +1687,9 @@ a). De gobernación, cuyo responsable será el presidente municipal;
 
 b). De planeación para el desarrollo, que estará a cargo del presidente municipal;
 
-c). De hacienda, que presidirá el síndico o el primer síndico, cuando haya mas de uno;
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+c). De hacienda, que presidirá el síndico;
 
 d). (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
@@ -2045,11 +2055,11 @@ Las dependencias y entidades de la administración pública municipal, tales com
 
 Los titulares de cada una de las dependencias y entidades de la administración pública municipal, acordarán directamente con el presidente municipal o con quien éste determine, y deberán cumplir los requisitos señalados en esta Ley; éstos servidores públicos preferentemente serán vecinos del municipio.
 
-> <small>(ADICIONADO, G.G. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 90 Bis.
 
-El Órgano Superior de Fiscalización del Estado de México brindará capacitación para el manejo de la cuenta pública municipal al Síndico o Síndicos según sea el caso, Tesorero, Secretario del Ayuntamiento y a los titulares de las dependencias respectivas, dentro de un plazo que no exceda los ciento veinte días posteriores a la instalación del Ayuntamiento. La capacitación impartida será de carácter obligatorio para los servidores públicos mencionados.
+El Órgano Superior de Fiscalización del Estado de México brindará capacitación para el manejo de la cuenta pública municipal a las personas Síndicas, Tesoreras y Secretarias del Ayuntamiento y a los titulares de las dependencias respectivas, dentro de un plazo que no exceda los ciento veinte días posteriores a la instalación del Ayuntamiento. La capacitación impartida será de carácter obligatorio para los servidores públicos mencionados
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE OCTUBRE DE 2014)</small>
 
@@ -2183,9 +2193,9 @@ XIX. Recaudar y administrar los ingresos que se deriven de la suscripción de co
 
 XX. Dar cumplimiento a las leyes, convenios de coordinación fiscal y demás que en materia hacendaria celebre el Ayuntamiento con el Estado;
 
-> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-XXI. Entregar oportunamente a él o los Síndicos, según sea el caso, el informe mensual que corresponda, a fin de que se revise, y de ser necesario, para que se formulen las observaciones respectivas.
+XXI. Entregar oportunamente a la Sindicatura el informe mensual que corresponda, a fin de que se revise, y de ser necesario, para que se formulen las observaciones respectivas.
 
 > <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2012)</small>
 
@@ -5868,3 +5878,19 @@ Los Ayuntamientos deberán habilitar en sus portales de internet oficiales un re
 ###### ARTÍCULO CUARTO.
 
 La Agencia Digital del Estado de México brindará el apoyo tecnológico necesario, con pleno respeto a la autonomía y libertad municipal, en el cumplimiento de este Decreto.
+
+G.G. 3 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 332.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 3 PÁRRAFO SEGUNDO, 23 PRIMER PÁRRAFO, 24 PÁRRAFO PRIMERO Y FRACCIÓN III, 27, 28, FRACCIONES II INCISOS A), B) Y C), IV, VI, VII Y VIII, 29, TERCER PÁRRAFO, 95 SEGUNDO PÁRRAFO, 182, SEGUNDO PÁRRAFO, 185 FRACCIONES VI Y VII, LAS FRACCIONES III Y V DEL ARTÍCULO 220, 235, 237, 251 FRACCIÓN I, 253 PÁRRAFOS PRIMERO, SEGUNDO, CUARTO, QUINTO Y SEXTO, 373, FRACCIÓN IX, 377, PRIMERO Y ÚLTIMO PÁRRAFO, 379 PRIMER PÁRRAFO, LA FRACCIÓN II DEL ARTÍCULO 380, 408 NUMERALES 3 Y 4 DEL INCISO C) DE LA FRACCIÓN III, 453 FRACCIÓN X, 572, SE ADICIONA LA FRACCIÓN XII QUATER AL ARTÍCULO 7, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 28, ASÍ COMO SE DEROGAN LOS ARTÍCULOS 18 Y 19 DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 16 FRACCIONES I, II Y III, 18, PÁRRAFO PRIMERO, 19, PÁRRAFO CUARTO, EL PÁRRAFO CUARTO DE LA FRACCIÓN XIX DEL ARTÍCULO 31, 41 PÁRRAFO SEGUNDO; LA DENOMINACIÓN DEL CAPÍTULO SEGUNDO DEL TÍTULO III, EL ARTÍCULO 52, 53, PÁRRAFOS PRIMERO Y ÚLTIMO, EL ARTÍCULO 69, INCISO C) DE LA FRACCIÓN I, 90 BIS, 95, FRACCIÓN XXI; SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 53 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. El Instituto Electoral del Estado de México deberá elaborar un diagnóstico técnico-operativo y presupuestal respecto de la concurrencia de procesos electorales constitucionales y judiciales, mismo que remitirá a la Legislatura para efectos de suficiencia presupuestaria y fortalecimiento institucional.
+
+QUINTO. El Instituto Electoral del Estado de México emitirá lineamientos y criterios técnicos para la verificación de los supuestos de inelegibilidad relacionados con nepotismo electoral previstos en el presente Decreto.
+
+SEXTO. Las disposiciones contenidas en el presente Decreto relativas a la prohibición de reelección consecutiva y el nepotismo electoral serán aplicables a partir del proceso electoral a celebrarse en 2030.
