@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-turismo-para-el-estado-de-chiapas-153263"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-31"
-last_updated: "2025-05-14"
+last_updated: "2026-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153263&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE TURISMO PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2026.
 
 Ley publicada en el Número 202 del Periódico Oficial del Estado de Chiapas, el viernes 31 de diciembre de 2021.
 
@@ -109,17 +109,25 @@ III. Atlas Turístico: Al Atlas Turístico del Estado de Chiapas.
 
 IV. Atractivos Turísticos: Al conjunto de elementos materiales e inmateriales que son susceptibles de ser transformados en un Producto Turístico, destinado a proporcionar a los Turistas y Visitantes servicios de alojamiento, alimentos y bebidas, transportación, recepción, comercialización, información y asistencia.
 
-V. CIET: A la Cédula de Identificación Estatal de Turismo.
+V. (DEROGADA, P.O. 3 DE JUNIO DE 2026)
 
-VI. Comité Estatal: Al Comité de Desarrollo Turístico del Estado de Chiapas “CODETECH”.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
 
-VII. Comités Municipales: A los Comités de Desarrollo Turístico conformados por los Municipios.
+VI. Consejo: Al Consejo Consultivo de Turismo del Estado de Chiapas
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+VII. Consejo Municipal: A los Consejos Municipales de Turismo
 
 VIII. Inventario Turístico Estatal: Al registro sistemático de carácter público que conforma el Patrimonio Turístico.
 
 IX. Ley: A la Ley de Turismo para el Estado de Chiapas.
 
 X. Ley General: A la Ley General de Turismo.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+X Bis. Marca Destino: Es el conjunto de elementos gráficos, verbales, simbólicos y narrativos que identifican, posicionan y comunican de manera estratégica la imagen turística del Estado de Chiapas a nivel nacional e internacional. La Marca Destino integra aspectos culturales, naturales, históricos y sociales, y busca fortalecer la identidad del destino, promover su competitividad turística y consolidar su presencia en los mercados mediante campañas, materiales promocionales y estrategias de comunicación.
 
 XI. Materia Turística: A los procesos que se derivan de las actividades que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual con fines de ocio, recreación y otros análogos.
 
@@ -131,11 +139,15 @@ XIV. Organismos Públicos: A las Dependencias y Entidades que conforman la Admin
 
 XV. Patrimonio Turístico: Al conjunto de bienes tangibles e intangibles, tales como recursos naturales o artificiales, culturales, gastronómicos, históricos, arqueológicos, de infraestructura turística y en general todos los sitios de interés que se encuentran constituidos en Atractivos Turísticos en el Estado de Chiapas, y el medio ambiente.
 
-XVI. Plataforma CIET: Al sistema digital de promoción y difusión destinado a impulsar las actividades realizadas por los Prestadores de Servicios Turísticos que cumplen con los requisitos establecidos en las leyes y reglamentos en Materia Turística.
+XVI. (DEROGADA, P.O. 3 DE JUNIO DE 2026)
 
 XVII. Prestador de Servicios Turísticos: A la persona física o moral que en forma permanente o eventual, ofrezca, proporcione, contrate o sirva de intermediario con el Turista o Visitante, la prestación de servicios en Materia Turística.
 
 XVIII. Producto Turístico: A los bienes y servicios que se ofrecen al mercado en forma individual o en combinaciones resultantes de las necesidades, requerimientos o deseos del Turista o Visitante, con independencia del medio empleado para tal fin.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+XVIII Bis. Región Económica: Son las delimitaciones territoriales integradas por Municipios con características geográficas, culturales, sociales y productivas comunes, que comparten una vocación turística especifica y que sirven como base para la planeación, articulación y ejecución de políticas públicas en materia de desarrollo turístico.
 
 XIX. Registro Nacional de Turismo: Al catálogo público de Prestadores de Servicios Turísticos en el País, establecido en la Ley General, el cual constituye el mecanismo a través del cual el Estado, podrá contar con información sobre los Prestadores de Servicios Turísticos a nivel nacional, con objeto de conocer mejor el mercado turístico y establecer comunicación con las empresas cuando se requiera.
 
@@ -205,19 +217,25 @@ VIII. Promover la defensoría de los derechos del Turista y Visitante.
 
 IX. Emitir las bases de conciliación para mediar los conflictos entre los Prestadores de Servicios Turísticos y los Turistas y Visitantes.
 
-X. Expedir y revocar la CIET.
+> <small>(DEROGADA [N. DE E. REFORMADA], P.O. 3 DE JUNIO DE 2026)</small>
+
+X. Promover mecanismos de protección, registro, fortalecimiento y difusión de la marca destino oficial del Estado, conforme a las disposiciones legales aplicables en materia de propiedad intelectual, comunicación institucional y promoción turística.
 
 XI. Ordenar y ejecutar las medidas de seguridad previstas en esta Ley y su Reglamento.
 
-XII. Promover y difundir a nivel nacional e internacional a los Prestadores de Servicios Turísticos registrados que ostenten la CIET.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+XII. Promover y difundir a nivel nacional e internacional a los Prestadores de Servicios Turísticos registrados que ostenten el Registro Nacional de Turismo.
 
 XIII. Difundir entre la población los derechos y obligaciones del Turista y Visitante.
 
-XIV. Crear y operar la Plataforma CIET de Prestadores de Servicios Turísticos.
+XIV. (DEROGADA, P.O. 3 DE JUNIO DE 2026)
 
 XV. Expedir constancias y reconocimientos en Materia Turística a los Prestadores de Servicios Turísticos.
 
-XVI. Instalar y presidir el Comité Estatal.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+XVI. Instalar y presidir el Consejo
 
 XVII. Brindar orientación, asistencia jurídica y resolución a las quejas presentadas por los Turistas y Visitantes.
 
@@ -233,7 +251,7 @@ XXII. Ordenar la clausura de los establecimientos que no cumplan con las disposi
 
 XXIII. Emitir los dictámenes favorables relativos a las propuestas remitidas a la Secretaría de Turismo Federal, para la creación de zonas de desarrollo turístico estatal sustentable, conforme al marco jurídico y reglamentación en la materia.
 
-XXIV. Determinar los requisitos para la expedición de la CIET.
+XXIV. (DEROGADA, P.O. 3 DE JUNIO DE 2026)
 
 XXV. Impulsar la creación de instrumentos de inversión pública, privada y social para la implementación de las campañas de promoción, difusión, capacitación, certificación, profesionalización, competitividad, modernización y mejoramiento en Materia Turística.
 
@@ -263,7 +281,21 @@ XXXVII. Determinar los lineamientos para la integración, actualización y opera
 
 XXXVIII. Celebrar convenios de colaboración con los Ayuntamientos, para la verificación de la prestación de los Servicios Turísticos, relativos a la regulación del Acto Turístico.
 
-XXXIX. Las demás que establezcan las disposiciones jurídicas o administrativas, federales o estatales, en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2026)</small>
+
+XXXIX. Elaborar un diagnóstico de infraestructura, equipamiento y señalización turística, dentro del primer año de gobierno de una administración, bajo una matriz de variables propuesta por la Secretaría y los consejos municipales que deberá ser aprobada por el consejo consultivo, debiendo repetir este ejercicio durante el tercer año y al término de una administración.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+XL. Coordinar el desarrollo, uso y difusión de la marca destino del Estado, como herramienta estratégica de promoción turística que integre los valores culturales, naturales e históricos de la entidad, en colaboración con el Consejo Consultivo.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+XLI. La delimitación de las regiones selva, soconusco, costa, altos, meseta comiteca, centro, así como su actualización y caracterización de las regiones económicas turísticas, conforme a los criterios técnicos, sociales y económicos con base en los instrumentos de planeación del desarrollo turístico estatal.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2026)</small>
+
+XLII. Las demás que establezcan las disposiciones jurídicas o administrativas, federales o estatales, en la materia.
 
 ###### Artículo 9.
 
@@ -271,7 +303,9 @@ Corresponden a los Ayuntamientos las siguientes atribuciones y obligaciones en M
 
 I. Coadyuvar con la Secretaría en el impulso al Turismo en el Estado de Chiapas.
 
-II. Instalar el Comité Municipal.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+II. Instalar el Consejo Municipal.
 
 III. Celebrar convenios en Materia Turística, conforme a lo previsto en esta Ley y su Reglamento.
 
@@ -329,7 +363,7 @@ XXIX. Regular, vigilar y sancionar la práctica de la Actividad Turística que s
 
 XXX. Informar a los Prestadores de Servicios Turísticos sobre las obligaciones contenidas en la presente Ley.
 
-XXXI. Requerir a los Prestadores de Servicios Turísticos pertenecientes a su suscripción territorial, la exhibición de la CIET como requisito para la expedición de la licencia de funcionamiento municipal.
+XXXI. (DEROGADA, P.O. 3 DE JUNIO DE 2026)
 
 XXXII. Las demás que les confieren esta Ley, su Reglamento y demás disposiciones jurídicas o administrativas en la materia.
 
@@ -345,7 +379,9 @@ I. Contar con la actualización y capacitación permanentemente en Materia Turí
 
 II. Fomentar la mejora de la gestión pública del Turismo a través del manejo oportuno, expedito y eficiente de datos estadísticos e información que registren la evolución del sector.
 
-III. Rendir anualmente un informe de actividades ante el Comité Estatal, con el objeto de evaluar el cumplimiento de los objetivos, metas y estrategias del programa municipal de Turismo, así como de acciones consideradas de relevancia turística.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+III. Rendir anualmente un informe de actividades ante el Consejo, con el objeto de evaluar el cumplimiento de los objetivos, metas y estrategias del programa municipal de Turismo, así como de acciones consideradas de relevancia turística.
 
 ## Título Segundo. De las Partes en Materia Turística
 
@@ -369,7 +405,7 @@ IV. Formular las denuncias o quejas, relacionadas con la prestación de Servicio
 
 V. Obtener de manera previa, veraz, completa y objetiva, la información sobre los servicios que contrata.
 
-VI. Calificar la prestación de los Servicios Turísticos contratados, dentro de la Plataforma CIET.
+VI. (DEROGADA, P.O. 3 DE JUNIO DE 2026)
 
 VII. Solicitar y recibir el reembolso, bonificación o compensación por la suma correspondiente al incumplimiento del servicio contratado por parte del Prestador de Servicios Turísticos, o bien, solicitar otro servicio de la misma calidad o equivalente a su elección.
 
@@ -383,7 +419,7 @@ I. Efectuar el pago de los servicios contratados en los términos convenidos.
 
 II. Respetar los bienes pertenecientes al Patrimonio Turístico en los que realice Actividades Turísticas.
 
-III. Consultar la Oferta Turística publicada por la Secretaría, en la Plataforma CIET.
+III. (DEROGADA, P.O. 3 DE JUNIO DE 2026)
 
 IV. Consultar las páginas electrónicas y sitios de internet que impulsa la Secretaría, para conocer las características del destino.
 
@@ -407,7 +443,9 @@ A. Derechos.
 
 I. Ser considerados en los distintos catálogos, directorios, guías y programas que elabore la Secretaría, conforme a las políticas de promoción y difusión turística.
 
-II. Recibir los beneficios que esta Ley otorga, derivados del registro y otorgamiento de la CIET.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+II. Recibir los beneficios que esta Ley otorga, derivados del registro y otorgamiento del Registro Nacional de Turismo.
 
 III. Obtener una calificación sobre los servicios e infraestructura que oferta, con base de la normatividad aplicable.
 
@@ -421,9 +459,13 @@ VII. Recibir trato digno y decoroso en el desempeño de su labor.
 
 VIII. Requerir al Turista o Visitante su identificación plena, previo a la prestación de sus servicios.
 
-IX. Ser debidamente representado en las sesiones del Comité Estatal.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
 
-X. Ser informado de los acuerdos concertados en sesiones del Comité Estatal.
+IX. Ser debidamente representado en las sesiones del Consejo.
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+X. Ser informado de los acuerdos concertados en sesiones del Consejo.
 
 XI. Gozar de las garantías del debido proceso en Materia Turística.
 
@@ -459,7 +501,7 @@ VII. Capacitar y profesionalizar de manera continua al personal a su cargo.
 
 VIII. Obtener el Registro Nacional de Turismo.
 
-IX. Solicitar y obtener la CIET.
+IX. (DEROGADA, P.O. 3 DE JUNIO DE 2026)
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
 
@@ -471,7 +513,9 @@ XII. Facilitar el acceso a sus instalaciones y brindar información al personal 
 
 XIII. Anunciar de manera accesible y visible sus precios, tarifas y servicios ofertados.
 
-XIV. Exhibir en lugar visible la CIET.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+XIV. Exhibir en lugar visible del Registro Nacional de Turismo.
 
 XV. Ser responsable en el uso y cuidado del Patrimonio Turístico.
 
@@ -493,25 +537,147 @@ XX. Las demás que establezcan los ordenamientos legales y administrativos aplic
 
 En caso de que el Prestador de Servicios Turísticos incumpla parcial o totalmente con los servicios ofertados o pactados, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente por el pago del servicio incumplido, o bien podrá prestar otro servicio de las mismas características o equivalencia al que hubiere incumplido, a elección del Turista.
 
-### Capítulo III. Del Comité de Desarrollo Turístico del Estado de Chiapas “CODETECH”
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2026)</small>
+
+### Capítulo III. Del Consejo Consultivo de Turismo
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 15.
 
-El Comité Estatal, es el órgano técnico de consulta en Materia Turística, con funciones de vinculación entre los Prestadores de Servicios Turísticos y las instancias de Gobierno involucradas en la Materia Turística; será el encargado de asesorar, gestionar y apoyar en los proyectos de Inversión Pública Estatal, vigilando su congruencia con la necesidad del entorno en el que se desarrolla la Materia Turística.
+El Consejo es el órgano técnico de consulta en materia turística del Estado, con funciones de vinculación entre los Prestadores de Servicios Turísticos y las instancias de Gobierno involucradas en la Materia Turística; será el encargado de asesorar, gestionar y apoyar en los proyectos de Inversión Pública Estatal, vigilando su congruencia con la necesidad del entorno en el que se desarrolla la Materia Turística.
+
+Será responsable de emitir opiniones, formular recomendaciones y promover proyectos que impulsen la inversión pública y privada en infraestructura, equipamiento y señalización turística, procurando siempre su congruencia con las necesidades regionales, la sostenibilidad del entorno y el desarrollo integral de los destinos turísticos.
+
+El Consejo deberá ser instalado dentro de los primeros noventa días naturales contados a partir del inicio de cada administración estatal, a fin de garantizar su operatividad temprana y la continuidad de la política turística desde el inicio del gobierno.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 16.
 
-El Comité Estatal tendrá por objeto propiciar la concurrencia activa, comprometida y responsable de los sectores público, privado y social con incidencia directa o indirecta en las Actividades Turísticas, así como conocer, atender y resolver los asuntos de naturaleza turística relacionados con la competencia de dos o más Organismos Públicos.
+El Consejo tendrá por objeto propiciar la concurrencia activa, comprometida y responsable de los sectores público, privado y social con incidencia directa o indirecta en las Actividades Turísticas, así como conocer, atender y resolver los asuntos de naturaleza turística relacionados con la competencia de dos o más Organismos Públicos.
 
-El Comité Estatal estará presidido por el Titular del Poder Ejecutivo del Estado y estará integrado por los servidores públicos que el mismo determine, así como por Presidentes Municipales y representantes de los Prestadores de Servicios Turísticos, quienes participarán de forma honorífica; las disposiciones reglamentarias establecerán la composición, organización, atribuciones y procedimientos con los que funcionará el Comité Estatal.
+El Consejo contará con la siguiente estructura de integrantes, quienes tendrán derecho a voz y voto; asimismo, en el caso de los vocales del sector privado, deberán estar legalmente constituidos conforme a la normatividad aplicable y presentar un plan de trabajo del organismo al que representan enfocándose al sector turístico:
+
+I. Un presidente, que será la persona Titular del Poder Ejecutivo del Estado, quien podrá ser representado y delegar sus funciones en el titular de la Secretaría.
+
+II. Los Vocales del sector público, que son los titulares de:
+
+a) La Secretaría General de Gobierno y Mediación;
+
+b) La Secretaría de Protección Civil;
+
+c) La Secretaría de Medio Ambiente e Historia Natural;
+
+d) La Secretaría de Economía y del Trabajo;
+
+e) La Secretaría de Turismo;
+
+f) La Secretaría de Salud;
+
+g) La Secretaría de Seguridad del Pueblo;
+
+h) La Secretaría de Infraestructura;
+
+i) La Secretaría de Finanzas;
+
+j) La Secretaría del Campo;
+
+k) La Secretaría de Movilidad y Transporte;
+
+l) La Secretaría de los Pueblos Indígenas y Afromexicanos;
+
+m) La Fiscalía General del Estado;
+
+n) La presidencia de la Comisión de Turismo del H. Congreso del Estado;
+
+ñ) Del Consejo Estatal para las Culturas y las Artes de Chiapas;
+
+o) Del Instituto Casa de las Artesanías de Chiapas;
+
+p) De la Oficina de Convenciones y Visitantes del Estado de Chiapas;
+
+q) La Sociedad Operadora del Aeropuerto Internacional “Ángel Albino Corzo”;
+
+r) Un representante de las universidades públicas estatales vinculadas con la Materia de Turismo;
+
+s) Un representante por cada Consejo Municipal, de los Ayuntamientos con injerencia en los asuntos a tratar del orden del día;
+
+t) Un representante de cada Consejo Regional.
+
+III. Los Vocales del sector privado que será presidido por un representante:
+
+a) Del Sector privado y social que cuente con reconocida trayectoria, experiencia y compromiso en el ámbito turístico con inversión en las regiones económicas del Estado; mismo que fungirá como coordinador de los integrantes de las vocalías de este sector;
+
+b) De la Asociación de Hoteles y Moteles de cada región económica del Estado;
+
+c) Del Colegio de Guías de Turismo del Estado;
+
+d) De la Asociación Mexicana de Agencias de Viajes;
+
+e) De la Asociación Mexicana de Tour Operadores;
+
+f) De la Asociación Mexicana de Turismo de Aventura y Ecoturismo;
+
+g) De la Asociación de Empresas de Turismo de Reuniones;
+
+h) De la Cámara Nacional de la Industria de Restaurantes y Alimentos Condimentados de Chiapas;
+
+i) De la Cámara Nacional de Comercio, Servicios y Turismo de cada región económica del Estado;
+
+j) De la Cámara Nacional de la Construcción;
+
+k) De la Confederación Patronal de la República Mexicana Tuxtla;
+
+l) De la Confederación Patronal de la República Mexicana Costa;
+
+m) Del Consejo Regulador Marca Chiapas;
+
+n) Del Consejo Coordinador Empresarial de Chiapas, A.C.;
+
+ñ) Del Fomento Económico de Chiapas;
+
+o) De cada región económica del Estado, a fin de garantizar la participación de todas las regiones;
+
+En las reuniones del Consejo podrán asistir como Invitados especiales con derecho a voz, los representantes de las instituciones siguientes:
+
+a) Del Instituto Nacional de Migración;
+
+b) De la Guardia Nacional;
+
+c) De la empresa del Tren Maya S.A de C.V;
+
+d) De la Administraciones del Sistema Portuario Nacional de Puerto Chiapas;
+
+e) De la Procuraduría Federal del Consumidor;
+
+f) De la Comisión Nacional de Áreas Naturales Protegidas;
+
+g) Del Instituto Nacional de Antropología e Historia.
+
+El Consejo Consultivo celebrará dos sesiones ordinarias al año, conforme al calendario que apruebe la Presidencia del Consejo.
+
+Podrán celebrarse sesiones extraordinarias cuando así lo solicite cualquier integrante del Consejo, siempre que la petición esté respaldada por al menos una tercera parte de sus integrantes con derecho a voto, mediante escrito dirigido a la Presidencia en el que se funde y motive la necesidad de la convocatoria.
+
+Para la existencia del quórum legal y poder llevar a cabo las sesiones ordinarias del Consejo, se requerirá la presencia de la mitad más uno de sus integrantes, y para las sesiones extraordinarias bastará con la presencia de una tercera parte.
+
+Las resoluciones del Consejo, se tomarán por mayoría de votos de los presentes, teniendo la persona titular de la Presidencia el voto de calidad en caso de empate.
+
+Por cada persona integrante del Consejo del sector público, habrá una persona suplente, debiendo tener un nivel jerárquico de Subsecretaría o su equivalente, quien será designada mediante oficio emitido por su titular y contará con las mismas facultades que aquella.
+
+Todos los integrantes del Consejo tienen el carácter de honoríficos y por tano no recibirán emolumento o contraprestación alguna por su participación.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 17.
 
-Para el cumplimiento de su objeto, el Comité Estatal establecerá un plan de trabajo, el cual deberá ser acorde con la Ley General, la Ley, los Planes Nacional y Estatal de Desarrollo, así como las demás disposiciones aplicables.
+Para el cumplimiento de su objeto, el Consejo establecerá un plan de trabajo, el cual deberá ser acorde con la Ley General, la Ley, los Planes Nacional y Estatal de Desarrollo, así como las demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 18.
 
-El Comité Estatal tendrá las atribuciones siguientes:
+El Consejo tendrá las Atribuciones siguientes:
 
 I. Fungir como ente de consulta permanente de la Secretaría y los Municipios en Materia Turística.
 
@@ -527,7 +693,9 @@ VI. Formular recomendaciones a los Prestadores de Servicios Turísticos que infr
 
 VII. Proponer medidas para garantizar el pleno cumplimiento de los derechos de los Turistas.
 
-VIII. Promover la inscripción de los Prestadores de Servicios Turísticos en el Registro Nacional de Turismo y en la Plataforma CIET.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+VIII. Promover la inscripción de los Prestadores de Servicios Turísticos en el Registro Nacional de Turismo.
 
 IX. Sesionar, deliberar y emitir acuerdos para el cumplimiento del objeto de la Ley.
 
@@ -549,43 +717,93 @@ XVII. Proponer a la Secretaría y a los Municipios, acciones que mejoren la difu
 
 XVIII. Identificar y proponer a la Secretaría y a los Municipios la adopción de buenas prácticas que incentiven la competitividad y calidad de los Servicios Turísticos.
 
-XIX. Generar mecanismos de comunicación y difusión de las actividades y objetivos del Comité Estatal, con la finalidad de establecer y ampliar vínculos con organismos similares a nivel municipal, nacional e internacional.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
 
-XX. Las demás que le sean encomendadas expresamente por el Titular del Ejecutivo Estatal, el Reglamento y las demás Leyes aplicables en la materia.
+XIX. Generar mecanismos de comunicación y difusión de las actividades y objetivos del Consejo, con la finalidad de establecer y ampliar vínculos con organismos similares a nivel municipal, nacional e internacional.
 
-### Capítulo IV. De los Comités Municipales
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2026)</small>
+
+XX. Definir los requerimientos para el diagnóstico de infraestructura, equipamiento y señalización turística, así como las aprobaciones de los dos diagnósticos que la administración estatal realice.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+XXI. Revisar el informe anual de indicadores del sector turístico que presente la Secretaría, para evaluar avances, retrocesos o tendencias. Durante el último trimestre del año, deberá presentarse además un Informe de Proyectos de Inversión correspondiente al año inmediato próximo.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+XXII. Crear coordinaciones temporales o permanentes que deberán dar seguimiento a los avances del Plan Estatal en el tema de turismo, de manera trimestral. Dichas coordinaciones pueden ser gastronomía, deporte, naturaleza, cultura, bienestar, reuniones, romance, cruceros, fideicomisos y cualquier otra coordinación especializada que el propio Consejo determine pertinente, en función de la evolución del sector y las prioridades del Plan Estatal de Turismo.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+XXIII. Analizar y, en su caso, aprobar por mayoría calificada de sus integrantes con derecho a voto, cualquier propuesta de modificación al concepto gráfico, nombre, eslogan o narrativa de la Marca Destino del Estado de Chiapas, la cual deberá estar fundamentada en un diagnóstico técnico de posicionamiento, un estudio de impacto económico, cultural y de percepción social;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+XXIV. Garantizar que las decisiones del Consejo que involucren proyectos turísticos en territorios de pueblos y comunidades indígenas y afromexicanas respeten el principio de consentimiento libre, previo e informado, de conformidad con los instrumentos nacionales e internacionales de derechos humanos aplicables.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+XXV. Emitir comunicados de prevención turística cuando existan riesgos que puedan afectar la imagen del destino, tales como daños ambientales, conflictos sociales o comunitarios vinculados a la actividad turística, en coordinación con las autoridades competentes y con base en información técnica validada.
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+XXVI. Proponer la modificación de la Marca Destino oficial del Estado, incluyendo su denominación, identidad conceptual, narrativa estratégica o sustitución integral, por lo que deberá contar previamente con la aprobación de cuando menos las dos terceras partes de sus integrantes.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE JUNIO DE 2026)</small>
+
+XXVII. Las demás que le sean encomendadas expresamente por la persona Titular del Ejecutivo Estatal, el Reglamento y las demás Leyes aplicables en la materia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2026)</small>
+
+### Capítulo IV. De los Consejos Municipales de Turismo
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 19.
 
-Los Ayuntamientos, para fortalecer al Comité Estatal, deberán conformar Comités Municipales, con el objeto de coordinar, proponer y formular las estrategias y acciones de la Administración Pública Municipal, con el fin de lograr un desarrollo integral de la Actividad Turística en su demarcación territorial.
+Los Ayuntamientos, deberán conformar Consejos Municipales, con el objeto de coordinar, proponer y formular las estrategias y acciones de la Administración Pública Municipal, con el fin de lograr un desarrollo integral de la Actividad Turística en su demarcación territorial; así como fortalecer el Consejo.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 20.
 
-Los Ayuntamientos deberán instalar los Comités Municipales al inicio de su administración.
+Los Ayuntamientos deberán instalar los Consejos Municipales noventa días hábiles contados a partir del inicio de su administración.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 21.
 
-El Comité Municipal estará presidido por el Presidente Municipal y por representantes de asociaciones u organizaciones pertenecientes al Sector Turístico, conforme a lo establecido en las disposiciones reglamentarias.
+El Consejo Municipal estará presidido por el Presidente Municipal y por representantes de asociaciones u organizaciones pertenecientes al Sector Turístico Municipal, conforme a lo establecido en las disposiciones reglamentarias.
 
-Los Presidentes Municipales podrán nombrar como representantes, a los funcionarios relacionados con el Sector Turístico en su demarcación territorial.
+Los Presidentes Municipales podrán nombrar representantes a los funcionarios relacionados con el Sector Turístico en su demarcación territorial.
 
 Los representantes de asociaciones u organizaciones deberán acreditar su legal constitución.
 
-El Comité Municipal podrá invitar a Instituciones y Entidades públicas, privadas y sociales y demás personas relacionadas con el Turismo en el Municipio, las cuales únicamente contarán con derecho a voz.
+El Consejo Municipal podrá invitar a instituciones y entidades públicas, privadas y sociales y demás personas relacionadas con el Turismo en el Municipio, las cuales únicamente contarán con derecho a voz.
+
+Los Consejos Municipales, en coordinación con los cabildos y/o consejos municipales correspondientes, podrán proponer la identificación de zonas con potencial turístico dentro de su territorio, considerando criterios de identidad cultural, vocación productiva, biodiversidad y atractivo natural o patrimonial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 22.
 
-El Comité Municipal tendrá las atribuciones siguientes:
+El Consejo Municipal tendrá las atribuciones siguientes:
 
 I. Concertar entre los miembros representativos del Sector Turístico, las políticas, planes, programas y proyectos turísticos del Municipio.
 
-II. Servir como órgano de consulta, asesoría y apoyo técnico a la Secretaría y al Comité Estatal.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+II. Servir como órgano de consulta, asesoría y apoyo técnico a la Secretaría y al Consejo.
 
 III. Colaborar en la actualización del Inventario Turístico Estatal, mediante la sugerencia de bienes, recursos naturales, culturales, y sitios de interés de sus demarcaciones territoriales que consideren deban ser incluidos.
 
-IV. Dar a conocer a la Secretaría y al Comité Estatal, el anteproyecto del Programa Municipal de Turismo, con la finalidad de coadyuvar con las estrategias para impulsar de manera integral el desarrollo del Turismo del Estado.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
 
-V. Promover la inscripción de los Prestadores de Servicios Turísticos de su demarcación territorial en el Registro Nacional de Turismo y en la Plataforma CIET.
+IV. Dar a conocer a la Secretaría y al Consejo, el anteproyecto del Programa Municipal de Turismo, con la finalidad de coadyuvar con las estrategias para impulsar de manera integral el desarrollo del Turismo del Estado.
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2026)</small>
+
+V. Promover la inscripción de los Prestadores de Servicios Turísticos de su demarcación territorial en el Registro Nacional de Turismo.
 
 VI. Apoyar en la operatividad de todas las acciones de la Secretaría en sus respectivas demarcaciones territoriales.
 
@@ -599,13 +817,17 @@ X. Evaluar el informe que rinda el titular del área responsable sobre el desarr
 
 XI. Las demás que establezcan esta Ley, su Reglamento y las disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
+
 ###### Artículo 23.
 
-Los Comités Municipales, podrán constituir las comisiones y comités técnicos que se requieran para el cumplimiento de sus objetivos.
+Los Consejos Municipales, podrán constituir las comisiones y comités técnicos que se requieran para el cumplimiento de sus objetivos.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 24.
 
-Los Comités Municipales, para su funcionamiento y organización interna, se regirán por lo dispuesto en la presente Ley y el Reglamento.
+Los Consejos Municipales para su funcionamiento y organización interna, se regirán por lo dispuesto en la presente Ley y el Reglamento.
 
 ### Capítulo V. De la Información, Orientación y Auxilio al Turista
 
@@ -663,9 +885,11 @@ Los titulares de cada una de las Unidades de Vinculación, brindarán atención 
 
 ### Capítulo VII. De las Rutas Turísticas
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
+
 ###### Artículo 34.
 
-La Secretaría deberá constituir y apoyar el desarrollo de Rutas Turísticas; para tales efectos, se deberán realizar estudios que determinen la viabilidad de una ruta, tomando en consideración las sugerencias de los Ayuntamientos, Dependencias Estatales, Federales, organizaciones de la sociedad civil, las propuestas que genere el Comité Estatal, así como a los Prestadores de Servicios Turísticos.
+La Secretaría deberá constituir y apoyar el desarrollo de Rutas Turísticas; para tales efectos, se deberán realizar estudios que determinen la viabilidad de una ruta, tomando en consideración las sugerencias de los Ayuntamientos, Dependencias Estatales, Federales, organizaciones de la sociedad civil, las propuestas que genere el Consejo, así como a los Prestadores de Servicios Turísticos.
 
 ###### Artículo 35.
 
@@ -697,11 +921,11 @@ El Turismo Social se integra por un conjunto de acciones e instrumentos que ejec
 
 La Secretaría fomentará el Turismo Social mediante el diseño y promoción de programas que incentiven el deseo de conocer y realizar Actividades Turísticas, otorgando facilidades que hagan accesibles los Servicios Turísticos, bajo los principios de economía, seguridad y calidad.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
+
 ###### Artículo 40.
 
-La Secretaría podrá celebrar acuerdos con Prestadores de Servicios Turísticos que cuenten con la CIET, para lograr una oferta atractiva y accesible de paquetes, planes y Rutas Turísticas a precios y condiciones asequibles que fortalezcan el desarrollo del Turismo Social.
-
-Asimismo, determinará las acciones de coordinación con los sectores público, privado y social para su participación en programas de Turismo Social que beneficien la Actividad Turística de la Entidad en temporadas y condiciones estratégicas; propiciando a través de las Dependencias gubernamentales las condiciones para que su personal goce de facilidades para la explotación y disfrute de la Materia Turística.
+La Secretaría podrá celebrar acuerdos con Prestadores de Servicios Turísticos que cuenten con el Registro Nacional de Turismo, para lograr una oferta atractiva y accesible de paquetes, planes y Rutas Turísticas a precios y condiciones asequibles que fortalezcan el desarrollo del Turismo Social.
 
 ### Capítulo III. Del Turismo Sustentable
 
@@ -873,9 +1097,11 @@ X. Promover la creación de patronatos o asociaciones encargadas de la organizac
 
 XI. Los demás que la normatividad aplicable, políticas públicas o programas en la materia establezcan, y aquellos que la Secretaría estime pertinentes.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
+
 ###### Artículo 70.
 
-La Secretaría en coordinación con el Comité Estatal, fomentarán la integración regional de los sectores productivos a través del Turismo como eje rector, con el objetivo de generar cadenas de valor, impulsando el desarrollo de actividades complementarias y de proveeduría que permitan una interacción eficiente entre la Actividad Turística y los mercados locales.
+La Secretaría en coordinación con el Consejo, fomentarán la integración regional de los sectores productivos a través del Turismo como eje rector, con el objetivo de generar cadenas de valor, impulsando el desarrollo de actividades complementarias y de proveeduría que permitan una interacción eficiente entre la Actividad Turística y los mercados locales.
 
 ###### Artículo 71.
 
@@ -961,91 +1187,157 @@ III. Proveer entre los Prestadores de Servicios Turísticos, los elementos bási
 
 IV. Promover la capacitación, certificación y profesionalización especializada y actualizada, en los diferentes rubros de prestación de Servicios y Segmentos Turísticos tales como: hotelería, alimentos y bebidas, agencias de viajes, transportadoras turísticas, guías de Turistas, entre otros.
 
-### Capítulo IV. De la CIET
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 3 DE JUNIO DE 2026)</small>
+
+### Capítulo IV. De la Marca Destino del Estado
+
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 83.
 
-Corresponde a la Secretaría operar el registro y otorgamiento de la CIET, en los términos de lo dispuesto en la presente Ley y su Reglamento.
+La Marca Destino constituye un activo estratégico de interés público turístico, orientado al fortalecimiento de la identidad, promoción, competitividad, posicionamiento y continuidad de la política turística estatal.
+
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 84.
 
-La CIET es el documento público y gratuito mediante el cual la Secretaría emite la validación para el desarrollo de actividades inherentes a la Materia Turística, otorgando certeza a los Turistas y Visitantes para la contratación de Servicios Turísticos legales y de calidad; la CIET será difundida mediante los canales publicitarios y plataformas digitales oficiales destinadas al Sector Turístico.
+La persona Titular del Poder Ejecutivo del Estado, previa propuesta del Consejo, deberá establecer la marca destino oficial del Estado de Chiapas con sus elementos gráficos, narrativos, audiovisuales, distintivos y lineamientos institucionales asociados.
+
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 85.
 
-Para obtener la CIET, los Prestadores de Servicios Turísticos, deberán presentar a la Secretaría una solicitud por escrito, misma que deberá contener lo siguiente:
+La Secretaría será la responsable de coordinar la implementación, promoción, protección y aprovechamiento institucional de la Marca Destino.
 
-I. Identificación oficial, en caso de ser persona física; en caso de personas morales, el instrumento notarial constitutivo, con denominación o razón social.
-
-II. Especificación del o los servicios que pretenda operar y nombre comercial del mismo.
-
-III. Comprobante de domicilio del local en el que se pretenda instalar el establecimiento o se encuentra establecido.
-
-IV. Título de propiedad o instrumento jurídico que acredite la legal posesión del inmueble.
-
-V. Registro Federal de Contribuyentes.
-
-VI. Factibilidad de uso de suelo comercial, expedido por la autoridad competente.
-
-VII. Constancia de no adeudos fiscales.
-
-VIII. Cumplir con los requisitos de seguridad y protección civil establecidos en la normatividad en la materia, para el desarrollo de este tipo de servicios.
-
-IX. Designación por parte del Prestador de Servicios Turísticos, de un representante con facultades de solución de conflictos, para la atención de medios conciliatorios previstos en esta Ley y su Reglamento.
-
-X. Los demás requisitos que establezca el Reglamento de la presente Ley.
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 86.
 
-La tramitación de la CIET tendrá carácter obligatorio y deberá realizarse en un período máximo de sesenta días hábiles contados a partir del inicio de operaciones del establecimiento. La CIET contendrá los siguientes datos:
+La Marca Destino deberá observar principios de:
 
-I. Nombre, denominación o razón social de la persona física o moral que presta los Servicios Turísticos.
+I. Continuidad institucional;
 
-II. Domicilio en que se prestarán los Servicios Turísticos.
+II. Planeación estratégica de largo plazo;
 
-III. Fecha de inicio de operaciones o apertura del establecimiento.
+III. Identidad cultural y territorial;
 
-IV. Tipo de Servicios Turísticos que se prestan o prestarán, y su categoría conforme las normas aplicables.
+IV. Competitividad turística;
 
-V. Folio de Cédula.
+V. Participación sectorial;
 
-VI. Código QR.
+VI. Cohesión promocional; y
+
+VII. Protección del posicionamiento turístico estatal.
+
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 87.
 
-La CIET deberá ser actualizada cuando los Prestadores de Servicios Turísticos cambien su domicilio o su razón social, o cuando acontezca su robo o extravío.
+El Consejo deberá emitir opinión técnica y estratégica a la persona titular del Poder Ejecutivo respecto a:
 
-### Capítulo V. De la Plataforma CIET
+I. La continuidad de la marca destino;
+
+II. Su posicionamiento;
+
+III. Su evolución gráfica o narrativa;
+
+IV. Su alineación con la estrategia turística estatal; y
+
+V. Las acciones necesarias para fortalecer su permanencia y reconocimiento.
+
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 3 DE JUNIO DE 2026)</small>
+
+### Capítulo V. De los Consejos Regionales de Turismo y Centros de Distribución Turística
+
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 88.
 
-La Secretaría como instancia obligada a garantizar el óptimo desarrollo de la Actividad Turística contará con una Plataforma CIET, en la que estarán inscritos los Prestadores de Servicios Turísticos que cuenten con dicha cédula y cumplan con las disposiciones de Ley.
+Para efectos de la presente Ley, el desarrollo turístico del Estado se organizará bajo principios de regionalización, coordinación intermunicipal, sostenibilidad, competitividad y participación social.
+
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 89.
 
-La Secretaría, para ofertar y promocionar el Turismo en el Estado, contará con un sistema digital, en el que se pondere a los Prestadores de Servicios Turísticos que se encuentren debidamente constituidos y establecidos en estricto apego a la Ley, garantizando a los Turistas y Visitantes, servicios confiables, seguros y de calidad.
+Los Consejos Regionales fungirán como órganos honoríficos de consulta, participación, coordinación y vinculación entre los sectores público, privado, académico, social y comunitario, orientados al fortalecimiento del desarrollo turístico regional del Estado; mismos que tendrán las atribuciones siguientes:
+
+I. Participar en la elaboración de estrategias regionales de desarrollo turístico;
+
+II. Participar con derecho a voz y voto en las sesiones que convoque el Consejo;
+
+III. Impulsar la integración de rutas, circuitos y productos turísticos regionales;
+
+IV. Promover la competitividad, profesionalización e innovación del sector turístico;
+
+V. Fomentar la participación ciudadana y comunitaria en las políticas públicas de turismo;
+
+VI. Proponer a la Secretaría proyectos prioritarios de infraestructura, conectividad, movilidad y equipamiento turístico;
+
+VII. Coadyuvar en la preservación y aprovechamiento sostenible del patrimonio natural, cultural e histórico;
+
+VIII. Promover la articulación entre municipios y regiones turísticas;
+
+IX. Impulsar estrategias regionales de promoción turística;
+
+X. Emitir opiniones y recomendaciones a la Secretaría sobre proyectos y políticas públicas del sector;
+
+XI. Las demás que establezca el Reglamento de la presente Ley.
+
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 90.
 
-Para ser sujeto de la promoción de los Servicios Turísticos dentro de la Plataforma CIET, se deberá estar al corriente en el cumplimiento de los trámites y requisitos establecidos en esta Ley, su Reglamento y demás normatividad aplicable en la materia.
+Para efectos de planeación estratégica, conectividad y distribución de flujos turísticos, se reconocen como principales Centros de Distribución Turística del Estado de Chiapas los siguientes:
 
-Para que un Prestador de Servicios Turísticos pueda ser considerado dentro de los beneficios que otorgan los planes, programas y proyectos que impulsa la Secretaría en los diferentes Atractivos Turísticos, deberá contar con la CIET vigente.
+I. Tuxtla Gutiérrez;
+
+II. San Cristóbal de Las Casas;
+
+III. Comitán de Domínguez;
+
+IV. Palenque;
+
+V. Tapachula;
+
+VI. Tonalá.
+
+Estos centros fungirán como nodos estratégicos para la articulación regional, conectividad, movilidad turística, integración de servicios y fortalecimiento de las cadenas de valor del sector turístico estatal.
+
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 91.
 
-La Plataforma CIET será la herramienta que permita identificar, reconocer y atender las fortalezas y debilidades en Materia Turística.
+La Secretaría promoverá la instalación y funcionamiento de los Consejos Regionales de Turismo, procurando una representación equilibrada de:
+
+I. Municipios de cada región;
+
+II. Prestadores de servicios turísticos;
+
+III. Cámaras y organismos empresariales;
+
+IV. Instituciones académicas;
+
+V. Organizaciones sociales;
+
+VI. Pueblos y Comunidades Indígenas y Afromexicanos;
+
+VII. Sectores vinculados al desarrollo económico, cultural y ambiental.
+
+Los Consejos Regionales de Turismo sesionarán de manera ordinaria por lo menos tres veces al año y podrán emitir acuerdos, recomendaciones y propuestas para fortalecer el desarrollo turístico regional.
+
+Para la integración, funcionamiento, mecanismos de coordinación y delimitación territorial de los Consejos Regionales de Turismo, se estará a lo dispuesto por el Reglamento de la presente Ley.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2026)</small>
 
 ### Capítulo VI. De la Vigencia de la CIET
 
 ###### Artículo 92.
 
-La CIET otorgada por la Secretaría, contará con una vigencia indefinida.
+(DEROGADO, P.O. 3 DE JUNIO DE 2026)
 
 ###### Artículo 93.
 
-Los Prestadores de Servicios Turísticos deberán actualizar la CIET dentro de los quince días posteriores a su cambio de domicilio, robo o extravío.
-
-La falta de actualización de la CIET dentro del término señalado en el párrafo que antecede, será motivo de cancelación. En caso de que el Prestador de Servicios Turísticos continúe sus actividades sin haber actualizado la CIET, será acreedor a las sanciones establecidas en la presente Ley, conforme a la naturaleza de cada caso en particular.
+(DEROGADO, P.O. 3 DE JUNIO DE 2026)
 
 ### Capítulo VII. Del Atlas Turístico
 
@@ -1055,7 +1347,9 @@ El Atlas Turístico es el registro sistemático de carácter público, en el que
 
 Para su elaboración, la Secretaría deberá coordinarse con los Organismos Públicos, instituciones o asociaciones públicas o privadas, asociaciones de Prestadores de Servicios Turísticos, en forma concurrente con los Ayuntamientos.
 
-El Atlas Turístico constituye una herramienta para la promoción de la Actividad Turística en el Estado de Chiapas, coadyuvando en la realización de estudios sociales y de mercado, conforme a la información contenida en el Sistema de Información Turística Estatal y la Plataforma CIET.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
+
+El Atlas Turístico constituye una herramienta para la promoción de la Actividad Turística en el Estado de Chiapas, coadyuvando en la realización de estudios sociales y de mercado, conforme a la información contenida en el Sistema de Información Turística Estatal.
 
 ## Título Quinto. De los Instrumentos de Medición en Materia Turística
 
@@ -1109,7 +1403,9 @@ Los Municipios podrán integrar y operar un sistema de información turística m
 
 El procedimiento de mediación y conciliación podrá iniciarse a solicitud de parte interesada, previo a la sustanciación del procedimiento de denuncia y/o queja; para los efectos, las partes expresarán su voluntad de someterse al mismo. La comparecencia del Prestador de Servicios Turísticos ante la Secretaría, debe ser personal, tratándose de personas físicas, o por conducto de representante o apoderado legal con facultades para transigir, en el caso de las personas morales.
 
-Para facilitar la solución del procedimiento de mediación y conciliación, la Secretaría y las partes podrán sustanciarlo vía telefónica o por medios electrónicos con el representante para la solución de conflictos nombrado y reconocido dentro de la CIET.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
+
+Para facilitar la solución del procedimiento de mediación y conciliación, la Secretaría y las partes podrán sustanciarlo vía telefónica o por medios electrónicos con el representante para la solución de conflictos nombrado y reconocido dentro de la (sic) Registro Nacional de Turismo.
 
 ###### Artículo 102.
 
@@ -1143,13 +1439,27 @@ La Secretaría, para el cumplimiento de la presente Ley, podrá realizar Visitas
 
 El personal encargado de realizar las Visitas de Verificación y Vigilancia, deberá acreditarse con documento oficial y orden por escrito, debidamente fundada y motivada, en la que deberán precisarse la fecha, lugar o zona, comunidad, domicilio y ubicación precisa de los Prestadores de Servicios Turísticos que habrán de verificarse, el objeto de la visita, aspectos a verificar, nombre y firma de la autoridad competente que emite la orden, y el nombre del Verificador Turístico.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
+
 ###### Artículo 109.
 
-Las Visitas de Verificación y Vigilancia se realizarán en forma aleatoria, conforme a la información que genere la Plataforma CIET, o derivadas de las denuncias y/o quejas presentadas con relación al incumplimiento de las obligaciones consignadas en la presente Ley.
+Las visitas de verificación y vigilancia podrán ser realizadas por el personal que designe la Secretaría, con el propósito de supervisar, orientar y fomentar el cumplimiento de las disposiciones establecidas en la presente Ley y su reglamento.
+
+Dichas visitas se efectuarán de manera aleatoria, o bien, derivadas de denuncias y/o quejas presentadas con relación al incumplimiento de las obligaciones previstas en esta Ley, procurando en todo momento un enfoque preventivo y de mejora en la calidad de los servicios turísticos.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 110.
 
-En lo no previsto en la Ley y su Reglamento será aplicada, de manera supletoria, la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+Las sanciones derivadas de las quejas de los turistas, serán sancionadas por la Secretaría de Turismo Federal, de conformidad con lo que dispone la Ley General, su Reglamento y la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+
+Las sanciones por responsabilidad administrativa en Materia Turística, en términos de lo dispuesto en la presente Ley, serán aplicadas sin perjuicio de las que pudieran corresponder en materia fiscal, penal o civil, de conformidad a las disposiciones jurídicas en la materia.
+
+Derivado de las visitas de verificación y vigilancia, la Secretaría podrá emitir recomendaciones, observaciones técnicas, medidas preventivas o propuestas de mejora dirigidas a las personas prestadoras de servicios turísticos, autoridades municipales o demás partes involucradas, con la finalidad de fortalecer el cumplimiento normativo, elevar la calidad de los servicios turísticos y promover buenas prácticas en la actividad turística del Estado.
+
+Previo a la emisión de cualquier recomendación, la Secretaría deberá garantizar el derecho de audiencia de las partes involucradas, privilegiando mecanismos de conciliación, entendimiento y solución voluntaria de las partes.
+
+La emisión de recomendaciones por parte de la Secretaría, no implicará prejuzgamiento ni sustituirá las facultades legales de las autoridades competentes en materia administrativa, sanitaria, protección civil, protección al consumidor, desarrollo urbano, medio ambiente o cualquier otra aplicable.
 
 ### Capítulo II. De la Denuncia
 
@@ -1161,7 +1471,7 @@ Cualquier persona podrá exponer ante la Secretaría, denuncias en contra de Pre
 
 Las denuncias se inician, resuelven y sancionan conforme al Procedimiento Administrativo en Materia Turística, de conformidad con lo dispuesto en la Ley y su Reglamento.
 
-En caso de constatar que efectivamente se han cometido infracciones a la Ley, la Secretaría aplicará las sanciones correspondientes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE JUNIO DE 2026)</small>
 
 ### Capítulo III. De la Queja
 
@@ -1247,83 +1557,33 @@ Quedará bajo responsabilidad del recurrente la presentación de testigos, dict�
 
 Las resoluciones que pongan fin al recurso administrativo podrán ser impugnadas en los términos del Libro Segundo de la Ley de Procedimientos Administrativos para el Estado de Chiapas.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2026)</small>
+
 ## Título Octavo (SIC). De las Infracciones y Sanciones
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 2026)</small>
 
 ### Capítulo I. De las Infracciones
 
 ###### Artículo 129.
 
-Se consideran infracciones cometidas por el Prestador de Servicios Turísticos, las siguientes:
+(DEROGADO, P.O. 3 DE JUNIO DE 2026)
 
-I. Negarse a colaborar con las distintas autoridades en la materia, en la optimización de la Actividad Turística.
-
-II. Realizar cualquier acto discriminatorio en contra del Turista o Visitante, en el ofrecimiento o desarrollo de los Servicios Turísticos para los cuales fue contratado.
-
-III. No tramitar, obtener o actualizar la CIET.
-
-IV. No exhibir en lugar visible la CIET.
-
-V. No facilitar el acceso a las instalaciones del lugar en que se presenten lo (sic) Servicios Turísticos al personal autorizado por la Secretaría para la práctica de las diligencias previstas en esta Ley; o negarse a brindar la información requerida.
-
-VI. No respetar los precios, tarifas, promociones o servicios ofertados, con independencia del medio de difusión utilizado para los efectos.
-
-VII. No cumplir con los Servicios Turísticos en los términos contratados o pactados.
-
-VIII. No denunciar de forma inmediata ante la autoridad competente, todo acto u omisión, vinculado a la comisión de hechos probablemente delictuosos o probables violaciones a derechos humanos en los que resulten afectados los Turistas o Visitantes.
-
-IX. Actuar con negligencia en el uso y cuidado del Patrimonio Turístico, recursos naturales o el medio ambiente.
-
-X. No exhibir en un lugar accesible y visible los precios, tarifas y servicios ofertados.
-
-XI. Negarse a capacitar de forma permanente y continua al personal a su cargo.
-
-XII. Negarse a establecer protocolos de seguridad y primeros auxilios, en términos de lo que dispongan las autoridades competentes de la materia.
-
-XIII. Negarse a establecer medidas de seguridad tendientes a la protección del patrimonio de los Turistas o Visitantes.
-
-XIV. No contar con las certificaciones expedidas por la Secretaría, en los términos de la presente Ley.
-
-XV. Negarse a acatar las resoluciones emitidas por la Secretaría, derivadas del Procedimiento Administrativo en Materia Turística.
-
-XVI. Incumplir con los términos y plazos de los convenios o acuerdos conciliatorios celebrados ante la Secretaría.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2026)</small>
 
 ### Capítulo II. De las Sanciones
 
 ###### Artículo 130.
 
-Corresponde a la Secretaría aplicar las sanciones a los Prestadores de Servicios Turísticos, por las infracciones cometidas en contravención a las disposiciones contenidas en esta Ley; las cuales podrán ser:
-
-I. Amonestación.
-
-II. Multa.
-
-III. Suspensión temporal de la CIET.
-
-IV. Clausura temporal.
-
-V. Reposición del Servicio Turístico.
+(DEROGADO, P.O. 3 DE JUNIO DE 2026)
 
 ###### Artículo 131.
 
-Se sancionará a los Prestadores de Servicios Turísticos que contravengan las disposiciones contenidas en el artículo 127 de la presente Ley, en los términos siguientes:
-
-I. Amonestación a quienes realicen los actos u omisiones descritos en las fracciones I, II, III, V, X.
-
-II. Multa de 10 a 300 veces la Unidad de Medida y Actualización, a quienes realicen los actos u omisiones establecidos en las fracciones IV, VI, VII, VIII, IX, XI, XII, XIII, XIV, XV y XVI; así como por reincidir en las infracciones establecidas en las fracciones I, II, III, V y X.
-
-III. Suspensión temporal de la CIET y multa de 50 a 500 veces la Unidad de Medida y Actualización, a quienes reincidan en los actos u omisiones establecidos en las fracciones IV, VI, VIII y XI.
-
-IV. Procederá la Clausura temporal, además de la multa establecida en la fracción III del presente artículo, a quienes reincidan en los actos u omisiones establecidos en las fracciones VII, IX, XII, XIII, XIV, XV y XVI.
-
-V. Además de las sanciones previstas en las fracciones II, III y IV del presente artículo, procederá la Reposición del Servicio Turístico al Turista o Visitante afectado, consistente en el reembolso, bonificación o compensación, por un tanto igual y hasta el doble de la suma correspondiente al servicio incumplido, así como los gastos y costas que en su caso pudieran generarse; a quienes realicen los actos u omisiones descritos en las fracciones VII y XIII.
-
-La Suspensión temporal de la CIET y/o Clausura temporal se levantarán veinticuatro horas después de que el Prestador de Servicios Turísticos cumpla con las sanciones aplicadas y presente pruebas fehacientes a la Secretaría, que comprueben que se han corregido o subsanado los actos u omisiones que dieron origen a dichas sanciones.
-
-Las sanciones establecidas en el presente artículo, se aplicarán con independencia de aquellas previstas en la normatividad aplicable, de conformidad a la naturaleza del acto u omisión.
+(DEROGADO, P.O. 3 DE JUNIO DE 2026)
 
 ###### Artículo 132.
 
-Las sanciones por responsabilidad administrativa en Materia Turística, en términos de lo dispuesto en la presente Ley, serán aplicadas sin perjuicio de las que pudieran corresponder en materia fiscal, penal o civil, de conformidad a las disposiciones jurídicas en la materia.
+(DEROGADO, P.O. 3 DE JUNIO DE 2026)
 
 ## Transitorios
 
@@ -1364,3 +1624,21 @@ Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor 
 Artículo Tercero.- La Secretaría de Turismo, en coordinación con la Fiscalía General del Estado, el Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas, la Procuraduría de Protección de Niñas, Niños y Adolescentes y demás dependencias competentes, dispondrán de 180 días hábiles para la creación y publicación de los protocolos y acciones preventivas referidas en este Decreto.
 
 Artículo Cuarto.- Todas las modificaciones a las disposiciones reglamentarias derivadas de lo establecido en el presente Decreto, deberán ser expedidas, en un término no mayor de 90 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 3 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 254 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. La persona titular de la Secretaría de Turismo, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto, deberá someter a la consideración del Titular del Poder Ejecutivo del Estado, la modificación del Reglamento para efectos de su expedición y publicación correspondiente, a fin de armonizar su contenido con las disposiciones establecidas en este Decreto.
+
+Artículo Tercero. Mientras se expide y entra en vigor el Reglamento reformado, el Consejo se regirá por las disposiciones vigentes en el Reglamento actual de la Ley de Turismo para el Estado de Chiapas, en lo que no contravenga al presente Decreto.
+
+Artículo Cuarto. Las y los integrantes del Consejo previstos en este Decreto deberán ser formalmente convocados por la Secretaría de Turismo en un plazo no mayor a ciento veinte días naturales posteriores a la publicación del presente Decreto, a fin de instalarse conforme a la nueva estructura legal.
+
+Artículo Quinto. Las y los integrantes del Consejo en un plazo de noventa días naturales posteriores a su instalación deberá proponer al Titular del Poder Ejecutivo del Estado en los términos previstos en el presente Decreto, la Marca Destino oficial del Estado de Chiapas.
+
+Artículo Sexto. Las disposiciones reglamentarias que emita la Secretaría de Turismo deberán considerar los principios de participación multisectorial, equidad de género, inclusión de pueblos originarios, transparencia y rendición de cuentas, conforme a lo establecido en esta Ley.
+
+Artículo Séptimo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
