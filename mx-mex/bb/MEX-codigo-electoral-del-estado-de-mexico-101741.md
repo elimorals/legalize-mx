@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-101741"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-28"
-last_updated: "2025-01-14"
+last_updated: "2026-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JUNIO DE 2026.
 
 Código publicado en la Segunda Sección de la Gaceta del Gobierno del Estado de México, el sábado 28 de junio de 2014.
 
@@ -81,9 +81,9 @@ La interpretación de este Código se hará conforme a los criterios gramatical,
 
 La aplicación de las disposiciones de este Código corresponde al Instituto Electoral, al Tribunal Electoral, a la Legislatura, a la Gobernadora o Gobernador y al Poder Judicial, todos del Estado de México, en sus respectivos ámbitos de competencia.
 
-> <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
-Las autoridades señaladas en el párrafo anterior, los partidos políticos, personas precandidatas y candidatas, deberán garantizar el principio de paridad de género en el ejercicio de los derechos políticos y electorales, así como el respeto a los derechos humanos de las mujeres.
+Las autoridades señaladas en el párrafo anterior, los partidos políticos, personas precandidatas y candidatas, deberán garantizar el principio de paridad de género y procurar la inclusión de personas jóvenes para el ejercicio pleno de sus derechos políticos y electorales, así como el respeto a los derechos humanos de las mujeres y las juventudes.
 
 > <small>(REFORMADO, G.G. 31 DE MAYO DE 2016)</small>
 
@@ -146,6 +146,10 @@ XII Bis. Personas Juzgadoras: A la Presidenta o Presidente, o Magistradas y Magi
 > <small>(ADICIONADA, G.G. 14 DE ENERO DE 2025)</small>
 
 XII Ter. Personas Candidatas a Cargos de Elección del Poder Judicial: Personas que se postularon al cargo de Presidenta o Presidente, Magistradas y Magistrados del Tribunal Superior de Justicia, Magistradas y Magistrados del Tribunal de Disciplina Judicial, o Juezas y Jueces del Poder Judicial del Estado de México, en el proceso electoral previsto en el artículo 89 de la Constitución Local.
+
+> <small>(ADICIONADA, G.G. 3 DE JUNIO DE 2026)</small>
+
+XII Quater. Personas Jóvenes: Aquellas personas que, al día de la jornada electoral que corresponda, tengan entre veintiuno y veintinueve años de edad para el caso de diputaciones, y entre dieciocho y veintinueve años de edad para el caso de integrantes de ayuntamientos.
 
 > <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -331,29 +335,11 @@ VIII. Ser electo o designado candidata o candidato, de conformidad con los proce
 
 ###### Artículo 18.
 
-La elección consecutiva para el cargo de presidentes municipales, regidores y síndicos será por un periodo adicional. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
-
-Las y los integrantes de los Ayuntamientos que tengan interés en reelegirse deberán cumplir con los requisitos previstos en el artículo 119 de la Constitución Local, estar inscritos en el Registro Federal de Electores y contar con la credencial para votar vigente.
-
-> <small>(ADICIONADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
-
-Las y los integrantes de los Ayuntamientos que tengan interés en reelegirse, deberán separarse del cargo, por lo menos, veinticuatro horas antes del inicio de las campañas, conforme al calendario electoral vigente.
-
-> <small>(REFORMADO, G.G. 31 DE MAYO DE 2016)</small>
+(DEROGADO, G.G. 3 DE JUNIO DE 2026)
 
 ###### Artículo 19.
 
-La elección consecutiva de los diputados a la Legislatura podrá ser hasta por cuatro periodos consecutivos. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que los hubiere postulado salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
-
-Las y los diputados de la Legislatura que pretendan reelegirse deberán estar en pleno ejercicio de sus derechos políticos, inscritos en el padrón electoral respectivo, y contar con credencial para votar vigente, tener residencia efectiva en el Estado de México, no menor a tres años anteriores al de la elección.
-
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
-
-Las y los diputados de la Legislatura que tengan interés en reelegirse, deberán separarse del cargo, por lo menos, veinticuatro horas antes del inicio de las campañas, conforme al calendario electoral vigente.
+(DEROGADO, G.G. 3 DE JUNIO DE 2026)
 
 ### CAPÍTULO SEGUNDO. De los sistemas electorales
 
@@ -369,31 +355,41 @@ Los diputados electos en elecciones extraordinarias concluirán el período de l
 
 El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denomina Gobernador, electo por mayoría relativa y voto directo en toda la entidad.
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 23.
 
-Los municipios constituyen la base de la división territorial y de la organización política y administrativa del Estado, y su gobierno corresponde a un cuerpo colegiado denominado Ayuntamiento, integrado por una jefa o un jefe de asamblea llamada presidenta o presidente municipal y por las regidurías y sindicaturas electas según los principios de mayoría relativa y de representación proporcional, conforme a las normas establecidas en este Código.
+Los municipios constituyen la base de la división territorial y de la organización política y administrativa del Estado, y su gobierno corresponde a un cuerpo colegiado denominado Ayuntamiento, integrado por una jefa o un jefe de asamblea llamada presidenta o presidente municipal, una sindicatura y por las regidurías electas según los principios de mayoría relativa y de representación proporcional, conforme a las normas establecidas en este Código.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 En el registro de las candidaturas a los cargos de presidente o presidenta, regidurías y sindicaturas de los Ayuntamientos, los partidos políticos deberán observar el principio de paridad de género tanto vertical como horizontal.
 
-Las fórmulas de candidaturas deberán considerar suplentes del mismo género que la persona propietaria.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
+as fórmulas de candidaturas deberán considerar suplentes del mismo género que la persona propietaria.
+
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 Los pueblos y comunidades indígenas tienen derecho a elegir, en los municipios con población indígena, representantes ante los Ayuntamientos, con el propósito de fortalecer su participación y representación política, de conformidad con sus tradiciones y normas internas, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres, y garantizando el principio de paridad de género, en cumplimiento de lo establecido en el artículo 2o. de la Constitución Federal, de manera gradual.
 
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+
 Los pueblos y comunidades indígenas podrán elegir, de acuerdo con sus principios, normas, procedimientos y prácticas tradicionales, a sus autoridades o sus representantes para el ejercicio de sus formas, propias de gobierno interno, garantizando la participación de mujeres y hombres en condiciones de igualdad y paridad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 24.
 
-Para los efectos de los cómputos de cualquier elección y para la asignación de diputados, regidores o, en su caso, síndico por el principio de representación proporcional, se entenderá por:
+Para los efectos de los cómputos de cualquier elección y para la asignación de diputaciones y regidurías por el principio de representación proporcional, se entenderá por:
 
 I. Votación total emitida: Los votos totales depositados en las urnas.
 
 II. Votación válida emitida: La que resulte de restar a la votación total emitida los votos nulos y los correspondientes a los candidatos no registrados.
 
-> <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-III. Votación válida efectiva: La que resulte de restar a la votación válida emitida, los votos de quienes no reúnan el porcentaje mínimo de votos establecido por este Código para tener derecho a participar en la asignación de diputados, regidores o, en su caso, síndico de representación proporcional.
+III. Votación válida efectiva: La que resulte de restar a la votación válida emitida, los votos de quienes no reúnan el porcentaje mínimo de votos establecido por este Código para tener derecho a participar en la asignación de diputaciones y regidurías por el principio de representación proporcional.
 
 ### CAPÍTULO TERCERO. De la representación proporcional para la integración de la Legislatura
 
@@ -425,11 +421,13 @@ Las diputaciones de mayoría relativa y de representación proporcional tendrán
 
 ### CAPÍTULO CUARTO. De la representación proporcional para la integración de los ayuntamientos
 
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
+
 ###### Artículo 27.
 
-Los ayuntamientos de los municipios podrán tener regidores y síndico electos según el principio de representación proporcional de acuerdo con los requisitos y reglas de asignación que establece este Código.
+Los ayuntamientos de los municipios podrán tener regidurías según el principio de representación proporcional de acuerdo con los requisitos y reglas de asignación que establece este Código.
 
-Los regidores de mayoría relativa y de representación proporcional tendrán iguales derechos y obligaciones. Los síndicos electos por ambos principios tendrán las atribuciones que les señale el Código.
+Las regidurías de mayoría relativa y de representación proporcional tendrán iguales derechos y obligaciones.
 
 ###### Artículo 28.
 
@@ -439,17 +437,17 @@ I. Se aplicarán los principios de mayoría relativa y de representación propor
 
 II. Los ayuntamientos se integrarán conforme a los siguientes criterios poblacionales:
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
-a) En los municipios de menos de ciento cincuenta mil habitantes, el Ayuntamiento estará integrado por un presidente municipal, un síndico y cuatro regidores, electos por planilla según el principio de mayoría relativa. En adición a lo anterior, habrá tres regidores asignados según el principio de representación proporcional.
+a) En los municipios de menos de ciento cincuenta mil habitantes, el Ayuntamiento estará integrado por una presidencia municipal, una sindicatura y cuatro regidurías, electas por planilla según el principio de mayoría relativa. En adición a lo anterior, habrá tres regidurías asignadas según el principio de representación proporcional.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
-b) En los municipios de más de ciento cincuenta mil y hasta quinientos mil habitantes, el Ayuntamiento estará integrado por un presidente municipal, un síndico y cinco regidores, electos por planilla según el principio de mayoría relativa. En adición a lo anterior, habrá cuatro regidores asignados según el principio de representación proporcional.
+b) En los municipios de más de ciento cincuenta mil y hasta quinientos mil habitantes, el Ayuntamiento estará integrado por una presidencia municipal, una sindicatura y cinco regidurías, electas por planilla según el principio de mayoría relativa. En adición a lo anterior, habrá cuatro regidurías asignadas según el principio de representación proporcional.
 
-> <small>(REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
-c) En los municipios de más de quinientos mil habitantes, el Ayuntamiento estará integrado por un presidente municipal, un síndico y siete regidores, electos por planilla según el principio de mayoría relativa. En adición a lo anterior, habrá un síndico y cinco regidores asignados según el principio de representación proporcional.
+c) En los municipios de más de quinientos mil habitantes, el Ayuntamiento estará integrado por una presidencia municipal, una sindicatura y siete regidurías, electas por planilla según el principio de mayoría relativa. En adición a lo anterior, cinco regidurías asignadas según el principio de representación proporcional.
 
 d) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
@@ -457,23 +455,29 @@ d) (DEROGADO, G.G. 29 DE SEPTIEMBRE DE 2020)
 
 III. Cada partido político, coalición, candidatura común o independiente deberá postular en planilla con fórmulas de propietarios y suplentes la totalidad de candidatos propios, comunes o en coalición para los cargos a elegir, en la que se deberá considerar un cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto, debiendo estar integrada de forma alternada por personas de género distinto. El candidato a Presidente Municipal ocupará el primer lugar en la lista de la planilla; el candidato a síndico ocupará el segundo lugar en dicha lista, y los restantes candidatos a regidor ocuparán los siguientes lugares en la lista, hasta completar el número que corresponda de acuerdo a lo establecido en los incisos a), b) y c) de la fracción II de este artículo.
 
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-IV. Para tener derecho a participar en la asignación de regidores según el principio de representación proporcional, los partidos políticos deberán acreditar la postulación de planillas completas de candidatos propios, comunes, coalición o independientes, en las que se deberá considerar un cincuenta por ciento de candidatos propietarios y suplentes de un mismo género y el cincuenta por ciento restante con candidatos del género opuesto, debiendo estar integrada de forma alternada por personas de género distinto.
+IV. Para tener derecho a participar en la asignación de regidurías según el principio de representación proporcional, los partidos políticos deberán acreditar la postulación de planillas completas de candidaturas propias, comunes, coalición o independientes, en las que se deberá considerar un cincuenta por ciento de candidaturas propietarias y suplentes de un mismo género y el cincuenta por ciento restante con candidaturas del género opuesto, debiendo estar integrada de forma alternada por personas de género distinto.
 
 > <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
 
 V. Para los efectos de la fracción anterior se requiere adicionalmente, que los partidos políticos obtengan al menos el 3% de la votación válida emitida en el municipio de que se trate, misma disposición aplica para las planillas de candidatos independientes.
 
-> <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-VI. Si ninguna planilla de candidatos obtiene el porcentaje de votación requerido para tener derecho a la asignación de regidores de representación proporcional, o solo hubiese una planilla registrada, no se asignarán regidores por dicho principio
+VI. Si ninguna planilla de candidaturas obtiene el porcentaje de votación requerido para tener derecho a la asignación de regidurías de representación proporcional, o solo hubiese una planilla registrada, no se asignarán por dicho principio.
 
-> <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-VII. Si solo una planilla de candidatos, obtiene el mínimo de votación requerido para tener derecho a la asignación de regidores de representación proporcional, se asignará a dicha planilla, el total de los regidores de representación proporcional establecidos en la fracción II de este artículo.
+VII. Si solo una planilla de candidaturas, obtiene el mínimo de votación requerido para tener derecho a la asignación de regidurías de representación proporcional, se asignará a dicha planilla, el total de las regidurías de representación proporcional establecidos en la fracción II de este artículo.
 
-VIII. Los regidores de representación proporcional se asignarán mediante el procedimiento establecido en este Código.
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
+
+VIII. Las regidurías de representación proporcional se asignarán mediante el procedimiento establecido en este Código.
+
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+Para efectos de la integración de los Ayuntamientos prevista en este artículo, el número de habitantes se determinará conforme a la información demográfica que emita la instancia del gobierno federal competente.
 
 ### CAPÍTULO QUINTO. De las elecciones ordinarias y extraordinarias
 
@@ -489,9 +493,9 @@ III. Ayuntamientos, cada tres años.
 
 El día que deban celebrarse elecciones locales en la Entidad será considerado como no laborable en todo el territorio estatal.
 
-> <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
-A cada elección precederá una convocatoria, que deberá ser aprobada durante el primer período ordinario de sesiones de la Legislatura del año previo al de la elección a más tardar el dieciocho de diciembre del año previo de la elección y publicada a más tardar la primera semana del mes de enero del año de la elección.
+A cada elección precederá una convocatoria, que deberá ser aprobada durante el primer período ordinario de sesiones de la Legislatura del año previo al de la elección a más tardar el quince de septiembre del año previo de la elección y publicada a más tardar la primera semana del mes de octubre del año previo al de la elección.
 
 La convocatoria será publicada en el periódico oficial "Gaceta del Gobierno" y difundida en los diarios de mayor circulación.
 
@@ -1169,7 +1173,9 @@ El Instituto dará amplia difusión a la convocatoria.
 
 Los ciudadanos que pretendan postular su candidatura independiente a un cargo de elección popular deberán hacerlo del conocimiento del Instituto por escrito, en el formato que este determine.
 
-Durante los procesos electorales locales en que se renueven el Gobernador, la Legislatura y los ayuntamientos, la manifestación de la intención se realizará a partir del día siguiente al en que se emita la convocatoria y hasta que dé inicio el periodo para recabar el apoyo ciudadano correspondiente, conforme a las siguientes reglas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 3 DE JUNIO DE 2026)</small>
+
+Durante los procesos electorales locales en que se renueven la Gubernatura, la Legislatura y los ayuntamientos, la manifestación de la intención se realizará a partir del día siguiente al en que se emita la convocatoria y hasta diez días previos al periodo para recabar el apoyo ciudadano correspondiente, conforme a las siguientes reglas:
 
 I. Los aspirantes al cargo de Gobernador, ante el Secretario Ejecutivo del Instituto.
 
@@ -2031,9 +2037,9 @@ El Secretario Ejecutivo y el titular de la Contraloría General estarán sujetos
 
 El Consejo General se reunirá en sesión ordinaria, por lo menos, cada tres meses. La presidencia podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición de la mayoría de las consejerías electorales o de la mayoría de las representaciones de los partidos políticos. Sus sesiones serán públicas.
 
-> <small>(REFORMADO, G.G. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
-En la preparación del proceso para elegir persona titular del Poder Ejecutivo del Estado, personas juzgadoras, diputaciones e integrantes de los ayuntamientos, el Consejo General celebrará sesión para dar inicio al proceso electoral la primera semana de enero del año de la elección.
+En la preparación del proceso para elegir persona titular del Poder Ejecutivo del Estado, personas juzgadoras, diputaciones e integrantes de los ayuntamientos, el Consejo General celebrará sesión para dar inicio al proceso electoral en los primeros quince días del mes de septiembre del año anterior a la elección.
 
 A partir del inicio del proceso electoral y hasta la conclusión del mismo, el Consejo General sesionará ordinariamente por lo menos una vez al mes.
 
@@ -2129,13 +2135,13 @@ IV. Conocer y resolver sobre los informes que rinda la Contraloría General.
 
 V. Designar a los directores de la Junta General y a los titulares de las unidades administrativas del Instituto con el voto de las dos terceras partes de los consejeros electorales.
 
-> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-VI. Designar, para la elección de la persona titular del Poder Ejecutivo del Estado y de diputaciones, a las vocalías de las juntas distritales y, para la elección de integrantes de los ayuntamientos, a las vocalías de las juntas municipales, en el mes de enero del año de la elección, de acuerdo con los lineamientos que se emitan, de entre las propuestas que al efecto presente la Junta General.
+VI. Designar, para la elección de la persona titular del Poder Ejecutivo del Estado y de diputaciones, a las vocalías de las juntas distritales y, para la elección de integrantes de los ayuntamientos, a las vocalías de las juntas municipales, en el mes de diciembre del año previo al de la elección, de acuerdo con los lineamientos que se emitan, de entre las propuestas que al efecto presente la Junta General.
 
-> <small>(REFORMADA, G.G. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-VII. Designar, para la elección de la persona titular del Poder Ejecutivo del Estado, de diputaciones, e integrantes de los ayuntamientos, de entre las propuestas que al efecto realice la Junta General, a las consejerías electorales de los consejos distritales y municipales en el mes de enero del año de la elección de que se trate. Por cada Consejería propietario (sic) habrá una suplente.
+VII. Designar, para la elección de la persona titular del Poder Ejecutivo del Estado, de diputaciones, e integrantes de los ayuntamientos, de entre las propuestas que al efecto realice la Junta General, a las consejerías electorales de los consejos distritales y municipales en el mes de diciembre del año previo al de la elección de que se trate. Por cada Consejería propietaria habrá una suplente.
 
 > <small>(ADICIONADA, G.G. 14 DE ENERO DE 2025)</small>
 
@@ -3115,11 +3121,15 @@ I. Vigilar la observancia de este Código y de los acuerdos que emita el Consejo
 
 II. Intervenir en la organización, desarrollo y vigilancia de la elección de los ayuntamientos, en sus respectivos ámbitos.
 
-III. Recibir y resolver las solicitudes de registro de candidatos a presidente municipal, síndico o síndicos y regidores.
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
+
+III. Recibir y resolver las solicitudes de registro de candidaturas a la presidencia municipal, sindicatura y regidurías.
 
 IV. Realizar el cómputo municipal de la elección de ayuntamientos por el principio de mayoría relativa y por el principio de representación proporcional.
 
-V. Expedir la declaratoria de validez y la constancia de mayoría a la planilla que obtenga el mayor número de votos, y las constancias de asignación de regidores y síndico, por el principio de representación proporcional.
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
+
+V. Expedir la declaratoria de validez y las constancias de mayoría a la planilla que obtenga el mayor número de votos, y las constancias de asignación de regidurías, por el principio de representación proporcional.
 
 VI. Recibir los medios de impugnación que este Código establece, en contra de sus resoluciones y remitirlos a la autoridad competente para su resolución.
 
@@ -3361,11 +3371,11 @@ La tramitación y resolución de los procedimientos de remoción de consejeros d
 
 El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, por la Constitución Local y este Código, realizados por las autoridades electorales, los partidos políticos, las ciudadanas y los ciudadanos, que tienen por objeto la renovación periódica de la persona titular del Poder Ejecutivo, de integrantes del Poder Legislativo, y de los ayuntamientos. En dichas elecciones, así como en la integración, se observará la paridad de género en sus vertientes vertical, horizontal y transversal.
 
-> <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 235.
 
-Los procesos electorales ordinarios iniciarán en la primera semana del mes de enero del año correspondiente a la de la elección y concluirán con los cómputos y declaraciones que realicen los consejos del Instituto, o con las resoluciones que, en su caso, pronuncie el Tribunal Electoral.
+Los procesos electorales ordinarios iniciarán en los primeros quince días del mes de septiembre del año anterior a la elección y concluirán con los cómputos y declaraciones que realicen los consejos del Instituto, o con las resoluciones que, en su caso, pronuncie el Tribunal Electoral.
 
 ###### Artículo 236.
 
@@ -3379,11 +3389,11 @@ III. Resultados y declaraciones de validez de las elecciones de diputados y ayun
 
 IV. Resultados y declaraciones de validez de la elección de Gobernador electo.
 
-> <small>(REFORMADO, G.G. 4 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 237.
 
-La etapa de preparación de las elecciones se inicia con la primera sesión que el Consejo General celebre en la primera semana del mes de enero del año correspondiente a la de la elección y concluye al iniciarse la jornada electoral.
+La etapa de preparación de las elecciones se inicia con la primera sesión que el Consejo General celebre en los primeros quince días del mes de septiembre del año anterior a la elección y concluye al iniciarse la jornada electoral.
 
 ###### Artículo 238.
 
@@ -3533,9 +3543,9 @@ Del registro se expedirá constancia.
 
 Los plazos y órganos competentes para la recepción de la solicitud de registro de candidaturas son los siguientes:
 
-> <small>(REFORMADA, G.G. 4 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-I. El periodo para el registro de candidatos a Gobernador, diputados por ambos principios y miembros de ayuntamientos durará quince días.
+I. El periodo para el registro de candidaturas a la Gubernatura, diputaciones por ambos principios y personas integrantes de ayuntamientos durará treinta días.
 
 > <small>(REFORMADA, G.G. 4 DE MAYO DE 2020)</small>
 
@@ -3581,19 +3591,29 @@ La solicitud de propietarios y suplentes deberá acompañarse de la declaración
 
 El partido político postulante deberá manifestar por escrito que los candidatos cuyo registro solicitan, fueron seleccionados de conformidad con las normas estatutarias del propio partido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JUNIO DE 2026)</small>
+
 ###### Artículo 253.
 
-Recibida la solicitud de registro de la candidatura por el Presidente o el Secretario del órgano que corresponda, verificará dentro de las veinticuatro horas siguientes, que se cumplió con todos los requisitos señalados en el artículo anterior.
+Vencido el plazo para la presentación de la solicitud de registro de candidaturas la Presidencia o la Secretaría del órgano que corresponda, verificará dentro de los cinco días siguientes, que se cumplió con todos los requisitos señalados en el artículo anterior.
 
-Si de la verificación realizada se advierte que hubo omisión de uno o varios requisitos, se notificará de inmediato al partido correspondiente para que, hasta antes de la fecha en que sesione el Consejo respectivo para el otorgamiento de registros, subsane el o los requisitos omitidos o sustituya la candidatura, siempre que esto pueda realizarse dentro de los plazos que señala este Código.
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+Si de la verificación realizada se advierte que hubo omisión de uno o varios requisitos, se notificará de inmediato al partido correspondiente para que, dentro de los cinco días siguientes a la notificación subsane el o los requisitos omitidos o sustituya la candidatura, siempre que esto pueda realizarse dentro de los plazos que señala este Código.
 
 Cualquier solicitud o documentación presentada fuera de los plazos previstos, será desechada de plano y no se registrará la candidatura o las candidaturas.
 
-El Consejo General celebrará sesión para registrar las candidaturas para Gobernador el sexagésimo tercero día anterior al de la jornada electoral. Para el caso del registro de candidatos a diputados por el principio de representación proporcional, la sesión del Consejo General tendrá lugar el trigésimo octavo día anterior al de la jornada electoral.
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
-Los consejos distritales celebrarán sesión para registrar las candidaturas para diputados por el principio de mayoría relativa el trigésimo octavo día anterior al de la jornada electoral.
+El Consejo General celebrará sesión para registrar las candidaturas a la Gubernatura el sexagésimo cuarto día anterior al de la jornada electoral. Para el caso del registro de candidaturas a diputaciones por el principio de representación proporcional, la sesión del Consejo General tendrá lugar el sexagésimo día anterior al de la jornada electoral.
 
-Los consejos municipales celebrarán sesión para registrar las planillas para miembros de los ayuntamientos el trigésimo octavo día anterior al de la jornada electoral.
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+Los consejos distritales celebrarán sesión para registrar las candidaturas para diputaciones por el principio de mayoría relativa el sexagésimo día anterior al de la jornada electoral.
+
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+Los consejos municipales celebrarán sesión para registrar las planillas para las personas integrantes de los ayuntamientos el sexagésimo día anterior al de la jornada electoral.
 
 Los consejos distritales y municipales comunicarán de inmediato al Consejo General el acuerdo relativo al registro de candidaturas, fórmulas o planillas que hayan realizado durante la sesión a que se refiere el presente artículo.
 
@@ -4987,7 +5007,9 @@ VII. El cómputo municipal de la elección de ayuntamientos es la suma de los re
 
 VIII. Terminado el cómputo y declarada la validez de la elección por parte del Consejo Municipal Electoral, el Presidente extenderá constancias de mayoría, de acuerdo con el modelo aprobado por el Consejo General, a la planilla que haya obtenido mayoría de votos en la elección.
 
-IX. A continuación se procederá a realizar la asignación de regidores y, en su caso, síndico por el principio de representación proporcional que se integrarán a los ayuntamientos, y se hará entrega de las constancias de asignación correspondientes.
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
+
+IX. A continuación se procederá a realizar la asignación de regidurías por el principio de representación proporcional que se integrarán a los ayuntamientos, y se hará entrega de las constancias de asignación correspondientes.
 
 X. De lo acontecido en la sesión, se levantará acta circunstanciada de cómputo municipal, haciendo constar en ella todas las operaciones realizadas, los resultados de los cómputos y las objeciones o protestas que se hayan presentado. Copia de esta acta se entregará a cada uno de los integrantes del Consejo.
 
@@ -5029,11 +5051,11 @@ VII. Enviar copia certificada del expediente al Secretario Ejecutivo del Institu
 
 ### CAPÍTULO CUARTO. De la asignación de miembros de ayuntamiento de representación proporcional
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 377.
 
-Tendrán derecho a participar en la asignación de regidores y, en su caso, sindico de representación proporcional, los partidos políticos, las candidaturas comunes o coaliciones que cumplan los requisitos siguientes:
+Tendrán derecho a participar en la asignación de regidurías de representación proporcional, los partidos políticos, las candidaturas comunes o coaliciones que cumplan los requisitos siguientes:
 
 I. (DEROGADA, G.G. 22 DE JUNIO DE 2023)
 
@@ -5043,17 +5065,19 @@ II. Haber obtenido en el municipio correspondiente, al menos el 3% de la votaci�
 
 El partido, coalición, candidato común o candidatos independientes cuya planilla haya obtenido la mayoría de votos en el municipio correspondiente, no tendrá derecho a que se le acrediten miembros de Ayuntamiento de representación proporcional.
 
-> <small>(ADICIONADO, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
-Para el caso de planillas de candidatos independientes, para participar en la asignación de regidores y, en su caso, síndico, deberán haber obtenido el porcentaje de votación a que se refiere la fracción II de este artículo.
+Para el caso de planillas de candidaturas independientes, para participar en la asignación de regidurías, deberán haber obtenido el porcentaje de votación a que se refiere la fracción II de este artículo.
 
 ###### Artículo 378.
 
 Tratándose de coaliciones formadas para la elección de ayuntamientos, deberán también cumplir el que cada uno de los partidos integrantes de la coalición haya registrado planillas propias, diversas a las de la coalición, en por lo menos 30 municipios, salvo en el caso de que la coalición se haya registrado para la totalidad de los municipios. En todo caso, la suma no deberá ser menor a 60 planillas registradas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JUNIO DE 2026)</small>
+
 ###### Artículo 379.
 
-Para la asignación de regidores de representación proporcional y, en su caso, síndico de representación proporcional, se procederá a la aplicación de una fórmula de proporcionalidad, integrada por los elementos siguientes:
+Para la asignación de regidurías de representación proporcional, se procederá a la aplicación de una fórmula de proporcionalidad, integrada por los elementos siguientes:
 
 I. Cociente de unidad.
 
@@ -5075,9 +5099,9 @@ Para la aplicación de la fórmula anterior, se seguirá el procedimiento siguie
 
 I. Se determinarán los miembros que se le asignarán a cada partido político, candidatura común, coalición o candidatos independientes, conforme al número de veces que contenga su votación el cociente de unidad.
 
-> <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-II. La asignación se hará en orden decreciente, empezando por el partido, candidatura común, coalición o candidatos independientes de mayor votación, de forma tal que, en su caso, el síndico de representación proporcional sea asignado a quien haya figurado como candidato a primer síndico en la planilla de la primera minoría.
+II. La asignación se hará en orden decreciente, empezando por el partido, candidatura común, coalición o candidatura independiente de mayor votación, de forma tal que, la primera regiduría que se asigne por el principio de representación proporcional sea asignada a quien haya figurado como candidato a la primera regiduría en la planilla de la primera minoría.
 
 > <small>(REFORMADA, G.G. 31 DE MAYO DE 2016)</small>
 
@@ -5733,9 +5757,13 @@ c) En las elecciones de miembros de los ayuntamientos:
 
 2. Las determinaciones sobre el otorgamiento de las constancias de mayoría y la declaración de validez, por la nulidad de la elección.
 
-3. Las asignaciones de regidores o, en su caso, síndicos, que realice el consejo municipal, por contravenir o aplicar indebidamente las reglas y fórmulas de asignación establecidas en la Constitución Local y en este Código.
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
-4. El otorgamiento de constancias de asignación por inelegibilidad de regidores o síndicos de una planilla.
+3. Las asignaciones de regidurías que realice el consejo municipal, por contravenir o aplicar indebidamente las reglas y fórmulas de asignación establecidas en la Constitución Local y en este Código.
+
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+4. El otorgamiento de constancias de asignación por inelegibilidad de regidores de una planilla.
 
 > <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], G.G. 14 DE ENERO DE 2025)</small>
 
@@ -6395,7 +6423,9 @@ VIII. Corregir los cómputos distritales de la elección de la persona titular d
 
 IX. Corregir el cómputo final o estatal de la elección de la persona titular del Poder Ejecutivo, de personas juzgadoras; los distritales de diputaciones por el principio de mayoría relativa y por el principio de representación proporcional, o el municipal de una elección de ayuntamientos, cuando resulten fundadas las impugnaciones por error aritmético. Si la corrección decretada resultare determinante para el resultado de la elección, revocar la constancia o constancias expedidas y otorgar nuevas a favor de la candidatura, fórmula, planilla postulada por el partido o coalición que resulte ganadora en la elección correspondiente.
 
-X. Modificar la asignación de diputados, o de síndico o regidores por el principio de representación proporcional realizada, en su caso, por el Consejo General o municipal, hecha en contravención de las reglas y fórmulas establecidas en la Constitución Local y este Código o a favor de un candidato inelegible.
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
+
+X. Modificar la asignación de diputaciones, o regidurías por el principio de representación proporcional realizada, en su caso, por el Consejo General o municipal, hecha en contravención de las reglas y fórmulas establecidas en la Constitución Local y este Código o a favor de una candidatura inelegible.
 
 > <small>(ADICIONADA, G.G. 14 DE ENERO DE 2025)</small>
 
@@ -7923,11 +7953,11 @@ VI. Asignación de cargos, y
 
 VII. La entrega de constancias de mayoría y declaración de validez de la elección.
 
-> <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 572.
 
-La etapa de preparación de la elección inicia con la primera sesión que el Consejo General celebre en los primeros siete días del mes de enero del año de la elección, y concluye al iniciarse la jornada electoral.
+La etapa de preparación de la elección inicia con la primera sesión que el Consejo General celebre en los primeros quince días del mes de septiembre del año anterior a la elección y concluye al iniciarse la jornada electoral.
 
 > <small>(ADICIONADO, G.G. 14 DE ENERO DE 2025)</small>
 
@@ -8900,3 +8930,19 @@ SÉPTIMO. Las Magistradas y los Magistrados cuyos períodos finalicen previo al 
 OCTAVO. Las Magistradas o Magistrados en funciones que participen en el proceso de elección extraordinaria del año 2025 para poder aspirar a la presidencia del Tribunal en términos del artículo 94 de la Constitución, conforme a los artículos Sexto y Décimo Transitorios del Decreto Número 63 por el que se reforman, adicionan y derogan de la Constitución Política del Estado Libre y Soberano de México, publicado en el Periódico Oficial “Gaceta del Gobierno” el 6 de enero de 2025, en caso de no haber sido electos concluirán su encargo en la fecha en que tome protesta la persona Juzgadora vencedora de dicha elección y no serán beneficiarias del haber de retiro respectivo.
 
 NOVENO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.G. 3 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3 PÁRRAFO SEGUNDO, 23 PRIMER PÁRRAFO, 24 PÁRRAFO PRIMERO Y FRACCIÓN III, 27, 28, FRACCIONES II INCISOS A), B) Y C), IV, VI, VII Y VIII, 29, TERCER PÁRRAFO, 95 SEGUNDO PÁRRAFO, 182, SEGUNDO PÁRRAFO, 185 FRACCIONES VI Y VII, LAS FRACCIONES III Y V DEL ARTÍCULO 220, 235, 237, 251 FRACCIÓN I, 253 PÁRRAFOS PRIMERO, SEGUNDO, CUARTO, QUINTO Y SEXTO, 373, FRACCIÓN IX, 377, PRIMERO Y ÚLTIMO PÁRRAFO, 379 PRIMER PÁRRAFO, LA FRACCIÓN II DEL ARTÍCULO 380, 408 NUMERALES 3 Y 4 DEL INCISO C) DE LA FRACCIÓN III, 453 FRACCIÓN X, 572, SE ADICIONA LA FRACCIÓN XII QUATER AL ARTÍCULO 7, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 28, ASÍ COMO SE DEROGAN LOS ARTÍCULOS 18 Y 19 DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 16 FRACCIONES I, II Y III, 18, PÁRRAFO PRIMERO, 19, PÁRRAFO CUARTO, EL PÁRRAFO CUARTO DE LA FRACCIÓN XIX DEL ARTÍCULO 31, 41 PÁRRAFO SEGUNDO; LA DENOMINACIÓN DEL CAPÍTULO SEGUNDO DEL TÍTULO III, EL ARTÍCULO 52, 53, PÁRRAFOS PRIMERO Y ÚLTIMO, EL ARTÍCULO 69, INCISO C) DE LA FRACCIÓN I, 90 BIS, 95, FRACCIÓN XXI; SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 53 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. El Instituto Electoral del Estado de México deberá elaborar un diagnóstico técnico-operativo y presupuestal respecto de la concurrencia de procesos electorales constitucionales y judiciales, mismo que remitirá a la Legislatura para efectos de suficiencia presupuestaria y fortalecimiento institucional.
+
+QUINTO. El Instituto Electoral del Estado de México emitirá lineamientos y criterios técnicos para la verificación de los supuestos de inelegibilidad relacionados con nepotismo electoral previstos en el presente Decreto.
+
+SEXTO. Las disposiciones contenidas en el presente Decreto relativas a la prohibición de reelección consecutiva y el nepotismo electoral serán aplicables a partir del proceso electoral a celebrarse en 2030.
