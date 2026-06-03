@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2026-04-29"
+last_updated: "2026-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -153,15 +153,33 @@ VII. Proporcionar los servicios médicos sin perspectiva de género, o sin respe
 
 VIII. Usar el parto como recurso didáctico formativo, sin el consentimiento consciente, informado y expreso de la mujer.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
 
-h) Simbólica: la que a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en sociedad; y
+h) Simbólica: la que a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en sociedad;
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2026)</small>
 
-i) Diversa: cualquier forma análoga que lesione la dignidad, integridad o libertad de la mujer.
+i) Diversa: cualquier forma análoga que lesione la dignidad, integridad o libertad de la mujer; y
 
-j) (DEROGADO, P.O. 14 DE JULIO DE 2021)
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], P.O. 3 DE JUNIO DE 2026)</small>
+
+j) Violencia a través de interpósita persona: es cualquier acto u omisión que, con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio. Se manifiesta a través de diversas conductas, entre otras:
+
+I. Amenazar con causar daño a las hijas e hijos;
+
+II. Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+
+III. Utilizar a hijas y/o hijos para obtener información respecto de la madre;
+
+IV. Promover, incitar o fomentar actos de violencia física de hijas y/o hijos en contra de la madre;
+
+V. Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+VI. Ocultar, retener o sustraer a hijas y/o hijos así como a familiares o personas allegadas;
+
+VII. Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común; y
+
+VIII. Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1754,6 +1772,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 29 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1050 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1069 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS H), I) Y J), DEL ARTÍCULO 3, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
 
 ###### ARTÍCULO ÚNICO.
 
