@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2026-03-06"
+last_updated: "2026-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JUNIO DE 2026.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -467,6 +467,10 @@ La ley determinará las reglas para la organización y funcionamiento de los ór
 
 Los emolumentos que perciban la Consejera o el Consejero Presidente, las Consejeras y los Consejeros Electorales, la Secretaria o el Secretario Ejecutivo y la o el titular de la Contraloría General serán los previstos en el Presupuesto de Egresos del Estado del ejercicio fiscal del año correspondiente.
 
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+Las remuneraciones de las consejerías electorales, secretarías de órganos administrativos, titulares de áreas ejecutivas, técnicas y homólogas del Instituto Electoral del Estado de México no excederán el límite establecido en esta Constitución y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
+
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
 Las leyes determinarán los regímenes laboral y de responsabilidades de los servidores públicos del Instituto Electoral del Estado de México.
@@ -593,6 +597,10 @@ Habrá un Tribunal Electoral autónomo, de carácter permanente con personalidad
 
 El Tribunal Electoral funcionará en Pleno, se compondrá de cinco Magistraturas designadas por el Senado de la República en los términos que establece la legislación de la materia, y gozarán de todas las garantías judiciales previstas en la Constitución Política de los Estados Unidos Mexicanos, a efecto de garantizar su independencia y autonomía. Sus emolumentos serán los previstos en el Presupuesto de Egresos del Estado del ejercicio fiscal del año correspondiente.
 
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+Las remuneraciones de las magistraturas electorales, secretarías de órganos administrativos, titulares de áreas ejecutivas, técnicas y homólogas del Tribunal Electoral del Estado de México no excederán el límite establecido en esta Constitución y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
+
 > <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 Las Magistradas y los Magistrados del Tribunal Electoral designarán a su Presidenta o Presidente, por mayoría de votos, entre ellos; la Presidencia deberá ser rotatoria por un periodo de dos años conforme al procedimiento y requisitos establecidos en la ley.
@@ -687,31 +695,141 @@ Para los efectos de la elección de la Presidenta o el Presidente, así como de 
 
 La Presidenta o el Presidente de la Comisión de Derechos Humanos del Estado de México presentará, anualmente a los Poderes del Estado, un informe de actividades, de manera personal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 17.
 
-El Estado de México tiene una composición pluricultural y pluriétnica sustentada originalmente en sus pueblos indígenas. Esta Constitución reconoce como pueblos indígenas dentro del territorio mexiquense a los Mazahua, Otomí, Náhuatl, Matlazinca, Tlahuica y aquellos que se identifiquen en algún otro pueblo indígena. El Estado favorecerá la educación básica bilingüe.
+El Estado de México se basa en la grandeza de sus pueblos y culturas, tiene una composición pluricultural y multiétnica sustentada originalmente en sus pueblos indígenas, que son aquellas colectividades con una continuidad histórica de las sociedades precoloniales establecidas en el territorio estatal y que conservan, desarrollan y transmiten sus instituciones sociales, normativas, económicas, culturales y políticas, o parte de ellas. Esta Constitución reconoce como pueblos indígenas dentro del territorio mexiquense a los Mazahua, Otomí, Náhuatl, Matlazinca, Tlahuica y aquellos que se identifiquen en algún otro pueblo indígena.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
 
-La ley protegerá y promoverá el desarrollo de sus culturas, lenguas, usos, costumbres, recursos y formas específicas de organización social y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado.
+Son comunidades integrantes de un pueblo indígena, aquellas que forman una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus sistemas normativos.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+El derecho de los pueblos indígenas a la libre determinación se ejercerá en el marco constitucional de autonomía que asegure la unidad nacional. Para el reconocimiento de los pueblos y comunidades indígenas se deben tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos, de asentamiento físico y de autoadscripción.
 
-Las autoridades promoverán el bienestar de estos grupos mediante las acciones necesarias, convocando incluso a la sociedad, en especial en las materias de salud, educación, vivienda y empleo, así como en todas aquellas que con respeto a las expresiones y manifestaciones de su cultura, faciliten e impulsen la participación de quienes los integran en todos los ámbitos del desarrollo del Estado y en igualdad de condiciones y oportunidades que los demás habitantes.
+Se reconoce a los pueblos y comunidades indígenas como sujetos de derecho público con personalidad jurídica y patrimonio propio.
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+A. Conforme a la Constitución Política de los Estados Unidos Mexicanos y esta Constitución se reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
 
-Los pueblos y comunidades indígenas tienen derecho a elegir, en los municipios con población indígena, representantes ante los Ayuntamientos, observando el principio de paridad de género, con el propósito de fortalecer su participación y representación política, de conformidad con sus tradiciones y normas internas, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres.
+I. Decidir, conforme a sus sistemas normativos y de acuerdo con las leyes aplicables, sus formas internas de gobierno, de convivencia y de organización social, económica, política y cultural;
 
-> <small>(REFORMADO, G.G. 16 DE MARZO DE 2018)</small>
+II. Aplicar y desarrollar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución, respetando los derechos humanos y sus garantías individuales, así como, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.
 
-Los pueblos y comunidades indígenas podrán elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, a sus autoridades o sus representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfruten y ejerzan su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía estatal. En ningún caso las prácticas comunitarias podrán limitar los derechos político electorales de los y las ciudadanas en la elección de sus autoridades municipales.
+La jurisdicción indígena se ejercerá por las autoridades comunitarias de acuerdo con los sistemas normativos de los pueblos y comunidades indígenas, en los términos de la Constitución Federal, de esta Constitución y las leyes aplicables;
 
-> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2023)</small>
+III. Los pueblos y comunidades indígenas podrán elegir, de acuerdo con sus sistemas normativos, procedimientos y prácticas tradicionales, a sus autoridades o sus representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfruten y ejerzan su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía estatal. En ningún caso sus sistemas normativos o las prácticas comunitarias podrán limitar los derechos político electorales de la ciudadanía en la elección de sus autoridades municipales;
 
-Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural del Estado de México. Tendrán, en lo conducente, los derechos señalados en los párrafos anteriores del presente artículo en los términos que establezcan las leyes, a fin de garantizar su libre determinación, autonomía, desarrollo e inclusión social.
+IV. Preservar, proteger y desarrollar su patrimonio cultural, material e inmaterial, que comprende todos los elementos que constituyen su cultura e identidad. Se reconoce la propiedad intelectual colectiva respecto de dicho patrimonio, en los términos que dispongan las leyes;
+
+V. Promover el uso, desarrollo, preservación, estudio y difusión de las lenguas indígenas como un elemento constitutivo de la diversidad cultural de la Nación y el Estado, así como una política lingüística multilingüe que permita su uso en los espacios públicos y en los privados que correspondan;
+
+VI. Participar, en términos del artículo 5o. de esta Constitución, en la construcción de los modelos educativos para reconocer la composición pluricultural del Estado con base en sus culturas, lenguas y métodos de enseñanza y aprendizaje;
+
+VII. Desarrollar, practicar, fortalecer y promover la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio. Se reconoce a las personas que las ejercen, incluidos sus saberes y prácticas de salud;
+
+VIII. Conservar y mejorar el hábitat, y preservar la bioculturalidad y la integridad de sus tierras, incluidos sus lugares sagrados declarados por la autoridad competente, de conformidad con las disposiciones jurídicas aplicables en la materia;
+
+IX. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidos en la Constitución Federal, en esta Constitución y en las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de lo dispuesto en dichos ordenamientos. Para estos efectos las comunidades podrán asociarse en términos de ley;
+
+X. Elegir, en los municipios con población indígena, representantes en los Ayuntamientos, observando el principio de paridad de género y pluriculturalidad, con el propósito de fortalecer su participación y representación política, de conformidad con sus tradiciones y normas internas, respetando los derechos humanos y sus garantías individuales, así como, de manera relevante, la dignidad e integridad de las mujeres;
+
+XI. Acceder plenamente a la jurisdicción del Estado, para ello, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus sistemas normativos y especificidades culturales con respeto a los preceptos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución.
+
+Las personas indígenas tienen, en todo tiempo, el derecho a ser asistidas y asesoradas por personas intérpretes, traductoras, defensoras y peritas especializadas en derechos indígenas, pluralismo jurídico, perspectiva de género, y diversidad cultural y lingüística;
+
+XII. Ejercer su derecho al desarrollo integral con base en sus formas de organización económica, social y cultural, con respeto a la integridad del medio ambiente y recursos naturales en términos de las disposiciones jurídicas aplicables, y
+
+XIII. Ser consultados sobre las medidas legislativas o administrativas que se pretendan adoptar, cuando estas puedan causar afectaciones o impactos significativos en su vida o entorno, con la finalidad de obtener su consentimiento o, en su caso, llegar a un acuerdo sobre tales medidas.
+
+Las consultas indígenas se realizarán de conformidad con principios y normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos indígenas reconocidos en esta Constitución.
+
+Cuando la medida administrativa que se pretenda adoptar beneficie a un particular, el costo de la consulta debe ser cubierto por éste.
+
+La persona física o jurídica colectiva que obtenga un lucro por las medidas administrativas objeto de consulta debe otorgar a los pueblos y comunidades indígenas un beneficio justo y equitativo, en los términos que establezcan las leyes aplicables.
+
+Los pueblos y comunidades indígenas son los únicos legitimados para impugnar, por las vías jurisdiccionales establecidas, el incumplimiento del derecho reconocido en esta fracción. La ley de la materia regulará los términos, condiciones y procedimientos para llevar a cabo la impugnación.
+
+B. El Estado y los municipios deberán establecer las instituciones y determinar las políticas públicas que garanticen el ejercicio efectivo de los derechos de los pueblos indígenas y su desarrollo integral, intercultural y sostenible, las cuales deben ser diseñadas y operadas conjuntamente con ellos.
+
+Para tal efecto, las autoridades tienen la obligación de:
+
+I. Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas, para mejorar sus condiciones de vida y bienestar común, mediante planes de desarrollo que fortalezcan sus economías y fomenten la agroecología, los cultivos tradicionales, en especial el sistema milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos.
+
+La ley establecerá los mecanismos que faciliten la organización y desarrollo de las economías de los pueblos y comunidades indígenas, y reconocerá el trabajo comunitario como parte de su organización social y cultural;
+
+II. Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas, que serán administradas directamente por estos;
+
+III. Adoptar las medidas necesarias para reconocer y proteger el patrimonio cultural, la propiedad intelectual colectiva, los conocimientos y las expresiones culturales tradicionales de los pueblos y comunidades indígenas, en los términos que establezca la ley;
+
+IV. Garantizar y fortalecer la educación indígena intercultural y plurilingüe, mediante:
+
+a) La alfabetización y la educación en todos los niveles, gratuita, integral y con pertinencia cultural y lingüística;
+
+b) La formación de profesionales indígenas y la implementación de la educación comunitaria;
+
+c) El establecimiento de un sistema de becas para las personas indígenas que cursen cualquier nivel educativo;
+
+d) La promoción de programas educativos bilingües, en concordancia con los métodos de enseñanza y aprendizaje de los pueblos y comunidades indígenas, y
+
+e) La definición y desarrollo de programas educativos que reconozcan e impulsen la herencia cultural de los pueblos y comunidades indígenas y su importancia para la Nación y el Estado; así como, la promoción de una relación intercultural, de no discriminación y libre de racismo;
+
+V. Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema estatal con perspectiva intercultural, así como reconocer las prácticas de la medicina tradicional;
+
+VI. Garantizar el derecho a la alimentación nutritiva, suficiente y de calidad con pertinencia cultural, en especial para la población infantil;
+
+VII. Mejorar las condiciones de vida de los pueblos y comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que garanticen el acceso al financiamiento para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos, en armonía con su entorno natural y cultural, sus conocimientos y tecnologías tradicionales;
+
+VIII. Garantizar la participación efectiva de las mujeres indígenas, en condiciones de igualdad, en los procesos de desarrollo integral de los pueblos y comunidades indígenas; su acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos;
+
+IX. En el ámbito de su competencia, garantizar y extender la red de comunicaciones que permita la articulación de los pueblos y comunidades indígenas, mediante la construcción y ampliación de vías de comunicación y caminos artesanales, así como coordinarse con las autoridades respectivas respecto de las materias de radiodifusión, telecomunicación e Internet de banda ancha;
+
+X. Coordinarse con las autoridades competentes, para garantizar las condiciones para que los pueblos y comunidades indígenas puedan adquirir, operar, promover, desarrollar y administrar sus medios de comunicación, telecomunicaciones y nuevas tecnologías de la información, garantizando espacios óptimos del espectro radioeléctrico y de las redes e infraestructura, haciendo uso de sus lenguas y otros elementos culturales;
+
+XI. Adoptar medidas para que los pueblos y comunidades indígenas accedan a los medios de comunicación e información en condiciones de dignidad, equidad e interculturalidad, sin discriminación alguna para que reflejen la diversidad cultural indígena;
+
+XII. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la creación de empleos, la incorporación de tecnologías y sus sistemas tradicionales de producción, para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización;
+
+XIII. En el ámbito de su competencia y en coordinación con las autoridades de la materia, establecer políticas públicas para proteger a las comunidades y personas indígenas migrantes, tanto en el territorio estatal como en el extranjero, en especial, mediante acciones destinadas a:
+
+a) Reconocer las formas organizativas de las comunidades indígenas residentes y de las personas indígenas migrantes en sus contextos de destino en el territorio nacional y estatal;
+
+b) Garantizar los derechos laborales de las personas jornaleras agrícolas, trabajadoras del hogar y con discapacidad;
+
+c) Mejorar las condiciones de salud de las mujeres, así como apoyar con programas especiales de educación y nutrición a niñas, niños, adolescentes y jóvenes de familias migrantes;
+
+d) Velar permanentemente por el respeto de sus derechos humanos, y
+
+e) Promover, con pleno respeto a su identidad, la difusión de sus culturas y la inclusión social en los lugares de destino que propicien acciones de fortalecimiento del vínculo familiar y comunitario;
+
+XIV. Consultar a los pueblos indígenas en la elaboración del Plan de Desarrollo del Estado de México y de los planes municipales y, en su caso, incorporar las recomendaciones y propuestas que realicen, y
+
+XV. Celebrar consultas y cooperar de buena fe con los pueblos y comunidades indígenas, por medio de sus instituciones representativas, antes de adoptar y aplicar medidas legislativas o administrativas que puedan causar afectaciones o impactos significativos en su vida o entorno, en los términos de la fracción (sic)
+
+(sic) XIII del Apartado A del presente artículo.
+
+El Congreso del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, deberán establecer las partidas específicas en los presupuestos de egresos que aprueben, así como las formas y procedimientos, para que los pueblos y comunidades indígenas las administren y ejerzan conforme a las leyes de la materia.
+
+Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley.
+
+C. Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural del Estado de México. Tendrán, en lo conducente, los derechos señalados en los párrafos anteriores del presente artículo, a fin de garantizar su desarrollo e inclusión social, en los términos que establezca la Constitución Federal, esta Constitución y las leyes, así como su libre determinación que se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional y estatal.
+
+Los pueblos y comunidades afromexicanas se integran por descendientes de personas originarias de poblaciones del continente africano trasladadas y asentadas en el territorio del Estado desde la época colonial, con formas propias de organización social, económica, política y cultural, o parte de ellas, y afirman su existencia como colectividades culturalmente diferenciadas.
+
+Los pueblos y comunidades afromexicanas tienen el carácter de sujetos de derecho público, con personalidad jurídica y patrimonio propio. Tienen además derecho a:
+
+I. La protección de su identidad cultural, modos de vida, expresiones espirituales y de todos los elementos que integran su patrimonio cultural, material e inmaterial y su propiedad intelectual colectiva, en los términos que establezca la ley;
+
+II. La promoción, reconocimiento y protección de sus conocimientos, aportes y contribuciones en la historia nacional y estatal, y a la diversidad cultural de la Nación y el Estado, debiendo quedar insertas en las modalidades y niveles del Sistema Educativo Estatal, y
+
+III. Ser incluidos en la producción y registros de datos, información, estadísticas, censos y encuestas oficiales, para lo cual las instituciones competentes establecerán los procedimientos, métodos y criterios para inscribir su identidad y autoadscripción.
+
+D. Esta Constitución reconoce, y el Estado garantiza, el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos.
+
+Se reconoce y garantiza el derecho de la niñez, adolescencia y juventud indígena y afromexicana a una atención adecuada, en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos de acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo, entre otros. Asimismo, para garantizar una vida libre de exclusión, discriminación y violencia, en especial de la violencia sexual y de género, y para establecer políticas dirigidas a prevenir y atender las adicciones, con visión de respeto a sus identidades culturales.
+
+El Estado y los municipios adoptarán las medidas necesarias para hacer efectivos los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución con el propósito de eliminar la discriminación, racismo, exclusión e invisibilidad de las que sean objeto los pueblos y comunidades indígenas y afromexicanas.
+
+La ley establecerá las bases y mecanismos para asegurar la efectiva observancia de todo lo dispuesto en el presente artículo, en sus respectivos ámbitos de competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE AGOSTO DE 2014)</small>
 
@@ -1041,6 +1159,10 @@ La ciudad de Toluca de Lerdo es la sede de los poderes públicos del Estado y ca
 
 El ejercicio del Poder Legislativo se deposita en una Asamblea denominada Congreso del Estado Libre y Soberano de México, integrada por diputadas y diputados electos en su totalidad cada tres años, conforme a los principios de mayoría relativa y de representación proporcional, mediante sufragio universal, libre, secreto y directo. Los congresos constitucionales electos mediante los principios democráticos se denominan legislaturas precedidas por su numeración cronológica.
 
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+La Asamblea del Congreso del Estado, como órgano legislativo local, deberá observar los principios de paridad de género, igualdad sustantiva y perspectiva de género en su integración y funcionamiento, en los términos que establezca la ley.
+
 > <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 Por cada diputada propietaria y diputado propietario se elegirá un suplente del mismo género.
@@ -1048,6 +1170,10 @@ Por cada diputada propietaria y diputado propietario se elegirá un suplente del
 > <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 La o las diputadas y el o los diputados electos en elecciones extraordinarias concluirán el periodo de la Legislatura respectiva.
+
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+El presupuesto anual del Poder Legislativo no podrá exceder del cero punto setenta por ciento del Presupuesto de Egresos del Estado correspondiente al ejercicio fiscal de que se trate, en términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1135,13 +1261,21 @@ IX. No ser militar o jefe de las fuerzas de seguridad pública del Estado o de l
 
 X. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género;
 
-> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-XI. No estar inscrito en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa, y
+XI. No estar inscrito en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa;
 
-> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-XII. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género.
+XII. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género, y
+
+> <small>(ADICIONADA, G.G. 3 DE JUNIO DE 2026)</small>
+
+XIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
+
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+Para efectos de las restricciones previstas en este artículo, la autoridad electoral competente deberá valorar la existencia de los vínculos referidos mediante criterios objetivos, documentales y verificables, garantizando en todo momento los principios de certeza jurídica, legalidad, igualdad y no discriminación.
 
 (REFORMADO, G.G. 29 DE SEPTIEMBRE DE 2020) (F. DE E., G.G. 30 DE SEPTIEMBRE DE 2020)
 
@@ -1171,11 +1305,15 @@ Las presidentas o los presidentes de la Legislatura y de la Diputación Permanen
 
 El ejercicio del cargo de diputada o diputado es incompatible con cualquier comisión o empleo del Gobierno Federal, del Estado o de los municipios y de sus organismos auxiliares por el que se disfrute sueldo. La Legislatura podrá conceder licencia a sus miembros, según los casos, para desempeñar otras funciones que les hayan sido encomendadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 44.
 
-La Legislatura del Estado se renovará en su totalidad cada tres años, la ley de la materia determinará la fecha de la elección. Las diputadas y los diputados podrán ser electos de manera consecutiva hasta por cuatro periodos; la postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiera postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+La Legislatura del Estado se renovará en su totalidad cada tres años, la ley de la materia determinará la fecha de la elección. Las diputaciones no podrán reelegirse para el periodo inmediato posterior al ejercicio de su mandato.
+
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2014)</small>
 
@@ -1431,7 +1569,9 @@ XI. Autorizar facultades extraordinarias en favor del Ejecutivo, en casos excepc
 
 XII. Convocar a elecciones ordinarias o extraordinarias de Gobernador o Gobernadora, diputados o diputadas y miembros de los ayuntamientos, Juezas y Jueces, Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial.
 
-Para el caso de elecciones ordinarias de Gobernador o Gobernadora la convocatoria deberá expedirse por lo menos 100 días antes de la fecha de elección, para las de diputadas o diputados y miembros de los ayuntamientos 80 días antes; para las Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, y Juezas y Jueces del Poder Judicial del Estado, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda.
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+Para el caso de elecciones ordinarias se deberá expedir la convocatoria a más tardar el quince de septiembre del año anterior al que deba tener lugar la elección ordinaria;
 
 > <small>(REFORMADA, G.G. 2 DE OCTUBRE DE 1998)</small>
 
@@ -1821,13 +1961,21 @@ VI. No contar con una o más nacionalidades distintas a la mexicana.
 
 VII. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género;
 
-> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-VIII. No estar inscrito en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa, y
+VIII. No estar inscrito en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa;
 
-> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-IX. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género.
+IX. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género, y
+
+> <small>(ADICIONADA, G.G. 3 DE JUNIO DE 2026)</small>
+
+X. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura.
+
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+Para efectos de las restricciones previstas en este artículo, la autoridad electoral competente deberá valorar la existencia de los vínculos referidos mediante criterios objetivos, documentales y verificables, garantizando en todo momento los principios de certeza jurídica, legalidad, igualdad y no discriminación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2517,7 +2665,9 @@ Para el caso de Magistradas y Magistrados del Tribunal de Disciplina Judicial la
 
 La Legislatura incorporará a los listados que remita al Instituto Electoral del Estado de México a las personas que se encuentren en funciones en los cargos señalados al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo o jurisdicción diversa. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos.
 
-La etapa de preparación de la elección local correspondiente iniciará con la primera sesión que el Consejo General del Instituto Electoral del Estado celebre en los primeros siete días del mes de enero del año de la elección.
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+La etapa de preparación de la elección local correspondiente iniciará con la primera sesión que el Consejo General del Instituto Electoral del Estado celebre en los primeros quince días del mes de septiembre del año anterior a la elección, y concluye al iniciarse la jornada electoral.
 
 Las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley y determine la autoridad electoral competente. Podrán, además, participar en foros de debate organizados por el propio Instituto Electoral del Estado de México o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
 
@@ -2829,29 +2979,31 @@ En ningún caso los ayuntamientos, como cuerpos colegiados, podrán desempeñar 
 
 Los ayuntamientos serán asamblea deliberante y tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de ésta corresponderá exclusivamente a los presidentes o presidentas municipales, quienes durarán en sus funciones tres años.
 
-La elección consecutiva para el mismo cargo de presidentas o presidentes municipales, regidoras o regidores y síndicas o síndicos, será por un periodo adicional. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato y de conformidad con lo establecido en la ley respectiva.
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+Los presidentes y presidentas municipales, regidores y regidoras, y personas síndicas de los ayuntamientos no podrán reelegirse para el mismo cargo en el periodo inmediato posterior al ejercicio de su mandato. Las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
+
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 117.
 
-Los ayuntamientos se integrarán con una jefa o jefe de asamblea que se denominará Presidenta o Presidente Municipal, respectivamente, y con varios miembros más llamados Síndicas o Síndicos y Regidoras o Regidores, cuyo número se determinará en razón directa de la población del municipio que representen, como lo disponga la Ley Orgánica respectiva.
+Los ayuntamientos se integrarán con una jefa o jefe de asamblea que se denominará Presidenta o Presidente Municipal, respectivamente, una sindicatura y hasta quince regidurías, cuyo número se determinará en razón directa de la población del municipio que representen, como lo disponga la Ley Orgánica respectiva, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso e integración del poder público municipal.
 
-Los ayuntamientos de los municipios podrán tener síndicas o síndicos y regidoras o regidores electos según el principio de representación proporcional de acuerdo a los requisitos y reglas de asignación que establezca la ley de la materia, respetando el principio de paridad de género.
+Los ayuntamientos de los municipios podrán tener las regidurías electas según el principio de representación proporcional de acuerdo con los requisitos y reglas de asignación que establezca la ley de la materia, respetando los principios referidos en el párrafo anterior.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ### CAPITULO SEGUNDO. De los Miembros de los Ayuntamientos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JUNIO DE 2026)</small>
 
 ###### Artículo 118.
 
-Los miembros de un ayuntamiento serán designados en una sola elección. Se distinguirán las regidoras y los regidores por el orden numérico y los síndicos cuando sean dos, en la misma forma.
+Los miembros de un ayuntamiento serán designados en una sola elección. Se distinguirán las regidurías por el orden numérico.
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2026)</small>
 
-Las regidoras y los regidores de mayoría relativa y de representación proporcional tendrán los mismos derechos y obligaciones, conforme a la ley de la materia. Las síndicas electas y los síndicos electos por ambas fórmulas tendrán las atribuciones que les señale la ley.
+Las regidurías de mayoría relativa y de representación proporcional tendrán los mismos derechos y obligaciones, conforme a la ley de la materia. La única sindicatura electa tendrá las atribuciones que le señale la ley.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2875,13 +3027,25 @@ III. Ser de reconocida probidad y buena fama pública.
 
 IV. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género;
 
-> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-V. No estar inscrito en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa, y
+V. No estar inscrito o inscrita en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa;
 
-> <small>(ADICIONADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-VI. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género.
+VI. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género;
+
+> <small>(ADICIONADA, G.G. 3 DE JUNIO DE 2026)</small>
+
+VII. No estar comprendido en alguno de los impedimentos que señala el artículo 116 de esta Constitución, y
+
+> <small>(ADICIONADA, G.G. 3 DE JUNIO DE 2026)</small>
+
+VIII. No tener o haber tenido, en los últimos tres años anteriores al día de la elección, un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
+
+> <small>(ADICIONADO, G.G. 3 DE JUNIO DE 2026)</small>
+
+Para efectos de las restricciones previstas en este artículo, la autoridad electoral competente deberá valorar la existencia de los vínculos referidos mediante criterios objetivos, documentales y verificables, garantizando en todo momento los principios de certeza jurídica, legalidad, igualdad y no discriminación.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -3375,9 +3539,9 @@ La remuneración será determinada anual y equitativamente en el Presupuesto de 
 
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2026)</small>
 
-II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente;
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para la persona titular del Poder Ejecutivo del Estado en el presupuesto correspondiente;
 
 > <small>(REFORMADA, G.G. 6 DE ENERO DE 2025)</small>
 
@@ -5696,3 +5860,77 @@ G.G. 6 DE MARZO DE 2026.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 3 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 330.- DECLARATORIA DE APROBACIÓN DE LA MINUTA PROYECTO DE DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado armonizará el marco jurídico de las leyes que correspondan, en un plazo de ciento veinte días contados a partir de la expedición de la Ley General de la Materia que emita el Congreso de la Unión, para adecuarlo al contenido del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Ejecutivo del Estado debe realizar las reformas a las disposiciones reglamentarias y administrativas correspondientes, en un plazo de ciento veinte días contados a partir de la entrada en vigor de las modificaciones legislativas a que hace referencia el artículo transitorio anterior.
+
+###### ARTÍCULO QUINTO.
+
+Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+###### ARTÍCULO SEXTO.
+
+El Poder Ejecutivo del Estado dispondrá que el texto normativo íntegro del presente Decreto se traduzca a las lenguas de los pueblos indígenas y ordenará la difusión correspondiente.
+
+G.G. 3 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 331.- DECLARATORIA DE APROBACIÓN DE LA MINUTA PROYECTO DE DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 40 FRACCIONES XI Y XII, 44 PÁRRAFO PRIMERO, 61 FRACCIÓN XII PÁRRAFO SEGUNDO, 68 FRACCIONES VIII Y IX, 89 FRACCIÓN IV PÁRRAFO OCTAVO, 116 SEGUNDO PÁRRAFO, 117, 118 PÁRRAFOS PRIMERO Y SEGUNDO, 119 FRACCIONES V Y VI, Y 147 FRACCIÓN II; Y SE ADICIONAN UN PÁRRAFO DÉCIMO PRIMERO AL ARTÍCULO 11, RECORRIENDO LOS SUBSECUENTES, UN PÁRRAFO CUARTO AL ARTÍCULO 13, RECORRIENDO LOS SUBSECUENTES, ASÍ COMO UN PÁRRAFO SEGUNDO, RECORRIENDO EL ACTUAL AL SUBSECUENTE, UN PÁRRAFO CUARTO AL ARTÍCULO 38, LA FRACCIÓN XIII Y UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 40, UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE EL SUBSECUENTE DEL ARTÍCULO 44, LA FRACCIÓN X Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 68, ASÍ COMO LAS FRACCIONES VII Y VIII Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 119 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Instituto Electoral del Estado de México y el Tribunal Electoral del Estado de México deberán revisar y adecuar sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el presente Decreto, en un plazo no mayor a noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. La Legislatura del Estado, en el ámbito de su competencia, garantizará que los presupuestos de los entes públicos y autoridades electorales se ajusten a lo previsto en los artículos 116 y 134 de la Constitución Política de los Estados Unidos Mexicanos, realizando en cada ejercicio fiscal los ajustes necesarios previo a su aprobación.
+
+QUINTO. La integración de los Ayuntamientos prevista en el presente Decreto surtirá efectos a partir del inicio del periodo constitucional municipal subsecuente a su entrada en vigor.
+
+SEXTO. Los Ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con un número de sindicaturas y regidurías conforme a lo previsto en el mismo, conservarán dicho número. El número de regidurías sólo podrá modificarse en atención a criterios de población, conforme a la legislación aplicable.
+
+El número de regidurías podrá ajustarse de manera progresiva, atendiendo al crecimiento y densidad poblacional del municipio, conforme a la información demográfica que emita la instancia del gobierno federal competente, en términos de la legislación aplicable.
+
+Dichos ajustes deberán realizarse bajo criterios de proporcionalidad, representatividad y equilibrio en la integración de los ayuntamientos, garantizando en todo momento una adecuada representación de la población.
+
+SÉPTIMO. Los recursos públicos que resulten como economías o ahorros en los presupuestos anuales de los municipios del Estado, derivados de las reducciones que, en su caso, se realicen en cumplimiento del presente Decreto, permanecerán en la Hacienda Pública Municipal correspondiente.
+
+Los ayuntamientos deberán destinar dichos recursos a obras de infraestructura pública en beneficio de la población, en los términos de la legislación aplicable, garantizando en todo momento los principios de legalidad, honradez, transparencia y austeridad.
+
+OCTAVO. El Congreso del Estado no podrá autorizar, aprobar o ejercer para sí mismo incrementos presupuestarios reales respecto del monto aprobado para el ejercicio fiscal 2026, ni incrementar dicha proporción respecto del Presupuesto de Egresos del Estado en los ejercicios fiscales subsecuentes.
+
+El monto del presupuesto anual del Poder Legislativo únicamente podrá actualizarse conforme a la inflación anual.
+
+No podrán aprobarse ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas o cualquier otro mecanismo que tenga por objeto o efecto incrementar el presupuesto del Congreso del Estado por encima del límite previsto en el presente Decreto.
+
+La Legislatura del Estado deberá establecer los mecanismos institucionales de control, disciplina presupuestaria y responsabilidad administrativa necesarios para asegurar el cumplimiento de lo previsto en este artículo.
+
+Cualquier disposición, determinación presupuestaria o acto de autoridad que contravenga lo establecido en el presente artículo será nulo de pleno derecho.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO. Las reformas a los artículos 44 y 116 de esta Constitución, respecto de la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir del proceso electoral a celebrarse en 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+DÉCIMO PRIMERO. Las reformas a los artículos 40, 68 y 119 de esta Constitución, respecto de la prohibición de nepotismo electoral, serán aplicables a partir del proceso electoral a celebrarse en 2030.
+
+DÉCIMO SEGUNDO. Las disposiciones previstas en el párrafo décimo primero del artículo 11 y en el párrafo cuarto del artículo 13, relativas a las remuneraciones y prestaciones de las personas servidoras públicas, entrarán en vigor al día siguiente de su publicación.
+
+La aplicación de dichas disposiciones no afectará la validez ni la subsistencia de las prestaciones, beneficios y demás derechos derivados de disposiciones generales, contratos colectivos de trabajo o condiciones generales de trabajo, vigentes con anterioridad a la entrada en vigor del presente Decreto, en tanto formen parte de derechos adquiridos o relaciones jurídicas previamente constituidas.
+
+Las remuneraciones, prestaciones y demás percepciones que se determinen con posterioridad a la entrada en vigor del presente Decreto deberán ajustarse a lo dispuesto en los párrafos señalados.
