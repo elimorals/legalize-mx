@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-educacion-del-estado-libre-y-soberano-de-chiapas-144559"
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-14"
-last_updated: "2026-05-27"
+last_updated: "2026-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de octubre de 2020.
 
@@ -409,9 +409,11 @@ Para dar cumplimiento a esta disposición, las autoridades educativas del estado
 
 ### Capítulo III. De la Educación Inicial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2026)</small>
+
 ###### Artículo 25.
 
-La educación inicial es una modalidad que tiene como propósito favorecer el desarrollo de las potencialidades cognoscitivas, psicomotoras, afectivas y sociales, así como formar y mejorar los hábitos de higiene, salud, alimentación y convivencia social de infantes a partir de los cuarenta y cinco días a tres años de edad y comprende la orientación psicopedagógica a los padres de familia o tutores para la educación de sus hijos o pupilos.
+La educación inicial es un nivel educativo que tiene como propósito favorecer el desarrollo de las potencialidades cognoscitivas, psicomotoras, afectivas y sociales, así como formar y mejorar los hábitos de higiene, salud, alimentación y convivencia social de infantes a partir de los cuarenta y cinco días a tres años de edad y comprende la orientación psicopedagógica a los padres de familia o tutores para la educación de sus hijos o pupilos.
 
 Se impartirá en las formas de atención que permitan ampliar la cobertura del servicio, en especial a los grupos socialmente menos favorecidos.
 
@@ -2338,3 +2340,11 @@ P.O. 27 DE MAYO DE 2026.
 Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 3 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 251 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 25 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- La Secretaría de Educación, en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, llevará a cabo las adecuaciones reglamentarias, administrativas y operativas necesarias para implementar las adecuaciones en programas, autorizaciones, registros y lineamientos, asegurando que en todos los instrumentos se reconozca la educación inicial como nivel educativo.
