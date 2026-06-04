@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-y-erradicar-la-discriminacion-para-el-70496"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2025-10-02"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -251,9 +251,17 @@ XIV. Las acciones que promuevan programas permanentes de capacitación y actuali
 
 XV. El aseguramiento de que los integrantes del sistema estatal de salud reciban capacitación sobre el trato digno a quienes padezcan alguna de estas enfermedades: síndrome de inmunodeficiencia adquirida (SIDA), cáncer, obesidad, bulimia o adicciones;
 
-XVI. Campañas permanentes en los medios de información acerca de los derechos de los migrantes, y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
 
-XVII. La creación de programas permanentes de capacitación para el empleo y fomento para la integración laboral a favor de los preliberados y liberados, que hayan cumplido con las penas y sanciones impuestas mediante proceso penal.
+XVI. Campañas permanentes en los medios de información acerca de los derechos de los migrantes;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XVII. La creación de programas permanentes de capacitación para el empleo y fomento para la integración laboral a favor de los preliberados y liberados, que hayan cumplido con las penas y sanciones impuestas mediante proceso penal, y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XVIII. En materia laboral, garantizar que existan condiciones de trabajo para prevenir, atender, sancionar y erradicar cualquier tipo de discriminación en lo laboral con especial énfasis a personas que pertenezcan a grupos en situación de vulnerabilidad, así como el acoso y el hostigamiento de carácter sexual, a través de protocolos, campañas informativas, capacitación y mecanismos de atención.
 
 ### Capítulo II. De la Comisión Estatal de Derechos Humanos como Organo de Ejecución
 
@@ -398,3 +406,11 @@ P.O. 2 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0543.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 10, DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
