@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "2025-02-20"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -246,6 +246,20 @@ XI. Realizar estudios e investigaciones sobre asistencia social, y promover a tr
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
 XII. Prestar servicios de representación, asistencia jurídica y de orientación social a niñas, niños, adolescentes, adultos mayores, personas con discapacidad, personas en situación de calle, madres adolescentes y solteras, indígenas migrantes o desplazados y a todas aquellas personas que no puedan ejercer sus derechos de manera plena, así como los complementarios en problemas psicológicos;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 4 DE JUNIO DE 2026)</small>
+
+XII Bis. Otorgar atención tanatológica a niñas, niños y adolescentes que se encuentren en cualquiera de los siguientes supuestos:
+
+a) Hayan sufrido la pérdida de la madre, padre, hermana, hermano o de la persona que ejerza su cuidado primario;
+
+b) Convivan con familiares que padezcan enfermedad en etapa terminal;
+
+c) Se encuentren atravesando por procesos de separación o desintegración familiar que afecten de manera significativa su estabilidad emocional; y,
+
+d) Presenten otras circunstancias de pérdida, duelo o afectación emocional análoga que, a juicio del Organismo, ameriten este tipo de atención.
+
+Asimismo, el Organismo podrá coadyuvar, en el ámbito de su competencia, con las instituciones educativas que lo soliciten, mediante acciones de orientación, acompañamiento tanatológico y campañas formativas en la materia;
 
 XIII. Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y expósitos, así como en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales vigentes;
 
@@ -740,3 +754,13 @@ P.O. 20 DE FEBRERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El DIF Michoacán en un plazo no mayor a 90 días naturales, deberá hacer las adecuaciones presupuestales en sus programas, para la inclusión de las mujeres embarazadas, para dar cumplimiento al presente decreto.
+
+P.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 457 POR EL QUE "SE ADICIONA UNA FRACCIÓN XII BIS AL ARTÍCULO 9 DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La ejecución de las acciones derivadas del presente Decreto se realizará con cargo al presupuesto autorizado al Organismo y a las dependencias competentes para el ejercicio fiscal correspondiente, por lo que no se autorizarán ampliaciones presupuestales adicionales con motivo de su entrada en vigor.
+
+TERCERO. El Organismo, en coordinación con las instancias competentes y de conformidad con su disponibilidad presupuestaria, técnica y operativa, deberá emitir en un plazo de 90 días lineamientos internos o protocolos de actuación para la detección, orientación, acompañamiento y, en su caso, canalización de niñas, niños y adolescentes sujetos de la atención tanatológica prevista en el presente Decreto.
