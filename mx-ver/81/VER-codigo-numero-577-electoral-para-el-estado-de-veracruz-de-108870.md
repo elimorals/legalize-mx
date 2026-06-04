@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-electoral-para-el-estado-de-veracruz-de-10887
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-01"
-last_updated: "2026-05-28"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 2. EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE L
 
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 28 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 4 DE JUNIO DE 2026.
 
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 
@@ -8539,17 +8539,21 @@ V. Se exceda el gasto de campaña en un cinco por ciento del monto total autoriz
 
 VI. Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la legislación aplicable;
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2026)</small>
 
-VII. Se reciban o utilicen recursos públicos en las campañas; o
+VII. Se reciban o utilicen recursos públicos en las campañas;
 
-> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2026)</small>
 
-VIII. Se acredite violencia política en razón de género.
+VIII. Se acredite violencia política en razón de género; o
 
-> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2026)</small>
 
-Respecto de las causales contenidas en las fracciones IV, V, VI, VII y VIII deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+IX. Se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales.
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2026)</small>
+
+Respecto de las causales contenidas en las fracciones IV, V, VI, VII, VIII y IX deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
 
 En caso de nulidad de la elección, se convocará a elección extraordinaria, en la que no podrá participar la persona sancionada.
 
@@ -9800,3 +9804,11 @@ Sexto. En cumplimiento de lo previsto por el artículo Octavo Transitorio del De
 Quedan expresamente prohibidas las ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas y cualquier otro mecanismo que tenga por objeto o por efecto incrementar directamente el presupuesto del Congreso del Estado por encima del límite previsto en el último párrafo de la fracción XXVIII del artículo 33 de la Constitución Política del Estado y en el presente artículo transitorio.
 
 Cualquier disposición, determinación presupuestaria o acto de autoridad que contravenga lo establecido en el presente transitorio será nulo de pleno derecho.
+
+G.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 519 POR EL QUE SE REFORMAN LAS FRACCIONES VII Y VIII, Y EL PÁRRAFO SEGUNDO, Y SE ADICIONA LA FRACCIÓN IX, DEL ARTÍCULO 396 DEL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto iniciará su vigencia a partir del día de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
