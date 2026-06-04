@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2026-05-15"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -1057,19 +1057,43 @@ Niñas, niños y adolescentes tienen derecho a ser escuchados y tomados en cuent
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, están obligados a disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+Toda autoridad en el ámbito de su competencia deberá garantizar mecanismos institucionales permanentes, formales y accesibles que generen efectos reales y vinculantes en los procesos de toma de decisiones públicas.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE JUNIO DE 2026)</small>
+
+Las autoridades de los tres órdenes de gobierno deberán garantizar que la opinión de las niñas, niños y adolescentes:
+
+I. Sea recabada mediante mecanismos adecuados a su edad, madurez, contexto cultural, social, comunitario, lingüístico y condición;
+
+II. Sea analizada de manera obligatoria en los procesos de toma de decisiones; y
+
+III. Genere una respuesta fundada y motivada sobre su incorporación o no en las decisiones adoptadas.
+
 ###### Artículo 71.
 
 Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan, en los términos señalados por el Capítulo Décimo Octavo de la presente Ley.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
 
 ###### Artículo 72.
 
 Niñas, niños y adolescentes tienen derecho a que las diferentes instancias gubernamentales, en los tres órdenes de gobierno les informen, de manera clara y accesible, cómo ha sido valorada y tomada en cuenta su opinión en los asuntos que les afectan.
 
+Dicha participación deberá incorporarse de manera transversal en el diseño, elaboración, implementación, seguimiento y evaluación de políticas públicas, planes, programas, acciones y decisiones gubernamentales que les afecten directa o indirectamente, asegurando que sus opiniones sean escuchadas, valoradas y tomadas en cuenta de forma efectiva, conforme al principio del interés superior de la niñez.
+
 Para garantizar el ejercicio de este derecho, las autoridades deberán elaborar y comunicar dicha información en formatos de lectura fácil, adecuados a su edad, desarrollo y nivel de comprensión.
 
 La información proporcionada deberá asegurar el pleno respeto de sus derechos a la participación, al acceso a la información, a la seguridad jurídica, al debido proceso y demás derechos humanos, en observancia del principio de interés superior de la niñez.
+
+Las autoridades deberán generar como mínimo los siguientes mecanismos de evaluación:
+
+I. Generar indicadores de participación efectiva;
+
+II. Publicar dentro de sus informes anuales los resultados; y
+
+III. Evaluar el impacto de la participación en las políticas públicas y acciones gubernamentales implementadas.
 
 ### CAPÍTULO DÉCIMO SEXTO. DEL DERECHO DE ASOCIACIÓN Y REUNIÓN
 
@@ -2398,3 +2422,13 @@ P.O. 15 DE MAYO DE 2026.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de inicio de vigencia del decreto por el que se reforma el párrafo tercero del artículo 6o. de la Constitución Política del Estado de Campeche, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 237 POR EL QUE “SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 70 Y, SE REFORMA EL ARTÍCULO 72 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las autoridades estatales y municipales deberán realizar las adecuaciones administrativas, operativas y presupuestarias necesarias para la implementación progresiva de los mecanismos previstos en el presente decreto, conforme al principio de disponibilidad presupuestaria y progresividad de los derechos humanos.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
