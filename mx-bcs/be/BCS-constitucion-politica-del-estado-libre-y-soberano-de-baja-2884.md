@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2026-05-31"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE JUNIO DE 2026.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -939,6 +939,10 @@ No podrán reunirse dos o más de estos poderes en una sola persona o corporaci�
 
 40.- El poder Legislativo se deposita en una Asamblea que se denominará "Congreso del Estado de Baja California Sur".
 
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2026)</small>
+
+En su integración y funcionamiento deberán garantizarse los principios de paridad, igualdad sustantiva y perspectiva de género.
+
 #### SECCION II. DE LA ELECCION E INSTALACION DEL CONGRESO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
@@ -1358,6 +1362,10 @@ XXXI.- Aprobar, y en su caso modificar, el Presupuesto de Egresos del Estado y f
 Cuando por cualquier circunstancia no llegare a aprobarse la Ley de Ingresos del Estado, se aplicara la que se haya aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Asimismo, cuando también por cualquier circunstancia no se aprobare el presupuesto de Egresos del Estado, se aplicara el que se haya aprobado y publicado con la fecha mas reciente en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2026)</small>
+
+XXXI BIS.- Aprobar anualmente su Presupuesto de Egresos, el cual no podrá exceder del cero punto setenta por ciento del monto total del Presupuesto de Egresos del Estado del año correspondiente.
 
 XXXII.- Informarse de las facultades del Gobernador cuando éste tome medidas de emergencia en caso de desastre;
 
@@ -2545,9 +2553,9 @@ Los resultados del ejercicio de dichos recursos serán evaluados por las instanc
 
 El Municipio posee personalidad jurídica y patrimonio propio y goza de plena autonomía para normar directa y libremente las materias de su competencia, así como para establecer sus órganos de gobierno interior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE JULIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE JUNIO DE 2026)</small>
 
-118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta; misma que se celebrará el primer domingo de junio de cada tres años en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. La elección se celebrará el primer domingo de junio de cada tres años en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
 > <small>(ADICIONADO, B.O. 23 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3345,7 +3353,17 @@ II. Ningún servidor público podrá recibir remuneración, en términos de la f
 
 III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente.
 
-IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE JUNIO DE 2026)</small>
+
+IV.- No se podrán adquirir o contratar con recursos públicos, seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones, que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2026)</small>
+
+Bajo estas mismas condiciones tampoco se concederán ni cubrirán jubilaciones, pensiones, haberes de retiro, créditos o préstamos, así como liquidaciones por servicios prestados.
+
+> <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2026)</small>
+
+Todos estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
@@ -5070,3 +5088,17 @@ B.O. 31 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 3284 SE ADICIONA UN PÁRRAFO OCTAVO AL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3288 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja california Sur.
+
+SEGUNDO. Los ajustes económicos o reducciones presupuestales que el Congreso del Estado implemente para no exceder el límite previsto en la fracción XXXI BIS del artículo 64 del presente decreto surtirán sus efectos a partir del día 01 de septiembre de 2027.
+
+Los ajustes o reducciones referidos en el párrafo anterior, dejarán a salvo y no afectarán las remuneraciones que en efectivo o en especie perciben las trabajadoras y trabajadores de Base del Poder Legislativo que forman parte de las organizaciones sindicales legalmente reconocidas y que tienen firmadas condiciones generales de trabajo con las autoridades de dicho Poder. De igual forma, los ajustes económicos o reducciones presupuestales no afectarán sus derechos laborales entre los que se incluyen el derecho a la inamovilidad y a la estabilidad en el cargo.
+
+TERCERO. Los recursos públicos que provengan de los ajustes o reducciones presupuestales señalados en el artículo transitorio anterior se destinarán a obras de infraestructura pública conforme a la propuesta que para tal efecto incluya el Gobernador del Estado en el proyecto de Presupuesto de Egresos del Estado correspondiente al ejercicio fiscal del año 2027, garantizando en todo momento los principios de legalidad, honradez, transparencia y austeridad.
+
+CUARTO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente decreto.
