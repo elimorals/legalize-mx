@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2026-03-25"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -45,13 +45,17 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 1º.
 
-La presente Ley es de orden público, interés social y observancia general. Tiene por objeto regular las acciones de coordinación interinstitucional, del Estado con la Federación, y los municipios, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, en concordancia a lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y la competencia y atribuciones que la misma le otorga, así como establecer los principios y criterios que, desde la perspectiva de género, orienten la elaboración de presupuestos públicos, las políticas públicas y las medidas administrativas necesarias para reconocer, promover, proteger y garantizar el derecho de las mujeres a una vida libre de violencia que favorezca su desarrollo y bienestar, de conformidad con los principios de igualdad y de no discriminación establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de San Luis Potosí y en los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
+La presente Ley es de orden público, interés social y observancia general. Tiene por objeto regular las acciones de coordinación interinstitucional del Estado con la Federación y los municipios, para prevenir, atender, sancionar y erradicar las violencias contra las mujeres, en concordancia con los (sic) dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y la competencia y atribuciones que la misma le otorga; así como establecer los principios y criterios que, desde la perspectiva de género, orienten la elaboración de presupuestos públicos, las políticas públicas y las medidas administrativas necesarias para reconocer, promover, proteger y garantizar el derecho de las mujeres a una vida libre de violencias que favorezca su desarrollo y bienestar, de conformidad con los principios de igualdad y no discriminación establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de San Luis Potosí y en los Tratados Internacionales en materia de Derechos Humanos de las Mujeres, ratificados por el Estado Mexicano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 2º.
 
-Los principios rectores para el acceso de todas las mujeres a una vida libre de violencia que deberán ser observados en la elaboración y ejecución de las políticas públicas son:
+Los principios rectores para el acceso de todas las mujeres a una vida libre de violencias que deberán ser observados en la elaboración y ejecución de las políticas públicas son:
 
 I. La igualdad jurídica entre la mujer y el hombre;
 
@@ -60,6 +64,10 @@ II. El respeto a la dignidad humana de las mujeres;
 III. La no discriminación, y
 
 IV. La libertad de las mujeres.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+El Estado y los municipios, en el ámbito de sus respectivas competencias, expedirán las normas legales y adoptarán las medidas presupuestales y administrativas correspondientes para garantizar el derecho de las mujeres a una vida libre de violencias, a través de acciones reforzadas de protección, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de San Luis Potosí, los Tratados Internacionales en materia de Derechos Humanos de las Mujeres ratificados por el Estado mexicano y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
 
 ###### ARTÍCULO 3º.
 
@@ -123,7 +131,9 @@ VII Ter. Interseccionalidad: Es una herramienta analítica para estudiar, entend
 
 VIII. Secretaría: Secretaría de las Mujeres e Igualdad Sustantiva;
 
-IX. Ley General: la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+IX. Ley General: la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias;
 
 X. Misoginia: son conductas de odio contra la mujer que se manifiestan en actos violentos y crueles contra ella por el hecho de ser mujer;
 
@@ -141,19 +151,47 @@ XV. Programa: el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar 
 
 XV BIS. Registro Nacional: El Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños, en seguimiento de los términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-XVI. Sistema Estatal: el Sistema Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
 
-XVII. Sistema Nacional: el Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+XVI. Sistema Estatal: el Sistema Estatal para la Prevención, Atención, Sanción y Erradicación de las Violencias contra las Mujeres;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XVII. Sistema Nacional: el Sistema Nacional de Prevención, Atención, Sanción y Erradicación de las Violencias contra las Mujeres;
 
 XVIII. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
 
 XIX. Víctima indirecta: familiares de la víctima y/o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida contra las mujeres, y
 
-XX. Violencia contra las Mujeres: cualquier acción u omisión no accidental que perjudique a las mujeres, basada en su género, que les cause daño psicológico, físico, patrimonial, económico, sexual o la muerte.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XX. Violencia y/o violencias contra las Mujeres: cualquier acción u omisión o el conjunto de estas, basada en su género, que les cause o pretenda causarles daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público; y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XXI. Revictimización: Conjunto de acciones u omisiones, intencionales o no, que reproducen, agravan o prolongan el daño sufrido por una persona que ya ha sido víctima de un delito, violación a derechos humanos o situación de violencia, especialmente cuando estas provienen de autoridades, instituciones, medios de comunicación o del entorno social durante los procesos de denuncia, atención, investigación, juzgamiento o difusión del caso.
+
+Implica que la persona afectada vuelva a experimentar sufrimiento físico, psicológico, emocional, social o simbólico, como consecuencia de prácticas tales como:
+
+Tratos indignos, descalificación o culpabilización de la víctima.
+
+a) a) Interrogatorios reiterados, innecesarios o insensibles.
+
+b) Exigencia de relatar múltiples veces los hechos traumáticos.
+
+c) Falta de confidencialidad o exposición pública de su identidad.
+
+d) Retrasos injustificados, negligencia o inacción institucional.
+
+e) Estereotipos de género, discriminación o prejuicios.
+
+f) Falta de perspectiva de derechos humanos, género, niñez o interculturalidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 4º.
 
-Para efecto de la aplicación de los programas y acciones del Estado y los municipios, que deriven del cumplimiento de la presente Ley y del Programa Estatal, así como para la interpretación de este Ordenamiento, se entiende que los tipos de violencia que se presentan contra las mujeres son:
+Para efecto de la aplicación de los programas y acciones del Estado y los municipios, que deriven del cumplimiento de la presente Ley y del Programa Estatal, así como para la interpretación de este Ordenamiento, se entiende que los tipos de violencia y/o violencias que se presentan contra las mujeres son:
 
 I. Violencia contra el derecho a la libre elección de cónyuge o pareja: toda acción u omisión, sea o no por conveniencia, tradición, costumbre, o práctica cultural, que limite, vulnere o restrinja el derecho de las mujeres a elegir libre, informada y voluntariamente a su cónyuge o pareja;
 
@@ -200,6 +238,10 @@ VIII. Violencia feminicida: es la forma extrema de violencia de género contra l
 IX. Violencia física: cualquier acto material, no accidental, que inflige daño a la mujer a través del uso de la fuerza física, armas u objetos, que en determinadas condiciones, puedan provocar o no lesiones ya sean internas, externas, o ambas;
 
 X. Violencia Institucional: actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen, o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. También constituirá violencia institucional cuando los órganos de procuración y administración de justicia emitan resoluciones o que contengan prejuicios basados en el género, patrones estereotipados de comportamiento o prácticas sociales y culturales fundadas en conceptos de inferioridad de las mujeres o de subordinación a los hombres;
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+X BIS. Violencia Simbólica. Es una manifestación de la discriminación estructural contra las mujeres, que se expresa a través de prácticas, mensajes, valores, símbolos, representaciones o expresiones de carácter público, privado o masivo que, de manera directa o indirecta, reproducen estereotipos de género y refuerzan relaciones desiguales de poder, atribuyendo una condición de inferioridad o subordinación jurídica social o cultural a las mujeres frente a los hombres.
 
 XI. Violencia laboral: la negativa ilegal a contratar a la víctima, o a respetar su permanencia, sus oportunidades de ascenso, la posibilidad de mejorar su sueldo, de obtener igual salario por igual trabajo o las condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la imposición de requisitos sexistas en la forma de vestir, la exclusión de género en ciertos cargos por la edad, la solicitud o requerimiento de presentar certificado médico de no embarazo para el ingreso, permanencia o ascenso en el empleo o para el ejercicio o disfrute de cualquier otro derecho laboral, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley, la explotación y todo tipo de discriminación por condición de género;
 
@@ -465,13 +507,17 @@ VI. Procurar la instalación y el mantenimiento de refugios para las víctimas y
 
 VII. En los casos de violencia vicaria proporcionar atención y tratamientos psicológicos especializados y gratuitos a las víctimas, que favorezcan la reunificación familiar entre las hijas e hijos con la madre con el objetivo de reparar el daño causado derivado de dicha modalidad de violencia.
 
-## TÍTULO TERCERO. SISTEMA ESTATAL PARA LA PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JUNIO DE 2026)</small>
+
+## TÍTULO TERCERO. SISTEMA ESTATAL PARA LA PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LAS VIOLENCIAS CONTRA LAS MUJERES
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 14.
 
-El Sistema Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales y de las organizaciones de la sociedad civil para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+El Sistema Estatal para la Prevención, Atención, Sanción y Erradicación de las Violencias contra las Mujeres, tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales y de las organizaciones de la sociedad civil para la prevención, atención, sanción y erradicación de las violencias contra las mujeres.
 
 Todas las acciones y programas que lleven a cabo el Poder Ejecutivo y los municipios del Estado deberán efectuarse sin discriminación alguna; por ello, para que las mujeres puedan tener acceso a las políticas públicas en la materia, en condiciones de igualdad, se considerará cualquier condición que coloque a las mujeres en estado de desigualdad o diferencia respecto al resto de la población.
 
@@ -547,9 +593,9 @@ III. Elaborar, aprobar y evaluar el Programa, que incluya los mecanismos para pr
 
 IV. Diseñar un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
 
-V. Establecer un Banco Estatal de Información sobre la Violencia contra las Mujeres, que integre la información y estadísticas de todas las instituciones, dependencias, entidades y organismos relacionados con la materia. Este Banco será operado por la Secretaría Ejecutiva del Sistema, en coordinación con la Secretaría de Seguridad y Protección Ciudadana;
+V. Establecer un Banco Estatal de Información sobre las Violencias contra las Mujeres, que integre la información y estadísticas de todas las instituciones, dependencias, entidades y organismos relacionados con la materia. Este Banco será operado por la secretaria ejecutiva del Sistema, en coordinación con la secretaria de Seguridad y Protección Ciudadana;
 
 VI. Llevar un registro administrativo de las sentencias condenatorias sobre hostigamiento o acoso sexual, con los nombres de los agresores, guardando el anonimato de la o las quejosas, con la información que le hagan llegar las instancias que reciban dichas quejas o denuncias;
 
@@ -557,7 +603,9 @@ VI. Llevar un registro administrativo de las sentencias condenatorias sobre host
 
 VII. Constituir un Banco de Datos sobre Órdenes de Protección y Personas Sujetas a ellas, que estará a cargo de la Secretaría, quien podrá crear una comisión específica en coordinación y con la participación de por lo menos la Secretaría de Seguridad y Protección Ciudadana, la Fiscalía General del Estado, el Poder Judicial del Estado, el Centro de Justicia para las Mujeres de la Entidad y los Refugios para las Víctimas de Violencia en el Estado, con el fin de apoyar las acciones de política criminal y otras que correspondan, así como facilitar el intercambio de información entre las instancias y determinar de manera anual la información y los indicadores que los entes obligados deberán reportar al mismo. Al efecto, las autoridades jurisdiccionales y administrativas que generen y ejecuten órdenes y/o medidas de protección, deberán reportar la información conducente a dicho Banco, con el fin de que se genere la información estadística correspondiente;
 
-VIII. Participar, a través de su Presidente, en la elaboración del Programa Nacional Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+VIII. Participar, a través de su Presidente, en la elaboración del Programa Nacional Integral para Prevenir, Atender, Sancionar y Erradicar las Violencias contra las Mujeres;
 
 IX. Coadyuvar en la adopción y consolidación del Sistema Nacional, colaborando a través de su Presidente, con las autoridades federales competentes para la implementación de acciones de gobierno en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
@@ -575,7 +623,9 @@ XV. Impulsar programas reeducativos integrales de los agresores, y canalizarlos 
 
 XVI. Rendir un informe anual sobre los avances en la materia;
 
-XVII. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las mujeres, y elaborar estadísticas e indicadores con base en los resultados que arroje el Banco Estatal de Información sobre la Violencia contra las Mujeres, y el Banco de Datos sobre Órdenes de Protección y Personas Sujetas a ellas;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XVII. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las mujeres, y elaborar estadísticas e indicadores con base en los resultados que arroje el Banco Estatal de Información sobre las Violencias contra las Mujeres, y el Banco de Datos sobre Órdenes de Protección y Personas Sujetas a ellas;
 
 XVIII. Revisar y evaluar la eficacia de las acciones, las políticas públicas y los programas estatales, con base en los resultados de las investigaciones previstas en la fracción anterior y, emitir, en su caso, las recomendaciones conducentes a las instancias que corresponda;
 
@@ -873,9 +923,13 @@ II. Conducir, en ausencia de quien preside, las sesiones del Sistema;
 
 III. Proponer para su aprobación al Sistema Estatal, el diseño del Programa, con una visión transversal que contenga la política integral orientada a la prevención, atención, sanción, erradicación de los delitos y conductas violentas contra las mujeres;
 
-IV. Realizar considerando la información, indicadores y estadísticas del Banco Estatal de Información sobre la Violencia contra las Mujeres, y el Banco de Datos sobre Órdenes de Protección y Personas Sujetas a ellas, un diagnóstico estatal y estudios complementarios de manera periódica, con perspectiva de género, sobre todas las formas de violencia contra las mujeres por rangos de edad y en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres, y presentarlas al Sistema a fin de que éste realice las recomendaciones necesarias a las instancias que deban reorientar sus políticas públicas, programas, obras o acciones;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
 
-V. Integrar al Banco Estatal de Información sobre la Violencia contra las Mujeres, las investigaciones promovidas por las dependencias de la administración pública estatal y, en su caso, municipales, sobre las causas, características y consecuencias de la violencia en contra de las mujeres, para tomar las medidas pertinentes hacia la erradicación de la violencia;
+IV. Realizar considerando la información, indicadores y estadísticas del Banco Estatal de Información sobre las Violencias contra las Mujeres, y el Banco de Datos sobre Órdenes de Protección y Personas Sujetas a ellas, un diagnóstico estatal y estudios complementarios de manera periódica, con perspectiva de género, sobre todas las formas de violencia contra las mujeres por rangos de edad y en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres, y presentarlas al Sistema a fin de que éste realice las recomendaciones necesarias a las instancias que deban reorientar sus políticas públicas, programas, obras o acciones;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+V. Integrar al Banco Estatal de Información sobre las Violencias contra las Mujeres, las investigaciones promovidas por las dependencias de la administración pública estatal y, en su caso, municipales, sobre las causas, características y consecuencias de la violencia en contra de las mujeres, para tomar las medidas pertinentes hacia la erradicación de la violencia;
 
 VI. Evaluar las medidas de prevención, atención y erradicación, con base en la información derivada a cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en el Estado y municipios;
 
@@ -941,7 +995,9 @@ VII. Participar en la elaboración y ejecución del Programa, y en el diseño de
 
 VIII. Promover la participación de los sectores social y privado en la asistencia a las víctimas de violencia, para lo cual se auxiliará de los patronatos, asociaciones o fundaciones y de las personas particulares interesadas;
 
-IX. Registrar la información estadística en materia de violencia contra las mujeres y reportarla al Banco Estatal de Información sobre Violencia contra las Mujeres;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+IX. Registrar la información estadística en materia de violencia contra las mujeres y reportarla al Banco Estatal de Información sobre Violencias contra las Mujeres;
 
 X. Desarrollar programas de intervención temprana para prevenir la violencia contra las mujeres en las regiones del Estado que reporten mayor incidencia, en coordinación con el Instituto, la Secretaría de Educación de (sic) Gobierno del Estado, con los sistemas municipales DIF y demás instituciones que se requiera;
 
@@ -1001,7 +1057,9 @@ d) Las demás que sea necesaria para la elaboración de estadísticas.
 
 En todos los casos deberá reservarse de proporcionar los nombres, domicilios y demás datos personales de las víctimas;
 
-XII. Proporcionar al Banco Estatal de Información sobre la Violencia contra las Mujeres, información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres así como a las demás instancias encargadas de realizar estadísticas;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XII. Proporcionar al Banco Estatal de Información sobre las Violencias contra las Mujeres, información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres así como a las demás instancias encargadas de realizar estadísticas;
 
 XIII. Promover, a través de la Fiscalía Especializada para la Atención de Delitos Electorales, el respeto de los derechos humanos político-electorales de las mujeres;
 
@@ -1091,7 +1149,9 @@ III. Orientar al Sistema Estatal en la interpretación de la legislación existe
 
 IV. Las demás que le asigne el Sistema Estatal y sean acordes a la naturaleza de su competencia.
 
-## TÍTULO SEXTO. PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JUNIO DE 2026)</small>
+
+## TÍTULO SEXTO. PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LAS VIOLENCIAS CONTRA LAS MUJERES
 
 ### CAPÍTULO ÚNICO
 
@@ -1175,7 +1235,9 @@ II. De naturaleza jurisdiccional: las emitidas por los órganos encargados de la
 
 III. De naturaleza político-electoral.
 
-Las órdenes de protección tendrán una duración de hasta sesenta días, prorrogables por treinta días más, o por el tiempo que dure la investigación, o prolongarse hasta que cese la situación de riesgo para la víctima.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+Las órdenes de protección en delitos contra mujeres, niñas, niños y adolescentes, deberán estar vigentes todo el tiempo que sea necesario para garantizar la reparación del daño o hasta que finalice la situación de riesgo, o bien, se actualice alguno de los supuestos de cancelación expresamente previstos en la ley.
 
 Deberán expedirse de manera inmediata, o a más tardar dentro de las cuatro horas siguientes al conocimiento de los hechos que las generan.
 
@@ -1461,9 +1523,9 @@ Las autoridades que intervengan en el cumplimiento de una orden, también serán
 
 ARTÍCULO 42 SEPTIES. A ninguna mujer o niña, y sus hijas e hijos en situación de violencia, que solicite orden de protección, se les podrá requerir que acredite su situación migratoria, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección.
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
 
-ARTÍCULO 42 OCTIES. Las órdenes de protección deberán ser registradas en el Banco Estatal de Datos sobre la Violencia contra las Mujeres.
+ARTÍCULO 42 OCTIES. Las órdenes de protección deberán ser registradas en el Banco Estatal de Datos sobre las Violencias contra las Mujeres.
 
 > <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
@@ -1621,6 +1683,10 @@ VII. Contar con el personal debidamente capacitado, especializado en la materia 
 
 VIII. Todas aquéllas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+En los supuestos establecidos en las fracciones III, IV y VI los refugios contarán con personal traductor o intérprete en lengua materna o lengua de señas mexicanas, en caso de no tenerlo, podrán auxiliarse de las instituciones del estado correspondientes.
+
 ###### ARTÍCULO 50.
 
 Los refugios deberán contar con las medidas estrictas de seguridad, para la salvaguarda de la integridad física de las mujeres víctimas de violencia y sus hijas e hijos.
@@ -1679,33 +1745,41 @@ La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses
 
 En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
-## TÍTULO NOVENO. DEL BANCO ESTATAL DE INFORMACIÓN SOBRE LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JUNIO DE 2026)</small>
+
+## TÍTULO NOVENO. DEL BANCO ESTATAL DE INFORMACIÓN SOBRE LAS VIOLENCIAS CONTRA LAS MUJERES
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 54.
 
-El Banco Estatal de Información sobre la Violencia contra las Mujeres es un instrumento de carácter estratégico, para el acopio, sistematización y análisis de información documental, técnica, de investigación, y especialmente estadística, que permite al Sistema Estatal contar con elementos que posibiliten medir y evaluar la magnitud de la violencia contra las mujeres y los avances que se generen en materia de prevención, sanción y erradicación de la misma, así como proponer la reorientación de políticas públicas en la materia, a las dependencias, entidades e instituciones que las apliquen en el Estado y los municipios.
+El Banco Estatal de Información sobre las Violencias contra las Mujeres es un instrumento de carácter estratégico, para el acopio, sistematización y análisis de información documental, técnica, de investigación, y especialmente estadística, que permite al Sistema Estatal contar con elementos que posibiliten medir y evaluar la magnitud de la violencia contra las mujeres y los avances que se generen en materia de prevención, sanción y erradicación de la misma, así como proponer la reorientación de políticas públicas en la materia, a las dependencias, entidades e instituciones que las apliquen en el Estado y los municipios.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 55.
 
-El Banco Estatal de Información sobre la Violencia contra las Mujeres, estará a cargo del Instituto en su carácter de Secretaría Técnica del Sistema, de manera conjunta con la Secretaría de Seguridad y Protección Ciudadana; ambas instituciones deberán coordinarse con las distintas dependencias, entidades y organismos públicos y privados que generen información sobre la materia para disponer los mecanismos a través de los cuales alimentarán la información de dicho Banco.
+El Banco Estatal de Información sobre las Violencias contra las Mujeres, estará a cargo del Instituto en su carácter de Secretaria Técnica del Sistema, de manera conjunta con la Secretaria de Seguridad y Protección Ciudadana; ambas instituciones deberán coordinarse con las distintas dependencias, entidades y organismos públicos y privados que generen información sobre la materia para disponer los mecanismos a través de los cuales alimentarán la información de dicho Banco.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 56.
 
-Todas las dependencias, entidades, instituciones, y organismos públicos y privados que prevengan, atiendan, presten servicios, o estén relacionadas directa o indirectamente con la prevención, atención, sanción y erradicación de la violencia contra las mujeres en el Estado y los municipios de la Entidad, están obligadas a entregar la información con la que cuenten al Banco Estatal de Información sobre la Violencia contra las Mujeres, y a atender las recomendaciones y propuestas que les haga el Sistema Estatal, para reorientar sus políticas, programas, obras y acciones en la materia.
+Todas las dependencias, entidades, instituciones, y organismos públicos y privados que prevengan, atiendan, presten servicios, o estén relacionadas directa o indirectamente con la prevención, atención, sanción y erradicación de la violencia contra las mujeres en el Estado y los municipios de la Entidad, están obligadas a entregar la información con la que cuenten al Banco Estatal de Información sobre las Violencias contra las Mujeres, y a atender las recomendaciones y propuestas que les haga el Sistema Estatal, para reorientar sus políticas, programas, obras y acciones en la materia.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 57.
 
-El Instituto, y la Secretaría de Seguridad y Protección Ciudadana, presupuestarán en tiempo y forma los recursos necesarios para la operación y funcionamiento del Banco Estatal de Información sobre la Violencia contra las Mujeres.
+El Instituto, y la Secretaria de Seguridad y Protección Ciudadana, presupuestarán en tiempo y forma los recursos necesarios para la operación y funcionamiento del Banco Estatal de Información sobre las Violencias contra las Mujeres.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 58.
 
-El Instituto publicará trimestralmente la información general y estadística actualizada sobre los casos de violencia contra las mujeres, contenida en el Banco Estatal de Información sobre la Violencia contra las Mujeres.
+El Instituto publicará trimestralmente la información general y estadística actualizada sobre los casos de violencia contra las mujeres, contenida en el Banco Estatal de Información sobre las Violencias contra las Mujeres.
 
 ## TÍTULO DÉCIMO. CENTROS DE REHABILITACIÓN PARA AGRESORES
 
@@ -1966,3 +2040,11 @@ P.O. 25 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0494.- QUE REFORMA LOS ARTÍCULOS 4° Y 37, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0541.- QUE REFORMA DIVERSAS DISPOSICIONES Y DENOMINACIONES DE TÍTULOS, Y REALIZA ADICIONES A DIVERSOS ARTÍCULOS, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
