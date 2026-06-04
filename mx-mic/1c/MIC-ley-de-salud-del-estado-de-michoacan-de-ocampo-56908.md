@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2026-05-28"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -3281,31 +3281,39 @@ Los interesados podrán hacer valer la prescripción, por la vía de excepción.
 
 ## TÍTULO SÉPTIMO. ENFERMEDADES DE ATENCIÓN PRIORITARIAS
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JUNIO DE 2026)</small>
 
-### CAPÍTULO I. LA INSUFICIENCIA RENAL
+### CAPÍTULO I. ENFERMEDAD RENAL CRÓNICA
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 262.
 
-Se considera como paciente con insuficiencia renal o fallo renal, a todo aquel que presente dificultad en la eliminación adecuada de las toxinas y otras sustancias de desecho de la sangre fisiológicamente, la insuficiencia renal se presenta como una disminución en el flujo plasmático renal, lo que se manifiesta en una presencia elevada de creatinina en el suero.
+Se considerará paciente con enfermedad renal crónica a toda persona que presente alteraciones estructurales o funcionales del riñón de carácter persistente, con repercusión en su salud, y que requiera acciones de prevención, detección oportuna, seguimiento médico, tratamiento integral y, en su caso, terapias de sustitución renal, conforme a la normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 263.
 
-Las autoridades sanitarias, promoverán en el Estado, programas de atención médica para la prevención, detección oportuna y atención integral de la insuficiencia renal, así como de los recursos presupuestales necesarios para:
+Las autoridades sanitarias del Estado, en coordinación con las instituciones del Sistema Nacional de Salud, promoverán la prevención, detección oportuna y atención integral de la enfermedad renal crónica y, para tal efecto, deberán:
 
-I. Desarrollar y ejecutar programas de prevención, diagnóstico, tratamiento y atención médica de la insuficiencia renal;
+I. Difundir campañas permanentes de educación y comunicación orientadas a la prevención de la enfermedad renal crónica, que incluyan información sobre factores de riesgo, hábitos de vida saludables y métodos de detección temprana, en colaboración con los sectores educativo y de salud;
 
-II. El tratamiento de la insuficiencia renal;
+II. Facilitar el acceso a las pruebas diagnósticas esenciales incluidas en los catálogos o instrumentos de cobertura emitidos por la autoridad sanitaria federal competente, privilegiando el uso de infraestructura y convenios ya existentes;
 
-III. Realizar campañas de información sobre la insuficiencia renal, sus principales causas, factores de riesgo y métodos preventivos;
+III. Optimizar y, cuando resulte viable, ampliar la infraestructura y el equipamiento disponibles en las unidades públicas de terapia de sustitución renal;
 
-IV. Realizar estudios de investigación con la finalidad de identificar las regiones con mayor índice de riesgo de enfermedades renales; y,
+IV. Incorporar, dentro de las plataformas epidemiológicas existentes, la información de las personas diagnosticadas con enfermedad renal crónica, a fin de fortalecer la planeación y la continuidad en la atención;
 
-V. Las demás que sean necesarias para la atención medica de la insuficiencia renal que se presenten en la población.
+V. Promover la referencia y contrarreferencia oportunas, así como la atención interdisciplinaria de las personas con enfermedad renal crónica, de conformidad con la normatividad aplicable, incluyendo el acceso a trasplante renal en unidades acreditadas;
+
+VI. Impulsar la formación y actualización del personal de salud en el abordaje integral de la enfermedad renal;
+
+VII. Coordinarse con las autoridades educativas competentes para incorporar contenidos sobre salud renal en los planes y programas de estudio;
+
+VIII. Fomentar controles periódicos en poblaciones de riesgo para monitorear la evolución de la enfermedad renal y prevenir complicaciones; y,
+
+IX. Las demás acciones previstas en esta Ley y en las disposiciones aplicables que contribuyan a mejorar la calidad y cobertura de la atención en salud renal.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
@@ -3333,7 +3341,9 @@ II. Promover y establecer mecanismos para la coordinación de esfuerzos en mater
 
 III. Elaborar anualmente un informe que contenga los datos estadísticos, como las tasas de mortalidad y morbilidad de la insuficiencia renal; y,
 
-IV. Promover la realización de estudios de investigación con la finalidad de identificar los factores de riesgo, principales causas, métodos de prevención y tratamiento de la insuficiencia renal.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+IV. Promover la realización de estudios de investigación con la finalidad de identificar los factores de riesgo, principales causas, métodos de prevención y tratamiento de la enfermedad renal crónica, particularmente en lo relativo a la detección de diabetes e hipertensión, al ser éstas las principales causas de dicha enfermedad, con especial énfasis en la población infantil, así como promover, en el ámbito de sus atribuciones, el fortalecimiento de la atención especializada para mujeres embarazadas con enfermedad renal crónica, conforme a la normatividad aplicable.
 
 ## TRANSITORIOS
 
@@ -3914,3 +3924,13 @@ P.O. 28 DE MAYO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Las acciones derivadas del presente Decreto se implementarán de manera progresiva, conforme a la disponibilidad presupuestaria, tecnológica, de infraestructura y de recursos humanos de las autoridades competentes.
+
+P.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 456 POR EL QUE "SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO SÉPTIMO, LOS ARTÍCULOS 262, 263; Y, LA FRACCIÓN IV DEL ARTÍCULO 265 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La aplicación de las disposiciones contenidas en el presente Decreto se realizará con cargo al presupuesto autorizado de las dependencias y entidades competentes, por lo que no se autorizarán ampliaciones presupuestales adicionales para el ejercicio fiscal correspondiente.
+
+TERCERO. En un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Educación en el Estado, en coordinación con las instancias competentes, incorporará orientaciones pedagógicas sobre salud renal en los planes y programas de estudio aplicables.
