@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-sanidad-vegetal-e-inocuidad-agricola-del-estado-de-15094
 country: "mx"
 rank: "ley"
 publication_date: "2021-05-08"
-last_updated: "2021-05-08"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SANIDAD VEGETAL E INOCUIDAD AGRÍCOLA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el sábado 8 de mayo de 2021.
 
@@ -100,6 +100,10 @@ XVI. Prevención: conjunto de medidas fitosanitarias basadas en estudios epidemi
 XVII. Punto de Verificación e Inspección Interna (PVI): instalación fija o móvil, ubicada en sitio estratégico para vigilancia de la movilización de embarques de plantas y sus productos, para proteger, conservar o mejorar el estatus de la sanidad de los cultivos.
 
 XVIII. Plaga: agente biológico presente en un área determinada, que causa enfermedad o alteración en la salud de la población vegetal;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XVIII BIS. Plaguicida: Insumo fitosanitario destinado a prevenir, repeler, combatir y destruir a los organismos biológicos nocivos a los vegetales, sus productos o subproductos;
 
 XIX. Rastreabilidad: proceso que permite dar seguimiento a un problema epidemiológico para determinar su causa, debiendo seguir un sistema retrospectivo que permite garantizar la ubicación de cada sector de la movilización;
 
@@ -754,3 +758,13 @@ El Secretario General de Gobierno
 Jorge Daniel Hernández Delgadillo
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0546.- QUE REALIZA ADICIÓN AL ARTÍCULO 4°, DE LA LEY DE SANIDAD VEGETAL E INOCUIDAD AGRÍCOLA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
