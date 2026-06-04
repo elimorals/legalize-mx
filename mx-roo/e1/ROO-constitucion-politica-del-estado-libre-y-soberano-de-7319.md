@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2026-05-29"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1265,9 +1265,9 @@ Dicho sistema fijará los plazos convenientes para el desahogo de todas las inst
 
 La Ley deberá estipular las causales de nulidad de las elecciones de la persona titular del Poder Ejecutivo Estatal, Diputaciones Locales, las personas titulares de las Magistraturas y de los Juzgados del Poder Judicial e integrantes de los Ayuntamientos.
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
 
-Formarán parte del sistema de nulidades de las elecciones locales por violaciones graves, dolosas y determinantes cuando se exceda el gasto de campaña en un cinco por ciento del monto total autorizado; se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley; se reciba o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+Formarán parte del sistema de nulidades de las elecciones locales por violaciones graves, dolosas y determinantes cuando se exceda el gasto de campaña en un cinco por ciento del monto total autorizado; se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley; se reciba o utilicen recursos de procedencia ilícita o recursos públicos en las campañas; se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2021)</small>
 
@@ -6924,3 +6924,13 @@ OCTAVO. Los recursos públicos que resulten como economías o ahorros en el pres
 NOVENO. El mecanismo de asignación de representación proporcional para diputaciones establecido en el artículo 54, fracción I, inciso a) de la Constitución Política del Estado Libre y Soberano de Quintana Roo, será aplicable a partir del proceso electoral del año 2027.
 
 DÉCIMO. Se derogan las disposiciones que se opongan a lo establecido en el presente decreto.
+
+P.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA NÚMERO: 006 POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DE LA FRACCIÓN V, DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor una vez publicada la reforma a la Constitución Política de los Estados Unidos Mexicanos en la materia, en el Diario Oficial de la Federación, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo, revisarán y adecuarán sus disposiciones reglamentarias, normativas y administrativas para garantizar el cumplimiento de lo previsto en el presente decreto.
+
+TERCERO. Se derogan las disposiciones que se opongan a lo establecido en el presente decreto.
