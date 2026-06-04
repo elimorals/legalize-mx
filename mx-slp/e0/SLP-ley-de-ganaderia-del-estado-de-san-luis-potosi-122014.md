@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ganaderia-del-estado-de-san-luis-potosi-122014"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2026-03-03"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado de San Luis Potosí, el sábado 20 de mayo de 2017.
 
@@ -285,9 +285,17 @@ V. Fomentar y apoyar la innovación, transferencia de tecnología y desarrollo t
 
 VI. Fomentar e impulsar la acción educativa en el medio rural, facilitando y ampliando el ingreso a las instituciones de educación superior;
 
-VII. Determinar los mecanismos de coordinación entre las instituciones públicas federal, estatal, municipal o privadas que incidan en el sector rural, con la participación de las organizaciones de productores, en los procesos de planeación, regulación, fomento y promoción del desarrollo pecuario, pesquero, y acuícola, del Estado, y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
 
-VIII. Desarrollar una actividad pecuaria en orden, sustentando el aprovechamiento y preservación de los recursos naturales, su potencial productivo y su entorno ecológico, prevaleciendo los coeficientes de agostaderos de las diferentes zonas del Estado.
+VII. Determinar los mecanismos de coordinación entre las instituciones públicas federal, estatal, municipal o privadas que incidan en el sector rural, con la participación de las organizaciones de productores, en los procesos de planeación, regulación, fomento y promoción del desarrollo pecuario, pesquero, y acuícola, del Estado;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+VIII. Desarrollar una actividad pecuaria en orden, sustentando el aprovechamiento y preservación de los recursos naturales, su potencial productivo y su entorno ecológico, prevaleciendo los coeficientes de agostaderos de las diferentes zonas del Estado, y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+IX. Incorporar la perspectiva de género en la planeación, regulación, fomento y desarrollo de la actividad pecuaria, garantizando la igualdad sustantiva, la participación efectiva de las mujeres, el acceso equitativo a los recursos productivos, apoyos, capacitación, tecnología y oportunidades del sector.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
@@ -918,6 +926,10 @@ V. Concesiones o contratos para abastecimiento, servicios y obras que el gobiern
 VI. Subsidios en efectivo o en especie destinados al fomento de la ganadería, y
 
 VII. Cualesquier otra (sic) prerrogativas o franquicias que de acuerdo con las leyes, el Ejecutivo pueda conceder, para un mejor desarrollo de la ganadería.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 37 BIS. Poder Ejecutivo deberá incorporar un enfoque de igualdad de género, a fin de asegurar que las mujeres dedicadas a la actividad pecuaria, particularmente en zonas rurales, tengan acceso equitativo a recursos, proyectos productivos y programas de impulso al campo.
 
 ###### ARTÍCULO 38.
 
@@ -2310,6 +2322,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0473.- QUE REALIZA ADICIÓN AL ARTÍCULO 2, DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0544.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 9º Y ADICIONA EL ARTÍCULO 37 BIS, DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
