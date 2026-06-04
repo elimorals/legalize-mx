@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-movilidad-y-seguridad-vial-del-estado-de-michoacan-16661
 country: "mx"
 rank: "ley"
 publication_date: "2023-06-02"
-last_updated: "2026-03-23"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2026.
 
 Ley publicada en la Novena Sección del Número 7 del Periódico Oficial del Estado de Michoacán, el viernes 2 de junio de 2023.
 
@@ -83,7 +83,9 @@ IX. Establecer la coordinación entre el Estado y los Municipios para integrar y
 
 X. Implementar los esquemas de coordinación institucional y la delimitación de las atribuciones para el cumplimiento de los objetivos y fines de los programas de fomento a la cultura y educación vial;
 
-XI. Desarrollar las bases para salvaguardar la integridad y derechos de las personas, preservando el libre tránsito, el orden y la paz pública, a través de la aplicación de las sanciones por infracciones administrativas, en términos de esta Ley y demás disposiciones normativas aplicables;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XI. Desarrollar las bases para salvaguardar la integridad y los derechos de las personas usuarias de la vía, garantizando el libre tránsito en condiciones de seguridad vial, mediante la implementación de medidas preventivas, educativas y correctivas en términos de esta Ley y demás disposiciones aplicables.
 
 XII. Establecer las bases para salvaguardar la integridad y derechos de las víctimas de hechos de tránsito, a través de la debida atención, seguimiento y acompañamiento, los mecanismos de reparación del daño, así como para la aplicación de las sanciones correspondientes, en términos de esta Ley y demás disposiciones normativas aplicables;
 
@@ -248,6 +250,12 @@ XXX. Ley General: A la Ley General de Movilidad y Seguridad Vial;
 XXXI. Ley: A la Ley de Movilidad y Seguridad Vial del Estado de Michoacán de Ocampo;
 
 XXXII. Licencia: La autorización que de manera material o virtual concede el Estado a una persona física, por tiempo determinado, para conducir u operar vehículos, acreditando sus condiciones psicofísicas y aptitudes para conducir;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XXXII BIS. Materiales peligrosos, sustancias y/o residuos peligrosos:
+
+Aquellos materiales, sustancias o residuos que, por sus características físicas, químicas o biológicas, representan un riesgo para la seguridad vial, la salud de las personas, los bienes o el medio ambiente, y que se encuentren clasificados, conforme a la Legislación Federal aplicable y a las Normas Oficiales Mexicanas correspondientes;
 
 XXXIII. Modalidad: Los diversos tipos de servicio de transporte de personas y bienes con determinadas características en sus flotillas, itinerarios y horarios, autorizados por el Instituto;
 
@@ -825,9 +833,11 @@ Los municipios realizarán las adecuaciones correspondientes a su regulación mu
 
 En la aplicación de la presente Ley y su Reglamento, concurrirán el Estado y los Municipios, en los ámbitos de sus respectivas competencias y conforme a las atribuciones que establece el presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
+
 ###### Artículo 37.
 
-Para la imposición de sanciones con motivo de comisión de infracciones en materia de tránsito, el Estado y los municipios ejercerán tal facultad de manera concurrente en el ámbito de su competencia de conformidad con la presente Ley y los reglamentos aplicables.
+Para la imposición de sanciones con motivo de la comisión de infracciones, así como de medidas preventivas, educativas y correctivas en materia de tránsito, el Estado y los municipios ejercerán sus facultades de manera concurrente en el ámbito de su competencia, de conformidad con la presente Ley y los reglamentos aplicables.
 
 ###### Artículo 38.
 
@@ -2039,6 +2049,12 @@ Las personas conductoras y/o operadoras, deberán atender a su vez, las disposic
 
 El Reglamento de la presente Ley establecerá los procedimientos que permitan asegurar el cumplimiento de las disposiciones de este artículo.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+Artículo 107 bis. El transporte de materiales peligrosos, sustancias y/o residuos peligrosos dentro del territorio del Estado de Michoacán de Ocampo; en vías de jurisdicción estatal y municipal, los vehículos destinados al transporte de materiales, sustancias y/o residuos peligrosos deberán circular bajo un enfoque de seguridad vial y gestión del riesgo, con sujeción a la legislación y normatividad federal aplicable.
+
+Para efectos de lo anterior, las autoridades estatales y municipales, en el ámbito de sus competencias, podrán establecer medidas de regulación del tránsito, tales como rutas preferentes o restringidas, dispositivos de control vial, señalización preventiva y otras acciones de gestión del riesgo, conforme a la Legislación Federal aplicable y a las Normas Oficiales Mexicanas correspondientes.
+
 ###### Artículo 108.
 
 Los vehículos de procedencia extranjera podrán circular libremente en el territorio del (sic) Estatal, y previo aviso correspondiente de manera transitoria y contando con el permiso de importación temporal otorgado por las autoridades hacendarias, así como con las placas y tarjeta de circulación o su equivalente en su país de origen, ningún otro documento, holograma, placa o elemento no expedido por la autoridad competente podrá amparar la autorización para circular en territorio estatal.
@@ -2517,7 +2533,9 @@ III. Infraestructura de Elementos Incorporados: Todas las vialidades deberán te
 
 IV. Infraestructura Verde: Es aquella compuesta por la masa vegetal insertada y/o conservada en el espacio urbano que tiene como finalidad una serie de servicios ambientales a nivel micro y macro, como proporcionar sombra, filtración de agua, protección de fauna local;
 
-V. Señalización vertical y horizontal: Son los elementos que informan a las personas usuarias del espacio público las condicionantes de la calle, como puede ser espacios permitidos para estacionamiento, cruces peatonales, paradas de transporte público, área de carga y descarga, así como información del contexto urbano y sitios de interés; y,
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+V. Señalización vertical y horizontal: Son los elementos que informan a las personas usuarias del espacio público las condicionantes de la calle, como puede ser espacios permitidos para estacionamiento, cruces peatonales, paradas de transporte público, área de carga y descarga, así como información del contexto urbano y sitios de interés, cuando la misma se coloque en calles y carreteras. Cuando dicha señalización se ubique en vías de comunicación que atraviesen, conecten o formen parte de Lenguas Indígenas o de Lengua de Señas Mexicana o Regional, se procurarán incorporar, de manera complementaria y progresiva, información correspondiente, atendiendo a la disponibilidad presupuestaria y a las disposiciones aplicables.
 
 VI. Dispositivos de control de tránsito: Conjunto de señales, marcas, dispositivos diversos y demás elementos que se colocan en las vías con el objeto de prevenir, regular y guiar la circulación de personas peatonas y vehículos que cumplan con el criterio de diseño universal, garantizando su adecuada visibilidad en todo momento.
 
@@ -4410,3 +4428,15 @@ P.O. 23 DE MARZO DE 2026.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Notifíquese al Titular del Poder Ejecutivo para los efectos que considere procedentes.
+
+P.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 452 POR EL QUE "SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 3, EL ARTÍCULO 37 Y LA FRACCIÓN V DEL ARTÍCULO 161; Y, SE ADICIONA LA FRACCIÓN XXXII BIS AL ARTÍCULO 6 Y EL ARTÍCULO 107 BIS DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Urbano y Movilidad y en coordinación con la Coordinación Estatal de Protección Civil, expedirá los lineamientos operativos necesarios para la implementación del presente Decreto en materia de circulación en vías de jurisdicción estatal y municipal de vehículos que transporten materiales, sustancias y/o residuos peligrosos, en el ámbito de sus respectivas competencias, con cargo al presupuesto autorizado y sin generar erogaciones adicionales.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Urbano y Movilidad del Estado de Michoacán, en coordinación con los municipios, realizará de manera gradual la adecuación de la señalización vertical y horizontal prevista en el presente Decreto, conforme a la disponibilidad presupuestaria aprobada en los ejercicios fiscales correspondientes, utilizando los recursos autorizados.
+
+CUARTO. El Titular del Poder Ejecutivo del Estado, a través de las autoridades competentes, así como los municipios, en el ejercicio de sus respectivas atribuciones, deberán llevar a cabo la revisión, adecuación y armonización de sus reglamentos, disposiciones administrativas y protocolos de actuación en materia de tránsito.
