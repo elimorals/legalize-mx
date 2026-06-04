@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2026-03-31"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -832,6 +832,10 @@ Cuando se trate de un parto múltiple se levantará un acta por cada uno de los 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2020)</small>
 
 ARTÍCULO 79 BIS. En el registro de nacimientos, la verificación del documento de identidad emitido en el extranjero, podrá realizarse a través de los medios electrónicos que establezca el Registro Nacional de Población.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 79 TER. Será sancionado en los términos que establezca con la Ley de Responsabilidades, al Oficial que, sin causa justificada, niegue el registro de nacimiento de una o un menor, aún y cuando se hayan cumplido todos los requisitos que establece la Ley.
 
 ### CAPÍTULO III. De las actas de Reconocimiento de Hijos
 
@@ -1780,5 +1784,13 @@ P.O. 31 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0504.- QUE REFORMA EL ARTÍCULO 63, DE LA LEY DE REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0545.-QUE ADICIONA EL ARTÍCULO 79 TER, A LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
