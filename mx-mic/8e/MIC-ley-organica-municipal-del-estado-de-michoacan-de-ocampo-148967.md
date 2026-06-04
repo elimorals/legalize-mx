@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2026-01-14"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -1311,9 +1311,25 @@ IV. Impulsar las estrategias y propuestas necesarias para que sean incluidas en 
 
 V. Coadyuvar con las instancias y áreas competentes en la implementación, diseño y aplicación de una política pública con perspectiva de derechos humanos de la infancia y adolescencia en los órganos, entidades, mecanismos, instancias, leyes, normas, políticas, servicios y presupuestos, del Ayuntamiento, para que se respete, promueva, proteja, restituya y restablecer los derechos de las Niñas, Niños y Adolescentes;
 
-VI. Coadyuvar con las diferentes dependencias estatales y municipales que tengan como fin la protección integral de los derechos de las Niñas, Niños y Adolescentes, para que se les brinde atención y asesoría a las niñas, niños y adolescentes en situación de vulnerabilidad; y,
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
 
-VII. Las demás que le señale esta Ley u otras disposiciones aplicables.
+VI. Coadyuvar con las diferentes dependencias estatales y municipales que tengan como fin la protección integral de los derechos de las Niñas, Niños y Adolescentes, para que se les brinde atención y asesoría a las niñas, niños y adolescentes en situación de vulnerabilidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JUNIO DE 2026)</small>
+
+VII. Promover la asignación prioritaria, suficiente y progresiva de recursos en los proyectos de egresos del municipio, destinados a garantizar los derechos de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+VIII. Fomentar el cumplimiento de las obligaciones de ascendientes, tutores y personas encargadas del cuidado de niñas, niños y adolescentes, en materia de protección contra toda forma de abuso, trato digno, orientación, educación en derechos y prevención del maltrato;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+IX. Promover y garantizar mecanismos efectivos de participación activa y protagónica de niñas, niños y adolescentes en los asuntos públicos municipales que les afecten, de acuerdo a su edad, madurez y evolución; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JUNIO DE 2026)</small>
+
+X. Las demás que le señale esta Ley u otras disposiciones aplicables.
 
 ###### Artículo 56.
 
@@ -1373,7 +1389,9 @@ III. Promover, en el ámbito de su competencia, la preservación y la restauraci
 
 IV. Fomentar la prevención de la contaminación de aguas que el municipio tenga asignadas o concesionadas;
 
-V. Supervisar el cumplimiento de las disposiciones sobre residuos sólidos, aguas residuales, drenaje, alcantarillado y saneamiento;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+V. Supervisar el cumplimiento de las disposiciones sobre residuos sólidos, aguas residuales, drenaje, alcantarillado y saneamiento, así como promover e impulsar acciones orientadas al manejo diferenciado de materiales de carácter tecnológico o electrónico en desuso, mediante esquemas de reciclaje, reutilización, disposición responsable y educación ambiental;
 
 VI. Establecer las medidas para evitar la emisión de contaminantes a la atmósfera;
 
@@ -3752,5 +3770,17 @@ P.O. 14 DE ENERO DE 2026.
 P.O. 14 DE ENERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 322 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 192 Y 193; Y, SE ADICIONA EL ARTÍCULO 192 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 454 POR EL QUE "SE REFORMAN LAS FRACCIONES VI Y VII; Y, SE ADICIONAN LAS FRACCIONES VIII, IX Y X TODAS DEL ARTÍCULO 55 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 455.- ÚNICO. SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 57 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
