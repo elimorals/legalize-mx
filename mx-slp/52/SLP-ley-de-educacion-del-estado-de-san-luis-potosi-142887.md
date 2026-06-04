@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2026-05-22"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -77,11 +77,25 @@ III. Autoridad educativa municipal: La Dirección, Órgano o Dependencia compete
 
 IV. Autoridades escolares: El personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares;
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
 
-V. Educación sexual integral y reproductiva: Comprende los aspectos educativos sobre la sexualidad humana en todas las edades del desarrollo, que debe considerar al menos, el aparato reproductor femenino y masculino, la orientación sexual e identidad de género, las relaciones sexuales seguras, reproductivos y la autonomía reproductiva, y
+V. Educación sexual integral y reproductiva: Comprende los aspectos educativos sobre la sexualidad humana en todas las edades del desarrollo, que debe considerar al menos, el aparato reproductor femenino y masculino, la orientación sexual e identidad de género, las relaciones sexuales seguras, reproductivos y la autonomía reproductiva;
 
-VI. Secretaría: La Secretaría de Educación de Gobierno del Estado.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+VI. Secretaría: La Secretaría de Educación de Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+VII. Publicidad educativa: Toda comunicación, anuncio o mensaje, difundido por cualquier soporte, medio o plataforma, incluidos medios digitales, electrónicos y redes sociales cuyo objeto sea promover, ofrecer o difundir servicios educativos al público, y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+VIII. Particulares: Personas físicas o morales de carácter privado que impartan servicios educativos en el Estado de San Luis Potosí, con autorización, y en su caso, con reconocimiento de validez oficial de estudios, otorgados por la autoridad educativa estatal, así como quienes ofrezcan o impartan servicios educativos sin dicho reconocimiento.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+Lo previsto en este artículo deberá interpretarse en concurrencia y sin perjuicio de las atribuciones exclusivas de la Federación y de lo establecido en la Ley General de Educación.
 
 ###### ARTÍCULO 5°.
 
@@ -1691,19 +1705,39 @@ Las autorizaciones y los reconocimientos de validez oficial de estudios se otorg
 
 I. Con personal docente que acredite la preparación adecuada para impartir educación;
 
-II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad, de protección civil, pedagógicas y de accesibilidad que la autoridad otorgante determine, en coadyuvancia con las autoridades competentes, conforme a los términos previstos en las disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+II. Con dictámenes, certificados, constancias o documentos emitidos por autoridades competentes, que acrediten que las instalaciones e infraestructura cumplen con las condiciones de higiene, seguridad, protección civil y accesibilidad, conforme a lo establecido en esta Ley y demás disposiciones aplicables, y
 
 III. Con planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la inicial, preescolar, la primaria, la secundaria, la normal, y demás para la formación de maestros de educación básica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 134.
 
-La autoridad educativa estatal publicará, en el Periódico Oficial del Gobierno del Estado, “Plan de San Luis” y en su portal electrónico, una relación de las instituciones a las que hayan concedido autorización o reconocimiento de validez oficial de estudios. Asimismo, publicarán, oportunamente y en cada caso, la inclusión o la supresión en dicha lista de las instituciones a las que se les revoquen o retiren las autorizaciones o reconocimientos respectivos, así como aquellas que sean clausuradas.
+La autoridad educativa estatal publicará, en el Periódico Oficial del Estado, “Plan de San Luis” y en su portal electrónico, una relación de las instituciones a las que hayan concedido autorización o reconocimiento de validez oficial de estudios. Asimismo, publicarán, oportunamente y en cada caso, la inclusión o la supresión en dicha lista de las instituciones a las que se les revoquen o retiren las autorizaciones o reconocimientos respectivos, así como aquellas que sean clausuradas.
 
 De igual manera indicará en dicha publicación, los resultados una vez que aplique las evaluaciones que, dentro del ámbito de sus atribuciones y de conformidad con lo dispuesto por la Ley General de Educación, esta Ley y demás disposiciones aplicables, les correspondan.
 
 Las autoridades educativas deberán entregar a las escuelas particulares un reporte de los resultados que hayan obtenido sus docentes y alumnos en las evaluaciones correspondientes.
 
-Los particulares que impartan estudios con autorización o con reconocimiento deberán mencionar en la documentación que expidan y en la publicidad que hagan, una Leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, modalidad en que se imparte, domicilio para el cual se otorgó, así como la autoridad que lo emitió.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+Los particulares que impartan estudios con autorización o con reconocimiento de validez oficial de estudios, deberán incluir, en toda documentación o publicación relacionada con la prestación u oferta del servicio educativo que imparta, por cualquier medio, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, la modalidad en que se imparte y el domicilio para el cual se otorgó, así como la autoridad que lo emitió.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+La documentación o publicación relacionada con la prestación u oferta del servicio educativo que imparten deberá ajustarse a los lineamientos que emita la autoridad educativa estatal y serán objeto de verificación por la unidad administrativa competente, conforme al procedimiento que se establezca en el reglamento aplicable y previo pago de los derechos que determine la Ley de Ingresos del Estado de San Luis Potosí para el Ejercicio Fiscal respectivo.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 134 BIS. La publicidad educativa observará los principios de veracidad, verificabilidad, claridad, completitud, identificación de su carácter y ausencia de inducción al error, conforme a lo previsto en la legislación aplicable. Dichos principios deberán interpretarse en congruencia con las disposiciones federales en materia de accesibilidad universal, sin que ello implique la creación de obligaciones adicionales a las ya contempladas en la normativa federal vigente.
+
+Las instituciones educativas privadas estarán sujetas a la verificación estatal exclusivamente en materia educativa, en términos de los artículos, 7° y demás relativos de la Ley General de Educación. La supervisión en materia de protección al consumidor corresponde a la Federación, conforme a los artículos, 32 y 35 de la Ley Federal de Protección al Consumidor.
+
+En lo no previsto en esta Ley, será aplicable lo dispuesto por la Ley General de Educación y demás ordenamientos federales conducentes.
+
+Lo anterior se entenderá en concurrencia y sin perjuicio de las atribuciones exclusivas de la Federación ni de lo establecido en la Ley General de Educación.
 
 ###### ARTÍCULO 135.
 
@@ -1721,15 +1755,43 @@ V. Cumplir y colaborar en las actividades de evaluación y vigilancia que las au
 
 VI. Proporcionar la información que sea requerida por las autoridades;
 
-VII. Entregar a la autoridad educativa la documentación e información necesaria que permitan verificar el cumplimiento de los requisitos para seguir impartiendo educación, conforme a los lineamientos emitidos para tal efecto;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
 
-VIII. Solicitar el refrendo del reconocimiento de validez oficial de estudios al término de la vigencia que se establezca, en los términos de esta Ley y demás disposiciones aplicables, y
+VII. Entregar documentación e información para verificar requisitos para impartir y/o ofertar educación en el Estado;
 
-IX. Dar aviso a la autoridad educativa competente el cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectiva, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+VIII. Solicitar el refrendo del reconocimiento de validez oficial de estudios al término de la vigencia que se establezca, en los términos de esta Ley y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+IX. Dar aviso a la autoridad educativa competente del cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectivo, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación, y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+X. Garantizar un ambiente libre de violencia física, sexual y mental, mediante protocolos autorizados por la Secretaría de Educación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 136.
 
-Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
+Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo de manera expresa en su correspondiente documentación y en la publicidad que dirijan al público. Asimismo, deberán:
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+I. Registrar su operación ante la Secretaría de Educación de Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+II. Cubrir los derechos que, en su caso, determine la Ley de Ingresos del Estado de San Luis Potosí para el ejercicio fiscal que corresponda;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+III. Solicitar autorización de su publicidad educativa; y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+IV. No usar logos, escudos o símbolos oficiales del Gobierno del Estado sin autorización expresa.
 
 ### Capítulo II. Mecanismos para el Cumplimiento de los Fines de la Educación Impartida por los Particulares
 
@@ -1737,9 +1799,23 @@ Los particulares que presten servicios por los que se impartan estudios sin reco
 
 Con la finalidad de que la educación que impartan los particulares cumpla con los fines establecidos en la Constitución Política de los Estados Unidos Mexicanos, las autoridades que otorguen autorizaciones y reconocimientos de validez oficial de estudios llevarán a cabo, dentro del ámbito de su competencia, acciones de vigilancia por lo menos una vez al año, a las instituciones que imparten servicios educativos respecto de los cuales concedieron dichas autorizaciones o reconocimientos, o que, sin estar incorporadas al Sistema Educativo Nacional, deban cumplir con las disposiciones de la Ley General de Educación y de la presente Ley; además podrán requerir en cualquier momento información o documentación relacionada con la prestación u oferta del servicio educativo.
 
-Para efectos del presente artículo, las personas usuarias de estos servicios prestados por particulares podrán solicitar a las autoridades educativas correspondientes, la realización de acciones de vigilancia con objeto de verificar el cumplimiento de las disposiciones y requisitos para impartir educación en los términos de este Título, incluido el aumento de los costos que carezcan de justificación y fundamentación conforme a las disposiciones legales aplicables o que hayan sido establecidos en los instrumentos jurídicos que rigen las relaciones para la prestación de ese servicio.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+Para efectos del presente artículo, las personas usuarias de estos servicios prestados por particulares podrán solicitar mediante la presentación de una queja, a las autoridades educativas correspondientes, la realización de acciones de vigilancia conforme a lo establecido en los artículos 143, 145, 146, 147, 148, 150, 151, 152, 153, 154, 155, 157, 158, 159, 160, 161, 162, 163, 164, 165, y 166 de esta Ley, con objeto de verificar el cumplimiento de las disposiciones y requisitos para impartir educación en los términos de este Título, incluido el aumento de los costos que carezcan de justificación y fundamentación conforme a las disposiciones legales aplicables o que hayan sido establecidos en los instrumentos jurídicos que rigen las relaciones para la prestación de ese servicio.
 
 Derivado de las acciones de vigilancia, si las autoridades respectivas identifican que los particulares han aumentado los costos en la prestación de los servicios educativos sin apego a las disposiciones aplicables en la materia, darán aviso a las autoridades competentes para los efectos a los que haya lugar.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 137 BIS. La autoridad educativa estatal podrá ordenar visitas de inspección de verificación respecto de solicitudes de incorporación o modificaciones-al (sic) acuerdo de incorporación o de reconocimiento de validez oficial, para verificar el cumplimiento de requisitos de higiene, protección civil, accesibilidad y demás aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 137 TER. Las visitas de inspección ordinarias se realizarán al menos una vez al año, para verificar el cumplimiento del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación, de esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 137 QUÁTER. Las visitas de inspección extraordinarias, procederán cuando exista hecho susceptible de constituir infracción o riesgo a los derechos de los educandos.
 
 ###### ARTÍCULO 138.
 
@@ -1793,9 +1869,33 @@ XXIII. Condicionar la prestación del servicio público de educación a la adqui
 
 XXIV. Omitir dar a conocer por escrito a las personas usuarias de los servicios educativos, previamente a la inscripción para cada ciclo escolar, el costo total de la colegiatura o cualquier otra contraprestación;
 
-XXV. Difundir o transmitir datos personales sin consentimiento expreso de su titular o, en su caso, de la madre y padre de familia o tutor, y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
 
-XXVI. Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
+XXV. Difundir o transmitir datos personales sin consentimiento expreso de su titular o, en su caso, de la madre y padre de familia o tutor;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XXVI. Incumplir cualesquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XXVII. Realizar el cambio de propietario sin solicitar a la Autoridad educativa Estatal la autorización o el reconocimiento de validez oficial de estudios, o la autorización previa de la autoridad educativa que lo incorporó;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XXVIII. Difundir por cualquier medio publicidad educativa que omita la información obligatoria prevista en el artículo 134 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XXIX. Difundir publicidad educativa con datos inexactos, caducos o inexistentes relativos a la autorización o reconocimiento de validez oficial de estudios, incorporaciones o al nivel o plan de estudios;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XXX. No solicitar el registro de publicidad educativa previo a su difusión; y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+XXXI. Obstaculizar las visitas de verificación y vigilancia o no atender requerimientos de información relacionados con la publicidad educativa.
 
 Para el caso de infracciones cometidas por trabajadores de la educación del Gobierno del Estado y de los ayuntamientos, éstos serán sancionados conforme a las disposiciones aplicables para ello.
 
@@ -1805,17 +1905,33 @@ Las infracciones enumeradas en el artículo anterior serán sancionadas de la si
 
 I. Imposición de multa, para lo cual se estará a los siguientes criterios:
 
-a) Multa por el equivalente a un monto mínimo de cien y hasta un monto máximo de mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones I, II, III, IV, V, VI, VIII, X, XV, XVI, XXIII y XXIV del artículo 138 de esta Ley.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
 
-b) Multa por el equivalente a un monto mínimo de mil y hasta un monto máximo de siete mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones XI, XII, XX, XXI, XXII, XXV y XXVI del artículo 138 de esta Ley.
+a) Multa por el equivalente a un monto mínimo de quinientas y hasta un monto máximo de mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones I, II, III, IV, V, VI, VIII, X, XV, XVI, XXIII, XXIV, XXVII, XXVIII, XXIX y XXX del artículo 138 de esta Ley.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+b) Multa por el equivalente a un monto mínimo de mil y hasta un monto máximo de siete mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones XI, XII, XVIII, XX, XXI, XXII, XXV, XXVI y XXXI del artículo 138 de esta Ley.
 
 c) Multa por el equivalente a un monto mínimo de siete mil y hasta un monto máximo de quince mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones VII y XIII del artículo 138 de esta Ley.
 
 Las multas impuestas podrán duplicarse en caso de reincidencia;
 
-II. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente respecto a las infracciones señaladas en las fracciones IX y XIV del artículo 138 de esta Ley. La imposición de esta sanción no excluye la posibilidad de que sea impuesta alguna multa de las señaladas en el inciso b) de la fracción anterior, o
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
 
-III. Clausura del plantel, respecto a las infracciones señaladas en las fracciones XVII, XVIII y XIX del artículo 138 de esta Ley.
+II. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente, respecto a las infracciones señaladas en las fracciones IX, XIV, XVI, XX y XXVII del artículo 138 de esta Ley. La imposición de esta sanción no excluye la posibilidad de que sea impuesta alguna multa de las señaladas en los incisos a) y b) de la fracción anterior. Esta sanción podrá imponerse en caso de reincidencia, de acuerdo a la gravedad de los hechos que la autoridad educativa que lo incorporó determine;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+III. Clausura del plantel, respecto a las infracciones señaladas en las fracciones XVII, XVIII y XIX del artículo 138 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+IV. Ordenar al particular propietario de la institución educativa el cumplimiento de sus obligaciones y/o corrección de las infracciones que contravengan lo dispuesto en esta Ley así como las disposiciones legales aplicables, y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+V. Ordenar el retiro de su publicidad educativa.
 
 Si se incurriera en las infracciones establecidas en las fracciones XIII, XIV y XXVI del artículo anterior, se aplicarán las sanciones de este artículo, sin perjuicio de las penales y de otra índole que resulten.
 
@@ -1823,9 +1939,19 @@ Si se incurriera en las infracciones establecidas en las fracciones XIII, XIV y 
 
 Para determinar la sanción, se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socioeconómicas del infractor, el carácter intencional o no de la infracción, y si se trata de reincidencia.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+Respecto de las infracciones señaladas en las fracciones II, III, IV, V, VI, VIII, XXI, XXII y XXIV del artículo 138 de esta Ley, siempre y cuando no sea reincidente, si el particular se allanaré al procedimiento, esta circunstancia se tomará en consideración para determinar la multa en los montos mínimos de conformidad con lo establecido en el anterior artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 141.
 
-Las multas que imponga la autoridad educativa estatal serán ejecutadas por la instancia que determine la Secretaría de Finanzas del Estado de San Luis Potosí, a través de los procedimientos y disposiciones aplicables por dicho órgano, la que las integrará al presupuesto de la Secretaría de Educación y se destinarán a sus propios fines educativos.
+Las multas impuestas por la autoridad educativa estatal que no sean pagadas dentro del término establecido en la resolución correspondiente se constituirán en crédito fiscal y serán ejecutadas por la instancia que determine la Secretaría de Finanzas del Estado, conforme a los procedimientos y disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+Los montos obtenidos se integrarán al presupuesto de la Secretaría de Educación y se destinarán a sus fines educativos.
 
 ###### ARTÍCULO 142.
 
@@ -1879,7 +2005,21 @@ X. Plazo y domicilio donde debe presentarse el escrito de atención a las observ
 
 Al iniciar la visita, el servidor público comisionado deberá exhibir credencial oficial vigente con fotografía, expedida por la autoridad educativa y entregará en ese acto la orden de visita a la persona con quien se entienda la diligencia.
 
-Si al presentarse los visitadores al lugar donde deba realizarse la diligencia, no estuviere el visitado o su representante, dejarán citatorio con la persona que se encuentre en dicho lugar, para que el mencionado visitado o su representante los esperen a hora determinada del siguiente día hábil, para recibir la orden de visita; si no lo hicieren, ésta se iniciará con quien se encuentre en el lugar.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE JUNIO DE 2026)</small>
+
+Para la realización de las visitas de verificación previstas en esta Ley, sean ordinarias o extraordinarias, se estará al siguiente procedimiento:
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+I. Cuando al presentarse los visitadores no se encontrare el visitado o su representante legal, éstos dejarán citatorio o aviso con la persona que se encuentre en el lugar o lo fijarán de manera visible al exterior del inmueble, para que el visitado o su representante los espere a hora determinada del siguiente día hábil, a efecto de que la visita sea notificada y ejecutada en ese momento;
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+II. Si el visitado o su representante no se presentaren en la fecha señalada en el citatorio, la visita se entenderá notificada a quien se encuentre en el lugar y se llevará a cabo con esa persona, sin mayor dilación, y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+III. En el caso de visitas de verificación que deriven de una solicitud de incorporación o modificación del Acuerdo de Incorporación y/o del Reconocimiento de Validez Oficial de Estudios previamente otorgado, cuando la autoridad educativa advierta la probable comisión de alguna infracción prevista por el artículo 138 de esta Ley, se iniciará el procedimiento sancionador correspondiente, de manera independiente al trámite inicial.
 
 ###### ARTÍCULO 147.
 
@@ -2005,9 +2145,17 @@ Las medidas precautorias y correctivas a que se refiere el artículo anterior co
 
 I. La suspensión temporal o definitiva del servicio educativo;
 
-II. Ordenar la suspensión de información o publicidad que no cumpla con lo previsto en esta Ley, o
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
 
-III. Colocar sellos e información de advertencia en el plantel educativo.
+II. La orden de suspensión de información o publicidad que no cumpla con lo previsto en esta Ley;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+III. La colocación de sellos e información de advertencia en el plantel educativo, y
+
+> <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2026)</small>
+
+IV. El retiro de la publicidad educativa que contravenga esta Ley y los lineamientos emitidos por la autoridad educativa estatal.
 
 ###### ARTÍCULO 156.
 
@@ -2017,7 +2165,15 @@ La visita se tendrá por concluida, una vez que haya transcurrido el plazo de ci
 
 Para imponer una sanción, la autoridad educativa estatal deberá notificar previamente al particular del inicio del procedimiento, para que éste, dentro de los quince días hábiles siguientes, exponga lo que a su derecho convenga, adjunte los medios de prueba que obren en su poder y ofrezca las pruebas que ameriten algún desahogo.
 
-El particular deberá referirse a cada uno de los hechos expresados en el inicio del procedimiento. Los hechos respecto de los cuales no haga manifestación alguna, se tendrán por ciertos, salvo prueba en contrario. Lo mismo ocurrirá si no presenta su contestación dentro del plazo señalado en el párrafo anterior.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+El particular tendrá siempre el derecho de allanarse en cualquiera de las etapas del procedimiento, aceptando la comisión parcial o total de las infracciones por las que se instauró el procedimiento.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 157 BIS. Presentado el allanamiento por el particular, la autoridad educativa fijará fecha y hora para su ratificación. Ratificado el allanamiento, se procederá a dictar la resolución correspondiente dentro de los diez días hábiles siguientes, imponiendo las sanciones aplicables.
+
+El allanamiento procesal debe garantizar la legalidad y calidad del servicio educativo, promover la cultura de cumplimiento entre los prestadores de educación y proteger de manera efectiva el interés superior de las niñas, niños y adolescentes.
 
 ###### ARTÍCULO 158.
 
@@ -2029,9 +2185,25 @@ El desahogo de las pruebas ofrecidas y admitidas se realizará dentro de un plaz
 
 Concluido el desahogo de pruebas, y antes de dictar resolución, se pondrán las actuaciones a disposición de los interesados, para que, en su caso, en un plazo de diez días hábiles formulen alegatos, los que serán tomados en cuenta por la autoridad educativa estatal al dictar la resolución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 160.
 
-Transcurrido el plazo para formular alegatos, se procederá dentro de los diez días hábiles siguientes, a dictar por escrito la resolución definitiva que proceda. Se entenderán caducadas las actuaciones y se procederá a su archivo, a solicitud de parte interesada o de oficio, en el plazo de treinta días contados a partir de la expiración del plazo para dictar resolución.
+Transcurrido el plazo para formular alegatos, se dictará la resolución definitiva dentro de los diez días hábiles siguientes.
+
+> <small>[N. DE E. ESTE PÁRRAFO ESTABA INMERSO ANTERIORMENTE EN EL PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2026.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE JUNIO DE 2026)</small>
+
+Se entenderán caducadas las actuaciones y se procederá a su archivo, a solicitud de parte interesada o de oficio, si transcurren treinta días sin que se haya dictado resolución.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+Una vez dictada la resolución, la autoridad educativa deberá notificar personalmente al particular, quien contará con un plazo de quince días hábiles para cumplir voluntariamente lo ordenado.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2026)</small>
+
+Transcurrido dicho plazo sin cumplimiento, se procederá a la ejecución forzosa conforme al artículo 141 de esta Ley.
 
 ###### ARTÍCULO 161.
 
@@ -2280,3 +2452,17 @@ P.O. 22 DE MAYO DE 2026.
 PRIMERO. Esta reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan al presente decreto.
+
+P.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0542.- QUE REFORMA DIVERSAS DISPOSICIONES, Y REALIZA ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. A partir de la entrada en vigor de este Decreto, la autoridad educativa estatal contará con un plazo de 180 días naturales para emitir los lineamientos, los cuales se limitarán exclusivamente a aspectos educativos y no implicarán regulación en materia de protección al consumidor, competencia exclusiva de la Federación.
+
+TERCERO. Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto, continuarán, hasta su conclusión, regidos con las disposiciones normativas con las cuales se iniciaron.
+
+CUARTO. El Ejecutivo del Estado deberá realizar las gestiones necesarias para incorporar en la Ley de Ingresos del Estado de San Luis Potosí, las previsiones relativas a los derechos aplicables por los servicios derivados del registro de la publicidad educativa. Dichos derechos deberán establecerse conforme a los principios de legalidad, proporcionalidad, y destino específico del ingreso público, integrándose en la Ley de Hacienda del Estado para su plena vigencia y aplicación.
+
+QUINTO. Las instituciones educativas particulares dispondrán de un plazo de noventa días naturales, contado a partir de la publicación de los lineamientos a que se refiere el Artículo Segundo Transitorio, para adecuarse a lo previsto en este Decreto. Dicho proceso se llevará a cabo conforme al marco de concurrencia previsto en la legislación federal y respetando las atribuciones exclusivas de la Federación y lo dispuesto en la Ley General de Educación.
