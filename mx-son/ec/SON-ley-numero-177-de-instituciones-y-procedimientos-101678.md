@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-177-de-instituciones-y-procedimientos-101678"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2025-01-15"
+last_updated: "2026-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE JUNIO DE 2026.
 
 Ley publicada en el Número 52 Sección I del Boletín Oficial del Estado de Sonora, el lunes 30 de junio de 2014.
 
@@ -1427,7 +1427,9 @@ El presidente del Consejo General convocará a sesión ordinaria con 48 horas de
 
 Cuando el presidente del Consejo General o a petición de la mayoría de los consejeros electorales que lo consideren conveniente, podrán celebrar sesiones extraordinarias, las cuales deberán ser convocadas, cuando menos, con 24 horas de anticipación.
 
-Para la preparación del proceso electoral, el Consejo General se reunirá dentro de la primera semana del mes de septiembre del año anterior a aquél en que se celebren las elecciones ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará, por lo menos, 2 veces al mes.
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2026)</small>
+
+Para la preparación del proceso electoral, el Consejo General se reunirá dentro de la primera semana del mes de octubre del año anterior a aquél en que se celebren las elecciones ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará, por lo menos, 2 veces al mes.
 
 Concluido el proceso, el Instituto Estatal sesionará, en forma ordinaria, cada 2 meses, debiendo convocar, cuando menos, con 48 horas de anticipación a la celebración de la sesión.
 
@@ -2361,9 +2363,11 @@ La capacitación electoral y la ubicación e integración de las mesas directiva
 
 El proceso electoral es el conjunto de actos ordenados por la Constitución Federal, la Constitución Local, la Ley General, la Ley General de Partidos Políticos y la presente Ley, realizados por las autoridades electorales, los partidos políticos estatales y nacionales y los ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los Poderes Ejecutivo y Legislativo, y los Ayuntamientos en el (sic) entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE JUNIO DE 2026)</small>
+
 ###### Artículo 159.
 
-El proceso electoral ordinario se inicia en el mes de septiembre del año previo al de la elección y concluye con la declaración de validez de la elección respectiva y, en su caso, cuando las autoridades jurisdiccionales hayan resuelto el último de los medios de impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó ninguno.
+El proceso electoral ordinario se inicia en el mes de octubre del año previo al de la elección y concluye con la declaración de validez de la elección respectiva y, en su caso, cuando las autoridades jurisdiccionales hayan resuelto el último de los medios de impugnación que se hubieren interpuesto o cuando se tenga constancia de que no se presentó ninguno.
 
 Para los efectos de la presente Ley, el proceso electoral ordinario comprende las etapas siguientes:
 
@@ -2373,7 +2377,9 @@ II.- Jornada electoral; y
 
 III.- Resultados y declaraciones de validez de las elecciones.
 
-La etapa de preparación de la elección se inicia con la primera sesión que el Consejo General del Instituto Estatal celebre durante la primera semana del mes de septiembre del año previo al en que deban realizarse las elecciones ordinarias y concluye al iniciarse la jornada electoral.
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2026)</small>
+
+La etapa de preparación de la elección se inicia con la primera sesión que el Consejo General del Instituto Estatal celebre durante la primera semana del mes de octubre del año previo al en que deban realizarse las elecciones ordinarias y concluye al iniciarse la jornada electoral.
 
 La etapa de la jornada electoral se inicia a las 8:00 horas del primer domingo de junio y concluye con la clausura de la casilla.
 
@@ -6256,3 +6262,11 @@ El Pleno del Supremo Tribunal de Justicia del Poder Judicial del Estado entregar
 ###### ARTÍCULO VIGÉSIMO QUINTO.
 
 Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+B.O. 4 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 125, QUE REFORMA LOS ARTÍCULOS 118, PÁRRAFO TERCERO Y 159 PÁRRAFOS PRIMERO Y TERCERO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
