@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2025-12-12"
+last_updated: "2026-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2327,11 +2327,11 @@ ARTICULO 303 BIS.- Los acreedores alimentarios tendrán derecho preferente sobre
 
 En la adopción, se aplicará lo dispuesto por las reglas relativas al parentesco por consanguinidad, tratándose de la obligación de dar alimentos entre las personas que concurran en los términos del artículo 290 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 305.
 
-Los alimentos comprenden la comida, el vestido, la habitación y los gastos correspondientes a la asistencia en caso de enfermedad. Los alimentos para el concebido no nacido comprenden también los gastos de atención médica tanto para él como para la mujer embarazada, incluyendo los del parto. Respecto de las personas menores de dieciocho años de edad, se comprenden por alimentos, además, los gastos necesarios para la educación básica y la media superior obligatoria del alimentista y, para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo, capacidades, potencialidades y circunstancias personales. También comprende, la atención a las necesidades resultantes de algún tipo de trastorno del desarrollo, discapacidad y de sano esparcimiento.
+Los alimentos comprenden la comida, el vestido, la habitación y los gastos correspondientes a la asistencia en caso de enfermedad. Los alimentos para el concebido no nacido comprenden también los gastos de atención médica tanto para él como para la mujer embarazada, incluyendo los del parto. Respecto de las personas menores de dieciocho años de edad, se comprenden por alimentos, además, los gastos necesarios para la educación básica y la media superior obligatoria del alimentista y, para proporcionarle algún oficio, arte o profesión honestos, capacidades, potencialidades y circunstancias personales. También comprende, la atención a las necesidades resultantes de algún tipo de trastorno del desarrollo, discapacidad y de sano esparcimiento.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
@@ -2339,9 +2339,17 @@ Los alimentos comprenden la comida, el vestido, la habitación y los gastos corr
 
 La persona obligada a dar alimentos cumple la obligación asignando una pensión competente a la persona acreedora alimentaria, o incorporándola a la familia. Si la persona acreedora se opone a ser incorporada, compete a la Jueza o Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
-Aquella persona que incumpla con lo señalado con el párrafo anterior por un periodo de treinta días se constituirá en persona deudora alimentaria morosa. La Jueza o Juez de lo Familiar ordenará la inscripción en el Registro Nacional de Obligaciones Alimentarias, proporcionando los datos de identificación de la persona deudora alimentaria conforme a la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de pensiones alimenticias y las leyes locales.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 2026)</small>
 
-La persona deudora alimentaria morosa que acredite ante la Jueza o Juez que han sido pegados en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción.
+El pago de los alimentos, de acuerdo con las circunstancias y condiciones de cada caso, podrá retrotraerse a la fecha de nacimiento de la obligación, o bien incluso hasta la fecha de nacimiento de la persona acreedora alimentista, incluyendo los gastos de embarazo y parto. El derecho a recibir alimentos de manera retroactiva es imprescriptible y por tanto pueden ser reclamados en cualquier momento.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+Aquella persona que incumpla con lo señalado con el primer párrafo del presente artículo, por un periodo de treinta días se constituirá en persona deudora alimentaria morosa. La Jueza o Juez de lo Familiar ordenará la inscripción en el Registro Nacional de Obligaciones Alimentarias, proporcionando los datos de identificación de la persona deudora alimentaria conforme a la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de pensiones alimenticias y las leyes locales.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 5 DE JUNIO DE 2026)</small>
+
+La persona deudora alimentaria morosa que acredite ante la Jueza o Juez que han sido pagados en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
@@ -2349,13 +2357,13 @@ La persona deudora alimentaria morosa que acredite ante la Jueza o Juez que han 
 
 La persona deudora alimentista no podrá pedir que se incorpore a su familia la o el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación, tampoco lo podrá hacer cuando resulte del diagnóstico psicológico que es un entorno y/o presenta una personalidad violenta y que ponga en riesgo a las personas acreedoras, y/o cuente con denuncias previas por agresiones y violencia.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### ARTICULO 308.
 
-Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+Los alimentos han de ser proporcionados a la posibilidad de quien debe darlos y a la necesidad de quien debe recibirlos.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
-
-Los menores, las personas con discapacidad, los sujetos a estado de interdicción, los adultos mayores y el cónyuge que se dedique a las labores del hogar, gozarán de la presunción de necesidad de alimentos.
+Las niñas, niños y adolescentes, las personas con discapacidad, quienes se encuentren en estado de interdicción, las personas adultas mayores, las personas gestantes y mujeres embarazadas y el cónyuge que se dedique a las labores del hogar, gozarán de la presunción de necesidad de alimentos.
 
 ###### ARTICULO 309.
 
@@ -2446,6 +2454,20 @@ En caso de que no estuviere presente o estándole se haya rehusado a cumplir con
 La Jueza o Juez de lo Familiar resolverá respecto al monto de la deuda, en atención a lo dispuesto en los artículos 305 y 308.
 
 Si la persona obligada mediante resolución judicial al pago de la pensión alimentaria, provisional o definitiva, dejará de cubrirla sin causa justificada por un periodo mayor a treinta días, la Autoridad competente de inmediato, deberá dar aviso a las autoridades migratorias y demás competentes de conformidad con el artículo 48, fracción VI, de la Ley de Migración, a fin de restringir la salida del país de la persona deudora alimentaria, siempre que esta sea una medida idónea para el cumplimiento de la obligación alimentaria.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+ARTICULO 319 BIS.- Cuando proceda judicialmente la acción de investigación de la paternidad, se condenará al padre a cubrir los gastos del embarazo, parto y el pago de alimentos retroactivos desde su nacimiento a quien tiene la obligación de otorgarlos.
+
+La Jueza o Juez de lo Familiar para determinar la cantidad a pagar en forma retroactiva, deberá considerar:
+
+a).- Si existió o no conocimiento previo del nacimiento o del embarazo de la reclamante;
+
+b).- La buena o mala fe de la persona deudora alimentaria durante el procedimiento;
+
+c).- Considerar que en el progenitor recae la carga de probar la existencia de razones justificadas por las que deba ser relevado de la obligación de proporcionar alimentos a partir de la fecha de nacimiento; y,
+
+d).- La capacidad económica actual del deudor alimentario.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2024)</small>
 
@@ -16966,3 +16988,9 @@ PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los contratos de arrendamiento de inmuebles destinados al uso habitacional que estén vigentes al momento de la entrada en vigor del presente Decreto, continuarán rigiéndose en los términos y condiciones originalmente pactados y hasta la conclusión del plazo contractual acordado.
 
 Al concluir dicho plazo, en caso de renovación, prórroga o celebración de un nuevo contrato entre las mismas partes respecto del mismo inmueble, serán aplicables las disposiciones contenidas en este Decreto.
+
+P.O. 5 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 268 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 305, 306, 308 Y LA ADICIÓN DE UN ARTÍCULO 319 BIS AL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
