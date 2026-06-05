@@ -4,7 +4,7 @@ identifier: "QUE-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-67961"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2025-11-07"
+last_updated: "2026-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de marzo de 2009.
 
@@ -408,6 +408,14 @@ Al efecto, la Secretaría de Salud del Estado deberá emitir el protocolo conduc
 ###### Artículo 20.
 
 quinquies. Se considera violencia mediática a las conductas que a través de cualquier medio de comunicación impreso, electrónico o publicidad local, promueva la explotación de mujeres, adolescentes y niñas o sus imágenes, injurie, difame, discrimine, deshonre, humille o atente contra su dignidad y fomenten la desigualdad entre hombres y mujeres o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia, estas acciones serán vigiladas y sancionadas por las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+###### Artículo 20 Sexies.
+
+Constituye violencia en la lactancia, todo tipo de acción u omisión que limite, obstaculice, reprima, o sancione social o institucionalmente esta práctica, la cual forma parte del ejercicio libre de la maternidad y del desarrollo integral de la infancia.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán garantizar condiciones de respeto, dignidad y protección a las mujeres en periodo de lactancia, promover entornos libres de violencia y fomentar campañas de sensibilización orientadas a normalizar la lactancia como una actividad legítima, natural y protegida por los derechos humanos.
 
 ## Título Tercero. Del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
 
@@ -1560,3 +1568,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 5 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY POR LA QUE SE ADICIONA EL ARTÍCULO 20 SEXIES A LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, REFERENTE A LA VIOLENCIA EN LA LACTANCIA".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía contrarias a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
