@@ -4,7 +4,7 @@ identifier: "TLA-ley-que-garantiza-el-acceso-a-las-mujeres-a-una-vida-libre-5803
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-13"
-last_updated: "2024-09-19"
+last_updated: "2026-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el jueves 13 de diciembre de 2007.
 
@@ -393,9 +393,11 @@ En lo relativo a la violencia familiar se aplicarán las disposiciones, siempre 
 
 #### SECCIÓN SEGUNDA. VIOLENCIA LABORAL Y DOCENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### Artículo 17.
 
-Constituye violencia laboral, toda acción u omisión, efectuada por quien ejerce jerarquía, encaminada a limitar, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, con independencia de la discriminación de género, las amenazas, la intimidación y la explotación laboral, que afecte la permanencia, reconocimiento, salario y prestaciones de las mujeres en los espacios productivos públicos o privados.
+Constituye violencia laboral, toda acción u omisión, encaminada a limitar, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, con independencia de la discriminación de género, las amenazas, las humillaciones, la intimidación y la explotación laboral, que afecte el acceso, permanencia, reconocimiento, salario y prestaciones de las mujeres en los espacios productivos públicos o privados.
 
 > <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 3 DE MAYO DE 2023)</small>
 
@@ -415,7 +417,9 @@ Las políticas públicas que instrumenten el Estado y sus municipios en materia 
 
 I. El impacto psicoemocional que generan en quien las sufre;
 
-II. Las diferentes formas de discriminación que se pueden presentar en razón del género, edad, condición de las mujeres, estado civil y preferencia sexual;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+II. Las diferentes formas de discriminación que se pueden presentar en razón del género, edad, condición de las mujeres por embarazo y puerperio, estado civil y orientación sexual;
 
 III. La adhesión a convenios o protocolos para eliminar esta modalidad de violencia, por parte de sindicatos, empresas privadas y de la administración pública, y
 
@@ -1812,3 +1816,15 @@ La Secretaría de las Mujeres del Estado de Tlaxcala deberá expedir su respecti
 ###### ARTÍCULO SÉPTIMO.
 
 Se abroga el Acuerdo publicado en el Periódico Oficial del Gobierno del Estado de Tlaxcala, de fecha 17 de junio de 1999, TOMO LXXX, SEGUNDA ÉPOCA, No. Extraordinario, por el que se crea el Instituto Estatal de la Mujer.
+
+P.O. 5 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 281.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 375 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
