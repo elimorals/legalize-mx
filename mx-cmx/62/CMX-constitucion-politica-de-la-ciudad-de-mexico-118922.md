@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2026-05-20"
+last_updated: "2026-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE JUNIO DE 2026.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -1960,6 +1960,10 @@ D. Sistema de nulidades en materia electoral y de participación ciudadana
 
 1. La ley contará con un sistema de nulidades a través del cual se determinarán las causales que generarán la invalidez de elecciones de la Jefatura de Gobierno, diputaciones locales, así como personas titulares de Magistraturas y Juzgados y alcaldías, así como de los procesos de participación ciudadana en la Ciudad de México.
 
+> <small>(ADICIONADO, G.O. 5 DE JUNIO DE 2026)</small>
+
+Sin perjuicio de las demás causales previstas en la ley de la materia, será nula la elección en que se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales.
+
 (NOTA: EL 17 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2017 Y SUS ACUMULADAS 16/2017, 18/2017 Y 19/2017, DECLARÓ LA INVALIDEZ DEL NUMERAL 2 DEL APARTADO D DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 2. SIN PERJUICIO DE LAS CAUSALES ESPECÍFICAS QUE PREVEA LA LEY DE LA MATERIA, SERÁ NULA LA ELECCIÓN O EL PROCESO DE PARTICIPACIÓN CIUDADANA EN EL QUE SE ACREDITE LA EXISTENCIA DE VIOLENCIA POLÍTICA DE GÉNERO E IRREGULARIDADES GRAVES DURANTE LAS DIVERSAS ETAPAS DEL PROCESO ELECTORAL QUE VIOLENTEN LOS PRINCIPIOS PREVISTOS EN ESTA CONSTITUCIÓN, INCLUYENDO LA COMPRA O COACCIÓN DEL VOTO, EL EMPLEO DE PROGRAMAS GUBERNAMENTALES O ACCIONES INSTITUCIONALES EXTRAORDINARIAS, EL DESVÍO DE RECURSOS PÚBLICOS CON FINES ELECTORALES, LA COMPRA O ADJUDICACIÓN DE TIEMPOS EN RADIO Y TELEVISIÓN, EL REBASE DE TOPES DE GASTOS DE CAMPAÑA Y LA VIOLENCIA POLÍTICA.
@@ -1996,7 +2000,9 @@ A. Integración
 
 2. El Congreso de la Ciudad de México se integrará por 66 diputaciones, 33 electas según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, una diputación electa por el principio de mayoría relativa mediante el voto de las ciudadanas y ciudadanos originarios de la Ciudad de México residentes en el extranjero; y 32 diputadas y diputados electos según el principio de representación proporcional. Las diputaciones serán electas en su totalidad cada tres años, mediante el voto universal, libre y secreto. Por cada persona propietaria se elegirá una suplente del mismo género.
 
-3. En la integración del Congreso de la Ciudad de México, la ley electoral determinará los mecanismos para cumplir con el principio de paridad de género.
+> <small>(REFORMADO, G.O. 5 DE JUNIO DE 2026)</small>
+
+3. En la integración del Congreso de la Ciudad de México, la ley electoral determinará los mecanismos para cumplir con el principio de paridad de género, igualdad sustantiva y perspectiva de género.
 
 4. El Congreso de la Ciudad de México se regirá por los principios de parlamento abierto. Las diputadas y diputados establecerán mecanismos de audiencia y rendición de cuentas que garanticen su responsabilidad frente al electorado.
 
@@ -2054,7 +2060,9 @@ i) No ser ministro de culto religioso, a menos que hubiere dejado de serlo con c
 
 j) No haber sido consejera o consejero, magistrada o magistrado electoral, a menos que haya concluido su encargo o se haya separado del mismo, tres años antes del inicio del proceso electoral local correspondiente.
 
-D. De las competencias del Congreso de la Ciudad de México
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE JUNIO DE 2026)</small>
+
+D. De las competencias del Congreso de la Ciudad de México.
 
 El Congreso de la Ciudad de México tendrá las siguientes competencias legislativas:
 
@@ -2082,7 +2090,9 @@ k) Solicitar información por escrito, a través del pleno o comisiones, y llama
 
 l) Analizar y aprobar las disposiciones e instrumentos en materia de planeación y ordenamiento territorial en los términos establecidos por esta Constitución y las leyes;
 
-m) Aprobar su presupuesto sujetándose a las disposiciones de austeridad y políticas de racionalidad del gasto público que establezca la ley. El monto anual no podrá ser mayor al cero punto ocho por ciento del Presupuesto de Egresos de la Ciudad; y el incremento del presupuesto anual que solicite y apruebe, no podrá ser superior a la inflación del ejercicio que concluye, de conformidad con los datos que publique la autoridad competente;
+> <small>(REFORMADO, G.O. 5 DE JUNIO DE 2026)</small>
+
+m) Aprobar su presupuesto sujetándose a las disposiciones de austeridad y políticas de racionalidad del gasto público que establezca la ley. El monto anual no podrá ser mayor al cero punto setenta por ciento del Presupuesto de Egresos de la Ciudad; y el incremento del presupuesto anual que solicite y apruebe, no podrá ser superior a la inflación del ejercicio que concluye, de conformidad con los datos que publique la autoridad competente;
 
 n) Autorizar las salidas oficiales del territorio nacional de la persona titular de la Jefatura de Gobierno, quien deberá informar y hacer públicas las actividades realizadas, en un periodo no mayor a quince días naturales posteriores a su regreso al país;
 
@@ -3033,6 +3043,10 @@ Las y los titulares de los órganos internos de control de los organismos autón
 4. Las remuneraciones del personal que labore en los organismos autónomos se fijarán de conformidad con el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
 
 La remuneración de las y los titulares de los organismos constitucionales autónomos no será superior a la que perciba el Jefe de Gobierno.
+
+> <small>(ADICIONADO, G.O. 5 DE JUNIO DE 2026)</small>
+
+5. Las remuneraciones de las personas consejeras electorales, de las personas magistradas electorales, de las personas servidoras públicas del Instituto Electoral de la Ciudad de México y del Tribunal Electoral de la Ciudad de México, no excederán el límite establecido en el artículo 127 de la Constitución Federal y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
 C. Del nombramiento de las personas titulares y consejeras
 
@@ -4971,3 +4985,21 @@ G.O. 20 DE MAYO DE 2026.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 5 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL NUMERAL 1, DEL APARTADO D, DEL ARTÍCULO 27 Y EL NUMERAL 5 DEL ARTÍCULO 46, APARTADO B; Y SE REFORMA EL ARTÍCULO 29, APARTADO A, NUMERAL 3; E INCISO M, APARTADO D, DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México. Para efectos de la adición prevista en el artículo 27, Apartado D, numeral 1, su aplicabilidad respecto a los procedimientos electorales operará a partir de la entrada en vigor del Decreto federal publicado en el Diario Oficial de la Federación, sin que la publicación en la Gaceta pueda diferir en ningún caso en su eficacia constitucional.
+
+TERCERO.- Los Organismos Autónomos de la Ciudad de México, en un plazo no mayor a 90 días naturales, realizarán las adecuaciones administrativas necesarias para dar cumplimiento a lo establecido en el presente decreto.
+
+CUARTO.- El Instituto Electoral y el Tribunal Electoral, ambos de la Ciudad de México, revisarán y adecuarán sus disposiciones normativas y administrativas de conformidad a lo establecido con el presente Decreto.
+
+QUINTO.- En tanto no hayan sido realizadas las modificaciones a la legislación secundaria en la materia será aplicable directamente la disposición constitucional establecida en el presente Decreto.
+
+SEXTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal y subsecuentes.
+
+SÉPTIMO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
