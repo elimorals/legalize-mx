@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-a-los-animales-domesticos-del-estado-de-21669
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2026-04-24"
+last_updated: "2026-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 8 de diciembre de 1997.
 
@@ -72,6 +72,12 @@ IX.- Impulsar acciones preventivas que permitan inhibir riesgos en la integridad
 ###### ARTICULO 2º.
 
 Por ser útiles al hombre y a sus actividades, son objeto de especial tutela y protección dentro de esta ley, todos los animales domésticos, en los términos que establece la misma y su reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 2026)</small>
+
+Se reconoce a los animales como seres sintientes, sujetos de especial protección. El Estado y los Ayuntamientos garantizarán su bienestar integral, considerando su
+
+capacidad para sentir dolor, sufrimiento, placer y emociones.
 
 ###### ARTICULO 3º.
 
@@ -273,9 +279,11 @@ En caso de animales transportados que fueren detenidos en su camino o a su arrib
 
 ### CAPITULO VII. DE LA COMERCIALIZACION Y EXPLOTACION DE ANIMALES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### ARTICULO 29.
 
-Queda prohibido el obsequio, distribución o venta de animales para propaganda o promoción comercial, premios, sorteos y lotería, o su utilización o destino como juguete infantil.
+Queda prohibido el obsequio, distribución o venta de animales con fines de propaganda, promoción comercial, rifas, sorteos y loterías, o cualquier otra actividad similar que implique su utilización como premio, incentivo o beneficio promocional, así como su uso o destino como juguete infantil.
 
 Igualmente queda prohibida la venta de toda clase de animales vivos o muertos, sin permiso expreso en cada caso de la autoridad respectiva, con excepción de los destinados al abasto humano.
 
@@ -830,3 +838,9 @@ P.O. 24 DE ABRIL DE 2026.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestal correspondiente.
+
+P.O. 5 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 276 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2 Y 29 DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
