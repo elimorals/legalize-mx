@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2026-03-27"
+last_updated: "2026-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JUNIO DE 2026 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -496,6 +498,26 @@ El disfrute de una movilidad segura en las vialidades del Estado es un derecho q
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE MAYO DE 2025)</small>
 
 Toda persona tiene el derecho humano a la seguridad ciudadana y a vivir libre de corrupción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 2026)</small>
+
+Toda persona tiene derecho al cuidado que sustente su vida y le otorgue los elementos materiales y simbólicos para vivir en sociedad, así como al reconocimiento del valor social y económico de los cuidados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 2026)</small>
+
+El derecho humano al cuidado tutelado por esta Constitución comprende el derecho a cuidar, a ser cuidado y al autocuidado. Es indispensable para el ejercicio de otros derechos y para la sostenibilidad de la vida de las personas y de la sociedad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 2026)</small>
+
+Los trabajos de cuidado deben distribuirse de manera equitativa entre los géneros y corresponsablemente entre las personas, el gobierno, el sector privado y el social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 2026)</small>
+
+Las autoridades de Baja California establecerán un sistema de cuidados que preste servicios públicos universales, accesibles, pertinentes, suficientes y de calidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 2026)</small>
+
+El sistema de cuidados atenderá de manera prioritaria a las personas en situación de dependencia por enfermedad, discapacidad, ciclo vital, especialmente la infancia y la vejez y a quienes, de manera no remunerada, están a cargo de su cuidado.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ABRIL DE 2015)</small>
 
@@ -6090,3 +6112,17 @@ PRIMERO.- Aprobada la presente reforma, túrnese a los Ayuntamientos del Estado 
 SEGUNDO.- Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional correspondiente.
 
 TERCERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 277 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO. Aprobada la presente reforma por el pleno del Congreso del Estado, remítase a los Ayuntamientos del Estado de Baja California para el trámite previsto en el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO. Agotado el proceso legislativo y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+CUARTO. Dentro de los 360 días naturales siguientes, contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado de Baja California, el Honorable Congreso del Estado de Baja California deberá expedir la Ley reglamentaria del artículo 7, Apartado A, de la Constitución Política del Estado Libre y Soberano de Baja California, relativa al sistema de cuidados.
+
+QUINTO. Las entidades, dependencias y organismos públicos del orden estatal y municipal operarán el sistema de cuidados de acuerdo con su disponibilidad presupuestal, en los términos de la legislación secundaria que en su momento se expida.
