@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-375-de-los-derechos-de-las-personas-adultas-44847"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-16"
-last_updated: "2021-09-10"
+last_updated: "2026-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 375 DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 16 de noviembre de 2004.
 
@@ -495,7 +495,9 @@ VI.- El derecho permanente y en todo tiempo, de obtener descuentos o exenciones 
 
 VII.- El establecimiento de convenios de colaboración con las instituciones públicas y privadas dedicadas a la comunicación masiva, para la difusión de una cultura de aprecio y respeto hacia las Personas Adultas Mayores, y
 
-VIII.- La asesoría jurídica y legal en materia laboral a través de personal capacitado.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+VIII.- La asesoría jurídica y legal de manera gratuita en procedimientos administrativos o judiciales, y a contar con representante legal cuando así sea requerido.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1510,3 +1512,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El presente Decreto hágase del conocimiento del Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página oficial del Honorable Congreso del Estado de Guerrero, para su conocimiento general y efectos legales procedentes.
+
+P.O. 5 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 524 POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 17 DE LA LEY NÚMERO 375 DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
