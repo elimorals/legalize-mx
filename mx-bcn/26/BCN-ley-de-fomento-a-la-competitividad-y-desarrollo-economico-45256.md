@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2026-03-27"
+last_updated: "2026-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -338,6 +338,18 @@ IV. Implementen proyectos de consumo y uso de energías renovables no contaminan
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
 
 V. Tengan contratados de 1 a 10 empleados.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+###### Artículo 10 Bis.
+
+Con el objeto de impulsar la competitividad, promover la inversión y consolidar el desarrollo de la industria de bebidas con contenido alcohólico como sector estratégico para el desarrollo económico regional, se otorga un Estímulo Fiscal del 100% del Impuesto Estatal a la Venta Final de Bebidas con Contenido Alcohólico, a las Empresas que realicen la venta final de bebidas con contenido alcohólico en envase cerrado dentro del territorio del Estado de Baja California, respecto de aquellas bebidas que se hayan producido en Baja California por Empresas que se encuentren registradas ante el Padrón Estatal de Contribuyentes de Baja California.
+
+La Empresa que se ubique en el supuesto de aplicación del Estímulo Fiscal citado, no estará obligada a presentar la declaración correspondiente del Impuesto Estatal a la Venta Final de Bebidas con Contenido Alcohólico, exclusivamente respecto de la bebida alcohólica objeto de exención.
+
+El presente Estímulo Fiscal será aplicable siempre y cuando no se incluya en el precio al público de las bebidas con contenido alcohólico producidas, fabricadas o envasadas en el Estado de Baja California, lo correspondiente al Impuesto Estatal a la Venta Final de Bebidas con Contenido Alcohólico.
+
+Para efectos de este Estímulo Fiscal, se entenderá por bebidas con contenido alcohólico, lo establecido en la Ley de Hacienda del Estado de Baja California.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -1394,3 +1406,11 @@ P.O. 27 DE MARZO DE 2026.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- El Ejecutivo del Estado tendrá un término no mayor a 90 días contados a partir de la entrada en vigor de la presente reforma para la actualización del Reglamento de la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California.
+
+P.O. 5 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 272 MEDIANTE EL CUAL SE APRUEBA LA CREACIÓN DE LA LEY PARA LA PROTECCIÓN Y FOMENTO DE LA INDUSTRIA VITIVINÍCOLA DE BAJA CALIFORNIA Y SE APRUEBA LA ADICIÓN DEL ARTÍCULO 10 BIS A LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Decreto publicado el tres de enero de dos mil veintidós, en el Periódico Oficial del Estado de Baja California, mediante el cual se condona y exime a las personas físicas y morales el 100 % (cien por ciento) del pago del Impuesto Estatal a la Venta Final de Bebidas con Contenido Alcohólico, que se cause durante la vigencia del presente Decreto, respecto de la venta final en envase cerrado de la bebida con contenido alcohólico denominada “vino”, con graduación alcohólica de 7° hasta 14° G.L. (Gay-Lussac).
