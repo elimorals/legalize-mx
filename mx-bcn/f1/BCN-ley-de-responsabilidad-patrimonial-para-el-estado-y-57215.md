@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidad-patrimonial-para-el-estado-y-57215"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-05"
-last_updated: "2018-11-30"
+last_updated: "2026-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 5 de octubre de 2007.
 
@@ -39,15 +39,21 @@ LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNI
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### Artículo 1.
 
-Las disposiciones contenidas en la presente ley son de orden público e interés general y tiene por objeto establecer las bases y procedimientos para hacer eficaz la garantía de responsabilidad patrimonial prevista en el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, así como el artículo 95 de la Constitución Política del Estado Libre y Soberano de Baja California, de quienes sin obligación jurídica de soportarlo, sufran daños en cualquiera de sus bienes y derechos como consecuencia de la actividad administrativa irregular de los entes públicos.
+Las disposiciones contenidas en la presente ley son de orden público e interés general y tiene por objeto establecer las bases y procedimientos para hacer eficaz la garantía de responsabilidad patrimonial prevista en el sexto párrafo del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos, así como el artículo 92 de la Constitución Política del Estado Libre y Soberano de Baja California, de quienes sin obligación jurídica de soportarlo, sufran daños en cualquiera de sus bienes y derechos como consecuencia de la actividad administrativa irregular de los entes públicos.
 
 La responsabilidad patrimonial por actividad administrativa irregular a cargo de los entes públicos es objetiva y directa, y la indemnización deberá ajustarse a los términos y condiciones señalados en esta Ley y en las demás disposiciones legales a que la misma hace referencia.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### Artículo 2.
 
-Son entes públicos obligados por las disposiciones contenidas en la presente Ley los Poderes Ejecutivo, Legislativo y Judicial del Estado de Baja California, Ayuntamientos, así como las dependencias y entidades de las Administraciones Públicas Estatal y Municipales y los Órganos Constitucionales Autónomos.
+Son entes públicos obligados por las disposiciones contenidas en la presente Ley los Poderes Ejecutivo, Legislativo y Judicial del Estado de Baja California, Ayuntamientos, así como las dependencias y entidades de la Administración Pública Estatal y Municipal, los Órganos Constitucionales Autónomos, y cualquier otro ente público de carácter estatal y municipal.
+
+La Comisión Estatal de los Derechos Humanos y sus servidores públicos, no son sujetos de responsabilidad patrimonial por las opiniones y recomendaciones que formulen, así como por los actos que realicen en ejercicio de las funciones de su competencia.
 
 ###### Artículo 3.
 
@@ -59,17 +65,25 @@ II.- Entes públicos: Los obligados a indemnizar por responsabilidad patrimonial
 
 III.- Ley: Ley de Responsabilidad Patrimonial para el Estado y Municipios de Baja California.
 
-IV.- Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
 
-V.- Órgano competente: En el caso de las dependencias y entidades de la Administración Pública del Estado, será la Dirección de Control y Evaluación Gubernamental. Para los Poderes Legislativo, Judicial, Órganos Constitucionales Autónomos, así como para las administraciones públicas municipales del Estado de Baja California, es el órgano al que corresponda resolver los procedimientos de reclamación por responsabilidad patrimonial en cada uno de tales entes públicos conforme a su propia reglamentación.
+IV.- Ley de Responsabilidades: Ley de Responsabilidades Administrativas del Estado de Baja California.
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
 
-VI.- Órgano Constitucional Autónomo.- Tribunal de lo Contencioso Administrativo, Instituto Estatal Electoral, Comisión Estatal de los Derechos Humanos, todos del Estado de Baja California, así como los demás órganos a los que la Constitución Estatal les reconozca esta naturaleza.
+V.- Órgano competente: En el caso de las dependencias y entidades de la Administración Pública del Estado, será la Secretaría Anticorrupción y Buen Gobierno. Para los Poderes Legislativo, Judicial, Órganos Constitucionales Autónomos, así como para las administraciones públicas municipales del Estado de Baja California, las Sindicaturas, Contralorías, Órganos Internos de Control o su equivalente al que corresponda resolver los procedimientos de reclamación por responsabilidad patrimonial en cada uno de tales entes públicos conforme a su propia reglamentación.
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+VI.- Órgano Constitucional Autónomo: Tribunal Estatal de Justicia Administrativa, Instituto Estatal Electoral, Comisión Estatal de los Derechos Humanos, Tribunal de Justicia Electoral, Fiscalía General, todos del Estado de Baja California, así como los demás órganos a los que la Constitución Estatal les reconozca esta naturaleza.
 
 VII.- Reglamento: Reglamento emitido por los entes públicos que conforme a esta Ley deban hacerlo, en el que se determinará el órgano competente y se establecerá el procedimiento de reclamación por responsabilidad patrimonial, sujetándose a las bases contenidas en esta misma Ley.
 
-VIII.- Servidores Públicos: Se reputarán como tal a los representantes de elección popular, a los miembros del Poder Judicial, a los funcionarios y empleados; y, en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, quiénes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+VIII.- Personas Servidoras Públicas: Cualquier persona que se ubique en alguno de los supuestos establecidos en el artículo 91 de la Constitución Política del Estado Libre y Soberano de Baja California, quiénes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 5 DE JUNIO DE 2026)</small>
 
 ###### Artículo 4.
 
@@ -83,15 +97,21 @@ III.- Los casos fortuitos o de fuerza mayor;
 
 IV.- Los daños o perjuicios que no sean consecuencia de la actividad administrativa irregular de los entes públicos;
 
-V.- El daño causado por un tercero en ejercicio de funciones públicas en los términos previstos por esta Ley;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
 
-VI.- Las que causen los servidores públicos cuando no actúen en ejercicio de funciones públicas;
+V.- El daño causado por una tercera persona en ejercicio de funciones públicas en los términos previstos por esta Ley;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+VI.- Las que causen las personas servidoras públicas cuando no actúen en ejercicio de funciones públicas;
 
 VII.- Aquellos actos en los que exista una relación de causa efecto en cuanto al beneficio futuro que habrá de obtener el particular;
 
 VIII.- Aquellos que se deriven de hechos o circunstancias que no se hubieran podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica existentes en el momento de su acaecimiento;
 
-IX.- Aquellos casos en los que el solicitante de la indemnización sea el único causante del daño;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+IX.- Aquellos casos en los que la persona solicitante de la indemnización sea el único causante del daño;
 
 X.- La actividad administrativa realizada en cumplimiento de una disposición legal o de una resolución jurisdiccional; y,
 
@@ -109,9 +129,11 @@ Los pagos de indemnizaciones derivadas de la responsabilidad patrimonial del Est
 
 En la fijación de los montos de las partidas presupuestales, deberán preverse las indemnizaciones que no hayan podido ser pagadas en el ejercicio inmediato anterior.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### Artículo 7.
 
-A falta de disposición expresa en esta Ley y en los reglamentos que de la misma deriven, se aplicarán supletoriamente las disposiciones contenidas en el Código Civil y en el Código de Procedimientos Civiles para el Estado de Baja California.
+La presente Ley se aplicará supletoriamente a las diversas leyes administrativas que contengan un régimen especial de responsabilidad patrimonial del Estado. A falta de disposición expresa en esta Ley y en los reglamentos que de la misma deriven, se aplicarán supletoriamente las disposiciones contenidas en la Ley del Procedimiento para los Actos de la Administración Pública, el Código Fiscal y el Código Civil todos del Estado de Baja California y los principios generales del derecho.
 
 ###### Artículo 8.
 
@@ -127,9 +149,11 @@ Los entes públicos tendrán la obligación de denunciar ante el Ministerio Púb
 
 La nulidad o revocación de actos administrativos no presupone por sí misma derecho a la indemnización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### Artículo 11.
 
-La indemnización por actividad administrativa irregular, deberá pagarse al reclamante de acuerdo a las modalidades que establece esta Ley y las bases siguientes:
+La indemnización por actividad administrativa irregular, deberá pagarse a la persona reclamante de acuerdo a las modalidades que establece esta Ley y las bases siguientes:
 
 I.- Deberá pagarse en moneda nacional en una sola exhibición o en parcialidades;
 
@@ -165,9 +189,13 @@ II.- Cuando el daño se cause a las personas y produzca la muerte, incapacidad p
 
 Para calcular la indemnización que corresponda se tomará como base el equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización vigente. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
 
-El reclamante de indemnización por daños personales tendrá derecho a que se le cubran los gastos médicos que en su caso se eroguen, incluyendo todos los que la propia Ley Federal del Trabajo señala para riesgos de trabajo. En este caso, el monto de la indemnización se limitará al costo que para las instituciones de salud pública del Estado tengan los servicios médicos recibidos por el reclamante.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
 
-III.- En el caso de daño moral, el monto de la indemnización se calculará de acuerdo con los criterios establecidos en el Código Civil. La indemnización por daño moral en ningún caso excederá del equivalente a la cantidad que se establece en la presente Ley para la indemnización por un daño personal que cause la incapacidad permanente total del reclamante.
+La persona reclamante de indemnización por daños personales tendrá derecho a que se le cubran los gastos médicos que en su caso se eroguen, incluyendo todos los que la propia Ley Federal del Trabajo señala para riesgos de trabajo. En este caso, el monto de la indemnización se limitará al costo que para las instituciones de salud pública del Estado tengan los servicios médicos recibidos por la persona reclamante.
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+III.- En el caso de daño moral, el monto de la indemnización se calculará de acuerdo con los criterios establecidos en el Código Civil. La indemnización por daño moral en ningún caso excederá del equivalente a la cantidad que se establece en la presente Ley para la indemnización por un daño personal que cause la incapacidad permanente total de la persona reclamante.
 
 ###### Artículo 14.
 
@@ -185,7 +213,9 @@ II.- Cuando la cuantificación de los perjuicios en dinero exceda de cinco mil v
 
 III.- Cuando la cuantificación de los perjuicios en dinero exceda de diez mil veces el valor diario de la Unidad de Medida y Actualización vigente, este excedente se indemnizará al veinticinco por ciento, debiéndose pagar además las cantidades que se determinen conforme a las fracciones I y II anteriores.
 
-El reclamante deberá acreditar los perjuicios que le han sido ocasionados por virtud de la actividad administrativa irregular del ente público, con los documentos a que se refiere esta Ley.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+La persona reclamante deberá acreditar los perjuicios que le han sido ocasionados por virtud de la actividad administrativa irregular del ente público, con los documentos a que se refiere esta Ley.
 
 ###### Artículo 15.
 
@@ -219,7 +249,9 @@ I.- Presentar su reclamación por escrito ante el órgano competente del ente p�
 
 II.- El nombre, denominación o razón social del promovente y, en su caso, del representante legal, agregándose los documentos que acrediten la personería, así como la designación de la persona o personas autorizadas para oír y recibir notificaciones y documentos;
 
-III.- Señalar en su solicitud al o los servidores públicos involucrados en la actividad administrativa que se considere irregular, sólo en el caso de que pueda identificarlos;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+III.- Señalar en su solicitud a la persona o personas servidoras públicas involucradas en la actividad administrativa que se considere irregular, sólo en el caso de que pueda identificarlos;
 
 IV.- El domicilio para oír y recibir notificaciones;
 
@@ -231,45 +263,69 @@ VII.- Anexar los documentales y ofrecer los demás medios probatorios para acred
 
 VIII.- Toda reclamación deberá estar firmada por quien la formule y sin este requisito se tendrá por no presentada, a menos que el solicitante no sepa o no pueda firmar, caso en el cual, imprimirá su huella digital y firmará otra persona a su ruego.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### Artículo 20.
 
-El reclamante presentará junto con su reclamación la liquidación del monto de la indemnización que exija con los requisitos que se mencionan en este artículo. También podrá presentar tal liquidación dentro de los diez días siguientes a que el Órgano competente le notifique que tiene por acreditados la existencia de la actividad administrativa irregular, del daño, y de la relación de causalidad directa entre la primera y el segundo.
+La persona reclamante presentará junto con su reclamación la liquidación del monto de la indemnización que exija con los requisitos que se mencionan en este artículo. También podrá presentar tal liquidación dentro de los diez días siguientes a que el Órgano competente le notifique que tiene por acreditados la existencia de la actividad administrativa irregular, del daño, y de la relación de causalidad directa entre la primera y el segundo.
 
-La liquidación que el reclamante debe presentar se sujetará a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JUNIO DE 2026)</small>
+
+La liquidación que la persona reclamante debe presentar se sujetará a lo siguiente:
 
 I.- En el caso de daños a bienes materiales, la liquidación deberá acompañarse de los documentos con los que se acredite la propiedad de los bienes y además de:
 
-a.- Un peritaje que determine el valor comercial o de mercado de la reparación del daño a los bienes afectados, al momento en que tuvo lugar tal daño alegado. La autoridad podrá ordenar otro peritaje a su costa, y de ser éste inferior en un equivalente al diez por ciento o más del presentado por el reclamante, éste y la autoridad deberán costear un tercero que será el que servirá de base para determinar el monto de la indemnización. Todos los peritajes deberán ser formulados por peritos de los autorizados por el Tribunal Superior de Justicia del Estado o,
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+a.- Un peritaje que determine el valor comercial o de mercado de la reparación del daño a los bienes afectados, al momento en que tuvo lugar tal daño alegado. La autoridad podrá ordenar otro peritaje a su costa, y de ser éste inferior en un equivalente al diez por ciento o más del presentado por la persona reclamante, éste y la autoridad deberán costear un tercero que será el que servirá de base para determinar el monto de la indemnización. Todos los peritajes deberán ser formulados por las personas peritas autorizadas por el Tribunal Superior de Justicia del Estado o,
 
 b.- Las facturas originales de todas las erogaciones que en su caso hubiere efectuado para reparar el daño reclamado. De proceder la indemnización, la autoridad podrá no incluir en ésta el monto de aquellas facturas que no cumplan los requisitos fiscales, no sean ratificadas en su contenido por quien las hubiere expedido, o contengan precios por arriba de un diez por ciento de los valores comerciales o de mercado de otros proveedores del mismo producto o servicio.
 
-II.- Cuando se exija el pago de indemnización por perjuicios patrimoniales, el reclamante deberá acompañar a su liquidación los contratos o declaraciones de impuestos originales de fecha anterior a aquella en que hubiere tenido lugar la actividad administrativa irregular, con los que pueda acreditar que efectivamente tenía derecho o posibilidad cierta de recibir los ingresos que por tal actividad alega dejó de percibir.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
 
-III.- En el caso de reclamación de indemnización por daños personales que hubieren ocasionado la muerte, además de la liquidación hecha con base en lo previsto por esta Ley, el reclamante deberá acreditar su carácter de albacea de la sucesión.
+II.- Cuando se exija el pago de indemnización por perjuicios patrimoniales, la persona reclamante deberá acompañar a su liquidación los contratos o declaraciones de impuestos originales de fecha anterior a aquella en que hubiere tenido lugar la actividad administrativa irregular, con los que pueda acreditar que efectivamente tenía derecho o posibilidad cierta de recibir los ingresos que por tal actividad alega dejó de percibir.
 
-IV.- Cuando la reclamación sea por daños personales que hubieren generado algún tipo de incapacidad, además de la liquidación hecha con base en lo previsto por esta Ley, el reclamante deberá acompañar a su reclamación el peritaje médico en el que se concluya la incapacidad alegada. La autoridad podrá ordenar a su costa otro peritaje y el reclamante deberá someterse a la práctica del mismo. En su caso, y con base en las conclusiones de uno o ambos peritajes, la autoridad determinará si procede o no el pago de la indemnización. Los peritajes deberán ser formulados por peritos de los autorizados por el Tribunal Superior de Justicia del Estado.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
 
-V.- Cuando se exija indemnización por gastos médicos efectuados, el reclamante sólo deberá presentar un desglose de los servicios médicos que hubiere recibido, y los documentos con los que acredite que efectivamente se le prestaron. En su caso, la autoridad se cerciorará de la veracidad de tales documentos y solicitará a la institución pública de salud en el Estado que corresponda, le indique el costo que para la misma tienen los servicios médicos que recibió el reclamante, para determinar con base en esta información el monto de la indemnización.
+III.- En el caso de reclamación de indemnización por daños personales que hubieren ocasionado la muerte, además de la liquidación hecha con base en lo previsto por esta Ley, la persona reclamante deberá acreditar su carácter de albacea de la sucesión.
 
-En ningún caso se pagará indemnización por servicios médicos recibidos por el reclamante de instituciones de seguridad social estatales o nacionales, ni por servicios médicos recibidos en el extranjero.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
 
-VI.- La liquidación de la indemnización que se exija por daños morales deberá expresar los motivos y circunstancias concretas en los que el reclamante base de la determinación de cada cantidad cuya suma integre el monto total reclamado.
+IV.- Cuando la reclamación sea por daños personales que hubieren generado algún tipo de incapacidad, además de la liquidación hecha con base en lo previsto por esta Ley, la persona reclamante deberá acompañar a su reclamación el peritaje médico en el que se concluya la incapacidad alegada. La autoridad podrá ordenar a su costa otro peritaje y la persona reclamante deberá someterse a la práctica del mismo. En su caso, y con base en las conclusiones de uno o ambos peritajes, la autoridad determinará si procede o no el pago de la indemnización. Los peritajes deberán ser formulados por las personas peritas autorizadas por el Tribunal Superior de Justicia del Estado.
 
-De proceder el pago de la indemnización, en ésta se incluirá el reembolso al reclamante de los honorarios que hubiere pagado para la formulación de los peritajes que le exige el presente artículo.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+V.- Cuando se exija indemnización por gastos médicos efectuados, la persona reclamante sólo deberá presentar un desglose de los servicios médicos que hubiere recibido, y los documentos con los que acredite que efectivamente se le prestaron. En su caso, la autoridad se cerciorará de la veracidad de tales documentos y solicitará a la institución pública de salud en el Estado que corresponda, le indique el costo que para la misma tienen los servicios médicos que recibió la persona reclamante, para determinar con base en esta información el monto de la indemnización.
+
+En ningún caso se pagará indemnización por servicios médicos recibidos por la persona reclamante de instituciones de seguridad social estatales o nacionales, ni por servicios médicos recibidos en el extranjero.
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+VI.- La liquidación de la indemnización que se exija por daños morales deberá expresar los motivos y circunstancias concretas en los que la persona reclamante base de la determinación de cada cantidad cuya suma integre el monto total reclamado.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+De proceder el pago de la indemnización, en ésta se incluirá el reembolso a la persona reclamante de los honorarios que hubiere pagado para la formulación de los peritajes que le exige el presente artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2026)</small>
 
 ###### Artículo 21.
 
-La responsabilidad patrimonial de los entes públicos deberá probarla el reclamante.
+La responsabilidad patrimonial de los entes públicos deberá probarla la persona reclamante.
 
 Por su parte y a fin de no tener obligación de indemnizar, a los entes públicos les corresponderá probar, en su caso:
 
 I.- Que la actividad del ente público generadora del daño, encuadra en alguno de los casos que no son objeto de responsabilidad patrimonial conforme al artículo 4 de la presente Ley; o,
 
-II.- La participación de terceros o del propio reclamante en la producción de los daños y perjuicios irrogados al mismo. La imprudencia concurrente del perjudicado no exime de responsabilidad, pero conlleva la reducción de la indemnización. En todo caso, quien sufra el daño por actividad administrativa irregular deberá tomar las medidas conducentes para atenuarlo, de lo contrario su reclamo por indemnización se verá reducida en la proporción en que tales medidas, de haberse tomado, lo hubiesen reducido.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+II.- La participación de terceras personas o de la persona reclamante en la producción de los daños y perjuicios irrogados al mismo. La imprudencia concurrente del perjudicado no exime de responsabilidad, pero conlleva la reducción de la indemnización. En todo caso, quien sufra el daño por actividad administrativa irregular deberá tomar las medidas conducentes para atenuarlo, de lo contrario su reclamo por indemnización se verá reducida en la proporción en que tales medidas, de haberse tomado, lo hubiesen reducido.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
 
 ###### Artículo 22.
 
-Se acordará la acumulación de los expedientes de los procedimientos de reclamación que se sigan ante el órgano competente, de oficio o a petición de parte, cuando los interesados o los actos administrativos sean los mismos, se trate de actos conexos, o resulte conveniente el trámite unificado de los asuntos para evitar la emisión de resoluciones contradictorias.
+Se acordará la acumulación de los expedientes de los procedimientos de reclamación que se sigan ante el órgano competente, de oficio o a petición de parte, cuando las personas interesadas o los actos administrativos sean los mismos, se trate de actos conexos, o resulte conveniente el trámite unificado de los asuntos para evitar la emisión de resoluciones contradictorias.
 
 ###### Artículo 23.
 
@@ -287,17 +343,23 @@ IV.- Los fundamentos legales en que motivaron la resolución.
 
 Será sobreseída la reclamación, cuando:
 
-I.- El reclamante se desista expresamente.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+I.- La persona reclamante se desista expresamente.
 
 II.- No se pruebe la existencia de la actividad administrativa irregular, del daño, o de la relación de causalidad entre la primera y el segundo; o,
 
-III.- El reclamante no presente la liquidación a que se refiere el artículo 20 de la presente Ley, dentro de los diez días siguientes a que el órgano competente le notifique que tiene por acreditada la existencia de la actividad administrativa irregular, del daño y de la relación de causalidad entre el primero y el segundo.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+III.- La persona reclamante no presente la liquidación a que se refiere el artículo 20 de la presente Ley, dentro de los diez días siguientes a que el órgano competente le notifique que tiene por acreditada la existencia de la actividad administrativa irregular, del daño y de la relación de causalidad entre el primero y el segundo.
 
 IV.- El derecho a la reclamación haya prescrito.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### Artículo 25.
 
-Las resoluciones que dicten los órganos competentes de las dependencias y entidades de las Administraciones Públicas Estatal o Municipales que nieguen la indemnización por responsabilidad patrimonial, o determinen montos de indemnización que no satisfagan al interesado, podrán impugnarse mediante juicio ante el Tribunal de lo Contencioso Administrativo del Estado, o a través del recurso administrativo que se señale en el reglamento.
+Las resoluciones que dicten los órganos competentes de las dependencias y entidades de las Administraciones Públicas Estatal o Municipales que nieguen la indemnización por responsabilidad patrimonial, o determinen montos de indemnización que no satisfagan a la persona interesada, podrán impugnarse mediante juicio ante el Tribunal Estatal de Justicia Administrativa de Baja California, o a través del recurso administrativo que se señale en el reglamento.
 
 ###### Artículo 26.
 
@@ -309,9 +371,11 @@ El plazo de prescripción previsto en este artículo, se interrumpirá durante l
 
 También se interrumpirá para los entes públicos copartícipes en la generación de un daño patrimonial, cuando se inicie un procedimiento de reclamación ante el órgano competente de alguno de los concurrentes.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### Artículo 27.
 
-Los reclamantes podían celebrar convenio con los entes públicos a fin de dar por concluida la reclamación, mediante la fijación y el pago de la indemnización que las partes acuerden. Para la validez de dicho convenio se requerirá, según sea el caso, que la indemnización a pagar no exceda del cincuenta por ciento del monto reclamado originalmente, así como la aprobación por parte del órgano de control interno del ente responsable.
+Las personas reclamantes podían (sic) celebrar convenio con los entes públicos a fin de dar por concluida la reclamación, mediante la fijación y el pago de la indemnización que las partes acuerden. Para la validez de dicho convenio se requerirá, según sea el caso, que la indemnización a pagar no exceda del cincuenta por ciento del monto reclamado originalmente, así como la aprobación por parte del órgano de control interno del ente responsable.
 
 ### CAPITULO IV. DEL PROCEDIMIENTO DE RECLAMACION
 
@@ -319,13 +383,15 @@ Los reclamantes podían celebrar convenio con los entes públicos a fin de dar p
 
 El procedimiento de reclamación de indemnizaciones por responsabilidad patrimonial del Ejecutivo del Estado y de las dependencias y entidades de la Administración Pública del Estado se substanciará y resolverá por el órgano competente determinado en la presente Ley, conforme al procedimiento previsto en este capítulo y las bases señaladas en el anterior.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### Artículo 29.
 
-Dentro de los cinco días siguientes a que el órgano competente reciba la reclamación acordará sobre su admisión y requerirá a la dependencia o entidad que de acuerdo con los hechos narrados por el reclamante aparezca como responsable de la generación del daño por actividad administrativa irregular, a efecto de que dentro de un término de diez días presente un informe en el que manifieste lo que a sus intereses convenga, así como para que presente las pruebas documentales y ofrezca las de otra naturaleza que considere pertinentes.
+Dentro de los cinco días siguientes a que el órgano competente reciba la reclamación acordará sobre su admisión y requerirá a la dependencia o entidad que de acuerdo con los hechos narrados por la persona reclamante aparezca como responsable de la generación del daño por actividad administrativa irregular, a efecto de que dentro de un término de diez días presente un informe en el que manifieste lo que a sus intereses convenga, así como para que presente las pruebas documentales y ofrezca las de otra naturaleza que considere pertinentes.
 
-En el caso de que la dependencia o entidad requeridas no hagan manifestación alguna dentro del plazo señalado, se tendrá (sic) por ciertos los hechos expresados por el reclamante, salvo que por las pruebas rendidas por éste, o por hechos notorios resulten desvirtuados.
+En el caso de que la dependencia o entidad requeridas no hagan manifestación alguna dentro del plazo señalado, se tendrá por ciertos los hechos expresados por la persona reclamante, salvo que por las pruebas rendidas por éste, o por hechos notorios resulten desvirtuados.
 
-No se admitirá la reclamación que se presente incompleta, cuando requerido el reclamante para subsanar las deficiencias, no lo haga dentro de los cinco días siguientes a la notificación de tal requerimiento.
+No se admitirá la reclamación que se presente incompleta, cuando requerida la persona reclamante para subsanar las deficiencias, no lo haga dentro de los cinco días siguientes a la notificación de tal requerimiento.
 
 ###### Artículo 30.
 
@@ -339,11 +405,13 @@ En el procedimiento que regula la presente, Ley, se admitirán, desahogarán, ev
 
 Cuando los objetos o documentos sobre los cuales debe versar la prueba pericial, estén en poder del ente público, se les requerirá para que los ponga a la vista del perito, a fin de que pueda rendir su dictamen.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### Artículo 33.
 
-El órgano competente podrá formular a los testigos, todas aquellas preguntas tendientes a esclarecer los hechos o a aclarar cualquier respuesta.
+El órgano competente podrá formular a las y los testigos, todas aquellas preguntas tendientes a esclarecer los hechos o a aclarar cualquier respuesta.
 
-Cuando el testigo tenga el carácter de autoridad, el desahogo de esta prueba se hará por escrito.
+Cuando la o el testigo tenga el carácter de autoridad, el desahogo de esta prueba se hará por escrito.
 
 ###### Artículo 34.
 
@@ -353,17 +421,27 @@ En caso necesario y por razones fundadas y motivadas, la autoridad podrá ordena
 
 Dentro de los diez días siguientes a la conclusión del periodo probatorio, el órgano competente deberá emitir una resolución en la que se pronuncie sobre la existencia o inexistencia de la actividad administrativa irregular, del daño, y de la relación de causalidad entre la primera y el segundo.
 
-Dicha resolución deberá ser notificada (sic) reclamante y a la dependencia o entidad a la que se le hubiere imputado el daño.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
 
-Si la resolución del órgano competente tiene por acreditados la existencia de la actividad administrativa irregular, del daño, y de la relación de causalidad directa entre la primera y el segundo, y el reclamante al inicio del procedimiento no hubiere presentado la liquidación del monto de la indemnización que exija con los requisitos que se mencionan en el artículo 20 de la presente Ley, al notificarle la resolución el órgano competente requerirá al reclamante para que presente tal liquidación dentro de los diez días siguientes.
+Dicha resolución deberá ser notificada (sic) la persona reclamante y a la dependencia o entidad a la que se le hubiere imputado el daño.
 
-Cuando el reclamante no presenta la liquidación dentro del plazo señalado, se considerará que desiste de su pretensión de indemnización.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
 
-De presentarla, se agotarán los pasos previstos en el artículo 20 de la presente Ley y en un plazo no mayor de quince días la autoridad emitirá una resolución en la que determine el monto de la indemnización que se pagará al reclamante. Transcurrido este último plazo sin que la autoridad se pronuncie sobre el monto de la indemnización, dará derecho al reclamante a exigir la cantidad que hubiere señalado al inicio de su reclamación.
+Si la resolución del órgano competente tiene por acreditados la existencia de la actividad administrativa irregular, del daño, y de la relación de causalidad directa entre la primera y el segundo, y la persona reclamante al inicio del procedimiento no hubiere presentado la liquidación del monto de la indemnización que exija con los requisitos que se mencionan en el artículo 20 de la presente Ley, al notificarle la resolución el órgano competente requerirá a la persona reclamante para que presente tal liquidación dentro de los diez días siguientes.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+Cuando la persona reclamante no presenta la liquidación dentro del plazo señalado, se considerará que desiste de su pretensión de indemnización.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+De presentarla, se agotarán los pasos previstos en el artículo 20 de la presente Ley y en un plazo no mayor de quince días la autoridad emitirá una resolución en la que determine el monto de la indemnización que se pagará a la persona reclamante. Transcurrido este último plazo sin que la autoridad se pronuncie sobre el monto de la indemnización, dará derecho a la persona reclamante a exigir la cantidad que hubiere señalado al inicio de su reclamación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2026)</small>
 
 ###### Artículo 36.
 
-Las notificaciones para el reclamante serán personales:
+Las notificaciones para la persona reclamante serán personales:
 
 I.- Cuando se trate del acuerdo recaído a la solicitud, así como cuando se notifique la resolución definitiva;
 
@@ -387,11 +465,13 @@ III.- El lugar, fecha y hora en que se practiquen; y,
 
 IV.- El fundamento legal para realizarla.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### Artículo 38.
 
-Las notificaciones personales se harán en el domicilio señalado por el reclamante. Cuando exista imposibilidad para hacer la notificación en la forma establecida, se hará constar esta circunstancia en el expediente y se acordará la notificación por lista de todas las actuaciones subsecuentes. Las notificaciones podrán realizarse en las oficinas de las autoridades competentes si se presentan los interesados o a las personas que hubieren autorizado para recibirlas.
+Las notificaciones personales se harán en el domicilio señalado por la persona reclamante. Cuando exista imposibilidad para hacer la notificación en la forma establecida, se hará constar esta circunstancia en el expediente y se acordará la notificación por lista de todas las actuaciones subsecuentes. Las notificaciones podrán realizarse en las oficinas de las autoridades competentes si se presentan las personas interesadas o a las personas que hubieren autorizado para recibirlas.
 
-Las notificaciones que deban hacerse a las dependencias y entidades a las que se les exija indemnización por responsabilidad patrimonial, se harán por medio de oficio que será entregado en el domicilio de su oficina principal, en el lugar del procedimiento por el empleado de la autoridad, quien recabará el recibo correspondiente y lo agregará al expediente, asentando la razón correspondiente; y fuera del lugar del procedimiento, por correo, en pieza certificada con acuse de recibo, el cual se agregará al expediente. También podrán realizarse mediante el uso de los medios electrónicos o cualquier otro medio; cuando así lo hayan autorizado expresamente y siempre que pueda comprobarse fehacientemente la recepción de las mismas.
+Las notificaciones que deban hacerse a las dependencias y entidades a las que se les exija indemnización por responsabilidad patrimonial, se harán por medio de oficio que será entregado en el domicilio de su oficina principal, en el lugar del procedimiento por la persona empleada de la autoridad, quien recabará el recibo correspondiente y lo agregará al expediente, asentando la razón correspondiente; y fuera del lugar del procedimiento, por correo, en pieza certificada con acuse de recibo, el cual se agregará al expediente. También podrán realizarse mediante el uso de los medios electrónicos o cualquier otro medio; cuando así lo hayan autorizado expresamente y siempre que pueda comprobarse fehacientemente la recepción de las mismas.
 
 ###### Artículo 39.
 
@@ -431,7 +511,9 @@ Para los efectos de la misma distribución, se tomarán en cuenta, entre otros, 
 
 I.- A cada ente público, debe atribuirse el daño que derive de su propia organización y operación.
 
-II.- Cada ente público responderá del daño que haya (sic) ocasionado los servidores públicos que les estén adscritos.
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+II.- Cada ente público responderá del daño que haya (sic) ocasionado las personas servidoras públicas que les estén adscritas.
 
 III.- El ente público que haya proyectado obras ejecutadas por otros, responderá del daño causado, cuando éstos no hubieran tenido el derecho de modificar el proyecto por cuya deficiencia se generó el daño. Por su parte, los ejecutores de las obras responderán del daño causado que no tenga como origen deficiencias en el proyecto elaborado por el sujeto obligado.
 
@@ -447,27 +529,39 @@ En el caso de que alguna dependencia o entidad de las administraciones públicas
 
 En el caso de que el ente público acredite la concurrencia en la generación del daño de otro ente público que forme parte de otro Poder Público, de otro orden de gobierno, o de otro Órgano Constitucional Autónomo, sólo estará obligado a indemnizar en la proporción de su participación en el hecho o acto dañoso.
 
-El reclamante tendrá expedito su derecho para exigir la indemnización que corresponda al otro u otros entes públicos, agotando el procedimiento que para cada caso corresponda. El particular al iniciar su reclamación ante los entes públicos que sean posibles copartícipes, deberán (sic) acompañar copia certificada de la resolución emitida en la reclamación al ente que hubiere acreditado una participación proporcional en la generación del daño.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+La persona reclamante tendrá expedito su derecho para exigir la indemnización que corresponda al otro u otros entes públicos, agotando el procedimiento que para cada caso corresponda. La o el particular al iniciar su reclamación ante los entes públicos que sean posibles copartícipes, deberán acompañar copia certificada de la resolución emitida en la reclamación al ente que hubiere acreditado una participación proporcional en la generación del daño.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
 
 ###### Artículo 48.
 
-Los Poderes Públicos Estatales, los Órganos Constitucionales Autónomos y los Ayuntamientos, podrán celebrar convenios de coordinación a fin de unificar los procedimientos de reclamación de indemnizaciones por responsabilidad patrimonial, para los casos en que los mismos entes públicos o el afectado aleguen que el daño fue causado por varios entes públicos que se rijan por diversos procedimientos de reclamación.
+Los Poderes Públicos Estatales, los Órganos Constitucionales Autónomos y los Ayuntamientos, podrán celebrar convenios de coordinación a fin de unificar los procedimientos de reclamación de indemnizaciones por responsabilidad patrimonial, para los casos en que los mismos entes públicos o la persona afectada aleguen que el daño fue causado por varios entes públicos que se rijan por diversos procedimientos de reclamación.
 
 ###### Artículo 49.
 
 Los concesionarios tendrán la obligación de contratar seguros u otorgar garantías a favor del concesionante, para el caso de que el daño reclamado haya sido ocasionado por la actividad del concesionario y no se derive de una determinación del concesionante.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### Artículo 50.
 
-En el caso de que el ente público acredite la concurrencia de un particular en la generación del daño, sólo estará obligado a indemnizar en la proporción de su participación en el hecho o acto dañoso. El reclamante tendrá expedito su derecho para exigir la responsabilidad civil al tercero por la vía correspondiente.
+En el caso de que el ente público acredite la concurrencia de un particular en la generación del daño, sólo estará obligado a indemnizar en la proporción de su participación en el hecho o acto dañoso. La persona reclamante tendrá expedito su derecho para exigir la responsabilidad civil al tercero por la vía correspondiente.
 
-### CAPITULO VI. DEL DERECHO A REPETIR CONTRA LOS SERVIDORES PÚBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JUNIO DE 2026)</small>
+
+### CAPITULO VI. DEL DERECHO A REPETIR CONTRA LAS PERSONAS SERVIDORAS PÚBLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2026)</small>
 
 ###### Artículo 51.
 
-Los entes públicos valorando las circunstancias particulares del caso, podrán exigir a los servidores públicos ordenadores o ejecutores de la actividad administrativa irregular, el pago de la cantidad total o parcial que se hubiere entregado al particular en concepto de indemnización conforme a la presente Ley, cuando previa substanciación del procedimiento de responsabilidad administrativa previsto en la Ley de Responsabilidades, se determine su responsabilidad. El monto que se exija al servidor público por este concepto formará parte de la sanción económica que se le aplique.
+Los entes públicos valorando las circunstancias particulares del caso, podrán exigir a las personas servidoras públicas ordenadoras o ejecutoras de la actividad administrativa irregular, el pago de la cantidad total o parcial que se hubiere entregado al particular en concepto de indemnización conforme a la presente Ley, cuando previa substanciación del procedimiento de responsabilidad administrativa previsto en la Ley de Responsabilidades, se determine su responsabilidad. El monto que se exija al servidor público por este concepto formará parte de la sanción económica que se le aplique.
 
-El monto que se exigirá a los servidores públicos se determinará tomando en cuenta los siguientes criterios:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JUNIO DE 2026)</small>
+
+El monto que se exigirá a las personas servidoras públicas se determinará tomando en cuenta los siguientes criterios:
 
 I.- La gravedad del daño causado al particular;
 
@@ -477,13 +571,23 @@ III.- La perturbación o trastorno que la actividad administrativa irregular hub
 
 IV.- La existencia de dolo o negligencia al ordenar o ejecutar la actividad administrativa irregular.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
 ###### Artículo 52.
 
-La presentación de reclamaciones por responsabilidad patrimonial de los entes públicos interrumpirá los plazos de prescripción que la Ley de Responsabilidades determina para iniciar el procedimiento administrativo disciplinario a los servidores públicos, los cuales se reanudarán cuando quede firme la resolución o sentencia definitiva que al efecto se dicte en el primero de los procedimientos mencionados.
+La presentación de reclamaciones por responsabilidad patrimonial de los entes públicos interrumpirá los plazos de prescripción que la Ley de Responsabilidades determina para iniciar el procedimiento administrativo disciplinario a las personas servidoras públicas, los cuales se reanudarán cuando quede firme la resolución o sentencia definitiva que al efecto se dicte en el primero de los procedimientos mencionados.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
 
 ###### Artículo 53.
 
-Las cantidades que se obtengan con motivo de las sanciones económicas que las autoridades competentes impongan a los servidores públicos, en términos de lo dispuesto por la Ley de Responsabilidades se adicionarán al monto de los recursos previstos para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial de los entes públicos.
+Las cantidades que se obtengan con motivo de las sanciones económicas que las autoridades competentes impongan a las personas servidoras públicas, en términos de lo dispuesto por la Ley de Responsabilidades se adicionarán al monto de los recursos previstos para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial de los entes públicos.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+###### Artículo 54.
+
+Las personas servidoras públicas podrán impugnar las resoluciones administrativas por las que se les imponga la obligación de resarcir los daños y perjuicios que el Estado haya pagado con motivo de los reclamos indemnizatorios respectivos, a través del recurso de revocación, o ante el Tribunal Estatal de Justicia Administrativa, en los términos de la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -554,3 +658,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 5 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 275 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS, SE ADICIONA UN ARTÍCULO 54 Y SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO VI DE LA LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
