@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-fondo-de-la-vivienda-del-instituto-1085
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-06-09"
-last_updated: "2017-04-21"
+last_updated: "2026-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108510&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-04-29"
 ---
 # REGLAMENTO ORGANICO DEL FONDO DE LA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGÁNICO DEL FONDO DE LA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 5 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO ORGÁNICO DEL FONDO DE LA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2026 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 9 de junio de 2015.
 
@@ -2924,3 +2926,27 @@ D.O.F. 21 DE ABRIL DE 2017.
 PRIMERO. Las reformas y adiciones al presente Reglamento entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. El Departamento de Contraloría Interna y el área de Auditoría Interna previstos en este Reglamento, entrarán en vigor hasta que su estructura orgánica y presupuestal le sea aprobada al FOVISSSTE, por parte de la Secretaría de Hacienda y Crédito Público y de la Secretaría de la Función Pública.
+
+D.O.F. 5 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO 23.1392.2025 POR EL QUE LA JUNTA DIRECTIVA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, APROBÓ EL REGLAMENTO ORGÁNICO DEL FONDO DE LA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]
+
+PRIMERO. El presente Reglamento entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Orgánico del Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación el 09 de junio de 2015 y su modificación.
+
+TERCERO. Se mantendrán en vigor todas las disposiciones que no se opongan al presente Reglamento hasta en tanto le sea aprobada al FOVISSSTE por parte de la Secretaría de Hacienda y Crédito Público y de la Secretaría Anticorrupción y Buen Gobierno las modificaciones a su estructura orgánica.
+
+CUARTO. Las referencias en las Disposiciones Administrativas y Disposiciones Internas de las Áreas Administrativas que por virtud del presente Reglamento cambian de denominación o adscripción, se entenderán hechas a las que asuman sus funciones.
+
+QUINTO. Las modificaciones en las denominaciones de las Áreas Administrativas aplicarán hasta en tanto sean autorizadas por parte de la Secretaría de Hacienda y Crédito Público y de la Secretaría Anticorrupción y Buen Gobierno.
+
+SEXTO. Dentro de los 120 días naturales siguientes a la aprobación que la Secretaría Anticorrupción y Buen Gobierno realice a la estructura orgánica del FOVISSSTE, la Dirección de Administración y Finanzas del ISSSTE, deberá coadyuvar con las Áreas Administrativas del Fondo, para hacer las transferencias de recursos humanos, materiales, financieros y tecnológicos que resulten aplicables.
+
+SÉPTIMO. Dentro de los 180 días naturales siguientes a la aprobación que la Secretaría Anticorrupción y Buen Gobierno realice a la estructura orgánica del FOVISSSTE, las Áreas Administrativas del Fondo deberán realizar los proyectos de Disposiciones Administrativas y Disposiciones Internas que se deriven del presente Reglamento, así como la actualización de aquellas con las que ya se cuente para su armonización.
+
+OCTAVO. Los asuntos pendientes o en trámite al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una Área Administrativa a otra u otras, continuarán su trámite y serán resueltos conforme a las normas vigentes al momento de su inicio, por aquella o aquellas Áreas Administrativas a las que se les haya atribuido la competencia en este ordenamiento.
+
+NOVENO. Con la entrada en vigor del presente Reglamento, los derechos laborales de las personas trabajadoras serán respetados en términos de la legislación aplicable.
+
+DÉCIMO. La Dirección Jurídica del ISSSTE realizará los trámites correspondientes para que el contenido de este Reglamento sea incluido en la Normateca Electrónica Institucional, dentro de los cinco días hábiles siguientes al de su publicación en el Diario Oficial de la Federación.”
