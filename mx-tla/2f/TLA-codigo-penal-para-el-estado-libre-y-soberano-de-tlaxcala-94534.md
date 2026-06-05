@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2026-05-12"
+last_updated: "2026-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -4753,17 +4753,19 @@ La cópula entre ascendientes y descendientes consanguíneos en línea recta o e
 
 ### CAPÍTULO ÚNICO. DISCRIMINACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2026)</small>
 
 ###### Artículo 375.
 
-Se impondrán de uno a tres años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, al que por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas:
+Se impondrán de uno a tres años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, a quien atente en contra de la dignidad humana, ya sea por su origen étnico, nacionalidad, género, embarazo, el puerperio, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, orientación sexual, estado civil, o cualquier otra que tenga por objeto anular, restringir o menoscabar los derechos y libertades de las personas:
 
 I. Provoque o incite al odio o a la violencia;
 
 II. Veje, injurie o excluya a alguna persona o grupo de personas;
 
-III. Niegue o restrinja derechos laborales en el acceso a un puesto, cargo o comisión, y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
+
+III. Niegue o restrinja derechos laborales en el acceso, permanencia o ascenso a un puesto, cargo o comisión, y
 
 IV. Niegue a una persona un servicio o una prestación a la que tenga derecho. Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general.
 
@@ -6236,5 +6238,17 @@ Los procedimientos penales que se hayan iniciado antes de la entrada en vigor de
 En cumplimiento con la agenda de homologación nacional, la Fiscalía General de Justicia del Estado deberá adecuar la normatividad interna y de procedimientos en un plazo no mayor a sesenta días naturales a partir de la entrada en vigor del presente Decreto, para garantizar la aplicación inmediata de la persecución de oficio del delito previsto en el artículo 290 del Código Penal para el Estado Libre y Soberano de Tlaxcala.
 
 ###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 5 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 375 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
