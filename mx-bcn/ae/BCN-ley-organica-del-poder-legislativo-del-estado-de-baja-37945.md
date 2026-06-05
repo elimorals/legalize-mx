@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2025-09-05"
+last_updated: "2026-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -2011,6 +2011,14 @@ Es iniciativa con proyecto de decreto aquella que tienda a una resolución que o
 
 Es proposición de acuerdo económico, la determinación que tienda a una resolución que por su naturaleza no requiera de sanción, promulgación y publicación o que fije la posición del Congreso del Estado respecto de algún hecho, acontecimiento o fenómeno social.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+ARTICULO 114 BIS.- Las proposiciones que contengan exhortos a otras autoridades o entidades públicas, aprobadas por el Pleno del Congreso del Estado, deberán ser atendidas y respondidas por escrito en un plazo no mayor a treinta días naturales, contados a partir de su notificación oficial.
+
+Cuando la autoridad exhortada no pueda atender el exhorto dentro de dicho plazo, deberá remitir al Congreso una justificación por escrito en la que exponga las causas que impiden su atención oportuna y, en su caso, indique un plazo estimado para su cumplimiento o resolución que no exceda de quince días adicionales.
+
+La falta de respuesta o el incumplimiento injustificado serán informados por la Mesa Directiva al Pleno del Congreso, a efecto de que se determinen las acciones parlamentarias correspondientes.
+
 ###### ARTICULO 115.
 
 Las Iniciativas de Leyes y Decretos corresponde:
@@ -3318,3 +3326,13 @@ PRIMERO. La presente reforma entrará en vigor al momento de su aprobación por 
 SEGUNDO. Publíquese en la Gaceta del Congreso del Estado de Baja California.
 
 TERCERO. Publíquese en el Periódico Oficial del Estado, para los efectos conducentes.
+
+P.O. 5 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 271 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 114 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno de esta Soberanía.
+
+SEGUNDO.- El Congreso del Estado adoptará las medidas administrativas necesarias para notificar formalmente los exhortos que emita, en términos de lo previsto por esta reforma.
+
+TERCERO.- Publíquese la presente reforma en el Periódico Oficial del Estado de Baja California, para los efectos legales conducentes.
