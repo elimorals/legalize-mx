@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2026-04-24"
+last_updated: "2026-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -169,15 +169,19 @@ III.- Continuado, cuando con unidad de propósito delictivo y pluralidad de cond
 
 Dolo, Culpa y Preterintención.- Los delitos se pueden realizar dolosa, culposa o preterintencionalmente:
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2026)</small>
 
-I.- Obra dolosamente el que, conociendo los elementos objetivos del tipo penal, o previendo como posible el resultado típico, quiere o acepta la realización de la conducta o hecho descrito por la ley;
+I.- Obra con dolo el que, conociendo los elementos objetivos del tipo penal, quiere realizar la conducta o alcanzar el resultado típico. Obra con dolo eventual, quien, previendo como posible el resultado típico, acepta su realización y actúa con indiferencia frente a la producción del mismo.
+
+El dolo directo aplica para las consecuencias directas y necesarias de la conducta, mientras que el dolo eventual aplica para las consecuencias concomitantes o colaterales de la misma.
 
 II.- Obra culposamente el que produce el resultado típico que no previo siendo previsible o previo confiado en que no se produciría, al infringir un deber de cuidado que las circunstancias y condiciones personales le imponen;
 
 III.- Obra preterintencionalmente el que causa un resultado típico más grave al querido, si aquél se produce culposamente.
 
-Sólo es punible el delito doloso y lo será el culposo y el preterintencional, si la Ley lo conmina expresamente con pena.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+Solo es punible el delito doloso y eventual, lo será el culposo y el preterintencional, si la ley lo conmina expresamente con pena.
 
 La punibilidad del delito preterintencional, sólo es admisible en los casos en que se admite la del delito culposo.
 
@@ -933,19 +937,19 @@ Fijación de la disminución o del aumento de la pena.- Cuando este Código prev
 
 ### CAPITULO II. PUNIBILIDAD DE LOS DELITOS CULPOSOS Y PRETERINTENCIONAL
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
 
 ###### Artículo 75.
 
-Punibilidad de los delitos culposos.- Los delitos culposos serán sancionados con prisión de tres días a cinco años, multa hasta de trescientos días y suspensión hasta por cinco años o privación definitiva de derechos para ejercer profesión u oficio. Cuando a consecuencia de la conducta culposa del personal de empresas de transporte de pasajeros o de carga, de servicio público o concedido por autorización, permiso o licencia de las autoridades competentes se cause homicidio, la sanción será de dos a ocho años de prisión, multa hasta de trescientos días, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de igual naturaleza. Cuando por culpa y con motivo del tránsito de vehículos se cometa homicidio y el responsable conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras substancias, o utiliza algún aparato de comunicación, que impidan o perturben su adecuada conducción, se le impondrá de tres a ocho años de prisión y multa hasta de quinientos días. Cuando el delito culposo sea cometido con motivo del tránsito de vehículos se podrá imponer como pena, a juicio del Juez de Control o Tribunal de Enjuiciamiento, la suspensión hasta por cinco años o privación definitiva del derecho a obtener licencia para manejar vehículos de motor.
+Punibilidad de los delitos culposos.- Los delitos culposos serán sancionados con prisión de tres días a cinco años, multa hasta de trescientos días y suspensión hasta por cinco años o privación definitiva de derechos para ejercer profesión y oficio. Cuando a consecuencia de la conducta culposa del personal de empresas de transporte de pasajeros o de carga, de servicio público o concedido por autorización, permiso o licencia de las autoridades competentes se cause homicidio, la sanción será de dos a ocho años de prisión, multa hasta de trescientos días, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de igual naturaleza. Cuando el delito culposo sea cometido con motivo del tránsito de vehículos se podrá imponer como pena, a juicio del Juez de Control o Tribunal de Enjuiciamiento, la suspensión hasta por cinco años o privación definitiva del derecho a obtener licencia para manejar vehículos de motor.
+
+No obstante, cuando en los supuestos anteriores el agente haya previsto como posible la producción del resultado letal o de lesiones graves y, aun así, haya actuado aceptando dicho riesgo, el hecho será calificado como doloso bajo la modalidad de dolo eventual, aplicándose en consecuencia las penas previstas para los delitos dolosos de homicidio o lesiones, según corresponda.
 
 Cuando por culpa y con motivo del tránsito de vehículos se cause únicamente daño en propiedad ajena, se sancionará hasta con cuarenta días multa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
-
 La calificación de la gravedad de la imprudencia queda al prudente arbitrio del Juez de Control o Tribunal de Enjuiciamiento, quien deberá tomar en consideración las circunstancias generales señaladas en el artículo 69 y las especiales siguientes:
 
-I.- La mayor o menor facilidad de preveer (sic) y evitar el daño que resulto;
+I.- La mayor o menor facilidad de prever y evitar el daño que resultó;
 
 II.- Si para ello bastaban una reflexión o atención ordinaria y conocimientos comunes en algún arte o ciencia;
 
@@ -955,7 +959,7 @@ IV.- Si tuvo tiempo para obrar con reflexión y cuidado necesarios; y
 
 V.- El estado del equipo, vías y demás condiciones de funcionamiento mecánico; tratándose de infracciones cometidas en los servicios de empresas de transporte, y en general por conductores de vehículos.
 
-No se impondrá pena alguna a quien por culpa en el manejo de vehículos de motor ocasione lesiones, homicidio o ambos, en agravio de su cónyuge, ascendientes, descendientes o hermanos, concubino o concubina, adoptante o adoptado.
+No se impondrá pena alguna a quien por culpa en el manejo de vehículos de motor ocasione lesiones, homicidio o ambos, en agravio de su cónyuge, ascendientes, descendientes o hermanos, concubina o concubino, adoptante o adoptado.
 
 ###### Artículo 76.
 
@@ -1479,6 +1483,16 @@ Tipo.- Comete el delito de homicidio el que priva de la vida a otro.
 
 Punibilidad de homicidio simple.- Al que prive de la vida a otro se le impondrá de ocho a quince años de prisión.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+Artículo 124 BIS.- Homicidio en modalidad de dolo eventual.- Cuando una persona prive de la vida a otra persona causada por una conducta deliberadamente riesgosa y/o temeraria realizada por el sujeto activo, al conducir un vehículo de motor bajo el estado de ebriedad, psicotrópicos, exceso de velocidad y/o en la utilización de aparatos telefónicos, quien habiendo previsto como posible la ocurrencia del resultado letal actuó aceptándolo, este hecho se considerará homicidio doloso en la modalidad de dolo eventual.
+
+En estos casos se impondrá una pena para los delitos dolosos en modalidad de dolo eventual de ocho a quince años de prisión cuando se produzca la muerte de una persona, así como en caso de lesiones que pongan en peligro la vida, lesiones permanentes, secuelas definitivas o pérdida de funciones. Cuando no ponga en peligro la vida, y tarde en sanar hasta quince días, y no se encuentre en alguna de las hipótesis mencionadas anteriormente, se le impondrá de un año a tres años de prisión y hasta doscientos días de multa. Si tarda en sanar más de quince días se le impondrá prisión de cuatro a ocho años y hasta quinientos días de multa, todo lo anterior sin perjuicio de las agravantes especiales que pudieran concurrir.
+
+Dicho lo anterior, cuando existan dos o más víctimas o la víctima sea menor de edad, persona adulta mayor o persona con discapacidad, las penas previstas en el párrafo anterior se incrementarán hasta en dos terceras partes.
+
+Procederán, tratándose de delitos cometidos con dolo eventual, mecanismos de solución alterna, como el perdón del ofendido o los acuerdos reparatorios.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 125.
@@ -1737,6 +1751,10 @@ En los casos contemplados en las fracciones II, III y IV, los médicos tendrán 
 
 Tipo.- Comete el delito de lesiones el que causa a otro un daño en la salud.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 137 BIS.- Lesiones con dolo eventual.- Cuando el daño en la salud de una persona sea consecuencia de una conducta en la que el agente, previendo como posible el resultado lesivo, lo acepte y actúe con indiferencia a su producción, se considerará que las lesiones fueron causadas dolosamente bajo la modalidad de dolo eventual. En estos casos, se aplicarán las penalidades previstas en el artículo 124 BIS del presente Código, atendiendo a la gravedad del daño ocasionado.
+
 > <small>(REFORMADO PRIMER PÁRRAFO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 138.
@@ -1763,6 +1781,10 @@ Si se produjeren varios de los resultados previstos en este artículo solamente 
 
 Lesiones que ponen en peligro la vida.- Al que infiera lesiones que pongan en peligro la vida se le impondrán de tres a seis años de prisión y hasta ciento cincuenta días multa, sin perjuicio de las sanciones que le correspondan conforme al artículo anterior.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 2026)</small>
+
+Cuando dichas lesiones sean consecuencia de una conducta en la que el agente, previendo como posible el resultado, lo acepte y actúe con indiferencia a su producción, se considerará que las lesiones fueron causadas dolosamente bajo la modalidad de dolo eventual, aplicándose las penas previstas para las lesiones dolosas.
+
 ###### Artículo 141.
 
 Lesiones en riña.- Si las lesiones fueren inferidas en riña, se disminuirán hasta la mitad o hasta la tercera parte de las penas previstas en los tres artículos anteriores, según se trate de provocador o del provocado, respectivamente.
@@ -1781,11 +1803,11 @@ Artículo 142 BIS.- Lesiones agravadas por razón de género.- Al que dolosament
 
 Lesiones calificadas.- Cuando las lesiones sean calificadas, en términos del artículo 147, la pena correspondiente a las lesiones simples se aumentará en dos terceras partes.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
 
-Artículo 143 BIS.- Lesiones contra menores o incapaces o adultos mayores.- Al que dolosamente lesione a una persona menor de edad, incapaz y/o inimputable sujeto a su tutela, custodia, guarda-protección, educación, cuidado o instrucción, se le impondrá una pena de seis meses a dos años de prisión, si las lesiones inferidas son de las que no ponen en peligro la vida, cualquiera que sea el tiempo de su curación.
+Artículo 143 BIS.- Lesiones contra personas con discapacidad o adultas mayores.- Al que dolosamente lesione a una persona con discapacidad y/o inimputable sujeto a su tutela, guarda-protección, educación, cuidado o instrucción, se le impondrá una pena de seis meses a dos años de prisión, si las lesiones inferidas son de las que no ponen en peligro la vida, cualquiera que sea el tiempo de su curación.
 
-Si las lesiones a que se refiere el párrafo anterior son inferidas a una persona menor de doce años o de sesenta años o más edad, se impondrá una pena de dos a cinco años de prisión y hasta ciento cincuenta días multa. Si las lesiones inferidas son de las señaladas en el artículo 139, o de las que ponen en peligro la vida, la pena correspondiente a la lesión inferida aumentará en dos terceras partes, y se privará al agente del derecho de ejercer la patria potestad, la tutela, custodia, guarda-protección, educación, cuidado o instrucción de menores, adultos mayores e incapaces y/o inimputables.
+Si las lesiones a que se refiere el párrafo anterior son inferidas a una persona menor de doce años o de sesenta años o más edad, se impondrá una pena de dos a cinco años de prisión y hasta ciento cincuenta días multa. Si las lesiones inferidas son de las señaladas en el artículo 139, o de las que ponen en peligro la vida, la pena correspondiente a la lesión inferida aumentará en dos terceras partes, y se privará al agente del derecho de ejercer la patria potestad, la tutela, custodia, guarda-protección, educación, cuidado o instrucción de personas menores de dieciocho años, personas adultas mayores y personas con discapacidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2026)</small>
 
@@ -1829,11 +1851,11 @@ Conforme a lo establecido en el artículo 125 BIS y 145, se entenderá por anima
 
 Concepto.- Por riña se entiende para todos los efectos penales, la contienda de obra y no la de palabra entre dos o más personas, con el propósito de dañarse recíprocamente.
 
-> <small>(F. DE E., P.O. 17 DE MARZO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2026)</small>
 
 ###### Artículo 147.
 
-Homicidio y lesiones calificados.- Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, con alevosía o traición o con odio; de igual manera serán considerados calificados, cuando se cometan frente a menores de edad, o, familiares de la víctima; en contra de periodistas en ejercicio o como consecuencia del desempeño de su actividad o profesión; así como también; en contra de miembros de las instituciones policiales del Estado en ejercicio o como consecuencia del desempeño de sus funciones, incluyendo a los elementos de las empresas privadas y a los que de manera independiente presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, así como de bienes o valores incluido su traslado, siempre y cuando estén debidamente registrados ante los organismos públicos correspondientes; también se consideran calificados cuando se cometan en contra de personas que tengan el carácter de servidores públicos que se encarguen de funciones de seguridad pública, de investigación de delitos, de la administración o procuración de justicia y de ejecución de penas, en el acto de ejercer lícitamente sus funciones o como consecuencia del desempeño de ellas, así como cuando se cometan en perjuicio de personas que ejerzan la abogacía, con motivo de su desempeño en un asunto legal determinado. La presente disposición no surtirá efectos en el caso de delitos no graves por culpa.
+Homicidio y lesiones calificados.- Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, con alevosía o traición o con odio; de igual manera serán considerados calificados, cuando se cometan frente a niñas, niños y adolescentes; familiares de la víctima; en contra de personas menores de dieciocho años; en contra de periodistas en ejercicio o como consecuencia del desempeño de su actividad o profesión; así como también; en contra de miembros de las instituciones policiales del Estado en ejercicio o como consecuencia del desempeño de sus funciones, incluyendo a los elementos de las empresas privadas y a los que de manera independiente presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, así como de bienes o valores incluido su traslado, siempre y cuando estén debidamente registrados ante los organismos públicos correspondientes; también se consideran calificados cuando se cometan en contra de personas que tenga el carácter de servidores públicos que se encarguen de funciones de seguridad pública, de investigación de delitos, de la administración o procuración de justicia y de ejecución de penas, en el acto de ejercer lícitamente sus funciones o como consecuencia del desempeño de ellas, así como cuando se cometan en perjuicio de personas que ejerzan la abogacía, con motivo de su desempeño en un asunto legal determinado. La presente disposición no surtirá efectos en el caso de delitos no graves por culpa.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1843,9 +1865,9 @@ Se consideran periodistas aquellas personas que tengan como actividad profesiona
 
 Concepto de premeditación.- Hay premeditación, siempre que el imputado cause intencionalmente una lesión, después de haber reflexionado sobre el delito que va a cometer.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
 
-Se presumirá que existe premeditación cuando las lesiones o el homicidio se cometan por inundación, incendio, minas, bombas o explosivos; por medio de venenos o cualquier otra substancia nociva a la salud, contagio venéreo, asfixia o enervantes o por retribución económica o de cualquier otra especie dada o prometida; por tormento, motivos depravados o brutal ferocidad.
+Se presumirá que existe premeditación cuando las lesiones o el homicidio se cometan por inundación, incendio, minas, bombas o explosivos; por medio de venenos o cualquier otra substancia nociva a la salud, contagio venéreo, asfixia o enervantes o por retribución económica o de cualquier otra especie dada o prometida; por tormento, motivos depravados o brutal ferocidad, o bien, mediante atropello, colisión o vuelco intencional con vehículo de motor.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
 
@@ -3873,19 +3895,19 @@ Pena adicional para el delito cometido por medio de vehículo, motor o maquinari
 
 ### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2026)</small>
 
 ###### Artículo 255.
 
-Tipo y Punibilidad.- A quien maneje un vehículo de motor en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, no será castigado la primera vez cuando no haya provocado daño en las personas o en las cosas, pero la autoridad aprehensora lo presentará ante la Autoridad Administrativa Municipal que determinen los reglamentos, quien le formará registro para establecer antecedente, apercibiéndole formalmente de que si incurre de nuevo en esta conducta dentro del plazo de tres años, será consignado a la autoridad judicial, y de resultar responsable, además de la penalidad prevista por el último párrafo de este artículo, se le someterá a la medida de seguridad de tratamiento para dependientes de bebidas alcohólicas, estupefacientes y psicotrópico, conforme a lo previsto por los artículos 55, fracción II y 60 de este Código.
+Tipo y Punibilidad.- A quien maneje un vehículo de motor en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción y derivado de lo anterior provoque lesiones o prive de la vida a otro, será considerado bajo la modalidad de dolo eventual, no será castigado la primera vez cuando no haya provocado daño en las personas o en las cosas, pero la autoridad aprehensora lo presentará ante la Autoridad Administrativa Municipal que determinen los reglamentos, quien le formará registro para establecer antecedente, apercibiéndole formalmente de que si incurre de nuevo en esta conducta dentro del plazo de tres años, será consignado a la autoridad judicial, y de resultar responsable además de la penalidad prevista por el último párrafo de este artículo, se le someterá a la medida de seguridad de tratamiento para dependientes de bebidas alcohólicas, estupefaciente y psicotrópico, conforme a lo previsto por los artículos 55, fracción II y 60 de este Código.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
 En todos los casos la Autoridad Administrativa remitirá copia certificada de las constancias que integren el registro en que formó el antecedente, a la Agencia del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2026)</small>
 
-Cuando se cause daño a las personas y/o a las cosas se le impondrá prisión de seis meses a tres años, multa de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización y suspensión hasta por un año del derecho a conducir vehículos de motor. La misma pena se impondrá a quien dentro del plazo mencionado contado a partir del apercibimiento incurre en la misma conducta prevista en el primer párrafo del presente artículo.
+Cuando la persona cause daño a las personas y/o a las cosas se le impondrá prisión de un año a cuatro años, multa de cien hasta seiscientas veces el valor diario de la Unidad de Medida y Actualización y suspensión hasta por un año del derecho a conducir vehículos de motor. La misma pena se impondrá a quien dentro del plazo mencionado contado a partir del apercibimiento incurra en la misma conducta prevista en el primer párrafo del presente artículo.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
@@ -6988,3 +7010,15 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- Los procedimientos penales que se estén sustanciando a la entrada en vigor de las presentes reformas se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
 
 TERCERO.- A las personas que hayan cometido el delito contemplado en las presentes reformas con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas les serán aplicables las disposiciones vigentes en el momento en que se haya cometido, de resultar menos gravosas.
+
+P.O. 5 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 266 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 143 BIS Y 147 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 267 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 14, 75, 140 Y 255 ASÍ COMO LA ADICIÓN DE LOS ARTÍCULOS 124 BIS Y 137 BIS, TODOS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
