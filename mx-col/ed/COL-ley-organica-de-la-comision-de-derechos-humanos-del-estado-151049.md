@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-comision-de-derechos-humanos-del-estado-1510
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-04"
-last_updated: "2021-09-04"
+last_updated: "2026-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2026.
 
 Ley publicada en el Suplemento Número 5 del Número 69 del Periódico Oficial del Estado de Colima, el sábado 4 de septiembre de 2021.
 
@@ -339,9 +339,9 @@ VIII. No haber sido persona precandidata o candidata a cargo alguno de elección
 
 IX. No haber sido objeto de inhabilitación o destitución administrativas para el desempeño de empleo, cargo o comisión en el servicio público, mediante resolución que haya causado estado; y
 
-(NOTA: EL 16 DE MARZO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 160/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MARZO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2026)</small>
 
-X. POSEER CON ANTIGÜEDAD MÍNIMA DE CINCO AÑOS, TÍTULO PROFESIONAL DE LICENCIATURA EN DERECHO, LEGALMENTE EXPEDIDO POR LA AUTORIDAD O INSTITUCIÓN LEGALMENTE FACULTADA PARA ELLO.
+X. Poseer con antigüedad mínima de cinco años, título profesional de licenciatura en alguna de las áreas de las ciencias sociales, jurídicas o afines a los derechos humanos, legalmente expedido por la autoridad o institución legalmente facultada para ello.
 
 ###### Artículo 18.
 
@@ -441,11 +441,27 @@ Tendrá a su cargo el control, la vigilancia, fiscalización y evaluación de la
 
 El Órgano Interno de Control tendrá una persona titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto, de acuerdo a lo establecido por el Reglamento Interno.
 
-(NOTA: EL 16 DE MARZO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 160/2021, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE MARZO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2026)</small>
 
 ###### Artículo 26.
 
-LA PERSONA TITULAR DE LA PRESIDENCIA DE LA COMISIÓN, DESIGNARÁ A la persona titular del Órgano de Control Interno, QUIEN deberá cumplir con los siguientes requisitos al día de su designación:
+Para la designación de la persona titular del Órgano Interno de Control de la Comisión, la persona titular de la Presidencia de la Comisión Estatal de Derechos Humanos someterá a consideración del Congreso del Estado una propuesta que cumpla con los requisitos previstos en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2026)</small>
+
+El Congreso del Estado designará a la persona titular del Órgano Interno de Control, previa comparecencia ante la comisión legislativa competente, con el voto favorable de las dos terceras partes de las diputadas y los diputados presentes en la sesión respectiva.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2026)</small>
+
+En caso de que el Congreso del Estado rechace la propuesta, la persona que ocupe la presidencia de la Comisión Estatal de Derechos Humanos someterá una nueva en los términos del punto anterior. Si esta segunda propuesta fuera rechazada, ocupará el cargo la persona que designe libremente la presidencia de la Comisión Estatal.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2026)</small>
+
+La persona titular del Órgano Interno de Control de la Comisión desempeñará su encargo por un periodo de cuatro años, y podrá ser ratificado en una sola ocasión por un periodo igual.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JUNIO DE 2026)</small>
+
+La persona designada deberá cumplir, al día de su designación, con los siguientes requisitos:
 
 I. Tener la ciudadanía mexicana y estar en pleno goce de sus derechos civiles y políticos;
 
@@ -1724,3 +1740,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 RUBÉN PÉREZ ANGUIANO
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 314.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Una vez que entre en vigor el presente Decreto, notifíquese al Titular de la Comisión de Derechos Humanos del Estado de Colima, para que, en un plazo no mayor a 90 días, envíe al H. Congreso del Estado de Colima, la propuesta de la persona que ocupará el Órgano Interno de Control de la Comisión, conforme a lo aprobado en el presente Decreto.
