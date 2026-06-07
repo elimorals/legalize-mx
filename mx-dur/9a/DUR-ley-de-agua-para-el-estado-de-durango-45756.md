@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-agua-para-el-estado-de-durango-45756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-07"
-last_updated: "2021-11-21"
+last_updated: "2026-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE AGUA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de julio de 2005.
 
@@ -101,6 +101,18 @@ IV.- AGUA RESIDUAL TRATADA: El líquido de composición variada que proviene de 
 
 V.- AGUA TRATADA: El agua residual resultante de haber sido sometida a procesos de tratamientos, para reducir sus cargas contaminantes;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+V BIS.- AGUA PLUVIAL: La proveniente de la lluvia, nieve o granizo;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+V TER.- AGUA PLUVIAL COSECHADA: Los volúmenes de agua de lluvia, nieve o granizo captados mediante las obras, infraestructura, equipos e instrumentos adecuados en el Suelo Urbano y en el Suelo de Conservación por los sectores público, privado, social, ejidos, comunidades, barrios, pueblos y en los hogares de las y los habitantes del Estado de Durango;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+V QUATER.- AGUA PLUVIAL POTABILIZADA: Los volúmenes de agua pluvial cosechada resultante de haber sido sometida a procesos físico-químicos, biológicos y de potabilización adecuados para remover sus cargas contaminantes;
+
 VI.- ALCANTARILLADO: La red o sistema de conductos y dispositivos para recolectar y conducir las aguas residuales y pluviales a la planta de tratamiento;
 
 VII.- CIRCUNSCRIPCIÓN TERRITORIAL: El área geográfica en donde un organismo operador, se encarga de prestar el servicio de agua potable, alcantarillado y saneamiento;
@@ -122,6 +134,14 @@ XIII.- COMUNIDAD RURAL: Los centros de población con menos de 2500 habitantes;
 XIV.- CONCESIÓN: Título que otorgan los Ayuntamientos o la Comisión, cada uno en el ámbito de sus competencias, a los sectores privados o sociales, para la prestación de los servicios de agua potable, alcantarillado y saneamiento, dentro de un municipio o en varios de ellos;
 
 XV.- CONCESIONARIO: La persona moral a la que se le concesionen los servicios públicos de agua potable, alcantarillado o saneamiento;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XV BIS.- COSECHA DE AGUA DE LLUVIA: La acción de los sectores público, privado, social, ejidos, comunidades, barrios, pueblos y de las y los habitantes del Estado de Durango, para captar agua de lluvia, nieve o granizo, regulada por la presente ley, y promovida, organizada e incentivada por el Gobierno del Estado de Durango;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XV TER.- COSECHADOR(A) DE AGUA DE LLUVIA: Las dependencias, entidades, organismos, instituciones, organizaciones y entes públicos, privados y sociales, los ejidos, comunidades, barrios y pueblos, así como las y los habitantes del Estado de Durango que realicen actividades de captación de agua pluvial y se encuentren inscritos en el Padrón de Cosechadores de Agua de Lluvia del Estado;
 
 XVI.- CONSEJO DE CUENCA: Órgano colegiado de integración mixta, que será la instancia de coordinación y concertación, apoyo, consulta y asesoría entre la Comisión Nacional del Agua, incluyendo el organismo de Cuenca que corresponda y las dependencias y entidades de las instancias Federales, Estatales, Municipales y los representantes de los usuarios de agua y de las organizaciones de la sociedad, de la respectiva cuenca hidrológica o región hidrológica;
 
@@ -185,6 +205,10 @@ XL.- TRANSFORMADOR-PAGADOR: Concepto referido al costo que deberá ser cubierto 
 
 XLI.- TRATAMIENTO DE AGUAS RESIDUALES: El alejamiento y descarga de aguas usadas que, conforme a la normatividad establecida, se le remuevan sustancias tóxicas residuales de procesos biológicos, industriales y se contemple un manejo adecuado de lodos resultantes del tratamiento;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XLI BIS.- TRATAMIENTO DE AGUA PLUVIAL: La actividad que mediante procesos físico-químicos y biológicos remueve las cargas contaminantes del agua pluvial;
+
 XLII.- USO AGRÍCOLA: La aplicación de agua, para el riego destinado a la producción agrícola;
 
 XLIII.- USO COMERCIAL: La utilización del agua en establecimientos y oficinas dedicadas a actividades de compra y venta o prestación de bienes y servicios;
@@ -211,7 +235,9 @@ La autoridad y administración en materia de aguas de jurisdicción estatal y de
 
 Son atribuciones del Ejecutivo del Estado, en materia de Agua:
 
-I.- Elaborar las políticas de Desarrollo Hidráulico, dentro del Plan Estatal de Desarrollo y aprobar el Programa Hidráulico del Estado Libre y Soberano de Durango, debiendo considerarse como parte de la planeación y programación hidráulica que se aborde en los Consejos de Cuenca en que participe la Entidad;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+I.- Elaborar las políticas de Desarrollo Hidráulico, una política estatal de captación de agua pluvial, dentro del Plan Estatal de Desarrollo y aprobar el Programa Hidráulico del Estado Libre y Soberano de Durango, debiendo considerarse como parte de la planeación y programación hidráulica que se aborde en los Consejos de Cuenca en que participe la Entidad;
 
 II.- Expedir los decretos para el establecimiento o supresión de reglamentación o veda de aguas de jurisdicción estatal;
 
@@ -471,9 +497,21 @@ XXXVI.- Vigilar el cumplimiento de los Proyectos Estratégicos de Desarrollo;
 
 XXXVII.- Sancionar a los prestadores de los servicios y contratistas por el incumplimiento de esta Ley, previa garantía de audiencia;
 
-XXXVIII.- Participar como asesor en los procesos de licitación de concesiones para la prestación de los servicios públicos y de los contratos a que se refieren los artículos 80, 81, 82 y 113 de la presente Ley; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-XXXIX.- Emitir opinión sobre la procedencia de la revocación de concesiones o rescisión de los contratos que celebren los organismos operadores, en los términos de los artículos 103, 104 y 116 de la presente Ley.
+XXXVIII.- Participar como asesor en los procesos de licitación de concesiones para la prestación de los servicios públicos y de los contratos a que se refieren los artículos 80, 81, 82 y 113 de la presente Ley;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XXXIX.- Emitir opinión sobre la procedencia de la revocación de concesiones o rescisión de los contratos que celebren los organismos operadores, en los términos de los artículos 103, 104 y 116 de la presente Ley, y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XL.- Llevar, administrar y actualizar el Padrón de Cosechadores de Agua de Lluvia del Estado en el que deberán inscribirse las personas físicas o morales que acrediten la instalación y operación de sistemas de captación o cosecha de agua de lluvia en inmuebles ubicados dentro del territorio del Estado, en términos de esta Ley.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XL, D.O.F. 7 DE JUNIO DE 2026]</small>
+
+La permanencia de las personas físicas y morales en dicho Padrón será por el tiempo en que efectivamente realicen captación de agua pluvial, en los términos definidos por esta Ley y la política que emita el Ejecutivo.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -2461,13 +2499,37 @@ V.- La realización de los estudios necesarios sobre la viabilidad técnica y fi
 
 VI.- La elaboración y coordinación de los demás programas y proyectos análogos para la evaluación de los mismos.
 
-### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO VII. DE LA COSECHA DE AGUA DE LLUVIA EN EL ESTADO DE DURANGO
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+###### Artículo 239 Ter.
+
+El presente capítulo es de orden público, interés social y de observancia general en el territorio del Estado de Durango y tiene por objeto:
+
+I. Regular, promover, organizar e incentivar la cosecha de agua de lluvia, su potabilización para el consumo humano y uso directo en actividades rurales, urbanas, comerciales, industriales y de cualquier otro uso en el Estado de Durango, con el fin de consolidar y fortalecer las políticas, estrategias, programas y acciones gubernamentales y de participación de la población para la gestión sustentable e integral de los recursos hídricos y la prestación de los servicios públicos de agua potable, drenaje y alcantarillado, así como el tratamiento y reúso de aguas residuales;
+
+II. Establecer los principios para garantizar la participación consciente de los sectores público, privado, social, ejidos, comunidades, barrios, pueblos y las y los habitantes del Estado de Durango en la conservación, preservación, rescate, rehabilitación y ampliación de los ecosistemas y, por consiguiente, en el equilibrio ambiental y del ciclo hidrológico en el territorio del Estado de Durango, y
+
+III. Profundizar la conciencia de las y los habitantes del Estado de Durango sobre la urgente necesidad de construir una Cultura del Agua para garantizar el equilibrio ambiental en el Estado y su Imprescindible participación ciudadana para contribuir a mejorar la salud y la protección civil de la población.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+###### Artículo 239 Quater.
+
+Con base en el principio de que el agua es un bien de dominio público, vital, vulnerable y finito; como se establece en esta Ley, respecto del cual toda persona en el Estado de Durango tiene derecho al acceso suficiente, seguro e higiénico del agua disponible para su uso personal y doméstico, así como al suministro libre de interferencias; y, que la precipitación del agua de lluvia, nieve o escarcha es un fenómeno natural del ciclo hidrológico que no tiene una distribución uniforme en el territorio del Estado, esta Ley otorga a las dependencias, entidades, organismos, instituciones, organizaciones y entes públicos, privados y sociales, los ejidos, comunidades, barrios y pueblos, así como las y los habitantes del Estado de Durango, los derechos a:
+
+I. Cosechar agua de lluvia, Individual o colectivamente, y
+
+II. Ser reconocidos como Cosechador(a) Individual o Colectivo de Agua de Lluvia del Estado de Durango e inscritos en el Padrón de Cosechadores de Agua de Lluvia del Estado;
+
+Para estar inscrito en el Padrón de Cosechadores de Agua de Lluvia del Estado se deberá acreditar ante la Comisión que efectivamente se está realizando una captación o cosecha de agua pluvial con objeto.
 
 ## TÍTULO SEXTO. INFRACCIONES Y SANCIONES
 
-### CAPÍTULO ÚNICO. DE LOS MEDIOS DE DEFENSA
-
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
+### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 240.
 
@@ -2668,6 +2730,10 @@ El uso de los recursos de que se habla en el primer párrafo del presente artíc
 Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante las autoridades competentes, todo hecho, acto u omisión que impacten negativamente en los recursos hídricos o en sus bienes inherentes, de conformidad a las disposiciones normativas aplicables.
 
 ## TÍTULO SÉPTIMO. RECURSO ADMINISTRATIVO
+
+### CAPÍTULO ÚNICO. DE LOS MEDIOS DE DEFENSA
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
 ###### ARTÍCULO 254.
 
@@ -2890,3 +2956,15 @@ El presente decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 410 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de (sic) publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El Ejecutivo del Estado, a través de la Secretaría de Recursos Naturales y Medio Ambiente, deberá de emitir la política pública en materia de captación de agua de lluvia que refiere la fracción I del artículo 4° de Ley de Agua para el Estado de Durango, dentro del término de 90 días luego de la entrada en vigor del presente Decreto. Esta política pública deberá de ser revisada anualmente por la Secretaría de Recursos Naturales y Medio Ambiente, con el fin de que este constantemente actualizada en pro de la población de Durango y de los recursos naturales con los que cuenta el Estado.
+
+TERCERO. Con la entrada en vigor del presente Decreto la Comisión del Agua del Estado deberá de desarrollar el Padrón de Cosechadores de Agua de Lluvia del Estado, de conformidad con la política en materia de captación de agua de lluvia que establezca el Ejecutivo, en términos de Ley de Agua para el Estado de Durango.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
