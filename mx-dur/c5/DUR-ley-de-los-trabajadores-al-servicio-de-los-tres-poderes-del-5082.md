@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2023-12-10"
+last_updated: "2026-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2026.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -105,17 +105,19 @@ LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 1º.
 
-La presente Ley es de observancia general para los Titulares y Trabajadores al Servicio de los Tres Poderes del Estado de Durango, así como de los Organismos Públicos Descentralizados, Empresas de Participación Estatal y Fideicomisos, que se encuentran dentro del Estado.
+La presente Ley, es de observancia general y rige las relaciones de trabajo entre los Titulares y los Trabajadores al Servicio de los Tres Poderes del Estado de Durango, así como de los Organismos Públicos Descentralizados, Empresas de Participación Estatal y Fideicomisos que se encuentran dentro del Estado, excluyéndose aquellos servidores públicos que, por la naturaleza de su régimen laboral, se rijan por sus propias disposiciones legales; dichas relaciones de trabajo se desarrollarán conforme a los principios de dignidad humana, igualdad y no discriminación.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 2º.
 
-Para los efectos de esta Ley, la relación jurídico – laboral, se entiende establecida entre los Poderes del Estado, los Organismos Públicos Descentralizados, las Empresas de Participación Estatal y los Fideicomisos y los trabajadores a su servicio; para una mejor interpretación de la misma, se denominarán Dependencias a los Poderes del Estado y Entidades Administrativas, a los Organismos Públicos Descentralizados, Empresas de Participación Estatal y Fideicomisos.
+Para los efectos de esta Ley, la relación jurídico-laboral, se entenderá establecida desde el momento en que al trabajador se le otorgue el nombramiento o contrato respectivo; y se configura entre los Poderes del Estado, los Organismos Públicos Descentralizados, las empresas del Estado o de participación estatal, los fideicomisos públicos y los trabajadores.
+
+Se entenderá por Dependencias, a los Poderes del Estado; y por Entidades Administrativas, a los Organismos Públicos Descentralizados, las empresas del Estado o de participación estatal, los fideicomisos públicos y aquellas entidades que, por su naturaleza no estén comprendidas en la Administración Pública Centralizada.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2003)</small>
 
@@ -141,11 +143,11 @@ IV.- Renuncia por parte del trabajador de cualquiera de los derechos o prerrogat
 
 En todos estos casos se entenderá que rigen la Ley o las normas supletorias en lugar de las estipulaciones nulas.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 5º.
 
-Trabajador es la persona física que presta un trabajo personal en cualquiera de las Dependencias o Entidades Administrativas, permanente o temporal, en virtud de nombramiento expedido o por figurar en las listas de raya o nómina de los trabajadores.
+Se entenderá por trabajador, a toda persona física, que preste sus servicios de manera permanente o transitoria, material o intelectual o de ambos géneros, en virtud del nombramiento que le fuere expedido o contrato celebrado, por cualquiera de las Dependencias o Entidades Administrativas de los Tres Poderes del Estado de Durango.
 
 ###### Artículo 6o.
 
@@ -157,11 +159,95 @@ II.- Trabajadores de Base.
 
 III.- Trabajadores Supernumerarios.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 7º.
 
-Son trabajadores de confianza, los que desempeñan funciones de Dirección, Inspección, Vigilancia y Fiscalización, cuando tengan carácter general, así como aquellos que determinen las Leyes o Reglamentos especiales que regulen la organización y funcionamiento de las distintas Dependencias o Entidades Administrativas.
+Son trabajadores de confianza:
+
+I. Del Poder Ejecutivo:
+
+a) Las titulares de las dependencias que establezca la Ley Orgánica de la Administración Pública del Estado de Durango y las personas titulares de la Representación del Gobierno del Estado en la Ciudad de México u homólogos;
+
+b) En los tribunales laborales, las personas titulares de las Presidencias de las Juntas Locales de Conciliación y Arbitraje, de la Presidencia del Tribunal Laboral Burocrático, así como las personas Juzgadoras que integran dicho Tribunal, de la Junta Especial; de las Secretarías Generales, de las Secretarías Auxiliares, las personas que funjan como Auxiliares, las personas que funjan como Conciliadores, las personas que funjan como Secretarios, las personas que funjan como Actuarios y demás personas servidoras públicas que sean considerados como personal jurídico, de acuerdo a las leyes, asimismo, los que se encuentren dotados de fe pública u homólogos;
+
+c) Las personas titulares de las Oficialías del Registro Civil u homólogos;
+
+d) Las personas Titulares de los Organismos Públicos Descentralizados y los que así se determinen en el Decreto de su creación u homólogos; y
+
+e) Los demás que desempeñen funciones de:
+
+1. Dirección: Como consecuencia del ejercicio de sus atribuciones legales, que, de manera permanente, le confieran la representatividad de la dependencia, e implican poder de decisión en el ejercicio del mando a nivel de Subsecretarías, Direcciones Generales, Direcciones de Área, adjuntos, Subdirecciones o Jefaturas de Departamento, así como Asesores, Jefaturas de Área u homólogos;
+
+2. Inspección, Vigilancia y Fiscalización exclusivamente a nivel de Jefaturas: Cuando estén considerados en el presupuesto de la dependencia o entidad de que se trate, así como el personal técnico que en forma exclusiva y permanentemente esté desempeñando tales funciones ocupando puestos que a la fecha son de confianza;
+
+3. Manejo de fondos o valores: Cuando se implique la facultad legal de disponer de éstos, determinando sus aplicaciones o destino;
+
+4. Auditoría a nivel de auditores: Así como el personal técnico que en forma exclusiva y permanente desempeñe tales funciones siempre que presupuestalmente dependan de las áreas de Contraloría o Auditoría;
+
+5. Control directo de adquisiciones; Cuando tengan la representación de la dependencia o entidad de que se trata, con facultades para tomar decisiones sobre las adquisiciones y compras, así como el personal encargado de apoyar con elementos técnicos;
+
+6. En almacenes e inventarios: La persona responsable de autorizar el ingreso de bienes o valores y su destino o en su caso, el alta o baja en el inventario;
+
+7. Investigación científica: Siempre que implique la facultad para determinar el sentido y la forma de la investigación;
+
+8. Las Secretarías Particulares y Ayudantes de las Dependencias y Direcciones Generales: Así como el personal adscrito presupuestalmente a aquellas personas servidoras públicas, cuyos nombramientos o ejercicio requieran la aprobación expresa de la persona Titular del Poder Ejecutivo;
+
+II. Del Poder Legislativo:
+
+a) La persona titular de la Secretaría General u homólogo;
+
+b) La persona titular de Auditoría Superior del Estado u homólogo;
+
+c) Las personas titulares de las Secretarías de Archivo Legislativo, de Servicios Administrativos y Financieros, de Servicios Legislativos y de Servicios Jurídicos u homólogos;
+
+d) Las personas titulares de las Direcciones u homólogos;
+
+e) Las personas que funjan como Jefas y Jefes de Departamento, cualquiera que sea su adscripción u homólogos;
+
+f) La persona titular del Órgano Interno de Control u homólogo;
+
+g) Las personas titulares de las Unidades de Estudios Económicos y de Finanzas Públicas, y de Enlace para el Acceso a la Información Pública u homólogos;
+
+h) Las personas que funjan como Auditores Generales u homólogos;
+
+i) Las personas que funjan como Asesores u homólogos;
+
+III. Del Poder Judicial:
+
+a) La persona titular de la Secretaría General de Acuerdos, del Pleno del Tribunal Superior de Justicia, del Tribunal de Justicia Penal para Adolescentes y del Tribunal de Disciplina Judicial u homólogos;
+
+b) Las personas titulares de las Secretarías de Acuerdos de Salas u homólogos;
+
+c) Las personas que funjan como Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Penal para Adolescentes y del Tribunal de Disciplina Judicial u homólogos;
+
+d) Las personas que funjan como Juezas y Jueces u homólogos;
+
+e) Las personas que funjan como Comisionadas y Comisionados del Órgano de Administración del Poder Judicial u homólogos;
+
+f) Las personas que funjan como Secretarios Proyectistas de Sala o Secretarios Instructores, cualquiera que sea su adscripción u homólogos;
+
+g) Las personas titulares de las Dependencias, Órganos Administrativos y/o Direcciones que establezca la Ley Orgánica del Poder Judicial del Estado de Durango u homólogos;
+
+h) Las personas que funjan como Jefas o Jefes de Departamento, cualquiera que sea su adscripción u homólogos;
+
+i) Las personas que funjan como Secretarias o Secretarios Administrativos, cualquiera que sea su adscripción;
+
+j) Las personas que funjan como Administradoras o Administradores de Sala u homólogos;
+
+k) Las personas que funjan como Defensoras y Defensores Públicos y Asesoras y Asesoras Jurídicos del Instituto de Defensoría Pública u homólogos;
+
+l) Las personas que funjan como Actuarias y Actuarios Notificadores y Ejecutores, cualquiera que sea su adscripción u homólogos;
+
+m) Las personas que funjan como Oficiales Judiciales, cualquiera que sea su adscripción u homólogos;
+
+n) Las personas que funjan como Secretarios de Acuerdos de Juzgado, cualquiera que sea su adscripción u homólogos;
+
+o) Las personas servidoras públicas que, por la naturaleza confidencial de sus labores o porque realicen tareas de dirección, deban ser consideradas como personal de confianza.
+
+Las personas servidoras públicas de confianza podrán ser nombradas y removidas libremente por la persona titular del Poder u Órganos Constitucionalmente Autónomos al cual estén adscritos o por quien conforme a la Ley tenga facultades para ello.
+
+Quedan excluidos del régimen de la presente Ley, aquellos que presten sus servicios mediante contrato civil o que sean sujetos al pago de honorarios.
 
 ###### Artículo 8o.
 
@@ -177,9 +263,11 @@ Al crearse categorías y cargos no comprendidos en el Artículo Séptimo de esta
 
 Los Trabajadores de confianza no podrán formar parte del Sindicato de los Trabajadores, ni podrán ser representantes de los trabajadores de los organismos que se integren conforme a las disposiciones de esta Ley.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
 ###### Artículo 11o.
 
-Son Trabajadores Supernumerarios: los temporales, de base o de confianza, cuya relación contractual esté sujeta a las necesidades del servicio y a la partida presupuestal correspondiente, terminándose la relación al concluírse las primeras o al agotarse las segundas.
+Son Trabajadores supernumerarios: los temporales, de base o de confianza, cuya relación contractual esté sujeta a la temporalidad o las necesidades del servicio.
 
 ###### Artículo 12o.
 
@@ -351,6 +439,14 @@ Para el otorgamiento de la licencia a que se hace mención en este mismo artícu
 
 En ningún caso se podrá otorgar dicha licencia a ambos padres trabajadores del menor diagnosticado con cáncer.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+Artículo 38o TER.- Las mujeres y personas menstruantes trabajadoras a quienes se les haya diagnosticado endometriosis severa, o dismenorrea primaria o secundaria en grado incapacitante, dispondrán de dos días de permiso cada mes con goce de sueldo para ausentarse de su centro de trabajo.
+
+Para tal efecto, deberán presentar en el área correspondiente de su centro laboral el certificado médico que lo acredite, mismo que será emitido por la persona especialista en ginecología de alguna Institución Pública de Salud.
+
+Dicho certificado tendrá una vigencia de seis meses a partir de su expedición, al término del cual deberá realizarse una nueva valoración médica para confirmar el diagnóstico; mismo que en ningún momento podrá ser considerado como enfermedad profesional o riesgo de trabajo.
+
 ###### Artículo 39o.
 
 Es nula la renuncia que los trabajadores hagan de los salarios devengados, de las indemnizaciones y demás prestaciones que deriven de los servicios prestados, cualquiera que sea la forma o denominación que se le dé.
@@ -507,15 +603,23 @@ XI.- Hacer las deducciones en los salarios que solicite el Sindicato, siempre qu
 
 XII.- Determinar las condiciones generales de trabajo cada período de Gobierno, expidiendo los Reglamentos correspondientes con intervención del Sindicato. Mientras estos Reglamentos no se expidan, se entenderán vigentes las disposiciones legales anteriores.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-XIII.- Otorgar al trabajador por cada cinco años de antigüedad, el equivalente a seis días del sueldo base que perciba, mismos que serán divididos en 24 quincenas, independientemente de otros aumentos por distintos conceptos.
+XIII.- Otorgar al trabajador por cada cinco años de antigüedad, el equivalente a seis días del sueldo base que perciba, prestación que se denominará quinquenio, mismo que serán divididos en 24 quincenas, independientemente de otros aumentos por distintos conceptos.
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2023)</small>
+Cualquier disposición legal o en su caso contractual que refiera la denominación de antigüedad del trabajador, será considerada bajo el concepto de quinquenio y se liquidará en sentencia bajo las reglas establecidas en esta fracción.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
 XIV.- Otorgar permiso de paternidad de cinco días laborables con goce de sueldo, a los hombres trabajadores, por el nacimiento de su hija o hijo, dicha licencia empezará a contar al día siguiente del parto o cesárea.
 
-Para hacer uso de este derecho se deberá presentar la documentación oficial respectiva, ante la instancia correspondiente, según sea el caso.
+Para hacer uso de este derecho se deberá presentar la documentación oficial respectiva, ante la instancia correspondiente, según sea el caso, y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XV.- Otorgar permiso por luto con goce de sueldo a las y los trabajadores, hasta por tres días laborales, con motivo del fallecimiento de un familiar en primer grado por consanguinidad o afinidad. Cuando el fallecimiento ocurra fuera del territorio del Estado, el permiso podrá concederse hasta por cinco días laborales. El permiso deberá ejercerse en los días inmediatos posteriores al fallecimiento.
+
+Posteriormente al fallecimiento que dio origen al permiso, deberá presentarse la documentación oficial correspondiente ante la persona titular del área correspondiente.
 
 ###### Artículo 56o.
 
@@ -1265,6 +1369,18 @@ Son admisibles todos los medios de prueba que consigna el derecho común.
 
 Lar (sic) partes están obligadas a aportar todos los elementos probatorios de que dispongan, que puedan concurrir a la comprobación de los hechos o al esclarecimiento de la verdad.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+###### Artículo 124o. Bis.
+
+En los conflictos individuales o colectivos de naturaleza laboral burocrática, corresponderá a las partes acreditar los hechos constitutivos de sus acciones y excepciones.
+
+Cuando la persona trabajadora, reclame el reconocimiento de una categoría o estabilidad propia de trabajador de base, habiendo sido designada mediante nombramiento de confianza, corresponderá a ésta, acreditar que las funciones efectivamente desempeñadas, no son de aquellas previstas en el artículo 7 de esta Ley, ni implican actividades de dirección, decisión, inspección, vigilancia, fiscalización, representación, manejo de recursos públicos, auditoría, control de adquisiciones o cualquiera otra de naturaleza confidencial o estratégica.
+
+La exhibición del nombramiento de confianza, expedido por autoridad competente, hará presumir la naturaleza de confianza de la relación laboral, salvo prueba en contrario.
+
+La autoridad Jurisdiccional, deberá atender preponderantemente a las funciones efectivamente realizadas por la persona servidora pública, con independencia de la denominación formal del puesto, observando los principios de primacía de la realidad, razonabilidad y verdad material.
+
 ###### Artículo 125o.
 
 Las partes podrán interrogar libremente a las personas que intervengan en la audiencia de pruebas, alegatos y resoluciones, sobre los hechos controvertidos, hacerse mutuamente las preguntas que juzguen convenientes y examinar los documentos y objetos que se exhiban.
@@ -1632,5 +1748,45 @@ P.O. 10 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO No. 482 QUE CONTIENE REFORMA A LA FRACCIÓN III DEL ARTÍCULO 65 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 434 EL CUAL CONTIENE REFORMAS Y ADICIONES A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las disposiciones contenidas en el presente Decreto, serán aplicables de manera inmediata, a los procedimientos jurisdiccionales que se inicien con posterioridad a su entrada en vigor.
+
+Las reformas relativas a las reglas de carga de la prueba, previstas en el artículo 124 Bis de esta Ley, serán aplicables a los procedimientos jurisdiccionales en trámite que, a la entrada en vigor del presente Decreto, no hayan celebrado la audiencia de ofrecimiento y admisión de pruebas o no se haya emitido acuerdo definitivo sobre su desahogo.
+
+En estos casos, el órgano jurisdiccional, deberá garantizar el derecho de audiencia y defensa de las partes, otorgando, en su caso, plazo razonable para adecuar sus cargas procesales conforme al presente Decreto.
+
+Los actos procesales, audiencias, pruebas ofrecidas, admitidas o desahogadas, así como las determinaciones jurisdiccionales emitidas con anterioridad a la entrada en vigor del presente Decreto, conservarán plena validez y no podrán ser invalidados por aplicación retroactiva de las disposiciones contenidas en éste.
+
+Los procedimientos jurisdiccionales en los que, a la entrada en vigor del presente Decreto, ya se hubiere cerrado la instrucción, citado para resolución o emitida sentencia, continuarán sustanciándose y resolviéndose conforme a las disposiciones vigentes al momento de la conclusión de dicha etapa procesal.
+
+La aplicación de las disposiciones contenidas en el presente Decreto, deberá realizarse conforme a los principios de seguridad jurídica, debido proceso, tutela judicial efectiva, igualdad procesal y no retroactividad previstos en la Constitución Política de los Estados Unidos Mexicanos.
+
+CUARTO. Las Entidades Administrativas que cuenten con contratos colectivos de trabajo vigentes, dispondrán de un plazo de 90 días naturales, para realizar las adecuaciones administrativas y de nómina necesarias para unificar los conceptos de pago bajo la denominación de quinquenio.
+
+QUINTO. El pago de las diferencias o ajustes derivados de esta reforma, quedará sujeto a la suficiencia presupuestaria de cada ejercicio fiscal. El Gobierno del Estado, a través de la Secretaría de Finanzas, podrá programar el cumplimiento de las obligaciones que resulten de manera gradual para no comprometer el Fondo de Pensiones ni las partidas operativas de los Tres Poderes del Estado de Durango.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 435 EL CUAL CONTIENE ADICIÓN DE UNA FRACCIÓN XV, AL ARTÍCULO 55 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 436 EL CUAL CONTIENE ADICIONA (SIC) UN ARTÍCULO 38 TER DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO, EN MATERIA DE LICENCIA MENSTRUAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
