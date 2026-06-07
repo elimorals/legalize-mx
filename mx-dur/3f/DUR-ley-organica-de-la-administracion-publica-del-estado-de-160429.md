@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-160429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-10-02"
-last_updated: "2025-12-14"
+last_updated: "2026-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2026.
 
 Ley publicada en el No. 79 del Periódico Oficial del Estado de Durango, el domingo 2 de octubre de 2022.
 
@@ -159,11 +159,17 @@ II. Haber cumplido 21 años de edad para el día de la designación;
 
 III. Estar en pleno ejercicio de sus derechos ciudadanos;
 
-(NOTA: EL 26 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 10 DE NOVIEMBRE DE 2023, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-IV. Gozar de buena reputación y no tener condena por delito intencional que amerite pena corporal de más de un año de prisión, PERO SI SE TRATARE DE ROBO, FRAUDE, FALSIFICACIÓN, ABUSO DE CONFIANZA U OTRO QUE LASTIME LA BUENA FAMA EN CONCEPTO PÚBLICO, ESA PERSONA SE CONSIDERARÁ INHABILITADA PARA EL CARGO, CUALQUIERA QUE HAYA SIDO LA PENA; y
+IV. No haber sido sentenciada o sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos y por delitos de violencia política contra las mujeres por razones de género.
 
-V. Rendir la protesta de ley conforme lo dispone al artículo 174 de la Constitución del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2026)</small>
+
+V. No ser deudora o deudor alimentario moroso; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN V], P.O. 7 DE JUNIO DE 2026)</small>
+
+VI. Rendir la protesta de ley conforme lo dispone al (sic) artículo 174 de la Constitución del Estado.
 
 ###### ARTÍCULO 9.
 
@@ -501,13 +507,9 @@ LXXXIV. Entregar la información financiera que solicite la Secretaría de Hacie
 
 LXXXV. Implementar un esquema administrativo para todas las dependencias de la administración pública estatal, orientado a suprimir la adquisición gubernamental de plásticos de un solo uso, estableciendo un mecanismo de sustitución por un modelo sustentable, los resultados del esquema deberán revisarse, actualizarse y evaluarse de manera anual;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2023)</small>
+LXXXVI. (DEROGADA, P.O. 7 DE JUNIO DE 2026)
 
-LXXXVI. Establecer una unidad de recepción, análisis y difusión de información financiera en materia de prevención y atención de actos, omisiones u operaciones de incremento económico injustificable en el patrimonio de persona alguna en el Estado;
-
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2023)</small>
-
-LXXXVII. Obtener y asegurar la información fiscal y patrimonial que se genere en el Estado, de aquellas personas que hayan obtenido un beneficio o incremento económico injustificable, para aportar la información a las autoridades competentes; y
+LXXXVII. (DEROGADA, P.O. 7 DE JUNIO DE 2026)
 
 LXXXVIII. Las demás que le señalen las leyes, reglamentos y convenios vigentes.
 
@@ -655,13 +657,25 @@ XXXIX. Establecer y desarrollar los programas de modernización administrativa e
 
 XL. Establecer medidas de mejora de las normas que regulan la actividad económica estatal y municipal, que faciliten el flujo de materias primas, insumos, mercancías, servicios y recursos, que fomenten la inversión mediante la eliminación de las regulaciones obsoletas y/o inadecuadas, que impidan el desempeño competitivo de los integrantes del proceso industrial en el marco de una economía de mercado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-XLII. Ejecutar acciones tendientes al desarrollo económico a favor de las mujeres del estado, a fin de promover su plena autonomía y empoderamiento económico; y colaborar para tal objetivo dentro del Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres.
+XLI. A través del área que corresponda, implementar los mecanismos y acciones de la política de mejora regulatoria conforme a los principios y disposiciones establecidos en las leyes de la materia;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-XLIII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XLII. Ejecutar acciones tendientes al desarrollo económico a favor de las mujeres del estado, a fin de promover su plena autonomía y empoderamiento económico; y colaborar para tal objetivo dentro del Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2026)</small>
+
+XLIII. Operar el funcionamiento del Registro Estatal de Agentes Inmobiliarios;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XLIV. Llevar a cabo visitas de verificación en materia de servicios inmobiliarios conforme a las disposiciones aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2026)</small>
+
+XLV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTÍCULO 24.
 
@@ -1087,9 +1101,31 @@ LI. Sancionar el proceso de entrega-recepción de las dependencias y entidades, 
 
 LII. Recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones normativas aplicables.
 
-LIII. Aplicar las sanciones procedentes por el incumplimiento en la presentación extemporánea de las declaraciones de situación patrimonial y de intereses, inicial, modificación o de conclusión de encargo. De igual manera, llevar registro de la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-LIV. Las demás que se prevean en otras disposiciones y las que le sean encomendadas por la persona titular del Poder Ejecutivo.
+LIII. Aplicar las sanciones procedentes por el incumplimiento en la presentación extemporánea de las declaraciones de situación patrimonial y de intereses, inicial, modificación o de conclusión de encargo. De igual manera, llevar registro de la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE JUNIO DE 2026)</small>
+
+LIV. Integrar, administrar y actualizar un Padrón Estatal de Despachos Externos que presten servicios contables, financieros, administrativos o de comprobación documental a los fiscalizables.
+
+Se consideran despachos externos a las personas físicas o morales que presten servicios contables, financieros, administrativos o de comprobación documental a los entes Fiscalizables, como lo dispone la fracción LII del artículo 4 de la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Durango;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+LV. Establecer los requisitos, criterios y procedimientos para la inscripción, permanencia, evaluación, suspensión y cancelación de los despachos externos en el padrón señalado en el párrafo anterior, garantizando los principios de legalidad, transparencia, objetividad e imparcialidad;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+LVI. Supervisar y evaluar el desempeño de los despachos externos inscritos en el padrón respectivo, así como emitir lineamientos y mecanismos de control respecto de los servicios que presten a los entes fiscalizables;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+LVII. Compartir y proporcionar la información contenida en el padrón señalado en la fracción LV a la Auditoría Superior del Estado para efectos de control, vigilancia y rendición de cuentas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2026)</small>
+
+LVIII. Las demás que se prevean en otras disposiciones y las que le sean encomendadas por la persona titular del Poder Ejecutivo.
 
 ###### ARTÍCULO 29.
 
@@ -2186,3 +2222,31 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 TERCERO. Dentro del plazo no mayor a 180 días a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado expedirá las adecuaciones y reformas necesarias a la reglamentación aplicable en la materia.
 
 CUARTO. En toda normativa, reglamento y demás instrumentos jurídicos en los que se haga referencia a la Secretaría de la Contraloría, se entenderá que dicha mención corresponde a la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 437 EL CUAL CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. La Secretaría de la Contraloría y Transparencia Gubernamental deberá emitir los lineamientos, reglas de operación y criterios para la integración y funcionamiento del Padrón Estatal de Despachos Externos dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Los entes públicos contarán con un plazo de ciento veinte días naturales, a partir de la emisión de los lineamientos, para regularizar la contratación de despachos externos conforme a lo establecido en el presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 438 EL CUAL CONTIENE REFORMAS, ADICIONES Y DEROGACIONES A LOS ARTÍCULOS 21 Y 23 DE LA LAY (SIC) ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango, con excepción de lo contenido en el artículo 23 del presente Decreto, el cual, será a partir del primero de enero de dos mil veintisiete.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 440 EL CUAL CONTIENE REFORMAS AL ARTÍCULO 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
