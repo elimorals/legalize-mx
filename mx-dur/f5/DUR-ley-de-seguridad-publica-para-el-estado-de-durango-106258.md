@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-106258"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-28"
-last_updated: "2025-05-01"
+last_updated: "2026-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE DURANGO, PUBLICADA EN EL P.O. DE 7 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2026 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 28 de diciembre de 2014.
 
@@ -2692,3 +2694,35 @@ P.O. 1 DE MAYO DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 398 POR EL QUE SE EXPIDE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Seguridad Pública para el Estado de Durango, publicada mediante Decreto No. 261, emitido por la LXVI Legislatura en el Periódico Oficial del Gobierno del Estado de Durango, número 104, de fecha 28 de diciembre de 2014.
+
+###### ARTÍCULO TERCERO.
+
+Los reglamentos, lineamientos, acuerdos y cualquier otra normativa que se hayan emitido como consecuencia de la Ley a que se refiere el artículo transitorio anterior, seguirán vigentes hasta en tanto no se emita la normativa que las sustituya o las deje sin efectos.
+
+###### ARTÍCULO CUARTO.
+
+Los derechos de las personas integrantes de las Instituciones de Seguridad Pública que a la entrada en vigor de este Decreto, cuenten con un nivel de estudios inferior al establecido en éste para su ingreso o permanencia, deberán ser respetados y sus respectivas instituciones deberán generar de manera conjunta acciones para que obtengan el nivel de estudios que corresponda, así mismo los derechos reconocidos por esta Ley serán aplicados en forma retroactiva a todas las personas trabajadoras de las Instituciones de Seguridad Pública.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones legales vigentes al momento de inicio de su tramitación.
+
+###### ARTÍCULO SEXTO.
+
+En un plazo no mayor de 180 días a partir de la entrada en vigor del presente Decreto, las autoridades estatales y municipales deberán adecuar las disposiciones reglamentarias correspondientes para dar cumplimiento a las obligaciones previstas en el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
