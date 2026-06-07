@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-para-17440
 country: "mx"
 rank: "ley"
 publication_date: "2024-09-12"
-last_updated: "2025-05-20"
+last_updated: "2026-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2026.
 
 Ley publicada en el Número 73 BIS del Periódico Oficial del Estado de Durango, el jueves 12 de septiembre de 2024.
 
@@ -195,9 +195,17 @@ XLVIII. Tribunal: El Tribunal de Justicia Administrativa del Estado de Durango;
 
 XLIX. Unidad Técnica: La Unidad Técnica de Apoyo a la Comisión de Vigilancia de la Auditoría Superior del Estado;
 
-L. Verificaciones: La inspección de los actos de ejecución del recurso público, que permite el examen de documentos, libros, contabilidad principal y auxiliar, ficheros, facturas, justificantes, correspondencia con transcendencia tributaria y cuantos documentos de carácter contable sean necesarios para comprobar e investigar el cumplimiento de las obligaciones en la recaudación, administración y ejercicio de recursos de los entes fiscalizables; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-LI. Visitas de Inspección: Es la visita domiciliaria que tiene por objeto el comprobar que el ente fiscalizable cumple con sus obligaciones e implica que la autoridad fiscal se presente en el domicilio de los entes fiscalizables o de un tercero para requerirle los papeles, datos, documentos, informes, bienes o contratos de servicios, que permitan a la autoridad determinar si se ha dado cumplimiento o no a sus obligaciones y en su caso, determinar un hallazgo y/o imponer sanciones, recomendaciones y/o disposiciones específicas.
+L. Verificaciones: La inspección de los actos de ejecución del recurso público, que permite el examen de documentos, libros, contabilidad principal y auxiliar, ficheros, facturas, justificantes, correspondencia con transcendencia tributaria y cuantos documentos de carácter contable sean necesarios para comprobar e investigar el cumplimiento de las obligaciones en la recaudación, administración y ejercicio de recursos de los entes fiscalizables;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+LI. Visitas de Inspección: Es la visita domiciliaria que tiene por objeto el comprobar que el ente fiscalizable cumple con sus obligaciones e implica que la autoridad fiscal se presente en el domicilio de los entes fiscalizables o de un tercero para requerirle los papeles, datos, documentos, informes, bienes o contratos de servicios, que permitan a la autoridad determinar si se ha dado cumplimiento o no a sus obligaciones y en su caso, determinar un hallazgo y/o imponer sanciones, recomendaciones y/o disposiciones específicas; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+LII. Despachos externos: Las personas físicas o morales que presten servicios contables, financieros, administrativos o de comprobación documental a los entes Fiscalizables.
 
 ###### ARTÍCULO 5.
 
@@ -409,9 +417,23 @@ XXVIII. Expedir su Reglamento Interior y en su caso, efectuar las actualizacione
 
 XXIX. Efectuar visitas domiciliarias para exigir la exhibición de los libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos u electrónicos de almacenamiento de información, documentos y archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos, así como, realizar entrevistas y reuniones con particulares o con servidores públicos de los entes fiscalizables, necesarias para conocer directamente el ejercicio de sus funciones;
 
-XXX. Promover las acciones que, en su caso, correspondan para el fincamiento de las responsabilidades administrativas, ante el Tribunal o ante el Órgano Interno de Control que corresponda, en el ámbito de sus respectivas competencias; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-XXXI. Las demás que expresamente señale la Constitución Local, esta Ley y las demás disposiciones legales y reglamentos vigentes en el Estado.
+XXX. Promover las acciones que, en su caso, correspondan para el fincamiento de las responsabilidades administrativas, ante el Tribunal o ante el Órgano Interno de Control que corresponda, en el ámbito de sus respectivas competencias;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XXXI. Acceder, consultar y utilizar el padrón estatal de despachos externos que presten servicios a los entes públicos fiscalizables;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XXXII. Solicitar información y documentación a los entes públicos, relacionada con a los despachos externos que se contraten;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XXXIII. Verificar y supervisar que los entes públicos fiscalizables contraten despachos externos inscritos en el padrón establecido y administrado por la Secretaría de la Contraloría y Transparencia Gubernamental, en los términos de la legislación aplicable; y
+
+XXIV (SIC). Las demás que expresamente señale la Constitución Local, esta Ley y las demás disposiciones legales y reglamentos vigentes en el Estado.
 
 ###### ARTÍCULO 16.
 
@@ -1448,3 +1470,11 @@ P.O. 20 DE MAYO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 417 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE DURANGO, EN MATERIA DE DESPACHOS EXTERNOS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
