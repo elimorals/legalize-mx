@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2025-12-25"
+last_updated: "2026-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -4503,11 +4503,11 @@ DELITOS CONTRA LA FILIACIÓN Y LA INSTITUCIÓN DEL MATRIMONIO
 
 ### CAPÍTULO I. DELITOS CONTRA EL ESTADO CIVIL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 291.
 
-Se impondrán de seis meses a seis años de prisión y multa de treinta y seis a cuatrocientas treinta y dos veces la Unidad de Medida y Actualización, al que con el fin de alterar el estado civil incurra en alguna de las conductas siguientes:
+Se impondrán de dos años a seis años de prisión y multa de trecientas a quinientas veces la Unidad de Medida y Actualización, al que con el fin de alterar el estado civil incurre en alguna de las conductas siguientes:
 
 I. Presente a registrar a una persona, asumiendo la filiación que no le corresponda;
 
@@ -4519,7 +4519,9 @@ IV. Omita presentar para el registro del nacimiento a una persona, teniendo dich
 
 V. Declare falsamente el fallecimiento de una persona en el acta respectiva;
 
-VI. Presente a registrar a una persona, atribuyendo a terceros la paternidad que no le corresponda;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+VI. Presente a registrar a una persona, atribuyendo las obligaciones de parentesco o paternidad a un tercero que no le corresponde;
 
 VII. Usurpe el estado civil o la filiación de otro, con el fin de adquirir derechos de familia que no le correspondan;
 
@@ -4528,6 +4530,10 @@ VIII. Sustituya a un menor por otro o cometa ocultación de aquél para perjudic
 IX. Inscriba o haga registrar un divorcio o nulidad de matrimonio inexistentes o que aún no hubiesen sido declarados por sentencia que haya causado ejecutoria.
 
 La autoridad judicial podrá prescindir de la pena si el sujeto activo actúa por motivos nobles o humanitarios, en el caso a que se refiere la fracción I de este artículo.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+A quien cometa el delito previsto en la fracción VI, además del pago en calidad de reparación de daño, deberán restituirse las cantidades suministradas durante el lapso en el que se realizó el hecho.
 
 ###### Artículo 292.
 
@@ -4627,31 +4633,11 @@ d) Omita realizar de inmediato el descuento o exceda el plazo ordenado por el Ju
 
 ### CAPÍTULO II. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 300.
 
-Comete el delito de violencia familiar quien de manera directa o por interpósita persona ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, sobre alguna persona a la que esté o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, tutela o curatela, concubinato o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrán de un año a cinco años de prisión y multa de treinta y seis a doscientos ochenta y ocho veces la Unidad de Medida y Actualización, perderá el derecho de pensión alimenticia y los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio y en su caso, la prohibición de acudir o residir en lugar determinado así como la prohibición de comunicarse por cualquier medio con la víctima. Asimismo, se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan por cualquier otro delito.
-
-La educación o formación del menor no será en ningún caso considerada justificación como forma de maltrato.
-
-> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES] P.O. 23 DE OCTUBRE DE 2022)</small>
-
-Se aplicará la pena de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis veces la Unidad de Medida y Actualización, independientemente de las penas que correspondan por cualquier otro delito, en los siguientes casos:
-
-I. Si la víctima de violencia familiar fuese mujer y las heridas inferidas correspondan a las que tardan más de sesenta días en sanar, o estuviera en estado de gravidez o en el periodo post parto;
-
-II. Cuando se cometa en presencia de niñas, niños o adolescentes, y
-
-III. Cuando la víctima fuera un menor de edad, incapaz, o persona con discapacidad o mayor de sesenta años de edad.
-
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
-
-Se considera violencia familiar la alienación parental de quienes tengan la patria potestad, tutela o custodia del menor de edad.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
-
-Este delito se perseguirá de oficio.
+Comete el delito de violencia familiar quien de manera directa o por interpósita persona ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, independientemente del lugar donde se realice la conducta, sobre alguna persona a la que esté o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, tutela o curatela, concubinato o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrán de un año a cinco años de prisión y multa de treinta y seis a doscientos ochenta y ocho veces la Unidad de Medida y Actualización, perderá el derecho de pensión alimenticia y los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio y en su caso, la prohibición de acudir o residir en lugar determinado así como la prohibición de comunicarse por cualquier medio con la víctima. Asimismo, se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan por cualquier otro delito.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2025)</small>
 
@@ -6014,6 +6000,14 @@ La pena será de tres a quince años de prisión y multa de doscientas dieciséi
 ###### Artículo 387.
 
 Si el sujeto activo se retracta espontáneamente de sus declaraciones falsas o de su dictamen, antes de que se pronuncie resolución en la etapa procedimental en la que se conduce con falsedad, sólo se le impondrá de cinco a cincuenta veces la Unidad de Medida y Actualización de multa. Si no lo hiciere en dicha etapa, pero sí antes de dictarse sentencia en segunda instancia, se le impondrá pena de tres meses a un año de prisión. Pero si en la retractación faltare a la verdad, se le impondrá la pena que corresponda con arreglo a lo prevenido en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+###### Artículo 387 Bis.
+
+Comete el delito de falsa acusación la persona que, a sabiendas de la falsedad de los hechos y con el propósito de inculpar, perjudicar, exculpar a un tercero u obtener un beneficio indebido, impute a alguien la comisión de un delito, ante una autoridad competente, provocando con ello una investigación, procedimiento o afectación a su honor, reputación o libertad.
+
+Las penas serán de seis meses a dos años de prisión y de ciento a trescientos días multa.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -7588,6 +7582,30 @@ CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 364 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE ROBO DE MENORES”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## N. DE E. TRANSITORIOS DEL "DECRETO 402 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO EN MATERIA DE FALSA PATERNIDAD".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 403 POR EL QUE SE ADICIONA EL ARTÍCULO 387 BIS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 404 POR EL QUE SE REFORMA EL ARTÍCULO 300 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
