@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-disciplina-financiera-y-de-responsabilidad-122446"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-25"
-last_updated: "2024-12-01"
+last_updated: "2026-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DISCIPLINA FINANCIERA Y DE RESPONSABILIDAD HACENDARIA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 25 de junio de 2017.
 
@@ -160,6 +160,10 @@ XLII. Techo de Financiamiento Neto: El límite de financiamiento neto anual que 
 XLIII. Transferencias Federales Etiquetadas: Los recursos que reciben de la Federación el Estado y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación; y
 
 XLIV. Unidades Presupuestales: Las Dependencias y Entidades de la Administración Pública del Estado, los Poderes Legislativo y Judicial, los Órganos Constitucionales Autónomos, así como las universidades y demás instituciones de educación superior del Estado a las que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política Local u otras Leyes otorguen también autonomía. Así como las dependencias y entidades de las administraciones públicas municipales.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XLV. Despachos externos: Las personas físicas o morales que presten servicios contables, financieros, administrativos o de comprobación documental a los entes Fiscalizables.
 
 ###### ARTÍCULO 3.
 
@@ -523,6 +527,14 @@ Las dependencias y entidades ejecutoras de gasto deberán ajustar su actuación 
 
 En el caso de los Municipios aplicará este mismo precepto respecto a los servidores públicos municipales que administren, apliquen, eroguen, ejecuten o ejerzan estos recursos que les correspondan conforme a esta Ley, la Ley de Coordinación Fiscal u otros ordenamientos jurídicos fiscales, presupuestales o hacendarios.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+Para efectos del presente artículo, las dependencias, entidades y demás entes públicos del Estado y de los municipios, cuando contraten despachos externos para la prestación de servicios contables, administrativos y/o de comprobación documental deberán verificar, previo a su contratación, que dichos despachos se encuentren inscritos en el padrón que para tal efecto establezca la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+El incumplimiento de esta disposición constituirá una irregularidad administrativa y dará lugar a las responsabilidades administrativas correspondientes.
+
 La Secretaría y los servidores públicos adscritos a ésta, en ningún caso podrán tener el carácter de instancia ejecutora o fungir con ese mismo carácter en la ministración de los recursos pertenecientes a los fondos de aportaciones federales, gasto federalizado, gasto concurrente o pari passu, ni en ningún otro recurso federal o estatal de los establecidos en esta Ley.
 
 El correcto ejercicio de los recursos destinados a infraestructura, obras, adquisiciones de bienes y servicios, acciones y programas desde el proceso de adjudicación, contratación y entrega será de la exclusiva responsabilidad de la dependencia o entidad ejecutora de los recursos, quien a su vez deberá obtener la documentación comprobatoria del ejercicio de tales recursos conforme a la legislación, convenio o contrato que le sea aplicable.
@@ -605,11 +617,11 @@ Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas
 
 Lo dispuesto en este Capítulo no será aplicable a la contratación de Financiamientos en términos de programas federales o de los convenios con la Federación, los cuales se regirán por lo acordado entre las partes en el convenio correspondiente, así como por la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 55.
 
-El Congreso, por el voto de las dos terceras partes de sus miembros presentes, autorizará los montos máximos para la contratación de Financiamientos y Obligaciones. Para el otorgamiento de dicha autorización, se deberá tomar en consideración que el ente público contratante no se encuentre dentro de los últimos seis meses de su administración, además de realizar previamente, a través de la EASE, un análisis de la capacidad de pago del Ente Público a cuyo cargo estaría la Deuda Pública u Obligaciones correspondientes, del destino del Financiamiento u Obligación y, en su caso, del otorgamiento de recursos como Fuente o Garantía de pago.
+El Congreso, por el voto de las dos terceras partes de sus miembros presentes, autorizará los montos máximos para la contratación de Financiamientos y Obligaciones. Para el otorgamiento de dicha autorización, se deberá tomar en consideración que el ente público contratante no se encuentre dentro de los últimos seis meses de su administración, además de realizar previamente, a través de la ASE, un análisis de la capacidad de pago del Ente Público a cuyo cargo estaría la Deuda Pública u Obligaciones correspondientes, del destino del Financiamiento u Obligación y, en su caso, del otorgamiento de recursos como Fuente o Garantía de pago.
 
 Las operaciones de Refinanciamiento o Reestructura no requerirán autorización específica del Congreso siempre y cuando cumplan con las siguientes condiciones:
 
@@ -767,7 +779,9 @@ En caso de que el Estado o Municipio incumpla el convenio respectivo, se estará
 
 El Ejecutivo Estatal informará al Congreso la Deuda Estatal Garantizada otorgada o finiquitada en términos de este Capítulo, a través de los informes trimestrales a que se refiere la Ley de Presupuesto, Contabilidad y Gasto Público, la Ley de Deuda Pública del Estado de Durango y sus Municipios.
 
-Asimismo, la Secretaría enviará un reporte a la EASE, a través de la Comisión de Hacienda, Presupuesto y Cuenta Pública del Poder Legislativo, sobre el resultado de las evaluaciones que realicen de los convenios del Estado y de los Municipios, en términos del presente artículo. Igualmente, enviará un reporte sobre el Registro Público Único de acuerdo al artículo 56 de la Ley de Disciplina.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+Asimismo, la Secretaría enviará un reporte a la ASE, a través de la Comisión de Hacienda, Presupuesto y Cuenta Pública del Poder Legislativo, sobre el resultado de las evaluaciones que realicen de los convenios del Estado y de los Municipios, en términos del presente artículo. Igualmente, enviará un reporte sobre el Registro Público Único de acuerdo al artículo 56 de la Ley de Disciplina.
 
 ### CAPÍTULO IV. DEL (SIC) LOS NIVELES DE ENDEUDAMIENTO
 
@@ -924,3 +938,19 @@ P.O. 1 DE DICIEMBRE DE 2024.
 PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 416 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DISCIPLINA FINANCIERA Y DE RESPONSABILIDAD HACENDARIA DEL ESTADO DE DURANGO Y SUS MUNICIPIOS, EN MATERIA DE DESPACHOS EXTERNOS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 418 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE DURANGO, EN MATERIA DE HOMOLOGACIÓN DEL NOMBRE DE LA ASE.".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
