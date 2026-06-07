@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-entrega-recepcion-de-las-administraciones-74606"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-26"
-last_updated: "2024-12-26"
+last_updated: "2026-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ENTREGA-RECEPCION DE LAS ADMINISTRACIONES PUBLICAS DEL ESTADO Y MUNICIPIOS DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de noviembre de 2009.
 
@@ -45,11 +45,11 @@ LEY PARA LA ENTREGA-RECEPCIÓN DE LAS ADMINISTRACIONES PÚBLICAS DEL ESTADO Y MU
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de interés público y observancia general, y tiene por objeto dar certeza y seguridad jurídica a quienes intervienen en el proceso de entrega recepción, delimitar sus responsabilidades y establecer las normas generales conforme a las cuales los servidores públicos de los Poderes del Estado, los entes autónomos previstos en la Constitución Política del Estado Libre y Soberano de Durango o en las leyes locales, los municipios o aquéllos que administren fondos, bienes y valores públicos, entregarán a quienes los sustituyan al separarse de su empleo, cargo o comisión, los recursos humanos, financieros y materiales, así como los documentos, información y asuntos de su competencia que les hayan sido asignados, para el desempeño de las funciones de su responsabilidad.
+La presente Ley es de interés público y observancia general, y tiene por objeto dar certeza y seguridad jurídica a quienes intervienen en el proceso de entrega recepción, delimitar sus responsabilidades y establecer las normas generales conforme a las cuales, los servidores públicos de los Poderes del Estado, los entes autónomos previstos en la Constitución Política del Estado Libre y Soberano de Durango o en las leyes locales, los municipios o aquéllos que administren fondos, bienes y valores públicos, entregarán a quienes los sustituyan al separarse de su empleo, cargo o comisión, los recursos humanos, financieros y materiales, así como los documentos, información y asuntos de su competencia que les hayan sido asignados, para el desempeño de las funciones de su responsabilidad; en lo previsto por esta Ley o sus reglamentos, se aplicarán supletoriamente, y en su orden, la Ley de Justicia Administrativa del Estado de Durango, el Código de Procedimientos Civiles del Estado de Durango, los principios generales que se deriven de dichos ordenamientos; los principios generales del derecho, la jurisprudencia, la costumbre y la equidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
@@ -57,7 +57,9 @@ La presente Ley es de interés público y observancia general, y tiene por objet
 
 Para los efectos de esta Ley, se entiende por:
 
-I.- Acta.- Documento previamente establecido por la Contraloría o los Órganos Internos de Control, según corresponda, en el cual se hace constar de manera circunstanciada el acto de la Entrega-Recepción, señalando las personas que intervienen y la relación de los recursos humanos, materiales y financieros que se entregan y reciben;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+I.- Acta.- Documento previamente establecido por la Contraloría o los Órganos Internos de Control, según corresponda, en el cual se hace constar de manera circunstanciada el acto de la Entrega-Recepción, señalando las personas que intervienen y la relación de los recursos humanos, materiales y financieros, así como información y asuntos de su competencia que se entregan y reciben;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
@@ -67,9 +69,9 @@ II.- Comité de Enlace.- El grupo de personas que tratándose del acto de Entreg
 
 III.- Comité Receptor.- El grupo de personas que tratándose del acto de Entrega-Recepción final, son designados por quien vaya a ocupar la titularidad del ente que corresponda, con el objetivo de conocer previamente los recursos y responsabilidades que habrán de recibirse de manera formal;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-IV.- Contraloría.- La Secretaría de Contraloría del Estado de Durango;
+IV.- Contraloría.- La Secretaría de Contraloría y Transparencia Gubernamental del Estado de Durango;
 
 V.- Dependencias.- Las señaladas en la Ley Orgánica de la Administración Pública del Estado de Durango y que integran la Administración Pública Centralizada, así como las creadas con este carácter general en los ordenamientos municipales;
 
@@ -85,19 +87,23 @@ X.- Órganos Internos de Control.- Las Contralorías Internas de las dependencia
 
 XI.- Marco Normativo.- Todo ordenamiento que regule, ordene, dé transparencia y uniformidad al proceso de Entrega-Recepción;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-XII.- Servidores Públicos.- Toda persona física que desempeñe en las dependencias, entes o entidades, algún empleo, cargo o comisión de cualquier naturaleza, por elección, nombramiento o contrato;
+XII.- Personas Servidoras Públicas: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos. La referencia sobre Servidor Público y/o Servidores Públicos, se entenderá como el contenido de esta fracción;
 
-XIII.- Sujeto Obligado.- Aquél que sin ser servidor público tenga un cargo honorífico, administre recursos y asuntos públicos;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XIII.- Sujeto Obligado.- Aquél que sin ser persona servidora pública, tenga un cargo honorífico, administre recursos y asuntos públicos;
 
 XIV.- Superior Jerárquico.- El titular del ente, dependencia o entidad de que se trate, de conformidad con su normatividad; y
 
 XV.- Unidad Administrativa.- Aquélla que está integrada por los empleados de una o varias áreas, que en el desempeño de sus funciones tiene propósitos y objetivos comunes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2026)</small>
+
 ###### Artículo 3.
 
-Los servidores públicos sujetos a la presente Ley, son:
+Las personas servidoras públicas sujetas a la presente Ley, son:
 
 I.- Los integrantes de los entes, desde el nivel de jefe de departamento o su equivalente;
 
@@ -109,21 +115,27 @@ IV.- Los sujetos obligados; y
 
 V.- Los demás que administren recursos públicos y que la naturaleza e importancia de sus funciones determinen las disposiciones legales aplicables.
 
-El superior jerárquico, la Contraloría u Órganos Internos de Control, podrán determinar que otros servidores públicos por la naturaleza e importancia de las funciones a su cargo, quedarán sujetos a las disposiciones de esta Ley.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+El superior jerárquico, la Contraloría u Órganos Internos de Control, podrán determinar que otras personas servidoras públicas, por la naturaleza e importancia de las funciones a su cargo, quedarán sujetas a las disposiciones de esta Ley.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 4.
 
-Los servidores públicos y sujetos obligados involucrados en la ejecución de los trabajos de la Entrega-Recepción, deberán atender los principios de legalidad, transparencia, imparcialidad, eficacia y formalidad en el ejercicio de sus funciones, siendo garantes de la veracidad, oportunidad y confiabilidad de la información, sin perjuicio de la responsabilidad que les corresponda por su participación en el proceso de entrega recepción.
+Las personas servidoras públicas y sujetos obligados involucrados en la ejecución de los trabajos de la Entrega-Recepción, deberán atender los principios de legalidad, transparencia, imparcialidad, eficacia y formalidad en el ejercicio de sus funciones, siendo garantes de la veracidad, oportunidad y confiabilidad de la información, sin perjuicio de la responsabilidad que les corresponda por su participación en el proceso de Entrega-Recepción.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 5.
 
-La Contraloría y los Órganos Internos de Control, quedan facultados para interpretar esta Ley en relación a sus fines administrativos, en sus respectivos ámbitos de competencia, debiendo dictar las medidas complementarias necesarias para su observancia, mismas que para su plena validez, deberán ser publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango o en la Gaceta Municipal, en su caso.
+La Contraloría y los Órganos Internos de Control, quedan facultados para interpretar esta Ley en relación a sus fines administrativos, en sus respectivos ámbitos de competencia, debiendo dictar las medidas complementarias necesarias para su observancia, mismas que para su plena validez, deberán ser publicadas en el Periódico Oficial del Gobierno del Estado de Durango o en la Gaceta Municipal, en su caso.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 6.
 
-La Contraloría y los Órganos Internos de Control, deberán emitir los formatos y actas que se utilizarán de manera general para el acto de Entrega-Recepción, mismos que serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Durango o en la Gaceta Municipal correspondiente.
+La Contraloría deberá emitir los formatos y actas que, la Contraloría y Órganos Internos de Control, utilizarán de manera general para el acto de Entrega-Recepción, mismos que serán publicados en el Periódico Oficial del Gobierno del Estado de Durango o en la Gaceta Municipal correspondiente. Tratándose de los Órganos Internos de Control del Poder Ejecutivo, se sujetarán a lo que disponga la Contraloría.
 
 > <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE DICIEMBRE DE 2020)</small>
 
@@ -133,9 +145,17 @@ I. Diseñar e implementar el Procedimiento de Entrega-Recepción, para su ámbit
 
 II. Dirimir las controversias que se susciten durante los procesos de Entrega-Recepción;
 
-III. Supervisar el cumplimiento de la Entrega-Recepción; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-IV. Promover, en su caso, el inicio de procedimientos de responsabilidad que corresponda.
+III. Supervisar el cumplimiento de la Entrega-Recepción;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+IV. Promover, en su caso, el inicio de procedimientos de responsabilidad que corresponda; y
+
+(ADICINADA, P.O. 7 DE JUNIO DE 2026)
+
+V. Implementar sistemas electrónicos para el proceso de Entrega-Recepción.
 
 ###### Artículo 7.
 
@@ -145,9 +165,13 @@ La Entrega-Recepción puede ser:
 
 a) Final.- La que se origine por el término e inicio de un ejercicio constitucional o legal de los Entes; y
 
-b) Intermedia.- Cuando por causas distintas al cambio de administración, se separe el servidor público y/o sujeto obligado de su cargo, empleo o comisión:
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
-En caso de trasferencia de área, cese, despido, destitución, suspensión o licencia por más de quince días hábiles o tiempo indefinido, en los términos de sus leyes respectivas, el servidor público saliente, no quedará relevado de las obligaciones establecidas por la presente Ley, ni de las responsabilidades en que pudiese haber incurrido con motivo del desempeño de su cargo.
+b) Intermedia.- Cuando por causas distintas al cambio de administración, se separe la persona servidora pública y/o sujeto obligado de su cargo, empleo o comisión:
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+En caso de trasferencia de área, cese, despido, destitución, suspensión, en los términos de sus leyes respectivas, la persona servidora pública saliente, no quedará relevada de las obligaciones establecidas por la presente Ley, ni de las responsabilidades en que pudiese haber incurrido con motivo del desempeño de su cargo.
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO DE ENTREGA-RECEPCIÓN
 
@@ -155,41 +179,59 @@ En caso de trasferencia de área, cese, despido, destitución, suspensión o lic
 
 El procedimiento de Entrega-Recepción, tiene como finalidad:
 
-I.- Para los servidores públicos o sujetos obligados salientes, la entrega de los recursos, y en general, de los conceptos a que se refiere el artículo 1 de este ordenamiento, no los liberará de responsabilidad administrativa y de las faltas en que hubiesen incurrido en el ejercicio de sus funciones al frente de la responsabilidad encomendada; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-II.- Para los servidores públicos o sujetos obligados entrantes, la recepción de los recursos y demás conceptos a que se refiere el artículo 1 de la presente Ley, constituyendo el punto de partida de su actuación al frente de su nueva responsabilidad.
+I.- Para las personas servidoras públicas o sujetos obligados salientes, la entrega de los recursos, y en general, de los conceptos a que se refiere el artículo 1 de este ordenamiento, no las liberará de responsabilidad administrativa y de las faltas en que hubiesen incurrido en el ejercicio de sus funciones al frente de la responsabilidad encomendada; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+II.- Para las personas servidoras públicas o sujetos obligados entrantes, la recepción de los recursos y demás conceptos a que se refiere el artículo 1 de la presente Ley, constituyendo el punto de partida de su actuación al frente de su nueva responsabilidad.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 9.
 
-Para dar cumplimiento a lo establecido en la presente Ley, los servidores públicos y sujetos obligados, deberán mantener permanentemente actualizados sus registros, controles, inventarios, estructura orgánica, archivos físicos y electrónicos, y demás documentos relativos a los recursos humanos, financieros y materiales propios de su despacho, a fin de hacer posible la entrega oportuna de los mismos.
+Para dar cumplimiento a lo establecido en la presente Ley, las personas servidoras públicas y sujetos obligados, deberán mantener permanentemente actualizados sus registros, controles, inventarios, estructura orgánica, archivos físicos y electrónicos, y demás documentos relativos a los recursos humanos, financieros y materiales propios de su despacho, a fin de hacer posible la entrega oportuna de los mismos.
 
-El servidor público o sujeto obligado entrante, tendrá la obligación de recibir la documentación antes mencionada, revisar su contenido y hacer del conocimiento de la autoridad que corresponda, de las anomalías que encuentre.
+La persona servidora pública o sujeto obligado entrante, tendrá la obligación de recibir la documentación antes mencionada, revisar su contenido y hacer del conocimiento de la autoridad que corresponda, de las irregularidades que, a su juicio considere pertinente.
 
 ###### Artículo 10.
 
 La Contraloría o los Órganos Internos de Control, podrán solicitar desde un año antes, la documentación que consideren necesaria para preparar la Entrega-Recepción final.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 11.
 
-El proceso de Entrega-Recepción, inicia con la notificación que reciban la Contraloría o los Organismos Internos de Control, según corresponda, del cambio de un servidor público o sujeto obligado, y concluye con la firma del acta respectiva, la cual deberá ser firmada a más tardar sesenta días naturales después del relevo del titular; y tratándose de entregas finales, el tiempo será en días hábiles, sin perjuicio del procedimiento que establece la presente Ley, en el caso de que un servidor público o sujeto obligado saliente sea requerido para que realice las aclaraciones correspondientes.
+El proceso de Entrega-Recepción, inicia con la notificación que reciban la Contraloría o los Órganos Internos de Control, según corresponda, del cambio de una persona servidora pública o sujeto obligado, y concluye con la firma del acta respectiva, la cual deberá ser firmada a más tardar sesenta días naturales después del relevo del titular, sin perjuicio del procedimiento que establece la presente Ley, en el caso de que una persona servidora pública o sujeto obligado saliente sea requerida para que realice las aclaraciones correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 12.
 
-El superior jerárquico deberá notificar por escrito a la Contraloría u Órganos Internos de Control, según corresponda; el cambio de un servidor público, a más tardar dentro de los tres días hábiles siguientes a aquél en que se lleve a cabo el nombramiento. La notificación contendrá como mínimo, los siguientes requisitos:
+El superior jerárquico deberá notificar por escrito a la Contraloría u Órganos Internos de Control, según corresponda, el cambio de una persona servidora pública, a más tardar dentro de los cinco días hábiles siguientes a aquél en que se lleve a cabo la baja o cambio de la persona servidora pública o sujeto obligado saliente. La notificación contendrá como mínimo, los siguientes requisitos:
 
 I.- Funcionario a quien se dirige;
 
-II.- Especificación del área que se entrega; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-III.- Nombre del funcionario entrante y saliente, o en su caso, del servidor público responsable de la recepción.
+II.- Especificación del área que se entrega;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+III.- Fecha de baja o cambio de la persona servidora pública o sujeto obligado saliente; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+IV.- Nombre del funcionario entrante y saliente, o en su caso, de la persona servidora pública responsable de la recepción.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 13.
 
-En caso de que el superior jerárquico no hiciere la notificación correspondiente y de tener conocimiento, la Contraloría o el Órgano Interno de Control, podrán requerir al superior jerárquico para que en el término de 24 horas, realice dicha notificación; de hacer caso omiso, se procederá al acto de Entrega- Recepción, haciendo constar dicha situación en el acta respectiva, sin perjuicio de que se proceda de conformidad con lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+En caso de que el superior jerárquico no hiciere la notificación correspondiente y de tener conocimiento, la Contraloría o el Órgano Interno de Control, podrán requerir al superior jerárquico para que en el término de cinco días hábiles, realice dicha notificación; de hacer caso omiso, se procederá al acto de Entrega-Recepción, haciendo constar dicha situación en el acta respectiva, sin perjuicio de que se proceda de conformidad con lo dispuesto en la Ley General de Responsabilidades Administrativas.
+
+La Persona Servidora Pública saliente también podrá hacer del conocimiento de la Contraloría o el Órgano Interno de Control, que es necesario que se realice el proceso de Entrega-Recepción.
 
 ###### Artículo 14.
 
@@ -197,9 +239,11 @@ La Entrega-Recepción que establece esta Ley, se realizará mediante el acto adm
 
 Para que el acta tenga validez, debe cumplir con las formalidades del caso, la ausencia de la Contraloría u Órgano Interno de Control, según corresponda, en el acto de Entrega-Recepción, se considera como una falta de formalidad del mismo.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
-El acta se elaborará en cinco tantos, quedándose un original bajo la custodia del servidor público o sujeto obligado que recibe; otro tanto en original para el responsable de la entrega; una copia se entregará a la Contraloría o al Órgano Interno de Control, según corresponda; otra copia se remitirá por conducto del superior jerárquico a la Auditoría Superior del Estado, para los efectos correspondientes, de acuerdo a la Ley de Fiscalización Superior del Estado de Durango; y una copia se integrará a los archivos del área que se entrega, haciéndose constar dicha situación en el acta de Entrega-Recepción.
+El acta se elaborará en cinco tantos, quedándose un original bajo la custodia de la persona servidora pública o sujeto obligado que recibe; otro tanto en original para el responsable de la entrega; una copia se entregará a la Contraloría o al Órgano Interno de Control; otra copia se remitirá por conducto del superior jerárquico a la Auditoría Superior del Estado de Durango, según corresponda, para los efectos correspondientes, de acuerdo a la Ley de Fiscalización Superior del Estado de Durango; y una copia se integrará a los archivos del área que se entrega, haciéndose constar dicha situación en el acta de Entrega-Recepción.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 15.
 
@@ -207,101 +251,127 @@ En el acto de Entrega-Recepción final, intervendrán:
 
 I.- En el Poder Ejecutivo:
 
-a) El servidor público titular saliente;
+a) La persona servidora pública titular saliente;
 
-b) El servidor público titular entrante o la persona que éste designe;
+b) La persona servidora pública titular entrante o la persona que ésta designe;
 
-c) Un representante de la Contraloría o del Órgano Interno de Control, según corresponda, y
+c) Una representación de la Contraloría o del Órgano Interno de Control, según corresponda; y
 
-d) El Director o encargado administrativo saliente, o su similar.
+d) La persona Directora o encargada administrativa saliente, o su similar.
 
 II.- En el Poder Judicial:
 
-a) El servidor público titular saliente;
+a) La persona servidora pública titular saliente;
 
-b) El servidor público titular entrante o la persona que éste designe;
+b) La persona servidora pública titular entrante o la persona que ésta designe;
 
-c) El titular del área que conforme a sus respectivas leyes orgánicas o reglamentos internos correspondientes, lleve el inventario de los bienes y recursos asignados; y
+c) La persona titular del área que, conforme a sus respectivas leyes orgánicas o reglamentos internos correspondientes, lleve el inventario de los bienes y recursos asignados; y
 
-d) Una representante del órgano de control o su equivalente en este Poder.
+d) Una representación del Órgano Interno de Control o su equivalente en este Poder.
 
 III.- En el Poder Legislativo:
 
-a) Los Presidentes de la Gran Comisión entrante y saliente;
+a) Quienes presidan la Junta de Gobierno y Coordinación Política de las Legislaturas entrante y saliente;
 
-b) El presidente de la Comisión de Administración y Contraloría Interna; y
+b) Quien presida de (sic) la Comisión de Administración y Contraloría Interna; y
 
-c) El Oficial Mayor.
+c) La persona que ocupe la Secretaría General.
 
 IV.- En los Municipios:
 
-a) El servidor público titular saliente;
+a) La persona servidora pública titular saliente;
 
-b) El servidor público titular entrante o la persona que éste designe;
+b) La persona servidora pública titular entrante o la persona que éste designe;
 
-c) El Contralor Municipal; y
+c) Quien ocupe la titularidad de la Contraloría Municipal; y
 
 V.- En los organismos autónomos:
 
-a) El servidor público titular saliente;
+a) La persona servidora pública titular saliente;
 
-b) El servidor público titular entrante o la persona que éste designe;
+b) La persona servidora pública titular entrante o la persona que ésta designe; y
 
-c) El representante de su Órgano de Control Interno.
+c) Una representación de su Órgano Interno de Control.
 
 ###### Artículo 16.
 
 En el acto de Entrega-Recepción intermedia, intervendrán:
 
-a) El servidor público titular saliente;
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
-b) El servidor público titular entrante;
+a) La persona servidora pública titular saliente;
 
-c) El representante de la Contraloría u Órgano de Control Interno.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+b) La persona servidora publica titular entrante; y
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+c) La persona representante de la Contraloría u Órgano Interno de Control.
 
 ###### Artículo 17.
 
 Tratándose de Entrega-Recepción, derivada de cargos honoríficos, ya sean comités, patronatos o cualquier otro tipo de órgano que administre recursos públicos de los citados en el artículo 1 de este ordenamiento, intervendrán los sujetos obligados que correspondan y aquéllos que considere necesario la Contraloría o los Órganos Internos de Control.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
 ###### Artículo 18.
 
-Cuando la Entrega-Recepción se realice por cambio de administración, la información que se incluya en el acta, deberá comprender el marco jurídico de actuación de la unidad administrativa, estructura de organización, situación de los programas o acciones a su cargo, los recursos humanos, materiales y financieros asignados para el cumplimiento de sus funciones, así como un resumen o informe ejecutivo de los principales resultados obtenidos durante el período que concluye.
+En la Entrega-Recepción intermedia o final que se realice por cambio de administración, la información que se incluya en el acta, deberá comprender la estructura orgánica, marco jurídico de actuación de la unidad administrativa, situación de los programas o acciones a su cargo, los recursos humanos, materiales y financieros asignados para el cumplimiento de sus funciones, así como un resumen o informe ejecutivo de los principales resultados obtenidos durante el período que concluye.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 19.
 
-La Entrega-Recepción intermedia, se hará al tomar posesión del cargo el servidor público entrante, previa protesta que deberá rendir en términos de ley. Si no existe nombramiento o designación inmediata de quien deba sustituir al servidor público saliente, la Entrega-Recepción se hará al servidor público que designe para tal efecto el superior jerárquico del mismo, con el carácter de encargado.
+La Entrega-Recepción intermedia, se hará al tomar posesión del cargo la persona servidora pública entrante, previa protesta que deberá rendir en términos de ley. Si no existe nombramiento o designación inmediata de quien deba sustituir a la persona servidora pública saliente, la Entrega-Recepción se hará a la persona servidora pública que designe para tal efecto el superior jerárquico del mismo, con el carácter de encargado.
 
-El contenido de la información se referirá a la función que desarrolló el servidor público saliente, así como al resguardo de recursos humanos, materiales, financieros y los asuntos en trámite respectivo de carácter oficial que estuvieron bajo su responsabilidad, mismos que serán contenidos en los formatos correspondientes.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+El contenido de la información se referirá a la función que desarrolló la persona servidora pública saliente, así como al resguardo de recursos humanos, materiales, financieros, archivos y los asuntos en trámite respectivos de carácter oficial, que estuvieron bajo su responsabilidad, mismos que serán contenidos en los formatos correspondientes.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+Tratándose de unidades con personal a cargo, deberá incluirse el estatus de los asuntos asignados al mismo para su atención; así como en el caso de las Direcciones Administrativas o su equivalente, deberán incluir información de recursos humanos, financieros y materiales referentes a la Dependencia, Ente o Entidad, indicando el departamento y titular que la genera.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 20.
 
-En caso de que quien entregue y reciba sea la misma persona, se hará constar dicha situación mediante acta circunstanciada, para lo cual el superior jerárquico designará a otro servidor público, que fungirá como tercero para que revise los recursos que establece la presente Ley, manifestándose en el acta y formatos.
+En caso de que quien entregue y reciba sea la misma persona, se hará constar dicha situación mediante acta circunstanciada, para lo cual el superior jerárquico designará a otra persona servidora pública, que fungirá como tercero para que revise los recursos que establece la presente Ley, manifestándose en el acta y formatos.
 
-En caso de que se encuentren observaciones, se hará el procedimiento que establece la presente Ley. Para este supuesto, el acta respectiva deberá ser firmada por el servidor público, el representante de la Contraloría u Órgano Interno de Control, el superior jerárquico, o en su caso, por el tercero que éste designe.
+En caso de que se encuentren observaciones, se hará el procedimiento que establece la presente Ley. Para este supuesto, el acta respectiva deberá ser firmada por la persona servidora pública, el representante de la Contraloría u Órgano Interno de Control, el superior jerárquico, o en su caso, por el tercero que éste designe.
 
-###### Artículo 21.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
-El tiempo máximo que podrá durar un servidor público como encargado será de 30 días naturales, salvo en aquellos casos que derivado de otras disposiciones legales aplicables, dicho término que deba ser mayor.
+###### Articulo 21.
+
+Con la finalidad de salvaguardar los recursos y dar continuidad a los asuntos asignados a la Unidad que se entregue, inmediatamente a la separación de la persona servidora pública o sujeto obligado, deberá entregar de manera preliminar, al acto formal, mediante acta administrativa, los recursos materiales, financieros, llaves de acceso, e indicar los asuntos de atención inmediata, a quien el superior jerárquico designe para tal efecto; sin que ello, le deslinde de la responsabilidad de realizar el proceso de Entrega-Recepción formal.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 22.
 
-Cuando existan áreas de nueva creación, se realizará un acta con las formalidades que establece la presente Ley, donde se harán constar los recursos y asuntos que reciben los servidores públicos o sujetos obligados. Para este efecto, el acta será firmada por quien fungirá como titular, la Contraloría u Órganos Internos de Control, según corresponda.
+Cuando existan Unidades Administrativas de nueva creación, se realizará un acta con las formalidades que establece la presente Ley, donde se harán constar los recursos, asuntos y facultades que reciben las personas servidoras públicas o sujetos obligados. Para este efecto, el acta será firmada por quien fungirá como titular, el superior jerárquico inmediato de la Unidad de nueva creación y la Contraloría u Órganos Internos de Control, según corresponda.
 
 ###### Artículo 23.
 
 La Contraloría o los Órganos Internos de Control, según corresponda, tomarán y dictarán las medidas que consideren pertinentes, para asegurar que el proceso se lleve a cabo, conforme a lo dispuesto por esta Ley.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
 ###### Artículo 24.
 
-Durante el acto de Entrega-Recepción, los firmantes podrán realizar los comentarios que consideren pertinentes, mismos que quedarán asentados en el acta, a petición de los interesados, conforme a las disposiciones y formatos que con carácter no limitativo expida la Contraloría u Órganos Internos de Control, según corresponda.
+Durante el acto de Entrega-Recepción, las personas servidoras públicas entrante y/o saliente, en su caso, podrán realizar las manifestaciones que consideren pertinentes, mismos que quedarán asentadas en el acta, a petición de los interesados, conforme a las disposiciones y formatos que con carácter no limitativo expida la Contraloría u Órganos Internos de Control, según corresponda.
 
 ###### Artículo 25.
 
 En el acto de Entrega-Recepción, ya sea intermedio o final, el acta y los formatos correspondientes deberán ser firmados por dos testigos, uno que será designado por la parte entrante y otro por la saliente y quienes deban intervenir, de conformidad con lo establecido en la presente Ley.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
 ###### Artículo 26.
 
-En caso de urgencia para poder llevar a cabo el proceso de Entrega- Recepción, la Contraloría u Órganos Internos de Control, podrán habilitar horas y días para hacer la Entrega-Recepción correspondiente.
+En caso de urgencia para poder llevar a cabo el proceso de Entrega-Recepción, la Contraloría u Órganos Internos de Control, podrán habilitar horas y días inhábiles para hacer la Entrega-Recepción correspondiente.
 
 ###### Artículo 27.
 
@@ -315,17 +385,25 @@ a) La recepción de una unidad administrativa por parte de cualquier persona dis
 
 b) La entrega de una unidad administrativa por parte de cualquier persona distinta al titular saliente.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
 ###### Artículo 29.
 
-En caso de muerte, incapacidad por enfermedad o ausencia injustificada por más de 12 días hábiles del servidor público, el superior jerárquico lo notificará a la Contraloría u Órgano Interno de Control, quien levantará acta circunstanciada ante su superior inmediato y dos testigos. A fin de dejar constancia del estado en que se encuentran los asuntos y recursos, se procederá a realizar la entrega a la persona que sea nombrada como encargada o titular definitivo, requiriéndose información a los servidores públicos adscritos a dicha área.
+En caso de muerte, incapacidad por enfermedad o ausencia injustificada por más de 12 días hábiles de la persona servidora pública o sujeto obligado, el superior jerárquico lo notificará a la Contraloría u Órgano Interno de Control, quien levantará acta circunstanciada ante su superior inmediato y dos testigos. A fin de dejar constancia del estado en que se encuentran los asuntos y recursos, se procederá a realizar la entrega a la persona que sea nombrada como encargada o titular definitivo, requiriéndose información a las personas servidoras públicas adscritos a dicha área.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+En el caso de incapacidad por enfermedad, se realizará el proceso establecido en el párrafo anterior, cuando así se estime conveniente por la Contraloría o el Órgano Interno de Control.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 30.
 
-Se tomará como excepción a la entrega, cuando por una causa justificada, los servidores públicos o sujetos obligados a la Entrega-Recepción no puedan realizarla, dicha obligación correrá a cargo del servidor público que designe el superior jerárquico.
+Se tomará como excepción a la entrega, cuando por una causa justificada, las personas servidoras públicas o sujetos obligados a la Entrega-Recepción no puedan realizarla, dicha obligación correrá a cargo de la persona servidora pública que designe el superior jerárquico.
 
-Se considera como causa justificada, la muerte, incapacidad física o mental que imposibilite al servidor público o sujeto obligado, para llevar a cabo la Entrega- Recepción, la reclusión por la comisión de algún delito sustentada en un auto de formal prisión y que no permita la libertad bajo fianza.
+Se considera como causa justificada, la muerte, incapacidad física o mental que imposibilite a la persona servidora pública o sujeto obligado, para llevar a cabo la Entrega-Recepción, la reclusión por la comisión de algún delito sustentada en un auto de formal prisión y que no permita la libertad bajo fianza.
 
-Para los efectos del presente artículo, el hecho de que los servidores públicos o sujetos obligados no puedan realizar la Entrega- Recepción, no los deslindará de las responsabilidades en que hubiesen incurrido.
+Para los efectos del presente artículo, el hecho de que las personas servidoras públicas o sujetos obligados no puedan realizar la Entrega-Recepción, no los deslindará de las responsabilidades en que hubiesen incurrido.
 
 ### CAPÍTULO III. DE LA INFORMACIÓN Y DEL CONTENIDO DE LA ENTREGA-RECEPCIÓN
 
@@ -363,7 +441,9 @@ XIII.- Las cantidades deben ser asentadas con número y letra;
 
 XIV.- Las hojas que integran el acta deben foliarse en forma consecutiva;
 
-XV.- Hacer el señalamiento del domicilio legal del servidor público entrante y saliente;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XV.- Hacer el señalamiento del domicilio legal de la persona servidora pública entrante y saliente;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
@@ -371,7 +451,9 @@ XVI.- El apercibimiento de conducir con la verdad ante la autoridad administrati
 
 XVII.- La manifestación de que los formatos y/o anexos forman parte integrante del acta; y
 
-XVIII.- La mención de la entrega del despacho y de los asuntos, no eximen de la responsabilidad en que hubiera incurrido el servidor público saliente.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XVIII.- La mención de la entrega del despacho y de los asuntos, no eximen de la responsabilidad en que hubiera incurrido la persona servidora pública saliente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2024)</small>
 
@@ -389,19 +471,29 @@ a) Plantilla actualizada de personal, con adscripción, nombre, categoría, señ
 
 b) Relación de personal sujeta a pago de honorarios, especificando el nombre de la persona que presta sus servicios, importe mensual de honorarios así como las retenciones, deducciones correspondientes y la descripción de actividades;
 
-c) Relación del personal con licencia o comisión que señale el nombre, el área a que está adscrito el servidor público, el área a la que está comisionado y el periodo de la licencia, permiso o comisión, además las percepciones y deducciones de cada uno de estos en su lugar de adscripción y/o las que se reciban en el lugar que se encuentra comisionado; y
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+c) Relación del personal con licencia o comisión que señale el nombre, el área a que está adscrito la persona servidora pública, el área a la que está comisionada y el periodo de la licencia, permiso o comisión, además las percepciones y deducciones de cada una de estas en su lugar de adscripción y/o las que se reciban en el lugar que se encuentre comisionada; y
 
 d) Se deberán de entregar los expedientes del personal, tabulador de sueldos, catálogos y perfiles de sueldo, programas de capacitación y desarrollo, situación del ejercicio de recursos de los Capítulos 100 y 1000 según corresponda y el sistema para la elaboración de la nómina de pagos al personal.
 
 IV.- Relación de recursos materiales por la Unidad Administrativa resguardante del:
 
-a) Mobiliario y equipo de oficina, así como artículos de decoración, publicaciones, libros y demás similares, con una información clara del número de inventario, descripción del artículo marco, modelo, serie, ubicación, especificaciones y el nombre del servidor público a quien se le tiene asignado el bien, referencia de resguardo y fecha de asignación. Las entidades autónomas deberán llevar su propio inventario, siempre que se adecúe a lo señalado en esta fracción;
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
-b) Equipo de transporte y maquinaria, así como su herramienta y accesorios, con información clara del tipo, marca, color, placas, número de control, serie, estado físico y funcional, así como el nombre y cargo del servidor público a quien se le tienen asignado y la referencia del resguardo;
+a) Mobiliario y equipo de oficina, así como artículos de decoración, publicaciones, libros y demás similares, con una información clara del número de inventario, descripción del artículo marco (sic), modelo, serie, ubicación, especificaciones y el nombre de la persona servidora pública a quien se le tiene asignado el bien, referencia de resguardo y fecha de asignación. Las entidades autónomas deberán llevar su propio inventario, siempre que se adecúe a lo señalado en esta fracción;
 
-c) Equipo de comunicación y sus accesorios, conteniendo número de inventario, tipo de aparato, marca, serie, estado físico y funcional, así como el nombre y cargo del servidor público resguardante y la ubicación de dicho equipo;
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
-d) Armamento oficial y sus accesorios, especificando el número de inventario, tipo de armas, marca, calibre, matricula, estado físico y funcional, así como el nombre y cargo del servidor público resguardante;
+b) Equipo de transporte y maquinaria, así como su herramienta y accesorios, con información clara del tipo, marca, color, placas número de control, serie, estado físico y funcional, así como el nombre y cargo de la persona servidora pública a quien se le tienen asignado y la referencia del resguardo;
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+c) Equipo de comunicación y sus accesorios, conteniendo número de inventario, tipo de aparato, marca, serie, estado físico y funcional, así como el nombre y cargo de la persona servidora pública resguardante y la ubicación de dicho equipo.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+d) Armamento oficial y sus accesorios, especificando el número de inventario, tipo de armas, marca, calibre, matrícula, estado físico y funcional, así como el nombre y cargo de la persona servidora pública resguardante;
 
 e) Inventario de almacén, describiendo el número y nombre del artículo, unidad de medida y existencia; y
 
@@ -432,6 +524,10 @@ h) Relación de ministraciones del ejercicio en que se efectúa la Entrega-Recep
 i) Presupuesto original, modificado, ejercido, comprometido y disponible a la fecha de la entrega, incluyendo recursos propios, y en su caso, los recursos federales recibidos al Estado o municipios, anotándose el ejercicio al que corresponda, el número y nombre de la cuenta, subcuenta, importes parcial y total; y
 
 j) Relación de conceptos de ingresos propios, especificando la tarifa correspondiente.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+La información en las fracciones citadas deberá dar cumplimiento a lo establecido en la Ley General de Contabilidad Gubernamental vigente, de acuerdo a los informes generados por los Sistemas Contables en la medida que corresponda.
 
 VI.- Obras Públicas:
 
@@ -497,7 +593,13 @@ f) Los demás documentos e información que establezcan la Contraloría y los Ó
 
 El Comité Receptor deberá quedar constituido dentro de los primeros quince días del mes de agosto, para iniciar los trabajos de Entrega-Recepción final.
 
-En caso de elecciones extraordinarias, el Comité a que se refiere el párrafo anterior, deberá quedar constituido quince días después de resuelta dicha elección.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+Tratándose de cambio de Administración Municipal, deberá quedar constituido dentro de la segunda quincena del mes de julio.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+En caso de elecciones extraordinarias, el Comité a que se refiere el primer párrafo, deberá quedar constituido quince días después de resuelta dicha elección.
 
 ###### Artículo 34.
 
@@ -529,21 +631,27 @@ Constituido el Comité Receptor, en coordinación con el Comité de Enlace, debe
 
 Las actividades que desarrollen los integrantes del Comité Receptor, serán únicamente con el objeto de conocer los recursos y las responsabilidades que habrán de recibirse, por lo que no podrán interferir en el desarrollo normal de las funciones oficiales, sustraer información, ni tomar posesión de bienes, antes de la Entrega-Recepción final.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
 ###### Artículo 40.
 
-Los servidores públicos de las dependencias y entidades de las administraciones públicas estatal y municipales, estarán obligados a brindar la información correspondiente, en el ámbito de su competencia, una vez que el Gobernador del Estado o los Ayuntamientos entrantes, le den a conocer al Gobernador o Ayuntamientos salientes, los nombres de las personas integrantes de la Comisión Receptora.
+Las personas servidoras públicas de las dependencias y entidades de las administraciones públicas estatal y municipales, estarán obligadas a brindar la información correspondiente en el ámbito de su competencia, una vez que el Gobernador del Estado o los Ayuntamientos entrantes, le den a conocer al Gobernador o Ayuntamientos salientes, los nombres de las personas integrantes de la Comisión Receptora.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 41.
 
-Quienes integren el Comité Receptor, durante su actuación, no tendrán el carácter de servidores públicos ni percibirán retribución alguna con cargo al erario público del ente, dependencia o entidad, de que se trate, por lo que deberán abstenerse de efectuar cualquier acción tendiente a obtener algún beneficio de esa naturaleza.
+Quienes integren el Comité Receptor, durante su actuación, no tendrán el carácter de personas servidoras públicas ni percibirán retribución alguna con cargo al erario público del ente, dependencia o entidad, de que se trate, por lo que deberán abstenerse de efectuar cualquier acción tendiente a obtener algún beneficio de esa naturaleza.
 
 ###### Artículo 42.
 
 El Gobernador del Estado y los Ayuntamientos salientes, en el ámbito de su competencia, deberán realizar la Entrega-Recepción de su despacho, a los funcionarios públicos entrantes.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
 ###### Artículo 43.
 
-Los servidores públicos salientes de las dependencias y entidades de las administraciones públicas estatal o municipales, estarán obligados a proporcionar a los servidores públicos entrantes y a los órganos internos de control, la información que requieran y hacer las aclaraciones que les soliciten.
+Las personas servidoras públicas salientes de las dependencias y entidades de las administraciones públicas estatal o municipales, estarán obligadas a proporcionar a las personas servidoras públicas entrantes y a los Órganos Internos de Control, la información que requieran y hacer las aclaraciones que les soliciten conforme a lo establecido en la presente Ley.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
@@ -557,59 +665,81 @@ Tratándose de entregas por cambio de administración o término legal de los de
 
 ### CAPÍTULO V. DE LAS OBLIGACIONES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2026)</small>
+
 ###### Artículo 46.
 
-Los servidores públicos y sujetos obligados, deberán notificar ante la Contraloría o el Órgano Interno de Control, el cambio de domicilio que hayan tenido al manifestarlo en el acta, dicha obligación substituirá por un término de treinta días hábiles posteriores a la entrega que hayan realizado, para el caso de que sean requeridos, de conformidad con las disposiciones establecidas en la presente Ley.
+Las personas servidoras públicas y sujetos obligados, deberán notificar ante la Contraloría o el Órgano Interno de Control, el cambio de domicilio que hayan tenido al manifestarlo en el acta, dicha obligación substituirá (sic) por un término de treinta días hábiles posteriores a la entrega que hayan realizado, para el caso de que sean requeridas, de conformidad con las disposiciones establecidas en la presente Ley.
 
 Para efectos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, la omisión al presente artículo, será considerada como causa grave.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 47.
 
-En caso de que el servidor público o sujeto obligado entrante se percate de irregularidades en los documentos y recursos recibidos, dentro de un término de treinta días hábiles, contados a partir de la fecha de la firma del acta de Entrega-Recepción, deberá hacerlas del conocimiento de la Contraloría o el Órgano Interno de Control, a fin de que sea requerido el servidor público o sujeto obligado saliente y proceda a su aclaración.
+En caso de que la persona servidora pública o sujeto obligado entrante se percate de irregularidades en los documentos y recursos recibidos dentro de un término de treinta días naturales, contados a partir de la fecha de la firma del acta de Entrega-Recepción, deberá hacerlas del conocimiento de la Contraloría o el Órgano Interno de Control, a fin de que sea requerida la persona servidora pública que exclusivamente le competa o sujeto obligado saliente y proceda a su aclaración.
 
-La Contraloría o el Órgano Interno de Control de que se trate, una vez recibido el escrito que señale las probables irregularidades detectadas en la verificación del acta de Entrega-Recepción, citará dentro de los quince días hábiles siguientes, a los servidores públicos o sujetos obligados entrantes y salientes, a efecto de solicitarles las aclaraciones pertinentes y que proporcionen la documentación que, en su caso, resultare faltante, levantando un acta circunstanciada, dejando asentadas las manifestaciones que al respecto deseen rendir los servidores públicos sobre las inconsistencias detectadas.
+La Contraloría o el Órgano Interno de Control de que se trate, una vez recibido el escrito que señale las probables irregularidades detectadas en la verificación del acta de Entrega-Recepción, citará dentro de los quince días hábiles siguientes, a las personas servidoras públicas o sujetos obligados entrantes y salientes, a efecto de solicitarles las aclaraciones pertinentes y que proporcionen la documentación que, en su caso, resultare faltante, levantando un acta circunstanciada dejando asentadas las manifestaciones que al respecto deseen rendir las personas servidoras públicas sobre las inconsistencias detectadas.
 
-Si el servidor público o sujeto obligado entrante considera que no se aclaran dichas inconsistencias, la Contraloría o el Órgano Interno de Control, procederá a realizar las investigaciones a que haya lugar; y de resultar que se constituye probable responsabilidad administrativa, tratándose de servidores públicos, se procederá conforme lo dispone la Ley de Responsabilidades de los Servidores del Estado y de los Municipios, sin perjuicio de lo que señalen otros ordenamientos.
+En el caso que las personas servidoras públicas salientes, fueran citadas para el proceso de aclaración, los mismos podrán solicitar a la Contraloría o el Órgano Interno de Control de que se trate, el acceso a la información y documentación correspondiente con la finalidad de que tengan los elementos necesarios para rendir las aclaraciones y no se queden en estado de indefensión.
+
+El servidor público saliente podrá solicitar el diferimiento de la audiencia de aclaraciones, en aquellos casos que requiera el acceso a la información y documentación o por causa debidamente justificada.
+
+Si la persona servidora pública o sujeto obligado entrante considera que no se aclaran dichas inconsistencia, la Contraloría o el Órgano Interno de Control, procederá a realizar las investigaciones a que haya lugar; y de resultar que se constituye probable responsabilidad administrativa, tratándose de personas servidoras púbicas (sic), se procederá conforme lo dispone la Ley General de Responsabilidades Administrativas, sin perjuicio de lo que señalen otros ordenamientos.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 48.
 
-Ningún servidor público, podrá dejar el presupuesto sin llevar a cabo el acto de Entrega-Recepción correspondiente; para cuyo efecto, el superior jerárquico o la autoridad competente deberá designar al sustituto o encargado provisional en un plazo no mayor de quince días naturales, contados a partir de la fecha en que sea aceptada la renuncia, se notifique la baja o se lleve a cabo el cambio del servidor público.
+Ninguna persona servidora pública podrá dejar el empleo, cargo o comisión sin llevar a cabo el acto de Entrega-Recepción correspondiente; para cuyo efecto, el superior jerárquico o la autoridad competente deberá designar al sustituto o encargado provisional en un plazo no mayor de quince días naturales, contados a partir de la fecha en que sea aceptada la renuncia, se notifique la baja o se lleve a cabo el cambio de la persona servidora pública.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 49.
 
-En caso de que algún servidor público no cumpla con lo dispuesto en la presente Ley, la Contraloría o el Órgano Interno de Control, según corresponda, llevará a cabo el procedimiento respectivo para deslindar las responsabilidades en los términos de la ley de la materia.
+En caso de que alguna persona servidora pública no cumpla con lo dispuesto en la presente Ley, la Contraloría o el Órgano Interno de Control, según corresponda, llevará a cabo el procedimiento respectivo para deslindar las responsabilidades en los términos de la ley de la materia.
 
 ###### Artículo 50.
 
 Si por cualquier circunstancia, no es posible nombrar al titular o encargado entrante dentro de los quince días naturales posteriores a aquél en que el titular haya dejado el puesto, se llevará a cabo la Entrega-Recepción, recibiendo el superior jerárquico inmediato.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
 ###### Artículo 51.
 
-La entrega del despacho y de los asuntos en trámite encomendados al servidor público o sujeto obligado saliente, no los exime de las responsabilidades en que hubieren incurrido, en los términos de las leyes que les apliquen.
+La entrega del despacho y de los asuntos en trámite encomendados a la persona servidora pública o sujeto obligado saliente, no los exime de las responsabilidades en que hubieren incurrido, en los términos de las leyes que les apliquen.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 52.
 
-El servidor público o sujeto obligado saliente, que no entregue los asuntos y recursos a su cargo en los términos de esta Ley, será requerido por la Contraloría o el Órgano Interno de Control de la dependencia o entidad que corresponda, para que en un lapso no mayor de quince días hábiles, contados a partir de la fecha de separación del empleo, cargo o comisión, cumpla con esta obligación.
+La persona servidora pública o sujeto obligado saliente, que no entregue los asuntos y recursos a su cargo en los términos de esta Ley, será requerida por la Contraloría o el Órgano Interno de Control de la dependencia o entidad que corresponda, para que, en un lapso no mayor de quince días hábiles, contados a partir de la fecha de separación del empleo, cargo o comisión, cumpla con esta obligación.
 
-Si a pesar del requerimiento realizado al servidor público saliente, dejare de cumplir esta obligación, se procederá en los términos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios; esta falta será considerada grave para los efectos de la sanción que se le imponga, sin perjuicio de lo que dispongan otros ordenamientos jurídicos.
+Si a pesar del requerimiento realizado a la persona servidora pública saliente, dejare de cumplir esta obligación, se procederá en los términos previstos en la Ley General de Responsabilidades Administrativas; esta falta será considerada grave para los efectos de la sanción que se le imponga, sin perjuicio de lo que dispongan otros ordenamientos jurídicos.
 
-En este caso, el servidor público entrante al tomar posesión o el encargado del despacho, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos, haciendo del conocimiento del superior jerárquico y del órgano interno de control, para efectos del requerimiento a que se refiere este artículo, a fin de que se promuevan las acciones correspondientes.
+En este caso, la persona servidora pública entrante al tomar posesión o el encargado del despacho, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos, haciendo del conocimiento del superior jerárquico y del Órgano Interno de Control, para efectos del requerimiento a que se refiere este artículo, a fin de que se promuevan las acciones correspondientes.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 53.
 
-En caso de cese, despido, destitución o renuncia, el servidor público saliente no quedará relevado de las obligaciones que se encuentren con las disposiciones de esta Ley, siéndole aplicable, en su caso, el régimen de responsabilidad de los servidores públicos y demás normatividad aplicable.
+En caso de cese, despido, destitución o renuncia, la persona servidora pública saliente no quedará relevada de las obligaciones que se encuentren con las disposiciones de esta Ley, siéndole aplicable, en su caso, el régimen de responsabilidad de las personas servidoras públicas y demás normatividad aplicable.
 
 ###### Artículo 54.
 
 Si derivado del proceso de Entrega-Recepción se encuentran irregularidades, se procederá conforme a la ley.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+Artículo 54 BIS.- En el caso que la persona servidora pública saliente, se encuentre en un proceso de aclaración o solventación de observaciones de auditoría o los actos que se deriven de ello, podrá solicitar a la Contraloría o al Órgano Interno de Control de la dependencia o entidad que corresponda, para que, en un lapso no mayor a diez días hábiles, estos últimos remitan copia de la información que requiera para atender los mismos, siempre y cuando justifique que se encuentra en ese supuesto.
+
 ### CAPÍTULO VI. DE LAS NOTIFICACIONES
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### Artículo 55.
 
-Cuando la Contraloría o los Órganos Internos de Control, citen a los servidores públicos o sujetos obligados entrantes y salientes, a efecto de solicitarles las aclaraciones pertinentes sobre las probables irregularidades detectadas en la verificación del acto de Entrega-Recepción, o por la no celebración de éste, se sujetarán a las reglas establecidas en el presente capítulo.
+Cuando la Contraloría o los Órganos Internos de Control, citen a las personas servidoras públicas o sujetos obligados entrantes y salientes, a efecto de solicitarles las aclaraciones pertinentes sobre las probables irregularidades detectadas en la verificación del acto de Entrega-Recepción, o por la no celebración de éste, se sujetarán a las reglas establecidas en el presente capítulo.
 
 ###### Artículo 56.
 
@@ -617,15 +747,19 @@ Todas las notificaciones deberán realizarse estrictamente en los plazos y térm
 
 I.- Cuando la distancia o condiciones geográficas así lo ameriten; o
 
-II.- Cuando se haya tenido problemática para conocer el domicilio del servidor público o sujeto obligado saliente.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+II.- Cuando se haya tenido problemática para conocer el domicilio de la persona servidora pública o sujeto obligado saliente.
 
 ###### Artículo 57.
 
 Las notificaciones de los actos que establece la presente Ley, se harán personales, mediante mensajería, correo certificado o telegrama.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2026)</small>
+
 ###### Artículo 58.
 
-Las notificaciones personales se harán en el domicilio del servidor público entrante y saliente o sujeto obligado, en su lugar de trabajo actual o en el último domicilio que la persona a quien se deba notificar, haya señalado en el acta de Entrega-Recepción.
+Las notificaciones personales se harán en el domicilio de la persona servidora pública entrante y saliente o sujeto obligado, en su lugar de trabajo actual o en el último domicilio que la persona a quien se deba notificar, haya señalado en el acta de Entrega-Recepción.
 
 Quien notifique, deberá cerciorarse del domicilio del interesado, identificándose en el acto con constancia o credencial expedida por autoridad competente, en las que se contenga su fotografía; y deberá entregar, junto con la copia del citatorio o documento en el que conste el acto que se notifique, una copia del acta que se levante en el momento de la diligencia y en la que se hagan constar en forma circunstanciada los hechos y señalar la fecha y hora en que la notificación se efectúe, recabando el nombre y la firma de la persona con quien se entienda la diligencia; de negarse a firmar, se hará constar en el acta de notificación, sin que ello afecte su validez.
 
@@ -637,15 +771,19 @@ Si la persona a quien haya de notificarse no atendiere el citatorio, la notifica
 
 Las notificaciones personales surtirán sus efectos el día siguiente en que hubieren sido realizadas. Se tendrá como fecha de notificación por correo certificado del Servicio Postal Mexicano y telegrama, la que conste en el acuse de recibo, surtiendo efectos en esa misma fecha.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2026)</small>
+
 ###### Artículo 60.
 
-A la notificación mediante la cual sean requeridos los servidores públicos o sujetos obligados salientes y entrantes, se le dará como mínimo dos días hábiles a partir del día que fuere realizada, para que se presenten en el lugar citado y realicen las aclaraciones a que se refiere la presente Ley o hagan la entrega correspondiente.
+A la notificación mediante la cual sean requeridas las personas servidoras públicas que exclusivamente les competa o sujetos obligados salientes y entrantes, se le dará como mínimo cinco días hábiles a partir del día que fuere realizada, para que se presenten en el lugar citado y realicen las aclaraciones a que se refiere la presente Ley o hagan la entrega correspondiente.
 
 En caso de ampliación de los términos para la notificación de las autoridades, éstos se entenderán ampliados de la misma manera que para los sujetos mencionados en el primer párrafo del presente artículo.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
 ###### Artículo 61.
 
-En caso de que no se tenga el domicilio del servidor público saliente o del sujeto obligado, la Contraloría o los Órganos Internos de Control, podrán realizar las investigaciones para localizar el domicilio o lugar donde se pueda encontrar el servidor público, que de encontrarse, se le hará la notificación respectiva en el lugar que se encuentre.
+En caso de que no se tenga el domicilio de la persona servidora pública saliente o del sujeto obligado, la Contraloría o los Órganos Internos de Control, podrán realizar las investigaciones para localizar el domicilio o lugar donde se pueda encontrar la persona servidora pública que, de encontrarse, se le hará la notificación respectiva en el lugar que se encuentre.
 
 T R A N S I T O R I O S
 
@@ -726,3 +864,13 @@ P.O. 26 DE DICIEMBRE DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DERETO (SIC) 439 EL CUAL CONTIENE REFORMAS Y ADICIONES A LA LEY PARA ENTREGA - RECEPCIÓN DE LAS ADMINISTRACIONES PÚBLICASE DEL ESTADO Y MUNICIPIOS DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Aquellos procedimientos de Entrega-Recepción, que a la entrada en vigor de este Decreto se encuentren en proceso, se desarrollarán hasta su terminación, conforme a las condiciones legales con las que iniciaron.
