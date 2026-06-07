@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2025-12-25"
+last_updated: "2026-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -114,6 +114,10 @@ III. La protección y el acrecentamiento de los valores que coadyuven a la creac
 IV. La extensión de actividades y prácticas solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
 V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+Tratándose de personas que carezcan de seguridad social, la prestación gratuita de servicios públicos de salud, medicamentos y demás insumos asociados, en términos de la Ley General de Salud, esta Ley y demás disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
@@ -511,7 +515,7 @@ ARTÍCULO 14 BIS 1.- El Consejo Estatal de Salud para el Estado de Durango es un
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2025)</small>
 
-Artículo 14 BIS 2.- El Consejo Estatal de Salud se integrará de la siguiente manera:
+ARTÍCULO 14 BIS 2.- El Consejo Estatal de Salud se integrará de la siguiente manera:
 
 I. La Presidencia, a cargo de la persona titular del Poder Ejecutivo del Estado;
 
@@ -1251,6 +1255,12 @@ IV. De rehabilitación, que incluyen acciones tendientes a corregir la invalidez
 
 Las acciones de Salud Pública comprenden, entre otras, la prevención y control de enfermedades, principalmente las crónico degenerativas, la depresión, la ideación suicida, la diabetes y las causadas por los malos hábitos en la alimentación de los duranguenses, como la obesidad y el sobrepeso; la prevención, diagnóstico y atención integral del cáncer en niñas, niños, adolescentes y adultos, además de atender los accidentes, la promoción de la salud, la organización y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, así como la información relativa a las condiciones, recursos y servicios de salud de la entidad.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 47 BIS.- La Secretaría de Salud, por conducto del Organismo y en coordinación con los demás integrantes del Sistema Estatal de Salud, y de conformidad con la disponibilidad presupuestaria y los lineamientos técnicos aplicables, garantizará la disponibilidad y aplicación gratuita de la vacuna contra el Virus del Papiloma Humano a la población objetivo que determinen las disposiciones aplicables del Sistema Nacional de Salud, así como los instrumentos de coordinación y operación que, en el ámbito de su competencia, emitan las autoridades estatales.
+
+La Secretaría promoverá, además, acciones de información, orientación, prevención y seguimiento vinculadas a la vacunación contra el Virus del Papiloma Humano, con enfoque de derechos humanos, salud pública, igualdad sustantiva y no discriminación.
+
 ### CAPÍTULO IV
 
 ASISTENCIA SOCIAL, PREVENCIÓN DE DISCAPACIDADES.
@@ -1363,6 +1373,14 @@ Para la determinación de las cuotas de recuperación se tomará en cuenta el co
 
 Las cuotas de recuperación se fundarán en principio de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas o en las zonas de menor desarrollo económico y social.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+Las personas que no cuenten con seguridad social tendrán derecho a recibir gratuitamente los servicios públicos da salud, medicamentos y demás insumos asociados a cargo de la Secretaría y del Organismo, al momento de requerir la atención, en el ámbito de sus respectivas competencias y de conformidad con la Ley General de Salud, esta Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+La existencia de cobertura médica privada no se entenderá como seguridad social ni impedirá, por sí misma, la gratuidad prevista en el párrafo anterior, sin perjuicio de las gestiones administrativas que, en su caso, resulten procedentes conforme al artículo 64 Bis de esta Ley.
+
 ###### ARTÍCULO 63.
 
 Son servicios a derechohabientes los prestados por la institución a que se refiere la fracción II del artículo 61 de esta Ley, a las personas que cotizan o a las que hubieren cotizado y a sus beneficiarios, los que con sus propios recursos o por encargo del Ejecutivo Estatal preste dicha Institución a otros grupos de usuarios.
@@ -1374,6 +1392,14 @@ Los servicios, en los términos de esta Ley y sin perjuicio de lo que prevengan 
 ###### ARTÍCULO 64.
 
 Los servicios de salud que presten las entidades públicas estatales y empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por las convenciones entre prestadores y usuarios, sin perjuicio de los que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 64 BIS. Cuando una persona usuaria cuente con cobertura médica privada, la Secretaría y el Organismo, una vez prestado el servicio, deberán realizar ante las instituciones aseguradoras privadas respectivas las gestiones administrativas de documentación y facturación necesarias para hacer efectivas, en su caso, las cuotas de recuperación que correspondan por los servicios públicos de salud prestados, conforme a los tabuladores de costo que para tal efecto establezcan la Secretaría y el Organismo, a los instrumentos de coordinación o colaboración que se celebren con las aseguradoras, y a las disposiciones administrativas que resulten procedentes y a la legislación aplicable.
+
+Cuando dichas gestiones impliquen el tratamiento o transferencia de datos personales, se observará la legislación aplicable en materia de protección de datos personales.
+
+Las gestiones referidas en los párrafos anteriores no podrán suspender, retrasar o condicionar la atención médica, ni imponer obligaciones a las instituciones aseguradoras privadas o a las personas usuarias distintas de las previstas en la legislación aplicable.
 
 ###### ARTÍCULO 65.
 
@@ -1420,6 +1446,14 @@ Las autoridades sanitarias del Estado y las propias instituciones de salud estab
 ###### ARTÍCULO 73.
 
 Las personas o instituciones públicas o privadas que tengan conocimiento de accidentes o que alguna persona requiera de la prestación urgente de servicios de salud, cuidarán, por los medios a su alcance, que los mismos sean trasladados a los establecimientos de salud más cercanos en los que puedan recibir atención inmediata, sin perjuicio de su posterior remisión a otras instituciones.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 73 BIS. Tratándose de urgencias médicas, los servicios públicos de salud a cargo de la Secretaría y del Organismo deberán brindar la atención que corresponda de manera inmediata y oportuna, conforme a la capacidad resolutiva del establecimiento y a las disposiciones jurídicas aplicables, procurando la estabilización de la persona usuaria y, en su caso, su referencia o remisión a la institución que corresponda.
+
+La atención de urgencia no podrá condicionarse a la acreditación de afiliación a institución de seguridad social, cobertura médica privada, autorización de aseguradora o institución alguna, garantía de pago o cualquier otro trámite administrativo previo.
+
+Una vez atendida la urgencia o estabilizada la persona usuaria, podrán realizarse las gestiones administrativas que resulten procedentes conforme a la legislación aplicable, sin que ello afecte la continuidad, oportunidad o calidad de la atención médica.
 
 ###### ARTÍCULO 74.
 
@@ -1479,31 +1513,47 @@ La atención materno-infantil tiene carácter prioritario y comprende las siguie
 
 I.- La atención de la mujer, durante el embarazo, el parto y puerperio. En este caso, el personal de salud, pública o privada, deberán evitar la violencia obstétrica.
 
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+II.- La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, la atención prenatal, así como la prevención y detección (sic) enfermedades hereditarias y congénitas, y su salud visual.
+
+Se aplicará la prueba de tamiz neonatal ampliado y las demás pruebas de detección neonatal que resulten procedentes conforme a la Ley General de Salud, las normas oficiales mexicanas, los lineamientos técnicos, los programas aplicables y las disposiciones jurídicas correspondientes;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+III.- La aplicación del tamiz neonatal para la detección de cardiopatías congénitas graves o críticas, deberá realizarse antes del alta hospitalaria, conforme a la Ley General de Salud, las normas oficiales mexicanas, lineamientos técnicos, criterios médicos y demás disposiciones jurídicas aplicables;
+
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2014)</small>
 
-II.- La atención del niño y la vigilancia de su crecimiento, desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y en su caso atención, que incluya la aplicación de la prueba del tamiz ampliado, y su salud visual;
+IV.- La revisión de retina y tamiz auditivo al prematuro;
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2014)</small>
 
-III.- La revisión de retina y tamiz auditivo al prematuro;
+V.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-IV.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
-
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2017)</small>
-
-V.- El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida;
-
-nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida;(sic)
+VI.- El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2014)</small>
 
-VI.- La vigilancia del crecimiento y desarrollo de los recién nacidos hasta los dos años de edad, así como detectar de manera temprana los problemas de neurodesarrollo y patología que pudieran tener, para lo cual se contará con una Cartilla Estatal de Neurodesarrollo, la cual se entregará de manera gratuita por las instituciones públicas y privadas del sector salud; y
+VII.- La vigilancia del crecimiento y desarrollo de los recién nacidos hasta los dos años de edad, así como detectar de manera temprana los problemas de neurodesarrollo y patología que pudieran tener, para lo cual se contará con una Cartilla Estatal de Neurodesarrollo, la cual se entregará de manera gratuita por las instituciones públicas y privadas del sector salud; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2014)</small>
 
-VII.- La promoción de la integración y el bienestar familiar.
+VIII.- La promoción de la integración y el bienestar familiar.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+La Secretaría y el Organismo, en el ámbito de sus respectivas competencias, promoverán que la aplicación, seguimiento, confirmación diagnóstica, referencia y atención oportuna derivada del tamizaje neonatal se realicen conforme a criterios médicos, capacidad resolutiva, infraestructura disponible, lineamientos técnicos, programación presupuestaria y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+Las instituciones privadas que integran el Sistema Estatal de Salud que presten servicios de atención obstétrica, partos y puerperio, así como atención médica a personas recién nacidos, deberán asegurar la aplicación del Tamizaje Neonatal correspondiente, ya sea de manera directa o mediante referencia a otra unidad o servicio autorizado.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+Cuando estos servicios se presten por instituciones públicas, las instituciones privadas deberán cubrir los costos correspondientes o sujetarse a los mecanismos que establezca la Secretaría.
 
 ###### ARTÍCULO 82.
 
@@ -2167,9 +2217,15 @@ X. Micosis profundas;
 
 XI. Helmintiasis intestinales y extraintestinales;
 
-XII. Toxoplasmosis; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-XIII. Las demás que determinen el Consejo de Salubridad General y los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte y que se le hubieren celebrado con arreglo a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos.
+XII. Toxoplasmosis;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XIII. Virus del Papiloma Humano; y
+
+XIV. Las demás que determinen el Consejo de Salubridad General y los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte y que se hubieren celebrado con arreglo a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTÍCULO 143.
 
@@ -4406,3 +4462,39 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Consejo Estatal de Salud deberá realizar las adecuaciones correspondientes a su Acuerdo de Creación y Reglamento, en un plazo no mayor de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 406 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE DURANGO, EN MATERIA DE TAMIZAJE NEONATAL EN BENEFICIO DE LA SALUD INFANTIL".]
+
+PRIMERO. El presente Decreto entrará en vigor a los noventa días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. La Secretaría y el Organismo, en el ámbito de sus respectivas competencias, emitirán o adecuarán los programas, lineamientos, mecanismos administrativos y procedimientos necesarios para la aplicación del presente Decreto, conforme a la Ley General de Salud, las Normas Oficiales Mexicanas, lineamientos técnicos y demás disposiciones jurídicas aplicables.
+
+TERCERO. Las acciones derivadas del presente Decreto se realizarán de manera progresiva, conforme a la disponibilidad presupuestaria, capacidad instalada y recursos humanos, materiales y financieros aprobados para las dependencias y entidades competentes.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 407 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE DURANGO, EN MATERIA DE VACUNA CONTRA EL VIRUS DEL PAPILOMA HUMANO (VPH)”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. La Secretaría de Salud del Estado deberá emitir o adecuar, en un plazo no mayor de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, los lineamientos, criterios operativos y mecanismos de coordinación necesarios para su cumplimiento, de conformidad con los lineamientos del Sistema Nacional de Salud, la disponibilidad presupuestaria y la disponibilidad de vacunas e insumos indispensables para su aplicación.
+
+TERCERO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades competentes para el ejercicio fiscal correspondiente, por lo que no se autorizarán ampliaciones presupuestales adicionales para tales efectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 408 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO, EN MATERIA DE COBERTURA MÉDICA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. La Secretaría y el Organismo, en el ámbito de sus respectivas competencias, emitirán o adecuarán las disposiciones administrativas, lineamientos, mecanismos o procedimientos necesarios para el cumplimiento del presente Decreto, conforme a la legislación aplicable y sin que ello constituya requisito previo para la atención médica de las personas usuarias.
+
+TERCERO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades competentes para el ejercicio fiscal correspondiente, por lo que no se autorizarán ampliaciones presupuestales adicionales para tales efectos.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
