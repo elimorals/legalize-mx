@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-para-los-municipios-del-estado-de-durango-51504
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-20"
-last_updated: "2021-09-26"
+last_updated: "2026-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de julio de 2006.
 
@@ -284,6 +284,20 @@ I.- DEMÉRITO DEL TERRENO:
 a).- Cuando el acceso al predio sea por medio de un callejón de uso peatonal únicamente o mediante servidumbre de paso de otro predio; el Impuesto Predial anual correspondiente por el terreno se demeritará en un quince por ciento (15%), y
 
 b).- Cuando el frente del predio esté ubicado en una calle que permita el paso de un solo vehículo no teniendo otra entrada, el Impuesto Predial correspondiente del terreno, se demeritará en un diez por ciento (10%).
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+Artículo 25 bis.- Las personas físicas que sean sujetas al pago de este impuesto y que se encuentren inscritos en el Padrón de Cosechadores de Agua de Lluvia del Estado, tendrán derecho a:
+
+I. Un descuento de hasta un 15% sobre el pago de este impuesto;
+
+II. Dicho descuento será aplicable siempre que se genere por el inmueble que efectivamente usen como casa habitación y donde se haya instalado el mecanismo de captación de agua de lluvia.
+
+III. El descuento no podrá ser acumulativo para aquellas personas que ya cuenten con algún o algunos de los beneficios por parte del Ayuntamiento.
+
+Este estímulo deberá hacerse efectivo a partir del ejercicio fiscal siguiente de que se registren en el Padrón de Cosechadores de Agua de Lluvia del Estado.
+
+El porcentaje a que se refiere el presente articulo deberá especificarse en las reglas de operación emitidas por la Comisión de Agua del Estado de Durango.
 
 ###### Artículo 26.
 
@@ -1395,17 +1409,21 @@ Artículo 166 quater. Se entiende por Servicio de Alumbrado Público, la ilumina
 
 La prestación de este servicio comprende la seguridad pública que se brinda al patrimonio mínimo indispensable de subsistencia y aquellos lucrativos con la iluminación, así como la planeación estratégica, la instalación de arbotantes, la realización de las obras de instalación, ejecución, operación y mantenimiento del sistema de alumbrado, así como la aplicación de políticas para la ampliación del servicio cuando las necesidades de la comunidad lo requieran.
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
-Artículo 166 quinquies. La tarifa mensual correspondiente al derecho público de iluminación, será la obtenida como resultado de dividir el costo anual global general actualizado erogado por el Municipio en la prestación de este servicio, entre el número de usuarios registrados en la Comisión Federal de Electricidad.
+Artículo 166 quinquies. Las bases para el cálculo de este derecho será la que se establezca en la Ley de Ingresos de cada municipio, observando el principio de proporcionalidad tributaria, es decir que exista congruencia en cuanto a la cuantificación de personas físicas y morales usuarias del servicio, y el costo total anualizado, con sus actualizaciones, que eroga el municipio por la prestación de tal servicio.
 
-El derecho por servicio público de Iluminación casusará en forma mensual y se pagará mediante los recibos que para tal efecto emita la Comisión Federal de Electricidad, conforme a las tarifas que establezca cada municipio en su Ley de Ingresos.
+La tarifa mensual correspondiente al derecho público de iluminación, será la obtenida como resultado de dividir el costo anual global general actualizado erogado por el Municipio en la prestación de este servicio, entre el número de usuarios registrados en la empresa u organismo suministrador de energía eléctrica de las redes de alumbrado público de los Municipios.
 
-Para efectos del cobro de este derecho, los ayuntamientos podrán celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el municipio. En estos casos, se deberá incluir el importe de este derecho, en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar junto con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
+El derecho por servicio público de iluminación causará en forma mensual y se pagará mediante los recibos que para tal efecto emita la empresa u organismo suministrador de energía eléctrica, conforme a las tarifas que establezca cada municipio en su Ley de Ingresos.
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+Para efectos del cobro de este derecho, los ayuntamientos podrán celebrar convenios con la empresa u organismo suministrador de energía eléctrica en el municipio. En estos casos, se deberá incluir el importe de este derecho, en el documento que para tal efecto expida la empresa u organismo suministrador de energía eléctrica, debiéndose pagar junto con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
 
-Artículo 166 sexies. En caso de que existan predios rústicos o urbanos que no estén registrados en la Comisión Federal de Electricidad, éstos pagarán las tarifas que establezcan los municipios en sus leyes de Ingresos, mismas que serán integradas y, debidamente diferenciadas, en el estado de cuenta por concepto de impuesto predial que para tal efecto emite la Tesorería Municipal y, se deberá efectuar el pago de forma anual, independientemente de que para tal efecto se tomen como base las tarifas mensuales correspondientes.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+Artículo 166 sexies. El derecho de alumbrado público se causará mensualmente. Salvo convenio celebrado con la empresa u organismo suministrador de energía eléctrica.
+
+El pago se hará dentro de los primeros 10 días siguientes al mes en que la empresa u organismo suministrador de energía eléctrica emita el recibo de pago y se realizará a través de la empresa u organismo suministrador de energía eléctrica.
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1774,3 +1792,25 @@ SEGUNDO. Los municipios del Estado de Durango, en un término de quince días a 
 TERCERO. Los municipios del Estado de Durango, a fin de establecer las cuotas del servicio de alumbrado público entre los usuarios, deberá solicitar a la Comisión Federal de Electricidad, el padrón de usuarios, y la Comisión, a su vez deberá proporcionarlo a los municipios.
 
 CUARTO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 399 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2027 y será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Los Ayuntamientos, deberán elaborar sus iniciativas de Leyes de Ingresos para el ejercicio fiscal 2027, de conformidad con el presente decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 425 POR EL QUE SE ADICIONA UN ARTÍCULO 25 BIS A LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO".]
+
+Primero. El presente decreto entrará en vigor el 1 de enero de 2027, el cual será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo. El Ejecutivo del Estado, a través de la Secretaría de Recursos Naturales y Medio Ambiente, deberá emitir las reglas de operación en materia de captación de agua de lluvia que refiere la Ley de Agua para el Estado de Durango. Dichas reglas de operación deberán ser revisadas anualmente por la Secretaría de Recursos Naturales y Medio Ambiente, con el fin de que esté constantemente actualizada en favor de la población de los municipios del Estado de Durango, de los recursos naturales con los que cuente el Estado, y de la eficiente operación del presente estímulo. De igual forma, los organismos operadores de agua de los ayuntamientos deberán supervisar a los sujetos de este beneficio, a fin de informar a la Comisión de Agua del Estado de Durango lo siguiente: 1) los volúmenes de captación de agua de lluvia realizados por los sujetos de este beneficio y, 2) que los sujetos beneficiarios se encuentran vigentes en el Padrón de Cosechadores de Agua de Lluvia del Estado, en los términos señalados por las reglas de operación que se mencionan en el presente artículo.
+
+Tercero. Para la aplicación del contenido en el presente decreto, se estará a lo dispuesto en el Padrón de Cosechadores de Agua de Lluvia del Estado, de conformidad con la política en materia de captación de agua de lluvia que establezca el Ejecutivo, en términos de (sic) Ley de Agua para el Estado de Durango.
+
+Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
