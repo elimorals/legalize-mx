@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2026-04-26"
+last_updated: "2026-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2026.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -149,47 +149,51 @@ XVIII. Informe de Adoptabilidad: El documento expedido por el Sistema Estatal DI
 
 XIX. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
-XX. Órgano Jurisdiccional: Los juzgados o tribunales federales o del Estado;
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XX. Orfandad: Situación en la que una niña, niño o adolescente ha perdido a uno o ambos cuidadores principales, o cuando estos se encuentren imposibilitados para ejercer el cuidado y la protección debido a causas como fallecimiento, enfermedad grave, accidente, ausencia prolongada, reclusión, abandono, migración, desaparición o cualquier otra circunstancia que impida el ejercicio efectivo de las funciones parentales.
+
+XXI. Órgano Jurisdiccional: Los juzgados o tribunales federales o del Estado;
 
 > <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2022)</small>
 
-XXI. Primera Infancia: Periodo que comprende desde el nacimiento hasta los 6 años de edad, es un momento primordial para el crecimiento cognitivo físico y emocional de las personas;
+XXII. Primera Infancia: Periodo que comprende desde el nacimiento hasta los 6 años de edad, es un momento primordial para el crecimiento cognitivo físico y emocional de las personas;
 
-XXII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango;
+XXIII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango;
 
-XXIII. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes de cada Municipio;
+XXIV. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes de cada Municipio;
 
-XXIV. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Durango y los tratados internacionales de los que el Estado Mexicano forma parte;
+XXV. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Durango y los tratados internacionales de los que el Estado Mexicano forma parte;
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
 
-XXV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que, de manera oficiosa, quedará a cargo de las Procuradurías de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXVI. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que, de manera oficiosa, quedará a cargo de las Procuradurías de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXVI. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en la legislación aplicable;
+XXVII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en la legislación aplicable;
 
-XXVII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXVIII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
 > <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
 
-XXVIII. Secretaría Ejecutiva: Secretaría Ejecutiva del Sistema Local de Protección Integral de Niñas Niños y Adolescentes del Estado de Durango;
+XXIX. Secretaría Ejecutiva: Secretaría Ejecutiva del Sistema Local de Protección Integral de Niñas Niños y Adolescentes del Estado de Durango;
 
-XXIX. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Durango;
+XXX. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Durango;
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
 
-XXX. Sistema Local de Protección: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango;
+XXXI. Sistema Local de Protección: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2022)</small>
 
-XXXI. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Durango;
+XXXII. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Durango;
 
 > <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XXXII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia; y
+XXXIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia; y
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
 
-XXXIII. Violencia contra niñas, niños y adolescentes: Toda forma de perjuicio o abuso físico o mental, descuido o trato negligente, malos tratos o explotación, incluido el abuso sexual.
+XXXIV. Violencia contra niñas, niños y adolescentes: Toda forma de perjuicio o abuso físico o mental, descuido o trato negligente, malos tratos o explotación, incluido el abuso sexual.
 
 ###### Artículo 6.
 
@@ -359,7 +363,9 @@ IV. Preservar su identidad, incluidos el nombre, la nacionalidad y su pertenenci
 
 Las autoridades, en el ámbito de sus respectivas competencias, deberán colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
 
-La Procuraduría de Protección, en el ámbito de su respectiva competencia, orientará a las autoridades que correspondan para que den debido cumplimiento al presente artículo.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+La Procuraduría de Protección, en el ámbito de su respectiva competencia, orientará a las autoridades que correspondan para que den debido cumplimiento al presente artículo. Asimismo, coadyuvará con el Registro Civil del Estado y las autoridades competentes para garantizar el derecho a la identidad de las niñas y niños que nazcan y permanezcan con sus madres en los Centros de Reinserción Social.
 
 Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
@@ -549,9 +555,9 @@ Cuando se detecten embarazos en niñas y adolescentes menores de 18 años, los s
 
 En caso de que, derivado de dicha valoración, existan indicios de la posible comisión de un delito, la Procuraduría de Protección dará vista al Ministerio Público, garantizando en todo momento la no revictimización, el derecho a ser escuchada y el acceso continuo a servicios de salud, acompañamiento psicosocial y protección integral.
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2026)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
-Así mismo, tienen derecho a que se respete su integridad corporal y a no ser sometidos a procedimientos médicos quirúrgicos con fines meramente estéticos que modifiquen su cuerpo o comprometan su salud física y emocional.
+Así mismo, tienen derecho a que se respete su integridad corporal y a no ser sometidos a procedimientos médicos quirúrgicos o no quirúrgicos con fines meramente estéticos, que modifiquen su cuerpo o comprometan su salud física y emocional, de conformidad con los articulo (sic) 177 quinquies y 177 sexties de la Ley de Salud del Estado de Durango.
 
 ###### Artículo 32.
 
@@ -631,17 +637,25 @@ XIV. Establecer medidas para la detección temprana de discapacidades a efecto d
 
 XV. Establecer programas, acciones y medidas especiales para el cuidado de la salud de niñas, niños y adolescentes en situación de orfandad derivada de la comisión (sic) algún delito o la violencia generalizada o de cualquier otra índole;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE JUNIO DE 2026)</small>
 
-XVI. Fomentar acciones y programas para difundir entre la ciudadanía los perjuicios dañinos de la exposición de las niñas y niños al humo de segunda mano derivado del consumo de tabaco, y
+XVI. Fomentar acciones y programas para difundir entre la ciudadanía los perjuicios dañinos de la exposición de las niñas y niños al humo de segunda mano derivado del consumo de tabaco;
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-XVII. Prohibir la realización de cirugías estéticas en personas menores de dieciocho años de edad, exceptuando aquellos casos en los que la cirugía sea reconstructiva y esta se encuentre debidamente justificada por el dictamen médico especializado.
+XVII. Prohibir la realización de cirugías estéticas en personas menores de dieciocho años de edad, exceptuando aquellos casos en los que la cirugía sea reconstructiva y esta se encuentre debidamente justificada por el dictamen médico especializado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE JUNIO DE 2026)</small>
+
+XVIII. Emitir y ejecutar las acciones de tamizaje neonatal con la finalidad de detectar y diagnosticar enfermedades y padecimientos para su atención médica temprana, con el objetivo de fomentar la intervención médica oportuna. Estas acciones deberán ser revisados y actualizados (sic) cada 5 años.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2023)</small>
 
 En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, conforme al artículo 48 de la presente Ley, así como el derecho a la información de quienes detenten la patria potestad, tutela o guarda y custodia o la de sus familiares sobrevivientes en su caso de niños niñas y adolescentes en relación a su estado de su salud, para cumplir con su obligación constitucional de proteger y exigir el cumplimiento del derecho a la salud de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+Asimismo, dichas autoridades garantizarán que todos los sectores de la sociedad Duranguense tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, la práctica del tamizaje neonatal, así como, la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2024)</small>
 
@@ -661,9 +675,11 @@ II. Atención psicológica, y tratamiento a niñas, niños y adolescentes que su
 
 III. La promoción de la salud integral para la prevención de cualquier tipo de violencia en niñas, niños y adolescentes.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
+
 ###### Artículo 34.
 
-Las autoridades, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social, así como desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida.
+Las autoridades, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social, así como desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida, entre otros, mediante estrategias de prevención, diagnóstico y atención temprana y oportuna.
 
 ### Capítulo Décimo. Del Derecho a la Inclusión de Niñas, Niños y Adolescentes con Discapacidad
 
@@ -795,13 +811,17 @@ XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de n
 
 XXII. Diseñar una calendarización y planeación específica, estructurada en coordinación con los padres de familia, o con quienes ejerzan la patria potestad, tutela o guarda y custodia de las niñas, niños y adolescentes estudiantes, con el objetivo de garantizar la participación directa y permanente de éstos en la educación, ello a través de escuelas para padres, reuniones informativas u otro tipo de actividades que fortalezcan su corresponsabilidad formativa y educativa con las instituciones de enseñanza;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-XXIII. Formular y fomentar las condiciones requeridas para el uso responsable y saludable del traslado de útiles y materiales escolares, de manera que se evite la sobrecarga o el peso excesivo de la mochila de los estudiantes; y
+XXIII. Formular y fomentar las condiciones requeridas para el uso responsable y saludable del traslado de útiles y materiales escolares, de manera que se evite la sobrecarga o el peso excesivo de la mochila de los estudiantes;
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-XXIV. Proporcionar los elementos básicos de protección civil tales como señalización de seguridad, capacitación y simulacros, un programa, interno de protección civil, con la finalidad de brindar seguridad y capacidad de respuesta ante la eventualidad de alguna emergencia o desastre tanto a docentes como a Niñas, Niños y Adolescentes.
+XXIV. Proporcionar los elementos básicos de protección civil tales como señalización de seguridad, capacitación y simulacros, un programa, interno de protección civil, con la finalidad de brindar seguridad y capacidad de respuesta ante la eventualidad de alguna emergencia o desastre tanto a docentes como a Niñas, Niños y Adolescentes, y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XXV. Fomentar hábitos de alimentación saludable y el entendimiento de la información contenida en el etiquetado frontal de alimentos y bebidas, conforme a la normativa aplicable.
 
 ###### Artículo 38.
 
@@ -1330,6 +1350,10 @@ XIII. Evitar promover e inculcar expresiones, posturas, códigos de vestimenta, 
 > <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
 XIV. Evitar facilitar o brindar juguetes, ropa, accesorios o cualquier otro objeto, cuyo uso exalte la imagen corporal de forma sexualizada de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2026)</small>
+
+XV. Procurar que las niñas, niños y adolescentes bajo su cuidado comprendan la información contenida en el etiquetado frontal de alimentos y bebidas, a fin de fomentar hábitos de alimentación saludable.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2021)</small>
 
@@ -2622,3 +2646,47 @@ P.O. 26 DE ABRIL DE 2026.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 411 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, EN MATERIA DE PROTECCIÓN DE DERECHOS DE INFANTES QUE CONVIVEN CON SU MADRE DENTRO DE LOS CENTROS DE REINSERCIÓN SOCIAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 412 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE SITUACIÓN DE ORFANDAD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 413 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, EN MATERIA DE EDUCACIÓN PARA LA SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 414 POR EL QUE SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO EN MATERIA DE PROCEDIMIENTOS ESTÉTICOS”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 415 POR EL QUE SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO EN ESPECÍFICO SU ARTÍCULO 33 ADICIONA UNA FRACCIÓN XVII Y DOS ÚLTIMOS PÁRRAFOS Y EL PÁRRAFO ÚNICO DEL ARTÍCULO 34 DEL MISMO ORDENAMIENTO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor una vez transcurridos 90 días naturales al día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud del Estado de Durango, realizará las adecuaciones conducentes dentro de los 90 días posteriores a la entrada en vigor del presente decreto, a fin de emitir las acciones de tamizaje neonatal a que se refieren (sic) el artículo 33 fracción XVIII de la presente Ley.
