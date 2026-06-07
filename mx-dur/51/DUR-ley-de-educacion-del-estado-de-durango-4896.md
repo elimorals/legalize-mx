@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2026-04-02"
+last_updated: "2026-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -303,9 +303,15 @@ XXX.- La prevención del suicidio, y
 
 XXXI.- Promover y fomentar los valores y principios del sector de la economía social con la finalidad de propiciar relaciones de reciprocidad, solidaridad y cooperación, privilegiando al ser humano y el trabajo digno.
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2026)</small>
 
-XXXII.- Promover, de manera permanente, el uso correcto de la lengua española en sus modalidades oral y escrita, fomentando la buena redacción, el uso de las reglas gramaticales y ortográficas, así como la comprensión lectora y expresión verbal, como parte de la formación integral del alumnado y del fortalecimiento de la cultura lingüística nacional de origen histórico.
+XXXII.- Promover, de manera permanente, el uso correcto, claro, preciso y normativamente adecuado de la lengua española en sus modalidades oral y escrita, atendiendo a las reglas gramaticales, ortográficas, sintácticas y semánticas generalmente aceptadas, a efecto de garantizar la adecuada comunicación, interpretación y transmisión del conocimiento.
+
+Para el cumplimiento de lo anterior, las autoridades educativas deberán implementar políticas, programas y acciones orientadas al fortalecimiento de las competencias comunicativas del alumnado, privilegiando la coherencia discursiva, la estructura lógica del lenguaje, la comprensión lectora y la expresión oral y escrita con apego a criterios lingüísticos reconocidos por instancias normativas.
+
+Asimismo, se procurará que los contenidos educativos, materiales didácticos y documentos oficiales del sistema educativo estatal se elaboren conforme a dichos criterios, observando en todo momento los principios de certeza, claridad y seguridad jurídica en el uso del lenguaje, sin perjuicio del respeto a la diversidad lingüística y cultural reconocida en la Constitución y en las leyes aplicables.
+
+Queda prohibido el uso de formas lingüísticas que contravengan las reglas gramaticales del idioma español en la elaboración de documentos oficiales, materiales educativos y comunicaciones institucionales del sistema educativo estatal, debiendo privilegiarse en todo momento el uso de estructuras lingüísticas normativas, claras y precisas, a efecto de evitar ambigüedades en la interpretación y aplicación de los contenidos educativos y disposiciones jurídicas.
 
 > <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
@@ -328,6 +334,16 @@ III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que ap
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
 
 IV.- Será de calidad, entendiéndose por ésta la congruencia entre los objetivos, resultados y procesos del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad de manera que permita al educando su plena inclusión y participación en la sociedad, el desarrollo de una actividad productiva y que permita al trabajador estudiar.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+###### ARTICULO 9 Ter.
+
+Las estudiantes inscritas en las instituciones educativas de los diferentes tipos, niveles, modalidades y opciones del Sistema Educativo del Estado de Durango tendrán los siguientes derechos:
+
+I. Contar con facilidades para la continuidad y conclusión de estudios en caso de embarazo y durante el periodo de lactancia; y
+
+II. Gozar de un permiso académico por menstruación dolorosa o incapacitante, debidamente acreditado conforme a los lineamientos que emita la autoridad educativa, sin que ello afecte su historial académico, evaluaciones, asistencia o permanencia escolar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
@@ -2109,6 +2125,20 @@ IV.- En materia de deporte adaptado, fomentar desde la educación básica la act
 
 Asimismo, establecer la vinculación entre los maestros de educación física y de educación especial, para un trabajo coordinado dentro de las escuelas de educación básica, a través de las Unidades de Servicios de Apoyo a la Educación Regular (USAER) y los Centros de Atención Múltiple (CAM) de la Secretaria.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+ARTICULO 137 BIS.- Las autoridades educativas, en el ámbito de sus competencias, deberán promover la implementación de prácticas de actividad física y deportiva bajo un enfoque de fotorresponsabilidad en las instituciones de educación básica.
+
+Para tal efecto, deberán:
+
+I. Establecer lineamientos para que las actividades físicas, deportivas y recreativas al aire libre se realicen preferentemente en horarios que no representan riesgos por alta exposición a la radiación ultravioleta;
+
+II. Fomentar el uso de medidas de protección solar adecuadas durante la práctica deportiva;
+
+III. Promover la concientización en la comunidad escolar sobre los riesgos asociados a la exposición prolongada a la radiación solar; y,
+
+IV. Implementar acciones que contribuyan a la protección de la salud de las y los estudiantes durante la realización de actividades físicas.
+
 #### Sección 12. De la Educación para Adultos
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
@@ -2709,37 +2739,37 @@ e) Impulsar el cumplimiento responsable de las obligaciones alimentarias y de pr
 
 #### Sección 2. De las Asociaciones de Padres de Familia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 172.
 
-Las asociaciones de padres de familia tendrán por objeto:
+Las asociaciones de madres y padres de familia son las agrupaciones conformadas por las madres, padres y/o tutores o tutoras de los educandos de cada centro educativo, reconocidas por la Secretaría de Educación del Estado de Durango, cuyo objeto será representar ante las autoridades escolares los intereses educativos comunes de los educandos, colaborar con la comunidad escolar, contribuir a la mejora de los servicios educativos, promover la corresponsabilidad social y coadyuvar al fortalecimiento de la infraestructura y del entorno escolar.
 
-I.- Representar ante las autoridades escolares, los intereses que en materia educativa sean comunes a los asociados;
+Las asociaciones de madres y padres de familia ejercerán sus atribuciones conforme al Reglamento que expida el Poder Ejecutivo del Estado, en concordancia con lo dispuesto en la Ley General de Educación y demás disposiciones aplicables, el cual tendrá por objeto regular su organización, integración, funcionamiento, participación y registro, y se regirán por los siguientes principios:
 
-II.- Colaborar para una mejor integración de la comunidad escolar;
+Independencia: Las decisiones de las asociaciones serán adoptadas libremente por las madres, padres o tutores que las integran, sin injerencias indebidas del personal del centro educativo y en atención al interés superior de niñas, niños y adolescentes. El reglamento establecerá mecanismos para prevenir posibles conflictos de interés en los órganos de dirección.
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
+Pluralidad: Se promoverá la inclusión de todas las madres, padres o tutores de los educandos, garantizando condiciones de igualdad en el ejercicio de voz y voto en los procesos deliberativos y de toma de decisiones.
 
-III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que, en su caso, hagan las propias asociaciones al establecimiento escolar. Estas cooperaciones serán de carácter voluntario y, según lo dispuesto por el Artículo 6 de la Ley General de Educación, en ningún caso se entenderán como contraprestaciones del servicio educativo;
+Autonomía: Las asociaciones definirán su organización interna y el destino de los recursos que se integren mediante aportaciones voluntarias o donaciones destinadas al fortalecimiento de las actividades educativas, conforme a los mecanismos de transparencia y rendición de cuentas que establezca el reglamento.
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
+Participación: Los órganos de representación serán electos mediante procesos abiertos, transparentes y periódicos que aseguren la participación efectiva de las madres, padres o tutores.
 
-IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores; e
+Colaboración: Las asociaciones fomentarán la coordinación con las autoridades educativas y la comunidad escolar para contribuir al desarrollo integral de las y los estudiantes, respetando la autonomía de sus decisiones internas.
 
-V.- Informar a las autoridades educativas y escolares, sobre cualquier irregularidad de que sean objeto los educandos;
+Cooperación: Las asociaciones de madres y padres de familia propiciarán y fortalecerán la participación social en la educación, representando los intereses de los educandos en materia educativa.
+
+El Reglamento establecerá los mecanismos para garantizar el cumplimiento de estos principios, así como las responsabilidades, límites de actuación, mecanismos de transparencia y rendición de cuentas, y los lineamientos para la elaboración y seguimiento del plan anual de mejora continua de las asociaciones.
 
 ###### ARTICULO 173.
 
 Las Asociaciones de Padres de Familia se abstendrán de intervenir en los aspectos pedagógicos y laborales de las instituciones educativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 174.
 
-La organización y funcionamiento de las asociaciones de padres de familia, en lo concerniente a sus relaciones con las autoridades escolares, se sujetarán a las disposiciones que emita la autoridad educativa federal.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+Además de lo previsto en el (sic) presente Ley, las asociaciones de madres y padres de familia colaborarán para una mejor integración de la comunidad escolar, propondrán las medidas que estimen conducentes para alcanzar los objetivos señalados en esta sección y deberán informar a las autoridades educativas y escolares, sobre cualquier irregularidad de que sean objeto los educandos.
 
 #### Sección 3. De los Consejos de Participación Social
 
@@ -2813,15 +2843,65 @@ ARTICULO 176 BIS.- En la planeación de los programas y proyectos para la constr
 
 La Secretaría establecerá acciones prioritarias para la construcción, en escuelas públicas estatales, de la infraestructura física a la que se refiere el presente artículo, en regiones o zonas donde se detecten grupos en situación de vulnerabilidad.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 7 DE JUNIO DE 2026)</small>
+
+#### Sección 4. DE LAS ASOCIACIONES Y MESAS DIRECTIVAS DE PADRES DE FAMILIA
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+ARTICULO 176 TER.- Las asociaciones deberán constituirse mediante asamblea y elegir a su mesa directiva por voto libre y secreto.
+
+La mesa directiva de cada asociación estará integrada por una presidencia, una tesorería, una secretaría y dos vocalías, además de una representación de cada grupo escolar del centro educativo, debiendo cada integrante firmar la responsiva del cargo conforme a la responsabilidad asumida.
+
+La duración de la mesa directiva será de un año, con posibilidad de reelección por una sola ocasión para el mismo cargo, con excepción de los cargos do presidencia y tesorería, cuyos titulares no podrán ser reelectos para el periodo inmediato siguiente en el mismo cargo. Su renovación, reelección o remoción deberá sujetarse a un procedimiento público, transparente y periódico, y al término de su encargo deberán realizar entrega-recepción documentada respecto de las gestiones efectuadas y de la administración de los recursos que, en su caso, hayan tenido a su disposición.
+
+La mesa directiva de cada centro educativo deberá inscribirse en el Registro Estatal de Asociaciones de Padres de Familia de la Secretaría de Educación del Estado de Durango, acompañando los datos de sus integrantes, sus funciones, así como la información del centro educativo correspondiente y de sus autoridades.
+
+Las mesas directivas se regirán por los principios señalados en el artículo 172 además de los de transparencia, rendición de cuentas, voluntariedad, legalidad y supervisión social.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+ARTICULO 176 QUÁTER.- Las asociaciones podrán participar mediante aportaciones voluntarias en numerario, trabajo o especie para el centro educativo, en coadyuvancia con el bienestar del alumnado, sin que dichas aportaciones se entiendan como contraprestación del servicio educativo, conforme a lo establecido en la fracción IV del artículo 7 de la Ley General de Educación.
+
+Asimismo, podrán conocer, proponer y participar en las acciones educativas y de prevención que realicen las autoridades para que los educandos conozcan y detecten acciones u omisiones que representen acoso escolar o la posible comisión de hechos delictivos que les puedan perjudicar.
+
+Podrán también proponer y ejecutar medidas para alcanzar los objetivos anteriores e informar a las autoridades sobre circunstancias que afecten el adecuado desarrollo del alumnado.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+ARTICULO 176 QUINQUIES.- En caso de que existan aportaciones en numerario, éstas deberán estar debidamente registradas y sólo podrán destinarse a la mejora de las condiciones educativas de los educandos. Quienes realicen aportaciones podrán solicitar en cualquier tiempo la revisión del manejo y administración de las mismas.
+
+La administración y destino de los recursos deberán registrarse de manera que permita identificar ingresos y egresos, en el medio más óptimo conforme a las circunstancias, ya sea físico o electrónico.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+ARTICULO 176 SEXIES.- Toda asociación deberá presentar un informe financiero trimestral ante la autoridad educativa correspondiente y publicarlo en un lugar visible dentro de la escuela. La Secretaría establecerá el formato único del informe y los mecanismos de verificación.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+ARTICULO 176 SEPTIES.- Los recursos recaudados sólo podrán destinarse a actividades directamente relacionadas con la mejora de las condiciones escolares, previa autorización del Consejo Escolar de Participación Social.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+ARTICULO 176 OCTIES.- Queda estrictamente prohibido el uso de los recursos con fines personales, políticos o electorales. La Secretaría podrá suspender el registro de la asociación que incurra en estas prácticas y promover las sanciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 176 NONIES.- La Secretaría de Educación creará y mantendrá actualizado el Registro Estatal de Asociaciones de Padres de Familia, que contendrá información básica, informes financieros y la vigencia de las mesas directivas.
+
+La revisión de actividades y de administración de recursos se realizará por lo menos cada seis meses, por lo que la mesa directiva deberá informar a los integrantes de la asociación sobre su gestión, bajo el principio de máxima transparencia y rendición de cuentas.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2026)</small>
+
+ARTICULO 176 DECIES.- Las autoridades educativas deberán promover la capacitación de las asociaciones en materia de transparencia, administración básica y contraloría social.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2014)</small>
+
+### CAPÍTULO DÉCIMO TERCERO. DE LAS INFRACCIONES Y LAS SANCIONES
 
 #### Sección 1. De las Infracciones y las Sanciones
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
-
-### CAPÍTULO DÉCIMO TERCERO. DE LAS INFRACCIONES Y LAS SANCIONES
-
-#### Sección 2. Del Recurso Administrativo
 
 ###### ARTICULO 177.
 
@@ -2936,6 +3016,8 @@ En los supuestos previstos en este Artículo, además de la aplicación de las s
 Para la imposición de sanciones a que se refieren los artículos anteriores, la autoridad educativa competente observará el procedimiento y los parámetros establecidos (sic) la Ley General de Educación, la Ley General del Servicio Profesional Docente, esta Ley, el Reglamento Interior de la Secretaría y demás disposiciones aplicables.
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2006)</small>
+
+#### Sección 2. Del Recurso Administrativo
 
 ###### ARTICULO 181.
 
@@ -3556,3 +3638,49 @@ P.O. 2 DE ABRIL DE 2026.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 430 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PÚBLICA DEL ESTADO DE DURANGO, EN MATERIA DE ASOCIACIONES DE MADRES Y PADRES DE FAMILIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. La Secretaría de Educación del Estado de Durango deberá emitir, dentro de un plazo no mayor a noventa días naturales contados a partir da la entrada en vigor del presente Decreto, los Lineamientos para la Integración, Operación, Registro y Rendición de Cuentas de las Asociaciones y Mesas Directivas de Padres de Familia, los cuales deberán incluir:
+
+I. El formato único de registro de asociaciones;
+
+II. El procedimiento de elección democrática de mesas directivas;
+
+III. Los mecanismos de control financiero y rendición pública de cuentas; y
+
+IV. Las medidas preventivas y sancionatorias por incumplimiento.
+
+TECERO (SIC). Las asociaciones y mesas directivas actualmente constituidas contarán con un plazo de ciento ochenta días naturales para adecuar su funcionamiento a lo dispuesto en la presente Ley y registrarse ante la Secretaría de Educación del Estado, conforme a los lineamientos que para tal efecto se emitan.
+
+CUARTO. La Secretaría de Educación del Estado de Durango, deberá coordinarse con los Consejos Escolares de Participación Social y las autoridades municipales para fomentar programas de capacitación en materia de transparencia, administración de recursos y contraloría social, dirigidos a las asociaciones de padres de familia.
+
+QUINTO. El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas y de la Secretaría de Educación, realizará las adecuaciones administrativas y presupuestales necesarias para el cumplimiento de la presente reforma, sin afectar los recursos ordinarios destinados al sistema educativo estatal.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 431 POR EL QUE SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, EN MATERIA DE USO NORMATIVO DE LENGUAJE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. La Secretaría de Educación del Estado de Durango deberá emitir los lineamientos correspondientes en un plazo no mayor a 120 días naturales.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 432 POR EL QUE SE ADICIONA EL ARTÍCULO 9 TER A LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, EN MATERIA DE LICENCIA MENSTRUAL ESCOLAR".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo para su conocimiento y debida publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 7 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 433 QUE CONTIENE LA ADICIÓN DEL ARTÍCULO 137 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, EN MATERIA DE ACTIVIDAD FÍSICA FOTO RESPONSABLE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
