@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2026-05-26"
+last_updated: "2026-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -101,7 +101,9 @@ Artículo 2º bis.- El ejercicio y desarrollo del derecho a la cultura física y
 
 I. La cultura física y la práctica del deporte son un derecho fundamental para todos;
 
-II. La cultura física y la práctica del deporte constituyen un elemento esencial de la educación;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2026)</small>
+
+II. La cultura física y la práctica del deporte constituyen un elemento esencial de la educación, y para ello, las niñas, niños y adolescentes serán considerados sujetos prioritarios en el ejercicio de este derecho, debiéndose garantizar condiciones de equidad, inclusión, protección y participación en todas las actividades, programas, instalaciones y políticas públicas relacionadas con el deporte y la cultura física;
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
@@ -279,13 +281,11 @@ La función educativa del deporte debe implicar además de la enseñanza de téc
 
 El Gobierno del Estado y los Municipios en el ámbito de sus respectivas competencias promoverán el adecuado ejercicio del derecho de todos los aguascalentenses a la cultura física y la práctica del deporte.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2026)</small>
 
 ###### Artículo 6°.
 
-Toda persona tiene derecho a la educación física, a la práctica de actividades físicas y a desarrollarse en el deporte de su preferencia, sin más limitaciones que las derivadas de sus aptitudes deportivas y capacidades físicas.
-
-Corresponde al Gobierno del Estado y los Ayuntamientos en el ámbito de sus respectivas competencias su promoción, fomento y estímulo conforme a las leyes en la materia, para el enaltecimiento cultural y social de sus habitantes y como herramienta para promover, mejorar y resguardar la salud de la población, favoreciendo su pleno desarrollo físico y mental como instrumento de combate al sedentarismo, la deserción escolar, el ausentismo laboral, los accidentes de trabajo, las adicciones, la violencia social y la comisión de delitos.
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Gobierno del Estado y los Ayuntamientos en el ámbito de sus respectivas competencias su promoción, fomento y estímulo conforme a las leyes en la materia, reconociendo a niñas, niños y adolescentes como grupo de atención prioritaria para la práctica deportiva.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 2026)</small>
 
@@ -455,9 +455,9 @@ II. Convocar al SIEDE, con la participación que corresponda a las dependencias 
 
 III. Proponer, dirigir, ejecutar, evaluar y vigilar la política estatal de cultura física y deporte;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2026)</small>
 
-IV. Celebrar acuerdos, convenios, contratos y bases con las autoridades de la Federación, Entidades Federativas y Municipios a fin de promover, con la participación, en su caso, de los sectores social y privado, universidades e instituciones de educación superior, públicas o privadas, las políticas, acciones y programas tendientes al fomento, promoción, incentivo y desarrollo de la cultura física y deporte;
+IV. Celebrar acuerdos, convenios, contratos y bases con las autoridades de la Federación, Entidades Federativas y Municipios a fin de promover, con la participación, en su caso, de los sectores social y privado, instituciones de educación básica, media superior y superior, públicas o privadas, las políticas, acciones y programas tendientes al fomento, promoción, incentivo y desarrollo de la cultura física y deporte;
 
 V. Integrar el Programa Estatal de Cultura Física y Deporte;
 
@@ -2554,3 +2554,17 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- La Junta Directiva del Instituto del Deporte del Estado de Aguascalientes deberá, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones correspondientes al Estatuto Orgánico y a los manuales de organización del Instituto, a fin de incorporar los lineamientos de profesionalización y mérito a que se refiere la fracción XXXIV del artículo 19.
 
 TERCERO.- Las disposiciones contenidas en el presente Decreto no afectarán la validez de los nombramientos realizados con anterioridad a su entrada en vigor.
+
+P.O. 8 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 508.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 512.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
