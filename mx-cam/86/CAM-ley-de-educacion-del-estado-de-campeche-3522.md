@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2026-05-29"
+last_updated: "2026-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -389,9 +389,9 @@ XI.- Colaborar con la Secretaría de Educación Pública del Gobierno Federal, c
 
 XII.- Colaborar con la Secretaría de Educación Pública del Gobierno Federal, cuando así le sea solicitado, en las tareas de armonización del desarrollo educativo entre entidades federativas y el ejercicio de las funciones compensatorias que desarrollen en materia educativa a nivel nacional, de conformidad con los ordenamientos legales vigentes;
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2026)</small>
 
-XIII.- Impulsar en conjunto con la Secretaría de Salud, programas de educación sobre salud bucodental, así como la práctica de hábitos de higiene dental entre las niñas y niños de educación preescolar y primaria de la Entidad.
+XIII.- Impulsar, en conjunto con la Secretaría de Salud, programas de educación sobre salud bucodental, así como la práctica de hábitos de higiene dental entre las niñas y niños de educación preescolar, primaria y secundaria de la Entidad; así como promover, de conformidad con la disponibilidad presupuestal y los mecanismos de coordinación institucionales correspondientes, acciones preventivas, jornadas de orientación, capacitación y atención básica en materia de salud bucodental, priorizando a las comunidades rurales y zonas de atención prioritaria, con el objeto de fortalecer la cultura de prevención, detección temprana y cuidado integral de la salud de las niñas, niños y adolescentes;
 
 > <small>(ADICIONADA, P.O. 28 DE MARZO DE 2025)</small>
 
@@ -1818,3 +1818,21 @@ P.O. 29 DE MAYO DE 2026.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 8 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 239 POR EL QUE “SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Salud del Estado de Campeche, en coordinación con la Secretaría de Educación del Estado y demás autoridades competentes, realizará las acciones administrativas y de coordinación institucional necesarias para la implementación progresiva de las disposiciones previstas en el presente decreto.
+
+TERCERO.- Las acciones, programas, estrategias y mecanismos previstos en el presente decreto se sujetarán a la disponibilidad presupuestal; no obstante, el Poder Ejecutivo, por conducto de la Secretaría de Administración, Finanzas y Planeación, de la Secretaría de Salud, de la Secretaría de Educación, y demás instituciones competentes, deberán prever en el ejercicio fiscal inmediato las previsiones correspondientes para la implementación progresiva, gradual y conforme a las capacidades operativas.
+
+CUARTO.- La Secretaría de Salud del Estado, deberá emitir o adecuar, en un plazo de 180 días naturales contados a partir de la entrada en vigor del presente decreto, los lineamientos, criterios técnicos y mecanismos de coordinación necesarios para la adecuada implementación de las disposiciones contenidas en el Capítulo VIII denominado “Salud Bucodental”.
+
+QUINTO.- La Comisión Interinstitucional de Salud Bucodental a que hace referencia el artículo 72 Ter deberá instalarse dentro de un plazo de 90 días naturales posteriores a la emisión de los lineamientos, criterios técnicos, así como de las disposiciones reglamentarias conducentes.
+
+SEXTO.- Las dependencias y entidades de la Administración Pública Estatal y Municipal, en el ámbito de sus respectivas competencias, podrán celebrar convenios de coordinación y colaboración con autoridades federales, instituciones educativas, organismos públicos, sectores social y privado, así como colegios de profesionistas, para fortalecer las acciones previstas en el presente decreto.
+
+SÉPTIMO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco normativo local que se opongan al presente decreto.
