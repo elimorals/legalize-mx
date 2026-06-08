@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2026-05-22"
+last_updated: "2026-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -237,9 +237,11 @@ IX. Violencia mediática. Es todo acto a través de cualquier medio de comunicac
 
 La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2026)</small>
 
-X. Violencia Vicaria: Cualquier acto u omisión cometido por parte de quien mantenga o haya mantenido una relación afectiva o sentimental con la víctima y que tenga por objeto por sí o por interpósita persona infligir a los hijos e hijas de ésta un daño, menoscabo o sufrimiento de cualquier naturaleza con el propósito de causarle una afectación o daño físico, psicológico, emocional, patrimonial o de cualquier otra índole a la víctima;
+X. Violencia Vicaria: Cualquier acción u omisión realizada por quien tenga o haya tenido una relación afectiva, de pareja o vínculo familiar con la víctima, y que tenga por objeto, por sí o a través de tercera persona, infligir a las hijas, hijos o a otras personas con vínculo afectivo cercano a ésta, un daño, menoscabo o sufrimiento de cualquier naturaleza, con el propósito de ejercer control, coerción o provocarle una afectación o daño físico, psicológico, emocional, patrimonial o de cualquier otra índole a la víctima, manifestándose a través de las conductas previstas en las disposiciones aplicables de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+La interpretación y aplicación de esta disposición deberá realizarse con respeto al interés superior de la niñez, al debido proceso, al principio de presunción de inocencia y al ejercicio legítimo de los derechos parentales reconocidos en la legislación civil y familiar aplicable;
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2026)</small>
 
@@ -1494,3 +1496,13 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las autoridades de la Administración Pública del Estado y los HH. Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las previsiones presupuestarias de manera progresiva para el adecuado cumplimiento del presente decreto.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 8 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 238 POR EL QUE "SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
