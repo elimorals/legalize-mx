@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-movilidad-y-seguridad-vial-del-estado-de-campeche-167283
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-28"
-last_updated: "2026-05-28"
+last_updated: "2026-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 28 de julio de 2023.
 
@@ -1427,6 +1427,10 @@ El Estado, a través de la Secretaría de Protección y Seguridad Ciudadana de l
 
 En el padrón del Registro se recabarán los datos necesarios para determinar la propiedad, características y situación jurídica de los vehículos automotores terrestres registrados en la Entidad. En él se inscribirá todo acto, o contrato providencia judicial, administrativa o arbitral, adjudicación, modificación, limitación, gravamen, medida cautelar, traslación o extinción del dominio u otro derecho real, principal o accesorio sobre vehículos automotores terrestres para que surtan efectos ante las autoridades y ante terceros.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+Para el caso de vehículos personales eléctricos, específicamente bicicletas, monopatines, y otros vehículos sin motor de combustión interna, cuya velocidad máxima no supere veinticinco kilómetros por hora y peso menor a treinta y cinco kilogramos, no aplica el registro de vehículos, salvo que la persona usuaria del vehículo necesite registrarlo por motivo de robo o extravío.
+
 ###### Artículo 102.
 
 Las características, el montaje, la operación y actualización de la información que conforme el Registro serán determinadas por la Secretaría de Protección y Seguridad Ciudadana. Su sostenibilidad deberá estar garantizada únicamente con el cobro de tarifas que serán fijadas por la autoridad correspondiente para el Ingreso de datos y la expedición de certificados de información.
@@ -1488,6 +1492,10 @@ Las autoridades correspondientes determinarán las acciones necesarias para mejo
 Asimismo, establecerán los lineamientos para regular el estacionamiento de vehículos en la vía pública y definir políticas de estacionamiento fuera de la vía pública de acuerdo con el uso de suelo autorizado y las disposiciones aplicables en materia de construcción y funcionamiento.
 
 También, se impulsará la red integral de estacionamientos para bicicletas y motocicletas en edificios, espacios públicos y áreas de transferencia para el transporte.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+De igual manera, las autoridades competentes deberán establecer acciones y medidas orientadas a regular el uso seguro de los vehículos de movilidad personal eléctricos, promoviendo el uso de equipo de protección, el respeto a las normas de tránsito y la prevención de accidentes.
 
 ###### Artículo 112.
 
@@ -1704,6 +1712,18 @@ VI) Incorporación tecnológica.
 Para la integración / operación del Sistema de Movilidad Integrada se podrán emplear soluciones apoyadas en tecnología para almacenar, procesar y distribuir información que permita contar con nuevos sistemas, aplicaciones y servicios que contribuyan a una gestión eficiente, tendiente a la automatización, así como a la reducción de las externalidades negativas de los desplazamientos.
 
 En el caso del cobro tarifario por medio de los sistemas de recaudo basados entecnología (sic), la Agencia Reguladora del Transporte del Estado de Campeche definirá las especificaciones que deberán contener los equipos del sistema de cobro.
+
+> <small>(ADICIONADA [N. DE . CON LOS PÁRRAFOS QUE LA INTEGRAN], P.O. 8 DE JUNIO DE 2026)</small>
+
+VII. Movilidad personal eléctrica.
+
+Aquella que se realiza mediante dispositivos o vehículos de transporte individual asistidos por motor eléctrico o tecnología similar, tales como scooters eléctricos, patinetas o bicicletas asistidas.
+
+Las personas usuarias de estos vehículos deberán sujetarse a las disposiciones de seguridad vial previstas en la presente Ley, en la Ley de Vialidad, Tránsito y Control Vehicular del Estado de Campeche, así como en sus respectivos reglamentos.
+
+Cuando dichos vehículos cuenten con motor de baja potencia susceptible de alcanzar velocidades superiores a veinticinco kilómetros por hora, deberán observar las medidas mínimas de tránsito previstas para vehículos motorizados, incluyendo el uso obligatorio de casco protector.
+
+Asimismo, se prohíbe la circulación de estos vehículos sobre aceras, banquetas y espacios destinados al tránsito exclusivo de peatones, salvo en aquellos casos en que la señalización vial lo permita expresamente.
 
 ###### Artículo 124.
 
@@ -2468,3 +2488,17 @@ CUARTO.- Las licencias y permisos para conducir expedidos con anterioridad a la 
 QUINTO.- Las autoridades competentes deberán realizar campañas de difusión accesibles y permanentes para informar a la ciudadanía sobre los nuevos mecanismos de manifestación expresa de voluntad respecto a la donación de órganos, tejidos y células, así como sobre los derechos asociados a la autodeterminación y a la protección de datos personales.
 
 SEXTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco normativo estatal en lo que se opongan al contenido del presente decreto.
+
+P.O. 8 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 240 POR EL QUE “SE ADICIONAN EL PÁRRAFO SEGUNDO AL ARTÍCULO 101; EL PÁRRAFO CUARTO AL ARTÍCULO 111 Y, EL APARTADO VII AL ARTÍCULO 123 DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado, a través de las autoridades competentes en materia de movilidad y tránsito, deberán realizar las adecuaciones reglamentarias necesarias dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto.
+
+TERCERO.- Las autoridades estatales y municipales promoverán campañas de educación y cultura vial dirigidas a las personas usuarias de vehículos de movilidad personal eléctricos, con el objeto de fomentar su uso responsable y seguro.
+
+CUARTO.- Las disposiciones reglamentarias, lineamientos técnicos o medidas administrativas que, en su caso, emitan las autoridades competentes con motivo de la entrada en vigor del presente decreto, deberán observar los principios de proporcionalidad, movilidad accesible y mínima carga administrativa para las personas usuarias.
+
+QUINTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco normativo estatal en lo que se opongan al contenido del presente decreto.
