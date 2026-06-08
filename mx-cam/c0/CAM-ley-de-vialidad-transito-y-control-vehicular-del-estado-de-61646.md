@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-transito-y-control-vehicular-del-estado-de-6164
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2026-05-28"
+last_updated: "2026-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -785,6 +785,10 @@ c) De tracción animal;
 
 d) Equipo especial movible.- aquél que no se encuentra comprendido en los artículos anteriores y que en forma eventual transita sobre las vías públicas;
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+e) Vehículos de movilidad personal eléctricos: son bicicletas, patinetas o scooters eléctricos, segways, así como, otros dispositivos de tracción eléctrica análogos, que utilicen como medio para transportar a personas de un sitio determinado de origen a otro determinado o determinable por el usuario.
+
 IV. Por el servicio que prestan, en:
 
 a) De servicio particular;
@@ -802,6 +806,22 @@ En el Reglamento se podrán establecer las subclasificaciones necesarias, de con
 Para los efectos de esta ley, se entiende por vehículo motorizado aquél que normalmente está destinado a desplazarse en el medio terrestre, con propulsión propia, que se encuentre por su naturaleza destinado al transporte o traslado de personas o cosas, y sujeto a la obligación de obtener permiso de circulación para transitar.
 
 Los remolques, acoplados, casas rodantes u otros similares, que carezcan de propulsión pero que circulen por vías públicas, también se considerarán como vehículos motorizados para los efectos de esta ley.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 62 Bis.
+
+Para efectos de la presente Ley, se consideran vehículos de movilidad personal eléctricos aquellos dispositivos de transporte individual que funcionan mediante motor eléctrico o tecnología similar y que están destinados al traslado de personas en trayectos cortos, tales como scooters eléctricos, patinetas y bicicletas eléctricas asistidas.
+
+Cuando dichos vehículos cuenten con motor de baja potencia susceptible de alcanzar velocidades superiores a veinticinco kilómetros por hora, serán considerados para efectos de seguridad vial dentro de las disposiciones aplicables a vehículos motorizados en lo relativo a medidas mínimas de tránsito.
+
+Las personas que conduzcan vehículos de movilidad personal eléctricos deberán observar las disposiciones de seguridad vial establecidas en la presente Ley, su Reglamento y demás normativa aplicable.
+
+En todo momento, las personas conductoras deberán utilizar equipo básico de protección, incluyendo casco protector debidamente ajustado, así como respetar las normas de tránsito y señalización correspondientes.
+
+Cuando dichos vehículos sean utilizados por personas menores de edad, quienes ejerzan la patria potestad, tutela o guarda deberán procurar el cumplimiento de las medidas de seguridad previstas en esta Ley.
+
+Las autoridades de tránsito podrán establecer medidas preventivas y sanciones conforme a lo previsto en las infracciones y sanciones de la presente Ley y su Reglamento.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
@@ -1672,3 +1692,17 @@ TERCERO.- Los HH. Ayuntamientos del Estado, en el ámbito de sus respectivas com
 CUARTO.- La Secretaría de Protección y Seguridad Ciudadana y los HH. Ayuntamientos del Estado, podrán celebrar convenios de coordinación, a efecto de definir mecanismos de cooperación, intercambio de información y procedimientos de notificación, retiro y resguardo de vehículos en los supuestos previstos en la fracción VIII del artículo 52 a que se refiere este decreto.
 
 QUINTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico local en lo que se opongan al presente decreto.
+
+P.O. 8 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 240 POR EL QUE "SE ADICIONAN EL INCISO E) A LA FRACCIÓN III DEL ARTÍCULO 61 Y EL ARTÍCULO 62 BIS A LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado, a través de las autoridades competentes en materia de movilidad y tránsito, deberán realizar las adecuaciones reglamentarias necesarias dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto.
+
+TERCERO.- Las autoridades estatales y municipales promoverán campañas de educación y cultura vial dirigidas a las personas usuarias de vehículos de movilidad personal eléctricos, con el objeto de fomentar su uso responsable y seguro.
+
+CUARTO.- Las disposiciones reglamentarias, lineamientos técnicos o medidas administrativas que, en su caso, emitan las autoridades competentes con motivo de la entrada en vigor del presente decreto, deberán observar los principios de proporcionalidad, movilidad accesible y mínima carga administrativa para las personas usuarias.
+
+QUINTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco normativo estatal en lo que se opongan al contenido del presente decreto.
