@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "2026-04-24"
+last_updated: "2026-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -629,6 +629,50 @@ Sólo habrá un Sindicato, y en caso de que concurran varios grupos que pretenda
 
 Todos los trabajadores al Servicio del Estado, a excepción de los de confianza, tendrán derecho a formar parte del Sindicato, pero a nadie se puede obligar a pertenecer a él.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+ARTICULO 60 BIS.- El Sindicato de Trabajadores al Servicio del Estado deberá gozar de adecuada protección contra todo acto de injerencia por parte de las personas servidoras públicas en su constitución, funcionamiento, administración y libre desarrollo de las elecciones sindicales, las condiciones de elegibilidad, la reelección y/o la destitución de la directiva del sindicato. Cualquier contravención a estas disposiciones se sancionará en los términos de la Ley General de Responsabilidades Administrativas.
+
+Se entenderán como acto de injerencia sindical, entre otras, las siguientes conductas:
+
+I.- Coaccionar, inducir o amenazar a personas trabajadoras o agremiadas para participar o abstenerse de participar en eventos de campaña sindical, o para votar por una planilla, dirigente o sindicato determinado;
+
+II.- Ejercer presión o intimidación jerárquica sobre las personas subordinadas para que expresen públicamente su apoyo o rechazo a determinada candidatura sindical;
+
+III.- Obligar o condicionar la asistencia a actos, mítines o reuniones sindicales con fines de proselitismo;
+
+IV.- Condicionar la prestación de servicios institucionales, apoyos, licencias o permisos laborales a la emisión del voto o apoyo hacia una planilla sindical;
+
+V.- Ofrecer beneficios laborales, ascensos, estímulos o promociones a cambio de apoyo o voto sindical;
+
+VI.- Negar, suspender o limitar derechos o programas internos, capacitaciones, bonos o reconocimientos como represalia por no apoyar determinada opción sindical;
+
+VII.- Utilizar programas institucionales o apoyos sociales para inducir o coaccionar el voto sindical;
+
+VIII.- Destinar, utilizar o permitir el uso de fondos, bienes, servicios o personal institucional para favorecer o perjudicar a determinada planilla, corriente o dirigencia sindical;
+
+IX.- Difundir propaganda, mensajes o material institucional que promueva o desacredite a una candidatura o grupo sindical;
+
+X.- Permitir el uso de instalaciones, vehículos, redes o infraestructura pública para actos de campaña o propaganda sindical;
+
+XI.- Proporcionar apoyo o servicios institucionales para actividades de campaña sindical;
+
+XII.- Realizar aportaciones o solicitar contribuciones a subordinados para financiar campañas o actividades sindicales;
+
+XIII.- Usar recursos o programas institucionales con la finalidad de posicionar o promover ante la base trabajadora a una persona servidora pública o dirigente sindical;
+
+XIV.- Negarse sin causa justificada a entregar información solicitada por la autoridad sindical o laboral competente, relacionada con el desarrollo de elecciones o procesos democráticos sindicales;
+
+XV.- Omitir colaborar o prestar auxilio en los procesos de verificación, vigilancia o supervisión sindical cuando la autoridad lo requiera;
+
+XVI.- Omitir actuar con imparcialidad durante los procesos electorales sindicales, afectando la equidad entre candidaturas;
+
+XVII.- Actuar con parcialidad o favorecer públicamente a determinada candidatura;
+
+XVIII.- Intervenir indebidamente en la equidad del proceso sindical, alterando la neutralidad institucional; y
+
+XIX.- Utilizar su cargo para influir en la opinión de las personas trabajadoras, afectando la libertad del voto sindical.
+
 ###### ARTICULO 61.
 
 Cuando los trabajadores sindicalizados desempeñen un puesto de confianza, quedarán en suspenso todas sus obligaciones y derechos sindicales.
@@ -1184,6 +1228,14 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 24 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO Y ADICIONA UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES, DEL ARTÍCULO 26 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 60 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
