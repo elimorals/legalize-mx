@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2026-05-04"
+last_updated: "2026-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -97,9 +97,9 @@ XIII. Establecer las bases para que la política social para que efectivamente s
 
 XIV. Garantizar la calidad de los programas de desarrollo social a cargo del Gobierno del Estado y de los municipios, así como su eficiente aplicación con apego a la equidad y la justicia social;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2026)</small>
 
-XV. Impulsar la incorporación de la igualdad sustantiva entre mujeres y hombres, la protección de las familias, las mujeres, las y los jóvenes, las personas o grupos en desventaja, en especial niñas, niños y adolescentes, personas con discapacidad, con enfermedades terminales, indígenas y adultos mayores, en los programas de desarrollo social a cargo del Gobierno del Estado y los Municipios;
+XV. Impulsar la incorporación de la igualdad sustantiva entre mujeres y hombres, la protección de las familias, las mujeres, las y los jóvenes, las personas o grupos en desventaja, en especial niñas, niños y adolescentes, personas con discapacidad, con enfermedades terminales, indígenas y personas adultas mayores, en los programas de desarrollo social a cargo del Gobierno del Estado y los Municipios;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
@@ -1476,6 +1476,14 @@ P.O. 22 DE DICIEMBRE DE 2025.
 P.O. 4 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 467.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 505.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTICULO ÚNICO.
 
