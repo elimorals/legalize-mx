@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2026-04-06"
+last_updated: "2026-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -1253,9 +1253,11 @@ No se podrá negar o restringir la inclusión de niñas, niños y adolescentes c
 
 No se considerarán discriminatorias las medidas específicas que sean necesarias para acelerar o lograr la igualdad sustantiva de las niñas, niños y adolescentes con discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2026)</small>
+
 ###### Artículo 55.
 
-Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, realizarán acciones a fin de sensibilizar a la sociedad, incluso a nivel familiar, para que tome mayor conciencia respecto de las niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad.
+Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, implementarán acciones afirmativas y realizarán acciones a fin de sensibilizar a la sociedad, incluso a nivel familiar, para que tome mayor conciencia respecto de las niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad.
 
 Las leyes locales establecerán disposiciones tendientes a:
 
@@ -1839,11 +1841,41 @@ Niñas, niños y adolescentes gozan del derecho de acceso universal a las tecnol
 
 El Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Aguascalientes, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2026)</small>
 
 ###### Artículo 94 Sexies.
 
-Las madres, padres y quienes tengan a su cargo el cuidado de niñas, niños y adolescentes, instruirán el conocimiento y uso responsable de las tecnologías de la información y comunicación, y deberán velar para que los riesgos derivados del acceso a tal derecho, no afecten o impidan objetivamente su desarrollo integral, por lo que, en caso de que se vulneren sus derechos, ejercerán las acciones legales y medidas pertinentes para garantizar el interés superior de la niñez.
+Las madres, padres y quienes tengan a su cargo el cuidado de niñas, niños y adolescentes, instruirán el conocimiento y uso responsable de las tecnologías de la información y comunicación, promoviendo el uso de herramientas de control parental y configuración de privacidad, y deberán velar para que los riesgos derivados del acceso a tal derecho, no afecten o impidan objetivamente su desarrollo integral, por lo que, en caso de que se vulneren sus derechos, ejercerán las acciones legales y medidas pertinentes para garantizar el interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+Las autoridades estatales, en coordinación con el Sistema Local de Protección, diseñarán e implementarán campañas y guías informativas permanentes dirigidas a las familias para fortalecer el conocimiento y enseñanza de estas herramientas de protección digital.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 94 Septies.
+
+Las autoridades del Estado de Aguascalientes y sus Municipios, en el ámbito de sus respectivas competencias, establecerán políticas, programas y medidas de protección especial para garantizar el ejercicio pleno y seguro del entorno digital, mediante:
+
+I. El desarrollo e implementación de campañas y mecanismos para prevenir y combatir la intimidación, el engaño, la difusión de contenidos violentos o inadecuados, y cualquier otra forma de violencia digital que atente contra la integridad de niñas, niños y adolescentes.
+
+II. La promoción de la educación digital y la alfabetización mediática para inculcar el uso responsable y seguro de las redes sociales digitales, de conformidad con su edad y desarrollo evolutivo.
+
+III. La implementación de mecanismos efectivos para evitar la difusión, exposición o uso de imágenes, videos, audios, o datos personales a través de plataformas digitales, cuando dicha difusión no cuente con el consentimiento expreso e informado de quienes ejerzan la patria potestad o tutela.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 94 Octies.
+
+Las niñas, niños y adolescentes que sean víctimas de actos de violencia digital cometidos en su contra, tienen derecho a recibir atención, investigación y persecución del delito por parte de las autoridades competentes en materia de procuración de justicia, garantizando una perspectiva de infancia, personal especializado y mecanismos de denuncia digital que sean accesibles, seguros y confidenciales.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 94 Nonies.
+
+La Autoridad Educativa Estatal podrá solicitar a la Autoridad Educativa Federal las actualizaciones y modificaciones pertinentes a los planes y programas de estudio, con el propósito de incorporar contenidos de alfabetización y ciudadanía digital crítica que respondan al carácter regional, local y situacional del proceso educativo en el Estado.
+
+Dichos contenidos deberán estar orientados a la navegación segura, la protección de datos personales, la identificación de riesgos y el fomento de una cultura de respeto en línea.
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
@@ -3666,3 +3698,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 509.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 510.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
