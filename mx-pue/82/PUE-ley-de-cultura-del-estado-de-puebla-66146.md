@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-cultura-del-estado-de-puebla-66146"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2026-02-20"
+last_updated: "2026-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CULTURA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -89,9 +89,9 @@ VII.- Conservación: acción de preservar el buen Estado de un bien constitutivo
 
 VIII.- Cultura: Creencias colectivas, conocimiento, tradiciones, hábitos y valores que caracterizan a una comunidad o grupo y que regulan la forma en que los miembros interactúan entre ellos;
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2026)</small>
 
-IX.- Declaratoria de Patrimonio Cultural: Pronunciamiento emitido por el Gobernador del Estado y que tiene como fin el reconocimiento expreso de la calidad de un bien como constitutivo de patrimonio cultural;
+IX.- Declaratoria de Patrimonio Cultural: Pronunciamiento emitido por la persona Titular del Ejecutivo del Estado y que tiene como fin el reconocimiento expreso de la calidad de un bien como constitutivo de patrimonio cultural;
 
 > <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -121,13 +121,41 @@ XV.- Restauración: Conjunto de intervenciones tendientes a reparar un bien cons
 
 La cultura es patrimonio de la sociedad, y su preservación, promoción, investigación y difusión en la Entidad corresponde en general a todos los habitantes del Estado y en especial a las autoridades, conforme a lo previsto en esta Ley y demás ordenamientos aplicables.
 
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 3 Bis.
+
+La política cultural del Estado deberá contener acciones para promover la cooperación solidaria de todas aquellas personas que participen en las actividades culturales, incluidos, el conocimiento, desarrollo y difusión de las culturas de los pueblos y comunidades indígenas del Estado de Puebla, y la erradicación de estereotipos socioculturales de género que propician la violencia contra las mujeres y niñas; mediante el establecimiento de acciones que permitan vincular al sector cultural con el sector educativo, turístico, de desarrollo social, del medio ambiente, económico, las tecnologías de la información y las comunicaciones y demás sectores de la sociedad.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 3 Ter.
+
+La política cultural del Estado, en el ámbito de su competencia, atenderá los siguientes principios:
+
+I.- Respeto a la libertad creativa y a las manifestaciones culturales;
+
+II.- Igualdad de las culturas;
+
+III.- Reconocimiento de la diversidad cultural del Estado de Puebla;
+
+IV.- Reconocimiento de la identidad y dignidad de las personas;
+
+V.- Libre determinación y autonomía de los pueblos y comunidades indígenas que habitan en el Estado;
+
+VI.- Igualdad de género, y
+
+VII.- El goce efectivo de los derechos culturales de las personas adultas mayores.
+
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE CULTURA
 
 ###### Artículo 4.
 
 Son autoridades competentes para aplicar la presente Ley:
 
-I.- El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2026)</small>
+
+I.- la persona Titular del Ejecutivo del Estado;
 
 > <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -147,9 +175,11 @@ Las autoridades competentes en materia de cultura, establecerán acciones que ev
 
 La promoción y fomento de la cultura serán democráticos, populares y plurales y la actuación de las autoridades estatales y municipales competentes, se regirá con sujeción a dichos principios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2026)</small>
+
 ###### Artículo 7.
 
-Son obligaciones del Gobernador del Estado en materia de cultura:
+Son obligaciones de la persona Titular del Ejecutivo del Estado en materia de cultura:
 
 > <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -177,7 +207,9 @@ VII.- Las demás que le confieran las demás leyes y disposiciones aplicables.
 
 Compete al Consejo Estatal:
 
-I.- Proponer al Gobernador del Estado, la política cultural del Estado, teniendo como fin la valoración, identificación, protección, conservación, restauración, recuperación y difusión de la cultura y del patrimonio cultural de la Entidad;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2026)</small>
+
+I.- Proponer a la persona Titular del Ejecutivo del Estado, la política cultural del Estado, teniendo como fin la valoración, identificación, protección, conservación, restauración, recuperación y difusión de la cultura y del patrimonio cultural de la Entidad;
 
 II.- Estimular la creación, investigación, formación y capacitación en las diferentes disciplinas artísticas;
 
@@ -207,7 +239,9 @@ XIV.- Actuar, en términos de lo dispuesto en la ley de la materia, como órgano
 
 XV.- Impulsar ante las autoridades federales, respecto a bienes y zonas ubicados en el territorio de la Entidad, la expedición de las Declaratorias de bienes y zonas de monumentos arqueológicos, artísticos o históricos, en los términos de la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas y su Reglamento;
 
-XVI.- Solicitar al Gobernador del Estado la expedición y revocación de las Declaratorias de Patrimonio Cultural del Estado, en términos de lo que establece la presente Ley y vigilar su debida observancia, promoviendo en su caso ante las autoridades municipales, el cabal cumplimiento de éstas;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2026)</small>
+
+XVI.- Solicitar a la persona Titular del Ejecutivo del Estado la expedición y revocación de las Declaratorias de Patrimonio Cultural del Estado en términos de lo que establece la presente Ley y vigilar su debida observancia, promoviendo en su caso ante las autoridades municipales, el cabal cumplimiento de éstas;
 
 XVII.- Ejecutar, directamente o en coordinación con autoridades municipales, estatales y federales, acciones de protección, conservación y en su caso, restauración de los bienes inmuebles constitutivos de patrimonio cultural, conforme a las disposiciones de esta Ley y las normas que regulen el manejo, la intervención y la utilización de los bienes de carácter patrimonial de la Entidad;
 
@@ -219,9 +253,11 @@ XIX.- (DEROGADA, P.O. 14 DE FEBRERO DE 2011)
 
 XX.- Las demás que le confieran las demás leyes y disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2026)</small>
+
 ###### Artículo 9.
 
-Sin perjuicio de lo establecido en la Ley Orgánica Municipal, es obligación de los Ayuntamientos a través de sus Presidentes Municipales:
+Sin perjuicio de lo establecido en la Ley Orgánica Municipal, es obligación de los Ayuntamientos a través de la persona Titular de la Presidencia Municipal:
 
 I.- Elaborar y ejecutar programas para el desarrollo de las actividades culturales dentro del territorio municipal, abarcando pueblos y comunidades;
 
@@ -281,25 +317,27 @@ IX.- Todas aquellas acciones necesarias para un mejor cumplimiento de las dispos
 
 Los convenios de coordinación a los que se refieren las fracciones V y VI de este artículo, deberán celebrarse invariablemente con las autoridades federales correspondientes, así como en todos los casos en los que éstas tengan competencia directa en la materia de los mismos.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2026)</small>
+
 ###### Artículo 11.
 
-Las autoridades estatales y municipales competentes en la materia de cultura, impulsarán y estimularán las actividades de investigación histórica y del patrimonio cultural de nuestra Entidad, su estudio y ampliación bibliográfica, así como su conservación y divulgación, apoyándose para ello en los Cronistas.
+Las autoridades estatales y municipales competentes en la materia de cultura impulsarán y estimularán las actividades de investigación histórica y del patrimonio cultural de nuestra Entidad, su estudio y ampliación bibliográfica, así como su conservación y divulgación, incluyendo aquellas que se desarrollen en el ámbito de la cultura digital, apoyándose para ello en las personas Cronistas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2026)</small>
 
 ###### Artículo 12.
 
-El Gobernador del Estado a propuesta del Consejo Estatal, atendiendo al criterio de probidad moral e intelectual, así como a la labor desarrollada en beneficio de la preservación de la cultura, conferirá la calidad de Cronista, pudiendo la misma ser como Cronista del Estado, Regional o por alguna materia específica que justifique su atención especializada. La calidad de Cronista será honorífica. El Reglamento establecerá la duración del cargo.
+La persona Titular del Ejecutivo del Estado a propuesta de la Secretaría, atendiendo al criterio de probidad moral e intelectual, así como a la labor desarrollada en beneficio de la preservación de la cultura, conferirá la calidad de Cronista, pudiendo la misma ser como persona Cronista del Estado, Regional o por alguna materia específica que justifique su atención especializada. La calidad de persona Cronista será honorífica. El Reglamento establecerá la duración del cargo.
 
-Los Ayuntamientos, en términos de las disposiciones de la Ley Orgánica Municipal, designarán a los Cronistas Municipales.
+Los Ayuntamientos, en términos de las disposiciones de la Ley Orgánica Municipal, designarán a las personas Cronistas Municipales.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+La ciudadanía, así como las organizaciones de la sociedad civil podrán someter a la consideración de la Secretaría y del Ayuntamiento, según sea el caso, los motivos justificados con el fin de que le sea concedida la calidad de persona Cronista a alguna ciudadana destacada o algún ciudadano destacado, debiendo resolver la autoridad lo conducente.
 
-Los ciudadanos y organismos de la sociedad civil podrán someter a la consideración del Consejo Estatal y del Ayuntamiento, según sea el caso, los motivos justificados con el fin de que le sea concedida la calidad de Cronista a algún ciudadano destacado, debiendo resolver la autoridad lo conducente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2026)</small>
 
 ###### Artículo 13.
 
-Los Cronistas coadyuvarán con las autoridades estatales y municipales competentes en materia de cultura, para:
+Las personas Cronistas coadyuvarán con las autoridades estatales y municipales competentes en materia de cultura, para:
 
 I.- Contribuir al enriquecimiento, sistematización y recopilación de la información acerca de la historia y tradiciones del Estado, en su ámbito específico de acción;
 
@@ -315,9 +353,11 @@ V.- Promover la colaboración de patronatos o grupos de participación voluntari
 
 El Reglamento de esta Ley determinará las causas de pérdida de la calidad de Cronista, así como las regiones a las que corresponderá el otorgamiento de la calidad de Cronista Regional.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2026)</small>
+
 ###### Artículo 15.
 
-Los Cronistas se agruparán en el órgano auxiliar de la Administración Pública del Estado denominado Consejo de la Crónica del Estado de Puebla, en los términos de su Decreto de creación.
+Las personas Cronistas se agruparán en el órgano auxiliar de la Administración Pública del Estado denominado Consejo de la Crónica del Estado de Puebla, en los términos de su Decreto de creación.
 
 ### CAPÍTULO TERCERO. DEL PATRIMONIO CULTURAL
 
@@ -445,19 +485,23 @@ El Consejo Estatal, en el ámbito estatal establecerá las especificaciones y cr
 
 El Consejo Estatal, podrá solicitar a las autoridades municipales y estatales que corresponda, la suspensión provisional o definitiva de acciones y obras que contravengan normas o procedimientos legales y que pongan en peligro las cualidades de un bien constitutivo de patrimonio cultural conforme a la presente Ley.
 
-Los ciudadanos u organismos sociales deberán hacer del conocimiento de las instancias o dependencias, estatales o municipales, cualquier violación a la presente Ley, así como a los reglamentos de la materia y que se realice en perjuicio del patrimonio cultural del Estado.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+La ciudadanía o las organizaciones sociales deberán hacer del conocimiento de las instancias o dependencias, estatales o municipales, cualquier violación a la presente Ley, así como a los reglamentos de la materia y que se realice en perjuicio del patrimonio cultural del Estado.
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 A petición de parte interesada, el Consejo Estatal prestará asesoría y realizará supervisiones de obras de restauración de los bienes tangibles afectos al patrimonio cultural.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2026)</small>
+
 ###### Artículo 25.
 
-El Gobernador del Estado, de oficio o por petición plenamente justificada de ciudadanos y organismos, declarará Patrimonio Cultural del Estado a aquellos bienes respecto de los cuales se considere necesario el establecimiento de medidas específicas para su salvaguarda.
+La persona Titular del Ejecutivo del Estado, de oficio o por petición plenamente justificada de la ciudadanía y organismos, declarará Patrimonio Cultural del Estado a aquellos bienes respecto de los cuales se considere necesario el establecimiento de medidas específicas para su salvaguarda.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2026)</small>
 
-El Consejo Estatal deberá fundamentar el valor patrimonial del bien a declarar, la necesidad de su protección, así como establecer acciones particulares a cargo de las autoridades estatales y municipales en el ámbito de su respectiva competencia, con el fin de garantizar su protección y conservación. La Declaración de Patrimonio Cultural que en cada caso emita el Gobernador del Estado, consignará tales consideraciones.
+La Secretaría deberá fundamentar el valor patrimonial del bien a declarar, la necesidad de su protección, así como establecer acciones particulares a cargo de las autoridades estatales y municipales en el ámbito de su respectiva competencia, con el fin de garantizar su protección y conservación. La Declaración de Patrimonio Cultural que en cada caso emita la persona Titular del Ejecutivo del Estado, consignará tales consideraciones.
 
 El Reglamento correspondiente, establecerá el procedimiento mediante el cual se expedirá o revocará la declaratoria correspondiente, conforme a las disposiciones de esta Ley, que será publicada en el Periódico Oficial del Estado.
 
@@ -519,11 +563,11 @@ XIII.- Promover las actividades de concertación pertinentes para unificar progr
 
 En todos los casos, las autoridades estatales y municipales competentes en materia de cultura, diseñarán y operarán las medidas a las que se refiere el presente artículo, conjuntamente con los pueblos y comunidades indígenas a las que se dirijan.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2026)</small>
 
 ###### Artículo 32.
 
-El Consejo Estatal se coordinará con las Secretarías de Desarrollo Social, de Educación Pública y de Turismo, así como con el resto de instancias estatales y en su caso federales competentes, a fin de que las medidas a las que se refiere el artículo anterior coadyuven a promover el desarrollo de los pueblos y comunidades indígenas de la Entidad y fortalezcan su organización.
+El Consejo Estatal se coordinará con las Secretarías de Bienestar, de Educación Pública y de Desarrollo Turístico, así como con el resto de instancias estatales y en su caso federales competentes, a fin de que las medidas a las que se refiere el artículo anterior coadyuven a promover el desarrollo de los pueblos y comunidades indígenas de la Entidad y fortalezcan su organización.
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -905,7 +949,9 @@ II.- Las herencias, legados o donaciones;
 
 III.- Los créditos que se obtengan del sector privado;
 
-IV.- Los bienes muebles e inmuebles que le asigne el Gobernador del Estado y los que adquiera por cualquier título legal para el cumplimiento de su objeto;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2026)</small>
+
+IV.- Los bienes muebles e inmuebles que le asigne la persona Titular del Ejecutivo del Estado y los que adquiera por cualquier título legal para el cumplimiento de su objeto;
 
 V.- El presupuesto anual que se le autorice, así como las transferencias, subsidios y participaciones;
 
@@ -917,7 +963,9 @@ VIII.- Las utilidades, intereses, dividendos, rendimientos de sus bienes, derech
 
 IX.- Los demás bienes o ingresos que adquiera o perciba por cualquier título legal o servicio prestado; y
 
-X.- Otros recursos que a propuesta del Gobernador del Estado se determinen en el presupuesto;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2026)</small>
+
+X.- Otros recursos que a propuesta de la persona Titular del Ejecutivo del Estado se determinen en el presupuesto;
 
 Fomento Cultural Poblano, podrá estimular también la creación de sociedades, asociaciones, fideicomisos, patronatos y otras formas de organización públicas o privadas, que coadyuven al fomento cultural, de conformidad con las leyes que rigen la materia.
 
@@ -1014,6 +1062,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III Y IV, Y ADICIONA LA FRACCIÓN V AL ARTÍCULO 1 DE LA LEY DE CULTURA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 2, LA FRACCIÓN I DEL 4, EL ACÁPITE DEL 7, LAS FRACCIONES I Y XVI DEL ARTÍCULO 8, EL ACÁPITE DEL 9, EL 11, EL 12, EL ACÁPITE DEL 13, EL 15, EL SEGUNDO PÁRRAFO DEL 24, EL PRIMER Y SEGUNDO PÁRRAFO DEL 25, EL ARTÍCULO 32, Y LAS FRACCIONES IV Y X DEL ARTÍCULO 72; Y SE ADICIONAN LOS ARTÍCULOS 3 BIS Y 3 TER, TODOS DE LA LEY DE CULTURA DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
