@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2026-04-17"
+last_updated: "2026-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -947,11 +947,11 @@ ARTÍCULO 43 TER.- Los Ayuntamientos promoverán que en las bibliotecas pública
 
 ### CAPÍTULO IV. DE LAS COMUNIDADES INDÍGENAS
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 44.
 
-Los Ayuntamientos, las Juntas Auxiliares y Órganos de Participación Ciudadana, promoverán y garantizarán el desarrollo integral de las comunidades indígenas que habiten en el Municipio, asimismo deberán contar con los servicios de un traductor de las lenguas indígenas propias de la comunidad que se trate, para la comunicación por cualquier medio que se pretenda entre la autoridad y la ciudadanía en aquellos Municipios que cuenten con población indígena.
+Los Ayuntamientos, las Juntas Auxiliares y Órganos de Participación Ciudadana, promoverán y garantizarán el desarrollo integral de los pueblos y comunidades indígenas y afromexicanos que habiten en el Municipio, asimismo deberán contar con los servicios de un intérprete o traductor de las lenguas indígenas propias de la comunidad que se trate, para la comunicación por cualquier medio que se pretenda entre la autoridad y la ciudadanía en aquellos Municipios que cuenten con población indígena.
 
 ###### ARTÍCULO 45.
 
@@ -4742,3 +4742,11 @@ P.O. 17 DE ABRIL DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA EL ARTÍCULO 44 DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
