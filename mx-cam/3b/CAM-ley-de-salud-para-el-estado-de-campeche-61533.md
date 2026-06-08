@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2026-05-28"
+last_updated: "2026-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -921,11 +921,101 @@ VII. Las demás acciones que directa o indirectamente contribuyan al fomento de 
 
 (DEROGADO, P.O. 16 DE OCTUBRE DE 2018)
 
-### Capítulo I. Disposiciones Generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2026)</small>
+
+### Capítulo VIII. Salud Bucodental
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 72 Bis.
+
+El Estado, a través de la Secretaría Estatal, en coordinación con las autoridades federales, estatales, municipales, y demás instituciones competentes, implementará a través de los instrumentos de organización respectivos, de manera permanente políticas públicas, programas, estrategias y acciones integrales en materia de salud bucodental, con enfoque preventivo, comunitario, territorial, intercultural y de derechos humanos.
+
+Dichas acciones tendrán por objeto promover hábitos saludables, prevenir enfermedades bucodentales, garantizar el acceso progresivo a servicios de atención odontológica, así como fortalecer la educación para el autocuidado y la rehabilitación de la salud bucal de la población, priorizando a las personas que se encuentren en situación de vulnerabilidad, marginación o rezago social.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 72 Ter.
+
+La Secretaría Estatal promoverá un modelo de atención multidisciplinario e interinstitucional para la implementación de los programas de salud bucodental, fomentando la participación coordinada de las dependencias y entidades de los tres órdenes de gobierno, instituciones educativas, colegios de profesionistas, comunidades, organizaciones sociales, así como, sectores privado y académico.
+
+Las políticas y acciones en materia de salud bucodental deberán desarrollarse bajo criterios de igualdad sustantiva, accesibilidad, inclusión, pertinencia cultural, justicia social y enfoque territorial, procurando atender prioritariamente a las comunidades rurales, zonas y localidades con mayores índices de rezago social.
+
+Para el cumplimiento de lo dispuesto en el presente Capítulo, la Secretaría Estatal contará con una Comisión Interinstitucional de Salud Bucodental, como órgano de coordinación y apoyo técnico, cuya integración, funcionamiento, objetivos y lineamientos serán determinados en las disposiciones reglamentarias correspondientes.
+
+La Comisión Interinstitucional deberá sesionar de manera ordinaria por lo menos dos veces al año y remitir recomendaciones, diagnósticos y propuestas de coordinación para el fortalecimiento de las políticas públicas en materia de salud bucodental.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 72 Quater.
+
+Los programas y acciones en materia de salud bucodental deberán incorporar, de manera prioritaria, medidas preventivas, educativas y de atención temprana dirigidas a niñas, niños y adolescentes, observando en todo momento el principio del interés superior de la niñez.
+
+Asimismo, deberán impulsarse campañas permanentes de higiene bucal, orientación nutricional, prevención de caries y enfermedades periodontales, promoción del cepillado correcto y demás acciones encaminadas a fortalecer una cultura de autocuidado y salud integral en los entornos familiar, escolar y comunitario.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 72 Quinquies.
+
+La Secretaría Estatal en coordinación con la Secretaría de Educación del Estado, de manera progresiva y conforme a la disponibilidad presupuestal, garantizará a las niñas y niños inscritos en instituciones públicas del Estado de educación inicial, preescolar y primaria, el acceso a revisiones odontológicas preventivas y profilácticas periódicas, priorizando a quienes habiten en comunidades rurales y zonas de atención prioritaria o en condiciones de vulnerabilidad social.
+
+Las revisiones preventivas previstas en el presente artículo deberán realizarse preferentemente al menos una vez por ciclo escolar, conforme a la capacidad operativa y presupuestal de las autoridades competentes.
+
+Las acciones previstas en el presente artículo deberán realizarse sin discriminación alguna y con independencia del régimen de seguridad social o esquema de protección en salud al que pertenezcan las personas beneficiarias.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 72 Sexies.
+
+El Estado por conducto de la Secretaría Estatal promoverá, en coordinación con las autoridades federales, estatales y municipales competentes, así como con instituciones académicas y de investigación, estudios, diagnósticos, campañas y acciones orientadas a mejorar las condiciones de salud bucodental de la población del Estado de Campeche.
+
+Las políticas públicas que deriven de dichas acciones deberán sustentarse en evidencia científica, indicadores epidemiológicos y criterios de atención, conforme a lo previsto en la Ley General de Salud y demás disposiciones jurídicas aplicables.
+
+La Secretaría Estatal procurará integrar y actualizar periódicamente información estadística y diagnósticos territoriales sobre salud bucodental, con el objeto de orientar la focalización y evaluación de las acciones previstas en el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 72 Septies.
+
+El Ejecutivo Estatal deberá considerar, de manera progresiva y conforme a la disponibilidad presupuestal, las previsiones necesarias para fortalecer las acciones y programas de salud bucodental dirigidos a niñas, niños y adolescentes que cursen educación inicial, preescolar, primaria y secundaria en instituciones públicas del Estado.
+
+Como parte de dichas acciones, la Secretaría Estatal podrá implementar estrategias de apoyo preventivo consistentes en la distribución de materiales básicos de higiene bucodental y contenidos educativos para el cuidado de la salud oral, priorizando las comunidades con mayores condiciones de vulnerabilidad y rezago social.
+
+Para efectos del presente artículo, podrán ser beneficiarias las personas inscritas en:
+
+I. Instituciones públicas de educación inicial, preescolar, primaria y secundaria del Estado de Campeche;
+
+II. Centros de Desarrollo Infantil, estancias infantiles y demás instituciones públicas de atención a la primera infancia; y
+
+III. Centros de Atención Múltiple y demás instituciones públicas de educación especial ubicadas en el Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 72 Octies.
+
+Para tales efectos, se entenderá por materiales básicos de higiene bucodental aquellos insumos y herramientas orientados a promover hábitos de limpieza y prevención de enfermedades bucales, conforme a los criterios técnicos, sanitarios y presupuestales que determine la Secretaría de Salud.
+
+La integración, características y especificaciones de dichos materiales deberán observar criterios de calidad, seguridad sanitaria, pertinencia por grupo etario y suficiencia técnica, de conformidad con las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 72 Nonies.
+
+La Secretaría Estatal será la autoridad responsable de coordinar las acciones operativas, logísticas, técnicas y administrativas relacionadas con los programas de salud bucodental.
+
+Para el cumplimiento de sus objetivos, podrá coordinarse con la Secretaría de Educación, autoridades municipales, instituciones públicas, organismos autónomos y demás instancias competentes, a efecto de facilitar la implementación, distribución, seguimiento y evaluación de las acciones y apoyos en materia de salud bucodental.
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 72 Decies.
+
+La Secretaría Estatal emitirá las disposiciones reglamentarias, lineamientos, criterios técnicos y mecanismos de coordinación necesarios para la implementación, seguimiento, evaluación, transparencia y mejora continua de las acciones previstas en el presente Capítulo.
+
+Asimismo, impulsará mecanismos de evaluación periódica, indicadores de impacto y medidas de fiscalización y rendición de cuentas, en términos de las disposiciones jurídicas aplicables.
 
 ## Título Cuarto. De la Protección Social en Salud
 
-### Capítulo II. De los Beneficios de la Protección Social en Salud
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 73.
 
@@ -983,7 +1073,7 @@ VIII. Proporcionar a la Secretaría Federal la información relativa al ejercici
 
 IX. Promover la participación de los Municipios en el Régimen y sus aportaciones económicas mediante la suscripción de convenios.
 
-### Capítulo III. De las Cuotas Familiares
+### Capítulo II. De los Beneficios de la Protección Social en Salud
 
 ###### Artículo 78.
 
@@ -1033,7 +1123,7 @@ El Régimen proveerá de manera integral los servicios de salud y los medicament
 
 Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura en salud, el Estado a partir de las transferencias que reciba, en los términos de este Título, destinará los recursos necesarios para la inversión en infraestructura médica, de conformidad con el plan maestro que para el efecto elabore la Secretaría Federal.
 
-### Capítulo IV. Derechos y Obligaciones de los Beneficiarios
+### Capítulo III. De las Cuotas Familiares
 
 ###### Artículo 82.
 
@@ -1057,7 +1147,7 @@ La Secretaría Estatal presentará a la Secretaría Federal, conforme a los line
 
 Bajo el principio de solidaridad social, las cuotas familiares no serán objeto de devolución bajo ninguna circunstancia, ni podrán aplicarse a años subsecuentes en el caso de suspensión temporal de los beneficios de la protección social en salud.
 
-### Capítulo V. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
+### Capítulo IV. Derechos y Obligaciones de los Beneficiarios
 
 ###### Artículo 87.
 
@@ -1125,7 +1215,7 @@ X. Hacer uso responsable de los servicios de salud; y
 
 XI. Proporcionar, de manera fidedigna, la información necesaria para documentar su incorporación al Régimen y para la definición del monto a pagar por concepto de cuota familiar.
 
-### Capítulo I. Profesionales, Técnicos y Auxiliares de la Salud
+### Capítulo V. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
 
 ###### Artículo 90.
 
@@ -1155,7 +1245,7 @@ En los casos en que se materialicen los supuestos a que se refiere este Capítul
 
 ## Título Quinto. Recursos Humanos para los Servicios de Salud
 
-### Capítulo II. Servicio Social de Pasantes y Profesionales
+### Capítulo I. Profesionales, Técnicos y Auxiliares de la Salud
 
 ###### Artículo 93.
 
@@ -1189,7 +1279,7 @@ En el caso en que exista convenio entre el Estado y la Federación en materia de
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares, así como las especialidades, a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
-### Capítulo III. Formación, Capacitación y Actualización del Personal
+### Capítulo II. Servicio Social de Pasantes y Profesionales
 
 ###### Artículo 97.
 
@@ -1215,7 +1305,7 @@ Para los efectos del párrafo anterior la Secretaría Estatal, en coordinación 
 
 La Secretaría Estatal, con la participación de las instituciones de educación superior, elaborará programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales y reglamentarias aplicables al ejercicio profesional.
 
-### Capítulo Único
+### Capítulo III. Formación, Capacitación y Actualización del Personal
 
 ###### Artículo 102.
 
@@ -1303,7 +1393,7 @@ En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recu
 
 ## Título Séptimo. Información para la Salud
 
-### Capítulo I. Disposiciones Comunes
+### Capítulo Único
 
 ###### Artículo 112.
 
@@ -1321,7 +1411,7 @@ Los profesionales, técnicos y auxiliares de salud y los establecimientos que pr
 
 ## Título Octavo. Promoción de la Salud
 
-### Capítulo II. Educación para la Salud
+### Capítulo I. Disposiciones Comunes
 
 ###### Artículo 114.
 
@@ -1357,9 +1447,7 @@ IV. La capacitación en primeros auxilios, prevención de accidentes y manejo se
 
 V. La promoción de la vigilancia y reporte de prácticas de riesgo en las actividades productivas.
 
-### Capítulo III. Nutrición
-
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
+### Capítulo II. Educación para la Salud
 
 ###### Artículo 116.
 
@@ -1383,7 +1471,9 @@ La Secretaría Estatal, en coordinación con las autoridades estatales y federal
 
 Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
 
-### Capítulo IV. Efectos del Ambiente en la Salud
+### Capítulo III. Nutrición
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 118.
 
@@ -1443,7 +1533,7 @@ XI. Instrumentar y promover planes y/o programas que prevengan problemas de salu
 
 XII. Promover acciones encaminadas a desincentivar la venta de suplementos, sustancias o productos que se expendan como soluciones a problemas de salud y cuya composición y uso no cuente con aval de la autoridad sanitaria y, en su caso, se inicien los procedimientos sancionatorios que correspondan.
 
-### Capítulo V. Salud Ocupacional
+### Capítulo IV. Efectos del Ambiente en la Salud
 
 ###### Artículo 120.
 
@@ -1469,7 +1559,7 @@ Los propietarios de unidades de rayos equis, de uso odontológico, notificarán 
 
 La Secretaría Estatal se coordinará con las dependencias federales competentes, para la prestación de los servicios a que se refiere este Capítulo.
 
-### Capítulo I. Disposiciones Comunes
+### Capítulo V. Salud Ocupacional
 
 ###### Artículo 123.
 
@@ -1485,7 +1575,7 @@ Para los efectos de esta Ley se consideran bajo la denominación de establecimie
 
 ## Título Noveno. Prevención y Control de Enfermedades Transmisibles, No Transmisibles y Accidentes
 
-### Capítulo II. Enfermedades Transmisibles
+### Capítulo I. Disposiciones Comunes
 
 ###### Artículo 126.
 
@@ -1499,11 +1589,7 @@ III. Realizar los programas y actividades que las demás autoridades competentes
 
 IV. Promover, de acuerdo con las demás autoridades competentes, la colaboración de las instituciones de los sectores público, social y privado del Estado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades a que se refieren las fracciones II y III de este artículo.
 
-### Capítulo II Bis. De la Vacunación
-
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
-
-Artículo 142 bis.- Toda persona residente en el territorio estatal tiene derecho a recibir de manera universal y gratuita, en cualquiera de las dependencias y entidades de la administración pública estatal del Sistema Estatal de Salud, las vacunas contenidas en el Programa de Vacunación Universal, independientemente del régimen de seguridad social o protección social al que pertenezca, de conformidad con lo establecido en el Capítulo II Bis, del Título Octavo de la Ley General de Salud.
+### Capítulo II. Enfermedades Transmisibles
 
 ###### Artículo 127.
 
@@ -1625,9 +1711,13 @@ Se prohíbe la introducción o el transporte por el territorio del Estado de ani
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE MAYO DE 2023)</small>
 
-### Capítulo III. Enfermedades No Transmisibles
+### Capítulo II Bis. De la Vacunación
 
-### Capítulo IV. Accidentes
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2023)</small>
+
+Artículo 142 bis.- Toda persona residente en el territorio estatal tiene derecho a recibir de manera universal y gratuita, en cualquiera de las dependencias y entidades de la administración pública estatal del Sistema Estatal de Salud, las vacunas contenidas en el Programa de Vacunación Universal, independientemente del régimen de seguridad social o protección social al que pertenezca, de conformidad con lo establecido en el Capítulo II Bis, del Título Octavo de la Ley General de Salud.
+
+### Capítulo III. Enfermedades No Transmisibles
 
 ###### Artículo 143.
 
@@ -1651,9 +1741,7 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la Secretaría Estatal les requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### Capítulo Único
-
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+### Capítulo IV. Accidentes
 
 ###### Artículo 146.
 
@@ -1683,7 +1771,9 @@ VI. La promoción de la participación de la comunidad en la prevención de acci
 
 ## Título Décimo. Asistencia Social, Prevención y Rehabilitación de Personas con Discapacidad
 
-### Capítulo I. Programa Contra el Alcoholismo
+### Capítulo Único
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Artículo 149.
 
@@ -1809,7 +1899,7 @@ La Secretaría Estatal, en coordinación con otras dependencias y entidades, pro
 
 ## Título Undécimo. Programas Permanentes de Salud
 
-### Capítulo II. Programa Contra el Tabaquismo
+### Capítulo I. Programa Contra el Alcoholismo
 
 ###### Artículo 163.
 
@@ -1839,9 +1929,7 @@ IV. Efectos del abuso en el consumo de bebidas alcohólicas, en los ámbitos fam
 
 La Secretaría Estatal vigilará el cumplimiento de las determinaciones normativas relativas a bebidas alcohólicas contenidas en la Ley General. Lo relativo a expendios de bebidas alcohólicas se sujetará a lo dispuesto en dicha Ley General, en esta Ley, en la Ley para el Funcionamiento, Expedición y Revalidación de Licencias y Permisos a Distribuidores y Comercializadores de Bebidas Alcohólicas del Estado de Campeche y en las demás disposiciones legales y reglamentarias aplicables.
 
-### Capítulo III. Programa Contra la Farmacodependencia
-
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+### Capítulo II. Programa Contra el Tabaquismo
 
 ###### Artículo 166.
 
@@ -1857,7 +1945,7 @@ Para poner en práctica las acciones contra el tabaquismo se seguirán los linea
 
 (DEROGADO, P.O. 23 DE JULIO DE 2010)
 
-### Capítulo IV. Del Consejo Estatal Contra las Adicciones
+### Capítulo III. Programa Contra la Farmacodependencia
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
@@ -1943,13 +2031,15 @@ Artículo 171 bis.- Cuando el centro o institución de salud reciba reporte de n
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2010)</small>
 
-### Capítulo V. Programa de Farmacovigilancia
+### Capítulo IV. Del Consejo Estatal Contra las Adicciones
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Artículo 172.
 
 El Consejo Estatal Contra las Adicciones es el órgano de consulta y asesoramiento del Ejecutivo Estatal en asuntos relacionados con el problema de adicciones, con el fin de promover y apoyar las acciones de los sectores público, social y privado que tiendan a prevenir y combatir los problemas de salud pública ocasionados por las adicciones, hacer propuestas y evaluaciones de los programas que se lleven a cabo en el Estado en los rubros de alcoholismo, tabaquismo y farmacodependencia. La integración, atribuciones y funcionamiento del Consejo se regirán por lo dispuesto en el Acuerdo de creación de dicho organismo y en las demás disposiciones jurídicas aplicables.
 
-### Capítulo VI. Programa Contra el Síndrome de Inmunodeficiencia Adquirida
+### Capítulo V. Programa de Farmacovigilancia
 
 ###### Artículo 173.
 
@@ -1975,7 +2065,7 @@ IX. Aplicar los procedimientos normalizados de operación y métodos de control 
 
 X. Establecer líneas de acciones que el personal médico debe considerar en la detección de reacciones adversas de los medicamentos y vacunas en la atención de pacientes.
 
-### Capítulo Único
+### Capítulo VI. Programa Contra el Síndrome de Inmunodeficiencia Adquirida
 
 ###### Artículo 174.
 
@@ -2077,7 +2167,7 @@ Título Decimocuarto
 
 Del Consejo Estatal de Trasplantes
 
-### Capítulo I. Disposiciones Generales
+### Capítulo Único
 
 ###### Artículo 181.
 
@@ -2113,7 +2203,7 @@ Título Decimoquinto
 
 Salubridad Local
 
-### Capítulo II. Agua Potable y Alcantarillado
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 186.
 
@@ -2179,7 +2269,7 @@ Todas las medidas sanitarias que deben guardarse en relación con mercados y cen
 
 La COPRISCAM, en coordinación con las autoridades que corresponda, realizará los operativos de saneamiento en los sitios o localidades que así lo ameriten.
 
-### Capítulo III. Venta de Alimentos en la Vía Pública
+### Capítulo II. Agua Potable y Alcantarillado
 
 ###### Artículo 189.
 
@@ -2221,7 +2311,7 @@ Queda terminantemente prohibido que los pozos artesianos que dejen de funcionar 
 
 La COPRISCAM, en coordinación con las autoridades federales, ejidales, comunales y las encargadas de la administración de los Distritos de Riego en el Estado, orientará a la población para evitar la contaminación, por plaguicidas, sustancias tóxicas y desperdicios o basura, de las aguas provenientes de ríos, lagos y lagunas, así como las pluviales o que emanen de cualesquiera otras fuentes, que se utilicen para riego o para uso doméstico.
 
-### Capítulo Único
+### Capítulo III. Venta de Alimentos en la Vía Pública
 
 ###### Artículo 199.
 
@@ -2323,7 +2413,7 @@ Título Decimoséptimo
 
 Vigilancia Sanitaria
 
-### Capítulo I. Medidas de Seguridad Sanitaria
+### Capítulo Único
 
 ###### Artículo 213.
 
@@ -2431,47 +2521,7 @@ Titulo Decimoctavo
 
 Medidas de Seguridad Sanitaria. De los Centros de Rehabilitación de Adicciones. Sanciones y Delitos
 
-### Capítulo I bis. De los Centros de Rehabilitación de Adicciones
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-Artículo 238 bis.- Que los sectores social y privado podrán prestar los servicios de tratamiento y rehabilitación de adictos, para lo cual deberán tramitar la autorización y el registro de funcionamiento de los centros ante la Secretaría de Salud, cumpliendo con la normatividad que al efecto emita.
-
-Los Centros de Rehabilitación de Adicciones, públicos y privados, deberán contar con personal profesional para la atención de las adicciones, reuniendo la capacidad necesaria para prestar los servicios de rehabilitación. La Secretaría expedirá la reglamentación que determine las características profesionales o técnicas que el personal de los centros debe reunir para cumplir con sus funciones.
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-Artículo 238 ter. Para operar un Centro de Rehabilitación de Adicciones en el Estado, independientemente de lo que prescriban la Ley General de Salud y la Norma Oficial Mexicana para la prevención, tratamiento y control de las adicciones deberán de cumplir con los siguientes requisitos:
-
-I. Contar con autorización de funcionamiento de la Secretaría;
-
-II. Coadyuvar con el personal de la Secretaría para verificar el cumplimiento de las disposiciones relativas contenidas en la presente Ley;
-
-III. Contar con un Coordinador y un Secretario Técnico acreditados ante la Secretaría;
-
-IV. Emitir los lineamientos y disposiciones del proceso de tratamiento y rehabilitación, mismos que serán registrados ante la Secretaría y ponerlos a disposición de los pacientes, sus familiares o representantes legales;
-
-V. Garantizar el respeto de la dignidad y de los derechos humanos fundamentales de los pacientes quedando prohibida cualquier forma de maltrato, mutilación, presión, abuso, engaño o robo que lesione la integridad física y patrimonial de los adictos.
-
-VI. Realizar las acciones necesarias para que la Secretaría practique visitas o inspecciones con el fin de verificar el cumplimiento de las disposiciones relativas contenidas en esta Ley o en los reglamentos respectivos;
-
-VII. Sujetarse, en su caso, a las visitas e inspecciones que la Secretaría realice para revisar el uso de los recursos públicos, subsidios o subvenciones que puedan ser entregados al Centro de Rehabilitación de Adicciones.
-
-Con respecto al ingreso de personas para otorgarles tratamiento o rehabilitación, el Secretario Técnico deberá:
-
-I. Efectuar una entrevista al solicitante a fin de determinar el grado de afección física y su personalidad;
-
-II. Efectuar una entrevista con los miembros de la familia para determinar las limitaciones del entorno que afecten al paciente y a la familia misma;
-
-III. Emitir un informe en el que se señalará la orientación terapéutica a seguir, el tratamiento necesario de acuerdo a las posibilidades de rehabilitación, así como seguimiento y revisión del mismo.
-
-IV. Para efectos de lograr la rehabilitación y reintegración del paciente, el tratamiento se basará en un enfoque multidisciplinario que consiste en una evaluación inicial que incluya exámenes de laboratorio y gabinete, terapias personales y grupales, terapias intrafamiliares; control del síndrome de abstinencia y del período de postramiento, ayuda para mantenerse sin droga o alcohol, atención de enfermedades físicas y mentales y cualquier otro tratamiento señalado por la Secretaría;
-
-V. La internación en los Centros de Rehabilitación de Adicciones deberá ser voluntaria sin mediar el miedo, dolo o engaño. El coordinador garantizará que el paciente manifieste su voluntad libre para llevar a cabo los procesos de rehabilitación.
-
-Los Centros de Rehabilitación de Adicciones de los sectores privado o social que vienen operando en el Estado, en tanto no cuenten con el personal profesional para la asistencia médica, el tratamiento psicológico y social, podrán seguir funcionando, pero deberán promover la participación de profesionistas mediante la prestación del servicio social o prácticas profesionales, previa celebración del convenio respectivo con las instituciones de educación superior.
-
-Los programas de tratamiento para la rehabilitación de los adictos, no deben contemplar acciones que atenten contra la dignidad y salud.
+### Capítulo I. Medidas de Seguridad Sanitaria
 
 ###### Artículo 226.
 
@@ -2575,11 +2625,51 @@ La desocupación o desalojo de casas, edificios, establecimientos y, en general,
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
+### Capítulo I bis. De los Centros de Rehabilitación de Adicciones
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Artículo 238 bis.- Que los sectores social y privado podrán prestar los servicios de tratamiento y rehabilitación de adictos, para lo cual deberán tramitar la autorización y el registro de funcionamiento de los centros ante la Secretaría de Salud, cumpliendo con la normatividad que al efecto emita.
+
+Los Centros de Rehabilitación de Adicciones, públicos y privados, deberán contar con personal profesional para la atención de las adicciones, reuniendo la capacidad necesaria para prestar los servicios de rehabilitación. La Secretaría expedirá la reglamentación que determine las características profesionales o técnicas que el personal de los centros debe reunir para cumplir con sus funciones.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+
+Artículo 238 ter. Para operar un Centro de Rehabilitación de Adicciones en el Estado, independientemente de lo que prescriban la Ley General de Salud y la Norma Oficial Mexicana para la prevención, tratamiento y control de las adicciones deberán de cumplir con los siguientes requisitos:
+
+I. Contar con autorización de funcionamiento de la Secretaría;
+
+II. Coadyuvar con el personal de la Secretaría para verificar el cumplimiento de las disposiciones relativas contenidas en la presente Ley;
+
+III. Contar con un Coordinador y un Secretario Técnico acreditados ante la Secretaría;
+
+IV. Emitir los lineamientos y disposiciones del proceso de tratamiento y rehabilitación, mismos que serán registrados ante la Secretaría y ponerlos a disposición de los pacientes, sus familiares o representantes legales;
+
+V. Garantizar el respeto de la dignidad y de los derechos humanos fundamentales de los pacientes quedando prohibida cualquier forma de maltrato, mutilación, presión, abuso, engaño o robo que lesione la integridad física y patrimonial de los adictos.
+
+VI. Realizar las acciones necesarias para que la Secretaría practique visitas o inspecciones con el fin de verificar el cumplimiento de las disposiciones relativas contenidas en esta Ley o en los reglamentos respectivos;
+
+VII. Sujetarse, en su caso, a las visitas e inspecciones que la Secretaría realice para revisar el uso de los recursos públicos, subsidios o subvenciones que puedan ser entregados al Centro de Rehabilitación de Adicciones.
+
+Con respecto al ingreso de personas para otorgarles tratamiento o rehabilitación, el Secretario Técnico deberá:
+
+I. Efectuar una entrevista al solicitante a fin de determinar el grado de afección física y su personalidad;
+
+II. Efectuar una entrevista con los miembros de la familia para determinar las limitaciones del entorno que afecten al paciente y a la familia misma;
+
+III. Emitir un informe en el que se señalará la orientación terapéutica a seguir, el tratamiento necesario de acuerdo a las posibilidades de rehabilitación, así como seguimiento y revisión del mismo.
+
+IV. Para efectos de lograr la rehabilitación y reintegración del paciente, el tratamiento se basará en un enfoque multidisciplinario que consiste en una evaluación inicial que incluya exámenes de laboratorio y gabinete, terapias personales y grupales, terapias intrafamiliares; control del síndrome de abstinencia y del período de postramiento, ayuda para mantenerse sin droga o alcohol, atención de enfermedades físicas y mentales y cualquier otro tratamiento señalado por la Secretaría;
+
+V. La internación en los Centros de Rehabilitación de Adicciones deberá ser voluntaria sin mediar el miedo, dolo o engaño. El coordinador garantizará que el paciente manifieste su voluntad libre para llevar a cabo los procesos de rehabilitación.
+
+Los Centros de Rehabilitación de Adicciones de los sectores privado o social que vienen operando en el Estado, en tanto no cuenten con el personal profesional para la asistencia médica, el tratamiento psicológico y social, podrán seguir funcionando, pero deberán promover la participación de profesionistas mediante la prestación del servicio social o prácticas profesionales, previa celebración del convenio respectivo con las instituciones de educación superior.
+
+Los programas de tratamiento para la rehabilitación de los adictos, no deben contemplar acciones que atenten contra la dignidad y salud.
+
 ### Capítulo II. Sanciones Administrativas
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-### Capítulo III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### Artículo 239.
 
@@ -2681,9 +2771,7 @@ II. A la persona que en rebeldía se niegue a cumplir los requerimientos y dispo
 
 Solo procederá esta sanción, si previamente se dictó cualquiera otra de las sanciones a que se refiere este Capítulo. Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### Capítulo IV. Del Procedimiento Administrativo
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+### Capítulo III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### Artículo 251.
 
@@ -2759,13 +2847,15 @@ En los casos de suspensión de trabajos o de servicios, o de clausura temporal o
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria formulará la denuncia correspondiente ante el Ministerio Público que corresponda, sin perjuicio de la aplicación de la sanción administrativa correspondiente.
 
-### Capítulo V. Prescripción
+### Capítulo IV. Del Procedimiento Administrativo
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 261.
 
 El procedimiento administrativo ante la Secretaría Estatal y sus órganos desconcentrados se substanciará y resolverá con arreglo a los términos y condiciones que señala la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche. A falta de disposición expresa y en cuanto no se oponga a lo que prescribe esta Ley, se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado.
 
-### Capítulo VI. Delitos
+### Capítulo V. Prescripción
 
 ###### Artículo 262.
 
@@ -2784,6 +2874,8 @@ Cuando el presunto infractor impugnare los actos de la autoridad sanitaria compe
 Los interesados podrán hacer valer la prescripción por vía de excepción.
 
 La autoridad deberá declararla de oficio.
+
+### Capítulo VI. Delitos
 
 ###### Artículo 266.
 
@@ -3202,3 +3294,21 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Salud en un plazo de 180 días naturales deberá realizar las adecuaciones a la reglamentación correspondiente.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 8 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 239 POR EL QUE “SE ADICIONAN UN CAPÍTULO VIII DENOMINADO “SALUD BUCODENTAL” CON LOS ARTÍCULOS 72 BIS, 72 TER, 72 QUATER, 72 QUINQUIES, 72 SEXIES, 72 SEPTIES, 72 OCTIES, 72 NONIES Y 72 DECIES, AL TÍTULO TERCERO DENOMINADO “PRESTACIÓN DE LOS SERVICIOS DE SALUD” DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Salud del Estado de Campeche, en coordinación con la Secretaría de Educación del Estado y demás autoridades competentes, realizará las acciones administrativas y de coordinación institucional necesarias para la implementación progresiva de las disposiciones previstas en el presente decreto.
+
+TERCERO.- Las acciones, programas, estrategias y mecanismos previstos en el presente decreto se sujetarán a la disponibilidad presupuestal; no obstante, el Poder Ejecutivo, por conducto de la Secretaría de Administración, Finanzas y Planeación, de la Secretaría de Salud, de la Secretaría de Educación, y demás instituciones competentes, deberán prever en el ejercicio fiscal inmediato las previsiones correspondientes para la implementación progresiva, gradual y conforme a las capacidades operativas.
+
+CUARTO.- La Secretaría de Salud del Estado, deberá emitir o adecuar, en un plazo de 180 días naturales contados a partir de la entrada en vigor del presente decreto, los lineamientos, criterios técnicos y mecanismos de coordinación necesarios para la adecuada implementación de las disposiciones contenidas en el Capítulo VIII denominado “Salud Bucodental”.
+
+QUINTO.- La Comisión Interinstitucional de Salud Bucodental a que hace referencia el artículo 72 Ter deberá instalarse dentro de un plazo de 90 días naturales posteriores a la emisión de los lineamientos, criterios técnicos, así como de las disposiciones reglamentarias conducentes.
+
+SEXTO.- Las dependencias y entidades de la Administración Pública Estatal y Municipal, en el ámbito de sus respectivas competencias, podrán celebrar convenios de coordinación y colaboración con autoridades federales, instituciones educativas, organismos públicos, sectores social y privado, así como colegios de profesionistas, para fortalecer las acciones previstas en el presente decreto.
+
+SÉPTIMO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco normativo local que se opongan al presente decreto.
