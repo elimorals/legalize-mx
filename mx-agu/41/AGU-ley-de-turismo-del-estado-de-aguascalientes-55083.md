@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-turismo-del-estado-de-aguascalientes-55083"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-16"
-last_updated: "2025-12-15"
+last_updated: "2026-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de abril de 2007.
 
@@ -755,13 +755,21 @@ Además recomendarán y procurarán que los sectores social y privado participen
 
 El turismo enológico es la actividad turística en donde se promueve la exposición y degustación de vinos del Estado con fines de concurso, competencia, así como la realización de actividades culturales orientadas al conocimiento de la elaboración del vino, desde la siembra de la semilla de la vid, hasta su embotellado.
 
-### CAPITULO I. De la Planificación de la Actividad Turística
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+### CAPITULO IX. Del Turismo Rural y Comunitario
+
+> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2026)</small>
+
+###### Artículo 48 Ter.
+
+El turismo rural y comunitario es aquel que tiene como finalidad realizar actividades de convivencia e interacción con una comunidad rural, en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma, con el compromiso del pleno respeto de los usos y costumbres de la comunidad así como de la conservación de los recursos naturales y culturales que promuevan la generación de ingresos adicionales a la economía rural y a la conservación del hábitat natural.
+
+La Secretaría impulsará y promoverá el turismo rural y comunitario de cada Municipio, en coordinación con las dependencias y entidades de la administración pública del Estado, los ayuntamientos y las comunidades rurales, otorgando facilidades a éstas para el establecimiento de proyectos turísticos rurales sustentables.
 
 ## TITULO CUARTO. DE LA PLANIFICACION, DESARROLLO Y FOMENTO DEL TURISMO
 
-### CAPITULO II. De la Promoción y Fomento a la Actividad Turística
+### CAPITULO I. De la Planificación de la Actividad Turística
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -807,7 +815,9 @@ La Secretaría, a efecto de establecer una adecuada organización a nivel estata
 
 La Secretaría y el Buró participarán y coadyuvarán, en el ámbito de sus competencias, en los esfuerzos que realicen los gobiernos municipales, así como los sectores social y privado, dentro del proceso integral de planeación turística de cada ayuntamiento.
 
-### CAPITULO III. Del Sistema Estatal de Información Turística
+### CAPITULO II. De la Promoción y Fomento a la Actividad Turística
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 57.
 
@@ -927,7 +937,7 @@ IX. Proponer la celebración de convenios en materia cinematográfica, e interve
 
 La Secretaría, promoverá la creación de un Consejo Consultivo Cinematográfico, integrado por la administración pública estatal y municipal y el sector social y privado de la localidad, involucrados en la actividad turística. El cual funcionará en los términos del Reglamento respectivo.
 
-### CAPITULO IV. Del Registro Estatal de Turismo
+### CAPITULO III. Del Sistema Estatal de Información Turística
 
 ###### Artículo 77.
 
@@ -959,7 +969,7 @@ Para efectos del artículo anterior, la Secretaría deberá integrar, analizar, 
 
 La Secretaría evaluará periódicamente la actividad turística, para analizar las necesidades turísticas, la oferta y la demanda, así como la calidad de los servicios turísticos que se presenten en la Entidad.
 
-### CAPITULO V. De la Capacitación en Materia de Turismo
+### CAPITULO IV. Del Registro Estatal de Turismo
 
 ###### Artículo 81.
 
@@ -981,7 +991,7 @@ V. La demás información que el prestador estime necesaria para fines de difusi
 
 La información contenida en el Registro Estatal, será turnada a la Secretaría de Turismo del Gobierno Federal, para mantener actualizado el Registro Nacional de Turismo, así como a las autoridades estatales en materia de turismo.
 
-### CAPITULO I. De la Inspección y Vigilancia
+### CAPITULO V. De la Capacitación en Materia de Turismo
 
 ###### Artículo 83.
 
@@ -1017,9 +1027,7 @@ X. Las demás que sean necesarias para la formación de recursos humanos que req
 
 ## TITULO QUINTO. DE LA INSPECCION, VIGILANCIA Y REGIMEN SANCIONADOR
 
-### CAPITULO II. De las Sanciones
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2021)</small>
+### CAPITULO I. De la Inspección y Vigilancia
 
 ###### Artículo 86.
 
@@ -1035,7 +1043,9 @@ En el caso de una infracción que no sea de su competencia, la Secretaría lo co
 
 La Secretaría, en el marco de los convenios de coordinación que al efecto celebre con las autoridades federales, tendrá la facultad de realizar visitas de verificación a los prestadores de servicios turísticos con objeto de constatar el cumplimiento de las disposiciones contenidas en las Normas Oficiales Mexicanas que tengan impacto en la actividad turística, con el objeto de garantizar la calidad de los servicios turísticos y la seguridad e integridad física de los turistas, de los empleados de las empresas turísticas y de los propios prestadores de servicios turísticos.
 
-### CAPITULO III. De las Impugnaciones
+### CAPITULO II. De las Sanciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2021)</small>
 
 ###### Artículo 89.
 
@@ -1064,6 +1074,8 @@ III. Las infracciones a lo establecido por el Artículo 42, se impondrá una mul
 ###### Artículo 91.
 
 Para la verificación y la aplicación de las sanciones a que se refiere el presente Capítulo, la Secretaría se sujetará a lo previsto por la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+
+### CAPITULO III. De las Impugnaciones
 
 ###### Artículo 92.
 
@@ -1232,3 +1244,15 @@ P.O. 15 DE DICIEMBRE DE 2025.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 507.- SE ADICIONAN DISPOSICIONES A LA LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
