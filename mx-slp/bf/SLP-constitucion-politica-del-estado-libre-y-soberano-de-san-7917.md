@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2026-06-03"
+last_updated: "2026-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2026.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -340,6 +340,26 @@ El agua es un bien del dominio público, inalienable, inembargable, irrenunciabl
 El Estado deberá asegurar el acceso y disfrute al mínimo vital de agua potable, por lo que bajo ninguna circunstancia podrá restringirse de manera total el servicio de agua potable para uso doméstico, debiendo garantizar los recursos hídricos necesarios para evitar el hambre y las enfermedades.
 
 El Estado Libre y Soberano de San Luis Potosí, no solo reconoce su obligación de garantizar el derecho a la salud, a la alimentación suficiente y de calidad, a la vivienda digna y decorosa, a la protección del patrimonio familiar, el acceso al agua, sino también la de garantizar a través de programas sociales establecidos en la ley, el acceso gratuito de estudiantes al transporte público, atención médica gratuita a la población, y la entrega de apoyos económicos, alimentarios, pensiones, y subsidios a personas en condición de pobreza.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 12 BIS.- En el estado de San Luis Potosí, toda persona tiene el derecho al cuidado, entendido como todas las actividades que regeneran diaria y generacionalmente el bienestar físico y emocional de las personas, abarcando las tareas cotidianas de gestión y sostenimiento de la vida, como el mantenimiento de los hogares, el cuidado de los miembros de la familia, la educación de hijas e hijos y el propio autocuidado.
+
+El derecho al cuidado incluye el reconocimiento del derecho a recibir cuidados, a cuidar y al autocuidado, así como al reconocimiento del valor del trabajo de cuidados y la garantía de los derechos de personas que proveen cuidados, independientemente de su situación de vulnerabilidad o que requieran de cuidados especiales, ayudas técnicas o apoyos humanos, sobre la base de los principios de igualdad, universalidad, progresividad y no regresividad y corresponsabilidad social y de género.
+
+Esto se realizará bajo un diseño de derechos humanos y perspectiva interseccional, con especial enfoque en niños y niñas, adolescentes, adultos mayores, poblaciones LGBTQ+, personas con discapacidad, vulnerabilidad y personas que requieran de cuidados especiales, ayuda técnica o apoyos humanos, fomentando el adecuado ejercicio de los derechos de las personas cuidadoras de éstas en el núcleo familiar, en lo público y privado.
+
+Se debe garantizar el derecho al cuidado digno con base en diseño universal, ajustes razonables, accesibilidad, pertinencia, suficiencia y calidad, y bajo los principios de igualdad, universalidad, progresividad y no regresividad y corresponsabilidad social y de género.
+
+Por servicios de cuidados se deberá entender, como todas aquellas actividades y relaciones requeridas para atender las necesidades físicas, psicológicas y emocionales de todas las personas, especialmente de personas adultas mayores, poblaciones LGBTQ+, personas con discapacidad y con enfermedad, niños, niñas y adolescentes.
+
+El Estado de San Luis Potosí, garantizará el derecho al cuidado a través de un Sistema Estatal de Cuidados, bajo los principios previstos en el párrafo anterior. Esto se realizará bajo un diseño de derechos humanos y perspectiva interseccional, con especial enfoque en niños y niñas, adolescentes, adultos mayores, poblaciones LGBTQ+, personas con discapacidad, vulnerabilidad y personas que requieran de cuidados especiales, ayuda técnica o apoyos humanos, fomentando el adecuado ejercicio de los derechos de las personas cuidadoras de éstas en el núcleo familiar, en lo público y privado.
+
+El Sistema Estatal de Cuidados tendrá como finalidad la creación y ampliación de servicios de cuidados, regulando los servicios públicos y privados de cuidados, remunerados y no remunerados, así como la regulación de las condiciones laborales de las personas trabajadoras de cuidados y su formación, capacitación y profesionalización. Asimismo, dicho sistema deberá generar y gestionar información actualizada y datos abiertos sobre la materia que permitan medir el impacto de las políticas de cuidados que el Sistema implemente, así como definir la política en la materia.
+
+La Ley establecerá la corresponsabilidad entre el Estado y los municipios, así como entre los sectores públicos, privados y sociales, señalando las atribuciones respectivas.
+
+El Sistema Estatal de Cuidados deberá contar con financiamiento público, mediante la asignación de partidas presupuestarias específicas para sus fines, mismo que deberá incrementarse de forma progresiva y anual, en una proporción no inferior a la tasa de inflación. Dicho financiamiento no podrá, bajo ninguna circunstancia, ser reducido o recortado durante el ejercicio fiscal correspondiente.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2595,17 +2615,21 @@ Para efecto de lo dispuesto en los párrafos anteriores de este artículo, si el
 
 Las ausencias temporales del Fiscal General se suplirán en los términos que determine la ley.
 
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2026)</small>
 
-ARTÍCULO 122 TER. Corresponde al Ministerio Público la investigación y la persecución ante los tribunales, de todos los delitos del fuero común; para ello contará con facultades para solicitar las medidas cautelares contra los imputados; buscar y presentar las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
+ARTÍCULO 122 TER. La investigación de todos los delitos del fuero común corresponde al Ministerio Público, a la Secretaría de Seguridad y Protección Ciudadana, a la Guardia Civil Estatal, y a las policías municipales, a cada una en el ámbito de sus competencias. La actuación de dichas instituciones y corporaciones en materia de investigación se realizará bajo la conducción y mando del Ministerio Público, en el ejercicio de sus funciones. La persecución de los delitos del fuero común ante los tribunales, corresponde exclusivamente al Ministerio Público, y tanto para ello como para las funciones de investigación, contará con facultades para solicitar las medidas cautelares contra los imputados; buscar y presentar las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2017)</small>
 
 La Fiscalía General contará, al menos, con las fiscalías especializadas en delitos relacionados con hechos de corrupción, y en materia de delitos electorales; los titulares de las mismas serán electos y removidos en los mismos términos que para el caso del Fiscal General del Estado; los titulares de las demás fiscalías, así como los servidores públicos de esa institución, serán designados y removidos por el Fiscal General en los términos que la ley determine.
 
-La ley establecerá un servicio profesional de carrera que reglamente las bases para el ingreso, permanencia, ascensos, formación, profesionalización, y actualización de los servidores públicos de la Fiscalía, regido por los principios de, legalidad, objetividad, eficiencia, mérito, profesionalismo, honradez y respeto a los derechos humanos
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+La Ley en la materia establecerá un Servicio Profesional de Carrera que reglamente las bases para el ingreso, permanencia, ascensos, formación, profesionalización, y actualización de los servidores públicos de la Fiscalía, el cual estará regido por los principios de, legalidad, objetividad, eficiencia, mérito, profesionalismo, honradez, y respeto a los derechos humanos.
 
-El Fiscal General presentaraì (sic) a los poderes, Legislativo; y Ejecutivo, un informe escrito de sus actividades, la primera quincena del mes de noviembre de cada año; con excepción del último año de su periodo constitucional, en cuyo caso deberá hacerlo la primera quincena del mes de octubre; y, en su caso, compareceráì (sic) personalmente al Congreso del Estado a la glosa del mismo, en un plazo no mayor a treinta días posteriores a la entrega del informe escrito.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2026)</small>
+
+El Fiscal General presentará a los poderes, Legislativo; y Ejecutivo, un informe escrito de sus actividades, la primera quincena del mes de noviembre de cada año; con excepción del último año de su periodo constitucional, en cuyo caso deberá hacerlo la primera quincena del mes de octubre y, en su caso, comparecerá personalmente ante el Congreso del Estado a la glosa de este, dentro de los treinta días posteriores a la entrega del informe escrito.
 
 (REUBICADO [N. DE E. ANTES TÍTULO DECIMOPRIMERO], P.O. 2 DE OCTUBRE DE 2017)
 
@@ -4300,3 +4324,59 @@ TERCERO. El Congreso del Estado deberá realizar las adecuaciones a la legislaci
 CUARTO. Las reformas al párrafo tercero de la fracción XIII del artículo 47 y 114, de esta Constitución, respecto de la prohibición de nepotismo electoral de las personas candidatas a una diputación y ayuntamientos, será aplicable a partir del proceso electoral a celebrarse en 2030.
 
 QUINTO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 9 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0551.- QUE ADICIONA EL ARTÍCULO 12 BIS, A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE PERSONAS CUIDADORAS”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el en el (sic) Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, el Congreso del Estado de San Luis Potosí contará con un plazo de 180 días posteriores a la publicación del presente Decreto para expedir la Ley en materia de Sistema Estatal de Cuidados, así como las adecuaciones normativas correspondientes con la finalidad de dar cumplimiento en la materia.
+
+TERCERO. Una vez publicado el presente decreto en el Periódico Oficial del Estado “Plan de San Luis”, la Secretaría de Finanzas, deberá considerar los recursos necesarios para la implementación de trabajos de cuidados en el proyecto de Presupuesto de Egresos inmediato posterior. Dicho presupuesto no podrá tener recortes o disminución en el ejercicio fiscal que se trate.
+
+CUARTO. A la entrada en vigor del presente Decreto se deberá implementar el Sistema Estatal de Cuidados en un plazo de 180 días naturales, teniendo la obligación de generar información actualizada y datos en la materia a efecto de contar con elementos mínimos que permitan definir la política pública en materia de cuidados, así como evaluar su impacto en las poblaciones objetivo y sujetos de derecho; la información y datos generados deberá ser pública y en formato de datos abiertos y considerando lo siguiente:
+
+a) Reconocer y garantizar el derecho a los cuidados de todas las personas en donde se deberán observarán (sic) en la elaboración y ejecución de las políticas públicas basadas en el respeto y dignidad de las personas, igualdad sustantiva, no discriminación, interculturalidad y autonomía. Asimismo, se velará por la transformación generacional de la división de géneros o en el rol del trabajo que dispone una carga desproporcionada del trabajo de cuidados para niños y niñas, adolescentes, mujeres, poblaciones LGBTQ+, personas con discapacidad y desigualdades estructurales relacionadas a la pobreza, la marginación y la desigualdad, o de quienes sufren alguna situación de violencia de género en todas sus expresiones.
+
+b) Se establecerán las reglas, convenios o el registro de las personas usuarias del Sistema Estatal de Cuidados, de las personas capacitadas y especializadas en materia de cuidados, así como de las entidades que realizan las capacitaciones.
+
+QUINTO. El Estado deberá garantizar la implementación de Sistema Estatal de Cuidados, que garantice especialmente el cuidado de las niñas, niños y adolescentes, debiendo establecer modalidades de servicios de educación de tiempo extendido que además provean servicios de cuidado básicos tales como alimentación gratuita en todo el territorio estatal.
+
+SEXTO. En tanto se implementa el Sistema Estatal de Cuidados, la Secretaría del Trabajo y Previsión Social, deberá adoptar mecanismos en conjunto con el sector público y privado para garantizar la flexibilidad laboral y la corresponsabilidad en los cuidados, debiendo los empleadores, tanto del sector público como privado, garantizar permisos y licencias de maternidad, paternidad y en general para prestar cuidados, con goce de sueldo de las personas trabajadoras.
+
+SÉPTIMO. El estado y los municipios en la provisión de los servicios de cuidado deberán contar con un órgano rector del Sistema local de Cuidados a cargo de la Secretaría de Desarrollo Social y Regional. Dicho Órgano tendrá la facultad de implementar las políticas, principios, Normas, procedimientos, estrategias, programas, profesionalización, servicios, técnicas e instrumentos para el cumplimiento del presente Decreto, el cual determinará cuando menos lo siguiente:
+
+a) Establecerá la participación y la coordinación de las Secretarías de Desarrollo Social y Regional, Finanzas, Salud, Educación y Mujeres;
+
+b) La integración del Órgano del Sistema Estatal de Cuidados como las personas que deban de integrarlo y que cuenten con la experiencia en materia de cuidados para garantizar las condiciones operativas, técnicas y presupuestarias en el ámbito de sus atribuciones legales. Dicho Órgano contará con una o un Secretario Técnico nombrado por la Secretaría de Desarrollo Social y Regional;
+
+c) Crear los mecanismos e instrumentos que permitan dar seguimiento, monitoreo y evaluación cuantitativa y cualitativamente de los resultados de las políticas, programas y servicios, que serán a cargo del Órgano del Sistema Estatal de Cuidados;
+
+d) Se deberá impulsar, diseñar e implementar políticas públicas, proyectos y programas municipales tendientes a garantizar el derecho de toda persona a cuidar, ser cuidada y al autocuidado, así como los derechos de las personas en situación de dependencia de cuidados y las personas cuidadoras;
+
+e) Un diagnóstico y análisis detallado de la situación actual de los trabajos de cuidados;
+
+f) Un plan de acción detallado para la articulación e implementación del sistema, el cual incluirá los roles y las responsabilidades de los diferentes sectores involucrados;
+
+g) Coadyuvar en el diseño de la política pública municipal en materia de cuidados;
+
+h) Las estrategias de colaboración y coordinación entre los diferentes sectores para la implementación y promoción del Sistema Estatal de Cuidados, y
+
+OCTAVO. Las autoridades en el ámbito de sus facultades y competencias, deberán reformar la Legislación y los Reglamentos, de manera enunciativa en materia laboral, de movilidad, salud, educación y seguridad social, así como implementar acciones a efecto de armonizar y garantizar el derecho al cuidado de manera transversal, en tanto se implementa el Sistema Estatal de Cuidados, en un plazo de 180 días naturales a la entrada en vigor del presente Decreto.
+
+NOVENO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 9 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0552.- QUE REFORMA EL ARTÍCULO 122 TER, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE SEGURIDAD PÚBLICA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Las autoridades estatales y municipales, en el ámbito de su competencia, deberán realizar las adecuaciones normativas para armonizarlas con el presente Decreto, dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto.
+
+TERCERO. Las facultades de investigación que se otorgan a la Secretaría de Seguridad y Protección Ciudadana y a la Guardia Civil Estatal, serán ejercidas a partir del primero de enero de dos mil veintisiete.
+
+CUARTO. Las facultades de investigación que se otorgan a las policías municipales, serán ejercidas a partir del primero de enero de dos mil veintiocho.
+
+QUINTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
