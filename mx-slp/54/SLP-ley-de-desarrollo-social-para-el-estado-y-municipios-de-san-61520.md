@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2026-05-08"
+last_updated: "2026-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -156,6 +156,10 @@ XI. Marginación: la exclusión de los grupos sociales del proceso de desarrollo
 XII. Padrón de beneficiarios: la relación oficial de los beneficiarios que incluye a las personas atendidas por los programas sociales de los diversos órdenes de gobierno, cuyo perfil socioeconómico se establece en la normatividad correspondiente;
 
 XIII. Personas en situación de vulnerabilidad: los núcleos de población que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación y, por lo tanto, requieren de la atención de los sectores público, privado y social para disminuir sus desventajas;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2026)</small>
+
+XIII Bis. Una visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; que se plantea la equidad de género en el diseño y ejecución de las políticas públicas de desarrollo social;
 
 XIV. Pobreza: la situación que padecen las personas, familias y comunidades que carecen de lo necesario para su sustento, por su reducida capacidad de ingreso o por la falta de desarrollo de sus capacidades;
 
@@ -685,9 +689,11 @@ El registro otorgará reconocimiento formal, prioridad en el ejercicio del gasto
 
 La Secretaría de Desarrollo Social del Estado establecerá los lineamientos técnicos para dicho registro y evaluación, en coordinación con los ayuntamientos interesados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2026)</small>
+
 ###### ARTICULO 33.
 
-Las acciones del Sistema Estatal, y las de los municipios, en las localidades de atención prioritaria, tendrán como objeto:
+Las acciones del Sistema Estatal, y las de los municipios, en las localidades de atención prioritaria, en concordancia con la Ley General de Desarrollo Social y con la Política Nacional de Desarrollo Social, tendrán como objeto:
 
 I. Lograr una mejor calidad y expectativas de vida personal, familiar y social, a través de acciones socioeducativas, proyectos productivos, fomento de la participación comunitaria y corresponsabilidad social, que permitan crear conciencia de la dignidad humana;
 
@@ -776,6 +782,12 @@ La Secretaría Ejecutiva instrumentará los mecanismos para la participación e 
 ###### ARTICULO 43.
 
 Los ayuntamientos establecerán mecanismos propios para incluir la participación de los beneficiarios y de la sociedad, en las acciones y programas sociales que contemple su programa de desarrollo social municipal, conforme a lo establecido en esta Ley.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2026)</small>
+
+###### ARTICULO 43 Bis.
+
+Con la finalidad de impulsar el combate a la pobreza y la desigualdad social los ayuntamientos podrán celebrar convenios de colaboración con el Instituto de Capacitación para el Trabajo del Estado, a fin de diseñar e implementar programas de capacitación con perspectiva de género, garantizando así la participación e integración de las mujeres en el mercado laboral a través de la enseñanza de oficios productivos asegurando una mejor calidad y expectativas de vida personal, familiar, social y laboral.
 
 ### CAPITULO II. De la Contraloría Social
 
@@ -1086,3 +1098,11 @@ P.O. 8 DE MAYO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal, o los subsecuentes.
+
+P.O. 9 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0550.- QUE REFORMA EL ARTÍCULO 33; REALIZA ADICIÓN AL ARTÍCULO 6° Y EL ARTÍCULO 43 BIS, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
