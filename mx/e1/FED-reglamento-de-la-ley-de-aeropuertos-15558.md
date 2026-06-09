@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-aeropuertos-15558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-17"
-last_updated: "2025-08-29"
+last_updated: "2026-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15558&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-02-15"
 
 REGLAMENTO DE LA LEY DE AEROPUERTOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JUNIO DE 2026.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 17 de febrero de 2000.
 
@@ -987,25 +987,57 @@ La Secretaría escuchará la opinión del comandante de aeródromo, así como la
 
 Para efectos del artículo 63 de la Ley, se entiende por horario de aterrizaje y despegue el asignado por la administradora aeroportuaria a una persona transportista u operadora aérea para la organización y planeación de los vuelos en el aeródromo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JUNIO DE 2026)</small>
+
 ###### Artículo 94.
 
-En cada aeródromo la Secretaría determinará, conforme a las normas básicas de seguridad que emita, el número de aterrizajes y despegues que pueden ser atendidos en cada hora, para lo cual considerará la capacidad de operación del aeródromo, criterios de seguridad y eficiencia de acuerdo con la capacidad de las aeronaves y su programación de vuelos, así como las recomendaciones del comité de operación y horarios. En todo momento se deberán respetar las limitaciones del espacio aéreo que determine el prestador de los servicios a la navegación aérea.
+En cada aeródromo le corresponde a la Secretaría determinar, conforme a las normas básicas de seguridad que emita, el número de aterrizajes y despegues que pueden ser atendidos en cada hora, para lo cual debe considerar la capacidad de operación del aeródromo, criterios de seguridad y eficiencia de acuerdo con la capacidad de las aeronaves y su programación de vuelos, así como las recomendaciones del comité de operación y horarios. En todo momento se debe respetar las limitaciones del espacio aéreo que determine la persona prestadora de los servicios a la navegación aérea.
 
 > <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2025)</small>
 
 La información relativa al número de aterrizajes y despegues que pueden ser atendidos en cada hora y la motivación correspondiente, así como los horarios asignados en los términos de este capítulo deben estar a disposición del público en las oficinas de la administradora aeroportuaria.
 
-La capacidad de operación de un aeródromo se medirá con base en el número máximo de operaciones por hora que puede atender en sus instalaciones en campo aéreo, esto es, pistas, calles de rodaje y plataformas, así como, con base en el número máximo de pasajeros por hora que pueden ser atendidos en el edificio terminal. Lo anterior de conformidad con los estándares de servicio que la Secretaría determine en la concesión o permiso respectivo.
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2026)</small>
+
+La capacidad de operación de un aeródromo se debe medir con base en el número máximo de operaciones por hora que puede atender en sus instalaciones en campo aéreo, esto es, pistas, calles de rodaje y plataformas, así como por el número máximo de personas pasajeras por hora que pueden ser atendidas en el edificio terminal. Lo anterior de conformidad con los estándares de servicio que la Secretaría determine en la concesión, asignación o permiso respectivo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 9 DE JUNIO DE 2026)</small>
+
+Para efectos del párrafo anterior, la Secretaría puede clasificar a los aeródromos civiles de servicio al público de transporte aéreo regular nacional e internacional conforme a su capacidad de operación y grado de saturación, así como a estándares internacionales, en alguno de los siguientes niveles:
+
+I. Aeródromo No Saturado Nivel 1: Cuando la capacidad de operación resulta suficiente para atender la demanda de operaciones aéreas de las personas transportistas aéreas, así como de las personas operadoras aéreas, el cual debe contar con infraestructura adecuada para atender los incrementos ordinarios de la demanda, sin que se presenten condiciones de saturación operativa;
+
+II. Aeródromo con Potencial de Saturación Nivel 2: Cuando la capacidad de operación presenta un riesgo potencial de saturación, el cual puede prevenirse mediante ajustes de horarios de aterrizaje y despegue acordados entre la persona administradora aeroportuaria y las personas transportistas aéreas, así como mediante la implementación de acciones de desarrollo, ampliación, o mejora de la infraestructura destinadas a incrementar su capacidad de operación, y
+
+III. Aeródromo en Condiciones de Saturación Nivel 3: Cuando por sus características operativas haya sido declarado en condiciones de saturación, en términos del artículo 100 del presente reglamento.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JUNIO DE 2026)</small>
+
+La Secretaría, a través de la Agencia Federal de Aviación Civil, determinará la clasificación aplicable a cada aeródromo civil de servicio al público de transporte aéreo regular nacional e internacional y la actualizará conforme a la evolución de su capacidad de operación, al comportamiento estadístico de la demanda de operaciones aéreas y a las condiciones determinadas por la persona prestadora de los servicios a la navegación aérea.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JUNIO DE 2026)</small>
 
 ###### Artículo 95.
 
-El administrador aeroportuario asignará los horarios de aterrizaje y despegue de las aeronaves y las prioridades de turno de las mismas, considerando las recomendaciones del comité de operación y horarios, atendiendo a:
+La persona administradora aeroportuaria debe asignar los horarios de aterrizaje y despegue de las aeronaves y las prioridades de turno de estas, considerando las recomendaciones del comité de operación y horarios, con base en:
 
 I. Criterios de eficiencia y seguridad, así como de acuerdo con las prioridades siguientes:
 
-a) Tendrán prioridad los vuelos en el orden siguiente: i) regulares de pasajeros, ii) de transporte aéreo no regular bajo la modalidad de fletamiento para pasajeros, iii) regulares de carga, y iv) de transporte aéreo no regular bajo la modalidad de fletamento de carga;
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2026)</small>
 
-b) Tendrá prioridad sobre un horario el transportista aéreo que lo ocupó en el periodo anterior;
+a) Tienen prioridad los vuelos en el orden siguiente:
+
+1. Regulares de personas pasajeras;
+
+2. De transporte aéreo no regular bajo la modalidad de fletamento de personas pasajeras;
+
+3. Regulares de carga, y
+
+4. De transporte aéreo no regular bajo la modalidad de fletamento de carga, y
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2026)</small>
+
+b) Tiene prioridad sobre un horario la persona transportista aérea que lo ocupó en el periodo anterior;
 
 II. El horario de operación del aeródromo;
 
@@ -1017,15 +1049,21 @@ V. La disponibilidad de horarios sin utilizar, y
 
 VI. Cumplimiento de los requisitos para el trámite de la solicitud de horarios.
 
+> <small>(ADICIONADO, D.O.F. 9 DE JUNIO DE 2026)</small>
+
+En los aeródromos civiles de servicio al público de transporte aéreo regular nacional e internacional que la Secretaría clasifique con Potencial de Saturación Nivel 2 o en Condiciones de Saturación Nivel 3, la persona administradora aeroportuaria debe sujetarse a las bases generales para la asignación de horarios de aterrizaje y despegue y las prioridades de turno de las aeronaves en los aeródromos civiles declarados en condiciones de saturación y demás disposiciones técnico-administrativas que emita la Agencia Federal de Aviación Civil, previa aprobación de la Secretaría, las cuales deben observar las mejores prácticas internacionales en materia de asignación de horarios de aterrizaje y despegue.
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2026)</small>
+
 ###### Artículo 96.
 
-Los transportistas y operadores aéreos que requieran se les asignen horarios de aterrizaje y despegue adicionales o diferentes a los que tienen, deberán presentar solicitud por escrito al administrador aeroportuario con copia al comité de operación y horarios indicando la ruta que pretende cubrir y el tipo de aeronave que utilizaría.
+Las personas transportistas y operadoras aéreas que requieran se les asignen horarios de aterrizaje y despegue adicionales o diferentes a los que tienen, deben presentar solicitud por escrito a la persona administradora aeroportuaria con copia al comité de operación y horarios indicando la ruta que pretende cubrir y el tipo de aeronave a utilizar.
 
-El administrador aeroportuario y el comité de operación y horarios deberán establecer un procedimiento que permita que las solicitudes a que se refiere este artículo sean resueltas en forma expedita, sin exceder de tres días hábiles, en el entendido de que siempre que exista disponibilidad de horario deberá otorgarse el mismo, con excepción de lo señalado en los párrafos siguientes.
+La persona administradora aeroportuaria y el comité de operación y horarios deben establecer un procedimiento que permita que las solicitudes a que se refiere este artículo sean resueltas en forma expedita, sin exceder de tres días hábiles, en el entendido de que siempre que exista disponibilidad de horario debe otorgarse este, con excepción de lo señalado en los párrafos siguientes.
 
-El administrador aeroportuario podrá desechar las solicitudes de los transportistas u operadores aéreos que tengan adeudos vencidos en el pago de las contraprestaciones por los servicios aeroportuarios y a la navegación aérea, que le han sido proporcionados en el aeródromo de que se trate.
+La persona administradora aeroportuaria puede desechar las solicitudes de las personas transportistas u operadoras aéreas que tengan adeudos vencidos en el pago de las contraprestaciones por los servicios aeroportuarios y a la navegación aérea, que le hayan sido proporcionados en el aeródromo de que se trate.
 
-Los transportistas u operadores aéreos no podrán realizar el aterrizaje o despegue de aeronaves cuando por cualquier causa no cuenten con los servicios a la navegación aérea requeridos en el aeropuerto de origen o destino, sin perjuicio de lo señalado en el artículo 55 de la Ley.
+Las personas transportistas u operadoras aéreas no pueden realizar el aterrizaje o despegue de aeronaves cuando por cualquier causa no cuenten con los servicios a la navegación aérea requeridos en el aeropuerto de origen o destino, sin perjuicio de lo señalado en el artículo 55 de la Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE AGOSTO DE 2025)</small>
 
@@ -1033,37 +1071,35 @@ Los transportistas u operadores aéreos no podrán realizar el aterrizaje o desp
 
 Cuando la Secretaría, a través de la Agencia Federal de Aviación Civil, determine que un aeródromo se encuentra en condiciones de saturación en campo aéreo en horarios específicos, a partir de que surta efectos dicha determinación, los horarios de aterrizaje y despegue deben asignarse por series conforme a lo dispuesto en los artículos 95 y 96 del presente reglamento y en las bases generales que para tal efecto emita la Agencia Federal de Aviación Civil, previa aprobación de la persona titular de la Secretaría. Dichas bases deben considerar, por lo menos, lo siguiente:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 2026)</small>
 
-I. La prioridad histórica de una serie de horarios, la cual será identificada por la persona coordinadora de horarios, cuando la persona transportista aérea tiene prioridad de recibir de forma preferente a cualquier otra persona transportista aérea una serie de horarios que se hayan operado, sin demoras imputables dentro de los 15 minutos respecto al horario asignado, como mínimo durante el 80% del tiempo en el periodo asignado en la temporada equivalente anterior.
+I. La prioridad histórica de una serie de horarios, la cual debe ser identificada por la persona coordinadora de horarios, cuando la persona transportista aérea a la que se le asignó cumple con el requisito de ocupación mínimo del 80% del tiempo en el periodo asignado en la temporada equivalente anterior.
 
-> <small>(ADICIONADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+La persona transportista aérea que cumpla con el requisito previsto en el párrafo anterior, tiene prioridad de recibir de manera preferente la asignación de dicha serie de horarios respecto de cualquier otra persona transportista aérea.
 
-Se entenderá una serie de horarios como mínimo 5 horarios solicitados para la misma hora y en el mismo día de la semana, distribuidos generalmente en la misma temporada, y asignados de esa forma, o si dicha forma no es posible, asignados a la misma hora aproximadamente;
+Para efectos del presente reglamento, se entiende por serie de horarios a cinco horarios como mínimo en la temporada de invierno y a siete horarios como mínimo en la temporada de verano, asignados para la misma hora y el mismo día de la semana, distribuidos regularmente dentro de la temporada correspondiente; cuando no sea posible la asignación exacta a la misma hora, los horarios pueden asignarse a una hora aproximada, siempre que se mantenga la regularidad y continuidad de la serie.
+
+El inicio y conclusión de las temporadas de verano e invierno deben estar sujetas a los periodos que se establezcan en las mejores prácticas internacionales en materia de asignación de horarios de aterrizaje y despegue;
 
 > <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
 II. Un fondo de reserva que integre los nuevos horarios, los devueltos, los que hayan perdido la prioridad histórica y aquellos horarios que por cualquier causa no justificada estén disponibles después de asignar los horarios históricos y los cambios en dichos horarios.
 
-> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 2026)</small>
 
-III. La asignación de horarios de aterrizaje y despegue se realizará observando, el orden siguiente:
+III. La asignación de horarios de aterrizaje y despegue se debe realizar observando, el orden siguiente:
 
-a) Los horarios sobre los que los transportistas aéreos conserven prioridad histórica, en términos de la fracción I de este artículo;
+a) Los horarios sobre los que las personas transportistas aéreas conserven prioridad histórica, en términos de la fracción I de este artículo;
 
-b) Los cambios de horarios con prioridad histórica solicitados por el transportista aéreo;
+b) Los cambios de horarios con prioridad histórica solicitados por la persona transportista aérea;
 
-c) Los horarios que integren el fondo de reserva, se asignarán dando prioridad al menos en un 50% a nuevos transportistas aéreos entrantes, y conforme a las mejores prácticas internacionales. En caso de empate se asignará conforme al orden de presentación de la solicitud, y
+c) Los horarios que integren el fondo de reserva, se deben asignar dando prioridad al menos en un 50% a nuevas personas transportistas aéreas entrantes, y conforme a las mejores prácticas internacionales. En caso de empate se debe asignar conforme al orden de presentación de la solicitud, y
 
-d) Los horarios asignados durante la temporada equivalente previa bajo un régimen ad hoc, siempre que formen series y hayan cumplido con los requisitos de ocupación y puntualidad.
+d) Los horarios asignados durante la temporada equivalente previa bajo un régimen ad hoc, siempre que formen series y hayan cumplido con los requisitos de ocupación mínimo del 80% del tiempo en el periodo asignado.
 
-> <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2025)</small>
+En el caso del inciso c) del párrafo anterior, cuando exista una solicitud de una persona transportista aérea referente a una operación existente para que continúe operando durante todo el año, debe tener prioridad sobre una nueva solicitud de horarios de aterrizaje y despegue.
 
-En el caso del inciso c) del párrafo anterior, cuando exista una solicitud de una persona transportista aérea referente a una operación existente para que continúe operando durante todo el año, tendrá prioridad sobre una nueva solicitud de horarios de aterrizaje y despegue.
-
-> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2025)</small>
-
-Para efectos de esta fracción, se entiende como nueva persona transportista aérea entrante, a la persona transportista aérea que solicita una serie de horarios en un aeropuerto en cualquier día, donde si se acepta su solicitud deberá tener menos de 7 horarios en ese aeropuerto y ese día;
+Para efectos de esta fracción, se entiende como nueva persona transportista aérea entrante, a la persona transportista aérea que solicita una serie de horarios en un aeropuerto en cualquier día, donde si se acepta su solicitud debe tener menos de 7 horarios en ese aeropuerto y ese día;
 
 > <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1077,15 +1113,19 @@ V. Los procedimientos de asignación de horarios de aterrizaje y despegue;
 
 VI. Los criterios para la supervisión, evaluación y calificación de la ocupación de horarios de aterrizaje y despegue;
 
-> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JUNIO DE 2026)</small>
 
-VII. Los supuestos de uso indebido de horarios de aterrizaje y despegue determinados por el coordinador de horarios serán causa para que el transportista aéreo no tenga derecho a la elegibilidad de la prioridad histórica para los tiempos que haya operado o para los horarios asignados en esa condición.
+VII. Los casos de uso indebido de horarios de aterrizaje y despegue determinados por la persona coordinadora de horarios conforme al procedimiento previsto en las bases a que se refiere este artículo, deben considerar la gravedad, la intencionalidad y la recurrencia de la conducta. Esta determinación es causa para que la persona transportista aérea no tenga derecho a la elegibilidad de la prioridad histórica para los tiempos que haya operado o para los horarios asignados en esa condición.
 
 Lo anterior con independencia de las sanciones establecidas en las disposiciones jurídicas aplicables.
 
-Para los efectos de esta fracción se entenderá por uso indebido de horarios, al menos lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE JUNIO DE 2026)</small>
 
-a) Que un transportista aéreo conserve horarios que no tenga previsto operar, ceder, intercambiar o usar en una operación conjunta;
+Para efectos de esta fracción, se entiende por uso indebido de horarios, al menos lo siguiente:
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2026)</small>
+
+a) Que una persona transportista aérea conserve horarios que no tenga previsto operar, ceder, intercambiar o usar en una operación conjunta;
 
 > <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2025)</small>
 
@@ -1111,9 +1151,9 @@ f) Que una persona transportista aérea realice de forma repetida e intencionada
 
 g) Que una persona transportista aérea solicite nuevos horarios para una operación distinta a la prevista, con la intención de obtener una mejor prioridad histórica.
 
-> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2026)</small>
 
-No será considerado como uso indebido de horarios los cambios en ruta o de aeronave, siempre que se notifiquen a la administradora aeroportuaria.
+No es considerado como uso indebido de horarios los cambios en ruta o de aeronave, siempre que se notifiquen a la persona administradora aeroportuaria.
 
 > <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1127,9 +1167,9 @@ IX. Las obligaciones de la administradora aeroportuaria para transparentar el pr
 
 X. Las demás que determine la Secretaría observando las mejores prácticas internacionales en materia de asignación de horarios, cuando éstas no contraríen las disposiciones de la Ley y este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2026)</small>
 
-Las personas transportistas aéreas, al solicitar a la administradora aeroportuaria el horario de aterrizaje y despegue deberán ajustarse a lo que establezcan las bases generales para la asignación de horarios de aterrizaje y despegue para aeropuertos en condiciones de saturación, así como a las Reglas de Operación de cada Aeropuerto.
+Las personas transportistas aéreas, al solicitar a la persona administradora aeroportuaria el horario de aterrizaje y despegue, deben ajustarse a lo que establezcan las bases generales para la asignación de horarios de aterrizaje y despegue y las prioridades de turno de las aeronaves en los aeródromos civiles declarados en condiciones de saturación, así como a las reglas de operación de cada aeródromo civil.
 
 > <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2025)</small>
 
@@ -1159,21 +1199,21 @@ La persona concesionaria del aeródromo en condiciones de saturación debe conta
 
 La coordinación de horarios es una instancia funcional, técnica e independiente de la administradora aeroportuaria y de los integrantes del comité de operación y horarios, incluidas a las personas transportistas aéreas. Su actuación debe ser imparcial, transparente y no discriminatoria en el desempeño de sus funciones. La toma de sus determinaciones debe realizarse con absoluta autonomía e independencia, por lo que tiene acceso a la información relevante que requiera para el ejercicio de sus funciones, de conformidad con las mejores prácticas de gobierno corporativo.
 
-> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE JUNIO DE 2026)</small>
 
-El coordinador de horarios efectuará las funciones siguientes:
+La persona coordinadora de horarios tiene las funciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 29 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 2026)</small>
 
-I. Supervisar, evaluar, calificar y determinar la ocupación y cumplimiento de los horarios de aterrizaje y despegue, para lo cual puede tomar en consideración las opiniones emitidas por el subcomité de demoras y por el subcomité de coordinación y supervisión de horarios, de conformidad con las mejores prácticas internacionales;
+I. Supervisar, evaluar, calificar y determinar la ocupación y los casos de uso indebido de los horarios de aterrizaje y despegue, para lo cual puede tomar en consideración las opiniones emitidas por el subcomité de demoras y por el subcomité de coordinación y supervisión de horarios, de conformidad con las mejores prácticas internacionales;
 
 > <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
 
 II. Informar en los términos que determinen las bases generales referidas en el artículo 96 Bis de este Reglamento, lo siguiente:
 
-> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2026)</small>
 
-a) Las series de horarios que estén por debajo del porcentaje mínimo de ocupación del 80% durante la temporada y sin demoras imputables dentro de los 15 minutos respecto al horario asignado;
+a) Las series de horarios que estén por debajo del porcentaje de ocupación mínimo del 80% del tiempo en el periodo asignado en la temporada en curso;
 
 b) (DEROGADO, D.O.F. 29 DE AGOSTO DE 2025)
 
@@ -1183,9 +1223,9 @@ d) La evaluación de la ocupación de los horarios de aterrizaje y despegue, y
 
 e) El detalle y la lista de horarios de aterrizaje y despegue con prioridad histórica;
 
-> <small>(REFORMADA, D.O.F. 29 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 2026)</small>
 
-III. Identificar cada operación efectuada por los transportistas aéreos;
+III. Identificar cada operación efectuada por las personas transportistas aéreas;
 
 > <small>(REFORMADA, D.O.F. 29 DE AGOSTO DE 2025)</small>
 
@@ -1211,41 +1251,51 @@ II. Conocer la regulación en materia aeroportuaria emitida por la Secretaría o
 
 III. Tener conocimientos demostrables en programación y asignación de horarios de aterrizaje y despegue de aeronaves, en seguridad aeroportuaria, o estudios especializados en dichas materias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JUNIO DE 2026)</small>
 
 ###### Artículo 100.
 
-La Secretaría, por conducto de la Agencia Federal de Aviación Civil, por sí o a petición de parte, escuchando previamente a la persona concesionaria o permisionaria, determinará si un aeródromo se encuentra en condiciones de saturación. Se considerará que existen condiciones de saturación:
+La Secretaría, por conducto de la Agencia Federal de Aviación Civil, por sí o a petición de parte, escuchando previamente a la persona concesionaria, asignataria o permisionaria, determinará si un aeródromo se encuentra en condiciones de saturación. Se considerará que existen condiciones de saturación:
 
 I. En el campo aéreo, si en más de 52 ocasiones en el año en una hora determinada:
 
 a) Se rebasa el número máximo de operaciones o solicitudes que pueden ser atendidas por hora en el campo aéreo, o
 
-b) Se demora de conformidad con las reglas de tránsito aéreo el aterrizaje o despegue de aeronaves por causas atribuibles al concesionario, tales como falta de pista, posiciones o servicios.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JUNIO DE 2026)</small>
 
-Los concesionarios y permisionarios deberán llevar un registro del número de operaciones totales atendidas en cada hora, precisando los aterrizajes y los despegues; el número de solicitudes recibidas, señalando cuáles fueron atendidas y las que no, y las causas de ello, así como el número de demoras atribuibles al concesionario;
+b) Se demora de conformidad con las reglas de tránsito aéreo el aterrizaje o despegue de aeronaves por causas atribuibles a la persona concesionaria, asignataria o permisionaria, tales como falta de pista, posiciones, servicios, calles de rodaje, plataformas, ayudas visuales, y demás infraestructura vinculada directamente con la operación de las aeronaves, de conformidad con las disposiciones técnico-administrativas.
 
-II. En el edificio terminal, si en más de 25 ocasiones en el año en una hora determinada se rebasa el número máximo de pasajeros que pueden ser atendidos por hora en el edificio o se rechazan solicitudes de aterrizaje o despegue en virtud de que se rebasa el número de pasajeros que pueden ser atendidos.
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2026)</small>
 
-El concesionario deberá llevar un registro del número de pasajeros totales atendidos durante cada hora incluyendo los pasajeros de salida, de llegada, en tránsito y de transferencia.
+Las personas concesionarias, asignatarias y permisionarias deben llevar un registro del número de operaciones totales atendidas en cada hora, precisando los aterrizajes y los despegues; el número de solicitudes recibidas, señalando cuáles fueron atendidas y las que no, y las causas de ello, así como el número de demoras atribuibles a la persona concesionaria, asignataria o permisionaria;
+
+> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 2026)</small>
+
+II. En el edificio terminal, si en más de 25 ocasiones en el año en una hora determinada se rebasa el número máximo de personas pasajeras que pueden ser atendidas por hora en el edificio o se rechazan solicitudes de aterrizaje o despegue en virtud de que se rebasa el número de personas pasajeras que pueden ser atendidas, considerando para tal efecto la capacidad de los edificios terminales, vialidades de acceso, estacionamientos para automóviles, y demás infraestructura y servicios relacionados con la atención, procesamiento, flujo, calidad en el servicio, el bienestar y satisfacción de la persona pasajera, de conformidad con las disposiciones técnico-administrativas.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN II, D.O.F. 9 DE JUNIO DE 2026]</small>
+
+La persona concesionaria, asignataria o permisionaria debe llevar un registro del número de personas pasajeras totales atendidas durante cada hora, incluidas las personas pasajeras de salida, de llegada, en tránsito y de transferencia.
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2026)</small>
 
 ###### Artículo 101.
 
-La Secretaría notificará al concesionario o permisionario la resolución en que se determina que el aeródromo se encuentra en condiciones de saturación, precisando la hora u horas respectivas, así como si se trata de saturación en campo aéreo o en edificio terminal. El concesionario o permisionario, a su cargo y dentro de los quince días hábiles siguientes a la notificación, publicará la misma en el Diario Oficial de la Federación; en caso de que no se publique en dicho plazo la Secretaría podrá efectuar la publicación con cargo al concesionario, sin perjuicio de las sanciones que en su caso procedan. La determinación surtirá efectos a partir del día siguiente de su publicación.
+La Secretaría debe notificar a la persona concesionaria, asignataria o permisionaria la resolución en que se determina que el aeródromo se encuentra en condiciones de saturación, precisando la hora u horas respectivas, así como si se trata de saturación en campo aéreo o en edificio terminal. La persona concesionaria, asignataria o permisionaria, a su cargo y dentro de los quince días hábiles siguientes a la notificación, debe publicar dicha resolución en el Diario Oficial de la Federación; en caso de que no se publique en dicho plazo la Secretaría puede efectuar la publicación con cargo a la persona concesionaria, asignataria o permisionaria, sin perjuicio de las sanciones que en su caso procedan. La determinación surte efectos a partir del día siguiente de su publicación.
 
-En el supuesto de que las condiciones de saturación sean atribuibles al concesionario o permisionario por incumplimiento en el programa maestro de desarrollo, deficiencias de la infraestructura o en la operación, éste deberá realizar las acciones pertinentes a fin de eliminar dichas condiciones. La Secretaría, por sí o a petición de parte, ordenará al concesionario o permisionario que realice las acciones específicas que considere procedentes para solucionar la problemática, sin perjuicio de lo señalado en el artículo 99 anterior y de las sanciones que, en su caso, procedan.
+En el supuesto de que las condiciones de saturación sean atribuibles a la persona concesionaria, asignataria o permisionaria por incumplimiento en el programa maestro de desarrollo, deficiencias de la infraestructura o en la operación, esta debe realizar las acciones pertinentes a fin de eliminar dichas condiciones. La Secretaría, por sí o a petición de parte, puede ordenar a la persona concesionaria, asignataria o permisionaria que realice las acciones específicas que considere procedentes para solucionar la problemática, sin perjuicio de lo señalado en el artículo 99 de este reglamento y de las sanciones que, en su caso, procedan.
 
 ###### Artículo 102.
 
 (DEROGADO, D.O.F. 29 DE SEPTIEMBRE DE 2017)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2026)</small>
 
 ###### Artículo 103.
 
-La asignación de los horarios de aterrizaje y despegue que realice la administradora aeroportuaria conforme a esta sección será sin perjuicio de lo dispuesto en las instrucciones que para el movimiento eficaz y seguro de las aeronaves señale la persona prestadora de servicios de control de aeródromo y aproximación, al momento del aterrizaje y despegue.
+La asignación de los horarios de aterrizaje y despegue que realice la persona administradora aeroportuaria conforme a esta sección debe ser sin perjuicio de lo dispuesto en las instrucciones que para el movimiento eficaz y seguro de las aeronaves señale la persona prestadora de servicios de control de aeródromo y aproximación, al momento del aterrizaje y despegue.
 
-La Secretaría no otorgará a los transportistas y operadores aéreos la autorización a que se refiere el artículo 21 del Reglamento de la Ley de Aviación Civil, si no se ajustan a lo dispuesto en la concesión, autorización o permiso que corresponda, de conformidad con la Ley de Aviación Civil, su Reglamento y demás disposiciones aplicables, o si el concesionario o permisionario no cumplió con el procedimiento establecido en este Reglamento para la asignación del horario de aterrizaje o despegue.
+La Secretaría puede no otorgar a las personas transportistas y operadoras aéreas la autorización a que se refiere el artículo 21 del Reglamento de la Ley de Aviación Civil, si no se ajustan a lo dispuesto en la concesión, asignación, autorización o permiso que corresponda, de conformidad con la Ley de Aviación Civil, su Reglamento y demás disposiciones aplicables, o si la persona concesionaria, asignataria o permisionaria no cumple con el procedimiento establecido en este reglamento para la asignación del horario de aterrizaje o despegue.
 
 #### Sección Tercera. De las operaciones
 
@@ -2210,3 +2260,19 @@ TERCERO. Los trámites iniciados con anterioridad a la entrada en vigor del pres
 CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado a la Secretaría de Infraestructura, Comunicaciones y Transportes, para el ejercicio fiscal correspondiente, por lo que no requerirá recursos adicionales para tales efectos y no se incrementará su presupuesto regularizable para el presente ejercicio fiscal ni subsecuentes.
 
 QUINTO. La Agencia Federal de Aviación Civil debe actualizar las bases generales para la asignación de horarios de aterrizaje y despegue para aeropuertos en condiciones de saturación, en un plazo no mayor a treinta días hábiles siguientes a la publicación del presente Decreto.
+
+D.O.F. 9 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE AEROPUERTOS”.]
+
+PRIMERO. El presente Decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO. Los trámites iniciados con anterioridad a la entrada en vigor del presente Decreto, deben llevarse a cabo de conformidad con las disposiciones vigentes al momento de su presentación hasta su conclusión.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Infraestructura, Comunicaciones y Transportes, para el ejercicio fiscal correspondiente, por lo que no requerirá recursos adicionales para tales efectos y no se incrementará su presupuesto regularizable para el presente ejercicio fiscal ni subsecuentes.
+
+QUINTO. La Secretaría de Infraestructura, Comunicaciones y Transportes, por conducto de la Agencia Federal de Aviación Civil, debe clasificar los aeródromos civiles de servicio al público de transporte aéreo regular nacional e internacional conforme al artículo 94 de este ordenamiento, en un plazo no mayor a sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+SEXTO. La Agencia Federal de Aviación Civil debe actualizar las bases generales para la asignación de horarios de aterrizaje y despegue y las prioridades de turno de las aeronaves en los aeródromos civiles declarados en condiciones de saturación, en un plazo no mayor a sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
