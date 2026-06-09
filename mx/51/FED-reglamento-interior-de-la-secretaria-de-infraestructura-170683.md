@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-infraestructura-170683"
 country: "mx"
 rank: "reglamento"
 publication_date: "2024-01-29"
-last_updated: "2025-01-13"
+last_updated: "2026-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170683&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2024-01-24"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO FRACCIÓN I DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES, PUBLICADO EN EL D.O.F. DE 9 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JUNIO DE 2026 (ABROGADO).
 
 Reglamento publicado en el Número 27 del Diario Oficial de la Federación, el lunes 29 de enero de 2024.
 
@@ -1844,3 +1846,31 @@ SEXTO. Los asuntos en trámite que son atendidos por unidades administrativas qu
 SÉPTIMO. La persona titular de la Secretaría de Infraestructura, Comunicaciones y Transportes deberá expedir el Manual de Organización General de la Secretaría en un plazo de noventa días siguientes a la publicación de este decreto y ordenar su publicación en el Diario Oficial de la Federación.
 
 Asimismo, deberá expedir los manuales de procedimientos y de servicios al público de la Secretaría, dentro de los noventa días posteriores a la entrada en vigor del Manual de Organización General de la Secretaría que expida en términos del párrafo anterior.
+
+D.O.F. 9 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA, COMUNICACIONES Y TRANSPORTES”.]
+
+Primero. El presente Decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abrogan los siguientes ordenamientos jurídicos:
+
+I. El Reglamento Interior de la Secretaría de Infraestructura, Comunicaciones y Transportes, publicado en el Diario Oficial de la Federación el 29 de enero de 2024;
+
+II. El Acuerdo por el que se delegan facultades en la persona titular del órgano desconcentrado de la Secretaría de Infraestructura, Comunicaciones y Transportes denominado Agencia Reguladora del Transporte Ferroviario, publicado en el Diario Oficial de la Federación el 28 de enero de 2025;
+
+III. El Acuerdo por el que se delegan facultades en la persona titular de la Subsecretaría de Comunicaciones y Transportes de la Secretaría de Infraestructura, Comunicaciones y Transportes, publicado en el Diario Oficial de la Federación el 8 de mayo de 2025;
+
+IV. El Acuerdo delegatorio de facultades a favor del Director General de Desarrollo Carretero de la Secretaría de Infraestructura, Comunicaciones y Transportes publicado en el Diario Oficial de la Federación el 3 de junio de 2025, y
+
+V. Aquellas disposiciones administrativas que se opongan a lo establecido en el presente instrumento.
+
+Tercero. Las disposiciones administrativas que se emitieron derivadas o con base en la normativa que se abrogan con el transitorio segundo del presente Decreto, y que se encuentren vigentes hasta antes de la publicación de este ordenamiento, continuará su vigencia sólo en lo que no se opongan a las disposiciones contenidas en el Reglamento Interior de la Secretaría de Infraestructura, Comunicaciones y Transportes que se expide; dicha vigencia continuará hasta que sean abrogadas esas disposiciones administrativas por los ordenamientos normativos que las sustituyan.
+
+Cuarto. Los asuntos que se encuentren en trámite ante las unidades administrativas de la Secretaría cuyas atribuciones se transfieran a otras con motivo de la entrada en vigor del presente Decreto, serán atendidos y resueltos por estas últimas de conformidad con las disposiciones jurídicas aplicables.
+
+Quinto. Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en este Decreto.
+
+Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, así como las modificaciones a la estructura orgánica de la Secretaría de Infraestructura, Comunicaciones y Transportes, deben cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y para los subsecuentes, mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dicha Secretaría.
+
+Séptimo. En tanto se aprueban y registran los puestos de las unidades administrativas que con motivo del presente ordenamiento se modifican, continuarán las personas servidoras públicas que ocupan los puestos con las denominaciones previstas en el Reglamento Interior de la Secretaría de Infraestructura, Comunicaciones y Transportes que se abroga, a fin de dar continuidad a las funciones institucionales de las unidades responsables involucradas.
