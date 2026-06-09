@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-juventud-del-estado-de-campeche-82686"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-13"
-last_updated: "2023-08-09"
+last_updated: "2026-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2026.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el miércoles 13 de julio de 2011.
 
@@ -95,7 +95,11 @@ IV. Solidaridad: Principio que asegura que en las relaciones entre los jóvenes 
 
 V. Identidad: Principio destinado a fortalecer el sentido de pertenencia al Estado de Campeche, con el objetivo de defender las costumbres y tradiciones propias de la entidad, procurando aceptar e integrar todas las aportaciones que enriquezcan los valores y principios tradicionales, con la finalidad de continuar el permanente proceso de asimilación, que a lo largo de la historia ha determinado la idiosincrasia de los campechanos;
 
-VI. Interculturalidad: Se procurará que los jóvenes conozcan las costumbres y tradiciones de otras regiones de nuestro país y del mundo, también se fomentará el aprendizaje de idiomas extranjeros y de la lengua maya como herramientas básicas de comunicación;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2026)</small>
+
+VI. Interculturalidad: Principio mediante el cual el Estado reconoce, tutela y garantiza el derecho de las juventudes de las comunidades rurales, zonas y localidades con mayores índices de rezago social a recibir atención integral con enfoque intercultural, cultural y lingüísticamente adecuada, acorde con sus contextos comunitarios y formas de organización social.
+
+Dicha atención deberá generar condiciones necesarias para el ejercicio efectivo y en igualdad sustantiva de sus derechos de acceso, permanencia y participación en la información y comunicación; al desarrollo y promoción en el ámbito del arte, la cultura y el deporte; así como a la formación y capacitación para el trabajo, libres de toda forma de discriminación;
 
 VII. Equidad: Principio destinado a la creación de condiciones de igualdad real y efectiva para los jóvenes que se encuentren en una situación de desventaja o de vulnerabilidad, que aseguren la igualdad entre hombres y mujeres jóvenes, en relación al acceso de oportunidades y ejercicio de los derechos; y
 
@@ -597,7 +601,11 @@ XIV. Concertar acuerdos y convenios con las autoridades estatales y municipales 
 
 XV. Proporcionar información, y gestionar apoyos ante diversas instancias públicas y privadas a favor de la juventud;
 
-XVI. Realizar, promover y difundir estudios e investigaciones de la problemática y características juveniles;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2026)</small>
+
+XVI. Realizar, promover y difundir estudios e investigaciones sobre la situación, problemáticas y características de las juventudes, con especial atención a aquellas pertenecientes a comunidades rurales, zonas y localidades con mayores índices de rezago social.
+
+Asimismo, podrá proponer a la persona titular del Poder Ejecutivo del Estado, la implementación de programas especiales de carácter integral, intercultural y con enfoque comunitario, orientados a mejorar sus condiciones de vida en materia de salud, educación, acceso y aprovechamiento de tecnologías, preservación cultural, desarrollo económico, así como la generación de espacios de convivencia y recreación; lo anterior, sin perjuicio de las atribuciones que correspondan a otras dependencias y garantizando en todo momento su derecho a la consulta y participación en el diseño, ejecución y evaluación de dichas políticas públicas;
 
 XVII. Auxiliar a las dependencias y entidades de las administraciones públicas estatal y municipales, en la promoción y difusión de los derechos y beneficios consagrados en la presente ley;
 
@@ -659,25 +667,33 @@ II. La Dirección General.
 
 La Junta es el órgano superior de gobierno y administración dentro del Instituto y se integrará por:
 
-I. Un Presidente que será el Gobernador del Estado, o la persona que designe;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2026)</small>
 
-II. Un Vice presidente que será el Secretario de Desarrollo Social y Regional;
+I. Una Presidencia que será la o el Gobernador del Estado, o la persona que designe;
 
-III. Vocales que serán los titulares de las siguientes instituciones:
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2026)</small>
+
+II. Una Vicepresidencia que será la persona titular de la Secretaría de Bienestar;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2026)</small>
+
+III. Vocales que serán las personas titulares de las siguientes instituciones:
 
 a) Secretaría de Educación;
 
-b) Secretaría de Finanzas;
+b) Secretaría de Administración, Finanzas y Planeación;
 
-c) Secretaría de la Contraloría;
+c) Secretaría de Anticorrupción y Buen Gobierno;
 
-d) Secretaría de Desarrollo Industrial y Comercial;
+d) Secretaría de Desarrollo Económico;
 
 e) Secretaría de Salud;
 
-f) Procuraduría General de Justicia del Estado; y
+f) Fiscalía General del Estado;
 
-g) Secretaría de Seguridad Pública y Protección a la Comunidad.
+g) Secretaría de Protección y Seguridad Ciudadana; y
+
+h) Secretaría de Inclusión.
 
 IV. Un representante de cada una de las universidades e instituciones de educación superior del Estado.
 
@@ -962,3 +978,13 @@ Segundo.- Las actividades y procedimientos relacionados tanto con la preparació
 Tercero.- El Congreso del Estado expedirá el Acuerdo Reglamentario a que alude el presente decreto a más tardar 90 días antes del Parlamento de la Juventud Campechana a celebrarse en el año 2024.
 
 Cuarto.- Se deroga cualquier disposición de igual o menor jerarquía que contravenga el presente decreto.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 244 POR EL QUE "SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 3; LA FRACCIÓN XVI DEL ARTÍCULO 44 Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 46 DE LA LEY DE LA JUVENTUD DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco normativo local en lo que se opongan al contenido del presente decreto.
