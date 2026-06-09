@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2026-06-08"
+last_updated: "2026-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -1470,6 +1470,26 @@ La Secretaría Estatal, en coordinación con las autoridades estatales y federal
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2023)</small>
 
 Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2026)</small>
+
+Asimismo, la Secretaría Estatal promoverá, en el ámbito de sus atribuciones, y de conformidad con las disposiciones normativas aplicables, así como en coordinación con las autoridades competentes, el desarrollo progresivo de acciones, estrategias, mecanismos y programas de educación sexual integral con enfoque preventivo, pertinencia cultural y perspectiva comunitaria, dirigidos prioritariamente a las adolescencias y juventudes especialmente en comunidades rurales y zonas en condiciones de marginación social, observando lo siguiente:
+
+a) Incorporar el enfoque de derechos humanos, igualdad sustantiva, perspectiva de género e interés superior de la niñez y la adolescencia;
+
+b) Contribuir, mediante acciones de información, orientación, sensibilización y prevención, a la disminución del embarazo adolescente, así como a la prevención de infecciones de transmisión sexual y demás riesgos asociados a la salud sexual y reproductiva;
+
+c) Facilitar, en términos de las disposiciones jurídicas aplicables y atendiendo a la edad y desarrollo evolutivo de la población objetivo, el acceso a información objetiva, científica, laica, oportuna y culturalmente adecuada;
+
+d) Considerar la pertinencia cultural y lingüística de las comunidades, procurando, de manera progresiva y conforme a la disponibilidad presupuestal y capacidades institucionales, la elaboración, difusión y adaptación de materiales educativos y mecanismos informativos acordes con las características sociales, culturales y lingüísticas de la población destinataria;
+
+e) Impulsar mecanismos de participación comunitaria, acompañamiento social y colaboración institucional en el diseño, implementación y evaluación de las acciones
+
+que resulten procedentes;
+
+f) Fomentar la coordinación y colaboración interinstitucional entre las autoridades de salud, educación y los gobiernos municipales, en el ámbito de sus respectivas competencias y atribuciones; y
+
+g) Promover acciones de orientación y acompañamiento que contribuyan al desarrollo integral de las adolescencias y juventudes, fortaleciendo la toma de decisiones libres, responsables e informadas respecto de su salud, bienestar y proyecto de vida.
 
 ### Capítulo III. Nutrición
 
@@ -3312,3 +3332,13 @@ QUINTO.- La Comisión Interinstitucional de Salud Bucodental a que hace referenc
 SEXTO.- Las dependencias y entidades de la Administración Pública Estatal y Municipal, en el ámbito de sus respectivas competencias, podrán celebrar convenios de coordinación y colaboración con autoridades federales, instituciones educativas, organismos públicos, sectores social y privado, así como colegios de profesionistas, para fortalecer las acciones previstas en el presente decreto.
 
 SÉPTIMO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco normativo local que se opongan al presente decreto.
+
+P.O. 9 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 243 POR EL QUE "SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 117 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado, a través de la Secretaría de Salud y en coordinación con la Secretaría de Educación, deberá emitir o adecuar, en su caso, los lineamientos, programas, protocolos y demás instrumentos administrativos necesarios para la implementación de lo dispuesto en el presente decreto en un plazo no mayor a 180 días naturales.
+
+TERCERO.- La Secretaría de Salud del Estado, en coordinación con la Secretaría de Administración, Finanzas y Planeación de la administración pública estatal, deberán prever de manera progresiva la asignación presupuestaria necesaria para la implementación de los programas derivados del presente decreto.
