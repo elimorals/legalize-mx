@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2026-05-22"
+last_updated: "2026-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -641,7 +641,9 @@ Los Municipios destinarán una partida de su presupuesto anual para promover el 
 
 ARTÍCULO 44 BIS.
 
-1. La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+1. La Secretaría, con el apoyo y en coordinación con las dependencias y entidades competentes, promoverá la no discriminación, accesibilidad e inclusión en la prestación de los servicios turísticos, procurando el acceso digno de las personas con discapacidad y demás grupos en situación de vulnerabilidad a los servicios turísticos, conforme a la disponibilidad operativa, administrativa y presupuestal de las autoridades competentes.
 
 2. Corresponde a la Secretaría, en coordinación con los Ayuntamientos de la Entidad que cuenten con playas susceptibles de ser inclusivas, promover la gestión, ante las autoridades e instancias correspondientes, de las certificaciones y distintivos para ser consideradas como playas limpias sustentables, y de Bandera Azul, a fin de garantizar que dichas playas cuenten con espacios adaptados y con señalética accesible para las personas con discapacidad y adultas mayores con movilidad reducida.
 
@@ -1586,6 +1588,14 @@ Los cabildos municipales contarán con un plazo máximo de treinta días natural
 P.O. 22 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1058 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, Y LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1088 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 44 BIS, PÁRRAFO 1, DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
