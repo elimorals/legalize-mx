@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2026-04-25"
+last_updated: "2026-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -1532,6 +1532,52 @@ Sindicato es la asociación de trabajadoras y trabajadores constituida para el e
 En cada entidad pública sólo habrá un sindicato titular de los derechos derivados de esta Ley. En caso de que concurran varios grupos de trabajadoras y trabajadores que pretendan ese derecho, el Tribunal otorgará el reconocimiento al mayoritario.
 
 La ley reconoce personalidad y plena capacidad jurídica a los sindicatos ya existentes.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+Artículo 102 bis.- Los sindicatos deberán gozar de adecuada protección contra todo acto de injerencia por parte de las personas servidoras públicas en su constitución, funcionamiento, administración y libre desarrollo de las elecciones sindicales, las condiciones de elegibilidad, la reelección y, en su caso, la destitución de las directivas de los sindicatos.
+
+Cualquier contravención a estas disposiciones será considerada falta administrativa grave y sancionada en los términos de la Ley General de Responsabilidades Administrativas.
+
+Se entenderán como acto de injerencia sindical, entre otras, las siguientes conductas:
+
+I. Coaccionar, inducir o amenazar a personas trabajadoras o agremiadas para participar o abstenerse de participar en eventos de campaña sindical, o para votar por una planilla, dirigente o sindicato determinado;
+
+II. Ejercer presión o intimidación jerárquica sobre subordinados para que expresen públicamente su apoyo o rechazo a determinada candidatura sindical;
+
+III. Obligar o condicionar la asistencia a actos, mítines o reuniones sindicales con fines de proselitismo;
+
+IV. Condicionar la prestación de servicios institucionales, apoyos, licencias o permisos laborales a la emisión del voto o apoyo hacia una planilla sindical;
+
+V. Ofrecer beneficios laborales, ascensos, estímulos o promociones a cambio de apoyo o voto sindical;
+
+VI. Negar, suspender o limitar derechos o programas internos, capacitaciones, bonos o reconocimientos como represalia por no apoyar determinada opción sindical;
+
+VII. Utilizar programas institucionales o apoyos sociales para inducir o coaccionar el voto sindical;
+
+VIII. Destinar, utilizar o permitir el uso de fondos, bienes, servicios o personal institucional para favorecer o perjudicar a determinada planilla, corriente o dirigencia sindical;
+
+IX. Difundir propaganda, mensajes o material institucional que promueva o desacredite a una candidatura o grupo sindical;
+
+X. Permitir el uso de instalaciones, vehículos, redes o infraestructura pública para actos de campaña o propaganda sindical;
+
+XI. Proporcionar apoyo o servicios institucionales para actividades de campaña sindical;
+
+XII. Realizar aportaciones o solicitar contribuciones a subordinados para financiar campañas o actividades sindicales;
+
+XIII. Usar recursos o programas institucionales con la finalidad de posicionar o promover ante la base trabajadora a una persona servidora pública o dirigente sindical;
+
+XIV. Negarse sin causa justificada a entregar información solicitada por la autoridad sindical o laboral competente, relacionada con el desarrollo de elecciones o procesos democráticos sindicales;
+
+XV. Omitir colaborar o prestar auxilio en los procesos de verificación, vigilancia o supervisión sindical cuando la autoridad lo requiera;
+
+XVI. Omitir actuar con imparcialidad durante los procesos electorales sindicales, afectando la equidad entre candidaturas;
+
+XVII. Actuar con parcialidad o favorecer públicamente a determinada candidatura;
+
+XVIII. Intervenir indebidamente en la equidad del proceso sindical, alterando la neutralidad institucional, y
+
+XIX. Utilizar su cargo para influir en la opinión de las personas trabajadoras, afectando la libertad del voto sindical.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -4226,3 +4272,15 @@ P.O. 25 DE ABRIL DE 2026.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 10 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 319.- SE REFORMA LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
