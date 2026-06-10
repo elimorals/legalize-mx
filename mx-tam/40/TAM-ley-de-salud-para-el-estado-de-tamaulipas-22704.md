@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2026-05-27"
+last_updated: "2026-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -2289,7 +2289,37 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO UNICO
+### CAPITULO IV. DE LOS SERVICIOS FUNERARIOS Y LA PROTECCION DEL CERTIFICADO DE DEFUNCION
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+ARTICULO 135 BIS.- Para efectos de esta Ley, el certificado de defunción es un documento de orden público, de naturaleza sanitaria y administrativa, cuya expedición y entrega oportuna es indispensable para el ejercicio de derechos civiles, familiares y patrimoniales.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+ARTICULO 135 TER.- Queda estrictamente prohibido a los establecimientos funerarios, crematorios, agencias de servicios exequiales o cualquier persona física o moral que preste servicios funerarios:
+
+I.- Retener, ocultar, retrasar o negar la entrega del certificado de defunción;
+
+II.- Condicionar la entrega del certificado de defunción al pago total o parcial de los servicios funerarios; y
+
+III.- Utilizar el certificado de defunción como garantía, medio de presión, coerción o aseguramiento de obligaciones de carácter económico.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+ARTICULO 135 QUATER.- La expedición y entrega del certificado de defunción deberá realizarse de manera inmediata y sin dilación injustificada a los familiares, personas responsables o representantes legales del fallecido, independientemente de cualquier controversia contractual o adeudo derivado de los servicios funerarios.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+ARTICULO 135 QUINQUIES.- Las controversias relacionadas con el pago de servicios funerarios deberán resolverse por las vías legales civiles, mercantiles o administrativas correspondientes, quedando prohibida cualquier forma de auto tutela, coacción o aprovechamiento del estado de vulnerabilidad de las personas deudos.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+ARTICULO 135 SEXIES.- El incumplimiento a lo dispuesto en el presente Capítulo dará lugar a las sanciones administrativas establecidas en el artículo 152 de esta Ley, sin perjuicio de las responsabilidades civiles o penales que resulten procedentes.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+ARTICULO 135 SEPTIES.- Cuando la conducta descrita en el artículo anterior implique abuso, intimidación, coacción, trato indigno o aprovechamiento de una situación de vulnerabilidad, la autoridad competente deberá dar vista al Ministerio Público para que determine la posible comisión de delitos.
 
 ###### ARTICULO 130.
 
@@ -2329,11 +2359,13 @@ Los certificados de muerte fetal serán expedidos por profesionales de la medici
 
 Los certificados enunciados se extenderán en los modelos aprobados y otorgados por la Secretaría y de conformidad con las Normas Oficiales Mexicanas.
 
-### CAPITULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JUNIO DE 2026)</small>
+
+### CAPITULO UNICO
 
 ## TITULO DECIMO QUINTO. DE LA VIGILANCIA SANITARIA
 
-### CAPITULO II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIAS
 
 ###### ARTICULO 136.
 
@@ -2365,7 +2397,7 @@ En la diligencia de verificación sanitaria y recolección de muestras se deber�
 
 ## TITULO DECIMO SEXTO. DE LAS MEDIDAS DE SEGURIDAD Y DE LAS SANCIONES
 
-### CAPITULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 142.
 
@@ -2455,7 +2487,7 @@ La suspensión de mensajes publicitarios en materia de salud, procederá cuando 
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de la autoridad sanitaria, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO IV. DEL RECURSO DE INCONFORMIDAD
+### CAPITULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 151.
 
@@ -2537,7 +2569,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO V. DE LA PRESCRIPCION
+### CAPITULO IV. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 163.
 
@@ -2581,9 +2613,7 @@ En los casos de clausura temporal o definitiva, parcial o total, el personal com
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, se formulará la denuncia ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+### CAPITULO V. DE LA PRESCRIPCION
 
 ###### ARTICULO 171.
 
@@ -2635,9 +2665,9 @@ II.- Que no se siga perjuicio al interés social, ni se contravengan disposicion
 
 III.- Que fueren de difícil reparación los daños y perjuicios que se causen al recurrente, con la ejecución del acto o resolución combatida.
 
-### CAPITULO SEGUNDO. DE LA DONACION, PROCURACION, ASIGNACION, DISTRIBUCION, TRASPLANTE Y DESTINO FINAL DE ORGANOS Y COMPONENTES ANATOMICOS
+### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 180.
 
@@ -2661,9 +2691,9 @@ Los interesados podrán hacer valer la prescripción, por vía de excepción. La
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
 
-### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL DE TRASPLANTES
+### CAPITULO SEGUNDO. DE LA DONACION, PROCURACION, ASIGNACION, DISTRIBUCION, TRASPLANTE Y DESTINO FINAL DE ORGANOS Y COMPONENTES ANATOMICOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 184.
 
@@ -2889,9 +2919,9 @@ La Secretaría de Salud del Estado queda facultada para realizar la interpretaci
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2012)</small>
 
-### CAPITULO CUARTO. DEL CENTRO ESTATAL DE TRASPLANTES
+### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL DE TRASPLANTES
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 #### SECCIÓN PRIMERA. DE LA DONACIÓN
 
@@ -3165,7 +3195,7 @@ Comprobar, previamente a la extracción de los órganos y tejidos y por un médi
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2012)</small>
 
-### CAPITULO QUINTO. DEL REGISTRO ESTATAL DE TRASPLANTES
+### CAPITULO CUARTO. DEL CENTRO ESTATAL DE TRASPLANTES
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -3351,7 +3381,7 @@ V. Las demás que le asignen el Consejo o su Presidente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
 
-### CAPITULO SEXTO. DEL PROCEDIMIENTO OBLIGATORIO PARA TRASPLANTES
+### CAPITULO QUINTO. DEL REGISTRO ESTATAL DE TRASPLANTES
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -3433,31 +3463,7 @@ El Centro Estatal de Trasplantes y los comités internos correspondientes en cad
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
 
-### CAPÍTULO SÉPTIMO. DE LAS INSTITUCIONES HOSPITALARIAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-ARTICULO 209 BIS.- Los establecimientos en los que se extraigan órganos, tejidos y células, deberán contar con un Comité Interno de Coordinación para la donación de órganos y tejidos, que será presidido por el Director General o su inmediato inferior que sea médico con alto nivel de conocimientos académicos y profesionales en la materia. Este comité será responsable de seleccionar el establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviará órganos, tejidos o células, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-A su vez, los establecimientos que realicen los actos de trasplantes deberán contar con un Comité Interno de Trasplantes que será presidido por el Director General o su inmediato inferior que sea médico con un alto nivel de conocimientos académicos y profesionales en la materia. Este Comité será responsable de hacer la selección de disponentes y receptores de trasplante, de conformidad con lo que se establece en la Ley General de Salud, la presente ley y demás disposiciones jurídicas aplicables. Los establecimientos en los que se extraigan órganos y tejidos y se realicen trasplantes, únicamente deberán contar con un Comité Interno de Trasplantes.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-El Comité Interno de Trasplantes deberá coordinarse con el Comité de Bioética de la institución en los asuntos de su competencia.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-Es responsabilidad del Comité Interno de Trasplantes de cada institución, supervisar la actualización del registro de pacientes en los Registros Estatal y Nacional.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-Los establecimientos que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, deberán contar con un Comité de Medicina Transfusional, el cual se sujetará a las disposiciones que para tal efecto emita la Secretaría de Salud del gobierno federal.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-Los Establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos deberán presentar el aviso correspondiente a la autoridad sanitaria de la entidad en los términos de esta Ley y demás disposiciones generales aplicables, y contarán con un responsable sanitario que también deberá presentar aviso.
+### CAPITULO SEXTO. DEL PROCEDIMIENTO OBLIGATORIO PARA TRASPLANTES
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -3512,6 +3518,34 @@ La información contenida en el Registro Estatal de Trasplantes se sujetará a l
 Los establecimientos autorizados para la realización de trasplantes en casos específicos en que se encuentren ante un probable donador, deberán solicitar y obtener información del Registro Estatal de Trasplantes, así como la disposición que el mismo hubiese hecho respecto de sus órganos, tejidos y células, con objeto de proceder a la ablación de los órganos, tejidos y células humanos, una vez satisfechos los requisitos legales.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
+
+### CAPÍTULO SÉPTIMO. DE LAS INSTITUCIONES HOSPITALARIAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+ARTICULO 209 BIS.- Los establecimientos en los que se extraigan órganos, tejidos y células, deberán contar con un Comité Interno de Coordinación para la donación de órganos y tejidos, que será presidido por el Director General o su inmediato inferior que sea médico con alto nivel de conocimientos académicos y profesionales en la materia. Este comité será responsable de seleccionar el establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviará órganos, tejidos o células, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+A su vez, los establecimientos que realicen los actos de trasplantes deberán contar con un Comité Interno de Trasplantes que será presidido por el Director General o su inmediato inferior que sea médico con un alto nivel de conocimientos académicos y profesionales en la materia. Este Comité será responsable de hacer la selección de disponentes y receptores de trasplante, de conformidad con lo que se establece en la Ley General de Salud, la presente ley y demás disposiciones jurídicas aplicables. Los establecimientos en los que se extraigan órganos y tejidos y se realicen trasplantes, únicamente deberán contar con un Comité Interno de Trasplantes.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+El Comité Interno de Trasplantes deberá coordinarse con el Comité de Bioética de la institución en los asuntos de su competencia.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Es responsabilidad del Comité Interno de Trasplantes de cada institución, supervisar la actualización del registro de pacientes en los Registros Estatal y Nacional.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Los establecimientos que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, deberán contar con un Comité de Medicina Transfusional, el cual se sujetará a las disposiciones que para tal efecto emita la Secretaría de Salud del gobierno federal.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Los Establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos deberán presentar el aviso correspondiente a la autoridad sanitaria de la entidad en los términos de esta Ley y demás disposiciones generales aplicables, y contarán con un responsable sanitario que también deberá presentar aviso.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 209.
 
@@ -4294,3 +4328,23 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Salud del Estado deberá implementar lo dispuesto en el presente Decreto de manera progresiva, conforme a la disponibilidad presupuestal aprobada en el ejercicio fiscal correspondiente y atendiendo a la planeación administrativa y operativa que garantice la sostenibilidad y correcto funcionamiento de los bancos de leche humana en las unidades hospitalarias que cuenten con servicios neonatales.
+
+P.O. 10 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1089 MEDIANTE EL CUAL SE ADICIONA UN CAPÍTULO IV DENOMINADO “DE LOS SERVICIOS FUNERARIOS Y LA PROTECCIÓN DEL CERTIFICADO DE DEFUNCIÓN”, CON LOS ARTÍCULOS 135 BIS; 135 TER; 135 QUATER; 135 QUINQUIES; 135 SEXIES Y 135 SEPTIES, AL TÍTULO DÉCIMO CUARTO DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud del Estado deberá emitir, en un plazo no mayor a noventa días, los lineamientos y protocolos necesarios para la correcta aplicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los establecimientos funerarios deberán adecuar sus contratos, prácticas internas y capacitación de personal a lo dispuesto en esta Ley, dentro de un plazo máximo de sesenta días naturales.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
