@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-movilidad-y-seguridad-vial-del-estado-de-campeche-167283
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-28"
-last_updated: "2026-06-08"
+last_updated: "2026-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 28 de julio de 2023.
 
@@ -1713,7 +1713,7 @@ Para la integración / operación del Sistema de Movilidad Integrada se podrán 
 
 En el caso del cobro tarifario por medio de los sistemas de recaudo basados entecnología (sic), la Agencia Reguladora del Transporte del Estado de Campeche definirá las especificaciones que deberán contener los equipos del sistema de cobro.
 
-> <small>(ADICIONADA [N. DE . CON LOS PÁRRAFOS QUE LA INTEGRAN], P.O. 8 DE JUNIO DE 2026)</small>
+> <small>(ADICIONADA [N. DE E. CON LOS PÁRRAFOS QUE LA INTEGRAN], P.O. 8 DE JUNIO DE 2026)</small>
 
 VII. Movilidad personal eléctrica.
 
@@ -2193,6 +2193,10 @@ Las tarifas de servicio de transporte público de pasajeros en todas sus modalid
 
 Los prestadores del servicio deberán exhibir en forma permanente y en lugares visibles de sus vehículos, terminales, bases y demás equipamiento auxiliar con acceso a los usuarios, la tarifa aprobada de acuerdo al servicio de que se trate.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+Los mecanismos tecnológicos, sistemas de pago o esquemas de prepago que se implementen para el cobro del servicio deberán procurar condiciones de accesibilidad e inclusión, especialmente para aquellos sectores que accedan a tarifas preferenciales conforme a esta ley.
+
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 138.
@@ -2201,11 +2205,25 @@ Para la propuesta de establecimiento o modificación de tarifas para el servicio
 
 Para la determinación de las tarifas, la Junta de Gobierno de la Agencia Reguladora del Transporte podrá solicitar que se realicen las evaluaciones técnicas para el establecimiento o modificación de las tarifas.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2026)</small>
 
 ###### Artículo 139.
 
-Tomando en cuenta las circunstancias particulares de los usuarios, las situaciones de interés general, la conveniencia de eficientar o acreditar el servicio de transporte público, la Junta de Gobierno de la Agencia Reguladora del Transporte podrá autorizar el establecimiento de tarifas especiales, promocionales, o preferenciales, que se aplicarán de manera general, abstracta e impersonal a sectores específicos de la población.
+Tomando en cuenta las circunstancias particulares de las personas usuarias, las situaciones de interés general y el componente social del servicio público de transporte, la Junta de Gobierno de la Agencia Reguladora del Transporte podrá autorizar el establecimiento de tarifas preferenciales, las cuales se aplicarán de manera general, objetiva, impersonal y no discriminatoria a los sectores de la población que así lo ameriten.
+
+Las tarifas preferenciales comprenderán, de manera enunciativa más no limitativa, a:
+
+I. Estudiantes de instituciones educativas públicas y privadas, en todos los niveles educativos del Estado;
+
+II. Personas adultas mayores;
+
+III. Personas con discapacidad; y
+
+IV. Otros sectores de la población que, atendiendo a condiciones de vulnerabilidad o interés social, determine la autoridad competente conforme a las disposiciones aplicables.
+
+Para la implementación de tarifas preferenciales, las autoridades competentes podrán coordinarse con instituciones públicas, educativas o sociales, a efecto de facilitar mecanismos de acreditación, actualización o validación de personas beneficiarias, conforme a las disposiciones administrativas aplicables.
+
+La aplicación de tarifas preferenciales deberá observar criterios de accesibilidad, igualdad y no discriminación, evitando requisitos o mecanismos que dificulten injustificadamente el acceso al beneficio.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2024)</small>
 
@@ -2502,3 +2520,19 @@ TERCERO.- Las autoridades estatales y municipales promoverán campañas de educa
 CUARTO.- Las disposiciones reglamentarias, lineamientos técnicos o medidas administrativas que, en su caso, emitan las autoridades competentes con motivo de la entrada en vigor del presente decreto, deberán observar los principios de proporcionalidad, movilidad accesible y mínima carga administrativa para las personas usuarias.
 
 QUINTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco normativo estatal en lo que se opongan al contenido del presente decreto.
+
+P.O. 10 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 246 POR EL QUE “SE ADICIONA EL PÁRRAFO QUINTO AL ARTÍCULO 137 Y SE REFORMA EL ARTÍCULO 139 DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado, por conducto de las instancias competentes en materia de movilidad, podrán realizar las adecuaciones administrativas, operativas y regulatorias que, en el ámbito de sus atribuciones, resulten necesarias para el debido cumplimiento del presente decreto.
+
+TERCERO.- La implementación de los mecanismos relacionados con tarifas preferenciales para estudiantes deberá realizarse de manera gradual, ordenada y conforme a la disponibilidad operativa y administrativa de las autoridades competentes, procurando condiciones de accesibilidad, igualdad y no discriminación para las personas usuarias del servicio público de transporte.
+
+Para tales efectos, las autoridades competentes podrán coordinarse con instituciones educativas y demás instancias vinculadas con la materia, a efecto de facilitar mecanismos de validación, actualización o acreditación de personas beneficiarias, así como acciones de difusión e información dirigidas a la ciudadanía.
+
+Las medidas que se implementen con motivo del presente decreto deberán observar criterios de inclusión y accesibilidad, evitando, en la medida de lo posible, prácticas o mecanismos que generen barreras injustificadas para el acceso a tarifas preferenciales.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
