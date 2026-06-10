@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2026-06-03"
+last_updated: "2026-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -106,6 +106,10 @@ j) El enfoque diferencial.
 Los tipos de violencia contra las mujeres son:
 
 a) Psicológica: cualquier acción u omisión que provoque un daño o alteración en la estabilidad psicológica de la mujer. Dicha acción u omisión comprende cualesquiera conducta o conductas que produzcan depresión, aislamiento, deterioro de la autoestima o propensión al suicidio de la mujer;
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+La violencia psicológica contra la mujer puede manifestarse como consecuencia de cualquiera de los tipos de violencia reconocidos en esta Ley y también puede expresarse, entre otras formas, a través del acecho, el cual se configura cuando una persona sigue, vigila, o se comunica, persistentemente con alguien en contra de su voluntad, provocándole miedo o temor;
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2025)</small>
 
@@ -1780,6 +1784,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 3 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1069 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS H), I) Y J), DEL ARTÍCULO 3, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1083 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL INCISO A), DEL ARTÍCULO 3, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
 
 ###### ARTÍCULO ÚNICO.
 
