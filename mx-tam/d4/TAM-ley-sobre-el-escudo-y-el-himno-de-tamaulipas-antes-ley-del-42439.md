@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-escudo-y-el-himno-de-tamaulipas-antes-ley-del-4243
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2024-12-11"
+last_updated: "2026-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -225,7 +225,7 @@ XXVIII.- 12 de abril, por el aniversario de la repoblación de Tampico en 1823;
 
 XXIX.- 15 de abril, con motivo de la fundación de Aldama en 1790;
 
-XXX.- 19 de abril, por el aniversario de la muerte de Doña Agapita Ortiz de Méndez en 1788;
+XXX.- (DEROGADA, P.O. 10 DE JUNIO DE 2026)
 
 XXXI.- 20 de abril, con motivo del aniversario de la capitalidad de la Villa de Aguayo con el nombre de Victoria en 1825;
 
@@ -388,6 +388,10 @@ b).- Aniversario del natalicio del General Cesar López de Lara en 1790.
 > <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
 LXIX.- 11 de septiembre, en homenaje al Ejército Mexicano, que con la ayuda del pueblo del Puerto de Tampico, hace capitular al Ejército Español en su intento de reconquista en 1829;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+LXIX Bis.- 19 de septiembre, nace en Villa de Santana, hoy Abasolo, Doña María Agapita Ortíz Martínez de Méndez, en 1803;
 
 > <small>(F. DE E., P.O. DE 12 DE ENERO DE 2012)</small>
 
@@ -849,10 +853,10 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 Todas las autoridades deberán realizar las modificaciones conducentes para el correcto uso del Escudo de Tamaulipas.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 232 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+P.O. 10 DE JUNIO DE 2026.
 
-PRIMERO. EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN LA GACETA OFICIAL, ÓRGANO DEL GOBIERNO DEL ESTADO.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1086 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN LXIX BIS, Y SE DEROGA LA FRACCIÓN XXX, AL ARTÍCULO 11 DE LA LEY SOBRE EL ESCUDO Y EL HIMNO DEL ESTADO DE TAMAULIPAS”.]
 
-SEGUNDO. SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
+###### ARTÍCULO ÚNICO.
 
-G.O. 30 DE DICIEMBRE DE 2019.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
