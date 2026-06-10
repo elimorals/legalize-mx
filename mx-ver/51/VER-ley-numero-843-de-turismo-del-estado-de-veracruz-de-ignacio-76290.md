@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2026-03-06"
+last_updated: "2026-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JUNIO DE 2026.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -746,6 +746,26 @@ Con el concurso de los Ayuntamientos, operadores turísticos, organizaciones soc
 El turismo rural comunitario es aquel que tiene como finalidad realizar actividades de convivencia e interacción con una comunidad rural, en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma, con el compromiso del pleno respeto de los usos y costumbres de la comunidad así como de la conservación de los recursos naturales y culturales que promuevan la generación de ingresos adicionales a la economía rural y a la conservación del hábitat natural.
 
 La Secretaría impulsará y promoverá el turismo rural comunitario en coordinación con las dependencias y entidades de la administración pública del Estado, los ayuntamientos y las comunidades rurales, otorgando facilidades a éstas para el establecimiento de proyectos turísticos rurales sustentables.
+
+> <small>(ADICIONADO, G.O. 10 DE JUNIO DE 2026)</small>
+
+###### Artículo 37 Ter.
+
+El agroturismo es una modalidad del turismo rural que ofrece al visitante la oportunidad de conocer, participar y experimentar de manera directa los procesos productivos agropecuarios y agroindustriales. Incluye actividades desarrolladas en fincas agropecuarias y agroindustrias, que pueden abarcar desde la siembra, cultivo, cosecha, procesamiento hasta la degustación de productos elaborados en dichos espacios, promoviendo la educación, cultura y recreación en el entorno rural.
+
+El fomento al agroturismo se guiará por los principios de sostenibilidad ambiental, respeto a la identidad cultural de las comunidades, equidad de género, inclusión social y la justa distribución de los beneficios económicos, asegurando que su desarrollo contribuya al bienestar de las regiones rurales.
+
+El Estado fomentará el desarrollo del agroturismo con el fin de fortalecer la economía local y promover un turismo sostenible. Para ello, podrá implementar, entre otras, las siguientes acciones:
+
+I. Fomentar programas de apoyo para productores y comunidades rurales que mejoren su infraestructura y servicios para la atención de visitantes;
+
+II. Brindar capacitación en actividades turísticas para productores y comunidades, incluyendo guías, educación ambiental y cultural;
+
+III. Apoyar en la promoción de festivales y eventos culturales vinculados con las actividades agrícolas de temporada y pecuarias, incluyendo mercados artesanales y degustaciones gastronómicas locales;
+
+IV. Celebrar convenios con asociaciones de productores, hoteles, transportistas y prestadores de servicios turísticos para garantizar una experiencia integral que incentive la visita y estancia en la región; y
+
+V. Fomentar la colaboración con instituciones educativas y organizaciones civiles para el desarrollo de programas de investigación, educación y sustentabilidad vinculados al agroturismo en la región.
 
 ## TÍTULO QUINTO. De la planeación gubernamental, la vocación turística de los municipios y el ordenamiento territorial
 
@@ -1760,3 +1780,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Se concede un plazo de noventa días, contado a partir de la vigencia del presente Decreto, a efectos de que el Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave realice las adecuaciones necesarias a las disposiciones reglamentarias para dar cabal cumplimiento al presente Decreto.
+
+G.O. 10 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 520 POR EL QUE SE ADICIONA EL ARTÍCULO 37 TER A LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
