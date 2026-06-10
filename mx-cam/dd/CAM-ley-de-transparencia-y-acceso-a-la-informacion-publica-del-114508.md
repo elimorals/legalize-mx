@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1145
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2023-03-06"
+last_updated: "2026-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 10 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 4 de mayo de 2016.
 
@@ -2602,3 +2604,45 @@ P.O. 6 DE MARZO DE 2023.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del decreto de reformas al párrafo segundo del artículo 125 bis de la Constitución Política del Estado, previa su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 10 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 247 POR EL QUE "SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A la entrada en vigor del presente Decreto se abrogan las disposiciones siguientes:
+
+I. Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche, publicada en el Periódico Oficial del Estado el 4 de mayo de 2016 y sus modificaciones posteriores; y
+
+II. Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Campeche, publicada en el Periódico Oficial del Estado el 26 de julio de 2017 y sus modificaciones posteriores.
+
+TERCERO.- A la entrada en vigor del presente Decreto, se entenderá extinta la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche, conforme lo establece el segundo párrafo del Artículo Segundo Transitorio del Decreto 193 de la LXV Legislatura del Congreso Local, publicado el 4 de febrero de 2026 en el Periódico Oficial del Estado, respetando las salvedades contenidas en las disposiciones transitorias establecidas en el Decreto antes mencionado.
+
+CUARTO.- La persona titular del Ejecutivo Estatal deberá expedir las adecuaciones correspondientes a los reglamentos y demás disposiciones aplicables, incluida la emisión del Reglamento Interior del Instituto de Transparencia para el Pueblo de Campeche, dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, a fin de armonizarlos a lo previsto en el mismo.
+
+QUINTO.- Los órganos internos de control u homólogos del Poder Judicial; Poder Legislativo y de los órganos constitucionales autónomos; en un plazo máximo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+Para efectos de lo previsto en este transitorio, se atenderá a lo establecido en el Artículo Sexto Transitorio del Decreto 193 de la LXV Legislatura del Congreso Local, publicado el 4 de febrero de 2026 en el Periódico Oficial del Estado, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia por las autoridades que se mencionan en el párrafo que antecede.
+
+En tanto entra en funciones el Instituto de Transparencia para el Pueblo de Campeche, la Secretaría de Anticorrupción y Buen Gobierno de la Administración Pública del Estado de Campeche atenderá las consultas sobre la gestión de solicitudes en la Plataforma Nacional de Transparencia.
+
+SEXTO.- El Órgano Interno de Control de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche, queda extinto y sus asuntos y procedimientos que a la entrada en vigor del presente Decreto estén a su cargo, así como los expedientes y archivos, serán entregados al organismo liquidador integrado por la Secretaría de Administración, Finanzas y Planeación de la Administración Pública del Estado de Campeche, dentro del término de veinte días hábiles contados a partir del día siguiente de la entrada en vigor del presente Decreto, para que posteriormente, sean entregados al Órgano Interno de Control de la Secretaría de Anticorrupción y Buen Gobierno de la Administración Pública del Estado de Campeche, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO.- El Comité del Subsistema Estatal de Transparencia deberá instalarse dentro de los sesenta días naturales, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita la Secretaría de Anticorrupción y Buen Gobierno.
+
+OCTAVO.- Los procedimientos en materia de transparencia, acceso a la información y/o datos personales iniciados previo a la publicación de este ordenamiento y que, conforme a lo dispuesto en el artículo transitorio tercero del Decreto 193 publicado el 04 de febrero de 2026 de reforma constitucional, no hubieran sido concluidos por la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche dentro de los plazos previstos para su extinción, serán atendidos por el Instituto de Transparencia para el Pueblo de Campeche, conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+Las solicitudes, recursos y demás medios de impugnación que se presenten durante el periodo de transición se sujetarán a lo previsto en el artículo transitorio sexto del Decreto 193, garantizando en todo momento la continuidad del ejercicio de los derechos de acceso a la información pública y de protección de datos personales.
+
+El Instituto podrá remitir a la Autoridad garante competente aquellos asuntos que se mencionan en el párrafo segundo que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche, en materia de acceso a la información pública, incluidos aquellos que se encuentren en trámite al momento de su extinción, se llevarán a cabo por el Instituto de Transparencia para el Pueblo de Campeche.
+
+NOVENO.- La Secretaría de Administración, Finanzas y Planeación y la Secretaría de Anticorrupción y Buen Gobierno, dictarán los lineamientos y disposiciones de carácter general en el ámbito de sus respectivas competencias que se estimen necesarios, en todo aquello que no se haya considerado expresamente en el presente Decreto y su régimen transitorio.
+
+DÉCIMO.- Los derechos adquiridos de las personas servidoras públicas que laboraron o se encontraban adscritas a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche deberán ser respetados y garantizados conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Campeche y la legislación laboral aplicable.
+
+El Organismo Liquidador deberá adoptar las medidas administrativas, presupuestales, financieras y jurídicas necesarias para proteger las obligaciones laborales y de seguridad social que deriven de la extinción de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche, hasta su total conclusión.
+
+DÉCIMO PRIMERO.- El Organismo Liquidador integrado por la Secretaría de Administración, Finanzas y Planeación de la Administración Pública del Estado de Campeche, en términos del Artículo Cuarto Transitorio del Decreto número 193 y del Acuerdo publicado en el Periódico Oficial del Estado el 18 de marzo de 2026, será la instancia responsable de coordinar, supervisar y ejecutar las acciones necesarias para la adecuada disolución y liquidación de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche, protegiendo la continuidad institucional, la protección de los derechos laborales y de seguridad social de las personas servidoras públicas, la atención de las obligaciones financieras, patrimoniales y administrativas, así como el cumplimiento de las disposiciones legales aplicables hasta la conclusión definitiva del proceso de liquidación.
