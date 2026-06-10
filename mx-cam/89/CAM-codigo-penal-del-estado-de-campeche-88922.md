@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2026-06-08"
+last_updated: "2026-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE JUNIO DE 2026.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1479,9 +1481,9 @@ I. Que las lesiones causadas sean infamantes, degradantes o una mutilación;
 
 II. Cuando existan antecedentes o datos de algún tipo de violencia en cualquier ámbito por parte del sujeto activo en contra de la víctima;
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2026)</small>
+(REFORMADA, P.O. 10 DE ABRIL DE 2026) (F. DE E., P.O. 10 DE JUNIO DE 2026)
 
-I (SIC). Cuando se haya utilizado cualquier tipo de agente o sustancia corrosiva, cáustica, irritante, tóxica o inflamable, álcali, ácido, líquido en altas temperaturas o cualquier otra sustancia, incluyendo las que necesiten otro agente para reaccionar y que causen lesiones, ya sean internas, externas o ambas; y
+III. Cuando se haya utilizado cualquier tipo de agente o sustancia corrosiva, cáustica, irritante, tóxica o inflamable, álcali, ácido, líquido en altas temperaturas o cualquier otra sustancia, incluyendo las que necesiten otro agente para reaccionar y que causen lesiones, ya sean internas, externas o ambas; y
 
 IV. Cuando entre el sujeto activo y la víctima exista o haya existido cualquier tipo de relación que implique confianza.
 
@@ -2117,17 +2119,25 @@ Este delito se perseguirá por querella de parte.
 
 #### SECCIÓN II. VIOLACIÓN A LA INTIMIDAD SEXUAL
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2026)</small>
 
 ###### Artículo 175 Bis.
 
-Comete el delito de violación a la intimidad sexual, aquella persona que divulgue, comparta, distribuya o publique imágenes, videos o audios de contenido íntimo sexual de una persona que tenga la mayoría de edad, sin su consentimiento, su aprobación o su autorización.
+Comete el delito de violación a la intimidad sexual, aquella persona que divulgue, comparta, distribuya o publique imágenes, videos o audios de contenido íntimo sexual de una persona, sin su consentimiento, su aprobación o su autorización.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
 Así como quien produzca, edite, videograbe, audiograbe, fotografíe, imprima o elabore imágenes, audios o videos con contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación, o sin su autorización.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+
 Estas conductas se sancionarán con una pena de tres a seis años de prisión y una multa de quinientos a mil Unidades de Medida y Actualización.
 
-Se impondrán las mismas sanciones previstas en el párrafo anterior cuando las imágenes, videos o audios de contenido íntimo sexual que se divulguen, compartan, distribuyan o publiquen no correspondan con la persona que es señalada o identificada en los mismos.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+Se impondrán las mismas penas previstas en el párrafo anterior cuando las imágenes, videos o audios de contenido íntimo sexual que se divulguen, compartan, distribuyan o publiquen no correspondan con la persona que es señalada o identificada en los mismos, así como a quien haciendo uso de la inteligencia artificial, manipule imágenes, audios o videos de contenido íntimo sexual de una persona, para crear hechos falsos con apariencia real, con el propósito de divulgar, difundir, distribuir, publicar, exhibir, intercambiar y/o compartirlos a través de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales o cualquier otro medio tecnológico, sin su consentimiento, su aprobación o su autorización.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
 El mínimo y el máximo de la sanción señalada en este artículo se aumentará hasta en una mitad:
 
@@ -2145,9 +2155,23 @@ VI.- Cuando la víctima se encuentre en situaciones de vulnerabilidad por su con
 
 VII.- Cuando la o el sujeto activo haya obtenido, para tales efectos, dicho material mediante robo o acceso no autorizado o intervención de comunicaciones o de archivos privados, o cualquier otro medio de obtención sin consentimiento de la víctima;
 
-VIII.- Cuando la o el sujeto activo sea ministro de cualquier culto.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+VIII.- Cuando la o el sujeto activo sea ministro de cualquier culto;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+IX.- Cuando los actos se cometan en un contexto de violencia de género; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+X.- Cuando la víctima sea menor de edad.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
 Si la persona fuese servidora o servidor público se procederá a la destitución de su empleo, cargo o comisión y a la inhabilitación de cinco a diez años para su desempeño en el mismo orden.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
 En todo caso, el Ministerio Público o la autoridad judicial, en el ámbito de su competencia, solicitará u ordenará el retiro y eliminación inmediata de la publicación de las imágenes, audios o videos no autorizados a las plataformas o medios de que se tratare, a efectos de salvaguardar la integridad de la víctima.
 
@@ -3361,7 +3385,9 @@ A quien emplee, aún gratuitamente, a personas menores de edad o que no tengan l
 
 A quien induzca a una persona menor de edad o que no tenga la capacidad para comprender el significado del hecho, directa o indirectamente, a observar escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico u obsceno, se le impondrán de tres meses a dos años de prisión y multa de cincuenta a doscientas Unidades Diarias de Medida y Actualización.
 
-Las mismas sanciones se impondrán a quien por cualquier medio directo venda, difunda o exhiba material pornográfico entre personas menores de edad o personas que no tengan la capacidad para comprender el significado del hecho.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+Las mismas sanciones se impondrán a quien oferte, venda, distribuya, difunda, haga circular, exponga o exhiba material pornográfico consistente en libros, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, o contenido creado con el uso de la Inteligencia Artificial, reales o simulados, sea de manera física o a través de cualquier medio, entre personas menores de edad o personas que no tengan la capacidad para comprender el significado del hecho.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
@@ -3397,9 +3423,13 @@ No se actualizarán los delitos de este Capítulo cuando se trate de programas e
 
 Se impondrán de cinco a diez años de prisión y multa de cuatrocientas a ochocientas Unidades de Medida y Actualización:
 
-I.- A quien produzca, fije, grabe, videograbe, fotografíe o filme de cualquier forma imágenes o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho o resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio, en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2026)</small>
 
-II.- A quien reproduzca, publique, publicite, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho o resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio, en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
+I.- A quien produzca, fije, grabe, videograbe, fotografíe, filme, altere o genere imágenes, la voz o video digital usando datos de reconocimiento facial y reconstrucción de aspectos físicos, mediante el uso de la Inteligencia Artificial, de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho o resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio, en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+II.- A quien reproduzca, publique, publicite, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, la voz o videos digitales usando datos de reconocimiento facial y reconstrucción de aspectos físicos, mediante el uso de la Inteligencia Artificial, de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho o resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio, en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
@@ -5730,3 +5760,13 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
+
+P.O. 10 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 245 POR EL QUE “SE REFORMAN LOS PÁRRAFOS PRIMERO Y CUARTO, LA FRACCIÓN VIII DEL ARTÍCULO 175 BIS; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 255; LAS FRACCIONES I Y II DEL ARTÍCULO 260 Y, SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 175 BIS, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
