@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-instituciones-de-asistencia-social-para-el-estado-de-816
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-05"
-last_updated: "2023-06-06"
+last_updated: "2026-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de enero de 1991.
 
@@ -521,7 +521,9 @@ II.- Llevar un control y registro de Centros Asistenciales y practicar visitas p
 
 III.- Investigar las quejas que se presenten en contra de algún Centro Asistencial, de sus Representantes o Administradores, Directores o empleados, respecto a su funcionamiento, tratamiento de internos o cualquier otro que afecte los objetivos propuestos;
 
-IV.- Llevar un estricto control de niños, mujeres, jóvenes o ancianos inscritos en el padrón de beneficiarios de cada Centro Asistencial, verificando su situación legal y la conveniencia social que justifique su permanencia en los mismos;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+IV.- Llevar un estricto control de niñas, niños y adolescentes, jóvenes, mujeres, hombres o personas adultas mayores, inscritos en el padrón de beneficiarios de cada Centro Asistencial, verificando su situación legal y la conveniencia social que le justifique su permanencia en los mismos;
 
 V.- Evaluar y seleccionar previamente a la pareja que solicitará la adopción de un beneficiario de algún Centro Asistencial;
 
@@ -547,9 +549,9 @@ I.- Constituir un Centro Asistencial sin la previa autorización;
 
 II.- No observar las normas que el presente ordenamiento establece para la constitución, funcionamiento y administración de los Centros Asistenciales; .
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2026)</small>
 
-III.- No cumplimentar las normas técnicas que emite la Secretaría de Salud para el funcionamiento de Casas de Cuna, Casas Hogar, Estancias Infantiles y/o Juveniles, Casas para Ancianos e Instituciones para la rehabilitación de niñas, niños, adolescentes y jóvenes con problemas de adicciones.
+III.- No cumplimentar las normas técnicas que emite la Secretaría de Salud para el funcionamiento de Casas de Cuna, Casas Hogar, Estancias Infantiles y/o Juveniles, Casas para Personas Adultas Mayores e Instituciones para la rehabilitación de niñas, niños, adolescentes y jóvenes con problemas de adicciones;
 
 IV.- No acatar las prevenciones que dicten, conforme a esta Ley, las Autoridades del Sistema;
 
@@ -634,6 +636,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-1084 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV, DEL ARTÍCULO 74 Y LA FRACCIÓN III, DEL ARTÍCULO 76, DE LA LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
