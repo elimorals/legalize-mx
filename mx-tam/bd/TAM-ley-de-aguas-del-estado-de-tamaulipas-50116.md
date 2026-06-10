@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2026-04-29"
+last_updated: "2026-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -89,6 +89,54 @@ VI. Establecer e implementar un sistema de índices de gestión que permita moni
 
 4. Sin demerito de lo anterior, los municipios podrán suscribir convenios, para que la evaluación y supervisión de sus organismos operadores de agua, sea a cargo de la Secretaría de Recursos Hidráulicos para el Desarrollo Social.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+###### Artículo 1 Bis.
+
+Toda persona gozará del derecho humano al agua conforme a lo establecido en la Constitución y a los tratados e instrumentos internacionales de los que el Estado mexicano sea parte.
+
+Todas las autoridades, en el ámbito de su competencia, tienen la obligación de promover, respetar, proteger y garantizar el derecho humano al agua.
+
+Las autoridades competentes deberán prevenir, investigar, sancionar y reparar las violaciones al derecho humano de acceso al agua en términos de las disposiciones legales aplicables, promoviendo que la reparación sea integral, pronta y expedita.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+###### Artículo 1 Ter.
+
+1. La presente Ley se regirá por los siguientes principios:
+
+I. Equidad intergeneracional: La obligación de asegurar que el acceso y disposición al agua se mantengan o se restablezcan, de modo que las generaciones futuras puedan disfrutar de este recurso esencial en condiciones equitativas;
+
+II. Pro persona: Debe prevalecer la interpretación conforme a la Constitución y a los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia;
+
+III. No discriminación: Toda persona y comunidad debe gozar del derecho humano al agua, sin distinción alguna y sin exclusiones, distinciones o restricciones de las autoridades o particulares que atenten contra la dignidad humana; asimismo, se deberá atender de manera prioritaria a los sectores en situación de mayor vulnerabilidad, marginación y desprotección de la población;
+
+IV. Participación ciudadana: El deber del Estado de garantizar mecanismos institucionales y jurídicos que permitan a todas las personas involucrarse activamente en la gestión, uso sostenible y protección del agua, promoviendo así el pleno ejercicio del derecho humano de acceso a este recurso;
+
+V. Prevención: Conjunto de medidas para evitar que el daño ambiental de los recursos hídricos se verifique;
+
+VI. Precaución: Adopción de medidas eficaces para impedir la degradación del agua destinada para consumo humano y doméstico cuando exista peligro de daño grave o irreversible, aún a falta de certeza científica;
+
+VII. Progresividad y no regresividad: Avance paulatino, efectivo y constante en el cumplimiento del derecho humano al agua, al tiempo que evita el retroceso en el nivel alcanzado del goce de los derechos humanos asociados al agua;
+
+VIII. Sustentabilidad: Acciones de protección, restauración y conservación que garanticen el derecho de las generaciones presentes y futuras al acceso al agua de calidad y en cantidad suficiente;
+
+IX. In dubio pro aqua: En caso de duda o contradicción, prevalecerá el criterio que beneficie en mayor medida el derecho humano al agua;
+
+X. Universalidad: Todas las personas sin excepción alguna son titulares del derecho humano al agua independientemente de su origen, nacionalidad, etnia, género, religión o cualquier otra condición; y
+
+XI. Bien público: El agua es un bien de dominio público, vital, vulnerable y finito, con valor económico, social y ambiental, cuya preservación en cantidad y calidad es una responsabilidad compartida entre el Estado y la sociedad.
+
+2. Adicionalmente, en la prestación de los servicios públicos de agua, drenaje, alcantarillado y saneamiento se observarán los siguientes criterios operativos:
+
+I. La prestación de los servicios debe realizarse con eficiencia, eficacia, promoviéndose el aprovechamiento sustentable del agua, su recirculación y reutilización;
+
+II. La gestión de los servicios públicos debe generar los recursos económicos y financieros necesarios para realizar las tareas a cargo de las y los prestadores del servicio, reconociendo socialmente que éstos deben cuantificarse y pagarse por quienes los utilizan, conforme a lo establecido en la presente Ley y demás disposiciones aplicables;
+
+III. El uso doméstico y el público urbano del agua son preferentes respecto de cualquier otro uso; y
+
+IV. Las personas físicas o morales que contaminen el agua son responsables de restaurar su calidad, con independencia de hacerse acreedoras a las sanciones que establezcan las disposiciones aplicables.
+
 ###### Artículo 2.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2016)</small>
@@ -97,9 +145,9 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Agua Cruda: El agua que se encuentra en los cuerpos receptores nacionales o estatales, sin tratamiento alguno, y que es extraída e introducida a la línea de producción de los servicios por medio del sistema de captación de agua.
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2026)</small>
 
-II. Agua Potable: El agua de uso público, doméstico, comercial y de servicios o industrial que no causa efectos nocivos a la salud y que no presenta propiedades objetables o contaminantes en concentraciones fuera de los límites permisibles en las normas oficiales mexicanas;
+II. Agua Potable: Agua para uso y consumo humano que no causa efectos nocivos a la salud y que no presenta propiedades objetables o contaminantes en concentraciones fuera de los límites permisibles;
 
 III. Aguas Estatales: Aquellas que no reúnan las características de aguas de propiedad nacional o particular en los términos del párrafo quinto del articulo 27 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -151,7 +199,15 @@ XIV Bis. Cosecha de Agua: Práctica orientada, a través de métodos diversos, a
 
 XIV Ter. Cosechador (a) de Agua de Lluvia: Dependencias, Entidades, Organismos, Instituciones, Organizaciones y Entes Públicos, privados y sociales, los Ejidos comunidades, barrios y pueblos, así como las y los habitantes del Estado, que conscientes de la fundamental importancia de construir colectivamente una nueva cultura del uso, ahorro y reúso del agua potable realicen las acciones individuales o colectivas que puedan contribuir con el Estado a promover, organizar e incentivar la cosecha de aguade (sic) lluvia;
 
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XIV Quater. Cultura del agua: Conjunto de conocimientos, valores, actitudes, costumbres y hábitos que son transmitidos a un individuo o sociedad para crear una consciencia responsable sobre el uso racional, la importancia del agua para el desarrollo de todo ser vivo, la disponibilidad del recurso en su entorno y las acciones necesarias para obtenerla, distribuirla, desalojarla, limpiarla y reutilizarla;
+
 XV. Cuota por Uso de Infraestructura: El importe que las personas físicas o morales del sector público o privado deben pagar al prestador de los servicios para hacer uso de la infraestructura existente con la finalidad de suministrar los servicios públicos en un predio específico.
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XV Bis. Derecho humano al agua: Acceso, disposición y saneamiento del agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible;
 
 XVI. Derecho de Vía: El área destinada a los conductos hidráulicos naturales o artificiales constituida por la franja de terreno de anchura variable de acuerdo al tipo de ducto que se requiera para la construcción, conservación, ampliación y protección de las líneas que integran los sistemas de captación, conducción, potabilización y distribución de agua potable; los sistemas de desalojo, recolección, tratamiento y reuso de las aguas residuales y el reuso de las aguas residuales tratadas.
 
@@ -185,6 +241,10 @@ XXIV. Eficiencia Comercial: El indicador de gestión que resulta de dividir los 
 
 XXV. Eficiencia Física: El indicador de gestión que resulta de dividir los metros cúbicos de agua facturados entre los metros cúbicos de agua que se capten en las fuentes de abastecimiento;
 
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XXV Bis. Estrategia Nacional Hídrica: Instrumento rector de la política hídrica del país a mediano y largo plazo que contiene los objetivos, metas e indicadores necesarios para evaluar el cumplimiento de la obligación del Estado en materia del derecho humano al agua y al saneamiento;
+
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
 XXVI. Eficiencia Global: El indicador de gestión que resulta de multiplicar la eficiencia comercial por la eficiencia física;
@@ -193,9 +253,17 @@ XXVI. Eficiencia Global: El indicador de gestión que resulta de multiplicar la 
 
 XXVII. Gasto Corriente: Todos los gastos que ejerza el prestador de los servicios o la Secretaría relacionados con la operación, conservación y mantenimiento de la línea de producción de los servicios, así como los relacionados con la comercialización de los mismos, la administración y suministro de insumas (sic) humanos, materiales y de servicios, y la supervisión y control de obras de infraestructura;
 
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XXVII Bis. Gestión del agua: Proceso sustentado en principios, políticas, acciones, recursos, instrumentos, sistemas normativos formales y no formales, bienes, derechos, atribuciones y responsabilidades de los tres órdenes de gobierno, mediante el que las autoridades responsables, las comunidades, las personas usuarias del agua y la sociedad, de manera coordinada y participativa promueven e instrumentan el uso sustentable, la distribución equitativa y la administración;
+
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
 XXVIII. Gestión Integral del Agua: El proceso sustentado en el conjunto de principios, políticas, actos, recursos, instrumentos, normas formales y no formales, bienes, recursos, derechos, atribuciones y responsabilidades, mediante el cual coordinadamente la Federación, el Estado, los Municipios, las organizaciones de la sociedad, y los usuarios del agua, promueven e instrumentan su aprovechamiento para lograr el desarrollo sustentable en beneficio de los seres humanos y su medio social, económico y ambiental;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XXVIII Bis. Infraestructura Hidráulica: Obras de captación, circulación, distribución, almacenaje y limpieza que tienen por objeto prestar el servicio público de agua y saneamiento;
 
 XXIX. (DEROGADA, P.O. 21 DE FEBRERO DE 2024)
 
@@ -279,21 +347,37 @@ XLVIII. Reúso de las aguas residuales: La utilización de las aguas residuales 
 
 XLIX. Reúso de las aguas residuales tratadas: La utilización de las aguas saneadas en diferentes usos, antes de entregarse a los cuerpos receptores;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2026)</small>
 
-L. Saneamiento: La acción de sanear las aguas residuales para que cumplan con ciertas características de calidad, con el fin de evitar la contaminación de los cuerpos receptores y coadyuvar en la preservación del medio ambiente. Para efectos de esta Ley, el proceso de saneamiento está conformado por las descargas sanitarias y los sistemas de desalojo, recolección y tratamiento de las aguas residuales;
+L. Saneamiento: Proceso de eliminación higiénica de las excretas de las aguas residuales, el cual incluye la prevención, aislamiento y eliminación de contaminantes a fin de mitigar los riesgos ambientales y sanitarios acorde a los estándares internacionales y las mejores prácticas en la materia;
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
 LI. Secretaría: Secretaría de Recursos Hidráulicos para el Desarrollo Social del Gobierno del Estado de Tamaulipas;
 
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+LI Bis. Servicio intermunicipal de agua y saneamiento: Integración de dos o más organismos operadores de agua de una sola entidad federativa que mediante convenio, se encargan de forma coordinada del almacenaje, conducción, distribución, medición, drenaje sanitario, drenaje pluvial, alcantarillado, disposición y saneamiento o tratamiento de las aguas residuales, facturación y cobro del suministro de agua para centros de población y asentamientos humanos;
+
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
 LII. Servicios Públicos: Aquellos que se prestan a la población o asentamientos humanos en predios urbanos, industriales, comerciales o de servicios relacionados con el suministro de agua potable, drenaje, alcantarillado, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas;
 
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+LII Bis. Sistemas comunitarios de agua y saneamiento: Instancias conformadas por personas de una comunidad, organizadas bajo sistemas normativos propios con la finalidad de prestar el servicio de agua potable y en su caso, tratamiento de aguas residuales, sin una lógica de lucro o ganancia;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+LII Ter. Sistemas de captación de agua pluvial: Mecanismos que permiten la recolección, filtración, tratamiento y almacenaje del agua de lluvia que cae en el techo o cubierta para su posterior uso y aprovechamiento en la vivienda o edificación;
+
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
 LIII. Sistema Estatal de Información del Sector Agua para el Estado: El sistema tecnológico que contiene la visión del Sector en el largo plazo; los índices de eficacia, eficiencia y productividad resultantes del diagnóstico del Sector; los programas, estrategias y líneas de acción del Programa Estratégico de Desarrollo del Sector Agua del Estado; las metas para cada uno de los indicadores de gestión y su (sic) proyecciones; los avances físicos y económicos de cada uno de los proyectos en ejecución; las proyecciones financieras y demás documentos relevantes para el Sector;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+LIII Bis. Soluciones basadas en la naturaleza: Serie de procesos infundidos en la naturaleza, que reproducen los ciclos naturales del agua para contribuir a su gestión integral, así como a la conservación, o bien, la rehabilitación de ecosistemas naturales y la implementación o mejora de procesos naturales en ecosistemas artificiales o modificados en beneficio del ciclo hidrológico;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -395,23 +479,9 @@ LXXVII. Uso Público: La utilización de agua para el uso en espacios públicos,
 
 LXXVIII. Usuarios: Las personas físicas o morales que reciban los servicios públicos.
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
-
 ###### Artículo 2 Bis.
 
-La presente Ley se regirá por los siguientes principios:
-
-I. El agua es un bien de dominio público, vital, vulnerable y finito, con valor económico, social y ambiental, cuya preservación en cantidad y calidad es una responsabilidad compartida entre el Estado y la sociedad;
-
-II. Queda prohibida toda discriminación que atente contra la dignidad humana y tenga por objeto anular o menoscabar el derecho al acceso a los servicios de agua potable y tratamiento para consumo personal y doméstico;
-
-III. La prestación de los servicios debe realizarse con eficiencia, eficacia y promoverse su aprovechamiento sustentable, su recirculación y reutilización;
-
-IV. La gestión de los servicios públicos debe generar recursos económicos y financieros necesarios para realizar las tareas a cargo de las y los prestadores del servicio, reconociendo socialmente que éstos deben cuantificarse y pagarse por quienes los utilizan, conforme a lo establecido en la presente Ley y demás disposiciones aplicables;
-
-V. El uso doméstico y el público urbano del agua son preferentes respecto de cualquier otro uso; y
-
-VI. Las personas físicas o morales que contaminen el agua son responsables de restaurar su calidad, con independencia de hacerse acreedoras a las sanciones que establezcan las disposiciones aplicables.
+(DEROGADO, P.O. 10 DE JUNIO DE 2026)
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -463,11 +533,35 @@ X. Establecer la coordinación con las dependencias y entidades de la administra
 
 XI. Otorgar y revocar concesiones y asignaciones para el uso, explotación y aprovechamiento de las aguas de jurisdicción estatal, así como sobre otros bienes del dominio público para la ejecución de obras de infraestructura hidráulica, en los términos de la Ley de Bienes del Estado y sus Municipios;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2026)</small>
 
-XII. Prestar los servicios públicos en los municipios del Estado, en forma temporal y previo convenio que celebre con el Ayuntamiento respectivo, ya sea de manera directa o por medio de la Secretaría o, en su caso, del organismo descentralizado creado para cumplir con ese fin; y
+XII. Prestar los servicios públicos en los municipios del Estado, en forma temporal y previo convenio que celebre con el Ayuntamiento respectivo, ya sea de manera directa o por medio de la Secretaría o, en su caso, del organismo descentralizado creado para cumplir con ese fin;
 
-XIII. Las demás que le otorgue esta ley u otros ordenamientos jurídicos.
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XIII. Formular, conducir y evaluar la política estatal en materia de agua y saneamiento, refiriéndolos como derechos humanos fundamentales de atención prioritaria, incorporando la perspectiva de género, enfoque de derechos humanos y el interés superior de la niñez;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XIV. Garantizar el disfrute del derecho humano al agua, mediante la regulación del aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de su jurisdicción, así como de las aguas nacionales que tengan asignadas;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XV. Asegurar el disfrute del derecho humano al agua, mediante la adecuada regulación de la prestación de los servicios de agua potable, drenaje y alcantarillado, así como el tratamiento, disposición y reúso de las aguas residuales de su jurisdicción;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XVI. Coordinarse con la Federación y los municipios de su entidad para asegurar que los programas, políticas y acciones que realicen, observen como prioritario el derecho humano al agua;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XVII. Emitir las regulaciones y promover la instalación de sistemas de captación pluvial para uso doméstico, acordes a sus necesidades regionales;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XVIII. Promover la participación de todos los sectores en las entidades para coadyuvar en la garantía del derecho humano al agua; y
+
+XIX. Las demás que le otorgue esta ley u otros ordenamientos jurídicos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE FEBRERO DE 2024)</small>
 
@@ -847,11 +941,41 @@ XXII. Llevar a cabo campañas continuas de cultura del agua entre la población,
 
 XXIII. Transmitir el uso de aguas residuales de naturaleza estatal conforme a la presente Ley; y de las aguas residuales de naturaleza nacional que tengan asignadas conforme a la Ley de Aguas Nacionales, su reglamento y demás normatividad aplicable;
 
-> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2026)</small>
 
-XXIV. Aprobar los términos, condiciones y contraprestaciones correspondientes a la transmisión del uso de aguas residuales de naturaleza estatal conforme a la presente Ley; y de las aguas residuales de naturaleza nacional que tengan asignadas conforme a la Ley de Aguas Nacionales, su reglamento y demás normatividad aplicable; y
+XXIV. Aprobar los términos, condiciones y contraprestaciones correspondientes a la transmisión del uso de aguas residuales de naturaleza estatal conforme a la presente Ley; y de las aguas residuales de naturaleza nacional que tengan asignadas conforme a la Ley de Aguas Nacionales, su reglamento y demás normatividad aplicable;
 
-XXV. Las demás atribuciones que les otorguen ésta u otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XXV. Garantizar la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales considerándolos como un derecho humano de atención prioritaria;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XXVI. Dar prioridad a la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, en la programación y presupuestación municipal, por tratarse de derechos humanos de atención prioritaria;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XXVII. Introducir la perspectiva de derechos humanos, de género, principio de equidad y visión de infancia en la programación y presupuestación para la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XXVIII. Coordinarse y, en su caso, asociarse con los municipios para el establecimiento de sistemas intermunicipales de agua y saneamiento, con el objeto de garantizar la adecuada prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, en los términos previstos por la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XXIX. Expedir las disposiciones administrativas necesarias para garantizar la adecuada prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XXX. Promover la participación ciudadana para sensibilizar, acercar, concientizar y propiciar la acción comunitaria en la conservación, utilización y preservación de los recursos y bienes públicos relacionados con la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de las aguas residuales;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2026)</small>
+
+XXXI. Formular el programa para la prestación de los servicios públicos de agua potable y saneamiento correspondiente a su demarcación; y
+
+(REUBICADA [N. DE E. REFORMADA], P.O. 10 DE JUNIO DE 2026)
+
+XXXII. Las que le encomienden las leyes federales y locales en la materia.
 
 ###### Artículo 19.
 
@@ -2635,7 +2759,23 @@ h. Por los servicios ambientales proporcionados por los elementos del ciclo hidr
 
 4. Se podrán otorgar bonificaciones de hasta el 50% por los servicios que prestan los organismos operadores a los usuarios de instalaciones, campamentos o bases a cargo de instituciones de seguridad pública nacional.
 
-5. La autoridad u organismo operador a cargo de la prestación y cobro del servicio del agua, actualizará anualmente las tarifas conforme a la variación del Índice Nacional de Precios al Consumidor emitido por el Banco de México al mes de diciembre del año anterior.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+5. La autoridad u organismo operador a cargo de la prestación y cobro del servicio del agua, actualizará anualmente las tarifas como mínimo, conforme a la variación anual del Índice Nacional de Precios al Consumidor correspondiente al mes de noviembre o diciembre del año inmediato anterior, publicado por el Banco de México.
+
+[N. DE E. PERTENECE AL PÁRRAFO 5, P.O. 10 DE JUNIO DE 2026)
+
+En ningún caso la actualización podrá ser inferior a dicha variación, salvo que exista justificación técnica, financiera o de política pública debidamente fundada y motivada por la autoridad competente, con base en estudios técnicos que acrediten las condiciones económicas, financieras y operativas del servicio, conforme a la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+###### Artículo 141 Bis.
+
+Los prestadores de los servicios públicos deberán determinar el costo unitario por metro cúbico de los servicios de agua potable, drenaje, alcantarillado y saneamiento, con base en un estudio técnico-financiero que considere los costos de operación, mantenimiento, administración, inversión y depreciación de la infraestructura hidráulica, así como los niveles de eficiencia del sistema en parámetros adecuados.
+
+El estudio a que se refiere el párrafo anterior será la base para la determinación y actualización de las tarifas aplicables a los distintos tipos de usuarios, conforme a los principios previstos en esta Ley y deberá ser remitido a la Secretaría.
+
+El estudio deberá ser aprobado por el Consejo de Administración del organismo operador, actualizarse periódicamente y ponerse a disposición del público en términos de las disposiciones aplicables en materia de transparencia.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -2849,11 +2989,17 @@ Los usuarios mencionados en el artículo anterior no podrán enajenar o comercia
 
 ###### Artículo 161.
 
-1. A efecto de promover el reúso de las aguas residuales de naturaleza estatal, los prestadores de los servicios públicos podrán transmitir a terceros el uso de las aguas residuales tratadas o no tratadas antes de que las mismas lleguen al punto de descarga que corresponda conforme a los títulos de concesión o asignación del prestador de los servicios, o en los permisos de descarga correspondientes, siempre y cuando se cumpla con las normas oficiales mexicanas y las condiciones particulares de descarga. Para llevar a cabo la transmisión del uso de aguas residuales no será necesaria concesión o seguir las formalidades contenidas en el artículo 48 o 61 de esta Ley.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2026)</small>
 
-2. Tratándose del reúso de las aguas residuales de naturaleza nacional, los prestadores de los servicios públicos podrán transmitir el derecho de uso de las aguas residuales tratadas o no tratadas antes de que las mismas lleguen al punto de descarga que corresponda, conforme a lo que se establezca en la Ley de Aguas Nacionales, su reglamento y demás normatividad aplicable.
+1. A efecto de promover el reúso de las aguas residuales de naturaleza estatal, los prestadores de los servicios públicos podrán transmitir a terceros el uso o el reúso de las aguas residuales tratadas o no tratadas antes de que las mismas lleguen al punto de descarga que corresponda conforme a los títulos de concesión o asignación del prestador de los servicios, o en los permisos de descarga correspondientes, siempre y cuando se cumpla con las normas oficiales mexicanas y las condiciones particulares de descarga. Para llevar a cabo la transmisión del uso o el reúso de aguas residuales no será necesaria concesión o seguir las formalidades contenidas en el artículo 48 o 61 de esta Ley.
 
-3. Los prestadores del servicio, conforme a lo dispuesto por esta Ley y demás legislación aplicable, establecerán las condiciones especiales de cada solicitud de reúso de las aguas residuales, las cuales serán consideradas en el convenio respectivo que al efecto se celebre con el solicitante. En el convenio se especificarán, además, las cuotas y tarifas por el uso en los términos mencionados en este artículo y las condiciones específicas de descarga de las aguas residuales reusadas.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+2. Tratándose del reúso de las aguas residuales de naturaleza nacional, los prestadores de los servicios públicos podrán transmitir el derecho de uso o el reúso de las aguas residuales tratadas o no tratadas antes de que las mismas lleguen al punto de descarga que corresponda, conforme a lo que se establezca en la Ley de Aguas Nacionales, su reglamento y demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+3. Los prestadores del servicio, conforme a lo dispuesto por esta Ley y demás legislación aplicable, establecerán las condiciones especiales de cada solicitud de reúso de las aguas residuales, las cuales serán consideradas en el convenio respectivo que al efecto se celebre con el solicitante. En el convenio se especificarán, además, las cuotas y tarifas por el uso o el reúso en los términos mencionados en este artículo y las condiciones específicas de descarga de las aguas residuales reusadas. Como parte de las condiciones especiales y/o de la contraprestación por el uso o reúso de las aguas residuales tratadas o no tratadas, en el convenio respectivo, se podrá contemplar pagos en numerario o en especie por parte del solicitante, así como la construcción o reparación de obras de infraestructura hidráulica y servicios de administración, operación, construcción y mantenimiento de los sistemas, siempre bajo el control de los organismos operadores.
 
 4. En el Estado es obligatorio el uso de las aguas residuales tratadas en los usos que de acuerdo a la calidad del agua sean permitidos por las leyes, reglamentos y demás normas aplicables.
 
@@ -2867,9 +3013,9 @@ II. Los propietarios de predios utilizados como áreas verdes donde, de acuerdo 
 
 III. Los propietarios o poseedores de predios que se dediquen al cultivo de productos agrícolas que, de acuerdo a las normas aplicables, puedan ser regados con agua residual tratada.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2026)</small>
 
-2. Los usuarios de los servicios públicos de reúso que adquieran de los municipios u organismos operadores aguas residuales con o sin tratamiento previo, estarán facultados para hacer uso de dichas aguas sin la necesidad de obtener concesión u observar las formalidades contenidas en el artículo 48 o 61 de esta Ley.
+2. Los usuarios de los servicios públicos de reúso que adquieran de los municipios u organismos operadores de aguas residuales con o sin tratamiento previo, estarán facultados para hacer uso o reúso de dichas aguas sin la necesidad de obtener concesión u observar las formalidades contenidas en los artículos 48 o 61 de esta Ley.
 
 ###### Artículo 163.
 
@@ -3856,6 +4002,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 29 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1053 MEDIANTE EL CUAL SE REFORMA EL NUMERAL 2; Y SE ADICIONA UN NUMERAL 4, AL ARTÍCULO 146 DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1068 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
