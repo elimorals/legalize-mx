@@ -4,7 +4,7 @@ identifier: "HID-ley-de-entrega-recepcion-de-los-recursos-publicos-del-110172"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-12"
-last_updated: "2024-09-17"
+last_updated: "2026-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de octubre de 2015.
 
@@ -209,19 +209,25 @@ III. Documentos y archivos, impresos y electrónicos;
 
 IV. Recursos humanos;
 
-V. Recursos materiales;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2026)</small>
+
+V. Recursos materiales, estudios, proyectos y, en su caso, obras públicas en proceso;
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 VI. Recursos financieros;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2026)</small>
 
-VII. Recursos informáticos; y
+VII. Recursos informáticos;
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2026)</small>
 
-VIII. Expedientes de asuntos legales, incluyendo los procedimientos de investigación de responsabilidades administrativas iniciados por el Órgano Interno de Control correspondiente.
+VIII. Expedientes de asuntos legales, incluyendo los procedimientos de investigación de responsabilidades administrativas iniciados por el Órgano Interno de Control correspondiente; e
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2026)</small>
+
+IX. Informes y observaciones en proceso de solventación clasificadas por los entes fiscalizadores.
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
@@ -408,3 +414,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1096 POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VIII DEL ARTÍCULO 14 DEL ARTÍCULO 14 (SIC) DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 645 – LXVI POR EL QUE SE REFORMAN LAS FRACCIONES V, VII Y VIII Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 14 DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS PARA EL ESTADO DE HIDALGO, EN MATERIA DE INFORMACIÓN Y DOCUMENTACIÓN QUE SE ACOMPAÑA AL ACTA DE ENTREGA RECEPCIÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
