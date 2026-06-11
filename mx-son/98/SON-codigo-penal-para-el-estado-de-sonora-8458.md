@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2026-05-18"
+last_updated: "2026-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JUNIO DE 2026.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -1251,6 +1251,14 @@ En los casos de delitos por hechos de corrupción precisados en el Título Sépt
 
 En los delitos de homicidio calificado, feminicidio, utilización de imágenes y/o voces de personas menores de edad para la pornografía, evasión de presos, desaparición forzada de personas, tráfico de menores e incapaces, violación y en el supuesto a que hace referencia el párrafo cuarto del artículo 213, el ejercicio de la acción penal será imprescriptible.
 
+> <small>(ADICIONADO, B.O. 11 DE JUNIO DE 2026)</small>
+
+También será imprescriptible el ejercicio de la acción penal cuando se trate de los delitos previstos en el Título Décimo Segundo de este Código cuando las víctimas sean niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, B.O. 11 DE JUNIO DE 2026)</small>
+
+Se entiende por niñas, niños y adolescentes a todas las personas menores de dieciocho años, siendo el grupo de cero a once años consideradas niñas/niños y de doce a diecisiete años adolescentes.
+
 ###### ARTICULO 101.
 
 La acción penal prescribirá en un año, si el delito sólo mereciere multa o trabajo en favor de la comunidad como pena autónoma. Si el delito ameritare, además de esta sanción, la privativa de libertad, o la sanción fuere alternativa, se atenderá en todo caso a la prescripción de la pena privativa de libertad, y lo mismo se observará cuando corresponda a alguna otra sanción accesoria.
@@ -1326,6 +1334,14 @@ Las sanciones privativas de libertad prescribirán en un tiempo igual al fijado 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
 Las sanciones derivadas del ejercicio de la acción penal sobre los delitos de homicidio calificado, utilización de imágenes y/o voces de personas menores de edad para la pornografía, evasión de presos, desaparición forzada de personas, feminicidio, tráfico de menores e incapaces, violación y en el supuesto a que hace referencia el párrafo cuarto del artículo 213, serán imprescriptibles.
+
+> <small>(ADICIONADO, B.O. 11 DE JUNIO DE 2026)</small>
+
+También serán imprescriptibles las sanciones privativas de libertad sobre los delitos contemplados en el Título Décimo Segundo de este Código cuando las víctimas sean niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, B.O. 11 DE JUNIO DE 2026)</small>
+
+Se entiende por niñas, niños y adolescentes a todas las personas menores de dieciocho años, siendo el grupo de cero a once años consideradas niñas/niños y de doce a diecisiete años adolescentes.
 
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -3721,13 +3737,43 @@ No constituye cobranza extrajudicial ilícita, informar de las consecuencias jur
 
 Si el responsable utiliza documentos o sellos oficiales falsos o incurre en usurpación de funciones públicas o de profesión, se aplicarán las reglas del concurso de delitos.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 11 DE JUNIO DE 2026)</small>
+
+### CAPITULO V. ACECHO
+
+> <small>(ADICIONADO, B.O. 11 DE JUNIO DE 2026)</small>
+
+ARTICULO 241 BIS 4.- Al que, de manera reiterada y sin consentimiento de la víctima, realice conductas de vigilancia, seguimiento, hostigamiento o contacto no deseado, por cualquier medio, que de forma objetiva y verificable alteren de manera significativa sus condiciones normales de vida o limiten su libertad de actuar o tomar decisiones, generándole un temor fundado de sufrir un daño en su persona, familia o patrimonio, se le impondrá de seis meses a tres años de prisión y multa de hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización. Se entenderá por conducta reiterada aquella que se realice en dos o más ocasiones en un contexto de continuidad, y por alteración significativa de las condiciones de vida aquella modificación comprobable en los hábitos, rutinas o actividades cotidianas de la víctima, incluyendo cambios en su domicilio, lugar de trabajo, estudio o entorno habitual.
+
+Las penas previstas en el presente artículo podrán incrementarse hasta en una mitad cuando concurra alguna de las siguientes circunstancias:
+
+I.- Se valga de un arma durante la comisión del delito.
+
+II.- Se viole una orden de protección o restricción judicial otorgada a favor de la víctima.
+
+III.- Haya sido condenado por cometer el mismo delito con anterioridad.
+
+IV.- Cometa el delito en perjuicio de una niña, niño o adolescente o que no tenga la capacidad para comprender el significado del hecho o para resistirlo.
+
+V.- Se valga de una posición jerárquica para cometer el delito, derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique subordinación.
+
+VI.- Sea o haya sido cónyuge, concubino o concubina, mantenga o haya mantenido una relación sentimental con la víctima.
+
+VII.- Cometa el delito con una o más personas.
+
+VIII.- Cometa el delito en contra de una persona vulnerable por razón de su edad, enfermedad, discapacidad física o psicológica, pobreza o marginación.
+
+Si el sujeto activo del delito fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de las penas señaladas, se le destituirá del cargo y se le inhabilitará para ocupar cualquier cargo público hasta por la duración de la pena de prisión impuesta.
+
+Si como resultado del acecho se produce daño en la integridad física de la víctima o de alguno de los integrantes de su familia, se impondrá una pena de prisión de tres a cinco años, sin perjuicio de la que corresponda de los demás delitos que se cometan.
+
+Este delito se perseguirá por querella de parte ofendida, con excepción de lo previsto en el párrafo anterior y lo dispuesto en las fracciones IV y VIII del párrafo segundo del presente artículo, los cuales se perseguirán de oficio.
+
 TITULO DECIMOSEXTO
 
 DELITOS CONTRA LA VIDA Y LA SALUD
 
 ### CAPITULO I. LESIONES
-
-### CAPITULO II. HOMICIDIO
 
 ###### ARTICULO 242.
 
@@ -3807,23 +3853,7 @@ Los padres o tutores que a sabiendas que sus hijos o pupilos padecen alguna enfe
 
 Cuando el contagio llegare a consumarse, el responsable será sancionado en los términos que para el delito de lesiones u homicidio fija este Código.
 
-### CAPITULO II BIS. DISPARO INDEBIDO DE ARMA DE FUEGO
-
-> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
-
-ARTICULO 258 BIS.- Se impondrá una pena de 5 años un mes a 8 años de prisión y multa de 40 a 400 Unidades de Medida y Actualización, a quien realice el disparo de un arma de fuego sin tomar las medidas de seguridad indispensables para cerciorarse de no poner en riesgo la integridad física o patrimonial de terceras de personas.
-
-> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
-
-ARTICULO 258 BIS 1.- Cuando el delito al que se refiere el presente capítulo, sea cometido en fines de semana, días festivos y/o días de asueto, o en eventos públicos, en estado de embriaguez o bajo el influjo de estupefacientes, psicotrópicos o cualquier otra substancia que afecte las facultades psicomotrices, la sanción será de 6 a 9 años de prisión y multa de 100 a 500 Unidades de Medida y Actualización.
-
-> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
-
-ARTICULO 258 BIS 2.- Cuando el sujeto activo del delito señalado en el presente capítulo sea o hubiera sido servidor público de las Instituciones de Seguridad Pública, se le impondrá hasta una mitad más de la pena correspondiente, además de la destitución del cargo y la inhabilitación para desempeñarse como servidor público en el Gobierno Estatal y en los Ayuntamientos de la Entidad, por el doble del tiempo al de la pena de prisión impuesta.
-
-> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
-
-ARTICULO 258 BIS 3.- El delito al que se refiere este capítulo será perseguible de manera oficiosa y estará sujeto a las reglas del concurso real, por lo que sus sanciones se impondrán sin perjuicio de las penas que correspondan por otros delitos previstos en este Código y demás disposiciones legales aplicables.
+### CAPITULO II. HOMICIDIO
 
 ###### ARTICULO 252.
 
@@ -3901,13 +3931,27 @@ Al responsable de cualquier otro homicidio calificado se impondrá de veinte a c
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 9 DE ABRIL DE 2018)</small>
 
+### CAPITULO II BIS. DISPARO INDEBIDO DE ARMA DE FUEGO
+
+> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+
+ARTICULO 258 BIS.- Se impondrá una pena de 5 años un mes a 8 años de prisión y multa de 40 a 400 Unidades de Medida y Actualización, a quien realice el disparo de un arma de fuego sin tomar las medidas de seguridad indispensables para cerciorarse de no poner en riesgo la integridad física o patrimonial de terceras de personas.
+
+> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+
+ARTICULO 258 BIS 1.- Cuando el delito al que se refiere el presente capítulo, sea cometido en fines de semana, días festivos y/o días de asueto, o en eventos públicos, en estado de embriaguez o bajo el influjo de estupefacientes, psicotrópicos o cualquier otra substancia que afecte las facultades psicomotrices, la sanción será de 6 a 9 años de prisión y multa de 100 a 500 Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+ARTICULO 258 BIS 2.- Cuando el sujeto activo del delito señalado en el presente capítulo sea o hubiera sido servidor público de las Instituciones de Seguridad Pública, se le impondrá hasta una mitad más de la pena correspondiente, además de la destitución del cargo y la inhabilitación para desempeñarse como servidor público en el Gobierno Estatal y en los Ayuntamientos de la Entidad, por el doble del tiempo al de la pena de prisión impuesta.
+
+> <small>(ADICIONADO, B.O. 9 DE ABRIL DE 2018)</small>
+
+ARTICULO 258 BIS 3.- El delito al que se refiere este capítulo será perseguible de manera oficiosa y estará sujeto a las reglas del concurso real, por lo que sus sanciones se impondrán sin perjuicio de las penas que correspondan por otros delitos previstos en este Código y demás disposiciones legales aplicables.
+
 ### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE JUNIO DE 2017)</small>
-
-### CAPÍTULO III BIS. FEMINICIDIO
-
-> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 259.
 
@@ -3967,17 +4011,9 @@ ARTICULO 263 BIS.- Cuando la comisión de los delitos de homicidio o lesiones se
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 28 DE NOVIEMBRE DE 2013)</small>
 
-### CAPITULO III TER. HOMICIDIO INFANTIL
+### CAPÍTULO III BIS. FEMINICIDIO
 
-> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2019)</small>
-
-ARTICULO 263 TER.- Comete el delito de homicidio infantil el que priva de la vida a una persona menor de doce años.
-
-> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
-
-Al que cometa el delito referido en (sic) presente artículo se le impondrán de cuarenta y cinco a setenta años de prisión y multa de tres mil a cinco mil Unidades de Medida y Actualización.
-
-Para la individualización de las sanciones previstas en este artículo se impondrá la pena máxima cuando a la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o se ejecute utilizando armas de fuego.
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTICULO 263 Bis 1.
 
@@ -4029,9 +4065,19 @@ Al servidor público que maliciosamente o por negligencia, retarde o entorpezca 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 23 DE DICIEMBRE DE 2019)</small>
 
-### CAPITULO IV. AUXILIOS O INDUCCION AL SUICIDIO
+### CAPITULO III TER. HOMICIDIO INFANTIL
 
-### CAPITULO V. ABORTO
+> <small>(ADICIONADO, B.O. 23 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 263 TER.- Comete el delito de homicidio infantil el que priva de la vida a una persona menor de doce años.
+
+> <small>(REFORMADO, B.O. 13 DE JULIO DE 2023)</small>
+
+Al que cometa el delito referido en (sic) presente artículo se le impondrán de cuarenta y cinco a setenta años de prisión y multa de tres mil a cinco mil Unidades de Medida y Actualización.
+
+Para la individualización de las sanciones previstas en este artículo se impondrá la pena máxima cuando a la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o se ejecute utilizando armas de fuego.
+
+### CAPITULO IV. AUXILIOS O INDUCCION AL SUICIDIO
 
 ###### ARTICULO 264.
 
@@ -4045,9 +4091,7 @@ Si la persona a quien se auxilie o induzca al suicidio fuere menor de edad, adul
 
 Si se auxilia o induce al suicidio a una persona por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
 
-### CAPITULO VI. VENTA CLANDESTINA DE BEBIDAS ALCOHOLICAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+### CAPITULO V. ABORTO
 
 ###### ARTICULO 265.
 
@@ -4077,7 +4121,9 @@ No es punible el aborto causado por culpa de la mujer embarazada, o cuando el em
 
 No se aplicará sanción alguna cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO VII. ABANDONO DE PERSONAS
+### CAPITULO VI. VENTA CLANDESTINA DE BEBIDAS ALCOHOLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 271.
 
@@ -4111,31 +4157,7 @@ Además de las sanciones señaladas, se decretará el decomiso en beneficio del 
 
 Si las conductas a que se refieren las fracciones anteriores se llevan a cabo en más de una ocasión, la sanción será de dos a nueve años y multa de cincuenta a mil Unidades de Medida y Actualización.
 
-### CAPITULO VIII. SUMISIÓN QUÍMICA
-
-> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2023)</small>
-
-ARTICULO 275 TER.- Comete el delito de sumisión química quien de manera subrepticia o mediante intimidación o engaño obligue, procure, facilite, induzca, fomente, propicie o favorezca el consumo de narcóticos, fármacos o cualquier otra sustancia natural o química, con uno o varios de los siguientes propósitos:
-
-I. Manipular, anular o disminuir la voluntad de la víctima;
-
-II. Generar una disminución del grado de vigilancia de la víctima;
-
-III. Vulnerar la capacidad de juicio de la víctima; o
-
-IV. Provocar la completa inconsciencia de la víctima.
-
-> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2023)</small>
-
-ARTICULO 275 QUATER.- A quien cometa el delito de sumisión química se le aplicará de cuatro a diez años de prisión y multa de veinte a doscientas unidades de medida y actualización. Lo anterior, sin perjuicio de las penas que correspondan a otros delitos que se cometiesen sobre la víctima de sumisión química.
-
-Si el autor del delito fuese persona empleada o colaboradora del establecimiento destinado a la venta y consumo de bebidas alcohólicas en donde se cometió el delito de sumisión química, o se tratase de un proveedor de servicios de dicho establecimiento, la pena se aumentare en una mitad.
-
-Si quien prestase ayuda o auxilio al autor, coautor o cómplice del delito de sumisión química, fuese empleado o colaborador de un establecimiento destinado a la venta y consumo de bebidas alcohólicas o de un proveedor de servicios de dicho establecimiento, la pena se aumentará en un tercio.
-
-TITULO DECIMOSEPTIMO
-
-DELITOS CONTRA EL HONOR
+### CAPITULO VII. ABANDONO DE PERSONAS
 
 ###### ARTICULO 272.
 
@@ -4183,11 +4205,33 @@ ARTICULO 275 BIS.- Si las conductas previstas en los artículos 272, 273 y 274 d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2023)</small>
 
+### CAPITULO VIII. SUMISIÓN QUÍMICA
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2023)</small>
+
+ARTICULO 275 TER.- Comete el delito de sumisión química quien de manera subrepticia o mediante intimidación o engaño obligue, procure, facilite, induzca, fomente, propicie o favorezca el consumo de narcóticos, fármacos o cualquier otra sustancia natural o química, con uno o varios de los siguientes propósitos:
+
+I. Manipular, anular o disminuir la voluntad de la víctima;
+
+II. Generar una disminución del grado de vigilancia de la víctima;
+
+III. Vulnerar la capacidad de juicio de la víctima; o
+
+IV. Provocar la completa inconsciencia de la víctima.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2023)</small>
+
+ARTICULO 275 QUATER.- A quien cometa el delito de sumisión química se le aplicará de cuatro a diez años de prisión y multa de veinte a doscientas unidades de medida y actualización. Lo anterior, sin perjuicio de las penas que correspondan a otros delitos que se cometiesen sobre la víctima de sumisión química.
+
+Si el autor del delito fuese persona empleada o colaboradora del establecimiento destinado a la venta y consumo de bebidas alcohólicas en donde se cometió el delito de sumisión química, o se tratase de un proveedor de servicios de dicho establecimiento, la pena se aumentare en una mitad.
+
+Si quien prestase ayuda o auxilio al autor, coautor o cómplice del delito de sumisión química, fuese empleado o colaborador de un establecimiento destinado a la venta y consumo de bebidas alcohólicas o de un proveedor de servicios de dicho establecimiento, la pena se aumentará en un tercio.
+
+TITULO DECIMOSEPTIMO
+
+DELITOS CONTRA EL HONOR
+
 ### CAPITULO I. INJURIAS Y DIFAMACION
-
-### CAPITULO II. CALUMNIA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 276.
 
@@ -4221,9 +4265,9 @@ ARTICULO 275 BIS.- Si las conductas previstas en los artículos 272, 273 y 274 d
 
 (DEROGADO, B.O. 12 DE JULIO DE 2007)
 
-### CAPITULO III. DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
+### CAPITULO II. CALUMNIA
 
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 284.
 
@@ -4259,7 +4303,9 @@ No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se li
 
 Cuando haya pendiente un juicio, en la investigación de un delito o imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
 
-### CAPITULO I. CHANTAJE
+### CAPITULO III. DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
+
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
 
 ###### ARTICULO 288.
 
@@ -4289,7 +4335,7 @@ TITULO DECIMOCTAVO
 
 CHANTAJE Y EXTORSION
 
-### CAPITULO II. EXTORSION
+### CAPITULO I. CHANTAJE
 
 ###### ARTICULO 292.
 
@@ -4299,9 +4345,7 @@ Comete el delito de chantaje, el que con ánimo de lucro u otro provecho, bajo l
 
 Al responsable del delito de chantaje se le impondrán de seis meses a diez años de prisión y multa de diez a trescientas Unidades de Medida y Actualización.
 
-### CAPITULO I. PRIVACION ILEGAL DE LIBERTAD Y VIOLACION DE OTROS DERECHOS
-
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+### CAPITULO II. EXTORSION
 
 ###### ARTICULO 293.
 
@@ -4311,7 +4355,9 @@ Al responsable del delito de chantaje se le impondrán de seis meses a diez año
 
 ## TITULO DECIMO NOVENO. PRIVACION ILEGAL DE LA LIBERTAD Y VIOLACION DE OTROS DERECHOS
 
-### CAPITULO II. SECUESTRO
+### CAPITULO I. PRIVACION ILEGAL DE LIBERTAD Y VIOLACION DE OTROS DERECHOS
+
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 294.
 
@@ -4367,9 +4413,7 @@ Se equipara al delito de privación ilegal de libertad y se sancionará con la p
 
 Se considera que comete el delito de privación ilegal de libertad, para los efectos de la sanción prevista en el artículo 294, al que sustrajere o retuviere a una mujer por medio de la violencia física o moral con la finalidad de menoscabar su integridad sexual.
 
-### CAPITULO III. SUSTRACCION Y TRAFICO DE MENORES E INCAPACES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+### CAPITULO II. SECUESTRO
 
 ###### ARTICULO 296.
 
@@ -4419,7 +4463,9 @@ ARTICULO 301 BIS.- (DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO IV. TRATA DE PERSONAS
+### CAPITULO III. SUSTRACCION Y TRAFICO DE MENORES E INCAPACES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 301- B.
 
@@ -4477,7 +4523,7 @@ A excepción del previsto por el artículo 301-E, el resto de los delitos previs
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 7 DE ABRIL DE 2008)</small>
 
-### CAPITULO I. ROBO
+### CAPITULO IV. TRATA DE PERSONAS
 
 ###### ARTICULO 301-J.
 
@@ -4491,9 +4537,7 @@ ARTICULO 30 1-K.- (DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 ## TITULO VIGESIMO. DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO
 
-### CAPITULO II. ABIGEATO
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 9 DE ABRIL DE 2018)</small>
+### CAPITULO I. ROBO
 
 ###### ARTICULO 302.
 
@@ -4743,7 +4787,9 @@ Tampoco se sancionará al que restituya espontáneamente los objetos del robo, a
 
 ARTICULO 311 BIS.- En el presente capitulo, el Ministerio Público, en caso de resultar procedente, podrá aplicar los criterios de oportunidad conforme a lo establecido en el Código de Procedimientos Penales para el Estado de Sonora.
 
-### CAPITULO III. ABUSO DE CONFIANZA
+### CAPITULO II. ABIGEATO
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 9 DE ABRIL DE 2018)</small>
 
 ###### ARTICULO 312.
 
@@ -4797,9 +4843,7 @@ ARTICULO 313 BIS.- Cuando los delitos previstos en este Capítulo se cometan ent
 
 En todos los casos previstos en este Capítulo, cuando no se haya utilizado la violencia en las personas o en las cosas, o cuando habiéndose utilizado se trate de la estrictamente necesaria para materializar el sacrificio o la cacería furtiva, la acción penal podrá extinguirse cuando exista manifestación expresa de desinterés jurídico por parte de la víctima u ofendido en la investigación del delito o la prosecución de la causa.
 
-### CAPITULO IV. FRAUDE
-
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+### CAPITULO III. ABUSO DE CONFIANZA
 
 ###### ARTICULO 314.
 
@@ -4829,9 +4873,9 @@ El delito previsto en este Capítulo solamente se perseguirá a petición de par
 
 Sin perjuicio de la aplicación de las reglas del concurso previstas en este Código, serán oficiosos los delitos a que se refiere este Capítulo, cuando existiendo identidad de propósito delictivo, se afecte a tres o más sujetos pasivos.
 
-### CAPITULO V. DE LOS DELITOS COMETIDOS POR PERSONAS SUJETAS A CONCURSO
+### CAPITULO IV. FRAUDE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 318.
 
@@ -4913,7 +4957,7 @@ Los delitos previstos en este Capítulo, solamente se perseguirán a petición d
 
 Sin perjuicio de la aplicación de las reglas del concurso previstas en este Código, serán oficiosos los delitos a que se refiere este Capítulo, cuando existiendo identidad de propósito delictivo, se afecte a tres o más sujetos pasivos.
 
-### CAPITULO VI. DESPOJO
+### CAPITULO V. DE LOS DELITOS COMETIDOS POR PERSONAS SUJETAS A CONCURSO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
@@ -4935,9 +4979,9 @@ Cuando en el concurso de una persona jurídica apareciere que se han cometido lo
 
 La investigación y persecución de estos delitos, será independiente del procedimiento civil respectivo.
 
-### CAPITULO VII. DAÑOS
+### CAPITULO VI. DESPOJO
 
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 323.
 
@@ -4963,9 +5007,9 @@ Cuando el empleo de la violencia o las amenazas señaladas en el artículo anter
 
 Cuando el despojo se cometa sin utilizar amenazas o violencia en las personas o en las cosas, sólo se perseguirá a petición de parte ofendida.
 
-### CAPÍTULO I. ENCUBRIMIENTO
+### CAPITULO VII. DAÑOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 326.
 
@@ -5009,19 +5053,9 @@ Con excepción de los casos previstos en el artículo anterior, o cuando el deli
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], B.O. 9 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO I. ENCUBRIMIENTO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
-
-ARTICULO 329 TER.- Al que por sí o por interpósita persona posea, adquiera, enajene, administre, custodie, cambie, altere, deposite, dé en garantía, invierta, transporte o transfiera recursos, derechos o bienes de cualquier naturaleza, con conocimiento de que proceden o representan el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita, se le impondrán de cinco a quince años de prisión y multa de mil a cinco mil Unidades de Medida y Actualización.
-
-> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2014)</small>
-
-Las penas previstas en el párrafo anterior serán aumentadas, en una mitad, cuando el delito se cometa por servidores públicos; además, se impondrá a dichos servidores públicos, destitución e inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta.
-
-> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2014)</small>
-
-Para efectos de este artículo se entiende que proceden o representan el producto de una actividad ilícita, los recursos, derechos o bienes, de cualquier naturaleza, sobre los que se acredite su ilegítima procedencia o exista certeza de que provienen directa o indirectamente de la comisión de algún delito o representan las ganancias derivadas de éste.
 
 ###### ARTICULO 329.
 
@@ -5065,15 +5099,25 @@ ARTICULO 329 BIS.- En los casos de encubrimiento de delitos cometidos por direct
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 9 DE JUNIO DE 2014)</small>
 
-### CAPITULO UNICO. DELITOS ELECTORALES
+### CAPÍTULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
+ARTICULO 329 TER.- Al que por sí o por interpósita persona posea, adquiera, enajene, administre, custodie, cambie, altere, deposite, dé en garantía, invierta, transporte o transfiera recursos, derechos o bienes de cualquier naturaleza, con conocimiento de que proceden o representan el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar, encubrir o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita, se le impondrán de cinco a quince años de prisión y multa de mil a cinco mil Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2014)</small>
+
+Las penas previstas en el párrafo anterior serán aumentadas, en una mitad, cuando el delito se cometa por servidores públicos; además, se impondrá a dichos servidores públicos, destitución e inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta.
+
+> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2014)</small>
+
+Para efectos de este artículo se entiende que proceden o representan el producto de una actividad ilícita, los recursos, derechos o bienes, de cualquier naturaleza, sobre los que se acredite su ilegítima procedencia o exista certeza de que provienen directa o indirectamente de la comisión de algún delito o representan las ganancias derivadas de éste.
+
 ## TITULO VIGESIMO SEGUNDO. DELITOS ELECTORALES
 
-### CAPITULO UNICO. DELITOS CONTRA EL AMBIENTE Y LA GESTIÓN AMBIENTAL
+### CAPITULO UNICO. DELITOS ELECTORALES
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ###### ARTICULO 330.
 
@@ -5187,9 +5231,9 @@ Se entenderá por violencia política de género a quien por cualquier medio imp
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO UNICO. DE LOS DELITOS EN CONTRA DE LOS ANIMALES POR ACTOS DE MALTRATO O CRUELDAD
+### CAPITULO UNICO. DELITOS CONTRA EL AMBIENTE Y LA GESTIÓN AMBIENTAL
 
-> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 337.
 
@@ -5312,6 +5356,10 @@ En los casos en que las autoridades ambientales municipales o estatales, como re
 ## TITULO VIGESIMO CUARTO. DELITOS EN CONTRA DE LOS ANIMALES POR ACTOS DE MALTRATO O CRUELDAD
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 17 DE DICIEMBRE DE 2015)</small>
+
+### CAPITULO UNICO. DE LOS DELITOS EN CONTRA DE LOS ANIMALES POR ACTOS DE MALTRATO O CRUELDAD
+
+> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
 
 ###### ARTICULO 342.
 
@@ -6196,3 +6244,19 @@ B.O. 18 DE MAYO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 120, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 121, QUE ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguientes (sic) de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
