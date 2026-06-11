@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5750
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2023-07-13"
+last_updated: "2026-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JUNIO DE 2026.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de octubre de 2007.
 
@@ -383,11 +383,19 @@ ARTÍCULO 18 BIS 6.- La Secretaría de Salud Pública podrá celebrar convenios 
 
 ARTÍCULO 18 BIS 7.- Los hospitales públicos y privados deberán contar con un módulo especial para la recepción de denuncias por casos de Violencia Obstétrica.
 
-### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 11 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO VIII. ACECHO
+
+> <small>(ADICIONADO, B.O. 11 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 18 BIS 8.- El acecho es una forma de violencia que se ejerce mediante conductas reiteradas de vigilancia, seguimiento, hostigamiento o contacto no deseado, por cualquier medio, que tengan como efecto limitar o alterar de manera significativa las condiciones normales de vida de la víctima, generándole temor o angustia.
+
+Se consideran manifestaciones de acecho, entre otras, el envío de mensajes o la realización de llamadas ofensivas, amenazantes, insistentes o silenciosas; la vigilancia o seguimiento físico o digital; la presencia reiterada en lugares frecuentados por la víctima; así como cualquier conducta análoga que tenga por objeto o resultado afectar su tranquilidad, seguridad o libertad personal.
 
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
 
 ###### ARTÍCULO 19.
 
@@ -443,7 +451,7 @@ XI.- Instituto Estatal Electoral y de Participación Ciudadana.
 
 La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación, en su caso.
 
-### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
+### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 22.
 
@@ -479,9 +487,9 @@ XII.- Promover la cultura de denuncia de la violencia contra las mujeres en el m
 
 XIII.- Diseñar un modelo integral de atención a los derechos humanos de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas; y
 
-> <small>(ADICIONADA, B.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, B.O. 11 DE JUNIO DE 2026)</small>
 
-XIV.- Elaborar un informe sobre la situación sobre los delitos de Acoso Sexual con fines lascivos en el Estado de Sonora.
+XIV.- Elaborar un informe sobre la situación sobre los delitos de Acoso Sexual con fines lascivos y Acecho en el Estado de Sonora.
 
 ###### ARTÍCULO 23.
 
@@ -489,17 +497,7 @@ La Secretaría de Gobierno procurará la participación de los sectores público
 
 ## TÍTULO CUARTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN, Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO III (SIC). DE LA COMPETENCIA DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA
-
-> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
-
-ARTÍCULO 32 BIS.- Corresponde al Instituto Estatal Electoral y de Participación Ciudadana, en el ámbito de sus competencias:
-
-I.- Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
-
-II.- Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales, y
-
-III.- Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
+### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
 
 ###### ARTÍCULO 24.
 
@@ -749,11 +747,19 @@ XI.- Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 29 DE MAYO DE 2020)</small>
 
+### CAPÍTULO III (SIC). DE LA COMPETENCIA DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA
+
+> <small>(ADICIONADO, B.O. 29 DE MAYO DE 2020)</small>
+
+ARTÍCULO 32 BIS.- Corresponde al Instituto Estatal Electoral y de Participación Ciudadana, en el ámbito de sus competencias:
+
+I.- Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+II.- Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales, y
+
+III.- Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
+
 ### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
-
-### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
-
-> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 33.
 
@@ -793,7 +799,9 @@ XVI.- Las demás previstas en esta ley y en otras disposiciones aplicables.
 
 ## TÍTULO QUINTO. DE LAS MEDIDAS DE PROTECCIÓN
 
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
+### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
+
+> <small>(REFORMADO, B.O. 29 DE MAYO DE 2020)</small>
 
 ###### ARTÍCULO 34.
 
@@ -905,7 +913,7 @@ ARTÍCULO 40 BIS.- La negativa a brindar las órdenes de protección de emergenc
 
 ## TÍTULO SEXTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
+### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
 
 ###### ARTÍCULO 41.
 
@@ -940,6 +948,8 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 ###### ARTÍCULO 44.
 
 El agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
+
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
 
 ###### ARTÍCULO 45.
 
@@ -1156,3 +1166,11 @@ B.O. 13 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 120, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
