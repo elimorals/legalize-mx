@@ -4,7 +4,7 @@ identifier: "SON-ley-de-mecanismos-alternativos-de-solucion-de-controversias-606
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-07"
-last_updated: "2012-10-11"
+last_updated: "2026-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE MECANISMOS ALTERNATIVOS DE SOLUCION DE CONTROVERSIAS PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 11 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JUNIO DE 2026 (ABROGADO).
 
 Ley publicada en el Número 28 Sección II del Boletín Oficial del Estado de Sonora, el lunes 7 de abril de 2008.
 
@@ -508,3 +510,57 @@ B.O. 11 DE OCTUBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el 18 de junio de 2016, previa publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Mecanismos Alternativos de Solución de Controversias para el Estado de Sonora, publicada en el Boletín Oficial del Estado de Sonora, número 28, sección II, de fecha 7 de abril de 2008.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos en materia de Mecanismos Alternativos de Solución de Controversias iniciados con anterioridad a la entrada en vigor de la presente Ley, continuarán su tramitación de conformidad con las disposiciones vigentes al momento de su inicio.
+
+###### ARTÍCULO CUARTO.
+
+La información contenida en los sistemas electrónicos, bases de datos y registros de los Centros Públicos de Mecanismos Alternativos de Solución de Controversias e Instituciones u órganos especializados en Justicia Alternativa, que exista a la fecha de entrada en vigor de la presente Ley, se integrará a sus sistemas informáticos como memoria histórica; esta información deberá ser preservada de conformidad con lo dispuesto por las Leyes de archivos y demás normatividad aplicable.
+
+###### ARTÍCULO QUINTO.
+
+Las personas facilitadoras que hayan obtenido su certificación antes de la entrada en vigor de esta Ley, continuarán en sus labores hasta que concluya el plazo de su nombramiento.
+
+Si el nombramiento no especifica un plazo de vigencia, la duración de su certificación comenzará a contarse a partir de la entrada en vigor de la presente Ley, una vez que el Poder Judicial complete las adecuaciones para la operación del Centro Público de Mecanismos Alternativos de Solución de Controversias.
+
+###### ARTÍCULO SEXTO.
+
+En caso de que haya concluido la vigencia de la Certificación y no se emita la convocatoria que corresponda para la renovación o recertificación en los términos previstos en la presente Ley, esta continuará vigente hasta en tanto se lleven a cabo los actos y procedimientos dispuestos para tal fin.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Poder Judicial del Estado de Sonora, iniciará los trabajos para la creación del Registro de Personas Facilitadoras y del Sistema de Convenios a partir de la publicación de la presente Ley, la cual entrará en vigor a los ciento ochenta días naturales posteriores a dicha publicación.
+
+###### ARTÍCULO OCTAVO.
+
+Las personas Titulares de las áreas de Mecanismos Alternativos, continuará en sus funciones hasta agotar el plazo previsto en su nombramiento. En el supuesto de que su nombramiento no contemple un plazo de vigencia, a partir de las adecuaciones que realice el Poder Judicial para la operación del Centro Público de Mecanismos Alternativos de Solución de Controversias del Poder Judicial del Estado de Sonora, se estará a lo dispuesto en la Sección Tercera del Capítulo II de la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+Para el cumplimiento e implementación de la presente Ley, el Poder Judicial del Estado de Sonora, emitirá el Reglamento de esta Ley y los lineamientos o acuerdos generales correspondientes para la instrumentación de los Mecanismos Alternativos y procesos restaurativos, en su caso.
+
+###### ARTÍCULO DÉCIMO.
+
+El Poder Judicial del Estado de Sonora, de conformidad con el artículo décimo quinto transitorio de la Ley General, establecerá mediante acuerdos generales, la metodología y los lineamientos para el acceso efectivo a los procesos de justicia restaurativa y terapéutica, de conformidad con lo dispuesto en el capítulo VI de esta Ley y de la Ley General. Para tal efecto podrá celebrar convenios de colaboración con entes públicos y privados.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Poder Judicial y los demás organismos y dependencias Estatales que operen esta Ley, instrumentarán políticas y programas de difusión para el uso de los Mecanismos Alternativos y procesos restaurativos dirigidos a la sociedad, con la finalidad de impulsar la cultura del diálogo y la solución pacífica de conflictos.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Poder Judicial del Estado de Sonora, deberá realizar las adecuaciones presupuestales pertinentes, para el cumplimiento de la presente Ley.
