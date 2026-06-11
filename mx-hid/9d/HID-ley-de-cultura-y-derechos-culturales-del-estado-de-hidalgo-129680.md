@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-y-derechos-culturales-del-estado-de-hidalgo-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-31"
-last_updated: "2025-08-22"
+last_updated: "2026-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2026.
 
 Ley publicada en el Alcance Uno al Número 31 del Periódico Oficial del Estado de Hidalgo, el martes 31 de julio de 2018.
 
@@ -525,19 +525,25 @@ XVII. Elaborar y mantener actualizado el registro de los Centros Culturales Inde
 
 Las autoridades encargadas de la aplicación de esta Ley procurarán coordinarse entre sí, tanto para elaborar los Programas Estatal y Municipales, como para su aplicación en el ámbito respectivo, a fin de que la política cultural en la entidad sea eficiente y eficaz.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2026)</small>
+
 ###### Artículo 17.
 
-El Gobernador del Estado a propuesta de la Secretaría, atendiendo al conocimiento profesional de una disciplina como historiador, investigador; del conocimiento de la historia, tradiciones; y del dominio de habilidades como escritor e igualmente considerando una labor y trayectoria desarrollada en beneficio de la preservación de la cultura de un municipio, región o del Estado, nombrará con calidad de Cronista del Estado, Regional, o por alguna otra materia específica que justifique su atención especializada a las o los hidalguenses que reúnan tales consideraciones.
+La persona titular el Poder Ejecutivo, atendiendo al conocimiento profesional de una disciplina como historiador, investigador, del conocimiento de la historia, tradiciones, y del dominio de habilidades como escritor, e igualmente considerando la labor y trayectoria desarrollada en beneficio de la preservación de la cultura de un municipio, región o del Estado, nombrará con calidad de Cronista del Estado, Regional, o de alguna otra materia específica que justifique su atención especializada, a las o los hidalguenses que reúnan tales consideraciones. Para tal efecto, podrá solicitar la opinión de la Secretaría.
 
 La calidad de Cronista será honorífica, durará en el encargo cuatro años y podrá ser reelegido.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2026)</small>
+
 ###### Artículo 18.
 
-Los Gobiernos Municipales, en términos de las disposiciones de la Ley Orgánica Municipal del Estado de Hidalgo, nombrarán a los Cronistas Municipales, considerando la opinión de la Secretaría.
+Los Gobiernos Municipales, en términos de las disposiciones de la Ley Orgánica Municipal del Estado de Hidalgo, nombrarán con carácter honorífico y vitalicio a las y los Cronistas Municipales; pudiendo para tal efecto solicitar la opinión de la Secretaría.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2026)</small>
 
 ###### Artículo 19.
 
-Los ciudadanos y organismos de la sociedad civil podrán someter a la consideración de la Secretaría y de los Gobiernos Municipales, según sea el caso, los motivos justificados con el fin de que le sea concedida la calidad de Cronista a algún ciudadano destacado, debiendo resolver la autoridad lo conducente.
+La ciudadanía y los organismos de la sociedad civil podrán someter a la consideración de la Persona Titular del Ejecutivo o de los Gobiernos Municipales, según sea el caso, los motivos justificados con el fin de que le sea concedida la calidad de Cronista a algún ciudadano o ciudadana destacados.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2024)</small>
 
@@ -1324,3 +1330,9 @@ P.O. 22 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 336 - LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN VI BIS AL ARTÍCULO 14 DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, EN MATERIA DE DIFUSIÓN DIGITAL DEL PATRIMONIO CULTURAL".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 646 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, EN MATERIA DE NOMBRAMIENTO DE CRONISTAS MUNICIPALES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
