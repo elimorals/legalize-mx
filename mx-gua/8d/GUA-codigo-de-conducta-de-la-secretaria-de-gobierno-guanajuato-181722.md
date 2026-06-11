@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-conducta-de-la-secretaria-de-gobierno-guanajuato-1817
 country: "mx"
 rank: "codigo"
 publication_date: "2025-09-22"
-last_updated: "2025-09-22"
+last_updated: "2026-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE GOBIERNO, GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE GOBIERNO, PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2026 (ABROGADO).
 
 Código publicado en la Segunda Parte al Número 189 del Periódico Oficial del Estado de Guanajuato, el lunes 22 de septiembre de 2025.
 
@@ -268,3 +270,15 @@ Nombre y firma:
 Cargo:
 
 Nombre completo de la Unidad Administrativa:
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE LA SECRETARÍA DE GOBIERNO".]
+
+Primero. El presente Código de Conducta entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. Se abroga el Código de Conducta de la Secretaría de Gobierno, publicado en el Periódico Oficial del Gobierno del Estado Número 189, Segunda Parte, del 22 de septiembre de 2025.
+
+Tercero. Este Código de Conducta deberá ser revisado por lo menos cada dos años, a efecto de su debida actualización, en cumplimiento a lo dispuesto al artículo 34 de los Lineamientos Generales para la Integración y Operación de los Comités Internos de Ética y Prevención de Conflicto de Interés de las Dependencias y Entidades del Poder Ejecutivo del Estado.
