@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2026-03-25"
+last_updated: "2026-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2026.XXX
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -111,13 +111,17 @@ XV.- Garantizar y proteger los derechos de los usuarios turísticos.
 
 XVI.- Promover, impulsar y desarrollar el turismo sustentable en Pueblos y Comunidades indígenas del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2026)</small>
 
-XVII.- Impulsar los proyectos de fomento turístico que propicien la creación y conservación del empleo, evitando para ello toda práctica monopólica; y
+XVII.- Impulsar los proyectos de fomento turístico que propicien la creación y conservación del empleo, evitando para ello toda práctica monopólica;
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2026)</small>
 
-XVIII.- Promover e impulsar en los servicios turísticos la igualdad entre todas las personas, así como la inclusión de personas indígenas y afromexicanas, personas de la diversidad sexual y de género, niñas y niños, jóvenes, personas adultas mayores y personas con discapacidad.
+XVIII.- Promover e impulsar en los servicios turísticos la igualdad entre todas las personas, así como la inclusión de personas indígenas y afromexicanas, personas de la diversidad sexual y de género, niñas y niños, jóvenes, personas adultas mayores y personas con discapacidad, y
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2026)</small>
+
+XIX.- Coadyuvar con las instancias competentes en la implementación de mecanismos para la prevención, combate y erradicación de la trata y tráfico de personas menores y la Explotación Sexual y Comercial en Niñas, Niños y Adolescentes, en el contexto de viajes y turismo, basado en las medidas emitidas por las autoridades rectoras en la materia.
 
 ###### Artículo 4.
 
@@ -346,6 +350,14 @@ XVI.- Apoyar y respaldar a las Dependencias y Entidades competentes de la Admini
 XVII.- Brindar orientación y asistencia al turista nacional y extranjero, así como canalizar las quejas de éstos ante la autoridad competente;
 
 XVIII.- Coadyuvar con el Ejecutivo Federal en materia de clasificación de establecimientos hoteleros y de hospedaje, en los términos de la regulación correspondiente;
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2026)</small>
+
+XVIII Bis.- Coadyuvar y colaborar con las dependencias y entidades de la administración pública federal, estatal y municipal, así como con el sector privado y la sociedad civil, en el diseño y aplicación de los programas y políticas públicas para la prevención, combate y erradicación de la trata y tráfico de personas menores y de la explotación sexual y comercial en niñas, niños y adolescentes, en la prestación de servicios turísticos;
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2026)</small>
+
+XVIII Ter.- Establecer protocolos dirigidos a los prestadores de servicios turísticos de hospedaje, en todas sus modalidades, para que obligatoriamente implementen mecanismos de seguridad en protección de niñas, niños y adolescentes;
 
 XIX.- Diseñar e instrumentar esquemas estatales de calidad, basados en criterios de competitividad y en función de los requerimientos que la vocación turística del Estado demanden (sic);
 
@@ -1179,13 +1191,27 @@ Los Prestadores de Servicios Turísticos no negarán o condicionarán el servici
 
 Los Prestadores de Servicios Turísticos ofrecerán un servicio con enfoque inclusivo.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2026)</small>
+
 ###### Artículo 73.
 
-La Secretaría determinará los requisitos que deberán cumplir los prestadores de servicios para su operación e inicio de actividades.
+La Secretaría determinará los requisitos que deberán cumplir los prestadores de servicios para su operación e inicio de actividades. Las instalaciones y la infraestructura donde se presten o se desarrollen los servicios turísticos, deberán cumplir con la normatividad en materia ambiental, sanitaria, de prevención del delito, y de protección y seguridad de los turistas o usuarios.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2026)</small>
 
-Las instalaciones y la infraestructura donde se presten o se desarrollen los servicios turísticos, deberán cumplir con la normatividad en materia ambiental, higiene, protección y seguridad de los turistas o usuarios.
+###### Artículo 73 Bis.
+
+Los prestadores de servicios turísticos de hospedaje, en todas sus modalidades, sin perjuicio de las demás obligaciones previstas en esta ley, deberán establecer y aplicar mecanismos de seguridad enfocados en la salvaguarda de niñas, niños y adolescentes, con anterioridad a la prestación del servicio.
+
+En ese sentido, estarán obligados a observar los protocolos que para tal efecto emita la Secretaría, así como realizar por lo menos lo siguiente:
+
+I. Solicitar la exhibición de credencial de elector o de cualquier otro documento oficial que demuestre la mayoría de edad e identidad de la persona que solicite el servicio;
+
+II. Condicionar el ingreso de niñas, niños y adolescentes a las habitaciones o inmuebles de uso habitacional destinados a la prestación del servicio de hospedaje o alojamiento, exclusivamente si se encuentran en compañía de alguna persona mayor de edad que acredite tener la patria potestad, parentesco consanguíneo hasta el segundo grado, o autorización por parte de quienes legalmente ostenten la guarda o custodia sobre las personas menores de edad, y
+
+III. En caso de no poder cumplir con la validación señalada en la fracción anterior, deberán hacerlo del conocimiento inmediato de la Procuraduría de Protección de Niñas, Niños, Adolescentes, y en su caso, del Ministerio Público.
+
+En caso de incumplimiento de cualquiera de las fracciones de este artículo, se aplicará a los prestadores de servicio las sanciones previstas en las leyes relativas a la materia.
 
 ###### Artículo 74.
 
@@ -1566,3 +1592,15 @@ P.O. 25 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 582 – LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE RUTAS TURÍSTICAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 644 – LXVI QUE APRUEBA CON MODIFICACIONES LAS INICIATIVAS CON PROYECTO DE DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN EN ENTORNOS DE SERVICIOS TURÍSTICOS DE HOSPEDAJE”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO: La Secretaría de Turismo del Estado de Hidalgo deberá expedir los protocolos y ordenamientos que den cumplimiento a lo establecido en el presente Decreto.
+
+Dichos protocolos deberán establecer los documentos oficiales idóneos para acreditar la identidad y el vínculo de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, así como, en su caso, la autorización respectiva.
+
+TERCERO: La Secretaría de Turismo del Estado de Hidalgo deberá llevar a cabo las acciones necesarias para la difusión de las disposiciones contenidas en el presente Decreto, a fin de garantizar su conocimiento, correcta implementación y cumplimiento por parte de los prestadores de servicios turísticos de hospedaje en la entidad.
