@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-149938"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-23"
-last_updated: "2024-07-31"
+last_updated: "2026-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE JUNIO DE 2026.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 23 de junio de 2021.
 
@@ -166,6 +166,10 @@ V. Desarrollar políticas para fortalecer la salud materno infantil y aumentar l
 > <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
 
 VI. Determinar las acciones necesarias que garanticen el fomento, la promoción y preservación de la salud mental de las niñas, niños y adolescentes, en términos de lo establecido en la Ley de Salud Mental del Estado de Yucatán.
+
+> <small>(ADICIONADA, D.O. 11 DE JUNIO DE 2026)</small>
+
+VII. Promover y procurar, de manera gradual, paulatina y progresiva, y en coordinación con las autoridades competentes, la atención multidisciplinaria de niñas, niños y adolescentes que vivan con diabetes, particularmente con diabetes tipo 1.
 
 El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes.
 
@@ -1068,3 +1072,19 @@ D.O. 31 DE JULIO DE 2024.
 Entrada en vigor
 
 Artículo único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 11 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 194/2026 POR EL QUE SE MODIFICAN LA LEY DE SALUD DEL ESTADO DE YUCATÁN Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN, EN MATERIA DE VACUNACIÓN UNIVERSAL ESTATAL Y ATENCIÓN INTEGRAL DE LA DIABETES TIPO 1".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. La implementación de las acciones previstas en el presente Decreto se realizará de manera gradual, con cargo al presupuesto aprobado anualmente a las dependencias, entidades e instituciones competentes, por lo que no implicará, por sí misma, la creación de nuevas estructuras administrativas ni de plazas, salvo que exista suficiencia presupuestal y autorización conforme a la legislación aplicable.
+
+Artículo tercero. La Secretaría, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, deberá efectuar las acciones administrativas y de coordinación necesarias para su implementación. Tratándose de las disposiciones en materia de vacunación, deberá observar en todo momento las disposiciones normativas y técnicas emitidas por la autoridad federal competente.
+
+Artículo cuarto. Dentro del plazo previsto en el artículo transitorio anterior, la Secretaría deberá poner en marcha el instrumento técnico en materia de vacunación a que se refiere el artículo 67 sexies de la Ley de Salud del Estado de Yucatán.
+
+Artículo quinto. Dentro del mismo plazo señalado en el artículo transitorio tercero, la Secretaría deberá iniciar las acciones necesarias para la integración, sistematización y operación del Registro Estatal Nominal de Personas Usuarias de los Servicios Públicos de Salud con Diagnóstico de Diabetes, mediante el aprovechamiento de los sistemas institucionales existentes y con observancia de la legislación en materia de protección de datos personales.
+
+Artículo sexto. Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
