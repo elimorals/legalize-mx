@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-143736"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-29"
-last_updated: "2026-04-08"
+last_updated: "2026-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE JUNIO DE 2026.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 29 de julio de 2020.
 
@@ -417,17 +417,21 @@ XXXII. Inculcar en la educación el cuidado y protección de los animales, la cu
 
 XXXIII. Fomentar la interculturalidad y el desarrollo de una visión cosmopolita en los educandos, impulsando la enseñanza de diferentes lenguas, incluyendo el idioma inglés, en todos los tipos educativos, como herramienta fundamental para potenciar oportunidades personales y profesionales.
 
-> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, D.O. 11 DE JUNIO DE 2026)</small>
 
-XXXIV. Procurar que las maestras y maestros obtengan conocimientos especializados en las humanidades y diferentes lenguas, incluido el idioma inglés, así como sobre herramientas de educación digital, tecnologías de la información, investigación, innovación científica y tecnológica.
+XXXIV. Procurar que las maestras y maestros obtengan conocimientos especializados en las humanidades y diferentes lenguas, incluidas las lenguas maternas e inglesa, así como sobre herramientas de educación digital, tecnologías de la información, investigación, innovación científica y tecnológica.
 
 > <small>(ADICIONADA, D.O. 23 DE JULIO DE 2024)</small>
 
 XXXV. Fomentar la superación de la brecha digital bajo una de perspectiva de género, apoyando a las mujeres que deseen ingresar y formarse dentro de las áreas de ciencia, tecnología, ingeniería y matemáticas, en los Institutos y universidades tecnológicas y politécnicas sectorizadas a la Secretaría de Investigación, Innovación y Educación Superior, a través del respaldo y estímulos necesarios para iniciar o continuar sus estudios hasta la obtención del documento que acredite el grado correspondiente.
 
+> <small>(ADICIONADA, D.O. 11 DE JUNIO DE 2026)</small>
+
+XXXVI. Fomentar la vinculación con instituciones públicas y privadas para la promoción de la práctica del ajedrez como herramienta pedagógica para el desarrollo del pensamiento lógico-matemático y crítico, la resolución de problemas, la autorregulación emocional, la convivencia pacífica y la cultura de paz.
+
 > <small>(REFORMADA, D.O. 10 DE JULIO DE 2023)</small>
 
-XXXVI. Todos aquellos que contribuyan al bienestar y desarrollo del individuo, del estado y del país.
+XXXVII. Todos aquellos que contribuyan al bienestar y desarrollo del individuo, del estado y del país.
 
 Los fines anteriores se ajustarán a la edad y al nivel de desarrollo de los educandos, así como al tipo, nivel, modalidad y opción educativa que a estos se imparta.
 
@@ -765,7 +769,11 @@ III. Asistir a las reuniones de madres o padres de familia o tutores con voz per
 
 IV. Seguir el manual de trabajo, protocolo o documento similar que al efecto emita la secretaría.
 
-V. Las demás que establezcan la ley general, esta ley y demás disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 11 DE JUNIO DE 2026)</small>
+
+V. Informar al superior jerárquico sobre cualquier circunstancia, conducta, acción u omisión detectada en perjuicio del educando, que pueda constituir un hecho probablemente delictivo en su contra.
+
+VI. Las demás que establezcan la ley general, esta ley y demás disposiciones legales y normativas aplicables.
 
 ### Capítulo IV. Atribuciones de las autoridades educativas
 
@@ -795,7 +803,9 @@ VIII. Prestar servicios educativos para atender a quienes abandonaron sus estudi
 
 IX. Otorgar apoyos pedagógicos a grupos con requerimientos educativos específicos, a través de programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos.
 
-X. Establecer, proporcionar seguimiento y evaluar políticas públicas que promuevan el involucramiento de los padres de familia en el desarrollo educativo de sus hijos, así como programas con perspectiva de género.
+> <small>(REFORMADA, D.O. 11 DE JUNIO DE 2026)</small>
+
+X. Establecer, proporcionar seguimiento y evaluar políticas públicas que promuevan el involucramiento de los padres de familia en el desarrollo educativo de sus hijos, así como programas con perspectiva de género, orientados a educar sobre los orígenes y consecuencias de la violencia contra las mujeres, fomentando los principios rectores de la igualdad de género, el respeto a los derechos humanos de las mujeres, la no discriminación por razones de género, la libertad y autonomía de las mujeres y la perspectiva de género; establecidos en la Ley de Acceso de las Mujeres a una Vida Libre de Violencias del Estado de Yucatán.
 
 XI. Desarrollar programas para otorgar becas y demás apoyos económicos a los educandos que cubran los requisitos para recibirlos.
 
@@ -901,6 +911,14 @@ XLVI. Impulsar programas de incentivos dirigidos a mujeres inscritas en algún p
 
 XLVII. Promover y procurar en todos los tipos y niveles educativos, la enseñanza y aprendizaje de diferentes lenguas, incluyendo el idioma inglés.
 
+> <small>(ADICIONADA, D.O. 11 DE JUNIO DE 2026)</small>
+
+XLVIII. Ofrecer apoyos a estudiantes que estén participando en un programa de servicio social reconocido por la institución académica, de acuerdo con la suficiencia presupuestal con la que cuente la autoridad, cuando se acredite solventar necesidades económicas.
+
+> <small>(ADICIONADA, D.O. 11 DE JUNIO DE 2026)</small>
+
+XLIX. Realizar la vinculación con instituciones del sector público o privado para coadyuvar al fomento de la enseñanza de la Lengua de Señas Mexicana, así como la sensibilización de los educandos.
+
 ###### Artículo 34.
 
 Atribuciones de las autoridades educativas estatales
@@ -967,7 +985,9 @@ XXVI. Fomentar la prestación de servicios bibliotecarios a través de las bibli
 
 XXVII. Promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, fomentar su enseñanza, su expansión y divulgación en acceso abierto, cuando el conocimiento científico y tecnológico sea financiado con recursos públicos o se haya utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada.
 
-XXVIII. Fomentar y difundir las actividades artísticas, culturales y físico- deportivas en todas sus manifestaciones, incluido el deporte adaptado para personas con discapacidad.
+> <small>(REFORMADA, D.O. 11 DE JUNIO DE 2026)</small>
+
+XXVIII. Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones, incluido el deporte adaptado para personas con discapacidad, así como el ajedrez educativo en su carácter formativo, promoviendo su enseñanza, práctica y participación en clubes y torneos escolares.
 
 XXIX. Promover y desarrollar en el ámbito de su competencia las actividades y programas relacionados con el fomento de la lectura y el uso de los libros, de acuerdo con lo establecido en la ley de la materia.
 
@@ -977,7 +997,9 @@ XXX. Fomentar el uso responsable y seguro de las tecnologías de la información
 
 XXXI. Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a los educandos, así como corroborar que el trato de los educadores y educandos sea de respeto recíproco y atienda al respeto de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales ratificados por el Estado Mexicano y demás legislación aplicable a niñas, niños, adolescentes y jóvenes.
 
-XXXII. Promover entornos escolares saludables, a través de acciones que permitan a los educandos disponibilidad y acceso a una alimentación nutritiva, hidratación adecuada, así como a la actividad física, educación física y la práctica del deporte.
+> <small>(REFORMADA, D.O. 11 DE JUNIO DE 2026)</small>
+
+XXXII. Promover entornos escolares saludables, a través de acciones que permitan a los educandos disponibilidad y acceso a una alimentación nutritiva, hidratación adecuada, así como a la actividad física, la educación física y la práctica del deporte, incluido el ajedrez educativo como actividad formativa y de convivencia.
 
 XXXIII. Promover en la educación obligatoria prácticas cooperativas de ahorro, producción y promoción de estilos de vida saludables en alimentación, de acuerdo con lo establecido en la ley de la materia y el Reglamento de Cooperativas Escolares.
 
@@ -1008,6 +1030,26 @@ XLIV. En los grados de preescolar y primaria, fomentar en los educandos hábitos
 > <small>(ADICIONADA, D.O. 5 DE JULIO DE 2022)</small>
 
 XLV. Realizar las gestiones necesarias que permitan progresivamente el acceso gratuito a las personas que así lo requieran, a productos tales como toallas sanitarias, tampones y/o copas menstruales, jabón y papel higiénico, en las escuelas públicas pertenecientes al Sistema Educativo Estatal.
+
+> <small>(ADICIONADA, D.O. 11 DE JUNIO DE 2026)</small>
+
+XLVI. Promover la enseñanza de las lenguas maternas en los distintos planteles de educación básica, en coordinación con instituciones públicas o privadas, con el fin de coadyuvar a su conservación y transmisión, haciendo uso de los recursos literarios y tecnologías de la información.
+
+> <small>(ADICIONADA, D.O. 11 DE JUNIO DE 2026)</small>
+
+XLVII. Fomentar el aprendizaje y enseñanza de la Lengua de Señas Mexicana, en el ámbito educativo en los términos que dispongan las leyes en la materia.
+
+> <small>(ADICIONADA, D.O. 11 DE JUNIO DE 2026)</small>
+
+XLVIII. Fomentar en las escuelas de todos los niveles educativos la capacitación en primeros auxilios y reanimación cardiopulmonar para maestras, maestros, personal de apoyo y asistencia a la educación, así como para todo el personal que labora en los planteles escolares. Para tal efecto, las autoridades educativas de la entidad podrán llevar a cabo convenios de colaboración con la Coordinación Estatal de Protección Civil de acuerdo con lo establecido en la Ley de Protección Civil del Estado de Yucatán.
+
+> <small>(ADICIONADA, D.O. 11 DE JUNIO DE 2026)</small>
+
+XLIX. Promover en las escuelas de todos los niveles educativos la capacitación para la prevención, identificación y actuación ante casos de maltrato, violencia, perjuicio, daño, agresión, abuso, trata y explotación infantil, ya sea de índole sexual o laboral. Para tal efecto, las autoridades educativas de la entidad podrán suscribir los convenios de colaboración necesarios con las autoridades competentes y actores sociales para realizarlas acciones conducentes.
+
+> <small>(ADICIONADA, D.O. 11 DE JUNIO DE 2026)</small>
+
+L. Fomentar la vinculación con instituciones del sector público y privado para coadyuvar en la promoción de ajedrez educativo y su inclusión en las diversas actividades deportivas que se realicen en el estado.
 
 Además de las atribuciones señaladas en esta ley, la Secretaría de Investigación, Innovación y Educación Superior, en el ámbito de sus competencias, tendrá las correspondientes en materia de educación superior que se establezcan en la Ley General de Educación Superior.
 
@@ -1066,6 +1108,10 @@ IX. Impulse conocimientos tecnológicos, por medio del empleo de tecnologías de
 X. Preste especial atención a la formación fundamental de valores, tanto morales como cívicos de los educandos, como, por ejemplo, el establecimiento de una cultura vial.
 
 XI. Integre a la comunidad escolar como un equipo de trabajo responsable que promueva la educación para la salud, considerando el empoderamiento de sus integrantes para la gestión de la salud desde la escuela.
+
+> <small>(ADICIONADA, D.O. 11 DE JUNIO DE 2026)</small>
+
+XII. Fomente la inclusión de estrategias de aprendizaje y enseñanza de lenguajes que permitan generar ambientes escolares más inclusivos.
 
 ### Capítulo II. Proceso educativo
 
@@ -2373,6 +2419,60 @@ Las autoridades educativas, en coordinación con las instituciones de educación
 
 Las autoridades educativas, en términos de la ley general, se coordinarán con las autoridades competentes, para establecer mecanismos para que cuente como prestación de servicio social, las tutorías y acompañamientos que realicen estudiantes a los educandos de preescolar, primaria, secundaria y media superior con o sin discapacidad que lo requieran para lograr su máximo aprendizaje y desarrollo integral.
 
+> <small>(ADICIONADO, D.O. 11 DE JUNIO DE 2026)</small>
+
+###### Artículo 135 Bis.
+
+Garantías para las personas prestadoras del servicio social
+
+Los organismos o corporaciones beneficiadas directamente por la prestación del servicio social deberán garantizar a las personas prestadoras del servicio social lo siguiente:
+
+I. Recibir capacitación adecuada y continua, supervisada por la institución y órgano en donde la persona estudiante esté prestando su servicio.
+
+II. Ser tratadas con respeto y dignidad, quedando prohibida toda discriminación motivada por origen étnico, género, edad, religión, orientación, identidad o preferencia sexual, discapacidad o cualquier otra que atente contra la dignidad humana de la persona prestadora del servicio social.
+
+III. Ser supervisada por personal especializado en el área que corresponda a su programa académico cuando la actividad a realizar implique un riesgo para su salud física, mental, económica, patrimonial, o de cualquier índole que le genere un estado de vulnerabilidad.
+
+IV. Contar con condiciones adecuadas de seguridad y salud en el entorno donde se realice el servicio social.
+
+V. Realizar solo actividades que sean acorde al perfil académico de egreso y al Programa Académico para la Prestación del Servicio Social.
+
+VI. No ser expuesta a actividades sin asesoría y supervisión previa que impliquen responsabilidad legal.
+
+VII. Tener acceso a los recursos, infraestructura, materiales y el apoyo profesional necesario para cumplir con sus actividades y responsabilidades de servicio social.
+
+VIII. Considerar y establecer un horario óptimo y justo para la prestación de las actividades de estudiantes en la realización de las respectivas responsabilidades correspondientes al servicio social.
+
+IX. Garantizar a la persona prestadora del servicio social un tiempo mínimo de descanso durante la jornada, que le permita alimentarse o reposar y continuar con un desempeño adecuado de sus actividades.
+
+X. No excederse del horario previamente asignado, para permitir al alumnado que preste del servicio social el poder trasladarse en tiempo y forma a sus actividades académicas.
+
+XI. Recibir apoyo al que se hace referencia en el artículo 33, fracción XLVIII de esta Ley.
+
+Este apoyo será para estudiantes de instituciones de educación superior públicas y privadas.
+
+> <small>(ADICIONADO, D.O. 11 DE JUNIO DE 2026)</small>
+
+###### Artículo 135 Ter.
+
+Derecho de reasignación para la prestación del servicio social
+
+Toda persona prestadora de servicio social tiene el derecho a solicitar y ser reasignado a un área, departamento o zona distinta para la prestación del servicio social en los casos siguientes:
+
+I. Cuando la persona superior jerárquica o encargada de llevar a cabo la capacitación a la persona estudiante prestadora de servicio social se niegue a capacitarla acorde al perfil académico de egreso y/o al programa académico para la prestación del Servicio Social.
+
+II. Cuando exista un riesgo para la seguridad o para la salud de la persona prestadora de servicio social.
+
+III. Cuando exista violencia en términos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencias del Estado de Yucatán.
+
+IV. Cuando exista explotación, acoso o abuso por parte de cualquier persona que por su posición en la institución donde sea prestado el servicio social, pueda ejercer sobre la persona prestadora de servicio social.
+
+V. Cuando la actividad y responsabilidades a realizar no sean acorde a su área académica de interés.
+
+VI. Cuando exista exclusión a causa de género, origen étnico, edad, religión, orientación, identidad o preferencia sexual, discapacidad o cualquier otra que atente contra la dignidad humana de la persona prestadora del servicio social, afectando el desempeño de la o el estudiante prestador de su servicio.
+
+Toda persona prestadora del servicio social que sea reasignada a un área, departamento o zona distinta para la prestación del servicio social en consecuencia de los casos anteriormente mencionados tiene derecho a que se le consideren las horas de servicio prestadas en el área, departamento o zona de donde realizaba servicio originariamente sin necesidad de volver a prestar las horas de servicio adquiridas.
+
 ### Capítulo IV. Participación de los medios de comunicación
 
 ###### Artículo 136.
@@ -2992,3 +3092,23 @@ Artículo primero. El presente decreto entrará en vigor al día siguiente de su
 Cláusula derogatoria
 
 Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 11 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 195/2026 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE FORTALECIMIENTO EDUCATIVO PARA EL BIENESTAR EN LA ENTIDAD”.]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Disponibilidad presupuestaria
+
+Artículo segundo. Las autoridades correspondientes, de acuerdo con su disponibilidad presupuestaria, deberán implementar lo dispuesto en este decreto.
+
+Adecuaciones normativas reglamentarias
+
+Artículo tercero. El Poder Ejecutivo del Estado, deberá, dentro de un plazo de 180 días contados a partir de la entrada en vigor de este Decreto, realizar todas las adecuaciones normativas reglamentarias correspondientes.
+
+Cláusula derogatoria
+
+Artículo cuarto. Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
