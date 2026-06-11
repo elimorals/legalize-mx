@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2026-04-14"
+last_updated: "2026-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -2051,6 +2051,10 @@ I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas,
 
 II. Que las autoridades migratorias verifiquen la existencia de la autorización de quienes ejerzan la patria potestad, tutela o, en su caso, del órgano jurisdiccional competente, que permita la entrada y salida de niñas, niños o adolescentes del territorio estatal, conforme a las disposiciones aplicables;
 
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2026)</small>
+
+II Bis. Que los prestadores de servicios turísticos de hospedaje verifiquen y se cercioren de la identidad de las personas que pretendan ingresar a las instalaciones de alojamiento acompañadas de niñas, niños y adolescentes; y que dichos prestadores condicionen el acceso de las personas menores de edad a la acreditación oficial de parentesco o autorización que dispongan los protocolos emitidos por las autoridades en materia de turismo.
+
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 III. Que personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas, centros y establecimientos penitenciarios o de cualquier otra índole, se abstenga de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formule programas e imparta cursos de formación permanente para prevenirlas y erradicarlas; y
@@ -3444,3 +3448,11 @@ P.O. 14 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 606 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE PRINCIPIOS RECTORES".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 644 - LXVI QUE APRUEBA CON MODIFICACIONES LAS INICIATIVAS CON PROYECTO DE DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN EN ENTORNOS DE SERVICIOS TURÍSTICOS DE HOSPEDAJE”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO: La Secretaría de Turismo del Estado de Hidalgo deberá expedir los protocolos y ordenamientos que den cumplimiento a lo establecido en el presente Decreto.
