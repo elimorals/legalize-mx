@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-495-del-registro-civil-del-estado-de-guerrero-79768"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-04"
-last_updated: "2026-02-13"
+last_updated: "2026-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado en Alcance I, el Martes 4 de enero de 2011.
 
@@ -551,9 +551,13 @@ XXXVI. Realizar las aclaraciones y rectificaciones administrativas en su oficial
 
 XXXVII. Impartir a los contrayentes el Curso Taller de Orientación Prematrimonial, establecido en la fracción VIII el (sic) artículo 349 del Código Civil del Estado, por lo menos quince días previos a la fecha de la celebración del matrimonio civil, expidiendo la constancia respectiva a los solicitantes; y
 
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+XXXVIII. Recibir y dar trámite ante la Coordinación Técnica Estatal del Registro Civil, las solicitudes de Constancia de inexistencia en el Registro Estatal de Deudores Alimentarios Morosos
+
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
-XXXVIII. Las demás que le señalen el Código Civil vigente, las leyes y reglamentos aplicables.
+XXXIX. Las demás que le señalen el Código Civil vigente, las leyes y reglamentos aplicables.
 
 ###### Artículo 38.
 
@@ -1177,9 +1181,19 @@ Las autoridades administrativas ordenaran, admitirán y desahogaran, en todo tie
 
 ### CAPÍTULO II. DE LA ACLARACIÓN ADMINISTRATIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2026)</small>
+
 ###### Artículo 103.
 
-La aclaración administrativa podrá solicitarse directamente en la Coordinación Técnica del Sistema Estatal del Registro Civil, o bien ante la Oficialía del Registro Civil de la Cabecera Municipal del municipio donde tuvo verificativo el acto registral.
+La aclaración administrativa deberá solicitarse ante la Oficialía del Registro Civil de la Cabecera Municipal del municipio donde tuvo verificativo el acto registral, o bien, a consideración del solicitante ante Coordinación Técnica del Sistema Estatal del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2026)</small>
+
+Cuando la persona pertenezca a un grupo vulnerable como: persona con discapacidad, adulto mayor de escasos recursos o indígena, será gratuito.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2026)</small>
+
+Las oficinas del Registro Civil y la Coordinación Técnica del Sistema Estatal del Registro Civil, deberán procurar que el trámite lo realice directamente la persona interesada, tratándose de personas de grupos vulnerables de manera excepcional lo podrán hacer a través de algún apoderado legal.
 
 ###### Artículo 104.
 
@@ -1193,11 +1207,15 @@ II.- Cuando se pretenda aclarar cualquier otro error que no alteren los datos es
 
 III. Cuando en los libros que obran en poder de la Coordinación Técnica del Sistema Estatal del Registro Civil o en el Registro Civil que corresponda, se haya omitido el segundo apellido de los padres del registrado, así como el municipio como lugar de nacimiento, se deberá subsanar la omisión, sin costo alguno del beneficiario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2026)</small>
+
 ###### Artículo 105.
 
-En el Procedimiento de Aclaración Administrativa, los Oficiales del Registro Civil fungirán como órganos receptores de la Coordinación Técnica del Sistema Estatal del Registro Civil.
+En el procedimento (sic) de aclaración administrativa, las oficialías del Registro Civil de los Municipios, recibirán la solicitud correspondiente, otorgándole la orientación necesaria a las personas que soliciten el trámite, debiéndole indicar que en aquellos que pertenezcan a grupos vulnerables como: persona con discapacidad, adulto mayor de escasos recursos o indígena, será gratuito.
 
-Las Oficialías del Registro Civil no podrán dictar la resolución que resuelva el asunto ya que esta facultad se reservará a la Coordinación Técnica Estatal del Registro Civil, para ello, remitirán el expediente formado con motivo de la solicitud para que aquella resuelva conforme a derecho; decidido el asunto, devolverá el expediente a la Oficialía que corresponda, para que notifiquen al o los interesados.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2026)</small>
+
+Recibida la solicitud de Aclaración Administrativa, junto con los documentos necesarios, las Oficialías del Registro Civil deberán remitir sin demora y sin mayor dilación el expediente a la Coordinación Técnica del Sistema Estatal del Registro Civil para su integración, quien resolverá en términos del artículo 106, devolviendo el asunto a la Oficialía correspondiente para que realice las anotaciones en el libro correspondiente y notifique a la persona interesada.
 
 En caso de que la revisión que realice la Coordinación Técnica, resulten inconsistencias, devolverá el expediente a la Oficialía del Registro Civil, a fin de que en un término de 72 horas las subsane o bien le requiera los elementos faltantes al solicitante y las devuelva a la Coordinación Técnica.
 
@@ -1207,9 +1225,15 @@ La Coordinación Técnica del Sistema Estatal del Registro Civil, en todos los c
 
 ### CAPÍTULO III. DE LA RECTIFICACIÓN ADMINISTRATIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2026)</small>
+
 ###### Artículo 107.
 
-La rectificación del acta del registro civil podrá solicitarse directamente ante la Coordinación Técnica del Sistema Estatal del Registro Civil o en la Oficialía del Registro Civil de la Cabecera Municipal del municipio donde tuvo verificativo el acto registral.
+La rectificación del acta del registro civil deberá solicitarse ante la Oficialía del Registro Civil de la Cabecera Municipal del municipio donde tuvo verificativo el acto registral, o bien, por decisión del solicitante ante Coordinación Técnica del Sistema Estatal del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2026)</small>
+
+Las oficinas del Registro Civil y la Coordinación Técnica del Sistema Estatal del Registro Civil, deberán procurar que el trámite lo realice directamente la persona interesada, tratándose de personas de grupos vulnerables de manera excepcional lo podrán hacer a través de algún apoderado legal.
 
 ###### Artículo 108.
 
@@ -1269,17 +1293,27 @@ La modificación, cambio de nombre o apellido de una persona, no liberan ni exim
 
 El trámite para la rectificación de actas se verificará de la forma siguiente:
 
-I. Se presentara la solicitud por escrito por el interesado o su representante legal, ante la Coordinación Técnica del Sistema Estatal del Registro Civil o el Oficial del Registro Civil;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JUNIO DE 2026)</small>
 
-II. Presentada la solicitud la autoridad administrativa la analizara y la admitirá a trámite asignándole el número progresivo que corresponda. En el acuerdo que da trámite a la solicitud señalara fecha y hora para la audiencia de pruebas y alegatos;
+I Se presentará la solicitud por escrito por el interesado ante la Oficialía del Registro Civil del Municipio donde se realizó el Registro, o en su caso, por decisión del solicitante, ante a (sic) Coordinación Técnica del Sistema Estatal del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2026)</small>
+
+Tratándose de personas de grupos vulnerables de manera excepcional lo podrán hacer a través de algún apoderado legal.
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+II. Presentada la solicitud ante la Oficialía del Registro Civil, la analizará y la admitirá a trámite asignándole el número progresivo que corresponda. En el acuerdo que da trámite a la solicitud señalara fecha y hora para la audiencia de pruebas y alegatos;
 
 III. La declaración de dos testigos capaces que identifiquen y acrediten que el peticionario es conocido en la comunidad con el nombre o datos pretendidos y no con los asentados en el acta del registro civil; para el caso de rectificaciones de actas del estado civil;
 
-IV. Integrado el expediente respectivo y desahogadas las probanzas de referencia, la Coordinación Técnica del Sistema Estatal del Registro Civil que conozca de la petición, contara con un término no mayor de diez días hábiles, para dictar la resolución que corresponda;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
 
-Para los casos en que sean las Oficialías del Registro Civil quienes conozcan de la petición y una vez desahogadas todas las probanzas ofrecidas, deberán enviar el expediente a la Coordinación Técnica del Sistema Estatal del Registro Civil para que en el término ya señalado emita la resolución que corresponda. Una vez pronuncia la resolución, se devolverá el expediente a la Oficialía para que notifique a las partes del contenido de la misma; y
+IV. Integrado el expediente respectivo y desahogadas las probanzas de referencia, las Oficialías del Registro Civil quienes conozcan de la petición, deberán enviar el expediente a la Coordinación Técnica del Sistema Estatal del Registro Civil, para que ésta resuelva en un término no mayor de diez días hábiles. Emitida la resolución, devolverá el expediente a la Oficialía para que notifique a las partes del contenido de la misma; y
 
-V. Ejecutoriada la resolución que declare procedente o improcedente la rectificación solicitada, se comunicará a la Oficialía del Registro Civil correspondiente y al Archivo del Sistema Estatal del Registro Civil, para la anotación respectiva en sus archivos.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+V. En caso de no haber impugnación contra la resolución que declare procedente o improcedente la rectificación solicitada, la Oficialía del Registro Civil correspondiente y el Archivo del Sistema Estatal del Registro Civil, harán la anotación respectiva en sus archivos, a más tardar a los veinte días hábiles de dictada la resolución.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -1758,3 +1792,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 12 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 526 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 37, 103, 105, 107 Y 109 DE LA LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase a la titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Honorable Congreso del Estado.
