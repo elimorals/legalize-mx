@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-697-de-cultura-fisica-y-deporte-para-el-estado-y-108
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-27"
-last_updated: "2024-05-14"
+last_updated: "2026-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 697 DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2026.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 27 de Febrero de 2015.
 
@@ -231,7 +231,9 @@ XVIII. Deporte escolar: La práctica sistemática del deporte que se realiza en 
 
 XIX. Educación física extraescolar: La que corresponde a las actividades que se realizan con población escolar y que se llevan a cabo fuera del establecimiento educativo;
 
-XX. Deporte para adultos mayores y personas con discapacidad: El que practican aquellas personas que por su edad o alguna otra circunstancia, tienen diversidad funcional en sus facultades físicas, intelectuales, mentales o sensoriales, auxiliándose en ocasiones de los instrumentos apropiados;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+XX. Deporte para adultos mayores: La actividad física o deportiva practicada por personas de sesenta años o más, orientada al mantenimiento y mejora de la salud, la activación física, la recreación, la integración social y la calidad de vida;
 
 XXI. Financiamiento del deporte: La fuente de apoyo económico y en especie para incrementar los recursos destinados al fomento y desarrollo del deporte en el estado;
 
@@ -243,9 +245,17 @@ XXIII. Infraestructura deportiva: Las instalaciones deportivas para la práctica
 
 XXIV. Medicina deportiva y ciencias aplicadas al deporte: La que se brinda a la población deportiva, a través de asesoría, atención médica y científica para contribuir a la buena salud y elevar el nivel competitivo de los deportistas guerrerenses;
 
-XXV. Preparación y certificación de entrenadores, técnicos, jueces y árbitros deportivos: la obtención de conocimientos de alto nivel para brindar una atención de mayor calidad a todos los núcleos de deportistas, mediante un sistema de capacitación y certificación; y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
 
-XXVI. Dopaje: La administración a los deportistas o a los animales que estos utilicen en su disciplina, así como el uso deliberado o inadvertido de una sustancia prohibida o de un método no reglamentario; enunciado en la lista vigente de la Agencia Mundial Antidopaje;
+XXV. Preparación y certificación de entrenadores, técnicos, jueces y árbitros deportivos: la obtención de conocimientos de alto nivel para brindar una atención de mayor calidad a todos los núcleos de deportistas, mediante un sistema de capacitación y certificación;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+XXVI. Dopaje: La administración a los deportistas o a los animales que estos utilicen en su disciplina, así como el uso deliberado o inadvertido de una sustancia prohibida o de un método no reglamentario; enunciado en la lista vigente de la Agencia Mundial Antidopaje; y
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+XXVII. Deporte Adaptado: La actividad física o deportiva practicada por personas con discapacidad en condiciones de equidad, que es reglamentado e institucionalizado.
 
 ###### Artículo 8o.
 
@@ -305,7 +315,9 @@ III. Deporte de alto rendimiento;
 
 IV. Identificación de talentos deportivos;
 
-V. Deporte para personas con discapacidad;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+V. Deporte adaptado para personas con discapacidad;
 
 VI. Deporte tradicional;
 
@@ -529,7 +541,9 @@ XXX. Promover e incrementar con las previsiones presupuestales existentes, los f
 
 XXXI. Fomentar la cultura física, la recreación, la rehabilitación y el deporte entre la población en general, como medio para la prevención del delito;
 
-XXXII. Formular programas para promover la cultura física y deporte entre las personas con discapacidad;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+XXXII. Diseñar e implementar programas para promover la cultura física y el deporte adaptado entre las personas con discapacidad;
 
 XXXIII. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado, y
 
@@ -1267,9 +1281,13 @@ El INDEG presentará al Congreso del Estado un informe anual de los resultados a
 
 El Instituto del Deporte de Guerrero planeará y promoverá un programa específico para la población con discapacidad y los adultos mayores, con la finalidad de fomentar en las distintas regiones de la entidad actividades físicas y deportivas, en diversas modalidades, entre otras: Olimpiadas Especiales para personas con discapacidad y adultos mayores.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2026)</small>
+
 ###### Artículo 85.
 
-El Instituto del Deporte de Guerrero organizará y difundirá los beneficios del deporte adaptado a todas las personas con discapacidad para apoyar su integración a la sociedad, así como propiciar su bienestar. Asimismo, promoverá la creación y adaptación de instalaciones deportivas en los municipios, que sirvan también a las personas con discapacidad y a los adultos mayores.
+El INDEG, en coordinación con los ayuntamientos del Estado de Guerrero, garantizará el acceso al deporte adaptado mediante programas de inclusión sustantiva.
+
+Para tal efecto, destinará recursos y proporcionará los criterios técnicos para la adecuación de infraestructura deportiva bajo el principio de accesibilidad universal y libre desplazamiento, beneficiando prioritariamente a personas con discapacidad y adultos mayores.
 
 ###### Artículo 86.
 
@@ -2196,3 +2214,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 12 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 534 POR EL QUE SE REFORMAN Y ADICIÓNÁN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 697 DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO Y LOS MUNICIPIOS DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la titular del Poder Ejecutivo del Estado de Guerrero para su conocimiento y efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Congreso del Estado.
