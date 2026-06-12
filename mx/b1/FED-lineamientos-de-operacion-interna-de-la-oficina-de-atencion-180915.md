@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-de-operacion-interna-de-la-oficina-de-atencion-180
 country: "mx"
 rank: "lineamientos"
 publication_date: "2025-08-01"
-last_updated: "2025-08-01"
+last_updated: "2026-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180915&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,9 +18,11 @@ scjn_last_update: "2026-06-12"
 ---
 # LINEAMIENTOS DE OPERACION INTERNA DE LA OFICINA DE ATENCION CIUDADANA, DE ONCE DE JULIO DE DOS MIL VEINTICINCO, DE LA SECRETARIA GENERAL DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO III/2026, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE JUNIO DE DOS MIL VEINTISÉIS, POR EL QUE SE EMITEN LOS LINEAMIENTOS EN MATERIA DE ATENCIÓN SOCIAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL S.J.F. DE 12 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LINEAMIENTOS DE OPERACIÓN INTERNA DE LA OFICINA DE ATENCIÓN CIUDADANA, DE ONCE DE JULIO DE DOS MIL VEINTICINCO, DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 12 DE JUNIO DE 2026 (ABROGADO).
 
 Lineamientos publicados en la Gaceta Electrónica del Semanario Judicial de la Federación, el viernes 1 de agosto de 2025.
 
@@ -493,3 +495,15 @@ LICENCIADA NATALIA REYES HEROLES SCHARRER
 SECRETARIA GENERAL DE LA PRESIDENCIA
 
 Estos lineamientos se publicaron el viernes 01 de agosto de 2025 a las 10:09 horas en el Semanario Judicial de la Federación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. 12 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL NÚMERO III/2026, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE JUNIO DE DOS MIL VEINTISÉIS, POR EL QUE SE EMITEN LOS LINEAMIENTOS EN MATERIA DE ATENCIÓN SOCIAL DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se abrogan los Lineamientos de Operación Interna de la Oficina de Atención Ciudadana, de once de julio de dos mil veinticinco, de la Secretaria General de la Presidencia de la Suprema Corte de Justicia de la Nación y se derogan todas aquellas disposiciones que se opongan a lo señalado en el presente Acuerdo General.
+
+TERCERO. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de lo establecido en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
