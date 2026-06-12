@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-etica-para-las-personas-servidoras-publicas-de-la-169
 country: "mx"
 rank: "codigo"
 publication_date: "2023-12-29"
-last_updated: "2024-01-12"
+last_updated: "2026-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # CODIGO DE ETICA PARA LAS PERSONAS SERVIDORAS PUBLICAS DE LA ADMINISTRACION PUBLICA ESTATAL, PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL ACUERDO DEL SECRETARIO ANTICORRUPCIÓN Y BUEN GOBIERNO, POR EL QUE EMITE EL CÓDIGO DE ÉTICA E INTEGRIDAD PARA UN BUEN GOBIERNO EN LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADO EN EL P.O. DE 12 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2026 (ABROGADO).
 
 Código publicado en la Décima Quinta Sección al Número 20 del Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2023.
 
@@ -466,3 +466,17 @@ TERCERO. Las Dependencias y Entidades tendrán hasta el mes de abril de 2024 par
 CUARTO. La Secretaría en un plazo no mayor a 60 días hábiles posteriores a la publicación del presente Acuerdo deberá emitir los Lineamientos Generales para la Integración y Funcionamiento de los Comités de Ética y Prevención de Conflictos de Interés.
 
 Dado en la Cuatro Veces Heroica Puebla de Zaragoza, al primer día del mes de diciembre de dos mil veintitrés. El Secretario de la Función Pública. C. JUAN CARLOS MORENO VALLE ABDALA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN, SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL SECRETARIO ANTICORRUPCIÓN Y BUEN GOBIERNO, POR EL QUE EMITE EL CÓDIGO DE ÉTICA E INTEGRIDAD PARA UN BUEN GOBIERNO EN LA ADMINISTRACIÓN PÚBLICA ESTATAL"]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se abroga el ACUERDO del Secretario de la Función Pública del Gobierno del Estado, por el que expide el CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, publicado en el Periódico Oficial del Estado, el veintinueve de diciembre de dos mil veintitrés.
+
+TERCERO. La Secretaría emitirá la Guía para la elaboración del Código de Conducta de las Dependencias y Entidades de la Administración Pública Estatal, a más tardar el treinta y uno de julio de dos mil veintiséis.
+
+CUARTO. La Secretaría en un plazo no mayor a 60 días hábiles posteriores a la publicación del presente Acuerdo, deberá actualizar, o en su caso, emitir los Lineamientos Generales para la Integración y Operación de los Comités de Ética y Prevención de Conflictos de Interés de las Dependencias y Entidades de la Administración Pública Estatal.
