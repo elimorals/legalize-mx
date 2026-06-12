@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2026-06-05"
+last_updated: "2026-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE JUNIO DE 2026 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE JUNIO DE 2026.]</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -511,13 +511,21 @@ El derecho humano al cuidado tutelado por esta Constitución comprende el derech
 
 Los trabajos de cuidado deben distribuirse de manera equitativa entre los géneros y corresponsablemente entre las personas, el gobierno, el sector privado y el social.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 2026)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 2026) (F. DE E., P.O. 12 DE JUNIO DE 2026)
 
-Las autoridades de Baja California establecerán un sistema de cuidados que preste servicios públicos universales, accesibles, pertinentes, suficientes y de calidad.
+Las autoridades de Baja California establecerán un sistema de cuidados que preste servicios públicos universales, accesibles, pertinentes, suficientes y de calidad, con enfoque intercultural, interseccional y de género.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 2026)</small>
 
 El sistema de cuidados atenderá de manera prioritaria a las personas en situación de dependencia por enfermedad, discapacidad, ciclo vital, especialmente la infancia y la vejez y a quienes, de manera no remunerada, están a cargo de su cuidado.
+
+(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 2026)(F. DE E., P.O. 12 DE JUNIO DE 2026)
+
+Las políticas públicas en materia de cuidados deberán contemplar la garantía progresiva de condiciones materiales suficientes, incluido el acceso a ingresos y apoyos económicos, que permitan cubrir las necesidades básicas de las personas que requieren cuidados y de quienes realizan labores de cuidado.
+
+(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 2026)(F. DE E., P.O. 12 DE JUNIO DE 2026)
+
+Las autoridades de Baja California deberán crear los mecanismos de participación y representación de las personas cuidadoras y de quienes requieren cuidados en el diseño, implementación y evaluación de las políticas públicas en la materia.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ABRIL DE 2015)</small>
 
