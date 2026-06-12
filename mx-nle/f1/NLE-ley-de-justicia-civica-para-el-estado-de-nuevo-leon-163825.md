@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-civica-para-el-estado-de-nuevo-leon-163825"
 country: "mx"
 rank: "ley"
 publication_date: "2023-01-24"
-last_updated: "2024-12-30"
+last_updated: "2026-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE JUSTICIA CÍVICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2026.
 
 Ley publicada en el Número 13 del Periódico Oficial del Estado de Nuevo León, el martes 24 de enero de 2023.
 
@@ -839,7 +839,9 @@ Cada Centro de Detención Municipal adscrito al Juzgado Cívico tendrá, al meno
 
 Como medida de seguridad y con el objeto de salvaguardar la integridad y los derechos humanos de los detenidos internados en el Centro de Detención Municipal, deberá contarse con cámaras de videograbación.
 
-## TÍTULO SEXTO (SIC). DEL CATALOGO DE FALTAS INFRACCIONES O FALTAS ADMINISTRATIVAS Y SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2026)</small>
+
+## TÍTULO QUINTO. DEL CATÁLOGO DE FALTAS INFRACCIONES O FALTAS ADMINISTRATIVAS Y SANCIONES
 
 ### CAPÍTULO PRIMERO. DEL CATALOGO DE FALTAS O INFRACCIONES ADMINISTRATIVAS
 
@@ -857,15 +859,41 @@ II. Contra la seguridad de la comunidad;
 
 III. Contra la tranquilidad, integridad y dignidad de las personas;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
 
-IV. Contra la salud, el medio ambiente y la falta de limpieza de lotes baldíos o casas desocupadas;
+IV. Contra la salud;
 
-V. Contra la propiedad;
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 12 DE JUNIO DE 2026)</small>
 
-VI. De carácter vial y entorno urbano; y,
+V. Contra el medio ambiente, la falta de limpieza de lotes baldíos o casas desocupadas, así como el arrojar, tirar y abandonar en el espacio público lo siguiente:
 
-VII. Las demás que determinen los ayuntamientos.
+a) Animales muertos;
+
+b) Desechos, objetos o sustancias; y
+
+c) Tirar la basura en la vía pública.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE JUNIO DE 2026)</small>
+
+VI. Contra la propiedad;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 12 DE JUNIO DE 2026)</small>
+
+VII. De carácter vial, de micromovilidad y de entorno urbano;
+
+a) Impedir, obstaculizar o estorbar de cualquier forma el uso de la vía y el espacio público.
+
+b) El uso indebido de banquetas, calles, ciclovías, pasos peatonales y accesos a espacios públicos.
+
+c) Dañar o alterar la infraestructura, como los señalamientos viales, semáforos, banquetas y áreas verdes.
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+VIII. Realizar llamadas falsas de emergencia a los cuerpos de rescate; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE JUNIO DE 2026)</small>
+
+XI. Las demás que determinen los ayuntamientos.
 
 ###### Artículo 52.
 
@@ -937,7 +965,9 @@ El trabajo en favor de la comunidad, incluyendo las medidas para mejorar la conv
 
 El trabajo comunitario se podrá realizar en el lugar de residencia del infractor y no deberá ser humillante o degradante.
 
-## TÍTULO QUINTO. DE LAS MEDIDAS CÍVICAS PARA MEJORAR LA CONVIVENCIA COTIDIANA Y PORTAFOLIO DE SOLUCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2026)</small>
+
+## TÍTULO SEXTO. DE LAS MEDIDAS CÍVICAS PARA MEJORAR LA CONVIVENCIA COTIDIANA Y PORTAFOLIO DE SOLUCIONES
 
 ### CAPÍTULO PRIMERO. DE LAS MEDIDAS CÍVICAS PARA MEJORAR LA CONVIVENCIA COTIDIANA
 
@@ -997,7 +1027,9 @@ El Consejo de Justicia Cívica definirá las reglas y bases de colaboración par
 
 Para la implementación del Portafolio de Soluciones se orientarán programas y acciones para la reconstrucción del tejido social, cuyo propósito será la configuración de vínculos sociales e institucionales que favorezcan la cohesión y la reproducción de la vida social bajo componentes de seguridad comunitaria para transformar los conflictos y crear procesos de cambio constructivo que reduzcan la violencia e incrementen la justicia en la interacción directa y en las estructuras sociales, y respondan a los problemas sociales.
 
-## TÍTULO SEXTO. DEL PROCEDIMIENTO ESPECIAL PARA NIÑAS, NIÑOS Y ADOLESCENTES EN JUSTICIA CÍVICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2026)</small>
+
+## TÍTULO SÉPTIMO. DEL PROCEDIMIENTO ESPECIAL PARA NIÑAS, NIÑOS Y ADOLESCENTES EN JUSTICIA CÍVICA
 
 ### CAPÍTULO PRIMERO. DE LAS REGLAS GENERALES Y ESPECIALIZACIÓN
 
@@ -1109,7 +1141,9 @@ VI. Informes rendidos al Juez Cívico, a través de las áreas de apoyo y de pre
 
 VII. Todos aquellos informes o reportes que se determinen a través de la colaboración interinstitucional y multidisciplinaria.
 
-## TÍTULO SÉPTIMO. DE LOS MECANISMOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONTROVERSIAS Y LA JUSTICIA RESTAURATIVA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2026)</small>
+
+## TÍTULO OCTAVO. DE LOS MECANISMOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONTROVERSIAS Y LA JUSTICIA RESTAURATIVA
 
 ### CAPÍTULO PRIMERO. DE LA APLICACIÓN DE MASC EN JUSTICIA CÍVICA
 
@@ -1233,7 +1267,9 @@ IV. La aplicación de los mecanismos alternativos para la solución de controver
 
 V. La aceptación de los términos por las partes.
 
-## TÍTULO OCTAVO. DEL CONSEJO DE JUSTICIA CÍVICA Y LA PARTICIPACIÓN COMUNITARIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2026)</small>
+
+## TÍTULO NOVENO. DEL CONSEJO DE JUSTICIA CÍVICA Y LA PARTICIPACIÓN COMUNITARIA
 
 ### CAPÍTULO PRIMERO. DEL CONSEJO DE JUSTICIA CÍVICA
 
@@ -1345,7 +1381,9 @@ El Consejo de Justicia Cívica a través de la participación de las institucion
 
 Los municipios en conjunto con las instituciones de prevención social del delito, inclusión e igualdad social y salud definirán las acciones de coordinación interinstitucional para programas de atención y tratamiento de adicciones.
 
-## TÍTULO NOVENO. DEL SISTEMA DE GESTIÓN, INFORMACIÓN Y ESTADÍSTICA DE JUSTICIA CÍVICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2026)</small>
+
+## TÍTULO DÉCIMO. DEL SISTEMA DE GESTIÓN, INFORMACIÓN Y ESTADÍSTICA DE JUSTICIA CÍVICA
 
 ### CAPÍTULO PRIMERO. DEL SISTEMA DE GESTIÓN Y REGISTRO DE JUSTICIA CÍVICA
 
@@ -1407,7 +1445,9 @@ XIII. Los demás datos que determinen las autoridades competentes.
 
 El registro deberá realizarse sin demérito de que la autoridad que efectúe la detención cumpla con la obligación de emitir su respectivo informe policial y demás informes al que se refiere el Código Nacional de Procedimientos Penales. La actualización de la información del registro que lleven a cabo las autoridades deberá sujetarse a lo establecido en el artículo 23 de la Ley Nacional del Registro de Detenciones.
 
-## TÍTULO DÉCIMO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2026)</small>
+
+## TÍTULO DÉCIMO PRIMERO
 
 ### CAPÍTULO PRIMERO. DEL OBSERVATORIO METROPOLITANO DE JUSTICIA CÍVICA
 
@@ -1476,3 +1516,11 @@ P.O. 30 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 025. SE MODIFICA EL ARTÍCULO 51 DE LA LEY DE JUSTICIA CÍVICA PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 12 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 214. SE REFORMA LOS CONSECUTIVOS DEL TÍTULO QUINTO, TÍTULO SEXTO, TÍTULO SÉPTIMO, TÍTULO OCTAVO, TÍTULO NOVENO Y TÍTULO DÉCIMO; ASÍ COMO LAS FRACCIONES IV, V, VI Y VII DEL ARTÍCULO 51 Y SE ADICIONAN LAS FRACCIONES VIII Y IX AL MISMO ARTÍCULO 51, ASÍ COMO UN TÍTULO DÉCIMO PRIMERO, TODOS DE LA LEY DE JUSTICIA CÍVICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Los municipios del Estado de Nuevo León contarán con ciento ochenta días posteriores al de la entrada en vigor del presente decreto para efecto de realizar las adecuaciones correspondientes a sus reglamentos municipales al contenido de esta reforma.
