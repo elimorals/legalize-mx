@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-seguridad-escolar-del-estado-y-96420"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2023-10-25"
+last_updated: "2026-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el sábado 12 de octubre de 2013.
 
@@ -111,7 +111,13 @@ XVI. La democracia y el dialogo, y el respeto a la libertad de expresión, opini
 
 Para los efectos de esta ley, se entiende por:
 
-I. Acoso escolar. Conductas de diversa naturaleza como burlas, amenazas, intimidaciones, agresiones físicas y psicológicas, aislamiento sistemático e insultos, que tienden a originar problemas que se repiten y prolongan durante cierto tiempo dentro o fuera del establecimiento educativo, incluyendo los medios tecnológicos. En donde existe un abuso de poder, al estar provocada por un agresor, apoyado generalmente por un grupo, contra una víctima que se encuentra indefensa; quien no puede salir por sí misma de la situación, la cual provoca maltrato, humillación o temor fundado de verse expuesto a un mal de carácter grave; la cual se repite debido a la ignorancia o pasividad de las personas que rodean a los agresores y a las víctimas omitiendo intervenir directamente;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+I. Acoso escolar. Conductas de diversa naturaleza como burlas, amenazas, intimidaciones, agresiones físicas y psicológicas, aislamiento sistemático e insultos, que tienden a originar problemas que se repiten y prolongan durante cierto tiempo dentro o fuera del establecimiento educativo. En donde existe un abuso de poder, al estar provocada por una persona agresora, apoyado generalmente por un grupo, contra una víctima que se encuentra indefensa; quien no puede salir por sí misma de la situación, la cual provoca maltrato, humillación o temor fundado de verse expuesto a un mal de carácter grave; la cual se repite debido a la ignorancia o pasividad de las personas que rodean a los agresores y a las víctimas omitiendo intervenir directamente;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+I BIS. Acoso escolar Cibernético: Consiste en toda acción dolosa realizada mediante el uso de las tecnologías de la información y la comunicación, para acosar, amenazar, avergonzar, intimidar, exponer, agredir, exhibir o criticar a uno o varios estudiantes con el objetivo de causarle daño psicológico o emocional, así como atentar contra su intimidad, privacidad y/o dignidad, independientemente de si ocurre dentro o fuera del entorno escolar;
 
 II. Cohesión comunitaria. Proceso a través del cual el plantel educativo debe garantizar que los educandos alcancen su máximo potencial, además de enfatizar que tengan las mismas oportunidades, las cuales deben estar disponibles para todos sin importar su origen. Para que la escuela sea eficaz en la promoción de la cohesión se debe asegurar que todos sus miembros experimenten la escuela como una comunidad equitativa. Trabajar para mejorar las igualdades, eliminar las barreras de aprendizaje, cerrar las brechas de logros, y mantener una expectativa de excelencia para todos son elementos fundamentales para la promoción de la cohesión;
 
@@ -189,7 +195,7 @@ II. La Ley de Educación del Estado de San Luis Potosí;
 
 III. La Ley del Sistema de Seguridad Pública el Estado de San Luis Potosí;
 
-IV. La Ley de Justicia para Menores del Estado de San Luis Potosí;
+IV. (DEROGADA, P.O. 12 DE JUNIO DE 2026)
 
 V. La Ley del Sistema de Protección Civil del Estado de San Luis Potosí;
 
@@ -243,27 +249,37 @@ El Poder Ejecutivo del Estado y los ayuntamientos, de acuerdo a su ámbito de co
 
 Son autoridades en materia de prevención escolar:
 
-I. El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
 
-II. El Secretario de Seguridad Pública en el Estado;
+I. La Persona titular de Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+II. La persona titular de la Secretaria de Seguridad Pública en el Estado;
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
 
 III. La persona titular de la Fiscalía General del Estado;
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
 
-IV. Procurador de Protección de la Familia, Niñas, Niños, Adolescentes, y la Mujer;
+IV. La Persona titular de la Procuraduría de Protección de la Familia, Niñas, Niños, Adolescentes, y la Mujer;
 
-V. El Secretario de Educación de Gobierno del Estado;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
 
-VI. El Secretario de Cultura del Estado;
+V. La persona titular de la Secretaria de Educación de Gobierno del Estado;
 
-VII. El Secretario de Salud del Estado;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+VI. La Persona titular de la Secretaria de Cultura del Estado;
 
-VIII. El Director General de la Coordinación Estatal de Protección Civil;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+VII. La Persona titular de la Secretaria de Salud del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+VIII. La persona titular de la Dirección General de la Coordinación Estatal de Protección Civil;
 
 IX. Los ayuntamientos del Estado;
 
@@ -283,9 +299,11 @@ III. Orientar las políticas de prevención escolar de manera transversal, a fin
 
 IV. Las demás atribuciones que conforme a ésta y las demás disposiciones legales aplicables le correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2026)</small>
+
 ###### Artículo 10.
 
-Corresponde al Secretario de Seguridad Pública:
+Corresponde a la persona Titular de la Secretaria de Seguridad Pública:
 
 I. Aplicar y desarrollar programas, y realizar las acciones que le competen en materia de prevención y seguridad escolar;
 
@@ -333,9 +351,11 @@ V. Crear un banco de datos correspondiente al censo de violencia escolar present
 
 VI. Las demás atribuciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2026)</small>
+
 ###### Artículo 13.
 
-Corresponde al Secretario de Educación de Gobierno del Estado:
+Corresponde a la Persona Titular de la Secretaria de Educación de Gobierno del Estado:
 
 I. Proponer al Gobernador del Estado la política pública en materia de prevención y seguridad escolar a fin de cumplir el objetivo de la presente Ley;
 
@@ -369,9 +389,11 @@ XII. Establecer la impartición de capacitaciones constantes en las que se inclu
 
 XIII. Las demás atribuciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2026)</small>
+
 ###### Artículo 14.
 
-Corresponde al Secretario de Cultura, en coordinación con la Secretaría de Educación:
+Corresponde a la Persona Titular de la Secretaria de Cultura, en coordinación con la Secretaría de Educación:
 
 I. Promover la cultura de paz, el diálogo y la cooperación en las escuelas;
 
@@ -393,9 +415,11 @@ IX. Difundir y promover las culturas étnicas en los centros educativos del Esta
 
 X. Las demás atribuciones que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2026)</small>
+
 ###### Artículo 15.
 
-Corresponde al Secretario de Salud, en coordinación con la Secretaría de Educación:
+Corresponde a la Persona Titular de la Secretaria de Salud, en coordinación con la Secretaría de Educación:
 
 I. Promover hábitos de conducta que contribuyan a proteger la salud o a solucionar problemas de salud, e intervenir en programas de promoción y mejoramiento de la salud y de prevención de enfermedades y accidentes, así como acciones de respeto a la dignidad de la persona;
 
@@ -409,11 +433,11 @@ V. Procurar, en materia de prevención de la farmacodependencia, la coordinació
 
 VI. Ejercer las demás atribuciones que esta Ley y demás disposiciones legales aplicables le competan, de manera coordinada con las dependencias idóneas de los órdenes de gobierno estatal y municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2026)</small>
 
 ###### Artículo 16.
 
-Corresponde al Director General de la Coordinación Estatal de Protección Civil:
+Corresponde a la Persona Titular de la Dirección General de la Coordinación Estatal de Protección Civil;
 
 I. Promover la cultura de protección civil, organizar y desarrollar acciones, observando los aspectos normativos de operación, coordinación y participación con las autoridades señaladas en esta Ley, y procurando la extensión de la educación y capacitación entre las comunidades escolares;
 
@@ -495,23 +519,33 @@ III. Los demás integrantes de los sectores, público, privado y social, que a i
 
 El Consejo Estatal de Prevención y Seguridad Escolar estará integrado por:
 
-I. El Gobernador del Estado, quien lo presidirá o la persona que él designe para representarlo;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
 
-II. El Secretario de Educación, quien fungirá como secretario técnico;
+I. Quien ocupe la titularidad del Ejecutivo del Estado, quien lo presidirá o la persona que él designe para representarlo;
 
-III. El Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
 
-IV. El Secretario de Salud;
+II. Quien ocupe la titularidad de la Secretaría de Educación, quien fungirá como secretario técnico;
 
-V. El Secretario de Cultura;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2023)</small>
+III. Quien ocupe la titularidad de la Secretaría de Seguridad Pública;
 
-VI. La persona titular de la Fiscalía General del Estado;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+IV. Quien ocupe la titularidad de la Secretaría de Salud;
 
-VII. El Director General de la Coordinación Estatal (sic) Protección Civil;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+V. Quien ocupe la titularidad de la Secretaría de Cultura;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+VI. Quien ocupe la titularidad de la Fiscalía General del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+VII. Quien ocupe la titularidad de la Dirección General de la Coordinación Estatal de Protección Civil;
 
 VIII. Un representante de los padres de familia;
 
@@ -523,13 +557,15 @@ IX. Al menos un presidente municipal de uno de los municipios con mayor presenci
 
 X. Representantes magisteriales de las secciones sindicales en el Estado, y
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
 
-XI. El Presidente de la Comisión Estatal de Derechos Humanos, o la persona integrante de dicha Comisión que éste designe.
+XI Quien ocupe la titularidad de la Comisión Estatal de Derechos Humanos, o la persona integrante de dicha Comisión que éste designe.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2026)</small>
 
 ###### Artículo 22.
 
-El Presidente del Consejo Estatal podrá invitar a los servidores públicos, representantes de los Comités de Prevención y Seguridad Escolar, especialistas en la materia y miembros de la sociedad civil, que de conformidad con los temas a tratar resulte necesario.
+La persona titular de la presidencia del Consejo Estatal podrá invitar a los servidores públicos, representantes de los Comités de Prevención y Seguridad Escolar, especialistas en la materia y miembros de la sociedad civil, que de conformidad con los temas a tratar resulte necesario.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
@@ -980,3 +1016,19 @@ P.O. 25 DE OCTUBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0555.- QUE REALIZA DEROGACIÓN DENTRO DEL ARTÍCULO 6°, DE LA LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
+
+P.O. 12 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0556.- QUE REFORMA LOS ARTÍCULOS 4°, 8°, 10, 13, 14, 15, 16, 21, 22; Y REALIZA ADICIÓN AL ARTÍCULO 4°, DE LA LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan al presente Decreto.
