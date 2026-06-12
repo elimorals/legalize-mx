@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2026-04-15"
+last_updated: "2026-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -939,7 +939,9 @@ XX. Establecer las medidas para que en los servicios de salud se detecten y atie
 
 XXI. Fijar las medidas tendentes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones;
 
-XXII. Establecer medidas tendentes a que en los servicios de salud se detecten y atiendan de manera especial los casos con problemas de salud mental;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
+
+XXII. Establecer medidas para que los servicios de salud detecten y atiendan de manera especial los casos con problemas de salud mental, anticipando la prevención del suicidio;
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
 
@@ -997,9 +999,17 @@ IX. Promover los mecanismos de colaboración y fomentar los programas de protecc
 
 X. Establecer clínicas de rehabilitación destinadas a quienes cuenten con problemas de adicciones, así como realizar campañas de concientización y de prevención;
 
-XI. Implementar programas dirigidos a aquellos con enfermedades terminales; así como, a ser atendidos por personal capacitado y a que se les proporcione información veraz y oportuna, relativa a su enfermedad en los términos necesarios y comprensibles acorde a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2026)</small>
 
-XII. Ejecutar las demás acciones que sean necesarias para garantizar la protección y asistencia social en circunstancias especialmente difíciles.
+XI. Implementar programas dirigidos a aquellos con enfermedades terminales; así como, a ser atendidos por personal capacitado y a que se les proporcione información veraz y oportuna, relativa a su enfermedad en los términos necesarios y comprensibles acorde a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2026)</small>
+
+XII. Elaborar programas, y llevar acciones de apoyo psicológico tendiente a la prevención del suicidio y salud mental, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE JUNIO DE 2026)</small>
+
+XIII. Ejecutar las demás acciones que sean necesarias para garantizar la protección y asistencia social en circunstancias especialmente difíciles.
 
 ### CAPÍTULO X. DEL DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
 
@@ -2936,5 +2946,13 @@ P.O. 15 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0509.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 6°, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0554.- QUE REFORMA LOS ARTÍCULOS 46 Y 50; Y REALIZA ADICIÓN AL ARTÍCULO 50, AMBAS A LA LEY DE LOS DERECHOS DE NIÑAS NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
