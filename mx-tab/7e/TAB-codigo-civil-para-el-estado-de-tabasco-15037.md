@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2026-05-06"
+last_updated: "2026-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -20217,6 +20217,12 @@ La compraventa de inmuebles, así como las hipotecas, que celebren las instituci
 
 Para que los documentos privados sean inscribibles, deberán exhibirse ante la Oficina Registral correspondiente, acompañados de copia certificada por el mismo Notario autorizante, de los comprobantes de los pagos de los impuestos y derechos federales, estatales y municipales, que en su caso se causen.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+ARTICULO 2588 BIS.- Excepción
+
+Se exceptúa de lo establecido en los párrafos segundo y tercero del artículo 2588, a los organismos públicos descentralizados del Gobierno del Estado, quienes podrán inscribir directamente los documentos privados ante la oficina registral correspondiente.
+
 ###### ARTICULO 2589.
 
 Firma a ruego de otro
@@ -25960,3 +25966,13 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
 TERCERO. En un plazo no mayor a ciento ochenta días hábiles se deberán realizar las adecuaciones normativas y reglamentarias pertinentes para el cumplimiento de lo dispuesto en el presente Decreto.
+
+P.O. 13 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 272 POR EL QUE “SE ADICIONA EL ARTÍCULO 2588 BIS AL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
+
+TERCERO. En un plazo no mayor a ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones normativas necesarias para dar cumplimiento a lo dispuesto en el mismo.
