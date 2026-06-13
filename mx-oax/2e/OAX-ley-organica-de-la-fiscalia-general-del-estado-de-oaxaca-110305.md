@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-fiscalia-general-del-estado-de-oaxaca-110305
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-06"
-last_updated: "2024-07-03"
+last_updated: "2026-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2026.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 6 de octubre de 2015.
 
@@ -765,17 +765,17 @@ El Reglamento, el Reglamento del Servicio, así como los Acuerdos, Convenios, Re
 
 Para el despacho de los asuntos que competen a la Fiscalía General y al Ministerio Público conforme a las disposiciones aplicables, la o el Fiscal General se auxiliará de:
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2026)</small>
 
-I. Las vicefiscalías;
+I. Las Vicefiscalías Generales;
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
 
 II. La Fiscalía Especializada en Materia de Combate a la Corrupción, la Fiscalía Especializada en Delitos Electorales y las fiscalías especializadas que se determinen en el Reglamento;
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2026)</small>
 
-III. Las fiscalías regionales;
+III. Las Vicefiscalías Regionales;
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2018)</small>
 
@@ -825,17 +825,47 @@ Para el nombramiento de las personas titulares de las áreas señaladas en las f
 
 El Reglamento y los instrumentos que emanen de éste establecerán las vicefiscalías, las fiscalías especializadas, las fiscalías regionales, los institutos, las direcciones, las fiscalías, las unidades administrativas u operativas y demás áreas administrativas que se requieran; sus atribuciones, facultades y funciones, así como su organización y funcionamiento.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2026)</small>
 
-Asimismo, el Reglamento y los instrumentos que emanen regularán todo lo concerniente a la organización y funcionamiento de las fiscalías especializadas en Materia de Combate a la Corrupción y en Delitos Electorales, la Agencia de Investigación, los Institutos de la Fiscalía General, la Oficialía Mayor, la Contraloría Interna, y la Visitaduría General.
+Así mismo el reglamento y los instrumentos que emanen regularán todo lo concerniente a la organización y funcionamiento de las Fiscalías Especializadas en materia de Combate a la Corrupción, en Delitos Electorales, la Agencia de Investigación, los Institutos de la Fiscalía General, la Oficialía Mayor, la Contraloría Interna, la Visitaduría General y la Vicefiscalía General de Atención a Víctimas y Derechos Humanos la cual coordinará a la Fiscalía Especializada en la investigación de los Delitos de Tortura, Tratos Crueles, Inhumanos, Degradantes y Delitos Vinculados y a la Fiscalía Especializada en la Investigación de la Desaparición Cometida por Particulares, Desaparición Forzada y delitos Vinculados. La designación de las Titularidades de estas últimas será competencia exclusiva de la o el Fiscal General.
 
-### CAPÍTULO II. DEL PERSONAL DE LA FISCALÍA GENERAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO I BIS. DE LA VICEFISCALÍA GENERAL DE ATENCIÓN A VÍCTIMAS Y DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 21 Bis.
+
+La Vicefiscalía General de Atención a Víctimas y Derechos Humanos tendrá las siguientes funciones y atribuciones:
+
+I. Coordinar, Conducir y supervisar a la Fiscalía Especializada en la investigación de los Delitos de Tortura, Tratos Crueles, Inhumanos, Degradantes y Delitos Vinculados y a la Fiscalía Especializada en la Investigación de la Desaparición Cometida por Particulares, Desaparición Forzada y delitos Vinculados, en los términos del reglamento.
+
+II. Emitir o suscribir instrumentos jurídicos que faciliten el funcionamiento y operación de la Vicefiscalía General de Atención a Víctimas y Derechos Humanos en el respectivo ámbito de su competencia;
+
+III. Establecer mecanismos de coordinación a través de las áreas correspondientes de la Fiscalía General con la Comisión Nacional de los Derechos Humanos, las Comisiones de Derechos Humanos del Estado, y las organizaciones no gubernamentales dedicadas a la defensa de los derechos humanos y la defensa de los derechos de las víctimas, así como otras instancias y dependencias de los tres órdenes de gobierno, de conformidad con las políticas y lineamientos que en la materia tenga establecidos la Institución, para el óptimo cumplimiento de las funciones que le corresponden;
+
+IV. Decretar medidas de protección a favor de víctimas de los delitos de tortura, tratos o penas crueles, inhumanos o degradantes y vinculado; y de Desaparición Cometida por Particulares, Desaparición Forzada y delitos Vinculados, y
+
+V. Las demás que se establezcan en la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Articulo 21 Ter.
+
+Las Fiscalías Especializadas adscritas a La Vicefiscalía General de Atención a Víctimas y Derechos Humanos, gozarán de autonomía técnica y de gestión, en el ámbito de su competencia y tendrán, sin perjuicio de las facultades que se les concedan, deleguen o, en su caso, se desarrollen en el Reglamento interno las siguientes:
+
+I. La investigación y persecución de los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas respectivamente.
+
+II. Ejercer la acción penal ante el órgano jurisdiccional por delitos de su competencia, y
+
+III. Las demás que se establezcan en la normatividad aplicable.
 
 ###### Artículo 22.
 
 Los acuerdos por los cuales se disponga la creación o adscripción de fiscalías, vicefiscalías, direcciones, unidades administrativas u operativas y demás áreas administrativas, se publicarán en el Periódico Oficial del Gobierno del Estado.
 
-### CAPÍTULO III. DE LAS RELACIONES ADMINISTRATIVAS Y LABORALES CON LA FISCALÍA GENERAL
+### CAPÍTULO II. DEL PERSONAL DE LA FISCALÍA GENERAL
 
 ###### Artículo 23.
 
@@ -871,7 +901,7 @@ La Fiscalía General contará con agentes del Ministerio Público, policías de 
 
 Los agentes del Ministerio Público, los policías de investigación, peritos y facilitadores, podrán ser de designación especial y no ser miembros del Servicio, en términos del capítulo VII del presente Título.
 
-### CAPÍTULO IV. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
+### CAPÍTULO III. DE LAS RELACIONES ADMINISTRATIVAS Y LABORALES CON LA FISCALÍA GENERAL
 
 ###### Artículo 28.
 
@@ -891,7 +921,7 @@ En atención a la naturaleza de las funciones que tiene a su cargo la Fiscalía 
 
 Las relaciones jurídicas entre la Fiscalía General y el personal a que se refiere este artículo serán de carácter laboral, por lo que cualquier controversia relacionada con la protección al salario y los beneficios de seguridad social que se suscite con motivo de dicha relación será resuelta por las instancias competentes, conforme a las disposiciones aplicables.
 
-### CAPÍTULO V. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
+### CAPÍTULO IV. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
 ###### Artículo 30.
 
@@ -921,9 +951,7 @@ III. (DEROGADA, P.O. 21 DE OCTUBRE DE 2023)
 
 Para efectos de los procedimientos seguidos ante los órganos sancionadores, podrán realizarse todo tipo de notificaciones a través del correo electrónico ofrecido por las partes, en los términos que determinen las disposiciones aplicables a cada procedimiento.
 
-### CAPÍTULO VI. DE LA FORMACIÓN INTEGRAL Y DE LA EDUCACIÓN EN DERECHOS HUMANOS
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+### CAPÍTULO V. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
 ###### Artículo 32.
 
@@ -939,9 +967,9 @@ El incumplimiento de las obligaciones a que se refiere este capítulo, dará lug
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 2023)</small>
 
-### CAPÍTULO VII. DE LA DESIGNACIÓN ESPECIAL
+### CAPÍTULO VI. DE LA FORMACIÓN INTEGRAL Y DE LA EDUCACIÓN EN DERECHOS HUMANOS
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 34.
 
@@ -959,7 +987,7 @@ La formación integral y educación en derechos humanos se basará en el enfoque
 
 Del mismo modo, se regirá por los principios de universalidad, interdependencia, no discriminación, progresividad, buena fe, autonomía, certeza, legalidad, objetividad, lealtad, imparcialidad, eficacia, honradez, profesionalismo.
 
-### CAPÍTULO I. BASES GENERALES
+### CAPÍTULO VII. DE LA DESIGNACIÓN ESPECIAL
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
 
@@ -997,7 +1025,9 @@ Previo al ingreso como agente del Ministerio Público, como policía de investig
 
 ## TÍTULO TERCERO. DEL SERVICIO PROFESIONAL DE CARRERA
 
-### CAPÍTULO II. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA
+### CAPÍTULO I. BASES GENERALES
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2018)</small>
 
 ###### Artículo 40.
 
@@ -1045,7 +1075,7 @@ VI. Buscará generar el sentido de pertenencia institucional, y
 
 VII. Contará con el Sistema (sic) Información y Seguimiento de los miembros del Servicio y sus respectivas carreras.
 
-### CAPÍTULO III. DE LOS PROCEDIMIENTOS DE EVALUACIÓN
+### CAPÍTULO II. DE LOS REQUISITOS DE INGRESO Y PERMANENCIA
 
 ###### Artículo 44.
 
@@ -1291,7 +1321,7 @@ g. No incurrir en actos u omisiones que afecten la prestación del Servicio, y
 
 h) (sic) Los demás requisitos que establezca el Reglamento del Servicio, la Dirección del Servicio Profesional de Carrera y las disposiciones aplicables.
 
-### CAPÍTULO IV. DEL CERTIFICADO Y REGISTRO DE LOS ASPIRANTES Y DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO III. DE LOS PROCEDIMIENTOS DE EVALUACIÓN
 
 ###### Artículo 47.
 
@@ -1353,7 +1383,7 @@ Se considera información confidencial por contener datos personales, la conteni
 
 Los miembros del Servicio que no aprueben los procedimientos de evaluación referidos en este capítulo, dejarán de prestar sus servicios en la Fiscalía General, previo desahogo del procedimiento que establece el Capítulo IX del presente Título.
 
-### CAPÍTULO V. DE LA PROFESIONALIZACIÓN
+### CAPÍTULO IV. DEL CERTIFICADO Y REGISTRO DE LOS ASPIRANTES Y DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 57.
 
@@ -1413,7 +1443,7 @@ IV. Por las demás causas que establezcan las demás disposiciones aplicables.
 
 El Centro que cancele algún Certificado deberá hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública a que alude la Ley General, sin perjuicio de que se realice otro registro correspondiente en el Sistema de Información y Seguimiento de la Fiscalía General.
 
-### CAPÍTULO VI. DE LA CONCLUSIÓN DEL SERVICIO
+### CAPÍTULO V. DE LA PROFESIONALIZACIÓN
 
 ###### Artículo 66.
 
@@ -1427,7 +1457,7 @@ Los miembros del Servicio están obligados a participar en los programas de prof
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE ENERO DE 2018)</small>
 
-### CAPÍTULO VII. DEL CONSEJO LOCAL DE PROFESIONALIZACIÓN
+### CAPÍTULO VI. DE LA CONCLUSIÓN DEL SERVICIO
 
 ###### Artículo 68.
 
@@ -1467,7 +1497,7 @@ Tal circunstancia será inscrita en el Registro Nacional de Personal de Segurida
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE OCTUBRE DE 2023)</small>
 
-### CAPÍTULO VIII. DEL RÉGIMEN DISCIPLINARIO
+### CAPÍTULO VII. DEL CONSEJO LOCAL DE PROFESIONALIZACIÓN
 
 ###### Artículo 72.
 
@@ -1481,9 +1511,7 @@ Tal circunstancia será inscrita en el Registro Nacional de Personal de Segurida
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 2023)
 
-### CAPÍTULO IX. DEL PROCEDIMIENTO ANTE LA VISITADURÍA GENERAL
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
+### CAPÍTULO VIII. DEL RÉGIMEN DISCIPLINARIO
 
 #### SECCIÓN I. DE LOS DERECHOS Y OBLIGACIONES DE LOS MIEMBROS DEL SERVICIO
 
@@ -1671,7 +1699,9 @@ Los términos, formas y condiciones de las faltas leves, así como de la imposic
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 2023)</small>
 
-### CAPÍTULO I. DEL PATRIMONIO
+### CAPÍTULO IX. DEL PROCEDIMIENTO ANTE LA VISITADURÍA GENERAL
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 84.
 
@@ -1695,7 +1725,7 @@ El procedimiento a que se refiere el artículo anterior será substanciado por l
 
 ## TÍTULO CUARTO. DEL PATRIMONIO, PRESUPUESTO Y FONDOS DE LA FISCALÍA GENERAL
 
-### CAPÍTULO II. DEL PRESUPUESTO
+### CAPÍTULO I. DEL PATRIMONIO
 
 ###### Artículo 86.
 
@@ -1739,7 +1769,7 @@ X. Los demás que determinen las disposiciones aplicables.
 
 Las multas impuestas por la Fiscalía General tendrán la naturaleza de créditos fiscales y serán enviadas para su cobro a la Secretaría de Finanzas del Estado de Oaxaca, quien una vez efectuado el mismo entregará las cantidades respectivas a la Institución, la cual podrá destinar dichos recursos para cubrir sus gastos de operación e inversión.
 
-### CAPÍTULO III. DE LOS FONDOS
+### CAPÍTULO II. DEL PRESUPUESTO
 
 ###### Artículo 88.
 
@@ -1753,9 +1783,7 @@ El ejercicio del presupuesto de la Fiscalía General se ejercerá en términos d
 
 El presupuesto de la Fiscalía General será utilizado para gasto corriente, proyectos de inversión, adquisición de bienes, servicios e inmuebles, así como en los demás fines que sean necesarios para el adecuado ejercicio de sus atribuciones, facultades y funciones.
 
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO
-
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+### CAPÍTULO III. DE LOS FONDOS
 
 ###### Artículo 91.
 
@@ -1813,13 +1841,15 @@ En el caso de que conforme a las disposiciones aplicables a la Fiscalía General
 
 ## TÍTULO QUINTO. DISPOSICIONES COMPLEMENTARIAS
 
-### CAPÍTULO II. DE LOS SERVIDORES PÚBLICOS QUE EJERCEN FUNCIONES DE AGENTES DEL MINISTERIO PÚBLICO
+### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS Y OFENDIDOS DEL DELITO
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 95.
 
 La Fiscalía General podrá otorgar atención inmediata o especializada a las víctimas o personas ofendidas del delito, según sea el caso. Para tales efectos, su actuación observará la pertinencia cultural y se regirá de acuerdo a los lineamientos que expida la Comisión Ejecutiva Estatal conforme a las disposiciones aplicables.
 
-### CAPÍTULO III. DEL CONSEJO CONSULTIVO CIUDADANO
+### CAPÍTULO II. DE LOS SERVIDORES PÚBLICOS QUE EJERCEN FUNCIONES DE AGENTES DEL MINISTERIO PÚBLICO
 
 ###### Artículo 96.
 
@@ -1882,6 +1912,8 @@ IX. La persona titular de la Central de Inteligencia Criminal; y
 > <small>(ADICIONADA, P.O. 24 DE ENERO DE 2018)</small>
 
 X. Los demás servidores públicos que determine el Reglamento.
+
+### CAPÍTULO III. DEL CONSEJO CONSULTIVO CIUDADANO
 
 ###### Artículo 98.
 
@@ -2090,3 +2122,21 @@ PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto.
+
+13 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1403.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES I, III Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 21; Y SE ADICIONA EL CAPÍTULO I BIS DE LA VICEFISCALÍA GENERAL DE ATENCIÓN A VÍCTIMAS Y DERECHOS HUMANOS, QUE CONTIENE LOS ARTÍCULOS 21 BIS Y 21 TER A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA; REFORMAN, EL ARTÍCULO 4; LA DENOMINACIÓN DEL CAPÍTULO TERCERO DEL TÍTULO PRIMERO; LA DENOMINACIÓN DEL TÍTULO SEGUNDO Y DE SU CAPÍTULO PRIMERO; LAS FRACCIONES XI, XLI, XLVIII DEL ARTÍCULO 24; EL ARTÍCULO 47; EL PRIMER PÁRRAFO DEL ARTÍCULO 49; LA DENOMINACIÓN DEL TÍTULO TERCERO Y DE SU CAPÍTULO ÚNICO; EL ARTÍCULO 53; EL PRIMER PÁRRAFO Y LAS FRACCIONES II Y IV DEL ARTÍCULO 55; LAS FRACCIONES I, XVII Y XXVII DEL ARTÍCULO 56; EL SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 65; EL PRIMER PÁRRAFO DEL ARTÍCULO 67; LA FRACCIÓN II DEL ARTÍCULO 69; LOS ARTÍCULOS 81 Y 84; EL PRIMER PÁRRAFO DEL ARTÍCULO 86; Y LOS ARTÍCULOS 88 Y 89. SE ADICIONAN LAS FRACCIONES II, III Y VI RECORRIENDO LAS SUBSECUENTES EN SU ORDEN AL ARTÍCULO 2; LAS FRACCIONES XIV Y XV AL ARTÍCULO 5; LOS CAPÍTULOS SEGUNDO BIS, SEGUNDO TER Y SEGUNDO QUATER AL TÍTULO PRIMERO, LOS CUALES COMPRENDEN DEL ARTÍCULO 12 BIS AL 12 DECIES; EL ARTÍCULO 16 BIS; LOS ARTÍCULOS DEL 17 BIS AL 17 NONIES; LOS ARTÍCULOS 53 BIS Y 53 TER; LA FRACCIÓN V AL ARTÍCULO 55; LAS FRACCIONES III BIS, XXVIII, XXIX, XXX RECORRIENDO LAS SUBSECUENTES EN SU ORDEN AL ARTÍCULO 56; LOS ARTÍCULOS 58 BIS, 58 TER; 59 BIS; Y 67 BIS; UN SEGUNDO PÁRRAFO RECORRIENDO LOS SUBSECUENTES EN SU ORDEN AL ARTÍCULO 76; EL ARTÍCULO 76 BIS; LA FRACCIÓN XII AL ARTÍCULO 86 RECORRIÉNDOSE LA SUBSECUENTE; EL TÍTULO OCTAVO QUE CONTIENE EL CAPÍTULO PRIMERO CON LOS ARTÍCULOS 91, 92, 93, 94, 95, 96, 97; 98; 99; 100; 101, 102, 103, 104, 105, 106, 107, 108 Y 109; Y EL CAPÍTULO SEGUNDO QUE CONTIENE LOS ARTÍCULOS 110, 111, Y 112; Y SE DEROGAN, LAS FRACCIONES IV A LA X DEL ARTÍCULO 41; EL SEGUNDO PÁRRAFO CON SUS FRACCIONES DE LA I A LA IV, Y EL TERCER PÁRRAFO DEL ARTÍCULO 49; TODOS DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. La persona titular de la Vicefiscalía General de Víctimas y Derechos Humanos, deberá ser nombrada por el Fiscal General dentro del plazo de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Las personas titulares de la Fiscalía Especializada en la Investigación de la Desaparición Cometida por Particulares, Desaparición Forzada y delitos Vinculados y de la Fiscalía Especializada en la Investigación de los Delitos de Tortura, Tratos Crueles, Inhumanos, Degradantes y Delitos Vinculados deberán ser nombradas por el Fiscal General dentro del plazo de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Fiscalía General del Estado deberá armonizar el Reglamento Interno de la Fiscalía General del Estado, dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto.
+
+SEXTO. Los asuntos iniciados y recibidos por la Unidad de Tortura de la Vicefiscalía General de Atención a Víctimas y a la Sociedad serán transferidos a la Fiscalía Especializada en Investigación y Persecución de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, en un plazo de treinta días naturales, a partir de la designación de la persona Titular de la fiscalía especializada, en términos de la normatividad aplicable.
+
+SÉPTIMO. La Secretaría de Finanzas del Gobierno del Estado y la Fiscalía General del Estado de Oaxaca, realizarán las adecuaciones presupuestales necesarias para el cumplimiento del presente Decreto.
