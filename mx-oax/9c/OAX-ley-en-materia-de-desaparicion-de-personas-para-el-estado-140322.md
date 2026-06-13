@@ -4,7 +4,7 @@ identifier: "OAX-ley-en-materia-de-desaparicion-de-personas-para-el-estado-14032
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-04"
-last_updated: "2024-08-28"
+last_updated: "2026-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2026.
 
 Ley publicada en el Número Extra del Periódico Oficial del Estado de Oaxaca, el viernes 4 de octubre de 2019.
 
@@ -63,17 +63,31 @@ b) El esclarecimiento de los hechos;
 
 c) Prevenir, investigar, sancionar y erradicar los delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, así como los delitos vinculados señalados por la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y Sistema Nacional de Búsqueda de Personas;
 
-II. Establecer el Consejo Estatal Ciudadano de Búsqueda de Personas en materia de Personas Desaparecidas para el Estado de Oaxaca;
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2026)</small>
 
-III. La creación de la Comisión Estatal de Búsqueda de Personas Desparecidas para el Estado de Oaxaca;
+II. Establecer la Alerta Nacional de Búsqueda, Localización e Identificación, ante la noticia, reporte o denuncia de Persona Desaparecida o No Localizada, que deberá activarse en todo el país;
 
-IV. Establecer las bases para la coordinación de las acciones y medidas dirigidas a promover, respetar, proteger, garantizar y permitir el ejercicio efectivo de los derechos de las víctimas, y los mecanismos para que todas las autoridades estatales y municipales, en el ámbito de sus respectivas competencias cumplan con sus obligaciones de prevenir, investigar, sancionar y lograr la reparación integral;
+La Comisión Nacional de Búsqueda emitirá el Protocolo correspondiente para la activación de la Alerta, el cual deberá contar, al menos, con el mecanismo para su activación y operación. Para tal efecto, las autoridades estatales se coordinarán con las autoridades municipales y federales, estableciéndose las obligaciones específicas de las instituciones competentes para su debida ejecución;
 
-V. Garantizar la participación de las y los familiares en el diseño, implementación, monitoreo y evaluación de las acciones de búsqueda e identificación de personas desaparecidas y no localizadas;
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2026)</small>
 
-VI. Garantizar la coadyuvancia de las y los familiares en las etapas de investigación, de manera que puedan manifestar sus opiniones, recibir información, aportar indicios o evidencias, de acuerdo a los lineamientos y protocolos emitidos por el Sistema Nacional de Búsqueda de Personas, y;
+III. Determinar la obligación de las autoridades estatales y municipales en la materia.
 
-VII. Garantizar la protección integral de los derechos de las personas desaparecidas hasta que se conozca su suerte o paradero, así como la atención, asistencia, protección, garantías de no repetición y en su caso, la reparación integral, en términos de esta ley y la legislación aplicable.
+IV. Establecer el Consejo Estatal Ciudadano de Búsqueda de Personas en materia de Personas Desaparecidas para el Estado de Oaxaca;
+
+V. La creación de la Comisión Estatal de Búsqueda de Personas Desparecidas para el Estado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+VI. Crear el Sistema de Coordinación Estatal de Búsquedas de Personas Desaparecidas;
+
+VII. Establecer las bases para la coordinación de las acciones y medidas dirigidas a promover, respetar, proteger, garantizar y permitir el ejercicio efectivo de los derechos de las víctimas, y los mecanismos para que todas las autoridades estatales y municipales, en el ámbito de sus respectivas competencias cumplan con sus obligaciones de prevenir, investigar, sancionar y lograr la reparación integral;
+
+VIII. Garantizar la participación de las y los familiares en el diseño, implementación, monitoreo y evaluación de las acciones de búsqueda e identificación de personas desaparecidas y no localizadas;
+
+IX. Garantizar la coadyuvancia de las y los familiares en las etapas de investigación, de manera que puedan manifestar sus opiniones, recibir información, aportar indicios o evidencias, de acuerdo a los lineamientos y protocolos emitidos por el Sistema Nacional de Búsqueda de Personas, y;
+
+X. Garantizar la protección integral de los derechos de las personas desaparecidas hasta que se conozca su suerte o paradero, así como la atención, asistencia, protección, garantías de no repetición y en su caso, la reparación integral, en términos de esta ley y la legislación aplicable.
 
 ###### Artículo 3.
 
@@ -81,57 +95,89 @@ La aplicación de la presente Ley corresponde a las autoridades del Poder Ejecut
 
 Las autoridades municipales deberán colaborar con las autoridades integrantes del Sistema Nacional, autoridades nacionales y estatales que contribuyen en la búsqueda de personas desaparecidas y no localizadas, para el cumplimiento de los objetivos de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas y la presente Ley.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2026)</small>
+
 ###### Artículo 4.
 
 Para los efectos de esta ley, se entiende por:
 
-I. Banco Estatal de Datos: La herramienta que concentra las bases de datos relacionadas con personas desaparecidas y no localizadas del estado de Oaxaca, así como otras bases de datos que contengan información forense relevante para la búsqueda e identificación;
+I. Autoridades: Los poderes Legislativo, Ejecutivo y Judicial, los municipios, así como los órganos constitucionales autónomos y cualquier otra institución pública que, en el ámbito de sus competencias, intervenga en la prevención, investigación, búsqueda, localización, identificación, sanción, reparación o garantía de no repetición de casos de desaparición de personas;
 
-II. Comisión Ejecutiva Estatal: La Comisión Ejecutiva de Atención a Víctimas del Estado de Oaxaca;
+II. Banco Estatal de Datos: La herramienta que concentra las bases de datos relacionadas con personas desaparecidas y No Localizadas del estado de Oaxaca, así como otras bases de datos que contengan información forense relevante para la búsqueda e identificación;
 
-III. Comisión Estatal de Búsqueda: La Comisión de Búsqueda de Personas Desaparecidas para el Estado de Oaxaca;
+III. Banco Nacional de Datos Forenses: A la herramienta del Sistema Nacional que concentra las bases de datos de las Entidades Federativas y de la Federación; así como, otras bases de datos que tengan información forense relevante para la búsqueda e identificación de Personas Desaparecidas y No Localizadas;
 
-IV. Comisión Nacional: La Comisión Nacional de Búsqueda de Personas Desaparecidas;
+IV. Base Nacional de Carpetas de Investigación: Al registro que concentra los datos de las carpetas de investigación o averiguaciones previas iniciadas por los delitos de desaparición forzada de personas y de desaparición cometida por particulares, la cual será operada por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y actualizada en tiempo real por la Fiscalía Especializada en delitos de Desaparición Forzada de Personas y la cometida por particulares del Estado de Oaxaca, así como las Fiscalías de las demás entidades federativas, conforme a los lineamientos que se emitan para tal efecto;
 
-V. Comisionado Estatal: Persona Titular de la Comisión Estatal de Búsqueda de Personas Desaparecidas para el Estado de Oaxaca;
+V. Centro Nacional: Al Centro Nacional de Identificación Humana, órgano desconcentrado de carácter técnico y especializado, adscrito a la Comisión Nacional de Búsqueda, encargado de coordinar, operar y fortalecer el Sistema Nacional de Búsqueda de Personas en materia de identificación humana, mediante el uso de tecnologías forenses, registros biométricos, genéticos y demás herramientas científicas, conforme a lo establecido en la Ley General;
 
-VI. Consejo Estatal: El Consejo Estatal Ciudadano de Búsqueda de Personas Desaparecidas para el Estado de Oaxaca, de la Comisión Estatal de Búsqueda;
+VI. Clave Única de Registro de Población: Fuente única de identidad de las personas y permite su vinculación con cualquier registro o base de datos en poder de autoridades y particulares. Funciona como mecanismo para el cruce, validación, consulta y generación de alertas sobre información relevante para la búsqueda, localización e identificación de personas desaparecidas o No Localizadas, conforme a lo previsto en esta Ley y la Ley General;
 
-VII. Desaparición forzada de personas: Es la privación de la libertad a una o más personas, cualquiera que fuere su forma, cometida por agentes del Estado o por personas o grupos de personas que actúen con la autorización, el apoyo o la aquiescencia del Estado, seguida de la falta de información o de la negativa a reconocer dicha privación de libertad o de informar sobre el paradero de la persona, con lo cual se impide el ejercicio de los recursos legales y de las garantías procesales pertinentes.
+VII. Comisión Ejecutiva Estatal: La Comisión Ejecutiva de Atención a Víctimas del Estado de Oaxaca;
 
-VIII. Desaparición cometida por particulares: Es la privación de la libertad a una o más personas, cualquiera que fuere su forma, cometida por particulares y con la finalidad de ocultar a la víctima o su suerte o paradero.
+VIII. Comisión Estatal de Búsqueda: La Comisión de Búsqueda de Personas Desaparecidas para el Estado de Oaxaca;
 
-IX. Familiares: Las personas que, en términos de la legislación aplicable, tengan parentesco con la persona desaparecida o no localizada por consanguinidad o afinidad, en línea recta ascendente y descendente sin limitación de grado; en línea transversal hasta el cuarto grado; él o la cónyuge, la concubina o concubinario, o en su caso, quienes estén sujetos al régimen de sociedad en convivencia o a otras figuras jurídicas análogas. Asimismo, las personas que dependan económicamente de la persona desaparecida o no localizada, que así lo acrediten ante las autoridades competentes;
+IX. Comisión Nacional: La Comisión Nacional de Búsqueda de Personas Desaparecidas;
 
-X. Fiscalía: La Fiscalía General del Estado;
+X. Comisionado Estatal: Persona Titular de la Comisión Estatal de Búsqueda de Personas Desaparecidas para el Estado de Oaxaca;
 
-XI. Fiscalía Especializada: La Fiscalía Especializada de Personas Desaparecidas de la Fiscalía General del Estado de Oaxaca;
+XI. Consejo Estatal: El Consejo Estatal Ciudadano de Búsqueda de Personas Desaparecidas para el Estado de Oaxaca, de la Comisión Estatal de Búsqueda;
 
-XII. Grupos de búsqueda: Grupo de personas especializadas en materia de búsqueda de personas desaparecidas y no localizadas de la Comisión Estatal de Búsqueda, que realizarán la búsqueda de campo, entre otras;
+XII. Declaración Especial de Ausencia: A la Declaración Especial de Ausencia por Desaparición;
 
-XIII. Instituciones de seguridad pública: Las instituciones policiales, de procuración de justicia, del sistema penitenciario, y otras autoridades del Consejo Estatal de Seguridad, Pública del Estado, encargadas o que realicen funciones de Seguridad Pública en los órdenes Estatal y Municipal;
+XIII. Desaparición forzada de personas: Es la privación de la libertad a una o más personas, cualquiera que fuere su forma, cometida por agentes del Estado o por personas o grupos de personas que actúen con la autorización, el apoyo o la aquiescencia del Estado, seguida de la falta de información o de la negativa a reconocer dicha privación de libertad o de informar sobre el paradero de la persona, con lo cual se impide el ejercicio de los recursos legales y de las garantías procesales pertinentes;
 
-XIV. Ley General: Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+XIV. Desaparición cometida por particulares: Es la privación de la libertad a una o más personas, cualquiera que fuere su forma, cometida por particulares y con la finalidad de ocultar a la víctima o su suerte o paradero;
 
-XV. Persona desaparecida: Persona cuyo paradero se desconoce y se presuma, a partir de cualquier indicio, que su ausencia se relaciona con la comisión de un delito, conforme a lo dispuesto en el artículo 89 de la Ley General;
+XV. Enfoque comunitario: La metodología que reconoce y coloca en el centro a las familias, colectivos y comunidades afectadas, no sólo como beneficiarias, sino como actores fundamentales en el diseño, ejecución y seguimiento de las acciones de búsqueda;
 
-XVI. Persona no localizada: Persona cuya ubicación es desconocida y que de acuerdo con la información que se reporte a la autoridad, su ausencia no se relaciona con la probable comisión de algún delito;
+XVI. Familiares: Las personas que, en términos de la legislación aplicable, tengan parentesco con la persona desaparecida o No Localizada por consanguinidad o afinidad, en línea recta ascendente y descendente sin limitación de grado; en línea transversal hasta el cuarto grado; él o la cónyuge, la concubina o concubinario, o en su caso, quienes estén sujetos al régimen de sociedad en convivencia o a otras figuras jurídicas análogas. Asimismo, las personas que dependan económicamente de la persona desaparecida o No Localizada, que así lo acrediten ante las autoridades competentes;
 
-XVII. Protocolo Homologado de Búsqueda: El Protocolo Homologado para la Búsqueda de Personas Desaparecidas y No Localizadas;
+XVII. Familia Social: Persona o grupo de personas cercanas a la Persona Desaparecida o No Localizada que mantienen o mantuvieron vínculos significativos de afecto, cuidado, convivencia o acompañamiento solidario, independientemente de la existencia o no de parentescos legales, de conformidad con los protocolos vigentes;
 
-XVIII. Registro Estatal: Registro Estatal de Personas Desaparecidas y No Localizadas, que concentra la información sobre las personas desaparecidas y no localizadas del estado de Oaxaca, en los términos que establece la Ley General;
+XVIII. Ficha o cédula de Búsqueda: Documento oficial emitido por la autoridad competente al recibirse una noticia, reporte o denuncia sobre la desaparición o no localización de una persona, que contiene la información esencial para su búsqueda, investigación, localización e identificación;
 
-XIX. Registro Nacional: El Registro Nacional de Personas Desaparecidas y No Localizadas, que concentra la información de los registros de personas desaparecidas y no localizadas;
+XIX. Fiscalía: La Fiscalía General del Estado;
 
-XX. Registro Nacional de Fosas: El Registro Nacional de Fosas Comunes y de Fosas Clandestinas, que concentra la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del país, así como de las fosas clandestinas que la Fiscalía General de la República y las Fiscalías locales ubiquen, señalado en la Ley General;
+XX. Fiscalía Especializada: La Fiscalía Especializada en la investigación y persecución de los delitos de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y Delitos Vinculados;
 
-XXI. Registro Nacional de Personas Fallecidas, No Identificadas y No Reclamadas: El Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas que concentra la información forense procesada de la localización, recuperación, identificación y destino final de los restos tanto de la federación como de las entidades federativas, cualquiera que sea su origen;
+XXI. Grupos de búsqueda: Grupo de personas especializadas en materia de búsqueda de personas desaparecidas y No Localizadas de la Comisión Estatal de Búsqueda, que realizarán la búsqueda de campo, entre otras;
 
-XXII. Reporte: La comunicación, noticia, informe o denuncia mediante la cual la autoridad competente conoce de la desaparición o no localización de una persona;
+XXII. Instituciones de seguridad pública: Las instituciones policiales, de procuración de justicia, del sistema penitenciario, y otras autoridades del Consejo Estatal de Seguridad, Pública del Estado, encargadas o que realicen funciones de Seguridad Pública en los órdenes Estatal y Municipal;
 
-XXIII. Secretario Técnico: Persona no integrante del Consejo Estatal Ciudadano cuya función es facilitar el trabajo operativo de esta entidad, y
+XXIII. Ley General: Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
 
-XXIV. Víctimas: Aquellas a las que hace referencia la Ley General de Víctimas y la Ley de Víctimas del Estado de Oaxaca.
+XXIV. Ley: Ley en Materia de Desaparición Forzada de Personas para el Estado de Oaxaca;
+
+XXV. Nombre Social: Es el apelativo con el cual se identifica, reconoce y es nombrada en sus relaciones personales, laborales, comunitarias o sociales, dentro de contextos específicos, independientemente del nombre que figure en documentos oficiales.
+
+XXVI. Persona desaparecida: Persona cuyo paradero se desconoce y se presuma, a partir de cualquier indicio, que su ausencia se relaciona con la comisión de un delito, conforme a lo dispuesto en la Ley General;
+
+XXVII. Persona No Localizada: Persona cuya ubicación es desconocida y que de acuerdo con la información que se reporte a la autoridad, su ausencia no se relaciona con la probable comisión de algún delito;
+
+XXVIII. Plataforma Única de Identidad: Herramienta tecnológica para la consulta, validación, verificación e interoperabilidad de las Claves Únicas de Registro de Población (CURP), así como para el acceso a datos biométricos y otros elementos de identidad, conforme a lo dispuesto en la Ley General de Población;
+
+XXIX. Protocolo Homologado de Búsqueda: El Protocolo Homologado para la Búsqueda de Personas Desaparecidas y No Localizadas;
+
+XXX. Registros Administrativos: Bases de datos generadas, administradas o en posesión de cualquier Autoridad, que integren información identificativa, incluidos datos biométricos, recopilados en el marco de trámites, servicios o procedimientos administrativos, y que puedan ser utilizados para la búsqueda, localización e identificación de personas desaparecidas o no localizadas;
+
+XXXI. Registro Estatal: Registro Estatal de Personas Desaparecidas y No Localizadas, que concentra la información sobre las personas desaparecidas y no localizadas del estado de Oaxaca, en los términos que establece la Ley General;
+
+XXXII. Registro Nacional: El Registro Nacional de Personas Desaparecidas y No Localizadas, que concentra la información de los registros de personas desaparecidas y no localizadas;
+
+XXXIII. Registro Nacional de Fosas: El Registro Nacional de Fosas Comunes y de Fosas Clandestinas, que concentra la información respecto de las fosas comunes que existen en los cementerios y panteones de todos los municipios del país, así como de las fosas clandestinas que la Fiscalía General de la República y las Fiscalías locales ubiquen, señalado en la Ley General;
+
+XXXIV. Registro Nacional de Personas Fallecidas, No Identificadas y No Reclamadas: El Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas que concentra la información forense procesada de la localización, recuperación, identificación y destino final de los restos tanto de la federación como de las entidades federativas, cualquiera que sea su origen;
+
+XXXV. Reporte: La comunicación, noticia, informe o denuncia mediante la cual la autoridad competente conoce de la desaparición o no localización de una persona;
+
+XXXVI. Secretario Técnico: Persona no integrante del Consejo Estatal Ciudadano cuya función es facilitar el trabajo operativo de esta entidad;
+
+XXXVII. Sistema Estatal de Búsqueda: Al Sistema Estatal de Coordinación de Búsqueda de Personas desaparecidas;
+
+XXXVIII. Sistema Nacional: Al Sistema Nacional de Búsqueda de Personas; y
+
+XXXIX. Víctimas: Aquellas a las que hace referencia la Ley General de Víctimas y la Ley de Víctimas del Estado de Oaxaca.
 
 ###### Artículo 5.
 
@@ -167,6 +213,14 @@ XII. Presunción de vida: Las acciones, mecanismos y procedimientos para la bús
 
 XIII. Derecho a la verdad: El derecho de conocer con certeza lo sucedido y recibir información sobre las circunstancias en que se cometieron los hechos constitutivos de los delitos previstos en la Ley General, en tanto que el objeto de la misma es el esclarecimiento de los hechos, la protección de las víctimas y sus familiares, el castigo de las personas responsables y la reparación de los daños causados, en términos de los artículos 1° y 20 de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+XIV. Proporcionalidad: Consiste en que los Sujetos Obligados únicamente podrán recopilar, registrar, consultar, transmitir, conservar o utilizar aquellos datos personales que resulten adecuados, relevantes y estrictamente necesarios para cumplir con los fines legítimos que justifica su tratamiento, en términos de la presente Ley y conforme a la normatividad aplicable en materia de protección de datos personales, y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+XV. El funcionamiento y operación de la Plataforma Única de Identidad se sujetará, además a lo establecido en las leyes de la materia, a los principios de licitud, proporcionalidad, necesidad, finalidad y responsabilidad en el acceso y uso de la información a que se refiere la presente Ley y la Ley General de la materia.
+
 ###### Artículo 6.
 
 En todo lo no previsto en la presente Ley, son aplicables las disposiciones establecidas en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas; el Código Nacional de Procedimientos Penales, el Código Penal Federal, la Ley General de Víctimas, el Código Civil para el Estado Libre y Soberano de Oaxaca, la Ley de Víctimas del Estado de Oaxaca y los Tratados Internacionales de los que el Estado Mexicano sea parte.
@@ -199,19 +253,125 @@ En los casos de niñas, niños o adolescentes, las medidas de reparación integr
 
 En el diseño de las acciones y herramientas para la búsqueda e investigación por la desaparición de niñas, niños y adolescentes, la Comisión Estatal de Búsqueda de Personas Desaparecidas para el Estado de Oaxaca y las autoridades competentes en sus tres niveles, tomarán en cuenta la opinión de las autoridades del (sic) La Procuraduría Estatal de Protección de los derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca.
 
-### CAPÍTULO TERCERO. DE LOS DELITOS Y DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO SEGUNDO BIS. DE LA PLATAFORMA ÚNICA DE IDENTIDAD
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 12 Bis.
+
+Para efectos de esta Ley y en observancia de la Ley General en la materia, la Plataforma Única de Identidad constituye la fuente primaria de consulta permanente y en tiempo real para la investigación, búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas, se interconectará con bases de datos y sistemas de información que permitan realizar búsquedas continuas entre los siguientes registros:
+
+I. El Registro Nacional de Personas Desaparecidas y No Localizadas;
+
+II. La Base Nacional de Carpetas de Investigación;
+
+III. El Banco Nacional de Datos Forenses;
+
+IV. Registros Administrativos, y
+
+V. Cualquier registro, base o sistema de información de particulares que presten servicios financieros, de transporte, salud física y mental, telecomunicaciones, educación, asistencia privada, paquetería y servicios de entrega, registros patronales y de seguridad social, religiosos, los establecimientos residenciales de atención a las adicciones así como toda institución privada que administre registros o bases de datos de personas, cuya consulta sea necesaria para la investigación, búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas.
+
+El acceso y uso de la Plataforma Única estará condicionado a la existencia previa del Folio Único de Búsqueda o del número de carpeta de investigación, y se limitará exclusivamente a la consulta de datos relacionados con la persona desaparecida.
+
+La Fiscalía Especializada, la Comisión Estatal de Búsqueda, así como las autoridades estatales y municipales deberán cumplir con las obligaciones que les correspondan en el ámbito de sus respectivas competencias, a fin de garantizar el funcionamiento, interoperabilidad y consulta eficaz de la Plataforma Única de Identidad, conforme a los principios de legalidad, proporcionalidad, necesidad, finalidad y responsabilidad en el tratamiento de datos personales.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 12 Ter.
+
+La Plataforma Única de Identidad permitirá a las autoridades competentes realizar, en el ámbito de sus atribuciones, las siguientes funciones:
+
+I. Monitorear de forma continua la Clave Única de Registro de Población de una Persona Desaparecida o No Localizada, a efecto de identificar cualquier movimiento, registro o actualización que pudiera aportar información para la investigación, búsqueda, localización o identificación;
+
+II. Generar avisos en tiempo real a la Fiscalía Especializada, a la Comisión Estatal de Búsqueda y demás autoridades competentes, cuando exista un uso de la Clave Única de Registro de Población de una Persona Desaparecida o No Localizada en los registros de los Sujetos Obligados, y
+
+III. Realizar búsquedas continuas entre registros interconectados, así como generar alertas o avisos cuando existan indicios o coincidencias que pudieran contribuir a la investigación, búsqueda, localización o identificación de una Persona Desaparecida o No Localizada.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 12 Quáter.
+
+La Fiscalía, a través de la Vicefiscalía General de Victimas y Derechos Humanos, así como de la Fiscalía Especializada y la Comisión Estatal de Búsqueda de Personas, contarán con acceso a la Plataforma Única de Identidad para consultar la información necesaria en el marco de sus atribuciones, con el objeto de llevar a cabo acciones de investigación, búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas, previa habilitación por parte de la autoridad federal competente.
+
+El acceso a dicha Plataforma estará sujeto a las medidas de seguridad, niveles de acceso y protocolos de actuación establecidos en la normatividad correspondiente, y se limitará exclusivamente a los fines señalados en el párrafo anterior.
+
+Toda búsqueda o consulta realizada en la Plataforma Única de Identidad quedará debidamente registrada, asimismo, se establecerán mecanismos efectivos de notificación y consulta.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO SEGUNDO TER. DE LAS OBLIGACIONES COMUNES DE LOS SUJETOS OBLIGADOS EN EL ESTADO DE OAXACA
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 12 Quinquies.
+
+Las autoridades estatales y municipales, así como cualquier particular en el Estado de Oaxaca que tenga bajo su resguardo datos biométricos o cualquier otro dato identificativo de personas, deberán permitir el acceso inmediato a esta información a la Fiscalía Especializada, la Comisión Estatal de Búsqueda y las autoridades a las que se refiere el artículo 21 de la Constitución Federal en el ámbito de sus respectivas competencias.
+
+El acceso a estos registros, bases de datos o sistemas de información deberá realizarse bajo la conducción jurídica y técnica del Ministerio Público y se limitará exclusivamente a los fines de búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas, en coordinación con las acciones de investigación.
+
+El tratamiento de dicha información deberá observar en todo momento los principios, y obligaciones previstos en la legislación aplicable en materia de protección de datos personales y derechos humanos.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 12 Sexies.
+
+El Instituto Nacional Electoral, previa suspensión del convenio correspondiente, permitirá a la Fiscalía Especializada y a las autoridades a las que se refiere el artículo 21 de la Constitución Federal en el ámbito de sus competencias y bajo la conducción y mando del Ministerio Público, así como de la Comisión Estatal de Búsqueda, la consulta inmediata de los datos biométricos e información identificativa de las personas inscritas en el Padrón Electoral o en la Lista Nominal de Electores.
+
+Dicha información comprenderá, conforme a la Ley General de Instituciones y Procedimientos Electorales, entre otros, la firma, huellas dactilares, fotografía, domicilio y demás datos identificativos que obren en las bases de datos y sistemas de información del Instituto Nacional Electoral, exclusivamente para las acciones de investigación, búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas, en coordinación con las diligencias ministeriales respectivas y conforme a los fines de esta Ley, en observancia de la Ley General en la materia y la protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 12 Septies.
+
+Los establecimientos previstos y regulados en la Ley Estatal de Salud y la Ley de Prevención, Tratamiento y Control de las Adicciones para el estado de Oaxaca, los centros de tratamiento de salud mental y atención de las adicciones y los centros comunitarios de salud mental y adicciones privados y públicos; los centros de reinserción social; los centros de asistencia social, así como las estaciones migratorias ubicadas en el territorio del Estado, que en razón de sus funciones recaben, administren, utilicen o resguarden datos biométricos o cualquier otro dato identificativo de personas, deberán contar con registros completos y actualizados.
+
+Dichos registros deberán estar disponibles para su consulta inmediata por parte de la Fiscalía Especializada, la Comisión Estatal de Búsqueda y las autoridades a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en el ámbito de sus respectivas competencias, actuando bajo la conducción y mando del Ministerio Público, exclusivamente para fines de búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas, en coordinación con las acciones de investigación correspondientes.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 12 Octies.
+
+Todas las instituciones públicas o privadas en el Estado, que tengan bajo su resguardo cuerpos o restos humanos tendrán la obligación de asegurar el trato y resguardo digno, conforme a los principios de dignidad humana, legalidad y debida diligencia.
+
+Asimismo, deberán llevar y mantener actualizados registros sistematizados con la información forense que se obtenga de dichos cuerpos o restos humanos, permitir su interconexión, remitirlos al Banco Nacional de Datos Forenses y permitir su consulta a las (sic) Fiscalía Especializada, la Comisión Estatal de Búsqueda y las autoridades a las que se refiere el artículo 21 constitucional, en el ámbito de su competencia y actuando bajo la conducción y mando del Ministerio Público.
+
+El acceso a esta información se realizará exclusivamente para los fines de investigación de los delitos, búsqueda, localización e identificación de Personas Desaparecidas o No Localizadas, en los términos de la presente Ley en observancia de la Ley General en la materia y la protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 12 Nonies.
+
+Los servicios periciales y servicios forenses del Estado de Oaxaca que tengan en resguardo un cuerpo o resto humano no identificado, deberán practicar de oficio pruebas dactiloscópicas y genéticas para su identificación, previo a cualquier disposición final, incluyendo su inhumación en fosas comunes.
+
+Los resultados de dichas pruebas deberán ser registrados en el Banco Nacional de Datos Forenses en un plazo no mayor a tres días hábiles contados a partir de la obtención del resultado. Para tal efecto, podrán solicitar el auxilio de instituciones públicas que cuenten con la infraestructura necesaria para practicar las pruebas correspondientes.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO SEGUNDO QUATER. DE LA CÉDULA O FICHA DE BÚSQUEDA, LOCALIZACIÓN E IDENTIFICACIÓN
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 12 Decies.
+
+La autoridad competente que reciba una Noticia, Reporte o Denuncia sobre la desaparición o no localización de una persona deberá, sin dilación alguna:
+
+I. Incorporar la información en el Registro Nacional de Personas Desaparecidas y No Localizadas, así como en la Base Nacional de Carpetas de Investigación;
+
+II. Generar una cédula o ficha de Búsqueda en formato físico y digital, y remitirla de inmediato a la Fiscalía Especializada y a la Comisión Estatal de Búsqueda, conforme a los lineamientos del Protocolo de Alerta Nacional de Búsqueda, asegurándose de su recepción.
+
+Posterior a la recepción de la Fiscalía Especializada, de oficio y sin demora, deberá completar el registro correspondiente en la Base Nacional de Carpetas de Investigación;
+
+III. Difundir la cédula o ficha de Búsqueda física y digital, de forma inmediata y masiva, y notificarla al Registro Nacional de Población para la activación de los alertamientos correspondientes en la Plataforma Única de Identidad, en los términos del artículo 12 Duodecies de la Ley General, los protocolos emitidos por la Comisión Nacional de Búsqueda y la normativa aplicable en el Estado.
+
+La cédula o ficha de Búsqueda deberá contener, los datos establecidos en la Ley General, incluyendo al menos: nombre completo, edad, sexo y género; nombre social; fotografía reciente; fecha y lugar de la desaparición; señas particulares; rasgos físicos distintivos; condición de vulnerabilidad, en su caso; datos de contacto para aportar información, y el folio único asignado por el Registro Nacional de Personas Desaparecidas y No Localizadas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO TERCERO. DE LOS DELITOS, RESPONSABILIDADES ADMINISTRATIVAS E INFRACCIONES
 
 DISPOSICIONES GENERALES
-
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
-
-### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES E INTEGRACIÓN DE LA COMISIÓN ESTATAL DE BÚSQUEDA
-
-### CAPÍTULO TERCERO. DEL TITULAR DE LA COMISIÓN ESTATAL DE BÚSQUEDA
-
-> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 13.
 
@@ -233,15 +393,159 @@ Los servidores públicos que incumplan injustificadamente con alguna de las obli
 
 Para efectos de lo previsto en esta Ley, se considerará grave el incumplimiento injustificado o la actuación negligente ante cualquier obligación relacionada con la búsqueda inmediata de personas, en la investigación ministerial, pericial y policial , así como en los procedimientos establecidos en los protocolos correspondientes y de comprobarse dichas conductas, serán sancionados en términos de lo establecido en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, además de los ordenamientos diversos en materia penal.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 16 Bis.
+
+El incumplimiento, por parte de los particulares, de las obligaciones previstas en esta Ley respecto del acceso, provisión o actualización de bases de datos, registros o cualquier tipo de información que obre en su poder y que resulte necesaria para las acciones de búsqueda, localización, identificación e investigación de Personas Desaparecidas o No Localizadas, serán sancionados con multa de 1000 a 1500 veces el valor diario de la Unidad de Medida y Actualización, misma que será impuesta por la Fiscalía Especializada y/o la Comisión Estatal de Búsqueda, cuyo cobro coercitivo corresponderá a la Secretaría de Finanzas del Gobierno del Estado.
+
 ###### Artículo 17.
 
 El servidor público que sea señalado como imputado por el delito de desaparición forzada de personas, y que por razón de su encargo o influencia pueda interferir u obstaculizar las acciones de búsqueda o las investigaciones, podrá ser sujeto de medidas cautelares como la suspensión temporal de su encargo u otras aplicables al caso concreto, por la autoridad jurisdiccional competente, de conformidad con lo establecido en el Código Nacional de Procedimientos Penales.
 
 Adicionalmente a lo previsto en el párrafo anterior, el superior jerárquico, bajo su más estricta responsabilidad, debe adoptar las medidas administrativas adicionales necesarias para impedir que el servidor público interfiera con las investigaciones.
 
-## TÍTULO SEGUNDO. DE LA COMISIÓN ESTATAL DE BÚSQUEDA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2026)</small>
 
-### CAPÍTULO CUARTO. DEL CONSEJO ESTATAL CIUDADANO
+## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE COORDINACIÓN DE BÚSQUEDA Y LA COMISIÓN ESTATAL DE BÚSQUEDA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO PRIMERO. DEL SISTEMA ESTATAL DE COORDINACIÓN DE BÚSQUEDA
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 17 Bis.
+
+El Sistema Estatal de Búsqueda tiene como objetivo establecer las bases generales, políticas públicas y procedimientos para coordinar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre las distintas autoridades federales, estatales y municipales relacionadas con la búsqueda, localización e identificación de Personas Desaparecidas y No Localizadas, así como para la prevención, investigación y sanción de los delitos en materia de esta Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 17 Ter.
+
+El Sistema Estatal de búsqueda, se integra por:
+
+I. La persona titular de la Secretaría de Gobierno, quien lo presidirá;
+
+II. La persona titular de la Comisión Estatal de Búsqueda; quién estará a cargo de la Secretaría Ejecutiva;
+
+III. La persona titular de la Coordinación para la Atención de los Derechos Humanos;
+
+IV. La persona titular de la Comisión Estatal de Atención Integral a Víctimas;
+
+V. La persona titular de la Fiscalía General del Estado
+
+VI. La persona Titular de la Vicefiscalía General de Víctimas y Derechos Humanos.
+
+VII. La persona titular de la Fiscalía Especializada;
+
+VIII. La persona titular del Instituto de Servicios Periciales del Estado de Oaxaca;
+
+IX. La persona titular de la Secretaría de Seguridad Pública y Protección Ciudadana;
+
+X. la persona titular de Protección Civil del Estado;
+
+XI. La persona titular de la Secretaría de Movilidad;
+
+XII. La persona titular de la Secretaría de Finanzas;
+
+XIII. La persona titular de la Secretaría de Salud y Servicios de Salud del Estado;
+
+XIV. La persona titular de Bomberos de Oaxaca;
+
+XV. La persona titular del Sistema Estatal para el Desarrollo Integral de la Familia;
+
+XVI. La persona titular de la Secretaría de las Mujeres del Estado de Oaxaca;
+
+XVII. La persona titular de la Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado;
+
+XVIII. La persona titular del Instituto Estatal de Educación Pública de Oaxaca;
+
+XIX. La persona titular del Instituto de Atención Integral al Migrante Oaxaqueño;
+
+XX. La persona titular de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca;
+
+XXI. La persona titular de la Dirección del Registro Civil; y
+
+XXII. Tres personas del Consejo Ciudadano que representen a cada uno de los sectores que lo integran;
+
+Las personas integrantes del Sistema Estatal podrán nombrar a sus respectivos suplentes, los cuales contarán con el nivel jerárquico inmediato inferior, con capacidad de decisión y con disponibilidad plena para atender los asuntos de su competencia.
+
+El cargo de integrante e invitado del Sistema Estatal de Búsqueda será honorífico y no debe recibir emolumento o contraprestación económica alguna por su desempeño.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 17 Quater.
+
+Tendrán carácter de personas invitadas a las sesiones del Sistema Estatal de Búsqueda, las instituciones. autoridades municipales, autoridades de seguridad federal, organizaciones de la sociedad civil, las colectivas, colectivos o grupos de víctimas, familiares y organismos locales, nacionales o internacionales en materia de derechos humanos y búsqueda de personas que, por acuerdo del Sistema Estatal de Búsqueda deberán de participar en la sesión que corresponde. Las personas invitadas asistirán a las reuniones con derecho a voz, pero sin voto.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 17 Quinquies.
+
+Las personas que integran el Sistema Estatal de Búsqueda están obligadas, en el marco de sus competencias y atribuciones, a cumplir con las acciones que deriven de su cargo.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 17 Sexies.
+
+El Sistema Estatal de Búsqueda sesionará válidamente con la presencia de la mayoría simple de sus integrantes y sus resoluciones deben ser tomadas por mayoría de votos. En caso de empate, la persona que presida tendrá el voto de calidad.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 17 Septies.
+
+Quien presida el Sistema Estatal de Búsqueda, deberá convocar a través de la secretaría ejecutiva a las sesiones ordinarias al menos una vez cada seis meses.
+
+Podrán celebrarse sesiones extraordinarias, cada vez que el presidente lo estime conveniente o a petición de una tercera parte de sus integrantes.
+
+Las convocatorias deben realizarse por oficio o por cualquier medio electrónico que asegure y deje constancia de su recepción, por lo menos tres días hábiles antes de la fecha de celebración de la sesión ordinaria, y un día natural de anticipación para las sesiones extraordinarias. En ambos casos debe acompañarse del orden del día y los documentos que se vayan a analizar y aprobar.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 17 Octies.
+
+El Sistema Estatal de Búsqueda para el ejercicio de sus facultades contará con las herramientas proporcionadas por el Sistema Nacional y las existentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 17 Nonies.
+
+El Sistema Estatal de Búsqueda tendrá las atribuciones siguientes:
+
+I. Participar y cooperar con las autoridades integrantes del Sistema Nacional, así como con las demás autoridades que contribuyen en la búsqueda de Personas Desaparecidas y No Localizadas;
+
+II. Coordinarse, en el marco de sus facultades, para el cumplimiento de lo señalado por esta Ley, la Ley General y demás disposiciones que se deriven de las anteriores, para la búsqueda, localización e identificación de personas desaparecidas y la investigación de los delitos en la materia;
+
+III. Implementar y ejecutar los lineamientos que regulen el funcionamiento de los registros y el banco nacional y estatal, contemplados en la Ley General y la presente Ley;
+
+IV. Impulsar que el personal que participe en acciones de búsqueda, localización e identificación de personas desaparecidas, previstas en la Ley General y esta Ley, reciban la capacitación necesaria y adecuada para realizar sus labores de manera eficaz, diligente y con perspectiva de género, intercultural, de derechos humanos y de la infancia;
+
+V. Establecer en coordinación con las autoridades estatales, la integración y funcionamiento del Registro Estatal;
+
+VI. Proponer acuerdos de colaboración entre sus integrantes y los del Sistema Estatal de Seguridad Pública, para el intercambio, sistematización y actualización de la información de seguridad pública que contribuyan a tas acciones en materia de búsqueda y localización de Personas Desaparecidas;
+
+VII. Dar seguimiento y evaluar la aplicación del Protocolo Homologado de Búsqueda y del Protocolo de Alba;
+
+VIII. Evaluar permanentemente las políticas públicas que se implementen para la búsqueda y localización de Personas Desaparecidas y No Localizadas; y
+
+IX. Emitir recomendaciones a las autoridades estatales o municipales para el mejor desempeño de sus funciones en materia de Personas Desaparecidas y generar los mecanismos y acuerdos necesarios para dar cumplimiento a las recomendaciones y requerimientos que hagan los integrantes del Sistema Nacional para el mejoramiento de políticas públicas que se implementen para la búsqueda y localización de Personas Desaparecidas y No Localizadas.
+
+X. Proponer acciones a las instituciones que forman parte de los procesos de búsqueda de desaparecidos, para ampliar sus capacidades, incluidos servicios periciales y forenses;
+
+XI. Invitar a sus deliberaciones a personas expertas, familias, académicos, instituciones nacionales o internacionales, para dialogar sobre temas de competencia del Sistema Estatal de Búsqueda;
+
+XII. Proponer, acompañar, y en su caso, brindar las medidas de asistencia técnica para la búsqueda de personas;
+
+XIII. Emitir recomendaciones sobre la integración, operación y ejercicio del presupuesto de la Comisión Estatal de Búsqueda;
+
+XIV. Solicitar información a cualquier autoridad integrante de los procesos de búsqueda de personas a nivel, Federal, Estatal o municipal para el ejercicio de sus atribuciones, y hacer las recomendaciones pertinentes;
+
+XV. Diseñar el Programa Estatal de Búsqueda de Personas, y
+
+XVI. Contribuir en la promoción de las acciones, políticas públicas, programas y proyectos relacionados con el objeto de esta Ley y la Ley General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 18.
 
@@ -279,7 +583,7 @@ La Comisión Estatal de Búsqueda establecerá coordinación interinstitucional 
 
 La información que la Comisión Estatal de Búsqueda, posea o genere con motivo del ejercicio de sus facultades, estará sujeta a las reglas de acceso a la información y protección de datos personales en posesión de sujetos obligados, previstas en las leyes de las materias, así como a la regulación prevista en la Ley General.
 
-### CAPÍTULO QUINTO. DE LA COMISIÓN ESTATAL DE BÚSQUEDA Y LOS GRUPOS DE BÚSQUEDA DE PERSONAS DESAPARECIDAS
+### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES E INTEGRACIÓN DE LA COMISIÓN ESTATAL DE BÚSQUEDA
 
 ###### Artículo 24.
 
@@ -307,7 +611,9 @@ IX. Celebrar, de conformidad con las disposiciones aplicables, convenios de coor
 
 X. Dar seguimiento a las recomendaciones, medidas cautelares, acciones urgentes, sentencias o cualquier otra resolución de órganos internacionales, nacionales y estatales de derechos humanos en los temas y acciones relacionadas con la búsqueda de personas desaparecidas y no localizadas, la protección de las familias, funcionarios y personas participantes en la búsqueda de personas desaparecidas ante amenazas contra su integridad y seguridad personal, de conformidad con los lineamientos de coordinación que establezca la Comisión Nacional;
 
-XI. Proponer y celebrar los convenios que se requieran con las autoridades competentes, organismos públicos o privados nacionales y extranjeros para la operación de los mecanismos de búsqueda transnacional de personas desaparecidas o no localizadas;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+XI. Suscribir convenios de colaboración y coordinación que se requieran con las autoridades competentes, organismos públicos o privados nacionales y extranjeros para la operación de los mecanismos de búsqueda transnacional e interestatal de personas desaparecidas o no localizadas;
 
 XII. Dar seguimiento y atender las recomendaciones del Consejo Estatal, en los temas relacionados con las funciones y atribuciones de la Comisión Estatal para el Estado de Oaxaca;
 
@@ -371,7 +677,9 @@ XXXIX. Desarrollar campañas de visibilización en el Estado, así como solicita
 
 XL. Atender y formular solicitudes a las Instituciones de Seguridad Pública Estatales y Municipales, para que se realicen acciones específicas de búsqueda de personas desaparecidas o no localizadas, además podrá solicitar cooperación de la Comisión Nacional cuando se requiere la participación de autoridades federales;
 
-XLI. Solicitar el acompañamiento de las instancias policiales competentes, municipales, estatales o federales, cuando el personal de la Comisión Estatal realice trabajos de campo y así lo considere necesario;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+XLI. Solicitar el acompañamiento de las instancias policiales competentes de los ámbitos municipal, estatal o federal, incluida la Guardia Nacional, cuando el personal de la Comisión Estatal realice trabajos de campo, en acciones específicas de búsqueda, localización e identificación de personas desaparecidas o no localizadas, conforme a los protocolos y acuerdos aplicables;
 
 XLII. Rendir, cuando sean solicitados por la Comisión Nacional, los informes adicionales;
 
@@ -385,7 +693,9 @@ XLVI. Cumplir acciones de búsqueda específicas para las desapariciones de pers
 
 XLVII. Proponer al Ministerio Publico de la Federación a través de la Comisión Nacional, el ejercicio de la facultad de atracción de conformidad con lo dispuesto en la Ley General;
 
-XLVIII. Emitir lineamientos o protocolos rectores necesarios para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+XLVIII. Emitir y difundir los lineamientos y protocolos rectores necesarios para el cumplimiento de sus funciones, incluyendo aquellos que regulen el funcionamiento del Registro Estatal de Personas Desaparecidas y No Localizadas, en coordinación con la Comisión Nacional de Búsqueda y el Registro Nacional, conforme a lo dispuesto en esta Ley, la Ley General y demás disposiciones aplicables.
 
 XLIX. Coordinar la formulación del proyecto de presupuesto anual de la Comisión Estatal y conducir su ejecución una vez que hayan sido autorizados;
 
@@ -505,7 +815,9 @@ VI. Tomar las medidas pertinentes a fin de que las funciones de la Comisión Est
 
 VII. Las demás que señalen las leyes y demás disposiciones legales aplicables.
 
-### CAPÍTULO ÚNICO. DE LA COORDINACIÓN Y ATRIBUCIONES DE LA FISCALÍA ESPECIALIZADA
+### CAPÍTULO TERCERO. DEL TITULAR DE LA COMISIÓN ESTATAL DE BÚSQUEDA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 4 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 32.
 
@@ -585,7 +897,7 @@ IX. Contar con título profesional, preferentemente en alguna de las disciplinas
 
 X. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en la sociedad civil o académicas relacionadas con la materia de esta Ley, por lo menos en los dos años previos a su nombramiento.
 
-### CAPÍTULO ÚNICO. DE LA DISPOSICIÓN DE CADÁVERES
+### CAPÍTULO CUARTO. DEL CONSEJO ESTATAL CIUDADANO
 
 ###### Artículo 37.
 
@@ -655,19 +967,19 @@ II. Proponer a la Comisión Estatal de Búsqueda y a las autoridades que forman 
 
 III. Proponer acciones para mejorar el cumplimiento de los programas y protocolos en los procesos de búsqueda de desaparecidos, así como los lineamientos para el funcionamiento de los registros, bancos de datos y herramientas que se establecen en la presente Ley y en la Ley General;
 
-IV. Proponer acciones a las instituciones que forman parte de los procesos de búsqueda de desaparecidos, para ampliar sus capacidades, incluidos servicios periciales y forenses;
+IV. (DEROGADA, P.O. 13 DE JUNIO DE 2026)
 
-V. Invitar a sus deliberaciones a personas expertas, familias, académicos, instituciones nacionales o internacionales, para dialogar sobre temas de competencia del Consejo Estatal;
+V. (DEROGADA, P.O. 13 DE JUNIO DE 2026)
 
-VI. Proponer, acompañar, y en su caso, brindar las medidas de asistencia técnica para la búsqueda de personas;
+VI. (DEROGADA, P.O. 13 DE JUNIO DE 2026)
 
-VII. Emitir recomendaciones sobre la integración, operación y ejercicio del presupuesto de la Comisión Estatal de Búsqueda;
+VII. (DEROGADA, P.O. 13 DE JUNIO DE 2026)
 
-VIII. Solicitar información a cualquier autoridad integrante de los procesos de búsqueda de personas a nivel, Federal, Estatal o municipal para el ejercicio de sus atribuciones, y hacer las recomendaciones pertinentes;
+VIII. (DEROGADA, P.O. 13 DE JUNIO DE 2026)
 
-IX. Diseñar el Programa Estatal de Búsqueda de Personas;
+IX. (DEROGADA, P.O. 13 DE JUNIO DE 2026)
 
-X. Contribuir en la promoción de las acciones, políticas públicas, programas y proyectos relacionados con el objeto de esta Ley y la Ley General;
+X. (DEROGADA, P.O. 13 DE JUNIO DE 2026)
 
 XI. Dar vista a las autoridades competentes o a los órganos internos de control por la falta de actuación, omisión, obstaculización de la búsqueda y/o investigación o cualquier otra irregularidad por parte de servidores públicos o autoridades involucradas en los procesos de búsqueda de personas, en los delitos materia de la Ley General y los que se deriven o hayan dado origen a la desaparición de las personas, así como por las faltas administrativas o por la posible comisión de delitos que se configuren en esas conductas;
 
@@ -693,7 +1005,7 @@ XXI. Vigilar, supervisar y evaluar el desempeño de la Comisión Estatal de Bús
 
 XXII. Las demás que determine el Consejo Estatal Ciudadano, en el marco de sus atribuciones.
 
-### CAPÍTULO PRIMERO. DE LOS DERECHOS DE LAS VÍCTIMAS
+### CAPÍTULO QUINTO. DE LA COMISIÓN ESTATAL DE BÚSQUEDA Y LOS GRUPOS DE BÚSQUEDA DE PERSONAS DESAPARECIDAS
 
 ###### Artículo 42.
 
@@ -739,31 +1051,35 @@ Las acciones y mecanismos de búsqueda deberán agotarse hasta que se determine 
 
 En coordinación con la Comisión Nacional, la Comisión Estatal de Búsqueda, garantizará que las acciones y mecanismos de búsqueda se apliquen conforme a las circunstancias propias de cada caso, de conformidad con esta ley, la Ley General, y el Protocolo Homologado de Búsqueda.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2026)</small>
+
 ###### Artículo 47.
 
-Las acciones de búsqueda, localización e identificación de personas desaparecidas o no localizadas deberán realizarse de conformidad con el Capítulo Sexto del Título Tercero de la Ley General, los Protocolos Homologados de Búsqueda e Investigación y los lineamientos correspondientes.
+Las acciones de búsqueda, localización e identificación de personas desaparecidas o no localizadas deberán realizarse de conformidad con la presente Ley, la Ley General, los Protocolos Homologados de Búsqueda e Investigación y los lineamientos correspondientes.
 
-La investigación y persecución de los delitos previstos por la Ley General se hará conforme a esta y a los Protocolos a los que hace referencia su artículo 99.
+La investigación y persecución de los delitos previstos por la Ley General se hará conforme a esta y a los Protocolos en la materia que resulten aplicables.
 
 ###### Artículo 48.
 
 Cuando la Comisión Estatal de Búsqueda, tenga noticia o reporte de una persona desaparecida o no localizada, iniciará la búsqueda de inmediato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2026)</small>
+
 ###### Artículo 49.
 
-La Comisión Estatal de Búsqueda informará sin dilación a la Fiscalía Especializada, cuando considere que la desaparición de la persona se debe a la comisión de un delito.
+La Comisión Estatal de Búsqueda que tenga conocimiento, por Noticia o Reporte, de una Persona Desaparecida o No Localizada, deberá informar de inmediato a la Fiscalía Especializada, conforme a los protocolos aplicables e iniciar con las acciones de búsqueda en campo, solicitando para ello el acompañamiento de las instancias policiales competentes.
 
-Para establecer la presunción de un delito atenderá a los siguientes criterios:
+> <small>(DEROGADO SEGUNDO PÁRRAFO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2026)</small>
 
-I. Cuando la persona de la que se desconoce su paradero es menor de 18 años de edad;
+I. (DEROGADA, P.O. 13 DE JUNIO DE 2026)
 
-II. Cuando de la descripción inicial de los hechos o del análisis de contexto se presuma la probable comisión de algún delito, o aparezcan indicios de ello;
+II. (DEROGADA, P.O. 13 DE JUNIO DE 2026)
 
-III. Cuando, aun sin haber elementos de la probable comisión de un delito, han transcurrido setenta y dos horas sin tener informes de la suerte, ubicación o paradero de la persona, y
+III. (DEROGADA, P.O. 13 DE JUNIO DE 2026)
 
-IV. Cuando antes del plazo establecido en el inciso anterior aparezcan indicios o elementos que hagan suponer la probable comisión de un delito.
+IV. (DEROGADA, P.O. 13 DE JUNIO DE 2026)
 
-En todos los casos, la Comisión Estatal de Búsqueda, podrá solicitar constituirse como coadyuvante en los procesos que se sigan por los delitos de desaparición forzada de personas y de desaparición cometida por particulares.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE JUNIO DE 2026)</small>
 
 ###### Artículo 50.
 
@@ -783,15 +1099,37 @@ La Comisión Estatal de Búsqueda presumirá que la persona desaparecida o no lo
 
 Cuando la distancia o los medios de comunicación no permitan realizar el reporte de búsqueda en términos del artículo 81 de la Ley General, éste puede realizarse ante la policía o la autoridad municipal que el ayuntamiento designe para tal efecto y que cuente con la capacitación para aplicar el protocolo de búsqueda correspondiente.
 
-## TÍTULO TERCERO. DE LA FISCALÍA ESPECIALIZADA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2026)</small>
 
-### CAPÍTULO SEGUNDO. DE LAS MEDIDAS DE AYUDA, ASISTENCIA Y ATENCIÓN
+## TÍTULO TERCERO
+
+DE LA FISCALÍA ESPECIALIZADA EN LA INVESTIGACIÓN Y PERSECUCIÓN DE LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DELITOS VINCULADOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO ÚNICO
+
+DE LA COORDINACIÓN, ATRIBUCIONES Y OBLIGACIONES DE LA FISCALÍA ESPECIALIZADA EN LA INVESTIGACIÓN Y PERSECUCIÓN DE LOS DELITOS DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DELITOS VINCULADOS
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2026)</small>
 
 ###### Artículo 53.
 
-La Fiscalía General del Estado de Oaxaca debe contar con una Fiscalía Especializada de Personas Desaparecidas, como lo establece el artículo 68 de la ley General, la cual deberá contar con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios, entre ellos una unidad de análisis de contexto y los demás que se requieran para su efectiva operación, entre personal sustantivo ministerial, policial, pericial y de apoyo psicosocial.
+La Fiscalía General del Estado debe contar con una Fiscalía Especializada en la investigación y persecución de delitos Desaparición Forzada de Personas, Desaparición Cometida por Particulares y Delitos Vinculados, conforme a lo dispuesto en el artículo 68 de la Ley General.
 
-La Fiscalía Especializada Del Estado, deberá coordinarse con la Fiscalía Especializada de la Fiscalía General de la República y las Fiscalías Especializadas de otras entidades federativas, así como con la Comisión Estatal de Búsqueda, la Comisión Nacional de Búsqueda y las Comisiones de Búsqueda de otras entidades federativas, y dar impulso permanente a la búsqueda de personas desaparecidas.
+La Fiscalía Especializada deberá contar con los recursos humanos especializados, financieros, materiales, técnicos y científicos necesarios para su eficaz y continua operación.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 53 Bis.
+
+la Fiscalía Especializada, estará estructurada conforme a los (sic) establecido en la Ley Orgánica de la Fiscalía General del Estado de Oaxaca y su reglamento.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 53 Ter.
+
+La Fiscalía Especializada deberá coordinarse de manera permanente con las autoridades municipales para la realización y ejecución de acciones de búsqueda de personas desaparecidas y no localizadas, dentro de su territorio.
 
 ###### Artículo 54.
 
@@ -801,17 +1139,23 @@ Para la definición de los criterios establecidos en el párrafo anterior, se de
 
 Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficiente y eficaz con la Fiscalía Especializada para el cumplimiento de esta ley y la Ley General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2026)</small>
+
 ###### Artículo 55.
 
-Los servidores públicos que integren la Fiscalía Especializada deberán cumplir, además de los que establezcan otras disposiciones aplicables, con los siguientes requisitos:
+Las personas servidoras públicas que integren la Fiscalía Especializada deberán cumplir, además de los que establezcan otras disposiciones aplicables, con los siguientes requisitos:
 
 I. Tener acreditados los requisitos de ingreso y permanencia de la institución respectiva, de conformidad con la Ley Orgánica de la Fiscalía General del Estado de Oaxaca, la Ley del Sistema Estatal de Seguridad Pública de Oaxaca y la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables;
 
-II. Tener el perfil que establezca la Conferencia Nacional de Procuración de Justicia;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+II. Tener el perfil que establezca la Conferencia Nacional de Procuración de Justicia y la Ley General del Sistema Nacional de Seguridad Pública;
 
 III. Acreditar los cursos de especialización, capacitación y de actualización que establezca la Conferencia Nacional de Procuración de Justicia, según corresponda, y
 
-IV. No haber sido condenado por delito doloso o haber sido objeto de recomendaciones de organismos públicos autónomos de derechos humanos por violaciones graves a derechos humanos, violaciones en materia de desaparición de personas o sanciones administrativas graves de carácter firme.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+IV. No haber sido condenado por delito doloso o haber sido objeto de recomendaciones de organismos públicos autónomos de derechos humanos por violaciones graves a derechos humanos, violaciones en materia de desaparición de personas o sanciones administrativas graves de carácter firme;
 
 La Fiscalía General del Estado debe capacitar y certificar, conforme a los más altos estándares internacionales, a los servidores públicos adscritos a la Fiscalía Especializada, en materia de derechos humanos, perspectiva de género, interés superior de la niñez, atención a las víctimas, sensibilización y relevancia específica de la desaparición de personas, aplicación del Protocolo Homologado de Investigación, y demás protocolos en la materia: sobre identificación forense, cadena de custodia, entre otros y que deban observar.
 
@@ -821,11 +1165,17 @@ De igual forma podrá participar con las autoridades competentes en la capacitac
 
 La Fiscalía Especializada tiene, en el ámbito de su competencia, las atribuciones siguientes:
 
-I. Recibir las denuncias relacionadas con la probable comisión de hechos constitutivos de los delitos previstos en la Ley General e iniciar la carpeta de investigación correspondiente;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+I. Recibir las denuncias relacionadas con la probable comisión de los delitos previstos en esta Ley y la Ley General, iniciar la carpeta de investigación correspondiente y ordenar las diligencias o actos de investigación necesarios en el ámbito de su competencia, para el esclarecimiento de los hechos;
 
 II. Investigar y perseguir los delitos previstos en la Ley General, y de los delitos vinculados con la desaparición de personas, en los casos no previstos en el artículo 24 de la Ley General;
 
 III. Mantener coordinación con la Comisión Ciudadana de Búsqueda para realizar todas las acciones relativas a la investigación y persecución de los delitos materia de la Ley General, conforme al Protocolo Homologado de Investigación, Protocolo Homologado de Búsqueda y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+III Bis. Entregar al Centro Nacional la información correspondiente bajo los criterios de homologación definidos por la Comisión Nacional.
 
 IV. Dar aviso de manera inmediata, a través del Registro correspondiente, a la Comisión Ciudadana de Búsqueda y a la Comisión Nacional, sobre el inicio de una investigación de los delitos materia de la Ley General, a fin de que se inicien las acciones necesarias de búsqueda, así como compartir la información relevante, de conformidad con el Protocolo Homologado de Investigación y demás disposiciones aplicables;
 
@@ -853,7 +1203,9 @@ XV. Solicitar la participación de la Comisión Ejecutiva Estatal, así como de 
 
 XVI. Establecer mecanismos de cooperación destinados al intercambio de información y adiestramiento continuo de los servidores públicos especializados en la materia;
 
-XVII. Localizar a las familias de las personas fallecidas identificadas no reclamadas, en coordinación con las instituciones correspondientes, para poder hacer la entrega de cadáveres o restos humanos, conforme a lo señalado por el Protocolo Homologado de Investigación y demás normas aplicables;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+XVII. Localizar a las familias de las personas fallecidas identificadas no reclamadas, en coordinación con las instituciones correspondientes, para garantizar la entrega digna de los cadáveres o restos humanos, conforme al Protocolo Homologado de Investigación y demás disposiciones aplicables;
 
 XVIII. Solicitar a las autoridades jurisdiccionales competentes la autorización para la realización de las exhumaciones en cementerios, fosas o de otros sitios en los que se encuentren o se tengan razones fundadas para creer que se encuentran cadáveres o restos humanos de personas desaparecidas;
 
@@ -873,9 +1225,23 @@ XXV. Brindar la información que la Comisión Estatal de Búsqueda le solicite p
 
 XXVI. Brindar la información que el Consejo Estatal y la Comisión Estatal de Búsqueda le solicite en ejercicio de sus funciones, en términos de lo que establezcan las disposiciones aplicables;
 
-XXVII. Brindar asistencia técnica a las Fiscalías de otras entidades federativas o de la Federación que así lo soliciten, y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2026)</small>
 
-XXVIII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+XXVII. Proporcionar asistencia técnica a las Fiscalías Especializadas de otras entidades federativas o la de la Federación que lo soliciten;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+XXVIII. Solicitar asistencia técnica a las Fiscalías Especializadas de otras entidades federativas o la de la Federación, cuando así se requiera, en el marco de la colaboración interinstitucional para la búsqueda, localización e identificación de personas desaparecidas o no localizadas;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+XXIX. Registrar y actualizar de manera inmediata la información en los registros, bases de datos y sistemas de información, desde el momento en que se inicie la investigación;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+XXX. Proporcionar a las personas que hagan de conocimiento la desaparición de un familiar el número de carpeta de investigación correspondiente a la desaparición reportada, así como información clara sobre los canales de comunicación y seguimiento, y
+
+XXXI. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 ###### Artículo 57.
 
@@ -891,9 +1257,59 @@ II. Cuando de los resultados de la investigación se sospeche que la víctima ha
 
 En la generación de los criterios y metodologías específicos, se deberán tomar en cuenta las sentencias y resoluciones nacionales e internacionales en materia de búsqueda e investigación de los casos de personas desaparecidas y no localizadas.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 58 Bis.
+
+La Fiscalía Especializada deberá remitir de manera mensual al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública un informe que contenga, la siguiente información:
+
+I. El número de Personas Desaparecidas y No Localizadas registradas durante el periodo correspondiente;
+
+II. El número de carpetas de investigación o averiguaciones previas iniciadas por la probable comisión de los delitos previstos en la Ley General y en la presente Ley, y
+
+III. El estado procesal de las carpetas de investigación o averiguaciones previas a que se refiere la fracción anterior;
+
+IV. Las acciones emprendidas para la búsqueda e identificación de personas; y
+
+V. Cualquier otra información que resulte relevante para el seguimiento, y cumplimiento de los objetivos establecidos en la Ley General y en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 58 Ter.
+
+La Fiscalía Especializada deberá incorporar y actualizar de manera permanente en la Base Nacional de Carpetas de Investigación, las carpetas de investigación, averiguaciones previas y expedientes relacionados con los delitos materia de la Ley General, conforme a las disposiciones y lineamientos que para tal efecto emita el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
+
+Los datos que deberán integrarse en la Base Nacional de Carpetas de Investigación serán, al menos, los siguientes:
+
+I. Número de la carpeta de investigación o averiguación previa;
+
+II. Nombre completo legal y social de la Persona Desaparecida o No Localizada;
+
+III. lave (sic) Única de Registro de Población (CURP);
+
+IV. Lugar y fecha de desaparición, en caso de contar con dicha información;
+
+V. Autoridad que conoce de la investigación;
+
+VI. Nombre del probable responsable o posible partícipe, cuando se conozca;
+
+VII. Acciones emprendidas para la búsqueda e identificación de la persona;
+
+VIII. Estado procesal del expediente, carpeta de investigación o averiguación previa correspondientes, y
+
+IX. Cualquier otra información que resulte relevante para el seguimiento y cumplimiento de los fines establecidos en esta Ley.
+
+La información deberá integrarse observando en todo momento los principios de veracidad, oportunidad, confidencialidad, protección de datos personales y perspectiva de derechos humanos.
+
 ###### Artículo 59.
 
 En el supuesto previsto en la fracción II del artículo 45, la Fiscalía Especializada debe continuar sin interrupción la investigación de los delitos previstos en la Ley General, en términos de lo que establezca el Protocolo Homologado de Investigación y el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 59 Bis.
+
+En la investigación de los delitos previstos en la Ley General y la presente Ley, el Ministerio Público deberá observar lo previsto en el Código Nacional de Procedimientos Penales, particularmente lo señalado en los artículos 290 y 303, guiándose en todo momento bajo los principios de legalidad, necesidad, proporcionalidad y respeto a los derechos humanos.
 
 ###### Artículo 60.
 
@@ -919,15 +1335,19 @@ Las personas físicas o jurídicas que cuenten con información que pueda contri
 
 ## TÍTULO CUARTO. DEL REGISTRO Y DISPOSICIÓN DE CADÁVERES
 
-### CAPÍTULO TERCERO. DE LAS MEDIDAS DE REPARACIÓN INTEGRAL A LAS VÍCTIMAS
+### CAPÍTULO ÚNICO. DE LA DISPOSICIÓN DE CADÁVERES
 
 ###### Artículo 65.
 
 Los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados, no pueden ser incinerados, destruidos, desintegrados, ni disponerse de sus pertenencias.
 
-La Fiscalía Especializada debe tener el registro del lugar donde sean colocados los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2026)</small>
 
-Cuando las investigaciones revelen la identidad del cadáver o los restos de la persona, el Ministerio Público competente podrá autorizar que las y los familiares dispongan de él y de sus pertenencias, salvo que sean necesarios para continuar con las investigaciones o para el correcto desarrollo del proceso penal, en cuyo caso dictará las medidas correspondientes conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+La Fiscalía Especializada, así como las demás autoridades que tengan a su cargo servicios forenses, deberán mantener un registro actualizado del lugar donde sean colocados los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido reclamados, de conformidad con lo dispuesto en el Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+Cuando las investigaciones revelen la identidad del cadáver o los restos de una persona, el agente del Ministerio Público competente podrá autorizar que los Familiares dispongan de ellos y de sus pertenencias, salvo que estos sean necesarios para continuar con las investigaciones o para el correcto desarrollo del proceso penal, en cuyo caso dictará las medidas correspondientes conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
 El procedimiento de entrega se llevará a cabo conforme al Código Nacional de Procedimientos Penales y los protocolos en la materia.
 
@@ -937,9 +1357,11 @@ En caso de emergencia sanitaria o desastres naturales, se adoptarán las medidas
 
 Cualquier publicación de información sobre la localización de personas desaparecidas o la identificación de restos humanos, deberá realizarse por razones estrictas de interés público, previa consulta con las y los familiares y en pleno respeto a sus derechos y de conformidad con la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca y la Ley de Protección de Datos Personales del Estado de Oaxaca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2026)</small>
+
 ###### Artículo 67.
 
-Una vez recabadas las muestras necesarias para el ingreso en los Registros correspondientes de acuerdo con lo señalado por la Ley General, el Ministerio Público podrá autorizar la inhumación de un cadáver o resto humano no identificado.
+Antes de autorizar la inhumación de un cadáver o restos humanos cuya identidad no haya sido determinada, las autoridades competentes deberán recabar, ingresar y actualizar las muestras necesarias para su incorporación al Registro Estatal y el Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas, conforme a lo establecido en esta Ley y en la Ley General en la materia, con el propósito de posibilitar la identificación del cadáver o restos humanos, conforme a los procedimientos establecidos en el Protocolo Homologado aplicable, el cual deberá integrar de manera interdisciplinaria las diversas ciencias forenses involucradas en el proceso de identificación forense.
 
 En el caso de inhumación, se tomarán las medidas necesarias para asegurar que ésta sea digna, en una fosa individualizada, con las medidas que garanticen toda la información requerida para el adecuado registro y en un lugar claramente identificado que permita su posterior localización.
 
@@ -947,9 +1369,15 @@ Los ayuntamientos deberán garantizar que el funcionamiento de las fosas comunes
 
 La Fiscalía Especializada y los ayuntamientos deberán mantener comunicación permanente para garantizar el registro, la trazabilidad y la localización de las personas fallecidas sin identificar conforme a los protocolos de búsqueda e investigación establecidos en la Ley General, y demás aplicables.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 67 Bis.
+
+Además de lo establecido en este Capítulo, el Estado de Oaxaca deberá contar, al menos, con los registros y bases de datos, previstos en el artículo 133 de la Ley General.
+
 ## TÍTULO QUINTO. DE LOS DERECHOS DE LAS VÍCTIMAS Y LA PREVENCIÓN DEL DELITO
 
-### CAPÍTULO CUARTO. DE LA PROTECCIÓN DE PERSONAS
+### CAPÍTULO PRIMERO. DE LOS DERECHOS DE LAS VÍCTIMAS
 
 ###### Artículo 68.
 
@@ -961,7 +1389,9 @@ Las víctimas directas de los delitos de desaparición forzada de personas o des
 
 I. A la protección de sus derechos, personalidad e intereses jurídicos;
 
-II. A que las autoridades inicien las acciones de búsqueda y localización, bajo los principios de esta ley, desde el momento en que se tenga noticia de su desaparición;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+II. A que las autoridades inicien las acciones de búsqueda y localización de manera inmediata, bajo los principios de esta Ley y de conformidad con la Ley General;
 
 III. A ser restablecido en sus bienes y derechos en caso de ser encontrado con vida;
 
@@ -1003,7 +1433,7 @@ XI. Participar en los diversos espacios y mecanismos de participación de los fa
 
 XII. Acceder a los programas y servicios especializados que las autoridades competentes diseñen e implementen para la atención y reparación del daño producto de los delitos contemplados en la Ley General.
 
-### CAPÍTULO QUINTO. DE LA PREVENCIÓN DE LOS DELITOS
+### CAPÍTULO SEGUNDO. DE LAS MEDIDAS DE AYUDA, ASISTENCIA Y ATENCIÓN
 
 ###### Artículo 71.
 
@@ -1019,7 +1449,7 @@ La Comisión Ejecutiva de Atención a Víctimas del Estado de Oaxaca, deberá ga
 
 Cuando durante la búsqueda o investigación resulte ser competencia de las autoridades federales, las víctimas podrán seguir recibiendo las medidas de ayuda, asistencia y atención por la Comisión Ejecutiva de Atención a Víctimas del Estado de Oaxaca, en tanto se establece el mecanismo de atención a víctimas del fuero que corresponda.
 
-### CAPÍTULO SEXTO. DE LOS PROGRAMAS DE PREVENCIÓN
+### CAPÍTULO TERCERO. DE LAS MEDIDAS DE REPARACIÓN INTEGRAL A LAS VÍCTIMAS
 
 ###### Artículo 74.
 
@@ -1133,9 +1563,21 @@ k) La modificación de las leyes, normas u ordenamientos legales que contribuyan
 
 El Estado, será responsable de asegurar la reparación integral a las víctimas cuando sean responsables sus servidores públicos o particulares bajo la autorización, consentimiento, apoyo, aquiescencia o respaldo de estos.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+En el ámbito de sus competencias, el estado adoptará medidas para asegurar el bienestar integral de las víctimas directas e indirectas, con especial atención a niñas, niños y adolescentes, hijas e hijos de personas desaparecidas, conforme a los principios de interés superior de la niñez, enfoque diferencial y especializado.
+
 El Estado compensará de forma subsidiaria el daño causado a las víctimas de desaparición cometida por particulares en los términos establecidos en la Ley de Víctimas del Estado de Oaxaca.
 
-### CAPÍTULO SÉPTIMO. DE LA CAPACITACIÓN
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 76 Bis.
+
+Los protocolos que se implementen para la búsqueda, investigación, atención y reparación deberán contener planes específicos de seguridad y protección para las familias, a fin de garantizar su integridad y participación segura en todas las etapas del proceso.
+
+Ningún protocolo, lineamiento o disposición administrativa podrá establecer plazos de espera para el inicio de la investigación.
+
+### CAPÍTULO CUARTO. DE LA PROTECCIÓN DE PERSONAS
 
 ###### Artículo 77.
 
@@ -1157,9 +1599,13 @@ Cuando se trate de personas defensoras de los derechos humanos o periodistas se 
 
 La incorporación a los programas de protección de personas a que se refiere el presente Capítulo debe ser autorizada conforme al procedimiento que se establece en la Ley de Atención a Víctimas del Estado de Oaxaca.
 
+### CAPÍTULO QUINTO. DE LA PREVENCIÓN DE LOS DELITOS
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2026)</small>
+
 ###### Artículo 81.
 
-La Secretaría General de Gobierno, la Fiscalía y las instituciones de seguridad pública deberán coordinarse para implementar las medidas de prevención previstas en esta ley, con independencia de las establecidas en la Ley General de Víctimas, la Ley General del Sistema Nacional de Seguridad Pública, la Ley General para la Prevención Social de la Violencia y la Delincuencia, así como la Ley del Sistema de Seguridad Pública del Estado de Oaxaca.
+La Secretaría de Gobierno, la Fiscalía General y las instituciones de seguridad pública deberán coordinarse para implementar las medidas de prevención previstas en esta ley, con independencia de las establecidas en la Ley General de Víctimas, la Ley General del Sistema Nacional de Seguridad Pública, la Ley General para la Prevención Social de la Violencia y la Delincuencia, así como la Ley del Sistema Estatal de Seguridad Pública de Oaxaca y la Ley para la Prevención Social de la Violencia y la Delincuencia en el Estado de Oaxaca.
 
 ###### Artículo 82.
 
@@ -1173,9 +1619,13 @@ La Fiscalía debe administrar bases de datos estadísticos relativos a la incide
 
 Las bases de datos a que se refiere el párrafo que antecede deben permitir la identificación de circunstancias, grupos en condición de vulnerabilidad, modus operandi, delimitación territorial, rutas y zonas de alto riesgo en los que aumente la probabilidad de comisión de alguno de los delitos previstos en la Ley General, para garantizar su prevención.
 
+### CAPÍTULO SEXTO. DE LOS PROGRAMAS DE PREVENCIÓN
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2026)</small>
+
 ###### Artículo 84.
 
-Los programas de prevención a que se refiere el presente título deben incluir metas e indicadores a efecto de evaluar las capacitaciones y procesos de sensibilización impartidos a servidores públicos.
+Los programas de prevención a que se refiere el presente título deben incluir metas, indicadores de desempeño y mecanismos de evaluación que permitan evaluar la eficacia de las capacitaciones y procesos de sensibilización dirigidos a las personas servidoras públicas, los actores del sector privado que por su actividad estén vinculados a contextos de riesgo, y a la población en general.
 
 ###### Artículo 85.
 
@@ -1183,9 +1633,11 @@ El Estado deberá remitir anualmente al Centro Nacional de Prevención del Delit
 
 Estos estudios deberán ser públicos y podrán consultarse en la página de internet que corresponda, de conformidad con la legislación aplicable en materia de transparencia, acceso a la información pública y protección de datos personales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2026)</small>
+
 ###### Artículo 86.
 
-El Gobierno del Estado de Oaxaca, a través de la Comisión Estatal de Búsqueda de Oaxaca, la Secretaría General de Gobierno, la Fiscalía General del Estado y las instituciones de seguridad pública, deben respecto de los delitos previstos en la Ley General:
+El Gobierno del Estado de Oaxaca, a través de la Comisión Estatal de Búsqueda, la Secretaría de Gobierno, la Fiscalía General y las instituciones de seguridad pública, deben respecto de los delitos previstos en la Ley General y la presente Ley:
 
 I. Llevar a cabo campañas informativas dirigidas a fomentar la denuncia de los delitos y el conocimiento sobre las instituciones de atención y los servicios que brindan;
 
@@ -1209,7 +1661,13 @@ X. Diseñar instrumentos de evaluación e indicadores para el seguimiento y vigi
 
 XI. Realizar de manera permanente diagnósticos, investigaciones, estudios e informes sobre la problemática de desaparición de personas y otras conductas delictivas conexas o de violencia vinculadas a este delito, que permitan la elaboración de políticas públicas que lo prevengan y;
 
-XII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2026)</small>
+
+XII. Generar políticas públicas y otras acciones para sensibilizar a la población en general, con enfoque diferenciado, en relación con la información, prevención y mitigación de los factores de riesgo de la desaparición de personas, y
+
+XIII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+### CAPÍTULO SÉPTIMO. DE LA CAPACITACIÓN
 
 ###### Artículo 87.
 
@@ -1217,17 +1675,297 @@ La Comisión Estatal de Búsqueda deberá establecer programas obligatorios de c
 
 Los servidores públicos de las instituciones de seguridad pública involucrados en la materia deberán ser capacitados en los mismos términos del párrafo anterior.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2026)</small>
+
 ###### Artículo 88.
 
-El personal de la Comisión Estatal de Búsqueda, de la Fiscalía Especializada y de la Dirección General de Servicios Periciales, deberá recibir capacitación para el adecuado funcionamiento de las herramientas del Sistema Nacional de Búsqueda, y su debida aplicación en el estado.
+La Fiscalía General y la Secretaría de Seguridad y Protección Ciudadana, con el apoyo de la Comisión Nacional de Búsqueda, deberán garantizar la capacitación continua, especializada y multidisciplinaria del personal ministerial, policial, pericial y demás personas servidoras públicas que intervengan en la búsqueda, localización, identificación, investigación y análisis de pruebas relacionadas con los delitos previstos en esta Ley en observancia a la Ley General.
+
+Dicha capacitación deberá ser acorde con los objetivos señalados en el artículo 68 de la Ley General y atender a los más altos estándares internacionales, técnicos y científicos, con pleno respeto a los derechos humanos y con enfoque psicosocial, diferencial y especializado.
+
+Asimismo, el personal de la Comisión Estatal de Búsqueda, de la Fiscalía Especializada y de la Dirección General de Servicios Periciales deberá recibir formación específica para el adecuado uso y operación de las herramientas del Sistema Nacional de Búsqueda, asegurando su aplicación efectiva en el ámbito estatal y conforme a los protocolos y lineamientos aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2026)</small>
 
 ###### Artículo 89.
 
-La Fiscalía y la Secretaría de Seguridad Pública deberán capacitar y certificar a su personal conforme a los criterios que al efecto establezca la Conferencia Nacional de Procuración de Justicia y la Conferencia Nacional de Secretarios de Seguridad Pública.
+La Fiscalía General del Estado, la Vicefiscalía General de Víctimas y Derechos Humanos, la Fiscalía Especializada y la Secretaría de Seguridad y Protección Ciudadana deberán garantizar procesos permanentes de formación, capacitación y actualización para su personal, así como certificarlo en las competencias y habilidades necesarias para dar cumplimiento a lo previsto en la presente Ley en observancia de la Ley General.
 
 ###### Artículo 90.
 
 La Fiscalía deberá implementar indicadores y un sistema para evaluar el impacto de la capacitación que reciban los servidores públicos de la Fiscalía Especializada.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2026)</small>
+
+## TÍTULO OCTAVO (SIC). DE LA BÚSQUEDA DE PERSONAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO PRIMERO. DE LA BÚSQUEDA DE PERSONAS
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 91.
+
+La búsqueda tendrá por objeto realizar todas las acciones y diligencias tendientes para dar con la suerte o el paradero de la persona hasta su localización, incluidas aquellas para identificar plenamente sus restos en caso de que estos hayan sido localizados.
+
+La Comisión Estatal de Búsqueda realizará de forma conjunta, coordinada y simultánea con la Comisión Nacional de Búsqueda conforme a lo dispuesto en la presente Ley y en la Ley General.
+
+Los mecanismos de búsqueda deberán agotarse totalmente hasta que se determine la localización o paradero de la persona. La Comisión Estatal de Búsqueda garantizará que los mecanismos se apliquen conforme a las circunstancias propias de cada caso, de conformidad con esta Ley y el Protocolo Homologado de Búsqueda.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 92.
+
+Cualquier persona puede solicitar la búsqueda de una Persona Desaparecida o No Localizada mediante:
+
+I. Noticia;
+
+II. Reporte, o
+
+III. Denuncia.
+
+La Noticia, el Reporte o la Denuncia pueden realizarse en forma anónima.
+
+Tratándose de Denuncia, no será necesaria su ratificación. Tanto la búsqueda como la investigación se llevarán a cabo sin dilación.
+
+Toda autoridad que reciba una Noticia, reporte o denuncia, deberá informar inmediatamente a la Fiscalía Especializada, la que iniciará sin dilación alguna la investigación y asignará el número de carpeta correspondiente. La omisión de iniciar la investigación correspondiente y/o de iniciar el reporte de desaparición pertinente, se sancionará de acuerdo con las disposiciones de la Ley General y Estatal.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 93.
+
+El Reporte puede realizarse las veinticuatro horas del día, todos los días del año, a través de cualquiera de los siguientes medios:
+
+I. Telefónico, a través del número único nacional habilitado para tal efecto;
+
+II. Medios Digitales;
+
+III. Presencial, ante la Comisión Estatal de Búsqueda o el Ministerio Público;
+
+IV. Tratándose de personas que no residen en el territorio nacional, a través de las oficinas consulares o embajadas de México en el extranjero, el Instituto Nacional de Migración, deberán remitir sin dilación el Reporte a la Comisión Estatal de Búsqueda y a la Fiscalía Especializada; o
+
+V. El Sistema Estatal, mediante acuerdo publicado en el Periodico Oficial del Estado, puede establecer medios adicionales a los previstos en este artículo para recibir Reportes.
+
+Cuando la distancia o los medios de comunicación no permitan realizar el Reporte en términos de las fracciones anteriores, este puede realizarse ante la policía o la autoridad municipal que el Ayuntamiento designe para tal efecto. Debiendo dar aviso inmediato a la Comisión Estatal de Búsqueda en vía de colaboración.
+
+En el caso de Reportes realizados en términos de la fracción I de este artículo, la autoridad que reciba el reporte deberá proporcionar el folio único de búsqueda a la persona que lo realizó.
+
+En el caso de la fracción III, quien reciba el Reporte deberá entregar a la persona que lo realizó constancia por escrito en el que constará el folio único de búsqueda.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 94.
+
+La presentación de Denuncias se sujetará a lo previsto en el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 95.
+
+Cuando se trate de una Noticia, las autoridades que no pertenezcan al Sistema Estatal de Búsqueda y que tengan conocimiento de ésta, deben:
+
+a) Recabar los datos mínimos que se desprendan de la Noticia, como se señala en el artículo 85 de la Ley General, y
+
+b) Transmitir la información de manera inmediata a la Comisión correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 96.
+
+La autoridad distinta a la Comisión Estatal de Búsqueda que reciba el Reporte debe recabar por lo menos, la información siguiente:
+
+I. El nombre, la edad, así como demás datos generales de la persona que lo presenta, salvo que se trate de Noticia o Reporte anónimo;
+
+II. La Clave Única de Registro de Población de la Persona Desaparecida o No Localizada. No podrá condicionarse el procedimiento de búsqueda a la presentación de este requisito;
+
+III. La ubicación desde la cual se realiza el Reporte, Denuncia o Noticia;
+
+IV. El número telefónico, dirección de correo electrónico o cualquier otro dato que permita que las autoridades estén en contacto con la persona, salvo que se trate de Noticia o Reporte anónimo;
+
+V. La persona que se reporta como desaparecida o No Localizada y, en su caso, sus características físicas o cualquier otro dato que permita su identificación y localización; el nombre social, la edad, fotografía reciente, sexo, género, rasgos físicos distintivos, señas particulares, y en su caso, condición de vulnerabilidad;
+
+VI. La narración pormenorizada de los hechos ocurridos, incluyendo las circunstancias de tiempo, modo y lugar;
+
+VII. La mención de las personas probablemente involucradas, con el señalamiento de todos los datos que puedan conducir a su identificación, incluida su media filiación, y
+
+VIII. Cualquier otra información, documentos o elementos que faciliten la búsqueda de las Personas Desaparecidas o No Localizadas y la investigación de los hechos.
+
+Si la persona que realiza el Reporte o Denuncia no otorga la información señalada en este artículo, la instancia que la recabe debe asentar las razones de esa imposibilidad. La objeción de señalar datos por temor o imposibilidad de aportarlos por parte de quien haga la Denuncia o Reporte, no será obstáculo para el inicio de la búsqueda inmediata por parte de la Comisión Estatal de Búsqueda.
+
+La autoridad que recabe la información, documentos y elementos a que se refiere el presente artículo deberá asentar su nombre, cargo y dependencia gubernamental a la que se encuentre adscrito al momento de recibir el Reporte o Denuncia. La autoridad estará obligada a entregar una copia del Reporte o Denuncia a la persona que haya acudido a realizarla.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 97.
+
+La autoridad que recabe la Denuncia, Reporte o Noticia debe transmitirlo inmediatamente, a través de cualquier medio tecnológico o de telecomunicación, a la Comisión Estatal de Búsqueda en términos de lo dispuesto en esta Ley. Asimismo, se encuentra obligada a aplicar todas las medidas necesarias para evitar la revictimización. Las autoridades que reciban la Denuncia, el Reporte o Noticia deberán implementar, inmediatamente, las acciones de búsqueda que les correspondan, de conformidad con lo dispuesto en el protocolo correspondiente. El incumplimiento por parte de la autoridad obligada a la transmisión inmediata será sancionado de conformidad con la legislación en materia de responsabilidades administrativas.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 98.
+
+Una vez que la Comisión Estatal de Búsqueda reciba, en términos del artículo anterior, un Reporte o Noticia de una Persona Desaparecida o No Localizada, debe ingresar de inmediato la información correspondiente al Registro Nacional, generando un folio único de búsqueda.
+
+El folio único de búsqueda debe contener como mínimo:
+
+a) La información sobre la Persona Desaparecida o No Localizada a que hace referencia el artículo 96 de la presente Ley, y
+
+b) El nombre del servidor público de la Comisión o autoridad que recibió la Noticia, Reporte o Denuncia.
+
+La Comisión Estatal de Búsqueda debe actualizar constantemente el expediente de búsqueda, para lo cual pueden solicitar, y deben proporcionar, información a los Familiares en los términos previstos en las disposiciones legales aplicables. Cuando la Persona Desaparecida o No Localizada sea de una nacionalidad distinta a la mexicana, las autoridades involucradas en la búsqueda de dicha persona deben proveer información a los Familiares o Familia Social que se encuentren en el exterior, a través de las autoridades consulares correspondientes o de la persona que hubieren designado para tales efectos.
+
+La Familia Social y Familiares, así como sus representantes tienen acceso de manera íntegra al expediente de búsqueda de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 99.
+
+En el caso de la presentación de una Denuncia, el agente del Ministerio Público que la reciba debe proceder sin dilación a aplicar el Protocolo Homologado de Investigación y remitir la información a la Fiscalía Especializada, así como a la Comisión Estatal de Búsqueda.
+
+En todos los casos, de manera inmediata y sin dilación alguna, al momento de la presentación de la denuncia se iniciará una investigación y se le asignará el número de carpeta correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 100.
+
+Cuando la Comisión Estatal de Búsqueda tenga Noticia o Reporte de una Persona Desaparecida o No Localizada, iniciará la búsqueda de inmediato e informará sin dilación a la fiscalía especializada, en términos del artículo 49 de esta ley.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 101.
+
+La Comisión Estatal de Búsqueda debe instrumentar acciones de búsqueda inmediatamente, conforme al Protocolo Homologado de Búsqueda, el cual incluirá, entre otros, el cruce de la información ingresada al Registro Nacional con los registros o bases de datos a que se refiere el artículo 105 de esta Ley. Asimismo, al momento de iniciar la búsqueda, debe informar a los Familiares y a la familia social, sobre la posibilidad de canalizarlos a la Comisión Estatal de Víctimas de conformidad con la legislación en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 102.
+
+La Comisión Estatal de Búsqueda debe solicitar a los Familiares y a la familia social, preferentemente a través del cuestionario establecido en el Protocolo Homologado de Búsqueda, la información que estime necesaria para localizar e identificar a la Persona Desaparecida o No Localizada.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 103.
+
+La Comisión Estatal de Búsqueda debe asegurar la existencia de mecanismos eficientes para que los Familiares y a la familia social y sus representantes siempre tengan acceso a los indicios, evidencias y pruebas relacionadas con la búsqueda, y puedan proponer acciones de investigación para la búsqueda y localización de la persona.
+
+Así mismo la Comisión debe implementar mecanismos para que los Familiares y a la familia social tengan conocimiento del resultado de las acciones de búsqueda, las diligencias, los indicios, evidencias y pruebas que surjan de los mismos.
+
+Los Familiares y la Familia Social y sus representantes podrán acompañar y dar seguimiento a las acciones de búsqueda, lo cual estará garantizado en todo momento, de acuerdo con las medidas previstas en el Protocolo Homologado de Búsqueda y en el Protocolo Homologado de Investigación y siempre velando por salvaguardar su integridad física y emocional.
+
+Lo dispuesto en este artículo está sujeto a lo previsto en el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 104.
+
+Durante la búsqueda, la Comisión Estatal de Búsqueda presumirá que la Persona Desaparecida o No Localizada, se encuentra con vida.
+
+La Comisión Estatal de Búsqueda no podrá concluir con las acciones de búsqueda, incluso en los casos en que la Persona Desaparecida o No Localizada sea declarada ausente, en términos de lo establecido en esta Ley y la legislación aplicable, salvo que haya certeza sobre la localización o paradero de la persona o hasta que sus restos hayan sido encontrados y plenamente identificados.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 105.
+
+A efecto de determinar la ubicación de la Persona Desaparecida o No Localizada, la Comisión Estatal de Búsqueda debe consultar, mediante los sistemas informáticos instrumentados para ello, de manera periódica y exhaustiva las bases de datos o registros de:
+
+I. Hospitales, clínicas, centros de atención psiquiátrica, centros de Desarrollo Integral para la Familia, centros de salud, centro de tratamiento de salud mental y atención de las adicciones, y los centros comunitarios de salud mental y adicciones públicos y privados;
+
+II. Centros de reinserción social y centro de asistencia social;
+
+III. Los registros de los centros de detención administrativos;
+
+IV. Servicios Médicos Forenses y banco de datos forenses;
+
+V. Registro Estatal y Nacional de Personas Fallecidas No Identificadas;
+
+VI. Albergues públicos y privados, e instituciones de asistencia social, en términos de la Ley de Asistencia Social;
+
+VII. Panteones o lugares en los que se depositan restos mortales o cadáveres, públicos y privados;
+
+VIII. Identidad de personas;
+
+IX. Terminales de autotransporte terrestre, aéreo y marítimo, de pasajeros y carga, y
+
+X. Los demás registros y bases de datos que contengan información que pueda contribuir a la localización e identificación de las personas, en términos de las disposiciones jurídicas aplicables.
+
+Las autoridades o instituciones, públicas o privadas, que administran las bases de datos o registros a que se refiere este artículo deben tomar las medidas necesarias para que dichas bases de datos y registros contengan la información de las personas a las que prestan servicios, beneficios o tienen bajo su custodia.
+
+La Comisión Estatal de Búsqueda proporcionará asistencia a las autoridades e instituciones a que se refiere el párrafo anterior a fin de facilitar el acceso a la información contenida en sus bases de datos o registros, para lo cual celebrarán los convenios correspondientes.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 106.
+
+Cuando sea necesario para la búsqueda de una Persona Desaparecida, la Comisión Estatal de Búsqueda podrá solicitar a la Fiscalía Especializada que ordene los actos de investigación previstos en el Código Nacional de Procedimientos Penales o que recabe autorización judicial para efectuar actos de investigación que requieran tal autorización previa, de acuerdo con el mismo ordenamiento, indicando, en su caso, las que tengan el carácter de urgentes.
+
+Las peticiones señaladas tendrán que ser resueltas sin dilación alguna cuando sean urgentes, debiendo la Comisión motivar dicho carácter.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 107.
+
+Si en cualquier momento durante la búsqueda la persona es localizada, la Comisión Estatal de Búsqueda debe, como mínimo:
+
+I. Dar aviso a la Fiscalía Especializada, cuando exista carpeta de investigación. En caso de que no se haya cometido ningún delito, deberá darse por concluida la carpeta de investigación;
+
+II. Dar aviso inmediato a la autoridad competente en materia de atención a Víctimas;
+
+III. Aplicar el procedimiento correspondiente a la identificación de identidad regulado en el Protocolo Homologado de Búsqueda, el cual establecerá el modo de obtención de la declaración de la persona localizada, en la cual señale las circunstancias de tiempo, modo y lugar de su desaparición o no localización, así como los motivos de ésta y los probables responsables de la misma;
+
+IV. Una vez identificada, declarar localizada a la persona y notificarlo a quien solicitó la búsqueda, a sus Familiares y familiares sociales o, en su caso, a la persona que ésta designe;
+
+V. En caso de que se localizara sin vida a la persona, se deberán aplicar las reglas para el Tratamiento e Identificación Forense y el de Notificación y Entrega de restos a Familiares, contenido en el Protocolo Homologado que corresponda, garantizando siempre proteger, respetar y restituir de manera digna a sus Familiares los restos humanos, así como entregar un informe de las circunstancias de la muerte y la forma en que se identificaron dichos restos. En este caso, las autoridades competentes deberán continuar con la investigación para la ubicación y sanción de los probables responsables, y
+
+VI. Actualizar el Registro Nacional que corresponda en términos del artículo 105 de la Ley General.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 108.
+
+Cuando alguna autoridad identifique a una persona que por circunstancias ajenas a su voluntad, desconoce o no recuerda sus datos de parentesco, identidad y domicilio, debe dar aviso a la Comisión Estatal de Búsqueda, a efecto de que se verifique si su desaparición o no localización fue reportada en el Registro Nacional. En caso de no existir Reporte o Denuncia, la Comisión Estatal de Búsqueda deberá informar a la Fiscalía Especializada para incorporar los datos respectivos al Registro Nacional en términos del artículo 106 de la Ley General.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 109.
+
+Las autoridades involucradas en la búsqueda y localización de Personas Desaparecidas o No Localizadas, en el ámbito de sus competencias, deben asegurar la cadena de custodia de la información e indicios, dando vista inmediata a la Fiscalía Especializada para su procesamiento, traslado, análisis y almacenamiento, conforme a lo previsto en el Código Nacional de Procedimientos Penales.
+
+El servidor público que incumpla con lo dispuesto en el párrafo anterior, será sancionado conforme a la normativa correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO SEGUNDO. DE LA COLABORACIÓN DE LOS AYUNTAMIENTOS
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 110.
+
+Los municipios coadyuvarán de manera activa con las autoridades federales y estatales, en particular con la Comisión Estatal de Búsqueda y con la Fiscalía Especializada, en la implementación de las acciones y medidas previstas en la Ley General en la materia, en la presente Ley y en el Sistema Estatal de Búsqueda.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 111.
+
+Los municipios deberán:
+
+I. Designar una persona o unidad administrativa como enlace con la Comisión Estatal de Búsqueda;
+
+II. Proporcionar, de manera inmediata, la información y datos que les sean requeridos para las acciones de búsqueda y localización;
+
+III. Resguardar y preservar, en el ámbito de su competencia, los lugares en los que existan indicios relacionados con personas desaparecidas o no localizadas, hasta la llegada de la Comisión Estatal de Búsqueda o de la Fiscalía Especializada;
+
+IV. Difundir de manera inmediata las fichas de búsqueda en los medios y espacios municipales, así como garantizar que no se eliminen, retiren o limpien los lugares en los que se encuentren colocadas;
+
+V. Brindar facilidades logísticas y de seguridad a las acciones de búsqueda en su territorio; y
+
+VI. Capacitar de manera permanente al personal de seguridad pública municipal en los protocolos de búsqueda y atención a víctimas.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+###### Artículo 112.
+
+Las autoridades municipales que obstaculicen las acciones o tareas de búsqueda y localización serán sancionadas en términos de las disposiciones jurídicas aplicables.
 
 T R A N S I T O R I O S :
 
@@ -1300,3 +2038,21 @@ P.O. 28 DE AGOSTO DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 13 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1403.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES I, III Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 21; Y SE ADICIONA EL CAPÍTULO I BIS DE LA VICEFISCALÍA GENERAL DE ATENCIÓN A VÍCTIMAS Y DERECHOS HUMANOS, QUE CONTIENE LOS ARTÍCULOS 21 BIS Y 21 TER A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA; REFORMAN, EL ARTÍCULO 4; LA DENOMINACIÓN DEL CAPÍTULO TERCERO DEL TÍTULO PRIMERO; LA DENOMINACIÓN DEL TÍTULO SEGUNDO Y DE SU CAPÍTULO PRIMERO; LAS FRACCIONES XI, XLI, XLVIII DEL ARTÍCULO 24; EL ARTÍCULO 47; EL PRIMER PÁRRAFO DEL ARTÍCULO 49; LA DENOMINACIÓN DEL TÍTULO TERCERO Y DE SU CAPÍTULO ÚNICO; EL ARTÍCULO 53; EL PRIMER PÁRRAFO Y LAS FRACCIONES II Y IV DEL ARTÍCULO 55; LAS FRACCIONES I, XVII Y XXVII DEL ARTÍCULO 56; EL SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 65; EL PRIMER PÁRRAFO DEL ARTÍCULO 67; LA FRACCIÓN II DEL ARTÍCULO 69; LOS ARTÍCULOS 81 Y 84; EL PRIMER PÁRRAFO DEL ARTÍCULO 86; Y LOS ARTÍCULOS 88 Y 89. SE ADICIONAN LAS FRACCIONES II, III Y VI RECORRIENDO LAS SUBSECUENTES EN SU ORDEN AL ARTÍCULO 2; LAS FRACCIONES XIV Y XV AL ARTÍCULO 5; LOS CAPÍTULOS SEGUNDO BIS, SEGUNDO TER Y SEGUNDO QUATER AL TÍTULO PRIMERO, LOS CUALES COMPRENDEN DEL ARTÍCULO 12 BIS AL 12 DECIES; EL ARTÍCULO 16 BIS; LOS ARTÍCULOS DEL 17 BIS AL 17 NONIES; LOS ARTÍCULOS 53 BIS Y 53 TER; LA FRACCIÓN V AL ARTÍCULO 55; LAS FRACCIONES III BIS, XXVIII, XXIX, XXX RECORRIENDO LAS SUBSECUENTES EN SU ORDEN AL ARTÍCULO 56; LOS ARTÍCULOS 58 BIS, 58 TER; 59 BIS; Y 67 BIS; UN SEGUNDO PÁRRAFO RECORRIENDO LOS SUBSECUENTES EN SU ORDEN AL ARTÍCULO 76; EL ARTÍCULO 76 BIS; LA FRACCIÓN XII AL ARTÍCULO 86 RECORRIÉNDOSE LA SUBSECUENTE; EL TÍTULO OCTAVO QUE CONTIENE EL CAPÍTULO PRIMERO CON LOS ARTÍCULOS 91, 92, 93, 94, 95, 96, 97; 98; 99; 100; 101, 102, 103, 104, 105, 106, 107, 108 Y 109; Y EL CAPÍTULO SEGUNDO QUE CONTIENE LOS ARTÍCULOS 110, 111, Y 112; Y SE DEROGAN, LAS FRACCIONES IV A LA X DEL ARTÍCULO 41; EL SEGUNDO PÁRRAFO CON SUS FRACCIONES DE LA I A LA IV, Y EL TERCER PÁRRAFO DEL ARTÍCULO 49; TODOS DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. La persona titular de la Vicefiscalía General de Víctimas y Derechos Humanos, deberá ser nombrada por el Fiscal General dentro del plazo de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Las personas titulares de la Fiscalía Especializada en la Investigación de la Desaparición Cometida por Particulares, Desaparición Forzada y delitos Vinculados y de la Fiscalía Especializada en la Investigación de los Delitos de Tortura, Tratos Crueles, Inhumanos, Degradantes y Delitos Vinculados deberán ser nombradas por el Fiscal General dentro del plazo de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Fiscalía General del Estado deberá armonizar el Reglamento Interno de la Fiscalía General del Estado, dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto.
+
+SEXTO. Los asuntos iniciados y recibidos por la Unidad de Tortura de la Vicefiscalía General de Atención a Víctimas y a la Sociedad serán transferidos a la Fiscalía Especializada en Investigación y Persecución de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, en un plazo de treinta días naturales, a partir de la designación de la persona Titular de la fiscalía especializada, en términos de la normatividad aplicable.
+
+SÉPTIMO. La Secretaría de Finanzas del Gobierno del Estado y la Fiscalía General del Estado de Oaxaca, realizarán las adecuaciones presupuestales necesarias para el cumplimiento del presente Decreto.
