@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-vivienda-para-el-estado-de-tabasco-83608"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-28"
-last_updated: "2026-03-21"
+last_updated: "2026-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE VIVIENDA PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2026.
 
 Ley publicada en el Suplemento B del Periódico Oficial del Estado de Tabasco, el miércoles 28 de septiembre de 2011.
 
@@ -717,11 +717,11 @@ El INVITAB fijará los mecanismos de información, calificación y clasificació
 
 Con base en lo anterior, el INVITAB elaborará un catálogo de terrenos aptos para destinarse a programas de vivienda, considerando las condiciones básicas de equipamiento urbano y factibilidad de introducción de los servicios de agua potable, drenaje sanitario, drenaje pluvial, y electricidad con el menor costo posible.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2026)</small>
 
 ###### Artículo 35.
 
-El INVITAB, a solicitud de los ayuntamientos, entidades públicas, organizaciones, grupos sociales y privados que tengan por objeto el desarrollo de fraccionamientos de urbanización inmediata y progresiva o la satisfacción de necesidades de vivienda de interés social, de autoconstrucción y de producción social de vivienda, podrá enajenar las áreas o los predios que se encuentren dentro de su patrimonio, en los términos de esta Ley y demás ordenamientos jurídicos correspondientes observando en todo caso:
+El INVITAB, a solicitud de los ayuntamientos, entidades públicas, organizaciones, grupos sociales y privados que tengan por objeto el desarrollo de fraccionamientos de urbanización inmediata y progresiva o la satisfacción de necesidades de vivienda de interés social, de autoconstrucción y de producción social de vivienda, podrá enajenar las áreas, predios o cualquier bien inmueble que se encuentren dentro de su patrimonio, en los términos de esta Ley y demás ordenamientos jurídicos correspondientes, observando en todo caso:
 
 I. La aptitud de los bienes a ser utilizados en los programas respectivos;
 
@@ -730,6 +730,10 @@ II. Que el aprovechamiento de los inmuebles sea congruente con el Programa Secto
 III. Que los solicitantes cuenten con un programa financiero en el que se prevea la aplicación de los recursos; y
 
 IV. Que se cumpla, en su caso, con los requisitos señalados en esta Ley para los fraccionamientos y conjuntos habitacionales.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2026)</small>
+
+El INVITAB podrá inscribir de manera directa ante el Registro Público de la Propiedad y el Comercio cualquier documento privado que emita para formalizar las enajenaciones a título gratuito u oneroso.
 
 ###### Artículo 36.
 
@@ -753,9 +757,11 @@ VI. En ningún caso, podrá enajenarse más de un lote o vivienda ha (sic) quié
 
 El INVITAB o las dependencias y entidades municipales, publicarán los listados de las personas beneficiadas de las enajenaciones a que se refiere este artículo, a través de los medios de difusión de los lugares donde se lleven a cabo las acciones.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2026)</small>
+
 ###### Artículo 38.
 
-Los contratos que se otorguen en las enajenaciones de viviendas de interés social y de lotes de urbanización progresiva, provenientes de bienes del Estado o de los municipios, que realice el INVITAB, serán los instrumentos que acrediten la titularidad de derechos de propiedad.
+Los contratos que se otorguen en las enajenaciones de viviendas de interés social y de lotes de urbanización progresiva, provenientes de bienes del Estado o de los municipios, que realice el INVITAB, serán los instrumentos que acrediten la titularidad de derechos de propiedad, mismos que podrán ser inscritos de manera directa por el INVITAB en el Registro Público de la Propiedad y el Comercio.
 
 ### CAPÍTULO SEGUNDO. DE LAS FACULTADES DE LOS AYUNTAMIENTOS
 
@@ -1476,3 +1482,13 @@ P.O. 21 DE MARZO DE 2026.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Se deroga toda disposición de igual o menor jerarquía que se oponga al presente Decreto.
+
+P.O. 13 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 272 POR EL QUE "SE REFORMA EL ARTÍCULO 35, PÁRRAFO PRIMERO Y 38. SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 35; TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
+
+TERCERO. En un plazo no mayor a ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones normativas necesarias para dar cumplimiento a lo dispuesto en el mismo.
