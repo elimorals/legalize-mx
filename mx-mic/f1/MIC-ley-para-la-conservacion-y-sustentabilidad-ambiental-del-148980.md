@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-conservacion-y-sustentabilidad-ambiental-del-148980
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-05"
-last_updated: "2026-04-27"
+last_updated: "2026-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2026.
 
 Ley publicada en la Novena Sección del Número 43 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 5 de abril de 2021.
 
@@ -661,7 +661,9 @@ I. El principio de cooperación, se caracteriza por exhortar a las personas fís
 
 II. El principio de prevención, está basado en la responsabilidad que tiene toda persona física y/o moral de adoptar las medidas necesarias para evitar cualquier daño ambiental que pueda ocurrir, independientemente de la dimensión del daño, siempre y cuando se trate de un riesgo cierto de determinadas acciones u omisiones;
 
-III. El principio de desarrollo sustentable, el cual debe asegurar que se alcancen las necesidades del presente sin comprometer la habilidad de las generaciones futuras, para cubrir sus propias necesidades;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2026)</small>
+
+III. Principio de responsabilidad intergeneracional, es toda acción pública o privada que incida en el medio ambiente la cual deberá orientarse por el deber de preservar los recursos naturales y el equilibrio ecológico para las generaciones presentes y futuras. Las autoridades ambientales, en el ámbito de sus competencias, deberán considerar este principio al formular, interpretar y aplicar políticas, programas, normas y decisiones administrativas, privilegiando siempre la protección del patrimonio natural común.
 
 IV. El principio de responsabilidad común pero diferenciada, exhorta a la responsabilidad que tiene el País, el Estado y sus municipios de proteger el medioambiente, pero al mismo tiempo hace clara la capacidad de los distintos países, Estados de la República Mexicana y sus municipios, en asumir su responsabilidad en el daño ambiental, mediante diferentes estándares, en vista de que han contribuido en distinta medida a la degradación del medio ambiente;
 
@@ -3158,5 +3160,13 @@ P.O. 27 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 428.- ARTÍCULO ÚNICO.- SE ADICIONA EL ARTÍCULO 104 BIS A LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 PRIMERO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 15 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 461 POR EL QUE "SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 17 DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Notifíquese al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
