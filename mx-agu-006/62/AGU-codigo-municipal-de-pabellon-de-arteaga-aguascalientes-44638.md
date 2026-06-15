@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2026-03-02"
+last_updated: "2026-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2026.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE MARZO DE 2026.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2026.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -10545,11 +10543,19 @@ XXII.- Órgano interno de control: Unidad administrativa a cargo de promover, ev
 
 ### CAPITULO SEGUNDO. De la Prestación del Servicio de Agua potable y Alcantarillado
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 605.
 
-Tendrán derecho a recibir el servicio de agua potable y alcantarillado, los propietarios frente a cuyos predios se encuentren instaladas las tuberías de distribución de agua y de recolección de aguas residuales y pluviales, para lo cual deberán solicitar a la CAPAPA la instalación de las tomas respectivas y la conexión de sus descargas, cumpliendo con los requisitos y mediante el pago de los derechos y tarifas correspondientes.
+Tendrán derecho a recibir el servicio de agua potable y alcantarillado, los propietarios frente a cuyos predios se encuentren instaladas las tuberías de distribución de agua y de recolección de aguas residuales y pluviales, para lo cual deberán solicitar a la CAPAPA la instalación de las tomas respectivas y la conexión de sus descargas, cumpliendo con los siguientes requisitos:
+
+1.- Acreditación de la propiedad mediante escritura pública o pago de predial o título de propiedad o contrato de compraventa o contrato de donación;
+
+2.- Número oficial o carta informativa expedida por la Dirección de Desarrollo Urbano y Planeación Municipal;
+
+3.- Identificación oficial, y
+
+4.- Pago de los derechos y tarifas correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
@@ -31092,3 +31098,11 @@ CUARTO: En lo relativo a la separación del área de Desarrollo Urbano de la Dir
 QUINTO: El Ayuntamiento deberá emitir los Reglamentos que requiera la presente reforma, así como hacer las adecuaciones administrativas, de personal y del presupuesto de egresos del Municipio de Pabellón de Arteaga, que sean necesarias.
 
 SEXTO: Se dejan sin efecto todos los acuerdos, disposiciones normativas y reglamentarias del Municipio de Pabellón de Arteaga que contravengan el presente Decreto.
+
+P.O. 15 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 605 DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA".]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se dejan sin efecto todos los acuerdos, disposiciones normativas y reglamentarias del Municipio de Pabellón de Arteaga que contravengan el presente Decreto.
