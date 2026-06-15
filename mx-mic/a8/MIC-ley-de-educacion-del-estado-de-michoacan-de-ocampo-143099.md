@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-educacion-del-estado-de-michoacan-de-ocampo-143099"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-29"
-last_updated: "2026-05-04"
+last_updated: "2026-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2026.
 
 Ley publicada en la Sexta Sección en el Número 22 del Periódico Oficial del Estado de Michoacán, el viernes 29 de mayo de 2020.
 
@@ -86,6 +86,10 @@ VIII. Asociación de Padres de Familia: Asociación de las madres y los padres d
 IX. Comunidad: Al conjunto de personas, familias y colectividades que conforman un tejido social y comparten lengua, cultura, territorio y que con sus actividades sociales, religiosas, productivas y económicas generan conocimientos, tradiciones y saberes;
 
 X. Constitución Local: Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2026)</small>
+
+X Bis. Dispositivos Móviles: Son equipos electrónicos portátiles diseñados para la comunicación, el procesamiento, almacenamiento y transmisión de datos;
 
 XI. Ejecutivo del Estado: Titular de Poder Ejecutivo;
 
@@ -333,13 +337,17 @@ XV. Fomentar programas que coadyuven a la mejora de la educación para alcanzar 
 
 XVI. Desde una perspectiva de género, se fomentará la educación menstrual y se facilitará el acceso gratuito a los productos de gestión menstrual para niñas, mujeres y personas menstruantes que lo requieran, en las escuelas públicas pertenecientes al Sistema Educativo Estatal;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2026)</small>
 
-XVII. Propiciar acciones de información y difusión de medidas orientadas a prevenir y concientizar sobre el riesgo de la adicción a los videojuegos; y,
+XVII. Propiciar acciones de información y difusión de medidas orientadas a prevenir y concientizar sobre el riesgo de la adicción a los videojuegos, y al uso de dispositivos móviles;
 
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2026)</small>
 
-XVIII. Impulsar, en concurrencia con la autoridad educativa federal y en coordinación con las autoridades de salud del Estado, los programas y acciones para la promoción del cuidado socioemocional y la salud mental.
+XVIII. Impulsar, en concurrencia con la autoridad educativa federal y en coordinación con las autoridades de salud del Estado, los programas y acciones para la promoción del cuidado socioemocional y la salud mental; y,
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2026)</small>
+
+XIX. Regular el ingreso y uso de Dispositivos Móviles en las instituciones de educación básica durante el horario escolar.
 
 ###### Artículo 30.
 
@@ -721,6 +729,12 @@ La educación, en sus distintos tipos, niveles, modalidades y opciones educativa
 
 Cada centro educativo podrá contar con al menos un docente formado y encargado del proceso de enseñanza-aprendizaje para cada uno (sic) de las áreas siguientes: Educación Física, Educación Artística y Educación Especial.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2026)</small>
+
+###### Artículo 60 Bis.
+
+En el nivel de educación básico, las autoridades educativas estatales promoverán y difundirán la enseñanza sistemática de la escritura manuscrita como parte esencial del proceso de alfabetización en el Estado.
+
 ### CAPÍTULO II. DEL TIPO DE EDUCACIÓN BÁSICA
 
 ###### Artículo 61.
@@ -768,6 +782,12 @@ Las Organizaciones de la Sociedad Civil interesadas en proporcionar el servicio 
 ###### Artículo 67.
 
 La edad mínima para ingresar a la educación básica en el nivel de educación inicial es de 45 días, en el nivel preescolar es de tres años, y para nivel primaria seis años, en todos los casos, cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2026)</small>
+
+###### Artículo 67 Bis.
+
+Los educandos podrán hacer uso de Dispositivos Móviles de acuerdo a la reglamentación implementada por cada institución escolar.
 
 ###### Artículo 68.
 
@@ -2818,3 +2838,19 @@ P.O. 4 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 437 POR EL QUE “SE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 4; Y, SE REFORMA EL ARTÍCULO 59 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 15 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 438 POR EL QUE "SE REFORMAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 29; Y, SE ADICIONA LA FRACCIÓN X BIS AL ARTÍCULO 4, LA FRACCIÓN XIX AL ARTÍCULO 29 Y EL ARTÍCULO 67 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría de Educación en el Estado armonizará su normatividad en los 60 días siguientes de la entrada en vigor del presente Decreto.
+
+Tercero. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
+
+P.O. 15 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 466 POR EL QUE “SE ADICIONA EL ARTÍCULO 60 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
