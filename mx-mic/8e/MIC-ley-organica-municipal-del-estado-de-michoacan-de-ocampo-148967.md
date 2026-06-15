@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2026-06-04"
+last_updated: "2026-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2026.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -837,6 +837,10 @@ XXV. Proponer, y aprobar en su caso, el nombramiento y remoción de la Comisaria
 
 XXVI. Fomentar e impulsar la participación social, económica, cultural y política, dirigida a lograr la igualdad entre mujeres y hombres en todo el territorio municipal.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO 2026)</small>
+
+XXVII. Colaborar, en el ámbito de su competencia y de manera coordinada, con la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas y con el Poder Ejecutivo Federal, a través de sus dependencias y programas sectoriales, para la implementación, fortalecimiento y sostenibilidad de redes comunitarias de mujeres, con el fin de contribuir a la prevención de las violencias, la reconstrucción del tejido social, el empoderamiento territorial de las mujeres y la promoción de sus derechos humanos.
+
 b).- En materia de Administración Pública:
 
 I. Elaborar, presentar y publicar, en el curso de los cuatro primeros meses a partir de la fecha de la instalación del Ayuntamiento, el Plan Municipal de Desarrollo correspondiente a su período constitucional de gobierno;
@@ -1105,9 +1109,9 @@ IV. De Educación, Cultura, Turismo, Ciencia, Tecnología e Innovación;
 
 V. De Derechos Humanos y Grupos en Situación de Vulnerabilidad;
 
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO 2026)</small>
 
-VI. De la Mujer;
+VI. De la Mujer, la cual será presidida preferentemente por una mujer;
 
 > <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
 
@@ -1695,9 +1699,21 @@ VI. Participar en las ceremonias cívicas que realice el Ayuntamiento;
 
 VII. Participar en la supervisión de los estados financiero y patrimonial del Municipio y de la situación en general del Ayuntamiento;
 
-VIII. Solicitar y recibir toda información sobre los asuntos que se tratarán en las sesiones, en un plazo mínimo de 24 horas; y,
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2026)</small>
 
-IX. Las demás que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y otras disposiciones del orden municipal.
+VIII. Solicitar y recibir toda información sobre los asuntos que se tratarán en las sesiones, en un plazo mínimo de 24 horas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2026)</small>
+
+IX. Presentar un proyecto integral de trabajo en el ámbito de sus funciones, así como de las comisiones edilicias de las que formen parte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2026)</small>
+
+X. Acudir a las reuniones de trabajo a las que sean convocados, previas a la celebración de las sesiones del Ayuntamiento en las que traten temas de deuda pública a largo plazo, cuenta pública e informes trimestrales, en donde se analizará la documentación e información correspondiente; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JUNIO DE 2026)</small>
+
+XI. Las demás que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y otras disposiciones del orden municipal.
 
 ### CAPÍTULO XV. DE LA SECRETARÍA DEL AYUNTAMIENTO
 
@@ -1729,9 +1745,17 @@ XI. Dar a las y los integrantes del Cabildo antecedentes y anexos de la informac
 
 XII. Facilitar la información que le soliciten las y los integrantes del Cabildo;
 
-XIII. Presentar informes semestrales ante el Cabildo para su revisión de manera presencial, presentada por quien hace la propuesta, para verificar las fuentes de información y sustento; y,
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2026)</small>
 
-XIV. Las que determinen esta Ley, el Bando de Gobierno Municipal, los Reglamentos Municipales y las demás disposiciones aplicables.
+XIII. Presentar informes semestrales ante el Cabildo para su revisión de manera presencial, presentada por quien hace la propuesta, para verificar las fuentes de información y sustento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JUNIO DE 2026)</small>
+
+XIV. Convocar a reuniones de trabajo previas a la celebración de las sesiones del Ayuntamiento cuando se traten temas de deuda pública a largo plazo, cuenta pública e informes trimestrales, en las cuales deberá levantarse la minuta correspondiente; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JUNIO DE 2026)</small>
+
+XV. Las que determinen esta Ley, el Bando de Gobierno Municipal, los Reglamentos Municipales y las demás disposiciones aplicables.
 
 ###### Artículo 70.
 
@@ -2019,6 +2043,10 @@ Para ser Jefa o Jefe de Tenencia se requiere ser mayor de edad, vecino de la res
 
 Se requerirá credencial para votar expedida por el Instituto Nacional Electoral que corresponda con la sección en la que se está sufragando.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JUNIO 2026)</small>
+
+La elección de Jefas o Jefes de Tenencia deberá observar el principio de paridad de género, garantizando condiciones de igualdad para la participación de mujeres y hombres en los procesos de elección correspondientes.
+
 ###### Artículo 85.
 
 Tratándose de comunidades indígenas, que constituyan una Tenencia o Encargatura del Orden y estén reconocidas por el Instituto Nacional de Pueblos Indígenas, se podrá recurrir a formas de elección según usos y costumbres.
@@ -2030,6 +2058,10 @@ En aquellas comunidades que pertenezcan territorial y administrativamente a la J
 La Encargada o Encargado del Orden será electa o electo en una asamblea ciudadana en la que participarán las ciudadanas o ciudadanos que estén inscritos en la lista nominal de electores de la comunidad respectiva.
 
 Para ser Encargada o Encargado del Orden se requiere ser mayor de edad, vecina o vecino de la respectiva circunscripción, tener un modo honesto de vivir y contar con una instrucción de por lo menos educación básica, el Ayuntamiento expedirá la convocatoria respectiva, según su reglamentación municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JUNIO 2026)</small>
+
+La convocatoria para elección de Encargadas o Encargados del Orden se regirá por el principio de paridad de género en los cargos de elección popular. El Ayuntamiento deberá garantizar las condiciones de igualdad que contribuyan a la eliminación de cualquier clase de discriminación por razón de género en la elección de auxiliares de la Administración Pública Municipal.
 
 ###### Artículo 87.
 
@@ -3782,5 +3814,19 @@ P.O. 4 DE JUNIO DE 2026.
 P.O. 4 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 455.- ÚNICO. SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 57 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 15 DE JUNIO 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 464.- ÚNICO. SE REFORMAN LOS ARTÍCULOS 40, 50, 84 Y 86 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los ayuntamientos tendrán un plazo no mayor a 90 días naturales, para adecuar sus reglamentos, conforme a lo establecido en el presente Decreto.
+
+P.O. 15 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 465.- ÚNICO. SE REFORMAN LOS ARTÍCULOS 68 Y 69 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
