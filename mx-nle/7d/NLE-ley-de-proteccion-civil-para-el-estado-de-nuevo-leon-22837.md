@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-civil-para-el-estado-de-nuevo-leon-22837"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-22"
-last_updated: "2025-12-13"
+last_updated: "2026-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIOO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de enero de 1997.
 
@@ -700,6 +700,12 @@ Los establecimientos a que se refiere este ordenamiento, sean de competencia est
 ###### Artículo 46.
 
 En los establecimientos deberá colocarse en sitios visibles, equipos de seguridad, señales preventivas e informativas y equipo reglamentario.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2026)</small>
+
+###### Artículo 46 Bis.
+
+En los establecimientos donde se realicen eventos o espectáculos con afluencia masiva, públicos o privados, será obligatoria la difusión de contenido preventivo y de seguridad. La información deberá ser clara, accesible e inclusiva a través de los medios disponibles para su difusión, bajo la supervisión de la unidad interna de repuesta inmediata.
 
 ###### Artículo 47.
 
@@ -1434,3 +1440,13 @@ P.O. 13 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 097. SE ADICIONA UNA FRACCIÓN VIII BIS AL ARTÍCULO 15 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 15 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 215. SE ADICIONA EL ARTÍCULO 46 BIS A LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro del siguiente año calendario a la entrada en vigor del presente decreto, la Dirección de Protección Civil Estatal y su correspondiente Unidad de los Municipios del Estado de Nuevo León deberá de adecuar sus reglamentos y protocolos internos al contenido del presente decreto.
+
+TERCERO.- Dentro de un plazo de un año calendario a la entrada en vigor del presente decreto, la Dirección de Protección Civil deberá de emitir la reglamentación correspondiente a la difusión de contenido preventivo y de seguridad en eventos masivos para su cumplimiento por parte de la iniciativa privada y pública; debiendo señalar los criterios para la determinación de la naturaleza de un evento "masivo", así como el tipo de información que habrá de difundirse en los mismos.
