@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1247
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-06"
-last_updated: "2025-12-22"
+last_updated: "2026-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 6 de diciembre de 2017.
 
@@ -389,9 +389,17 @@ LIII. Integrar el Comité de adquisiciones de la Fiscalía General;
 
 LIV. Aprobar el Programa Anual de Adquisiciones de la Fiscalía General;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2026)</small>
 
-LV. Capacitar al personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres, tipos de violencia contra las mujeres, delitos que se cometen por razones de género, protocolos de actuación y atención a mujeres víctimas de violencia, perfiles y patrones de conducta de víctimas y victimarios, así como de lineamientos para la integración adecuada de carpetas de investigación; y
+LV. Capacitar al personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres, tipos de violencia contra las mujeres, delitos que se cometen por razones de género, protocolos de actuación y atención a mujeres víctimas de violencia, perfiles y patrones de conducta de víctimas y victimarios, así como de lineamientos para la integración adecuada de carpetas de investigación;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2026)</small>
+
+LV Bis. Coordinarse, con los tres órdenes de gobierno, para la implementación del Protocolo Homologado para la Búsqueda de Personas Desaparecidas para la ejecución de los procedimientos conducentes con el fin de la rápida localización de personas con reporte de desaparición en el Estado de Nuevo León;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2026)</small>
+
+LV Ter. La Fiscalía podrá celebrar convenios de colaboración con las compañías de comunicación móvil para la difusión, en tiempo real de Alertas correspondientes para agilizar la búsqueda y localización de personas con reporte de desaparición en el Estado de Nuevo León; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MAYO DE 2022)</small>
 
@@ -1416,3 +1424,13 @@ P.O. 22 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 159. SE REFORMAN LAS FRACCIONES VII DEL ARTÍCULO 2 Y VI DEL ARTÍCULO 10 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 219. SE REFORMA LA FRACCIÓN LV Y SE ADICIONAN LAS FRACCIONES LV BIS Y LV TER AL ARTÍCULO 14 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: La Fiscalía General de Justicia hará las modificaciones pertinentes en su Reglamento Interior en un plazo no mayor a los 90 días posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO: El Poder Ejecutivo del Estado contemplará en la Ley de Egresos para el ejercicio inmediato siguiente a la publicación del presente Decreto y subsecuentes, los recursos suficientes para que la Fiscalía General de Justicia del Estado de Nuevo León dé cumplimiento a las disposiciones de la presente reforma.
