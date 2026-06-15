@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2026-04-15"
+last_updated: "2026-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -1451,9 +1451,11 @@ III. Los Comités de Participación Comunitaria; y
 
 IV. Cualesquier organismo o institución del sector público, privado, social, empresarial o académico que se relacione con el objeto de este Título.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2026)</small>
+
 ###### Artículo 97.
 
-La participación ciudadana para la seguridad pública tiene por objeto promover, fomentar, difundir, discutir, analizar y evaluar aspectos vinculados con la prevención del delito, la cultura de la legalidad, de la denuncia ciudadana, la protección o autoprotección del delito y en general, cualquier actividad que se relacione con la materia de esta Ley, buscando sensibilizar a la ciudadanía sobre la importancia de colaborar, ya sea de manera individual u organizada, con las autoridades para el cumplimiento del objeto y fines que en la misma se establecen.
+La participación ciudadana para la seguridad pública tiene por objeto promover, fomentar, difundir, discutir, analizar y evaluar aspectos vinculados con la prevención del delito, la cultura de la legalidad, de la denuncia ciudadana, la protección o autoprotección del delito, el civismo práctico y en general, cualquier actividad que se relacione con la materia de esta Ley, buscando sensibilizar a la ciudadanía sobre la importancia de colaborar, ya sea de manera individual u organizada, con las autoridades para el cumplimiento del objeto y fines que en la misma se establecen.
 
 ###### Artículo 98.
 
@@ -4210,3 +4212,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- El Ejecutivo del Estado y los Ayuntamientos de los 51 municipios del Estado contarán con un plazo de 60 días contados a partir de la entrada en vigor del presente Decreto, para ajustar sus disposiciones reglamentarias a lo dispuesto por el mismo.
 
 TERCERO.- Se deroga cualquier disposición en lo que se oponga a lo preceptuado por el presente Decreto.
+
+P.O. 15 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 216. SE REFORMA EL ARTÍCULO 97 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
