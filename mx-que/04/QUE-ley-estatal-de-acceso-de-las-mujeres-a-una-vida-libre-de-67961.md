@@ -4,7 +4,7 @@ identifier: "QUE-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-67961"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2026-06-05"
+last_updated: "2026-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de marzo de 2009.
 
@@ -141,17 +141,17 @@ XV. Sexualidad: Son las manifestaciones comportamentales y actitudinales de los 
 
 XVI. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2026)</small>
 
-XVII. Tipos de violencia: Son las formas en que se inflige la violencia contra las mujeres, tales como psicológica, física, patrimonial, económica, sexual, simbólica o mediática;
+XVII. Tipos de violencia: Son las formas en que se inflige la violencia contra las mujeres, tales como psicológica, física, patrimonial, económica, sexual, simbólica, mediática y vicaria;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 XVIII. Víctima: La mujer que sufre cualquier tipo de violencia contra las mujeres; y
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2026)</small>
 
-XIX. Violencia contra las mujeres: Aquellas acciones u omisiones, basadas en su género, que produzcan un daño o afectación física, psicológica, patrimonial, económica, sexual o la muerte.
+XIX. Violencia contra las mujeres: Aquellas acciones u omisiones, basadas en su género, que produzcan un daño o afectación física, psicológica, patrimonial, económica, sexual y vicaria.
 
 ###### Artículo 5.
 
@@ -185,6 +185,10 @@ V. Violencia sexual: Actos de poder que degradan, controlan o dañan el cuerpo y
 
 VI. Violencia política: Acciones u omisiones cometidas por una o varias personas o a través de terceros, basadas en elementos de género que causen daño a una mujer y que tenga por objeto menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o prerrogativas inherentes a un cargo público;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2026)</small>
+
+VI. Bis Violencia Vicaria: Es la acción u omisión cometida por quien tenga o haya tenido una relación de matrimonio, concubinato o mantenga haya mantenido una relación de hecho o de cualquier otro tipo, por sí o por interpósita persona, que provoque la separación de la madre con sus hijas e hijos o persona vinculada significativamente a la mujer, a través de la retención, sustracción, ocultamiento, maltrato, amenaza, puesta en peligro o promoviendo mecanismos jurídicos y no jurídicos que retrasen, obstaculicen, limiten e impidan la convivencia, para manipular, controlar a la mujer o dañar el vínculo afectivo, que ocasionen o puedan ocasionar un daño psicoemocional, físico, patrimonial o de cualquier otro tipo a ella y a sus hijas e hijos;
+
 > <small>(ADICIONADA, P.O. 21 DE ENERO DE 2019)</small>
 
 VII. Violencia simbólica: Acto que, a través de patrones estereotipados, mensajes, valores, iconos o signos, transmita, reproduzca o incite la dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad; y
@@ -201,11 +205,13 @@ En lo no previsto por la presente Ley, se aplicarán supletoriamente la Ley Gene
 
 ### Capítulo Primero. De la violencia familiar
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2026)</small>
 
 ###### Artículo 8.
 
-Por violencia familiar se considera todo acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psico-emocional, patrimonial o sexualmente a las mujeres, cuyo agresor tenga parentesco por consanguineidad hasta el cuarto grado, tenga o haya tenido relación de parentesco por afinidad, civil, mantengan o hayan mantenido una relación de matrimonio, concubinato o de hecho.
+Por violencia familiar se considera todo acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psico-emocional, patrimonial, sexualmente o vicariamente a las mujeres, cuyo agresor tenga parentesco por consanguineidad hasta el cuarto grado, tenga o haya tenido relación de parentesco por afinidad, civil, mantengan o hayan mantenido una relación de matrimonio, concubinato o de hecho.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 Dicho acto u omisión puede ser único, recurrente o cíclico, cometido dentro o fuera del domicilio familiar, conyugal o particular.
 
@@ -1578,3 +1584,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía contrarias a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 15 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, “La Sombra de Arteaga”.
