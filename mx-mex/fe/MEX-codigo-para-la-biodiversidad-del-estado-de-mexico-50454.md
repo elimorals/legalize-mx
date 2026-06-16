@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2026-03-17"
+last_updated: "2026-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JUNIO DE 2026.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -7255,865 +7255,485 @@ Mientras se define el destino de los ejemplares la Secretaría velará por la pr
 
 115. Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en este Libro, el Reglamento y demás disposiciones que de éste se deriven y los que se obtengan del remate en subasta pública o la venta directa de productos o subproductos decomisados se destinarán a la integración de fondos para desarrollar programas, proyectos y actividades vinculados con la conservación de especies, así como con la inspección y la vigilancia en las materias a que se refiere este Libro.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
+
 # LIBRO SEXTO. DE LA PROTECCION Y BIENESTAR ANIMAL
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO I. DEL OBJETO
 
 ###### Artículo 6.
 
-1. El presente Libro tiene por objeto la protección de las especies animales domésticas de cualquier acción de crueldad que los martirice o moleste garantizando su bienestar y la preservación de las especies y cuidar a los animales sujetos al dominio, posesión, control, uso y aprovechamiento por el ser humano, estableciendo las bases para:
-
-I. Evitar el trato y las conductas irresponsables hacia los animales domésticos y establecer los criterios de sostenibilidad para proteger y asegurar la vida de éstos, así como prevenir el deterioro al medio ambiente;
-
-II. Propiciar el aprovechamiento y el uso racional de las especies domésticas impidiendo la crueldad, el sufrimiento y el maltrato hacia cualquier especie animal doméstica;
-
-III. Impulsar las técnicas de desarrollo de especies animales domésticas y su racional explotación para fines alimenticios, de preservación ecológica y de aprovechamiento económico utilizando las técnicas más modernas que impidan la crueldad y el sufrimiento en los procesos de su aplicación;
-
-IV. Fomentar la educación y cultura ambiental, el conocimiento, el cuidado y protección al medio ambiente y en lo que se refiere a las especies animales domésticas controlar la reproducción y el desarrollo de la fauna nociva mediante sistemas que eviten la crueldad hacia los animales domésticos y no pongan en peligro la salud humana, la existencia o supervivencia del resto de la fauna; y
-
-V. Establecer y aplicar las medidas convenientes para erradicar el sufrimiento y la crueldad innecesaria hacia los animales.
-
-En todo lo no previsto en el presente Libro se aplicarán las disposiciones contenidas en otras leyes, reglamentos, normas y demás ordenamientos jurídicos relacionados con las materias que regula este Libro.
+1. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-2. Para los efectos de este Libro además de los conceptos definidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley Federal de Sanidad Animal y las normas oficiales mexicanas se entenderá por:
-
-I. Animales: Las especies domésticas que dependen del ser humano para subsistir y que habitan con éste de forma regular que han sufrido cambios evolutivos en su comportamiento, se han adaptado para convivir con la especie humana y son utilizados para cumplir con diferentes funciones como en el deporte, el adiestramiento para trabajos y actividades conjuntas con el ser humano, para espectáculos, guías, de terapia, de exhibición o de producción destinados para la alimentación humana o animal entre otras actividades análogas;
-
-II. Asociaciones protectoras de animales: Las instituciones de asistencia privada, organizaciones no gubernamentales y asociaciones civiles legalmente constituidas que dediquen sus actividades a la protección y bienestar animal;
-
-III. Bienestar animal: Salud física y emocional producto de la satisfacción de sus necesidades biológicas y la respuesta fisiológica adecuada para enfrentar o sobrellevar cambios en el entorno normalmente generados por el ser humano;
-
-IV. Crueldad: El acto de brutalidad, sádico o zoofílico contra cualquier animal;
-
-V. Epizootia: La enfermedad que se presenta en una población animal durante un intervalo dado con una frecuencia mayor a la esperada;
-
-VI. Maltrato: Todo hecho, acto u omisión consciente que ocasiona dolor, sufrimiento y pone en peligro la salud y la vida del animal, así como la explotación excesiva en el desempeño su trabajo;
-
-VII. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor, ni sufrimiento innecesario por métodos físicos o químicos atendiendo a las normas oficiales mexicanas y las normas técnicas estatales expedidas para tal efecto;
-
-VIII. Sufrimiento: El padecimiento o dolor innecesario por daño físico o emocional a cualquier animal;
-
-IX. Trato digno y respetuoso: Las medidas que el presente Libro, su Reglamento, las normas técnicas estatales que a su efecto se expidan y las que las normas oficiales mexicanas establecen para evitar dolor innecesario o angustia durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio de los animales;
-
-X. Vivisección: Abrir vivo a un animal; y
-
-XI. Zoonosis: La transmisión de enfermedades entre seres humanos y animales.
-
-###### Articulo 6.
-
-3. Son objeto de tutela y protección de este Libro todos los animales domésticos, tales como:
-
-I. Los de compañía;
-
-II. Los abandonados y callejeros;
-
-III. los deportivos;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-IV. Los guías, de utilidad para las actividades con personas discapacitadas;
-
-V. los que se utilizan para la práctica de la animaloterapia en cualquiera, de sus formas;
-
-VI. Los que se utilizan para exhibición y para espectáculos;
-
-VII. Los de producción y abasto;
-
-VIII. Los de monta, carga y tiro;
-
-IX. Los que se utilizan en la experimentación biomédica;
-
-X. Los que se utilizan en la práctica de vigilancia, defensa, custodia, seguridad, guardia o protección;
-
-XI. Los que se utilizan para la práctica en actividades cinegéticas;
-
-XII. Los de búsqueda, rescate, auxilio o socorro;
-
-XIII. Los que se utilizan para el adiestramiento de detección de estupefacientes, armas, explosivos o acciones análogas;
-
-XIV. Los utilizados en la cetrería;
-
-XV. Las mascotas;
-
-XVI. Los que se comercializan en cualquiera de sus formas; y
-
-XVII. Todos los animales domésticos que son utilizados para el aprovechamiento y uso en actividades humanas.
-
-###### Articulo 6.
-
-4. Las autoridades del Estado de México y la sociedad en general reconocen los siguientes principios:
-
-l. Toda persona tiene la obligación de proteger a los animales;
-
-II. Ningún ser humano puede exterminar a los animales o explotarlos para ejecutar trabajos más allá de aquellos que por sus características de especie puedan realizar, con la obligación de ponerles la atención debida;
-
-III. Los dueños o poseedores de animales, tienen la obligación de brindarles la atención y cuidado que requieran;
-
-IV. Los dueños o poseedores de un animal que viva tradicionalmente en su entorno, tienen la obligación de dejarlo crecer al ritmo y en condiciones que sean propias de su especie y de gozar de libertad para expresar su conducta natural;
-
-V. Los dueños o poseedores de animales que les sirven de compañía tiene la obligación a dejar que su vida sea conforme a su longevidad natural, a no sufrir incomodidad, a no padecer en exceso hambre o sed y tener la protección y el cuidado contra el dolor, lesiones o enfermedad;
-
-VI. Los dueños o poseedores de animales de trabajo, tienen la obligación de sujetarlos a un límite razonable de e (sic) intensidad de la jornada, a una alimentación reparadora, al reposo y a ser protegido contra el temor y el estrés asegurando las condiciones y trato que les evite ansiedad o sufrimiento;
-
-VII. Todo acto que implique la muerte innecesaria de un animal es un ataque contra el medio ambiente;
-
-VIII. Cualquier acto que implique la muerte de un gran número de animales es un ataque contra la especies;
-
-IX. En la experimentación con fines científicos con animales se procurará evitar el sufrimiento físico o emocional;
-
-X. Las técnicas alternativas deben ser utilizadas y desarrolladas siempre que se justifique como utilidad para el conocimiento biomédico, de la salud del ser humano y de los animales de su bienestar y de su productividad;
-
-XI. La enseñanza de la protección y el bienestar animal es un elemento indispensable de las instituciones educativas. La investigación es indispensable para alcanzar los objetivos de los programas de estudio promoviendo la cultura de salvaguarda de los animales en cualquier actividad del ser humano;
-
-XII. Los desechos de los animales vivos como heces fecales y de las especies muertas como sus partes y derivados deben ser tratados de forma que no provoquen daños a la salud pública;
-
-XIII. Por ningún motivo podrá ser obligada o coaccionada ninguna persona, para provocar daño, lesión o la muerte de algún animal y podrá invocar el presente Libro en su defensa.
-
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+2. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-5. Toda persona tiene derecho a que las autoridades competentes pongan a su disposición la información que le soliciten en materia de trato digno y respetuoso a los animales por lo que el procedimiento se sujetará a lo previsto en este Código y en lo que dispone la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios relativo al derecho a la información. Asimismo, toda persona física o jurídica colectiva que tenga trato o maneje animales tiene la obligación de proporcionar la información que le sea requerida por las autoridades.
+3. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
+
+###### Artículo 6.
+
+4. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
+
+###### Artículo 6.
+
+5. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO II. DE LA COMPETENCIA
 
 ###### Artículo 6.
 
-6. Las autoridades a las que este Libro hace referencia quedan obligadas a vigilar y exigir el cumplimiento de las disposiciones contenidas en el presente Ordenamiento en el marco de sus concernientes competencias.
-
-###### Articulo 6.
-
-7. Corresponde al Ejecutivo Estatal en el marco de sus respectivas competencias el ejercicio de las siguientes facultades:
-
-I. Expedir las normas técnicas estatales para el Estado de México en las materias que este Libro establece:
-
-II. Expedir el Reglamento y demás disposiciones necesarias para el cumplimiento del presente Libro:
-
-III. Celebrar convenios de coordinación con las autoridades federales para la vigilancia de las leyes y normas oficiales mexicanas relacionadas con la materia de este Libro;
-
-IV. Crear los instrumentos económicos adecuados para incentivar a las organizaciones ciudadanas legalmente constituidas y registradas dedicadas a la protección y bienestar de los animales y para el desarrollo de programas de educación y difusión en las materias del presente Libro a través de las asociaciones, federaciones o colegios de médicos veterinarios zootecnistas del Estado de México o de la República Mexicana; y
-
-V. Las demás que le confiera este Libro, su Reglamento y los ordenamientos jurídicos aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+6. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-8. Corresponde a la Secretaría del Medio Ambiente y Desarrollo Sostenible del Estado de México, en el ámbito de su competencia el ejercicio de las siguientes facultades:
-
-I. La promoción de información y difusión que genere una cultura cívica de protección, responsabilidad, respeto y trato digno a los animales:
-
-II. El desarrollo de programas de educación y capacitación en materia de trato digno y respetuoso a los animales en coordinación con las autoridades competentes relacionadas con las instituciones de educación básica, media y superior de jurisdicción del Estado, así como con las organizaciones no gubernamentales legalmente constituidas y el desarrollo de programas de educación formal e informal con el sector social, privado y académico;
-
-III. La regulación para el manejo, control y remediación de los problemas asociados a los animales abandonados y callejeros;
-
-IV. La celebración de convenios de concertación con los sectores social y privado;
-
-V. La expedición de certificados de venta de animales a los establecimientos comerciales, ferias, exposiciones y bazares que se dediquen a la venta de mascotas y llevar el padrón de animales con la información que se recabe de la expedición de estos certificados, asimismo los establecimientos deberán expedir un certificado de salud de las mascotas y animales de compañía que vendan donde se manifieste el estado de salud, la raza, el nombre común o científico y la edad del animal que comercializan expedidos únicamente por médicos veterinarios con cédula profesional;
-
-VI. Proponer al Ejecutivo Estatal en coordinación con la Secretaría de Salud el Reglamento del presente Libro y las normas técnicas estatales relativas a la materia de este Ordenamiento;
-
-VII. Crear y operar el padrón de las asociaciones protectoras de animales, asociaciones y colegios de médicos veterinarios zootecnistas, federaciones relativas y de organizaciones sociales dedicadas al mismo objeto, así como el Padrón de Animales del Estado de México; y
-
-VIII. Las demás que este Libro y aquellos ordenamientos jurídicos aplicables le confieran.
+7. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-9. Corresponde a los Municipios en coordinación con la Secretaría de Salud del Estado el ejercicio de las siguientes facultades:
-
-I. Establecer y regular los centros de control animal de su competencia;
-
-II. Proceder al sacrificio humanitario de animales, habilitar centros de incineración para animales y ponerlos a la disposición de toda autoridad y personas que lo requieran; y
-
-III. Proceder a capturar animales abandonados y callejeros en la vía pública o en el campo respectivamente en los términos del presente Libro y canalizarlos a los centros de control animal o a las asociaciones protectoras de animales legalmente constituidas; y
-
-IV. En el caso de los animales que se encuentren muertos en la vía pública serán recogidos por las autoridades municipales.
+8. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-10. Son facultades de la Procuraduría de Protección al Ambiente del Estado de México:
-
-I. Vigilar el cumplimiento de las disposiciones del presente Libro y demás ordenamientos que de éste emanen derivadas de la presentación de denuncia ciudadana cuando el acto u omisión involucre a dos o más Municipios o cuando los hechos ameriten su participación tratándose de alguna emergencia, aún sin mediar denuncia interpuesta y poner a disposición de las autoridades competentes a quién infrinja las disposiciones de este Libro;
-
-II. Dar aviso a las autoridades municipales competentes cuando la tenencia de alguna especie de fauna doméstica no cuenten con el registro y la autorización necesaria de acuerdo a la legislación aplicable en la materia, así como a quienes comercialicen con animales domésticos sus productos o subproductos sin contar con las autorizaciones correspondientes;
-
-III. Emitir recomendaciones a las autoridades competentes en las materias derivadas del presente Libro con el propósito de promover el cumplimiento de sus disposiciones y sancionar cuando corresponda; y
-
-IV. Las demás que este Libro, su Reglamento y demás disposiciones jurídicas aplicables le confieran.
+9. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-11. Los Municipios ejercerán las siguientes facultades en el ámbito de su competencia:
+10. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
-I. Difundir por cualquier medio las disposiciones tendientes al trato digno y respetuoso a los animales y señalizar en espacios idóneos de la vía pública las sanciones derivadas por el incumplimiento del presente Libro;
+###### Artículo 6.
 
-II. Establecer y regular los centros de control de animales de su competencia;
+11. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
-III. Proceder a capturar animales abandonados y callejeros en la vía pública en los términos de este Libro y canalizarlos a los centros de control animal, refugios o criaderos legalmente establecidos o a las instalaciones para el resguardo de animales de las asociaciones protectoras de animales legalmente constituidas y registradas;
-
-IV. Verificar cuando exista denuncia sobre ruidos, hacinamiento, falta de seguridad e higiene y olores fétidos que se producen por la crianza o reproducción de animales en detrimento del bienestar animal y la salud humana:
-
-V. Celebrar convenios de concertación con los sectores social y privado;
-
-VI. Proceder al sacrificio humanitario de los animales en los términos del presente Libro;
-
-VII. Supervisar y llevar control sobre los criaderos, establecimientos, instalaciones, transporte, espectáculos públicos, bazares, mercados públicos y tianguis en los que se manejen animales domésticos;
-
-VIII. Impulsar campañas de concientización para fomentar el trato digno y respetuoso a los animales:
-
-IX. Conocer a través de la unidad administrativa correspondiente cualquier hecho acto u omisión derivado del incumplimiento del presente Libro, su Reglamento y demás disposiciones jurídicas aplicables y emitir las sanciones correspondientes salvo aquellas que estén expresamente atribuidas a otras autoridades. Para el seguimiento de esta atribución deberá contar con personal debidamente capacitado en las materias de este Libro para dar curso a las denuncias;
-
-X. Establecer campañas de vacunación antirrábica, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación y esterilización en coordinación con la Secretaría de Salud, federaciones, asociaciones y colegios de médicos veterinarios zootecnistas; y
-
-XI. Las demás que el presente Libro y demás ordenamientos jurídicos aplicables les confieran.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO III. DE LA PARTICIPACION CIUDADANA
 
 ###### Artículo 6.
 
-12. Los particulares y las asociaciones protectoras de animales, las federaciones y asociaciones relacionadas con la materia de este Libro y los colegios de médicos veterinarios zootecnistas prestarán su cooperación para alcanzar los fines del presente Ordenamiento.
+12. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-13. Las autoridades competentes promoverán la participación de las personas, las asociaciones protectoras de animales, las federaciones y colegios de médicos veterinarios zootecnistas, las organizaciones sociales legalmente constituidas, las instituciones académicas y de investigación en las acciones gubernamentales relacionadas con el trato digno y respetuoso a los animales, así como podrán celebrar convenios de concertación con éstas.
-
-La Secretaría creará el padrón de asociaciones protectoras de animales, federaciones, asociaciones y colegios de médicos veterinarios zootecnistas y organizaciones sociales dedicadas al mismo objeto como instrumento que permite conocer su número y actividades que realicen, así como para ser beneficiarias de estímulos y coadyuvar en la observancia de las tareas definidas en el presente Libro conforme a lo que establezca el Reglamento.
+13. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-14. Los Municipios podrán celebrar convenios de concertación con las asociaciones protectoras de animales para apoyar en la captura de los animales abandonados y callejeros en la vía pública y los entregados por sus dueños, y remitirlos a los centros públicos de control animal o a los refugios legalmente autorizados de las asociaciones protectoras de animales y en el caso del sacrificio humanitario de animales siempre y cuando cuenten con el personal capacitado debidamente acreditado y autorizado para dicho fin. La Procuraduría de Protección al Ambiente del Estado de México será la autoridad encargada de vigilar el cumplimiento de los convenios.
-
-El Reglamento del presente Libro establecerá los requisitos y las condiciones para la celebración de estos convenios, así como para su cancelación.
+14. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-15. Los Municipios y la Secretaría de Salud según corresponda autorizarán la presencia como observadores de hasta dos representantes de las asociaciones protectoras de animales que así lo soliciten cuando se realicen actos de sacrificio humanitario de animales en las instalaciones públicas destinadas para dicho fin y como cuando se realicen visitas de verificación a establecimientos que manejen animales.
+15. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO IV. DEL FONDO PARA LA PROTECCION A LOS ANIMALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+###### Artículo 6.
+
+16. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-16. Se crea el Fondo para la Protección a los Animales del Estado de México que dependerá de la Secretaría del Medio Ambiente y Desarrollo Sostenible cuyos recursos se destinarán a:
+17. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
-I. El fomento de estudios e investigaciones para mejorar los mecanismos de la protección a los animales;
-
-II. La promoción de campañas de esterilización y control de heces fecales en la vía pública;
-
-III. El desarrollo de programas de educación, difusión y fomento de la cultura del cuidado y la protección a los animales;
-
-IV. El desarrollo de las acciones establecidas en los convenios que la Secretaría establezca con los sectores social, privado, académico, federaciones, confederaciones, asociaciones y colegios de médicos veterinarios zootecnistas y de investigación en las materias del presente Libro; y
-
-V. Las demás que este Libro, su Reglamento y otros ordenamientos jurídicos establezcan.
-
-###### Artículo 6.
-
-17. El Fondo se regirá por un consejo técnico establecido conforme a lo dispuesto en el Reglamento. Los recursos del Fondo se integrarán con:
-
-I. Las herencias, legados y donaciones que reciba;
-
-II. Los recursos destinados para ese efecto en el Presupuesto de Egresos del Estado de México;
-
-III. Los productos de sus operaciones y de la inversión de fondos; y
-
-IV. Los demás recursos que se generen por cualquier otro concepto en relación con la protección y bienestar animal.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO V. DE LAS NORMAS TECNICAS ESTATALES
 
 ###### Artículo 6.
 
-18. La Secretaría en coordinación con la Secretaría de Salud emitirá en el ámbito de su competencia las normas técnicas estatales como criterios generales de carácter obligatorio las cuales tendrán por objeto establecer los requisitos, especificaciones, condiciones, parámetros y límites permisibles en el desarrollo de una actividad humana para:
+18. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
-I. El trato digno y respetuoso a los animales en los centros de control animal;
-
-II. El control de animales abandonados y callejeros, así como la incineración de animales muertos;
-
-III. El bienestar animal en zoológicos, criaderos, reservas o centros de rehabilitación; y
-
-IV. Las limitaciones razonables del tiempo e intensidad de trabajo que realizan los animales para monta, carga y tiro, para espectáculos o en cualquier otra actividad que produzca sufrimiento o ansiedad en los animales.
-
-Para la elaboración de las normas técnicas estatales será tomada en cuenta la opinión de asociaciones protectoras de animales, federaciones, asociaciones y colegios de médicos veterinarios zootecnistas, organizaciones sociales, universidades, academias, centros de investigación y en general a la sociedad en temas de la materia que ocupa este Libro.
-
-El procedimiento para la elaboración de las normas técnicas estatales se definirá en el Reglamento del presente Libro.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO VI. DE LA CULTURA Y EDUCACION PARA LA PROTECCION Y CUIDADO A LOS ANIMALES
 
 ###### Artículo 6.
 
-19. Las autoridades competentes del Estado de México y los Municipios en el ámbito de sus atribuciones promoverán mediante programas y campañas de difusión la educación y cultura del cuidado y protección a los animales domésticos consistente en valores y conductas de respeto, procurando el bienestar por parte del ser humano hacia los animales con base en las disposiciones establecidas en el presente Libro en materia de trato digno y respetuoso.
+19. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-20. La Secretaría promoverá con las autoridades competentes que las instituciones de educación básica, media, superior y de investigación cuya jurisdicción sea para el Estado, así como con las organizaciones no gubernamentales y asociaciones protectoras de animales, federaciones, asociaciones y colegios de médicos veterinarios zootecnistas legalmente constituidas y registradas en el padrón correspondiente el desarrollo de programas de formación educativa en la cultura de protección, cuidado y bienestar dirigidos a los animales.
+20. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-21. La Secretaría promoverá ante las instancias correspondientes y participará en la capacitación y actualización del personal en el trato, sociabilización, interacción y manejo de animales domésticos y en actividades de inspección y vigilancia a través de cursos, talleres, reuniones, publicaciones y demás proyectos, programas y acciones que contribuyan a los objetivos del presente Capítulo.
+21. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO VII. DEL TRATO DIGNO Y RESPETUOSO A LOS ANIMALES
 
 ###### Artículo 6.
 
-22. Toda persona, física o jurídica colectiva tiene la obligación de brindar un trato digno y respetuoso a cualquier animal.
+22. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-23. Se consideran actos de crueldad y maltrato doloso o culposo que deben ser sancionados conforme lo establecido en el presente Libro y demás ordenamientos jurídicos aplicables los siguientes actos realizados en perjuicio de cualquier animal, intencional o imprudencialmente provenientes de sus propietarios, poseedores, encargados o de terceros que entren en relación con ellos:
-
-I. Causarles la muerte utilizando cualquier medio que prolongue la agonía o provoque sufrimiento innecesario;
-
-II. El sacrificio de animales empleando métodos diversos a los establecidos en las normas oficiales mexicanas y en las normas técnicas estatales;
-
-III. Cualquier mutilación orgánica grave, alteración de la integridad física o modificación negativa de sus instintos naturales que no se efectúe bajo causa justificada y cuidado de un médico veterinario zootecnista con cédula profesional;
-
-IV. Todo hecho, acto u omisión que pueda ocasionar dolor o sufrimiento considerable y poner en peligro la vida o salud del animal o que afecten el bienestar del mismo;
-
-V. Descuidar la morada y las condiciones de movilidad, higiene y albergue de un animal al grado de que se le pueda causar un exceso de sed, insolación, dolores considerables, lesiones o se atenté contra su salud por no aplicar en su caso con toda oportunidad sistemáticamente las vacunas correspondientes y desparasitaciones conforme a las especificaciones médicas veterinarias establecidas;
-
-VI. Torturar, golpear o maltratar a un animal por maldad, brutalidad, egoísmo o negligencia grave;
-
-VII. No brindarles atención médica cuando lo requieran o lo determinen las condiciones para la salud y el bienestar animal;
-
-VIII. Azuzar a los animales para que se ataquen entre ellos o a las personas y hacer de las peleas provocadas de esa forma un espectáculo público o privado;
-
-IX. Toda privación de aire, luz, alimento, agua, espacio y abrigo contra la intemperie, cuidados médicos, alojamiento adecuado y que acorde a su especie le cause o pueda causar un daño a la vida del animal;
-
-X. El abandono deliberado de los animales en la vía pública por períodos prolongados en bienes de propiedad de particulares;
-
-XI. La destrucción injustificada de los huevos de las especies con un fin distinto al consumo;
-
-XII. El no recoger y retirar las heces fecales de sus mascotas en lugares públicos y el no depositarlas en lugares adecuados; y
-
-XIII. Las demás que establezcan el presente Libro y demás ordenamientos jurídicos aplicables.
+23. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-24. Queda prohibido por cualquier motivo:
-
-I. La utilización de animales en protestas, marchas, plantones o en cualquier otro acto análogo provocando un sufrimiento o maltrato innecesario;
-
-II. El uso de animales vivos como instrumento de entrenamiento en animales de guardia, de ataque o como medio para verificar su agresividad salvo en la cetrería y en el entrenamiento de animales para fines cinegéticos siempre y cuando medie autoridad competente, asociaciones autorizadas o profesionales certificados en la materia;
-
-III. El obsequio, distribución o venta de animales vivos para fines de propaganda política y como premios en sorteos, juegos, concursos, rifas y loterías;
-
-IV. La venta de animales vivos a menores de catorce años de edad si no están acompañados por una persona mayor de edad quien se responsabilice ante el vendedor por el menor de la adecuada subsistencia, trato digno y respetuoso para el bienestar del animal;
-
-V. La venta de animales en la vía pública;
-
-VI. La venta de animales vivos en tiendas departamentales, tiendas de autoservicio y en cualquier otro establecimiento cuyo giro comercial autorizado sea diferente al de la venta de animales;
-
-VII. Celebrar espectáculos con animales en la vía pública sin previa autorización de las autoridades competentes;
-
-VIII. La celebración de peleas entre animales, así como facilitar inmuebles aún a título gratuito para que tengan lugar dichos combates quedando estrictamente prohibidas las peleas de perros y entre cualquier mamífero, peces o aves;
-
-IX. Hacer ingerir bebidas alcohólicas o suministrar drogas sin fines terapéuticos a un animal;
-
-X. El adiestramiento de perros de guardia y protección en áreas comunes o en lugares en los que se atente contra la integridad física o salud de las personas u otros animales;
-
-XI. El uso y tránsito de vehículos de tracción animal en vialidades asfaltadas que no estén hechas para ese uso y para fines distintos al uso agrícola;
-
-XII. La comercialización de animales enfermos, con lesiones, traumatismos, fracturas o heridas;
-
-XIII. El uso de animales en la celebración de ritos y usos tradicionales que puedan afectar el bienestar animal;
-
-XIV. El ofrecimiento de cualquier clase de alimento u objetos a los animales en los centros zoológicos o espectáculos públicos o en cualquier otra situación cuya ingestión pueda causarles daño físico, enfermedad o muerte; y
-
-XV. El trafico ilegal de cualquier especie animal doméstica.
-
-Quedan exceptuadas de sanción las charreadas, lidia de toros, novillos o becerros y el adiestramiento de animales de seguridad y guardia con fines cinegéticos o de rescate y otras actividades contenidas en el presente Libro siempre que no se realicen en lugares ex profesos para cada actividad en particular las que habrán de sujetarse a lo dispuesto en las leyes, reglamentos y demás ordenamientos jurídicos aplicables.
+24. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-25. Cualquier persona que tenga conocimiento de un acto, hecho u omisión en perjuicio de los animales objeto de tutela del presente Libro tiene la obligación de informar a la autoridad competente de la existencia del mismo.
+25. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO VIII. DE LA PROTECCION, PROPIEDAD Y POSESION DE ANIMALES DOMESTICOS
 
 ###### Artículo 6.
 
-26. Toda persona física o jurídica colectiva que se dedique a la cría, venta o adiestramiento de animales está obligada a contar con la autorización correspondiente, a valerse de los procedimientos más adecuados y disponer de todos los medios necesarios a fin de que los animales en su desarrollo reciban un trato digno y respetuoso de acuerdo con los adelantos científicos en uso y puedan satisfacer el comportamiento natural de su especie y cumplir con las normas oficiales mexicanas y las normas técnicas estatales correspondientes. La propiedad o posesión de cualquier animal obliga al poseedor a inmunizarlo contra enfermedades de riesgo zoonótico o epizoótico graves propias de la especie. Asimismo deberán tomar las medidas necesarias con el fin de no causar molestias a sus vecinos por ruido y malos olores.
-
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
-
-Toda persona física o jurídica colectiva, federación, asociación o empresa que se dedique al adiestramiento de perros de seguridad o detectores y en las demás disciplinas deberán contar con un certificado expedido por los Municipios, y en el caso de las unidades caninas de los Ayuntamientos y de la Dirección de Seguridad Pública Estatal deberán adquirirlo por conducto de la Secretaría del Medio Ambiente y Desarrollo Sostenible en los términos establecidos en el Reglamento del presente Libro.
+26. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-27. La posesión de un animal doméstico manifiestamente feroz o peligroso por su naturaleza requiere de autorización de las autoridades estatales o municipales que correspondan. Si su propietario, poseedor o encargado permite que deambule libremente en la vía pública sin bozal y correa adecuada será sancionado en los términos de este Libro.
+27. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO IX. DE LAS MASCOTAS
 
 ###### Artículo 6.
 
-28. Toda persona que sea propietaria, esté encargada o posea una mascota está obligado a procurarle alimentación y cuidados apropiados a su modo de vida.
+28. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-29. Toda persona deberá recoger las heces fecales en la vía pública y en el lugar dormitorio del animal y aplicar las vacunas preventivas e inmunizaciones de enfermedades transmisibles conforme a la disposición reglamentaria correspondiente.
+29. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-30. Todo propietario, poseedor o encargado de una mascota que voluntariamente lo abandone y cauce por tal motivo un daño a terceros será responsable del animal y de los perjuicios (sic) éste ocasione.
+30. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-31. Previa venta de cualquier mascota ésta deberá estar desparasitada y vacunada si lo amerita de acuerdo a la especie y se expedirá un certificado de salud por un médico con cédula profesional haciendo constar que se encuentra libre de enfermedad aparente incluyendo calendario de desparasitación y vacunación correspondientes.
+31. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-32. Los establecimientos comerciales, ferias, bazares, mercados públicos, criaderos y lugares de exposición animal que se dediquen a la venta de mascotas están obligados a expedir un certificado de venta autorizado por la Secretaría a la persona que adquiera el animal el cual deberá contener por lo menos:
-
-I. Especie o raza de que se trate;
-
-II. Sexo y edad del animal;
-
-III. Nombre y número de cédula profesional del médico veterinario zootecnista;
-
-IV. Nombre del propietario;
-
-V. Domicilio del propietario; y
-
-VI. Las demás que establezca el Reglamento.
-
-Dichos establecimientos comerciales están obligados a presentar trimestralmente los certificados expedidos a la Secretaría para que ésta los incorpore en el Padrón de Animales Domésticos del Estado de México.
-
-Asimismo están obligados a otorgar al comprador un manual de cuidado, albergue y dieta del animal adquirido que incluya los riesgos ambientales de su liberación al medio natural o urbano y las faltas a las que están sujetos por el incumplimiento de las disposiciones del presente Libro. Dicho manual deberá estar certificado por un médico veterinario zootecnista que cuente con cédula profesional.
-
-Los particulares deberán inscribir a sus mascotas en el Padrón de Animales Domésticos del Estado de México.
+32. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-33. Toda persona que compre o adquiera por cualquier medio una mascota está obligada a cumplir con las disposiciones correspondientes establecidas en este Libro y demás ordenamientos jurídicos aplicables.
-
-El propietario de cualquier mascota está obligado a colocarles permanentemente una placa de identificación en la que constarán al menos los datos generales del propietario si es que la especie lo tolera de acuerdo a sus características físicas. En la portación de la placa se excluyen los peces de ornato y en las que sea imposible su colocación porque vaya en contra de la lógica. Asimismo serán responsables de recoger las heces fecales de la mascota cuando transite con ella en la vía pública y depositarlas en lugar adecuado.
-
-Toda persona que no pueda hacerse cargo de su mascota está obligada a buscarle alojamiento y cuidado y bajo ninguna circunstancia podrá abandonarlos en la vía pública o en zonas rurales.
+33. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-34. Todo propietario, poseedor o encargado de una mascota está obligado a colocarle una correa al transitar con ella en la vía pública y tienen la responsabilidad de los daños y perjuicios o lesiones que le ocasione a terceros si permite que transite libremente en la vía pública o que lo abandone, de acuerdo a las disposiciones del presente Libro y de los demás ordenamientos jurídicos aplicables.
-
-Las indemnizaciones correspondientes serán exigidas mediante el procedimiento que señalen los ordenamientos aplicables y el responsable podrá ser sancionado administrativamente en los términos de este Libro.
+34. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-35. Los animales que asistan a personas con alguna discapacidad o que por prescripción médica deban acompañarse de algún animal tienen libre acceso a todos los lugares y servicios públicos salvo los que pudieran poner en peligro al animal o las personas.
+35. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO X. DE LOS ANIMALES ABANDONADOS Y CALLEJEROS
 
 ###### Artículo 6.
 
-36. Los animales domésticos abandonados, perdidos o callejeros cuyo dueño se ignore se reputarán como mostrencos para todos los efectos legales, y deberán ser retenidos y custodiados por las autoridades en lugares adecuados o apropiados y confinados a las asociaciones protectoras de animales.
+36. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-37. La captura de animales en la vía pública sólo puede realizarse cuando los animales deambulen sin dueño aparente ni placa de identidad y deberán ser libres de maltrato.
-
-La captura no se llevará a cabo si una persona comprueba ser propietaria del animal, excepto cuando visiblemente sea indispensable para mantener el orden o para prevenir zoonosis o epizootias en coordinación con las dependencias encargadas de la sanidad animal previa identificación.
-
-Se sancionará a aquella persona que agreda al personal encargado de la captura de animales abandonados y que causen algún daño a vehículos o al equipo utilizado para tal fin.
+37. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-38. El dueño podrá reclamar a su mascota que haya sido remitida a cualquier centro de control animal dentro de los tres días hábiles siguientes a su captura debiendo comprobar su propiedad o posesión mediante documento expedido por el Padrón de Animales Domésticos del Estado de México o cualquier documento que acredite la legítima propiedad, o llevar testigos que bajo protesta de decir verdad ante la autoridad testifiquen la auténtica propiedad o posesión de la mascota del reclamante.
+38. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
-En caso de que no sea reclamada a tiempo por el dueño las autoridades la destinarán para su adopción a asociaciones protectoras de animales inscritas en el padrón correspondiente que se comprometan a su cuidado y protección o a sacrificarlos humanitariamente si se considera necesario.
-
-Es responsabilidad de los centros de control animal o cualquier institución que los ampare temporalmente alimentar adecuadamente y dar de beber agua limpia a todo animal que se retenga.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO XI. DE LAS ESPECIES DOMESTICAS EN PARQUES DE EXPOSICION ANIMAL
 
 ###### Artículo 6.
 
-39 Las especies que se muestren en parques de exposición animal como granjas de exhibición que operen en el Estado estarán a cargo de las autoridades estatales o municipales y se ajustarán a los reglamentos de funcionamiento que al efecto expidan las autoridades competentes y tendrán como objetivo central la educación biológica y ambiental, el respeto al medio ambiente y la protección para reproducción y desarrollo de las especies.
+39. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-40 Los parques de exposición de animales domésticos que operen en el Estado deberán mantener a los animales en instalaciones amplias de manera que se les permita la libertad de movimiento y la satisfacción de sus necesidades vitales y asegurar las condiciones de seguridad pública e higiene. Iguales medidas deberán adoptar los circos y ferias que exhiban o utilicen animales.
+40. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-41 Las autoridades estatales podrán autorizar la operación de parques de exposición animal que operen en el Estado a cargo de particulares, cuando éstos cubran los requisitos sanitarios y los reglamentos de funcionamiento y seguridad pública que emitan las autoridades competentes.
+41. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-42. Los particulares que obtengan las autorizaciones de funcionamiento a que se refiere el artículo anterior deberán cumplir estrictamente con las disposiciones del presente Libro y demás disposiciones aplicables a fin de mantener su autorización de funcionamiento la cual deberá ser refrendada anualmente y expresamente por la autoridad competente.
+42. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-43. La dirección de los parques de exhibición animal que operen en el Estado estará a cargo de un médico veterinario o especialista equivalente quién otorgará una responsiva sobre la seguridad de los visitantes, de los trabajadores del parque y sobre el cuidado de los animales domésticos.
+43. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO XII. DE LOS ANIMALES DE MONTA, CARGA Y TIRO
 
 ###### Artículo 6.
 
-44. El propietario, poseedor o encargado de animales para la monta, carga y tiro y animales para espectáculo deben contar con la autorización correspondiente y alimentar y cuidar apropiadamente a sus animales sin que sean sometidos a jornadas excesivas de trabajo conforme a lo establecido en las normas técnicas estatales, debiendo mantener las instalaciones de guarda en buen estado higiénico y sanitario y en condiciones adecuadas de espacio para el animal de que se trate y cumplir con lo establecido en el Reglamento del presente Libro y las normas oficiales mexicanas que correspondan.
-
-La prestación del servicio de monta recreativa requiere autorización del Municipio salvo en las áreas naturales protegidas en cuyo caso corresponde a la Secretaría su autorización mismas que se sujetarán a las disposiciones correspondientes que establece este Libro, su Reglamento y demás disposiciones jurídicas aplicables.
+44. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-45. Cualquier clase de vehículos que sean movidos por animales no podrán ser cargados con un peso excesivo o desproporcionado teniendo en cuenta las condiciones de los animales que se empleen para su tracción.
+45. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-46. Los animales de carga no podrán ser forzados a cargar en ningún caso con un peso superior a la tercera parte del suyo ni agregar a éste el de una persona.
+46. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-47. Si la carga consiste en haces de madera, sacos, cajas u otra clase de bultos de naturaleza análoga las unidades se distribuirán proporcionalmente sobre el cuerpo del animal.
+47. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-48. Los animales enfermos heridos, con matadura o desnutridos y las hembras en el periodo próximo al parto, por ningún motivo serán utilizados para tiro o carga y queda igualmente prohibido cabalgar sobre animales que se encuentran en estas condiciones.
+48. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-49. Los animales que se empleen para tiro de carretas, arados u otros medios de conducción similares deberán ser uncidos procurando evitarles una molestia mayor a la normal y sobre todo que se lesionen.
-
-Artículo 6 50. A ningún animal destinado a esta clase de servicios deberá dejársele sin alimentación y sin agua por un espacio de tiempo superior a ocho horas consecutivas.
+49. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-51. Los animales a que se refieren los artículos anteriores sólo podrán ser amarrados o estacionados durante la prestación de su trabajo en lugares que se encuentren cubiertos del sol y de la lluvia y deberán descansar un día a la semana no pudiendo ser prestados o alquilados en ese día para ejecutar labores.
+50. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-52. Ningún animal destinado al tiro o a la carga podrá ser golpeado, fustigado o espoleado con exceso durante el desempeño de su trabajo ni fuera de él y si cae al suelo deberá ser descargado y no golpeado para que se levante.
+51. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-53. Las disposiciones contenidas en el presente Capítulo se aplicarán en lo conducente a los animales de silla.
+52. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-54. La exhibición de animales será realizada atendiendo a las normas oficiales mexicanas o a las normas técnicas estatales.
+53. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO XIII. DE LOS ANIMALES DE EXHIBICION O DE ESPECTACULO
 
 ###### Artículo 6.
 
-55. Para el otorgamiento de autorizaciones para el funcionamiento de establecimientos comerciales, ferias y exposiciones en la realización de espectáculos públicos o en el empleo de animales domésticos en el trabajo, además de los requisitos establecidos en las leyes correspondientes, deberán contar con un programa de bienestar animal de conformidad con lo establecido en el Reglamento del presente Libro.
+54. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-56. En toda exhibición o espectáculo público o privado, filmación de películas, programas televisivos, anuncios publicitarios y durante la elaboración de cualquier material visual o auditivo en el que participen animales domésticos vivos debe garantizarse su trato digno y respetuoso durante todo el tiempo que dure su utilización, así como en su traslado y en los tiempos de espera que deberán ser realizados por profesionales y se permitirá la presencia de un representante de alguna asociación protectora de animales registrada como observador de las actividades que se realicen.
+55. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-57. Las instalaciones para animales deportivos, centros para la práctica de la equitación y pensiones para mascotas serán objeto de regulación específica en el Reglamento del presente Libro.
+56. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO XIV. DE LOS ANIMALES DEPORTIVOS
 
 ###### Artículo 6.
 
-58. Los refugios de las asociaciones protectoras de animales, clínicas, consultorios u hospitales veterinarios, centros de control animal, escuelas de adiestramiento, pensiones y demás instalaciones creadas para alojar temporal o permanentemente a los animales deberán contar con la supervisión de un médico veterinario zootecnista con cédula profesional y personal capacitado e instalaciones adecuadas.
-
-Si el animal bajo su custodia contrae alguna enfermedad, se lesiona o muere se le comunicará de inmediato al propietario o responsable.
+57. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-59. Los establecimientos, instalaciones y prestadores de servicios que manejen animales deben estar autorizados para tal fin y cumplirán con este Libro, su Reglamento y las normas técnicas estatales aplicables y deberán contar con un responsable el cual será médico veterinario zootecnista con cédula profesional.
+58. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-60. Para cumplir con el trato digno en la movilización de animales se deberá cumplir con lo establecido en las normas oficiales mexicanas y en las normas técnicas estatales.
+59. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO XV. DEL TRANSPORTE Y TRASLADO DE ANIMALES
 
 ###### Artículo 6.
 
-61. Los animales que sean transportados en vehículos de tracción animal o mecánica deberán ser trasladados por lo menos cada veinticuatro horas a lugares convenientes y adecuados con agua potable, alimentos y con suficiente amplitud para que puedan descansar un período de tiempo considerable.
-
-En ningún caso se llevará a cabo la movilización de animales por medio de golpes, instrumentos punzo cortantes o con elementos ardientes como fuego, agua hirviente o ácidos. Se usarán en tal caso pullas eléctricas o de preferencia instrumentos de ruido incontactantes.
-
-La carga y descarga de animales se hará siempre por medios que presenten absoluta seguridad y facilidad para éstos como rampas, puentes fuertes y amplios con apoyos para ascenso o descenso y que concuerden exactamente con los diferentes niveles de paso, arribo o bien por medio de pequeños vehículos o elevadores con las mismas características.
-
-Los vagones de transporte deberán contar con ventilación adecuada y pisos antiderrapantes. De ninguna manera deberán sobrecargarse dejando siempre espacio suficiente para permitir a los animales descansar echados.
+60. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-62. Para transportar cuadrúpedos es necesario que el vehículo que se emplee sea amplio de tal manera que les permita echarse.
+61. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-63. El transporte de aves o cualesquiera otros animales pequeños deberá hacerse en cajas, huacales o jaulas que tengan la amplitud y ventilación necesaria para permitir que los mismos viajen sin maltratarse y sin que se causen daño.
+62. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-64. Las cajas, huacales o jaulas a que alude el artículo anterior serán (sic) de ser de construcción sólida y tendrán en la parte inferior o superior un dispositivo que permita un espacio de cinco centímetros al colocarse una sobre otra que evite su deformación con el peso de las que se coloquen arriba a fin de que no se ponga en peligro la vida de los animales transportados, por ningún motivo serán arrojados de cualquier altura y la descarga o traslado deberá hacerse evitando los movimientos bruscos.
+63. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-65. El traslado de animales vivos de las especies de caprinos, conejos, aves y otros similares no se deberá hacer en costales o suspendidos de los miembros inferiores o superiores y en el caso de que se lleven andando queda prohibido golpearlos y arrastrarlos, así como hacerlos correr en forma desconsiderada.
+64. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-66. En el caso de animales transportados que fueran detenidos en su camino o a su arribo al lugar destinado por complicaciones accidentales, fortuitas o administrativas tales como huelgas, faltas de medios, incautados por autoridades y demoras en el tránsito o en la entrega deberá proporcionárseles alojamiento amplio y ventilado, bebederos, alimentos y temperatura ideal hasta que sea solucionado el conflicto y puedan proseguir a su destino o sean rescatados y devueltos o entregados a instituciones autorizadas para su custodia y disposición.
-
-En caso de incumplimiento en lo establecido en el párrafo anterior la Procuraduría actuará de inmediato incluso sin que medie denuncia previa para salvaguardar el bienestar de los animales de que se trate y fincar las responsabilidades que así correspondan.
+65. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-67. El comercio de animales vivos en las zonas urbanas del Estado quedará sujeto a los reglamentos y autorizaciones sanitarias previas correspondientes y se realizará en instalaciones adecuadas, ventiladas y con suficiente iluminación respetando las normas de higiene y de seguridad pública.
+66. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO XVI. DEL COMERCIO DE LOS ANIMALES
 
 ###### Artículo 6.
 
-68. Queda prohibida la venta de animales en la vía pública. Las autoridades administrativas procederán a requisar los animales que se pretendan vender en la vía pública y aplicarán las sanciones correspondientes a quienes infrinjan esta disposición. Los animales requisados se destinarán a los albergues de asistencia social.
+67. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-69. El uso de animales de laboratorio se sujetará a lo establecido en las normas oficiales mexicanas y en las normas técnicas estatales en la materia.
+68. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
-En el Estado quedan expresamente prohibidas las prácticas de vivisección y de experimentación en animales con fines docentes o didácticos en los niveles de enseñanza primaria y secundaria. Dichas prácticas serán sustituidas por esquemas, videos, materiales biológicos y otros métodos alternativos.
-
-Ningún alumno podrá ser obligado a experimentar con animales contra su voluntad y el profesor correspondiente deberá proporcionar prácticas alternativas para otorgar calificación aprobatoria. Quien obligue a un alumno a realizar estas prácticas contra su voluntad podrá ser denunciado en los términos del presente Libro.
-
-Cuando en los casos en que sea permitida ningún animal podrá ser usado varias veces en experimentos de vivisección debiendo previamente ser insensibilizado, curado y alimentado en forma apropiada, antes y después de la intervención. Si sus heridas son de consideración o implican mutilación grave serán sacrificados inmediatamente al término de la operación.
-
-Queda prohibida la utilización de animales vivos en los siguientes casos:
-
-I. Cuando los resultados de la operación sean conocidos con anterioridad; y
-
-II. Cuando la vivisección no tenga una finalidad científica y en particular cuando la experimentación esté destinada a satisfacer una actividad puramente comercial.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO XVII. DE LA EXPERIMENTACION CON ANIMALES
 
 ###### Artículo 6.
 
-70. Los experimentos que se lleven a cabo con animales se realizarán únicamente cuando estén plenamente justificados ante las autoridades correspondientes cuando tales actos sean imprescindibles para el estudio y avance de la ciencia, siempre y cuando esté demostrado que:
-
-I. Los experimentos sean realizados bajo la supervisión de una institución de educación superior o de investigación debidamente reconocida oficialmente y que la persona que dirige el experimento sea un médico veterinario zootecnista con cédula profesional y con la colaboración de personal que reúna los conocimientos y la acreditación necesaria;
-
-II. Los resultados experimentales deseados no puedan obtenerse por otros procedimientos o alternativas;
-
-III. Los experimentos (sic) sean necesarios para el control, seguridad, prevención, diagnóstico o tratamiento de enfermedades que afecten al ser humano o al animal;
-
-IV. Los experimentos no puedan ser sustituidos por esquemas, dibujos, películas, fotografías, videocintas, discos de vídeo compactos, materiales biológicos o cualquier otro procedimiento análogo; y
-
-V. Se realicen en animales criados preferentemente para tal fin.
-
-La Secretaría de Salud está obligada a supervisar las condiciones y desarrollo de las intervenciones quirúrgicas experimentales en animales. Cualquier acto violatorio que recaiga en el ámbito federal lo hará de su conocimiento de manera inmediata a la autoridad correspondiente.
-
-###### Articulo 6.
-
-71. Ningún particular podrá vender, alquilar, prestar o donar animales para que se realicen experimentos con ellos salvo a solicitud de instituciones científicas, médicas, culturales, educativas o con fines similares.
-
-Queda prohibido capturar animales abandonados, entregarlos voluntariamente o establecer programas de entrega voluntaria de animales para experimentar con ellos. Los centros de control animal no podrán destinar animales para que se realicen experimentos con éstos.
+69. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-72. Previamente al sacrificio de animales se procederá a insensibilizarlos utilizando para ello los siguientes métodos:
+70. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
-l. Con rifles o pistolas de émbolo oculto o cautivo de penetración o cualquier otro aparato de funcionamiento análogo concebido especialmente para el sacrificio de animales;
+###### Articulo 6.
 
-II. Por electroanestesia o gases monóxido de carbono; y
+71. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
-III. Por cualquier otro método científico autorizado por las autoridades sanitarias o por las asociaciones protectoras de animales.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO XVIII. DEL SACRIFICIO DE ANIMALES
 
 ###### Artículo 6.
 
-73. El sacrificio de los animales destinados al consumo se realizará de acuerdo a las autorizaciones que expidan las autoridades sanitarias por una parte y por otra la oficina de protección a los animales del Estado o Municipio.
-
-El sacrificio de animales deberá ser humanitario y se hará en los locales adecuados destinados para tal efecto salvo que exista autorización sanitaria que permita el sacrificio en otro sitio mediante procedimientos indoloros.
+72. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-74. Los animales mamíferos destinados al sacrificio deberán tener un período de descanso en los corrales del rastro de un mínimo de doce horas antes de éste durante el cual deberán recibir agua suficiente salvo los animales lactantes que deban sacrificarse inmediatamente, en lo que respecta a las aves deberán serlo (sic) inmediatamente después de su arribo al rastro.
+73. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-75. Las reses y demás cuadrúpedos destinados al sacrificio no podrán ser inmovilizados sino en el momento en que esta operación se realice y en ningún caso con anterioridad al mismo. Queda estrictamente prohibido quebrar las patas de los animales antes de sacrificarlos y no serán introducidos vivos o agonizantes en los refrigeradores ni podrán ser arrojados al agua hirviendo.
+74. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-76. Queda prohibida la presencia de menores de edad en las salas de sacrificio antes, durante y después del sacrificio de cualquier animal. Esta circunstancia se hará pública mediante anuncios colocados en lugares visibles en los sitios de las salas de sacrificio.
-
-Los propietarios, administradores, encargados de rastros o salas de sacrificio serán responsables del cumplimiento de esta disposición.
-
-Queda estrictamente prohibido arrojar a los puercos al agua hirviendo sino hasta que estén muertos y no agonizantes.
+75. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-77. En ningún caso las reses y otros de semejante naturaleza presenciarán el sacrificio de sus congéneres. Queda prohibido estrictamente el sacrificio de hembras en el período de tiempo próximo al parto.
+76. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-78. Los propietarios, encargados, administradores o empleados de expendios de animales o rastros y los administradores de circos deberán sacrificar inmediatamente a los animales domésticos que por cualquier causa se hubiesen lesionado o enfermado gravemente y esto les ocasione sufrimiento o agonía o represente un peligro grave para la salud o seguridad de las personas.
+77. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-79. El sacrificio humanitario de un animal no destinado al consumo humano sólo podrá realizarse en razón del sufrimiento que le cause un accidente, enfermedad, incapacidad física o trastornos seniles que comprometan su bienestar animal previo certificado expedido por médico veterinario zootecnista con cédula profesional que acredite la realidad del padecimiento y la necesidad del sacrificio con excepción de aquellos animales que se constituyan en amenaza para la salud, la economía, la seguridad de los conductores en las calles, carreteras, autopistas y caminos del Estado o los que por proliferación de su especie signifique un peligro grave para el ser humano o para la producción pecuaria.
+78. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-80. Los animales destinados al sacrificio humanitario no podrán ser inmovilizados sino en el momento en que esta operación se realice.
-
-En materia de sacrificio humanitario de animales se prohíbe por cualquier motivo:
-
-I. Sacrificar hembras próximas al parto salvo en los casos que esté en peligro el bienestar del animal;
-
-II. Reventar los ojos de los animales;
-
-III. Fracturar las extremidades de los animales antes de sacrificarlos;
-
-IV. Arrojar a los animales vivos o agonizantes al agua hirviendo;
-
-V. Introducidos vivos o agonizantes a los refrigeradores;
-
-VI. El sadismo, la zoofilia o cualquier acción análoga que implique sufrimiento o tortura al animal; y
-
-VII. Sacrificar animales en presencia de menores de edad.
+79. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-81. El personal que intervenga en el sacrificio de animales deberá estar plenamente autorizado y capacitado en la aplicación de las diversas técnicas, manejo de sustancias y conocimiento de sus efectos, vías de administración y dosis requeridas, así como en métodos alternativos para el sacrificio siempre bajo la supervisión de un médico veterinario zootecnista con cédula profesional en estricto cumplimiento de las normas oficiales mexicanas y las normas técnicas estatales.
+80. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-82. Nadie puede sacrificar a un animal por envenenamiento, asfixia, estrangulamiento, ahogamiento, golpes, ácidos corrosivos, estricnina, warfarina, cianuro, arsénico, raticidas y productos o sustancias similares ni utilizar venenos en contra de roedores o cualquier especie que puedan ser consumidos por otras, además de procedimientos que causen dolor innecesario o prolonguen la agonía ni sacrificarlos con tubos, palos, varas con puntas de acero, látigos, instrumentos punzocortantes u objetos que produzcan traumatismos con excepción de los programas de salud pública que utilizan sustancias para controlar plagas y evitar la transmisión de enfermedades. En todo caso se estará a lo dispuesto en las normas técnicas estatales que se refieren al sacrificio humanitario de animales.
+81. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-83. Nadie puede sacrificar a un animal en la vía pública salvo por motivos de peligro inminente y para evitar el sufrimiento innecesario en el animal cuando no sea posible su traslado inmediato a un lugar más adecuado. Dicho sacrificio se hará bajo la responsabilidad de un médico veterinario zootecnista con cédula profesional o por protectores de animales con demostrada capacidad y amplio juicio.
+82. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-84. Las autoridades municipales deberán implantar acciones tendientes a la regulación del crecimiento de poblaciones de aves urbanas empleando sistemas inofensivos e innovadores y lograr la reubicación pacífica de las parvadas cuando causen o puedan causar problemas a las estructuras, edificaciones, obras artísticas y demás análogas en áreas comunes.
+83. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-85. Toda persona podrá denunciar ante los Municipios o ante la Secretaría del Medio Ambiente y Desarrollo Sostenible todo hecho, acto u omisión que contravenga a las disposiciones del presente Libro y demás ordenamientos jurídicos aplicables.
+84. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
-Si por la naturaleza de los hechos denunciados se tratare de asuntos de competencia del orden federal o sujetos a la jurisdicción de otra Entidad Federativa las autoridades deberán turnarla a la autoridad competente.
-
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
-
-Sin perjuicio de lo anterior los interesados podrán presentar su denuncia directamente ante la Fiscalía General de Justicia del Estado de México si se considera que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito en cuyo caso deberá sujetarse a lo dispuesto por el Código Nacional de Procedimientos Penales.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO XIX. DE LA DENUNCIA Y VIGILANCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+###### Artículo 6.
+
+85. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-86. La denuncia deberá presentarse por escrito y contener todos los requisitos que para este concepto se regulan en el Libro Segundo de éste Código.
+86. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-87. Corresponde a la Secretaría, la Secretaría de Salud y los Municipios en el ámbito de sus respectivas competencias ejercer las funciones de vigilancia y supervisión para lograr el cumplimiento del presente Ordenamiento.
+87. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
-Las visitas de verificación que estas autoridades realicen deben sujetarse a lo que determina el Libro Segundo de este Código.
-
-El personal designado al efecto debe contar con conocimientos en las materias que regula el presente Libro y cumplir con los requisitos que establezca el Reglamento.
-
-###### Artículo 6.
-
-88. De existir riesgo inminente para los animales o se pueda poner en peligro su vida debido a actos de crueldad o maltrato hacia ellos las autoridades competentes en forma fundada y motivada podrán ordenar inmediatamente alguna o algunas de las siguientes medidas de seguridad:
-
-I. Aseguramiento precautorio de los animales, de los bienes, vehículos, utensilios e instrumentos que se utilizaron en la conducta ilícita que da lugar a la imposición de la medida de seguridad:
-
-II. Clausura temporal de los establecimientos, instalaciones, servicios o lugares donde se celebren espectáculos públicos con animales donde no se cumpla con las disposiciones de este Libro, su Reglamento, las normas oficiales mexicanas y con las normas técnicas estatales y con los preceptos legales aplicables;
-
-III. Clausura definitiva cuando exista reincidencia en los casos que haya motivado una clausura temporal o cuando se trate de hechos, actos u omisiones cuyo fin primordial sea el de realizar actos prohibidos por el presente Libro; y
-
-IV. Cualquier acción legal análoga que permita la protección y bienestar a los animales.
-
-Las autoridades competentes podrán ordenar la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos en relación con la protección a los animales.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO XX. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 6.
 
-89. Las autoridades competentes podrán ordenar o proceder a la vacunación, atención médica y al sacrificio humanitario de animales que puedan constituirse en transmisores de enfermedades graves que pongan en riesgo la salud del ser humano en coordinación con las dependencias encargadas de la sanidad animal.
+88. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-90. Cuando la autoridad competente ordene algunas de las medidas de seguridad previstas en este Libro, su Reglamento y demás disposiciones jurídicas aplicables indicará al interesado cuando proceda las acciones que deberá llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización a fin de que una vez cumplidas éstas se ordene al retiro de la medida de seguridad impuesta.
+89. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-91. Se considera como infractor a toda persona o autoridad que por hecho, acto u omisión directa, intencional o imprudencial o colaborando de cualquier forma induzca directa o indirectamente a alguien a infringir o violar las disposiciones del presente Libro, su Reglamento y demás ordenamientos jurídicos aplicables.
+90. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
-Los padres o tutores del menor de edad son responsables por las faltas que éstos cometan. Las personas discapacitadas o sus tutores legales son responsables por los daños que provoquen a un animal y los daños físicos que sus animales causen a terceros.
-
-La imposición de cualquier sanción prevista por el presente Libro no excluye la responsabilidad civil o penal y la eventual indemnización o reparación del daño correspondiente que puedan recaer sobre el sancionado en términos de lo previsto por este Código.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE JUNIO DE 2026)</small>
 
 ### CAPITULO XXI. DE LAS SANCIONES
 
 ###### Artículo 6.
 
-92. Las infracciones a las disposiciones de este Libro y su Reglamentación serán sancionadas, en su caso, con:
-
-I. Amonestación;
-
-II. Multa;
-
-III. Arresto; y
-
-IV. Las demás que se establecen en el Libro Segundo del presente Código y las que señalen los demás ordenamientos aplicables.
+91. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-93. Las infracciones cometidas por la violación de las disposiciones del presente Libro se aplicarán conforme a lo siguiente:
-
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
-
-I. Multa de una a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior o por violaciones a lo dispuesto por los artículos 6.24 fracción VII, 6.33, 6.34, 6.40, 6.56, 6.66, 6.70 y 6.72 del presente Libro.
-
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
-
-II. Multa de ciento cincuenta a mil veces el valor diario de la Unidad de Medida y Actualización vigente por las violaciones a lo dispuesto por los artículos 6.5, 6.24 fracciones III, VI, VIII, IX y X, 6.37 tercer párrafo, 6.38, 6.67, 6.68 y 6.78 del presente Libro.
-
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
-
-III. Arresto inconmutable de treinta y seis horas y multa de mil a dos mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente por violaciones a lo dispuesto por los artículos 6.23, 6.24 fracciones I, II y IV, 6.25, 6.48 y del 6.82 al 6.84 del presente Libro.
-
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+92. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-94. Las infracciones a lo dispuesto en este Libro que no tuviere señalada una sanción especial serán sancionadas a juicio de las autoridades competentes con multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente o arresto inconmutable hasta por veinticuatro horas según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que haya dado lugar.
-
-Cuando las infracciones hayan sido cometidas por personas que ejerzan entrenamientos profesionales, tengan cargos de dirección en instituciones científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de maltrato o se trate de propietarios de vehículos exclusivamente destinados al transporte de éstos, la multa será de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente sin perjuicio de las demás sanciones que proceden conforme a otras leyes.
-
-> <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2019)</small>
-
-Las sanciones contenidas en este capítulo se incrementarán hasta en una mitad cuando el maltrato animal sea cometido por servidores públicos que tengan por encargo el manejo de animales.
+93. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-95. La autoridad correspondiente, fundará y motivará la resolución en la que se imponga una sanción tomando en cuenta los siguientes criterios:
-
-I. Las condiciones económicas del infractor;
-
-II. El perjuicio causado por la infracción cometida;
-
-III. El ánimo de lucro ilícito y la cuantía del beneficio obtenido en la comisión de la infracción;
-
-IV. La reincidencia en la comisión de infracciones, la gravedad de la conducta y la intención con la cual fue cometida; y
-
-V. El carácter intencional, imprudencial o accidental del hecho, acto u omisión constitutivo de la infracción.
+94. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-96. La violación a las disposiciones de este Libro por parte de laboratorios científicos o quien ejerza la profesión de médico veterinario zootecnista independientemente de la responsabilidad civil, penal o administrativa en la que incurra ameritará aumento de la multa hasta en un treinta por ciento más.
+95. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-97. En el caso de haber reincidencia en la violación a las disposiciones del presente Libro la sanción se duplicará y podrá imponerse arresto del responsable legal o administrativo hasta por treinta y seis horas inconmutables.
-
-Para efectos del presente Libro se reincide, cuando habiendo quedado firme una resolución que imponga una sanción se cometa una nueva falta dentro de los doce meses contados a partir de aquélla.
+96. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ###### Artículo 6.
 
-98. De lo recaudado por concepto de multas derivadas de violaciones a este Ordenamiento el Gobierno del Estado destinará el cincuenta por ciento de los montos recaudados a los Municipios para atender las acciones relacionadas con las atribuciones que este Libro les confiere.
+97. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
+
+###### Artículo 6.
+
+98. (DEROGADO, G.G. 16 DE JUNIO DE 2026)
 
 ## TRANSITORIOS
 
@@ -8900,3 +8520,21 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. El Poder Ejecutivo del Estado y los municipios, en el ámbito de sus atribuciones, deberán realizar las adecuaciones correspondientes a las disposiciones reglamentarias, a fin de armonizar su contenido con lo previsto en el presente Decreto.
 
 CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 333.- POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN, CUIDADO Y BIENESTAR ANIMAL DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 48, LA DENOMINACIÓN DEL CAPÍTULO III DEL SUBTÍTULO SÉPTIMO DEL LIBRO SEGUNDO, LOS ARTÍCULOS 235 BIS, 235 TER, 235 QUÁTER Y LAS FRACCIONES II Y III DEL ARTÍCULO 288; Y SE ADICIONA LOS ARTÍCULOS 31 BIS, 235 QUINQUIES, LA FRACCIÓN IV AL ARTÍCULO 288 Y LA FRACCIÓN XXIV AL ARTÍCULO 290 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 41, EL ARTÍCULO 49, LA DENOMINACIÓN DEL CAPÍTULO SÉPTIMO Y LAS FRACCIONES X Y XI Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 63; Y SE ADICIONAN LA FRACCIÓN VIII RECORRIENDO LA SUBSECUENTE AL ARTÍCULO 41, Y LAS FRACCIONES XII, XIII Y XIV AL ARTÍCULO 63 DE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS; SE REFORMA EL TÍTULO SEXTO DEL LIBRO CUARTO QUEDANDO INTEGRADO CON LOS ARTÍCULOS 4.178, 4.179, 4.180, 4.181, 4.182, 4.183, 4.184, 4.185 Y 4.186 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO SEXTO BIS DEL TÍTULO IV, EL ARTÍCULO 124 BIS, LA FRACCIÓN III DEL ARTÍCULO 124 TER, EL ARTÍCULO 124 QUATER Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 124 SEPTIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 10; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO; Y SE DEROGA EL LIBRO SEXTO DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los procedimientos que a la entrada en vigor del presente Decreto se encuentren en trámite continuarán su sustanciación y se resolverán conforme a la legislación aplicable al momento de su inicio; no obstante, podrán aplicarse las disposiciones de esta Ley cuando resulten más favorables.
+
+CUARTO. El Poder Ejecutivo expedirá las disposiciones administrativas que correspondan para dar cumplimiento al presente Decreto dentro del plazo de 180 días hábiles contados a partir de la entrada en vigor del mismo.
+
+QUINTO. Las dependencias del Poder Ejecutivo Estatal, sus organismos públicos descentralizados, los órganos autónomos y los ayuntamientos deberán adecuar su marco normativo al presente Decreto dentro del plazo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+SÉPTIMO. Los Ayuntamientos proveerán en la esfera de su competencia la adecuación a las normas que rigen su actuación y tomarán las previsiones financieras y administrativas necesarias para dar cumplimiento al presente Decreto.
