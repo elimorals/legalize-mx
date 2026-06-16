@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2026-04-28"
+last_updated: "2026-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JUNIO DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -593,6 +593,14 @@ En caso de delitos contra el ambiente, el derecho a la reparación del daño se 
 
 El órgano jurisdiccional tomará en cuenta para la determinación del daño causado en materia ambiental el dictamen técnico emitido por la autoridad estatal correspondiente que precisará los elementos cuantificables del daño.
 
+> <small>(ADICIONADO, G.G. 16 DE JUNIO DE 2026)</small>
+
+###### Artículo 31 Bis.
+
+En caso de delitos contra maltrato y crueldad de los seres sintientes, la reparación del daño será integral deberá incluir los gastos generados para el resguardo, manutención, mantenimiento, atención médica veterinaria, medicamentos, tratamientos, intervenciones, rehabilitación conductual o la reparación por la muerte del ser sintiente.
+
+En el caso de animales de compañía en situación de calle, domiciliados, semi domiciliados, abandonados o ferales, cuando se haya cometido el delito de maltrato animal, la reparación del daño se instituye en beneficio de la comunidad y a favor del fondo a que refiere la ley de la materia.
+
 ###### Artículo 32.
 
 En orden de preferencia, tienen derecho a la reparación del daño:
@@ -745,9 +753,9 @@ Los bienes inmuebles decomisados por la comisión de los delitos en contra del d
 
 En los casos de los delitos a que se refiere el Título Quinto del Libro Segundo de este Código, también se podrán decomisar bienes del imputado cuyo valor sea equivalente, cuando los instrumentos, objetos y productos del delito se hayan perdido, consumido o extinguido, no sea posible localizarlos o se trate de bienes que constituyan garantías de créditos preferentes. En los casos que así se establezca, se podrá decretar el aseguramiento de bienes propiedad del o los imputados, así como de aquéllos respecto de los cuales se conduzca como dueño.
 
-> <small>(ADICIONADO, G.G. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.G. 16 DE JUNIO DE 2026)</small>
 
-En caso de que el objeto de decomiso sean animales vivos, deberán ser conducidos a lugares especializados, como zoológicos, santuarios o unidades de control que cubran las necesidades del animal durante el procedimiento. En todo caso de animales domésticos, las asociaciones u organizaciones legalmente constituidas podrán solicitar su resguardo temporal. Las personas que sean responsables de maltrato o crueldad animal, perderán todo derecho sobre los animales que hayan tenido bajo su custodia o resguardo.
+En caso de que el objeto de decomiso sean animales vivos, deberán ser conducidos a lugares especializados, como zoológicos, santuarios o unidades de control que cubran las necesidades del animal durante el procedimiento. En caso de animales domésticos o de compañía, las asociaciones u organizaciones legalmente constituidas podrán solicitar su resguardo.
 
 ### CAPITULO X. CONFINAMIENTO
 
@@ -3589,45 +3597,87 @@ Será necesario que la secretaria del ramo formule la denuncia correspondiente p
 
 La reparación del daño respecto de los delitos contenidos en este subtítulo, se aplicará en favor de la colectividad a través de la autoridad correspondiente.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE JUNIO DE 2026)</small>
 
-### CAPÍTULO III. MALTRATO ANIMAL
+### CAPÍTULO III. MALTRATO Y CRUELDAD A LOS SERES SINTIENTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, G.G. 16 DE JUNIO DE 2026)</small>
 
 ###### Artículo 235 Bis.
 
-Comete el delito de maltrato animal, el que cause lesiones dolosas a cualquier animal que no constituya plaga, con el propósito o no, de causarle la muerte y se le impondrá pena de seis meses a cuatro años de prisión y de ciento cincuenta a trescientos días multa.
+Comete el delito de maltrato del ser sintiente a quien intencionalmente realice un acto u omisión en contra de cualquier animal que no constituya plaga con el propósito o no, de causarle la muerte, por alguna de las siguientes circunstancias:
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+I. Por cualquier medio, acción o procedimiento ocasione dolor, sufrimiento, afecte su bienestar o le provoque lesiones que no pongan en peligro la vida;
 
-La pena prevista en el párrafo anterior también se aplicará a quien abandone a cualquier animal de tal manera que quede expuesto a riesgos que amenacen su integridad, la de otros animales o de las personas.
+II. Tenga en hacinamiento a dos o más animales, sin proporcionarles la alimentación y cuidados necesarios para su desarrollo según su especie y a quien abandone a un animal de tal manera que quede expuesto a riesgos que amenacen su integridad, la de otros animales o de las personas;
 
-> <small>(REFORMADO, G.G. 17 DE AGOSTO DE 2021)</small>
+III. Crie, sacrifique, procese, distribuya, comercialice o facilite el consumo humano de carne o productos derivados de animales domésticos felinos o caninos considerados de compañía. La pena se aumentará hasta en una mitad cuando el responsable oculte la naturaleza del producto, haciéndolo pasar por carne de especies destinadas al consumo humano;
 
-A quien realice actos eróticos sexuales a un animal o le introduzca por vía vaginal o rectal el miembro viril, cualquier parte del cuerpo, objeto o instrumento, se le impondrá una pena de seis meses a cuatro años de prisión y de cincuenta a ciento cincuenta días multa.
+IV. Poner en riesgo su integridad al mantenerlo de forma constante o permanente amarrado, encadenado o enjaulado, o en azoteas, balcones, lotes baldíos o cualquier lugar que ponga en riesgo su bienestar animal;
 
-> <small>(REFORMADO, G.G. 17 DE AGOSTO DE 2021)</small>
+V. Los haga ingerir bebidas alcohólicas o suministre drogas o sustancias tóxicas sin fines médicos o terapéuticos;
 
-La pena contenida en el presente artículo se incrementará hasta en una mitad cuando el maltrato animal sea fotografiado, videograbado y/o difundido.
+VI. Trasladar al animal arrastrándolo o suspendido, causándole sufrimiento; y
 
-> <small>(ADICIONADO, G.G. 5 DE DICIEMBRE DE 2017)</small>
+VII. La utilización de aditamentos que pongan en riesgo su integridad.
 
-En cualquier caso, se procederá inmediatamente al aseguramiento de los animales, de conformidad con lo dispuesto en el cuarto párrafo del artículo 48 del presente código.
+En los casos a que se refiere este artículo, la penalidad será de tres a cinco años de prisión y de trescientos a quinientos días multa.
 
-> <small>(REFORMADO, G.G. 17 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, G.G. 16 DE JUNIO DE 2026)</small>
 
 ###### Artículo 235 Ter.
 
-A quien cause la muerte no inmediata, utilizando cualquier medio que prolongue la agonía de cualquier animal que no constituya plaga, se le impondrá una pena de tres a seis años de prisión y de doscientos a cuatrocientos días multa. Las penas contenidas en este capítulo se incrementarán hasta en una mitad cuando el maltrato animal sea cometido por servidores públicos que tengan por encargo el manejo de animales.
+Para los efectos de (sic) presente Código se entenderá por crueldad hacia los seres sintientes a todo acto doloso de brutalidad, sádico o zoofílico, cometido en contra de cualquier animal que no sea considerado como plaga.
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+Comete el delito de crueldad del ser sintiente, al que intencionalmente realice un acto en contra de cualquier animal de compañía domiciliado o abandonado, semi domiciliado, en situación de calle o feral, por alguna de las siguientes circunstancias:
+
+I. Causar la muerte injustificadamente o sacrificarlo empleando métodos diversos a los establecidos en las normas oficiales mexicanas, o privarlo de la vida utilizando cualquier medio que le provoque un sufrimiento extremo o prolongue su agonía;
+
+II. Provoque lesiones que le generan una incapacidad parcial o total permanente que disminuyan alguna de sus facultades, que afecten el normal funcionamiento de un órgano o miembro, o que ponga en riesgo su vida;
+
+III. La vivisección fuera de norma o con fines que no sean científicamente necesarios para realizar investigación con el fin de preservar la vida o salud humana;
+
+IV. Realice actos eróticos sexuales a un animal o le introduzca por vía vaginal o rectal el miembro viril, cualquier parte del cuerpo, objeto o instrumento; así como la promoción y difusión que incite a la zoofilia o la venta, distribución y exhibición de material pornográfico donde participen animales;
+
+V. Mutile órganos o altere la integridad física o modificación negativa de sus instintos naturales que no se efectúe bajo causa justificada, recomendación o prescripción médica comprobada y cuidado de un médico veterinario zootecnista con cédula profesional; y
+
+VI. Organice, participe o sea coparticipe en peleas de seres sintientes públicas o privadas, con o sin apuestas, así como en rituales, actos de culto o públicos que pongan en riesgo su vida.
+
+En los casos a que se refiere este artículo, la penalidad será de tres a seis años de prisión y de quinientos a setecientos días multa.
+
+El delito de crueldad hacia los seres sintientes previsto en el presente artículo se perseguirá de oficio.
+
+De igual forma, incurre en responsabilidad penal, quien participe o sea coparticipe o espectador en peleas de seres sintientes públicas o privadas. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
+
+> <small>(REFORMADO, G.G. 16 DE JUNIO DE 2026)</small>
 
 ###### Artículo 235 Quáter.
 
-La reparación del daño respecto de los delitos cometidos en este capítulo se aplicará al Fondo para la Protección a los Animales del Estado de México.
+Para los efectos de este capítulo, no se considerarán como actos de maltrato y crueldad de los seres sintientes:
 
-Quedan exceptuadas de este Capítulo las charreadas, jaripeos, rodeos, lidia de toros, novillos o becerros; peleas de gallos, el adiestramiento de animales; las actividades con fines cinegéticos, de pesca o de rescate, siempre y cuando estas actividades se realicen en términos de las disposiciones jurídicas aplicables.
+I. Las charreadas, jaripeos, rodeos, lidia de toros, novillos o becerros; peleas de gallos, el adiestramiento de animales; las actividades con fines cinegéticos, de pesca o de rescate, siempre y cuando estas actividades se realicen en términos de las disposiciones jurídicas aplicables;
+
+II. La especie catalogada como plaga, para lo cual se solicitará la opinión de la Secretaría del Medio Ambiente y Desarrollo Sostenible, la Procuraduría de Protección al Ambiente y/o la Comisión Estatal de Parques Naturales y de la Fauna;
+
+III. La muerte o mutilación resultado de actividades lícitas; y
+
+IV. La muerte o mutilación por causa justificada y cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos de la materia.
+
+> <small>(ADICIONADO, G.G. 16 DE JUNIO DE 2026)</small>
+
+###### Artículo 235 Quinquies.
+
+Las personas que resulten responsables por los delitos previstos en el presente capítulo perderán todo derecho sobre los animales que hayan tenido bajo su custodia o resguardo. También quedarán inhabilitadas para desempeñar encargos o laborar en centros de trabajo cuyo giro involucre el trato o manejo de animales, hasta por un periodo igual al de la pena de prisión impuesta o hasta haber concluido el tratamiento psicológico o trabajo en favor de la comunidad decretado por la autoridad.
+
+Las penas contenidas en este Capítulo se incrementarán hasta en una mitad cuando el delito sea cometido por personas servidoras públicas que tengan por encargo el manejo de animales o cuando la conducta sea fotografiada, videograbada o difundida por cualquier medio.
+
+En cualquier caso, de los previstos en el presente Capítulo, se procederá inmediatamente al decomiso de los animales, de conformidad con lo dispuesto en el cuarto párrafo del artículo 48 del presente Código.
+
+Las penas contenidas en este Capítulo se incrementarán hasta en una mitad cuando los delitos se realicen con ensañamiento, crueldad u odio manifiesto hacia el animal; cuando se produzca por disparo de arma de fuego o mediante el uso de ácidos, sustancias corrosivas, químicas o inflamables; cuando se haya suministrado bebidas embriagantes, drogas o cualquier sustancia psicotrópica al animal, cuando se cause la muerte de dos o más animales en el mismo o en distintos actos; cuando se empleen métodos de sacrificio de animal diversos a los establecidos en las normas oficiales mexicanas; cuando sean utilizados como blancos en actividades deportivas de tiro o caza, salvo que se cuente con la licencia respectiva para efectuar actividades cinegéticas; o cuando el animal sea utilizado como instrumento de entrenamiento en animales de guardia, de ataque o como medio para verificar su agresividad.
+
+Las penas previstas en este Capítulo se incrementarán hasta en una mitad cuando las personas responsables simulen establecimientos destinados al resguardo de seres sintientes abandonados o extraviados, con la finalidad real de sacrificar, procesar o distribuir carne de animales felinos o caninos para consumo humano.
+
+Para efectos del presente Capítulo serán aplicables las definiciones previstas en la Ley de Protección, Cuidado y Bienestar Animal del Estado de México.
 
 ## TITULO TERCERO. DELITOS CONTRA LAS PERSONAS
 
@@ -4805,9 +4855,17 @@ También comete el delito de robo el que:
 
 I. Se apodere o disponga de un bien mueble propio, que se encuentre en poder de otra por cualquier título legítimo o por disposición de la autoridad;
 
-II. Aproveche la energía eléctrica o cualquier otro fluido, sin derecho y sin el consentimiento de la persona que legalmente pueda disponer de ellos; y
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2026)</small>
 
-III. Se encuentre un bien perdido y no lo devuelva a su dueño, sabiendo quién es.
+II. Aproveche la energía eléctrica o cualquier otro fluido, sin derecho y sin el consentimiento de la persona que legalmente pueda disponer de ellos;
+
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2026)</small>
+
+III. Se encuentre un bien perdido y no lo devuelva a su dueño, sabiendo quién es; y
+
+> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2026)</small>
+
+IV. Se apodere de cualquier especie animal que se encuentre bajo el cuidado o guarda de alguna persona, con el propósito de apropiarse del mismo, obtener un lucro en beneficio propio o de un tercero, o causar daño o perjuicio económico al propietario o poseedor.
 
 ###### Artículo 289.
 
@@ -4988,6 +5046,12 @@ XXII. Cuando se cometa contra una unidad económica, se impondrán de cinco a di
 > <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2023)</small>
 
 XXIII. Tratándose de robo de un vehículo automotor, cuando se alteren sus medios físicos de identificación, como son el número de identificación vehicular, las placas metálicas, la factura o carta factura del automóvil, las calcomanías, los hologramas, la tarjeta de circulación, los formatos de permisos y el certificado de verificación vehicular.
+
+> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2026)</small>
+
+XXIV. Cuando el apoderamiento de cualquier especie animal se realice con violencia, se incrementarán las penas señaladas hasta en una tercera parte si se le causan lesiones al animal o, en su caso, la muerte.
+
+Se aumentarán hasta en una mitad las penas previstas en el artículo anterior, cuando la conducta se cometa aprovechando la confianza depositada en él o los autores; cuando se realice por los dueños, dependientes, encargados o empleados de unidades económicas o asociaciones protectoras de animales, en los lugares que presten sus servicios al público sobre los animales domésticos de huéspedes, clientes o usuarios; cuando se realice por quien haya recibido el animal doméstico en tenencia; o cuando se realice en perjuicio de una persona con discapacidad, menor de edad o adulta mayor.
 
 > <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -8202,3 +8266,21 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. En los procesos penales en los que se hubiera impuesto la pena de prisión vitalicia, por la vía incidental, la autoridad jurisdiccional deberá revisar y adecuar la pena de prisión impuesta conforme al grado de culpabilidad establecido en cada caso concreto y de acuerdo con el parámetro de punibilidad contemplado en el delito de que se trate.
 
 CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 333.- POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN, CUIDADO Y BIENESTAR ANIMAL DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 48, LA DENOMINACIÓN DEL CAPÍTULO III DEL SUBTÍTULO SÉPTIMO DEL LIBRO SEGUNDO, LOS ARTÍCULOS 235 BIS, 235 TER, 235 QUÁTER Y LAS FRACCIONES II Y III DEL ARTÍCULO 288; Y SE ADICIONA (SIC) LOS ARTÍCULOS 31 BIS, 235 QUINQUIES, LA FRACCIÓN IV AL ARTÍCULO 288 Y LA FRACCIÓN XXIV AL ARTÍCULO 290 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 41, EL ARTÍCULO 49, LA DENOMINACIÓN DEL CAPÍTULO SÉPTIMO Y LAS FRACCIONES X Y XI Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 63; Y SE ADICIONAN LA FRACCIÓN VIII RECORRIENDO LA SUBSECUENTE AL ARTÍCULO 41, Y LAS FRACCIONES XII, XIII Y XIV AL ARTÍCULO 63 DE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS; SE REFORMA EL TÍTULO SEXTO DEL LIBRO CUARTO QUEDANDO INTEGRADO CON LOS ARTÍCULOS 4.178, 4.179, 4.180, 4.181, 4.182, 4.183, 4.184, 4.185 Y 4.186 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO SEXTO BIS DEL TÍTULO IV, EL ARTÍCULO 124 BIS, LA FRACCIÓN III DEL ARTÍCULO 124 TER, EL ARTÍCULO 124 QUATER Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 124 SEPTIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 10; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO; Y SE DEROGA EL LIBRO SEXTO DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los procedimientos que a la entrada en vigor del presente Decreto se encuentren en trámite continuarán su sustanciación y se resolverán conforme a la legislación aplicable al momento de su inicio; no obstante, podrán aplicarse las disposiciones de esta Ley cuando resulten más favorables.
+
+CUARTO. El Poder Ejecutivo expedirá las disposiciones administrativas que correspondan para dar cumplimiento al presente Decreto dentro del plazo de 180 días hábiles contados a partir de la entrada en vigor del mismo.
+
+QUINTO. Las dependencias del Poder Ejecutivo Estatal, sus organismos públicos descentralizados, los órganos autónomos y los ayuntamientos deberán adecuar su marco normativo al presente Decreto dentro del plazo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+SÉPTIMO. Los Ayuntamientos proveerán en la esfera de su competencia la adecuación a las normas que rigen su actuación y tomarán las previsiones financieras y administrativas necesarias para dar cumplimiento al presente Decreto.
