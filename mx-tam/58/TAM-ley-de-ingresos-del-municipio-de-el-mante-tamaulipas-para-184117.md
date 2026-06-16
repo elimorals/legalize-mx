@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-municipio-de-el-mante-tamaulipas-para-18411
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-26"
-last_updated: "2025-12-26"
+last_updated: "2026-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE INGRESOS DEL MUNICIPIO DE EL MANTE, TAMAULIPAS, PARA EL EJERCICIO FISCAL DEL AÑO 2026.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
 
 Ley publicada en el Extraordinario Número 64 del Periódico Oficial del Estado de Tamaulipas, el viernes 26 de diciembre de 2025.
 
@@ -418,6 +418,8 @@ POR LOS SERVICIOS DE PLANIFICACIÓN, URBANIZACIÓN Y PAVIMENTACIÓN
 Los derechos por la expedición de licencias por los conceptos siguientes se causarán y liquidarán conforme a la tarifa en cada uno de ellos señalada:
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 26 DE DICIEMBRE DE 2025, PAGINAS DE LA 376 A LA 377.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA EN EL P.O. DE 16 DE JUNIO DE 2026, PAGINA 4]</small>
 
 ###### Artículo 23.
 
@@ -1152,3 +1154,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los doce días del mes de diciembre del año dos mil veinticinco.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO No. 66-1093 MEDIANTE EL CUAL SE DEROGAN LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 22, DE LA LEY DE INGRESOS DEL MUNICIPIO DE EL MANTE, TAMAULIPAS, PARA EL EJERCICIO FISCAL DEL AÑO 2026”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
