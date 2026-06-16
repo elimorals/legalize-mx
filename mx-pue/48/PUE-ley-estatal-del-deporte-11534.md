@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2025-12-04"
+last_updated: "2026-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -327,7 +327,9 @@ V.- La Planeación, programación y ejecución, a través de las instituciones p
 
 VI.- Los medios para que los organismos deportivos conozcan y cumplan con las disposiciones de la presente Ley;
 
-VII.- La suscripción de convenios con los organismos deportivos de las distintas entidades públicas, privadas y sociales, para que de manera directa o indirecta, fomenten, practiquen u organicen el deporte;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
+
+VII.- La suscripción de convenios con los organismos deportivos de las distintas entidades públicas, privadas y sociales, para que de manera directa o indirecta fomenten, practiquen u organicen el deporte y, en su caso, para fomentar el desarrollo de tecnologías de asistencia deportiva y proyectos de investigación aplicada al deporte adaptado.
 
 VIII.- La creación del Centro Estatal de Medicina Deportiva y Ciencias aplicadas al deporte;
 
@@ -341,11 +343,17 @@ XI.- La concertación con asociaciones deportivas, con el fin de que éstas se o
 
 XI Bis.- El diseño e implementación de programas de activación física y deporte en el ámbito laboral;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
 
-XII.- Los mecanismos necesarios para impulsar el desarrollo del deporte, la cultura física y la activación física para adultos mayores y personas con discapacidad, así como otorgar especial atención en estas materias, en el sector social y el impulso a la investigación de los diferentes implementos que se requieren para la práctica de las diferentes disciplinas y modalidades que practican las personas con discapacidad; y
+XII.- Los mecanismos necesarios para impulsar el desarrollo del deporte, la cultura física y la activación física para adultos mayores y personas con discapacidad, así como otorgar especial atención en estas materias, en el sector social y el impulso a la investigación de los diferentes implementos que se requieren para la práctica de las diferentes disciplinas y modalidades que practican las personas con discapacidad;
 
-XIII.- La creación del Salón de Honor del Deportista Poblano.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
+
+XIII.- La creación del Salón de Honor del Deportista Poblano; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2026)</small>
+
+XIV. La integración de una base de información en cultura física y deporte adaptado, con indicadores obligatorios sobre participación, apoyos y accesibilidad.
 
 ### CAPITULO IV. DEL REGISTRO DEL SISTEMA ESTATAL DEL DEPORTE
 
@@ -505,9 +513,13 @@ V.- Recibir asistencia y entrenamiento deportivo, así como los servicios médic
 
 VI.- Participar en competencias, juegos o eventos deportivos reglamentarios u oficiales, emanados del Sistema Estatal del Deporte;
 
-VII.- Desempeñar cargos directivos, siempre y cuando hayan sido elegidos en asambleas de clubes, ligas, comités municipales o asociaciones deportivas; y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
 
-VIII.- Recibir toda clase de estímulos, becas, premios y reconocimientos;
+VII.- Desempeñar cargos directivos, siempre y cuando hayan sido elegidos en asambleas de clubes, ligas, comités municipales o asociaciones deportivas;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
+
+VIII.- Recibir toda clase de estímulos, becas, premios y reconocimientos, sin discriminación alguna y con independencia de su condición de persona con discapacidad; y
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
 
@@ -719,11 +731,11 @@ Los responsables de las instalaciones deportivas inscritas en el Registro Estata
 
 La persona Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Educación de la Entidad, hará más eficiente el uso de las instalaciones deportivas del Estado, de acuerdo a lo dispuesto por la fracción IV del artículo 21 de la presente Ley; programando su uso de tal manera, que presten servicio al mayor número de deportistas, aún fuera del horario normal de actividades.
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 39.
 
-En la construcción de instalaciones deportivas, deberá tomarse en cuenta las obras que sean necesarias para la práctica del deporte infantil y federado, debiendo en todo caso contar con las especificaciones técnicas señaladas en la Legislación correspondiente y que sean necesarias para su desarrollo.
+En la construcción de instalaciones deportivas, deberá tomarse en cuenta las obras que sean necesarias para la práctica del deporte infantil y adaptado, debiendo en todo caso contar con las especificaciones técnicas señaladas en la Legislación correspondiente y que sean necesarias para su desarrollo.
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
@@ -880,6 +892,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN XI BIS AL ARTÍCULO 18 DE LA LEY ESTATAL DEL DEPORTE”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VII, XII Y XIII DEL ARTÍCULO 18, LAS FRACCIONES VII Y VIII DEL 27, Y EL 39; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 18, TODOS DE LA LEY ESTATAL DEL DEPORTE".]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
