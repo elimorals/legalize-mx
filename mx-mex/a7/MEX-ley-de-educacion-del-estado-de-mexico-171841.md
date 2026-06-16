@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-171841"
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-29"
-last_updated: "2026-05-20"
+last_updated: "2026-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Segunda del Número 39 de la Gaceta del Gobierno del Estado de México, el jueves 29 de febrero de 2024.
 
@@ -177,9 +177,17 @@ I. La identidad y el sentido de pertenencia, además del respeto desde la interc
 
 II. La responsabilidad ciudadana, sustentada en valores como la honestidad, la justicia, la solidaridad, la reciprocidad, la lealtad, la libertad, entre otros;
 
-III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural, político y económico, y
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2026)</small>
 
-IV. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida sostenibles.
+III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural, político y económico;
+
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2026)</small>
+
+IV. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida sostenibles; y
+
+> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2026)</small>
+
+V. El respeto, cuidado y bienestar de los seres sintientes, con el fin de promover en niñas, niños y adolescentes, y personas adultas la ética en el trato digno y responsable hacia ellos, así como la comprensión de su relación con el equilibrio biológico y la salud integral.
 
 ###### Artículo 11.
 
@@ -1878,3 +1886,21 @@ G.G. 20 DE MAYO DE 2026.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 333.- POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN, CUIDADO Y BIENESTAR ANIMAL DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 48, LA DENOMINACIÓN DEL CAPÍTULO III DEL SUBTÍTULO SÉPTIMO DEL LIBRO SEGUNDO, LOS ARTÍCULOS 235 BIS, 235 TER, 235 QUÁTER Y LAS FRACCIONES II Y III DEL ARTÍCULO 288; Y SE ADICIONA (SIC) LOS ARTÍCULOS 31 BIS, 235 QUINQUIES, LA FRACCIÓN IV AL ARTÍCULO 288 Y LA FRACCIÓN XXIV AL ARTÍCULO 290 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 41, EL ARTÍCULO 49, LA DENOMINACIÓN DEL CAPÍTULO SÉPTIMO Y LAS FRACCIONES X Y XI Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 63; Y SE ADICIONAN LA FRACCIÓN VIII RECORRIENDO LA SUBSECUENTE AL ARTÍCULO 41, Y LAS FRACCIONES XII, XIII Y XIV AL ARTÍCULO 63 DE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS; SE REFORMA EL TÍTULO SEXTO DEL LIBRO CUARTO QUEDANDO INTEGRADO CON LOS ARTÍCULOS 4.178, 4.179, 4.180, 4.181, 4.182, 4.183, 4.184, 4.185 Y 4.186 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO SEXTO BIS DEL TÍTULO IV, EL ARTÍCULO 124 BIS, LA FRACCIÓN III DEL ARTÍCULO 124 TER, EL ARTÍCULO 124 QUATER Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 124 SEPTIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 10; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO; Y SE DEROGA EL LIBRO SEXTO DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los procedimientos que a la entrada en vigor del presente Decreto se encuentren en trámite continuarán su sustanciación y se resolverán conforme a la legislación aplicable al momento de su inicio; no obstante, podrán aplicarse las disposiciones de esta Ley cuando resulten más favorables.
+
+CUARTO. El Poder Ejecutivo expedirá las disposiciones administrativas que correspondan para dar cumplimiento al presente Decreto dentro del plazo de 180 días hábiles contados a partir de la entrada en vigor del mismo.
+
+QUINTO. Las dependencias del Poder Ejecutivo Estatal, sus organismos públicos descentralizados, los órganos autónomos y los ayuntamientos deberán adecuar su marco normativo al presente Decreto dentro del plazo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+SÉPTIMO. Los Ayuntamientos proveerán en la esfera de su competencia la adecuación a las normas que rigen su actuación y tomarán las previsiones financieras y administrativas necesarias para dar cumplimiento al presente Decreto.
