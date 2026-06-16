@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2025-11-04"
+last_updated: "2026-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -1051,11 +1051,13 @@ V. La Ley de Derechos, Cultura y Desarrollo de los Pueblos y Comunidades Indíge
 
 VI. Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 72.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología, optometría y sus ramas, podología y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización o de profesional técnico hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología, optometría y sus ramas, podología, psiquiatría, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización o de profesional técnico hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2019)</small>
 
 Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, podología, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
 
@@ -1379,6 +1381,14 @@ Cuando el disponente originario no haya otorgado su consentimiento en vida para 
 
 Las Instituciones hospitalarias del Sistema Estatal de Salud, y la Procuraduría General de Justicia del Estado, deberá notificar al Registro Estatal de Transplantes (sic) de los decesos ocurridos de los que tengan conocimiento, con el fin de facilitar la donación altruista de los órganos.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2026)</small>
+
+###### ARTICULO 102 Bis.
+
+Sólo en caso de que la pérdida de la vida de la persona donante esté relacionada con la averiguación de un delito, o se desconozca su identidad o forma de localizar a sus parientes, se dará intervención al Ministerio Público y a la autoridad judicial, para la extracción de órganos y tejidos.
+
+Todas las autoridades involucradas, así como el personal sanitario deberán actuar con la debida diligencia y oportunidad que amerita el caso.
+
 ###### ARTICULO 103.
 
 No será válido el consentimiento otorgado por:
@@ -1485,7 +1495,9 @@ Para la utilización de cadáveres de personas conocidas, o parte de ellos con f
 
 Cuando el disponente originario no haya expresado su voluntad por lo que respecta a la disposición de su cadáver, las personas a que se refiere la fracción I del artículo 316 de la Ley antes referida, podrán consentir en que se destine a la docencia e investigación, en los términos que al efecto señalen las disposiciones aplicables.
 
-Tratándose de cadáveres de personas desconocidas, las Instituciones Educativas, podrán obtenerlos del Ministerio Público o de establecimientos de prestación de servicios, de atención médica o de asistencia social. Para tales efectos, las Instituciones Educativas deberán estar autorizadas por la Secretaría de Salud, de conformidad con las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2026)</small>
+
+Tratándose de cadáveres de personas desconocidas, o no identificadas se estará a lo dispuesto en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
 
 ###### ARTICULO 122.
 
@@ -3760,3 +3772,19 @@ P.O. 4 DE NOVIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 72 Y EL TERCER PÁRRAFO DEL ARTÍCULO 121 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2, LA FRACCIÓN I DEL 7 Y LAS FRACCIONES I, II Y V DEL 10; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 14 DE LA LEY DE SALUD MENTAL Y ADICCIONES PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE ADICIONA EL ARTÍCULO 102 BIS A LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a los quince días naturales de su publicación.
+
+SEGUNDO. Se deroga toda disposición legal y reglamentaria que se oponga al presente Decreto.
