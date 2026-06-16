@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2026-04-17"
+last_updated: "2026-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -1055,11 +1055,13 @@ La Secretaría gestionará en coordinación con la Secretaría de Desarrollo Eco
 
 Se promoverán incentivos o estímulos fiscales a los prestadores de servicios turísticos que cumplan con los ordenamientos, normas oficiales y lineamientos en materia de turismo, así como aquellos que fomenten el empleo, la accesibilidad en beneficio de las personas con discapacidad y en materia de protección al medio ambiente y turismo sustentable de conformidad con las Leyes de Ingresos y de Egresos del ejercicio fiscal que corresponda y las demás leyes en la materia.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2026)</small>
 
 ###### Artículo 70 Bis.
 
-El Congreso del Estado, a través de su Comisión de Turismo, concederá cada año, un galardón a los prestadores de servicios que se destaquen por su interés, creatividad, inversión, atención y promoción de la actividad turística en el Estado.
+El Congreso del Estado podrá otorgar anualmente un reconocimiento a los prestadores de servicios turísticos que destaquen por su creatividad, inversión, atención o promoción de la actividad turística, y contribuyan al fortalecimiento, innovación, sostenibilidad, inclusión, accesibilidad, promoción o preservación del patrimonio turístico del Estado.
+
+Para efectos del párrafo anterior, la Comisión de Turismo establecerá los criterios y tendrá a su cargo el desahogo del proceso correspondiente.
 
 ###### Artículo 71.
 
@@ -1518,3 +1520,11 @@ P.O. 17 DE ABRIL DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA EL ARTÍCULO 70 BIS DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
