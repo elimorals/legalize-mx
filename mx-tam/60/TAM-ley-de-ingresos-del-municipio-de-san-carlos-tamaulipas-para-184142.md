@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-municipio-de-san-carlos-tamaulipas-para-184
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-26"
-last_updated: "2025-12-26"
+last_updated: "2026-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "TAM"
 
 LEY DE INGRESOS DEL MUNICIPIO DE SAN CARLOS, TAMAULIPAS, PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026
 
 Ley publicada en el Extraordinario Número 64 del Periódico Oficial del Estado de Tamaulipas, el viernes 26 de diciembre de 2025.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA IMPUGNADO ANTE ESTE TRIBUNAL CONSTITUCIONAL.]</small>
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO Y SU REFORMA SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA IMPUGNADO ANTE ESTE TRIBUNAL CONSTITUCIONAL.]</small>
 
 ###### Artículo 26.
 
@@ -157,9 +157,9 @@ colindancia (s) a la
 
 calle.
 
-XVIII. Por la expedición de licencias de construcción o edificación para antenas de telefonía celular, por cada una 1,138 UMAS diarias;
+XVIII. (DEROGADA, P.O. 16 DE JUNIO DE 2026)
 
-XIX. Por la expedición de licencias de construcción o edificación para antenas de radiocomunicación privadas, por cada 30 metros lineales, 7.5 UMAS diarias;
+XIX. (DEROGADA, P.O. 16 DE JUNIO DE 2026)
 
 XX. Modificación de dictamen de subdivisión, fusión y relotificación, sin alterar la disposición de lotes, usos, dimensiones y accesos, 2 UMAS diarias;
 
