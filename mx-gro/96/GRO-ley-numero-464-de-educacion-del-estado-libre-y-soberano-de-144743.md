@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-464-de-educacion-del-estado-libre-y-soberano-de-1447
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-23"
-last_updated: "2026-05-15"
+last_updated: "2026-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 23 de octubre de 2020.
 
@@ -929,35 +929,41 @@ Las autoridades educativas federal, estatal y municipal ofrecerán servicios de 
 
 ### Capítulo II. Fomento de estilos de vida saludables en el entorno escolar
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2026)</small>
+
 ###### Artículo 77.
 
-Las autoridades educativas estatal y municipal en el ámbito de su competencia, aplicarán y vigilarán el cumplimiento de los lineamientos que emita la autoridad educativa federal sobre la distribución de los alimentos y bebidas preparadas y procesadas dentro de las escuelas.
+Las autoridades educativas estatal y municipal en el ámbito de su competencia, aplicarán y vigilarán el cumplimiento de los lineamientos que emita la autoridad educativa federal sobre la preparación, expendio y distribución de alimentos y bebidas dentro de los planteles escolares públicos y privados.
 
-Las autoridades educativas estatal y municipal realizarán acciones de vigilancia para que en los alimentos y bebidas que se preparen y procesen al interior de las escuelas cumplan con la higiene y el valor nutritivo para la salud de los educandos.
+Las autoridades educativas estatal y municipal realizarán acciones de vigilancia para que en los alimentos y bebidas que se ofrezcan al interior de las escuelas cumplan con el valor nutritivo y la higiene adecuados para la salud de las y los educandos, garantizando el cumplimiento de los criterios nutrimentales establecidos por la Secretaría de Salud federal y estatal, así como su evaluación periódica.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2026)</small>
 
 ###### Artículo 78.
 
-Dentro de las tiendas y cooperativas escolares, queda prohibida la distribución y comercialización de alimentos, que no favorezcan la salud de los educandos, así como las bebidas energizantes.
+Queda prohibida la distribución y comercialización de alimentos que no favorezcan la salud de los educandos, así como las bebidas energizantes, dentro de las tiendas y cooperativas escolares.
 
-Las autoridades educativas estatal y municipal promoverán ante las autoridades correspondientes, la prohibición de la venta de alimentos con bajo valor nutritivo y alto contenido calórico en las inmediaciones de los planteles escolares.
+Las autoridades educativas estatal y municipal promoverán ante las autoridades correspondientes, la prohibición de la venta y publicidad de alimentos con bajo valor nutritivo y alto contenido calórico en las inmediaciones de los planteles escolares.
 
-Establecerán disposiciones de carácter general a que deberán sujetarse el expendio y distribución de bebidas y alimentos preparados y procesados, dentro de toda escuela pública o privada, en cuya elaboración se cumplirán los criterios que para tal efecto realice la Secretaría de Salud estatal y federal.
+Deberán establecer disposiciones de carácter general que regulen el expendio de alimentos naturales, saludables, sostenibles y de la región, así como el consumo de agua simple potable dentro de las escuelas públicas o privadas, la elaboración de alimentos y bebidas deberán cumplir los criterios que emitan la Secretaría de Salud estatal y federal.
 
-Las autoridades educativas estatal y municipal establecerán una coordinación con la Secretaría de Salud, desarrollarán estrategias para verificar que en las escuelas públicas y privadas de nivel básico, medio superior y superior, los alimentos que se expendan o proporcionen contengan un adecuado índice de valor nutricional.
+Las autoridades educativas estatal y municipal establecerán una coordinación con la Secretaría de Salud, desarrollarán estrategias para verificar que, en las escuelas públicas y privadas de nivel básico, medio superior y superior, los alimentos que se expendan o proporcionen contengan un adecuado índice de valor nutricional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2026)</small>
 
 ###### Artículo 79.
 
-Las autoridades educativas estatal y municipal coadyuvarán con la autoridad federal en el establecimiento de las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, las autoridades educativas considerarán las Normas Oficiales Mexicanas respectivas y las recomendaciones de tratados y convenios internacionales de los que México es parte.
+Las autoridades educativas estatal y municipal coadyuvarán con la autoridad federal en el establecimiento de las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, el sobrepeso y la obesidad entre los educandos, así como la promoción de la activación física, el deporte escolar, la educación física, y los buenos hábitos nutricionales.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2024)</small>
+En materia de la promoción de la salud escolar, las autoridades educativas observarán las Normas Oficiales Mexicanas en materia de salud y nutrición, así como tratados, convenios y recomendaciones internacionales en los que México es parte.
 
-Las autoridades competentes en el ámbito de sus facultades, fomentarán prioritariamente la educación física en las instituciones educativas de nivel básico, la cual podrá practicarse hasta sesenta minutos diarios para maximizar el sano desarrollo de las y los educandos, fortaleciendo los hábitos saludables, el deporte educativo y la recreación. La autoridad educativa procurará de manera progresiva, los recursos humanos y financieros necesarios.
+Las autoridades competentes, fomentarán la educación física en las instituciones educativas de nivel básico, la cual podrá practicarse hasta sesenta minutos diarios para maximizar el sano desarrollo de las y los educandos, fortaleciendo los hábitos saludables, el deporte educativo y la recreación, previendo de manera progresiva, los recursos humanos y financieros necesarios.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2026)</small>
 
 ###### Artículo 80.
 
-Las cooperativas que funcionen con la participación de la comunidad educativa fomentarán estilos de vida saludables en la alimentación de los educandos y su operación será con apego a los lineamientos que establezca la autoridad educativa federal y a las demás disposiciones aplicables.
+Las cooperativas que funcionen con o sin la participación de la comunidad educativa, fomentarán estilos de vida saludables y de alimentación en las y los educandos, su operación será con apego a los lineamientos que establezca la autoridad educativa federal y a las demás disposiciones aplicables, evitando el conflicto de intereses.
 
 ### Capítulo III. La cultura de la paz, convivencia democrática en las escuelas y entornos escolares libres de violencia
 
@@ -2020,3 +2026,15 @@ Túrnese el presente Decreto a la titular del Poder Ejecutivo del Estado Libre y
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en la Gaceta Parlamentaria de este Órgano Legislativo.
+
+P.O. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 535 POR EL QUE SE REFORMAN LOS ARTÍCULOS 77, 78, 79 Y 80 DE LA LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento y publicación correspondiente.
+
+TERCERO. Las autoridades educativas estatal y municipal deberán emitir, en un plazo no mayor a 90 días naturales, los lineamientos específicos para dar cumplimiento a lo dispuesto en este Decreto.
+
+CUARTO. Las escuelas públicas y privadas contarán con un plazo máximo de 180 días naturales para adecuar sus cooperativas escolares y puntos de venta conforme a las nuevas disposiciones.
