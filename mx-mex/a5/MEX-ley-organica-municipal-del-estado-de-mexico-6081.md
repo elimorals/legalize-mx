@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2026-06-03"
+last_updated: "2026-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JUNIO DE 2026.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -2935,29 +2935,15 @@ Los órganos de control y evaluación gubernamental de los ayuntamientos, serán
 
 Asimismo, serán responsables de informar a la Secretaría de Finanzas sobre la constitución de aquellos fideicomisos simples que utilicen recursos públicos, estando obligados a proporcionar la información que la misma les solicite, en cumplimiento a lo previsto por el Código Financiero del Estado de México y Municipios y demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 17 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE JUNIO DE 2026)</small>
 
-### CAPITULO SEXTO BIS
+### CAPITULO SEXTO BIS. De los Centros de Control y Bienestar Animal y del Consejo Municipal de Control y Bienestar Animal
 
-De las Unidades Municipales de Control y Bienestar Animal, y del Consejo Municipal de Control y Bienestar Animal.
-
-> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, G.G. 16 DE JUNIO DE 2026)</small>
 
 ###### Artículo 124 Bis.
 
-En cada municipio se establecerá una Unidad de Control y Bienestar Animal, la cual tendrá las siguientes funciones:
-
-I. Desarrollar y aplicar programas de esterilización permanente de perros y gatos de compañía y en situación de calle;
-
-II. Promoción de la educación y cultura de la convivencia responsable de los animales de compañía;
-
-III. De vacunación y esterilización;
-
-IV. De difusión, promoción y fomento de adopción de animales;
-
-V. Capacitación para la promoción del bienestar animal;
-
-VI. Control poblacional de perros y gatos en situación de calle; por medio de la esterilización.
+En cada municipio se establecerá un Centro de Control y Bienestar Animal, la cual tendrá las funciones previstas en la Ley de Protección, Cuidado y Bienestar Animal del Estado de México.
 
 > <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2021)</small>
 
@@ -2969,7 +2955,9 @@ I. Coordinar, organizar y difundir la operación de programas permanentes de con
 
 II. Atender y canalizar los reportes de maltrato animal en situación de calle;
 
-III. Aplicar y atender la normatividad en materia de control y bienestar animal, con el objetivo de garantizar la protección a los animales de compañía en situación de calle, y demás animales a que se refiere el artículo 6.3 del Código para la Biodiversidad del Estado de México.
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2026)</small>
+
+III. Aplicar y atender la normatividad en materia de control y bienestar animal, con el objetivo de garantizar la protección a los animales de compañía en situación de calle, y demás animales a que se refiere la Ley de Protección, Cuidado y Bienestar Animal del Estado de México;
 
 IV. Establecer un plan de trabajo anual, mismo que se pondrá a consideración del Consejo Municipal de Control y Bienestar Animal durante el mes de enero de cada año;
 
@@ -2991,11 +2979,11 @@ XII. Esterilizar a diez por ciento del total de animales en situación de calle 
 
 Para el cumplimiento de sus funciones, podrá auxiliarse de las dependencias de la administración pública municipal, y solicitar colaboración de otras instancias de gobierno, iniciativa privada o de la sociedad civil.
 
-> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, G.G. 16 DE JUNIO DE 2026)</small>
 
 ###### Artículo 124 Quater.
 
-Para ser titular de la Unidad Municipal de Control y Bienestar Animal, se requiere, además de los requisitos del artículo 32 de esta Ley, contar con Licenciatura y Cédula en Medicina Veterinaria, Zootecnista o profesión que se relacione con el conocimiento del cuidado y manejo de animales.
+Para ser titular del Centro de Control y Bienestar Animal, se requiere, además de los requisitos del artículo 32 de esta Ley, contar con Licenciatura y Cédula en Medicina Veterinaria y Zootecnia.
 
 > <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2021)</small>
 
@@ -3015,11 +3003,17 @@ En la integración del Consejo Municipal se deberá garantizar la inclusión de 
 
 El Consejo Municipal de Protección y Bienestar Animal, contará con las siguientes facultades:
 
-I. Opinar sobre el programa anual de trabajo que la titular o el titular de la Unidad de Control Animal ponga a consideración del consejo;
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2026)</small>
 
-II. Emitir opiniones sobre las acciones a realizar en materia de cuidado animal en situación de calle, las cuales deberán ser atendidas por la titular o el titular de la Unidad de Control Animal;
+I. Opinar sobre el programa anual de trabajo que la persona titular del Centro de Control y Bienestar Animal ponga a consideración del consejo;
 
-III. Emitir opiniones para la mejora continua en las actividades que realice la Unidad Municipal de Control y Bienestar Animal.
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2026)</small>
+
+II. Emitir opiniones sobre las acciones a realizar en materia de cuidado animal en situación de calle, las cuales deberán ser atendidas por la persona titular del Centro de Control y Bienestar Animal;
+
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2026)</small>
+
+III. Emitir opiniones para la mejora continua en las actividades que realice el Centro de Control y Bienestar Animal municipal.
 
 ### CAPITULO SEPTIMO. De los Servicios Públicos
 
@@ -5894,3 +5888,21 @@ CUARTO. El Instituto Electoral del Estado de México deberá elaborar un diagnó
 QUINTO. El Instituto Electoral del Estado de México emitirá lineamientos y criterios técnicos para la verificación de los supuestos de inelegibilidad relacionados con nepotismo electoral previstos en el presente Decreto.
 
 SEXTO. Las disposiciones contenidas en el presente Decreto relativas a la prohibición de reelección consecutiva y el nepotismo electoral serán aplicables a partir del proceso electoral a celebrarse en 2030.
+
+G.G. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 333.- POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN, CUIDADO Y BIENESTAR ANIMAL DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 48, LA DENOMINACIÓN DEL CAPÍTULO III DEL SUBTÍTULO SÉPTIMO DEL LIBRO SEGUNDO, LOS ARTÍCULOS 235 BIS, 235 TER, 235 QUÁTER Y LAS FRACCIONES II Y III DEL ARTÍCULO 288; Y SE ADICIONA LOS ARTÍCULOS 31 BIS, 235 QUINQUIES, LA FRACCIÓN IV AL ARTÍCULO 288 Y LA FRACCIÓN XXIV AL ARTÍCULO 290 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 41, EL ARTÍCULO 49, LA DENOMINACIÓN DEL CAPÍTULO SÉPTIMO Y LAS FRACCIONES X Y XI Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 63; Y SE ADICIONAN LA FRACCIÓN VIII RECORRIENDO LA SUBSECUENTE AL ARTÍCULO 41, Y LAS FRACCIONES XII, XIII Y XIV AL ARTÍCULO 63 DE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS; SE REFORMA EL TÍTULO SEXTO DEL LIBRO CUARTO QUEDANDO INTEGRADO CON LOS ARTÍCULOS 4.178, 4.179, 4.180, 4.181, 4.182, 4.183, 4.184, 4.185 Y 4.186 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO SEXTO BIS DEL TÍTULO IV, EL ARTÍCULO 124 BIS, LA FRACCIÓN III DEL ARTÍCULO 124 TER, EL ARTÍCULO 124 QUATER Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 124 SEPTIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 10; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO; Y SE DEROGA EL LIBRO SEXTO DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los procedimientos que a la entrada en vigor del presente Decreto se encuentren en trámite continuarán su sustanciación y se resolverán conforme a la legislación aplicable al momento de su inicio; no obstante, podrán aplicarse las disposiciones de esta Ley cuando resulten más favorables.
+
+CUARTO. El Poder Ejecutivo expedirá las disposiciones administrativas que correspondan para dar cumplimiento al presente Decreto dentro del plazo de 180 días hábiles contados a partir de la entrada en vigor del mismo.
+
+QUINTO. Las dependencias del Poder Ejecutivo Estatal, sus organismos públicos descentralizados, los órganos autónomos y los ayuntamientos deberán adecuar su marco normativo al presente Decreto dentro del plazo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+SÉPTIMO. Los Ayuntamientos proveerán en la esfera de su competencia la adecuación a las normas que rigen su actuación y tomarán las previsiones financieras y administrativas necesarias para dar cumplimiento al presente Decreto.
