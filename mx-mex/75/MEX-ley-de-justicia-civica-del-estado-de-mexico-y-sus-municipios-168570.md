@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-justicia-civica-del-estado-de-mexico-y-sus-municipios-16
 country: "mx"
 rank: "ley"
 publication_date: "2023-11-22"
-last_updated: "2026-04-28"
+last_updated: "2026-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE JUSTICIA CÍVICA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Segunda del Número 96 de la Gaceta del Gobierno del Estado de México, el miércoles 22 de noviembre de 2023.
 
@@ -691,9 +691,15 @@ V. Impartir pláticas, cursos, asesorías o actividades relacionadas con la prof
 
 VI. Participar en la organización o logística de talleres, exposiciones, muestras culturales, eventos artísticos y/o deportivos en espacios de concurrencia colectiva que determine el Ayuntamiento;
 
-VII. Asistir a los cursos, terapias o talleres diseñados para corregir su comportamiento, que determine el Ayuntamiento; y
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2026)</small>
 
-VIII. Las demás que determine el Ayuntamiento.
+VII. Asistir a los cursos, terapias o talleres diseñados para corregir su comportamiento, que determine el Ayuntamiento;
+
+> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2026)</small>
+
+VIII. Realizar actividades de cuidado, mantenimiento, atención o aportaciones en centros de control animal públicos, refugios, albergues o asociaciones legalmente constituidas y registradas en términos de la Ley de Protección, Cuidado y Bienestar Animal del Estado de México, relacionadas con el trato digno y respetuoso a los animales; y
+
+IX. Las demás que determine el Ayuntamiento.
 
 Dichas actividades podrán realizarse en las dependencias de la administración pública o en las instituciones educativas, sociales o privadas que determine el Ayuntamiento.
 
@@ -737,9 +743,11 @@ Procede la conmutación del arresto o multa por Trabajo en Favor de la Comunidad
 
 En los casos que procedan, la o el Juez Cívico hará del conocimiento de la persona infractora la prerrogativa a que se refiere este artículo.
 
+> <small>(REFORMADO, G.G. 16 DE JUNIO DE 2026)</small>
+
 ###### Artículo 49.
 
-El Trabajo en Favor de la Comunidad es una prerrogativa reconocida constitucionalmente a la persona infractora, consistente en la prestación de servicios no remunerados, en la dependencia, institución, órgano, espacios de concurrencia colectiva o cualquier otra, que para tal efecto se establezca.
+El Trabajo en Favor de la Comunidad es una prerrogativa reconocida constitucionalmente a la persona infractora, consistente en la prestación de servicios no remunerados, en la dependencia, institución, órgano, refugio, centro de control animal, organización de la sociedad civil, espacios de concurrencia colectiva o cualquier otra, que para tal efecto se establezca.
 
 ### CAPÍTULO TERCERO. MEDIDAS PARA MEJORAR LA CONVIVENCIA COTIDIANA
 
@@ -915,11 +923,15 @@ Para el caso de la fracción X se procederá a la conciliación cuando el probab
 
 De acuerdo con la clasificación presentada en el artículo 38 de la presente Ley, las faltas contenidas en la fracción I del presente artículo será clasificada (sic) como Infracciones Clase A; las fracciones II, III, IV y V serán clasificadas como Infracciones Clase B, mientras que las fracciones VI, VII, VIII, IX y X serán Clasificadas como Infracciones Clase C.
 
-### CAPÍTULO SÉPTIMO. INFRACCIONES CONTRA LA PROPIEDAD EN GENERAL Y EL MEDIO AMBIENTE
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO SÉPTIMO. INFRACCIONES CONTRA LA PROPIEDAD EN GENERAL, EL MEDIO AMBIENTE Y LOS ANIMALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE JUNIO DE 2026)</small>
 
 ###### Artículo 63.
 
-Son infracciones contra la propiedad en general y el medio ambiente:
+Son infracciones contra la propiedad en general, el medio ambiente y los animales:
 
 I. Abandonar muebles en áreas o vías públicas;
 
@@ -939,11 +951,29 @@ VIII. Arrojar en lugares no autorizados, animales muertos, escombros, desperdici
 
 IX. Hacer fogatas, incinerar sustancias, basura o desperdicios cuyo humo cause molestias o trastorno al ambiente, en lugares públicos y sin la autorización de la autoridad correspondiente;
 
-X. Realizar cualquier acto de forma intencional o imprudencial, que tenga como consecuencia: dañar, maltratar, ensuciar, o hacer uso indebido de las fachadas de inmuebles públicos o privados, estatuas, monumentos, postes, semáforos, buzones, tomas de agua, señalizaciones viales o de obras, plazas, parques, jardines u otros bienes semejantes, el daño a que se refiere esta fracción será competencia de la o el Juez Cívico hasta el valor de 20 veces la Unidad de Medida; y
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2026)</small>
 
-XI. Desperdiciar o utilizar indebidamente el agua, ya sea en cantidad excesiva, desproporcionada o permitir que se derrame en cualquier lugar sin ningún uso apropiado, así como impedir su uso a quienes deban tener acceso a ella en tuberías, tanques o tinacos almacenadores.
+X. Realizar cualquier acto de forma intencional o imprudencial, que tenga como consecuencia: dañar, maltratar, ensuciar, o hacer uso indebido de las fachadas de inmuebles públicos o privados, estatuas, monumentos, postes, semáforos, buzones, tomas de agua, señalizaciones viales o de obras, plazas, parques, jardines u otros bienes semejantes, el daño a que se refiere esta fracción será competencia de la o el Juez Cívico hasta el valor de 20 veces la Unidad de Medida;
 
-De acuerdo con la clasificación presentada en el artículo 38 de la presente Ley, las faltas contenidas en la fracción I, II, III y IV del presente artículo serán clasificadas como Infracciones Clase A; las fracciones V, VI, VII, VIII y IX serán clasificadas como Infracciones Clase B, mientras que las fracciones X y XI serán clasificadas como Infracciones Clase C.
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2026)</small>
+
+XI. Desperdiciar o utilizar indebidamente el agua, ya sea en cantidad excesiva, desproporcionada o permitir que se derrame en cualquier lugar sin ningún uso apropiado, así como impedir su uso a quienes deban tener acceso a ella en tuberías, tanques o tinacos almacenadores;
+
+> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2026)</small>
+
+XII. Mantener a un animal aislado o amarrado en azoteas, balcones, terrenos baldíos, vehículos o lugares abiertos expuestos a la intemperie, a ruidos excesivos, o a vibraciones, así como mantenerlos en cuartos oscuros, en condiciones de hacinamiento, en espacios que impidan su movimiento o sin proporcionales (sic) la alimentación, atención médica veterinaria oportuna o los cuidados necesarios para su bienestar y desarrollo según sean adecuados a su especie;
+
+> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2026)</small>
+
+XIII. Abandonar deliberadamente a un animal en la vía pública de tal manera que quede expuesto a riesgos que amenacen su integridad, la de otros animales o de las personas; y
+
+> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2026)</small>
+
+XIV. Utilizar animales en protestas, marchas, plantones o en cualquier otro acto análogo, provocando un sufrimiento o maltrato.
+
+> <small>(REFORMADO, G.G. 16 DE JUNIO DE 2026)</small>
+
+De acuerdo con la clasificación presentada en el artículo 38 de la presente Ley, las faltas contenidas en las fracciones I, II, III y IV del presente artículo serán clasificadas como Infracciones Clase A; las fracciones V, VI, VII, VIII y IX de este artículo serán clasificadas como Infracciones Clase B; las fracciones X y XI de este artículo serán clasificadas como Infracciones Clase C; y las faltas contenidas en las fracciones XII, XIII, y XIV serán clasificadas como infracciones Clase D, las que podrán ser conmutadas por la realización de veinticuatro a treinta y seis horas de trabajo a favor de la comunidad de las actividades señaladas en la fracción VIII del artículo 41 de la presente Ley.
 
 ### CAPÍTULO OCTAVO. INFRACCIONES CONTRA LA SALUD PÚBLICA
 
@@ -1504,3 +1534,21 @@ G.G. 28 DE ABRIL DE 2026.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 333.- POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN, CUIDADO Y BIENESTAR ANIMAL DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 48, LA DENOMINACIÓN DEL CAPÍTULO III DEL SUBTÍTULO SÉPTIMO DEL LIBRO SEGUNDO, LOS ARTÍCULOS 235 BIS, 235 TER, 235 QUÁTER Y LAS FRACCIONES II Y III DEL ARTÍCULO 288; Y SE ADICIONA LOS ARTÍCULOS 31 BIS, 235 QUINQUIES, LA FRACCIÓN IV AL ARTÍCULO 288 Y LA FRACCIÓN XXIV AL ARTÍCULO 290 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 41, EL ARTÍCULO 49, LA DENOMINACIÓN DEL CAPÍTULO SÉPTIMO Y LAS FRACCIONES X Y XI Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 63; Y SE ADICIONAN LA FRACCIÓN VIII RECORRIENDO LA SUBSECUENTE AL ARTÍCULO 41, Y LAS FRACCIONES XII, XIII Y XIV AL ARTÍCULO 63 DE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS; SE REFORMA EL TÍTULO SEXTO DEL LIBRO CUARTO QUEDANDO INTEGRADO CON LOS ARTÍCULOS 4.178, 4.179, 4.180, 4.181, 4.182, 4.183, 4.184, 4.185 Y 4.186 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO; SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO SEXTO BIS DEL TÍTULO IV, EL ARTÍCULO 124 BIS, LA FRACCIÓN III DEL ARTÍCULO 124 TER, EL ARTÍCULO 124 QUATER Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 124 SEPTIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 10; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO; Y SE DEROGA EL LIBRO SEXTO DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los procedimientos que a la entrada en vigor del presente Decreto se encuentren en trámite continuarán su sustanciación y se resolverán conforme a la legislación aplicable al momento de su inicio; no obstante, podrán aplicarse las disposiciones de esta Ley cuando resulten más favorables.
+
+CUARTO. El Poder Ejecutivo expedirá las disposiciones administrativas que correspondan para dar cumplimiento al presente Decreto dentro del plazo de 180 días hábiles contados a partir de la entrada en vigor del mismo.
+
+QUINTO. Las dependencias del Poder Ejecutivo Estatal, sus organismos públicos descentralizados, los órganos autónomos y los ayuntamientos deberán adecuar su marco normativo al presente Decreto dentro del plazo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+SÉPTIMO. Los Ayuntamientos proveerán en la esfera de su competencia la adecuación a las normas que rigen su actuación y tomarán las previsiones financieras y administrativas necesarias para dar cumplimiento al presente Decreto.
