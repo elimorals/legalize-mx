@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2026-04-28"
+last_updated: "2026-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -349,7 +349,9 @@ VII.- Que al momento de realizar el hecho típico, el agente no tenga la capacid
 
 a) Por circunstancias particulares del ofendido, si el acusado las ignoraba sin culpa al tiempo de obrar, o
 
-b) Por padecer el agente trastorno mental o desarrollo intelectual retardado, a no ser que él mismo hubiere provocado su trastorno mental dolosa o culposamente, en cuyo caso responderá por el resultado típico, siempre y cuando lo haya previsto o le fuere previsible.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2026)</small>
+
+b) Por padecer el agente discapacidad intelectual o mental, a no ser que él mismo la hubiese provocado dolosa o culposamente, en cuyo caso responderá por el resultado típico, siempre y cuando lo haya previsto o le fuere previsible.
 
 Cuando la capacidad a que se refiere este inciso anterior sólo se encuentre considerablemente disminuida, la punibilidad será hasta de las dos terceras partes del delito de que se trate.
 
@@ -2731,27 +2733,27 @@ Al que ilegalmente fabrique, imprima, grabe, transporte, exhiba, venda o haga ci
 
 La misma sanción establecida en el artículo anterior se impondrá a quien públicamente, en forma ilegal, ejecute o haga ejecutar exhibiciones lascivas u obscenas.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JUNIO DE 2026)</small>
 
-#### SECCION SEGUNDA.- CORRUPCION Y PORNOGRAFIA DE MENORES E INCAPACES O PERSONAS QUE NO PUDIEREN RESISTIR
+#### SECCION SEGUNDA.- CORRUPCION Y PORNOGRAFIA DE MENORES E INCAPACES O PERSONAS QUE NO PUDIEREN RESISTIR Y COHABITACION FORZADA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2026)</small>
 
 ###### Artículo 217.
 
-Comete el delito de corrupción de menores e incapaces o de personas que no puedan resistir, quien con relación a un menor de dieciocho años de edad o de quien no tuviere la capacidad de comprender el significado de los hechos o de quien por la razón que fuere no pueda oponer resistencia, obligue, procure, facilite, induzca, fomente, proporcione o favorezca las conductas siguientes:
+Comete el delito de corrupción de menores e incapaces o de personas que no puedan resistir, quien con relación a una persona menor de dieciocho años de edad o de quien no tuviere la capacidad de comprender el significado de los hechos o de quien por la razón que fuere no pueda oponer resistencia, obligue, procure, facilite, induzca, fomente, proporcione o favorezca las conductas siguientes:
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
 I.- A realizar actos sexuales o de exhibicionismo corporal con fines lascivos o sexuales, reales o simulados; al responsable de este delito se le impondrán de siete a doce años de prisión y multa de ochocientas a dos mil quinientas Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
 
-II.- Al consumo habitual de bebidas alcohólicas o al consumo de enervantes, estupefacientes, psicotrópicos, sustancias tóxicas, sean médicas, vegetales o de otra naturaleza, determinadas en la Ley General de Salud, cuyo uso esté prohibido, controlado o que de acuerdo con la medicina genere alteración en el comportamiento normal; o el tráfico o comercio de dichas sustancias. Quien cometa este delito será sancionado de cinco a diez años de prisión y multa de quinientas a mil Unidades de Medida y Actualización;
+II.- Al consumo habitual de bebidas alcohólicas, tabaco, cigarros electrónicos, vapeadores o al consumo de enervantes, estupefacientes, psicotrópicos, precursores químicos, drogas sintéticas, sustancias tóxicas, sean médicas, vegetales o de otra naturaleza, determinadas en la Ley General de Salud, cuyo uso esté prohibido, controlado o que de acuerdo con la medicina genere alteración en el comportamiento normal; o el tráfico o comercio de dichas sustancias. Quien cometa este delito será sancionado de cinco a diez años de prisión y multa de quinientas a mil Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
 
-III.- Al que permita el acceso de un menor a espectáculos, obras gráficas o audiovisual de carácter lascivo o sexual, se le impondrá prisión de tres a cinco años y multa de doscientas a mil doscientas Unidades de Medida y Actualización; o
+III.- Al que permita el acceso de un menor a espectáculos, exhibiciones, obras gráficas o audiovisual de carácter lascivo o sexual, se le impondrá prisión de tres a cinco años y multa de doscientas a mil doscientas Unidades de Medida y Actualización; o
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
@@ -2813,9 +2815,15 @@ La posesión de una o más fotografías, filmes, videos o cualquier otro medio i
 
 No constituyen pornografía los programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto contenido sexual, sobre la función reproductiva, de infecciones de transmisión sexual y embarazo de adolescentes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2026)</small>
+
 ###### Artículo 224.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2012)
+Comete el delito de cohabitación forzada de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien obligue, coaccione, induzca, solicite, gestione u oferte a una o varias de estas personas a unirse informal o consuetudinariamente, con o sin su consentimiento, con alguien de su misma condición o con persona mayor de dieciocho años de edad, con el fin de convivir en forma constante y equiparable a la de un matrimonio.
+
+Al responsable de este delito se le impondrá pena de ocho a quince años de prisión y multa de mil a dos mil quinientos días del valor de la Unidad de Medida y Actualización.
+
+La pena prevista en el párrafo anterior se aumentará hasta en una mitad, en su mínimo y en su máximo, si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana, o si entre las personas sujeta activa y pasiva existiera relación de parentesco, tutela, guarda, custodia, autoridad, confianza o cualquier otra que implique subordinación o dependencia.
 
 ###### Artículo 224 Bis.
 
@@ -3961,9 +3969,9 @@ La fracción III de este artículo implica que el sujeto activo asista a los pro
 
 Una vez cumplidas las condiciones convenidas ante el Ministerio Público, incluida la reeducación del sujeto activo en la forma en que establece este artículo, procederán los efectos del restablecimiento indemnatos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2026)</small>
 
-Lo anterior no se aplicará a víctimas con dictamen psicológico que revelen sometimiento psicológico respecto de su agresor, niñas, niños y adolescentes, mujeres embarazadas, personas con discapacidad ni mayores de sesenta años.
+Lo anterior no se aplicará a víctimas con dictamen psicológico que revele sometimiento psicológico respecto de su agresor, niñas, niños y adolescentes, mujeres embarazadas, personas con discapacidad, ni personas adultas mayores.
 
 CAPITULO DECIMOTERCERO.- INFRACCIONES A LAS LEYES Y REGLAMENTOS SOBRE INHUMACIONES Y EXHUMACIONES
 
@@ -4151,9 +4159,9 @@ Se impondrá de treinta años de prisión a prisión vitalicia y multa de cuatro
 
 a) Que el autor sea o haya sido integrante de alguna institución de seguridad pública, o se ostente como tal sin serlo;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2026)</small>
 
-b) Que la víctima sea menor de dieciocho años de edad, mayor de sesenta años de edad, mujer o que por cualquier otra circunstancia se encuentre en inferioridad física o mental respecto de quien ejecuta la privación de la libertad;
+b) Que la víctima sea persona menor de dieciocho años de edad, persona adulta mayor, mujer o que por cualquier otra circunstancia se encuentre en inferioridad física o mental respecto de quién ejecuta la privación de la libertad.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -4541,9 +4549,9 @@ III.- Cuando el sujeto activo se vale de algún medio que debilita la defensa de
 
 IV.- Cuando el ofendido se halla inerme o caído y el sujeto activo armado o de pie;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
 
-V.- Cuando la víctima padezca alguna discapacidad; y
+V.- Cuando la víctima sea persona con discapacidad; y
 
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -4885,11 +4893,11 @@ El delito de abandono de personas se perseguirá a petición del ofendido salvo 
 
 (DEROGADO, P.O. 4 DE ENERO DE 2012)
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2026)</small>
 
 ###### Artículo 350.
 
-Al que encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a sí mismo, o a una persona herida, inválida o amenazada de un peligro cualquiera y no diere aviso inmediato a la autoridad u omitiere prestarle el auxilio necesario, cuando pudiere hacerlo sin riesgo personal, se le impondrán de uno a seis meses de prisión o multa de una a diez Unidades de Medida y Actualización.
+Al que encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a sí mismo, o a una persona herida, con discapacidad o amenazada de un peligro cualquiera y no diere aviso inmediato a la autoridad u omitiere prestarle el auxilio necesario, cuando pudiere hacerlo sin riesgo personal, se le impondrán de uno a seis meses de prisión o multa de una a diez Unidades de Medida y Actualización.
 
 ###### Artículo 351.
 
@@ -4951,7 +4959,9 @@ CAPITULO DECIMOSEPTIMO.- DELITOS CONTRA EL HONOR Y LA DIGNIDAD
 
 Se impondrán de tres meses a tres años de prisión y multa de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización, a la persona autora de golpes y violencias físicas o psicológicas o de ambas, si la persona ofendida fuere ascendiente o descendiente menor de edad de la persona ofensora.
 
-Si la persona ofendida fuere menor de edad o mayor de sesenta años o persona con discapacidad, la sanción se aumentará hasta en una mitad.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2026)</small>
+
+Si la persona ofendida fuere menor de dieciocho años de edad, adulta mayor o con discapacidad, la sanción se aumentará hasta en una mitad.
 
 ###### Artículo 356.
 
@@ -5289,9 +5299,9 @@ XXII.- Cuando recaiga sobre documentos que se conserven en oficinas públicas, c
 
 XXIII.- Cuando se cometa en una oficina bancaria, recaudadora u otra en que se conserven caudales o valores, o contra personas que las custodien o transporten;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
 
-XXIV.- Cuando se cometa en contra de persona con discapacidad o de más de sesenta años de edad;
+XXIV.- Cuando se cometa en contra de persona con discapacidad o persona adulta mayor;
 
 > <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2023)</small>
 
@@ -8104,3 +8114,19 @@ P.O. 28 DE ABRIL DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL INCISO B) DE LA FRACCIÓN VII DEL ARTÍCULO 26, EL ACÁPITE Y LAS FRACCIONES II Y III DEL ARTÍCULO 217, EL PÁRRAFO QUINTO DEL ARTÍCULO 284 QUATER, EL INCISO B) DEL ARTÍCULO 302 BIS, LA FRACCIÓN V DEL ARTÍCULO 326, EL ARTÍCULO 350, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 355 Y LA FRACCIÓN XXIV DEL ARTÍCULO 380, TODOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DE LA SECCIÓN SEGUNDA DEL CAPÍTULO SÉPTIMO DEL LIBRO SEGUNDO Y EL ARTÍCULO 224 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
