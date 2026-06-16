@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-municipio-de-tampico-tamaulipas-para-el-184
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-26"
-last_updated: "2025-12-26"
+last_updated: "2026-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE INGRESOS DEL MUNICIPIO DE TAMPICO, TAMAULIPAS PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
 
 Ley publicada en el Extraordinario Número 64 del Periódico Oficial del Estado de Tamaulipas, el viernes 26 de diciembre de 2025.
 
@@ -103,7 +103,9 @@ Espectacular Tipo Cartelera 90 UMAS
 
 El pago de derechos por mantenimiento se realizará cada seis meses en los periodos de Enero a Febrero y Julio a Agosto, de no realizar el pago en el periodo mencionado serán acreedores a una sanción de 10 UMAS por cada mes de rezago.
 
-V) Por la verificación de documentación y expedición de visto bueno para instalar, colocar o fijar estructuras elevadas, tales como, anuncio espectacular y publicitario, antena, torre de comunicaciones, torre de alta tensión, puente peatonal, tanque estacionario o similares, se cobrará de acuerdo a lo señalado en la siguiente tabla:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2026)</small>
+
+V) Por la verificación de documentación y expedición de visto bueno para instalar, colocar o fijar estructuras elevadas, tales como, anuncio espectacular y publicitario, torre de alta tensión, puente peatonal, tanque estacionario o similares, se cobrará de acuerdo a lo señalado en la siguiente tabla:
 
 TIPO DE ANUNCIO TARIFA
 
@@ -113,13 +115,15 @@ Tanques Estacionarios o Similares 60 UMAS
 
 Puentes Peatonales o Similares 70 UMAS
 
-Antenas 90 UMAS
+> <small>(DEROGADO, P.O. 16 DE JUNIO DE 2026)</small>
 
-Torre de Telecomunicaciones 100 UMAS
+> <small>(DEROGADO, P.O. 16 DE JUNIO DE 2026)</small>
 
 Torre de Alta Tensión 100 UMAS
 
-VI) Por la autorización de mantenimiento, renovación, modificación y/o retiro de estructuras elevadas, tales como anuncio espectacular y/o publicitario, antena, torre de comunicaciones, torre de alta tensión, puente peatonal, tanque estacionario o similares, en el sitio o con el desmonte de la misma, se cobrará de acuerdo a lo señalado en la siguiente tabla:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2026)</small>
+
+VI) Por la autorización de mantenimiento, renovación, modificación y/o retiro de estructuras elevadas, tales como anuncio espectacular y/o publicitario, torre de alta tensión, puente peatonal, tanque estacionario o similares, en el sitio o con el desmonte de la misma, se cobrará de acuerdo a lo señalado en la siguiente tabla:
 
 TIPO DE ANUNCIO TARIFA
 
@@ -129,9 +133,9 @@ Tanques Estacionarios o Similares 25 UMAS
 
 Puentes Peatonales o Similares 30 UMAS
 
-Antenas 40 UMAS
+> <small>(DEROGADO, P.O. 16 DE JUNIO DE 2026)</small>
 
-Torre de Telecomunicaciones 50 UMAS
+> <small>(DEROGADO, P.O. 16 DE JUNIO DE 2026)</small>
 
 Torre de Alta Tensión 50 UMAS
 
