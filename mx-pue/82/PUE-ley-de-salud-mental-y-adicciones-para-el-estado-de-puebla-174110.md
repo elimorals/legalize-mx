@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-salud-mental-y-adicciones-para-el-estado-de-puebla-17411
 country: "mx"
 rank: "ley"
 publication_date: "2024-08-15"
-last_updated: "2024-08-15"
+last_updated: "2026-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SALUD MENTAL Y ADICCIONES PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
 
 Ley publicada en la Cuarta Sección del Número 11 del Periódico Oficial del Estado de Puebla, el jueves 15 de agosto de 2024.
 
@@ -57,7 +57,9 @@ La presente Ley es de orden público, interés social y observancia general en e
 
 La presente Ley tiene por objeto:
 
-I. Garantizar el acceso universal, igualitario y equitativo a los servicios de salud mental, fomento, promoción, prevención, tratamiento y rehabilitación, de las personas con trastornos mentales, trastornos mentales y del comportamiento debido al consumo de sustancias psicotrópicas, con un enfoque de derechos humanos y de perspectiva de género;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
+
+I. Garantizar el acceso universal, igualitario y equitativo a los servicios de salud mental, fomento, promoción, prevención, tratamiento y rehabilitación, de las personas con trastornos mentales, trastornos mentales y del comportamiento debido al consumo de sustancias psicotrópicas, con un enfoque de derechos humanos, perspectiva de género y perspectiva de niñez;
 
 II. Establecer mecanismos para la sensibilización, promoción, prevención, evaluación, diagnóstico, tratamiento, recuperación, integración y bienestar de la población usuaria en materia de salud mental y adicciones;
 
@@ -189,7 +191,9 @@ XII. Respeto irrestricto a los Derechos Humanos. de las personas con trastornos 
 
 La población usuaria de los servicios de salud mental y adicciones tienen los derechos siguientes:
 
-I. Recibir atención sanitaria y social integral, humanizada, de calidad y continua, a partir del acceso igualitario y equitativo a las prestaciones e insumos necesarios, con el objeto de asegurar la recuperación y preservación de su salud mental, con perspectiva intercultural, pertinencia lingüística y perspectiva de género;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
+
+I. Recibir atención sanitaria y social integral, humanizada, de calidad y continua, a partir del acceso igualitario y equitativo a las prestaciones e insumos necesarios, con el objeto de asegurar la recuperación y preservación de su salud mental, con perspectiva intercultural, pertinencia lingüística, perspectiva de género y perspectiva de niñez;
 
 II. Ser atendido por su problema de salud mental y/o adicciones en el establecimiento de salud más cercano a su domicilio; protegiéndose la vinculación con su entorno familiar, comunitario, social y laboral; evitando medidas de aislamiento, contención coercitiva o cualquier práctica que constituya tratos crueles, inhumanos o degradantes y, en su caso, ser sujeto a medios para atenuar el escalamiento de crisis;
 
@@ -271,15 +275,21 @@ VI. Las demás acciones que contribuyan a la atención prioritaria de la salud m
 
 La Secretaría de Educación, en el ámbito de su competencia, fomentará y llevará a cabo acciones de coordinación con las autoridades competentes, para que las Instituciones educativas:
 
-I. Cuenten con personal capacitado y actualizado en la materia de psicología, pedagogía infantil y educación escolar de acuerdo a la edad de los educandos, con el objetivo de identificar un posible trastorno mental que presenten niñas o niños, debiéndolos canalizar a algún Módulo de Atención Mental o Centro Hospitalario, así como informar a sus padres o tutores y dar la orientación correspondiente, de acuerdo a su capacidad de respuesta;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
 
-II. Proporcionen material informativo básico en salud mental a las madres, padres o tutores con la finalidad de identificar algún trastorno y aplicar los protocolos internos de actuación para la canalización de niñas, niños y adolescentes a las autoridades competentes;
+I. Cuenten con personal capacitado y actualizado en la materia de psicología, pedagogía infantil y educación escolar de acuerdo a la edad de las y los educandos, con el objetivo de identificar un posible trastorno mental que presenten niñas, niños, o adolescentes, debiéndolos canalizar a algún Módulo de Atención Mental o Centro Hospitalario, así como informar a sus madres, padres o tutores y dar la orientación correspondiente, de acuerdo a su capacidad de respuesta;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
+
+II. Proporcionen material informativo básico en materia de salud mental a las madres, padres o tutores con la finalidad de identificar algún trastorno mental y aplicar los protocolos internos de actuación para la canalización de niñas, niños y adolescentes a las autoridades competentes;
 
 III. Promuevan el componente de salud mental y adicciones con base en el modelo de atención primaria a la salud;
 
 IV. En términos de lo establecido en la Ley de Educación del Estado de Puebla, realizar los ajustes razonables en función de las necesidades de las personas que tengan algún trastorno mental y otorgar los apoyos necesarios para facilitar su formación, y
 
-V. Implementar y fomentar programas relacionados con la salud mental de niñas, niños y adolescentes.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
+
+V. Implementen y fomenten acciones, campañas o programas relacionados con la promoción, prevención, y atención de la salud mental de niñas, niños y adolescentes.
 
 ### CAPÍTULO III. DEL CECA Y LOS PROGRAMAS DE SALUD MENTAL Y ADICCIONES
 
@@ -327,7 +337,9 @@ XV. Promover, con la colaboración de las jurisdicciones sanitarias y de la Comi
 
 XVI. Realizar y mantener actualizado el censo estatal de los centros de internamientos en salud mental y de atención y control contra las adicciones;
 
-XVII. Desarrollar actividades educativas, socioculturales y recreativas con carácter permanente que contribuyan a la salud mental y a la prevención de adicciones, preferentemente a grupos en situación de vulnerabilidad;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
+
+XVII. Desarrollar actividades educativas, socioculturales, deportivas y recreativas con carácter permanente que contribuyan a la salud mental y a la prevención de adicciones, preferentemente a grupos en situación de vulnerabilidad;
 
 XVIII. Detectar a los grupos poblacionales en riesgo de presentar trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones, preferentemente en niñas, niños y adolescentes y miembros de grupos vulnerables;
 
@@ -350,6 +362,10 @@ XXV. Las demás acciones que directa o indirectamente contribuyan a la prevenci�
 ###### ARTÍCULO 14.
 
 La persona profesional de salud mental y de adicciones, tiene la obligación de estar debidamente acreditada para ejercer sus funciones, para lo cual deberá contar con Cédula Profesional y Título Profesional como Médica, Médico, Psicóloga o Psicólogo, Psiquiatras y, en su caso, certificados de especialización vigente en materia de salud mental y/o adicciones, expedidos y registrados por las autoridades educativas competentes, mismas que deberán estar a la vista con la finalidad de que la persona usuaria corrobore que es un especialista en la materia de salud mental.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2026)</small>
+
+Para tal efecto, deberán hacer constar en su documentación, publicidad y medios de difusión la información que acredite su formación profesional y autorización legal para el ejercicio de sus funciones.
 
 ###### ARTÍCULO 15.
 
@@ -566,3 +582,21 @@ SEGUNDO. Se abroga la Ley de Salud Mental del Estado de Puebla, publicada en el 
 EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinticinco días del mes de julio de dos mil veinticuatro. Diputado Presidente. JOSÉ MIGUEL OCTAVIANO HUERTA RODRÍGUEZ. Rúbrica. Diputada Vicepresidenta. AZUCENA ROSAS TAPIA Rúbrica. Diputada Vicepresidenta. LIDIA KARELY OCAÑA MADRID. Rúbrica. Diputada Secretaria. MARÍA RUTH ZÁRATE DOMÍNGUEZ. Rúbrica. Diputada Secretaria. ILIANA JOCELYN OLIVARES LÓPEZ. Rúbrica.
 
 Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de julio de dos mil veinticuatro. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JAVIER AQUINO LIMÓN. Rúbrica. La Secretaria de Salud. CIUDADANA ARACELI SORIA CÓRDOBA. Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 72 Y EL TERCER PÁRRAFO DEL ARTÍCULO 121 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2, LA FRACCIÓN I DEL 7 Y LAS FRACCIONES I, II Y V DEL 10; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 14 DE LA LEY DE SALUD MENTAL Y ADICCIONES PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 13 DE LA LEY DE SALUD MENTAL Y ADICCIONES PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
