@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-conducta-de-transparencia-y-rendicion-de-cuentas-1208
 country: "mx"
 rank: "codigo"
 publication_date: "2017-04-07"
-last_updated: "2017-04-07"
+last_updated: "2026-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # CODIGO DE CONDUCTA DE TRANSPARENCIA Y RENDICION DE CUENTAS, CULIACAN, SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS DEL GOBIERNO DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 17 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2026 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Sinaloa, el viernes 7 de abril de 2017.
 
@@ -486,3 +488,17 @@ Es dado en la ciudad de Culiacán Rosales, Sinaloa a los cinco días del mes de 
 C.P. María Guadalupe Yan Rubio
 
 Secretaria de Transparencia y Rendición de Cuentas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS DEL GOBIERNO DEL ESTADO DE SINALOA”.]
+
+Primero: El presente Código de Conducta de la Secretaría de Transparencia y Rendición de Cuentas del Gobierno del Estado de Sinaloa entrará en vigor a partir del día hábil siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Segundo: Se abroga el Código de Conducta de la Secretaría de Transparencia y Rendición de Cuentas, publicado en el Periódico Oficial "El Estado de Sinaloa", el 07 de abril de 2017.
+
+Tercero: En cumplimiento de lo establecido en el artículo 9 primer párrafo del Código de Ética de los Servidores Públicos del Gobierno del Estado de Sinaloa, el presente Código deberá de difundirse y publicarse, en la página de internet institucional de la Secretaría.
+
+Cuarto: Las unidades administrativas de la Secretaría a través del Comité de Ética, deberán hacer del conocimiento al personal adscrito a sus áreas el Código de Conducta, mediante los documentos oficiales que se consideren pertinentes, así como por otras vías más eficaces existentes, una vez publicado el mismo.
