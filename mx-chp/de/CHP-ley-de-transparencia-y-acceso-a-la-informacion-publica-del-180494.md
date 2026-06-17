@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1804
 country: "mx"
 rank: "ley"
 publication_date: "2025-06-18"
-last_updated: "2025-06-25"
+last_updated: "2026-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE JUNIO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2026.
 
 Ley publicada en el Número 45 del Periódico Oficial del Estado de Chiapas, el miércoles 18 de junio de 2025.
 
@@ -59,9 +57,9 @@ La presente Ley es reglamentaria del artículo 5, fracción XV, de la Constituci
 
 La presente Ley tiene por objeto:
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN I DE ESTE ARTÍCULO, INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2026)</small>
 
-I. Establecer los principios, bases generales y procedimientos para garantizar el derecho de acceso a la información pública en posesión de cualquier autoridad, dependencia, entidad, ente, institución, agencia, comisión, corporación, comité, órgano, organismo o equivalente de los poderes Ejecutivo, Legislativo y Judicial; organismos u órganos autónomos; PARTIDOS POLÍTICOS, AGRUPACIONES POLÍTICAS Y CANDIDATURAS INDEPENDIENTES; fideicomisos y fondos públicos, así como cualquier persona física, moral O SINDICATO que reciba y ejerza recursos públicos o que realice o ejerza actos de autoridad en el Estado y sus municipios;
+I. Establecer los principios, bases generales y procedimientos para garantizar el derecho de acceso a la información pública en posesión de cualquier autoridad, dependencia, entidad, ente, institución, agencia, comisión, corporación, comité, órgano, organismo o equivalente de los poderes Ejecutivo, Legislativo, Judicial, así como de los Ayuntamientos, Concejos Municipales y organismos públicos descentralizados de los Municipios; Organismos u Órganos Constitucionales Autónomos; fideicomisos y fondos públicos, así como cualquier persona física o moral que reciba y ejerza recursos públicos o que realice o ejerza actos de autoridad en el Estado y sus Municipios;
 
 II. Distribuir las competencias de las Autoridades Garantes en materia de transparencia y acceso a la información pública, conforme a sus respectivos ámbitos de responsabilidad;
 
@@ -91,9 +89,9 @@ II. Áreas u órganos administrativos: A las instancias que disponen o pueden di
 
 III. Autoridad Garante Local: Al Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría Anticorrupción y Buen Gobierno, denominado Transparencia para el Pueblo de Chiapas, el cual conocerá de los asuntos en materia de transparencia y acceso a la información pública de los Sujetos Obligados del Poder Ejecutivo y de los Municipios, conforme a lo que establece la presente Ley;
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2026)</small>
 
-IV. Autoridades Garantes: Al Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría Anticorrupción y Buen Gobierno y a los órganos encargados de la contraloría interna u homólogos o equivalentes de los poderes Legislativo y Judicial, así como de los organismos u órganos autónomos; EL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, POR CUANTO HACE A LOS PARTIDOS POLÍTICOS, AGRUPACIONES POLÍTICAS Y PERSONAS MORALES CONSTITUIDAS EN ASOCIACIÓN CIVIL CREADAS POR LAS CIUDADANAS Y CIUDADANOS QUE PRETENDAN POSTULAR SU CANDIDATURA INDEPENDIENTE, Y LOS JUZGADOS ESPECIALIZADOS EN MATERIA BUROCRÁTICA Y EL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE CHIAPAS, ESTE ÚLTIMO EN LO QUE RESPECTA A LOS SINDICATOS;
+IV. Autoridades Garantes: Al Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría Anticorrupción y Buen Gobierno y a los órganos encargados de la contraloría interna, homólogos o equivalentes de los poderes Legislativo y Judicial, así como de los Organismos u Órganos Constitucionales Autónomos;
 
 V. Comité de Transparencia: A la Instancia a la que hace referencia el artículo 39 de la presente Ley;
 
@@ -147,9 +145,9 @@ XIX. Sistema Nacional: Al Sistema Nacional de Acceso a la Información Pública;
 
 XX. Subsistema Estatal: Al Subsistema de Transparencia del Estado de Chiapas;
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XXI DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2026)</small>
 
-XXI. Sujetos Obligados: A cualquier autoridad, dependencia, entidad, ente, institución, agencia, comisión, corporación, comité, órgano, organismo o equivalente de los poderes Ejecutivo, Legislativo y Judicial; organismos u órganos autónomos; PARTIDOS POLÍTICOS, AGRUPACIONES POLÍTICAS Y CANDIDATURAS INDEPENDIENTES; fideicomisos y fondos públicos, así como cualquier persona física, moral O SINDICATO que reciba y ejerza recursos públicos o que realice o ejerza actos de autoridad en el Estado y sus Municipios;
+XXI. Sujetos Obligados: A cualquier autoridad, dependencia, entidad, ente, institución, agencia, comisión, corporación, comité, órgano, organismo o equivalente de los poderes Ejecutivo, Legislativo, Judicial, así como de los Ayuntamientos, Concejos Municipales y organismos públicos descentralizados de los Municipios; Organismos u Órganos Constitucionales Autónomos; fideicomisos y fondos públicos, así como cualquier persona física o moral que reciba y ejerza recursos públicos o que realice o ejerza actos de autoridad en el Estado y sus Municipios;
 
 XXII. Unidad de Transparencia: A la instancia referida en el artículo 41 de la presente Ley, y
 
@@ -169,11 +167,11 @@ No podrá clasificarse como reservada aquella información relacionada con viola
 
 Ninguna persona podrá ser objeto de inquisición judicial o administrativa derivado del ejercicio del derecho de acceso a la información, ni se podrá restringir este derecho mediante vías o medios, directos o indirectos.
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO, INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2026)</small>
 
 ###### Artículo 6.
 
-El Estado garantizará el efectivo acceso de toda persona a la información en posesión de cualquier autoridad, dependencia, entidad, ente, institución, agencia, comisión, corporación, comité, órgano, organismo o equivalente de los poderes Ejecutivo, Legislativo y Judicial; organismos u órganos autónomos; PARTIDOS POLÍTICOS, AGRUPACIONES POLÍTICAS Y CANDIDATURAS INDEPENDIENTES; fideicomisos y fondos públicos, así como cualquier persona física, moral O SINDICATO que reciba y ejerza recursos públicos o que realice o ejerza actos de autoridad en el Estado y sus Municipios.
+El Estado garantizará el efectivo acceso de toda persona a la información en posesión de cualquier autoridad, dependencia, entidad, ente, institución, agencia, comisión, corporación, comité, órgano, organismo o equivalente de los poderes Ejecutivo, Legislativo y Judicial; Organismos u Órganos Constitucionales Autónomos; fideicomisos y fondos públicos, así como cualquier persona física o moral que reciba y ejerza recursos públicos o que realice o ejerza actos de autoridad en el Estado y sus Municipios.
 
 ###### Artículo 7.
 
@@ -289,17 +287,13 @@ IV. Los Ayuntamientos, Concejos Municipales y organismos públicos descentraliza
 
 V. Los organismos u órganos autónomos del Estado;
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VI DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-VI. LOS PARTIDOS POLÍTICOS CON ACREDITACIÓN O REGISTRO LOCAL, LAS AGRUPACIONES POLÍTICAS LOCALES Y LAS PERSONAS MORALES CONSTITUIDAS EN ASOCIACIÓN CIVIL CREADAS POR LAS CIUDADANAS Y CIUDADANOS QUE PRETENDAN POSTULAR SU CANDIDATURA INDEPENDIENTE;
+VI. (DEROGADA, P.O. 17 DE JUNIO DE 2026)
 
 VII. Las empresas de participación estatal y municipal;
 
 VIII. Los fideicomisos y fondos públicos;
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN IX DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-IX. LOS SINDICATOS QUE RECIBAN Y EJERZAN RECURSOS PÚBLICOS EN LOS ÁMBITOS ESTATAL Y MUNICIPAL, Y
+IX. (DEROGADA, P.O. 17 DE JUNIO DE 2026)
 
 X. Cualquier persona física o moral que reciba y ejerza recursos públicos o que realice o ejerza actos de autoridad en los ámbitos estatal y municipal.
 
@@ -381,13 +375,25 @@ VI. Las demás que le confiera el Sistema Nacional.
 
 ### Capítulo II. Del Comité Estatal
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2026)</small>
+
 ###### Artículo 26.
 
-El Comité del Subsistema Estatal estará integrado conforme a lo siguiente:
+El Comité del Subsistema Estatal estará integrado por las personas titulares de los órganos internos de control o sus equivalentes de las siguientes autoridades:
 
-I. La persona titular del Poder Ejecutivo del Estado, quien lo presidirá, pudiendo ser representado por la persona titular de la Secretaría Anticorrupción y Buen Gobierno;
+I. Poder Ejecutivo, a través de la persona titular de la Secretaría Anticorrupción y Buen Gobierno, quién lo presidirá;
 
-II. La persona titular de la Autoridad Garante Local, quien tendrá a su cargo la Secretaría Técnica de dicho colegiado y contará con las atribuciones, facultades, competencias o funciones siguientes:
+II. Poder Legislativo;
+
+III. Poder Judicial del Estado;
+
+IV. Organismos u Órganos Constitucionales Autónomos del Estado;
+
+Asimismo, el referido Comité también tendrá como integrantes a las personas titulares de los órganos encargados de la contraloría interna u homólogos o equivalentes de los Ayuntamientos de los Municipios del Estado que cuenten con una población superior a los setenta mil habitantes.
+
+Las personas integrantes del Comité podrán ser suplidas en sus ausencias por la persona servidora pública que al efecto designen, quienes deberán tener el nivel jerárquico inmediato inferior al de ellas.
+
+El Comité contará con un organismo auxiliar denominado Secretaría Técnica, que estará bajo el encargo de la persona Directora General de la Autoridad Garante Local. La persona Secretaria Técnica, tendrá derecho de voz, pero no de voto, teniendo, además, entre otras, las siguientes atribuciones:
 
 a) Dar seguimiento a los acuerdos del Subsistema Estatal;
 
@@ -395,25 +401,7 @@ b) Verificar el cumplimiento de los acuerdos y acciones que se adopten por el Su
 
 c) Las demás que le encomiende la persona titular de la Presidencia del Comité Estatal.
 
-III. Las personas titulares de los órganos encargados de la contraloría interna u homólogos o equivalentes del Congreso del Estado y de la Auditoría Superior del Estado;
-
-IV. La persona titular del órgano encargado de la contraloría interna u homólogo o equivalente del Poder Judicial del Estado;
-
-V. Las personas titulares de los órganos encargados de la contraloría interna u homólogos o equivalentes de cada uno de los organismos u órganos autónomos del Estado;
-
-VI. La persona titular del Instituto de Elecciones y Participación Ciudadana;
-
-VII. Las personas titulares de los Juzgados Especializados en Materia Burocrática;
-
-VIII. La persona titular del Centro de Conciliación Laboral del Estado de Chiapas;
-
-IX. La persona titular de la Agencia Digital Tecnológica del Estado de Chiapas, y
-
-X. La persona titular del Archivo General del Estado de Chiapas.
-
-Asimismo, el referido Comité también tendrá como integrantes a las personas titulares de los órganos encargados de la contraloría interna u homólogos o equivalentes de los Ayuntamientos y organismos públicos descentralizados de los Municipios del Estado que cuenten con una población superior a los setenta mil habitantes.
-
-Las personas integrantes a que se refieren las fracciones I, VI, VIII, IX y X de este precepto, podrán ser suplidas en sus ausencias por la persona servidora pública que al efecto designen, quienes deberán tener el nivel jerárquico inmediato inferior al de ellas.
+El encargo que ostente la persona Secretaria Técnica, es honorífico y no causará compensación, honorarios o su equivalente.
 
 ###### Artículo 27.
 
@@ -445,6 +433,8 @@ Corresponde a la persona titular de la Presidencia del Comité Estatal, la facul
 
 ### Capítulo III. De las Autoridades Garantes
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2026)</small>
+
 ###### Artículo 34.
 
 Las Autoridades Garantes serán responsables de garantizar la transparencia y el ejercicio del derecho de acceso a la información en el ámbito de su competencia, conforme a los principios y bases establecidos en el apartado A del artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, así como de conformidad con lo previsto en la Ley General, en esta Ley y en las demás disposiciones jurídicas aplicables.
@@ -453,19 +443,11 @@ Para los efectos de esta Ley, son Autoridades Garantes:
 
 I. Transparencia para el Pueblo de Chiapas, Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría Anticorrupción y Buen Gobierno, el cual conocerá de los asuntos de los Sujetos Obligados del Poder Ejecutivo y de los Municipios;
 
-II. El órgano encargado de la contraloría interna u homólogo o equivalente de cada uno de los órganos de los Poderes Legislativo y Judicial, así como de cada uno de los organismos u órganos autónomos;
+II. El órgano encargado de la contraloría interna, homólogo o equivalente del Poder Legislativo;
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+III. El órgano encargado de la contraloría interna, homólogo o equivalente del Poder Judicial;
 
-III. EL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, POR CUANTO HACE A LOS PARTIDOS POLÍTICOS CON ACREDITACIÓN O REGISTRO LOCAL, LAS AGRUPACIONES POLÍTICAS LOCALES Y LAS PERSONAS MORALES CONSTITUIDAS EN ASOCIACIÓN CIVIL CREADAS POR LAS CIUDADANAS Y CIUDADANOS QUE PRETENDAN POSTULAR SU CANDIDATURA INDEPENDIENTE;
-
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-IV. LOS JUZGADOS ESPECIALIZADOS EN MATERIA BUROCRÁTICA, EN LO QUE RESPECTA A LOS SINDICATOS DE TRABAJADORES AL SERVICIO DEL ESTADO Y SUS MUNICIPIOS, CONSTITUIDOS EN TÉRMINOS DEL APARTADO B, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, Y
-
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-V. EL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE CHIAPAS, EN LO QUE RESPECTA A LOS SINDICATOS CONSTITUIDOS EN TÉRMINOS DEL APARTADO A, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
+IV. Los órganos encargados de la contraloría interna, homólogos o equivalentes de cada uno de los Organismos u Órganos Constitucionales Autónomos.
 
 ###### Artículo 35.
 
@@ -759,9 +741,11 @@ Los Sujetos Obligados pondrán a disposición de las personas interesadas equipo
 
 La información publicada por los Sujetos Obligados, en términos del presente Título, no constituye propaganda gubernamental. Los Sujetos Obligados, incluso dentro de los procesos electorales, a partir del inicio de las precampañas y hasta la conclusión del proceso electoral, deberán mantener accesible la información de las obligaciones de transparencia en los respectivos medios electrónicos, salvo disposición expresa en contrario en las disposiciones jurídicas en materia electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2026)</small>
+
 ###### Artículo 64.
 
-Los Sujetos Obligados y las personas particulares serán responsables de los datos personales que se encuentren en su posesión, de conformidad con las disposiciones jurídicas aplicables en la materia.
+Los Sujetos Obligados y las personas particulares serán responsables de los datos personales que se encuentren en su posesión, de conformidad con las disposiciones jurídicas establecidas en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Chiapas, y en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, respectivamente.
 
 Los Sujetos Obligados no podrán difundir, distribuir o comercializar los datos personales contenidos en los sistemas de información, desarrollados en el ejercicio de sus atribuciones, facultades, competencias o funciones, salvo que haya mediado el consentimiento expreso, por escrito o por un medio de autenticación similar, de las personas a que haga referencia la información de conformidad con las disposiciones jurídicas aplicables. Lo anterior, sin perjuicio a lo establecido por el artículo 119 de la presente Ley y demás normatividad emitida en la materia.
 
@@ -1253,119 +1237,13 @@ IV. En su caso, las sentencias, ejecutorias o suspensiones judiciales que exista
 
 V. El número de recursos de revisión y denuncias presentadas en contra de cada uno de los Sujetos Obligados.
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### Artículo 74.
 
-Además de las obligaciones de transparencia comunes señaladas en el artículo 65 de la presente Ley, los partidos políticos con acreditación o registro local y las agrupaciones políticas locales, según corresponda, deberán poner a disposición del público en general y actualizar de manera regular y permanente, en los respectivos medios electrónicos, las siguientes obligaciones específicas:
-
-I. El padrón de personas militantes y/o afiliadas, que contendrá, exclusivamente: apellidos, nombre o nombres y fecha de afiliación;
-
-II. Los acuerdos y resoluciones de los órganos de dirección;
-
-III. Los convenios de participación con organizaciones de la sociedad civil;
-
-IV. Los contratos y convenios para la adquisición o arrendamiento de bienes y servicios;
-
-V. Las minutas de las sesiones del partido o de la agrupación;
-
-VI. Las personas responsables de los órganos internos de finanzas;
-
-VII. Las organizaciones sociales adherentes o similares;
-
-VIII. Los montos de las cuotas ordinarias y extraordinarias aportadas por sus militantes;
-
-IX. Los montos autorizados de financiamiento privado, así como una relación de los nombres de las personas aportantes vinculados con los montos aportados;
-
-X. El listado de las personas aportantes a las precampañas y campañas políticas;
-
-XI. El acta de la asamblea constitutiva;
-
-XII. Las demarcaciones electorales en las que participen;
-
-XIII. Los tiempos que les corresponden en canales de radio y televisión;
-
-XIV. Los documentos básicos, plataformas electorales y programas de gobierno y los mecanismos de designación de los órganos de dirección en sus respectivos ámbitos;
-
-XV. El directorio de sus órganos de dirección estatales, municipales, de las demarcaciones territoriales y, en su caso, regionales y distritales;
-
-XVI. El tabulador de remuneraciones que perciben las personas integrantes de los órganos a que se refiere la fracción anterior y de las demás personas funcionarias, que deberá vincularse con el directorio y estructura orgánica, así como cualquier persona que reciba ingresos por parte del partido político, independientemente de la función que desempeñe dentro o fuera del mismo;
-
-XVII. La semblanza curricular con fotografía reciente de todas las personas precandidatas y candidatas a cargos de elección popular, con el cargo al que se postulan y el distrito electoral;
-
-XVIII. La semblanza curricular de las y los dirigentes a nivel estatal y municipal;
-
-XIX. Los convenios de frente, coalición, fusión o de participación electoral que celebren o suscriban con agrupaciones políticas nacionales o locales;
-
-XX. Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatas y candidatos a cargos de elección popular y, en su caso, el registro correspondiente;
-
-XXI. Los responsables de los procesos internos de evaluación y selección de las candidatas y candidatos a cargos de elección popular, conforme a su normatividad interna;
-
-XXII. Los informes sobre el gasto del financiamiento público ordinario recibido para la capacitación, promoción y desarrollo del liderazgo político de las mujeres;
-
-XXIII. Las resoluciones dictadas por los órganos de control;
-
-XXIV. Los montos de financiamiento público otorgados mensualmente en cualquier modalidad a los órganos estatales, municipales y demarcaciones territoriales, así como los descuentos correspondientes a sanciones;
-
-XXV. El estado de situación financiera y patrimonial y el inventario de los bienes inmuebles de los que sean propietarios, así como los anexos que formen parte integrante de los documentos anteriores;
-
-XXVI. Las resoluciones que emitan sus órganos disciplinarios de cualquier nivel, una vez que hayan causado estado;
-
-XXVII. Los nombres de sus representantes ante la autoridad electoral local;
-
-XXVIII. Los mecanismos de control y supervisión aplicados a los procesos internos de selección de candidatas y candidatos;
-
-XXIX. El listado de fundaciones, asociaciones, centros o institutos de investigación o capacitación o cualquier otro que reciba apoyo económico del partido político, así como los montos destinados para tal efecto, y
-
-XXX. Las resoluciones que dicte la autoridad electoral competente respecto de los informes de ingresos y gastos.
-
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 17 DE JUNIO DE 2026)
 
 ###### Artículo 75.
 
-Además de las obligaciones de transparencia comunes señaladas en el artículo 65 de la presente Ley, las personas morales constituidas en asociación civil creadas por las ciudadanas y ciudadanos que pretendan postular su candidatura independiente, deberán poner a disposición del público en general y actualizar de manera regular y permanente, en los respectivos medios electrónicos, las siguientes obligaciones específicas:
-
-I. El padrón de ciudadanas y ciudadanos que apoyen el registro de la candidatura independiente, que contendrá, exclusivamente: apellidos y nombre o nombres;
-
-II. Los convenios de participación que la asociación civil celebre con organizaciones de la sociedad civil;
-
-III. Los contratos y convenios que la asociación civil suscriba para la adquisición o arrendamiento de bienes y servicios;
-
-IV. Las minutas de las sesiones y reuniones de los órganos o áreas de dirección y decisión de la asociación civil;
-
-V. Las personas responsables de los órganos internos de finanzas de la asociación civil;
-
-VI. Las organizaciones sociales adherentes a la candidatura independiente;
-
-VII. Los montos de las cuotas ordinarias y extraordinarias aportadas por sus simpatizantes;
-
-VIII. Los montos autorizados de financiamiento privado, así como una relación de los nombres de las personas aportantes vinculados con los montos aportados;
-
-IX. El listado de personas aportantes a las campañas políticas;
-
-X. El acta constitutiva notariada que la asociación civil registró ante la autoridad electoral;
-
-XI. Las demarcaciones electorales en las que participe la candidatura independiente;
-
-XII. Los tiempos que le corresponden a la candidatura independiente en canales de radio y televisión;
-
-XIII. El directorio de cargos existentes en la asociación civil que ejerzan una función de dirección;
-
-XIV. El tabulador de remuneraciones que perciben los integrantes de los órganos de dirección de la asociación civil, así como cualquier persona que reciba ingresos por parte de la misma;
-
-XV. La semblanza curricular con fotografía reciente de todas las candidatas y candidatos independientes a cargos de elección popular, con el cargo al que se postulan y el distrito electoral;
-
-XVI. La semblanza curricular de las personas dirigentes o con facultad de toma de decisión en la asociación civil;
-
-XVII. Los convenios de vinculación electoral que celebre la asociación civil con agrupaciones políticas nacionales o locales;
-
-XVIII. Los informes sobre el gasto del financiamiento público ordinario recibido para la capacitación, promoción y desarrollo del liderazgo político de las mujeres;
-
-XIX. Los montos de financiamiento público asignado mensualmente a la asociación civil, en cualquier modalidad, así como los descuentos correspondientes a sanciones impuestas a la misma;
-
-XX. El estado de situación financiera y patrimonial y el inventario de los bienes inmuebles de los que la asociación civil sea propietaria, así como los anexos que formen parte integrante de los documentos anteriores, y
-
-XXI. Las resoluciones que dicte la autoridad electoral competente respecto de los informes de ingresos y gastos.
+(DEROGADO, P.O. 17 DE JUNIO DE 2026)
 
 ###### Artículo 76.
 
@@ -1425,19 +1303,9 @@ Las autoridades administrativas y jurisdiccionales en materia laboral deberán e
 
 Por lo que se refiere a los documentos que obran en el expediente de registro de las asociaciones, únicamente estará clasificada como información confidencial la información relativa a los domicilios de las personas trabajadoras señaladas en los padrones de socias y socios.
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### Artículo 78.
 
-Además de las obligaciones de transparencia comunes señaladas en el artículo 65 de la presente Ley, los sindicatos que reciban y ejerzan recursos públicos deberán poner a disposición del público en general y actualizar de manera regular y permanente, en los respectivos medios electrónicos, las obligaciones específicas señaladas en el artículo anterior y las siguientes:
-
-I. Los contratos y convenios entre sindicatos y autoridades;
-
-II. El directorio del Comité Ejecutivo, y
-
-III. La relación detallada de los recursos públicos económicos, en especie, bienes o donativos que reciban y el informe detallado del ejercicio y destino final de los recursos públicos que ejerzan.
-
-Los Sujetos Obligados que asignen recursos públicos a los sindicatos, deberán habilitar un espacio en sus páginas de internet para que estos cumplan con sus obligaciones de transparencia y dispongan de la infraestructura tecnológica para el uso y acceso a la Plataforma Nacional. En todo momento el sindicato será el responsable de la publicación, actualización y accesibilidad de la información.
+(DEROGADO, P.O. 17 DE JUNIO DE 2026)
 
 ###### Artículo 79.
 
@@ -1727,9 +1595,9 @@ Como información reservada podrá clasificarse aquella cuya publicación, apert
 
 I. Comprometa la seguridad pública, o la paz social;
 
-II. Pueda menoscabar la conducción de las negociaciones y relaciones internacionales;
+II. (DEROGADA, P.O. 17 DE JUNIO DE 2026)
 
-III. Se entregue al Estado expresamente con ese carácter o el de confidencial por otro u otros sujetos de derecho internacional, excepto cuando se trate de violaciones graves de derechos humanos o delitos de lesa humanidad de conformidad con el derecho internacional;
+III. (DEROGADA, P.O. 17 DE JUNIO DE 2026)
 
 IV. Pueda poner en riesgo la vida, seguridad o salud de una persona física;
 
@@ -1751,9 +1619,9 @@ XII. El daño que pueda producirse con la publicación, apertura, difusión o di
 
 XIII. Cuando se trate de información sobre estudios y proyectos cuya divulgación pueda causar daños al interés del Estado o suponga un riesgo para su realización, siempre que esté directamente relacionada con procesos o procedimientos administrativos o judiciales que no hayan quedado firmes;
 
-XIV. Se refiera a programas del Gobierno Federal para salvaguardar materiales o instalaciones nucleares;
+XIV. (DEROGADA, P.O. 17 DE JUNIO DE 2026)
 
-XV. Ponga en riesgo el funcionamiento o integridad de los sistemas tecnológicos y energéticos, adquiridos u operados por el Estado de forma directa o indirecta, así como instalaciones, infraestructuras, proyectos, planes o servicios de protección estratégicos, prioritarios o de seguridad pública, y
+XV. (DEROGADA, P.O. 17 DE JUNIO DE 2026)
 
 XVI. Las que por disposición expresa de una ley tengan tal carácter, siempre que sean acordes con las bases, principios y disposiciones establecidos en la Ley General y en la presente Ley y no las contravengan, así como las previstas en tratados internacionales, en las que el estado mexicano sea parte.
 
@@ -2225,15 +2093,15 @@ Una vez que hayan causado ejecutoria las resoluciones dictadas con motivo de los
 
 ### Capítulo I. De las Medidas de Apremio
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2026)</small>
 
 ###### Artículo 166.
 
-Las Autoridades Garantes, en sus respectivos ámbitos de competencia, podrán imponer a la persona servidora pública encargada de cumplir con la resolución, O A LAS Y LOS INTEGRANTES DE LOS PARTIDOS POLÍTICOS, AGRUPACIONES POLÍTICAS, ASOCIACIONES CIVILES CREADAS POR CIUDADANAS O CIUDADANOS QUE PRETENDAN POSTULAR SU CANDIDATURA INDEPENDIENTE, SINDICATOS o a la persona física o moral responsable, según corrresponda (sic), las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
+Las Autoridades Garantes, en sus respectivos ámbitos de competencia, podrán imponer a la persona servidora pública encargada de cumplir con la resolución, o a la persona física o moral responsable, según corresponda, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
 
 I. Amonestación pública, o
 
-II. Multa, de ciento cincuenta hasta mil quinientas veces la Unidad de Medida y Actualización vigente al momento en que se cometa el incumplimiento.
+II. Multa, de ciento cincuenta hasta mil quinientas veces la Unidad de Medida y Actualización vigente al momento del incumplimiento de la resolución.
 
 ###### Artículo 167.
 
@@ -2347,15 +2215,11 @@ Dichas responsabilidades se determinarán, en forma autónoma a través de los p
 
 Para tales efectos, las Autoridades Garantes podrán denunciar ante las autoridades competentes cualquier acto u omisión violatoria de esta Ley y aportar las pruebas que consideren pertinentes, en los términos de las leyes aplicables.
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2026)</small>
 
 ###### Artículo 179.
 
-ANTE INCUMPLIMIENTOS EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA POR PARTE DE LOS PARTIDOS POLÍTICOS, LAS AUTORIDADES GARANTES DARÁN VISTA AL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA PARA QUE RESUELVA LO CONDUCENTE, SIN PERJUICIO DE LAS SANCIONES ESTABLECIDAS PARA LOS PARTIDOS POLÍTICOS EN LAS LEYES APLICABLES.
-
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-En el caso de probables infracciones relacionadas con fideicomisos o fondos públicos, SINDICATOS O personas físicas o morales que reciban y ejerzan recursos públicos o que realicen o ejerzan actos de autoridad, las Autoridades Garantes deberán dar vista al órgano encargado de la contraloría interna u homólogo o equivalente del Sujeto Obligado relacionado con estos, cuando sean personas servidoras públicas, con el fin de que dicho órgano instrumente los procedimientos administrativos a que haya lugar.
+En el caso de probables infracciones relacionadas con fideicomisos o fondos públicos o personas físicas o morales que reciban y ejerzan recursos públicos o que realicen o ejerzan actos de autoridad, las Autoridades Garantes deberán dar vista al órgano encargado de la contraloría interna, homólogo o equivalente del Sujeto Obligado relacionado con estos, cuando sean personas servidoras públicas, con el fin de que dicho órgano instrumente los procedimientos administrativos a que haya lugar.
 
 ###### Artículo 180.
 
@@ -2502,3 +2366,15 @@ El Ejecutivo del Estado dispondrá se publique, circule y se le dé el debido cu
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 17 días del mes de junio del año dos mil veinticinco. D. P.C. LUIS IGNACIO AVENDAÑO BERMÚDEZ.- D. S.C. MARCELA CASTILLO ATRISTAIN.- Rúbricas.-
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciocho días del mes de junio del año dos mil veinticinco.- Óscar Eduardo Ramírez Aguilar, Gobernador del Estado de Chiapas.- Patricia del Carmen Conde Ruiz, Secretaria General de Gobierno y Mediación.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 258 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- A la entada en vigor del presente Decreto, el Instituto de Elecciones y Participación Ciudadana, los Juzgados Especializados en Materia Burocrática y el Centro de Conciliación Laboral del Estado de Chiapas, en el caso de haber recibido expedientes físicos, digitales, electrónicos o en cualquier otra clase de expresión documental, referentes a asuntos relacionados con partidos políticos, agrupaciones políticas, personas morales constituidas en asociación civil creadas por las ciudadanas y los ciudadanos que pretendan postular su candidatura independiente, así como sindicatos, deberán, en un plazo no mayor a treinta días hábiles, remitir los mismos a las autoridades garantes federales que resulten competentes.
