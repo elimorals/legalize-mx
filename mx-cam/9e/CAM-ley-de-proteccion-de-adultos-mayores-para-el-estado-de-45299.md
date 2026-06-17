@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-adultos-mayores-para-el-estado-de-45299"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-28"
-last_updated: "2025-11-12"
+last_updated: "2026-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 28 de junio de 2005.
 
@@ -415,11 +415,17 @@ II. Fomentar la elaboración de programas especiales de viajes para esparcimient
 
 III. Suscribir convenios con empresas del ramo para ofrecer a las personas adultas mayores, tarifas preferenciales en los centros públicos o privados de entretenimiento, de recreación, de cultura y deporte; así como de hospedaje en hoteles y de acceso a centros turísticos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 15.
 
-El Ejecutivo del Estado, a través del Sistema Estatal para el Desarrollo Integral de la Familia (DIF-Campeche), proporcionará servicios de orientación jurídica de manera gratuita, la atención y seguimiento de quejas o denuncias respecto a la violación de los derechos de los adultos mayores y en su caso, la denuncia correspondiente ante las autoridades competentes, así como la coadyuvancia con la Procuraduría General de Justicia del Estado en la atención y protección jurídica de los adultos mayores, víctimas de cualquier delito.
+El Ejecutivo del Estado, a través del Sistema para el Desarrollo Integral de la Familia en el Estado de Campeche (DIF-Campeche), proporcionará servicios de orientación jurídica de manera gratuita, la atención y seguimiento de quejas o denuncias respecto a la violación de los derechos de las personas adultas mayores y en su caso, la denuncia correspondiente ante las autoridades competentes, así como la coadyuvancia con la Fiscalía General del Estado en la atención y protección jurídica de las personas adultas mayores, víctimas de cualquier delito.
 
 Asimismo, establecerá programas asistenciales de apoyo y programas de prevención y protección para las personas adultas mayores en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o para albergarlos en instituciones adecuadas.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2026)</small>
+
+Para el cumplimiento de lo anterior, el Sistema para el Desarrollo Integral de la Familia en el Estado de Campeche, podrá vigilar, supervisar y dar seguimiento permanente al funcionamiento de las estancias públicas o privadas, así como de los asilos y demás centros de atención destinados al cuidado de personas adultas mayores, a efecto de verificar que operen conforme a los estándares de dignidad, seguridad, calidad en el servicio, respeto a los derechos humanos e integridad física y mental de las personas usuarias, debiendo, en caso de detectar irregularidades, omisiones de cuidado o posibles actos de violencia, dar vista inmediata a las autoridades competentes y, en el ámbito de sus facultades, implementar las medidas de protección que resulten procedentes.
 
 ## TÍTULO TERCERO. DE LAS BARRERAS ARQUITECTÓNICAS
 
@@ -641,7 +647,9 @@ XI. Promover en coordinación con los Ayuntamientos, el establecimiento de casas
 
 XII. Realizar visitas de inspección y vigilancia a casas hogar, albergues, residencias, centros de estancia, o cualquier otro centro de atención de Personas Adultas mayores, para verificar las condiciones de funcionamiento, capacitación de su personal, modelo de atención y las condiciones de la calidad de vida;
 
-XIII. Denunciar ante las autoridades competentes, las irregularidades de las cuales se percate, como resultado de la inspección y vigilancia, mencionadas en la fracción anterior;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2026)</small>
+
+XIII. Denunciar de manera inmediata ante las autoridades competentes las irregularidades, omisiones de cuidado, actos de negligencia, maltrato o cualquier otra conducta que pudiera constituir una vulneración a los derechos de las personas adultas mayores, de las que tenga conocimiento como resultado de las acciones de inspección, vigilancia y supervisión previstas en la fracción anterior, así como dar seguimiento a dichas denuncias hasta su debida atención por parte de la autoridad correspondiente;
 
 XIV. Participar con el Instituto Nacional de las Personas Adultas Mayores, con los Institutos locales dedicados a las personas adultas mayores y con las Organizaciones e Institutos Internacionales correlativos, en la elaboración de programas cuyo objeto sean las personas adultas mayores;
 
@@ -697,7 +705,9 @@ IX. Promover en coordinación con el Gobierno Estatal, el establecimiento de cas
 
 X. Realizar visitas de inspección y vigilancia a casas hogar, albergues, residencias, centros de estancia, o cualquier otro centro de atención de personas adultas mayores, para verificar las condiciones de funcionamiento, capacitación de su personal, modelo de atención y las condiciones de la calidad de vida;
 
-XI. Denunciar ante las autoridades competentes, las irregularidades de las cuales se percate, como resultado de la inspección y vigilancia, mencionadas en la fracción anterior;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2026)</small>
+
+XI. Denunciar de manera inmediata ante las autoridades competentes las irregularidades, omisiones de cuidado, actos de negligencia, maltrato o cualquier otra conducta que pudiera constituir una vulneración a los derechos de las personas adultas mayores, de las que tenga conocimiento como resultado de las acciones de inspección, vigilancia y supervisión previstas en la fracción anterior, así como dar seguimiento a dichas denuncias hasta su debida atención por parte de la autoridad correspondiente;
 
 XII. Impulsar exenciones fiscales permitidas conforme a la ley de la materia, dirigidas a las Personas Adultas mayores, y a las personas que efectúen donaciones en especie o en efectivo a casas hogar, albergues, residencias, guarderías o cualquier otro centro de atención de personas adultas mayores; cuyo objeto sea el de prestarles servicios de protección, asistencia, cuidados físicos, psicológicos y sociales; y
 
@@ -962,3 +972,13 @@ SEGUNDO.- El Poder Ejecutivo del Estado de Campeche, a través de las Entidades 
 TERCERO.- Las instituciones públicas estatales y municipales deberán realizar las adecuaciones normativas, administrativas, operativas, tecnológicas y de infraestructura necesarias en un plazo no mayor a 180 días naturales, contados a partir de la entrada en vigor del presente decreto.
 
 CUARTO.- Los establecimientos privados que presten servicios al público deberán realizar las adecuaciones necesarias a sus mecanismos de atención y protocolos de servicio, en un plazo máximo de 12 meses contados a partir de la entrada en vigor del presente decreto. Las autoridades competentes deberán emitir los lineamientos, así como los procedimientos de verificación correspondientes.
+
+P.O. 17 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 248 POR EL QUE "SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 15; LA FRACCIÓN XIII DEL ARTÍCULO 41; LA FRACCIÓN XI DEL ARTÍCULO 46 Y, SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 15 DE LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Sistema para el Desarrollo Integral de la Familia en el Estado de Campeche deberá emitir o adecuar, dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente decreto, los lineamientos, protocolos o instrumentos administrativos necesarios para el ejercicio de las atribuciones previstas en el artículo 15 de este decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al presente decreto.
