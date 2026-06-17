@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-proteccion-de-datos-personales-en-posesion-de-185815"
 country: "mx"
 rank: "ley"
 publication_date: "2025-06-18"
-last_updated: "2025-06-18"
+last_updated: "2026-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=185815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2026.
 
 Ley publicada en el Número 45 del Periódico Oficial del Estado de Chiapas, el miércoles 18 de junio de 2025.
 
@@ -67,9 +67,9 @@ III. Establecer las bases mínimas y condiciones homogéneas que regirán el tra
 
 IV. Garantizar la observancia de los principios de protección de Datos Personales previstos en la presente Ley y demás disposiciones que resulten aplicables en la materia;
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2026)</small>
 
-V. Proteger los Datos Personales en posesión de cualquier autoridad, Dependencia, Entidad, Organismo u Órgano de los Poderes Ejecutivo, Legislativo y Judicial; organismos u órganos autónomos; fideicomisos y fondos públicos Y PARTIDOS POLÍTICOS, así como en poder de Ayuntamientos, Concejos Municipales y organismos públicos descentralizados de los Municipios, con la finalidad de regular su debido tratamiento;
+V. Proteger los Datos Personales en posesión de cualquier autoridad, Dependencia, Entidad, Organismo u Órgano de los Poderes Ejecutivo, Legislativo y Judicial; Organismos u Órganos Constitucionales Autónomos; fideicomisos y fondos públicos, así como en poder de Ayuntamientos, Concejos Municipales y organismos públicos descentralizados de los Municipios, con la finalidad de regular su debido tratamiento;
 
 VI. Garantizar que toda persona pueda ejercer el derecho a la protección de sus Datos Personales en el Estado de Chiapas;
 
@@ -83,9 +83,9 @@ Para los efectos de la presente Ley se entenderá por:
 
 I. Áreas u órganos administrativos: A las instancias de los Sujetos Obligados previstas en los respectivos reglamentos interiores, estatutos orgánicos o instrumentos equivalentes, que cuentan o puedan contar, dar tratamiento y ser responsables o encargadas de los Datos Personales;
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2026)</small>
 
-II. Autoridades Garantes: Al Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría Anticorrupción y Buen Gobierno y a los órganos encargados de la contraloría interna u homólogos o equivalentes de los poderes Legislativo y Judicial, así como de los organismos u órganos autónomos; EL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA, POR CUANTO HACE A LOS PARTIDOS POLÍTICOS.
+II. Autoridades Garantes: Al Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría Anticorrupción y Buen Gobierno y a los órganos encargados de la contraloría interna, homólogos o equivalentes de los poderes Legislativo y Judicial, así como de los Organismos u Órganos Constitucionales Autónomos;
 
 III. Aviso de Privacidad: Al documento puesto a disposición de la persona titular de forma física, electrónica o en cualquier formato generado por el responsable, a partir del momento en el cual se recaben sus Datos Personales, con el objeto de informarle los propósitos del tratamiento de los mismos;
 
@@ -153,9 +153,9 @@ Los sindicatos y cualquier persona física o moral que reciba y ejerza recursos 
 
 XXVI. Secretaría: A la Secretaría Anticorrupción y Buen Gobierno;
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE LA FRACCIÓN XXVII DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE JUNIO DE 2026)</small>
 
-XXVII. Sujetos Obligados: A cualquier autoridad, dependencia, entidad, órgano u organismo o equivalente de los poderes Ejecutivo, Legislativo y Judicial; organismos u órganos autónomos; PARTIDOS POLÍTICOS y fideicomisos y fondos públicos, en el ámbito estatal y municipal.
+XXVII. Sujetos Obligados: A cualquier autoridad, dependencia, entidad, órgano u organismo o equivalente de los poderes Ejecutivo, Legislativo, Judicial, así como de los Ayuntamientos, Concejos Municipales y organismos públicos descentralizados de los Municipios; Organismos u Órganos Constitucionales Autónomos; fideicomisos y fondos públicos, en el ámbito estatal y municipal.
 
 En todos los demás supuestos diferentes a los mencionados en el párrafo anterior, los sindicatos y cualquier persona física o moral que reciba o ejerza recursos públicos o que realice o ejerza actos de autoridad en el ámbito estatal y municipal, se sujetarán a lo previsto en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares;
 
@@ -1521,13 +1521,11 @@ Dichas responsabilidades se determinarán en forma autónoma, a través de los p
 
 Para tales efectos, el Órgano Desconcentrado de la Secretaría y las demás Autoridades Garantes podrán denunciar ante las autoridades competentes cualquier acto u omisión violatoria de esta Ley y aportar las pruebas que consideren pertinentes, en los términos de las leyes aplicables.
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2026)</small>
 
 ###### Artículo 130.
 
-ANTE INCUMPLIMIENTOS POR PARTE DE LOS PARTIDOS POLÍTICOS, EL ÓRGANO DESCONCENTRADO DE LA SECRETARÍA O LA AUTORIDAD GARANTE COMPETENTE, SEGÚN CORRESPONDA, DARÁ VISTA AL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA PARA QUE RESUELVA LO CONDUCENTE, SIN PERJUICIO DE LAS SANCIONES ESTABLECIDAS PARA LOS PARTIDOS POLÍTICOS EN LAS LEYES APLICABLES.
-
-En el caso de probables infracciones relacionadas con fideicomisos o fondos públicos, el Órgano Desconcentrado de la Secretaría o la Autoridad Garante competente, según corresponda, deberá dar vista al órgano de control interno u homólogo o equivalente del Sujeto Obligado correspondiente con el fin de que instrumente los procedimientos administrativos a que haya lugar.
+En el caso de probables infracciones relacionadas con fideicomisos o fondos públicos, el Órgano Desconcentrado de la Secretaría o la Autoridad Garante competente, según corresponda, deberá dar vista al órgano de control interno, homólogo o equivalente del Sujeto Obligado correspondiente con el fin de que instrumenten los procedimientos administrativos a que haya lugar.
 
 ###### Artículo 131.
 
@@ -1604,3 +1602,15 @@ El Ejecutivo del Estado dispondrá se publique, circule y se le dé el debido cu
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 17 días del mes de junio del año dos mil veinticinco. D. P.C. LUIS IGNACIO AVENDAÑO BERMÚDEZ.- D. S.C. MARCELA CASTILLO ATRISTAIN.- Rúbricas.-
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciocho días del mes de junio del año dos mil veinticinco.- Óscar Eduardo Ramírez Aguilar, Gobernador del Estado de Chiapas.- Patricia del Carmen Conde Ruiz, Secretaria General de Gobierno y Mediación.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 258 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- A la entada en vigor del presente Decreto, el Instituto de Elecciones y Participación Ciudadana, los Juzgados Especializados en Materia Burocrática y el Centro de Conciliación Laboral del Estado de Chiapas, en el caso de haber recibido expedientes físicos, digitales, electrónicos o en cualquier otra clase de expresión documental, referentes a asuntos relacionados con partidos políticos, agrupaciones políticas, personas morales constituidas en asociación civil creadas por las ciudadanas y los ciudadanos que pretendan postular su candidatura independiente, así como sindicatos, deberán, en un plazo no mayor a treinta días hábiles, remitir los mismos a las autoridades garantes federales que resulten competentes.
