@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2026-03-25"
+last_updated: "2026-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -675,9 +675,9 @@ b) Cuando faltare por más de tres días consecutivos a sus labores sin causa ju
 
 c) Por destruir intencionalmente edificios, obras, maquinarias, instrumentos, materias primas y demás objetos relacionados con el trabajo;
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2026)</small>
 
-d) Por cometer actos inmorales o de hostigamiento y/o acoso sexual contra cualquier persona en el establecimiento o lugar de trabajo;
+d) Por incurrir en conductas que constituyan acoso laboral, hostigamiento o acoso sexual en el centro de trabajo, siempre que dichas conductas hayan sido previamente acreditadas conforme al protocolo institucional correspondiente o mediante sentencia definitiva emitida por autoridad competente.
 
 e) Por revelar asuntos secretos o reservados de que tuviera conocimiento con motivo de su trabajo;
 
@@ -693,9 +693,9 @@ j) Por prisión que sea el resultado de una sentencia ejecutoria.
 
 En los casos a que se refiere esta fracción, el jefe superior de la oficina respectiva podrá ordenar la remoción del trabajador que diere motivo a la terminación de los efectos de su nombramiento, a oficina distinta de aquella en que estuviere prestando sus servicios, dentro de la misma población cuando esto sea posible, hasta que sea resuelto en definitiva el conflicto por el Tribunal Estatal de Conciliación y Arbitraje.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2026)</small>
 
-Por cualquiera de las causas a que se refiere esta fracción, el Titular podrá suspender los efectos del nombramiento si con ello está conforme el Sindicato correspondiente; pero si éste no estuviere de acuerdo, y cuando se tratare de alguna de las causas graves previstas en los incisos a), c), e), h), hostigamiento y/o acoso sexual, el Titular podrá demandar la conclusión de los efectos del nombramiento, ante el Tribunal Estatal de Conciliación y Arbitraje, el cual proveerá de pleno en incidente por separado, la suspensión de los efectos del nombramiento, sin perjuicio de continuar el procedimiento en lo principal hasta agotarlo en los términos y plazos que correspondan, para determinar en definitiva sobre la procedencia o improcedencia de la terminación de los efectos del nombramiento.
+Por cualquiera de las causas a que se refiere esta fracción, el Titular podrá suspender los efectos del nombramiento si con ello está conforme el Sindicato correspondiente; pero si éste no estuviere de acuerdo, y cuando se tratare de alguna de las causas graves previstas en los incisos a), c), d), e) y h) el Titular podrá demandar la conclusión de los efectos del nombramiento, ante el Tribunal Estatal de Conciliación y Arbitraje, el cual proveerá de pleno en incidente por separado, la suspensión de los efectos del nombramiento, sin perjuicio de continuar el procedimiento en lo principal hasta agotarlo en los términos y plazos que correspondan, para determinar en definitiva sobre la procedencia o improcedencia de la terminación de los efectos del nombramiento.
 
 Cuando el tribunal resuelva que procede dar por terminados los efectos del nombramiento sin responsabilidad para el Estado, organismo o Municipio, el trabajador no tendrá derecho al pago de los salarios caídos.
 
@@ -703,13 +703,17 @@ Cuando el tribunal resuelva que procede dar por terminados los efectos del nombr
 
 Para efectos del inciso d) de esta fracción, se entenderá por:
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2026)</small>
 
-Hostigamiento, el ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas; y
+Hostigamiento, el ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas;
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2026)</small>
 
-Acoso sexual, una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+Acoso sexual, una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos; y
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2026)</small>
+
+Acoso laboral: Forma de violencia que se manifiesta mediante una serie de conductas reiteradas cuyo objeto o finalidad es intimidar, excluir, desvalorizar, hostigar o causar un daño físico, psicológico, económico o en su desarrollo laboral. La cual puede presentarse en forma horizontal, vertical ascendente o descendente.
 
 ###### ARTICULO 41.
 
@@ -1646,3 +1650,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto, las dependencias y entidades deberán llevar a cabo las adecuaciones administrativas necesarias para dar cumplimiento al mismo. Dentro del mismo plazo deberán incorporar en sus reglamentos interiores las disposiciones aprobadas en este Decreto.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 649 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL ARTÍCULO 40 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO, EN MATERIA DE ACOSO LABORAL".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
