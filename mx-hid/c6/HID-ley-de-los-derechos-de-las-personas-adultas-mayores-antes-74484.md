@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2026-04-14"
+last_updated: "2026-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -189,13 +189,17 @@ IV.- Corresponsabilidad.- Promover la concurrencia de los sectores público y pr
 
 V.- Vida libre de violencia.- Prevenir y erradicar toda conducta que cause lesión interna o externa, o cualquier otro tipo de maltrato que afecte la integridad física, psicológica, sexual, patrimonial, económica y moral de las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2026)</small>
 
-VI.- Atención Preferente.- Las Instituciones Estatales y Municipales, así como los sectores público y privado implementarán programas con enfoque interseccional, acordes a las diferentes características, circunstancias y condiciones de las personas adultas mayores que los beneficien directamente; y
+VI.- Atención Preferente.- Las Instituciones Estatales y Municipales, así como los sectores público y privado implementarán programas con enfoque interseccional, acordes a las diferentes características, circunstancias y condiciones de las personas adultas mayores que los beneficien directamente;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2026)</small>
 
-VII.- Igualdad sustantiva. Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
+VII.- Igualdad sustantiva.- Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales, y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2026)</small>
+
+VIII.- Progresividad: Es la obligación positiva del Estado de promover los derechos de las personas adultas mayores de manera gradual, de forma tal que se garantice el incremento en el grado de tutela, respeto y protección de sus derechos de manera continua.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -1302,3 +1306,9 @@ P.O. 14 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 605 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 4 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 648 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 6 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DEL PRINCIPIO DE PROGRESIVIDAD".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
