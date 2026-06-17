@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2026-01-07"
+last_updated: "2026-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2026.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -123,6 +123,10 @@ X. BAJO IMPACTO: Modificación del ambiente ocasionado por obras o actividades q
 
 XI. BIODIVERSIDAD: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, acuáticos y los complejos ecológicos de los que forman parte; comprendiendo la diversidad de cada especie y de los ecosistemas;
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2026)</small>
+
+XI Bis. Calidad de Vida: Nivel de bienestar que se alcanza en un ambiente ecológicamente adecuado, que satisface las necesidades del ser humano en cuanto a cantidad y calidad, proporcional a la diversidad y abundancia de seres vivos, y que produce una salud integral armónica con la naturaleza;
+
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
 
 XII. CENTRO DE VERIFICACIÓN VEHICULAR: A la instalación fija o móvil a través de la cual la Secretaría o la Persona Concesionaria, previo cumplimiento de los requisitos fijados por ley y utilizando el equipo previamente autorizado por las autoridades competentes, lleva a cabo la medición e inspección de las emisiones contaminantes provenientes de vehículos automotores en circulación;
@@ -209,9 +213,9 @@ XXXVIII Ter. GEOPARQUES: Áreas singulares, geográficamente unificadas con luga
 
 XXXVIII Quater. GEOSITIO: Área delimitada en donde existen elementos de interés geológico, así como su relación con el territorio, pudiendo vincularse con otros patrimonios naturales y culturales.
 
-> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2026)</small>
 
-XXXVIII Quinquies. HUERTOS URBANOS Y PERIURBANOS: son espacios públicos o privados reducidos y adaptables a diversas áreas, como viviendas, patios, jardines, techos, paredes, balcones, terrazas o lugares de fácil acceso, diseñados para el cultivo y producción de alimentos como frutas, verduras, hortalizas, hierbas aromáticas, plantas medicinales y flores, los cuales se utilizan para el autoconsumo de productos frescos y pueden desarrollarse tanto en tierra firme como en espacios alternativos, utilizando de preferencia materiales o recipientes reciclables.
+XXXVIII Quinquies. HUERTOS URBANOS Y PERIURBANOS: son espacios públicos o privados reducidos y adaptables a diversas áreas, como viviendas, patios, jardines, techos, paredes, balcones, terrazas o lugares de fácil acceso, diseñados para el cultivo y producción de alimentos como frutas, verduras, hortalizas, hierbas aromáticas, plantas medicinales y flores, los cuales se utilizan para el autoconsumo de productos frescos y pueden desarrollarse tanto en tierra firme como en espacios alternativos, utilizando de preferencia materiales o recipientes reciclables;
 
 XXXIX. INCINERACIÓN: Tratamiento térmico, con o sin la recuperación de calor, producido por la combustión, incluyendo pirólisis, gasificación, plasma y cualquier otro proceso que genere dioxinas y furanos como subproductos;
 
@@ -3930,3 +3934,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las autoridades competentes deberán integrar los criterios técnicos y ambientales necesarios para dar cumplimiento a lo dispuesto en el presente Decreto.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 647 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 3 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, EN MATERIA DE CONCEPTO DE CALIDAD DE VIDA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
