@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-seguridad-vial-y-transporte-del-estado-de-1606
 country: "mx"
 rank: "ley"
 publication_date: "2022-10-19"
-last_updated: "2023-08-01"
+last_updated: "2026-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:1 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:18 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Especial 30 Bis del Periódico Oficial del Estado de Jalisco, el miércoles 19 de octubre de 2022.
 
@@ -947,9 +947,17 @@ XI. Circular por todas las vialidades del Estado a excepción de los carriles de
 
 XII. Contar con apoyo vial de las autoridades estatales, municipales y metropolitanas en materia de movilidad;
 
-XIII. Poder transportarse en las líneas de tren ligero en los horarios que establezca la autoridad competente, así como contar con las facilidades necesarias para que puedan abordar las unidades de transporte público; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
 
-XIV. Contar con bici escuelas y/o espacios para el aprendizaje de este modo de transporte.
+XIII. Poder transportarse en las líneas de tren ligero en los horarios que establezca la autoridad competente, así como contar con las facilidades necesarias para que puedan abordar las unidades de transporte público;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+XIV. Contar con bici escuelas y/o espacios para el aprendizaje de este modo de transporte; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE JUNIO DE 2026)</small>
+
+XV. Las personas que transporten bicicletas en el exterior de vehículos automotores, pueden sujetarlas a la defensa, o mantenerlas fijas sobre el toldo o sobre la caja, empleando dispositivos adecuados que eviten riesgos a las personas ocupantes del mismo vehículo, así como a las demás personas usuarias de la vía pública, y el cumplimiento del numeral 3 del artículo 385 de la Ley de Movilidad, Seguridad Vial y Transporte del Estado de Jalisco.
 
 ###### Artículo 32.
 
@@ -6629,6 +6637,10 @@ XXV. Cuando un vehículo de Servicio de Transporte Privado de Punto a Punto mant
 
 2. En el caso de las fracciones V y VI, la persona conductora o propietaria, para liberar el vehículo retirado de la circulación, deberá pagar la verificación vehicular, y tendrá un plazo de treinta días naturales a partir de la fecha en que se le entregue el vehículo para circular a efecto de verificarlo, de no hacerlo así se le considerará como reincidente en los términos de la presente Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JUNIO DE 2026)</small>
+
+3. En caso de que el dispositivo adecuado para transportar bicicletas en el exterior de vehículos automotores, ya sea sujetado a la defensa, fijado sobre el toldo o colocado en la caja, obstruya parcial o totalmente la visibilidad de la placa de circulación, el conductor deberá de reubicar temporalmente la placa de circulación original en un lugar visible y firmemente sujeto al propio dispositivo o al exterior del vehículo, garantizando su legibilidad. Cumplida dicha condición, no procederá la aplicación de la medida de seguridad prevista en la fracción I, del numeral 1 del presente artículo, y el reglamento de la ley en la materia en su artículo 132 numeral 1 fracciones III y V.
+
 ###### Artículo 386.
 
 Disposiciones para el retiro de la circulación de vehículos.
@@ -7142,3 +7154,9 @@ Tercera (sic). El Ejecutivo del Estado tendrá un plazo de sesenta días hábile
 Cuarto. Las personas que pretendan obtener el registro de redes de transporte por parte de la Secretaría conforme a las disposiciones establecidas en del (sic) presente Decreto, que hubieran operado mediante la autorización otorgada antes de su entrada en vigor y suscribieron convenio de colaboración para la constitución del fondo económico que refería el derogado artículo 310 fracción XVII, deberán acreditar que se encuentran al corriente de pago y cumplimiento de las obligaciones establecidas a su cargo.
 
 Quinto. El impuesto aprobado en el presente decreto, deberá considerarse en la Ley de Ingresos del Estado de Jalisco para el ejercicio fiscal del 2024.
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 30192/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 31 Y 385 DE LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
