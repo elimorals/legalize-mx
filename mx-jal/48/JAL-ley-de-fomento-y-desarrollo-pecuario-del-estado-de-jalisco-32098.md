@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2024-04-16"
+last_updated: "2026-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -51,7 +51,9 @@ I. El Reglamento que expida el Ejecutivo;
 
 II. El Código Civil del Estado de Jalisco;
 
-III. El Código de Procedimientos Civiles del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+III. El Código Nacional de Procedimientos Civiles y Familiares;
 
 > <small>(REFORMADA, P.O. 16 DE ABRIL DE 2024)</small>
 
@@ -1932,3 +1934,9 @@ PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publica
 SEGUNDO. - El Titular del Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias correspondientes para el debido cumplimiento del presente Decreto.
 
 TERCERO. - La Secretaría de Agricultura y Desarrollo Rural, dentro de un plazo que no excederán de 60 días, contados a partir de la entrada en vigor de la presente reforma, realizara las adecuaciones administrativas y/o reglamentarias pertinentes a efecto de implementar la presente reforma.
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30176/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 2º DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
