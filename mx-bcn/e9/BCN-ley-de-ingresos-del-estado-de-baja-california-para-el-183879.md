@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-183879"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-23"
-last_updated: "2026-02-17"
+last_updated: "2026-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=183879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
 
 Ley publicada en el Número Especial 75 del Periódico Oficial del Estado de Baja California, el martes 23 de diciembre de 2025.
 
@@ -179,27 +179,47 @@ Con independencia de lo que establezcan otras leyes, se incluye dentro de los su
 
 IMPUESTO SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 4.
 
-El Impuesto sobre Diversiones y Espectáculos Públicos, se causa conforme a las siguientes
+El Impuesto sobre Diversiones y Espectáculos Públicos se causará conforme a las siguientes
 
-T A S A S:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2026)</small>
 
-I.- Obras de Teatro y funciones de circo, por el ingreso bruto percibido por la venta de boletos para entrar al espectáculo. 2.96%
+CUOTAS:
 
-II.- Espectáculos cómicos, taurinos, audiencias musicales, bailes, eventos de box y lucha, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo 5.0%
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
 
-III.- Espectáculos de carpa y aquéllos en que participan deportistas profesionales, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo. 5.0%
+I.- Obras de teatro y funciones de circo, por el ingreso bruto percibido por la venta de boletos para entrar al espectáculo 15 veces la Unidad de Medida y Actualización por evento.
 
-IV.- Espectáculos en que participen deportistas, músicos y actores no profesionales, así como los realizados por Instituciones Educativas y organizaciones que no persigan fines de lucro, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo 5.0%
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
 
-V.- Espectáculos de frontón, carreras de caballos, o de galgos, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo 10.0%
+II.- Espectáculos cómicos, taurinos, audiencias musicales, bailes, eventos de box y lucha, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo 20 veces la Unidad de Medida y Actualización por evento.
 
-VI.- Otras diversiones y espectáculos públicos, sobre el ingreso bruto percibido por la venta de boletos que importen el derecho de admisión para entrar al espectáculo. 10.0%
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
 
-Para efectos de este impuesto se considerará también como boletos vendidos aquéllos por los que no se pague la entrada, por tener boletos de cortesía, pases, o por cualquier otro motivo, determinándose como base gravable de éstos, el costo promedio aritmético del valor de los boletos ofrecidos al público.
+III. - Espectáculos de carpa y aquellos en que participen deportistas profesionales sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo 20 veces la Unidad de Medida y Actualización por evento.
 
-Para la determinación del impuesto, en los casos en que para un espectáculo se vendan boletos con distinto costo para una misma sección, zona o ubicación, se considerará como base gravable el de costo mayor.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+IV.- Espectáculos en que participen deportistas, músicos y actores no profesionales, así como los realizados por instituciones educativas y organizaciones que no persigan fines de lucro sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo 10 veces la Unidad de Medida y Actualización por evento.
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+V.- Espectáculos de frontón carreras de caballos, o de galgos, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo 40 veces la Unidad de Medida y Actualización por evento.
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+VI.- Otras diversiones y espectáculos públicos sobre el ingreso bruto percibido por la venta de boletos que importen el derecho de admisión para entrar al espectáculo 20 veces la Unidad de Medida y Actualización por evento.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
+El pago de las cuotas señaladas en el presente artículo deberá realizarse en los mismos términos y plazos previstos en el artículo 140 de la Ley de Hacienda del Estado o en las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
+Los recursos que se obtengan por concepto de dichas cuotas deberán destinarse al financiamiento de programas de asistencia social del Sistema para el Desarrollo Integral de la Familia del Estado.
 
 ### CAPÍTULO IV
 
@@ -5310,3 +5330,11 @@ P.O. 17 DE FEBRERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 219 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO TRANSITORIO VIGÉSIMO TERCERO DE LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA, PARA EL EJERCICIO FISCAL 2026".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 290 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2026, ASÍ COMO SE REFORMAN DIVERSOS ARTÍCULOS Y SE DEROGAN LOS ARTÍCULOS 141, 143-3, 143-4 Y 143-5 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente iniciativa de reforma entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. Los espectáculos y eventos públicos cuya realización este programada para antes de la entrada en vigor de las presentes reformas, se liquidarán y pagarán en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
