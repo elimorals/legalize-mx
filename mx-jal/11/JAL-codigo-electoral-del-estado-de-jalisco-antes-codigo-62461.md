@@ -4,7 +4,7 @@ identifier: "JAL-codigo-electoral-del-estado-de-jalisco-antes-codigo-62461"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-05"
-last_updated: "2023-10-19"
+last_updated: "2026-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO ELECTORAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
 
 Código publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 5 de agosto de 2008.
 
@@ -7699,7 +7699,9 @@ II. El plazo para resolver los incidentes por ningún motivo deberá de exceder 
 
 III. Los plazos para la notificación, traslado, requerimientos, desahogo de éstos, citación o emisión de sentencias interlocutorias y otros actos procesales, que se consideren indispensables a fin de salvaguardar los derechos de los justiciables en el incidente de nuevo escrutinio y cómputo, deberán ser establecidos por el Pleno del Tribunal Electoral en el auto que admita a trámite el incidente, debiendo para ello tener en cuenta que no podrá rebasar el plazo de seis días con el que cuenta para resolverlo, fundando y motivando su actuación.
 
-5. Lo no regulado en esta ley en materia de incidentes, se estará a lo que establece el Código de Procedimientos Civiles para el Estado de Jalisco, y el reglamento interno del Tribunal.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
+5. Lo no regulado en esta ley en materia de incidentes, se estará a lo que establece el Código Nacional de Procedimientos Civiles y Familiares; y el reglamento interno del Tribunal.
 
 Artículo 638
 
@@ -9166,3 +9168,9 @@ CUARTO. Publíquese en el Periódico Oficial "El Estado de Jalisco" el texto del
 Se instruye a la Subsecretaría de Derechos Humanos para que, por conducto de la Dirección de Inclusión a Personas con Discapacidad, difunda el contenido de dicha publicación ante las correspondientes organizaciones de la sociedad civil que tenga registradas.
 
 SEXTO (SIC). Hágase del conocimiento del Poder Legislativo, así como del Instituto Electoral y de Participación Ciudadana, ambos del Estado de Jalisco, la publicación oficial del presente Comunicado, para los efectos legales correspondientes.
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30195/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 637 BIS DEL CÓDIGO ELECTORAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
