@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2024-10-04"
+last_updated: "2026-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -1433,7 +1433,13 @@ XXI. Supervisar y coordinar el órgano técnico de su competencia;
 
 XXII. Informar a la Coordinación de Procesos Legislativos de las asistencias e inasistencias de los integrantes a las reuniones de comisión, ya sean justificadas o injustificadas, para efectos de su registro; y
 
-XXIII. Las demás que señale esta ley, su reglamento y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE JUNIO DE 2026)</small>
+
+XXIII. Proponer, en caso de ausencia del Secretario de la Junta Directiva, a quien fungirá con ese cargo, de entre los demás miembros de la Comisión; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE JUNIO DE 2026)</small>
+
+XXIV. Las demás que señale esta ley, su reglamento y otras disposiciones aplicables.
 
 2. El Presidente debe informar a los integrantes de la comisión en la siguiente reunión ordinaria de la misma, sobre los actos realizados en uso de las atribuciones señaladas en las fracciones XII, XIII y XIV del presente artículo.
 
@@ -1467,7 +1473,9 @@ III. Competitividad, Desarrollo Económico, Innovación y Trabajo;
 
 IV. Derechos Humanos y Pueblos Originarios;
 
-V. Desarrollo Productivo Regional;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+V. Ganadería, Agricultura y Desarrollo Rural;
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
 
@@ -1583,19 +1591,25 @@ V. La elección de los consejeros ciudadanos del Consejo para Prevenir y Elimina
 
 VI. La elección de los integrantes del Consejo Estatal Ciudadano, órgano de consulta del Comité Coordinador, establecido por la Ley de Personas Desaparecidas del Estado de Jalisco.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
 
 ###### Artículo 84.
 
-1. Corresponde a la Comisión de Desarrollo Productivo Regional, el conocimiento, estudio y en su caso dictamen de los asuntos relacionados con:
+1. Corresponde a la Comisión de Ganadería, Agricultura y Desarrollo Rural, el conocimiento, estudio y en su caso dictamen de los asuntos relacionados con:
 
-I. La legislación en materia pecuaria, agrícola, pesca y desarrollo forestal sustentable y regional;
+I. La legislación en materia pecuaria, agrícola, pesca, silvicultura y desarrollo rural y regional;
 
-II. Los planes, programas y políticas de desarrollo pecuario que sean de competencia del Estado;
+II. Los planes, programas y políticas de desarrollo pecuario, agrícola y pesquero que sean de competencia del Estado;
 
-III. Los planes, programas y políticas que se celebren para la conservación, protección y aprovechamiento de los recursos agrícolas y de pesca; y
+III. Los planes, programas y políticas que se celebren para la conservación, protección y aprovechamiento de los recursos agrícolas y de pesca;
 
-IV. Los planes, programas y políticas de apoyo financiero a las actividades para el desarrollo forestal y regional del Estado.
+IV. Los planes, programas y políticas de desarrollo agroalimentario que sean de competencia del Estado;
+
+V. La legislación y los planes, programas y políticas para una alimentación adecuada y sostenible que sean de competencia del Estado;
+
+VI. Los planes, programas y políticas de apoyo financiero a las actividades para el desarrollo rural y regional del Estado; y
+
+VII. Los planes, programas y políticas para el desarrollo sustentable en las actividades agropecuarias y de silvicultura.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -4080,3 +4094,21 @@ P.O. 4 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29568/LXIII/24 QUE REFORMA LOS ARTÍCULOS 53 Y 113 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO EN MATERIA DE SESIONES CON HORARIOS DE PERSPECTIVA DE CUIDADOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30179/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 77 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO Y 27 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Jalisco.
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 30200/LXIV/26 DEL CONGRESO DEL ESTADO QUE MODIFICA EL ARTÍCULO 79, FRACCIÓN V Y 84 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+Primero. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Jalisco".
+
+Segundo. La integración de la Comisión de Ganadería, Agricultura y Desarrollo Rural será en los términos de los Acuerdos Legislativos 5-LXIV-24 y 7-LXIV-24 en lo que respecta a la integración de la Comisión de Desarrollo Productivo Regional.
+
+Tercero. Los asuntos turnados a la Comisión de Desarrollo Productivo Regional, serán atendidos por la Comisión de Ganadería, Agricultura y Desarrollo Rural.
+
+Cuarto. Hasta en tanto se realicen las modificaciones en la legislación local derivadas del presente decreto, cuando otra ley o disposición se refiera a la Comisión de Desarrollo Productivo Regional del Poder Legislativo a su Órgano Técnico, se entenderá que se refiere a los de Ganadería, Agricultura y Desarrollo Rural.
