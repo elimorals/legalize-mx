@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-archivos-del-estado-de-jalisco-y-sus-municipios-139147"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-19"
-last_updated: "2023-12-19"
+last_updated: "2026-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE ARCHIVOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 19 de noviembre de 2019.
 
@@ -955,7 +955,9 @@ Los miembros del Consejo Estatal no recibirán remuneración alguna por su parti
 
 El Consejo Estatal, para el ejercicio de sus funciones y el cumplimiento de sus objetivos, contará con un Secretario Ejecutivo que será nombrado por el Presidente y será su auxiliar encargado de proponer las políticas y lineamientos en gestión documental para coordinar a los archivos generales de los sujetos obligados, así como para ejecutar las resoluciones del Consejo Estatal o, en su caso, del Consejo Nacional.
 
-El Secretario Ejecutivo deberá contar con grado de licenciatura o posgrado en administración de archivos y gestión documental, o su equivalente.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
+El Secretario Ejecutivo deberá contar con grado de licenciatura o posgrado, preferentemente en administración de archivos, gestión documental o disciplinas afines, o bien acreditar experiencia mínima de cinco años en materia archivística.
 
 ###### Artículo 75.
 
@@ -1824,3 +1826,9 @@ QUINTO. Se autoriza al Titular del Poder Ejecutivo del Estado para que, por cond
 SEXTO. Los recursos económicos y materiales, así como los derechos, valores, fondos y obligaciones del Archivo Histórico de la Secretaría General de Gobierno, pasarán a formar parte del patrimonio del Archivo General del Estado, de conformidad con la normatividad en la materia.
 
 SÉPTIMO. El acervo documental del Archivo Histórico de la Secretaría General de Gobierno deberá remitirse al Archivo General del Estado en un plazo de trescientos sesenta y cinco días naturales, debiendo generarse programas para la entrega recepción, en términos de la Ley de Entrega Recepción del Estado de Jalisco y sus Municipios.
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30180/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 74 DE LA LEY DE ARCHIVOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
