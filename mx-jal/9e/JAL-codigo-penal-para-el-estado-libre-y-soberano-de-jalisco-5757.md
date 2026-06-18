@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2026-06-02"
+last_updated: "2026-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -665,7 +665,9 @@ La prohibición no podrá exceder de cinco años, salvo lo establecido en las le
 
 La víctima o el ofendido por algún delito tienen derecho a que se les satisfaga la reparación del daño, en los casos que ésta proceda. Dicha reparación, que debe ser hecha por el imputado o sentenciado, tiene el carácter de pena pública, y se resolverá de conformidad con el Código Nacional de Procedimientos Penales.
 
-Cuando la misma reparación debe exigirse a terceros, tendrá el carácter de responsabilidad civil, debiendo tramitarse en la forma y términos que prescribe el Código de Procedimientos Civiles del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
+Cuando la misma reparación debe exigirse a terceros, tendrá el carácter de responsabilidad civil, debiendo tramitarse en la forma y términos que prescribe el Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
@@ -3541,21 +3543,17 @@ Este delito se perseguirá por querella de la ofendida o de su legítimo represe
 
 ### Capítulo VII. Violación a la intimidad sexual
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2026)</small>
+
+###### Art. 176 Bis.
+
+3. Comete el delito de violación a la intimidad sexual quien, por cualquier medio difunda, exponga, divulgue, almacene, comparta, distribuya, compile, comercie, solicite, haga circular, oferte o publique, o amenace con difundir, imágenes, audios o videos de contenido real, manipulado, alterado o creado por inteligencia artificial, de una persona desnuda parcial o totalmente o cualquier contenido erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima, o que haya sido obtenido bajo engaño o manipulación.
+
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
 
-## TITULO DECIMO SEGUNDO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2015)</small>
-
-### CAPITULO I. De la Violencia Familiar
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 25 DE MAYO DE 2026)</small>
-
-###### Art. 176
-
-Bis. 3. Comete el delito de violación a la intimidad sexual quien, por cualquier medio difunda, exponga, divulgue, almacene, comparta, distribuya, compile, comercie, solicite, haga circular, oferte o publique, o amenace con difundir, imágenes, audios o videos de contenido real, manipulado y/o alterado de una persona desnuda parcial o totalmente o cualquier contenido erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima, o que haya sido obtenido bajo engaño o manipulación.
-
 Esta conducta se sancionará de uno a ocho años de prisión y multa de mil a dos mil Unidades de Medida y Actualización. Este delito se perseguirá por querella.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
 
 Las mismas penas se aumentarán hasta en una mitad cuando:
 
@@ -3577,13 +3575,53 @@ VIII. Cuando medie la violencia física o moral para fabricar el contenido ínti
 
 IX. Si por las características de los espacios de las tecnologías de la información donde se difundió, éste se distribuye masivamente por medios digitales.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
 En todos los casos la autoridad judicial, tratándose de sentencia condenatoria, ordenará al infractor a ofrecer disculpa pública, a realizar trabajo a favor de la comunidad, a asistir a programas de reeducación integral con perspectiva de género, y a borrar o eliminar el contenido audiovisual o electrónico cuando la conducta se haya cometido por medio de las tecnologías de la información.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
+
 Para los efectos de las disposiciones anteriores, el Ministerio Público o la autoridad judicial competente ordenará a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado o compilado el contenido íntimo no autorizado, el retiro inmediato de la publicación que se realizó sin consentimiento de la víctima, o que este haya sido obtenido bajo engaño o manipulación.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2020)</small>
 
 Se estará a lo previsto en el Código Penal Federal cuando los hechos se adecuen al delito de pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+## TITULO DECIMO SEGUNDO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+### CAPITULO I. De la Violencia Familiar
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 25 DE MAYO DE 2026)</small>
+
+###### Art. 176
+
+Ter. Comete el delito de violencia familiar quien infiera maltrato en contra de una o varias personas con las que se encuentre unida por vínculo matrimonial, parentesco por consanguinidad o afinidad hasta cuarto grado o concubinato dentro o fuera del domicilio familiar.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+Asimismo, comete el delito de violencia familiar quien infiera maltrato en contra de una persona, dentro o fuera del domicilio de la víctima, con la que se haya tenido una relación de matrimonio o de concubinato.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+Para efectos del párrafo anterior, se entiende por maltrato los actos u omisiones que causen violencia patrimonial, económica o psicológica, o un deterioro a la integridad física, o que afecte la libertad sexual de alguna de las víctimas, independientemente de que se cometa o no otro delito.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+Al responsable de este delito se le impondrán de seis meses a cuatro años de prisión, sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este Código aplicándose para ello las reglas de concurso de delitos. Además, se impondrán, a juicio del Juez, las penas conjuntas o separadas de la pérdida de la custodia que tenga respecto de la víctima, la pérdida del derecho de pensión alimenticia, la prohibición de ir a lugar determinado o residir en él, tratamientos psicológicos, reeducativos, integrales, especializados y gratuitos que serán impartidos por instituciones públicas.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+Se equipara a violencia familiar el maltrato que se infiera en contra del tutor, curador, pupilo, amasia o amasio, los hijos de éste o aquélla, de quien habite en el domicilio de la persona agresora o hubiera habitado en el mismo, o de la persona a quien la persona agresora le deba dar cuidado o protección; la misma pena se le impondrá a la persona agresora, si la víctima abandonó el domicilio al momento de la realización del hecho y que por dicha situación haya tenido que retirarse del mismo. Al responsable de este delito se le impondrá la pena señalada en el párrafo tercero de este artículo.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2026)</small>
+
+El maltrato que se infiera en contra de un hijo, adoptado, menor de edad, o a quien le deba dar cuidado y protección será considerado maltrato infantil el cual se encuentra previsto en el artículo 142-N del presente Código.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2026)</small>
 
 ### CAPITULO I BIS. De la Violencia Vicaria
 
@@ -3626,32 +3664,6 @@ Se impondrán las mismas penas del delito de violencia vicaria a quien, sin tene
 Artí. 176-Ter 2. En los casos de violencia familia (sic), violencia familiar equiparada y violencia vicaria, el Ministerio Público exhortará a la persona imputada para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima, acordará las medidas preventivas y solicitará las medidas precautorias que considere pertinentes para salvaguardar la integridad física o psíquica de la misma y, solicitará las órdenes de protección que establece la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 La autoridad administrativa vigilará el cumplimiento de estas medidas en términos de lo dispuesto por la legislación aplicable.
-
-###### Art. 176
-
-Ter. Comete el delito de violencia familiar quien infiera maltrato en contra de una o varias personas con las que se encuentre unida por vínculo matrimonial, parentesco por consanguinidad o afinidad hasta cuarto grado o concubinato dentro o fuera del domicilio familiar.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
-
-Asimismo, comete el delito de violencia familiar quien infiera maltrato en contra de una persona, dentro o fuera del domicilio de la víctima, con la que se haya tenido una relación de matrimonio o de concubinato.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
-
-Para efectos del párrafo anterior, se entiende por maltrato los actos u omisiones que causen violencia patrimonial, económica o psicológica, o un deterioro a la integridad física, o que afecte la libertad sexual de alguna de las víctimas, independientemente de que se cometa o no otro delito.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
-
-Al responsable de este delito se le impondrán de seis meses a cuatro años de prisión, sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este Código aplicándose para ello las reglas de concurso de delitos. Además, se impondrán, a juicio del Juez, las penas conjuntas o separadas de la pérdida de la custodia que tenga respecto de la víctima, la pérdida del derecho de pensión alimenticia, la prohibición de ir a lugar determinado o residir en él, tratamientos psicológicos, reeducativos, integrales, especializados y gratuitos que serán impartidos por instituciones públicas.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
-
-Se equipara a violencia familiar el maltrato que se infiera en contra del tutor, curador, pupilo, amasia o amasio, los hijos de éste o aquélla, de quien habite en el domicilio de la persona agresora o hubiera habitado en el mismo, o de la persona a quien la persona agresora le deba dar cuidado o protección; la misma pena se le impondrá a la persona agresora, si la víctima abandonó el domicilio al momento de la realización del hecho y que por dicha situación haya tenido que retirarse del mismo. Al responsable de este delito se le impondrá la pena señalada en el párrafo tercero de este artículo.
-
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2026)</small>
-
-El maltrato que se infiera en contra de un hijo, adoptado, menor de edad, o a quien le deba dar cuidado y protección será considerado maltrato infantil el cual se encuentra previsto en el artículo 142-N del presente Código.
-
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2026)</small>
 
 ### CAPITULO II. De la suposición y supresión del estado civil
 
@@ -7488,3 +7500,15 @@ P.O. 2 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 30163/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMAN LOS ARTÍCULOS 29 Y 232 BIS, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30178/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 176-BIS. 3. DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 30194/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 34 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
