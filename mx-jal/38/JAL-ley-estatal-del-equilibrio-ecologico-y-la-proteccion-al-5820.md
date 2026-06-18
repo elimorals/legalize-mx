@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2026-04-02"
+last_updated: "2026-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -183,9 +183,9 @@ XXVI. Paisajes bioculturales: son territorios reconocidos como tales a través d
 
 XXVII. Patrimonio cultural: El conjunto de manifestaciones producto de la obra conjunta o separada del hombre y de la naturaleza que contiene relevancia histórica, estética, paisajística, arquitectónica, urbanística, literaria, artística, pictográfica, tradicional, etnológica, científica o intelectual para la sociedad jalisciense;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
 
-XXVIII. Procuraduría: Procuraduría Estatal de Protección al Ambiente, órgano desconcentrado de la Secretaría de Medio Ambiente y Desarrollo Territorial;
+XXVIII. Procuraduría: Procuraduría Estatal de Protección al Ambiente, órgano desconcentrado de la Secretaría;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
@@ -231,13 +231,17 @@ XXXVIII. Ordenamiento Ecológico del Territorio del Estado: Instrumento de polí
 
 XXXIX. Ordenamiento Ecológico Regional: Es el instrumento de planeación ambiental, que integra el Ordenamiento Ecológico del Territorio del Estado, que regula o induce el uso del suelo y el manejo de los recursos naturales del estado en un determinado espacio del territorio del estado en donde interviene más de un municipio;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
 
-XL. Ordenamiento Ecológico Local: Es el instrumento de planeación ambiental, que integra el Ordenamiento Ecológico del Territorio del Estado que regula o induce el uso del suelo y el manejo de los recursos naturales en un municipio; y
+XL. Ordenamiento Ecológico Local: Es el instrumento de planeación ambiental, que integra el Ordenamiento Ecológico del Territorio del Estado que regula o induce el uso del suelo y el manejo de los recursos naturales en un municipio;
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
 
-XLI. Resiliencia: la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos.
+XLI. Resiliencia: la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos; y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+XLII. Secretaría: Secretaría de Medio Ambiente y Desarrollo Territorial.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -1235,7 +1239,9 @@ El Fondo de Protección al Ambiente será administrado mediante un fideicomiso q
 
 I. El Gobernador del Estado, quien lo presidirá;
 
-II. La Secretaría de Medio Ambiente y Desarrollo Territorial;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+II. La Secretaría;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2020)</small>
 
@@ -1267,7 +1273,9 @@ Para la validez de los acuerdos del Comité, se requerirá la presencia de la mi
 
 El fideicomiso contará con un Consejo Consultivo, encargado de recabar y analizar las propuestas de proyectos de inversión de los recursos del fondo que serán sometidas a la decisión del Comité Técnico, mismo que estará integrado por:
 
-I. La Secretaría de Medio Ambiente y Desarrollo Territorial, que lo presidirá;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+I. La Secretaría, que lo presidirá;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2020)</small>
 
@@ -2121,9 +2129,9 @@ VI. Establecerán y operarán con el apoyo técnico, en su caso, de la federaci�
 
 VII. Establecerán programas de verificación de emisiones contaminantes con carácter de obligatorio para los vehículos que se encuentren registrados o los de estancia permanente en las áreas metropolitanas, zonas metropolitanas o municipios, de más de cien mil habitantes en el Estado de Jalisco, que cuenten con centros de verificación vehicular, así como para los vehículos oficiales de todos los entes públicos en el estado que se encuentren registrados en el Estado;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2026)</small>
 
-Corresponden a la Secretaría de Medio Ambiente y Desarrollo Territorial, las siguientes atribuciones:
+Corresponden a la Secretaría, las siguientes atribuciones:
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
@@ -3756,3 +3764,9 @@ P.O. 2 DE ABRIL DE 2026.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
 
 Segundo. El Poder Ejecutivo del Estado dispondrá de un plazo de 90 días para la instalación del Consejo Estatal de Áreas Naturales Protegidas, con la integración propuesta en el presente decreto y para realizar las adecuaciones administrativas y reglamentarias que deriven del presente Decreto.
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30190/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA LAS FRACCIONES XXVIII, XL Y XLI Y ADICIONA LA FRACCIÓN XLII DEL ARTÍCULO 3, Y REFORMA LA FRACCIÓN II DEL ARTÍCULO 41 QUINQUIES, FRACCIÓN I DEL ARTÍCULO 41 SEXIES Y FRACCIÓN VII DEL ARTÍCULO 72, TODOS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
