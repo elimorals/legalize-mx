@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2026-06-02"
+last_updated: "2026-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -1121,7 +1121,9 @@ En la educación que se imparta en el estado de Jalisco, se utilizará el avance
 
 Se buscará el uso responsable con fines pedagógicos y máximo provecho de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, fomentando un modelo mixto de enseñanza-aprendizaje virtual y presencial en complemento de los demás materiales educativos, incluidos los libros de texto gratuitos.
 
-La autoridad educativa estatal procurará que el empleo de dispositivos electrónicos y digitales en el interior de los planteles educativos se realice para fines estrictamente pedagógicos y bajo la supervisión docente.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
+La autoridad educativa estatal vigilará que el empleo de dispositivos electrónicos y digitales en el interior de los planteles educativos se realice en los términos establecidos por la Ley para Garantizar los Derechos de Niñas, Niños y Adolescentes en Entornos Digitales del Estado de Jalisco y sus Municipios.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
@@ -2868,3 +2870,9 @@ P.O. 2 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 30162/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 60 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30182/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 61 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente decreto se publicará en el Periódico oficial "El Estado de Jalisco" y entrará en vigencia al día siguiente de la entrada en vigor de la Ley para Garantizar los Derechos de Niñas, Niños y Adolescentes en Entornos Digitales del Estado de Jalisco y sus Municipios.
