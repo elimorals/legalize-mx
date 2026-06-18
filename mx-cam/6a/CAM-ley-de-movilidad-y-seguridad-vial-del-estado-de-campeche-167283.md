@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-movilidad-y-seguridad-vial-del-estado-de-campeche-167283
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-28"
-last_updated: "2026-06-10"
+last_updated: "2026-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 28 de julio de 2023.
 
@@ -1445,7 +1445,9 @@ Esta información será utilizada por el Registro a efecto de poder llevar a cab
 
 El registro e inscripción de los vehículos de transporte particular, así como del servicio de transporte, público y privado, de pasajeros y de carga en la Entidad, se comprobará mediante las placas de matrícula, la calcomanía vigente de pago de derechos vehiculares, la tarjeta de circulación y, en su caso, el permiso que se requiera. Los comprobantes de registro deberán portarse en el vehículo.
 
-Las autoridades correspondientes podrán emitir placas de matrícula y/o distintivo oficial para identificar vehículos de características específicas o que brinden un servicio especial, como vehículos para personas con discapacidad o vehículos con tecnologías sustentables, dígase híbridos o eléctricos, para estos últimos una placa de matrícula verde.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
+Las autoridades competentes podrán emitir placas de matrícula y/o distintivos oficiales para identificar vehículos de características específicas o que brinden un servicio especial, como los destinados al traslado de personas con discapacidad o aquellos que incorporen tecnologías sustentables, incluyendo vehículos híbridos o eléctricos; para el caso de las personas con discapacidad, la expedición y reconocimiento de dichos distintivos se sujetará a criterios de accesibilidad, simplificación administrativa, mínima carga económica para las personas solicitantes y homologación en el territorio estatal, en términos del marco normativo aplicable.
 
 > <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2025)</small>
 
@@ -1531,7 +1533,11 @@ III. Promover Calles, vías y carriles preferentes, confinados o exclusivos para
 
 IV. Asignar, modificar o retirar zonas de estacionamiento en vías públicas y privadas, o privadas con acceso al público;
 
-V. Crear Áreas de estacionamiento exclusivas para el uso de personas con discapacidad en vías públicas y privadas, o privadas con acceso al público;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+V. Crear áreas de estacionamiento exclusivas para el uso de personas con discapacidad en vías públicas y privadas, o privadas con acceso al público.
+
+El acceso y utilización de dichos espacios se acreditará mediante los medios de identificación, distintivos, placas o mecanismos oficialmente reconocidos por las autoridades competentes, procurando su homologación y reconocimiento en todo el territorio estatal, en términos del marco normativo aplicable;
 
 VI. Fomentar las condiciones de la movilidad en áreas específicas en cuanto a sentidos de circulación, accesos controlados o selectivos; y
 
@@ -2536,3 +2542,13 @@ Para tales efectos, las autoridades competentes podrán coordinarse con instituc
 Las medidas que se implementen con motivo del presente decreto deberán observar criterios de inclusión y accesibilidad, evitando, en la medida de lo posible, prácticas o mecanismos que generen barreras injustificadas para el acceso a tarifas preferenciales.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 249 POR EL QUE "SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 104 Y LA FRACCIÓN V DEL ARTÍCULO 116 DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el cumplimiento de las disposiciones contenidas en el presente decreto, los HH. Ayuntamientos del Estado de Campeche, en el ámbito de sus respectivas competencias y con pleno respeto a su autonomía hacendaria y reglamentaria, reconocida en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Campeche y demás disposiciones aplicables, podrán emitir los acuerdos, lineamientos, disposiciones administrativas o previsiones normativas que estimen procedentes para favorecer la gratuidad en la expedición de distintivos o tarjetones oficiales destinados a personas con discapacidad, privilegiando en todo momento los principios de accesibilidad, inclusión, simplificación administrativa y apoyo a este sector de la población.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
