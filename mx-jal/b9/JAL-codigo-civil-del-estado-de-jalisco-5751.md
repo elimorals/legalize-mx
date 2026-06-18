@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2026-05-25"
+last_updated: "2026-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -851,9 +851,11 @@ Si hubiere alguna noticia u oposición, el juez no declarará la ausencia sin qu
 
 La declaración de ausencia se publicará dos veces en los periódicos mencionados, con intervalos de siete días, remitiéndose en su caso a los cónsules como esta señalado respecto a los edictos.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
 ###### Art. 120.
 
-La resolución que se pronuncie sobre declaración de ausencia, podrá ser impugnada mediante los recursos que el Código de Procedimientos Civiles señale para los juicios ordinarios.
+La resolución que se pronuncie sobre declaración de ausencia, podrá ser impugnada mediante los recursos que el Código Nacional de Procedimientos Civiles y Familiares señale para los juicios ordinarios.
 
 ### CAPITULO IV. De los efectos de la declaración de ausencia
 
@@ -2999,13 +3001,17 @@ Cuando el deudor alimentista no estuviere presente o estándolo, rehusare entreg
 
 Cuando un cónyuge se vea obligado sin culpa suya, a vivir separado del otro; podrá pedir al Juez de Primera Instancia del lugar de su residencia, que obligue a su cónyuge a darle alimentos durante la separación y que le ministre todos (sic) lo que haya dejado de darle desde que lo abandonó. El juez, según las circunstancias del caso, fijará la suma que deberá ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el cónyuge obligado pague los gastos que el cónyuge abandonado haya tenido que erogar con tal motivo.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2026)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2026)</small>
 
 ###### Art. 455.
 
-Toda persona a quien, por su empleo, cargo o comisión corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles aplicable y responderá solidariamente con los obligados directos de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos.
+Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez; de no hacerlo, será sancionada en los términos establecidos en el Código Nacional de Procedimientos Civiles y Familiares y responderá solidariamente con los obligados directos de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2026)</small>
 
 Las personas que no cumplan las órdenes judiciales de descuento, o auxilien al deudor alimentario a ocultar o simular sus bienes, o a eludir el cumplimiento de las obligaciones alimentarias, son responsables en los términos del párrafo anterior, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2026)</small>
 
 El deudor alimentario deberá informar de inmediato a (sic) al Juez y al acreedor alimentista cualquier cambio de empleo, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta, el puesto o cargo que desempeñará, así como comprobar de manera fehaciente con documento idóneo su salario a efecto de que continúe cumpliendo con la pensión alimenticia decretada y no incurrir en alguna responsabilidad.
 
@@ -3477,11 +3483,11 @@ El consentimiento, tratándose de niñas, niños y adolescentes cuyos padres han
 
 Para las adopciones a las que se refiere la fracción III del Artículo 520, el consentimiento lo debe dar la persona que pretende ser adoptada.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
 
 ###### Art. 524.
 
-El trámite para la adopción deberá efectuarse ante el Juez de Primera Instancia del lugar en que resida la persona que se pretende adoptar en los términos del Código de Procedimientos Civiles.
+El trámite para la adopción deberá efectuarse ante el Juez de Primera Instancia del lugar en que resida la persona que se pretende adoptar en los términos del Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3739,7 +3745,9 @@ La guarda y custodia confiere a quien la ejerce la facultad de determinar límit
 
 La guarda y custodia en función de la temporalidad con que se ejerce será:
 
-I. Provisional cuando se efectúe en los términos previstos por el artículo 225 del Código de Procedimientos Civiles;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+I. Provisional cuando se efectúe en los términos previstos por el artículo 581 del Código Nacional de Procedimientos Civiles y Familiares;
 
 II. Temporal cuando el custodiado es sujeto a ella en períodos continuos, sucesivos y por un tiempo predeterminado; y
 
@@ -4375,11 +4383,11 @@ Cuando fallezca una persona que ejerza la patria potestad sobre un incapaz a qui
 
 La tutela es testamentaria, legítima o dativa.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
 
 ###### Art. 615.
 
-Ninguna tutela puede conferirse sin que previamente se declare, en los términos que disponga el Código de Procedimientos Civiles, la incapacidad y las limitaciones a la capacidad de ejercicio de la persona que va a quedar sujeta a ella.
+Ninguna tutela puede conferirse sin que previamente se declare, en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares, la incapacidad y las limitaciones a la capacidad de ejercicio de la persona que va a quedar sujeta a ella.
 
 ###### Art. 616.
 
@@ -7259,13 +7267,17 @@ I. Las controversias entre condóminos deberán sujetarse necesariamente al arbi
 
 II. Cuando estas controversias se susciten en condominios de servicios municipales, se deberán someter al arbitraje del secretario del ayuntamiento del lugar de ubicación del condominio;
 
-III. El Código de Procedimientos Civiles del Estado será supletorio en estos negocios; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+III. El Código Nacional de Procedimientos Civiles y Familiares será supletorio en estos negocios; y
 
 IV. Las demás controversias que surjan, serán ventiladas ante el juez de primera instancia del domicilio de ubicación del condominio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2026)</small>
+
 ###### Art. 1032.
 
-El condómino que reiteradamente deje de cumplir sus obligaciones o injustificadamente cause conflictos a los demás condóminos será demandado por el administrador ante el Juez de Primera Instancia de la ubicación del condominio, para que en subasta pública se vendan al mejor postor sus derechos condominales, en los términos que para los remates señala el Código de Procedimientos Civiles del Estado.
+El condómino que reiteradamente deje de cumplir sus obligaciones o injustificadamente cause conflictos a los demás condóminos será demandado por el administrador ante el Juez de Primera Instancia de la ubicación del condominio, para que en subasta pública se vendan al mejor postor sus derechos condominales, en los términos que para los remates señala el Código Nacional de Procedimientos Civiles y Familiares.
 
 A la demanda se acompañarán como documentos fundatorios de la misma, copia de la escritura de constitución del régimen de condominio, las reformas que hubiere sufrido la misma, certificado de gravámenes expedido por el Registro Público de la Propiedad y del testimonio de la escritura que contenga la protocolización del Acta de Asamblea Extraordinaria que acuerde la medida, misma que para ser válida deberá ser tomada por más de la mitad del total de los condóminos. En los casos de los condominios compuestos, bastará con que lo acuerden el más de la mitad de los titulares de la unidad condominal a la que pertenezca el condómino cuya exclusión se promueve.
 
@@ -7313,7 +7325,9 @@ IV. Los condóminos deberán usar en igualdad de circunstancias los bienes de us
 
 V. En caso de destrucción, ruina o inoperabilidad de la edificación, los condóminos deberán decidir conjuntamente sobre la reconstrucción, demolición o enajenación del inmueble;
 
-VI. En caso de que los condóminos no se pongan de acuerdo sobre los cuatro puntos anteriores, cualquiera de ellos podrá ocurrir ante la Procuraduría del Desarrollo Urbano en procedimiento arbitral forzoso, para que con audiencia del otro condómino y siguiendo las formalidades que para el trámite de los incidentes regula el Código de Procedimientos Civiles del Estado, dicte la resolución que corresponda, la cual será obligatoria para las partes involucradas. Cuando existan acreedores hipotecarios o quirografarios, también deberá dárseles intervención para salvaguarda de sus intereses; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+VI. En caso de que los condóminos no se pongan de acuerdo sobre los cuatro puntos anteriores, cualquiera de ellos podrá ocurrir ante la Procuraduría del Desarrollo Urbano en procedimiento arbitral forzoso, para que con audiencia del otro condómino y siguiendo las formalidades que para el trámite de los incidentes regula el Código Nacional de Procedimientos Civiles y Familiares, dicte la resolución que corresponda, la cual será obligatoria para las partes involucradas. Cuando existan acreedores hipotecarios o quirografarios, también deberá dárseles intervención para salvaguarda de sus intereses; y
 
 VII. Cada una de las unidades habitacionales podrá ser enajenada libremente por sus titulares, sin que el otro condómino tenga para ello derecho al tanto.
 
@@ -9449,9 +9463,11 @@ III. Cuando ambos plazos sean iguales, al que ofrezca mayor tasa de interés por
 
 En el caso de que el postor no cubra de contado el importe del bien adquirido, deberá pagar intereses por el saldo, los cuales se computarán cuando menos al tipo legal, salvo que en la postura se hubiere ofrecido interés superior al legal. Invariablemente deberá constituirse reserva de dominio para garantizar el pago del saldo, estableciéndose que la falta de pago de intereses o de abono al adeudo y que se prolongue por más de un mes, serán causa suficiente para rescindir la operación o exigir su cumplimiento.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
 ###### Art. 1443.
 
-El precio ofrecido deberá pagarse siempre ante la autoridad ejecutora, en el plazo que al efecto se señale en el Código de Procedimientos Civiles del Estado, que será aplicado de manera supletoria.
+El precio ofrecido deberá pagarse siempre ante la autoridad ejecutora, en el plazo que al efecto se señale en el Código Nacional de Procedimientos Civiles y Familiares, que será aplicado de manera supletoria.
 
 ###### Art. 1444.
 
@@ -11271,9 +11287,11 @@ IV. Exageración fraudulenta de créditos para procurar la mayoría de cantidad;
 
 V. La inexactitud fraudulenta en el inventario de los bienes del deudor o en los informes de los síndicos, para facilitar la admisión de las proposiciones del deudor.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
 ###### Art. 1807.
 
-Aprobado el convenio por el juez, será obligatorio para el fallido y para todos los acreedores cuyos créditos daten de época anterior a la declaración, si hubiesen sido citados en forma legal, o si habiéndoles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en el Código de Procedimientos Civiles, aunque esos acreedores no estén comprendidos en la lista correspondiente, ni hayan sido parte en el procedimiento.
+Aprobado el convenio por el juez, será obligatorio para el fallido y para todos los acreedores cuyos créditos daten de época anterior a la declaración, si hubiesen sido citados en forma legal, o si habiéndoles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en el Código Nacional de Procedimientos Civiles y Familiares, aunque esos acreedores no estén comprendidos en la lista correspondiente, ni hayan sido parte en el procedimiento.
 
 ###### Art. 1808.
 
@@ -11411,7 +11429,9 @@ IX. Los créditos anotados en el Registro Público de la Propiedad, en virtud de
 
 Pagados los acreedores mencionados en los dos capítulos anteriores y con el valor de todos los bienes que queden, se pagarán:
 
-I. Los gastos judiciales comunes, en los términos que establezca el Código de Procedimientos Civiles;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+I. Los gastos judiciales comunes, en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares;
 
 II. Los gastos de rigurosa conservación y administración de los bienes concursados; y
 
@@ -15135,9 +15155,11 @@ III. Por incumplimiento del deudor, debiéndose rematar el bien empeñado para p
 
 Si el deudor no paga en el plazo estipulado o cuando tenga obligación de hacerlo, el acreedor podrá pedir y el juez decretará la venta en pública subasta del bien empeñado, previa citación del deudor o del que hubiere constituido la prenda.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
 ###### Art. 2506.
 
-El bien se adjudicará al acreedor en las dos terceras partes de la postura legal, si no pudiera venderse en los términos que establezca el Código de Procedimientos Civiles.
+El bien se adjudicará al acreedor en las dos terceras partes de la postura legal, si no pudiera venderse en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Art. 2507.
 
@@ -15327,9 +15349,11 @@ Si la hipoteca no tiene plazo cierto, no podrá estipularse anticipo de rentas, 
 
 La hipoteca constituida a favor de un crédito que devenga intereses, no garantiza en perjuicio de tercero, además del capital, sino los intereses de tres años, salvo pacto expreso en contrario. El pacto que se convenga en contrario, no podrá exceder del término para la prescripción de los intereses. Deberá darse razón de esta estipulación en el Registro Público de la Propiedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2026)</small>
+
 ###### Art. 2542.
 
-El acreedor hipotecario puede adquirir el bien hipotecado, en remate de autoridad, o por adjudicación en los casos en que no se presente otro postor, de acuerdo a lo que establezca el Código de Procedimientos Civiles.
+El acreedor hipotecario puede adquirir el bien hipotecado, en remate de autoridad, o por adjudicación en los casos en que no se presente otro postor, de acuerdo a lo que establezca el Código Nacional de Procedimientos Civiles y Familiares.
 
 Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero.
 
@@ -15725,7 +15749,9 @@ Las inscripciones o registros de hipotecas constituidas con el objeto de garanti
 
 Procederá también la cancelación total si se presentaren, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y sus accesorios.
 
-La cancelación, en este caso, deberá decretarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
+La cancelación, en este caso, deberá decretarse por sentencia, previos los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Art. 2591.
 
@@ -18241,9 +18267,11 @@ El testador no puede librar al albacea de la obligación de garantizar su manejo
 
 [ ... ] (SIC) (DEROGADO, P.O. 6 DE MAYO DE 2021)
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
 ###### Art. 3054.
 
-El albacea debe formar el inventario dentro del término señalado por el Código de Procedimientos Civiles. Si no lo hace, será removido.
+El albacea debe formar el inventario dentro del término señalado por el Código Nacional de Procedimientos Civiles y Familiares. Si no lo hace, será removido.
 
 ###### Art. 3055.
 
@@ -18455,9 +18483,11 @@ El albacea que haya sido nombrado por el testador en el testamento sólo podrá 
 
 ### CAPITULO VII. Del inventario y de la liquidación de la herencia
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
 ###### Art. 3097.
 
-El albacea definitivo, dentro del término y condiciones que fije el Código de Procedimientos Civiles, promoverá la formación del inventario.
+El albacea definitivo, dentro del término y condiciones que fije el Código Nacional de Procedimientos Civiles y Familiares, promoverá la formación del inventario.
 
 ###### Art. 3098.
 
@@ -18545,11 +18575,11 @@ Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con 
 
 En el proyecto de partición se expresará la parte que del capital o fundo afecto a la pensión, corresponderá a cada uno de los herederos luego que aquélla se extinga.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2026)</small>
 
 ###### Art. 3118.
 
-Cuando todos los herederos sean mayores de edad, no existan herederos incapaces, exista testamento público abierto, o se trate de sucesión legitima, podrán los interesados tramitar, desde su inicio, el negocio sucesorio ante notario público que tenga su jurisdicción en el domicilio donde correspondería conocer a la autoridad judicial del mismo, en los términos del Código de Procedimientos Civiles. También en los casos de sucesión legítima, iniciada ante la autoridad judicial, o cuando exista testamento público cerrado u ológrafo, una vez que hubieren sido reconocidos los herederos, y designado el albacea, podrán los interesados separarse del trámite judicial y concurrir a notaría para la prosecución del negocio.
+Cuando todos los herederos sean mayores de edad, no existan herederos incapaces, exista testamento público abierto, o se trate de sucesión legitima, podrán los interesados tramitar, desde su inicio, el negocio sucesorio ante notario público que tenga su jurisdicción en el domicilio donde correspondería conocer a la autoridad judicial del mismo, en los términos del Código Nacional de Procedimientos Civiles y Familiares. También en los casos de sucesión legítima, iniciada ante la autoridad judicial, o cuando exista testamento público cerrado u ológrafo, una vez que hubieren sido reconocidos los herederos, y designado el albacea, podrán los interesados separarse del trámite judicial y concurrir a notaría para la prosecución del negocio.
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -19556,3 +19586,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "El Estado de
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30196/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
