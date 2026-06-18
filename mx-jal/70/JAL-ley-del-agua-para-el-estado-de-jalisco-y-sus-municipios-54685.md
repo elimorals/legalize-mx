@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2023-05-23"
+last_updated: "2026-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -1497,25 +1497,45 @@ V. La agricultura; y
 
 VI. Las demás que determinen otras disposiciones legales o. reglamentarias.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2026)</small>
 
 ###### Artículo 86
 
-Bis. Toda ocupación que se genere superficies (sic) impermeables, deberá poseer un dispositivo de control del escurrimiento del agua de origen pluvial.
+Bis. Toda ocupación del territorio, ya sea en zonas urbanas o rurales, incluyendo desarrollos habitacionales, comerciales, industriales, así como aprovechamientos agrícolas y pecuarios, que genere superficies impermeables, deberá contar con un dispositivo de control del escurrimiento de agua de origen pluvial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JUNIO DE 2026)</small>
+
+Esta obligación será aplicable a toda obra nueva, remodelación o ampliación que incremente la superficie impermeable. Su aplicación se regirá con las disposiciones del Código Urbano del Estado de Jalisco en materia de urbanización, edificación y evaluaciones ambientales.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 Serán consideradas áreas impermeables todas las superficies que no permitan la infiltración del agua hacia el subsuelo.
 
-El agua precipitada sobre el terreno no podría ser drenada directamente hacia las calles, cunetas o redes de drenaje.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
+El agua precipitada sobre el terreno no debe ser drenada directamente hacia las calles, cunetas o redes de drenaje.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 La comprobación del mantenimiento de las condiciones hidrológicas de ocupación previa en el lote o en la urbanización deberá ser presentada al organismo operador de donde se trate, acompañada de la documentación técnica que dé sustento a la misma. Quedará a cargo Organismo (sic) operador la definición de los requerimientos mínimos de estos estudios hidrológicos e hidráulicos.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 Para áreas inferiores a diez hectáreas y cuando el control adoptado por el urbanizador sea un depósito de detención, el volumen necesario de la obra seguirá los lineamientos indicados por el Organismo operador.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 El volumen de reserva necesario para áreas superiores a 10 (diez) hectáreas debe ser determinada a través de estudio hidrológico específico, con precipitación de proyecto con probabilidad de excedencia del 10% en cualquier año (periodo de retorno = 10 (diez) años para la verificación de los dispositivos de control se deberá considerar una precipitación de proyecto con probabilidad de excedencia del 2% en cualquier año (periodo de retorno = 50 (cincuenta) años).
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 En caso de que el urbanizador optara por otro tipo de dispositivo de control de escurrimiento, deberá considerar las indicaciones generales del reglamento que emita el organismo operador que le corresponda.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
 La construcción de todas las estructuras de control indicadas en éste articulo estará sujeta a la autorización del organismo operador que le corresponda, después de la debida evaluación de las condiciones mínimas de infiltración del suelo en el lugar del nuevo desarrollo habitacional, industrial, comercial o de otro tipo que debe ser presentada y comprobada fehacientemente por el interesado.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 Todos los dispositivos de control deberán contemplar el drenaje contemplado del terreno para una lluvia equivalente a dos años del periodo de retorno y duración correspondiente al 120% del tiempo de concentración de la superficie analizada y estar de acuerdo con las especificaciones técnicas, que para tal fin, reglamente el organismo operador que le corresponda.
 
@@ -2204,3 +2224,11 @@ P.O. 23 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 30159/LXIV/26 POR EL QUE “SE REFORMA EL ARTÍCULO 86-BIS DE LA LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El titular del poder ejecutivo estatal dispondrá de noventa días naturales para realizar las adecuaciones administrativas, presupuestales y reglamentarias que deriven del presente decreto.
