@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2026-06-02"
+last_updated: "2026-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE SALUD DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -1113,7 +1115,9 @@ Cuidados Paliativos. Calidad en el Servicio.
 
 Cuidados Paliativos. Integración del Equipo multidisciplinario.
 
-1. Además del médico tratante, el equipo multidisciplinario estará integrado, cuando sea posible por personal de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JUNIO DE 2026)</small>
+
+1. Además del médico tratante, el equipo multidisciplinario estará integrado, al menos por personal de:
 
 I. Enfermería;
 
@@ -1123,9 +1127,17 @@ III. Trabajo Social o su equivalente;
 
 IV. Psicología;
 
-VI (sic). Algología o Anestesiología; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
 
-VII. Nutriología.
+V. Algología o Anestesiología;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+VI. Nutriología; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE JUNIO DE 2026)</small>
+
+VII. Los demás profesionales, técnicos y auxiliares que requiera cada caso en particular.
 
 ###### Artículo 74.
 
@@ -3019,6 +3031,8 @@ VIII. Vigilar que se cumpla con las disposiciones aplicables en los asuntos de s
 
 IX. Las demás que las disposiciones legales y reglamentarias le confieran de manera personal y directa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE JUNIO DE 2026)</small>
+
 ###### Artículo 217.
 
 Comisión de Arbitraje Médico. Procedimiento de Resolución.
@@ -3027,7 +3041,9 @@ Comisión de Arbitraje Médico. Procedimiento de Resolución.
 
 2. Los procedimientos de arbitraje y amigable composición se sujetarán al Reglamento de Procedimientos para la Atención de Quejas que al efecto se expida.
 
-3. El arbitraje, en lo conducente, se sujetará a los artículos 730, 732, 739, 740, 742, 743, 744, 745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756 y 757 del Código de Procedimientos Civiles del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
+3. El arbitraje, en lo conducente, se sujetará a lo dispuesto por el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 218.
 
@@ -4137,6 +4153,8 @@ Autorizaciones Sanitarias. Riesgos.
 
 #### SECCIÓN SEGUNDA. DEL PROCEDIMIENTO PARA LA REVOCACIÓN
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 18 DE JUNIO DE 2026)</small>
+
 ###### Artículo 303.
 
 Revocación. Procedimiento.
@@ -4147,7 +4165,9 @@ I. Mandará citar al interesado o a su representante y en el citatorio que se en
 
 II. La audiencia se celebrará dentro de un plazo no menor de cinco días hábiles, contados a partir del día siguiente de la notificación; y
 
-III. Cuando no sea posible notificar personalmente al interesado, agotados los medios previstos en el Código de Procedimientos Civiles, la notificación se hará en el Periódico Oficial El Estado de Jalisco, mediante dos publicaciones, con una semana de intervalo entre una y otra. En este caso, el plazo a que se refiere el párrafo anterior empezará a contar a partir del día siguiente en que se efectúe la última publicación.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2026)</small>
+
+III. Cuando no sea posible notificar personalmente al interesado, agotados los medios previstos en el Código Nacional de Procedimientos Civiles y Familiares, la notificación se hará en el Periódico Oficial El Estado de Jalisco, mediante dos publicaciones, con una semana de intervalo entre una y otra. En este caso, el plazo a que se refiere el párrafo anterior empezará a contar a partir del día siguiente en que se efectúe la última publicación.
 
 ###### Artículo 304.
 
@@ -4347,6 +4367,8 @@ III. Los demás que establezca el superior jerárquico, tendientes a la procedib
 
 2. La resolución que se dicte se hará saber, por escrito, al interesado, dentro del término que marca esta Ley. Para el caso de que no exista éste, dentro de un plazo no mayor de cuatro meses, contados a partir de la recepción de la solicitud del particular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE JUNIO DE 2026)</small>
+
 ###### Artículo 326.
 
 Procedimientos Administrativos. Principios.
@@ -4375,7 +4397,9 @@ X. Jerarquía; y
 
 XI. Buena fe.
 
-2. En lo no previsto en el procedimiento administrativo sancionador que prevé esta Ley, se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
+2. En lo no previsto en el procedimiento administrativo sancionador que prevé esta Ley, se estará a lo dispuesto por el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 327.
 
@@ -4689,11 +4713,13 @@ II. Que no se siga perjuicio al interés social ni se contravengan disposiciones
 
 III. Que sean de difícil reparación los daños y perjuicios que se causen al recurrente, con la ejecución del acto o resolución combatida.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
+
 ###### Artículo 365.
 
 Recurso de Revisión. Supletoriedad.
 
-1. En la tramitación del recurso de revisión se aplicará supletoriamente el Código de Procedimientos Civiles del Estado de Jalisco.
+1. En la tramitación del recurso de revisión se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 366.
 
@@ -5142,3 +5168,15 @@ P.O. 2 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 30119/LXIV/25 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 186 NUMERAL 1, FRACCIÓN IX DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30198/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 217, 303, 326 Y 365 DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30199/LXIV/26 QUE REFORMA EL ARTÍCULO 73 DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
