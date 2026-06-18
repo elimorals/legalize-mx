@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2023-12-22"
+last_updated: "2026-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1201,107 +1201,93 @@ No se considerarán espectáculos, los presentados en restaurantes, bares, cabar
 
 Son sujetos de este impuesto las personas fisecias (sic) o morales que obtengan ingresos por la explotación de las actividades señaladas en el Artículo anterior.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 139.
 
-Este impuesto se causará con base en los ingresos que se obtengan por la explotación de las actividades que señala el Artículo 137 de esta Ley, y se pagará conforme a las tarifas y cuotas que señala la Ley de Ingresos del Estado.
+Este impuesto se causará por la explotación de las actividades que señala el Artículo 137 de esta Ley, y se pagará conforme a las cuotas que señale la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 140.
 
-El Impuesto deberá pagarse al término de cada función, por conducto del Interventor que al efecto designe la Recaudación de Rentas del Estado. La liquidación del impuesto deberá hacerse en las formas aprobadas por la Secretaría de Hacienda.
+El Impuesto deberá pagarse al menos dos días hábiles previos a cada evento, ante la Recaudación de Rentas del Estado. La autoridad recaudadora podrá recibir el pago del impuesto por evento.
 
-La Secretaría de Hacienda podrá autorizar al contribuyente, para enterar el impuesto causado, ante la Oficina de Recaudación de Rentas de cuya jurisdicción corresponda, al siguiente día hábil de aquel en que se celebre la función o funciones.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+La Secretaría de Hacienda podrá autorizar al contribuyente, para enterar el impuesto causado, ante la Oficina de Recaudación de Rentas de cuya jurisdicción corresponda, al siguiente día hábil de aquel en que se celebre el evento.
 
 ###### ARTICULO 141.
 
-Los ingresos serán supervisados por un interventor que designara la autoridad fiscal correspondiente, con las facultades que le otorga esta Ley.
+(DEROGADO, P.O. 18 DE JUNIO DE 2026)
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 142.
 
-Ninguna de las actividades que señala el Artículo 137 de esta Ley, aunque sea en forma eventual, podrá practicarse sin avisar por escrito a la Recaudación de Rentas correspondiente, con 24 horas de anticipación a su celebración, indicando la naturaleza y características de aquellas.
+Ninguna de las actividades que señala el Artículo 137 de esta Ley, aunque sea en forma eventual, podrá practicarse sin avisar por escrito a la Recaudación de Rentas correspondiente, cuando menos con cinco días hábiles de anticipación a su celebración, indicando la naturaleza y características de aquellas, fechas y horarios de inicio y de conclusión de cada evento, así como en los casos de ampliación del periodo de explotación de dichas actividades.
+
+En caso de no dar el aviso correspondiente, se aplicarán las disposiciones del Código Fiscal del Estado de Baja California.
+
+La Secretaría de Hacienda a través de sus Oficinas de Recaudación de Rentas, podrá llevar a cabo la verificación del pago del impuesto, y otorgar las facilidades que requieran para su cumplimiento.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 143.
 
-Las facultades del interventor a que se refiere el Artículo 141 de esta Ley, son las siguientes:
+Este impuesto, en ningún caso, deberá ser trasladado al espectador.
 
-I.- Determinar el boletaje vendido, y el importe de los ingresos.
-
-II.- Formular liquidación que deberá ser firmada por un representante de la empresa.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 1993)</small>
-
-III.- Recaudar el Impuesto que se cause con motivo de la celebración de las actividades que señala el Artículo 137 de esta Ley.
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 143
 
-1.- Este impuesto, en ningún caso, deberá ser trasladado al espectador.
+1.- No causará el pago de este Impuesto respecto a las cuotas señaladas en la Ley de Ingresos del Estado de Baja California, para aquellas personas contribuyentes cuyas actividades comprendan la promoción y difusión de la cultura en Baja California, a través de la música, artes plásticas, artes dramáticas, danza y literatura, por los ingresos que se obtengan de la explotación de los eventos que a continuación se indican, en los que únicamente participen artistas no comerciales que presenten una propuesta con fines culturales, incluyendo aquellos que se realicen en espacios culturales independientes y siempre que no se persigan fines de lucro.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+Para efecto de lo anterior, el beneficio se aplicará exclusivamente a las actividades que se enlistan a continuación:
 
-###### ARTICULO 143
+1. Conciertos musicales de índole cultural;
 
-2.- Los honorarios de los Interventores de los eventos a que se refiere el Artículo 137 de esta Ley se determinarán discrecionalmente por el Recaudador de Rentas del Estado, y en ningún caso será menor al equivalente de cuatro salarios mínimos general vigente en el Estado.
+2. Audiciones poéticas;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2023)</small>
+3. Representaciones de opera;
 
-###### ARTICULO 143
+4. Representaciones de ballet;
 
-3.- Los contribuyentes de este impuesto tienen, además las siguientes obligaciones:
+5. Obras de teatro de índole cultural;
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1993)</small>
+6. Conferencias, congresos, simposios y festivales de índole cultural;
 
-I.- Presentar ante la Recaudación de Rentas de cuya jurisdicción corresponda, para su resello, el boletaje y el programa que corresponda a cada función, en el mismo término que establece el Artículo 142 de esta Ley.
+7. Exposiciones de escultura, literatura, fotográfica y pintura;
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1993)</small>
+8. Representaciones de danza, y
 
-II.- No vender boletos en tanto no estén resellados por las Autoridades Fiscales.
+9. Pantomima.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
-
-III.- Permitir a los Interventores que designe la Secretaría de Hacienda o sus Oficinas de Recaudación de Rentas, la verificación y determinación del pago del impuesto, dándole las facilidades que requieran para su cumplimiento.
-
-> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE OCTUBRE DE 1993)</small>
-
-IV. - Los contribuyentes de este impuesto que exploten espectáculos en forma eventual, tendrán además las siguientes obligaciones:
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
-
-A).- Dar aviso de la iniciación de las actividades a que se refiere el Artículo 137 de esta Ley.
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
-
-B).- Dar el aviso a que se refiere el Artículo 142 de esta Ley, señalando además la fecha en que habrán de concluir las actividades en cada jurisdicción.
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
-
-C).- Dar el aviso correspondiente en los casos de ampliación del período de explotación, ante la Oficina de Recaudación de Rentas de su jurisdicción, a más tardar el día último que comprenda el aviso, cuya vigencia se vaya ampliar y,
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
-
-D) Previamente a la iniciación de actividades, otorgar garantías a satisfacción de la Secretaría de Hacienda previstas en el Código Fiscal del Estado, que no será inferior al impuesto estimado correspondiente a un día de actividades, ni superior al que pudiera corresponder también estimativamente a tres días.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 143
 
-4.- Cuando los sujetos de este impuesto, obligados a otorgar garantía de acuerdo con lo dispuesto en la Fracción V Inciso D) del Artículo anterior, no hubieran cumplido con tal obligación, la Secretaría de Hacienda podrá suspender el espectáculo, hasta en tanto no se garantice el pago del impuesto, para lo cual, el interventor que se designe solicitará el auxilio de la fuerza pública.
+2.- Para la procedencia de la no causación prevista en el artículo anterior y, previo a la realización de alguna de las actividades a que la misma hace referencia, las personas contribuyentes deberán cumplir con los requisitos siguientes:
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+1. Acreditar tener domicilio en el Estado de Baja California;
+
+2. Acreditar el carácter de representante legal de quien comparece, tratándose de personas morales;
+
+3. Presentar por escrito a la Secretaria de Hacienda, a través de la Dirección General del Servicio de Administración Tributaria de Baja California, cuando menos cinco días hábiles antes de la realización del evento, solicitud de exención acompañada de la constancia expedida por el Instituto de Servicios Culturales de Baja California, mediante el cual dicho organismo confirme que las personas físicas y morales realizan primordialmente alguna de las actividades a que se refiere el artículo 143-1 de la presente Ley;
+
+4. Exhibir opinión favorable de la Secretaría de Cultura en el que conste que el evento reúne las características y corresponde a alguna de las actividades descritas en el artículo 143-1 de la presente Ley, debiendo anexar la documentación mediante la cual acredita tales supuestos, para el análisis que se realice en la resolución final que emita la Secretaría de Hacienda; y,
+
+5. Destinar para el acceso gratuito de las personas con discapacidad, conforme a su acepción según la Ley para las Personas con Discapacidad en el Estado de Baja California, el equivalente al 10% (diez por ciento) del boletaje que emitan.
 
 ###### ARTICULO 143
 
-5.- Quedan preferentemente afectos a garantizar el pago de este impuesto:
+3.- (DEROGADO, P.O. 18 DE JUNIO DE 2026)
 
-I.- Los bienes inmuebles en que se exploten espectáculos públicos o diversiones, cuando sean propiedad de los contribuyentes de este impuesto; y
+###### ARTICULO 143
 
-II.- El equipo y las instalaciones que se utilicen en el espectáculo público.
+4.- (DEROGADO, P.O. 18 DE JUNIO DE 2026)
+
+###### ARTICULO 143
+
+5.- (DEROGADO, P.O. 18 DE JUNIO DE 2026)
 
 ### CAPITULO XI. Impuesto Sobre Compraventa y Operaciones Similares
 
@@ -3650,3 +3636,17 @@ CUARTO. Las resoluciones emitidas con motivo de las solicitudes de estímulos fi
 Asimismo, el estímulo fiscal otorgado previo a la publicación de la presente reforma para la exención del Impuesto Sobre Remuneraciones al Trabajo Personal, seguirá aplicándose a la base del impuesto que resulte de acuerdo al artículo 151-14 de la presente Ley, a la misma proporción de la tasa del 1.80% a la que fue otorgado, hasta que cumpla el término de su vigencia, quede sin efectos, o sea cancelado de conformidad con lo señalado en la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California.
 
 QUINTO. Para los casos que venían ejerciendo la aplicación de los estímulos fiscales señalados en los artículos 180 y 181 de esta Ley hasta antes de la entrada en vigor de la presente reforma; será aplicable por última vez respecto al Impuesto Sobre Remuneraciones al Trabajo Personal causado hasta el mes de diciembre de 2023 o de aquellos causados hasta el cuarto trimestre del 2023.
+
+P.O. 18 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 290 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2026, ASÍ COMO SE REFORMAN DIVERSOS ARTÍCULOS Y SE DEROGAN LOS ARTÍCULOS 141,143-3, 143-4 Y 143-5 DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. La presente iniciativa de reforma entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. La Secretaría de Hacienda realizará los ajustes correspondientes a los sistemas de pago y habilitará la Unidad Administrativa correspondiente, a efecto de que permitan a los contribuyentes sujetos al pago del Impuesto sobre Diversiones y
+
+Espectáculos Públicos dar cumplimiento a las obligaciones de pago y de presentación de avisos, de conformidad con lo señalado en los artículos 140 y 142 que se reforman con el presente Decreto.
+
+TERCERO. Los espectáculos y eventos públicos cuya realización este programada para antes de la entrada en vigor de las presentes reformas, se liquidarán y pagarán en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
+
+CUARTO. Se abroga el Decreto del Poder Ejecutivo del Gobierno del Estado de Baja California publicado el treinta de diciembre de dos mil veinticinco en el Periódico Oficial del Estado de Baja California, por el que se condona y exime el 100% (cien por ciento) del Impuesto Sobre Diversiones y Espectáculos Públicos, a favor de personas dedicadas a la promoción y difusión de la cultura a través de la música, artes pláticas, artes dramáticas, danza y literatura en el Estado.
