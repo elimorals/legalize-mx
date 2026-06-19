@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-comite-nacional-para-el-desarrollo-76209"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-08-25"
-last_updated: "2010-08-25"
+last_updated: "2026-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76209&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-08-10"
 ---
 # ESTATUTO ORGANICO DEL COMITE NACIONAL PARA EL DESARROLLO SUSTENTABLE DE LA CAÑA DE AZUCAR
 
+> <small>[N. DE E. MODIFICACIÓN OBTENIDA EN LA PÁGINA WEB: https://www.gob.mx/cms/uploads/attachment/file/1084034/Modificacion_Estatuto_CONADESUCA.pdf]</small>
+
 ESTATUTO ORGANICO DEL COMITE NACIONAL PARA EL DESARROLLO SUSTENTABLE DE LA CAÑA DE AZUCAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2026.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de agosto de 2010.
 
@@ -85,11 +87,17 @@ B. Unidades Administrativas:
 
 I. Dirección General;
 
-II. Dirección de Eficiencia Productiva;
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 19 DE JUNIO DE 2026)</small>
 
-III. Dirección de Política Comercial;
+II. Dirección de Política Comercial;
 
-IV. Dirección de Información Estadística; Proyecciones y Comunicación;
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 19 DE JUNIO DE 2026)</small>
+
+III. Dirección de Información Estadística; Proyecciones y Comunicación;
+
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2026)</small>
+
+IV. Subdirección de Eficiencia Productiva;
 
 V. Unidad Jurídica;
 
@@ -97,7 +105,9 @@ VI. Dirección de Administración.
 
 El Comité Nacional contará, asimismo, con las unidades administrativas que apruebe la Junta Directiva, que sean dictaminadas por la Dirección de Administración del Comité Nacional, y registradas por la Secretaría de Hacienda y Crédito Público conforme a las disponibilidades presupuestarias existentes, y demás autoridades competentes.
 
-Asimismo, el Comité Nacional contará con un Organo Interno de Control dependiente de la Secretaría de la Función Pública, que realizará las funciones y ejercerá las facultades que la legislación aplicable le confiera.
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2026)</small>
+
+Asimismo, el Comité Nacional contará con un Órgano Interno de Control dependiente de la Secretaría de Anticorrupción y Buen Gobierno, que realizará las funciones y ejercerá las facultades que la legislación aplicable le confiera.
 
 ###### Artículo 7.
 
@@ -265,9 +275,75 @@ XVI. Atender en al ámbito de sus respectivas funciones los acuerdos derivados d
 
 XVII. Las demás facultades que le confieran la Junta Directiva, el Director General y las disposiciones jurídicas aplicables.
 
-###### Artículo 18.
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 19], D.O.F. 19 DE JUNIO DE 2026)</small>
 
-A la Dirección de Eficiencia Productiva le corresponde el ejercicio de las siguientes atribuciones:
+###### ARTÍCULO 18.
+
+A la Dirección de Política Comercial le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Establecer mecanismos de concertación entre industriales y abastecedores de caña de azúcar en materia comercial;
+
+II. Realizar análisis y evaluaciones de las políticas públicas internacionales en materia de comercio de azúcar referentes a aranceles, cuotas y reglas de origen;
+
+III. Realizar análisis del mercado nacional de edulcorantes, de la oferta y demanda y del comportamiento de precios;
+
+IV. Promover las alianzas estratégicas y acuerdos para la integración de los agentes económicos que participan en la agroindustria de la caña de azúcar;
+
+V. Llevar Sistema obligatorio de registro e informes de control semanal, mensual y anual del comportamiento del balance azucarero y de edulcorantes totales;
+
+VI. Evaluar el sistema de pago de la caña de azúcar por calidad y emitir opiniones al respecto;
+
+VII. Establecer los mecanismos necesarios para la distribución de las cuotas de exportación por ingenio cuando así se requiera;
+
+VIII. Calcular y revisar el precio de referencia del azúcar para el pago de la caña de azúcar;
+
+IX. Realizar estudios para identificar el comportamiento nacional e internacional del consumo de azúcar y demás actividades inherentes al sector de la agroindustria de la caña de azúcar;
+
+X. Dar seguimiento y evaluar las negociaciones internacionales en materia azucarera de los distintos acuerdos internacionales;
+
+XI. Coordinar y supervisar la realización de las auditorías a los inventarios físicos de azúcar, operaciones comerciales de venta de azúcar y registros contables de los mismos;
+
+XII. Dar seguimiento y evaluar los esquemas necesarios de monitoreo a las importaciones de azúcar y dar seguimiento a las exportaciones de azúcar realizadas por los ingenios;
+
+XIII. Evaluar el impacto que otros productos de la caña de azúcar tengan en los mercados de edulcorantes y coordinar acciones para la competitividad de los mismos, y
+
+XIV. Monitorear el mercado de edulcorantes y otros productos derivados de la caña de azúcar para promover junto con la cadena agroindustrial acciones de política pública que generen la competitividad del sector.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 20], D.O.F. 19 DE JUNIO DE 2026)</small>
+
+###### ARTÍCULO 19.
+
+A la Dirección de Información Estadística, Proyecciones y Comunicación le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Diseñar y administrar el sistema de información de la agroindustria azucarera requerido para sustentar las bases del programa de productividad y competitividad de la agroindustria, mediante la coordinación del gobierno federal con los industriales y abastecedores de caña de azúcar, a través de la información periódica a los principales agentes económicos de la agroindustria de la caña de azúcar;
+
+II. Diseñar y formular la sistematización de la información periódica reportada por los diferentes agentes de la agroindustria de la caña de azúcar;
+
+III. Diseñar y formular la generación de modelos econométricos para pronósticos [estructurales y de series de tiempo multivariados] que permitan, mediante la creación de escenarios, evaluar los impactos de las políticas públicas implementadas y/o por implementar y facilitar la toma de decisiones;
+
+IV. Diseñar y administrar la difusión y divulgación del sector de la agroindustrial (sic) de la caña de azúcar y de las actividades del Comité Nacional, a través de medios impresos publicados periódicamente y en la página electrónica del Comité Nacional;
+
+V. Recopilar la información de los balances azucareros y de edulcorantes nacionales e internacionales;
+
+VI. Participar en el cálculo y revisión del precio de referencia de la caña de azúcar;
+
+VII. Elaborar y actualizar la estadística de resultados de producción y productividad fábrica-campo;
+
+VIII. Monitorear el avance de la zafra, sus rendimientos y proporcionar a las demás áreas de la información necesaria para la toma de decisiones;
+
+IX. Recopilar, analizar y evaluar de conformidad a las necesidades de las demás unidades administrativas del Comité Nacional los informes requeridos;
+
+X. Elaborar y actualizar la estadística de resultados de producción y productividad fábrica-campo;
+
+XI. Recopilar, analizar y evaluar de conformidad a las necesidades de las demás unidades administrativas del Comité Nacional los informes enviados por los comités de producción y calidad cañera y de los Comités; y
+
+XII. Elaborar y actualizar la estadística de resultados de producción y productividad de otros productos derivados de la caña de azúcar para el análisis y su posible impacto en la cadena agroindustrial de este cultivo.
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2026)</small>
+
+###### ARTÍCULO 20.
+
+A la Subdirección de Eficiencia Productiva le corresponde el ejercicio de las siguientes atribuciones:
 
 I. Planear y proyectar las acciones referentes a la competitividad del sector de la agroindustria de la caña de azúcar y todos los productos derivados de este cultivo;
 
@@ -300,66 +376,6 @@ XIV. Coordinar los diferentes planes de desarrollo de otros usos de la caña de 
 XV. Monitorear el avance de la zafra, sus rendimientos en campo y fábrica y promover junto con la cadena agroindustrial acciones de política pública para el apoyo y competitividad del sector si así se requiriera;
 
 XVI. Coordinar las acciones en el área de campo y fábrica relativas a caña de azúcar con las diferentes secretarías de estado en el ámbito de sus respectivas competencias en cuanto a los planes nacionales de la cadena productiva de la caña de azúcar propuestos por el ejecutivo federal.
-
-###### Artículo 19.
-
-A la Dirección de Política Comercial le corresponde el ejercicio de las siguientes atribuciones:
-
-I. Establecer mecanismos de concertación entre industriales y abastecedores de caña de azúcar en materia comercial;
-
-II. Realizar análisis y evaluaciones de las políticas públicas internacionales en materia de comercio de azúcar referentes a aranceles, cuotas y reglas de origen;
-
-III. Realizar análisis del mercado nacional de edulcorantes, de la oferta y demanda y del comportamiento de precios;
-
-IV. Promover las alianzas estratégicas y acuerdos para la integración de los agentes económicos que participan en la agroindustria de la caña de azúcar;
-
-V. Llevar Sistema obligatorio de registro e informes de control semanal, mensual y anual del comportamiento del balance azucarero y de edulcorantes totales;
-
-VI. Evaluar el sistema de pago de la caña de azúcar por calidad y emitir opiniones al respecto;
-
-VII. Establecer los mecanismos necesarios para la distribución de las cuotas de exportación por ingenio cuando así se requiera;
-
-VIII. Calcular y revisar el precio de referencia del azúcar para el pago de la caña de azúcar;
-
-IX. Realizar estudios para identificar el comportamiento nacional e internacional del consumo de azúcar y demás actividades inherentes al sector de la agroindustria de la caña de azúcar;
-
-X. Dar seguimiento y evaluar las negociaciones internacionales en materia azucarera de los distintos acuerdos internacionales;
-
-XI. Coordinar y supervisar la realización de las auditorías a los inventarios físicos de azúcar, operaciones comerciales de venta de azúcar y registros contables de los mismos;
-
-XII. Dar seguimiento y evaluar los esquemas necesarios de monitoreo a las importaciones de azúcar y dar seguimiento a las exportaciones de azúcar realizadas por los ingenios;
-
-XIII. Evaluar el impacto que otros productos de la caña de azúcar tengan en los mercados de edulcorantes y coordinar acciones para la competitividad de los mismos, y
-
-XIV. Monitorear el mercado de edulcorantes y otros productos derivados de la caña de azúcar para promover junto con la cadena agroindustrial acciones de política pública que generen la competitividad del sector.
-
-###### Artículo 20.
-
-A la Dirección de Información Estadística, Proyecciones y Comunicación le corresponde el ejercicio de las siguientes atribuciones:
-
-I. Diseñar y administrar el sistema de información de la agroindustria azucarera requerido para sustentar las bases del programa de productividad y competitividad de la agroindustria, mediante la coordinación del gobierno federal con los industriales y abastecedores de caña de azúcar, a través de la información periódica a los principales agentes económicos de la agroindustria de la caña de azúcar;
-
-II. Diseñar y formular la sistematización de la información periódica reportada por los diferentes agentes de la agroindustria de la caña de azúcar;
-
-III. Diseñar y formular la generación de modelos econométricos para pronósticos (estructurales y de series de tiempo multivariados) que permitan, mediante la creación de escenarios, evaluar los impactos de las políticas públicas implementadas y/o por implementar y facilitar la toma de decisiones;
-
-IV. Diseñar y administrar la difusión y divulgación del sector de la agroindustrial (sic) de la caña de azúcar y de las actividades del Comité Nacional, a través de medios impresos publicados periódicamente y en la página electrónica del Comité Nacional;
-
-V. Recopilar la información de los balances azucareros y de edulcorantes nacionales e internacionales;
-
-VI. Participar en el cálculo y revisión del precio de referencia de la caña de azúcar;
-
-VII. Elaborar y actualizar la estadística de resultados de producción y productividad fábrica-campo;
-
-VIII. Monitorear el avance de la zafra, sus rendimientos y proporcionar a las demás áreas de la información necesaria para la toma de decisiones;
-
-IX. Recopilar, analizar y evaluar de conformidad a las necesidades de las demás unidades administrativas del Comité Nacional los informes requeridos;
-
-X. Elaborar y actualizar la estadística de resultados de producción y productividad fábrica-campo;
-
-XI. Recopilar, analizar y evaluar de conformidad a las necesidades de las demás unidades administrativas del Comité Nacional los informes enviados por los comités de producción y calidad cañera y de los Comités; y
-
-XII. Elaborar y actualizar la estadística de resultados de producción y productividad de otros productos derivados de la caña de azúcar para el análisis y su posible impacto en la cadena agroindustrial de este cultivo.
 
 ###### Artículo 21.
 
@@ -435,9 +451,11 @@ XXI. Suplir al Director General ante las autoridades jurisdiccionales y administ
 
 ### CAPITULO IV. Del Comisario Público
 
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2026)</small>
+
 ###### Artículo 23.
 
-La vigilancia del Comité Nacional estará a cargo de un Comisario propietario y un suplente, designados por la Secretaría de la Función Pública, los cuales contarán con las atribuciones señaladas en la Ley Federal de las Entidades Paraestatales, su Reglamento y demás disposiciones aplicables.
+La vigilancia del Comité Nacional estará a cargo de un Comisario propietario y un suplente, designados por la Secretaría de (sic) Anticorrupción y Buen Gobierno, los cuales contarán con las atribuciones señaladas en la Ley Federal de las Entidades Paraestatales, su Reglamento y demás disposiciones aplicables.
 
 ### CAPITULO V. Del Organo Interno de Control
 
@@ -445,11 +463,15 @@ La vigilancia del Comité Nacional estará a cargo de un Comisario propietario y
 
 El Comité Nacional cuenta con un Organo Interno de Control, cuyo Titular será designado en los términos de la Ley Orgánica de la Administración Pública Federal, y en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades designados en los mismos términos.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en el Reglamento Interior de la Secretaría de la Función Pública y aplicar lo establecido en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley Federal de las Entidades Paraestatales, así como de conformidad a las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2026)</small>
+
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en el Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno y aplicar lo establecido en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley Federal de las Entidades Paraestatales, así como de conformidad a las disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2026)</small>
 
 ###### Artículo 25.
 
-Las ausencias del Titular del Organo Interno de Control, así como las de los titulares de las áreas de auditoría, quejas y responsabilidades, serán suplidas conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
+Las ausencias del Titular del Órgano Interno de Control, serán suplidas por las personas titulares de las áreas de Responsabilidades, de Auditoría; y de Denuncias e Investigaciones, en ese orden, conforme a lo previsto por el Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno.
 
 ### CAPITULO VI. De los Comités y Grupos de Trabajo
 
@@ -477,9 +499,11 @@ En los Comités o grupos de trabajo especializados y de apoyo participarán las 
 
 ### CAPITULO VII. De las suplencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE JUNIO DE 2026)</small>
+
 ###### Artículo 30.
 
-En los casos de ausencia temporal, impedimento o excusa del Director General, será suplido en el orden siguiente: por los Directores de Política Comercial, Eficiencia Productiva, Información Estadística; Proyecciones y Comunicación, Administración, el Titular de la Unidad Jurídica.
+En los casos de ausencia temporal, impedimento o excusa del Director General, será suplido en el orden siguiente: por los Directores de Política Comercial, Información Estadística; Proyecciones y Comunicación, Subdirección de Eficiencia Productiva, Dirección de Administración, la Titular de la Unidad Jurídica.
 
 En los juicios de amparo en los que el Director General deba intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso administrativo, contestación de demandas e interposición de toda clase de recursos en términos de sus leyes que los rigen, incluyendo la materia laboral, será suplido por el Director de Administración o por el Titular de la Unidad Jurídica.
 
@@ -498,3 +522,13 @@ SEGUNDO.- El presente Estatuto será inscrito en el Registro Público de Organis
 TERCERO.- El Comité Nacional realizará las acciones necesarias para que la entrada en vigor del presente Estatuto se realice con cargo a su presupuesto modificado autorizado para el ejercicio fiscal correspondiente y no creará nuevas unidades administrativas.
 
 México, D.F., a 10 de agosto de 2010.- La Directora General del Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar, Rocío de las Mercedes Nieves Bermúdez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL COMITÉ NACIONAL PARA EL DESARROLLO SUSTENTABLE DE LA CAÑA DE AZÚCAR”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Dirección de Administración del Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar, realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados al área que se modifica, se adecuen en los términos del presente acuerdo y de conformidad con las normas aplicables y disponibilidad presupuestaria.
