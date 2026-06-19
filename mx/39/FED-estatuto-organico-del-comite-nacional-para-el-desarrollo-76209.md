@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-comite-nacional-para-el-desarrollo-76209"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-08-25"
-last_updated: "2010-08-25"
+last_updated: "2026-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76209&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,482 +19,332 @@ issue_date: "2010-08-10"
 ---
 # ESTATUTO ORGANICO DEL COMITE NACIONAL PARA EL DESARROLLO SUSTENTABLE DE LA CAÑA DE AZUCAR
 
-ESTATUTO ORGANICO DEL COMITE NACIONAL PARA EL DESARROLLO SUSTENTABLE DE LA CAÑA DE AZUCAR
+CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE GOBERNACIÓN DEL ESTADO DE PUEBLA
 
 TEXTO ORIGINAL.
 
-Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de agosto de 2010.
+Código publicado en la Sección Cuarta del Número 22 del Periódico Oficial del Estado de Puebla, el viernes 30 de agosto de 2024.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+GOBIERNO DEL ESTADO
 
-ESTATUTO ORGANICO DEL COMITE NACIONAL PARA EL DESARROLLO SUSTENTABLE DE LA CAÑA DE AZUCAR.
+SECRETARÍA DE GOBERNACIÓN
 
-ROCIO DE LAS MERCEDES NIEVES BERMUDEZ, Directora General del Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar, con fundamento en los artículos 15 y 58 fracción VIII de la Ley Federal de las Entidades Paraestatales, 1, 2, 9, 14 fracción VI y 17 fracción V de la Ley de Desarrollo Sustentable de la Caña de Azúcar, y
+ACUERDO del Comité de Ética y Prevención de Conflictos de Interés de la Secretaría de Gobernación, por el que expide el Código de Conducta de la Secretaría de Gobernación del Estado de Puebla, aprobado en la Segunda Sesión Extraordinaria, celebrada el 17 de junio de 2024.
 
-CONSIDERANDO
+Al margen el logotipo oficial de la Secretaría con una leyenda que dice: Secretaría de Gobernación. Gobierno de Puebla.
 
-Que con fecha 22 de agosto de 2005, se publicó en el Diario Oficial de la Federación la Ley de Desarrollo Sustentable de la Caña de Azúcar, la cual creó mediante su artículo 9 el Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar, organismo público descentralizado, con personalidad jurídica y patrimonio propio, que tiene por objeto la coordinación y la realización de todas las actividades previstas en la Ley de Desarrollo Sustentable de la Caña de Azúcar, la Ley Federal de las Entidades Paraestatales, su Reglamento así como las relacionadas con la agroindustria de la caña de azúcar; previendo además la existencia de un Estatuto Orgánico que regule las funciones y facultades de cada unidad administrativa;
+JAVIER AQUINO LIMÓN, Secretario de Gobernación del Gobierno del Estado de Puebla, y
 
-Que la Junta Directiva del Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar, de conformidad con el artículo 14 fracción VI de la Ley de Desarrollo Sustentable de la Caña de Azúcar, aprobó mediante acuerdo 4-9EX-12/07/10 en la Novena Sesión Extraordinaria de 2010 celebrada el 12 de julio del año 2010, el Estatuto Orgánico del Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar propuesto en términos del artículo 17 fracción V de la ley arriba citada, y por ende estar en posibilidades de continuar con el proceso de formalización, inscripción, registro y difusión del Estatuto.
+CONSIDERANDOS
 
-Que este Comité Nacional recibió el día 19 de julio de 2010, el oficio COFEME/10/2207 de la Comisión Federal de Mejora Regulatoria (COFEMER), por el que emitió resolución favorable respecto a la exención de la Manifestación de Impacto Regulatorio (MIR) del Estatuto Orgánico del Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar, por lo que he tenido a bien expedir el siguiente:
+I. Que, la Constitución Política del Estado Libre y Soberano de Puebla, en su artículo 1, establece que el Estado de Puebla es una entidad jurídica y política, organizada conforme a los principios establecidos por la Constitución Política de los Estados Unidos Mexicanos en vigor.
 
-ESTATUTO ORGANICO DEL COMITE NACIONAL PARA EL DESARROLLO SUSTENTABLE DE LA CAÑA DE AZUCAR
+II. Que, la Ley Orgánica de la Administración Pública del Estado de Puebla establece las bases para la organización y el funcionamiento de la Administración Pública Estatal, Centralizada y Paraestatal, es decir, de las Secretarías y las unidades administrativas que dependan directamente del Gobernador del Estado y funjan como órganos auxiliares del mismo.
 
-## Título I
+III. Que, los artículos 24, 30, 31, fracción I, y 32, de la Ley Orgánica de la Administración Pública del Estado de Puebla, disponen que la Secretaría de Gobernación es una Dependencia Centralizada de la Administración Pública Estatal que, entre otras atribuciones, le corresponde la de emitir normativas de su competencia.
 
-### CAPITULO UNICO. Disposiciones Generales
+IV. Que, uno de los objetivos de la Secretaría de Gobernación es establecer un marco jurídico que guíe el comportamiento ético del servidor público adscrito, orientando al cumplimiento de las responsabilidades y la toma de decisiones con un sentido moral, así como determinar las pautas de conducta que permiten al personal adscrito regular su actuar conforme a la Misión institucional, bajo ordenamientos normativos que reflejen el compromiso con el servicio público del respeto a la legalidad, a los derechos humanos.
 
-###### Artículo 1.
+V. Que, en ese sentido, el Plan Estatal de Desarrollo 2019-2024 del Estado de Puebla contempla el Eje Especial denominado “Gobierno Democrático, Innovador y Transparencia”, cuyo objetivo es dotar de herramientas a las Instituciones de la Administración Pública para su correcto actuar, siendo efectivos y democráticos, en donde se propicie la participación ciudadana y se impidan los actos de corrupción; así como impulsar un gobierno moderno.
 
-El Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar, es un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, constituido conforme a la Ley de Desarrollo Sustentable de la Caña de Azúcar.
+VI. Que, el artículo 16 de la Ley General de Responsabilidades Administrativas dispone que los servidores públicos deberán observar el Código de Ética que al efecto sea emitido por las Secretarías o los Órganos Internos de Control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
 
-###### Artículo 2.
+VII. Que, conforme a lo dispuesto en el ordenamiento antes invocado, con fecha diecinueve de enero de dos mil veintiuno, se publicó en el Periódico Oficial del Estado el Código de Conducta de la Secretaría de Gobernación, aprobado en la Segunda Sesión Ordinaria de fecha veintisiete de noviembre de dos mil veinte, por el Comité de Ética y Prevención de Conflictos de Interés.
 
-El Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar tiene por objeto la coordinación y la realización de todas las actividades previstas en la Ley de Desarrollo Sustentable de la Caña de Azúcar, la Ley Federal de las Entidades Paraestatales, su Reglamento así como las relacionadas con la agroindustria de la caña de azúcar.
+VIII. Que, mediante publicación del Periódico Oficial del Estado, de fecha veintinueve de diciembre de dos mil veintitrés, se editó el Acuerdo de la Secretaría de la Función Pública del Gobierno del Estado, por el que se expide el Código de Ética para las Personas Servidoras Públicas de la Administración Pública Estatal, en el que se establece, en su Artículo Tercero Transitorio, que las Dependencias y Entidades tendrán que actualizar sus Códigos de Conducta en términos de lo dispuesto en dicho Código de Ética, así como de la Guía para su elaboración que al efecto se emita.
 
-###### Artículo 3.
+IX. Que, en cumplimiento al Artículo Tercero Transitorio del Código de Ética para las Personas Servidoras Públicas de la Administración Pública Estatal, el Comité de Ética y Prevención de Conflictos de Interés de la Secretaría de Gobernación, en la Tercera Sesión Ordinaria del año 2023, celebrada en fecha veintinueve de diciembre de dos mil veintitrés, emitió el Acuerdo “CEPCI”/005/3aORD/2023, por el que se aprobó por unanimidad de votos el proyecto de actualización del Código de Conducta de la Secretaría de Gobernación y se ordenó realizar el trámite correspondiente conforme a la Guía que se emita para tal efecto.
 
-El presente Estatuto Orgánico tiene por objeto establecer las bases de organización, funcionamiento y atribuciones conforme a las cuales se regirán las diferentes unidades administrativas así como los órganos que integran el Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar.
+X. Que, con fecha treinta de abril de dos mil veinticuatro, se publicó en el Periódico Oficial del Estado el Acuerdo del Secretario de la Función Pública del Gobierno del Estado, por el que expide la Guía para la elaboración de los Códigos de Conducta de las Dependencias y Entidades de la Administración Pública Estatal.
 
-###### Artículo 4.
+XI. Que, conforme a lo establecido en la referida Guía para la elaboración de los Códigos de Conducta, el Comité de Ética y Prevención de Conflictos de Interés de la Secretaría de Gobernación aprobó en la Primera Sesión Ordinaria del año en curso, de fecha diecisiete de mayo de dos mil veinticuatro, el Acuerdo “CEPCI”/005/1aORD/2024 por el cual se instruyó la adecuación o, en su caso, emisión de los instrumentos rectores aprobados en la Sesión Ordinaria inmediata anterior, dentro de los cuales se incluye el proyecto de actualización del Código de Conducta de esta Dependencia.
 
-Además de las definiciones contenidas en la Ley de Desarrollo Sustentable de la Caña de Azúcar, para efectos de este Estatuto Orgánico se entenderá por:
+XII. Que, a efecto de que se emita un ordenamiento normativo congruente con el Acuerdo de la Secretaría de la Función Pública del Gobierno del Estado, por el que se expide el Código de Ética para las Personas Servidoras Públicas de la Administración Pública Estatal y la Guía para la elaboración de los Códigos de Conducta, el Comité de Ética y Prevención de Conflictos de Interés de la Secretaría de Gobernación, aprobó en la Primera Sesión Extraordinaria del año en curso, de fecha de veintidós de mayo de dos mil veinticuatro, el Acuerdo “CEPCI”/001/1aEXT.ORD/2024, correspondiente a la Fe de Erratas para que el Acuerdo “CEPCI”/005/1aORD/2024 establezca “Por unanimidad de votos y sin que existan comentarios en contra por parte de los integrantes Vocales presentes del “CEPCI”, se aprueba la adecuación y/o emisión, según corresponda, de los instrumentos rectores aprobados en la Sesión Ordinaria inmediata anterior acorde a la nueva normativa en la materia; instruyéndose a la Secretaría Ejecutiva realice los trabajos necesarios a fin de formular los proyectos de los instrumentos normativos referidos, acorde con las disposiciones aplicables, para su discusión y, en su caso, aprobación por parte de este Comité”
 
-a) Director General: El Director General del Comité Nacional;
+XIII. Que, el Comité de Ética y Prevención de Conflictos de Interés de la Secretaría de Gobernación aprobó en la Segunda Sesión Extraordinaria de la presente anualidad, de fecha diecisiete de junio de dos mil veinticuatro, el Acuerdo “CEPCI”/002/2a EXT.ORD/2024, mediante el cual aprobó el proyecto de Código de Conducta de la Secretaría de Gobernación y se instruyó remitir al Titular del Órgano Interno de Control en esta Secretaría a fin de obtener su opinión favorable respecto del mismo.
 
-b) Junta Directiva: La Junta Directiva del Comité Nacional;
+XIV. Que, mediante oficio número SFPPUE/CGOVC/OICSG/490/2024, de fecha veintitrés de julio de dos mil veinticuatro, la Titular del Órgano Interno de Control en la Secretaría de Gobernación, en términos de lo dispuesto en el Acuerdo del Secretario de la Función Pública del Gobierno del Estado, por el que expide la Guía para la elaboración de los Códigos de Conducta de las Dependencias y Entidades de la Administración Pública Estatal, emitió su opinión favorable al proyecto de Código de Conducta de la Secretaría de Gobernación.
 
-###### Artículo 5.
+Que, por lo antes expuesto y con fundamento en los artículos 82 primer párrafo y 83 de la Constitución Política del Estado Libre y Soberano del Estado de Puebla; 1, 3, 24, 30, fracción X, 31, fracción I, y 32, fracción XXXIII, de la Ley Orgánica de la Administración Pública del Estado de Puebla; 1, 3, 5, fracción I y 16, fracciones XXX y LXIV, del Reglamento Interior de la Secretaría General de Gobierno, actualmente Secretaría de Gobernación; se emite el siguiente:
 
-El domicilio legal del Comité Nacional estará ubicado en la Ciudad de México, Distrito Federal.
+ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE GOBERNACIÓN DEL ESTADO DE PUEBLA
 
-## Título II
+PRESENTACIÓN
 
-### CAPITULO UNICO. De la estructura y organización
+Estimadas y estimados colaboradores, es para mí un honor dirigirme a ustedes a fin de reafirmar que nuestra labor diaria no sólo define nuestra misión institucional, sino que también refleja nuestra identidad como personas servidoras públicas adscritas a la Secretaría de Gobernación del Estado, que nos dispone al servicio de la comunidad poblana.
 
-###### Artículo 6.
+En la búsqueda de una administración pública eficiente, transparente y ética es fundamental que todos asumamos con convicción y responsabilidad los principios, valores y compromisos que rigen nuestra labor, absteniéndonos de cualquier conducta que atente contra el interés público, como los actos de corrupción, las diferentes formas de discriminación, el hostigamiento sexual, el acoso laboral o cualquier otra manifestación de violencia.
 
-El Comité Nacional para el ejercicio de sus atribuciones y despacho de los asuntos de su competencia, contará con los órganos superiores y unidades administrativas siguientes:
+De tal manera, el presente Código representa un instrumento para renovar los esfuerzos por orientar la actuación diaria de los servidores públicos y asegurar que sus acciones estén armonizadas con los principios y valores fundamentales que rigen a la función pública.
 
-A. Organos Superiores:
+Fomentemos juntos una cultura de la denuncia, en la que cada integrante de esta Dependencia cuente con el empoderamiento suficiente para reportar cualquier incumplimiento al Código de Ética para las Personas Servidoras Públicas de la Administración Pública Estatal o al presente Código. La transparencia y la rendición de cuentas son pilares esenciales en la construcción de una administración pública que inspire confianza y respeto.
 
-I. Junta Directiva.
+Los exhortos (sic) a que hagamos de este Código nuestra guía cotidiana, asegurando que nuestras acciones y decisiones estén siempre alineadas con los más altos estándares éticos y profesionales. Sólo a través de un esfuerzo conjunto fortaleceremos el compromiso con el servicio público y contribuiremos al desarrollo integral de nuestro Estado.
 
-B. Unidades Administrativas:
+Javier Aquino Limón,
 
-I. Dirección General;
+Titular de la Secretaría de Gobernación del Estado de Puebla
 
-II. Dirección de Eficiencia Productiva;
+I. OBJETIVO
 
-III. Dirección de Política Comercial;
+El presente instrumento busca establecer un marco claro y sólido que guíe el comportamiento ético del personal servidor público adscrito, orientando el cumplimiento de las responsabilidades y la toma de decisiones con un sentido moral; y, determina pautas de conducta que permiten al personal adscrito regular su actuar conforme a la Misión institucional, siendo que este instrumento refleja el compromiso con el servicio público eficiente y el respeto a la legalidad, a la ciudadanía y a los derechos humanos.
 
-IV. Dirección de Información Estadística; Proyecciones y Comunicación;
+II. GLOSARIO
 
-V. Unidad Jurídica;
+Para la interpretación y cumplimiento del presente Código, además de las definiciones previstas en el Código de Ética, se entenderá por:
 
-VI. Dirección de Administración.
+1. Acto de corrupción: Cualquier acción, comportamiento o práctica que involucre el abuso de poder, la mala conducta o la deshonestidad con el fin de obtener beneficios personales y/o ventajas indebidas.
 
-El Comité Nacional contará, asimismo, con las unidades administrativas que apruebe la Junta Directiva, que sean dictaminadas por la Dirección de Administración del Comité Nacional, y registradas por la Secretaría de Hacienda y Crédito Público conforme a las disponibilidades presupuestarias existentes, y demás autoridades competentes.
+2. Áreas susceptibles a riesgos: Las unidades administrativas adscritas a la Secretaría que, debido a su naturaleza y/o actividades, cuentan con potencial de enfrentar situaciones o decisiones que comprometan los principios y los valores establecidos.
 
-Asimismo, el Comité Nacional contará con un Organo Interno de Control dependiente de la Secretaría de la Función Pública, que realizará las funciones y ejercerá las facultades que la legislación aplicable le confiera.
+3. Carta de Compromiso Ético: Formato prellenado consistente en una declaración personal que reconoce la importancia de actuar de manera ética y responsable en todas las interacciones y decisiones relacionadas con la actividad de la empresa u organización, por lo que debe reflejar los valores institucionales y los estándares de comportamiento que deben guiar las acciones de todo el personal servidor público.
 
-###### Artículo 7.
+4. Código de Ética: El Código de Ética para las Personas Servidoras Públicas de la Administración Pública Estatal de Puebla.
 
-Los titulares de las unidades administrativas, deberán acordar con su superior jerárquico el despacho de los asuntos encomendados a las unidades administrativas a su cargo, así como acordar los asuntos de su competencia con los servidores públicos que estén adscritos a sus áreas.
+5. Código de Conducta: El Código de Conducta de la Secretaría.
 
-## Título III
+6. Comité y/o CEPCI: El Comité de Ética y Prevención de Conflictos de Interés de la Secretaría de Gobernación del Estado de Puebla.
 
-### CAPITULO I. De la Junta Directiva
+7. Compromiso: Disposición y obligación voluntaria, consciente e informada de las personas servidoras públicas de la Dependencia de adherirse y cumplir con los principios, reglas y valores éticos enunciados en el presente Código, lo que implica la aceptación y adopción activa de las directrices y los estándares éticos delineados.
 
-###### Artículo 8.
+8. Contraloría Interna: El Órgano Interno de Control en la Secretaría.
 
-La Junta Directiva es la autoridad suprema del Comité Nacional y estará integrada de la siguiente manera:
+9. Encuestas de cumplimiento: Herramientas utilizadas para evaluar y medir el grado de conocimiento, comprensión y cumplimiento de las políticas y normas éticas establecidas en el presente Código por parte de las personas servidoras públicas de la Dependencia.
 
-I. El Titular de la Secretaría;
+10. Instrumentación: Proceso de implementación de la política de integridad y de los principios éticos establecidos en este Código, asegurando que ese sea efectivo y de aplicación general para todas las personas servidoras públicas de la Secretaría.
 
-II. El Titular de la Secretaría de Hacienda y Crédito Público;
+11. Misión: La Misión institucional de la Secretaría.
 
-III. El Titular de la Secretaría de Economía;
+12. Secretaría y/o Dependencia: La Secretaría de Gobernación del Estado de Puebla.
 
-IV. El Titular de la Secretaría del Medio Ambiente y Recursos Naturales;
+13. Política de Integridad: Conjunto de acciones consistentes, claras e integradas entre sí en materia de ética institucional, conformada por la normatividad aplicable.
 
-V. El Titular de la Secretaría del Trabajo y Previsión Social;
+14. Riesgo(s) ético(s): Descripción de las situaciones que, conjugadas con acciones, pueden comprometer los principios éticos y valores fundamentales de la Dependencia; sus manifestaciones pueden ser diversas: actos de corrupción, de discriminación, de acoso, conflictos de interés e incumplimiento a deberes administrativos, entre otras.
 
-VI. Representantes de la Cámara Azucarera, y
+15. Visión: La Visión institucional de la Secretaría.
 
-VII. Representantes de las Organizaciones Nacionales de Abastecedores de Caña de Azúcar debidamente inscritas en el Registro Nacional Agropecuario.
+III. MISIÓN Y VISIÓN INSTITUCIONALES
 
-Los integrantes de la Junta Directiva designarán y acreditarán a sus respectivos suplentes, quienes deberán contar con al menos el nivel jerárquico equivalente al de Director General de la Administración Pública Federal, para el caso de las dependencias integrantes. En caso de empate, el Presidente de la Junta Directiva tendrá voto de calidad.
+Misión: Conducir los asuntos relativos a la política interior del Estado mediante la consolidación de la estabilidad política y social de las instituciones públicas, generando las condiciones que aseguren la gobernabilidad, la certeza jurídica y la protección de la sociedad en un ambiente de paz, Estado de Derecho y cercanía con la población.
 
-###### Artículo 9.
+Visión: Ser una institución de gobierno que desarrolle acciones que promuevan el Estado de Derecho, la cultura de legalidad y la participación ciudadana para mantener la paz, la estabilidad, la cohesión social y la gobernabilidad democrática en el Estado mediante una administración pública eficaz, eficiente, cercana, honesta y de servicio con la población.
 
-Las sesiones que celebre la Junta Directiva, serán ordinarias o extraordinarias. Las sesiones ordinarias se llevarán a cabo cuando menos cuatro veces al año procurando que se realicen en forma trimestral y las extraordinarias las veces que sean necesarias, previa convocatoria del Presidente de la misma o su suplente con una anticipación mínima de 5 días hábiles para el caso de las ordinarias y de dos días hábiles para las extraordinarias. Asimismo podrán solicitar al Presidente de la Junta Directiva se convoque a sesiones extraordinarias dos integrantes de la Junta Directiva de los cuales uno de ellos deberá formar parte de la Administración Pública Federal, acompañando a su petición la información de apoyo necesaria.
+IV. APLICACIÓN Y OBLIGATORIEDAD
 
-###### Artículo 10.
+Las disposiciones de este Código son de observancia obligatoria para las y los servidores públicos que desempeñen un empleo, cargo o comisión en la Secretaría. Además, será un instrumento orientador para la conducta del personal que preste servicio social, prácticas profesionales y de otras personas que no se reconozcan como servidoras públicas pero que se encuentren involucradas en la ejecución de las funciones de la Dependencia.
 
-La Junta Directiva además de las señaladas en la Ley de Desarrollo Sustentable de la Caña de Azúcar y la Ley Federal de las Entidades Paraestatales tendrá las siguientes facultades:
+Cualquier persona que conozca de posibles incumplimientos al Código de Ética y/o a este instrumento por parte de alguna servidora o servidor público adscrito a la Secretaría, podrá presentar denuncia ante el Comité.
 
-I. Emitir lineamientos, reglas de operación, y demás disposiciones legales aplicables necesarias para el desarrollo de la agroindustria de la caña de azúcar;
+Las personas titulares de las Unidades Administrativas que integran la Dependencia tendrán la responsabilidad de fomentar una cultura ética dentro de sus equipos de trabajo.
 
-II. Constituir los grupos de trabajo especializados o de apoyo necesarios para la consecución de los objetivos señalados en la Ley, los programas, y las demás señaladas en las disposiciones aplicables a la agroindustria de la caña de azúcar y determinar sus funciones;
+V. CARTA DE COMPROMISO ÉTICO
 
-III. Dar seguimiento a los programas relacionados con la agroindustria de la caña de azúcar;
+Como parte integral del compromiso de la Secretaría con la excelencia y la integridad del servicio público, se presenta la “Carta de Compromiso Ético”, que es un testimonio de nuestra voluntad y determinación para actuar conforme a los principios éticos y valores establecidos en este Código.
 
-IV. Evaluar los resultados de los programas, y de los grupos de trabajo conforme a las disposiciones aplicables de la materia,
+A través de esta Carta Compromiso nos obligamos a salvaguardar los derechos de la sociedad poblana, a tratar a todos con dignidad y respeto, así como a tomar decisiones basadas en los intereses de la comunidad a la que servimos.
 
-V. Modificar los acuerdos tomados en el seno de la misma cuando así lo soliciten los miembros de la misma y se voten los mismos, y
+Por ello, debe ser difundida y suscrita por cada persona servidora pública como una expresión libre de su voluntad de asumir la responsabilidad individual y colectiva de construir una Secretaría que sea modelo de integridad, eficiencia y servicio de calidad.
 
-VI. Las demás que se señalen en otras disposiciones jurídicas aplicables.
+La Carta de Compromiso Ético se encuentra anexa al presente y, para facilitar su consulta, se encuentra disponible en el apartado “Ética y Prevención” del portal web de esta Dependencia:
 
-###### Artículo 11.
+sg.puebla.gob.mx/index.php/etica-y-prevención
 
-El Presidente de la Junta Directiva tendrá las siguientes atribuciones:
+VI. PRINCIPIOS RECTORES
 
-I. Instalar, presidir y levantar las sesiones de la Junta Directiva.
+Los sujetos obligados por este Código deberán observar, además de los contemplados en el Código de Ética, los siguientes principios:
 
-II. Proponer a consideración de la Junta el calendario anual de las sesiones ordinarias que le proponga el Secretario para consideración de la Junta Directiva.
+1. Confidencialidad: Las personas servidoras públicas manejarán la información que generen o que les sean proporcionada en el desempeño de sus actividades con la debida discreción, bajo su más estricta responsabilidad, protegiendo la privacidad de los datos sensibles a su resguardo, asegurando su acceso sólo a quienes estén autorizados para su consulta, uso o disposición, de conformidad con la normativa aplicable.
 
-III. Modificar, en los casos que considere procedente, las fechas programadas de las sesiones, ya sean ordinarias o extraordinarias.
+2. Respeto integral a la diversidad: Las personas servidoras públicas valorarán y respetarán la diversidad en todas sus manifestaciones, ya sea cultural, étnica, de género, de orientación sexual, de credo, ideológica o cualquier otra presente en la vida en sociedad, promoviendo un entorno inclusivo que celebre la riqueza de perspectivas y de experiencias.
 
-IV. Instruir al Secretario de la Junta Directiva las actividades que considere pertinentes; y
+3. Sostenibilidad: Las personas servidoras públicas implementarán la lógica de progreso sustentable como un eje fundamental en la toma de decisiones y acciones, promoviendo prácticas que aseguren la conservación de los recursos naturales, el desarrollo sostenible y la mitigación del impacto ambiental, acorde con la política de austeridad.
 
-V. Las demás que le señalen las demás disposiciones aplicables.
+4. Empatía y Atención Ciudadana: Las personas servidoras públicas brindarán una atención empática y eficaz a las solicitudes y necesidades de la población en general, priorizando el servicio, la comprensión y la resolución de las demandas más apremiantes.
 
-###### Artículo 12.
+5. Responsabilidad Digital: Las personas servidoras públicas utilizarán de manera ética y responsable las herramientas digitales que requieran en el desempeño de sus empleos, cargos o comisiones, protegerán la integridad y veracidad de la información que manejen, combatirán la desinformación y promoverán el uso responsable de las plataformas digitales.
 
-El Secretario y, en ausencia de éste, el Prosecretario de la Junta Directiva, tendrán las siguientes atribuciones:
+6. Liderazgo Ético: Las personas servidoras públicas con funciones de mando ejercerán un liderazgo basado en valores éticos, inspirando a través del ejemplo, la transparencia, la integridad y el compromiso con el bien común, procurando un entorno laboral orientado por los valores institucionales.
 
-I. Proponer la convocatoria y elaborar el orden del día de las sesiones atendiendo a las propuestas que formulen los miembros de la Junta Directiva, los grupos de trabajo especializados o de apoyo y el Director General;
+7. Resolución Pacífica de Conflictos: Las personas servidoras públicas abogarán por la resolución dialogada y pacífica de los conflictos que se susciten en su entorno laboral, fomentando un ambiente de diálogo, tolerancia y mediación para resolver disputas internas y externas de manera constructiva.
 
-II. Preparar y enviar a los miembros integrantes de la Junta Directiva la documentación e información correspondiente a los asuntos que serán tratados en las sesiones, con anticipación no menor de cinco días hábiles a la celebración de la sesión correspondiente; tratándose de las sesiones extraordinarias, el Presidente de la Junta Directiva, en función de los asuntos a tratar determinará la anticipación con que se deberá de enviar la documentación e información respectiva;
+VII. VALORES INSTITUCIONALES EN EL SERVICIO PÚBLICO
 
-III. Verificar y determinar el quórum legal de las sesiones;
+Además de los Valores establecidos en el Código de Ética, las personas sujetas a este Código de Conducta deberán observar los siguientes:
 
-IV. Levantar las actas de las sesiones y someterlas a la aprobación de los miembros de la Junta de Directiva debiendo remitirlas a éstos en un plazo no mayor a veinte días hábiles contados a partir de la fecha de la sesión y, en caso de ser aprobadas, remitirlas para su registro en un plazo no mayor a 10 días;
+1. Equidad de Oportunidades: Las personas servidoras públicas garantizarán las condiciones equitativas para el acceso y disfrute de oportunidades y el acceso a beneficios laborales, sin discriminación alguna.
 
-V. Certificar los acuerdos y documentos en los que consten las resoluciones adoptadas por la Junta Directiva;
+2. Justicia Social: Las personas servidoras públicas buscarán la reducción de las brechas de desigualdad social y promoverán la equidad de acceso a oportunidades, recursos y servicios.
 
-VI. Coordinar y dar seguimiento a los asuntos relacionados con la operación de la Junta Directiva y demás Comités o grupos de trabajo especializados o de apoyo constituidos por ésta;
+3. Solidaridad: Las personas servidoras públicas mostrarán empatía y apoyo hacia los grupos vulnerables y en situaciones de emergencia, participando en acciones que promuevan la ayuda mutua y la solidaridad en busca del bienestar colectivo.
 
-VII. Informar a los miembros de la Junta Directiva sobre el estado de cumplimiento que guardan los acuerdos tomados por ésta;
+4. Autenticidad y Coherencia: Las personas servidoras públicas actuarán con sinceridad, coherencia y congruencia entre sus valores personales y su desempeño profesional, manteniendo la transparencia y la honestidad en todas sus acciones y decisiones.
 
-VIII. Elaborar el proyecto de calendario anual de sesiones de la Junta Directiva para someterlo a su aprobación;
+5. Colaboración Multidisciplinaria: Las personas servidoras públicas fomentarán la colaboración entre diferentes áreas y disciplinas, promoviendo la integración de conocimientos y perspectivas diversas para abordar de manera integral y ética los retos en el desempeño del servicio público.
 
-IX. Resguardar y custodiar los documentos originales que sustenten los acuerdos adoptados por la Junta Directiva y por los Comités o grupos de trabajo especializados o de apoyo que constituya ésta y remitirlos para su registro;
+6. Sororidad en el Servicio Público: Las personas servidoras públicas impulsarán la sororidad como un pilar en la administración pública, fomentando la solidaridad, el reconocimiento y el respeto entre mujeres. Esto se traduce en la promoción de un entorno colaborativo, inclusivo y equitativo en el que se fortalezca el empoderamiento de las mujeres en el servicio público, contribuyendo con la igualdad sustantiva.
 
-X. Auxiliar a la Junta Directiva en el desarrollo de las sesiones ordinarias o extraordinarias así como en el desempeño de sus atribuciones, y
+VIII. RIESGOS ÉTICOS IDENTIFICADOS
 
-XI. Las demás que señale la Ley y otras disposiciones jurídicas aplicables, así como las que le sean otorgadas mediante acuerdo de la Junta Directiva.
+Se han detectado posibles afectaciones a los preceptos éticos normativos, y los principales motivos que pueden favorecer la realización de conductas que transgreden las normas del actuar en el servicio público, acorde a la siguiente tabla:
 
-###### Artículo 13.
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 30 DE AGOSTO DE 2024, PÁGINAS DE LA 9 A LA 12.]</small>
 
-Son obligaciones de los miembros de la Junta Directiva las siguientes:
+IX. CONDUCTAS DE LAS PERSONAS SERVIDORAS PÚBLICAS
 
-I. Asistir a las sesiones ordinarias o extraordinarias, en caso de no asistir el miembro titular deberá acudir su suplente. En caso de que ni el titular ni el suplente puedan asistir, podrá asistir por única ocasión la persona designada para tal efecto por el miembro titular, el cual no podrá tener un nivel menor al de Director General para el caso de la Administración Pública Federal.
+Con la finalidad de implementar los Principios Rectores y los Valores Institucionales en esta Secretaría y de manera congruente con las Reglas de Integridad para el ejercicio de la función pública, todas las personas servidoras públicas deberán:
 
-II. Acudir de manera puntual a las sesiones de la Junta Directiva;
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 30 DE AGOSTO DE 2024, PÁGINAS DE LA 13 A LA 15.]</small>
 
-III. Rendir los informes solicitados al pleno de la Junta Directiva;
+Aunado a lo anterior, las personas servidoras públicas observarán las siguientes conductas o comportamientos específicos:
 
-IV. Atender los asuntos encomendados de manera particular en el seno de la Junta Directiva;
+1. Velar por no emplear las atribuciones y facultades derivadas de su cargo público para beneficio personal o de terceros.
 
-V. Las demás que se señalen al interior de la Junta Directiva y demás disposiciones aplicables.
+2. Garantizar que los recursos humanos, materiales o financieros asignados sean utilizados exclusivamente para los fines institucionales designados.
 
-### CAPITULO II. Del Director General
+3. Abstenerse de favorecer o colaborar con terceros a cambio de dinero, obsequios o cualquier otro beneficio personal o para terceros.
 
-###### Artículo 14.
+4. Evitar cualquier tipo de actividad proselitista durante su jornada laboral o direccionar su labora hacia preferencias políticas o electorales.
 
-La representación, trámite y resolución de los asuntos de la competencia del Comité Nacional corresponde originalmente al Director General.
+5. Actuar bajo los principios de austeridad, sencillez y uso adecuado de los recursos que tenga a disposición en razón de su cargo público.
 
-###### Artículo 15.
+6. Abstenerse de mostrar un comportamiento ostentoso o incoherente con la remuneración y apoyos recibidos con motivo de su empleo, cargo o comisión.
 
-Además de lo señalado por la Ley de Desarrollo Sustentable de la Caña de Azúcar, al Director General corresponderá el ejercicio de las siguientes facultades:
+7. Fomentar la colaboración con otras personas servidoras públicas para alcanzar metas comunes según los planes y programas gubernamentales implementados en las unidades administrativas adscritas a la Secretaría.
 
-I. Coordinar las acciones con las diferentes secretarías de estado en cuanto a los planes nacionales de la cadena productiva de la caña de azúcar propuestos por el ejecutivo federal, de acuerdo a los lineamientos o reglas de operación que al efecto de emitan y vigilar el impacto que tengan otros usos de la caña de azúcar, promoviendo una eficiente y ordenada diversificación de la cadena de la caña de azúcar;
+8. Evitar la adquisición de bienes o servicios para sí mismos o para terceros, a precios notoriamente más altos o bajo condiciones de crédito desfavorables para la Secretaría y en beneficio de determinado proveedor o proveedores.
 
-II. Asistir y participar en las negociaciones internacionales que se lleven a cabo en materia de la caña de azúcar, de sus productos, coproductos y derivados;
+9. Asegurarse de que, con su actuar, no se obstaculicen las investigaciones o procedimientos sancionatorios en contra de personas servidoras públicas o particulares.
 
-III. Asistir y participar en todo tipo de eventos nacionales o internacionales relacionados con la caña de azúcar, sus productos, coproductos y derivados;
+10. Implementar medidas preventivas al ser informado por el personal a su cargo de la posible actualización de conflictos de interés o riesgos éticos.
 
-IV. Coordinar las acciones relativas a la caña de azúcar con los estados y municipios;
+11. Abstenerse de representar los intereses contrarios en juicios que se sustancien contra la administración pública, cualquiera que sea el nivel de gobierno.
 
-V. Las demás que le señalen las disposiciones jurídicas aplicables a su encargo, así como las que le sean otorgadas mediante acuerdo de la Junta Directiva.
+12. Excusarse de participar en la atención, tramitación o resolución de asuntos en los que tenga intereses personales, familiares, comerciales o cualquier otro conflicto de interés.
 
-###### Artículo 16.
+13. Fomentar un ambiente de respeto y colaboración, promoviendo conductas que generen un trato amable y respetuoso hacia el personal subordinado y compañeros de trabajo, evitando cualquier forma de hostigamiento, agresión, intimidación o amenaza.
 
-Serán atribuciones indelegables del Director General las que señale la Junta Directiva en concordancia con la legislación aplicable a las entidades de la Administración Pública Federal.
+14. Mantener una conducta cordial y digna tanto en la atención al público como en la colaboración con los compañeros de trabajo, promoviendo un entorno laboral donde prime el respeto mutuo y la cordialidad.
 
-### CAPITULO III. De las Direcciones
+15. Realizar las actividades de atención al público en general de manera eficiente, ágil y cortés, priorizando un servicio respetuoso y diligente.
 
-###### Artículo 17.
+16. Respetar y cumplir las medidas pertinentes para el uso transparente y eficiente de los recursos públicos durante la jornada laboral, evitando la realización de actividades personales que puedan interferir con el ejercicio de las funciones laborales.
 
-Corresponde a los Directores y al Titular de la Unidad Jurídica en el ámbito de su competencia, el ejercicio de las atribuciones siguientes:
+17. Cultivar un ambiente laboral basado en el respeto, la cooperación, la disciplina y la integridad en las respectivas áreas de trabajo, contribuyendo así al desempeño eficaz y eficiente de las responsabilidades laborales.
 
-I. Planear, programar, organizar, dirigir y supervisar el funcionamiento de la unidad administrativa a su cargo;
+18. Administrar los bienes y recursos disponibles con criterios de sencillez, austeridad y uso adecuado en concordancia con el ejercicio del cargo público.
 
-II. Someter a la consideración del Director General las políticas, programas, proyectos y estudios del área de su competencia;
+19. Promover y apoyar la colaboración mutua entre los compañeros de trabajo, fomentando el trabajo en equipo y el compromiso con el servicio público.
 
-III. Desempeñar las atribuciones y comisiones que el Director General le delegue o encomiende, y mantenerlo informado sobre el desarrollo de sus actividades;
+20. Contribuir activamente en la identificación de áreas susceptibles o vulnerables a la corrupción, colaborando en su detección y prevención.
 
-IV. Suscribir los documentos relativos al ejercicio de sus facultades y las que le correspondan por delegación o suplencia;
+21. No interferir ni dificultar la presentación de denuncias o acusaciones que señalen el uso indebido de recursos económicos, propiciando un entorno propicio para la rendición de cuentas.
 
-V. Proporcionar la información, datos o cooperación técnica solicitada por autoridad competente o por unidades administrativas del Comité Nacional o bien por alguna dependencia, entidad u organismo y expedir constancias de los documentos que obren en sus archivos.
+22. Proponer e implementar cambios en estructuras y procesos que inhiban la ineficiencia, la corrupción y las conductas antiéticas, con el objetivo de mejorar la eficacia y transparencia en el servicio público.
 
-VI. Expedir las copias certificadas de los documentos que obren en sus unidades administrativas, en términos de lo dispuesto por la legislación conducente.
+23. Mostrar un comportamiento profesional, evitando gestos o movimientos corporales de connotación sexual, preservando en todo momento la dignidad personal y laboral.
 
-VII. Asegurar el buen uso y preservar los bienes asignados a la unidad administrativa a su cargo;
+24. Respetar los límites personales y mantener un ambiente laboral respetuoso, evitando cualquier contacto físico inapropiado o de naturaleza sexual con los compañeros de trabajo.
 
-VIII. Representar al Comité Nacional ante dependencias, entidades e instituciones públicas, privadas, sociales, así como ante personas físicas, presidir o participar en los comités internos que les correspondan, conforme a sus ámbitos de competencia y de conformidad con las leyes aplicables;
+25. Mantener un trato equitativo y profesional, evitando preferencias indebidas o manifestaciones de interés sexual hacia los compañeros de trabajo.
 
-IX. Apoyar la ejecución de programas mediante la elaboración de propuestas de sus respectivos ámbitos de responsabilidad;
+26. Fomentar un ambiente de trabajo colaborativo y amigable, evitando comportamientos agresivos, intimidatorios o dominantes hacia cualquier persona.
 
-X. Encomendar a los servidores públicos adscritos a su unidad administrativa las tareas inherentes a su encargo y supervisar su cumplimiento;
+27. Garantizar la igualdad de oportunidades laborales sin condicionarlas a aceptar situaciones de naturaleza sexual.
 
-XI. Proporcionar información, datos o la cooperación técnica que les sean requeridos por dependencias, entidades e instituciones públicas cuando así lo señalen las disposiciones legales aplicables;
+28. Mantener la imparcialidad en la prestación de servicios públicos, evitando condicionarlos a intereses ajenos a los requisitos establecidos.
 
-XII. Proporcionar asesoría, capacitación y apoyo técnico en materia de su competencia, a las dependencias, entidades y autoridades estatales y municipales;
+29. Preservar la integridad personal y profesional, evitando insinuaciones, invitaciones o propuestas de carácter sexual con los compañeros de trabajo.
 
-XIII. Promover y vigilar que en la atención y resolución de los asuntos de su competencia se cumplan las políticas y lineamientos dictados por su superior jerárquico, los ordenamientos legales y demás disposiciones normativas aplicables;
+30. Preservar la confidencialidad y el respeto hacia la vida íntima de las personas, evitando difundir rumores o información sobre su vida sexual o privada.
 
-XIV. Coordinarse entre sí y con las demás unidades administrativas para el mejor desempeño de sus actividades;
+31. Proteger el patrimonio colectivo, los bienes de las oficinas y las instalaciones públicas de la Secretaría, los cuales estén a mi cargo o dentro de mi área de trabajo.
 
-XV. Solicitar la información necesaria para el desempeño de sus funciones;
+32. Impedir la sustracción, destrucción, ocultamiento o utilización indebida de la información que genere, reciba o controle en el desempeño de sus funciones públicas.
 
-XVI. Atender en al ámbito de sus respectivas funciones los acuerdos derivados de la Junta Directiva y las demás que disponga el Director General del Comité Nacional, y
+33. En caso de renuncia o separación del cargo, entregar al superior jerárquico los expedientes, fondos, valores o bienes cuya atención o guarda estén a su cuidado, de conformidad con las disposiciones aplicables en la materia.
 
-XVII. Las demás facultades que le confieran la Junta Directiva, el Director General y las disposiciones jurídicas aplicables.
+34. Emitir declaraciones oficiales únicamente previa autorización de las autoridades competentes de la Secretaría.
 
-###### Artículo 18.
+35. Emplear la información, sellos y documentos internos únicamente con el propósito específico para el que fueron creados o compartidos.
 
-A la Dirección de Eficiencia Productiva le corresponde el ejercicio de las siguientes atribuciones:
+36. Gestionar ante las autoridades competentes el permiso para la colocación de cualquier información en los tableros y lugares visibles de los inmuebles de esta Dependencia.
 
-I. Planear y proyectar las acciones referentes a la competitividad del sector de la agroindustria de la caña de azúcar y todos los productos derivados de este cultivo;
+37. Mantener relaciones profesionales y puramente contractuales con contratistas, proveedores o inversionistas, mismas que deberán estar alineadas con la política estatal anticorrupción y con la demás normativa aplicable.
 
-II. Realizar campañas dirigidas a los productores de caña de azúcar para fomentar el sistema de pago de la caña de azúcar por calidad;
+38. Evitar, por cualquier motivo, sostener viajes, participar en eventos o convivencias con contratistas, proveedores o inversionistas fuera de las relaciones profesionales y/o contractuales vinculadas al servicio público.
 
-III. Llevar el registro nacional de los métodos de pago por calidad de caña de azúcar;
+X. PARTICIPACIÓN ACTIVA EN LA INTEGRIDAD INSTITUCIONAL
 
-IV. Proponer a industriales y productores de caña de azúcar mecanismos para lograr costos de producción más competitivos en el sector;
+Las personas servidoras públicas de la Secretaría participan en la construcción y consolidación de la integridad en la Dependencia. Las siguientes son acciones que, de manera enunciativa mas no limitativa, hacen posible propiciar un servicio público íntegro:
 
-V. Establecer acuerdos entre sectores que permitan el incremento de la eficiencia y productividad;
+1. Detectar áreas sensibles o vulnerables a la corrupción.
 
-VI. Coordinar y aplicar un programa de desarrollo tecnológico que permita incrementar la eficiencia y eficacia del sector;
+2. Proponer y, en su caso, adoptar cambios a las estructuras y procedimientos administrativos a fin de inhibir ineficiencias, así como espacios para la corrupción y las conductas antiéticas.
 
-VII. Dirigir, en coordinación con las unidades administrativas competentes, todo lo relacionado con el CICTCAÑA;
+3. Recomendar y fomentar mejores prácticas en favor de la ética en el servicio público.
 
-VIII. Proponer, gestionar y llevar a cabo el programa anual de capacitación para el sector agroindustrial de la caña de azúcar;
+XI. DISPOSICIONES COMPLEMENTARIAS
 
-IX. Emitir opinión sobre asuntos que propicien la eficiencia y productividad del sector;
+Sin perjuicio de la observancia a lo dispuesto en el presente Código de Conducta, en el desarrollo de sus funciones el personal deberá cumplir con lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Puebla, la Ley Orgánica de la Administración Pública Estatal, el Reglamento Interior de esta Dependencia y la demás normativa aplicable.
 
-X. Realizar estudios sobre competitividad de la agroindustria azucarera;
+Para lo no previsto en el presente Código deberá estarse a lo dispuesto en los Lineamientos Generales para la Integración y Funcionamiento de los Comités de Ética y Prevención de Conflictos de Interés y al Código de Ética para las Personas Servidoras Públicas de la Administración Pública Estatal.
 
-XI. Llevar a cabo estudios integrales de detección de necesidades y potenciales en las zonas de abasto de cada ingenio;
+La investigación de incumplimientos a los principios rectores, valores institucionales o a las reglas de integridad, deberá sustanciarse de conformidad con el Protocolo de Actuación para la Atención de Denuncias en materia de ética y prevención de conflictos de Interés que, para tal efecto, emita el CEPCI de la Secretaría.
 
-XII. Coordinar y dirigir el proyecto de digitalización del campo cañero, del establecimiento de módulos de administración de datos y de unidades de capacitación virtual así como del monitoreo satelital;
+Las sanciones que correspondan serán determinadas según dispone la Ley General de Responsabilidades Administrativas, para lo cual se dará vista a la Secretaría de la Función Pública del Estado, a través del Órgano Interno de Control en esta Dependencia.
 
-XIII. Elaborar análisis de suelos y otros relativos a las superficies dedicadas al cultivo de caña de azúcar;
+XII. INSTANCIAS ENCARGADAS DE LA IMPLEMENTACIÓN DEL CÓDIGO DE CONDUCTA
 
-XIV. Coordinar los diferentes planes de desarrollo de otros usos de la caña de azúcar y evaluar su impacto en la cadena de la caña de azúcar;
+El Comité de Ética y Prevención de Conflictos de Interés de la Secretaría es la instancia encargada de la interpretación, consulta y asesoría del presente Código, además dará atención a las quejas y denuncias que se reciban por actos u omisiones que contravengan lo contenido en este instrumento normativo.
 
-XV. Monitorear el avance de la zafra, sus rendimientos en campo y fábrica y promover junto con la cadena agroindustrial acciones de política pública para el apoyo y competitividad del sector si así se requiriera;
+Cuando exista un posible incumplimiento a lo dispuesto en este Código, se sustanciará el procedimiento conforme lo previsto en el tercer párrafo del apartado que antecede y, en su caso, se informará al Órgano Interno de Control de la Secretaría, autoridad que determinará el inicio de los procedimientos administrativos que correspondan. Mientras que las consultas en materia de conflictos de intereses podrán presentarse directamente ante el CEPCI, que las remitirá a la Secretaría de la Función Pública para su atención.
 
-XVI. Coordinar las acciones en el área de campo y fábrica relativas a caña de azúcar con las diferentes secretarías de estado en el ámbito de sus respectivas competencias en cuanto a los planes nacionales de la cadena productiva de la caña de azúcar propuestos por el ejecutivo federal.
+- Comité de Ética y Prevención de Conflictos de Interés de la Secretaría.
 
-###### Artículo 19.
+Contacto: cepci.segob@puebla.gob.mx y/o denuncias.cepci.segob@puebla.gob.mx
 
-A la Dirección de Política Comercial le corresponde el ejercicio de las siguientes atribuciones:
+- Titular de la Secretaría Ejecutiva del CEPCI: Christian Sánchez Potrero.
 
-I. Establecer mecanismos de concertación entre industriales y abastecedores de caña de azúcar en materia comercial;
+Contacto: 222 255 1491 y/o christian.sanchezp@puebla.gob.mx
 
-II. Realizar análisis y evaluaciones de las políticas públicas internacionales en materia de comercio de azúcar referentes a aranceles, cuotas y reglas de origen;
+- Órgano Interno de Control en la Dependencia:
 
-III. Realizar análisis del mercado nacional de edulcorantes, de la oferta y demanda y del comportamiento de precios;
-
-IV. Promover las alianzas estratégicas y acuerdos para la integración de los agentes económicos que participan en la agroindustria de la caña de azúcar;
-
-V. Llevar Sistema obligatorio de registro e informes de control semanal, mensual y anual del comportamiento del balance azucarero y de edulcorantes totales;
-
-VI. Evaluar el sistema de pago de la caña de azúcar por calidad y emitir opiniones al respecto;
-
-VII. Establecer los mecanismos necesarios para la distribución de las cuotas de exportación por ingenio cuando así se requiera;
-
-VIII. Calcular y revisar el precio de referencia del azúcar para el pago de la caña de azúcar;
-
-IX. Realizar estudios para identificar el comportamiento nacional e internacional del consumo de azúcar y demás actividades inherentes al sector de la agroindustria de la caña de azúcar;
-
-X. Dar seguimiento y evaluar las negociaciones internacionales en materia azucarera de los distintos acuerdos internacionales;
-
-XI. Coordinar y supervisar la realización de las auditorías a los inventarios físicos de azúcar, operaciones comerciales de venta de azúcar y registros contables de los mismos;
-
-XII. Dar seguimiento y evaluar los esquemas necesarios de monitoreo a las importaciones de azúcar y dar seguimiento a las exportaciones de azúcar realizadas por los ingenios;
-
-XIII. Evaluar el impacto que otros productos de la caña de azúcar tengan en los mercados de edulcorantes y coordinar acciones para la competitividad de los mismos, y
-
-XIV. Monitorear el mercado de edulcorantes y otros productos derivados de la caña de azúcar para promover junto con la cadena agroindustrial acciones de política pública que generen la competitividad del sector.
-
-###### Artículo 20.
-
-A la Dirección de Información Estadística, Proyecciones y Comunicación le corresponde el ejercicio de las siguientes atribuciones:
-
-I. Diseñar y administrar el sistema de información de la agroindustria azucarera requerido para sustentar las bases del programa de productividad y competitividad de la agroindustria, mediante la coordinación del gobierno federal con los industriales y abastecedores de caña de azúcar, a través de la información periódica a los principales agentes económicos de la agroindustria de la caña de azúcar;
-
-II. Diseñar y formular la sistematización de la información periódica reportada por los diferentes agentes de la agroindustria de la caña de azúcar;
-
-III. Diseñar y formular la generación de modelos econométricos para pronósticos (estructurales y de series de tiempo multivariados) que permitan, mediante la creación de escenarios, evaluar los impactos de las políticas públicas implementadas y/o por implementar y facilitar la toma de decisiones;
-
-IV. Diseñar y administrar la difusión y divulgación del sector de la agroindustrial (sic) de la caña de azúcar y de las actividades del Comité Nacional, a través de medios impresos publicados periódicamente y en la página electrónica del Comité Nacional;
-
-V. Recopilar la información de los balances azucareros y de edulcorantes nacionales e internacionales;
-
-VI. Participar en el cálculo y revisión del precio de referencia de la caña de azúcar;
-
-VII. Elaborar y actualizar la estadística de resultados de producción y productividad fábrica-campo;
-
-VIII. Monitorear el avance de la zafra, sus rendimientos y proporcionar a las demás áreas de la información necesaria para la toma de decisiones;
-
-IX. Recopilar, analizar y evaluar de conformidad a las necesidades de las demás unidades administrativas del Comité Nacional los informes requeridos;
-
-X. Elaborar y actualizar la estadística de resultados de producción y productividad fábrica-campo;
-
-XI. Recopilar, analizar y evaluar de conformidad a las necesidades de las demás unidades administrativas del Comité Nacional los informes enviados por los comités de producción y calidad cañera y de los Comités; y
-
-XII. Elaborar y actualizar la estadística de resultados de producción y productividad de otros productos derivados de la caña de azúcar para el análisis y su posible impacto en la cadena agroindustrial de este cultivo.
-
-###### Artículo 21.
-
-A la Unidad Jurídica le corresponde el ejercicio de las siguientes atribuciones:
-
-I. Brindar asesoría jurídica a las unidades administrativas del Comité Nacional;
-
-II. Acordar con el Director General, la intervención que corresponda al Comité Nacional en los anteproyectos de leyes, reglamentos, decretos, acuerdos, contratos y convenios, nacionales e internacionales, relacionados con su ámbito de competencia;
-
-III. Formular las querellas y denuncias que procedan y representar al Comité Nacional en los procesos o procedimientos de toda índole;
-
-IV. Presentar los informes en los juicios de amparo y proponer la interposición de toda clase de recursos, así como intervenir, cuando corresponda, en los juicios o procesos judiciales en que el Comité Nacional sea parte;
-
-V. Representar al titular de la Dirección General, en los juicios de orden laboral, así como intervenir en la tramitación de los recursos administrativos que se interpongan contra sus resoluciones o de las diversas unidades administrativas del mismo Comité Nacional;
-
-VI. Resolver los recursos administrativos competencia del Comité Nacional y los que se interpongan contra las resoluciones que dicte el mismo;
-
-VII. Llevar, en su caso, la legalización y registro de firmas de los servidores públicos del Comité Nacional;
-
-VIII. Dictaminar la procedencia jurídica de los contratos, convenios y acuerdos interinstitucionales, nacionales o internacionales que celebre el Comité Nacional con terceros;
-
-IX. Representar al Comité Nacional ante los tribunales federales y del fuero común y ante toda autoridad, en los trámites judiciales y cualquier otro asunto de carácter legal en que tenga interés e injerencia el Comité Nacional, con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias y querellas, desistirse, ofrecer y rendir toda clase de pruebas; recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes, que favorezcan a los derechos del Comité Nacional. Por virtud de esta disposición, se entenderá ratificado por la persona titular del mismo todo lo que se haga, en los términos de la Ley, por la Unidad Jurídica y los representantes que acredite, en cada uno de los casos que intervengan;
-
-X. Realizar los estudios e investigaciones jurídicas relacionados con el desarrollo de las facultades del Comité Nacional; apoyar jurídicamente el proceso de modernización y compilar las normas legales que le conciernen, y
-
-XI. Proporcionar asistencia jurídica en la adquisición por vía de derecho público o privado de bienes inmuebles, en el establecimiento de derechos reales y en los demás actos relacionados con la adquisición de derechos inmobiliarios; así como en la obtención de acuerdos de destino, desincorporación y enajenación de bienes propiedad del Comité Nacional.
-
-###### Artículo 22.
-
-A la Dirección de Administración le corresponde el ejercicio de las siguientes atribuciones:
-
-I. Establecer políticas para la organización y funcionamiento del Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar que contribuya al cumplimiento de la misión y visión del Comité Nacional.
-
-II. Autorizar con base en las políticas institucionales normas, sistemas y procedimientos para la organización y funcionamiento del Comité Nacional.
-
-III. Autorizar con base en las políticas institucionales normas, sistemas y procedimientos para la administración de recursos humanos, financieros, adquisiciones de bienes y servicios generales del Comité Nacional, con el objeto de que las unidades responsables dispongan de los elementos necesarios para el cumplimiento de sus atribuciones.
-
-IV. Autorizar con base en las políticas institucionales normas, sistemas y procedimientos para la administración de recursos informáticos, adquisiciones de bienes y servicios generales del Comité Nacional, de conformidad con los acuerdos emitidos por los comités de adquisiciones e informática respectivamente, con el objeto de que las unidades responsables dispongan de los elementos necesarios para el cumplimiento de sus atribuciones.
-
-V. Establecer políticas para la formulación del anteproyecto de presupuesto, así como para el ejercicio, control y rendición de cuentas de los recursos financieros del Comité Nacional con la finalidad de que el presupuesto sea necesario para el cumplimiento de los programas bajo su responsabilidad.
-
-VI. Someter a consideración del Director General los anteproyectos de programa de presupuesto anual, el presupuesto anual del Comité, los demás programas que le encomiende, así como la cuenta pública de la Hacienda Pública Federal con el objeto de obtener las autorizaciones que corresponda.
-
-VII. Acordar con el Director General del Comité Nacional el ejercicio de los recursos presupuestales asignados a este, con el fin de autorizar las erogaciones que resulten necesarias para la ejecución de programas de trabajo.
-
-VIII. Suscribir los convenios legalmente procedentes que afecten el presupuesto del Comité Nacional.
-
-IX. Acordar y presentar al Director General la documentación necesaria para el ejercicio del presupuesto en lo que corresponde a las erogaciones que deberán ser autorizadas conforme a la normatividad aplicable.
-
-X. Establecer políticas para la administración del capital humano en materia de sueldos y compensaciones; prestaciones y servicios; relaciones laborales, con objeto de propiciar un clima laboral que contribuya al cumplimiento de las metas institucionales.
-
-XI. Acordar y autorizar el pago de remuneraciones al personal con objeto de que reciban conforme a los tabuladores autorizados y con la debida oportunidad el pago por los servicios prestados al Comité Nacional.
-
-XII. Autorizar las comisiones que desempeñen en el extranjero los servidores públicos adscritos al Comité Nacional, con el objeto de verificar el cumplimiento de las disposiciones emitidas sobre el particular.
-
-XIII. Establecer políticas para la administración de recursos materiales, bienes muebles e inmuebles, así como consumibles de oficina con el objeto de proveer en tiempo y forma a los trabajadores de los elementos para el cumplimiento de los programas de trabajo.
-
-XIV. Acordar y autorizar la adquisición, suministro de bienes y servicios necesarios para el desarrollo de los programas de las unidades responsables, así como establecer lineamientos para la supervisión.
-
-XV. Autorizar el programa de protección civil para el personal, instalaciones, bienes e informáticos del Comité Nacional con la finalidad de propiciar las condiciones de seguridad en el desarrollo de las actividades interinstitucionales.
-
-XVI. Establecer políticas para el análisis, dictamen, registro y autorización de las estructuras orgánico ocupacionales de las estructuras básica y no básica del Comité Nacional, con la finalidad de que se disponga de las estructuras organizaciones que contribuyan al cumplimiento de los objetivos institucionales.
-
-XVII. Autorizar los escenarios organizaciones con los movimientos de plazas del Comité Nacional con el objeto de que se mantengan permanentemente actualizadas las estructuras organizacionales.
-
-XVIII. Dirigir el análisis y dictamen de las propuestas de reorganización organizacional que presenten las unidades responsables del Comité Nacional, con el fin de autorizar la operación de cambios en las estructuras y puestos.
-
-XIX. Establecer y coordinar los programas de productividad, ahorro, transparencia y desregulación de conformidad con la normatividad aplicable con objeto de contribuir en el beneficio de los usuarios del Comité Nacional.
-
-XX. Establecer el sistema de orientación e información al público, así como la recepción de sugerencias, con la finalidad de conocer la percepción de los servicios y trámites que reciben y establecer las medidas de mejora conducentes.
-
-XXI. Suplir al Director General ante las autoridades jurisdiccionales y administrativas, incluyendo las laborales, cuando así se requiera.
-
-### CAPITULO IV. Del Comisario Público
-
-###### Artículo 23.
-
-La vigilancia del Comité Nacional estará a cargo de un Comisario propietario y un suplente, designados por la Secretaría de la Función Pública, los cuales contarán con las atribuciones señaladas en la Ley Federal de las Entidades Paraestatales, su Reglamento y demás disposiciones aplicables.
-
-### CAPITULO V. Del Organo Interno de Control
-
-###### Artículo 24.
-
-El Comité Nacional cuenta con un Organo Interno de Control, cuyo Titular será designado en los términos de la Ley Orgánica de la Administración Pública Federal, y en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades designados en los mismos términos.
-
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en el Reglamento Interior de la Secretaría de la Función Pública y aplicar lo establecido en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley Federal de las Entidades Paraestatales, así como de conformidad a las disposiciones aplicables.
-
-###### Artículo 25.
-
-Las ausencias del Titular del Organo Interno de Control, así como las de los titulares de las áreas de auditoría, quejas y responsabilidades, serán suplidas conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
-
-### CAPITULO VI. De los Comités y Grupos de Trabajo
-
-###### Artículo 26.
-
-El Comité Nacional contará con los Comités especializados y grupos de trabajo y de apoyo necesarios para el cumplimiento de sus objetivos y para el desarrollo oportuno y eficaz de las actividades que realice, en términos de lo dispuesto por la Ley y demás disposiciones normativas.
-
-La creación de dichos Comités y grupos de trabajo en ningún caso implicará la creación de estructura organizacional adicional a la prevista en el presente Estatuto.
-
-###### Artículo 27.
-
-Los Comités o grupos de trabajos especializados y de apoyo serán creados por la Junta Directiva, conforme a lo dispuesto por la Ley y demás disposiciones jurídicas aplicables.
-
-La Junta Directiva aprobará la integración de los Comités o grupos de trabajo especializados y de apoyo, especificando funciones y temporalidad.
-
-###### Artículo 28.
-
-En todos los casos los Comités o grupos de trabajo especializados y de apoyo que constituya la Junta Directiva deberán presentar a ésta un informe de los resultados de su actuación.
-
-La Junta Directiva podrá solicitar informes parciales cuando así lo considere necesario.
-
-###### Artículo 29.
-
-En los Comités o grupos de trabajo especializados y de apoyo participarán las unidades administrativas del Comité Nacional a las que corresponda conocer de los asuntos de que se trate.
-
-### CAPITULO VII. De las suplencias
-
-###### Artículo 30.
-
-En los casos de ausencia temporal, impedimento o excusa del Director General, será suplido en el orden siguiente: por los Directores de Política Comercial, Eficiencia Productiva, Información Estadística; Proyecciones y Comunicación, Administración, el Titular de la Unidad Jurídica.
-
-En los juicios de amparo en los que el Director General deba intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso administrativo, contestación de demandas e interposición de toda clase de recursos en términos de sus leyes que los rigen, incluyendo la materia laboral, será suplido por el Director de Administración o por el Titular de la Unidad Jurídica.
-
-###### Artículo 31.
-
-En los casos de ausencia temporal, impedimento o excusa de los Directores o del Titular de la Unidad Jurídica, éstos serán suplidos por los Subdirectores o Coordinadores que de ellos dependan en función de la competencia del asunto.
-
-En caso de las ausencias de los servidores públicos adscritos a las unidades administrativas del Comité Nacional, se podrá designar a un encargado de despacho para el área que así lo requiera el cual tendrá las mismas atribuciones del área de la cual se esté encargando.
+Contacto: 222 302 7489 y/o patricia.gonzalez@puebla.gob.mx
 
 ## TRANSITORIOS
 
-PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO. El presente ordenamiento entrará en vigor al día siguiente de su publicación.
 
-SEGUNDO.- El presente Estatuto será inscrito en el Registro Público de Organismos Descentralizados de acuerdo a lo señalado en el artículo 25 la Ley Federal de las Entidades Paraestatales hasta que dicho Registro entre en funciones.
+SEGUNDO. Se abroga el Código de Conducta de la Secretaría Gobernación, aprobado en la Segunda Sesión Ordinaria de fecha veintisiete de noviembre de dos mil veinte, del Comité de Ética y Prevención de Conflictos de Interés, publicado en el Periódico Oficial del Estado, el día diecinueve de marzo de dos mil veinte.
 
-TERCERO.- El Comité Nacional realizará las acciones necesarias para que la entrada en vigor del presente Estatuto se realice con cargo a su presupuesto modificado autorizado para el ejercicio fiscal correspondiente y no creará nuevas unidades administrativas.
+TERCERO. Se instruye al Comité de Ética y Prevención de Conflictos de Interés de la Secretaría Gobernación, su difusión a toda persona servidora pública de esta dependencia.
 
-México, D.F., a 10 de agosto de 2010.- La Directora General del Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar, Rocío de las Mercedes Nieves Bermúdez.- Rúbrica.
+Dado en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiún días del mes de agosto del año dos mil veinticuatro. El Secretario de Gobernación. C. JAVIER AQUINO LIMÓN. Rúbrica.
+
+ANEXO
+
+CARTA COMPROMISO PARA EL CUMPLIMIENTO DEL CÓDIGO DE ÉTICA Y LAS REGLAS DE INTEGRIDAD PARA EL EJERCICIO DE LA FUNCIÓN PÚBLICA Y AL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE GOBERNACIÓN DEL ESTADO
+
+Con fundamento en lo dispuesto por los artículos 109, fracción III, de la Constitución Política de los Estados Unidos Mexicanos, 125, fracción IV, de la Constitución Política del Estado Libre y Soberano de Puebla y 7, 16 y 49, fracción I, de la Ley General de Responsabilidades Administrativas, declaro que conozco y comprendo íntegramente el contenido del Código de Ética, así como las Reglas de Integridad para el Ejercicio de la Función Pública,
+
+Por ello, de manera voluntaria y en concordancia con mi vocación de servicio público, es mi deseo comprometerme a:
+
+1. Conducir mi actuación y a observar un comportamiento de acuerdo a la normatividad antes citada, asegurando que mis acciones estén en consonancia con la política estatal anticorrupción.
+
+2. Hacer de conocimiento, de manera oportuna, mis preocupaciones, dilemas éticos o la información que tenga de la posible actualización de un conflicto de interés ante el Comité de Ética y de Prevención de Conflictos de Interés de esta Secretaría.
+
+3. Actuar sin represalias contra nadie por manifestar sus preocupaciones por posibles vulneraciones a la normatividad antes referida, fomentando un entorno seguro y de confianza.
+
+4. Cooperar total y transparentemente con las investigaciones que realice el Comité o el Órgano Interno de Control, previo requerimiento, por posibles vulneraciones a las disposiciones señaladas, y
+
+5. Evitar cualquier conducta que pueda resultar antiética o dañar la imagen de esta Secretaría y, en general del servicio público.
+
+En ese tenor, como persona servidora pública estoy consciente de las sanciones a las cuales puedo ser objeto ante el incumplimiento de estas disposiciones.
+
+Suscribo esta carta (nombre completo): ____________
+
+Cargo: ____________
+
+Unidad Administrativa: ____________
+
+Fecha y firma: ____________
