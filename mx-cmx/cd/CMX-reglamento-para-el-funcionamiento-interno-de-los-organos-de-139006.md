@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-funcionamiento-interno-de-los-organos-de-139
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-11-04"
-last_updated: "2019-11-04"
+last_updated: "2026-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139006&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,7 +20,11 @@ issue_date: "2019-10-21"
 ---
 # REGLAMENTO PARA EL FUNCIONAMIENTO INTERNO DE LOS ORGANOS DE REPRESENTACION PREVISTOS EN LA LEY DE PARTICIPACION CIUDADANA DE LA CIUDAD DE MEXICO
 
-REGLAMENTO PARA EL FUNCIONAMIENTO INTERNO DE LOS ÓRGANOS DE REPRESENTACIÓN PREVISTOS EN LA LEY DE PARTICIPACIÓN DE LA CIUDAD DE MÉXICO
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO DE LAS COMISIONES DE PARTICIPACIÓN COMUNITARIA Y DE LAS COORDINADORAS DE PARTICIPACIÓN COMUNITARIA [IECM/ACU-CG-040/2026], PUBLICADO EN LA G.O. DE 19 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+REGLAMENTO PARA EL FUNCIONAMIENTO INTERNO DE LOS ÓRGANOS DE REPRESENTACIÓN PREVISTOS EN LA LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JUNIO DE 2026 (ABROGADO).
 
 TEXTO ORIGINAL.
 
@@ -98,7 +102,7 @@ En razón de lo expuesto y fundado este Consejo General emite el siguiente:
 
 A c u e r d o:
 
-PRIMERO. Se aprueba el Reglamento para el funcionamiento interior de los órganos de representación previstos en la Ley de Participación Ciudadana de la Ciudad de México, en términos de lo previsto en el presente Acuerdo y su Anexo, el cual forma parte integral del mismo.
+PRIMERO. Se aprueba el Reglamento para el funcionamiento interior (sic) de los órganos de representación previstos en la Ley de Participación Ciudadana de la Ciudad de México, en términos de lo previsto en el presente Acuerdo y su Anexo, el cual forma parte integral del mismo.
 
 SEGUNDO. El presente Acuerdo y su Anexo entrarán en vigor a partir de su publicación en los estrados de las oficinas centrales del Instituto Electoral.
 
@@ -1395,3 +1399,29 @@ Las resoluciones que emitan las Direcciones Distritales o cabecera de demarcaci�
 PRIMERO. El presente Reglamento entrará en vigor al momento de su publicación en los estrados de las oficinas centrales del Instituto Electoral de la Ciudad de México.
 
 SEGUNDO. Las disposiciones atinentes a las Asambleas Ciudadanas se regirán en términos de la normativa que al efecto apruebe el Consejo General del Instituto Electoral de la Ciudad de México.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 19 DE JUNIO DE 2026.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba el Reglamento de las Comisiones de Participación Comunitaria y de las Coordinadoras de Participación Comunitaria, en términos de lo expuesto en la parte considerativa del presente Acuerdo; mismo que forma parte integral del presente Acuerdo como Anexo.
+
+SEGUNDO. Se abroga el Reglamento para el funcionamiento interno de los órganos de representación previstos en la Ley de Participación Ciudadana de la Ciudad de México, aprobado por Acuerdo IECM/ACU-CG-062/2019.
+
+TERCERO. El presente Acuerdo y su Anexo entrarán en vigor a partir de su publicación en los estrados de las oficinas centrales de este Instituto Electoral.
+
+CUARTO. Se instruye a la Dirección Ejecutiva de Participación Ciudadana y Capacitación, así como a las treinta y tres Direcciones Distritales del Instituto Electoral de la Ciudad de México para que, dentro de su ámbito de competencia, lleven a cabo las acciones necesarias para el debido cumplimiento del presente Acuerdo.
+
+QUINTO. Se instruye a la Secretaría Ejecutiva difundir el presente Acuerdo mediante Circular al personal de oficinas centrales y órganos desconcentrados.
+
+SEXTO. Se instruye a las 33 Direcciones Distritales del Instituto Electoral para que den a conocer el Reglamento que se aprueba a las personas integrantes de COPACO de las Unidades Territoriales de sus ámbitos distritales correspondientes.
+
+SÉPTIMO. Remítase el presente Acuerdo y su Anexo a la Gaceta Oficial para su publicación.
+
+OCTAVO. Se instruye a la Dirección Ejecutiva de Género, Derechos Humanos, Educación Cívica y Construcción Ciudadana, en coordinación con la Unidad Técnica de Asuntos Jurídicos y con las Direcciones Ejecutivas de Asociaciones Políticas y Fiscalización, así como la de Participación Ciudadana y Capacitación que elaboren en un término no mayor de 90 días naturales, a partir de la aprobación del presente Acuerdo, cursos de capacitación para la atención de casos de violencia política en razón de género al interior de las COPACO y de las Coordinadoras de Participación Comunitaria.
+
+NOVENO. Publíquese el presente Acuerdo y su Anexo en los estrados de las oficinas centrales, en los estrados electrónicos y para mayor difusión en los estrados de las oficinas de las treinta y tres Direcciones Distritales de este Instituto Electoral.
+
+DÉCIMO. Publíquese el presente Acuerdo y su Anexo en la página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase el mismo en las redes sociales en que este Instituto participa.
