@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2025-09-08"
+last_updated: "2026-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -1530,6 +1530,14 @@ Las cuotas de recuperación que en su caso se recauden por la prestación de ser
 Para la determinación de las cuotas de recuperación, se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario. Se fundarán en principios de solidaridad social, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas o en las zonas de menor desarrollo económico y social, conforme a las disposiciones legales que al efecto emita el Gobierno del Estado.
 
 Se consideran sujetos preferentes de exención a los grupos vulnerables.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2026)</small>
+
+Se eximirá del cobro de cuotas de recuperación a las mujeres que en términos del artículo 301 párrafo segundo del Código Familiar del Estado de Sinaloa, demanden ante el Juez respectivo la realización de las pruebas de los grupos sanguíneos y otros marcadores genéticos, como el estudio del ácido desoxirribonucleico o análisis biológico molecular entre el hijo y el presunto padre, una vez que el órgano jurisdiccional respectivo haya ordenado la realización de la prueba respectiva. Bajo el mismo principio de gratuidad, dicho beneficio se hará extensivo al varón que solicite el reconocimiento de la filiación o la aclaración del vínculo biológico ante la incertidumbre sobre su paternidad, garantizando con ello la equidad procesal en la determinación de los derechos y obligaciones derivados del parentesco.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2026)</small>
+
+A efecto de concretarse lo establecido en el párrafo anterior, la Secretaría de Salud deberá establecer qué instituciones públicas de salud están obligadas a garantizar la oportuna realización de las pruebas referidas.
 
 ###### Artículo 102.
 
@@ -3758,3 +3766,15 @@ P.O. 8 DE SEPTIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 19 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 420 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA EL ARTÍCULO 301 DEL CÓDIGO FAMILIAR Y ADICIONA LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 101, DE LA LEY DE SALUD, AMBAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud del Poder Ejecutivo del Estado de Sinaloa dentro de los sesenta días hábiles siguientes al inicio de vigencia del presente Decreto, deberá publicar en el Periódico Oficial "El Estado de Sinaloa" el listado de instituciones públicas donde se realicen de forma gratuita a las mujeres el trámite para las tomas de las pruebas de los grupos sanguíneos y otros marcadores genéticos, así como el estudio del ácido desoxirribonucleico o análisis biológico molecular entre el hijo y el presunto padre.
