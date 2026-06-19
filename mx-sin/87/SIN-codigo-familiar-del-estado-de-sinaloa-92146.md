@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2025-07-16"
+last_updated: "2026-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -2169,7 +2169,9 @@ Para justificar la filiación, son admisibles los medios de prueba biológicos, 
 
 En los juicios sobre investigación o impugnación de la paternidad, son admisibles todo tipo de pruebas de los grupos sanguíneos y otros marcadores genéticos, como el estudio del ácido desoxirribonucleico o análisis biológico molecular entre el hijo y el presunto padre o madre, con el objeto de probar la existencia o ausencia del vínculo, realizadas por instituciones o empresas legalmente autorizadas por la Secretaría de Salud o, en su caso, por laboratorios pertenecientes al Estado.
 
-El juez o tribunal ordenará, a costa de la dependencia del Poder Ejecutivo que éste designe para la realización de la pericial genética, cuando la actora carezca de capacidad económica para cubrir su importe o cuando la parte demandada se allane a la demanda, bajo condición de que la pericial biológica resulte positiva, pero también se presumirá la filiación cuando el demandado se niegue, a someterse a dicha prueba. En el desconocimiento de paternidad o maternidad, la presunción anterior no aplica.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2026)</small>
+
+El Juez o tribunal ordenará la realización de la pericial genética a costa de la Dependencia del Poder Ejecutivo que este designe, cuando la parte actora manifieste carecer de los recursos económicos para cubrir el costo de la prueba. Asimismo, se presumirá la filiación cuando el demandado se niegue, a someterse a dicha prueba. En el desconocimiento de paternidad o maternidad, la presunción anterior no aplica.
 
 ### Capítulo VII. De la Investigación de la Paternidad y la Maternidad
 
@@ -7842,3 +7844,15 @@ P.O. 16 DE JULIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 19 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 420 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA EL ARTÍCULO 301 DEL CÓDIGO FAMILIAR Y ADICIONA LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 101, DE LA LEY DE SALUD, AMBAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud del Poder Ejecutivo del Estado de Sinaloa dentro de los sesenta días hábiles siguientes al inicio de vigencia del presente Decreto, deberá publicar en el Periódico Oficial "El Estado de Sinaloa" el listado de instituciones públicas donde se realicen de forma gratuita a las mujeres el trámite para las tomas de las pruebas de los grupos sanguíneos y otros marcadores genéticos, así como el estudio del ácido desoxirribonucleico o análisis biológico molecular entre el hijo y el presunto padre.
