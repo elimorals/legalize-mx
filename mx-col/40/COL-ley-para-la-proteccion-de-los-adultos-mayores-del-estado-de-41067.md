@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2025-11-15"
+last_updated: "2026-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA
+LEY PARA LA PROTECCIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2026.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -37,21 +37,21 @@ D E C R E T O No. 104
 
 "ARTÍCULO UNICO.- Se aprueba la Ley para la Protección de Los Adultos en Plenitud del Estado de Colima, para quedar como sigue:
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JUNIO DE 2026)</small>
 
-LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA
+LEY PARA LA PROTECCIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COLIMA
 
 ## TÍTULO PRIMERO. PREVENCIONES GENERALES
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 1°.
 
-La presente Ley es de orden público e interés social y de observancia general, su objeto es establecer las normas de protección y los derechos de los Adultos Mayores, para que puedan integrarse a la vida social, productiva, cultural y educativa, así como establecer las bases y disposiciones para su cumplimiento, mediante la regulación de:
+La presente Ley es de orden público e interés social y de observancia general, su objeto es establecer las normas de protección y los derechos de las Personas Adultas Mayores, para que puedan integrarse a la vida social, productiva, cultural y educativa, así como establecer las bases y disposiciones para su cumplimiento, mediante la regulación de:
 
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE JUNIO DE 2026)</small>
 
 I. La política pública estatal para la observancia de los derechos de las personas adultas mayores;
 
@@ -67,9 +67,9 @@ III. El Instituto para la Atención de las Personas Adultas Mayores;
 
 Para los efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-I. ADULTOS MAYORES: A toda persona física de 60 años de edad o más;
+I. PERSONAS ADULTAS MAYORES: A toda persona física de 60 años de edad o más;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
 
@@ -113,15 +113,15 @@ I. Procurar asistencia técnica y financiera a instituciones y organismos públi
 
 II. Desarrollar, en forma coordinada con los municipios, programas de apoyo financiero y social; y
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-III. Fomentar la participación y apoyar la actividad de las organizaciones privadas cuyas acciones vayan orientadas a favorecer a los adultos mayores, a través de apoyos técnicos, humanos, laborales y de servicio.
+III. Fomentar la participación y apoyar la actividad de las organizaciones privadas cuyas acciones vayan orientadas a favorecer a las personas adultas mayores, a través de apoyos técnicos, humanos, laborales y de servicio.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 5°.
 
-Las Dependencias Estatales y Municipales dentro de sus planes, proyectos y programas que lleven a cabo, deberán incluir de manera expresa el apoyo a los adultos mayores.
+Las Dependencias Estatales y Municipales dentro de sus planes, proyectos y programas que lleven a cabo, deberán incluir de manera expresa el apoyo a las personas adultas mayores.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
@@ -129,29 +129,31 @@ Las Dependencias Estatales y Municipales dentro de sus planes, proyectos y progr
 
 Corresponde a las Secretarías de Desarrollo Social y de Salud y Bienestar Social, así como al DIF Estatal, apoyar al Instituto para promover la interrelación sistemática de acciones a favor de los adultos mayores que lleven a cabo las instituciones públicas; además de realizar estudios e investigaciones en la materia y participar en programas de educación para adultos, psicología de la vejez, planeación de servicios asistenciales, ejecución de programas en relación con la vejez, nutrición, salud y brindar asistencia social a este sector de la población.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 7°.
 
-El Ejecutivo del Estado a través del Instituto, promoverá, ejecutará y coordinará con la Federación y los Municipios convenios de colaboración, para que las Instituciones Públicas de Salud y Asistencia Social implementen programas preventivos hacia los adultos mayores, brinden información gerontológica disponible en los ámbitos médico, socioeconómico, jurídico y demás relativos, con el objeto de incrementar la cultura del adulto mayor.
+El Ejecutivo del Estado a través del Instituto, promoverá, ejecutará y coordinará con la Federación y los Municipios convenios de colaboración, para que las Instituciones Públicas de Salud y Asistencia Social implementen programas preventivos hacia las personas adultas mayores, brinden información gerontológica disponible en los ámbitos médico, socioeconómico, jurídico y demás relativos, con el objeto de incrementar la cultura de las personas adultas mayores.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 8°.
 
-Corresponderá al titular del Poder Ejecutivo a través del Instituto, a los Ayuntamientos, a los sistemas DIF, Estatal y Municipales, a las instituciones públicas y privadas en el ámbito de su competencia y a las familias de los adultos mayores, informar sobre el nivel de bienestar y calidad de vida de los adultos mayores, así como conocer y difundir la presente Ley.
+Corresponderá al titular del Poder Ejecutivo a través del Instituto, a los Ayuntamientos, a los sistemas DIF, Estatal y Municipales, a las instituciones públicas y privadas en el ámbito de su competencia y a las familias de las personas adultas mayores, informar sobre el nivel de bienestar y calidad de vida de las personas adultas mayores, así como conocer y difundir la presente Ley.
 
-La información obtenida deberá utilizarse para actualizar el padrón de beneficiarios de adultos mayores con el fin de que las autoridades, en el ámbito de sus competencias, brinden y presten los servicios que señala esta Ley, en favor de los adultos mayores que así lo requieran.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JULIO DE 2019)</small>
+La información obtenida deberá utilizarse para actualizar el padrón de beneficiarios de las personas adultas mayores con el fin de que las autoridades, en el ámbito de sus competencias, brinden y presten los servicios que señala esta Ley, en favor de las personas adultas mayores que así lo requieran.
 
-### CAPÍTULO II. De los Derechos de los Adultos Mayores
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
+### CAPÍTULO II. De los Derechos de las Personas Adultas Mayores
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 9º.
 
-Son derechos que la Ley reconoce y protege a favor de los adultos mayores:
+Son derechos que la Ley reconoce y protege a favor de las personas adultas mayores:
 
 I. La protección a su integridad y dignidad;
 
@@ -177,9 +179,9 @@ XI. Recibir protección contra toda forma de explotación;
 
 XII. Recibir protección por parte de la comunidad, la familia y la sociedad, así como las instituciones estatales y municipales;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XIII. Recibir orientación por parte de los gobiernos estatal y municipales mediante iniciativas de acción que puedan servir de base para políticas integrales referidas a los adultos mayores;
+XIII. Recibir orientación por parte de los gobiernos estatal y municipales mediante iniciativas de acción que puedan servir de base para políticas integrales referidas a las personas adultas mayores;
 
 XIV. Que se refuercen las medidas de protección, orientación, apoyo y trato humanitario en materia de procuración y administración de justicia;
 
@@ -193,9 +195,9 @@ XVI. Ser respetados en sus derechos fundamentales de independencia, participaci�
 
 XVII. Participar en la planeación del desarrollo social, a través de la formulación y aplicación de las decisiones que afecten directamente su bienestar;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XVIII. De asociarse y conformar organizaciones de adultos mayores para promover su desarrollo e incidir en las acciones dirigidas a ese sector;
+XVIII. De asociarse y conformar organizaciones de las personas adultas mayores para promover su desarrollo e incidir en las acciones dirigidas a ese sector;
 
 XIX. Ocupar su tiempo libre y realizar giras de turismo social;
 
@@ -209,19 +211,19 @@ XXIII. Ser beneficiarios de los porcentajes de descuentos en transporte público
 
 XXIV. Ser sujetos de programas para contar con una vivienda digna y adaptada a sus necesidades; y,
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XXV. Ser sujetos de programas para tener acceso a una casa hogar o albergue, u otras alternativas de atención integral, así como todos los servicios que le garanticen el respeto a su dignidad de adulto mayor, si se encuentra en situación de riesgo o desamparo.
+XXV. Ser sujetos de programas para tener acceso a una casa hogar o albergue, u otras alternativas de atención integral, así como todos los servicios que le garanticen el respeto a su dignidad de persona adulta mayor, si se encuentra en situación de riesgo o desamparo.
 
 > <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 XXVI. Una vida libre de violencia física, psicológica, sexual, económica, patrimonial o de cualquier otro tipo.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 10.
 
-En el Estado de Colima, los adultos mayores gozarán de las facilidades de tránsito que les otorgue la presente Ley y la Legislación Vial, debiéndose promover las adecuaciones urbanísticas y arquitectónicas acordes a las necesidades de este sector de la población, siendo responsables de toda acción u omisión. Asimismo promover campañas de difusión y medidas en materia de educación vial.
+En el Estado de Colima, las personas adultas mayores gozarán de las facilidades de tránsito que les otorgue la presente Ley y la Legislación Vial, debiéndose promover las adecuaciones urbanísticas y arquitectónicas acordes a las necesidades de este sector de la población, siendo responsables de toda acción u omisión. Asimismo, promover campañas de difusión y medidas en materia de educación vial.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JULIO DE 2019)</small>
 
@@ -235,13 +237,15 @@ En el Estado de Colima, los adultos mayores gozarán de las facilidades de trán
 
 Se crea el Instituto para la atención de los Adultos Mayores como un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica, patrimonio propio, autonomía técnica y de gestión para el cumplimiento de sus objetivos y fines.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 12.
 
-Este organismo público tiene por objeto coordinar todas las acciones públicas a favor de los adultos mayores, así como promover, apoyar, fomentar, vigilar y evaluar estrategias y programas que se deriven de ella, de conformidad con los principios, objetivos y disposiciones contenidas en la presente Ley.
+Este organismo público tiene por objeto coordinar todas las acciones públicas a favor de las personas adultas mayores, así como promover, apoyar, fomentar, vigilar y evaluar estrategias y programas que se deriven de ella, de conformidad con los principios, objetivos y disposiciones contenidas en la presente Ley.
 
-El Instituto deberá unificar criterios con las demás Instituciones que den servicio a los adultos mayores, elaborando conjuntamente planes, proyectos y programas para brindarles apoyo integral, evitando duplicidad de servicios.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
+
+El Instituto deberá unificar criterios con las demás Instituciones que den servicio a las personas adultas mayores, elaborando conjuntamente planes, proyectos y programas para brindarles apoyo integral, evitando duplicidad de servicios.”
 
 ###### Artículo 13.
 
@@ -251,113 +255,113 @@ El Instituto tendrá su domicilio legal en la Ciudad de Colima y ejercerá sus f
 
 Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-I. Impulsar las acciones del Estado y la sociedad, para promover el desarrollo humano integral de los adultos mayores, coadyuvando para que sus distintas capacidades sean valoradas y aprovechadas en el desarrollo comunitario, económico y social del Estado;
+I. Impulsar las acciones del Estado y la sociedad, para promover el desarrollo humano integral de las personas adultas mayores, coadyuvando para que sus distintas capacidades sean valoradas y aprovechadas en el desarrollo comunitario, económico y social del Estado;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-II. Proteger, asesorar, atender y orientar a los adultos mayores y coadyuvar en la prestación de servicios de orientación jurídica con las instituciones correspondientes;
+II. Proteger, asesorar, atender y orientar a las personas adultas mayores y coadyuvar en la prestación de servicios de orientación jurídica con las instituciones correspondientes;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-III. Ser el órgano de consulta y asesoría obligatorio para las dependencias y entidades de la Administración Pública Estatal y, en su caso, voluntaria para las instituciones de los sectores social y privado, que realicen programas relacionados con los adultos mayores;
+III. Ser el órgano de consulta y asesoría obligatorio para las dependencias y entidades de la Administración Pública Estatal y, en su caso, voluntaria para las instituciones de los sectores social y privado, que realicen programas relacionados con las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-IV. Establecer principios, criterios, indicadores y normas para el diseño, análisis, ejecución y evaluación de las políticas dirigidas a los adultos mayores, así como para jerarquizar y orientar sobre las prioridades, objetivos y metas en la materia, a efecto de atenderlas mediante los programas impulsados por las dependencias y entidades de la Administración Pública Estatal, por los municipios y los sectores privado y social, de conformidad con sus respectivas atribuciones y ámbitos de competencia;
+IV. Establecer principios, criterios, indicadores y normas para el diseño, análisis, ejecución y evaluación de las políticas dirigidas a las personas adultas mayores, así como para jerarquizar y orientar sobre las prioridades, objetivos y metas en la materia, a efecto de atenderlas mediante los programas impulsados por las dependencias y entidades de la Administración Pública Estatal, por los municipios y los sectores privado y social, de conformidad con sus respectivas atribuciones y ámbitos de competencia;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-V. Elaborar y difundir campañas de comunicación para contribuir al fortalecimiento de los valores referidos a la solidaridad intergeneracional y el apoyo familiar en la vejez; revalorizar los aportes de los adultos mayores en los ámbitos social, económico, laboral y familiar; así como promover la protección de sus derechos y el reconocimiento a su experiencia y capacidades;
+V. Elaborar y difundir campañas de comunicación para contribuir al fortalecimiento de los valores referidos a la solidaridad intergeneracional y el apoyo familiar en la vejez; revalorizar los aportes de las personas adultas mayores en los ámbitos social, económico, laboral y familiar; así como promover la protección de sus derechos y el reconocimiento a su experiencia y capacidades;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-VI. Promover en coordinación con las autoridades competentes, en los términos de la legislación aplicable, que la prestación de los servicios y atención que se brinde a los adultos mayores, en las instituciones, casas hogar, o cualquier otro centro de atención, se realice con calidad y calidez, cumpliendo con sus programas, objetivos y metas para su desarrollo humano integral;
+VI. Promover en coordinación con las autoridades competentes, en los términos de la legislación aplicable, que la prestación de los servicios y atención que se brinde a las personas adultas mayores, en las instituciones, casas hogar, o cualquier otro centro de atención, se realice con calidad y calidez, cumpliendo con sus programas, objetivos y metas para su desarrollo humano integral;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-VII. Brindar la capacitación que requiera el personal de las instituciones, casas hogar, o cualquier otro centro que brinden servicios y atención a los adultos mayores;
+VII. Brindar la capacitación que requiera el personal de las instituciones, casas hogar, o cualquier otro centro que brinden servicios y atención a las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-VIII. Realizar visitas de inspección y vigilancia a instituciones públicas y privadas, casas hogar, o cualquier otro centro de atención para los adultos mayores, para verificar las condiciones de funcionamiento, capacitación de su personal, modelo de atención y condiciones de la calidad y calidez de vida;
+VIII. Realizar visitas de inspección y vigilancia a instituciones públicas y privadas, casas hogar, o cualquier otro centro de atención para las personas adultas mayores, para verificar las condiciones de funcionamiento, capacitación de su personal, modelo de atención y condiciones de la calidad y calidez de vida;
 
 IX. Hacer del conocimiento de las autoridades competentes, de las anomalías que se detecten durante las visitas realizadas a los lugares que se mencionan en la fracción anterior;
 
 X. Recibir y evaluar los informes de labores de los centros de atención que permitan conocer la calidez de los servicios prestados;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XI. Celebrar convenios con los gremios de comerciantes o prestadores de servicios para obtener descuentos en los precios de los bienes y servicios que presten a la comunidad a favor de los adultos mayores;
+XI. Celebrar convenios con los gremios de comerciantes o prestadores de servicios para obtener descuentos en los precios de los bienes y servicios que presten a la comunidad a favor de las personas adultas mayores;
 
 XII. Establecer reuniones con instituciones afines, nacionales e internacionales, para intercambiar experiencias que permitan orientar las acciones y programas en busca de nuevas alternativas de atención;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XIII. Promover la participación de los adultos mayores en todas las áreas de la vida pública, a fin de que sean copartícipes y protagonistas de su propio cambio;
+XIII. Promover la participación de las personas adultas mayores en todas las áreas de la vida pública, a fin de que sean copartícipes y protagonistas de su propio cambio;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XIV. Promover, fomentar y difundir en la población una cultura de protección, comprensión, cariño y respeto a los adultos mayores;
+XIV. Promover, fomentar y difundir en la población una cultura de protección, comprensión, cariño y respeto a las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XV. Promover y difundir las acciones y programas de atención integral a favor de los adultos mayores, así como los resultados de las investigaciones sobre la vejez y su participación social, política y económica;
+XV. Promover y difundir las acciones y programas de atención integral a favor de las personas adultas mayores, así como los resultados de las investigaciones sobre la vejez y su participación social, política y económica;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XVI. Promover la suscripción de convenios con las instituciones de educación superior para la realización de estudios de investigación social para impulsar el desarrollo humano integral de los adultos mayores;
+XVI. Promover la suscripción de convenios con las instituciones de educación superior para la realización de estudios de investigación social para impulsar el desarrollo humano integral de las personas adultas mayores;
 
 XVII. Promover la suscripción de convenios para acceder a empleos temporales;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XVIII. Otorgar pensiones a los adultos mayores, en los términos establecidos en esta Ley y su reglamento;
+XVIII. Otorgar pensiones a las personas adultas mayores, en los términos establecidos en esta Ley y su reglamento;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XIX. Llevar un padrón de beneficiarios de adultos mayores actualizado y con transparencia, observando las disposiciones generales en materia de transparencia;
+XIX. Llevar un padrón de beneficiarios de las personas adultas mayores actualizado y con transparencia, observando las disposiciones generales en materia de transparencia;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
 XX. Expedir credenciales de afiliación a las personas adultas mayores con el fin de que gocen de beneficios que resulten de las disposiciones de la presente ley y de otros ordenamientos jurídicos aplicables;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
 XXI. Expedir calcomanías oficiales con código de seguridad y el logotipo que identifique a las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XXII. Llevar el registro de personas físicas o morales que de manera altruista presten ayuda a los adultos mayores;
+XXII. Llevar el registro de personas físicas o morales que de manera altruista presten ayuda a las personas adultas mayores;
 
 XXIII. Colaborar en la elaboración de las evaluaciones a los programas o proyectos que sean establecidos dentro del ámbito de esta Ley, a efecto de presentar las observaciones que correspondan al Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XXIV. Proponer reconocimientos a las personas físicas o morales que se hayan distinguido en la promoción y defensa de los derechos de los adultos mayores; y
+XXIV. Proponer reconocimientos a las personas físicas o morales que se hayan distinguido en la promoción y defensa de los derechos de las personas adultas mayores; y
 
 XXV. Elaborar su Reglamento Interno.
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XXVI. Celebrar de (sic) convenios con los Colegios de Notarios o prestadores de servicios para obtener descuentos en los precios de los servicios que presten a favor de los adultos mayores, así como acompañar, atender y orientar a los adultos mayores en relación a la prestación de los servicios profesionales en materia notarial;
+XXVI. Celebrar de (sic) convenios con los Colegios de Notarios o prestadores de servicios para obtener descuentos en los precios de los servicios que presten a favor de las personas adultas mayores, así como acompañar, atender y orientar a las personas adultas mayores en relación a la prestación de los servicios profesionales en materia notarial;
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XXVII. Establecer las acciones enfocadas a la prevención, detección y erradicación de cualquier tipo de violencia en contra de los adultos mayores;
+XXVII. Establecer las acciones enfocadas a la prevención, detección y erradicación de cualquier tipo de violencia en contra de las personas adultas mayores;
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XXVIII. Realizar campañas y acciones específicas de sensibilización e información, relativa a las diversas formas de violencia en contra de los adultos mayores para prevenir y concientizar a la sociedad acerca del derecho de las personas adultas mayores a vivir una vida libre de violencia;
+XXVIII. Realizar campañas y acciones específicas de sensibilización e información, relativa a las diversas formas de violencia en contra de las personas adultas mayores para prevenir y concientizar a la sociedad acerca del derecho de las personas adultas mayores a vivir una vida libre de violencia;
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
 XXIX. Impulsar la realización de investigaciones en temas gerontológicos y geriátricos, así como elaborar y actualizar los diagnósticos de las problemáticas y necesidades de las personas adultas mayores; y
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XXX. Promover la capacitación necesaria sobre el uso de las nuevas tecnologías de la información y comunicación para los adultos mayores Para lo anterior, el Instituto podrá crear un Seminario Digital para el Adulto Mayor así como la realización de convenios con otras secretarías, subsecretarías e instituciones para que dicha capacitación tenga validez oficial.
+XXX. Promover la capacitación necesaria sobre el uso de las nuevas tecnologías de la información y comunicación para las personas adultas mayores Para lo anterior, el Instituto podrá crear un Seminario Digital para las Personas Adultas Mayores así como la realización de convenios con otras secretarías, subsecretarías e instituciones para que dicha capacitación tenga validez oficial.
 
 ### CAPÍTULO II. De su gobierno, administración y vigilancia
 
@@ -365,11 +369,11 @@ XXX. Promover la capacitación necesaria sobre el uso de las nuevas tecnologías
 
 Para el estudio, planeación y despacho de los asuntos que le competen, el Instituto contará con un Consejo Directivo y una Dirección General y las estructuras administrativas que establezca su Reglamento Interno.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 16.
 
-El Consejo Directivo es el órgano de gobierno del Instituto, responsable de la planeación y del diseño y programación de las políticas públicas anuales que permitan coordinar y ejecutar los programas y acciones a favor de los adultos mayores.
+El Consejo Directivo es el órgano de gobierno del Instituto, responsable de la planeación y del diseño y programación de las políticas públicas anuales que permitan coordinar y ejecutar los programas y acciones a favor de las personas adultas mayores.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
 
@@ -513,19 +517,19 @@ XI. Ejecutar los acuerdos que tome el Consejo Directivo.
 
 Las relaciones de trabajo entre el Instituto y sus trabajadores, se regirán por la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JUNIO DE 2026)</small>
 
-### CAPÍTULO III. Del Consejo Técnico de los Adultos Mayores
+### CAPÍTULO III. Del Consejo Técnico de las Personas Adultas Mayores
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 27.
 
-El Instituto contará con un Consejo Técnico de Adultos mayores, que tendrá por objeto dar seguimiento a los programas, opinar sobre los mismos, recabar las propuestas de la ciudadanía con relación a los adultos mayoresy (sic) presentarlas al Consejo Directivo.
+El Instituto contará con un Consejo Técnico de Personas Adultas Mayores, que tendrá por objeto dar seguimiento a los programas, opinar sobre los mismos, recabar las propuestas de la ciudadanía con relación a las personas adultas mayores y presentarlas al Consejo Directivo.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
-Este Consejo se integrará con diez adultos mayores de sobresaliente trayectoria en el área en que se desempeñen, de manera equitativa en cuanto a género, los cuales serán seleccionados por el Consejo Directivo a convocatoria formulada a las instituciones públicas, privadas y sociedad civil.
+Este Consejo se integrará con diez personas adultas mayores de sobresaliente trayectoria en el área en que se desempeñen, de manera equitativa en cuanto a género, los cuales serán seleccionados por el Consejo Directivo a convocatoria formulada a las instituciones públicas, privadas y sociedad civil.
 
 El cargo de Consejero será de carácter honorario. Los requisitos, atribuciones, tiempo de duración del encargo, procedimiento para su designación y funcionamiento del Consejo se establecerán en el reglamento correspondiente.
 
@@ -553,57 +557,57 @@ V. Las aportaciones del gobierno federal y ayuntamientos; y los demás bienes, r
 
 ### CAPÍTULO I. De la Competencia de las Autoridades
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 29.
 
-Corresponde a los Titulares de los Poderes Ejecutivo, Legislativo y Judicial del Estado, a las Secretarías, al DIF, a los Gobiernos Municipales y a las dependencias y organismos públicos descentralizados, en los ámbitos de su competencia, acatar los siguientes derechos con relación a los adultos mayores:
+Corresponde a los Titulares de los Poderes Ejecutivo, Legislativo y Judicial del Estado, a las Secretarías, al DIF, a los Gobiernos Municipales y a las dependencias y organismos públicos descentralizados, en los ámbitos de su competencia, acatar los siguientes derechos con relación a las personas adultas mayores:
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-I. Derechos Humanos: Difundir y constatar que se cumplan los derechos humanos de los adultos mayores por los organismos correspondientes;
+I. Derechos Humanos: Difundir y constatar que se cumplan los derechos humanos de las personas adultas mayores por los organismos correspondientes;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-II. Procuración de Justicia: proveer de mejores acciones, simplificando trámites en caso de que el adulto mayor sea la víctima;
+II. Procuración de Justicia: Proveer de mejores acciones, simplificando trámites en caso de que la persona adulta mayor sea la víctima;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-III. Asistencia Social: impulsar la prestación de servicios asistenciales a los adultos mayores en situación de abandono o marginados, en los términos que marque la Ley de la materia;
+III. Asistencia Social: Impulsar la prestación de servicios asistenciales a las personas adultas mayores en situación de abandono o marginados, en los términos que marque la Ley de la materia;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-IV. Bolsa de Trabajo: Implementar un sistema estatal de Bolsa de Trabajo, donde se rescate el potencial de los adultos mayores ante el sector empresarial y la sociedad en general;
+IV. Bolsa de Trabajo: Implementar un sistema estatal de Bolsa de Trabajo, donde se rescate el potencial de las personas adultas mayores ante el sector empresarial y la sociedad en general;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-V. Educación: Promover y fomentar cursos de educación básica o de capacitación para que los adultos mayores puedan incrementar su potencialidad;
+V. Educación: Promover y fomentar cursos de educación básica o de capacitación para que las personas adultas mayores puedan incrementar su potencialidad;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-VI. Deportes y Recreación: Fomentar la organización y participación de los adultos mayores en actividades deportivas, creando espacios dentro de los campos deportivos para ellos;
+VI. Deportes y Recreación: Fomentar la organización y participación de las personas adultas mayores en actividades deportivas, creando espacios dentro de los campos deportivos para ellos;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-VII. Cultural: Fomentar la cultura nacional entre los adultos mayores y difundirla por medio de exposiciones y otros medios;
+VII. Cultural: Fomentar la cultura nacional entre las personas adultas mayores y difundirla por medio de exposiciones y otros medios;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-VIII. Turismo: Promover el turismo en forma accesible de los adultos mayores, en el interior del estado o fuera de éste por medio de la creación de clubes de la tercera edad;
+VIII. Turismo: Promover el turismo en forma accesible de las personas adultas mayores, en el interior del estado o fuera de éste por medio de la creación de clubes de la tercera edad;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-IX. Comunicación Social: Implementar en los medios de comunicación impresos y electrónicos, la apertura de cápsulas y programas especiales a favor de los adultos mayores;
+IX. Comunicación Social: Implementar en los medios de comunicación impresos y electrónicos, la apertura de cápsulas y programas especiales a favor de las personas adultas mayores;
 
 X. Salud: Promover campañas para incentivar la preparación de especialistas en el ámbito de la Gerontología y la Geriatría, así como estimular la creación de unidades gerontológicas y geriátricas en los diferentes centros de salud y hospitales, así como unidades psicogeriátricas para la atención del paciente con síndrome de deterioro mental, brindando trato preferencial dentro del sector salud a aquellas personas que estén desprovistas de atención médica;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-XI. Vivienda Digna: Promover créditos a bajas tasas o subsidios, para el mejoramiento físico de las viviendas de los adultos mayores, así como brindarles la oportunidad de acceder a una vivienda digna y decorosa que cumpla con las necesidades de desplazamiento; y
+XI. Vivienda Digna: Promover créditos a bajas tasas o subsidios, para el mejoramiento físico de las viviendas de las personas adultas mayores, así como brindarles la oportunidad de acceder a una vivienda digna y decorosa que cumpla con las necesidades de desplazamiento; y
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE JUNIO DE 2026)</small>
 
-XII. Premios y Reconocimientos: Reconocer y premiar a los adultos mayores más destacados dentro de las siguientes categorías:
+XII. Premios y Reconocimientos: Reconocer y premiar a las personas adultas mayores más destacados (sic) dentro de las siguientes categorías:
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
@@ -619,47 +623,47 @@ b) Hombres y Mujeres de 65 años de edad o más, que se hayan destacado por su l
 
 ### CAPÍTULO II. De los Deberes del Estado
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 31.
 
-El Estado garantizará las condiciones óptimas de salud, educación, nutrición, vivienda y seguridad social, procurando con ello el desarrollo integral de los adultos mayores. Asimismo, deberá establecer programas para asegurar a todos los trabajadores una preparación adecuada para su retiro. El Estado promoverá la existencia de condiciones adecuadas para los adultos mayores, tanto en el transporte público como en los espacios arquitectónicos;
+El Estado garantizará las condiciones óptimas de salud, educación, nutrición, vivienda y seguridad social, procurando con ello el desarrollo integral de las personas adultas mayores. Asimismo, deberá establecer programas para asegurar a todos los trabajadores una preparación adecuada para su retiro. El Estado promoverá la existencia de condiciones adecuadas para las personas adultas mayores, tanto en el transporte público como en los espacios arquitectónicos.
 
 ###### Artículo 32.
 
 En materia sanitaria y asistencial el Estado aplicará las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-I. Organizar, operar, supervisar y evaluar acciones que en materia de asistencia social se lleven a cabo para modificar y mejorar las condiciones de carácter social que impidan al adulto mayor su desarrollo integral;
+I. Organizar, operar, supervisar y evaluar acciones que en materia de asistencia social se lleven a cabo para modificar y mejorar las condiciones de carácter social que impidan a la persona adulta mayor su desarrollo integral;
 
 II. Establecer normas técnicas correspondientes.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 33.
 
-El Estado promoverá la publicación y difusión de esta Ley para que la sociedad y las familias respeten a los adultos mayores y otorguen el reconocimiento a su dignidad.
+El Estado promoverá la publicación y difusión de esta Ley para que la sociedad y las familias respeten a las personas adultas mayores y otorguen el reconocimiento a su dignidad.
 
 ### CAPÍTULO III. De los Deberes de la Sociedad
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 34.
 
-Ningún adulto mayor podrá ser objeto de discriminación en ningún espacio público o privado por razón de su edad, género, estado físico o mental, creencia religiosa o condición social.
+Ninguna persona adulta mayor podrá ser objeto de discriminación en ningún espacio público o privado por razón de su edad, género, estado físico o mental, creencia religiosa o condición social.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 34 Bis.
 
-Cualquier miembro de la sociedad tiene el deber de auxiliar y apoyar a los adultos mayores en casos de necesidad o emergencia, tenga o no parentesco con ellos.
+Cualquier miembro de la sociedad tiene el deber de auxiliar y apoyar a las personas adultas mayores en casos de necesidad o emergencia, tenga o no parentesco con ellos.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 35.
 
-La población en general tiene el deber de aceptar a los adultos mayores en las actividades sociales, económicas y políticas de la comunidad, evitando su marginación o discriminación, o hacerlos objeto de burla, de abuso o simple indiferencia, para lo cual el DIF Estatal y Municipal en coordinación con el Instituto y con la participación de las dependencias y entidades del Estado, diseñarán e instrumentarán programas y campañas permanentes de cortesía urbana y respeto hacia los adultos mayores debiéndose difundir las mismas en los medios masivos de comunicación existentes en la Entidad.
+La población en general tiene el deber de aceptar a las personas adultas mayores en las actividades sociales, económicas y políticas de la comunidad, evitando su marginación o discriminación, o hacerlos objeto de burla, de abuso o simple indiferencia, para lo cual el DIF Estatal y Municipal en coordinación con el Instituto y con la participación de las dependencias y entidades del Estado, diseñarán e instrumentarán programas y campañas permanentes de cortesía urbana y respeto hacia las personas adultas mayores debiéndose difundir las mismas en los medios masivos de comunicación existentes en la Entidad.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2025)</small>
 
@@ -673,65 +677,79 @@ Las Instituciones públicas, así como las privadas que presten servicios financ
 
 Se entenderá por violencia contra las personas adultas mayores, cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el Público.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
-Cuando algún ciudadano cometa cualquier acto de discriminación, abuso, explotación, aislamiento, o violencia en contra de un adulto mayor, que ponga en riesgo su persona y derechos, será sancionado conforme a la Ley.
+Cuando algún ciudadano cometa cualquier acto de discriminación, abuso, explotación, aislamiento, o violencia en contra de una persona adulta mayor, que ponga en riesgo su persona y derechos, será sancionado conforme a la Ley.
 
 De igual forma se sancionará a las instituciones públicas o privadas que cometan las conductas mencionadas.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 36 Bis.
 
-Los tipos de violencia contra los Adultos Mayores, son:
+Los tipos de violencia contra las personas adultas mayores, son:
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2019)</small>
 
 I. La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2019)</small>
+
 II. La violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
 
-III. La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
+
+III. La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención, distracción, apropiación, uso o administración indebida de objetos, documentos personales, bienes y valores, derechos patrimoniales, tarjetas bancarias, medios de pago o instrumentos asociados a pensiones, apoyos o programas sociales, así como de los recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado.
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2019)</small>
 
 IV. La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2019)</small>
+
 V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder; y
 
-VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de los Adultos Mayores.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
+
+VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas adultas mayores.
 
 ### CAPÍTULO IV. De los Deberes de la Familia
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 37.
 
-La familia del adulto mayor deberá cumplir su función social de manera constante y permanente, debiendo velar por el, responsabilizándose de proporcionarle lo necesario para su atención y desarrollo integral, protegiéndolo, apoyándolo, y evitando que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo su persona y derechos, caso contrario, serán sancionados conforme la Ley.
+La familia de la persona adulta mayor deberá cumplir su función social de manera constante y permanente, debiendo velar por el, responsabilizándose de proporcionarle lo necesario para su atención y desarrollo integral, protegiéndolo, apoyándolo, y evitando que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo su persona y derechos, caso contrario, serán sancionados conforme la Ley.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 38.
 
-Todo adulto mayor, tiene derecho a permanecer en su hogar del cual no podrá ser expulsado, debiéndole asegurar la convivencia familiar, salvo que el cumplimiento de este derecho peligre por causas socioeconómicas, ambientales o de salud, en tal caso, las instituciones públicas competentes procurarán las condiciones que se requieran para superar la problemática familiar, así como la capacitación y orientación de los descendientes.
+Todas las personas adultas mayores, tiene derecho a permanecer en su hogar del cual no podrá ser expulsado, debiéndole asegurar la convivencia familiar, salvo que el cumplimiento de este derecho peligre por causas socioeconómicas, ambientales o de salud, en tal caso, las instituciones públicas competentes procurarán las condiciones que se requieran para superar la problemática familiar, así como la capacitación y orientación de los descendientes.
 
-Cuando por circunstancias especiales el adulto mayor sea separado judicialmente de su familia, tendrá derecho a la protección y asistencia por parte del Instituto.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+Cuando por circunstancias especiales la persona adulta mayor sea separado judicialmente de su familia, tendrá derecho a la protección y asistencia por parte del Instituto.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 39.
 
-La medida cautelar de protección tendiente a remover temporalmente del seno familiar al adulto mayor, sólo se aplicará, cuando la conducta que la originó sea atribuible a alguien que conviva con él y no exista otra alternativa. En todo caso deberá informarse al adulto mayor en forma adecuada sobre los motivos que justifiquen esa medida escuchándose su opinión.
+La medida cautelar de protección tendiente a remover temporalmente del seno familiar a la persona adulta mayor, sólo se aplicará, cuando la conducta que la originó sea atribuible a alguien que conviva con él y no exista otra alternativa. En todo caso deberá informarse a la persona adulta mayor en forma adecuada sobre los motivos que justifiquen esa medida escuchándose su opinión.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 40.
 
-El derecho de los adultos mayores a percibir alimentos se garantizará en los términos previstos en el Código Civil vigente en el Estado.
+El derecho de las personas adultas mayores a percibir alimentos se garantizará en los términos previstos en el Código Civil vigente en el Estado.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 41.
 
-Cuando el obligado a dar los alimentos al adulto mayor se tuviera que ausentar o presentare incapacidad temporal o imposibilidad de hecho para cumplir con esa obligación, el Estado procurará brindar supletoriamente los alimentos por medio de su incorporación a procesos de promoción social y desarrollo humano, mediante programas interinstitucionales en los que, de acuerdo con su situación particular, intervendrán los sistemas DIF Estatal y Municipal.
+Cuando el obligado a dar los alimentos a la persona adulta mayor se tuviera que ausentar o presentare incapacidad temporal o imposibilidad de hecho para cumplir con esa obligación, el Estado procurará brindar supletoriamente los alimentos por medio de su incorporación a procesos de promoción social y desarrollo humano, mediante programas interinstitucionales en los que, de acuerdo con su situación particular, intervendrán los sistemas DIF Estatal y Municipal.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 41 Bis.
 
@@ -739,11 +757,11 @@ Todas las instituciones públicas y privadas que lleven a cabo programas de aten
 
 ### CAPÍTULO V. De la Libertad de Desplazamiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 42.
 
-Son derechos que esta Ley reconoce y protege a favor de los adultos mayores los siguientes:
+Son derechos que esta Ley reconoce y protege a favor de las personas adultas mayores los siguientes:
 
 I. Desplazarse libremente en los espacios públicos;
 
@@ -751,13 +769,13 @@ II. Disfrutar de los servicios públicos en igualdad de circunstancias que cualq
 
 III. Tener acceso y facilidades de desplazamiento físico dentro de los espacios laborales, comerciales, oficiales, recreativos y de transporte, mediante la construcción de las especificaciones arquitectónicas de diseño y mecánicas de los medios de transporte apropiados.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 43.
 
-Los adultos mayores tendrán derecho a hacer uso de los asientos y espacios preferentes, que para tal efecto sean destinados en las unidades de transporte público de pasajeros.
+Las personas adultas mayores tendrán derecho a hacer uso de los asientos y espacios preferentes, que para tal efecto sean destinados en las unidades de transporte público de pasajeros.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 44.
 
@@ -765,63 +783,63 @@ El Instituto, conjuntamente con las autoridades, establecerá programas tendient
 
 ### CAPÍTULO VI. De los Derechos a la Salud
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 45.
 
-Los adultos mayores tendrán derecho a la salud en los términos que determine la Ley de Salud del Estado.
+Las personas adultas mayores tendrán derecho a la salud en los términos que determine la Ley de Salud del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 46.
 
-Los adultos mayores gozarán de atención médica oportuna en los centros y servicios públicos de prevención y atención de la salud, los que procurarán prestar en forma inmediata el servicio que requieran sin discriminación de raza, género, condición social ni nacionalidad, debiendo recibir una cartilla medica de salud y auto cuidado, misma que será utilizada indistintamente en las instituciones públicas y privadas, en la cual se especificará el estado general de salud, tipo de sangre, medicamentos, dosis, alergias y dieta suministrada.
+Las personas adultas mayores gozarán de atención médica oportuna en los centros y servicios públicos de prevención y atención de la salud, los que procurarán prestar en forma inmediata el servicio que requieran sin discriminación de raza, género, condición social ni nacionalidad, debiendo recibir una cartilla medica de salud y auto cuidado, misma que será utilizada indistintamente en las instituciones públicas y privadas, en la cual se especificará el estado general de salud, tipo de sangre, medicamentos, dosis, alergias y dieta suministrada.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 47.
 
-Los adultos mayores deberán recibir los programas de detección oportuna y tratamiento temprano de enfermedades crónicas degenerativas y neoplasias, así como de atención y asistencia a quienes sufren de discapacidades funcionales.
+Las personas adultas mayores deberán recibir los programas de detección oportuna y tratamiento temprano de enfermedades crónicas degenerativas y neoplasias, así como de atención y asistencia a quienes sufren de discapacidades funcionales.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 48.
 
-Los adultos mayores deberán ser vacunados contra enfermedades que las autoridades de salud determinen.
+Las personas adultas mayores deberán ser vacunados contra enfermedades que las autoridades de salud determinen.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 49.
 
-Cuando un adulto mayor requiera de internación por enfermedad grave o incurable, los hospitales y clínicas públicas o privadas, proporcionarán las condiciones necesarias para la permanencia de los descendientes, representante legal o encargado.
+Cuando una persona adulta mayor requiera de internación por enfermedad grave o incurable, los hospitales y clínicas públicas o privadas, proporcionarán las condiciones necesarias para la permanencia de los descendientes, representante legal o encargado.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 50.
 
-En todos los centros de salud públicos o privados a donde se lleve para su atención a un adulto mayor, los directores y el personal encargado de los mismos estarán obligados a denunciar ante el Ministerio Público cualquier sospecha razonable de maltrato o abuso cometido en contra de ellos. Igual obligación, tendrán las autoridades y el personal de centros educativos, estancias, o cualquier otro sitio en donde permanezcan ó se atienda algún servicio a éstas personas.
+En todos los centros de salud públicos o privados a donde se lleve para su atención a una persona adulta mayor, los directores y el personal encargado de los mismos estarán obligados a denunciar ante el Ministerio Público cualquier sospecha razonable de maltrato o abuso cometido en contra de ellos. Igual obligación, tendrán las autoridades y el personal de centros educativos, estancias, o cualquier otro sitio en donde permanezcan ó se atienda algún servicio a estas personas.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 51.
 
-Cuando un adulto mayor maltratado o en condiciones de pobreza carezca de parientes o de obligado preferente, recibirá atención por parte del Estado, a través de los programas de las instituciones afines.
+Cuando una persona adulta mayor maltratado o en condiciones de pobreza carezca de parientes o de obligado preferente, recibirá atención por parte del Estado, a través de los programas de las instituciones afines.
 
 ### CAPÍTULO VII. Del Derecho a Cultura, Recreación y Deporte
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 52.
 
-Todo adulto mayor tendrá derecho a participar en actividades recreativas, deportivas y culturales, que les permitan ocupar provechosamente su tiempo libre y contribuyan a su desarrollo humano integral, con las únicas restricciones que la Ley señale. Corresponde en forma prioritaria a los descendientes y representantes, darles las oportunidades para ejercer estos derechos.
+Toda persona adulta mayor tendrá derecho a participar en actividades recreativas, deportivas y culturales, que les permitan ocupar provechosamente su tiempo libre y contribuyan a su desarrollo humano integral, con las únicas restricciones que la Ley señale. Corresponde en forma prioritaria a los descendientes y representantes, darles las oportunidades para ejercer estos derechos.
 
 El Instituto en coordinación con las autoridades competentes velarán porque las actividades culturales, deportivas, recreativas o de otra naturaleza, sean públicas o privadas que se brinden a esta población sean conformes a su estado físico y promuevan su pleno desarrollo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 53.
 
-Los Ayuntamientos establecerán las políticas públicas necesarias y ejecutarán las acciones pertinentes para facilitar, a los adultos mayores los espacios adecuados a nivel comunitario y estatal que les permitan ejercer sus derechos recreativos y culturales.
+Los Ayuntamientos establecerán las políticas públicas necesarias y ejecutarán las acciones pertinentes para facilitar, a las personas adultas mayores los espacios adecuados a nivel comunitario y estatal que les permitan ejercer sus derechos recreativos y culturales.
 
 Los campos deportivos, gimnasios y la infraestructura oficial adecuada para la práctica del deporte o actividades recreativas, estarán a disposición de este grupo en condiciones de plena igualdad.
 
@@ -831,11 +849,11 @@ Los campos deportivos, gimnasios y la infraestructura oficial adecuada para la p
 
 Corresponde al Instituto, con el apoyo del DIF Estatal, promover la creación de equipos multiprofesionales públicos, privados y mixtos, que aseguren la atención a cada persona que lo requiera para garantizar la integración a su entorno social. El personal que integre los equipos deberá contar con experiencia profesional y la capacidad necesaria para cumplir con la función encomendada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 55.
 
-La prestación de servicios asistenciales a los adultos mayores comprenderá:
+La prestación de servicios asistenciales a las personas adultas mayores comprenderá:
 
 I. Asistencia médica;
 
@@ -853,61 +871,61 @@ VII. Educación para adultos;
 
 VIII. Incorporación laboral;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-IX. Creación de bolsas de trabajo para adultos mayores;
+IX. Creación de bolsas de trabajo para las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-X. Integración a clubes de adultos mayores; y
+X. Integración a clubes de personas adultas mayores; y
 
 XI. Incorporación y entrenamiento físico especializado.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 56.
 
-Los servicios sociales para los adultos mayores tienen como objetivo garantizar el logro de adecuados niveles de desarrollo personal y de su integración a la comunidad.
+Los servicios sociales para las personas adultas mayores tienen como objetivo garantizar el logro de adecuados niveles de desarrollo personal y de su integración a la comunidad.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 57.
 
-Sin perjuicio de lo dispuesto en otros artículos de esta Ley todos los adultos mayores tendrán derecho a los servicios sociales de orientación familiar, de información, actividades culturales, recreativas, deportivas y ocupación del tiempo libre.
+Sin perjuicio de lo dispuesto en otros artículos de esta Ley todas las personas adultas mayores tendrán derecho a los servicios sociales de orientación familiar, de información, actividades culturales, recreativas, deportivas y ocupación del tiempo libre.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 58.
 
-La orientación familiar tendrá como objetivo la información a las familias, su capacitación y adiestramiento para atender a la estimulación de los adultos mayores y a la adecuación del entorno familiar para satisfacerles sus necesidades.
+La orientación familiar tendrá como objetivo la información a las familias, su capacitación y adiestramiento para atender a la estimulación de las personas adultas mayores y a la adecuación del entorno familiar para satisfacerles sus necesidades.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 59.
 
-Los servicios de información oficiales deben facilitar a los adultos mayores el conocimiento de las prestaciones que estén a su alcance, así como las condiciones de acceso a las mismas, para ello el Instituto con el apoyo del DIF Estatal y Municipales, establecerá oficinas de atención y recepción de quejas.
+Los servicios de información oficiales deben facilitar a las personas adultas mayores el conocimiento de las prestaciones que estén a su alcance, así como las condiciones de acceso a las mismas, para ello el Instituto con el apoyo del DIF Estatal y Municipales, establecerá oficinas de atención y recepción de quejas.
 
 También implementarán campañas de información al público en general, ciclos de conferencias y diversos eventos que promuevan la integración de los adultos en plenitud a la sociedad.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 60.
 
-Las actividades deportivas, culturales, recreativas y de uso del tiempo libre de los adultos mayores, se desarrollarán preferentemente en las instalaciones que al efecto tenga el DIF Estatal y los DIF municipales y los que se integren a través de los convenios de colaboración respectivos.
+Las actividades deportivas, culturales, recreativas y de uso del tiempo libre de las personas adultas mayores, se desarrollarán preferentemente en las instalaciones que al efecto tenga el DIF Estatal y los DIF municipales y los que se integren a través de los convenios de colaboración respectivos.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 61.
 
-El Ejecutivo del Estado a través de la Secretaria de Desarrollo Social, establecerá con la participación del Instituto programas de promoción del empleo para los adultos mayores, creando al efecto una bolsa de trabajo en la que se concentren listas de aspirantes con sus aptitudes y capacidades.
+El Ejecutivo del Estado a través de la Secretaria de Desarrollo Social, establecerá con la participación del Instituto programas de promoción del empleo para las personas adultas mayores, creando al efecto una bolsa de trabajo en la que se concentren listas de aspirantes con sus aptitudes y capacidades.
 
 ###### Artículo 62.
 
 Los servicios de apoyo económicos consisten en:
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2026)</small>
 
-I. Subsidios a las Instituciones de asistencia social y privada encargadas del cuidado y atención del adulto mayor;
+I. Subsidios a las Instituciones de asistencia social y privada encargadas del cuidado y atención de la persona adulta mayor;
 
 II. Instrumentación de programas especiales de descuentos y exenciones en el pago de contribuciones y para la compra de productos básicos;
 
@@ -945,17 +963,17 @@ V. Que se realice un estudio socioeconómico por el cual se determinen las circu
 
 Serán sujetos del otorgamiento de esta pensión económica en los términos de esta Ley y su Reglamento las personas adultas mayores a partir de los 60 años de edad que además de reunir los requisitos anteriores, se encuentren en situación de extrema pobreza o que por circunstancias especiales carezcan de un ingreso.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 65.
 
-El Instituto elaborará, vigilará y mantendrá actualizado de manera permanente y transparente, el padrón de adultos mayores beneficiarios de la pensión.
+El Instituto elaborará, vigilará y mantendrá actualizado de manera permanente y transparente, el padrón de personas adultas mayores beneficiarios de la pensión.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 66.
 
-Las solicitudes de pensión, trámites, verificación de requisitos y demás procedimientos necesarios que debe llevar a cabo el adulto mayor para el ejercicio de este derecho, así como los que debe realizar el Instituto para determinar la procedencia de la pensión, se fijarán en el Reglamento de esta Ley que el Ejecutivo del Estado para tal efecto expida.
+Las solicitudes de pensión, trámites, verificación de requisitos y demás procedimientos necesarios que debe llevar a cabo la persona adulta mayor para el ejercicio de este derecho, así como los que debe realizar el Instituto para determinar la procedencia de la pensión, se fijarán en el Reglamento de esta Ley que el Ejecutivo del Estado para tal efecto expida.
 
 ###### Artículo 67.
 
@@ -1049,21 +1067,25 @@ El Instituto para la Atención de los Adultos Mayores, deberá contar un directo
 
 ### CAPÍTULO IX. De la Atención Preferencial
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 67 Bis.
 
 Será obligación de las dependencias y entidades de la administración pública estatal centralizada y paraestatal, así como las dependencias y entidades de las administraciones públicas municipales centralizadas y paramunicipales, en el ámbito de sus respectivas competencias y jurisdicción, vigilar y garantizar la defensa de los derechos de las personas adultas mayores otorgándoles una atención preferencial que agilice los trámites y procedimientos administrativos a realizar en esas dependencias.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JUNIO DE 2026)</small>
+
+Todas las instituciones de orden público y privado del Estado, garantizarán que en sus instalaciones existan las condiciones necesarias, para que se les dé a las personas adultas mayores un trato digno, especial y prioritario al momento de realizar un trámite personal, otorgándoles sillas de espera y una fila preferencial.”
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 67 Bis 1.
 
 El Gobierno del Estado por conducto de las dependencias correspondientes fomentará que la atención preferencial para las personas adultas mayores sea prestada también en las tiendas de autoservicio y otras empresas mercantiles.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
-Todas las instituciones de orden público y privado del Estado, garantizarán que en sus instalaciones existan las condiciones necesarias, para que se les dé a los adultos mayores un trato digno, especial y prioritario al momento de realizar un trámite personal, otorgándoles sillas de espera y una fila preferencial.
+Todas las instituciones de orden público y privado del Estado, garantizarán que en sus instalaciones existan las condiciones necesarias, para que se les dé a las personas adultas mayores un trato digno, especial y prioritario al momento de realizar un trámite personal, otorgándoles sillas de espera y una fila preferencial.”
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
@@ -1085,11 +1107,11 @@ I.- La orientación ocupacional y vocacional; y
 
 II.- La ubicación de acuerdo con la aptitud y actitud ante el trabajo.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
 ###### Artículo 69.
 
-La orientación ocupacional tendrá en cuenta las potencialidades reales de los adultos mayores, tomando como base la educación escolar recibida, la capacitación laboral o profesional y las perspectivas de empleo existentes en cada caso; asimismo, la atención a sus motivaciones, aptitudes y preferencias vocacionales.
+La orientación ocupacional tendrá en cuenta las potencialidades reales de las personas adultas mayores, tomando como base la educación escolar recibida, la capacitación laboral o profesional y las perspectivas de empleo existentes en cada caso; asimismo, la atención a sus motivaciones, aptitudes y preferencias vocacionales”
 
 ### CAPÍTULO II. De la Integración a la Vida Productiva
 
@@ -1151,9 +1173,9 @@ En el caso de que la transgresión constituya un hecho punible, se hará del con
 
 Todas las infracciones a las disposiciones contenidas en esta Ley, se harán del conocimiento de la o el Director General quien las canalizará ante la Procuraduría de la Defensa del Adulto Mayor del Estado de Colima, para que de conformidad a la gravedad de la falta, sean denunciadas ante la autoridad competente, a efecto de que ésta, aplique la sanción correspondiente.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2026)</small>
 
-En los casos de infracciones por incumplimiento a los deberes familiares, contenidos en el Capítulo IV del Título Tercero de la presente Ley, así como de las infracciones que cometa una persona que no sea familiar de la o el adulto mayor, serán canalizados a la Procuraduría de la Defensa del Adulto Mayor del Estado de Colima, quien depende y se encuentra bajo supervisión de la persona Titular del Instituto para la Atención de los Adultos Mayores, conforme a lo dispuesto en el Reglamento de la Ley.
+En los casos de infracciones por incumplimiento a los deberes familiares, contenidos en el capítulo IV del Título Tercero de la presente Ley, así como de las infracciones que cometa una persona que no sea familiar de la persona adulta mayor, serán canalizados a la Procuraduría de la Defensa del Adulto Mayor del Estado de Colima, quien depende y se encuentra bajo supervisión de la persona Titular del Instituto para la Atención de los Adultos Mayores, conforme a lo dispuesto en el Reglamento de la Ley.
 
 ###### Artículo 76.
 
@@ -1402,3 +1424,9 @@ P.O. 15 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 183.- POR EL QUE SE APRUEBA ADICIONAR EL ARTÍCULO 35 BIS A LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 327.- POR EL QUE SE APRUEBA REFORMAR DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
