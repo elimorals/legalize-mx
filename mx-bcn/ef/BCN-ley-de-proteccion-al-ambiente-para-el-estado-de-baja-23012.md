@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2025-06-27"
+last_updated: "2026-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -1695,9 +1695,9 @@ Las personas responsables de los establecimientos industriales, comerciales y de
 
 El Registro de Emisiones y Transferencia de Contaminantes se deberá integrar con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
-La Secretaría determinará la periodicidad en la que deberá actualizarse el inventario de emisiones y será responsable de que la información se difunda de forma accesible a toda la población.
+La Secretaría determinará la periodicidad en la que deberá actualizarse el inventario de emisiones; dicha actualización deberá realizarse de manera obligatoria, por lo menos cada tres años. La Secretaría será responsable de difundir, de manera oportuna, accesible y comprensible para toda la población, la información relativa a la actualización del inventario de emisiones.
 
 ###### ARTÍCULO 109.
 
@@ -1715,9 +1715,13 @@ La actualización de la base de datos del Registro de Emisiones y Transferencia 
 
 Para la prevención, protección y mejoramiento de la calidad de la atmósfera se considerarán los siguientes criterios:
 
-I. La calidad del aire debe ser satisfactoria; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-II. Las emisiones de contaminantes a la atmósfera, sean de fuentes fijas o móviles, deberán ser reducidas y controladas, para asegurar una calidad del aire satisfactoria para el bienestar de la población y el mantenimiento del equilibrio ecológico.
+I. La calidad del aire debe ser aceptable; y
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+II. Las emisiones de contaminantes a la atmósfera, sean de fuentes fijas o móviles, deberán ser reducidas y controladas, para asegurar una calidad del aire aceptable para el bienestar de la población y el mantenimiento del equilibrio ecológico.
 
 ###### ARTÍCULO 111.
 
@@ -3384,3 +3388,15 @@ P.O. 27 DE JUNIO DE 2025.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- A partir de la entrada en vigor de la presente reforma, la Secretaría contará con un plazo de 60 días para establecer la periodicidad a que hace referencia el artículo 108 y a partir de esa fecha iniciar el registro para su actualización permanente.
+
+P.O. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 288 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 110 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 289 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 108 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
