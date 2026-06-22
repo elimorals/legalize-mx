@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2026-06-05"
+last_updated: "2026-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -615,7 +615,9 @@ III.- Violación en cualquiera de sus formas de comisión;
 
 IV.- Feminicidio;
 
-V.- Abuso sexual mediante violencia;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+V.- Abuso sexual;
 
 VI.- Privación de la libertad personal agravada;
 
@@ -1369,9 +1371,9 @@ III.- Desde el día en que se realizó la última conducta, tratándose de delit
 
 IV.- Desde la cesación de la consumación en el delito permanente.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2026)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
-Artículo 113 BIS.- En el caso de los delitos previstos por los artículos 123, 176, 177, 178, 180, 180 BIS, 184 QUATER, 238, 261, 261 SEXTIES, 262, 262 TER, 262 QUARTER y 264 de este Código, la acción penal será imprescriptible cuando se cometan contra persona menor de dieciocho años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo.
+Artículo 113 BIS.- En el caso de los delitos previstos por los artículos 123, 175 SEXTIES, 176, 177, 178, 180, 180 BIS, 184 QUATER, 238, 261, 261 SEXTIES, 262, 262 TER, 262 QUARTER y 264 de este Código, la acción penal será imprescriptible cuando se cometa en contra de persona menor de dieciocho años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo.
 
 > <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2517,51 +2519,75 @@ Las penas señaladas en los artículos 176, 177 y 178, se incrementarán hasta e
 
 ### CAPITULO II. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 180.
 
-Tipo y punibilidad.- Al que sin consentimiento de una persona ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de dos a diez años de prisión y hasta doscientos días multa.
+Tipo y punibilidad.- Comete el delito de abuso sexual quien, sin consentimiento de una persona y sin el propósito de llegar a la cópula, realice en el ámbito público o privado cualquier acto de naturaleza sexual, la obligue a observar, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo. También se considera abuso sexual cuando se obliga a la víctima a exhibir su cuerpo.
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+Se entiende por acto sexual los tocamientos, caricias, roces corporales, exhibiciones del cuerpo de forma total o parcial con finalidad sexual.
 
-Si se hiciere uso de la violencia física o moral, la pena se aumentará de dos a cuatro años de prisión.
+Para efecto del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
+El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
 
-###### Artículo 180 Bis.
+A quien cometa este delito se le impondrá una sanción de tres a diez años de prisión y una multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-Sub tipo y punibilidad.- Al que con o sin el consentimiento de una persona menor de catorce años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo, ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le aplicarán de ocho a trece años de prisión y una multa de hasta quinientas veces la unidad de medida y actualización.
+Asimismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres.
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
-Si se hiciere uso de la violencia física o moral o se realice la conducta a que se refiere este artículo de manera reiterada, la pena se aumentará de dos a cuatro años de prisión.
+Artículo 180 BIS.- Subtipo y punibilidad.- Comete el delito de abuso sexual quien, con o sin el consentimiento de una persona menor de dieciocho años, o de quien no tenga capacidad de comprender el significado del hecho, o de quien, por cualquier causa, no tenga la capacidad de resistirlo, y sin el propósito de llegar a la cópula, en el ámbito público o privado:
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2007)</small>
+I.- Realice en la víctima tocamientos o contacto corporal con finalidad sexual;
 
-Artículo 180 TER.- Agravación de la punibilidad.- Las penas previstas en los artículos 180 y 180 Bis, se aumentarán hasta en una mitad, cuando en el abuso sexual concurra alguna de las circunstancias siguientes:
+II.- Obligue a la víctima a ejecutar actos sexuales sobre sí misma, sobre la persona sujeto activo o sobre una tercera persona;
 
-I.- Cuando fuere cometido por persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que le ejerciere sobre la víctima, así como los derechos sucesorios con respecto del ofendido,
+III.- Obligue a la víctima a presenciar u observar actos sexuales realizados por el sujeto activo o por terceras personas; o
 
-II.- Cuando fuere cometido por persona que tenga al ofendido, bajo su custodia, guarda o educación o aproveche la confianza en el depositada,
+IV.- Obligue a la víctima a exhibir total o parcialmente su cuerpo con finalidad sexual.
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2025)</small>
+Los conceptos de actos de naturaleza sexual y exhibición total o parcial del cuerpo con finalidad sexual, previstos en el artículo anterior, serán aplicables a este subtipo penal.
 
-III.- Cuando fuere cometido por quien desempeñe un cargo, empleo o comisión público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el sentenciado será destituido del cargo o empleo o suspendido por el término igual al de la pena de prisión.
+A quien cometa este delito se le impondrá una pena de ocho a trece años de prisión y multa de doscientas a quinientas veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
-IV.- Cuando el delito fuere cometido dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso.
+Artículo 180 TER.- Agravación de la punibilidad.- Las penas previstas en los artículos 180 y 180 BIS se aumentarán en una mitad, cuando el abuso sexual se cometa en cualquiera de las siguientes circunstancias:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)</small>
+I.- Con violencia física, psicológica o moral;
 
-V.- Cuando para su realización se le haya suministrado a la víctima drogas, estupefacientes, psicotrópicos o agentes químicos.
+II.- Por dos o más personas;
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2007)</small>
+III.- En un lugar despoblado, solitario o poco accesible;
+
+IV.- Cuando exista o haya existido entre la persona agresora y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
+
+V.- Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidado o dependencia económica;
+
+VI.- Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio del servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio, de otras sanciones administrativas o civiles que correspondan;
+
+VII.- Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio, de otras sanciones administrativas o civiles;
+
+VIII.- Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
+
+IX.- Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+X.- Cuando la víctima se encuentre en estado de embarazo o puerperio;
+
+XI.- Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género; y
+
+XII.- Cuando la víctima se encuentre en estado de indefensión.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2026)</small>
+
+Artículo 180 QUATER.- De la reparación del daño.- Adicional a la sanción establecida en los artículos 180 y 180 BIS, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que debe incluir, entre otras medidas, las establecidas en la Ley General de Víctimas, la atención psicológica especializada a la víctima, hasta su total reparación.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 181.
 
-Persecución oficiosa.- El delito de abuso sexual previsto en el artículo ciento ochenta Bis, se perseguirá de oficio; fuera de este supuesto, se perseguirá por querella de la parte ofendida o de sus representantes legítimos.
+Persecución oficiosa.- El delito de abuso sexual previsto en los artículos 180 y 180 BIS se perseguirá de oficio.
 
 ### CAPITULO III. ESTUPRO
 
@@ -2746,6 +2772,10 @@ En el presente artículo será aplicable la excluyente de acción penal, previst
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 Artículo 201 TER.- Tipo y punibilidad.- A quien se apodere o sustraiga sin derecho y sin consentimiento de la persona que pueda disponer de él, cableado de energía eléctrica derivado del material de cobre, o algún otro metal utilizado en instalaciones eléctricas o hidráulicas, partes de medidores de energía eléctrica y gas, así como equipamiento industrial y de la construcción de obras, se impondrá de uno a cinco años de prisión y de cincuenta hasta doscientos días multa.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2026)</small>
+
+Artículo 201 QUATER.- Además de la pena que corresponda conforme al artículo 201 de este Código, se impondrán hasta cinco años de prisión cuando se trate de una o más partes de vehículos estacionados en la vía pública o en otro lugar destinado a su guarda o reparación.
 
 ###### Artículo 202.
 
@@ -3183,9 +3213,9 @@ III.- Al que en los términos de las fracciones anteriores, desvíe o haga uso d
 
 La pena será aplicable, aún cuando el derecho a la posesión del inmueble usurpado sea dudosa o esté en disputa.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
-Cuando el despojo se realice por grupo o grupos, que en conjunto sean mayores de cinco personas, se les aplicará a los coautores la pena señalada en este artículo; pero no se ejercitará la acción penal en contra de éstos, si en un término de setenta y dos horas contadas a partir del requerimiento formal de la autoridad investigadora, se restituya a la parte ofendida en la posesión material del inmueble despojado.
+Cuando el despojo se realice por grupo o grupos que, en conjunto, sean mayores de cinco personas, se les aplicará a los coautores la pena señalada en este artículo; pero la misma se disminuirá en una mitad si, en un término de setenta y dos horas contadas a partir del requerimiento formal de la autoridad investigadora, se restituye a la parte ofendida en la posesión material del inmueble despojado.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1998)</small>
 
@@ -3655,9 +3685,9 @@ La persona generadora de esta violencia será aquella con quien la mujer manteng
 
 La comisión de este delito se perseguirá de oficio por la Representación Social.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
-Cuando exista reincidencia por parte del activo, o cuando la acción se realice en contra de persona con discapacidad, embarazada o adulta mayor, la pena mínima y máxima se aumentará hasta una mitad y en su caso, atendiendo a la gravedad de la conducta a juicio de la persona juzgadora se le condenará a la suspensión o pérdida del ejercicio de la patria potestad, tutela o guarda y cuidado de la persona menor de dieciocho años de edad, adulto mayor o persona con discapacidad, a quien tenga el ejercicio de ésta, por resolución judicial. En ningún caso el Ministerio Público remitirá para mediación, o proceso alternativo de solución a las Víctimas de Violencia familiar.
+Cuando exista reincidencia por parte del activo, o cuando la acción se realice en contra de persona con discapacidad, embarazada o adulta mayor, o cuando los actos de violencia se cometan en presencia de niñas, niños o adolescentes, la pena mínima y máxima se aumentará hasta una mitad y, en su caso, atendiendo a la gravedad de la conducta a juicio de la persona juzgadora se le condenará a la suspensión o pérdida del ejercicio de la patria potestad, tutela o guarda y cuidado de la persona menor de dieciocho años de edad, persona adulta mayor o persona con discapacidad, a quien tenga el ejercicio de ésta, por resolución judicial. En ningún caso el Ministerio Público remitirá para mediación o proceso alternativo de solución a las Víctimas de Violencia familiar.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2023)</small>
 
@@ -7022,3 +7052,37 @@ P.O. 5 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 267 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 14, 75, 140 Y 255 ASÍ COMO LA ADICIÓN DE LOS ARTÍCULOS 124 BIS Y 137 BIS, TODOS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 226 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 282 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 242 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 283 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 201 QUATER AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 284 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 113 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
+
+P.O. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 285 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 43, 180, 180 BIS, 180 TER Y 181, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 180 QUATER AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. Los procedimientos penales en materia de abuso sexual, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del presente Decreto.
+
+TERCERO. En el caso de personas sentenciadas con anterioridad a la vigencia del presente Decreto por el delito de abuso sexual, subtipo de abuso sexual, incluyendo sus agravantes, les seguirá surtiendo efecto la resolución judicial que les condenó.
