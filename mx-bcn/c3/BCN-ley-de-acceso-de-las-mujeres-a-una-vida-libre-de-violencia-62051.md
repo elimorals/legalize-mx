@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2026-03-13"
+last_updated: "2026-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -37,7 +37,9 @@ DECRETO No. 54
 
 ÚNICO.- Se aprueba la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California, para quedar como sigue:
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2026)</small>
+
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS PARA EL ESTADO DE BAJA CALIFORNIA
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -53,11 +55,13 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJ
 
 Las disposiciones de la presente Ley son de orden público, interés social y observancia general en el Estado de Baja California, y tienen por objeto establecer las bases para prevenir, atender, sancionar y erradicar las violencias contra las mujeres, adolescentes y niñas, los principios y mecanismos para el pleno acceso a una vida libre de violencias, garantizando el goce y ejercicio de sus derechos humanos, así como la protección reforzada del Estado con estas, y fortalecer el régimen democrático establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Baja California, la Ley General, los Tratados Internacionales y las demás leyes vigentes en materia.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 2.
 
-La presente Ley obliga a los órganos e instituciones públicas de orden estatal y municipal en el ámbito de sus respectivas competencias a expedir las normas legales y reglamentarias correspondientes, así como tomar las medidas presupuestales y administrativas, con perspectiva de género, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano, cumpliendo con los objetivos del Sistema y del Programa Estatal.
+La presente Ley obliga a los órganos e instituciones públicas de orden estatal y municipal en el ámbito de sus respectivas competencias a expedir las normas legales y reglamentarias correspondientes, así como tomar las medidas presupuestales y administrativas, con perspectiva de género, para garantizar el derecho de las mujeres a una vida libre de violencias, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano, cumpliendo con los objetivos del Sistema y del Programa Estatal.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
 Los sujetos obligados deberán instrumentar las medidas presupuestales y administrativas necesarias y suficientes de carácter extraordinario para hacer frente a la Alerta de Violencia de Género contra las mujeres.
 
@@ -87,9 +91,9 @@ IX. La interculturalidad; y,
 
 X. El enfoque diferencial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2026)</small>
 
-Artículo 3 BIS. Las víctimas directas o indirectas de cualquier tipo de violencia tendrán los derechos siguientes:
+Artículo 3 BIS. Las víctimas directas o indirectas de cualquier tipo de violencias tendrán los derechos siguientes:
 
 > <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -149,17 +153,29 @@ Los refugios y los Centros de Justicia para las Mujeres deberán contar con toda
 
 Para efectos de esta Ley se entenderá por:
 
-I. Ley: Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-II. Ley General: Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+I. Ley: Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Baja California;
 
-III. Sistema Nacional: Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia en contra de las Mujeres;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-IV. Sistema: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia en contra de las Mujeres;
+II. Ley General: Ley General de Acceso de las Mujeres a una Vida Libre de Violencias;
 
-V. Programa: Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, en los términos de la Ley General;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-VI. Programa Estatal: Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+III. Sistema Nacional: el Sistema Nacional de Prevención, Atención, Sanción y Erradicación de las Violencias en contra de las Mujeres;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+IV. Sistema: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de las Violencias en contra de las Mujeres;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+V. Programa: Programa Integral para Prevenir, Atender, Sancionar y Erradicar las Violencias contra las Mujeres, en los términos de la Ley General;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+VI. Programa Estatal: Programa Estatal para Prevenir, Atender, Sancionar y Erradicar las Violencias contra las Mujeres;
 
 VII. Violencia contra las Mujeres: Cualquier acción, conducta u omisión basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte, tanto en el ámbito público como en el privado;
 
@@ -167,9 +183,9 @@ VII. Violencia contra las Mujeres: Cualquier acción, conducta u omisión basada
 
 VIII. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-IX. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
+IX. Modalidades de Violencias: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presentan las violencias contra las mujeres;
 
 > <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -197,9 +213,9 @@ El procedimiento para la emisión de la Alerta de Violencia de Género contra la
 
 XV. Organizaciones de la Sociedad Civil: Asociaciones Civiles debidamente constituidas y registradas en los términos de las leyes del Estado de Baja California y especializadas en apoyo a la mujer y la familia víctimas de violencia. Estas asociaciones deberán acreditar ante la Secretaría de Seguridad Ciudadana del Estado la documentación que acredite estar legalmente constituidas y que brinden apoyo a las mujeres víctimas (sic) violencia mediante sus centros de atención;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-XVI. Tipos de violencia: Los distintos daños que puede ocasionar la violencia contra las mujeres;
+XVI. Tipos de violencias: Los distintos daños que pueden ocasionar las violencias contra las mujeres;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -269,23 +285,23 @@ XXXI. Noviazgo: Es la relación de carácter sentimental voluntaria entre dos pe
 
 Para efectos de la presente ley, la perspectiva de género es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2026)</small>
 
-## TÍTULO SEGUNDO. TIPOS Y MODALIDADES DE VIOLENCIA CONTRA LAS MUJERES, MEDIDAS U ÓRDENES DE PROTECCIÓN Y REFUGIOS PARA MUJERES VÍCTIMAS DE VIOLENCIA
+## TÍTULO SEGUNDO. TIPOS Y MODALIDADES DE LAS VIOLENCIAS CONTRA LAS MUJERES, MEDIDAS U ÓRDENES DE PROTECCIÓN Y REFUGIOS PARA MUJERES VÍCTIMAS DE VIOLENCIA
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2026)</small>
 
-### CAPÍTULO I. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO I. DE LOS TIPOS DE VIOLENCIAS CONTRA LAS MUJERES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2026)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 6.
 
-Los tipos y modalidades de violencia enumerados por esta Ley serán sancionados en los términos de la normatividad aplicable.
+Los tipos y modalidades de las violencias enumerados por esta Ley serán sancionados en los términos de la normatividad aplicable.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 13 DE MARZO DE 2026)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE JUNIO DE 2026)</small>
 
-Reconociendo como tipos de violencia los siguientes:
+Reconociendo como tipos de violencias los siguientes:
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
 
@@ -357,17 +373,21 @@ X. Violencia Ácida: Es aquella que pretenda causar daño físico irreversible q
 
 Este tipo de violencia implica una alta carga simbólica toda vez que la finalidad es causar de forma deliberada y permanente dolor, sufrimiento y humillación a la mujer, además de causar daño físico, psicológico y emocional irreparable e irreversible, es decir, dejar una marca permanente en ella.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-XI. Violencia Simbólica.- Es la expresión, emisión o difusión de patrones estereotipados, mensajes, valores, iconos o signos, que transmiten y reproducen dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad, siendo difícil de distinguir y percibir; y,
+XI. Violencia Simbólica.- Es la expresión, emisión o difusión de patrones estereotipados, mensajes, valores, iconos o signos, que transmiten y reproducen dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad, siendo difícil de distinguir y percibir;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MAYO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2026)</small>
 
-XII. Cualesquiera otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+XII. Violencia estética.- Es todo acto a través del cual se ejerce presión directa a las mujeres, a fin de que su apariencia física se apegue a un prototipo de ideal estético, vulnerando con ello el derecho al libre desarrollo de la personalidad, el cual incluye el derecho a la elección de la apariencia personal; y
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-### CAPÍTULO II. MODALIDADES DE VIOLENCIA CONTRA LAS MUJERES
+XIII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO II. TIPOS Y MODALIDADES DE LAS VIOLENCIAS
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
@@ -1157,11 +1177,11 @@ Artículo 29 TER. Es obligación de las autoridades que emitan las medidas de pr
 
 En el caso de la o las personas agresoras, éstos deberán participar obligatoriamente en los programas de reeducación integral, así como acatar cualquiera de las medidas de protección impuestas por la autoridad competente.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2026)</small>
 
 ## TÍTULO TERCERO
 
-DEL SISTEMA ESTATAL, DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, Y DEL PROGRAMA INSTITUCIONAL EN BENEFICIO DE LAS MUJERES
+DEL SISTEMA ESTATAL, DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LAS VIOLENCIAS CONTRA LAS MUJERES, Y DEL PROGRAMA INSTITUCIONAL EN BENEFICIO DE LAS MUJERES
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -1179,7 +1199,9 @@ El Sistema Estatal es un mecanismo permanente a través del cual el Gobierno del
 
 El Sistema estará integrado por las personas titulares de:
 
-I. La Secretaría General de Gobierno, quien lo presidirá;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+I. La Persona Titular del Poder Ejecutivo, quien lo presidirá;
 
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
@@ -1193,9 +1215,9 @@ III. Vocales, que serán las personas titulares de:
 
 a) La Secretaría de Bienestar;
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
-b) La Secretaría de Inclusión Social e Igualdad de Género.
+b) La Secretaría de Inclusión Social.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1233,15 +1255,19 @@ j) La Comisión Estatal de Derechos Humanos.
 
 k) Centro de Justicia para las Mujeres del Estado de Baja California.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2026)</small>
+
+l) La Secretaría General de Gobierno.
+
 IV. Los Gobiernos Municipales a través de su respectiva instancia de la mujer, o a falta de ésta, quien tenga a su cargo la implementación de mecanismos para el adelanto de las mujeres en la administración pública municipal.
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-V. Una Diputada o Diputado del Poder Legislativo del Estado de Baja California, quien presida la Comisión encargada de la materia de Igualdad entre mujeres y hombres.
+V. Una Diputación del Poder Legislativo del Estado de Baja California, quien presida la Comisión encargada de la materia de Igualdad entre mujeres y hombres.
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-VI. Un Magistrado o Magistrada del Poder Judicial del Estado de Baja California, quien presida el Tribunal Superior de Justicia y el Consejo de la Judicatura.
+VI. Una Magistrada o Magistrado del Poder Judicial del Estado de Baja California, quien presida el Tribunal Superior de Justicia.
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1619,7 +1645,7 @@ XIV. Cumplir con las facultades y responsabilidades que le correspondan y que se
 
 XV. Las demás que determinen las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 43.
 
@@ -1657,7 +1683,9 @@ XI. Impulsar la armonización normativa en materia de violencia de género, en c
 
 XII. Establecer los indicadores para la evaluación de la Administración Pública Estatal y sus servidores públicos en materia de discriminación y violencia de género;
 
-XIII. Promover una imagen de las mujeres, libre de prejuicios y estereotipos, así como la eliminación del lenguaje sexista y/o misógino;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+XIII. Promover una imagen de las niñas, jóvenes y mujeres, libre de prejuicios, estereotipos y de cualquier forma de violencia estética, impulsando la diversidad corporal, la aceptación de la imagen personal, así como la eliminación del lenguaje sexista y/o misógino;
 
 > <small>(REFORMADA, P.O. 29 DE JULIO DE 2016)</small>
 
@@ -2290,3 +2318,9 @@ P.O. 13 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 226 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 Y LA ADICIÓN DEL ARTÍCULO 7 BIS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 286 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA LA DENOMINACIÓN DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO SUS ARTÍCULOS 2, 3 BIS, 4, 6, 32 Y 43, ADEMÁS DE LA DENOMINACIÓN DE DIVERSOS TÍTULOS Y CAPÍTULOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
