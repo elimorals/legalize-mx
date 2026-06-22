@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2026-05-15"
+last_updated: "2026-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2026.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -85,6 +85,8 @@ Para tal efecto, la autoridad educativa, remitirá al Congreso del Estado y al C
 
 Para el cumplimiento de los fines y criterios previstos en esta Ley y de conformidad con las necesidades de la población en su contexto local, contextual y situacional del proceso de enseñanza y aprendizaje, la autoridad educativa estatal podrá llevar a cabo una regionalización en la prestación del servicio público educativo, garantizando a las personas el acceso a una educación con inclusión, equidad y excelencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 6.
 
 La autoridad educativa estatal y municipal, prestarán servicios educativos con inclusión, equidad y excelencia a través de los lineamientos de la nueva escuela mexicana. Las medidas que adopten para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual o prácticas culturales.
@@ -95,9 +97,11 @@ Para tal efecto realizarán entre otras, las siguientes acciones:
 
 I. Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas, apoyos y estímulos económicos que prioricen a los educandos de excelencia académica o con alguna discapacidad y estudiantes destacados en la cultura, deporte o que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación básica y media superior;
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-II. Establecer de acuerdo con la suficiencia presupuestal, programas de entrega gratuita de uniformes y útiles escolares, calzado, anteojos y productos sanitarios de gestión menstrual para las niñas, mujeres y personas menstruantes, estudiantes de educación básica, que funcionará de acuerdo a las normas y lineamientos de operación que la autoridad educativa estatal, municipal y los organismos descentralizados emitan, en el ámbito de su competencia; de igual manera, el Ejecutivo deberá cuidar que no exista discriminación o interrupción del servicio educativo para aquellos que no puedan o no cuenten con los recursos para adquirir uniformes. Ninguna alumna ni alumno podrá ser condicionado por su vestimenta;
+II. Establecer de acuerdo con la suficiencia presupuestal, programas de entrega gratuita de uniformes y útiles escolares, calzado, anteojos y productos sanitarios de gestión menstrual para las niñas, mujeres y personas menstruantes, estudiantes de educación básica, que funcionará de acuerdo a las normas y lineamientos de operación que la autoridad educativa estatal, municipal y los organismos descentralizados emitan, en el ámbito de su competencia; de igual manera, el Ejecutivo deberá cuidar que no exista discriminación o interrupción del servicio educativo para aquellos que no puedan o no cuenten con los recursos para adquirir uniformes. Ninguna alumna ni alumno podrá ser condicionado por su vestimenta.
+
+La autoridad educativa estatal emitirá los lineamientos que establezcan los requisitos y procedimientos necesarios para que las escuelas, previo convenio con las asociaciones de madres y padres de familia, puedan acordar posibles proveedores de uniformes escolares con la mejor calidad y al más bajo precio posible. Estos proveedores podrán ser tomados en consideración para la adquisición de los uniformes escolares, sin que exista una obligación específica al respecto.
 
 III. Proporcionar apoyos a educandos cuya madre, padre o tutor haya fallecido o sufrido algún accidente que le ocasione invalidez o incapacidad permanente;
 
@@ -1339,7 +1343,7 @@ VIII. Las demás establecidas en las leyes y reglamentos respectivos.
 
 En caso de incumplimiento de alguna de las obligaciones a las que se refiere este artículo por parte de madres y padres de familia o tutores, las autoridades educativas podrán dar aviso a las instancias encargadas de la protección de los derechos de niñas, niños y adolescentes para los efectos correspondientes en términos de la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 8 DE MARZO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 107.
 
@@ -1365,15 +1369,23 @@ VIII. Gestionar el mejoramiento de las condiciones de los planteles educativos a
 
 IX. Alentar el interés familiar y comunitario para el desempeño del educando;
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-X. Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores; y,
+X. Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-XI. Convenir con las instituciones de educación pública y con los particulares, sobre el cambio en el modelo de los uniformes escolares, con base al reglamento que determine la Secretaría de Educación Estatal.
+XI. Convenir con las instituciones de educación pública y con los particulares, sobre el cambio en el modelo de los uniformes escolares, con base al reglamento que determine la Secretaría de Educación Estatal, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 2026)</small>
+
+XII. Convenir con las instituciones de educación pública y con los particulares, los posibles proveedores de uniformes escolares, con base en los lineamientos que emita la autoridad educativa estatal.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE JUNIO DE 2026)</small>
 
 Las asociaciones de madres y padres de familia se abstendrán de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE JUNIO DE 2026)</small>
 
 La organización y el funcionamiento de las asociaciones de madres y padres de familia, en lo concerniente a sus relaciones con las autoridades escolares, se sujetarán a las disposiciones que la autoridad educativa federal y estatal señalen.
 
@@ -1497,6 +1509,8 @@ Los acuerdos secretariales que emita la autoridad educativa federal señalarán 
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 120.
 
 Los particulares podrán impartir educación considerada como servicio público en términos de esta Ley, en todos sus tipos y modalidades, con la autorización o reconocimiento de validez oficial de estudios que otorgue el Ejecutivo Estatal a través de la autoridad educativa responsable, conforme a lo dispuestos (sic) por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, esta Ley y demás disposiciones jurídicas aplicables.
@@ -1511,9 +1525,13 @@ En ningún caso, con motivo del cobro de colegiaturas o cualquier otra contrapre
 
 La adquisición de uniformes y materiales educativos, así como de actividades extraescolares, no podrá condicionar la prestación del servicio público referido en esta Ley. Los educandos, las madres y padres de familia o tutores tendrán el derecho de adquirir los uniformes o materiales educativos con el proveedor de su preferencia, asimismo, a ropa adicional al uniforme que por condiciones climáticas se porte.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE MARZO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE JUNIO DE 2026)</small>
 
 El modelo de los uniformes escolares sólo podrá ser modificado con previo convenio que se realizará entre las asociaciones de madres y padres de familia con base a la reglamentación correspondiente, debiendo ser aprobado por la autoridad educativa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2026)</small>
+
+La autoridad educativa estatal emitirá los lineamientos que establezcan los requisitos y procedimientos necesarios para que las escuelas particulares, previo convenio con las asociaciones de madres y padres de familia, puedan acordar posibles proveedores de uniformes escolares con la mejor calidad y al más bajo precio posible. Estos proveedores podrán ser tomados en consideración para la adquisición de los uniformes escolares, sin que exista una obligación específica al respecto.
 
 ###### Artículo 121.
 
@@ -1990,3 +2008,11 @@ P.O. 15 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 265 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 17 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 291 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 107 Y 120 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del del (sic) Estado de Baja California.
+
+SEGUNDO.- Los lineamientos a que hace mención el presente Decreto deberán publicarse por parte de la autoridad educativa estatal a más tardar dentro del término de 60 días naturales a la entrada en vigor del mismo.
