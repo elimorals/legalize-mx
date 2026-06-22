@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2026-06-04"
+last_updated: "2026-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -4839,59 +4839,17 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de los órdenes de gobierno estatal y municipal competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, en apego a las bases, mecanismos y políticas del Sistema Nacional Anticorrupción. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-I.- El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría del Ejecutivo responsable del control interno, de la Presidencia del Tribunal de Justicia Administrativa y Anticorrupción del Estado, así como por una persona representante del Tribunal de Disciplina Judicial del Poder Judicial del Estado y otro del Comité de Participación Ciudadana;
+I.- El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría Anticorrupción y Buen Gobierno, de la Presidencia del Tribunal de Justicia Administrativa y Anticorrupción del Estado, del Instituto Quintanarroense de Transparencia para el Pueblo, así como por una persona representante del Tribunal de Disciplina Judicial del Poder Judicial del Estado y otra del Comité de Participación Ciudadana;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE JUNIO DE 2026)</small>
 
-II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco personas que se hayan destacado por su contribución a la transparencia, finanzas, políticas públicas, la rendición de cuentas, fiscalización, participación ciudadana o el combate a la corrupción y serán designadas conforme al siguiente procedimiento:
+II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco personas que se hayan destacado por su contribución a la transparencia, finanzas, políticas públicas, la rendición de cuentas, fiscalización, participación ciudadana o el combate a la corrupción y serán designadas en los términos que establezca la Ley en la materia;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+a) (DEROGADO, P.O. 22 DE JUNIO DE 2026)
 
-a) La Legislatura del Estado constituirá una Comisión de Selección integrada por cinco personas mexicanas, residentes del Estado, por un periodo de cinco años, de la siguiente manera:
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-1. Convocará a las instituciones de educación superior y de investigación del Estado, para proponer candidatas o candidatos a fin de integrar la Comisión de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días hábiles, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-2. Convocará a organizaciones de la sociedad civil que tengan experiencia comprobada en materia de fiscalización, de rendición de cuentas y combate a la corrupción, en los mismos términos del numeral anterior.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-Para garantizar la pluralidad en la integración de la Comisión de Selección, se deberá designar mínimo dos personas propuestas por las instituciones de educación superior y de investigación del Estado y dos por parte de las organizaciones de la sociedad civil, garantizando en todo momento la paridad de género.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-3. Los cargos de la Comisión de Selección serán honorarios. Quienes funjan como integrantes no podrán formar parte del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión de Selección.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-En caso de que se generen vacantes imprevistas, el proceso de selección de la nueva persona integrante de la Comisión de Selección no podrá exceder el límite de noventa días y la persona que resulte electa desempeñará el encargo por el tiempo restante de la vacante a ocupar.
-
-b) La Comisión de selección deberá emitir una convocatoria, con el objeto de realizar una amplia consulta pública en el Estado, dirigida a toda la sociedad, para que presenten sus postulaciones de aspirantes a ocupar el cargo. Para ello, definirá la metodología, plazos y criterios de selección de los integrantes del Comité de Participación Ciudadana Estatal y deberá hacerlos públicos; en donde deberá considerar al menos las siguientes características:
-
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
-
-1. El método de registro y evaluación de las personas aspirantes;
-
-2. Hacer pública la lista de las y los aspirantes;
-
-3. Hacer públicos los documentos que hayan sido entregados para su inscripción en versiones públicas;
-
-4. Hacer público el cronograma de audiencias;
-
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
-
-5. Podrán efectuarse audiencias públicas en las que se invitará a participar a personas investigadoras, académicas y a organizaciones de la sociedad civil, especialistas en la materia, y
-
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2025)</small>
-
-6. El plazo en que se deberá hacer la designación que al efecto se determine, y que se tomará, en sesión pública, por el voto de la mayoría de sus integrantes.
-
-En caso de que se generen vacantes imprevistas, el proceso de selección de la nueva persona integrante no podrá exceder el límite de noventa días y la persona ciudadana que resulte electa desempeñará el encargo por el tiempo restante de la vacante a ocupar.
+b) (DEROGADO, P.O. 22 DE JUNIO DE 2026)
 
 III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
 
@@ -6934,3 +6892,13 @@ PRIMERO. El presente decreto entrará en vigor una vez publicada la reforma a la
 SEGUNDO. El Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo, revisarán y adecuarán sus disposiciones reglamentarias, normativas y administrativas para garantizar el cumplimiento de lo previsto en el presente decreto.
 
 TERCERO. Se derogan las disposiciones que se opongan a lo establecido en el presente decreto.
+
+P.O. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA NÚMERO: 007 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS PORCIONES NORMATIVAS DEL ARTÍCULO 161 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La Legislatura del Estado deberá armonizar las leyes secundarias que correspondan, en un plazo de hasta ciento veinte días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo establecido en el presente Decreto.
