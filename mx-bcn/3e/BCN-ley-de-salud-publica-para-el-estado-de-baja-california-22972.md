@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2026-03-27"
+last_updated: "2026-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -429,9 +429,9 @@ XIII.- Ejecutar permanentemente una campaña estatal de donación altruista de s
 
 XIV.- Realizar las acciones que sean necesarias a fin de contar con ambulancias equipadas para trasladar a aquellas personas que requieran atención médica de urgencia y se encuentren en zonas marginadas. Estas ambulancias deberán de ubicarse en puntos estratégicos para una mejor cobertura y reducción de los tiempos de traslado; y
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-XV.- Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física;
+XV.- Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la actividad física, acompañados de información y sensibilización sobre el respeto a la diversidad corporal y a la aceptación de la imagen personal como parte del derecho a la salud y libre desarrollo de la personalidad; y
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -4376,3 +4376,9 @@ P.O. 27 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 245 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 116 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL PUNTO TERCERO DEL DECRETO NO. 286 POR EL QUE "SE APRUEBA LA REFORMA AL ARTÍCULO 11 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
