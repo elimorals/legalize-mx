@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-la-universidad-digital-del-estado-de-1403
 country: "mx"
 rank: "codigo"
 publication_date: "2020-01-07"
-last_updated: "2020-01-07"
+last_updated: "2026-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,13 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 22 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2026 (ABROGADO).
 
-Código publicado en la Sección Primera del Periódico Oficial del Estado de México, el martes 7 de enero de 2020.
+Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 7 de enero de 2020.
 
 MAESTRA ISY MARTÍNEZ RAMOS, RECTORA DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO, EN EJERCICIO DE LAS ATRIBUCIONES QUE LE CONFIEREN LOS ARTÍCULOS 3, 15, 19 FRACCIÓN I Y 21 FRACCIONES VI Y XXXIII DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; Y CON FUNDAMENTO EN LOS ARTÍCULOS 16 DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS; 17 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS; 5 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS; DISPOSICIÓN CUARTA DE LA GUÍA PARA LA ELABORACIÓN DE LOS CÓDIGOS DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LAS DEPENDENCIAS Y ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO; Y
 
@@ -617,3 +619,15 @@ Lic. Jorge Arturo Blanquel Laurent
 Personal Operativo
 
 Vocal (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- El presente Código de Conducta y Reglas de Integridad será emitido por el Rector y Presidente del Comité de Ética de la Universidad Digital del Estado de México, a través del Comité de Ética, correspondiendo a la Secretaría Técnica del Comité de Ética, dar difusión a este Código de Conducta y Reglas de Integridad, entre las Personas Servidoras Públicas de la Universidad.
+
+SEGUNDO.- Se agrega como anexo único y como parte de este Código de Conducta y Reglas de Integridad, el formato Carta Compromiso del cumplimiento del Código de Conducta y Reglas de Integridad, que deberán suscribir individualmente, las Personas Servidoras Públicas de la Universidad Digital del Estado de México.
+
+TERCERO.- Se abroga el Código de Conducta de la Universidad Digital del Estado de México, publicado en la Gaceta del Gobierno en fecha 7 de enero de 2020, así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Código.
