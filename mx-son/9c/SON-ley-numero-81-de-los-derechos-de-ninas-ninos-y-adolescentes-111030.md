@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-81-de-los-derechos-de-ninas-ninos-y-adolescentes-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2026-05-11"
+last_updated: "2026-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 2026.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 17 de diciembre de 2015.
 
@@ -167,7 +167,15 @@ XXVIII. Ley General: A la Ley General de los Derechos de Niñas, Niños y Adoles
 
 XXIX. Ley: A la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sonora.
 
+> <small>(ADICIONADA, B.O. 22 DE JUNIO DE 2026)</small>
+
+XXIX BIS. Mínima intervención cuando intervienen en procedimientos judiciales como víctimas o testigos: Consiste en que, cuando se solicite a niñas, niños y adolescentes quienes sean llamados a juicio, a ejercer su derecho a emitir su opinión en todo lo que les concierne, el menor número de veces posible, siempre y cuando se haga fuera del horario escolar.
+
 XXX. Medidas de Protección: A los mecanismos idóneos que se ejecutan cuando se advierta un riesgo inminente en contra de niñas, niños o adolescentes.
+
+> <small>(ADICIONADA, B.O. 22 DE JUNIO DE 2026)</small>
+
+XXX BIS. No revictimización cuando intervienen en procedimientos judiciales como víctimas o testigos: Implica que en el ámbito de la función jurisdiccional, las personas juzgadoras deben tomar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, las cuales se deben guiar por el criterio de más beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido.
 
 XXXI. Órgano Jurisdiccional: A los juzgados o tribunales del Estado de Sonora.
 
@@ -240,6 +248,14 @@ XIII. El acceso a una vida libre de violencia.
 XIV. La accesibilidad.
 
 XV. La debida diligencia estricta.
+
+> <small>(ADICIONADA, B.O. 22 DE JUNIO DE 2026)</small>
+
+XVI. Mínima intervención en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos.
+
+> <small>(ADICIONADA, B.O. 22 DE JUNIO DE 2026)</small>
+
+XVII. No revictimización en juicios cuando intervienen en procedimientos juidiciales como víctimas o testigos.
 
 ###### Artículo 8.
 
@@ -2214,3 +2230,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Judicial del Estado de Sonora contará con un plazo de 60 días naturales para emitir los Lineamientos para la Implementación y Funcionamiento del Registro Nacional de Obligaciones Alimentarias en el Estado de Sonora.
+
+B.O. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 119, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
