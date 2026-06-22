@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-el-uso-de-la-fuerza-publica-de-las-121804"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-29"
-last_updated: "2017-05-29"
+last_updated: "2026-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE REGULA EL USO DE LA FUERZA PUBLICA DE LAS INSTITUCIONES POLICIALES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE JUNIO DE 2026.
 
 Ley publicada en el Número 43 Sección III, del Boletín Oficial del Gobierno del Estado de Sonora, el lunes 29 de mayo de 2017.
 
@@ -127,7 +127,9 @@ XXIII.- Secretario: El Secretario de Seguridad Pública del Estado de Sonora;
 
 XXIV.- Sometimiento: la contención que el Integrante de las Instituciones Policiales del Estado de Sonora, ejerce sobre los movimientos de una persona con el fin de asegurarla; y
 
-XXV.- Uso legítimo de la fuerza pública: La aplicación de técnicas, tácticas y métodos de sometimiento sobre las personas de conformidad con la Ley de Seguridad Pública para el Estado de Sonora, demás disposiciones de esta Ley, así como en otras disposiciones aplicables en la materia.
+> <small>(REFORMADA, B.O. 22 DE JUNIO DE 2026)</small>
+
+XXV.- Uso legítimo de la fuerza pública: La aplicación de técnicas, tácticas y métodos de sometimiento sobre las personas de conformidad con la Ley de Seguridad Pública para el Estado de Sonora, demás disposiciones de esta Ley, así como otras disposiciones aplicables en la materia; su finalidad es salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social.
 
 Para efectos de la fracción XIII del presente artículo, no se considerarán instituciones policiales de fuerza pública a la Agencia Ministerial de Investigación Criminal, dependiente del organismo constitucional autónomo denominado Fiscalía General de Justicia del Estado de Sonora. Su actuación en el marco de esta Ley será para investigar y conocer de delitos en el ámbito de su competencia, pero no tendrán intervención alguna en protocolos de actuación o uso de la Fuerza Pública.
 
@@ -209,9 +211,13 @@ III.- Proporcionalidad: Prescribe la generación de un daño excesivo por parte 
 
 IV.- Rendición de cuentas: Implica la adopción de medidas necesarias para que se castigue el empleo arbitrario o abusivo de la fuerza o de armas de fuego por parte de los Integrantes de las Instituciones Policiales;
 
-V.- Prevención: Consistente en que su acción será tendente a evitar situaciones violentas o restrictivas de derechos, en la medida de lo posible considerando las circunstancias del caso;
+> <small>(REFORMADA, B.O. 22 DE JUNIO DE 2026)</small>
 
-VI.- Racionalidad: Que para el uso de la fuerza pública exista una vinculación entre el fin y el medio utilizado, pues la forma y el grado de fuerza con que se ejecute debe ser, luego de la respectiva y previa valoración de las alternativas disponibles, la que se debió haber considerado pertinente e instrumental para el cumplimiento de los fines inmediatos y mediatos que se persigan con la acción, siempre que esté justificado por las circunstancias específicas y acordes a la situación que se enfrenta:
+V.- Prevención: Consistente en que su acción será tendente a evitar situaciones violentas o restrictivas de derechos, con operativos para el cumplimiento de la ley planificados y llevados a cabo, en la medida de lo posible, minimizando el uso de la fuerza y, cuando esto sea inevitable, reduciendo al mínimo los daños que de ello puedan resultar; y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 22 DE JUNIO DE 2026)</small>
+
+VI.- Racionalidad: Que para el uso de la fuerza pública exista una vinculación entre el fin y el medio utilizado, pues la forma y el grado de fuerza con que se ejecute debe ser, luego de la respectiva y previa valoración de las alternativas disponibles, la que se debió haber considerado pertinente e instrumental para el cumplimiento de los fines inmediatos y mediatos que se persigan con la acción, siempre que esté justificado por las circunstancias específicas y acordes a la situación que se enfrenta; entendiendo como racionalidad la decisión en la que se valora el objetivo que se persigue, las circunstancias de la agresión, las características personales y las capacidades tanto del sujeto a controlar como del integrante de las fuerzas de seguridad; lo que implica que, dada la existencia del acto o intención hostil, es necesaria la aplicación del uso de la fuerza conforme a las siguientes consideraciones:
 
 a) Cuando es producto de una decisión que valora el objetivo que se persigue, las circunstancias del caso y las capacidades tanto del sujeto a controlar, como del Integrante de las Instituciones Policiales;
 
@@ -223,9 +229,19 @@ d) Cuando se usen en la medida de lo posible los medios no violentos antes de re
 
 e) Cuando se utilice la fuerza pública y las armas solamente después de que otros medios resulten ineficaces o no garanticen de ninguna manera el logro del resultado previsto.
 
-VII.- Congruencia: Cuando exista relación y equilibrio entre el nivel de uso de fuerza pública utilizada y el detrimento que se cause a la persona, es decir, sólo se deberán restringir los derechos que resultan atinentes al caso, velando porque los demás no resulten violentados; y
+> <small>(REFORMADA, B.O. 22 DE JUNIO DE 2026)</small>
+
+VII.- Congruencia: Cuando exista relación y equilibrio entre el nivel de uso de fuerza pública utilizada y el detrimento que se cause a la persona, es decir, sólo se deberán restringir los derechos que resultan atinentes al caso, velando porque los demás no resulten violentados;
 
 VIII.- Oportunidad: Consistente en que se aplique el uso de la fuerza pública de manera inmediata para evitar o neutralizar un daño o peligro inminente o actual, que vulnere o lesione la integridad, derechos o bienes de las personas, las libertades, la seguridad ciudadana o la paz pública.
+
+> <small>(ADICIONADA, B.O. 22 DE JUNIO DE 2026)</small>
+
+IX.- Legitimidad: Que el uso de la fuerza pública tenga como finalidad cumplir con un objetivo legalmente previsto, mediante el ejercicio de atribuciones expresamente conferidas a las instituciones policiales en el marco de sus competencias; e
+
+> <small>(ADICIONADA, B.O. 22 DE JUNIO DE 2026)</small>
+
+X.- Idoneidad: Que el uso de la fuerza pública se realice empleando el nivel, medio o mecanismo adecuado para controlar, neutralizar o reducir una situación que represente una amenaza o resistencia, considerando las circunstancias particulares del caso.
 
 Ningún Integrante de las Instituciones Policiales podrá ser sancionado por negarse a ejecutar una orden notoriamente inconstitucional o ilegal, o que pudiera constituir un delito. Toda orden con estas características deberá ser reportada por escrito al superior jerárquico inmediato de quien la emita. Con relación a lo establecido en el artículo 157 de la Ley de Seguridad Pública para el Estado de Sonora.
 
@@ -900,3 +916,13 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los diecisiete días del mes de mayo del año dos mil diecisiete.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 118, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA EL USO DE LA FUERZA PÚBLICA DE LAS INSTITUCIONES POLICIALES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
