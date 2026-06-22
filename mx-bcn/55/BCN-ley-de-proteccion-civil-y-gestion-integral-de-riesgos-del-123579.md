@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-del-12357
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-08"
-last_updated: "2018-07-13"
+last_updated: "2026-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2026.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 8 de septiembre de 2017.
 
@@ -225,15 +225,23 @@ El Poder Ejecutivo del Estado y los Municipios podrán celebrar convenios de col
 
 Son autoridades en materia de Protección Civil en el Estado:
 
-I. El Gobernador Constitucional del Estado;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+I. La persona titular del Poder Ejecutivo del Estado;
 
 II. El Consejo Estatal de Protección Civil;
 
-III. El Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-IV. El titular de la Coordinación Estatal;
+III. La persona titular de la Secretaría General de Gobierno;
 
-V. El Presidente Municipal de cada Ayuntamiento;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+IV. La persona titular de la Coordinación Estatal;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+V. La persona titular de la Presidencia Municipal de cada Ayuntamiento;
 
 VI. Los Consejos Municipales de Protección Civil y
 
@@ -283,9 +291,11 @@ VII. Corresponsabilidad entre sociedad y gobierno y
 
 VIII. Respeto a los derechos humanos antes, durante y después de cualquier agente perturbador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 10.
 
-Corresponde al Ejecutivo del Estado en materia de protección civil:
+Corresponde al Poder Ejecutivo del Estado en materia de protección civil:
 
 I. Asegurar el correcto funcionamiento del Sistema Estatal y dictar los lineamientos generales para coordinar las labores de protección civil en beneficio de la población, sus bienes y entorno, induciendo y conduciendo la participación de los diferentes sectores y grupos de la sociedad en el marco de la Gestión Integral de Riesgos;
 
@@ -317,17 +327,21 @@ El Sistema Estatal es un conjunto orgánico y articulado de estructuras, relacio
 
 El objetivo general del Sistema Estatal es el de proteger a la persona y a la sociedad y su entorno ante la eventualidad de los riesgos y peligros que representan los agentes perturbadores y la vulnerabilidad en el corto, mediano o largo plazo, provocada por fenómenos naturales o antropogénicos, a través de la Gestión Integral de Riesgos y el fomento de la capacidad de adaptación, auxilio y restablecimiento en la población.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 14.
 
-El Sistema Estatal se encuentra integrado por todas las dependencias y entidades de la administración pública estatal, por los sistemas de protección civil de los municipios; por los grupos voluntarios, vecinales y organizaciones de la sociedad civil, los cuerpos de bomberos, así como por los representantes de los sectores privado y social, los medios de comunicación y los centros de investigación, educación y desarrollo tecnológico.
+El Sistema Estatal se encuentra integrado por todas las dependencias y entidades de la administración pública estatal, por los sistemas de protección civil de los municipios; por los grupos de personas voluntarias, vecinales y organizaciones de la sociedad civil, los cuerpos de bomberos, así como por las personas representantes de los sectores privado y social, los medios de comunicación y los centros de investigación, educación y desarrollo tecnológico.
 
-Los integrantes del Sistema Estatal deberán compartir con la autoridad competente que solicite y justifique su utilidad, la información de carácter técnico, ya sea impresa, electrónica, digital o en tiempo real relativa a los sistemas y/o redes de alerta, detección, monitoreo, pronóstico y medición de riesgos.
+Las personas integrantes del Sistema Estatal deberán compartir con la autoridad competente que solicite y justifique su utilidad, la información de carácter técnico, ya sea impresa, electrónica, digital o en tiempo real relativa a los sistemas y/o redes de alerta, detección, monitoreo, pronóstico y medición de riesgos.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 15.
 
-El Gobernador del Estado y los presidentes municipales tendrán dentro de su jurisdicción la responsabilidad sobre la integración y funcionamiento de los Sistemas de Protección Civil, conforme a lo que establezca la presente Ley y la Ley General de Protección Civil.
+La persona titular del Poder Ejecutivo del Estado y las personas titulares de las Presidencias municipales de los Ayuntamientos tendrán dentro de su jurisdicción la responsabilidad sobre la integración y funcionamiento de los Sistemas de Protección Civil, conforme a lo que establezca la presente Ley y la Ley General de Protección Civil.
 
-Aquellos servidores públicos que desempeñen una responsabilidad en las unidades de protección civil deberán contar con certificación de competencia expedida por alguna de las instituciones registradas en la Escuela Nacional Protección Civil.
+Las personas servidoras públicas que desempeñen una responsabilidad en las unidades de protección civil deberán contar con certificación de competencia expedida por alguna de las instituciones registradas en la Escuela Nacional de Protección Civil.
 
 ###### Artículo 16.
 
@@ -339,25 +353,45 @@ La Coordinación Estatal, con sustento en las Leyes y disposiciones locales, pro
 
 El Consejo Estatal es un órgano de consulta, opinión y coordinación de acciones en la materia, en el que se integran en forma multidisciplinaria e interinstitucional, dependencias de los Gobiernos Estatal y Municipales y estará conformado por:
 
-I. El Gobernador Constitucional del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-II. Secretario General de Gobierno;
+I. La persona titular del Poder Ejecutivo del Estado, quien lo presidirá;
 
-III. Los titulares de las Secretarías de Estado;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-IV. Los Presidentes Municipales de los Ayuntamientos del Estado;
+II. La persona titular de la Secretaría General de Gobierno;
 
-V. El Presidente de la Comisión de la materia, del Congreso del Estado y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-VI. El titular de la Coordinación Estatal.
+III. Las personas titulares de las Secretarías de Estado;
 
-Por cada miembro propietario se nombrará un suplente.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-Al Gobernador del Estado lo suplirá el Secretario General de Gobierno, a quien lo suplirá el titular de la Coordinación Estatal; en el caso de servidores públicos federales, estatales y municipales se nombrarán suplentes que ostenten cargos con nivel inmediato inferior; el Presidente de la Comisión respectiva del Congreso del Estado será suplido por el Secretario de la propia Comisión.
+IV. Las personas titulares de las Presidencias Municipales de los Ayuntamientos del Estado;
 
-El Presidente del Consejo, convocará y presidirá las sesiones ordinarias, extraordinarias y permanentes; y, de acuerdo a los asuntos a tratar, podrá invitar a las sesiones o a formar parte de las comisiones especializadas, a representantes de dependencias o entidades públicas y privadas, asociaciones y organizaciones sociales, así como a las agrupaciones e instituciones académicas y profesionales.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-El Presidente del Consejo, de acuerdo a los asuntos a tratar podrá invitar a las sesiones o a formar parte de las comisiones especializadas a representantes de dependencias o entidades públicas y privadas, asociaciones y organizaciones sociales, así como a las agrupaciones e instituciones académicas y profesionales. Asimismo, podrá invitar a los titulares de Delegaciones Estatales de las Dependencias y Entidades de la Administración Pública Federal, que atiendan ramos de actividad relacionados con la ejecución de los programas de prevención, auxilio y apoyo en materia de protección civil, en los términos que establezcan los convenios de colaboración o de coordinación que al respecto se celebren.
+V. La persona que presida la Comisión de la materia, del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+VI. La persona titular de la Coordinación Estatal.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
+Por cada persona propietaria se nombrará una persona suplente.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
+A la persona titular del Poder Ejecutivo del Estado, la suplirá la persona titular de la Secretaría General de Gobierno, quien a su vez será suplida por la persona titular de la Coordinación Estatal; en el caso de personas servidoras públicas federales, estatales y municipales se nombrarán personas suplentes que ostenten cargos con nivel inmediato inferior; la persona que presida la Comisión respectiva del Congreso del Estado será suplida por la persona titular de la Secretaría de la propia Comisión.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
+La persona que presida el Consejo, convocará y dirigirá las sesiones ordinarias, extraordinarias y permanentes, y, de acuerdo a los asuntos a tratar, podrá invitar a las sesiones o a formar parte de las comisiones especializadas, a personas representantes de dependencias o entidades públicas y privadas, asociaciones y organizaciones sociales, así como a las agrupaciones e instituciones académicas y profesionales.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
+La persona que presida el Consejo, de acuerdo a los asuntos a tratar podrá invitar a las sesiones o a formar parte de las comisiones especializadas a personas representantes de dependencias o entidades públicas y privadas, asociaciones y organizaciones sociales, así como a las agrupaciones e instituciones académicas y profesionales. Asimismo, podrá invitar a las personas titulares de las Delegaciones Estatales de las Dependencias y Entidades de la Administración Pública Federal, que atiendan ramos de actividad relacionados con la ejecución de los programas de prevención, auxilio y apoyo en materia de protección civil, en los términos que establezcan los convenios de colaboración o de coordinación que al respecto se celebren.
 
 ###### Artículo 18.
 
@@ -399,29 +433,39 @@ XVII. Promover junto con el Sistema Estatal para el Desarrollo Integral de la Fa
 
 XVIII. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 19.
 
-El Consejo Estatal se reunirá en sesiones ordinarias, extraordinarias o permanentes, en comités o en Pleno, a convocatoria de su Presidente, en los plazos y formas que establezca el reglamento.
+El Consejo Estatal se reunirá en sesiones ordinarias, extraordinarias o permanentes, en comités o en Pleno, a convocatoria de la Presidencia, en los plazos y formas que establezca el reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 20.
 
-La facultad de declarar la situación de emergencia, en todo o en parte del territorio del Estado, corresponde al titular del Ejecutivo Estatal.
+La facultad de declarar la situación de emergencia, en todo o en parte del territorio del Estado, corresponde a la persona titular del Poder Ejecutivo Estatal.
 
 ###### Artículo 21.
 
 El Consejo Estatal sesionará permanentemente cuando ocurra un desastre, formulando un diagnóstico y evaluación de la situación de emergencia y, decidir las acciones a tomar, así como determinar los recursos necesarios para la respuesta.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 22.
 
-El Secretario General de Gobierno será el Secretario Ejecutivo del Consejo Estatal. El Secretario Técnico será el Coordinador Estatal.
+La persona titular de la Secretaría General de Gobierno será titular de la Secretaría Ejecutiva del Consejo Estatal. La Secretaría Técnica será la persona titular de la Coordinación Estatal.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 23.
 
-El Consejo Estatal sesionará ordinariamente en pleno, por lo menos, dos veces al año y extraordinariamente cuando sea convocado por el Gobernador del Estado.
+El Consejo Estatal sesionará ordinariamente en pleno, por lo menos, dos veces al año y extraordinariamente cuando sea convocado por la persona titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 24.
 
-Corresponde al Secretario Ejecutivo:
+Corresponde a la persona titular de la Secretaría Ejecutiva:
 
 I. Presentar anualmente a la consideración del Consejo Estatal el Informe del Avance del Programa Estatal;
 
@@ -429,7 +473,9 @@ II. Concertar con los Poderes Legislativo y Judicial del Estado, así como con l
 
 III. Proporcionar a la población en general la información pública que se genere en materia de protección civil relacionada con la autoprotección y el autocuidado;
 
-IV. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal y de su Presidente;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+IV. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal y de la Presidencia;
 
 V. Compilar los acuerdos que se tomen en el Consejo Estatal, llevar el archivo de éstos y de los instrumentos jurídicos que deriven y expedir constancia de los mismos;
 
@@ -447,15 +493,23 @@ XI. Coadyuvar con las instancias federales y estatales de fiscalización, propor
 
 XII. Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos de ayuda federal y estatal, y
 
-XIII. Las demás que le otorga esta Ley y demás disposiciones aplicables, así como las que le encomiende el Consejo Estatal o su Presidente.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+XIII. Las demás que le otorga esta Ley y demás disposiciones aplicables, así como las que le encomiende el Consejo Estatal o la Presidencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 25.
 
-Corresponde al Secretario Técnico:
+Corresponde a la persona Secretaría Técnica:
 
-I. Suplir al Secretario Ejecutivo en sus ausencias;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-II. Elaborar y someter a la consideración del Secretario Ejecutivo, el proyecto de calendario de sesiones del Consejo Estatal y el proyecto de orden del día de cada sesión, para que en su momento sean sometidos a la aprobación del Consejo Estatal;
+I. Suplir a la persona titular de la Secretaría Ejecutiva en sus ausencias;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+II. Elaborar y someter a la consideración de la Secretaría Ejecutiva, el proyecto de calendario de sesiones del Consejo Estatal y el proyecto de orden del día de cada sesión, para que en su momento sean sometidos a la aprobación del Consejo Estatal;
 
 III. Coordinar la realización de los trabajos específicos y acciones que determine el Consejo Estatal;
 
@@ -465,7 +519,9 @@ V. Verificar que los programas, estrategias, acciones y políticas que se adopte
 
 VI. Preparar la evaluación de cumplimiento del Programa Estatal de Protección Civil, y
 
-VII. Las demás funciones que se señalen en el Reglamento de esta Ley o que le sean encomendadas por el Presidente o el Secretario Ejecutivo del Consejo Estatal.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+VII. Las demás funciones que se señalen en el Reglamento de esta Ley o que le sean encomendadas por la Presidencia o la Secretaría Ejecutiva.
 
 ###### Artículo 26.
 
@@ -473,9 +529,11 @@ Las sesiones del Consejo Estatal serán públicas y podrán transmitirse en dire
 
 ### CAPÍTULO IV. COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 27.
 
-Para la aplicación de lo dispuesto por la presente Ley, el Ejecutivo del Estado contará con una Coordinación Estatal de Protección Civil, la cual dependerá de la Secretaría General de Gobierno, tendrá nivel de Dirección General y gozará de autonomía de operación y gestión, teniendo funciones de autoridad en todo lo relativo a la prevención y mitigación ante las amenazas de riesgo geológico, hidrometeoro lógico (sic), químico, sanitario y socio organizativo.
+Para la aplicación de lo dispuesto por la presente Ley, el Poder Ejecutivo del Estado contará con una Coordinación Estatal de Protección Civil, la cual dependerá de la Secretaría General de Gobierno, tendrá nivel de Dirección General y gozará de autonomía de operación y gestión, teniendo funciones de autoridad en todo lo relativo a la prevención y mitigación ante las amenazas de riesgo geológico, hidrometeorológico, químico, sanitario y socio organizativo.
 
 ###### Artículo 28.
 
@@ -519,7 +577,9 @@ XVIII. Suscribir convenios en materia de protección civil y de Gestión Integra
 
 XIX. Proteger a personas ante el conocimiento de riesgo inminente de impacto de un fenómeno perturbador, cuando la autoridad competente en el ramo no actúe oportunamente, sin deslindar a ésta de su responsabilidad o ante el conocimiento de algún riesgo inminente que pueda afectar a dos o más municipios del Estado, o en un municipio cuando la autoridad municipal no haya realizado la acción de protección o auxilio a su debido tiempo;
 
-XX. Ordenar la evacuación o desalojo temporal en propiedad privada de menores de edad, personas con discapacidad o personas vulnerables y, en su totalidad en establecimientos públicos, comercios, servicios o industrias, así como la suspensión temporal de servicios públicos, o suspensión temporal de obras en construcción que pongan en peligro a la población, sus bienes, la infraestructura y/o el medio ambiente;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+XX. Ordenar la evacuación o desalojo temporal en propiedad privada de niñas, niños y adolescentes, personas con discapacidad o personas vulnerables y, en su totalidad en establecimientos públicos, comercios, servicios o industrias, así como la suspensión temporal de servicios públicos, o suspensión temporal de obras en construcción que pongan en peligro a la población, sus bienes, la infraestructura y/o el medio ambiente;
 
 XXI. Aprobar los programas internos de protección civil de los establecimientos que conforme a esta ley sean de competencia Estatal;
 
@@ -549,13 +609,19 @@ XXXIII. Elaborar y mantener actualizado el Atlas Estatal de Riesgos;
 
 XXXIV. Coordinar el apoyo y asesoría a las dependencias y entidades de la administración pública estatal, a los Poderes Legislativo y Judicial y a los órganos constitucionales autónomos en la prevención de emergencias y desastres y, con base en la suscripción de convenios, a los gobiernos de los municipios, así como a las instituciones de carácter social y privado;
 
-XXXV. Promover y apoyar la capacitación de los profesionales, especialistas y técnicos en materia de protección civil;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+XXXV. Promover y apoyar la capacitación de personas profesionales, especialistas y técnicas en materia de protección civil;
 
 XXXVI. Promover entre los gobiernos estatal y municipales la creación y construcción de infraestructura y la distribución de equipamiento de protección civil, tendientes a fortalecer las herramientas de gestión del riesgo;
 
-XXXVII. Promover que los gobiernos estatal y municipales elaboren y mantengan actualizados sus respectivos programas de protección civil y formen parte de sus planes de desarrollo;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-XXXVIII. Proponer, en coordinación con la Secretaría de Planeación y Finanzas, los modelos de contratación de seguros e Instrumentos Financieros de Gestión de Riesgos, que garanticen al Estado las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes y
+XXXVII. Promover que el Poder Ejecutivo del Estado y los Ayuntamientos en la Entidad elaboren y mantengan actualizados sus respectivos programas de protección civil y formen parte de sus planes de desarrollo;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+XXXVIII. Proponer, en coordinación con la Secretaría de Hacienda, los modelos de contratación de seguros e Instrumentos Financieros de Gestión de Riesgos, que garanticen al Estado las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes;
 
 XXXIX. En los términos de esta Ley, revisar, autorizar y en su caso supervisar mediante las plataformas y sistemas que al efecto establezca, todo tipo de evento o actividades en zonas abiertas, que puedan implicar un riesgo para quienes lo realicen, procurando la coordinación de esfuerzos con los tres niveles de gobierno, corporaciones y asociaciones civiles necesarias para cumplir con estos fines;
 
@@ -593,15 +659,21 @@ La Coordinación Estatal tendrá a su cargo el Centro de Operaciones de Emergenc
 
 Es obligación de los Ayuntamientos establecer el Sistema Municipal de Protección Civil.
 
-Al efecto, los presidentes municipales deberán ejecutar las determinaciones del Ayuntamiento en materia de Protección Civil e integrar, coordinar y supervisar el Sistema Municipal para la prevención, auxilio, recuperación y apoyo de la población en situaciones de desastre, para lo cual deberán coordinarse con las autoridades de los gobiernos Estatal y Federal y, concertar con las instituciones y organismos de los sectores privado y social las acciones conducentes para el logro del mismo objetivo.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
+Al efecto, las personas titulares de las Presidencias Municipales deberán ejecutar las determinaciones del Ayuntamiento en materia de Protección Civil e integrar, coordinar y supervisar el Sistema Municipal para la prevención, auxilio, recuperación y apoyo de la población en situaciones de desastre, para lo cual deberán coordinarse con las autoridades de los gobiernos Estatal y Federal y, concertar con las instituciones y organismos de los sectores privado y social las acciones conducentes para el logro del mismo objetivo.
 
 ###### Artículo 33.
 
 El Sistema Municipal es parte integrante del Sistema Estatal, y tiene como fin prevenir y proteger a las personas, su patrimonio y entorno, ante la posibilidad de un desastre producido por causas de origen natural o humano.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 34.
 
-El Sistema Municipal será el primer nivel de respuesta ante cualquier fenómeno destructor, que afecte a la población y, será el Presidente Municipal el responsable de coordinar la intervención del Sistema para el auxilio que se requiera.
+El Sistema Municipal será el primer nivel de respuesta ante cualquier fenómeno destructor, que afecte a la población y, será la persona titular de la Presidencia Municipal responsable de coordinar la intervención del Sistema para el auxilio que se requiera.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 35.
 
@@ -611,7 +683,9 @@ I. El Consejo Municipal;
 
 II. La unidad de protección civil municipal;
 
-III. Los representantes de los sectores público, social y privado, grupos voluntarios, instituciones educativas y, expertos en diferentes áreas;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+III. Las personas representantes de los sectores público, social y privado, grupos de personas voluntarias, instituciones educativas y personas expertas en diferentes áreas;
 
 IV. Las Unidades Internas de Protección Civil y
 
@@ -631,7 +705,9 @@ III. Inventarios y directorios de recursos humanos y materiales.
 
 La estructura del Sistema Municipal de Protección Civil es parte del Sistema Estatal de la materia y será determinada por cada ayuntamiento, tomando en consideración la densidad de población y la extensión de su territorio, así como la disponibilidad de recursos humanos, materiales y financieros con que cuente.
 
-En todo caso, el Presidente Municipal, el Secretario del Ayuntamiento y el Coordinador Municipal fungirán como Presidente, Secretario Ejecutivo y Secretario Técnico, respectivamente, del Consejo Municipal de Protección Civil.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
+En todo caso, las personas titulares de la Presidencia Municipal, la Secretaría del Ayuntamiento y la coordinación Municipal encabezarán la Presidencia, la Secretaría Ejecutiva y la Secretaría Técnica, respectivamente, del Consejo Municipal de Protección Civil.
 
 ### CAPÍTULO VI. CONSEJO MUNICIPAL DE PROTECCIÓN CIVIL
 
@@ -639,27 +715,43 @@ En todo caso, el Presidente Municipal, el Secretario del Ayuntamiento y el Coord
 
 El Consejo Municipal es un órgano consultivo de coordinación de acciones y de participación social para la planeación de la protección en el territorio municipal, y será el conducto formal para convocar a los sectores de la sociedad en la integración del Sistema Municipal.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 39.
 
-Los Presidentes Municipales, deberán constituir su Consejo Municipal dentro de los sesenta días naturales posteriores a la toma de protesta del Ayuntamiento.
+Las personas titulares de las Presidencias Municipales, deberán constituir su Consejo Municipal dentro de los sesenta días naturales posteriores a la toma de protesta del Ayuntamiento, respectivo.
 
 ###### Artículo 40.
 
 El Consejo Municipal estará integrado por:
 
-I. El Presidente Municipal, quien lo presidirá;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-II. El Secretario del Ayuntamiento, quien será el Secretario Ejecutivo;
+I. La persona titular de la Presidencia Municipal, quien lo presidirá;
 
-III. El titular de la unidad de protección civil municipal, quien será el Secretario Técnico;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-IV. Un Regidor designado para atender los asuntos de protección civil;
+II. La persona titular de la Secretaría del Ayuntamiento, quien presidirá la Secretaría Ejecutiva;
 
-V. Los titulares y representantes de las dependencias y entidades de la Administración Pública Municipal cuya área de competencia corresponda a los objetivos del Sistema Municipal, con carácter de vocales, y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-VI. Los representantes de las organizaciones social y privada e instituciones académicas radicadas en el Municipio y los grupos voluntarios, previa convocatoria del Presidente del Consejo Municipal, con carácter de vocales.
+III. La persona titular de la unidad de protección civil municipal, quien presidirá la Secretaría Técnica;
 
-A las reuniones del Consejo se podrá invitar a los delegados municipales que resulte conveniente, según el asunto de que se trate, o cuando corresponda a su circunscripción territorial.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+IV. La persona titular de la Regiduría designada para atender los asuntos de protección civil;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+V. Las personas titulares y representantes de las dependencias y entidades de la Administración Pública Municipal cuya área de competencia corresponda a los objetivos del Sistema Municipal, con carácter de vocales; y
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+VI. Las personas representantes de las organizaciones sociales y privadas e instituciones académicas radicadas en el Municipio y los grupos de personas voluntarias, previa convocatoria de la Presidencia del Consejo Municipal, con carácter de vocales.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
+A las reuniones del Consejo se podrá invitar a las personas titulares de las delegaciones municipales que resulten convenientes, según el asunto de que se trate, o cuando corresponda a su circunscripción territorial.
 
 ###### Artículo 41.
 
@@ -691,9 +783,11 @@ XII. Establecer una adecuada coordinación del Sistema Municipal, con los sistem
 
 XIII. Las demás que señalen las leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 42.
 
-El Consejo Municipal se reunirá en sesiones ordinarias y extraordinarias, en comités o en Pleno, a convocatoria del Presidente, trimestralmente. Cuando se ausente el Presidente, serán dirigidas por el Secretario Ejecutivo.
+El Consejo Municipal se reunirá en sesiones ordinarias y extraordinarias, en comités o en Pleno, a convocatoria de la Presidencia del Consejo, trimestralmente. Cuando se ausente la persona titular de la Presidencia, serán dirigidas por la persona titular de la Secretaría Ejecutiva.
 
 ### CAPÍTULO VII. UNIDAD DE PROTECCIÓN CIVIL MUNICIPAL
 
@@ -701,11 +795,15 @@ El Consejo Municipal se reunirá en sesiones ordinarias y extraordinarias, en co
 
 Cada municipio integrará dentro de su estructura orgánica una unidad de protección civil municipal, de nivel no menor a Dirección General, dependiente de la Secretaría del Ayuntamiento, que realizará sus acciones con un enfoque de Gestión Integral de Riesgos y de Continuidad de Operaciones, debiendo desarrollar sus programas en concordancia con la Coordinación Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 44.
 
-Corresponde al Presidente Municipal:
+Corresponde a la persona titular de la Presidencia Municipal:
 
-I. Nombrar al Coordinador Municipal de Protección Civil;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+I. Nombrar a la persona encargada de la Coordinación de Protección Civil Municipal;
 
 II. Dirigir las acciones necesarias para enfrentar, en primera instancia, las emergencias y/o desastres que se presenten en el municipio;
 
@@ -765,9 +863,11 @@ La unidad de protección civil municipal operará coordinadamente con la Coordin
 
 ### CAPÍTULO VIII. CENTRO MUNICIPAL DE OPERACIONES
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 49.
 
-Corresponde al Presidente Municipal coordinar y dirigir técnica y operativamente la atención de emergencias, para lo cual contará con el apoyo del Centro Municipal de Operaciones.
+Corresponde a la persona titular de la Presidencia Municipal de cada ayuntamiento coordinar y dirigir técnica y operativamente la atención de emergencias, para lo cual contará con el apoyo del Centro Municipal de Operaciones.
 
 ###### Artículo 50.
 
@@ -777,9 +877,13 @@ El Centro Municipal de Operaciones se instalará en el domicilio de la unidad de
 
 El Centro Municipal de Operaciones se integra por:
 
-I. Un Coordinador, que será el Presidente Municipal o la persona que éste designe y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
 
-II. Los titulares o representantes de las demás dependencias públicas estatales y municipales cuyas actividades estén relacionadas con protección civil, y los representantes de los grupos voluntarios y organismos especializados en atención de emergencias.
+I. Una coordinación, que será presidida por la persona titular de la Presidencia Municipal o la persona que ésta designe; y
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+II. Las personas titulares o representantes de las demás dependencias públicas estatales y municipales cuyas actividades estén relacionadas con protección civil, y las personas representantes de los grupos voluntarios y organismos especializados en atención de emergencias.
 
 ###### Artículo 52.
 
@@ -793,9 +897,11 @@ III. Concertar con los poseedores de redes de comunicación existentes en el mun
 
 IV. Coordinarse con el Consejo Municipal, en las acciones, personas y recursos disponibles para la atención del desastre, con base en la identificación de riesgos, preparación de la comunidad y capacidad de respuesta municipal, considerando que en caso de que su capacidad de respuesta sea rebasada, se solicitará la intervención estatal.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 53.
 
-El Gobierno Municipal, a través de su Coordinador, activará el Centro Municipal de Operaciones con base en la gravedad del impacto producido por una calamidad.
+El Gobierno Municipal, a través de la Coordinación, activará el Centro Municipal de Operaciones con base en la gravedad del impacto producido por una calamidad.
 
 ### CAPÍTULO IX. BOMBEROS
 
@@ -817,9 +923,11 @@ V. Proveer información a la población en general sobre prevención, mitigació
 
 Los derechos generados por cursos o capacitaciones en materia de protección civil que impartan las corporaciones de bomberos deberán estar contemplado (sic) en la ley de ingresos del Municipio que corresponda.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 56.
 
-Las corporaciones de bomberos nombrarán un responsable que se coordine con el Centro de Operaciones de Emergencia correspondiente, ya sea estatal o municipal.
+Las corporaciones de bomberos nombrarán una persona responsable que se coordine con el Centro de Operaciones de Emergencia correspondiente, ya sea estatal o municipal.
 
 ###### Artículo 57.
 
@@ -901,9 +1009,11 @@ En todo lo relativo a protección civil, las unidades de protección civil munic
 
 ### CAPÍTULO III. PROGRAMAS INTERNOS DE PROTECCIÓN CIVIL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 67.
 
-Es responsabilidad del propietario, responsable legal o titular de dependencia, entidad, institución u organismo del sector público, privado o social, presentar el programa interno de protección civil ante las autoridades competentes para su aprobación.
+Es responsabilidad de la persona propietaria, responsable legal o titular de dependencia, entidad, institución u organismo del sector público, privado o social, presentar el programa interno de protección civil ante las autoridades competentes para su aprobación.
 
 La elaboración y revisión de los programas internos de protección civil se realizará de conformidad con esta ley y las disposiciones reglamentarias correspondientes.
 
@@ -1061,9 +1171,11 @@ Previo a la realización de eventos públicos y en espacios de concentración ma
 
 Las principales medidas del programa y las conductas apropiadas en caso de una contingencia deberán ser difundidas al público participante por parte del organizador antes del evento o al inicio del mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 79.
 
-Los promotores, organizadores o responsables de la realización de eventos o espectáculos públicos de afluencia masiva deberán, con anticipación mínima de cinco días hábiles, presentar a la Coordinación Estatal un programa específico de protección civil, acorde a las características de tales eventos o espectáculos y dar aviso a la unidad de protección civil municipal.
+Las personas promotoras, organizadoras o responsables de la realización de eventos o espectáculos públicos de afluencia masiva deberán, con anticipación mínima de cinco días hábiles, presentar a la Coordinación Estatal un programa específico de protección civil, acorde a las características de tales eventos o espectáculos y dar aviso a la unidad de protección civil municipal.
 
 Los requisitos y formalidades se establecerán de conformidad con lo que disponga el Reglamento.
 
@@ -1143,21 +1255,27 @@ Las dependencias, instituciones, o entidades pertenecientes a los sectores públ
 
 La Coordinación Estatal y las unidades de protección civil municipal, de conformidad a sus atribuciones, asesorarán a las empresas, así como los centros laborales, asociaciones, organismos y entidades de los sectores privado y social, para integrar sus Unidades Internas de Protección Civil.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 84.
 
-De conformidad con la Ley General, una brigada es un grupo de personas que se organiza dentro de un inmueble, capacitadas y adiestradas en funciones básicas de respuesta a emergencias tales como primeros auxilios, combate a conatos de incendio, evacuación, búsqueda y rescate; designados en la Unidad Interna de Protección Civil como encargados del desarrollo y ejecución de acciones de prevención, auxilio y recuperación, con base en lo estipulado en el Programa Interno de Protección Civil del inmueble.
+De conformidad con la Ley General, una brigada es un grupo de personas que se organiza dentro de un inmueble, capacitadas y adiestradas en funciones básicas de respuesta a emergencias tales como primeros auxilios, combate a conatos de incendio, evacuación, búsqueda y rescate; designadas en la Unidad Interna de Protección Civil como encargadas del desarrollo y ejecución de acciones de prevención, auxilio y recuperación, con base en lo estipulado en el Programa Interno de Protección Civil del inmueble.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 85.
 
-Los brigadistas deberán contar con todas las facilidades para su capacitación y desarrollo del entrenamiento y actividades relacionadas con dicha actividad.
+Las personas brigadistas deberán contar con todas las facilidades para su capacitación y desarrollo del entrenamiento y actividades relacionadas con dicha actividad.
 
 ###### Artículo 86.
 
 Ningún brigadista deberá arriesgar, ante ninguna circunstancia, su integridad física y/o su salud en el desarrollo de sus labores.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 87.
 
-A ningún brigadista se le considerará como bombero profesional o voluntario, por lo que no deberá realizar ninguna actividad relativa al combate de incendios estructurales, dentro de su centro de trabajo; así mismo, no deberá portar o utilizar el equipo de protección personal para dicha actividad fuera del centro de trabajo, a menos que el brigadista sea certificado y presente dicho certificado como bombero profesional por la Corporación de Bomberos del municipio donde se encuentra laborando.
+A ninguna persona brigadista se le considerará como bombero profesional, por lo que no deberá realizar ninguna actividad relativa al combate de incendios estructurales dentro de su centro de trabajo; así mismo, no deberá portar o utilizar el equipo de protección personal para dicha actividad fuera del centro de trabajo, a menos que la persona brigadista sea certificada y presente dicho certificado como bombero profesional por la Corporación de bomberos del municipio donde se encuentra laborando.
 
 ###### Artículo 88.
 
@@ -1169,27 +1287,37 @@ En caso de que la emergencia o desastre supere la capacidad de respuesta del mun
 
 ### CAPÍTULO V. CAPACITACIÓN Y PROFESIONALIZACIÓN DE LA PROTECCIÓN CIVIL
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 90.
 
-Para que los particulares o dependencias públicas puedan ejercer la actividad de asesoría y capacitación deberán contar con el registro expedido por la Coordinación Estatal, se les denominará agentes consultores capacitadores y deberán renovar sus registros cada dos años, estarán sujetos a lo especificado en el reglamento de la presente Ley.
+Para que la ciudadanía interesada o dependencias públicas puedan ejercer la actividad de asesoría y capacitación deberán contar con el registro expedido por la Coordinación Estatal, se les denominará agentes consultores capacitadores y deberán renovar sus registros cada dos años, mismas que estarán sujetas a lo especificado en el reglamento de la presente Ley.
 
-Igualmente será obligatorio para los sujetos señalados en el párrafo anterior obtener el registro en tratándose de actividades de evaluación, elaboración de programas internos de protección civil, de continuidad de operaciones y estudios de vulnerabilidad y riesgos en materia de protección civil.
+Igualmente será obligatorio para las personas señaladas en el párrafo anterior obtener el registro en tratándose de actividades de evaluación, elaboración de programas internos de protección civil, de continuidad de operaciones y estudios de vulnerabilidad y riesgos en materia de protección civil.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 91.
 
-Los agentes consultores capacitadores con especialidad en rescate y atención de emergencias en materia de protección civil y bomberos, tanto externos como gubernamentales deberán estar certificados por el Comité Estatal de Certificación a que se refiere la presente ley.
+Las y los agentes consultores capacitadores con especialidad en rescate y atención de emergencias en materia de protección civil y bomberos, tanto externos como gubernamentales deberán estar certificados por el Comité Estatal de Certificación a que refiere la presente ley.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 92.
 
-Los agentes consultores capacitadores que deseen realizar estudios o evaluaciones sobre riesgo sísmico y/o hidrometeorológico, deberán tener un certificado especial al respecto emitido por la Coordinación Estatal de acuerdo a lo estipulado en el reglamento de la presente ley.
+Las y los agentes consultores capacitadores que deseen realizar estudios o evaluaciones sobre riesgo sísmico y/o hidrometeorológico, deberán tener un certificado especial al respecto emitido por la Coordinación Estatal de acuerdo a lo estipulado en el reglamento de la presente ley.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 93.
 
-La profesionalización de los integrantes del Sistema Nacional será permanente y tendrá por objeto lograr una mejor y más eficaz prestación del servicio, así como el desarrollo integral de sus elementos mediante la institucionalización de un servicio civil de carrera cuando se trate de servidores públicos de los tres órdenes de gobierno, de conformidad a lo que se establezca en la Ley de la materia.
+La profesionalización de las personas integrantes del Sistema Nacional será permanente y tendrá por objeto lograr una mejor y más eficaz prestación del servicio, así como el desarrollo integral de sus elementos mediante la institucionalización de un servicio civil de carrera cuando se trate de personas servidoras públicas de los tres órdenes de gobierno, de conformidad a lo que se establezca en la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 94.
 
-Para los efectos del artículo anterior, los gobiernos estatal y municipales se sujetarán a la normatividad que exista en materia de servicio civil de carrera o la que haga sus veces, en la que se deberá regular el ingreso, formación, permanencia, promoción, evaluación y todos aquellos aspectos que se consideren pertinentes a la profesionalización y estímulos a los miembros del Sistema Estatal, conforme a las características que le son propias, y a los requerimientos de la sociedad y del Estado.
+Para los efectos del artículo anterior, los gobiernos estatal y municipal se sujetarán a la normatividad que exista en materia de servicio civil de carrera o la que haga sus veces, en la que se deberá regular el ingreso, formación, permanencia, promoción, evaluación y todos aquellos aspectos que se consideren pertinentes a la profesionalización y estímulos a las personas integrantes del Sistema Estatal, conforme a las características que le son propias, y a los requerimientos de la sociedad y del Estado.
 
 ## TÍTULO CUARTO. RECURSOS PARA LA PROTECCIÓN CIVIL
 
@@ -1207,11 +1335,13 @@ El Ejecutivo Estatal gestionará ante el Gobierno Federal los subsidios a dicho 
 
 El Fondo Estatal de Protección Civil operará según se establezca el reglamento de esta ley y en el caso de los recursos federales, en términos de los convenios de coordinación que se celebren, precisando para ello los requisitos para el acceso, ejercicio y comprobación de los recursos, así como las obligaciones en el manejo y mantenimiento de los equipos adquiridos.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 97.
 
-La Secretaría de Planeación y Finanzas del Gobierno del Estado administrará y operará el Fondo Estatal de Protección Civil.
+La Secretaría de Hacienda del Gobierno del Estado administrará y operará el Fondo Estatal de Protección Civil.
 
-La Secretaría de Planeación y Finanzas rendirá anualmente ante el Consejo Estatal un informe amplio, detallado y actualizado sobre los recursos económicos ingresados, así como su manejo y destino; lo anterior, sin perjuicio de la fiscalización de que sea objeto por parte de la (sic) Órgano Superior de Fiscalización del Gobierno de Baja California.
+La Secretaría de Hacienda rendirá anualmente ante el Consejo Estatal un informe amplio, detallado y actualizado sobre los recursos económicos ingresados, así como su manejo y destino; lo anterior, sin perjuicio de la fiscalización de que sea objeto por parte de la Auditoría Superior del Estado de Baja California.
 
 ### CAPÍTULO II. DONATIVOS PARA AUXILIAR A LA POBLACIÓN
 
@@ -1243,13 +1373,17 @@ Las autoridades correspondientes deberán verificar que en todo momento los dona
 
 El Poder Ejecutivo del Estado y los Municipios promoverán la participación corresponsable de la sociedad en la formulación, ejecución y evaluación de los programas y acciones de protección civil que se emprendan en la entidad.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 103.
 
-Los habitantes del Estado, de forma libre, organizada y voluntaria, podrán coadyuvar con las autoridades en las acciones de protección civil, previstas en los programas y acciones a que se refiere esta Ley.
+Las personas habitantes del Estado, de forma libre, organizada y voluntaria, podrán coadyuvar con las autoridades en las acciones de protección civil, previstas en los programas y acciones a que se refiere esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 104.
 
-Toda persona tiene el derecho y la obligación de denunciar ante la autoridad estatal o municipal, cualquier hecho, acto u omisión que cause o pueda causar situaciones de peligro o emergencia para la población, por la eminencia o eventualidad de algún desastre o calamidad pública, que pueda representar perjuicio en su persona o la de terceros, en sus bienes o en su entorno.
+Toda persona tiene el derecho y la obligación de denunciar ante la autoridad estatal o municipal, cualquier hecho, acto u omisión que cause o pueda causar situaciones de peligro o emergencia para la población, por la inminencia o eventualidad de algún desastre o calamidad pública, que pueda representar perjuicio en su persona o el de terceras personas, en sus bienes o en su entorno.
 
 El reglamento indicará la forma, plazos y términos en que se deberá presentar la denuncia.
 
@@ -1273,13 +1407,17 @@ III. Impulsarán el desarrollo de la cultura de protección civil, a través de 
 
 ### CAPÍTULO II. GRUPOS VOLUNTARIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 107.
 
-Los habitantes del Estado podrán participar, de manera libre y organizada, en grupos voluntarios para apoyar en las acciones de protección civil, siempre bajo la supervisión de la Coordinación Estatal o unidad de protección civil municipal, según corresponda.
+Las personas habitantes del Estado podrán participar, de manera libre y organizada, en grupos voluntarios para apoyar en las acciones de protección civil, siempre bajo la supervisión de la Coordinación Estatal o unidad de protección civil municipal, según corresponda.
 
 Las personas que deseen desempeñar labores de rescate y auxilio, deberán integrarse o constituirse preferentemente en grupos voluntarios.
 
-Aquellos que no deseen integrarse a un grupo voluntario podrán registrarse individualmente en las unidades de protección civil correspondientes, precisando su actividad, oficio o profesión, así como su especialidad aplicable a tareas de protección civil.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
+Aquellas personas que no deseen integrarse a un grupo voluntario podrán registrarse individualmente en las unidades de protección civil correspondientes, precisando su actividad, oficio o profesión, así como su especialidad aplicable a tareas de protección civil.
 
 ###### Artículo 108.
 
@@ -1295,9 +1433,11 @@ Es obligación de los grupos voluntarios ya constituidos o que se integren en la
 
 Las unidades de protección civil municipal deberán informar a la Coordinación Estatal de los grupos voluntarios registrados en el municipio.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 111.
 
-El representante de cada grupo voluntario deberá integrarse al Centro Municipal de Operaciones cuando se ordene la activación de éste.
+La persona representante de cada grupo voluntario deberá integrarse al Centro Municipal de Operaciones cuando se ordene la activación de éste.
 
 ###### Artículo 112.
 
@@ -1331,9 +1471,11 @@ Todo grupo u organización dedicada a la atención de emergencias relacionadas c
 
 Grupos o empresas de cualquier tipo de atención pre- hospitalaria o de servicio de ambulancia deberán contar con la autorización por escrito de la Comisión Federal para la Protección Contra Riesgos Sanitarios o la Dirección de Protección Contra Riesgo Sanitario del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 117.
 
-Los instructores internos de los grupos voluntarios de rescate deberán estar certificados por el Comité Estatal de Certificación de Instructores en Rescate y Atención de Emergencias en Materia de Protección Civil y Bomberos.
+Las personas instructoras dentro de los grupos voluntarios de rescate deberán estar certificados por el Comité Estatal de Certificación de Instructores en Rescate y Atención de Emergencias en Materia de Protección Civil y Bomberos.
 
 ###### Artículo 118.
 
@@ -1371,9 +1513,11 @@ III. Elaborar, estructurar y promocionar campañas de difusión sobre temas de s
 
 IV. Promover la celebración de convenios con los sectores público, social, privado y académico con el objeto de difundir la cultura de protección civil.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 124.
 
-Los integrantes del Sistema Estatal promoverán mecanismos para motivar y facilitar la participación de sus dependencias de forma activa, real, concreta y responsable en acciones específicas que reflejen una cultura de protección civil.
+Las personas integrantes del Sistema Estatal promoverán mecanismos para motivar y facilitar la participación de sus dependencias de forma activa, real, concreta y responsable en acciones específicas que reflejen una cultura de protección civil.
 
 ## TÍTULO SEXTO. PREVENCIÓN
 
@@ -1405,7 +1549,9 @@ El Poder Ejecutivo del Estado y los Municipios, en su propio ámbito de competen
 
 Corresponde al Poder Ejecutivo del Estado promover, ante la eventualidad de los desastres de origen natural, la realización de acciones dirigidas a una estrategia integral de transferencia de riesgos, a través de la identificación de la infraestructura por asegurar, el análisis de los riesgos, las medidas para su reducción y la definición de los esquemas de retención y aseguramiento, entre otros.
 
-Para el cumplimiento de lo dispuesto en el párrafo anterior, las dependencias y entidades estatales ejecutoras deberán identificar las obras que formarán parte del inventario estatal de infraestructura para su aseguramiento. Dicho inventario se integrará con base en los lineamientos que emita la Secretaria de Planeación y Finanzas.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
+Para el cumplimiento de lo dispuesto en el párrafo anterior, las dependencias y entidades estatales ejecutoras deberán identificar las obras que formarán parte del inventario estatal de infraestructura para su aseguramiento. Dicho inventario se integrará con base en los lineamientos que emita la Secretaría de Hacienda del Gobierno del Estado.
 
 ###### Artículo 128.
 
@@ -1475,7 +1621,9 @@ Son autoridades competentes para aplicar lo dispuesto por este Capítulo, dentro
 
 I. Las distintas Dependencias del Ejecutivo estatal;
 
-II. La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+II. La Fiscalía General del Estado;
 
 III. Los Gobiernos de los Municipios;
 
@@ -1495,9 +1643,11 @@ El Poder Ejecutivo del Estado buscará y propondrá mecanismos para la transfere
 
 Las autoridades estatales y las de los municipios determinarán qué autoridad bajo su estricta responsabilidad, tendrá competencia y facultades para autorizar la utilización de una extensión territorial en consistencia con el uso de suelo permitido, una vez consideradas las acciones de prevención o reducción de riesgo a que se refieren los artículos de este Capítulo.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 145.
 
-La autorización de permisos de uso de suelo o de utilización por parte de servidores públicos de cualquiera de los tres niveles de gobierno, que no cuenten con la aprobación correspondiente, se considerará una conducta grave, la cual se sancionará de acuerdo con la Ley de Responsabilidad de los Servidores Públicos respectiva.
+La autorización de permisos de uso de suelo o de utilización por parte de personas servidoras públicas de cualquiera de los tres niveles de gobierno, que no cuenten con la aprobación correspondiente, se considerará una conducta grave, la cual se sancionará de acuerdo con la Ley de Responsabilidades Administrativas del Estado.
 
 ### CAPÍTULO IV. ATENCIÓN A LA POBLACIÓN RURAL AFECTADA POR CONTINGENCIAS CLIMATOLÓGICAS
 
@@ -1519,7 +1669,9 @@ Las violaciones y el incumplimiento de preceptos de esta Ley, su reglamento y a 
 
 I. Amonestación;
 
-II. Multa equivalente de veinte a mil UMA;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+II. Multa equivalente de veinte a mil veces el valor de la Unidad de Medida y Actualización (UMA);
 
 III. Clausura temporal o definitiva, total o parcial de los establecimientos, obras, instalaciones o servicios;
 
@@ -1541,27 +1693,35 @@ I. El daño o peligro que se ocasione o pueda ocasionarse a la salud o a la segu
 
 II. La gravedad de la infracción;
 
-III. Las condiciones socioeconómicas del infractor y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2026)</small>
+
+III. Las condiciones socioeconómicas de la persona infractora; y,
 
 IV. La reincidencia.
 
-Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un período de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que esta no hubiese sido desvirtuada.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
+Se considera reincidente a la persona infractora que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un período de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que esta no hubiese sido desvirtuada.
 
 ###### Artículo 151.
 
 En los casos en que se defina la clausura temporal o definitiva, total o parcial de una obra, instalación o establecimiento, la Coordinación Estatal o la unidad de protección civil municipal, según corresponda, podrá solicitar a la autoridad competente la suspensión o cancelación de cualquier permiso o licencia que se hubiere otorgado.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 152.
 
-Cuando se imponga como sanción la suspensión de una obra, instalación o servicio, se ordenará al infractor que realice los actos o subsane las omisiones que motivaron la misma, fijando un plazo prudente para ello a juicio de la Coordinación Estatal o de la unidad de protección civil municipal, según corresponda, en la inteligencia de que la suspensión continuará hasta en tanto no se cumpla con lo ordenado.
+Cuando se imponga como sanción la suspensión de una obra, instalación o servicio, se ordenará a la persona infractora que realice los actos o subsane las omisiones que motivaron la misma, fijando un plazo prudente para ello a juicio de la Coordinación Estatal o de la unidad de protección civil municipal, según corresponda, en la inteligencia de que la suspensión continuará hasta en tanto no se cumpla con lo ordenado.
 
 ###### Artículo 153.
 
 Tratándose de clausura temporal o definitiva, el personal encargado de ejecutarla deberá levantar acta circunstanciada observando las formalidades establecidas para las inspecciones.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
 ###### Artículo 154.
 
-En el caso de que la unidad de protección civil municipal correspondiente, además de la sanción determine la necesidad de demolición, retiro, construcción o modificación de obras e instalaciones, ordenará al infractor su realización. Si éste no cumple en el plazo que para ello se le haya fijado, la unidad de protección civil municipal que corresponda lo comunicará a la autoridad municipal respectiva, para que proceda a su realización con cargo al infractor.
+En el caso de que la unidad de protección civil municipal correspondiente, además de la sanción determine la necesidad de demolición, retiro, construcción o modificación de obras e instalaciones, ordenará a la persona infractora su realización. Si ésta no cumple en el plazo que para ello se le haya fijado, la unidad de protección civil municipal que corresponda lo comunicará a la autoridad municipal respectiva, para que proceda a su realización con cargo a la persona infractora.
 
 ###### Artículo 155.
 
@@ -1573,13 +1733,17 @@ Independientemente de las sanciones administrativas que se impongan al infractor
 
 Contra las sanciones que impongan las unidades de protección civil procede el recurso de revisión.
 
-Será optativo agotar este recurso, o bien, intentar directamente el juicio ante el Tribunal de lo Contencioso Administrativo.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
+
+Será optativo agotar este recurso, o bien, intentar directamente el juicio ante el Tribunal Estatal de Justicia Administrativa.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2026)</small>
 
 ###### Artículo 157.
 
-El recurso administrativo de revisión tiene por objeto que el superior jerárquico examine si en el acto o actos recurridos se aplicó correctamente la ley, si se violaron las formalidades del procedimiento o si se alteraron los hechos que lo motivaron, a fin de confirmarlo, modificarlo o revocarlo, según proceda.
+El recurso administrativo de revisión tiene por objeto que la persona superior jerárquica examine si en el acto o actos recurridos se aplicó correctamente la ley, si se violaron las formalidades del procedimiento o si se alteraron los hechos que lo motivaron, a fin de confirmarlo, modificarlo o revocarlo, según proceda.
 
-El superior jerárquico de la Coordinación Estatal es el Ejecutivo del Estado, y en el caso de las unidades de protección civil municipal, es el Presidente Municipal correspondiente.
+La persona superior jerárquica de la Coordinación Estatal es la persona titular del Poder Ejecutivo del Estado, y en el caso de las unidades de protección civil municipal, es la persona titular de la Presidencia Municipal correspondiente.
 
 ###### Artículo 158.
 
@@ -1646,3 +1810,9 @@ P.O. 13 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 248 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6, 10, 12, 117, 140, 150, 200, 240 Y SE ADICIONAN LOS ARTÍCULOS 117 BIS, 150 BIS, DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA; ASIMISMO SE REFORMAN LOS ARTÍCULO (SIC) 2, 60 Y SE ADICIONAN LOS ARTÍCULOS 66 BIS, 66 TER, 66 QUÁTER, 66 QUINQUIES, 66 SEXIES, 66 SEPTIES Y 66 OCTIES, DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LOS ARTÍCULOS 2, 28, 74, 80, 129 Y SE ADICIONAN LOS ARTÍCULOS 80 BIS, 80 TER, 80 QUATER Y 80 QUINQUIES, DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 22 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 287 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
