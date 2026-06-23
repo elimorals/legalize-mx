@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-expropiacion-para-el-estado-de-aguascalientes-55084"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-16"
-last_updated: "2022-10-17"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EXPROPIACIÓN PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de abril de 2007.
 
@@ -140,6 +140,14 @@ XV. Las que sean declaradas como tales en las leyes expedidas por el Congreso de
 El procedimiento de expropiación, ocupación o limitación de dominio se iniciará por:
 
 I. El Secretario del ramo, en los casos en que se trate de expropiar bienes que serán utilizados directamente por el Gobierno del Estado o cuya construcción estará a cargo de la respectiva dependencia o se trate de un bien que deba aportarse por el Gobierno del Estado en un esquema de coordinación con los gobiernos federal o municipales, para la realización de una obra que se destine a alguna de las causas de utilidad pública prevista por el Articulo 9° del presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
+
+Tratándose de expropiaciones necesarias para concesiones de infraestructura carretera, otorgadas en términos de la Ley de Bienes para (sic) Estado de Aguascalientes o del Código Urbano, el procedimiento se iniciará por la persona titular de la Secretaría de Obras Públicas, a petición formal del concesionario, previa constitución del fondo de garantía para el pago de indemnizaciones que corresponda.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
+
+Como requisito indispensable para dar inicio al procedimiento, el concesionario deberá acreditar la previa constitución del fondo de garantía para el pago de indemnizaciones en los términos previstos en el título de concesión respectivo, siendo por su cuenta y orden la totalidad de los recursos que lo integren. La constitución, el fondeo y la suficiencia del fondo corren entera y exclusivamente a cargo del concesionario, sin que el Estado pueda ser obligado a erogar recurso público alguno por dicho concepto.
 
 II. Los Ayuntamientos, cuando pretendan que se expropien bienes que se encuentren en sus respectivas jurisdicciones para ejecutar acciones tendientes a la consecución de sus funciones y servicios de su competencia; y
 
@@ -582,3 +590,11 @@ El presente Decreto entrará en vigor a los seis meses posteriores de su publica
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 555.- SE ADICIONA LA FRACCIÓN III, AL ARTÍCULO 28, DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2026; Y, SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 10, A LA LEY DE EXPROPIACIÓN PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
