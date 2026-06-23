@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1422
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-16"
-last_updated: "2026-04-20"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de marzo de 2020.
 
@@ -645,9 +645,9 @@ VII.- Formular y evaluar las políticas públicas de Igualdad Sustantiva en el E
 
 La concertación de acciones implementadas por la persona titular del Ejecutivo Estatal y los sectores social y privado se realizarán mediante convenios y contratos, los cuales deberán hacerse públicos en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-VIII.- Proponer políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos económico, político, social, cultural, civil, familiar y laboral;
+VIII.- Proponer políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos económico, político, social, cultural, civil, familiar, de cuidados, de salud y laboral;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2024)</small>
 
@@ -1134,3 +1134,11 @@ P.O. 20 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 439.- SE REFORMA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 520.- SE REFORMA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes, se entenderán referidas a la Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Aguascalientes.
