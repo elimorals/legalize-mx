@@ -4,7 +4,7 @@ identifier: "AGU-ley-por-la-que-se-crea-la-universidad-de-la-policia-y-164202"
 country: "mx"
 rank: "ley"
 publication_date: "2023-02-03"
-last_updated: "2026-04-27"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en el Número 3 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 3 de febrero de 2023.
 
@@ -107,9 +107,17 @@ XII. Promover y suscribir convenios con Organizaciones e Instituciones afines de
 
 XIII. Coordinarse con la Academia Nacional de Seguridad Pública, las Academias Regionales y Estatales, para implementar actividades académicas dirigidas al personal de las diferentes áreas de especialidades de seguridad pública del Estado de Aguascalientes y los demás Estados de la República;
 
-XIV. Administrar su patrimonio con apego a las disposiciones legales aplicables; y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XV. Llevar a cabo los demás actos jurídicos, académicos y administrativos, necesarios para el cumplimiento de su objeto.
+XIV. Administrar su patrimonio con apego a las disposiciones legales aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JUNIO DE 2026)</small>
+
+XV. Establecer un programa de becas, el cual estará sujeto a la disponibilidad presupuestal de la Universidad, y a los términos fijados en las disposiciones reglamentarias; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE JUNIO DE 2026)</small>
+
+XVI. Llevar a cabo los demás actos jurídicos, académicos y administrativos, necesarios para el cumplimiento de su objeto.
 
 ### CAPÍTULO II. De los Órganos de Gobierno
 
@@ -986,3 +994,9 @@ P.O. 27 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 456.- SE REFORMA LA LEY POR LA QUE (SIC) CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 528.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
