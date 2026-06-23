@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2026-05-25"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -39,7 +39,9 @@ Decreto Número 366
 
 Se aprueba la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes, para quedar bajo los siguientes términos:
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2026)</small>
+
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS PARA EL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -57,19 +59,21 @@ Los objetivos específicos de esta Ley son:
 
 I. Transformar las condiciones políticas, sociales, económicas y culturales que justifican, alientan y reproducen la violencia de género contra las niñas, adolescentes y mujeres para generar mecanismos institucionales de aplicación de políticas de gobierno integrales que garanticen el respeto y el ejercicio de sus derechos humanos, de conformidad con la legislación nacional, así como de los instrumentos internacionales en la materia aprobados por México, y para impulsar y consolidar la atención integral y la generación de oportunidades de manera igualitaria para todas las mujeres;
 
-II. Garantizar la protección institucional especializada, de las mujeres víctimas de violencia de género, de sus hijas e hijos y de las instituciones, profesionales, denunciantes, testigos y demás personas intervinientes;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+II. Garantizar la protección institucional especializada, de las mujeres víctimas de violencias de género, de sus hijas e hijos y de las instituciones, profesionales, denunciantes, testigos y demás personas intervinientes;
 
-III. Asegurar el acceso pronto, expedito, transparente y eficaz de la justicia para las mujeres víctimas u ofendidas de violencia de género tanto desde los ámbitos de la procuración, como de la impartición de justicia;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+III. Asegurar el acceso pronto, expedito, transparente y eficaz de la justicia para las mujeres víctimas u ofendidas de violencias de género tanto desde los ámbitos de la procuración, como de la impartición de justicia;
 
-IV. Establecer, promover, difundir, estandarizar y ejecutar la política integral de gobierno, estatal y municipal, para la prevención de la violencia contra las mujeres y las niñas, así como las acciones para la atención de las víctimas u ofendidas de cualquier tipo o modalidad de violencia de género, así como de la sanción y la reeducación de las personas agresoras;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+IV. Establecer, promover, difundir, estandarizar y ejecutar la política integral de gobierno, estatal y municipal, para la prevención de las violencias contra las mujeres y las niñas, así como las acciones para la atención de las víctimas u ofendidas de cualquier tipo o modalidad de violencias de género, así como de la sanción y la reeducación de las personas agresoras;
 
-V. Favorecer la recuperación y la construcción del pleno goce de los Derechos Humanos para las mujeres y las niñas víctimas de violencia de género u ofendidas, que les permita generar un nuevo proyecto de vida;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+V. Favorecer la recuperación y la construcción del pleno goce de los Derechos Humanos para las mujeres y las niñas víctimas de violencias de género u ofendidas, que les permita generar un nuevo proyecto de vida;
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
@@ -79,37 +83,47 @@ VI. Asegurar la concurrencia, integralidad y optimización de recursos e instrum
 
 VII. Garantizar el estudio de la efectividad de la intervención y la reproducibilidad del fenómeno;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-VIII. Promover el desempeño de las instituciones públicas y privadas para que asuman el compromiso de prevenir y atender la violencia de género contra las mujeres;
+VIII. Promover el desempeño de las instituciones públicas y privadas para que asuman el compromiso de prevenir y atender las violencias de género contra las mujeres y niñas;
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2019)</small>
 
 IX. Garantizar que la educación en todos los niveles se realice en el marco de la igualdad entre mujeres y hombres evitando toda forma de discriminación y violencia;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-X. Impulsar la planeación, diseño, implementación, ejecución, seguimiento y evaluación de políticas públicas transversales e integrales para prevenir, atender y sancionar la violencia en contra de las mujeres, fomentando las medidas administrativas y presupuestales necesarias para garantizar el cumplimiento de la Ley;
+X. Impulsar la planeación, diseño, implementación, ejecución, seguimiento y evaluación de políticas públicas transversales e integrales para prevenir, atender y sancionar las violencias en contra de las mujeres, fomentando las medidas administrativas y presupuestales necesarias para garantizar el cumplimiento de la Ley;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XI. Garantizar la comunicación y difusión de los derechos de las mujeres y el acceso a una vida libre de violencia, contenidos en los instrumentos internacionales y en la presente ley; y
+XI. Garantizar la comunicación y difusión de los derechos de las mujeres y niñas y el acceso a una vida libre de violencias, contenidos en los instrumentos internacionales y en la presente ley; y
 
 > <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2024)</small>
 
 XII. Impulsar un cambio cultural a partir de la adopción de medidas progresivas, específicas para modificar patrones culturales y fomentar la educación y capacitación en perspectiva de género y la administración de justicia.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2026)</small>
 
-Artículo 2° bis.- Los principios rectores para el acceso de todas las mujeres a una vida libre de violencia que deberán ser observados en la elaboración y ejecución de las políticas públicas estatales y municipales son:
+Artículo 2° bis.- Los principios rectores para el acceso de todas las mujeres a una vida libre de violencias que deberán ser observados en la elaboración y ejecución de las políticas públicas estatales y municipales son:
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2021)</small>
 
 I. La igualdad sustantiva entre la mujer y el hombre;
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
 II. El respeto a la dignidad humana de las mujeres;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2021)</small>
 
 III. La no discriminación;
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
 IV. La libertad de las mujeres;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2021)</small>
 
 V. La promoción del desarrollo integral de las mujeres;
 
@@ -145,11 +159,11 @@ XII. La interculturalidad; y
 
 XIII. El enfoque diferencial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 3°.
 
-La violencia contra las mujeres, de manera enunciativa, no limitativa, comprende las siguientes formas:
+Las violencias contra las mujeres, de manera enunciativa, no limitativa, comprende las siguientes formas:
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
@@ -223,33 +237,37 @@ XXIV. Todas aquellas que de alguna forma denigren la dignidad de la mujer.
 
 Para los efectos de esta Ley, se entiende por:
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-I. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes;
+I. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Aguascalientes;
 
-II. Sistema: El Sistema Estatal para la Erradicación de la Violencia de Género contra las Mujeres;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-III. Consejo: El Consejo Estatal para la Erradicación de la Violencia de Género contra las Mujeres;
+II. Sistema: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar las Violencias Contra las Mujeres;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-IV. Programa: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres;
+III. Consejo: El Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de las Violencias Contra las Mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+IV. Programa: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar las Violencias de Género contra las Mujeres;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
 
 V. Perspectiva de Género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-VI. Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+VI. Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencias;
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
 
 VII. Persona agresora: Aquella que inflige cualquier tipo de violencia contra las mujeres;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-VIII. Derechos Humanos de las Mujeres: Derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todos (sic) las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer y demás instrumentos internacionales en la materia;
+VIII. Derechos Humanos de las Mujeres: Derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer y demás instrumentos internacionales en la materia;
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
@@ -267,9 +285,9 @@ XI. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de
 
 XII. Víctima indirecta: Familiares o aquellas personas físicas dependientes de la víctima directa que tengan una relación inmediata con ella;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XIII. Daño: Cualquier menoscabo que sufre una persona como consecuencia de la acción u omisión de otra, por si o a través de interpósita persona y que afecte a sus bienes, sus derechos, intereses o su integridad física, emocional o psicológica: y
+XIII. Daño: Cualquier menoscabo que sufre una persona como consecuencia de la acción u omisión de otra, por sí o a través de interpósita persona y que afecte a sus bienes, sus derechos, intereses o su integridad física, emocional o psicológica;
 
 > <small>(ADICIONADA, P.O. 12 DE MAYO DE 2025)</small>
 
@@ -279,9 +297,9 @@ XIV. Medidas u Órdenes de Protección: A las medidas y órdenes de protección 
 
 XV. La universalidad, la interdependencia, e indivisibilidad de los derechos humanos: Todas las personas son titulares de todos los derechos humanos, ligados unos con otros de tal forma que se deben reconocer, proteger y garantizar de forma integral por todas las autoridades;
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XVI. La debida diligencia: la obligación por parte de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora;
+XVI. La debida diligencia: la obligación por parte de las personas servidoras públicas de prevenir, atender, investigar y sancionar las violencias contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencias, a la verdad, la justicia y la reparación integral y transformadora;
 
 > <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
 
@@ -294,6 +312,18 @@ XVIII. La interculturalidad: el enfoque intercultural parte del reconocimiento y
 > <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
 
 XIX. El enfoque diferencial de género: tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad, así como las vulneraciones especificas a sus derechos humanos en tanto pertenecientes a sus grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas.
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+XX. Violencia y/o violencias contra las Mujeres: Cualquier acción u omisión o el conjunto de estas, basadas en su género, que les cause o pretenda causarles daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como público;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+XXI. Modalidades de las violencias: Las formas, manifestaciones o los ámbitos ocurrencia (sic) en que se presentan las violencias contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+XXII. Deberes reforzados de protección del Estado hacia las mujeres, adolescentes, niñas y niños: Obligación constitucional prevista en el penúltimo párrafo del artículo 4º de la Constitución Política de los Estados Unidos Mexicanos, que establece el deber de todas las autoridades de adoptar acciones reforzadas para garantizar el derecho de las mujeres, adolescentes, niñas y niños a una vida libre de violencias. Esta obligación implica la aplicación más amplia de medidas orientadas a salvaguardar la vida, integridad y seguridad personales, bienestar físico y mental, así como el respeto a su dignidad y autonomía.
 
 ###### Artículo 5°.
 
@@ -311,21 +341,27 @@ II. A la persona titular de la Secretaría General de Gobierno; y
 
 III. A las personas titulares de las Presidencias Municipales.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
+
 ###### Artículo 6°.
 
-Todas las medidas que se deriven de la presente Ley, garantizarán la prevención, la atención, la sanción y la erradicación de todos los tipos de violencia contra las mujeres durante su ciclo de vida y para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
+Todas las medidas que se deriven de la presente Ley, garantizarán la prevención, la atención, la sanción y la erradicación de todos los tipos de violencias contra las mujeres durante su ciclo de vida y para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 7°.
 
-El Poder Ejecutivo, Legislativo y Judicial, entidades municipales, desconcentradas y paraestatales, organismos constitucionales autónomos y en general todas las entidades públicas, en el ámbito de sus respectivas competencias, expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
+El Poder Ejecutivo, Legislativo y Judicial, entidades municipales, desconcentradas y paraestatales, organismos constitucionales autónomos y en general todas las entidades públicas, en el ámbito de sus respectivas competencias, expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencias, de conformidad con los Tratados Internacionales en materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
 
-### CAPÍTULO II. De los Tipos de Violencia de Género Contra las Mujeres y de los Ámbitos en que se Presenta
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO II. De los Tipos de Violencias de Género Contra las Mujeres y de los Ámbitos en que se Presenta
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 8°.
 
-Los tipos de violencia de género contra las mujeres son:
+Los tipos de violencias de género contra las mujeres son:
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
@@ -335,9 +371,9 @@ I. La violencia psicológica: Es cualquier acto u omisión que dañe la estabili
 
 II. La violencia física: Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma, objeto, ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar o no lesiones ya sean internas, externas o ambas;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-III. La violencia sexual: Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía de la persona agresora sobre la mujer, al denigrarla y concebirla como objeto;
+III. La violencia sexual: Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, que se puede dar en el espacio público o privado, que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
 IV. La violencia patrimonial: Es cualquier acto u omisión que afecta la supervivencia de la mujer. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a bienes comunes o propios de la víctima;
 
@@ -429,9 +465,11 @@ XII. Violencia Simbólica: La que, a través de patrones estereotipados, mensaje
 
 XIII. Cualesquiera otras formas análogas que, por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2026)</small>
+
 ###### Artículo 9°.
 
-La violencia de género contra las mujeres se presenta en los siguientes ámbitos:
+Las violencias de género contra las mujeres se presenta (sic) en los siguientes ámbitos:
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
@@ -467,9 +505,9 @@ Se equiparará a violencia familiar, la que se ejerce en el noviazgo, con las ex
 
 Artículo 10 BIS.- (DEROGADA, P.O. 12 DE ENERO DE 2026)
 
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
 
-Artículo 10 TER.- Violencia en el noviazgo: Es el acto abusivo de poder u omisión intencional, dirigido a humillar, dominar, someter, controlar o agredir a las mujeres de cualquier edad, mediante la realización de uno o varios tipos de violencia, durante o después de una relación de noviazgo.
+Artículo 10 TER.- Violencia en el noviazgo: Es el acto abusivo de poder u omisión intencional, dirigido a humillar, dominar, someter, controlar o agredir a las mujeres de cualquier edad, mediante la realización de uno o varios tipos de violencias, durante o después de una relación de noviazgo.
 
 ###### Artículo 11.
 
@@ -493,13 +531,13 @@ Constituye violencia de género contra las mujeres en el ámbito académico, aqu
 
 La violencia de género contra las mujeres en el ámbito social, comprende los actos individuales o colectivos que transgreden sus derechos fundamentales y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 15.
 
-La violencia de género contra las mujeres en el ámbito institucional, comprende los actos y omisiones de las y los servidores públicos del Estado, sus Municipios y Órganos Constitucionales Autónomos que discriminen, utilicen estereotipos de género o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de las políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+La violencia de género contra las mujeres en el ámbito institucional, comprende los actos y omisiones de las y los servidores públicos del Estado, sus Municipios y Órganos Constitucionales Autónomos que discriminen, utilicen estereotipos de género o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de las políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencias.
 
-En los órdenes de gobierno estatal y municipal, los Poderes Ejecutivo, Legislativo y Judicial, así como los Órganos Constitucionales Autónomos, a través de los cuales se manifiesta el ejercicio del poder público, tienen la obligación de organizar la estructura gubernamental de tal manera que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia.
+En los órdenes de gobierno estatal y municipal, los Poderes Ejecutivo, Legislativo y Judicial, así como los Órganos Constitucionales Autónomos, a través de los cuales se manifiesta el ejercicio del poder público, tienen la obligación de organizar la estructura gubernamental de tal manera que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2026)</small>
 
@@ -527,25 +565,27 @@ Artículo 16 bis.- Las conductas, acciones y omisiones que constituyan violencia
 
 ### CAPÍTULO III. De la Prevención, Atención y Sanción
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
+
 ###### Artículo 17.
 
-La prevención que en el Estado se realice tendrá como objetivo lograr que la sociedad visualice todo tipo de violencia de género contra las mujeres como un evento antisocial, un problema de derechos humanos, de salud pública y de seguridad ciudadana. La prevención se llevará a cabo mediante acciones educativas en los ámbitos sociocultural, familiar e individual.
+La prevención que en el Estado se realice tendrá como objetivo lograr que la sociedad visualice todo tipo de violencias de género contra las mujeres como evento antisocial, un problema de derechos humanos, de salud pública y de seguridad ciudadana. La prevención se llevará a cabo mediante acciones educativas en los ámbitos sociocultural, familiar e individual.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+Tratándose de violencias de género se deberá generar el apoyo interinstitucional del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes; Secretaría General de Gobierno, a través del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes; Instituto Aguascalentense de la Mujer; Fiscalía General del Estado, a través del Centro de Justicia para las Mujeres y en su caso Poder Judicial del Estado de Aguascalientes; con el objetivo de implementar un sistema de protección y acompañamiento integral para las mujeres y sus hijas o hijos.
 
-Tratándose de violencia de género se deberá generar el apoyo interinstitucional del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes; Secretaría General de Gobierno, a través del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes; Instituto Aguascalentense de la Mujer; Fiscalía General del Estado, a través del Centro de Justicia para las Mujeres y en su caso Poder Judicial del Estado de Aguascalientes; con el objetivo de implementar un sistema de protección y acompañamiento integral para las mujeres y sus hijas o hijos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 18.
 
-La atención que se proporcione a las mujeres víctimas de violencia de género en el Estado tendrá como fin salvaguardar su integridad, identidad y derechos, procurará su recuperación y la construcción de un nuevo proyecto de vida. Será gratuita, expedita y se proporcionará desde la perspectiva de género. La atención se realizará a través de Núcleos de Atención Integral y Refugios.
+La atención que se proporcione a las mujeres víctimas de violencias de género en el Estado tendrá como fin salvaguardar su integridad, identidad y derechos, procurará su recuperación y la construcción de un nuevo proyecto de vida. Será gratuita, expedita y se proporcionará desde la perspectiva de género. La atención se realizará a través de Núcleos de Atención Integral y Refugios.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
 
 En los casos de violencia vicaria se proporcionará atención y tratamiento psicológico especializado y gratuito a las víctimas y víctimas indirectas, que favorezcan la reunificación familiar entre las hijas y/o los hijos menores con la madre, con el objetivo de reparar el daño causado, derivado de dicha modalidad de violencia.
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2026)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE JUNIO DE 2026)</small>
 
-Artículo 18 bis.- Toda acción u omisión que conlleve a la violación de los derechos humanos de las mujeres, niñas y adolescentes deberá ser investigada, sancionada y reparada con perspectiva de género conforme a la normatividad aplicable.
+Artículo 18 BIS.- Los modelos de atención, prevención y sanción son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar y violencia vicaria como parte de los deberes reforzados de protección a las mujeres, adolescentes, niñas y niños, considerando la perspectiva de género, respeto a los derechos humanos, interés superior de la niñez, la interseccionalidad, la interculturalidad y el enfoque diferenciado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2025)</small>
 
@@ -571,29 +611,39 @@ VIII. Canalización de personas violentas para modificar conductas; y
 
 IX. Ludoteca.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
+
 ###### Artículo 20.
 
-Los Refugios son espacios terapéuticos, secretos y temporales, en donde se podrá brindar a las mujeres víctimas de violencia de género y a sus hijas e hijos, seguridad, servicios de hospedaje y alimentación, y en su caso, los señalados en el Artículo anterior.
+Los Refugios son espacios terapéuticos, secretos y temporales, en donde se podrá brindar a las mujeres víctimas de violencias de género y a sus hijas e hijos, seguridad, servicios de hospedaje y alimentación, y en su caso, los señalados en el Artículo anterior.
 
 ###### Artículo 21.
 
 La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos que persista su inestabilidad física, psicológica o su situación de riesgo. El personal médico, psicológico y jurídico evaluará, para tales efectos, su condición. En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
+
 ###### Artículo 22.
 
-Los Núcleos de Atención Integral y los Refugios contarán con una persona responsable de su conducción y con el personal necesario para el cumplimiento de sus fines. El personal deberá contar con el perfil y aptitudes adecuadas para el tratamiento de los casos de violencia de género contra las mujeres.
+Los Núcleos de Atención Integral y los Refugios contarán con una persona responsable de su conducción y con el personal necesario para el cumplimiento de sus fines. El personal deberá contar con el perfil y aptitudes adecuadas para tratamiento de los casos de violencias de género contra las mujeres.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 23.
 
-La atención a personas que ejercen violencia de género contra las mujeres se proporcionará a través de Centros Reeducativos, será gratuita y especializada, y tenderá a transformar la práctica de la violencia en las relaciones de género.
+La atención a personas que ejercen violencias de género contra las mujeres se proporcionará a través de Centros Reeducativos, será gratuita especializada, y tenderá a transformar la práctica de la violencia en las relaciones de género.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 24.
 
-La atención que reciba la victima de violencia de género y la persona que la ejerce no será proporcionada por la misma persona ni en el mismo lugar. No se obligará a las personas involucradas a que se les proporcione terapia de pareja y en ningún caso podrán brindar atención aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia.
+La atención que reciba la víctima de violencia de género y la persona que la ejerce no será proporcionada por la misma persona ni en el mismo lugar. No se obligará a las personas involucradas a que se les proporcione terapia de pareja y en ningún caso podrán brindar atención aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencias.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 25.
 
-Los casos de violencia de género contra las mujeres y las causas que tengan relación o que se originen de ella, no serán sometidos a procedimientos de mediación y conciliación, ni a ningún otro mecanismo alternativo de solución de conflictos.
+Los casos de violencias de género contra las mujeres y las causas que tengan relación o que se originen de ella, no serán sometidos a procedimientos de mediación y conciliación, ni a ningún otro mecanismo alternativo de solución de controversias.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2016)</small>
 
@@ -683,17 +733,17 @@ II. Las peticiones explícitas de la mujer o la niña, en situación de violenci
 
 III. Las medidas que ella considere oportunas, una vez informada de cuáles pueden ser esas medidas. Tratándose de niñas, las medidas siempre serán determinadas conforme al principio del interés superior de la niñez;
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-IV. Las necesidades que se deriven de su situación particular analizando su identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, así como cualquier otra condición relevante;
+IV. Las necesidades que se deriven de su situación particular analizando su identidad o expresión de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, así como cualquier otra condición relevante;
 
 > <small>(ADICIONADA, P.O. 12 DE MAYO DE 2025)</small>
 
 V. La persistencia del riesgo aún después de su salida de un refugio temporal; y
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-VI. La manifestación de actos o hechos previos de cualquier tipo de violencia que hubiese sufrido la víctima.
+VI. La manifestación de actos o hechos previos de cualquier tipo de violencias que hubiese sufrido la víctima.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2025)</small>
 
@@ -939,21 +989,27 @@ Artículo 30 nonies.- A ninguna mujer o niña y sus hijas e hijos en situación 
 
 Artículo 30 decies.- Tratándose de violencia mediática o digital, para garantizar la integridad de la víctima, la o el Ministerio Público, la jueza o el juez, ordenaran de manera inmediata, las medidas de protección necesarias, atendiendo a lo dispuesto en el Artículo 20 Sexies de la Ley General.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
 
-Artículo 30 undecies.- Las autoridades administrativas, la Fiscalía General del Estado y el Poder Judicial del Estado, darán cumplimiento al Capítulo VII del Título I de la Ley General, en relación con el Registro Nacional de Protección de las Mujeres, Adolescentes, niñas y niños, para garantizar la continuidad, efectividad y no interrupción de las medidas u órdenes de protección con independencia del lugar en que hayan sido ordenadas.
+Artículo 30 undecies.- Las autoridades administrativas, la Fiscalía General del Estado y el Poder Judicial del Estado, darán cumplimiento al Capítulo VII del Título I de la Ley General, en relación con el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños, para garantizar la continuidad, efectividad y no interrupción de las medidas u órdenes de protección con independencia del lugar en que hayan sido ordenadas.
 
-### CAPÍTULO V. Del Sistema Estatal para la Erradicación de la Violencia de Género Contra las Mujeres
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO V. Del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar las Violencias Contra las Mujeres
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 31.
 
-El Estado y los Municipios se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la erradicación de la violencia de género contra las mujeres.
+El Estado y los Municipios se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de las violencias contra las mujeres.
 
 ###### Artículo 32.
 
 Son materia de coordinación entre el Gobierno del Estado y los Municipios:
 
-I. La prevención de la violencia de género contra las mujeres y la atención especializada de sus víctimas;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+I. La prevención de las violencias contra las mujeres y la atención especializada de sus víctimas;
 
 II. La capacitación del personal encargado de su prevención y atención;
 
@@ -961,17 +1017,27 @@ III. La reeducación de las personas que la ejercen;
 
 IV. El suministro, intercambio y sistematización de todo tipo de información en la materia;
 
-V. Acciones conjuntas para la protección de las mujeres, niñas y niños víctimas de violencia de género de conformidad con las disposiciones legales e instrumentos en la materia; y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-VI. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
+V. Acciones conjuntas para la protección de las mujeres, adolescentes, niñas y niños víctimas de violencia de género de conformidad con las disposiciones legales e instrumentos en la materia; y
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+VI. Las relacionadas con las anteriores que sean necesarias para incrementar eficacia de las medidas y acciones tendientes a la prevención y erradicación de las violencias contra las mujeres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 33.
 
-Son instancias de coordinación en materia de erradicación de la violencia de género contra las mujeres:
+Son instancias de coordinación en materia de prevención, atención, sanción y erradicación de las violencias contra las mujeres:
 
-I. El Consejo Estatal para la Erradicación de la Violencia de Género contra las Mujeres; y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-II. Los Consejos Municipales para la Erradicación de la Violencia de Género contra las Mujeres.
+I. El Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de las Violencias contra las Mujeres; y
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+II. Los Consejos Municipales para la Prevención, Atención, Sanción y Erradicación de las Violencias contra las Mujeres.
 
 ###### Artículo 34.
 
@@ -979,11 +1045,15 @@ Las políticas, lineamientos y acciones de coordinación, se llevarán a cabo me
 
 El Gobierno del Estado integrará los instrumentos de información del Sistema Estatal, para cuyo efecto se establecerá la base de datos correspondiente. El Reglamento de la Ley determinará los indicadores que permitan el monitoreo de las tendencias socio-jurídicas del fenómeno y de la aplicación de la Ley.
 
-### CAPÍTULO VI. De los Consejos Estatal y Municipales para la Erradicación de la Violencia de Género Contra las Mujeres
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO VI. De los Consejos Estatal y Municipales para la Prevención, Atención, Sanción Erradicación de las Violencias contra las Mujeres
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 35.
 
-El Consejo Estatal para la Erradicación de la Violencia de Género contra las Mujeres es la instancia normativa y de evaluación de las políticas públicas en la materia.
+El Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de las Violencias contra las Mujeres es la instancia normativa y de evaluación de las políticas públicas en la materia.
 
 ###### Artículo 36.
 
@@ -1095,9 +1165,11 @@ VI. Capacitar exhaustivamente a sus funcionarios sobre la violencia vicaria y la
 
 VII. Las demás que le señale la presente Ley y ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
+
 ###### Artículo 40.
 
-El Gobernador del Estado, como Presidente Honorario del Consejo, expedirá el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres y propondrá en el Proyecto de Presupuesto de Egresos del Estado una partida presupuestaria para garantizar su cumplimiento. Dicho Programa se publicará en el Periódico Oficial del Estado.
+La persona titular del Poder Ejecutivo como Presidencia Honoraria del Consejo expedirá el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia Contra las Mujeres y propondrá en el Proyecto de Presupuesto de Egresos del Estado una partida presupuestaria para garantizar su cumplimiento. Dicho Programa se publicará en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2026)</small>
 
@@ -1143,21 +1215,37 @@ IV. Elaborar el anteproyecto del Programa Estatal;
 
 V. Ser representante legal del Consejo;
 
-VI. Rendir anualmente al Presidente Ejecutivo y al Consejo un informe de actividades;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-VII. Estandarizar los procesos de prevención de la violencia de género contra las mujeres, de atención a sus víctimas y de reeducación de personas que ejercen violencia;
+VI. Rendir anualmente a la Presidencia Ejecutiva y al Consejo un informe de actividades;
 
-VIII. Establecer, coordinar, controlar y actualizar el Sistema Estatal de Información sobre la Violencia de Género contra las Mujeres;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-IX. Capacitar al personal encargado de la prevención y atención, mediante procesos educativos formales en materia de violencia de género contra las mujeres;
+VII. Estandarizar los procesos de prevención de las violencias contra las mujeres, de atención a sus víctimas y de reeducación de personas que ejercen violencia;
 
-X. Impulsar la investigación sobre la violencia de género que se ejerce contra las mujeres y publicar los resultados;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XI. Promover la integración de una instancia ciudadana que otorgue anualmente reconocimiento público a quienes intervienen en la prevención de la violencia de género contra las mujeres y en la atención de sus víctimas;
+VIII. Establecer, coordinar, controlar y actualizar el Sistema Estatal de Información sobre las Violencias Contra las Mujeres;
 
-XII. Implementar un programa especial para proporcionar tratamiento terapéutico al personal encargado de la atención de las mujeres víctimas de violencia de género;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XIII. Promover la instalación de Núcleos de Atención Integral, Refugios, Centros Reeducativos para personas que ejercen Violencia de Género y de módulos de información;
+IX. Capacitar al personal encargado de la prevención y atención, mediante procesos educativos formales en materia de violencias contra las mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+X. Impulsar la investigación sobre las violencias que se ejercen contra las mujeres y publicar los resultados;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+XI. Promover la integración de una instancia ciudadana que otorgue anualmente reconocimiento público a quienes intervienen en la prevención de las violencias contra las mujeres y en la atención de sus víctimas;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+XII. Implementar un programa especial para proporcionar tratamiento terapéutico a las personas encargadas de la atención de las mujeres víctimas de violencias;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+XIII. Promover la instalación de Núcleos de Atención Integral, Refugios, Centros Reeducativos para personas que ejercen Violencias Contra las Mujeres y de módulos de información;
 
 XIV. Promover la firma de convenios con instituciones públicas y privadas para el cumplimiento de los fines de esta Ley; y
 
@@ -1167,23 +1255,31 @@ XV. Las demás que le señale la presente Ley y otros ordenamientos aplicables.
 
 La Coordinadora General podrá invitar a cualquier persona que por sus conocimientos, prestigio o experiencia, sea conveniente que asista a las sesiones del Consejo.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
+
 ###### Artículo 45.
 
-Para la debida coordinación y desarrollo de las actividades para la erradicación de la violencia de género contra las mujeres en el Estado, podrán formar consejos municipales, mismos que se organizarán atendiendo las características de cada lugar.
+Para la debida coordinación y desarrollo de las actividades para la prevención, atención, sanción y erradicación de las violencias contra las mujeres en el Estado, podrán formar consejos municipales, mismos que se organizarán atendiendo las características de cada lugar.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2026)</small>
 
 ### CAPÍTULO VII
 
-Del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género Contra las Mujeres.
+Del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar las Violencias Contra las Mujeres.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 46.
 
-El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres es el instrumento que contiene las acciones que, en forma planeada y coordinada, deberán realizar las dependencias y entidades de la administración pública del Estado, en el corto, mediano y largo plazo. Dicho Programa tendrá el carácter de prioritario y su ejecución se ajustará a la disponibilidad presupuestaria anual, así como a las disposiciones y lineamientos que sobre el particular dicte el Consejo.
+El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar las Violencias Contra las Mujeres es el instrumento que contiene las acciones que, en forma planeada y coordinada, deberán realizar las dependencias y entidades de la administración pública del Estado, en el corto, mediano y largo plazo. Dicho Programa tendrá el carácter de prioritario y su ejecución se ajustará a la disponibilidad presupuestaria anual, así como a las disposiciones y lineamientos que sobre el particular dicte el Consejo.
 
 ###### Artículo 47.
 
 El Programa guardará congruencia con los instrumentos internacionales en materia de protección de los derechos de las mujeres y disposiciones legales federales en la materia, y con las establecidas en esta Ley, además de que contendrá, entre otros, los siguientes puntos:
 
-I. El diagnóstico de la situación actual de la violencia de género contra las mujeres en el Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+I. El diagnóstico de la situación actual de las violencias contra las mujeres en el Estado;
 
 II. Los objetivos específicos a alcanzar;
 
@@ -1199,29 +1295,49 @@ El Programa contendrá las acciones con perspectiva de género para:
 
 I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
 
-II. Impulsar el cambio de los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-III. Educar y capacitar en materia de derechos humanos al personal encargado de la procuración de justicia, policías y demás funcionarios encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
+II. Impulsar el cambio de los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran las violencias contra las mujeres;
 
-IV. Educar y capacitar en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permita juzgar con perspectiva de género;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-V. Promover los servicios especializados y gratuitos para la atención y protección a las victimas, por medio de las autoridades y las instituciones públicas o privadas;
+III. Educar y capacitar en materia de derechos humanos al personal encargado de la procuración de justicia, policial y demás personas servidoras públicas encargadas de las políticas de prevención, atención, sanción y eliminación de las violencias contra las mujeres;
 
-VI. Fomentar y apoyar programas de educación pública y privada, destinados a concientizar a la sociedad sobre las causas y las consecuencias de la violencia;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-VII. Diseñar programas de atención y capacitación a victimas que les permita participar plenamente en todos los ámbitos de la vida;
+IV. Educar y capacitar en materia de derechos humanos de las mujeres a las personas servidoras públicas encargadas de la impartición de justicia, a fin de dotarles de instrumentos que les permita juzgar con perspectiva de género;
 
-VIII. Vigilar que los medios de comunicación eviten fomentar la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de éstas;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-IX. Garantizar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
+V. Promover los servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las autoridades y las instituciones públicas o privadas;
 
-X. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres para integrar el banco nacional de datos e información sobre casos de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XI. Promover la inclusión prioritaria en el plan estatal de desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
+VI. Fomentar y apoyar programas de educación pública y privada, destinados a concientizar a la sociedad sobre las causas y las consecuencias de las violencias contra las mujeres;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad;
+VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+VIII. Vigilar que los medios de comunicación eviten fomentar las violencias contra las mujeres y que favorezcan la erradicación de todos los tipos de violencias, para fortalecer el respeto a los derechos humanos y la dignidad de éstas;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+IX. Garantizar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de las violencias contra las mujeres, con el de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencias;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+X. Publicar semestralmente la información general y estadística sobre los casos de las violencias contra las mujeres para integrar el banco nacional de datos e información sobre casos de violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+XI. Promover la inclusión prioritaria en el plan estatal de desarrollo de las medidas y las políticas de gobierno para erradicar las violencias contra las mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+XII. Promover la cultura de denuncia de las violencias contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2023)</small>
 
@@ -1235,7 +1351,9 @@ XIV. Educar, capacitar e informar a las Dependencias integrantes del Consejo, as
 
 XV. Diseñar programas de atención, reeducación y capacitación para las personas agresoras, que les permitan reincorporarse y participar plenamente en todos los ámbitos de la vida.
 
-### CAPÍTULO VIII. De la Distribución de Competencias en Materia de Prevención, Atención y Sanción de la Violencia de Género Contra las Mujeres
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO VIII. De la Distribución de Competencias en Materia de Prevención, Atención y Sanción de las Violencias Contra las Mujeres
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2022)</small>
 
@@ -1277,19 +1395,31 @@ IV. El Instituto Aguascalentense de las Mujeres.
 
 Corresponde al Instituto de Educación del Estado:
 
-I. Desarrollar en niñas y niños del nivel educativo preescolar el aprendizaje en la resolución pacífica de conflictos;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-II. Desarrollar en el alumnado de educación primaria y secundaria la capacidad de adquirir habilidades para la resolución pacífica de conflictos, y para comprender y respetar la igualdad entre los hombres y las mujeres.
+I. Desarrollar en las infancias del nivel educativo preescolar el aprendizaje en resolución pacífica de conflictos;
 
-III. Desarrollar en el alumnado del nivel medio superior y superior la capacidad de consolidar su madurez personal, social y ética, que le permita contribuir a la eliminación de la discriminación hacia las mujeres;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-IV. Instrumentar procesos educativos formales dirigidos a su planta docente de los diferentes niveles educativos, que permitan analizar y difundir la problemática de la violencia de género contra las mujeres, así como prevenirla y combatirla;
+II. Desarrollar en las infancias de educación primaria y las adolescencias de educación secundaria la capacidad de adquirir habilidades para la resolución pacífica de conflictos, y para comprender y respetar la igualdad entre los hombres y las mujeres.
 
-V. Aplicar procedimientos de detección de violencia de género contra las mujeres a grupos preseleccionados y comunicar de inmediato, por escrito, a las autoridades competentes, los casos detectados;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+III. Desarrollar en las personas alumnas del nivel medio superior y superior la capacidad de consolidar su madurez personal, social y ética, que le permita contribuir a la eliminación de la discriminación y las violencias contra las mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+IV. Instrumentar procesos educativos formales dirigidos a su planta docente de los diferentes niveles educativos, que permitan analizar y difundir la problemática de las violencias contra las mujeres, así como prevenirla y combatirla;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+V. Aplicar procedimientos de detección de violencias contra las mujeres a grupos preseleccionados y comunicar de inmediato, por escrito, a las autoridades competentes, los casos detectados;
 
 VI. Implementar programas educativos cocurriculares de corta duración, dirigidos a grupos de niñas en situación de riesgo de padecer violencia de género;
 
-VII. Diseñar y distribuir en el alumnado instrumentos educativos que promuevan la prevención y atención de la violencia de género contra las mujeres;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+VII. Diseñar y distribuir entre las personas alumnas instrumentos educativos que promuevan la prevención y atención de las violencias contra las mujeres;
 
 VIII. Elaborar un programa de servicio social especializado dirigido a las instituciones de educación superior para dotar de recursos humanos a los Núcleos de Atención Integral y Refugios;
 
@@ -1297,7 +1427,9 @@ IX. Diseñar e implementar un sistema de educación alternativo para niñas y ni
 
 X. Diseñar e implementar un sistema de educación alternativo para niñas y niños que requieran cambiar de residencia, como consecuencia de la violencia padecida, o que se encuentren en situación de riesgo de perder la vida;
 
-XI. Instalar módulos de información en las oficinas de su competencia sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+XI. Instalar módulos de información en las oficinas de su competencia sobre las causas y efectos de las violencias contra las mujeres y su relación con la violencia social;
 
 XII. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
 
@@ -1307,19 +1439,31 @@ XIII. Las demás que le asigne el Programa.
 
 Corresponde a las instituciones de Educación Superior del Estado:
 
-I. Diseñar y distribuir, en el alumnado, instrumentos educativos libres de prejuicios de género;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-II. Capacitar a su planta docente mediante procesos educativos formales para difundir y analizar las causas y consecuencias de la violencia de género contra las mujeres, así como la forma de prevenirla y atenderla desde su ámbito educativo;
+I. Diseñar y distribuir, entre las personas alumnas, instrumentos educativos libres de prejuicios y estereotipos de género;
 
-III. Realizar programas educativos cocurriculares de corta duración para grupos de jóvenes que vivan en alto riesgo de padecer y/o ejercer violencia de género contra las mujeres;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-IV. Aplicar procedimientos de detección de violencia de género contra las mujeres a grupos preseleccionados;
+II. Capacitar a su planta docente mediante procesos educativos formales para difundir y analizar las causas y consecuencias de las violencias contra las mujeres, así como la forma de prevenirla y atenderla desde su ámbito educativo;
 
-V. Implementar un programa de prácticas profesionales especializado en violencia contra las mujeres desde la perspectiva de género, para dotar de recursos humanos a los Núcleos de Atención Integral y Refugios;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+III. Realizar programas educativos cocurriculares de corta duración para grupos de jóvenes que vivan en alto riesgo de padecer y/o ejercer violencias contra las mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+IV. Aplicar procedimientos de detección de violencias contra las mujeres a grupos preseleccionados;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+V. Implementar un programa de prácticas profesionales especializado en violencias contra las mujeres desde la perspectiva de género, para dotar de recursos humanos a los Núcleos de Atención Integral y Refugios;
 
 VI. Diseñar e implementar un sistema de educación alternativo para jóvenes que requieran cambiar de residencia debido a las consecuencias de la violencia;
 
-VII. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+VII. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de las violencias contra las mujeres y su relación con la violencia social;
 
 VIII. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
 
@@ -1331,11 +1475,15 @@ Corresponde al Instituto para la Educación de Personas Jóvenes y Adultas:
 
 I. Desarrollar actividades orientadas a la resolución pacífica de conflictos interpersonales en la educación para personas adultas y detectar a mujeres en situación de violencia o en riesgo de padecerla;
 
-II. Capacitar a su planta docente mediante procesos educativos formales para difundir y analizar las causas y consecuencias de la violencia de género contra las mujeres; así como la forma de prevenirla y atenderla desde su ámbito educativo;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+II. Capacitar a su planta docente mediante procesos educativos formales para difundir y analizar las causas y consecuencias de las violencias contra las mujeres; así como la forma de prevenirlas y atenderlas desde su ámbito educativo;
 
 III. Incorporar criterios de género en los programas de alfabetización;
 
-IV. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+IV. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de las violencias contra las mujeres y su relación con la violencia social;
 
 V. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
 
@@ -1345,15 +1493,25 @@ VI. Las demás que le asigne el Programa.
 
 Corresponde al Instituto Aguascalentense de las Mujeres:
 
-I. Diseñar planes y programas de estudio para la especialización de servidoras y servidores públicos responsables de la prevención y atención de las mujeres víctimas de violencia de género;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-II. Diseñar e impulsar la realización de proyectos de investigación en temas relacionados con la violencia de género que se ejerce contra las mujeres;
+I. Diseñar planes y programas de estudio para la especialización de servidoras y servidores públicos responsables de la prevención y atención de las mujeres víctimas de violencias de género;
 
-III. Diseñar el protocolo para la detección de la violencia de género contra las mujeres;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-IV. Diseñar las campañas de prevención de la violencia de género contra las mujeres;
+II. Diseñar e impulsar la realización de proyectos de investigación en temas relacionados con las violencias que se ejercen contra las mujeres;
 
-V. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres, y su relación con la violencia social;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+III. Diseñar el protocolo para la detección de las violencias contra las mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+IV. Diseñar las campañas de prevención de las violencias contra las mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+V. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de las violencias contra las mujeres, y su relación con la violencia social;
 
 VI. Promover modificaciones a esta Ley cuando así se requiera;
 
@@ -1365,9 +1523,9 @@ VII. Rendir un informe bimensual a la Coordinación General del Consejo de las a
 
 VIII. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las mujeres víctimas de violencia, así como de las causas y sentencias que se dictan en contra de las mujeres responsables de delitos;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-IX. Especializar a las y los agentes del Ministerio Público, peritos, personal adscritos a la Fiscalía General del Estado que atiende a víctimas a través de programas y cursos permanentes en: derechos humanos y género, perspectiva de género para la debida diligencia en la integración de carpetas de investigación y conducción de procesos judiciales relacionados con discriminación y violencia, incorporación de la perspectiva de género en los servicios periciales, eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
+IX. Especializar a las y los agentes del Ministerio Público, peritos, personal adscritos a la Fiscalía General del Estado que atiende a víctimas a través de programas y cursos permanentes en: derechos humanos y género, perspectiva de género para la debida diligencia en la integración de carpetas de investigación y conducción de procesos judiciales relacionados con discriminación y violencias, incorporación de la perspectiva de género en los servicios periciales, eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
 
@@ -1389,7 +1547,9 @@ Corresponde al Instituto de Salud del Estado:
 
 I. Proporcionar atención médica, en horario de veinticuatro horas, a las mujeres víctimas de violencia de género que acudan a los Centros de Salud del Estado, Núcleos de Atención Integral y Refugios;
 
-II. Capacitar a sus servidoras y servidores públicos sobre el fenómeno de la violencia de género contra las mujeres y los efectos que produce en la salud;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+II. Capacitar a sus servidoras y servidores públicos sobre el fenómeno de las violencias contra las mujeres y los efectos que producen en la salud;
 
 III. Aplicar el protocolo de detección de la violencia de género;
 
@@ -1423,9 +1583,9 @@ III. La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolesc
 
 Corresponde a la Secretaría de Seguridad Pública:
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-I. Capacitar al personal de las diferentes instancias policiales en materia de derechos de las mujeres y perspectiva de género para atender los casos de violencia contra las mujeres;
+I. Capacitar al personal de las diferentes instancias policiales en materia de derechos de las mujeres y perspectiva de género para atender los casos de violencias contra las mujeres;
 
 > <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
@@ -1437,25 +1597,29 @@ III. Otorgar las facilidades necesarias para el cumplimiento y ejecución de las
 
 IV. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social de la persona agresora;
 
-V. Establecer y difundir el servicio telefónico para denunciar casos de violencia de género contra las mujeres y ofrecer, a través del mismo, asesoría especializada sobre el tema y sobre los servicios de asistencia que presta el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-VI. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+V. Establecer y difundir el servicio telefónico para denunciar casos de violencias contra las mujeres y ofrecer, a través de este, asesoría especializada sobre el tema y sobre los servicios de asistencia que presta el Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+VI. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de las violencias contra las mujeres y su relación con la violencia social;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
 
 VII. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-VIII. Elaborar e implementar en coordinación con la Fiscalía General del Estado, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
+VIII. Elaborar e implementar en coordinación con la Fiscalía General del Estado, acciones de política criminal que incidan en la prevención de las violencias contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
 
 IX. Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-X. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado;
+X. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan las violencias contra las mujeres en los ámbitos público y privado;
 
 > <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
@@ -1469,9 +1633,9 @@ XII. Formular acciones y programas orientados a fomentar la cultura del respeto 
 
 XIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XIV. Integrar el banco estatal de datos e información sobre casos de violencia contra las mujeres; y
+XIV. Integrar el banco estatal de datos e información sobre casos de violencias contra las mujeres; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE MAYO DE 2023)</small>
 
@@ -1483,15 +1647,23 @@ XV. Las demás previstas para el cumplimiento de la presente ley.
 
 Corresponde a la Fiscalía General del Estado:
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2026)</small>
 
-I. Promover, entre sus servidores públicos la atención especializada en los casos de violencia de género, así como formar y especializar a las y los agentes del Ministerio Público, peritos y personal que atiende a víctimas a través de programas y cursos permanentes en:
+I. Promover, entre las personas servidoras públicas a su cargo, la atención especializada en los casos de violencias contra las mujeres, así como formar y especializar a las y los agentes del Ministerio Público, las personas peritas y personal que atiende a víctimas a través de programas y cursos permanentes en:
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
 
 a) Derechos humanos y género;
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
+
 b) Perspectiva de género para la debida diligencia en la conducción de carpetas de investigación y procesos judiciales relacionados con discriminación, violencia y feminicidio;
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
+
 c) Incorporación de la perspectiva de género en los servicios periciales;
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
 
 d) Eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
 
@@ -1503,17 +1675,17 @@ II. Proporcionar a las víctimas orientación y asesoría para su eficaz atenci�
 
 III. Dictar las medidas necesarias para que la víctima reciba atención médica de emergencia, asesoría jurídica y psicoterapia especializada;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-IV. Diseñar y desarrollar campañas de difusión para promover la denuncia de los hechos de violencia de género contra las mujeres y sobre los derechos que tienen las víctimas de delitos que atentan contra la Libertad Sexual, la Seguridad Sexual, el Normal Desarrollo Físico y Psicosexual, y el Libre Desarrollo de la Personalidad, feminicidio, violencia familiar y violencia a partir de una relación de pareja, así como de las agencias especializadas que atienden estos delitos;
+IV. Diseñar y desarrollar campañas de difusión para promover la denuncia de los hechos de las violencias contra las mujeres y sobre los derechos que tienen las víctimas de delitos que atentan contra la Libertad Sexual, la Seguridad Sexual, el Normal Desarrollo Físico y Psicosexual, y el Libre Desarrollo de la Personalidad, feminicidio, violencia familiar, violencia vicaria, violencia digital y mediática y violencia a partir de una relación de pareja, así como de las agencias especializadas que atienden estos delitos;
 
 > <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
 
 V. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-VI. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas, violencia familiar y contra la libertad y el normal desarrollo psicosexual;
+VI. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas, violencia familiar, violencia vicaria, violencia digital y mediática y contra la libertad y el normal desarrollo psicosexual;
 
 > <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
@@ -1523,17 +1695,17 @@ VII. Crear y administrar un sistema de registro público de los delitos cometido
 
 VIII. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad e integridad física de quienes denuncian y garantizar mecanismos expeditos para el acceso de las mujeres a la justicia plena;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-IX. Diseñar las políticas en materia de procuración de justicia en contra de la violencia hacia las mujeres;
+IX. Diseñar las políticas en materia de procuración de justicia en contra de las violencias hacia las mujeres;
 
 > <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
 
 X. Proporcionar a las víctimas información objetiva que les permita reconocer su situación;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XI. Implementar los mecanismos necesarios que permitan, en los casos de violencia contra las mujeres, aplicar con prontitud y eficacia las medidas u órdenes de protección señaladas en esta Ley y contar con un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas;
+XI. Implementar los mecanismos necesarios que permitan, en los casos de violencias contra las mujeres, aplicar con prontitud y eficacia las medidas u órdenes de protección señaladas en esta Ley y contar con un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas;
 
 > <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
 
@@ -1555,19 +1727,25 @@ XV. Investigar con perspectiva de género y debida diligencia las muertes violen
 
 XVI. Las demás previstas para el cumplimiento de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 61.
 
-Corresponde a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes;
+Corresponde a la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes de Aguascalientes;
 
 I. Promover la recepción de atención integral para las víctimas de violencia;
 
-II. Implementar procesos formales de capacitación sobre violencia de género contra las mujeres para servidoras y servidores públicos de su institución;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-III. Aplicar procedimientos de detección de la violencia de género contra las mujeres a grupos preseleccionados que acudan a sus oficinas;
+II. Implementar procesos formales de capacitación sobre las violencias contra las mujeres para servidoras y servidores públicos de su institución;
 
-IV. Instalar módulos de información en las oficinas de su competencia sobre las causas y efectos de la violencia de género que se ejerce contra las mujeres, y su relación con la violencia social;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+III. Aplicar procedimientos de detección de las violencias contra las mujeres a grupos preseleccionados que acudan a sus oficinas;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+IV. Instalar módulos de información en las oficinas de su competencia sobre las causas y efectos de las violencias contra las mujeres, y su relación con la violencia social;
 
 V. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
 
@@ -1593,7 +1771,9 @@ III. La Secretaria de Turismo.
 
 Corresponde a la Secretaría de Desarrollo Social:
 
-I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencias;
 
 II. Coadyuvar en la promoción de los derechos humanos de las mujeres;
 
@@ -1601,9 +1781,13 @@ III. Formular la política de desarrollo social del Estado considerando el adela
 
 IV. Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
 
-V. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, eliminando brechas y desventajas de genero;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-VI. Promover políticas de prevención y atención de la violencia contra las mujeres;
+V. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, eliminando brechas y desventajas de género;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+VI. Promover políticas de prevención y atención de las violencias contra las mujeres;
 
 VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del sistema y del programa;
 
@@ -1623,7 +1807,9 @@ II. Instrumentar cursos de capacitación empresarial para mujeres víctimas de v
 
 III. Diseñar y ejecutar programas especiales de capacitación técnica y productividad para mujeres víctimas de violencia de género;
 
-IV. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+IV. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de las violencias contra las mujeres y su relación con la violencia social;
 
 V. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
 
@@ -1635,7 +1821,9 @@ Corresponde a la Secretaría de Turismo:
 
 I. Implementar acciones de prevención del turismo sexual infantil y la trata de personas, con especial énfasis en los municipios, con proyectos de desarrollo eco-turístico;
 
-II. Instalar en los centros turísticos módulos de información para la población local sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+II. Instalar en los centros turísticos módulos de información para la población local sobre las causas y efectos de las violencias contra las mujeres y su relación con la violencia social;
 
 III. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
 
@@ -1663,15 +1851,21 @@ I. Impulsar la instalación de Núcleos de Atención Integral en los centros de 
 
 II. Implementar un programa especial de asistencia social para mujeres víctimas de violencia de género;
 
-III. Ejecutar campañas de prevención sobre violencia de género contra las mujeres, las que tendrán por objetivo que la sociedad perciba el fenómeno como un asunto de seguridad pública y de derechos humanos, y no como un problema familiar;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+III. Ejecutar campañas de prevención sobre las violencias contra las mujeres, las que tendrán por objetivo que la sociedad perciba el fenómeno como un asunto de seguridad pública y de derechos humanos, y no como un problema familiar;
 
-IV. Impulsar procesos de capacitación sobre la violencia de género contra las mujeres, así como del empoderamiento de la mujer para servidoras y servidores públicos del Sistema Estatal para el Desarrollo Integral de la Familia; así como para los comités municipales del mismo;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-V. Apoyar la realización de proyectos de investigación en los municipios sobre temas relacionados con la violencia de género contra las mujeres;
+IV. Impulsar procesos de capacitación sobre las violencias contra las mujeres, así como del empoderamiento de la mujer para servidoras y servidores públicos del Sistema Estatal para el Desarrollo Integral de la Familia; así como para los comités municipales del mismo;
 
-VI. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+V. Apoyar la realización de proyectos de investigación en los municipios sobre temas relacionados con las violencias contra las mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+VI. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de las violencias contra las mujeres y su relación con la violencia social;
 
 VII. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
 
@@ -1681,29 +1875,39 @@ VIII. Las demás que le asigne el Programa.
 
 Corresponde a la Dirección General del Registro Civil:
 
-I. Impulsar procesos formales de capacitación sobre la violencia de género contra las mujeres para sus servidoras y servidores públicos;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-II. Diseñar y ofrecer un instrumento de información para los nuevos matrimonios sobre las causas y efectos de la violencia de género contra las mujeres;
+I. Impulsar procesos formales de capacitación sobre las violencias contra las mujeres para sus servidoras y servidores públicos;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+II. Diseñar y ofrecer un instrumento de información para los nuevos matrimonios sobre las causas y efectos de las violencias contra las mujeres;
 
 III. Diseñar un instrumento orientado a la democratización de las relaciones de pareja para su lectura durante la celebración del matrimonio civil;
 
 IV. Impulsar un programa gratuito para que las mujeres obtengan su registro civil;
 
-V. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+V. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de las violencias contra las mujeres y su relación con la violencia social;
 
 VI. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
 
 VII. Las demás que le asigne el Programa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 69.
 
-Corresponde a la Secretaría de la Juventud:
+Corresponde al Instituto Aguascalentense de la Juventud:
 
-I. Ejecutar campañas de información y difusión para jóvenes sobre las causas y efectos de la violencia de género que se ejerce contra las mujeres en la relación de noviazgo o en cualquier otra relación de hecho; así como para impulsar el respeto al derecho de libertad y autonomía de las mujeres;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-II. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+I. Ejecutar campañas de información y difusión para jóvenes sobre las causas y efectos de las violencias que se ejercen contra las mujeres en la relación de noviazgo o en cualquier otra relación de hecho; así como para impulsar el respeto al derecho de libertad y autonomía de las mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+II. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de las violencias contra las mujeres y su relación con la violencia social;
 
 III. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
 
@@ -1713,9 +1917,13 @@ IV. Las demás que le asigne el Programa.
 
 Corresponde al Instituto del Deporte del Estado de Aguascalientes:
 
-I. Ejecutar campañas de información y difusión dirigidas a la comunidad deportista sobre las causas y efectos de la violencia de género contra las mujeres;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-II. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+I. Ejecutar campañas de información y difusión dirigidas a la comunidad deportista sobre las causas y efectos de las violencias contra las mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+II. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de las violencias contra las mujeres y su relación con la violencia social;
 
 III. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
 
@@ -1725,21 +1933,29 @@ IV. Las demás que le asigne el Programa.
 
 Forman parte del Sector Medios de Comunicación:
 
-I. Las Corporaciones de Radio y Televisión del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-II. La Coordinación de Comunicación Social del Gobierno del Estado de Aguascalientes; y
+I. Las Corporaciones de Radio y Televisión del Estado; y
 
-III. La Unidad de Imagen del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+II. La Secretaría de Comunicación y Vocería del Gobierno del Estado de Aguascalientes.
+
+III. (DEROGADA, P.O. 23 DE JUNIO DE 2026)
 
 ###### Artículo 72.
 
 Corresponde a las Corporaciones de Radio y Televisión del Estado:
 
-I. Difundir, a través de los medios de comunicación, el derecho que tienen las mujeres de vivir una vida libre de violencia;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+I. Difundir, a través de los medios de comunicación, el derecho que tienen las mujeres de vivir una vida libre de violencias;
 
 II. Difundir el procedimiento de denuncia y los espacios de atención integral para las víctimas de violencia de género, así como las instituciones públicas y privadas que prestan estos servicios;
 
-III. Producir series televisivas y radiofónicas orientadas a que la sociedad perciba la violencia de género contra las mujeres como delito, como un asunto de seguridad ciudadana y de derechos humanos;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+III. Producir series televisivas y radiofónicas orientadas a que la sociedad perciba las violencias contra las mujeres como delito, como un asunto de seguridad ciudadana y de derechos humanos;
 
 IV. Impulsar procesos de capacitación para su personal, con la finalidad de fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
 
@@ -1747,11 +1963,19 @@ V. Rendir un informe bimensual a la Coordinación General del Consejo de las act
 
 VI. Las demás que le asigne el Programa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2026)</small>
+
 ###### Artículo 73.
 
-Corresponde a la Coordinación de Comunicación Social del Gobierno del Estado de Aguascalientes:
+Corresponde a La Secretaría de Comunicación y Vocería del Gobierno del Estado de Aguascalientes:
 
-I. Producir secciones en prensa escrita sobre el derecho que tienen las mujeres a vivir una vida libre de violencia, así como sobre la prevención y procedimiento de denuncia del fenómeno;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2026)</small>
+
+I. Producir secciones en prensa escrita sobre el derecho que tienen las mujeres a vivir una vida libre de violencias, así como sobre la prevención y procedimiento de denuncia del fenómeno.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
+
+Producir la totalidad de mensajes de radio, televisión, prensa y comunicación gráfica, incluida la digital y la virtual, desde la perspectiva de género, con el propósito de promover relaciones equitativas entre mujeres y hombres, así como la prevención, atención, sanción y erradicación de las violencias contra las mujeres.
 
 II. Impulsar procesos de capacitación para su personal, con la finalidad de fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
 
@@ -1761,31 +1985,29 @@ IV. Las demás que le asigne el Programa.
 
 ###### Artículo 74.
 
-Corresponde a la Unidad de Imagen del Gobierno del Estado:
-
-I. Producir la totalidad de mensajes de radio, televisión, prensa y comunicación gráfica, incluida la virtual, desde la perspectiva de género, con el propósito de promover relaciones equitativas entre mujeres y hombres;
-
-II. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
-
-III. Las demás que le asigne el Programa.
+(DEROGADO, P.O. 23 DE JUNIO DE 2026)
 
 #### SECCIÓN SEGUNDA. Del Poder Judicial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2026)</small>
+
 ###### Artículo 75.
 
-Corresponde al Supremo Tribunal de Justicia:
+Corresponde al Poder Judicial del Estado:
 
-I. Desarrollar un programa de capacitación permanente sobre la violencia de género contra las mujeres;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+I. Desarrollar un programa de capacitación permanente por conducto de su Universidad Judicial sobre las violencias contra las mujeres;
 
 II. Incorporar en sus sistemas estadísticos, indicadores que faciliten el monitoreo de las tendencias socio-jurídicas del fenómeno y la consecuente aplicación de la presente ley;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-III. Institucionalizar la perspectiva de género en la administración e impartición de justicia;
+III. Institucionalizar la perspectiva de género y de infancia en la administración e impartición de justicia;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-IV. Difundir permanentemente el procedimiento judicial en materia de violencia de género contra las mujeres;
+IV. Difundir permanentemente el procedimiento judicial en materia de las violencias contra las mujeres;
 
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
 
@@ -1809,9 +2031,9 @@ I. Vigilar que el marco normativo del Estado garantice el cumplimiento de la pre
 
 II. Institucionalizar la perspectiva de género en el proceso legislativo y realizar estudios de género; y
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-III. Promover internamente mecanismos para prevenir, atender, sancionar y erradicar el hostigamiento y acoso sexual.
+III. Promover internamente mecanismos para prevenir, atender, sancionar y erradicar las violencias contra las mujeres, el hostigamiento y acoso sexual.
 
 #### SECCIÓN CUARTA. De la Comisión Estatal de Derechos Humanos
 
@@ -1821,7 +2043,9 @@ Corresponde a la Comisión Estatal de los Derechos Humanos:
 
 I. Institucionalizar la perspectiva de género en el ejercicio de las funciones sustantivas y administrativas de la Comisión;
 
-II. Implementar campañas de información en las regiones del Estado sobre el derecho de las mujeres a vivir una vida libre de violencia, lo mismo en el ámbito público que en el privado, y difundir el procedimiento para interponer quejas por presuntas violaciones a este derecho fundamental, cuando fueren imputables a autoridades o servidoras o servidores públicos estatales o municipales;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+II. Implementar campañas de información en las regiones del Estado sobre el derecho de las mujeres a vivir una vida libre de violencias, lo mismo en el ámbito público que en el privado, y difundir el procedimiento para interponer quejas por presuntas violaciones a este derecho fundamental, cuando fueren imputables a autoridades o a las personas servidoras públicas estatales o municipales;
 
 III. Implementar en sus sistemas estadísticos la incorporación de indicadores que faciliten el monitoreo de las tendencias socio-jurídicas del fenómeno y la consecuente aplicación de la ley;
 
@@ -1843,15 +2067,23 @@ VI. Las demás que le asigne el Programa.
 
 Corresponde a los Municipios:
 
-I. Diseñar, formular y aplicar, en concordancia con la política estatal, la política municipal orientada a erradicar la violencia de género contra las mujeres;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+I. Diseñar, formular y aplicar, en concordancia con la política estatal, la política municipal orientada a prevenir, atender, sancionar y erradicar las violencias contra las mujeres;
 
 II. Promover la instalación de Núcleos de Atención Integral;
 
-III. Implementar procesos de especialización para el personal responsable de la atención;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-IV. Instalar módulos de información sobre las causas y consecuencias de la violencia de género contra las mujeres y su relación con la violencia social; y
+III. Implementar procesos de especialización para el personal responsable de la atención de las violencias contra las mujeres;
 
-V. Los demás asuntos que en materia de violencia de género contra las mujeres les confiera esta Ley u otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+IV. Instalar módulos de información sobre las causas y consecuencias de las violencias contra las mujeres y su relación con la violencia social; y
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+V. Los demás asuntos que en materia de las violencias contra las mujeres les confiera esta Ley u otros ordenamientos legales.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE JUNIO DE 2017)</small>
 
@@ -2366,3 +2598,11 @@ P.O. 25 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 497. SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 520.- SE REFORMA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes, se entenderán referidas a la Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Aguascalientes.
