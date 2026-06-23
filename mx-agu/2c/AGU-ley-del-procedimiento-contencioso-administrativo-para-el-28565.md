@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-contencioso-administrativo-para-el-28565"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-19"
-last_updated: "2026-04-20"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 19 de septiembre de 1999.
 
@@ -279,9 +279,9 @@ En los juicios que se tramiten ante el Tribunal, no habrá lugar a condenación 
 
 Toda resolución durante el procedimiento debe notificarse, a más tardar, al día siguiente a aquél en que el expediente se haya turnado al Actuario para ese efecto. A continuación de la resolución, se asentará la razón respectiva.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2026)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
 
-Al Actuario que sin causa justificada incumpla con esta obligación o practique notificaciones en forma contraria a las formalidades conducentes, se le impondrá una multa que no excederá del treinta por ciento de su salario mensual; en caso de reincidencia, se dará vista al Pleno del Tribunal, el cual, previa audiencia del Actuario, podrá imponerle una sanción hasta por treinta días de suspensión. De persistir en la omisión, el Tribunal determinará la destitución del Actuario, sin responsabilidad para el Estado, lo anterior conforme a lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+Al Actuario que sin causa justificada incumpla con esta obligación o practique notificaciones en forma contraria a las formalidades conducentes, se le impondrá una multa qué no excederá del treinta por ciento de su salario mensual; en caso de reincidencia, se dará vista al Tribunal de Justicia Administrativa del Estado de Aguascalientes, a través del Pleno o del órgano competente previsto en su Ley Orgánica, el cual, previa audiencia del Actuario, podrá imponerle una sanción hasta por treinta días de suspensión. De persistir en la omisión, el Tribunal determinará la destitución del Actuario, sin responsabilidad para el Estado, lo anterior conforme a lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1468,3 +1468,19 @@ P.O. 20 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 446.- SE REFORMA LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES".]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 522.- SE REFORMA LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Tribunal de Justicia Administrativa del Estado de Aguascalientes, en un plazo no mayor a 60 días naturales contados a partir de la entrada en vigor del presente Decreto, realizará las adecuaciones reglamentarias y administrativas necesarias para su cumplimiento.
