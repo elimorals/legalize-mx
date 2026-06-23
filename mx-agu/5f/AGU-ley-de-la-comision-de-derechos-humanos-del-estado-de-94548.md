@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2026-05-11"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -51,13 +51,21 @@ LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
 Esta Ley es de orden público, de interés social y de aplicación en todo el Estado de Aguascalientes en materia de Derechos Humanos en términos de lo establecido por el Artículo 62 de la Constitución Política del Estado. Tiene por objeto establecer el funcionamiento y estructura jurídico administrativa de la Comisión, así como los procedimientos sustanciados por la misma a fin de promover y salvaguardar los Derechos Humanos.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 23 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 2°.
 
+Para la defensa y promoción de los derechos humanos, se observarán los principios de universalidad, interdependencia, indivisibilidad y progresividad, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 23 DE JUNIO DE 2026)</small>
+
 Todas las actuaciones y procedimientos que se sigan ante la Comisión serán gratuitos y se sujetarán a los principios de inmediación, concentración, rapidez y buena fe, procurándose el contacto directo con quejosos, denunciantes y autoridades para evitar la dilación de las comunicaciones escritas.
 
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 23 DE JUNIO DE 2026)</small>
+
 Serán de aplicación supletoria la Ley del Procedimiento Administrativo del Estado de Aguascalientes, el Código de Procedimientos Civiles del Estado de Aguascalientes y los principios generales del derecho, en ese orden y en lo que no contravengan las bases esenciales de este ordenamiento.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 23 DE JUNIO DE 2026)</small>
 
 La información en posesión de la Comisión, será tratada en términos de lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública y la normatividad local aplicable.
 
@@ -1500,5 +1508,11 @@ El presente Decreto entrará en vigor el 17 de enero del 2026, es decir, con pos
 P.O. 11 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 480.- SE REFORMA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 526.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
