@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2026-05-18"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -43,7 +43,9 @@ LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE A
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO I. Disposiciones Generales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO ÚNICO. Disposiciones Generales
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2024)</small>
 
@@ -59,9 +61,9 @@ Para lograr lo anterior, establecerá las bases normativas que garanticen el eje
 
 Para los efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-I. Abandono: La falta de acción deliberada o no para atender de manera integral las necesidades de una persona adulta mayor que ponga en peligro su vida o su integridad física, psíquica o moral;
+I. Abandono: La falta de acción deliberada o involuntaria para atender de manera integral las necesidades de una persona adulta mayor que ponga en peligro su vida o su integridad física, psíquica o moral;
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
@@ -115,13 +117,13 @@ XIII. Envejecimiento: Proceso gradual que se desarrolla durante el curso de vida
 
 XIV. Envejecimiento activo y saludable: Proceso por el cual se optimizan las oportunidades de bienestar físico, mental y social de participar en actividades sociales, económicas, culturales, espirituales y cívicas, y de contar con protección, seguridad y atención, con el objetivo de ampliar la esperanza de vida saludable y la calidad de vida de todas las personas en la vejez, y permitirles así seguir contribuyendo activamente a sus familias, amigos y comunidades;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XV. Estado: El estado de Aguascalientes;
+XV. Estado: El Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XVI. Familia: Los parientes de las personas adultas mayores, atendiendo a lo dispuesto por las reglas del parentesco estipuladas en el Código Civil del estado de Aguascalientes;
+XVI. Familia: Los parientes de las personas adultas mayores, atendiendo a lo dispuesto por las reglas del parentesco estipuladas en el Código Civil del Estado de Aguascalientes;
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
@@ -147,13 +149,13 @@ XXI. Insuficiencia: La disminución de la capacidad de los órganos del cuerpo h
 
 XXII. Integración Social: Es el resultado de las acciones que realizan las dependencias y entidades de la administración pública federal, estatal y municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral;
 
-> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XIII (sic). Ley: La Ley para la Protección Especial de los Adultos Mayores del estado de Aguascalientes;
+XXIII. Ley: La Ley para la Protección Especial de los Adultos Mayores del Estado de Aguascalientes;
 
-> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XIV (sic). Limitación: La reducción de las funciones orgánicas del cuerpo humano;
+XXIV. Limitación: La reducción de las funciones orgánicas del cuerpo humano;
 
 > <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
@@ -175,7 +177,9 @@ c) Persona adulta mayor parcialmente dependiente: Persona adulta mayor con depen
 
 d) Persona adulta mayor totalmente dependiente: Persona adulta mayor que requiere asistencia para realizar todas sus actividades básicas o instrumentadas de la vida diaria;
 
-e) Persona adulta mayor en situación de riesgo o desamparo: Persona adulta mayor con problemas de salud, abandono, carencia de apoyos económicos, carencia de apoyo familiar, víctima de contingencias ambientales o víctima de desastres naturales, que requiere la asistencia y protección del Ejecutivo del estado, de los Municipios y de las Organizaciones de la Sociedad Civil.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2026)</small>
+
+e) Persona adulta mayor en situación de riesgo o desamparo: Persona adulta mayor con problemas de salud, abandono, carencia de apoyos económicos, carencia de apoyo familiar, víctima de contingencias ambientales o de desastres naturales, que requiere la asistencia y protección del Ejecutivo del Estado, de los Municipios y de las Organizaciones de la Sociedad Civil.
 
 Las autoridades correspondientes deberán elaborar programas que atiendan en la generalidad a las personas adultas mayores, sin descuidar a ningún grado de vulnerabilidad de los descritos en los incisos anteriores;
 
@@ -199,7 +203,9 @@ I. La violencia psicológica o emocional: Es cualquier acto u omisión que dañe
 
 II. La violencia física: Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar lesiones ya sean internas, externas o ambas;
 
-III. La violencia patrimonial: Es cualquier acto u omisión que afecta la supervivencia de la persona adulta mayor. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la persona adulta mayor; hecha excepción de que medie acto de autoridad fundado o motivado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+III. La violencia patrimonial: Es cualquier acto u omisión que afecta la supervivencia y autonomía de la persona adulta mayor. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la persona adulta mayor. Salvo que medie acto de autoridad debidamente fundado y motivado;
 
 IV. La violencia económica: Es toda acción u omisión del agresor que afecta la supervivencia económica de la persona adulta mayor. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
@@ -675,7 +681,9 @@ I. Coordinar y ejecutar las políticas de asistencia social y atención integral
 
 II. Promocionar y dar seguimiento a las acciones y programas de atención a las personas adultas mayores, fomentando la participación de los distintos sectores públicos, sociales y privados;
 
-II. Realizar convenios de colaboración con instituciones Federales, Estatales Municipales y Organismos Públicos, Sociales y Privados para coordinar acciones y programas de atención preferente e integral a las personas adultas mayores;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+III. Realizar convenios de colaboración con instituciones Federales, Estatales Municipales y Organismos Públicos, Sociales y Privados para coordinar acciones y programas de atención preferente e integral a las personas adultas mayores;
 
 IV. Impulsar y fomentar entre la sociedad la cultura del envejecimiento, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores;
 
@@ -769,7 +777,9 @@ VIII. Evaluar las acciones y programas de atención a las personas adultas mayor
 
 IX. Difundir las convocatorias y programas de apoyo Federales, Estatales y Municipales para personas adultas mayores y orientarles para que reciban estos apoyos;
 
-X. Llevar a cabo un padrón de personas adultas mayores;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+X. Crear y mantener actualizado un registro estatal de personas adultas mayores;
 
 XI. Llevar registro, seguimiento, evolución y evaluación de los casos de personas adultas mayores en estado de abandono, maltrató físico, psicológico o sexual, explotación laboral, discriminación, pobreza extrema o demás circunstancias análogas;
 
@@ -1934,3 +1944,11 @@ P.O. 18 DE MAYO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 515.- SE REFORMA LA LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
