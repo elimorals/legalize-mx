@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2026-01-23"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JUNIO DE 2026.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1483,6 +1483,18 @@ Los dictámenes correspondientes a las iniciativas preferentes que no hayan sido
 ###### Artículo 109.
 
 Si el dictamen correspondiente a los asuntos turnados que no se ha presentado, la o el Presidente de la Mesa Directiva hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, la o el Presidente enviará la iniciativa a la Comisión de Normatividad, Estudios y Prácticas Parlamentarias, para que elabore el dictamen correspondiente en un plazo que en ningún caso podrá ser mayor a treinta días naturales.
+
+> <small>(ADICIONADO, G.O. 23 DE JUNIO DE 2026)</small>
+
+Si concluido el plazo señalado en el párrafo anterior la Comisión de Normatividad, Estudios y Prácticas Parlamentarias no hubiere emitido el dictamen correspondiente, la o el Presidente de la Mesa Directiva consultará al Pleno si el asunto puede ser discutido, en sus términos, en la sesión inmediata correspondiente.
+
+> <small>(ADICIONADO, G.O. 23 DE JUNIO DE 2026)</small>
+
+En caso de negativa respecto de la discusión en el Pleno, el asunto en cuestión se tendrá por concluido y no podrá volver a presentarse sino en el siguiente periodo de sesiones ordinarias.
+
+> <small>(ADICIONADO, G.O. 23 DE JUNIO DE 2026)</small>
+
+La Presidencia de la Mesa Directiva podrá emitir la excitativa respecto de una iniciativa dentro de los 15 días naturales siguientes a que haya concluido el plazo para la dictaminación correspondiente o a petición escrita de alguna diputada o diputado dentro del mismo plazo.
 
 ###### Artículo 110.
 
@@ -3218,7 +3230,13 @@ Todo asunto turnado a una o más Comisiones lo deberán resolver, dentro de un t
 
 El dictamen se presentará para su discusión ante el Pleno, en el plazo referido en el párrafo anterior, salvo prórroga debidamente fundamentada que apruebe el Pleno o la Comisión Permanente a petición de la o las dictaminadoras, por un término adicional de la misma duración.
 
-Los asuntos no resueltos en los términos referidos en este artículo se tendrán por concluidos; sin perjuicio que la o las Comisiones puedan retomar su estudio y resolución cuando lo autoricen sus miembros a través de la emisión del dictamen correspondiente.
+> <small>(REFORMADO, G.O. 23 DE JUNIO DE 2026)</small>
+
+Los asuntos no resueltos en los términos referidos en este artículo se tendrán por concluidos.
+
+> <small>(ADICIONADO, G.O. 23 DE JUNIO DE 2026)</small>
+
+Quedan exceptuados de lo establecido en el párrafo anterior los asuntos que de los que la Mesa Directiva emita excitativa, mismos para los cuales deberá seguirse el trámite correspondiente indicado en la Ley Orgánica y el presente Reglamento.
 
 ###### Artículo 261.
 
@@ -3246,11 +3264,17 @@ La Mesa Directiva pondrá a consideración del Pleno o de la Comisión Permanent
 
 La solicitud que realice la Comisión o Comisiones, así como la resolución del Pleno o de la Comisión Permanente, serán publicados en la Gaceta Parlamentaria. Las solicitudes de prórroga no procederán tratándose de iniciativas con trámite preferente.
 
-> <small>(REFORMADO, G.O. 20 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, G.O. 23 DE JUNIO DE 2026)</small>
 
 ###### Artículo 263.
 
-En caso de negativa respecto de la solicitud de prórroga, la o el Presidente hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, enviará la iniciativa a la Comisión de Normatividad, Estudios y Prácticas Parlamentarias, consultándole a la o el Presidente de dicha Comisión el término en que se contará con el dictamen en materia.
+En caso de negativa respecto de la solicitud de prórroga, la o el Presidente hará una excitativa para que se elabore el dictamen y, si transcurridos cinco días hábiles desde su emisión no se hubiere presentado el mismo, la o el Presidente turnará la iniciativa a la Comisión de Normatividad, Estudios y Prácticas Parlamentarias, para que elabore el dictamen correspondiente en un plazo que en ningún caso podrá exceder de treinta días naturales.
+
+Si concluido el plazo señalado en el párrafo anterior la Comisión de Normatividad, Estudios y Prácticas Parlamentarias no hubiere emitido el dictamen correspondiente, la o el Presidente de la Mesa Directiva consultará al Pleno si el asunto puede ser discutido, en sus términos, en la sesión inmediata correspondiente.
+
+En caso de negativa respecto de la discusión en el Pleno, el asunto en cuestión se tendrá por concluido y no podrá volver a presentarse sino en el siguiente periodo de sesiones ordinarias.
+
+La Presidencia de la Mesa Directiva podrá emitir la excitativa respecto de una iniciativa dentro de los 15 días naturales siguientes a que haya concluido el plazo para la dictaminación correspondiente o a petición escrita de alguna diputada o diputado dentro del mismo plazo.
 
 ###### Artículo 264.
 
@@ -6841,3 +6865,11 @@ G.O. 23 DE ENERO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
 
 SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 81; Y SE ADICIONAN UN PÁRRAFO QUINTO, UN PÁRRAFO SEXTO Y UN PÁRRAFO SÉPTIMO AL ARTÍCULO 81, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO Y SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 260; EL ARTÍCULO 263; Y SE ADICIONA UN PÁRRAFO SEGUNDO, UN PÁRRAFO TERCERO, UN PÁRRAFO CUARTO AL ARTÍCULO 109; UN PÁRRAFO CUARTO AL ARTÍCULO 260; UN PÁRRAFO SEGUNDO, UN PÁRRAFO TERCERO Y UN PÁRRAFO CUARTO AL ARTÍCULO 260, DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase el presente Decreto a la Jefa de Gobierno de la Ciudad de México, para su publicación en la Gaceta Oficial de la Ciudad de México.
