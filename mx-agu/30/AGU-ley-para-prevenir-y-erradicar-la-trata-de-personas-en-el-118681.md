@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-118681
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2025-12-15"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en la Primera Sección al Número 5 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2017.
 
@@ -168,6 +168,10 @@ Los delitos en materia de trata de personas serán los previstos en el Capítulo
 La protección y asistencia a las víctimas, ofendidos y testigos en materia de trata de personas, así como el resarcimiento y la reparación del daño deberán ser plenas y efectivas, proporcionales a la gravedad del daño causado y a la afectación del proyecto de vida, y se harán efectivas en los términos que establezca la Ley General y la Ley de Atención y Protección a la Víctima y al Ofendido del Delito para el Estado de Aguascalientes.
 
 Las medidas de atención, asistencia y protección, beneficiarán a todas las víctimas, ofendidos y testigos de la trata de personas, con independencia de si el sujeto activo ha sido identificado, aprehendido, juzgado o sentenciado, así como de la relación familiar, de dependencia, laboral o económica que pudiera existir entre éste y la víctima, ofendido o testigo.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 11 BIS.- Para brindar una atención oportuna y acorde a las necesidades de las víctimas de los delitos en materia de trata de personas, se proporcionará al personal de policía, de procuración de justicia, de salud y de servicios sociales, capacitación en perspectiva de género, enfoque de derechos humanos, interculturalidad y atendiendo al interés superior de la niñez, que los sensibilice sobre dichas necesidades, así como directrices que garanticen que esta ayuda sea siempre especializada y oportuna.
 
 ###### ARTÍCULO 12.
 
@@ -802,6 +806,14 @@ Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que
 P.O. 15 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 322.- SE ADICIONA EL ARTÍCULO 45 BIS A LA LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 527.- SE ADICIONA EL ARTÍCULO 11 BIS A LA LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
