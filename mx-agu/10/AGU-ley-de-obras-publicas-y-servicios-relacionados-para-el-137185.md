@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-137185"
 country: "mx"
 rank: "ley"
 publication_date: "2019-07-08"
-last_updated: "2025-06-16"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en la Primera Sección al Número 27 del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2019.
 
@@ -229,7 +229,9 @@ II. Los objetivos, metas y previsiones de recursos establecidos en el Presupuest
 
 III. Las necesidades básicas y primarias de la población, tomando de manera primordial aquellos proyectos que impliquen beneficio social en el momento de (sic) elaboración de los planes;
 
-IV. Los estudios de preinversión que se deban obtener para definir la factibilidad técnica, económica, ecológica y social de los trabajos;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+IV. Los estudios de preinversión que se deban obtener para definir la factibilidad técnica, económica, ecológica y social de los trabajos, pudiendo incorporar, cuando así se considere pertinente, enfoques de sustentabilidad ecológica a través del uso de tecnologías idóneas para dicho propósito;
 
 V. Los objetivos y metas a corto, mediano y largo plazo;
 
@@ -237,15 +239,21 @@ VI. Las acciones previas, durante y posteriores a la ejecución de las obras pú
 
 VII. Las características ambientales, climáticas y geográficas de la región donde deba realizarse la obra pública;
 
-VIII. El banco de datos de las obras ejecutadas y de los proyectos ejecutivos; y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+VIII. El banco de datos de las obras ejecutadas y de los proyectos ejecutivos;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
 IX. Para la elaboración de los proyectos ejecutivos solicitados por los entes requirentes a las dependencias ejecutoras, necesariamente deberán contar con autorización por escrito vía oficio del Órgano de Planeación en el que se determine la factibilidad técnica de llevarlo a cabo en el lugar solicitado. La solicitud que el ente requirente haga al Órgano de Planeación, deberá ser acompañada de la documentación que acredite la tenencia legal del bien inmueble donde se desarrollará el proyecto ejecutivo.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
 
-Esta planeación deberá desarrollarse entre los Sujetos de la Ley, operativos y los normativos, en coordinación con el Órgano de Planeación, a través del SEPI o su similar en los Municipios, debiendo contar con ésta a más tardar el treinta y uno de julio del ejercicio fiscal anterior a su ejecución; las obras emergentes o aquellas que se logren incluir en el escenario por la obtención de recursos adicionales podrán incluirse posteriormente a esta fecha, pero siempre antes del treinta de noviembre del ejercicio fiscal en que se autoricen. El Sujeto de la Ley Ejecutor deberá apegarse a los planes y proyectos programados y establecidos dentro de la planeación en los términos del presente artículo.
+Esta planeación deberá desarrollarse entre los Sujetos de la Ley, operativos y los normativos, en coordinación con el Órgano de Planeación, a través del SEPI o su similar en los Municipios, debiendo contar con ésta a más tardar el treinta y uno de julio del ejercicio fiscal anterior a su ejecución; las obras emergentes o aquellas que se logren incluir en el escenario por la obtención de recursos adicionales podrán incluirse posteriormente a esta fecha, pero siempre antes del treinta de noviembre del ejercicio fiscal en que se autoricen. El Sujeto de la Ley Ejecutor deberá apegarse a los planes y proyectos programados y establecidos dentro de la planeación en los términos del presente artículo; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+X. En las obras que impliquen el uso de energía eléctrica y/o agua en instalaciones sanitarias o en áreas verdes para su funcionamiento regular, se promoverá la inclusión dentro de los proyectos de acciones orientadas a la sustentabilidad, como la captación, almacenamiento y posterior utilización de agua pluvial. Su diseño podrá incorporar especificaciones técnicas que fomenten el uso de tecnologías de ahorro de agua, como los mingitorios secos, y se impulsará la utilización de energías limpias mediante la colocación de paneles solares o cualquier otra tecnología que contribuya al cuidado del medio ambiente.
 
 ###### Artículo 12.
 
@@ -286,6 +294,10 @@ Los Sujetos de la Ley estarán obligados a prever, con sustento en los estudios 
 Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales cuando éstas pudieren deteriorarse y se dará la intervención a las instancias que correspondan y que tengan atribuciones en la materia, así mismo, los presupuestos deberán incluir los costos mínimos para cumplir con lo indicado en este Artículo.
 
 De igual forma, todos los proyectos de infraestructura pública deberán asegurar la accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas y la seguridad para todas las personas, debiendo cumplir con las normas de diseño y de señalización vigentes y aplicables al proyecto, en instalaciones, circulaciones, servicios sanitarios y demás análogas para las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
+
+Tratándose de proyectos de obra pública que para su funcionamiento requieran la utilización cotidiana de agua y energía eléctrica, se promoverá la inclusión de acciones orientadas a la sustentabilidad ecológica, mediante la implementación de formas de obtención de energías limpias, captación, almacenamiento y utilización de agua pluvial y sistemas ahorradores de agua.
 
 ###### Artículo 15.
 
@@ -2136,3 +2148,9 @@ P.O. 16 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 523.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
