@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2026-04-27"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -207,13 +207,17 @@ IX.- Fomentar la integración, organización y funcionamiento de colegios, asoci
 
 X.- Proporcionar cuidados paliativos;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XI.- Promover la actividad física y la alimentación nutritiva, suficiente y de calidad, que contrarresten eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria a toda la población del Estado; y
+XI.- Promover la actividad física y la alimentación nutritiva, suficiente y de calidad, que contrarresten eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria a toda la población del Estado;
 
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XII.- Promover el desarrollo de los servicios de salud por telemedicina, usando Tecnologías de la Información y Comunicación, para el intercambio de información válida en el diagnóstico, el tratamiento, la prevención de enfermedades o lesiones, investigación y evaluación, y educación médica a distancia para ampliar la cobertura y mejorar la calidad de atención a la salud.
+XII.- Promover el desarrollo de los servicios de salud por telemedicina, usando Tecnologías de la Información y Comunicación, para el intercambio de información válida en el diagnóstico, el tratamiento, la prevención de enfermedades o lesiones, investigación y evaluación, y educación médica a distancia para ampliar la cobertura y mejorar la calidad de atención a la salud; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+XIII.- Proporcionar apoyos económicos y/o en especie, a los familiares y/o personas que acompañen y cuiden a enfermos de cáncer durante sus tratamientos, los cuales se destinarán a garantizar su transporte, alojamiento, alimentación adecuada y atención psicosocial, priorizando la entrega de estos apoyos a las personas con escasos recursos económicos; atendiendo al presupuesto asignado y disponible para este programa.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -923,6 +927,10 @@ Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito 
 
 Además, deberán buscar satisfacer la atención gratuita a favor de las mujeres embarazadas en estado de vulnerabilidad por pobreza, de conformidad con el Reglamento correspondiente que para tal efecto expida el titular del Poder Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
+
+ARTICULO 51 BIS.- Las instituciones públicas del Sistema Estatal de Salud, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, por sí o en coordinación con las instituciones públicas del Sistema Nacional de Salud, realizarán las previsiones de gasto correspondientes para proporcionar los apoyos económicos y/o en especie, a familiares y/o personas que acompañen y cuiden a enfermos de cáncer durante sus tratamientos, previstos en la fracción XII del Artículo 7° de esta Ley.
+
 ###### ARTICULO 52.
 
 Los trabajadores de los establecimientos estatales de salud podrán participar en la gestión de los mismos, de conformidad con las disposiciones generales aplicables, y podrán opinar y emitir sugerencias tendientes al mejoramiento de los servicios de salud.
@@ -1139,13 +1147,13 @@ En el caso de embarazo de alto riesgo, el personal médico determinará la neces
 
 IV.- La promoción de la integración y del bienestar familiar para el acompañamiento de las mujeres durante el embarazo;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-V.- La atención oportuna, de calidad y gratuita a toda mujer embarazada que necesite atención obstétrica, en cualquier establecimiento público hospitalario, aunque no cuente con seguridad social, en los términos del Convenio General de Colaboración Interinstitucional para la Atención de la (sic) Emergencias Obstétricas;
+V.- La atención oportuna, de calidad y gratuita a toda mujer embarazada que necesite atención obstétrica, en cualquier establecimiento público hospitalario, aunque no cuente con seguridad social, en los términos del Convenio General de Colaboración Interinstitucional para la Atención de las Emergencias Obstétricas;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-VI.- Garantizar el contacto inmediato entre la madre y el recién nacido para que, en caso de que aquella así lo decida, pueda comenzarse la lactancia y el alojamiento conjunto de la persona recién nacida y la madre en un mismo espacio, siempre y cuando no exista riesgo de salud para alguno de (sic) ambos;
+VI.- Garantizar el contacto inmediato entre la madre y el recién nacido para que, en caso de que aquella así lo decida, pueda comenzarse la lactancia y el alojamiento conjunto de la persona recién nacida y la madre en un mismo espacio, siempre y cuando no exista riesgo de salud para alguno o ambos;
 
 > <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
 
@@ -1167,13 +1175,17 @@ X.- El diagnóstico oportuno y la atención temprana de la displasia en el desar
 
 XI.- La atención integral y el tratamiento efectivo para inhibir la lactancia materna, en caso de muerte fetal o perinatal;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XII.- La atención integral y multidisciplinaria de la muerte fetal o perinatal, a fin de garantizar el trato digno; el respeto y la protección de los derechos humanos, y el bienestar físico, psíquico y emocional de las mujeres, así como de las personas que las acompañen. Abordando integralmente, con sentido ético, respetuoso y humanitario, la muerte fetal y perinatal; y
+XII.- La atención integral y multidisciplinaria de la muerte fetal o perinatal, a fin de garantizar el trato digno; el respeto y la protección de los derechos humanos, y el bienestar físico, psíquico y emocional de las mujeres, así como de las personas que las acompañen. Abordando integralmente, con sentido ético, respetuoso y humanitario, la muerte fetal y perinatal;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XIII.- El alojamiento conjunto de la persona recién nacida sin vida y de su madre o progenitores, lo anterior, en un espacio excluido de las demás mujeres que acaban de dar a luz, a efecto de brindarles una atención humanizada que les permita vivir su duelo.
+XIII.- El alojamiento conjunto de la persona recién nacida sin vida y de su madre o progenitores, lo anterior, en un espacio excluido de las demás mujeres que acaban de dar a luz, a efecto de brindarles una atención humanizada que les permita vivir su duelo; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+XIV.- La detección oportuna de algún síntoma de depresión, ansiedad o cualquier trastorno mental, así como la atención y seguimiento necesario, tanto en la etapa de gestación, como en la de puerperio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
@@ -2529,9 +2541,17 @@ VI.- La realización de investigaciones sobre las causas y efectos de los proble
 
 VII.- La promoción de la participación consciente y organizada de la población con carencias en las acciones de promoción, asistencia y desarrollo social que se lleven a cabo en su propio beneficio;
 
-VIII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socio-económicas; y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-IX.- La prestación de servicios funerarios.
+VIII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socio-económicas;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+IX.- La prestación de servicios funerarios; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+X.- Proporcionar apoyos económicos y/o en especie, a familiares y/o personas de escasos recursos, que acompañen y cuiden a pacientes con cáncer durante su tratamiento y lo necesiten para transporte, alojamiento y alimentación adecuada.
 
 ###### ARTICULO 142.
 
@@ -4784,3 +4804,27 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado contará con un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones reglamentarias y administrativas necesarias para el cumplimiento de lo dispuesto en el presente Decreto.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 516.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 524.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES; Y, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto, las autoridades competentes deberán realizar las adecuaciones presupuestarias necesarias para la operatividad de la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+La implementación y cumplimiento del presente Decreto deberá realizarse por las autoridades del Sistema Estatal de Salud con cargo al presupuesto previamente aprobado para el ejercicio fiscal correspondiente, de conformidad con su disponibilidad presupuestaria, sin que ello implique la autorización de recursos adicionales ni genere impacto presupuestal adicional al ya previsto, en concordancia con lo señalado en el Considerando Cuarto del presente Dictamen.
