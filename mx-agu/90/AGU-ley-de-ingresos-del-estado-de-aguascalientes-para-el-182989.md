@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-182989"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-26"
-last_updated: "2026-02-23"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en la Primera Sección al Número 71 del Periódico Oficial del Estado de Aguascalientes, el viernes 26 de diciembre de 2025.
 
@@ -5523,6 +5523,14 @@ I. Multa por daños a señalización y vías de comunicación en caso de acciden
 
 II. Venta de Bases para Licitación Pública, desde $1,805.00 hasta $10,000.00.
 
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+III. Fondo de garantía para el pago de indemnizaciones derivado de Concesiones otorgadas para infraestructura carretera, cuyo monto se establecerá de acuerdo a la cantidad determinada en los procesos de licitación o en el título de concesión correspondiente, destinado a cubrir las indemnizaciones para la expropiación de terrenos necesarios para la liberación del derecho de vía.
+
+> <small>(N. DE E. PERTENENCE A LA FRACCIÓN III, P.O. 23 DE JUNIO DE 2026)</small>
+
+La constitución de dicho fondo, así como su fondeo y mantenimiento, serán obligación y responsabilidad exclusiva del concesionario. En ningún caso el Estado de Aguascalientes, sus entidades o dependencias, asumirán total o parcialmente dichas obligaciones ni aportarán recursos públicos para tales efectos.
+
 ###### Artículo 29.
 
 Por los Aprovechamientos de la Secretaría de Desarrollo Rural y Agroempresarial:
@@ -8230,6 +8238,14 @@ En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 
 P.O. 23 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 400.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2026”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 555.- SE ADICIONA LA FRACCIÓN III, AL ARTÍCULO 28, DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2026; Y SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 10, A LA LEY DE EXPROPIACIÓN PARA EL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
