@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2026-04-09"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3991,9 +3991,7 @@ ARTICULO 276 SEXIES.- Si el sujeto pasivo del delito de hostigamiento o acoso se
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
-###### ARTICULO 276 Septies.
-
-Comete el delito de violación a la intimidad, el que revele, difunda, publique o exhiba mediante correo electrónico, mensajes telefónicos, redes sociales o por cualquier otro medio, imágenes, audio o video de contenido íntimo, erótico o sexual de una persona, sin contar con el consentimiento de la víctima.
+ARTICULO 276 SEPTIES.- Comete el delito de violación a la intimidad, el que revele, difunda, publique o exhiba mediante correo electrónico, mensajes telefónicos, redes sociales o por cualquier otro medio, imágenes, audio o video de contenido íntimo, erótico o sexual de una persona, sin contar con el consentimiento de la víctima.
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
@@ -4037,13 +4035,35 @@ e) Cuando se haga con fines lucrativos;
 
 Si se tratare de un servidor público adicionalmente será destituido e inhabilitado para ocupar empleo, cargo o comisión públicos por el mismo plazo del cumplimiento de la pena a que fuere condenado.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO IV TER
+
+DELITOS CONTRA LA ORIENTACIÓN SEXUAL, IDENTIDAD O EXPRESIÓN DE GÉNERO DE LAS PERSONAS.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
+
+ARTICULO 276 OCTIES.- Se impondrá de dos a seis años de prisión y multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización, a quien realice, imparta, aplique, obligue o financie cualquier tipo de terapias de conversión, tratamiento, servicio o práctica que obstaculice, restrinja, impida, menoscabe, anule o suprima la orientación sexual, identidad o expresión de género de una persona.
+
+Se entiende por terapias de conversión, aquellas prácticas consistentes en sesiones psicológicas, psiquiátricas, métodos o tratamientos que tenga por objeto obstaculizar, restringir, impedir, menoscabar, anular, modificar o suprimir la orientación sexual, identidad o expresión de género de la persona, en las que se emplea violencia física, moral o psicoemocional, mediante tratos crueles, inhumanos o degradantes que atenten contra la dignidad humana.
+
+Se aumentará hasta una mitad del mínimo y máximo de la sanción prevista en el párrafo que precede, cuando las conductas tipificadas se realicen en contra de personas menores de dieciocho años o que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo o adultos mayores.
+
+Las sanciones señaladas en el primer párrafo de este artículo, se aumentará hasta una mitad del mínimo y máximo de la sanción de la que corresponda, cuando la persona autora tuviere para con la víctima, alguna de las relaciones que a continuación se enuncian o bien, se sitúen en alguno de los siguientes supuestos:
+
+a) Relación laboral, docente, doméstica, médica o cualquier otra que implique una subordinación de la víctima;
+
+b) Quien se valga de función pública para cometer el delito; y
+
+c) Cuando la persona autora emplee violencia física, psicológica o moral en contra de la víctima.
+
+En los casos de los incisos a) y b), además de las sanciones señaladas, se castigará, además con destitución e inhabilitación para desempeñar el cargo o comisión o cualquiera otro, de carácter público o similar, hasta por un tiempo igual a la pena impuesta.
+
 (REUBICADO, ANTES CAPÍTULO IV, P.O. 19 DE OCTUBRE DE 2010)
 
 ### CAPITULO V. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2024)</small>
-
-### CAPITULO I. ALTERACION DEL ESTADO CIVIL
 
 ###### ARTICULO 277.
 
@@ -4101,7 +4121,7 @@ ARTICULO 279 QUINQUIES.- En la comisión de los delitos que prevén los Capítul
 
 ## TITULO DECIMO TERCERO. DELITOS CONTRA LA FAMILIA Y EL ESTADO CIVIL
 
-### CAPITULO II. BIGAMIA
+### CAPITULO I. ALTERACION DEL ESTADO CIVIL
 
 ###### ARTICULO 280.
 
@@ -4135,7 +4155,7 @@ En los casos de la fracción I y en el segundo supuesto de la fracción II de é
 
 A los responsables del delito previsto en el Artículo anterior, se les impondrá una sanción de uno a seis años de prisión y multa de treinta a ochenta veces el valor diario de la Unidad de Medida y Actualización; además perderán el derecho de heredar que tuvieren respecto de las personas a quienes, por la comisión del delito, perjudiquen en sus derechos de familia.
 
-### CAPITULO III. INCESTO
+### CAPITULO II. BIGAMIA
 
 ###### ARTICULO 282.
 
@@ -4153,7 +4173,7 @@ A los responsables del delito de bigamia se les impondrá una sanción de uno a 
 
 A los testigos que intervengan en la celebración del nuevo matrimonio a sabiendas de la vigencia legal del anterior, se les impondrá una sanción de tres meses a dos años de prisión y multa de seis a cuarenta veces el valor diario de la Unidad de Medida y Actualización. Igual sanción se aplicará a quienes ejerzan la patria potestad o la tutela, que a sabiendas dieren su consentimiento para la celebración del nuevo matrimonio.
 
-### CAPITULO IV. ADULTERIO
+### CAPITULO III. INCESTO
 
 ###### ARTICULO 285.
 
@@ -4169,7 +4189,7 @@ A los ascendientes responsables del delito de incesto se les impondrá una sanci
 
 Cuando la víctima sea menor de edad, la conducta siempre será entendida como típica de violación.
 
-### CAPITULO V. EXPOSICION DE MENORES
+### CAPITULO IV. ADULTERIO
 
 ###### ARTICULO 287.
 
@@ -4191,9 +4211,7 @@ Cuando la víctima sea menor de edad, la conducta siempre será entendida como t
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-### CAPITULO VI. ABANDONO DE OBLIGACIONES ALIMENTICIAS
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+### CAPITULO V. EXPOSICION DE MENORES
 
 ###### ARTICULO 292.
 
@@ -4213,9 +4231,9 @@ Los parientes o tutores que entreguen en una casa de expósitos a una persona qu
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO VII. SUSTRACCIÓN Y RETENCIÓN DE MENORES
+### CAPITULO VI. ABANDONO DE OBLIGACIONES ALIMENTICIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 295.
 
@@ -4271,7 +4289,9 @@ Para que el perdón concedido por el ofendido pueda extinguir la acción o la sa
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
-### CAPITULO UNICO. VIOLACIONES DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
+### CAPITULO VII. SUSTRACCIÓN Y RETENCIÓN DE MENORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTICULO 300.
 
@@ -4307,9 +4327,7 @@ En caso que el menor, fuese sustraído y trasladado, retenido u ocultado fuera d
 
 ## TITULO DECIMO CUARTO. DELITOS CONTRA LA SALUBRIDAD Y SEGURIDAD EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-### CAPÍTULO I. AMENAZAS, DISCRIMINACIÓN Y COBRANZA EXTRAJUDICIAL ILEGAL
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+### CAPITULO UNICO. VIOLACIONES DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
 ###### ARTICULO 302.
 
@@ -4343,7 +4361,9 @@ Si los actos de necrofilia consisten en la realización del coito, la sanción s
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
-### CAPITULO II. ALLANAMIENTO DE MORADA
+### CAPÍTULO I. AMENAZAS, DISCRIMINACIÓN Y COBRANZA EXTRAJUDICIAL ILEGAL
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 305.
 
@@ -4423,7 +4443,7 @@ No se considerará como cobranza extrajudicial ilegal, informar aquellas consecu
 
 Este delito se perseguirá por querella.
 
-### CAPITULO III. ASALTO
+### CAPITULO II. ALLANAMIENTO DE MORADA
 
 ###### ARTICULO 310.
 
@@ -4439,7 +4459,7 @@ Al responsable del delito de allanamiento de morada se le impondrá una sanción
 
 Se impondrá la misma sanción prevista en el artículo anterior, al que permanezca en los lugares señalados en el artículo 310, con engaño o contra la voluntad expresa de la persona autorizada para ello.
 
-### CAPITULO IV. DELITOS CON MOTIVO DEL TRANSITO DE VEHICULOS
+### CAPITULO III. ASALTO
 
 ###### ARTICULO 313.
 
@@ -4457,25 +4477,7 @@ Al responsable del delito de asalto, se le impondrá sanción de cuatro a siete 
 
 Si un grupo de tres o más personas, atacare un lugar poblado, se impondrá una sanción de diez a veinte años de prisión a los cabecillas o jefes; y de ocho a quince años de prisión a los demás.
 
-### CAPITULO V. TRAFICO DE MENORES E INCAPACITADOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 318 BIS.- Se impondrá de seis a doce años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización y privación de los derechos de la patria potestad, tutela o custodia en su caso, y para adoptar, al que teniendo a su cargo o cuidado a un menor de edad o incapaz a virtud del ejercicio de la patria potestad, de la tutela, custodia o de otra situación legal o de hecho, lo entregue por sí o por interpósita persona a un tercero a cambio de un beneficio económico o de cualquier otro lucro.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-La misma sanción se le impondrá al intermediario y al tercero que reciba un beneficio económico o lucro cualquiera, en las condiciones a que se refiere el párrafo anterior.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-Si el intermediario es director, encargado o empleado de una institución médica pública o privada, de alguna casa-hogar, asilo o lugar donde se alberguen menores, la sanción que se imponga podrá aumentarse de dos a cuatro años mas de prisión.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-No eximirá de responsabilidad alguna a los participantes de éste delito aún cuando se haya seguido algún procedimiento legal para la entrega del menor, si se demuestra que quien lo entregó o el intermediario recibió a cambio un beneficio económico o lucro cualquiera.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE JUNIO DE 2024)</small>
+### CAPITULO IV. DELITOS CON MOTIVO DEL TRANSITO DE VEHICULOS
 
 ###### ARTICULO 316.
 
@@ -4501,6 +4503,26 @@ III.- Si se cometiere por conductores que utilizaban al momento de conducir un v
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
 
+### CAPITULO V. TRAFICO DE MENORES E INCAPACITADOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 318 BIS.- Se impondrá de seis a doce años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización y privación de los derechos de la patria potestad, tutela o custodia en su caso, y para adoptar, al que teniendo a su cargo o cuidado a un menor de edad o incapaz a virtud del ejercicio de la patria potestad, de la tutela, custodia o de otra situación legal o de hecho, lo entregue por sí o por interpósita persona a un tercero a cambio de un beneficio económico o de cualquier otro lucro.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+La misma sanción se le impondrá al intermediario y al tercero que reciba un beneficio económico o lucro cualquiera, en las condiciones a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+Si el intermediario es director, encargado o empleado de una institución médica pública o privada, de alguna casa-hogar, asilo o lugar donde se alberguen menores, la sanción que se imponga podrá aumentarse de dos a cuatro años mas de prisión.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+No eximirá de responsabilidad alguna a los participantes de éste delito aún cuando se haya seguido algún procedimiento legal para la entrega del menor, si se demuestra que quien lo entregó o el intermediario recibió a cambio un beneficio económico o lucro cualquiera.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE JUNIO DE 2024)</small>
+
 ### CAPITULO VI. ACECHO
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2024)</small>
@@ -4525,13 +4547,9 @@ IV.- Cuando se utilicen dispositivos tecnológicos para la vigilancia, persecuci
 
 V.- Cuando la conducta sea reiterada, al menos en dos ocasiones y altere la vida normal de la víctima, provocándole cambiar su itinerario normal, hábitos, costumbres, número de teléfono, correo electrónico, perfiles de redes sociales, su lugar de residencia o de trabajo.
 
-### CAPITULO I. LESIONES
-
 ## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
 
-### CAPITULO I BIS. DELITOS CONTRA LOS DERECHOS REPRODUCTIVOS
-
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
+### CAPITULO I. LESIONES
 
 ###### ARTICULO 319.
 
@@ -4639,23 +4657,9 @@ ARTICULO 328 BIS 2.- Las Instituciones de Salud deberán notificar al Ministerio
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2015)</small>
 
-### CAPITULO I TER. MANIPULACION GENETICA
+### CAPITULO I BIS. DELITOS CONTRA LOS DERECHOS REPRODUCTIVOS
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-ARTICULO 328 SEPTIES.- Se impondrá una sanción de dos a seis años de prisión, inhabilitación, así como suspensión por igual término para desempeñar cargo, empleo o comisión públicos, profesión u oficio, a los que:
-
-I.- Con finalidad distinta a la eliminación o disminución de enfermedades graves o taras, manipulen genes humanos de manera que se altere el genotipo;
-
-II.- Fecunden óvulos humanos con cualquier fin distinto al de la procreación humana; y
-
-III.- Creen seres humanos por clonación o realicen procedimientos de ingeniería genética con fines ilícitos.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-ARTICULO 328 OCTIES.- Si resultan hijos a consecuencia de la comisión de alguno de los delitos previstos en los artículos anteriores, la reparación del daño comprenderá además, el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2025)</small>
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
 
 ###### ARTICULO 328 Ter.
 
@@ -4689,6 +4693,24 @@ ARTICULO 328 SEXTIES.- Además de las penas previstas en el presente capítulo, 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2017)</small>
 
+### CAPITULO I TER. MANIPULACION GENETICA
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTICULO 328 SEPTIES.- Se impondrá una sanción de dos a seis años de prisión, inhabilitación, así como suspensión por igual término para desempeñar cargo, empleo o comisión públicos, profesión u oficio, a los que:
+
+I.- Con finalidad distinta a la eliminación o disminución de enfermedades graves o taras, manipulen genes humanos de manera que se altere el genotipo;
+
+II.- Fecunden óvulos humanos con cualquier fin distinto al de la procreación humana; y
+
+III.- Creen seres humanos por clonación o realicen procedimientos de ingeniería genética con fines ilícitos.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTICULO 328 OCTIES.- Si resultan hijos a consecuencia de la comisión de alguno de los delitos previstos en los artículos anteriores, la reparación del daño comprenderá además, el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2025)</small>
+
 ### CAPITULO I QUATER. APLICACIÓN DE SUSTANCIAS MODELANTES NO AUTORIZADAS CON FINES ESTÉTICOS
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2025)</small>
@@ -4718,8 +4740,6 @@ III.- Se cometan en niñas, niños, adolescentes y mujeres. Los términos establ
 ARTICULO 328 UNDECIES.- Al tutor, madre, padre, representante legal o cualquier persona que autorice o promueva la realización de un procedimiento médico quirúrgico enmarcado en el campo de la cirugía plástica en personas menores de dieciocho años de edad, se le impondrá una sanción de uno a cuatro años de prisión, exceptuando aquellos casos en los que la cirugía se encuentre justificada por dictamen médico especializado y evaluación psicológica, cuando la intervención sea necesaria para corregir malformaciones congénitas, secuelas de accidentes o anomalías fisiológicas que afecten la integridad física o psíquica del menor de edad.
 
 ### CAPITULO II. HOMICIDIO
-
-### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### ARTICULO 329.
 
@@ -4859,9 +4879,7 @@ La pena prevista en el párrafo anterior, se incrementará en una mitad, si el d
 
 ARTICULO 337 QUATER.- Al que prive de la vida a su adoptante o adoptado, cónyuge, concubina o concubinario u otra relación de pareja permanente, con conocimiento de esa relación, se le impondrá una sanción de diez a treinta años de prisión y pérdida de los derechos que tenga con respecto a la víctima, incluidos los de carácter sucesorio. Si faltare el conocimiento de la relación, se estará a la punibilidad prevista para el homicidio simple.
 
-### CAPITULO IV. INDUCCION Y AUXILIO AL SUICIDIO
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### ARTICULO 338.
 
@@ -4963,7 +4981,9 @@ I.- Declarar a las personas imputadas sujetas a la vigilancia de la policía; y
 
 II.- Prohibirles ir a determinado lugar, o municipio del Estado, o residir en él.
 
-### CAPITULO V. PARRICIDIO
+### CAPITULO IV. INDUCCION Y AUXILIO AL SUICIDIO
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 348.
 
@@ -4975,7 +4995,7 @@ Al que prestare auxilio o indujere a otro para que se suicide hasta llegar a su 
 
 Se impondrán las sanciones de homicidio calificado al que induzca o auxilie al suicidio a un menor de dieciocho años o a una persona que no tuviera capacidad de comprensión. Si el suicidio no se consuma y sólo se causan lesiones, se impondrá al activo la sanción que corresponda a lesiones calificadas.
 
-### CAPITULO VI. FILICIDIO
+### CAPITULO V. PARRICIDIO
 
 ###### ARTICULO 350.
 
@@ -4987,7 +5007,7 @@ Comete el delito de parricidio el que dolosamente prive de la vida a cualquier a
 
 Al que cometa el delito de parricidio se le impondrá una sanción de treinta a cincuenta años de prisión.
 
-### CAPITULO VII. ABORTO
+### CAPITULO VI. FILICIDIO
 
 ###### ARTICULO 352.
 
@@ -5009,9 +5029,7 @@ Al responsable del delito de filicidio se le impondrá una sanción de cuarenta 
 
 Si en la comisión del delito de filicidio participara un médico, partero o enfermero, además de imponérseles las sanciones privativas de libertad por homicidio, se le suspenderá hasta por veinte años en el ejercicio de su profesión, grado o especialización.
 
-### CAPITULO VIII. ABANDONO DE PERSONAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2026)</small>
+### CAPITULO VII. ABORTO
 
 ###### ARTICULO 356.
 
@@ -5075,9 +5093,9 @@ II.- Cuando el embarazo haya sido resultado de una violación; y
 
 III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud a juicio del médico que la asista, oyendo éste la opinión de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO VIII BIS. ABANDONO DE MUJER EMBARAZADA O PERSONA GESTANTE
+### CAPITULO VIII. ABANDONO DE PERSONAS
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 362.
 
@@ -5121,7 +5139,9 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE MARZO DE 2026)</small>
 
-### CAPITULO IX
+### CAPITULO VIII BIS. ABANDONO DE MUJER EMBARAZADA O PERSONA GESTANTE
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
 
 ###### ARTICULO 365 Bis.
 
@@ -5133,9 +5153,7 @@ Si a consecuencia de las lesiones derivadas del abandono se produjera la muerte 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO X. VIOLENCIA FAMILIAR
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
+### CAPITULO IX
 
 ###### ARTICULO 366.
 
@@ -5151,19 +5169,9 @@ Si a consecuencia de las lesiones derivadas del abandono se produjera la muerte 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JUNIO DE 2008)</small>
 
-### CAPÍTULO XI. VIOLENCIA EN LOS ESPECTÁCULOS DEPORTIVOS
+### CAPITULO X. VIOLENCIA FAMILIAR
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
-
-ARTÍCULO 368 SEXIES.- Comete el delito de violencia en espectáculos deportivos, quién en un evento deportivo, encontrándose en el interior de un estadio o recinto utilizado para ese fin o en los espacios de estacionamiento o calles circundantes inmediatas al mismo, cometa por sí o incite a otros a cometer actos que produzcan lesiones a terceros o daños a bienes muebles o inmuebles.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-Se castigará con prisión de uno a cuatro años y multa de diez a ochenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las sanciones a que se haya hecho acreedor por la comisión de diverso delito.
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
-
-ARTÍCULO 368 SEPTIES.- Además de las sanciones previstas en este Capítulo, a juicio del juez se podrá prohibir al inculpado asistir a estadios o recintos de espectáculos deportivos por un término de seis meses a cuatro años, en cuyo caso se ordenará la publicación especial de sentencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 368 Bis.
 
@@ -5319,11 +5327,23 @@ ARTÍCULO 368 QUINQUIES 3.- Al servidor público que retarde o entorpezca malici
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2016)</small>
 
-### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
+### CAPÍTULO XI. VIOLENCIA EN LOS ESPECTÁCULOS DEPORTIVOS
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 368 SEXIES.- Comete el delito de violencia en espectáculos deportivos, quién en un evento deportivo, encontrándose en el interior de un estadio o recinto utilizado para ese fin o en los espacios de estacionamiento o calles circundantes inmediatas al mismo, cometa por sí o incite a otros a cometer actos que produzcan lesiones a terceros o daños a bienes muebles o inmuebles.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Se castigará con prisión de uno a cuatro años y multa de diez a ochenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las sanciones a que se haya hecho acreedor por la comisión de diverso delito.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 368 SEPTIES.- Además de las sanciones previstas en este Capítulo, a juicio del juez se podrá prohibir al inculpado asistir a estadios o recintos de espectáculos deportivos por un término de seis meses a cuatro años, en cuyo caso se ordenará la publicación especial de sentencia.
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL HONOR
 
-### CAPITULO II. INJURIAS
+### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
 
 ###### ARTICULO 369.
 
@@ -5367,7 +5387,7 @@ En caso de que el psicólogo observe una conducta extremadamente peligrosa y vio
 
 En los casos en que no se cuente con servicios psicológicos o psiquiátricos, el Juez enviará al responsable del delito al municipio donde se pueda practicar dicho tratamiento y las costas que de esto se deriven, serán cubiertas en su totalidad por el sujeto tratado.
 
-### CAPITULO III. DIFAMACION
+### CAPITULO II. INJURIAS
 
 ###### ARTICULO 372.
 
@@ -5377,7 +5397,7 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-### CAPITULO IV. CALUMNIA
+### CAPITULO III. DIFAMACION
 
 ###### ARTICULO 374.
 
@@ -5395,9 +5415,7 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-### CAPITULO V. DISPOSICIONES COMUNES A LOS ARTICULOS PRECEDENTES
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+### CAPITULO IV. CALUMNIA
 
 ###### ARTICULO 378.
 
@@ -5419,7 +5437,9 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
+### CAPITULO V. DISPOSICIONES COMUNES A LOS ARTICULOS PRECEDENTES
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 383.
 
@@ -5443,11 +5463,7 @@ No se podrá proceder contra el responsable de los delitos de golpes y violencia
 
 ## TITULO DECIMO OCTAVO. DELITOS CONTRA LA SEGURIDAD EN EL GOCE DE GARANTIAS
 
-### CAPITULO I BIS. PRIVACION DE LA LIBERTAD CON FINES SEXUALES
-
-ARTICULO 390 BIS.- (DEROGADO, P.O. 27 DE FEBRERO DE 2026)
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2020)</small>
+### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
 
 ###### ARTICULO 388.
 
@@ -5473,11 +5489,15 @@ II.- Al que celebre con otro un contrato que prive a éste de la libertad, o le 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2017)</small>
 
+### CAPITULO I BIS. PRIVACION DE LA LIBERTAD CON FINES SEXUALES
+
+ARTICULO 390 BIS.- (DEROGADO, P.O. 27 DE FEBRERO DE 2026)
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2020)</small>
+
 ### CAPITULO I TER. CIBERACOSO
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
-
-### CAPITULO II. DESAPARICION FORZADA DE PERSONAS
 
 ###### ARTICULO 390 Ter.
 
@@ -5491,7 +5511,7 @@ Misma sanción se impondrá a quien habiendo hecho contacto con una persona meno
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2018)</small>
 
-### CAPITULO III. RAPTO
+### CAPITULO II. DESAPARICION FORZADA DE PERSONAS
 
 ###### ARTICULO 391.
 
@@ -5515,7 +5535,7 @@ ARTICULO 392 TER.- (DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO I. ROBO
+### CAPITULO III. RAPTO
 
 ###### ARTICULO 394.
 
@@ -5541,9 +5561,7 @@ ARTICULO 392 TER.- (DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
 ## TITULO DECIMO NOVENO. DELITOS CONTRA EL PATRIMONIO DE LAS PERSONAS
 
-### CAPÍTULO I BIS. ABIGEATO
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+### CAPITULO I. ROBO
 
 ###### ARTICULO 399.
 
@@ -5753,7 +5771,9 @@ No se impondrá sanción al que sin emplear engaños ni medios violentos, se apo
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2026)</small>
 
-### CAPITULO II. ABUSO DE CONFIANZA
+### CAPÍTULO I BIS. ABIGEATO
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 413 Bis.
 
@@ -5909,7 +5929,7 @@ Para la aplicación de las sanciones previstas en los artículos 413 Septies y 4
 
 A quien incurra en forma reincidente o en habitualidad en las conductas tipificadas como delito en el presente Capítulo, además de la pena que le corresponda aplicar por el delito cometido, se le aumentará hasta en una mitad más de la pena marcada según el caso.
 
-### CAPITULO III. FRAUDE
+### CAPITULO II. ABUSO DE CONFIANZA
 
 ###### ARTICULO 414.
 
@@ -5941,9 +5961,7 @@ II.- Cuando el depositario judicial o el designado por o ante las autoridades ad
 
 III.- Cuando una persona haga aparecer como suyo un depósito que garantice la libertad caucional de un procesado y del cual no le corresponda la propiedad.
 
-### CAPITULO IV. USURA
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+### CAPITULO III. FRAUDE
 
 ###### ARTICULO 417.
 
@@ -6037,7 +6055,9 @@ ARTICULO 421 BIS.- Comete el delito de fraude familiar, la persona que en detrim
 
 ARTICULO 421 TER.- Al responsable del delito de fraude familiar se le impondrá sanción de uno a cinco años de prisión y hasta trescientos días multa.
 
-### CAPITULO V. CHANTAJE
+### CAPITULO IV. USURA
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 422.
 
@@ -6053,9 +6073,7 @@ Al responsable del delito previsto en el artículo anterior se le impondrá de s
 
 Igual sanción se aplicará al que procurase un préstamo cualquiera cobrando una comisión evidentemente desproporcionada para sí o para otro.
 
-### CAPITULO VI. EXTORSION
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
+### CAPITULO V. CHANTAJE
 
 ###### ARTICULO 424.
 
@@ -6065,7 +6083,9 @@ Comete el delito de chantaje, el que con ánimo de conseguir un lucro o provecho
 
 Al responsable del delito de chantaje se le impondrá una sanción de dos a ocho años de prisión.
 
-### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
+### CAPITULO VI. EXTORSION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### ARTÍCULO 426.
 
@@ -6125,9 +6145,7 @@ Se equipara al delito de extorsión y se sancionará con las mismas penas al que
 
 Se equipara al delito de extorsión y se sancionará con las mismas penas al que utilice programas informáticos maliciosos, en este caso malware, que impiden a que un usuario acceda a su sistema operativo o algún (os) archivo (os) personal (es), para después solicitar un rescate para acceder de nuevo a ellos y que ocasione la retención de datos personales, financieros o de propiedad intelectual y para devolvérselos a la víctima, esta tenga que realizar un pago, o realizar alguna acción en contra de su voluntad, siendo esto un lucro o beneficio a favor de su victimario.
 
-### CAPITULO VIII. DAÑO EN PROPIEDAD
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
 ###### ARTICULO 427.
 
@@ -6179,7 +6197,9 @@ III.- Cuando el despojo se realice sobre terreno de labor preparado para siembra
 
 Cuando la ocupación se haya efectuado sin violencia y el o los ocupantes voluntariamente restituyan al poseedor en el goce de su derecho, antes que el Ministerio Público ejerza la acción persecutoria, no se impondrá sanción alguna, si no hubieren cometido algún hecho delictivo diverso al realizar la ocupación o durante la misma.
 
-### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
+### CAPITULO VIII. DAÑO EN PROPIEDAD
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 433.
 
@@ -6209,7 +6229,7 @@ III.- El daño se cauce para evadir la persecución o desempeño de las fuerzas 
 
 Si además de los daños resulta consumado algún otro delito se observarán las reglas del concurso.
 
-### CAPITULO I. ENCUBRIMIENTO
+### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
 
 ###### ARTICULO 437.
 
@@ -6225,33 +6245,7 @@ Los delitos de abuso de confianza, fraude, fraude laboral, despojo de cosas inmu
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-ARTICULO 443 BIS.- Se le impondrá una sanción de cinco a quince años de prisión y multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización, al que por sí o por interpósita persona realice cualquiera de las siguientes conductas:
-
-I.- Adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, traspase, transporte o transfiera dentro del territorio estatal de éste hacia otro Estado o a la inversa, recursos, derechos, valores o bienes de cualquier naturaleza, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita, u
-
-II.- Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos o bienes, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita.
-
-Para efectos de este Capítulo, se entenderá que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
-
-Cuando la Unidad Especializada de Inteligencia Patrimonial y Económica, en ejercicio de sus facultades y atribuciones, encuentre elementos que permitan presumir la comisión de alguno de los delitos referidos en este Capítulo, deberá denunciar los hechos que probablemente puedan constituir dichos ilícitos.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-ARTICULO 443 BIS I.- La penas previstas en este Capítulo se aumentarán desde un tercio hasta en una mitad, cuando el que realice cualquiera de las conductas previstas en el artículo 443 Bis de este Código tiene el carácter de consejero, administrador, funcionario, empleado, apoderado o prestador de servicios de cualquier persona sujeta al régimen de prevención de operaciones con recursos de procedencia ilícita, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos.
-
-Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión en personas morales sujetas al régimen de prevención hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
-
-Las penas previstas en este Capítulo se duplicarán, si la conducta es cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales, así como a los ex servidores públicos encargados de tales funciones que cometan dicha conducta en los dos años posteriores a su terminación.
-
-Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
-
-Asimismo, las penas previstas en este Capítulo se aumentarán hasta en una mitad si quien realice cualquiera de las conductas previstas en el artículo 443 Bis, fracciones I y II, utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tienen capacidad para resistirlo.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2017)</small>
+### CAPITULO I. ENCUBRIMIENTO
 
 ###### ARTICULO 439.
 
@@ -6305,6 +6299,34 @@ III.- Los que estén ligados con la persona acusada por respeto, gratitud, estre
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
+### CAPITULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTICULO 443 BIS.- Se le impondrá una sanción de cinco a quince años de prisión y multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización, al que por sí o por interpósita persona realice cualquiera de las siguientes conductas:
+
+I.- Adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, traspase, transporte o transfiera dentro del territorio estatal de éste hacia otro Estado o a la inversa, recursos, derechos, valores o bienes de cualquier naturaleza, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita, u
+
+II.- Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos o bienes, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita.
+
+Para efectos de este Capítulo, se entenderá que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
+
+Cuando la Unidad Especializada de Inteligencia Patrimonial y Económica, en ejercicio de sus facultades y atribuciones, encuentre elementos que permitan presumir la comisión de alguno de los delitos referidos en este Capítulo, deberá denunciar los hechos que probablemente puedan constituir dichos ilícitos.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTICULO 443 BIS I.- La penas previstas en este Capítulo se aumentarán desde un tercio hasta en una mitad, cuando el que realice cualquiera de las conductas previstas en el artículo 443 Bis de este Código tiene el carácter de consejero, administrador, funcionario, empleado, apoderado o prestador de servicios de cualquier persona sujeta al régimen de prevención de operaciones con recursos de procedencia ilícita, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos.
+
+Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión en personas morales sujetas al régimen de prevención hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
+
+Las penas previstas en este Capítulo se duplicarán, si la conducta es cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales, así como a los ex servidores públicos encargados de tales funciones que cometan dicha conducta en los dos años posteriores a su terminación.
+
+Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
+
+Asimismo, las penas previstas en este Capítulo se aumentarán hasta en una mitad si quien realice cualquiera de las conductas previstas en el artículo 443 Bis, fracciones I y II, utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tienen capacidad para resistirlo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2017)</small>
+
 ### CAPITULO III. ENCUBRIMIENTO POR RECEPTACION
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
@@ -6321,15 +6343,11 @@ En ningún caso podrá imponerse pena privativa de libertad que exceda del máxi
 
 > <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
-### CAPÍTULO ÚNICO
-
 ## TÍTULO VIGÉSIMO PRIMERO
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
-### CAPITULO UNICO. DELITOS COMETIDOS POR FRACCIONADORES
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+### CAPÍTULO ÚNICO
 
 ###### ARTICULO 444.
 
@@ -6377,9 +6395,9 @@ En ningún caso podrá imponerse pena privativa de libertad que exceda del máxi
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2008)</small>
 
-### CAPITULO I. DAÑO AL MEDIO AMBIENTE
+### CAPITULO UNICO. DELITOS COMETIDOS POR FRACCIONADORES
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 454.
 
@@ -6461,7 +6479,7 @@ Los responsables de los delitos contenidos en el presente Capítulo por haber ac
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO II. DELITO DE INCENDIOS
+### CAPITULO I. DAÑO AL MEDIO AMBIENTE
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -6513,7 +6531,7 @@ III. Con motivo de auditorías, visitas de verificación o inspección, prevista
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO III. CONTAMINACION DE AGUAS
+### CAPITULO II. DELITO DE INCENDIOS
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -6549,9 +6567,9 @@ Cuando se afecte un área igual o mayor a cinco hectáreas, o recursos forestale
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO IV. SUBSTRACCION DEL SUELO
+### CAPITULO III. CONTAMINACION DE AGUAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 464.
 
@@ -6573,9 +6591,9 @@ Al responsable de la comisión del delito de contaminación de aguas previsto en
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO V. PRIVACION DE LA VIDA, MALTRATO O CRUELDAD ANIMAL
+### CAPITULO IV. SUBSTRACCION DEL SUELO
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 466.
 
@@ -6605,9 +6623,9 @@ Comete el delito de privación de la vida, lesiones, malos tratos, crueldad o to
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2016)</small>
 
-### CAPITULO VI. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+### CAPITULO V. PRIVACION DE LA VIDA, MALTRATO O CRUELDAD ANIMAL
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 468.
 
@@ -6665,9 +6683,9 @@ Los delitos señalados en el presente Capítulo se perseguirán de oficio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO I. DE LA SUSTRACCIÓN, APROPIACIÓN DEL AGUA Y OTROS DELITOS RELACIONADOS
+### CAPITULO VI. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 472.
 
@@ -6696,6 +6714,10 @@ La o el Juez, de oficio o a petición de parte, podrá reducir las penas corresp
 ## TITULO VIGESIMO CUARTO. DE LOS DELITOS COMETIDOS CONTRA EL SERVICIO PÚBLICO Y DISTRIBUCIÓN DEL AGUA
 
 > <small>(ADICIONADO LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2023)</small>
+
+### CAPITULO I. DE LA SUSTRACCIÓN, APROPIACIÓN DEL AGUA Y OTROS DELITOS RELACIONADOS
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 476.
 
@@ -8318,6 +8340,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 9 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1037 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 418, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-358 MEDIANTE EL CUAL SE ADICIONAN EL CAPÍTULO IV TER, DENOMINADO "DELITOS CONTRA LA ORIENTACIÓN SEXUAL, IDENTIDAD O EXPRESIÓN DE GÉNERO DE LAS PERSONAS", AL TÍTULO DUODÉCIMO DEL LIBRO SEGUNDO, Y EL ARTÍCULO 276 OCTIES AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
