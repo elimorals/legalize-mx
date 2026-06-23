@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "2024-12-16"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -423,9 +423,11 @@ El Director de la entidad paraestatal someterá el programa financiero al órgan
 
 Las entidades paraestatales en lo tocante al ejercicio de sus presupuestos, concertación y cumplimiento de compromisos, registro de operaciones, rendimiento de informes sobre estados financieros e integración de datos para efecto de cuenta pública deberán ser, en primer término, a lo dispuesto por esta Ley y sólo en lo no previsto a los lineamientos y obligaciones consignadas en las leyes y reglamentos vigentes.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
+
 ###### ARTICULO 39.
 
-El Organo de Gobierno a propuesta de su Presidente o cuando menos de la tercera parte de sus miembros, podrá constituir comité o subcomités técnicos especializados para apoyar la programación estratégica y la supervisión de la marcha normal de la entidad paraestatal, atender problemas de administración y organización de los procesos productivos, así como para la selección y aplicación de los adelantos tecnológicos y uso de los demás instrumentos que permitan elevar la eficiencia.
+El Órgano de Gobierno a propuesta de su Presidente o cuando menos de la tercera parte de sus miembros, podrá constituir comité o subcomités técnicos especializados para apoyar la programación estratégica y la supervisión de la marcha normal de la entidad paraestatal, atender problemas de administración y organización de los procesos productivos, así como para la selección y aplicación de los adelantos tecnológicos y uso de los demás instrumentos que permitan elevar la eficiencia, priorizando el principio de paridad de género.
 
 ###### ARTICULO 40.
 
@@ -930,3 +932,9 @@ P.O. 16 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 34.- SE REFORMA LA LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES”.]
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 525.- SE REFORMA LA LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
