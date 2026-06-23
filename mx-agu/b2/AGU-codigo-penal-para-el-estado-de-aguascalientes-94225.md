@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2026-05-25"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1455,6 +1455,32 @@ Brutal ferocidad. Existe Brutal Ferocidad, cuando el inculpado provoca el result
 
 Existe discriminación cuando se acredite que los actos del inculpado son motivados por ideologías basadas en la superioridad, aborrecimiento, intolerancia, rechazo, desprecio, humillación o cualquier otro acto que estigmatice o segregue a la víctima, por alguna de las características específicas de la persona descritas en la fracción VI del artículo 107 de este Código.
 
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 113 A.- Administración subrepticia de sustancias. Comete el delito de administración subrepticia de sustancias quien, sin el consentimiento de la víctima, administre, introduzca, suministre o aplique cualquier sustancia de manera subrepticia o mediante engaño.
+
+La conducta podrá realizarse por cualquier vía, incluyendo oral, intravenosa, intramuscular, dérmica o subcutánea, mediante el uso de bebidas, alimentos, objetos punzocortantes, inyecciones, agujas o cualquier otro medio. La conducta será sancionada independientemente de la finalidad con la que se lleve a cabo.
+
+Para efectos del presente artículo, sustancia es aquella que produzca alteraciones en la conciencia, la voluntad, la salud, el estado físico o mental de una persona que está definida conforme a la Ley General de Salud a fin de dar certeza respecto de la conducta que se pretende sancionar.
+
+Al responsable de Administración subrepticia de sustancias se le aplicarán de 2 a 5 años de prisión y de 50 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+Las penas de prisión y multa referidas en el párrafo anterior, se duplicarán en sus mínimos y máximos, cuando:
+
+I. La sustancia administrada sea psicoactiva, narcótica, psicotrópica o tóxica, de acuerdo con la clasificación de la Ley General de Salud;
+
+II. La sustancia administrada ponga en peligro la vida o salud de la víctima;
+
+III. El acto se cometa en medios de transporte público, instalaciones públicas o eventos de concentración masiva;
+
+IV. La conducta se realice contra dos o más personas, en un mismo acto o mediante actos sucesivos;
+
+V. El acto tenga como finalidad facilitar la comisión de otros delitos;
+
+VI. La conducta se realice por dos o más personas o por un grupo de manera coordinada; o
+
+VII. La conducta se realice en un lugar cerrado o con acceso restringido.
+
 ### CAPÍTULO II. Tipos Penales Protectores de la Libertad Sexual, la Seguridad Sexual, el Normal Desarrollo Físico y Psicosexual, y el Libre Desarrollo de la Personalidad
 
 ###### ARTÍCULO 114.
@@ -1811,19 +1837,33 @@ Al responsable de Alteración de Estado Civil se le aplicarán de 1 a 5 años de
 
 Incumplimiento de las obligaciones de asistencia familiar. El Incumplimiento de las Obligaciones de Asistencia Familiar consiste en:
 
-I. No cumplir con la obligación de dar alimentos en términos de lo establecido en el Código Civil del Estado de Aguascalientes, independientemente de que sean brindados por quien tenga bajo su cuidado a los acreedores alimentarios o sean proporcionados por cualquier otra persona;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-II. Colocarse dolosamente en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que el Código Civil del Estado de Aguascalientes determina, independientemente de que los alimentos sean proporcionados por quien tenga bajo su cuidado a los acreedores alimentarios o sean proporcionados por cualquier otra persona; o
+I. No cumplir con la obligación de dar alimentos en términos de lo establecido en el Código Civil del Estado de Aguascalientes;
 
-III. La alteración o variación de nombre, domicilio o ingresos con el fin de eludir una responsabilidad de orden familiar o el incumplimiento de obligaciones alimentarias que el Código Civil del Estado de Aguascalientes determina, independientemente de que los alimentos sean proporcionados por quien tenga bajo su cuidado a los acreedores alimentarios o sean proporcionados por cualquier otra persona;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
+II. Colocarse dolosamente en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que el Código Civil del Estado de Aguascalientes señale; o
 
-Al responsable de Incumplimiento de las Obligaciones de Asistencia Familiar se le aplicarán de 6 meses a 3 años de prisión, al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
+III. La alteración o variación de nombre, domicilio o ingresos con el fin de eludir una responsabilidad de orden familiar o el incumplimiento de obligaciones alimentarias que el Código Civil del Estado de Aguascalientes señale.
 
-Cuando el acreedor alimentario sea una persona con discapacidad o adulta mayor de sesenta años, la pena de prisión se aumentará hasta una tercera parte más respecto de los mínimos y máximos señalados en el párrafo anterior.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JUNIO DE 2026)</small>
+
+Las anteriores conductas se sancionarán conforme al presente código, independientemente de que los alimentos sean brindados por quien tenga bajo su cuidado a los acreedores alimentarios o sean proporcionados por cualquier otra persona.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE JUNIO DE 2026)</small>
+
+Al responsable de la conducta descrita en la fracción I se le aplicarán de 3 años 2 meses a 7 años de prisión, al pago total de la reparación de los daños y perjuicios ocasionados, y la suspensión o privación de los derechos de familia, en relación con la víctima.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
+
+Mientras que al responsable de las conductas descritas en las fracciones II y III se le aplicarán de 2 años a 5 años de prisión, al pago de una multa de 100 a 500 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
+
+Cuando el acreedor alimentario sea una persona con discapacidad, la pena de prisión se aumentará hasta una tercera parte más respecto de los mínimos y máximos.
 
 ###### ARTÍCULO 132.
 
@@ -3230,6 +3270,10 @@ Al responsable de Reclutamiento forzado se aplicarán de 3 a 6 años de prisión
 Las penas previstas en el presente artículo se aumentarán hasta en una mitad de sus mínimos y máximos cuando el delito se cometa en contra de niñas, niños o adolescentes, o de personas que no tengan la capacidad para comprender el significado del hecho o que, por cualquier causa, no puedan resistir la conducta.
 
 El presente delito se investigará y perseguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 178 H.- Uso indebido de sistemas de videovigilancia. Al que, sin la autorización o registro correspondiente ante la autoridad competente, instale, ubique, utilice u opere sistemas de videovigilancia en cualquier espacio público o privado, empleando uno o más de los siguientes distintivos o elementos: emblemas, siglas, cromática, carátulas, carcasas o dispositivos que simulen la apariencia de los utilizados oficialmente por las instituciones de seguridad pública del Estado o de los Municipios, induciendo al error sobre su carácter oficial, se le impondrá pena de 3 a 6 años de prisión, de 300 a 600 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)</small>
 
@@ -5056,3 +5100,27 @@ P.O. 25 DE MAYO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 514.- SE REFORMA EL CÓDIGO PENAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 521.- SE ADICIONA EL ARTÍCULO 113 A AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 529.- SE ADICIONA EL ARTÍCULO 178 H AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
