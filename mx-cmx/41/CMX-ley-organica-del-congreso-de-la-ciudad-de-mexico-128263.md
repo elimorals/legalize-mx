@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2026-01-23"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1700,9 +1700,21 @@ Además de las atribuciones, competencia y facultades que tiene como Comisión o
 
 Asimismo y a solicitud de la Comisión dictaminadora, apoyará en el análisis de las iniciativas de leyes o decretos y concurrirá a la formación de los dictámenes respectivos.
 
-> <small>(REFORMADO, G.O. 20 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, G.O. 23 DE JUNIO DE 2026)</small>
 
-Cuando la Comisión o Comisiones no puedan dictaminar dentro del plazo fijado, se expondrá por escrito los motivos a la Mesa Directiva para que ésta consulte al Pleno si procede ampliarlo. En caso de negativa respecto de la ampliación, la o el Presidente hará una excitativa para que se elabore el dictamen y si pasados cinco días de ésta, no se hubiere hecho el mismo, la o el Presidente turnará la iniciativa a la Comisión de Normatividad, Estudios y Prácticas Parlamentarias.
+Cuando la Comisión o Comisiones no puedan dictaminar dentro del plazo fijado, se expondrá por escrito los motivos a la Mesa Directiva para que ésta consulte al Pleno si procede ampliarlo. En caso de negativa respecto de la ampliación, la o el Presidente hará una excitativa para que se elabore el dictamen y si pasados cinco días hábiles de ésta, no se hubiere hecho el mismo, la o el Presidente turnará la iniciativa a la Comisión de Normatividad, Estudios y Prácticas Parlamentarias para que elabore el dictamen correspondiente en un plazo que en ningún caso podrá ser mayor a treinta días naturales.
+
+> <small>(ADICIONADO, G.O. 23 DE JUNIO DE 2026)</small>
+
+Si concluido el plazo señalado en el párrafo anterior la Comisión de Normatividad, Estudios y Prácticas Parlamentarias no hubiere emitido el dictamen correspondiente, la o el Presidente de la Mesa Directiva consultará al Pleno si el asunto puede ser discutido, en sus términos, en la sesión inmediata correspondiente.
+
+> <small>(ADICIONADO, G.O. 23 DE JUNIO DE 2026)</small>
+
+En caso de negativa respecto de la discusión en el Pleno, el asunto en cuestión se tendrá por concluido y no podrá volver a presentarse sino en el siguiente periodo de sesiones ordinarias.
+
+> <small>(ADICIONADO, G.O. 23 DE JUNIO DE 2026)</small>
+
+La Presidencia de la Mesa Directiva podrá emitir la excitativa respecto de una iniciativa dentro de los 15 días naturales siguientes a que haya concluido el plazo para la dictaminación correspondiente o a petición escrita de alguna diputada o diputado dentro del mismo plazo.
 
 ###### Artículo 82.
 
@@ -3009,3 +3021,11 @@ G.O. 23 DE ENERO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
 
 SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 81; Y SE ADICIONAN UN PÁRRAFO QUINTO, UN PÁRRAFO SEXTO Y UN PÁRRAFO SÉPTIMO AL ARTÍCULO 81, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO Y SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 260; EL ARTÍCULO 263; Y SE ADICIONA UN PÁRRAFO SEGUNDO, UN PÁRRAFO TERCERO, UN PÁRRAFO CUARTO AL ARTÍCULO 109; UN PÁRRAFO CUARTO AL ARTÍCULO 260; UN PÁRRAFO SEGUNDO, UN PÁRRAFO TERCERO Y UN PÁRRAFO CUARTO AL ARTÍCULO 260, DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase el presente Decreto a la Jefa de Gobierno de la Ciudad de México, para su publicación en la Gaceta Oficial de la Ciudad de México.
