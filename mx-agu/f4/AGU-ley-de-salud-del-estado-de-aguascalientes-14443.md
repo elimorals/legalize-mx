@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2026-04-27"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -207,13 +207,17 @@ IX.- Fomentar la integración, organización y funcionamiento de colegios, asoci
 
 X.- Proporcionar cuidados paliativos;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XI.- Promover la actividad física y la alimentación nutritiva, suficiente y de calidad, que contrarresten eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria a toda la población del Estado; y
+XI.- Promover la actividad física y la alimentación nutritiva, suficiente y de calidad, que contrarresten eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria a toda la población del Estado;
 
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XII.- Promover el desarrollo de los servicios de salud por telemedicina, usando Tecnologías de la Información y Comunicación, para el intercambio de información válida en el diagnóstico, el tratamiento, la prevención de enfermedades o lesiones, investigación y evaluación, y educación médica a distancia para ampliar la cobertura y mejorar la calidad de atención a la salud.
+XII.- Promover el desarrollo de los servicios de salud por telemedicina, usando Tecnologías de la Información y Comunicación, para el intercambio de información válida en el diagnóstico, el tratamiento, la prevención de enfermedades o lesiones, investigación y evaluación, y educación médica a distancia para ampliar la cobertura y mejorar la calidad de atención a la salud; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+XIII.- Proporcionar apoyos económicos y/o en especie, a los familiares y/o personas que acompañen y cuiden a enfermos de cáncer durante sus tratamientos, los cuales se destinarán a garantizar su transporte, alojamiento, alimentación adecuada y atención psicosocial, priorizando la entrega de estos apoyos a las personas con escasos recursos económicos; atendiendo al presupuesto asignado y disponible para este programa.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -923,6 +927,10 @@ Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito 
 
 Además, deberán buscar satisfacer la atención gratuita a favor de las mujeres embarazadas en estado de vulnerabilidad por pobreza, de conformidad con el Reglamento correspondiente que para tal efecto expida el titular del Poder Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
+
+ARTICULO 51 BIS.- Las instituciones públicas del Sistema Estatal de Salud, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, por sí o en coordinación con las instituciones públicas del Sistema Nacional de Salud, realizarán las previsiones de gasto correspondientes para proporcionar los apoyos económicos y/o en especie, a familiares y/o personas que acompañen y cuiden a enfermos de cáncer durante sus tratamientos, previstos en la fracción XII del Artículo 7° de esta Ley.
+
 ###### ARTICULO 52.
 
 Los trabajadores de los establecimientos estatales de salud podrán participar en la gestión de los mismos, de conformidad con las disposiciones generales aplicables, y podrán opinar y emitir sugerencias tendientes al mejoramiento de los servicios de salud.
@@ -1139,13 +1147,13 @@ En el caso de embarazo de alto riesgo, el personal médico determinará la neces
 
 IV.- La promoción de la integración y del bienestar familiar para el acompañamiento de las mujeres durante el embarazo;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-V.- La atención oportuna, de calidad y gratuita a toda mujer embarazada que necesite atención obstétrica, en cualquier establecimiento público hospitalario, aunque no cuente con seguridad social, en los términos del Convenio General de Colaboración Interinstitucional para la Atención de la (sic) Emergencias Obstétricas;
+V.- La atención oportuna, de calidad y gratuita a toda mujer embarazada que necesite atención obstétrica, en cualquier establecimiento público hospitalario, aunque no cuente con seguridad social, en los términos del Convenio General de Colaboración Interinstitucional para la Atención de las Emergencias Obstétricas;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-VI.- Garantizar el contacto inmediato entre la madre y el recién nacido para que, en caso de que aquella así lo decida, pueda comenzarse la lactancia y el alojamiento conjunto de la persona recién nacida y la madre en un mismo espacio, siempre y cuando no exista riesgo de salud para alguno de (sic) ambos;
+VI.- Garantizar el contacto inmediato entre la madre y el recién nacido para que, en caso de que aquella así lo decida, pueda comenzarse la lactancia y el alojamiento conjunto de la persona recién nacida y la madre en un mismo espacio, siempre y cuando no exista riesgo de salud para alguno o ambos;
 
 > <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
 
@@ -1167,13 +1175,17 @@ X.- El diagnóstico oportuno y la atención temprana de la displasia en el desar
 
 XI.- La atención integral y el tratamiento efectivo para inhibir la lactancia materna, en caso de muerte fetal o perinatal;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XII.- La atención integral y multidisciplinaria de la muerte fetal o perinatal, a fin de garantizar el trato digno; el respeto y la protección de los derechos humanos, y el bienestar físico, psíquico y emocional de las mujeres, así como de las personas que las acompañen. Abordando integralmente, con sentido ético, respetuoso y humanitario, la muerte fetal y perinatal; y
+XII.- La atención integral y multidisciplinaria de la muerte fetal o perinatal, a fin de garantizar el trato digno; el respeto y la protección de los derechos humanos, y el bienestar físico, psíquico y emocional de las mujeres, así como de las personas que las acompañen. Abordando integralmente, con sentido ético, respetuoso y humanitario, la muerte fetal y perinatal;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XIII.- El alojamiento conjunto de la persona recién nacida sin vida y de su madre o progenitores, lo anterior, en un espacio excluido de las demás mujeres que acaban de dar a luz, a efecto de brindarles una atención humanizada que les permita vivir su duelo.
+XIII.- El alojamiento conjunto de la persona recién nacida sin vida y de su madre o progenitores, lo anterior, en un espacio excluido de las demás mujeres que acaban de dar a luz, a efecto de brindarles una atención humanizada que les permita vivir su duelo; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+XIV.- La detección oportuna de algún síntoma de depresión, ansiedad o cualquier trastorno mental, así como la atención y seguimiento necesario, tanto en la etapa de gestación, como en la de puerperio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
@@ -2529,9 +2541,17 @@ VI.- La realización de investigaciones sobre las causas y efectos de los proble
 
 VII.- La promoción de la participación consciente y organizada de la población con carencias en las acciones de promoción, asistencia y desarrollo social que se lleven a cabo en su propio beneficio;
 
-VIII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socio-económicas; y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-IX.- La prestación de servicios funerarios.
+VIII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socio-económicas;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+IX.- La prestación de servicios funerarios; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+X.- Proporcionar apoyos económicos y/o en especie, a familiares y/o personas de escasos recursos, que acompañen y cuiden a pacientes con cáncer durante su tratamiento y lo necesiten para transporte, alojamiento y alimentación adecuada.
 
 ###### ARTICULO 142.
 
@@ -4785,114 +4805,26 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 El Ejecutivo del Estado contará con un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones reglamentarias y administrativas necesarias para el cumplimiento de lo dispuesto en el presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 9/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL CUARTO TRIBUNAL COLEGIADO DEL VIGÉSIMO QUINTO CIRCUITO, CON RESIDENCIA EN DURANGO, DURANGO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO INDICADO”.]
+P.O. 23 DE JUNIO DE 2026.
 
-PRIMERO. El presente Acuerdo entrará en vigor el uno de junio de dos mil dieciocho, con excepción de lo previsto en el Transitorio CUARTO, de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 516.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. El Cuarto Tribunal Colegiado del Vigésimo Quinto Circuito, formará parte del Pleno del Vigésimo Quinto Circuito a partir del uno de junio de dos mil dieciocho, de conformidad con lo establecido por el Acuerdo General 8/2015 del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, para lo cual informará lo conducente a las Secretarías Ejecutivas de Carrera Judicial; Creación de Nuevos Órganos; así como de Adscripción.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+P.O. 23 DE JUNIO DE 2026.
 
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 524.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES; Y, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR”.]
 
-QUINTO. Se reforma el numeral SEGUNDO, fracción XXV, número 1, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+###### ARTÍCULO PRIMERO.
 
-“SEGUNDO. …
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-I. a XXIV. …
+###### ARTÍCULO SEGUNDO.
 
-XXV. …
+A la entrada en vigor del presente Decreto, las autoridades competentes deberán realizar las adecuaciones presupuestarias necesarias para la operatividad de la presente reforma.
 
-1. Cuatro Tribunales Colegiados con residencia en Durango.
+###### ARTÍCULO TERCERO.
 
-2. a 3. ...
-
-XXVI. a XXXII. …”
-
-D.O.F. 31 DE MAYO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 10/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SÉPTIMO DE DISTRITO EN EL ESTADO DE TABASCO, CON RESIDENCIA EN VILLAHERMOSA, ASÍ COMO A LA REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
-
-PRIMERO. El presente Acuerdo entrará en vigor el uno de junio de dos mil dieciocho, con excepción de lo previsto en el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
-
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
-
-TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, establecido para los Juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa, continuará aplicándose hasta el cuatro de junio de dos mil dieciocho, y se modifica para incorporar al Juzgado de Distrito de nueva creación, para quedar como sigue:
-
-PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-Del 28 de mayo al 4 de junio Juzgado Sexto de Distrito en el Estado de
-
-de 2018 Tabasco, con residencia en Villahermosa
-
-Del 4 al 11 de junio de 2018 Juzgado Séptimo de Distrito en el Estado
-
-de Tabasco, con residencia en
-
-Villahermosa
-
-Del 11 al 18 de junio de 2018 Juzgado Primero de Distrito en el Estado
-
-de Tabasco, con residencia en
-
-Villahermosa
-
-Del 18 al 25 de junio de 2018 Juzgado Segundo de Distrito en el Estado
-
-de Tabasco, con residencia en
-
-Villahermosa
-
-Del 25 de junio al 2 de julio de 2018 Juzgado Tercero de Distrito en el Estado de
-
-Tabasco, con residencia en Villahermosa
-
-Del 2 al 9 de julio de 2018 Juzgado Cuarto de Distrito en el Estado
-
-de Tabasco, con residencia en
-
-Villahermosa
-
-Del 9 al 16 de julio de 2018 Juzgado Quinto de Distrito en el Estado
-
-de Tabasco, con residencia en
-
-Villahermosa
-
-Del 16 al 23 de julio de 2018 Juzgado Sexto de Distrito en el Estado
-
-de Tabasco, con residencia en
-
-Villahermosa
-
-Y así sucesivamente en ese orden.
-
-Los turnos de guardia inician el día lunes a las ocho horas con treinta minutos y finalizan el siguiente lunes a las ocho horas con veintinueve minutos.
-
-CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción X, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. …
-
-I. a IX. …
-
-X. …
-
-1. a 2. …
-
-3. Siete juzgados de Distrito en el Estado de Tabasco, con residencia en Villahermosa.
-
-4. …
-
-XI. a XXXII. …"
-
-SEXTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
-
-D.O.F. 31 DE MAYO DE 2018.
+La implementación y cumplimiento del presente Decreto deberá realizarse por las autoridades del Sistema Estatal de Salud con cargo al presupuesto previamente aprobado para el ejercicio fiscal correspondiente, de conformidad con su disponibilidad presupuestaria, sin que ello implique la autorización de recursos adicionales ni genere impacto presupuestal adicional al ya previsto, en concordancia con lo señalado en el Considerando Cuarto del presente Dictamen.
