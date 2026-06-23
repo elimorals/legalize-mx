@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2025-01-13"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -289,13 +289,17 @@ XVII.- El establecimiento y manejo de un departamento dedicado a la atención de
 
 XVIII.- La promoción y fomento educativo hacia el respeto, reconocimiento y aceptación social en la igualdad de derechos y obligaciones del hombre y la mujer;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XIX.- La implementación de programas de asistencia social dirigidos a los padres solteros, tanto mujeres como hombres, que requieran apoyo económico o en especie para satisfacer los requerimientos básicos de subsistencia y desarrollo para ellos, sus hijas e hijos siempre y cuando éstos últimos sean menores de edad, y
+XIX.- La implementación de programas de asistencia social dirigidos a los padres solteros, tanto mujeres como hombres, que requieran apoyo económico o en especie para satisfacer los requerimientos básicos de subsistencia y desarrollo para ellos, sus hijas e hijos siempre y cuando éstos últimos sean menores de edad;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
 
-XX.- La implementación y atención en albergues y Centros de Asistencia Social para la calamidad pública, emergencias sanitarias o pandemias que impliquen riesgo en la salud de las familias, así como, para desastres naturales que impliquen riesgo en la vida y la salud de las personas en estado de vulnerabilidad.
+XX.- La implementación y atención en albergues y Centros de Asistencia Social para la calamidad pública, emergencias sanitarias o pandemias que impliquen riesgo en la salud de las familias, así como, para desastres naturales que impliquen riesgo en la vida y la salud de las personas en estado de vulnerabilidad; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2026)</small>
+
+XXI.- La implementación de acciones para proteger la salud mental de familiares, y de personas que acompañan y cuidan a pacientes oncológicos.
 
 ###### ARTICULO 14.
 
@@ -1946,3 +1950,19 @@ P.O. 13 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 70.- SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 524.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES; Y, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto, las autoridades competentes deberán realizar las adecuaciones presupuestarias necesarias para la operatividad de la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+La implementación y cumplimiento del presente Decreto deberá realizarse por las autoridades del Sistema Estatal de Salud con cargo al presupuesto previamente aprobado para el ejercicio fiscal correspondiente, de conformidad con su disponibilidad presupuestaria, sin que ello implique la autorización de recursos adicionales ni genere impacto presupuestal adicional al ya previsto, en concordancia con lo señalado en el Considerando Cuarto del presente Dictamen.
