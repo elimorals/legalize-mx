@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-los-derechos-de-las-personas-168365"
 country: "mx"
 rank: "ley"
 publication_date: "2023-11-06"
-last_updated: "2025-05-05"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS MIGRANTES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
 
 Ley publicada en la Primera Sección del Número 45 del Periódico Oficial del Estado de Aguascalientes, el lunes 6 de noviembre de 2023.
 
@@ -134,6 +134,10 @@ V. (DEROGADA, P.O. 5 DE MAYO DE 2025)
 VI. Mantenerse al margen de cualquier condicionamiento de tipo político partidista, para la obtención de los beneficios de los programas de atención a personas migrantes; y
 
 VII. En el caso de niñas, niños y adolescentes migrantes, se velará y cumplirá con el principio de interés superior de la niñez, respeto a la dignidad humana, derechos humanos, justicia, equidad, no discriminación y presunción de minoría de edad, garantizando de manera plena sus derechos, atendiendo al contenido de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes, incluyendo el de la no privación de la libertad por motivos migratorios.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
+
+En caso de duda sobre la edad de las niñas, niños o adolescentes no acompañados, se aplicará la presunción de minoría de edad, hasta que se acredite lo contrario por medios idóneos.
 
 ###### ARTÍCULO 7.
 
@@ -414,3 +418,9 @@ P.O. 5 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 154.- SE REFORMA LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS MIGRANTES DEL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO. - El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 519.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 6 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS MIGRANTES DEL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
