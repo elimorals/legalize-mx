@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-de-la-funcion-publica-electoral-del-139149"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-21"
-last_updated: "2019-11-21"
+last_updated: "2026-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139149&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-11-06"
 ---
 # CODIGO DE ETICA DE LA FUNCION PUBLICA ELECTORAL DEL INSTITUTO NACIONAL ELECTORAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 23 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA FUNCIÓN PÚBLICA ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2026 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 21 de noviembre de 2019.
 
@@ -192,3 +194,27 @@ a) Las personas servidoras públicas deberán realizar ante el Órgano Interno d
 b) La Junta General Ejecutiva valorará crear un Comité de Ética de carácter consultivo, integrado por el Órgano Interno de Control y las instancias que la propia Junta determine. Este Comité de Ética deberá formalizar mecanismos institucionales de capacitación y para evaluar el conocimiento, comprensión y cumplimiento de los Códigos de Ética y Conducta de las personas servidoras públicas de la Institución; y
 
 c) La Dirección Ejecutiva de Administración y el Órgano Interno de Control difundirán el Código de Ética y el Código de Conducta.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE EXPIDE EL CÓDIGO DE ÉTICA DEL INSTITUTO NACIONAL ELECTORAL".]
+
+Primero. El presente Código de Ética entrará en vigor al día hábil siguiente de su publicación en la Gaceta Electoral del Instituto Nacional Electoral.
+
+Segundo. Se abroga el Código de Ética de la Función Pública Electoral, publicado el 21 de noviembre de 2019 en el Diario Oficial de la Federación.
+
+Tercero. Las referencias al Código de Ética de la Función Pública Electoral contenidas en las disposiciones internas del Instituto deberán entenderse realizadas al presente Código de Ética, sin perjuicio de que se lleven a cabo las adecuaciones normativas que resulten necesarias.
+
+Cuarto. El presente Código de Ética deberá difundirse a partir del día hábil siguiente al de su publicación en la Gaceta Electoral del Instituto Nacional Electoral. La Dirección Ejecutiva de Administración, en coordinación con el Órgano Interno de Control, será responsable de llevar a cabo su difusión amplia y accesible, a través de medios impresos, electrónicos o digitales, con lenguaje claro y formatos accesibles, con el objeto de garantizar que todas las personas servidoras públicas conozcan su contenido y alcances.
+
+Quinto. Se ordena a la Unidad de Evaluación, Normatividad y Desarrollo Administrativo que, en un plazo que no exceda de quince días hábiles, elabore el proyecto de lineamientos para regular la integración, organización, atribuciones y funcionamiento del Comité de Ética.
+
+Sexto. El Instituto impulsará, en un plazo no mayor a noventa días hábiles a partir del día hábil siguiente al de su publicación en la Gaceta Electoral del Instituto Nacional Electoral, acciones iniciales de capacitación y sensibilización en materia de ética pública, inclusión, igualdad sustantiva y derechos humanos, dirigidas a las personas servidoras públicas.
+
+Séptimo. Las acciones, criterios y prácticas de carácter ético que se encuentren en curso a la entrada en vigor del presente Código continuarán desarrollándose conforme a los principios y valores aquí establecidos, en tanto se emitan o actualicen los instrumentos complementarios correspondientes.
+
+Octavo. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Código continuarán su trámite y serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Noveno. El Instituto deberá emitir el Código de Conducta del Instituto Nacional Electoral a más tardar dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Código de Ética.
