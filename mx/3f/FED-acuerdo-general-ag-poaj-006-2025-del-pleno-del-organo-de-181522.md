@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-ag-poaj-006-2025-del-pleno-del-organo-de-181522
 country: "mx"
 rank: "acuerdo"
 publication_date: "2025-09-08"
-last_updated: "2026-01-14"
+last_updated: "2026-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181522&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2025-09-05"
 
 ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE DIVERSOS ÓRGANOS AUXILIARES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JUNIO DE 2026.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 8 de septiembre de 2025.
 
@@ -51,9 +51,9 @@ PRIMERO. Se designa al Magistrado Sergio Javier Molina Martínez como titular de
 
 SEGUNDO. Se designa al Magistrado Benjamín Rubio Chávez, como titular de la Dirección General del Instituto Federal de Defensoría Pública del 2 de septiembre de 2025 al 31 de agosto de 2028, en términos de lo establecido en el artículo 30 de la Ley Federal de Defensoría Pública.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE DIVERSOS ÓRGANOS AUXILIARES, D.O.F. 17 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE DIVERSOS ÓRGANOS AUXILIARES, D.O.F. 24 DE JUNIO DE 2026)</small>
 
-TERCERO. Se designa a la maestra Reyna María Basilio Ortiz como titular de la Unidad de Administración de la Suprema Corte de Justicia de la Nación a partir del 1 de octubre de 2025.
+TERCERO. Se designa al licenciado Pedro Estuardo Rivera Hess como titular de la Unidad de Administración de la Suprema Corte de Justicia de la Nación con efectos a partir del 16 de junio de 2026.
 
 > <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE DIVERSOS ÓRGANOS AUXILIARES, D.O.F. 14 DE ENERO DE 2026)</small>
 
@@ -84,6 +84,14 @@ SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Jud
 D.O.F. 14 DE ENERO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE DIVERSOS ÓRGANOS AUXILIARES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación por el Pleno del Órgano de Administración Judicial.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en la Gaceta del Semanario Judicial de la Federación, así como en el portal del Órgano de Administración Judicial del Poder Judicial de la Federación.
+
+D.O.F. 24 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE DIVERSOS ÓRGANOS AUXILIARES".]
 
 PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación por el Pleno del Órgano de Administración Judicial.
 
