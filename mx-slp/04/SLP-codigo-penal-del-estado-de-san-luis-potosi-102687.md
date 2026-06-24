@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2026-05-14"
+last_updated: "2026-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2026.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -3265,17 +3265,21 @@ XVIII. El objeto robado sea un vehículo de motor;
 
 XIX. Se cometa en la vía pública, o espacios abiertos que permitan el acceso al público.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2026)</small>
 
-Para los efectos de esta fracción se considera vía pública: calles, banquetas, brechas, pasajes, camellones, andadores peatonales, isletas u otras vías reservadas a los transeúntes, y
+Para los efectos de esta fracción se considera vía pública: calles, banquetas, brechas, pasajes, camellones, andadores peatonales, isletas u otras vías reservadas a los transeúntes;
 
-> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-XX. El objeto del apoderamiento sea maquinaria, insumos o equipos para la engorda de ganado o la producción de leche; alimento para ganado; insumos o equipo agrícola; forestal o frutícola, cometido en la huerta, parcela, heredad, sembradío, invernadero o en cualquier otro lugar, dentro del inmueble en que se realice la actividad agrícola, forestal o frutícola.
+XX. El objeto del apoderamiento sea maquinaria, insumos o equipos para la engorda de ganado o la producción de leche; alimento para ganado; insumos o equipo agrícola; forestal o frutícola, cometido en la huerta, parcela, heredad, sembradío, invernadero o en cualquier otro lugar, dentro del inmueble en que se realice la actividad agrícola, forestal o frutícola, y
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2023)</small>
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-En los casos a que hace referencia este artículo, se aplicarán las sanciones correspondientes al robo simple, aumentadas en una mitad, exceptuando los supuestos de las fracciones, III, cuando se cometa con violencia física o moral, y XII, en los que se aumentará en dos terceras partes.
+XXI. Se ejecute con fuerza sobre las cosas, entendiéndose por ésta la destrucción, fractura, remoción o inutilización dolosa de obstáculos materiales tales como puertas, ventanas, cerraduras, chapas, candados, rejas, muros, cristales, dispositivos de seguridad electrónica o mecánica, o cualquier otro elemento destinado a resguardar, delimitar o restringir el acceso a un espacio o a un bien, siempre que dicha fuerza sea empleada como medio para facilitar o consumar el robo.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2026)</small>
+
+En los casos a que hace referencia este artículo, se aplicarán las sanciones correspondientes al robo simple, aumentadas en una mitad, exceptuando los supuestos de las fracciones, III, cuando se cometa con violencia física o moral, XII y XXI, en los que se aumentará en dos terceras partes.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -4087,13 +4091,11 @@ Cuando el valor de los objetos sea mayor de quinientas veces la unidad de medida
 
 Los adquirientes o detentadores no serán sancionados, cuando acrediten legalmente la buena fe en la adquisición o tenencia de las cosas.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 283.
 
-No se impondrá sanción alguna, en el caso de la fracción I del artículo 280 de este Código, al cónyuge, concubina, concubinario, ascendientes o descendientes consanguíneos del delincuente o colaterales hasta en segundo grado.
-
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
-
-Las excluyentes de responsabilidad no serán aplicables tratándose del delito de feminicidio.
+No se impondrá sanción alguna, en el caso de la fracción I del artículo 280 de este Código, al cónyuge, concubina, concubinario, ascendientes o descendientes consanguíneos del delincuente o colaterales hasta en segundo grado, salvo que se trate de los delitos de feminicidio, homicidio de persona menor de edad; o de los delitos establecidos dentro del Título Tercero relativo a los delitos contra la libertad sexual, la seguridad sexual, y el normal desarrollo psicosexual; o de los delitos de difusión ilícita de imágenes, o incesto, previstos en este Código; o de los delitos en materia de trata de personas establecidos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, en cuyos casos se impondrá la sanción que corresponda.
 
 ### CAPÍTULO II. Falso Testimonio
 
@@ -6538,3 +6540,15 @@ P.O. 14 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 0526.- QUE REFORMA EL ARTÍCULO 89 Y REALIZA ADICIÓN AL ARTÍCULO 28, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 ÚNICO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 24 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0563.- QUE REFORMA EL ARTÍCULO 283 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 24 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0564.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 218, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
