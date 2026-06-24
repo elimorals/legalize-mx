@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-en-materia-de-gobierno-y-12616
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2026-05-20"
+last_updated: "2026-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2026.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de enero de 2018.
 
@@ -417,9 +417,15 @@ Los cargos de Presidente Municipal, Regidores y Síndicos, son obligatorios, per
 
 Las personas que integran los Ayuntamientos se concretarán a cumplir las funciones que les señala la Constitución Política del Estado Libre y Soberano de Chiapas, la presente Ley y los demás ordenamientos legales aplicables, en consecuencia, no podrán desempeñar otros empleos o comisiones del Municipio, del Estado o de la Federación, por los que perciban remuneración alguna, con excepción de los casos en que el Congreso del Estado los autorice para ello, en atención a las condiciones económicas de los Municipios que estén imposibilitados para cubrir los sueldos correspondientes.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2026)</small>
+
 ###### Artículo 44.
 
-El cabildo es la forma de reunión del Ayuntamiento, donde se resuelven, de manera colegiada los asuntos relativos al ejercicio de las atribuciones de gobierno, políticas y administrativas; sus sesiones serán ordinarias, extraordinarias o solemnes, según sea el caso, podrán ser públicas, con excepción de aquellas que a su propio juicio deban ser privadas, debiendo cumplirse con los requisitos y formalidades que señale la Ley y su reglamento interior.
+El cabildo es la forma de reunión del Ayuntamiento, donde se resuelven, de manera colegiada los asuntos relativos al ejercicio de las atribuciones de gobierno, políticas y administrativas; sus sesiones serán ordinarias, extraordinarias o solemnes, según sea el caso, serán públicas, con excepción de aquellas que por la materia deban ser privadas, debiendo cumplirse con los requisitos y formalidades que señale la Ley y su reglamento interior.
+
+La ciudadanía y medios de comunicación tendrán libre acceso a las sesiones públicas, y podrán grabar y trasmitirlas, según su interés.
+
+Con el fin de garantizar el principio de máxima publicidad, la transparencia en el ejercicio del gobierno municipal y derecho de acceso a la información pública, los ayuntamientos están obligados a transmitir y grabar en vivo sus sesiones de cabildo a través de medios de comunicación y plataformas digitales oficiales.
 
 #### Sección Cuarta. Atribuciones y obligaciones del Ayuntamiento
 
@@ -2878,3 +2884,13 @@ P.O. 20 DE MAYO DE 2026.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 24 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 267 POR EL QUE SE REFORMA EL ARTÍCULO 44 DE LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial.
+
+Artículo Segundo.- Todos los Ayuntamientos contaran con un plazo de 90 días a partir de la aprobación del presente Decreto, para realizar las adecuaciones tecnológicas y administrativas que permitan su cumplimiento.
+
+Artículo Tercero.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
