@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2026-06-12"
+last_updated: "2026-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -175,45 +175,53 @@ XV. Informe de adoptabilidad: el documento expedido por los DIF estatal y munici
 
 XVI. Ley General: Ley General de los Derechos de las Niñas, Niños y Adolescentes;
 
-XVII. Órgano jurisdiccional: los juzgados o tribunales federales o del Estado;
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-XVIII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes;
+XVII. Mínima intervención cuando intervienen en procedimientos judiciales como víctimas o testigos: Consiste en que, cuando se solicite a niñas, niños y adolescentes quienes sean llamados a juicio, a ejercer su derecho a emitir su opinión en todo lo que les concierne, el menor número de veces posible, siempre y cuando se haga fuera del horario escolar;
 
-XIX. Programa Estatal: el Programa de Protección de Niñas, Niños y Adolescentes del Estado;
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-XX. Programa Municipal: Programa de Protección de Niñas, Niños y Adolescentes de cada municipio;
+XVIII. No revictimización cuando intervienen en procedimientos judiciales como víctimas o testigos: Implica que en el ámbito de la función jurisdiccional, las personas juzgadoras deben tomar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, las cuales se deben guiar por el criterio de más beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido;
 
-XXI. Protección integral: conjunto de mecanismos que ejecuten las autoridades con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley; la Constitución Política de los Estados Unidos Mexicanos; los tratados internacionales de los que el Estado Mexicano forma parte; la Ley General de los Derechos de las Niñas, Niños y Adolescentes y la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
+XIX. Órgano jurisdiccional: los juzgados o tribunales federales o del Estado;
 
-XXII. Representación coadyuvante: el acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XX. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes;
 
-XXIII. Representación en suplencia: la representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección; y los sistemas municipales para el Desarrollo Integral de la Familia de la Entidad, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXI. Programa Estatal: el Programa de Protección de Niñas, Niños y Adolescentes del Estado;
 
-XXIV. Representación originaria: la representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+XXII. Programa Municipal: Programa de Protección de Niñas, Niños y Adolescentes de cada municipio;
 
-XXV. Sistema Estatal de Protección: el Sistema de Protección de los derechos de Niñas, Niños, Adolescentes, del Estado de San Luis Potosí;
+XXIII. Protección integral: conjunto de mecanismos que ejecuten las autoridades con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley; la Constitución Política de los Estados Unidos Mexicanos; los tratados internacionales de los que el Estado Mexicano forma parte; la Ley General de los Derechos de las Niñas, Niños y Adolescentes y la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
 
-XXVI. Sistema Estatal DIF: el Sistema para el Desarrollo Integral de la Familia del Estado de San Luis Potosí;
+XXIV. Representación coadyuvante: el acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXVII. Sistema Municipal DIF: el Sistema Municipal para el Desarrollo Integral de la Familia;
+XXV. Representación en suplencia: la representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección; y los sistemas municipales para el Desarrollo Integral de la Familia de la Entidad, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXVIII. Sistema Nacional de Protección Integral: el Sistema Nacional de Protección Integral de Niñas, Niños, Adolescentes;
+XXVI. Representación originaria: la representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+
+XXVII. Sistema Estatal de Protección: el Sistema de Protección de los derechos de Niñas, Niños, Adolescentes, del Estado de San Luis Potosí;
+
+XXVIII. Sistema Estatal DIF: el Sistema para el Desarrollo Integral de la Familia del Estado de San Luis Potosí;
+
+XXIX. Sistema Municipal DIF: el Sistema Municipal para el Desarrollo Integral de la Familia;
+
+XXX. Sistema Nacional de Protección Integral: el Sistema Nacional de Protección Integral de Niñas, Niños, Adolescentes;
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
 
-XXIX. Sistema Nacional DIF: el Sistema Nacional para el Desarrollo Integral de la Familia;
+XXXI. Sistema Nacional DIF: el Sistema Nacional para el Desarrollo Integral de la Familia;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2026)</small>
 
-XXX. Tratados internacionales: los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado Mexicano sea parte;
+XXXII. Tratados internacionales: los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado Mexicano sea parte;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2026)</small>
 
-XXXI. Violencia digital: los actos de, acoso, hostigamiento, amenazas, insultos, vulneración de datos e información privada, divulgación de información apócrifa, mensajes de odio, difusión de contenido sexual, convencimiento y reclutamiento, textos, fotografías, videos y/o datos personales u otras impresiones gráficas sonoras, verdaderas o alteradas, o cualquier otra acción que sea cometida a través de tecnologías de la información y la comunicación, plataformas de internet, redes sociales, correo electrónico, aplicaciones, inteligencia artificial o cualquier otro espacio digital, que atenten contra la integridad, la dignidad, la intimidad, la libertad, la vida privada, o vulneren algún derecho humano de las niñas, niños y adolescentes, y
+XXXIII. Violencia digital: los actos de, acoso, hostigamiento, amenazas, insultos, vulneración de datos e información privada, divulgación de información apócrifa, mensajes de odio, difusión de contenido sexual, convencimiento y reclutamiento, textos, fotografías, videos y/o datos personales u otras impresiones gráficas sonoras, verdaderas o alteradas, o cualquier otra acción que sea cometida a través de tecnologías de la información y la comunicación, plataformas de internet, redes sociales, correo electrónico, aplicaciones, inteligencia artificial o cualquier otro espacio digital, que atenten contra la integridad, la dignidad, la intimidad, la libertad, la vida privada, o vulneren algún derecho humano de las niñas, niños y adolescentes, y
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
 
-XXXII. Violencia contra niñas, niños y adolescentes: Toda acción omisión, abuso, trato negligente o cualquier forma de abandono, de maltrato que cause daño, afectación, sufrimiento o ponga en riesgo la vida, la dignidad, la libertad, la integridad física, psicológica, emocional, sexual, y el desarrollo integral de niñas, niños y adolescentes.
+XXXIV. Violencia contra niñas, niños y adolescentes: Toda acción omisión, abuso, trato negligente o cualquier forma de abandono, de maltrato que cause daño, afectación, sufrimiento o ponga en riesgo la vida, la dignidad, la libertad, la integridad física, psicológica, emocional, sexual, y el desarrollo integral de niñas, niños y adolescentes.
 
 ###### ARTÍCULO 7°.
 
@@ -291,13 +299,21 @@ XII. El principio pro persona;
 
 XIII. El acceso a una vida libre de violencia;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-XIV. La accesibilidad, y
+XIV. La accesibilidad;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-XV. El derecho al adecuado desarrollo evolutivo de la personalidad.
+XV. El derecho al adecuado desarrollo evolutivo de la personalidad;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2026)</small>
+
+XVI. Mínima intervención en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos, y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2026)</small>
+
+XVII. No revictimización en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos.
 
 ###### ARTÍCULO 14.
 
@@ -1577,17 +1593,19 @@ VIII. Todas las demás conductas que violenten la ley y el ejercicio pleno de su
 
 ### CAPÍTULO XXII. DEL DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN, ASÍ COMO A LOS SERVICIOS DE RADIODIFUSIÓN Y TELECOMUNICACIONES
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 88.
 
-Las niñas, niños y adolescentes tienen derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, para ello, las autoridades del Estado darán todas las facilidades a efecto de coordinarse con la Secretaría de Comunicaciones y Transportes, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
+Las niñas, niños y adolescentes tienen derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en un ambiente seguro, para ello, las autoridades del Estado darán todas las facilidades a efecto de coordinarse con la Secretaría de Comunicaciones y Transportes, en términos de lo previsto en la Ley en Materia de Telecomunicaciones y Radiodifusión.
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+En el ejercicio del derecho al acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, las autoridades estatales y municipales en el ámbito de sus respectivas competencias, promoverán acciones de prevención y protección de la dignidad humana, y el libre desarrollo de la personalidad de niñas, niños y adolescentes.
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, promoverán acciones de prevención y protección de la violencia digital en contra de niñas, niños y adolescentes.
+Los medios tecnológicos deberán ser un canal efectivo para que las niñas, niños y adolescentes ejerzan su derecho a la información, comunicación, educación, salud, y no discriminación, siempre y cuando no afecten su integridad física y emocional, y puedan acceder a contenidos acordes a su grado de desarrollo y madurez.
 
-Los medios tecnológicos deberán ser un canal efectivo para ejercer sus derechos a la información, comunicación, educación, salud y no discriminación, siempre y cuando no afecte su estado psicoemocional, y puedan acceder a contenidos acordes a su grado de desarrollo y madurez.
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 88 BIS. Las niñas, niños, y adolescentes mayores de doce años, podrán acceder a las redes sociales digitales con el consentimiento y supervisión del padre, madre, o quienes ejerzan la patria potestad, tutela o guarda y custodia, tanto en el proceso de registro a las mismas, como en su uso.
 
 ### CAPÍTULO XXIII. DEL DERECHO A UN MEDIO AMBIENTE SANO, ADECUADO Y ECOLÓGICAMENTE EQUILIBRADO
 
@@ -2956,3 +2974,17 @@ P.O. 12 DE JUNIO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0557.- QUE REFORMA EL ARTÍCULO 88; Y ADICIONA EL ARTÍCULO 88 BIS, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS, Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0562.- QUE REFORMA EL ARTÍCULO 13; Y REALIZA ADICIÓN A LOS ARTÍCULOS 6° Y 13, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
