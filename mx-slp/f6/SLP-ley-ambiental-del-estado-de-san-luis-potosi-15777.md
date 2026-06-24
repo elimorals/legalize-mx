@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2025-12-03"
+last_updated: "2026-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -635,13 +635,17 @@ XXXIV. Elaborar los Programas Municipales para la Prevención y Gestión Integra
 
 XXXV. Celebrar convenios y acuerdos para la atención y respuesta a problemas ambientales comunes con otros municipios, aunque pertenezcan a diferentes entidades federativas, en términos del artículo 13 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-XXXVI. Coordinarse con las autoridades federales para el monitoreo de la calidad de agua, en términos del artículo 133 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
+XXXVI. Coordinarse con las autoridades federales para el monitoreo de la calidad de agua, en términos del artículo 133 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-XXXVII. El cobro por la utilización compartida de un relleno sanitario entre dos o más municipios, se establecerá a partir de la cantidad de residuos sólidos que genere cada municipio.
+XXXVII. El cobro por la utilización compartida de un relleno sanitario entre dos o más municipios, se establecerá a partir de la cantidad de residuos sólidos que genere cada municipio, y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2026)</small>
+
+XXXVIII. Prevenir y coadyuvar en la atención y combate de incendios forestales dentro de su territorio, en coordinación con las autoridades competentes, mediante acciones de vigilancia, prevención y protección a la población y al medio ambiente.
 
 ###### ARTICULO 9o.
 
@@ -1139,9 +1143,17 @@ III. La creación de áreas de refugio para protección de las especies;
 
 IV. La modificación o revocación de concesiones, permisos y, en general, de toda clase de autorización para el aprovechamiento, posesión, administración, conservación, población, propagación y desarrollo de la flora y fauna silvestre;
 
-V. La planeación, realización de estudios y evaluación de programas forestales, y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-VI. Contribuir en las labores del combate y la prevención de incendios, plagas y enfermedades que afecten a los recursos forestales.
+V. La planeación, realización de estudios y evaluación de programas forestales;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
+
+VI. Contribuir en las labores del combate y la prevención de plagas y enfermedades que afecten a los recursos forestales, y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2026)</small>
+
+VII. La prevención, atención y coadyuvancia en la prevención y combate de incendios forestales, mediante acciones de vigilancia y coordinación con las autoridades competentes, así como la protección de la población y de los ecosistemas afectados, conforme a la NOM-015-SEMARNAT/AGRICULTURA-2023.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2016)</small>
 
@@ -3986,5 +3998,13 @@ P.O. 3 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0323.- Que reforma los artículos 1º, 3º, 12, 17, 21, 36 Bis, 45, 47, 132, 132 Bis, 143 y 143 Bis y realiza adición al artículo 3º, de la Ley Ambiental del Estado de San Luis Potosí".]
 
 PRIMERO. El Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0559.- QUE REFORMA LOS ARTÍCULOS 8º Y 44 BIS; Y REALIZA ADICIÓN A LOS ARTÍCULOS 8º Y 44 BIS, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
