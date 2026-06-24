@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-166553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-06-07"
-last_updated: "2023-06-07"
+last_updated: "2026-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2023-05-26"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE VALORACION, DESTRUCCION, DIGITALIZACION, TRANSFERENCIA, RESGUARDO Y DESTINO FINAL DE LOS EXPEDIENTES JUDICIALES GENERADOS POR LOS ORGANOS JURISDICCIONALES]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL POR EL QUE SE EXPIDEN LOS LINEAMIENTOS PARA LA ORGANIZACIÓN Y ADMINISTRACIÓN DEL ARCHIVO GENERADO POR ÓRGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 24 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE VALORACIÓN, DESTRUCCIÓN, DIGITALIZACIÓN, TRANSFERENCIA, RESGUARDO Y DESTINO FINAL DE LOS EXPEDIENTES JUDICIALES GENERADOS POR LOS ÓRGANOS JURISDICCIONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JUNIO DE 2026 (ABROGADO).
 
 Acuerdo publicado en el Número 9 del Diario Oficial de la Federación, el miércoles 7 de junio de 2023.
 
@@ -796,3 +798,35 @@ NOVENO. La Dirección General de Archivo y Documentación elaborará el Manual p
 DÉCIMO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas que le estén adscritas, llevarán a cabo las acciones necesarias para el cumplimiento del presente Acuerdo.
 
 EL MAGISTRADO JOSÉ ALFONSO MONTALVO MARTÍNEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de valoración, destrucción, digitalización, transferencia, resguardo y destino final de los expedientes judiciales generados por los órganos jurisdiccionales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 10 de mayo de 2023, por unanimidad de votos de los señores Consejeros: Presidenta Ministra Norma Lucía Piña Hernández, Bernardo Bátiz Vázquez, Alejandro Sergio González Bernabé, Lilia Mónica López Benítez y Sergio Javier Molina Martínez.- Ciudad de México, a 26 de mayo de 2023.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL POR EL QUE SE EXPIDEN LOS LINEAMIENTOS PARA LA ORGANIZACIÓN Y ADMINISTRACIÓN DEL ARCHIVO GENERADO POR ÓRGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACIÓN".]
+
+PRIMERO. El presente Acuerdo General y los Lineamientos anexos entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes y en el portal del Órgano de Administración Judicial.
+
+TERCERO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de valoración, destrucción, digitalización, transferencia, resguardo y destino final de los expedientes judiciales generados por los órganos jurisdiccionales, publicado en el Diario Oficial de la Federación el 7 de junio de 2023.
+
+CUARTO. Los expedientes judiciales valorados con anterioridad a la entrada en vigor del presente Acuerdo conservarán los efectos de la valoración documental emitida conforme a la normativa vigente al momento de su determinación.
+
+En ese sentido, los expedientes valorados como conservables o depurables mantendrán el régimen aplicable a tales categorías y podrán ser transferidos a los depósitos documentales institucionales, siempre que cuenten con la debida integración del expediente judicial electrónico y satisfagan los demás requisitos aplicables, a fin de continuar con el procedimiento de destino final correspondiente, salvo aquellos expedientes que conforme a los presentes Lineamientos sean clasificados con relevancia documental.
+
+Los expedientes judiciales que carezcan de valoración documental deberán sujetarse a las disposiciones del presente instrumento.
+
+La Dirección General de Archivo y Documentación podrá realizar revisiones técnicas respecto de los expedientes judiciales resguardados en los depósitos documentales a su cargo, con el objeto de verificar que cuenten con los elementos necesarios para su resguardo, transferencia secundaria o destino final, tales como: el acuerdo jurisdiccional que ordene el archivo del asunto como concluido, la valoración documental correspondiente, los instrumentos de control archivístico aplicables y la debida integración del expediente judicial electrónico.
+
+Los resultados de las revisiones se harán del conocimiento del órgano jurisdiccional competente para que determine lo conducente en el ámbito de sus atribuciones.
+
+QUINTO. Para la implementación de los Lineamientos anexos, la Dirección General de Archivo y Documentación emitirá los criterios técnicos, formatos y mecanismos operativos necesarios para la correcta ejecución de los procesos archivísticos previstos en dichos Lineamientos, así como para la integración y publicación de la información correspondiente en el micrositio institucional, a fin de asegurar su aplicación uniforme.
+
+SEXTO. Tratándose de expedientes relativos a asuntos en los que la sentencia emitida haya integrado jurisprudencia o tesis aislada de los Tribunales Colegiados de Circuito, y que hubieran sido valorados como destruibles o depurables con anterioridad, será aplicable lo dispuesto en los Lineamientos anexos, quedando excluidos de cualquier procedimiento de baja documental por destrucción.
+
+SÉPTIMO. Las disposiciones relativas al procedimiento de destino final y transferencia secundaria previstas en el Capítulo Noveno de los Lineamientos anexos serán aplicables a los expedientes judiciales que se encuentren resguardados en los depósitos documentales institucionales a la entrada en vigor del presente Acuerdo General.
+
+OCTAVO. La Dirección General de Archivo y Documentación elaborará el Manual Técnico para la Organización y Administración del Archivo generado por Órganos Jurisdiccionales del Poder Judicial de la Federación dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Acuerdo General.
+
+NOVENO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas que le estén adscritas, llevará a cabo las acciones necesarias para el cumplimiento del presente instrumento.
