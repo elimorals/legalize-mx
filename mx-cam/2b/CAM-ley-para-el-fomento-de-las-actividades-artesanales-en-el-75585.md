@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-fomento-de-las-actividades-artesanales-en-el-75585"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-11"
-last_updated: "2026-02-11"
+last_updated: "2026-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA EL FOMENTO DE LAS ACTIVIDADES ARTESANALES EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de junio de 2010.
 
@@ -48,6 +48,10 @@ LEY PARA EL FOMENTO DE LAS ACTIVIDADES ARTESANALES EN EL ESTADO DE CAMPECHE
 ###### Artículo 1.
 
 La presente Ley es de orden público e interés social, sus disposiciones regirán en todo el territorio de la Entidad y su aplicación compete al Ejecutivo del Estado, la que realizará a través del Instituto Estatal para el Fomento de las Actividades Artesanales en Campeche, así como de las demás dependencias y entidades de la Administración Pública Estatal que tengan relación con el sector artesanal, sin perjuicio de las atribuciones que las demás leyes otorguen a otras autoridades estatales y municipales, en tanto no se prevean en forma expresa en este ordenamiento legal.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2026)</small>
+
+Las acciones derivadas de esta Ley deberán promover la participación de las mujeres artesanas, la preservación de los conocimientos y técnicas tradicionales y el fortalecimiento de las comunidades que integran el sector artesanal campechano.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2021)</small>
 
@@ -80,6 +84,14 @@ VI. Secretaría: La Secretaría de Desarrollo Económico de la Administración P
 ###### Artículo 3.
 
 Las artesanías originarias de las comunidades, etnias o regiones del Estado, son patrimonio cultural de los campechanos y deberán preservarse.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2026)</small>
+
+###### Artículo 3 Bis.
+
+El Estado promoverá acciones para la preservación, salvaguarda, fortalecimiento y difusión de las técnicas, conocimientos, expresiones y manifestaciones artesanales tradicionales que formen parte del patrimonio cultural de las comunidades del Estado, con especial atención a la participación de las mujeres artesanas.
+
+Para tal efecto, las autoridades correspondientes podrán impulsar mecanismos de identificación, promoción, trazabilidad cultural y reconocimiento del origen comunitario de las artesanías campechanas, en coordinación con las autoridades competentes en materia de patrimonio cultural y propiedad intelectual.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
@@ -351,6 +363,14 @@ El Instituto podrá suscribir convenios con autoridades de los tres órdenes de 
 
 Deberá difundir la cultura artesanal de Campeche, mediante la edición de atlas artesanales, catálogos, muestrarios, impresos, mensajes radiofónicos, televisivos, audios, videos y el establecimiento de "Museos o Galerías Artesanales".
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2026)</small>
+
+Asimismo, deberá promover acciones de reconocimiento, difusión y valorización de las expresiones artesanales tradicionales del Estado, así como estrategias de acompañamiento institucional que contribuyan a prevenir prácticas que afecten el reconocimiento cultural y económico de las personas artesanas y de las comunidades portadoras de dichos conocimientos tradicionales.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2026)</small>
+
+Cuando corresponda, podrá establecer mecanismos de coordinación y vinculación con las autoridades competentes para la protección del patrimonio cultural y de los derechos reconocidos por la legislación aplicable.
+
 ### Capítulo V. De la Capacitación e Investigación
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2026)</small>
@@ -496,3 +516,11 @@ QUINTO.- El Instituto contará con un plazo de un año a partir de la entrada en
 SEXTO.- En tanto se formalizan los distintivos y reconocimientos previstos en el artículo 23 Ter, el Instituto podrá utilizar mecanismos ya existentes, adaptándolos provisionalmente con criterios de innovación, creatividad o sustentabilidad artesanal.
 
 SÉPTIMO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 250 POR EL QUE "SE ADICIONAN EL PÁRRAFO SEGUNDO AL ARTÍCULO 1; EL ARTÍCULO 3 BIS Y, LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 22 DE LA LEY PARA EL FOMENTO DE LAS ACTIVIDADES ARTESANALES EN EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
