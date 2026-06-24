@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2026-06-04"
+last_updated: "2026-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -230,6 +230,14 @@ VII Ter. Violencia escolar. Es toda agresión realizada dentro del ambiente de l
 La violencia escolar puede expresarse en:
 
 Acoso Escolar: Conductas de diversa naturaleza que se genera de manera reiterada como burlas, amenazas, intimidaciones, agresiones físicas y psicológicas, aislamiento sistemático e insultos, que tienden a originar problemas que se repiten y prolongan durante cierto tiempo dentro o fuera del establecimiento educativo, incluyendo los medios tecnológicos. En donde existe un abuso de poder, al estar provocada por un agresor, apoyado generalmente por un grupo, contra una víctima que se encuentra indefensa; quien no puede salir por sí misma de la situación, la cual provoca maltrato, humillación o temor fundado de verse expuesto a un mal de carácter grave; la cual se repite debido a la ignorancia o pasividad de las personas que rodean a los agresores y a las víctimas omitiendo intervenir directamente;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2026)</small>
+
+VII QUATER. Violencia estética: Es un daño a las necesidades humanas básicas de bienestar, libertad o supervivencia, que impone estándares inalcanzables de belleza hegemónicos, lo cual genera exclusión social, problemas de salud mental y discriminación. La violencia estética para efectos preventivos, de atención pueden manifestarse en:
+
+a) La imposición de estándares estéticos cuyo incumplimiento derive en trato desigual o excluyente.
+
+b) Realizar procedimientos estéticos sin el consentimiento de la mujer.
 
 VIII. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres;
 
@@ -2046,5 +2054,13 @@ P.O. 4 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0541.- QUE REFORMA DIVERSAS DISPOSICIONES Y DENOMINACIONES DE TÍTULOS, Y REALIZA ADICIONES A DIVERSOS ARTÍCULOS, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0561.- QUE REALIZA ADICIÓN AL ARTÍCULO 4º, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
