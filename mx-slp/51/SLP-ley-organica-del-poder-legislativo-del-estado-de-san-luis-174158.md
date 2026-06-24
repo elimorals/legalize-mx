@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-17415
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-08-21"
-last_updated: "2026-05-15"
+last_updated: "2026-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 21 de agosto de 2024.
 
@@ -405,7 +405,9 @@ Al inicio de los periodos ordinarios, quien ocupe la Presidencia de la Directiva
 
 El Congreso del Estado tendrá anualmente dos periodos de vacaciones de diez días hábiles cada uno, que deberán coincidir con los recesos de éste.
 
-La JUCOPO en el mes de enero de cada año, determinará y dará conocer al Pleno el calendario de labores que contenga además de los periodos vacacionales, los días de suspensión de labores en los casos en que oficialmente no esté determinado. Durante los periodos de vacaciones, el Congreso del Estado y su Diputación Permanente no sesionarán de manera ordinaria.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2026)</small>
+
+La Conferencia en el mes de enero de cada año, determinará y dará (sic) conocer al Pleno el calendario de labores que contenga además de los periodos vacacionales, los días de suspensión de labores en los casos en que oficialmente no esté determinado. Durante los periodos de vacaciones, el Congreso del Estado y su Diputación Permanente no sesionarán de manera ordinaria.
 
 ### CAPÍTULO II. De las Sesiones
 
@@ -791,9 +793,15 @@ XXXI. Vigilar que se conozcan, cumplan y apliquen las disposiciones de esta Ley 
 
 XXXII. Recibir los expedientes y resultados de los procesos de consulta, y ordenar su resguardo;
 
-XXXIII. Declarar recesos durante la Sesión, a fin de recabar opiniones, promover acuerdos, o procurar condiciones que permitan el adecuado desahogo del orden del día, y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-XXXIV. Las demás que se derivan de esta Ley Orgánica; del Reglamento, y de las disposiciones emitidas por el Pleno del Congreso.
+XXXIII. Declarar recesos durante la Sesión, a fin de recabar opiniones, promover acuerdos, o procurar condiciones que permitan el adecuado desahogo del orden del día;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2026)</small>
+
+XXXIV. Conceder previa petición de algún legislador o legisladora, minutos de silencio, así como la reproducción de material audiovisual en el recinto legislativo, y
+
+XXXV. Las demás que se derivan de esta Ley Orgánica; del Reglamento, y de las disposiciones emitidas por el Pleno del Congreso.
 
 ###### ARTÍCULO 58.
 
@@ -2040,3 +2048,9 @@ P.O. 15 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0532.- QUE REFORMA EL ARTÍCULO 109 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA Y ADICIONA AL ARTÍCULO 187 DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación del el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 24 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0558.- QUE REFORMA LOS ARTÍCULOS 31 Y 57; Y REALIZA ADICIÓN AL ARTÍCULO 57, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación del el (sic) Periódico Oficial del Estado “Plan de San Luis”.
