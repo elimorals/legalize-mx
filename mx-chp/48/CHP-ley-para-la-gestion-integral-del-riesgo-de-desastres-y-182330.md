@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-gestion-integral-del-riesgo-de-desastres-y-182330"
 country: "mx"
 rank: "ley"
 publication_date: "2025-11-12"
-last_updated: "2025-11-12"
+last_updated: "2026-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY PARA LA GESTIÓN INTEGRAL DEL RIESGO DE DESASTRES Y PROTECCIÓN CIVIL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2026.
 
 Ley publicada en el número 070 del Periódico Oficial del Estado de Chiapas, el miércoles 12 de noviembre de 2025.
 
@@ -2429,29 +2429,29 @@ El Instituto podrá imponer en un solo acto y a un mismo infractor, en forma acu
 
 Para los efectos de las infracciones previstas en el artículo 209 de la presente Ley, las sanciones serán:
 
-(NOTA: EL 18 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI.1 Y VI.3, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-I. La infracción de la fracción I, consistirá en ARRESTO DE 36 HORAS Y multa equivalente de cincuenta a cien UMA’s.
+I. La infracción de la fracción I, consistirá en multa equivalente de cincuenta a cien UMA’s.
 
 II. Las infracciones de las fracciones II, III, IV y VI, se sancionarán con multa equivalente hasta quinientos UMA’s, y clausura temporal del inmueble si se trata de persona moral.
 
-(NOTA: EL 18 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI.1 Y VI.3, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-III. La infracción de la fracción V, se sancionará CON MULTA EQUIVALENTE A MIL UMA’S. tratándose de servidores públicos, se procederá a la remoción del cargo o puesto que desempeñe.
+III. La infracción de la fracción V, se sancionará con multa de cincuenta a mil UMA’s. Tratándose de servidores públicos, se procederá a la remoción del cargo o puesto que desempeñe.
 
-(NOTA: EL 18 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI.1 Y VI.3, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-IV. La infracción de la fracción VII, se sancionará con MULTA EQUIVALENTE A MIL UMA’S Y clausura temporal.
+IV. La infracción de la fracción VII, se sancionará con multa de cincuenta a mil UMA’s y clausura temporal por tres días como mínimo y hasta por treinta días como máximo.
 
-(NOTA: EL 18 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI.1 Y VI.3, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-V. Las infracciones de las fracciones VIII y IX, se sancionarán con MULTA EQUIVALENTE A QUINIENTOS UMA’S Y clausura temporal.
+V. Las infracciones de las fracciones VIII y IX, se sancionarán con multa de cincuenta a quinientos UMA’s y por tres días como mínimo y hasta por treinta días como máximo.
 
 VI. La infracción de la fracción X, se sancionará con multa equivalente de quinientos a dos mil UMA’s y clausura definitiva.
 
-(NOTA: EL 18 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI.1 Y VI.3, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-VII. LAS INFRACCIONES DE LAS FRACCIONES XI Y XXV, SE SANCIONARÁN CON MULTA EQUIVALENTE A CINCO MIL UMA’S.
+VII. Las infracciones de las fracciones XI y XXV, se sancionarán con multa de quinientas a cinco mil UMA’s.
 
 VIII. La infracción de la fracción XII, se sancionará con multa equivalente de mil a dos mil UMA’s y clausura temporal.
 
@@ -2459,17 +2459,17 @@ IX. Las infracciones de las fracciones XIII, XIV, XX, XXI, XXVII, XXVIII y XXIX,
 
 X. Las infracciones de las fracciones XV, XVI, XVII, XVIII, XIX, XXIII y XXX, se sancionarán con multa equivalente de dos mil a quinientas mil UMA’s.
 
-(NOTA: EL 18 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI.1 Y VI.3, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-XI. LA INFRACCIÓN DE LA FRACCIÓN XXII, SE SANCIONARÁ CON MULTA EQUIVALENTE A MIL UMA’S.
+XI. La infracción de la fracción XXII, se sancionará con multa de cincuenta a mil UMA’s.
 
-(NOTA: EL 18 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI.1 Y VI.3, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-XII. LA INFRACCIÓN DE LA FRACCIÓN XXIV, SE SANCIONARÁ CON MULTA EQUIVALENTE DE CIEN UMA’S.
+XII. La infracción de la fracción XXIV, se sancionará con multa de diez a cien UMA’s.
 
-(NOTA: EL 18 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI.1 Y VI.3, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2026)</small>
 
-XIII. LA INFRACCIÓN DE LA FRACCIÓN XXVI, SE SANCIONARÁ CON MULTA EQUIVALENTE A MIL UMA’S.
+XIII. La infracción de la fracción XXVI, se sancionará con multa de cincuenta a mil UMA’s.
 
 Los ingresos por concepto de multas impuestas por el Instituto como infracciones a esta Ley, serán recaudados directamente por el Instituto en base a los lineamientos de ingresos propios.
 
@@ -2544,3 +2544,15 @@ El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumpl
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 28 días del mes de octubre del año dos mil veinticinco. D.P.C. ALEJANDRA GÓMEZ MENDOZA.- D. S.C. JUAN MARCOS TRINIDAD PALOMARES.- Rúbricas.-
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los doce días del mes de noviembre del año dos mil veinticinco.- Óscar Eduardo Ramírez Aguilar, Gobernador del Estado de Chiapas.- Dulce María Rodríguez Ovando, Secretaria General de Gobierno y Mediación.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 264 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 214 DE LA LEY PARA LA GESTIÓN INTEGRAL DEL RIESGO DE DESASTRES Y PROTECCIÓN CIVIL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los procedimientos administrativos sancionadores iniciados de forma previa a la vigencia del presente Decreto se resolverán conforme a esta normatividad.
