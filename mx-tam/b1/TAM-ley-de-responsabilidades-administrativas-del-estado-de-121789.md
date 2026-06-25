@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-administrativas-del-estado-de-121789"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2026-02-27"
+last_updated: "2026-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2026.
 
 Ley publicada en el Anexo al Extraordinario Número 10 del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -625,7 +625,9 @@ Para efectos de esta Ley se entiende que un socio o accionista ejerce control so
 
 También se considerará falta administrativa no grave, los daños y perjuicios que, de manera culposa o negligente y sin incurrir en alguna de las faltas administrativas graves señaladas en el Capítulo siguiente, cause un servidor público a la Hacienda Pública o al patrimonio de un ente público.
 
-Los entes públicos o los particulares que, en términos de este artículo, hayan recibido recursos públicos sin tener derecho a los mismos, deberán reintegrar los mismos a la Hacienda Pública o al patrimonio del ente público afectado en un plazo no mayor a 90 días, contados a partir de la notificación correspondiente de la Auditoría Superior del Estado o de la autoridad resolutora.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2026)</small>
+
+Los entes públicos o los particulares que, en términos de este artículo, hayan recibido recursos públicos sin tener derecho a los mismos, deberán reintegrarlos a la Hacienda Pública o al patrimonio del ente público afectado en un plazo no mayor a 90 días, contados a partir de la notificación correspondiente de la Auditoría Superior del Estado o de la autoridad resolutora. En el mismo término, estarán obligados los servidores públicos, cuando con motivo de sus funciones, causen daños o perjuicios a la Hacienda Pública o al Patrimonio del Estado y medie resolución firme al respecto.
 
 En caso de que no se realice el reintegro de los recursos señalados en el párrafo anterior, estos serán considerados créditos fiscales, por lo que la Secretaría de Finanzas, las tesorerías municipales, o la autoridad competente de los órganos autónomos, en el ámbito de su competencia, deberán ejecutar el cobro de los mismos en términos de las disposiciones jurídicas aplicables.
 
@@ -839,9 +841,17 @@ I. Amonestación pública o privada;
 
 II. Suspensión del empleo, cargo o comisión;
 
-III. Destitución de su empleo, cargo o comisión, y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas.
+III. Destitución de su empleo, cargo o comisión;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas; y
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+V. Sanción resarcitoria.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
@@ -857,13 +867,29 @@ Para la imposición de las sanciones a que se refiere el artículo anterior se d
 
 I. El nivel jerárquico y los antecedentes del infractor, entre ellos, la antigüedad en el servicio;
 
-II. Las condiciones exteriores y los medios de ejecución, y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-III. La reincidencia en el incumplimiento de obligaciones.
+II. Las condiciones exteriores y los medios de ejecución;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+III. La reincidencia en el incumplimiento de obligaciones; y
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+IV. El monto del daño o perjuicio causado, derivado del incumplimiento de obligaciones.
 
 En caso de reincidencia de faltas administrativas no graves, la sanción que imponga el Órgano Interno de Control no podrá ser igual o menor a la impuesta con anterioridad.
 
 Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada y hubiere causado ejecutoria, cometa otra del mismo tipo.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2026)</small>
+
+En ningún caso la sanción resarcitoria que se imponga podrá ser menor al monto de los daños o perjuicios causados. Lo anterior, sin perjuicio de la imposición de las sanciones contempladas en el artículo 75 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2026)</small>
+
+Las sanciones resarcitorias que se impongan se aplicarán conforme a lo dispuesto en el artículo 50 de la presente ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2025)</small>
 
@@ -1801,7 +1827,9 @@ IX. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no exist
 
 X. Una vez trascurrido el periodo de alegatos, la autoridad resolutora del asunto, de oficio, declarará cerrada la instrucción y citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello; y
 
-XI. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XI. La resolución, deberá notificarse personalmente al presunto responsable. En su caso, se notificará a los denunciantes únicamente para su conocimiento, y al jefe inmediato o al titular de la dependencia o entidad, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles. En los casos de daños y perjuicios ocasionados a la Hacienda Pública o al Patrimonio del Estado, cuando no se realice el reintegro correspondiente dentro del término previsto en el artículo 50 de la presente Ley, se notificará a la Secretaría de Finanzas para los efectos conducentes.
 
 ### Capítulo III. Del procedimiento de responsabilidad administrativa cuya resolución corresponda al Tribunal
 
@@ -2092,3 +2120,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1108 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS, EN MATERIA DE LA SANCIÓN RESARCITORIA POR FALTA NO GRAVE”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
