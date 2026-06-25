@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-catastro-del-estado-de-tamaulipas-22487"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-30"
-last_updated: "2025-12-18"
+last_updated: "2026-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 30 de octubre del 2001.
 
@@ -145,9 +145,9 @@ III.- Construcciones en ruinas: Son las que por su estado de conservación y man
 
 Los actos y resoluciones en materia de catastro serán tramitados en la forma, términos y procedimientos establecidos en la presente ley, y en los instructivos técnicos catastrales.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2026)</small>
 
-A falta de disposición expresa, se consideran como normas supletorias, en lo conducente, las disposiciones contenidas en el Código Municipal para el Estado de Tamaulipas, Código Civil para el Estado de Tamaulipas, Código de Procedimientos Civiles del Estado de Tamaulipas, el Código Fiscal del Estado de Tamaulipas y la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas.
+A falta de disposición expresa, se consideran como normas supletorias, en lo conducente, las disposiciones contenidas en el Código Municipal para el Estado de Tamaulipas, Código Civil para el Estado de Tamaulipas, Código de Procedimientos Civiles del Estado de Tamaulipas, el Código Fiscal del Estado de Tamaulipas y su reglamento, y la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas.
 
 ### CAPITULO II. DE LA ADMINISTRACION Y AUTORIDADES DEL CATASTRO
 
@@ -163,11 +163,17 @@ II.- El Secretario de Finanzas;
 
 III.- El Subsecretario de Ingresos de la Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-IV.- El Director de Catastro del Instituto Registral y Catastral del Estado de Tamaulipas; y
+IV.- El Director o Directora General del Instituto Registral y Catastral del Estado de Tamaulipas;
 
-V.- Los Ayuntamientos del Estado, así como el Presidente Municipal, el Tesorero y el titular del área municipal encargada de realizar la actividad catastral.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+V.- El Director o Directora de Catastro del Instituto Registral y Catastral del Estado de Tamaulipas; y
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+VI.- Los Ayuntamientos del Estado, así como el Presidente o Presidenta Municipal, el Tesorero o Tesorera y el titular del área municipal encargada de realizar la actividad catastral.
 
 ###### ARTICULO 11.
 
@@ -187,9 +193,11 @@ VI.- Apoyar a los Municipios que lo soliciten en la elaboración de sus programa
 
 VII.- Las que expresamente determine ésta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2026)</small>
+
 ###### ARTICULO 12.
 
-Corresponde al Secretario de Finanzas:
+Corresponde al Director o Directora General del Instituto Registral y Catastral del Estado de Tamaulipas:
 
 I.- Vigilar el cumplimiento de las disposiciones de la presente ley;
 
@@ -199,21 +207,23 @@ III.- Emitir las normas técnicas, especificaciones y principios homogéneos ref
 
 IV.- Proporcionar a los Municipios que lo soliciten la asesoría, capacitación y auxilio en la determinación de las operaciones catastrales cuando así lo estime pertinente el propio Municipio;
 
-V.- Intervenir en la celebración de los convenios de colaboración que se suscriban con los Municipios que lo requieran, para que el Estado realice, en forma temporal, alguna de las funciones relacionadas con la administración de las contribuciones relativas a la propiedad inmobiliaria;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+V.- Celebrar convenios de colaboración con los Municipios que lo requieran, para que el Estado realice, en forma temporal, alguna de las funciones relacionadas con la administración del catastro;
 
 VI.- En los términos de las disposiciones aplicables, suscribir los contratos con empresas y particulares especializados en la materia, para la ejecución de los trabajos geodésicos, topográficos, aerofotogramétricos, de valuación y otros relacionados; y
 
 VII.- Las que expresamente determine esta ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 13.
 
-Corresponde al Director de Catastro del Instituto Registral y Catastral del Estado de Tamaulipas:
+Corresponde al Director o Directora de Catastro del Instituto Registral y Catastral del Estado de Tamaulipas:
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-I.- Planificar, controlar y dirigir la ejecución de las actividades del catastro en el Estado, de conformidad con lo previsto en ésta ley, y las políticas y lineamientos que al respecto dicte la Secretaría General de Gobierno y el Instituto Registral y Catastral de Tamaulipas;
+I.- Planificar, controlar y dirigir la ejecución de las actividades del catastro en el Estado, de conformidad con lo previsto en esta Ley, y las políticas y lineamientos que al respecto dicte la Secretaría General de Gobierno y el Instituto Registral y Catastral del Estado de Tamaulipas;
 
 II.- Formular y homologar los procedimientos técnicos y administrativos aplicables a la identificación, registro, valuación y deslinde de los bienes inmuebles ubicados en el Estado;
 
@@ -263,9 +273,13 @@ XXIV.- Realizar trabajos técnicos y topográficos relativos a proyectos de infr
 
 XXV.- Mantener actualizado el plano general catastral del Estado;
 
-XXVI.- Elaborar y someter a la consideración del Secretario de Finanzas, los proyectos de convenios que deban celebrarse con los Ayuntamientos, en materia catastral; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-XXVII.- Las demás que le encomiende el Secretario de Finanzas, el Subsecretario de Ingresos y las que se deriven de otras disposiciones legales aplicables.
+XXVI.- Elaborar y someter a la consideración del Director o Directora General del Instituto Registral y Catastral del Estado de Tamaulipas, los proyectos de convenios que deben celebrarse con los Ayuntamientos, en materia catastral; y
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XXVII.- Las demás que le encomiende la o el Gobernador del Estado, el Secretario o Secretaria General de Gobierno y el Director o Directora General del Instituto Registral y Catastral del Estado de Tamaulipas y las que se deriven de otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
@@ -365,41 +379,103 @@ Los Ayuntamientos que consideren que no cuentan con los recursos técnicos, admi
 
 Son organismos auxiliares de colaboración de las autoridades catastrales del Estado y de los Ayuntamientos, los siguientes:
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-I.- La Secretaría de Desarrollo Urbano y Medio Ambiente del Estado;
+I.- La Junta Central Catastral;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-II.- La Secretaría de Desarrollo Económico;
+II.- La Secretaría General de Gobierno del Estado;
 
-III.- El Consejo Estatal de Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-IV.- Los Comités Municipales de Desarrollo Sustentable;
+III.- La Secretaría de Desarrollo Urbano y Medio Ambiente del Estado;
 
-V.- Las Uniones y Asociaciones Ejidales, Agrícolas y Ganaderas;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-VI.- Las Juntas Municipales de Catastro;
+IV.- La Secretaría de Desarrollo Económico;
 
-VII.- Las dependencias municipales de desarrollo urbano, y de obras y servicios públicos;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-VIII.- El Registro Agrario Nacional;
+V.- El Consejo Estatal de Desarrollo Sustentable;
 
-IX.- La Procuraduría Agraria;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-X.- La Cámara de Comercio y Servicios, la Cámara Mexicana de Industria de la Construcción, y la Cámara de la Industria de la Transformación;
+VI.- Los Comités Municipales de Desarrollo Sustentable;
 
-XI.- El Colegio de Notarios Públicos;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-XII.- El Instituto Mexicano de Valuación de Tamaulipas;
+VII.- Las Uniones y Asociaciones Ejidales, Agrícolas y Ganaderas;
 
-XIII.- El Colegio de Ingenieros Civiles;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-XIV.- El Colegio de Arquitectos;
+VIII.- Las Juntas Municipales de Catastro;
 
-XV.- El Colegio de Contadores Públicos; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-XVI.- La Asociación de Profesionales de Informática.
+IX.- Las dependencias municipales de desarrollo urbano, y de obras y servicios públicos;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+X.- El Registro Agrario Nacional;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XI.- La Procuraduría Agraria;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XII.- La Cámara de Comercio y Servicios, la Cámara Mexicana de Industria de la Construcción, y la Cámara de la Industria de la Transformación;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XIII.- El Colegio de Notarios Públicos;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XIV.- El Instituto Mexicano de Valuación de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XV.- El Colegio de Ingenieros Civiles;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XVI.- El Colegio de Arquitectos;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XVII.- El Colegio de Contadores Públicos;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XVIII.- La Asociación de Profesionales de Informática;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XIX.- El Colegio de Valuadores Profesionales de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XX.- La Universidad Autónoma de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XXI.- La Agencia de Innovación e Inteligencia Digital de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XXII.- La Asociación Mexicana de Profesionales Inmobiliarios; y
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XXIII.- La Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2026)</small>
+
+ARTICULO 17 BIS.- La Junta Central Catastral se integrará por tres autoridades competentes en materia de catastro, que tendrán el carácter de Presidente o Presidenta, Secretario o Secretaria y Vocal, y un representante de diez organismos auxiliares de colaboración, con el carácter de vocales.
+
+La Junta Central Catastral tendrá carácter permanente y exclusivamente técnico, y tendrá por objeto fijar criterios generales aplicables en el Estado en materia de valuación catastral, así como emitir opiniones técnicas no vinculantes respecto de los valores que determinen las Juntas Municipales de Catastro, cuando éstas lo soliciten o cuando existan inconformidades de los particulares, respetando en todo momento las facultades constitucionales y legales de los Ayuntamientos para aprobar los valores definitivos.
 
 ###### ARTICULO 18.
 
@@ -445,9 +521,11 @@ Cuando en los términos del Código Municipal para el Estado de Tamaulipas haya 
 
 Los notarios públicos o funcionarios que actúen con fe pública en el otorgamiento de contratos o actos que modifiquen la propiedad o posesión de inmuebles, no ejecutarán ninguna operación si el interesado no les presenta el avalúo pericial expedido por la autoridad competente o persona autorizada por la ley de la materia, relativo a los mismos y con antigüedad máxima hasta seis meses; así como el comprobante de no adeudo o recibo correspondiente que acredite que el inmueble no tiene adeudos por concepto de servicios de agua potable, drenaje y alcantarillado.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### ARTICULO 24.
 
-Los fedatarios públicos que intervengan en el otorgamiento de contratos que trasmitan o modifiquen el dominio de un inmueble, deberán informarlo a las autoridades catastrales de la jurisdicción en donde se ubique el bien, dentro del término de diez días contados a partir de la fecha de firma de dichos contratos, y asentar en esos instrumentos públicos la clave catastral correspondiente. Cuando las autoridades catastrales lo estimen necesario, podrán solicitar a los fedatarios o declarantes una copia certificada de la escritura, contrato privado o sentencia en que se hubiese hecho constar el acto de que se trate.
+Los fedatarios públicos que intervengan en el otorgamiento de contratos que trasmitan o modifiquen el dominio de un inmueble, deberán informarlo a las autoridades catastrales de la jurisdicción en donde se ubique el bien, dentro del término de diez días contados a partir de la fecha de firma de dichos contratos, y asentar en esos instrumentos públicos la clave catastral correspondiente; proporcionando a las autoridades catastrales municipales una copia certificada de la escritura, contrato privado o sentencia en que se hubiese hecho constar el acto de que se trate.
 
 ###### ARTICULO 25.
 
@@ -547,6 +625,10 @@ Las autoridades judiciales deberán proporcionar a las autoridades catastrales l
 
 El Registro Público de la Propiedad y del Comercio no hará inscripción alguna en sus libros, de contratos que tengan por objeto transmitir o modificar la propiedad de un bien inmueble, cuando no se acompañe la copia de los manifiestos y documentos correspondientes.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Cuando se trate de la inscripción de Fraccionamientos, Colonias, Relotificaciones, fusiones o subdivisiones, no hará inscripción alguna, cuando no se acompañe la constancia de inscripción de los planos respectivos en la Dirección de Catastro del Instituto Registral y Catastral del Estado de Tamaulipas.
+
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 41.
@@ -613,11 +695,13 @@ El resultado de las operaciones catastrales y las observaciones de los interesad
 
 En caso de no obtenerse la conformidad de los propietarios o poseedores de los bienes inmuebles colindantes, se hará constar en el acta y quedarán a salvo los derechos de los interesados para que los ejerciten en la vía y forma que determinan las leyes.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 53.
 
-La Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas sólo podrá expedir copias certificadas de los planos y demás documentos e informes que obren en el archivo del catastro, relacionados con los predios, a solicitud expresa de los propietarios, poseedores legalmente reconocidos, representantes legalmente autorizados, autoridades administrativas o judiciales mediante solicitud oficial, notarios públicos, peritos valuadores y corredores públicos que con ese carácter intervengan en actos o contratos relacionados con dichos predios.
+La Dirección de Catastro del Instituto Registral y Catastral del Estado de Tamaulipas sólo podrá expedir copias certificadas de los planos y demás documentos e informes que obren en el archivo del catastro, relacionados con los predios, a solicitud expresa de los propietarios, poseedores legalmente reconocidos, representantes legalmente autorizados, autoridades administrativas o judiciales mediante solicitud oficial, notarios públicos, peritos valuadores y corredores públicos que con ese carácter intervengan en actos o contratos relacionados con dichos predios.
+
+La Dirección de Catastro del Instituto Registral y Catastral del Estado de Tamaulipas, no podrá proporcionar información de ningún predio, si este no se encuentra al corriente de sus contribuciones por concepto de impuesto predial; salvo que esta información sea requerida por alguna autoridad.
 
 ###### ARTICULO 54.
 
@@ -863,11 +947,11 @@ Una vez en poder de la autoridad catastral los planos respectivos, ésta procede
 
 El propietario de fraccionamiento y el propietario de condominio o sus representantes legales, darán aviso a la autoridad catastral municipal de la terminación de las obras de que se trate, dentro de los diez días siguientes a los de su conclusión y, además, deberán manifestar a la autoridad, en un plazo de diez días contados a partir del acto jurídico, la celebración de contrato de compraventa, de promesa de venta, venta con reserva de dominio, o cualquier otro contrato preparatorio o preliminar que implique la traslación del uso del dominio de los lotes que formen parte del fraccionamiento o condominio.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 87.
 
-Las autoridades municipales procederán a informar a la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas, el registro de cada fraccionamiento o condominio, dentro de los primeros diez días de cada mes, anexando copia del plano del fraccionamiento o condominio autorizado, copia de los manifiestos gestionados para cada lote en particular, plano catastral donde se indique la ubicación del fraccionamiento georeferenciado a las coordenadas geográficas del Instituto Nacional de Estadística, Geografía e Informática y/o a la Red Geodésica Estatal, así como la ubicación de cada una de las manzanas y lotes, con su respectiva clave catastral; si se dispone de cartografía digitalizada, un respaldo en medios magnéticos de dicha información geográfica.
+Las personas físicas o morales que obtengan autorización para fraccionar, dividir, subdividir, relotificar o fusionar bienes inmuebles, antes de inscribir dichas autorizaciones en el Registro Público de la Propiedad, deberán inscribir los planos correspondientes en la Dirección de Catastro del Instituto Registral y Catastral del Estado de Tamaulipas; anexando para dicha inscripción, copia fotostática de los planos respectivos, así como los planos digitales georeferenciados a las coordenadas geográficas del Instituto Nacional de Estadística, Geografía e Informática y/o a la Red Geodésica Estatal, así como la ubicación de cada una de las manzanas y lotes, con su respectiva clave catastral; en formato shape o dwg.
 
 ###### ARTICULO 88.
 
@@ -1135,9 +1219,11 @@ El recurso administrativo de revocación deberá interponerse ante la autoridad 
 
 La autoridad competente, para resolver el recurso de revocación, deberá resolver la cuestión planteada en un plazo de diez días.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### ARTICULO 113.
 
-Para el trámite y resolución del recurso administrativo de revocación que ésta ley establece, se aplicará en lo conducente las disposiciones que el Código Fiscal del Estado establece para el recurso administrativo de revocación.
+Para el trámite y resolución del recurso administrativo de revocación que esta Ley establece, se aplicará en lo conducente las disposiciones que el Código Fiscal del Estado de Tamaulipas establece para el recurso administrativo de revocación.
 
 T R A N S I T O R I O S
 
@@ -1246,6 +1332,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 18 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-941 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 83 BIS A LA LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-B1102 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
