@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2026-06-02"
+last_updated: "2026-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -3131,9 +3131,9 @@ Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán p
 
 La educación que impartan el Estado y los Municipios se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva, será ajena a cualquier doctrina religiosa; se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, la servidumbre, los fanatismos y los prejuicios; será democrática, nacionalista y contribuirá a la mejor convivencia humana, buscando el desarrollo de todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria, el respeto a los derechos humanos, la cultura de la paz y la conciencia de la solidaridad internacional en la independencia y en la justicia.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2026)</small>
 
-El proceso educativo incorporará la promoción de una actitud consciente sobre la preservación del medio ambiente y la participación de toda persona en su protección, restauración y mejoramiento como elementos para el desarrollo social y económico equilibrado de la sociedad. Así mismo, considerará la educación sexual en los planes y programas de estudio de los tipos básico y medio superior, a fin de formar una actitud responsable en los educandos respecto a todo lo relacionado con la misma.
+El proceso educativo incorporará la promoción de una actitud consciente sobre la preservación del medio ambiente y la participación de toda persona en su protección, restauración y mejoramiento como elementos para el desarrollo social y económico equilibrado de la sociedad y la protección de los animales, fortaleciendo con ello, un aprendizaje ecológico, intercultural e interdisciplinario. Asimismo, considerará la educación sexual en los planes y programas de estudio de los tipos básico y medio superior, a fin de formar una actitud responsable en los educandos respecto a todo lo relacionado con la misma.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2012)</small>
 
@@ -6212,3 +6212,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Instituto Electoral de Tamaulipas y el Tribunal Electoral del Estado de Tamaulipas, en el ámbito de sus respectivas competencias, deberán revisar y adecuar sus disposiciones normativas, reglamentarias y administrativas para garantizar el cumplimiento de lo previsto en el presente Decreto.
+
+P.O. 25 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1098 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 138, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, CON EL FIN DE INCORPORAR LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES COMO PRINCIPIO FORMATIVO EN EL SISTEMA EDUCATIVO ESTATAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
