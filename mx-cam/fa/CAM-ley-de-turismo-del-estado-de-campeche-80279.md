@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-turismo-del-estado-de-campeche-80279"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-04"
-last_updated: "2026-03-26"
+last_updated: "2026-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE TURISMO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 4 de marzo de 2011.
 
@@ -68,6 +68,10 @@ II. Establecer las bases para los mecanismos e instrumentos de la planeación, p
 > <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2025)</small>
 
 III. Minimizar las externalidades negativas que se originan a partir de la actividad turística.
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+IV. Fomentar, promover y desarrollar acciones orientadas a la diversificación de la actividad turística, reconociendo todas sus modalidades como factores de desarrollo local integral y sostenible, que impulsen el aprovechamiento responsable de los recursos y actividades propias de las comunidades. Dichas acciones deberán promover la participación efectiva de las comunidades locales, garantizando el respeto a su identidad cultural, su patrimonio y sus formas de organización tradicional.
 
 ###### Artículo 4.
 
@@ -363,7 +367,9 @@ En la Planeación y Desarrollo Turístico que corresponde a la Secretaría, se p
 
 l. El fomento del turismo de zonas y monumentos arqueológicos, artísticos, históricos, naturales tanto de los bienes tanto intangibles como tangibles.
 
-II. El impulso, en coordinación con las instancias competentes, del rescate, protección, promoción, desarrollo y preservación de las tradiciones, costumbres y lenguas indígenas del Estado que constituyan un atractivo turístico, apoyará las iniciativas tendientes a su conservación y fomentará la participación de sus comunidades.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+II. El impulso, en coordinación con las instancias competentes, del rescate, protección, promoción, desarrollo y preservación de las tradiciones, costumbres, expresiones culturales y lenguas de las comunidades locales, reconociéndolas como parte fundamental del patrimonio cultural, que constituyan un atractivo turístico, además de promover la creación de infraestructura y equipamiento que contribuya al desarrollo sostenible de la actividad turística, garantizando la participación de sus comunidades.
 
 III. La formación de asociaciones, comités y fideicomisos de carácter público, privado o mixto de naturaleza turística.
 
@@ -491,9 +497,11 @@ Con el sector privado se integrará un comité que identifique las áreas de opo
 
 ### CAPÍTULO SEGUNDO. DEL TURISMO ACCESIBLE
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2026)</small>
+
 ###### Artículo 26.
 
-La Secretaría y los Municipios, supervisará (sic) que la prestación de servicios turísticos sea accesible y permitan el acceso a la población con alguna discapacidad.
+La Secretaría, en coordinación con los Municipios y las instancias competentes, promoverá, supervisará y garantizará el cumplimiento del principio de no discriminación en el ámbito turístico, asegurando que todas las personas en especial aquellas con discapacidad, gocen de accesibilidad plena y en condiciones de igualdad en la prestación, uso y disfrute de los servicios, productos, instalaciones e infraestructura turística del Estado.
 
 ###### Artículo 27.
 
@@ -1082,3 +1090,15 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- El Ejecutivo Estatal y los Municipios contarán con un plazo de 180 días naturales para realizar las modificaciones a las disposiciones reglamentarias relacionadas con la materia de este decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
+
+P.O. 25 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 251 POR EL QUE "SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 3 Y, SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 14 Y EL ARTÍCULO 26 DE LA LEY DE TURISMO DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Turismo de la Administración Pública del Estado de Campeche, promoverá la celebración de convenios de coordinación y colaboración con instituciones académicas, organismos sociales, asociaciones turísticas y representantes de las comunidades locales, para fortalecer la implementación de las políticas públicas derivadas de este decreto.
+
+TERCERO.- En el ámbito de su competencia, los Municipios del Estado deberán adecuar sus reglamentos, programas y disposiciones administrativas en materia de turismo para armonizarlos con las reformas que establece el presente decreto, en un plazo no mayor a 120 días naturales, contados a partir de su entrada en vigor.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
