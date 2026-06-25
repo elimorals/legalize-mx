@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2026-06-10"
+last_updated: "2026-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -191,27 +191,89 @@ VIII. Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Ley: La Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-II. Organizaciones de la Sociedad Civil: Las instituciones o agrupaciones ciudadanas legalmente constituidas que tengan por objeto atender a las mujeres víctimas de violencia, así como realizar acciones de difusión orientadas a la prevención y erradicación de la violencia en contra de las mujeres;
+I. Atención: Conjunto de estrategias para que las autoridades estatales y municipales, en el ámbito de sus competencias, brinden acceso a la justicia restaurativa a víctimas y establezcan acciones y medidas reeducativas a las personas agresoras, con la debida diligencia y perspectiva de género;
 
-III. Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2026)</small>
 
-IV. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+II. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora;
 
-V. Modalidades de violencia: Las formas, tipos o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-VI. Violencia contra las mujeres: Cualquier conducta de acción o conducta, basada en su género, que cause muerte, daño o sufrimiento psicológico, físico, patrimonial, económico, sexual, obstétrica o diversa en la mujer, tanto en el ámbito privado como en el público;
+III. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención Sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia;
 
-VII. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2026)</small>
 
-VIII. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
+IV. Empoderamiento de las mujeres: Es un proceso por medio del cual las mujeres transitan en cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, inclusión, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2026)</small>
 
-IX. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos del Niño, la Convención lnteramericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia; y
+V. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad, así como las vulneraciones específicas a sus derechos humanos en tanto pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
 
-X. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2026)</small>
+
+VI. Erradicación: Conjunto de estrategias para que las autoridades estatales y municipales se coordinen de manera efectiva en la ejecución de acciones y en mecanismos de no repetición, abatimiento a la impunidad y remoción de los obstáculos que por acción u omisión del Estado general violencia contra las mujeres, a fin de erradicar las prácticas, conductas, normas, costumbres sociales y culturales que menoscaben o anulen los derechos humanos de las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2026)</small>
+
+VII. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2026)</small>
+
+VIII. Interculturalidad: El enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí, pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más ala (sic) de la coexistencia de culturas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2026)</small>
+
+IX. Ley: La Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2026)</small>
+
+X. Misoginia: Son conductas de odio hacia las mujeres, las adolescentes y las niñas y se manifiestan en actos violentos y crueles contra ellas por hecho de serlo;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2026)</small>
+
+XI. Modalidades de violencia: Las formas, tipos o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2026)</small>
+
+XII. Organizaciones de la Sociedad Civil: Las instituciones o agrupaciones ciudadanas legalmente constituidas que tengan por objeto atender a las mujeres víctimas de violencia, así como realizar acciones de difusión orientadas a la prevención y erradicación de la violencia en contra de las mujeres;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XIII. Perspectiva de género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XIV. Persona agresora: La persona que inflige cualquier tipo de violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XV. Prevención: Conjunto de estrategias para que las autoridades estatales y municipales, con la participación de las organizaciones de la sociedad civil y la ciudadanía, generen condiciones idóneas a efecto de erradicar la violencia y cualquier forma de discriminación contra las mujeres, en los ámbitos público y privado, y modifiquen los patrones de comportamientos sociales y culturales basados en estereotipos de hombres y mujeres;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE JUNIO DE 2026)</small>
+
+XVI. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones de la sociedad civil o instituciones del Estado para la atención y protección de mujeres que han sido víctimas de violencia;
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XVII. Sanción: Conjunto de estrategias para que los mecanismos judiciales y administrativos establezcan las consecuencias jurídicas para la persona agresora y asegure a las víctimas directas e indirectas, el acceso efectivo a la reparación del daño, entendiendo está en un sentido restitutivo y transformador, que comprenda la indemnización, rehabilitación, satisfacción y garantías de no repetición;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2026)</small>
+
+XVIII. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(ADICIONADA [REUBICADA], P.O. 25 DE JUNIO DE 2026)</small>
+
+XIX. Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE JUNIO DE 2026)</small>
+
+XX. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE JUNIO DE 2026)</small>
+
+XXI. Violencia contra las mujeres: Cualquier conducta de acción o conducta, basada en su género, que cause muerte, daño o sufrimiento psicológico, físico, patrimonial, económico, sexual, obstétrica o diversa en la mujer, tanto en el ámbito privado como en el público.
 
 ### Capítulo II. Modalidades de la violencia
 
@@ -1792,6 +1854,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 10 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1083 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL INCISO A), DEL ARTÍCULO 3, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1104 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I A LA X; Y SE ADICIONAN LAS FRACCIONES XI A LA XXI, DEL ARTÍCULO 3 BIS, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
 
 ###### ARTÍCULO ÚNICO.
 
