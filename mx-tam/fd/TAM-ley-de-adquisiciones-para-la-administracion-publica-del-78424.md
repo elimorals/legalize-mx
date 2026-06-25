@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adquisiciones-para-la-administracion-publica-del-78424"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-29"
-last_updated: "2026-02-12"
+last_updated: "2026-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2010.
 
@@ -1107,6 +1107,10 @@ III. Las que proporcionen información falsa o que actúen con dolo o mala fe en
 
 2. La inhabilitación que se imponga no será menor de tres meses ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Secretaría Anticorrupción y Buen Gobierno o la Contraloría Municipal, en el caso de los Ayuntamientos, la haga del conocimiento de las dependencias y entidades, mediante la publicación de la circular respectiva en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2026)</small>
+
+La inhabilitación prevista en este numeral se aplicará sin perjuicio de las demás sanciones administrativas, las penas convencionales pactadas en los contratos y, en su caso, del pago de los daños y perjuicios que se ocasionen a las instituciones públicas.
+
 3. Si al día en que se cumpla el plazo de inhabilitación a que se refiere el párrafo que antecede el sancionado no ha pagado la multa que hubiere sido impuesta en términos del artículo anterior, la mencionada inhabilitación subsistirá hasta que se realice el pago correspondiente.
 
 ###### ARTICULO 102.
@@ -1338,3 +1342,11 @@ El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su
 ###### ARTÍCULO TERCERO.
 
 En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
+
+P.O. 25 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1107 MEDIANTE EL CUAL SE ADICIONA UN SUBPÁRRAFO SEGUNDO, AL PÁRRAFO 2, DEL ARTÍCULO 101, DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
