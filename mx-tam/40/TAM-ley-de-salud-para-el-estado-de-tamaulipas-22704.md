@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2026-06-10"
+last_updated: "2026-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -2094,6 +2094,10 @@ Queda prohibida la venta de bebidas alcohólicas en envase diverso o en cualquie
 Igualmente se prohíbe ofrecer, dar o suministrar, de manera gratuita, espontánea, voluntaria o por simple cortesía o acción semejante, cualquier tipo de bebidas de contenido alcohólico a los asistentes a bares, discotecas, centros de espectáculos o negocios afines o similares, que entrañe la incitación al consumo de las mismas.
 
 Queda prohibida toda competencia, concurso o actividad similar, sin importar el nombre que se le dé en que se invite, incite, suministre, practique o participe mediante el consumo de bebidas alcohólicas, sin importar el lugar en donde se pretenda realizar dicha actividad.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2026)</small>
+
+ARTICULO 108 BIS.- Queda prohibida la reutilización de envases vacíos de bebidas alcohólicas destiladas en el Estado de Tamaulipas. Los productores, distribuidores y expendedores deberán garantizar la eliminación segura y obligatoria e inmediata, de dichos envases, mediante procesos de destrucción, reciclaje o cualquier otro mecanismo autorizado por la autoridad sanitaria competente, con el fin de prevenir la falsificación y adulteración de productos alcohólicos que representen un riesgo para la salud pública.
 
 ###### ARTICULO 109.
 
@@ -4348,3 +4352,15 @@ Los establecimientos funerarios deberán adecuar sus contratos, prácticas inter
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1105 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 108 BIS A LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud contará con un plazo de 90 días naturales para emitir las disposiciones reglamentarias necesarias para la aplicación del artículo 108 Bis.
