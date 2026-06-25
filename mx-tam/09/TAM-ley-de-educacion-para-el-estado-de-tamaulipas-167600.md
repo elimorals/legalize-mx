@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-167600"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-23"
-last_updated: "2026-05-27"
+last_updated: "2026-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Vespertina Número 101 del Periódico Oficial del Estado de Tamaulipas, el miércoles 23 de agosto de 2023.
 
@@ -617,13 +617,17 @@ IX.- Los conocimientos, habilidades motrices y creativas, a través de la activa
 
 X.- La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas;
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-XI.- Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, cuidado del medio ambiente, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica; y
+XI.- Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, cuidado del medio ambiente, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica;
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2026)</small>
 
-XII. La participación de las y los jóvenes en actividades de voluntariado dentro de organizaciones de la sociedad civil, a través de las instituciones de educación superior del Estado, con el propósito de brindar oportunidades para su incidencia social, fortalecer su formación ciudadana participativa y promover una cultura de responsabilidad social.
+XII.- La participación de las y los jóvenes en actividades de voluntariado dentro de organizaciones de la sociedad civil, a través de las instituciones de educación superior del Estado, con el propósito de brindar oportunidades para su incidencia social, fortalecer su formación ciudadana participativa y promover una cultura de responsabilidad social; y
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2026)</small>
+
+XIII.- La mejora de la memoria, la concentración y el pensamiento estratégico mediante la práctica del ajedrez y otros deportes mentales y actividades lúdicas.
 
 ###### ARTÍCULO 50.
 
@@ -1918,3 +1922,11 @@ La Secretaría de Educación, en coordinación con la Secretaría de Bienestar S
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Educación del Estado, deberá diseñar e implemente (sic) las estrategias necesarias para la correcta aplicación del presente Decreto.
+
+P.O. 25 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1103 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XI Y XII Y SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 49 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
