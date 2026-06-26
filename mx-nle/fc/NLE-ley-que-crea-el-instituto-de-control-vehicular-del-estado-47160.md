@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2026-04-14"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -609,6 +609,14 @@ El registro de los vehículos inscritos en la Sección Primera deberá refrendar
 
 El Instituto vigilará que al tiempo de refrendarse el registro de cada vehículo la licencia para conducir de su conductor habitual se encuentre vigente.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+###### Artículo 24 Bis.
+
+Las personas adultas mayores de 60 años que sean propietarias de vehículos registrados en el Estado, podrán ser acreedores a un descuento anual de
+
+por lo menos el 20% en el pago del refrendo, el cual será compatible a cualquier otro descuento a la fecha del pago.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 25.
@@ -679,9 +687,17 @@ II. Presentar ante el Instituto comprobante de domicilio o carta de residencia v
 
 III. Presentar comprobante de pago de derechos municipales;
 
-IV. Acreditar curso para conducir; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-V. Las demás que establezca la Ley de la materia, según corresponda.
+IV. Acreditar curso para conducir;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2026)</small>
+
+V. Acreditar que no se encuentra inscrito como deudor alimentario en el Registro Estatal y Nacional de Obligaciones Alimentarias. En caso de inscripción vigente, demostrar mediante resolución o sentencia definitiva la orden de cancelación del registro; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE JUNIO DE 2026)</small>
+
+VI. Las demás que establezca la Ley de la materia, según corresponda.
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 2022)</small>
 
@@ -1130,3 +1146,17 @@ P.O. 14 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 192. SE REFORMA EL SEGUNDO PÁRRAFO Y LA FRACCIÓN I, II, Y III DEL ARTÍCULO 7, TODO DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 223. SE REFORMA LA FRACCIÓN III BIS DEL ARTÍCULO 3, LA FRACCIÓN XII, INCISOS A), B), C), D), F), H), I), J), TERCER, QUINTO Y SEXTO PÁRRAFO DEL ARTÍCULO 14 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 15; Y SE ADICIONA LA FRACCIÓN XIII, SEGUNDO PÁRRAFO DEL INCISO G), INCISOS K), L) Y SÉPTIMO PÁRRAFO AL ARTÍCULO 14 Y ARTÍCULO 15 BIS, TODO DE LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 27 BIS; Y SE ADICIONA EL ARTÍCULO 24 BIS, Y LA FRACCIÓN VI AL ARTÍCULO 27 BIS, TODO DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN."]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para efectos de lo establecido en el artículo 14 de la Ley que Regula la Expedición de Licencias para Conducir del Estado de Nuevo León, en tanto no se encuentre
+
+en funciones el Registro Estatal de Obligaciones Alimentarias se solicitará únicamente la no inscripción en el Registro Nacional de Obligaciones Alimentarias.
+
+TERCERO.- El Poder Ejecutivo emitirá los lineamientos necesarios para implementar y operar las disposiciones que se contemplan en lo dispuesto en el artículo 24 Bis de la Ley que Crea el Instituto de Control Vehicular del Estado de Nuevo León.
+
+CUARTO.- Para efectos de lo establecido en el artículo 27 Bis de la Ley que Crea el Instituto de Control Vehicular del Estado de Nuevo León, en tanto no se encuentre en funciones el Registro Estatal de Obligaciones Alimentarias se solicitará únicamente la no inscripción en el Registro Nacional de Obligaciones Alimentarias.
