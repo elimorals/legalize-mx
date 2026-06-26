@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2024-10-04"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -91,13 +91,17 @@ III.- Equidad y no discriminación: Consiste en el trato justo y proporcional en
 
 IV.- Corresponsabilidad: Consiste en la concurrencia y responsabilidad compartida de los sectores público y social, en especial de las comunidades y familias, para la consecución del objeto de esta Ley;
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-V.- Atención diferenciada y preferente: Consiste en obligar a las instituciones estatales y municipales de gobierno, así como a los sectores social y privado a implementar programas y ejercer acciones acordes a las diferentes etapas, características, condiciones y circunstancias de las personas adultas mayores, que tienden a facilitar, impulsar y mejorar su bienestar social, sin que ello pueda ocasionar discriminación hacia otros sectores; y
+V.- Atención diferenciada y preferente: Consiste en obligar a las instituciones estatales y municipales de gobierno, así como a los sectores social y privado a implementar programas y ejercer acciones acordes a las diferentes etapas, características, condiciones y circunstancias de las personas adultas mayores, que tienden a facilitar, impulsar y mejorar su bienestar social, sin que ello pueda ocasionar discriminación hacia otros sectores;
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-VI.- Protección integral: Consiste en la obligatoriedad de la observancia irrestricta de los derechos humanos de las personas adultas mayores como un sistema indivisible que deberá orientarse a la prevención de cualquier situación de riesgo, abuso o vulneración y la procuración de la restitución o reparación inmediata de los derechos vulnerados y los intereses o garantías afectadas.
+VI.- Protección integral: Consiste en la obligatoriedad de la observancia irrestricta de los derechos humanos de las personas adultas mayores como un sistema indivisible que deberá orientarse a la prevención de cualquier situación de riesgo, abuso o vulneración y la procuración de la restitución o reparación inmediata de los derechos vulnerados y los intereses o garantías afectadas; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VII. Igualdad Sustantiva. Consiste en el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
@@ -111,17 +115,21 @@ I.- Llevar a cabo o proporcionar apoyo para realizar investigaciones que permita
 
 II.- Promover, a través de cursos, talleres y de los medios de comunicación masiva, la cultura de la vejez, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores.
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-III.- Motivar que desempeñen trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, estableciendo para tal efecto en coordinación con las Secretarías de Trabajo, y de Economía, del Gobierno del Estado, programas de capacitación, financiamiento y autoempleo;
+III.- Motivar que desempeñen trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, estableciendo para tal efecto en coordinación con la Secretaría de Desarrollo Económico y Trabajo del Gobierno del Estado, programas de capacitación, financiamiento y autoempleo;
 
 IV.- Celebrar cursos de capacitación y actualización para el personal que labore en las instituciones públicas, privadas y sociales, encargadas de su atención;
 
 V.- Concertar en coordinación con el Instituto Nacional de las Personas Adultas Mayores, descuentos en servicios públicos, establecimientos comerciales, centros hospitalarios y otros prestadores de servicios técnicos y profesionales;
 
-VI.- Impulsar la evolución y actualización permanente de las políticas públicas a favor de los adultos mayores del Estado;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-VII.- Promover y diseñar, de manera coordinada con la Secretaría de Turismo y demás autoridades competentes, acciones para fomentar actividades turísticas para adultos mayores;
+VI.- Impulsar la evolución y actualización permanente de las políticas públicas a favor de las personas adultas mayores del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VII.- Promover y diseñar, de manera coordinada con la Secretaría de Desarrollo Turístico y demás autoridades competentes, acciones para fomentar actividades turísticas para las personas adultas mayores;
 
 VIII.- Impulsar con los sectores público, social y privado políticas preferenciales para las personas adultas mayores, que comprendan precios especiales o gratuitos en los centros públicos o privados de entretenimiento, recreación, cultura y deporte, hospedajes en hoteles y transporte;
 
@@ -289,7 +297,9 @@ II.- Alfabetizarlos y poner a su alcance los medios necesarios para aumentar su 
 
 III.- Lograr que tengan un mejor conocimiento de sí mismos y buscar puntos de apoyo familiar y social, para que mantengan una buena autoestima y un excelente grado de socialización, para disfrutar plenamente esta etapa de la vida;
 
-IV.- Llevar a cabo encuentros entre distintos grupos de adultos mayores, con la finalidad de intercambiar sus valiosas vivencias para que las nuevas generaciones las valoren;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+IV.- Llevar a cabo encuentros entre distintos grupos de personas adultas mayores, con la finalidad de intercambiar sus valiosas vivencias para que las nuevas generaciones las valoren;
 
 V.- Conseguir su intervención entusiasta en la vida cívica, académica y productiva de la sociedad;
 
@@ -585,9 +595,9 @@ En caso de que las personas adultas mayores no puedan alcanzar los beneficios de
 
 El SEDIF y los SMDIF establecerán programas de capacitación y empleo, dirigidos a las personas adultas mayores.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2026)</small>
 
-### CAPÍTULO IX. DE LA ATENCIÓN A LOS ADULTOS MAYORES
+### CAPÍTULO IX. DE LA ATENCIÓN A LAS PERSONAS ADULTAS MAYORES
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
@@ -776,6 +786,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 4 DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL " DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES V Y VI DEL ARTÍCULO 2 BIS, LAS FRACCIONES III, VI Y VII DEL ARTÍCULO 3, LA FRACCIÓN IV DEL ARTÍCULO 6 Y LA DENOMINACIÓN DEL CAPÍTULO IX; Y ADICIONA LA FRACCIÓN VII AL ARTÍCULO 2 BIS, TODAS DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
