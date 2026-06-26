@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-registro-civil-para-el-estado-de-nuevo-leon-60741"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2018-01-08"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 8 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 10 de abril de 2008.
 
@@ -84,6 +84,10 @@ Los servicios proporcionados por el Registro Civil, causarán los derechos que e
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
 La inscripción de actas de nacimiento en el Registro Civil, así como la expedición de la primera copia certificada del acta de nacimiento se realizará de forma gratuita.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+La inscripción del acta de defunción y sus anotaciones marginales en el Registro Civil, así como la expedición de la primera copia certificada del acta de defunción se realizará de forma gratuita.
 
 ###### Artículo 6.
 
@@ -874,3 +878,17 @@ En caso de que los recursos aportados al fondo no sean suficientes para garantiz
 Para efecto de los cálculos señalados en los párrafos que anteceden se utilizará la información más reciente con que cuente el Instituto Nacional de Estadística y Geografía.
 
 El Ejecutivo del Estado fijará los lineamientos y las reglas de operación de fondo antes descrito antes del 1 de febrero del 2018.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 224. SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 5 DE LA LEY DE REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En lo relativo al Artículo 270 de la Ley de Hacienda del Estado de Nuevo León del Expediente 17188/LXXVI será resuelto por la Comisión de Presupuesto de acuerdo con las atribuciones conferidas por el Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León.
+
+TERCERO.- En lo relativo al Artículo 5 de la Ley de Registro Civil para el Estado de Nuevo León, se realizará conforme a la suficiencia presupuestal y se contemplará una partida dentro del presupuesto para el próximo ejercicio fiscal 2027.
+
+CUARTO.- Se dará un periodo de 120 días hábiles para que se realicen las modificaciones pertinentes al reglamento del Registro Civil.
+
+QUINTO.- En lo relativo al Registro Estatal de Obligaciones Alimentarias en cuanto no se tenga un registro estatal vigente, solo se contemplará lo relativo al Registro Nacional de Obligaciones Alimentarias.
