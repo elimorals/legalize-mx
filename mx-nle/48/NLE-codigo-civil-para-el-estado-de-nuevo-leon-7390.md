@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2026-01-16"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -461,11 +461,17 @@ Art. 28 Bis III.- El domicilio legal de la persona física es el lugar donde la 
 
 Art. 28 Bis IV.- Se reputa domicilio legal:
 
-I.- Del menor de edad no emancipado, el de la persona o personas a cuya patria potestad está sujeto.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-II.- Del menor que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor.
+I.- De la niña, niño o adolescente no emancipado, el de la persona o personas a cuya patria potestad está sujeto.
 
-III.- En caso de menores o incapaces abandonados, el que resulte conforme a las circunstancias previstas en los artículos correspondientes del presente Código.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+II.- De la niña, niño o adolescente que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor.
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+III.- En caso de niñas, niños o adolescentes o incapaces abandonados, el que resulte conforme a las circunstancias previstas en los artículos correspondientes del presente Código.
 
 IV.- De los militares en servicio activo, el lugar en que estén destinados.
 
@@ -531,7 +537,9 @@ La capacidad jurídica es de goce y de ejercicio.
 
 Capacidad de goce es la aptitud para ser titular de derechos y obligaciones.
 
-Capacidad de ejercicio es la aptitud para ejercitar derechos y cumplir obligaciones por sí mismo, la tienen los mayores de edad, en pleno uso de sus facultades mentales, y los menores emancipados en los casos declarados expresamente.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Capacidad de ejercicio es la aptitud para ejercitar derechos y cumplir obligaciones por sí mismo, la tienen los mayores de edad, en pleno uso de sus facultades mentales, y las niñas, niños o adolescentes emancipados en los casos declarados expresamente.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -751,11 +759,13 @@ La Dirección General del Registro Civil, a través de sus Oficialías, tendrá 
 
 El estado civil de las personas solo se comprueba con las copias certificadas de las actas del Registro Civil. Ningún otro medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la Ley.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 48.
 
-Cuando la edad del menor no exceda evidentemente de siete años o se acredite dicha circunstancia con certificado médico legal, el Oficial del Registro Civil hará la inscripción conforme a las disposiciones relativas a este Código y a la Ley del Registro Civil.
+Cuando la edad de la niña o niño no exceda evidentemente de siete años o se acredite dicha circunstancia con certificado médico legal, el Oficial del Registro Civil hará la inscripción conforme a las disposiciones relativas a este Código y a la Ley del Registro Civil.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 Cuando no hayan existido los libros, se hayan perdido, estuvieren ilegibles o faltaren las actas en que se pueda suponer se encontraba la inscripción, el Oficial del Registro Civil lo hará del conocimiento de la Dirección para que de acuerdo a lo preceptuado en este Código y en la Ley del Registro Civil acuerde lo conducente, y de no ser posible su inscripción en forma administrativa, quedarán a salvo los derechos de los interesados, para ocurrir en Jurisdicción Voluntaria a acreditar el hecho o acto correspondiente materia de la inscripción y exhibir, para dicho efecto, ante el Oficial del Registro Civil, la copia certificada de la resolución que se pronuncie.
 
@@ -815,17 +825,19 @@ Los hechos y actos del estado civil del propio Oficial, de su cónyuge, ascendie
 
 ### CAPITULO II. ACTAS DE NACIMIENTO
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 57.
 
-Las declaraciones de nacimiento se harán presentando al menor ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre el menor. Esta presentación no tendrá lugar cuando exista el certificado de nacido vivo o de nacimiento a que se refiere el artículo siguiente, cuyo documento será suficiente para el registro.
+Las declaraciones de nacimiento se harán presentando a la niña o niño ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre la niña o niño. Esta presentación no tendrá lugar cuando exista el certificado de nacido vivo o de nacimiento a que se refiere el artículo siguiente, cuyo documento será suficiente para el registro.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 58.
 
-Tienen obligación de declarar el nacimiento ante el Oficial del Registro Civil, el padre y la madre o cualquiera de ellos inmediatamente, y cuando esto no fuera dentro de los treinta días naturales de ocurrido. A falta de los padres, o por incapacidad de ellos, en igual plazo están obligados a hacerlo los abuelos, el hombre o la mujer jefe de familia en cuya casa haya tenido lugar el alumbramiento si éste ocurrió fuera del lugar de residencia de la madre. Los médicos, cirujanos o parteras que hubieren asistido al parto, tienen obligación de entregar el certificado de nacido vivo o de nacimiento, de muerte fetal o de defunción, en los términos de la ley aplicable. Asimismo, tienen obligación de dar aviso del nacimiento de un menor, al Director del Registro Civil inmediatamente dentro de los tres días siguientes a la expedición del certificado de nacido vivo o nacimiento, a través del formato que para tal efecto expida la Dirección del Registro Civil, el cual deberá contener como mínimo los siguientes datos: nombre, apellidos, edad y domicilio de la madre, así como la huella del dedo pulgar derecho de la madre, lugar y fecha del nacimiento y sexo del menor y demás datos que se establezcan en la Ley del Registro Civil y su Reglamento.
+Tienen obligación de declarar el nacimiento ante el Oficial del Registro Civil, el padre y la madre o cualquiera de ellos inmediatamente, y cuando esto no fuera dentro de los treinta días naturales de ocurrido. A falta de los padres, o por incapacidad de ellos, en igual plazo están obligados a hacerlo los abuelos, el hombre o la mujer jefe de familia en cuya casa haya tenido lugar el alumbramiento si éste ocurrió fuera del lugar de residencia de la madre. Los médicos, cirujanos o parteras que hubieren asistido al parto, tienen obligación de entregar el certificado de nacido vivo o de nacimiento, de muerte fetal o de defunción, en los términos de la ley aplicable. Asimismo, tienen obligación de dar aviso del nacimiento de una niña o niño, al Director del Registro Civil inmediatamente dentro de los tres días siguientes a la expedición del certificado de nacido vivo o nacimiento, a través del formato que para tal efecto expida la Dirección del Registro Civil, el cual deberá contener como mínimo los siguientes datos: nombre, apellidos, edad y domicilio de la madre, así como la huella del dedo pulgar derecho de la madre, lugar y fecha del nacimiento y sexo de la niña o niño y demás datos que se establezcan en la Ley del Registro Civil y su Reglamento.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 Recibido el certificado, el Oficial del Registro Civil en observancia a lo dispuesto por el artículo 337, levantará el acta de nacimiento conforme a las disposiciones relativas, o en su caso expedirá la orden de inhumación.
 
@@ -847,11 +859,11 @@ En el caso de no exhibirse el mencionado certificado, se tomará al margen del a
 
 Si el nacimiento ocurriere en un establecimiento de reclusión, el Oficial del Registro Civil deberá asentar como domicilio del nacido el Municipio donde haya acontecido.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 60.
 
-Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio de sus padres, se asentará a éstos como sus progenitores, salvo sentencia ejecutoria en contrario.
+Cuando al presentar a la niña o niño se exhiba copia certificada del acta de matrimonio de sus padres, se asentará a éstos como sus progenitores, salvo sentencia ejecutoria en contrario.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -873,13 +885,13 @@ En los términos de este capítulo, el padre y la madre que no estuvieren casado
 
 Cuando no sea reconocido el hijo durante la minoría de edad, el Ministerio Público podrá hacer la investigación de la paternidad o maternidad ante los Tribunales de acuerdo con las disposiciones relativas en este Código.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Cuando la hija o hijo de mujer soltera no sea reconocido voluntariamente por el padre, la madre en los términos de lo dispuesto por la Ley del Registro Civil y su Reglamento, podrá acudir ante el Oficial del Registro Civil a solicitar sea inscrito el nacimiento del menor y se ejerza plenamente el derecho a la identidad.
+Cuando la hija o hijo de mujer soltera no sea reconocido voluntariamente por el padre, la madre en los términos de lo dispuesto por la Ley del Registro Civil y su Reglamento, podrá acudir ante el Oficial del Registro Civil a solicitar sea inscrito el nacimiento de la niña o niño y se ejerza plenamente el derecho a la identidad.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Por ningún motivo se asentará que un menor de edad es de padre o madre desconocido, ni se utilizarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota, se testarán de oficio dichas palabras por quien tenga a su cargo las actas.
+Por ningún motivo se asentará que una niña o niño es de padre o madre desconocido, ni se utilizarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota, se testarán de oficio dichas palabras por quien tenga a su cargo las actas.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
@@ -903,15 +915,19 @@ II.- Si la madre manifiesta que no vive con su marido, en los trescientos días 
 
 El marido podrá reclamar judicialmente la paternidad constituida en los términos anteriores y deberá probarla a través de cualquiera de los medios de prueba autorizados por la ley. El plazo para hacer valer esta acción será de un año contado a partir de la inscripción del nacimiento de la hija o hijo ante el Oficial del Registro Civil, si está presente; desde el día en que llegó al lugar, si estuvo ausente; desde el día en que descubrió el hecho, si no sabía del nacimiento.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 65.
 
-Toda persona que encontrare un menor de edad abandonado, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo ante la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León o ante el Ministerio Público, con los vestidos, papeles u otros objetos encontrados con él, declarando el día y el lugar donde lo hubiere hallado, así como las demás circunstancias que hayan concurrido. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, en su caso, solicitará al Oficial del Registro Civil que levante el acta de nacimiento y, la primera, dará aviso al Ministerio Público poniendo al menor bajo la custodia de la Institución pública o privada correspondiente.
+Toda persona que encontrare una niña, niño o adolescente abandonado, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo ante la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León o ante el Ministerio Público, con los vestidos, papeles u otros objetos encontrados con él, declarando el día y el lugar donde lo hubiere hallado, así como las demás circunstancias que hayan concurrido. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, en su caso, solicitará al Oficial del Registro Civil que levante el acta de nacimiento y, la primera, dará aviso al Ministerio Público poniendo a la niña, niño o adolescente bajo la custodia de la Institución pública o privada correspondiente.
 
-Menor de edad abandonado es aquél cuyos progenitores o encargados de ejercer sobre él la custodia, patria potestad o tutela, sin causa justificada desatiendan o incumplan las obligaciones a las que están compelidos por disposición de Ley, aun cuando esta circunstancia no represente un riesgo para el menor, sin importar el lugar donde ocurra.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Expósito es el menor de edad abandonado en cualquier lugar y de quien se desconoce su identidad y la de sus progenitores.
+La niña, niño o adolescente abandonado es aquél cuyos progenitores encargados de ejercer sobre él la custodia, patria potestad o tutela, sin causa justificada desatiendan o incumplan las obligaciones a las que están compelidos por disposición de Ley, aun cuando esta circunstancia no represente un riesgo para la niña, niño o adolescente, sin importar el lugar donde ocurra.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Expósito es la niña, niño o adolescente abandonado en cualquier lugar y de quien se desconoce su identidad y la de sus progenitores.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -925,11 +941,11 @@ La misma obligación tienen los jefes, directores o administradores de las prisi
 
 En las actas que se levanten en tales casos, se expresarán las circunstancias que señala el artículo 65, la edad aparente de la niña o niño, su sexo, el nombre y apellido que se le ponga y el nombre de la persona o institución que se encargue de él.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 68.
 
-Si con el expósito o menor de edad abandonado se hubieren encontrado papeles u objetos que puedan conducir a la identificación de aquél, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León ordenará sea confiado al Ministerio Público respectivo, quien lo hará constar en el acta circunstanciada correspondiente, de la cual entregará copia a quien recoja al menor.
+Si con el expósito o la niña, niño o adolescente abandonado se hubieren encontrado papeles u objetos que puedan conducir a la identificación de aquél, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León ordenará sea confiado al Ministerio Público respectivo, quien lo hará constar en el acta circunstanciada correspondiente, de la cual entregará copia a quien lo recoja.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -937,9 +953,9 @@ Si con el expósito o menor de edad abandonado se hubieren encontrado papeles u 
 
 Se prohíbe al Oficial del Registro Civil y a los testigos que conforme al artículo 59 deban asistir al acto, hacer inquisición sobre la paternidad o maternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten a la niña o niño y los testigos.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Cuando el Oficial del Registro Civil sospeche que quien o quienes presenten al menor de edad, atestigüe falsamente, enviará las constancias al Ministerio Público, para los fines a que haya lugar y avisará a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, suspendiendo el trámite hasta en tanto se resuelva.
+Cuando el Oficial del Registro Civil sospeche que quien o quienes presenten a la niña o niño, atestigüe falsamente, enviará las constancias al Ministerio Público, para los fines a que haya lugar y avisará a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, suspendiendo el trámite hasta en tanto se resuelva.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1109,9 +1125,9 @@ III.- Que no tienen impedimento legal para casarse;
 
 IV.- Que es su voluntad unirse en matrimonio; y
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-V. Que no se encuentre inscrito en el registro de deudores alimentarios.
+V. Que no estén inscritos dentro del Registro Nacional de Obligaciones Alimentarias, ni en el Registro Estatal de Obligaciones Alimentarias, o en caso contrario, acreditar mediante resolución judicial, que se encuentra al corriente con el cumplimiento de las obligaciones alimentarias que han generado su inscripción en alguno de esos registros.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1339,11 +1355,19 @@ Extendida el acta se anotarán marginalmente en las de nacimiento y matrimonio d
 
 Ninguna inhumación o cremación se harán sin autorización escrita del Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento por certificado expedido por médico titulado. No se procederá a la inhumación o cremación sino después de que transcurran veinticuatro horas del fallecimiento, excepto los casos en que se ordene otra cosa por la autoridad que corresponda.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 118.
 
-En el acta de defunción se asentarán los datos que el Oficial del Registro Civil reciba de la declaración que se le haga y será firmada por dos testigos, prefiriendo para el caso a los parientes, si los hay, o a los vecinos.
+La solicitud del acta de defunción se realizará al momento que se solicite la autorización comprendida en el artículo 117.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+La declaración del acta de defunción podrá ser autorizada por la persona que haya obtenido la autorización de inhumación o cremación, o en su defecto, por un familiar de hasta cuarto grado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Las actas de defunción deberán ser expedidas dentro del término de cinco días hábiles siguientes contados a partir de su formal solicitud.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1357,7 +1381,9 @@ II.- Si era casado o viudo, el nombre, apellidos y nacionalidad de su cónyuge;
 
 III.- Los nombres y apellidos de los padres del difunto;
 
-IV.- La causa que determinó la muerte, el destino del cadáver, nombre y ubicación del panteón o crematorio;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+IV.- La causa que determinó la muerte de acuerdo con lo establecido en el certificado de defunción, el destino del cadáver, nombre y ubicación del panteón o crematorio;
 
 V.- La hora, día, mes, año y lugar de la muerte y todos los informes que se obtengan en caso de muerte violenta;
 
@@ -1367,11 +1393,11 @@ VII.- Nombre, apellidos, edad, nacionalidad y domicilio del declarante y grado d
 
 VIII.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos y si fueren parientes del difunto el grado en que lo sean.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 120.
 
-Los que habiten la casa en que ocurra el fallecimiento, los directores y administradores de los establecimientos de reclusión, hospitales, colegios o cualquier otra casa de comunidad, los encargados de los hoteles, mesones o las casas de vecindad, tienen obligación de dar aviso al Oficial del Registro Civil dentro de las veinticuatro horas siguientes al fallecimiento.
+Los que habiten la casa en que ocurra el fallecimiento, los familiares hasta en cuarto grado, los Agentes del Ministerio Público, los directores y administradores de los establecimientos de reclusión, hospitales, colegios o cualquier otra casa de comunidad, los encargados de los hoteles, mesones o las casas de vecindad, las entidades públicas de protección de derechos de infancia y personas adultas mayores, así como las personas declaradas judicialmente como tutores o persona de apoyo para el ejercicio de la capacidad jurídica de la persona finada, tienen obligación de dar aviso al Oficial del Registro Civil dentro de las veinticuatro horas siguientes al fallecimiento que ocurra en el Estado de Nuevo León.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -2049,13 +2075,21 @@ Son aplicables a las donaciones antenupciales las reglas de las donaciones comun
 
 ### CAPITULO VIII. DE LAS DONACIONES ENTRE CONSORTES
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 232.
 
-Los consortes pueden hacerse donaciones; pero sólo se confirman con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+Los consortes pueden hacerse donaciones, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 233.
 
-Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo por los donantes.
+Las donaciones entre consortes pueden ser revocadas por ingratitud, conforme a lo dispuesto en el artículo 2264 de este Código.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+En todo caso la revocación de las donaciones entre consortes deberá resolverse mediante resolución judicial a fin de garantizar su debida protección.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -2189,11 +2223,11 @@ La buena fé se presume; para destruir esta presunción se requiere prueba plena
 
 Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 282.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 259.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre acordarán la forma y términos de la custodia de las hijas e hijos. El Juez podrá oponerse a este acuerdo cuando según las circunstancias del caso, el bienestar de las hijas e hijos resulte perjudicado, debiendo tener en cuenta lo establecido por el artículo 414 bis.
+Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre acordarán la forma y términos de la custodia de las hijas e hijos, el juez deberá de respetar el derecho de opinión de las niñas, niños o adolescentes, cuando estos lo puedan ejercer. El Juez podrá oponerse a este acuerdo cuando según las circunstancias del caso, el bienestar de las hijas e hijos resulte perjudicado, debiendo tener en cuenta lo establecido por el artículo 414 bis.
 
 ###### Art. 260.
 
@@ -2233,11 +2267,11 @@ I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que
 
 II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 159, y cuando se celebre contraviniendo lo dispuesto en el artículo 289.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 265.
 
-Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor y los que autoricen esos matrimonios, incurrirán en las penas que señala el Código de la materia.
+Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con una niña, niño o adolescente y los que autoricen esos matrimonios, incurrirán en las penas que señala el Código de la materia.
 
 ### CAPITULO X. DEL DIVORCIO
 
@@ -2269,9 +2303,9 @@ I.- El nombre y apellidos, domicilio donde reside, nacionalidad, edad, grado esc
 
 II.- El nombre, apellidos, ocupación u oficio y domicilio donde reside su cónyuge;
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-III.- La exposición clara, sucinta, en párrafos numerados, de la situación que guarda en relación a su cónyuge y sus hijas e hijos menores de edad o incapaces, debiendo indicar edad, grado escolar y el lugar en que estos últimos residen; y
+III.- La exposición clara, sucinta, en párrafos numerados, de la situación que guarda en relación a su cónyuge y sus hijas e hijos menores de edad o incapaces, debiendo indicar edad, grado escolar, así como el lugar en que estos últimos residen, y en su caso si cuentan con animales de compañía; y
 
 IV.- La propuesta de convenio para regular las consecuencias jurídicas del divorcio en los términos de este Código.
 
@@ -2281,17 +2315,27 @@ IV.- La propuesta de convenio para regular las consecuencias jurídicas del divo
 
 La falta o deficiente presentación de la propuesta de convenio a que se refiere el artículo anterior, no será obstáculo para admitir a trámite la solicitud.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 272.
 
-Procederá el divorcio administrativo cuando ambos consortes convengan en divorciarse y sean mayores de edad, tengan más de un año de casados, no tengan hijas o hijos o teniéndolos estos sean mayores de edad y no sean incapaces, carezcan de bienes, o que de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron o tratándose de separación de bienes hubieren acordado la compensación que uno dará al otro, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+Procederá el divorcio administrativo cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijas o hijos o teniéndolos estos sean mayores de edad y no sean incapaces, carezcan de bienes, o que de común acuerdo hubieren liquidado la sociedad conyugal.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE JUNIO DE 2026)</small>
 
-El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijas o hijos menores de edad o incapaces sin importar la edad, son menores de edad o no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.
+Para tramitar el divorcio administrativo los cónyuges únicamente deberán presentar solicitud en formato establecido por el Registro Civil debidamente requisitada en la que manifiesten su voluntad de divorciarse y el pago de derechos correspondiente.
 
-Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE JUNIO DE 2026)</small>
+
+Los cónyuges podrán hacer valer sus derechos sobre la liquidación de la sociedad conyugal y otros asuntos derivados del vínculo matrimonial por la vía judicial o notarial según corresponda.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE JUNIO DE 2026)</small>
+
+El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijas o hijos menores de dieciocho años o incapaces, o no hayan liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE JUNIO DE 2026)</small>
+
+Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo o aun encontrándose prefieran la vía judicial, pueden divorciarse por mutuo consentimiento, ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos Civiles
 
 ###### Art. 273.
 
@@ -2315,11 +2359,11 @@ La reconciliación de los cónyuges pone término al divorcio en cualquier estad
 
 La persona que no quiera pedir el divorcio incausado cuando su cónyuge padezca una enfermedad crónica o incurable que sea, además, contagiosa o hereditaria que ponga en riesgo la salud del cónyuge o de los demás miembros de la familia o por haber sido declarado el estado de interdicción mediante sentencia que haya causado ejecutoria, podrá solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el Juez, con conocimiento de causa, podrá decretar esa suspensión, aplicando todas las medidas de naturaleza cautelar necesarias para tal efecto, quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 277.
 
-En la sentencia de divorcio incausado el juez declarará que, de no existir convenio entre los progenitores ni sentencia firme que defina respecto de la custodia y convivencia en relación a sus hijos menores o incapaces, quedan obligados para con estos y cualquier cuestión al respecto, podrá ejercitarse a través de la vía incidental o en juicio autónomo según las circunstancias del caso, a fin de que el juez resuelva lo conducente en los términos de este Código y el Código de Procedimientos Civiles para el Estado.
+En la sentencia de divorcio incausado el juez declarará que, de no existir convenio entre los progenitores ni sentencia firme que defina respecto de la custodia y convivencia en relación a sus hijos niñas niños o adolescentes o incapaces, podrá ejercitarse a través de la vía incidental o en juicio autónomo según las circunstancias del caso, a fin de que el juez resuelva lo conducente en los términos de este Código y el Código de Procedimientos Civiles para el Estado.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -2353,11 +2397,35 @@ Quien reclame el derecho a la pensión compensatoria que regulan los artículos 
 
 Si la contraparte la desvirtúa y se hubiere pagado en todo o en parte dicha pensión, el juez ordenará en la sentencia incidental que se le reintegre lo que hubiere otorgado más el interés legal correspondiente y dará conocimiento del Ministerio Público, para los efectos a que hubiere lugar.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+###### Art. 281 Bis.
+
+En los casos de divorcio, cuando los cónyuges sean propietarios de uno o más animales de compañía, el convenio o la resolución judicial deberá prever un régimen de tutela que procure su bienestar integral.
+
+Las partes podrán convenir, de común acuerdo, a cuál de ellas corresponderá la tutela de los animales de compañía. En caso de desacuerdo, deberán someterse a un procedimiento de mediación. Si éste no prospera, el juez de lo familiar resolverá lo conducente, considerando criterios orientados a procurar el bienestar del animal, valorando, entre otros, los siguientes elementos:
+
+I. La aptitud de cada parte para proporcionar un entorno seguro y adecuado;
+
+II. La relación afectiva previa del animal con cada uno de los cónyuges;
+
+III. La disponibilidad de tiempo y recursos materiales para su cuidado;
+
+IV. La existencia de antecedentes de maltrato, negligencia o trato indigno; y
+
+V. Otros elementos que, a juicio del juzgador, resulten relevantes para salvaguardar el bienestar del animal.
+
+En aquellos casos en que se hubiere establecido un régimen de guarda y custodia respecto de hijas, hijos o personas menores de edad, y se manifieste la existencia de un vínculo afectivo relevante entre éstos y los animales de compañía, dicho régimen podrá considerarse como elemento auxiliar para la determinación de la tutela animal, a fin de preservar la estabilidad emocional de las personas menores y el vínculo humano-animal.
+
+Cuando el vínculo afectivo del animal de compañía con alguna de las partes fuere motivo de controversia, dicho vínculo podrá acreditarse mediante dictamen especializado emitido por un profesional en etología, ofrecido por las partes.
+
+El juez podrá establecer un régimen de tutela compartida, cuando estime que ello resulte benéfico para el animal, debiendo precisar las obligaciones de cada parte respecto al cuidado, alimentación, atención veterinaria y convivencia con el mismo.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 282.
 
-En el caso de que las partes lleguen a un convenio después de haberse resuelto el divorcio incausado, lo harán del conocimiento del juez para su aprobación si este no contraviene alguna disposición legal, previa la intervención del Ministerio Público si involucra derechos de menores o incapaces.
+En el caso de que las partes lleguen a un convenio después de haberse resuelto el divorcio incausado, lo harán del conocimiento del juez para su aprobación si este no contraviene alguna disposición legal, previa la intervención del Ministerio Público si involucra derechos de niñas, niños o adolescentes o incapaces.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2365,7 +2433,9 @@ En el caso de que las partes lleguen a un convenio después de haberse resuelto 
 
 Antes de emitir la sentencia incidental que resuelva las consecuencias jurídicas, el juez de oficio o a petición de parte interesada, se allegará de elementos probatorios durante el procedimiento para resolver el objeto del debate.
 
-En caso de existir menores, el juez escuchará su opinión conforme a su edad y madurez.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+En caso de existir niñas, niños o adolescentes, el juez escuchará su opinión conforme a su edad y madurez, observando el principio del interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2529,9 +2599,11 @@ A falta o por imposibilidad de los ascendientes o descendientes, la obligación 
 
 Faltando los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales dentro del cuarto grado.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 306.
 
-Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
+Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a las niñas, niños o adolescentes, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2539,11 +2611,11 @@ Los hermanos y demás parientes colaterales a que se refiere el artículo anteri
 
 Tratándose de alimentos en la adopción, se aplicará lo dispuesto por los Artículos 303, 304, 305, 306.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 308.
 
-Los alimentos comprenden la manutención en general que incluye entre otros, la comida, el vestido, la habitación y la salud. Respecto de los menores de edad, los alimentos comprenderán, además, los gastos necesarios para la educación inicial, preescolar, primaria, secundaria, media superior o en su caso especial del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su edad y circunstancias personales, lo cual también deberá considerarse respecto de los mayores de edad, cuando el caso así lo amerite.
+Los alimentos comprenden la manutención en general que incluye entre otros, la comida, el vestido, la habitación y la salud. Respecto de las niñas, niños o adolescentes, los alimentos comprenderán además, los gastos necesarios para su sano esparcimiento, así como, la educación inicial, preescolar, primaria, secundaria, media superior y superior del alimentista para proporcionarle algún oficio, arte o profesión honestos y adecuados a su edad y circunstancias personales, lo cual también deberá considerarse respecto de los mayores de dieciocho años, cuando el caso así lo amerite.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2020)</small>
 
@@ -2583,6 +2655,22 @@ Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el
 
 El Juzgador se allegará de los medios de prueba que estime pertinentes, para conocer la capacidad económica del deudor o deudores, y las necesidades particulares de los acreedores alimentarios, que le permitan fijar objetivamente la pensión correspondiente atendiendo al principio de proporcionalidad.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+###### Art. 311 Bis.
+
+Aquella persona que incumpla con los alimentos decretados por convenio o por resolución judicial, por un periodo mayor de dos meses o sesenta días naturales, continuos o discontinuos, se constituirá en deudor alimentario moroso.
+
+El Juez ordenará su inscripción en el Registro Nacional de Obligaciones Alimentarias y en el Registro Estatal de Obligaciones Alimentarias, de acuerdo a lo establecido en los lineamientos estatales y nacionales en la materia.
+
+El Juez ordenará al Registro Público de la Propiedad a efecto de que realice la anotación respectiva, en las inscripciones de que sea propietario el deudor alimentario moroso, para que se prohíba transmitir, modificar, limitar, extinguir la propiedad o posesión de bienes raíces o cualquier derecho real, debiendo informar si fue procedente la anotación.
+
+A su vez, el Juez dará aviso a la Secretaria General de Gobierno, de acuerdo a lo establecido en la fracción XVI del Artículo 22 de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, para que por su conducto se haga de conocimiento a los Notarios del Estado que el deudor alimentario moroso cuenta con las prohibiciones señaladas en el párrafo anterior. Igualmente, para que de inmediato informen al Juez, en caso de que el deudor alimentario moroso pretenda realizar cualquiera de los actos jurídicos señalados en el párrafo anterior.
+
+El deudor alimentario declarado judicialmente como moroso, que acredite con posterioridad ante el Juez que realizó la citada declaratoria, que han sido pagados en su totalidad los adeudos motivo de la inscripción ante el Registro Nacional de Obligaciones Alimentarias y el Registro Estatal de Obligaciones Alimentarias, podrá solicitar al mismo se realice la correspondiente modificación de estatus por pago en el citado Registro Nacional y Estatal, así como la cancelación de las inscripciones y avisos referidos en los párrafos anteriores.
+
+El juez cancelará las inscripciones y avisos a que se refiere este artículo y comunicará esa determinación al Registro Público de la Propiedad y a la Secretaria General de Gobierno.
+
 ###### Art. 312.
 
 Si fueren varios los que deben dar los alimentos y todos tuvieren posibilidad para hacerlo, el juez repartirá el importe entre ellos, en proporción a sus haberes.
@@ -2611,15 +2699,21 @@ III.- El tutor;
 
 IV.- Los hermanos y demás parientes colaterales dentro del cuarto grado;
 
-V.- El Ministerio Público.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+V.- El Ministerio Público;
 
-VI.- La persona que tenga bajo su cuidado, custodia o depósito a un menor de edad.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+VI.- La persona que tenga bajo su cuidado, custodia o depósito a una niña, niño o adolescente;
 
-VII.- La Procuraduría de Protección prevista en el artículo 138 de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Nuevo León, dejando a salvo los derechos de los interesados.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VII.- La Procuraduría de Protección prevista en el artículo 138 de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Nuevo León, dejando a salvo los derechos de los interesados; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VIII.- La Procuraduría de la Defensa del Adulto Mayor prevista en el artículo 52 de la Ley de los Derechos de las Personas Adultas Mayores en el Estado de Nuevo León, dejando a salvo los derechos de los interesados.
 
 ###### Art. 316.
 
@@ -2665,6 +2759,10 @@ VI.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2016)
 
 En cualquiera de los supuestos anteriores, de cambiar las circunstancias que originaron la suspensión, podrá reclamarse en la vía incidental atendiendo la necesidad de quien los reclama y la posibilidad de quien debe otorgarlos.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Cuando se alegue como causa de suspensión de la obligación alimentaria que el acreedor mayor de edad que no ha iniciado la educación superior de manera inmediata a la conclusión de la educación media superior, el Juez o la Jueza deberá valorar atendiendo las circunstancias de cada caso si la dilación obedece a negligencia o falta de interés del acreedor, o si resulta de causas justificadas, ajenas a su voluntad o propias del proceso de admisión académico.
+
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
 
 ###### Art. 320 Bis.
@@ -2705,7 +2803,9 @@ III.- En caso de ingratitud del acreedor hacia el deudor y en los supuestos cont
 
 IV.- Por matrimonio del acreedor o por convivencia con fines semejantes al matrimonio con otra persona;
 
-V.- Cuando el deudor se oponga o dificulte la convivencia entre el deudor y sus hijos;
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+V.- Cuando el acreedor se oponga o dificulte la convivencia entre el deudor y sus hijos;
 
 VI.- Cuando la necesidad de la pensión dependa de la conducta viciosa o de la falta de aplicación al trabajo del deudor, mientras subsistan estas causas; y
 
@@ -2715,11 +2815,11 @@ VII.- Por el vencimiento del plazo por el que se estableció.
 
 El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 321 Bis.
 
-La mujer embarazada que acredite legalmente la paternidad de su hija o hijo, los menores, las personas con discapacidad, los adultos mayores, los sujetos de interdicción y el cónyuge que se dedique al hogar, gozan de la presunción de necesitar alimentos.
+La mujer embarazada que acredite legalmente la paternidad de su hija o hijo, las niñas, niños o adolescentes, las personas con discapacidad, los adultos mayores, los sujetos de interdicción y el cónyuge que se dedique al hogar, gozan de la presunción de necesitar alimentos.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
@@ -2755,11 +2855,35 @@ III.- El trabajo, puesto, cargo o comisión que desempeñará.
 
 Lo anterior a partir de que ocurra el cambio de trabajo o centro de trabajo, a efecto de que se actualice la pensión alimenticia decretada.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+###### Art. 321 Bis 4.
+
+Cuando exista una determinación judicial que decrete el deber de cumplir con una obligación alimentaria a un ascendiente, y existan dos o más descendientes en primer grado, quienes se hayan dedicado preponderantemente al cuidado de su madre o padre podrán tener derecho a una compensación resarcitoria a cargo de las personas deudoras que hubieren incumplido con su obligación, que cubra los aspectos sociales y económicos que por motivo de dicha actividad hayan sufragado y dejado de percibir o ejercer, de conformidad con la determinación judicial que al efecto se decrete.
+
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
 ###### Art. 322.
 
 Cuando el marido no estuviere presente, o estándolo rehusare entregar a la mujer lo necesario para los alimentos de ella y de las hijas e hijos, será responsable de las deudas que la esposa contraiga para cubrir esa exigencia; pero solo en la cuantía estrictamente necesaria para ese objeto, y siempre que no se trate de gastos de lujo.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+###### Art. 322 Bis.
+
+Cuando el deudor alimentario incumpla su obligación, esté desempleado y no cuente con otros medios líquidos para cumplirla, el juez podrá ordenar, previa valoración fundada y motivada de la urgencia y necesidad, el embargo o disposición de hasta el diez por ciento del saldo de la cuenta individual de ahorro para el retiro del obligado.
+
+Para tal efecto, se deberán observar los siguientes criterios:
+
+I. Verificar que el deudor no cuente con empleo o ingresos líquidos suficientes para cumplir la obligación alimentaria;
+
+II. Priorizar los retiros voluntarios. En caso de que no existan aportaciones voluntarias o ya se haya embargado, proceder al embargo de la subcuenta de retiro, cesantía en edad avanzada y vejez;
+
+III. El monto embargado no podrá exceder el equivalente a sesenta y cinco días del salario mínimo vigente ni el diez por ciento del saldo de la cuenta individual, lo que resulte menor; y
+
+IV. La autoridad judicial deberá notificar de inmediato a la administradora de fondos para que proceda conforme a derecho.
+
+Esta disposición se aplicará sin perjuicio de otras medidas para el cumplimiento de la obligación alimentaria establecidas en la legislación vigente.
 
 ###### Art. 323.
 
@@ -2873,7 +2997,9 @@ I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus
 
 II. Prohibición al agresor de enajenar, dar en prenda o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal y, en cualquier caso, cuando se trate de bienes de la sociedad conyugal, ordenando la inscripción de esta medida en el Registro Público de la Propiedad y del Comercio en cada caso;
 
-III. Posesión exclusiva de la victima sobre el inmueble que sirvió de domicilio, por el tiempo que dure el procedimiento, debiéndose preservar los derechos del menor a la convivencia;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio, por el tiempo que dure el procedimiento, debiéndose preservar los derechos de las niñas, niños o adolescentes a la convivencia;
 
 IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad y del Comercio, a efecto de garantizar las obligaciones alimenticias; y
 
@@ -2981,11 +3107,11 @@ III.- La hija o hijo se presume nacido fuera del matrimonio si nace antes de cie
 
 El desconocimiento de una hija o hijo, de parte del marido o de sus herederos, se hará por demanda en forma ante el juez competente. Todo desconocimiento practicado de otra manera es nulo.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 336.
 
-En el juicio de contradicción de la paternidad serán oídos la madre y la hija o hijo, a quien, si fuere menor se proveerá de un tutor interino.
+En el juicio de contradicción de la paternidad serán oídos la madre y la hija o hijo, a quien, si fuere menor de dieciocho años se le proveerá de un tutor interino.
 
 ###### Art. 337.
 
@@ -3239,17 +3365,17 @@ El hombre o la mujer podrán reconocer a una hija o hijo habido antes de su matr
 
 La hija o hijo de una mujer casada no podrá ser reconocido como hija o hijo por otro hombre distinto del marido, salvo lo dispuesto por el artículo 64 o cuando el marido lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es su hija o hijo.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 375.
 
-La hija o hijo mayor de edad no puede ser reconocido sin su consentimiento, ni el menor sin el de su tutor si lo tiene, o el del tutor que el juez le nombrará especialmente para el caso.
+La hija o hijo mayor de edad no puede ser reconocido sin su consentimiento, ni la niña, niño o adolescente sin el de su tutor si lo tiene, o el del tutor que el juez le nombrará especialmente para el caso.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 376.
 
-Si la hija o hijo reconocido es menor de edad, puede reclamar contra el reconocimiento cuando llegue a la mayor edad.
+Si la hija o hijo reconocido es niña, niño o adolescente, puede reclamar contra su progenitor el reconocimiento cuando tenga dieciocho años de edad.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -3257,27 +3383,27 @@ Si la hija o hijo reconocido es menor de edad, puede reclamar contra el reconoci
 
 El término para deducir esta acción será de dos años, que comenzará a correr desde que la hija o hijo sea mayor de edad, si antes de serlo tuvo noticia del reconocimiento; y si no la tenía, desde la fecha en que la adquirió.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 378.
 
-La persona que cumpliendo con la edad establecida en el artículo 361 y que cuida o ha cuidado de la lactancia de un menor o le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hija o hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que otra persona haya hecho o pretenda hacer de ese menor. En este caso, no se le podrá separa (sic) de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
+La persona que cumpliendo con la edad establecida en el artículo 361 y que cuida o ha cuidado de la lactancia de una niña o niño o le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hija o hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que otra persona haya hecho o pretenda hacer de esa niña o niño. En este caso, no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
 
 ###### Art. 379.
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 380.
 
-Cuando el padre y la madre que no vivan juntos reconozcan a la hija o hijo en el mismo acto, convendrán cuál de los dos ejercerá sobre él la custodia; y en caso de que no lo hicieren, el Juez oyendo a los padres y al Ministerio Público, resolverán lo que creyere más conveniente al bienestar del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan a la hija o hijo en el mismo acto, convendrán cuál de los dos ejercerá sobre él la custodia; y en caso de que no lo hicieren, el Juez oyendo a los hijos, padres, y al Ministerio Público, resolverán lo que creyere más conveniente al bienestar de la niña, niño o adolescente, observando el principio del interés superior de la niñez.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 381.
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la custodia el que primero lo hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el juez no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
+En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la custodia el que primero lo hubiere reconocido, debiendo el Juez respetar el derecho de opinión, de la niña, niño o adolescente, cuando estén en condiciones de ejercerlo, salvo que se conviniere otra cosa entre los padres, y siempre que el juez no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
 
@@ -3367,15 +3493,15 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 #### SECCION PRIMERA. DE LA ADOPCION EN GENERAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 390.
 
-El mayor de veinticinco años, aún libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores, aún cuando se encuentren incapacitados, siempre que el adoptante tenga 15 años o más que el adoptado salvo en el caso de adopción entre personas con lazos de parentesco, y que acredite además:
+El mayor de veinticinco años, aún libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más niñas, niños o adolescentes, aún cuando se encuentren incapacitados, siempre que el adoptante tenga 15 años o más que el adoptado salvo en el caso de adopción entre personas con lazos de parentesco, y que acredite además:
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor, como hija o hijo propio, según las circunstancias de la persona que trata de adoptar;
+I.- Que tiene medios bastantes para proveer a la subsistencia y educación de la niña, niño o adolescente, como hija o hijo propio, según las circunstancias de la persona que trata de adoptar;
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -3397,17 +3523,17 @@ V.- Evaluación psicológica y socioeconómica practicada por instituciones púb
 
 VI.- Su identidad, historia familiar y razones para adoptar;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-VII.- La identidad, las circunstancias familiares y sociales, así como la historia médica y los antecedentes en materia de tradiciones, creencias y entorno cultural, del menor que se pretenda adoptar, siempre que no se trate de un menor expósito; y
+VII.- La identidad, las circunstancias familiares y sociales, así como la historia médica y los antecedentes en materia de tradiciones, creencias y entorno cultural, de la niña, niño o adolescente que se pretenda adoptar, siempre que no se trate de un infante expósito; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE ENERO DE 2009)</small>
 
 VIII.- Opinión del Consejo Estatal de Adopciones.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos o más menores simultáneamente, así como autorizar la adopción de un mayor de edad, siempre y cuando éste haya vivido como hija o hijo de los futuros adoptantes y este hecho sea de conocimiento público.
+Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos o más niñas, niños o adolescentes simultáneamente, así como autorizar la adopción de una persona mayor de dieciocho años de edad, siempre y cuando éste haya vivido como hija o hijo de los futuros adoptantes y este hecho sea de conocimiento público.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -3459,11 +3585,13 @@ III.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste 
 
 IV. Si el menor que se va a adoptar ha cumplido doce años, también se requerirá su consentimiento para la adopción. Si es menor de esa edad, deberán ser tomados en cuenta sus deseos y opiniones según su madurez. Previa atención psicológica en ambos supuestos.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-El consentimiento para la adopción puede ser expresado ante el Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, por las madres y padres biológicos, o quienes ejerzan la patria potestad sobre el presunto adoptado, debidamente identificados, quienes además presentarán el certificado de nacido vivo o certificación del acta de nacimiento del menor.
+El consentimiento para la adopción puede ser expresado ante el Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, por las madres y padres biológicos, o quienes ejerzan la patria potestad sobre el presunto adoptado, debidamente identificados, quienes además presentarán el certificado de nacido vivo o certificación del acta de nacimiento de la niña, niño o adolescente.
 
-El titular de la dependencia citada en el párrafo anterior, deberá instruir suficientemente a quienes otorguen el consentimiento ante él, así como informarle sobre los efectos de la adoción (sic) y constatar que el consentimiento es dado libremente, sin remuneración alguna y después del nacimiento del menor, y que éste no se ha revocado. Respecto del menor, éste será instruido e informado sobre los efectos de la adopción, y se tomarán en cuenta sus deseos y opiniones de acuerdo con la edad y el grado de madurez que tenga.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+El titular de la dependencia citada en el párrafo anterior, deberá instruir suficientemente a quienes otorguen el consentimiento ante él, así como informarle sobre los efectos de la adopción y constatar que el consentimiento es dado libremente, sin remuneración alguna y después del nacimiento de la niña, niño o adolescente, y que éste no se ha revocado. Respecto de la niña, niño o adolescente, éste será instruido e informado sobre los efectos de la adopción, y se tomarán en cuenta sus deseos y opiniones de acuerdo con la edad y el grado de madurez que tenga.
 
 Igual obligación tendrá el Juez que conozca de la adopción, respecto del consentimiento que sea manifestado ante él.
 
@@ -3471,13 +3599,21 @@ Igual obligación tendrá el Juez que conozca de la adopción, respecto del cons
 
 La retractación del consentimiento es posible antes de los 30 días contados a partir de que fue otorgado.
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Art. 394 BIS.- Las instituciones públicas o privadas autorizadas que operen un programa de adopción en el Estado, que tengan bajo su guarda o custodia o ambas a niñas, niños o adolescentes, podrán bajo la autorización del Consejo Estatal de Adopciones, otorgar en forma temporal la custodia del posible adoptado, siempre y cuando los candidatos adoptantes hayan cumplido los requisitos de los artículos precedentes.
+###### Art. 394 Bis.
+
+Las instituciones públicas o privadas autorizadas que operen un programa de adopción en el Estado, que tengan bajo su guarda o custodia o ambas a niñas, niños o adolescentes, podrán bajo la autorización del Consejo Estatal de Adopciones, otorgar en forma temporal la custodia del posible adoptado, siempre y cuando los candidatos adoptantes hayan cumplido los requisitos de los artículos precedentes, además deberán de respetar el derecho de opinión, de la niña, niño o adolescente, cuando estén en condiciones de ejercerlo.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 Los candidatos adoptantes no podrán renunciar a la custodia temporal que les fue otorgada, salvo por causa grave y justificada a criterio del Consejo Estatal de Adopciones; en el caso que no se justifique, los candidatos adoptantes quedarán impedidos a iniciar nuevamente un proceso de adopción.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+
 Para los efectos de lo dispuesto en este artículo, se entenderá por custodia temporal, aquélla que se da previo a un trámite de adopción, en donde la niña, niño y adolescente sujeto a este proceso, es entregado por la Institución para su integración a los candidatos adoptantes durante el tiempo que fije el Consejo Estatal de Adopciones para cada caso.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 Quienes reciban la custodia temporal, estarán a todas las obligaciones derivadas de la patria potestad que prevé este Código, así como a los lineamientos del convenio que al respecto deban suscribir con la institución que tenga bajo su guarda, custodia o ambas a la niña, niño o adolescente sujeto a adopción.
 
@@ -3499,15 +3635,15 @@ El procedimiento para hacer la adopción se regulará por lo establecido en el C
 
 Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, ésta quedará consumada para todos los efectos legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 398.
 
-El Juez que aprueba la adopción remitirá copia de la sentencia al Oficial del Registro Civil del lugar para que levante el acta correspondiente y al Consejo Estatal de Adopciones, para que realice el seguimiento de la adopción del menor, quien deberá llevar a cabo como mínimo dos visitas durante el año, en un periodo no menor de dos años, contados a partir de la fecha en que se otorgó la adopción, incluyendo las realizadas por particulares y las tramitadas por instituciones públicas y privadas.
+El Juez que aprueba la adopción remitirá copia de la sentencia al Oficial del Registro Civil del lugar para que levante el acta correspondiente y al Consejo Estatal de Adopciones, para que realice el seguimiento de la adopción de la niña, niño o adolescente, quien deberá llevar a cabo como mínimo dos visitas durante el año, en un periodo no menor de dos años, contados a partir de la fecha en que se otorgó la adopción, incluyendo las realizadas por particulares y las tramitadas por instituciones públicas y privadas.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Cuando el Juez decrete que no procede autorizar la adopción y el menor se encuentre viviendo con quien pretende adoptarlo, el Juez decretará la separación del menor de aquél y ordenará sea confiado temporalmente a la Institución Pública que corresponda.
+Cuando el Juez decrete que no procede autorizar la adopción y la niña, niño o adolescente se encuentre viviendo con quien pretende adoptarlo, el Juez decretará la separación de la niña, niño o adolescente de aquél y ordenará sea confiado temporalmente a Institución Pública que corresponda
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2018)</small>
 
@@ -3515,9 +3651,9 @@ Cuando el Juez decrete que no procede autorizar la adopción y el menor se encue
 
 El que adopta tendrá respecto de la persona y bienes del adoptado los mismos derechos y obligaciones que tienen los padres hacia la persona y bienes de las hijas o los hijos. El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene una hija o hijo.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-El o los adoptantes adquirirán la patria potestad sobre el menor. En caso de que el padre adoptivo esté casado con alguno de los progenitores del adoptado, dicha patria potestad se ejercerá conjuntamente por ambos cónyuges.
+El o los adoptantes adquirirán la patria potestad sobre la niña, niño o adolescente. En caso de que el padre adoptivo esté casado con alguno de los progenitores del adoptado, dicha patria potestad se ejercerá conjuntamente por ambos cónyuges.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -3531,7 +3667,9 @@ La adopción producirá sus efectos aunque sobrevengan hijas o hijos al adoptant
 
 El que haya sido adoptado podrá impugnar la adopción en cualquier tiempo.
 
-El Ministerio Público también podrá impugnar la adopción cuando se afecte el interés del menor, y tanto en este caso como en el que la impugnación sea realizada por un adoptado menor de edad, promoverá la designación de un tutor especial que represente al menor ante el juez de la causa, quien tendrá facultades para designarlo.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+El Ministerio Público también podrá impugnar la adopción cuando se afecte el interés superior de la niñez, y tanto en este caso como en el que la impugnación sea realizada por una niña, niño o adolescente adoptado, promoverá la designación de un tutor especial para representarlo ante el juez de la causa, quien tendrá facultades para designarlo.
 
 > <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -3577,11 +3715,11 @@ El Ministerio Público también podrá impugnar la adopción cuando se afecte el
 
 #### SECCION TERCERA. DE LA ADOPCION PLENA
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 410 Bis.
 
-Los menores podrán ser adoptados mediante el sistema de adopción plena, aplicándose al efecto las disposiciones de este capítulo.
+Las niñas, niños o adolescentes podrán ser adoptados mediante el sistema de adopción plena, aplicándose al efecto las disposiciones de este capítulo.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -3593,7 +3731,9 @@ Art. 410 Bis II.- Tratándose de la adopción plena, el Registro Civil se absten
 
 I.- Para efectos del impedimento para contraer matrimonio;
 
-II.- Cuando el adoptado desee conocer sus antecedentes familiares, deberá contar con la mayoría de edad; si fuere menor de edad, se requerirá el consentimiento del o los adoptantes; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+II.- Cuando el adoptado desee conocer sus antecedentes familiares, deberá contar con al menos dieciocho años de edad; si fuere niña, niño o adolescentes (sic), se requerirá el consentimiento del o los adoptantes; y
 
 III.- En los demás casos previstos por las leyes.
 
@@ -3613,11 +3753,15 @@ Art. 410 Bis V.- Si alguno de los adoptantes fallece después de haber iniciado 
 
 #### SECCION CUARTA. DE LA ADOPCION INTERNACIONAL Y POR EXTRANJEROS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Art. 410 Bis VI.- La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional y tiene como objeto incorporar en una familia, a una niña, niño o adolescente que no puede encontrar una familia en su propio país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el estado mexicano y en lo conducente, por las disposiciones de este Código.
+
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
 
-Art. 410 Bis VI.- La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional y tiene como objeto incorporar en una familia, a un menor que no puede encontrar una familia en su propio país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado mexicano y en lo conducente, por las disposiciones de este Código.
-
 Las adopciones internacionales siempre serán plenas.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional. Esta adopción se regirá por lo dispuesto en este Código.
 
@@ -3637,13 +3781,13 @@ Art. 410 Bis VII.- En igualdad de circunstancias se dará preferencia en la adop
 
 Las hijas o hijos, cualesquiera que sean su estado, edad y condición, deben honrar y respetar a sus padres y demás ascendientes. Entre ascendientes y descendientes debe imperar mutuo respeto y consideración.
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes. El Ejercicio de este derecho queda supeditado a que no represente riesgo para el menor de edad y a la acreditación del cumplimiento de la obligación alimenticia.
+Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes. El Ejercicio de este derecho queda supeditado, a que se ajuste a las circunstancias particulares de la niña, niño o adolescente, que no represente riesgo a su salud física y psicoemocional y a la acreditación del cumplimiento de la obligación alimenticia.
 
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Quien ejerza la custodia, debe procurar el respeto y el acercamiento constante de los menores de edad con el otro ascendiente que también ejerza la patria potestad. En consecuencia, quien ejerza la patria potestad, debe evitar en todo momento generar sentimientos negativos, de odio, desprecio, rencor o rechazo hacia uno de los progenitores.
+Quien ejerce la custodia, debe procurar el respeto y el acercamiento constante de las niñas, niños o adolescentes con el otro ascendiente que también ejerce la patria potestad, siempre que esto no implique situaciones graves que afecten su salud física y psicoemocional del menor de edad, en observancia del interés superior de la niñez. En consecuencia, quien ejerza la patria potestad, debe evitar en todo momento generar sentimientos negativos, de odio, desprecio, rencor o rechazo hacia uno de los progenitores.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -3671,11 +3815,11 @@ Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la pat
 
 Tratándose de niñas, niños o adolescentes que se encuentren a disposición de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, y que después de treinta días no haya sido posible reincorporarlos con sus padres, los abuelos podrán ejercer los derechos y obligaciones derivados de la patria potestad, quienes serán sujetos a evaluaciones psicológicas y sociales; en caso contrario se les llamará mediante edicto que será publicado por única ocasión en el Periódico Oficial del Estado, a fin de que comparezcan en el improrrogable término de diez días naturales, contados a partir de la publicación. Transcurrido dicho término sin que hubieran comparecido a ejercitar su derecho, se entenderá su falta de interés manifiesta y por ende los abuelos no serán considerados para el procedimiento judicial de perdida de patria potestad.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 414 Bis.
 
-La madre tendrá en todos los casos en que no viva con el padre de sus hijas o hijos, el derecho preferente de mantener a su cuidado a los que fueren menores de doce años, a menos que hubiese sido sentenciada por incurrir en conductas de violencia familiar, sea de las contempladas en el Código Civil o en el Código Penal como delitos de violencia familiar o equiparable a la violencia familiar, exista orden de restricción dictada por autoridad competente, que se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriaguez, drogadicción o cualquier otra adicción que pusiere directa o indirectamente en riesgo la estabilidad física o emocional del menor, tuviere alguna enfermedad contagiosa, o por su conducta antisocial ofreciere peligro grave para la salud o la moralidad de sus hijas e hijos. Debiendo en todo caso el Juez, escuchar la opinión de los menores conforme a su edad y madurez, resolviendo siempre conforme al interés superior de éstos. En todos los casos, el Juez deberá garantizar y facilitar la convivencia de los menores con su padre o madre y cuando sea necesario supervisarla.
+Cuando los progenitores se encuentren separados y no exista convenio respecto a la custodia de los hijos, el Juez decretará el régimen de custodia respectivo atendiendo a las circunstancias del caso y al principio del interés superior de la niñez. Para ello, la autoridad deberá escuchar la opinión de las niñas, niños o adolescentes conforme a su desarrollo cognitivo y grado de madurez. En todos los casos, deberá garantizarse y facilitarse la convivencia de las niñas, niños o adolescentes con su padre o madre y cuando sea necesario supervisarla.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
@@ -3685,23 +3829,27 @@ En el caso del artículo 414, los abuelos a quienes les corresponde la patria po
 
 Si no se pusieren de acuerdo decidirá el Juez oyendo a los ascendientes, conforme a lo establecido en el artículo 418.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 415 Bis.
 
-Los titulares de la patria potestad, aun cuando no conserven la custodia, tienen el derecho de convivencia con sus descendientes, a quienes se escuchará su opinión conforme a su edad y madurez. El ejercicio de este derecho, queda supeditado a que no represente riesgo para el menor y a la acreditación del cumplimiento de la obligación alimenticia.
+Los titulares de la patria potestad, aun cuando no conserven la custodia, tienen el derecho de convivencia con sus descendientes, siempre que no existan causas graves que afecten la salud física y psicoemocional de la niña, niño o adolescente, en observancia del interés superior de la niñez, a quienes se escuchará su opinión conforme a su edad y madurez. El ejercicio de este derecho, queda supeditado a que se ajuste a las circunstancias particulares de la niña, niño o adolescente, que no represente riesgo a su salud física y psicoemocional y a la acreditación del cumplimiento de la obligación alimenticia.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Quien ejerza su custodia tiene la obligación de respetar, procurar y permitir las relaciones personales entre el menor, padres y abuelos. En caso de oposición, a petición de cualquiera de ellos, el Juez resolverá lo conducente en atención al interés superior del menor, a la existencia de conducta constitutiva de violencia familiar en contra del menor o de quien tenga su custodia material, prevista en el Código Civil o en el Código Penal como los delitos de Violencia Familiar o Equiparable a la Violencia Familiar.
+Quien ejerza su custodia tiene la obligación de respetar, procurar y permitir las relaciones personales entre éstos y sus padres y abuelos, siempre que no existan causas graves que afecten la salud física y psicoemocional de la niña, niño o adolescente en observancia del interés superior de la niñez. En caso de oposición, a petición de cualquiera de ellos, incluido el infante, el Juez, escuchará la opinión de las partes y resolverá lo conducente en atención al interés superior de la niñez, a la existencia de conducta constitutiva de violencia familiar en contra de la niña, niño o adolescente o de quien tenga su custodia material, prevista en el Código Civil o en el Código Penal como los delitos de Violencia Familiar o Equiparable a la Violencia Familiar.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Corresponde a los abuelos asumir las expensas del goce y disfrute de su derecho para convivir con sus nietos menores de edad, mas dicha facultad no representa subordinación de los derechos de quien o quienes ejerzan la patria potestad y a la libertad que tienen de dirigir su formación.
+Corresponde a los abuelos asumir las expensas del goce y disfrute de su derecho para convivir con sus nietos menores de dieciocho años de edad, mas dicha facultad no representa subordinación de los derechos de quien o quienes ejerzan la patria potestad y a la libertad que tienen de dirigir su formación.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refieren los párrafos anteriores.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Cuando el progenitor que ejerza la guarda o custodia impida, obstaculice o incumpla de manera reiterada, injustificada o dolosa el régimen de convivencia previamente acordado o establecido por la autoridad competente, el Juez podrá modificar la guarda o custodia en favor del otro progenitor, siempre y cuando se haya intentado por otros medios que estas se lleven a cabo, atendiendo siempre al interés superior de la niñez. Para determinar dicha modificación, el Juez deberá valorar la frecuencia y gravedad del incumplimiento, las circunstancias particulares del caso, los dictámenes psicológicos y sociofamiliares, así como cualquier otro elemento que permita identificar afectaciones al bienestar físico, emocional o social de la niña, niño o adolescente. Lo anterior se entiende sin perjuicio de las medidas de apremio, aseguramiento o restitución que resulten procedentes para garantizar el ejercicio efectivo del régimen de convivencia.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -3709,19 +3857,21 @@ Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho d
 
 Cuando los dos progenitores han reconocido a la hija o el hijo nacido fuera de matrimonio y viven juntos, ejercerán ambos la patria potestad. Si viven separados, se observará respecto a la custodia de la hija o el hijo, lo dispuesto en los Artículos 380 y 381.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 417.
 
-Cuando los padres de la hija o el hijo nacidos dentro o fuera de matrimonio que vivían juntos se separen, ambos seguirán ejerciendo la patria potestad, pero resolverán de común acuerdo sobre su custodia. En caso de no lograr el acuerdo, el Juez resolverá oyendo a las partes, conforme lo establecido en el artículo 418. Cuando la separación se de en virtud de divorcio o nulidad de matrimonio deberá estarse a lo estipulado en sus respectivos capítulos.
+Cuando los padres de la hija o el hijo nacidos dentro o fuera de matrimonio que vivían juntos se separen, ambos seguirán ejerciendo la patria potestad, pero resolverán de común acuerdo sobre su custodia. En caso de no lograr el acuerdo, el Juez resolverá oyendo a las partes, asimismo, escuchará la opinión de la hija o el hijo conforme a su edad y madurez en términos de lo establecido en el artículo 418. Cuando la separación se de en virtud de divorcio o nulidad de matrimonio deberá estarse a lo estipulado en sus respectivos capítulos.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 417 Bis.
 
-Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de un menor. Quien conserva la patria potestad mantiene todas las obligaciones y deberes respecto al menor, conservando sus derechos de convivencia y vigilancia.
+Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de una niña, niño o adolescente. Quien conserva la patria potestad mantiene todas las obligaciones y deberes respecto a la niña, niño o adolescente, conservando sus derechos de convivencia y vigilancia.
 
-La anterior custodia podrá terminar por decisión del pariente que la realiza, por quien o quienes ejercen la patria potestad o por resolución judicial.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+La anterior custodia podrá terminar por decisión del pariente que la realiza, por quien o quienes ejercen la patria potestad o por resolución judicial, en todos los supuestos anteriores, se escuchará la opinión de la hija o el hijo conforme a su edad y madurez en términos de lo establecido en el artículo 418 de este código.
 
 > <small>(ADICIONADO, P.O. 27 DE MAYO DE 2015)</small>
 
@@ -3857,11 +4007,11 @@ En cualquiera de los supuestos anteriores, la Procuraduría de Protección de Ni
 
 El Juez previa audiencia de los interesados incluyendo a la niña, niño o adolescente según sea el caso y del Ministerio Público, con el correspondiente ofrecimiento y desahogo de pruebas, resolverá lo que fuere más conveniente al bienestar de la a la niña, niño o adolescente en atención al interés superior del menor.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 418.
 
-En todos los casos en que se requiera la intervención judicial para decidir sobre la patria potestad, la custodia y la convivencia de los menores sujetos a ellas, deberá escuchárseles conforme a su edad y madurez; y se resolverá lo que sea más conveniente a su bienestar. Lo mismo se observará en los asuntos relativos a la formación y educación de los menores.
+En todos los casos en que se requiera la intervención judicial para decidir sobre la patria potestad, la custodia y la convivencia de las niñas, niños o adolescentes sujetos a ellas, deberá escuchárseles conforme a su edad, desarrollo cognitivo y grado de madurez; y se resolverá lo que sea más conveniente a su bienestar en atención al interés superior de la niñez. Lo mismo se observará en los asuntos relativos a la formación y educación de las niñas, niños o adolescentes.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -3869,13 +4019,15 @@ En todos los casos en que se requiera la intervención judicial para decidir sob
 
 La patria potestad sobre la hija o el hijo adoptivo, se ejercerá de conformidad a lo dispuesto por el artículo 414.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 420.
 
-Los ascendientes que ejerzan la patria potestad en forma conjunta, tendrán autoridad y consideraciones iguales en dicho ejercicio; por lo tanto, de común acuerdo arreglarán todo lo relativo a la formación y educación de los menores y a la administración de los bienes que a éstos pertenezcan.
+Los ascendientes que ejerzan la patria potestad en forma conjunta, tendrán autoridad y consideraciones iguales en dicho ejercicio; por lo tanto, de común acuerdo arreglarán todo lo relativo a la formación y educación de las niñas, niños o adolescentes y a la administración de los bienes que a éstos pertenezcan.
 
-En caso de que los ascendientes no logren el común acuerdo, el juez procurará avenirlos y si no fuere posible resolverá, previa audiencia de los interesados, lo que fuere más conveniente al bienestar de los menores.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+En caso de que los ascendientes no logren el común acuerdo, el juez procurará avenirlos y si no fuere posible resolverá, previa audiencia de los interesados, lo que fuere más conveniente al bienestar de las niñas, niños o adolescentes.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -3891,23 +4043,25 @@ A las personas que tienen a la hija o el hijo bajo su patria potestad, incumbe l
 
 Cuando llegue a conocimiento de los Consejos Locales de Tutela que las personas de que se trata no cumplen esa obligación, lo avisarán al Ministerio Público para que promueva lo que corresponda.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 423.
 
-Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores de edad bajo su custodia, tendrán la facultad corregirlos (sic) mesuradamente, sin llegar al maltrato, así como la obligación de observar una conducta que sirva a éstos de ejemplo para su sano desarrollo.
+Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan niñas, niños o adolescentes bajo su custodia, tendrán la facultad de corregirlos mesuradamente, sin llegar al maltrato, así como la obligación de observar una conducta que sirva a éstos de ejemplo para su sano desarrollo.
 
-Los jueces tienen la facultad de tomar las medidas necesarias para impedir que un menor sea maltratado por quienes ejerzan sobre él la patria potestad, o la tengan bajo su custodia. Tales medidas se tomaran a instancia de quien acredite un interés legítimo de parentesco o del ministerio publico en todo caso.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Los jueces tienen la facultad de tomar las medidas necesarias para impedir que una niña, niño o adolescente sea maltratado por quienes ejerzan sobre él la patria potestad, o la tengan bajo su custodia. Tales medidas se tomaran a instancia de quien acredite un interés legítimo de parentesco o del ministerio público en todo caso.
 
 ###### Art. 424.
 
 El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 424 Bis.
 
-Por causas supervinientes que afecten al bienestar del menor, el Juez, a petición de parte interesada, o del Ministerio Público podrá en todo tiempo resolver o modificar las resoluciones respecto a la patria potestad o custodia de los menores sujetos a ellas.
+Por causas supervinientes que afecten al bienestar de las niñas, niños o adolescentes, el Juez, a petición de parte interesada, o del Ministerio Público podrá en todo tiempo resolver o modificar las resoluciones respecto a su patria potestad o custodia de los infantes sujetos a ellas, debiendo de escuchar la opinión de la hija o el hijo conforme a su edad y madurez en términos en lo establecido en el artículo 418 de este código.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -3917,11 +4071,11 @@ Por causas supervinientes que afecten al bienestar del menor, el Juez, a petici�
 
 Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 426.
 
-Cuando la patria potestad sea ejercida por dos ascendientes del menor, éstos acordarán quien de ellos será el administrador de sus bienes; pero siempre consultará al otro, y requerirá su consentimiento expreso para los actos más importantes de la administración.
+Cuando la patria potestad sea ejercida por dos ascendientes de la niña, niño o adolescente, éstos acordarán quien de ellos será el administrador de sus bienes, pero siempre consultará al otro, y requerirá su consentimiento expreso para los actos más importantes de la administración.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
@@ -3993,9 +4147,11 @@ Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo 
 
 Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de las hijas o los hijos o remisión voluntaria de los derechos de éstos; ni dar fianza en representación de las hijas o los hijos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 437.
 
-Siempre que el juez conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó, y para que el resto se invierta en la adquisición de un inmueble o se imponga con segunda hipoteca en favor del menor.
+Siempre que el juez conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente a la niña, niño o adolescente, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó, y para que el resto se invierta en la adquisición de un inmueble o se imponga con segunda hipoteca en favor de la niña, niño o adolescente.
 
 Al efecto, el precio de la venta se depositará en una institución de crédito, y la persona que ejerce la patria potestad no podrá disponer de él, sin orden judicial.
 
@@ -4027,11 +4183,11 @@ Las personas que ejercen la patria potestad tienen obligación de dar cuenta de 
 
 En todos los casos en que las personas que ejercen la patria potestad tienen un interés opuesto al de las hijas o los hijos, serán éstos representados, en juicio y fuera de él, por un tutor nombrado por el juez para cada caso.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 441.
 
-Los jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes de la hija o el hijo se derrochen o se disminuyan. Estas medidas se tornarán a instancias de las personas interesadas, del menor cuando hubiere cumplido catorce años, o del Ministerio Público en todo caso.
+Los jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes de la hija o el hijo se derrochen o se disminuyan. Estas medidas se tornarán instancias de las personas interesadas, del adolescente cuando hubiere cumplido catorce años, o del Ministerio Público en todo caso.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -4057,33 +4213,45 @@ III.- Por la mayor edad del hijo.
 
 La patria potestad se pierde por sentencia judicial en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-I.- Cuando el que la ejerza es condenado por uno o más delitos graves, siempre que a criterio del juez se pueda poner en peligro la persona o bienes del menor;
+I.- Cuando el que la ejerza es condenado por uno o más delitos graves, siempre que a criterio del juez se pueda poner en peligro sus derechos, la integridad de la persona o bienes de la niña, niño o adolescente, así como se vulnere su libre desarrollo;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-II.- Cuando el que la ejerza es condenado por un delito intencional en contra de la persona o bienes del menor. En este supuesto, el juez, en vista de las circunstancias, podrá decretar la pérdida de la patria potestad sobre los demás menores respecto de quienes la ejerzan;
+II.- Cuando el que la ejerza es condenado por un delito intencional en contra de la persona o bienes de la niña, niño o adolescente. En este supuesto, el juez, en vista de las circunstancias, podrá decretar la pérdida de la patria potestad sobre los demás niñas, niños o adolescentes respecto de quienes la ejerzan;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-III.- Cuando por las costumbres depravadas, violencia familiar, explotación o abandono de los deberes de quien la ejerza, pudiera comprometerse la salud, la seguridad, la dignidad, la integridad o la moralidad de los menores, aún cuando estos hechos no sean penalmente punibles;
+III.- Cuando por las costumbres depravadas, violencia familiar, explotación o abandono de los deberes de quien la ejerza, pudiera comprometerse la salud, la seguridad, la dignidad, la integridad o la moralidad de las niñas, niños o adolescentes, aún cuando estos hechos no sean penalmente punibles;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-IV.- Cuando quien la ejerza deje de asistir y convivir en forma injustificada con el menor de edad, por más de quince días naturales consecutivos, cuando éste se encuentre acogido por una Institución legalmente constituida, y que cuente con las autorizaciones para su debido funcionamiento; y por treinta días naturales consecutivos, cuando el menor de edad se encuentre acogido en familia de acogida;
+IV.- Cuando quien la ejerza deje de asistir y convivir en forma injustificada con la niña, niño o adolescente, por más de quince días naturales consecutivos, cuando éste se encuentre acogido por una Institución legalmente constituida, y que cuente con las autorizaciones para su debido funcionamiento; y por treinta días naturales consecutivos, cuando la niña, niño o adolescente se encuentre acogido en familia de acogida;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-V.- Por abandono del menor durante un plazo de más de ciento ochenta días naturales, aún cuando no se comprometa su salud, seguridad o moralidad;
+V.- Por abandono de la niña, niño o adolescente durante un plazo de más de ciento ochenta días naturales, aún cuando no se comprometa su salud, seguridad o moralidad;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-VI.- Cuando quien la ejerza deje expósito al menor de edad por un plazo de más de treinta días naturales; y
+VI.- Cuando quien la ejerza deje expósito a la niña, niño o adolescente por un plazo de más de treinta días naturales;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-VII.- Por incumplimiento parcial o total de la sentencia firme relativa a la obligación alimentaría por más de noventa días sin causa justificada.
+VII.- Por incumplimiento parcial o total de la sentencia firme relativa a la obligación alimentaría por más de noventa días sin causa justificada;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VIII.- Cuando quien ejerza la patria potestad, obligue o permita reiteradamente que la niña, niño o adolescente practique actos de mendicidad forzada, trabajo infantil o cualquier otra actividad que ponga en riesgo su salud, le prive de la educación o afecte sus derechos y desarrollo, con el fin de obtener un beneficio o retribución económica para él o un tercero;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+IX.- En el caso de violencia sexual cometida por quien ejerce la patria potestad contra la niña, niño o adolescente, o por tolerar que un tercero cometa dicha violencia; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+X.- Cuando exista reincidencia o delincuencia habitual respecto de la comisión de cualquier delito que ponga en peligro los derechos, la integridad de su persona, bienes o vulnere el libre desarrollo de la niñas (sic), niño o adolescente.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
 
@@ -4119,23 +4287,29 @@ II.- Por la ausencia declarada en forma;
 
 III.- Por sentencia condenatoria que imponga como pena esta suspensión;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-IV.- Cuando a consideración del Juez, el consumo del alcohol, el hábito del juego, el uso no terapéutico de las sustancias ilícitas a que hace referencia la Ley General de Salud o las licitas, que amenacen causar algún perjuicio cualquiera que este sea al menor; y
+IV.- Cuando a consideración del Juez, el consumo del alcohol, el hábito del juego, el uso no terapéutico de las sustancias ilícitas a que hace referencia la Ley General de Salud o las licitas, que amenacen causar algún perjuicio cualquiera que este sea a la niña, niño o adolescente;
 
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-V.- Por incumplimiento parcial o total de la obligación alimentaria provisional, por cualquiera de las partes, por más de noventa días sin causa justificada a consideración del juez.
+V.- Por incumplimiento parcial o total de la obligación alimentaria provisional, por cualquiera de las partes, por más de noventa días sin causa justificada a consideración del juez; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VI.- Por auto de vinculación a proceso dictado por delito de feminicidio o su tentativa en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE FEBRERO DE 1999)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 447 Bis.
 
-La patria potestad se limitará cuando por resolución judicial, cautelar o definitiva, se restrinja alguno o algunos de los derechos que la integran o se impongan modalidades al ejercicio de éstos. El juez podrá imponer las limitaciones que procedan a la patria potestad a fin de proteger la integridad física y psicológica de los menores.
+La patria potestad se limitará cuando por resolución judicial, cautelar o definitiva, se restrinja alguno o algunos de los derechos que la integran o se impongan modalidades al ejercicio de éstos. El juez podrá imponer las limitaciones que procedan a la patria potestad a fin de proteger la integridad física y psicológica de las niñas, niños o adolescentes.
 
-En cualquier momento el juez podrá decretar la separación cautelar del menor respecto de quienes realicen conductas de violencia familiar.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+En cualquier momento el juez podrá decretar la separación cautelar de la niña, niño o adolescente respecto de quienes realicen conductas de violencia familiar.
 
 ###### Art. 448.
 
@@ -4153,13 +4327,17 @@ II.- Cuando por su mal estado habitual de salud, no puedan atender debidamente a
 
 El objeto de la tutela es la guarda de la persona y bienes de los que no estando sujetos a patria potestad tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señale la Ley.
 
-En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores a las modalidades de que habla la parte final del artículo 413.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de las niñas, niños o adolescentes a las modalidades de que habla la parte final del artículo 413.
 
 ###### Art. 450.
 
 Tienen incapacidad natural y legal:
 
-I.- Los menores de edad;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+I.- Las niñas, niños o adolescentes;
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1991)</small>
 
@@ -4169,11 +4347,11 @@ III.- Los sordo-mudos que no saben leer ni escribir;
 
 IV.- Los ebrios consuetudinarios y los que habitualmente hacen uso inmoderado de drogas enervantes.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 451.
 
-Los menores de edad tienen incapacidad legal para los actos que se mencionen en el Artículo 643 del presente Código.
+Las niñas, niños o adolescentes tienen incapacidad legal para los actos que se mencionen en el Artículo 643 del presente Código.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
@@ -4233,11 +4411,11 @@ Salvo el caso de la administración, la tutela no podrá conferirse sin que prev
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 464.
 
-El menor de edad discapacitado con ausencia de capacidad mental, con ausencia de capacidad auditiva y del habla, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llegue a la mayoría de edad.
+La niña, niño o adolescente discapacitado con ausencia de capacidad mental, con ausencia de capacidad auditiva y del habla, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a tutela, mientras no llegue a los dieciocho años de edad.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -4301,11 +4479,11 @@ Art. 469 Bis III.- Una vez aceptada la tutoría, el tutor cautelar que se excuse
 
 ### CAPITULO II. DE LA TUTELA TESTAMENTARIA
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 470.
 
-El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 414, tiene derecho, aunque fuere menor, de nombrar tutor en su testamento a aquéllos sobre quienes la ejerza, con inclusión de la hija o hijo póstumo.
+El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 414, tiene derecho, aunque fuere niña, niño o adolescente, de nombrar tutor en su testamento a aquéllos sobre quienes la ejerza, con inclusión de la hija o hijo póstumo.
 
 ###### Art. 471.
 
@@ -4315,13 +4493,17 @@ El nombramiento de tutor testamentario hecho en los términos del artículo ante
 
 Si los ascendientes excluídos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 473.
 
-El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
+El que en su testamento, aunque sea menor de edad no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 474.
 
-Si fueren varios los menores podrá nombrárseles un tutor común, o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 457.
+Si fueren varios las niñas, niños o adolescentes podrá nombrárseles un tutor común, o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 457.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -4341,13 +4523,17 @@ Siempre que se nombren varios tutores, desempeñará la tutela el primer nombrad
 
 Lo dispuesto en el artículo anterior no regirá cuando el testador haya establecido el orden en que los tutores deben sucederse en el desempeño de la tutela.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 479.
 
-Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes, a no ser que el juez, oyendo al tutor y al curador, las estime dañosas a los menores, en cuyo caso podrá dispensarlas o modificarlas.
+Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes, a no ser que el juez, oyendo al tutor y al curador, las estime dañosas a las niñas, niños o adolescentes, en cuyo caso podrá dispensarlas o modificarlas.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 480.
 
-Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare temporalmente el tutor testamentario, el juez proveerá de tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores.
+Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare temporalmente el tutor testamentario, el juez proveerá de tutor interino a la niña, niño o adolescente, conforme a las reglas generales sobre nombramiento de tutores.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -4355,7 +4541,9 @@ Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare t
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hija o hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
-### CAPITULO III. DE LA TUTELA LEGITIMA DE LOS MENORES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2026)</small>
+
+### CAPITULO III. DE LA TUTELA LEGITIMA DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Art. 482.
 
@@ -4373,9 +4561,11 @@ I.- A los hermanos, prefiriéndose a los que lo sean por ambas líneas;
 
 II.- Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado inclusive.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 484.
 
-Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que le parezca más apto para el cargo; pero si el menor hubiere cumplido dieciséis años, el hará la elección.
+Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que le parezca más apto para el cargo; pero si el adolescente hubiere cumplido dieciséis años, él hará la elección.
 
 ###### Art. 485.
 
@@ -4391,11 +4581,11 @@ DE LA TUTELA LEGITIMA DE LAS PERSONAS DISCAPACITADAS, CON AUSENCIA DE CAPACIDAD 
 
 El marido es tutor legítimo y forzoso de su mujer, y ésta lo es de su marido.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 487.
 
-Las hijas o los hijos mayores de edad son tutores de su padre o madre viudos.
+Las hijas o los hijos mayores de edad son tutores de su padre o madre, solteros o viudos.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -4435,19 +4625,25 @@ El ejercicio de la tutela por los abuelos, se regirá por lo dispuesto en el art
 
 El tutor del incapacitado que tenga hijas o hijos bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-### CAPITULO V. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DEPOSITADOS EN ESTABLECIMIENTOS DE BENEFICENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2011)</small>
+### CAPÍTULO V
+
+DE LA TUTELA LEGÍTIMA DE LAS NIÑAS, NIÑOS Y ADOLESCENTES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DEPOSITADOS EN ESTABLECIMIENTOS DE BENEFICENCIA.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 492.
 
-La Ley coloca a los expósitos y a los menores abandonados bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores. Para desempeñar tal encargo deberá llevar a cabo el procedimiento establecido en el Código de Procedimientos Civiles vigente en el Estado.
+La Ley coloca a los expósitos y a las niñas, niños o adolescentes abandonados bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores. Para desempeñar tal encargo deberá llevar a cabo el procedimiento establecido en el Código de Procedimientos Civiles vigente en el Estado.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 493.
 
-Los directores de las instituciones de beneficencia o asistencia social donde se reciban expósitos, menores abandonados o que hayan acogido menores cuyos padres y abuelos hayan sido condenados a la pérdida de la patria potestad, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+Los directores de las instituciones de beneficencia o asistencia social donde se reciban expósitos, niñas, niños o adolescentes abandonados o que hayan acogido niñas, niños o adolescentes cuyos padres y abuelos hayan sido condenados a la pérdida de la patria potestad, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
 En caso de que los directores no cumplan con lo anterior, el Juez competente podrá removerlos del cargo de tutor.
 
@@ -4467,37 +4663,49 @@ I.- Cuando no hay tutor testamentario, ni cautelar, ni persona a quien conforme 
 
 II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 483.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 496.
 
-El tutor dativo será designado por el menor si ha cumplido dieciséis años. El Juez confirmará la designación si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el menor, el juez oirá el parecer del Consejo Local de Tutelas. Si no se aprueba el nombramiento hecho por el menor, el juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+El tutor dativo será designado por el adolescente si ha cumplido dieciséis años. El Juez confirmará la designación si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el adolescente, el juez oirá el parecer del Consejo Local de Tutelas. Si no se aprueba el nombramiento hecho por el adolescente, el juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 497.
 
-Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el juez de entre las personas que figuren en la lista formada cada año por el Consejo Local de Tutelas, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+Si la niña, niño o adolecente (sic) no ha cumplido dieciséis años, el nombramiento de tutor lo hará el juez de entre las personas que figuren en la lista formada cada año por el Consejo Local de Tutelas, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 498.
 
-Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
+Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan a la niña, niño o adolescente por esa falta.
 
 ###### Art. 499.
 
 Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 500.
 
-A los menores de edad que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo Local de Tutelas, del Ministerio Público, del mismo menor, y aún de oficio por el juez.
+A las niñas, niños o adolescentes que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de su persona, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo Local de Tutelas, del Ministerio Público, de la niña, niño o adolescente, y aún de oficio por el juez.
 
 ###### Art. 501.
 
 En el caso del artículo anterior, tienen obligación de desempeñar la tutela mientras duran en los cargos que a continuación se enumeran:
 
-I.- El Presidente Municipal del domicilio del menor;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+I.- El Presidente Municipal del domicilio de la niña, niño o adolescente;
 
 II.- Los demás regidores del Ayuntamiento;
 
 III.- Las personas que desempeñen la autoridad administrativa en los lugares en donde no hubiere Ayuntamiento;
 
-IV.- Los profesores oficiales de instrucción primaria, secundaria o profesional, del lugar donde vive el menor;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+IV.- Los profesores oficiales de instrucción primaria, secundaria o profesional, del lugar donde vive la niña, niño o adolescente;
 
 V.- Los miembros de las juntas de beneficencia pública o privada que disfruten sueldo del Erario;
 
@@ -4535,9 +4743,11 @@ Art. 502 Bis III.- Con excepción de que quien designó al tutor lo libere de ca
 
 Rendirá cuentas de su administración en los términos previstos por este Código en todo tiempo si lo pidiera quien hizo la designación.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Art. 502 Bis IV.- El tutor entregará los bienes al menor que llegue a su mayoría de edad o cuando cese la incapacidad.
+Art. 502 Bis IV.- El tutor entregará los bienes a la niña, niño o adolescente que cumpla los dieciocho años de edad o cuando cese la incapacidad.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1991)</small>
 
 El cargo de tutor de administración podrá ser revocado libremente por quien lo otorgue, designado otro, durante la minoría de edad o subsista la incapacidad de la persona sujeta a tutela.
 
@@ -4551,7 +4761,9 @@ Art. 502 Bis V.- El desempeño de la tutela, cuentas, extinción y entrega de bi
 
 No pueden ser tutores, aunque estén anuentes en recibir el cargo:
 
-I.- Los menores de edad;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+I.- Las niñas, niños o adolescentes;
 
 II.- Los mayores de edad que se encuentren bajo tutela;
 
@@ -4799,33 +5011,45 @@ V.- A representar al incapacitado en juicio y fuera de él en todos los actos ci
 
 VI.- A solicitar oportunamente la autorización judicial para todo lo que legalmente no pueda hacer sin ella.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 538.
 
-Los gastos de alimentación y educación del menor deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
+Los gastos de alimentación y educación de la niña, niño o adolescente deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 539.
 
-Cuando el tutor entre en el ejercicio de su cargo, el juez fijará con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación del menor, sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones podrá el juez alterar la cantidad que el que nombró tutor hubiere señalado para dicho objeto.
+Cuando el tutor entre en el ejercicio de su cargo, el juez fijará con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación de la niña, niño o adolescente, sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones podrá el juez alterar la cantidad que el que nombró tutor hubiere señalado para dicho objeto.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 540.
 
-El tutor destinará al menor a la carrera u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, puede el menor, por conducto del curador, del Consejo Local de Tutelas o por sí mismo, ponerlo en conocimiento del juez, para que dicte las medidas convenientes.
+El tutor destinará a la niña, niño o adolescente la carrera u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, puede la niña, niño o adolescente, por conducto del curador, del Consejo Local de Tutelas o por sí mismo, ponerlo en conocimiento del juez, para que dicte las medidas convenientes.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 541.
 
-Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna carrera, el tutor no variará ésta, sin la aprobación del Juez, quien decidirá este punto prudentemente y oyendo en todo caso al mismo menor, al curador y al Consejo Local de Tutelas.
+Si el que tenía la patria potestad sobre la niña, niño o adolescente lo había dedicado a alguna carrera, el tutor no variará ésta, sin la aprobación del Juez, quien decidirá este punto prudentemente y oyendo en todo caso a la misma niña, niño o adolescente, al curador y al Consejo Local de Tutelas.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 542.
 
-Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el Juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos, los gastos de alimentación.
+Si las rentas de la niña, niño o adolescente no alcanzan a cubrir los gastos de su alimentación y educación, el Juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos, los gastos de alimentación.
 
 ###### Art. 543.
 
 Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 544.
 
-Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del juez, quien oirá el parecer del curador y del Consejo Local de Tutelas, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, pues continuará vigilando al menor a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del juez, quien oirá el parecer del curador y del Consejo Local de Tutelas, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, pues continuará vigilando a la niña, niño o adolescente a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
 
 ###### Art. 545.
 
@@ -4859,9 +5083,11 @@ Los bienes que el incapacitado adquiera después de la formación del inventario
 
 Hecho el inventario no se admite al tutor rendir prueba contra de él en perjuicio del incapacitado, ni antes ni después de la mayor edad de éste, ya sea que litigue en nombre propio o con la representación del incapacitado. Se exceptúan de lo dispuesto en el párrafo anterior los casos en que el error del inventario sea evidente o cuando se trate de un derecho claramente establecido.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 553.
 
-Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir al juez, pidiendo que los bienes omitidos se listen; y el juez, oído el parecer del tutor, determinará en justicia.
+Si se hubiere omitido listar algunos bienes en el inventario, la niña, niño o adolescente mismo, antes o después de cumplir los dieciocho años de edad, y el curador o cualquier pariente, pueden ocurrir al juez, pidiendo que los bienes omitidos se listen; y el juez, oído el parecer del tutor, determinará en justicia.
 
 ###### Art. 554.
 
@@ -4871,9 +5097,11 @@ El tutor, dentro del primer mes de ejercer su cargo, fijará, con aprobación de
 
 Lo dispuesto en el artículo anterior no liberta al tutor de justificar, al rendir sus cuentas, que efectivamente, han sido gastadas dichas sumas en sus respectivos objetos.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 556.
 
-Si el padre o la madre del menor ejercían algún comercio o industria, el juez, con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente a juicio del juez.
+Si el padre o la madre de la niña, niño o adolescente ejercían algún comercio o industria, el juez, con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente a juicio del juez.
 
 ###### Art. 557.
 
@@ -4891,19 +5119,21 @@ El tutor que no haga las imposiciones dentro de los plazos señalados en los dos
 
 Mientras que se hacen las imposiciones a que se refieren los artículos 557 y 558, el tutor depositará las cantidades que perciba, en el establecimiento público destinado al efecto.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 561.
 
-Los bienes inmuebles, los derechos anexos a ellos, y los muebles preciosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor, debidamente justificada y previa la conformidad del curador y la autorización judicial.
+Los bienes inmuebles, los derechos anexos a ellos, y los muebles preciosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad de la niña, niño o adolescente, debidamente justificada y previa la conformidad del curador y la autorización judicial.
 
 ###### Art. 562.
 
 Cuando la anajenación (sic) se haya permitido para cubrir con su producto algún objeto determinado, el juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto. Mientras que no se haga la inversión se observará lo dispuesto en la parte final del artículo 437.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 563.
 
-En la enajenación de bienes raíces del menor o incapacitado, alhajas o bienes preciosos, el Juez decidirá si conviene o no la almoneda, pudiendo dispensarla, mediante un procedimiento distinto, acreditada la utilidad que resulte al menor.
+En la enajenación de bienes raíces de la niña, niño o adolescente o incapacitado, alhajas o bienes preciosos, el Juez decidirá si conviene o no la almoneda, pudiendo dispensarla, mediante un procedimiento distinto, acreditada la utilidad que resulte a la niña, niño o adolescente.
 
 Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes al incapacitado, por menor valor del que se cotice en la plaza el día de la venta; ni dar fianza a nombre de su pupilo.
 
@@ -4961,9 +5191,11 @@ Sin autorización judicial no puede el tutor recibir dinero prestado en nombre d
 
 El tutor no puede hacer donaciones a nombre del incapacitado.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 577.
 
-El tutor tiene, respecto del menor, las mismas facultades que a los ascendientes concede el artículo 423.
+El tutor tiene, respecto de la niña, niño o adolescente, las mismas facultades que a los ascendientes concede el artículo 423.
 
 ###### Art. 578.
 
@@ -4989,9 +5221,11 @@ II.- La mujer, en los casos en que pueda querellarse de su marido, o demandarlo 
 
 Cuando la tutela del incapacitado recayere en su mujer, ejercerá ésta la autoridad de aquél; pero no podrá gravar ni enajenar los bienes del marido que sean de la clase a que se refiere el artículo 568, sin previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el artículo 561.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 583.
 
-Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
+Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de las niñas, niños o adolescentes.
 
 ###### Art. 584.
 
@@ -5023,9 +5257,11 @@ El tutor no tendrá derecho a remuneración alguna, y restituirá lo que por est
 
 El tutor está obligado a rendir al juez cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 591.
 
-También tiene obligación de rendir cuentas, cuando por causas graves que calificará el juez, la exijan el curador, el Consejo Local de Tutelas, o el mismo menor que haya cumplido dieciséis años de edad.
+También tiene obligación de rendir cuentas, cuando por causas graves que calificará el juez, la exijan el curador, el Consejo Local de Tutelas, o la misma niña, niño o adolescente.
 
 ###### Art. 592.
 
@@ -5047,9 +5283,11 @@ Lo dispuesto en el artículo anterior se entiende sin perjuicio de la responsabi
 
 Las cuentas deben rendirse en el lugar en que se desempeña la tutela.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 597.
 
-Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal, y aunque de ellos no haya resultado utilidad al menor, si esto ha sido sin culpa del primero.
+Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal, y aunque de ellos no haya resultado utilidad a la niña, niño o adolescente, si esto ha sido sin culpa del primero.
 
 ###### Art. 598.
 
@@ -5059,9 +5297,11 @@ Ninguna anticipación ni crédito contra el incapacitado se abonará al tutor, s
 
 El tutor será igualmente indemnizado, según el prudente arbitrio del juez, del daño que haya sufrido por causa de la tutela y en desempeño necesario de ella, cuando no haya intervenido de su parte culpa o negligencia.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 600.
 
-La obligación de dar cuenta no puede ser dispensada en contrato o última voluntad, ni aun por el mismo menor; y si esa dispensa se pusiere como condición en cualquier acto se tendrá por no puesta.
+La obligación de dar cuenta no puede ser dispensada en contrato o última voluntad, ni aun por la misma niña, niño o adolescente; y si esa dispensa se pusiere como condición en cualquier acto se tendrá por no puesta.
 
 ###### Art. 601.
 
@@ -5095,9 +5335,13 @@ I.- Por la muerte del pupilo o porque desaparezca su incapacidad;
 
 II.- Cuando el incapacitado, sujeto a tutela entre a la patria potestad por reconocimiento o por adopción; y
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-III.- Por maltrato inferido a los menores o incapacitados. Para el caso de la última fracción, los jueces tienen facultad de tomar las medidas necesarias para impedir que el pupilo sea maltratado por el tutor. Tales medidas se tomarán a instancia de quien acredite interés legítimo de parentesco o del Ministerio Público en todo caso.
+III.- Por maltrato inferido a las niñas, niños o adolescentes o incapacitados.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, P.O. 26 DE JUNIO DE 2026]</small>
+
+Para el caso de la última fracción, los jueces tienen facultad de tomar las medidas necesarias para impedir que el pupilo sea maltratado por el tutor. Tales medidas se tomarán a instancia de quien acredite interés legítimo de parentesco o del Ministerio Público en todo caso.
 
 ### CAPITULO XIII. DE LA ENTREGA DE LOS BIENES
 
@@ -5125,9 +5369,11 @@ Cuando intervenga dolo o culpa de parte del tutor, serán de su cuenta todos los
 
 El saldo que resulte en pro o en contra del tutor, producirá interés legal. En el primer caso correrá desde que previa entrega de los bienes se haga el requerimiento legal para el pago; y en el segundo, desde la rendición de cuentas, si hubiesen sido dadas dentro del término designado por la ley; y si no, desde que expire el mismo término.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 613.
 
-Cuando en la cuenta resulte alcance contra el tutor, aunque por un arreglo con el menor o sus representantes se otorguen plazos al responsable o a sus herederos para satisfacerlo, quedaran vivas las hipotecas u otras garantías dadas para la administración, hasta que se verifique el pago, a menos que se haya pactado expresamente lo contrario en el arreglo.
+Cuando en la cuenta resulte alcance contra el tutor, aunque por un arreglo con la niña, niño o adolescente o sus representantes se otorguen plazos al responsable o a sus herederos para satisfacerlo, quedarán vivas las hipotecas u otras garantías dadas para la administración, hasta que se verifique el pago, a menos que se haya pactado expresamente lo contrario en el arreglo.
 
 ###### Art. 614.
 
@@ -5141,9 +5387,11 @@ Si no se hiciere saber el convenio al fiador, éste no permanecerá obligado.
 
 Todas las acciones por hechos relativos a la administración de la tutela, que el incapacitado pueda ejercitar contra su tutor, o contra los fiadores y garantes de éste, quedan extinguidas por el lapso de cuatro años, contados desde el día en que se cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de tutela, o desde que haya cesado la incapacidad en los demás casos previstos por la ley.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 617.
 
-Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
+Si la tutela hubiere fenecido antes de los dieciocho años de edad, la niña, niño o adolescente podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a los dieciocho años de edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
 
 ### CAPITULO XIV. DEL CURADOR
 
@@ -5151,9 +5399,11 @@ Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar la
 
 Todos los individuos sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador, excepto en los casos de tutela a que se refieren los artículos 492 y 500.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 619.
 
-En todo caso en que se nombre al menor un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
+En todo caso en que se nombre a la niña, niño o adolescente un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
 
 ###### Art. 620.
 
@@ -5223,7 +5473,9 @@ El Consejo Local de Tutelas es un órgano de vigilancia y de información, que, 
 
 I.- Formar y remitir a los jueces una lista de las personas de la localidad que por su aptitud legal y moral, puedan desempeñar la tutela, para que de entre ellas se nombren los tutores y curadores, en los casos que estos nombramientos correspondan al juez;
 
-II.- Velar porque los tutores cumplan sus deberes, especialmente en lo que se refiere a la educación de los menores; dando aviso al juez de las faltas u omisiones que notare;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+II.- Velar porque los tutores cumplan sus deberes, especialmente en lo que se refiere a la educación de las niñas, niños o adolescentes; dando aviso al juez de las faltas u omisiones que notare;
 
 III.- Avisar al juez cuando tenga conocimiento de que los bienes de un incapacitado están en peligro, a fin de que dicte las medidas correspondientes;
 
@@ -5255,9 +5507,11 @@ Mientras que se nombra tutor, el juez debe dictar las medidas necesarias para qu
 
 Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 537.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 636.
 
-Son también nulos los actos de administración y los contratos celebrados por los menores emancipados, si son contrarios a las restricciones establecidas por el artículo 643.
+Son también nulos los actos de administración y los contratos celebrados por las niñas, niños o adolescentes emancipados, si son contrarios a las restricciones establecidas por el artículo 643.
 
 ###### Art. 637.
 
@@ -5267,13 +5521,17 @@ La nulidad a que se refieren los artículos anteriores, solo puede ser alegada, 
 
 La acción para pedir la nulidad, prescribe en los términos en que prescriben las acciones personales o reales, según la naturaleza del acto cuya nulidad se pretende.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 639.
 
-Los menores de edad no pueden alegar la nulidad de que hablan los artículos 635 y 636, en las obligaciones que hubieren contraído sobre las materias propias de la profesión o arte en que sean peritos.
+Las niñas, niños o adolescentes no pueden alegar la nulidad de que hablan los artículos 635 y 636, en las obligaciones que hubieren contraído sobre las materias propias de la profesión o arte en que sean peritos.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 640.
 
-Tampoco pueden alegarla los menores, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
+Tampoco pueden alegarla las niñas, niños o adolescentes, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
 
 ## TITULO DECIMO. DE LA EMANCIPACION Y DE LA MAYOR EDAD
 
@@ -5287,13 +5545,17 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 (DEROGADO, P.O. 10 DE JUNIO DE 1970)
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1970)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 643.
 
-El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
+El emancipado tiene la libre administración de sus bienes, pero siempre necesita antes de cumplir los dieciocho años de edad;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1970)</small>
 
 I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1970)</small>
 
 II.- De un tutor para negocios judiciales.
 
@@ -5777,7 +6039,9 @@ II.- Por los cónyuges sobre sus bienes respectivos sin que, en tratándose de l
 
 III.- Por el pariente de cualquier grado que suministre alimentos a sus ascendientes, descendientes o colaterales, siempre que vivan formando una familia;
 
-IV.- Por el tutor, cuando administre bienes pertenecientes a menores.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+IV.- Por el tutor, cuando administre bienes pertenecientes a las niñas, niños o adolescentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -5889,9 +6153,9 @@ a) Cuando hayan transcurrido quince años a contar de la fecha de su constituci�
 
 b) Cuando se declare nula o rescindida la venta de los bienes afectos; o
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-c) En los casos establecidos por el artículo 880 fracción VI y VII del Código de Procedimientos Civiles del Estado, salvo que existan hijas o hijos que sean menores o incapaces;
+c) En los casos establecidos por el artículo 880 fracción VI y VII del Código de Procedimientos Civiles del Estado, salvo que existan hijas o hijos que sean menores de dieciocho años de edad o incapaces;
 
 > <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
@@ -6557,9 +6821,11 @@ No se entiende que las abejas han abandonado la colmena cuando se han posado en 
 
 Los animales feroces que se escaparen del encierro en que los tengan sus dueños, podrán ser destruídos o capturados por cualquiera. Pero los dueños pueden recuperarlos si indemnizan los daños y perjuicios que hubieren ocasionado.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 871.
 
-La aprobación de los animales domésticos se rige por las disposiciones contenidas en el Título de los bienes mostrencos.
+La apropiación de los animales de compañía se rige por las disposiciones contenidas en Ley de Protección y Bienestar Animal para la Sustentabilidad del Estado de Nuevo León, para los demás animales se seguirá lo dispuesto en el Título de los bienes mostrencos, de este Código.
 
 ### CAPITULO III. DE LOS TESOROS
 
@@ -7857,9 +8123,11 @@ La adquisición de bienes en virtud de la posesión, se llama prescripción posi
 
 Solo pueden prescribirse los bienes y obligaciones que están en el comercio, salvo las excepciones establecidas por la ley.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 1135.
 
-Pueden adquirir por prescripción positiva todos los que son capaces de adquirir por cualquiera otro título; los menores y demás incapacitados pueden hacerlo por medio de sus legítimos representantes.
+Pueden adquirir por prescripción positiva todos los que son capaces de adquirir por cualquiera otro título; las niñas, niños o adolescentes y demás incapacitados pueden hacerlo por medio de sus legítimos representantes.
 
 ###### Art. 1136.
 
@@ -7973,11 +8241,11 @@ La prescripción negativa se verifica por el solo transcurso del tiempo fijado p
 
 Fuera de los casos de excepción, se necesita el lapso de diez años, contados desde que una obligación puede exigirse, para que se extinga el derecho de pedir su cumplimiento.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 1157.
 
-La obligación de dar alimentos es imprescriptible. El derecho a reclamar una pensión compensatoria o una compensación patrimonial derivada de un divorcio incausado prescribe en el segundo año de que causó ejecutoria la sentencia de divorcio.
+La obligación de dar alimentos es imprescriptible. El derecho a reclamar una pensión compensatoria o una compensación patrimonial derivada de un divorcio incausado prescribe en el mismo lapso que duró el vínculo matrimonial. El derecho a reclamar una compensación resarcitoria derivada del incumplimiento de la obligación alimentaria en favor de un ascendiente prescribe en igual tiempo que duró la atención y el cuidado por quien alimentó al ascendiente.
 
 ###### Art. 1158.
 
@@ -7993,13 +8261,27 @@ III.- La acción de los dueños de hoteles y casas de huéspedes para cobrar el 
 
 La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquel en que se ministraron los alimentos;
 
-IV.- La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por persona o animales, y que la ley impone al representante de aquellas o al dueño de éstos.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-La prescripción comienza a correr desde el día en que se recibió o fué conocida la injuria o desde aquel en que se causó el daño;
+IV.- La responsabilidad civil que nace del daño causado por persona o animales, y que la ley impone al representante de aquéllas o al dueño de éstos.
 
-V.- La responsabilidad civil proveniente de actos ilícitos que no constituyan delitos.
+La prescripción comienza a correr desde que se tiene pleno conocimiento del daño;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+V.- La responsabilidad civil proveniente de actos ilícitos que no constituyan delitos, cuando los daños son patrimoniales.
 
 La prescripción corre desde el día en que se verificaron los actos.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+###### Art. 1158 Bis.
+
+Cuando la responsabilidad civil derivada de actos ilícitos que no constituyan delito recaiga sobre bienes jurídicos inherentes a la persona humana, como la vida, la salud, o la integridad física o moral, la acción para reclamar la reparación del daño prescribirá en un plazo de diez años.
+
+Se entenderá por daño moral la afectación o alteración significativa que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración o aspectos físicos, o bien, en la consideración que de sí misma tienen los demás.
+
+El plazo de la prescripción de la acción empieza a correr a partir de que las personas afectadas tengan conocimiento pleno del daño.
 
 ###### Art. 1159.
 
@@ -8247,7 +8529,9 @@ Pueden testar todos aquellos a quienes la ley no prohibe expresamente el ejercic
 
 Están incapacitados para testar:
 
-I.- Los menores que no han cumplido dieciséis años de edad, ya sean hombres o mujeres;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+I.- Las niñas, niños o adolescentes que no han cumplido dieciséis años de edad, ya sean hombres o mujeres;
 
 II.- Los que habitual o accidentalmente no disfrutan de su cabal juicio.
 
@@ -8363,13 +8647,17 @@ La capacidad para suceder por testamento, solo se recobra si después de conocid
 
 En los casos de intestado, los descendientes del incapaz de heredar conforme al artículo 1213; heredarán al autor de la sucesión, no debiendo ser excluidos por la falta de su padre; pero éste no puede, en ningún caso, tener en los bienes de la sucesión, el usufructo, ni la administración que la ley acuerda a los padres sobre los bienes de sus hijas e hijos.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 1218.
 
-Por presunción de influjo contrario a la libertad del autor de la herencia, son incapaces de adquirir por testamento del menor, los tutores y curadores, a no ser que sean instituidos antes de ser nombrados para el cargo o después de la mayor edad de aquél, estando ya aprobadas las cuentas de tutela.
+Por presunción de influjo contrario a la libertad del autor de la herencia, son incapaces de adquirir por testamento de la niña, niño o adolescente, los tutores y curadores, a no ser que sean instituidos antes de ser nombrados para el cargo o después de la mayor edad de aquél, estando ya aprobadas las cuentas de tutela.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 1219.
 
-La incapacidad a que se refiere el artículo anterior no comprende a los ascendientes ni hermanos del menor, observándose en su caso lo dispuesto en la fracción X del Artículo 1213.
+La incapacidad a que se refiere el artículo anterior no comprende a los ascendientes ni hermanos de la niña, niño o adolescente, observándose en su caso lo dispuesto en la fracción X del artículo 1213.
 
 ###### Art. 1220.
 
@@ -10029,9 +10317,11 @@ El derecho de reclamar la herencia prescribe en diez años y es transmisible a l
 
 Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 1551.
 
-La herencia dejada a los menores y demás incapacitados, será aceptada por sus tutores, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
+La herencia dejada a las niñas, niños o adolescentes y demás incapacitados, será aceptada por sus tutores, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
@@ -10157,9 +10447,11 @@ IV.- Los que no tengan un modo honesto de vivir.
 
 El testador puede nombrar uno o mas albaceas.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 1579.
 
-Cuando el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, los herederos elegirán albacea por mayoría de votos. Por los herederos menores votarán sus legítimos representantes.
+Cuando el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, los herederos elegirán albacea por mayoría de votos. Por las niñas, niños o adolescentes herederos votarán sus legítimos representantes.
 
 ###### Art. 1580.
 
@@ -10387,9 +10679,11 @@ Son nulas de pleno derecho las disposiciones por las que el testador dispensa al
 
 La cuenta de administración debe ser aprobada por todos los herederos; el que desista, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código de Procedimientos Civiles.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 1623.
 
-Cuando fuere heredera la Hacienda Pública del Estado o los herederos fueren menores, intervendrá el Ministerio Público en la aprobación de las cuentas.
+Cuando fuere heredera la Hacienda Pública del Estado o los herederos fueren niñas, niños o adolescentes, intervendrá el Ministerio Público en la aprobación de las cuentas.
 
 ###### Art. 1624.
 
@@ -10481,7 +10775,9 @@ II.- Por muerte;
 
 III.- Por incapacidad legal, declarada en forma;
 
-IV.- Por excusa que el Juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o el fisco del Estado;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+IV.- Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen niñas, niños o adolescentes o el fisco del Estado;
 
 V.- Por terminar el plazo señalado por la ley las prórrogas concedidas para desempeñar el cargo;
 
@@ -10589,7 +10885,9 @@ A ningún coheredero puede obligarse a permanecer en la indivisión de los biene
 
 Puede suspenderse la partición en virtud de convenio expreso de los interesados.
 
-Habiendo menores entre ellos, deberá oírse al tutor y al Ministerio Público, y el auto en que se apruebe el convenio, determinará el tiempo que debe durar la indivisión.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Habiendo niñas, niños o adolescentes entre ellos, deberá oírse al tutor y al Ministerio Público, y el auto en que se apruebe el convenio, determinará el tiempo que debe durar la indivisión.
 
 ###### Art. 1667.
 
@@ -10621,7 +10919,9 @@ En el proyecto de partición se expresará la parte que del capital o fondo afec
 
 Cuando todos los herederos sean mayores, y el interés del fisco, si lo hubiere, esté cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo o terminación de la testamentaría o del intestado.
 
-Cuando haya menores, podrán separarse, si están debidamente representados y el Ministerio Público da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al Juez, y éste, oyendo al Ministerio Público, dará su aprobación, si no se lesionan los derechos de los menores.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Cuando haya niñas, niños o adolescentes, podrán separarse, si están debidamente representados y el Ministerio Público da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al Juez, y éste, oyendo al Ministerio Público, dará su aprobación, si no se lesionan los derechos de las niñas, niños o adolescentes.
 
 ###### Art. 1674.
 
@@ -11473,13 +11773,17 @@ Las personas que han causado en común un daño, son responsables solidariamente
 
 Las personas morales son responsables de los daños y perjuicios que causen sus representantes legales en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 1816.
 
-Los que ejerzan la patria potestad tienen obligación de responder de los daños y perjuicios causados por los actos de los menores que estén bajo su poder y que habiten con ellos.
+Los que ejerzan la patria potestad tienen obligación de responder de los daños y perjuicios causados por los actos de las niñas, niños o adolescentes que estén bajo su poder y que habiten con ellos.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 1817.
 
-Cesa la responsabilidad a que se refiere el artículo anterior, cuando los menores ejecuten los actos que dan origen a ella, encontrándose bajo la vigilancia y autoridad de otra persona, como directores de colegios, de talleres, etc., pues entonces esas personas asumirán la responsabilidad de que se trata.
+Cesa la responsabilidad a que se refiere el artículo anterior, cuando las niñas, niños o adolescentes ejecuten los actos que dan origen a ella, encontrándose bajo la vigilancia y autoridad de otra persona, como directores de colegios, de talleres, etc., pues entonces esas personas asumirán responsabilidad de que se trata.
 
 ###### Art. 1818.
 
@@ -11668,6 +11972,12 @@ El plazo en las obligaciones se contará de la manera prevenida en los artículo
 Lo que se hubiere pagado anticipadamente no puede repetirse.
 
 Si el que paga ignoraba, cuando lo hizo, la existencia del plazo, tendrá derecho a reclamar del acreedor los intereses o los frutos que éste hubiese percibido de la cosa.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Art. 1851 BIS.- En las obligaciones entre proveedores y consumidores, será obligatoria la entrega de un documento informativo que detalle de forma clara y desglosada: el costo total, intereses aplicables, comisiones, penalizaciones y cualquier otro cargo.
+
+Cualquier cláusula que implique penalizaciones desproporcionadas o que no haya sido informada previamente al consumidor será nula de pleno derecho.
 
 ###### Art. 1852.
 
@@ -13777,9 +14087,11 @@ El mutuante es responsable de los perjuicios que sufra el mutuatario por la mala
 
 En el caso de haberse pactado que la restitución se hará cuando pueda o tenga medios el deudor, se observará lo dispuesto en el artículo 1974.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Art. 2286.
 
-No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
+No se declararán nulas las deudas contraídas por la niña, niño o adolescente para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
 ### CAPITULO II. DEL MUTUO CON INTERES
 
@@ -16581,7 +16893,9 @@ I.- El coheredero o partícipe, sobre los inmuebles repartidos, en cuanto import
 
 II.- Los descendientes de cuyos bienes fueren meros administradores los ascendientes, sobre los bienes de éstos, para garantizar la conservación y devolución de aquéllos; teniendo en cuenta lo que dispone la fracción III del Artículo 520;
 
-III.- Los menores y demás incapacitados sobre los bienes de sus tutores, por los que éstos administren;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+III.- Las niñas, niños o adolescentes y demás incapacitados sobre los bienes de sus tutores, por los que éstos administren;
 
 IV.- Los legatarios, por el importe de sus legados, si no hubiere hipoteca especial designada por el mismo testador;
 
@@ -16591,17 +16905,19 @@ V.- El Estado, los pueblos y los establecimientos públicos, sobre los bienes de
 
 La constitución de la hipoteca en los casos a que se refieren las fracciones II y III del artículo anterior, puede ser pedida:
 
-I.- En el caso de bienes de que fueren meros administradores los padres, por los herederos legítimos del menor;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+I.- En el caso de bienes de que fueren meros administradores los padres, por los herederos legítimos de la niña, niño o adolescente;
 
 II.- En el caso de bienes que administren los tutores, por los herederos legítimos y por el curador del incapacitado, así como por el Consejo Local de Tutelas;
 
 III.- Por el Ministerio Público, si no la pidieren las personas enumeradas en las fracciones anteriores.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 2829.
 
-La constitución de la hipoteca por los bienes de hijas o de hijos de familia, de los menores y de los demás incapacitados se regirá por las disposiciones contenidas en el título VIII, capítulo II; título IX, capítulo IX y título XI, capítulos I y III del Libro Primero.
+La constitución de la hipoteca por los bienes de hijas o de hijos de familia, de las niñas, niños o adolescentes y de los demás incapacitados se regirá por las disposiciones contenidas en el título VIII, capítulo II; título IX, capítulo IX y título XI, capítulos I y III del Libro Primero.
 
 ###### Art. 2830.
 
@@ -17279,11 +17595,11 @@ Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles, e
 
 Cuando se registre una sentencia que declare haber cesado los efectos de otras que esté registrada, se cancelará ésta.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 2930.
 
-Los padres, como administradores de los bienes de sus hijas o hijos; los tutores de menores o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, solo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+Los padres, como administradores de los bienes de sus hijas o hijos; los tutores de las niñas, niños o adolescentes o incapacitados, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
 
 ###### Art. 2931.
 
@@ -18160,3 +18476,17 @@ P.O. 16 DE ENERO DE 2026.
 PRIMERO.- El presente decreto entrará en vigor a los 60 días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El presente decreto no será aplicable a las preventas de compra inmobiliaria realizadas con anterioridad a la entrada en vigor del mismo.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 224. SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 5 DE LA LEY DE REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En lo relativo al Artículo 270 de la Ley de Hacienda del Estado de Nuevo León del Expediente 17188/LXXVI será resuelto por la Comisión de Presupuesto de acuerdo con las atribuciones conferidas por el Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León.
+
+TERCERO.- En lo relativo al Artículo 5 de la Ley de Registro Civil para el Estado de Nuevo León, se realizará conforme a la suficiencia presupuestal y se contemplará una partida dentro del presupuesto para el próximo ejercicio fiscal 2027.
+
+CUARTO.- Se dará un periodo de 120 días hábiles para que se realicen las modificaciones pertinentes al reglamento del Registro Civil.
+
+QUINTO.- En lo relativo al Registro Estatal de Obligaciones Alimentarias en cuanto no se tenga un registro estatal vigente, solo se contemplará lo relativo al Registro Nacional de Obligaciones Alimentarias.
