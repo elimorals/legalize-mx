@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2026-06-25"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -203,11 +203,15 @@ S).- El control sanitario de publicidad de las actividades, productos y servicio
 
 T).- El control sanitario de los establecimientos que procesen alimentos, bebidas no alcohólicas y alcohólicas;
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-U).- La orientación, vigilancia, evaluación y el control del riesgo coronario; y
+U).- La orientación, vigilancia, evaluación y el control del riesgo coronario;
 
-V).- Las demás que establezca la Ley General de Salud y otros ordenamientos legales aplicables.
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+V).- La prevención y el control de las enfermedades auditivas, visuales y bucodentales; y
+
+W).- Las demás que establezca la Ley General de Salud y otros ordenamientos legales aplicables.
 
 II.- De Salubridad Local:
 
@@ -1882,6 +1886,14 @@ V.- La promoción de la participación de la comunidad en su prevención.
 ###### ARTICULO 92.
 
 La Secretaría de Salud implementará acciones entre las instituciones de salud, las sociedades médicas y de profesionales de la salud, con las niñas, niños y adolescentes en condición fértil y padres de familia para crear conciencia sobre el derecho a la vida del individuo concebido y la práctica responsable de la sexualidad.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+ARTICULO 92 BIS.- La Secretaría de Salud garantizará la atención médica integral a las personas, incluyendo servicios de prevención, diagnóstico y tratamiento de sus principales padecimientos de salud, con un enfoque de derechos humanos, igualdad y no discriminación.
+
+Asimismo, se prohíbe a cualquier institución de salud, ya sea pública o privada, negar, restringir o condicionar la prestación de servicios médicos a cualquier persona por su orientación sexual, identidad o expresión de género. El incumplimiento de esta disposición será sancionado conforme a la normatividad vigente en materia de salud y derechos humanos.
+
+La Secretaría de Salud implementará programas de capacitación y sensibilización para el personal médico y administrativo de los servicios de salud, con el fin de garantizar una atención digna, inclusiva y libre de prejuicios a todas las personas, sin distinción alguna.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2008)</small>
 
@@ -4364,3 +4376,23 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Salud contará con un plazo de 90 días naturales para emitir las disposiciones reglamentarias necesarias para la aplicación del artículo 108 Bis.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1124 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I, INCISO U) Y SE ADICIONA UN INCISO V), RECORRIÉNDOSE EN SU ORDEN NATURAL EL SUBSECUENTE AL ARTÍCULO 3 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud del Estado de Tamaulipas implementará las acciones necesarias para dar cumplimiento a las disposiciones contenidas en el presente Decreto, con los recursos humanos, materiales y presupuestales de los que disponga al momento de su entrada en vigor.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1126 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 92 BIS A LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
