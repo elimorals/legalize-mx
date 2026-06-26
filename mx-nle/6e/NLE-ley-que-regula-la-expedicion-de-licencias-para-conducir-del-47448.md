@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-expedicion-de-licencias-para-conducir-del-474
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2025-12-19"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de diciembre de 2005.
 
@@ -57,9 +57,9 @@ II. Autoridad municipal: Autoridad Estatal competente de cualesquiera de los mun
 
 III. Conductor: Persona física que conduce, maneja o tiene control físico de un vehículo automotor;
 
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-III Bis. Examen de valoración Integral: Conjunto de valoraciones físicas, médicas y de conocimiento en materia de reglamentos de transito previstos en esta Ley;
+III Bis. Examen de valoración Integral: Conjunto de valoraciones físicas, médicas, psicológicas y de conocimiento en materia de reglamentos de tránsito, con el fin de evaluar su aptitud para conducir;
 
 IV. Identificación oficial: Credencial para votar con fotografía, pasaporte, cartilla militar, licencia de conducir expedida por la autoridad estatal competente o, en particular para casos de personas mayores de 16 años y menores de 18 años de edad, certificado de educación primaria o secundaria expedido por la Secretaría de Educación Pública;
 
@@ -229,13 +229,21 @@ Para autorizar la expedición de licencias para conducir o renovación de la mis
 
 Para la acreditación de lo anterior se deberán presentar, en original y copia, los documentos que se señalan a continuación:
 
-a) Nombre: Identificación oficial.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-b) Edad: Identificación oficial si ésta incluye la fecha de nacimiento o con el acta respectiva. Para menores de 18 años también se puede acreditar la edad con el acta de nacimiento.
+a) Nombre: Identificación oficial;
 
-c) Clave Única del Registro de Población.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-d) Carta responsiva: Escrito firmado por la persona que ejerza la patria potestad o la tutela del solicitante. En dicho escrito el firmante establecerá el compromiso a responder por cualquier responsabilidad de carácter civil derivada de la conducción de vehículos por parte del menor, e incluirá en el escrito los datos de identificación y domicilio propios y del menor de edad solicitante de la licencia.
+b) Edad: Identificación oficial si ésta incluye la fecha de nacimiento o con el acta respectiva. Para menores de 18 años también se puede acreditar la edad con el acta de nacimiento;
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+c) Clave Única del Registro de Población;
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+d) Carta responsiva: Escrito firmado por la persona que ejerza la patria potestad o la tutela del solicitante. En dicho escrito el firmante establecerá el compromiso a responder por cualquier responsabilidad de carácter civil derivada de la conducción de vehículos por parte del menor, e incluirá en escrito los datos de identificación y domicilio propios y del menor de edad solicitante de la licencia;
 
 e) Estado de salud: Certificado de examen médico reciente expedido por una institución de salud de la localidad legalmente establecida o por un profesionista autorizado por el municipio que cuente con cédula profesional. Mediante dicho certificado se hará constar que el solicitante tiene el estado físico y mental apropiado para la conducción de vehículos, y hará referencia a:
 
@@ -243,27 +251,53 @@ I. Facultades físicas del solicitante, incluyendo agudeza visual y auditiva, ti
 
 II. Facultades mentales del solicitante: no padecer alguna enfermedad mental que cause discapacidad para la conducción de vehículos.
 
-f) Curso de manejo: Constancia de institución autorizada por el municipio.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+f) Curso de manejo: Constancia otorgada por el municipio o institución autorizada por el municipio;
 
 g) Aprobación de examen: Constancia expedida por la autoridad de tránsito y vialidad del municipio respectivo, de aprobación de contenidos teóricos y prácticos de manejo, así como del conocimiento de dispositivos de tránsito y vialidad correspondientes al reglamento del municipio del domicilio del solicitante.
 
-h) Pago de derechos municipales: Recibo de la tesorería del municipio correspondiente al domicilio del solicitante.
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-i) No tener impedimento judicial o administrativo: Escrito firmado por el solicitante mediante el cual declare bajo protesta de decir verdad que no tiene impedimento judicial o administrativo para la conducción de vehículos. Dicha información será verificada por la autoridad estatal competente en materia de expedición de licencias.
+Durante la prueba práctica de manejo de motocicletas, la autoridad de tránsito y vialidad deberá verificar el uso adecuado de casco y equipo de protección, conforme a lo previsto en las Normas Oficiales Mexicanas;
 
-j) Pago de derechos estatales: Recibo oficial.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Para el trámite de expedición de licencia, la acreditación de los requisitos correspondientes señalados en las fracciones I a X del presente artículo deberá realizarse ante la autoridad municipal del domicilio del solicitante. El requisito señalado en la fracción X de este artículo también se acreditará ante la autoridad estatal competente en materia de expedición de licencias así como los requisitos dispuestos en las fracciones XI y XII.
+h) Pago de derechos municipales: Recibo de la tesorería del municipio correspondiente al domicilio del solicitante;
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+i) No tener impedimento judicial o administrativo: Escrito firmado por el solicitante mediante el cual declare bajo protesta de decir verdad que no tiene impedimento judicial o administrativo para la conducción de vehículos. Dicha información será verificada por la autoridad estatal competente en materia de expedición de licencias;
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+j) Pago de derechos estatales: Recibo oficial;
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+k) Certificados expedidos por las autoridades competentes, mediante los cuales se acredite la no inscripción de la persona solicitante en el Registro Estatal y Nacional de Obligaciones Alimentarias o en su caso, demostrar que ha pagado en su totalidad los adeudos alimentarios; y
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+l) Constancia laboral expedida por la empresa o institución correspondiente, mediante la cual se acredite que la persona solicitante desempeña o desempeñará el cargo de chofer. Dicho documento deberá presentarse únicamente cuando la persona aspire a obtener el incentivo previsto en el artículo 15 Bis de la Presente Ley y no sea propietaria de vehículo.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Para el trámite de expedición de licencia, la acreditación de los requisitos correspondientes señalados en las fracciones I a X del presente articulo deberá realizarse ante la autoridad municipal del domicilio del solicitante. El requisito señalado en la fracción X de este artículo también se acreditará ante la autoridad estatal competente en materia de expedición de licencias, así como los requisitos dispuestos en las fracciones XI, XII y XIII.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
 
 En caso de trámites de renovación de las licencias para conducir, la acreditación de los requisitos señalados en el presente artículo deberá realizarse ante la autoridad estatal competente en materia de expedición de licencias.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE JUNIO DE 2026)</small>
+
+Asimismo, las personas solicitantes de licencias especiales para la conducción de vehículos destinados al servicio público de transporte de pasajeros deberán acreditar la aprobación de cursos de capacitación y evaluaciones psicológicas que determine la autoridad competente, orientados al fortalecimiento de la conciencia vial, la atención y trato digno al usuario, prevención de conflictos, el manejo adecuado del estrés laboral y el desarrollo de habilidades emocionales y comunicativas que favorezcan la seguridad y el respeto en la prestación del servicio.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 26 DE JUNIO DE 2026)</small>
 
 Para la expedición de licencias especiales o renovación de las mismas, se deberá presentar a la autoridad estatal competente en materia de expedición de licencias la autorización de la Agencia, de acuerdo a lo dispuesto en la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 26 DE JUNIO DE 2026)</small>
 
 El curso de manejo deberá incluir una presentación audiovisual, por medio de la cual se les informará con relación a los inconvenientes y consecuencias de conducir a alta velocidad, en estado de voluntaria intoxicación ya sea bajo el efecto de las bebidas alcohólicas o intoxicado con cualquier sustancia, además de incluir los riesgos de los accidentes que se pueden ocasionar cuando al conducir vehículos motores se utilice teléfono celular, radio o cualquier aparato de comunicación, ya sea para hablar o enviar cualquier tipo de mensajes de texto utilizando dispositivos móviles de comunicación.
 
@@ -279,9 +313,9 @@ Se les podrá condonar hasta el 50% de los derechos a los que hace referencia lo
 
 Las licencias podrán ser renovadas siempre que la autoridad estatal competente revise la Base de Datos y se desprenda de esta que el conductor no tiene impedimento judicial o administrativo para conducir vehículos.
 
-> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 19 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2026)</small>
 
-El conductor deberá acreditar los requisitos que señala el artículo 14 fracciones VII, IX y XI de la presente Ley, y en el caso de licencias especiales acreditar además los requisitos que establece la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León y su Reglamento, cuando su registro indique:
+El conductor deberá acreditar los requisitos que señala el artículo 14 fracciones VII, IX, XI y XII de la presente Ley, y en el caso de licencias especiales acreditar además los requisitos que establece la Ley de Movilidad Sostenible, de Accesibilidad y Seguridad Vial para el Estado de Nuevo León y su Reglamento, cuando su registro indique:
 
 I. La comisión de dos o más infracciones consideradas como graves según la normativa de vialidad y tránsito de cada municipio; o
 
@@ -290,6 +324,12 @@ II. Pierda la consecutividad de la renovación en los registros de la Autoridad 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
 
 Para el cumplimiento de la presente disposición, la Autoridad Estatal contará con un Padrón de Conductores Infractores, el cual será integrado por la información de las infracciones cometidas por los conductores que circulan en el Estado de Nuevo León, misma que deberá ser compartida por la Autoridad Municipal.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+###### Artículo 15 Bis.
+
+El Instituto de Control Vehicular podrá otorgar a las personas que, sin ser propietarias de un vehículo, requieran tramitar por primera vez o renovar cualquier tipo de licencia con motivo del desempeño de su actividad laboral que implique la conducción, podrán ser acreedores de un 25% de descuento en el pago de su licencia.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2025)</small>
 
@@ -574,3 +614,15 @@ P.O. 19 DE DICIEMBRE DE 2025
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 179. SE REFORMAN LOS ARTÍCULOS, 18 PRIMER Y SEGUNDO PÁRRAFOS; 21 PRIMER PÁRRAFO; 23 FRACCIÓN XI; 32 BIS; Y SE ADICIONA UN ARTÍCULO VIGÉSIMO QUINTO TRANSITORIO; TODOS DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMAN LOS ARTÍCULOS 4 FRACCIÓN I, 12 PRIMER PÁRRAFO; 14 PRIMERO, CUARTO Y QUINTO PÁRRAFOS; 15 PRIMERO Y SEGUNDO PÁRRAFOS; 16; 17 Y 18 SEGUNDO PÁRRAFO; Y SE ADICIONA AL ARTÍCULO 15 CON UN TERCER PÁRRAFO; TODOS DE LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO. El presente Decreto entrará en vigor el 01 de enero del año 2026.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 223. SE REFORMA LA FRACCIÓN III BIS DEL ARTÍCULO 3, LA FRACCIÓN XII, INCISOS A), B), C), D), F), H), I), J), TERCER, QUINTO Y SEXTO PÁRRAFO DEL ARTÍCULO 14 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 15; Y SE ADICIONA LA FRACCIÓN XIII, SEGUNDO PÁRRAFO DEL INCISO G), INCISOS K), L) Y SÉPTIMO PÁRRAFO AL ARTÍCULO 14 Y ARTÍCULO 15 BIS, TODO DE LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 27 BIS; Y SE ADICIONA EL ARTÍCULO 24 BIS, Y LA FRACCIÓN VI AL ARTÍCULO 27 BIS, TODO DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para efectos de lo establecido en el artículo 14 de la Ley que Regula la Expedición de Licencias para Conducir del Estado de Nuevo León, en tanto no se encuentre en funciones el Registro Estatal de Obligaciones Alimentarias se solicitará únicamente la no inscripción en el Registro Nacional de Obligaciones Alimentarias.
+
+TERCERO.- El Poder Ejecutivo emitirá los lineamientos necesarios para implementar y operar las disposiciones que se contemplan en lo dispuesto en el artículo 24 Bis de la Ley que Crea el Instituto de Control Vehicular del Estado de Nuevo León.
+
+CUARTO.- Para efectos de lo establecido en el artículo 27 Bis de la Ley que Crea el Instituto de Control Vehicular del Estado de Nuevo León, en tanto no se encuentre en funciones el Registro Estatal de Obligaciones Alimentarias se solicitará únicamente la no inscripción en el Registro Nacional de Obligaciones Alimentarias.
