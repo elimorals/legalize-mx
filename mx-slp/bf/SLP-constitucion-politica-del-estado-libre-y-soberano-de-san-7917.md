@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2026-06-09"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -467,9 +467,9 @@ La información relativa a la vida privada y a los datos personales será proteg
 
 Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes. El ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2026)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes en la materia determinarán las bases y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
+La Comisión Estatal de Garantía de Acceso a la Información Pública estará integrada por tres comisionados numerarios; y tres supernumerarios, que serán electos por el Congreso del Estado, por el voto aprobatorio de las dos terceras partes de sus miembros presentes, previo procedimiento que iniciará con una convocatoria abierta para la presentación de solicitudes y propuestas.
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2026)</small>
 
@@ -1099,7 +1099,9 @@ III. Presentar denuncias y querellas.
 
 El Instituto de Fiscalización Superior del Estado debe guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
-La titularidad del Instituto de Fiscalización Superior del Estado recaerá en una persona que se denominará Auditora o Auditor Superior, durará en su cargo nueve años, y será nombrada por el Congreso del Estado por el voto de cuando menos las dos terceras partes de sus miembros presentes en la sesión que corresponda. La ley determinará el procedimiento para su nombramiento.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+La titularidad del Instituto de Fiscalización Superior del Estado recaerá en una persona que se denominará Auditora o Auditor Superior, durará en su cargo nueve años, y será nombrada por el Congreso del Estado, por el voto aprobatorio de las dos terceras partes de sus miembros presentes. La ley determinará el procedimiento para su nombramiento.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
@@ -1171,7 +1173,9 @@ XIV.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, s
 
 XV.- Autorizar al Gobernador, así como a los ayuntamientos, para contratar empréstitos a nombre del Estado, y el Municipio, siempre que se destinen a inversiones públicas productivas, y a su refinanciamiento o reestructura, mismas que se deberán realizar bajo las mejores condiciones del mercado, inclusive los que contraigan los organismos descentralizados, empresas públicas, y fideicomisos; y en el caso del Estado, adicionalmente para otorgar garantías respecto al endeudamiento de los municipios. Lo anterior con base en la ley correspondiente, por los conceptos, y hasta por los montos que el Congreso del Estado apruebe. El Gobernador del Estado informará de su ejercicio al rendir la cuenta pública. En ningún caso se podrán destinar empréstitos para cubrir gasto corriente.
 
-El Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes, deberá autorizar los montos máximos para, en las mejores condiciones del mercado, contratar dichos empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+El Congreso del Estado, por el voto aprobatorio de las dos terceras partes de sus miembros presentes, deberá autorizar los montos máximos para, en las mejores condiciones del mercado, contratar dichos empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
 
 Sin perjuicio de lo anterior, el Estado o los municipios podrán contratar obligaciones para cubrir sus necesidades a corto plazo, sin rebasar los límites máximos y condiciones que establezca la Ley General que expida el Congreso de la Unión. Las obligaciones a corto plazo deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente, y no podrán contratarse nuevas obligaciones durante ese tiempo;
 
@@ -1241,9 +1245,9 @@ XXXV.- Calificar las licencias que sean definitivas de las personas Magistradas 
 
 XXXVI.- Nombrar al presidente de la Comisión Estatal de Derechos Humanos, y al del Tribunal Estatal de Conciliación y Arbitraje, así como conocer y resolver las solicitudes de destitución de los mismos, en los términos de la presente Constitución;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-XXXVII.- Elegir, en los términos de esta Constitución, al Fiscal General del Estado; al Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción; y al Fiscal Especializado en Delitos Electorales; así como a oponerse con el voto de por lo menos las dos terceras partes de sus miembros, a la remoción de estos fiscales;
+XXXVII.- Elegir, en los términos de esta Constitución, al Fiscal General del Estado; al Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción; y al Fiscal Especializado en Delitos Electorales; así como a oponerse con el voto aprobatorio de las dos terceras partes de sus miembros presentes, a la remoción de estos fiscales;
 
 XXXVIII.- Recibir la protesta de ley que ante él deban rendir los servidores públicos;
 
@@ -1363,11 +1367,11 @@ Toda iniciativa de ley que fuere desechada conforme al Reglamento del Congreso, 
 
 Las resoluciones del Congreso tendrán el carácter de ley, decreto, acuerdo o iniciativa al Congreso de la Unión.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 65.
 
-Para la discusión y votación de todo proyecto de ley, se necesita la presencia de cuando menos la mayoría absoluta de los Diputados que compongan la Legislatura. Es suficiente para las determinaciones, el voto de la mayoría absoluta de los concurrentes, a excepción de los casos en que se necesiten las dos terceras partes, según lo previsto en la presente Constitución.
+Para la discusión y votación de todo proyecto de ley, se necesita la presencia de cuando menos la mayoría de los Diputados que compongan la Legislatura. Es suficiente para las determinaciones, el voto de la mayoría de los concurrentes, a excepción de los casos en que se necesiten el voto aprobatorio de las dos terceras partes de sus miembros presentes, según lo previsto en la presente Constitución.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1385,11 +1389,11 @@ Si el Ejecutivo hace observaciones al proyecto de ley, el Congreso volverá a di
 
 El Gobernador del Estado no podrá ejercer su derecho de veto respecto a las leyes que normen el funcionamiento interno del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 68.
 
-Todo proyecto de ley devuelto por el Gobernador del Estado con observaciones, necesita para su aprobación del voto de cuando menos las dos terceras partes del número de Diputados presentes y, en este caso, se remitirá nuevamente al Ejecutivo para que, sin más trámite, sancione y publique la ley.
+Todo proyecto de ley devuelto por el Gobernador del Estado con observaciones, necesita para su aprobación del voto aprobatorio de las dos terceras partes de sus miembros presentes de Diputados y, en este caso, se remitirá nuevamente al Ejecutivo para que, sin más trámite, sancione y publique la ley.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1491,9 +1495,9 @@ En ningún caso y por ningún motivo podrá volver a ocupar el cargo de Gobernad
 
 Para cubrir las faltas temporales del Gobernador del Estado mayores a treinta días, el Congreso o, en su caso, la Diputación Permanente, nombrará de inmediato, en un plazo que no exceda de cinco días naturales, al Gobernador Provisional.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral y, concurriendo cuando menos las dos terceras partes del total de sus integrantes, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino.
+En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral y, concurriendo cuando menos las dos terceras partes de sus miembros presentes, nombrará, en escrutinio secreto y por mayoría de votos, un Gobernador interino.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1977,9 +1981,9 @@ También se responsabilizará de la determinación del número, división, compe
 
 La conformación del Órgano de Administración Judicial será colegiada y compuesta por tres Consejerías del Órgano de Administración Judicial.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Las tres Consejerías serán designadas directamente y no por voto ciudadano; una Consejería será designada por el titular del Poder Ejecutivo del Estado, otra Consejería será designada por el Pleno del Congreso del Estado mediante votación por mayoría calificada del mismo, a propuesta de la Junta de Coordinación Política, y la tercera Consejería será designada por el voto de las dos terceras partes de los integrantes del Pleno del Supremo Tribunal de Justicia del Estado. La duración del cargo de persona Consejera será de seis años sin posibilidad de reelegirse por un segundo período, conforme a las determinaciones que establezca la Ley.
+Las tres Consejerías serán designadas directamente y no por voto ciudadano; una Consejería será designada por el titular del Poder Ejecutivo del Estado, otra Consejería será designada por el Pleno del Congreso del Estado mediante voto aprobatorio de las dos terceras partes de sus miembros presentes, a propuesta de la Junta de Coordinación Política, y la tercera Consejería será designada por el voto de las dos terceras partes de los integrantes del Pleno del Supremo Tribunal de Justicia del Estado. La duración del cargo de persona consejera será de seis años sin posibilidad de reelegirse por un segundo periodo, conforme a las determinaciones que establezca la Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 22 DE DICIEMBRE DE 2024)</small>
 
@@ -2601,15 +2605,19 @@ El Ministerio Público se organizará en una Fiscalía General del Estado, como 
 
 La Fiscalía General del Estado estará a cargo del o de la Fiscal General del Estado, que durará en su encargo siete años, sin posibilidad de reelección y deberá cumplir los requisitos establecidos en el artículo 92 de esta Constitución, con excepción del voto ciudadano.
 
-Corresponde al Gobernador del Estado proponer al Congreso, al triple de personas para ocupar el cargo del Fiscal General del Estado, dentro de los cuales la Legislatura hará la elección en el término de treinta días y por el voto de cuando menos las dos terceras partes de los diputados presentes en la sesión correspondiente. Si vencido ese plazo no se hubiera hecho la elección, el titular del Ejecutivo procederá a hacer el nombramiento de entre las propuestas.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Corresponde al Gobernador del Estado proponer al Congreso, al triple de personas para ocupar el cargo del Fiscal General del Estado, dentro de los cuales la Legislatura hará la elección en el término de treinta días y por el voto aprobatorio de las dos terceras partes de sus miembros presentes en la sesión correspondiente. Si vencido ese plazo no se hubiera hecho la elección, el titular del Ejecutivo procederá a hacer el nombramiento de entre las propuestas.
 
 En caso de que el Congreso rechace la propuesta, el Gobernador del Estado presentará una nueva terna en los términos del párrafo anterior; si esta segunda propuesta fuera rechazada, ocupará el cargo la persona que, dentro de la misma, designe el Gobernador del Estado.
 
-El Fiscal General sólo podrá ser removido por el titular del Poder Ejecutivo del Estado, por las causas graves que establezca la ley, la remoción podrá ser objetada por el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado, dentro de un plazo de diez días hábiles posteriores a que el Ejecutivo haga de su conocimiento la remoción, en cuyo caso, el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción y podrá el Ejecutivo iniciar el procedimiento de la elección del nuevo titular de la Fiscalía en términos de los párrafos anteriores.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2023)</small>
+El Fiscal General sólo podrá ser removido por el titular del Poder Ejecutivo del Estado, por las causas graves que establezca la ley, la remoción podrá ser objetada por el Congreso del Estado con el voto aprobatorio de las dos terceras partes de sus miembros presentes, dentro de un plazo de diez días hábiles posteriores a que el Ejecutivo haga de su conocimiento la remoción, en cuyo caso, el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción y podrá el Ejecutivo iniciar el procedimiento de la elección del nuevo titular de la Fiscalía en términos de los párrafos anteriores.
 
-En caso de que la persona titular de la Fiscalía General fallezca, se ausente definitivamente, o presente renuncia ante el Congreso del Estado, declarada la vacante por este último, dará aviso al Ejecutivo del Estado para que en un término de treinta días naturales, envíe propuesta de terna de profesionistas para que dé entre éstos, en un término de treinta días y por el voto de cuando menos las dos terceras partes de las diputadas y los diputados presentes en la sesión correspondiente, se elija a quien ocupará el cargo por el tiempo para el que fue electa la persona que se está supliendo.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+En caso de que la persona titular de la Fiscalía General fallezca, se ausente definitivamente, o presente renuncia ante el Congreso del Estado, declarada la vacante por este último, dará aviso al Ejecutivo del Estado para que en un término de treinta días naturales, envíe propuesta de terna de profesionistas para que dé entre éstos, en un término de treinta días y por el voto aprobatorio de las dos terceras partes de sus miembros presentes en la sesión correspondiente, se elija a quien ocupará el cargo por el tiempo para el que fue electa la persona que se está supliendo.
 
 Para efecto de lo dispuesto en los párrafos anteriores de este artículo, si el Congreso del Estado se encontrare en receso, la Diputación Permanente lo convocará de inmediato a periodo extraordinario.
 
@@ -2759,9 +2767,9 @@ Podrán ser sujetos de juicio político en el Estado, las personas Diputadas, la
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-El Congreso del Estado aplicará las sanciones a que se refiere este precepto, previa declaración de procedencia emitida por cuando menos el voto de las dos terceras partes de sus miembros presentes, después de haber substanciado el procedimiento respectivo con audiencia del inculpado.
+El Congreso del Estado aplicará las sanciones a que se refiere este precepto, previa declaración de procedencia emitida por el voto aprobatorio de las dos terceras partes de sus miembros presentes, después de haber substanciado el procedimiento respectivo con audiencia del inculpado.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2789,25 +2797,23 @@ Si la sentencia fuese absolutoria, será rehabilitado en los términos que dispo
 
 > <small>(DEROGADO SEXTO PÁRRAFO, P.O. 30 DE OCTUBRE DE 2017)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 128.
 
-Por lo que se refiere al Gobernador del Estado, en el supuesto del artículo 110 párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos, recibidas las constancias por el Congreso Local, procederá a imponer las sanciones correspondientes aprobadas por el voto de cuando menos las dos terceras partes del Congreso del Estado, aplicando las disposiciones conducentes de la Ley Federal de Responsabilidades de los Servidores Públicos.
+Por lo que se refiere al Gobernador del Estado, en el supuesto del artículo 110 párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos, recibidas las constancias por el Congreso Local, procederá a imponer las sanciones correspondientes aprobadas con el voto de las dos terceras partes de sus miembros presentes, aplicando las disposiciones conducentes de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
-I. (DEROGADA, P.O. 30 DE OCTUBRE DE 2017)
-
-II. (DEROGADA, P.O. 30 DE OCTUBRE DE 2017)
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE OCTUBRE DE 2017)</small>
-
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 129.
 
-En los supuestos del artículo 124 de esta Constitución, la Legislatura del Estado, previa la substanciación del procedimiento respectivo, resolverá lo conducente por el voto de cuando menos las dos terceras partes del total de sus miembros.
+En los supuestos del artículo 124 de esta Constitución, la Legislatura del Estado, previa la substanciación del procedimiento respectivo, resolverá lo conducente por el voto aprobatorio de las dos terceras partes de sus miembros presentes.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 Si el fallo determina la responsabilidad, el efecto inmediato será la revocación del mandato constitucional.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 La separación del encargo no libera de la responsabilidad penal en que hubiere incurrido el acusado.
 
@@ -2929,19 +2935,23 @@ DE LAS REFORMAS E INVIOLABILIDAD A LA CONSTITUCIÓN
 
 Los funcionarios que, según el artículo 61 de esta Constitución, tienen derecho de iniciativa, lo tienen, igualmente, de iniciar las reformas a esta Constitución.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 138.
 
-Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requerirá su aprobación por el voto de por lo menos las dos terceras partes del número total de los diputados, y el voto posterior de la mayoría de los ayuntamientos del Estado.
+Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requerirá su aprobación por el voto aprobatorio de las dos terceras partes de sus miembros presentes, y el voto posterior de la mayoría de los Ayuntamientos del Estado.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
 Los ayuntamientos tendrán un plazo no mayor de dos meses para pronunciarse a favor o en contra de las adiciones o reformas que les sean enviadas por el Congreso; este plazo comenzará a partir de la recepción de las mismas. De no pronunciarse en el plazo estipulado se les tendrá por conformes con los términos y, por tanto, aprobadas las adiciones o reformas enviadas por el Congreso.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2014)</small>
+
 Una vez cumplida cualquiera de las hipótesis señaladas en los párrafos anteriores, el Congreso del Estado, o la Diputación Permanente, en su caso, harán el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
 
-Tratándose de reformas o adiciones ordenadas por la Constitución Política de los Estados Unidos Mexicanos, que deban constar en la presente Constitución, únicamente se requerirá la aprobación de cuando menos las dos terceras partes del número total de los diputados, para que éstas formen parte de la misma.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Tratándose de reformas o adiciones ordenadas por la Constitución Política de los Estados Unidos Mexicanos, que deban constar en la presente Constitución, únicamente se requerirá la aprobación del voto aprobatorio de las dos terceras partes de sus miembros presentes, para que éstas formen parte de la misma.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -4380,3 +4390,11 @@ TERCERO. Las facultades de investigación que se otorgan a la Secretaría de Seg
 CUARTO. Las facultades de investigación que se otorgan a las policías municipales, serán ejercidas a partir del primero de enero de dos mil veintiocho.
 
 QUINTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0568.- QUE REFORMA LOS ARTÍCULOS 17, 54, 57, 65, 68, 77, 98, 122 BIS, 126, 128, 129 Y 138, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; Y REFORMA LOS ARTÍCULO 73 Y 84, DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
