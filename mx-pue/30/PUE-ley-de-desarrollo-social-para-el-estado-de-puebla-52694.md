@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-social-para-el-estado-de-puebla-52694"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2023-04-11"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en la Cuarta Sección al Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -143,6 +143,10 @@ VIII.- Organizaciones: Agrupaciones civiles y sociales, en las que participan pe
 
 IX.- Padrón Único de Beneficiarios: Relación oficial de beneficiarios que incluye a las personas habitantes del Estado, atendidas por los Programas Estatales de Desarrollo Social, así como los Federales y Municipales convenidos, cuyo perfil socioeconómico se establece en la normatividad correspondiente;
 
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+IX Bis.- Política de Desarrollo Social: Conjunto de programas, proyectos y acciones tendientes a reducir las brechas de desigualdad, pobreza, rezago social y exclusión social, que potencian y garantizan el desarrollo sostenible y con equidad;
+
 X.- Programas Sociales: Políticas públicas orientadas a combatir la pobreza, la marginación y la vulnerabilidad o la inequidad social;
 
 XI.- Secretaría: Secretaría de Desarrollo Social del Gobierno del Estado de Puebla;
@@ -235,7 +239,9 @@ La Política Estatal de Desarrollo Social comprende los programas, acciones, dir
 
 El desarrollo social debe coordinarse con la política de desarrollo económico, con el objeto de que propicie y fomente el empleo, eleve el nivel de ingreso y mejore su distribución, como parte del proceso económico, y tendrá los siguientes objetivos:
 
-I.- Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, en los Programas de Desarrollo Social y la igualdad de oportunidades para la superación de la pobreza y la marginación social;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+I.- Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social y la igualdad de oportunidades, así como la superación de la discriminación, la exclusión social y la eliminación de las brechas de desigualdad entre mujeres y hombres;
 
 II.- Fortalecer el desarrollo regional y municipal de manera equilibrada, a través de los programas regionales que establezca el Estado como resultado de la coordinación con los Municipios, propiciando la equidad y el fortalecimiento institucional de los mismos. Para estos efectos, ambas instancias de gobierno concertarán mecanismos que permitan una mejor distribución y el ejercicio transparente y eficiente de los recursos;
 
@@ -249,13 +255,17 @@ IV.- Garantizar formas de participación social en la formulación, ejecución, 
 
 V.- Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-VI.- Fortalecer el Desarrollo Regional equilibrado, y
+VI.- Fortalecer el Desarrollo Regional equilibrado;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-VII.- Promover acciones y programas que incidan en la erradicación del hambre y desnutrición en la población del Estado.
+VII.- Promover acciones y programas que incidan en la erradicación del hambre y desnutrición en la población del Estado, y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VIII.- Promover el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales.
 
 ###### Artículo 13.
 
@@ -918,5 +928,13 @@ P.O. 11 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 9, LA FRACCIÓN I DEL ARTÍCULO 15, LA FRACCIÓN V DEL ARTÍCULO 20 BIS Y LA FRACCIÓN VII DEL ARTÍCULO 33, TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LAS FRACCIONES I, VI Y VII DEL ARTÍCULO 12 Y SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 3 Y LA FRACCIÓN VIII AL ARTÍCULO 12 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
