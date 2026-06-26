@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2026-05-29"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -668,6 +668,10 @@ XXI.- Auxiliar a las autoridades federales y estatales en la aplicación de las 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 XXII.- Expedir licencias, permisos o autorizaciones en el ámbito de su competencia, con excepción de aquellas que avalen o emitan opinión para la apertura u operación en territorio de su Municipio, de centros de cruce de apuestas en hipódromos, galgódromos, frontones, así como para la instalación de centros de apuestas remotas y de salas de sorteos de números o símbolos;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+XXII Bis.- Para el otorgamiento de licencias, permisos o autorizaciones municipales destinados a la celebración de espectáculos públicos o al funcionamiento de establecimientos donde se comuniquen públicamente obras musicales en vivo, exigirá al empresario de espectáculos, productores o intérpretes, la presentación de la documentación que acredite la titularidad de los derechos de autor, la autorización o licencia de explotación, o el convenio celebrado con la sociedad de gestión colectiva correspondiente conforme a la Ley Federal del Derecho de Autor. La autoridad competente orientará a la persona solicitante respecto del lugar en donde podrán tramitar la autorización o licencia de explotación, así como poner sobre aviso de las medidas administrativas aplicables en caso de incumplimiento;
 
 XXIII.- Proveer en la esfera administrativa todo lo necesario para la creación, sostenimiento y desarrollo de los servicios públicos municipales.
 
@@ -2942,6 +2946,10 @@ VII.- Calles, parques y jardines y su equipamiento.
 VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito.
 
 IX.- Los demás que el Congreso determine, según las condiciones territoriales y socioeconómicas de los municipios, así como su capacidad administrativa y financiera.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+En la prestación del servicio de alumbrado público, los Ayuntamientos podrán impulsar la incorporación progresiva de tecnologías de eficiencia energética y el aprovechamiento de energías renovables, preferentemente energía solar, con el objeto de mejorar la calidad del servicio, reducir el consumo de energía eléctrica, generar ahorros presupuestales y contribuir a la protección del medio ambiente.
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
 
@@ -7414,3 +7422,27 @@ Las reformas del presente Decreto respecto a la prohibición de nepotismo entrar
 ###### ARTÍCULO OCTAVO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1121 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XXII BIS AL ARTÍCULO 49, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo máximo de ciento veinte días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos del Estado deberán adecuar sus reglamentos municipales de espectáculos públicos y procedimientos de licencias, permisos y autorizaciones, a fin de incorporar los requisitos y mecanismos de verificación.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1122 MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EL ACTUAL EN SU ORDEN NATURAL DEL ARTÍCULO 170 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cumplimiento al presente Decreto, los Ayuntamientos de acuerdo a su disponibilidad presupuestal, podrán aplicarlo de manera paulatina.
