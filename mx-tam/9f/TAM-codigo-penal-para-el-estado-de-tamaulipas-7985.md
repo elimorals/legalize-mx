@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2026-06-23"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -2361,13 +2361,13 @@ Al responsable de los delitos previstos en este capítulo, se le impondrá una s
 
 ### CAPITULO II. CORRUPCION, PORNOGRAFIA, PROSTITUCION SEXUAL DE MENORES E INCAPACES Y PEDERASTIA
 
-(NOTA: EL 9 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 65-825, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### ARTICULO 192.
 
-Comete el delito de corrupción de menores e incapaces el que procure o facilite a una o varias personas menores de dieciocho años de edad o a quien no tenga capacidad de comprender el significado del hecho, a realizar actos de exhibicionismo corporal, lascivos o sexuales, o los reclute, obligue o induzca por cualquier medio a la práctica de la mendicidad, la ebriedad, el consumo de drogas, la prostitución, EL HOMOSEXUALISMO, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
+Comete el delito de corrupción de menores e incapaces el que procure o facilite a una o varias personas menores de dieciocho años de edad o a quien no tenga capacidad de comprender el significado del hecho, a realizar actos de exhibicionismo corporal, lascivos o sexuales, o los reclute, obligue o induzca por cualquier medio a la práctica de la mendicidad, la ebriedad, el consumo de drogas, la prostitución, a formar parte de una asociación delictuosa, o a cometer cualquier delito.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2024)</small>
 
 El consentimiento dado por la persona menor de dieciocho años de edad no constituirá causal de exoneración de la responsabilidad penal.
 
@@ -2377,11 +2377,9 @@ El consentimiento dado por la persona menor de dieciocho años de edad no consti
 
 Al responsable del delito a que se refiere el artículo anterior se le impondrá una sanción de cinco a diez años de prisión y multa de cuatrocientas a mil veces el valor diario de la Unidad de Medida y Actualización.
 
-(NOTA: EL 9 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2024, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 65-825, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor o incapaz la sanción a imponer será de seis a doce años de prisión y multa de quinientos a mil doscientas veces el valor diario de la Unidad de Medida y Actualización. Si debido a esa conducta reiterada de corrupción sobre el mismo menor o incapaz éste adquiera los hábitos de alcoholismo, uso de substancias tóxicas u otras que produzcan efectos similares, o se dedique a la prostitución, O A LAS PRÁCTICAS HOMOSEXUALES, o forme parte de una asociación delictuosa, la sanción a imponer será de ocho a dieciséis años de prisión y multa de seiscientos a dos mil veces el valor diario de la Unidad de Medida y Actualización.
+Cuando los actos de corrupción se realicen reiteradamente sobre el mismo menor o incapaz la sanción a imponer será de seis a doce años de prisión y multa de quinientos a mil doscientas veces el valor diario de la Unidad de Medida y Actualización. Si debido a esa conducta reiterada de corrupción sobre el mismo menor o incapaz este adquiera los hábitos de alcoholismo, uso de substancias tóxicas u otras que produzcan efectos similares, o se dedique a la prostitución, o forme parte de una asociación delictuosa, la sanción a imponer será de ocho a dieciséis años de prisión y multa de seiscientos a dos mil veces el valor diario de la Unidad de Medida y Actualización.
 
 Si además de los delitos previstos en este capítulo resultare cometido otro, se aplicarán las reglas del concurso.
 
@@ -4525,27 +4523,51 @@ No eximirá de responsabilidad alguna a los participantes de éste delito aún c
 
 ### CAPITULO VI. ACECHO
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
-ARTICULO 318 TER.- Comete el delito de acecho, quien siga, vigile o se comunique, persistentemente con alguien en contra de su voluntad, provocándole miedo o temor.
+ARTICULO 318 TER.- Comete el delito de acecho quien siga, vigile o se comunique persistentemente con alguien en contra de su voluntad, provocándole un estado de miedo o temor.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2024)</small>
 
 Al responsable del delito de acecho se le impondrá una pena de seis meses a dos años de prisión y multa de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización.
 
-Este delito se perseguirá por querella de la parte ofendida.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Este delito se perseguirá por querella de la parte ofendida, salvo cuando la víctima sea persona menor de edad, o pertenezca a un grupo vulnerable, o que haya sido cometido por persona servidora pública, en cuyo caso se perseguirá de oficio.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2024)</small>
 
 ARTICULO 318 QUATER.- Se incrementará en una mitad los mínimos y máximos de las sanciones que se señalan en el artículo anterior cuando concurran cualquiera de las circunstancias siguientes:
 
-I.- Cuando la conducta provenga de una persona adulta en contra de una persona menor de edad;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-II.- Cuando los actos se cometan en contra de una mujer embarazada o de una persona especialmente vulnerable por razón de su edad, condición física o situación socioeconómica;
+I.- Cuando la conducta provenga de una persona adulta en contra de una niña, niño o adolescente;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+II.- Cuando los actos se cometan en contra de una mujer embarazada, persona gestante o de una persona especialmente vulnerable por razón de su edad, condición física o situación socioeconómica;
 
 III.- Cuando los actos se cometan en razón de la identidad de género u orientación sexual de la persona víctima;
 
-IV.- Cuando se utilicen dispositivos tecnológicos para la vigilancia, persecución o contacto no deseado, directamente por el agente activo o por interpósita persona; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-V.- Cuando la conducta sea reiterada, al menos en dos ocasiones y altere la vida normal de la víctima, provocándole cambiar su itinerario normal, hábitos, costumbres, número de teléfono, correo electrónico, perfiles de redes sociales, su lugar de residencia o de trabajo.
+IV.- Cuando se utilicen dispositivos tecnológicos para la vigilancia, persecución o contacto no deseado, directamente por el agente activo o por interpósita persona;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+V.- Cuando la conducta sea reiterada, al menos en dos ocasiones y altere la vida normal de la víctima, provocándole cambiar su itinerario normal, hábitos, costumbres, número de teléfono, correo electrónico, perfiles de redes sociales, su lugar de residencia o de trabajo;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VI.- Cuando se realicen actos de daño o vandalismo en bienes muebles o inmuebles propiedad de la víctima o de su familia en sus lugares de residencia, trabajo o estudio; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VII.- Cuando el responsable sea persona servidora pública y, en el ejercicio de sus funciones, tenga acceso a datos o información personal de la víctima. En dicho supuesto se le impondrá, además, la destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por un tiempo igual al de la pena de prisión impuesta.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Si además del delito de acecho resultase cometido otro, se observarán las reglas del concurso.
 
 ## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
 
@@ -5201,9 +5223,9 @@ e) El incapaz sobre el que se es tutor o curador.
 
 Para los efectos de este artículo, se entenderán por tipos de violencia y/o maltrato los previstos por los artículos 3, de la Ley de Prevención de la Violencia Familiar del Estado de Tamaulipas y 3, de la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-A quien cometa el delito de violencia familiar se le impondrá de dos a siete años de prisión y perderá los derechos de pensión alimenticia, así como los de carácter sucesorio con relación a la víctima. Asimismo, se le sujetará a tratamiento psicológico especializado y estará obligado al pago de la reparación del daño de las víctimas.
+A quien cometa el delito de violencia familiar se le impondrá de dos a siete años de prisión y perderá el derecho de pensión alimenticia, así como los de carácter sucesorio con relación a la víctima. Asimismo, se le sujetará a una atención especializada y tratamiento integral como persona generadora de violencia familiar, y estará obligado al pago de la reparación del daño de las víctimas.
 
 > <small>(ADICIONADO, P.O. 10 DE ENERO DE 2024)</small>
 
@@ -5251,9 +5273,9 @@ VIII.- Exista imposibilidad material de la víctima de denunciar.
 
 Se equipara a la violencia familiar y se sancionará con uno a cinco años de prisión al que realice cualquiera de los actos señalados en el artículo anterior en contra de la persona con quien tuvo una relación formal o informal de afecto, noviazgo o amistad, incluyendo el ex-cónyuge, exconcubinario, ex-concubina, o en contra de sus parientes por consanguinidad o afinidad hasta el cuarto grado o cualquiera otra persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Asimismo se le sujetará a tratamiento psicológico especializado.
+Asimismo, se le sujetará a una atención especializada y tratamiento integral como persona generadora de violencia familiar.
 
 > <small>(ADICIONADO, P.O. 28 DE MARZO DE 2025)</small>
 
@@ -8348,6 +8370,38 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 23 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-358 MEDIANTE EL CUAL SE ADICIONAN EL CAPÍTULO IV TER, DENOMINADO "DELITOS CONTRA LA ORIENTACIÓN SEXUAL, IDENTIDAD O EXPRESIÓN DE GÉNERO DE LAS PERSONAS", AL TÍTULO DUODÉCIMO DEL LIBRO SEGUNDO, Y EL ARTÍCULO 276 OCTIES AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1114 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 318 TER, PÁRRAFOS PRIMERO Y TERCERO; Y 318 QUATER, FRACCIONES I, II, IV Y V; Y SE ADICIONAN LAS FRACCIONES VI Y VII, AL PÁRRAFO PRIMERO Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 318 QUATER, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE ACECHO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO 66-1116 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 368 BIS, PÁRRAFO CUARTO, Y 368 QUÁTER, PÁRRAFO SEGUNDO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; Y LOS ARTÍCULOS 13, FRACCIÓN II, INCISO B), Y 19, PÁRRAFO 1; Y SE ADICIONA UN PÁRRAFO 3 AL ARTÍCULO 19, DE LA LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a 120 días naturales, las autoridades competentes deberán emitir los lineamientos para el contenido mínimo, evaluación y verificación de cumplimiento de la atención especializada y tratamiento integral como generadores de violencia familiar señalados en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a 180 días naturales, las instituciones responsables deberán habilitar o fortalecer la capacidad operativa para impartir la atención especializada y tratamiento integral como generadores de violencia familiar y rendir informes de cumplimiento a la autoridad jurisdiccional.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1120 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 192, PÁRRAFO PRIMERO Y 193, PÁRRAFO SEGUNDO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
