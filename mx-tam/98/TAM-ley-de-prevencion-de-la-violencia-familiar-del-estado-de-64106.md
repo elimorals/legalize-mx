@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-prevencion-de-la-violencia-familiar-del-estado-de-64106"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-24"
-last_updated: "2023-10-25"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 24 de junio de 2008.
 
@@ -255,9 +255,9 @@ II. Acordar de manera urgente e inmediata, hasta en tanto se resuelva el procedi
 
 a) Prevenir al agresor se separe de la residencia común y se ordene la entrega de su ropa y los bienes que sean necesarios para el trabajo que realice;
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNO DE 2026)</small>
 
-b) Ordenar la asistencia obligatoria a instituciones oficiales que ejecuten los programas terapéutico-educativos para su reinserción;
+b) Ordenar la asistencia obligatoria a instituciones oficiales que ejecuten los programas terapéutico-educativos para su reinserción, los cuales deberán incluir, al menos, el control y manejo psicoemocional, la erradicación de conductas violentas y habilidades de resolución pacífica de conflictos. La institución remitirá al órgano jurisdiccional informes periódicos de asistencia y avance, en los términos que determine la autoridad judicial;
 
 c) Suspender al presunto agresor el derecho de visitar a sus hijos, en caso de agresión sexual contra menores de edad o incapacitados;
 
@@ -343,9 +343,15 @@ Para los efectos de esta ley, se entienden por prevención las medidas encaminad
 
 ###### Artículo 19.
 
-1. La atención a quienes incurran en actos de violencia familiar se basará en modelos terapéuticos reeducativos que disminuyan el potencial violento.
+> <small>(REFORMADO, P.O. 26 DE JUNO DE 2026)</small>
+
+1. La atención a quienes incurran en actos de violencia familiar se basará en modelos terapéuticos reeducativos que disminuyan el potencial violento, los cuales deberán incluir, al menos, el control y manejo psicoemocional, la erradicación de conductas violentas y habilidades de resolución pacífica de conflictos.
 
 2. A quienes hayan sido sujetos, actor o demandado, en una sentencia judicial firme relacionada con eventos de violencia familiar, a solicitud de la autoridad jurisdiccional de acuerdo con las facultades que tiene conferidas, o bien a solicitud del propio interesado se les podrá brindar la atención terapéutica que requieran.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNO DE 2026)</small>
+
+3. Cuando la autoridad jurisdiccional ordene la atención, se deberá incluir un plan de intervención y mecanismos de verificación de cumplimiento, mediante constancias e informes periódicos, sin contacto con la víctima y en espacios distintos.
 
 ###### Artículo 20.
 
@@ -608,3 +614,19 @@ P.O. 25 DE OCTUBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1116 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 368 BIS, PÁRRAFO CUARTO; Y 368 QUÁTER, PÁRRAFO SEGUNDO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; Y LOS ARTÍCULOS 13, FRACCIÓN II, INCISO B); Y 19, PÁRRAFO 1; Y SE ADICIONA UN PÁRRAFO 3 AL ARTÍCULO 19 DE LA LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a 120 días naturales, las autoridades competentes deberán emitir los lineamientos para el contenido mínimo, evaluación y verificación de cumplimiento de la atención especializada y tratamiento integral como generadores de violencia familiar señalados en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a 180 días naturales, las instituciones responsables deberán habilitar o fortalecer la capacidad operativa para impartir la atención especializada y tratamiento integral como generadores de violencia familiar y rendir informes de cumplimiento a la autoridad jurisdiccional.
