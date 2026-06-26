@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-131963"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-06"
-last_updated: "2026-02-12"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada al Número 147 del Periódico Oficial del Estado de Tamaulipas, el jueves 6 de diciembre de 2018.
 
@@ -143,7 +143,17 @@ Para los efectos de esta Ley se entenderá por:
 
 a) Acciones afirmativas: El conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
 
-b) Discriminación: Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad sustantiva de las personas;
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+a bis) Brecha salarial de género: Es la diferencia de retribución salarial entre mujeres y hombres por razones de género, respecto a la realización de un trabajo remunerado de igual valor;
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+b) Discriminación: Toda distinción, exclusión, restricción o preferencia que por acción u omisión, con intención o sin ella, tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos, las libertades y la igualdad sustantiva de oportunidades en las esferas social, cultural, educativa, política, institucional, laboral o cualquier otra, incluyendo cualquier acción u omisión que directa o indirectamente provoque o perpetúe la brecha de género en cualquier ámbito.
+
+Lo anterior, cuando la distinción, exclusión, restricción o preferencia en esos términos se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, el embarazo, la lengua o el idioma, las creencias religiosas o espirituales, la apariencia y/o condición física, las características genéticas, la situación migratoria, las opiniones, la identidad de género, la orientación sexual, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, profesión o actividad laboral, los antecedentes penales o cualquier otro motivo análogo.
+
+También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
 
 c) Discriminación contra la mujer: Toda distinción, exclusión o restricción basada en el sexo, que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad de la mujer y el hombre, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
@@ -154,6 +164,10 @@ e) Igualdad de género: Situación en la cual mujeres y hombres acceden con las 
 f) Igualdad sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
 g) Instituto: Instituto de las Mujeres en Tamaulipas;
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+g bis) Igualdad salarial: Remuneración igual por un trabajo de igual valor, sin distinguir el sexo, el género, la identidad de género, el origen étnico, la orientación sexual, la edad, las discapacidades, la condición social, económica, de salud o jurídica, entre otras;
 
 h) Perspectiva de género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
 
@@ -1078,3 +1092,11 @@ El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su
 ###### ARTÍCULO TERCERO.
 
 En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1118 MEDIANTE EL CUAL SE REFORMA EL INCISO B), Y SE ADICIONAN LOS INCISOS A BIS) Y G BIS), AL ARTÍCULO 7 DE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
