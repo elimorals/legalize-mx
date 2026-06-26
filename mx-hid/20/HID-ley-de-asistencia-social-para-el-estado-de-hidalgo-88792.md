@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2026-05-21"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -425,9 +425,17 @@ III. La confidencialidad respecto a sus condiciones personales y de los servicio
 
 IV. Recibir los servicios sin discriminación;
 
-V. Que se respeten todos y cada uno de sus derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en los que el Estado Mexicano sea parte, Leyes Federales, la Constitución Política del Estado de Hidalgo y otras leyes locales en la materia, así como de las garantías para su protección; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-VI. Tener acceso a la información de los programas, proyectos y servicios en materia de asistencia social, en los términos de la legislación en materia de transparencia y acceso a la información.
+V. Que se respeten todos y cada uno de sus derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en los que el Estado Mexicano sea parte, Leyes Federales, la Constitución Política del Estado de Hidalgo y otras leyes locales en la materia, así como de las garantías para su protección;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VI. Tener acceso a la información de los programas, proyectos y servicios en materia de asistencia social, en los términos de la legislación en materia de transparencia y acceso a la información, y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VII. Participar y beneficiarse de los programas sociales que se otorguen con el propósito de garantizar el bienestar integral de las personas y combatir las condiciones de pobreza y marginación.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
 
@@ -439,7 +447,9 @@ Son obligaciones de los sujetos de la asistencia social:
 
 I.- Cumplir dentro del marco de la corresponsabilidad con la normatividad y lineamientos de los programas asistenciales en los que participe o sea beneficiario;
 
-II.- Proporcionar los datos que le sean requeridos mediante diversas herramientas de evaluación a los programas asistenciales, como son entrevistas y cuestionarios;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+II.- Proporcionar, con veracidad y oportunidad, los datos que les sean requeridos por las autoridades competentes o responsables de la operación de los programas asistenciales y de desarrollo social, mediante las herramientas de evaluación que correspondan, como entrevistas, cuestionarios u otros instrumentos autorizados;
 
 III.- Hacerse completamente responsable del uso y conservación de los equipos y materiales que se le entreguen derivados de los programas asistenciales;
 
@@ -1704,5 +1714,11 @@ CUARTO. En un plazo que no exceda de ciento ochenta días naturales contados a p
 P.O. 21 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 636 – LXVI POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE ACTUALIZACIÓN DE CONCEPTOS Y DENOMINACIÓN DE DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 651 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE DERECHOS Y OBLIGACIONES DE LOS SUJETOS DE ASISTENCIA SOCIAL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
