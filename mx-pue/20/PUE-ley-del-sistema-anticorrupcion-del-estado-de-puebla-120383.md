@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-anticorrupcion-del-estado-de-puebla-120383"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2024-02-27"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en la Trigésima Tercera Sección al Número 19 del Periódico Oficial del Estado de Puebla, el martes 27 de diciembre de 2016.
 
@@ -175,9 +175,13 @@ VIII. Requerir información a los entes públicos respecto del cumplimiento de l
 
 IX. Determinación e instrumentación de los mecanismos, bases y principios para la coordinación con las autoridades de fiscalización, control y de prevención y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
 
-X. Emisión de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-Dicho informe será el resultado de las evaluaciones realizadas por la Secretaría Ejecutiva y será aprobado por la mayoría de los integrantes del Comité Coordinador Estatal, los cuales podrán realizar votos particulares, concurrentes o disidentes, sobre el mismo y deberán ser incluidos dentro del informe anual;
+X. Emitir un informe anual que contenga los avances, resultados y propuestas de mejora derivadas del ejercicio de sus funciones.
+
+Dicho informe contendrá las evaluaciones realizadas por la Secretaría Ejecutiva y será aprobado por la mayoría de los integrantes del Comité Coordinador Estatal, los cuales podrán realizar votos particulares, concurrentes o disidentes sobre el mismo, que deberán ser incluidos dentro del informe anual.
+
+El informe deberá ser redactado en lenguaje claro y accesible para la ciudadanía, y difundirse a través de la Plataforma Digital Estatal, garantizando su disponibilidad y accesibilidad a toda la población.
 
 XI. Con el objeto de garantizar la adopción de medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como para mejorar el desempeño del control interno, el Comité Coordinador Estatal emitirá recomendaciones públicas no vinculantes ante las autoridades respectivas y les dará seguimiento en términos de esta Ley;
 
@@ -964,5 +968,13 @@ P.O. 27 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 9 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
