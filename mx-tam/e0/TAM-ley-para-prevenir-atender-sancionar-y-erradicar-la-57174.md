@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2026-06-25"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -63,15 +63,15 @@ Los principios rectores para el acceso de todas las mujeres, adolescentes y niñ
 
 a) La igualdad jurídica, sustantiva, de resultados y estructural;
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-b) La dignidad de las mujeres;
+b) El respeto a la dignidad de las mujeres;
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-c) La no discriminación;
+c) La no discriminación y apoyo y desarrollo integral de la víctima;
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE JUNIO DE 2026)</small>
 
 d) La libertad y autonomía de las mujeres;
 
@@ -79,13 +79,13 @@ d) La libertad y autonomía de las mujeres;
 
 e) La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos;
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-f) La perspectiva de género;
+f) La transversalidad de la perspectiva de género y la coordinación institucional;
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-g) La debida diligencia;
+g) La seguridad jurídica y debida diligencia;
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
 
@@ -121,9 +121,9 @@ c) Física: cualquier acción u omisión que produzca un daño en la mujer, prov
 
 d) Patrimonial: cualquier acción u omisión que afecte la supervivencia de la mujer. Dicha acción u omisión comprende cualquier conducta o conductas que produzcan la afectación de bienes de la mujer destinados a satisfacer sus propias necesidades, incluyéndose los daños a los bienes comunes o propios de la mujer;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-e) Económica: cualquier acción u omisión que afecte la supervivencia económica de la mujer. Dicha acción u omisión comprende cualquier limitación encaminada a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor en el desempeño de un trabajo, ocupación, cargo, ejercicio, ejecución, práctica, cumplimiento o función igual en puesto y jornada dentro de un mismo centro de trabajo;
+e) Económica: cualquier acción u omisión que afecte la supervivencia económica de la mujer. Dicha acción u omisión comprende cualquier limitación encaminada a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor en el desempeño de un trabajo, ocupación, cargo, ejercicio, ejecución, práctica, cumplimiento o función igual en puesto y jornada dentro de un mismo centro de trabajo; así como la omisión total o parcial en el pago de la pensión alimenticia;
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -1862,6 +1862,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 25 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1104 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I A LA X; Y SE ADICIONAN LAS FRACCIONES XI A LA XXI, DEL ARTÍCULO 3 BIS, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1113 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS B), C), D), F) Y G) DEL ARTÍCULO 2, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1128 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 3, INCISO E), DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
 
 ###### ARTÍCULO ÚNICO.
 
