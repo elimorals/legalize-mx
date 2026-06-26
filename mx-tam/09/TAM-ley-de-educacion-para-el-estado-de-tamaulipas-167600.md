@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-167600"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-23"
-last_updated: "2026-06-25"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Vespertina Número 101 del Periódico Oficial del Estado de Tamaulipas, el miércoles 23 de agosto de 2023.
 
@@ -134,6 +134,10 @@ Para el cumplimiento de los fines y criterios previstos en esta Ley y de conform
 1.- Las autoridades educativas del Estado de Tamaulipas tendrán como propósito la construcción social de la equidad, la excelencia y la mejora continua en la educación, para lo cual colocarán al centro de la acción pública el máximo logro de aprendizaje de las niñas, niños, adolescentes y jóvenes. Las acciones que desarrollen tendrán como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela y en la comunidad.
 
 2.- La Secretaría, se encargará de promover y establecer, por los conductos y acciones correspondientes, que en las instituciones educativas, públicas y privadas, se impartan los conocimientos básicos y generales, respecto del contenido de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Tamaulipas, fomentando en quienes integran la comunidad escolar, la solidaridad y una firme conciencia cívica nacionalista, que prepare una mejor ciudadanía mexicana y tamaulipeca.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+3.- Asimismo, las autoridades educativas promoverán el desarrollo de la inteligencia emocional entre las y los estudiantes, mediante programas y estrategias integrales que favorezcan el reconocimiento, manejo y expresión de las emociones, el desarrollo de la empatía y la toma de decisiones responsables, en coordinación con la Secretaría de Salud del Estado, en el ámbito de sus respectivas competencias.
 
 ###### ARTÍCULO 10.
 
@@ -561,6 +565,12 @@ VII.- Promover la intervención de personal de apoyo educativo, conocido como ma
 
 En el Sistema Educativo Estatal se atenderán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley General para la Inclusión de las Personas con Discapacidad, la Ley Federal para Prevenir y Eliminar la Discriminación y en las demás normas aplicables.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+###### ARTÍCULO 44 Bis.
+
+La Secretaría, en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia y las instituciones competentes en materia de justicia para adolescentes, de acuerdo a sus respectivas competencias y de conformidad con la disponibilidad presupuestal; establecerán mecanismos que permitan la reinserción escolar de las y los adolescentes por conductas inapropiadas que van en contra de la Ley.
+
 ### CAPÍTULO OCTAVO. DE LA EDUCACIÓN PARA PERSONAS ADULTAS
 
 ###### ARTÍCULO 45.
@@ -927,9 +937,9 @@ VI.- Celebrar convenios de cooperación, coordinación y concertación con los s
 
 VII.- Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencia en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-VIII.- Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento, aprendizaje digital, manejo y uso responsable de tecnologías avanzadas, como la Inteligencia Artificial, a fin de concientizar sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social;
+VIII.- Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, para incorporar como principio de la educación la formación digital responsable y que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o en entornos digitales, en los ámbitos familiar, comunitario, escolar y social;
 
 IX.- Concertar con las autoridades municipales, instancias de seguridad pública e integrantes de la comunidad en que esté ubicado el centro escolar, acciones para salvaguardar la integridad física y psicológica de la comunidad escolar, así como de la infraestructura educativa; y
 
@@ -1249,9 +1259,9 @@ XI.- Fomentar y difundir las actividades artísticas, culturales y físico-depor
 
 XII.- Promover y desarrollar en el ámbito de su competencia las actividades y programas relacionados con el fomento de la lectura y el uso de los libros, de acuerdo con lo establecido en la ley de la materia;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2026)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-XIII.- Fomentar el uso ético, responsable y seguro de las tecnologías de la información, comunicación, aprendizaje digital y herramientas informáticas, incluyendo tecnologías avanzadas como la Inteligencia Artificial, para apoyar los procesos de enseñanza-aprendizaje y fortalecer las habilidades digitales de las y los estudiantes en la búsqueda, selección y uso crítico de la información;
+XIII.- Fomentar el uso responsable y seguro de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el sistema educativo, para apoyar el aprendizaje de los estudiantes, ampliar sus habilidades digitales para la selección y búsqueda de información, incluyendo de manera transversal contenidos de educación digital, prevención del ciberacoso, protección de datos personales y desarrollo de habilidades socioemocionales vinculadas al uso de tecnologías;
 
 XIV.- Participar en la realización, en forma periódica y sistemática, de exámenes de evaluación a los educandos, así como corroborar que el trato de las y los educadores y educandos sea de respeto recíproco y atienda al cumplimiento de los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano y demás legislación aplicable a niñas, niños, adolescentes y jóvenes;
 
@@ -1926,6 +1936,30 @@ La Secretaría de Educación del Estado, deberá diseñar e implemente (sic) las
 P.O. 25 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1103 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XI Y XII Y SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 49 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1123 MEDIANTE EL CUAL SE ADICIONA EL NUMERAL 3 AL ARTÍCULO 9 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1125 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 44 BIS A LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1127 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; Y LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
