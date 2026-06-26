@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-rural-sustentable-del-estado-de-puebla-40976"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-18"
-last_updated: "2022-12-22"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Puebla, el miércoles 18 de agosto de 2004.
 
@@ -159,9 +159,11 @@ V.- Fomentar la protección y el aprovechamiento sustentable de los recursos nat
 
 VI.- Mejorar la cantidad y la calidad de los servicios a la población.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 8.
 
-Las acciones de Desarrollo Rural Sustentable que efectúe el Gobierno del Estado, apoyaran de manera diferenciada y prioritaria a las regiones y zonas con mayor rezago social y económico.
+Las acciones de desarrollo rural sustentable que efectúe el Gobierno del Estado, se aplicarán con criterios de perspectiva de género e interculturalidad y atenderán, de manera diferenciada y prioritaria, a las regiones y zonas con mayor rezago social y económico, mediante el impulso a las actividades del medio rural, el incremento a la inversión productiva, el fomento a la diversificación de oportunidades de empleo e ingreso, y la promoción de vínculos entre los ámbitos rural y urbano para facilitar a los agentes de la sociedad rural el acceso a los apoyos que requiere su actividad productiva, así como a los servicios para su bienestar.
 
 El Gobierno del Estado, a través de la Secretaría promoverá lo necesario para formular y llevar a cabo programas de atención especial, con la concurrencia de los instrumentos de política de desarrollo rural a cargo de las dependencias y entidades de la administración pública de los órdenes de gobierno competentes.
 
@@ -1530,6 +1532,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 22 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 109 Y 115 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 8 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
