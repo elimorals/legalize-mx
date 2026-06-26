@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2026-04-24"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -854,6 +854,10 @@ Para hacer efectiva la procuración de los derechos contenidos en esta Ley, los 
 Las acciones, medidas y políticas públicas que lleven a cabo las autoridades señaladas en el párrafo anterior, no discriminarán a las mujeres por motivo de su origen étnico, nacional o regional, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquiera otra que atente contra la dignidad humana.
 
 En materia de violencia política contra las mujeres en razón de género, las autoridades estatales, municipales, auxiliares, o cualesquiera que se encuentren en la estructura de la administración pública estatal y municipal, deberán colaborar con el Instituto Electoral del Estado y el Tribunal Electoral del Estado de Puebla para el otorgamiento de las órdenes de protección que sean decretadas.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Las autoridades del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, con el fin de diseñar, implementar y evaluar protocolos de prevención, detección y atención de la violencia vicaria, deberán tomar en cuenta las consideraciones de los modelos de prevención, investigación, atención, sanción y erradicación de la violencia establecidos en la presente Ley; y deberán aplicarse en los ámbitos judicial, educativo, de salud y de asistencia social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2024)</small>
 
@@ -2336,5 +2340,13 @@ P.O. 24 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 43 Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 13 DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 32 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA, ASIMISMO SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 64, Y SE ADICIONA UN TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 64 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
