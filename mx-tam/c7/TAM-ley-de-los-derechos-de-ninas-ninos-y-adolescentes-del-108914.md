@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2026-05-22"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -857,11 +857,11 @@ VIII.- La privación de la libertad o reclusión de la madre; y
 
 IX.- El feminicidio de su madre.
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 32 Bis.
 
-Las niñas, niños y adolescentes tienen derecho a no sufrir violencia en el ámbito digital. Tanto las autoridades como quienes ejerzan la patria potestad, tutela, guarda o custodia o bien, quienes, sin tener dicho carácter, los tengan bajo su cuidado, deberán tomar acciones para detectar y atender en forma integral aquellos casos en que se utilicen las tecnologías de la información y comunicación para agredir o vulnerar la dignidad, intimidad, libertad y vida privada de niñas, niños y adolescentes.
+Las niñas, niños y adolescentes tienen derecho a la protección y a no sufrir violencia en el ámbito digital, que comprende el acceso seguro a internet, la protección contra contenidos inapropiados, la violencia digital, el ciberacoso y cualquier forma de explotación o abuso en medios digitales. Tanto las autoridades como quienes ejerzan la patria potestad, tutela, guarda o custodia o bien, quienes, sin tener dicho carácter, los tengan bajo su cuidado, deberán tomar acciones para detectar y atender en forma integral aquellos casos en que se utilicen las tecnologías de la información y comunicación para agredir o vulnerar la dignidad, intimidad, libertad y vida privada de niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
 
@@ -1243,9 +1243,9 @@ III. La prevención de violaciones a los derechos humanos de niñas, niños y ad
 
 IV. La información y participación de niñas, niños y adolescentes para la prevención y atención de las adicciones; y
 
-> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-V. La implementación de estrategias de prevención, atención y protección para salvaguardar la salud mental de niñas, niños y adolescentes ante los efectos negativos del uso excesivo de dispositivos digitales, a través de campañas de concienciación dirigidas tanto a ellos como a madres, padres y personas tutoras, así como mediante el desarrollo de protocolos específicos que promuevan un uso equilibrado y saludable de la tecnología.
+V. Diseñar e implementar políticas públicas de prevención, alfabetización digital, atención, canalización y protección en casos de violencia digital para salvaguardar la salud mental de niñas, niños y adolescentes ante los efectos negativos del uso excesivo de dispositivos digitales, a través de campañas de concienciación dirigidas tanto a ellos como a madres, padres y personas tutoras, así como mediante el desarrollo de protocolos específicos que promuevan un uso equilibrado y saludable de la tecnología.
 
 ###### ARTÍCULO 46.
 
@@ -1259,17 +1259,41 @@ V. La implementación de estrategias de prevención, atención y protección par
 
 ### CAPÍTULO DÉCIMO SÉPTIMO. DEL DERECHO A LA PARTICIPACIÓN
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 47.
 
-Niñas, niños y adolescentes tienen derecho a ser escuchados y tomados en cuenta en los asuntos de su interés, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+Niñas, niños y adolescentes tienen derecho a ser escuchados y tomados en cuenta en los asuntos de su interés, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez y que estos sean reconocidos por su entorno familiar y comunitario.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 48.
 
-Las autoridades estatales y municipales, están obligados a disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
+1. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a disponer e implementar, acciones, mecanismos y condiciones que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen. Los mecanismos deberán considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+2. La familia, sociedad y comunidad promoverán las acciones tendientes al ejercicio del derecho de participación en sus respectivos ámbitos.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 48 BIS.
+
+Las autoridades servidoras y servidores públicos en sus respectivas competencias fomentarán la creación de espacios de participación para que las niñas, niños y adolescentes:
+
+I.- Se organicen de conformidad con sus intereses y en los términos de las disposiciones jurídicas aplicables;
+
+II.- Opinen, analicen, y en general, puedan expresar su punto de vista y propuestas, de forma individual o colectiva, en todos aquellos asuntos de su interés y éstos sean tomados en cuenta;
+
+III.- Participen en el fomento a la cultura de respeto a sus derechos; y
+
+IV.- Participen en programas de educación para la democracia y la tolerancia.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 49.
 
-Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan.
+1. Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan, estando obligadas las autoridades correspondientes a informarles en formatos de lectura fácil y/u otros medios, que les permitan comprender los procesos de forma sencilla y clara.
+
+2. Además, tienen derecho a conocer la sentencia que decida sobre sus derechos, debiendo la autoridad judicial o quien ejerza la representación jurídico procesal, comunicar o justificar en su caso, la razón por la que no se informó la resolución a la niña, niño o adolescente.
 
 ### CAPÍTULO DÉCIMO OCTAVO. DEL DERECHO DE ASOCIACIÓN Y REUNIÓN
 
@@ -1471,9 +1495,9 @@ ARTÍCULO 69 BIS.
 
 1. Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro de la internet y las tecnologías de la información y la comunicación, como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento y no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-Las madres, padres, tutores o quienes ejerzan la guarda y custodia de las y los menores de edad, tendrán la obligación de promover y procurar el uso adecuado, equilibrado y responsable del internet y de las tecnologías de la información y la comunicación, a fin de garantizar el desarrollo y bienestar físico, mental y emocional de niñas, niños y adolescentes.
+Las madres, padres, tutores o quienes ejerzan la guarda y custodia de las personas menores de edad, tendrán la obligación de supervisar, orientar y acompañar promoviendo y procurando el uso adecuado, equilibrado y responsable del internet, de dispositivos digitales y de las tecnologías de la información y la comunicación, a fin de garantizar el desarrollo y bienestar físico, mental y emocional de niñas, niños y adolescentes, en corresponsabilidad con el Estado y el Sistema Educativo local.
 
 > <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2022)</small>
 
@@ -2494,6 +2518,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 22 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-1058 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, Y LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1117 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 47, 48 Y 49; Y SE ADICIONA EL ARTÍCULO 48 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1127 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; Y LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
