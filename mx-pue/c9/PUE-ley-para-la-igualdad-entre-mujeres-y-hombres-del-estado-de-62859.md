@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6285
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-22"
-last_updated: "2025-08-19"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2025.
-
-(REPUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2025).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de agosto de 2008.
 
@@ -75,9 +73,11 @@ VI.- Promover el empoderamiento de las mujeres, la paridad de género y la lucha
 
 Para los efectos de esta Ley se entenderá por discriminación, toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Artículo 2.
 
-Son sujetos de esta Ley, las mujeres y los hombres que se encuentren en el territorio del Estado, que por razón de su sexo, edad, estado civil, profesión, cultura, origen étnico o de nacionalidad, condición social, salud, religión, opinión o discapacidad, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
+Son sujetos de esta Ley, las mujeres y hombres que se encuentran en el territorio del Estado, que por razón de su sexo, edad, estado civil, profesión, cultura, origen étnico o de nacionalidad, condición social, salud, religión, opinión, orientación o preferencia sexual, identidad de género o discapacidad, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
 
 Esta Ley se fundamenta en el reconocimiento de la igualdad jurídica de la mujer para todos los actos jurídicos, por lo que las leyes que aún mantengan normas que excluyan o atenúen su capacidad jurídica, son consideradas como discriminatorias a los efectos de ésta.
 
@@ -155,7 +155,9 @@ XI.- Principio de Igualdad: Posibilidad y capacidad de ser titulares cualitativa
 
 XII.- Programa: Programa Estatal para la Igualdad entre Mujeres y Hombres;
 
-XIII.- Secretaría: Secretaría de Igualdad Sustantiva;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+XIII.- Secretaría: Secretaría de las Mujeres
 
 XIV.- Sistema Estatal: Sistema Estatal para la Igualdad entre Mujeres y Hombres;
 
@@ -195,19 +197,29 @@ Serán autoridades en la aplicación del presente ordenamiento las siguientes:
 
 El Estado y los Municipios establecerán las bases de coordinación para la integración y funcionamiento del Sistema Estatal para la Igualdad entre mujeres y hombres.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Artículo 7 Ter.
 
-El Estado, a través de la Secretaría de Igualdad Sustantiva, podrá suscribir convenios o acuerdos de coordinación con la coparticipación del Instituto Nacional de las Mujeres, o con cualquier otro de naturaleza análoga, a fin de:
+El Estado, a través de la Secretaría de las Mujeres, podrá suscribir convenios o acuerdos de coordinación con la coparticipación del Instituto Nacional de las Mujeres, o con cualquier otro de naturaleza análoga, a fin de:
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 I.- Fortalecer sus funciones y atribuciones en materia de igualdad;
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 II.- Establecer mecanismos de coordinación para lograr la transversalidad de la perspectiva de género en la función pública estatal;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 III.- Impulsar la vinculación interinstitucional en el marco del Sistema;
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 IV.- Coordinar las tareas en materia de igualdad mediante acciones específicas y, en su caso, afirmativas que contribuyan a una estrategia estatal, y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 V.- Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, deportiva, cultural y civil.
 
@@ -996,6 +1008,14 @@ P.O. 29 DE MAYO DE 2025.
 REPUBLICADO, P.O. 19 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA, Y DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 2, LA FRACCIÓN XIII DEL ARTÍCULO 4 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 7 TER DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
