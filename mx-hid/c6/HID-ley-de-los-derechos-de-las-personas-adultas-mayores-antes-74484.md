@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2026-06-17"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -533,9 +533,17 @@ V.- Proporcionar a las personas adultas mayores una mejor calidad de vida y gara
 
 VI.- Promover la contratación de las personas adultas mayores conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
 
-VII.- Impulsar el desarrollo de programas de capacitación para que las personas adultas mayores adquieran conocimientos, y destrezas en el campo de formulación y ejecución de proyectos productivos; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-VIII.- Implementar y organizar una bolsa de trabajo mediante la cual se identifiquen actividades laborales que puedan ser desempeñadas por las personas adultas mayores y orientarlas para que presenten ofertas de trabajo.
+VII.- Impulsar el desarrollo de programas de capacitación para que las personas adultas mayores adquieran conocimientos, y destrezas en el campo de formulación y ejecución de proyectos productivos;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VIII.- Implementar y organizar una bolsa de trabajo mediante la cual se identifiquen actividades laborales que puedan ser desempeñadas por las personas adultas mayores y orientarlas para que presenten ofertas de trabajo; e
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+IX.- Incorporar el enfoque de envejecimiento activo en las acciones, programas y políticas de empleo, capacitación y participación productiva dirigidas a las personas adultas mayores, privilegiando el aprovechamiento de su experiencia, conocimientos y habilidades, en condiciones de dignidad y respeto a sus capacidades.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -557,9 +565,17 @@ VI.- Celebrar convenios específicos de colaboración con instituciones y organi
 
 VII.- Promover la coordinación con las Instituciones Federales y Locales de salud y educación, para implementar programas de sensibilización y capacitación al personal y a las familias con el objeto de favorecer la convivencia con las personas adultas mayores, para que esta sea armónica.
 
-VIII.- Implementar en coordinación con las instituciones Federales en el Estado, programas de estímulos e incentivos a las personas adultas mayores que estudien; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-IX.- Implementar programas a efecto de crear y difundir en la población en general y en la familia, la cultura, dignificación, respeto e integración a la sociedad de las personas adultas mayores.
+VIII.- Implementar en coordinación con las instituciones Federales en el Estado, programas de estímulos e incentivos a las personas adultas mayores que estudien;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+IX.- Implementar programas a efecto de crear y difundir en la población en general y en la familia, la cultura, dignificación, respeto e integración a la sociedad de las personas adultas mayores; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+X.- Promover que las acciones y programas dirigidos a las personas adultas mayores se desarrollen bajo un enfoque de envejecimiento activo.
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
@@ -613,9 +629,9 @@ X.- Fomentar que las instituciones educativas y de seguridad social establezcan 
 
 XI.- Asesorar y orientar a las personas adultas mayores y a sus familias en materia de Geriatría, Gerontología y Tanatología;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-XII.- Promover y fomentar la creación, gestión y apoyo de centros de atención geriátrica y gerontológica, clubes, casas de día, grupos de personas adultas mayores, unidades médicas y organizaciones civiles dedicadas a la atención de la salud física y/o mental de este sector de la población;
+XII.- Promover y fomentar la creación, gestión y apoyo de centros de atención geriátrica y gerontológica, clubes, casas de día, grupos de personas adultas mayores, unidades médicas y organizaciones civiles dedicadas a la atención de la salud física y/o mental de este sector de la población, bajo el enfoque de envejecimiento activo;
 
 XIII.- Impulsar el desarrollo de un sistema asistencial que atienda los múltiples problemas médicos que tienen como rasgo común la pérdida de la funcionalidad e independencia física o social;
 
@@ -1310,5 +1326,11 @@ P.O. 14 DE ABRIL DE 2026.
 P.O. 17 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 648 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 6 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DEL PRINCIPIO DE PROGRESIVIDAD".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 653 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE ENVEJECIMIENTO ACTIVO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
