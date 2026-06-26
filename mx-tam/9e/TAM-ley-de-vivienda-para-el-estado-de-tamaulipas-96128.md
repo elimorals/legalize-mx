@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-vivienda-para-el-estado-de-tamaulipas-96128"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2026-04-08"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de septiembre de 2013.
 
@@ -137,9 +137,17 @@ VI. Reubicar a familias que habiten en zonas de riesgo, en asentamientos humanos
 
 VII. Adecuar los proyectos urbanos y arquitectónicos de vivienda, sus procesos productivos y la utilización de materiales, a los rasgos culturales y locales;
 
-VIII. Distribuir equilibradamente las acciones de vivienda en localidades urbanas y rurales, y fomentar desarrollos urbanos integrales sustentables; y,
+> <small>(REFORMADA; P.O. 26 DE JUNIO DE 2026)</small>
 
-IX. Proporcionar a la población información suficiente para la toma de decisiones sobre las tendencias del desarrollo urbano en su localidad, y las opciones que ofrecen los programas públicos de suelo y vivienda.
+VIII. Distribuir equilibradamente las acciones de vivienda en localidades urbanas y rurales, y fomentar desarrollos urbanos integrales sustentables;
+
+> <small>(REFORMADA; P.O. 26 DE JUNIO DE 2026)</small>
+
+IX. Proporcionar a la población información suficiente para la toma de decisiones sobre las tendencias del desarrollo urbano en su localidad, y las opciones que ofrecen los programas públicos de suelo y vivienda; y
+
+> <small>(ADICIONADA; P.O. 26 DE JUNIO DE 2026)</small>
+
+X. Promover el derecho a la vivienda adecuada con perspectiva de derechos humanos, igualdad de género y sustentabilidad, fomentando que toda persona, sin distinción de origen, raza, color, condición social o cualquier otra, cuente con acceso y disponibilidad de servicios que aseguren un entorno digno.
 
 ### CAPÍTULO II. AUTORIDADES
 
@@ -940,6 +948,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 8 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1023 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1115 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VIII Y IX; Y SE ADICIONA UNA FRACCIÓN X, AL ARTÍCULO 4, DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
