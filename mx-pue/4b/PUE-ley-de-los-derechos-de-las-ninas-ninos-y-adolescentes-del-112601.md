@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2026-03-03"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -1145,7 +1145,17 @@ La recuperación y restitución de derechos a que se refiere el párrafo anterio
 
 En los casos en que niñas, niños y adolescentes sean víctimas de delitos, se aplicarán las disposiciones de la Ley de Protección a las Víctimas para el Estado de Puebla y demás disposiciones aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
 
-Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Estatal de Protección, deberá coordinarse con la instancia competente, en los términos de la legislación aplicable.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE JUNIO DE 2026)</small>
+
+En materia de violencia vicaria, se deberán fomentar y en su caso establecer protocolos de actuación, prevención, atención y protección de niñas, niños y adolescentes, brindando atención integral y especializada, con enfoque de derechos humanos, interés superior a la niñez y de género, incorporando medidas de actuación inmediata cuando se identifique riesgo inminente para la integridad física o emocional de las víctimas, en forma de manipulación, instrumentalización o daño derivado de conflictos inter parentales, promoviendo la recuperación física, psicológica y la restitución de sus derechos.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Para efectos del párrafo anterior se entenderá como violencia vicaria lo dispuesto en la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 26 DE JUNIO DE 2026)</small>
+
+Para el cumplimiento de lo dispuesto en el presente artículo, el Sistema Estatal de Protección, deberá coordinarse con la instancia competente, en los términos de la legislación aplicable.
 
 ### CAPÍTULO XIV. DEL DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
 
@@ -2610,5 +2620,13 @@ P.O. 3 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LAS FRACCIONES IX Y X, Y SE ADICIONA LA FRACCIÓN XI, AL ARTÍCULO 49 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 32 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA, ASIMISMO SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 64, Y SE ADICIONA UN TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 64 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
