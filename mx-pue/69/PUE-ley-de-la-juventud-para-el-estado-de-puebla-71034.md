@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-juventud-para-el-estado-de-puebla-71034"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-09"
-last_updated: "2025-12-04"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de noviembre de 2009.
 
@@ -479,13 +479,13 @@ Toda persona joven tiene derecho al descanso, la recreación y al tiempo libre, 
 
 #### SECCIÓN NOVENA. DERECHO AL DEPORTE
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Artículo 45.
 
-Toda persona joven tienen el derecho a practicar cualquier deporte y/o disciplina física de acuerdo a su libre elección y aptitudes.
+Toda persona joven tiene el derecho a practicar cualquier deporte y/o disciplina física de acuerdo a su libre elección y aptitudes.
 
-Los Gobiernos Estatal y Municipales promoverán y garantizarán, la práctica del deporte juvenil como medio para aprovechar productivamente el tiempo libre, además de difundir permanentemente los beneficios que trae consigo la práctica cotidiana de actividad física y deportiva.
+Los Gobiernos Estatal y Municipales promoverán y garantizarán, la práctica del deporte juvenil como medio para aprovechar productivamente el tiempo libre y con ello contribuir a la recuperación del tejido social, además de difundir permanentemente los beneficios que trae consigo la práctica cotidiana de actividad física y deportiva.
 
 #### SECCIÓN DÉCIMA. DERECHO AL DESARROLLO
 
@@ -781,9 +781,9 @@ IV.- Promover proyectos destinados al fomento de los derechos juveniles;
 
 V.- Servir como órgano de análisis del Ejecutivo Estatal, en la planeación y programación de políticas y acciones relacionadas con el desarrollo integral de la juventud, de acuerdo al Plan Estatal de Desarrollo; y
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-VI.- Las demás que se establezcan en la presente Ley, en los demás ordenamientos legales y disposiciones administrativas, o le encomiende el Secretario de Educación Pública.
+VI.- Las demás que se establezcan en la presente Ley, en los demás ordenamientos legales y disposiciones administrativas, o le encomiende la persona Titular de la Secretaría de Educación Pública;
 
 VII.- (DEROGADA, P.O. 9 DE MAYO DE 2012)
 
@@ -903,9 +903,9 @@ VI.- (DEROGADA, P.O. 9 DE MAYO DE 2012)
 
 El Premio Estatal de la Juventud será entregado a personas jóvenes poblanos que radiquen en el Estado y que su edad este comprendida entre los doce y veintinueve años, y su conducta o dedicación al trabajo o al estudio cause entusiasmo y admiración entre sus contemporáneos y pueda considerarse ejemplo estimulante para crear y desarrollar motivos de superación personal o de progreso de la comunidad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-La denominación correspondiente será Premio Estatal de la Juventud "Vicente Suárez". La Secretaría de Educación Pública del Estado emitirá la convocatoria respectiva en donde se establecerán las bases respectivas.
+La denominación correspondiente será Premio Estatal de la Juventud "Vicente Suárez". La Secretaría de Deporte y Juventud del Estado emitirá la convocatoria en donde se establecerán las bases respectivas, garantizando la inclusión de las juventudes de todos los sectores y regiones del Estado.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
 
@@ -913,17 +913,19 @@ La denominación correspondiente será Premio Estatal de la Juventud "Vicente Su
 
 El Premio consistirá en el reconocimiento que realiza el Estado a toda persona joven y podrá ser complementado con un estímulo económico en numerario o en especie, por el monto o naturaleza que se determine conforme a las disposiciones legales aplicables; así como por las menciones honoríficas correspondientes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Artículo 78.
 
-El premio será otorgado por el Gobernador Constitucional del Estado, asistido por el Titular de la Secretaría de Educación Pública del Estado.
+El premio será otorgado por el Gobernador o Gobernadora Constitucional del Estado, asistido por la persona Titular de la Secretaría de Deporte y Juventud del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Artículo 79.
 
-Se declara el día doce de septiembre de cada año como el "Día Estatal de la Juventud".
+Se declara el día doce de agosto de cada año como el "Día Estatal de la Juventud".
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 2015)</small>
 
 En esta fecha será entregado el Premio Estatal de la Juventud "Vicente Suárez".
 
@@ -1080,5 +1082,21 @@ P.O. 4 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VI Y VII Y ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 3 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 69, EL SEGUNDO PÁRRAFO DEL 76, EL 78 Y EL PRIMER PÁRRAFO DEL 79, TODOS DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 45 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
