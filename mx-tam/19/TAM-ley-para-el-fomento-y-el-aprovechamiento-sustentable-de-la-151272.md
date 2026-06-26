@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-fomento-y-el-aprovechamiento-sustentable-de-la-1512
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-23"
-last_updated: "2021-09-23"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL FOMENTO Y EL APROVECHAMIENTO SUSTENTABLE DE LA ENERGÍA EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Vespertina Número 114 del Periódico Oficial del Estado de Tamaulipas, el jueves 23 de septiembre de 2021.
 
@@ -115,6 +115,10 @@ XX. Inercia térmica: Es una propiedad de los materiales que nos indica cuánta 
 
 XXI. Interconexión: Es la conexión entre dos o más sistemas de generación, transmisión y distribución de energía eléctrica para el intercambio de productos entre éstos, para cuyo efecto debe considerarse la construcción de las obras de infraestructura necesarias para que los proyectos de energías renovables se puedan interconectar con el Sistema Eléctrico Nacional;
 
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+XXI Bis. Justicia energética: Conjunto de acciones o estrategias encaminadas a reducir la Pobreza Energética, las desigualdades sociales y de género en el uso de la energía e impulsar el desarrollo regional y la prosperidad compartida mediante el acceso a energía e infraestructura energética confiable, asequible, segura y limpia para la atención de necesidades básicas, la reducción de impactos en la salud y el medio ambiente. Incluye también la ampliación de espacios de participación inclusiva, principalmente de los pueblos originarios, en las cadenas productivas locales de los proyectos energéticos;
+
 XXII. Ley: La Ley para el Fomento y Aprovechamiento Sustentable de la Energía en el Estado de Tamaulipas;
 
 XXIII. Métodos de ingeniería ambiental: Es el procedimiento de la aplicación de las tecnologías amigables al medio ambiente, a fin de preservar los recursos naturales;
@@ -122,6 +126,10 @@ XXIII. Métodos de ingeniería ambiental: Es el procedimiento de la aplicación 
 XXIV. Movilidad Sostenible: Son aquellas formas de traslado de las personas que promueven la utilización de recursos energéticos alternos, así como las nuevas tecnologías y fuentes de energía, a fin de reducir tanto las emisiones contaminantes y el ruido, como los tiempos en los trayectos, el consumo energético y la incidencia de enfermedades respiratorias, creando un entorno urbano más saludable para sus habitantes;
 
 XXV. Municipio: Son la unidad básica de la división territorial y de la organización política y administrativa de los Estados de la Federación, están gobernados cada uno por un Ayuntamiento en términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, y representan un total de cuarenta y tres en el Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+XXV Bis. Pobreza energética: situación que ocurre cuando en una vivienda no se alcanza a satisfacer una o más necesidades energéticas básicas, como son el calentamiento de agua, cocción y conservación de alimentos e iluminación, debido a sus condiciones de ingresos y carencias sociales;
 
 XXVI. Programa: El Programa de Fomento y Aprovechamiento Sustentable de la Energía para el Estado de Tamaulipas;
 
@@ -441,9 +449,15 @@ II. Plantear a las autoridades competentes el diseño de planes de ordenamiento 
 
 III. Proponer a las dependencias, órganos desconcentrados y entidades de la Administración Pública Estatal y los Municipios, en el ámbito de sus respectivas competencias, la aplicación de fuentes de energía renovable, así como de las alternativas más convenientes de suministro eléctrico, en alumbrado público, bombeo de agua potable y manejo de aguas negras, entre otros servicios públicos;
 
-IV. Plantear a las dependencias, órganos desconcentrados y entidades de la Administración Pública Estatal y a los Municipios a que, en el ámbito de sus respectivas competencias, se sirvan del consumo de energía renovable en monumentos, parques urbanos, comunidades rurales y otros elementos que favorezcan la protección del equilibrio ecológico; y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-V. Las demás que sean necesarias para el cumplimiento de este fin.
+IV. Plantear a las dependencias, órganos desconcentrados y entidades de la Administración Pública Estatal y a los Municipios a que, en el ámbito de sus respectivas competencias, se sirvan del consumo de energía renovable en monumentos, parques urbanos, comunidades rurales y otros elementos que favorezcan la protección del equilibrio ecológico;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+V. Impulsar la Justicia Energética en el Estado; y
+
+VI. Las demás que sean necesarias para el cumplimiento de este fin.
 
 ###### Artículo 27.
 
@@ -758,3 +772,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintidós días del mes de septiembre del año dos mil veintiuno.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1119 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 26, FRACCIÓN IV; Y SE ADICIONAN LAS FRACCIONES XXI BIS Y XXV BIS AL ARTÍCULO 2; Y UNA FRACCIÓN V, RECORRIÉNDOSE DE FORMA NATURAL LA SUBSECUENTE, AL ARTÍCULO 26, DE LA LEY PARA EL FOMENTO Y EL APROVECHAMIENTO SUSTENTABLE DE LA ENERGÍA EN EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
