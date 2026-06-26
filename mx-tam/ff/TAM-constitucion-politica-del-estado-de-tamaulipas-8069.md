@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2026-06-25"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -2915,15 +2915,19 @@ La persona titular de la presidencia de la Comisión de Derechos Humanos del Est
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Art. 127.
 
-En el Estado habrá un servicio de defensoría pública de calidad para la población. Los defensores formarán parte de un servicio profesional de carrera.
+En el Estado habrá un servicio de defensoría pública de calidad para la población. Las defensoras y los defensores formarán parte de un servicio profesional de carrera.
 
-En materia penal y en la imputación de conductas previstas como delito por las leyes penales a personas entre 12 años cumplidos y menos de 18 años, los defensores serán abogados que cumplan los requisitos previstos en la ley. Podrán actuar desde el momento de la detención de la persona imputada y comparecer en todos los actos del proceso cuando el defendido así lo solicite, pero tendrán obligación de hacerlo cuando se le requiera.
+En materia de justicia para adolescentes y en la imputación de conductas previstas como delito por las leyes penales a personas entre 12 años cumplidos y menos de 18 años, las y los defensores públicos serán abogados que cumplan los requisitos previstos en la ley. Podrán actuar desde el momento de la detención de la persona imputada y comparecer en todos los actos del proceso cuando el defendido así lo solicite, pero tendrán obligación de hacerlo cuando se le requiera.
 
-La defensoría pública podrá representar a quien de acuerdo a los requisitos y condiciones previstos por la ley lo solicite en asuntos de carácter familiar o civil. A su vez, podrá brindar asesoría en otras materias en los términos que prevea la ley, con base en los recursos presupuestales de que disponga.
+La defensoría pública garantizará la defensa técnica adecuada en materia penal y en sistema integral de justicia para adolescentes, en los términos previstos por la legislación aplicable.
+
+La defensoría pública podrá representar a la niña, niño y adolescente por conducto de una Asesora o un Asesor Público, en asuntos de carácter familiar y civil; incluyendo la representación de niñas, niños y adolescentes tratándose de alimentos y violencia familiar y en aquellos que se encuentre inmerso el interés superior de la niña, niño y adolescente incapaz o ausente.
+
+La ley establecerá los requisitos, condiciones y modalidades de acceso al servicio, con base en los recursos presupuestales de que disponga.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
@@ -6216,6 +6220,14 @@ El Instituto Electoral de Tamaulipas y el Tribunal Electoral del Estado de Tamau
 P.O. 25 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1098 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 138, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, CON EL FIN DE INCORPORAR LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES COMO PRINCIPIO FORMATIVO EN EL SISTEMA EDUCATIVO ESTATAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1112 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 127 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
