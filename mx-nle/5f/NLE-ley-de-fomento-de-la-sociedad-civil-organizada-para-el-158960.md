@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-de-la-sociedad-civil-organizada-para-el-158960"
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-17"
-last_updated: "2022-06-17"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO DE LA SOCIEDAD CIVIL ORGANIZADA PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en el Número 85 del Periódico Oficial del Estado de Nuevo León, el viernes 17 de junio de 2022.
 
@@ -57,9 +57,13 @@ LEY DE FOMENTO DE LA SOCIEDAD CIVIL ORGANIZADA PARA EL ESTADO DE NUEVO LEÓN
 
 Las disposiciones de la presente Ley son de orden público y de observancia general en el Estado y tiene por objeto, incentivar y fomentar en coordinación con la administración pública estatal a las organizaciones de la sociedad civil, así como a las redes y agrupaciones debidamente registradas, a través de:
 
-I. Fomento de sus actividades, mediante una normatividad integral y coherente que propicie las condiciones para su ejercicio, estimulando su participación en la vida social, económica, política cultural, de protección animal y al medio ambiente en la entidad, tal y como lo establece la Constitución Política del Estado Libre y Soberano de Nuevo León;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-II. Promover la participación de las organizaciones de la sociedad civil en la planeación, diseño, ejecución, seguimiento y evaluación de las decisiones de gobierno del Estado de Nuevo León. Dichas políticas públicas serán integrales y se diseñarán a corto, mediano y largo plazo;
+l. Fomento de sus actividades, mediante una normatividad integral y coherente que propicie las condiciones para su ejercicio, estimulando su participación en la vida social, cívica y de gobernanza, de fortalecimiento del sector social, económica, política, cultural, de protección animal y al medio ambiente en la entidad, tal y como lo establece la Constitución Política del Estado Libre y Soberano de Nuevo León;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+II. Promover la participación de las organizaciones de la sociedad civil, así como de las redes y agrupaciones debidamente registradas en la planeación, diseño, ejecución, seguimiento y evaluación de las decisiones de gobierno del Estado de Nuevo León. Dichas políticas públicas serán integrales y se diseñarán a corto, mediano y largo plazo;
 
 III. Establecer los derechos y obligaciones que tienen las organizaciones de la sociedad civil, agrupaciones y redes;
 
@@ -73,13 +77,17 @@ VII. Gestionar el acceso a capacitación, asesoría y financiamiento público, a
 
 VIII. Gestionar el acceso a capacitación y asesoría para redes y agrupaciones; y
 
-IX. Establecer mecanismos eficaces para transparentar, publicitar y difundir el trabajo, las actividades, logros y beneficios sociales de las organizaciones de la sociedad civil en el Estado de Nuevo León.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+IX. Establecer mecanismos eficaces para transparentar, publicitar y difundir el trabajo, las actividades, logros y beneficios sociales de las organizaciones de la sociedad civil, redes y agrupaciones registradas en el Estado de Nuevo León.
 
 ###### Artículo 2.
 
 Se excluye del objeto de esta Ley, las empresas que integran el sector privado, sean individuales o constituidas como sociedades de personas o de capital, que tengan como objeto la realización de actividades mercantiles, especulativas o de actos de comercio con terceros con fines lucrativos.
 
-Se excluyen también a las organizaciones de la sociedad civil que bajo cualquier carácter se encuentren vinculados, directa o indirectamente, a partidos políticos o agrupaciones políticas.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Se excluyen también a las organizaciones de la sociedad civil, redes y agrupaciones que bajo cualquier carácter se encuentren vinculados, directa o indirectamente, a partidos políticos o agrupaciones políticas.
 
 ###### Artículo 3.
 
@@ -89,15 +97,21 @@ I. Actividades de fomento: acciones, programas y apoyos de carácter económico,
 
 II. Agrupaciones: colectivos de ciudadanos o personas voluntarias sin ánimo de lucro organizados, que, sin estar constituidos legalmente, sus actividades están relacionadas con alguna de las señaladas en el artículo 4 de la presente Ley y que se encuentren debidamente registrados en términos de la presente Ley;
 
-III. Comité: al Comité Técnico para el Fomento de las Actividades de la Sociedad Civil de Nuevo León;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-IV. Consejo: al Consejo Consultivo Ciudadano;
+III. Comité: al Comité Técnico para el Fomento de las Actividades de las Organizaciones de la Sociedad Civil de Nuevo León;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+IV. Consejo: al Consejo Consultivo Ciudadano de Fomento a la Sociedad Civil;
 
 V. Estatutos: a las normas internas que rigen a las organizaciones de la sociedad civil, previstas en su acta o escritura constitutiva, así como sus modificaciones posteriores, las cuales establecen sus denominaciones, forma jurídica, duración, domicilio, objeto social, patrimonio, asociados, órganos, funcionamientos, disolución y liquidación, entre otros;
 
 VI. Fomento: reconocimiento y apoyo a las organizaciones de la sociedad civil y a sus actividades, así como a redes y agrupaciones, mediante los mecanismos establecidos en la presente Ley;
 
-VII. Información de las organizaciones de la sociedad civil: será aquella información para conocer de manera general sus fines, objetivos, áreas de influencia, beneficiarios, programas proyectos y logros;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VII. Información de las organizaciones de la sociedad civil, redes y agrupaciones: será aquella información para conocer de manera general sus fines, objetivos, áreas de influencia, beneficiarios, programas proyectos y logros;
 
 VIII. Ley: la Ley de Fomento de la Sociedad Civil Organizada para el Estado de Nuevo León;
 
@@ -105,11 +119,15 @@ IX. Organizaciones de la sociedad civil: son aquellas asociaciones civiles y per
 
 X. Participación: presencia activa que de conformidad con esta Ley y la Ley de Participación Ciudadana para el Estado de Nuevo León, llevan a cabo las organizaciones de la sociedad civil, redes y agrupaciones registradas, en la planeación, diseño, ejecución, seguimiento y evaluación de las decisiones de Gobierno;
 
-XI. Redes: conjunto de Organizaciones de la Sociedad Civil, integrados mediante la suscripción de un convenio de colaboración mutua para establecer un proyecto, sus objetivos y un plan de trabajo concreto en común. Dicho convenio de colaboración deberá presentarse al Comité para su conocimiento sobre el alcance y objetos del proyecto;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+XI. Redes: conjunto de Organizaciones de la Sociedad Civil, colectivos ciudadanos, agrupaciones debidamente registradas, integrados mediante la suscripción de un convenio de colaboración mutua para establecer un proyecto, sus objetivos y un plan de trabajo concreto en común. Dicho convenio de colaboración deberá presentarse al Comité para su conocimiento sobre el alcance y objetos del proyecto;
 
 XII. Registro: Registro Estatal de Organizaciones de la Sociedad Civil, Redes y Agrupaciones del Estado de Nuevo León.
 
-XIII. Sistemas de información: base de datos del Registro relativa a la información, fondos, estímulos, incentivos, subsidios o recursos públicos que las dependencias y entidades estatales y municipales de las administraciones públicas otorgan a las organizaciones de la sociedad civil debidamente registradas.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+XIII. Sistemas de información: base de datos del Registro relativa a la información, fondos, estímulos, incentivos, subsidios o recursos públicos o programas de capacitación que las dependencias y entidades estatales y municipales de las administraciones públicas otorgan a las organizaciones de la sociedad civil, redes y agrupaciones debidamente registradas.
 
 ###### Artículo 4.
 
@@ -141,13 +159,19 @@ XII. Promoción del deporte y la sana recreación;
 
 XIII. Protección de la salud física y mental, impulso de la sanidad y combate a las adicciones;
 
-XIV. Apoyo en el aprovechamiento de los recursos naturales, la protección del ambiente, la flora y la fauna, la preservación y restauración del equilibrio ecológico, así como la promoción del desarrollo sustentable;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-XV. El fortalecimiento de las acciones de apoyo para la protección y bienestar animal;
+XIV. Apoyo en el adecuado aprovechamiento sustentable de los recursos naturales, la protección del medio ambiente, la flora y la fauna, la preservación y restauración del equilibrio ecológico, así como la promoción del desarrollo sustentable, incluyendo las iniciativas para el tratamiento, reutilización, ahorro y aprovechamiento del agua;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+XV. El fortalecimiento de todas las acciones de apoyo para la protección y bienestar animal, incluyendo sin limitarse a las campañas de vacunación, esterilización masiva, desparasitación y otras de naturaleza análoga;
 
 XVI. Promoción y fomento educativo, cultural, artístico, ambiental, científico y tecnológico;
 
-XVII. Fomento de acciones para mejorar la economía popular;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+XVII. Fomento de acciones para mejorar la economía popular y fomentar el ahorro entre la población;
 
 XVIII. Promoción de actividades que contribuyan a la organización y expansión del sector social de la economía para la producción, distribución y consumo de bienes y servicios socialmente necesarios;
 
@@ -165,7 +189,9 @@ XXIV. Impulsen la realización de obras y la prestación de servicios públicos 
 
 XXV. Acciones para el desarrollo de las bellas artes, las tradiciones populares y la restauración y mantenimiento de monumentos y sitios arqueológicos, artísticos e históricos, así como la preservación del patrimonio cultural; y
 
-XXVI. Prestación de servicios de apoyo a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta Ley.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+XXVI. Prestación de servicios de apoyo y capacitación para la creación y fortalecimiento de organizaciones, redes y agrupaciones registradas que realicen actividades objeto de fomento por esta Ley.
 
 Las actividades de asistencia social serán las acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, coadyuvando a lograr su incorporación a una vida plena y productiva.
 
@@ -191,7 +217,9 @@ c) Contribuir al desarrollo económico, social y cultural de la comunidad;
 
 d) Inscribirse de manera gratuita en el Registro, sin menoscabo de aquellos otros registros que las leyes aplicables establezcan. Asimismo, tendrán derecho a que se les emita de manera gratuita su constancia de registro;
 
-e) Participar en los términos que establezca la Ley de Participación Ciudadana para el Estado de Nuevo León y demás disposiciones jurídicas aplicables en la formulación, instrumentación, evaluación y seguimiento de las políticas, programas y proyectos a cargo del gobierno del Estado en aquellos temas relacionados con su objeto social;
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+e) Participar en los términos que establezca la Ley de Participación Ciudadana para el Estado de Nuevo León y demás disposiciones jurídicas aplicables en la formulación, diseño, instrumentación, evaluación y seguimiento de las políticas, programas, órganos de participación y consulta y proyectos a cargo del gobierno del Estado en aquellos temas relacionados con su objeto social, incluyendo la posibilidad de participar en mecanismos de observación y contraloría social;
 
 f) Acceder, bajo condiciones de legalidad, objetividad, imparcialidad, transparencia e igualdad a los programas, capacitación, recursos financieros y de apoyos en especie, fondos, estímulos fiscales, subsidios, exenciones, recursos públicos y otros apoyos económicos y administrativos por parte del Estado de Nuevo León, municipios u organismos públicos autónomos, de conformidad con la presente Ley y con las demás disposiciones aplicables en la materia;
 
@@ -219,9 +247,13 @@ c) Contribuir al desarrollo económico, social y cultural de la comunidad;
 
 d) Inscribirse de manera gratuita en el Registro, sin menoscabo de aquellos otros registros que las leyes aplicables establezcan. Asimismo, tendrán derecho a que se les emita de manera gratuita su constancia de registro;
 
-e) Acceso a capacitación y asesoría, para constituirse legalmente; y
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
 
-f) Participar en los términos que establezca la Ley de Participación Ciudadana para el Estado de Nuevo León y demás disposiciones jurídicas aplicables en la formulación, instrumentación, evaluación y seguimiento de las políticas, programas y proyectos a cargo del gobierno del Estado en aquellos temas relacionados con su objeto social.
+e) Acceso a capacitación y asesoría, incluyendo aquella relacionada con su constitución legal en caso de considerarlo necesario; y
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+f) Participar y ser representadas en los términos que establezcan la Ley de Participación Ciudadana para el Estado de Nuevo León y demás disposiciones jurídicas aplicables en la formulación, diseño, instrumentación, evaluación y seguimiento de las políticas, programas órganos de participación y consulta y proyectos a cargo del gobierno del Estado en aquellos temas relacionados con su objeto social.
 
 ### CAPÍTULO III. OBLIGACIONES
 
@@ -325,9 +357,15 @@ Corresponde a la Secretaría de igualdad e Inclusión, las siguientes atribucion
 
 I. Llevar y mantener el Registro;
 
-II. Promover y coordinar la formulación, instrumentación y ejecución de los programas, proyectos y apoyos económicos para el fomento de las actividades de las organizaciones;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-III. Dar seguimiento y evaluar los programas, proyectos y apoyos económicos, incluyendo las medidas presupuestales y fiscales, que se adopten para fomentar las actividades de las organizaciones;
+II. Promover y coordinar la formulación, instrumentación y ejecución de los planes,
+
+programas, proyectos y apoyos económicos para el fomento de las actividades de las organizaciones;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+III. Dar seguimiento y evaluar los planes, programas, proyectos y apoyos económicos, incluyendo las medidas presupuestales y fiscales, que se adopten para fomentar las actividades de las organizaciones;
 
 IV. Proponer al Ejecutivo del Estado, estrategias, instrumentos, medidas, incentivos, acuerdos, convenios y estímulos financieros para el fortalecimiento de las organizaciones y el fomento de sus actividades;
 
@@ -343,9 +381,11 @@ IX. Conocer de las infracciones a esta Ley e imponer las sanciones correspondien
 
 X. Las demás que le atribuyan las leyes, reglamentos y acuerdos aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Artículo 13.
 
-Los Ayuntamientos en el ámbito de su respectiva competencia constituirán los mecanismos y órganos que consideren necesarios para garantizar el fomento a las actividades que realicen las organizaciones de la sociedad civil, debiendo observar en todo caso el establecido en esta ley en cuanto al objeto y requisitos legales de las asociaciones susceptibles de recibir apoyos.
+Los Ayuntamientos en el ámbito de su respectiva competencia constituirán los mecanismos y órganos que consideren necesarios para garantizar el fomento a las actividades que realicen las organizaciones de la sociedad civil, redes y agrupaciones registradas debiendo observar en todo caso el establecido en esta ley en cuanto al objeto y requisitos legales aplicables a cada una de ellas para recibir apoyos establecidos en ésta Ley.
 
 ### CAPÍTULO V. DEL COMITÉ TÉCNICO PARA EL FOMENTO DE LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DE NUEVO LEÓN
 
@@ -383,7 +423,9 @@ El Secretario Técnico, tendrá voz y voto dentro de las reuniones del Comité.
 
 Los miembros representantes de las organizaciones de la sociedad civil, así como el representante de las universidades serán seleccionados por el Titular de la Secretaría de Igualdad a Inclusión, previa convocatoria y consulta.
 
-Los representantes de las organizaciones de las organizaciones (sic) de la sociedad civil permanecerán en sus encargos por un periodo de tres años pudiendo ser ratificados en el mismo, hasta por otro plazo igual, una sola vez, y se renovara de forma escalonada.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Los representantes de las organizaciones de la sociedad civil permanecerán en sus encargos por un periodo de tres años pudiendo ser ratificados en el mismo, hasta por otro plazo igual, una sola vez, y se renovará de forma escalonada.
 
 ###### Artículo 16.
 
@@ -401,9 +443,11 @@ La Convocatoria para sesionar será emitida por El Presidente del Comité o su r
 
 Los acuerdos del Comité se tomarán por mayoría de votos de los asistentes. En caso de empate, tendrá voto de calidad la persona Titular del Ejecutivo del Estado o un representante que el designe.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Artículo 19.
 
-El Comité implementará consultas con las organizaciones de la sociedad civil, mediante una convocatoria pública, sobre las acciones, planes y programas que vaya a desarrollar motivo del fomento al apoyo a estas.
+El Comité implementará consultas con las organizaciones de la sociedad civil, redes y agrupaciones mediante una convocatoria pública, sobre las acciones, planes y programas que vaya a desarrollar con motivo del fomento al apoyo a estas.
 
 ###### Artículo 20.
 
@@ -431,25 +475,41 @@ VIII. Expedir su reglamento interior; y
 
 IX. Las demás que señale la Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Artículo 22.
 
-El Comité, en coordinación con las dependencias y entidades de la administración pública Estatal, deberá elaborar y publicar un informe anual de las acciones de fomento y de los apoyos y estímulos a favor de las organizaciones de la sociedad civil que se señalan en esta Ley.
+El Comité, en coordinación con las dependencias y entidades de la administración pública Estatal, deberá elaborar y publicar un informe anual de las acciones de fomento, así como de los apoyos y estímulos otorgados a favor de las organizaciones de la sociedad civil que se señalan en esta Ley.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Para la integración de dicho informe, se emitirán consultas a las dependencias y entidades de la administración pública estatal, a fin de que reporten las acciones de fomento que hayan implementado, así como los apoyos y estímulos otorgados en el periodo correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
 
 El Informe respectivo, consolidado por la Secretaría de Igualdad e Inclusión, se incluirá como un apartado específico en el Informe Anual que rinde el Ejecutivo al Congreso del Estado.
 
 ### CAPÍTULO VI. ACCIONES PARA EL FOMENTO DE LA SOCIEDAD CIVIL ORGANIZADA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Artículo 23.
 
-El Gobierno del Estado a través de la Secretaría de Igualdad e Inclusión y los Municipios fomentará las actividades de las organizaciones de la sociedad civil mediante el cumplimiento de las siguientes obligaciones:
+El Gobierno del Estado a través de la Secretaría de Igualdad e Inclusión y los Municipios fomentará las actividades de las organizaciones de la sociedad civil, redes y agrupaciones registradas mediante el cumplimiento de las siguientes obligaciones:
 
-I. En el Plan Estatal de Desarrollo y los planes municipales se deberá incorporar las políticas públicas de fomento de las organizaciones de la sociedad civil y metas generales que se pretenden alcanzar en esta materia;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+l. En el Plan Estatal de Desarrollo y los planes municipales se deberá incorporar las
+
+políticas públicas de fomento de las organizaciones de la sociedad civil, redes, agrupaciones registradas y metas generales que se pretenden alcanzar en esta materia, incluyendo las acciones de simplificación administrativa aplicables y las acciones de defensoría de sus intereses;
 
 II. Para el otorgamiento de los recursos públicos a las organizaciones de la sociedad civil, que desempeñen alguna de las actividades previstas en el artículo 4 de la presente Ley, deberán contar con reglas de operación públicas y transparentes, las cuales incluirán dentro de sus bases el mecanismo de convocatoria para el otorgamiento de recursos públicos a las organizaciones de la sociedad civil, en donde se establecerá el monto autorizado y requisitos de acceso;
 
 III. Cumplir con lo establecido en las Reglas de Operación por el que se establecen los criterios de apoyo a las organizaciones de la sociedad civil, y en el Reglamento de esta Ley;
 
-IV. Garantizar la participación de las organizaciones de la sociedad civil en los consejos, comisiones, comités y demás mecanismos de consulta para la formulación, instrumentación, control, y evaluación de los planes, programas, proyectos y políticas públicas a cargo del Gobierno del Estado y los municipios, en aquellos temas relacionados con su objeto social, en los términos que dispongan las leyes de la materia;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+IV. Garantizar la participación de las organizaciones de la sociedad civil, en los consejos, comisiones, comités y demás mecanismos de consulta para la formulación, instrumentación, control, y evaluación de los planes, programas, proyectos y políticas públicas a cargo del Gobierno del Estado y los municipios, en aquellos temas relacionados con sus actividades y programas, en los términos que dispongan las leyes de la materia;
 
 V. Celebrar convenios de coordinación entre ámbitos y órdenes de gobierno, a efecto de que estos contribuyan al fomento de las actividades objeto de esta Ley; y
 
@@ -507,17 +567,23 @@ VI. Copia certificada o cotejo con el original del poder del representante legal
 
 VII. Copia certificada o cotejo con el original del dictamen fiscal o declaración anual del ejercicio anterior inmediato;
 
-VIII. Copia certificada o cotejo con el original del documento que avale la acreditación bancaria de la organización;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VIII. Copia certificada o cotejo con el original del documento que avale la acreditación bancaria de la organización en caso de contar con ella;
 
 IX. Presentar copia simple de su Registro Federal de Contribuyentes;
 
 X. Plan de trabajo anual del año fiscal anterior, donde se incluyan actividades, padrón de beneficiarios y fotografías de las actividades realizadas;
 
-XI. Copia certificada o cotejo con el original de la acreditación vigente a la organización como donataria autorizada, y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+XI. Copia certificada o cotejo con el original de la acreditación vigente a la organización como donataria autorizada en caso de contar con ella; y
 
 XII. Si la organización tiene dentro de sus objetivos la certificación de educación primaria o secundaria, deberán estar incorporadas en la Secretaría de Educación Pública del Estado y estar autorizados para ello. Se estará a lo mismo en materia de salud, atención psicológica, médica o alguna otra especialización, en donde será necesario contar con el aval de la autoridad competente.
 
-En caso de que la Organización de la Sociedad Civil sea de nueva creación deberá actualizar la información relativa a los documentos de las fracciones VII, X y XI el año fiscal inmediato a su creación.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+En caso de que la Organización de la Sociedad Civil sea de nueva creación deberá actualizar la información relativa a los documentos señalados en este artículo el año fiscal inmediato a su creación.
 
 B. Para acceder al Registro, las redes y agrupaciones que no estén legalmente constituidas deberán presentar a la Secretaría de Igualdad e Inclusión:
 
@@ -543,11 +609,15 @@ En el caso de las redes, además de los requisitos señalados en el apartado B) 
 
 En el Registro Estatal se concentrará toda la información que forme parte o se derive del trámite y gestión respecto de la inscripción de las organizaciones de la sociedad civil, agrupaciones y redes en el mismo.
 
-Dicha información incluirá todas las acciones de fomento que las dependencias o entidades de la Administración Pública emprendan con relación a las organizaciones de la sociedad civil.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Dicha información incluirá todas las acciones de fomento que las dependencias o entidades de la Administración Pública emprendan con relación a las organizaciones de la sociedad civil, redes y agrupaciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2026)</small>
 
 ###### Artículo 27.
 
-Las dependencias y entidades públicas, las organizaciones de las sociedades civiles inscritas, redes, agrupaciones y el público en general, tendrán acceso a la información existente en el Registro Estatal, con el fin de estar enteradas del estado que guardan los procedimientos del mismo.
+Las dependencias y entidades públicas, las organizaciones de las sociedades civiles inscritas, redes, agrupaciones y el público en general, tendrán acceso a la información existente en el Registro Estatal, con el fin de dar transparencia a esta información.
 
 Se buscará mantener la actualización de la información de las organizaciones de la Sociedad civil, redes y agrupaciones registrados con el fin de que el registro funcione como una fuente fiable, actualizada y con información valiosa que pueda ser compartida por todos los interesados y que constituya una plataforma de intercambio valiosa.
 
@@ -563,15 +633,23 @@ El Registro deberá negar la inscripción a las Organizaciones de la Sociedad Ci
 
 I. No acredite que su objeto social o actividades en su carta fundacional consisten en realizar alguna de las actividades señaladas en el artículo 4 de esta Ley;
 
-II. Se advierta que la organización persigue fines de lucro, de proselitismo partidista, electoral o religioso;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-III. En su caso, exista resolución emitida por autoridad competente en la que se acredite que la organización ha cometido infracciones a esta Ley u otras disposiciones jurídicas aplicables en el desarrollo de sus actividades; y
+II. Se advierta que la organización, red o agrupación persigue fines de lucro, de
+
+proselitismo partidista, electoral o religioso;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+III. En su caso, exista resolución emitida por autoridad competente en la que se acredite que la organización, red o agrupación ha cometido infracciones a esta Ley u otras disposiciones jurídicas aplicables en el desarrollo de sus actividades; y
 
 IV. Omita presentar toda o parte de la documentación requerida en esta Ley, habiéndosele prevenido para que lo hiciere.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Artículo 30.
 
-El Registro resolverá sobre la procedencia de la inscripción en un plazo no mayor a diez días hábiles contados a partir de que reciba la solicitud. En caso de falta de documentos o inconsistencias la Secretaría de Igualdad e Inclusión prevendrá en la organización para que (sic) un plazo de 10 días hábiles subsane las omisiones.
+El Registro resolverá sobre la procedencia de la inscripción en un plazo no mayor a diez días hábiles contados a partir de que reciba la solicitud. En caso de falta de documentos o inconsistencias la Secretaría de Igualdad e Inclusión prevendrá a la organización de la sociedad civil, red o agrupación para que (sic) un plazo de 10 días hábiles subsane las omisiones.
 
 Vencido el plazo, si no lo hiciese se desestimará su solicitud, dejando salvaguardado su derecho de iniciar un nuevo trámite con posterioridad, cumplidos los requisitos de la Ley.
 
@@ -579,9 +657,11 @@ Vencido el plazo, si no lo hiciese se desestimará su solicitud, dejando salvagu
 
 El Registro funcionará mediante una base de datos distribuida y compartida entre las dependencias y entidades Estatales y Municipales de la Administración Pública.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Artículo 32.
 
-En el Registro se concentrará toda la información que forme parte o se derive del trámite y gestión respecto de la inscripción de las organizaciones de la sociedad civil en el mismo. Dicha información incluirá todas las acciones de fomento que las dependencias o entidades de la Administración Pública emprendan con relación a organizaciones de la sociedad civil registradas.
+En el Registro se concentrará toda la información que forme parte o se derive del trámite y gestión respecto de la inscripción de las organizaciones de la sociedad civil, redes y agrupaciones. Dicha información incluirá todas las acciones de fomento que las dependencias o entidades de la Administración Pública emprendan con relación a todos los registrados.
 
 ###### Artículo 33.
 
@@ -592,6 +672,22 @@ Las dependencias y entidades estatales y municipales de las administraciones pú
 ###### Artículo 34.
 
 El Consejo es el órgano de asesoría, dependiente de la Secretaría de Igualdad e Inclusión y, que tiene por objeto proponer, opinar y emitir recomendaciones respecto de la aplicación y cumplimiento de esta ley. Concurrirá al menos cada seis meses al Comité Técnico para realizar una evaluación conjunta de las políticas públicas y acciones de fomento. Su actividad será honorífica.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 26 DE JUNIO DE 2026)</small>
+
+En los casos en que no sea posible la presencia física de los integrantes del Consejo en un mismo lugar, sus sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas que cumplan con:
+
+l. La identificación visual de sus integrantes;
+
+II. La interacción e intercomunicación de sus integrantes en tiempo real, para propiciar la adecuada deliberación de las ideas;
+
+III. Garantizar la conexión (sic) sus integrantes; y
+
+IV. La grabación de la sesión para efectos de consulta posterior.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+Respecto a las sesiones conjuntas con el Comité Técnico, establecidas en el artículo 39 de esta Ley, podrán transmitirse en vivo a través de los medíos electrónicos disponibles. Cuando los temas a tratar no involucran información confidencial, datos desagregados, ni datos personales, conforme a lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Nuevo León, la transmisión en vivo se realizará en la plataforma de la que disponga la Secretaria.
 
 ###### Artículo 35.
 
@@ -631,17 +727,33 @@ Para el cumplimiento de su objeto, el Consejo tendrá las siguientes funciones:
 
 I. Analizar las políticas públicas del Estado y los Municipios relacionadas con el fomento de las actividades de las organizaciones de la sociedad civil, agrupaciones y redes señaladas en esta Ley, así como formular opiniones y propuestas sobre su aplicación y orientación;
 
-II. Impulsar la participación ciudadana y de las organizaciones de la sociedad civil para la elaboración de programas y propuestas que puedan ser sometidas a consideración del Comité para elaborar políticas públicas que se traduzcan en beneficios para la sociedad;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-III. Integrar las comisiones y grupos de trabajo que sean necesarios para el ejercicio de sus funciones;
+II. Impulsar la participación ciudadana y de las organizaciones de la sociedad civil, redes y agrupaciones para la elaboración de planes, programas y propuestas que puedan ser sometidas a consideración del Comité para elaborar políticas públicas que se traduzcan en beneficios para la sociedad, en el marco del programa presupuestal correspondiente y cumpliendo la normativa vigente;
 
-IV. Sugerir la adopción de medidas administrativas y operativas que permitan el cumplimiento de sus objetivos y el desarrollo de sus funciones;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-V. Coadyuvar en la aplicación de la presente Ley;
+III. Elaborar y dar seguimiento al Plan Estatal de Fomento de las Organizaciones de la Sociedad Civil, Redes y Agrupaciones;
 
-VI. Las demás que señale esta Ley y la legislación aplicable.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-La regulación de la organización y funcionamiento del Consejo quedará determinada en el Reglamento de esta Ley.
+IV. Integrar las comisiones y grupos de trabajo que sean necesarios para el ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+V. Sugerir la adopción de medidas administrativas y operativas que permitan el cumplimiento de sus objetivos y el desarrollo de sus funciones;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VI. Coadyuvar en la aplicación de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+VII. Las demás que señale esta Ley y la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
+La regulación de la organización y funcionamiento del Consejo se regularán conforme a lo establecido en el Reglamento de esta Ley y en el Manual de Operaciones que se expida para tal efecto.
 
 ###### Artículo 39.
 
@@ -649,9 +761,11 @@ El Consejo sesionará ordinariamente en pleno por lo menos cada seis meses, a co
 
 ### CAPÍTULO IX. MEDIDAS DISCIPLINARIAS
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2026)</small>
+
 ###### Artículo 40.
 
-Se consideran medidas disciplinarias aquellas que dicte y ejecute la autoridad Estatal o Municipal competente para garantizar la regularidad en el cumplimiento de las disposiciones previstas en la Ley, evitar daños a la hacienda, al patrimonio público o proteger derechos de terceros.
+Se consideran medidas disciplinarias aquellas que dicte y ejecute la autoridad Estatal o Municipal competente con base en la presente Ley, su Reglamento y demás disposiciones aplicables para garantizar la regularidad en el cumplimiento de las disposiciones previstas en la Ley, evitar daños a la hacienda, al patrimonio público o proteger derechos de terceros.
 
 ###### Artículo 41.
 
@@ -687,7 +801,9 @@ I. Apercibimiento: En el caso de que la organización haya incurrido por primera
 
 II. Suspensión: Se impondrá cuando las organizaciones de la sociedad civil reincidan con respecto al incumplimiento en una obligación establecida en esta Ley y que hayan sido apercibidos anteriormente. El comité determinará el plazo de suspensión pudiendo ser de seis meses a un año; o
 
-III. Cancelación definitiva de su inscripción en el Registro Estatal: En el caso de infracción reiterada o causa grave que determine el Comité. Se considera infracción reiterada el acto de la organización de la sociedad civil que hubiese sido previamente suspendida, se hiciera acreedor a una nueva suspensión, sin importar cuales hayan sido las disposiciones de esta Ley cuya observancia hubiere inobservado.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+III. Cancelación definitiva de su inscripción en el Registro Estatal: En el caso de infracción reiterada o causa grave que determine el Comité con base en la presente Ley, su Reglamento y otras disposiciones aplicables. Se considera infracción reiterada el acto de la organización de la sociedad civil que hubiese sido previamente suspendida, se hiciera acreedor a una nueva suspensión, sin importar cuales hayan sido las disposiciones de esta Ley cuya observancia hubiere inobservado.
 
 ###### Artículo 44.
 
@@ -762,3 +878,11 @@ DRA. SOFÍA LETICIA MORALES GARZA
 LA C. SECRETARIA DE SALUD
 
 DRA. ALMA ROSA MARROQUÍN ESCAMILLA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JUNIO DE 2026.
+
+[N. DE. E. TRANSITORIO DEL “DECRETO NÚM. 225. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE FOMENTO DE LA SOCIEDAD CIVIL ORGANIZADA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
