@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-96886
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2025-11-04"
+last_updated: "2026-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de noviembre de 2013.
 
@@ -219,13 +219,17 @@ XXXVII. Promover, incitar o ejercer violencia en cualquiera de sus tipos y modal
 
 XXXVIII. Obstruir el uso de rampas de acceso, guías podotáctiles, señalizaciones en sistema braille y demás elementos destinados a la accesibilidad, adaptabilidad y movilidad de las personas con discapacidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-XXXIX. Estigmatizar o negar derechos a personas con enfermedades autoinmunes; y
+XXXIX. Estigmatizar o negar derechos a personas con enfermedades autoinmunes;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XXXIX], P.O. 4 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2026)</small>
 
-XL. En general cualquier otro acto u omisión discriminatorio en términos de la fracción III del artículo 4 de esta Ley.
+XL. Impedir, negar, restringir o condicionar el acceso o permanencia de las personas con discapacidad a establecimientos públicos y privados, con personas, perro guía, animales de apoyo o de asistencia de conformidad con lo establecido en la Ley para las Personas con Discapacidad del Estado de Puebla y demás normatividad aplicable.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE JUNIO DE 2026)</small>
+
+XLI. En general cualquier otro acto u omisión discriminatorio en términos de las fracciones III y III Bis del artículo 4 de esta Ley.
 
 ### CAPÍTULO II. DE LA APLICACIÓN E INTERPRETACIÓN DE LA LEY
 
@@ -241,11 +245,25 @@ Es obligación de los entes públicos, en el ámbito de sus atribuciones, adopta
 
 En la aplicación de la presente Ley, los entes públicos, en el ámbito de sus respectivas competencias, deberán considerar lo siguiente:
 
-I. La protección, universalidad, interdependencia, indivisibilidad y progresividad de los derechos humanos;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
 
-II. La observancia de las disposiciones, tratados internacionales en materia de derechos humanos y no discriminación ratificados por los Estados Unidos Mexicanos, principios, leyes y reglamentos que establezcan un mejor trato para las personas, grupos o comunidades en situación de discriminación; y
+l. La protección, universalidad, interdependencia, indivisibilidad, complementariedad, progresividad y no regresividad de los derechos humanos;
 
-III. La observancia de las normas de derechos humanos como criterios orientadores de las políticas públicas, programas, planes, estrategias y acciones de los entes públicos, con la finalidad de hacerlas eficaces, sostenibles, no excluyentes y equitativas.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+II. La prevalencia del principio pro persona;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+III. Las Medidas de carácter temporal o permanente para lograr la disponibilidad, accesibilidad, aceptabilidad y calidad en los servicios de salud, educación, trabajo, justicia o cualquier otro a favor de las personas y grupos de atención prioritaria, a fin de alcanzar, condiciones de igualdad, su participación en la vida pública y eliminar prácticas discriminatorias;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+IV. La observancia de las disposiciones, tratados internacionales en materia de derechos humanos y no discriminación ratificados por los Estados Unidos Mexicanos, principios, leyes y reglamentos que establezcan un mejor trato para las personas, grupos o comunidades en situación de discriminación; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
+
+V. La observancia de las normas de derechos humanos como criterios orientadores de las políticas públicas, programas, planes, estrategias y acciones de los entes públicos, con la finalidad de hacerlas eficaces, sostenibles, no excluyentes y equitativas.
 
 ###### ARTÍCULO 10.
 
@@ -602,6 +620,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I, II, Y III DEL ARTÍCULO 9 Y ADICIONA LAS FRACCIONES IV Y V AL ARTÍCULO 9 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXXIX Y XL DEL ARTÍCULO 6 BIS, Y ADICIONA LA FRACCIÓN XLI AL ARTÍCULO 6 BIS DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
