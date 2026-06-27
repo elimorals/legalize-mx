@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2026-05-14"
+last_updated: "2026-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -4197,9 +4197,9 @@ Cuando se pretendan llevar a cabo acciones de aprovechamiento urbano fuera de lo
 
 En todo caso, las obras de cabeza o redes de infraestructura del proyecto correrán a cargo del propietario o promovente. En el caso de fraccionamientos o conjuntos urbanos, además deberán asumir el costo de las obras viales y sistemas de movilidad necesarias para garantizar la conectividad entre la acción urbanística de que se trate y el centro de población más cercano, en dimensión y calidad tales, que permita el tránsito de transporte público que se genere.
 
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
-El Plan Parcial a que se refiere el párrafo tercero, deberán contar con el dictamen de congruencia emitido por la dependencia estatal en materia de desarrollo urbano, en el que se establecerá que las obras de infraestructura, así como las externalidades negativas que genere, serán a cuenta del interesado.
+El Plan Parcial a que se refiere el párrafo tercero, deberán contar con el dictamen de congruencia emitido por la dependencia estatal en materia de desarrollo urbano, en el que se establecerá que las obras de infraestructura adecuada para garantizar la prestación de todos los servicios, así como las externalidades negativas que genere, serán a cuenta del interesado.
 
 > <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -4243,9 +4243,13 @@ V. Los componentes de la imagen urbana, como arbolado, jardinería y mobiliario,
 
 VI. Las demás que se requieran para lograr el asentamiento en condiciones óptimas para la vida de la comunidad, para proveer los usos y destinos, que incluyan según sea el caso ajustes razonables que garanticen la accesibilidad universal, la inclusión social y las asistencias técnicas, relacionados con la habitación, el trabajo, la educación, el esparcimiento y la movilidad.
 
-> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
-Para acciones urbanísticas que impliquen la expansión del área urbana, para el fraccionamiento de terrenos o para la subdivisión o parcelación de la tierra, las autoridades locales deberán asegurarse de que existe congruencia con las normas de zonificación y planeación urbana vigentes, la viabilidad y factibilidad para brindar los servicios públicos y extender o ampliar las redes de agua, drenaje, energía, alumbrado público y el manejo de desechos sólidos de manera segura y sustentable, sin afectar los asentamientos colindantes, sin ocupar áreas de riesgo o no urbanizables y garantizando la suficiencia financiera para brindar los servicios públicos que se generen.
+Para las acciones urbanísticas que impliquen la expansión del área urbana, para el fraccionamiento de terrenos o para la subdivisión o parcelación de la tierra, las autoridades locales deberán asegurarse de que existe congruencia con las normas de zonificación y planeación urbana vigentes, garantizar los servicios públicos y extender o ampliar las redes de agua, drenaje, energía, alumbrado público y el manejo de desechos sólidos de manera segura y sustentable, sin afectar los asentamientos colindantes, sin ocupar áreas de riesgo o no urbanizables y garantizando la suficiencia financiera para brindar los servicios públicos que se generen, si dichas acciones urbanísticas no comprenden los requerimientos señalados en las fracciones anteriores, las autoridades correspondientes no podrán otorgar permisos o licencia alguna.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JUNIO DE 2026)</small>
+
+Los servidores públicos que expidan licencias o permisos en contravención a lo dispuesto en este artículo incurrirán en las responsabilidades previstas en este Código y en las demás disposiciones legales aplicables.
 
 ###### Artículo 238.
 
@@ -4283,7 +4287,9 @@ Para otorgar el mismo, se deberá acreditar en el dictamen de la dependencia mun
 
 La recepción de obras de urbanización se acordará por la Dependencia Municipal y se realizará conforme las disposiciones del presente Título.
 
-La incorporación o reincorporación se autorizará una vez verificado el acto formal de recepción de las obras de urbanización y equipamiento urbanos, mismos que tienen como principal efecto que éstas, así como la administración de los servicios públicos correspondientes, serán asumidos por ayuntamientos o sus organismos operadores.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
+
+La incorporación o reincorporación se autorizará únicamente cuando se haya verificado el acto formal de recepción de las obras de urbanización y equipamiento urbanos, y se garantice que éstas se encuentren completamente terminadas y en condiciones de operación plena, asegurando la prestación efectiva y continua de los servicios públicos básicos, los cuales serán asumidos por los ayuntamientos o sus organismos operadores.
 
 > <small>(ADICIONADO, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -4301,7 +4307,9 @@ Tratándose de zonas urbanizadas que sean sujetas a obras de renovación urbana,
 
 Para proceder a la recepción de las obras de urbanización, se requerirá que se haya:
 
-I. Ejecutado las obras de infraestructura básica, las propias de la acción urbanística y cumplido con los requisitos establecidos en el Proyecto Definitivo de Urbanización;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+I. Ejecutado todas las obras de infraestructura básica, las propias de la acción urbanística y cumplido con los requisitos establecidos en el Proyecto Definitivo de Urbanización;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
@@ -4311,9 +4319,9 @@ II. Formalizado la entrega de las áreas de vialidad y de los espacios para las 
 
 III. Realizado los pagos por los conceptos previstos en el presente Título, conforme los procedimientos y tarifas que se determinen en las leyes hacendarías y de ingresos municipales o en su caso, garantizado el interés fiscal; y
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-IV. En su caso, reparado los daños que hubieren afectado áreas públicas, a terceros, al medio ambiente, o invadido servidumbres.
+IV. En su caso, haber completado las reparaciones a los daños que hubieren afectado áreas públicas, a terceros, al medio ambiente, o invadido servidumbres.
 
 ###### Artículo 246.
 
@@ -4321,7 +4329,9 @@ El acto de entrega y recepción de obras de urbanización perfeccionará la tran
 
 El ayuntamiento procederá a comprobar el registro y en su caso, tramitar la titulación de los predios y fincas que se hayan afectado a los servicios públicos establecidos en el Plan Parcial de Desarrollo Urbano y en el proyecto definitivo de urbanización.
 
-Una vez que se reciban las obras de urbanización el ayuntamiento estará obligado a suministrar y administrar los servicios básicos y el equipamiento para el funcionamiento óptimo del asentamiento, conforme a su régimen de propiedad o modalidad de la acción urbanística.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
+
+Una vez que se reciban las obras de urbanización el ayuntamiento estará obligado a suministrar y administrar los servicios básicos y el equipamiento para el funcionamiento óptimo del asentamiento, conforme a su régimen de propiedad o modalidad de la acción urbanística; caso contrario, la autoridad que haya recibido la urbanización sin las condiciones para poder brindar dichos servicios se hará acreedora a las sanciones contempladas en el presente Código y demás ordenamientos aplicables.
 
 ### CAPÍTULO II. De los procedimientos para autorizar obras de urbanización
 
@@ -4581,11 +4591,13 @@ II. La aceptación expresa del urbanizador de cumplir con la terminación de las
 
 III. La aceptación por parte del urbanizador del monto de la garantía que deberá otorgar para responder del correcto desempeño de las obras en el tiempo previsto, que será del orden del veinte por ciento del valor de la obra, mediante una fianza expedida por una compañía autorizada;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-IV. La aceptación por parte del urbanizador del plazo, a partir de la recepción de las obras de cada etapa o la totalidad de la urbanización, durante el cual estará obligado a responder por los vicios ocultos, mediante fianza expedida por una compañía autorizada por un plazo no menor a dos años, la cual sólo será cancelada con aprobación de la autoridad correspondiente;
+IV. La aceptación por parte del urbanizador del plazo, a partir de la recepción de las obras de cada etapa o la totalidad de la urbanización, durante el cual estará obligado a responder por los vicios ocultos, mediante fianza expedida por una compañía autorizada por un plazo no menor a cinco años, la cual sólo será cancelada con aprobación de la autoridad correspondiente;
 
-V. La aceptación por parte del urbanizador de hacer entrega al municipio de los predios comprendidos en las áreas de cesión para destinos, cuya propiedad le corresponde al Municipio, y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+V. La obligación expresa por parte del urbanizador de hacer entrega al municipio de los predios comprendidos en las áreas de cesión para destinos, cuya propiedad le corresponde al Municipio, y
 
 VI. La acreditación del pago del derecho correspondiente a este trámite, previsto en la Ley de Ingresos Municipal.
 
@@ -4665,13 +4677,15 @@ II. La bitácora autorizada para verificar la supervisión y control de las obra
 
 Al autorizar la bitácora, la autoridad municipal certificará las firmas de los peritos responsables que intervendrán en la supervisión y control de las obras.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
+
 ###### Artículo 265.
 
-Dentro de los diez días hábiles siguientes a la expedición de la licencia de urbanización, se deberá constituir ante la Dependencia Encargada de la Hacienda Municipal la garantía que aseguren la ejecución de las obras de urbanización y el cumplimiento de todas y cada una de las obligaciones que deba asumir en los términos de éste Código.
+Al momento de la expedición de la licencia de urbanización, se deberá constituir ante la Dependencia Encargada de la Hacienda Municipal la garantía que aseguren la ejecución de las obras de urbanización y el cumplimiento de todas y cada una de las obligaciones que deba asumir en los términos de éste Código.
 
 El monto de esta garantía será del orden del veinte por ciento del valor de las obras, mediante una fianza expedida por una compañía autorizada, por el tiempo necesario para ejecutar la urbanización, la cual será cancelada al recibirse las obras por el Ayuntamiento.
 
-La falta de cumplimiento de lo anterior, motivará la cancelación inmediata de la licencia correspondiente.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
 
 ###### Artículo 266.
 
@@ -5095,7 +5109,9 @@ El urbanizador está obligado, previamente a permitir la ocupación de predios o
 
 I. Que haya cumplido con el procedimiento previsto en los artículos 242 al 246 y, en el caso de urbanizaciones de objetivo social, que el municipio haya recibido de conformidad las obras mínimas, conforme las fracciones V y VI del artículo 327 de éste Código;
 
-II. Que se haya constituido la garantía a fin de reponer o corregir las obras que presenten defectos ocultos de construcción, por un plazo no menor de dos años, respecto de la totalidad del proyecto o la etapa correspondiente;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+II. Que se haya constituido la garantía a fin de reponer o corregir las obras que presenten defectos ocultos de construcción, por un plazo no menor de cinco años, respecto de la totalidad del proyecto o la etapa correspondiente;
 
 III. Que se hayan pagado o garantizado las obligaciones fiscales a su cargo, como se indica en la fracción III del artículo 245 de este Código, y
 
@@ -5167,7 +5183,9 @@ II. Una vez que las obras estén concluidas conforme a la fracción anterior, el
 
 III. Cuando las obras de urbanización se realicen en etapas, éstas podrán recibirse en forma secuencial, conforme al proyecto definitivo de urbanización autorizado, y
 
-IV. La dependencia municipal podrá solicitar a las dependencias, organismos públicos y entidades concesionarias, que tengan a su cargo la operación de servicios públicos, que acrediten representantes y concurran al acto de recepción de obras de urbanización.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+IV. La dependencia municipal solicitará a las dependencias, organismos públicos y entidades concesionarias, que tengan a su cargo la operación de servicios públicos, que acrediten representantes y concurran al acto de recepción de obras de urbanización.
 
 ###### Artículo 300.
 
@@ -6081,9 +6099,13 @@ III. No cumplan los plazos y términos establecidos en los trámites correspondi
 
 IV. No observen u omitan acatar las disposiciones legales vigentes; y
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-V. No hayan impuesto medidas de seguridad y con ello se causó daño a terceros o no hayan seguido los procedimientos de sanción administrativa dentro de los plazos legales.
+V. No hayan impuesto medidas de seguridad y con ello se causó daño a terceros, no hayan seguido los procedimientos de sanción administrativa dentro de los plazos legales, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2026)</small>
+
+VI. Reciban obras de urbanización sin que se haya acreditado, mediante acta de recepción y verificación técnica, que las obras de infraestructura básica se encuentran terminadas y en operación plena para la prestación efectiva de los servicios públicos básicos, conforme a lo dispuesto en los artículos 242, 245, 246 y 257 de este Código.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -6752,3 +6774,11 @@ P.O. 14 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 30144/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 16 DE LA LEY DE OBRA PÚBLICA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 96 DE LA LEY DE VIVIENDA DEL ESTADO DE JALISCO, ASÍ COMO 366 Y 379 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, CON EL PROPÓSITO DE ESTABLECER CLARAMENTE LA REGLA DE SUPLETORIEDAD DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES EN CADA UNO DE LOS ORDENAMIENTOS LEGALES REFORMADOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 30206/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 234, 237, 242, 245, 246, 258, 265, 290, 296, 299 Y 373 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los ayuntamientos contarán con un plazo de 60 días a partir de la publicación del presente decreto, para hacer las adecuaciones a sus normatividades y reglamentaciones respectivas.
