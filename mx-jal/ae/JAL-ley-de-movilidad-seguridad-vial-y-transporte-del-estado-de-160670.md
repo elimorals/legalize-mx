@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-seguridad-vial-y-transporte-del-estado-de-1606
 country: "mx"
 rank: "ley"
 publication_date: "2022-10-19"
-last_updated: "2026-06-18"
+last_updated: "2026-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:18 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Especial 30 Bis del Periódico Oficial del Estado de Jalisco, el miércoles 19 de octubre de 2022.
 
@@ -1183,9 +1183,17 @@ a) Los menores de cinco años; y
 
 b) La persona operadora y el personal autorizado por el sistema de transporte público, en actividades de supervisión o de vigilancia;
 
-XVII. A realizar los recorridos y desplazamientos de forma segura y libres de acoso y/o agresiones; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-XVIII. A contar con alternativas de pago que faciliten el acceso al servicio de transporte público.
+XVII. A realizar los recorridos y desplazamientos de forma segura y libres de acoso y/o agresiones;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+XVIII. A contar con alternativas de pago que faciliten el acceso al servicio de transporte público; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2026)</small>
+
+XIX. A conocer sus garantías, de manera clara, legible y accesible a través de los medios que se establezcan en el reglamento de la presente ley.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2023)</small>
 
@@ -7158,5 +7166,11 @@ Quinto. El impuesto aprobado en el presente decreto, deberá considerarse en la 
 P.O. 18 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 30192/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 31 Y 385 DE LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30202/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 44 DE LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
