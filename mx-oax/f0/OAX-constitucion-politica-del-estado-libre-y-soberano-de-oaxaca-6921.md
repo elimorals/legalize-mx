@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2026-05-21"
+last_updated: "2026-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2026.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -3869,11 +3869,17 @@ b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, 
 
 c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas;
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
-d) Se acredite violencia política contra las mujeres en razón de género, y
+d) Se acredite violencia política contra las mujeres en razón de género;
 
-e) Las demás causas previstas en esta Constitución y por las causas expresamente establecidas en la Ley.
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2026)</small>
+
+e) Se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales; y
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
+
+f) Las demás causas previstas en esta Constitución y las causas expresamente establecidas en la Ley.
 
 VII. Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento. En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
@@ -7070,3 +7076,15 @@ Los ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con u
 QUINTO. Los recursos públicos que resulten como economías o ahorros en el presupuesto anual derivados de las reducciones en la integración de ayuntamientos que en su caso se realicen, se destinaran a obras de infraestructura pública en beneficio de la población dentro del presupuesto correspondiente, en los términos de la legislación aplicable, garantizando en todo momento los principios de legalidad, honradez, transparencia y Austeridad.
 
 SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1564.- MEDIANTE EL CUAL SE REFORMA EL INCISO d) Y SE ADICIONA EL INCISO e), RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE INCISO DE LA FRACCIÓN VI DEL ARTICULO 114 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su aprobación.
+
+TERCERO. El Tribunal Electoral del Estado de Oaxaca y el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, en el ámbito de sus respectivas competencias, revisarán y, en su caso, adecuarán sus disposiciones normativas y administrativas para garantizar el cumplimiento del presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
