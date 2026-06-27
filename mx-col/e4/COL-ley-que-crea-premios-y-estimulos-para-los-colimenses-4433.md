@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2026-04-16"
+last_updated: "2026-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -218,6 +218,26 @@ d) Servicios a la Comunidad. Se otorgará a quien se haya distinguido profesiona
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2023)</small>
 
 XIV.- El Premio Estatal a la Gastronomía Tradicional “María Dolores Márquez Amezcua”, se otorgará a personas y/o organizaciones que se hayan distinguido por la trayectoria y aportaciones a la difusión de la comida tradicional, replicando el manejo de ingredientes, procedimientos, técnicas y presentación que contribuyan a la cultura culinaria del Estado.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+XV.- El Premio Estatal al Mérito Ciudadano en la Construcción Institucional "Jorge Humberto Silva Ochoa", que se otorgará anualmente a la persona que se haya distinguido por sus sobresalientes contribuciones a la creación, fortalecimiento o consolidación de instituciones públicas, privadas o sociales en el Estado de Colima.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+XVI.- Premio Estatal al mérito a la Educación Inicial y Preescolar, como reconocimiento público al liderazgo y a la labor destacada que realizan las personas educadoras en la formación inicial y preescolar, en las categorías siguientes:
+
+a) El Premio Estatal a la Educadora "Siria Llerenas Ochoa", que se otorgará anualmente a la persona que se haya distinguido profesionalmente en la educación preescolar pública Estatal, por su contribución relevante y destacada en la formación integral de niñas y niños.
+
+b) El Premio Estatal a la Educadora "Margarita Madrid Fuentes", que se otorgará a la persona que acredite una trayectoria destacada en el liderazgo, innovación y trabajo, en las siguientes subcategorías:
+
+I. En la educación inicial federalizada; y
+
+II. En la educación preescolar federalizada.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+XVII.- El Premio Estatal al Mérito en la Defensa y Promoción de los Derechos Humanos y No Discriminación de la Diversidad Sexual, consistente en una medalla y diploma, que se otorgará como reconocimiento anual a personas físicas o morales que se hayan distinguido por sus acciones en favor de los derechos humanos y políticos, la inclusión, la visibilidad, la cultura o el desarrollo social de la diversidad sexual en el Estado de Colima.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
@@ -475,6 +495,34 @@ Para tal efecto la Comisión de Educación, Cultura, Ciencia y Tecnología del H
 
 El Premio comprenderá las categorías encaminadas a distinguir a personas por su trayectoria en el manejo de alimentos tradicionales y/o organización cuyo desempeño destaque la difusión y preservación de las artes culinarias tradicionales del Estado.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2026)</small>
+
+###### Artículo 15.
+
+El Premio Estatal al Mérito Ciudadano en la Construcción Institucional "Jorge Humberto Silva Ochoa" se otorgará anualmente por el Honorable Congreso del Estado de Colima, y se entregará en Sesión Solemne, preferentemente el día 8 de diciembre de cada año, con motivo del natalicio del Licenciado Jorge Humberto Silva Ochoa.
+
+Para tal efecto, la Comisión de Educación, Cultura y Ciencia del Honorable Congreso del Estado expedirá la convocatoria respectiva durante el mes de mayo de cada año, preferentemente el día 21 con motivo de su aniversario luctuoso, en la que se establecerán las bases y se definirá la integración de un comité calificador, el cual determinará el ganador del Premio, tomando en consideración los méritos por las sobresalientes contribuciones a la creación, fortalecimiento o consolidación de instituciones públicas, privadas o sociales en el Estado de Colima.
+
+Con base en la propuesta del Comité Calificador, la Comisión de Educación, Cultura y Ciencia elaborará y presentará ante el Pleno del Honorable Congreso del Estado el acuerdo correspondiente para la designación de la persona acreedora al premio.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2026)</small>
+
+###### Artículo 16.
+
+El Premio Estatal al mérito a la educación inicial y preescolar se otorgará anualmente por el Honorable Congreso del Estado de Colima preferentemente el día 21 de abril de cada año, en Sesión Solemne. Para tal efecto, la Comisión de Educación, Cultura y Ciencia del Honorable Congreso del Estado expedirá la convocatoria respectiva durante el mes de marzo de cada anualidad, en la que se establecerán las bases y se definirá la integración de un Comité Calificador formado por la presidencia de la Comisión de Educación, Cultura y Ciencia, por la persona Titular de la Secretaría de Educación, y una persona representante de las instituciones educativas formadoras de educación inicial y/o preescolar. Dicha convocatoria deberá dársele máxima publicidad.
+
+Con base en la propuesta del Comité Calificador, la Comisión de Educación, Cultura y Ciencia elaborará y presentará ante el Pleno del Honorable Congreso del Estado el acuerdo correspondiente para la designación de las personas acreedoras al premio.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2026)</small>
+
+###### Artículo 17.
+
+El Premio Estatal al Mérito en la Defensa y Promoción de los Derechos Humanos y No Discriminación de la Diversidad Sexual, se otorgará anualmente por el Honorable Congreso del Estado de Colima, y se entregará, preferentemente el 17 de mayo en Sesión Solemne, en el marco del Día Internacional contra la Homofobia, Lesbofobia, Bifobia y Transfobia, o en la fecha que el Pleno determine. La Comisión de Educación, Cultura y Ciencia, en coordinación con la Comisión de Derechos Humanos y la Comisión de Bienestar, Inclusión Social y Equidad de Género, será la responsable de emitir la convocatoria anual para la postulación de personas candidatas y de dictaminar a la persona ganadora en base a la propuesta del Comité Calificador. El monto del estímulo económico que, en su caso, acompañe a este premio, será determinado en el Presupuesto de Egresos del Congreso del Estado para cada ejercicio fiscal.
+
+Para determinar a la persona merecedora del Premio Estatal, se integrará un Comité evaluador conformado por la presidencia de las Comisiones de Educación, Cultura y Ciencia; la Comisión de Bienestar, Inclusión Social y Equidad de Género, por la persona Titular de la Comisión de Derechos Humanos del Estado de Colima y una persona reconocida por su trabajo académico o social a favor de la Comunidad LGBTTTIQ+, quienes se encargarán de revisar y calificar la idoneidad de cada una de las personas propuestas.
+
+Las Comisiones de Educación, Cultura y Ciencia y la de Bienestar, Inclusión Social y Equidad de Género serán las responsables de elaborar y presentar el dictamen al Pleno del Congreso del Estado.
+
 TRANSITORIOS:
 
 ###### Artículo 1o.
@@ -604,3 +652,27 @@ P.O. 16 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 265.- POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 1 DE LA LEY DE (SIC) CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 27 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 329.- POR EL QUE SE APRUEBA ADICIONAR LA FRACCIÓN XV AL ARTÍCULO 1° Y EL ARTÍCULO 15 A LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES, A TRAVÉS DE LA CUAL SE CREA LA PRESEA AL MÉRITO CIUDADANO EN LA CONSTRUCCIÓN INSTITUCIONAL JORGE HUMBERTO SILVA OCHOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. La primera entrega del Premio Estatal al Mérito Ciudadano en la Construcción Institucional “Jorge Humberto Silva Ochoa” se hará en el mes de diciembre de la presente anualidad, siguiendo el procedimiento establecido en el artículo 15; la fecha de la convocatoria se ajustará a la brevedad posible una vez publicado el presente decreto.
+
+P.O. 27 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 330.- POR EL QUE SE APRUEBA ADICIONAR LA FRACCIÓN XVI AL ARTÍCULO 1° Y EL ARTÍCULO 16 A LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES; A TRAVÉS DE LA CUAL SE PROPONE LA CREACIÓN DEL PREMIO ESTATAL AL MÉRITO A LA EDUCACIÓN INICIAL Y PREESCOLAR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. La primera entrega del Premio Estatal al mérito a la educación inicial, se realizará en el año siguiente a la entrada en vigor del presente Decreto, observando el procedimiento establecido en el artículo 16 de la presente ley.
+
+P.O. 27 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 331.- POR EL QUE SE APRUEBA ADICIONAR LA FRACCIÓN XVII AL ARTÍCULO 1° Y EL ARTÍCULO 17 DE LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES; A TRAVÉS DE LA CUAL SE PROPONE CREAR EL PREMIO ESTATAL AL MÉRITO EN LA DEFENSA Y PROMOCIÓN DE LOS DERECHOS HUMANOS Y NO DISCRIMINACIÓN DE LA DIVERSIDAD SEXUAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. La primera entrega del Premio Estatal al Mérito en la Defensa y Promoción de los Derechos Humanos y No Discriminación de la Diversidad Sexual, se realizará en el año siguiente a la entrada en vigor del presente Decreto", observando el procedimiento establecido en el artículo 17 de la presente ley.
