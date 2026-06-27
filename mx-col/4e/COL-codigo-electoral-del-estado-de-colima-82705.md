@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-82705"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-08-30"
-last_updated: "2023-12-09"
+last_updated: "2026-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2026.
 
 Código publicado en el suplemento No. 1 del Periódico Oficial del Estado de Colima, el martes 30 de agosto de 2011.
 
@@ -311,27 +313,49 @@ Los Consejeros Electorales y los Magistrados del TRIBUNAL para ser candidatos a 
 
 En los términos del artículo 50 de la CONSTITUCIÓN, el Poder Ejecutivo se deposita en una persona que se denomina Gobernador del Estado de Colima.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 18.
 
-En los términos del artículo 51 de la CONSTITUCIÓN, para ser GOBERNADOR se requiere:
+En los términos de los artículos 19 y 51 de la CONSTITUCIÓN, para ser GOBERNADOR se requiere:
 
-I. Ser colimense por nacimiento con una residencia inmediata anterior al día de la elección de cinco años ininterrumpidos en el Estado, o hijo de padre o madre mexicanos y haber residido en el Estado al menos durante 12 años anteriores al día de la elección;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
+I. Ser colimense por nacimiento con una residencia inmediata anterior al día de la elección de cinco años ininterrumpidos en el Estado; o ser hija o hijo de padre o madre mexicanos y haber residido en el ESTADO al menos durante doce años anteriores al día de la elección;
 
-II. Tener por lo menos 30 años cumplidos al día de la elección, estar inscritos en la LISTA, no poseer otra nacionalidad y estar en pleno goce de sus derechos, entendiéndose por esto último, entre otros, el no estar condenada o condenado por el delito de violencia política contra las mujeres por razón de género;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-III. No haberse desempeñado como GOBERNADOR electo popularmente o de otra entidad federativa, ni como Jefe de Gobierno del Distrito Federal o cualquier otra atribución que se refiera a las mismas funciones y atribuciones, en términos de los artículos 51 y 54 de la CONSTITUCIÓN;
+II. Tener por lo menos treinta años cumplidos al día de la elección;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+III. Estar en pleno goce de sus derechos, con inscripción en la LISTA, y no poseer otra nacionalidad;
 
 IV. Tener un modo honesto de vivir;
 
-V. No ser ministro de algún culto, salvo que se haya separado cinco años antes de la elección;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-VI. No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo;
+V. No ser Ministra o Ministro de algún culto religioso, salvo que se separe del cargo, por lo menos, cinco años antes del día de la elección de que se trate;
 
-VII. No estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separe del cargo, por lo menos, un día antes del inicio del período de registro de candidatos; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-VIII. No ser Secretario de la Administración Pública Estatal, Procurador General de Justicia, Magistrado del Supremo Tribunal de Justicia o Presidente Municipal, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos.
+VI. No estar en servicio activo de las Fuerzas Armadas y de los cuerpos de seguridad pública, salvo que se separe de la función, por lo menos, un día antes del inicio del registro de candidaturas;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+VII. No ocupar la titularidad de una secretaría o subsecretaría de la Administración Pública, de la Consejería Jurídica, de la Fiscalía General, Magistratura del Tribunal Superior de Justicia o Presidencia Municipal, salvo que se separe del cargo, por lo menos, un día antes del inicio del registro de candidaturas;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+VIII. No haberse desempeñado como GOBERNADOR electo popularmente, o de otra entidad federativa, ni como Jefa o Jefe de Gobierno de la Ciudad de México, o haber ejercido cualquier otra atribución relacionada con las mismas funciones;
+
+> <small>(ADICIONADA, P.O. P.O. 27 DE JUNIO DE 2026)</small>
+
+IX. No estar comprendido en alguno de los impedimentos previstos en el artículo 54 de la CONSTITUCIÓN; y
+
+> <small>(ADICIONADA, P.O. P.O. 27 DE JUNIO DE 2026)</small>
+
+X. No tener o haber tenido en los últimos tres años anteriores al día de la elección, un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del Ejecutivo del Estado.
 
 ###### ARTÍCULO 19.
 
@@ -339,43 +363,57 @@ La elección del GOBERNADOR será popular y directa, por el principio de mayorí
 
 ### CAPÍTULO III. DE LA ELECCIÓN DE DIPUTADOS
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 20.
 
-El Poder Legislativo del Estado se deposita en una Asamblea de Diputados y Diputadas denominada CONGRESO, que se integrará con 16 diputaciones electas por el principio de mayoría relativa y 9 por el de representación proporcional. A dicha Asamblea se le denomina Legislatura, la cual durará 3 años, cambiando su nomenclatura para adoptar el número progresivo que le corresponda. Dichas elecciones distritales se realizarán mediante votación popular y directa, y las personas electas podrán reelegirse para un periodo consecutivo con el carácter de propietarias o de suplentes.
+El Poder Legislativo del Estado se deposita en una Asamblea de Diputados y Diputadas denominada CONGRESO, que se integrará con 16 diputaciones electas por el principio de mayoría relativa y 9 por el de representación proporcional; en su integración y funcionamiento se deberá garantizar los principios de paridad, igualdad sustantiva y perspectiva de género. A dicha Asamblea se le denomina Legislatura, la cual durará 3 años, cambiando su nomenclatura para adoptar el número progresivo que le corresponda. Dichas elecciones distritales se realizarán mediante votación popular y directa, y las personas electas no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
 Se entiende por distrito electoral uninominal la demarcación territorial donde se elegirá una diputación por el principio de mayoría relativa y por circunscripción electoral plurinominal la extensión territorial del Estado, donde se asignarán las nueve diputaciones por el principio de representación proporcional, de acuerdo con el procedimiento establecido en este CÓDIGO para tal efecto y conforme a las listas de registro de las candidaturas respectivas.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
+
 Por cada Diputada y Diputado propietario electo por el principio de mayoría relativa se elegirá un suplente. Las diputadas y diputados electos bajo el principio de representación proporcional no tendrán suplentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 21.
 
-En los términos del artículo 26 de la CONSTITUCIÓN, para ser diputado se requiere:
+En los términos de los artículos 19 y 26 de la CONSTITUCIÓN, para ser diputado se requiere:
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-I. Poseer la nacionalidad mexicana por nacimiento, no poseer otra nacionalidad, tener una residencia en el ESTADO no menor de cinco años antes del día de la elección y estar en pleno goce de sus derechos, entendiéndose por esto último, entre otros, el no estar condenada o condenado por el delito de violencia política contra las mujeres por razón de género;
+I. Ser ciudadano o ciudadana mexicana, en pleno goce de sus derechos, y tener una residencia en el ESTADO no menor a cinco años antes del día de la elección;
 
 II. Estar inscrito en la LISTA;
 
-III. No estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separe cuando menos un día antes del inicio del período de registro;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+III. No estar en servicio activo de las Fuerzas Armadas o de los cuerpos de seguridad pública, salvo que se separe de la función, por lo menos, un día antes del inicio del periodo de registro de candidaturas;
 
-IV. No ser Magistrado del Supremo Tribunal de Justicia, Secretario de la Administración Pública Estatal, Consejero Jurídico, Fiscal General del Estado, ni desempeñar el cargo de Juez de Distrito en el Estado, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+IV. No ser Magistrada o Magistrado del Tribunal Superior de Justicia; Titular de una Secretaría o Subsecretaría de la Administración Pública, de la Consejería Jurídica, de la Fiscalía General del Estado, ni desempeñarse como Juez o Jueza Federal de Distrito en el Estado, salvo que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidaturas;
 
-V. No ser Presidente Municipal en el lugar donde se realicen las elecciones, a menos que se separe del cargo, dentro de los cinco días anteriores al inicio del periodo de registro de candidatos; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-VI. No ser ministro de algún culto religioso, salvo que se haya separado cinco años antes de la elección.
+V. No ser Presidenta o Presidente Municipal en el lugar donde se realicen las elecciones, salvo que se separe del cargo, por lo menos, cinco días antes del inicio del periodo de registro de candidaturas;
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-En el caso de elección consecutiva no será requisito separarse del cargo.
+VI. No ser Ministra o Ministro de algún culto religioso, salvo que se separe del cargo, por lo menos, cinco años antes del día de la elección de que se trate;
+
+> <small>(ADICIONADA, P.O. P.O. 27 DE JUNIO DE 2026)</small>
+
+VII. No estar comprendido en alguno de los impedimentos que señala el segundo párrafo del artículo 26 de la CONSTITUCIÓN; y
+
+> <small>(ADICIONADA, P.O. P.O. 27 DE JUNIO DE 2026)</small>
+
+VIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
@@ -395,57 +433,63 @@ Las nueve diputaciones por el principio de representación proporcional, serán 
 
 El Municipio constituye la base de la división territorial y de la organización política y administrativa del ESTADO.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
-Las presidencias municipales, sindicaturas y regidurías serán electas popularmente por votación directa y las personas que resulten triunfadoras, podrán ser nuevamente electas para un periodo consecutivo por el mismo cargo que estén ocupando dentro del Cabildo: La postulación correspondiente sólo podrá ser realizada por el mismo partido o, en el caso de la candidatura común o coalición, por cualquiera que la haya postulado, salvo que hayan renunciado o perdido su militancia en él, antes de la mitad del periodo de su mandato.
+Las presidencias municipales, sindicaturas y regidurías serán electas popularmente por votación directa, de acuerdo con este CÓDIGO y de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. Tales munícipes durarán tres años en su cargo y no podrán ser electos consecutivamente para el mismo cargo. Las personas que tengan el carácter de suplentes en los cargos antes mencionados podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
 
-De no acreditarse su militancia dentro del partido político correspondiente, la persona de que se trate queda en la aptitud de poder ser postulada por cualquier otro partido político.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+Las personas que, por elección indirecta, por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de munícipes, cualquiera que sea la denominación que se les dé, no podrán ser registradas como candidatas para el mismo cargo en el propio Cabildo para el periodo inmediato.
 
-Las personas que por elección indirecta, por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de munícipes, cualquiera que sea la denominación que se les dé, podrán ser registrados como candidatos para el mismo cargo en el propio Cabildo, únicamente para el periodo inmediato.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 25.
 
-En los términos de los artículos 93 de la CONSTITUCIÓN y 27 de la Ley del Municipio Libre del Estado de Colima, para ocupar el cargo de munícipe se requiere:
+En los términos de los artículos 19 y 93 de la CONSTITUCIÓN y 27 de la Ley del Municipio Libre del Estado de Colima, para ocupar el cargo de munícipe se requiere:
 
-I. Ser ciudadano mexicano por nacimiento y no poseer otra nacionalidad;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+I. Tener la ciudadanía mexicana;
 
-II. Ser originario del MUNICIPIO de que se trate con una residencia inmediata anterior al día de la elección de un año ininterrumpido o, no siéndolo, contar con una residencia ininterrumpida no menor de tres años antes del día de la elección;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+II. Ser persona originaria del MUNICIPIO que se trate, con una residencia inmediata anterior al día de la elección de un año ininterrumpido o, no siéndolo, contar con residencia no menor de tres años antes del día de la elección;
 
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
 
 III. Estar en pleno ejercicio de sus derechos civiles y políticos, entendiéndose, entre otros, el no estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-IV. Estar inscrito en la LISTA;
+IV. Tener inscripción en la LISTA;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-V. No estar en servicio activo de las fuerzas armadas o de los cuerpos de seguridad pública, salvo que se separe del cargo, por lo menos, un día antes del inicio del periodo del registro de candidatos;
+V. No estar en servicio activo de las Fuerzas Armadas o de los cuerpos de seguridad pública, salvo que se separe de la función, por lo menos, un día antes del inicio del periodo de registro de candidaturas;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-VI. No ser ministro de cualquier culto religioso, salvo que se separe del cargo cinco años antes del día de la elección;
+VI. No ser Ministra o Ministro de algún culto religioso, salvo que se separe del cargo, por lo menos, cinco años antes del día de la elección de que se trate;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-VII. No ser integrante de los organismos electorales;
+VII. No ser integrante de los organismos electorales, en los términos que señala este CÓDIGO;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+VIII. (DEROGADA, P.O. 27 DE JUNIO DE 2026)
 
-VIII. No ser Presidente Municipal en el lugar donde se realicen las elecciones, salvo que se separe del cargo dentro de los cinco días anteriores al inicio del periodo de registro de candidatos; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+IX. No ser servidora o servidor público en ejercicio de la Federación, del ESTADO o de los MUNICIPIOS, en términos del artículo 27 de la Ley del Municipio Libre del Estado de Colima, salvo que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidaturas;
 
-IX. No ser servidor público en ejercicio de la Federación, Estado o municipios, así como de organismos descentralizados y empresas de participación estatal o municipal, salvo que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos.
+> <small>(ADICIONADA, P.O. P.O. 27 DE JUNIO DE 2026)</small>
+
+X. No estar comprendido en alguno de los impedimentos que señala el párrafo tercero de la fracción I del artículo 90 de la CONSTITUCIÓN; y
+
+> <small>(ADICIONADA, P.O. P.O. 27 DE JUNIO DE 2026)</small>
+
+XI. No tener o haber tenido en los últimos tres años anteriores al día de la elección, un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del cargo para el que se postula.
 
 ### CAPÍTULO V. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
@@ -765,7 +809,9 @@ Son derechos de los PARTIDOS POLÍTICOS:
 
 I. Participar, en la vida política del ESTADO conforme a lo dispuesto en la CONSTITUCIÓN FEDERAL, la CONSTITUCIÓN y las leyes aplicables;
 
-II. Participar en las elecciones conforme a lo dispuesto en la Base I del artículo 41 de la CONSTITUCIÓN FEDERAL, 86 BIS de la CONSTITUCIÓN, la LEGIPE, este CÓDIGO y demás disposiciones en la materia;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+II. Participar en las elecciones conforme a lo dispuesto en la Base I del artículo 41 de la CONSTITUCIÓN FEDERAL, 87 de la CONSTITUCIÓN, la LEGIPE, este CÓDIGO y demás disposiciones en la materia;
 
 III. Gozar de facultades para regular su vida interna y determinar su organización interior y los procedimientos correspondientes, conforme a las disposiciones aplicables;
 
@@ -881,9 +927,9 @@ b) En las diputaciones por el principio de representación proporcional, cada pa
 
 c) En el caso de los ayuntamientos, si se registra un número par de candidatos a presidentes municipales, el 50% de las candidaturas corresponderá a un mismo género; en caso de que se trate de número impar, el porcentaje de cada género será el más cercano a dicha cifra. En cada planilla deberán alternarse las propuestas de uno y otro género; las candidaturas deberán ser tanto propietarios y suplentes del mismo género;
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
 
-d) En el caso de las diputaciones por ambos principios e integrantes de los ayuntamientos, garantizarán la inclusión de jóvenes entre los 18 y 30 años de edad en por lo menos el 30% de las candidaturas, respetando la paridad y alternancia de género.
+d) En el caso de las diputaciones por ambos principios e integrantes de los ayuntamientos, garantizarán la inclusión de jóvenes entre los 18 y 35 años de edad en por lo menos el 30% de las candidaturas, respetando la paridad y alternancia de género.
 
 En la integración de las candidaturas de personas jóvenes, en los casos que correspondan, las personas propietarias y suplentes, deberán estar dentro de los rangos de edades antes señaladas.
 
@@ -894,6 +940,30 @@ Además, garantizarán la representación de la población indígena, personas c
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
 e) Determinar y hacer públicos criterios objetivos para garantizar, tanto la paridad de género como la cuota de jóvenes en las candidaturas a diputaciones y munícipes. En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros o jóvenes le sean asignados exclusivamente aquellos distritos o municipios en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+
+> <small>(ADICIONADO, P.O. P.O. 27 DE JUNIO DE 2026)</small>
+
+A fin de garantizar la paridad de género de manera transversal, el Consejo General del INSTITUTO emitirá los lineamientos para regular la conformación de bloques de competitividad en las candidaturas a munícipes y diputaciones por mayoría relativa. Para lo cual, se enlistarán los municipios y distritos ordenados de mayor a menor conforme al porcentaje de votación válida que cada partido político hubiere recibido en el proceso electoral anterior.
+
+> <small>(ADICIONADO, P.O. P.O. 27 DE JUNIO DE 2026)</small>
+
+En caso de que los partidos políticos que integran alguna coalición hubieran participado en forma individual en el Proceso Electoral anterior, se considerará la suma de la votación obtenida por cada partido político que integre la coalición correspondiente. Por el contrario, si los partidos políticos que participan en forma individual, lo hayan hecho en coalición en el Proceso Electoral anterior, se considerará la votación obtenida por el partido en lo individual.
+
+> <small>(ADICIONADO, P.O. P.O. 27 DE JUNIO DE 2026)</small>
+
+Los bloques de competitividad serán tres: el primero, con los municipios o distritos en los que el partido obtuvo la votación más alta; el segundo con los municipios o distritos en los que obtuvo una votación media; y el tercero, con los municipios o distritos en los que obtuvo la votación más baja.
+
+> <small>(ADICIONADO, P.O. P.O. 27 DE JUNIO DE 2026)</small>
+
+Cada bloque deberá integrarse de manera paritaria y en ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos municipios o distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+
+> <small>(ADICIONADO, P.O. P.O. 27 DE JUNIO DE 2026)</small>
+
+El INSTITUTO verificará que la distribución final de candidaturas se apegue al principio de paridad e identificará, en su caso, si fuera apreciable un sesgo que favorezca o perjudique a un género en particular.
+
+> <small>(ADICIONADO, P.O. P.O. 27 DE JUNIO DE 2026)</small>
+
+El orden de asignación interna de cada bloque será a libre determinación de cada partido político.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
@@ -1177,7 +1247,9 @@ IX. Para apoyar las actividades relativas a la educación, capacitación, invest
 
 Para dichas actividades relativas a la educación, capacitación, investigación socioeconómica y política, los partidos políticos garantizarán que en dichas actividades se encuentre la población joven, la población indígena, personas con discapacidad, personas de la diversidad sexual y otros grupos vulnerables, y
 
-X. Cada partido político deberá destinar anualmente el 3% del financiamiento público anual que le corresponda, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres. Cada partido comprobará los gastos que erogue para la realización de las actividades mencionadas. El partido que incumpla con dicha disposición, le será aplicable las sanciones que correspondan.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2026)</small>
+
+X. Cada partido político deberá destinar anualmente el 6% del financiamiento público anual que le corresponda, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres. Cada partido comprobará los gastos que erogue para la realización de las actividades mencionadas.
 
 > <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN X, P.O. 9 DE DICIEMBRE DE 2023.]</small>
 
@@ -1711,13 +1783,11 @@ XI. No ser ni haber sido miembro del Servicio Profesional Electoral Nacional dur
 
 El Secretario Ejecutivo del CONSEJO GENERAL deberá reunir los mismos requisitos que se exigen para ser Consejero Electoral, con excepción de lo dispuesto en la fracción XI de este artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 109.
 
-Las remuneraciones o dieta de asistencia que reciban las personas Consejeras Electorales y las demás personas servidoras públicas del INSTITUTO, será la prevista en su presupuesto anual de egresos aprobado por el CONGRESO.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
+Las remuneraciones o dieta de asistencia que reciban las personas Consejeras Electorales y las demás personas servidoras públicas del INSTITUTO, serán las previstas en su presupuesto anual de egresos aprobado por el CONGRESO, mismas que no excederán el límite establecido en el artículo 142 de la CONSTITUCIÓN, y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -2511,9 +2581,13 @@ IX. Utilizar en su propaganda símbolos, distintivos, signos, emblemas o figuras
 
 Los PARTIDOS POLÍTICOS realizarán sus procesos internos dentro de la etapa de preparación de la elección, durante los meses de enero y febrero del año de la elección ordinaria.
 
-En caso de que el proceso interno implique la realización de cualquiera de las actividades identificadas en el artículo 143 del presente ordenamiento, a cargo de los precandidatos, éstas durarán hasta 30 días para el caso de la selección de candidato a GOBERNADOR.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
-Tratándose de la selección de candidatos a Diputados y Ayuntamientos, las actividades señaladas en el párrafo anterior deberán durar hasta 20 días iniciando el 05 de febrero del año de la elección.
+En caso de que el proceso interno implique la realización de cualquiera de las actividades identificadas en el artículo 143 del presente ordenamiento, a cargo de los precandidatos, éstas durarán hasta 20 días para el caso de la selección de candidaturas a Gubernatura, Diputaciones, Presidencias Municipales, Sindicaturas y Regidurías de los Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
+
+El periodo de inicio y culminación de las actividades señaladas en el párrafo anterior será determinado por el CONSEJO GENERAL.
 
 La conclusión de las actividades señaladas en los párrafos anteriores deberán tener verificativo por lo menos tres días antes de la fecha señalada para que tenga verificativo la celebración de cualquiera de los métodos de selección aludidos en el artículo 140 de este CÓDIGO.
 
@@ -2595,15 +2669,15 @@ IV. Para los ayuntamientos, las candidaturas se comprenderán en una sola planil
 
 Cada fórmula de los cargos citados en el párrafo anterior estará integrada por un propietario y un suplente del mismo género y rango de edades o pertenencia del grupo, cuidando la homogeneidad de la formula; se enlistarán ordenadamente candidatos de género distinto, de manera alternada, atendiendo al orden de prelación hasta agotar la planilla correspondiente.
 
-Las personas que por elección indirecta, por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de munícipes, cualquiera que sea la denominación que se les dé, podrán ser registradas como candidatos para el mismo cargo en el propio Cabildo, únicamente para el periodo inmediato.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+Las personas que, por elección indirecta, por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de munícipes, cualquiera que sea la denominación que se les dé, no podrán ser registradas como candidatas para el mismo cargo en el propio Cabildo para el periodo inmediato.
 
-Ningún partido político podrá registrar a un candidato de otro partido, salvo que se trate de una coalición o candidatura común, previo registro del convenio correspondiente ante el CONSEJO GENERAL o el Consejo Municipal respectivo.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+Ningún partido político podrá registrar a una candidatura de otro partido, salvo que se trate de una coalición o candidatura común, previo registro del convenio correspondiente ante el CONSEJO GENERAL.
 
-En el caso de elección consecutiva, no podrán registrar como candidato a un Diputado o munícipe, propietario o suplente, de otro partido, que haya renunciado o perdido su militancia en él, después de la mitad del periodo del mandato correspondiente.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
 
@@ -2621,17 +2695,19 @@ Para el registro de candidaturas a cargos de elección popular, el partido polí
 
 La plataforma electoral deberá presentarse para su registro ante el CONSEJO GENERAL dentro de la segunda quincena del mes de febrero del año de la elección, el cual resolverá lo conducente y expedirá la constancia del registro respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 162.
 
-Los plazos para solicitar el registro de candidatos en el año de la elección ordinaria según se trate, serán:
+El plazo para solicitar el registro de candidaturas en el año de la elección ordinaria para Gubernatura, Diputaciones por ambos principios, Presidencias Municipales, Sindicaturas y Regidurías de los Ayuntamientos, será del 15 al 23 de marzo.
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. P.O. 27 DE JUNIO DE 2026)</small>
 
-I. Para GOBERNADOR, del 01 al 04 de marzo; y
+El CONSEJO GENERAL y los CONSEJOS MUNICIPALES, en el ámbito de sus competencias, deberán resolver sobre las solicitudes de registro de las candidaturas a más tardar el quinto día posterior al cierre del plazo respectivo.
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+I. (DEROGADA, P.O. 27 DE JUNIO DE 2026)
 
-II. Para Diputados por ambos principios y para Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, del 01 al 04 de abril.
+II. (DEROGADA, P.O. 27 DE JUNIO DE 2026)
 
 No habrá listas adicionales para Regidores de representación proporcional; su asignación se llevará a cabo de conformidad con la fórmula establecida por los artículos 265 y 266 de este CÓDIGO.
 
@@ -2713,33 +2789,41 @@ I. La plataforma electoral a que se refiere el artículo 161 y cumplió con lo e
 
 II. Los candidatos a diputados por el principio de mayoría relativa en más del 50% de los distritos electorales, ya sea individualmente o en coalición y haber cumplido con la fracción XXI del artículo 51 de este CÓDIGO;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 166.
 
-Al recibirse una solicitud de registro de candidatura, el Presidente o el Secretario Ejecutivo del Consejo que corresponda, asentará la hora en que ésta se reciba. Dentro de las 24 horas siguientes, verificarán que se cumplió con todos los requisitos señalados en los artículos anteriores.
+Al recibirse una solicitud de registro de candidatura, la Presidencia o la Secretaría Ejecutiva del Consejo que corresponda, asentará la hora en que ésta se reciba. Dentro de las 24 horas siguientes, verificarán que se cumplió con todos los requisitos señalados en los artículos anteriores.
 
-Si de la verificación realizada se advierte que hubo omisión de uno o varios requisitos, se notificará de inmediato al partido o coalición correspondiente para que, dentro de las 24 horas siguientes, subsane el o los requisitos omitidos o sustituya la candidatura, siempre que esto pueda realizarse dentro de los plazos que señala el artículo 162 del presente CÓDIGO.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+Si de la verificación realizada se advierte que hubo omisión de uno o varios requisitos, se notificará de inmediato al partido o coalición correspondiente para que, dentro de las 24 horas siguientes, subsane el o los requisitos omitidos o sustituya la candidatura, siempre que esto pueda realizarse dentro de los plazos que señala el primer párrafo del artículo 162 del presente CÓDIGO.
 
-En caso de solicitud de registro de candidaturas a diputado local, por el principio de mayoría relativa, inmediatamente que se reciba el CONSEJO GENERAL, verificará que se haya cumplido con el requisito para la verificación del requisito a que se refiere el artículo 51 fracción XXI de este CÓDIGO. De haber omisión se notificará de inmediato al partido político, coalición o candidato independiente para los efectos señalados en este párrafo.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
-El Presidente y el Secretario Ejecutivo del Consejo que corresponda, deberán permanecer en sus respectivas oficinas hasta las 24 horas del último día de cada uno de los plazos a que se refiere el artículo 162 de este CÓDIGO.
+En caso de solicitud de registro de candidaturas a diputación local por el principio de mayoría relativa, inmediatamente de que se reciba, el CONSEJO GENERAL verificará que se haya cumplido con el requisito a que se refiere el artículo 51 fracción XXI de este CÓDIGO. De haber omisión, se notificará de inmediato al partido político, coalición o candidatura independiente para los efectos señalados en este párrafo.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
+
+La Presidencia y la Secretaría Ejecutiva del Consejo que corresponda, deberán permanecer en sus respectivas oficinas hasta las 24 horas del último día de cada uno de los plazos a que se refiere el primer párrafo del artículo 162 de este CÓDIGO.
 
 Cualquier solicitud o documentación que se presente fuera de dichos plazos será desechada de plano y no se registrará la o las candidaturas.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
-Los CONSEJOS MUNICIPALES dentro de las 48 horas siguientes al vencimiento del plazo mencionado en el artículo 162, fracción II de este ordenamiento, celebrarán una sesión con el único objeto de registrar las candidaturas que procedan y comunicarán inmediatamente al CONSEJO GENERAL el acuerdo relativo al registro de candidaturas de planillas que hayan realizado.
+Los CONSEJOS MUNICIPALES, dentro del plazo a que se refiere el segundo párrafo del artículo 162 de este ordenamiento, celebrarán una sesión con el único objeto de registrar las candidaturas que procedan y comunicarán inmediatamente al CONSEJO GENERAL el acuerdo relativo al registro de candidaturas de planillas que hayan realizado.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
-De igual forma, el CONSEJO GENERAL dentro de las 48 horas siguientes al vencimiento del plazo señalado en el artículo 162, fracción II de este ordenamiento, celebrará una sesión cuyo único objeto será registrar las candidaturas a diputado local, por principio de mayoría relativa y las que se hayan presentado ante él supletoriamente y que procedan. Agotado lo anterior, dentro de los dos días siguientes, dicho Consejo sesionará para registrar las candidaturas de diputados por el principio de representación proporcional que procedan.
+De igual forma, el CONSEJO GENERAL, dentro del plazo a que se refiere el segundo párrafo del artículo 162, celebrará una sesión cuyo único objeto será registrar las candidaturas a diputación local, por principio de mayoría relativa, y las que se hayan presentado ante él supletoriamente y que procedan. Así mismo, dentro del mismo plazo, dicho CONSEJO GENERAL sesionará para registrar las candidaturas de diputación local por el principio de representación proporcional que procedan.
 
-En el caso de la elección de GOBERNADOR, las candidaturas respectivas se registrarán por el CONSEJO GENERAL, dentro de los tres días siguientes al vencimiento del plazo referido en el artículo 162, fracción I, de este CÓDIGO.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+En el caso de la elección de GOBERNADOR, las candidaturas respectivas se registrarán por el CONSEJO GENERAL, dentro del plazo a que se refiere el segundo párrafo del artículo 162 de este ordenamiento.
 
-Al concluir la sesión del CONSEJO GENERAL, el Presidente tomará las medidas necesarias para hacer pública la conclusión del registro de candidaturas, fórmulas, listas o planillas, dando a conocer los nombres de los candidatos independientes y candidatos registrados para cada elección, el partido político o coalición que los postula, así como la manifestación de tratarse en su caso de una coalición.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
+
+Concluido el registro de candidaturas, fórmulas, listas o planillas, de conformidad con el segundo párrafo del artículo 162 de este CÓDIGO, la Presidencia del CONSEJO GENERAL tomará las medidas necesarias para hacer pública la conclusión de los registros, dando a conocer los nombres de las personas candidatas independientes y de las postuladas por los partidos políticos o coaliciones para cada elección, precisando, en su caso, la coalición que las postule.
 
 ###### ARTÍCULO 167.
 
@@ -2873,9 +2957,11 @@ En los casos en que las autoridades estatales y municipales, concedan gratuitame
 
 Las instituciones de educación superior públicas y privadas podrán conceder el uso de sus espacios para el fomento de la cultura cívica y democrática, así como para la realización del debate político, bajo criterios de equidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 178.
 
-Las campañas electorales iniciarán a partir de la fecha en que los CONSEJOS MUNICIPALES y el CONSEJO GENERAL emitan el acuerdo relativo al registro de candidaturas para la elección respectiva y concluirán tres días antes de la jornada electoral.
+Las campañas electorales para las elecciones de la Gubernatura, Diputaciones y Munícipes iniciarán en la fecha que determine la declaratoria que emita el CONSEJO GENERAL, quien deberá garantizar que tengan una duración de sesenta días y concluyan tres días antes de la jornada electoral.
 
 El día de la jornada electoral y durante los 3 días anteriores, no se permitirán reuniones o actos públicos de campaña, ni ninguna otra actividad tendiente a la obtención del voto.
 
@@ -3673,15 +3759,19 @@ Durante los tres días siguientes a la sesión que señala el artículo anterior
 
 ### CAPÍTULO III. DE LA CALIFICACIÓN DE LA ELECCIÓN DE GOBERNADOR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 253.
 
-Corresponde al TRIBUNAL, de acuerdo con lo estipulado en el inciso a) de la fracción V del artículo 86 BIS de la CONSTITUCIÓN, el cómputo final de la elección de GOBERNADOR, la calificación, la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiese obtenido el mayor número de votos en el ESTADO. Dichas funciones deberá realizarlas dentro de los tres días siguientes al en que concluyó el plazo para interponer recursos.
+Corresponde al TRIBUNAL, de acuerdo con lo estipulado en la fracción I, inciso c) del artículo 78 de la CONSTITUCIÓN, realizar el cómputo final de elección de la Gubernatura del Estado, una vez resueltas a nivel local, en su caso, las impugnaciones que se hayan interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernadora o Gobernador Electo respecto de la candidatura que hubiese obtenido el mayor número de votos. Dichas funciones deberá realizarlas dentro de los cinco días siguientes al en que concluyó el plazo para interponer recursos o se haya dictado la resolución respectiva.
 
 De presentarse impugnaciones, el TRIBUNAL las resolverá conforme a lo establecido en la LEY DEL SISTEMA.
 
-Hecho lo anterior procederá a realizar el cómputo final, la calificación y la declaración de validez de la elección y la de Gobernador Electo, así como a efectuar la entrega de la constancia al candidato vencedor con tal carácter, dentro de los tres días siguientes.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
 
-Si no se presentaren recursos, el TRIBUNAL realizará las funciones previstas en el párrafo anterior, dentro de los tres días siguientes al en que reciba la documentación a que se refiere el artículo 252 de este CÓDIGO; verificadas las funciones de referencia, dentro de las 24 horas siguientes, enviará al CONGRESO las constancias con que se acredite la ejecución de dichas funciones para los efectos previstos en el artículo siguiente.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
+
+Verificadas las funciones de referencia, dentro de las 24 horas siguientes enviará al CONGRESO las constancias con que se acredite la ejecución de dichas funciones para los efectos previstos en el artículo siguiente.
 
 En caso de que se presente la hipótesis prevista por la fracción IV del artículo 99 de la CONSTITUCIÓN FEDERAL, el CONGRESO suspenderá los actos a que se refiere el artículo siguiente, hasta en tanto el Tribunal Electoral del Poder Judicial de la Federación resuelve lo conducente.
 
@@ -4003,35 +4093,39 @@ El TRIBUNAL, al resolver los asuntos de su competencia, garantizará que los act
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 271.
 
-El TRIBUNAL residirá en la capital del ESTADO y se integrará con tres Magistrados o Magistradas Numerarios, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores. La falta temporal de un Magistrado o Magistrada Numerario la suplirá la o el Secretario General de Acuerdos y, a falta o por impedimento de éste último, se suplirá por la o el Proyectista respectivo en los términos que establezca el Reglamento interior del Tribunal Electoral del Estado.
+El TRIBUNAL residirá en la capital del ESTADO y se integrará con tres Magistraturas, quienes serán electas por las dos terceras partes de los miembros presentes de la Cámara de Senadores. La falta temporal de una Magistratura la suplirá indistintamente la o el Secretario General de Acuerdos, o bien, la o el Proyectista respectivo que determine el Pleno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 272.
 
-El TRIBUNAL se instalará para el proceso electoral de que se trate dentro de los tres días siguientes al en que se instale el CONSEJO GENERAL y concluirá sus actividades al término del proceso electoral o cuando los recursos o juicios interpuestos hayan causado ejecutoria.
+El TRIBUNAL se instalará para el proceso electoral de que se trate dentro de los tres días siguientes al en que se instale el CONSEJO GENERAL, y concluirá sus actividades cuando los recursos o juicios interpuestos hayan causado ejecutoria.
 
 En caso de elecciones extraordinarias, ajustará los plazos de la interposición de los recursos o juicios y demás etapas procesales, conforme a lo dispuesto por la convocatoria respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 273.
 
-Las o los Magistrados ejercerán sus funciones por un período de siete años. Estarán sujetos al régimen de responsabilidades establecido en el Título XI de la CONSTITUCIÓN y rendirán la protesta de ley ante la Cámara de Senadores. Las personas Magistradas, y demás servidoras públicas del Tribunal percibirán una remuneración adecuada al ejercicio de sus funciones de conformidad a lo previsto en el presupuesto autorizado, la que no podrá disminuirse durante el ejercicio de su cargo y se incluirá en el Presupuesto de Egresos del propio TRIBUNAL.
+Las Magistraturas ejercerán sus funciones por un período de siete años. Estarán sujetas al régimen de responsabilidades establecido en el Título Undécimo de la CONSTITUCIÓN y rendirán la protesta de ley ante la Cámara de Senadores. Las Magistraturas y demás personas servidoras públicas del TRIBUNAL percibirán una remuneración adecuada al ejercicio de sus funciones de conformidad a lo previsto en el presupuesto autorizado, la que no podrá disminuirse durante el ejercicio de su cargo y se incluirá en el Presupuesto de Egresos del propio TRIBUNAL. Dichas remuneraciones no excederán el límite establecido en el artículo 142 de la CONSTITUCIÓN, y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
-Si a la conclusión del período legal del cargo de Magistrado o Magistrada a que se refiere este artículo, el Senado no ha elegido a la persona sustituta, quien lo venga desempeñando continuará en el mismo hasta que tome posesión el o la que lo sustituya.
+Si a la conclusión del período legal del cargo de Magistratura a que se refiere este artículo, el Senado no ha elegido a la persona sustituta, el Pleno designará, indistintamente y de forma interina, a la persona Secretaria General de Acuerdos, o bien, a la persona Proyectista del Tribunal, quien asumirá las funciones de la Magistratura vacante hasta en tanto el Senado de la República designe a la persona que le sustituya.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 274.
 
-Durante el tiempo que ejerzan las funciones de su cargo, los Magistrados no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la federación, del ESTADO o municipios, salvo los cargos en asociaciones científicas, docentes, literarias o de beneficencia.
+Durante el tiempo que ejerzan las funciones de su cargo, las Magistraturas no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la federación, del ESTADO o municipios, salvo los cargos en asociaciones científicas, docentes, literarias o de beneficencia, no remuneradas.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -4071,11 +4165,11 @@ Tratándose de una vacante definitiva de Magistrado, ésta será comunicada a la
 
 ### CAPÍTULO I. ORGANIZACIÓN
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 277.
 
-El TRIBUNAL estará presidido por el Magistrado que designe el Pleno, el cual ejercerá su cargo por el término de cuatro años, no pudiendo ser reelecto.
+El TRIBUNAL estará presidido por la Magistratura que designe el Pleno, la cual ejercerá su cargo por el término de dos años, no pudiendo ser reelecta.
 
 ###### ARTÍCULO 278.
 
@@ -4119,9 +4213,11 @@ El Secretario General de Acuerdos, los proyectistas y los actuarios deberán ser
 
 ### CAPÍTULO II. FUNCIONAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 281.
 
-Corresponden al Presidente del TRIBUNAL las siguientes atribuciones:
+Corresponden a la Presidencia del TRIBUNAL las siguientes atribuciones:
 
 I. Representar al TRIBUNAL ante toda clase de autoridades;
 
@@ -4129,7 +4225,9 @@ II. Convocar a los demás miembros del TRIBUNAL para la instalación e inicio de
 
 III. Presidir las sesiones del Pleno, dirigir los debates y conservar el orden durante las mismas;
 
-IV. Proponer al Pleno la designación del Secretario General de Acuerdos, proyectistas, actuarios;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+IV. Proponer al Pleno la designación de la persona titular de la Secretaría General de Acuerdos, de la Dirección General de Administración y Finanzas, y de las personas proyectistas y actuarias del TRIBUNAL;
 
 V. Designar y remover al personal administrativo necesario para el buen funcionamiento del TRIBUNAL;
 
@@ -4141,15 +4239,17 @@ VIII. Ordenar se notifique en tiempo y forma a los órganos estatales electorale
 
 IX. Tramitar los asuntos de su competencia hasta ponerlos en estado de resolución;
 
-X. Firmar, conjuntamente con el Secretario General de Acuerdos, los acuerdos, resoluciones, engroses y actas del TRIBUNAL;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+X. Firmar, junto con la persona titular de la Secretaría General de Acuerdos, los acuerdos, resoluciones, engroses y actas del TRIBUNAL;
 
 XI. Conceder o negar licencias al personal jurídico y administrativo;
 
 XII. Rendir un informe al término de cada proceso electoral;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-XIII. Ordenar que se cubran las ausencias temporales de los Magistrados o Magistradas conforme lo establece esta Ley y el Reglamento interior del Tribunal Electoral del Estado; y
+XIII. Ordenar que se cubran las ausencias temporales de las Magistraturas conforme lo establece este CODIGO y el Reglamento interior del Tribunal Electoral del Estado; y
 
 XIV. Las demás que le confiere este CÓDIGO.
 
@@ -5249,9 +5349,21 @@ V. El Pleno del TRIBUNAL en sesión pública, resolverá el asunto en un plazo d
 
 Las sentencias que resuelvan el procedimiento especial sancionador podrán tener los efectos siguientes:
 
-I. Declarar la inexistencia de la violación objeto de la queja o denuncia y, en su caso, revocar las medidas cautelares que se hubieren impuesto, o
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
 
-II. Imponer las sanciones que resulten procedentes en términos de lo dispuesto en este CÓDIGO.
+I. Declarar la inexistencia de la violación objeto de la queja o denuncia y, en su caso, revocar las medidas cautelares que se hubieren impuesto;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+II. Imponer las sanciones que resulten procedentes en términos de lo dispuesto en este CÓDIGO;
+
+> <small>(ADICIONADA, P.O. P.O. 27 DE JUNIO DE 2026)</small>
+
+III. Declarar la responsabilidad de la parte denunciada y, en su caso, dar vista a la autoridad competente para que determine o aplique las sanciones que correspondan en el ámbito de sus atribuciones; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2026)</small>
+
+IV. Sobreseer en el procedimiento.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -5743,95 +5855,61 @@ Los candidatos independientes que no utilicen la totalidad del financiamiento p�
 
 Los aspirantes o candidatos independientes que incumplan con la normatividad electoral que les resulte aplicable, podrán ser sancionados en términos de este CÓDIGO, con independencia de la responsabilidad penal que en su caso pudiere resultar.
 
-> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(DEROGADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2026)</small>
 
 # LIBRO OCTAVO. DE LAS ELECCIONES CONSECUTIVAS
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2026)</small>
 
 ## TÍTULO ÚNICO. DEL PROCEDIMIENTO DE LAS ELECCIONES CONSECUTIVAS
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2026)</small>
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
-
 ###### ARTÍCULO 358.
 
-Los ciudadanos que desempeñen los cargos de Diputado, Presidente Municipal, Síndico y Regidor, tendrán derecho a ser electos consecutivamente para el mismo cargo dentro del Cabildo, para un periodo adicional.
-
-Las personas que por elección indirecta, por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas para un periodo consecutivo por el mismo cargo dentro del Cabildo.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+(DEROGADO, P.O. 27 DE JUNIO DE 2026)
 
 ###### ARTÍCULO 359.
 
-La postulación correspondiente sólo podrá ser realizada por el mismo partido o, en el caso de la candidatura común o coalición, por cualquiera que lo hubiera postulado, salvo que hayan renunciado o perdido su militancia en él antes de la mitad del periodo de su mandato.
+(DEROGADO, P.O. 27 DE JUNIO DE 2026)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2026)</small>
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO DE REGISTRO
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
-
 ###### ARTÍCULO 360.
 
-Los diputados e integrantes de un Ayuntamiento que pretendan ser electos de manera consecutiva, deberán cumplir los requisitos previstos en los artículos 24 y 90 de la CONSTITUCIÓN, así como 21 y 25 de este CÓDIGO, respectivamente.
-
-En el caso de que los sujetos señalados en el párrafo anterior hayan militado en un partido político y busquen la elección consecutiva en sus cargos por un partido político distinto, además de lo señalado en el artículo 164 del CÓDIGO, deberán acompañar una carta en la que especifique:
-
-I. La fecha en que renunció o perdió la militancia del partido que lo postuló;
-
-II. La manifestación de estar cumpliendo los requisitos establecidos por la CONSTITUCIÓN en materia de elección consecutiva; y
-
-III. La fecha en que se separó de sus funciones, en el caso de un Presidente Municipal.
-
-A dicha carta deberá anexar la documentación que acredite lo señalado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2023)</small>
+(DEROGADO, P.O. 27 DE JUNIO DE 2026)
 
 ###### ARTÍCULO 361.
 
-Las diputadas y los diputados electos por el principio de mayoría relativa que busquen la elección consecutiva por el mismo principio, únicamente podrán ser registrados en el mismo distrito electoral en el que fueron electos; o en su caso, podrán ser postulados por el principio de representación proporcional.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2023)</small>
-
-Las y los diputados electos por el principio de representación proporcional que busquen la elección consecutiva podrán ser registrados por el mismo principio, o en su caso, por cualquier distrito electoral.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+(DEROGADO, P.O. 27 DE JUNIO DE 2026)
 
 ###### ARTÍCULO 362.
 
-Los integrantes de los ayuntamientos que pretendan la elección consecutiva, deberán ser registrados para el mismo MUNICIPIO en que fueron electos inicialmente.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+(DEROGADO, P.O. 27 DE JUNIO DE 2026)
 
 ###### ARTÍCULO 363.
 
-Los presidentes municipales en funciones que pretendan ser postulados para una elección consecutiva, tendrán que separarse del cargo público dentro de los cinco días anteriores al inicio del periodo de registro de candidatos, debiendo señalar de forma expresa el motivo de su separación.
+(DEROGADO, P.O. 27 DE JUNIO DE 2026)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2026)</small>
 
 ### CAPÍTULO III. OBLIGACIONES DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
-
 ###### ARTÍCULO 364.
 
-Cuando los munícipes participen en el proceso de elección consecutiva, los servidores públicos que colaboren en las administraciones municipales, respetarán y vigilarán estrictamente que la aplicación de los recursos públicos y la utilización de programas sociales que se encuentren bajo su responsabilidad, se apliquen con imparcialidad, para no influir en la equidad de la contienda electoral entre los precandidatos, candidatos y PARTIDOS POLÍTICOS.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+(DEROGADO, P.O. 27 DE JUNIO DE 2026)
 
 ###### ARTÍCULO 365.
 
-Cuando los munícipes participen en un proceso de elección consecutiva, los servidores públicos municipales observarán la correcta aplicación de los lineamientos en materia de propaganda gubernamental que, bajo cualquier modalidad de comunicación social, difunda la administración pública municipal y vigilarán que la propaganda gubernamental sea de carácter institucional y cumpla con los fines informativos, educativos o de orientación social, así como que en ningún caso, dicha propaganda incluya nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier munícipe con licencia que participe como precandidato o candidato.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+(DEROGADO, P.O. 27 DE JUNIO DE 2026)
 
 ###### ARTÍCULO 366.
 
-Para los efectos de lo dispuesto en los dos artículos anteriores, cuando los servidores públicos municipales cometan alguna infracción prevista en la CONSTITUCIÓN FEDERAL, en la CONSTITUCIÓN o en este CÓDIGO, se dará vista al superior jerárquico y se presentará la queja ante la autoridad competente por actos u omisiones que pudieran constituir responsabilidad administrativa, así como las denuncias o querellas ante la autoridad penal, a fin de que se proceda en los términos de las leyes aplicables.
+(DEROGADO, P.O. 27 DE JUNIO DE 2026)
 
 ## TRANSITORIOS
 
@@ -5988,5 +6066,23 @@ SEXTO.- El Consejo General del Instituto Electoral del Estado de Colima deberá 
 P.O. 9 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 370.- POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 64; ADEMÁS, SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN X, AMBAS DEL ARTÍCULO 64 DEL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 332.- POR EL QUE SE APRUEBA REFORMAR, ADICIONAR Y DEROGAR DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA".]
+
+Primero. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+Segundo. Las reformas a los artículos 20, primer párrafo, 21, fracción VII; 24, segundo párrafo, 25, fracción X; 160, párrafo quinto derogado de la fracción IV; así como la derogación del Libro Octavo, con su título único, capítulos y artículos del 358 al 366; del Código Electoral del Estado de Colima, en materia de prohibición de elección consecutiva para los cargos de diputaciones, presidencias municipales y demás integrantes de los ayuntamientos, serán aplicables a partir del proceso electoral a celebrarse en el año 2030.
+
+Tercero. Las reformas a los artículos 18, fracción X; 21, fracción VIII; y 25, fracción XI del Código Electoral del Estado de Colima, en materia de prohibición al nepotismo electoral en las candidaturas a la gubernatura, diputaciones y munícipes, serán aplicables a partir del proceso electoral a celebrarse en el año 2030.
+
+Cuarto. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 333.- POR EL QUE SE APRUEBA REFORMAR LA FRACCIÓN X, DEL ARTÍCULO 64 DEL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
