@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-la-universidad-politecnica-del-centro-181
 country: "mx"
 rank: "codigo"
 publication_date: "2025-08-27"
-last_updated: "2025-08-27"
+last_updated: "2026-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LA UNIVERSIDAD POLITECNICA DEL CENTRO, TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD POLITÉCNICA DEL CENTRO DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD POLITÉCNICA DEL CENTRO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2026 (ABROGADO)
 
 Código publicado en el Suplemento al Número 2825 del Periódico Oficial del Estado de Tabasco, el miércoles 27 de agosto de 2025.
 
@@ -768,3 +770,19 @@ Integrante del CEPCI.
 Wendy Crystell Ríos Rodríguez
 
 Integrante del CEPCI.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD POLITÉCNICA DEL CENTRO”.]
+
+PRIMERO. El presente Código de Conducta de la Universidad Politécnica del Centro, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado Tabasco.
+
+SEGUNDO. Se abroga el Código de Conducta de la Universidad Politécnica del Centro, publicado en el Suplemento al Periódico Oficial, edición número 8658 de fecha 27 de agosto de 2025.
+
+TERCERO. El Comité de Ética, en coordinación con las áreas competentes de la Universidad Politécnica del Centro, realizará las acciones necesarias para la difusión, socialización, capacitación y seguimiento del presente Código, así como para la implementación de la Carta Compromiso y de los mecanismos de orientación y consulta previstos en este instrumento.
+
+CUARTO. Las áreas competentes deberán habilitar, actualizar y difundir los datos de contacto institucionales del Comité de Ética y del Órgano Interno de Control, a efecto de garantizar el acceso a orientación, consultas y recepción de comunicaciones o denuncias relacionadas con el cumplimiento del presente Código.
+
+QUINTO. La revisión del contenido del presente Código deberá realizarse de manera anual, a fin de determinar su actualización o, en su caso, su ratificación, conforme a la normatividad aplicable y a los resultados del seguimiento institucional en materia de ética pública e integridad.
