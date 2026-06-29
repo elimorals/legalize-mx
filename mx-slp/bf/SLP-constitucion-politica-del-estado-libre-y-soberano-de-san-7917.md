@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2026-06-26"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -762,6 +762,10 @@ Las personas magistradas electorales percibirán una remuneración acorde con su
 ###### ARTÍCULO 33.
 
 La ley establecerá el sistema de medios de impugnación jurisdiccionales, por los cuales deban resolverse las controversias que se susciten con motivo de los procesos electorales locales, así como las derivadas de los actos y resoluciones que emitan las autoridades electorales locales.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+La ley establecerá el sistema de nulidades de las elecciones por violaciones graves, dolosas y determinantes; para efectos de dicha nulidad, se aplicarán las causales y estándares previstos por la Constitución Federal en su artículo 41.
 
 Estos procedimientos jurisdiccionales tienen por objeto garantizar los principios de, certeza y definitividad de las diferentes etapas de los procesos electorales, así como el de legalidad de los actos y resoluciones de las autoridades en la materia.
 
@@ -2401,9 +2405,9 @@ IX.- Cada Municipio deberá llevar y mantener actualizado el catastro de propied
 
 X.- Los Ayuntamientos sólo tendrán las atribuciones que expresamente les confieren esta Constitución y las leyes que de ella emanen. La ley definirá las responsabilidades en que incurran con motivo del ejercicio de sus cargos;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-XI.- Los Ayuntamientos serán electos cada tres años. Se integrarán con un Presidente, hasta con dos Síndicos y con Regidores de mayoría relativa y de representación proporcional en los términos del artículo 115, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos, quienes tendrán las mismas facultades y obligaciones que los Regidores de mayoría relativa, conforme lo disponga la ley de la materia, y
+XI.- Los Ayuntamientos serán electos cada tres años. Se integrarán con un Presidente o Presidenta, una Sindicatura y con Regidurías de mayoría relativa y de representación proporcional en los términos del artículo 115, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos, quienes tendrán las mismas facultades y obligaciones que las Regidurías de mayoría relativa, conforme lo disponga la ley de la materia, y
 
 > <small>(ADICIONADA, P.O. 4 DE JULIO DE 2015)</small>
 
@@ -4251,7 +4255,15 @@ SÉPTIMO. Los recursos materiales, los registros, padrones, plataformas y sistem
 
 OCTAVO. Hasta en tanto no se emita la legislación a que hace referencia el artículo TRANSITORIO SEGUNDO de este Decreto, la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, continuará operando y realizará las atribuciones que le son conferidas como a las autoridades garantes locales, así como a los órganos encargados de la contraloría interna u homólogos de los poderes legislativo y judicial y de los órganos constitucionales autónomos del Estado.
 
-NOVENO. Las personas comisionadas de la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, que a la entrada en vigor del presente Decreto continúen en su encargo, concluirán sus funciones y cesarán los efectos de su nombramiento, a la entrada en vigor de la legislación a que alude el artículo SEGUNDO TRANSITORIO, salvo aquellos cuya vigencia de su nombramiento concluya previamente.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2016)</small>
+
+NOVENO. Las personas comisionadas de la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, que a la entrada en vigor del presente Decreto continúen en su encargo, concluirán sus funciones y cesarán los efectos de su nombramiento, a la entrada en vigor de la legislación a que alude el artículo SEGUNDO TRANSITORIO.
+
+Lo anterior a efecto de garantizar la continuidad institucional prevista en el artículo Octavo Transitorio del presente Decreto y asegurar la tutela efectiva del derecho de acceso a la información pública y la protección de datos personales durante el proceso de armonización legislativa.
+
+La continuidad prevista en el presente artículo constituye una medida excepcional propia del régimen constitucional de transición derivado del presente Decreto; en consecuencia, no implicará reelección, ratificación, renovación, designación para un nuevo periodo, adquisición de derechos de permanencia ni ampliación ordinaria del nombramiento originalmente conferido. Conforme a lo establecido para la entrada en vigor de la legislación secundaria cesarán, de pleno derecho, todos los efectos de dicha continuidad funcional.
+
+La función de conducción institucional de la Comisión Estatal de Garantía de Acceso a la Información Pública no podrá quedar vacante durante el régimen constitucional de transición. En consecuencia, la persona que ejerza la Presidencia al inicio de dicho régimen continuará desempeñando exclusivamente las funciones inherentes a esa responsabilidad hasta la entrada en vigor de la legislación secundaria correspondiente, conforme a lo que en ellas se indique, con el único objeto de preservar la continuidad institucional del órgano garante y asegurar la eficacia del proceso de transición constitucional.
 
 DÉCIMO. Los derechos laborales de las personas servidoras públicas de la Comisión Estatal de Garantía de Acceso a la Información Pública, serán respetados en su totalidad, en términos de la legislación aplicable.
 
@@ -4398,3 +4410,31 @@ P.O. 26 DE JUNIO DE 2026.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0571.- QUE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA Y ADICIONA LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN A (SIC) LEY DE CONTROL DE CONFIANZA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. El Consejo Estatal Electoral y de Participación Ciudadana contará con un plazo de 180 días para realizar las adecuaciones normativas y reglamentarias necesarias para su adecuación conforme al presente Decreto.
+
+TERCERO. La reforma relativa a la integración de los ayuntamientos y concejos municipales que reduce de dos a una sindicatura, tendrá efectos a partir del proceso electoral local 2026 – 2027, por lo que la actual integración de los gobiernos municipales no se verá afectada con el presente Decreto.
+
+CUARTO. Para efectos exclusivos del proceso electoral local ordinario 2027 y de conformidad con el régimen transitorio previsto en el Decreto 540 publicado el 3 de junio de 2026 en el Periódico Oficial del Estado “Plan de San Luis”, las personas diputadas electas en el proceso electoral local 2024 que participen en elección consecutiva no estarán obligadas a separarse de su encargo para obtener su registro como personas candidatas a una diputación.
+
+QUINTO. Toda vez que, tratándose de reformas o adiciones ordenadas por la Constitución Política de los Estados Unidos Mexicanos, que deban constar en la Constitución local, únicamente se requerirá la aprobación de cuando menos las dos terceras partes del número total de las y los diputados, para que éstas formen parte de la misma, este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis"; de conformidad con el último párrafo del artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0569.- QUE REFORMA EL ARTÍCULO 17 DEL “DECRETO 0568; REFORMA LOS ARTÍCULOS 73 Y 84 DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, EN MATERIA DE EN MATERIA DE (SIC) MAYORÍA CALIFICADA”; Y REFORMA EL ARTÍCULO NOVENO DE LOS TRANSITORIOS, DEL “DECRETO 0506, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+ÚNICO. El presente Decreto entrara en vigor al momento de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0572.- QUE REALIZA ADICIÓN AL ARTÍCULO 33 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; REFORMA Y ADICIONA AL ARTÍCULO 52 DE LA LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. El Tribunal Electoral del Estado y el Consejo Estatal Electoral y de Participación Ciudadana, revisarán y adecuarán sus disposiciones normativas y administrativas para garantizar el cumplimiento de lo previsto en el presente Decreto.
