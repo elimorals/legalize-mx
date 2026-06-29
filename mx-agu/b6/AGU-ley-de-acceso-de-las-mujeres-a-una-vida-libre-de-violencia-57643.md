@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2026-06-23"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -225,13 +225,17 @@ XXI. Violencia vicaria;
 
 XXII. La violencia mediática;
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-XXIII. La violencia simbólica; y
+XXIII. La violencia simbólica;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2026)</small>
 
-XXIV. Todas aquellas que de alguna forma denigren la dignidad de la mujer.
+XXIV. Violencia por acecho; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JUNIO DE 2026)</small>
+
+XXV. Todas aquellas que de alguna forma denigren la dignidad de la mujer.
 
 ###### Artículo 4°.
 
@@ -407,9 +411,9 @@ h) Obstaculizar sin causa médica justificada el apego precoz del recién nacido
 
 i) Retener a la mujer o al producto de la concepción en los centros de salud o instituciones análogas por su incapacidad de pago;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-VII. Violencia en el tránsito por espacios públicos: es todo acto de hostigamiento que se realice en contra de una persona en la vía pública, en el que haya o no contacto físico; consiste en comentarios, gestos o expresiones de connotación sexual o discriminatoria en razón del género, acecho, actos de exhibicionismo y cualquier práctica que vulnere la integridad de las personas o genere inseguridad en su transitar por los espacios públicos;
+VII. Violencia en el tránsito por espacios públicos: es todo acto de hostigamiento que se realice en contra de una persona en la vía pública, en el que haya o no contacto físico; consiste en comentarios, gestos o expresiones de connotación sexual o discriminatoria en razón del género, actos de acecho, exhibicionismo y cualquier práctica que vulnere la integridad de las personas o genere inseguridad en su transitar por los espacios públicos;
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
@@ -457,13 +461,17 @@ La violencia mediática se puede ejercer por cualquier persona física o moral q
 
 Para efectos del presente artículo se entenderá por Medios de Comunicación aquellos instrumentos, canales o formas de transmisión de la información como la prensa, radio, televisión, cine, internet, redes sociales, entre otros, los cuales son utilizados para procesar, administrar y compartir la información;
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-XII. Violencia Simbólica: La que, a través de patrones estereotipados, mensajes, valores, iconos o signos, transmita y reproduzca dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad; y
+XII. Violencia Simbólica: La que, a través de patrones estereotipados, mensajes, valores, iconos o signos, transmita y reproduzca dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2026)</small>
 
-XIII. Cualesquiera otras formas análogas que, por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
+XIII. Violencia por acecho: Aquellas conductas reiteradas de vigilancia, seguimiento, persecución o contacto no deseado, ya sea físico o a través de medios digitales y tecnológicos, que atentan contra la libertad, seguridad e intimidad de la mujer, haciéndola sentir insegura o en peligro, a tal grado que altere o se vea obligada a cambiar su itinerario normal, hábitos, costumbres, medios de comunicación, medios digitales, lugar de residencia o trabajo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JUNIO DE 2026)</small>
+
+XIV. Cualesquiera otras formas análogas que, por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2026)</small>
 
@@ -2606,3 +2614,15 @@ P.O. 23 DE JUNIO DE 2026.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes, se entenderán referidas a la Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 535.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; Y, SE ADICIONA UNA FRACCIÓN X B AL ARTÍCULO 83 Y UN ARTÍCULO 139 TER AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
