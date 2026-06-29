@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-electoral-para-el-estado-de-san-luis-potosi-143
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-15"
-last_updated: "2024-12-22"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el lunes 15 de junio de 2020.
 
@@ -797,6 +797,10 @@ b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, 
 
 c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+d) Se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales.
+
 Dichas violaciones deberán ser; y acreditarse de manera objetiva y material, a través de los elementos de convicción que aporten las partes o las que, en su caso, se allegue el Tribunal, cuando exista principio de prueba que genere duda sobre la existencia de la irregularidad alegada.
 
 Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
@@ -811,7 +815,9 @@ A fin de salvaguardar las libertades de expresión, información y a fin de fort
 
 En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada, y
 
-VI. (SIC) Las demás que señale la presente Ley y la Ley Electoral.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+VII. Las demás que señale la presente Ley y la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
@@ -1170,3 +1176,11 @@ P.O. 22 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado, “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0572.- QUE REALIZA ADICIÓN AL ARTÍCULO 33 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; REFORMA Y ADICIONA AL ARTÍCULO 52 DE LA LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. El Tribunal Electoral del Estado y el Consejo Estatal Electoral y de Participación Ciudadana, revisarán y adecuarán sus disposiciones normativas y administrativas para garantizar el cumplimiento de lo previsto en el presente Decreto.
