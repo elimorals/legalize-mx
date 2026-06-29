@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2026-05-26"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2461,11 +2461,11 @@ El concubinato genera entre los concubinos derechos alimentarios y sucesorios in
 
 Artículo 313 Cuarter.- Los concubinos tendrán derecho a ejercer las acciones que concede la ley a los cónyuges para evitar actos de violencia familiar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2026)</small>
 
 ###### Artículo 313 Quinquies.
 
-Al cesar la convivencia, la concubina o el concubinario que carezca de ingresos o bienes suficientes para su sostenimiento, o que se dedicó preponderantemente al hogar y no haya desarrollado patrimonio propio, tienen derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato. No podrá reclamar alimentos quien haya mostrado ingratitud, o viva en concubinato o contraído matrimonio con persona distinta.
+Al cesar la convivencia, la concubina o el concubino que carezca de ingresos o bienes suficientes para su sostenimiento tienen derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato. No podrá reclamar alimentos quién haya demostrado ingratitud, o viva en concubinato o contraído matrimonio con persona distinta.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -2607,9 +2607,17 @@ IV.- Con relación a las personas adultas mayores que carezcan de capacidad econ
 
 El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
-> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
 
-Cuando la persona juzgadora apruebe un convenio o dicte sentencia en la que se fije un monto por concepto de pensión alimenticia, la persona obligada a su pago será inscrita de manera inmediata en el Registro Nacional de Obligaciones Alimentarias. Dicha inscripción se mantendrá hasta que acredite haber realizado el primer pago conforme a lo establecido en la resolución judicial o en el convenio aprobado. En consecuencia, de oficio o a petición de parte, la persona juzgadora ordenará la inscripción del deudor alimentario en el Registro Nacional de Obligaciones Alimentarias, proporcionando al Registro los datos de identificación del deudor alimentario, los cuales de manera enunciativa mas no limitativa serán los siguientes:
+Cuando la persona juzgadora apruebe un convenio o dicte sentencia en la que se fije un monto por concepto de pensión alimenticia, ya sea provisional o definitiva, la persona obligada a su pago será inscrita en el Registro Nacional de Obligaciones Alimentarias, una vez que haya sido legalmente requerida para el cumplimiento de la obligación y haya transcurrido el plazo concedido para ello sin que se acredite su cumplimiento, en términos de la legislación procesal civil y familiar aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JUNIO DE 2026)</small>
+
+Dicha inscripción se mantendrá hasta que acredite haber realizado el pago requerido conforme a lo establecido en la resolución judicial o en el convenio aprobado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JUNIO DE 2026)</small>
+
+En consecuencia, de oficio o a petición de parte, la persona juzgadora ordenará la inscripción del deudor alimentario en el Registro Nacional de Obligaciones Alimentarias, proporcionando al Registro los datos de identificación del deudor alimentario, los cuales de manera enunciativa más no limitativa son los siguientes:
 
 > <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
 
@@ -3331,15 +3339,17 @@ En caso de que el reconocimiento se efectúe sucesivamente por los padres que no
 
 La paternidad y la maternidad pueden probarse por cualquiera de los medios ordinarios. Si se propusiera cualquier prueba biológica o proveniente del avance de los conocimientos científicos y el presunto progenitor se negara a proporcionar la muestra necesaria, se presumirá, salvo prueba en contrario que es la madre o el padre.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2026)</small>
 
 ###### Artículo 406.
 
-Se presumen hijos o hijas de los concubinos:
+Se presumen hijos de los concubinos:
 
 I.- Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato;
 
-II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre el concubinario y la concubina.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la vida común entre los concubinos.
 
 ###### Artículo 407.
 
@@ -8451,7 +8461,9 @@ IV. A los ascendientes siempre y cuando no tengan medios para subvenir a sus nec
 
 V. A los hermanos y demás parientes colaterales dentro del cuarto grado, si están imposibilitados para trabajar o mientras que no cumplan veintiún años, siempre y cuando no tengan medios para subvenir a sus necesidades;
 
-VI. A la concubina o concubinario siempre que no esté impedido para trabajar y que no tenga medios para subvenir a sus necesidades y que no contraiga matrimonio.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+VI. A la concubina o concubino siempre que no esté impedida para trabajar y que no tenga medios para subvenir a sus necesidades y que no contraiga matrimonio.
 
 ###### Artículo 1281.
 
@@ -8479,7 +8491,9 @@ I.- Se ministrarán a los descendientes y al cónyuge supérstite a prorrata;
 
 II.- Cubiertas las pensiones a que se refiere la fracción anterior, se ministrarán a prorrata a los ascendientes;
 
-III.- Después se ministrarán también a prorrata a los hermanos y a la concubina;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+III.- Después se ministrarán también a prorrata a los hermanos y a la concubina o concubino;
 
 IV.- Por último, se ministrarán igualmente a prorrata, a los demás parientes colaterales dentro del cuarto grado.
 
@@ -9423,7 +9437,9 @@ Si el testador dispone legalmente sólo de una parte de sus bienes el resto de e
 
 Tienen derecho a heredar por sucesión legítima:
 
-I.- Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del cuarto grado y en ciertos casos la concubina;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+I.- Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del cuarto grado y en ciertos casos la concubina o el concubino;
 
 II.- A falta de los anteriores, la Beneficencia del Estado.
 
@@ -9573,23 +9589,25 @@ A falta de los llamados en los artículos anteriores, sucederán los parientes m
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2026)</small>
+
 ### CAPITULO VI.
 
-DE LA SUCESION DE LA CONCUBINA.
+DE LA SUCESION DE LOS CONCUBINOS.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2026)</small>
 
 ###### Artículo 1516.
 
-La concubina o el concubinario con el que el autor ó autora de la herencia vivió como si fuera su esposa o marido durante los cinco años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
+La concubina o el concubino con el que el autor ó autora de la herencia vivió como si fuera su esposa o marido durante los cinco años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-I.- Si la concubina o concubinario concurren con sus hijos que lo sean también del autor o autora de la herencia, se observará lo dispuesto en los Artículos 1505 y 1506;
+I.- Si la concubina o el concubino concurren con sus hijos que lo sean también del autor o autora de la herencia, se observará lo dispuesto en los Artículos 1505 y 1506;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-II.- Si la concubina o concubinario concurren con descendientes del autor o autora de la herencia, que no sean también descendientes de ella o él, tendrá derecho a la mitad de la porción que le corresponda a un hijo;
+II.- Si la concubina o el concubino concurren con descendientes del autor o autora de la herencia, que no sean también descendientes de ella o él, tendrá derecho a la mitad de la porción que le corresponda a un hijo;
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -9601,11 +9619,13 @@ IV.- Si concurre con ascendientes del autor de la herencia, tendrá derecho a la
 
 V.- Si concurre con parientes colaterales dentro del cuarto grado del autor o autora de la sucesión, tendrá derecho a una tercera parte de ésta;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-VI.- Si el autor o autora de la herencia no deja descendientes, ascendientes, cónyuge ó parientes colaterales dentro del cuarto grado, la mitad de los bienes de la sucesión pertenecen a la concubina o concubinario y la otra mitad a la Beneficencia del Estado.
+VI.- Si el autor o autora de la herencia no deja descendientes, ascendientes, cónyuge ó parientes colaterales dentro del cuarto grado, la mitad de los bienes de la sucesión pertenecen a la concubina o el concubino y la otra mitad a la Beneficencia del Estado.
 
-En los casos a que se refieren las fracciones II, III y IV, debe observarse lo dispuesto en los artículos 1505 y 1506, si la concubina tiene bienes.
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 29 DE JUNIO DE 2026]</small>
+
+En los casos a que se refieren las fracciones II, III y IV, debe observarse lo dispuesto en los artículos 1505 y 1506, si la concubina o el concubino tiene bienes.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -13745,7 +13765,9 @@ El contrato de arrendamiento debe otorgarse por escrito. La falta de esta formal
 
 El contrato de arrendamiento no se rescinde por la muerte del arrendador ni del arrendatario, salvo convenio en otro sentido.
 
-Con exclusión de cualquier otra persona, el cónyuge, el o la concubina, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido, se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieran habitado real y permanentemente el inmueble en vida del arrendatario.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Con exclusión de cualquier otra persona, el cónyuge, el concubino o la concubina, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido, se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieran habitado real y permanentemente el inmueble en vida del arrendatario.
 
 No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
 
@@ -18560,3 +18582,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo contará con 180 días a partir de la entrada en vigor de este Decreto, para hacer las reformas y adecuaciones necesarias en el Reglamento del Registro Civil del Estado de Aguascalientes y demás normatividad aplicable.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 533.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 536.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
