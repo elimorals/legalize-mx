@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-181630"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-09-14"
-last_updated: "2025-09-14"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Ley publicada la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el domingo 14 de septiembre de 2025.
 
@@ -67,7 +67,9 @@ V. Constitución Política del Estado: La Constitución Política del Estado Lib
 
 VI. Contraloría: La Contraloría del Poder Judicial del Estado;
 
-VII. Junta de Coordinación: La instancia integrada por las presidencias de los plenos del Tribunal de Disciplina Judicial y del Órgano de Administración Judicial;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+VII. Junta de Coordinación: La instancia permanente de coordinación y comunicación institucional integrada por las presidencias de los Plenos del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial y del Órgano de Administración Judicial, sin perjuicio de las competencias constitucionales y legales propias de cada órgano;
 
 VIII. Ley Orgánica: La Ley Orgánica del Poder Judicial del Estado de San Luis Potosí;
 
@@ -87,23 +89,27 @@ XV. Órgano de Evaluación de Desempeño Judicial: Órgano de Evaluación del De
 
 XVI. Personas Consejeras: Las personas integrantes del Pleno del Órgano de Administración Judicial del Poder Judicial del Estado;
 
-XVII. Personas Juzgadoras de Primera Instancia: Las personas juzgadoras de los órganos jurisdiccionales de primera instancia;
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-XVIII. Personas Magistradas: Las personas integrantes del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial, respectivamente;
+XVII. Personas Juzgadoras Auxiliares: Las personas que, en los términos de esta Ley Orgánica, son electas o designadas por las asambleas de las comunidades y localidades del Estado para ejercer las atribuciones y funciones que les confieren la Constitución, esta Ley y la legislación aplicable, y que coadyuvan con el Poder Judicial del Estado, sin formar parte del mismo. En las comunidades de pueblos originarios, su designación y actuación observarán además los sistemas normativos internos y la Ley de Justicia Indígena y Comunitaria para el Estado de San Luis Potosí.
 
-XIX. Persona Presidenta: La persona servidora pública que presida el Supremo Tribunal de Justicia, el Tribunal de Disciplina, el Órgano de Administración Judicial, según corresponda;
+XVIII. Personas Juzgadoras de Primera Instancia: Las personas juzgadoras de los órganos jurisdiccionales de primera instancia;
 
-XX. Personas Servidoras Públicas: Las personas integrantes del Poder Judicial del Estado de San Luis Potosí;
+XIX. Personas Magistradas: Las personas integrantes del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial, respectivamente;
 
-XXI. Poder Judicial del Estado: El Poder Judicial del Estado de San Luis Potosí;
+XX. Persona Presidenta: La persona servidora pública que presida el Supremo Tribunal de Justicia, el Tribunal de Disciplina, el Órgano de Administración Judicial, según corresponda;
 
-XXII. Presidencia: La presidencia del Supremo Tribunal de Justicia del Estado de San Luis Potosí, del Tribunal de Disciplina Judicial del Poder Judicial del Estado y del Órgano de Administración Judicial del Poder Judicial del Estado;
+XXI. Personas Servidoras Públicas: Las personas integrantes del Poder Judicial del Estado de San Luis Potosí;
 
-XXIII. Salas: Las Salas del Supremo Tribunal de Justicia del Estado de San Luis Potosí y las Salas Unitarias del Tribunal de Disciplina Judicial;
+XXII. Poder Judicial del Estado: El Poder Judicial del Estado de San Luis Potosí;
 
-XXIV. Supremo Tribunal de Justicia: El Supremo Tribunal de Justicia del Estado de San Luis Potosí; y,
+XXIII. Presidencia: La presidencia del Supremo Tribunal de Justicia del Estado de San Luis Potosí, del Tribunal de Disciplina Judicial del Poder Judicial del Estado y del Órgano de Administración Judicial del Poder Judicial del Estado;
 
-XXV. Tribunal de Disciplina Judicial: El Tribunal de Disciplina Judicial del Poder Judicial del Estado.
+XXIV. Salas: Las Salas del Supremo Tribunal de Justicia del Estado de San Luis Potosí y las Salas Unitarias del Tribunal de Disciplina Judicial;
+
+XXV. Supremo Tribunal de Justicia: El Supremo Tribunal de Justicia del Estado de San Luis Potosí; y,
+
+XXVI. Tribunal de Disciplina Judicial: El Tribunal de Disciplina Judicial del Poder Judicial del Estado.
 
 ### Capítulo II. De los Órganos del Poder Judicial del Estado
 
@@ -119,6 +125,10 @@ III. El Órgano de Administración Judicial; y,
 
 IV. El Tribunal de Disciplina Judicial.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Las personas juzgadoras auxiliares a que se refieren los artículos 90, 107 y 108 de la Constitución Política del Estado, así como el Capítulo IV, del Título Tercero de la presente legislación, apoyarán al Poder Judicial del Estado sin formar parte del mismo, de conformidad con lo establecido por la propia Constitución, esta Ley Orgánica y las demás disposiciones aplicables. Tratándose de pueblos originarios, serán aplicables las reglas de coordinación establecidas en la Ley de Justicia Indígena y Comunitaria para el Estado de San Luis Potosí.
+
 ###### Artículo 6.
 
 Para el ejercicio de sus funciones, el Poder Judicial del Estado se podrá auxiliar de los demás poderes públicos del Estado y con los órganos constitucionales autónomos, en los distintos niveles de gobierno.
@@ -130,6 +140,10 @@ Las personas servidoras publicas integrantes del Poder Judicial del Estado, salv
 Asimismo, quedan impedidos para postular, salvo cuando se trate de causa propia.
 
 Ninguna persona podrá ser nombrada para desempeñar algún cargo en el Poder Judicial del Estado si se encuentra en cualquiera de los supuestos previstos en los artículos 38, fracción VII, de la Constitución Política Federal y 27, fracciones IV y VII, segundo párrafo, de la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 7 BIS. El Órgano de Administración Judicial y el Tribunal de Disciplina Judicial, en el ámbito de sus respectivas competencias, deberán prevenir, identificar y combatir la discriminación, el conflicto de interés y la formación de redes nepóticas y clientelares, mediante la emisión de acuerdos generales y demás medidas institucionales conducentes. Lo anterior sin perjuicio de lo dispuesto en la Ley de Responsabilidades Administrativas y demás legislación aplicable
 
 ## TÍTULO SEGUNDO. Del Supremo Tribunal de Justicia del Estado
 
@@ -193,7 +207,9 @@ IV. Presentar ante el Congreso del Estado, iniciativas de leyes o decretos relac
 
 V. Designar a una persona integrante del Órgano de Administración Judicial del Poder Judicial del Estado, de conformidad con lo que establece la Constitución Política del Estado y la presente Ley Orgánica;
 
-VI. Tomar protesta a la persona Presidenta del Supremo Tribunal de Justicia, electa conforme a lo señalado en el artículo 95 de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+VI. Elegir y tomar protesta a la persona Presidenta del Supremo Tribunal de Justicia, de entre las Magistraturas que lo integren;
 
 VII. Recibir y en su caso, calificar la renuncia de la persona Magistrada al cargo de la Presidencia del Supremo Tribunal Justicia, y dar vista al Congreso del Estado para los efectos legales conducentes;
 
@@ -221,7 +237,9 @@ XVIII. Establecer mediante normatividad interna, los días y horas en que de man
 
 XIX. Crear los Comités y Comisiones que sean necesarios para la atención de los asuntos de su competencia;
 
-XX. Nombrar, a la persona Secretaria General y a la persona Subsecretaria del Supremo Tribunal de Justicia en los términos de la presente Ley Orgánica;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+XX. Nombrar, a propuesta de su Presidencia, a la persona Secretaria General y a la persona Subsecretaria del Supremo Tribunal de Justicia, quienes durarán en su cargo dos años, prorrogables a determinación del Pleno. Asimismo, nombrar a propuesta de la Presidencia a las personas titulares de sus Órganos de Apoyo, y supervisar su desempeño funcional e institucional, sin perjuicio de las atribuciones que correspondan al Órgano de Administración Judicial, en los términos de la presente Ley Orgánica;
 
 XXI. Crear en conjunto con el Órgano de Administración Judicial y/o Tribunal de Disciplina Judicial, las comisiones mixtas que sean necesarias para el mejoramiento de la administración de justicia;
 
@@ -241,9 +259,11 @@ Sección 1ª
 
 De su funcionamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### Artículo 14.
 
-La Presidencia del Supremo Tribunal de Justicia, se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la Presidencia a quien alcance mayor votación, por orden de prelación.
+La Presidencia del Supremo Tribunal de Justicia la ocupará la Magistratura que se elija en la sesión de Pleno Extraordinario que al efecto se realice, de acuerdo con las formalidades señaladas en el Reglamento Interior. Durará en su encargo tres años, sin posibilidad de reelección.
 
 El cargo de persona Presidenta es renunciable y corresponderá al Pleno del Supremo Tribunal de Justicia, calificar y resolver la renuncia.
 
@@ -283,11 +303,17 @@ IX. Conceder licencias con goce de sueldo a las personas Magistradas hasta por c
 
 X. Autorizar las listas de los asuntos, dirigir los debates y conservar el orden de las sesiones del Pleno;
 
-XI. Proponer al órgano de administración el nombramiento del personal de la Presidencia que estime necesario para el ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-XII. Someter a la consideración del Pleno el anteproyecto del presupuesto del Supremo Tribunal de Justicia, a efecto de que, una vez aprobado, lo proponga al órgano de administración para su inclusión en el proyecto del presupuesto del Poder Judicial del Estado; y,
+XI. Proponer al Pleno del Supremo Tribunal de Justicia del Estado el nombramiento de las personas titulares de los Órganos de Apoyo; así como proponer al Órgano de Administración Judicial el nombramiento del personal adscrito a la Presidencia del Supremo Tribunal de Justicia que prevea esta Ley Orgánica, conforme al presupuesto autorizado y a la normatividad aplicable, pudiendo tratarse de personas servidores (sic) públicas que se comisionen para tal efecto;
 
-XIII. Las demás atribuciones que le confieren esta Ley Orgánica, la normatividad interna y demás disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+XII. Coordinar y dar seguimiento al funcionamiento de las áreas de apoyo adscritas al Supremo Tribunal de Justicia, sin perjuicio de las atribuciones que correspondan al Órgano de Administración Judicial en materia de recursos humanos, materiales, financieros y tecnológicos;
+
+XIII. Someter a la consideración del Pleno el anteproyecto del presupuesto del Supremo Tribunal de Justicia, a efecto de que, una vez aprobado, lo proponga al órgano de administración para su inclusión en el proyecto del presupuesto del Poder Judicial del Estado; y,
+
+XIV. Las demás atribuciones que le confieren esta Ley Orgánica, la normatividad interna y demás disposiciones legales aplicables.
 
 ### Capítulo IV. De las Salas del Supremo Tribunal de Justicia
 
@@ -363,9 +389,15 @@ II. Contar como mínimo con cinco años de ejercicio de la Licenciatura en Derec
 
 III. Gozar de buena reputación y no estar en alguno de los supuestos de impedimentos previstos por las normas que se mencionan en el último párrafo del artículo 7 de la presente Ley Orgánica;
 
-IV. Acreditar residencia efectiva en el Estado durante, por lo menos, los dos años inmediatos anteriores a la fecha de la designación; y,
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-V. Cumplir con los demás requisitos que establezca la presente Ley Orgánica.
+IV. Acreditar residencia efectiva en el Estado durante, por lo menos, los dos años inmediatos anteriores a la fecha de la designación;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+V. En el caso de la persona Secretaria General, deberá tener al momento de su designación, nombramiento como persona Secretaria de Acuerdos, o formar parte de la reserva correspondiente, y
+
+VI. Cumplir con los demás requisitos que establezca la presente Ley Orgánica.
 
 ###### Artículo 26.
 
@@ -373,15 +405,95 @@ La persona Secretaria General tendrá fe pública en el ejercicio de sus funcion
 
 Son atribuciones de la persona Secretaria General autorizar las actas y resoluciones del Pleno, de la Presidencia, además elaborar y administrar el Padrón Estatal de Personas Deudoras Alimentarias Morosas, el cual se organizará y funcionará de acuerdo con lo que disponga la normatividad interna, así como sistematizar y actualizar la información al Registro Nacional de Obligaciones Alimentarias, y las que señale la normatividad interna.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 26 BIS. La persona Secretaría General podrá separarse del cargo por renuncia o por destitución impuesta como sanción en un procedimiento de responsabilidad administrativa, en los términos de la Ley Orgánica y de la Ley de Responsabilidades Administrativas para el Estado y demás legislación aplicable.
+
+En ambos casos, se salvaguardará la continuidad del servicio y la debida entrega-recepción de los asuntos y documentos, atendiendo a que la Secretaría General tiene fe pública en el ejercicio de sus funciones.
+
 ###### Artículo 27.
 
 A la persona Subsecretaria le corresponderá auxiliar a la persona Secretaria General, y sustituirla en los casos de impedimentos o faltas temporales hasta por treinta días; y tendrá además las atribuciones que señala esta Ley Orgánica y la normatividad interna.
 
-### Capítulo I. De los Distritos Judiciales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2026)</small>
+
+### Capítulo VI. De los Órganos de Apoyo del Supremo Tribunal de Justicia
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 27 BIS. Para el ejercicio de sus atribuciones, el Supremo Tribunal de Justicia contará con las siguientes áreas de apoyo:
+
+I. La Secretaría General del Supremo Tribunal de Justicia;
+
+II. El Área de Comunicación Social;
+
+III. Las Administraciones Judiciales de los Sistemas de Gestión Penal, Laboral, Mercantil, Civil y Familiar, así como de los demás sistemas de gestión que se creen conforme a la normatividad aplicable;
+
+IV. El Área de Ejecuciones; y el
+
+V. Centro de Convivencia Familiar.
+
+La organización, funcionamiento, adscripción específica y atribuciones de estas áreas se establecerán en esta Ley, en el reglamento respectivo y en la demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 27 TER. El Área de Comunicación Social del Poder Judicial del Estado será un órgano de apoyo de la Presidencia del Supremo Tribunal de Justicia, encargado de coordinar la difusión y los informes institucionales, la relación con medios de comunicación, la cobertura y divulgación de las actividades oficiales, así como la elaboración de materiales, mensajes, campañas y elementos técnicos o gráficos que coadyuven al cumplimiento de los fines del Poder Judicial del Estado y sus órganos. Sus atribuciones y funciones específicas serán establecidas en las disposiciones reglamentarias que emita el Supremo Tribunal de Justicia.
+
+Su organización, recursos y presupuesto se determinarán por el Órgano de Administración Judicial, a propuesta de la persona Presidenta del Supremo Tribunal de Justicia, conforme a la disponibilidad presupuestal y a la normatividad interna aplicable.
+
+Bajo ninguna circunstancia el Área de Comunicación Social podrá utilizarse para fines de promoción personalizada, propaganda política o partidista, difusión de posicionamientos ajenos a la función institucional del Poder Judicial, ni para intervenir en el sentido, contenido o valoración de asuntos jurisdiccionales. Su actuación se regirá por los principios de objetividad, veracidad, imparcialidad, transparencia, protección de datos personales y respeto a la reserva jurisdiccional.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 27 QUÁTER. Las Administraciones Judiciales de los Sistemas de Gestión Penal, Laboral, Mercantil, Civil y Familiar, así como de los demás sistemas de gestión que se creen conforme a la normatividad aplicable, son las áreas encargadas de coordinar y dar soporte a la operación de dichos sistemas, en vinculación con los órganos jurisdiccionales y las áreas competentes, para asegurar su adecuado funcionamiento, la eficiencia operativa y la debida articulación entre las funciones jurisdiccionales y administrativas.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 27 QUINQUIES. Las Administraciones Judiciales de los Sistemas de Gestión tendrán como función esencial planificar, integrar, organizar, implementar, controlar y dirigir un equipo multidisciplinario de gestión que permita desarrollar con efectividad en todo el territorio del Estado el servicio de impartición de justicia, así como auxiliar, proveer, coadyuvar y contribuir al desarrollo de las actividades, los servicios y las obligaciones propios de la materia jurisdiccional de que se trate.
+
+En el ejercicio de sus atribuciones, deberán coordinarse entre sí y las demás instancias involucradas en la respectiva materia jurisdiccional, a fin de asegurar la coherencia institucional, la eficiencia operativa y la integración funcional del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 27 SEXIES. Para cumplir sus funciones las Administraciones Judiciales de los Sistemas de Gestión contarán con el personal de apoyo que el Órgano de Administración Judicial le asigne, a propuesta de la Presidencia del Supremo Tribunal de Justicia, atendiendo a las necesidades del servicio y las posibilidades presupuestales.
+
+Cuando se trate de modelos de gestión especializados, el personal de apoyo podrá integrarse conforme a criterios técnicos y operativos propios de dicha materia, sin perjuicio de la coordinación general con el Órgano de Administración Judicial.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 27 SEPTIES. Las personas administradoras de los Sistemas de Gestión serán designadas por el Pleno del Supremo Tribunal de Justicia, y deberán cumplir con los requisitos previstos en esta Ley Orgánica y en la normatividad interna.
+
+Además, deberán acreditar experiencia profesional de al menos cinco años en la materia, y contar con Título y Cédula Profesional de Licenciatura afín a las áreas de sistemas computacionales, programación de software, ciencias de la computación, administración pública, derecho o disciplinas relacionadas con la gestión judicial.
+
+Los perfiles profesionales deberán responder a las necesidades técnicas, operativas y funcionales del sistema de gestión, conforme a la normatividad interna establecida por el Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 27 OCTIES. El funcionamiento y estructura de los Sistemas de Gestión se regirán por la presente Ley Orgánica y por la normatividad interna que, en el ámbito de sus respectivas competencias, emitan el Supremo Tribunal de Justicia y el Órgano de Administración Judicial.
+
+En su aplicación, deberá observarse la compatibilidad con los modelos de gestión especializados que operen en el Poder Judicial del Estado, a fin de garantizar la coherencia funcional, la eficiencia operativa y la adecuada articulación entre áreas administrativas y jurisdiccionales.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 27 NONIES. El Área de Ejecuciones será la encargada de auxiliar técnica y administrativamente a los juzgados del Poder Judicial del Estado, en el área de actuaria, a efecto de que las diligencias de ejecución se lleven a cabo conforme a los términos y lineamientos establecidos en las Leyes, Códigos y ordenamientos aplicables; además de las atribuciones conferidas por la normatividad interna del Pleno del Supremo Tribunal de Justicia y del Órgano de Administración Judicial que le sean aplicables.
+
+La persona encargada del Área de ejecuciones será designada por el Pleno del Supremo Tribunal de Justicia y deberá cumplir con los requisitos previstos en esta Ley Orgánica y en la normatividad interna, además de acreditar experiencia profesional de al menos cinco años en la materia, contar con Título y Cédula Profesional de Licenciatura en Derecho o en Abogacía legalmente expedidos.
+
+El funcionamiento y estructura del Área de Ejecuciones, se regirá por la presente Ley Orgánica y por la normatividad interna que, en el ámbito de sus respectivas competencias, emitan el Supremo Tribunal de Justicia y el Órgano de Administración Judicial.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 27 DECIES. El Centro de Convivencia Familiar tendrá como objetivo facilitar el desarrollo de las convivencias familiares entre ascendientes no custodios y sus descendientes y, en su caso, de su familia ampliada, en aquellos supuestos en que, a juicio de las autoridades judiciales u órganos competentes, por convenio, acuerdo o sentencia, no puedan realizarse de manera libre, por considerarse que se pone en peligro el interés superior del menor de edad, con la finalidad de generar los lazos de identidad familiar y confianza entre ellos, así como en los demás supuestos que prevean las leyes aplicables y la normatividad interna que, en el ámbito de sus respectivas competencias, emitan el Supremo Tribunal de Justicia y el Órgano de Administración Judicial.
+
+La persona titular del Centro deberá cumplir con los siguientes requisitos:
+
+I. Contar preferentemente con título y cédula profesional en la licenciatura en Psicología o en profesiones afines en temas de infancia, expedidos cuando menos cinco años antes de ocupar el cargo; y
+
+II. Contar con un mínimo de cinco años de experiencia en el ejercicio profesional.
 
 ## TÍTULO TERCERO. De los Juzgados y Tribunales de Primera Instancia
 
-### Capítulo II. De la integración y funcionamiento
+### Capítulo I. De los Distritos Judiciales
 
 ###### Artículo 28.
 
@@ -431,7 +543,7 @@ En cada Distrito o Región Judicial habrá el número de Juzgados y Tribunales d
 
 Las regiones judiciales podrán comprender el ámbito territorial de más de un distrito judicial.
 
-### Capítulo III. Del Ámbito de Competencia de los Juzgados y Tribunales
+### Capítulo II. De la integración y funcionamiento
 
 ###### Artículo 30.
 
@@ -447,15 +559,49 @@ En caso de impedimento legal, excusa o recusación de una persona Juzgadora de p
 
 Para ser persona Juzgadora de primera instancia se requiere cumplir los requisitos que señalan los artículos 92 y 106 de la Constitución Política del Estado.
 
-### Capítulo IV. De las personas Juzgadoras Auxiliares
+### Capítulo III. Del Ámbito de Competencia de los Juzgados y Tribunales
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
 
 ###### Artículo 33.
 
-Las personas juzgadoras del ramo civil conocerán, tramitarán y resolverán los asuntos propios de la materia civil, conforme a lo dispuesto en la legislación aplicable, en la Constitución Política del Estado, en esta Ley Orgánica y en la normatividad interna que al efecto se emita.
+Las personas juzgadoras del ramo civil conocerán, tramitarán y resolverán todos los negocios del orden civil, con exclusión de aquellos cuyo conocimiento corresponda específicamente a las personas juzgadoras del ramo familiar.
+
+Asimismo, conocerán, en los casos de jurisdicción concurrente, de los juicios mercantiles cuyo conocimiento no esté expresamente asignado a las personas juzgadoras del ramo mercantil o de oralidad mercantil, en términos del Código de Comercio y demás disposiciones aplicables.
+
+Además de lo señalado en los párrafos anteriores, las personas juzgadoras del ramo civil conocerán, tramitarán y resolverán los procedimientos de extinción de dominio. En esta materia conocerán de las medidas cautelares; de la diligenciación de exhortos, rogatorias y despachos; así como de las demás diligencias, acuerdos, actuaciones y actividades que les encomiende la ley especial en la materia y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
 
 ###### Artículo 34.
 
-Las personas juzgadoras del ramo familiar conocerán, tramitarán y resolverán los asuntos propios de la materia familiar, conforme a lo dispuesto en la legislación aplicable, en la Constitución Política del Estado, en esta Ley Orgánica y en la normatividad interna que al efecto se emita, incluyendo en general todas aquellas cuestiones familiares que, por su naturaleza, reclamen la intervención judicial.
+Las personas juzgadoras del ramo familiar conocerán, tramitarán y resolverán:
+
+I. Los negocios de jurisdicción voluntaria relacionados con el derecho familiar;
+
+II. Los juicios contenciosos relativos al matrimonio, a la ilicitud o nulidad del matrimonio y al divorcio, incluyendo los que se refieran al régimen de bienes en el matrimonio; los que tengan por objeto modificaciones o rectificaciones en las actas del Registro Civil; los que afecten al parentesco, a los alimentos, a la paternidad y a la filiación; los que tengan por objeto cuestiones derivadas de la patria potestad y tutela; las cuestiones de ausencia y presunción de muerte; y los que se refieran a cualquier cuestión relacionada con el patrimonio familiar, así como su constitución, disminución, extinción o afectación en cualquier forma;
+
+III. Los juicios sucesorios;
+
+IV. Los asuntos concernientes a otras acciones relativas al estado civil y a la capacidad de las personas;
+
+V. Las diligencias de consignación en todo lo relativo al derecho familiar;
+
+VI. Los exhortos, rogatorias y despachos relacionados con el derecho familiar;
+
+VII. Las cuestiones relativas a los asuntos que afecten los derechos de niñas, niños y adolescentes o de personas con discapacidad;
+
+VIII. El dictado de medidas y órdenes de protección orientadas a la salvaguarda de la víctima, en función de su interés superior y en los términos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí;
+
+IX. Ordenar, cuando sea procedente, la inscripción en el Padrón Estatal de Personas Deudoras Alimentarias Morosas;
+
+X. Ordenar la expedición, en su caso y dentro del plazo legal aplicable, de constancias de persona no deudora alimentaria morosa o de persona deudora alimentaria morosa, según corresponda;
+
+XI. Ordenar la cancelación de la inscripción en el Padrón Estatal de Personas Deudoras Alimentarias Morosas;
+
+XII. En general, todas aquellas cuestiones familiares que, por su naturaleza, reclamen la intervención judicial, y
+
+XIII. Las demás que determinen la legislación y normatividad aplicable.
 
 ###### Artículo 35.
 
@@ -481,9 +627,11 @@ b) Divorcios; y disolución de concubinatos; las demás que le otorga la ley, y 
 
 VIII. Las demás que les encomienden la legislación aplicable, esta Ley Orgánica y la normatividad interna que al efecto se emita.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### Artículo 36.
 
-Las personas Juzgadoras de oralidad civil y familiar conocerán, tramitarán, y resolverán los asuntos que disponga el Código Nacional de Procedimientos Civiles y Familiares, y demás normatividad aplicable en el ámbito de su competencia.
+Las personas juzgadoras de oralidad civil y familiar conocerán, tramitarán y resolverán los procedimientos previstos en el Código Nacional de Procedimientos Civiles y Familiares, conforme a su competencia legal. La especialización, adscripción y asignación interna de asuntos se determinarán por el Órgano de Administración Judicial, en términos de esta Ley y de las demás disposiciones aplicables.
 
 ###### Artículo 37.
 
@@ -559,7 +707,7 @@ Los juzgados mixtos de primera instancia serán competentes para conocer, tramit
 
 En cada Distrito o Región Judicial, que comprendan los municipios que establezca la presente Ley Orgánica, habrá juzgados de primera instancia y tribunales que determine el Órgano de Administración Judicial, los que conocerán de los negocios judiciales que les competa.
 
-### Capítulo V. Centros de Justicia Penal
+### Capítulo IV. De las personas Juzgadoras Auxiliares
 
 ###### Artículo 50.
 
@@ -595,29 +743,41 @@ V. Las demás que determinen las disposiciones legales aplicables y la normativi
 
 Tratándose de comunidades de pueblos originarios tendrán además las atribuciones previstas en la Ley de Justicia Indígena y Comunitaria para el Estado de San Luis Potosí.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Las personas juzgadoras auxiliares podrán solicitar asesoría técnica no vinculante a las personas juzgadoras de primera instancia, en los temas relacionados con el ejercicio de su función.
+
 ###### Artículo 54.
 
 Las faltas absolutas o temporales de las personas Juzgadoras auxiliares se cubrirán por las personas suplentes respectivas en el orden de su nombramiento. Las dudas que sobre este punto se susciten, serán resueltas por el Órgano de Administración Judicial.
 
-### Capítulo I. De los Impedimentos
+### Capítulo V. Centros de Justicia Penal
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
 
 ###### Artículo 55.
 
-En el Poder Judicial del Estado habrá una Administración Judicial del Sistema de Gestión, que será el aparato administrativo integrado por personas servidoras públicas organizadas y estructuradas conforme a un modelo de gestión que permite planear, integrar, dirigir, controlar, auxiliar, proveer, coadyuvar y contribuir en las actividades, los servicios y las obligaciones en materia penal del sistema penal acusatorio y oral.
+En el Poder Judicial del Estado habrá las Administraciones Judiciales de los Sistemas de Gestión Penal, Laboral, Mercantil, Civil y Familiar, así como de los demás sistemas de gestión que se creen conforme a la normatividad aplicable, adscritas al Supremo Tribunal de Justicia.
 
-Este modelo podrá, conforme a la normatividad interna que emita el Órgano de Administración Judicial, extenderse progresivamente a otras materias jurisdiccionales, cuando se considere necesario para fortalecer la eficiencia operativa, la coordinación institucional y la mejora continua del servicio público de impartición de justicia.
+Las Administraciones Judiciales de los Sistemas de Gestión serán las instancias administrativas integradas por personas servidoras públicas organizadas y estructuradas conforme al modelo de gestión correspondiente.
 
-Cuando se considere necesario, los Centros de Justicia Penal podrán contar con unidades de justicia alternativa, mediante la normatividad interna que disponga el Órgano de Administración Judicial.
+La organización, funcionamiento, atribuciones, ámbito de actuación, mecanismos de coordinación y, en su caso, la creación progresiva de nuevos sistemas de gestión, se determinarán en la normatividad interna que emita el Supremo Tribunal de Justicia, cuando ello resulte necesario para fortalecer la eficiencia operativa, la coordinación institucional y la mejora continua del servicio público de impartición de justicia.
+
+Cuando se considere necesario, los órganos jurisdiccionales o centros que correspondan podrán contar con unidades de justicia alternativa u otras unidades de apoyo especializadas, en los términos de la normatividad interna que, en el ámbito de sus respectivas competencias, emitan el Supremo Tribunal de Justicia y el Órgano de Administración Judicial.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
 
 ###### Artículo 56.
 
-La Administración Judicial del Sistema de Gestión, de los Centros de Justicia Penal y de la Unidad de Gestión de Segunda Instancia dentro del sistema penal acusatorio y oral del Poder Judicial del Estado, funcionará en términos de su normatividad interna que para tal efecto dicte el Pleno del Órgano de Administración Judicial.
+La Administración Judicial del Sistema de Gestión, de los Centros de Justicia Penal y de la Unidad de Gestión de Segunda Instancia dentro del sistema penal acusatorio y oral del Poder Judicial del Estado, funcionará en términos de su normatividad interna que para tal efecto dicten el Pleno del Supremo Tribunal de Justicia y el Pleno del Órgano de Administración Judicial, en el ámbito de sus respectivas competencias.
 
-La implementación del modelo de gestión en los Centros de Justicia Penal se coordinará con el Área de Administración Judicial de los Sistemas de Gestión, conforme a los lineamientos generales que emita el Órgano de Administración Judicial, quien además resolverá las cuestiones no previstas en este Capítulo mediante normatividad interna, pudiendo emitir disposiciones complementarias que permitan adaptar dicho modelo a otras áreas jurisdiccionales, conforme a criterios de oportunidad, viabilidad técnica y mejora institucional.
+La implementación del modelo de gestión en los Centros de Justicia Penal se coordinará con el Área de Administración Judicial de los Sistemas de Gestión, conforme a los lineamientos que emitan, en el ámbito de sus respectivas competencias, el Pleno del Supremo Tribunal de Justicia y el Pleno del Órgano de Administración Judicial.
+
+Las cuestiones no previstas en este Capítulo serán resueltas por dichos órganos colegiados, en el ámbito de sus respectivas competencias, mediante la emisión de la normatividad interna y de las disposiciones complementarias necesarias para adaptar dicho modelo a otras áreas jurisdiccionales, atendiendo a criterios de oportunidad, viabilidad técnica y mejora institucional.
 
 ## TÍTULO CUARTO. De los Impedimentos, Protesta, Licencias, Ausencias y Renuncias
 
-### Capítulo II. De la protesta constitucional
+### Capítulo I. De los Impedimentos
 
 ###### Artículo 57.
 
@@ -669,7 +829,7 @@ Si todas las personas Magistradas de las Salas del mismo ramo estuvieran impedid
 
 Para los efectos del artículo anterior, en los asuntos del orden penal se considerarán como interesados a la persona imputada o acusada, así como la víctima, o persona ofendida.
 
-### Capítulo III. De las licencias, ausencias y renuncias
+### Capítulo II. De la protesta constitucional
 
 ###### Artículo 59.
 
@@ -681,7 +841,7 @@ El personal que ejerza funciones jurisdiccionales y de dirección en el Supremo 
 
 Las personas Magistradas y Juzgadoras de primera instancia del Poder Judicial del Estado otorgarán la protesta constitucional ante el Congreso del Estado.
 
-### Capítulo I. Objeto y Finalidad de la Carrera Judicial
+### Capítulo III. De las licencias, ausencias y renuncias
 
 ###### Artículo 61.
 
@@ -719,9 +879,37 @@ En caso de licencia superior a cinco días concedido a las personas Magistradas 
 
 Las disposiciones contenidas en el presente Capítulo podrán regularse a través de la normatividad interna que al efecto emitan los Plenos de cada órgano correspondiente.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Las licencias a que se refiere este artículo son distintas de las licencias médicas reguladas en los artículos 67 Bis y 67 Ter de esta Ley, así como de las licencias de maternidad y paternidad reguladas en los artículos 67 Quáter y 67 Quinquies.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 67 BIS. Cuando las Magistraturas sufran enfermedades generales o profesionales, así como riesgos de trabajo, tendrán derecho a licencia médica con goce de sueldo, para lo cual se observarán, como un parámetro orientador, los términos, requisitos, control médico y límites previstos en la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí, debiendo acreditar su padecimiento o condición mediante certificado médico de incapacidad expedido por el Instituto Mexicano del Seguro Social, la Secretaría de Salud o cualquier otra institución médica o persona profesionista legalmente autorizada con cédula profesional.
+
+En los casos a que se refiere el párrafo anterior, la ausencia temporal dará lugar a la suplencia que corresponda conforme a esta Ley y a la normatividad aplicable, sin perjuicio de los derechos laborales y de seguridad social de la persona titular.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 67 TER. Cuando las personas Juzgadoras de Primera Instancia y de los tribunales laborales sufran enfermedades generales o profesionales, así como riesgos de trabajo, tendrán derecho a licencia médica con goce de sueldo, para lo cual se observarán, como un parámetro orientador, los términos, requisitos, control médico y límites previstos en la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí, debiendo acreditar su padecimiento o condición mediante certificado médico de incapacidad expedido por el Instituto Mexicano del Seguro Social, la Secretaría de Salud o cualquier otra institución médica o persona profesionista legalmente autorizada con cédula profesional.
+
+Corresponderá al Órgano de Administración Judicial reconocer, registrar y proveer lo conducente respecto de dichas licencias médicas, así como adoptar las medidas necesarias para garantizar la continuidad del servicio y la suplencia temporal que resulte procedente, en términos de esta Ley y de la normatividad interna aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 67 QUÁTER. El Pleno del Supremo Tribunal de Justicia o del Tribunal de Disciplina Judicial, según corresponda, otorgará a las personas Magistradas las licencias de maternidad y paternidad que correspondan, para lo cual se observarán, como un parámetro orientador, los términos, requisitos y límites previstos en la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí y demás legislación aplicable.
+
+En todos los casos se garantizará la protección de la maternidad y paternidad, la no discriminación y la continuidad del servicio, mediante la suplencia o sustitución temporal que proceda conforme a esta Ley y a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 67 QUINQUIES. Corresponderá al Órgano de Administración Judicial otorgar a las personas Juzgadoras de Primera Instancia y de los tribunales laborales las licencias de maternidad y paternidad que correspondan, para lo cual se observarán, como un parámetro orientador, los términos, requisitos y límites previstos en la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí y demás legislación aplicable.
+
+Al proveer sobre dichas licencias, el Órgano de Administración Judicial deberá garantizar la protección de la maternidad y paternidad, la no discriminación y la continuidad del servicio, mediante la suplencia o sustitución temporal que resulte procedente, en términos de esta Ley y de la normatividad interna aplicable.
+
 ## TÍTULO QUINTO. De la Carrera Judicial
 
-### Capítulo II. Principios Rectores
+### Capítulo I. Objeto y Finalidad de la Carrera Judicial
 
 ###### Artículo 68.
 
@@ -753,7 +941,7 @@ VII. Coadyuvar en el ejercicio de una justicia orientada por la igualdad sustant
 
 Toda persona puede aspirar a desempeñar cargos dentro de la Carrera Judicial, siempre que reúna los requisitos establecidos en esta Ley Orgánica, disposiciones aplicables y la normatividad interna.
 
-### Capítulo III. Categorías de la Carrera Judicial
+### Capítulo II. Principios Rectores
 
 ###### Artículo 72.
 
@@ -781,15 +969,13 @@ La formación en perspectiva e igualdad de género será contemplada como un cri
 
 Las personas servidoras públicas competentes para aplicar las disposiciones de esta Ley Orgánica adoptarán medidas de prevención, atención y reparación para la erradicación de cualquier tipo de violencia laboral, sexual o institucional en el Poder Judicial del Estado.
 
-### Capítulo IV
-
-De las Secretarías de Acuerdos, Secretarías Instructoras, Secretarías de Estudio y Cuenta, Subsecretarías Administrativas y, Actuarías.
+### Capítulo III. Categorías de la Carrera Judicial
 
 ###### Artículo 74.
 
 La Carrera Judicial está integrada por las siguientes categorías:
 
-I. Secretaría General;
+I. (DEROGADA, P.O. 29 DE JUNIO DE 2026)
 
 II. Secretaría de Acuerdos;
 
@@ -849,13 +1035,19 @@ Las personas servidoras públicas que hayan obtenido alguno de los cargos compre
 
 Las personas servidoras públicas que hayan obtenido el cargo por oposición, y que hayan entrado en funciones, podrán ser removidos en los términos previstos por esta Ley Orgánica, así como por la Ley de Responsabilidades Administrativas.
 
-### Capítulo I. De su integración y funcionamiento
+### Capítulo IV
+
+De las Secretarías de Acuerdos, Secretarías Instructoras, Secretarías de Estudio y Cuenta, Subsecretarías Administrativas y, Actuarías.
 
 #### Sección Primera. De las Secretarías de Acuerdos
 
 ###### Artículo 79.
 
 Las Secretarías de Acuerdos tendrán fe pública en todo lo relativo al ejercicio de su cargo.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+La fe pública a que se refiere el párrafo anterior será ejercida, durante el tiempo de la suplencia, por la persona servidora pública que, en términos de esta Ley, supla temporalmente a la Secretaría de Acuerdos, exclusivamente respecto de las actuaciones que realice durante dicho periodo.
 
 ###### Artículo 80.
 
@@ -920,6 +1112,18 @@ XV. Las demás que le señalen la presente Ley Orgánica, legislación aplicable
 ###### Artículo 83.
 
 En caso de que una persona Secretaria de Acuerdos sea designada para suplir la ausencia temporal de una persona Magistrada o persona Juzgadora de Primera Instancia, quedará facultada para realizar las atribuciones del cargo relativo a la suplencia, de conformidad con lo señalado por esta Ley Orgánica, legislación aplicable y demás normatividad interna.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 83 BIS. Las ausencias temporales de las personas Secretarias de Acuerdos de las Salas del Supremo Tribunal de Justicia y de los Juzgados de Primera Instancia se suplirán por la persona Secretaria de Estudio y Cuenta que determine el órgano jurisdiccional correspondiente.
+
+Asimismo, podrán suplirse por una persona Secretaria de Acuerdos de otro órgano jurisdiccional, siempre que con ello no se afecte el despacho ordinario de sus asuntos; o por una persona tomada de la reserva existente para esa categoría, conforme a la normatividad aplicable a la carrera judicial.
+
+A falta de lo anterior, podrán suplirse por una persona Actuaria.
+
+Tratándose de Salas, la determinación se realizará mediante acuerdo del Pleno de la Sala; y tratándose de Juzgados, mediante determinación de la persona titular del Juzgado. En ambos casos, se comunicará al Órgano de Administración Judicial para los efectos administrativos conducentes.
+
+La persona habilitada ejercerá las atribuciones inherentes al cargo de Secretaría de Acuerdos durante el periodo de la suplencia y contará con fe pública en los términos del artículo 79 de esta Ley, únicamente respecto de las actuaciones que realice durante dicho periodo.
 
 #### Sección Segunda. De las Secretarías Instructoras
 
@@ -1021,7 +1225,7 @@ En los juzgados donde no haya persona Actuaria, esa función la desempeñará la
 
 ## TÍTULO SEXTO. Del Órgano de Administración Judicial
 
-### Capítulo II. De las atribuciones
+### Capítulo I. De su integración y funcionamiento
 
 ###### Artículo 97.
 
@@ -1069,7 +1273,7 @@ En caso de que exista impedimento en dos de las personas Consejeras, será susti
 
 La persona integrante que disintiere de la mayoría podrá formular voto particular, el cual se insertará en el acta respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del pleno.
 
-### Capítulo III. De la Adscripción
+### Capítulo II. De las atribuciones
 
 ###### Artículo 107.
 
@@ -1123,7 +1327,11 @@ XXIII. Ejercer, administrar y aplicar el presupuesto de egresos del Poder Judici
 
 XXIV. Para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Poder Judicial del Estado, en ejercicio de su presupuesto de egresos, deberá ajustarse a los criterios contemplados en la Constitución Política Federal y la Constitución Política del Estado y demás disposiciones legales aplicables;
 
-XXV. Administrar los recursos humanos, financieros y los bienes muebles e inmuebles del Poder Judicial del Estado, cuidando su mantenimiento, conservación y acondicionamiento;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+XXV. Administrar los recursos financieros y los bienes muebles e inmuebles del Poder Judicial del Estado, cuidando su mantenimiento, conservación y acondicionamiento.
+
+Asimismo, administrar los recursos humanos, previa opinión o propuesta del Supremo Tribunal de Justicia, a través de su Presidencia, cuando se trate de personal jurisdiccional adscrito al propio Tribunal o a los Juzgados de Primera Instancia y Tribunal Laboral, y del Tribunal de Disciplina Judicial, cuando se trate de personal adscrito a éste;
 
 XXVI. Administrar los documentos integrados al Archivo Judicial, garantizando su mantenimiento, conservación y acondicionamiento;
 
@@ -1189,13 +1397,17 @@ El Órgano de Administración Judicial será responsable de la administración d
 
 El Pleno del Órgano de Administración Judicial podrá ordenar la creación mediante normatividad interna, de las Secretarías Ejecutivas, coordinaciones, direcciones, unidades, y, en general, cualquier área administrativa que conformen el diseño de la estructura orgánica administrativa del propio Órgano necesarias para su buen funcionamiento conforme a la disponibilidad presupuestal.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### Artículo 112.
 
-El Órgano de Administración Judicial integrará una Junta de Coordinación que dependerá administrativamente de éste, pero fungirá como agencia permanente de coordinación y comunicación institucional entre el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial.
+Existirá una Junta de Coordinación como instancia permanente de coordinación, comunicación y enlace institucional entre el Supremo Tribunal de Justicia, el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial, para la atención de asuntos de articulación operativa, intercambio de información institucional, seguimiento de acuerdos de colaboración interna, implementación de mecanismos de mejora institucional común y demás actividades de coordinación interna que no impliquen el ejercicio de atribuciones constitucionales o legales propias de los órganos que la integran.
 
-Esta instancia de mejora institucional será coordinada por la persona que al efecto designen sus integrantes, mediante rotación anual, y se integrará de manera permanente por las personas Presidentas del Órgano de Administración del Poder Judicial y del Tribunal de Disciplina Judicial, con el apoyo de las personas Secretarias Generales de ambos Plenos, así como las demás que disponga la presente Ley Orgánica y la normatividad interna.
+La Junta se integrará por las personas Presidentas del Supremo Tribunal de Justicia, del Órgano de Administración Judicial y del Tribunal de Disciplina Judicial. Para el desahogo de sus trabajos podrá auxiliarse de las personas Secretarias Generales de los respectivos Plenos o de las personas servidoras públicas que, en razón de la materia, acuerden sus integrantes, con voz, pero sin voto.
 
-La estructura interna y el funcionamiento de la Junta de Coordinación, se establecerá en la normatividad interna que para tal efecto expida el Órgano de Administración Judicial, con la aprobación del Pleno del Tribunal de Disciplina Judicial; sesionará de manera ordinaria cuando menos una vez al mes y realizará las sesiones extraordinarias que aprueben sus integrantes.
+La coordinación de la Junta será rotatoria entre sus integrantes por periodos anuales, en los términos de las bases generales que, de manera coordinada y en el ámbito de sus respectivas competencias, aprueben los órganos competentes de las instancias que la integran.
+
+La Junta sesionará de manera ordinaria cuando menos una vez al mes, a convocatoria de la Presidencia del Supremo Tribunal de Justicia, y celebrará las sesiones extraordinarias que aprueben sus integrantes.
 
 ###### Artículo 113.
 
@@ -1215,13 +1427,13 @@ La notificación y, en su caso, la ejecución de las mismas deberá realizarse p
 
 Cuando el Pleno del Órgano de Administración Judicial estime que sus reglamentos, acuerdos o resoluciones pudieran resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Estado y en la Gaceta Judicial. Los reglamentos y normatividad interna entrarán en vigor en la temporalidad que se determine en los mismos, con independencia de su publicación en el Periódico Oficial del Estado y en la Gaceta Judicial.
 
-### Capítulo IV. De las Comisiones y Comités
+### Capítulo III. De la Adscripción
 
 ###### Artículo 116.
 
 Corresponde al Órgano de Administración Judicial, de conformidad con los criterios establecidos en el presente Capítulo, readscribir al personal administrativo y jurisdiccional a una competencia territorial o a un órgano de materia distinta, siempre que las necesidades del servicio así lo requieran.
 
-### Capítulo V. De la Persona Presidenta del Órgano de Administración Judicial
+### Capítulo IV. De las Comisiones y Comités
 
 ###### Artículo 117.
 
@@ -1245,7 +1457,7 @@ Cuando las Comisiones y Comités funcionen de manera colegiada, sus resoluciones
 
 En todos aquellos casos en los que no fuere posible la resolución de un asunto en Comisiones y Comités, su conocimiento y resolución pasará al Pleno del Órgano de Administración Judicial.
 
-### Capítulo VI. De la Estructura del Órgano de Administración Judicial
+### Capítulo V. De la Persona Presidenta del Órgano de Administración Judicial
 
 ###### Artículo 122.
 
@@ -1271,7 +1483,7 @@ VIII. Integrar un informe anual que hará del conocimiento de la opinión públi
 
 IX. Las demás atribuciones que le confieren esta Ley Orgánica, la normatividad interna y demás disposiciones legales aplicables.
 
-### Capítulo VII. De la Secretaría Ejecutiva de Pleno
+### Capítulo VI. De la Estructura del Órgano de Administración Judicial
 
 ###### Artículo 123.
 
@@ -1301,17 +1513,23 @@ c) Archivo Judicial;
 
 d) Centro Estatal de Mecanismos Alternativos de Solución de Controversias y de Promoción de Cultura de Paz;
 
-e) Centro de Convivencia Familiar;
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
 
-f) Biblioteca;
+e) Biblioteca;
 
-g) Gaceta Judicial;
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
 
-h) Dirección Jurídica;
+f) Gaceta Judicial; y
 
-i) Área de Ejecuciones; y
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
 
-j) Administración Judicial de los Sistemas de Gestión.
+g) Dirección Jurídica.
+
+h) (DEROGADO, P.O. 29 DE JUNIO DE 2026)
+
+i) (DEROGADO, P.O. 29 DE JUNIO DE 2026)
+
+j) (DEROGADO, P.O. 29 DE JUNIO DE 2026)
 
 ###### Artículo 124.
 
@@ -1319,7 +1537,7 @@ A través de la normatividad interna que expida el Órgano de Administración Ju
 
 La estructura orgánica, atribuciones y el personal adscrito a los órganos auxiliares y administrativos deberá determinarse con acuerdo a lo que disponga la Ley Orgánica, otras Leyes aplicables y la normatividad interna que al respecto emita el Órgano de Administración Judicial, conforme a lo que admita el presupuesto.
 
-### Capítulo VIII. Administración General
+### Capítulo VII. De la Secretaría Ejecutiva de Pleno
 
 ###### Artículo 125.
 
@@ -1331,7 +1549,7 @@ La persona Secretaría Ejecutiva de Pleno del Órgano deberá tener título lega
 
 Corresponderá a la Secretaría Ejecutiva del Pleno del Órgano de Administración Judicial presentar quejas o denuncias ante el Tribunal de Disciplina Judicial, así como proporcionarle, de oficio o cuando el Tribunal de Disciplina Judicial formalmente lo requiera, la información y documentación que pueda constituir indicio o medios de prueba en la investigación y determinación de responsabilidades administrativas de las personas trabajadoras del Poder Judicial del Estado.
 
-### Capítulo IX. Contraloría Interna
+### Capítulo VIII. Administración General
 
 ###### Artículo 127.
 
@@ -1439,11 +1657,7 @@ La persona encargada del Área de Tecnologías de la Información y Sistemas Inf
 
 El funcionamiento y estructura del Área de Tecnologías de la Información y Sistemas Informáticos para el Control de Expedientes Electrónicos, se regirá por la presente Ley Orgánica y en la normatividad interna.
 
-### Capítulo X. Órganos Auxiliares y Administrativos
-
-Sección 1ª
-
-Disposiciones Generales
+### Capítulo IX. Contraloría Interna
 
 ###### Artículo 140.
 
@@ -1515,7 +1729,11 @@ El Órgano de Investigación será competente para investigar la presunta comisi
 
 Las personas auditoras deberán inspeccionar de manera ordinaria los órganos auxiliares y administrativos del Órgano de Administración Judicial, cuando menos una vez por año, de conformidad con las disposiciones generales que emita el propio Órgano de Administración Judicial.
 
-### Capítulo I. De su conformación y funcionamiento
+### Capítulo X. Órganos Auxiliares y Administrativos
+
+Sección 1ª
+
+Disposiciones Generales
 
 ###### Artículo 146.
 
@@ -1527,7 +1745,9 @@ Cada uno de los órganos auxiliares y administrativos, tendrán las atribuciones
 
 Las personas titulares de los órganos del Órgano de Administración Judicial deberán tener título profesional legalmente expedido, afín a las funciones que deban desempeñar, experiencia mínima de cinco años, gozar de buena reputación y no estar en alguno de los supuestos de impedimentos previstos en esta Ley Orgánica.
 
-Las personas titulares de las Secretarías Ejecutivas de Pleno y de Administración, del Centro Estatal de Mecanismos Alternativos de Solución de Controversias y de Promoción de Cultura de Paz y del Centro de Convivencia Familiar sus requisitos para ser designadas serán los establecidos en las Leyes de la materia y/o en su defecto los previstos en la presente Ley Orgánica.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Las personas titulares de las Secretarías Ejecutivas de Pleno y de Administración y del Centro Estatal de Mecanismos Alternativos de Solución de Controversias y de Promoción de Cultura de Paz, sus requisitos para ser designadas serán los establecidos en las Leyes de la materia y/o en su defecto los previstos en la presente Ley Orgánica.
 
 Sección 2ª
 
@@ -1601,9 +1821,21 @@ VII. En su caso, las extensiones regionales.
 
 Le corresponde al Órgano de Administración Judicial expedir los nombramientos del personal, incluyendo los de la Dirección y Subdirección, así como los contratos de prestación de servicios que se requieran para la planta docente y administrativa.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### Artículo 153.
 
-Para ocupar la Dirección de la Escuela Judicial, se requiere tener título de maestría legalmente expedido, de una profesión afín a las funciones que deban desempeñar, con experiencia profesional mínima de cinco años.
+La persona titular de la Dirección de la Escuela Judicial será nombrada por el Órgano de Administración Judicial, a propuesta de la Presidencia del Supremo Tribunal de Justicia.
+
+Para ser titular de la Dirección de la Escuela Judicial se requiere:
+
+I. Tener título de maestría legalmente expedido en área afín a las funciones del cargo;
+
+II. Acreditar experiencia profesional mínima de cinco años en funciones judiciales, académicas, de capacitación, investigación jurídica o gestión institucional;
+
+III. Contar con conocimientos en formación judicial, diseño curricular, evaluación educativa, y derechos humanos; y
+
+IV. Reunir condiciones de idoneidad y probidad para el desempeño del cargo.
 
 ###### Artículo 154.
 
@@ -1617,7 +1849,9 @@ El Comité Académico tendrá como función determinar, de manera conjunta con l
 
 La Escuela Judicial generará programas presenciales, por medios electrónicos o híbridos de capacitación y actualización permanente dirigidos a todos y cada uno de los niveles del personal judicial, del personal de Carrera Judicial y administrativo del Poder Judicial del Estado, de sus órganos auxiliares, administrativos y jurisdiccionales.
 
-Dichos programas tendrán el carácter de obligatorios.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Cuando tales programas estén enfocados al desarrollo de herramientas, habilidades, aptitudes y conocimientos directamente relacionados con las funciones propias del cargo y su mejor desempeño, tendrán el carácter de obligatorios y no generarán remuneración alguna para el personal que los curse.
 
 ###### Artículo 157.
 
@@ -1739,15 +1973,11 @@ Del Centro de Convivencia Familiar
 
 ###### Artículo 173.
 
-El Centro de Convivencia Familiar tendrá como objetivo facilitar el desarrollo de las convivencias familiares entre ascendientes no custodios y sus descendientes y en su caso de su familia ampliada, en aquellos supuestos en que a juicio de las autoridades judiciales u órganos competentes, por convenio, acuerdo o sentencia, en razón de que no puedan realizarse de manera libre, porque se considera que se pone en peligro el interés superior del menor de edad, con la finalidad de generar los lazos de identidad familiar y confianza entre ellos, así como en los demás supuestos que prevean las leyes aplicables y la normatividad interna.
+(DEROGADO, P.O. 29 DE JUNIO DE 2026)
 
 ###### Artículo 174.
 
-La persona titular del Centro deberá cumplir con los siguientes requisitos:
-
-I. Contar preferentemente con título y cédula profesional en la licenciatura en Psicología o profesiones afines en temas de infancia, expedido mínimo cinco años previos a ocupar el cargo; y,
-
-II. Contar con mínimo de cinco años de experiencia en el ejercicio profesional.
+(DEROGADO, P.O. 29 DE JUNIO DE 2026)
 
 Sección 7ª
 
@@ -1797,15 +2027,15 @@ Del Área de Ejecuciones
 
 ###### Artículo 182.
 
-El Área de Ejecuciones será la encargada de auxiliar técnica y administrativamente a los juzgados del Poder Judicial del Estado, en el área de actuaria, a efecto de que las diligencias de ejecución se lleven a cabo conforme a los términos y lineamientos establecidos en las Leyes, Códigos y ordenamientos aplicables; además de las atribuciones conferidas por la normatividad interna del Pleno del Órgano de Administración Judicial que le sean aplicables.
+(DEROGADO, P.O. 29 DE JUNIO DE 2026)
 
 ###### Artículo 183.
 
-La persona encargada del Área de ejecuciones será designada por el Pleno del Órgano de Administración Judicial, deberá cumplir con los requisitos previstos en esta Ley Orgánica y en la normatividad interna, además de acreditar experiencia profesional de al menos cinco años en la materia, contar con Título y Cédula Profesional de Licenciatura en Derecho o en Abogacía legalmente expedidos.
+(DEROGADO, P.O. 29 DE JUNIO DE 2026)
 
 ###### Artículo 184.
 
-El funcionamiento y estructura del Área de Ejecuciones, se regirá por la presente Ley Orgánica y en la normatividad interna.
+(DEROGADO, P.O. 29 DE JUNIO DE 2026)
 
 Sección 11ª
 
@@ -1813,33 +2043,23 @@ De la Administración Judicial de los Sistemas de Gestión
 
 ###### Artículo 185.
 
-El Área de Administración Judicial de los Sistemas de Gestión tendrá como función esencial planificar, organizar, implementar, controlar y dirigir un equipo multidisciplinario de gestión que permita desarrollar con efectividad en todo el territorio del Estado el servicio de impartición de justicia de que trate.
-
-En el ejercicio de sus atribuciones, deberá coordinarse con los modelos de gestión específicos que operen en materias jurisdiccionales particulares, incluyendo el sistema penal acusatorio y oral, a fin de asegurar la coherencia institucional, la eficiencia operativa y la integración funcional del Poder Judicial del Estado.
+(DEROGADO, P.O. 29 DE JUNIO DE 2026)
 
 ###### Artículo 186.
 
-Para cumplir sus funciones el Área de Administración Judicial de los Sistemas de Gestión contará con el personal de apoyo que el Órgano de Administración Judicial le asigne, atendiendo a las necesidades del servicio y las posibilidades presupuestales.
-
-Cuando se trate de modelos de gestión especializados, como el sistema penal acusatorio y oral, el personal de apoyo podrá integrarse conforme a criterios técnicos y operativos propios de dicha materia, sin perjuicio de la coordinación general con el Área de Administración Judicial.
+(DEROGADO, P.O. 29 DE JUNIO DE 2026)
 
 ###### Artículo 187.
 
-La persona administradora del Área de Administración Judicial de los Sistemas de Gestión será designada por el Pleno del Órgano de Administración Judicial, y deberá cumplir con los requisitos previstos en esta Ley Orgánica y en la normatividad interna.
-
-Además, deberá acreditar experiencia profesional de al menos cinco años en la materia, y contar con Título y Cédula Profesional de Licenciatura afín a las áreas de sistemas computacionales, programación de software, ciencias de la computación, administración pública, derecho o disciplinas relacionadas con la gestión judicial.
-
-El perfil profesional deberá responder a las necesidades técnicas, operativas y funcionales del sistema de gestión, conforme a la normatividad interna establecida por el Órgano de Administración Judicial.
+(DEROGADO, P.O. 29 DE JUNIO DE 2026)
 
 ###### Artículo 188.
 
-El funcionamiento y estructura del Área de Administración Judicial de los Sistemas de Gestión se regirá por la presente Ley Orgánica y por la normatividad interna.
-
-En su aplicación, deberá observarse la compatibilidad con los modelos de gestión especializados que operen en el Poder Judicial del Estado, a fin de garantizar la coherencia funcional, la eficiencia operativa y la adecuada articulación entre áreas administrativas y jurisdiccionales.
+(DEROGADO, P.O. 29 DE JUNIO DE 2026)
 
 ## TÍTULO SÉPTIMO. Del Tribunal de Disciplina Judicial
 
-### Capítulo II. Del Pleno del Tribunal de Disciplina Judicial
+### Capítulo I. De su conformación y funcionamiento
 
 ###### Artículo 189.
 
@@ -1925,7 +2145,7 @@ La vinculatoriedad de los precedentes del Tribunal de Disciplina Judicial se act
 
 El sistema electrónico de precedentes de difusión será gratuito, público, accesible y deberá garantizar la publicación actualizada y ordenada de los precedentes, de tal manera que sea clara la doctrina jurisprudencial que se construye a partir de estos.
 
-### Capítulo III. De las Salas Unitarias Competencia y Funcionamiento
+### Capítulo II. Del Pleno del Tribunal de Disciplina Judicial
 
 ###### Artículo 199.
 
@@ -2043,7 +2263,7 @@ X. Autorizar las listas de los asuntos, dirigir los debates y conservar el orden
 
 XI. Las demás que les confiere la presente Ley Orgánica, reglamentos interiores y normatividad interna.
 
-### Capítulo IV. De la Secretaria General del Tribunal de Disciplina Judicial
+### Capítulo III. De las Salas Unitarias Competencia y Funcionamiento
 
 ###### Artículo 203.
 
@@ -2075,7 +2295,7 @@ Las Salas Unitarias a cargo de las personas Magistradas se podrán integrar por 
 
 Los asuntos de la competencia de las Salas Unitarias serán turnados de acuerdo con el sistema respectivo a la Sala correspondiente para la substanciación del procedimiento a partir de la etapa de admisión y desahogo de pruebas y la emisión de la resolución, de conformidad con lo que dispone la Ley de Responsabilidades Administrativas.
 
-### Capítulo V. Del Órgano de Evaluación de Desempeño Judicial
+### Capítulo IV. De la Secretaria General del Tribunal de Disciplina Judicial
 
 ###### Artículo 207.
 
@@ -2099,7 +2319,7 @@ V. Los demás que establezca la presente Ley Orgánica.
 
 Son atribuciones de la persona Secretaria General autorizar las actas y resoluciones del Pleno, de la Presidencia, y las que señale la reglamentación interior y la normatividad interna.
 
-### Capítulo VI. De la Visitaduría Judicial
+### Capítulo V. Del Órgano de Evaluación de Desempeño Judicial
 
 ###### Artículo 210.
 
@@ -2189,7 +2409,7 @@ Cuando la evaluación de desempeño resulte insatisfactoria, o bien se impongan 
 
 El Tribunal de Disciplina Judicial establecerá criterios claros, objetivos, y transparentes para la evaluación de los informes de demora que en su caso presenten las personas Juzgadoras de primera instancia, tomando en consideración factores como la complejidad del asunto, las cargas de trabajo del órgano jurisdiccional en cuestión, la existencia de un obstáculo o impedimento fortuito o de fuerza mayor que impidiera la resolución del asunto, la actuación procesal de las partes, o, en general, cualquier otro elemento o supuesto mediante el que pueda determinarse razonablemente una justificación de la demora incurrida.
 
-### Capítulo VII. Del Órgano de Investigación
+### Capítulo VI. De la Visitaduría Judicial
 
 ###### Artículo 227.
 
@@ -2221,7 +2441,7 @@ De toda visita de inspección deberá levantarse acta circunstanciada, en la cua
 
 El acta de la visita se levantará por triplicado, uno de cuyos ejemplares se entregará al titular del órgano visitado, y el original al Órgano de Evaluación de Desempeño Judicial, para que determine lo que corresponda.
 
-### Capítulo VIII. Del Órgano de Substanciación
+### Capítulo VII. Del Órgano de Investigación
 
 ###### Artículo 230.
 
@@ -2273,7 +2493,7 @@ XII. Las demás que determinen las leyes, los reglamentos y la normatividad inte
 
 Si no se encontraren elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar. Dicha determinación, en su caso, se notificará a las personas Servidoras Públicas y particulares sujetos a la investigación, así como a los denunciantes cuando éstos fueren identificables, dentro los diez días hábiles siguientes a su emisión.
 
-### Capítulo IX. De las Comisiones Mixtas
+### Capítulo VIII. Del Órgano de Substanciación
 
 ###### Artículo 233.
 
@@ -2291,7 +2511,7 @@ El Pleno del Tribunal de Disciplina Judicial, mediante su normatividad interna, 
 
 En dicha normatividad se debe prever que las personas servidoras públicas que apoyen en la substanciación del procedimiento cuenten con la profesión de abogado o licenciado en derecho y las competencias necesarias para realizar la substanciación del procedimiento de responsabilidades administrativas y demás actuaciones que resulten pertinentes.
 
-### Capítulo I. Disposiciones generales
+### Capítulo IX. De las Comisiones Mixtas
 
 ###### Artículo 235.
 
@@ -2315,7 +2535,7 @@ La integración, funcionamiento y periodicidad de las sesiones de las comisiones
 
 ## TÍTULO OCTAVO. De las Responsabilidades Administrativas
 
-### Capítulo II. De las Faltas Administrativas
+### Capítulo I. Disposiciones generales
 
 ###### Artículo 236.
 
@@ -2331,7 +2551,7 @@ Las personas particulares podrán incurrir en responsabilidad administrativa si 
 
 Las Personas Magistradas del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial, las personas integrantes del Órgano de Administración Judicial, las personas Juzgadoras y todas personas servidoras públicas del Poder Judicial, son responsables de las faltas administrativas que cometan en el ejercicio de sus cargos y quedan sujetos por ello, a las sanciones que, en todo caso, determine esta Ley Orgánica y a las demás que señalen las leyes de responsabilidades administrativas aplicables, sin demérito de aquellas en materia de fiscalización sobre el manejo, custodia y aplicación de los recursos públicos, que corresponden en su competencia a las atribuciones del Instituto de Fiscalización Superior del Estado.
 
-### Capítulo III. Del Procedimiento en caso de demora en la emisión de sentencias
+### Capítulo II. De las Faltas Administrativas
 
 ###### Artículo 239.
 
@@ -2503,7 +2723,7 @@ Para efectos de lo previsto en el párrafo anterior, se considera causa justific
 
 Los plazos a los que se refiere este artículo se computarán en días naturales.
 
-### Capítulo IV. De la Declaración patrimonial y de intereses
+### Capítulo III. Del Procedimiento en caso de demora en la emisión de sentencias
 
 ###### Artículo 246.
 
@@ -2513,13 +2733,13 @@ El Pleno del Tribunal de Disciplina Judicial, a propuesta de los Plenos del Supr
 
 Sin perjuicio de lo que establezcan las leyes en la materia, el Pleno del Tribunal de Disciplina Judicial regulará mediante normatividad interna los procedimientos en caso de demora en la emisión de sentencias en materia penal, para garantizar el cumplimiento de los plazos previstos por los artículos 17, párrafo segundo, y 20, apartado B, fracción VII, de la Constitución Política Federal.
 
-### Capítulo V. Del procedimiento de responsabilidad administrativa
+### Capítulo IV. De la Declaración patrimonial y de intereses
 
 ###### Artículo 248.
 
 Las personas servidoras públicas del Poder Judicial del Estado estarán obligadas a presentar su declaración de situación patrimonial y de intereses en los casos y conforme a lo previsto en la Ley de Responsabilidades Administrativas y la normatividad interna respectiva.
 
-### Capítulo Único. Disposiciones generales
+### Capítulo V. Del procedimiento de responsabilidad administrativa
 
 ###### Artículo 249.
 
@@ -2533,7 +2753,7 @@ El Tribunal de Disciplina Judicial ejercerá sus atribuciones conforme a lo disp
 
 ## TÍTULO NOVENO. De la Jurisprudencia
 
-### Capítulo I. Disposiciones Generales
+### Capítulo Único. Disposiciones generales
 
 ###### Artículo 251.
 
@@ -2599,13 +2819,15 @@ Antes de la publicación de una nueva jurisprudencia en el Periódico Oficial de
 
 ## TÍTULO DÉCIMO. Del Fondo de Apoyo a la Administración de Justicia
 
-### Capítulo II. De la integración del Fondo
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 261.
 
 El Poder Judicial del Estado se auxiliará para el mejor desempeño de sus funciones de un fondo económico para el mejoramiento de la administración de justicia y administrar los recursos financieros que integren el mismo.
 
 El Fondo será manejado y operado por el Órgano de Administración Judicial.
+
+### Capítulo II. De la integración del Fondo
 
 ###### Artículo 262.
 
@@ -2762,3 +2984,31 @@ J. GUADALUPE TORRES SÁNCHEZ
 El Secretario General de Gobierno
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0570.- QUE REALIZA REFORMAS, ADICIONES Y DEROGACIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Magistratura que ocupe la Presidencia a la fecha de este Decreto, ocupará el cargo hasta el quince de septiembre de dos mil veintiocho, a fin de ajustarse al plazo de tres años, previsto en el artículo 95 de la Constitución Política del Estado de San Luis Potosí.
+
+CUARTO. Las disposiciones reglamentarias, acuerdos generales, lineamientos, manuales, circulares y demás normatividad interna vigentes continuarán aplicándose en lo que no se opongan al presente Decreto, en tanto se expiden o adecúan las disposiciones que resulten necesarias para su debida observancia.
+
+QUINTO. El Supremo Tribunal de Justicia, el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial, en el ámbito de sus respectivas competencias, deberán expedir o adecuar la normatividad interna necesaria para la aplicación del presente Decreto dentro de los noventa días hábiles siguientes a su entrada en vigor.
+
+SEXTO. La Junta de Coordinación a que se refiere el artículo 112 de la Ley Orgánica del Poder Judicial del Estado deberá instalarse formalmente dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto. En su sesión de instalación, sus integrantes acordarán las bases mínimas para su funcionamiento, sin perjuicio de la posterior emisión de la normatividad interna correspondiente.
+
+SÉPTIMO. Los recursos humanos, materiales, financieros, tecnológicos, documentales y archivísticos, así como los expedientes, registros, sistemas, bienes, derechos, obligaciones y asuntos en trámite que, con motivo del presente Decreto, deban quedar a cargo de órganos de apoyo del Supremo Tribunal de Justicia, se transferirán o reasignarán mediante los acuerdos administrativos y actos de entrega-recepción que resulten procedentes, en el ámbito de sus respectivas competencias, dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto. En la ejecución de dichas medidas deberán respetarse en todo momento los derechos laborales adquiridos de las personas servidoras públicas del Poder Judicial del Estado. En ningún caso dichas medidas afectarán la validez de las actuaciones previamente realizadas.
+
+OCTAVO. Las certificaciones, constancias, registros, actuaciones, resguardos documentales, determinaciones administrativas y demás actos emitidos con anterioridad a la entrada en vigor del presente Decreto por las áreas, órganos o personas servidoras públicas cuyas atribuciones se reubiquen, precisen o redistribuyan, conservarán plenamente su validez y eficacia jurídica.
+
+NOVENO. Las solicitudes, procedimientos, trámites y determinaciones que se encuentren en curso a la entrada en vigor del presente Decreto continuarán substanciándose conforme a las disposiciones vigentes al momento de su inicio, salvo en lo relativo a disposiciones de naturaleza orgánica, administrativa o de coordinación interna, las cuales serán de aplicación inmediata cuando ello no afecte derechos adquiridos ni la validez de actuaciones previas.
+
+DÉCIMO. La implementación del presente Decreto se realizará con cargo a los recursos humanos, materiales y presupuestales aprobados al Poder Judicial del Estado, por lo que no implicará, por sí misma, la creación automática de plazas o estructuras distintas a las que, en su caso, autorice el Órgano de Administración Judicial conforme a la disponibilidad presupuestal y a la normatividad aplicable.
+
+DÉCIMO PRIMERO. La creación de las Administraciones Judiciales de los Sistemas de Gestión Civil y Familiar, se realizará una vez que se efectúe la declaratoria de entrada en vigor del nuevo Código Nacional de Procedimientos Civiles y Familiares.
