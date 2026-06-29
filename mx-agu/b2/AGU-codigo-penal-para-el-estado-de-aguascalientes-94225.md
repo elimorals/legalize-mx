@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2026-06-23"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1063,6 +1063,10 @@ X. Allanamiento de Morada, prevista en el Artículo 137;
 
 X.A. Amenazas, prevista en el artículo 139, con excepción de lo dispuesto en el párrafo tercero.
 
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+X. B. Acecho, previsto en el artículo 139 Ter, con excepción de los supuestos en los que deba perseguirse de oficio.
+
 XI. Abuso de Confianza, prevista en el Artículo 146;
 
 XII. Fraude, prevista en el Artículo 147;
@@ -2054,6 +2058,26 @@ A la persona responsable de cobranza extrajudicial ilegal se le aplicarán de 1 
 Si la persona responsable de la conducta descrita en el primer párrafo simula resoluciones judiciales, utiliza documentos o sellos falsos, la pena y la sanción económica aumentarán hasta en una mitad de sus mínimos y máximos señalados; si incurre en usurpación de funciones o de profesión, se aplicarán las reglas del concurso de delitos señalado en este Código.
 
 No se considerará como cobranza extrajudicial ilícita informar aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de iniciar acciones legales en contra de la persona deudora, aval, obligada solidaria o cualquiera relacionada a las anteriores, cuando estas sean jurídicamente posibles.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+###### ARTÍCULO 139 Ter.
+
+Acecho. Comete el delito de acecho quien, de manera reiterada y sin consentimiento, vigile, siga o intente establecer contacto por cualquier medio físico, digital o tecnológico con una persona, alterando el normal desarrollo de su vida cotidiana o causando una afectación verificable en su salud psíquica.
+
+Al responsable se le aplicarán de seis meses a dos años de prisión y de noventa a ciento ochenta días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados.
+
+La pena de prisión y multa se aumentarán hasta en una mitad cuando:
+
+I. La víctima sea persona menor de dieciocho años, mayor de sesenta años, con discapacidad o que no tenga capacidad para comprender el significado del hecho;
+
+II. El sujeto activo tenga o haya tenido una relación de matrimonio, concubinato, noviazgo, amistad o relación laboral o docente con la víctima;
+
+III. Se cometa quebrantando una orden de protección o medida de restricción judicial; o
+
+IV. El sujeto activo se valga de armas o medios violentos para la comisión del delito.
+
+Este delito se perseguirá por querella, salvo que la víctima se encuentre en los supuestos de la fracción I de este artículo, en cuyo caso se perseguirá de oficio.
 
 ### CAPÍTULO V. Tipos Penales Protectores del Patrimonio
 
@@ -5124,3 +5148,15 @@ P.O. 23 DE JUNIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 535.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; Y, SE ADICIONA UNA FRACCIÓN X B AL ARTÍCULO 83 Y UN ARTÍCULO 139 TER AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
