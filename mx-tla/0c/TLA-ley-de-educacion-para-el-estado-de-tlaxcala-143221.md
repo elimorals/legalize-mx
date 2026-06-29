@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-educacion-para-el-estado-de-tlaxcala-143221"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-26"
-last_updated: "2025-04-15"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 26 de mayo de 2020.
 
@@ -209,9 +209,13 @@ XII. Promover medidas para facilitar y garantizar la incorporación y permanenci
 
 XIII. Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución;
 
-XIV. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-XV. Atender de manera especial, las escuelas en que, por estar en localidades aisladas, zonas urbanas marginadas o comunidades indígenas o migrantes, sean (sic) considerablemente mayor la posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad, para enfrentar los problemas educativos de las localidades;
+XIV. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia, así como promover entornos y estilos de vida saludables para niñas, niños y adolescentes, dentro y fuera de los planteles educativos, por medio de la actividad física, educación física, la práctica del deporte y actividades que fortalezcan el bienestar psicológico y la convivencia;
+
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+XV. Atender de manera especial, las escuelas que por estar en localidades aisladas, zonas urbanas marginadas o comunidades indígenas o migrantes, tengan una mayor posibilidad de atrasos o deserciones, mediante la asignación de elementos de mejor calidad, para enfrentar los problemas educativos de las localidades;
 
 XVI. Desarrollarán, bajo el principio de equidad e inclusión, programas de capacitación, formación continua, asesoría y apoyo, a maestras y maestros para la implementación de ajustes razonables, que les permitan minimizar o eliminar las barreras para el aprendizaje y la participación de los educandos;
 
@@ -285,11 +289,11 @@ III. La participación activa en la transformación de la sociedad, al emplear e
 
 IV. Impulsar la conservación y protección del medio ambiente, y la sostenibilidad con el fin de hacer conciencia de una explotación racional de los recursos y de los temas sociales, culturales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-V. Estimular y coordinar con las autoridades competentes la realización de programas de educación para la salud, así como campañas para fomentar la convivencia escolar positiva y las relativas a la prevención, combate y erradicación de la violencia escolar en cualquiera de sus posibilidades, los vicios como la drogadicción, el alcoholismo, el tabaquismo y demás adicciones nocivas.
+V. Estimular y coordinar con las autoridades competentes la realización de programas de educación para la salud, así como campañas para fomentar la convivencia escolar positiva, la salud mental, y las relativas a la prevención, combate y erradicación de la violencia escolar en cualquiera de sus posibilidades, los vicios como la drogadicción, el alcoholismo, el tabaquismo y demás adicciones nocivas.
 
-Como parte de la educación para la salud, se implementarán acciones que promuevan hábitos para una alimentación, sana y de calidad, procurando el consumo de productos bajos en azúcares, sodio, grasas saturadas y calorías, y
+Como parte de la educación para la salud, se implementarán acciones que promuevan entornos y estilos de vida saludables, por medio de hábitos para una alimentación sana y de calidad, procurando el consumo de productos bajos en azúcares, sodio, grasas saturadas y calorías, y
 
 VI. El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres del Estado.
 
@@ -347,7 +351,9 @@ V. Fortalecer el amor a la Patria, demostrando el aprecio a su historia, su cult
 
 VI. Impulsar la educación en materia de nutrición, estimular la educación física y la práctica del deporte, así como los hábitos de higiene personal y para una correcta higiene bucal, para una educación integral;
 
-VII. Formar a los educandos en la cultura de la paz, el respeto, la tolerancia, los valores democráticos que favorezcan el diálogo constructivo, la solidaridad y la búsqueda de acuerdos que permitan la solución no violenta de conflictos y la convivencia en un marco de respeto a las diferencias;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+VII. Formar a las y los educandos bajo los principios de respeto, tolerancia, solidaridad, inclusión, igualdad sustantiva, valores democráticos que favorezcan el diálogo constructivo, búsqueda de acuerdos que permitan la solución no violenta de conflictos y la sana convivencia en un marco de respeto a las diferencias, implementado programas, estrategias o protocolos que fomenten la cultura de la paz en los centros educativos, la prevención de la violencia escolar y una convivencia pacífica, inclusiva y democrática;
 
 VIII. Propiciar actitudes solidarias en el ámbito internacional, nacional y estatal, en la independencia y en la justicia para fortalecer el ejercicio de los derechos de todas las personas, el cumplimiento de sus obligaciones y el respeto entre las naciones;
 
@@ -359,11 +365,13 @@ XI. Fomentar la honestidad, el civismo y los valores necesarios para transformar
 
 XII. Fomentar en el estudio, el conocimiento y respeto de la Constitución Federal, la Constitución Local y las leyes que de una y otra emanen; así como propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, fomentando la convivencia escolar positiva, así como el conocimiento de los derechos humanos y el respeto a los mismos;
 
-XIII. Fomentar entre los educandos el uso adecuado de las tecnologías de la información y la comunicación, como herramienta de apoyo para mejorar su aprendizaje. Asimismo, crear conciencia para prevenir la comisión de delitos en materia de tecnologías y cibernéticos, advirtiendo de los riesgos por el uso de internet; Respecto de los educandos de los niveles de educación básica de primaria y secundaria, quedará prohibido el uso de dispositivos móviles de comunicación durante el tiempo que se imparten las horas efectivas de clases, con la finalidad de no contar con distracciones y aprovechar la transmisión de conocimientos;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2023)</small>
+XIII. Fomentar entre los educandos el uso adecuado de las tecnologías de la información y la comunicación, como herramienta de apoyo para mejorar su aprendizaje. Asimismo, crear conciencia para prevenir la comisión de delitos en materia de tecnologías y cibernéticos, advirtiendo de los riesgos, derechos y obligaciones por el uso de internet; respecto de los educandos de los niveles de educación básica de primaria y secundaria, quedará prohibido el uso de dispositivos móviles de comunicación durante el tiempo que se imparten las horas efectivas de clases, con la finalidad de no contar con distracciones y aprovechar la transmisión de conocimientos;
 
-XIV. Fomentar en los docentes, madres y padres de familia la trasmisión de los buenos hábitos en el uso de las tecnologías de la información y comunicación, en los lugares y tiempos adecuados;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+XIV. Fomentar en los docentes, tutores, madres y padres de familia, la práctica constante de los buenos hábitos, los derechos y obligaciones en el uso de las tecnologías de la información y comunicación, para que sean transmitidos a los infantes y adolescentes; a través de la ejecución de programas de formación para impulsar y propiciar entornos digitales seguros para la prevención, protección y atención de los derechos humanos en instituciones educativas, de conformidad con los lineamientos generales para el uso responsable y seguro de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el sistema educativo, a través de la Agenda Digital Educativa prevista en la Ley General;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE FEBRERO DE 2023)</small>
 
@@ -397,7 +405,9 @@ VII. Será inclusiva, tomando en cuenta las diversas capacidades, circunstancias
 
 VIII. Será intercultural, al incentivar la convivencia armónica entre personas y comunidades sobre la base del respeto a sus diferentes concepciones, opiniones, tradiciones, costumbres y modos de vida y del reconocimiento de sus derechos, en un marco de inclusión social;
 
-IX. Será integral porque educará para la vida y estará enfocada a las capacidades y desarrollo de las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan alcanzar su bienestar y contribuir al desarrollo social, y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+IX. Será integral porque educará para la vida y estará enfocada a las capacidades y desarrollo de las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan alcanzar su bienestar y contribuir al desarrollo social; asimismo, fomentará y difundirá el pleno respeto a los derechos de cualquier persona en la utilización de las nuevas tecnologías, sus beneficios y la forma responsable de su uso en la vida educativa y social en términos de las disposiciones generales en la materia, y
 
 X. Será de excelencia, encaminada al mejoramiento inquebrantable de los procesos formativos que propicien el logro de aprendizaje de los estudiantes, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad.
 
@@ -463,7 +473,9 @@ Los libros de texto que sean utilizados para cumplir con los planes y programas 
 
 Los planes y programas de estudio serán determinados por la Secretaría, conforme lo establece el artículo 23 de la Ley General.
 
-La Autoridad Educativa podrá emitir opinión para que el contenido de los proyectos y programas educativos contemple las realidades y contextos de la (sic) Estado.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+De conformidad a las disposiciones que se emitan, la Autoridad Educativa podrá presentar su opinión al respecto para que sea considerada en los planes, programas de estudio, proyectos y programas educativos que contemplen las realidades y contextos, regionales y locales del Estado.
 
 Las Autoridades Educativas podrán solicitar a la Secretaría actualizaciones y modificaciones de los planes y programas de estudio, para atender el carácter local, contextual y situacional del proceso de enseñanza aprendizaje.
 
@@ -1129,7 +1141,9 @@ La información del expediente al que se refiere este artículo se proporcionar�
 
 Las Autoridades Educativas y Escolares, en colaboración con las instancias gubernamentales, sociales y productivas, promoverán en la comunidad educativa, la importancia del cuidado de la salud física y mental.
 
-La Autoridad Educativa, en el ámbito de su competencia, aplicará y vigilará el cumplimiento de los lineamientos que emita la Secretaría sobre la distribución de los alimentos y bebidas preparados y procesados dentro de toda escuela.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+La Autoridad Educativa, en el ámbito de su competencia, aplicará y vigilará el cumplimiento de los lineamientos que emita la Secretaría sobre la distribución de los alimentos y bebidas preparados y procesados dentro de las instituciones educativas, para fomentar un entorno y estilos de vida saludable que contribuyan al cumplimiento y protección de derechos en materia de salud y alimentación digna y nutritiva, en los términos previstos en la Ley General.
 
 Las Autoridades Educativas realizarán acciones de vigilancia para que en los alimentos y bebidas que se preparen y procesen al interior de las escuelas cumplan con el valor nutritivo para la salud de los educandos.
 
@@ -1145,9 +1159,15 @@ Las Autoridades Educativas promoverán ante las autoridades correspondientes, la
 
 La Autoridad Educativa establecerá las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, la Autoridad Educativa considerará las Normas Oficiales Mexicanas respectivas.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+La autoridad responsable de la aplicación y vigilancia de lo establecido en el presente artículo al interior de los planteles escolares, serán los directivos y demás autoridades escolares.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### Artículo 81.
 
-Las cooperativas que funcionen con la participación de la comunidad educativa tendrán un compromiso para fomentar estilos de vida saludables en la alimentación de los educandos y su operación será con apego a los lineamientos que establezca la Secretaría y a las demás disposiciones aplicables.
+Las cooperativas, establecimientos de consumo escolar, comedores, tiendas escolares, personas físicas o morales proveedoras de máquinas expendedoras de bebidas y alimentos o su equivalente, tendrán un compromiso para fomentar estilos de vida saludables en la alimentación de los educandos y su operación será con apego a los lineamientos que establezca la Secretaría y las demás disposiciones aplicables.
 
 ###### Artículo 82.
 
@@ -1263,11 +1283,11 @@ Las autorizaciones de ajustes al calendario escolar que realice la Autoridad Edu
 
 ### Capítulo XIII. Del Deporte en las Instituciones Educativas Públicas y Privadas
 
-> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2024)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
 
 ###### Artículo 95 Bis.
 
-La actividad física, el deporte y la educación física serán parte de la instrucción que se imparta en las instituciones educativas públicas y privadas de los niveles básico y medio superior en el Estado, lo cual se garantizará por la Autoridad Educativa, en colaboración con el Instituto del Deporte del Estado.
+La actividad física, el deporte, el juego activo y la educación física serán parte de la instrucción que se imparta en las instituciones educativas públicas y privadas de los niveles básico y medio superior en el Estado, lo cual se garantizará por la Autoridad Educativa, en colaboración con el Instituto del Deporte del Estado.
 
 > <small>(ADICIONADO, P.O. 21 DE MARZO DE 2024)</small>
 
@@ -1326,6 +1346,30 @@ VII. Impulsar su capacidad para la toma de decisiones cotidianas respecto a la p
 VIII. Otorgar, en términos de las disposiciones aplicables, un salario profesional digno, que permita a las maestras y los maestros de los planteles del Estado alcanzar un nivel de vida decoroso para ellos y su familia; arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan y realizar actividades destinadas a su desarrollo personal y profesional, y
 
 IX. Respetar sus derechos reconocidos en las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+###### Artículo 96 Bis.
+
+La Autoridad Educativa garantizará el respeto, la protección y la salvaguarda de la dignidad, integridad física, emocional y profesional de la comunidad educativa, impulsando acciones específicas para prevenir, atender y, en ejercicio de su facultad disciplinaria, instaurar procedimientos administrativos para sancionar cualquier forma de violencia ejercida en contra de las y los educandos, maestras y maestros, madres y padres de familia, tutores o cualquier otra persona que participe en la prestación del servicio público de educación.
+
+Para cumplir con lo anterior, la Autoridad Educativa y sus Organismos Públicos Descentralizados, deberán:
+
+I. Implementar programas de prevención de violencia escolar, y de fortalecimiento a la cultura del respeto en el entorno escolar;
+
+II. Diseñar, aprobar e implementar el programa de certificación de escuelas libres de violencia en el Estado, en todos los niveles educativos, y
+
+III. Coordinarse con las autoridades competentes para que cualquier agresión o violencia contra las y los educandos, maestras y maestros, madres y padres de familia, tutores o cualquier otra persona dentro del entorno escolar, sea investigada y sancionada conforme a la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+###### Artículo 96 Ter.
+
+Con el objeto de preservar la paz, la sana convivencia y entornos escolares libres de violencia, toda persona que participe en la prestación del servicio público de educación, deberá conducirse con probidad, apegándose a las normas escolares, respetando en todo momento la dignidad de las personas y los derechos humanos.
+
+Cuando se haga del conocimiento de las Autoridades Educativas la comisión de un hecho que amerite responsabilidad de una persona trabajadora de la educación, las autoridades deberán observar los procedimientos establecidos por la Ley General de Responsabilidades Administrativas, con el objeto de determinar la veracidad del hecho y la responsabilidad respectiva.
+
+Si de los hechos que conozca la Autoridad Educativa pudiera existir la comisión de un delito, ésta tendrá la obligación inmediata de dar vista y/o denunciar ante el Ministerio Público.
 
 ###### Artículo 97.
 
@@ -2526,3 +2570,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 274.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
