@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2026-05-04"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -345,9 +345,11 @@ IX.- La utilización del suelo, la protección de la imagen urbana y la vivienda
 
 X.- Las responsabilidades, medidas de seguridad, verificación, infracciones, imposición de sanciones, y los procedimientos a los que deberán sujetarse las autoridades y los particulares;
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 3°.
 
-Las personas sin distinción de sexo, raza, etnia, edad, limitación física, orientación sexual, tienen derecho a vivir y disfrutar ciudades y asentamientos humanos en condiciones sustentables, resilientes, saludables, productivos, equitativos, justos, incluyentes, democráticos y seguros, por tal motivo, se deberá garantizar en el Estado su cumplimiento, promoviendo una cultura de corresponsabilidad cívica y social.
+Las personas sin distinción de sexo, raza, etnia, edad, limitación física, orientación sexual, o situación migratoria, tienen derecho a vivir y disfrutar ciudades y asentamientos humanos en condiciones sustentables, resilientes, saludables, productivos, equitativos, justos, incluyentes, democráticos y seguros, por tal motivo, se deberá garantizar en el Estado su cumplimiento, promoviendo una cultura de corresponsabilidad cívica y social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2024)</small>
 
@@ -631,9 +633,11 @@ CXVIII.- ZONIFICACIÓN SECUNDARIA: la contenida en los programas de desarrollo u
 
 Las acciones urbanísticas, autorizaciones, ejecución de obras, construcciones, proyectos, servicios, así como la actuación de las autoridades, deberán sujetarse a las disposiciones del Código, los programas, reglamentos, lineamientos y demás ordenamientos que deriven del mismo.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 6°.
 
-Toda acción en materia de ordenamiento territorial o de asentamientos humanos que el Estado o Municipio realice, deberá ejecutarse con pleno respeto a los derechos humanos, sin distinción de sexo, raza, etnia, edad, limitación física, orientación sexual y siempre atendiendo al derecho a vivir y disfrutar ciudades y asentamientos humanos en condiciones sustentables, resilientes, saludables, productivas, equitativas, justas, incluyentes, democráticas y seguras.
+Toda acción en materia de ordenamiento territorial o de asentamientos humanos que el Estado o Municipio realice, deberá ejecutarse con pleno respeto a los derechos humanos, sin distinción de sexo, raza, etnia, edad, limitación física, orientación sexual, situación migratoria y siempre atendiendo al derecho a vivir y disfrutar ciudades y asentamientos humanos en condiciones sustentables, resilientes, saludables, productivas, equitativas, justas, incluyentes, democráticas y seguras.
 
 ###### ARTÍCULO 7°.
 
@@ -8461,7 +8465,9 @@ Los programas y acciones de vivienda que se financien con recursos públicos ten
 
 Las políticas y programas dirigidos al estímulo y apoyo de la producción social de vivienda y a la vivienda de las comunidades rurales deberán:
 
-I. Atender a los grupos vulnerables, marginados o en situación de pobreza;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+I. Atender a los grupos vulnerables, marginados o en situación de pobreza, así como a las personas migrantes en retorno que enfrenten condiciones de precariedad habitacional;
 
 II. Ofrecer apoyos y asistencia técnica, social, jurídica y financiera que combine el ahorro, el crédito y el subsidio con el trabajo de los beneficiarios en los distintos tipos y modalidades de vivienda;
 
@@ -8507,7 +8513,9 @@ El Gobierno Estatal y los Municipios realizarán las acciones tendentes a la eje
 
 Los acuerdos y convenios que en materia de vivienda se celebren con los sectores público, social y privado tendrán por objeto:
 
-I. Facilitar el acceso del mayor número de personas a la vivienda, estableciendo mecanismos que beneficien preferentemente a la población en situación de pobreza, riesgo o vulnerabilidad;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+I. Facilitar el acceso del mayor número de personas a la vivienda, estableciendo mecanismos que beneficien preferentemente a la población en situación de pobreza, riesgo o vulnerabilidad, así como a las personas migrantes en retorno que enfrenten condiciones de precariedad habitacional;
 
 II. Promover la creación de fondos e instrumentos para la generación oportuna y competitiva de vivienda y suelo;
 
@@ -10778,3 +10786,9 @@ P.O. 4 DE MAYO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 534.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
