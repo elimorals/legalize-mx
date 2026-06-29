@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-administrativas-del-estado-de-122654"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-01"
-last_updated: "2026-02-24"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 1 de agosto de 2017.
 
@@ -1383,9 +1383,11 @@ La presentación de los testigos será responsabilidad de la parte que los ofrez
 
 Quienes por motivos de edad o salud no pudieran presentarse a rendir su testimonio ante la autoridad resolutora, se les tomará su testificación en su domicilio o en el lugar donde se encuentren, pudiendo asistir las partes a dicha diligencia.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### Artículo 134.
 
-Los representantes de elección popular, magistrados y jueces del Poder Judicial del Estado, los consejeros del Consejo de la Judicatura, los servidores públicos que sean ratificados o nombrados con la intervención del Congreso del Estado, el Titular y Secretarios del Poder Ejecutivo Estatal y municipal, los Titulares de los órganos constitucionales autónomos, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.
+Las personas representantes de elección popular, las personas magistradas tanto del Supremo Tribunal de Justicia, del Tribunal de Justicia Administrativa, del Tribunal de Disciplina Judicial, del Tribunal Electoral, las personas juzgadoras, las personas consejeras del Órgano de Administración Judicial, las personas servidoras públicas que sean ratificadas o nombradas con la intervención del Congreso del Estado, la persona Titular del Poder Ejecutivo del Estado y las personas titulares de las secretarías del Poder Ejecutivo Estatal y municipal, las personas Titulares de los órganos constitucionales autónomos, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.
 
 ###### Artículo 135.
 
@@ -2003,9 +2005,11 @@ Para determinar la gravedad de la violación, el daño o el trastorno, se deber�
 
 En todos los casos, para establecer los criterios que determinen la gravedad de la responsabilidad del servidor público se considerarán los dictámenes o resoluciones precedentes emitidos en casos similares por la Comisión respectiva o el Pleno del Congreso del Estado, en su caso.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### Artículo 212.
 
-El Titular del Poder Ejecutivo del Estado, los Diputados Locales, los Magistrados del Poder Judicial y, en su caso, los miembros del Consejo de la Judicatura local, sólo podrán ser sujetos de Juicio Político en los términos del Título Cuarto de la Constitución Federal por violaciones graves a la misma y a las leyes federales que de ella emanen, así como por el manejo indebido de fondos y recursos federales, pero en este caso la resolución del Congreso de la Unión será únicamente declarativa y se comunicará al Congreso del Estado para que, en ejercicio de sus atribuciones proceda en términos de lo previsto en la presente Ley.
+La persona Titular del Poder Ejecutivo del Estado, las personas Diputadas Locales, las personas Magistradas del Poder Judicial y, en su caso, las personas integrantes del Órgano de Administración Judicial del Poder Judicial del Estado, sólo podrán ser sujetas de Juicio Político en los términos del Título Cuarto de la Constitución Federal por violaciones graves a la misma y a las leyes federales que de ella emanen, así como por el manejo indebido de fondos y recursos federales, pero en este caso la resolución del Congreso de la Unión será únicamente declarativa y se comunicará al Congreso del Estado para que, en ejercicio de sus atribuciones proceda en términos de lo previsto en la presente Ley.
 
 ###### Artículo 213.
 
@@ -2109,7 +2113,9 @@ Una vez emitidas las conclusiones a que se refiere el Artículo anterior, la com
 
 Si el Gran Jurado resuelve que el denunciado es inocente, mediante la resolución de las dos terceras partes del total de sus miembros, éste continuará en el ejercicio de su cargo. Si encuentra que es culpable, quedará inmediatamente separado de él.
 
-En caso de ilícitos oficiales de los Magistrados adscritos al Poder Judicial del Estado, las causas se llevarán hasta su fin ante el Congreso, el cual dictará sentencia.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+En caso de ilícitos oficiales de las personas Magistradas adscritas al Poder Judicial del Estado o las personas integrantes del Órgano de Administración Judicial, las causas se llevarán hasta su fin ante el Congreso, el cual dictará sentencia.
 
 ###### Artículo 228.
 
@@ -2207,15 +2213,19 @@ Si se emite declaratoria de improcedencia, el servidor público continuará en e
 
 El Titular del Poder Ejecutivo del Estado sólo será sujeto al procedimiento de declaratoria de procedencia, tratándose de delitos de prisión preventiva oficiosa del orden común así considerados por el Código Nacional de Procedimientos Penales.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### Artículo 248.
 
-Para proceder contra los jueces por la comisión de hechos punibles que puedan ser tipificados en términos de las figuras establecidas en el Código Penal para el Estado de Aguascalientes, el Supremo Tribunal de Justicia emitirá declaración en el sentido de que ha lugar a formación de causa, en los términos establecidos en la Ley Orgánica del Poder Judicial del Estado de Aguascalientes. Por virtud de esta declaración, aquellos quedarán suspendidos de sus cargos y sometidos al procedimiento penal correspondiente, conforme a las reglas establecidas en el Código Nacional de Procedimientos Penales.
+Para proceder contra las personas juzgadoras por la comisión de hechos punibles que puedan ser tipificados en términos de las figuras establecidas en el Código Penal para el Estado de Aguascalientes, el Tribunal de Disciplina Judicial emitirá declaración en el sentido de que ha lugar a formación de causa, en los términos establecidos en la Ley Orgánica del Poder Judicial del Estado de Aguascalientes. Por virtud de esta declaración, aquellas quedarán suspendidas de sus cargos y sometidos al procedimiento penal correspondiente, conforme a las reglas establecidas en el Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
 
 ###### Artículo 249.
 
-Tratándose de delitos del orden federal cuya comisión se impute al titular del Poder Ejecutivo del Estado, a los Diputados locales, a los Magistrados adscritos al Poder Judicial o a los miembros del Consejo de la Judicatura local, una vez recibida por el Congreso del Estado la Declaratoria de Procedencia por la Comisión de Delitos dictada por la Cámara de Diputados del Congreso de la Unión, la Legislatura Local procederá en lo pertinente conforme a lo previsto en la presente Ley.
+Tratándose de delitos del orden federal cuya comisión se impute a la persona Titular del Poder Ejecutivo del Estado, a las personas Diputadas locales, a las personas Magistradas adscritas al Supremo Tribunal de Justicia, al Tribunal de Disciplina Judicial, al Tribunal de Justicia Administrativa, al Tribunal Electoral o las personas integrantes del Órgano de Administración Judicial del Poder Judicial del Estado, una vez recibida por el Congreso del Estado la Declaratoria de Procedencia por la Comisión de Delitos dictada por la Cámara de Diputados del Congreso de la Unión, la Legislatura Local procederá en lo pertinente conforme a lo previsto en la presente Ley.
 
-El servidor público quedará a disposición de las autoridades competentes para que procedan conforme a la legislación aplicable, debiendo comunicar a la Cámara de Diputados del Congreso de la Unión la resolución que se dicte.
+La persona servidora pública quedará a disposición de las autoridades competentes para que procedan conforme a la legislación aplicable, debiendo comunicar a la Cámara de Diputados del Congreso de la Unión la resolución que se dicte.
 
 ###### Artículo 250.
 
@@ -2285,13 +2295,17 @@ Si la acumulación fuese procedente, la Comisión de Justicia del Congreso del E
 
 El Presidente de la Comisión de Justicia del Congreso del Estado podrá disponer las medidas de apremio que fueren procedentes mediante acuerdo de la mayoría de sus miembros presentes en la sesión respectiva.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### Artículo 264.
 
-Las declaraciones o resoluciones aprobadas por el Congreso del Estado con arreglo a esta Ley, se comunicarán al Presidente del Supremo Tribunal de Justicia del Estado si se tratase de alguno de los integrantes del Poder Judicial Estatal; y en todo caso al Ejecutivo Local para su conocimiento y posterior publicación en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
+Las declaraciones o resoluciones aprobadas por el Congreso del Estado con arreglo a esta Ley, se comunicarán a la persona Magistrada que presida el Tribunal de Disciplina Judicial si se tratase de alguno (sic) de las personas integrantes del Poder Judicial Estatal; y en todo caso a la persona Titular del Ejecutivo Local para su conocimiento y posterior publicación en el Periódico Oficial del Gobierno del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
 
 ###### Artículo 265.
 
-Recibida por el Congreso del Estado la notificación de la declaratoria de la Cámara de Diputados del Congreso de la Unión relativa al titular del Poder Ejecutivo del Estado, Diputados Locales, Magistrados adscritos al Poder Judicial del Estado y miembros del Consejo de la Judicatura Local a que se refiere el Artículo 111 de la Constitución Federal, se procederá como lo dispone la presente Ley.
+Recibida por el Congreso del Estado la notificación de la declaratoria de la Cámara de Diputados del Congreso de la Unión relativa a la persona titular del Poder Ejecutivo del Estado, a las personas Diputadas Locales, a las personas Magistradas del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de Justicia Administrativa, del Tribunal Electoral, y a las personas integrantes del Órgano de Administración Judicial del Poder Judicial del Estado, a que se refiere el Artículo 111 de la Constitución Federal, se procederá como lo dispone la presente Ley.
 
 T R A N S I T O R I O S
 
@@ -2452,3 +2466,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los entes públicos del Estado y sus Municipios deberán realizar las adecuaciones administrativas necesarias para el cumplimiento del presente Decreto.
 
 TERCERO. Quedan derogadas todas las disposiciones legales, reglamentarias o administrativas que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 532.- SE REFORMA LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
