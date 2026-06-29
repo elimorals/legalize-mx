@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2026-05-08"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -293,11 +293,13 @@ La competencia que otorga al gobierno municipal la Constitución Política de lo
 
 Los ayuntamientos se integrarán mediante la aplicación de los principios de mayoría relativa, y de representación proporcional, de la forma siguiente:
 
-I. El Municipio de San Luis Potosí con un Presidente, un regidor y dos síndicos de mayoría relativa y hasta catorce regidores de representación proporcional;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+I. El Municipio de San Luis Potosí con un Presidente o Presidenta, una regiduría y una sindicatura de mayoría relativa y hasta catorce regidurías de representación proporcional;
 
-II. Los de Ciudad Valles, Matehuala, Rioverde, Soledad de Graciano Sánchez, Tamazunchale, y Villa de Pozos, con un Presidente, un regidor y dos síndicos de mayoría relativa, y hasta once regidores de representación proporcional, y
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+II. Los de Ciudad Valles, Matehuala, Rioverde, Soledad de Graciano Sánchez, Tamazunchale, y Villa de Pozos, con un Presidente o Presidenta, una regiduría y una sindicatura de mayoría relativa, y hasta once regidores de representación proporcional, y
 
 III. Los restantes municipios, con un Presidente, un regidor y un síndico de mayoría relativa, y hasta cinco regidores de representación proporcional.
 
@@ -3760,3 +3762,17 @@ SEGUNDO. Se concede a los ayuntamientos del Estado, el plazo de noventa días na
 TERCERO. Se concede un plazo de noventa días naturales, posteriores a las adecuaciones de las disposiciones reglamentarias de los ayuntamientos del Estado, para elaborar el padrón de lotes baldíos y casas abandonadas que representen un riesgo a la seguridad y la salud para sus habitantes.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0571.- QUE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA Y ADICIONA LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN A LEY DE CONTROL DE CONFIANZA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. El Consejo Estatal Electoral y de Participación Ciudadana contará con un plazo de 180 días para realizar las adecuaciones normativas y reglamentarias necesarias para su adecuación conforme al presente Decreto.
+
+TERCERO. La reforma relativa a la integración de los ayuntamientos y concejos municipales que reduce de dos a una sindicatura, tendrá efectos a partir del proceso electoral local 2026 - 2027, por lo que la actual integración de los gobiernos municipales no se verá afectada con el presente Decreto.
+
+CUARTO. Para efectos exclusivos del proceso electoral local ordinario 2027 y de conformidad con el régimen transitorio previsto en el Decreto 540 publicado el 3 de junio de 2026 en el Periódico Oficial del Estado “Plan de San Luis”, las personas diputadas electas en el proceso electoral local 2024 que participen en elección consecutiva no estarán obligadas a separarse de su encargo para obtener su registro como personas candidatas a una diputación.
+
+QUINTO. Toda vez que, tratándose de reformas o adiciones ordenadas por la Constitución Política de los Estados Unidos Mexicanos, que deban constar en la Constitución local, únicamente se requerirá la aprobación de cuando menos las dos terceras partes del número total de las y los diputados, para que éstas formen parte de la misma, este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis"; de conformidad con el último párrafo del artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
