@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-tribunal-electoral-del-estado-de-san-luis-1439
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-06-11"
-last_updated: "2024-05-01"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143925&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 11 de junio de 2020.
 
@@ -147,9 +147,11 @@ VIII. Los demás ingresos que perciba con motivo del ejercicio de sus atribucion
 
 (DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2022).
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 7º.
 
-El patrimonio del Tribunal será inembargable e imprescriptible, no será susceptible de ejecución judicial o administrativa y quedará sujeto al régimen que establece la legislación estatal aplicable al patrimonio.
+El patrimonio del Tribunal el cual se compone del total de sus bienes, activos, cuentas bancarias y demás recursos que lo integran, son inembargables e imprescriptibles. En ningún caso serán sujetos de medidas cautelares, ejecución judicial o administrativa, y quedará sujeto al régimen que establece la legislación estatal aplicable al patrimonio.
 
 ###### ARTÍCULO 8º.
 
@@ -361,13 +363,15 @@ Serán públicas las sesiones del Pleno, cuando su objeto sea emitir resolución
 
 ### CAPÍTULO III. De la Presidencia
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 21.
 
-La primera semana del mes de enero del año que corresponda, los integrantes del Pleno elegirán de entre ellos a al titular de la Presidencia, quien lo será también del Tribunal, por un periodo de dos años, sin posibilidad de ser reelecto para el año inmediato siguiente. La presidencia deberá ser rotatoria.
+Los integrantes del Pleno elegirán de entre ellos al titular de la Presidencia, quien lo será también del Tribunal, por un periodo de dos años, sin posibilidad de ser reelecto para el año inmediato siguiente.
 
-En el supuesto de que quien asuma la Presidencia sea elegido en el último año de su nombramiento, esto no será motivo para incrementar el periodo del encargo bajo el cual fue electa o electo para ocupar una magistratura en el Tribunal.
+En caso de que la o el Magistrado que ocupe la Presidencia del Tribunal esté próximo a concluir el periodo para el que fue electo como Magistrado, el Pleno se reunirá dentro del mes previo a la conclusión de dicho periodo y procederá a nombrar nuevo Presidente o Presidenta del Tribunal por un periodo de dos años.
 
-En caso de renuncia, el Pleno procederá a elegir nuevamente a la o el titular de la Presidencia, quien lo será hasta la conclusión del periodo para el que se eligió a la o el sustituido.
+Lo mismo procederá al término de la gestión de la presidencia respectiva y ante la renuncia de una magistrada o Magistrado.
 
 ###### ARTÍCULO 22.
 
@@ -1714,3 +1718,9 @@ P.O. 1 DE MAYO DE 2024.
 PRIMERO. Este Decreto entrará en vigor el uno de octubre de dos mil veinticuatro, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0573.- QUE REFORMA LOS ARTÍCULOS 7 Y 21, DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
