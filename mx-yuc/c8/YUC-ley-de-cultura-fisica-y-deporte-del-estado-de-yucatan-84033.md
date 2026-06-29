@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-cultura-fisica-y-deporte-del-estado-de-yucatan-84033"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-02"
-last_updated: "2024-08-05"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE JUNIO DE 2026.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 2 de diciembre de 2011.
 
@@ -907,9 +907,37 @@ Artículo 51 quater.- Los titulares de las dependencias y entidades de la Admini
 
 Para ello, deberán establecer las disposiciones internas que permitan que las condiciones laborales de la institución a su cargo sean compatibles con la activación física, el entrenamiento y la participación en competiciones oficiales.
 
-### CAPÍTULO XIII. Medicina del Deporte y Ciencias Aplicables
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 29 DE JUNIO DE 2025)</small>
 
-### CAPÍTULO XIV. Del Dopaje en el Deporte
+### CAPÍTULO XII ter. De la organización de eventos deportivos en la vía pública
+
+> <small>(ADICIONADO, D.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 51 quinquies.- Se entenderán eventos deportivos en la vía pública aquellas actividades deportivas y recreativas que se realicen en espacios públicos, calles o avenidas, cuyo objeto sea fomentar la actividad física y la convivencia social; y cuya realización cumpla con los requisitos exigidos para su autorización por parte del IDEY en términos de lo previsto en el presente capítulo.
+
+> <small>(ADICIONADO, D.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 51 sexies.- Los eventos deportivos en la vía pública se clasifican de la siguiente manera:
+
+I. Carreras atléticas.
+
+II. Torneos y competencias.
+
+III. Eventos promocionales y de beneficencia y/o de exhibición.
+
+> <small>(ADICIONADO, D.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 51 septies.- El IDEY establecerá los mecanismos de coordinación con los municipios, así como con las autoridades en materia de seguridad pública, protección civil, de salud y medio ambiente con la finalidad de prever y garantizar la integridad física tanto de la ciudadanía como de las personas que participen en los eventos deportivos en la vía pública.
+
+> <small>(ADICIONADO, D.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 51 octies.- El IDEY de manera interinstitucional deberá emitir un reglamento específico para la verificación de los eventos deportivos previstos en este capítulo. Este deberá contener los elementos mínimos respecto a los requisitos correspondientes, tales como el procedimiento para la obtención de permisos para los organizadores, protocolos de seguridad, protección civil, de cuidado al medio ambiente a seguir, entre otros.
+
+> <small>(ADICIONADO, D.O. 29 DE JUNIO DE 2026)</small>
+
+Artículo 51 nonies.- Los organizadores de los eventos deportivos en la vía pública deberán promover la participación inclusiva de todos los sectores y grupos de la sociedad, así como observar los principios de no discriminación, igualdad y perspectiva de género para las diversas categorías que se prevean en estos.
+
+### CAPÍTULO XIII. Medicina del Deporte y Ciencias Aplicables
 
 ###### Artículo 52.
 
@@ -951,85 +979,7 @@ Las autoridades deportivas promoverán los mecanismos de concertación con las i
 
 Artículo 59 bis.- Es de interés público la prohibición del consumo y la distribución de sustancias farmacológicas potencialmente peligrosas para la salud, y el uso de métodos no reglamentarios tendientes a aumentar artificialmente las capacidades físicas de los deportistas o a modificar el resultado de las competiciones.
 
-### CAPÍTULO XIV bis. De la Prevención de la Violencia en el Deporte
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 75 bis.- El estado y los municipios deberán propiciar, en sus respectivos ámbitos de competencia, la prevención y atención de la violencia en el deporte.
-
-> <small>(ADICIONADO, D.O. 5 DE AGOSTO DE 2024)</small>
-
-Asimismo, fomentarán el desarrollo de programas y acciones necesarias para prevenir, atender y erradicar cualquier tipo de violencia en el deporte contra niñas, niños y adolescentes.
-
-Para efectos de esta ley, se entiende por violencia en el deporte, de forma enunciativa y no limitativa, la comisión de los actos o las conductas establecidos en el artículo 138 de la ley general.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 75 ter.- La Comisión Estatal contra la Violencia en el Deporte es un órgano colegiado que tiene por objeto definir y conducir las políticas para prevenir y atender la violencia en el deporte en el estado.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 75 quater.- La Comisión Estatal contra la Violencia en el Deporte tendrá, para el cumplimiento de su objeto, las siguientes atribuciones:
-
-I. Determinar la implementación de políticas, estrategias y acciones para prevenir y atender la violencia en el deporte;
-
-II. Proponer que en el programa especial y en los instrumentos de planeación que sobre cultura física y deporte se elaboren, se considere la prevención y atención de la violencia en el deporte;
-
-III. Impulsar la efectiva coordinación entre órdenes de gobierno para la prevención y atención de la violencia en el deporte;
-
-IV. Establecer los requisitos mínimos y las normas que deberán cumplir las instalaciones donde se lleven a cabo eventos deportivos, sin perjuicio de los determinados por la Comisión Especial contra la Violencia en el Deporte y protección civil;
-
-V. Aprobar su programa anual de trabajo y la normativa interna que requiera para el cumplimiento de su objeto;
-
-VI. Desarrollar campañas de difusión que permitan concientizar y sensibilizar a la población sobre la importancia de prevención de la violencia y la no discriminación en el deporte, para que se constituya como un referente de integración y convivencia social;
-
-VII. Brindar asesoría y apoyo, en el ámbito de su competencia, a los organizadores de eventos deportivos y a las instituciones de protección civil y seguridad pública, principalmente, con respecto a la prevención y atención de la violencia en el deporte;
-
-VIII. Emitir recomendaciones y proponer la implementación de medidas para la prevención de la violencia y la no discriminación en el deporte, así como para la protección de personas, instalaciones y bienes;
-
-IX. Informar a las autoridades competentes sobre los riegos existentes durante la celebración de eventos deportivos que puedan generar actos de violencia, y solicitar la participación de aquéllas que considere necesarias para su prevención y la protección de personas y bienes;
-
-X. Fomentar la elaboración de estudios e investigaciones que permitan conocer las causas y los efectos de la violencia en el deporte, y proponer medidas para su prevención o atención;
-
-XI. Integrar y difundir información cuantitativa y cualitativa sobre la violencia en el deporte en el estado, y
-
-XII. Vigilar el cumplimiento de la ley general y de esta ley, así como de las demás disposiciones legales y normativas aplicables.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 75 quinquies.- La Comisión Estatal contra la Violencia en el Deporte estará integrada por:
-
-I. El titular del IDEY, quien será el presidente;
-
-II. Un representante de la Secretaría General de Gobierno, a través de la Dirección de Protección Civil;
-
-III. Un representante de la Secretaría de Educación;
-
-IV. Un representante de la Secretaría de Seguridad Pública;
-
-V. Los representantes de las asociaciones y sociedades deportivas registradas en el estado, y
-
-VI. Tres representantes de los órganos municipales de cultura física y deporte.
-
-El presidente designará al secretario técnico de esta comisión, quien participará en las sesiones únicamente con derecho a voz.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 75 sexies.- El Reglamento Interno de la Comisión Estatal contra la Violencia en el Deporte establecerá las disposiciones específicas que regulen su organización y funcionamiento.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 75 septies.- Quienes, en su carácter de asistente o espectador, acudan a la celebración de un evento deportivo deberán acatar las disposiciones legales y normativas relacionadas con la prevención y atención de la violencia en el deporte, así como las indicaciones que, en su caso, emitan el organizador o las autoridades competentes.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 75 octies.- Los directivos, deportistas, entrenadores, árbitros, jueces y el personal técnico relacionado con la cultura física y el deporte deberán respetar y actuar conforme a las disposiciones que, para la prevención de la violencia y la no discriminación en el deporte, hayan emitido la Comisión Especial contra la Violencia en el Deporte, la Comisión Estatal contra la Violencia en el Deporte o la asociación o sociedad correspondiente.
-
-> <small>(ADICIONADO, D.O. 5 DE AGOSTO DE 2024)</small>
-
-Artículo 75 nonies.- El IDEY deberá proveer mecanismos que posibiliten la prevención, atención y erradicación de la violencia en el deporte contra niñas, niños y adolescentes.
-
-Los integrantes del Sistema Estatal de Cultura Física y Deporte deberán coordinarse con las autoridades deportivas para colaborar y apoyar en el desarrollo de acciones para prevenir la violencia en el deporte.
+### CAPÍTULO XIV. Del Dopaje en el Deporte
 
 ###### Artículo 60.
 
@@ -1149,9 +1099,87 @@ Las sanciones en el ámbito deportivo son independientes de la responsabilidad c
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 7 DE JULIO DE 2017)</small>
 
-### CAPÍTULO XV. De los Riesgos y Responsabilidad Civil
+### CAPÍTULO XIV bis. De la Prevención de la Violencia en el Deporte
 
-### CAPÍTULO XVI. De las Responsabilidades, Sanciones y Recursos Administrativos
+> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
+
+Artículo 75 bis.- El estado y los municipios deberán propiciar, en sus respectivos ámbitos de competencia, la prevención y atención de la violencia en el deporte.
+
+> <small>(ADICIONADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+Asimismo, fomentarán el desarrollo de programas y acciones necesarias para prevenir, atender y erradicar cualquier tipo de violencia en el deporte contra niñas, niños y adolescentes.
+
+Para efectos de esta ley, se entiende por violencia en el deporte, de forma enunciativa y no limitativa, la comisión de los actos o las conductas establecidos en el artículo 138 de la ley general.
+
+> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
+
+Artículo 75 ter.- La Comisión Estatal contra la Violencia en el Deporte es un órgano colegiado que tiene por objeto definir y conducir las políticas para prevenir y atender la violencia en el deporte en el estado.
+
+> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
+
+Artículo 75 quater.- La Comisión Estatal contra la Violencia en el Deporte tendrá, para el cumplimiento de su objeto, las siguientes atribuciones:
+
+I. Determinar la implementación de políticas, estrategias y acciones para prevenir y atender la violencia en el deporte;
+
+II. Proponer que en el programa especial y en los instrumentos de planeación que sobre cultura física y deporte se elaboren, se considere la prevención y atención de la violencia en el deporte;
+
+III. Impulsar la efectiva coordinación entre órdenes de gobierno para la prevención y atención de la violencia en el deporte;
+
+IV. Establecer los requisitos mínimos y las normas que deberán cumplir las instalaciones donde se lleven a cabo eventos deportivos, sin perjuicio de los determinados por la Comisión Especial contra la Violencia en el Deporte y protección civil;
+
+V. Aprobar su programa anual de trabajo y la normativa interna que requiera para el cumplimiento de su objeto;
+
+VI. Desarrollar campañas de difusión que permitan concientizar y sensibilizar a la población sobre la importancia de prevención de la violencia y la no discriminación en el deporte, para que se constituya como un referente de integración y convivencia social;
+
+VII. Brindar asesoría y apoyo, en el ámbito de su competencia, a los organizadores de eventos deportivos y a las instituciones de protección civil y seguridad pública, principalmente, con respecto a la prevención y atención de la violencia en el deporte;
+
+VIII. Emitir recomendaciones y proponer la implementación de medidas para la prevención de la violencia y la no discriminación en el deporte, así como para la protección de personas, instalaciones y bienes;
+
+IX. Informar a las autoridades competentes sobre los riegos existentes durante la celebración de eventos deportivos que puedan generar actos de violencia, y solicitar la participación de aquéllas que considere necesarias para su prevención y la protección de personas y bienes;
+
+X. Fomentar la elaboración de estudios e investigaciones que permitan conocer las causas y los efectos de la violencia en el deporte, y proponer medidas para su prevención o atención;
+
+XI. Integrar y difundir información cuantitativa y cualitativa sobre la violencia en el deporte en el estado, y
+
+XII. Vigilar el cumplimiento de la ley general y de esta ley, así como de las demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
+
+Artículo 75 quinquies.- La Comisión Estatal contra la Violencia en el Deporte estará integrada por:
+
+I. El titular del IDEY, quien será el presidente;
+
+II. Un representante de la Secretaría General de Gobierno, a través de la Dirección de Protección Civil;
+
+III. Un representante de la Secretaría de Educación;
+
+IV. Un representante de la Secretaría de Seguridad Pública;
+
+V. Los representantes de las asociaciones y sociedades deportivas registradas en el estado, y
+
+VI. Tres representantes de los órganos municipales de cultura física y deporte.
+
+El presidente designará al secretario técnico de esta comisión, quien participará en las sesiones únicamente con derecho a voz.
+
+> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
+
+Artículo 75 sexies.- El Reglamento Interno de la Comisión Estatal contra la Violencia en el Deporte establecerá las disposiciones específicas que regulen su organización y funcionamiento.
+
+> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
+
+Artículo 75 septies.- Quienes, en su carácter de asistente o espectador, acudan a la celebración de un evento deportivo deberán acatar las disposiciones legales y normativas relacionadas con la prevención y atención de la violencia en el deporte, así como las indicaciones que, en su caso, emitan el organizador o las autoridades competentes.
+
+> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
+
+Artículo 75 octies.- Los directivos, deportistas, entrenadores, árbitros, jueces y el personal técnico relacionado con la cultura física y el deporte deberán respetar y actuar conforme a las disposiciones que, para la prevención de la violencia y la no discriminación en el deporte, hayan emitido la Comisión Especial contra la Violencia en el Deporte, la Comisión Estatal contra la Violencia en el Deporte o la asociación o sociedad correspondiente.
+
+> <small>(ADICIONADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+Artículo 75 nonies.- El IDEY deberá proveer mecanismos que posibiliten la prevención, atención y erradicación de la violencia en el deporte contra niñas, niños y adolescentes.
+
+Los integrantes del Sistema Estatal de Cultura Física y Deporte deberán coordinarse con las autoridades deportivas para colaborar y apoyar en el desarrollo de acciones para prevenir la violencia en el deporte.
+
+### CAPÍTULO XV. De los Riesgos y Responsabilidad Civil
 
 ###### Artículo 76.
 
@@ -1166,6 +1194,8 @@ Los integrantes del Sistema, en coordinación con las autoridades competentes, d
 ###### Artículo 78.
 
 En las proximidades de los recintos en que se celebren acontecimientos deportivos calificados de alto riesgo, la autoridad competente, en coordinación con los organizadores, proporcionarán centros móviles de atención médica, de protección civil y cualquier otra medida tendiente a procurar la seguridad de los deportistas, espectadores y población en general.
+
+### CAPÍTULO XVI. De las Responsabilidades, Sanciones y Recursos Administrativos
 
 ###### Artículo 79.
 
@@ -1418,3 +1448,19 @@ Artículo primero. El presente Decreto entrará en vigor el día siguiente al de
 Cláusula Derogatoria
 
 Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este Decreto.
+
+D.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 200/2026 POR EL QUE SE MODIFICA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Implementación
+
+Artículo segundo. El Instituto del Deporte del Estado de Yucatán, en coordinación con las autoridades municipales, deberá expedir, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente decreto, el reglamento al que alude el presente decreto.
+
+Cláusula derogatoria
+
+Artículo tercero. Se derogan las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
