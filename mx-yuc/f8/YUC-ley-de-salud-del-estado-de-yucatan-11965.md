@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2026-06-11"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE JUNIO DE 2026.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -873,21 +873,41 @@ II.- La atención de la madre menor de 18 años o de la víctima de violación, 
 
 III.- La atención del niño y la vigilancia de su crecimiento y desarrollo físico e intelectual, incluyendo la promoción de la vacunación oportuna; y,
 
+(ADICIONADA, D.O. 29 DE JUNIO DE 2026.
+
+III Bis. - La detección temprana de la hipoacusia en las y los recién nacidos y procedimientos para su atención en términos de lo que disponga esta Ley.
+
 IV.- La promoción de la integración y del bienestar familiar.
+
+(ADICIONADO, D.O. 29 DE JUNIO DE 2026.
+
+ARTÍCULO 62 BIS. El sector salud implementará estrategias de atención en materia de salud mental a las mujeres y personas con capacidad de gestar con el objetivo de identificar factores de riesgo o signos de alerta de depresión o conductas relacionadas con el proceso (sic) gestación y periodo post parto que puedan poner en peligro su calidad de vida o del infante.
+
+De identificarse, deberá canalizarse al área médica correspondiente o especialidad de salud para el debido seguimiento y cuidado preventivo.
 
 ###### ARTICULO 63.
 
 En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materno infantil, a efecto de conocer, sistematizar y evaluar el problema, y adoptar las medidas conducentes.
 
+(REFORMADO, D.O. 29 DE JUNIO DE 2026.
+
 ###### ARTICULO 64.
 
-La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, los tutores o quiénes ejerzan sobre ellos la patria potestad, el Estado y la sociedad en general.
+La protección de la salud física, mental y auditiva de los menores de edad es una responsabilidad que comparten los padres, los tutores o quiénes ejerzan sobre ellos la patria potestad, el Estado y la sociedad en general.
 
 > <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
 
 ARTICULO 64 BIS.- Los menores tendrán derecho a ser atendidos antes que las personas adultas en los servicios de salud, en igualdad de condiciones.
 
 Las autoridades sanitarias, en la prestación de los servicios de salud, deberán respetar el derecho a la intimidad de los menores.
+
+(ADICIONADO, D.O. 29 DE JUNIO DE 2026.
+
+ARTÍCULO 64 TER.- La detección temprana de la hipoacusia se realizará de manera obligatoria previo al alta hospitalaria en las instituciones médicas del sistema de salud estatal.
+
+En los casos en los que, por caso fortuito o fuerza mayor, la aplicación del tamiz auditivo neonatal no pudiera realizarse antes del alta hospitalaria; los infantes deberán ser canalizados a hospitales del sector público del Estado para que, dentro de los veintiocho días siguientes al nacimiento, les sea realizada la aplicación del tamiz auditivo neonatal.
+
+Los menores que por caso fortuito o fuerza mayor hayan nacido fuera de clínicas u hospitales o bajo el modelo de partería, al presentarse a la clínica u hospital a su primera consulta de valoración y expedición del certificado de nacimiento, deberán ser canalizados a los hospitales del sector público del estado para la aplicación del tamiz auditivo neonatal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2024)</small>
 
@@ -905,11 +925,29 @@ III.- Acciones para controlar las enfermedades prevenibles por vacunación, los 
 
 IV.- Acciones de capacitación y actualización voluntaria para fortalecer la competencia técnica de las parteras, para la atención del embarazo, parto y puerperio.
 
+(ADICIONADA, D.O. 29 DE JUNIO DE 2026.
+
+V.- Programas y lineamientos médicos y administrativos mediante los cuales el Estado garantice el derecho a la salud auditiva de las y los recién nacidos, a través (sic) la detección temprana de la hipoacusia.
+
+Asimismo, podrán considerarse la realización de otros diagnósticos a aquellos recién nacidos que pudieran presentar factores perinatales de riesgo.
+
+(ADICIONADO, D.O. 29 DE JUNIO DE 2026.
+
+###### Artículo 65 Bis.
+
+Los programas y lineamientos respecto a la prevención, concientización y atención de la hipoacusia deberán realizarse mediante campañas dentro del sector educativo estatal y el sector salud de primer contacto con la finalidad de detectar casos no diagnosticados para su atención.
+
+Dicha política pública contará con un presupuesto progresivo, mismo que deberá aplicarse en servicios médicos modernos que permitan la detección oportuna, su diagnóstico confirmatorio, su intervención temprana y su habilitación o rehabilitación, así como la infraestructura óptima para su tratamiento y la capacitación del personal médico.
+
+La Secretaría contará con un instrumento técnico estadístico cuya información permita formular y aplicar políticas públicas que permitan la toma de decisiones basados en la efectividad de los resultados.
+
 ###### ARTICULO 66.
 
 Las Autoridades Sanitarias Estatales educativas y laborales en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
-I.- Los programas para padres destinados a promover la atención materno-infantil;
+(REFORMADA, D.O. 29 DE JUNIO DE 2026.
+
+I.- Los programas para padres destinados a promover la atención materno-infantil, entre ellos, la concientización respecto a los hábitos de vida saludables que favorezcan a la prevención de enfermedades y a la reducción de condiciones que favorezcan a los males congénitos en las infancias, así como de la importancia respecto de la atención médica para garantizar una mejor calidad de vida.
 
 > <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
 
@@ -4004,3 +4042,25 @@ Artículo cuarto. Dentro del plazo previsto en el artículo transitorio anterior
 Artículo quinto. Dentro del mismo plazo señalado en el artículo transitorio tercero, la Secretaría deberá iniciar las acciones necesarias para la integración, sistematización y operación del Registro Estatal Nominal de Personas Usuarias de los Servicios Públicos de Salud con Diagnóstico de Diabetes, mediante el aprovechamiento de los sistemas institucionales existentes y con observancia de la legislación en materia de protección de datos personales.
 
 Artículo sexto. Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
+
+D.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 204/2026 POR EL QUE SE MODIFICA LA LEY DE SALUD DEL ESTADO DE YUCATÁN EN MATERIA DE POLÍTICAS PÚBLICAS PREVENTIVAS DE SALUD AUDITIVA Y ESTRATEGIAS DE ATENCIÓN A LA DEPRESIÓN DURANTE LA GESTACIÓN Y EL POSTPARTO EN EL SISTEMA ESTATAL DE SALUD".]
+
+Entrada en vigor.
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado de Yucatán.
+
+Capacidad presupuestal
+
+Artículo segundo. El Poder Ejecutivo del Estado deberá realizar los ajustes presupuestales para dar cumplimiento a lo ordenado en el presente decreto.
+
+A partir del ejercicio fiscal para el año 2027 se deberán contemplar presupuestos progresivos en materia de detección oportuna de la hipoacusia y de otros males que afecta el sistema auditivo en las infancias, así como para las estrategias para la prevención de la depresión en el parto y postparto en las mujeres y personas con capacidad para gestar. Dicho presupuesto no podrá ser inferior al del año previo, salvo que existan circunstancias extraordinarias plenamente justificadas en criterios técnicos, financieros y presupuestales, lo cual deberá evaluarse a la luz de (sic) interés superior de la niñez, ello sin perjuicio de mantener la atención y desarrollo de la política pública prevista en el presente decreto.
+
+Instrumento estadístico
+
+Artículo tercero. La Secretaría en un plazo que no exceda de los 180 días naturales contado a partir del día siguiente de la entrada en vigor del presente decreto deberá poner en marcha el instrumento técnico estadístico al que alude el artículo 65 Bis de este ordenamiento.
+
+Cláusula derogatoria.
+
+Artículo cuarto. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
