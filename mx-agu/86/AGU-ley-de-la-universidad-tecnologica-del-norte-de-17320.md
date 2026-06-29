@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-universidad-tecnologica-del-norte-de-17320"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-26"
-last_updated: "2025-05-07"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de junio de 2000.
 
@@ -337,13 +337,17 @@ IV. Apoyar las actividades de la Universidad en materia de difusión y vinculaci
 
 V. Las demás que le señalen las disposiciones universitarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### ARTICULO 16.
 
-Para ser miembro del Patronato se requiere:
+Para ser miembro del Patronato, respecto a las personas representantes a que se refieren las fracciones II y III del artículo 14 de la presente Ley, se requiere:
 
 I. Ser mayor de 30 años; y
 
-II. Ser persona de reconocida solvencia moral.
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+II. Gozar de reconocida trayectoria en el sector que represente.
 
 ###### ARTICULO 17.
 
@@ -582,3 +586,11 @@ P.O. 7 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 531.- SE REFORMA LA LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
