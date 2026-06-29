@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-administrativas-para-el-estado-de-1220
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-20"
-last_updated: "2025-12-11"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Ley publicada en la Cuarta Parte al Número 98 del Periódico Oficial del Estado de Guanajuato, el martes 20 de junio de 2017.
 
@@ -602,6 +602,12 @@ II. No inicien el procedimiento correspondiente ante la autoridad competente, de
 III. Revelen la identidad de un denunciante que pidió la protección del anonimato bajo los preceptos establecidos en esta Ley.
 
 Para efectos de la fracción anterior, los Servidores Públicos que denuncien una Falta administrativa grave o Faltas de particulares, o sean testigos en el procedimiento, podrán solicitar medidas de protección que resulten razonables. La solicitud deberá ser evaluada y atendida de manera oportuna por el Ente público donde presta sus servicios el denunciante.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+###### Artículo 64 Bis.
+
+Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en el artículo 76 Bis (sic) la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios.
 
 ### Capítulo III. Actos de particulares vinculados con faltas administrativas graves
 
@@ -1892,3 +1898,11 @@ P.O. 11 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 108 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 197 QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS; Y SE ADICIONA UN ARTÍCULO 64 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los poderes Ejecutivo, Legislativo, Judicial, organismos autónomos y los municipios, en el ámbito de sus respectivas competencias deberán adecuar su normativa interna en un plazo de noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
