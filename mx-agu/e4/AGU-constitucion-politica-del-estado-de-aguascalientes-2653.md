@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2026-05-18"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -155,9 +155,9 @@ Toda persona tiene derecho al acceso a la cultura, al disfrute de los bienes y s
 
 Toda persona tiene derecho a la salud y al acceso a los servicios de salud conforme a los criterios de universalidad, igualdad e inclusión. La Ley establecerá la concurrencia, bases y modalidades para la participación del Estado y sus Municipios.
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
 
-Toda familia tiene derecho a disfrutar de una vivienda digna, decorosa, habitable y sustentable. Las leyes establecerán los instrumentos y apoyos necesarios a fin de que se propicie que las viviendas cumplan con una infraestructura y servicios públicos básicos adecuados y de calidad, contemplando los lineamientos que establecen los derechos fundamentales reconocidos por esta Constitución, la Constitución Política de los Estados Unidos Mexicanos, así como en los Tratados Internacionales que el Estado Mexicano sea parte.
+Toda persona tiene derecho a disfrutar de una vivienda digna, adecuada, decorosa, habitable y sustentable. Las leyes establecerán los instrumentos y apoyos necesarios a fin de que se propicie que las viviendas cumplan con una infraestructura y servicios públicos básicos adecuados y de calidad, contemplando los lineamientos que establecen los derechos fundamentales reconocidos por esta Constitución, la Constitución Política de los Estados Unidos Mexicanos, así como en los Tratados Internacionales que el Estado Mexicano sea parte.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2023)</small>
 
@@ -318,6 +318,14 @@ Los tribunales y jueces deberán emitir sus resoluciones de manera pronta, compl
 Si la resolución del asunto se excede de los plazos señalados en el párrafo anterior, el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato, con la justificación de las razones de dicha demora, al Tribunal de Disciplina Judicial de Aguascalientes o, en su caso, dar vista al órgano interno de control tratándose del Tribunal de Justicia Administrativa.
 
 Los servicios de administración de justicia serán gratuitos y, en consecuencia, las costas judiciales estarán prohibidas.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+###### Artículo 7o.
+
+C.- El Estado reconoce y garantiza el Derecho a la Ciudad Digna, como un derecho colectivo, que asegura a todas las personas el uso, acceso y disfrute pleno, equitativo, seguro, incluyente y sostenible del espacio urbano y rural, bajo los principios de justicia social, dignidad humana, democracia participativa, equidad territorial, respeto a la diversidad cultural, protección del medio ambiente y función social de la propiedad.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán la planeación, el ordenamiento territorial y la gestión urbana con enfoque de derechos humanos, desarrollo sostenible y dignidad, garantizando la participación efectiva de la ciudadanía en la formulación, ejecución, seguimiento y evaluación de las políticas públicas que incidan en el desarrollo de las ciudades y comunidades.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -4822,3 +4830,19 @@ P.O. 18 DE MAYO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 455.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 473.- SE ADICIONA EL ARTÍCULO 7° C A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
