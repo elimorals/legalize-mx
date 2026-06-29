@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-control-de-confianza-del-estado-de-san-luis-potosi-13080
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-01"
-last_updated: "2022-09-26"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CONTROL DE CONFIANZA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 1 de octubre de 2018.
 
@@ -49,9 +49,17 @@ LEY DE CONTROL DE CONFIANZA DEL ESTADO DE SAN LUIS POTOSÍ
 
 Esta Ley tiene por objeto establecer las bases a través de las cuales los integrantes, elementos y demás personal de las instituciones de seguridad pública y empresas de seguridad privada, así como los aspirantes a ingresar a las mismas, deberán dar cumplimiento a las disposiciones aplicables, así como a los requisitos establecidos en materia de control de confianza.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Asimismo, la presente Ley será aplicable para la evaluación y certificación de integridad y confiabilidad de las personas aspirantes a cargos de elección popular en el Estado, exclusivamente para efectos de lo dispuesto en el párrafo último del artículo 277 de la Ley Electoral del Estado, sin que ello implique naturaleza sancionadora ni restricción automática de derechos político-electorales.
+
 ###### ARTÍCULO 2°.
 
 Los procesos de evaluación de control de confianza tienen por objeto acreditar que los mandos operativos y los elementos de las instituciones de seguridad pública y empresas de seguridad privada cumplen con el perfil y la probidad de ingreso, permanencia y promoción en la institución donde están adscritos o prestan sus servicios, de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Tratándose de personas aspirantes a cargos de elección popular, los procesos de evaluación tendrán por objeto fomentar la integridad y confiabilidad para la postulación democrática, conforme a lo previsto en la legislación electoral aplicable.
 
 ###### ARTÍCULO 3°.
 
@@ -65,19 +73,23 @@ Para efectos de esta Ley se entenderá por:
 
 I. Centro: El Centro de Evaluación y Control de Confianza del Estado de San Luis Potosí;
 
-II. CNCA: Centro Nacional de Certificación y Acreditación;
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2026)</small>
 
-III. Instituciones de Seguridad Pública: Las instituciones policiales, de procuración de justicia, del sistema penitenciario, Policía Urbana Bancaría e Industrial y dependencias encargadas de la Seguridad Pública en el orden estatal y municipal;
+II. Certificación de Integridad y Confiabilidad para Postulación Democrática: documento expedido por el Centro mediante el cual se acredita que una persona aspirante a un cargo de elección popular ha sido evaluada conforme a los procesos previstos en esta Ley, para los efectos señalados en el párrafo último del artículo 277 de la Ley Electoral del Estado.
 
-IV. Ley: La Ley de Control de Confianza del Estado de San Luis Potosí;
+III. CNCA: Centro Nacional de Certificación y Acreditación;
 
-V. Secretario Ejecutivo: El Secretario Ejecutivo del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
+IV. Instituciones de Seguridad Pública: Las instituciones policiales, de procuración de justicia, del sistema penitenciario, Policía Urbana Bancaría e Industrial y dependencias encargadas de la Seguridad Pública en el orden estatal y municipal;
 
-VI. Servidores Públicos: Las personas que al amparo de un nombramiento legalmente expedido, de instrumento jurídico equivalente expedido por autoridad competente o por las funciones que realizan, desempeñan un cargo, comisión, prestan sus servicios o participan en las instituciones de seguridad pública;
+V. Ley: La Ley de Control de Confianza del Estado de San Luis Potosí;
 
-VII. Servicios de Seguridad Privada: Las personas físicas o morales que prestan servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluidos su traslado, autorizados para ello por la Secretaría de Seguridad Pública del Estado y en su caso por el Gobierno Federal, y
+VI. Secretario Ejecutivo: El Secretario Ejecutivo del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
 
-VIII. Proceso: Al proceso de evaluación y control de confianza.
+VII. Servidores Públicos: Las personas que al amparo de un nombramiento legalmente expedido, de instrumento jurídico equivalente expedido por autoridad competente o por las funciones que realizan, desempeñan un cargo, comisión, prestan sus servicios o participan en las instituciones de seguridad pública;
+
+VIII. Servicios de Seguridad Privada: Las personas físicas o morales que prestan servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluidos su traslado, autorizados para ello por la Secretaría de Seguridad Pública del Estado y en su caso por el Gobierno Federal, y
+
+IX. Proceso: Al proceso de evaluación y control de confianza.
 
 ###### ARTÍCULO 5°.
 
@@ -113,6 +125,10 @@ IV. Entorno social y económico: Cuyo fin es cerciorarse de las condiciones soci
 
 En cada uno de los resultados de las pruebas practicadas deberá asentarse los datos de identificación del personal que las aplique, siendo los resultados de los procesos de evaluación confidenciales y reservados para efectos de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, excepto aquellos casos en que deban presentarse en procedimientos administrativos o judiciales, esto sin perjuicio de hacer mención de los datos que el sujeto obligado calificare de confidenciales o reservados.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+El proceso de evaluación señalado en este artículo también se aplicará a las personas aspirantes a cargos de elección popular que opten por someterse a ello, para los efectos señalados en la legislación electoral estatal, sin que genere por sí mismo efectos de carácter sancionador.
+
 ###### ARTÍCULO 7°.
 
 Los procesos de evaluación serán permanentes, obligatorios, objetivos y transparentes.
@@ -130,6 +146,10 @@ El personal integrante de las instituciones de seguridad pública y empresas de 
 ###### ARTÍCULO 10.
 
 Toda la información que derive del proceso de evaluación y control de confianza, incluidos los expedientes, será considerada como reservada y confidencial, con excepción de lo que establezcan las disposiciones legales aplicables, así como en aquellas (sic) casos en que deban presentarse en procedimientos administrativos o judiciales.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Tratándose de personas aspirantes a cargos de elección popular que opten por someterse al proceso de evaluación conforme a la presente Ley, únicamente se hará constar, para efectos de su presentación ante la autoridad electoral, la expedición o no de la certificación correspondiente, sin divulgar el contenido de las evaluaciones.
 
 ###### ARTÍCULO 11.
 
@@ -164,6 +184,24 @@ V. Aplicar la homologación, validación y actualización de los procedimientos 
 VI. Emplear los protocolos de actuación y procedimientos de evaluación emitidos por el CNCA, y
 
 VII. Las demás que establezcan las disposiciones normativas aplicables.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2026)</small>
+
+VIII. Realizar los procesos de evaluación y expedir la Certificación Estatal de Integridad y Confiabilidad para Postulación Democrática respecto de personas aspirantes a cargos de elección popular, conforme a lo previsto en esta Ley y la legislación electoral aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 14 BIS. La evaluación de control de confianza aplicada a personas aspirantes a cargos de elección popular, iniciará a petición de parte interesada cuando ésta así lo decida y se realizará conforme a lo señalado en el artículo 6º de esta Ley, así como por los lineamientos que al efecto expida el Centro y se regirá por lo siguiente:
+
+I. Tendrá carácter preventivo y no sancionador;
+
+II. Se realizará bajo criterios de objetividad, legalidad y transparencia;
+
+III. Se garantizará el debido proceso y el derecho de audiencia, y
+
+IV. Se observará el principio de presunción de elegibilidad y máxima protección de los derechos político-electorales.
+
+En virtud de que al proceso de evaluación contemplado en este artículo es voluntario, la autoridad electoral únicamente recibirá la certificación respectiva, sin que califique ni pueda constituirse como revisora del proceso de evaluación ni prejuzgar sobre la elegibilidad de la persona aspirante.
 
 ###### ARTÍCULO 15.
 
@@ -238,3 +276,17 @@ P.O. 26 DE SEPTIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0571.- QUE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA Y ADICIONA LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN A (SIC) LEY DE CONTROL DE CONFIANZA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. El Consejo Estatal Electoral y de Participación Ciudadana contará con un plazo de 180 días para realizar las adecuaciones normativas y reglamentarias necesarias para su adecuación conforme al presente Decreto.
+
+TERCERO. La reforma relativa a la integración de los ayuntamientos y concejos municipales que reduce de dos a una sindicatura, tendrá efectos a partir del proceso electoral local 2026 – 2027, por lo que la actual integración de los gobiernos municipales no se verá afectada con el presente Decreto.
+
+CUARTO. Para efectos exclusivos del proceso electoral local ordinario 2027 y de conformidad con el régimen transitorio previsto en el Decreto 540 publicado el 3 de junio de 2026 en el Periódico Oficial del Estado “Plan de San Luis”, las personas diputadas electas en el proceso electoral local 2024 que participen en elección consecutiva no estarán obligadas a separarse de su encargo para obtener su registro como personas candidatas a una diputación.
+
+QUINTO. Toda vez que, tratándose de reformas o adiciones ordenadas por la Constitución Política de los Estados Unidos Mexicanos, que deban constar en la Constitución local, únicamente se requerirá la aprobación de cuando menos las dos terceras partes del número total de las y los diputados, para que éstas formen parte de la misma, este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis"; de conformidad con el último párrafo del artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
