@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-160360"
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-28"
-last_updated: "2026-06-02"
+last_updated: "2026-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 28 de septiembre de 2022.
 
@@ -411,6 +411,10 @@ Ejercerán el derecho de voto las y los ciudadanos potosinos en pleno goce de su
 
 No pueden ser electores las personas que tengan suspendidos sus derechos ciudadanos o hayan perdido la ciudadanía potosina, en los términos de la Constitución Federal, y de la Constitución del Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Las personas que se encuentren sujetas a prisión preventiva sin sentencia condenatoria firme podrán ejercer su derecho al voto en los procesos electorales locales, de conformidad con los acuerdos, lineamientos y convenios establecidos entre el Instituto Nacional Electoral y el Consejo Estatal Electoral y de Participación Ciudadana.
+
 ###### ARTÍCULO 22.
 
 Es derecho de las ciudadanas y los ciudadanos potosinos constituir partidos políticos y agrupaciones políticas estatales, en términos de esta Ley, y afiliarse a ellos individual y libremente.
@@ -446,6 +450,18 @@ Las y los ministros de culto no podrán asociarse con fines políticos, ni reali
 ###### ARTÍCULO 28.
 
 Son elegibles para ocupar el cargo de Gobernador o Gobernadora del Estado, diputaciones, y miembros de los ayuntamientos, las personas que reúnan los requisitos y no tengan los impedimentos que la Constitución Federal, y la particular del Estado precisan para cada cargo, esta Ley, y en lo conducente, la Ley Orgánica del Municipio.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Para efectos de transparencia, fortalecimiento de la confianza pública e integridad de las candidaturas, al momento de solicitar el registro correspondiente, las personas aspirantes a los cargos referidos en el párrafo anterior podrán presentar escrito mediante el cual manifiesten de forma libre, expresa e indubitable su voluntad de someterse a evaluaciones de control de confianza ante cualquier Centro de Evaluación y Control de Confianza acreditado y certificado conforme a la Ley General del Sistema Nacional de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Asimismo, podrán acompañar la constancia, certificado o documento oficial expedido por el centro evaluador que acredite la realización de dichas evaluaciones.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+La presentación del escrito, la práctica de las evaluaciones o la exhibición de la documentación correspondiente no constituirán requisito de elegibilidad, condición para el registro de la candidatura, ni generarán consecuencia jurídica alguna en perjuicio de la persona aspirante.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2024)</small>
 
@@ -693,6 +709,10 @@ t) Aplicar las medidas de apremio establecidas en la Ley de Justicia Electoral p
 
 u) Promover la profesionalización del personal del Consejo, de acuerdo a lo que disponga el Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa que al efecto emitan el Instituto, y el Consejo;
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+v) Implementar, administrar y operar sistemas digitales y electrónicos para el registro de candidaturas, recepción documental, verificación de requisitos, y notificaciones.
+
 III. OPERATIVAS:
 
 a) Proporcionar a las comisiones distritales electorales, y los comités municipales electorales, la documentación y elementos necesarios para su funcionamiento.
@@ -817,23 +837,25 @@ El Consejo General se reunirá en sesión ordinaria por lo menos una vez al mes.
 
 El Consejo General, para la preparación del proceso electoral, se reunirá el día quince del mes de noviembre del año inmediato anterior al de la elección. A partir de esa fecha y hasta la conclusión del proceso, el Consejo General sesionará por lo menos dos veces por mes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 52.
 
-El Consejo General para poder sesionar necesitará que esté presente la mayoría de sus integrantes, entre los que deberá estar la o el presidente, quien será suplido en sus ausencias momentáneas por la consejería que designe. Asimismo, deberá estar presente la o el secretario ejecutivo y, por lo menos, la mitad más uno de las y los representantes de los partidos políticos con registro o inscripción. Los acuerdos o determinaciones se tomarán por mayoría de votos. En caso de empate, la o el Presidente tendrá la facultad del voto de calidad.
+El Consejo General para poder sesionar necesitará que esté presente la mayoría de sus integrantes, entre los que deberá estar la o el presidente, quien será suplido en sus ausencias momentáneas por la consejería que designe. Asimismo, deberá estar presente la o el secretario ejecutivo. Los acuerdos o determinaciones se tomarán por mayoría de votos. La o el Presidente ejercerá, además, voto de calidad.
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2026)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 29 DE JUNIO DE 2026)</small>
 
 En caso de ausencia de la o el secretario ejecutivo a la sesión, sus funciones serán realizadas por alguna o alguno de las o los funcionarios del órgano electoral que al efecto designe el Consejo General para esa sesión.
 
-En caso de que no se reúna la mayoría de las y los integrantes del Consejo General a que se refiere el párrafo primero del presente artículo, se citará de nuevo a sesión para celebrarse dentro de las siguientes veinticuatro horas, la cual se efectuará con los miembros que asistan.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+En caso de que no se reúna la mayoría de las y los integrantes del Consejo General a que se refiere el párrafo primero del presente artículo, se citará de nuevo a sesión para celebrarse dentro de las siguientes veinticuatro horas, la cual se efectuará con las y los miembros que asistan.
 
 En el supuesto de que por caso fortuito o de fuerza mayor no asista la o el presidente, a una sesión del Consejo General convocada en los términos de esta Ley, la o el secretario ejecutivo instalará la sesión, a fin de que las y los consejeros electorales presentes con derecho a voto, elijan de entre ellos a quien deba fungir como presidenta o presidente del Consejo General para esa única ocasión.
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2026)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
 
-En el caso de que alguna de las representaciones partidarias incurra en dos ausencias consecutivas a las sesiones del Consejo General, la Secretaría Ejecutiva dará aviso por escrito de manera inmediata a la presidencia del Partido Político, con el objeto de prevenirla para que, en el caso de que su representación incurra en una tercera inasistencia, esta será dada de baja ante el Consejo General.
+En el caso de dos ausencias consecutivas sin causa justificada a las sesiones del Consejo General por parte de alguna de las representaciones partidarias, propietarias o suplentes, la o el Secretario Ejecutivo dará aviso por escrito a la presidencia del partido político de dichas inasistencias, a fin de que conmine a las representaciones en referencia a que asistan a las sesiones del Consejo General.
 
 ###### ARTÍCULO 53.
 
@@ -2481,9 +2503,13 @@ c) Las cantidades que, en su caso, se determinen para cada partido, serán entre
 
 d) Cada partido político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba para el desarrollo de las actividades específicas, a que se refiere la fracción III de este artículo.
 
-e) Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el cinco por ciento del financiamiento público ordinario.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
 
-f) Para la capacitación, promoción y el desarrollo del liderazgo político de las y los jóvenes, cada partido político deberá destinar anualmente, el tres por ciento del financiamiento público ordinario;
+e) Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, al menos el cinco por ciento del financiamiento público ordinario.
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+f) Para la capacitación, promoción y el desarrollo del liderazgo político de las y los jóvenes, cada partido político deberá destinar anualmente, al menos el cuatro por ciento del financiamiento público ordinario.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2026)</small>
 
@@ -2673,9 +2699,11 @@ Los partidos políticos que integren un frente, conservarán su personalidad jur
 
 ### Capítulo VI. Del Registro de las Coaliciones
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 173.
 
-El registro de los convenios de las coaliciones que se conformen en los términos de la LGPP, deberá realizarse quince días antes del inicio del período de las precampañas. Cuando se renueve el Poder Ejecutivo del Estado, se tomará en cuenta el inicio de precampaña previsto en la fracción I del artículo 319 de este Ordenamiento.
+El registro de los convenios de las coaliciones que se conformen en los términos de la LGPP, deberá realizarse treinta días antes del inicio del período de las precampañas de la elección de que se trate.
 
 ### Capítulo VII. De las Fusiones
 
@@ -3277,7 +3305,9 @@ La o el ciudadano que haya obtenido el derecho a registrarse como candidata o ca
 
 I. Presentar solicitud de registro de planilla de mayoría relativa, y listas de regidurías por el principio de representación proporcional, ante el comité municipal electoral respectivo, en el formato que para tal efecto emita el Consejo.
 
-La planilla de mayoría relativa se registrará con los nombres de quienes se proponen a los cargos de presidenta o presidente municipal, que es la o el candidato independiente; primera regiduría propietaria, y una o dos sindicaturas, según corresponda. Por cada regiduría y sindicatura propietaria se registrará un suplente. Las candidaturas a regidurías de representación proporcional se presentarán en una lista en orden ascendente en el número que al efecto señala el artículo 13 de la Ley Orgánica del Municipio;
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+La planilla de mayoría relativa se registrará con los nombres de quienes se proponen a los cargos de presidenta o presidente municipal, que es la o el candidato independiente; primera regiduría propietaria, y una sindicatura, según corresponda. Por cada regiduría y sindicatura propietaria se registrará un suplente. Las candidaturas a regidurías de representación proporcional se presentarán en una lista en orden ascendente en el número que al efecto señala el artículo 13 de la Ley Orgánica del Municipio;
 
 II. La solicitud se presentará por triplicado y deberá ser firmada por la candidata o el candidato a la presidencia municipal, misma que deberá contener los siguientes datos:
 
@@ -3715,17 +3745,25 @@ Así también, los partidos políticos, una vez que registren sus fórmulas de c
 
 Las candidatas y candidatos a diputaciones, regidurías y sindicaturas municipales, se registrarán por fórmulas, con una persona propietaria y una suplente para cada cargo.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 268.
 
-En la elección de ayuntamientos se elegirán candidaturas propuestas por los principios de mayoría relativa, y representación proporcional. Las personas candidatas por el principio de mayoría se registrarán en una planilla con los nombres de quienes se proponen al cargo de presidenta o presidente municipal, al cargo de primera regiduría propietaria, y al cargo de sindicatura, según corresponda. Por cada regiduría y sindicatura propietarias se elegirá un suplente. Las candidaturas a regidurías de representación proporcional se presentarán en una lista en orden ascendente de acuerdo con el número que al efecto señala esta Ley, y el artículo 13 de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí.
+En la elección de ayuntamientos se elegirán candidaturas propuestas por los principios de mayoría relativa, y representación proporcional. Los de mayoría se registrarán en una planilla con los nombres de quienes se proponen a los cargos de presidenta o presidente municipal, primera regiduría propietaria, y una sindicatura, según corresponda. Por cada regiduría y sindicatura propietarias se elegirá un suplente. Las candidaturas a regidurías de representación proporcional, se presentarán en una lista en orden ascendente en el número que al efecto señala esta Ley, y el artículo 13, de la Ley Orgánica del Municipio.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
 Tanto las candidaturas de las planillas de mayoría relativa, como de las listas de regidurías de representación proporcional, deberán cumplir con el principio de paridad de género establecido en la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
 Las candidaturas se registrarán tanto en las planillas como en las listas de representación proporcional de forma alternada, integrando candidaturas propietarias de género distinto, garantizando con ello la paridad vertical. Las candidaturas suplentes serán del mismo género que las candidaturas propietarias.
 
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
+
 Con el propósito de garantizar la paridad horizontal, los partidos políticos deberán postular planillas encabezadas en un cincuenta por ciento por un género y el restante cincuenta por ciento por candidaturas de género distinto. En caso que del total de quienes encabezan las postulaciones resulte un número impar, se deberá privilegiar al género femenino. El Consejo emitirá los lineamientos correspondientes para el establecimiento de las condiciones mínimas exigibles para el cumplimiento del principio de paridad.
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
 Para el caso de las postulaciones de candidaturas para la integración de los ayuntamientos, cada partido político deberá postular, dentro de sus listas de representación proporcional al menos, una fórmula integrada por personas con discapacidad y una fórmula integrada por personas de diversidad sexo genérica en cualquiera de los municipios de la entidad. Los medios de verificación de cumplimiento de estas medidas y sus condiciones serán garantizados mediante los lineamientos que al efecto expida el Consejo.
 
@@ -3859,6 +3897,20 @@ XI. Constancia del Sistema Estatal de Registro de candidaturas locales, y
 
 XII. El partido político solicitante deberá anexar además, original o copia certificada del documento que acredite la elección o designación (sic) sus candidatas o candidatos.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Para efectos de transparencia, fortalecimiento de la confianza pública e integridad de las candidaturas, al momento de solicitar el registro correspondiente, las personas aspirantes a los cargos de gubernatura, ayuntamientos y diputaciones, podrán presentar escrito mediante el cual manifiesten de forma libre, expresa e indubitable su voluntad de someterse a evaluaciones de control de confianza ante cualquier Centro de Evaluación y Control de Confianza acreditado y certificado conforme a la Ley General del Sistema Nacional de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Asimismo, podrán acompañar la constancia, certificado o documento oficial expedido por el centro evaluador que acredite la realización de dichas evaluaciones.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 277 BIS. Los partidos políticos, en ejercicio de su derecho de auto organización y autodeterminación, podrán implementar acciones y mecanismos orientados a fomentar entre las personas aspirantes a una candidatura la realización voluntaria de evaluaciones de control de confianza ante Centros de Evaluación y Control de Confianza acreditados y certificados conforme a la Ley General del Sistema Nacional de Seguridad Pública.
+
+La decisión de las personas aspirantes de someterse o no a dichas evaluaciones será estrictamente voluntaria y no constituirá requisito de elegibilidad, condición para el registro de la candidatura ni podrá generar consecuencia jurídica alguna en perjuicio de las personas aspirantes.
+
 ###### ARTÍCULO 278.
 
 Tratándose de la solicitud de registro de las planillas de mayoría, y listas de candidaturas a regidurías de representación proporcional en la elección de ayuntamientos, para que sea procedente su registro ante el comité municipal electoral, es requisito indispensable para el partido postulante que integre en la planilla de mayoría relativa a la totalidad de candidaturas titulares y suplentes, y en el caso de las listas de representación proporcional al menos el cincuenta por ciento de candidaturas titulares y suplentes a que refiere el artículo 13 de la Ley Orgánica del Municipio.
@@ -3884,6 +3936,10 @@ A los partidos políticos que no cumplan con lo dispuesto en el párrafo primero
 ###### ARTÍCULO 281.
 
 El organismo electoral que corresponda recibirá las solicitudes de registro de candidatas y candidatos con su documentación correspondiente y, devolverá, como acuse de recibo, una copia de la misma, con la hora, fecha y sello del organismo electoral.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+
+Las solicitudes de registro de candidaturas deberán presentarse ante el Consejo Estatal Electoral y de Participación Ciudadana, preferentemente mediante el sistema electrónico que para tal efecto determine el Consejo General, conforme a los lineamientos que emita para garantizar autenticidad, seguridad, integridad, trazabilidad y conservación de la documentación digital.
 
 ###### ARTÍCULO 282.
 
@@ -4453,11 +4509,11 @@ Durante los tres días previos a la elección y hasta la hora del cierre oficial
 
 Las personas físicas o morales que pretendan llevar a cabo encuestas por muestreo para dar a conocer las preferencias electorales de los ciudadanos, o las tendencias de las votaciones, adoptarán los criterios generales de carácter científico que para tal efecto emita el Instituto, previa consulta con los profesionales del ramo o las organizaciones en que se agrupen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2026)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 338.
 
-Para todas las personas candidatas a la Gubernatura del Estado, será obligatoria la organización y participación en por lo menos dos debates, los cuales deberán celebrarse dentro de los sesenta días de duración de la campaña. También será obligatoria la celebración de por lo menos un debate para todas las personas candidatas al cargo de la presidencia de los cinco municipios con la mayor lista nominal.
+Para todas las personas candidatas a la Gubernatura del Estado, será obligatoria la organización y participación en por lo menos dos debates, los cuales deberán celebrarse dentro de los sesenta días de duración de la campaña. También será obligatoria la celebración de por lo menos un debate para todas las personas candidatas al cargo de la presidencia de los cinco municipios con la mayor lista nominal y uno por cada municipio que sea considerado cabecera municipal en los distritos, dentro de los cuarenta días del plazo de la campaña.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2026)</small>
 
@@ -6736,3 +6792,17 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para el proceso electoral local ordinario 2026-2027, los partidos políticos y coaliciones podrán postular y registrar libremente a personas de cualquier género, en observancia con los principios generales de paridad de género. A partir del proceso electoral 2032-2033, los partidos políticos y las coaliciones deberán observar la alternancia de género en sus postulaciones para la renovación del Poder Ejecutivo del Estado, debiendo postular a una persona del género distinto a la registrada en el proceso electoral local ordinario 2026-2027. Para el proceso electoral 2032-2033, los partidos políticos y las coaliciones solamente podrán postular a una persona del mismo género al registrado en el proceso inmediato anterior, cuando esta sea mujer.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0571.- QUE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA Y ADICIONA LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN A LEY DE CONTROL DE CONFIANZA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. El Consejo Estatal Electoral y de Participación Ciudadana contará con un plazo de 180 días para realizar las adecuaciones normativas y reglamentarias necesarias para su adecuación conforme al presente Decreto.
+
+TERCERO. La reforma relativa a la integración de los ayuntamientos y concejos municipales que reduce de dos a una sindicatura, tendrá efectos a partir del proceso electoral local 2026 - 2027, por lo que la actual integración de los gobiernos municipales no se verá afectada con el presente Decreto.
+
+CUARTO. Para efectos exclusivos del proceso electoral local ordinario 2027 y de conformidad con el régimen transitorio previsto en el Decreto 540 publicado el 3 de junio de 2026 en el Periódico Oficial del Estado "Plan de San Luis", las personas diputadas electas en el proceso electoral local 2024 que participen en elección consecutiva no estarán obligadas a separarse de su encargo para obtener su registro como personas candidatas a una diputación.
+
+QUINTO. Toda vez que, tratándose de reformas o adiciones ordenadas por la Constitución Política de los Estados Unidos Mexicanos, que deban constar en la Constitución local, únicamente se requerirá la aprobación de cuando menos las dos terceras partes del número total de las y los diputados, para que éstas formen parte de la misma, este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis"; de conformidad con el último párrafo del artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
