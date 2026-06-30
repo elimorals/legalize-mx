@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2026-05-06"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-17"
 
 REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JUNIO DE 2026.
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -192,7 +192,9 @@ XXI. Ley, la Ley de Movilidad de la Ciudad de México;
 
 XXI Bis. Monopatín eléctrico. Vehículo de dos o más ruedas, compuesto de una plataforma y manubrio, diseñado para que un pasajero viaje de pie sobre él, el cual es propulsado por un motor eléctrico.
 
-XXII. Motocicleta, vehículo motorizado que utiliza manubrio para su conducción, de una o más plazas, con dos o más ruedas, que está equipado con motor eléctrico, de combustión interna de dos o cuatro tiempos, con un cilindraje a partir de cuarenta y nueve centímetros cúbicos de desplazamiento o impulsado por cualquier otra fuerza motriz, que cumpla con las disposiciones estipuladas en la Norma Oficial Mexicana en materia de identificación vehicular;
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2026)</small>
+
+XXII. Motocicleta, vehículo motorizado que utiliza manubrio para su conducción, con dos o más ruedas, que está equipado con motor eléctrico que proporciona una potencia continua nominal mayor a 1 KW (1.34HP) o de combustión interna de dos o cuatro tiempos, con un cilindraje a partir de cuarenta y nueve centímetros cúbicos de desplazamiento, o que alcance a velocidades superiores a los 25 kilómetros por hora;
 
 XXIII. Motociclista, persona que conduce una motocicleta;
 
@@ -298,9 +300,9 @@ Tipo A: Con peso menor a 35 kilogramos
 
 Tipo B: Con peso mayor a 35 kilogramos y hasta 350 kilogramos.
 
-> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2026)</small>
 
-XLIX. Vehículo no motorizado: Vehículo de tracción humana como bicicleta, monociclo, triciclo, cuatriciclo; vehículos recreativos como patines, patinetas y monopatines; incluye aquellos asistidos por motor de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora, y los que son utilizados por personas con discapacidad.
+XLIX. Vehículo no motorizado: Vehículo de tracción humana, como bicicleta, monociclo, triciclo, cuatriciclo; vehículos recreativos, como patines, patinetas y monopatines; incluye aquellos asistidos por motor de baja potencia, no susceptible de alcanzar velocidades mayores a 25 kilómetros por hora.
 
 > <small>(ADICIONADA, G.O. 16 DE ABRIL DE 2019)</small>
 
@@ -1072,11 +1074,11 @@ IV. Donde lo indique el señalamiento del carril de transporte público comparti
 
 Los conductores de vehículos motorizados que no cedan el paso a los vehículos no motorizados de acuerdo a lo previsto en la presente disposición, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
-> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2026)</small>
 
 ###### Artículo 16.
 
-Las personas conductoras de vehículos no motorizados, vehículos eléctricos personales y monopatines eléctricos que vayan a cruzar una vía secundaria en cuya intersección la luz del semáforo se encuentre en rojo o en la que exista un señalamiento restrictivo de "Alto" o "Ceda el paso", podrán seguir de frente siempre y cuando disminuyan su velocidad, volteen a ambos lados y se aseguren que no existen peatones o vehículos aproximándose a la intersección por la vía transversal. En caso de que existan peatones o vehículos aproximándose, o no existan las condiciones de visibilidad que les permita cerciorarse de que es seguro continuar su camino, las personas conductoras de este tipo de vehículos deberán hacer alto total, dar el paso o verificar que no se aproxima ningún otro usuario de la vía y seguir de frente con la debida precaución.
+Las personas conductoras de vehículos no motorizados, que vayan a cruzar una vía secundaria en cuya intersección la luz del semáforo se encuentre en rojo o en la que exista un señalamiento restrictivo de “Alto” o “Ceda el paso”, podrán seguir de frente siempre y cuando disminuyan su velocidad, volteen a ambos lados y se aseguren que no existen peatones o vehículos aproximándose a la intersección por la vía transversal. En caso de que existan peatones o vehículos aproximándose, o no existan las condiciones de visibilidad que les permita cerciorarse de que es seguro continuar su camino, las personas conductoras de este tipo de vehículos deberán hacer alto total, dar el paso o verificar que no se aproxima ningún otro usuario de la vía y seguir de frente con la debida precaución.
 
 ###### Artículo 17.
 
@@ -1138,9 +1140,11 @@ Los conductores de vehículos no motorizados que no cumplan con las obligaciones
 
 ### CAPÍTULO IV. DE LA CIRCULACIÓN DE MOTOCICLETAS Y VEHÍCULOS MOTORIZADOS ELÉCTRICOS PERSONALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE JUNIO DE 2026)</small>
+
 ###### Artículo 20.
 
-Los conductores de motocicletas deben sujetarse a lo dispuesto en el capítulo II de este Título, exceptuando aquellas provisiones que por la naturaleza propia de los vehículos no sean aplicables. Adicionalmente los conductores de motocicletas deben:
+Los conductores de motocicletas y vehículos motorizados eléctricos personales (VEMEPE) deben sujetarse a lo dispuesto en el capítulo II de este Título, exceptuando aquellas provisiones que por la naturaleza propia de los vehículos no sean aplicables. Adicionalmente los conductores de motocicletas y vehículos motorizados eléctricos personales (VEMEPE) deben:
 
 I. Utilizar un carril completo de circulación;
 
@@ -1154,21 +1158,31 @@ II. Adelantar otro vehículo sólo por el lado izquierdo; y
 
 El motociclista que incumpla lo dispuesto en la presente disposición, será sancionado con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
+> <small>(REFORMADA, G.O. 30 DE JUNIO DE 2026)</small>
+
 III. Respetar las reglas de preferencia de paso estipuladas en el artículo 10.
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2026)</small>
 
-El motociclista que incumpla lo dispuesto en la presente disposición, será sancionado con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+IV. Los vehículos motorizados eléctricos personales (VEMEPE) Tipo A deberán circular solo por vías secundarias y zonas de tránsito calmado.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2026)</small>
 
-> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
+V. Los vehículos motorizados eléctricos personales (VEMEPE) Tipo B podrán circular por cualquier vía, excepto vías ciclistas, carriles confinados, carriles centrales de vías de acceso controlado y carriles centrales de vías primarias, para tal caso, en donde las vías primarias no cuenten con carriles laterales deberán circular por el carril de extrema derecha.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MAYO DE 2026)</small>
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2026)</small>
+
+VI. Los vehículos motorizados eléctricos personales (VEMEPE) que se definen como monopatín eléctrico (Tipo A o B), deberán circular solo por vías secundarias y zonas de tránsito calmado; así mismo, podrán hacer uso de las vías ciclistas conservando una velocidad máxima de 25 kilómetros por hora y que no ponga en riesgo a los demás usuarios de la vía.
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2026)</small>
+
+Las personas conductoras que incumplan lo dispuesto en las fracciones I a la VI, de la presente disposición serán sancionadas con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y 1 punto a la licencia para conducir.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, GO. 30 DE JUNIO DE 2026)</small>
 
 ###### Artículo 21.
 
-Se prohíbe a las personas conductoras de motocicletas y VEMEPE.
+Se prohíbe a las personas conductoras de motocicletas y vehículos motorizados eléctricos personales (VEMEPE):
 
 I. Circular sobre las aceras y áreas reservadas al uso exclusivo de peatones; salvo que el conductor ingrese a su domicilio o a un estacionamiento, debe desmontar;
 
@@ -1176,7 +1190,9 @@ I. Circular sobre las aceras y áreas reservadas al uso exclusivo de peatones; s
 
 En caso de incumplimiento a lo previsto en esta disposición, el motociclista será sancionado con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
-II. Circular por vías ciclistas exclusivas;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 30 DE JUNIO DE 2026)</small>
+
+II. Circular por vías ciclistas exclusivas; con excepción de los vehículos motorizados eléctricos personales (VEMEPE) que se definen como monopatín eléctrico (Tipo A o B) los cuales podrán circular cumpliendo con lo establecido en el artículo 20 fracción VI.
 
 > <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -1904,11 +1920,11 @@ El incumplimiento del pago de las tarifas establecidas por parte de los conducto
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MAYO DE 2026)</small>
+(REPUBLICADO PRIMER PÁRRAFO, G.O. 30 DE JUNIO DE 2026)
 
 ###### Artículo 37.
 
-Los conductores y ocupantes de los vehículos deben de cumplir con las disposiciones de seguridad indicadas en el presente artículo de acuerdo con la naturaleza propia de cada vehículo.
+Los conductores y ocupantes de los vehículos deben de cumplir con las disposiciones de seguridad indicadas en el presente artículo de acuerdo a la naturaleza propia de cada vehículo.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE MAYO DE 2026)</small>
 
@@ -1944,9 +1960,9 @@ Los conductores de vehículos motorizados que infrinjan los incisos a), b), d) y
 
 En caso de infringir lo dispuesto en el inciso c) de esta fracción, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con tres puntos a la matrícula vehicular.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE MAYO DE 2026)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 30 DE JUNIO DE 2026)</small>
 
-III. Adicionalmente, las personas conductoras de motocicletas y de VEMEPE deben:
+III. Adicionalmente, las personas conductoras de motocicletas y de vehículos motorizados eléctricos personales (VEMEPE) deben:
 
 a) Circular todo tiempo con las luces traseras y delanteras encendidas;
 
@@ -1982,23 +1998,27 @@ d) Utilizar casco protector, diseñado exclusivamente para la conducción de mot
 
 e) Preferentemente portar visores, chamarra o peto para protección con aditamentos rígidos para cobertura de hombros, codos y torso específicos para motociclista, guantes y botas, todos de diseño específico para conducción de este tipo de vehículo.
 
-> <small>(ADICIONADO, G.O. 6 DE MAYO DE 2026)</small>
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2026)</small>
 
-f) Para los VEMEPE Tipo B que tengan tres o más ruedas, deberán contar con respaldo en asientos y barras laterales integradas a la carrocería del vehículo, así como un cinturón de seguridad de al menos dos puntos en caso de que transporten menores de edad de entre 6 y 12 años.
+e Bis) Para el caso de vehículos motorizados eléctricos personales (VEMEPE) que se definen como monopatín eléctrico, se deberá utilizar adicionalmente coderas y rodilleras.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 30 DE JUNIO 2026)</small>
+
+f) Para los vehículos motorizados eléctricos personales (VEMEPE) Tipo B que tengan tres o más ruedas, deberán contar con respaldo en asientos y barras laterales integradas a la carrocería del vehículo, así como un cinturón de seguridad de al menos dos puntos en caso de que transporten menores de edad de entre 6 y 12 años.
 
 En caso de llevar a acompañantes menores de edad de entre 6 y 12 años, estos deben portar casco certificado adecuado a su talla, tener la capacidad de sentarse por cuenta propia y mantener erguida la cabeza.
 
-> <small>(ADICIONADO, G.O. 6 DE MAYO DE 2026)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 30 DE JUNIO 2026)</small>
 
-g) Para el caso de VEMEPE deberán portar un banderín conforme a las especificaciones que, para tal efecto, emita la Secretaría.
+g) Para el caso de vehículos motorizados eléctricos personales (VEMEPE) deberán portar un banderín de seguridad conforme a las especificaciones que, para tal efecto, emita la Secretaría.
 
 > <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
 
 Los conductores de vehículos motorizados que infrinjan los incisos a), c), e) y g) de la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente, y un punto a la licencia para conducir.
 
-> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2026)</small>
 
-En caso de infringir lo dispuesto en el inciso b), d) y f) de esta fracción, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente, y tres puntos a la licencia para conducir.
+En caso de infringir lo dispuesto en el inciso b), d), e Bis) y f) de esta fracción, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente, y tres puntos a la licencia para conducir.
 
 IV. Adicionalmente, los conductores de vehículos de transporte carga deben circular con la carga debidamente asegurada por tensadores para sujetar carga, cintas y/o lonas, que evite tirar objetos o derramar sustancias que obstruyan el tránsito o pongan en riesgo la integridad física de las personas; y
 
@@ -2174,11 +2194,11 @@ Los conductores que no cumplan con lo establecido en el presente artículo será
 
 ### CAPÍTULO II. DE LAS CARACTERÍSTICAS DE LOS VEHÍCULO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MAYO DE 2026)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE JUNIO DE 2026)</small>
 
 ###### Artículo 40.
 
-Los conductores de vehículos deben cerciorarse de que su vehículo esté provisto de los siguientes elementos, de acuerdo con la naturaleza propia de cada vehículo.
+Los conductores de vehículos deben cerciorarse de que su vehículo esté provisto de los siguientes elementos, de acuerdo a la naturaleza propia de cada vehículo.
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2018)</small>
 
@@ -2214,9 +2234,13 @@ k) Cinturones de seguridad para cada ocupante del vehículo, y
 
 l) Extintor, dos señalamientos de advertencia reflejantes o luminosos, neumático de refacción y la herramienta adecuada para el cambio o reparación de la misma; o en su caso, neumáticos que permitan la circulación sin presión o el sistema auxiliar que permita rodar con seguridad, con un neumático ponchado.
 
-> <small>(ADICIONADO, G.O. 6 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2026)</small>
 
-m) Adicionalmente, los VEMEPE deberán de contar con ambos espejos retrovisores, luces indicadoras de frenos en la parte trasera, así como direccionales e intermitentes delanteras y traseras;
+m) Adicionalmente, los vehículos motorizados eléctricos personales (VEMEPE) Tipo A, deberán de contar con ambos espejos retrovisores, luces indicadoras de frenos en la parte trasera, así como, preferentemente direccionales e intermitentes delanteras y traseras.
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2026)</small>
+
+n) Adicionalmente, los vehículos motorizados eléctricos personales (VEMEPE) Tipo B, deberán de contar con ambos espejos retrovisores, luces indicadoras de frenos en la parte trasera, direccionales, e intermitentes delanteras y traseras.
 
 > <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -3347,3 +3371,11 @@ CUARTO. A partir del primer día de septiembre de 2026 las personas agentes de t
 QUINTO. A partir del 20 de noviembre de 2026, las personas agentes de tránsito adscritas a la Secretaría de Seguridad Ciudadana con facultades para imponer infracciones comenzarán a aplicar las sanciones previstas en el presente Decreto por las infracciones cometidas por las personas conductas (sic) de VEMEPE, aplicando en su caso la multa que corresponda.
 
 SEXTO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo contenido en el presente Decreto.
+
+G.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO, EN MATERIA DE VEHÍCULOS MOTORIZADOS ELÉCTRICOS PERSONALES (VEMEPE)”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación.
