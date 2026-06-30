@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2026-05-27"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2026.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -563,29 +563,29 @@ La vecindad no se perderá por ausencia en el desempeño de un cargo público o 
 
 Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la Ley Electoral y el presente Código. En su integración se introducirá el principio de representación proporcional en los términos de las disposiciones citadas.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-La competencia que la Constitución Federal, la Estatal y el presente Código, le otorgan al Gobierno Municipal, se ejercerá por el Ayuntamiento en forma exclusiva y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
+La competencia que la Constitución Federal, la Estatal y el presente Código, le otorga al Gobierno Municipal, se ejercerá por el Ayuntamiento en forma exclusiva y no habrá autoridad intermedia alguna entre este y el Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
 Los ayuntamientos residirán en las cabeceras municipales y se integrarán:
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-I. Los Municipios de Chihuahua y Juárez con la persona titular de la Presidencia Municipal, Sindicatura y once titulares de las Regidurías electas por el principio de mayoría relativa;
+I. Los Municipios de Chihuahua y Juárez, por la persona titular de la Presidencia Municipal, Sindicatura, nueve titulares de las Regidurías electas por el principio de mayoría relativa, y seis titulares de Regidurías electas por el principio de representación proporcional.
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-II. Los Municipios de Camargo, Cuauhtémoc, Delicias, Guerrero, Hidalgo del Parral, Jiménez, Madera, Meoquí, Namiquipa, Nuevo Casas Grandes, Ojinaga y Saucillo, por la persona titular de la Presidencia Municipal, Sindicatura y nueve personas titulares de las Regidurías electas por el principio de mayoría relativa;
+II. Los Municipios de Camargo, Cuauhtémoc, Delicias, Guerrero, Hidalgo del Parral, Jiménez, Madera, Meoqui, Namiquipa, Nuevo Casas Grandes, Ojinaga y Saucillo, por la persona titular de la Presidencia Municipal, Sindicatura y ocho personas titulares de las Regidurías electas por el principio de mayoría relativa, y seis titulares de Regidurías electas por el principio de representación proporcional.
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-III. Los de Ahumada, Aldama, Ascensión, Balleza, Bocoyna, Buenaventura, Guachiochi, Guadalupe y Calvo, Riva Palacio, Rosales, San Francisco del Oro, Santa Bárbara, Urique e Ignacio Zaragoza por la persona titular de la Presidencia Municipal, Sindicatura y siete personas titulares de Regidurías electas por el principio de mayoría relativa;
+III. Los Municipios de Ahumada, Aldama, Ascensión, Balleza, Bocoyna, Buenaventura, Guachochi, Guadalupe y Calvo, Riva Palacio, Rosales, San Francisco del Oro, Santa Bárbara, Urique e Ignacio Zaragoza, por la persona titular de la Presidencia Municipal, Sindicatura y siete personas titulares de Regidurías electas por el principio de mayoría relativa, y cinco titulares de Regidurías electas por el principio de representación proporcional.
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-IV. Los restantes por la persona titular de la Presidencia Municipal, Sindicatura y cinco personas titulares de Regidurías electas por el principio de mayoría relativa;
+IV. Los restantes por la persona titular de la Presidencia Municipal, Sindicatura y cinco personas titulares de Regidurías electas por el principio de mayoría relativa, y tres titulares de Regidurías electas por el principio de representación proporcional.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -599,9 +599,9 @@ Respecto al gobierno de las secciones y demás poblaciones de un municipio, se e
 
 Por cada persona titular de la Presidencia Municipal, Sindicatura, Regiduría o Comisarías, habrá una persona suplente para sustituirlo en sus impedimentos o faltas.
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE JUNIO DE 2026)</small>
 
-En aquellos municipios con población indígena, las autoridades de sus pueblos y comunidades elegirán un representante ante el ayuntamiento respectivo, con derecho a voz, lo que harán de conformidad con sus tradiciones y normas internas.
+Los ayuntamientos que, conforme al último censo de población del Instituto Nacional de Estadística y Geografía, tengan una población indígena igual o mayor al cuarenta por ciento, se integrarán además por una regiduría indígena electa conforme a lo estipulado en la Ley Electoral del Estado de Chihuahua, respetando sus sistemas normativos internos, debiendo observar el principio de paridad de género. Las regidurías indígenas contarán con las mismas facultades y obligaciones que el resto de las regidurías. Estas deberán estar electas a más tardar el último día de agosto del año de la elección y se sumarán a las regidurías electas mediante los principios de mayoría relativa y de representación proporcional.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -3078,6 +3078,38 @@ En la hipótesis prevista en el caso anterior, en tanto se rinda protesta de ley
 ###### ARTICULO 102.
 
 Para cubrir las faltas temporales o definitivas de las personas titulares de las Regidurías se llamará a las suplencias respectivas.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+###### ARTICULO 102 Bis.
+
+Las faltas definitivas de regidurías electas, se cubrirán conforme a las reglas siguientes:
+
+I. Si es la persona propietaria, asumirá el cargo su respectiva suplencia.
+
+II. Si es la persona propietaria y su suplencia, se llamará a la siguiente fórmula disponible de la lista de representación proporcional del mismo partido político o candidatura independiente, conforme al orden registrado y aprobado por la autoridad electoral.
+
+III. La persona llamada deberá cumplir los requisitos de elegibilidad garantizando el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+###### ARTICULO 102 Ter.
+
+Toda vacante definitiva de regiduría deberá comunicarse a la autoridad electoral una vez que el Ayuntamiento tenga conocimiento formal de la falta definitiva.
+
+La autoridad electoral deberá verificar la elegibilidad, paridad de género, origen partidista, orden de prelación y demás requisitos aplicables de la persona que deba cubrir la vacante.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+###### ARTICULO 102 Quáter.
+
+Las faltas definitivas de Sindicatura se cubrirán conforme a las reglas siguientes:
+
+I. Si es la persona propietaria, asumirá el cargo su respectiva suplencia.
+
+II. Si es la persona propietaria y su suplencia, por acuerdo del Ayuntamiento se propondrá una terna respetando el género y el origen partidista, y se remitirá al Congreso del Estado para su aprobación.
+
+III. La persona llamada deberá cumplir los requisitos de elegibilidad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2020)</small>
 
@@ -6008,3 +6040,55 @@ P.O. 27 DE MAYO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVIII/RFLYC/0558/2026 VIII P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas realizadas a la Constitución Política del Estado Libre y Soberano de Chihuahua, respecto de la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir de los procesos electorales locales a celebrarse en el año 2030. En consecuencia, las personas que en el año 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+Las personas que estén en posibilidad de reelegirse en el año 2027 deberán cumplir de manera objetiva y formal con los requisitos expresamente establecidos en la Constitución y en la ley. Quienes pretendan reelegirse podrán optar por separarse o no de su cargo.
+
+###### ARTÍCULO TERCERO.
+
+A las personas que actualmente ejerzan un cargo de elección popular, habiendo sido postuladas en cumplimiento a alguna acción afirmativa, y que pretendan participar bajo la modalidad de elección consecutiva por el mismo cargo y ámbito territorial en el proceso electoral local 2026-2027, tendrán por acreditado su pertenencia al grupo de atención prioritaria.
+
+En consecuencia, las personas que pretendan participar bajo la modalidad de elección consecutiva por el mismo cargo y ámbito territorial conservarán su derecho a solicitar el registro correspondiente, sin que la entrada en vigor del presente Decreto constituya, por sí misma, impedimento para su postulación.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto Estatal Electoral realizará las acciones necesarias para la celebración de la elección de regidurías indígenas por el Sistema Normativo Interno, para tales efectos podrá:
+
+1) Celebrar convenios de colaboración y/o coordinación con las autoridades correspondientes.
+
+2) Emitir el calendario de actividades para el desahogo del proceso electoral que se ajuste a los plazos establecidos en el presente Decreto.
+
+3) Aprobar los lineamientos, acuerdos generales, criterios operativos y demás disposiciones necesarias para el cumplimiento de la elección.
+
+###### ARTÍCULO QUINTO.
+
+El Instituto Estatal Electoral deberá implementar o adecuar la plataforma digital de registro de candidaturas y expediente electrónico antes del inicio del proceso electoral ordinario local 2026-2027.
+
+La plataforma digital permitirá la carga electrónica de documentos, integración de expedientes electrónicos, generación de acuses, validación de campos obligatorios, seguimiento de requerimientos, atención de prevenciones, registro de sustituciones, consulta del estado de cada solicitud y trazabilidad de cambios.
+
+Asimismo, deberá incorporar mecanismos de seguridad, control de accesos, protección de datos personales, conservación documental y resguardo de la información.
+
+El expediente electrónico integrado en la plataforma tendrá validez para efectos administrativos, electorales y jurisdiccionales, en los términos que establezcan esta Ley y los lineamientos aplicables.
+
+La plataforma digital generará alertas preventivas sobre requisitos de elegibilidad, paridad, bloques de competitividad, acciones afirmativas, sustituciones, impedimentos legales y demás condiciones aplicables.
+
+Las alertas tendrán carácter orientador y preventivo. La determinación jurídica sobre la procedencia de los registros corresponderá al Consejo Estatal.
+
+###### ARTÍCULO SEXTO.
+
+El Instituto Estatal Electoral tendrá un plazo de noventa días para armonizar su reglamentación y demás ordenamientos con relación al presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
