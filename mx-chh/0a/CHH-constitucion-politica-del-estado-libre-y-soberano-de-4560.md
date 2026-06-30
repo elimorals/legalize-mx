@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2026-05-13"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2026.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -301,7 +301,13 @@ III. Establecer sus mecanismos de toma de decisiones;
 
 IV. Operar sus sistemas normativos internos, sujetando sus actuaciones a los principios generales de esta Constitución, respetando los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. Las leyes locales establecerán los casos y procedimientos de validación por los jueces o tribunales correspondientes;
 
-V. Elegir a sus autoridades y representantes, bajo los principios de equidad, garantizando la participación de las mujeres frente a los varones, en un marco que respete el pacto federal y la soberanía de los Estados;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2026)</small>
+
+V. Elegir, de acuerdo con sus Sistemas Normativos Internos, a sus autoridades y representantes, bajo los principios de equidad, garantizando que las mujeres y los hombres ejerzan su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía del Estado. En ningún caso, sus Sistemas Normativos Internos limitarán los derechos político-electorales de la ciudadanía en la elección de sus autoridades municipales.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+La ley regulará estos derechos, con el propósito de fortalecer su participación y representación política.
 
 VI. Dar su consentimiento libre, previo e informado cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles directamente;
 
@@ -503,23 +509,33 @@ III.- Desempeñar los cargos de elección popular de la Federación, del Estado 
 
 IV.- Desempeñar las funciones electorales y las de jurado conforme a la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
+
 ###### Art. 23.
 
-Se suspende el ejercicio de los derechos de ciudadano chihuahuense:
+Se suspende el ejercicio de los derechos de la ciudadanía chihuahuense:
 
-I.- Por suspenderse los de ciudadano mexicano.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
+
+I.- Por suspenderse los derechos de la ciudadanía mexicana.
 
 II.- Por incapacidad legal o ebriedad consuetudinaria declaradas en forma.
 
-III.- Por falta de cumplimiento, sin causa justificada, de los deberes de ciudadano.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+III.- Por falta de cumplimiento, sin causa justificada, de los deberes de la ciudadanía.
 
-IV.- Por estar procesado criminalmente, desde el auto de vinculación a proceso, o declaración de haber lugar a formación de causa contra los individuos aforados hasta que se dicte sentencia absolutoria ejecutoriada o se extinga la condena.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
+
+IV.- Cuando en una sentencia condenatoria firme, se dicte una pena privativa de la libertad por delito doloso.
 
 V.- Por servir oficialmente al gobierno de otro Estado sin licencia del Congreso. Esta suspensión durará por el tiempo del empleo o comisión, o mientras no se obtenga la licencia expresada.
 
 VI.- Por sentencia judicial, en los casos y por el tiempo que en ella se determine.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2026)</small>
+
+VII.- Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, y el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y por ser declarada como persona deudora alimentaria morosa. En los supuestos de esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.
 
 ###### Art. 24.
 
@@ -763,9 +779,9 @@ El Consejero Presidente y los consejeros electorales participan con voz y voto. 
 
 Las sesiones de los órganos electorales serán públicas y sus resoluciones recurribles ante el Tribunal Estatal Electoral, conforme disponga la ley.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-El Instituto Estatal Electoral ejercerá las atribuciones previstas en el artículo 41, Base V, Apartado C, de la Constitución Política de los Estados Unidos Mexicanos, sin perjuicio de las modalidades previstas en los incisos a), b) y c) del mismo Apartado, en los términos de la Ley General en la materia.
+El Instituto Estatal Electoral ejercerá las atribuciones previstas en el artículo 41, Base V, Apartado C, de la Constitución Política de los Estados Unidos Mexicanos, sin perjuicio de las modalidades previstas en los incisos a), b) y c) del mismo Apartado, en los términos de la Ley General en la materia. En el uso de su facultad reglamentaria, los acuerdos generales, lineamientos, reglamentos y resoluciones que emita el Consejo Estatal del Instituto Estatal Electoral y demás autoridades electorales, deberán sujetarse estrictamente a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Chihuahua y la Ley. En ningún caso podrán establecer requisitos, restricciones, modalidades, condiciones, cargas, obligaciones o supuestos adicionales a los expresamente previstos en la Ley, sin innovar el orden jurídico, regular materias reservadas al legislador, modificar el alcance de los derechos y obligaciones previstos en la ley, ni establecer mecanismos, procedimientos o modalidades que alteren las condiciones para el ejercicio de los derechos político-electorales o el registro de candidaturas previstas en esta Constitución.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
@@ -793,9 +809,9 @@ Los Magistrados serán designados de forma escalonada en los términos que estab
 
 Los Magistrados del Tribunal Estatal Electoral durarán en su encargo siete años. Recibirán remuneración igual a la que perciben los Magistrados del Tribunal Superior Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-Corresponde al Tribunal Estatal Electoral resolver en forma definitiva e inatacable las impugnaciones que se presenten en materia electoral, de referéndum, plebiscito y revocación de mandato, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación, sin perjuicio de las atribuciones del Instituto Nacional Electoral en los términos de la Ley General de la materia.
+Corresponde al Tribunal Estatal Electoral resolver en forma definitiva e inatacable las impugnaciones que se presenten en materia electoral, de referéndum, plebiscito y revocación de mandato, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación, sin perjuicio de las atribuciones del Instituto Nacional Electoral en los términos de la Ley General de la materia. Para la interpretación y aplicación de las normas previstas en materia electoral, los órganos del Estado deberán atenerse a su literalidad, quedando prohibida cualquier interpretación análoga o extensiva que pretenda inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial. Así mismo, deberán respetar la autodeterminación y autoorganización de los partidos políticos, sus determinaciones y sus procesos internos de selección de candidaturas, sin que puedan sustituir, modificar, condicionar o intervenir en sus decisiones internas, salvo para verificar el cumplimiento objetivo y formal de los requisitos expresamente establecidos en la Ley, sin innovar el orden jurídico, regular materias reservadas al legislador, modificar el alcance de los derechos y obligaciones previstos en la ley, ni establecer mecanismos, procedimientos o modalidades que alteren las condiciones para el ejercicio de los derechos político-electorales o el registro de candidaturas previstas en esta Constitución.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
@@ -881,9 +897,9 @@ Sólo se asignarán diputaciones de representación proporcional a los partidos 
 
 Las diputaciones de representación proporcional se distribuirán mediante rondas de asignación entre los partidos políticos con derecho a ello, atendiendo al orden decreciente del porcentaje de votación obtenido por cada uno de ellos de la votación estatal válida emitida.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-En una primera ronda, se asignará una diputación a cada partido político que haya obtenido por lo menos el 3% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación a cada partido político que haya obtenido más del 5% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación a cada partido político que haya obtenido más del 10% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación a cada partido político que haya obtenido más del 20% de la votación estatal válida emitida. Si agotado este procedimiento, aún quedaren diputaciones por asignar, éstas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos hasta agotar su totalidad.
+En una primera ronda, se asignará una diputación a cada partido político que haya obtenido por lo menos el 3% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación a cada partido político que haya obtenido más del 5% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación a cada partido político que haya obtenido más del 9% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación a cada partido político que haya obtenido más del 20% de la votación estatal válida emitida. Si agotado este procedimiento, aún quedaren diputaciones por asignar, éstas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos hasta agotar su totalidad.
 
 Las diputaciones de representación proporcional que correspondan a cada partido político se asignarán alternada y sucesivamente: en primer lugar, utilizando el sistema de listas previamente registradas por los partidos políticos para tal efecto y, en segundo lugar, atendiendo a los más altos porcentajes de la votación estatal válida emitida obtenidos en su distrito por cada uno de los candidatos del mismo partido político, en los términos que se establezcan en la Ley.
 
@@ -893,39 +909,45 @@ Las diputaciones de representación proporcional que correspondan a cada partido
 
 El Poder Legislativo del Estado actuará como Parlamento Abierto y se regirá por los principios de transparencia de la información, rendición de cuentas, evaluación del desempeño legislativo, participación ciudadana y uso de tecnologías de la información.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
 
 ###### Art. 41.
 
-Para ser electo diputado se requiere:
+Para ser titular de una diputación se requiere:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-I.- Ser ciudadano mexicano por nacimiento y chihuahuense, en ejercicio de sus derechos.
+I. Ser ciudadana o ciudadano mexicano por nacimiento y chihuahuense, en ejercicio de sus derechos.
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
 II. Tener dieciocho años cumplidos al día de la elección.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
 
-III.- Ser originario o vecino del Estado, en los términos del artículo 13, con residencia de más de un año anterior a la fecha de su celebración en el distrito en que se haga la elección.
+III. Ser persona originaria o vecina del Estado, en los términos del artículo 13, con residencia de más de un año anterior a la fecha de su celebración en el distrito en que se haga la elección.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
 Cuando un municipio sea cabecera de dos o más distritos electorales, para ser elegible en cualquiera de ellos, la residencia a que se refiere el párrafo anterior bastará con que se tenga en el municipio de que se trate.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-IV.- No haber sido condenado a pena mayor de un año de prisión en los últimos diez años por delito intencional, excepto los de carácter político.
+IV. No haber sido condenada o condenado a pena mayor de un año de prisión en los últimos diez años por delito intencional, excepto los de carácter político.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-V.- No ser servidor público federal, estatal o municipal, con funciones de dirección y atribuciones de mando, salvo que se separen de su cargo cuando menos un día antes de iniciar el periodo de campaña.
+V. No ser servidora o servidor público federal, estatal o municipal, con funciones de dirección y atribuciones de mando, salvo que se separe de su cargo cuando menos un día antes de iniciar el periodo de campaña.
 
-Quienes pretendan reelegirse podrán optar por separarse o no de su cargo de diputado, y
+Las personas suplentes podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-VI.- No ser ministro de algún culto religioso o haberse retirado del mismo en los términos de ley.
+VI. No ser persona ministra de algún culto religioso o haberse retirado del mismo en los términos de ley.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2026)</small>
+
+VII. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, y el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y no ser declarada como persona deudora alimentaria morosa.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -967,19 +989,13 @@ En los casos de las fracciones II y IV, los Suplentes funcionarán tan sólo has
 
 DE LA INSTALACION Y FUNCIONAMIENTO DEL CONGRESO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
 ###### Art. 44.
 
-El Congreso se renovará totalmente el año que corresponda. Los diputados del Congreso del Estado podrán ser reelectos hasta por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato y que satisfagan los requisitos previstos por la Ley. En el caso de diputados que hayan surgido de postulación independiente, deberán seguir el procedimiento de obtención del apoyo ciudadano que prevea la Ley.
+El Congreso se renovará totalmente el año que corresponda.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
-
-El Congreso se instalará, en casos ordinarios, el día primero de septiembre y en los extraordinarios, únicos en que será necesaria la convocatoria, el día que ésta fije.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-El Congreso cambiará su nomenclatura cada tres años.
+Se instalará, en casos ordinarios, el día primero de septiembre y en los extraordinarios, el día que fije la convocatoria.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
@@ -1903,37 +1919,47 @@ DEL PODER EJECUTIVO.
 
 DEL GOBERNADOR DEL ESTADO.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
+
 ###### Art. 84.
 
-Para poder ser electo Gobernador Constitucional del Estado, se requiere:
+Para ser Gobernadora o Gobernador Constitucional del Estado, se requiere:
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-I.- Ser ciudadano mexicano por nacimiento, chihuahuense, en pleno goce de sus derechos, nativo del Estado o con residencia efectiva en el mismo no menor de cinco años, inmediatamente anteriores al día de la elección.
+I. Ser ciudadana o ciudadano mexicano por nacimiento, chihuahuense, en pleno goce de sus derechos, nativa o nativo del Estado o con residencia efectiva en el mismo no menor a cinco años, inmediatamente anteriores al día de la elección.
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
 II.- Tener, cuando menos, treinta años cumplidos al día de la elección.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-III.- No ser ministro de algún culto religioso o haberse retirado del mismo en los términos de ley.
+III. No ser persona ministra de algún culto religioso o haberse retirado del mismo en los términos de ley.
 
-IV.- No haber sido nombrado Gobernador Interino, Provisional o Substituto, en los términos que establece el artículo 90 de esta Constitución.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+IV. No haber sido nombrada Gobernadora o Gobernador Interino, Provisional o Sustituto, en los términos que establece el artículo 90 de esta Constitución.
 
-V.- No ser Secretario General de Gobierno, Fiscal General del Estado, Secretario, Coordinador, ni Magistrado del Tribunal Superior de Justicia.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+V. No ser titular de la Secretaría General de Gobierno, dependencia o entidad de la Administración Pública Estatal, Fiscalía General del Estado, ni Magistratura del Tribunal Superior de Justicia.
 
-VI.- No ser servidor público federal con facultades de dirección y atribuciones de mando, ni militar con mando en el ejército, y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-VII.- La condición que para ser diputado establece la fracción IV del artículo 41 de esta Constitución.
+VI. No ser persona servidora pública federal con facultades de dirección y atribuciones de mando, ni militar con mando en el Ejército.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-Los servidores comprendidos en las fracciones V y VI, podrán ser electos siempre que al efectuarse la elección tengan seis meses de estar definitivamente separados de sus cargos o empleos.
+VII. La condición que para ser titular de una diputación establece la fracción IV del artículo 41 de esta Constitución.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2026)</small>
+
+VIII. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, y el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y no ser declarada como persona deudora alimentaria morosa.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+Las personas servidoras públicas comprendidas en las fracciones V y VI, podrán ser electas siempre que al efectuarse la elección tengan seis meses de estar definitivamente separadas de sus cargos o empleos.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2775,35 +2801,37 @@ El territorio del Estado se divide en sesenta y siete municipios que son:
 
 El ejercicio del Gobierno Municipal estará a cargo:
 
-I. De los Ayuntamientos, los que serán electos popular y directamente según el principio de votación mayoritaria relativa, residirán en las cabeceras de las municipalidades que gobiernen, durarán en su encargo tres años y estarán integrados por un presidente, un síndico y el número de regidores que determine la ley, con sus respectivos suplentes.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-Los ayuntamientos se integrarán además, con el número de Regidores electos según el principio de representación proporcional que determine la ley, la cual regulará el procedimiento para realizar las asignaciones correspondientes.
+I. De los Ayuntamientos, cuya elección será popular y directa según el principio de votación mayoritaria relativa, residirán en las cabeceras de las municipalidades que gobiernen, durarán en su encargo tres años y se integrarán por una Presidencia Municipal, una Sindicatura y el número de regidurías que determine la ley, con sus respectivas suplencias.
 
-El número de Regidores de representación proporcional se fijará por la ley tomando en cuenta el índice demográfico y las condiciones socioeconómicas de cada municipio. Los regidores electos por el principio de votación mayoritaria relativa y por el de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
+Los ayuntamientos se integrarán además, con el número de regidurías electas según el principio de representación proporcional que determine la ley, la cual regulará el procedimiento para realizar las asignaciones correspondientes.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+El número de regidurías de representación proporcional se fijará por la ley tomando en cuenta el índice demográfico y las condiciones socioeconómicas de cada municipio. Las personas regidoras electas por el principio de votación mayoritaria relativa y por el de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
 
-Los miembros de los ayuntamientos podrán ser reelectos para el mismo cargo por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Los que tengan el carácter de propietarios no podrán ser electos para el período inmediato con el cargo de suplentes, pero éstos sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio. En el caso de miembros del ayuntamiento que hayan surgido de postulación independiente, así como los que se reelijan, deberán seguir el procedimiento de obtención del apoyo ciudadano por planilla que prevea la Ley.
+Las personas integrantes de los ayuntamientos no podrán ser reelectas para el mismo cargo por un período adicional. Las personas suplentes podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes. Si alguna de las personas integrantes de un ayuntamiento dejare de desempeñar su cargo, será sustituida por suplencia, o se procederá según lo disponga la ley.
 
-Lo dispuesto en el párrafo anterior no comprende a los Concejos Municipales que hayan sido nombrados por el Congreso en ejercicio de sus funciones.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-Si alguno de los miembros de un ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley;
+II. De las juntas municipales, las cuales residirán en la cabecera de la sección municipal respectiva; durarán en su encargo tres años y serán integradas por las personas que la ley establezca y de acuerdo con los procedimientos que en la misma se regulen.
 
-II. De las juntas municipales, las que residirán en la cabecera de la sección municipal respectiva; durarán en su encargo tres años y serán integradas por los miembros que la ley establezca y de acuerdo con los procedimientos que en la misma se regulen, y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-III. De los comisarios de policía, los que residirán en los lugares de menor población, durarán en su encargo tres años y serán electos y removidos en los términos indicados en la fracción anterior.
+III. De las personas titulares de las comisarías de policía, quienes residirán en los lugares de menor población, durarán en su encargo tres años y serán electas y removidas en los términos indicados en la fracción anterior.
 
-Por cada miembro propietario de un Ayuntamiento o Junta Municipal y por cada Comisario de Policía, se elegirá un suplente para cubrir las faltas del respectivo propietario.
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, P.O. 30 DE JUNIO DE 2026]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+Por cada persona propietaria integrante de un Ayuntamiento o Junta Municipal y por cada persona titular de una Comisaría de Policía, se elegirá una suplencia para cubrir las faltas de la respectiva persona propietaria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
 
 ###### Art. 127.
 
-Para poder ser electo miembro de un ayuntamiento o junta municipal o comisario de policía, se requiere:
+Para ser integrante de un ayuntamiento, junta municipal o titular de una comisaría de policía, se requiere:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-I.- Ser ciudadano mexicano, chihuahuense, en pleno ejercicio de sus derechos.
+I.- Ser ciudadana o ciudadano mexicano, chihuahuense, en pleno ejercicio de sus derechos.
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
 
@@ -2815,25 +2843,25 @@ III.- Tener residencia habitual durante los últimos seis meses en la municipali
 
 IV.- Ser del estado seglar.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-V.- No haber sido condenado en los últimos diez años, por delito alguno intencional que no sea político.
+V.- No haber recibido condena en los últimos diez años, por delito alguno intencional que no sea político.
 
-(NOTA: EL 27 DE NOVIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 131/2017 Y SUS ACUMULADAS 132/2017, 133/2017 Y 136/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+VI.- No fungir como persona servidora pública federal, estatal o municipal con funciones de dirección y atribuciones de mando, salvo que se separen de sus cargos cuando menos un día antes de iniciar el periodo de campaña.
 
-VI.- No ser servidor público federal, estatal o municipal con funciones de dirección y atribuciones de mando, salvo que se separen de su cargo cuando menos un día antes de iniciar el periodo de campaña, INCLUYENDO A QUIENES PRETENDAN REELEGIRSE EN EL CARGO DE PRESIDENTE MUNICIPAL Y SÍNDICO.
-
-Para el caso de las candidaturas por postulación independiente, deberán separarse de sus cargos desde el inicio del proceso de obtención del apoyo ciudadano y una vez agotado el plazo para tal efecto podrán regresar a sus cargos, y
+Para el caso de las candidaturas por postulación independiente, deberán separarse de sus cargos desde el inicio del proceso de obtención del apoyo de la ciudadanía y una vez agotado el plazo para tal efecto podrán regresar a sus cargos.
 
 VII.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2026)</small>
+
+VIII.- No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, y el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y no ser declarada como persona deudora alimentaria morosa.
 
 ###### Art. 128.
 
-Los miembros de las Juntas Municipales y los Comisarios de Policía podrán ser reelectos por un período adicional para el mismo cargo.
+(DEROGADO, P.O. 30 DE JUNIO DE 2026)
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3779,13 +3807,17 @@ Los funcionarios que por cualquier motivo comiencen a ejercer su encargo o tomen
 
 Ninguna licencia podrá ser por tiempo indefinido ni mayor de seis meses, salvo el caso de enfermedad debidamente justificada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
 
 ###### Art. 196.
 
-Todo servidor público del Estado o de los municipios, que tenga funciones de dirección y atribuciones de mando, al entrar al desempeño de sus cargos, hará protesta formal de cumplir y, en su caso, hacer cumplir esta Constitución, la Federal y las leyes emitidas conforme a éstas.
+Toda persona servidora pública del Estado o de los municipios, que tenga funciones de dirección y atribuciones de mando, al entrar en el desempeño de sus cargos, hará protesta formal de cumplir y, en su caso, hacer cumplir esta Constitución, la Federal y las leyes emitidas conforme a estas.
 
 La ley determinará la fórmula de la protesta y ante quien deba otorgarse, en los casos que esta Constitución no especifique.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+Las personas servidoras públicas, dentro de los seis meses siguientes a la fecha en que asuman el cargo, deberán acreditar capacitación en materia de perspectiva de género, igualdad sustantiva, derechos humanos de las mujeres y prevención de la violencia contra las mujeres en razón de género, impartida por una institución o autoridad legalmente acreditada en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
 
@@ -5846,3 +5878,55 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Los Ayuntamientos del Estado de Chihuahua, en el ámbito de sus atribuciones, podrán armonizar sus Bandos de Policía y Reglamentos de Espectáculos Públicos o análogos con lo dispuesto en este Decreto.
+
+P.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVIII/RFCNT/0557/2026 VIII P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado, atendiendo previamente lo dispuesto por el artículo 202 de la Constitución Política del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas realizadas a la Constitución Política del Estado Libre y Soberano de Chihuahua, respecto de la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir de los procesos electorales locales a celebrarse en el año 2030. En consecuencia, las personas que en el año 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+Las personas que estén en posibilidad de reelegirse en el año 2027 deberán cumplir de manera objetiva y formal con los requisitos expresamente establecidos en la Constitución y en la ley. Quienes pretendan reelegirse podrán optar por separarse o no de su cargo.
+
+###### ARTÍCULO TERCERO.
+
+A las personas que actualmente ejerzan un cargo de elección popular, habiendo sido postuladas en cumplimiento a alguna acción afirmativa, y que pretendan participar bajo la modalidad de elección consecutiva por el mismo cargo y ámbito territorial en el proceso electoral local 2026-2027, tendrán por acreditado su pertenencia al grupo de atención prioritaria.
+
+En consecuencia, las personas que pretendan participar bajo la modalidad de elección consecutiva por el mismo cargo y ámbito territorial conservarán su derecho a solicitar el registro correspondiente, sin que la entrada en vigor del presente Decreto constituya, por sí misma, impedimento para su postulación.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto Estatal Electoral realizará las acciones necesarias para la celebración de la elección de regidurías indígenas por el Sistema Normativo Interno, para tales efectos podrá:
+
+1) Celebrar convenios de colaboración y/o coordinación con las autoridades correspondientes.
+
+2) Emitir el calendario de actividades para el desahogo del proceso electoral que se ajuste a los plazos establecidos en el presente Decreto.
+
+3) Aprobar los lineamientos, acuerdos generales, criterios operativos y demás disposiciones necesarias para el cumplimiento de la elección.
+
+###### ARTÍCULO QUINTO.
+
+El Instituto Estatal Electoral deberá implementar o adecuar la plataforma digital de registro de candidaturas y expediente electrónico antes del inicio del proceso electoral ordinario local 2026-2027.
+
+La plataforma digital permitirá la carga electrónica de documentos, integración de expedientes electrónicos, generación de acuses, validación de campos obligatorios, seguimiento de requerimientos, atención de prevenciones, registro de sustituciones, consulta del estado de cada solicitud y trazabilidad de cambios.
+
+Asimismo, deberá incorporar mecanismos de seguridad, control de accesos, protección de datos personales, conservación documental y resguardo de la información.
+
+El expediente electrónico integrado en la plataforma tendrá validez para efectos administrativos, electorales y jurisdiccionales, en los términos que establezcan esta Ley y los lineamientos aplicables.
+
+La plataforma digital generará alertas preventivas sobre requisitos de elegibilidad, paridad, bloques de competitividad, acciones afirmativas, sustituciones, impedimentos legales y demás condiciones aplicables.
+
+Las alertas tendrán carácter orientador y preventivo. La determinación jurídica sobre la procedencia de los registros corresponderá al Consejo Estatal.
+
+###### ARTÍCULO SEXTO.
+
+El Instituto Estatal Electoral tendrá un plazo de noventa días para armonizar su reglamentación y demás ordenamientos con relación al presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
