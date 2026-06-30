@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-instituto-sudcaliforniano-de-la-juventud-14904"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-20"
-last_updated: "1999-06-20"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL INSTITUTO SUDCALIFORNIANO DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2026.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de junio de 1999.
 
@@ -85,7 +85,9 @@ X. Prestar los servicios que se establezcan en los programas que formule el Inst
 
 XI. Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de los jóvenes de la entidad en distintos ámbitos del acontecer estatal, nacional e internacional;
 
-XII. Elaborar programas y cursos de capacitación y desarrollo destinado a jóvenes, impartidos por la Secretaría de Educación Pública del Estado;
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+XII. Elaborar programas, cursos de capacitación y desarrollo, así como talleres en materia de Protección Civil y Gestión de Riesgos, destinados a jóvenes impartidos por la Secretaría de Educación Pública del Estado, en coordinación con la Subsecretaría de Protección Civil estatal.
 
 XIII. Definir con base en los Planes Nacional y Estatal de Desarrollo, el Programa Estatal de la Juventud y ejecutar las acciones necesarias para su cumplimiento;
 
@@ -308,3 +310,13 @@ LIC. LEONEL EFRAIN COTA MONTAÑO.
 SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODIMIRO AMAYA TELLEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 3292 SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 4 DE LA LEY DEL INSTITUTO SUDCALIFORNIANO DE LA JUVENTUD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
