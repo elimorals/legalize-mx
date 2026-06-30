@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111244"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2024-07-11"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2026.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -846,6 +846,10 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 ###### Artículo 38.
 
 En el Estado de Baja California Sur, la edad mínima para contraer matrimonio será de 18 años, conforme a lo dispuesto por el artículo 157 del Código Civil del Estado.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2026)</small>
+
+El Estado y los municipios deberán adoptar medidas integrales para la protección de niñas, niños y adolescentes contra las prácticas nocivas de cesión a título oneroso o gratuito con fines de unión formal e informal o consuetudinaria. Estas medidas deberán establecer acciones afirmativas respecto a niñas, niños y adolescentes que formen parte de comunidades indígenas, afromexicanas, con discapacidad, en situación de migración o desplazamiento o en exclusión social.
 
 ### CAPÍTULO NOVENO. Del Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
@@ -2744,3 +2748,13 @@ TERCERO. El Consejo Estatal de Adopciones y Familias de Acogimiento, debe expedi
 CUARTO. Se abroga la Ley de la Procuraduría de la Defensa del Menor y la Familia del Estado de Baja California Sur.
 
 QUINTO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3291 SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR, Y AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Las autoridades competentes, en el ámbito de sus respectivas atribuciones y conforme a la disponibilidad presupuestaria aprobada, realizarán las adecuaciones administrativas, normativas y operativas necesarias para la correcta implementación del presente Decreto.
+
+TERCERO. Las acciones derivadas de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos humanos, materiales y financieros ya aprobados para las dependencias y entidades competentes, por lo que no se autorizarán recursos adicionales para su cumplimiento.
