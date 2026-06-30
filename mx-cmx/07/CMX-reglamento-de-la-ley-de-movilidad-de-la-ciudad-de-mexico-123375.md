@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-movilidad-de-la-ciudad-de-mexico-123375
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-15"
-last_updated: "2026-05-06"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123375&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,11 @@ issue_date: "2017-09-15"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JUNIO DE 2026 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MAYO DE 2026.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 30 DE JUNIO DE 2026.]</small>
 
 Reglamento publicado en el Número 156 Bis de la Gaceta Oficial de la Ciudad de México, el 15 de septiembre de 2017.
 
@@ -3900,16 +3900,28 @@ TERCERO. Con excepción de la modificación señalada en el presente acuerdo mod
 
 G.O. 6 DE MAYO DE 2026.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO, EN MATERIA DE VEHÍCULOS MOTORIZADOS ELÉCTRICOS PERSONALES (VEMEPES)”.]
+> <small>(F. DE E., G.O. 30 DE JUNIO DE 2026)</small>
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO, EN MATERIA DE VEHÍCULOS MOTORIZADOS ELÉCTRICOS PERSONALES (VEMEPE)”.]
 
 PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación.
 
-TERCERO. Las personas propietarias y/o usuarias, así como distribuidores de Vehículos Motorizados Eléctricos Personales ubicadas en el territorio de la Ciudad de México deberán realizar el trámite de control vehicular que corresponda, apegándose al Aviso que para tal efecto dé a conocer la Secretaría de Movilidad de la Ciudad de México.
+> <small>(F. DE E., G.O. 30 DE JUNIO DE 2026)</small>
+
+TERCERO. Las personas propietarias y/o usuarias, así como los distribuidores de vehículos motorizados eléctricos personales, deberán realizar el registro correspondiente en los términos del Aviso que para tal efecto publique la Secretaría de Movilidad de la Ciudad de México.
 
 CUARTO. Las personas propietarias y/o usuarias de Vehículos Motorizados Eléctricos Personales que hayan adquirido estos vehículos con anterioridad a la entrada en vigor del presente Decreto estarán obligadas a realizar el trámite de control vehicular hasta antes del 20 de noviembre de 2026, debiendo apegarse a lo dispuesto en el Aviso que para tal efecto dé a conocer la Secretaría de Movilidad de la Ciudad de México.
 
 QUINTO. Las personas propietarias y/o usuarias de Vehículos Motorizados Eléctricos Personales que adquieran este tipo de vehículos a partir de la entrada en vigor del presente Decreto estarán obligadas a realizar el trámite de control vehicular en términos del Aviso que para tal efecto dé a conocer la Secretaría de Movilidad de la Ciudad de México a partir del primer día de julio de 2026.
 
 SEXTO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo contenido en el presente Decreto.
+
+G.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA "FE DE ERRATAS AL DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO, EN MATERIA DE VEHÍCULOS MOTORIZADOS ELÉCTRICOS PERSONALES (VEMEPES), PUBLICADO EN EL NÚMERO 1852 DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DE FECHA 06 DE MAYO DE 2026".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- La presente Fe de erratas entrará en vigor el día de su publicación.
