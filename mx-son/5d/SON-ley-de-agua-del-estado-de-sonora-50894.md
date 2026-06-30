@@ -4,7 +4,7 @@ identifier: "SON-ley-de-agua-del-estado-de-sonora-50894"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-26"
-last_updated: "2025-10-09"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE AGUA DEL ESTADO SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2026.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 26 de junio de 2006.
 
@@ -43,13 +43,17 @@ LEY DE AGUA DEL ESTADO SONORA
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 1°.
 
-Las disposiciones de esta Ley son de orden público e interés social y regulan la participación de las autoridades estatales y municipales, así como de los sectores privado y social, en la planeación y programación hidráulica y la administración, manejo y conservación del agua, en la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, así como en la realización de los estudios, proyectos y obras relacionadas con los recursos hídricos en el marco del desarrollo sustentable del Estado.
+Las disposiciones de esta Ley son de orden público e interés social y regulan la participación de las autoridades estatales y municipales, así como de los sectores privado y social, en la planeación, programación hidráulica y el derecho humano al acceso, disposición y saneamiento del agua para su consumo personal y doméstico, así como establecer las bases para el uso equitativo, eficiente y sustentable de los recursos hídricos, en el marco del desarrollo sustentable del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 2°.
 
-Esta Ley tiene por objeto regular:
+Además de los objetivos señalados en la Ley General de Aguas, esta Ley tiene por objeto regular:
 
 I.- La coordinación entre las autoridades municipales y estatales, y las bases de coordinación de éstas con la Federación, para la administración, explotación, uso y aprovechamiento integral y sustentable de las aguas nacionales y sus bienes inherentes, así como para la ejecución y operación de obras y programas y la prestación de servicios públicos, en los términos de esta Ley y demás disposiciones legales aplicables;
 
@@ -83,9 +87,11 @@ IV.- La instalación de los dispositivos necesarios para la medición de la cant
 
 V.- La prevención y control de la contaminación de las aguas en los términos de la presente Ley y demás legislación aplicable; y la adopción de las medidas que coadyuven a la preservación y restauración del equilibrio hidrológico de los ecosistemas, así como a la prevención y control de inundaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 4°.
 
-Se entenderá por:
+Además de los conceptos señalados en el artículo 4 de la Ley General de Aguas, se entenderá por:
 
 I.- Aguas de jurisdicción estatal: Aquéllas que no sean de jurisdicción federal conforme a lo previsto por el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -203,9 +209,25 @@ I.- El diseño de las políticas para el fomento y unificación de criterios nor
 
 II.- El fomento de una coordinación permanente de las acciones en materia (sic) agua de los tres órdenes de Gobierno y la participación de los sectores social y privado, mediante los mecanismos expresados en esta Ley;
 
-III.- El fomento de la participación activa y permanente de los organismos representativos de los sectores social y privado; y
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2026)</small>
 
-IV.- La integración de un subsistema de información y estadística que permita el conocimiento real y oportuno del recurso hídrico como elemento indispensable para la planeación y la adecuada toma de decisiones, así como para el desarrollo de la infraestructura hidráulica, las normas, mecanismos, de información y difusión que permitan a las autoridades correspondientes y a la sociedad conocer los resultados del comportamiento de los indicadores de la gestión de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, así como de los indicadores de la gestión de las aguas nacionales concesionadas a las personas morales que hubieren celebrado convenio de concertación de acciones con el Gobierno del Estado en forma directa o por conducto de la Comisión.
+III.- El fomento de la participación activa y permanente de los organismos representativos de los sectores social y privado;
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+IV.- La integración de un subsistema de información y estadística que permita el conocimiento real y oportuno del recurso hídrico como elemento indispensable para la planeación y la adecuada toma de decisiones, así como para el desarrollo de la infraestructura hidráulica, las normas, mecanismos, de información y difusión que permitan a las autoridades correspondientes y a la sociedad conocer los resultados del comportamiento de los indicadores de la gestión de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, así como de los indicadores de la gestión de las aguas nacionales concesionadas a las personas morales que hubieren celebrado convenio de concertación de acciones con el Gobierno del Estado en forma directa o por conducto de la Comisión;
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+V.- Promover la participación de todos los sectores en las entidades para coadyuvar en la garantía del derecho humano al agua;
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+VI.- Garantizar el disfrute del derecho humano al agua, mediante la regulación del aprovechamiento sustentable y la prevención y control de la contaminación de las aguas de su jurisdicción, así como de las aguas nacionales que tengan asignadas; y
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+VII.- Emitir las regulaciones y promover la instalación de sistemas de captación pluvial para uso doméstico, acordes a sus necesidades regionales.
 
 ###### ARTÍCULO 9º.
 
@@ -361,9 +383,25 @@ V.- Los mecanismos para evaluar las acciones que se lleven a cabo;
 
 VI.- La previsión de recursos que resulte necesaria para al (sic) prestación de los servicios públicos de referencia;
 
-VII.- La integración, depuración, actualización, difusión y análisis de la información básica sobre la gestión del agua en el Municipio; y
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2026)</small>
 
-VIII.- Los requerimientos de investigación y capacitación en materia de agua y servicios públicos hidráulicos, la orientación social sobre la problemática derivada de los diagnósticos y sus soluciones y la creación de una cultura del agua acorde con la realidad municipal.
+VII.- La integración, depuración, actualización, difusión y análisis de la información básica sobre la gestión del agua en el Municipio;
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+VIII.- Los requerimientos de investigación y capacitación en materia de agua y servicios públicos hidráulicos, la orientación social sobre la problemática derivada de los diagnósticos y sus soluciones y la creación de una cultura del agua acorde con la realidad municipal;
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+IX.- Introducir la perspectiva de derechos humanos, de género, principio de equidad y visión de infancia en la programación y presupuestación para la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+X.- Dar prioridad a la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, en la programación y presupuestación municipal, por tratarse de derechos humanos de atención prioritaria; y
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+XI.- Garantizar la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales considerándolos como un derecho humano de atención prioritaria.
 
 ## TÍTULO CUARTO. DE LAS AUTORIDADES ESTATALES Y MUNlClPALES
 
@@ -417,7 +455,9 @@ II.- Ejecutar, en su caso, las políticas y acciones para el establecimiento y f
 
 III.- Asesorar, auxiliar y prestar servicios de apoyo y asistencia técnica a los organismos operadores y a los prestadores de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, así como a las organizaciones de usuarios del agua establecidas en el Estado para diferentes fines; y
 
-IV.- Prestar, previo acuerdo del Estado con el Ayuntamiento respectivo y a solicitud expresa de éste, los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Sonora y la presente Ley.
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+IV.- Prestar, previo acuerdo del Estado con el Ayuntamiento respectivo y a solicitud expresa de éste, los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Sonora, la Ley General de Aguas y la presente Ley.
 
 ###### ARTÍCULO 22.
 
@@ -635,11 +675,13 @@ Las funciones de control y evaluación de la Comisión, estarán a cargo del Ór
 
 Para la operación de dicho Órgano, la Comisión proporcionará los recursos materiales, servicios generales e instalaciones físicas adecuadas y necesarias para su funcionamiento, así como la colaboración técnica y toda la información requerida para el cumplimiento de las funciones que le corresponda desarrollar.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 30.
 
-Las funciones de vigilancia de la Comisión estarán a cargo de los Comisarios Públicos Oficial y Ciudadano designados por la Secretaría de la Contraloría General, los cuales ejercerán las funciones previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Sonora y demás disposiciones aplicables.
+Las funciones de vigilancia de la Comisión estarán a cargo del Órgano Interno de Control designad (sic) por la Secretaría de Anticorrupción y Buen Gobierno, el cuál ejercerá las funciones previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Sonora y demás disposiciones aplicables.
 
-El titular del Órgano de Control y Desarrollo Administrativo y los Comisarios Público (sic) Oficial y Ciudadanos, participarán con voz en las reuniones de la Junta de Gobierno de la Comisión.
+El titular del Órgano Interno de Control, participará con voz en las reuniones de la Junta de Gobierno de la Comisión.
 
 ###### ARTÍCULO 31.
 
@@ -1623,11 +1665,17 @@ El servicio de agua potable se podrá suspender, cuando:
 
 I.- Exista escasez de agua en las fuentes de abastecimiento;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 30 DE JUNIO DE 2026)</small>
+
 II.- Se requiera hacer alguna reparación o dar mantenimiento a la infraestructura;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 30 DE JUNIO DE 2026)</small>
 
 III.- A solicitud del usuario, para hacer trabajos de remodelación, construcción o cualquier otra actividad que implique la necesidad justificada de suspender el servicio; y
 
-IV.- El usuario no cumpla con las obligaciones contenidas en la presente Ley.
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+IV.- La Suspensión o limitación del servicio procederá por incumplimiento de obligaciones previstas en esta Ley y en los contratos de prestación, excepto que, tratándose de uso doméstico y la causa sea falta de pago, se aplicará lo dispuesto en el artículo 168 garantizando el mínimo vital y evitando la suspensión total. Deberá mediar aviso previo, oportunidad razonable de regularización y registro de la medida aplicada.
 
 ###### ARTÍCULO 127.
 
@@ -1859,7 +1907,9 @@ III.- Interponer el recurso de inconformidad contra resoluciones y actos de los 
 
 IV.- Recibir información general en el contrato correspondiente sobre los servicios públicos en forma suficientemente detallada para el ejercicio de sus derechos como usuario;
 
-V.- Ser informado con anticipación de los cortes de servicios públicos programados, excluyendo los que se efectúen por falta reiterada de pago;
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+V.- Los cortes programados se efectuarán exclusivamente por causas técnicas de mantenimiento, seguridad, fuerza mayor, interés público debidamente justificadas. No se considerará corte programado la gestión de adeudos. Cuando exista la falta de pago en uso doméstico, no procederá el corte o suspensión total; el organismo operador aplicará medidas delimitación (sic) conforme al artículo 168 manteniendo el mínimo vital;
 
 VI.- Conocer con debida anticipación el régimen tarifario y recibir oportunamente los recibos correspondientes, así como reclamar errores en los mismos;
 
@@ -1881,7 +1931,9 @@ I.- La autosuficiencia financiera;
 
 II.- La racionalización del consumo de agua;
 
-III.- El acceso de la población de bajos ingresos a los servicios públicos, considerando la capacidad de pago de los distintos estratos de usuarios; y
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+III.- En la determinación de tarifas, cuotas y cargos, se deberá incorporar el principio de asequibilidad y acceso efectivo al servicio para la población de bajos ingresos, mediante tarifas sociales, subsidios focalizados, convenios de pago, condonaciones o facilidades en términos de las disposiciones aplicables. Estas medidas deberán diseñarse de forma que eviten la suspensión total del servicio doméstico por falta de pago y aseguren el mínimo vital previsto en el artículo 168; y
 
 IV.- La orientación del desarrollo urbano e industrial.
 
@@ -2071,13 +2123,15 @@ VI.- Los medios indirectos de la investigación técnica, económica o de cualqu
 
 El organismo operador municipal o el prestador del servicio o, en su caso, la Comisión, determinará y exigirá el pago con base en la determinación presuntiva del volumen que efectúe.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 168.
 
-La falta de pago a las tarifas a que hace referencia el artículo 165 fracción II de la presente Ley, la derivación del servicio no autorizada, o el uso distinto al contratado, faculta al organismo operador o al prestador del servicio, en su caso, en los términos del contrato de suministro, para suspender totalmente los servicios públicos de agua potable y alcantarillado, hasta que se regularicen sus pagos y se cubran los créditos fiscales y el pago de gastos por el restablecimiento de dichos servicios. En caso de uso doméstico, la falta de pago causará la limitación del servicio de conformidad con lo que establezca el reglamento respectivo, y de no regularizarse el pago se podrá proceder a la suspensión total de los servicios de agua potable, drenaje y alcantarillado. En caso de reincidencia, el organismo operador, el prestador del servicio o, en su caso, la Comisión, podrá rescindir el contrato de referencia. En caso de recontratación, el usuario quedará obligado a cubrir el importe de todos los conceptos correspondientes a un nuevo contrato.
+En el caso de uso doméstico, la falta de pago no dará lugar a la suspensión total del servicio. El organismo operador podrá aplicar medidas de limitación o reducción conforme a lineamientos, garantizando en todo tiempo el suministro mínimo indispensable para el consumo humano básico (mínimo vital). La gestión de adeudos deberá privilegiar convenios, facilidades de pago y esquemas diferenciados para hogares vulnerables, observando progresividad y no regresividad del derecho humano al agua.
 
 Lo anterior será independiente de poner en conocimiento de tal situación a las autoridades sanitarias.
 
-En caso de suspensión total en el servicio doméstico, cuando se trate de usuarios que se ubiquen en el supuesto del artículo 160, fracción III de esta Ley, sólo podrá llevarse a cabo previo estudio socioeconómico que se realice de tal suerte que se proteja la no violación de derechos humanos.
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 30 DE JUNIO DE 2026)</small>
 
 > <small>(REFORMADO, B.O. 18 DE NOVIEMBRE DE 2021)</small>
 
@@ -2091,9 +2145,11 @@ La medida excepcional a que se refiere el párrafo anterior sólo aplicará en a
 
 Los adeudos a cargo de los usuarios y a favor de los organismos operadores o, en su defecto, al prestador del servicio, exclusivamente para efectos de cobro, conforme a la presente Ley, tendrán el carácter de créditos fiscales, para cuya recuperación la autoridad responsable solicitará en los términos de ley, a las autoridades correspondientes, el ejercicio del procedimiento económico-coactivo señalado en el Código Fiscal aplicable al caso.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 170.
 
-Los notarios públicos y jueces no autorizarán o certificarán los actos traslativos de dominio de bienes inmuebles urbanos, cuando no se acredite estar al corriente en el pago de las cuotas o tarifas por el servicio de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales.
+Los notarios públicos y jueces advertirán en los actos traslativos de dominio de bienes inmuebles urbanos, cuando no se acredite estar al corriente en el pago de las cuotas o tarifas por el servicio de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales.
 
 ###### ARTÍCULO 171.
 
@@ -2235,7 +2291,9 @@ En las infracciones enumeradas en el artículo 177 de esta Ley, las autoridades 
 
 I.- La cancelación de tomas o derivaciones no autorizadas, descargas de aguas residuales sin permiso o que no se apeguen a las disposiciones legales;
 
-II.- La clausura del servicio por incumplimiento de la orden que determinó la suspensión de actividades del usuario;
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+II.- La clausura o medidas coercitivas por incumplimiento de la orden de suspensión se aplicarán conforme al procedimiento y previa verificación. Tratándose de uso doméstico, dichas medidas no podrán anular el suministro mínimo indispensable para consumo humano básico, debiendo privilegiarse mecanismos de limitación técnica que aseguren el mínimo vital y la seguridad de la infraestructura;
 
 III.- La suspensión del permiso de descarga de aguas residuales, caso en el cual podrá clausurar temporal o definitivamente, parcial o totalmente, los procesos productivos generadores de la contaminación de la empresa o establecimiento causantes directos de la descarga; o
 
@@ -2504,3 +2562,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las autoridades municipales deberán sustituir de manera paulatina la flora no nativa por flora nativa de su respectiva ecorregión, con excepción de los árboles ya plantados, mismos que deberán ser sustituidos por árboles nativos una vez que haya terminado su ciclo de vida.
+
+B.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 129, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE AGUA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
