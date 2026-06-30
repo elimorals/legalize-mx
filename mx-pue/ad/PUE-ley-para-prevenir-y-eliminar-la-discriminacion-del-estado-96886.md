@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-96886
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2026-06-26"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2026.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de noviembre de 2013.
 
@@ -94,6 +94,18 @@ II. Comité: El Comité para Prevenir y Eliminar la Discriminación;
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
 III. Discriminación: La negación, exclusión, distinción, menoscabo, impedimento, restricción, anulación o preferencia, de alguno o algunos de los derechos humanos y las libertades de las personas, grupos y comunidades en situaciones de discriminación, la desigualdad sustantiva de oportunidades en las esferas social, cultural, educativa, institucional, política, laboral o cualquier otra índole, imputables a personas físicas o jurídicas o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, que no sea objetiva, racional ni proporcional y que perpetúe las brechas de género en cualquier ámbito, por razón de su origen étnico o nacional, color de piel, cultura, lengua, sexo, género, identidad indígena, de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, situación migratoria, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación sexual, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos humanos, así como la igualdad de las personas; También es discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, aporofobia, así como la discriminación racial y otras formas conexas de intolerancia;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS] , P.O. 30 DE JUNIO DE 2026)</small>
+
+III Bis. Discriminación interseccional. Se presenta cuando dos o más motivos prohibidos de discriminación, de forma concomitante, producen un efecto mayor al de la suma simple de cada uno de aquellos:
+
+a) Discriminación directa: Cuando una persona recibe un trato menos favorable que otra en una situación similar, por alguna causa relacionada con uno o varios de los motivos prohibidos de discriminación previstos en la presente Ley.
+
+b) Discriminación indirecta: Es aquella que se produce en la esfera pública o privada, cuando una disposición, un criterio o una práctica, aparentemente neutro, es susceptible de implicar una desventaja particular para las personas que pertenecen a un grupo específico, o los pone en desventaja, a menos que dicha disposición, criterio o práctica tenga un objetivo o justificación razonable y legítimo.
+
+c) Discriminación estructural o sistémica: Se refiere al conjunto de normas, reglas, rutinas, patrones, actitudes y pautas de comportamiento que dan paso a una situación de inferioridad y exclusión contra un grupo de personas de forma generalizada, las cuales son perpetuadas a lo largo del tiempo.
+
+d) Discriminación por asociación: Es aquella que ocurre en razón de la relación y/o asociación a una persona o grupo de personas que tengan o les sean atribuidos los motivos previstos en la fracción III del artículo 4.
 
 IV. Entes públicos: A los Poderes Públicos, las Dependencias y Entidades de la Administración Pública Estatal y Municipales, y a los organismos constitucionales o legalmente autónomos;
 
@@ -636,6 +648,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXXIX Y XL DEL ARTÍCULO 6 BIS, Y ADICIONA LA FRACCIÓN XLI AL ARTÍCULO 6 BIS DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 4 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
