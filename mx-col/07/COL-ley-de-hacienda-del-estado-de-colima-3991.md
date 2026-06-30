@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2025-12-18"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -2883,15 +2883,23 @@ b) Expedición y renovación de contrato de operación:
 
 6.- Renovación de contrato de transporte público especial; personal, turístico y escolar por vehículo 20.000
 
-c) Cesión o transmisión de derechos de concesiones individuales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2026)</small>
+
+c) Cesión o transmisión de derechos de concesiones:
 
 1.- Cesión de derechos de concesiones individuales entre familiares 0.000
 
-2.- Transmisión de derechos entre personas físicas 440.000
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-3.- Transmisión de derechos de personas físicas a personas morales (para la consolidación de empresas operadoras de transporte colectivo) 110.000
+2.- Por la autorización de la cesión o transmisión de derechos de concesión del servicio de transporte público individual motorizado 440.000
 
-4.- Transmisión de derechos entre persona moral a moral (para la consolidación de empresas operadoras de transporte colectivo 110.000
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+3.- Por la autorización de la transmisión de derechos de personas físicas a personas morales (para la consolidación de empresas operadoras de transporte colectivo) 110.000
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+4.- Por la autorización de la transmisión de derechos entre persona moral a moral (para la consolidación de empresas operadoras de transporte colectivo) 110.000
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
@@ -2965,6 +2973,26 @@ a) Permiso de operación de transporte público:
 
 5.3.- Grúas de arrastre o salvamento 40.000
 
+> <small>(ADICIONADO [N. DE E. CON SUS SUBNUMERALES], P.O. 30 DE JUNIO DE 2026)</small>
+
+6.- Transporte público adaptado para personas con discapacidad en modalidad individual o colectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+6.1.- Un año de vigencia 25.000
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+6.2.- Tres años de vigencia 60.000
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+6.3.- Cinco años de vigencia 85.000
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+6.4.- Siete años de vigencia 100.000
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2020)</small>
 
 b) Autorizaciones, permisos y prórrogas de permisos a empresas de redes de acceso y gestión de la demanda de transporte, para operar el servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas:
@@ -2973,9 +3001,9 @@ b) Autorizaciones, permisos y prórrogas de permisos a empresas de redes de acce
 
 1.- Pago de derechos por análisis, y en su caso, autorización del permiso de operación como empresa de redes de acceso y gestión de la demanda de transporte (hasta por cuatro años). 220.00
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-2.- Pago de derechos por análisis, y en su caso, autorización de la renovación del permiso de operación del servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas por vehículo (hasta por un año). 30.00
+2.- Pago de derechos por análisis y, en su caso, autorización del permiso de operación, o renovación del mismo, del servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas por vehículo (hasta por un año). 30.00
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2020)</small>
 
@@ -2993,7 +3021,9 @@ La negativa del permiso de operación, su prórroga o la renovación, según sea
 
 5.- Conforme a lo establecido en el artículo 177, así como de los artículos 63, párrafos 1 y 2, fracción VII, 176 párrafos 1 y 2, 183 párrafo 1, fracciones IX y X de la Ley de Movilidad Sustentable para el Estado de Colima, y los relativos en su correspondiente reglamentación, las empresas de redes de acceso y gestión de la demanda de transporte por cada viaje del servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas realizado mediante la aplicación deberá aportar el 1.5% del total de los servicios al Fondo de Movilidad.
 
-La aportación que establece el anterior numeral 6, deberá cubrirse dentro de los 10 días siguientes al mes vencido en la forma y términos establecidos en la Ley de Movilidad Sustentable para el Estado de Colima o el Reglamento respectivo.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+La aportación que establece el párrafo anterior, deberá cubrirse dentro de los 10 días siguientes al mes vencido en la forma y términos establecidos en la Ley de Movilidad Sustentable para el Estado de Colima o el Reglamento respectivo.
 
 c) Permisos de explotación de infraestructura de transporte;
 
@@ -6855,11 +6885,31 @@ III.- Estacionamiento del Edificio Central Casa de la Cultura
 
 Para el uso de los espacios culturales, que tengan como propósito la realización de actividades culturales, deberá atenderse igualmente lo establecido en la Ley de Cultura y Derechos Culturales del Estado de Colima.
 
+> <small>(ADICIONADO CON SUS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2026)</small>
+
+### CAPITULO TERCERO. De los Derechos por el Uso y Aprovechamiento de los Puntos de Parada del Transporte Público
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+Artículo 64 F. Por el uso y aprovechamiento de los puntos de parada del transporte público, se pagará el siguiente derecho:
+
+1.- Cuenca de hasta 50 puntos de parada
+
+1.1.- Tres años de vigencia 130.000
+
+1.2.- Cuatro años de vigencia 170.000
+
+2.- En caso de que la persona solicitante invierta en la construcción de puntos de parada de transporte público y que dicha inversión supere las 600 UMAS, se exentará el pago de derecho sobre la expedición del permiso, la revisión y, en su caso, la autorización de refrendo de la vigencia del permiso.
+
+3.- Cuando el solicitante sea un Ayuntamiento del Estado de Colima, se exentará el pago de derecho sobre la expedición del permiso, la revisión y, en su caso, la autorización de refrendo de la vigencia del permiso.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+Artículo 64 G. Por la revisión y, en su caso, la autorización de refrendo de la vigencia del permiso.
+
+1.- Autorización de refrendo anual 18.000
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -6909,6 +6959,8 @@ Para la determinación de los montos de los productos a que se refiere este tít
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 69.
 
 Quedan comprendidos dentro de los aprovechamientos los ingresos que percibe el Estado por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal, tales como:
@@ -6941,12 +6993,6 @@ X.- Gastos de ejecución.
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-Artículo 70 A.- Son recursos federalizados los que obtenga el Estado de la Federación de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren. Quedan incluidos dentro de esta clasificación, las aportaciones y los recursos destinados a la ejecución de programas federales mediante la reasignación de responsabilidades.
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
 ###### Artículo 70.
 
 Son participaciones las que obtenga el Estado de la Federación, de conformidad con la Ley de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
@@ -6959,9 +7005,11 @@ Son participaciones las que obtenga el Estado de la Federación, de conformidad 
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-Artículo 70 A BIS.- Quedan comprendidos dentro de esta clasificación, los recursos que recibe el Estado para el sostenimiento y desempeño de sus actividades, diversos de los señalados en otros títulos de la presente Ley.
+Artículo 70 A.- Son recursos federalizados los que obtenga el Estado de la Federación de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren. Quedan incluidos dentro de esta clasificación, las aportaciones y los recursos destinados a la ejecución de programas federales mediante la reasignación de responsabilidades.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO SEXTO BIS PRIMERO. DE LAS TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS
 
@@ -6969,11 +7017,13 @@ Artículo 70 A BIS.- Quedan comprendidos dentro de esta clasificación, los recu
 
 ### CAPITULO UNICO
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Artículo 70 A BIS.- Quedan comprendidos dentro de esta clasificación, los recursos que recibe el Estado para el sostenimiento y desempeño de sus actividades, diversos de los señalados en otros títulos de la presente Ley.
+
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
 ### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 71.
 
@@ -6998,6 +7048,10 @@ IV.- Expropiaciones.
 V.- Aportaciones extraordinarias de los entes públicos.
 
 ## TITULO OCTAVO. DISPOSICIONES GENERALES
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 72.
 
@@ -7960,3 +8014,11 @@ P.O. 18 DE DICIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 1o. de enero del año 2026, previa publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 337.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
