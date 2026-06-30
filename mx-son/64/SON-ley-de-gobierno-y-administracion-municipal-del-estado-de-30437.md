@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2026-05-18"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2026.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -265,9 +265,11 @@ Los instrumentos anteriores se establecen sin perjuicio de que el propio Ayuntam
 
 El Ayuntamiento, encargado del gobierno municipal, es un órgano colegiado que delibera, analiza, resuelve, controla y vigila los actos de administración y de gobierno municipal en los términos de la Constitución Política de los Estados Unidos Mexicanos, la del Estado y la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2026)</small>
+
 ###### Artículo 25.
 
-El Ayuntamiento estará integrado por un Presidente Municipal, un Síndico y el número de Regidores que establezca la presente Ley, quienes serán designados por sufragio popular, directo, libre y secreto. Las elecciones se basarán en el sistema de mayoría relativa y, en el caso de los Regidores, habrá también de representación proporcional y en los municipios donde se encuentren asentados pueblos indígenas, habrá un Regidor Étnico, de conformidad con lo que establezca esta Ley y la Legislación Electoral del Estado. Por cada Síndico y Regidor propietario, será elegido un suplente, conforme lo previsto por la ley de la materia.
+El Ayuntamiento estará integrado por un Presidente o Presidenta Municipal, una sindicatura y hasta quince regidurías designadas conforme a lo establecido por la presente Ley, quienes serán designadas por sufragio popular, directo, libre y secreto. Las elecciones se basarán en el sistema de mayoría relativa y, en el caso de las quince regidurías están comprendidas las de representación proporcional, incluida una regiduría étnica en los municipios donde se encuentren asentados pueblos indígenas, de conformidad con lo que establezca esta Ley y la Legislación Electoral del Estado. Por cada sindicatura y regiduría propietaria, será elegida una suplente, conforme lo previsto por la ley de la materia.
 
 Los miembros del Ayuntamiento son considerados como representantes populares, gozando sus Regidores propietarios de idéntica categoría e igualdad de derechos y obligaciones.
 
@@ -305,19 +307,19 @@ Está prohibido incluir dentro del presupuesto anual de egresos de los municipio
 
 Los presidentes municipales, síndicos y regidores de los ayuntamientos, electos popularmente por elección directa, podrán ser reelectos para el período inmediato, en términos de lo dispuesto en los artículos 131 y 132 fracción VI de la Constitución Política del Estado Libe (sic) y Soberano de Sonora.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2026)</small>
+
 ###### Artículo 30.
 
 El total de miembros de cada Ayuntamiento se determinará con base en el número de habitantes que arroje la última información proporcionada por el Instituto Nacional de Estadística, Geografía e Informática y conforme a las siguientes bases:
 
-I. En los municipios cuya población no exceda de treinta mil habitantes, habrá un Presidente Municipal, un Sindico, tres Regidores de mayoría relativa y hasta dos Regidores según el principio de representación proporcional;
+I. En los municipios cuya población no exceda de treinta mil habitantes, habrá un Presidente o Presidenta Municipal, una sindicatura, tres regidurías de mayoría relativa y hasta dos regidurías según el principio de representación proporcional;
 
-II. En los municipios cuya población exceda a treinta mil habitantes, pero no de cien mil, habrá un Presidente Municipal, un Sindico y seis Regidores de mayoría relativa y hasta cuatro Regidores según el principio de representación proporcional; y
+II. En los municipios cuya población exceda a treinta mil habitantes, pero no de cien mil, habrá un Presidente o Presidenta Municipal, una sindicatura y seis regidurías de mayoría relativa y hasta cuatro regidurías según el principio de representación proporcional; y
 
-III. En los municipios cuya población exceda de cien mil habitantes, habrá un Presidente Municipal, un Síndico y doce Regidores de mayoría relativa y hasta ocho Regidores según el principio de representación proporcional.
+III. En los municipios cuya población exceda de cien mil habitantes, habrá un Presidente o Presidenta Municipal, una sindicatura y nueve regidurías de mayoría relativa y hasta seis regidurías bajo el principio de representación proporcional incluida la regiduría étnica en los municipios donde se encuentren asentados pueblos indígenas, de conformidad con lo que establezca esta Ley y la Legislación Electoral del Estado.
 
-Una vez alcanzado el millón de habitantes en el Municipio respectivo, el Ayuntamiento contará con tres regidores más de elección popular y dos más por representación proporcional. Esta fórmula de aumento en la integración del Ayuntamiento deberá repetirse cuando aumente la población a dos millones de habitantes.
-
-La asignación de Regidores por el principio de representación proporcional y el Regidor Étnico, se hará de acuerdo con lo que se establezca en la ley de la materia.
+Las asignaciones de regidurías por el principio de representación proporcional, la regiduría étnica y demás acciones afirmativas, se harán de acuerdo con lo que se establezca en la ley de la materia, observando el límite de regidurías establecido en la Constitución Local y esta Ley.
 
 ###### Artículo 31.
 
@@ -4780,3 +4782,23 @@ B.O. 18 DE MAYO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 130, QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 25 Y EL ARTÍCULO 30, TODOS DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Las bases establecidas en el presente Decreto para determinar el número de Regidores que integrarán los Ayuntamientos de los municipios en Sonora, serán aplicables a partir del proceso electoral local 2026-2027.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos públicos que resulten como economías o ahorros en los presupuestos anuales de los Ayuntamientos conforme a los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos, quedarán en el patrimonio de la hacienda pública de cada municipio.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
