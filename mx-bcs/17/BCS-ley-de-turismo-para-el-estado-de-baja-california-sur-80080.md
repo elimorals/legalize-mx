@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-turismo-para-el-estado-de-baja-california-sur-80080"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-20"
-last_updated: "2023-10-31"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2026.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California, el lunes 20 de diciembre de 2010.
 
@@ -175,13 +175,17 @@ XXIII.- Turismo Alternativo: La categoría de turismo que tiene como fin realiza
 
 a).- Turismo Natural o Ecoturismo: La categoría de turismo alternativo basada en que la motivación principal de los turistas sea la observación, el conocimiento, interacción y apreciación de la naturaleza y de las manifestaciones culturales tradicionales de los habitantes históricos de las zonas rurales, lo que implica tomar conciencia con respecto al aprovechamiento, conservación y restauración de los recursos naturales y las formas de producir el menor impacto negativo sobre el ambiente y el entorno sociocultural de las comunidades anfitrionas, y que genera beneficios económicos a dichas comunidades, ofreciendo oportunidades y alternativas de empleo;
 
-> <small>(REFORMADO, B.O. 10 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2026)</small>
 
-b).- Turismo Rural y Comunitario: La categoría del turismo alternativo en la cual el turista participa en actividades propias de las comunidades rurales, ejidos y pueblos originarios con fines culturales, educativos y recreativos, que le permiten conocer los valores culturales, forma de vida, manejo de recursos agrícolas y naturales, gastronomía, usos y costumbres y aspectos de su historia, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la conservación de los ambientes en los que habitan;
+b).- Turismo Rural: Es la modalidad turística desarrollada en entornos rurales, vinculada a las actividades propias del campo como la agricultura, ganadería, manejo forestal, producción artesanal y la vida cotidiana de las comunidades rurales que permite al visitante conocer, disfrutar e interactuar con los modos de vida tradicionales, el paisaje productivo y la cultura local. Esta actividad se desarrolla principalmente a través de unidades económicas familiares o empresas sociales de base rural.
 
 c).- Turismo de Aventura: La categoría de turismo alternativo en la que se incluyen diferentes actividades deportivo-recreativas donde se participa en integración con el ambiente, respetando el patrimonio natural, cultural, turístico e histórico;
 
 d).- Rutas Patrimoniales: una ruta de comunicación terrestre, acuática o de otro tipo físicamente determinada y caracterizada por poseer su propia y específica dinámica y funcionalidad histórica, así como por ser el resultado de movimientos interactivos de personas y de intercambios multidimensionales continuos y recíprocos de bienes, ideas, conocimientos y valores dentro de una zona o región a lo largo de considerables periodos y haber generado una fecundación de las culturas en el espacio y tiempo que se manifiesta, tanto de su patrimonio tangible como intangible.
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+XXIII Bis.- Turismo Comunitario: Es la modalidad turística gestionada de forma colectiva por comunidades organizadas, pueblos originarios o núcleos agrarios, en donde los beneficios, la toma de decisiones, la planeación y el control de la actividad turística son ejercidos directamente por la comunidad anfitriona. Esta modalidad promueve la justicia social, la equidad de género, la conservación del patrimonio cultural y natural, y el fortalecimiento de la autonomía comunitaria, permitiendo a los turistas vivir experiencias auténticas, basadas en el respeto mutuo, el intercambio cultural y el reconocimiento de las formas de vida, saberes y tradiciones locales, contribuyendo así al desarrollo sustentable del territorio.
 
 > <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -218,6 +222,10 @@ XXXI.- Turismo Náutico-deportivo: Conjunto de actividades turísticas relaciona
 > <small>(ADICIONADA, B.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 XXXII.- Turismo Astronómico: Es la actividad turística que comprende la visita de zonas naturales libres de contaminación atmosférica y lumínica del estado con el fin de observar estrellas, astros y fenómenos celestes.
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+XXXIII.- Turismo Regenerativo: La actividad turística que, mediante acciones de restauración de ecosistemas, revitalización de comunidades locales y promoción de prácticas sostenibles, genera impactos netos positivos en los destinos. Se realiza a través de la participación coordinada de los sectores público, privado y social, fomentando la resiliencia, la reciprocidad y la vinculación armónica entre visitantes, comunidades y el entorno, para garantizar el desarrollo integral y sostenible, conforme a las disposiciones legales aplicables.
 
 ## TÍTULO SEGUNDO. DE LA CONCURRENCIA Y COMPETENCIA DE AUTORIDADES
 
@@ -567,15 +575,63 @@ La misma obligación tendrán las autoridades respecto de los sitios culturales 
 
 La Secretaría, y los Ayuntamientos, supervisarán que lo dispuesto en este capítulo se cumpla.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO VII. TURISMO COMUNITARIO
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2026)</small>
+
+###### Artículo 20 Sexies.
+
+El turismo comunitario es una estrategia de desarrollo que coloca a las comunidades anfitrionas en el centro del proceso turístico. El Estado reconocerá, promoverá y respetará la autonomía de las comunidades organizadas que decidan emprender esta actividad, brindando acompañamiento institucional, sin interferir en sus formas internas de organización, toma de decisiones y distribución de beneficios.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2026)</small>
+
+###### Artículo 20 Septies.
+
+La Secretaría deberá incorporar dentro del Programa Estatal de Turismo acciones específicas de fomento al turismo comunitario, tales como:
+
+I. Asistencia técnica y capacitación en planeación, gestión y hospitalidad comunitaria;
+
+II. Asesoría para la elaboración de manuales de operación, reglamentos internos y modelos de gobernanza turística;
+
+III. Apoyo a la comercialización solidaria, preferentemente mediante canales directos o circuitos cortos;
+
+IV. Creación del Registro Estatal de Iniciativas de Turismo Comunitario;
+
+V. Acceso prioritario a fondos de apoyo, convocatorias y programas de infraestructura básica turística en comunidades organizadas;
+
+VI. Difusión y promoción de las iniciativas comunitarias bajo criterios de identidad cultural, sostenibilidad y participación equitativa;
+
+VII. Impulso a procesos de certificación comunitaria y distintivos de turismo justo;
+
+VIII. Establecimiento de indicadores de evaluación específicos para esta modalidad.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2026)</small>
+
+###### Artículo 20 Octies.
+
+Las comunidades que desarrollen proyectos de turismo comunitario deberán cumplir con los siguientes principios:
+
+I. Toma de decisiones colectiva y participativa;
+
+II. Gestión equitativa de los beneficios;
+
+III. Protección del patrimonio biocultural;
+
+IV. Respeto a los derechos de las mujeres y de grupos en situación de vulnerabilidad;
+
+V. Transparencia y rendición de cuentas internas;
+
+VI. No desplazamiento o afectación de otras actividades económicas prioritarias.
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+## TÍTULO CUARTO. DE LA PROMOCIÓN, DEL FOMENTO A LA ACTIVIDAD TURÍSTICA, DE LA INCORPORACIÓN DE LA ACTIVIDAD TURÍSTICA A LAS CADENAS PRODUCTIVAS Y RECONOCIMIENTOS
 
 ### CAPÍTULO I. De la Promoción Turística
 
 > <small>(REFORMADO, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
-
-## TÍTULO CUARTO. DE LA PROMOCIÓN, DEL FOMENTO A LA ACTIVIDAD TURÍSTICA, DE LA INCORPORACIÓN DE LA ACTIVIDAD TURÍSTICA A LAS CADENAS PRODUCTIVAS Y RECONOCIMIENTOS
-
-### CAPÍTULO II. Del Fomento a la Actividad Turística y su Incorporación a las Cadenas Productivas
 
 ###### Artículo 21.
 
@@ -629,7 +685,7 @@ La Secretaría participará en las campañas de promoción turística que ofrece
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE JUNIO DE 2022)</small>
 
-### CAPÍTULO III. Del Premio Estatal de Turismo
+### CAPÍTULO II. Del Fomento a la Actividad Turística y su Incorporación a las Cadenas Productivas
 
 ###### Artículo 26.
 
@@ -643,7 +699,9 @@ I.- Turismo de Sol y Playa;
 
 II.- Turismo Alternativo;
 
-III.- Turismo Rural y comunitario;
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+III.- Turismo Rural;
 
 IV.- Turismo de Aventura;
 
@@ -681,6 +739,14 @@ XII.- Turismo náutico-deportivo; y
 
 XIII.- Turismo Astronómico.
 
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+XIV.- Turismo Regenerativo.
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+XV.- Turismo Comunitario.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2019)</small>
 
 ###### Artículo 28.
@@ -699,9 +765,7 @@ Asimismo, la Secretaría promoverá incentivos y auspiciará, según las disponi
 
 Para los efectos del artículo anterior, la Secretaría gestionará ante las instituciones de educación superior del Estado, los estudios sociales y de mercado necesarios.
 
-### CAPÍTULO IV. Turismo Social
-
-> <small>(REFORMADO, B.O. 10 DE MAYO DE 2019)</small>
+### CAPÍTULO III. Del Premio Estatal de Turismo
 
 ###### Artículo 30.
 
@@ -717,7 +781,9 @@ IV.- La promoción del Estado como destino turístico; y
 
 V.- La innovación tecnológica en la prestación de servicios turísticos.
 
-### CAPÍTULO V. De la Cultura Turística
+### CAPÍTULO IV. Turismo Social
+
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 2019)</small>
 
 ###### Artículo 31.
 
@@ -731,9 +797,7 @@ Artículo 31 BIS.- La Secretaría, escuchando a los organismos del sector, formu
 
 Artículo 31 TER.- La Secretaría promoverá inversiones que tiendan a incrementar las instalaciones destinadas al turismo social y realizará gestiones ante los prestadores de servicios turísticos, con el objeto de solicitar precios y tarifas preferenciales, así como paquetes que hagan posible el cumplimiento de los objetivos de este capítulo.
 
-### CAPÍTULO VI
-
-> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 2014)</small>
+### CAPÍTULO V. De la Cultura Turística
 
 ###### Artículo 32.
 
@@ -751,17 +815,39 @@ La Secretaría así como los prestadores de servicios turísticos, transmitirán
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 10 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VI
+
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 34 Bis.
 
 Se reconoce al Turismo de Deporte Motor fuera de camino, como una modalidad del Turismo estatal que sirve de herramienta vinculatoria con el mercado internacional, nacional y regional por razón de la migración de grupos de personas a los eventos de campeonatos de competencias, seriales, exposiciones y demostraciones relacionadas con la industria turística automotriz y tecnológica en la materia.
 
-### CAPÍTULO II. De los Derechos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 2026)</small>
+
+### CAPÍTULO VII. DEL TURISMO REGENERATIVO
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+###### Artículo 34 Ter.
+
+La Secretaría, en coordinación con los Ayuntamientos y las dependencias competentes de la administración pública estatal, promoverá el desarrollo del turismo regenerativo mediante políticas, programas y acciones orientadas a la restauración de ecosistemas, la participación de las comunidades locales y el aprovechamiento responsable de los recursos naturales y culturales del Estado.
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+###### Artículo 34 Quáter.
+
+La Secretaría podrá coordinarse con los sectores social y privado, así como con instituciones académicas y organizaciones de la sociedad civil, para impulsar proyectos, iniciativas y estrategias que promuevan la implementación de prácticas de turismo regenerativo en los destinos turísticos del Estado.
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2026)</small>
+
+###### Artículo 34 Quinquies.
+
+Las acciones que se impulsen en materia de turismo regenerativo deberán procurar el equilibrio entre el desarrollo económico de la actividad turística, la conservación del patrimonio natural y cultural del Estado y el bienestar de las comunidades donde se desarrollen las actividades turísticas.
 
 ## TÍTULO QUINTO. DE LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
 
-### CAPÍTULO III. De las Obligaciones
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 35.
 
@@ -793,7 +879,7 @@ VII.- Empresas de sistema de intercambio de servicios turísticos.
 
 La Secretaría vigilará que los servicios turísticos se presten con eficiencia, calidad y oportunidad, en apego a lo dispuesto por esta ley, sin perjuicio de la aplicación de otros ordenamientos federales, estatales y municipales.
 
-### CAPÍTULO I. De los Derechos
+### CAPÍTULO II. De los Derechos
 
 ###### Artículo 39.
 
@@ -821,7 +907,7 @@ X.- Ser incluidos en catálogos, directorios y guías turísticas, de conformida
 
 XI.- Participar en los programas de capacitación turística que promueva o lleve a cabo la Secretaría.
 
-### CAPÍTULO II. De sus Obligaciones
+### CAPÍTULO III. De las Obligaciones
 
 ###### Artículo 40.
 
@@ -847,7 +933,7 @@ IX.- Cooperar con las autoridades federales, estatales y municipales, en las inv
 
 ## TÍTULO SEXTO. DE LAS Y LOS TURISTAS
 
-### CAPÍTULO III. De la Protección al Turista
+### CAPÍTULO I. De los Derechos
 
 ###### Artículo 41.
 
@@ -867,7 +953,7 @@ VI.- Disfrutar el libre acceso y goce de todo el patrimonio turístico, así com
 
 VII.- Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. De sus Obligaciones
 
 ###### Artículo 42.
 
@@ -881,7 +967,7 @@ III.- Acatar las prescripciones particulares de establecimientos mercantiles y e
 
 IV.- Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado.
 
-### CAPÍTULO I. De la Competitividad y Profesionalización en la Actividad Turística
+### CAPÍTULO III. De la Protección al Turista
 
 ###### Artículo 43.
 
@@ -913,7 +999,7 @@ Los prestadores de servicios que de conformidad con las disposiciones jurídicas
 
 ## TÍTULO SÉPTIMO. DEL REGISTRO NACIONAL DE TURISMO
 
-### CAPÍTULO II. De la Capacitación Turística
+### CAPÍTULO ÚNICO
 
 ###### Artículo 48.
 
@@ -929,7 +1015,7 @@ La base de datos de las y los prestadores de servicios turísticos del Estado, s
 
 ## TÍTULO OCTAVO. DE LA CAPACITACIÓN Y CERTIFICACIÓN DE LAS Y LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
-### CAPÍTULO III. De la Certificación de las y los Prestadores de Servicios Turísticos
+### CAPÍTULO I. De la Competitividad y Profesionalización en la Actividad Turística
 
 ###### Artículo 51.
 
@@ -957,7 +1043,7 @@ Además, promoverá el establecimiento de centros de educación y capacitación 
 
 La Secretaría, en coordinación con la Secretaría del Trabajo y Previsión Social del Gobierno del Estado, serán las instancias responsables para establecer los lineamientos, contenidos y alcances en materia, turística, a fin de promover y facilitar la certificación de competencias laborales.
 
-### CAPÍTULO I. De las Sanciones
+### CAPÍTULO II. De la Capacitación Turística
 
 ###### Artículo 54.
 
@@ -971,7 +1057,7 @@ La Secretaría tendrá a su cargo un registro de centros de enseñanza e investi
 
 La Secretaría propondrá al Titular del Ejecutivo del Estado, la celebración de acuerdos con la Secretaría Federal, autoridades educativas y laborales, para la implementación de programas relacionados con la capacitación de empresarios, trabajadores y servidores públicos del ramo turístico sobre los conocimientos necesarios para el desarrollo de sus actividades, en los términos que establezca el marco legal vigente, debiendo impulsarse, preponderantemente, el aprendizaje del idioma inglés para el sector turístico.
 
-### CAPÍTULO II. Del Recurso de Reconsideración
+### CAPÍTULO III. De la Certificación de las y los Prestadores de Servicios Turísticos
 
 ###### Artículo 57.
 
@@ -989,6 +1075,8 @@ La Secretaría promoverá los convenios con las autoridades competentes para que
 
 ## TÍTULO NOVENO. DE LAS SANCIONES Y RECURSO DE RECONSIDERACIÓN
 
+### CAPÍTULO I. De las Sanciones
+
 ###### Artículo 60.
 
 Corresponde a la Secretaría vigilar el cumplimiento de las disposiciones de esta Ley y su Reglamento, así como imponer las sanciones que resulten aplicables.
@@ -1004,6 +1092,8 @@ Los infractores se harán acreedores a las siguientes sanciones:
 I.- Multa de 25 a 100 veces el valor diario de la Unidad de Medida y Actualización, por el incumplimiento a lo dispuesto en el Artículo 40 fracciones I, II y IV; y
 
 II.- Suspensión de 15 días naturales por el incumplimiento de las obligaciones establecidas en el Artículo 40 fracciones VIII y IX.
+
+### CAPÍTULO II. Del Recurso de Reconsideración
 
 ###### Artículo 62.
 
@@ -1166,3 +1256,21 @@ B.O. 31 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2956 SE ADICIONA UNA FRACCIÓN XI BIS A LOS ARTÍCULOS 5 Y 7 DE LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
 
 Único. - El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 3289 SE REFORMA EL INCISO B) DE LA FRACCIÓN XXIII Y SE ADICIONA LA FRACCIÓN XXII BIS AL ARTÍCULO 5; SE ADICIONA UN CAPÍTULO VII DENOMINADO "DEL TURISMO COMUNITARIO" AL TÍTULO TERCERO; Y SE REFORMA LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 27 DE LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. En un plazo no mayor a ciento veinte días naturales a partir de la entrada en vigor del presente Decreto, la Secretaría de Turismo deberá realizar las adecuaciones necesarias al Programa Estatal de Turismo e incluir una línea específica de fomento al turismo comunitario.
+
+TERCERO. En un plazo no mayor a ciento ochenta días naturales, la Secretaría deberá emitir los lineamientos para la integración y funcionamiento del Registro Estatal de Iniciativas de Turismo Comunitario.
+
+CUARTO. Se faculta a la Secretaría para que, en coordinación con el Instituto Sudcaliforniano de Cultura, universidades públicas y organizaciones comunitarias, diseñe esquemas de certificación y evaluación participativa en esta modalidad turística.
+
+B.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 3290 SE ADICIONA UNA FRACCIÓN XXXIII AL ARTÍCULO 5; SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 27; Y SE ADICIONA UN CAPÍTULO DENOMINADO “DEL TURISMO REGENERATIVO” A LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
