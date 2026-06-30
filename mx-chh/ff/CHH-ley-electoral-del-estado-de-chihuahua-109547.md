@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-109547"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-22"
-last_updated: "2024-01-10"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2026.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2015.
 
@@ -102,6 +102,14 @@ Artículo 3
 La aplicación de las normas y procedimientos contenidos en esta Ley corresponde al Instituto Nacional Electoral, al Instituto Estatal Electoral, al Tribunal Estatal Electoral y al Congreso del Estado en sus respectivos ámbitos de competencia. Tales instancias deberán garantizar los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad de género, en el ejercicio de los derechos políticos y electorales, así como el respeto a los derechos humanos de las mujeres.
 
 La interpretación de esta Ley se hará conforme a los criterios gramatical, sistemático y funcional, y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Local, favoreciendo en todo tiempo a las personas con la protección más amplia, incluida la paridad de género. A falta de disposición expresa, se aplicarán los principios generales del derecho, de acuerdo con lo dispuesto en el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+En el uso de su facultad reglamentaria, los acuerdos generales, lineamientos, reglamentos y resoluciones que emita el Consejo Estatal del Instituto Estatal Electoral y demás autoridades electorales deberán sujetarse estrictamente a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Chihuahua y la Ley. En ningún caso podrán establecer requisitos, restricciones, modalidades, condiciones, cargas, obligaciones o supuestos adicionales a los expresamente previstos en la Ley, sin innovar el orden jurídico, regular materias reservadas al legislador, modificar el alcance de los derechos y obligaciones previstos en la Ley, ni establecer mecanismos, procedimientos o modalidades que alteren las condiciones para el ejercicio de los derechos político–electorales o el registro de candidaturas previstas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+Para la interpretación y aplicación de las normas previstas en materia electoral, los órganos del Estado deberán atenerse a su literalidad, quedando prohibida cualquier interpretación análoga o extensiva que pretenda inaplicar, suspender, modificar o hacer nugatorios sus términos o su vigencia, ya sea de manera total o parcial. Así mismo, deberán respetar la autodeterminación y autoorganización de los partidos políticos, sus determinaciones y sus procesos internos de selección de candidaturas, sin que puedan sustituir, modificar, condicionar o intervenir en sus decisiones internas, salvo para verificar el cumplimiento objetivo y formal de los requisitos expresamente establecidos en la Ley.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -355,9 +363,9 @@ Artículo 7
 
 1) Son impedimentos para votar:
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-a) Estar bajo proceso penal por delito sancionado con pena privativa de la libertad. El impedimento surtirá efectos, si existe prisión preventiva y auto de vinculación a proceso.
+a) Cuando en una sentencia condenatoria firme, se dicte una pena privativa de la libertad por delito doloso.
 
 b) Estar compurgando sentencia que haya impuesto pena privativa de la libertad;
 
@@ -405,21 +413,15 @@ f) No tener antecedentes penales por violencia familiar, delitos contra la intim
 
 2) En relación con la exigencia de separación del cargo público, prevista en las normas constitucionales o legales correspondientes, se entenderá que es efectiva a partir de la formal presentación de la solicitud de licencia ante el órgano competente.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
 
-En el caso de quienes ocupen los cargos de diputadas o diputados que pretendan reelegirse podrán optar por separarse o no de su cargo.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
 
-Quienes pretendan reelegirse en el cargo de titular de la Presidencia Municipal y de la Sindicatura podrán optar por separarse o no de su cargo.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-Por lo que respecta a quienes ocupen los cargos de regidoras o regidores y pretendan reelegirse podrán optar por separarse o no de su cargo.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-3) Ninguna persona podrá ser registrada como candidata a distintos cargos de elección popular en el mismo proceso electoral; exceptuando el caso de que se registre a una misma persona como candidata al cargo de diputada o diputado por ambos principios de elección.
+3) Ninguna persona podrá ser registrada como candidata a distintos cargos de elección popular en el mismo proceso electoral; con excepción de los casos en que una misma persona sea registrada simultáneamente como candidata al cargo de diputada o diputado por ambos principios de elección, así como cuando sea registrada como candidata a la Presidencia Municipal y, de manera concurrente, a una regiduría por el principio de representación proporcional del mismo ayuntamiento.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
@@ -457,17 +459,13 @@ Artículo 11
 
 4) El Congreso del Estado se renovará en su totalidad cada tres años.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2026)</small>
 
-5) Las diputadas y diputados podrán ser electos hasta por un periodo adicional, en los términos que señale la Constitución Política del Estado y observando lo siguiente:
+5) Las diputadas y diputados suplentes podrán ser electos para el periodo inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes, en los términos que señale la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+a) (DEROGADO, P.O. 30 DE JUNIO DE 2026)
 
-a) La postulación y solicitud de registro solo podrá ser realizada por el mismo partido que haya hecho su postulación previamente, o bien, por cualquiera de los partidos de la coalición o candidatura común cuando así se hayan postulado previamente, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-b) Tratándose de diputadas y diputados que se hayan elegido como candidatas o candidatos independientes solo podrán postularse para la reelección con la misma calidad con la que se eligieron.
+b) (DEROGADO, P.O. 30 DE JUNIO DE 2026)
 
 Artículo 12
 
@@ -479,29 +477,25 @@ Artículo 13
 
 1) Los ayuntamientos serán electos popular y directamente según el principio de mayoría relativa, durarán en su encargo tres años y estarán integrados por una presidencia, una sindicatura y el número de personas regidoras que determine la Ley. Los partidos políticos deberán garantizar el principio de paridad de género.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+Los ayuntamientos que conforme al último censo de población del Instituto Nacional de Estadística y Geografía tengan una población indígena igual o mayor al cuarenta por ciento se integrarán por una regiduría indígena; para ello los pueblos y comunidades indígenas deberán tener un órgano de gobierno el cual elegirán con respeto a sus Sistemas Normativos Internos y como expresión de su libre determinación. Estas regidurías deberán estar electas a más tardar el último día de agosto del año de la elección y se sumarán a las regidurías electas mediante los principios de mayoría relativa y de representación proporcional.
+
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
 2) Los ayuntamientos se integrarán conforme al principio de paridad de género, además, con el número de personas regidoras electas según el principio de representación proporcional, y la sindicatura, de acuerdo con las normas y procedimientos que señala esta Ley. Por cada persona candidata propietaria de los ayuntamientos, se elegirá una persona suplente del mismo género que la persona propietaria.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2026)</small>
 
-3) Las personas integrantes de los ayuntamientos podrán ser electas hasta por un periodo adicional, en los términos que señale la Constitución Política del Estado y observando lo siguiente:
+3) Las personas integrantes de los ayuntamientos, cuando tengan el carácter de propietarias, no podrán ser electas para el período inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el período inmediato como propietarias, a menos que hayan estado en ejercicio, en los términos que señale la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+a) (DEROGADO, P.O. 30 DE JUNIO DE 2026)
 
-a) La postulación y solicitud de registro solo podrá ser realizada por el mismo partido que haya hecho su postulación previamente, o bien, por cualquiera de los partidos de la coalición o candidatura común que hubiere hecho la postulación, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+b) (DEROGADO, P.O. 30 DE JUNIO DE 2026)
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+c) (DEROGADO, P.O. 30 DE JUNIO DE 2026)
 
-b) Tratándose de las personas que hayan sido electas como candidatas independientes solo podrán postularse para la reelección con la misma calidad con la que fueron electas.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-c) Las personas titulares de las presidencias municipales, de las sindicaturas y regidurías que pretendan la reelección deberán ser registradas para el municipio en que fueron electas previamente.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-d) Las personas que hayan ocupado los cargos de sindicatura o regiduría podrán ser postuladas en el periodo inmediato siguiente como personas candidatas a la presidencia municipal, sin que ello suponga reelección, pero quienes hayan ocupado el cargo de la presidencia municipal no podrán postularse como personas candidatas a la sindicatura o regiduría en el periodo inmediato siguiente.
+d) (DEROGADO, P.O. 30 DE JUNIO DE 2026)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
@@ -577,9 +571,9 @@ Artículo 17
 
 El incumplimiento de este precepto dará lugar a la negativa del registro de la referida lista, la que, en su caso, podrá subsanarse dentro del lapso de registro señalado para ese efecto.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-2) Para garantizar la pluralidad representativa en el Congreso del Estado, se asignará en una primera ronda una diputación integrando la paridad de género a cada partido político que haya obtenido por lo menos el 3% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación integrando la paridad de género a cada partido político que haya obtenido más del 5% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación integrando la paridad de género a cada partido político que haya obtenido más del 10% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación integrando la paridad de género a cada partido político que haya obtenido más del 20% de la votación estatal válida emitida. Si agotado este procedimiento, aún quedaren diputaciones por asignar, estas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos hasta agotar su totalidad, integrando la paridad de género.
+2) Para garantizar la pluralidad representativa en el Congreso del Estado, se asignará en una primera ronda una diputación integrando la paridad de género a cada partido político que haya obtenido por lo menos el 3% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación integrando la paridad de género a cada partido político que haya obtenido más del 5% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación integrando la paridad de género a cada partido político que haya obtenido más del 9% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación integrando la paridad de género a cada partido político que haya obtenido más del 20% de la votación estatal válida emitida. Si agotado este procedimiento, aún quedaren diputaciones por asignar, estas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos hasta agotar su totalidad, integrando la paridad de género.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -1659,7 +1653,13 @@ r) Publicar en el Periódico Oficial del Estado los reglamentos y acuerdos de ca
 
 s) Registrar la plataforma electoral que para cada proceso electoral deben presentar los partidos políticos, coaliciones y candidaturas independientes, en su caso, en los términos previstos en esta Ley.
 
-t) Registrar las candidaturas de las personas aspirantes a ocupar la titularidad de la Gubernatura del Estado y registrar las listas de las candidaturas a una diputación por el principio de representación proporcional y, en su caso, previo acuerdo general, establecer los mecanismos para recibir supletoriamente a las asambleas municipales los registros de las candidaturas en las demás elecciones.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2026)</small>
+
+t) Registrar las candidaturas de partidos políticos y candidaturas independientes a los cargos de gubernatura, diputaciones de mayoría relativa y de representación proporcional, integrantes de ayuntamientos y sindicaturas, conforme al procedimiento que determine, para lo cual podrá hacer uso de medios electrónicos, sin que estos medios sustituyan la posibilidad de los partidos políticos y sus candidaturas de realizar los registros de forma presencial a través de documentación física.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+En su caso, los partidos políticos de acuerdo a sus necesidades y autoorganización podrán hacer el registro supletorio de candidaturas en las Asambleas Municipales y Distritales del Instituto Estatal Electoral, previa autorización de su representante ante el Consejo Estatal.
 
 u) Aprobar y registrar los convenios de coalición para participar en procesos electorales estatales de conformidad con lo establecido en la Ley General de Partidos Políticos.
 
@@ -1749,7 +1749,9 @@ h) Proponer al Consejo Estatal el nombramiento de la persona a ocupar el cargo d
 
 i) Elaborar anualmente el anteproyecto de presupuesto del Instituto Estatal Electoral y, previa aprobación del Consejo Estatal, remitirlo a la persona titular del Poder Ejecutivo para que, sin modificación alguna, lo presente al Congreso.
 
-j) Recibir por sí misma o por conducto de la Secretaría Ejecutiva las solicitudes de registro de candidaturas a la Gubernatura del Estado y las listas de candidaturas a diputaciones por el principio de representación proporcional que se presenten.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+j) Recibir las solicitudes de registro de candidaturas a cargos de Gubernatura del Estado, diputaciones de mayoría relativa y de representación proporcional, integrantes de ayuntamientos y sindicaturas que se presenten, a través de los medios físicos y electrónicos que el Consejo Estatal disponga.
 
 k) Vigilar la entrega a las asambleas municipales de la documentación aprobada, útiles y demás elementos necesarios para el desempeño de sus funciones.
 
@@ -2167,9 +2169,9 @@ h. No haber recibido inhabilitación para ejercer cargos públicos en cualquier 
 
 i. No estar desempeñando ni haber desempeñado cargo público con facultades de mando en cualquiera de los tres órdenes de gobierno, durante los tres años previos a la designación.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-j. No ser, ni haber sido integrante del Servicio Profesional Electoral Nacional durante el último proceso electoral en la entidad.
+j. Acreditar preferentemente habilidades gerenciales, experiencia y conocimientos básicos en materia electoral.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -2184,6 +2186,10 @@ Las personas integrantes de las asambleas municipales del proceso electoral inme
 Artículo 80
 
 1. Las asambleas municipales deberán estar integradas e instaladas a más tardar el día quince de enero del año de la elección.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+Desde la instalación de las Asambleas, sus integrantes recibirán capacitación y formación permanente respecto del desarrollo de sus funciones por las autoridades electorales que correspondan.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -2225,17 +2231,17 @@ Artículo 83
 
 1. Las asambleas municipales tendrán las siguientes atribuciones y deberes:
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-a. Registrar a las candidatas y candidatos a integrar los ayuntamientos y sindicaturas, así como de fórmulas de diputaciones de mayoría relativa, cuando en razón de competencia, tengan a su cargo la elección.
+a. Registrar a las candidatas y candidatos a integrar los ayuntamientos y sindicaturas, así como de fórmulas de diputaciones de mayoría relativa, cuando así lo soliciten los partidos políticos.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 b. Fijar la lista nominal de electores correspondiente al municipio, ordenada alfabéticamente y por secciones, durante el tiempo establecido para su exhibición, en las oficinas de la asamblea municipal y en los lugares y edificios de gobierno de mayor acceso público, que se determine.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-c. Recibir y resolver las solicitudes de registro de candidatas y candidatos.
+c. Recibir las solicitudes de registro de candidatas y candidatos, presentadas por los partidos políticos.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -2460,6 +2466,18 @@ Artículo 92 (DEROGADO, P.O. 1 DE JULIO DE 2020)
 Artículo 93
 
 El proceso electoral ordinario iniciará el día primero del mes de octubre del año previo al de la elección, con la sesión de instalación del Consejo Estatal del Instituto Estatal Electoral, y concluye con la etapa de declaración de validez y la entrega de constancias de mayoría y validez; o en su caso, con la resolución que emita en última instancia el Tribunal Estatal Electoral o el Tribunal Electoral del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+A más tardar en la primera semana posterior a la sesión de instalación del Consejo Estatal del Instituto Estatal Electoral, este deberá emitir los lineamientos, acuerdos generales y criterios operativos necesarios para el registro de candidaturas garantizando el cumplimiento de las reglas de paridad de género, acciones afirmativas, bloques de competitividad y demás documentos necesarios para el correcto desarrollo del proceso electoral correspondiente, tal como se establecen en esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+Los lineamientos, acuerdos generales y criterios operativos que emita el Consejo Estatal del Instituto Estatal Electoral deberán sujetarse estrictamente a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Chihuahua y esta Ley. En ningún caso podrán crear requisitos, restricciones, modalidades, condiciones, cargas, obligaciones o supuestos adicionales a los expresamente previstos en la Ley, sin innovar el orden jurídico, regular materias reservadas al legislador, modificar el alcance de los derechos y obligaciones previstos en la ley, ni establecer mecanismos, procedimientos o modalidades que alteren las condiciones para el ejercicio de los derechos político-electorales o el registro de candidaturas previstas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+En la emisión, interpretación y aplicación de dichos lineamientos, acuerdos y criterios, el Instituto Estatal Electoral deberá respetar la autodeterminación y autoorganización de los partidos políticos, así como sus procesos internos de selección de candidaturas, sin que pueda sustituir, modificar, condicionar o intervenir en sus decisiones internas, salvo para verificar el cumplimiento objetivo y formal de los requisitos expresamente establecidos en la Constitución y en esta Ley.
 
 Artículo 94
 
@@ -2705,6 +2723,36 @@ Artículo 104
 
 2) Los partidos políticos promoverán en los términos del presente ordenamiento, la igualdad de oportunidades y garantizarán la paridad de género en la vida política del Estado, a través de la postulación a cargos de elección popular en el Congreso del Estado y ayuntamientos, tanto de mayoría relativa como de representación proporcional. En ningún caso se admitirán criterios que tengan como resultado que a algún género le sean asignados exclusivamente aquellos distritos o municipios en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+En la postulación de candidaturas al Congreso del Estado, los partidos políticos, coaliciones y candidaturas comunes deberán registrar en total una fórmula de mayoría relativa en un Distrito y una de representación proporcional correspondientes a personas indígenas; así como un total de una postulación para acciones afirmativas que correspondan a una fórmula de mayoría relativa o de representación proporcional, que representen a los grupos de personas de la diversidad sexual o con discapacidad permanente. Lo anterior, en concordancia con los principios de autodeterminación y autoorganización partidista.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 30 DE JUNIO DE 2026)</small>
+
+Para el registro de candidaturas se deberá acreditar lo siguiente:
+
+a) Indígenas:
+
+i) Manifestación de la persona en la solicitud de registro.
+
+ii) Carta de autoadscripción calificada.
+
+iii) Constancia de adscripción calificada indígena expedida por una autoridad existente en la comunidad o población indígena, a la que pertenece y por la cual pretende postularse.
+
+b) Personas con discapacidad permanente:
+
+i) Manifestación de la persona en la solicitud de registro.
+
+ii) Certificación médica en original, expedida por una institución de salud que dé cuenta fehaciente de la existencia de la discapacidad permanente.
+
+c) Personas de la diversidad sexual:
+
+i) Manifestación de la persona en la solicitud de registro.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+En la postulación de candidaturas para regidurías de los ayuntamientos, los partidos políticos, coaliciones y candidaturas comunes deberán postular un dos por ciento del total de las regidurías en el Estado que efectivamente registren para acciones afirmativas, las cuales corresponden a fórmulas integradas por personas de la diversidad sexual o con discapacidad permanente, ya sea de mayoría relativa o de representación proporcional. Ello, en concordancia con los principios de autodeterminación y autoorganización partidista, y de manera independiente a la elección de las personas indígenas por sistemas normativos internos que determine esta Ley.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2023)</small>
 
 3) En la elección de diputaciones de mayoría relativa se preverán tres bloques, con la finalidad de evitar que a algún género le sean asignados distritos en los que el partido político haya obtenido los porcentajes de votación más bajos, considerando el proceso electoral local anterior, los partidos políticos deberán obtener un factor de competitividad electoral, el cual resultará del siguiente procedimiento:
@@ -2757,17 +2805,35 @@ La paridad transversal en la postulación de candidaturas para los ayuntamientos
 
 Los partidos políticos, coaliciones y candidaturas comunes deberán obtener un factor de competitividad electoral, el cual resultará del siguiente procedimiento:
 
-I. Por cada municipio se deberá identificar el resultado de la votación total de los últimos tres procesos electorales. Al resultado anterior, se le restarán los votos nulos y los votos de las candidaturas no registradas, para obtener la votación total emitida del municipio.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2026)</small>
 
-II. Por cada partido político se debe identificar el resultado de votación obtenida en cada uno de los municipios en los últimos tres procesos electorales. En caso de que algún partido político no hubiese postulado candidaturas en algún municipio en alguno de los tres últimos procesos electorales anteriores, la votación se tomará como cero.
+I. Por cada municipio se deberá identificar el resultado de la votación total del proceso electoral ordinario anterior, o de los dos anteriores, o de hasta los tres anteriores, según opte el partido político, coalición o candidatura común. Al resultado anterior, se le restarán los votos nulos y los votos de las candidaturas no registradas, para obtener la votación total emitida del municipio. La votación que se determine utilizar deberá corresponder al mismo o a los mismos procesos electorales y será uniforme para todos los municipios y para cualquier forma de postulación de candidaturas dentro del mismo proceso electoral.
 
-III. Identificados los resultados anteriores se procederá a dividir el resultado de la fracción II entre el resultado de la fracción I, lo que resulte se multiplicará por cien, para obtener el porcentaje de votación por partido político en el municipio de cada uno de los últimos tres procesos electorales.
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+La opción elegida por el partido político, coalición o candidatura común deberá hacerse del conocimiento del Instituto Estatal Electoral al momento del registro de candidaturas y no podrá modificarse con posterioridad.
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
+
+II. Por cada partido político se debe identificar el resultado de votación obtenida en cada uno de los municipios en el o en los procesos electorales que hayan sido elegidos conforme a la fracción anterior. En caso de que algún partido político no hubiese postulado candidaturas en algún municipio en alguno de los procesos electorales seleccionados, la votación se tomará como cero.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
+
+III. Identificados los resultados anteriores se procederá a dividir el resultado de la fracción II entre el resultado de la fracción I, lo que resulte se multiplicará por cien, para obtener el porcentaje de votación por partido político en el municipio de cada uno de los procesos electorales seleccionados conforme a la fracción I.
 
 Para el caso de los partidos políticos que concurran a la elección mediante un convenio de asociación electoral, los resultados de votación se deberán sumar como si se tratara de un solo partido político, para obtener el porcentaje de votación de la asociación electoral.
 
-IV. El factor de competitividad del partido político se obtendrá del promedio de la suma de los resultados obtenidos en la fracción III. Esta regla se aplicará a cualquier forma de asociación electoral para determinar el factor de competitividad de la coalición o candidatura común.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-V. Realizado el procedimiento anterior, con la finalidad de obtener tres bloques de municipios con alta, media y baja competitividad electoral, por cada partido político o coalición se ordenará en orden decreciente el factor de competitividad electoral obtenido en la fracción IV anterior en cada municipio.
+IV. El factor de competitividad del partido político se obtendrá del promedio de la suma de los resultados obtenidos en la fracción III, tomando en cuenta únicamente el o los procesos electorales elegidos conforme a la fracción I. Esta regla se aplicará a cualquier forma de asociación electoral para determinar el factor de competitividad de la coalición o candidatura común.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2026)</small>
+
+V. Realizado el procedimiento anterior, conforme al criterio elegido en la fracción I del presente numeral, y con la finalidad de obtener tres bloques de municipios con alta, media y baja competitividad electoral, por cada partido político, coalición o candidatura común se ordenará en orden decreciente el factor de competitividad electoral obtenido en la fracción IV anterior en cada municipio.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+El criterio elegido deberá aplicarse de manera uniforme a la totalidad de las postulaciones correspondientes a la elección de ayuntamientos y sindicaturas.
 
 VI. Realizado el procedimiento anterior, con la finalidad de obtener tres bloques de municipios con alta, media y baja competitividad electoral, los bloques se conformarán de la siguiente manera:
 
@@ -2815,9 +2881,9 @@ Artículo 106
 
 4) En las solicitudes de registro de las candidaturas a diputaciones por ambos principios que se presenten por partidos políticos o coaliciones ante el Instituto Estatal Electoral, se deberá cumplir con lo previsto por los artículos 15, 16 y 17, de esta Ley en cuanto al principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
 
-5) Las candidaturas a integrantes de los ayuntamientos se registrarán ante la asamblea municipal respectiva, por planillas conformadas cada una por una persona titular de la presidencia municipal y el número de regidurías que determine el Código Municipal, todas con su respectiva persona suplente, ante la asamblea municipal correspondiente. Las planillas no podrán contener más del 50% de un mismo género de candidaturas propietarias, porcentaje que no aplica a las personas suplentes. En las planillas se aplicará el principio de alternancia de género en el registro de propietarias iniciando por quien encabece la candidatura a la Presidencia Municipal hasta agotar el número de regidurías que correspondan. Para los cargos de suplencia deberá guardarse el mismo porcentaje, género y orden.
+5) Las candidaturas a integrantes de los ayuntamientos se registrarán ante el órgano que corresponda, por planillas conformadas cada una por una persona titular de la presidencia municipal y el número de regidurías que determine el Código Municipal, todas con su respectiva persona suplente, ante el órgano que corresponda. Las planillas no podrán contener más del 50% de un mismo género de candidaturas propietarias, porcentaje que no aplica a las personas suplentes. En las planillas se aplicará el principio de alternancia de género en el registro de propietarias iniciando por quien encabece la candidatura a la Presidencia Municipal hasta agotar el número de regidurías que correspondan. Para los cargos de suplencia deberá guardarse el mismo porcentaje, género y orden.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2023)</small>
 
@@ -2831,31 +2897,47 @@ I. Cada uno de los partidos políticos y candidaturas independientes deberá reg
 
 II. En caso de mediar convenio de coalición o de candidatura común, para las candidaturas que integran la planilla de mayoría relativa, se deberá especificar el partido de origen de cada una de las candidaturas.
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-III. Las listas de representación proporcional de las candidaturas a regidurías se compondrán por el número que se establece en el artículo 191, numeral 1, inciso a) de esta Ley, para cada uno de los casos.
+III. Las listas de representación proporcional de las candidaturas a regidurías, se compondrán por el número que se establece en el artículo 191 de esta Ley.
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2026)</small>
 
-IV. Las candidaturas que integren la lista de representación proporcional pueden ser iguales que las postuladas mediante la planilla de mayoría relativa hasta en un cuarenta y cinco por ciento, de acuerdo con lo que determine cada partido político o candidatura independiente. Esta lista será utilizada en todos los casos para la asignación de las regidurías de representación proporcional y en caso de que la asignación corresponda a una fórmula de la lista de representación proporcional que ya estuviera integrada en la mayoría relativa, la asignación se recorrerá a la fórmula siguiente en el orden de la propia lista atendiendo el principio de paridad de género. En ningún caso los partidos políticos tendrán un número de regidurías por ambos principios que exceda el que establece el Código Municipal para el Estado de Chihuahua, en su artículo 17, fracciones I a IV.
+IV. Esta lista será utilizada en todos los casos para la asignación de las regidurías de representación proporcional y en caso de que la asignación corresponda a una fórmula de la lista de representación proporcional que ya estuviera integrada en la mayoría relativa, la asignación se recorrerá a la fórmula siguiente en el orden de la propia lista atendiendo el principio de paridad de género. En ningún caso los partidos políticos tendrán un número de regidurías por ambos principios que exceda el que establece el Código Municipal para el Estado de Chihuahua, en su artículo 17, fracciones I a IV por el principio de mayoría relativa, asimismo se establece un tope de sobrerrepresentación del diez por ciento.
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-V. Para garantizar la integración paritaria del ayuntamiento, las listas de representación proporcional de regidurías deberán iniciar con género distinto al de la primera fórmula de regiduría de la planilla de mayoría.
+Los partidos políticos y candidaturas independientes podrán optar por registrar en su lista de representación proporcional a la fórmula que hayan registrado para el cargo de Presidencia Municipal.
 
-El principio de paridad para integrar el Ayuntamiento se verificará al final de la asignación; así, en caso de que en la integración final se rompa con este principio, el espacio deberá asignarse a la última asignación que corresponda.
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 30 DE JUNIO DE 2026)</small>
+
+Las fórmulas de candidaturas registradas en la planilla podrán también registrarse en la lista de representación proporcional dentro de los siguientes límites:
+
+a) En los municipios con ayuntamientos integrados por nueve regidurías por el principio de mayoría relativa, se podrán registrar hasta cuatro fórmulas repetidas.
+
+b) En los municipios con ayuntamientos integrados por ocho regidurías por el principio de mayoría relativa, se podrán registrar hasta tres fórmulas repetidas.
+
+c) En los municipios con ayuntamientos integrados por siete regidurías por el principio de mayoría relativa, se podrán registrar hasta tres fórmulas repetidas.
+
+d) En los municipios con ayuntamientos integrados por cinco regidurías por el principio de mayoría relativa, se podrán registrar hasta dos fórmulas repetidas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
+
+V. Los partidos políticos y candidaturas independientes decidirán libremente el género que encabezará las planillas de mayoría relativa y las listas de representación proporcional. La elección del género en una de ellas no condicionará el de la otra.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2023)</small>
 
-Las planillas que estén en los supuestos de reelección podrán integrarse con nuevas personas, y deberán garantizar el principio de paridad de género.
+El principio de paridad para integrar el Ayuntamiento se verificará al final de la asignación; así, en caso de que en la integración final se rompa con este principio, el espacio deberá asignarse a la última asignación que corresponda.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
 
-6) De los 67 ayuntamientos de la Entidad, 33 candidaturas a la presidencia municipal deberán ser de un género y 34 del género distinto, excepto cuando haya mujeres que tengan posibilidad de reelegirse, en cuyo caso podrá ser mayor el número de mujeres. Esta regla se aplicará a las personas suplentes, la fórmula debe ser del mismo género.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
+6) De los 67 ayuntamientos de la Entidad, 33 candidaturas a la presidencia municipal deberán ser de un género y 34 del género distinto. Esta regla se aplicará a las personas suplentes, la fórmula debe ser del mismo género. Cuando la candidatura propietaria sea de género masculino, su suplente podrá ser de cualquier género; si la propietaria fuera de género femenino, su suplente deberá ser del mismo género.
 
-7) Las candidaturas a sindicaturas se registrarán ante la asamblea municipal respectiva, por fórmulas con una persona propietaria y una persona suplente del mismo género. De los 67 ayuntamientos de la Entidad, 33 candidaturas a sindicaturas deberán ser de un género y 34 del género distinto, además de cumplir con lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
+
+7) Las candidaturas a sindicaturas se registrarán ante el órgano correspondiente, por fórmulas con una persona propietaria y una persona suplente del mismo género. De los 67 ayuntamientos de la Entidad, 33 candidaturas a sindicaturas deberán ser de un género y 34 del género distinto, además de cumplir con lo siguiente:
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -2900,6 +2982,10 @@ a) Del 12 al 22 del mes de marzo, tratándose de las personas aspirantes a ocupa
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 b) Dentro de un plazo del 12 al 22 del mes de abril, tratándose de candidaturas a diputaciones por el principio de mayoría relativa y representación proporcional, integrantes de los ayuntamientos y sindicaturas.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+El Consejo Estatal del Instituto Estatal Electoral podrá ajustar los plazos correspondientes a la etapa de registro de candidaturas a fin de adecuarlos cronológicamente a las demás disposiciones del presente ordenamiento.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -2967,9 +3053,9 @@ Artículo 113
 
 2) Las decisiones de las asambleas municipales serán revisables ante el Consejo Estatal, a petición de los partidos políticos o coaliciones y de las personas candidatas, el cual deberá resolver en un plazo no mayor de tres días. La resolución recaída será apelable ante el Tribunal Estatal Electoral, el cual emitirá una determinación final en un plazo máximo de siete días.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-3) En caso de que se hubiera optado por el registro supletorio y el Consejo Estatal haya resuelto sobre el registro de las candidaturas respectivas, dicha resolución será apelable ante el Tribunal Estatal Electoral, el cual deberá resolver en un plazo máximo de siete días.
+3) Las resoluciones de registro de candidaturas emitidas por el Consejo Estatal serán apelables ante el Tribunal Estatal Electoral, el cual deberá resolver en un plazo máximo de siete días.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -3105,9 +3191,9 @@ Artículo 123
 
 1) La propaganda y mensajes que en el curso de las precampañas y campañas electorales difundan los partidos políticos se ajustarán a lo dispuesto por el primer párrafo del artículo 6o. de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-2) En la propaganda política o electoral que realicen los partidos políticos, las personas precandidatas y candidatas, deberán abstenerse de expresiones que calumnien a las personas, discriminen, así como de plasmar y difundir cualquier mensaje cuyo contenido entrañe violencia política en contra las mujeres en razón de género. El Consejo Estatal está facultado para ordenar, una vez satisfechos los procedimientos establecidos en esta Ley, el retiro de cualquiera propaganda que incurra en estas violaciones, diferente a la difundida en radio y televisión, incluyendo el ofrecimiento de una disculpa pública por parte de la persona agresora, con la finalidad de contribuir a reparar el daño causado.
+2) En la propaganda política o electoral que realicen los partidos políticos, coaliciones, candidaturas comunes, personas precandidatas, candidatas y candidaturas independientes, deberán abstenerse de expresiones que calumnien a las personas, discriminen, así como de plasmar y difundir cualquier mensaje cuyo contenido entrañe violencia política en contra de las mujeres en razón de género. El Consejo Estatal está facultado para ordenar, una vez satisfechos los procedimientos establecidos en esta Ley, el retiro de cualquier propaganda que incurra en estas violaciones, diferente a la difundida en radio y televisión, incluyendo el ofrecimiento de una disculpa pública por parte de la persona agresora, con la finalidad de contribuir a reparar el daño causado.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -4235,23 +4321,75 @@ I. Administrativo: Aquel que esté a cargo del Consejo Estatal y las asambleas m
 
 II. Jurisdiccional: Aquel que esté a cargo del Tribunal Estatal Electoral.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+Artículo 180 BIS
+
+1) La Presidencia de la Asamblea Municipal convocará a las y los integrantes de la misma, a reunión de trabajo que deberá celebrarse a las 10:00 horas del martes siguiente al día de la Jornada Electoral, así como a sesión extraordinaria al término de dicha reunión. Simultáneamente convocará a la sesión de cómputo del miércoles siguiente.
+
+2) En esta reunión de trabajo, las representaciones presentarán sus copias de las actas de escrutinio y cómputo de casilla, con el objeto de identificar las que no sean legibles y las faltantes. La Presidencia ordenará la expedición, en su caso, de copias simples impresas o en medios electrónicos, de las actas ilegibles o faltantes a cada representante, las cuales deberán ser entregadas el mismo día.
+
+3) Lo dispuesto en el numeral anterior no será obstáculo para que, en ejercicio de sus derechos, las representaciones soliciten copias simples de la totalidad de las actas de las casillas instaladas. En ese caso, la Presidencia garantizará, en primer término, que cada una de las representaciones acreditadas cuente con un juego completo de actas legibles para fines de verificación de datos durante el desarrollo de los cómputos distritales e inmediatamente después, atenderá otras solicitudes.
+
+4) En la reunión de trabajo se deberán abordar, por lo menos, los siguientes asuntos:
+
+a) Presentación del conjunto de actas de escrutinio y cómputo de la elección de que se trate, para consulta de los representantes.
+
+b) Complementación de las actas de escrutinio y cómputo faltantes a cada representación de partido político y de candidatura independiente.
+
+c) Presentación de un informe de la Presidencia de la Asamblea que contenga un análisis preliminar sobre la clasificación de los paquetes electorales con y sin muestras de alteración; de las actas de casilla que no coincidan; de aquellas en que se detectaran alteraciones, errores o inconsistencias evidentes en los distintos elementos de las actas; de aquellas en las que no exista en el expediente de casilla ni obre en poder de la Presidencia el acta de escrutinio y cómputo; y en general, de aquellas en las que exista causa para determinar la posible realización de un nuevo escrutinio y cómputo. El informe debe incluir un apartado sobre la presencia o no del indicio consistente en una diferencia igual o menor al uno por ciento en los resultados correspondientes a los lugares primero y segundo de la votación, como requisito para el recuento total de votos.
+
+d) En su caso, presentación por parte de las representaciones, de su propio análisis preliminar sobre los rubros a que se refiere el inciso inmediato anterior, sin perjuicio que puedan realizar observaciones y propuestas al efectuado por la Presidencia. Lo dispuesto en los dos incisos inmediatos anteriores, no limita el derecho de las y los integrantes de la Asamblea a presentar sus respectivos análisis durante el desarrollo de la sesión de cómputos.
+
+e) Concluida la presentación de los análisis por parte de las y los integrantes de la Asamblea, la Presidencia someterá a consideración de la Asamblea, su informe sobre el número de casillas que serían, en principio, objeto de nuevo escrutinio y cómputo, así como las modalidades de cómputo que tendrán que implementarse al día siguiente en la sesión especial, con base en el número de paquetes para recuento. Derivado del cálculo anterior, la aplicación de la fórmula para la estimación preliminar de los grupos de trabajo y, en su caso, de los puntos de recuento necesarios.
+
+f) Revisión del acuerdo aprobado por la propia Asamblea como producto del proceso de planeación y previsión de escenarios, de los espacios necesarios para la instalación de los grupos de trabajo estimados según el contenido del inciso anterior.
+
+g) Análisis y determinación del personal que participará en los grupos para el recuento de los votos, y del total de representantes de partido y de candidaturas independientes que podrán acreditarse conforme el escenario previsto. Dicho personal será propuesto por la Presidencia, y aprobado por la Asamblea, al menos un mes antes de la Jornada Electoral para su oportuna y debida capacitación.
+
+h) La determinación del número de personas supervisoras electorales y capacitadoras electorales que apoyarán durante el desarrollo de los cómputos.
+
+i) Las directrices y condiciones para la acreditación, acceso y abasto mínimo vital de las representaciones de los partidos políticos y candidaturas independientes en los grupos de trabajo y las mesas de cómputo y recuento.
+
+5) La Secretaría de la Asamblea deberá levantar desde el inicio un acta que deje constancia de las actividades desarrolladas en la reunión de trabajo, misma que será firmada al margen y al calce por todos aquellos que intervinieron y así quisieron hacerlo y, en caso contrario, se asentará razón de ello. Asimismo, agregará los informes que presente la Presidencia de la Asamblea, así como los análisis preliminares que, en su caso, presenten los representantes.
+
 Artículo 181
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
 1) Las asambleas municipales celebrarán sesión a las 8:00 horas del miércoles siguiente al día de la elección, para hacer el cómputo de la votación de las elecciones de Gobernadora o Gobernador, diputadas o diputados por el principio de mayoría relativa, ayuntamiento y síndica o síndico, que correspondan a la circunscripción municipal, formulándose las actas respectivas.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-2) Una vez concluidos los cómputos de la elección de Gobernadora o Gobernador y diputadas o diputados por el principio de mayoría relativa, se remitirán al Consejo Estatal y a la asamblea municipal que sea cabecera distrital las actas según corresponda.
+El cómputo distrital o municipal para las elecciones de Gobernadora o Gobernador deberá concluir a más tardar el viernes siguiente al día de la elección.
 
-3) Concluido el cómputo de la elección de ayuntamiento, inmediatamente la asamblea municipal hará la declaración de validez de la elección y la entrega de la constancia de mayoría y validez a la planilla que haya resultado triunfante.
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-4) Concluido el cómputo de la elección de síndico, inmediatamente la asamblea municipal hará la declaración de validez de la elección y la entrega de la constancia de mayoría y validez.
+El cómputo distrital para las elecciones de diputadas o diputados por el principio de mayoría relativa deberá concluir a más tardar el domingo siguiente al día de la elección.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-5) El Consejo Estatal y las asambleas municipales que sean cabecera distrital, celebrarán sesión a las 8:00 horas del viernes siguiente al día de la elección, para hacer el cómputo de las elecciones de Gobernadora o Gobernador y diputadas o diputados por el principio de mayoría relativa, respectivamente, en base a las actas recibidas. En caso de que las asambleas municipales no hubiesen concluido los cómputos que correspondan a la circunscripción municipal y, por tanto, no se cuente con las actas respectivas, se instalará la sesión en espera de las mismas.
+El cómputo municipal de la votación de las elecciones de ayuntamiento y sindicatura deberá concluir a más tardar el segundo miércoles siguiente al día de la elección.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+2) Una vez concluidos los cómputos de la elección de Gobernadora o Gobernador y diputadas o diputados por el principio de mayoría relativa, se remitirán de inmediato al Consejo Estatal y a la asamblea municipal que sea cabecera distrital las actas según corresponda.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+3) Concluido el cómputo de la elección de ayuntamiento, inmediatamente la asamblea municipal hará la declaración de validez de la elección y la entrega de la constancia de mayoría y validez a la planilla que haya resultado triunfante, que será a más tardar el segundo miércoles siguiente al día de la elección.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+4) Concluido el cómputo de la elección de síndico, inmediatamente la asamblea municipal hará la declaración de validez de la elección y la entrega de la constancia de mayoría y validez, que será a más tardar el segundo miércoles siguiente al día de la elección.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2026)</small>
+
+5) El Consejo Estatal celebrará sesión de cómputo estatal de la elección de Gobernadora o Gobernador a las 8:00 horas del sábado siguiente al día de la elección y procederá a la entrega de la constancia de mayoría y validez de la elección.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+Las asambleas municipales que sean cabecera distrital, celebrarán sesión a las 8:00 horas del segundo lunes siguiente al día de la elección, para hacer el cómputo de las elecciones de diputadas o diputados por el principio de mayoría relativa, respectivamente, con base en las actas recibidas y proceder a la entrega de la constancia de mayoría y validez de la elección.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -4261,13 +4399,35 @@ Artículo 181
 
 7) Una vez concluido el cómputo de la elección de Gobernadora o Gobernador, el Consejo General hará la declaración de validez de la elección y, por conducto de la Consejera o Consejero Presidente, entregará la constancia de mayoría y validez a la candidata o candidato triunfador.
 
-8) Cada uno de los cómputos a los que se refiere el presente artículo, se realizarán sucesiva e ininterrumpidamente hasta su conclusión.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+8) Cada uno de los cómputos a los que se refiere el presente artículo, se realizarán sucesiva e ininterrumpidamente hasta su conclusión, sin la posibilidad de decretar recesos.
 
-9) Las asambleas municipales o, en su caso, el Consejo Estatal del Instituto Estatal Electoral, en sesión previa a la jornada electoral, podrán acordar que las consejeras o consejeros o funcionariado que integran dicho organismo participen en los trabajos de las sesiones de cómputo.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-10) El Consejo Estatal y las asambleas municipales del Instituto Estatal Electoral, deberán contar con los elementos humanos, materiales, técnicos y financieros, necesarios para la realización de los cómputos.
+9) El Consejo Estatal del Instituto Estatal Electoral, en sesión previa a la jornada electoral, acordará que todas las consejeras, consejeros y funcionariado que integran dicho organismo participen en los trabajos de las sesiones de cómputo.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+10) El Consejo Estatal y las asambleas municipales del Instituto Estatal Electoral, deberán prever, con la mayor anticipación posible, contar con inmuebles que tengan al menos las siguientes características: espacios amplios y distribuidos, accesibles, con ventilación e iluminación y servicios básicos, con los elementos humanos, materiales, técnicos y financieros, necesarios que garanticen la realización digna de los cómputos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+11) A efecto de dotar de certeza y eficientizar los cómputos municipales, el Consejo Estatal podrá apoyarse de mesas auxiliares de cómputo, en cuyo caso se deberá de emitir convocatoria pública a la ciudadanía para su integración.
+
+Las mesas auxiliares de cómputo únicamente podrán realizar los actos expresamente autorizados por las Asambleas Municipales. Las atribuciones de las Asambleas Municipales no son delegables, por lo que serán directamente responsables de los actos que realicen las mesas auxiliares de cómputo.
+
+Las mesas auxiliares de cómputo, bajo la vigilancia de las y los consejeros, los partidos políticos y candidaturas independientes, apoyarán a las Asambleas Municipales de conformidad con lo siguiente:
+
+a) Trasladar los paquetes electorales al lugar habilitado para tal efecto por la Asamblea Municipal.
+
+b) Realizar la digitalización de las actas de escrutinio y cómputo de la casilla, así como la concentración de las mismas.
+
+c) Generar los reportes para la reunión previa que habrá de celebrarse el martes siguiente al día de la elección.
+
+d) Apoyar en el cómputo municipal y los recuentos totales o parciales.
+
+e) Cumplir con las disposiciones y acuerdos que emita el Consejo Estatal y la Asamblea Municipal.
 
 Artículo 182
 
@@ -4415,53 +4575,93 @@ Una vez resueltos por el Tribunal Estatal Electoral los juicios de inconformidad
 
 Artículo 191
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
 
-1) La asignación de regidoras o regidores electos según el principio de representación proporcional, se sujetará tomando en cuenta la paridad de género en la designación de las regidurías para que el Ayuntamiento se integre de manera paritaria, de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, lo siguiente:
+1) Integración de los ayuntamientos. El número de regidurías por el principio de representación proporcional para la integración de los ayuntamientos se determinará conforme a las siguientes categorías establecidas en el Código Municipal para el Estado de Chihuahua:
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-a) En los municipios que contempla el artículo 17, fracción I, del Código Municipal, los ayuntamientos podrán tener adicionalmente nueve regidoras o regidores según el principio de representación proporcional; en los que refiere la fracción II del artículo citado, siete; en los que alude la fracción III, hasta cinco; y, hasta tres, en los restantes comprendidos en la fracción IV;
+a) A los ayuntamientos integrados por nueve regidurías por el principio de mayoría relativa, les serán asignados seis cargos por el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-b) Tendrán derecho a que les asignen regidurías de representación proporcional a los partidos y candidaturas independientes debidamente registradas, que hayan alcanzado por lo menos el 2% de la votación municipal válida emitida. La votación municipal válida emitida resultará de deducir de la votación municipal total emitida, los votos nulos y candidaturas no registradas. Para lo anterior, se entiende por votación municipal total emitida, el total de votos depositados en las urnas de la elección municipal del ayuntamiento que corresponda.
+b) A los ayuntamientos integrados por ocho regidurías por el principio de mayoría relativa, les serán asignados seis cargos por el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-c) Para la asignación de regidurías de representación proporcional, se le restará a la votación municipal válida emitida señalada en el inciso anterior, la votación obtenida por las planillas que no hayan alcanzado el 2% de la misma. La distribución se hará mediante rondas de asignación entre las planillas con derecho a ello, atendiendo al orden decreciente del porcentaje de votación obtenido. En una primera ronda se asignará una regiduría a cada planilla que haya obtenido por lo menos el 2% de la votación municipal válida emitida, precisada en los términos del presente inciso.
+c) A los ayuntamientos integrados por siete regidurías por el principio de mayoría relativa, les serán asignados cinco cargos por el principio de representación proporcional.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-d) Si varias planillas se colocaren en este supuesto, de manera que sobrepasen al número de regidurías de representación proporcional que al municipio correspondan, éstas se otorgarán atendiendo por riguroso orden, al número decreciente del porcentaje de votación obtenida por cada planilla.
+d) A los ayuntamientos integrados por cinco regidurías por el principio de mayoría relativa, les serán asignados tres cargos por el principio de representación proporcional.
 
-e) Si después de aplicado lo anterior, aún quedaren regidurías por repartir, la asignación por este principio se sujetará a una fórmula que aplicará los siguientes elementos:
+e) (DEROGADO, P.O. 30 DE JUNIO DE 2026)
 
-I. Cociente de unidad, y
+f) (DEROGADO, P.O. 30 DE JUNIO DE 2026)
 
-II. Resto mayor.
+g) (DEROGADO, P.O. 30 DE JUNIO DE 2026)
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2026)</small>
 
-f) Cociente de unidad, es el resultado de dividir la votación válida emitida en cada municipio a favor de los partidos o candidaturas independientes con derecho a participar en la distribución, entre el número de integrantes del ayuntamiento de representación proporcional a asignar en cada municipio.
+2) Variables del procedimiento. En la aplicación de las fórmulas de asignación se usarán los siguientes conceptos:
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-g) Resto mayor de votos, es el remanente más alto entre los restos de las votaciones de cada partido o candidatura independiente, una vez hecha la distribución de integrantes de ayuntamiento mediante cociente de unidad. El resto mayor se utilizará cuando aún hubiese integrantes por asignar.
+a) Votación Total: El total de votos depositados en las urnas para la elección del Ayuntamiento de que se trate.
 
-2) Para la aplicación de la formula anterior, se seguirá el procedimiento siguiente:
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
+b) Votación Válida Emitida: El resultado de deducir de la Votación Total los votos nulos y los votos a favor de candidaturas no registradas.
 
-a) Se determinarán las personas integrantes que se le asignarán a cada planilla, conforme al número de veces que contenga su votación el cociente de unidad. Las regidurías de asignación directa por haber obtenido el dos por ciento de la votación se deben descontar del cociente de unidad. Las regidurías asignadas a las planillas, tomando en cuenta la paridad de género en la designación de las regidurías para que el Ayuntamiento se integre de manera paritaria, de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y de conformidad con el supuesto contenido en el inciso c) del numeral 1 del presente artículo, corresponden al primer entero en los términos de este párrafo.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+c) Votación de Asignación: La cantidad que resulte de restar a la Votación Válida Emitida, la votación de los partidos políticos o candidaturas independientes que no hayan alcanzado el dos por ciento de la Votación Válida Emitida.
 
-b) La asignación de regidurías de representación proporcional se hará conforme al orden de la lista de candidaturas registradas por cada planilla, empezando por el primer lugar de la lista de candidatos a regidoras o regidores y, si después de aplicar el cociente de unidad quedaren cargos por asignar, se aplicará el resto mayor, siguiendo el orden decreciente de los votos no utilizados para cada una de las planillas en la asignación de los cargos del ayuntamiento, tomando en cuenta la paridad de género en la designación de las regidurías para que el Ayuntamiento se integre de manera paritaria, de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+d) Cociente de Unidad: El resultado de dividir la Votación de Asignación entre el número total de regidurías de representación proporcional a asignar en el municipio correspondiente.
 
-c) Serán regidoras o regidores propietarios y suplentes, según el principio de representación proporcional, tomando en cuenta la paridad de género en la designación de las regidurías para que el Ayuntamiento se integre de manera paritaria, de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y los que aparezcan en primer término con el carácter señalado en el registro que se autorice para la elección según el principio de votación de mayoría relativa.
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+e) Resto Mayor: El remanente más alto de votos que quede a cada partido político o candidatura independiente una vez hecha la distribución mediante el Cociente de Unidad.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+3) Requisito para acceder a la asignación. Tendrán derecho a participar en el procedimiento de asignación de regidurías por el principio de representación proporcional, los partidos políticos y candidaturas independientes que hayan alcanzado por lo menos el dos por ciento de la Votación Válida Emitida en el municipio correspondiente.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 30 DE JUNIO DE 2026)</small>
+
+4) Procedimiento de asignación. La autoridad electoral asignará las regidurías por el principio de representación proporcional conforme al orden de la lista registrada por cada partido político o candidatura independiente, mediante las siguientes rondas sucesivas:
+
+a) Primera ronda de asignación directa por umbral. Se asignará una regiduría a cada partido político o candidatura independiente que tenga derecho a participar en el procedimiento, siguiendo el orden decreciente de su votación. Si el número de partidos con derecho es igual o mayor al número de regidurías disponibles en el municipio, se distribuirán los cargos en riguroso orden decreciente hasta agotarlos.
+
+b) Segunda ronda de asignación por Cociente de Unidad. Si después de la primera ronda quedan regidurías por repartir, se determinará cuántas veces cabe el Cociente de Unidad en la votación de cada partido o candidatura independiente con derecho a asignación. Se otorgará a cada fuerza política tantas regidurías como enteros se obtengan de dicha operación. Las asignaciones se harán en orden decreciente de la votación recibida por cada partido político o candidatura independiente. La asignación realizada en la primera ronda de asignación directa por umbral debe ser descontada de los enteros obtenidos al momento de asignar regidurías por Cociente de Unidad.
+
+c) Tercera ronda de asignación por resto mayor. Si aplicados los pasos anteriores aún quedan regidurías disponibles, estas se distribuirán a los partidos o candidaturas independientes en orden decreciente de sus remanentes de votos, hasta agotar la totalidad de los cargos asignables al municipio.
+
+d) Ningún partido político podrá tener un número de regidurías mayor al número de regidurías de mayoría relativa que corresponda a cada municipio.
+
+En cada etapa del procedimiento de asignación de regidurías de representación proporcional, la autoridad electoral verificará que ningún partido político o candidatura independiente reciba una regiduría adicional cuando, con dicha asignación, su representación total de regidurías por ambos principios exceda en más de diez puntos porcentuales su porcentaje de votación municipal válida emitida.
+
+Para efectos del párrafo anterior, la representación total se calculará sobre el número de regidurías obtenidas por mayoría relativa y representación proporcional, sin considerar la presidencia municipal ni la sindicatura.
+
+El límite previsto en este numeral no afectará las regidurías obtenidas por el principio de mayoría relativa. Cuando la sobrerrepresentación derive exclusivamente de triunfos obtenidos por dicho principio, la integración correspondiente se tendrá como consecuencia directa de la voluntad ciudadana expresada en las urnas; sin embargo, no podrán asignarse regidurías de representación proporcional adicionales al partido político o candidatura independiente mientras subsista una sobrerrepresentación superior al límite previsto en este artículo.
+
+Cuando la asignación de una regiduría de representación proporcional produzca o incremente una sobrerrepresentación superior al límite previsto en este numeral, la autoridad electoral omitirá dicha asignación y continuará con el siguiente partido político o candidatura independiente con derecho a participar, conforme al orden y procedimiento aplicable.
+
+Los partidos políticos que participen en coaliciones o candidaturas comunes podrán acceder a la asignación de regidurías de representación proporcional siempre y cuando no se encuentren en los supuestos de límites previamente señalados.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+5) Verificación de la paridad de género. Una vez concluido el procedimiento de asignación de las regidurías de representación proporcional, la autoridad electoral verificará que la integración total del Ayuntamiento, incluyendo la Presidencia Municipal, la Sindicatura y las regidurías por ambos principios, cumpla (sic) con la paridad de género.
+
+En caso de que la conformación final rompa con la paridad, el órgano electoral realizará los ajustes de género mínimos necesarios, modificando exclusivamente las regidurías asignadas por el principio de representación proporcional.
+
+Los ajustes de paridad comenzarán aplicándose en la última regiduría que haya sido asignada. El cargo de la persona del género sobrerrepresentado, a quien le correspondió la última asignación, será reemplazado por la fórmula del género opuesto que siga en el orden de prelación de la lista de representación proporcional del mismo partido político o candidatura independiente.
+
+> <small>[N. DE E. PERTENECE AL NUMERAL 5, P.O. 30 DE JUNIO DE 2026.]</small>
+
+El procedimiento de compensación se repetirá de manera ascendente las veces que sea estrictamente necesario hasta garantizar que el ayuntamiento quede integrado de manera paritaria.
 
 ## TÍTULO QUINTO. DEL REGISTRO DE ELECTORES
 
@@ -5477,7 +5677,7 @@ d. No presentar los informes de precampaña o de campaña, o no atender los requ
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-e) La realización anticipada de actos de precampaña o campaña atribuible a los propios partidos o personas candidatas independientes.
+e. La realización anticipada de actos de precampaña o campaña atribuible a los propios partidos o personas candidatas independientes.
 
 f. Exceder los topes de gastos de precampaña o campaña o que los informes presentados no se encuentren apoyados con los comprobantes respectivos de conformidad a la normatividad aplicable;
 
@@ -5501,15 +5701,19 @@ o. Aceptar donativos o aportaciones económicas superiores a los límites señal
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
-p) Realizar o promover la afiliación colectiva de ciudadanas y ciudadanos a su organización.
+p. Realizar o promover la afiliación colectiva de ciudadanas y ciudadanos a su organización.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
 
-q) El incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género.
+q. El incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2026)</small>
 
-r) La comisión de cualquier otra falta de las previstas en esta Ley.
+r. Llevar a cabo o ser beneficiados, de manera directa por actos que, mediante violencia, fuerza armada, intimidación, amenazas o cualquier forma de coacción o amago, impliquen intervención, intromisión, financiamiento, presión, manipulación o influencia indebida en la organización, desarrollo o resultado en el proceso electoral, así como consentir, tolerar o aprovechar de cualquier forma las ventajas o condiciones derivadas de dicha injerencia para favorecer sus actividades ordinarias, precandidaturas o candidaturas que postule o para perjudicar otras precandidaturas, candidaturas o partidos políticos.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 30 DE JUNIO DE 2026)</small>
+
+s. La comisión de cualquier otra falta de las previstas en esta Ley.
 
 Artículo 258
 
@@ -5539,9 +5743,13 @@ e) Exceder el tope de gastos de precampaña o campaña establecidos, y
 
 f) Cometer violencia política contra las mujeres en razón de género.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2026)</small>
 
-g) El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
+g) Llevar a cabo o ser beneficiadas, de manera directa por actos que, mediante violencia, fuerza armada, intimidación, amenazas o cualquier forma de coacción o amago, impliquen intervención, intromisión, financiamiento, presión, manipulación o influencia indebida en la organización, desarrollo o resultado en el proceso electoral, así como consentir, convalidar o capitalizar de cualquier forma las ventajas, presiones o coacciones generadas por dicha injerencia para la obtención del voto o el desarrollo de su precampaña o campaña, o para perjudicar otras precandidaturas, candidaturas o partidos políticos.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 30 DE JUNIO DE 2026)</small>
+
+h) El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley.
 
 Artículo 260
 
@@ -5581,7 +5789,13 @@ l) La difusión de propaganda política o electoral que contenga expresiones que
 
 m) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por la autoridad electoral, y
 
-n) El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2026)</small>
+
+n) Llevar a cabo o ser beneficiadas, de manera directa por actos que, mediante violencia, fuerza armada, intimidación, amenazas o cualquier forma de coacción o amago, impliquen intervención, intromisión, financiamiento, presión, manipulación o influencia indebida en la organización, desarrollo o resultado en el proceso electoral, así como consentir, convalidar o aprovechar de cualquier forma las ventajas, presiones o coacciones derivadas de dicha injerencia para la obtención del apoyo ciudadano o del voto durante la campaña o para perjudicar otras precandidaturas, candidaturas o partidos políticos.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE JUNIO DE 2026)</small>
+
+ñ) El incumplimiento de cualquiera de las disposiciones contenidas en esta Ley y demás aplicables.
 
 Artículo 261
 
@@ -5727,9 +5941,9 @@ II. Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y 
 
 III. Tratándose de infracciones relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución. Esta reducción no podrá aplicarse en el monto del financiamiento destinado para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres.
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-IV. En los casos de graves y reiteradas conductas violatorias de la Constitución y de esta Ley, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, así como las relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, con la cancelación de su registro como partido político.
+IV. En los casos de graves y reiteradas conductas violatorias de la Constitución y de esta Ley, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, las relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, así como hechos o actos de delincuencia en los términos del artículo 257 de esta Ley, con la cancelación de su registro como partido político.
 
 b) Respecto de las agrupaciones políticas estatales:
 
@@ -5761,6 +5975,10 @@ II. Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y 
 
 III. Con la pérdida del derecho de la persona precandidata infractora a ser registrada como persona candidata o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o personas precandidatas a cargos de elección popular, cuando sean imputables exclusivamente a aquellas o aquellos, no procederá sanción alguna en contra del partido político de que se trate. Cuando la persona precandidata resulte electa en el proceso interno, el partido político no podrá registrarla como candidata.
 
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2026)</small>
+
+IV. Tratándose de infracciones relacionadas con actos de delincuencia, en los términos del artículo 259 de esta Ley, se sancionará con la pérdida del derecho de la persona precandidata infractora a ser registrada como candidata o, en su caso, si ya está hecho el registro, con la cancelación del mismo y una multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
 
 d) Respecto de las personas candidatas independientes:
@@ -5782,6 +6000,10 @@ IV. En caso de que la persona aspirante omita informar y comprobar a la unidad d
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
 V. En caso de que la persona candidata independiente omita informar y comprobar a la unidad de fiscalización del Instituto los gastos de campaña y no los reembolse, no podrá registrarse candidata en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2026)</small>
+
+VI. Tratándose de infracciones relacionadas con actos de delincuencia, en los términos del artículo 260 de esta Ley, se sancionará con la pérdida del derecho de la persona aspirante infractora a ser registrada como candidata o, en su caso, si ya está hecho el registro, con la cancelación del mismo y una multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
 
@@ -6487,9 +6709,39 @@ Artículo 285 (DEROGADO, P.O. 1 DE JULIO DE 2023)
 
 ### CAPÍTULO TERCERO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
 
-(NOTA: EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 286 1) Dentro de los procesos electorales, la Secretaría Ejecutiva del Consejo Estatal del Instituto Estatal Electoral, instruirá el procedimiento especial establecido por el presente Capítulo, cuando se denuncie la comisión de conductas que: a) Contravengan las normas sobre propaganda política o electoral, o b) Constituyan actos anticipados de precampaña o campaña. c) (DEROGADO, P.O. 27 DE ENERO DE 2016) d) Constituyan violencia política contra las mujeres en razón de género en términos de la legislación aplicable. Tratándose de denuncias de casos de violencia política contra las mujeres en razón de género, el procedimiento especial sancionador podrá instruirse dentro o fuera de proceso electoral. 2) Dentro de los procesos electorales locales será competencia de la Secretaría Ejecutiva del Instituto Nacional Electoral, por conducto de la Unidad Técnica de lo Contencioso Electoral, instruir el procedimiento especial sancionador previsto en la Ley General de Instituciones y Procedimientos Electorales, cuando se denuncie la comisión de conductas que violen lo establecido en la Base III del artículo 41 en materia de propaganda en radio y televisión, de conformidad con lo previsto por el artículo 160, numeral 2, de la ley general antes mencionada.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>[N. DE E. EL 23 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 163/2023 Y SU ACUMULADA 164/2023, DECLARÓ LA INVALIDEZ DE LA DEROGACIÓN DE ESTE ARTÍCULO DEL 1 DE JULIO DE 2023, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR.]</small>
 
-Artículo 286 (DEROGADO, P.O. 1 DE JULIO DE 2023)
+Artículo 286
+
+> <small>(REFORMADO [N. DE E. PRIMER PÁRRAFO], P.O. 30 DE JUNIO DE 2026)</small>
+
+1) En todo tiempo, la Secretaría Ejecutiva del Instituto, instruirá el Procedimiento Especial Sancionador establecido en el presente Capítulo, dentro y fuera del proceso electoral, cuando se denuncie la comisión de conductas que constituyan:
+
+a) Contravengan las normas sobre propaganda política o electoral, o
+
+b) Constituyan actos anticipados de precampaña o campaña.
+
+c) (DEROGADO, P.O. 27 DE ENERO DE 2016)
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+
+d) Constituyan violencia política contra las mujeres en razón de género en términos de la legislación aplicable.
+
+Tratándose de denuncias de casos de violencia política contra las mujeres en razón de género, el procedimiento especial sancionador podrá instruirse dentro o fuera de proceso electoral.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+e) Transgresión al artículo 134, párrafos noveno y décimo de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+f) Vulneración al interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+g) Actos que constituyan calumnia electoral.
+
+2) Dentro de los procesos electorales locales será competencia de la Secretaría Ejecutiva del Instituto Nacional Electoral, por conducto de la Unidad Técnica de lo Contencioso Electoral, instruir el procedimiento especial sancionador previsto en la Ley General de Instituciones y Procedimientos Electorales, cuando se denuncie la comisión de conductas que violen lo establecido en la Base III del artículo 41 en materia de propaganda en radio y televisión, de conformidad con lo previsto por el artículo 160, numeral 2, de la ley general antes mencionada.
 
 Artículo 287
 
@@ -6607,19 +6859,33 @@ d) La denuncia sea evidentemente frívola.
 
 4) La Secretaría Ejecutiva del Consejo Estatal deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción. En caso de desechamiento, notificará al denunciante su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas; tal resolución deberá ser confirmada por escrito y se informará de ello a la Magistrada o Magistrado Presidente del Tribunal Estatal Electoral, para su conocimiento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-5) Si del análisis de las constancias aportadas por la parte denunciante, se advierte la falta de indicios suficientes para iniciar la investigación, la Secretaría Ejecutiva reservará la admisión y el emplazamiento, y dictará las medidas necesarias para llevar a cabo una investigación preliminar que no deberá exceder de cinco días, atendiendo al objeto y al carácter sumario del procedimiento, debiendo justificar para tal efecto su necesidad y oportunidad. En este caso, el plazo de veinticuatro horas para la admisión se computará a partir de que la autoridad cuente con los elementos necesarios.
+5) Si del análisis de las constancias aportadas por la parte denunciante, se advierte la falta de indicios suficientes para iniciar la investigación, la Secretaría Ejecutiva reservará la admisión y el emplazamiento, y dictará las medidas necesarias para llevar a cabo una investigación preliminar que no deberá exceder de tres días, atendiendo al objeto y al carácter sumario del procedimiento, debiendo justificar para tal efecto su necesidad y oportunidad. En este caso, el plazo de veinticuatro horas para la admisión se computará a partir de que la autoridad cuente con los elementos necesarios.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
 
 6) Cuando la Secretaría Ejecutiva del Consejo Estatal admita la denuncia, emplazará a la parte denunciante y a la denunciada para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará a la denunciada de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
+
+7) Cuando la parte denunciante solicite la adopción de medidas cautelares, la Secretaría Ejecutiva propondrá a la Comisión de Quejas y Denuncias dentro del mismo plazo de cuarenta y ocho horas previsto en el numeral anterior, para que esta resuelva sobre la procedencia de su adopción dentro de las veinticuatro horas siguientes. Esta decisión podrá ser impugnada ante el Tribunal Estatal Electoral a través del Recurso de Revisión del Procedimiento Especial Sancionador.
+
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE JULIO DE 2023)</small>
 
-7) Si la Secretaría Ejecutiva considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión de Quejas y Denuncias dentro del mismo plazo de cuarenta y ocho horas previsto en el numeral anterior, para que esta resuelva sobre la procedencia de su adopción dentro de las veinticuatro horas siguientes. Esta decisión podrá ser impugnada ante el Tribunal Estatal Electoral.
-
 Cuando se considere necesario la adopción de órdenes de protección, tratándose de denuncias por violencia política contra las mujeres en razón de género, que sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato a la autoridad correspondiente para que proceda a otorgarlas conforme a sus facultades y competencias.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+Artículo 289 BIS
+
+1) La investigación para el conocimiento cierto de los hechos se realizará por el Instituto de forma seria, congruente, idónea, eficaz, expedita, completa y exhaustiva.
+
+2) Una vez que la Secretaría Ejecutiva del Consejo Estatal tenga conocimiento de los hechos denunciados, en su caso, dictará de inmediato las medidas necesarias para dar fe de los mismos; para impedir que se pierdan, destruyan o alteren las huellas o vestigios, y en general para evitar que se dificulte la investigación.
+
+3) Admitida la queja o denuncia por la Secretaría Ejecutiva, se allegará de los elementos de convicción que estime pertinentes para integrar el expediente respectivo. Para tal efecto, podrá solicitar y comisionar a cualquier órgano del Instituto Estatal Electoral para que lleven a cabo las investigaciones o diligencias necesarias para recabar las pruebas ofrecidas. Se abrirá periodo de instrucción, el cual no podrá exceder de veinte días, contados a partir de la admisión de la denuncia o del inicio de oficio del procedimiento por parte de la Secretaría Ejecutiva. Dicho plazo podrá ser ampliado de manera excepcional por una sola vez, hasta por un periodo de cinco días, mediante acuerdo debidamente motivado que emita la Secretaría Ejecutiva del Consejo Estatal.
+
+4) La Secretaría Ejecutiva del Consejo Estatal podrá solicitar a las autoridades federales, estatales o municipales, según corresponda, los informes, certificaciones o el apoyo necesario para la realización de diligencias que coadyuven para indagar y verificar la certeza de los hechos denunciados. Con la misma finalidad podrá requerir a las personas físicas y morales la entrega de informaciones y pruebas que sean necesarias.
 
 Artículo 290
 
@@ -6674,6 +6940,18 @@ f) Las conclusiones sobre la queja o denuncia.
 Artículo 292
 
 Recibido por el Tribunal Estatal Electoral un expediente en estado de resolución conforme a los artículos anteriores, lo turnará de inmediato a la ponencia que corresponda, a fin de que se presente al Pleno el proyecto de resolución que corresponda en un plazo que no debe exceder de 5 días.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+Artículo 292 BIS
+
+La facultad de la autoridad electoral para imponer sanciones por la comisión de infracciones a la Ley Electoral dentro de un proceso especial sancionador prescribe en el término de un año, contado a partir de la comisión de los hechos o que se tenga conocimiento de los mismos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+Artículo 292 TER
+
+Los procedimientos especiales sancionadores cuyos hechos denunciados estén relacionados con un proceso electoral, deberán resolverse en definitiva antes de la toma de protesta de las candidaturas electas para dicho proceso electoral.
 
 ## TÍTULO PRIMERO. DE LA INTEGRACIÓN Y ATRIBUCIONES DEL TRIBUNAL
 
@@ -8449,7 +8727,9 @@ k) Impedir, sin causa justificada, el ejercicio del derecho de voto a las ciudad
 
 l) Cuando se cierre la casilla antes de la hora indicada, sin haber acudido a votar la totalidad de las ciudadanas y ciudadanos inscritos en la lista nominal correspondiente.
 
-m) Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+m) Se acrediten hechos o actos de delincuencia permanentes o sistemáticos con incidencia en la casilla que vulneren los principios de libertad, equidad, certeza, legalidad o autenticidad del sufragio en la casilla correspondiente. En particular, serán objeto de nulidad aquellos actos que, mediante violencia, fuerza armada, intimidación, amenazas o cualquier forma de coacción o amago, impliquen intervención, intromisión, financiamiento, presión, manipulación o influencia indebida en la organización, desarrollo o resultado en la casilla que corresponda durante la jornada electoral.
 
 ### CAPÍTULO TERCERO. DE LAS CAUSAS DE NULIDAD DE UNA ELECCIÓN
 
@@ -8466,6 +8746,10 @@ b) Cuando no se instalen las casillas en el 20% de las secciones del municipio, 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 c) Cuando las candidatas o candidatos sean inelegibles.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+d) Cuando se acrediten hechos o actos de delincuencia permanentes o sistemáticos con incidencia en el proceso electoral que vulneren los principios de libertad, equidad, certeza, legalidad o autenticidad del sufragio en la casilla correspondiente. En particular, serán objeto de nulidad aquellos actos que, mediante violencia, fuerza armada, intimidación, amenazas o cualquier forma de coacción o amago, impliquen intervención, intromisión, financiamiento, presión, manipulación o influencia indebida en la organización, desarrollo o resultado en el proceso electoral.
 
 Artículo 385
 
@@ -8489,7 +8773,13 @@ c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos e
 
 d) Se acredite la violencia política grave contra las mujeres en razón de género mediante sentencia firme del órgano jurisdiccional electoral.
 
-4) Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+(ADICIONADO, P.O. 30 DE JUNIO DE 2026
+
+e) Se acrediten actos o hechos de delincuencia, en los términos del artículo 384 de esta Ley.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
+
+4) Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento, salvo cuando se trate del inciso e) del numeral anterior, en el que será determinante siempre que resulte electa la persona beneficiaria de dichos actos.
 
 5) En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
@@ -9135,11 +9425,9 @@ El Instituto Estatal Electoral, realizará las adecuaciones necesarias a su estr
 
 El Tribunal Estatal Electoral preverá lo necesario en el presupuesto correspondiente al año 2021, a efecto de dar cumplimiento en el mes de enero de ese año, lo dispuesto por el artículo 298, segundo párrafo, respecto de los Magistrados que terminen su encargo en el mes de diciembre del año 2020.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2023)</small>
-
 ###### ARTÍCULO CUARTO.
 
-En cuanto a las elecciones directas de regidurías por demarcación territorial, entrará en vigor para el proceso electoral 2026-2027, en los términos que establezca la Ley Electoral del Estado de Chihuahua. El Congreso del Estado hará las adecuaciones correspondientes a más tardar 365 días previos al inicio del citado proceso, para garantizar la elección directa de regidurías.
+(DEROGADO, P.O. 30 DE JUNIO DE 2026)
 
 P.O. 1 DE JULIO DE 2020.
 
@@ -9231,7 +9519,7 @@ El presente Decreto entará en vigor al día siguiente de su publicación en el 
 
 ###### ARTÍCULO SEGUNDO.
 
-El Congreso del Estado garantizará la suficiencia presupuestal para el sostenimiento de la estructura ocupacional mínima necesaria del Instituto Estatal.
+(DEROGADO, P.O. 30 DE JUNIO DE 2026)
 
 ###### ARTÍCULO TERCERO.
 
@@ -9256,3 +9544,55 @@ El Artículo Octavo del presente Decreto, entrará en vigor al año de su public
 ###### ARTÍCULO TERCERO.
 
 Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFLYC/0558/2026 VIII P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas realizadas a la Constitución Política del Estado Libre y Soberano de Chihuahua, respecto de la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir de los procesos electorales locales a celebrarse en el año 2030. En consecuencia, las personas que en el año 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+Las personas que estén en posibilidad de reelegirse en el año 2027 deberán cumplir de manera objetiva y formal con los requisitos expresamente establecidos en la Constitución y en la ley. Quienes pretendan reelegirse podrán optar por separarse o no de su cargo.
+
+###### ARTÍCULO TERCERO.
+
+A las personas que actualmente ejerzan un cargo de elección popular, habiendo sido postuladas en cumplimiento a alguna acción afirmativa, y que pretendan participar bajo la modalidad de elección consecutiva por el mismo cargo y ámbito territorial en el proceso electoral local 2026-2027, tendrán por acreditado (sic) su pertenencia al grupo de atención prioritaria.
+
+En consecuencia, las personas que pretendan participar bajo la modalidad de elección consecutiva por el mismo cargo y ámbito territorial conservarán su derecho a solicitar el registro correspondiente, sin que la entrada en vigor del presente Decreto constituya, por sí misma, impedimento para su postulación.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto Estatal Electoral realizará las acciones necesarias para la celebración de la elección de regidurías indígenas por el Sistema Normativo Interno, para tales efectos podrá:
+
+1) Celebrar convenios de colaboración y/o coordinación con las autoridades correspondientes.
+
+2) Emitir el calendario de actividades para el desahogo del proceso electoral que se ajuste a los plazos establecidos en el presente Decreto.
+
+3) Aprobar los lineamientos, acuerdos generales, criterios operativos y demás disposiciones necesarias para el cumplimiento de la elección.
+
+###### ARTÍCULO QUINTO.
+
+El Instituto Estatal Electoral deberá implementar o adecuar la plataforma digital de registro de candidaturas y expediente electrónico antes del inicio del proceso electoral ordinario local 2026-2027.
+
+La plataforma digital permitirá la carga electrónica de documentos, integración de expedientes electrónicos, generación de acuses, validación de campos obligatorios, seguimiento de requerimientos, atención de prevenciones, registro de sustituciones, consulta del estado de cada solicitud y trazabilidad de cambios.
+
+Asimismo, deberá incorporar mecanismos de seguridad, control de accesos, protección de datos personales, conservación documental y resguardo de la información.
+
+El expediente electrónico integrado en la plataforma tendrá validez para efectos administrativos, electorales y jurisdiccionales, en los términos que establezcan esta Ley y los lineamientos aplicables.
+
+La plataforma digital generará alertas preventivas sobre requisitos de elegibilidad, paridad, bloques de competitividad, acciones afirmativas, sustituciones, impedimentos legales y demás condiciones aplicables.
+
+Las alertas tendrán carácter orientador y preventivo. La determinación jurídica sobre la procedencia de los registros corresponderá al Consejo Estatal.
+
+###### ARTÍCULO SEXTO.
+
+El Instituto Estatal Electoral tendrá un plazo de noventa días para armonizar su reglamentación y demás ordenamientos con relación al presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
