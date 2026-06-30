@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-de-datos-personales-en-posesion-de-180952"
 country: "mx"
 rank: "ley"
 publication_date: "2025-07-31"
-last_updated: "2025-07-31"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el jueves 31 de julio de 2025.
 
@@ -69,9 +69,9 @@ II. Distribuir competencias entre el Órgano Administrativo Desconcentrado de la
 
 III. Establecer las bases mínimas y condiciones homogéneas que regirán el Tratamiento de los datos personales y el ejercicio de los derechos de acceso, rectificación, cancelación y oposición, mediante procedimientos sencillos y expeditos;
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-IV. Proteger los datos personales en posesión de cualquier autoridad, agencia, comisión, comité, corporación, ente, dependencia, entidad, órgano, organismo o equivalente de los Poderes Ejecutivo, Legislativo y Judicial, y sus Ayuntamientos, órganos constitucional o legalmente autónomos, PARTIDOS POLÍTICOS CON REGISTRO ESTATAL, fideicomisos y fondos públicos del Estado, con la finalidad de regular su debido Tratamiento;
+IV. Proteger los datos personales en posesión de cualquier autoridad, agencia, comisión, comité, corporación, ente, dependencia, entidad, órgano, organismo o equivalente de los Poderes Ejecutivo, Legislativo y Judicial, y sus Ayuntamientos, órganos constitucionalmente autónomos, fideicomisos y fondos públicos del Estado, con la finalidad de regular su debido tratamiento;
 
 V. Garantizar la observancia de los principios de protección de datos personales previstos en la presente Ley y demás disposiciones que resulten aplicables en la materia;
 
@@ -93,11 +93,11 @@ IV. Los Tribunales Administrativos, en su caso;
 
 V. Los Ayuntamientos;
 
-VI. Los Órganos constitucional o legalmente autónomos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+VI. Los órganos constitucionalmente autónomos;
 
-VII. PARTIDOS POLÍTICOS CON REGISTRO ESTATAL;
+VII. (DEROGADA, P.O. 30 DE JUNIO DE 2026)
 
 VIII. Fideicomisos y fondos públicos.
 
@@ -113,9 +113,9 @@ Para los efectos de la presente Ley se entiende por:
 
 I. Áreas: Instancias de los responsables previstas en los respectivos reglamentos interiores, estatutos orgánicos o instrumentos equivalentes, que cuentan o puedan contar, dar tratamiento, y ser responsables o encargadas de los datos personales;
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-II. Autoridades garantes: Órgano Administrativo Desconcentrado; el órgano encargado de la contraloría interna u homólogo del Poder Legislativo; el órgano encargado de la contraloría interna u homólogo del Poder Judicial; los órganos internos de control o equivalentes de los órganos constitucional o legamente autónomos; EL INSTITUTO ELECTORAL DEL ESTADO POR CUANTO HACE A LOS PARTIDOS POLÍTICOS CON REGISTRO ESTATAL;
+II. Autoridades garantes: Órgano Administrativo Desconcentrado; el órgano encargado de la contraloría interna u homólogo del Poder Legislativo; el órgano encargado de la contraloría interna u homólogo del Poder Judicial; los órganos internos de control o equivalentes de los órganos constitucionalmente autónomos;
 
 III. Aviso de privacidad: Documento a disposición de la persona Titular de la información de forma física, electrónica o en cualquier formato generado por el responsable, con el objeto de informarle las finalidades del Tratamiento al que serán sometidos sus datos personales;
 
@@ -189,9 +189,9 @@ XXIX. Plataforma Nacional: Plataforma Nacional de Transparencia a que hace refer
 
 XXX. Remisión: Toda comunicación de datos personales realizada exclusivamente entre el responsable y la Persona encargada, dentro o fuera del territorio mexicano;
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XXXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-XXXI. Responsable: Cualquier autoridad, entidad, órgano y organismo o equivalente de los poderes Legislativo, Ejecutivo y Judicial del Estado y sus Ayuntamientos, órganos constitucional o legalmente autónomos, PARTIDOS POLÍTICOS CON REGISTRO ESTATAL, fideicomisos y fondos públicos, que decide y determina los fines, medios y demás cuestiones relacionadas con determinado Tratamiento de datos personales;
+XXXI. Responsable: Cualquier autoridad, entidad, órgano y organismo o equivalente de los poderes Legislativo, Ejecutivo y Judicial del Estado, y sus Ayuntamientos, órganos constitucionalmente autónomos, fideicomisos y fondos públicos, que decide y determina los fines, medios y demás cuestiones relacionadas con determinado Tratamiento de datos personales;
 
 XXXII. Supresión: Baja archivística de los datos personales conforme a las disposiciones jurídicas aplicables en materia de archivos, que resulte en la eliminación, borrado o destrucción de los datos personales bajo las medidas de seguridad previamente establecidas por el responsable;
 
@@ -2025,7 +2025,7 @@ XX. Realizar actos para intimidar o inhibir a las personas titulares en el ejerc
 
 Las causas de responsabilidad previstas en las fracciones I, II, IV, VI, X, XII y XIV del presente artículo, así como la reincidencia en las conductas previstas en el resto de sus fracciones, serán consideradas como graves para efectos de su sanción administrativa.
 
-En caso que la presunta infracción hubiere sido cometida por algún integrante de un partido político, la investigación y, en su caso, sanción, corresponderán a la autoridad electoral competente.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
 
 Las sanciones de carácter económico no podrán ser cubiertas con recursos públicos.
 
@@ -2118,3 +2118,23 @@ VIGÉSIMO. Se suspenden por un plazo de cuarenta y cinco días hábiles contados
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de julio de dos mil veinticinco. Diputada Presidenta. LAURA GUADALUPE VARGAS VARGAS. Rúbrica. Diputado Vicepresidente. JULIO MIGUEL HUERTA GÓMEZ. Rúbrica. Diputado Vicepresidente. RAFAEL ALEJANDRO MICALCO MÉNDEZ. Rúbrica. Diputada Secretaria. MARÍA SOLEDAD AMIEVA ZAMORA. Rúbrica. Diputada Secretaria. ANGÉLICA PATRICIA ALVARADO JUÁREZ. Rúbrica.
 
 Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de julio de dos mil veinticinco. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. CIUDADANO ALEJANDRO ARMENTA MIER. Rúbrica. El Secretario de Gobernación. CIUDADANO JOSÉ SAMUEL AGUILAR PALA. Rúbrica. El Secretario Anticorrupción y Buen Gobierno. CIUDADANO ALEJANDRO ESPIDIO REYES. Rúbrica. La Secretaria de Planeación, Finanzas y Administración. CIUDADANA JOSEFINA MORALES GUERRERO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 2, LAS FRACCIONES VI Y IX DEL 3, EL ÚLTIMO PÁRRAFO DEL 4, EL 7, LAS FRACCIONES V Y XXXVII DEL 8, LA FRACCIÓN IV DEL 22, EL ACÁPITE DEL 175 Y EL 186, Y SE DEROGAN LA FRACCIÓN VII DEL ARTÍCULO 3, EL 67, EL 69; TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA; ASIMISMO SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 2, LA FRACCIÓN VI DEL 3, LAS FRACCIONES 11 Y XXXI DEL 5; Y SE DEROGAN LA FRACCIÓN VII DEL ARTÍCULO 3 Y EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 194; TODOS DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Las autoridades garantes que dejarán de fungir como tales de acuerdo con el presente Decreto, deberán transferir los expedientes, archivos, procedimientos y asuntos que correspondan conforme al ámbito de sus atribuciones para su atención, a las autoridades garantes nacionales o locales, según corresponda, de acuerdo a las facultades que contemplan las leyes generales y locales en la materia, dentro del término de 30 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+Para tales efectos, deberán realizarse las acciones jurídicas y administrativas pertinentes por parte de las autoridades o instancias correspondientes a efecto de dar cumplimiento al presente Decreto.
+
+TERCERO. Para llevar a cabo la transferencia a la que refiere el artículo Transitorio que antecede, quedan suspendidos los plazos y términos, hasta en tanto concluya dicha transferencia, así como la transferencia electrónica que deberá realizarse en la Plataforma Nacional de Transparencia.
+
+CUARTO. El Comité del Subsistema de Transparencia deberá ajustar su integración a más tardar en sesenta días naturales, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita el Órgano Administrativo Desconcentrado de la Secretaría Anticorrupción y Buen Gobierno.
+
+QUINTO. El Comité del Subsistema de Transparencia deberá aprobar, en sesión extraordinaria, las reformas a sus reglas de operación y funcionamiento en términos del presente Decreto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
