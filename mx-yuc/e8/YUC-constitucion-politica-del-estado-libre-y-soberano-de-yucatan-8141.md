@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2026-04-08"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE JULIO DE 2026 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE JUNIO DE 2026.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -57,9 +59,13 @@ Las normas relativas a los derechos humanos se interpretarán de conformidad con
 
 El Estado reconoce que todas las personas son iguales ante la ley.
 
-> <small>(ADICIONADO, D.O. 7 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, D.O. 30 DE JUNIO DE 2026)</small>
 
-El Estado de Yucatán reconoce, protege y garantiza el derecho a la vida de todo ser humano, al sustentar expresamente que desde el momento de la fecundación entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural, sin perjuicio de las excluyentes de responsabilidad previstas en el Código Penal del Estado de Yucatán.
+El Estado de Yucatán reconoce, protege y garantiza el derecho a la vida de todo ser humano.
+
+> <small>(ADICIONADO, D.O. 30 DE JUNIO DE 2026)</small>
+
+Asimismo, promoverá las condiciones necesarias para su desarrollo integral en todas sus etapas, en observancia de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los tratados internacionales de los que el Estado Mexicano sea parte.
 
 > <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -6426,3 +6432,21 @@ Artículo segundo. El Congreso del Estado de Yucatán en un plazo que no podrá 
 Cláusula derogatoria
 
 Artículo tercero. Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
+
+D.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 212/2026 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN CUMPLIMIENTO DE LA EJECUTORIA DEL JUICIO DE AMPARO INDIRECTO 2204/2021-III".]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Comunicación judicial
+
+Artículo segundo. Una vez publicado el presente decreto, comuníquese al Juzgado Tercero de Distrito en el Estado de Yucatán, dentro del Juicio de Amparo Indirecto 2204/2021-III, remitiendo copia certificada del decreto y de las constancias legislativas correspondientes, para los efectos legales conducentes en la etapa de cumplimiento de la ejecutoria.
+
+En dicha comunicación, deberán anexarse las constancias de discusión y votación del presente decreto, incluyendo el sentido del voto de las diputadas y los diputados integrantes del Pleno.
+
+Cláusula derogatoria
+
+Artículo tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
