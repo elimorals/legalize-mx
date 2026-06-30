@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2026-02-05"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2026.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -775,9 +775,11 @@ VI.- Información a las autoridades competentes de las irregularidades o deficie
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2026)</small>
+
 ###### ARTÍCULO 56.
 
-La Secretaría y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades, accidentes, de prevención de invalidez y rehabilitación de personas con discapacidad.
+La Secretaría de Salud y toda institución pública, social o privada que preste servicios de salud en el Estado deberá promover y apoyar la constitución y participación de grupos, asociaciones y demás organizaciones que tengan por objeto contribuir de manera organizada a los programas de promoción, prevención y mejoramiento de la salud individual y colectiva. Asimismo, deberán fomentar la participación social en programas de prevención de enfermedades, incluido el lupus y demás enfermedades autoinmunes; prevención de accidentes; prevención de la invalidez; y rehabilitación de personas con discapacidad.
 
 ###### ARTÍCULO 57.
 
@@ -1565,9 +1567,33 @@ En aquellas localidades donde no existan clínicas del sector público, la autor
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPÍTULO IV. ACCIDENTES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 2026)</small>
 
-### CAPÍTULO I. ASISTENCIA SOCIAL
+### CAPÍTULO III BIS. ENFERMEDADES AUTOINMUNES
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 141 BIS.- Las autoridades sanitarias del Estado deberán regular, coordinar y supervisar las acciones de prevención, detección, control, atención y tratamiento de las enfermedades autoinmunes, garantizando su adecuada implementación en todas las instituciones prestadoras de servicios de salud en el Estado.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2026)</small>
+
+ARTÍCULO 141 TER.- En materia de enfermedades autoinmunes, la Secretaría de Salud ejercerá la rectoría del Sistema Estatal de Salud y, para tal efecto, deberá:
+
+I. Regular, coordinar y supervisar la implementación de programas de capacitación
+
+médica continua en todas las instituciones prestadoras de servicios de salud, a fin de asegurar la identificación, diagnóstico y referencia oportuna en casos de lupus y demás enfermedades autoinmunes;
+
+II. Vigilar el cumplimiento de los protocolos de atención integral, que deberán incluir acciones de diagnóstico, consultas médicas, estudios especializados, suministro de medicamentos, rehabilitación física, apoyo psicológico y seguimiento clínico;
+
+III. Promover y, en su caso, armonizar la aplicación de las Normas Oficiales Mexicanas emitidas por las autoridades sanitarias federales en materia de detección oportuna, tratamiento y rehabilitación del lupus y de otras enfermedades autoinmunes;
+
+IV. Proponer e integrar con las instituciones prestadoras de servicio el Registro Estatal de Pacientes con Enfermedades Autoinmunes, asegurando la generación de información epidemiológica útil para la formulación de políticas públicas, la planeación de servicios y la continuidad de los tratamientos;
+
+V. Coordinar, promover y evaluar la colaboración con instituciones federales, educativas y de investigaciones que desarrollen estudios científicos, clínicos o epidemiológicos en materia de lupus y enfermedades autoinmunes, y
+
+VI. Promover campañas permanentes de información, educación y sensibilización dirigidas a la población, orientadas a fomentar la detección temprana, el tratamiento oportuno y el conocimiento de las enfermedades autoinmunes.
+
+### CAPÍTULO IV. ACCIDENTES
 
 ###### ARTÍCULO 142.
 
@@ -1593,7 +1619,7 @@ El consejo estatal para la prevención de accidentes, se coordinará con el cons
 
 ## TÍTULO NOVENO. ASISTENCIA SOCIAL, PREVENCIÓN Y REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD Y ATENCION GERIATRICA
 
-### CAPÍTULO II. PREVENCIÓN DE INVALIDEZ Y REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD
+### CAPÍTULO I. ASISTENCIA SOCIAL
 
 ###### ARTÍCULO 144.
 
@@ -1719,7 +1745,7 @@ Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus res
 
 La Secretaría de Salud en coordinación con otras instituciones públicas, verificarán que en los lugares en que se presten servicios públicos, existan facilidades para las personas con discapacidad, caso contrario la secretaría exigirá se otorguen dichas facilidades.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO II. PREVENCIÓN DE INVALIDEZ Y REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD
 
 ###### ARTÍCULO 162.
 
@@ -1763,13 +1789,13 @@ El organismo del Gobierno Estatal previsto en el artículo 150 de esta Ley tendr
 
 ## TÍTULO DÉCIMO. DE LAS ADICCIONES
 
-### CAPÍTULO II. PROGRAMA CONTRA EL ALCOHOLISMO Y ABUSO DE BEBIDAS ALCOHÓLICAS
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 168.
 
 El Consejo Estatal Contra las Adicciones, tendrá por objeto promover y apoyar las acciones de los sectores públicos, social y privado, tendientes a la prevención y combate de los problemas de salud pública causados por las adicciones, que regula el presente Título, así como proponer y evaluar los programas referidos.
 
-### CAPÍTULO III. MANEJO Y TRATAMIENTO DE PERSONAS AFECTADAS POR PROBLEMAS DE ALCOHOLISMO
+### CAPÍTULO II. PROGRAMA CONTRA EL ALCOHOLISMO Y ABUSO DE BEBIDAS ALCOHÓLICAS
 
 ###### ARTÍCULO 169.
 
@@ -1793,9 +1819,7 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV.- Efectos de abusos de bebidas alcohólicas en los ámbitos familiar, social, deportivo, laboral, educativo y en espectáculos.
 
-### CAPÍTULO IV. PROGRAMA CONTRA EL TABAQUISMO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2014)</small>
+### CAPÍTULO III. MANEJO Y TRATAMIENTO DE PERSONAS AFECTADAS POR PROBLEMAS DE ALCOHOLISMO
 
 ###### ARTÍCULO 171.
 
@@ -1805,7 +1829,9 @@ La Secretaría de Salud del Estado, en materia de manejo, tratamiento y rehabili
 
 El Gobierno del Estado y los Ayuntamientos, a través del Consejo Estatal Contra las Adicciones, fomentará la creación de grupos de autoayuda para la adopción de terapias rehabilitatorias, con la finalidad de apoyar a las personas con problemas de alcoholismo.
 
-### CAPÍTULO V. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPÍTULO IV. PROGRAMA CONTRA EL TABAQUISMO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 173.
 
@@ -1841,7 +1867,7 @@ III.- Los efectos de la publicidad en la incidencia del tabaquismo y en los prob
 
 IV.- Se prohíbe la publicidad de marcas cigarreras en todas sus formas, en eventos infantiles de cualquier naturaleza.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTÍCULO 177.
 
@@ -1865,7 +1891,7 @@ A los establecimientos que vendan o utilicen substancias adictivas con efectos p
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
-### CAPÍTULO I. DE LA DONACIÓN DE ÓRGANOS
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 179.
 
@@ -1889,9 +1915,7 @@ Corresponde a la autoridad municipal con base a lo que dispongan los Bandos de P
 
 ## TÍTULO DÉCIMO SEGUNDO. DONACIÓN Y TRASPLANTES
 
-### CAPÍTULO II
-
-CONTROL SANITARIO DE LA DISPOSICIÓN DE SANGRE HUMANA.
+### CAPÍTULO I. DE LA DONACIÓN DE ÓRGANOS
 
 ###### ARTÍCULO 183.
 
@@ -1937,7 +1961,9 @@ X. Promover entre los automovilistas la inclusión en las licencias y permisos p
 
 XI. Celebrar convenios de colaboración con las direcciones de tránsito y vialidad de los municipios, para que se fomente entre los automovilistas la cultura de la donación de órganos y tejidos.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO II
+
+CONTROL SANITARIO DE LA DISPOSICIÓN DE SANGRE HUMANA.
 
 ###### ARTÍCULO 187.
 
@@ -1957,7 +1983,7 @@ Las disposiciones de sangre humana, considerada como tejido, componentes sanguí
 
 ## TÍTULO DÉCIMO TERCERO. SALUBRIDAD LOCAL
 
-### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 191.
 
@@ -2015,7 +2041,7 @@ III.- La protección a la población en general, en cuanto al uso de substancias
 
 De conformidad con las Normas Oficiales Mexicanas, correspondientes.
 
-### CAPÍTULO III. DE LAS CONSTRUCCIONES
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTÍCULO 198.
 
@@ -2049,7 +2075,7 @@ La Secretaría de Salud verificará que los mercados y centros de abastos, sean 
 
 Los vendedores, locatarios y personas que su actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley, los Reglamentos respectivos, otras disposiciones legales aplicables y las normas correspondientes.
 
-### CAPÍTULO IV. FUNERARIAS, CREMATORIOS Y CEMENTERIOS
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTÍCULO 201.
 
@@ -2087,7 +2113,7 @@ En el supuesto que se pretenda una construcción en terrenos pantanosos o que hu
 
 Cuando los edificios, construcciones o terrenos presenten un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPÍTULO V. LIMPIEZA PÚBLICA
+### CAPÍTULO IV. FUNERARIAS, CREMATORIOS Y CEMENTERIOS
 
 ###### ARTÍCULO 210.
 
@@ -2123,7 +2149,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a forestaci
 
 La aprobación de las solicitudes de refrigeración, exhumación, cremación y embalsamamiento de cadáveres deberán ajustarse a las medidas de higiene y seguridad que al efecto expida la autoridad sanitaria competente y las normas que dicte la Secretaría de Salud.
 
-### CAPÍTULO VI. RASTROS
+### CAPÍTULO V. LIMPIEZA PÚBLICA
 
 ###### ARTÍCULO 216.
 
@@ -2165,7 +2191,7 @@ Todas las personas que utilicen las instalaciones antes señaladas, están oblig
 
 Para toda actividad relacionada con este Capítulo se estará a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas correspondientes.
 
-### CAPÍTULO VII. AGUA POTABLE, DRENAJE, TRATAMIENTO, SANEAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES
+### CAPÍTULO VI. RASTROS
 
 ###### ARTÍCULO 222.
 
@@ -2223,9 +2249,7 @@ La norma correspondiente, establecerá los requisitos sanitarios y medidas de fu
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades sanitarias y municipales, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones sanitarias.
 
-### CAPÍTULO VIII
-
-ESTABLOS, APIARIOS, GRANJAS AVÍCOLAS, PORCICOLAS, ACUÍCOLAS, PLANTAS PESQUERAS, LABORATORIOS DE PRODUCCIÓN DE LARVAS Y SEMILLAS PARA PRODUCCIÓN ACUÍCOLA Y OTROS ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO VII. AGUA POTABLE, DRENAJE, TRATAMIENTO, SANEAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES
 
 ###### ARTÍCULO 230.
 
@@ -2281,7 +2305,9 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los deshechos o líquidos que se conduzcan en los sistemas de alcantarillado sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyen aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPÍTULO IX. SEXO SERVICIO
+### CAPÍTULO VIII
+
+ESTABLOS, APIARIOS, GRANJAS AVÍCOLAS, PORCICOLAS, ACUÍCOLAS, PLANTAS PESQUERAS, LABORATORIOS DE PRODUCCIÓN DE LARVAS Y SEMILLAS PARA PRODUCCIÓN ACUÍCOLA Y OTROS ESTABLECIMIENTOS SIMILARES
 
 ###### ARTÍCULO 237
 
@@ -2311,7 +2337,7 @@ Los establecimientos a que se refiere este capítulo, no podrán estar ubicados 
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere este capítulo, serán fijados por las disposiciones legales en la materia y normas correspondientes.
 
-### CAPÍTULO X. CENTROS DE READAPTACIÓN SOCIAL Y DEL CONSEJO TUTELAR PARA MENORES INFRACTORES
+### CAPÍTULO IX. SEXO SERVICIO
 
 ###### ARTÍCULO 240.
 
@@ -2353,7 +2379,7 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La autoridad municipal, determinará los lugares en donde se permitirá el ejercicio del sexo servicio, para lo cual podrá solicitar la opinión de la Secretaría de Salud, de conformidad con las disposiciones legales y reglamentarias aplicables.
 
-### CAPÍTULO XI. BAÑOS PÚBLICOS, ALBERCAS Y GIMNASIOS
+### CAPÍTULO X. CENTROS DE READAPTACIÓN SOCIAL Y DEL CONSEJO TUTELAR PARA MENORES INFRACTORES
 
 ###### ARTÍCULO 247.
 
@@ -2391,7 +2417,7 @@ Tratándose de emergencia médica, enfermedades graves o cuando así lo requiera
 
 Las personas encargadas de los servicios médicos de los Centros de Readaptación Social y del Consejo Tutelar para Menores Infractores, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto en el artículo 123 de esta Ley.
 
-### CAPÍTULO XII. CENTROS DE REUNIÓN Y ESPECTÁCULOS
+### CAPÍTULO XI. BAÑOS PÚBLICOS, ALBERCAS Y GIMNASIOS
 
 ###### ARTÍCULO 251.
 
@@ -2419,7 +2445,7 @@ Igualmente deberán contar con botiquines equipados que contengan los medicament
 
 La actividad de estos locales estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y a las normas en materia de salubridad local correspondientes que dicte la Secretaría.
 
-### CAPÍTULO XIII. PELUQUERÍAS, SALAS DE BELLEZA, ESTÉTICAS Y OTROS SIMILARES
+### CAPÍTULO XII. CENTROS DE REUNIÓN Y ESPECTÁCULOS
 
 ###### ARTÍCULO 255.
 
@@ -2439,7 +2465,7 @@ Además de los requisitos reglamentarios respectivos, las instalaciones y edific
 
 Será obligación de los propietarios u organizadores, la instalación de máquinas expendedoras de preservativos para hombres y mujeres, en centros de reunión, espectáculos, centros de rehabilitación social, establecimientos para hospedaje, lugares destinados al sexo servicio, como medida preventiva de enfermedades transmisibles.
 
-### CAPÍTULO XIV. TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
+### CAPÍTULO XIII. PELUQUERÍAS, SALAS DE BELLEZA, ESTÉTICAS Y OTROS SIMILARES
 
 ###### ARTÍCULO 259.
 
@@ -2457,7 +2483,7 @@ El funcionamiento y personal de los establecimientos señalados en el artículo 
 
 Los instrumentos, aparatos, ropa y accesorios de uso público que se utilicen en los establecimientos de servicios para el cuidado personal, tales como tijeras, peines, pinzas cosméticas, sillones, mandiles y otros similares deberán mantenerse limpios y, en su caso esterilizados, conforme a las normas que al efecto se expidan. En todo caso, las navajas de rasurar para uso público deberán ser desechables, y sólo podrán utilizarse para una ocasión.
 
-### CAPÍTULO XV. ESTABLECIMIENTOS PARA HOSPEDAJE
+### CAPÍTULO XIV. TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
 
 ###### ARTÍCULO 263.
 
@@ -2477,7 +2503,7 @@ Corresponde a la autoridad sanitaria competente ejercer la verificación sanitar
 
 El funcionamiento y personal de los establecimientos señalados en este capítulo, deberán apegarse a lo establecido en esta Ley, disposiciones legales aplicables y normas correspondientes.
 
-### CAPÍTULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPÍTULO XV. ESTABLECIMIENTOS PARA HOSPEDAJE
 
 ###### ARTÍCULO 266.
 
@@ -2493,7 +2519,7 @@ Los establecimientos de hospedaje, deberán contar con personal capacitado y con
 
 En caso de contar con los servicios complementarios como restaurante, servicio de bar, peluquería, sala de belleza, baños, lavandería, planchaduría y tintorería, éstos quedarán sujetos a las normas y requisitos que fijen los capítulos correspondientes de este ordenamiento, y de sus Reglamentos respectivos.
 
-### CAPÍTULO XVII. GASOLINERAS
+### CAPÍTULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### ARTÍCULO 269.
 
@@ -2519,7 +2545,7 @@ La autoridad sanitaria competente vigilará y establecerá los controles para qu
 
 Los transportes que circulen por uno o más Municipios del Estado de Baja California Sur, requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas que para tal efecto se emitan.
 
-### CAPÍTULO XVIII. VENDEDORES AMBULANTES
+### CAPÍTULO XVII. GASOLINERAS
 
 ###### ARTÍCULO 272.
 
@@ -2531,9 +2557,7 @@ Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad 
 
 Los concesionarios deberán dar aviso a la autoridad sanitaria correspondiente, del inicio de sus actividades.
 
-### CAPÍTULO XIX. PREVENCIÓN Y CONTROL DE LA RABIA EN
-
-ANIMALES Y SERES HUMANOS
+### CAPÍTULO XVIII. VENDEDORES AMBULANTES
 
 ###### ARTÍCULO 274.
 
@@ -2553,7 +2577,9 @@ La Secretaría de Salud en coordinación con la Secretaria de Educación Publica
 
 Los infractores podrán ser objeto de orientación y educación sobre los alimentos y productos que si pueden vender al publico, con independencia de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes tales como la remoción, decomiso de mercancía y revocación de permisos, en caso de no cumplir con lo enumerado en los párrafos primero y segundo. Además de cumplir con todas las medidas de higiene correspondientes, como la acreditación sobre el manejo higiénico de los alimentos, así como el uso de trastes herméticos, exhibidores transparentes, hieleras, guantes y redes para el cabello, entre otros, que eviten la contaminación de los alimentos.
 
-### CAPÍTULO I. AUTORIZACIONES
+### CAPÍTULO XIX. PREVENCIÓN Y CONTROL DE LA RABIA EN
+
+ANIMALES Y SERES HUMANOS
 
 ###### ARTÍCULO 276.
 
@@ -2593,7 +2619,7 @@ Las autoridades sanitarias mantendrán campañas permanentes de orientación a l
 
 ## TÍTULO DÉCIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO I. AUTORIZACIONES
 
 ###### ARTÍCULO 280.
 
@@ -2651,7 +2677,7 @@ Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autor
 
 Los derechos a que se refiere esta Ley, se regirán por lo que disponga la Legislación Fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Gobierno Federal.
 
-### CAPÍTULO III. CERTIFICADO
+### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
 
 ###### ARTÍCULO 289.
 
@@ -2711,7 +2737,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. CERTIFICADO
 
 ###### ARTÍCULO 297.
 
@@ -2745,7 +2771,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TÍTULO DÉCIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 302.
 
@@ -2851,7 +2877,7 @@ En el supuesto de que el medio de comunicación social verificado sea la prensa 
 
 ## TÍTULO DÉCIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIAS Y SANCIONES
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTÍCULO 315.
 
@@ -2955,7 +2981,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPÍTULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 329.
 
@@ -3061,7 +3087,7 @@ Solo procederá esta sanción, si previamente se dictó cualquier otra de las sa
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+### CAPÍTULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTÍCULO 341.
 
@@ -3175,7 +3201,7 @@ Los gastos de transferencia del ganado, su mantenimiento o sacrificio correrán 
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 353.
 
@@ -3246,6 +3272,8 @@ III.- Que fueren de difícil reparación los daños y perjuicios que se causen a
 ###### ARTÍCULO 364.
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+### CAPÍTULO V. PRESCRIPCIÓN
 
 ###### ARTÍCULO 365.
 
@@ -3596,3 +3624,15 @@ B.O. 5 DE FEBRERO DE 2026.
 PRIMERO.- El presente Decreto entrará en vigor el 01 de enero de 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Titular del Ejecutivo del Estado deberá prever en el Proyecto de Presupuesto de Egresos del Estado de Baja California Sur para el Ejercicio Fiscal del año 2026, los recursos presupuestarios necesarios a fin de dar cumplimiento con las disposiciones previstas en el presente Decreto.
+
+B.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3294 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA El ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del
+
+presente Decreto, se cubrirán con cargo al presupuesto autorizado de los ejecutores de gasto que correspondan.
+
+TERCERO.- La Secretaría de Salud del Gobierno del Estado de Baja California Sur deberá crear a más tardar el 31 de diciembre de 2026, el Registro Estatal de Pacientes con Enfermedades Autoinmunes a que refiere el presente Decreto.
