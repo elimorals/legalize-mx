@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-sistema-de-seguridad-publica-del-estado-de-183295"
 country: "mx"
 rank: "ley"
 publication_date: "2025-12-20"
-last_updated: "2025-12-20"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=183295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2026.
 
 Ley publicada en el Número Extraordinario 61 del Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 2025.
 
@@ -581,7 +581,9 @@ XXXV. Supervisar la correcta aplicación de los recursos destinados a soportar l
 
 XXXVI. Proponer un sistema de seguimiento y evaluación periódico al avance en el ejercicio de los Fondos de Ayuda Federal, así como de las estrategias, programas y acciones con indicadores de medición de la actuación de las Instituciones de Seguridad Pública;
 
-XXXVII. Intervenir en la celebración de contratos, en acuerdo con la Secretaría, que conlleven al debido ejercicio de recursos provenientes de los Fondos de Ayuda Federal en materia de seguridad pública;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
+
+XXXVII. Intervenir en la celebración de contratos que conlleven al debido ejercicio de recursos provenientes de los Fondos de Ayuda Federal en materia de seguridad pública;
 
 XXXVIII. Brindar capacitación y seguimiento a las Instituciones de Seguridad Pública y los municipios en la gestión, administración y ejecución de recursos que provengan de Fondos de Ayuda Federal y subsidios que se destinen al ámbito de la seguridad pública; y
 
@@ -2026,3 +2028,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los diecinueve días del mes de diciembre del año dos mil veinticinco.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1346 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXVII, DEL ARTÍCULO 29, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
