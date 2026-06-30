@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1809
 country: "mx"
 rank: "ley"
 publication_date: "2025-07-31"
-last_updated: "2025-07-31"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2026.
 
 Ley publicada en la Segunda Sección del Número 23 del Periódico Oficial del Estado de Puebla, el jueves 31 de julio de 2025.
 
@@ -61,9 +61,9 @@ El presente ordenamiento contempla los principios establecidos en los artículos
 
 Esta Ley tiene por objeto:
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-I. Establecer los principios, bases generales y procedimientos para garantizar el derecho de acceso a la información pública en posesión de cualquier autoridad, agencia, comisión, comité, corporación, ente, dependencia, entidad, institución, órgano, organismo o equivalente de los poderes Ejecutivo, Legislativo y Judicial del Estado y sus Ayuntamientos, órganos constitucional o legalmente autónomos, PARTIDOS POLÍTICOS CON REGISTRO ESTATAL, fideicomisos y fondos públicos, así como de cualquier persona física, moral O SINDICATO que reciba y ejerza recursos públicos o realice actos de autoridad en el Estado de Puebla y sus Ayuntamientos;
+I. Establecer los principios, bases generales y procedimientos para garantizar el derecho de acceso a la información pública en posesión de cualquier autoridad, agencia, comisión, comité, corporación, ente, dependencia, entidad, institución, órgano, organismo o equivalente de los poderes Ejecutivo, Legislativo y Judicial del Estado y sus Ayuntamientos, órganos constitucionalmente autónomos, fideicomisos y fondos públicos, así como de cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el Estado de Puebla y sus Ayuntamientos;
 
 II. Distribuir competencias de las autoridades garantes en materia de transparencia y acceso a la información pública, conforme a sus respectivos ámbitos de responsabilidad;
 
@@ -101,17 +101,17 @@ IV. Los Tribunales Administrativos, en su caso;
 
 V. Los Ayuntamientos;
 
-VI. Los Órganos constitucional o legalmente autónomos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+VI. Los órganos constitucionalmente autónomos;
 
-VII. LOS PARTIDOS POLÍTICOS CON REGISTRO ESTATAL;
+VII. (DEROGADA, P.O. 30 DE JUNIO DE 2026)
 
 VIII. Fideicomisos y fondos públicos, y
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-IX. Cualquier persona física, moral O SINDICATO que reciba y ejerza recursos públicos o realice actos de autoridad en el Estado y sus Municipios.
+IX. Cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el Estado y sus Municipios.
 
 ###### ARTÍCULO 4.
 
@@ -119,9 +119,9 @@ El derecho humano de acceso a la información comprende solicitar, investigar, d
 
 Toda la información generada, obtenida, adquirida, transformada o en posesión de los sujetos obligados, es pública y accesible a cualquier persona, en los términos y condiciones que se establezcan en la presente Ley, y en las disposiciones jurídicas aplicables.
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
-La información podrá ser clasificada como reservada temporalmente por razones de interés público o seguridad nacional CONFORME A LOS TÉRMINOS ESTABLECIDOS POR ESTA LEY.
+La información podrá ser clasificada como reservada temporalmente por razones de interés público o seguridad nacional.
 
 ###### ARTÍCULO 5.
 
@@ -137,11 +137,11 @@ En todo lo no previsto en la presente Ley, se estará a lo establecido en la Con
 
 De manera supletoria y en lo conducente, será aplicable el Código Procedimental en materia civil.
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 7.
 
-El Estado garantizará el efectivo acceso de toda persona a la información en posesión de cualquier autoridad, agencia, comisión, comité, corporación, ente, dependencia, entidad, institución, órgano, organismo o equivalente de los poderes Ejecutivo, Legislativo y Judicial del Estado y sus Ayuntamientos, órganos constitucional o legalmente autónomos, PARTIDOS POLÍTICOS CON REGISTRO ESTATAL, fideicomisos y fondos públicos, así como de cualquier persona física, moral O SINDICATO que reciba y ejerza recursos públicos o realice actos de autoridad en el Estado de Puebla y sus Municipios.
+El Estado garantizará el efectivo acceso de toda persona a la información en posesión de cualquier autoridad, agencia, comisión, comité, corporación, ente, dependencia, entidad, institución, órgano, organismo o equivalente de los poderes Ejecutivo, Legislativo y Judicial del Estado y sus Ayuntamientos, órganos constitucionalmente autónomos, fideicomisos y fondos públicos, así como de cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el Estado de Puebla y sus Municipios.
 
 ###### ARTÍCULO 8.
 
@@ -155,9 +155,9 @@ III. Áreas: Instancias que disponen o pueden disponer de la información públi
 
 IV. Autoridad garante federal: Transparencia para el Pueblo, Órgano Administrativo Desconcentrado de la Secretaría Anticorrupción y Buen Gobierno Federal;
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-V. Autoridades garantes: El Órgano Administrativo Desconcentrado; el órgano encargado de la contraloría interna u homólogo del Poder Legislativo; el órgano encargado de la contraloría interna u homólogo del Poder Judicial; los órganos internos de control o equivalentes de los órganos constitucional o legalmente autónomos, EL INSTITUTO ELECTORAL DEL ESTADO POR CUANTO HACE A LOS PARTIDOS POLÍTICOS CON REGISTRO ESTATAL, Y EL TRIBUNAL DE ARBITRAJE POR CUANTO HACE A LOS SINDICATOS;
+V. Autoridades garantes: El Órgano Administrativo Desconcentrado: el órgano encargado de la contraloría interna u homólogo del Poder Legislativo; el órgano encargado de la contraloría interna u homólogo del Poder Judicial; y los órganos internos de control o equivalentes de los órganos constitucionalmente autónomos.
 
 VI. Comité de Transparencia: Instancia a la que hace referencia el artículo 32 de la presente Ley;
 
@@ -241,9 +241,9 @@ XXXV. Solicitante: Toda persona que requiere a los sujetos obligados informació
 
 XXXVI. Solicitud de Acceso: Solicitud de acceso a la información pública;
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN XXXVII DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
 
-XXXVII. Sujetos obligados: Cualquier autoridad, agencia, comisión, comité, corporación, ente, dependencia, entidad, institución, órgano, organismo o equivalente de los poderes Ejecutivo, Legislativo y Judicial en el Estado, y sus Ayuntamientos, órganos constitucional o legalmente autónomos, PARTIDOS POLÍTICOS CON REGISTRO ESTATAL, fideicomisos y fondos públicos, así como cualquier persona física, moral O SINDICATO que reciba y ejerza recursos públicos o realice actos de autoridad en los referidos niveles de gobierno;
+XXXVII. Sujetos obligados: Cualquier autoridad, agencia, comisión, comité, corporación, ente, dependencia, entidad, institución, órgano, organismo o equivalente de los poderes Ejecutivo, Legislativo y Judicial en el Estado, y sus Ayuntamientos, órganos constitucionalmente autónomos, fideicomisos y fondos públicos, así como cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en los referidos niveles de gobierno;
 
 XXXVIII. Suplencia de la Deficiencia de la Queja: Intervención de la autoridad garante con el fin de subsanar en la resolución respectiva, los errores del recurrente respecto de los motivos de su inconformidad al interponer el recurso de revisión;
 
@@ -413,7 +413,9 @@ II. El Poder Legislativo;
 
 III. El Poder Judicial;
 
-IV. Cada uno de los Órganos Constitucional o legalmente Autónomos, y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2026)</small>
+
+IV. Cada uno de los órganos constitucionalmente autónomos, y
 
 V. Los Ayuntamientos, según su representación.
 
@@ -1289,81 +1291,9 @@ X. Las resoluciones que emita a los recursos que hayan sido interpuestos en cont
 
 XI. Estadísticas sobre los recursos interpuestos en las que se identifique con precisión el sujeto obligado recurrido y el sentido de la resolución.
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
 ###### ARTÍCULO 67.
 
-Además de lo señalado en el artículo 54 de la presente Ley, los partidos políticos con registro estatal, las agrupaciones políticas, las asociaciones civiles creadas por las y los ciudadanos que pretendan postular su candidatura independiente, según corresponda, deberán publicar, difundir y mantener actualizada y accesible, la información siguiente:
-
-I. El padrón de afiliados o militantes de los partidos políticos, que contendrá, exclusivamente: apellidos, nombre o nombres, fecha de afiliación y entidad de residencia;
-
-II. Los acuerdos y resoluciones de los órganos de dirección de los partidos políticos;
-
-III. Los convenios de participación entre partidos políticos con organizaciones de la sociedad civil;
-
-IV. Contratos y convenios para la adquisición o arrendamiento de bienes y servicios;
-
-V. Las minutas de las sesiones de los partidos políticos;
-
-VI. Los responsables de los órganos internos de finanzas de los partidos políticos;
-
-VII. Las organizaciones sociales adherentes o similares a algún partido político;
-
-VIII. Los montos de las cuotas ordinarias y extraordinarias aportadas por sus militantes;
-
-IX. Los montos autorizados de financiamiento privado, así como una relación de los nombres de los aportantes vinculados con los montos aportados;
-
-X. El listado de aportantes a las precampañas y campañas políticas, así como el listado de aportantes a los actos tendentes a recabar el apoyo ciudadano a los aspirantes a candidatos independientes;
-
-XI. El acta de la asamblea constitutiva;
-
-XII. Las demarcaciones electorales en las que participen;
-
-XIII. Los tiempos que les corresponden en canales de radio y televisión;
-
-XIV. Sus documentos básicos, plataformas electorales y programas de gobierno y los mecanismos de designación de los órganos de dirección en sus respectivos ámbitos;
-
-XV. El directorio de sus órganos de dirección estatales, municipales y, en su caso, regionales, delegacionales y distritales;
-
-XVI. El tabulador de remuneraciones que perciben las y los integrantes de los órganos a que se refiere la fracción anterior y de los demás funcionarios partidistas, que deberá vincularse con el directorio y estructura orgánica; así como cualquier persona que reciba ingresos por parte del partido político, independientemente de la función que desempeñe dentro o fuera del partido;
-
-XVII. El currículo con fotografía reciente de todas las y los precandidatos y las y los candidatos a cargos de elección popular, con el cargo al que se postula, el distrito electoral y la entidad federativa;
-
-XVIII. El currículo de las y los dirigentes a nivel estatal y municipal;
-
-XIX. Los convenios de frente, coalición, candidaturas comunes o fusión que celebren o de participación electoral que realicen con agrupaciones políticas;
-
-XX. Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatos a cargos de elección popular y, en su caso, el registro correspondiente;
-
-XXI. Los responsables de los procesos internos de evaluación y selección de candidatos a cargos de elección popular, conforme a su normatividad interna;
-
-XXII. Informes sobre el gasto del financiamiento público ordinario recibido para la capacitación, promoción y desarrollo del liderazgo político de las mujeres;
-
-XXIII. Las resoluciones dictadas por los órganos de control;
-
-XXIV. Los montos de financiamiento público otorgados mensualmente, en cualquier modalidad, a sus órganos estatales y municipales así como los descuentos correspondientes a sanciones;
-
-XXV. El estado de situación financiera y patrimonial; el inventario de los bienes inmuebles de los que sean propietarios, así como los anexos que formen parte integrante de los documentos anteriores;
-
-XXVI. Las resoluciones que emitan sus órganos disciplinarios de cualquier nivel, una vez que hayan causado estado;
-
-XXVII. Los nombres de sus representantes ante la autoridad electoral competente;
-
-XXVIII. Los mecanismos de control y supervisión aplicados a los procesos internos de selección de candidatos;
-
-XXIX. El listado de fundaciones, asociaciones, centros o institutos de investigación o capacitación o cualquier otro que reciban apoyo económico de los partidos políticos, así como los montos destinados para tal efecto;
-
-XXX. Las resoluciones que dicte la autoridad electoral competente respecto de los informes de ingresos y gastos;
-
-XXXI. El domicilio y actividades de los centros de formación y educación política;
-
-XXXII. El origen de los recursos públicos que reciban;
-
-XXXIII. El inventario de bienes inmuebles y vehículos adquiridos con recursos provenientes del financiamiento público;
-
-XXXIV. Los gastos de las campañas constitucionales y aquéllas internas de precandidatos a cargos de elección popular o de dirigencia, en lo referente a recursos públicos, y
-
-XXXV. Los informes financieros presentados a la autoridad electoral.
+(DEROGADO, P.O. 30 DE JUNIO DE 2026)
 
 ###### ARTÍCULO 68.
 
@@ -1385,23 +1315,9 @@ VII. Causas por las que, en su caso, se inicie el proceso de constitución o ext
 
 VIII. Los contratos de obras, adquisiciones y servicios que involucren recursos públicos del fideicomiso, así como los honorarios derivados de los servicios y operaciones que realice la institución de crédito o la fiduciaria.
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
 ###### ARTÍCULO 69.
 
-Los sindicatos que reciban y ejerzan recursos públicos deberán mantener actualizada y accesible, de forma impresa para consulta directa y en los respectivos sitios de internet, la información aplicable del artículo 54 de la presente Ley, la señalada en el artículo anterior y la siguiente:
-
-I. Contratos y convenios entre sindicatos y autoridades;
-
-II. El directorio del Comité Ejecutivo o su equivalente;
-
-III. El padrón de socios, y
-
-IV. La relación detallada de los recursos públicos económicos, en especie, bienes o donativos que reciban y el informe detallado del ejercicio y destino final de los recursos públicos que ejerzan.
-
-Por lo que se refiere a los documentos que obran en el expediente de registro de las asociaciones, únicamente estará clasificada como información confidencial, los domicilios de las y los trabajadores señalados en los padrones de socios.
-
-Los sujetos obligados que asignen recursos públicos a los sindicatos, deberán habilitar un espacio en sus páginas de internet para que éstos cumplan con sus obligaciones de transparencia y dispongan de la infraestructura tecnológica para el uso y acceso a la Plataforma Nacional. En todo momento el sindicato será el responsable de la publicación, actualización y accesibilidad de la información.
+(DEROGADO, P.O. 30 DE JUNIO DE 2026)
 
 ###### ARTÍCULO 70.
 
@@ -2319,11 +2235,11 @@ Las autoridades garantes deben notificar a las partes, a más tardar, al tercer 
 
 ### CAPÍTULO I. DE LAS MEDIDAS DE APREMIO
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 175.
 
-Las autoridades garantes, en sus respectivos ámbitos de competencia, podrán imponer a la persona servidora pública encargada de cumplir con la resolución, O A LAS Y LOS MIEMBROS DE LOS SINDICATOS, PARTIDOS POLÍTICOS o a la persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
+Las autoridades garantes, en sus respectivos ámbitos de competencia, podrán imponer a la persona servidora pública encargada de cumplir con la resolución, o a la persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
 
 I. Amonestación pública; o
 
@@ -2423,15 +2339,11 @@ Dichas responsabilidades se determinarán, en forma autónoma, a través de los 
 
 Para tales efectos, las autoridades garantes podrán denunciar ante las autoridades competentes cualquier acto u omisión violatoria de esta Ley y aportar las pruebas que consideren pertinentes, en los términos de las leyes aplicables.
 
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2026)</small>
 
 ###### ARTÍCULO 186.
 
-ANTE INCUMPLIMIENTOS EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN POR PARTE DE LOS PARTIDOS POLÍTICOS, LAS AUTORIDADES GARANTES DARÁN VISTA AL INSTITUTO ELECTORAL DEL ESTADO DE PUEBLA, PARA QUE RESUELVAN LO CONDUCENTE, SIN PERJUICIO DE LAS SANCIONES ESTABLECIDAS PARA LOS PARTIDOS POLÍTICOS EN LAS LEYES APLICABLES.
-
-(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 217/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-En el caso de probables infracciones relacionadas con fideicomisos o fondos públicos, SINDICATOS o personas físicas o morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, las autoridades garantes deberán dar vista al órgano interno de control del sujeto obligado relacionado con estos, cuando sean personas servidoras públicas, con el fin de que instrumenten los procedimientos administrativos a que haya lugar.
+En el caso de probables infracciones relacionadas con fideicomisos o fondos públicos, o personas físicas o morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, las autoridades garantes deberán dar vista al órgano interno de control del sujeto obligado relacionado con estos, cuando sean personas servidoras públicas, con el fin de que instrumenten los procedimientos administrativos a que haya lugar.
 
 ###### ARTÍCULO 187.
 
@@ -2550,3 +2462,23 @@ VIGÉSIMO. Se suspenden por un plazo de cuarenta y cinco días hábiles contados
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de julio de dos mil veinticinco. Diputada Presidenta. LAURA GUADALUPE VARGAS VARGAS. Rúbrica. Diputado Vicepresidente. JULIO MIGUEL HUERTA GÓMEZ. Rúbrica. Diputado Vicepresidente. RAFAEL ALEJANDRO MICALCO MÉNDEZ. Rúbrica. Diputada Secretaria. MARÍA SOLEDAD AMIEVA ZAMORA. Rúbrica. Diputada Secretaria. ANGÉLICA PATRICIA ALVARADO JUÁREZ. Rúbrica.
 
 Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de julio de dos mil veinticinco. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. CIUDADANO ALEJANDRO ARMENTA MIER. Rúbrica. El Secretario de Gobernación. CIUDADANO JOSÉ SAMUEL AGUILAR PALA. Rúbrica. El Secretario de Anticorrupción y Buen Gobierno. CIUDADANO ALEJANDRO ESPIDIO REYES. Rúbrica. La Secretaria de Planeación, Finanzas y Administración. CIUDADANA JOSEFINA MORALES GUERRERO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 2, LAS FRACCIONES VI Y IX DEL 3, EL ÚLTIMO PÁRRAFO DEL 4, EL 7, LAS FRACCIONES V Y XXXVII DEL 8, LA FRACCIÓN IV DEL 22, EL ACÁPITE DEL 175 Y EL 186, Y SE DEROGAN LA FRACCIÓN VII DEL ARTÍCULO 3, EL 67, EL 69; TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE PUEBLA; ASIMISMO SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 2, LA FRACCIÓN VI DEL 3, LAS FRACCIONES II Y XXXI DEL 5; Y SE DEROGAN LA FRACCIÓN VII DEL ARTÍCULO 3 Y EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 194; TODOS DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Las autoridades garantes que dejarán de fungir como tales de acuerdo con el presente Decreto, deberán transferir los expedientes, archivos, procedimientos y asuntos que correspondan conforme al ámbito de sus atribuciones para su atención, a las autoridades garantes nacionales o locales, según corresponda, de acuerdo a las facultades que contemplan las leyes generales y locales en la materia, dentro del término de 30 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+Para tales efectos, deberán realizarse las acciones jurídicas y administrativas pertinentes por parte de las autoridades o instancias correspondientes a efecto de dar cumplimiento al presente Decreto.
+
+TERCERO. Para llevar a cabo la transferencia a la que refiere el artículo Transitorio que antecede, quedan suspendidos los plazos y términos, hasta en tanto concluya dicha transferencia, así como la transferencia electrónica que deberá realizarse en la Plataforma Nacional de Transparencia.
+
+CUARTO. El Comité del Subsistema de Transparencia deberá ajustar su integración a más tardar en sesenta días naturales, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita el Órgano Administrativo Desconcentrado de la Secretaría Anticorrupción y Buen Gobierno.
+
+QUINTO. El Comité del Subsistema de Transparencia deberá aprobar, en sesión extraordinaria, las reformas a sus reglas de operación y funcionamiento en términos del presente Decreto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
