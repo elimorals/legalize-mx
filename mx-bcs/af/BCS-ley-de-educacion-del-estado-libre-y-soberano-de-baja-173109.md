@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-educacion-del-estado-libre-y-soberano-de-baja-173109"
 country: "mx"
 rank: "ley"
 publication_date: "2024-05-15"
-last_updated: "2024-05-15"
+last_updated: "2026-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2026.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Gobierno del Estado de Baja California Sur, el miércoles 15 de mayo de 2024.
 
@@ -205,7 +205,11 @@ VIII. Inculcar el respeto por la naturaleza, a través de la generación de capa
 
 IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y de la entidad federativa de Baja California Sur, y
 
-X. Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado de Baja California Sur.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 30 DE JUNIO DE 2026)</small>
+
+X. Destacar la importancia de una alimentación completa, equilibrada y suficiente para el desarrollo pleno de las personas y fomentar hábitos de higiene bucal y personal, y
+
+XI. Todos aquellos que contribuyan al bienestar y desarrollo del país y del Estado de Baja California Sur.
 
 ###### Artículo 14.
 
@@ -344,6 +348,12 @@ Además, fomentarán una cultura a favor de la educación inicial con base en pr
 La autoridad educativa estatal impartirá la educación multigrado, la cual se ofrecerá, dentro de un mismo grupo, a estudiantes de diferentes grados académicos, niveles de desarrollo y de conocimientos, en centros educativos en zonas de alta y muy alta marginación.
 
 Para dar cumplimiento a esta disposición, las autoridades educativas del Estado de Baja California Sur atenderán los criterios establecidos en el artículo 43 de la Ley General de Educación.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2026)</small>
+
+###### Artículo 24 Bis.
+
+En el ámbito de la educación básica, las autoridades educativas priorizarán la enseñanza de la salud bucodental, así como la promoción de hábitos de higiene bucal en beneficio de las y los educandos. Para el cumplimiento de este propósito, se implementarán programas, políticas públicas y acciones pedagógicas orientadas a la prevención de enfermedades bucodentales, en coordinación con la Secretaría de Salud del Estado, a fin de garantizar una atención integral y la formación de prácticas saludables desde edades tempranas.
 
 ### Capítulo III. Del tipo de educación media superior
 
@@ -823,15 +833,21 @@ La Secretaría, en el ámbito de su competencia, aplicará y vigilará el cumpli
 
 La Secretaría realizará acciones de vigilancia para que en los alimentos y bebidas que se preparen y procesen al interior de las escuelas cumplan con el valor nutritivo para la salud de los educandos.
 
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2026)</small>
+
+En atención a lo anterior y en coordinación con la Secretaría de Salud del Estado, se implementarán políticas públicas y programas de educación bucodental, así como hábitos de higiene dental en sector educativo.
+
 ###### Artículo 75.
 
 Dentro de las escuelas queda prohibida la distribución y comercialización de los alimentos que no favorezcan la salud de los educandos, así como las bebidas energizantes.
 
 Las autoridades educativas estatal (sic) y municipales promoverán ante las autoridades correspondientes, la prohibición de la venta de alimentos con bajo valor nutritivo y alto contenido calórico en las inmediaciones de los planteles escolares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE JUNIO DE 2026)</small>
+
 ###### Artículo 76.
 
-La Secretaría establecerá las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, la Secretaría considerará las Normas Oficiales Mexicanas respectivas.
+La Secretaría establecerá las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos de higienes bucales y nutricionales, entre otros. En materia de la promoción de la salud escolar, la Secretaría considerará las Normas Oficiales Mexicanas respectivas.
 
 El gobierno del Estado de Baja California Sur dispondrá las medidas para que los certificados médicos de los educandos que se requieran para sus trámites escolares se emitan sin costo alguno.
 
@@ -1700,3 +1716,21 @@ VÍCTOR MANUEL CASTRO COSÍO
 SECRETARIO GENERAL DE GOBIERNO
 
 JOSÉ SAÚL GONZÁLEZ NÚÑEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 30 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3295 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobiemo del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los municipios, en el ámbito de sus competencias, podrán colaborar con las autoridades estatales para implementar campañas de concienciación, revisiones preventivas y actividades complementarias en materia de salud bucodental en las instituciones de educación básica.
+
+###### ARTÍCULO TERCERO.
+
+Para la correcta implementación del presente Decreto, las autoridades estatales, en el ámbito de sus competencias, podrán celebrar convenios de colaboración con instituciones públicas, privadas, fundaciones y organizaciones de la sociedad civil, con el fin de fortalecer las acciones de educación, prevención y atención en materia de salud bucodental en el nivel de educación básica.
