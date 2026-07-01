@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-secretariado-ejecutivo-del-sistema-nacional-1738
 country: "mx"
 rank: "reglamento"
 publication_date: "2024-07-29"
-last_updated: "2024-07-29"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173846&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2024-07-26"
 ---
 # REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA, PUBLICADO EN EL D.O.F. DE 1 DE JULIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JULIO DE 2026 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 29 de julio de 2024.
 
@@ -756,3 +758,25 @@ CUARTO.- Las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reg
 QUINTO.- Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este ordenamiento, que conforme a este deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas a las que este decreto les atribuya la competencia respectiva.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en Ciudad de México, a 26 de julio de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Seguridad y Protección Ciudadana, Rosa Icela Rodríguez Velázquez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, publicado el 29 de julio de 2024 en el Diario Oficial de la Federación, y se derogan todas aquellas disposiciones administrativas que se opongan al presente ordenamiento.
+
+TERCERO. Para la implementación de la estructura organizacional prevista en el presente Decreto, las modificaciones que impliquen reasignación de plazas o cobertura de funciones mediante recursos existentes podrán realizarse como movimientos compensados durante el ejercicio fiscal en curso. Asimismo, otras modificaciones, como cambios de denominación o de adscripción, se realizarán conforme a las disposiciones administrativas aplicables. Las unidades de nueva creación que requieran recursos adicionales deberán considerarse en la programación presupuestal de los ejercicios fiscales subsecuentes, asegurando la operación continua del Secretariado Ejecutivo y la congruencia con los lineamientos normativos y presupuestales aplicables.
+
+CUARTO. Las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas a las unidades administrativas del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública que desaparecen, cambian de denominación o se modifican por virtud del presente ordenamiento se entenderán conferidas a las unidades administrativas que resulten competentes conforme a este decreto.
+
+QUINTO. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este ordenamiento, que conforme a este deban pasar de una unidad administrativa a otra u otras, deberán continuar su trámite y ser resueltos por aquella o aquellas a las que este decreto les atribuya la competencia respectiva.
+
+SEXTO. Los actos, resoluciones, acuerdos, convenios y demás instrumentos jurídicos emitidos por las unidades administrativas del Secretariado Ejecutivo con anterioridad a la entrada en vigor del presente decreto conservarán su validez y surtirán plenos efectos legales, sin perjuicio de que su seguimiento o ejecución corresponda a otras unidades administrativas competentes conforme a este Decreto.
+
+SÉPTIMO. Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente decreto, el Secretariado Ejecutivo deberá adecuar sus manuales de organización general, específicos, de procedimientos y de servicios al público, así como actualizar su estructura ocupacional y plantillas de personal conforme a lo establecido en este Decreto.
+
+OCTAVO. Las erogaciones que se generen por la entrada en vigor e implementación del presente Decreto se cubrirán con cargo al presupuesto autorizado del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública en cada ejercicio fiscal.
