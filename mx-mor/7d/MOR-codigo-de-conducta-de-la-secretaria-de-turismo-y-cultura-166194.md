@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-turismo-y-cultura-166194
 country: "mx"
 rank: "codigo"
 publication_date: "2023-05-17"
-last_updated: "2023-05-17"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE TURISMO Y CULTURA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE TURISMO DEL PODER EJECUTIVO ESTATAL, PUBLICADO EN EL P.O. DE 1 DE JULIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE TURISMO Y CULTURA, DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 17 de mayo de 2023.
 
@@ -302,3 +304,17 @@ Julieta Goldzweig Cornejo
 Secretaría de Turismo y Cultura del Poder Ejecutivo del Estado de Morelos.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE TURISMO DEL PODER EJECUTIVO ESTATAL”.]
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Conducta de la Secretaría de Turismo y Cultura, publicado en el Periódico Oficial “Tierra y Libertad”, número 6196, de fecha 17 de mayo de 2023.
+
+TERCERA. El presente instrumento deberá difundirse también en el portal electrónico oficial de la Secretaría de Turismo del Poder Ejecutivo Estatal.
+
+CUARTA. Se instruye a la persona titular de la Unidad de Enlace Financiero Administrativo de la Secretaría de Turismo, hacer del conocimiento de las personas servidoras públicas de esta Secretaría, así como al de nuevo ingreso, la existencia y contenido del presente Código de Conducta para su observancia y cumplimiento.
