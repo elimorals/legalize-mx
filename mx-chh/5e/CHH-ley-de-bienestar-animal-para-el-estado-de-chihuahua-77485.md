@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-bienestar-animal-para-el-estado-de-chihuahua-77485"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-17"
-last_updated: "2022-11-02"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de noviembre de 2010
 
@@ -431,11 +431,11 @@ En el caso de animales trasladados que fueran detenidos en su camino, por cualqu
 
 ### CAPÍTULO III. DE LAS DISPOSICIONES EN MATERIA DE BIENESTAR APLICABLES A LA COMERCIALIZACIÓN DE ANIMALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 21.
 
-La exhibición y venta de animales se realizará en locales e instalaciones adecuadas para su correcto cuidado, mantenimiento y protección contra las inclemencias del tiempo, respetando las normas de higiene y seguridad colectiva. En ningún caso estas operaciones podrán efectuarse en la vía pública o en instalaciones destinadas al uso habitacional de las personas, escuelas, mercados, tianguis, ferias o cualquier otro lugar que no cumpla con los requisitos de la presente Ley.
+La exhibición, venta y adopción de animales se realizará en locales e instalaciones adecuadas para su correcto cuidado, mantenimiento y protección contra las inclemencias del tiempo, respetando las normas de higiene y seguridad colectiva. En ningún caso estas operaciones podrán efectuarse en la vía pública o en instalaciones destinadas al uso habitacional de las personas, escuelas, mercados, tianguis, ferias o cualquier otro lugar que no cumpla con los requisitos de la presente Ley.
 
 Esta disposición no se aplicará en la compra, venta y alquiler de animales de granja en relación directa con la explotación pecuaria, siempre que se realice en las áreas determinadas por autoridad competente.
 
@@ -480,6 +480,12 @@ XII. Todo animal doméstico a comercializar debe ser vacunado y desparasitado, s
 XIII. Contar con plan de manejo, de acuerdo a la especie, para el centro de crianza, reproducción y cualquier otro lugar donde se vendan o se proporcione servicio de pensión o albergue, para animales de compañía con el fin de garantizar el bienestar del animal bajo su custodia.
 
 XIV. (DEROGADA, P.O. 17 DE JUNIO DE 2017)
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+###### ARTÍCULO 21 Ter.
+
+La exhibición, venta y adopción de animales, se podrá realizar a través de medios remotos o mediante la utilización de herramientas tecnológicas, que disminuyan el contacto físico directo entre el animal y las personas interesadas en su adquisición.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
 
@@ -830,6 +836,10 @@ Los particulares requerirán licencia para la operación de establecimientos:
 I. De atención a los animales, y
 
 II. Dedicados a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales que no sean destinados al consumo humano.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+Los establecimientos dedicados a la comercialización de animales de compañía, podrán destinar, sin costo alguno, al menos dos espacios físicos, para la exhibición de animales en adopción, en custodia de alguna asociación protectora de animales legalmente constituida, a fin de fomentar la cultura de la adopción de animales de compañía abandonados.
 
 ###### ARTÍCULO 54.
 
@@ -1340,3 +1350,11 @@ El Ejecutivo del Estado incluirá, dentro de su presupuesto anual a partir del e
 ###### ARTÍCULO TERCERO.
 
 El Ejecutivo Estatal deberá emitir las disposiciones reglamentarias y Normas Técnicas Estatales necesarias de la presente reforma.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFLEY/0516/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIDA SILVESTRE, Y DE LA LEY DE BIENESTAR ANIMAL, AMBOS ORDENAMIENTOS PARA EL ESTADO DE CHIHUAHUA ".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
