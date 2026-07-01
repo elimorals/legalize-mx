@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2026-05-27"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -2671,11 +2671,11 @@ La educación superior en Chiapas deberá incidir en el desarrollo de las comuni
 
 La Benemérita Universidad Autónoma de Chiapas, desde su fundación está orientada a la formación de ciudadanos que contribuyan al desarrollo sostenible de sus comunidades para lo que se constituye como un organismo autónomo descentralizado, de interés público, con personalidad jurídica y patrimonio propio, al servicio de los intereses de la Nación y del Estado.
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### Artículo 104 Bis.
 
-La Universidad de Ciencias y Artes de Chiapas, está orientada a la formación humanista y científica integral de ciudadanos y ciudadanas, con perspectiva de género, sentido crítico y sensibilidad artística que contribuyan al desarrollo sostenible de sus comunidades, para lo que se constituye como un Organismo Autónomo Descentralizado, de interés público, con personalidad jurídica y patrimonio propio, al servicio de los intereses de la Nación y del Estado de Chiapas, en la construcción de una sociedad de paz.
+La Universidad Autónoma de Ciencias y Artes de Chiapas, está orientada a la formación humanista y científica integral de ciudadanos y ciudadanas, con perspectiva de género, sentido crítico y sensibilidad artística que contribuyan al desarrollo sostenible de sus comunidades, para lo que se constituye como un Organismo Autónomo Descentralizado, de interés público, con personalidad jurídica y patrimonio propio, al servicio de los intereses de la Nación y del Estado de Chiapas, en la construcción de una sociedad de paz.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2025)</small>
 
@@ -5416,3 +5416,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo previsto en el presente Decreto.
 
 Artículo Tercero.- Las adecuaciones legislativas en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales en Posesión de Sujetos Obligados requeridas, deberán realizarse en un plazo no mayor a treinta días hábiles posteriores a la entrada de la presente reforma constitucional.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 269 POR EL QUE SE REFORMA EL ARTÍCULO 104 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo previsto en el presente Decreto.
