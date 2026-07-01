@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-municipio-de-miguel-aleman-tamaulipas-18418
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-26"
-last_updated: "2025-12-26"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE INGRESOS DEL MUNICIPIO DE MIGUEL ALEMÁN, TAMAULIPAS, PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en el Extraordinario Número 64 del Periódico Oficial del Estado de Tamaulipas, el viernes 26 de diciembre de 2025.
 
@@ -333,19 +333,9 @@ g) Renta de equipo incluyendo trabajo de gabinete. 5 U.M.A. por
 
 hectárea.
 
-XXVIII. Por la expedición de licencias de construcción
+XXVIII(SIC). (DEROGADA, P.O. 1 DE JULIO DE 2026)
 
-o edificación para antenas de telefonía celular, por
-
-cada una 1,138 veces el Valor Diario de la Unidad
-
-de Medida y Actualización (U.M.A.);
-
-XXIX. Por la expedición de licencias de construcción
-
-o edificación para antenas de radiocomunicación
-
-privadas, por cada 30 metros lineales (altura), 7.5 U.M.A.;
+XXIX. (DEROGADA, P.O. 1 DE JULIO DE 2026)
 
 XXX. Modificación de dictamen de subdivisión, fusión
 
