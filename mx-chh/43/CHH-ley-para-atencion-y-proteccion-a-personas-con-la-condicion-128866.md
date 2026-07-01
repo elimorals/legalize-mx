@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-atencion-y-proteccion-a-personas-con-la-condicion-1288
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-12"
-last_updated: "2024-08-28"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en el Folleto Anexo al Número 38 del Periódico Oficial del Estado de Chihuahua, el sábado 12 de mayo de 2018.
 
@@ -277,7 +277,9 @@ II. Apoyar y proponer mecanismos de coordinación entre las autoridades de los d
 
 III. Apoyar la promoción de las políticas, estrategias y acciones en la materia de la presente Ley, así como promover, en su caso, las adecuaciones y modificaciones necesarias a las mismas.
 
-IV. Proponer al Ejecutivo Estatal las políticas y criterios para la formulación de programas y acciones de las Dependencias y Entidades de la Administración Pública Estatal en materia de atención de las personas con la condición del espectro autista.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+IV. Proponer al Ejecutivo Estatal las políticas y criterios para la formulación de programas y acciones de las Dependencias y Entidades de la Administración Pública Estatal, en materia de atención de las personas con la condición del espectro autista, incluida la capacitación permanente de las personas servidoras públicas.
 
 V. Solicitar asesoría a los organismos internacionales relacionados con la materia de la presente Ley.
 
@@ -594,3 +596,11 @@ Las autoridades competentes de la Administración Pública Estatal realizarán, 
 ###### ARTÍCULO TERCERO.
 
 La persona titular del Poder Ejecutivo del Estado, establecerá las previsiones y demás recursos financieros en los presupuestos anuales de egresos, a fin de cumplir con lo establecido en el presente Decreto.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0522/2026 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 13, FRACCIÓN IV, DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
