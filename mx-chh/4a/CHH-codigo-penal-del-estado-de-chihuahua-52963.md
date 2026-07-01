@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2026-05-27"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -352,6 +352,10 @@ IV. (Legítima defensa). Se repela una agresión real, ilegítima, actual o inmi
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2018)</small>
 
 Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquel que cause un daño, lesione o prive de la vida a alguien a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia, o los de cualquier persona que tenga el mismo deber de defender, o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+También se presumirá legítima defensa, cuando antes de repeler la agresión, fuese víctima de violencia feminicida por parte de la persona agresora.
 
 V. (Estado de necesidad). Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo;
 
@@ -6058,6 +6062,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 27 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO LXVIII/RFCOD/0495/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLYC/0505/2026 II P.O., MEDIANTE EL CUAL SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA, Y DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
 
 ###### ARTÍCULO ÚNICO.
 
