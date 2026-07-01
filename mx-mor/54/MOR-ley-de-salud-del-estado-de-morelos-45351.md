@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2026-02-18"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -3651,11 +3651,43 @@ La Secretaría de Salud, fomentará el principio de seguridad agroalimentaria co
 
 Así mismo, coadyuvará con la Secretaría de Desarrollo Agropecuario en materia de inocuidad de los productos y subproductos apícolas y los procesos de polinización.
 
-### CAPÍTULO I. AUTORIZACIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JULIO DE 2026)</small>
+
+### CAPÍTULO XXII. GIMNASIOS Y CENTROS DEPORTIVOS
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+###### Artículo 334 Ter.
+
+Para efectos de esta Ley, se entiende por:
+
+Gimnasio: Establecimiento mercantil o público que prestan servicios de acondicionamiento físico, destinados a desarrollar, fortalecer y dar flexibilidad al cuerpo, mediante la utilización de pesas y máquinas específicas.
+
+Centros deportivos: Espacios públicos o privados dedicados a la promoción y práctica de uno o más deportes, que cuentan con infraestructura como canchas, gimnasios, piscinas, áreas de entrenamiento y espacios complementarios, y pueden ser cerradas o al aire libre.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+###### Artículo 334 Quater.
+
+Los gimnasios y centros deportivos deberán de garantizar la seguridad de sus usuarios:
+
+I. La presencia de personal capacitado en materia de primeros auxilios y atención inmediata de emergencias durante su horario de operación;
+
+II. Contar con protocolos de actuación ante emergencias médicas, debidamente validados por la autoridad de protección civil y de salud correspondiente, y
+
+III. El personal instructor, deberá acreditar conocimientos básicos en prevención de lesiones, de conformidad con las normas técnicas aplicables.
+
+Las capacitaciones deberán de ser certificadas por instituciones de validez oficial.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+###### Artículo 334 Quinquies.
+
+Los Gimnasios y los centros deportivos con la finalidad de prevenir riesgos a la salud deberán de solicitar al momento de su inscripción y anualmente a la persona usuaria un certificado médico, emitida por una institución de Salud o médico con cédula profesional que acredite su aptitud física para realizar actividad física. La información se sujetará a la normatividad vigente en materia de protección de datos personales.
 
 ## TÍTULO DÉCIMO SEXTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIÓN SANITARIAS
+### CAPÍTULO I. AUTORIZACIONES
 
 ###### Artículo 335.
 
@@ -3731,7 +3763,7 @@ III.- Las demás que determine esta Ley y otras disposiciones generales aplicabl
 
 Los derechos a que se refiere esta Ley, se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado y el Ejecutivo Federal.
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIÓN SANITARIAS
 
 ###### Artículo 345.
 
@@ -3775,7 +3807,7 @@ En la substanciación del procedimiento de revocación de autorizaciones, se adm
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de actividades a que se refiera la autorización revocada.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. CERTIFICADOS
 
 ###### Artículo 350.
 
@@ -3819,7 +3851,7 @@ La autoridad del Registro Civil sólo admitirá como válidos los certificados q
 
 ## TÍTULO DÉCIMO SÉPTIMO. VIGILANCIA SANITARIA
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD
+### CAPÍTULO ÚNICO
 
 ###### Artículo 355.
 
@@ -3931,7 +3963,7 @@ En el caso de productos recogidos en procedimiento de muestreo o verificación, 
 
 ## TÍTULO DÉCIMO OCTAVO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD
 
 ###### Artículo 367.
 
@@ -4043,7 +4075,7 @@ La desocupación o desalojo de casas, edificios, establecimientos y en general d
 
 Las autoridades municipales podrán implementar como medida de seguridad sanitaria el inmediato deshierbe o fumigación de predios ociosos.
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 381.
 
@@ -4147,7 +4179,7 @@ Sólo se procederá ésta sanción si previamente se dictó cualquiera de las qu
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 394.
 
@@ -4223,7 +4255,7 @@ En los casos de suspensión de trabajos o de servicios, o de clausura temporal o
 
 Cuando del contenido de un acta de verificación se desprende la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
 ###### Artículo 404.
 
@@ -4244,6 +4276,8 @@ I.- Que lo solicite el recurrente;
 II.- Que no se siga perjuicio al interés social ni se contravengan disposiciones de orden público; y
 
 III.- Que fueren de difícil reparación los daños y perjuicios que se causen al recurrente con la ejecución del acto o resolución recurrida.
+
+### CAPÍTULO V. PRESCRIPCIÓN
 
 ###### Artículo 407.
 
@@ -5118,3 +5152,15 @@ PRIMERA. Remítase el presente decreto a la Gobernadora Constitucional del Estad
 SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado.
 
 TERCERA. En un plazo no mayor a 90 días naturales contados a partir de la vigencia del presente decreto, la Secretaría de Salud, deberá de actualizar sus reglamentos, manuales de organización, operación y funcionamiento, para la debida implementación del presente decreto.
+
+P.O. 1 DE JULIO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CIENTO SESENTA Y NUEVE POR EL QUE SE ADICIONA AL TÍTULO DÉCIMO QUINTO DENOMINADO SALUBRIDAD LOCAL, EL CAPÍTULO XII DENOMINADO “GIMNASIOS Y CENTROS DEPORTIVOS”, INCORPORANDO LOS ARTÍCULOS 334 TER, 334 QUATER Y 334 QUINQUIES A LA LEY DE SALUD DEL ESTADO DE MORELOS Y SE REFORMAN LAS FRACCIONES LXXI Y LXXII Y SE ADICIONA LA FRACCIÓN LXXV AL ARTÍCULO 38 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, EN MATERIA DE SALUD Y SEGURIDAD PARA LOS USUARIOS DE LOS GIMNASIOS".]</small>
+
+PRIMERA. Remítase el presente Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Morelos, para los fines que indican los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+TERCERA. Los gimnasios o centros de acondicionamiento físico cuentan con un plazo de noventa días hábiles, a partir de la entrada en vigor del presente decreto para ajustarse a lo establecido en el mismo.
+
+CUARTA. Los ayuntamientos cuentan con un plazo de noventa días hábiles a partir de la entrada en vigor del presente decreto, para armonizar sus ordenamientos municipales, a efecto de dar cumplimiento a la presente reforma de ley.
