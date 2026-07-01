@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vida-silvestre-para-el-estado-de-chihuahua-101600"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-21"
-last_updated: "2017-02-22"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIDA SILVESTRE PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 21 de junio de 2014.
 
@@ -65,9 +65,13 @@ II. Establecer atribuciones a las autoridades, en relación a lo que regula este
 
 III. Proteger el entorno natural y los hábitats de la vida silvestre en territorio del Estado.
 
-IV. Combatir el tráfico, extracción ilegal, explotación indebida y comercio ilícito de la flora y fauna en su forma silvestre; lo anterior en todas las modalidades que cada una de estas acciones puede presentar.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-V. Regular la explotación, comercio y uso sustentable y justificado de la vida silvestre en el Estado, esto bajo métodos y técnicas que impidan un trato cruel hacia la flora y fauna o el deterioro de sus hábitats.
+IV. Coadyuvar con las autoridades federales en el combate, tráfico, extracción ilegal, explotación indebida y comercio ilícito de la flora y fauna en su forma silvestre; lo anterior en todas las modalidades que cada una de estas acciones puede presentar.
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+V. Regular la explotación, comercio y uso sustentable y justificado de la vida silvestre en el Estado, en el que se incluyan, entre otros, métodos y técnicas que permitan el trato digno y respetuoso de las especies y de sus hábitats.
 
 VI. Fomentar la educación ambiental con objeto de crear conciencia en todos los habitantes de la Entidad sobre la importancia del cuidado y preservación del medio ambiente; lo anterior conforme a lo dispuesto por la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chihuahua, así como las demás disposiciones legales aplicables.
 
@@ -79,57 +83,59 @@ IX. Fomentar la participación ciudadana en los rubros y temas establecidos en l
 
 ###### Artículo 3.
 
-La vida silvestre está conformada por la fauna y la flora que coexiste en condiciones naturales, temporales o permanentes, o en cautiverio, y únicamente pueden ser objeto de apropiación particular o privada y de comercio mediante las disposiciones contenidas en esta Ley y las disposiciones de otros ordenamientos aplicables.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 4.
 
-De conformidad con el párrafo tercero del Artículo 27 constitucional, la nación es propietaria de la fauna silvestre y de cualquier otra especie que viva libremente, que no hayan sido objeto de apropiación legal, domesticación o modificación genética autorizada y regulada por la ley. También son propiedad de la nación los huevos y crías de los animales señalados en esta Ley.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 5.
 
-Los animales silvestres o de especies protegidas que por su naturaleza solo pueden ser poseídos o apropiados por particulares con permisos especiales, quedarán sujetos a los términos de las leyes o reglamentos correspondientes.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 6.
 
-Para efectos de lo dispuesto en la presente Ley, se considerarán a los animales de fauna silvestre, los ferales y los que se encuentren en semilibertad.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 7.
 
-Las especies animales y de aves que por su naturaleza requieran de vivir y reproducirse en las inmediaciones y alrededores comprendidos por ríos, lagos, lagunas, presas y otros cuerpos de agua de jurisdicción estatal, así como en zonas acuáticas de jurisdicción federal, pero que, por convenios u otros instrumentos legales se encuentren bajo la tutela del Estado de Chihuahua o sus municipios, quedarán sujetas a lo que dispone este ordenamiento.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 8.
 
-Las especies anfibias, las acuáticas y las que contempla con este carácter la Ley General de Pesca y Acuacultura Sustentable, se regirán conforme a ella.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 9.
 
-La situación referente a la posesión o propiedad de los animales domésticos, y de aquellos que se encuentren en cautiverio, será regulada por la Ley de Bienestar Animal para el Estado de Chihuahua; y en todo caso por las disposiciones que en su momento sean aplicables. Igualmente se procederá con las aves de corral.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 10.
 
-En materia de animales considerados como ganado, en relación a propietarios o dueños, se estará a lo que dispone la Ley de Ganadería del Estado de Chihuahua y, en su defecto, a lo establecido en el Código Civil de la Entidad sobre el particular.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 11.
 
-El aprovechamiento sustentable de la flora y los recursos forestales maderables y no maderables serán regulados por las leyes federales y estatales que para tal efecto se encuentren en vigor.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 12.
 
-En lo no previsto por la presente Ley se aplicarán, de manera supletoria y complementaria, las disposiciones en materia ambiental en el Estado, así como las leyes federales y tratados internacionales en la materia.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 13.
 
-Los propietarios o legítimos poseedores de los predios en donde se distribuye la vida silvestre, tendrán derechos de aprovechamiento sustentable sobre sus ejemplares, partes y derivados en los términos prescritos en la presente Ley y demás disposiciones aplicables.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 14.
 
-Los derechos sobre los recursos genéticos estarán sujetos a los tratados internacionales y a las disposiciones sobre la materia.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 15.
 
 Es deber de todos los habitantes del Estado:
 
-I. Conservar la vida silvestre.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+I. Conservar la vida silvestre y su hábitat, así como su aprovechamiento sustentable.
 
 II. Coadyuvar en la protección y cuidado de la fauna y la flora silvestre en el Estado.
 
@@ -143,107 +149,11 @@ V. Observar en todo momento lo dispuesto en la presente Ley.
 
 Queda prohibido cualquier acto que implique destrucción, daño o perturbación de la flora y fauna silvestre, en perjuicio de los intereses del Estado y de la nación.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### Artículo 17.
 
-Para los efectos de esta Ley, se entenderá, además de lo dispuesto en el artículo 3 de la Ley General de Vida Silvestre:
-
-I. Animal: Ser orgánico, no humano, vivo, sensible, que posee movilidad propia y capacidad de respuesta a los estímulos del medio ambiente perteneciente a una especie doméstica o silvestre.
-
-II. Animal silvestre: Aquel que vive libremente y que no ha sido objeto de domesticación o mejoramiento genético, cualquiera que sea la fase de desarrollo en que se encuentre, así como sus huevos y crías.
-
-III. Animal en cautiverio: Aquel que siendo de origen silvestre o salvaje se encuentra encerrado en una unidad, local, jaula o almacén especial, ya sea por motivos de recreación, preservación, investigación científica o sanitaria, reproducción, o bien, que se encuentre bajo la responsabilidad de particulares que cuentan con los permisos y licencias de rigor.
-
-IV. Animal en semilibertad: Aquel que se encuentra en zonas o delimitaciones territoriales, gubernamentales o privadas, pero que goza de libertad de movimiento, de reproducción, de autosuficiencia alimentaria y se le puede destinar para fines como la cacería regulada, la investigación científica, la restitución de hábitats o el control sistemático de otras especies.
-
-V. Animal doméstico: Todo aquel que por su naturaleza, instinto y condición se cría bajo la compañía, dependencia y cuidado del ser humano, sin requerir de los cuidados propios y los permisos necesarios para los animales silvestres en cautiverio.
-
-VI. Animal adiestrado: Aquel que es entrenado por personas debidamente autorizadas por autoridad competente, mediante programas cuyo fin es modificar su comportamiento con el objeto realizar funciones de vigilancia, protección, guardia, detección de estupefacientes, armas y explosivos, acciones de búsqueda y rescate de personas, terapia, asistencia, entretenimiento y demás acciones análogas.
-
-VII. Animal deportivo: El utilizado en la práctica de algún deporte.
-
-VIII. Animal feral: El animal doméstico que al quedar fuera del control del ser humano se establece en el hábitat de la vida silvestre, así como sus descendientes nacidos en este hábitat.
-
-IX. Animal para abasto: Aquel cuyo destino final es el sacrificio para el consumo de su carne o derivados.
-
-X. Animal para la investigación científica: Aquel que es utilizado para la generación de nuevos conocimientos, por instituciones científicas y de enseñanza superior.
-
-XI. Animal para monta, carga y tiro: Los caballos, yeguas, ponis (Equus caballus), burros (Equus asinus), reses (Bos taurus), sus mezclas, híbridos y demás análogos que son utilizados por el ser humano para transportar personas o productos o para realizar trabajos de tracción y/o que su uso reditúe beneficios económicos a su propietario, poseedor o encargado.
-
-XII. Animal perjudicial: Aquel perteneciente a especies domésticas o silvestres que por modificación de su hábitat, a su biología, o que por encontrarse fuera de su distribución natural, tengan efectos nocivos para el ambiente, para otras especies animales o vegetales o para el hombre.
-
-XIII. Abandono: Dejar en la vía pública, terrenos abiertos o cualquier otro lugar distinto al que corresponde por naturaleza o por disposición legal o administrativa a un animal sin motivo justificado, privándolo o dejando de asistirle, por esta situación, de alimento y cuidados, o desperdiciando su carne y productos en el supuesto de animales de presa que han sido cazados y muertos.
-
-XIV. Aprovechamiento y uso sustentable y sostenible: La utilización de los recursos de vida silvestre en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte por periodos indefinidos.
-
-XV. Autoridad competente: Las señaladas en el artículo 21 del presente ordenamiento, así como las autoridades federales que tengan injerencia en la materia.
-
-XVI. Aves de presa: Aves carnívoras depredadoras y que pueden ser adiestradas.
-
-XVII. Aves urbanas: Conjunto de especies de aves que habitan en libertad en el área urbana.
-
-XVIII. Bioma: Gran comunidad unitaria caracterizada por el tipo de animales y plantas que alberga.
-
-XIX. Biotopo: Territorio o espacio vital cuyas condiciones ambientales son las adecuadas para que en él se desarrolle una determinada comunidad de seres vivos.
-
-XX. Caza: Dar muerte a un animal de fauna silvestre a través de medios permitidos.
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2014)</small>
-
-XXI. Caza furtiva: La acción con cualquier fin que consiste en dar muerte a uno o varios ejemplares de fauna silvestre y a través de cualquier medio no permitido y sin permisos o licencias emitidos por la autoridad correspondiente.
-
-XXII. Caza deportiva o actividad cinegética: La actividad que consiste en la búsqueda, persecución o acecho para dar muerte, a través de medios permitidos, a un ejemplar de fauna silvestre cuyo aprovechamiento haya sido autorizado con el propósito de obtener una pieza o trofeo.
-
-XXIII. Cintillo: Documento expedido por la autoridad competente, cuya compra permite la caza legal de una o más especies cinegéticas y el número de ejemplares por especie en su medio natural, circunscrito a una Unidad de Manejo para la Conservación de la Vida Silvestre.
-
-XXIV. Consejo: El Consejo Ciudadano para la Preservación y Cuidado de la Vida Silvestre.
-
-XXV. Conservación: Conjunto de acciones encaminadas a cuidar, proteger y preservar los ecosistemas, los hábitats y las poblaciones de vida silvestre, dentro y fuera de sus entornos, con el fin de preservar sus condiciones naturales de vida en el largo plazo.
-
-XXVI. Corredor Cinegético: Estrategia territorial para el desarrollo natural de poblaciones de especies silvestres nativas, que abarca un conjunto de Unidades de Manejo para la Conservación y Aprovechamiento de la Vida Silvestre colindantes, con factibilidad técnica para el establecimiento de actividad cinegética.
-
-XXVII. Crueldad: Acto de brutalidad, sádico o zoofílico contra cualquier animal, ya sea por acción u omisión.
-
-XXVIII. Especies Cinegéticas: Aquellas de fauna silvestre que pueden ser objeto de caza; se identifican y determinan por razones de mantenimiento del equilibrio y de la salud de los ecosistemas.
-
-XXIX. Especies y poblaciones en riesgo: Aquella identificadas por las autoridades como probablemente extintas en el medio silvestre, en peligro de extinción, amenazadas o sujetas a protección especial
-
-XXX. Estado: El Estado de Chihuahua.
-
-XXXI. Fauna silvestre: Los animales vertebrados e invertebrados, residentes o migratorios que viven en condiciones naturales en el territorio del Estado y que no requieren del cuidado del ser humano para su supervivencia.
-
-XXXII. Flora silvestre: Conjunto de especies vegetales, hongos y plantas vasculares y no vasculares característicos de una región, existentes en el territorio del Estado que viven y se desarrollan en un mismo hábitat y en condiciones naturales.
-
-XXXIII. Hábitat. Es un espacio del Medio Ambiente físico, en el que se desarrollan organismos, especies, población o comunidades de animales, en un determinado tiempo.
-
-XXXIV. Humedales: Extensiones de pantanos y turberas, o superficies cubiertas de aguas, sean de régimen natural o artificial, permanentes o temporales, estancadas o corrientes, dulces, salobres o saladas.
-
-XXXV. Inventario ambiental: Descripción física ideológica de una poligonal específica cuantitativa y cualitativamente.
-
-XXXVI. Ley General: La Ley General de Vida Silvestre.
-
-XXXVII. Ley: La Ley de Vida Silvestre para el Estado de Chihuahua.
-
-XXXVIII. Mercado cinegético: Ámbito comercial especializado en el que interactúan como principales componentes los cazadores, prestadores de servicios vinculados con el aprovechamiento sustentable de los recursos naturales renovables cinegéticos, unidades de manejo para la conservación de la vida silvestre y otros prestadores de servicios complementarios.
-
-XXXIX. Fiscalía: Fiscalía General del Estado de Chihuahua.
-
-XL. Permisos y Licencias: El o los documentos consecuencia de todo trámite que deba promover un particular y le represente una resolución favorable, a efecto de estar en condiciones conforme a Derecho, para realizar alguna actividad.
-
-XLI. Recuperación: El restablecimiento de los procesos naturales y de los parámetros genéticos, demográficos o ecológicos de una población o especie, con referencia a su estado al iniciar las actividades de recuperación, así como a su abundancia local, estructura y dinámica en el pasado, para retornar a cumplir con su papel ecológico y evolutivo con la consecuente mejoría en la calidad del hábitat.
-
-XLII. Reglamento: Reglamento de la Ley de Vida Silvestre para el Estado de Chihuahua.
-
-XLIII. Repoblación: La liberación planificada al hábitat natural de ejemplares de la misma especie o subespecie silvestre, con objeto de reinsertarla en su entorno natural y permitir su crecimiento.
-
-XLIV. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario, utilizando métodos físicos o químicos, efectuado por personal capacitado, atendiendo a las normas oficiales mexicanas y las normas ambientales expedidas para tal efecto.
-
-XLV. Secretaría: La Secretaría de Desarrollo Urbano y Ecología del Gobierno del Estado de Chihuahua.
-
-XLVI. Temporada cinegética: Periodo de tiempo donde se permite el aprovechamiento de las poblaciones de la fauna silvestre mediante el ejercicio de la caza.
-
-XLVII. Trasiego: La acción de mudar de lugar una especie o especies determinadas.
-
-XLVIII. Turismo cinegético: Actividad que desarrolla un cazador autorizado al visitar localidades o predios donde se permite la práctica legal de la caza de fauna silvestre en su entorno natural, con el uso de servicios logísticos y turísticos implícitos en programas de aprovechamiento sustentable de la vida silvestre.
+Para los efectos de esta Ley, se entenderá por Sistema de Marca, el método de identificación para demostrar la legal procedencio (sic) de ejemplares, partes y derivados, aprobado por la autoridad competente, conforme a lo establecido en el Reglamento de la Ley General de Vida Silvestre.
 
 ## TÍTULO SEGUNDO. DE LA POLÍTICA ESTATAL DE LA VIDA SILVESTRE Y SU HÁBITAT
 
@@ -629,43 +539,49 @@ La Secretaría y los Municipios, compilarán la información sobre los usos y fo
 
 ### Capítulo IV. De la Sanidad de la Vida Silvestre
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### Artículo 60.
 
-El control sanitario de los ejemplares de especies de la vida silvestre se hará con arreglo a las disposiciones de la Ley Federal de Sanidad Vegetal. En los casos en que sea necesario, la Secretaría establecerá las medidas complementarias para la conservación y recuperación de la vida silvestre.
+El control sanitario de los ejemplares de especies de la vida silvestre se hará con arreglo a las disposiciones de la Ley Federal de Sanidad Vegetal, la Ley Federal de Sanidad Animal y las disposiciones que de ellas se deriven.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### Artículo 61.
 
-La Secretaría determinará, a través de las normas oficiales mexicanas correspondientes, las medidas que deberán de aplicarse para evitar que los ejemplares de las especies silvestres en confinamiento sean sometidos a condiciones adversas a su salud y a su vida durante la aplicación de medidas sanitarias.
+La Secretaría deberá coadyuvar en la aplicación de las medidas para evitar que los ejemplares de las especies silvestres en confinamiento sean sometidos a condiciones adversas a su salud y a su vida durante la aplicación de medidas sanitarias.
 
 #### Sección Única. Trato Digno a la Fauna Silvestre
 
 ###### Artículo 62.
 
-El Ejecutivo del Estado, a través de la Secretaría, así como los Ayuntamientos, promoverán y adoptarán las medidas de trato digno y respetuoso para evitar o disminuir la tensión, sufrimiento, traumatismo y dolor que se pudiere ocasionar a los ejemplares de fauna silvestre durante su aprovechamiento, traslado, exhibición, cuarentena, entrenamiento, comercialización y sacrificio, de conformidad con las disposiciones de la Ley General y demás ordenamientos aplicables en la materia.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 63.
 
-El aprovechamiento de la fauna silvestre se llevará a cabo de manera que se eviten o disminuyan los daños a las especies silvestres mencionadas en el artículo anterior. Queda estrictamente prohibido todo acto de crueldad en contra de la fauna silvestre en los términos de la presente Ley y la normatividad que de esta derive.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### Artículo 64.
 
-Los lugares de resguardo de ejemplares vivos de fauna silvestre deberán tener características lo más próximas posibles a las condiciones de sus hábitats naturales para evitar o disminuir la tensión, el sufrimiento, la ansiedad, la crueldad, el traumatismo o el dolor que pudiera ocasionárseles en sitios como zoológicos o circos.
+Los lugares de resguardo de ejemplares vivos de fauna silvestre deberán tener características lo más próximas posibles a las condiciones de sus hábitats naturales para evitar o disminuir la tensión, el sufrimiento, la ansiedad, la crueldad, el traumatismo o el dolor que pudiera ocasionárseles en sitios como zoológicos.
 
 ###### Artículo 65.
 
-Cuando de conformidad con las disposiciones en la materia deba someterse a cuarentena a cualquier ejemplar de la fauna silvestre, se adoptarán las medidas para mantenerlos en condiciones adecuadas, de acuerdo a sus necesidades.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 66.
 
-Durante el entrenamiento de ejemplares de la fauna silvestre se deberá evitar o disminuir la tensión, sufrimiento, ansiedad, crueldad, traumatismo y dolor de los mismos a través de métodos e instrumentos de entrenamiento que sean adecuados para ese efecto y realizados por profesionales en esa materia.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 67.
 
-Durante los procesos de comercialización de ejemplares de la fauna silvestre se deberá evitar o disminuir la tensión, ansiedad, sufrimiento, crueldad, traumatismo y dolor de los mismos mediante el uso de métodos e instrumentos de manejo apropiados.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 68.
 
-La tensión, sufrimiento, ansiedad, crueldad, traumatismo y dolor de los ejemplares de fauna silvestre deberá evitarse o disminuirse, en los casos de sacrificio de estos, mediante la utilización de los métodos físicos o químicos adecuados.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 69.
 
@@ -745,9 +661,15 @@ Queda estrictamente prohibido vender animales en la vía pública, en lugares no
 
 Los animales que se comercialicen en contravención a lo señalado, serán decomisados por las autoridades y trasladados a los sitios que la autoridad determine, conforme a lo dispuesto en esta Ley.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+Los establecimientos de venta o comercialización de animales podrán destinar, sin costo alguno, al menos dos espacios físicos dentro de los mismos, así como la publicación por medios remotos o mediante la utilización de herramientas tecnológicas, para la exhibición de animales.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### Artículo 79.
 
-Las autoridades estatales y municipales, vigilarán que no se venda, exporte o trafique la vida silvestre del Estado, ya sea viva o muerta, sus productos o derivados de estos, sin las autorizaciones correspondientes. Esto incluye las piezas de caza vivas o muertas, así como sus productos y subproductos.
+Las autoridades estatales y municipales vigilarán, en coadyuvancia con las autoridades federales, que no se venda, exporte o trafique la vida silvestre del Estado, ya sea viva o muerta, sus productos o derivados de estos, sin las autorizaciones correspondientes. Esto incluye las piezas de caza vivas o muertas, así como sus productos y subproductos.
 
 ### Capítulo VI. De la Legal Procedencia
 
@@ -761,7 +683,9 @@ La legal procedencia de ejemplares de la vida silvestre que se encuentran fuera 
 
 En este último caso, la nota de remisión o factura foliadas señalarán el número de oficio de la autorización de aprovechamiento, los datos del predio en donde se realizó, la especie o género a la que pertenecen los ejemplares, sus partes o derivados, la tasa autorizada, el nombre de su titular y la proporción que de dicha tasa comprenda la marca o contenga el empaque o embalaje.
 
-De conformidad con lo establecido en el Reglamento, las marcas elaboradas de acuerdo con la Ley Federal sobre Metrología y Normalización podrán bastar para demostrar la legal procedencia.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
+De conformidad con lo establecido en el Reglamento, las marcas elaboradas de acuerdo con la Ley de Infraestructura de la Calidad, podrán bastar para demostrar la legal procedencia.
 
 ### Capítulo VII. Casos de Emergencia o Situaciones Especiales o Críticas
 
@@ -785,7 +709,9 @@ VI. Cualquier evento donde se necesiten recursos humanos adicionales a los de la
 
 En los casos señalados en el artículo anterior, el Ejecutivo del Estado, la Secretaría y, en todo caso los ayuntamientos, podrán disponer que funcionarios de cualquier nivel y dependencia, cuerpos policíacos, autoridades de protección civil y en general cualquier servidor público, se constituyan en auxiliares temporales de las autoridades ambientales para hacer frente a la contingencia.
 
-Para lo anterior, se harán públicas las determinaciones conducentes y en las mismas se expondrán de forma breve los motivos, las autoridades habilitadas y las facultades que se les conceden de forma temporal. Deberán darse a conocer en medios de comunicación, especialmente del lugar donde se ubique la emergencia. En caso de no haber tales en el sitio, se hará la publicidad por medio de volantes, radio, o voceo en automóviles.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
+Para lo anterior, se harán públicas las determinaciones conducentes y en las mismas se expondrán de forma breve los motivos, las autoridades habilitadas y las facultades que se les conceden de forma temporal. Deberán darse a conocer en las páginas oficiales del Gobierno Estatal y municipales, así como en medios de comunicación, especialmente del lugar donde se ubique la emergencia. En caso de no haber tales en el sitio, se hará la publicidad por medio de volantes, radio, o voceo en automóviles.
 
 Las autoridades auxiliares deberán portar una credencial o documento que establezca su nombre, puesto y responsabilidad asignada durante la contingencia.
 
@@ -1025,11 +951,7 @@ Los ejemplares confinados de las especies probablemente extintas en el medio sil
 
 ###### Artículo 112.
 
-La Secretaría promoverá, fomentará e impulsará la conservación, preservación y protección de las especies y poblaciones en riesgo por medio del desarrollo de proyectos de conservación, reproducción y recuperación, el establecimiento de medidas especiales de manejo y conservación de hábitat críticos y de áreas de refugio para proteger especies acuáticas, la coordinación de programas de muestreo y seguimiento permanente, así como de certificación del aprovechamiento sostenible con la participación de las personas que manejen dichas especies o poblaciones y demás involucrados.
-
-El programa de certificación deberá seguir los lineamientos establecidos en el Reglamento de esta Ley y en las normas oficiales mexicanas o en las normas técnicas estatales que para tal efecto se elaboren.
-
-La Secretaría suscribirá convenios y acuerdos de concertación y coordinación con el fin de promover la recuperación y conservación de especies y poblaciones en riesgo.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 113.
 
@@ -1125,23 +1047,19 @@ La realización de cualquier obra pública o privada de aquellas actividades que
 
 ###### Artículo 126.
 
-Cuando se presenten problemas de destrucción, contaminación, degradación, desertificación o desequilibrio del hábitat de la vida silvestre, la Secretaría formulará y ejecutará, a la brevedad posible, programas de prevención, de atención de emergencias y de restauración para la recuperación, remediación, rehabilitación, remediación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales de la vida silvestre tomando en cuenta lo dispuesto en la presente Ley y en los artículos 78, 78 Bis y 78 Bis 1 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y de conformidad con lo establecido en el Reglamento y las demás disposiciones aplicables.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ### Capítulo VI. De las Vedas
 
 ###### Artículo 127.
 
-La Secretaría podrá establecer limitaciones al aprovechamiento de poblaciones de la vida silvestre incluyendo las vedas, su modificación o levantamiento de acuerdo con lo previsto en el artículo 81 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, cuando a través de otras medidas no se pueda lograr la conservación o recuperación de las poblaciones.
-
-En casos de desastres naturales o derivados de actividades humanas, la Secretaría podrá establecer vedas temporales al aprovechamiento como medida preventiva y complementaria a otras medidas, con la finalidad de evaluar los daños ocasionados, permitir la recuperación de las poblaciones y evitar riesgos a la salud humana.
-
-Las vedas podrán establecerse, modificarse o levantarse a solicitud de las personas físicas o jurídicas colectivas interesadas, las que deberán presentar los estudios de población correspondientes de conformidad con lo establecido en el Reglamento. La Secretaría evaluará estos antecedentes y la información disponible sobre los aspectos biológicos, sociales y económicos involucrados resolviendo lo que corresponda.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ### Capítulo VII. De la Conservación de las Especies Migratorias
 
 ###### Artículo 128.
 
-La conservación de las especies migratorias se llevará a cabo mediante la protección y mantenimiento de sus hábitats, el muestreo y seguimiento de sus poblaciones, así como el fortalecimiento y desarrollo de la cooperación internacional, de acuerdo con las disposiciones de esta Ley, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de las que de ellas se deriven sin perjuicio de lo establecido en los tratados y otros acuerdos internacionales en los que el país sea parte contratante.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ### Capítulo VIII. De la Conservación de la Vida Silvestre Fuera de su Hábitat Natural
 
@@ -1303,9 +1221,11 @@ IV. Aclarar las formas o técnicas de caza y captura que utilizará, así como e
 
 V. El tiempo por el cual piensa ejercer esta actividad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### Artículo 147.
 
-La autoridad responsable estudiará la solicitud, y resolverá sobre su procedencia en un plazo no mayor de 20 días hábiles. La respuesta, sea esta positiva o negativa, deberá constar por escrito, estar fundada en derecho y sustentada en argumentos técnicos y científicos.
+La Secretaría estudiará la solicitud, y resolverá sobre su procedencia en un plazo no mayor de 20 días hábiles. La respuesta, sea esta positiva o negativa, deberá constar por escrito, estar fundada en derecho y sustentada en argumentos técnicos y científicos.
 
 Durante el proceso de aprobación o desaprobación, la autoridad podrá realizar, las visitas, inspecciones o estudios que estime necesarios sin restricción alguna.
 
@@ -1369,11 +1289,15 @@ En este caso, dichos predios serán considerados en la temporada de aprovechamie
 
 #### Sección I. Caza
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### Artículo 154.
 
-Queda estrictamente prohibida la caza sin el permiso o licencia correspondiente emitida por la autoridad competente. En todo caso, quien realice esta actividad deberá contar con el correspondiente permiso o licencia vigente.
+Queda estrictamente prohibida la caza sin la autorización o licencia vigente correspondiente, emitida por la autoridad competente, dentro de las Unidades de Manejo para la Conservación de Vida Silvestre (UMA), previstas en el artículo 3 de la Ley General de Vida Silvestre.
 
-La cacería con permisos o licencias vencidas, importarán para el responsable las mismas sanciones que son aplicables a los cazadores furtivos.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
+La cacería con autorizaciones o licencias vencidas, importarán para el responsable las mismas sanciones que son aplicables a los cazadores furtivos.
 
 Los excesos o violaciones a las facultades que expresamente conceden las autoridades en lo relativo a la cacería, se sancionará conforme a derecho. Igualmente se procederá cuando se usen armas no permitidas o cuando se emplee crueldad hacia los animales de presa.
 
@@ -1431,113 +1355,47 @@ Las personas autorizadas para realizar una colecta científica deberán, en los 
 
 ###### Artículo 162.
 
-El sacrificio de animales deberá realizarse atendiendo a las siguientes reglas:
-
-I. Debe existir una justificación previa y fundada para ello, ya sea de tipo sanitario, por razones de seguridad, por motivos científicos y de investigación, para proteger a otras especies o a los humanos de riesgos o daños comprobados, por evitarles un sufrimiento mayor o innecesario a los especímenes, y por cualquier causa que sea verificable y haga necesario el fin forzoso de la vida del animal.
-
-II. Deberá hacerse en lugar adecuado y por personal capacitado para tal fin.
-
-III. Deberán usarse medios técnicos y farmacológicos que garanticen el nulo o menor posible sufrimiento del animal. Preferentemente se optará por la anestesia previa a la terminación de la vida del espécimen. Igualmente se atenderá a los métodos y formas que las Sociedades Protectoras de Animales hayan establecido o sugerido con anterioridad al hecho.
-
-IV. Cuando se trate de cacería, pesca o exterminio de especies por motivos de control o para salvar a otras especies o su hábitat, la autorización para estas acciones deberá estar fundada en estudios científicos de carácter biológico acreditados por al menos dos instituciones académicas autorizadas por la Secretaría de Educación Federal o Estatal, y de prestigio reconocido, así como por el dictamen de expertos en la materia.
-
-Se procederá en los términos de la fracción anterior, también en los casos de aves y especies acuáticas.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 163.
 
-Los animales silvestres que sean destinados a consumo humano, deberán contar con las mismas medidas y disposiciones para su sacrificio que el ganado convencional.
-
-En relación al dispositivo anterior, también queda prohibido, sin perjuicio de lo que disponga la legislación que protege a los animales domésticos y al ganado para consumo humano:
-
-I. El sacrificio mediante formas o técnicas crueles, incluyendo: golpes, envenenamiento, ahorcamiento, asfixia directa o indirecta, congelamiento, inanición, y cualquier otra que represente sufrimiento y brutalidad para el animal.
-
-II. La introducción de animales vivos o agonizantes en los aparatos de refrigeración.
-
-III. La introducción de aves o peces vivos en agua hirviendo o en otras sustancias que puedan provocar sufrimiento al contacto con el animal.
-
-IV. Destinar su carne o productos a fines distintos a los alimentarios, a menos que expresamente y con autorización legal, se puedan destinar a otros fines.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 164.
 
-Queda estrictamente prohibido:
-
-I. La cacería sin licencia o permiso vigente.
-
-II. La pesca en los mismos términos de la fracción anterior
-
-III. La cacería o captura de aves sin la autorización correspondiente.
-
-IV. La captura, retención o encierro con fines alimentarios, de reproducción, de entretenimiento, de investigación o para cualquier otro fin, de las especies señaladas en este dispositivo sin los permisos de Ley.
-
-V. El sacrificio injustificado o no autorizado de animales, peces y aves.
-
-VI. El exterminio o control de especies con métodos no autorizados o bajo argumentos dudosos o controversiales.
-
-VII. El exceder los alcances que se estipulen en la autorización para realizar todos los actos señalados en el presente.
-
-VIII. Realizar actos o acciones distintos a los que permitan las licencias, permisos o autorizaciones correspondientes.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 165.
 
-Solo en casos excepcionales, donde de modo urgente y evidente se encuentre en riesgo la vida de una o varias personas, o bien de otros animales, se permitirá la ejecución inmediata del espécimen utilizando balas convencionales u otro método similar; pero para esto, deberá intentarse primero, si el tiempo y las circunstancias lo permiten:
-
-I. Capturar al animal.
-
-II. Sacarlo de la zona donde representa peligro.
-
-III. Dormirlo con dardos tranquilizantes.
-
-En caso de no contar con tiempo suficiente, de fracasar o no ser posible la captura o desvío del animal hacia una zona donde no represente peligro, de que no existan en el lugar armas y medicamentos para optar por tranquilizar o dormir al animal o de que exista un riesgo manifiesto e inminente para la integridad de las personas presentes, se entenderá que existe autorización ficta para proceder de inmediato a terminar con la vida del animal en cuestión.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 166.
 
-En los casos señalados en el anterior dispositivo, la o las personas que procedan a ejecutar al animal, deberán, sin excepción, comprobar posteriormente la justificación para tal acto; para ello podrán aportar elementos de convicción como:
-
-I. Testimonios.
-
-II. Videos o fotografías.
-
-III. Reporte o actas previamente levantados por las autoridades, si es que existen.
-
-IV. Peritajes o valoraciones que las mismas autoridades o especialistas hayan realizado en los momentos posteriores al acto.
-
-V. Las presunciones humanas y legales que sean procedentes.
-
-Incurrir en actos simulados para ejecutar a algún espécimen silvestre, sin motivos o razones justificadas, importará las sanciones administrativas correspondientes para los responsables, esto sin detrimento de que pueda ser sujeto a proceso judicial.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 167.
 
-La experimentación en animales silvestres obedecerá solo a razones científicas justificadas. Solamente las personas e instituciones autorizadas por el Gobierno Federal y las dependencias facultadas para tal efecto podrán realizar estas prácticas.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 168.
 
-Las disecciones y vivisecciones que se hagan en escuelas públicas y privadas del Estado, deberán realizarse por personas con título de médico veterinario y, en su defecto, por profesionales autorizados por la Secretaría de Salud del Estado y/o de la Federación, y en su defecto, por las instancias gubernamentales autorizadas por la Ley para otorgar este tipo de permisos.
-
-Cuando se experimente con especies en peligro de extinción, amenazadas o sujetas a protección especial, deberá mediar autorización previa de la Secretaría, o de las autoridades federales competentes.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 169.
 
-Queda prohibido realizar experimentos de manipulación genética en animales de toda especie; así como experimentos para modificar su sexualidad, su conducta, su inteligencia y, en general, con el fin de lograr cualquier cambio en su naturaleza.
-
-Solo las autoridades federales y estatales, en el ámbito de sus respectivas competencias, y conforme a las leyes vigentes, en su momento podrán realizar acciones de las señaladas en este artículo; pero en todos los casos, los fines serán médico-sanitarios, para salvar o rescatar una especie en peligro de extinción o extinta, así como para fines humana y biológicamente válidos, necesarios y que no contravengan los Tratados Internacionales en materia de modificación genética y natural y la ética que dispongan los mismos.
-
-También queda prohibido realizar experimentos para modificar la psique o sicología de los animales, con objeto de volverlos más agresivos, entrenarlos para la caza y para el combate entre miembros de la misma o de distintas especies.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 170.
 
-Respecto de lo contemplado en este Capítulo, se deberá estar a lo dispuesto por la Ley de Bioseguridad de Organismos Genéticamente Modificados. La Secretaría podrá participar con la Federación en materia de bioseguridad conforme a los convenios que al efecto se emitan y de acuerdo a las atribuciones que el referido Ordenamiento le otorgue en la materia.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 171.
 
-Se prohíbe la mutilación de animales silvestres por argumentos arcaicos, sin fundamento científico, por usos y costumbres, por meras razones estéticas o para someterlos y controlarlos a la fuerza.
-
-Con respecto a los usos y costumbres de las etnias existentes en el territorio del Estado que pudieran contravenir lo dispuesto en este artículo, la Secretaría deberá verificar la forma y condiciones en que esto pudiera suceder, guardando siempre el máximo e irrestricto respeto a las creencias y tradiciones de estas. En todo caso se estará a lo dispuesto por el Artículo 93 de la Ley General de Vida Silvestre.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ###### Artículo 172.
 
-Queda prohibido abandonar en territorio chihuahuense, sin razón o motivo plenamente justificado, animales silvestres que hayan sido capturados o cazados legalmente, ya sea que estén vivos o muertos.
-
-Además de lo señalado en el párrafo anterior, serán sancionadas las personas que abandonen animales en cautiverio que se encontraren bajo su responsabilidad.
+(DEROGADO, P.O. 1 DE JULIO DE 2026)
 
 ### Capítulo VI. Aprovechamiento No Extractivo
 
@@ -1605,9 +1463,11 @@ El Inventario de Vida Silvestre deberá publicarse en el sitio Web de la Secreta
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### Artículo 180.
 
-El Ejecutivo Estatal, a través de la Secretaría, por conducto de personal debidamente acreditado y autorizado, así como las autoridades municipales en su caso, realizarán los actos de inspección y vigilancia necesarios para la conservación y aprovechamiento sustentable de la vida silvestre, previstos en esta Ley, la Ley General y demás disposiciones aplicables, con arreglo, además, a los convenios de coordinación que se celebren.
+El Ejecutivo Estatal, a través de la Secretaría, por conducto de personal debidamente acreditado y autorizado, así como las autoridades municipales en su caso, podrán coadyuvar con la Federación en la realización de actos de inspección y vigiloncia (sic) necesarios para la conservación y aprovechamiento sustentable de la vida silvestre, previstos en esta Ley, la Ley General y demás disposiciones aplicables, con arreglo, además, a los convenios de coordinación que se celebren.
 
 La autoridad estatal llevará un padrón de infractores. A las personas que se encuentren incluidas en dicho padrón, no se les otorgarán autorizaciones de aprovechamiento, ni serán sujetos de transmisión de derechos de aprovechamiento.
 
@@ -2030,3 +1890,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0516/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIDA SILVESTRE, Y DE LA LEY DE BIENESTAR ANIMAL, AMBOS ORDENAMIENTOS PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
