@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-148454"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-17"
-last_updated: "2026-05-27"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en el número 5926 del Periódico Oficial del Estado de Morelos, el miércoles 17 de marzo de 2021.
 
@@ -359,9 +359,11 @@ VI. El respeto y conservación del patrimonio cultural e histórico, así como d
 
 ### CAPÍTULO II. DE LOS FINES DE LA EDUCACIÓN
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 18.
 
-La educación que imparta el Estado a través de los Organismos Descentralizados con apoyo de los subsistemas de Nivel Básico, Medio Superior y Superior, sujetos a la rectoría del Estado, y aquellas instituciones de sostenimiento particular con Reconocimiento de Validez Oficial de Estudios, persigue los siguientes fines:
+Son fines de la educación que imparta el Estado:
 
 I. Formar al sujeto social con principios íntegros, éticos, solidarios y participativos, para lograr la transformación de la sociedad y el país;
 
@@ -403,11 +405,15 @@ XVII. Fomentar la cultura vial dentro de las instituciones educativas públicas 
 
 XVIII. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y el Estado, y
 
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XIX. Promover, en todos los niveles educativos, acciones pedagógicas y programas integrales para la prevención de la violencia en el noviazgo, fomentando el respeto a la dignidad humana, la igualdad sustantiva, la equidad de género, la autonomía personal, y el desarrollo de habilidades socioemocionales para establecer relaciones efectivas sanas, responsables y libres de violencia.
+
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2025)</small>
 
-XIX. Fomentar el cuidado de la naturaleza, los seres sintientes, así como de las condiciones ecosistémicas que sustentan la vida de los seres vivos, respetando su derecho a vivir de manera digna; y
+XX. Fomentar el cuidado de la naturaleza, los seres sintientes, así como de las condiciones ecosistémicas que sustentan la vida de los seres vivos, respetando su derecho a vivir de manera digna; y
 
-XX. Todos aquellos que contribuyan al bienestar y desarrollo del país y el Estado.
+XXI. Todos aquellos que contribuyan al bienestar y desarrollo del país y el Estado.
 
 ### CAPÍTULO III. DE LOS CRITERIOS DE LA EDUCACIÓN
 
@@ -1531,6 +1537,22 @@ La formación para el trabajo deberá estar enfocada en la adquisición de conoc
 
 Podrán celebrarse convenios para que la formación para el trabajo se imparta por los Organismos Descentralizados, los ayuntamientos, las instituciones privadas, las organizaciones sindicales, los patrones y demás particulares. La formación para el trabajo que se imparta en términos del presente artículo será adicional y complementaria a la capacitación prevista en la fracción XIII del Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+ARTÍCULO 135 BIS. - Las autoridades educativas del Estado, para garantizar el bienestar y desarrollo integral de la persona educando diseñarán e implementarán programas permanentes de prevención de la violencia en el noviazgo en las instituciones de educación básica, media superior y superior.
+
+Estos programas deberán articularse bajo los siguientes ejes:
+
+I. Contenido educativo integrado por temas sobre igualdad sustantiva, derechos humanos y resolución pacífica de conflictos en el proceso de enseñanza-aprendizaje;
+
+II. Capacitación continua a personal docente y administrativo para que se identifiquen señales de alerta y conductas de riesgo de violencia en las relaciones efectivas entre estudiantes;
+
+III. Implementación de talleres, campañas y actividades dirigidas a estudiantes y padres de familia para fomentar el respeto y la autonomía emocional en las relaciones de noviazgo y estas estén libres de violencia;
+
+IV. Realizar e implementar protocolos de actuación en casos de violencia detectada entre estudiantes con relaciones efectivas, y
+
+V. Implementar acciones de coordinación con las instituciones estatales de salud, seguridad y procuración de justicia para la canalización oportuna y atención integral de los casos de violencia
+
 ### CAPÍTULO II. DE LAS TECNOLOGÍAS DE LA INFORMACIÓN, COMUNICACIÓN, CONOCIMIENTO Y APRENDIZAJE DIGITAL PARA LA FORMACIÓN CON ORIENTACIÓN INTEGRAL DEL EDUCANDO
 
 ###### ARTÍCULO 136.
@@ -2618,3 +2640,15 @@ PRIMERA. Remítase el presente decreto a la Persona Titular del Poder Ejecutivo 
 SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se contrapongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL NOVENTA Y CUATRO POR EL QUE SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS CON EL OBJETO DE PREVENIR LA VIOLENCIA EN EL NOVIAZGO ADOLESCENTE ".]</small>
+
+PRIMERA. Remítase el presente decreto a la Persona Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. La Secretaría de Educación del Gobierno del Estado de Morelos, en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente decreto, deberá actualizar los reglamentos que resulten aplicables, así como expedir los protocolos de actuación correspondientes.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan al presente decreto.
