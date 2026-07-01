@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2026-06-26"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -333,17 +333,21 @@ II.- Ser originario del municipio o tener una residencia en el mismo por un peri
 
 III.- No pertenecer al estado eclesiástico ni ser ministro del algún culto, aun cuando no esté en ejercicio.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-IV.- No estar sujeto a proceso por delito doloso. El impedimento surte efecto desde el momento en que se dicte el auto de vinculación a proceso. Tratándose de personas servidoras públicas que gocen de fuero constitucional, el impedimento surte efecto desde que se declare que ha lugar para la formación de causa;
+IV.- No estar sujeto a proceso penal por la comisión de un delito doloso en el que se haya dictado auto de vinculación a proceso, y la autoridad judicial haya impuesto prisión preventiva en su contra;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-V.- Tener un modo honesto de vivir, saber leer y escribir, y no estar en los casos previstos en el Artículo 106 del Código Penal del Estado; y
+V.- Tener un modo honesto de vivir, saber leer y escribir, y no estar en los casos previstos en el artículo 106 del Código Penal para el Estado;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-VI.- No ser servidor público de la Federación o del Estado, con excepción de los cargos de elección popular o del Municipio; no tener el mando de la fuerza pública en el que se haga la elección, a no ser que se separe de su cargo por lo menos 90 días antes de dicha elección.
+VI.- No ser servidora o servidor público de la Federación o del Estado, con excepción de los cargos de elección popular o del Municipio; no tener el mando de la fuerza pública en el que se haga la elección, a no ser que se separe de su cargo por lo menos 90 días antes de dicha elección; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2026)</small>
+
+VII.- No haber sido condenado a sanción privativa de la libertad por la comisión de un delito doloso, mediante sentencia que haya causado ejecutoria.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2026)</small>
 
@@ -463,9 +467,9 @@ VIII.- Adoptar conductas sistemáticas y graves que afecten al buen Gobierno y A
 
 IX.- Incurrir en responsabilidad por infracciones administrativas reiteradas o graves en los términos del Capítulo XIV de este Título.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-X.- Haberse dictado en su contra auto de vinculación a proceso o estar sujeto a juicio político; en estos casos la suspensión será temporal entre tanto se resuelve su situación jurídica;
+X.- Estar sujeto a proceso penal por la comisión de un delito doloso en el que se haya dictado auto de vinculación a proceso, y la autoridad judicial haya impuesto prisión preventiva en su contra;
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -7446,3 +7450,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Para dar cumplimiento al presente Decreto, los Ayuntamientos de acuerdo a su disponibilidad presupuestal, podrán aplicarlo de manera paulatina.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1146 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 26, FRACCIONES IV, V Y VI Y 38, FRACCIÓN X; Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 26, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
