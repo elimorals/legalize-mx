@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2025-10-22"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -87,15 +87,21 @@ Tratándose de trabajadores de confianza, las Entidades públicas de que se trat
 
 Para los efectos de esta Ley, se entenderán como titulares:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-I. En el Poder Legislativo: El congreso del Estado, representado por el Presidente de la Junta de Coordinación Política;
+I.- En el Poder Legislativo: El congreso del Estado, representado por el Presidente o Presidenta de la Junta de Coordinación Política;
 
-II.- En el Poder Ejecutivo: El Gobernador del Estado y, en sus dependencias los funcionarios de mayor jerarquía;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-III.- En el Poder Judicial: El Pleno del Tribunal Superior de Justicia, representado por el Magistrado Presidente;
+II.- En el Poder Ejecutivo: El Gobernador o Gobernadora del Estado y, en sus dependencias los funcionarios de mayor jerarquía;
 
-IV.- En los Municipios: Los Ayuntamientos, representados por el Síndico de Hacienda, el Presidente Municipal o por el Presidente del Consejo en su caso;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+III.- En el Poder Judicial: El Pleno del Tribunal Superior de Justicia, representado por el Magistrado Presidente o Magistrada Presidenta;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+IV.- En los Municipios: Los Ayuntamientos, representados por el Síndico o Sindica de Hacienda, el Presidente o Presidenta Municipal o por el Presidente o Presidenta del Consejo en su caso;
 
 V.- En los organismos descentralizados y desconcentrados así como en las sociedades de participación estatal mayoritaria, los funcionarios de mayor jerarquía.
 
@@ -193,7 +199,9 @@ Son causas de suspensión temporal, de la relación de trabajo, las siguientes:
 
 I.- La enfermedad contagiosa del trabajador que implique un peligro para las personas que trabajen con él;
 
-II.- La incapacidad física temporal del trabajador, cuando la misma derive de un accidente o enfermedad que no constituya un riesgo de trabajo y se determine así médicamente, en cuanto le inhabilite para desempeñar su trabajo de acuerdo con la Ley del ISSET;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+II.- La incapacidad física temporal del trabajador, cuando la misma derive de un accidente o enfermedad que no constituya un riesgo de trabajo y se determine así médicamente, en cuanto le inhabilite para desempeñar su trabajo de acuerdo con la Ley de Seguridad Social del Estado de Tabasco;
 
 III.- La prisión preventiva del trabajador seguida de formal prisión, o el arresto por autoridad Judicial o Administrativa. Cuando en el caso de formal prisión, recaiga sentencia absolutoria, el trabajador se reincorporará a sus labores, debiéndose liquidar sus salarios cuando haya obrado en defensa de los intereses de la entidad pública;
 
@@ -615,9 +623,11 @@ La seguridad social será proporcionada por el Instituto de Seguridad Social del
 
 Tratándose de enfermedades no profesionales, el trabajador tendrá derecho a que, por conducto del servicio médico del Instituto de Seguridad Social del Estado, se expida la incapacidad correspondiente, a fin de que sea cubierto su salario.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 55.
 
-Los riesgos de trabajo que sufran los trabajadores, se regirán por las disposiciones de la Ley del Instituto de Seguridad Social del Estado. Las incapacidades que con este motivo se autoricen, serán con goce de salario de acuerdo con dicha Ley.
+Los riesgos de trabajo que sufran los trabajadores, se regirán por las disposiciones de la Ley de Seguridad Social del Estado de Tabasco. Las incapacidades que con este motivo se autoricen, serán con goce de salario de acuerdo con dicha Ley.
 
 > <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2013)</small>
 
@@ -987,27 +997,35 @@ Para los efectos de la prescripción, los meses se regularán por el número de 
 
 ### CAPITULO I. DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 102.
 
-El Tribunal de Conciliación y Arbitraje estará integrado por tres magistrados que durarán en su cargo seis años, con excepción del magistrado representante de los trabajadores que durará en su cargo tres años, que se iniciarán a partir del día primero de enero del año constitucional, serán: uno en representación de las Entidades Públicas, designado por el Oficial Mayor del Gobierno del Estado; otro en representación de los trabajadores, designado a través de su Sindicato; y un tercero que será el Presidente, nombrado por el H. Congreso a proposición en terna del Ejecutivo del Estado.
+El Tribunal de Conciliación y Arbitraje estará integrado por tres magistrados o magistradas que durarán en su cargo seis años, con excepción del magistrado o magistrada representante de los trabajadores que durará en su cargo tres años, que se iniciarán a partir del día primero de enero del año constitucional, serán: uno en representación de las Entidades Públicas, designado o designada por el Secretario o Secretaria de Administración y Finanzas; otro en representación de los trabajadores, designado o designada a través de su Sindicato; y un tercero que será el Presidente o Presidenta, nombrado por el H. Congreso a proposición en terna del Ejecutivo del Estado.
 
 Así mismo, del personal necesario para realizar las funciones que le sean inherentes a dicho organismo.
 
-Por cada Magistrado representante de las Entidades Públicas y de los trabajadores, se nombrará un suplente de la misma manera que los propietarios.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
+Por cada Magistrado o Magistrada representante de las Entidades Públicas y de los trabajadores, se nombrará una persona suplente de la misma manera que los propietarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 103.
 
-Para ser Magistrado del Tribunal de Conciliación y Arbitraje, se requiere:
+Para ser Magistrado o Magistrada del Tribunal de Conciliación y Arbitraje, se requiere:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-I.- Ser ciudadano mexicano por nacimiento y contar con una residencia efectiva en el Estado de Tabasco, de por lo menos cinco años anteriores a su designación;
+I.- Tener la ciudadanía mexicana por nacimiento y contar con una residencia efectiva en el Estado de Tabasco, de por lo menos cinco años anteriores a su designación;
 
 II.- Ser mayor de treinta años el día de la designación, estar en pleno ejercicio de sus derechos políticos y civiles y haber observado una conducta pública notoriamente buena;
 
 III.- Para tener el cargo de representante de los trabajadores deberá, quien lo desempeñe, estar ocupando un puesto de base en alguna de las Entidades Públicas; quedará inhabilitado para desempeñar la representación, si acepta un cargo de confianza o si es electo para ocupar alguno de elección popular.
 
-El Presidente, el Secretario General, Auxiliares y el Secretario de Acuerdos deberán ser Licenciados en Derecho y tener, cuando menos tres años de práctica forense reconocida y haberse distinguido en conocimiento del Derecho del Trabajo y de la Seguridad Social.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
+El Presidente o Presidenta, el Secretario o Secretaria General, Auxiliares y el Secretario o Secretaria de Acuerdos deberán contar con título profesional de licenciatura en Derecho y tener, cuando menos tres años de práctica forense reconocida y haberse distinguido en conocimiento del Derecho del Trabajo y de la Seguridad Social.
 
 ###### ARTICULO 104.
 
@@ -1023,125 +1041,213 @@ IV.- Conocer del Registro del Sindicato y sus delegaciones y en su caso, resolve
 
 V.- Efectuar el registro de las condiciones generales de trabajo.
 
-El Tribunal de Conciliación y Arbitraje contará con un Secretario General, Auxiliares, los Secretarios de Acuerdos, Actuarios y el personal necesario; mismos que estarán sujetos a la presente Ley. Pero los conflictos que se susciten con motivo de la aplicación de la misma a ellos y demás trabajadores del Tribunal, serán resueltos por la Junta Local de Conciliación y Arbitraje.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
+El Tribunal de Conciliación y Arbitraje contará con un Secretario o Secretaria General, Auxiliares, Secretarios y Secretarias de Acuerdos, Actuarios y Actuarias, y el personal necesario para el desempeño de sus funciones, mismos que estarán sujetos a la presente Ley. Pero los conflictos que se susciten con motivo de la aplicación de la misma a ellos y demás trabajadores del Tribunal, serán resueltos por los Tribunales Laborales Locales.
 
 El Tribunal de Conciliación y Arbitraje nombrará, suspenderá o cesará a sus trabajadores en los términos de esta Ley.
 
 Los gastos que origine el funcionamiento del Tribunal serán cubiertos por el Estado, consignándoseles en el Presupuesto de Egresos correspondiente.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
-ARTICULO 104 BIS-A.- Se crea la Procuraduría de la Defensa de los Trabajadores al Servicio el (sic) Estado, dependiente del Titular del Poder Ejecutivo, como órgano de buena fe, de interés público y de carácter permanente, que tiene por objeto la defensa de los derechos de los trabajadores al servicio del Estado y los Municipios, con facultades de representación ante conflictos individuales y colectivos suscitados con motivo de la relación laboral de los trabajadores con el ente público, actuando éste como patrón; misma que orgánicamente estará adscrita a la Secretaría de Gobierno.
+ARTICULO 104 BIS-A.- Se crea la Procuraduría de la Defensa de los Trabajadores al Servicio del Estado, dependiente de la Persona Titular del Poder Ejecutivo, como órgano de buena fe, de interés público y de carácter permanente, que tiene por objeto la defensa de los derechos de los trabajadores al servicio del Estado y los Municipios, con facultades de representación ante conflictos individuales y colectivos suscitados con motivo de la relación laboral de los trabajadores con el ente público, actuando éste como patrón; misma que orgánicamente estará adscrita a la Consejería Jurídica del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 A).- La Procuraduría de la Defensa de los Trabajadores al Servicio del Estado, estará integrada, cuando menos de la siguiente forma:
 
-I.- Procurador;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-II.- Procuradores Auxiliares; y
+I.- Procurador o Procuradora;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+II.- Procuradores y Procuradoras Auxiliares; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 III.- Personal administrativo de apoyo.
 
-B).- Requisitos para ser Procurador y Procurador Auxiliar:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
-I.- Ser ciudadano mexicano en pleno goce de sus derechos;
+B).- Requisitos para ser Procurador o Procuradora y Procurador o Procuradora Auxiliar:
 
-II.- Ser licenciado en derecho;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+I.- Tener la ciudadanía mexicana en pleno goce de sus derechos;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+II.- Tener título profesional de licenciatura en derecho;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 III.- Que se haya destacado en estudios e investigaciones en derecho del trabajo y de la seguridad social;
 
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 IV:- Tener como experiencia mínima comprobable tres años en materia laboral.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 V.- No haber sido condenado por delito doloso sancionado con pena corporal;
 
-VI.- Ser mayor de 25 años de edad al día de su designación; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+VI.- Tener 21 años como mínimo en la fecha de su designación;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 VII.- No pertenecer al estado eclesiástico.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
-ARTICULO 104 BIS-B.- El Procurador de la Defensa de los Trabajadores al Servicio del Estado, será nombrado por el Gobernador del Estado, a propuesta mediante terna, del Secretario de Gobierno. Los Procuradores Auxiliares serán designados por el Secretario de Gobierno.
+ARTICULO 104 BIS-B.- El Procurador o Procuradora de la Defensa de los Trabajadores al Servicio del Estado, será nombrado o nombrada por el Gobernador o Gobernadora del Estado, a propuesta mediante terna, del Consejero Jurídico o Consejera Jurídica del Poder Ejecutivo del Estado. Los Procuradores y Procuradoras Auxiliares serán designados por el Consejero Jurídico o Consejera Jurídica del Poder Ejecutivo del Estado.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
-ARTICULO 104 BIS-C.- El Procurador de la Defensa de los Trabajadores al Servicio del Estado, tendrá las facultades y obligaciones siguientes:
+ARTICULO 104 BIS-C.- El Procurador o Procuradora de la Defensa de los Trabajadores al Servicio del Estado, tendrá las facultades y obligaciones siguientes:
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 I.- Representar a los trabajadores mediante comparecencia o simple carta poder, sus sindicatos o beneficiarios cuando éstos así lo soliciten ante los órganos jurisdiccionales, administrativos y cualquier otra institución pública, a efecto de ejercitar las acciones y recursos que correspondan en la vía ordinaria, especial, inclusive el juicio de amparo, hasta su total terminación;
 
-II.- Ejercer las funciones de su competencia de conformidad con lo dispuesto en las disposiciones legales y reglamentarias aplicables, así como de acuerdo a las directrices, lineamientos y órdenes que emita el Secretario;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+II.- Ejercer las funciones de su competencia de conformidad con lo dispuesto en las disposiciones legales y reglamentarias aplicables, así como de acuerdo a las directrices, lineamientos y órdenes que emita el Consejero Jurídico o Consejera Jurídica del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 III.- Orientar y asesorar a los trabajadores, sus sindicatos o beneficiarios sobre los derechos y obligaciones derivados de las normas de trabajo y de previsión y seguridad sociales, así como de los trámites, procedimientos y órganos competentes ante los cuales podrán acudir para hacerlos valer.
 
-IV.- Intervenir en la defensa del trabajador burócrata, en aquellos casos en que legalmente no estuviese representado en las comparecencias ante el Tribunal de Conciliación y Arbitraje. Para este efecto el órgano jurisdiccional dará conocimiento inmediato a esta Institución;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+IV.- Intervenir en la defensa del trabajador burócrata, en aquellos casos en que legalmente no estuviese representado en las comparecencias ante el Tribunal de Conciliación y Arbitraje y/o Tribunales Laborales Locales. Para este efecto el órgano jurisdiccional dará conocimiento inmediato a esta Institución;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 V.- Recibir de los trabajadores, sus sindicatos o beneficiarios, las quejas por el incumplimiento y violación a las normas de trabajo y de previsión y seguridad sociales y, en su caso, citar a las entidades públicas o sindicatos, para que comparezcan a manifestar lo que a su derecho convenga, apercibiéndolos que de no comparecer se les aplicará, como medida de apremio, una multa de hasta cien veces el valor diario de la Unidad de Medida y Actualización;
 
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 VI.- Formular las denuncias que correspondan ante las autoridades competentes por el incumplimiento y violación a las normas de trabajo y de previsión y seguridad sociales, y ante el Ministerio Público los hechos que presuntamente constituyan ilícitos penales;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 VII.- Proponer a las partes interesadas soluciones amistosas, para el arreglo de sus conflictos mediante la celebración de convenios fuera de juicio y hacerlos constar en actas autorizadas;
 
-VIII.- Acordar con el Secretario de Gobierno o con el Subsecretario del ramo, el despacho de los asuntos que estén bajo su responsabilidad; así como recibir en acuerdo a los servidores públicos subalternos y atender en audiencia al público;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-IX.- Proponer al Secretario de Gobierno, en coordinación con la Subsecretaría del Trabajo y Previsión Social y la Dirección de Asuntos Jurídicos de la Secretaría de Gobierno, los anteproyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas sobre los asuntos de su competencia;
+VIII.- Acordar con el Consejero Jurídico o Consejera Jurídica del Poder Ejecutivo del Estado, el despacho de los asuntos que estén bajo su responsabilidad; así como recibir en acuerdo a los servidores públicos subalternos y atender en audiencia al público;
 
-X.- Aprobar las políticas generales en materia de conciliación, asesoría, apoyo técnico y de lo contencioso, así como las políticas, normas, sistemas y procedimientos para la administración de los recursos materiales y de cualquier otra índole administrativa para el funcionamiento de la Procuraduría, en los términos del presente ordenamiento y en coordinación con la Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-XI.- Proponer al Secretario de Gobierno o al Subsecretario del ramo, la celebración de convenios de coordinación, de colaboración administrativa y demás instrumentos jurídicos que sea conveniente suscribir en las materias competencia de la Procuraduría;
+IX.- Proponer al Consejero Jurídico o Consejera Jurídica del Poder Ejecutivo del Estado, en coordinación con la Dirección General del Trabajo y Previsión Social, los anteproyectos de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas sobre los asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+X.- Aprobar las políticas generales en materia de conciliación, asesoría, apoyo técnico y de lo contencioso, así como las políticas, normas, sistemas y procedimientos para la administración de los recursos materiales y de cualquier otra índole administrativa para el funcionamiento de la Procuraduría, en los términos del presente ordenamiento y en coordinación con la Consejería Jurídica del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XI.- Proponer al Consejero Jurídico o Consejera Jurídica del Poder Ejecutivo del Estado, la celebración de convenios de coordinación, de colaboración administrativa y demás instrumentos jurídicos que sea conveniente suscribir en las materias competencia de la Procuraduría;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 XII.- Denunciar ante la Suprema Corte de Justicia de la Nación, las contradicciones de tesis que sustenten los Tribunales Colegiados de Circuito, de la jurisdicción territorial correspondiente, cuando la Procuraduría haya representado a los trabajadores, sus sindicatos o beneficiarios en los juicios laborales en que tales tesis hubieran sido sostenidas;
 
-XIII.- Hacer del conocimiento al Tribunal de Conciliación y Arbitraje del Estado, la contradicción de criterios sustentados en los laudos dictados por dicho Tribunal, informándole al Magistrado Presidente los casos concretos que así se hayan resuelto, para que por su conducto se sometan al Pleno de dicho Tribunal, a efecto de que se resuelva conforme a derecho;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XIII.- Hacer del conocimiento al Tribunal de Conciliación y Arbitraje del Estado, la contradicción de criterios sustentados en los laudos dictados por dicho Tribunal, informándole al Magistrado Presidente o Magistrada Presidenta los casos concretos que así se hayan resuelto, para que por su conducto se sometan al Pleno de dicho Tribunal, a efecto de que se resuelva conforme a derecho;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 XIV.- Aplicar las medidas de apremio que establezca el reglamento respectivo.
 
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 XV.- Denunciar ante las instancias competentes el incumplimiento de los deberes de los servidores públicos encargados de impartir justicia laboral en los juicios en que intervengan;
 
-XVI.- Remitir a la Contraloría Interna de la Secretaría de Gobierno para su sustanciación y resolución la documentación correspondiente a las denuncias de carácter administrativo, presentadas en contra de los servidores públicos de la Procuraduría;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-XVII.- Delegar sus facultades en los Procuradores Auxiliares, así como dictar las medidas que se requieran para garantizar la eficiencia, modernización y simplificación de los procedimientos operativos;
+XVI.- Remitir al Órgano Interno de Control de la Consejería Jurídica del Poder Ejecutivo del Estado, para su sustanciación y resolución la documentación correspondiente a las denuncias de carácter administrativo, presentadas en contra de los servidores públicos de la Procuraduría;
 
-XVIII.- Proponer al Secretario de Gobierno, para su aprobación, los anteproyectos de programas y presupuesto, los manuales de organización, de procedimientos y de servicios;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XVII.- Delegar sus facultades en los Procuradores y Procuradoras Auxiliares, así como dictar las medidas que se requieran para garantizar la eficiencia, modernización y simplificación de los procedimientos operativos;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XVIII.- Proponer al Consejero Jurídico o Consejera Jurídica del Poder Ejecutivo del Estado, para su aprobación, los anteproyectos de programas y presupuesto, los manuales de organización, de procedimientos y de servicios;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 XIX.- Autorizar la documentación necesaria para las erogaciones con cargo al presupuesto de conformidad con las disposiciones que se establezcan;
 
-XX.- Dirigir, resolver y autorizar conforme a los lineamientos que establezca el Secretario de Gobierno, y de conformidad con las disposiciones legales aplicables, los asuntos relacionados con el personal del órgano a su cargo;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XX.- Dirigir, resolver y autorizar conforme a los lineamientos que establezca el Consejero Jurídico o Consejera Jurídica del Poder Ejecutivo del Estado, y de conformidad con las disposiciones legales aplicables, los asuntos relacionados con el personal del órgano a su cargo;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 XXI.- Expedir certificaciones sobre los asuntos de su competencia;
 
-XXII.- Desempeñar las comisiones que le confiera el Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-XXIII.- Vigilar que los Procuradores Auxiliares, personal administrativo y de apoyo a la Procuraduría, cumplan lo dispuesto por el Reglamento;
+XXII.- Desempeñar las comisiones que le confiera el Consejero Jurídico o Consejera Jurídica del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XXIII.- Vigilar que los Procuradores y Procuradoras Auxiliares, personal administrativo y de apoyo a la Procuraduría, cumplan lo dispuesto por el Reglamento;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
 XXIV.- Coordinar con la unidad administrativa, todo lo relativo a licencias o permisos del personal de la Procuraduría;
 
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
+
 XXV.- Integrar, custodiar y controlar los libros de registro de negocios, índices y demás necesario para el mejor funcionamiento de la Procuraduría;
 
-XXVI.- Las demás que se deriven de la Ley de los Trabajadores al Servicio del Estado, y el Reglamento que al efecto se expida, así como de otras disposiciones legales aplicables y las que le encomiende el Secretario de Gobierno dentro de la esfera de sus facultades.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-Los Procuradores Auxiliares tendrán las facultades y obligaciones que les señale el Reglamento Interior de la Procuraduría de la Defensa de los Trabajadores al Servicio del Estado y los Municipios, y las que por delegación les encomiende el Titular de la Institución, contando con las facultades de representación de éste.
+XXVI.- Las demás que se deriven de esta Ley, y el Reglamento que al efecto se expida, así como de otras disposiciones legales aplicables y las que le encomiende el Consejero Jurídico o Consejera Jurídica del Poder Ejecutivo del Estado dentro de la esfera de sus facultades.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
+Los Procuradores y Procuradoras Auxiliares tendrán las facultades y obligaciones que les señale el Reglamento Interior de la Procuraduría de la Defensa de los Trabajadores al Servicio del Estado, y las que por delegación les encomiende la persona Titular de la Institución, contando con las facultades de representación de esta.
 
 ### CAPITULO II. DEL PROCEDIMIENTO ORDINARIO
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 105.
 
-El Tribunal de Conciliación y Arbitraje actuará en pleno, las votaciones serán nominales sin perjuicio de que en caso de discrepancia, el Magistrado inconforme emita voto particular por escrito.
+El Tribunal de Conciliación y Arbitraje actuará en pleno, las votaciones serán nominales sin perjuicio de que en caso de discrepancia, el Magistrado o Magistrada inconforme emita voto particular por escrito.
 
 ###### ARTICULO 106.
 
 El procedimiento ante el Tribunal de Conciliación y Arbitraje será público, gratuito e inmediato; y se iniciará a instancia de parte, debiéndose tomar medidas conducentes para lograr la mayor economía del tiempo, concentración y sencillez en el proceso.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+El Tribunal de Conciliación y Arbitraje garantizará la imparcialidad y autonomía jurisdiccional en su toma de decisiones.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 107.
 
-Tan pronto se reciba la primera promoción relativa a un conflicto, el Presidente del Tribunal de Conciliación y Arbitraje citará a las partes a una audiencia de conciliación, que deberá llevarse a cabo dentro del término de diez días. En esta audiencia se procurará avenir a las partes y en caso de celebrarse convenio, se elevará a la categoría de laudo, que obligará a las partes como si se tratara de sentencia ejecutoriada. Si las partes no se avienen, remitirá el expediente a la Secretaría General del Tribunal para que se proceda al arbitraje, de conformidad con el procedimiento que establece este Capítulo.
+Tan pronto se reciba la primera promoción relativa a un conflicto, el Presidente o Presidenta del Tribunal de Conciliación y Arbitraje citará a las partes a una audiencia de conciliación, que deberá llevarse a cabo dentro del término de diez días. En esta audiencia se procurará avenir a las partes y en caso de celebrarse convenio, se elevará a la categoría de laudo, que obligará a las partes como si se tratara de sentencia ejecutoriada. Si las partes no se avienen, remitirá el expediente a la Secretaría General del Tribunal para que se proceda al arbitraje, de conformidad con el procedimiento que establece este Capítulo.
 
 ###### ARTICULO 108.
 
 El procedimiento para resolver las controversias que se someten al Tribunal de Conciliación y Arbitraje, se reducirá a la presentación de la demanda respectiva que deberá hacerse por escrito; a la contestación, que se hará en igual forma; y a una sola audiencia en la que se recibirán las pruebas y alegatos de las partes; y se pronunciará resolución; salvo cuando, a juicio del propio Tribunal, se requiera la práctica de otras diligencias, en cuyo caso se ordenará que se lleven a cabo, y, una vez desahogadas, se dictará laudo.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 109.
 
-Las Audiencias estarán a cargo de los auxiliares del Tribunal. El presidente resolverá todas las cuestiones que en ellas se susciten. Las actuaciones se efectuarán con los Magistrados que asistan. Sus resoluciones se dictarán por mayoría de votos.
+Las Audiencias estarán a cargo de los y las auxiliares del Tribunal. El presidente o presidenta resolverá todas las cuestiones que en ellas se susciten. Las actuaciones se efectuarán con los Magistrados y Magistradas que asistan. Sus resoluciones se dictarán por mayoría de votos.
 
 ###### ARTICULO 110.
 
@@ -1159,9 +1265,11 @@ V.- La indicación del lugar en que se puedan obtener las pruebas que el reclama
 
 A la demanda se acompañarán las pruebas de que disponga la oferente y los documentos que acrediten la personalidad de su representante, si no concurre personalmente.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 111.
 
-La contestación de la demanda se presentará en un término que no exceda de 10 días hábiles, contados a partir del siguiente a la fecha de su notificación; deberá referirse a todos y cada uno de los hechos que comprenda la demanda y ofrecer pruebas, en los términos de la Fracción V del Artículo anterior.
+La contestación de la demanda se presentará en un término que no exceda de 15 días hábiles, contados a partir del siguiente a la fecha de su notificación; deberá referirse a todos y cada uno de los hechos que comprenda la demanda y ofrecer pruebas, en los términos de la Fracción V del Artículo anterior.
 
 ###### ARTICULO 112.
 
@@ -1191,9 +1299,11 @@ Cuando el demandado no conteste la demanda dentro del término concedido o si re
 
 El Tribunal apreciará en conciencia las pruebas aceptadas, sin sujetarse a reglas fijas para su estimación; y resolverá los asuntos a verdad sabida y buena fe guardada, debiendo expresar en su laudo las consideraciones en que se funde su decisión.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 118.
 
-Antes de pronunciarse el laudo, los Magistrados podrán solicitar mayor información para mejor proveer; en este caso, el Tribunal acordará la práctica de las diligencias necesarias.
+Antes de pronunciarse el laudo, los Magistrados y Magistradas podrán solicitar mayor información para mejor proveer; en este caso, el Tribunal acordará la práctica de las diligencias necesarias.
 
 ###### ARTICULO 119.
 
@@ -1233,9 +1343,11 @@ El Tribunal sancionará las faltas de respeto que se cometan, ya sea por escrito
 
 El Tribunal de Conciliación y Arbitraje no podrá condenar el pago de costas.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 125.
 
-Los integrantes del Tribunal de Conciliación y Arbitraje y los Auxiliares no son recusables; pero deben excusarse cuando tengan impedimento legal.
+Las personas integrantes del Tribunal de Conciliación y Arbitraje, así como los y las Auxiliares no son recusables; pero deben excusarse cuando tengan impedimento legal.
 
 ###### ARTICULO 126.
 
@@ -1247,17 +1359,17 @@ Las autoridades están obligadas a prestar auxilio al Tribunal de Conciliación 
 
 ### CAPITULO III. DE LOS MEDIOS DE APREMIO
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 128.
 
-El Tribunal, para hacer cumplir sus determinaciones, podrán imponer multas hasta de siete veces el valor diario de la Unidad de Medida y Actualización; tratándose de los trabajadores y los titulares de las Entidades Públicas a que se refiere esta Ley.
+El Tribunal, para hacer cumplir sus determinaciones, podrá imponer multas de siete veces el valor diario de la Unidad de Medida y Actualización como mínimo y hasta cien veces el valor diario de la Unidad de Medida y Actualización como máximo; tratándose de los trabajadores y los titulares de las Entidades Públicas a que se refiere esta Ley.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 129.
 
-Las multas se harán efectivas por la Secretaría de Finanzas; para lo cual el Tribunal girará el oficio correspondiente. La Secretaría aludida informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
+Las multas se harán efectivas por la Secretaría de Administración y Finanzas; para lo cual el Tribunal girará el oficio correspondiente. La Secretaría aludida informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
 
 ### CAPITULO IV. EJECUCION
 
@@ -1265,9 +1377,11 @@ Las multas se harán efectivas por la Secretaría de Finanzas; para lo cual el T
 
 El Tribunal de Conciliación y Arbitraje tiene la obligación de proveer a la eficaz e inmediata ejecución de los laudos y a ese efecto, dictará las medidas necesarias en la forma y términos que a su juicio sean procedentes.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 131.
 
-Cuando se pida la ejecución de un laudo, el Tribunal despachará auto de ejecución y comisionará a un Actuario para que, asociado de la parte que obtuvo, se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución, apercibiéndola de que, de no hacerlo, se procederá conforme a lo dispuesto en el capítulo anterior; sin que, por ello, se omita el cumplimiento de dicho auto.
+Cuando se pida la ejecución de un laudo, el Tribunal despachará auto de ejecución y comisionará a un Actuario o Actuaria para que, asociado de la parte que obtuvo, se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución, apercibiéndola de que, de no hacerlo, se procederá conforme a lo dispuesto en el capítulo anterior; sin que, por ello, se omita el cumplimiento de dicho auto.
 
 ### CAPITULO V. PROCEDIMIENTOS ESPECIALES
 
@@ -1464,3 +1578,13 @@ P.O. 22 DE OCTUBRE DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 275 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 7, FRACCIONES I, II, III Y IV; 19, FRACCIÓN II; 55; 102, PÁRRAFOS PRIMERO Y TERCERO; 103, PÁRRAFOS PRIMERO, FRACCIÓN I, Y SEGUNDO; 104, PÁRRAFO SEGUNDO; 104 BIS-A, PÁRRAFO PRIMERO, INCISO A), FRACCIONES I Y II, E INCISO B), PÁRRAFO PRIMERO Y FRACCIONES I, II Y VI; 104 BIS-B; 104 BIS-C, PÁRRAFOS 2 PUBLICADO MEDIANTE EL DECRETO 082, EXTRAORDINARIO, EDICIÓN 265 DEL PERIÓDICO OFICIAL DEL ESTADO DE PRIMERO, FRACCIONES II, IV, VIII, IX, X, XI, XIII, XVI, XVII, XVIII, XX, XXII, XXIII Y XXVI, Y SEGUNDO; 105; 107; 109; 111; 118; 125; 128; 129; 131; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 106; TODOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. El Tribunal de Conciliación y Arbitraje y la Procuraduría de la Defensa de los Trabajadores al Servicio del Estado deberán realizar las gestiones que estimen pertinentes a efecto de adecuar sus Reglamentos Interiores dentro de un plazo no mayor a ciento ochenta días naturales, conforme a las disposiciones del presente Decreto.
+
+TERCERO. Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido al presente Decreto.
