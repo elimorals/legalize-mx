@@ -4,7 +4,7 @@ identifier: "SLP-ley-sobre-el-regimen-de-propiedad-en-condominio-para-el-107552"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-09"
-last_updated: "2026-03-31"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 9 de abril de 2015.
 
@@ -69,21 +69,25 @@ IX. Cultura condominal: todo aquello que contribuya a generar las acciones y act
 
 X. Estado: el Estado de San Luis Potosí;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2026)</small>
 
-XI. Prestador de servicios: Persona física o moral, pública o privada, legalmente constituida, que en virtud de contrato, nombramiento o disposición legal, proporcione, ejecute o administre servicios necesarios para la operación, conservación, mantenimiento, seguridad y adecuado funcionamiento del condominio, con sujeción a la normativa aplicable;
-
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
-
-XII. Reglamento del condominio: el ordenamiento que regula la administración de un inmueble sujeto al régimen de propiedad en condominio, así como los derechos y obligaciones de los condóminos;
-
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
-
-XIII. Unidad de propiedad exclusiva o unidad particular: el departamento, casa, vivienda, local, nave o lote de terreno y los elementos anexos que le correspondan, sobre el cual el condómino tiene un derecho de dominio y uso exclusivos, y
+XI. Estancia Turística Eventual: Servicio de estancia temporal en inmuebles de uso habitacional a cambio de una contraprestación que puede promocionarse o contratarse a través de plataformas tecnológicas, digitales, aplicaciones informáticas, redes sociales o similares.
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
 
-XIV. Visitante: Persona física que, sin tener el carácter de condómino, poseedor o residente, ingresa de manera temporal al condominio con autorización de un condómino, residente o del órgano de administración, y que deberá sujetarse a la presente Ley, su reglamento y demás disposiciones aplicables.
+XII. Prestador de servicios: Persona física o moral, pública o privada, legalmente constituida, que en virtud de contrato, nombramiento o disposición legal, proporcione, ejecute o administre servicios necesarios para la operación, conservación, mantenimiento, seguridad y adecuado funcionamiento del condominio, con sujeción a la normativa aplicable;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
+
+XIII. Reglamento del condominio: el ordenamiento que regula la administración de un inmueble sujeto al régimen de propiedad en condominio, así como los derechos y obligaciones de los condóminos;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
+
+XIV. Unidad de propiedad exclusiva o unidad particular: el departamento, casa, vivienda, local, nave o lote de terreno y los elementos anexos que le correspondan, sobre el cual el condómino tiene un derecho de dominio y uso exclusivos, y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+XV. Visitante: Persona física que, sin tener el carácter de condómino, poseedor o residente, ingresa de manera temporal al condominio con autorización de un condómino, residente o del órgano de administración, y que deberá sujetarse a la presente Ley, su reglamento y demás disposiciones aplicables.
 
 ###### ARTÍCULO 3°.
 
@@ -1120,6 +1124,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0502.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 2°; DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0574.- QUE REFORMA EL ARTÍCULO 1° Y REALIZA ADICIÓN AL ARTÍCULO 4°, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN AL ARTÍCULO 2°, DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
