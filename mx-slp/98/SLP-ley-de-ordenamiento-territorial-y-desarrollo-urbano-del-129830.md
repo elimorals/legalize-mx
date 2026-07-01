@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2026-05-22"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -51,19 +51,25 @@ LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOS
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto:
 
-I. Fijar las normas básicas e instrumentos para planear y regular el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano sostenible en el Estado, a través de la fundación, conservación, mejoramiento y crecimiento de los centros de población, con pleno respeto a los derechos humanos, así como el cumplimiento de las obligaciones que tiene el Estado para promoverlos, respetarlos, protegerlos y garantizarlos plenamente;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+I. Fijar las normas básicas e instrumentos para planear y regular el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano sostenible en el Estado, a través de la fundación, conservación, mejoramiento y crecimiento de los centros de población, con pleno respeto a los derechos humanos, así como el cumplimiento de las obligaciones que tiene el Estado para promoverlos, respetarlos, protegerlos y garantizarlos plenamente, incluyendo la gestión de los procesos de transformación urbana para prevenir los efectos negativos de la gentrificación y garantizar el acceso a la vivienda digna y asequible para todos;
 
 II. Establecer la concurrencia entre el Estado con la Federación y los municipios, para la ordenación y regulación de los asentamientos humanos en el territorio estatal, para la coordinación y gestión de las conurbaciones, así como las zonas metropolitanas, y el desarrollo urbano de los centros de población;
 
 III. Asignar las atribuciones y responsabilidades del Estado y de los municipios en la aplicación de este (sic) Ley y fijar los criterios para que, en el ámbito de sus respectivas competencias, exista una efectiva congruencia, coordinación y participación entre ambos ámbitos de gobierno;
 
-IV. Definir los principios conforme a los cuales el Estado y los municipios ejercerán sus atribuciones para determinar las provisiones, reservas, usos y destinos de áreas y predios que regulen la propiedad en los centros de población;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+IV. Definir los principios conforme a los cuales el Estado y los municipios ejercerán sus atribuciones para determinar las provisiones, reservas, usos y destinos de áreas y predios que regulen la propiedad en los centros de población, incorporando criterios de inclusión social, diversidad económica y prevención del desplazamiento de poblaciones originarias;
 
 V. Propiciar mecanismos que permitan la participación social, en particular para las mujeres, jóvenes y personas en situación de vulnerabilidad, en los procesos de planeación y gestión del territorio, con base en el acceso a información transparente, completa y oportuna, así como la creación de espacios e instrumentos que garanticen la corresponsabilidad del gobierno y la ciudadanía en la formulación, seguimiento y evaluación de la política pública en la materia;
 
 VI. El control, vigilancia y autorización de los actos relacionados con el fraccionamiento, subdivisión, fusión, relotificación y modificaciones de los inmuebles, de los desarrollos en régimen de propiedad en condominio, así como las demás acciones urbanísticas en el Estado y los municipios de San Luis Potosí;
 
-VII. El control, vigilancia y autorización de las acciones y obras relacionadas de zonas con valores históricos y culturales, así como la planeación y gestión de las demás acciones de protección, mejoramiento y preservación del patrimonio cultural y natural, y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+VII. El control, vigilancia y autorización de las acciones y obras relacionadas de zonas con valores históricos y culturales, así como la planeación y gestión de las demás acciones de protección, mejoramiento y preservación del patrimonio cultural y natural, priorizando la creación de reservas para vivienda de interés social y popular, y la contención de la especulación inmobiliaria, y
 
 VIII. Fijar las medidas de seguridad, infracciones, responsabilidades y sanciones que permitan la aplicación de esta Ley.
 
@@ -257,6 +263,10 @@ XLIV. Fundación: acción de establecer un nuevo asentamiento humano en áreas o
 
 XLV. Fusión: unión de dos o más terrenos, lotes, áreas o predios colindantes para formar uno solo;
 
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XLV BIS. Gentrificación. Fenómeno urbano complejo y multicausal asociado a procesos de transformación territorial, cambios en el valor del suelo y en las dinámicas del mercado inmobiliario, así como a inversiones públicas y privadas y políticas de desarrollo urbano, que pueden incidir en la composición socioeconómica de determinadas zonas;
+
 XLVI. Gestión integral de riesgos: el conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la implementación de políticas públicas, estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Comprende la identificación de los riesgos y, en su caso, su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
 
 XLVII. INAH: Instituto Nacional de Antropología e Historia;
@@ -358,6 +368,10 @@ XC. Usos del suelo: fines particulares a que podrán dedicarse determinadas zona
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
 XCI. Vía pública: Todo espacio de dominio público y uso común destinado al tránsito de personas peatonas y vehículos, así como a la prestación de servicios públicos y la instalación de infraestructura y mobiliario, en la que deberán considerarse las vocaciones de movilidad y habitabilidad a que se refiere la Ley General de Movilidad y Seguridad Vial;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XCI BIS. Vivienda asequible: Aquella cuyo costo debe ser tal que todas las personas puedan acceder a ella sin poner en peligro el disfrute de otros satisfactores básicos o el ejercicio de sus derechos humanos;
 
 XCII. Vivienda plurifamiliar: es aquella que da alojamiento a dos o más familias y que se encuentra en un predio común a las viviendas que contiene. Se caracteriza por estar basada en un régimen de propiedad en condominio;
 
@@ -7168,6 +7182,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 P.O. 22 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0534.- QUE REFORMA LOS ARTÍCULOS 5, 14, 90, 95, 191, 200 Y 201, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0574.- QUE REFORMA EL ARTÍCULO 1° Y REALIZA ADICIÓN AL ARTÍCULO 4°, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN AL ARTÍCULO 2°, DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
