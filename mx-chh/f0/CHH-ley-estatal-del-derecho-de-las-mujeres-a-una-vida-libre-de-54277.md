@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2026-05-27"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -207,9 +207,13 @@ De igual modo, constituye violencia laboral la negativa ilegal a contratar a la 
 
 IV. Violencia en la comunidad: Son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres en el ámbito público y propician su denigración, discriminación, marginación o exclusión.
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2026)</small>
 
-V. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
+V. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+Se manifiesta a través de conductas de odio y discriminación, afectando la integridad, la seguridad, la libertad personal o el libre desarrollo de las mujeres, las adolescentes y las niñas, poniendo en riesgo sus vidas, o culminando en muertes violentas como el feminicidio o el suicidio.
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2020)</small>
 
@@ -1788,3 +1792,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo Estatal contará con un plazo de 60 días hábiles posteriores a la fecha en que entre en vigor el presente Decreto, a fin de publicar el protocolo al que se refiere la fracción XII del artículo 27 de esta Ley.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLYC/0505/2026 II P.O., MEDIANTE EL CUAL SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA, Y DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
