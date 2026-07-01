@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2026-05-27"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -1181,13 +1181,17 @@ LXVIII. Las demás que les concedan Las Leyes, Reglamentos y otras disposiciones
 
 LXX (SIC). Resolver en relación a la admisión y trámite de Iniciativas Populares Administrativas conforme a lo establecido en la Sección Segunda, del Capítulo III, de la Ley de Participación Ciudadana del Estado de Morelos.
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-LXXI. Promover los derechos humanos y diseñar e implementar políticas públicas, acciones y programas para la población de personas con discapacidad, con el objetivo de promover a su favor la Igualdad y prevenir discriminación en su contra. En la elaboración de políticas públicas, reglamentos municipales y en otros procesos de adopción de decisiones sobre cuestiones relacionadas con las personas con discapacidad, deberá celebrar consultas estrechas y colaborará activamente con las personas con discapacidad, incluidos los niños y las niñas con discapacidad, a través de las organizaciones que las representan; y
+LXXI. Promover los derechos humanos y diseñar e implementar políticas públicas, acciones y programas para la población de personas con discapacidad, con el objetivo de promover a su favor la Igualdad y prevenir discriminación en su contra. En la elaboración de políticas públicas, reglamentos municipales y en otros procesos de adopción de decisiones sobre cuestiones relacionadas con las personas con discapacidad, deberá celebrar consultas estrechas y colaborará activamente con las personas con discapacidad, incluidos los niños y las niñas con discapacidad, a través de las organizaciones que las representan;
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-LXXI (SIC). Promover los derechos humanos y diseñar e implementar políticas públicas para la población de la diversidad sexual, con el objetivo de prevenir la violencia y discriminación en su contra.
+LXXII. Promover los derechos humanos y diseñar e implementar políticas públicas para la población de la diversidad sexual, con el objetivo de prevenir la violencia y discriminación en su contra, y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2026)</small>
+
+LXXIII. Promover, vigilar y coordinar el cumplimiento de las obligaciones a treves de sus áreas competentes, que los gimnasios o centros de deportivos públicos y privados cumplan con la presente normatividad en salud, referente a contar con personal capacitado en primeros auxilios; y mantengan protocolos vigentes de atención inmediata.
 
 ###### Artículo 39.
 
@@ -4902,3 +4906,15 @@ PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal 
 SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+P.O. 1 DE JULIO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL CIENTO SESENTA Y NUEVE POR EL QUE SE ADICIONA AL TÍTULO DÉCIMO QUINTO DENOMINADO SALUBRIDAD LOCAL, EL CAPÍTULO XII DENOMINADO “GIMNASIOS Y CENTROS DEPORTIVOS”, INCORPORANDO LOS ARTÍCULOS 334 TER, 334 QUATER Y 334 QUINQUIES A LA LEY DE SALUD DEL ESTADO DE MORELOS Y SE REFORMAN LAS FRACCIONES LXXI Y LXXII Y SE ADICIONA LA FRACCIÓN LXXV (SIC) AL ARTÍCULO 38 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS, EN MATERIA DE SALUD Y SEGURIDAD PARA LOS USUARIOS DE LOS GIMNASIOS”.]</small>
+
+PRIMERA. Remítase el presente Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Morelos, para los fines que indican los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+TERCERA. Los gimnasios o centros de acondicionamiento físico cuentan con un plazo de noventa días hábiles, a partir de la entrada en vigor del presente decreto para ajustarse a lo establecido en el mismo.
+
+CUARTA. Los ayuntamientos cuentan con un plazo de noventa días hábiles a partir de la entrada en vigor del presente decreto, para armonizar sus ordenamientos municipales, a efecto de dar cumplimiento a la presente reforma de ley.
