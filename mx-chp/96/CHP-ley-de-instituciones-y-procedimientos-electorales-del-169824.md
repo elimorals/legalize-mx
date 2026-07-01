@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-instituciones-y-procedimientos-electorales-del-169824"
 country: "mx"
 rank: "ley"
 publication_date: "2023-09-22"
-last_updated: "2025-09-17"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en el Número 305 del Periódico Oficial del Estado de Chiapas, el viernes 22 de septiembre de 2023.
 
@@ -163,6 +163,10 @@ IV. En lo que se refiere a los conceptos:
 
 a) Actividades publicitarias: A aquellas que realizan las y los precandidatos por sí o por medio de otras personas, en cualquier medio que permita la divulgación de las ideas y que se efectúan a favor de un precandidato o precandidata de manera repetida y sistemática en cualquier medio de comunicación ya sea electrónico o impreso, entendiéndose éstos como radio, televisión, prensa, folletos u otros; queda prohibida la utilización de espectaculares, bardas, pantallas publicitarias en la difusión de propaganda a efecto de evitar la contaminación visual.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+a Bis) Acción afirmativa: Medida especial de carácter temporal, razonable y proporcional, adoptada por el Estado o sus instituciones para corregir desigualdades estructurales que afectan a grupos históricamente discriminados. Tiene como finalidad garantizar la igualdad sustantiva y la participación efectiva de dichos grupos en condiciones de equidad.
+
 b) Actos anticipados de campaña: A las expresiones, mensajes o conjunto de actividades, que se realicen bajo cualquier modalidad y en cualquier momento, en un espacio público o virtual, fuera de la etapa de campañas, que contenga la emisión de imágenes, voces o símbolos que hagan plenamente identificable a una persona y que además incluyan palabras o expresiones que de forma objetiva, manifiesta y abierta revelen la intención de promoverla para obtener un cargo de elección popular en un proceso electoral, así como aquellas que contengan llamados expresos al voto en contra o a favor de una candidatura o un partido, o expresiones solicitando cualquier tipo de apoyo para contender en un proceso electoral ordinario o extraordinario por alguna candidatura o para un partido o cualquier otra que de forma unívoca e inequívoca tenga un sentido equivalente de solicitud de voto a favor o en contra de alguien.
 
 c) Actos anticipados de precampaña: A las expresiones, mensajes o conjunto de actividades que se realicen bajo cualquier modalidad y en cualquier momento, y en un espacio público o virtual, durante el lapso que va desde el inicio del proceso electoral, hasta antes del plazo legal para el inicio de precampañas, y que contengan palabras o expresiones que de forma objetiva, manifiesta y abierta denoten la intención de promover a una persona para obtener la postulación a una precandidatura; así como los llamados expresos al voto en contra o a favor de algún aspirante a una precandidatura, o expresiones solicitando cualquier tipo de apoyo para contender en una posible precampaña o cualquier otra que de forma unívoca e inequívoca tenga un sentido equivalente de solicitud de voto a favor o en contra de alguien antes del período de precampañas.
@@ -170,6 +174,10 @@ c) Actos anticipados de precampaña: A las expresiones, mensajes o conjunto de a
 d) Actos de Campaña: A las reuniones públicas, asambleas, marchas y en general aquellos actos en que las personas candidatas o voceras de los partidos políticos, o candidatos independientes se dirigen al electorado para promover sus candidaturas en búsqueda de la obtención del voto.
 
 e) Actos de precampaña: A aquellos que tienen por objeto promover, publicitar o apoyar la aspiración de una persona para ser postulado a una candidatura a un cargo de elección popular; consecuentemente, son actividades de carácter propagandístico que forman parte de los procesos de selección interna de los partidos políticos, y que tienen por objeto influir en la decisión de aquellos que integran el universo de votantes que eligen o designan a los candidatos a cargos de elección popular en una determinada demarcación.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+e Bis) Autopercepción de la diversidad sexual: Manifestación expresa de pertenencia a una categoría de la diversidad sexual, ya sea por orientación sexual o identidad de género, acompañada de elementos razonables que den cuenta de dicha pertenencia, sin que sea necesario acreditar características médicas, físicas o psicológicas, y bajo el principio de buena fe.
 
 f) Campaña Electoral: Al conjunto de actividades llevadas a cabo por los Partidos Políticos, las coaliciones, candidaturas comunes y candidaturas independientes debidamente registradas, que llevan a cabo con el fin de obtener del voto; y en general los actos consistentes en reuniones públicas, asambleas, marchas y aquéllos en que las candidatas o candidatos o voceros de los Partidos Políticos se dirigen al electorado para promover sus candidaturas.
 
@@ -183,9 +191,17 @@ j) Ciudadanas o ciudadanos: A las personas que, teniendo la calidad de chiapanec
 
 k) Coalición: A la unión o alianza que dos o más Partidos Políticos celebran en un mismo proceso electoral, con el objeto de postular a una misma candidata o candidato en las elecciones al cargo de Gobernador, Diputados y Ayuntamientos, bajo un solo registro y a través de una misma plataforma política y convenio de coalición.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+k Bis) Diversidad sexual: Toda expresión de identidad de género, orientación sexual e identidad de las personas que no se limita a las categorías binarias de hombre y mujer, reconociendo expresamente las identidades no binarias, trans, intersexuales y otras formas legítimas de autodefinición personal.
+
 l) Precandidato: A las ciudadanas y los ciudadanos que los partidos políticos, candidaturas comunes, coaliciones, registran ante los órganos electorales durante la precampaña, con el propósito de alcanzar la nominación a un puesto de elección popular.
 
 m) PREP Casilla: A la estrategia informática que permite la digitalización de las Acta (sic) de Escrutinio y Cómputo desde las casillas electorales utilizando un dispositivo móvil para su envío a los Centros de Acopio y Transmisión de datos para su captura en el PREP, garantizando su seguridad, integridad y disponibilidad en todo momento, de conformidad con los lineamientos que para tal efecto emita el Instituto Nacional.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+m Bis) Perfil Curricular Detallado: Documento estructurado que detalle y acredite la trayectoria, experiencia, conocimientos y trabajo realizado por una persona en favor de la comunidad de la diversidad sexual, mediante la presentación de datos verificables, actividades realizadas, participación, aportes y resultados obtenidos. Su validez se sustenta en la evidencia objetiva y comprobable de las acciones ejecutadas, demostrando el compromiso, la vinculación real y continua en la defensa de los derechos de este sector, sin requerir avales comunitarios, sino probando el trabajo a través de su propia trayectoria documentada.
 
 n) Proceso de Integración de órganos internos: Al conjunto de actos, hechos y actividades establecidas en la convocatoria emitida por los Partidos Políticos con el propósito de elegir o designar a sus Órganos Internos.
 
@@ -259,6 +275,18 @@ IV. Se limite a una vez al año en estaciones y canales con cobertura regional c
 
 8. Podrá llevarse a cabo la votación de manera anticipada en el territorio del Estado de Chiapas, de conformidad con los acuerdos, lineamientos y convenios establecidos entre el Instituto de Elecciones y el Instituto Nacional, a efecto de que puedan ejercer su sufragio las personas en prisión preventiva, personas con alguna discapacidad que les impida la movilidad, así como los integrantes de las fuerzas de seguridad pública destacamentados en el territorio del estado de Chiapas.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+8 Bis. Los derechos político-electorales de las personas de la diversidad sexual y de género se ejercerán libres de violencia política, discriminación o cualquier acto que atente contra su dignidad humana, derechos y libertades. Su participación se regirá bajo el principio de igualdad sustantiva y no discriminación, por lo que deberán implementarse acciones afirmativas para el acceso de candidaturas de elección popular.
+
+Para efectos de la postulación de candidaturas bajo acciones afirmativas de la diversidad sexual y de género, las personas interesadas deberán presentar, además de los elementos que se establezcan en los Lineamientos que emita el Instituto de Elecciones y Participación Ciudadana, lo siguiente:
+
+a) Bajo protesta de decir verdad, formato de autopercepción mediante el cual manifiesten la identidad de género u orientación sexual con la que se identifican;
+
+b) Documentación, elementos curriculares, evidencias de trayectoria, activismo, defensa de derechos que permitan advertir y acreditar el vínculo real, continuo y el trabajo realizado por la persona en favor de la diversidad sexual, así como su reconocimiento social y comunitario conforme a la identidad de género u orientación sexual incluida la asexualidad con la que se autopercibe y autoidentifica. Estos elementos deberán demostrarse mediante constancias de actividades, formación recibida o impartida, participación en espacios de incidencia pública, organización de iniciativas, elaboración de materiales educativos o de difusión, ejecución de proyectos, intervenciones en defensa de derechos, acciones de activismo, acompañamiento a personas de la comunidad, pronunciamientos públicos o cualquier otro medio objetivo que dé cuenta de su trayectoria, conocimientos, compromiso y vinculación efectiva con la promoción y protección de estos derechos; sin requerir cartas de respaldo genéricas, sino sustentándose en hechos y acciones verificables; y
+
+c) Cualquier otro elemento comprobable que genere convicción suficiente respecto de la pertenencia de la persona al grupo de la diversidad sexual.
+
 ###### Artículo 7.
 
 1. Son derechos de las ciudadanas y los ciudadanos del Estado de Chiapas, además de los establecidos en la Constitución Local, los siguientes:
@@ -269,7 +297,9 @@ II. Votar y participar en las elecciones federales y locales.
 
 III. Ser votados para todos los cargos de elección popular en el Estado.
 
-IV. Tener igualdad de oportunidades, paridad entre hombres y mujeres, y el derecho de las juventudes para acceder a cargos de elección popular.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+IV. Tener igualdad de oportunidades, paridad entre hombres y mujeres, así como el derecho de las juventudes y de las personas de la diversidad sexual para acceder a cargos de elección popular.
 
 V. Participar como observadores en todas las etapas de los procesos electorales locales.
 
@@ -7206,3 +7236,19 @@ P.O. 17 DE SEPTIEMBRE DE 2025.
 Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 271 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- El Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas deberá emitir, previo al proceso electoral ordinario de 2027, los lineamientos de carácter general para la regulación de las acciones afirmativas para el acceso a candidaturas a cargos de elección popular, considerando, al menos, los siguientes criterios:
+
+a) Las reglas para definir la autopercepción de la comunidad LGBTIQ+ y los requisitos establecidos en el presente Decreto para la presentación de candidaturas;
+
+b) La distribución de candidaturas por los principios de mayoría relativa y de representación proporcional para la población miembro de la comunidad LGBTIQ+;
+
+c) Los criterios para que los partidos políticos garanticen la inclusión de candidaturas de la comunidad de la diversidad sexual, ya sea por el principio de representación proporcional o de mayoría relativa, en el ámbito de las diputaciones locales.
