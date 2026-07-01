@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2025-11-12"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -1041,9 +1041,9 @@ Las Comisiones Ordinarias serán las siguientes:
 
 18. Atención a Grupos Vulnerables y Personas con Discapacidad.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
-19. Fortalecimiento Municipal, Desarrollo Regional, Pueblos y Comunidades Indígenas y Afromexicanas;
+19. Fortalecimiento Municipal y Desarrollo Regional;
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
@@ -1073,13 +1073,17 @@ Las Comisiones Ordinarias serán las siguientes:
 
 26. Desarrollo y Conflictos Agrarios;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
-27. Ética Legislativa, y
+27. Ética Legislativa;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
-28. Atención a las Personas Migrantes.
+28. Atención a las Personas Migrantes, y
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+29. Pueblos y Comunidades Indígenas y Afromexicanas.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2013)</small>
 
@@ -1523,39 +1527,29 @@ XI. Realizar mesas de trabajo, estudios y foros que mejoren la inserción social
 
 XII. Todos aquellos asuntos en la materia que le sean turnados y no sean competencia de otra comisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### Artículo 79.
 
-A la Comisión de Fortalecimiento Municipal, Desarrollo Regional, Pueblos y Comunidades Indígenas y Afromexicanas le corresponde conocer y dictaminar los siguientes asuntos:
+Corresponden a la Comisión de Fortalecimiento Municipal y Desarrollo Regional:
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+I. Conocer y dictaminar sobre los asuntos de carácter municipal y desarrollo regional;
 
-I. Conocer y dictaminar sobre los asuntos de carácter municipal, regional y los relativos a preservar y proteger todos los elementos que integran la cultura de los pueblos y comunidades indígenas y afromexicanas;
+II. Las reformas, adiciones o derogaciones a la Ley Orgánica Municipal para el Estado de Morelos;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+III. Promover la corresponsabilidad entre el gobierno municipal y la sociedad para el logro de los objetivos municipales;
 
-II. Promover la corresponsabilidad entre el gobierno municipal, la sociedad, los pueblos y comunidades indígenas y afromexicanas para el logro de los objetivos municipales;
+IV. Contribuir a una mayor participación municipal en los programas de desarrollo municipal y regional;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+V. Organizar foros de participación ciudadana para la creación de programas y acciones que garanticen el desarrollo municipal y regional;
 
-III. Organizar foros de participación ciudadana para conocer el punto de vista de la sociedad de las comunidades indígenas y afromexicanas para contribuir a una mayor participación de estas dentro del desarrollo municipal en los programas de desarrollo regional;
+VI. Contribuir al fortalecimiento y autonomía municipal;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
+VII. Promover la coordinación y colaboración entre los ayuntamientos y los gobiernos estatal y federal, así como con otras instancias de gobierno y de la sociedad para elaborar y ejecutar planes, programas, obras y servicios de interés regional;
 
-IV. Contribuir al fortalecimiento y autonomía municipal;
+VIII. La creación, desaparición o fusión de municipios, se dictaminará en conjunto con la Comisión de Gobernación y Gran Jurado, en términos de la legislación aplicable; y
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
-
-V. Promover la coordinación y colaboración entre las comunidades indígenas y afromexicanas, los ayuntamientos y entre éstos y los gobiernos estatal y federal, así como con otras instancias de gobierno y de la sociedad, para elaborar y ejecutar planes, programas, obras y servicios de interés regional;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
-
-VI. Dictaminar, en unión con la Comisión de Gobernación, Gran Jurado y Ética Legislativa, los relativos a la creación, desaparición o fusión de municipios a que se refiere el Título Décimo Primero de esta Ley; y
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
-
-VII. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra Comisión.
+IX. Conocer los demás asuntos que le sean turnados y que no sean competencia de otra comisión.
 
 ###### Artículo 79 Bis.
 
@@ -1814,6 +1808,26 @@ V. Presentar y dictaminar iniciativas relativas a la Ética Legislativa;
 VI. Los demás que señale el Código de Ética del Congreso del Estado de Morelos, y
 
 VII. Las demás que el pleno del Congreso del Estado le confiera.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+###### Artículo 83 Decies.
+
+Corresponden a la Comisión de Pueblos y Comunidades Indígenas y Afromexicanas:
+
+I. Conocer y dictaminar sobre los asuntos relativos a pueblos y comunidades indígenas y afromexicanas;
+
+II. Presentar propuestas legislativas que, atendiendo a los principios de interculturalidad y pluralismo jurídico y de conformidad con el marco jurídico vigente, garanticen y fortalezcan el ejercicio de los derechos de pueblos y comunidades indígenas y afromexicanas;
+
+III. La creación, desaparición o fusión de municipios indígenas, se dictaminará en conjunto con las comisiones de Gobernación y Gran Jurado y de Fortalecimiento Municipal y Desarrollo Regional;
+
+IV. Coadyuvar en la conformación y actualización del Catálogo de Comunidades Indígenas y Afromexicanas del Estado de Morelos;
+
+V. Coordinar en conjunto con los órganos e instituciones correspondientes de los diferentes órdenes y niveles de gobierno los procesos de consulta previa, libre, informada, culturalmente adecuada y de buena fe sobre las medidas que puedan causar afectaciones o impactos significativos sobre los pueblos y comunidades indígenas y afromexicanas;
+
+VI. Fomentar la cooperación interinstitucional con organismos públicos, organizaciones civiles y especialistas en la materia; y
+
+VII. Conocer los demás asuntos que le sean turnados y que no sean competencia de otra comisión.
 
 ### CAPÍTULO IV. DE LOS COMITÉS DEL CONGRESO DEL ESTADO
 
@@ -3926,3 +3940,21 @@ PRIMERA. El presente decreto entrará en vigor al momento de su aprobación por 
 SEGUNDA. Remítase el presente decreto a la Titular del Poder Ejecutivo para su publicación respectiva en el Periódico Oficial “Tierra y Libertad” órgano de difusión oficial del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO CINCUENTA Y NUEVE.- POR EL QUE SE REFORMAN LOS NUMERALES 19, 27, 28 Y SE ADICIONA EL NUMERAL 29 TODOS AL ARTÍCULO 59; SE REFORMA EL ARTÍCULO 79; Y SE ADICIONA EL ARTÍCULO 83 DECIES TODOS DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA.– Remítase el presente decreto a la persona titular del Poder Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDA.– El presente decreto entró en vigor el mismo día de su aprobación por el Pleno del Congreso del Estado de Morelos, de conformidad con lo dispuesto por los artículos 38, segundo párrafo de la Constitución Política del Estado Libre y Soberano de Morelos, y 4 de la Ley Orgánica para el Congreso del Estado de Morelos.
+
+TERCERA.– La integración de la otrora Comisión de Fortalecimiento Municipal, Desarrollo Regional, Pueblos y Comunidades Indígenas y Afromexicanas, se entenderá ahora a la Comisión de Fortalecimiento Municipal y Desarrollo Regional, conservando su organización y presidencia actual.
+
+CUARTA.– La persona que a la entrada en vigor del presente decreto presida la Comisión de Fortalecimiento Municipal, Desarrollo Regional, Pueblos y Comunidades Indígenas y Afromexicanas, asumirá la presidencia de la nueva Comisión de Pueblos y Comunidades Indígenas y Afromexicanas, a fin de dar continuidad a los trabajos especializados en la materia.
+
+QUINTA.– La Junta Política y de Gobierno deberá presentar al Pleno el acuerdo parlamentario para la integración total de la Comisión de Pueblos y Comunidades Indígenas y Afromexicanas, en un plazo no mayor a veinte días contados a partir de la entrada en vigor del presente decreto.
+
+SEXTA.– La Mesa Directiva, en un plazo de veinte días posteriores a la instalación de la nueva Comisión, deberá realizar el turno de los asuntos, expedientes y archivos que por su naturaleza competan a la Comisión de Pueblos y Comunidades Indígenas y Afromexicanas y que se encuentren en trámite en otras comisiones.
+
+SÉPTIMA.– Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
