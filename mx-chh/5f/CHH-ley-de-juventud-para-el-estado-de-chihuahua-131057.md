@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-juventud-para-el-estado-de-chihuahua-131057"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-20"
-last_updated: "2026-05-27"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en el Anexo al Periódico Oficial, del Estado de Chihuahua, el sábado 20 de octubre de 2018.
 
@@ -200,6 +200,28 @@ El Ejecutivo y los Ayuntamientos promoverán un sistema de información que les 
 Gestionarán, ante las estaciones radiofónicas y televisivas de la Entidad, para que se cuente con barras programáticas con el objeto de fomentar los conocimientos necesarios para el desarrollo integral, educativo y cultural de la juventud.
 
 Se incluirá en la política estatal en la materia, el acceso a las tecnologías de la información y la comunicación.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+###### Artículo 25 Bis.
+
+El Ejecutivo del Estado, por conducto del Instituto Chihuahuense de la Juventud, garantizará mecanismos accesibles, actualizados y de fácil consulta para la difusión de programas, servicios, apoyos y acciones institucionales dirigidos a las juventudes del Estado.
+
+Dichos mecanismos deberán orientarse bajo los siguientes principios:
+
+I. Accesibilidad y disponibilidad de información.
+
+II. Máxima publicidad.
+
+III. Coordinación interinstitucional.
+
+IV. Pertinencia y enfoque diferencial para las juventudes.
+
+V. Actualización permanente.
+
+VI. Uso eficiente de los recursos públicos y herramientas tecnológicas disponibles.
+
+El Instituto Chihuahuense de la Juventud promoverá la colaboración entre dependencias y entidades de la administración pública estatal, para facilitar la integración y difusión de la información referida, en los términos que establezcan las disposiciones administrativas aplicables.
 
 ### Capítulo X. DERECHO A UN TRABAJO DIGNO
 
@@ -1068,3 +1090,15 @@ P.O. 27 DE MAYO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.p
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFLEY/0514/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 25 BIS A LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado deberá implementar y adecuar los mecanismos necesarios para el cumplimiento del presente Decreto, en un plazo no mayor a los 120 días naturales contados a partir del día siguiente de su entrada en vigor.
