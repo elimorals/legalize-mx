@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-inclusion-y-desarrollo-de-las-personas-con-125840"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-24"
-last_updated: "2024-09-04"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en el Folleto Anexo al Número 7 del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2018.
 
@@ -417,11 +417,17 @@ XI. Promover el uso de mecanismos de comunicación alternativa y lengua de seña
 
 XII. Promover programas de capacitación permanente a docentes en materia de educación inclusiva.
 
-XIII. Las demás que se determinen necesarias para el cumplimiento de la presente Ley.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XIII. Implementar programas y campañas de sensibilización entre los estudiantes, para garantizar una cultura inclusiva.
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 XIV. Implementar el Programa Bilingüe Bicultural, para garantizar la inclusión de las personas con condición de sordera.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XV. Las demás que se determinen necesarias para el cumplimiento de le presente Ley.
 
 ###### Artículo 20.
 
@@ -1106,3 +1112,15 @@ P.O. 4 DE SEPTIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFLEY/0513/2026 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 19, FRACCIÓN XIII; Y SE LE ADICIONA LA FRACCIÓN XV, DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Anualmente se incorporarán en el Presupuesto de Egresos correspondiente, las asignaciones para cumplir con la obligación establecida en el presente Decreto.
