@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-planeacion-9023"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "2019-05-01"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "TAB"
 
 LEY DE PLANEACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 13 de julio de 1983.
 
@@ -96,9 +96,9 @@ V.- El fortalecimiento del pacto federal y del municipio libre, para lograr un d
 
 VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo, en un marco de estabilidad económica y social; y
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-VII.- La perspectiva de género, para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
+VII.- La perspectiva de género, para garantizar la igualdad sustantiva entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
@@ -112,17 +112,19 @@ I. Consejo Estatal de Evaluación: Órgano colegiado responsable de administrar 
 
 II. COPLADET: Comité de Planeación para el Desarrollo del Estado de Tabasco;
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-II Bis. Coordinación General: Coordinación General de Vinculación con el Comité de Planeación para el Desarrollo del Estado de Tabasco;
+II Bis. Coordinación General de COPLADET: Figura que forma parte de la estructura del COPLADET, la cual recae en la persona titular de la Secretaría de Administración y Finanzas;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2026)</small>
+
+II Ter. Coordinación General de Vinculación con el COPLADET: Unidad administrativa de la Secretaría de Administración y Finanzas, encargada de la gestión y ejecución de las actividades y atribuciones del COPLADET, en el marco del Sistema Estatal de Planeación Democrática;
 
 III. Ente Público: Los poderes Ejecutivo, Legislativo y Judicial del Estado; los órganos autónomos del Estado; los Ayuntamientos de los Municipios del Estado; las entidades de la Administración Pública Paraestatal ya sean estatales o municipales.
 
 IV. Estructura Programática: Conjunto de categorías y elementos programáticos ordenados en forma coherente que definen, ordenan y clasifican las acciones a realizar por los ejecutores del gasto público estatal y municipal, para alcanzar los objetivos y metas de acuerdo con las políticas definidas en el Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo; delimitando la aplicación del gasto y permitiendo conocer el rendimiento esperado de la utilización de los recursos públicos;
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2019)</small>
-
-IV Bis. Función Pública: Secretaría de la Función Pública;
+IV. Bis. (DEROGADA, P.O. 1 DE JULIO DE 2026)
 
 V. Gestión: Es el desempeño de los entes públicos basado en un conjunto de decisiones orientadas a coordinar y potenciar los recursos públicos, incluidos los recursos humanos y desarrollar e impulsar medios alternativos para alcanzar metas individuales y colectivas;
 
@@ -134,27 +136,41 @@ VIII. Indicadores Estratégicos: Miden el grado de cumplimiento de los objetivos
 
 IX. Indicadores de Gestión: Miden el avance y logro de los procesos y actividades que realizan los Entes Públicos, es decir, la forma en que los bienes y/o servicios públicos son generados y entregados a la sociedad;
 
-X. Matriz de Marco Lógico: Método de planeación estratégica que permite mostrar: a) la alineación de los programas y proyectos con los objetivos de la Planeación del Desarrollo; b) los indicadores que miden el logro de los objetivos y resultados; c) las fuentes de información para obtener y verificar los indicadores; y d) los riesgos y contingencias que podrían afectar el desempeño de los programas y proyectos;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-XI. Planeación del Desarrollo: La Planeación Estratégica y Participativa que busca la ordenación racional y sistemática de las acciones que sobre la base del ejercicio de las atribuciones del Ejecutivo Estatal y de los Ayuntamientos, en materia de regulación y promoción de la actividad económica, social, política y cultural, tiene como propósito la transformación de la realidad del Estado, a través de la metodología de Marco Lógico y de Presupuesto Basado en Resultados que las normas de la materia establecen;
+X. Matriz de Indicadores para Resultados: Es una herramienta que permite vincular los distintos instrumentos para el diseño, organización, ejecución, seguimiento, evaluación y mejora de los programas presupuestarios;
 
-XII. Planeación Estratégica y Participativa: Instrumento de planeación que incluye elementos como la misión, visión, valores, objetivos y metas, además de la participación de la sociedad, que propicie el desarrollo sustentable de largo plazo; mediante el cual se asignarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones, se evaluarán resultados y se medirá el impacto de los programas públicos, a través del Sistema Estatal de Evaluación del Desempeño;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XI. Planeación del Desarrollo: Es el proceso mediante el cual el estado define las políticas públicas, por medio de la participación democrática y deliberativa, que contribuyan a mejorar las condiciones de bienestar de la población en su conjunto, en el marco de las atribuciones del Ejecutivo Estatal y de los Ayuntamientos, en materia de regulación y promoción de la actividad económica, social, política y cultural, tiene como propósito la transformación de la realidad del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XII. Planeación Democrática y Deliberativa: Proceso mediante el cual se recogen las aspiraciones y demandas de la sociedad, para incorporarlas al PLED y los programas que de él se derivan, a través de los procedimientos de participación y consulta popular, considerando a los grupos originarios;
 
 XIII. PLED: Plan Estatal de Desarrollo;
 
 XIV. Presupuesto Basado en Resultados: Metodología utilizada para la integración de los presupuestos de egresos estatal y municipales con base en una definición clara y sencilla de los objetivos, así como de los resultados proyectados y alcanzados en el ejercicio del gasto público;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-XV. Secretaría: Secretaría de Finanzas;
+XV. Secretaría: Secretaría de Administración y Finanzas;
 
 XVI. (DEROGADA, P.O. 1 DE MAYO DE 2019)
 
 XVII. (DEROGADA, P.O. 25 DE MAYO DE 2013)
 
-XVIII. Sistema Estatal de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas y proyectos, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer los resultados e impacto de la aplicación de los recursos públicos; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-XIX. Valor Público: Generación de las condiciones orientadas a que todos los miembros de la sociedad disfruten de oportunidades para una vida digna, empleo y bienestar, así como garantizar el acceso a dichas oportunidades;
+XVIII. Sistema Estatal de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas y proyectos, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer los resultados e impacto de la aplicación de los recursos públicos;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XVIII Bis. Sistema Estatal de Planeación Democrática: Se constituye por la participación y consulta popular, así como los criterios para la formulación, instrumentación, control y evaluación del plan y los programas que de él se deriven, induciendo a la participación de los Ayuntamientos y particulares, en las acciones a realizar para su ejecución. El PLED considerará la continuidad y adaptaciones necesarias de la política estatal para el desarrollo social, económico y desarrollo ambiental sostenible; y
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+XIX. Valor Público: Generación de las condiciones orientadas a que todos los miembros de la sociedad disfruten de oportunidades para una vida digna, empleo y bienestar, así como garantizar el acceso a dichas oportunidades.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
@@ -168,91 +184,115 @@ Es responsabilidad del Poder Ejecutivo del Estado conducir la Planeación del De
 
 Es responsabilidad de los Ayuntamientos conducir la Planeación del Desarrollo de los municipios con la participación de los grupos sociales, considerando los resultados de las evaluaciones que realice el Consejo Estatal de Evaluación, de conformidad con lo dispuesto en la presente Ley.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 6°.
 
-El Gobernador del Estado remitirá al Congreso Local para su aprobación y conocimiento, según corresponda, el PLED, los Programas Sectoriales y Especiales, así como los Programas Operativos Anuales que de éstos se deriven, dentro de los plazos que fijen las leyes.
+La persona titular del Poder Ejecutivo del Estado de Tabasco remitirá al Congreso Local para su aprobación el PLED y para su conocimiento, los Programas Sectoriales y Especiales, así como los Programas Operativos Anuales que de éstos se deriven, dentro de los plazos que fijen las leyes.
+
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
 
 Durante la ejecución y revisión del PLED, el Congreso podrá formular las observaciones que estime pertinentes, en ejercicio de sus atribuciones constitucionales.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 7°.
 
-Los Presidentes Municipales, una vez aprobado por el Ayuntamiento respectivo los Planes Municipales de Desarrollo, los remitirán al Congreso del Estado para su conocimiento, además de los Programas Operativos Anuales que de aquellos se deriven, dentro de los plazos que fije esta Ley.
+Los Planes Municipales de Desarrollo, una vez aprobados por el Cabildo respectivo, serán remitidos por la persona titular del Ayuntamiento ante el Congreso del Estado para su conocimiento, además de los Programas Operativos Anuales que de aquellos se deriven, dentro de los plazos que fije esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 8°.
 
-El Gobernador del Estado, al informar ante el Congreso sobre el Estado General que guarda la Administración Pública del Estado, hará mención expresa de las decisiones adoptadas para la ejecución del PLED y de los demás programas que de el se deriven.
+La persona titular del Poder Ejecutivo del Estado de Tabasco, al informar anualmente ante el Congreso sobre el estado general que guarda la Administración Pública del Estado, hará mención expresa de las decisiones adoptadas para la ejecución del PLED y de los demás programas que de él se deriven.
 
-El contenido de las cuentas anuales de la Hacienda Pública Estatal y de los Municipios deberá relacionarse, en lo conducente, con la información a que alude el párrafo anterior. Esto con el objeto de permitir a la Cámara de Diputados el Análisis de las Cuentas, de acuerdo con los fines y prioridades de la Planeación Estatal.
+El contenido de las cuentas anuales de la Hacienda Pública Estatal y de los municipios deberá relacionarse, en lo conducente, con la información a que alude el párrafo anterior. Esto con el objeto de permitir a la Cámara de Diputados el análisis de las cuentas, de acuerdo con los fines y prioridades de la planeación estatal.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 9°.
 
-El Gobernador del Estado al enviar a la Cámara de Diputados las iniciativas de Leyes de Ingresos y los proyectos de presupuestos de Egresos del Estado, informará sobre el contenido general de estos documentos y de su relación con el programa anual, que conforme a lo previsto en el artículo 34 de esta Ley, deberá elaborarse para la Ejecución del PLED.
+La persona titular del Poder Ejecutivo del Estado de Tabasco al enviar a la Cámara de Diputados las iniciativas de Leyes de Ingresos y los proyectos de presupuestos de Egresos del Estado, informará sobre el contenido general de estos documentos y de su relación con el Programa Operativo Anual, que conforme a lo previsto en el artículo 34 de esta Ley, deberá elaborarse para la ejecución del PLED.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 10.
 
-Los titulares de las dependencias de la Administración Pública Estatal, a solicitud del Congreso, darán cuenta del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en el PLED vigente, que por razón de su competencia les corresponda, así como de los resultados de las acciones previstas. También informarán sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica y social de acuerdo con dichos objetivos y prioridades.
+Las personas titulares de las dependencias de la Administración Pública Estatal, a solicitud del Congreso, darán cuenta del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en el PLED vigente, que por razón de su competencia les corresponda, así como de los resultados de las acciones previstas. También informarán sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica y social de acuerdo con dichos objetivos y prioridades.
 
 En su caso, explicarán las desviaciones ocurridas y las medidas que se adopten para corregirlas.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
-Los funcionarios a que alude el primer párrafo de este artículo y los Directores de las Entidades Paraestatales, a través de los propios titulares de las dependencias, que sean citados por el Congreso del Estado para que informen cuando se discuta una Ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiera entre el proyecto de Ley o Negocio de que se trate y de los objetivos de la Planeación Estatal, relativos a la dependencia o entidades a su cargo.
+Las personas servidoras públicas titulares de las entidades paraestatales, a través de las personas titulares de las dependencias que sean citadas por el Congreso del Estado para que informen cuando se discuta una Ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiere entre el proyecto de Ley o Negocio de que se trate y de los objetivos de la planeación estatal, relativos a la dependencia o entidades a su cargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 11.
 
-Los Entes Públicos de la Administración Pública Centralizada deberán planear y conducir sus actividades con sujeción a los objetivos y prioridades del PLED.
+Los entes públicos de la Administración Pública Centralizada deberán planear y conducir sus actividades con perspectiva intercultural, de género y de respeto a los derechos humanos, con la finalidad de impulsar la igualdad sustantiva y la inclusión de grupos en situación de vulnerabilidad, atendiendo los objetivos y prioridades del PLED, así como de los programas sectoriales, especiales, regionales e institucionales, que de él se deriven.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+Lo dispuesto en el párrafo anterior será aplicable a las Entidades de la Administración Pública Paraestatal. A este efecto, las personas titulares de las dependencias proveerán lo conducente en el ejercicio de las atribuciones que, como coordinadores de sector, les confiera la Ley.
 
-Lo dispuesto en el párrafo anterior será aplicable a las Entidades de la Administración Pública Paraestatal. A este efecto, los titulares de las dependencias proveerán lo conducente en el ejercicio de las atribuciones, que, como coordinadores de sector, les confiera la Ley.
-
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 12.
 
-Los proyectos de iniciativas de Leyes y los Reglamentos, Decretos y Acuerdos que formule el Ejecutivo Estatal, señalaran las relaciones que, en su caso, existan entre el proyecto de que se trate y el PLED y los programas respectivos.
+Los proyectos de iniciativas de Leyes y los Reglamentos, Decretos y Acuerdos que formule el Ejecutivo Estatal, señalarán las relaciones que, en su caso, existan entre el proyecto de que se trate y el PLED y los programas que de él se deriven.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 13.
 
-En caso de duda sobre la interpretación de las disposiciones de esta Ley se estará a lo que resuelva el Ejecutivo Estatal, por conducto de la Coordinación General.
+En caso de duda sobre la interpretación de las disposiciones de esta Ley se estará a lo que resuelva el Ejecutivo Estatal, por conducto de la Secretaría.
 
 ### CAPITULO SEGUNDO
 
 SISTEMA ESTATAL DE PLANEACION DEMOCRATICA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 14.
 
-La Planeación del Desarrollo se llevará a cabo por los Entes Públicos, en los términos de esta Ley, en congruencia con lo establecido en las leyes federales de la materia.
+La Planeación del Desarrollo se llevará a cabo por los entes públicos preferentemente, a través de las unidades de planeación, en los términos de esta Ley, en congruencia con lo establecido en las leyes federales en la materia.
 
 Las dependencias y entidades de la administración pública estatal y los Municipios, formarán parte del sistema a través de las unidades administrativas que tengan asignadas las funciones de planeación dentro de las propias dependencias.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 15.
 
-Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento de la Planeación Estratégica y Participativa y el proceso de planeación a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, control y evaluación de los planes y programas a que se refiere esta Ley.
+Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento de la Planeación Democrática y Deliberativa y el proceso de planeación a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, control y evaluación de los planes y programas a que se refiere esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+ARTICULO 15 BIS.- El COPLADET es el rector de la planeación de la Administración Pública del Estado, encargado de promover y coadyuvar en la formulación, actualización, instrumentación y evaluación del PLED, buscando compatibilizar, a nivel local, los esfuerzos que realicen los Gobiernos Federal, Estatal y Municipales, tanto en el proceso de planeación, programación, presupuestación, ejecución, seguimiento y evaluación, de obras y la prestación de servicios públicos, propiciando la colaboración de los diversos sectores de la sociedad, así como la coordinación de las políticas públicas para el desarrollo del estado entre los órdenes de gobierno y la sociedad.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+ARTICULO 15 TER.- El COPLADET, para el adecuado cumplimiento de sus atribuciones, se integrará de la siguiente manera:
+
+I. Un Presidente, que será la persona titular del Poder Ejecutivo del Estado;
+
+II. Un Coordinador General, que será la persona titular de la Secretaría;
+
+III. Un Secretario Técnico, que será la persona titular de la Coordinación General de Vinculación con el COPLADET;
+
+IV. Las personas titulares de las dependencias, órganos y organismos públicos descentralizados de la Administración Pública Estatal;
+
+V. Las personas titulares de las representaciones de las dependencias de la Administración Pública Federal, que actúen en el Estado;
+
+VI. Los legisladores y legisladoras federales y locales, así como los Magistrados y Magistradas del Tribunal Superior de Justicia del Estado;
+
+VII. Las personas titulares de las presidencias municipales; y
+
+VIII. Las personas representantes de sindicatos, colegios de profesionistas y organizaciones empresariales mayoritarias en el Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 16.
 
-La Coordinación General con el apoyo de los entes públicos de la Administración Pública Federal, Estatal y Municipal, integradas en el COPLADET, tendrá las siguientes atribuciones:
+La Secretaría, con la participación de los entes públicos de la Administración Pública Federal, Estatal y Municipal, integradas en el COPLADET, tendrá las siguientes atribuciones:
 
 I.- Coordinar las actividades de la Planeación Estatal del Desarrollo;
 
@@ -260,21 +300,23 @@ I.- Coordinar las actividades de la Planeación Estatal del Desarrollo;
 
 II.- Integrar el PLED en congruencia con el Plan Nacional de Desarrollo y los Planes Municipales, tomando en cuenta las propuestas de las dependencias de la Administración Pública Estatal, de los Gobiernos Municipales, así como los planeamientos (sic) que se formulen por los grupos sociales interesados;
 
-III.- Asesorar, proyectar y coordinar la Planeación Municipal, con la participación que corresponda a los Gobiernos Municipales, y elaborar los programas regionales y especiales que le señale el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+III.- Asesorar, proyectar y coordinar la Planeación Municipal, con la participación que corresponda a los Gobiernos Municipales, y elaborar los programas regionales y especiales que le señale la persona titular del Poder Ejecutivo del Estado de Tabasco;
 
-IV.- Asegurar que los planes y programas que se generen en la Planeación del Desarrollo mantengan congruencia en su elaboración, a través de la utilización de los modelos de Planeación Estratégica y Participativa, los principios de Gestión para Resultados y la aplicación de la Matriz de Marco Lógico;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+IV.- Asegurar que los planes y programas que se generen en la Planeación del Desarrollo mantengan congruencia en su elaboración, a través de la utilización de los modelos de Planeación Democrática y Deliberativa, con los principios de Gestión para Resultados y la aplicación de la Matriz de Indicadores para Resultados;
 
 V.- Coordinar las actividades, que en materia de investigación y capacitación para la planeación, realicen las dependencias de la administración pública estatal;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-VI.- Integrar los programas anuales globales para la ejecución del PLED y de los programas sectoriales y especiales, tomando en cuenta las propuestas que para el efecto realicen los Entes Públicos;
+VI. Integrar los programas operativos anuales globales para la ejecución del PLED y de los programas sectoriales, especiales, regionales e institucionales, tomando en cuenta las propuestas que para el efecto realicen los entes públicos;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-VII.- Participar en la verificación de la relación que guardan los programas y presupuestos de los Entes Públicos, así como los resultados de su ejecución, con los objetivos y prioridades del PLED y los programas a que se refiere esta Ley; mediante la utilización de Matriz de Marco Lógico, a fin de que se adopten las medidas necesarias que corrijan las desviaciones detectadas y retomar, en su caso, el plan y los programas respectivos;
+VII. Participar en la verificación de la relación que guardan los programas y presupuestos de los entes públicos, así como los resultados de su ejecución, con los objetivos y prioridades del PLED y los programas a que se refiere esta Ley; mediante la utilización de Matriz de Indicadores para Resultados, a fin de que se adopten las medidas necesarias que corrijan las desviaciones detectadas y retomar, en su caso, el plan y los programas respectivos;
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 2019)</small>
 
@@ -314,29 +356,37 @@ VI. Adecuar y diseñar un sistema de contabilidad, congruente con los objetivos 
 
 ARTICULO 16 TER.- El Consejo Estatal de Evaluación es un órgano colegiado responsable de administrar el Sistema Estatal de Evaluación del Desempeño, el cual está integrado por:
 
-I. Presidente: El titular de la Coordinación General Ejecutiva de la Gubernatura;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+I. Presidente: La persona titular de la Secretaría;
 
 II. Vocales:
 
-a) El titular de la Secretaría de Administración e Innovación Gubernamental;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
-b) El titular de la Secretaría;
+a) La persona titular de la Secretaría Anticorrupción y Buen Gobierno; y
 
-c) El titular de la Coordinación General;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
-d) El titular de la Coordinación General de Asuntos Jurídicos; y
+b) La persona titular de la Consejería Jurídica del Poder Ejecutivo del Estado.
 
-e) El titular de la Secretaría de la Función Pública.
+c) (DEROGADO, P.O. 1 DE JULIO DE 2026)
 
-El titular de la Secretaría de la Función Pública en su calidad de integrante del Consejo contará con voz, pero sin voto.
+d) (DEROGADO, P.O. 1 DE JULIO DE 2026)
 
-El Consejo Estatal de Evaluación contará con un secretario técnico, que será el titular de la Coordinación de Evaluación del Desempeño.
+e) (DEROGADO, P.O. 1 DE JULIO DE 2026)
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
+El Consejo Estatal de Evaluación contará con un Secretario Técnico que será el Titular de la Coordinación General de Vinculación con el COPLADET.
 
 Los miembros del Consejo Estatal de Evaluación podrán designar a sus respectivos suplentes, quienes deberán contar con un nivel jerárquico mínimo de director.
 
 El Consejo Estatal de Evaluación sesionará de manera ordinaria cuando menos dos veces al año; y extraordinarias las veces que sean necesarias a solicitud de cualquiera de sus miembros.
 
-Las decisiones del Consejo Estatal de Evaluación se tomarán por acuerdo de la mayoría de sus miembros, en caso de empate, el Presidente tendrá voto de calidad.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
 > <small>(ADICIONADO, P.O. 1 DE MAYO DE 2019)</small>
 
@@ -346,17 +396,25 @@ I. Administrar el Sistema Estatal de Evaluación del Desempeño;
 
 II. Coordinar la evaluación de las políticas públicas, de los programas y de desempeño de los Entes Públicos bajo los principios de independencia, imparcialidad y transparencia;
 
-III. Emitir lineamientos sobre la metodología para la construcción de Matriz de Marco Lógico e Indicadores de Desempeño;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-IV. Concertar y validar la Matriz de Marco Lógico que propongan los Entes Públicos, con excepción de los de orden municipal;
+III. Emitir lineamientos para la implementación del Sistema Estatal de Evaluación del Desempeño;
 
-V. Conocer y emitir recomendación sobre la Matriz de Marco Lógico de los Entes Públicos del orden municipal;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+IV. Concertar y validar la Matriz de Indicadores para Resultados, que propongan los entes públicos, con excepción de los de orden municipal;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+V. Conocer y emitir recomendación sobre la Matriz de Indicadores para Resultados de los entes públicos del orden municipal;
 
 VI. Establecer el calendario anual de evaluación de las políticas públicas, de los programas y de desempeño de los Entes Públicos;
 
 VII. Conocer el Programa Anual de Evaluación del Desempeño y los resultados de las evaluaciones de los municipios;
 
-VIII Capacitar a los Entes Públicos en materia de Matriz de Marco Lógico e Indicadores de Desempeño;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+VIII. Capacitar a los entes públicos en materia del Sistema Estatal de Evaluación del Desempeño;
 
 IX. Establecer el padrón de evaluadores externos del desempeño;
 
@@ -366,11 +424,11 @@ XI. Publicar los resultados de las evaluaciones; y
 
 XII. Las demás que señalen las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 17.
 
-Los lineamientos que emita el Consejo Estatal de Evaluación serán de sujeción obligatoria para los Entes Públicos y deberán observarse en la elaboración del anteproyecto de presupuesto de egresos en el ámbito de sus respectivas competencias. Para lo cual los Entes Públicos harán llegar al Consejo Estatal de Evaluación sus propuestas de Matriz de Marco Lógico a más tardar el último día hábil de julio de cada año, para posteriormente registrar sus indicadores de desempeño y metas en el Sistema Estatal de Evaluación del Desempeño.
+Los lineamientos que emita el Consejo Estatal de Evaluación serán de sujeción obligatoria para los Entes Públicos y deberán observarse en la elaboración del anteproyecto de presupuesto de egresos en el ámbito de sus respectivas competencias. Para lo cual los entes públicos harán llegar al Consejo Estatal de Evaluación sus propuestas de Matriz de Indicadores para Resultados a más tardar el último día hábil de junio de cada año, para posteriormente registrar sus indicadores de desempeño y metas en el Sistema Estatal de Evaluación del Desempeño.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
@@ -384,7 +442,9 @@ A las dependencias de la administración Pública Estatal, en particular, corres
 
 I.- Intervenir respecto de las materias que les competen; en la elaboración del PLED;
 
-II.- Coordinar el desempeño de las actividades, que en materia de planeación correspondan a las entidades Paraestatales que se agrupen en el sector que, conforme a las Leyes vigentes, determine el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
+
+II.- Coordinar el desempeño de las actividades, que en materia de planeación correspondan a las entidades paraestatales que se agrupen en el sector que, conforme a las leyes vigentes, determine la persona titular del Poder Ejecutivo del Estado de Tabasco;
 
 III.- Elaborar programas sectoriales, tomando en cuenta las propuestas que presenten las entidades del sector y los Gobiernos de los Municipios, así como las opiniones de los grupos sociales interesados;
 
@@ -418,19 +478,21 @@ V.- Asegurar la congruencia del programa institucional con el programa sectorial
 
 VI.- Verificar periódicamente la relación que guarden sus actividades así como los resultados de su ejecución con los objetivos y prioridades del programa institucional.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 20.
 
-La Función Pública deberá ejercer el control y vigilancia de los objetivos y prioridades del PLED y de los programas que de él se deriven, disponiendo las medidas necesarias para su corrección, conforme a las facultades y procedimientos que las leyes le señalan.
+La Secretaría Anticorrupción y Buen Gobierno deberá ejercer el control y vigilancia del cumplimiento de los objetivos y prioridades del PLED y de los programas que de él se deriven, disponiendo las medidas necesarias para su corrección, conforme a las facultades y procedimientos que las leyes le señalan, en el seno del subcomité correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 21.
 
-El Gobernador del Estado podrá establecer comisiones intersecretariales para la atención de las actividades de la Planeación Estatal que deben desarrollar conjuntamente varias dependencias.
+La persona titular del Poder Ejecutivo del Estado de Tabasco, podrá establecer comisiones intersecretariales para la atención de las actividades de la Planeación Estatal que deben desarrollar conjuntamente varias dependencias.
 
-Estas comisiones podrán, a su vez, contar con subcomisiones para la elaboración de programas especiales que el mismo Gobernador determine.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
+Estas comisiones podrán, a su vez, contar con subcomisiones para la elaboración de programas especiales que la persona titular del Poder Ejecutivo del Estado de Tabasco determine.
 
 Las Entidades de la Administración Pública Paraestatal podrán integrarse a dichas comisiones y subcomisiones, cuando se trate de asuntos relacionados con su objeto.
 
@@ -448,11 +510,13 @@ PARTICIPACION SOCIAL EN LA PLANEACION.
 
 Dentro de la Planeación del Desarrollo se buscará preferentemente la participación de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización y ejecución del PLED, de los Planes Municipales y de los programas a que se refiere esta Ley.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 23.
 
-Las organizaciones representativas de los obreros, campesinos y grupos populares; de las instituciones académicas, profesionales y de investigación; de los organismos empresariales; y de otras agrupaciones sociales, participarán como órganos de consulta permanente en la Planeación del Desarrollo, relacionados con su actividad, a través de foros de consulta popular que al efecto se convoquen. Asimismo, participarán en los mismos foros los Diputados del Congreso Local.
+Las organizaciones representativas de las personas obreras, campesinas y grupos populares; de las instituciones académicas, profesionales y de investigación; de los organismos empresariales; y de otras agrupaciones sociales, participarán corno órganos de consulta permanente en la Planeación del Desarrollo, relacionados con su actividad, a través de foros de consulta popular que al efecto se convoquen. Asimismo, participarán en los mismos foros las Diputadas y Diputados del Congreso Local.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 Para tal efecto, y conforme a la Legislación aplicable, deberán preverse la organización y funcionamiento, las formalidades, periodicidad y términos a que deberá sujetarse la participación y consulta para la Planeación Estatal de Desarrollo.
 
@@ -460,29 +524,29 @@ Para tal efecto, y conforme a la Legislación aplicable, deberán preverse la or
 
 PLANES Y PROGRAMAS.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 24.
 
-El Gobernador del Estado enviará al Congreso del Estado el PLED en un plazo de seis meses contados a partir de la fecha en que tome posesión. Su vigencia no excederá del período Constitucional que le corresponda; sin embargo, podrá contener consideraciones y proyecciones de hasta 25 años para los programas plurianuales que requieran ese tiempo para su consolidación.
+La persona titular del Poder Ejecutivo del Estado de Tabasco enviará al Congreso del Estado el PLED en un plazo de siete meses contados a partir de la fecha de inicio del periodo constitucional correspondiente. Su vigencia no excederá del período de 6 años; sin embargo, podrá contener consideraciones y proyecciones de hasta 25 años para los programas plurianuales que requieran ese tiempo para su consolidación.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
-El Congreso del Estado aprobará el PLED dentro del plazo de cuarenta y cinco días contados a partir de su recepción. En caso de que no se pronuncie en dicho plazo, el PLED se entenderá aprobado en los términos presentados por el Gobernador.
+El Congreso del Estado aprobará el PLED dentro del plazo de cuarenta y cinco días contados a partir de su recepción. En caso de que no se pronuncie en dicho plazo, el PLED se entenderá aprobado en los términos presentados por la persona titular del Poder Ejecutivo del Estado de Tabasco.
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
 
 En el marco del Sistema Nacional de Planeación Democrática, el PLED deberá guardar congruencia y permitir la adecuada coordinación con el Plan Nacional de Desarrollo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 25.
 
-Cada Presidente Municipal electo en los comicios generales en que se elija Gobernador del Estado, elaborará el Plan Municipal de Desarrollo en un plazo no mayor de ocho meses contado a partir de su toma de posesión y lo someterá a la aprobación del respectivo Cabildo, quien lo aprobará, en su caso, dentro de los quince días posteriores a su entrega.
+Cada persona titular de la Presidencia Municipal que resulte electa en los comicios generales en que se elija a la persona titular del Poder Ejecutivo del Estado de Tabasco, elaborará el Plan Municipal de Desarrollo en un plazo no mayor de ocho meses contado a partir de su toma de posesión y lo someterá a la aprobación del respectivo Cabildo, quien lo aprobará, en su caso, dentro de los quince días posteriores a su entrega.
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
-Los Presidentes Municipales que resulten electos en comicios intermedios elaborarán el Plan Municipal de Desarrollo y lo someterán a la aprobación de su respectivo Cabildo en un plazo no mayor de cinco meses contados a partir de su toma de posesión. El Cabildo aprobará el Plan Municipal de Desarrollo en un plazo no mayor de treinta días a partir de su presentación.
+Las personas titulares de las presidencias municipales que resulten electas en comicios intermedios elaborarán el Plan Municipal de Desarrollo y lo someterán a la aprobación de su respectivo Cabildo en un plazo no mayor de seis meses contados a partir del inicio del periodo constitucional correspondiente. El Cabildo aprobará el Plan Municipal de Desarrollo en un plazo no mayor de treinta días a partir de su presentación.
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2018)</small>
 
@@ -550,21 +614,27 @@ Los Entes Públicos encargados de la ejecución del PLED, y de los programas de 
 
 Los planes y programas a que se refieren los artículos anteriores, especificarán las acciones que serán objeto de coordinación entre los gobernantes de los municipios, del Estado y de la Federación, así como de inducción o concertación con los grupos sociales interesados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 36.
 
-El PLED y los programas sectoriales y especiales deberán ser presentados por la Coordinación General en el seno del COPLADET y sometidos a la consideración y aprobación del Gobernador del Estado.
+El PLED y los programas sectoriales y especiales deberán ser presentados por la Secretaría en el seno del COPLADET y sometidos a la consideración y aprobación de la persona titular del Poder Ejecutivo del Estado de Tabasco.
 
-Los programas institucionales deberan ser sometidos por el organo de Gobierno y Administración de la entidad paraestatal o paramunicipal respectiva, a la aprobación del titular de la dependencia coordinadora del sector, en el primer caso, y al ayuntamiento en el segundo.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+Los programas institucionales deberán ser sometidos por el órgano de Gobierno y Administración de la entidad paraestatal o paramunicipal respectiva, a la aprobación de la persona titular de la dependencia coordinadora del sector, en el primer caso, y al Ayuntamiento en el segundo.
 
-Si la entidad paraestatal no estuviera agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la Coordinación General.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+Si la entidad paraestatal no estuviera agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la Secretaría.
 
-Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado, en el seno del COPLADET a que alude el artículo 16 de esta Ley, por el Ente Público coordinador del sector correspondiente.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
+
+Los programas sectoriales deberán ser sometidos a la consideración y aprobación de la persona titular del Poder Ejecutivo del Estado de Tabasco, en el seno del COPLADET a que alude el artículo 16 de esta Ley, por el Ente Público coordinador del sector correspondiente.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+Una vez aprobados los programas sectoriales, especiales, regionales e institucionales, deberán ser publicados en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
 
@@ -578,15 +648,13 @@ Los Programas Operativos Anuales del Poder Ejecutivo y demás Programas que de e
 
 Los Programas Operativos Anuales Municipales y demás programas que de ellos se deriven, una vez aprobados por los Ayuntamientos, serán publicados en el Periódico Oficial del Estado y difundidos en sus respectivas demarcaciones territoriales, por los medios de comunicación impresos que se consideren idóneos, dentro de los primeros noventa días de cada ejercicio fiscal anual, asimismo, se publicarán de manera trimestral las adecuaciones y ajustes de dichos programas, para hacerlos del conocimiento general de la población.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 39.
 
-El PLED y los programas que de él se deriven serán revisados al concluirse el tercer año de administración del Poder Ejecutivo. Los resultados de las revisiones y en su caso, las adecuaciones consecuentes al PLED y a los programas que de él se deriven, previa su aprobación por parte del Titular del Ejecutivo, se publicarán en el Periódico Oficial del Estado.
+El PLED y los programas que de él se deriven, serán revisados anualmente respecto de sus avances y cumplimiento de los objetivos, estrategias y líneas de acción; sus resultados deberán ser publicados en el portal del Gobierno del Estado de Tabasco y al concluirse el tercer año de administración del Poder Ejecutivo, los resultados de las revisiones y en su caso, las adecuaciones consecuentes al PLED y a los programas que de él se deriven, previa su aprobación por parte de la persona titular del Poder Ejecutivo de Tabasco, se publicarán en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
-
-Los resultados de las revisiones y en su caso las adecuaciones consecuentes a los planes municipales y a los programas que de ellos se deriven, se publicarán en los municipios y en el Periódico Oficial del Estado
+Los planes municipales y los programas que de ellos se deriven, deberán ser revisados respecto de sus avances y cumplimiento de objetivos, estrategias y líneas de acción de forma anual y, en su caso, las adecuaciones consecuentes, previa aprobación de la persona titular de la presidencia municipal, se publicarán en el portal del ayuntamiento y en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
 
@@ -600,17 +668,17 @@ Una vez aprobados por la autoridad correspondiente el PLED y los Programas que d
 
 Conforme a las disposiciones legales que resulten aplicables, la obligatoriedad del PLED y de los programas que de él se deriven, será extensiva a las entidades paraestatales. Para estos efectos, los titulares de las dependencias en el ejercicio de las atribuciones de coordinadores de sector que les confiera la Ley, proveerán lo conducente ante los órganos de gobierno y administración de las propias entidades.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 42.
 
-La ejecución del PLED y los programas podrán concertarse, conforme a esta Ley, con las representaciones de los grupos sociales interesados o con los particulares.
+La ejecución del PLED y los programas podrán concertarse, conforme a esta Ley, con las representaciones de los grupos sociales interesados o con los particulares, promoviendo la participación equilibrada de mujeres y hombres.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 43.
 
-Mediante el ejercicio de las atribuciones que le confiere la Ley, el titular del Poder Ejecutivo inducirá las acciones de los particulares y en general del conjunto de la población, a fin de propiciar la consecución de los objetivos y prioridades del PLED y de los programas que de él se deriven.
+Mediante el ejercicio de las atribuciones que le confiere la Ley, la persona titular del Poder Ejecutivo del Estado de Tabasco inducirá las acciones de los particulares y en general del conjunto de la población, a fin de propiciar la consecución de los objetivos y prioridades del PLED y de los programas que de él se deriven.
 
 ###### ARTICULO 44.
 
@@ -624,11 +692,11 @@ La ejecución de los planes municipales y de los programas que de ellos se deriv
 
 Mediante el ejercicio de las atribuciones que les confieren la Ley, los Ayuntamientos inducirán las acciones de los particulares y, en general, del conjunto de la población, a fin de propiciar la consecución de los objetivos y prioridades de los planes y de los programas.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 47.
 
-La coordinación en la ejecución del plan nacional, del PLED, de los planes municipales y de los programas que de ellos se deriven deberá proponerse por el ejecutivo estatal a los Gobiernos Federal y Municipal, a través de convenios de desarrollo.
+La coordinación en la ejecución del Plan Nacional de Desarrollo, del PLED, de los planes municipales y de los programas que de ellos se deriven deberán proponerse por la persona titular del Poder Ejecutivo del Estado de Tabasco a los Gobiernos Federal y Municipal, a través de convenios de desarrollo.
 
 ### CAPITULO QUINTO
 
@@ -638,11 +706,11 @@ COORDINACION.
 
 El ejecutivo estatal podrá convenir con los gobiernos de la federación y de los municipios, satisfaciendo las formalidades que en cada caso procedan, la coordinación que se requiera, a efecto de que dichos gobiernos participen en la planeación estatal del desarrollo y coadyuven, en el ambito de sus respectivas jurisdicciones, a la consecución de los objetivos de la planeación general; para que los planes nacionales, estatales y municipales tengan congruencia entre sí y para que los programas operativos de los diferentes ámbitos de Gobierno guardan la debida coordinación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 49.
 
-Para los efectos del artículo anterior, el titular del Poder Ejecutivo podrá convenir con los gobiernos de la federación y de los municipios:
+Para los efectos del artículo anterior, la persona titular del Poder Ejecutivo del Estado de Tabasco podrá convenir con los gobiernos de la federación y de los municipios:
 
 I.- Su participación en la planeación estatal a través de la presentación de las propuestas que estimen pertinentes;
 
@@ -658,29 +726,29 @@ VI.- La ejecución de las acciones que deban realizarse en cada entidad municipa
 
 VII.- La ejecución de las acciones que deban realizarse en cada entidad municipal y que competen a los ordenes federal, estatal y municipal, considerando la participación que corresponda a los municipios interesados y a los sectores de la sociedad.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
-Para este efecto, la Coordinación General en el seno del COPLADET, propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen los entes públicos coordinadores de sector, tanto federales como estatales, conforme a sus atribuciones.
+Para este efecto, la Secretaría en el seno del COPLADET, propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector, tanto federales como estatales, conforme a sus atribuciones.
 
 ###### ARTICULO 50.
 
 En la celebración de los convenios a que se refiere este capítulo, el ejecutivo estatal definirá la participación de los órganos de la Administración Pública centralizada y organismos paraestatales que actuen en la entidad, en las actividades de planeación que realicen los respectivos gobiernos de los municipios.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 51.
 
-El titular del Poder Ejecutivo ordenará la publicación, en el Periódico Oficial del Estado, de los convenios que se suscriban con los ayuntamientos, los gobiernos de las entidades federativas o con la Federación, que requieran aprobación del Congreso del Estado.
+La persona titular del Poder Ejecutivo del Estado de Tabasco ordenará la publicación, en el Periódico Oficial del Estado, de los convenios que se suscriban con los Ayuntamientos, los gobiernos de las entidades federativas o con la Federación que requieran aprobación del Congreso del Estado.
 
 ### CAPITULO SEXTO
 
 CONCERTACION E INDUCCION.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 52.
 
-El titular del Poder Ejecutivo del Estado, por sí o a través de sus dependencias integradas en el COPLADET, podrá concertar la realización de las acciones previstas en el PLED y los Programas, con las representaciones de los grupos sociales o con los particulares interesados.
+La persona titular del Poder Ejecutivo del Estado de Tabasco, por sí o a través de sus dependencias integradas en el COPLADET, podrá concertar la realización de las acciones previstas en el PLED y los programas que de él se deriven, con las representaciones de los grupos sociales o con los particulares interesados.
 
 ###### ARTICULO 53.
 
@@ -706,23 +774,21 @@ El propio Ejecutivo del Estado y las entidades paraestatales observan dichos obj
 
 Los ayuntamientos y las entidades paramunicipales observarán asimismo dichos objetivos y prioridades en la concertación de acciones previstas en los planes municipales y en los Programas que de ellos se derivan, con las representaciones de los grupos sociales o con los particulares interesados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2026)</small>
 
-ARTICULO 56 BIS.- Los anteproyectos de presupuestos de egresos de los Entes Públicos, en el ámbito de su competencia, deberán sujetarse a los criterios de política financiera que emita la Secretaría, así como a la estructura programática aprobada por la Coordinación General y demás autoridades competentes, la cual deberá contener como mínimo:
+ARTICULO 56 BIS. - Los anteproyectos de presupuestos de egresos de los entes públicos en el ámbito de su competencia, deberán sujetarse a los criterios de política financiera que emita la Secretaría, así como a la estructura programática aprobada por la Coordinación General de Vinculación con el COPLADET y demás autoridades competentes, la cual deberá contener como mínimo:
 
 > <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 I.- Las categorías, que comprenderán la función, subfunción y programa; y
 
-> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
-II.- Los elementos, que comprenderán la misión, visión, objetivos, metas con base en indicadores de desempeño y unidad responsable, en congruencia con el PLED, los programas sectoriales, especiales y operativos anuales que de éste se deriven.
+II.- Los elementos, que comprenderán la misión, visión, objetivos, metas con base en indicadores de desempeño y unidad responsable, en congruencia con el PLED, los programas sectoriales, especiales, regionales, institucionales y operativos anuales que de éste se deriven.
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
 
 La estructura programática deberá ser sencilla y facilitar tanto el análisis del Presupuesto de Egresos como la vinculación de la programación con el PLED y los programas que de él se deriven; debiendo incluirse indicadores de desempeño con sus metas anuales en los términos de las disposiciones aplicables.
-
-... (SIC)
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
 
@@ -738,31 +804,29 @@ Las políticas que normen el ejercicio de las atribuciones que las leyes confier
 
 RESPONSABILIDADES.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 59.
 
-A los servidores públicos de la Administración Pública Estatal, que en el Ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se deriven, o los objetivos y prioridades del PLED y de los programas que de él se desprendan, se les impondrán las medidas disciplinarias de apercibimiento o amonestación. Si la gravedad de la infracción lo ameritara, se procederá de conformidad con la Ley General de Responsabilidades Administrativas.
+A las personas servidoras públicas de la Administración Pública Estatal, que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se deriven, o los objetivos y prioridades del PLED y de los programas que de él se desprendan, se les impondrán las medidas disciplinarias de apercibimiento o amonestación. Si la gravedad de la infracción lo ameritara, se procederá de conformidad con la Ley General de Responsabilidades Administrativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 60.
 
-A los servidores públicos de la Administración Pública Municipal que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se derivan o los objetivos y prioridades de los planes municipales y de los programas que de ellos se desprendan, quedarán sujetos a los procedimientos y sanciones que se deriven de la Ley General de Responsabilidades Administrativas.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE OCTUBRE DE 2018)</small>
+A las personas servidoras públicas de la Administración Pública Municipal que en el ejercicio de sus funciones contravengan las disposiciones de esta Ley, las que de ella se derivan o los objetivos y prioridades de los planes municipales y de los programas que de ellos se desprendan, quedarán sujetos a los procedimientos y sanciones que se deriven de la Ley General de Responsabilidades Administrativas.
 
 ###### ARTICULO 61.
 
 Las responsabilidades a que se refiere la presente Ley son independientes de las de orden civil, penal u oficial que puedan derivarse de los mismos hechos.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 62.
 
-En los convenios de coordinación que suscriba con el Gobierno Federal y con las entidades municipales, el titular del Poder Ejecutivo del Estado propondrá la inclusión de una cláusula en que se prevean medidas que sancionen el incumplimiento del propio convenio y de los acuerdos que del mismo se deriven.
+En los convenios de coordinación que suscriba la persona titular del Poder Ejecutivo del Estado de Tabasco con el Gobierno Federal y con las entidades municipales, propondrá la inclusión de una cláusula en que se prevean medidas que sancionen el incumplimiento del propio convenio y de los acuerdos que del mismo se deriven.
 
-De las controversias que surjan con motivo de los convenios a nivel estatal, conocerá el Tribunal Superior de Justicia en los términos del artículo 61 de la Constitución Política del Estado Libre y Soberano de Tabasco; y de los convenios con la federación conocerá la Suprema Corte de Justicia de la Nación en los términos del artículo 105 de la Constitución General de la República.
+De las controversias que surjan con motivo de los convenios a nivel estatal, conocerá el Tribunal Superior de Justicia en los términos de la Constitución Política del Estado Libre y Soberano de Tabasco; y de los convenios con la federación conocerá la Suprema Corte de Justicia de la Nación en los términos del artículo 105 de la Constitución General de la República.
 
 ## TRANSITORIOS
 
@@ -875,3 +939,17 @@ Cuando en otras disposiciones se dé una denominación distinta a alguna depende
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 274 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN VII; 3, FRACCIONES II BIS, X, XI, XII, XV, XVIII Y XIX; 6, PÁRRAFO PRIMERO; 7; 8; 9; 10, PÁRRAFOS PRIMERO Y TERCERO; 11; 12; 13; 14, PÁRRAFO PRIMERO; 15; 16, PÁRRAFO PRIMERO Y LAS FRACCIONES III, IV, VI Y VII; 16 TER, PÁRRAFOS PRIMERO, FRACCIONES I, II, INCISOS A) Y B) Y TERCERO; 16 QUÁTER, FRACCIONES III, IV, V Y VIII; 17, PÁRRAFO PRIMERO; 18, FRACCIÓN II; 20; 21 PÁRRAFOS PRIMERO Y SEGUNDO; 23, PÁRRAFO PRIMERO; 24, PÁRRAFOS PRIMERO Y SEGUNDO; 25, PÁRRAFOS PRIMERO Y SEGUNDO; 36; 39; 42; 43; 47; 49, PÁRRAFOS PRIMERO Y SEGUNDO; 51; 52; 56 BIS, PÁRRAFO PRIMERO Y LA FRACCIÓN II; 59; 60; Y 62; SE ADICIONAN LAS FRACCIONES II TER Y XVIII BIS AL ARTÍCULO 3; LOS ARTÍCULOS 15 BIS Y 15 TER; UN PÁRRAFO QUINTO AL ARTÍCULO 36; Y SE DEROGAN LA FRACCIÓN IV. BIS. DEL ARTÍCULO 3; LOS INCISOS C), D) Y E) DE LA FRACCIÓN II DEL PÁRRAFO PRIMERO Y LOS PÁRRAFOS SEGUNDO Y SEXTO DEL ARTÍCULO 16 TER; TODOS DE LA LEY DE PLANEACIÓN DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. En un plazo no mayor a ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, se deberá emitir el Estatuto Orgánico del Comité de Planeación para el Desarrollo del Estado de Tabasco.
+
+CUARTO. En un plazo no mayor a ciento ochenta días naturales, deberán realizarse todas las adecuaciones normativas, para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+QUINTO. Se abroga el Acuerdo de Creación del Comité de Planeación para el Desarrollo del Estado de Tabasco (COPLADET), publicado el 19 de noviembre de 2003 al suplemento, edición 6386, del Periódico Oficial del Estado.
