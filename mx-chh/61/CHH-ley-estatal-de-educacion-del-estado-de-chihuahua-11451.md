@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2026-05-27"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -724,6 +724,14 @@ LVIII. En materia de participación social, propiciar modelos para la práctica 
 > <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
 
 LIX. Implementar programas de orientación vocacional y tutorías, con el fin de apoyar la elección académica y profesional de las y los estudiantes de educación secundaria y preparatoria o equivalente, estos programas deberán promover de manera incluyente el conocimiento de sí mismo, la exploración de intereses, la investigación de opciones profesionales y la conexión con profesionales del área, incluyendo la capacitación a las personas orientadoras, así como la realización de evaluaciones y pruebas cuyos resultados sean entregados a las y los estudiantes a fin de que puedan tomar decisiones informadas sobre su futuro.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2026)</small>
+
+LX. Promover en las y los educandos, la concientización y el aprendizaje del uso racional del agua y su defensa, cuidado y gestión sustentable en la educación que se imparte en el Estado.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2026)</small>
+
+LXI. Implementar los lineamientos correspondientes, para justificar las inasistencias de las estudiantes con endometriosis severa o dismenorrea, sin que ello represente alguna afectación posterior en su evaluación escolar.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -4948,3 +4956,21 @@ P.O. 27 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0487/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 4, UN TERCER PÁRRAFO, DE LA LEY ESTATAL DE EDUCACIÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0295/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 13, LA FRACCIÓN LX, DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFLEY/0498/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 13, LA FRACCIÓN LXI, DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación y Deporte del Gobierno del Estado, deberá expedir los lineamientos a que se refiere este Decreto, en un plazo no mayor a los 180 días naturales contados a partir del día siguiente de su entrada en vigor.
