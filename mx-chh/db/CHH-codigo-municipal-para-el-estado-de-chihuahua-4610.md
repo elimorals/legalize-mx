@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2026-06-30"
+last_updated: "2026-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1274,6 +1274,14 @@ VIII.- De Derechos de Niñas, Niños y Adolescentes.
 IX.- Además, aquellas otras que determine el Ayuntamiento, de acuerdo con las necesidades del municipio, tales como:
 
 A) De Movilidad Sustentable y Seguridad Vial.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+B) De Juventud.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2026)</small>
+
+C) De Turismo.
 
 > <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
 
@@ -6092,3 +6100,19 @@ El Instituto Estatal Electoral tendrá un plazo de noventa días para armonizar 
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFCOD/0512/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 31, FRACCIÓN IX, UN INCISO B), DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFCOD/0528/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 31, FRACCIÓN IX, UN INCISO C), DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
