@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2025-10-30"
+last_updated: "2026-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -1509,7 +1509,79 @@ El Gobernador del Estado, a través de la Secretaría, promoverá la celebració
 
 El Presidente del Consejo para el Desarrollo podrá invitar a los representantes de las instituciones educativas estatales a participar en las sesiones del mismo, con la finalidad de que informen sobre la actualización de sus planes de estudios o la creación de nuevas áreas de estudio o profesiones. Los organismos empresariales informarán sobre los perfiles técnicos o profesionales que requieran sus áreas productivas.
 
-#### SECCIÓN ÚNICA. DEL PREMIO DURANGUENSE A LA EXCELENCIA EMPRESARIAL
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE JULIO DE 2026)</small>
+
+#### SECCIÓN ÚNICA. DEL PROGRAMA DE PRIMER EMPLEO
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2026)</small>
+
+ARTÍCULO 73 BIS.
+
+Se crea el Programa de Primer Empleo, cuyo objeto es incentivar la contratación formal de personas jóvenes en puestos de nueva creación, a fin de favorecer su inserción y permanencia en el empleo formal, así como la adquisición de experiencia laboral inicial.
+
+En el diseño, ejecución y evaluación del Programa se observarán los principios de adicionalidad, no sustitución de plazas, igualdad sustantiva, no discriminación, transparencia y evaluación por resultados.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2026)</small>
+
+ARTÍCULO 73 TER.
+
+Para efectos de esta Sección, se entenderá por:
+
+I. Primer empleo: la primera relación laboral formal con alta ante el Instituto Mexicano del Seguro Social para una persona que no haya estado previamente afiliada como persona trabajadora;
+
+II. Persona joven: quien tenga de dieciocho a veintinueve años al momento de su contratación;
+
+III. Puesto de nueva creación: espacio de trabajo que no haya existido en la plantilla de la persona empleadora durante los doce meses previos y que se mantenga, al menos, veinticuatro meses; y
+
+IV. Persona empleadora participante: la persona física o moral legalmente establecida en el Estado que cree y mantenga puestos de nueva creación ocupados por personas en primer empleo y cumpla con esta Ley, su Reglamento y las Reglas de Operación del Programa.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2026)</small>
+
+ARTÍCULO 73 QUÁTER.
+
+Podrán recibir apoyo en el marco del Programa las contrataciones que cumplan con los siguientes requisitos:
+
+I. Que correspondan a puestos de nueva creación;
+
+II. Que la persona contratada sea considerada de primer empleo en términos de esta Sección;
+
+III. Que exista alta ante el Instituto Mexicano del Seguro Social desde el inicio de la relación laboral;
+
+IV. Que la contratación conste en contrato por tiempo determinado o indeterminado y, en el primer caso, tenga una duración mínima de seis meses;
+
+V. Que se otorgue a la persona contratada un salario no inferior al de otras personas trabajadoras que realicen funciones iguales o equivalentes en el mismo centro de trabajo;
+
+VI. Que la persona empleadora acredite cumplimiento de sus obligaciones fiscales, patronales y de seguridad social; y
+
+VII. Que no se acredite despido o simulación con el propósito de sustituir plazas preexistentes por plazas sujetas al Programa.
+
+Las Reglas de Operación precisarán la documentación y los medios de verificación necesarios para acreditar el cumplimiento de los requisitos y condiciones previstos en el presente artículo, así como los criterios de priorización, procurando favorecer a mujeres jóvenes, personas con discapacidad y personas residentes en zonas de alta o muy alta marginación.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2026)</small>
+
+ARTÍCULO 73 QUINQUIES.
+
+El Programa comprenderá, además, instrumentos no fiscales de apoyo a las personas jóvenes, entre los que podrán incluirse:
+
+I. Acciones de vinculación entre instituciones educativas y sector productivo;
+
+II. Mecanismos de tutoría o acompañamiento inicial en el puesto;
+
+III. Constancias de experiencia laboral inicial; y
+
+IV. Acciones de difusión, intermediación y vinculación laboral que favorezcan el acceso de personas jóvenes al empleo formal.
+
+La Secretaría promoverá la coordinación con la Secretaría del Trabajo y Previsión Social, instituciones educativas, ayuntamientos, cámaras y organismos empresariales para la ejecución de estos instrumentos.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2026)</small>
+
+ARTÍCULO 73 SEXIES.
+
+El Programa se regirá por las Reglas de Operación que expida la Secretaría, en términos de esta Ley y su Reglamento.
+
+La Secretaría publicará en su página oficial de internet la información relevante del Programa y sus resultados, en términos de las disposiciones aplicables en materia de transparencia, protección de datos personales y rendición de cuentas.
+
+Sin perjuicio de lo previsto en esta Sección, al Programa le serán aplicables las disposiciones contenidas en el Capítulo III del presente Título en materia de extinción, cancelación y recuperación de los apoyos, incentivos y estímulos.
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO PARA LA OBTENCIÓN DE INCENTIVOS FISCALES
 
@@ -1714,6 +1786,8 @@ II. Fallezca el titular, en caso de persona física.
 III. Se liquide o extinga, tratándose de persona jurídica colectiva.
 
 IV. Así lo determine la Secretaría si se comprueba que la persona o empresa certificada dejó de cumplir con los requisitos previstos para la expedición del certificado.
+
+#### SECCIÓN ÚNICA. DEL PREMIO DURANGUENSE A LA EXCELENCIA EMPRESARIAL
 
 ###### ARTÍCULO 89.
 
@@ -2406,3 +2480,13 @@ P.O. 30 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 375 QUE CONTIENE REFORMAS A LA LEY DE IMPULSO AL PRIMER EMPLEO DEL ESTADO DE DURANGO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. La Secretaría de Desarrollo Económico, en coordinación con la Secretaría de Finanzas y de Administración, emitirá o adecuará las Reglas de Operación del Programa de Primer Empleo y realizará las acciones administrativas necesarias para su implementación dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
