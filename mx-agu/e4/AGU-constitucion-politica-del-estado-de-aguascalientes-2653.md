@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2026-06-29"
+last_updated: "2026-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -389,15 +389,21 @@ Son derechos de la ciudadanía del Estado:
 
 I.- Votar en las elecciones populares, si son ciudadanos mexicanos en ejercicio de sus derechos y tienen una residencia en el Estado no menor de seis meses;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2026)</small>
 
-II.- Ser votada en condiciones de paridad para todos los cargos de elección popular teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos y candidatas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y las ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
+II.- Ser votada en condiciones de paridad para todos los cargos de elección popular teniendo las calidades que establezca la ley.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+Para el ejercicio de este derecho, las personas candidatas deberán cumplir con los requisitos previstos en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en la legislación electoral aplicable.
+
+En ningún caso podrá ser registrada como candidata una persona que:
+
+a) Haya ejercido el cargo para el que se postula en el periodo inmediato anterior, en los casos en que la Constitución Política de los Estados Unidos Mexicanos prohíba la reelección consecutiva; o
+
+b) Tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio, concubinato, unión de hecho, o parentesco por consanguinidad o civil en línea recta sin limitación de grado, en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
+
+El derecho de solicitar el registro de candidatos y candidatas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y las ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;
 
 Cuando se trate de personas candidatas para el cargo de Titular de una Magistratura del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial de Aguascalientes, así como de personas juzgadoras del Poder Judicial del Estado de Aguascalientes, corresponderá a los Poderes del Estado remitir las postulaciones para esos cargos al Instituto Estatal Electoral, conforme lo establecido en el artículo 54 de esta Constitución y las leyes correspondientes.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2018)</small>
 
 Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador en los términos que disponga la ley;
 
@@ -448,6 +454,10 @@ Del Poder Legislativo.
 ###### Artículo 15.
 
 El Poder Legislativo se deposita en una corporación denominada Congreso del Estado. Éste se regirá bajo los principios del modelo de parlamento abierto, por lo que deberá implementar mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana y la rendición de cuentas. La ley establecerá los mecanismos a los que hace referencia este Artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2026)</small>
+
+El Congreso del Estado deberá ejercer sus funciones bajo los principios de austeridad, disciplina financiera, transparencia y rendición de cuentas. En ningún caso, su presupuesto anual podrá exceder del cero punto setenta por ciento del Presupuesto de Egresos del Estado del ejercicio fiscal correspondiente.
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
@@ -543,6 +553,18 @@ La Ley General en Materia de Delitos Electorales, determinará los tipos penales
 
 El Sistema Estatal Electoral, estará regulado por la ley de la materia, y deberá garantizar en todo momento los derechos y obligaciones establecidos en los Artículos 41 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2026)</small>
+
+Las remuneraciones de las personas consejeras electorales, magistraturas electorales, titulares de la Secretaría Ejecutiva, de secretarías generales, de órganos administrativos, así como de las personas titulares de áreas ejecutivas, técnicas o sus equivalentes del Instituto Estatal Electoral y del Tribunal Electoral del Estado, no podrán exceder el límite previsto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2026)</small>
+
+Asimismo, no podrán adquirir, contratarse ni cubrirse con recursos públicos seguros de gastos médicos privados, seguros de vida privados, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro, planes privados de pensiones u otras prestaciones no previstas expresamente en la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2026)</small>
+
+El ejercicio de los recursos públicos de las autoridades electorales locales se sujetará a los principios de legalidad, eficiencia, economía, racionalidad, transparencia, honradez y austeridad republicana, en términos de la ley.
+
 > <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 29 DE ENERO DE 2018)</small>
 
 C. En el Estado se reconoce la democracia directa y participativa, entendida como el derecho de las personas a incidir en las decisiones públicas y el control de la función pública, a través de los siguientes instrumentos de participación ciudadana:
@@ -583,11 +605,13 @@ La ley regulará los instrumentos de participación ciudadana, los plazos, térm
 
 (DEROGADO, P.O. 18 DE JUNIO DE 1978)
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2026)</small>
 
 ###### Artículo 18.
 
-Los diputados podrán ser electos hasta por dos periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las personas diputadas propietarias del Congreso del Estado no podrán ser electas en tal calidad ni como suplentes para el periodo inmediato posterior al ejercicio de su mandato. No obstante, las personas diputadas suplentes podrán ser electas para el periodo inmediato posterior con el carácter de propietarias, siempre que no hubieren estado en ejercicio del cargo.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
 Las suplencias de diputados se regirán por lo establecido en la ley de la materia.
 
@@ -625,13 +649,17 @@ II.- Las personas Magistradas, tanto del Supremo Tribunal de Justicia y del Trib
 
 III.- Las personas a quienes por sentencia ejecutoria se les haya impuesto como pena la suspensión de los derechos o prerrogativas de los ciudadanos, o hayan sido condenadas mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual, violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género, o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2026)</small>
 
-IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto, y
+IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2026)</small>
 
-V.- La deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda.
+V.- La deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda; y
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2026)</small>
+
+VI.- Las personas que tengan o hayan tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio, concubinato, unión de hecho, o parentesco por consanguinidad o civil en línea recta sin limitación de grado, en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo de diputación.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -1141,13 +1169,17 @@ II. La persona a quien por sentencia ejecutoria se le haya impuesto como pena la
 
 III. La deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2026)</small>
 
-IV. El que haya desempeñado con anterioridad ese cargo por elección popular; y
+IV. El que haya desempeñado con anterioridad ese cargo por elección popular;
 
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2026)</small>
 
-V. El servidor público sea cual fuere el origen de su designación a menos que se separe de su cargo 90 días antes de la elección.
+V. El servidor público sea cual fuere el origen de su designación a menos que se separe de su cargo 90 días antes de la elección; y
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2026)</small>
+
+VI. La persona que tenga o haya tenido en los tres años anteriores al día de la elección vínculo de matrimonio, concubinato, unión de hecho o parentesco por consanguinidad en línea recta sin limitación de grado, en línea colateral hasta el cuarto grado, de afinidad hasta el segundo grado o civil, con la persona titular de la Gubernatura del Estado en funciones.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
@@ -2173,9 +2205,9 @@ El Municipio es la institución jurídica política y social de carácter públi
 
 El Municipio es libre en su régimen interior, será gobernado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2026)</small>
 
-Los Ayuntamientos se integrarán por un Presidente Municipal, Regidores y Síndicos que serán electos por el sistema de mayoría relativa y residirán en las cabeceras de los Municipios; además se elegirán regidores de representación proporcional que serán asignados a los partidos políticos, entre los cuales no debe figurar el que haya obtenido mayoría de votos, de acuerdo al procedimiento establecido en la Ley.
+Los Ayuntamientos se integrarán por una persona titular de la Presidencia Municipal, una Sindicatura y hasta quince regidurías, electas conforme a los principios de mayoría relativa y de representación proporcional, de conformidad con los parámetros previstos en la Constitución Política de los Estados Unidos Mexicanos y en los términos que establezca la ley. La integración de los Ayuntamientos deberá observar los principios de paridad de género, igualdad sustantiva y representación democrática efectiva.
 
 El Presidente Municipal presidirá el Ayuntamiento y representará a éste y al Municipio política y administrativamente.
 
@@ -2189,7 +2221,9 @@ I. Se elegirán bajo el principio de mayoría relativa:
 
 a) Un Presidente Municipal;
 
-b) Siete regidores y dos síndicos para el Municipio de Aguascalientes;
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2026)</small>
+
+b) Siete regidores y un síndico para el Municipio de Aguascalientes;
 
 c) Cuatro regidores y un Síndico para los municipios que tengan más de treinta mil habitantes, un año antes del día de la elección; y
 
@@ -2203,9 +2237,9 @@ b) Cuatro regidores para los municipios que tengan más de treinta mil habitante
 
 c) Tres regidores para cada uno de los demás municipios.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2026)</small>
 
-Los Ayuntamientos se renovarán en su totalidad cada tres años, salvo el caso de que sean elegidos para un período más, e iniciarán sus funciones el quince de octubre del año de la elección. Se elegirá un suplente por el Presidente Municipal y por cada Regidor y Síndico para que cubra las faltas temporales o absolutas del propietario correspondiente, serán cubiertas conforme a lo dispuesto por la Ley que en materia municipal emita el Congreso del Estado.
+Los Ayuntamientos se renovarán en su totalidad cada tres años, e iniciarán sus funciones el quince de octubre del año de la elección. Se elegirá un suplente por el Presidente Municipal y por cada Regidor y Síndico para que cubra las faltas temporales o absolutas del propietario correspondiente, las cuales serán cubiertas conforme a lo dispuesto por la Ley que en materia municipal emita el Congreso del Estado.
 
 El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
@@ -2245,17 +2279,37 @@ I. Las personas que desempeñen cargos públicos de elección popular, sean de l
 
 II. Las personas Magistradas, tanto del Supremo Tribunal de Justicia, como del Tribunal de Justicia Administrativa, del Tribunal de Disciplina Judicial de Aguascalientes, del Tribunal Electoral y las personas Juzgadoras; personas Titulares de una Secretaría de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; la persona titular de la Fiscalía General del Estado; las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, a la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes y las personas delegadas de las dependencias federales en el Estado;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2026)</small>
 
-III. Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad o que tengan una sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado; y
+III. Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad o que tengan una sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2026)</small>
 
-IV. Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto.
+IV. Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2026)</small>
+
+V. Las personas que tengan o hayan tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio, concubinato, unión de hecho, o parentesco por consanguinidad o civil en línea recta sin limitación de grado, en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2026)</small>
+
+VI. Las personas que hayan ejercido el cargo de Presidenta o Presidente Municipal, Regidora o Regidor, o Síndica o Síndico, con el carácter de propietarias o suplentes, en el periodo inmediato anterior; y
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2026)</small>
+
+VII. Las personas que hayan sido registradas como suplentes podrán ser electas para el periodo inmediato posterior con el carácter de propietarias, siempre que no hubieren ejercido el cargo.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
 
 Los ciudadanos comprendidos en las Fracciones I y II del párrafo anterior, podrán ser electos Presidente Municipal, Regidor o Síndico, si se separan de sus cargos o empleos noventa días antes de la elección, salvo que esta Constitución establezca otro termino.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2026)</small>
+
+Las disposiciones previstas en este artículo se ejercerán respetando en todo momento la autonomía municipal, en términos de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2026)</small>
+
+Los recursos públicos que se generen con motivo de los ajustes en la integración de los Ayuntamientos deberán destinarse prioritariamente al fortalecimiento de los servicios públicos municipales, infraestructura y acciones de bienestar social.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -2405,11 +2459,13 @@ El resguardo temporal de las autoridades municipales se limitará exclusivamente
 
 Este resguardo se llevará a cabo respetando el debido proceso y la garantía de audiencia de los propietarios, así como las formalidades, plazos y términos que establezcan las leyes de la materia.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2026)</small>
 
 ###### Artículo 72.
 
-Se establece la elección consecutiva para el mismo cargo de presidentes municipales, regidores y síndicos, por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las personas titulares de las presidencias municipales, regidurías y sindicaturas no podrán ser reelectas para el período inmediato posterior al ejercicio de su mandato.
+
+Las personas suplentes podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieren ejercido el cargo; pero las personas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes.
 
 > <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOSEXTO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
 
@@ -4846,3 +4902,33 @@ P.O. 29 DE JUNIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 545.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado deberá realizar las adecuaciones a la legislación secundaria correspondiente, a efecto de armonizar el marco jurídico estatal con lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La integración de los Ayuntamientos prevista en el presente Decreto será aplicable a partir del siguiente proceso electoral local 2026-2027.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado deberá realizar los ajustes presupuestarios necesarios para dar cumplimiento al límite establecido en el presente Decreto, a partir del inicio de la Legislatura siguiente a la entrada en vigor del mismo.
+
+En ningún caso podrán autorizarse incrementos presupuestarios reales que excedan el porcentaje establecido, ni realizar adecuaciones que tengan por objeto eludir dicho límite.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones en materia de austeridad y uso de recursos públicos se aplicarán sin afectar derechos laborales adquiridos conforme a las condiciones de trabajo aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Las disposiciones en materia de no reelección y nepotismo electoral contenidas en los artículos 12, fracción II; 18 párrafo primero; 20, fracción VI; 38, fracción VI y 66, párrafos séptimo, décimo primero fracciones V, VI y VII, y 72, serán aplicables a partir del proceso electoral local ordinario correspondiente al año 2030, en términos de las disposiciones transitorias del DECRETO por el que se reforman y adicionan los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral, publicado en (sic) Diario Oficial de la Federación, Edición Vespertina de fecha 1 de abril de 2025.
