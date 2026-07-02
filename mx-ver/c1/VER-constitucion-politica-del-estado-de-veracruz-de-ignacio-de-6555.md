@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2026-05-15"
+last_updated: "2026-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2026.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -841,9 +841,9 @@ V. En ningún caso, un partido político podrá contar con un número de diputad
 
 VI. En los términos de lo establecido en las bases contenidas en las fracciones III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos con derecho a ello, en proporción directa con las respectivas votaciones estatales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
 
-> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2026)</small>
 
-Las diputadas y los diputados podrán ser electos hasta por cuatro periodos consecutivos. La postulación para la reelección sólo podrá ser realizada por el mismo partido que hizo la postulación previa o por alguno de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las personas diputadas no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -884,6 +884,10 @@ VI. Quienes tengan antecedentes penales por la comisión de delitos realizados c
 > <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2025)</small>
 
 VII. Quienes incurran en alguno de los impedimentos señalados en el artículo 18 Bis de esta Constitución.
+
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2026)</small>
+
+VIII. Quienes tengan o hayan tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de alguna diputación del Congreso del Estado.
 
 La prohibición para los servidores públicos mencionados en las fracciones II, III y IV, no surtirá efectos si se separan de sus cargos noventa días naturales anteriores al día de la elección.
 
@@ -1498,6 +1502,10 @@ VII. Saber leer y escribir y no tener antecedentes penales por la comisión de d
 > <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2025)</small>
 
 VIII. No incurrir en alguno de los impedimentos señalados en el artículo 18 Bis de esta Constitución.
+
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2026)</small>
+
+IX. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -2497,19 +2505,21 @@ IV. Saber leer y escribir y no tener antecedentes penales por la comisión de de
 
 V. No incurrir en alguno de los impedimentos señalados en el artículo 18 Bis de esta Constitución.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 70. Los ediles durarán en su cargo cuatro años, debiendo tomar posesión el día primero de enero inmediato a su elección; si alguno de ellos no se presentare o dejare de desempeñar su cargo, será sustituido por el suplente, o se procederá según lo disponga la ley.
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2026)</small>
 
-Los ediles no podrán ser elegidos para integrar el Ayuntamiento del período siguiente; la misma prohibición se aplicará a los integrantes de los Concejos Municipales. Los ediles, cuando tengan el carácter de propietarios, no podrán ser elegidos para el período inmediato como suplentes; pero los que tengan el carácter de suplentes, sí podrán ser elegidos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+VI. En ningún caso podrá participar en la elección para la presidencia municipal, la sindicatura y las regidurías, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
 
-> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2020)</small>
+> <small>[N. DE E. EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, PUBLICADO EN LA G.O. EL 22 DE JUNIO DE 2020, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2012)</small>
 
 ###### Artículo 70.
 
-Las y los ediles durarán en su cargo tres años, debiendo tomar posesión el día primero de enero inmediato a su elección; si alguno de ellos no se presentare o dejare de desempeñar su cargo, será sustituido por el suplente, o se procederá según lo disponga la ley.
+Los ediles durarán en su cargo cuatro años, debiendo tomar posesión el día primero de enero inmediato a su elección; si alguno de ellos no se presentare o dejare de desempeñar su cargo, será sustituido por el suplente, o se procederá según lo disponga la ley.
 
-Las y los ediles podrán ser electos y ejercer el cargo para integrar los Ayuntamientos hasta por dos períodos consecutivos en términos de la Constitución federal.
+> <small>(REFORMADO, G.O. 2 DE JULIO DE 2026)</small>
 
-La postulación para la reelección sólo podrá ser realizada por el mismo partido o por alguno de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Queda prohibida la reelección consecutiva para el mismo cargo de las personas ediles; la misma prohibición se aplicará a los integrantes de los Concejos Municipales. Las personas ediles, cuando tengan el carácter de propietarias, no podrán ser electas para el período inmediato con el carácter de suplentes; pero las que tengan el carácter de suplentes, sí podrán ser electas para el período inmediato como propietarias a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -4630,3 +4640,15 @@ SEXTO. En cumplimiento de lo previsto por el artículo Octavo Transitorio del De
 Quedan expresamente prohibidas las ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas y cualquier otro mecanismo que tenga por objeto o por efecto incrementar directamente el presupuesto del Congreso del Estado por encima del límite previsto en el último párrafo de la fracción XXVIII del artículo 33 de esta Constitución y en el presente artículo transitorio.
 
 Cualquier disposición, determinación presupuestaria o acto de autoridad que contravenga lo establecido en el presente transitorio será nulo de pleno derecho.
+
+G.O. 2 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 524 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE NO REELECCIÓN Y NEPOTISMO ELECTORAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Las modificaciones a los artículos 23, 43 y 69 contenidas en el presente Decreto, respecto a la prohibición de nepotismo electoral, serán aplicables a partir de los procesos electorales locales, a celebrarse en 2030.
+
+TERCERO. Las modificaciones a los artículos 21 y 70 contenidas en el presente Decreto, respecto a la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir de los procesos electorales locales, a celebrarse en 2030. En consecuencia, las personas que en el año 2030 se encuentren ejerciendo los cargos públicos a que hace referencia el presente Decreto, no podrán postularse para procesos de reelección.
+
+CUARTO. Se deroga cualquier disposición que se oponga al presente Decreto.
