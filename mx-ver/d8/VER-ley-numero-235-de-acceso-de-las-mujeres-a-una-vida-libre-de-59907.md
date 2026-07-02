@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2026-03-06"
+last_updated: "2026-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2026.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -258,6 +258,10 @@ k. Amenazar con interrumpir los tratamientos médicos o farmacológicos de niña
 l. Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de hijas o hijos en común.
 
 Las conductas enlistadas deberán entenderse de manera enunciativa mas no limitativa.
+
+> <small>(ADICIONADA, G.O. 2 DE JULIO DE 2026)</small>
+
+XII. Violencia por acecho: La acción de quien, por cualquier vía, sin autorización legítima ni consentimiento de la mujer, realice en dos o más ocasiones actos de vigilancia, persecución o acercamiento, o actos orientados a establecer contacto con ella, y que ponga en riesgo o afecte su libertad, su seguridad, su integridad psicológica o el desarrollo normal de su vida cotidiana.
 
 > <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2021)</small>
 
@@ -1486,3 +1490,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las autoridades encargadas de la procuración e impartición de justicia tendrán un plazo de sesenta días para capacitar a su personal en investigación y atención del delito de abuso sexual con perspectiva de género.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 526 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
