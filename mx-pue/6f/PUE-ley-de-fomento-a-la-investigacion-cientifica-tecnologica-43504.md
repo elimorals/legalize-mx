@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fomento-a-la-investigacion-cientifica-tecnologica-43504"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2004-12-31"
+last_updated: "2026-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA, TECNOLOGICA, HUMANISTICA Y A LA INNOVACION PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2026.
 
 Ley publicada en la Trigésima Novena Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -71,9 +71,17 @@ XIV.- Promover la investigación científica, tecnológica y humanística y su v
 
 XV.- Promover la inversión pública y privada para el desarrollo de proyectos específicos de investigación en ciencia, tecnología y humanidades;
 
-XVI.- Reconocer y estimular las actividades de docencia, investigación vinculación, difusión y divulgación en materia de ciencia, tecnología y humanidades; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2026)</small>
 
-XVII.- Propiciar la relación y colaboración con los órganos colegiados representativos de la comunidad académica y de los demás sectores de la sociedad.
+XVI.- Reconocer y estimular las actividades de docencia, investigación, vinculación, difusión y divulgación en materia de ciencia, tecnología y humanidades;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2026)</small>
+
+XVII.- Propiciar la relación y colaboración con los órganos colegiados representativos de la comunidad académica y de los demás sectores de la sociedad, y
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2026)</small>
+
+XVIII.- Garantizar el ejercicio del derecho humano a la ciencia, conforme a los principios de universalidad, interdependencia, indivisibilidad y progresividad, con el fin de que toda persona goce de los beneficios del desarrollo de la ciencia y la innovación tecnológica, así como de los derechos humanos en general.
 
 ###### Artículo 2.
 
@@ -480,3 +488,13 @@ CUARTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil cuatro.- Diputado Presidente.- JOAQUÍN MALDONADO IBARGÜEN.- Rúbrica.- Diputado vicepresidente.- JOSÉ LUIS MÁRQUEZ MARTÍNEZ.- Rúbrica.- Diputado Secretario.- JUAN FRANCISCO MENÉNDEZ PRIANTE.- Rúbrica.- Diputado Secretario.- ODÓN ABAD SIDAR FIERO.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los quince días del mes de diciembre del año dos mil cuatro.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO RÓMULO S. ARREDONDO GUTIÉRREZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 1; Y SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 1; AMBOS DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA, HUMANÍSTICA Y A LA INNOVACIÓN PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se deroga toda disposición legal y reglamentaria que se oponga al presente Decreto.
