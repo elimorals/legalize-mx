@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2026-06-26"
+last_updated: "2026-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -271,7 +271,9 @@ En la aplicación de la presente Ley se tomarán en cuenta las condiciones parti
 
 Se respetarán los usos, costumbres y prácticas culturales, siempre y cuando no vulneren o restrinjan los derechos de las niñas, niños y adolescentes.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómicos, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, por determinación judicial que ordene la privación de la libertad de madres, padres, tutores o personas que ejerzan su guarda y custodia, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2026)</small>
+
+Las autoridades estatales y municipales, en el ámbito de su respectiva competencia, adoptarán medidas de protección especial de los derechos de las niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, orfandad, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, por determinación judicial que ordene la privación de la libertad de madres, padres, tutores o personas que ejerzan su guarda y custodia, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
@@ -1001,13 +1003,17 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 No deberá discriminarse a las niñas, niños y adolescentes ni limitar o restringir sus derechos. Las autoridades estatales y municipales están obligadas a llevar a cabo medidas especiales para prevenir, atender y erradicar la discriminación de la que son objeto niñas, niños y adolescentes, en razón de su origen étnico, nacional o social, idioma o lengua, sexo, edad, discapacidades, condición económica, estado de salud, religión, opiniones, preferencia sexual, estado civil, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor o persona que los tenga bajo guarda y custodia, o a otros miembros de su familia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 55.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad, dignidad, derechos humanos o que promuevan cualquier tipo de discriminación, a través de acciones afirmativas.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad, dignidad, derechos humanos o que promuevan cualquier tipo de discriminación, a través de acciones afirmativas atendiendo al interés superior de la niñez.
 
 La adopción de estas medidas formará parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, instrumentación y evaluación de las políticas públicas.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2026)</small>
+
+Será factor de análisis prioritario las diferencias de género, como causa de vulnerabilidad y discriminación existente en contra de las niñas, niños y adolescentes.
 
 ###### ARTÍCULO 56.
 
@@ -1193,9 +1199,11 @@ El Gobierno del Estado y el Congreso del Estado deberán proveer de recursos al 
 
 Niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a que se les facilite un intérprete o aquellos medios tecnológicos que les permitan obtener información de forma comprensible.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 68.
 
-La Secretaría de Competitividad, Trabajo y Desarrollo Económico, en el ámbito de su respectiva competencia y de conformidad con la normatividad legal aplicable, realizará las acciones necesarias para promover la capacitación para el trabajo de los adolescentes con discapacidad, estableciendo lo siguiente:
+La Secretaría de Desarrollo Económico y Trabajo, en el ámbito de su respectiva competencia y de conformidad con la normatividad legal aplicable, realizará las acciones necesarias para promover la capacitación para el trabajo de los adolescentes con discapacidad, estableciendo lo siguiente:
 
 I. Capacitación especializada para el trabajo, por cada tipo de discapacidad atendiendo a su clasificación, favoreciendo el acceso a un trabajo libremente elegido y aceptado en igualdad de oportunidades y equidad laboral, de acuerdo a sus habilidades y competencias para el trabajo;
 
@@ -1219,9 +1227,11 @@ X. Promover el otorgamiento de distintivos a las empresas e instituciones públi
 
 Los demás que dispongan los ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 69.
 
-La Secretaría de Competitividad, Trabajo y Desarrollo Económico, en coordinación con el Sistema Estatal de Protección, desarrollará en el ámbito de sus atribuciones, investigaciones respecto de las necesidades de empleo con el mercado laboral para los adolescentes con discapacidad.
+La Secretaría de Desarrollo Económico y Trabajo, en coordinación con el Sistema Estatal de Protección, desarrollará en el ámbito de sus atribuciones, investigaciones respecto de las necesidades de empleo con el mercado laboral para los adolescentes con discapacidad.
 
 ### CAPÍTULO XV. DE LOS DERECHOS DE LA LIBERTAD DE CONVICCIONES ÉTICAS, PENSAMIENTO, CONCIENCIA, RELIGIÓN Y CULTURA
 
@@ -1973,7 +1983,9 @@ V. El Secretario de Educación Pública;
 
 VI. El Secretario de Salud;
 
-VII. El Secretario de Competitividad, Trabajo y Desarrollo Económico;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2026)</small>
+
+VII. La persona Titular de la Secretaría de Desarrollo Económico y Trabajo;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2018)</small>
 
@@ -2626,6 +2638,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 32 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA, ASIMISMO SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 64, Y SE ADICIONA UN TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 64 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 11 BIS, EL PRIMER PÁRRAFO DEL 55, EL ACÁPITE DEL 68, EL 69 Y LA FRACCIÓN VII DEL 122; Y ADICIONA UN TERCER PÁRRAFO AL 55; TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
