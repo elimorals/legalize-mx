@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2026-06-25"
+last_updated: "2026-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -157,9 +157,11 @@ De las personas físicas.
 
 La capacidad jurídica de las personas físicas se adquiere por el nacimiento y se pierde por la muerte; pero desde el momento en que un individuo es concebido, entra bajo la protección de la ley y se le tiene por nacido para los efectos declarados en el presente Código.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
+
 ###### Art. 27.
 
-La menor edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+La edad mínima, u otras situaciones de incapacidad legalmente establecidas, no deben ser consideradas como restricciones a la personalidad jurídica. Las personas que se encuentren en estas circunstancias deben tener la posibilidad de ejercer sus derechos y asumir obligaciones a través de personas de apoyo y/o ayuda, garantizando el respeto a su autonomía y la toma de decisiones en la mayor medida posible, de acuerdo con sus capacidades.
 
 ###### Art. 28.
 
@@ -3521,23 +3523,31 @@ Ninguna tutela puede conferirse sin que previamente se declare en los términos 
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
+
 ###### Art. 477.
 
-El menor de edad que fuere demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llegue a la mayor edad.
+La niña, niño o adolescente que presente una condición de discapacidad o alteración significativa en su desarrollo cognitivo o físico, como en los casos de demencia, discapacidad intelectual, trastornos graves por consumo habitual de alcohol o drogas, estará sujeto al cuidado de la Procuraduría de Protección de Niñas, Niños y Adolescentes, hasta alcanzar la mayoría de edad.
 
-Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
+Si al llegar a la mayoría de edad persiste la condición que impide su pleno ejercicio de derechos, se evaluará la necesidad de continuar con medidas de apoyo. En este procedimiento, se escuchará a las personas de apoyo y curadores previos, y se velará por el bienestar y los derechos del individuo, tomando en cuenta su capacidad de autodeterminación y la protección de su salud y dignidad.
 
 ###### Art. 478.
 
 Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo se les proveerá de tutor.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
+
 ###### Art. 479.
 
-El cargo de tutor del demente, idiota, imbécil, sordo-mudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El apoyo y/o curadores de las personas que sufran de alteraciones significativas en su capacidad de tomar decisiones, derivadas de razones de salud mental, discapacidad o dependencia crónica, tendrá una duración que dependerá de las revisiones periódicas que la autoridad realice, a fin de valorar la continuidad, modificación o conclusión de dichas medidas, para garantizar el respeto a los derechos, la voluntad y la dignidad de la persona.
+
+Cuando el apoyo y/o cuidado sea ejercido por familiares directos (descendientes o ascendientes), su duración estará vinculada a las necesidades de apoyo de la persona. El cónyuge tendrá la obligación de desempeñar este rol únicamente mientras persista la relación conyugal, con el respeto a los derechos de la persona en todo momento.
+
+Las personas ajenas a la familia que asuman el apoyo y/o cuidado, por su parte, tendrán derecho a ser relevadas de dicha función después de diez años de ejercicio, garantizando siempre la inclusión, el bienestar y el ejercicio pleno de los derechos de la persona.
 
 ###### Art. 480.
 
-La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
+(DEROGADO, P.O. 3 DE JULIO DE 2026)
 
 ###### Art. 481.
 
@@ -3573,11 +3583,11 @@ El que en su testamento, aunque se trate de un menor, deje bienes, ya sea por le
 
 Si fueren varios los menores, podrá nombrárseles un tutor testamentario común o conferirse a persona diferente la tutela de cada uno de ellos; observándose, en su caso lo dispuesto en el artículo 471.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
+
 ###### Art. 488.
 
-El padre que ejerza la tutela de un hijo sujeto a interdicción por incapacidad intelectual, puede nombrarle tutor testamentario si la madre ha fallecido o no puede legalmente ejercer la tutela.
-
-La madre, en su caso, podrá hacer el nombramiento de que trata este artículo.
+La persona cuidadora principal, que brinde apoyo y/o cuidados a una niña, niño y adolescente, podrá designar a un tutor testamentario, en caso de que una de las personas responsables de la crianza haya fallecido, siempre procurando el interés superior de la niñez, bienestar y desarrollo integral.
 
 ###### Art. 489.
 
@@ -4469,29 +4479,27 @@ Del estado de interdicción.
 
 ###### Art. 647.
 
-Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 550.
-
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2016)</small>
+(DEROGADO, P.O. 3 DE JULIO DE 2026)
 
 ###### Art. 648.
 
-Son también nulos los actos y contratos celebrados por los menores de dieciocho años que no cuenten con la autorización de la persona que ejerce la patria potestad o de su tutor.
+(DEROGADO, P.O. 3 DE JULIO DE 2026)
 
 ###### Art. 649.
 
-La nulidad a que se refieren los artículos anteriores sólo puede ser alegada, sea como acción, sea como excepción, por el mismo incapacitado o por sus legítimos representantes; pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ella.
+(DEROGADO, P.O. 3 DE JULIO DE 2026)
 
 ###### Art. 650.
 
-La acción del pupilo para pedir la nulidad a que se refieren los artículos anteriores, prescribe a los cuatro años, contados desde que cese la incapacidad.
+(DEROGADO, P.O. 3 DE JULIO DE 2026)
 
 ###### Art. 651.
 
-Los menores de edad no pueden alegar la nulidad de que hablan los artículos 647 y 648, en las obligaciones que hubieren contraído sobre materias propias de la profesión o arte en que sean peritos.
+(DEROGADO, P.O. 3 DE JULIO DE 2026)
 
 ###### Art. 652.
 
-Tampoco pueden alegarla los menores, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores, o han manifestado dolosamente que lo eran.
+(DEROGADO, P.O. 3 DE JULIO DE 2026)
 
 ## TITULO DECIMO.
 
@@ -13733,7 +13741,7 @@ II.- Por la renuncia del mandatario;
 
 III.- Por la muerte del mandante o del mandatario;
 
-IV.- Por la interdicción de uno u otro;
+IV.- (DEROGADA, P.O. 3 DE JULIO DE 2026)
 
 V.- Por el vencimiento del plazo y por la conclusión del negocio para el que fue concedido;
 
@@ -16730,3 +16738,13 @@ P.O. 25 DE JUNIO DE 2026.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 3 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 253 POR EL QUE, "SE REFORMAN LOS ARTÍCULOS 27, 477, 479, 488 Y, SE DEROGAN LOS ARTÍCULOS 480, 647, 648, 649, 650, 651, 652 Y LA FRACCIÓN IV DEL ARTÍCULO 2495, TODOS DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto, previa su publicación en el Periódico Oficial del Estado, entrará en vigor en las fechas y términos establecidos en las disposiciones del Código Nacional de Procedimientos Civiles y Familiares que resulten aplicables en el Estado, conforme a lo previsto en los artículos transitorios primero y segundo de la Declaratoria de Vigencia de dicho ordenamiento, publicada en el Diario Oficial de la Federación el 9 de agosto de 2024.
+
+SEGUNDO.- El H. Tribunal Superior de Justicia del Estado de Campeche, deberá verificar que en los procesos judiciales que se encuentren en curso, previo a la entrada en vigor del presente decreto, se aplique el control de convencionalidad, de acuerdo a lo establecido en el numeral 12 de la Convención sobre los Derechos de las Personas con Discapacidad, así como los mecanismos de impartición de justicia bajo un enfoque de interés superior de la niñez y respeto de los derechos de las personas con discapacidad.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
