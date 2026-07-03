@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-106214"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-03-02"
-last_updated: "2025-06-16"
+last_updated: "2026-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2026.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de marzo de 2015.
 
@@ -104,6 +104,10 @@ XVII. Lo relativo a los medios de impugnación.
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 Las referencias o alusiones hechas en el presente código a mujeres u hombres deberán interpretarse como referidas indistintamente a ambos sexos, sin implicar distinción o discriminación alguna, salvo las medidas afirmativas a favor de las mujeres para el ejercicio de sus derechos político-electorales.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2026)</small>
+
+El presente Código regulará, en el ámbito de su competencia, la verificación de los requisitos de elegibilidad y las reglas aplicables al registro de candidaturas en materia de no reelección y nepotismo electoral, conforme a la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Aguascalientes.
 
 ###### ARTÍCULO 2°.
 
@@ -241,9 +245,9 @@ Son derechos y prerrogativas de la ciudadanía:
 
 I. El ejercicio del sufragio universal, libre, secreto, directo, personal e intransferible, para elegir a los integrantes de los poderes Legislativo, Ejecutivo, Judicial y Ayuntamientos del Estado.
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2026)</small>
 
-II. Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la normatividad en la materia. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, cuya selección de candidatos deberá garantizar la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular; y a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la normatividad en la materia;
+II. Poder ser votada para todos los cargos de elección popular, teniendo las calidades y requisitos que establezcan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, este Código y demás disposiciones aplicables; el derecho de solicitar el registro de candidaturas ante la autoridad electoral corresponde a los partidos políticos, cuya selección de candidaturas deberá garantizar la igualdad de oportunidades y la paridad entre mujeres y hombres para tener acceso a cargos de elección popular; y a las personas ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la normatividad en la materia;
 
 III. Constituir partidos políticos y afiliarse a ellos individual y libremente;
 
@@ -260,6 +264,44 @@ VIII. Las demás que señale la LGIPE y este Código.
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 El ejercicio de los derechos y atribuciones de los ciudadanos en el ámbito político electoral deberá realizarse de forma pacífica, es decir, libre de violencia política contra las mujeres en razón de género; sin discriminación por origen étnico, sexo, edad, discapacidades, condición social, condiciones de salud, religión, ideas y opiniones, estado civil, preferencias sexuales o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2026)</small>
+
+ARTÍCULO 6° A.- En ningún caso procederá el registro de candidaturas a diputaciones locales, presidencias municipales, sindicaturas o regidurías, cuando la persona aspirante se ubique en los supuestos de prohibición de reelección inmediata previstos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Aguascalientes.
+
+Las personas propietarias que hayan ejercido el cargo no podrán ser registradas para el periodo inmediato posterior, ni como propietarias ni como suplentes.
+
+Las personas suplentes podrán ser registradas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2026)</small>
+
+ARTÍCULO 6º B.- En ningún caso procederá el registro de candidaturas a diputaciones locales, presidencias municipales, sindicaturas o regidurías, cuando la persona aspirante tenga o haya tenido, dentro de los tres años anteriores al día de la elección, alguno de los vínculos siguientes:
+
+I. Matrimonio;
+
+II. Concubinato o unión de hecho;
+
+III. Parentesco por consanguinidad o civil en línea recta sin limitación de grado;
+
+IV. Parentesco en línea colateral hasta el cuarto grado;
+
+V. Parentesco por afinidad hasta el segundo grado;
+
+(sic) con la persona que, al momento de la elección, se encuentre ejerciendo la titularidad del cargo de elección popular para el cual se postula, en términos de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2026)</small>
+
+ARTÍCULO 6º C.- Los partidos políticos, coaliciones, candidaturas comunes y, en su caso, las personas aspirantes a candidaturas independientes, deberán presentar al momento de solicitar el registro de candidaturas, manifestación bajo protesta de decir verdad de que las personas postuladas no se encuentran en los supuestos previstos en los artículos 6º A y 6º B del presente Código.
+
+El Instituto Estatal Electoral, en ejercicio de sus atribuciones y con base en la documentación exhibida por las personas solicitantes, así como en la información que obre en poder de autoridades competentes, podrá requerir información o documentación complementaria estrictamente necesaria para verificar el cumplimiento de los requisitos de elegibilidad previstos en el presente Código, observando en todo momento los principios de legalidad, objetividad, certeza e imparcialidad.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2026)</small>
+
+ARTÍCULO 6º D.- El Consejo General del Instituto Estatal Electoral negará el registro de la candidatura cuando, conforme a los elementos objetivos que obren en el expediente respectivo, se acredite el incumplimiento de los requisitos previstos en los artículos 6º A y 6º B del presente Código.
+
+Si con posterioridad al otorgamiento del registro y antes de la toma de posesión del cargo se acredita, mediante resolución firme emitida por la autoridad competente o conforme a los procedimientos previstos en la normativa electoral aplicable, el incumplimiento de dichos requisitos, procederá la cancelación del registro o la revocación de la constancia respectiva, según corresponda.
+
+Lo anterior se entenderá sin perjuicio de los medios de impugnación que correspondan en términos de la legislación aplicable.
 
 ### CAPÍTULO II. Del Voto
 
@@ -525,13 +567,17 @@ VIII. Garantizar a las mujeres el ejercicio de sus derechos políticos y elector
 
 IX. Sancionar por medio de los mecanismos y procedimientos internos con los que se cuente todo acto relacionado con la violencia política contra las mujeres en razón de género;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2026)</small>
 
-X. Acompañar y coadyuvar a la víctima de violencia política de género en su proceso, ya sea interno o ante las autoridades administrativas o jurisdiccionales competentes, salvo cuando el denunciado sea el propio partido político o militante de éste. De manera optativa, la víctima podrá solicitar dicho acompañamiento y coadyuvancia, los cuales consistirán en la asesoría jurídica necesaria y en el desahogo de los procedimientos en todas las instancias que se requieran, y
+X. Acompañar y coadyuvar a la víctima de violencia política de género en su proceso, ya sea interno o ante las autoridades administrativas o jurisdiccionales competentes, salvo cuando el denunciado sea el propio partido político o militante de éste. De manera optativa, la víctima podrá solicitar dicho acompañamiento y coadyuvancia, los cuales consistirán en la asesoría jurídica necesaria y en el desahogo de los procedimientos en todas las instancias que se requieran;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2026)</small>
 
-XI. Las demás que establezca este Código.
+XI. Presentar ante el Instituto Estatal Electoral las versiones públicas y firmadas de las declaraciones patrimonial y de intereses, así como exhibir la constancia de situación fiscal actualizada de sus candidatas y candidatos a los distintos cargos de elección popular, una vez aprobado el registro correspondiente y previo al inicio de las campañas electorales, conforme a los lineamientos que para tal efecto emita el Consejo General, garantizando en todo momento la protección de los datos personales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JULIO DE 2026)</small>
+
+XII. Las demás que establezca este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -2501,6 +2547,10 @@ La distribución y delimitación territorial de los distritos electorales uninom
 
 A fin de garantizar la concurrencia de los principios de democracia, equidad de género e igualdad sustantiva en la asignación de curules de representación proporcional, en un primer momento, la autoridad competente deberá distribuir las diputaciones de acuerdo con la fórmula establecida en el Artículo 233 del presente ordenamiento legal; y solamente, en el caso de que con el orden original de las listas previamente registradas y las listas formadas por los candidatos de los partidos políticos con más altos porcentajes de votación que no obtuvieron el triunfo por mayoría relativa, no se garantice al menos el cincuenta por ciento, o bien, el porcentaje más cercano de designaciones a las mujeres, entonces, la autoridad electoral deberá realizar las acciones afirmativas necesarias, a fin de evitar la sub representación de las mismas en el órgano legislativo.
 
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2026)</small>
+
+El Instituto Estatal Electoral verificará el cumplimiento de los requisitos de elegibilidad previstos en los artículos 6º A y 6º B del presente Código.
+
 ###### ARTÍCULO 124.
 
 El Poder Ejecutivo del Estado de Aguascalientes se deposita en una sola persona que se denomina Gobernador, electo cada seis años por mayoría relativa y por el voto directo de los habitantes de toda la entidad y ciudadanos que residan en el extranjero con derecho a ello.
@@ -2785,6 +2835,10 @@ b) El Consejero Presidente una vez remitida y notificada la última solicitud de
 
 Transcurrido el plazo establecido en el párrafo anterior, el partido político, coalición o candidato independiente que no realice la sustitución de candidaturas, será acreedor a una amonestación pública. El Consejo en el ámbito de sus competencias le requerirá de nueva cuenta para que, en un plazo de veinticuatro horas contadas a partir de la notificación haga la sustitución adecuada. En caso de incumplimiento se sancionará con la negativa del registro de las candidaturas correspondientes.
 
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2026)</small>
+
+Las personas aspirantes a candidaturas independientes deberán cumplir con los requisitos de elegibilidad previstos en los artículos 6º A y 6º B del presente Código.
+
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2017)</small>
 
 ARTÍCULO 143 A.- De no subsanarse las omisiones respecto de la observancia de las reglas de paridad de género por parte de los partidos políticos, coaliciones o candidatos independientes, se aplicará el siguiente procedimiento para garantizarla:
@@ -2801,11 +2855,11 @@ Tanto en el caso de mayoría relativa como de representación proporcional, la n
 
 Las listas de candidatos a diputados y ayuntamientos por ambos principios, deberán especificar cuáles integrantes de las listas están optando por reelegirse en sus cargos y el número de veces que han ocupado el mismo cargo de manera consecutiva, con independencia de los principios por los que hayan sido electos.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 144.
 
-La solicitud del registro de candidaturas se hará del día quince al día veinte de marzo del año de la elección.
+La solicitud del registro de candidaturas se hará del día primero al día quince de marzo del año de la elección.
 
 ###### ARTÍCULO 145.
 
@@ -2919,9 +2973,9 @@ Sí de la verificación señalada, se advierte que se omitió el cumplimiento de
 
 Cualquier solicitud o documentación presentada fuera de los plazos a que se refiere el artículo 144 de este Código será desechada de plano y por lo tanto se tendrá por no registrada la candidatura o candidaturas; y tendrá los mismos efectos para el caso de que las solicitudes y documentación presentada no cumplan los requisitos que establece este Código.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
 
-Dentro de los cinco días siguientes al término del plazo a que se refiere el artículo 144 de este Código, el Consejo, los consejos distritales y municipales según sea el caso, celebrarán una sesión cuyo único objeto será analizar, y en su caso aprobar el registro de las candidaturas de los partidos políticos y candidaturas independientes que procedan.
+Dentro de los diez días siguientes al término del plazo a que se refiere el artículo 144 de este Código, el Consejo, los consejos distritales y municipales según sea el caso, celebrarán una sesión cuyo único objeto será analizar, y en su caso aprobar el registro de las candidaturas de los partidos políticos y candidaturas independientes que procedan.
 
 Los consejos distritales y municipales según sea el caso, comunicarán dentro de las veinticuatro horas siguientes al Consejo el acuerdo relativo al registro de candidaturas que hayan realizado durante la sesión a que se refiere el párrafo anterior.
 
@@ -2955,25 +3009,13 @@ Las cancelaciones de registro o sustitución de candidatos, se mandarán publica
 
 #### SECCIÓN SEGUNDA. De la Reelección Consecutiva
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
 
-ARTÍCULO 156 A.- Pueden optar por la reelección consecutiva los servidores públicos propietarios o suplentes de elección popular, que hayan ocupado el cargo, de conformidad con lo siguiente:
+ARTÍCULO 156 A.- Las disposiciones relativas a la reelección consecutiva de diputaciones locales y de integrantes de los Ayuntamientos previstas en este Código serán aplicables únicamente hasta el proceso electoral local ordinario inmediato anterior al año 2030.
 
-I. Se entenderá que los servidores públicos de elección popular suplentes, y que no hayan ocupado el cargo, podrán optar por la elección en el mismo;
+A partir del proceso electoral local ordinario del año 2030, queda prohibida la reelección inmediata para los cargos de diputaciones locales, presidencias municipales, sindicaturas y regidurías, en términos de los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Aguascalientes.
 
-II. Quien hubiese sido reelecto de manera consecutiva como diputado, presidente, regidor o síndico, con el carácter de propietario, no podrá ser reelecto para el siguiente período con el carácter de suplente del mismo cargo de elección popular;
-
-III. Los integrantes del Ayuntamiento que pretendan la reelección deberán ser registrados para el municipio en que fueron electos previamente;
-
-IV. En caso de las planillas de ayuntamientos podrán ser integradas con las candidaturas que participen en elección consecutiva, junto con las candidaturas que no se coloquen en tal supuesto;
-
-V. Los diputados que pretendan su reelección, pueden contender por la misma o por diversa demarcación electoral por la cual fueron electos;
-
-VI. La postulación y solicitud del registro solo podrá ser realizada por el mismo partido político, o bien por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia o, en el caso de diputados, hayan renunciado a su adscripción a un grupo parlamentario durante la primera mitad de su mandato;
-
-VII. El ciudadano que ocupe un cargo de elección popular al momento del inicio del proceso electoral, y que haya sido postulado en el anterior por algún partido político o coalición, podrá reelegirse por la vía independiente, siempre y cuando haya perdido o renunciado a su militancia antes de la mitad de su mandato y satisfaga los demás requisitos previstos en este código, y
-
-VIII. Tratándose de quienes hayan sido electos como candidatos independientes, y opten por reelegirse por la misma calidad, deberán seguir el procedimiento para adquirir la calidad de aspirantes y, en su momento, obtener nuevamente el apoyo ciudadano en los términos de este Código.
+Las personas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes.
 
 ARTÍCULO 156 B.- (DEROGADO, P.O. 29 DE JUNIO DE 2020)
 
@@ -4174,6 +4216,10 @@ VI. En caso de reincidencia en la comisión de las infracciones referidas en las
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 Tratándose de infracciones relacionadas con el incumplimiento de las obligaciones para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2026)</small>
+
+El incumplimiento de la obligación prevista en la fracción XI del artículo 25 de este Código será sancionado con multa de cincuenta hasta doscientas veces el valor diario de la Unidad de Medida y Actualización vigente. La imposición de dicha sanción recaerá exclusivamente en el partido político responsable y, en ningún caso, la omisión en la presentación de la información referida constituirá causa para negar, cancelar o dejar sin efectos el registro de las candidaturas correspondientes.
 
 ###### ARTÍCULO 243.
 
@@ -7616,3 +7662,55 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 3 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 556.- SE REFORMA EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo General del Instituto Estatal Electoral de Aguascalientes contará con un plazo de treinta días naturales a partir de la entrada en vigor del presente Decreto para emitir, adecuar o modificar los reglamentos, acuerdos y lineamientos que resulten necesarios para la debida implementación de las reformas que se establecen en el mismo.
+
+###### ARTÍCULO TERCERO.
+
+Las reformas contenidas en el presente Decreto serán aplicables a partir del proceso electoral ordinario local inmediato siguiente a su entrada en vigor.
+
+P.O. 3 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 557.- SE REFORMA EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo General del Instituto Estatal Electoral deberá emitir o, en su caso, adecuar los lineamientos necesarios para la implementación de las disposiciones previstas en el presente Decreto, dentro de los noventa días naturales siguientes a su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones contenidas en el presente Decreto serán aplicables a partir del proceso electoral local inmediato siguiente al de su entrada en vigor.
+
+P.O. 3 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 559.- SE REFORMA EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de la entrada en vigor de las reformas correspondientes a la Constitución Política del Estado de Aguascalientes en materia de no reelección y nepotismo electoral, previa publicación en el Periódico Oficial del Estado de Aguascalientes, salvo aquellas disposiciones cuya aplicación se encuentre expresamente prevista en los artículos transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones contenidas en el último párrafo del artículo 1º y en los artículos 6º A, 6º B, 6º C, 6º D y 156 A del presente Decreto, relativas a no reelección y nepotismo electoral, serán aplicables a partir del proceso electoral local ordinario del año 2030, en términos del Decreto por el que se reforman y adicionan los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 1 de abril de 2025.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto Estatal Electoral de Aguascalientes deberá realizar las adecuaciones reglamentarias, lineamientos y criterios operativos necesarios dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
