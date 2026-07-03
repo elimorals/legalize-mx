@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2026-05-26"
+last_updated: "2026-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -67,9 +67,9 @@ El Municipio es la institución jurídica, política y social de carácter públ
 
 El Municipio es libre en su régimen interior y será gobernado por un ayuntamiento de elección popular directa, que ejercerá sus atribuciones de manera exclusiva, estarán dotados de competencia, en los términos que les ha sido otorgada por las Constituciones Federal y Estatal, las leyes y demás disposiciones jurídicas.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
 
-El Ayuntamiento integrará en su estructura orgánica de conformidad con el principio de paridad y equidad entre mujeres y hombres.
+El Ayuntamiento se integrará conforme a la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la legislación electoral aplicable y esta Ley, observando en su integración y estructura orgánica los principios constitucionales de paridad de género, igualdad sustantiva y representación democrática.
 
 ###### Artículo 4o.
 
@@ -221,19 +221,21 @@ Los municipios, tienen la facultad de reglamentar libre y directamente las mater
 
 Al efecto, los ayuntamientos determinarán en su reglamentación, los casos y la forma de aplicación de los instrumentos de participación de los ciudadanos y vecinos en los asuntos del gobierno municipal que se estimen necesarios.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
+
 ###### Artículo 17.
 
-Cada Municipio será gobernado por un Ayuntamiento integrado por un Presidente Municipal y el número de Regidores y Síndicos que señala la Constitución Local y las disposiciones electorales.
+Cada Municipio será gobernado por un Ayuntamiento integrado por una persona titular de la Presidencia Municipal, una Sindicatura y hasta quince Regidurías, de conformidad con los principios de paridad de género, igualdad sustantiva y representación democrática, en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes y la legislación electoral aplicable.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
 
 ###### Artículo 18.
 
-Los ayuntamientos se renovarán en su totalidad cada tres años, salvo el caso de que uno, varios, o la totalidad de sus integrantes, sean elegidos para un periodo más, e iniciarán su período el día 15 de octubre del año de su elección y concluirán el día 14 de octubre del año de las elecciones para su renovación.
+Los ayuntamientos se renovarán en su totalidad cada tres años e iniciarán su período el día 15 de octubre del año de su elección y concluirán el día 14 de octubre del año de las elecciones para su renovación.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
+Las personas que hayan ejercido el cargo con el carácter de propietarias no podrán ser electas para el periodo inmediato posterior, ni con el carácter de propietarias ni de suplentes; las personas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, en términos de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Aguascalientes.
 
-Dentro de las ciento veinte horas anteriores al inicio del periodo constitucional correspondiente, deberán comparecer las personas que en los términos de la legislación aplicable resultaron electos para ocupar los cargos de Presidente Municipal, Síndicos y Regidores, con el fin de rendir la protesta de ley para el ejercicio de las funciones inherentes a sus cargos. Esta protesta surtirá sus efectos de manera inmediata al momento en que inicie el ejercicio del período constitucional del Ayuntamiento entrante.
+Dentro de las ciento veinte horas anteriores al inicio del periodo constitucional correspondiente, deberán comparecer las personas que en los términos de la legislación aplicable resultaron electas para ocupar los cargos de Presidente Municipal, Síndicos y Regidores, con el fin de rendir la protesta de ley para el ejercicio de las funciones inherentes a sus cargos. Esta protesta surtirá sus efectos de manera inmediata al momento en que inicie el ejercicio del período constitucional del Ayuntamiento entrante.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
@@ -245,9 +247,9 @@ Para los efectos de la renovación de cada Ayuntamiento, los integrantes salient
 
 Si al comenzar un período constitucional, la elección del Ayuntamiento no se ha verificado o se ha declarado nula, cesará en sus funciones el Ayuntamiento cuyo ejercicio constitucional concluyó.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
 
-El Congreso del Estado convocará a sesión del Pleno dentro de los cinco días siguientes al que sea notificado de la declaración de nulidad de la elección de algún Ayuntamiento para que, a propuesta de los miembros de la Legislatura, por votación mayoritaria, nombre un Concejo Municipal integrado por el número de miembros que para el caso corresponda al Ayuntamiento, de entre los vecinos del municipio correspondiente, quienes deberán cumplir los requisitos de elegibilidad establecidos para ser miembro del Ayuntamiento.
+El Congreso del Estado convocará a sesión del Pleno dentro de los cinco días siguientes al que sea notificado de la declaración de nulidad de la elección de algún Ayuntamiento para que, a propuesta de los miembros de la Legislatura, por votación mayoritaria, nombre un Concejo Municipal integrado por el número de miembros que para el caso corresponda al Ayuntamiento, de entre los vecinos del municipio correspondiente, quienes deberán cumplir los requisitos de elegibilidad previstos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la legislación electoral aplicable y esta Ley.
 
 El Concejo Municipal será provisional, sus miembros rendirán la protesta de ley en la misma sesión en que fueron nombrados y tendrá la competencia que le corresponde al Ayuntamiento Constitucional.
 
@@ -271,9 +273,11 @@ Al término de la ceremonia de instalación, el Presidente Municipal saliente ha
 
 Cuando uno o más miembros del Ayuntamiento electo no se hubiesen presentado a su instalación, el Presidente Municipal los convocará para que en sesión de Cabildo a celebrarse dentro de los quince días siguientes a la ceremonia de instalación, se presenten a rendir la protesta de ley. Si estos no lo hicieran así dentro de los siguientes siete días, se llamará a los suplentes para que rindan la protesta de ley y sustituyan a los propietarios definitivamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2026)</small>
+
 ###### Artículo 25.
 
-Si tomadas las medidas a que se refiere el artículo anterior, no se presentase ni el propietario ni el suplente, el Presidente Municipal lo comunicará al Instituto Estatal Electoral dentro de los siguientes diez días, a efecto de que la vacante sea cubierta por la fórmula de candidatos del mismo partido que siga en el orden de prelación en la lista municipal por el principio de representación proporcional.
+Si tomadas las medidas a que se refiere el artículo anterior, no se presentase ni el propietario ni el suplente, el Presidente Municipal lo comunicará al Instituto Estatal Electoral dentro de los siguientes diez días, a efecto de que la vacante sea cubierta por la fórmula de candidatos del mismo partido que siga en el orden de prelación en la lista municipal por el principio de representación proporcional, conforme a la legislación electoral aplicable y observando los requisitos de elegibilidad vigentes.
 
 Lo establecido en el presente artículo, aplicará de igual forma para las vacantes definitivas, que se generen con posterioridad a la toma de protesta.
 
@@ -283,7 +287,9 @@ Si no se presentara el Presidente Municipal propietario electo y hubiere mayorí
 
 El regidor primero en número, comunicará al Congreso del Estado la falta del Presidente Municipal propietario, para que éste lo exhorte a que se presente dentro del término de cinco días a asumir su cargo, y si no lo hace, se llamará al suplente en los mismos términos.
 
-Si el suplente no se presentara, se procederá a dar cuenta al Congreso del Estado para que éste, de entre los demás integrantes del Ayuntamiento, nombre a quien será Presidente Municipal.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
+
+Si el suplente no se presentara, se procederá a dar cuenta al Congreso del Estado para que éste, de entre los demás integrantes del Ayuntamiento, nombre a quien será Presidente Municipal, de conformidad con la legislación aplicable y respetando los requisitos de elegibilidad correspondientes.
 
 Lo establecido en el presente artículo, aplicará de igual forma para las vacantes definitivas que se generen con posterioridad a la toma de protesta.
 
@@ -291,9 +297,11 @@ Lo establecido en el presente artículo, aplicará de igual forma para las vacan
 
 Si el día de la instalación no hay mayoría de integrantes propietarios del Ayuntamiento entrante, el Congreso del Estado proveerá lo necesario para su instalación en un plazo no mayor de tres días, para lo cual deberá convocar inclusive a los suplentes; de no acudir los miembros del Ayuntamiento electos, se procederá en términos de lo dispuesto por los artículos 25 y 26 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
+
 ###### Artículo 28.
 
-En caso de no completarse la integración del Ayuntamiento habiéndose agotado el procedimiento establecido en el artículo anterior se procederá a nombrar a los miembros faltantes necesarios para integrar el Ayuntamiento, en la misma forma como se eligen los integrantes del Concejo Municipal.
+En caso de no completarse la integración del Ayuntamiento habiéndose agotado el procedimiento establecido en el artículo anterior, se procederá a nombrar a los miembros faltantes necesarios para integrar el Ayuntamiento, en la misma forma como se eligen los integrantes del Concejo Municipal, debiendo cumplir con los requisitos de elegibilidad previstos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la legislación electoral aplicable y esta Ley.
 
 ### CAPITULO SEGUNDO. De la Suspensión de Ayuntamientos, Declaratoria de que han Desaparecido y de la Suspensión o Revocación del Mandato de Alguno de sus Miembros
 
@@ -763,11 +771,15 @@ I. Cuando el Síndico se encuentre legalmente impedido para el caso; y
 
 II. Cuando el Síndico se niegue a cumplir su función; en este caso, el Presidente Municipal deberá recabar la autorización del Ayuntamiento.
 
-### CAPITULO QUINTO. Facultades y Obligaciones de los Síndicos
+> <small>(REFORMADA SU DENOMINACIÓN P.O. 3 DE JULIO DE 2026)</small>
+
+### CAPITULO QUINTO. Facultades y Obligaciones de la persona titular de la Sindicatura
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2026)</small>
 
 ###### Artículo 42.
 
-Son facultades y obligaciones de los síndicos de los ayuntamientos:
+Son facultades y obligaciones de la persona titular de la Sindicatura del Ayuntamiento:
 
 I. Asistir a las sesiones del Ayuntamiento y a los actos oficiales a que sean citados y permanecer en ellas todo el tiempo que éstas duren;
 
@@ -823,9 +835,9 @@ XVII. Coadyuvar con el Presidente Municipal en la substanciación de los recurso
 
 XVIII. Las demás que les confieran o impongan las leyes, los reglamentos o el Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
 
-Los ayuntamientos podrán contar con un fondo de gestión social, para que los síndicos atiendan de necesidades de personas o grupos en situaciones de vulnerabilidad o rezago social, esto conforme a las reglas de operación que cada Ayuntamiento establezca y a su disponibilidad presupuestaria.
+Los ayuntamientos podrán contar con un fondo de gestión social, para que la persona titular de la Sindicatura atienda las necesidades de personas o grupos en situación de vulnerabilidad o rezago social, conforme a las reglas de operación que cada Ayuntamiento establezca y a su disponibilidad presupuestaria.
 
 ### CAPITULO SEXTO. Facultades y Obligaciones de los Regidores
 
@@ -879,7 +891,9 @@ Las faltas temporales de los integrantes del Ayuntamiento que no impliquen la se
 
 I. En caso del Presidente Municipal, las cubrirá el primer regidor y en ausencia de éste, el que le siga en número;
 
-II. En caso de los síndicos, serán cubiertas por el miembro del Ayuntamiento que éste designe, cuando sólo haya un síndico; y cuando haya más de uno, la ausencia será cubierta por el otro; y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2026)</small>
+
+II. En caso de ausencia de la persona titular de la Sindicatura, la misma será cubierta por el miembro del Ayuntamiento que éste designe, conforme a la legislación aplicable; y
 
 III. Las faltas de los regidores no se cubrirán, cuando sean temporales y exista el número suficiente de miembros que marca la Ley para que los actos del Ayuntamiento tengan validez; cuando no haya ese número, o las faltas excedieran el plazo indicado, se llamará al suplente respectivo.
 
@@ -3064,3 +3078,27 @@ P.O. 26 DE MAYO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 558.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de la entrada en vigor de las reformas correspondientes a la Constitución Política del Estado de Aguascalientes que armonicen el régimen de integración de los ayuntamientos y la prohibición de la reelección inmediata, previa publicación en el Periódico Oficial del Estado de Aguascalientes, salvo las disposiciones cuya vigencia o aplicación se encuentre expresamente prevista en los artículos transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a la integración de los ayuntamientos previstas en los artículos 3o. y 17 del presente Decreto serán aplicables a partir del periodo constitucional municipal subsecuente que corresponda, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones relativas a la prohibición de reelección inmediata previstas en el artículo 18 del presente Decreto serán aplicables a partir del proceso electoral local ordinario correspondiente al año 2030, en términos del Decreto por el que se reforman y adicionan los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 1 de abril de 2025.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos del Estado deberán adecuar sus disposiciones reglamentarias y administrativas en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
