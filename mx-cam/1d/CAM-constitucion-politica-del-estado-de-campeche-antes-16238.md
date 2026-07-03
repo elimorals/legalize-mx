@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2026-05-13"
+last_updated: "2026-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -89,7 +89,9 @@ Además de lo que la Constitución Política de los Estados Unidos Mexicanos pre
 
 Toda persona que sufra un daño o lesión en sus bienes y derechos, con motivo de la actividad administrativa irregular del Estado y de los Municipios, tendrá derecho a ser indemnizada conforme lo establece el artículo 101 bis de esta Constitución.
 
-En todas las decisiones y actuaciones de las autoridades administrativas, jurisdiccionales y legislativas, así como de las demás instituciones públicas o privadas de bienestar social, se velará y observará el principio del interés superior de la niñez y de la adolescencia, garantizando en la máxima medida posible el ejercicio pleno de sus derechos humanos.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
+
+En todas las decisiones y actuaciones de las autoridades administrativas, jurisdiccionales y legislativas, así como de las demás instituciones públicas o privadas de bienestar social, se velará y observará el principio del interés superior de la niñez y de la adolescencia, garantizando en la máxima medida posible el ejercicio pleno de sus derechos humanos. El Estado y los Municipios, en el ámbito de sus respectivas competencias promoverán acciones, políticas públicas y programas de atención integral dirigidos a niñas, niños y adolescentes en orfandad como consecuencia del delito de feminicidio, con independencia de su estado procesal o de la existencia de resolución judicial firme, a fin de favorecer su desarrollo integral.
 
 Atendiendo a este principio, el ejercicio de los derechos de los adultos no podrá en ningún momento, ni en ninguna circunstancia, condicionarse o anteponerse a los derechos de la niñez y de la adolescencia.
 
@@ -3782,3 +3784,15 @@ CUARTO.- Los Ayuntamientos del Estado, en el ámbito de sus atribuciones, en un 
 QUINTO.- El Congreso del Estado deberá en un plazo no mayor de 180 días siguientes a la entrada en vigor del presente decreto, establecer en las leyes secundarias los mecanismos, criterios y requisitos para garantizar estos derechos.
 
 SEXTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 3 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 254 POR EL QUE "SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 6o. DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el cumplimiento de lo dispuesto en el presente Decreto, el Estado y los Municipios, en el ámbito de sus respectivas competencias, considerarán de manera progresiva y conforme a la disponibilidad presupuestaria la incorporación de acciones, políticas y programas orientados a la atención integral de niñas, niños y adolescentes en orfandad como consecuencia del delito de feminicidio, mediante las previsiones y, en su caso, adecuaciones que resulten procedentes en sus respectivos presupuestos de egresos, sin afectar el equilibrio presupuestario.
+
+Lo anterior se realizará atendiendo a los principios de universalidad, interdependencia, indivisibilidad y progresividad de los derechos humanos.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarios (sic) del marco normativo local en lo que se opongan al presente decreto.
