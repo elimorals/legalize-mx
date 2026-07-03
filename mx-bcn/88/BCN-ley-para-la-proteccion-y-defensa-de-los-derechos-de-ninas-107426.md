@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-10742
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2026-06-22"
+last_updated: "2026-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2026.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -753,11 +753,11 @@ Niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a 
 
 ### Capítulo Décimo Segundo. Derecho a la Educación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2026)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2026)</small>
 
 ###### Artículo 55.
 
-Las Niñas, niños y adolescentes tienen derecho a una educación de calidad e inclusiva, en un entorno seguro y libre de toda forma de violencia, que contribuya al conocimiento de sus propios derechos y, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana; el desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y demás disposiciones aplicables.
+Las Niñas, niños y adolescentes tienen derecho a una educación de calidad e inclusiva, en un entorno seguro y libre de toda forma de violencia, que contribuya al conocimiento de sus propios derechos y, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana; el desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos, a las libertades fundamentales y la cultura de la paz, en los términos del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación y demás disposiciones aplicables.
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes, en términos de lo previsto por el artículo 103 de la Ley General y esta Ley.
 
@@ -2122,3 +2122,9 @@ P.O. 22 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NO. 286 MEDIANTE EL CUAL “SE APRUEBA LA REFORMA AL ARTÍCULO 48 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 3 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 292 MEDIANTE EL CUAL SE REFORMA AL ARTÍCULO 55 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
