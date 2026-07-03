@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2026-07-02"
+last_updated: "2026-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -2221,9 +2221,9 @@ I. Se elegirán bajo el principio de mayoría relativa:
 
 a) Un Presidente Municipal;
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2026)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
 
-b) Siete regidores y un síndico para el Municipio de Aguascalientes;
+b) Ocho regidores y un síndico para el Municipio de Aguascalientes;
 
 c) Cuatro regidores y un Síndico para los municipios que tengan más de treinta mil habitantes, un año antes del día de la elección; y
 
@@ -4932,3 +4932,19 @@ Las disposiciones en materia de austeridad y uso de recursos públicos se aplica
 ###### ARTÍCULO SEXTO.
 
 Las disposiciones en materia de no reelección y nepotismo electoral contenidas en los artículos 12, fracción II; 18 párrafo primero; 20, fracción VI; 38, fracción VI y 66, párrafos séptimo, décimo primero fracciones V, VI y VII, y 72, serán aplicables a partir del proceso electoral local ordinario correspondiente al año 2030, en términos de las disposiciones transitorias del DECRETO por el que se reforman y adicionan los artículos 55, 59, 82, 115, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de no reelección y nepotismo electoral, publicado en (sic) Diario Oficial de la Federación, Edición Vespertina de fecha 1 de abril de 2025.
+
+P.O. 3 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 554.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La nueva integración del Ayuntamiento del Municipio de Aguascalientes prevista en el presente Decreto será aplicable a partir del proceso electoral local y del periodo constitucional de la administración municipal inmediato siguiente a su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado realizará las adecuaciones que en su caso estime necesarias en materia electoral y municipal, según corresponda.
