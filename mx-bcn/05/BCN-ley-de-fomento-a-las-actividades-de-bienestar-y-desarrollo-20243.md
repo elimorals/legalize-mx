@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-las-actividades-de-bienestar-y-desarrollo-2024
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-02"
-last_updated: "2025-05-13"
+last_updated: "2026-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el día 2 de marzo de 2001.
 
@@ -239,7 +239,9 @@ I. Convocar a las organizaciones que deseen presentar sus proyectos de trabajo, 
 
 II. Inscribir en el Catálogo y otorgar la constancia respectiva, a las organizaciones que cumplan con lo dispuesto en el artículo 6 de esta Ley;
 
-III. Publicar en forma anual en el Periódico Oficial del Estado y en una de los diarios de mayor circulación en la Entidad, el listado de organizaciones que se encuentren registradas en el Catálogo;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2026)</small>
+
+III. Publicar en forma anual en el Periódico Oficial del Estado el listado de organizaciones que se encuentren registradas en el Catálogo;
 
 IV. Elaborar el programa de actividades y destino de los recursos públicos, con base en los proyectos que presenten las organizaciones;
 
@@ -261,19 +263,25 @@ XII. Promover las medidas de simplificación administrativa, que faciliten la re
 
 XIII. Fiscalizar la correcta aplicación de los recursos públicos que con motivo de esta Ley, reciban las organizaciones, en los términos y condiciones que señale el reglamento;
 
-XIV. Sancionar administrativamente a las organizaciones que contravengan lo dispuesto en esta Ley y su Reglamento, notificando inmediatamente al Consejo y a las autoridades competentes, y
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+XIV. Sancionar administrativamente a las organizaciones que contravengan lo dispuesto en esta Ley y su Reglamento, notificando inmediatamente al Consejo y a las autoridades competentes;
 
-XV. Promover un esquema de colaboración con instituciones académicas, para crear un sistema de asesoramiento y cooperación con las Organizaciones, con el fin de que estas últimas puedan participar y tener acceso a recursos de organismos internacionales, tanto públicos como privados.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+XV. Promover un esquema de colaboración con instituciones académicas, para crear un sistema de asesoramiento y cooperación con las Organizaciones, con el fin de que estas últimas puedan participar y tener acceso a recursos de organismos internacionales, tanto públicos como privados;
 
-XVI. Brindar acceso a los jóvenes y estudiantes en las áreas de desarrollo local en el que se desempeñe la Coordinación y las Organizaciones para ampliar su conocimiento y experiencia.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2016)</small>
+XVI. Brindar acceso a los jóvenes y estudiantes en las áreas de desarrollo local en el que se desempeñe la Coordinación y las Organizaciones para ampliar su conocimiento y experiencia;
 
-XVII. Las demás Leyes y reglamentos que (sic) establezcan.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2026)</small>
+
+XVII. Podrá publicar adendas al Catálogo tratándose de atender de manera prioritaria los fenómenos sociales o la agenda pública del Estado; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JULIO DE 2026)</small>
+
+XVIII. Las demás Leyes y reglamentos que establezcan.
 
 ###### ARTICULO 13.
 
@@ -329,7 +337,9 @@ a) Ejercer la partida que para su debido funcionamiento administrativo le asigne
 
 b) Registrar en el Directorio, otorgando la constancia respectiva, a las organizaciones que cumplan con lo dispuesto en el artículo 6 de esta Ley;
 
-c) Publicar en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en la entidad, en forma anual, el listado de organizaciones que integran el directorio;
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
+
+c) Publicar en el Periódico Oficial del Estado, en forma anual, el listado de organizaciones que integran el directorio;
 
 d) Elaborar un programa anual de trabajo;
 
@@ -592,3 +602,9 @@ P.O. 13 DE MAYO DE 2025.
 PRIMERO.- Las presentes reformas entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor de las presentes reformas, se sujetarán a la disponibilidad presupuestal de los ejecutores del gasto responsables para el ejercicio fiscal de su vigencia y subsecuentes.
+
+P.O. 3 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 294 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 12 Y 16 DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
