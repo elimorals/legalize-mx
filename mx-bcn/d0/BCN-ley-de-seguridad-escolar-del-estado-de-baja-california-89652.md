@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-seguridad-escolar-del-estado-de-baja-california-89652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-05"
-last_updated: "2023-12-01"
+last_updated: "2026-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 5 de octubre del 2012.
 
@@ -321,13 +321,17 @@ XII. Promover la colaboración en la vigilancia vecinal tendiente a proteger al 
 
 XIII. Promover la información a la comunidad escolar sobre el uso adecuado de los materiales que existan en el centro escolar que puedan poner en peligro la integridad física del alumnado y prever su manejo adecuado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2026)</small>
 
-XIV. Fomentar la política de cero tolerancia al hostigamiento y acoso sexual; y,
+XIV. Fomentar la política de cero tolerancia al hostigamiento y acoso sexual;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIV], P.O. 1 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2026)</small>
 
-XV. Las demás atribuciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
+XV. Promover entre la comunidad escolar información sobre los riesgos que conlleva la posesión, portación o uso de cualquier tipo de arma de fuego, arma blanca, imitación de éstas o de cualquier objeto prohibido por esta ley; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JULIO DE 2026)</small>
+
+XVI. Las demás atribuciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
 
 ###### Artículo 22.
 
@@ -339,9 +343,11 @@ El funcionamiento de los consejos escolares en materia de seguridad escolar se h
 
 El funcionamiento de los consejos escolares para efectos de esta Ley, será coordinado por la Secretaría, a través de las Subsecretarías, Coordinaciones Generales, así como de las Delegaciones Municipales respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2026)</small>
+
 ###### Artículo 24.
 
-Corresponde al Directivo o al encargado de los centros escolares:
+Corresponde al personal Directivo o al personal responsable de los centros escolares:
 
 I. Propiciar el respeto a la dignidad de los alumnos y el resto de la comunidad escolar;
 
@@ -367,9 +373,17 @@ g) Educación vial;
 
 h) Violencia intrafamiliar;
 
-i) Prevención a conductas contrarias a la armonía en la comunidad escolar, y
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
 
-j) Protección civil.
+i) Prevención a conductas contrarias a la armonía en la comunidad escolar;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2026)</small>
+
+j) Prevención de los riesgos de la posesión, portación o uso de cualquier tipo de arma de fuego, arma blanca, imitación de éstas o de cualquier objeto prohibido por esta ley; y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 3 DE JULIO DE 2026)</small>
+
+k) Protección civil.
 
 V. Contar con un Programa Interno de Protección Civil del centro escolar con base al Programa Escolar de Protección Civil que expida la Dirección de Protección Civil;
 
@@ -405,7 +419,9 @@ II. Promover el respeto a la propiedad pública y privada;
 
 III. Fomentar el compañerismo, los valores, la cultura y el deporte en el centro escolar;
 
-IV. Auxiliar al directivo o responsable del centro escolar, en la implementación de los programas permanentes de concientización, formación e información, que aborden, entre otros, los temas de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JULIO DE 2026)</small>
+
+IV. Auxiliar al personal directivo o personal responsable del centro escolar, en la implementación de los programas permanentes de concientización, formación e información, que aborden, entre otros, los temas de:
 
 a) Prevención de adicciones;
 
@@ -423,9 +439,17 @@ g) Educación vial;
 
 h) Violencia intrafamiliar;
 
-i) Prevención a conductas contrarias a la armonía en la comunidad escolar, y
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2026)</small>
 
-j) Protección civil.
+i) Prevención a conductas contrarias a la armonía en la comunidad escolar;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2026)</small>
+
+j) Prevención de los riesgos de la posesión, portación o uso de cualquier tipo de arma de fuego, arma blanca, imitación de éstas o de cualquier objeto prohibido por esta ley; y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 3 DE JULIO DE 2026)</small>
+
+k) Protección civil.
 
 V. Participar en la elaboración e implementación del Programa Interno de Protección Civil;
 
@@ -455,7 +479,11 @@ El Programa Estatal de Seguridad Escolar es el documento emitido por la Secretar
 
 Asimismo, en el Programa se deben incluir acciones para prevenir, detectar, atender y erradicar el acoso escolar. Del Programa se deriva el Protocolo para Prevenir, Detectar, Atender y Erradicar el acoso escolar, previsto en el artículo 16 de la Ley para Prevenir y Erradicar el Acoso Escolar para el Estado de Baja California.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2026)</small>
+
+De igual forma, el Programa deberá incluir Lineamientos de Actuación para Prevenir, Detectar, Atender y Erradicar la posesión, portación y uso de cualquier tipo de arma de fuego, arma blanca, imitación de éstas o de cualquier objeto prohibido por esta ley, dentro de las instalaciones del centro escolar.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 3 DE JULIO DE 2026)</small>
 
 Las autoridades señaladas en el artículo 7 de esta Ley y los centros escolares se sujetarán a las disposiciones establecidas en el Programa.
 
@@ -601,6 +629,10 @@ V. Situaciones de fenómenos hidrometereológicos (sic), o
 
 VI. Cualquier otra situación análoga a las anteriores que igualmente ponga en riesgo a la comunidad escolar.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2026)</small>
+
+Cuando la persona presunta responsable de alguna de las condiciones señaladas en las fracciones anteriores, en los casos aplicables, sea niña, niño o adolescente, se evitará su discriminación y se garantizará en todo momento su dignidad y la salvaguarda de sus derechos humanos.
+
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
 ###### Artículo 39.
@@ -703,9 +735,11 @@ VI. Los mecanismos alternativos de solución de controversias aplicables entre a
 
 VII. Sanciones a los alumnos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2026)</small>
+
 ###### Artículo 49.
 
-Dentro de las prohibiciones de los alumnos a que se hace referencia en el artículo que antecede, cuando menos deberán de establecerse las siguientes:
+Dentro de las prohibiciones del alumnado, del personal directivo, docente, administrativo y de apoyo, a que se hace referencia en el artículo que antecede, cuando menos deberán de establecerse las siguientes:
 
 I. Faltar al respeto a la comunidad escolar;
 
@@ -717,7 +751,9 @@ IV. Presentarse al centro escolar bajo el influjo de estupefacientes, psicotróp
 
 V. Fumar en el interior del centro escolar;
 
-VI. Portar armas blancas o portar o disparar armas de fuego en el centro escolar o su perímetro exterior, independientemente de las sanciones a que hubiera lugar que se deriven de otros ordenamientos legales aplicables;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2026)</small>
+
+VI. Poseer, portar o usar cualquier tipo de arma de fuego, arma blanca, imitación de éstas o de cualquier objeto prohibido por esta ley en el centro escolar o su perímetro exterior, independientemente de las sanciones a que hubiera lugar que se deriven de otros ordenamientos legales aplicables;
 
 VII. Participar, promover, permitir o tolerar cualquier tipo de juegos de azar y juegos con apuestas en el centro escolar;
 
@@ -832,3 +868,9 @@ P.O. 1 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 315 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 21, 43 Y 53 DE LA LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 295 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 21, 24, 25, 26, 38 Y 49 DE LA LEY DE SEGURIDAD ESCOLAR DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
