@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2025-12-12"
+last_updated: "2026-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2026.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -537,7 +537,9 @@ VII. Gestionar ante las dependencias e instituciones del Estado y los Municipios
 
 VIII. Contribuir a que la persona adulta mayor se mantenga productiva y socialmente integrada; y
 
-IX. Abstenerse de forzar a la persona adulta mayor a realizar actos de mendicidad que atenten contra su dignidad o que impliquen un esfuerzo tal, que vaya en perjuicio de su salud física y mental.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2026)</small>
+
+IX. Abstenerse de obligar, coaccionar o forzar a la persona adulta mayor a realizar actos de mendicidad, trabajos forzados o cualquier actividad que, por su naturaleza, intensidad o condiciones de realización, atente contra su dignidad o ponga en riesgo su integridad física o mental.
 
 ###### Artículo 30.
 
@@ -1238,3 +1240,9 @@ P.O. 12 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 193 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UNA SECCIÓN X DENOMINADA DE LA SECRETARÍA DE CULTURA, ASÍ COMO A LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 3 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 293 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 29 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
