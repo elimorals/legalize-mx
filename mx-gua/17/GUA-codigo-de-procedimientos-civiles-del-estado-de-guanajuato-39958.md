@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "2019-08-01"
+last_updated: "2026-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2026.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -6887,13 +6887,9 @@ El juez hará saber a quienes ejercen la patria potestad o tutela sobre el niño
 
 Cumplidos los requisitos que se exigen en este Capítulo, el juez pronunciará la sentencia que corresponda. Ejecutoriada la resolución judicial que autorice la adopción se remitirá al Oficial del Registro Civil las (sic) constancia en los términos de los artículos 88, 458 y 464 del Código Civil para el Estado de Guanajuato según corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
 ###### Artículo 877.
 
-Cuando el procedimiento se refiera al cambio de la adopción simple a plena que soliciten el adoptante o los adoptantes, el juez citará a los solicitantes y a quien habrá de otorgar su consentimiento en los términos del artículo 464-J del Código Civil para el Estado de Guanajuato, a la audiencia de juicio.
+(DEROGADO, P.O. 3 DE JULIO DE 2026)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7662,3 +7658,11 @@ Procesos de entrega recepción
 Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
 
 El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
+
+P.O. 3 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 198 QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE DEROGA EL ARTÍCULO 877 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
