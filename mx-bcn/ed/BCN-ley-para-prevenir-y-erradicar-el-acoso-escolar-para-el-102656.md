@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-y-erradicar-el-acoso-escolar-para-el-102656"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-19"
-last_updated: "2026-05-15"
+last_updated: "2026-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2026.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de septiembre de 2014.
 
@@ -347,9 +347,9 @@ III. Se entiende por acoso físico indirecto toda acción u omisión que ocasion
 
 IV. Se entiende por acoso verbal toda acción no corporal en la que se emplea el lenguaje, que de manera intencional o no, transgrede la dignidad del o la receptora.
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2026)</small>
 
-V. Se entiende por acoso escolar cibernético el que se produce mediante plataformas virtuales y herramientas tecnológicas para exponer la intimidad del o la menor hacia otras personas con la finalidad de propinar un daño.
+V. Se entiende por acoso escolar cibernético aquel acto que se produce de manera aislada, o de forma repetida y constante a lo largo del tiempo, mediante el uso de tecnologías de la información y la comunicación, como redes sociales, plataformas digitales, mensajería instantánea o cualquier otro medio digital, por parte de un grupo o de una persona en contra de una persona estudiante, con el propósito de hostigar, intimidar, ridiculizar, amenazar, difamar o vulnerar su dignidad.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2024)</small>
 
@@ -766,3 +766,9 @@ P.O. 15 DE MAYO DE 2026.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- En un plazo de seis meses contados a partir de la vigencia del presente Decreto, deberán emitirse las disposiciones reglamentarias conducentes.
+
+P.O. 3 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 296 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 14 DE LA LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
