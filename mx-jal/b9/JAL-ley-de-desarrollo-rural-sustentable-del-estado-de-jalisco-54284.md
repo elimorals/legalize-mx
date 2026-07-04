@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2026-06-02"
+last_updated: "2026-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2026.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -445,7 +445,9 @@ XXIII. Organizar y atender el servicio de extensión agropecuaria, con el apoyo 
 
 XXIV. Participar en la formulación, vigilancia y cumplimiento de las Normas Oficiales Mexicanas relacionadas con la calidad de los productos y subproductos agropecuarios;
 
-XXV. Promover y apoyar los proyectos productivos rurales procurando dar prioridad a los de los pueblos indígenas, mujeres, jóvenes y personas con capacidades distintas;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2026)</small>
+
+XXV. Promover y apoyar los proyectos productivos rurales procurando dar prioridad a los de los pueblos indígenas, mujeres, jóvenes y personas con discapacidad, así como impulsar proyectos de agroforestería y silvicultura sostenible en las regiones con vocación agrícola y forestal, con el objetivo de elevar el ingreso de los productores, conservar los ecosistemas y fomentar una producción responsable y sustentable;
 
 XXVI. Realizar y mantener actualizados los estudios técnicos sobre aptitud productiva, clasificación de recursos y regionalización;
 
@@ -1738,3 +1740,9 @@ P.O. 2 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 30169/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 2 DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO, ASÍ COMO LOS ARTÍCULOS 16 Y 22 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30174/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 22 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
