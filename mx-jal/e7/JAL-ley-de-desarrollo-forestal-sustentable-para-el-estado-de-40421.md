@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-40421"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-20"
-last_updated: "2024-10-31"
+last_updated: "2026-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 20 de julio de 2004.
 
@@ -209,7 +209,9 @@ VIII. Promover y participar, en coordinación con la Federación y los Municipio
 
 IX. Realizar y supervisar las labores de conservación, protección y restauración de los terrenos forestales;
 
-X. Elaborar y aplicar de forma coordinada con la Federación y los Municipios programas de reforestación y forestación en zonas degradadas, así como llevar a cabo acciones de protección y mantenimiento de los recursos forestales.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2026)</small>
+
+X. Elaborar y aplicar de forma coordinada con la Federación y los Municipios programas de reforestación, forestación y restauración de ecosistemas en zonas degradadas, privilegiando el uso de especies nativas y la implementación de prácticas agroforestales sostenibles, así como llevar a cabo acciones de protección y mantenimiento de los recursos forestales;
 
 XI. Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal en el Estado, de conformidad con esta Ley y la política nacional forestal;
 
@@ -1232,3 +1234,9 @@ DÉCIMO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tan
 DÉCIMO PRIMERO. El Titular del Poder Ejecutivo, deberá aprobar y publicar las disposiciones reglamentarias necesarias para la correcta conformación y operación de las dependencias que conforman la Administración Pública Centralizada en los términos del presente Decreto.
 
 En el caso de la Secretaría de Seguridad y de la Fiscalía del Estado, sus reglamentos deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
+
+P.O. 4 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30175/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 8 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
