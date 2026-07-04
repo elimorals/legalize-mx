@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2026-05-30"
+last_updated: "2026-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2026.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -2292,6 +2292,10 @@ I. Se exceda el gasto de campaña en un cinco por ciento del monto total autoriz
 II. Se compre cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley; o
 
 III. Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2026)</small>
+
+IV. Se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales.
 
 Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia de la votación obtenida entre el primero y el segundo lugares sea menor al cinco por ciento.
 
@@ -4742,3 +4746,11 @@ QUINTO. El monto del presupuesto anual del Congreso del Estado únicamente podr�
 No podrán aprobar ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas o cualquier otro mecanismo que tenga por objeto o efecto incrementar directamente el presupuesto del Congreso local por encima del límite previsto en la fracción III del artículo 35 de esta constitución.
 
 SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 336.- POR EL QUE SE ADICIONA UNA FRACCIÓN IV AL APARTADO B DEL ARTÍCULO 86 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+Segundo.- El Instituto Electoral del Estado de Colima y el Tribunal Electoral del Estado de Colima revisarán y adecuarán sus disposiciones normativas y administrativas para garantizar el cumplimiento de lo previsto en el presente Decreto.
