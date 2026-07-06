@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2026-06-10"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -568,6 +568,12 @@ La Secretaría llevará el registro de las zonas de desarrollo turístico susten
 ###### ARTÍCULO 35.
 
 La Secretaría podrá celebrar convenios de cooperación con las instituciones educativas y de investigación, así como con otros organismos privados, para el desarrollo de programas de protección, conservación, mejoramiento y rehabilitación de las áreas y zonas de desarrollo turístico.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+ARTÍCULO 35 BIS.
+
+La Secretaría de Turismo del Estado, en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente y los municipios, promoverá acciones de reconocimiento, difusión y fortalecimiento de buenas prácticas ambientales en destinos turísticos del Estado, relacionadas con la limpieza de espacios públicos, reciclaje, manejo adecuado de residuos y protección de ecosistemas, conforme a la disponibilidad operativa, administrativa y presupuestal de las autoridades competentes, así como a los lineamientos que, en su caso, emitan las instancias correspondientes.
 
 ### CAPÍTULO II. ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE LOCAL
 
@@ -1601,16 +1607,10 @@ P.O. 10 DE JUNIO DE 2026.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 561.- SE REFORMAN LOS ARTÍCULOS 14, PÁRRAFO SEGUNDO; 103 FRACCIÓN IV; 110 FRACCIONES V, VI Y XII; 112 PRIMER PÁRRAFO, Y LAS FRACCIONES XXI Y XXII, ARTÍCULO 119 PRIMER PÁRRAFO, Y LAS FRACCIONES V Y XVII; ARTÍCULO 122 PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO; 132; Y SE ADICIONAN LAS FRACCIONES XXIII Y XXIV AL ARTÍCULO 112; UN CUARTO PÁRRAFO AL ARTÍCULO 118; EL ARTÍCULO 123 A DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+P.O. 6 DE JULIO DE 2026.
 
-PRIMERO.- El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-SEGUNDO.- Las autoridades competentes contarán con un plazo de 180 días naturales para hacer las adecuaciones normativas correspondientes.
-
-P.O. 14 DE JUNIO DE 2021.
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1134 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 35 BIS A LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 12 DE JUNIO DE 2023.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
