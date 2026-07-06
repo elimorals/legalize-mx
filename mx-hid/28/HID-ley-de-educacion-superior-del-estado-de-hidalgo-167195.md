@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-superior-del-estado-de-hidalgo-167195"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-03"
-last_updated: "2026-01-07"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Alcance Catorce del Número 31 del Periódico Oficial del Estado de Hidalgo, el jueves 3 de agosto de 2023.
 
@@ -648,6 +648,14 @@ En el cumplimiento de este artículo se atenderán las necesidades y contextos r
 ###### Artículo 35.
 
 Para contribuir al fortalecimiento de la gestión, organización y administración de las escuelas normales, estarán adscritas a un Instituto Coordinador de Escuelas Normales, bajo la modalidad de organismo descentralizado de la administración pública de la Entidad con autonomía técnica, administrativa y de gestión, con personalidad jurídica y patrimonio propios. Este organismo estará sectorizado a la Secretaría y tendrá como objeto planear, dirigir, coordinar, vigilar y evaluar a las instituciones educativas de educación normal en la Entidad, con sujeción a las disposiciones que la Autoridad Educativa Federal determine en cuanto a los planes y programas de estudio, sin contravenir lo acordado con la Federación en relación a los recursos presupuestales que siga aportando para el pago del salario de sus trabajadores y su operación en términos de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+El Instituto Coordinador de Escuelas Normales fomentará la cooperación y colaboración con instituciones de educación superior, centros de investigación, organismos públicos y privados, y organizaciones de la sociedad civil, tanto a nivel nacional como internacional, con el propósito de impulsar la innovación educativa, la profesionalización docente y la mejora continua de las prácticas formativas.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+Asimismo, promoverá y coadyuvará en la creación e implementación de programas de movilidad académica nacional e internacional, conforme a los criterios establecidos por la autoridad educativa federal.
 
 ###### Artículo 36.
 
@@ -1476,5 +1484,11 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 P.O. 7 DE ENERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 390 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 39 DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO, EN MATERIA DE PROGRAMAS DE DESARROLLO SOCIOEMOCIONAL Y MANEJO DE EMOCIONES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 654 - LXVI POR EL QUE SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 35 DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO, EN MATERIA DE INNOVACIÓN, PROFESIONALIZACIÓN Y MOVILIDAD ACADÉMICA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
