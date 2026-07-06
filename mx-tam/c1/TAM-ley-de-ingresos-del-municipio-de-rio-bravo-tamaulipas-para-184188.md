@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-municipio-de-rio-bravo-tamaulipas-para-1841
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-26"
-last_updated: "2025-12-26"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE INGRESOS DEL MUNICIPIO DE RÍO BRAVO, TAMAULIPAS, PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Extraordinario Número 64 del Periódico Oficial del Estado de Tamaulipas, el viernes 26 de diciembre de 2025.
 
@@ -1279,11 +1279,11 @@ e) En bardas de hasta 40 metros lineales: 15% de un UMA, por metro o fracción;
 
 f) En bardas de más de 40 metros lineales: 20% de un UMA, por cada metro o fracción;
 
-g) Antenas para telefonía celular, por cada una: 1,138 UMA´s;
+g) (DEROGADO, P.O. 6 DE JULIO DE 2026)
 
-h) Antenas para servicio de Internet, por cada una: 68 UMA´s;
+h) (DEROGADO, P.O. 6 DE JULIO DE 2026)
 
-i) Antenas de radiocomunicación privadas, por cada 30 metros lineales de altura o fracción: 7.5 UMA´s;
+i) (DEROGADO, P.O. 6 DE JULIO DE 2026)
 
 j) En pisos o banquetas para estacionamientos de empresas o comercios superiores a 20 m², un 40% UMA por metro cuadrado o fracción.
 
@@ -1985,23 +1985,7 @@ XV. Sanciones por transgredir las disposiciones reglamentarias municipales vigen
 
 2. Por faltas cometidas por empresas o promotores: 30 hasta 100 UMA´s.
 
-XVI. Sanciones por contravenir las disposiciones en relación a las estructuras de construcción y funcionamiento de telecomunicaciones:
-
-1. Por instalar estructuras para sistemas de telecomunicaciones sin licencia municipal, independientemente de su clausura y retiro con cargo al infractor, se impondrá una multa, de: 100 a 150 UMA´s.
-
-2. Por instalar estructuras para sistemas de telecomunicaciones en zonas prohibidas, independientemente de su clausura y retiro con cargo al infractor, se impondrá una multa, de: 100 a 150 UMA´s.
-
-3. Por falsedad de datos en la realización de los trámites administrativos referentes a las estructuras para sistemas de telecomunicaciones, independientemente de su clausura y retiro con cargo al infractor, se impondrá una multa, de: 100 a 150 UMA´s.
-
-4. Por no mantener en buen estado físico y en condiciones de seguridad las estructuras portantes de las antenas y demás instalaciones, independientemente de su clausura y retiro con cargo al infractor, se impondrá una multa, de: 100 a 150 UMA´s.
-
-5. Por colocar cualquier tipo de publicidad en la estructura o en la antena, independientemente de su clausura y retiro de la publicidad con cargo al infractor, se impondrá una multa, de: 100 a 150 UMA´s.
-
-6. Por carecer la estructura de la placa de identificación de la persona física o jurídica que la instale o rente, se impondrá una multa, de: 40 a 60 UMA´s.
-
-7. Por la falta de licencia para la colocación de estructuras que tengan carácter de uso privado y que rebasen una altura de 5 metros, independientemente de su retiro con cargo al infractor, se impondrá una multa, de: 75 a 125 UMA´s.
-
-8. Por colocar más de una estructura que tenga carácter de uso privado en una finca o negocio, independientemente de su clausura y retiro, se impondrá una multa, de: 75 a 125 UMA´s.
+XVI. (DEROGADA, P.O. 6 DE JULIO DE 2026)
 
 #### SECCIÓN TERCERA. APROVECHAMIENTOS NO COMPRENDIDOS EN LAS FRACCIONES DE LA LEY DE INGRESOS, CAUSADAS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
 
@@ -2230,3 +2214,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los quince días del mes de diciembre del año dos mil veinticinco.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1143 MEDIANTE EL CUAL SE DEROGAN LOS INCISOS G), H) E I) DE LA FRACCIÓN V, DEL ARTÍCULO 38; Y LA FRACCIÓN XVI DEL ARTÍCULO 65 DE LA LEY DE INGRESOS DEL MUNICIPIO DE RÍO BRAVO, TAMAULIPAS, PARA EL EJERCICIO FISCAL DEL AÑO 2026".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
