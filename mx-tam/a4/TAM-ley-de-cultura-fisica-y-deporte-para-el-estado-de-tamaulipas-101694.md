@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2026-05-27"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -1329,6 +1329,14 @@ II. Cumplir con las indicaciones señaladas por el organizador, mismas que deber
 
 Los deportistas, entrenadores, técnicos, directivos y demás personas que interactúen con niñas, niños, adolescentes y jóvenes, en el ámbito de la disciplina deportiva, tendrán que omitir en todo momento el trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizante y de menosprecio, así como cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación, durante los entrenamientos y/o prácticas deportivas. Asimismo, deberán actuar conforme a las disposiciones y lineamientos que emita la Comisión Especial para prevenir y erradicar la violencia en el deporte, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Estatales y Municipales respectivas.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+ARTÍCULO 101 BIS.
+
+1. Las personas que funjan como entrenadores, instructores o personal técnico que participen en procesos de formación, preparación y acompañamiento deportivo, tendrán la obligación de salvaguardar en todo momento la dignidad, la salud, así como la integridad física, psicológica y emocional de las y los deportistas bajo su cargo.
+
+2. El incumplimiento de lo dispuesto en el presente artículo será sancionado conforme a lo establecido en esta Ley, su Reglamento y demás ordenamientos aplicables. Corresponde al Instituto, en coordinación con la Comisión Estatal Contra la Violencia en el Deporte, supervisar y aplicar las medidas necesarias para su debido cumplimiento.
+
 ###### ARTÍCULO 102.
 
 1. Los integrantes del Sistema, podrán revisar continuamente sus disposiciones reglamentarias y estatutarias a fin de promover y contribuir a controlar los factores que puedan provocar estallidos de violencia por parte de deportistas y espectadores.
@@ -1682,6 +1690,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 27 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-1060 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1135 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 101 BIS A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS, RELATIVO A LA PROTECCIÓN DE DEPORTISTAS".]
 
 ###### ARTÍCULO ÚNICO.
 
