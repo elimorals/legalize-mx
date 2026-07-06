@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2026-04-14"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -761,13 +761,13 @@ Los Ayuntamientos, en caso de emergencia nacional o estatal de carácter sanitar
 
 En las reuniones a distancia, se podrá hacer uso de la firma electrónica para firmar los acuerdos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2026)</small>
 
-ARTÍCULO 49 BIS. Quienes integran los ayuntamientos tienen la obligación de asistir con toda puntualidad a las sesiones que celebre el Ayuntamiento, tanto en Pleno como en comisiones, cuando hayan sido convocados previamente para tal efecto, salvo causa justificada, la cual comunicarán oportunamente a la persona titular de la Presidencia Municipal.
+ARTÍCULO 49 BIS. Las personas que integran los ayuntamientos tienen la obligación de asistir con toda puntualidad y permanecer durante el desarrollo de las sesiones que celebre el Ayuntamiento, en Pleno y en comisiones, cuando hayan sido convocadas previamente, salvo causa justificada, la cual comunicarán oportunamente a la persona titular de la Presidencia Municipal o a quien presida la comisión respectiva.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2026)</small>
 
-La persona titular de la presidencia del ayuntamiento convocará por escrito a las sesiones del órgano de gobierno, debiendo ajuntar (sic) los documentos que sirvan de soporte a los asuntos que se abordarán en la sesión.
+La persona titular de la Presidencia Municipal o quien presida una comisión, convocará por escrito o por medios electrónicos a quienes integran el ayuntamiento a las sesiones del órgano de gobierno, o de la comisión de la cual formen parte, debiendo adjuntar los documentos que sirvan de soporte a los asuntos que se abordarán en la sesión.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
@@ -5384,3 +5384,9 @@ P.O. 14 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 604 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL ARTÍCULO 71 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE COMISIÓN DE ASUNTOS INTERMUNICIPALES Y METROPOLITANOS".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 655 – LXVI POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 49 BIS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE SESIONES DEL AYUNTAMIENTO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
