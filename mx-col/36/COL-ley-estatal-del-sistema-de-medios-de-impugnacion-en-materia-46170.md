@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-del-sistema-de-medios-de-impugnacion-en-materia-461
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-31"
-last_updated: "2020-07-13"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Colima, el miércoles 31 de agosto de 2005.
 
@@ -303,13 +303,13 @@ No requerirán de notificación personal y surtirán sus efectos al día siguien
 
 Serán partes en el procedimiento para tramitar los medios de impugnación en materia electoral:
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
 
-I.- El actor, que será el partido político, precandidato, candidato, candidato independiente, ciudadano o militante que lo interponga, debiendo observar las reglas de legitimación previstas en esta LEY;
+I.- La parte actora que será el partido político, agrupación política, persona precandidata, candidata, candidata independiente, ciudadana o militante que lo interponga, debiendo observar las reglas de legitimación previstas en esta LEY;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
 
-II.- La autoridad responsable, que es el organismo electoral o el partido político en su caso, que haya realizado el acto o resolución que se impugna; y
+II.- La autoridad u órgano partidista responsable, en su caso, que haya realizado el acto o resolución que se impugna; y
 
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -319,13 +319,17 @@ III.- El tercero interesado, que será el ciudadano, partido político, precandi
 
 IV.- El Instituto Político responsable, que es el PARTIDO POLÏTICO que emitió el acto de expulsión la inhabilitación respectiva o bien determinó la anulación de un proceso interno.
 
-### CAPÍTULO VI. De las reglas del procedimiento para la tramitación de los recursos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2011)</small>
+### CAPÍTULO VI
+
+De las reglas del procedimiento para la tramitación de los medios de impugnación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2026)</small>
 
 ###### Artículo 21.
 
-Los medios de impugnación deberán presentarse por escrito ante la autoridad señalada como responsable del acto o resolución impugnada, salvo disposición en contrario por la LEY, y deberán cumplir con los siguientes requisitos:
+Los medios de impugnación que establece esta Ley, deberán presentarse por escrito y cumplir con los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
 
@@ -361,25 +365,31 @@ La omisión al requisito señalado en la fracción V de este artículo no dará 
 
 En caso de incumplimiento de los presupuestos procesales señalados en las fracciones II y III de este artículo, se requerirá al promovente para que en un plazo de 24 horas subsane la omisión respectiva; en caso de no hacerlo, se tendrá por no interpuesto el medio de impugnación. El desistimiento de la acción, presentado por el promovente antes de la admisión, traerá como consecuencia la no presentación del medio de impugnación respectivo.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2026)</small>
 
 ###### Artículo 22.
 
-Los recursos de revisión y apelación se interpondrán ante el órgano del INSTITUTO que realizó el cómputo o que dictó el acto o resolución que se impugna. Los juicios de inconformidad y para la defensa ciudadana electoral, se presentarán ante el TRIBUNAL.
+Los Medios de Impugnación se interpondrán ante la autoridad u órgano partidista que realizó el acto o resolución que se impugna.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+Artículo 22 BIS.- Si el Tribunal Electoral recibe un escrito por el que se promueva un medio de impugnación, de inmediato remitirá copia certificada de la demanda y sus anexos a la autoridad u órgano partidista señalado como responsable, requiriéndosele para que dentro del plazo de 24 horas realice el trámite indicado por el artículo 23 y remita la documentación a la que se refieren las fracciones II y V del artículo 24 de la presente LEY.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2026)</small>
 
 ###### Artículo 23.
 
-El órgano del INSTITUTO que reciba un recurso de revisión, o apelación, lo hará del conocimiento público mediante cédula que fijará en los estrados, dentro de las 24 horas siguientes a su recepción.
+La autoridad u órgano partidista, según sea el caso, que reciba un medio de impugnación que se promueva en contra de sus propios actos o resoluciones, lo hará del conocimiento público mediante cédula que fijará en los estrados, dentro de las 24 horas siguientes a su recepción.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2026)</small>
 
-Los representantes de los partidos políticos, candidatos independientes o coadyuvantes terceros interesados, podrán presentar los escritos que consideren pertinentes dentro de las 72 horas siguientes a la fijación de la cédula respectiva.
+Las personas representantes de los partidos políticos, personas candidatas o coadyuvantes terceros interesados, podrán presentar los escritos que consideren pertinentes dentro de las 72 horas siguientes a la fijación de la cédula respectiva.
 
 Los escritos mencionados en el párrafo anterior deberán cumplir con los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
 
-I.- Hacer constar el nombre del partido político o candidato independiente que lo presenta y su domicilio para recibir notificaciones. Si el promovente omite señalar domicilio para recibir notificaciones, éstas se practicarán por estrados;
+I.- Hacer constar el nombre del partido político o persona candidata.
 
 II.- Exhibir los documentos que acrediten la personería del promovente, en caso de que no la tuviera reconocida ante el órgano electoral competente;
 
@@ -397,17 +407,23 @@ V.- Hacer constar el nombre y la firma autógrafa del promovente, pudiendo autor
 
 VI.- En su caso, la dirección de correo electrónico para recibir notificaciones.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+Cuando la autoridad u órgano partidista, según sea el caso, reciba un medio de impugnación que combata un acto o resolución que no le es propio, lo remitirá de inmediato sin trámite adicional alguno al Órgano del INSTITUTO o al TRIBUNAL competente para tramitarlo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2026)</small>
+
 ###### Artículo 24.
 
-Una vez que se cumpla el plazo a que se refiere el artículo anterior, el órgano del INSTITUTO que reciba un recurso de revisión o apelación, deberá hacer llegar al CONSEJO GENERAL o al TRIBUNAL, dentro de las 24 horas siguientes:
+Una vez que se cumpla el plazo a que se refiere el artículo anterior, la autoridad u órgano partidista señalado como responsable que reciba un medio de impugnación, deberá hacer llegar al TRIBUNAL o al CONSEJO GENERAL, en el caso del recurso de revisión, dentro de las 24 horas siguientes:
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
 
 I.- El escrito mediante el cual se interpone, así como los escritos de los coadyuvantes, en su caso.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
 
-II.- La copia del documento en que conste el acto o resolución impugnados.
+II.- La copia del documento en que conste el acto o resolución impugnados; y la demás documentación relacionada y pertinente que obre en su poder;
 
 III.- Las pruebas aportadas;
 
@@ -433,41 +449,35 @@ Si el Consejo Municipal que remitió el recurso omitió algún requisito, el Sec
 
 En todo caso, el recurso deberá resolverse con los elementos con que se cuente, a más tardar 10 días contados a partir de su admisión.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2026)</small>
 
 ###### Artículo 26.
 
-Recibido el recurso de apelación por el TRIBUNAL, inmediatamente dictará auto de radicación. Acto seguido, el Secretario General de Acuerdos, dentro de las 24 horas siguientes a su recepción, certificará si se interpuso en tiempo y supervisará si reúne los requisitos señalados en esta LEY, integrándolo debidamente.
+Recibido el medio de impugnación por el TRIBUNAL, inmediatamente dictará auto de radicación. Acto seguido, la persona titular de la Secretaría General de Acuerdos, dentro de las 24 horas siguientes a su recepción, certificará si se interpuso en tiempo y supervisará si reúne los requisitos señalados en esta LEY, integrándolo debidamente.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
 
 Posteriormente, si de la revisión que realice el Secretario General de Acuerdos, se encuentra que el recurso es evidentemente frívolo o encuadra en alguna de las causales de improcedencia a que se refiere el artículo 32 de esta LEY o, en su caso, si se han cumplido todos los requisitos, éste procederá a formular el proyecto de resolución de admisión o desechamiento correspondiente, mismo que será sometido a la decisión del PLENO.
 
-Una vez admitido el recurso de apelación, el Secretario General de Acuerdos integrará hasta ese momento el expediente correspondiente, comunicándolo así al Magistrado Presidente para que éste lo turne al Magistrado designado como ponente y, auxiliado del proyectista del TRIBUNAL, presente un proyecto de resolución a fin de que lo someta a la decisión del PLENO dentro del término establecido para su resolución.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2026)</small>
 
-El Magistrado ponente, en coordinación con el Presidente del TRIBUNAL, realizará todos los actos y diligencias necesarias para la completa y debida integración del o los expedientes del recurso de apelación, de manera que los ponga en estado de resolución, con lo que se entenderá cerrada la instrucción, recayendo al efecto el acuerdo correspondiente que firmará el Presidente y el Secretario General de Acuerdos.
+Una vez admitido el medio de impugnación, la persona titular de la Secretaría General de Acuerdos integrará hasta ese momento el expediente correspondiente, comunicándolo así a la Magistratura Titular de la Presidencia para que esta lo turne a la Magistratura designada como ponente y, auxiliada de la persona proyectista del TRIBUNAL, presente un proyecto de resolución a fin de que lo someta a la decisión del PLENO dentro del término establecido para su resolución.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2026)</small>
 
-El TRIBUNAL dispondrá de 15 días, contados a partir del día siguiente al en que se dicte la resolución de admisión, para substanciar y resolver este recurso.
+La Magistratura ponente, en coordinación con la Magistratura Titular de la Presidencia del TRIBUNAL, realizará todos los actos y diligencias necesarias para la completa y debida integración del o los expedientes relacionados con el medio de impugnación, de manera que los ponga en estado de resolución, con lo que se entenderá cerrada la instrucción, recayendo al efecto el acuerdo correspondiente que firmará la Magistratura Titular de la Presidencia y la persona titular de la Secretaría General de Acuerdos.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2026)</small>
+
+El TRIBUNAL dispondrá de 15 días, contados a partir del día siguiente al en que se dicte la resolución de admisión, para substanciar y resolver los medios de impugnación que regula esta ley.
 
 ###### Artículo 27.
 
-Para la tramitación del juicio de inconformidad, una vez que el TRIBUNAL reciba el escrito de interposición, inmediatamente dictará auto de radicación. Acto seguido el Secretario General de Acuerdos, dentro de las 24 horas siguientes a su recepción, deberá revisar que reúna todos los requisitos señalados en la presente LEY.
-
-Si de la revisión que realice el Secretario General de Acuerdos encuentra que el juicio encuadra en alguna de las causales de improcedencia a que se refiere el artículo 32 de esta LEY o que es evidentemente frívolo, someterá desde luego, a la consideración del PLENO, la resolución para su desechamiento.
-
-Si el juicio reúne todos los requisitos, el Secretario General de Acuerdos formulará el proyecto de resolución de admisión correspondiente, mismo que será sometido al PLENO. Con la resolución de admisión, se solicitará a la autoridad responsable el informe circunstanciado correspondiente, mismo que deberá de emitirlo en los términos de la fracción V, del artículo 24 de esta LEY, dentro de las 24 horas siguientes al momento en que haya sido formalmente notificada la solicitud respectiva.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+(DEROGADO, P.O. 6 DE JULIO DE 2026)
 
 ###### Artículo 28.
 
-Una vez admitido el juicio de inconformidad, el Secretario General de Acuerdos integrará hasta ese momento el expediente correspondiente, comunicándolo así al Magistrado Presidente para que éste lo turne al Magistrado designado como ponente y, auxiliado del proyectista respectivo, presente un proyecto de resolución a fin de que lo someta a la decisión del PLENO dentro del término establecido para su resolución.
-
-El Magistrado ponente, en coordinación con el Presidente del TRIBUNAL, realizará todos los actos y diligencias necesarias para la completa y debida integración del o los expedientes del juicio de inconformidad, de manera que los ponga en estado de resolución, con lo que se entenderá cerrada la instrucción, recayendo al efecto el acuerdo correspondiente, que deberán firmar el Presidente del Tribunal y el Secretario General de Acuerdos.
-
-EL TRIBUNAL dispondrá de 10 días, contados a partir del día siguiente al en que se dicte la resolución de admisión, para substanciar y resolver este juicio.
+(DEROGADO, P.O. 6 DE JULIO DE 2026)
 
 ###### Artículo 29.
 
@@ -1047,19 +1057,9 @@ VII.- (DEROGADA, P.O. 31 DE AGOSTO DE 2008)
 
 ### CAPÍTULO V. De la substanciación
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
-
 ###### Artículo 66.
 
-Una vez recibido el escrito por el que se promueva juicio para la defensa ciudadana electoral por el TRIBUNAL, inmediatamente se dictará auto de radicación. Acto seguido, el Secretario General de Acuerdos, dentro de las 24 horas siguientes a su recepción, deberá revisar que reúne todos los requisitos señalados en la presente LEY y se analice si se actualiza alguna causal de improcedencia, para que con posterioridad, dicho funcionario realice el proyecto de resolución de admisión o desechamiento correspondiente y lo someta a la consideración del PLENO.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
-
-Asimismo, el funcionario en mención, dentro del término antes establecido, fijará cédula de publicitación en los estrados del TRIBUNAL, a efecto de que en un término de 72 horas contadas a partir de la fijación de la cédula correspondiente, los terceros interesados comparezcan al juicio.
-
-Admitido este medio de impugnación, el Secretario General de Acuerdos integrará hasta ese momento el expediente correspondiente, comunicándolo así al Magistrado Presidente para que éste lo turne al Magistrado designado como ponente y, auxiliado del proyectista respectivo, presente un proyecto de resolución a fin de que lo someta a la decisión del PLENO dentro del término establecido para su resolución.
-
-El Magistrado ponente, en coordinación con el Presidente del TRIBUNAL, realizará todos los actos y diligencias necesarias para la completa y debida integración del o los expedientes del Juicio para la defensa ciudadana electoral, de manera que los ponga en estado de resolución, con lo que se entenderá cerrada la instrucción, recayendo al efecto el acuerdo correspondiente, que firmará el Secretario General de Acuerdos y el Magistrado Presidente.
+(DEROGADO, P.O. 6 DE JULIO DE 2026)
 
 ### CAPÍTULO VI. De la sentencia
 
@@ -1284,3 +1284,9 @@ SEGUNDO. La Fiscalía General del Estado de Colima deberá crear la base estadí
 TERCERO. El Consejo General del Instituto Electoral del Estado, deberá emitir los lineamientos para prevenir, atender y erradicar la violencia política contra las mujeres por razón de género, antes del inicio del periodo de precampañas del Proceso Electoral Local 2020-2021, de conformidad con la reforma aprobada al artículo 114, fracción VIII, del Código Electoral del Estado de Colima, en términos del presente Decreto.
 
 CUARTO. Los Partidos Políticos deberán crear los mecanismos internos para prevenir, sancionar y erradicar la violencia política contra las mujeres por razón de género, antes del inicio del periodo de precampañas del Proceso Electoral Local 2020-2021, de conformidad con la reforma aprobada al artículo 51, fracción I, del Código Electoral del Estado de Colima, en términos del presente Decreto.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 342.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
