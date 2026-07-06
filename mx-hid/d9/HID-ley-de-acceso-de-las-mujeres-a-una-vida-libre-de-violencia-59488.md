@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2026-04-22"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -299,7 +299,9 @@ X. Violencia moral: Es toda acción u omisión encaminada a la vejación, sarcas
 
 XI. Violencia digital: Es cualquier acto doloso realizado a través del uso de las Tecnologías de la Información y la Comunicación que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño tanto en el ámbito privado como en el público, en su imagen propia; así como daño moral a ellas y/o su familia.
 
-Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos y por las que se divulguen, expongan, distribuyan, difundan, exhiban, transmitan, comercialicen, oferten, intercambien o compartan información apócrifa, mensajes de odio, difusión sin su consentimiento, sin su aprobación o sin su autorización de textos, imágenes, audios o videos reales o simulados de contenido intimo sexual, erótico o pornográfico, de una persona y/o datos personales u otras impresiones verdaderas o alteradas.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2026)</small>
+
+Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos y por las que se divulguen, expongan, distribuyan, difundan, exhiban, transmitan, comercialicen, oferten, intercambien o compartan información apócrifa, mensajes de odio, datos personales, difusión sin su consentimiento, sin su aprobación o sin su autorización de textos, imágenes, audios o videos reales o simulados de contenido intimo sexual, erótico o pornográfico, de una persona y/o datos personales u otras impresiones verdaderas o alteradas. Asimismo comprende la suplantación de identidad y cualquier otra conducta que tenga por objeto el control, acoso o menoscabo de los derechos de las mujeres.
 
 Para efectos del presente Capítulo se entenderá por Tecnologías de la información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos
 
@@ -2564,5 +2566,11 @@ P.O. 26 DE DICIEMBRE DE 2025.
 P.O. 22 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 610 – LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN XI QUINQUIES AL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE VIOLENCIA ESTÉTICA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 658 - LXVI POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XI DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE VIOLENCIA DIGITAL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
