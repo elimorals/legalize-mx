@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2026-06-26"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1151,13 +1151,55 @@ V.- La participación en el establecimiento de mecanismos idóneos para la deter
 
 VI.- La sistematización, recopilación y actualización de la información necesaria para el seguimiento de las actividades desarrolladas en la materia.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2026)</small>
+
+### CAPITULO VI BIS. DE LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA OBSTÉTRICA
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+ARTICULO 37 BIS.- Se considera violencia obstétrica toda acción u omisión del personal, las instituciones y/o los servicios de salud, públicos o privados, que durante el embarazo, parto, posparto o puerperio, provoque daño físico o psicológico, denigre, discrimine, limite la capacidad de decisión de la mujer, implique la realización de procedimientos sin su consentimiento informado, la imposición de prácticas de medicalización innecesaria, la negación de apoyo emocional o el retiro del acompañante sin causa justificada, así como la separación del recién nacido sin motivo clínico.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+ARTICULO 37 TER.- Se reconoce que toda mujer tiene derecho a recibir una atención respetuosa, segura y basada en evidencia científica, a la información comprensible y oportuna, a otorgar o negar su consentimiento de manera libre y voluntaria, a ser acompañada durante el proceso del parto y a que se respete su integridad, intimidad y confidencialidad profesional.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+ARTICULO 37 QUATER.- Las instituciones y el personal de salud, deberán garantizar el cumplimiento del consentimiento informado como proceso continuo, ofrecer alternativas de atención que privilegien el menor intervencionismo compatible con la seguridad clínica, permitir el acompañamiento de la persona de confianza, abstenerse de prácticas coercitivas o denigrantes y registrar debidamente en el expediente clínico las decisiones, procedimientos y motivos clínicos que se adopten.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+ARTICULO 37 QUINQUIES.- Se prohíbe expresamente la realización de procedimientos obstétricos sin consentimiento, la utilización de lenguaje humillante o denigrante, la negación injustificada de alivio del dolor, la separación del recién nacido sin causa médica, la realización de intervenciones de reparación tisular sin anestesia adecuada cuando corresponda, y cualquier práctica que implique trato degradante hacia la mujer.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+ARTICULO 37 SEXIES.- La Secretaría emitirá, en coordinación con autoridades competentes, los protocolos técnicos para la atención respetuosa del embarazo, parto y puerperio, los cuales deberán encontrarse armonizados con las Normas Oficiales Mexicanas aplicables y deberán incluir herramientas de consentimiento informado, manejo del dolor, criterios de intervención obstétrica y rutas de remisión y contra referencia.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+ARTICULO 37 SEPTIES.- Las instituciones de salud públicas y privadas deberán garantizar procesos permanentes de capacitación en parto humanizado, perspectiva de género, derechos humanos y comunicación empática para el personal que participe en la atención obstétrica, bajo los esquemas de actualización y mejora continua que establezca la Secretaría.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+ARTICULO 37 OCTIES.- Se crea un mecanismo institucional accesible para la recepción de quejas por posibles casos de violencia obstétrica, que deberá garantizar atención inmediata, confidencialidad y medidas de protección a la víctima; la Secretaría coordinará la investigación administrativa cuando corresponda y dará vista a las autoridades competentes para la imposición de sanciones.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+ARTICULO 37 NONIES.- La atención, prevención y seguimiento de la violencia obstétrica se desarrollará en coordinación con la Secretaría, el Sistema para el Desarrollo Integral de la Familia, la Procuraduría de Protección de Niñas, Niños y Adolescentes y el Instituto de la Mujer en Tamaulipas, para asegurar una respuesta integral, humanista y cercana a las mujeres que así lo requieran.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+ARTICULO 37 DECIES.- La Secretaría establecerá indicadores y reportes periódicos para monitorear las prácticas obstétricas, la ocurrencia de eventos adversos y las quejas relacionadas, con la finalidad de implementar medidas de mejora continua y rendición de cuentas.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+ARTICULO 37 UNDECIES.- Las conductas previstas en este capítulo podrán ser sancionadas en términos de la normativa administrativa aplicable al personal e instituciones de salud, sin perjuicio de las responsabilidades civiles o penales que procedan conforme a la legislación estatal y federal.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO VII
 
 DE LA ATENCION A LA SALUD DE LA MUJER Y DEL ADULTO MAYOR.
-
-### CAPITULO VIII. DE LA SALUD MENTAL
 
 ###### ARTICULO 38.
 
@@ -1257,7 +1299,7 @@ La Secretaría de Salud en el estado, coordinará sus esfuerzos con las instituc
 
 La Secretaría proporcionará a las personas de 60 años o más la cartilla de salud del adulto mayor para su uso indistinto en instituciones de salud públicas o privadas; además cumplirá con el resto de las disposiciones a que le obliga la Ley que para los Adultos Mayores y sus derechos rige en nuestro estado.
 
-### CAPITULO I. DE LOS PROFESIONALES, TECNICOS Y AUXILIARES
+### CAPITULO VIII. DE LA SALUD MENTAL
 
 ###### ARTICULO 40.
 
@@ -1311,7 +1353,7 @@ Las autoridades sanitarias e instituciones de salud, conforme a las Normas Ofici
 
 ## TITULO CUARTO. DE LOS RECURSOS HUMANOS PARA LA SALUD
 
-### CAPITULO II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+### CAPITULO I. DE LOS PROFESIONALES, TECNICOS Y AUXILIARES
 
 ###### ARTICULO 45.
 
@@ -1341,9 +1383,7 @@ Los profesionales de la salud, médicos, cirujanos o la institución que realice
 
 Quienes ejerzan las actividades profesionales, técnicas, auxiliares y las especialidades a que se refiere este capítulo, deberán tener a la vista un anuncio que indique el nombre, último grado de estudios, el título profesional, diploma o certificado de la Institución que lo expida, así como el número de cédula profesional.
 
-### CAPITULO III. DE LA FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+### CAPITULO II. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### ARTICULO 47.
 
@@ -1355,7 +1395,9 @@ La Secretaría, en coordinación con las instituciones educativas, definirán lo
 
 Todos los pasantes de las profesiones para la salud y sus ramas deberán prestar el servicio social en los términos de las disposiciones legales aplicables.
 
-### CAPITULO UNICO
+### CAPITULO III. DE LA FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 48.
 
@@ -1453,7 +1495,7 @@ Quien realice investigaciones en seres humanos en contravención a lo dispuesto 
 
 ## TITULO SEXTO. DE LA INFORMACION PARA LA SALUD
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 ###### ARTICULO 58.
 
@@ -1479,7 +1521,7 @@ Los establecimientos que presten servicios de salud y telesalud, los profesional
 
 ## TITULO SEPTIMO. DE LA PROMOCION DE LA SALUD
 
-### CAPITULO II. DE LA EDUCACIÓN PARA LA SALUD
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 60.
 
@@ -1489,7 +1531,7 @@ La promoción de la salud tiene por objeto crear, conservar y mejorar las condic
 
 La promoción de la salud comprende la educación para la salud, la nutrición, el control de los efectos nocivos del ambiente en la salud, y la salud ocupacional.
 
-### CAPITULO III. DE LA NUTRICION
+### CAPITULO II. DE LA EDUCACIÓN PARA LA SALUD
 
 ###### ARTICULO 62.
 
@@ -1507,7 +1549,7 @@ III.- Orientar y capacitar a la población preferentemente en materia de nutrici
 
 La Secretaría, en coordinación con las autoridades federales, propondrán y desarrollarán programas de educación para la salud, procurarán optimizar los recursos y conservar la cobertura total de la población, y difundir dichos programas en los medios masivos de comunicación social del Estado.
 
-### CAPITULO IV. DEL CONTROL DE LOS EFECTOS NOCIVOS DEL AMBIENTE EN LA SALUD
+### CAPITULO III. DE LA NUTRICION
 
 ###### ARTICULO 64.
 
@@ -1577,7 +1619,7 @@ d) La fuente de información utilizada para cada rubro, modalidad de diagnóstic
 
 e) Toda aquella información adicional que determine la Secretaría.
 
-### CAPITULO V. DE LA SALUD OCUPACIONAL
+### CAPITULO IV. DEL CONTROL DE LOS EFECTOS NOCIVOS DEL AMBIENTE EN LA SALUD
 
 ###### ARTICULO 66.
 
@@ -1623,9 +1665,7 @@ La Secretaría, en coordinación con las autoridades competentes, orientará a l
 
 La Secretaría, en coordinación con las autoridades estatales y municipales, en sus respectivos ámbitos de competencia, evitarán la instalación o edificación de establecimientos comerciales, de servicios y casas habitación en las áreas circundantes en donde funcione cualquier establecimiento que implique un riesgo para la salud de la población.
 
-### CAPITULO VI. DE LA PREVENCION DEL SUICIDIO
-
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+### CAPITULO V. DE LA SALUD OCUPACIONAL
 
 ###### ARTICULO 73.
 
@@ -1637,7 +1677,9 @@ Todo establecimiento industrial que cuente con servicios médicos en sus instala
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2024)</small>
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO VI. DE LA PREVENCION DEL SUICIDIO
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
 
 ###### ARTICULO 74 Bis.
 
@@ -1663,9 +1705,7 @@ VI.- Fomentar una cultura sustentada en valores y principios en torno a la autoa
 
 ## TITULO OCTAVO. DE LA PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO II. DE LAS ENFERMEDADES TRANSMISIBLES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2023)</small>
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 75.
 
@@ -1683,9 +1723,9 @@ IV.- Promover la colaboración de las instituciones de los sectores público, so
 
 La Secretaría de Salud realizará acciones de inspección directa en los establecimientos y servicios previstos en la fracción II del artículo 3° de esta ley, para asegurarse del cumplimiento de las condiciones higiénico-sanitarias previstas en las disposiciones legales, previa solicitud de autorización judicial, cuando el caso lo amerite.
 
-### CAPITULO III. DE LAS ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO II. DE LAS ENFERMEDADES TRANSMISIBLES
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
 ###### ARTÍCULO 76.
 
@@ -1807,7 +1847,9 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 La Secretaría determinará la forma de disponer de los productos, subproductos, desechos y cadáveres de animales, cuando constituyan un riesgo de transmisión de enfermedades al hombre o produzcan contaminación del ambiente con riesgo para la salud.
 
-### CAPITULO IV. DE LOS ACCIDENTES
+### CAPITULO III. DE LAS ENFERMEDADES NO TRANSMISIBLES
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2025)</small>
 
 ###### ARTICULO 88.
 
@@ -1851,9 +1893,7 @@ VI.- Establecer un sistema de comunicación constante y seguimiento médico de l
 
 VII.- Las demás que sean necesarias para asegurar el acceso a los mejores tratamientos en el ejercicio de la protección al derecho de acceso a la salud y acceso a la tecnología en ese padecimiento.
 
-### CAPITULO PRIMERO. DEL DERECHO A LA VIDA Y ORIENTACION SEXUAL
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+### CAPITULO IV. DE LOS ACCIDENTES
 
 ###### ARTICULO 90.
 
@@ -1879,9 +1919,9 @@ V.- La promoción de la participación de la comunidad en su prevención.
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 12 DE FEBRERO DE 2008)</small>
 
-### CAPITULO SEGUNDO. DE LA ASISTENCIA SOCIAL
+### CAPITULO PRIMERO. DEL DERECHO A LA VIDA Y ORIENTACION SEXUAL
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
 
 ###### ARTICULO 92.
 
@@ -1897,7 +1937,9 @@ La Secretaría de Salud implementará programas de capacitación y sensibilizaci
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2008)</small>
 
-### CAPITULO I. DEL CONSEJO ESTATAL CONTRA LAS ADICCIONES
+### CAPITULO SEGUNDO. DE LA ASISTENCIA SOCIAL
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTICULO 93.
 
@@ -1905,7 +1947,7 @@ La Secretaría de Salud promoverá la participación de las organizaciones de la
 
 ## TITULO DECIMO. DE LAS ADICCIONES
 
-### CAPITULO II. DEL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHÓLICAS
+### CAPITULO I. DEL CONSEJO ESTATAL CONTRA LAS ADICCIONES
 
 ###### ARTICULO 94.
 
@@ -1919,7 +1961,7 @@ El Consejo tendrá por objeto promover y apoyar las acciones de los sectores pú
 
 Con base en la disponibilidad presupuestal de la Secretaría de Salud, se promoverá la creación de un Instituto contra las adicciones, con objeto de promover, apoyar y ejecutar las acciones orientadas a la prevención del tabaquismo, alcoholismo y la fármaco dependencia.
 
-### CAPITULO III. DEL TABAQUISMO
+### CAPITULO II. DEL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHÓLICAS
 
 ###### ARTICULO 96.
 
@@ -1951,7 +1993,7 @@ III.- Hábitos de consumo y abuso de bebidas alcohólicas en los ámbitos famili
 
 La información, resultados y conclusiones de las investigaciones, se utilizarán para establecer medidas y estrategias para evitar el abuso de bebidas alcohólicas. Los resultados de dicha información serán de acceso público, sin perjuicio de los derechos de propiedad intelectual, y estará sujeta a la normatividad en la materia.
 
-### CAPITULO IV. DE LA FARMACODEPENDENCIA
+### CAPITULO III. DEL TABAQUISMO
 
 ###### ARTICULO 98.
 
@@ -1979,9 +2021,7 @@ IV.- Sobre los efectos negativos de la publicidad en relación con la incidencia
 
 La Secretaría coordinará con las instancias federales y estatales correspondientes, las acciones que se desarrollen contra el tabaquismo. Asimismo, promoverá y establecerá servicios de orientación y atención a fumadores que deseen abandonar el hábito e implementará acciones permanentes para evitar y disuadir el consumo de tabaco por parte de niños y adolescentes.
 
-### CAPÍTULO V. DE LA LUDOPATÍA
-
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
+### CAPITULO IV. DE LA FARMACODEPENDENCIA
 
 ###### ARTICULO 101.
 
@@ -2039,9 +2079,9 @@ Los establecimientos industriales, comerciales, de servicios, de artesanías y o
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO V. DE LA LUDOPATÍA
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2018)</small>
 
 ###### ARTICULO 103 Bis.
 
@@ -2069,6 +2109,8 @@ La Secretaría tendrá a su cargo la recopilación y procesamiento anual de la i
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 104.
 
 Con el fin de proteger la salud pública, es competencia de la Secretaría la autorización de la publicidad que se refiera a la salud, al tratamiento de las enfermedades, a la rehabilitación de las personas con discapacidad, al ejercicio de las disciplinas para la salud, y a los productos y servicios a los que se refiere esta ley y otras disposiciones legales aplicables.
@@ -2081,7 +2123,7 @@ Las disposiciones reglamentarias determinarán los productos y servicios en los 
 
 DEL CONTROL SANITARIO DE LOS ESTABLECIMIENTOS QUE PROCESEN BEBIDAS NO ALCOHOLICAS, ALCOHOLICAS Y QUE EXPENDAN TABACO.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 ###### ARTICULO 106.
 
@@ -2121,7 +2163,7 @@ II.- En la venta o suministro de productos de tabaco se deberá exigir identific
 
 ## TITULO DECIMO TERCERO. DEL CONTROL SANITARIO EN MATERIA DE SALUBRIDAD LOCAL
 
-### CAPITULO II. DE LOS ESTABLECIMIENTOS
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 110.
 
@@ -2135,7 +2177,7 @@ Toda persona podrá denunciar ante la autoridad sanitaria cualquier hecho, acto 
 
 Los propietarios de los establecimientos a los que se refiere esta ley serán responsables de que el personal que labora en ellos, se practiquen exámenes médicos y de laboratorio, cuando menos dos veces al año, para efectos de obtener el certificado de salud.
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO II. DE LOS ESTABLECIMIENTOS
 
 ###### ARTICULO 113.
 
@@ -2155,9 +2197,7 @@ III.- Cuidar de la conservación, aseo, buen estado y mantenimiento de los mismo
 
 ARTICULO 114 BIS.- Los establecimientos con instalaciones para un aforo de más de 100 personas, a los que regularmente acudan niñas, niños, adolescentes y personas adultas, procurarán contar con baños públicos familiares, para la atención de niñas y niños menores de 10 años, y personas adultas mayores que para su uso se acompañen de una persona que los ayude y cuide. Este tipo de baños públicos deberán reunir los requisitos establecidos en la normatividad reglamentaria aplicable.
 
-### CAPITULO I. DE LAS AUTORIZACIONES SANITARIAS
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2003)</small>
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTICULO 115.
 
@@ -2177,7 +2217,9 @@ El responsable de la construcción, reconstrucción, modificación o acondiciona
 
 ## TITULO DECIMO CUARTO. DE LAS AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO II. DE LA REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. DE LAS AUTORIZACIONES SANITARIAS
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 117.
 
@@ -2249,7 +2291,7 @@ Los establecimientos que no requieren para su funcionamiento de autorización sa
 
 La autoridad sanitaria competente podrá requerir tarjeta de control sanitario a las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible, en los casos y bajo las condiciones que establezcan las disposiciones aplicables.
 
-### CAPITULO III. DE LOS CERTIFICADOS
+### CAPITULO II. DE LA REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 123.
 
@@ -2305,37 +2347,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO IV. DE LOS SERVICIOS FUNERARIOS Y LA PROTECCION DEL CERTIFICADO DE DEFUNCION
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
-
-ARTICULO 135 BIS.- Para efectos de esta Ley, el certificado de defunción es un documento de orden público, de naturaleza sanitaria y administrativa, cuya expedición y entrega oportuna es indispensable para el ejercicio de derechos civiles, familiares y patrimoniales.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
-
-ARTICULO 135 TER.- Queda estrictamente prohibido a los establecimientos funerarios, crematorios, agencias de servicios exequiales o cualquier persona física o moral que preste servicios funerarios:
-
-I.- Retener, ocultar, retrasar o negar la entrega del certificado de defunción;
-
-II.- Condicionar la entrega del certificado de defunción al pago total o parcial de los servicios funerarios; y
-
-III.- Utilizar el certificado de defunción como garantía, medio de presión, coerción o aseguramiento de obligaciones de carácter económico.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
-
-ARTICULO 135 QUATER.- La expedición y entrega del certificado de defunción deberá realizarse de manera inmediata y sin dilación injustificada a los familiares, personas responsables o representantes legales del fallecido, independientemente de cualquier controversia contractual o adeudo derivado de los servicios funerarios.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
-
-ARTICULO 135 QUINQUIES.- Las controversias relacionadas con el pago de servicios funerarios deberán resolverse por las vías legales civiles, mercantiles o administrativas correspondientes, quedando prohibida cualquier forma de auto tutela, coacción o aprovechamiento del estado de vulnerabilidad de las personas deudos.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
-
-ARTICULO 135 SEXIES.- El incumplimiento a lo dispuesto en el presente Capítulo dará lugar a las sanciones administrativas establecidas en el artículo 152 de esta Ley, sin perjuicio de las responsabilidades civiles o penales que resulten procedentes.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
-
-ARTICULO 135 SEPTIES.- Cuando la conducta descrita en el artículo anterior implique abuso, intimidación, coacción, trato indigno o aprovechamiento de una situación de vulnerabilidad, la autoridad competente deberá dar vista al Ministerio Público para que determine la posible comisión de delitos.
+### CAPITULO III. DE LOS CERTIFICADOS
 
 ###### ARTICULO 130.
 
@@ -2377,11 +2389,41 @@ Los certificados enunciados se extenderán en los modelos aprobados y otorgados 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JUNIO DE 2026)</small>
 
-### CAPITULO UNICO
+### CAPITULO IV. DE LOS SERVICIOS FUNERARIOS Y LA PROTECCION DEL CERTIFICADO DE DEFUNCION
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+ARTICULO 135 BIS.- Para efectos de esta Ley, el certificado de defunción es un documento de orden público, de naturaleza sanitaria y administrativa, cuya expedición y entrega oportuna es indispensable para el ejercicio de derechos civiles, familiares y patrimoniales.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+ARTICULO 135 TER.- Queda estrictamente prohibido a los establecimientos funerarios, crematorios, agencias de servicios exequiales o cualquier persona física o moral que preste servicios funerarios:
+
+I.- Retener, ocultar, retrasar o negar la entrega del certificado de defunción;
+
+II.- Condicionar la entrega del certificado de defunción al pago total o parcial de los servicios funerarios; y
+
+III.- Utilizar el certificado de defunción como garantía, medio de presión, coerción o aseguramiento de obligaciones de carácter económico.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+ARTICULO 135 QUATER.- La expedición y entrega del certificado de defunción deberá realizarse de manera inmediata y sin dilación injustificada a los familiares, personas responsables o representantes legales del fallecido, independientemente de cualquier controversia contractual o adeudo derivado de los servicios funerarios.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+ARTICULO 135 QUINQUIES.- Las controversias relacionadas con el pago de servicios funerarios deberán resolverse por las vías legales civiles, mercantiles o administrativas correspondientes, quedando prohibida cualquier forma de auto tutela, coacción o aprovechamiento del estado de vulnerabilidad de las personas deudos.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+ARTICULO 135 SEXIES.- El incumplimiento a lo dispuesto en el presente Capítulo dará lugar a las sanciones administrativas establecidas en el artículo 152 de esta Ley, sin perjuicio de las responsabilidades civiles o penales que resulten procedentes.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2026)</small>
+
+ARTICULO 135 SEPTIES.- Cuando la conducta descrita en el artículo anterior implique abuso, intimidación, coacción, trato indigno o aprovechamiento de una situación de vulnerabilidad, la autoridad competente deberá dar vista al Ministerio Público para que determine la posible comisión de delitos.
 
 ## TITULO DECIMO QUINTO. DE LA VIGILANCIA SANITARIA
 
-### CAPITULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIAS
+### CAPITULO UNICO
 
 ###### ARTICULO 136.
 
@@ -2413,7 +2455,7 @@ En la diligencia de verificación sanitaria y recolección de muestras se deber�
 
 ## TITULO DECIMO SEXTO. DE LAS MEDIDAS DE SEGURIDAD Y DE LAS SANCIONES
 
-### CAPITULO II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO I. DE LAS MEDIDAS DE SEGURIDAD SANITARIAS
 
 ###### ARTICULO 142.
 
@@ -2503,7 +2545,7 @@ La suspensión de mensajes publicitarios en materia de salud, procederá cuando 
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de la autoridad sanitaria, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 151.
 
@@ -2585,7 +2627,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO IV. DEL RECURSO DE INCONFORMIDAD
+### CAPITULO III. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 163.
 
@@ -2629,7 +2671,7 @@ En los casos de clausura temporal o definitiva, parcial o total, el personal com
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, se formulará la denuncia ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPITULO V. DE LA PRESCRIPCION
+### CAPITULO IV. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 171.
 
@@ -2681,9 +2723,7 @@ II.- Que no se siga perjuicio al interés social, ni se contravengan disposicion
 
 III.- Que fueren de difícil reparación los daños y perjuicios que se causen al recurrente, con la ejecución del acto o resolución combatida.
 
-### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+### CAPITULO V. DE LA PRESCRIPCION
 
 ###### ARTICULO 180.
 
@@ -2707,9 +2747,9 @@ Los interesados podrán hacer valer la prescripción, por vía de excepción. La
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
 
-### CAPITULO SEGUNDO. DE LA DONACION, PROCURACION, ASIGNACION, DISTRIBUCION, TRASPLANTE Y DESTINO FINAL DE ORGANOS Y COMPONENTES ANATOMICOS
+### CAPITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 184.
 
@@ -2935,9 +2975,9 @@ La Secretaría de Salud del Estado queda facultada para realizar la interpretaci
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2012)</small>
 
-### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL DE TRASPLANTES
+### CAPITULO SEGUNDO. DE LA DONACION, PROCURACION, ASIGNACION, DISTRIBUCION, TRASPLANTE Y DESTINO FINAL DE ORGANOS Y COMPONENTES ANATOMICOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 #### SECCIÓN PRIMERA. DE LA DONACIÓN
 
@@ -3211,9 +3251,9 @@ Comprobar, previamente a la extracción de los órganos y tejidos y por un médi
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2012)</small>
 
-### CAPITULO CUARTO. DEL CENTRO ESTATAL DE TRASPLANTES
+### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL DE TRASPLANTES
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 195.
 
@@ -3397,7 +3437,7 @@ V. Las demás que le asignen el Consejo o su Presidente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
 
-### CAPITULO QUINTO. DEL REGISTRO ESTATAL DE TRASPLANTES
+### CAPITULO CUARTO. DEL CENTRO ESTATAL DE TRASPLANTES
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -3479,7 +3519,7 @@ El Centro Estatal de Trasplantes y los comités internos correspondientes en cad
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
 
-### CAPITULO SEXTO. DEL PROCEDIMIENTO OBLIGATORIO PARA TRASPLANTES
+### CAPITULO QUINTO. DEL REGISTRO ESTATAL DE TRASPLANTES
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -3535,31 +3575,7 @@ Los establecimientos autorizados para la realización de trasplantes en casos es
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2007)</small>
 
-### CAPÍTULO SÉPTIMO. DE LAS INSTITUCIONES HOSPITALARIAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-ARTICULO 209 BIS.- Los establecimientos en los que se extraigan órganos, tejidos y células, deberán contar con un Comité Interno de Coordinación para la donación de órganos y tejidos, que será presidido por el Director General o su inmediato inferior que sea médico con alto nivel de conocimientos académicos y profesionales en la materia. Este comité será responsable de seleccionar el establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviará órganos, tejidos o células, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-A su vez, los establecimientos que realicen los actos de trasplantes deberán contar con un Comité Interno de Trasplantes que será presidido por el Director General o su inmediato inferior que sea médico con un alto nivel de conocimientos académicos y profesionales en la materia. Este Comité será responsable de hacer la selección de disponentes y receptores de trasplante, de conformidad con lo que se establece en la Ley General de Salud, la presente ley y demás disposiciones jurídicas aplicables. Los establecimientos en los que se extraigan órganos y tejidos y se realicen trasplantes, únicamente deberán contar con un Comité Interno de Trasplantes.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-El Comité Interno de Trasplantes deberá coordinarse con el Comité de Bioética de la institución en los asuntos de su competencia.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-Es responsabilidad del Comité Interno de Trasplantes de cada institución, supervisar la actualización del registro de pacientes en los Registros Estatal y Nacional.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-Los establecimientos que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, deberán contar con un Comité de Medicina Transfusional, el cual se sujetará a las disposiciones que para tal efecto emita la Secretaría de Salud del gobierno federal.
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
-
-Los Establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos deberán presentar el aviso correspondiente a la autoridad sanitaria de la entidad en los términos de esta Ley y demás disposiciones generales aplicables, y contarán con un responsable sanitario que también deberá presentar aviso.
+### CAPITULO SEXTO. DEL PROCEDIMIENTO OBLIGATORIO PARA TRASPLANTES
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -3598,6 +3614,34 @@ VIII. Habiéndose realizado el trasplante, el Coordinador Hospitalario dará avi
 El Centro Estatal de Trasplantes dará aviso a la Comisión Estatal para la Protección contra Riesgos Sanitarios, en caso de detectar irregularidades en el desarrollo de las atribuciones de su competencia.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+### CAPÍTULO SÉPTIMO. DE LAS INSTITUCIONES HOSPITALARIAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+ARTICULO 209 BIS.- Los establecimientos en los que se extraigan órganos, tejidos y células, deberán contar con un Comité Interno de Coordinación para la donación de órganos y tejidos, que será presidido por el Director General o su inmediato inferior que sea médico con alto nivel de conocimientos académicos y profesionales en la materia. Este comité será responsable de seleccionar el establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviará órganos, tejidos o células, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+A su vez, los establecimientos que realicen los actos de trasplantes deberán contar con un Comité Interno de Trasplantes que será presidido por el Director General o su inmediato inferior que sea médico con un alto nivel de conocimientos académicos y profesionales en la materia. Este Comité será responsable de hacer la selección de disponentes y receptores de trasplante, de conformidad con lo que se establece en la Ley General de Salud, la presente ley y demás disposiciones jurídicas aplicables. Los establecimientos en los que se extraigan órganos y tejidos y se realicen trasplantes, únicamente deberán contar con un Comité Interno de Trasplantes.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+El Comité Interno de Trasplantes deberá coordinarse con el Comité de Bioética de la institución en los asuntos de su competencia.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Es responsabilidad del Comité Interno de Trasplantes de cada institución, supervisar la actualización del registro de pacientes en los Registros Estatal y Nacional.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Los establecimientos que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, deberán contar con un Comité de Medicina Transfusional, el cual se sujetará a las disposiciones que para tal efecto emita la Secretaría de Salud del gobierno federal.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
+
+Los Establecimientos en los que se realicen actos relacionados con cadáveres de seres humanos deberán presentar el aviso correspondiente a la autoridad sanitaria de la entidad en los términos de esta Ley y demás disposiciones generales aplicables, y contarán con un responsable sanitario que también deberá presentar aviso.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 210.
 
@@ -4396,3 +4440,19 @@ P.O. 26 DE JUNIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1137 MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y A LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, EN MATERIA DE PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA OBSTÉTRICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud, en coordinación con las autoridades competentes, emitirá los lineamientos, protocolos y criterios técnicos necesarios para la prevención, atención y erradicación de la violencia obstétrica.
+
+###### ARTÍCULO TERCERO.
+
+Las instituciones de salud públicas y privadas deberán realizar las adecuaciones administrativas, operativas y de capacitación que resulten necesarias para cumplir lo dispuesto en este Decreto.
