@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-ejecutivo-y-de-la-administracion-132056"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-13"
-last_updated: "2026-04-09"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132056&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-13"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Número 471 Bis en la Gaceta Oficial de la Ciudad de México, el jueves 13 de diciembre de 2018.
 
@@ -295,6 +295,10 @@ II BIS. Secretaría de Atención y Participación Ciudadana;
 III. Secretaría de la Contraloría General;
 
 IV. Secretaría de Cultura;
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2026)</small>
+
+IV BIS. Secretaría del Deporte;
 
 V. Secretaría de Desarrollo Económico;
 
@@ -898,6 +902,56 @@ XXI. Ejecutar, de manera conjunta con las autoridades federales competentes y la
 
 XXII. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
 
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2026)</small>
+
+Artículo 29 BIS. A la Secretaría del Deporte le corresponde el despacho de las materias relativas al ejercicio pleno del derecho a la cultura física y el deporte de quienes habitan o transitan por la Ciudad de México; promover la activación física, los hábitos de vida saludable y el desarrollo integral de las personas mediante la práctica deportiva; fomentar la convivencia comunitaria, la inclusión social y la formación de talentos deportivos; así como fomentar el acceso universal, equitativo y de calidad a las actividades deportivas en la Ciudad, con base en los principios de igualdad, inclusión, bienestar social, juego limpio, participación comunitaria y desarrollo humano.
+
+Específicamente, cuenta con las siguientes atribuciones:
+
+I. Dirigir el Sistema del Deporte de la Ciudad de México;
+
+II. Diseñar, elaborar y ejecutar políticas públicas, planes, programas y acciones de promoción, difusión, sistematización y consulta en programas sobre educación física y deporte, con los organismos e instituciones competentes tanto nacionales como internacionales, públicos y privados;
+
+III. Fomentar, en colaboración con los organismos e instituciones competentes, los planes, programas y actividades inherentes para que los espacios dentro de las escuelas públicas y particulares en la Ciudad, cuenten con la infraestructura necesaria y el personal competente y suficiente para el desarrollo de las actividades de educación física y la práctica deportiva;
+
+IV. La Secretaría coordinará y participará en programas y actividades deportivas a través del Instituto del Deporte de la Ciudad de México, así como con la Subsecretaría del Sistema Penitenciario de la Secretaría de Seguridad Ciudadana, para el impulso de las actividades y el cumplimiento de los ejes de la reinserción social;
+
+V. Formular, conducir y evaluar la política pública de cultura física y deporte de la Ciudad, en congruencia con el Plan General de Desarrollo y demás instrumentos de planeación;
+
+VI. Promover la práctica sistemática de la actividad física y el deporte entre la población, fomentando estilos de vida saludables y la prevención de enfermedades;
+
+VII. Impulsar el deporte comunitario, social y recreativo en barrios, colonias y pueblos de la Ciudad, fortaleciendo la convivencia, la integración comunitaria y la cohesión social;
+
+VIII. Diseñar, promover e implementar programas de activación física accesibles para la población, con especial atención a niñas, niños, adolescentes, jóvenes, personas mayores y personas con discapacidad;
+
+IX. Promover y generar los mecanismos que permitan el desarrollo del deporte formativo, competitivo y de alto rendimiento, así como brindar el apoyo necesario a las y los atletas, entrenadores y equipos representativos de la Ciudad;
+
+X. Fomentar la detección, formación y desarrollo de talentos deportivos en coordinación con instituciones educativas, asociaciones deportivas y organismos especializados;
+
+XI. Coordinar acciones con las alcaldías para el fortalecimiento, uso y aprovechamiento de la infraestructura deportiva de la Ciudad;
+
+XII. Promover la construcción, rehabilitación, mantenimiento y uso adecuado de instalaciones deportivas y espacios públicos destinados a la actividad física y recreativa;
+
+XIII. Impulsar la organización de eventos, torneos, ligas, festivales y encuentros deportivos de carácter comunitario, nacional e internacional;
+
+XIV. Promover la participación social, comunitaria y voluntaria en programas de cultura física y deporte;
+
+XV. Fomentar la capacitación, certificación y profesionalización de promotores, instructores, entrenadores y demás agentes vinculados a la actividad física y al deporte;
+
+XVI. Establecer mecanismos de coordinación con dependencias, entidades, instituciones educativas, organizaciones sociales y el sector privado para el desarrollo de programas deportivos y de activación física;
+
+XVII. Promover la inclusión, la igualdad sustantiva y la perspectiva de género en la práctica deportiva;
+
+XVIII. Impulsar el acceso de las personas con discapacidad al deporte y la activación física en condiciones de igualdad y accesibilidad;
+
+XIX. Promover el deporte como herramienta para el bienestar, la salud física y mental, la prevención de adicciones y la reconstrucción del tejido social;
+
+XX. Coordinar y promover programas de activación física masiva y deporte en espacios públicos de la Ciudad;
+
+XXI. Promover el desarrollo de estudios, diagnósticos, estadísticas e información sobre la cultura física y el deporte en la Ciudad; y
+
+XXII. Las demás que le confieran las leyes, reglamentos y demás disposiciones jurídicas aplicables.
+
 ###### Artículo 30.
 
 A la Secretaría de Desarrollo Económico corresponde el despacho de las materias relativas al desarrollo y regulación de las actividades económicas en los sectores industrial, comercial y de servicios.
@@ -1132,13 +1186,21 @@ X. Revalidar y otorgar equivalencias de estudios, en educación media superior y
 
 Las constancias de revalidación y equivalencia de estudios deberán ser registradas en el Sistema de Información y Gestión Educativa, en los términos que establezca la Secretaría de Educación Pública;
 
-XI. Diseñar, elaborar y ejecutar políticas públicas, planes, programas y acciones de promoción, difusión, sistematización y consulta en programas sobre educación de calidad, para el desarrollo científico, tecnológico, artístico, cultural, pedagógico, de innovación tecnológica, educación física y de protección al ambiente con los organismos e instituciones competentes tanto nacionales como internacionales, público y privados;
+> <small>(REFORMADO[N. DE E. ESTE PÁRRAFO], G.O. 6 DE JULIO DE 2026)</small>
+
+XI. Diseñar, elaborar y ejecutar políticas públicas, planes, programas y acciones de promoción, difusión, sistematización y consulta en programas sobre educación de calidad, para el desarrollo científico, tecnológico, artístico, cultural, pedagógico, de innovación tecnológica y de protección al ambiente con los organismos e instituciones competentes tanto nacionales como internacionales, público (sic) y privados.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2026)</small>
+
+En materia de educación física se coordinará con la Secretaría del Deporte;
 
 XII. Promover la participación de la comunidad en general en el ámbito de sus competencias, los principios de equidad y no discriminación entre las personas y la efectiva igualdad de oportunidades de acceso, tránsito y permanencia en los servicios educativos. Para ello, elaborará y administrará los programas de becas y de impulso en general para la formación de los individuos en todas las áreas del conocimiento;
 
 XIII. Fomentar la participación de la comunidad escolar, de las instituciones académicas y de investigación, organizaciones sociales sin fines de lucro y de la sociedad en general, en las actividades que tengan por objeto la construcción de una sociedad democrática, justa, equitativa y participativa, e igualitaria en oportunidades de acceso, tránsito y permanencia en los servicios educativos;
 
-XIV. Fomentar, en colaboración con los organismos e instituciones competentes, los planes, programas y actividades inherentes para que los espacios dentro de las escuelas públicas y particulares en la Ciudad, cuenten con la infraestructura física educativa adecuada, así como con la infraestructura humana, inmobiliaria y material para el desarrollo de actividades relacionadas con la educación física y la práctica deportiva;
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2026)</small>
+
+XIV. Fomentar, en colaboración con los organismos e instituciones competentes, los planes, programas y actividades inherentes para que los espacios dentro de las escuelas públicas y particulares en la Ciudad cuenten con la infraestructura física educativa, humana, inmobiliaria y material adecuada para las necesidades y actividades que ahí se desarrollan;
 
 XV. Contribuir al desarrollo integral de las y los jóvenes de la Ciudad, a través de mecanismos de coordinación institucional entre los diversos niveles e instancias de Gobierno, Federal o local, con organismos no gubernamentales, instituciones de asistencia privada y asociaciones civiles que realizan trabajo educativo o académico con jóvenes;
 
@@ -1166,15 +1228,17 @@ XXV. Presentar anualmente un informe sobre el estado que guarda la Secretaría e
 
 XXVI. Supervisar y verificar el cumplimiento de la normativa aplicable en cada caso e imponer y ejecutar las consecuencias jurídicas derivadas por su infracción o incumplimiento, sujetándose a lo dispuesto por la Ley de Procedimiento Administrativo de la Ciudad de México;
 
-XXVII. Coadyuvar con los organismos, Dependencias e instituciones competentes en la realización, implementación y certificación de la enseñanza educativa que se imparta al interior de los Centros Penitenciarios y de las Comunidades de Tratamiento Especializado para Adolescentes de la Ciudad de México; así como participar de manera coordinada en programas recreativos, culturales y deportivos, a través de las instancias o secretarías respectivas;
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2026)</small>
+
+XXVII. Coadyuvar con los organismos, Dependencias e instituciones competentes en la realización, implementación y certificación de la enseñanza educativa que se imparta al interior de los Centros Penitenciarios y de las Comunidades de Tratamiento Especializado para Adolescentes de la Ciudad de México; así como participar de manera coordinada en programas recreativos y culturales, a través de las instancias o secretarías respectivas;
 
 XXVIII. Contribuir en conjunto con otras autoridades y dependencias, locales y federales, en la formación de calidad de los maestros, revisión de planes y programas de estudios y en la elaboración de material didáctico;
 
-XXIX. Dirigir el Sistema del Deporte de la Ciudad de México a través del Instituto del Deporte;
+XXIX. (DEROGADA, G.O. 6 DE JULIO DE 2026)
 
 XXX. Coordinar y ejecutar con el Instituto Local de la Infraestructura Física Educativa de la Ciudad de México, acciones de recuperación y mejora para que los espacios dentro de las escuelas públicas en la Ciudad cuenten con infraestructura física educativa adecuada, así como infraestructura humana, inmobiliaria y material para el desarrollo de actividades relacionadas con la educación;
 
-XXXI. Coordinar y participar en programas y actividades deportivas; estas últimas a través del Instituto del Deporte de la Ciudad de México, con la Subsecretaría del Sistema Penitenciario de la Ciudad de México, para el impulso de las actividades y el cumplimiento de los ejes de la reinserción social;
+XXXI. (DEROGADA, G.O. 6 DE JULIO DE 2026)
 
 XXXII. Contribuir, fortalecer y promover el desarrollo integral de las personas jóvenes, a través del Instituto de la Juventud de la Ciudad de México; y
 
@@ -1358,11 +1422,11 @@ XXXVI. Participar en la integración de la Junta de Gobierno del Heroico Cuerpo 
 
 XXXVII. Las demás que le atribuyan las leyes y otros ordenamientos jurídicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2026)</small>
 
 ###### Artículo 34.
 
-A la Secretaría de Bienestar e Igualdad Social de la Ciudad de México le corresponde el despacho de las materias relativas a bienestar social, política social, alimentación, igualdad, inclusión, recreación, deporte, información social, servicios sociales, y comunitarios, garantías y promoción de derechos económicos, sociales, culturales y ambientales.
+A la Secretaría de Bienestar e Igualdad Social de la Ciudad de México le corresponde el despacho de las materias relativas a bienestar social, política social, alimentación, igualdad, inclusión, recreación, información social, servicios sociales, y comunitarios, garantías y promoción de derechos económicos, sociales, culturales y ambientales.
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -3677,3 +3741,21 @@ TERCERO. Las referencias hechas a la Secretaría de Salud en otros ordenamientos
 CUARTO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 
 QUINTO. El Gobierno de la Ciudad de México, contará con 360 días, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a los reglamentos y el marco normativo regulatorio de la ciudad.
+
+G.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LA FRACCIÓN IV BIS AL ARTÍCULO 16, UN ARTÍCULO 29 BIS Y UN PÁRRAFO SEGUNDO A LA FRACCIÓN XI DEL INCISO A) DEL ARTÍCULO 32; SE REFORMAN LAS FRACCIONES XI, XIV Y XXVII DEL INCISO A) DEL ARTÍCULO 32 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 34; Y SE DEROGAN LAS FRACCIONES XXIX Y XXXI DEL INCISO A) DEL ARTÍCULO 32; DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Persona Titular de la Jefatura de Gobierno de la Ciudad de México contará con un plazo de hasta 180 días posteriores a la entrada en vigor del presente Decreto para realizar las adecuaciones reglamentarias que sean necesarias para dar cumplimiento al presente Decreto.
+
+CUARTO. Las referencias hechas en otras disposiciones normativas y administrativas a la Secretaría de Educación, Ciencia, Tecnología e Innovación en materia de deporte deberán entenderse realizadas en coordinación con la Secretaría del Deporte y otras dependencias, en lo relacionado con las facultades que se le atribuyen por virtud de este Decreto, a partir de su entrada en vigor.
+
+QUINTO. El Instituto del Deporte de la Ciudad de México quedará sectorizado a la Secretaría del Deporte, ejerciendo las facultades que le correspondan de conformidad con las disposiciones legales y administrativas aplicables.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizará ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
