@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-12675
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2025-01-13"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en la Primera Sección del Número 9 al Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2018.
 
@@ -2207,9 +2207,15 @@ El Fondo de Vivienda podrá obtener recursos adicionales del Fondo de Prestacion
 
 El Instituto podrá adquirir o construir inmuebles para ser vendidos a sus afiliados y pensionados, y en la medida de sus posibilidades, a terceros en el mercado abierto; esto último con el fin de fortalecer la salud financiera del Instituto, de conformidad a los lineamientos que determine la Junta Directiva.
 
+> <small>(REFORMADO PRIMER PÁRAFO, P.O. 6 DE JULIO DE 2026)</small>
+
 ###### Artículo 161.
 
-El Instituto podrá otorgar Préstamos Hipotecarios a los Servidores Públicos y Pensionados de acuerdo con los recursos aprobados por la Junta Directiva en el presupuesto anual y el fondo se formará con el porcentaje que determine la propia Junta de las aportaciones que se realicen al Fondo de Vivienda de la presente Ley.
+El Instituto podrá otorgar Préstamos Hipotecarios a las personas servidoras públicas y pensionadas de acuerdo con los recursos aprobados por la Junta Directiva en el presupuesto anual y el fondo se formará con el porcentaje que determine la propia Junta de las aportaciones que se realicen al Fondo de Vivienda de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+Las personas servidoras públicas y pensionadas podrán asociarse con su cónyuge derechohabiente o persona concubina derechohabiente del mismo Instituto para solicitar un préstamo hipotecario conjunto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -2265,6 +2271,10 @@ b) En el caso en que un acreditado hubiera sido demandado judicialmente por el I
 
 VII. Acreditar que el inmueble para el cual se destinarán los recursos del préstamo está ubicado en el Estado.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+En caso de un préstamo hipotecario conjunto, estos requisitos deben ser cubiertos por ambos cónyuges o personas concubinas solicitantes.
+
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 164.
@@ -2283,9 +2293,11 @@ El Préstamo Hipotecario no podrá rebasar el noventa por ciento del valor comer
 
 Cuando el préstamo se solicite para la adquisición de casa habitación o departamento y el importe de la operación total; esto es, incluyendo el valor de la cosa, el pago de los impuestos, gastos de escrituración y seguros contratados, conforme al valor del avalúo o el precio de la compraventa, según lo que resulte menor, no exceda de doscientas sesenta veces el valor mensual de la unidad de medida y actualización, el crédito podrá cubrir hasta el noventa y cinco por ciento del importe.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2026)</small>
+
 ###### Artículo 166.
 
-Los descuentos que deban hacerse del sueldo neto del Servidor Público para cubrir las obligaciones a su cargo y además amortizar el Préstamo Hipotecario, no deben exceder del cincuenta por ciento de dicho sueldo.
+Los descuentos que deban hacerse del sueldo neto de la persona servidora pública para cubrir las obligaciones a su cargo y además amortizar el Préstamo Hipotecario, no deben exceder del cincuenta por ciento de dicho sueldo; en el caso de ser un préstamo hipotecario conjunto, se tomará en cuenta el salario de ambos cónyuges o personas concubinas.
 
 ###### Artículo 167.
 
@@ -3202,3 +3214,15 @@ En el plazo de ciento veinte días naturales posteriores a la entrada en vigor d
 ###### ARTÍCULO SEXTO.
 
 Con la entrada en vigor del presente Decreto quedan sin efecto todas aquellas disposiciones legales y administrativas anteriores a esta o aquellas que se opongan.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 541.- SE REFORMA LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes (ISSSSPEA) contará con un plazo de ciento veinte días naturales, contados a partir de la entrada en vigor del presente Decreto, para adecuar su reglamentación interna, así como los procesos, lineamientos y formatos necesarios para la debida implementación del préstamo hipotecario conjunto previsto en el presente instrumento normativo.
