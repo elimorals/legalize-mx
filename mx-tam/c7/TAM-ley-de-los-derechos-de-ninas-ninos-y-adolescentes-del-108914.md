@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2026-06-26"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -197,17 +197,17 @@ XXXV.- Sistema Estatal de Protección Integral: Al Sistema de Protección Integr
 
 XXXVI.- Sistema Municipal de Protección Integral: El Sistema de Protección de Niñas, Niños y Adolescentes de los municipios del Estado de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE JULIO DE 2026)</small>
 
 XXXVII.- Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE JULIO DE 2026)</small>
 
 XXXVIII.- Tratados Internacionales: A los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte; y
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE JULIO DE 2026)</small>
 
-XXXIX.- Vínculo Materno Filial: Es la relación biológica y de apego desarrollada entre niñas, niños y/o adolescentes con su madre.
+XXXIX.- Violencia digital: Toda acción u omisión dolosa realizada mediante el uso de tecnologías de la información y la comunicación, plataformas digitales, redes sociales, aplicaciones, correo electrónico o cualquier otro espacio digital, que tenga por objeto o resultado exponer, distribuir, difundir, exhibir, transmitir, almacenar, comercializar, ofertar, intercambiar o compartir imágenes, audios, videos o información de contenido íntimo, personal o sexual, reales o simulados, de niñas, niños y adolescentes, sin su consentimiento o en contravención a su interés superior, así como cualquier conducta realizada a través de dichos medios que vulnere su intimidad, privacidad, identidad, honor, imagen, seguridad, desarrollo integral o dignidad, de conformidad con lo establecido en la legislación Penal del Estado y en las demás disposiciones aplicables.
 
 ###### ARTÍCULO 6.
 
@@ -1027,9 +1027,9 @@ X. Fomentar la convivencia escolar armónica y la generación de mecanismos para
 
 XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso, violencia sexual, así como de cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite o detecte en los centros educativos;
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
 
-XII. Se elaboren protocolos de actuación, prevención y seguridad, sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
+XII. Se elaboren protocolos de actuación, prevención y seguridad, sobre situaciones de violencia digital y escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
 XIII. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Nacional, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado;
 
@@ -1047,7 +1047,9 @@ XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que 
 
 XIX. Educar a niñas, niños y adolescentes el fomento de hábitos dirigidos a respetar, valorar, proteger y conservar el medio ambiente y el desarrollo sustentable, así como concientizarlos sobre las causas y efectos del cambio climático y el cuidado de los animales;
 
-XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
+
+XX.- Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación, así como uso responsable y el adecuado tratamiento de los datos personales de niñas, niños y adolescentes en medios digitales;
 
 > <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2023)</small>
 
@@ -1137,13 +1139,17 @@ ARTÍCULO 38 BIS.
 
 2. Para efectos del párrafo anterior, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, y las instituciones educativas se coordinarán para:
 
-I.- Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
+
+I.- Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación de la violencia digital y escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
 
 II.- Desarrollar e implementar cursos de sensibilización y formación sobre igualdad de género, prevenir y atender los diferentes tipos de violencia y cultura de la paz, dirigidos a servidores públicos, personal administrativo y docente, para que a través de ellos se evite la reproducción de roles estereotipados de género y se impulse la igualdad sustantiva;
 
 III.- Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar; y
 
-IV.- Establecer y aplicar las sanciones que correspondan a las personas responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
+
+IV.- Establecer y aplicar las sanciones que correspondan a las personas responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de violencia digital y escolar, conforme a lo dispuesto en esta Ley y demás disposiciones aplicables.
 
 ### CAPÍTULO DÉCIMO CUARTO. DE LOS DERECHOS AL DESCANSO Y AL ESPARCIMIENTO
 
@@ -2534,6 +2540,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 26 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1127 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; Y LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1132 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
