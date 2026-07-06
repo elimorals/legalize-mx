@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2026-06-26"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -809,7 +809,9 @@ VII.- Lenocinio, previsto en el artículo 199;
 
 VIII.- Comercialización del agua, previsto en el artículo 204;
 
-IX.- Acceso ilícito a sistemas y equipos de informática, previsto en los artículos 207 Bis, 207 Ter, 207 Quáter, 207 Quinquies y 207 Sexies;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
+
+IX.- Acceso ilícito a sistemas y equipos de informática, previsto en los artículos 207 Bis, 207 Ter, 207-Quáter, 207-Quinquies, 207-Sexies y 207-Septies;
 
 X.- Cohecho, previsto en el artículo 216;
 
@@ -2645,37 +2647,23 @@ ARTICULO 207 QUINQUIES.- Al que estando autorizado para acceder a sistemas y equ
 
 ARTICULO 207 SEXIES.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente copie, transmita o imprima información que contengan se le impondrá de uno a cuatro años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE JULIO DE 2026)</small>
 
-Los delitos previstos en este título serán sancionados por querella de la parte ofendida.
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+###### ARTICULO 207
+
+SEPTIES.- Al que estando autorizado para acceder a sistemas, equipos o medios de almacenamiento informáticos en materia de seguridad pública, indebidamente obtenga, copie, utilice, revele o transfiera información reservada o confidencial que comprometa la seguridad de las instituciones, operativos o la integridad de las personas, se le impondrá una pena de cuatro a ocho años de prisión y multa de cuatrocientas a ochocientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Si el responsable es o hubiese sido servidor público en una institución de seguridad pública, las penas se incrementarán hasta en una mitad y destitución e inhabilitación por un plazo igual al de la pena resultante para desempeñarse en otro empleo, puesto, cargo o comisión pública.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+###### ARTICULO 207
+
+OCTIES.- Los delitos previstos en este Título serán perseguidos por querella de la parte ofendida, con excepción del artículo 207-Septies, el cual será de oficio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2017)</small>
-
-###### ARTICULO 207
-
-Quáter.- Al que sin autorización, utilice, copie o modifique información contenida en sistemas o equipos de informática, protegida por algún mecanismo de seguridad, se le impondrá una sanción de dos a cinco años de prisión y multa de cien a trescientos veces el valor diario de la Unidad de Medida y Actualización.
-
-Se aumentarán… (sic)
-
-Los delitos… (sic)
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 207 QUINQUIES.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente modifique, destruye o provoque pérdida de información que contengan se impondrá una sanción de tres a ocho años de prisión y multa de trescientas a ochocientas-veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 207 SEXIES.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente copie, transmita o imprima información que contengan se le impondrá de uno a cuatro años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-Los delitos previstos en este título serán sancionados por querella de la parte ofendida.
-
-###### ARTICULO 207
-
-TER.- Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistema o equipo de informática de alguna dependencia pública, protegida por algún mecanismo se le impondrá una sanción de dos a seis años de prisión y multa de doscientos a seiscientos días salario.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ## TITULO OCTAVO. DELITOS POR HECHOS DE CORRUPCION
 
@@ -8402,6 +8390,14 @@ En un plazo no mayor a 180 días naturales, las instituciones responsables deber
 P.O. 26 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1120 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 192, PÁRRAFO PRIMERO Y 193, PÁRRAFO SEGUNDO, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1130 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 58, FRACCIÓN IX; SE ADICIONAN LOS ARTÍCULOS 207-SEPTIES Y 207-OCTIES; Y SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 207-SEXIES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
