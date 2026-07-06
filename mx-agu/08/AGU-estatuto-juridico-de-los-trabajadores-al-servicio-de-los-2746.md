@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2026-05-26"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -875,37 +875,31 @@ IX.- Hacer las deducciones en los salarios que soliciten los sindicatos correspo
 
 X.- Integrar los expedientes de los trabajadores y remitir los informes que se les soliciten para el trámite de las prestaciones sociales, dentro de los términos que señalen los ordenamientos respectivos;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2026)</small>
 
-XI.- Conceder licencias hasta por diez días hábiles a sus trabajadores mujeres y varones, con goce de sueldo y sin afectar sus derechos y antigüedad, en los casos siguientes:
+XI.- Conceder licencias con goce de sueldo a las personas trabajadoras, sin afectar derechos ni antigüedad, sin menoscabo de las demás disposiciones aplicables de este Estatuto, y hasta por diez días hábiles en los casos siguientes:
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+A.- (DEROGADO, P.O. 6 DE JULIO DE 2026)
 
-A.- Por nacimiento de un hijo o hija;
+B.- (DEROGADO, P.O. 6 DE JULIO DE 2026)
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2026)</small>
 
-B.- Por adopción de un menor, a partir del día en que sea legalmente entregado el niño, la niña, o los niños, al trabajador por la autoridad competente;
+C.- Por enfermedad o accidente que ponga en grave peligro la vida de alguna de sus hijas e hijos, de su cónyuge, concubina o concubino y de sus ascendientes, padre o madre.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2026)</small>
 
-C.- Por enfermedad o accidente que ponga en grave peligro la vida de alguno de sus hijos, de su cónyuge, concubina o concubinario y de sus ascendientes, padre o madre.
+En el caso de personas trabajadoras cuya hija o hijo padezca de cáncer, en cualquiera de sus tipos, la licencia señalada en este artículo se extenderá al tiempo señalado en el Artículo 57 Ter de esta Ley;
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2026)</small>
 
-En el caso de trabajadores cuyo hijo padezca de cáncer, en cualquiera de sus tipos, la licencia señalada en este artículo se extenderá al tiempo señalado en el Articulo 57 Ter de esta Ley; y
+D.- Por enfermedad de sus hijas e hijos, cuando por esta razón no sean admitidos en la estancia infantil;
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
+E.- (DEROGADO, P.O. 6 DE JULIO DE 2026)
 
-D.- Por enfermedad de sus hijos, cuando por esta razón no sean admitidos en la estancia infantil;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-E.- Por fallecimiento del recién nacido y/o de la madre;
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
-
-F.- Por diagnóstico de discapacidad del menor al momento del nacimiento; y
+F.- Por diagnóstico de discapacidad de la hija o hijo al momento del nacimiento; y
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2020)</small>
 
@@ -961,6 +955,26 @@ III.- Cuando el menor cumpla dieciséis años;
 
 IV.- Cuando el ascendiente que goza de la licencia sea contratado por un nuevo patrón.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+###### ARTICULO 57 Quáter.
+
+Licencia parental: La persona trabajadora tendrá derecho a una licencia de 20 días hábiles con goce de sueldo, con motivo del nacimiento de su hija o hijo. El cómputo podrá iniciarse desde cinco días antes de la fecha probable de parto o desde el día del nacimiento, a elección de la persona trabajadora. La licencia será igualmente aplicable en casos de adopción o guarda o custodia temporal o definitiva, contados a partir de la resolución o del acto de entrega correspondiente.
+
+No se requiere antigüedad mínima; bastará solicitud y la exhibición del documento idóneo. Ninguna autoridad podrá negar o condicionar la licencia por motivos ajenos a los previstos en este artículo. La licencia podrá ser ampliada en los siguientes supuestos:
+
+A.- Hasta por 15 días hábiles en parto múltiple;
+
+B.- Hasta por 15 días hábiles por enfermedad grave o condición que ponga en riesgo la vida de la hija o hijo nacido o de la persona;
+
+C.- Hasta por 30 días hábiles si falleciere la persona dentro de los 15 días posteriores al parto;
+
+D.- A solicitar una licencia por duelo en caso de fallecimiento de la persona recién nacida, de hasta 20 días hábiles.
+
+E.- Hasta por 10 días hábiles por nacimiento prematuro o por hospitalización prolongada de la persona recién nacida.
+
+Las prórrogas previstas en los incisos A, B y E deberán acreditarse mediante certificado expedido por una persona médica especialista, la prórroga prevista en el inciso C y D deberá acreditarse mediante certificado de defunción. Todos los supuestos deberán ser autorizadas (sic) por el Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+
 ### CAPITULO SEGUNDO. Obligaciones de los Trabajadores
 
 ###### ARTICULO 58.
@@ -999,33 +1013,51 @@ X.- No permitir o tolerar, así como denunciar, actos de acoso laboral, hostigam
 
 ### CAPITULO TERCERO. Trabajo de las Mujeres
 
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 58 Bis.
 
-Las modalidades que se consignen en este Capítulo tienen como propósito fundamental, la protección de la maternidad, por lo tanto, las trabajadoras tendrán los siguientes derechos:
+Las modalidades que se consignen en este Capítulo tienen como propósito fundamental la protección de la maternidad, por lo tanto, las personas trabajadoras tendrán los siguientes derechos:
 
-I.- Durante el período del embarazo, no realizarán trabajos que impliquen un esfuerzo que ponga en peligro su salud o la de su hijo;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
+
+I.- Durante el período del embarazo, no realizarán trabajos que impliquen un esfuerzo que ponga en peligro su salud o la de su hija o hijo;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 II.- Gozarán forzosamente de catorce semanas de descanso, debiendo percibir su salario íntegro, conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo.
 
-Las catorce semanas a que se refiere esta fracción podrán ser aplicadas optativamente por la trabajadora siete semanas antes de la fecha fijada para el parto y siete semanas después del mismo, o bien, seguir trabajando hasta en tanto sus condiciones físicas se lo permitan y siempre y cuando el médico autorizado por la dependencia lo certifique o nazca su hijo, en el segundo supuesto, las catorce semanas empezarán a contar a partir del día laboral siguiente al nacimiento del hijo o de la fecha en que el médico indique que la trabajadora deberá descansar durante el período de las siete semanas previas al parto;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2026)</small>
+
+Las catorce semanas a que se refiere esta fracción podrán ser aplicadas optativamente por la persona trabajadora siete semanas antes de la fecha fijada para el parto y siete semanas después del mismo, o bien, seguir trabajando hasta en tanto sus condiciones físicas se lo permitan y siempre y cuando la persona médica autorizada por la dependencia lo certifique o nazca su hija o hijo; en el segundo supuesto, las catorce semanas empezarán a contar a partir del día laboral siguiente al nacimiento de la hija o hijo o de la fecha en que la persona médica indique que la persona trabajadora deberá descansar durante el período de las siete semanas previas al parto;
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+En aquellos casos en que la persona recién nacida sea clasificada como prematura o presente condiciones de salud que, según valoración de la persona médica especialista, demanden atención especial, se concederá una prórroga de hasta cuatro semanas adicionales para las medidas correspondientes a su cuidado y recuperación. Dicha prórroga deberá acreditarse mediante certificado expedido por una persona médica especialista y deberá ser autorizada por el Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2001)</small>
 
 III.- Los períodos de descanso a que se refiere la fracción anterior se prorrogarán por el tiempo necesario en el caso de que se encuentren imposibilitadas para trabajar a causa del embarazo o del parto, en estos casos tendrán derecho al cincuenta por ciento de su salario por un período no mayor de sesenta días;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
 
-IV.- En el período de lactancia tendrán dos descansos extraordinarios por día, media hora cada uno para lactar a sus hijos o para realizar extracción manual de leche. Lo anterior se realizará en el lugar que designe la institución o dependencia, mismo que deberá ser adecuado, higiénico, privado y que cuente con lavamanos y agua corriente, así como los implementos necesarios para la refrigeración y almacenamiento de la leche; de igual forma, tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los seis primeros meses de vida del menor y de carácter complementario hasta avanzado el segundo año de edad.
+IV.- En el período de lactancia tendrán dos descansos extraordinarios por día, media hora cada uno para lactar a sus hijas e hijos o para realizar extracción manual de leche. Lo anterior se realizará en el lugar que designe la institución o dependencia, mismo que deberá ser adecuado, higiénico, privado y que cuente con lavamanos y agua corriente, así como los implementos necesarios para la refrigeración y almacenamiento de la leche; de igual forma, tendrán acceso a la capacitación y fomento para la lactancia y amamantamiento, incentivando a que la leche sea alimento exclusivo durante los seis primeros meses de vida de la niña o niño y de carácter complementario hasta avanzado el segundo año de edad;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2001)</small>
 
 V.- A regresar al puesto que desempeñaban, siempre y cuando no haya transcurrido más de un año de la fecha del parto;
 
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2001)</small>
+
 VI.- A que se computen en su antigüedad los períodos de descanso para efectos del nacimiento.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2026)</small>
 
-Las trabajadoras que adopten un niño o niña, gozarán de los mismos derechos a que se refieren las fracciones II y VI del presente Artículo, para lo cual el período de catorce semanas comenzará a contar a partir del día en que sea legalmente entregado el niño o la niña a la trabajadora por la autoridad competente.
+Las personas trabajadoras que adopten un niño o niña, gozarán de los mismos derechos a que se refieren las fracciones II y VI del presente Artículo, para lo cual el período de catorce semanas comenzará a contar a partir del día en que sea legalmente entregada la niña o el niño a la persona trabajadora por la autoridad competente; y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2026)</small>
+
+VII.- A solicitar una licencia por duelo en caso de fallecimiento de la persona recién nacida, de hasta 20 días hábiles.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
@@ -2452,3 +2484,11 @@ P.O. 26 DE MAYO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 542.- SE REFORMA EL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+– El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
