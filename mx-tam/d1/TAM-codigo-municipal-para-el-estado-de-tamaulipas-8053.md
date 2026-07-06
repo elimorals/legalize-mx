@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2026-07-01"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -159,9 +159,11 @@ V.- Dar cuenta al Congreso de los acuerdos de los Ayuntamientos que fueren contr
 
 ### CAPITULO II. DE LA ORGANIZACIÓN TERRITORIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 10.
 
-Los Municipios del Estado son los siguientes: Abasolo, Aldama, Altamira, Antiguo Morelos, Burgos, Bustamante, Casas, Camargo, El Mante, Cruillas, Güemez, Gómez Farías, González, Guerrero, Gustavo Díaz Ordaz, Hidalgo, Jaumave, Jiménez, Llera, Ciudad Madero, Mainero, Matamoros, Méndez, Mier, Miguel Alemán, Miquihuana, Nuevo Laredo, Nuevo Morelos, Ocampo, Padilla, Palmillas, Reynosa, Río Bravo, San Carlos, San Fernando, San Nicolás, Soto la Marina, Tampico, Tula, Victoria, Valle Hermoso, Villagrán y Xicoténcatl.
+Los Municipios del Estado son los siguientes: Abasolo, Aldama, Altamira, Antiguo Morelos, Burgos, Bustamante, Camargo, Casas, El Mante, Cruillas, Gómez Farías, González, Güemez, Guerrero, Gustavo Díaz Ordaz, Hidalgo, Jaumave, Jiménez, Llera, Ciudad Madero, Mainero, Matamoros, Méndez, Mier, Miguel Alemán, Miquihuana, Nuevo Laredo, Nuevo Morelos, Ocampo, Padilla, Palmillas, Reynosa, Río Bravo, San Carlos, San Fernando, San Nicolás, Soto la Marina, Tampico, Tula, Valle Hermoso, Victoria, Villagrán y Xicoténcatl.
 
 En caso de conflicto por cuestión de límites entre Municipios, el Congreso del Estado resolverá en definitiva.
 
@@ -476,8 +478,6 @@ VIII.- Adoptar conductas sistemáticas y graves que afecten al buen Gobierno y A
 IX.- Incurrir en responsabilidad por infracciones administrativas reiteradas o graves en los términos del Capítulo XIV de este Título.
 
 (NOTA: EL 10 DE SEPTIEMBRE DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IX, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 93/2026 Y SUS ACUMULADAS 95/2026, 100/2026 Y 101/2026, DECLARÓ LA INVALIDEZ DEL DECRETO NO. 66-1146 POR EL QUE SE REFORMA LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2026)</small>
 
 X.- ESTAR SUJETO A PROCESO PENAL POR LA COMISIÓN DE UN DELITO DOLOSO EN EL QUE SE HAYA DICTADO AUTO DE VINCULACIÓN A PROCESO, Y LA AUTORIDAD JUDICIAL HAYA IMPUESTO PRISIÓN PREVENTIVA EN SU CONTRA;
 
@@ -7464,6 +7464,14 @@ Para dar cumplimiento al presente Decreto, los Ayuntamientos de acuerdo a su dis
 P.O. 1 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1146 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 26, FRACCIONES IV, V Y VI Y 38, FRACCIÓN X; Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 26, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1136 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 10, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
