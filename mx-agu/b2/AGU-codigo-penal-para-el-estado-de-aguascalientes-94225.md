@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2026-06-29"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1425,13 +1425,17 @@ IX. Cuando la víctima esté sujeta a patria potestad, tutela, curatela o custod
 
 X. Cuando las lesiones se hayan cometido por mutilación, con sustancias corrosivas o hayan sido en los órganos genitales o glándulas mamarias de la víctima.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2026)</small>
 
-En el caso de homicidio doloso calificado a que se refieren las fracciones I, II, III y VIII se aplicará al responsable de 30 a 45 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados. En el caso de las fracciones IV, V, VI, VII y IX se aplicará al responsable de 35 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados.
+En el caso de homicidio doloso calificado a que se refieren las fracciones I, II, III y VIII se aplicará al responsable de 30 a 45 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2026)</small>
 
-Si las lesiones dolosas son calificadas, la punibilidad establecida en el artículo 104 de este código, se aumentará hasta en dos terceras partes en sus mínimos y máximos, en tratándose de los supuestos de las fracciones VI, VII, VIII, IX y X del presente artículo.
+En el caso de las fracciones IV, VI, VII y IX se aplicará al responsable de 35 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE JULIO DE 2026)</small>
+
+Si las lesiones dolosas son calificadas, la punibilidad establecida en el artículo 104 de este código, se aumentará hasta en dos terceras partes en sus mínimos y máximos.
 
 ###### ARTÍCULO 108.
 
@@ -3001,17 +3005,15 @@ XXXV. Inducir a uno o más elementos activos de las instituciones policiales o s
 
 XXXVI. Poner fuera del procedimiento legal y sin tener facultades para ello, en libertad a un detenido;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
 
-XXXVII. Abstenerse de informar por escrito a su superior jerárquico cualquier acto u omisión que sea de su conocimiento por razón de su empleo, cargo o comisión cuando pueda resultar gravemente afectados (sic) el patrimonio o los intereses de alguna dependencia o entidad de la Administración Pública Estatal, del Congreso del Estado o del Poder Judicial del Estado;
+XXXVII. Abstenerse de informar por escrito a su superior jerárquico cualquier acto u omisión que sea de su conocimiento por razón de su empleo, cargo o comisión cuando pueda (sic) resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la Administración Pública Estatal, del Congreso del Estado o del Poder Judicial del Estado; o
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
 
-XXXVIII. Aplicar los recursos públicos de manera distinta a aquella a la que estuvieren destinados o realizar un pago ilegal, cuando tenga a su cargo dichos recursos; o
+XXXVIII. Aplicar los recursos públicos de manera distinta a aquella a la que estuvieren destinados o realizar un pago ilegal, cuando tenga a su cargo dichos recursos.
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
-
-XXXIX. Otorgar por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
+XXXIX. (DEROGADA, P.O. 6 DE JULIO DE 2026)
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
 
@@ -3024,6 +3026,22 @@ Cuando los delitos importen una cuantía que no exceda del equivalente a 500 vec
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
 
 Cuando la cuantía exceda de 500 veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de 2 años a 12 años de prisión y de 100 a 150 días multa.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+###### ARTÍCULO 169-A.
+
+Ejercicio abusivo de funciones. Comete el delito de ejercicio abusivo de funciones:
+
+I. El servidor público que en el desempeño de su empleo, cargo o comisión, ilícitamente otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte;
+
+II. El servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o a alguna de las personas mencionadas en la fracción anterior.
+
+Al que cometa el delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
+
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
+
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de cien a ciento cincuenta días multa.
 
 ###### ARTÍCULO 170.
 
@@ -5160,3 +5178,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 538.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 543.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
