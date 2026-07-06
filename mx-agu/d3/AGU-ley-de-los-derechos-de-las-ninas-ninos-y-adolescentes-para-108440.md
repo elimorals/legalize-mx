@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2026-06-08"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -107,9 +107,9 @@ III. Adopción Internacional: Aquella que se realice en los términos de los tra
 
 IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
 
-V. Castigo Corporal: Todo castigo en el que se utilice de manera severa o innecesaria la fuerza física y tenga por objeto causar dolor o malestar;
+V. Castigo Corporal o físico: Todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -1026,6 +1026,10 @@ Estas medidas deberán establecer acciones afirmativas respecto a niñas, niños
 ###### Artículo 46.
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+Queda expresamente prohibido el uso de cualquier tipo de violencia, en especial el castigo corporal o físico, así como el castigo humillante, mediante cualquier medio y en cualquiera de sus manifestaciones. La presente prohibición se extiende a todos los ámbitos donde se desarrolla la vida de las niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2021)</small>
 
@@ -3718,3 +3722,15 @@ P.O. 8 DE JUNIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 539.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
