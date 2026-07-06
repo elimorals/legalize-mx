@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2026-04-09"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -113,17 +113,19 @@ X.- Perspectiva de persona adulta mayor.- Consiste en la metodología y los meca
 
 XI.- Abandono.- La falta de acción deliberada o no para atender de manera integral las necesidades de una persona adulta mayor, que ponga en peligro su vida o su integridad física, psíquica o moral;
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2026)</small>
 
-XII.- Cuidados paliativos.- La atención y cuidado activo, integral e interdisciplinario de pacientes cuya enfermedad no responde a un tratamiento curativo o sufren dolores evitables, a fin de mejorar su calidad de vida hasta el fin de sus días. Implica una atención primordial al control del dolor, de otros síntomas y de los problemas sociales, psicológicos y espirituales de la persona mayor. Abarcan al paciente, su entorno y su familia. Afirman la vida y consideran la muerte como un proceso normal; no la aceleran ni retrasan;
+XII.- Salud Mental.- Estado de bienestar emocional y psicológico que permite a la persona adulta mayor afrontar el estrés, desarrollar sus capacidades, mantener relaciones sociales y participar en su comunidad;
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
-
-XIII.- Maltrato.- Acción u omisión, única o repetida, contra una persona adulta mayor que produce daño a su integridad física, psicológica, moral, económica y sexual que vulnera el goce o ejercicio de sus derechos humanos y libertades fundamentales, independientemente de que ocurra en una relación de confianza; y
+XIII.- Cuidados paliativos.- La atención y cuidado activo, integral e interdisciplinario de pacientes cuya enfermedad no responde a un tratamiento curativo o sufren dolores evitables, a fin de mejorar su calidad de vida hasta el fin de sus días. Implica una atención primordial al control del dolor, de otros síntomas y de los problemas sociales, psicológicos y espirituales de la persona mayor. Abarcan al paciente, su entorno y su familia. Afirman la vida y consideran la muerte como un proceso normal; no la aceleran ni retrasan;
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
 
-XIV.- Negligencia.- Error involuntario o falta no deliberada, incluido entre otros, el descuido, omisión, desamparo e indefensión que le causa un daño o sufrimiento a una persona adulta mayor, tanto en el ámbito público como privado, cuando no se hayan tomado las precauciones normales necesarias de conformidad con las circunstancias.
+XIV.- Maltrato.- Acción u omisión, única o repetida, contra una persona adulta mayor que produce daño a su integridad física, psicológica, moral, económica y sexual que vulnera el goce o ejercicio de sus derechos humanos y libertades fundamentales, independientemente de que ocurra en una relación de confianza; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2021)</small>
+
+XV.- Negligencia.- Error involuntario o falta no deliberada, incluido entre otros, el descuido, omisión, desamparo e indefensión que le causa un daño o sufrimiento a una persona adulta mayor, tanto en el ámbito público como privado, cuando no se hayan tomado las precauciones normales necesarias de conformidad con las circunstancias.
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2020)</small>
 
@@ -187,17 +189,21 @@ VII.- La dignificación y el respeto. Que habrán de orientar y dirigir los plan
 
 VIII.- Dignidad Humana: Es un valor supremo que reconoce la calidad única y excepcional a todo ser humano por el simple hecho de serlo, del cual se desprenden todos los derechos necesarios para que las personas adultas mayores desarrollen integralmente su personalidad;
 
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2026)</small>
+
+IX.- Bienestar Mental: Es la obligación de garantizar acciones públicas encaminadas a proteger la estabilidad emocional, la autonomía, la memoria, la capacidad cognitiva y la integración afectiva de las personas adultas mayores;
+
 > <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-IX.- La progresividad: Es la obligación positiva del Estado de promover los derechos de las personas de la tercera edad de manera progresiva y gradual, de forma tal que se garantice el incremento en el grado de tutela, respeto y protección de los derechos;
+X.- La progresividad: Es la obligación positiva del Estado de promover los derechos de las personas de la tercera edad de manera progresiva y gradual, de forma tal que se garantice el incremento en el grado de tutela, respeto y protección de los derechos;
 
 > <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-X.- Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales; y
+XI.- Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales; y
 
 > <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)</small>
 
-XI.- Solidaridad intergeneracional: Relaciones recíprocas de orientación, intercambio y aprendizaje entre los miembros de dos o más generaciones; se fundamenta en una idea de estrecha colaboración, unión y asistencia mutua que permita reconocer a los adultos mayores como sujetos de derechos y activos dentro de la sociedad.
+XII.- Solidaridad intergeneracional: Relaciones recíprocas de orientación, intercambio y aprendizaje entre los miembros de dos o más generaciones; se fundamenta en una idea de estrecha colaboración, unión y asistencia mutua que permita reconocer a los adultos mayores como sujetos de derechos y activos dentro de la sociedad.
 
 ### CAPITULO II. DE LOS DERECHOS
 
@@ -517,9 +523,13 @@ VI.- Fomentar la formación y capacitación de auxiliares de personas adultas ma
 
 VII.- La Secretaría no permitirá actos de investigación clínica en el organismo vivo de las personas adultas mayores que por cualquier circunstancia no pudieran resistirse a la realización de la misma;
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
 
-VIII.- Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a las personas adultas mayores sometidas a cualquier forma de maltrato que ponga en peligro su salud, física y mental. Asimismo, darán esa atención a las personas de ésta edad, que hayan sido sujetos pasivos de la comisión de delitos que atenten contra su integridad física o mental. En éstos casos las instituciones de Salud, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de las personas adultas mayores, sin perjuicio de dar intervención a las autoridades competentes.
+VIII.- Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a las personas adultas mayores sometidas a cualquier forma de maltrato que ponga en peligro su salud, física y mental. Asimismo, darán esa atención a las personas de ésta edad, que hayan sido sujetos pasivos de la comisión de delitos que atenten contra su integridad física o mental. En éstos casos las instituciones de Salud, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de las personas adultas mayores, sin perjuicio de dar intervención a las autoridades competentes; y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2026)</small>
+
+IX.- Implementar programas de prevención, atención y seguimiento en salud mental para las personas adultas mayores, incluyendo detección temprana de depresión, ansiedad, deterioro cognitivo y trastornos neuropsiquiátricos, así como capacitación al personal de salud para su adecuada atención.
 
 ### CAPITULO IV. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS
 
@@ -753,13 +763,21 @@ V.- Llevar el seguimiento, evolución y evaluación de los casos atendidos;
 
 VI.- Llevar un expediente personal minucioso;
 
-VII.- Expedir copia del expediente en caso de que sea solicitado por sus familiares o institución que por cualquier causa continúe su atención, con objeto de darle seguimiento a su cuidado; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
 
-VIII.- Registrar los nombres, domicilios, números telefónicos y lugares de trabajo de sus familiares.
+VII.- Expedir copia del expediente en caso de que sea solicitado por sus familiares o institución que por cualquier causa continúe su atención, con objeto de darle seguimiento a su cuidado;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
+
+VIII.- Registrar los nombres, domicilios, números telefónicos y lugares de trabajo de sus familiares;
 
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2014)</small>
 
-IX.- Llevar un diario de las visitas que se le realicen, en caso de abandono por un periodo mayor a 30 días se dará aviso inmediato al Ministerio Público.
+IX.- Llevar un diario de las visitas que se le realicen, en caso de abandono por un periodo mayor a 30 días se dará aviso inmediato al Ministerio Público; y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2026)</small>
+
+X.- Garantizar que la atención a la salud mental sea proporcionada por personal capacitado y mediante programas estructurados de apoyo emocional, terapia ocupacional, estimulación cognitiva y contención psicológica, especialmente para personas en situación de abandono o duelo.
 
 > <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2023)</small>
 
@@ -1106,3 +1124,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto a la persona titular del Poder Ejecutivo del Estado, a efecto de que, en el ámbito de sus atribuciones, emita los lineamientos operativos correspondientes, en coordinación con los ayuntamientos.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1131 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, EN MATERIA DE SALUD MENTAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la adecuada implementación del presente Decreto, el Sistema DIF Tamaulipas y la Secretaría de Salud del Estado, en el ámbito de sus respectivas competencias y conforme a la disponibilidad presupuestaria autorizada, realizarán las acciones de coordinación interinstitucional necesarias para garantizar un modelo de atención integral.
