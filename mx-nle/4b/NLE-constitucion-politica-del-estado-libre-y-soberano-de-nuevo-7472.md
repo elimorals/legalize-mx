@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2026-02-19"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -977,7 +977,9 @@ Para ser Diputado se requiere lo siguiente:
 
 I. Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos civiles y políticos.
 
-II. Tener veintiún años cumplidos al día de la elección.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
+
+II. Tener dieciocho años cumplidos al día de la elección.
 
 III. Ser vecino del Estado, con residencia no menor de cinco años inmediatos anteriores a la fecha de la elección. Para quien haya nacido en el Estado bastará con que cuente con una residencia de al menos seis meses anteriores a la fecha de la elección.
 
@@ -1559,7 +1561,9 @@ Para ser Gobernador del Estado se requiere lo siguiente:
 
 I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, nativo del Estado o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
 
-II. Tener cuando menos treinta años cumplidos al día de la elección.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
+
+II. Tener cuando menos veintiocho años cumplidos al día de la elección.
 
 III. No pertenecer al estado eclesiástico ni ser ministro de algún culto.
 
@@ -2395,7 +2399,9 @@ Para ser miembro de un Ayuntamiento se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos.
 
-II. Ser mayor de veintiún años.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2026)</small>
+
+II. Ser mayor de dieciocho años.
 
 III. Tener residencia no menor de un año para el día de la elección en el Municipio en que esta se verifique.
 
@@ -4330,3 +4336,9 @@ P.O. 19 DE FEBRERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 340. SE REFORMAN LOS ARTÍCULOS 14 Y 26 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 229. SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 71, LA FRACCIÓN IL (SIC) DEL ARTÍCULO 118 Y LA FRACCIÓN IL (SIC) DEL ARTÍCULO 172, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
