@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2026-06-10"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -568,6 +568,12 @@ La Secretaría llevará el registro de las zonas de desarrollo turístico susten
 ###### ARTÍCULO 35.
 
 La Secretaría podrá celebrar convenios de cooperación con las instituciones educativas y de investigación, así como con otros organismos privados, para el desarrollo de programas de protección, conservación, mejoramiento y rehabilitación de las áreas y zonas de desarrollo turístico.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+ARTÍCULO 35 BIS.
+
+La Secretaría de Turismo del Estado, en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente y los municipios, promoverá acciones de reconocimiento, difusión y fortalecimiento de buenas prácticas ambientales en destinos turísticos del Estado, relacionadas con la limpieza de espacios públicos, reciclaje, manejo adecuado de residuos y protección de ecosistemas, conforme a la disponibilidad operativa, administrativa y presupuestal de las autoridades competentes, así como a los lineamientos que, en su caso, emitan las instancias correspondientes.
 
 ### CAPÍTULO II. ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE LOCAL
 
@@ -1596,6 +1602,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 10 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1088 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 44 BIS, PÁRRAFO 1, DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1134 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 35 BIS A LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
