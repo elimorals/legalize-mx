@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2026-04-28"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -138,6 +138,10 @@ XIV.- La prevención, orientación, control y vigilancia en materia de nutrició
 XIV Bis.- La cirugía bariátrica podrá ser integrada por las instituciones públicas locales que forman parte del Sistema Nacional de Salud, como un tratamiento de la obesidad mórbida y sus comorbilidades, de conformidad con los criterios y condiciones previstos en la Ley General de Salud y demás normas, protocolos y disposiciones legales aplicables.
 
 Los establecimientos autorizados que practiquen la cirugía bariátrica deberán contar con la infraestructura, equipo biomédico, medicamentos, insumos y recursos humanos multidisciplinarios adecuados para dichos procedimientos de alta complejidad, considerando en todo momento la seguridad del paciente y la calidad de atención.
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2026)</small>
+
+XIV Ter.- La supervisión del ejercicio de los procedimientos médicos y actos quirúrgicos con fines estéticos de acuerdo con lo dispuesto en la regulación respectiva vigente.
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
@@ -648,6 +652,12 @@ Cuando sea urgente la interrupción legal del embarazo para salvaguardar la salu
 Las instituciones públicas de salud deberán garantizar la oportuna prestación de los servicios y la permanente disponibilidad de personal de salud no objetor de conciencia en la materia.
 
 El ejercicio de la objeción de conciencia no derivará en ningún tipo de discriminación laboral.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+###### Artículo 12 Quinquies.
+
+Queda prohibida la realización de procedimientos de cirugía estética y reconstructiva en personas menores de edad, exceptuando aquellos indispensables para la restauración de la salud consecuencia de malformaciones congénitas, enfermedades o accidentes.
 
 ###### Artículo 13.
 
@@ -2934,5 +2944,11 @@ P.O. 26 DE DICIEMBRE DE 2025.
 P.O. 28 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 618 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN XXX DEL APARTADO A DEL ARTÍCULO 3 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE PREVENCIÓN DEL CÁNCER”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 659 – LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROCEDIMIENTOS MÉDICO ESTÉTICOS Y CIRUGÍA PLÁSTICA EN ADOLESCENTES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
