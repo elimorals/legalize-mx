@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2026-05-27"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -43,9 +43,11 @@ LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 1.
 
-La presente Ley es de orden público e interés social y de observancia obligatoria en el ámbito territorial del Estado de Tamaulipas, y tiene por objeto la protección de las especies animales que se encuentren dentro del Estado de Tamaulipas, estableciendo las bases para:
+La presente Ley es de orden público e interés social y de observancia obligatoria en el ámbito territorial del Estado de Tamaulipas, y tiene por objeto la protección y el bienestar integral de las especies animales que se encuentren dentro del Estado de Tamaulipas, estableciendo las bases para garantizar su desarrollo conforme a los cinco dominios del bienestar animal: nutrición, ambiente, salud, comportamiento y estado mental positivo, estableciendo las bases para:
 
 I. Dar cuidado y protección a las especies de animales domésticos y silvestres;
 
@@ -1570,6 +1572,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 27 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1064 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VI, VII Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 1, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1133 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 1, PÁRRAFO ÚNICO, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
