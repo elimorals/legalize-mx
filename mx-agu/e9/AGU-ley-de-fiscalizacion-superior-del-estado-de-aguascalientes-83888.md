@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fiscalizacion-superior-del-estado-de-aguascalientes-8388
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2025-05-19"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de noviembre de 2011.
 
@@ -146,6 +146,12 @@ XXVIII. Observaciones Preliminares: Documento elaborado en términos del Artícu
 > <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
 
 XXIX. Pliego de Observaciones: Documento derivado de la revisión y Fiscalización Superior de las Cuentas Públicas, en el que se presume la existencia de hechos o conductas que produzcan daños o perjuicios, o ambos, en contra de las Haciendas Públicas o Patrimonio de los Entes Fiscalizados, en el que se determinará en cantidad líquida, la presunta responsabilidad de los infractores, la cual deberá contabilizarse de inmediato.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+ARTÍCULO 3° BIS.- Tratándose de los informes a que se refieren las fracciones XVII, XVIII y XIX del artículo 3º de esta Ley, la información que tenga carácter público deberá publicarse en el portal oficial de Internet del Órgano Superior de Fiscalización del Estado de Aguascalientes, en formatos abiertos y accesibles, de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y los principios de transparencia, máxima publicidad y rendición de cuentas que rigen la fiscalización superior.
+
+Dicha publicación se realizará siempre que no se revele información clasificada como reservada de manera temporal o que forme parte de un proceso de investigación, en términos de la legislación aplicable. La información que se encuentre clasificada como reservada deberá incorporarse a la plataforma correspondiente una vez que concluya el periodo de reserva o desaparezcan las causas que dieron origen a su clasificación.
 
 ###### ARTÍCULO 4º.
 
@@ -2122,3 +2128,11 @@ P.O. 19 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 540.- SE ADICIONA UN ARTÍCULO 3º BIS A LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes. El Órgano Superior de Fiscalización del Estado de Aguascalientes contará con un plazo de hasta ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto para emitir o adecuar las disposiciones, lineamientos y mecanismos necesarios para su cumplimiento.
