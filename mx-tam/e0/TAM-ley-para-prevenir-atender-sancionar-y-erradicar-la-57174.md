@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2026-06-26"
+last_updated: "2026-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -274,6 +274,16 @@ XX. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE JUNIO DE 2026)</small>
 
 XXI. Violencia contra las mujeres: Cualquier conducta de acción o conducta, basada en su género, que cause muerte, daño o sufrimiento psicológico, físico, patrimonial, económico, sexual, obstétrica o diversa en la mujer, tanto en el ámbito privado como en el público.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2026)</small>
+
+###### Artículo 3 Ter.
+
+La prevención, atención y seguimiento de la violencia obstétrica se realizará bajo los principios de trato digno, consentimiento informado, autonomía reproductiva, no discriminación y perspectiva de género, garantizando a las mujeres información clara sobre sus derechos durante el embarazo, parto y puerperio.
+
+Las autoridades competentes deberán coordinarse con la Secretaría de Salud, el Sistema para el Desarrollo Integral de la Familia, la Procuraduría de Protección de Niñas, Niños y Adolescentes y el Instituto de la Mujer de Tamaulipas, a fin de asegurar rutas accesibles de orientación, denuncia, acompañamiento psicológico y jurídico, así como mecanismos de reparación integral para las víctimas de violencia obstétrica.
+
+Esta coordinación tendrá por objeto fortalecer la respuesta institucional y asegurar que la atención obstétrica en el Estado se brinde con respeto, oportunidad, calidad y enfoque humanista.
 
 ### Capítulo II. Modalidades de la violencia
 
@@ -1882,3 +1892,17 @@ P.O. 26 DE JUNIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1137 MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y A LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, EN MATERIA DE PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA OBSTÉTRICA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud, en coordinación con las autoridades competentes, emitirá los lineamientos, protocolos y criterios técnicos necesarios para la prevención, atención y erradicación de la violencia obstétrica.
+
+###### ARTÍCULO TERCERO.
+
+Las instituciones de salud públicas y privadas deberán realizar las adecuaciones administrativas, operativas y de capacitación que resulten necesarias para cumplir lo dispuesto en este Decreto.
