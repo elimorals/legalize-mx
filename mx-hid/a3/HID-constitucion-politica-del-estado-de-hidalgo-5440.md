@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2026-05-07"
+last_updated: "2026-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -1027,6 +1027,10 @@ En materia electoral la interposición de los medios de impugnación no producir
 
 El Código Penal tipificará los delitos y la Ley determinará las faltas en esa materia, en ambos casos se establecerán las sanciones que por ello deban de imponerse.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2026)</small>
+
+Las remuneraciones de las magistradas y magistrados del Tribunal Electoral del Estado, de las personas consejeras electorales y de las personas titulares de áreas ejecutivas y técnicas del Instituto Estatal Electoral, no excederán el límite establecido en el artículo 157 de esta Constitución. Además, queda prohibido para dichas personas adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
+
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 25.
@@ -1086,6 +1090,10 @@ El ejercicio del Poder Legislativo se deposita en un órgano que se denominará 
 ###### Artículo 29.
 
 El Congreso se integra por 18 Diputadas y Diputados de mayoría electos por votación directa, secreta y uninominal mediante el sistema de distritos electorales, así como por 12 Diputadas y Diputados electos según el principio de representación proporcional, quienes como resultados de la misma elección se designarán mediante el procedimiento que la Ley de la materia establezca.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2026)</small>
+
+Para la integración y funcionamiento del Congreso, las leyes respectivas establecerán los mecanismos y criterios que garanticen el principio de paridad de género, igualdad sustantiva y perspectiva de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
@@ -1258,6 +1266,10 @@ Las obligaciones de pago que se establecen en las fracciones I, II y III anterio
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
 Los Poderes Estatales Legislativo, Ejecutivo y Judicial, incluyendo las entidades paraestatales, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de sus proyectos de presupuestos los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2026)</small>
+
+El presupuesto anual asignado al Congreso del Estado no podrá exceder del cero punto setenta por ciento del total del Presupuesto de Egresos del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -2907,11 +2919,11 @@ Cada municipio será gobernado por un Ayuntamiento de elección popular directa 
 
 El Ayuntamiento es el órgano de Gobierno municipal a través del cual, el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2026)</small>
 
 ###### Artículo 124.
 
-Los Ayuntamientos se integran por un Presidente o Presidenta Municipal, las sindicaturas y las regidurías que establezca la Ley respectiva, de conformidad con el principio de paridad de género.
+Los Ayuntamientos se integran por un Presidente o Presidenta Municipal, una sindicatura y hasta quince regidurías, de conformidad con la ley respectiva, bajo los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -4982,3 +4994,31 @@ P.O. 7 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 625 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE ADAPTACIÓN Y MITIGACIÓN ANTE EL CAMBIO CLIMÁTICO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 656 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE AUSTERIDAD PRESUPUESTARIA ADMINISTRATIVA, IGUALDAD SUSTANTIVA Y PARIDAD DE GÉNERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Congreso del Estado deberá realizar las adecuaciones correspondientes a la legislación secundaria a efecto de darle cumplimiento al presente Decreto.
+
+En tanto, se aplicarán en lo conducente, de manera directa, las disposiciones constitucionales en la materia y supletoriamente, el Código Electoral del Estado de Hidalgo, en todo lo que no se contraponga al presente Decreto.
+
+TERCERO. La integración de los Ayuntamientos establecida en lo dispuesto en el primer párrafo del artículo 124 de esta Constitución surtirá efectos a partir del periodo administrativo municipal subsecuente en la entidad.
+
+CUARTO. El Instituto Estatal Electoral y el Tribunal Electoral del Estado deberán adecuar sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el presente Decreto.
+
+El Congreso del Estado garantizará que los presupuestos de los entes públicos y autoridades electorales locales se ajusten a lo establecido en los artículos 24, último párrafo, y 157 de esta Constitución, por lo que realizará, en cada ejercicio fiscal, los ajustes necesarios a los presupuestos que integre, previo a su aprobación.
+
+QUINTO. Los recursos públicos que resulten como economías o ahorros en el Presupuesto de Egresos del Estado derivados de las reducciones que, en su caso, se realicen en la integración de los Ayuntamientos conforme al primer párrafo del artículo 124 de esta Constitución, quedarán en el patrimonio de la hacienda pública de cada municipio. El Congreso del Estado destinará los recursos excedentes a obras de infraestructura pública en beneficio de la población dentro del presupuesto correspondiente, en los términos de la legislación aplicable, garantizando en todo momento los principios de legalidad, honradez, transparencia y austeridad.
+
+SEXTO. El Congreso del Estado no podrá autorizar, aprobar o ejercer para sí mismo incrementos presupuestarios reales respecto del monto aprobado para el ejercicio fiscal 2026, ni incrementar dicha proporción respecto del Presupuesto de Egresos del Estado en los ejercicios fiscales subsecuentes.
+
+El monto del presupuesto anual del Congreso del Estado únicamente podrá actualizarse conforme a la inflación anual.
+
+El Congreso del Estado no podrá aprobar ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas o cualquier otro mecanismo que tenga por objeto o efecto incrementar directamente el presupuesto del Poder Legislativo del Estado por encima del límite previsto en el presente Decreto.
+
+El Congreso del Estado deberá efectuar las adecuaciones a la legislación secundaria de conformidad con lo dispuesto en este transitorio y establecer los mecanismos institucionales de control, disciplina presupuestaria y responsabilidad administrativa necesarios para asegurar su cumplimiento.
+
+SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
