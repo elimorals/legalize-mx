@@ -4,7 +4,7 @@ identifier: "HID-ley-del-notariado-para-el-estado-de-hidalgo-72402"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-25"
-last_updated: "2024-08-20"
+last_updated: "2026-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "HID"
 ---
 # LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO
 
+NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 7 DE JULIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
+
 LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2026 (ABROGADA).
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 25 de enero de 2010.
 
@@ -2028,3 +2032,21 @@ P.O. 20 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1027 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 07 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 657 -LXVI POR EL QUE SE CREA LA LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. Esta Ley entrará en vigor a los 180 días naturales siguientes al día (sic) su publicación en el Periódico Oficial del Estado de Hidalgo, salvo lo señalado en los artículos transitorios Primero y Segundo del Decreto por el que fue expedido el Código Nacional de Procedimientos Civiles y Familiares, publicado en el Diario Oficial de la Federación el día 7 siete de junio de 2023, cuya aplicación se realizará de conformidad con la Declaratoria que al efecto emita el Congreso del Estado Libre y Soberano de Hidalgo.
+
+SEGUNDO. Una vez que entre en vigor la presente Ley, se abrogará la Ley del Notariado para el Estado de Hidalgo publicada en el Periódico Oficial del Estado de Hidalgo, el día 25 de enero de 2010 y sus específicas reformas, quedando derogadas las disposiciones contrarias a esta Ley.
+
+TERCERO. Se respetarán los derechos adquiridos y todos los asuntos y trámites iniciados durante la vigencia de la Ley del Notariado que quedará abrogada; serán válidos hasta la etapa procedimental y de gestión en que se encuentren a la entrada en vigor de esta Ley.
+
+CUARTO. Las Personas Notarias Titulares en caso de que no tengan Adscrito o Asociado, deberán celebrar convenio de suplencia con otra Persona Notario Titular, al que se refiere la fracción VII del artículo 78 de la presente Ley, en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley; si no lo hiciere, la Dirección General del Archivo General de Notarías designará a la Persona Notario Titular Suplente. En el caso de Personas Notarios Titulares con goce de licencia a la entrada en vigor de la presente Ley, quedarán facultadas para que dentro del término a que se refiere el párrafo anterior, celebren exclusivamente el convenio de suplencia.
+
+QUINTO. El Colegio tendrá un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de esta Ley para reformar sus estatutos y adecuarlos a esta ley.
+
+SEXTO. La Ley que regule la Actuación Digital Notarial en el Estado, deberá expedirse en un plazo de 180 días hábiles, contados a partir del día en (sic) la entrada en vigor de la presente ley y entrará en vigor en un plazo de doce meses a partir del día de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SÉPTIMO. Para el caso a que hace referencia la fracción III, del artículo 21 de esta ley, la terminación de la patente por edad, sólo aplicará para las Personas Notarios que hayan obtenido la patente en los términos y bajo la vigencia de la presente Ley.
