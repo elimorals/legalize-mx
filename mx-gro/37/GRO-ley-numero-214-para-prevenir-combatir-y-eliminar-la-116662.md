@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-214-para-prevenir-combatir-y-eliminar-la-116662"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-19"
-last_updated: "2024-03-12"
+last_updated: "2026-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2026.
 
 Ley publicada en el Número 58 Alcance I del Periódico Oficial del Estado de Guerrero, el martes 19 de julio de 2016.
 
@@ -219,9 +219,15 @@ XXXII. Difundir sin consentimiento del o la agraviada información sobre su cond
 
 XXXIII. Estigmatizar o negar derechos a personas que viven con VIH/SIDA;
 
-XXXIV. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas, y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2026)</small>
 
-XXXV. En general cualquier otro acto u omisión discriminatorio en términos del artículo 1, de esta Ley.
+XXXIV. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2026)</small>
+
+XXXV. Prohibir, limitar o restringir el acto de amamantar en espacios públicos; y
+
+XXXVI. En general cualquier otro acto u omisión discriminatorio en términos del artículo 1, de esta Ley.
 
 ### CAPÍTULO III. Medidas de inclusión y de nivelación y de acciones afirmativas
 
@@ -1028,3 +1034,13 @@ PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
+
+P.O. 7 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 543 POR EL QUE SE REFORMA LA FRACCIÓN XXXIV Y SE ADICIONA LA FRACCIÓN XXXV, RECORRIENDO LA FRACCIÓN SUBSECUENTE DEL ARTÍCULO 11 DE LA LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
