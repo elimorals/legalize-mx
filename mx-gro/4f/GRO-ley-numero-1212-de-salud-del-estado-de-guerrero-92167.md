@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2026-03-27"
+last_updated: "2026-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2026.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -399,6 +399,10 @@ XVIII. Impulsar, en los términos de los convenios que al efecto se suscriban, l
 
 XIX. Administrar los recursos y las cuotas de recuperación que le sean asignados, así como las aportaciones que reciba de otras personas o instituciones;
 
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2026)</small>
+
+XX. Coordinarse con la Federación en materia de salud digital.
+
 Se determinan como áreas de coordinación prioritarias las relativas a:
 
 I. Desastres y accidentes;
@@ -553,7 +557,9 @@ IX. Formular recomendaciones a las dependencias competentes, sobre la asignació
 
 X. Impulsar, en el ámbito estatal, actividades científicas y tecnológicas de salud;
 
-XI. Coadyuvar con las dependencias federales competentes a la regulación y control de la transferencia de tecnología en el área de la salud;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2026)</small>
+
+XI. Coadyuvar con las dependencias federales competentes en la regulación y control de la transferencia de tecnología en el área de la salud; así también en la incorporación de la salud digital y sus componentes, incluyendo la telesalud y la telemedicina, en la prestación de servicios médicos, conforme a las normas oficiales mexicanas que emita la Secretaría de Salud.
 
 XII. Apoyar la coordinación entre las instituciones estatales y federales de salud y educativas, para formar y capacitar recursos humanos para la salud;
 
@@ -955,9 +961,11 @@ III. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporci
 
 IV. De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas y mentales.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 52.
 
-El Gobierno del Estado, a través de la Secretaría de Salud, establecerá políticas públicas dirigidas a fortalecer los servicios de primer nivel de atención, como son los centros de salud y hospitales básico comunitarios, fortaleciéndolos en su capacidad resolutiva, con la finalidad que resuelvan las demandas más frecuentes en la atención integral de la salud de la población.
+El Gobierno del Estado, a través de la Secretaría de Salud, establecerá políticas públicas dirigidas a fortalecer los servicios de primer nivel de atención, como son los centros de salud, hospitales básicos comunitarios, y servicios de telemedicina, fortaleciéndolos en su capacidad resolutiva, con la finalidad de atender de manera integral las demandas más frecuentes de la salud de la población.
 
 ###### ARTICULO 53.
 
@@ -1056,6 +1064,10 @@ Es deber de la autoridad sanitaria informar a las personas en lo individual, y e
 ###### ARTICULO 72.
 
 Toda persona tiene derecho a que las actuaciones de las autoridades sanitarias y de prestación de servicio, se realicen en condiciones de igualdad sin que pueda producirse discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2026)</small>
+
+Las personas indígenas, o cualquier persona que tenga dificultades para expresarse en idioma español, tienen derecho a contar con un intérprete en su propia lengua. Este intérprete deberá transmitir fielmente lo que la persona manifieste, para que los médicos puedan elaborar diagnósticos adecuados y atender de inmediato su salud.
 
 ###### ARTICULO 73.
 
@@ -1422,6 +1434,10 @@ Las autoridades educativas, en coordinación con las autoridades sanitarias esta
 De la misma manera, promoverán la capacitación intercultural de los recursos humanos que laboren en las regiones, pueblos indígenas y afrodescendientes; para que se reconozca, respete y promueva el desarrollo y fortalecimiento de la medicina tradicional. Los programas de atención a la salud que se desarrollen en comunidades indígenas y afrodescendientes, deberán ser consultados previamente con dichas comunidades y adaptarse a su estructura social y administrativa, así como a su concepción de la salud y la enfermedad, propiciando una relación médico-paciente apegada al respeto de los derechos humanos.
 
 Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2026)</small>
+
+Las autoridades de salud deberán contar con personal capaz de comunicarse de manera efectiva con la población indígena o con quienes tengan dificultades para hacerlo en español. Este personal transmitirá con fidelidad lo que la persona exprese, para que se realicen diagnósticos adecuados y se garantice la atención oportuna de su salud.
 
 ###### ARTICULO 104.
 
@@ -3456,3 +3472,27 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta Parlamentaria del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 7 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 540 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO, EN MATERIA DE SALUD DIGITAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Para la implementación de lo dispuesto en el presente Decreto, las autoridades de salud del Estado de Guerrero deberán coordinarse con la Secretaría de Finanzas y Administración del gobierno del Estado, para analizar la propuesta, generar las condiciones de su viabilidad presupuestaria y operatividad.
+
+CUARTO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta Parlamentaria del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 7 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 541 POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 72 Y UN PÁRRAFO CUARTO AL ARTÍCULO 103 DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Para la implementación de lo dispuesto en el presente Decreto, las autoridades de salud del Estado de Guerrero deberán coordinarse con la Secretaría de Asuntos Indígenas del Estado y con el Instituto Nacional de los Pueblos Indígenas, a fin de garantizar la participación de dichas instituciones en el diseño, capacitación y operación de los servicios de interpretación en salud. La ejecución de estas acciones estará sujeta a la disponibilidad presupuestal, de manera que se asegure la viabilidad financiera y la colaboración institucional necesaria para cumplir con el objetivo de garantizar el acceso universal, incluyente y digno a los servicios de salud.
+
+CUARTO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta Parlamentaria del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
