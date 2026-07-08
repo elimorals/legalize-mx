@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-inclusion-y-desarrollo-de-las-personas-con-125840"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-24"
-last_updated: "2026-07-01"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Folleto Anexo al Número 7 del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2018.
 
@@ -238,6 +238,14 @@ Los entes públicos están obligados a asumir la discapacidad como una caracter�
 ###### Artículo 9.
 
 Todas las oficinas, dependencias, instituciones públicas o privadas y especialmente donde se brinden servicios de atención al público, deberán ser accesibles y ofrecerán un trato preferente en la atención de personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2026)</small>
+
+###### Artículo 9 Bis.
+
+Los lugares o espacios de uso preferencial para personas con discapacidad o movilidad reducida, deberán estar identificados mediante el logotipo internacional de accesibilidad.
+
+En el caso de los cajones de estacionamiento de uso reservado para vehículos, y de las rampas especiales de acceso a las banquetas diseñadas para personas con discapacidad o movilidad reducida, además, se estará a lo dispuesto por la ley de la materia.
 
 ###### Artículo 10.
 
@@ -1124,3 +1132,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Anualmente se incorporarán en el Presupuesto de Egresos correspondiente, las asignaciones para cumplir con la obligación establecida en el presente Decreto.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFLEY/0520/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 9 BIS, A LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
