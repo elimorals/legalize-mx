@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2026-06-11"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -477,13 +477,17 @@ XXI. Derecho a una crianza positiva;
 
 XXII. Derecho a una parentalidad asistida;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-XXIII. Derecho a una alimentación nutritiva, suficiente y de calidad, y
+XXIII. Derecho a una alimentación nutritiva, suficiente y de calidad;
 
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-XXIV. Derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+XXIV. Derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad, y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XXV. Derecho a gozar de los beneficios del progreso humanístico, científico y tecnológico.
 
 Las autoridades federales, estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -1355,6 +1359,10 @@ XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que 
 
 XIX. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, inculcando en ellos la adopción de hábitos dirigidos a la protección y conservación del mismo, así como a su concientización del uso racional del agua y de las causas y efectos del cambio climático;
 
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XIX Bis. Fomentar en las niñas, niños y adolescentes, una orientación integral con enfoque humanista, científico y tecnológico;
+
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
@@ -1403,13 +1411,17 @@ VIII. Promover la educación sexual integral conforme a su edad, el desarrollo e
 
 IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos; y
+X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos;
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-XI. Promover estilos de vida saludable, fomento al deporte y la activación física diaria, la concientización sobre las causas y efectos del sedentarismo y la educación para la salud.
+XI. Promover estilos de vida saludable, fomento al deporte y la activación física diaria, la concientización sobre las causas y efectos del sedentarismo y la educación para la salud, y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XII. Fomentar la investigación, la ciencia, la tecnología y la innovación.
 
 ###### Artículo 58.
 
@@ -1885,11 +1897,11 @@ La toma de decisión que realicen respecto de cualquier producto o servicio, deb
 
 ### Capítulo Vigésimo Primero. Del Derecho a una Crianza Positiva
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
 ###### Artículo 100 Bis 4.
 
-Toda niña, niño y adolescente tiene derecho al buen trato y a la crianza positiva, entendiéndose esta, al conjunto de prácticas de cuidado, protección, formación y guía que permiten brindar una educación con amor, sin violencia, basada en el respeto recíproco, la comunicación y la confianza mutua, y que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones; todo dentro de un marco de respeto a sus derechos.
+Toda niña, niño y adolescente tiene derecho al buen trato y a la crianza positiva, entendiéndose ésta, al conjunto de prácticas de cuidado, protección, formación y guía que permiten brindar una educación con amor, sin violencia, basada en el respeto recíproco, la comunicación y la confianza mutua, y que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones; salvaguardando el interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 2021)</small>
 
@@ -1897,7 +1909,9 @@ Toda niña, niño y adolescente tiene derecho al buen trato y a la crianza posit
 
 El derecho a una crianza positiva implica la prohibición expresa de cualquier medida que involucre castigo corporal o cualquier tipo de violencia como método de corrección o sanción disciplinaria.
 
-Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a aquellos el uso del castigo corporal ni el castigo humillante.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza positiva de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a aquellos el uso del castigo corporal ni el castigo humillante, promoviendo el libre desarrollo de su personalidad.
 
 Castigo corporal o físico es todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligación de sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
 
@@ -1983,11 +1997,25 @@ III. Incorporar como criterio en el diseño del espacio público y la infraestru
 
 IV. Promover espacios públicos y zonas recreativas, deportivas y de juego que sean seguras, accesibles y suficientes, considerando la edad, diversidad funcional, discapacidad u otras condiciones, para garantizar los derechos al deporte, al juego, al esparcimiento y al desarrollo saludable.
 
-### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2026)</small>
+
+### Capítulo Vigésimo Quinto. Del derecho a participar y acceder a los beneficios del progreso humanístico, científico y tecnológico
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2026)</small>
+
+###### Artículo 100 Bis 13.
+
+Todas las niñas, niños y adolescentes tienen derecho a participar y acceder a los beneficios del progreso humanístico, científico y tecnológico. Para ejercer de forma plena este derecho, las niñas, niños y adolescentes tienen derecho a recibir información completa, y a conocer los riesgos derivados del uso de los avances científicos y tecnológicos, y de sus aplicaciones, así como a conocer las implicaciones y alcances de la actividad científica y de la innovación tecnológica.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2026)</small>
+
+###### Artículo 100 Bis 14.
+
+Para garantizar el derecho humano a la ciencia de niñas, niños y adolescentes, el Estado y los Municipios promoverán investigaciones en áreas afines al progreso humanístico, científico y tecnológico; así como a otorgar la protección necesaria frente a los riesgos y consecuencias negativas que la investigación científica, el desarrollo tecnológico o sus aplicaciones puedan tener en el ejercicio de sus derechos.
 
 ## TÍTULO TERCERO. De las Obligaciones
 
-### Capítulo Único. De los Centros de Asistencia Social
+### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
 
 ###### Artículo 101.
 
@@ -2091,7 +2119,7 @@ No podrá declararse la caducidad, ni la prescripción en perjuicio de niñas, n
 
 ## TÍTULO CUARTO. De la Protección de Niñas, Niños y Adolescentes
 
-### Capítulo Primero. De las autoridades
+### Capítulo Único. De los Centros de Asistencia Social
 
 ###### Artículo 106.
 
@@ -2223,7 +2251,7 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ## TÍTULO QUINTO. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
-### Capítulo Segundo. De la Distribución de Competencias
+### Capítulo Primero. De las autoridades
 
 ###### Artículo 113.
 
@@ -2231,11 +2259,7 @@ Las autoridades estatales y municipales y de los organismos constitucionales aut
 
 Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
-### Capítulo Tercero
-
-De la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
+### Capítulo Segundo. De la Distribución de Competencias
 
 ###### Artículo 114.
 
@@ -2367,7 +2391,11 @@ XII. Las demás que establezca el ordenamiento jurídico estatal y aquéllas que
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ABRIL DE 2026)</small>
 
-### Capítulo Cuarto. Del Sistema Estatal de Protección Integral
+### Capítulo Tercero
+
+De la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
 
 ###### Artículo 118.
 
@@ -2595,7 +2623,7 @@ El nombramiento de la persona Titular de la Procuraduría de Protección deberá
 
 La Procuraduría Estatal de Protección contará con oficinas regionales a efecto de que logre la mayor presencia y cobertura posible, quienes coordinarán operativamente a las Procuradurías Municipales.
 
-### Capítulo Quinto. Del Programa Estatal
+### Capítulo Cuarto. Del Sistema Estatal de Protección Integral
 
 ###### Artículo 122.
 
@@ -2701,7 +2729,7 @@ El Sistema Estatal de Protección Integral se reunirá cuando menos dos veces al
 
 Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección Integral podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, las cuales deberán ser publicadas en el Periódico Oficial.
 
-### Capítulo Sexto. De la Secretaría Ejecutiva
+### Capítulo Quinto. Del Programa Estatal
 
 ###### Artículo 127.
 
@@ -2721,7 +2749,7 @@ El Programa Estatal deberá incluir mecanismos transparentes que permitan su eva
 
 Los Sistemas Estatal y municipales contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
 
-### Capítulo Séptimo. De la Evaluación y Diagnóstico
+### Capítulo Sexto. De la Secretaría Ejecutiva
 
 ###### Artículo 131.
 
@@ -2775,9 +2803,7 @@ III. Tener como mínimo cinco años de experiencia en las áreas correspondiente
 
 IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-### Capítulo Octavo. De los Sistemas Municipales de Protección
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2021)</small>
+### Capítulo Séptimo. De la Evaluación y Diagnóstico
 
 ###### Artículo 133.
 
@@ -2785,9 +2811,9 @@ Corresponde a la Unidad Técnica de Evaluación del Desempeño del Estado [UTED]
 
 La evaluación consistirá en revisar periódicamente el cumplimiento de metas y acciones en materia de derechos de niñas, niños y adolescentes y de acuerdo con el resultado, tanto el Consejo Nacional de Evaluación de la Política de Desarrollo Social [CONEVAL] y a la Unidad Técnica de Evaluación del Desempeño del Estado [UTED] podrán emitir las sugerencias y recomendaciones que consideren pertinentes a través de las instancias competentes.
 
-### Capítulo Octavo Bis. De las Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes
+### Capítulo Octavo. De los Sistemas Municipales de Protección
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2021)</small>
 
 ###### Artículo 134.
 
@@ -2867,7 +2893,9 @@ IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor pú
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2026)</small>
 
-### Capítulo Noveno. De la Comisión Estatal de los Derechos Humanos
+### Capítulo Octavo Bis. De las Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
 
 ###### Artículo 135 Ter.
 
@@ -2963,13 +2991,15 @@ V.- Acordar y coordinar con las instituciones que corresponda el cumplimiento de
 
 VI.- Dar seguimiento a cada una de las acciones del plan de restitución de derechos, hasta cerciorarse de que todos los derechos de las niñas, niños o adolescentes involucrados se encuentren garantizados.
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+### Capítulo Noveno. De la Comisión Estatal de los Derechos Humanos
 
 ###### Artículo 136.
 
 La Comisión Estatal de los Derechos Humanos en el ámbito de su competencia, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, situación prevista en la Ley de Derechos Humanos del Estado que, dentro de sus facultades contempla desarrollar programas de atención prioritaria a grupos especialmente vulnerables en materia de derechos humanos, siendo de especial atención, la niñez.
 
 ## TÍTULO SEXTO. De las Infracciones Administrativas
+
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 137.
 
@@ -3456,3 +3486,15 @@ P.O. 11 DE JUNIO DE 2026.
 PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO: La Secretaría de Turismo del Estado de Hidalgo deberá expedir los protocolos y ordenamientos que den cumplimiento a lo establecido en el presente Decreto.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 377 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, A FIN DE PROMOVER SU DERECHO HUMANO A LA CIENCIA Y SUS BENEFICIOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 576 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE CRIANZA POSITIVA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
