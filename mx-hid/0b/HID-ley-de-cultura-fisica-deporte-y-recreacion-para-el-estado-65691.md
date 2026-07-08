@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2025-12-29"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -123,17 +123,17 @@ I.- Formar y coadyuvar al desarrollo integral del ser humano, en lo individual, 
 
 II.- Fortalecer la interacción e integración de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de la persona;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE JULIO DE 2026)</small>
 
 III.- Integrar los proyectos y programas educativos, de salud, laborales y de formación personal;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE JULIO DE 2026)</small>
 
 IV.- Requerir del esfuerzo coordinado y de colaboración entre distintos ámbitos de gobierno y éstos con la sociedad; y
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE JULIO DE 2026)</small>
 
-V.- Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones.
+V. Transversalidad de la perspectiva de género.
 
 ###### Artículo 6.
 
@@ -227,9 +227,9 @@ VII.- Poner en marcha acciones en materia de deporte, con base en las opiniones 
 
 VIII.- Otorgar reconocimientos y estímulos a las personas que en lo individual o colectivo, Entidades y organizaciones sociales hayan sobresalido y distinguido en materia deportiva en eventos Estatales, Nacionales o Internacionales, o se distingan por sus actividades en el fomento, difusión, promoción e investigación deportiva y de la cultura física;
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-VIII Bis.- Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como en la vida deportiva.
+VIII Bis.- Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como promover su participación en roles de liderazgo en el deporte;
 
 IX.- Suscribir convenios y acuerdos de coordinación que se hagan necesarios con la Federación, Entidades federativas, ayuntamientos o Entidades públicas y privadas, Nacionales o Internacionales, que tengan por objeto la promoción, difusión, fomento e investigación deportiva para la consecución de sus fines, de conformidad con esta Ley;
 
@@ -1964,5 +1964,11 @@ P.O. 26 DE DICIEMBRE DE 2025.
 P.O. 29 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 381 – LXVI POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 37 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE PRINCIPIOS RECTORES DE LOS REGLAMENTOS EXPEDIDOS POR LOS MUNICIPIOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 581 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE PERSPECTIVA DE GÉNERO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
