@@ -4,7 +4,7 @@ identifier: "HID-ley-del-centro-de-conciliacion-laboral-del-estado-de-hidalgo-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-16"
-last_updated: "2019-12-31"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 16 de abril de 2018.
 
@@ -205,7 +205,7 @@ Para ser Director General se deberá cumplir con lo siguiente:
 
 I.- Ser mexicano y estar en pleno goce de sus derechos civiles y políticos;
 
-II.- Tener, por lo menos, 35 años de edad cumplidos al día de la designación;
+II.- (DEROGADA, P.O. 8 DE JULIO DE 2026)
 
 III.- Tener título y cédula profesional de licenciado en derecho o abogado registrado ante la Dirección General de Profesiones de la Secretaría de Educación Pública;
 
@@ -374,3 +374,11 @@ PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su
 SEGUNDO. La Junta de Gobierno del Centro de Conciliación Laboral del Estado de Hidalgo, deberá ser instalada en un plazo no mayor a 15 días, a partir de la publicación del presente Decreto.
 
 TERCERO. El Ejecutivo del Estado incluirá en el Proyecto de Presupuesto de Egresos para el ejercicio fiscal 2020, las asignaciones presupuestales necesarias para la operación del Centro de Conciliación Laboral del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 378 – LXVI POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE HIDALGO, LA LEY DE LOS DERECHOS HUMANOS DEL ESTADO DE HIDALGO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO, LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES Y LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, EN MATERIA DE EDAD MÍNIMA PARA ACCEDER A CARGOS PÚBLICOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
