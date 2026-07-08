@@ -4,7 +4,7 @@ identifier: "HID-ley-para-el-manejo-sustentable-del-maguey-del-estado-de-84905"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2024-05-30"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA EL MANEJO SUSTENTABLE DEL MAGUEY DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en Alcance del Periódico Oficial del Estado de Hidalgo, el sábado 31 de diciembre de 20011.
 
@@ -154,6 +154,10 @@ XI.- Especies con estatus: Las especies y subespecies de flora y fauna silvestre
 XII.- Especie endémica: Aquella cuyo ámbito de distribución natural se encuentra circunscrito únicamente al Territorio del Estado de Hidalgo.
 
 XIII.- Género: Unidad de clasificación taxonómica superior a la especie e inferior a la familia. Puede incluir subgéneros.
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XIII Bis.- Guía de movilización: Documento oficial emitido por la autoridad competente, que acredita la legal procedencia, origen, destino, volumen, medio de transporte y titular responsable del traslado de maguey y sus materias primas derivadas, y que autoriza su movilización dentro del territorio del Estado.
 
 XIV.- Hábitat: El sitio específico en un medio ambiente físico, ocupado por un organismo, por una población, por una especie o por comunidades de especies en un tiempo determinado.
 
@@ -387,9 +391,17 @@ X.- Imponer medidas de seguridad y sancionar las infracciones que se cometan en 
 
 XI.- Ejercer todos los actos de autoridad relativos a la aplicación de la política de protección, fomento, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sustentable del maguey y sus materias primas derivadas;
 
-XII.- Regular y validar la documentación expedida por los Municipios con la que se acredite la legal procedencia del maguey y sus materias primas derivadas; y,
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-XIII.- Las demás que le confieran la presente Ley, el Reglamento y otras disposiciones legales.
+XII.- Regular y validar la documentación expedida por los Municipios con la que se acredite la legal procedencia del maguey y sus materias primas derivadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JULIO DE 2026)</small>
+
+XIII.- Emitir y verificar las Guías de movilización, con mecanismos físicos y digitales que garanticen su legalidad, trazabilidad y control, en coordinación con autoridades municipales y organizaciones productoras; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE JULIO DE 2026)</small>
+
+XIV.- Las demás que le confieran la presente Ley, el Reglamento y otras disposiciones legales.
 
 ### CAPITULO III.. De la Coordinación Institucional
 
@@ -653,9 +665,15 @@ El aprovechamiento del maguey y sus materias primas derivadas, para usos domést
 
 ### CAPITULO III.. Del Transporte, Almacenamiento y Transformación de las Materias Primas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 38.
 
-Quienes realicen el transporte del maguey y sus materias primas derivadas, con excepción de aquellas destinadas al uso doméstico, deberán acreditar su legal procedencia con la documentación que para tal efecto expidan las autoridades competentes, de acuerdo con lo previsto en el Reglamento, normas o demás disposiciones aplicables.
+Quienes realicen el transporte del maguey y sus materias primas derivadas, con excepción de aquellas destinadas al uso doméstico, deberán acreditar tanto su legal procedencia como su adecuada movilización y demás documentación que para tal efecto expidan las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2026)</small>
+
+Para efectos de esta Ley, la Guía de movilización será el documento válido para acreditar la legal procedencia y destino del producto en tránsito.
 
 ###### ARTÍCULO 39.
 
@@ -961,7 +979,9 @@ XI.- Omitir ejecutar trabajos de conformidad con lo dispuesto por esta Ley y su 
 
 XII.- Introducir o transportar en el Estado, maguey, insumos para la producción, protección y fomento, portadores de plagas o enfermedades o productos químicos no aprobados o los registrados, que puedan causar daño a la salud humana, a los animales o vegetales;
 
-XIII.- Utilizar más de una vez, alterar o requisitar inadecuadamente, la documentación o sistemas de control establecidos para el transporte o comercialización de magueyes y materias primas derivadas; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XIII.- Utilizar más de una vez, alterar, falsificar o requisitar inadecuadamente, la documentación o sistemas de control establecidos para el transporte o comercialización de magueyes y materias primas derivadas;
 
 XIV.- Cualquier otra contravención a la presente Ley.
 
@@ -1074,3 +1094,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 930 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO SUSTENTABLE DEL MAGUEY DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 391 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA EL MANEJO SUSTENTABLE DEL MAGUEY DEL ESTADO DE HIDALGO, EN MATERIA DE GUÍAS DE MOVILIZACIÓN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
