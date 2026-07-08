@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2025-12-11"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -183,7 +183,9 @@ Los tipos de violencia contra las mujeres son:
 
 I. Violencia psicológica: cualquier acto u omisión que dañe la estabilidad psicológica o emocional de la mujer consistente en negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conducen a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
-II. Violencia física: cualquier acto material, no accidental, que inflige daño a la mujer a través del uso de la fuerza física, sustancias, armas u objetos, que puede provocar o no lesiones, ya sean internas, externas o ambas;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+II. Violencia física: cualquier acto que inflige daño o sufrimiento no accidental, usando la fuerza física o algún tipo de arma, objeto, ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar o no lesiones ya sean internas, externas o ambas;
 
 III. Violencia patrimonial: cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en la transformación, sustracción, destrucción, limitación, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades, y puede abarcar los daños a los bienes comunes o propios de la víctima;
 
@@ -423,53 +425,57 @@ VII. La Secretaría de la Honestidad;
 
 VIII. La Secretaría de Economía;
 
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+IX. La Secretaría del Campo;
+
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-IX. La Fiscalía General del Estado de Guanajuato;
+X. La Fiscalía General del Estado de Guanajuato;
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-X. La Secretaría, quien ocupará la Secretaría Ejecutiva del Consejo;
+XI. La Secretaría, quien ocupará la Secretaría Ejecutiva del Consejo;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XI. El Instituto para el Desarrollo y Atención a las Juventudes;
+XII. El Instituto para el Desarrollo y Atención a las Juventudes;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
-XII. La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
+XIII. La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XIII. La Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+XIV. La Procuraduría de los Derechos Humanos del Estado de Guanajuato;
 
 > <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XIII BIS], P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XIV. La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes;
+XV. La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes;
 
 > <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XIII TER], P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XV. La Secretaría Ejecutiva del Sistema de Protección de los derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+XVI. La Secretaría Ejecutiva del Sistema de Protección de los derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XVI. La Comisión Estatal de Atención Integral a Víctimas del Estado de Guanajuato;
+XVII. La Comisión Estatal de Atención Integral a Víctimas del Estado de Guanajuato;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XVII. La Comisión Estatal de Búsqueda de Personas del Estado de Guanajuato;
+XVIII. La Comisión Estatal de Búsqueda de Personas del Estado de Guanajuato;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XVIII. El Instituto Electoral del Estado de Guanajuato;
+XIX. El Instituto Electoral del Estado de Guanajuato;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XIX. Cuatro representantes de los municipios, por lo menos; y
+XX. Cuatro representantes de los municipios, por lo menos; y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-XX. Dos representantes de Organizaciones No Gubernamentales especializadas en la protección de los derechos humanos de las mujeres.
+XXI. Dos representantes de Organizaciones No Gubernamentales especializadas en la protección de los derechos humanos de las mujeres.
 
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2025)</small>
 
@@ -479,9 +485,9 @@ La Secretaría Ejecutiva del Consejo será designada por el Consejo a partir de 
 
 Cuando acuda la persona titular del Poder Ejecutivo, ésta asumirá la presidencia y la ciudadana presidenta fungirá como vocal; ambas conservarán el derecho a voz y voto.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
-Las personas integrantes a que se refieren las fracciones I, XIX y XX de este artículo, durarán en su encargo tres años, y su designación se realizará de conformidad con los mecanismos que establezca el reglamento del Sistema Estatal.
+Las personas integrantes a que se refieren las fracciones I, XX y XXI de este artículo, durarán en su encargo tres años, y su designación se realizará de conformidad con los mecanismos que establezca el reglamento del Sistema Estatal.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
@@ -675,9 +681,15 @@ XXI. Fomentar un ambiente laboral en la administración pública libre de discri
 
 XXII. Evitar que las campañas de información institucionales incurran en estereotipos y lenguaje discriminatorio;
 
-XXIII. Aplicar todas sus acciones y programas sin discriminación alguna, para que las mujeres tengan acceso a las políticas públicas en condiciones de equidad; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-XXIV. Las demás previstas para el cumplimiento de esta Ley.
+XXIII. Aplicar todas sus acciones y programas sin discriminación alguna, para que las mujeres tengan acceso a las políticas públicas en condiciones de equidad;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XXIV. Promover y garantizar espacios y transportes públicos seguros y libres de todo tipo de violencias contra las mujeres, las adolescentes y las niñas; y
+
+XXV. Las demás previstas para el cumplimiento de esta Ley.
 
 #### Sección Segunda. Facultades del titular de la Secretaría de Desarrollo Social y Humano
 
@@ -803,21 +815,37 @@ XI. Las demás previstas para el cumplimiento de esta Ley.
 
 (DEROGADO, P.O. 22 DE JULIO DE 2020)
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE JULIO DE 2026)</small>
+
+#### Sección Sexta Bis. Facultades de la persona titular de la Secretaría del Campo
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2026)</small>
+
+Facultades de la persona titular de la Secretaría del Campo
+
+###### Artículo 20 Ter.
+
+La persona titular de la Secretaría del Campo ejercerá las siguientes facultades:
+
+I. Proporcionar la información relativa a programas y acciones tendientes al desarrollo integral de las mujeres en zonas rurales;
+
+II. Proponer al Consejo Estatal medidas, acciones, estrategias y metas que deben incluirse en el Programa Estatal en zonas rurales;
+
+III. Promover y ejecutar programas productivos y de financiamiento para el desarrollo agropecuario de las mujeres en zonas rurales; y
+
+IV. Las demás previstas para el cumplimiento de esta Ley.
+
 #### Sección Séptima. Facultades del titular de la Secretaría de Salud
 
-Facultades del Secretario de Salud
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 8 DE JULIO DE 2026)</small>
 
-#### Sección Octava. Facultades de la persona titular de la Secretaría de la Honestidad
+Facultades de la persona titular de la Secretaría de Salud
 
-> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
-
-Facultades de la persona titular de la Secretaría de la Honestidad
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
 
 ###### Artículo 21.
 
-El titular de la Secretaría de Salud ejercerá las siguientes facultades:
+La persona titular de la Secretaría de Salud ejercerá las siguientes facultades:
 
 I. Diseñar con perspectiva de género las políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
@@ -827,7 +855,9 @@ III. Capacitar al personal del sector salud para la detección de actos de viole
 
 IV. Canalizar a las víctimas a las instituciones que prestan atención y protección especializada a las mujeres, para su resguardo y protección;
 
-V. Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica a las víctimas;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+V. Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica, psicológica y psiquiátrica a las víctimas;
 
 VI. Prestar servicios profesionales y eficaces, con horario de veinticuatro horas, en las dependencias del sector salud relacionadas con la atención de la violencia contra las mujeres;
 
@@ -841,13 +871,13 @@ X. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-#### Sección Novena. Facultades de la persona titular de la Fiscalía General del Estado
+#### Sección Octava. Facultades de la persona titular de la Secretaría de la Honestidad
 
-> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
 
-Facultades de la Fiscalía General del Estado
+Facultades de la persona titular de la Secretaría de la Honestidad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 22.
 
@@ -863,13 +893,13 @@ IV. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-#### Sección Décima. Facultades de la persona titular de la Secretaría
+#### Sección Novena. Facultades de la persona titular de la Fiscalía General del Estado
 
-> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-Facultades de la persona titular de la Secretaría
+Facultades de la Fiscalía General del Estado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 23.
 
@@ -909,13 +939,13 @@ XI. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-#### Sección Undécima. Facultades del titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato
+#### Sección Décima. Facultades de la persona titular de la Secretaría
 
-> <small>(REFORMADO SU EPÍGRAFE, P.O. 21 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
 
-Facultades del titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato
+Facultades de la persona titular de la Secretaría
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 24.
 
@@ -945,31 +975,37 @@ XI. Representar al Estado en el Sistema Nacional;
 
 XII. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada conforme al modelo de atención implementado;
 
-XIII. Asesorar a los municipios para crear políticas públicas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como mecanismos de evaluación; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2023)</small>
+XIII. Asesorar a los municipios para crear políticas públicas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como mecanismos de evaluación;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE JULIO DE 2026)</small>
 
 XIV. Impulsar mecanismos de prevención, promoción, difusión y respeto de los derechos político-electorales de las mujeres;
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-XV. Proponer a las autoridades competentes mecanismos que promuevan el empoderamiento; y
+XV. Proponer a las autoridades competentes mecanismos que promuevan el empoderamiento;
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-XVI. Diseñar y ofrecer, en coordinación con la Secretaría de Seguridad y Paz, programas que brinden servicios reeducativos integrales, especializados y gratuitos a la persona agresora para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia, tomando en consideración las masculinidades positivas e igualitarias; y
+XVI. Diseñar y ofrecer, en coordinación con la Secretaría de Seguridad y Paz, programas que brinden servicios reeducativos integrales, especializados y gratuitos a la persona agresora para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia, tomando en consideración las masculinidades positivas e igualitarias;
 
-XVII. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XVII. Diseñar y ofrecer programas enfocados en la gestión menstrual para una menstruación digna, libre de estereotipos y prejuicios; y
+
+XVIII. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 2020)</small>
 
-#### Sección Duodécima. Facultades de la persona titular de la Dirección General Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato
+#### Sección Undécima. Facultades del titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato
 
-> <small>(REFORMADO SU EPÍGRAFE, P.O. 11 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 21 DE OCTUBRE DE 2020)</small>
 
-Facultades de la persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
+Facultades del titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 25.
 
@@ -986,6 +1022,14 @@ IV. Distribuir instrumentos y diseñar campañas de prevención de la violencia 
 V. Las demás que señale esta Ley y demás disposiciones legales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+#### Sección Duodécima. Facultades de la persona titular de la Dirección General Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 11 DE DICIEMBRE DE 2025)</small>
+
+Facultades de la persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 26.
 
@@ -1181,17 +1225,25 @@ Las víctimas podrán acudir a cualquier dependencia o entidad de gobierno a bus
 
 Obligaciones de las autoridades para garantizar el acceso a la justicia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### Artículo 39.
 
-Las autoridades estatal y municipales, para garantizar el acceso a la justicia a las mujeres, deberán:
+Las autoridades estatales y municipales, para garantizar el acceso a la justicia a las mujeres, deberán:
 
 I. Implementar de manera pronta y eficaz medidas de protección para las víctimas o en riesgo de serlo, para salvaguardar su integridad física y psicológica, así como su patrimonio, tomando en cuenta las condiciones de vulnerabilidad en las que se encuentren;
 
 II. Actuar con la debida diligencia para orientar, acompañar y representar a las víctimas en los procedimientos en que participen, con el fin de que sean sancionados los actos de violencia cometidos en su contra, así como para hacer efectiva la reparación del daño;
 
-III. Instrumentar acciones integrales que tiendan a disminuir los efectos de la violencia contra las mujeres; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-IV. Las demás previstas para el cumplimiento de esta Ley.
+III. Instrumentar acciones integrales que tiendan a disminuir los efectos de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+IV. Actuar y resolver con perspectiva de género y evitar la victimización secundaria; y
+
+V. Las demás previstas para el cumplimiento de esta Ley.
 
 Representación legal para víctimas
 
@@ -1966,3 +2018,11 @@ P.O. 11 DE DICIEMBRE DE 2025.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 203 QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Único. El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
