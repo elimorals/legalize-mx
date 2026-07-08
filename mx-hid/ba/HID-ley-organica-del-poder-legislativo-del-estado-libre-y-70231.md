@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2026-01-07"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -2307,9 +2307,9 @@ IV.- Dirección General de Servicios Administrativos;
 
 V.- Instituto de Estudios Legislativos;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO 2026)</small>
 
-VI.-Instituto para el Desarrollo y Fortalecimiento Municipal;
+VI.- Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
@@ -2577,15 +2577,17 @@ VIII.- Organizar y dirigir actividades académicas en materia de capacitación, 
 
 IX.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JULIO 2026)</small>
 
-### CAPÍTULO VI. INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO
+### CAPÍTULO VI. INSTITUTO PARA EL DESARROLLO, FORTALECIMIENTO MUNICIPAL Y METROPOLITANO DEL ESTADO DE HIDALGO
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO 2026)</small>
 
 ###### ARTÍCULO 199.
 
-El Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo, es el Órgano Técnico que tiene por objeto desarrollar acciones de capacitación, información, asesoría, investigación y difusión que fortalezcan la capacidad administrativa, técnica y jurídica de los Ayuntamientos, a fin de que puedan ejercer con el mejor desempeño sus atribuciones y cumplir cabalmente sus tareas en beneficio del desarrollo de sus comunidades, así como impulsar el fomento de la coordinación y colaboración intergubernamental.
+El Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano del Estado de Hidalgo, es el Órgano Técnico que tiene por objeto desarrollar acciones de capacitación, información, asesoría, investigación y difusión que fortalezcan la capacidad administrativa, técnica y jurídica de los Ayuntamientos, a fin de que puedan ejercer con el mejor desempeño sus atribuciones y cumplir cabalmente sus tareas en beneficio del desarrollo de sus comunidades, así como impulsar el fomento de la coordinación y colaboración intergubernamental.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2011)</small>
 
 El Instituto orientará el cumplimiento de sus objetivos bajo los siguientes principios rectores:
 
@@ -2601,57 +2603,99 @@ V.- Coadyuvar en la promoción de la participación ciudadana, para procurar la 
 
 VI.- Fomento de la cultura de la transparencia y acceso a la información.
 
-El Instituto proporcionará información a los Diputados, Comisiones Legislativas y de los demás órganos del Poder Legislativo, respecto a los temas relacionados con el Fortalecimiento y el Desarrollo Municipal.
+> <small>(REFORMADO, P.O. 8 DE JULIO 2026)</small>
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2011)</small>
+El Instituto proporcionará información a los Diputados, Comisiones Legislativas y de los demás órganos del Poder Legislativo, respecto a los temas relacionados con el Fortalecimiento y el Desarrollo Municipal y Metropolitano.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO 2026)</small>
 
 ###### ARTÍCULO 200.
 
-El titular del Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo, será nombrado de conformidad con el procedimiento y requisitos establecidos en la Ley del Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo, el Instituto contará con las Unidades Administrativas que señale su Ley.
+El titular del Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano del Estado de Hidalgo, será nombrado de conformidad con el procedimiento y requisitos establecidos en la Ley del Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano del Estado de Hidalgo, el Instituto contará con las Unidades Administrativas que señale su Ley.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO 2026)</small>
 
 ###### ARTÍCULO 201.
 
-El Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo, tendrá las siguientes atribuciones:
+El Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano del Estado de Hidalgo, tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
 I.- Coadyuvar, a solicitud de los Ayuntamientos, en el diseño de políticas públicas, a fin de fortalecer su capacidad de propuesta y gestión ante los órdenes de Gobierno Federal y Estatal, en el marco de la coordinación y colaboración intergubernamental y con visión municipalita;
 
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+
 II.- Elaborar los lineamientos generales y estratégicos para el desarrollo Municipal y los contenidos de los programas y servicios que ofrecerá a los Gobiernos Municipales;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
 III.- Contribuir, a solicitud de los Ayuntamientos, en la elaboración de programas específicos para el fortalecimiento de su desarrollo, en la gestión de recursos y acciones concretas con distintas instituciones públicas, privadas y sociales;
 
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+
 IV.- Coordinarse y colaborar interinstitucionalmente con los organismos afines para el desarrollo Municipal nacional y de las Entidades Federativas, para realizar y ejecutar acciones y programas de fortalecimiento Municipal;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
 V.- Propiciar con las instancias gubernamentales y las organizaciones sociales y privadas la cultura de la participación ciudadana como elemento del desarrollo Municipal;
 
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+
 VI.- Diseñar y promover programas para la formación, capacitación y profesionalización de los integrantes de los Ayuntamientos y demás servidores públicos Municipales;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
 VII.- Celebrar acuerdos, contratos y convenios con Dependencias Federales, Estatales y Municipales e instituciones académicas, Organismos Estatales, Nacionales e Internacionales, para la consecución de sus objetivos, bajo los lineamientos que establecen las Leyes del Estado;
 
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+
 VIII.- Establecer y operar mecanismos para la obtención, programación, presupuestarían (sic), aplicación y administración en general de los recursos financieros, humanos y materiales que permitan la operación y logro de los objetivos y metas del Instituto;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
 IX.- Desarrollar programas de investigación y difusión a través de estudios, análisis, encuestas, mesas redondas, conferencias, entre otras actividades;
 
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+
 X.- Consolidar un Sistema Estatal de Información Municipal que comprenda la investigación, documentación e intercambio de experiencias;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
 XI.- Difundir y estimular las experiencias de los Gobiernos Municipales que cumplan con sus objetivos y planes de desarrollo;
 
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+
 XII.- Contribuir al desarrollo de una política de coordinación y colaboración institucional entre los tres órdenes de Gobierno y, en particular, entre los Municipios para el fortalecimiento del desarrollo Municipal;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
 XIII.- Promover el intercambio de experiencias y la participación de los Ayuntamientos con las asociaciones de Municipios, en el ámbito Nacional e Internacional;
 
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+
 XIV.- Investigar, promover, diseñar y aplicar, en su caso, en forma coordinada con las instituciones públicas o privadas Estatales, Nacionales o Internacionales los programas para la modernización de la administración, la gestión y los servicios públicos Municipales;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
 XV.- Promover en los Ayuntamientos la recuperación y conservación de los archivos históricos Municipales y, en general, lo relativo al acervo documental Municipal;
 
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+
 XVI.- Promover, incorporar y sistematizar propuestas para la participación en la planeación democrática del Estado de Hidalgo, de conformidad con la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
 XVII.- Con respeto a la autonomía municipal, fomentar la participación de los representantes de los sectores público, privado y social en el diseño de políticas públicas municipalitas;
 
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+
 XVIII.-Impartir cursos de capacitación, actualización, talleres y asesorías a los integrantes de Ayuntamientos y demás servidores públicos en las materias de Gobierno Municipal;
 
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
+
 XIX.- Proporcionar servicios de consultoría, asesoría, capacitación, adiestramiento, gestión y similares en forma gratuita u onerosa a través del cobro de derechos de conformidad con la legislación aplicable; y
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2011)</small>
 
 XX.- Las demás las (sic) facultades que señalen otras disposiciones legales aplicables.
 
@@ -3184,3 +3228,13 @@ P.O. 7 DE ENERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 389 - LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO, EN MATERIA DE FUNCIONAMIENTO DE LAS COMISIONES LEGISLATIVAS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 574 - LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO Y DE SU REGLAMENTO, Y SE ACTUALIZA LA DENOMINACIÓN DE LA LEY DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO, POR EL DE LEY DEL INSTITUTO PARA EL DESARROLLO, FORTALECIMIENTO MUNICIPAL Y METROPOLITANO DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Congreso del Estado, por conducto de la Dirección de Servicios Administrativos realizará el cambio de la imagen institucional del Instituto, sin que ello implique erogaciones presupuestales adicionales.
+
+TERCERO. Todas las disposiciones normativas que hagan referencia al “Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo” se entenderán referidas al “Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano del Estado de Hidalgo”.
