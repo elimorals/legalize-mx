@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-movilidad-y-seguridad-vial-del-estado-de-chihuahua-17478
 country: "mx"
 rank: "ley"
 publication_date: "2024-10-12"
-last_updated: "2024-10-12"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2024.
 
@@ -1889,7 +1889,9 @@ Los Municipios determinarán las calles, zonas o polígonos en que se permita o 
 
 Los Municipios determinarán y autorizarán los espacios exclusivos de estacionamiento de vehículos en la vía pública para: motocicletas, bicicletas, bahías de transporte público de pasajeros, taxi, carga, servicio de acomodadores y de todo aquel servicio público que requiera sitios para la permanencia transitoria de vehículos. Los espacios podrán, de manera enunciativa mas no limitativa, estar diferenciados en al menos 4 dimensiones: para motocicletas, vehículos compactos, vehículos de dimensiones estándar y vehículos de carga.
 
-Los Municipios deberán establecer el número y ubicación de espacios exclusivos para personas con discapacidad en la vía pública que respondan a su entorno, priorizando la cercanía a los espacios públicos, equipamientos o servicios y previendo una distancia radial entre ellos no mayor a 200 metros.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
+Los Municipios deberán establecer el número y ubicación de espacios exclusivos para personas con discapacidad en la vía pública que respondan a su entorno, priorizando la cercanía a los espacios públicos, equipamientos o servicios y previendo una distancia radial entre ellos no mayor a 200 metros. Así mismo, procurarán limitar la instalación de estacionómetros frente a clínicas, hospitales y unidades médicas, estableciendo las medidas que se estimen pertinentes para priorizar a las personas usuarias de estas instalaciones, así como crear los mecanismos necesarios para eximir de su pago a personas mayores.
 
 Las autoridades podrán solicitar espacios exclusivos en vía pública para detener y desocupar vehículos oficiales debidamente identificados. Estos espacios no podrán estar ubicados en calles primarias o secundarias. Solo se autorizará como máximo 1 por cada 100 espacios disponibles dentro de una zona o polígono determinado.
 
@@ -2202,3 +2204,13 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diecinueve día
 LA GOBERNADORA CONSTITUCIONAL DEL ESTADO. MTRA. MARÍA EUGENIA CAMPOS GALVÁN. Rúbrica.
 
 EL SECRETARIO GENERAL DE GOBIERNO. LIC. SANTIAGO DE LA PEÑA GRAJEDA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0540/2026 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 101, CUARTO PÁRRAFO, DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
