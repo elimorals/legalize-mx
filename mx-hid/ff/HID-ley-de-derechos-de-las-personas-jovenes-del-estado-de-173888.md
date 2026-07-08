@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-de-las-personas-jovenes-del-estado-de-173888"
 country: "mx"
 rank: "ley"
 publication_date: "2024-07-15"
-last_updated: "2025-07-01"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Número 29 Alcance Uno del Periódico Oficial del Estado de Hidalgo, el lunes 15 de julio de 2024.
 
@@ -657,9 +657,17 @@ V. Cultura ambiental y participación activa: Se diseñarán estrategias para in
 
 VI. Garantía de derechos y libertades: El Programa garantizará el acceso pleno a los derechos y libertades consagrados en la presente Ley;
 
-VII. Fortalecimiento y bienestar de las organizaciones juveniles: facilitar el derecho de asociación, pertenencia y creación de organizaciones o colectivos; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-VIII. Generar mecanismos de financiamiento: Se promoverá que el Instituto Hidalguense de la Juventud busque recursos públicos y privados para el financiamiento de proyectos y acciones juveniles.
+VII. Fortalecimiento y bienestar de las organizaciones juveniles: facilitar el derecho de asociación pertenencia y creación de organizaciones o colectivos;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+VIII. Generar mecanismos de financiamiento: Se promoverá que el Instituto Hidalguense de la Juventud busque recursos públicos y privados para el financiamiento de proyectos y acciones juveniles; y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+IX. Emprendimiento e inclusión laboral: Se impulsarán estrategias y mecanismos que fomenten el emprendimiento juvenil, la capacitación para el empleo y el acceso a oportunidades de trabajo.
 
 Estas acciones se implementarán de manera flexible y se adaptarán a las necesidades específicas de las personas jóvenes, con el objetivo de promover su bienestar integral y su pleno desarrollo en la sociedad.
 
@@ -962,5 +970,11 @@ P.O. 26 DE MAYO DE 2025.
 P.O. 1 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 258 – LXVI POR EL QUE SE REFORMA EL ARTÍCULO 88 DE LA LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO, EN MATERIA DE CRITERIOS PARA LA DESIGNACIÓN DE LA PERSONA TITULAR DEL INSTITUTO HIDALGUENSE DE LA JUVENTUD”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 364 – LXVI POR EL QUE SE REFORMAN LAS FRACCIONES VII Y VIII, Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 74 DE LA LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO, EN MATERIA DE EMPRENDIMIENTO E INCLUSIÓN LABORAL JUVENIL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
