@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2025-12-26"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -1261,9 +1261,9 @@ En caso de que exista un Organismo Operador, éste emitirá su opinión respecto
 
 Tratándose de comunidades rurales, no se llevará a cabo el procedimiento de licitación señalado en este artículo. En este caso, la concesión podrá ser otorgada directamente por el Municipio a las organizaciones que para tal efecto se constitutyan (sic) en las comunidades y que así lo soliciten.
 
-> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
-Las propuestas a que se refiere la fracción I de este artículo, deberán contener la descripción técnica general y cronograma de las acciones y obras proyectadas; las estimaciones de los beneficios, costos los cuales no superarán a la última cuota autorizada y no podrán ser incrementados más allá de la inflación del año inmediato, valor presente y rentabilidad asociados; las contraprestaciones propuestas y los demás requisitos que se fijen en las bases de licitación.
+Las propuestas a que se refiere la fracción I de este artículo, deberán contener la descripción técnica general, cronograma de las acciones, características de las obras proyectadas para su extracción y aprovechamiento del recurso hídrico; las estimaciones de los beneficios, costos los cuales no superarán a la última cuota autorizada y no podrán ser incrementados más allá de la inflación del año inmediato, valor presente y rentabilidad asociados; las contraprestaciones propuestas y los demás requisitos que se fijen en las bases de licitación.
 
 ###### Artículo 64.
 
@@ -1601,9 +1601,9 @@ VII.- Deberán utilizar los sistemas, mecanismos o dispositivos de control e inf
 
 VIII.- Promover el derecho humano al agua;
 
-> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
-IX.- Promover planes y programas para la reforestación, restauración de ecosistemas, la protección de zonas ecológicas, áreas verdes, represas, ollas de agua, lagunas de filtración, pozos de absorción; y
+IX.- Promover planes y programas para la reforestación, priorizando el cultivo, y preservación de especies nativas o endémicas, así como la restauración de ecosistemas, la protección de zonas ecológicas, áreas verdes represas, ollas de agua, lagunas de infiltración, pozos de absorción, barrancas; y
 
 > <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
 
@@ -2706,3 +2706,15 @@ P.O. 26 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 370 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO, EN MATERIA DE CULTURA DEL AGUA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 371 – LXVI POR EL QUE SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 63 DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO, EN MATERIA DE REQUISITOS PARA EL OTORGAMIENTO DE CONCESIONES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 596 – LXVI POR EL QUE SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 84 QUINQUIES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO; ASÍ COMO LA FRACCIÓN V DEL ARTÍCULO 18 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 28 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, EN MATERIA DE ESPECIES ENDÉMICAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
