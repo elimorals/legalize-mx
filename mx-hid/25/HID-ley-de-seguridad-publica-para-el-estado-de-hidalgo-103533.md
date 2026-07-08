@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-103533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2025-07-03"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -87,7 +87,9 @@ VII. Establecer acciones para promover la participación ciudadana de mujeres y 
 
 VIII. Regular el Sistema de Prevención y Reinserción Social del Estado y el Sistema Integral de Justicia para Adolescentes, los Centros Penitenciarios y el Centro de Internamiento para Adolescentes;
 
-IX. Desarrollar, desde la perspectiva de género, políticas en materia de prevención integral del delito e implementar programas y acciones para promover los valores culturales y cívicos, que fomenten el respeto a la legalidad y la protección a las víctimas del delito;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+IX. Desarrollar, desde la perspectiva de género, políticas en materia de prevención integral del delito e implementar programas y acciones para promover los valores culturales y cívicos, que fomenten el respeto a la legalidad y la protección a las víctimas del delito, procurando la especialización del personal encargado de la atención de mujeres, niñas, niños y adolescentes víctimas de un delito;
 
 X. Autorizar, regular, verificar y en su caso sancionar a las empresas que presten los servicios de seguridad privada;
 
@@ -143,7 +145,9 @@ XI. Coordinar acciones con los diferentes ámbitos de Gobierno para asegurar el 
 
 XII. Prestar apoyo a las Autoridades Federales, Estatales y Municipales, en el cumplimiento de sus atribuciones en materia de seguridad pública;
 
-XIII. Proteger a las personas receptoras de la violencia de género;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XIII. Proteger a las personas receptoras de la violencia de género; con un enfoque especializado y diferencial.
 
 XIV. Atender la precaución razonable de seguridad, respecto de una mujer en particular, comunidad o zona específica; y
 
@@ -1025,7 +1029,17 @@ V. Colaborar con las autoridades judiciales, electorales y administrativas de la
 
 VI. Aplicar los protocolos y disposiciones especiales para el adecuado resguardo de los derechos de las víctimas;
 
-VII. Proteger a los menores de edad, adultos mayores, enfermos, personas discapacitadas y grupos vulnerables que se encuentren en situación de riesgo, procurando que reciban el apoyo inmediato de las instituciones competentes; así como ejecutar las órdenes de protección que sean otorgadas por la autoridad competente, vigilando su debido cumplimiento;
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+VI BIS. Aplicar protocolos de actuación para la atención de crisis psicológicas, intentos de suicidio y otras situaciones que pongan en riesgo la vida o integridad de las personas, privilegiando la preservación de la vida, la intervención inmediata, el uso proporcional de la fuerza y la coordinación con las instituciones de salud, protección civil y servicios de emergencia.
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+VII. Proteger a mujeres, niñas, niños y adolescentes, personas adultas mayores, enfermas, discapacitadas y grupos vulnerables que se encuentren en situación de riesgo, procurando que reciban el apoyo inmediato de las instituciones competentes; así como ejecutar las órdenes de protección que sean otorgadas por la autoridad competente, vigilando su debido cumplimiento;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+VII BIS. Prestar auxilio a mujeres, niñas, niños y adolescentes, víctimas de la comisión de un delito. Su actuación será congruente, oportuna y proporcional al hecho; Tratándose de las mujeres, niñas, niños y adolescentes víctimas, el auxilio se prestará con perspectiva de género, con elementos capacitados y especializados en su atención y con la debida diligencia, lo cual implica actuar oportunamente y salvaguardando en todo momento su seguridad para evitar el contacto con el o las personas agresoras. Las acciones para su resguardo y protección se implementarán de conformidad con la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, el Código Nacional de Procedimientos Penales y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo;
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
 
@@ -1655,7 +1669,7 @@ A. De Ingreso:
 
 I. Ser mexicano por nacimiento, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II. Contar con una edad mínima de dieciocho años cumplidos;
+II. (DEROGADA, P.O. 8 DE JULIO DE 2026)
 
 III. No haber sido condenado por sentencia ejecutoriada como responsable de delito doloso, por delito culposo calificado como grave por la ley o estar sujeto a proceso penal;
 
@@ -3175,6 +3189,26 @@ El Programa deberá guardar congruencia con los Planes Nacional y Estatal de Des
 
 El Programa deberá elaborarse y someterse a la aprobación del Ejecutivo Estatal y se revisará anualmente por el Consejo Estatal de Seguridad Pública.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2026)</small>
+
+## TÍTULO DÉCIMO SEXTO. DEL USO DE LA FUERZA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2026)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2026)</small>
+
+###### Artículo 203.
+
+Se entenderá por uso de la fuerza, la inhibición por medios mecánicos o biomecánicos, de forma momentánea o permanente, de una o más funciones corporales que lleva a cabo una persona autorizada por el Estado sobre otra, siguiendo los procedimientos y protocolos que establecen las normas jurídicas aplicables; su finalidad es salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación, preservación o restablecimiento del orden público, seguridad y la paz social.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2026)</small>
+
+###### Artículo 204.
+
+El uso de la fuerza y los principios aplicables, así como la capacitación y el adiestramiento que requiere su correcta utilización y la responsabilidad que acarrea su empleo ilícito, se sujetará a lo dispuesto en la Ley Nacional sobre el Uso de la Fuerza.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor a partir de las cero horas del día 18 de noviembre de 2014, conforme al Decreto número 208, promulgado por el Titular del Poder ejecutivo del Estado, de fecha 22 de agosto de 2014.
@@ -3286,3 +3320,25 @@ P.O. 3 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 279 - LXVI QUE REFORMA LA FRACCIÓN I Y II DEL ARTÍCULO 50 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 346 – LXVI QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 1, LA FRACCIÓN XIII DEL ARTÍCULO 2 Y LA FRACCIÓN VII DEL ARTÍCULO 48; Y ADICIONAN LA FRACCIÓN VII BIS DEL ARTÍCULO 48 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 378 - LXVI POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE HIDALGO, LA LEY DE LOS DERECHOS HUMANOS DEL ESTADO DE HIDALGO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO, LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES Y LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, EN MATERIA DE EDAD MÍNIMA PARA ACCEDER A CARGOS PÚBLICOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 603 – LXVI QUE ADICIONA LA FRACCIÓN VI BIS DEL ARTÍCULO 48 Y EL TÍTULO DÉCIMO SEXTO, DENOMINADO “DEL USO DE LA FUERZA”, SU CAPÍTULO ÚNICO, DENOMINADO “DISPOSICIONES GENERALES” Y LOS ARTÍCULOS 203 Y 204 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado, dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, deberá expedir el protocolo de actuación policial para la atención de crisis psicológicas e intentos de suicidio.
