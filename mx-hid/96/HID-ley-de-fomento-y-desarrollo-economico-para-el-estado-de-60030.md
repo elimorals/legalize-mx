@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-y-desarrollo-economico-para-el-estado-de-60030"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-06-04"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE JUNIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -513,9 +511,17 @@ La Secretaría, en coordinación con el Consejo de Ciencia y Tecnología del Est
 
 I.- Beneficiar en forma equilibrada a los diferentes factores de la producción;
 
-II.- Incrementar las potencialidades creativas en la producción, distribución y el comercio de bienes y servicios; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-III.- Promover la integración de la planta productiva.
+II.- Incrementar las potencialidades creativas en la producción, distribución y el comercio de bienes y servicios;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+III.- Promover la integración de la planta productiva; e
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+IV.- Impulsar la vinculación entre unidades económicas, instituciones de educación superior, centros de investigación e industrias creativas y culturales.
 
 ###### Artículo 36.
 
@@ -928,3 +934,9 @@ P.O. 19 DE ENERO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. La comisión Rectora para la Competitividad, el Empleo y el Desarrollo Económico, deberá realizar las adecuaciones pertinentes a su Reglamento en un plazo no mayor a 90 días naturales, contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 355 – LXVI POR EL QUE SE REFORMAN LAS FRACCIONES II Y III Y SE ADICIONA UNA FRACCIÓN IV TODAS AL ARTÍCULO 35 DE LA LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN AL DESARROLLO Y MODERNIZACIÓN TECNOLÓGICA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
