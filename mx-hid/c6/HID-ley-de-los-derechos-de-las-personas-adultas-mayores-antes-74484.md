@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2026-06-26"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -118,6 +118,10 @@ XI.- Abandono: La falta de acción deliberada o no para atender de manera integr
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
 
 XII.- Atención médica.- Al conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las personas adultas mayores en todos los niveles, con el fin de proteger, promover y restaurar su salud;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XII BIS.- Atención médica integral. Como el conjunto de servicios y acciones de carácter preventivo, curativo y de rehabilitación que se brindan a las personas adultas mayores en todos los niveles de atención, con el propósito de proteger, promover, restaurar su salud.
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -377,11 +381,11 @@ V.- Brindar respeto, comprensión y apoyo incondicional; y
 
 VI.- Atender sus necesidades psicoemocionales cuando la persona adulta mayor se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención a las personas adultas mayores a efecto de mantener los lazos familiares.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
 ###### Artículo 12.
 
-Ninguna persona adulta mayor podrá ser socialmente marginada o discriminada en ningún espacio público o privado por razón de su género, preferencia sexual, estado físico y mental, creencia religiosa o condición social.
+Ninguna persona adulta mayor podrá ser socialmente marginada o discriminada en ningún espacio público o privado por su origen o identidad indígena o nacional, sexo, orientación sexual, identidad o expresión de género, estado físico y mental, creencia religiosa, condición social o cualquier otra que tenga por efecto negar, obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de sus derechos, en condiciones de equidad e igualdad.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -593,9 +597,9 @@ II. Brindar asesoría e información a las personas adultas mayores, asociacione
 
 A la Secretaría de Salud de Hidalgo, le corresponde:
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-I. Garantizar el acceso a la atención médica con calidad y calidez en las clínicas, unidades de salud y hospitales del Estado, con un enfoque de atención integral en los servicios de salud, para las personas adultas mayores, basado en prevención adecuada, evaluación periódica, diagnóstico oportuno, tratamiento individualizado y rehabilitación temprana, garantizando su ingreso hospitalario a las unidades de atención primaria y a los hospitales en caso de emergencia.
+I.- Garantizar el acceso a la atención médica integral con calidad y calidez en las clínicas, unidades de salud y Hospitales del Estado, con un enfoque de atención integral, en los servicios de salud, para las personas adultas mayores, basado en prevención adecuada, evaluación periódica, diagnóstico oportuno, tratamiento individualizado y rehabilitación temprana, garantizando su ingreso hospitalario a las unidades de atención primaria y a los Hospitales en caso de emergencia.
 
 II.- Proporcionar la Cartilla Nacional de Salud para Adultos Mayores, la cual será utilizada indistintamente en las instituciones públicas y privadas en la que deberán registrar acciones de detección y control de los principales padecimientos de los adultos mayores con la finalidad de promover el auto cuidado, la detección oportuna, el tratamiento temprano y la prevención de la discapacidad;
 
@@ -1332,5 +1336,19 @@ P.O. 17 DE JUNIO DE 2026.
 P.O. 26 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 653 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE ENVEJECIMIENTO ACTIVO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 365 - LXVI POR EL QUE SE REFORMA EL ARTÍCULO 12 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE NO DISCRIMINACIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 585 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 21 Y SE ADICIONA UNA FRACCIÓN XII BIS AL ARTÍCULO 4 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE ATENCIÓN MÉDICA INTEGRAL".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
