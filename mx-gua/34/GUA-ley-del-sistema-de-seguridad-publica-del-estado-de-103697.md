@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2025-03-14"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -1313,15 +1313,25 @@ g) Lugar en el que fue puesto a disposición.
 
 El informe debe ser completo, los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la investigación.
 
-Separación de los servidores públicos de índole ministerial, pericial y de las Instituciones Policiales
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 8 DE JULIO DE 2026)</small>
+
+Separación de las personas servidoras públicas de índole ministerial, pericial y de las Instituciones Policiales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
 
 ###### Artículo 50.
 
-Los servidores públicos de índole ministerial y pericial, así como los de las Instituciones Policiales, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dicha Institución, o removidos por incurrir en responsabilidad en el desempeño de sus funciones.
+Las personas servidoras públicas de índole ministerial y pericial, así como las de las Instituciones Policiales, podrán ser separadas de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dicha Institución, o removidas por incurrir en responsabilidad en el desempeño de sus funciones.
 
-Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, no procederá bajo ninguna circunstancia la reincorporación o reinstalación al mismo, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido. En tal supuesto el exservidor público únicamente tendrá derecho a recibir las prestaciones que le correspondan al momento de la terminación del servicio y que le permanezcan vigentes al tiempo de su reclamo.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
-En ningún caso procederá el pago de salarios caídos.
+Si la autoridad jurisdiccional mediante una resolución que haya adquirido firmeza procesal resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, no procederá bajo ninguna circunstancia la reincorporación o reinstalación al mismo, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido. En tal supuesto la persona exintegrante de la institución de seguridad pública tendrá derecho a recibir una indemnización, que consistirá en tres meses de sueldo base más veinte días por cada año laborado, así como al pago de las demás prestaciones que perciba por la prestación de sus servicios, las cuales se computarán desde la fecha de su separación, remoción, baja, cese o cualquier otra forma de terminación del servicio hasta por un periodo máximo de doce meses.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2026)</small>
+
+Las acciones de los miembros de las instituciones de seguridad pública para reclamar el pago de aguinaldo, vacaciones, prima vacacional y demás prestaciones a que tengan derecho, prescribirán en un año a partir del día siguiente a la fecha en que la obligación sea exigible.
 
 La terminación del servicio será inscrita en los Registros Nacional y Estatal de Personal de las Instituciones de Seguridad Pública.
 
@@ -3464,3 +3474,15 @@ Inicio de vigencia del decreto
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. A partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado adecuará las disposiciones reglamentarias y normativas en un plazo que no exceda de noventa días.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 199 QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia del decreto
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Asuntos en trámite
+
+Artículo Segundo. Los asuntos que se encuentren en trámite al momento que entre en vigor el presente decreto, se sujetarán a las disposiciones vigentes con las que se le dio inicio, hasta su total resolución.
