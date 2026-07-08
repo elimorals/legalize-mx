@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-10353
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2026-03-11"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -47,7 +47,9 @@ A N T E C E D E N T E
 
 Por lo que
 
-C O N S I D E R A N D O…
+C O N S I D E R A N D O
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -515,7 +517,7 @@ I. Para ingresar:
 
 a) Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles;
 
-b) Tener por lo menos veinticinco años de edad;
+b) (DEROGADO, P.O. 8 DE JULIO DE 2026)
 
 c) Poseer al día de la designación título profesional de Licenciado en Derecho o Abogado; expedido por la autoridad o institución legalmente facultada para ello;
 
@@ -1000,3 +1002,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Procuraduría General de Justicia del Estado de Hidalgo, en un plazo que no deberá exceder de un año contado a partir de la entrada en vigor del presente Decreto, deberá emitir las reformas necesarias al Reglamento de la Ley Orgánica del Ministerio Público y proveer las adecuaciones administrativas necesarias, a efecto de formalizar la creación, adscripción y facultades de la Unidad Especializada en Materia de Extorsión, la cual deberá contar con personal ministerial, policial y analista debidamente capacitado, evaluado y certificado.
 
 TERCERO. En tanto se otorga total cumplimiento al Transitorio Segundo de este Decreto, las atribuciones que conforme al ámbito competencial previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión le corresponden a la Procuraduría General de Justicia del Estado de Hidalgo, serán realizadas por la Unidad Especializada en Combate al Secuestro (UECS) de dicha Procuraduría.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 378 - LXVI POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE HIDALGO, LA LEY DE LOS DERECHOS HUMANOS DEL ESTADO DE HIDALGO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO, LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES Y LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, EN MATERIA DE EDAD MÍNIMA PARA ACCEDER A CARGOS PÚBLICOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
