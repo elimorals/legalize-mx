@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2026-07-06"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -69,9 +69,11 @@ Todas las medidas que se deriven de la presente Ley garantizarán la prevención
 
 El estado y los municipios deberán instrumentar las medidas presupuestales y administrativas necesarias y suficientes para hacer frente a la Alerta de Violencia de Género contra las mujeres, que pueda ser emitida por la Secretaría de Gobernación, en términos de la Ley General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 3.
 
-Son principios rectores que garantizan el acceso al derecho a una vida libre de violencia en un ambiente adecuado que permita el desarrollo y bienestar de las mujeres:
+Son principios rectores que garantizan el acceso al derecho a una vida libre de violencia en un ambiente adecuado que permita el desarrollo y bienestar de las mujeres y deberán ser observados en la elaboración y ejecución de las políticas, programas y acciones:
 
 I.- La no discriminación;
 
@@ -105,13 +107,29 @@ VIII.- El enfoque diferencial y especializado;
 
 IX.- La debida diligencia;
 
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-X.- La interseccionalidad, y
+X. La interseccionalidad;
 
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-XI.- La interculturalidad.
+XI. La interculturalidad;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XII. La no revictimización;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XIII. La integración de las mujeres a la vida democrática y productiva del Estado;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XIV. La accesibilidad; y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XV. La corresponsabilidad familiar.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1095,9 +1113,9 @@ VI.- Diseñar programas de orientación y asesorías a víctimas que les permita
 
 VII.- Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos y modalidades de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-VIII.- Garantizar la investigación y la elaboración de diagnósticos estadísticos con enfoque diferenciado, sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
+VIII.- Garantizar mecanismos de evaluación y seguimiento que permitan la investigación y elaboración de diagnósticos cualitativos y cuantitativos con enfoque diferenciado, sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de generar indicadores de medición y evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
@@ -1280,6 +1298,10 @@ X.- Coordinar y dar seguimiento a las acciones de los tres órdenes de gobierno 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XI.- Coordinar y evaluar el funcionamiento y eficacia de los Modelos de atención, prevención y sanción que establezcan el Estado y los Municipios;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+Artículo (sic) XI BIS.- Generar, en colaboración con las autoridades competentes, instrumentos e indicadores de medición que permitan evaluar la eficacia de los planes y programas implementados para prevenir, atender y sancionar la violencia contra las mujeres, así como de las políticas públicas en materia de igualdad de género;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1585,6 +1607,10 @@ V.- Canalizar a las víctimas a las Instituciones públicas y privadas encargada
 
 V BIS.- Participar activamente, en la ejecución del Programa, en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, y de la Ruta de atención a mujeres en situación de violencia, en colaboración con las demás autoridades encargadas de la aplicación de la presente Ley;
 
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+V TER.- Generar mecanismos y sistemas de evaluación que incorporen indicadores cualitativos que faciliten el monitoreo y medición de las tendencias sociales y jurídicas relacionadas con la violencia contra las mujeres, así como con el acceso a la procuración de justicia;
+
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 VI.- Proporcionar a las víctimas información objetiva que les permita reconocer su situación;
@@ -1681,9 +1707,15 @@ XI.- Solicitar a las Dependencias de la Administración Pública Estatal y Munic
 
 XII.- Colaborar con las instituciones del Sistema en el diseño de los programas y modelos estatales de prevención, atención, sanción y erradicación de la violencia contra las mujeres y llevar su registro;
 
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XII BIS.- Promover y evaluar servicios de capacitación y especialización de las personas servidoras públicas de la Administración Pública Estatal y Municipal, en materia de perspectiva de género y derechos humanos de las mujeres;
+
 XIII.- Representar al Estado ante el Sistema Nacional;
 
-XIV.- Establecer los indicadores para la evaluación de la administración pública estatal y sus servidores públicos en materia de discriminación y violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XIV.- Diseñar y establecer mecanismos, instrumentos e indicadores para la medición, evaluación y vigilancia de las acciones realizadas por la administración pública estatal y sus servidores públicos en materia de discriminación y violencia contra las mujeres;
 
 XV.- Orientar y asesorar a los integrantes del Sistema Estatal en la elaboración del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
@@ -2574,3 +2606,15 @@ P.O. 6 DE JULIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 658 - LXVI POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XI DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE VIOLENCIA DIGITAL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 356 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE AMPLIACIÓN DE PRINCIPIOS RECTORES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 400 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE INDICADORES DE MEDICIÓN Y MECANISMOS DE EVALUACIÓN”.]
+
+ÚNICO. El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
