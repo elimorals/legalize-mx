@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-173070"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-05-09"
-last_updated: "2024-05-09"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Alcance uno al Núm. 19 del Periódico Oficial del Estado de Hidalgo, el 9 de mayo de 2024.
 
@@ -497,11 +497,13 @@ Las Magistradas y los Magistrados serán nombrados por el Gobernador del Estado 
 
 ### CAPÍTULO VI. DE LA PERSONA TITULAR DE LA SECRETARÍA GENERAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### Artículo 36.
 
-La persona titular de la Secretaría General del Tribunal Superior de Justicia, que lo será también del pleno, dará fe y autenticará todo lo relativo al ejercicio de su función. Será nombrado y removido por el Pleno a propuesta del Presidente o Presidenta.
+La persona titular de la Secretaría General del Tribunal Superior de Justicia, que lo será también del pleno, dará fe y autenticará todo lo relativo al ejercicio de su función. Será nombrada y removida por el Pleno a propuesta del Presidente o Presidenta, y deberá contar con ciudadanía mexicana, título y cédula profesional de la licenciatura en derecho expedidos por autoridad competente, y experiencia laboral mínima de tres años, al día de su designación.
 
-La persona titular de la Secretaría General del Tribunal Superior de Justicia deberá satisfacer los mismos requisitos exigidos para ocupar el cargo de Magistrada o Magistrado, con excepción de la edad mínima que deberá ser de treinta años cumplidos al día de la designación; por cuanto a la práctica profesional de la licenciatura en derecho, deberá ser no menor de cinco años.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
 
 De su renuncia conocerá el Pleno del Tribunal Superior de Justicia.
 
@@ -2740,3 +2742,13 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. JULIO RAMÓN MENCHACA SALAZAR
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM 378 - LXVI POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE HIDALGO, LA LEY DE LOS DERECHOS HUMANOS DEL ESTADO DE HIDALGO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO, LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES Y LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, EN MATERIA DE EDAD MÍNIMA PARA ACCEDER A CARGOS PÚBLICOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
