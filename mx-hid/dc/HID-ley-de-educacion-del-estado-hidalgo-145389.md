@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2026-04-28"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -157,9 +157,9 @@ La Secretaría y las autoridades educativas municipales buscarán la equidad, la
 
 Las acciones que realicen tendrán como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela y en la comunidad.
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
-La Secretaría y autoridades educativas municipales, en coordinación con la Secretaría de Salud, implementarán programas de capacitación dirigidos al personal docente, en materia de detección de situaciones o factores de riesgo relacionados con la salud mental de los educandos. Los docentes deben informar de inmediato a las autoridades correspondientes si detectan algún caso de riesgo.
+La Secretaría y autoridades educativas municipales, en coordinación con la Secretaría de Salud, implementarán programas de capacitación dirigidos al personal docente, en materia de detección de situaciones o factores de riesgo relacionados con la salud mental de los educandos, asimismo, y de acuerdo con la disponibilidad presupuestaria, promoverán la presencia de personal de enfermería en los planteles educativos, para realizar acciones de prevención, promoción de entornos escolares seguros, autocuidado, educación para la salud y canalización oportuna a la atención médica de acuerdo con el caso. Los docentes deben informar de inmediato a las autoridades correspondientes si detectan algún caso de riesgo.
 
 > <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2024)</small>
 
@@ -268,6 +268,10 @@ III. Inculcar el enfoque de derechos humanos y de igualdad sustantiva, y promove
 > <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2024)</small>
 
 III BIS. Fomentar una cultura de la vejez, envejecimiento activo y saludable, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+III TER. Promover una cultura de respeto, inclusión y no discriminación de las personas en situación de calle;
 
 IV. Fomentar el amor a la Patria, el aprecio por sus culturas, el conocimiento de su historia y el compromiso con los valores, símbolos patrios, las instituciones nacionales y estatales;
 
@@ -2698,5 +2702,17 @@ SEGUNDO. Las autoridades educativas, en coordinación con los ayuntamientos y de
 P.O. 28 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 617 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 68 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE PLANES Y PROGRAMAS DE ESTUDIO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 397 – LXVI POR EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO HIDALGO, EN MATERIA DE FORTALECIMIENTO A LA ATENCIÓN DE LA SALUD ESCOLAR”.]
+
+ÚNICO. El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 573 - LXVI POR EL QUE SE ADICIONA LA FRACCIÓN III TER AL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE CULTURA DE RESPETO A LAS PERSONAS EN SITUACIÓN DE CALLE".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
