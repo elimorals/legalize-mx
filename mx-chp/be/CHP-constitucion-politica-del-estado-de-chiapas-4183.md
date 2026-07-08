@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2026-07-01"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -995,11 +995,11 @@ Los requisitos que deberán cumplirse para el registro de un partido local, así
 
 La intervención en la vida interna de los partidos por parte de las autoridades electorales locales, sólo podrá ser conforme a las disposiciones que establezcan esta Constitución y las leyes generales respectivas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
 
 ###### Artículo 30.
 
-La ley garantizará que la postulación y registro de candidaturas a las Diputaciones del Congreso del Estado, y que las planillas para integrar a los Ayuntamientos cumplan a cabalidad con el principio de paridad de género, en sus dimensiones horizontal, vertical y transversal; así como la participación, por lo menos en el diez por ciento de sus integrantes, de jóvenes menores de treinta años como propietarios.
+La ley garantizará que la postulación y registro de candidaturas a las Diputaciones del Congreso del Estado, y que las planillas para integrar a los Ayuntamientos cumplan con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio de las funciones públicas; así como la participación, por lo menos en el diez por ciento de sus integrantes, de jóvenes menores de treinta años como propietarios.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -1089,7 +1089,13 @@ El Poder Legislativo del Estado de Chiapas, se deposita en una Asamblea de Repre
 
 Las personas que ocupen una diputación en su carácter de representantes del pueblo, tienen derecho de opinar, discutir, defender sus ideas y los intereses que representan y jamás serán reconvenidos por las opiniones que emitan o las tesis que sustenten, ni se podrán entorpecer en sus gestiones cuando éstas se ajusten a la Ley.
 
-El Congreso del Estado, para su adecuado funcionamiento, contará con las áreas necesarias; mismas que estarán contempladas en la Ley Orgánica del Congreso del Estado.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
+El Congreso del Estado, para su adecuado funcionamiento, contará con las áreas necesarias; mismas que estarán contempladas en la Ley de Desarrollo Constitucional del Congreso del Estado de Chiapas.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2026)</small>
+
+En el proyecto de Presupuesto de Egresos del Estado se contemplará en el presupuesto anual del Congreso, el cual no podrá exceder del cero punto setenta por ciento de aquel.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2213,9 +2219,9 @@ El funcionamiento, designación del personal que se requiera y las atribuciones 
 
 La base de la división territorial y de la organización política y administrativa del Estado de Chiapas es el Municipio Libre.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
-Cada municipio será gobernado por un ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal y el número de regidurías y sindicaturas que la ley determine, de conformidad con el principio de paridad de género; la ley determinará los requisitos de elegibilidad para la conformación de los Ayuntamientos los cuales, además, contarán con integrantes de representación proporcional.
+Cada municipio será gobernado por un ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal, una Sindicatura y el número de regidurías no podrá ser superior a quince, de conformidad con el principio de paridad de género; la ley determinará los requisitos de elegibilidad para la conformación de los Ayuntamientos los cuales, además, contarán con integrantes de representación proporcional.
 
 La competencia que esta Constitución otorga al Gobierno Municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
@@ -2479,13 +2485,13 @@ La Comisión no tendrá competencia en asuntos electorales y jurisdiccionales.
 
 Asimismo, contará con las áreas especializadas necesarias para el cumplimiento de sus objetivos. Los órganos de la Comisión se integrarán y funcionarán de acuerdo a la ley de la materia y su normatividad interna.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
-La Comisión Estatal de los Derechos Humanos tendrá un Consejo Consultivo integrado por diez Consejeras o Consejeros que serán elegidos por el voto de las dos terceras partes de los miembros del Congreso del Estado o, en sus recesos, por la mayoría de la Comisión Permanente. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente serán sustituidos los dos consejeros o consejeras de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
+La Comisión Estatal de los Derechos Humanos tendrá un Consejo Consultivo, como órgano de participación civil integrado por cinco Consejeras o Consejeros, dentro de los cuales el Presidente o Presidenta de dicho Consejo será la persona titular de la presidencia de la Comisión Estatal de los Derechos Humanos, y los cuatro integrantes restantes serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, o en sus recesos por la Comisión Permanente, cuyos cargos serán honoríficos y estos no deberán desempeñar cargo o comisión como servidores públicos; durarán en su encargo cuatro años, pudiendo ser propuestos para un segundo periodo, debiendo garantizar la paridad de género; para lo cual la Comisión legislativa correspondiente del Congreso del Estado, previa auscultación a los sectores sociales propondrán a las personas candidatas para integrar el Consejo Consultivo.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
-La Presidenta o el Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior y la ley de la materia. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Noveno de esta Constitución.
+La persona titular de la Presidencia de la Comisión Estatal de los Derechos Humanos, será elegida en los mismos términos del párrafo anterior y la ley de la materia. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título Décimo de esta Constitución.
 
 El Presidente de la Comisión Estatal de los Derechos Humanos presentará anualmente a los Poderes del Estado un informe de actividades. Al efecto comparecerá ante el Congreso en los términos que disponga la ley.
 
@@ -2569,9 +2575,9 @@ Tampoco podrán asumir un cargo público en los órganos emanados de las eleccio
 
 La ley establecerá los requisitos que deberán reunirse para ocupar los cargos de Secretario Ejecutivo y el titular de la Contraloría General.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
-La remuneración que perciban el Consejero Presidente y los Consejeros Electorales será determinada por la Junta General Ejecutiva del propio Instituto, con base en su autonomía y bajo los principios de austeridad, racionalidad y disciplina del gasto público. Dicha remuneración no podrá disminuirse durante el tiempo que dure su encargo.
+La remuneración que perciban las personas consejeras electorales, titulares de las secretarías de órganos administrativos y titulares de las áreas ejecutivas y técnicas del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas, no excederán el límite establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2610,6 +2616,10 @@ El Tribunal Electoral del Estado de Chiapas es un organismo constitucional autó
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2020)</small>
 
 El Tribunal Electoral del Estado de Chiapas funcionará en Pleno, se integrará por tres Magistradas o Magistrados designados por el Senado de la República y sus emolumentos serán los previstos en el presupuesto de egresos del Estado, del ejercicio fiscal del año correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JULIO DE 2026)</small>
+
+La remuneración que perciban las magistradas o magistrados electorales, titulares de las secretarías de órganos administrativos y titulares de las áreas ejecutivas y técnicas del Tribunal Electoral del Estado de Chiapas, no excederán el límite establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2021)</small>
 
@@ -5424,3 +5434,21 @@ P.O. 1 DE JULIO DE 2026.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo previsto en el presente Decreto.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 274 POR EL QUE SE REFORMAN Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. El Congreso del Estado tendrá un plazo de ciento veinte días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones normativas correspondientes para dar cumplimiento al mismo. Entre tanto, se aplicarán en lo conducente de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se contraponga al presente Decreto.
+
+Artículo Tercero. El Congreso del Estado, en un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar todas las acciones que sean necesarias para la integración del Consejo Consultivo de la Comisión Estatal de los Derechos Humanos.
+
+Para efectos de lo anterior, se aplicará las disposiciones conducentes de la ley de la materia que no se opongan al presente Decreto.
+
+Artículo Cuarto. Se derogan todas las disposiciones que se contrapongan al contenido del presente Decreto.
+
+Artículo Quinto. El Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas y el Tribunal Electoral del Estado de Chiapas, revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el presente Decreto.
+
+El Congreso del Estado de Chiapas, garantizará que los presupuestos del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas y el Tribunal Electoral del Estado de Chiapas, se ajusten a lo previsto en los artículos 100 y 101 de la Constitución Política del Estado Libre y Soberano de Chiapas, por lo que realizarán en cada ejercicio fiscal los ajustes necesarios a los presupuestos que integren, previo a su aprobación.
