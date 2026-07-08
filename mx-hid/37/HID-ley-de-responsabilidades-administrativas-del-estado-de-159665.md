@@ -4,7 +4,7 @@ identifier: "HID-ley-de-responsabilidades-administrativas-del-estado-de-159665"
 country: "mx"
 rank: "ley"
 publication_date: "2022-08-09"
-last_updated: "2022-08-09"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Número 32 del Periódico Oficial del Estado de Hidalgo, el martes 9 de agosto de 2022.
 
@@ -139,11 +139,13 @@ XXIV. Órganos constitucionales autónomos: Organismos a los que la Constitució
 
 XXV. Órganos Internos de Control: Las unidades administrativas a cargo depromover (sic), evaluar y fortalecer el buen funcionamiento del control internoen (sic) los entes públicos, así como aquellas otras instancias de los órganos constitucionales autónomos que, conforme a sus respectivas leyes, seancompetentes (sic) para aplicar las leyes en materia de responsabilidades de servidores públicos;
 
-XXVI. Personas servidoras públicas: Quienes desempeñan un empleo, cargoo (sic) comisión en los entes públicos, en el ámbito estatal y municipal, conforme a lo dispuesto en el artículo 149, de la Constitución Política delEstado (sic) de Hidalgo;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XXVI. Personas servidoras públicas: Quienes desempeñan un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal y municipal, conforme a lo dispuesto en el artículo 149, de la Constitución Política del Estado de Hidalgo;
 
 XXVII. Plataforma Digital Nacional: La plataforma a que se refiere la Ley General del Sistema Nacional Anticorrupción, que contará con los sistemas que establece la referida Ley;
 
-XXVIII. Plataforma Digital Estatal: La plataforma a que se refiere la (sic) esta Ley, la cual contendrá la información que para efectos de las funciones de los Sistemas Nacional y Estatal Anticorrupción, generen los entes públicos facultados para la fiscalización y control de recursos públicos y la prevención, control, detección, sanción y disuasión de faltas administrativas y hechos de corrupción;
+XXVIII. (DEROGADA, P.O. 8 DE JULIO DE 2026)
 
 XXIX. Secretaría: La Secretaría de la Contraloría del Poder Ejecutivo del Estadode (sic) Hidalgo;
 
@@ -157,9 +159,9 @@ XXXII. Tribunal: El Tribunal de Justicia Administrativa del Estado de Hidalgo.
 
 Son sujetos de esta Ley:
 
-(NOTA: EL 17 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 124/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-I. Las personas servidoras públicas mencionadas en el artículo 149, de la Constitución Política del Estado de Hidalgo y todas aquellas personas querecauden (sic), administren, resguarden y/o manejen recursos económicos municipales, estatales, O EN SU CASO FEDERALES, CUANDO ESTOS ÚLTIMOS SEAN TRANSFERIDOS, DESCENTRALIZADOS, CONCERTADOS O CONVENIDOS POR EL ESTADO CON LA FEDERACIÓN O CON SUS MUNICIPIOS;
+I. Las personas servidoras públicas.
 
 II. Aquellas personas que habiendo fungido en el servicio público se encuentren en alguno de los supuestos establecidos en esta Ley; y,
 
@@ -199,7 +201,9 @@ IV. La Fiscalía Especializada en Delitos de Corrupción;
 
 V. El Tribunal; y,
 
-VI. Tratándose de las responsabilidades administrativas de las personas servidoras públicas del Poder Judicial, será competente para investigar eimponer (sic) las sanciones que correspondan, el Consejo de la Judicatura del Poder Judicial del Estado, conforme al régimen establecido en el artículo 100 Ter de la Constitución Política del Estado de Hidalgo, su Ley Orgánica y demás reglamentación interna, sin perjuicio de las atribuciones de la Auditoria Superior en materia de fiscalización sobre el manejo, la custodiay (sic) aplicación de recursos públicos.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+VI. Tratándose de las responsabilidades administrativas de las personas servidoras públicas del Poder Judicial, será competente para investigar e imponer las sanciones que correspondan, el Tribunal de Disciplina Judicial, conforme al régimen establecido en el artículo 100 de la Constitución Política del Estado de Hidalgo, su Ley Orgánica y demás reglamentación interna, sin perjuicio de las atribuciones de la Auditoría Superior en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
 ###### Artículo 7.
 
@@ -243,13 +247,17 @@ La atribución del Tribunal para imponer sanciones a particulares en términos d
 
 ### CAPÍTULO II. PRINCIPIOS Y DIRECTRICES QUE RIGEN LA ACTUACIÓN DE LOS SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### Artículo 12.
 
-Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada persona servidora pública.
+Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada persona servidora pública, en el marco del respeto a los derechos humanos, la buena administración pública y la perspectiva de género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
 
 ###### Artículo 13.
 
-Las personas servidoras públicas acatarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas,eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, las personas servidoras públicas deben cumplir los siguientes criterios:
+Las personas servidoras públicas acatarán en el desempeño de su empleo, cargo o comisión, los principios de austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos que rigen el servicio público. Para la efectiva aplicación de dichos principios, las personas servidoras públicas deben cumplir las siguientes directrices:
 
 I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de susfunciones (sic), facultades y atribuciones;
 
@@ -289,11 +297,13 @@ Para prevenir la comisión de faltas administrativas y hechos decorrupción (sic
 
 En la implementación de las acciones referidas, los Órganos Internos de Control dela (sic) Administración Pública Estatal, en sus respectivos ámbitos de competencia, deben atender los lineamientos generales que emita la Secretaría. En los Poderes Legislativo, Judicial y en los órganos constitucionales autónomos, así como en los municipios, los Órganos Internos de Control respectivos, emitirán los lineamientos señalados.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### Artículo 15.
 
-Las personas servidoras públicas, deben observar el Código de Ética que al efecto sea emitido por las Secretarías o los Órganos Internos de Control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para queen (sic) su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
+Las personas servidoras públicas, deben observar el Código de Ética y el de conducta según corresponda, que al efecto sea emitido por las Secretarías o los Órganos Internos de Control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
 
-El Código de Ética a que se refiere el párrafo anterior, deberá hacerse del conocimiento de las personas servidoras públicas de la dependencia o entidad de que se trate, así como darle la máxima publicidad.
+Los códigos que se refiere el párrafo anterior, deberán hacerse del conocimiento de las personas servidoras públicas de la dependencia o entidad de que se trate, así como darle la máxima publicidad.
 
 ###### Artículo 16.
 
@@ -309,13 +319,17 @@ Para la selección de los integrantes de los Órganos Internos de Controlse (sic
 
 Los titulares de los Órganos Internos de Control, de los órganos constitucionales autónomos, así como de las unidades especializadas que los conformen, serán nombrados en términos de sus respectivas leyes.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### Artículo 19.
 
-La Secretaría y los Órganos Internos de Control podrá (sic) suscribirconvenios (sic) de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizacionesindustriales (sic) o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de unacultura (sic) ética en su organización.
+La Secretaría podrá suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura de la ética, honestidad y buenas prácticas en su organización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
 
 ###### Artículo 20.
 
-En el diseño y revisión de mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética e integridad en los negocios, además de incluir medidas que inhiban la prácticade (sic) conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a personas denunciantes.
+En el diseño y revisión de mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética, honradez e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a personas denunciantes.
 
 Las personas físicas o morales interesados (sic) en brindar cualquier tipo de servicio a favor de un ente público, o concesionarios o permisionarios de un servicio público, para ser contratados deberán acreditar ante la dependencia correspondiente haber tomado un curso de prevención y concientización sobre las faltas administrativas yhechos (sic) de corrupción, debiendo firmar un documento en el que manifiesten estar plenamente conscientes de la prevención y sanción de las citadas irregularidades.
 
@@ -357,27 +371,51 @@ VII. Mecanismos que aseguren en todo momento la transparencia ypublicidad (sic)d
 
 #### SECCIÓN PRIMERA. DEL SISTEMA DE EVOLUCIÓN PATRIMONIAL,DE DECLARACIÓN DE INTERESES Y CONSTANCIA DE PRESENTACIÓN DE DECLARACIÓN FISCAL
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### Artículo 24.
 
-La Secretaría y los Órganos Internos de Control estarán a cargo del sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, a través de la Plataforma Digital Estatal, de conformidad con lo previsto en la Ley del Sistema.
+La Secretaría, así como los Órganos Internos de Control de los entes públicos y municipales, estarán a cargo del sistema de evolución patrimonial, y de declaración patrimonial y de intereses de conformidad con lo previsto en la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
 
 ###### Artículo 25.
 
-La información prevista en el Sistema de evolución patrimonial, de declaración de intereses y presentación de la constancia de declaración fiscal, se almacenará en la Plataforma Digital Estatal la cual contendrá la información que para efectos de las funciones de los Sistemas Nacional y Estatal Anticorrupción, generen los entes públicos facultados para la fiscalización y control de recursos públicos y la prevención, control, detección, sanción y disuasión de faltas administrativas y hechos de corrupción, de conformidad con lo establecido en la LeyGeneral (sic) y la Ley del Sistema.
+La información prevista en el Sistema de declaración patrimonial y de intereses, se almacenará y manejará a efecto de interconectarse a la Plataforma Digital Nacional.
 
-La plataforma digital contará además con los sistemas de información específicos que estipulan la Ley General del Sistema y la Ley del Sistema.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
 
-En el sistema de evolución patrimonial, de declaración de intereses y de constanciade (sic) presentación de la declaración fiscal de la plataforma digital, se inscribirán los datos públicos de las personas servidoras públicas obligadas a presentar declaraciones de situación patrimonial y de intereses. De igual forma, se inscribirá la constancia que para efectos de esta Ley emita la autoridad fiscal, sobre la presentación de la declaración anual de impuestos.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
-En el Sistema de Servidores Públicos y Particulares Sancionados de la PlataformaDigital (sic) Estatal se inscribirán y se harán públicas, de conformidad con lo dispuesto en la Ley General del Sistema, la Ley Estatal del Sistema y las disposiciones legalesen (sic) material de transparencia, las constancias de sanciones y de inhabilitación que se encuentren firmes que hayan sido sancionados por actos vinculados con faltas administrativas graves en términos de ésta Ley, así como la anotación de aquellasabstenciones (sic) que hayan realizado las autoridades investigadoras o el Tribunal en términos de esta Ley.
+En el sistema de declaración patrimonial y de intereses, se registrarán los datos públicos de las personas servidoras públicas obligadas a presentar declaraciones de situación patrimonial y de intereses.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2026)</small>
+
+En el sistema de evolución patrimonial, se realizará la verificación patrimonial de las personas servidoras públicas, para tal efecto se interconectara con la información almacenada en los sistemas de la secretaría, así como los Órganos Internos de Control de los entes públicos, de conformidad con lo dispuesto en la Ley General del Sistema y la Ley Estatal del Sistema
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
+En el Sistema de Servidores Públicos y Particulares Sancionados se inscribirán y se harán públicas, de conformidad con lo dispuesto en la Ley General del Sistema, la Ley Estatal del Sistema y las disposiciones legales en materia de transparencia, las constancias de sanciones y de inhabilitación que se encuentren firmes que hayan sido sancionados por actos vinculados con faltas administrativas graves en términos de ésta Ley, así como la anotación de aquellas abstenciones que hayan realizado las autoridades investigadoras o el Tribunal en términos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2026)</small>
+
+De igual manera, se inscribirá en la Plataforma Digital Nacional, la constancia que para efectos de esta Ley emita la autoridad fiscal, sobre la presentación de la declaración anual de impuestos
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2026)</small>
+
+Toda la información podrá ser utilizada por los entes públicos facultados para la fiscalización y control de recursos públicos y la prevención, control, detección, sanción, y disuasión de faltas administrativas y hechos de corrupción, la cual se tratará de conformidad con lo establecido en la Ley General del Sistema y la Ley Estatal del Sistema.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
 
 ###### Artículo 26.
 
-Los entes públicos inscribirán en la Plataforma Digital las constanciasde (sic) sanción o de inhabilitación emitidas en contra de las personas servidoraspúblicas (sic) o particulares que hayan sido sancionados por faltas administrativas graves, que se sean jurídicamente firmes y vigentes.
+Los entes públicos inscribirán en la Plataforma Digital Nacional las constancias de inhabilitación emitidas en contra de las personas servidoras públicas o particulares que hayan sido sancionados por faltas administrativas graves, que sean jurídicamente firmes y vigentes.
 
 La Secretaría está a cargo de la inscripción que corresponda a las personas servidoras públicas de las Dependencias y Entidades de la Administración Pública del Estado, en tanto que, en los Poderes Legislativo y Judicial, los municipios y, losorganismos (sic) constitucionales autónomos, la inscripción está a cargo de sus respectivos Órganos Internos de Control.
 
-Previo a la contratación, designación o nombramiento de quienes pretendan ingresar al servicio público, los entes públicos responsables de la contratación deben consultar el Sistema Nacional de Servidores Públicos y Particulares Sancionados del Sistema Estatal de Información y de la Plataforma Digital Nacional,con el fin de verificar si existen inhabilitaciones de dichas personas.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
+Previo a la contratación, designación o nombramiento de quienes pretendan ingresar al servicio público, los entes públicos responsables de la contratación deben consultar el Sistema Nacional de Servidores Públicos y Particulares Sancionados, el Sistema Estatal de Servidores Públicos Sancionados y la Plataforma Digital Nacional, con el fin de verificar si existen inhabilitaciones de dichas personas.
 
 ###### Artículo 27.
 
@@ -389,9 +427,11 @@ Las declaraciones patrimoniales y de intereses son públicas salvo los rubros cu
 
 Para tal efecto, el Comité Coordinador, a propuesta del Comité de Participación Ciudadana, emitirá los formatos respectivos, atendiendo lo establecido en el párrafoanterior (sic).
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### Artículo 29.
 
-La Secretaría, así como los Órganos Internos de Control de los entes públicos, según corresponda, son responsables de inscribir y mantener actualizadoel (sic) sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de la Plataforma Digital, la información correspondiente a los declarantes a su cargo.
+La Secretaría, así como los Órganos Internos de Control de los entes públicos y municipales, según corresponda, son responsables de inscribir y mantener actualizado el sistema de declaración patrimonial y de intereses, con la información correspondiente a los declarantes a su cargo.
 
 Asimismo, verificarán la situación o posible actualización de algún conflicto de intereses, según la información proporcionada, llevarán el seguimiento de la evolución y la verificación de la situación patrimonial de dichos declarantes, en los términos de esta Ley y la Ley General. Para tales efectos, la Secretaría puede firmarconvenios (sic) con las distintas autoridades que tengan a su disposición datos, información o documentos que puedan servir para verificar la información declaradapor (sic)las personas servidoras públicas.
 
@@ -455,25 +495,33 @@ La Secretaría y los Órganos Internos de Control, están facultados parallevar 
 
 En los casos en que la declaración de situación patrimonial del Declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como persona servidora pública, las Secretarías y los Órganos Internos de Control inmediatamente solicitarán seaaclarado (sic) el origen de dicho enriquecimiento. De no justificarse la procedencia de dicho enriquecimiento, las Secretarías y los Órganos Internos de Control procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley, y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### Artículo 36.
 
-Las declaraciones de situación patrimonial deben ser presentadas a través de medios electrónicos, empleándose medios de identificación electrónica. En el caso de municipios que no cuenten con las tecnologías de la información y comunicación necesarias para cumplir lo anterior, podrán emplearse formatosimpresos (sic), siendo responsabilidad de los Órganos Internos de Control y de la Secretaría, verificar que dichos formatos sean digitalizados e incluir la información que corresponda en el Sistema de Evolución Patrimonial y de declaración de intereses.
+Las declaraciones de situación patrimonial deben ser presentadas a través de medios electrónicos, empleándose medios de identificación electrónica. En el caso de municipios que no cuenten con las tecnologías de la información y comunicación necesarias para cumplir lo anterior, podrán emplearse formatos impresos, siendo responsabilidad de los Órganos Internos de Control y de la Secretaría, verificar que dichos formatos sean digitalizados e incluir la información que corresponda en el Sistema de declaración patrimonial y de intereses.
 
-La Secretaría tiene a su cargo el sistema de certificación de los medios deidentificación (sic) electrónica que utilicen las personas servidoras públicas, debiendo llevar el control (sic) los mismos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
 
-Son documentos públicos aquellos que emita la Secretaría, en los cuales secontenga (sic) la información que obre en sus archivos documentales y electrónicos sobre las declaraciones de situación patrimonial de las personas servidoras públicas.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
+Son documentos públicos aquellos que emita la Secretaría, así como los Órganos Internos de Control de los entes públicos y municipales, en los cuales se contenga la información que obre en sus archivos documentales y electrónicos sobre las declaraciones de situación patrimonial de las personas servidoras públicas.
 
 Con estricto apego a lo dispuesto en la legislación en materia de transparencia, acceso a la información pública y protección de datos personales y demás normatividad aplicable, las personas servidoras públicas facultadas para recabar las declaraciones patrimoniales deben resguardar la información a la que accedan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### Artículo 37.
 
-Las personas declarantes están obligadas a proporcionar a la Secretaría y los Órganos Internos de Control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos.
+Las personas declarantes están obligadas a proporcionar a la Secretaría y los Órganos Internos de Control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos o integrantes de sociedades de convivencia.
 
 Únicamente los titulares de la Secretaría, de Auditoria Superior y/o los titulares de los Órganos Internos de Control podrán solicitar a las autoridades competentes, enlos (sic) términos de las disposiciones aplicables, la información en materia fiscal o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### Artículo 38.
 
-Para los efectos de esta Ley y de la legislación penal, se computarán entre los bienes que adquieran las personas declarantes, o con respecto de los cuales se conduzcan como dueños, aquellos que reciban o de los que dispongan su cónyuge, concubina o concubinario y sus dependientes económicos directos, salvo que se acredite que éstos los obtuvieron por sí mismos.
+Para los efectos de esta Ley y de la legislación penal, se computarán entre los bienes que adquieran las personas declarantes, o con respecto de los cuales se conduzcan como dueños, aquellos que reciban o de los que dispongan su cónyuge, concubina o concubinario, sus dependientes económicos directos o integrantes de sociedad de convivencia; salvo que se acredite que éstos los obtuvieron por sí mismos.
 
 ###### Artículo 39.
 
@@ -541,19 +589,27 @@ La declaración de intereses debe presentarse en los plazos a que se refiere el 
 
 Incurrirán en falta administrativa no grave, las personas servidoras públicas cuyos (sic) acciones u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
 
-I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás personas servidoras públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el Código de Ética (sic) que serefiere (sic) el artículo 15 de esta Ley;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-II. Denunciar los (sic) acciones u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir faltas administrativas, en términosdel (sic) artículo 111 de esta Ley;
+I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás personas servidoras públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en los Códigos de Ética que se refiere el artículo 15 de esta Ley; y de conducta según corresponda;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+II. Denunciar los (sic) acciones u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir faltas administrativas, en términos del artículo 91 de esta Ley;
 
 III. Atender las instrucciones y/o recomendaciones de sus superiores, siempreque (sic) éstas sean acordes con las disposiciones relacionadas con el serviciopúblico (sic).
 
-En caso de recibir instrucción o encomienda contraria a dichas disposiciones y que puedan constituir la existencia de faltas administrativas deberá denunciar esta circunstancia en términos del artículo 113 de esta Ley;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
+En caso de recibir instrucción o encomienda contraria a dichas disposiciones y que puedan constituir la existencia de faltas administrativas deberá denunciar esta circunstancia en términos del artículo 91 de esta Ley;
 
 IV. Presentar en tiempo y forma las declaraciones de situación patrimonial y de intereses, en los términos establecidos por esta Ley;
 
 V. Registrar, integrar, custodiar y cuidar la documentación e información que,por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, divulgación, sustracción, destrucción, ocultamiento o inutilización indebidos;
 
-VI. Supervisar que las personas servidoras públicas sujetos a su dirección, cumplan con las disposiciones de este artículo;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+VI. Supervisar que las personas servidoras públicas sujetas a su dirección, cumplan con las disposiciones de este artículo;
 
 VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las normas aplicables;
 
@@ -837,9 +893,9 @@ II. Tratándose de personas morales:
 
 A. Sanción económica que se impondrá de uno hasta dos tantos de los beneficios obtenidos, en caso de no haberlos obtenido, por el equivalente a la cantidad de mil hasta un millón quinientasmil (sic) veces el valor diario de la unidad de medida y actualización.
 
-(NOTA: EL 17 DE OCTUBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 124/2022, DECLARÓ LA INVALIDEZ DE LA LETRA B DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE DICIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
-B. INHABILITACIÓN TEMPORAL PARA PARTICIPAR EN ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS U OBRAS PÚBLICAS, POR UN PERIODO QUENO (SIC) SERÁ MENOR DE SEIS MESES NI MAYOR DE DIEZ AÑOS.
+B. Inhabilitación temporal para participar en adquisiciones, arrendamientos, servicios u obras públicas, por un periodo que no será menor de tres meses ni mayor de diez años.
 
 C. La suspensión de actividades, por un periodo que no será menor de tres meses ni mayor de tres años, la cual consistirá en detener, diferir o privar temporalmente a los particulares desus (sic) actividades comerciales, económicas, contractuales o de negocios por estar vinculados a faltas administrativas graves previstas en esta Ley.
 
@@ -1063,7 +1119,9 @@ III. Las razones y fundamentos por los que, a juicio del recurrente, la califica
 
 IV. Firma autógrafa del recurrente.
 
-La omisión de este requisito dará lugar a que no se tenga por presentadoel (sic) recurso, por lo que en este caso no será aplicable lo dispuesto en el artículo 125, de esta Ley.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
+La omisión de este requisito dará lugar a que no se tenga por presentado el recurso, por lo que en este caso no será aplicable lo dispuesto en el artículo 104, de esta Ley.
 
 V. Las pruebas que estime pertinentes para acreditar las razones y fundamentos expresados en el recurso de inconformidad. La satisfacciónde (sic) este requisito no será necesaria si los argumentos contra la calificaciónde (sic) los hechos versan solo sobre aspectos de derecho.
 
@@ -1321,9 +1379,11 @@ Solo serán citados por la autoridad resolutora cuando la persona oferente manif
 
 Quienes por motivos de edad o salud no puedan presentarse a rendir su testimonio, se les tomará en su domicilio o en el lugar donde se encuentren, pudiendo asistir las partes a dicha diligencia.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### Artículo 136.
 
-Los representantes de elección popular, las magistradas y los magistrados y jueces del Poder Judicial del Estado de Hidalgo, los consejeros del Consejo de la Judicatura del Poder Judicial del Estado de Hidalgo, las personas servidoras públicas que sean ratificados o nombrados con la intervención de la Legislatura Local, los Secretarios del Ejecutivo Estatal, los titulares de los organismos a los que la Constitución Local otorgue autonomía, las magistradas y los magistrados del Tribunal Electoral del Estado de Hidalgo y titulares de las dependencias del gobierno estatal y municipal rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.
+Los representantes de elección popular, las magistradas y los magistrados y jueces del Poder Judicial del Estado de Hidalgo, magistrados y magistradas del Tribunal de Disciplina Judicial, las y los miembros del Órgano de Administración Judicial, las personas servidoras públicas que sean ratificados o nombrados con la intervención de la Legislatura Local, los Secretarios del Ejecutivo Estatal, los titulares de los organismos a los que la Constitución Local otorgue autonomía, las magistradas y los magistrados del Tribunal Electoral del Estado de Hidalgo y titulares de las dependencias del gobierno estatal y municipal rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.
 
 ###### Artículo 137.
 
@@ -1821,7 +1881,13 @@ III. Aquellas que admitan o nieguen la intervención de terceros interesados.
 
 El recurso de reclamación se promoverá ante la autoridad substanciadora o resolutora, que haya dictado el auto recurrido, dentro de los cinco días hábiles siguientes a aquel en que surta efectos la notificación correspondiente.
 
-Interpuesto el recurso se correrá traslado a la contraparte para que en el término de tres días hábiles manifieste lo que a su derecho convenga, sin más trámite, se dará cuenta al Tribunal para que resuelva en un término que no exceda de cinco días hábiles.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
+Interpuesto el recurso se correrá traslado a la contraparte para que en el término de tres días hábiles manifieste lo que a su derecho convenga, sin más trámite, se resolverá en un término que no exceda de cinco días hábiles.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2026)</small>
+
+De la reclamación conocerá la Autoridad substanciadora o resolutora que haya emitido el auto recurrido.
 
 La resolución del recurso de reclamación no admitirá recurso en contra.
 
@@ -1962,3 +2028,15 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 594 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE HIDALGO, EN MATERIA DE COMBATE A LA CORRUPCIÓN, TRANSPARENCIA Y RENDICIÓN DE CUENTAS, EN MATERIA DE ARMONIZACIÓN EN COMBATE A LA CORRUPCIÓN, TRANSPARENCIA Y RENDICIÓN DE CUENTAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente decreto serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+TERCERO. Para el caso de la reforma a los artículos 6 y 136, correspondientes a las figuras del Tribunal de Disciplina Judicial y Órgano de Administración Judicial, serán aplicables las modificaciones del presente decreto una vez se hayan elegido a los servidores públicos que desempeñarán esos cargos.
