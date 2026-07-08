@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-mental-y-prevencion-del-suicidio-para-el-174150"
 country: "mx"
 rank: "ley"
 publication_date: "2024-08-20"
-last_updated: "2024-08-20"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174150&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE SALUD MENTAL Y PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Número 34 Alcance uno del Periódico Oficial del Estado de Hidalgo, el martes 20 de agosto de 2024.
 
@@ -89,13 +89,25 @@ III. Condiciones de salud mental. Variedad de padecimientos que afectan el estad
 
 IV. Conducta suicida. Conjunto de comportamientos relacionados con la intencionalidad de comunicar, actuar o ejecutar un acto autodestructivo que podría acabar con la propia vida;
 
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+IV Bis. Diversidad sexogenérica: Conjunto de posibilidades que tienen las personas para asumir, expresar y vivir la sexualidad, así como de asumir identidades, preferencias u orientaciones sexuales distintas a la norma heterosexual y cisgénero;
+
 V. Enfermedad o trastorno mental. Afectación de la salud mental de una persona debido a la presencia de un comportamiento derivado de un grupo de síntomas identificables en la práctica clínica que en su mayoría interfieren en la actividad cotidiana de la persona y su entorno;
 
 VI. Equipo de atención en salud mental. Grupo de profesionales para la atención integral en salud mental, conformado por una persona profesional en medicina general, una en psiquiatría, una en psicología, una en enfermería y una en trabajo social;
 
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+VI Bis. Expresión de género: Se entiende como la manifestación externa de su género, que una persona realiza a través de su aspecto físico, lenguaje corporal, modo de vestir, forma de hablar, patrones de comportamiento personal o de interacción social, nombres o referencias personales, entre otros;
+
 VII. Intento suicida. Acción autodestructiva a la que sobrevive la persona con ideación o conducta suicida;
 
 VIII. Ley Estatal de Procedimiento Administrativo. Ley Estatal de Procedimiento Administrativo para el Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+VIII Bis. Orientación sexual: Capacidad de cada persona de sentir atracción afectiva y/o sexual hacia personas de un género distinto al propio, del mismo género, o de más de un género.
 
 IX. Paciente bajo custodia. Persona con algún trastorno mental diagnosticado que requiere atención médica hospitalaria, encontrándose privada de la libertad, derivada de un procedimiento judicial;
 
@@ -123,7 +135,9 @@ XIX. UMA. Unidad de Medida y Actualización.
 
 Corresponde a la Secretaría:
 
-I. Elaborar e implementar el Programa de Salud Mental, con un enfoque de derechos humanos y perspectiva de género;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+I. Elaborar e implementar el Programa de Salud Mental, con enfoque de derechos humanos, perspectiva de género, interseccionalidad, interculturalidad y no discriminación;
 
 II. Diseñar e instrumentar en coordinación con las dependencias, instituciones y entidades competentes, acciones de difusión masiva, con base en criterios científicos, con la finalidad de informar sobre la detección, la atención y la prevención de algún tipo de trastorno mental, priorizando los que provocan conducta suicida;
 
@@ -185,7 +199,9 @@ XII. A recibir orientación y asesoría sobre el uso de los servicios de salud q
 
 XIII. A presentar quejas, reclamaciones y sugerencias, para ser atendidas de forma oportuna y efectiva por los prestadores de servicios de salud;
 
-XIV. A recibir un trato digno y con respeto a sus derechos humanos;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+XIV. A recibir un trato digno y con respeto a sus derechos humanos, libres de estigma o prejuicio por motivos de orientación sexual, identidad o expresión de género, así como por cualquier otra causa que tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
 XV. A recibir atención especializada; y
 
@@ -387,9 +403,11 @@ IV. Proyectar al equipo de atención en salud mental hacia la comunidad.
 
 ### CAPÍTULO VII. ATENCIÓN EN SALUD MENTAL POR GRUPO DE EDAD Y VULNERABILIDAD
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### Artículo 34.
 
-Las instituciones que integran los Sistemas Nacional y Estatal de Salud procurarán dar prioridad en la atención especializada a niñas, niños y adolescentes, jóvenes, mujeres en condiciones de embarazo, puerperio o en menopausia, personas adultas mayores y personas que se encuentran en situación de calle, de emergencia o desastre.
+Las instituciones que integran los Sistemas Nacional y Estatal de Salud procurarán dar prioridad en la atención especializada a niñas, niños y adolescentes, jóvenes, mujeres en condiciones de embarazo, puerperio o en menopausia, personas adultas mayores, personas de la diversidad sexogenérica y personas que se encuentran en situación de calle, de emergencia o desastre.
 
 ###### Artículo 35.
 
@@ -486,3 +504,11 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. JULIO RAMÓN MENCHACA SALAZAR
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 367 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD MENTAL Y PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE HIDALGO, EN MATERIA DE NO DISCRIMINACIÓN A PERSONAS DE LA DIVERSIDAD SEXOGENÉRICA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
