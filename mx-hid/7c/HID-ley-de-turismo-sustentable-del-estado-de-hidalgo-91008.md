@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2026-06-11"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2026.XXX
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -455,53 +455,77 @@ Corresponde a la Secretaría desarrollar y proponer los instrumentos jurídicos 
 
 II.- Participar con la Secretaría de Obras Públicas y Ordenamiento Territorial del Gobierno de Hidalgo en:
 
-II. 1. Establecer las necesidades de transporte terrestre que garanticen el acceso a los atractivos turísticos establecidos y con potencial del Estado; y
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2026)</small>
 
-II. 2. Colaborar en la identificación de las necesidades de señalización para facilitar el acceso a las Zonas de Desarrollo Turístico Estatal Prioritario y a los atractivos turísticos del Estado;
+A) Establecer las necesidades de transporte terrestre que garanticen el acceso a los atractivos turísticos establecidos y con potencial del Estado; y
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
+B) Colaborar en la identificación de las necesidades de señalización para facilitar el acceso a las Zonas de Desarrollo Turístico Estatal Prioritario y a los atractivos turísticos del Estado.
 
 III.- Coadyuvar y coordinar con la Secretaría de Medio Ambiente y Recursos Naturales de Hidalgo:
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2026)</small>
 
-III.1. La instrumentación de programas y medidas para la preservación y aprovechamiento de los recursos naturales, de la prevención de cualquier forma de contaminación, así como promover el turismo alternativo y sustentable de bajo impacto en atractivos y medio ambiente;
+A) La instrumentación de programas y medidas para la preservación y aprovechamiento de los recursos naturales, de la prevención de cualquier forma de contaminación, así como promover el turismo alternativo y sustentable de bajo impacto en atractivos y medio ambiente;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2026)</small>
 
-III.2. La promoción y desarrollo del turismo de naturaleza, en los lugares propicios para ello, cuidando el impacto ecológico y preservando el paisaje natural;
+B) La promoción y desarrollo del turismo de naturaleza, en los lugares propicios para ello, cuidando el impacto ecológico y preservando el paisaje natural;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2026)</small>
 
-III.3. Mantenimiento, limpieza y mejoramiento ambiental de lugares turísticos para evitar el deterioro del paisaje natural y urbano; y
+C) Mantenimiento, limpieza y mejoramiento ambiental de lugares turísticos para evitar el deterioro del paisaje natural y urbano; y
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
-III. 4. Minimizar la generación de residuos y prohibir la utilización de plásticos de un solo uso descartables, de acuerdo con la legislación vigente;
+D) Minimizar la generación de residuos y prohibir la utilización de plásticos de un solo uso descartables, de acuerdo con la legislación vigente.
 
 IV.- Promover y fomentar con la Secretaría de Desarrollo Económico del Estado de Hidalgo:
 
-IV. 1. La inversión de capitales nacionales y extranjeros en proyectos de desarrollo turístico y para el establecimiento de servicios turísticos;
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2026)</small>
 
-IV. 2. Las modalidades de financiamiento público y privado en esquemas preferenciales a los empresarios y emprendedores hidalguenses, mediante la instancia estatal correspondiente;
+A) La inversión de capitales nacionales y extranjeros en proyectos de desarrollo turístico y para el establecimiento de servicios turísticos;
 
-IV. 3. Las acciones tendientes a fortalecer y promover a las micro, pequeñas y medianas empresas turísticas;
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2026)</small>
 
-IV. 4. La instrumentación, en coordinación con las autoridades Federales y de los Municipios competentes, de mecanismos y programas tendientes a facilitar los trámites y gestión de los inversionistas, que permitan la expedita apertura y operación de negocios y empresas en los destinos turísticos; y
+B) Las modalidades de financiamiento público y privado en esquemas preferenciales a los empresarios y emprendedores hidalguenses, mediante la instancia estatal correspondiente;
 
-IV. 5. El uso y aplicación de los fondos federales disponibles que son sujetos de utilización por parte del sector turismo, prestando especial interés a los correspondientes al Fondo Pymes y los Fondos del Consejo Nacional de Ciencia y Tecnología, entre otros.
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2026)</small>
+
+C) Las acciones tendientes a fortalecer y promover a las micro, pequeñas y medianas empresas turísticas;
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2026)</small>
+
+D) La instrumentación, en coordinación con las autoridades Federales y de los Municipios competentes, de mecanismos y programas tendientes a facilitar los trámites y gestión de los inversionistas, que permitan la expedita apertura y operación de negocios y empresas en los destinos turísticos; y
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2026)</small>
+
+E) El uso y aplicación de los fondos federales disponibles que son sujetos de utilización por parte del sector turismo, prestando especial interés a los correspondientes al Fondo Pymes y los Fondos del Consejo Nacional de Ciencia y Tecnología, entre otros.
 
 V.- Promover y apoyar con la Secretaría de Seguridad Pública y con la Procuraduría General de Justicia del Estado de Hidalgo:
 
-V. 1. La participación con la Secretaría de Seguridad Pública de las acciones de protección de la integridad física de los turistas, así como su seguridad y asistencia legal durante su estancia en el Estado; y
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
-V. 2. La colaboración y ayuda a la Procuraduría General de Justicia del Estado de Hidalgo, respecto a la creación de medidas y acciones que garanticen el apoyo a los turistas durante algún posible acontecimiento que les suceda durante su estancia en el Estado;
+A) Promover acciones de protección, seguridad y asistencia legal de los turistas durante su estancia en el Estado, así como de los prestadores de servicios turísticos y población residente; y
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2026)</small>
+
+B) La colaboración y ayuda a la Procuraduría General de Justicia del Estado de Hidalgo, respecto a la creación de medidas y acciones que garanticen el apoyo a los turistas durante algún posible acontecimiento que les suceda durante su estancia en el Estado;
 
 VI.- Promover e impulsar con la Secretaría de Educación Pública del Poder Ejecutivo del Estado de Hidalgo:
 
-VI. 1. Los estudios e investigaciones sobre el turismo y la cultura que se relacionen con el aprovechamiento y conservación del patrimonial del Estado;
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2026)</small>
 
-VI. 2. La difusión de la importancia de respetar y conservar los atractivos turísticos, así como inculcar el espíritu de servicio y hospitalidad hacia el turista nacional y extranjero; y
+A) Los estudios e investigaciones sobre el turismo y la cultura que se relacionen con el aprovechamiento y conservación del patrimonial del Estado;
 
-VI. 3. El trabajo conjunto y coordinado con los centros de enseñanza de los diferentes niveles en los programas que fortalezcan la certificación de la planta laboral;
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2026)</small>
+
+B) La difusión de la importancia de respetar y conservar los atractivos turísticos, así como inculcar el espíritu de servicio y hospitalidad hacia el turista nacional y extranjero; y
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
+C) El trabajo conjunto y coordinado con los centros de enseñanza de los diferentes niveles en los programas que fortalezcan la certificación de la planta laboral.
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -1604,3 +1628,9 @@ SEGUNDO: La Secretaría de Turismo del Estado de Hidalgo deberá expedir los pro
 Dichos protocolos deberán establecer los documentos oficiales idóneos para acreditar la identidad y el vínculo de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, así como, en su caso, la autorización respectiva.
 
 TERCERO: La Secretaría de Turismo del Estado de Hidalgo deberá llevar a cabo las acciones necesarias para la difusión de las disposiciones contenidas en el presente Decreto, a fin de garantizar su conocimiento, correcta implementación y cumplimiento por parte de los prestadores de servicios turísticos de hospedaje en la entidad.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 369 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 8 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN A LOS PRESTADORES DE SERVICIOS TURÍSTICOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
