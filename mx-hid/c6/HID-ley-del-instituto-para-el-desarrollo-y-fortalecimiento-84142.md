@@ -4,7 +4,7 @@ identifier: "HID-ley-del-instituto-para-el-desarrollo-y-fortalecimiento-84142"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2025-08-07"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO
 
-LEY DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO
+LEY DEL INSTITUTO PARA EL DESARROLLO, FORTALECIMIENTO MUNICIPAL Y METROPOLITANO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -47,35 +47,49 @@ POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
 D E C R E T O
 
-QUE CONTIENE LA LEY DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JULIO DE 2026)</small>
+
+LEY DEL INSTITUTO PARA EL DESARROLLO, FORTALECIMIENTO MUNICIPAL Y METROPOLITANO DEL ESTADO DE HIDALGO
 
 ## TITULO PRIMERO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y de interés general, reglamentaria del artículo 199 de la Ley Orgánica del Poder Legislativo y tiene como fin determinar la estructura básica y atribuciones del Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo, con estricto respeto a la autonomía Municipal consagrada en la Constitución Política de los Estados Unidos Mexicanos y la del Estado.
+La presente Ley es de orden público y de interés general, reglamentaria del artículo 199 de la Ley Orgánica del Poder Legislativo y tiene como fin determinar la estructura básica y atribuciones del Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano del Estado de Hidalgo, con estricto respeto a la autonomía municipal consagrada en la Constitución Política de los Estados Unidos Mexicanos y la del Estado.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
 ###### Artículo 2.
 
-El Instituto para el Desarrollo y Fortalecimiento Municipal es un Órgano Técnico dependiente del Congreso del Estado de Hidalgo, cuenta con autonomía técnica y de gestión -no así en cuanto a su presupuesto-, en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, y tiene por objeto, desarrollar acciones de capacitación, información, asesoría, investigación y difusión que fortalezcan las capacidades hacendaria, administrativa, técnica y jurídica de los Ayuntamientos, a fin de que puedan ejercer con el mejor desempeño sus atribuciones y cumplir cabalmente sus tareas en beneficio del desarrollo de sus comunidades, así como impulsar el fomento de la coordinación y colaboración intergubernamental.
+El Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano es un Órgano Técnico dependiente del Congreso del Estado de Hidalgo, cuenta con autonomía técnica y de gestión –no así en cuanto a su presupuesto-, en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, y tiene por objeto, desarrollar acciones de capacitación, información, asesoría, investigación y difusión que fortalezcan las capacidades hacendaria, administrativa, técnica y jurídica de los Ayuntamientos, a fin de que puedan ejercer con el mejor desempeño sus atribuciones y cumplir cabalmente sus tareas en beneficio del desarrollo de sus comunidades, así como impulsar el fomento de la coordinación y colaboración intergubernamental.
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- Ley: Ley del Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-II.- Instituto: Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo;
+I.- Ley: Ley del Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano del Estado de Hidalgo;
 
-III.- Junta de Gobierno: Junta de Gobierno del Instituto para el Desarrollo y Fortalecimiento Municipal;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+II.- Instituto: Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+III.- Junta de Gobierno: Junta de Gobierno del Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano;
 
 IV.- Ayuntamientos: Los ochenta y cuatro Ayuntamientos del Estado de Hidalgo;
 
 V.- Municipios: Los ochenta y cuatro Municipios del Estado de Hidalgo;
 
-VI.- Presidente de la Junta de Gobierno: Presidente o Presidenta de la Junta de Gobierno del Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+VI.- Presidente de la Junta de Gobierno: Presidente o Presidenta de la Junta de Gobierno del Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano del Estado de Hidalgo;
 
 VII.- Presidentes Municipales: Los Presidentes o Presidentas de los ochenta y cuatro Municipios del Estado de Hidalgo;
 
@@ -626,3 +640,13 @@ P.O. 7 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 319 - LXVI POR EL QUE SE REFORMA LA FRACCIÓN XVIII Y SE ADICIONA UNA FRACCIÓN XIX AL ARTÍCULO 6 DE LA LEY DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO, EN MATERIA DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN EN LOS GOBIERNOS MUNICIPALES".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 574 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO Y DE SU REGLAMENTO, Y SE ACTUALIZA LA DENOMINACIÓN DE LA LEY DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO, POR EL DE LEY DEL INSTITUTO PARA EL DESARROLLO, FORTALECIMIENTO MUNICIPAL Y METROPOLITANO DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Congreso del Estado, por conducto de la Dirección de Servicios Administrativos realizará el cambio de la imagen institucional del Instituto, sin que ello implique erogaciones presupuestales adicionales.
+
+TERCERO. Todas las disposiciones normativas que hagan referencia al “Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo” se entenderán referidas al “Instituto para el Desarrollo, Fortalecimiento Municipal y Metropolitano del Estado de Hidalgo”.
