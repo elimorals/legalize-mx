@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2026-06-17"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -871,7 +871,9 @@ III. Determinar los criterios de regulación ecológica para la preservación, p
 
 IV. Instrumentar políticas públicas que faciliten el manejo integrado de cuencas;
 
-V. Promover la restauración de áreas degradadas, así como la revegetación o reforestación y repoblación con especies nativas, de acuerdo con las condiciones climáticas locales; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+V. Promover la restauración de áreas degradadas, así como la revegetación o reforestación y repoblación con especies nativas o endémicas, de acuerdo con las condiciones climáticas, locales; y
 
 VI. Favorecer los usos del suelo con menor impacto adverso ambiental y el mayor beneficio a la población, sobre cualquier otro uso que propicie la afectación masiva de los elementos naturales del territorio.
 
@@ -997,7 +999,9 @@ El Ejecutivo del Estado y los municipios, en el ámbito de sus respectivas compe
 
 La Secretaría, previa determinación y a petición del gobernador, promoverá ante las instancias correspondientes el otorgamiento de estímulos a las personas físicas y morales que realicen acciones para la protección, preservación o restauración del equilibrio ecológico.
 
-Cuando se trate de programas institucionales que incluyan acciones de restauración, éstas últimas deberán incluir especies nativas o adecuadas a cada región a fin de evitar la sustitución de especies.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
+
+Cuando se trate de programas institucionales, que incluyen acciones de restauración, estas últimas deben incluir especies nativas o endémicas adecuadas a cada región a fin de evitar la sustitución de especies.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
 
@@ -3940,3 +3944,9 @@ P.O. 17 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 647 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 3 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, EN MATERIA DE CONCEPTO DE CALIDAD DE VIDA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 596 - LXVI POR EL QUE SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 84 QUINQUIES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO; ASÍ COMO LA FRACCIÓN V DEL ARTÍCULO 18 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 28 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, EN MATERIA DE ESPECIES ENDÉMICAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
