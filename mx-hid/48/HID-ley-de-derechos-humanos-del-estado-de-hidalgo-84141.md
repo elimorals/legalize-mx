@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-humanos-del-estado-de-hidalgo-84141"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2025-05-26"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -425,7 +425,7 @@ La persona titular de la comisión deberá reunir para su elección los siguient
 
 I.- Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II.- Tener cumplidos treinta años de edad, el día de su elección;
+II.- (DEROGADA, P.O. 8 DE JULIO DE 2026)
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
 
@@ -691,7 +691,7 @@ I Ter.- No haber sido persona que haya violado o sido objeto de recomendación p
 
 II.- Haber residido al menos durante los cinco años anteriores al nombramiento, dentro del Estado de Hidalgo, y
 
-III.- Ser mayor de treinta años de edad, el día de su nombramiento; y
+III.- (DEROGADA, P.O. 8 DE JULIO DE 2026)
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
 
@@ -743,9 +743,11 @@ El cargo de Visitador General será remunerado y recibirá las mismas prestacion
 
 Las y los Visitadores de la Comisión, deberán reunir para su designación los siguientes requisitos:
 
-I.- Ser ciudadano mexicano, en pleno goce y ejercicio de sus derechos civiles y políticos.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-II.- Ser mayor de veinticinco años de edad, el día de su nombramiento; y
+I.- Ser ciudadano mexicano, en pleno goce y ejercicio de sus derechos civiles y políticos; y
+
+II.- (DEROGADA, P.O. 8 DE JULIO DE 2026)
 
 III.- Tener título profesional expedido legalmente.
 
@@ -769,9 +771,11 @@ La Comisión podrá contar con Visitadoras o Visitadores de carácter territoria
 
 El Titular de la Secretaría Ejecutiva deberá reunir para su designación, los siguientes requisitos:
 
-I.- Ser ciudadano hidalguense en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-II.- Ser mayor de treinta años de edad, el día de su nombramiento; y
+I.- Ser ciudadano hidalguense en pleno ejercicio de sus derechos; y
+
+II. (DEROGADA, P.O. 8 DE JULIO DE 2026)
 
 III.- Tener título profesional expedido legalmente.
 
@@ -1509,7 +1513,9 @@ XXIII. Las que le señalen la legislación en materia de responsabilidades admin
 
 El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
 
-I. Ser ciudadano o ciudadana hidalguense en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos al día de la designación;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+I. Ser ciudadano o ciudadana hidalguense en pleno goce de sus derechos civiles y políticos;
 
 II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
 
@@ -1680,3 +1686,11 @@ P.O. 26 DE MAYO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 378-LXVI378-LXVI.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE HIDALGO, LA LEY DE LOS DERECHOS HUMANOS DEL ESTADO DE HIDALGO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO, LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES Y LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, EN MATERIA DE EDAD MÍNIMA PARA ACCEDER A CARGOS PÚBLICOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
