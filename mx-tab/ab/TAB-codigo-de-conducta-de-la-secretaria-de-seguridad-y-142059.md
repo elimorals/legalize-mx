@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-la-secretaria-de-seguridad-y-142059"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-02-12"
-last_updated: "2020-02-12"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA, PUBLICADO EN EL P.O. DE 8 DE JULIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento B del Periódico Oficial del Estado de Tabasco, el miércoles 12 de febrero de 2020
 
@@ -552,3 +554,15 @@ DADO EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL·ESTADO DE TABASCO, A LOS 22 DIAS
 LIC. HERNÁN BERMÚDEZ REQUENA
 
 SECRETARIO DE SEGURIDAD Y PROTECCIÓN CIUDADANA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA".]
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el acuerdo mediante el cual se emitió el Código de Conducta de la Secretaría de Seguridad y Protección Ciudadana, publicado el 12 de febrero de 2020, en el Suplemento B, del Periódico Oficial del Estado de Tabasco, edición 8080.
+
+TERCERO. Los procedimientos que se hubieran iniciado con anterioridad a la entrada en vigor del presente Instrumento deontológico, por vulnerar las disposiciones contenidas en el, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
