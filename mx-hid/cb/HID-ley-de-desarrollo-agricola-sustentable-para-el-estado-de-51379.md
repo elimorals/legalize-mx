@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2025-08-22"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -65,7 +65,9 @@ La presente Ley es de observancia general en todo el territorio del Estado de Hi
 
 El objeto de la Ley es:
 
-I.- Elevar el nivel de vida de la población rural del Estado, cuyos ingresos económicos y bienes para el autoconsumo, están determinados por la producción agrícola y subproductos;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+I.- Elevar el nivel de vida de la población rural del Estado, cuyos ingresos económicos y bienes para el autoconsumo, están determinados por la producción agrícola y subproductos, procurando su desarrollo sostenible y sustentable;
 
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2022)</small>
 
@@ -77,9 +79,9 @@ III.- Rescatar de la cultura tradicional de las comunidades campesinas, todo lo 
 
 IV.- Generar las bases que permitan recuperar y elevar la rentabilidad de las actividades agrícolas en el ámbito comercial, mediante la capitalización y modernización de las mismas, bajo criterios de sustentabilidad;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-V.- Asegurar el manejo sustentable de los recursos naturales que se emplean en la producción agrícola, respetando lo dictado por el ordenamiento ecológico del territorio y mediante la diversificación productiva y la participación de las comunidades indígenas, ejidos, pequeña propiedad y personas físicas y morales que se desempeñen en el sector;
+V.- Asegurar el manejo sustentable y sostenible de los recursos naturales que se emplean en la producción agrícola, respetando lo dictado por el ordenamiento ecológico del territorio y mediante la diversificación productiva y la participación de las comunidades indígenas, ejidos, pequeña propiedad y personas físicas y morales que se desempeñen en el sector;
 
 VI.- Fomentar entre los productores agrícolas el manejo correcto de los insumos agrícolas, las labores de preparación de suelo y la aplicación de las normas;
 
@@ -119,9 +121,17 @@ VI.- Promover la coordinación entre los tres Ordenes de Gobierno y su concertac
 
 VII.- Diseñar los instrumentos de apoyo económico, de capitalización y financiamiento, que permitan el tránsito de los productores y sus organizaciones, de un modelo económico dependiente a un modelo abierto;
 
-VIII.- Promover la cultura que permita dignificar la actividad del agricultor, como base del sustento social, al generar los alimentos que consume; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-IX.- Implementar los apoyos directos, estímulos fiscales, créditos, fianzas, fondos, fideicomisos y orientar al productor, en la contratación de seguros o cualquier otro instrumento económico, que permitan el desarrollo y rentabilidad de la infraestructura productiva a lo largo de la cadena, así como el fortalecimiento de esquemas modernos de información sobre canales de comercialización y mercado, que posibiliten la capitalización del sector y la defensa del producto.
+VIII.- Promover la cultura que permita dignificar la actividad del agricultor, como base del sustento social, al generar los alimentos que consume;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
+
+IX.- Implementar los apoyos directos, estímulos fiscales, créditos, fianzas, fondos, fideicomisos, y orientar al productor, en la contratación de seguros, o cualquier otro instrumento económico, que permitan el desarrollo y rentabilidad de la infraestructura productiva a lo largo de la cadena, así como el fortalecimiento de esquemas modernos de información, sobre canales de comercialización y mercado, que posibiliten la capitalización del sector y la defensa del producto; y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+X.- Promover políticas, planes, programas y proyectos, tendentes a alcanzar el desarrollo sostenible y sustentable en el campo.
 
 ###### ARTICULO 4.
 
@@ -260,6 +270,10 @@ IV.- CNA: Comisión Nacional del Agua.
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
 V.- Desarrollo: El proceso continuo de cambios cuantitativos y cualitativos, en los que se busca la satisfacción de las necesidades de la sociedad, no solo en aspectos económicos, sino ambientales, sociales y culturales, entre otros.
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2026)</small>
+
+V Bis.- Desarrollo sostenible: Es un sistema de producción que satisface las necesidades alimentarias actuales sin comprometer los recursos naturales y la capacidad de las generaciones futuras, integrando la viabilidad económica, la salud ambiental y la equidad social.
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
 
@@ -465,9 +479,9 @@ VII BIS.- Las medidas de adaptación al cambio climático del sector agrícola;
 
 VIII.- Un mecanismo que permita atender las contingencias que se presenten por el abatimiento de la producción planeada, así como, la atención de siniestros naturales, y la prevención de los efectos del cambio climático sobre el sector, que impidan al productor rural recuperar la inversión realizada;
 
-(ADICIONADA, P.O. 18 DE AGOSTO DE 2023) (F. DE E., P.O. 22 DE SEPTIEMBRE DE 2023)
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2026)</small>
 
-IX.- El fomento y promoción de acciones que incentiven la agricultura familiar, así como todas las medidas que se consideren necesarias para sentar las bases del desarrollo agrícola sustentable del Estado de Hidalgo; y
+IX.- El fomento y promoción de acciones que incentiven la agricultura familiar, así como todas las medidas que se consideren necesarias para sentar las bases del desarrollo agrícola sustentable y sostenible del estado de Hidalgo; y
 
 X.- Todas las medidas que se consideren necesarias para sentar las bases del desarrollo agrícola sustentable del Estado de Hidalgo.
 
@@ -1550,5 +1564,11 @@ P.O. 10 DE JUNIO DE 2025.
 P.O. 22 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 332 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, EN MATERIA DE AGRICULTURA REGENERATIVA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 588 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, EN MATERIA DE DESARROLLO SOSTENIBLE”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
