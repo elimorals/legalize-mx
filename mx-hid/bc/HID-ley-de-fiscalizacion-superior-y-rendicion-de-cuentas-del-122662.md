@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-122662
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-10"
-last_updated: "2025-01-28"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 10 de julio de 2017.
 
@@ -919,7 +919,7 @@ Para ser Auditor Superior se requiere:
 
 I. Ser ciudadano mexicano por nacimiento y residente del Estado de Hidalgo al menos cinco años anteriores al de su designación, estar en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener cuando menos treinta y cinco años cumplidos al día de su designación;
+II. (DEROGADA, P.O. 8 DE JULIO DE 2026)
 
 III. Gozar de buena reputación y no haber sido condenado mediante sentencia ejecutoriada por delito doloso que amerite pena privativa de libertad;
 
@@ -1340,3 +1340,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO. Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones correspondientes al reglamento interior y demás normatividad administrativa
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 378 - LXVI POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO, LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE HIDALGO, LA LEY DE LOS DERECHOS HUMANOS DEL ESTADO DE HIDALGO, LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO, LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES Y LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, EN MATERIA DE EDAD MÍNIMA PARA ACCEDER A CARGOS PÚBLICOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
