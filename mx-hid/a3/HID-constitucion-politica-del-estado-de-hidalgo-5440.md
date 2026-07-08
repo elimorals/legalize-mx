@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2026-07-07"
+last_updated: "2026-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -483,9 +483,9 @@ Toda persona tiene derecho al acceso a la cultura y a ejercer en condiciones de 
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde a las autoridades estatales y municipales su estimulo, fomento, desarrollo, fortalecimiento, protección y garantía conforme a las leyes en la materia.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2026)</small>
 
-La juventud tiene derecho a su desarrollo integral, el cual se alcanzará mediante la protección de los Derechos Humanos y las Garantías Individuales reconocidas en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que nuestro país sea parte, así como en esta Constitución.
+La juventud tiene derecho a su desarrollo integral, el cual se alcanzará mediante la protección de los Derechos Humanos y las Garantías Individuales reconocidas en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que nuestro país sea parte, así como en esta Constitución. El Estado promoverá el desarrollo integral de las personas jóvenes, a través de políticas públicas con enfoque multidisciplinario, que propicien su inclusión en el ámbito político, social, económico y cultural.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2025)</small>
 
@@ -5022,3 +5022,9 @@ El Congreso del Estado no podrá aprobar ampliaciones presupuestarias, transfere
 El Congreso del Estado deberá efectuar las adecuaciones a la legislación secundaria de conformidad con lo dispuesto en este transitorio y establecer los mecanismos institucionales de control, disciplina presupuestaria y responsabilidad administrativa necesarios para asegurar su cumplimiento.
 
 SÉPTIMO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 619 – LXVI POR EL QUE SE REFORMA EL VIGÉSIMO SEXTO PÁRRAFO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE DERECHOS DE LA JUVENTUD".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
