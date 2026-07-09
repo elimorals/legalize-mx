@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-conservacion-y-sustentabilidad-ambiental-del-148980
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-05"
-last_updated: "2026-06-15"
+last_updated: "2026-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2026.
 
 Ley publicada en la Novena Sección del Número 43 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 5 de abril de 2021.
 
@@ -359,21 +359,25 @@ d) La participación en emergencias y contingencias ambientales, que en la mater
 
 e) Las acciones de mitigación y adaptación al cambio climático de acuerdo con la legislación aplicable en la materia.
 
-III. Promover el establecimiento de instrumentos económicos en materia ambiental, así como el otorgamiento de estímulos fiscales, crediticios o financieros, para incentivar las actividades relacionadas con la conservación y restauración ecológica al ambiente, la prevención de la contaminación y el aprovechamiento sustentable de los recursos naturales;
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2026)</small>
 
-IV. Emitir los decretos que establezcan las declaratorias de las áreas naturales protegidas de competencia estatal;
+III. Promover el desarrollo, fortalecimiento y uso de sistemas de transporte público, y masivo, con altos estándares de eficiencia energética y ambiental, impulsando la transición progresiva hacia tecnologías limpias y la sustitución de combustibles fósiles; así como fomentar el desarrollo de esquemas de movilidad sustentable urbana y suburbana, tanto públicos como privados, privilegiando aquellos modos de transporte con menor impacto ambiental y social, la movilidad no motorizada y los vehículos de bajas o nulas emisiones contaminantes;
 
-V. Establecer y publicar el Ordenamiento Ecológico Territorial del Estado, así como los regionales;
+IV. Promover el establecimiento de instrumentos económicos en materia ambiental, así como el otorgamiento de estímulos fiscales, crediticios o financieros, para incentivar las actividades relacionadas con la conservación y restauración ecológica al ambiente, la prevención de la contaminación y el aprovechamiento sustentable de los recursos naturales;
 
-VI. Aprobar y emitir el Decreto que establezca el Sistema Estatal de Áreas para la Conservación del Patrimonio Natural y Patrimonio Ambiental;
+V. Emitir los decretos que establezcan las declaratorias de las áreas naturales protegidas de competencia estatal;
 
-VII. Celebrar convenios o acuerdos de coordinación con el Gobierno Federal, en las materias reguladas por la presente Ley;
+VI. Establecer y publicar el Ordenamiento Ecológico Territorial del Estado, así como los regionales;
 
-VIII. Suscribir con otros Estados o con los Ayuntamientos, convenios o acuerdos de coordinación con el propósito de atender y resolver asuntos ambientales comunes, y ejercer sus atribuciones a través de las instancias que al efecto determinen, atendiendo a lo dispuesto en la presente Ley y otros ordenamientos aplicables en la materia;
+VII. Aprobar y emitir el Decreto que establezca el Sistema Estatal de Áreas para la Conservación del Patrimonio Natural y Patrimonio Ambiental;
 
-IX. Suscribir convenios de concertación y colaboración con los sectores social y privado, para la realización de acciones conjuntas relativas a las materias que establece la presente Ley; y,
+VIII. Celebrar convenios o acuerdos de coordinación con el Gobierno Federal, en las materias reguladas por la presente Ley;
 
-X. Las demás que le confieran otras disposiciones normativas aplicables.
+IX. Suscribir con otros Estados o con los Ayuntamientos, convenios o acuerdos de coordinación con el propósito de atender y resolver asuntos ambientales comunes, y ejercer sus atribuciones a través de las instancias que al efecto determinen, atendiendo a lo dispuesto en la presente Ley y otros ordenamientos aplicables en la materia;
+
+X. Suscribir convenios de concertación y colaboración con los sectores social y privado, para la realización de acciones conjuntas relativas a las materias que establece la presente Ley; y,
+
+XI. Las demás que le confieran otras disposiciones normativas aplicables.
 
 ###### Artículo 8°.
 
@@ -1821,7 +1825,9 @@ V. Las medidas necesarias para hacer frente al cambio climático deben basarse e
 
 VI. La alineación de la Política Estatal en materia de cambio climático con los programas federales y políticas para revertir la deforestación y la degradación ecológica;
 
-VII. El desarrollo y uso de transporte público, masivo con altos estándares de eficiencia, privilegiando la sustitución de combustibles fósiles y el desarrollo de sistemas de transporte sustentable urbano y suburbano, público y privado; y,
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2026)</small>
+
+VII. Impulsar el desarrollo y uso de sistemas de transporte público y masivo con altos estándares de eficiencia energética y ambiental, promoviendo la transición hacia tecnologías limpias y la sustitución gradual de combustibles fósiles, así como el fortalecimiento de sistemas de movilidad sustentable urbana y suburbana, públicos y privados, privilegiando aquellos modos de transporte con menor impacto ambiental y social, la movilidad no motorizada y los vehículos de bajas o nulas emisiones contaminantes; y,
 
 VIII. Integrar y mantener actualizado el inventario de fuentes emisoras de contaminantes a la atmósfera estatal, que a su vez, integra al Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero.
 
@@ -3166,6 +3172,14 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su public
 P.O. 15 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 461 POR EL QUE "SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 17 DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Notifíquese al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 9 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 467 POR EL QUE "SE ADICIONA LA FRACCIÓN III RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 7; Y, SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 128 DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 PRIMERO. Notifíquese al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
