@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-180
 country: "mx"
 rank: "reglamento"
 publication_date: "2025-07-31"
-last_updated: "2025-12-19"
+last_updated: "2026-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180937&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2025-07-22"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JULIO DE 2026.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 31 de julio de 2025.
 
@@ -93,9 +93,11 @@ Cuando el Instituto genere Información se considerará como Unidad para efectos
 
 XIX. Vicepresidencias.- las personas titulares de las Vicepresidencias del Instituto Nacional de Estadística y Geografía.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 3.
 
-Para el desahogo de las atribuciones que la Ley y la LGDS le confieren al Instituto, la Presidencia del Instituto contará con el apoyo de las unidades, direcciones generales y coordinaciones generales, así como de las direcciones generales adjuntas que a continuación se indican:
+Para el desahogo de las atribuciones que la Ley y la LGDS le confieren al Instituto, la Presidencia del Instituto contará con el apoyo de las unidades y direcciones generales, así como de las direcciones generales adjuntas que a continuación se indican:
 
 I. Unidad de Estadísticas Sociodemográficas:
 
@@ -171,7 +173,11 @@ d) Dirección General Adjunta de Control Interno y Transparencia.
 
 IX. Dirección General de Asuntos Jurídicos;
 
-X. Dirección General de Informática;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2026)</small>
+
+X. Dirección General de Informática:
+
+a) Dirección General Adjunta de Estrategia Digital.
 
 XI. Dirección General de Operación Regional:
 
@@ -197,7 +203,7 @@ a) Diez Direcciones Regionales, las cuales operarán en la sede y con competenci
 
 10) Centro.- Con sede en la Ciudad de México, circunscripción: Ciudad de México.
 
-XII. Coordinación General de Estrategia Digital, y
+XII. (DEROGADA, D.O.F. 9 DE JULIO DE 2026)
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 19 DE DICIEMBRE DE 2025)</small>
 
@@ -245,7 +251,9 @@ VIII. Normar el funcionamiento del Sistema y regular la captación, procesamient
 
 IX. Aprobar el Reglamento Interior del Instituto y las modificaciones al mismo;
 
-X. Aprobar el Programa Anual de Trabajo del Instituto, el cual deberá elaborarse con base en el Programa Anual de Estadística y Geografía previsto en la fracción III del artículo 9 de la Ley; el Anteproyecto de Presupuesto Anual; el establecimiento y cierre de oficinas regionales y otras instalaciones u oficinas con base en su disponibilidad presupuestaria; así como el nombramiento y remoción de las personas servidoras públicas que ocupen los dos niveles jerárquicos inferiores al de las personas integrantes de la Junta de Gobierno, así como de los niveles de dirección general adjunta y coordinación general;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2026)</small>
+
+X. Aprobar el Programa Anual de Trabajo del Instituto, el cual deberá elaborarse con base en el Programa Anual de Estadística y Geografía previsto en la fracción III del artículo 9 de la Ley; el Anteproyecto de Presupuesto Anual; el establecimiento y cierre de oficinas regionales y otras instalaciones u oficinas con base en su disponibilidad presupuestaria; así como el nombramiento y remoción de las personas servidoras públicas que ocupen los dos niveles jerárquicos inferiores al de las personas integrantes de la Junta de Gobierno, así como del nivel de dirección general adjunta;
 
 XI. Aprobar al final de cada año, el calendario anual de difusión de la información estadística y geográfica y de Interés Nacional del Instituto, a los que habrá de sujetarse el Instituto, en el año inmediato siguiente;
 
@@ -447,11 +455,15 @@ XII. Guardar los principios de confidencialidad y reserva que la Ley establece r
 
 XIII. Aquéllas que le asigne expresamente la Junta de Gobierno, así como las que le delegue la Presidencia en ejercicio de la atribución que le confiere el penúltimo párrafo del artículo 80 de la Ley.
 
-### Capítulo VI. De las Atribuciones comunes de las Unidades, Direcciones Generales y Coordinaciones Generales del Instituto
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE JULIO DE 2026)</small>
+
+### Capítulo VI. De las Atribuciones comunes de las Unidades y Direcciones Generales del Instituto
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 13.
 
-Al frente de las unidades, direcciones generales y de las coordinaciones generales a que hace referencia el artículo 3 de este Reglamento, estará una persona titular, quien en adición a las atribuciones específicas que le otorgue el presente Reglamento a la unidad administrativa a su cargo, tendrá las siguientes:
+Al frente de las unidades y direcciones generales a que hace referencia el artículo 3 de este Reglamento, estará una persona titular, quien en adición a las atribuciones específicas que le otorgue el presente Reglamento a la unidad administrativa a su cargo, tendrá las siguientes:
 
 I. Planear, programar, organizar, dirigir y evaluar el desempeño de las actividades encomendadas a la unidad administrativa a su cargo, de acuerdo con los lineamientos que fije la Junta de Gobierno y la Presidencia;
 
@@ -477,6 +489,10 @@ XI. Suscribir los documentos relativos al ejercicio de las facultades que le cor
 
 XII. Coordinar la elaboración de proyectos de disposiciones normativas relacionados con el ámbito de competencia de la unidad administrativa a su cargo, y someterlos a la consideración de la Presidencia del Instituto y de la Junta de Gobierno, en términos de la normativa aplicable;
 
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2026)</small>
+
+XII Bis. Emitir lineamientos, circulares, criterios técnicos o disposiciones administrativas internas necesarias para la ejecución de las actividades encomendadas a la unidad administrativa a su cargo;
+
 XIII. Guardar los principios de confidencialidad y reserva que la Ley establece respecto de los datos que las Informantes del Sistema proporcionen para fines estadísticos al Instituto, así como, respecto de la información de carácter confidencial que provenga de registros administrativos de las Unidades del Estado;
 
 XIV. Coordinar la atención de los recursos que se interpongan en contra del ejercicio de las facultades que le correspondan, en términos de las disposiciones legales y normativas aplicables;
@@ -499,19 +515,27 @@ XXII. Administrar los recursos humanos de su adscripción de acuerdo con la norm
 
 XXIII. Proporcionar la información que, respecto del ámbito de competencia de la unidad administrativa a su cargo, el Instituto deba incluir en los distintos informes que está obligado a rendir en términos de lo dispuesto por la Ley;
 
-XXIV. Atender las obligaciones en materia de transparencia previstas por la legislación aplicable y dar respuesta a las solicitudes de acceso a la información, en el ámbito de su competencia, por lo que hace a la gestión administrativa de la unidad, dirección general o coordinación general a su cargo y sus direcciones generales adjuntas, en términos de lo previsto por el tercer párrafo del artículo 47 de la Ley;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2026)</small>
 
-XXV. Expedir copias certificadas de la documentación generada en ejercicio de las atribuciones conferidas a la unidad, dirección general o coordinación general a su cargo, que obre en el archivo de la misma, o en el que integren las áreas administrativas de su adscripción, siempre que medie solicitud de parte que acredite su interés jurídico;
+XXIV. Atender las obligaciones en materia de transparencia previstas por la legislación aplicable y dar respuesta a las solicitudes de acceso a la información, en el ámbito de su competencia, por lo que hace a la gestión administrativa de la unidad o dirección general a su cargo y sus direcciones generales adjuntas, en términos de lo previsto por el tercer párrafo del artículo 47 de la Ley;
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2026)</small>
+
+XXV. Expedir copias certificadas de la documentación generada en ejercicio de las atribuciones conferidas a la unidad o dirección general a su cargo, que obre en el archivo de la misma, o en el que integren las áreas administrativas de su adscripción, siempre que medie solicitud de parte que acredite su interés jurídico;
 
 XXVI. Informar a la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica sobre las posibles infracciones cometidas a la Ley de las que tenga conocimiento, y
 
 XXVII. Las demás que le confiera la Junta de Gobierno, la Presidencia, así como aquellas atribuciones específicas que la Ley y la LGDS otorgue al Instituto en el ámbito de su competencia, las que establezca el presente Reglamento y las demás disposiciones legales y normativas aplicables.
 
-Las funciones establecidas en este artículo serán indelegables para la persona titular de cada unidad, dirección general y coordinación general, salvo en aquellos casos en que el presente Reglamento o la legislación y normatividad administrativa aplicable así lo permita.
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2026)</small>
+
+Las funciones establecidas en este artículo serán indelegables para la persona titular de cada unidad y dirección general, salvo en aquellos casos en que el presente Reglamento o la legislación y normatividad administrativa aplicable así lo permita.
+
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 14.
 
-Las unidades, las direcciones generales, las coordinaciones generales y el Órgano Interno de Control del Instituto estarán a cargo de una persona titular, la cual contará para el ejercicio de sus atribuciones con el auxilio de las direcciones generales adjuntas, direcciones de área, subdirecciones de área, y jefaturas de departamento, que para tal efecto se precisen en los Manuales de Organización, y personal de enlace y operativo que se requiera para satisfacer las necesidades del servicio, y que figuren en el presupuesto del Instituto.
+Las unidades, las direcciones generales y el Órgano Interno de Control del Instituto estarán a cargo de una persona titular, la cual contará para el ejercicio de sus atribuciones con el auxilio de las direcciones generales adjuntas, direcciones de área, subdirecciones de área, y jefaturas de departamento, que para tal efecto se precisen en los Manuales de Organización, y personal de enlace y operativo que se requiera para satisfacer las necesidades del servicio, y que figuren en el presupuesto del Instituto.
 
 ### Capítulo VII. De las Atribuciones de las Direcciones Generales Adjuntas del Instituto
 
@@ -2167,17 +2191,25 @@ Son atribuciones específicas de la Dirección General de Informática, las sigu
 
 I. Coordinar y determinar la organización de las áreas informáticas del Instituto, en coordinación con la Dirección General Adjunta de Recursos Humanos, para que se proporcionen a las unidades administrativas los servicios informáticos y las soluciones tecnológicas que son requeridas para el apoyo de los procesos y proyectos institucionales;
 
-II. Proponer las políticas en materia de tecnologías de la información y comunicaciones, en acuerdo con la Coordinación General de Estrategias Digital, para su aprobación por la Junta de Gobierno y conducir su aplicación, con el propósito de armonizar su desarrollo en el Instituto y su comunicación con el Sistema;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2026)</small>
 
-III. Proponer, instrumentar y dar seguimiento al cumplimiento de disposiciones normativas internas y criterios técnicos en materia de tecnologías de la información y comunicaciones, que propicien la administración racional y eficiente de los recursos informáticos del Instituto, así como realizar las acciones que en materia de tecnologías de la información y comunicaciones corresponden al Instituto como coordinador del Sistema;
+II. Proponer las políticas en materia de tecnologías de la información, comunicaciones y estrategia digital, para su aprobación por la Junta de Gobierno y conducir su aplicación, con el propósito de armonizar su desarrollo en el Instituto y su comunicación con el Sistema;
 
-IV. Integrar el anteproyecto de presupuesto de tecnologías de la información y comunicaciones del Instituto, en conjunto con la Coordinación General de Estrategia Digital, considerando para ello las necesidades de las áreas y unidades administrativas;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2026)</small>
+
+III. Proponer, instrumentar y dar seguimiento al cumplimiento de disposiciones normativas internas y criterios técnicos en materia de tecnologías de la información, comunicaciones y estrategia digital, que propicien la administración racional y eficiente de los recursos informáticos del Instituto, así como realizar las acciones que en materia de tecnologías de la información y comunicaciones corresponden al Instituto como coordinador del Sistema;
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2026)</small>
+
+IV. Integrar el anteproyecto de presupuesto de tecnologías de la información, comunicaciones y estrategia digital del Instituto, considerando para ello las necesidades de las áreas y unidades administrativas;
 
 V. Dictaminar técnicamente la adquisición, contratación de servicios, instalación, operación y mantenimiento de las tecnologías de información y comunicaciones, incluyendo sus componentes físicos y lógicos, que sean necesarios para soportar las atribuciones del Instituto;
 
 VI. Establecer mecanismos de coordinación y cooperación en materia informática para servicios o proyectos interinstitucionales, que se acuerden con las Unidades del Estado o con otras instituciones u organismos nacionales e internacionales;
 
-VII. Coordinar diseñar, implementar y prestar a las unidades administrativas del Instituto los servicios de gestión de las tecnologías de la información y comunicaciones, de software, de cómputo y comunicaciones, de seguridad informática, de desarrollo de sistemas informáticos, de bases de datos y repositorios de información electrónica, de soporte técnico, y de provisión de bienes y servicios informáticos, así como llevar un control y evaluación de los mismos, con la colaboración de las personas titulares de las áreas informáticas del Instituto;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2026)</small>
+
+VII. Coordinar, diseñar, implementar y prestar a las unidades administrativas del Instituto los servicios de gestión de las tecnologías de la información y comunicaciones, de software, de cómputo y comunicaciones, de seguridad informática, de desarrollo de sistemas informáticos, de bases de datos y repositorios de información electrónica, de soporte técnico, y de provisión de bienes y servicios informáticos o de estrategia digital, así como llevar un control y evaluación de los mismos, con la colaboración de las personas titulares de las áreas informáticas del Instituto; ... (sic)
 
 VIII. Diseñar, establecer, coordinar y supervisar de manera continua el sistema integral de seguridad informática y de comunicaciones del Instituto;
 
@@ -2196,6 +2228,26 @@ XIV. Aplicar las penas convencionales a cargo de los proveedores, contratistas y
 XV. Promover, en coordinación con la Dirección General Adjunta de Recursos Humanos, la capacitación de las personas servidoras públicas del Instituto en materia de informática, así como, la distribución del personal que realice actividades informáticas, y
 
 XVI. Las facultades que expresamente le otorga el artículo 13 de este Reglamento a su titular.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2026)</small>
+
+ARTÍCULO 53 BIS.- Son atribuciones específicas de la Dirección General Adjunta de Estrategia Digital, las siguientes:
+
+I. Diseñar las estrategias digitales en materia de gobierno, arquitectura e interoperabilidad de datos, así como de la seguridad y la gestión de la calidad de la información estadística y geográfica, entre otras;
+
+II. Coordinar la implementación de estrategias digitales en materia de gobierno, arquitectura e interoperabilidad de datos, así como de la seguridad y la gestión de la calidad de la información estadística y geográfica, en conjunto con la Dirección General Adjunta de Integración de Información;
+
+III. Proponer mecanismos de coordinación, cooperación y seguimiento en materia de estrategias digitales, para servicios o proyectos interinstitucionales, con otras oficinas, organismos nacionales e internacionales de estadística y geografía;
+
+IV. Realizar el análisis de las alternativas tecnológicas para el desarrollo e implementación de las estrategias digitales, para su posible adopción en el Instituto;
+
+V. Asesorar a las áreas y unidades administrativas para la formulación de estrategias digitales relacionadas con la producción de información estadística y geográfica;
+
+VI. Diseñar las propuestas de inversión tecnológica en materia de estrategia digital y presentarlas a la persona titular de la dirección general de su adscripción, para su integración al programa de inversión anual del Instituto;
+
+VII. Acordar con la persona titular de la dirección general de su adscripción la priorización de las solicitudes de iniciativas y proyectos de tecnologías de la información y comunicaciones de las áreas y unidades administrativas, en consistencia con las estrategias digitales en materia de gobierno, arquitectura e interoperabilidad de datos, así como de la seguridad y la gestión de la calidad de la información estadística y geográfica, entre otras, y
+
+VIII. Las facultades que expresamente le otorga el artículo 15 de este Reglamento a su titular.
 
 ### Capítulo XVIII. De la Dirección General de Operación Regional
 
@@ -2305,27 +2357,13 @@ XXIII. Expedir copias certificadas de la documentación generada en ejercicio de
 
 XXIV. Las facultades que expresamente le otorga a su titular el artículo 15 de este Reglamento.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE JULIO DE 2026)</small>
+
 ### Capítulo XIX. De la Coordinación General de Estrategia Digital
 
 ###### ARTÍCULO 56.
 
-Son atribuciones específicas de la Coordinación General de Estrategia Digital, las siguientes:
-
-I. Diseñar las estrategias digitales en materia de gobierno, arquitectura e interoperabilidad de datos, así como de la seguridad y la gestión de la calidad de la información estadística y geográfica, entre otras;
-
-II. Coordinar la implementación de estrategias digitales en materia de gobierno, arquitectura e interoperabilidad de datos, así como de la seguridad y la gestión de la calidad de la información estadística y geográfica, en conjunto con la Dirección General Adjunta de Integración de Información;
-
-III. Proponer mecanismos de coordinación, cooperación y seguimiento en materia de estrategias digitales, para servicios o proyectos interinstitucionales, con otras oficinas, organismos nacionales e internacionales de estadística y geografía;
-
-IV. Realizar el análisis de las alternativas tecnológicas para el desarrollo e implementación de las estrategias digitales, para su posible adopción en el Instituto;
-
-V. Asesorar a las áreas y unidades administrativas para la formulación de estrategias digitales relacionadas con la producción de información estadística y geográfica, en conjunto con la Dirección General de Informática;
-
-VI. Diseñar las propuestas de inversión tecnológica, para su integración al programa de inversión anual del Instituto, en colaboración con la Dirección General Adjunta de Presupuesto y Recursos Financieros y la Dirección General de Informática;
-
-VII. Acordar con la Dirección General de Informática la priorización de las solicitudes de iniciativas y proyectos de tecnologías de la información y comunicaciones de las áreas y unidades administrativas, en consistencia con las estrategias digitales en materia de gobierno, arquitectura e interoperabilidad de datos, así como de la seguridad y la gestión de la calidad de la información estadística y geográfica, entre otras, y
-
-VIII. Las facultades que expresamente le otorga el artículo 13 de este Reglamento a su titular.
+(DEROGADO, P.O. 9 DE JULIO DE 2026)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE DICIEMBRE DE 2025)</small>
 
@@ -2677,11 +2715,15 @@ Las personas titulares de las Áreas de Denuncias, Investigaciones y Evolución 
 
 La representación del Instituto en ausencia de la Presidencia será ejercida por la Vicepresidencia que ésta designe en función del asunto que se trate; las ausencias de las Vicepresidencias de la Junta de Gobierno, serán suplidas por cualquiera de las Vicepresidencias restantes del referido Órgano Colegiado, conforme lo determine la Presidencia. Lo anterior no resulta aplicable para el caso de vacancias y ausencias temporales, en cuyo caso deberá considerarse lo dispuesto por los artículos 71 y 80 último párrafo de la Ley.
 
-Las ausencias de las personas titulares de las unidades y direcciones generales serán suplidas por las personas titulares de las direcciones generales adjuntas a su cargo, o por las personas titulares de las direcciones de área para el caso de las Direcciones Generales de Asuntos Jurídicos, Informática y Operación Regional, así como de las coordinaciones generales dentro de su respectivo ámbito de competencia. Las ausencias de las personas titulares de las direcciones generales adjuntas, serán suplidas por las personas titulares de las direcciones de área en los asuntos de sus respectivas competencias.
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2026)</small>
+
+Las ausencias de las personas titulares de las unidades y direcciones generales serán suplidas por las personas titulares de las direcciones generales adjuntas a su cargo, o por las personas titulares de las direcciones de área para el caso de las Direcciones Generales de Asuntos Jurídicos, Informática y Operación Regional dentro de su respectivo ámbito de competencia. Las ausencias de las personas titulares de las direcciones generales adjuntas serán suplidas por las personas titulares de las direcciones de área en los asuntos de sus respectivas competencias.
 
 Asimismo, las ausencias de las personas titulares de las direcciones de área serán suplidas por las personas titulares de las subdirecciones de área al cual corresponda el asunto de que se trate, salvo que sea único en el área administrativa respectiva, en cuyo caso será suplido por la persona servidora pública de jerarquía inmediata inferior. Las ausencias de las personas titulares de las subdirecciones de área serán suplidas por las personas titulares de la jefatura de departamento al que corresponda el despacho del asunto de que se trate, y de no existir, por la persona servidora pública que designen las personas titulares de las direcciones de área, direcciones generales adjuntas, direcciones generales o de unidad al que se encuentren adscritos.
 
-Las ausencias de las personas titulares de las jefaturas de departamento y enlaces serán suplidas por la persona servidora pública que designen las personas titulares de las direcciones de área, direcciones generales adjuntas, direcciones y coordinaciones generales o de unidad a la que se encuentren adscritas.
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2026)</small>
+
+Las ausencias de las personas titulares de las jefaturas de departamento y enlaces serán suplidas por la persona servidora pública que designen las personas titulares de las direcciones de área, direcciones generales adjuntas, direcciones generales o de unidad a la que se encuentren adscritas.
 
 ### Capítulo XXIII. De la Suplencia de las personas Servidoras Públicas del Órgano Interno de Control
 
@@ -2690,6 +2732,10 @@ Las ausencias de las personas titulares de las jefaturas de departamento y enlac
 Las ausencias de la persona titular del Órgano Interno de Control serán suplidas por la persona titular del Área de Denuncias, Investigaciones y Evolución Patrimonial, por la persona titular del Área de Auditoría Interna y por la persona titular del Área de Responsabilidades, todas ellas del Órgano Interno de Control en el Instituto, en ese orden.
 
 Las ausencias de las personas titulares de las Áreas de Denuncias, Investigaciones y Evolución Patrimonial; de Auditoría Interna, y de Responsabilidades del Órgano Interno de Control en el Instituto, serán suplidas por la persona servidora pública adscrita a su área que éstas designen, las cuales no podrán ostentar un nivel jerárquico inferior al de dirección de área.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2026)</small>
+
+Para el caso de las ausencias de personas servidoras públicas con cargos y niveles no previstos en los párrafos primero y segundo de este artículo, se estará a lo dispuesto en las suplencias generales que rigen a las personas servidoras públicas del Instituto, establecidas en el artículo 63 del presente Reglamento.
 
 ## TRANSITORIOS
 
@@ -2716,5 +2762,15 @@ D.O.F. 19 DE DICIEMBRE DE 2025.
 PRIMERO.- El presente Acuerdo entrará en vigor el 1.° de enero de 2026. Se ordena su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Atendiendo a las modificaciones realizadas, a partir de la entrada en vigor de la presente reforma, toda disposición normativa, acuerdo u ordenamiento que haga referencia a la Coordinación General de Medición de Pobreza y Evaluación Integral de la Política de Desarrollo Social se entenderán hechas a la Dirección General de Evaluación y Medición de Pobreza.
+
+TERCERO.- La Dirección General de Administración del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a la Unidad Administrativa que por virtud de las presentes reformas al Reglamento se crea, se encuentren disponibles para el cumplimiento de sus atribuciones, de conformidad con la normatividad administrativa aplicable, atendiendo a la disponibilidad presupuestaria del Instituto.
+
+D.O.F. 9 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el 16 de julio de 2026. Se ordena su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Atendiendo a las modificaciones realizadas, a partir de la entrada en vigor de la presente reforma, toda disposición normativa, acuerdo u ordenamiento que haga referencia a la Coordinación General de Estrategia Digital se entenderá hecha a la Dirección General Adjunta de Estrategia Digital.
 
 TERCERO.- La Dirección General de Administración del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a la Unidad Administrativa que por virtud de las presentes reformas al Reglamento se crea, se encuentren disponibles para el cumplimiento de sus atribuciones, de conformidad con la normatividad administrativa aplicable, atendiendo a la disponibilidad presupuestaria del Instituto.
