@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2025-11-20"
+last_updated: "2026-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -1867,11 +1867,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito doloso con 
 
 V.- Haber residido en el país durante el año anterior al día de la publicación de la convocatoria señalada en la fracción I del artículo 84 de esta Constitución, y
 
-(NOTA: EL 26 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 157/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
-
-VI.- No haber ocupado cargo de elección popular, de dirigencia de algún partido político, de Fiscal General o Secretario de alguna dependencia del Poder Ejecutivo, DURANTE 90 DÍAS ANTERIORES A LA DESIGNACIÓN.
+VI.- No haber ocupado cargo de elección popular, de dirigencia de algún partido político, de Fiscal General o Secretario de alguna dependencia del Poder Ejecutivo, durante el año previo al día de la publicación de la convocatoria señalada en la fracción I del artículo 84 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
@@ -5134,3 +5132,11 @@ En consecuencia, las personas que en dicho proceso electoral se encuentren ejerc
 CUARTO. El Congreso del Estado contará con un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a las leyes locales que resulten necesarias a fin de dar cumplimiento al mismo.
 
 QUINTO. Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
+
+P.O. 9 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 83 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a partir de su aprobación, debiéndose publicar en la Gaceta Parlamentaria del Honorable Congreso del Estado de Nayarit.
+
+SEGUNDO. Para los efectos de su promulgación y publicación en el Periódico Oficial, Órgano del Gobierno del Estado, remítase al Titular del Poder Ejecutivo del Estado el Decreto respectivo, incluyendo el presente cómputo para los efectos correspondientes.
