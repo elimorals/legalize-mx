@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-proteccion-de-los-migrantes-y-sus-123004
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-18"
-last_updated: "2025-11-27"
+last_updated: "2026-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2026.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 18 de agosto de 2017.
 
@@ -119,9 +119,13 @@ Los órganos del Estado garantizarán y promoverán el ejercicio pleno de los de
 
 Los presentes derechos se harán extensivos a las familias de los migrantes. Para tal efecto, el parentesco se acreditará de conformidad con lo que estipula el Código Familiar para el Estado de Michoacán de Ocampo; y para aquellas personas que no tenga (sic) un parentesco consanguíneo, adopción o de afinidad, la Secretaría acreditará su vínculo, atendiendo a los lineamientos que para tal efecto emita, sin que éstos sean materialmente imposibles de acreditar:
 
-Además de los derechos ya referidos, se otorgarán los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JULIO DE 2026)</small>
 
-I. Acceder a los programas de desarrollo humano, social y económico;
+Además de los derechos ya referidos, las personas migrantes tendrán los siguientes:
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2026)</small>
+
+I. Acceder, en condiciones de igualdad y sin discriminación, a los programas públicos de desarrollo humano, social y económico, así como ser incorporadas al registro de migrantes en retorno en términos de las disposiciones aplicables;
 
 II. A los servicios que presta la Administración Pública Estatal y Municipal;
 
@@ -179,11 +183,11 @@ La matrícula consular es un documento que reconocerán y aceptarán los órgano
 
 ### CAPÍTULO TERCERO. DE LAS POLÍTICAS PÚBLICAS PARA LOS MIGRANTES
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2026)</small>
 
 ###### Artículo 6.
 
-Las políticas públicas deberán atender las materias de cultura, educación, juventud, equidad de género, salud, justicia, turismo, desarrollo económico, medio ambiente, rural y social, entre otras que los beneficien.
+Las políticas públicas deberán atender las materias de cultura, educación, juventud, equidad de género, salud, justicia, turismo, desarrollo económico, medio ambiente, rural y social; así como la de trabajo, en las que se reconozca y promueva el talento, habilidades, experiencia laboral, capacitación y conocimientos adquiridos en el extranjero, entre otras que los beneficien.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2025)</small>
 
@@ -307,7 +311,9 @@ X. Las demás que le confieren las normas jurídicas aplicables.
 
 A la Secretaría, le corresponde el ejercicio de las atribuciones siguientes:
 
-I. Promover y garantizar el cumplimiento de esta Ley;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2026)</small>
+
+I. Promover y garantizar el cumplimiento de esta Ley, asegurando un trato igualitario y libre de discriminación a las personas migrantes michoacanas, incluyendo aquellas en retorno, ya sea voluntaria o forzada;
 
 II. Brindar acompañamiento a los migrantes michoacanos y sus familias para que puedan acceder a sus derechos de seguridad social en el extranjero, así como, a los beneficios en su calidad de ex trabajadores migratorios mexicanos, ante las dependencias correspondientes;
 
@@ -835,7 +841,9 @@ II. Garantizar que el trámite de registro sea gratuito, personal e incondiciona
 
 III. Medir la migración e inmigración en el Estado;
 
-IV. Incluir el registro de migrantes michoacanos, migrantes en retorno, michoacanos que habiendo tenido la calidad de migrantes se encuentran en el Estado, indicando la fecha de su regreso, así como jornaleros agrícolas y organizaciones de migrantes michoacanos, para lo cual, se auxiliará de la información que le proporcione el Centro Municipal que corresponda;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2026)</small>
+
+IV. Incluir el registro de migrantes michoacanos, migrantes en retorno, especificando si este es voluntario o forzado, michoaeanos (sic) que habiendo tenido la calidad de migrantes se encuentren en el Estado, indicando la fecha de su regreso; así mismo incorporar información relativa a sus habilidades, competencias, experiencia laboral y conocimientos adquiridos en el extranjero, con el objeto de facilitar su integración productiva y laboral; como de jornaleros agrícolas y organizaciones de migrantes michoacanos, para lo cual, se auxiliará de la información que le proporcione el Centro Municipal que corresponda;
 
 V. Intercambiar información con las dependencias federales, estatales y municipales; y,
 
@@ -1197,11 +1205,11 @@ La Secretaría podrá celebrar acuerdos y convenios con el Instituto Nacional de
 
 La Secretaría podrá coadyuvar con el Instituto Nacional de Migración para atender los casos de retorno y/ o en situación de repatriación, a fin de disminuir el riesgo de vulnerabilidad de las personas migrantes durante el traslado a su destino dentro del Estado.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2026)</small>
 
 ###### Artículo 56.
 
-Las acciones que implemente la Secretaría deberán estar enfocadas a lograr la reintegración social, laboral, educativa y cultural de los migrantes michoacanos que retornen o hayan sido repatriados al Estado.
+Las acciones que implemente la Secretaría deberán estar enfocadas a lograr la reintegración social, laboral, educativa, cultural y la atención psicológica de las personas migrantes michoacanas que retornen, priorizando a quienes hayan sido repatriados al Estado de manera forzosa. Para tales efectos se deberán considerar entre otras acciones la coordinación interinstitucional y la vinculación con la iniciativa privada para la promoción, reconocimiento y aprovechamiento de las habilidades, competencias, experiencia laboral y conocimientos adquiridos por las personas migrantes en el extranjero, a fin de favorecer su integración productiva y laboral.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2023)</small>
 
@@ -1366,3 +1374,9 @@ P.O. 27 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 248 POR EL QUE "SE ADICIONA LA FRACCIÓN XIX BIS AL ARTÍCULO 7 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 9 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 474 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 4 FRACCIÓN I, 6, 12 FRACCIÓN I, 26 FRACCIÓN IV; Y, 56 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
