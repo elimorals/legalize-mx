@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2026-02-19"
+last_updated: "2026-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2026.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -93,7 +93,9 @@ VII. Garantizar en sus proyectos de egresos correspondientes, que los recursos a
 
 El Estado de Michoacán y sus municipios, en el diseño y ejecución de políticas públicas deberán garantizar el máximo bienestar posible de niñas, niños y adolescentes, privilegiando su interés superior, tomando en cuenta su situación familiar y social.
 
-Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental, ética y cívica de niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2026)</small>
+
+Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental, ética y cívica de niñas, niños y adolescentes, así como a la prevención de adicciones, garantizando su desarrollo integral.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -134,6 +136,10 @@ VIII. Constitución Federal: Constitución Política de los Estados Unidos Mexic
 IX. Constitución Estatal: Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
 
 X. Convención: Convención Sobre los Derechos del Niño;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2026)</small>
+
+X Bis. Cultura de la Paz: Conjunto de valores, actitudes, tradiciones, comportamientos y estilos de vida que rechazan la violencia y previenen los conflictos a través del diálogo y la negociación entre las personas y las naciones;
 
 XI. Familia de Origen: Aquélla compuesta por los titulares de la patria potestad, tutela o custodia, respecto de quienes tienen parentesco ascendente hasta segundo grado con niñas, niños y adolescentes;
 
@@ -273,9 +279,9 @@ VI. Derecho a no ser discriminado;
 
 VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2026)</small>
 
-VIII. Derecho a una vida libre de maltrato o violencia, a la integridad personal y psicoemocional;
+VIII. Derecho a una vida libre de maltrato o violencia, de adicciones, así como a la protección de su integridad personal y psicoemocional;
 
 IX. Derecho a la protección de la salud y a la seguridad social;
 
@@ -673,11 +679,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 ### CAPÍTULO IX. DERECHO DE ACCESO A UNA VIDA LIBRE DE MALTRATO O VIOLENCIA, A LA INTEGRIDAD PERSONAL Y PSICOEMOCIONAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2026)</small>
 
 ###### Artículo 32.
 
-Niñas, niños y adolescentes tienen derecho a vivir en un contexto libre de maltrato o violencia y a que se resguarde su integridad personal, física, emocional y psicoemocional, a fin de lograr las mejores condiciones para favorecer su bienestar y desarrollo integral.
+Niñas, niños y adolescentes tienen derecho a vivir en un contexto libre de maltrato o violencia, libre de adicciones, y a que se resguarde su integridad personal, física, emocional y psicoemocional, a fin de lograr las mejores condiciones para favorecer su bienestar y desarrollo integral.
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
@@ -697,9 +703,9 @@ I. Prevenir, sancionar y erradicar los casos en que niñas, niños o adolescente
 
 II. Implementar las medidas apropiadas para prevenir, sancionar y erradicar cualquier tipo de violencia en contra de niñas, niños y adolescentes con discapacidad;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2026)</small>
 
-III. Adoptar las medidas apropiadas de conformidad con la legislación correspondiente para promover la recuperación física, psicológica, emocional y la integración social de niñas, niños y adolescentes víctimas de violencia para lograr el goce y restitución de sus derechos, en especial cuando se trate de delitos contra el libre desarrollo de la personalidad y el normal desarrollo psicosexual, en términos del Código Penal para el Estado de Michoacán;
+III. Adoptar las medidas apropiadas, de conformidad con la legislación aplicable, para promover la recuperación física, psicológica, emocional y la integración social de niñas, niños y adolescentes víctimas de violencia, así como de aquellos afectados por problemas de adicciones dentro del núcleo familiar que incidan en su desarrollo y bienestar, a efecto de garantizar el goce y la restitución de sus derechos, en especial cuando se trate de delitos contra el libre desarrollo de la personalidad y el normal desarrollo psicosexual, en términos del Código Penal para el Estado de Michoacán;
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
@@ -755,7 +761,9 @@ I. Reducir la morbilidad y mortalidad;
 
 II. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias a niñas, niños y adolescentes, haciendo hincapié en la atención primaria;
 
-III. Promover en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, de niños, niñas y adolescentes, los principios básicos de la salud, la nutrición, la higiene y el saneamiento ambiental, las medidas de prevención de accidentes, las ventajas de la lactancia materna;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2026)</small>
+
+III. Promover en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, los principios básicos de la salud, la nutrición, la higiene y el saneamiento ambiental, las medidas de prevención de accidentes, así como acciones y estrategias orientadas a la prevención de adicciones y las ventajas de la lactancia materna;
 
 IV. Adoptar medidas tendientes a la eliminación de prácticas culturales, usos y costumbres que sean perjudiciales para la salud de niñas, niños y adolescentes;
 
@@ -876,6 +884,10 @@ VI. Adaptar el sistema educativo a las condiciones, intereses y contextos espec�
 VII. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con su sexo, creencias religiosas o prácticas culturales;
 
 VIII. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2026)</small>
+
+VIII Bis. Inculcar en niñas, niños y adolescentes la cultura de la paz y la educación cívica;
 
 IX. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
@@ -1561,7 +1573,9 @@ II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, a
 
 III. Garantizar el cabal cumplimiento de la presente Ley y de los instrumentos internacionales aplicables; en la medida que favorezcan la protección del interés superior de la niñez y adolescencia;
 
-IV. Adoptar medidas de protección especial de los derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con su sexo, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2026)</small>
+
+IV. Adoptar medidas de protección especial de los derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, problemas de adicciones, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con su sexo, creencias religiosas o prácticas culturales, u otras que restrinjan o limiten sus derechos;
 
 > <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -1628,6 +1642,10 @@ XXVII. Atender oportunamente y canalizar a las instancias correspondientes los p
 (REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2023) (REPUBLICADA, P.O. 24 DE NOVIEMBRE DE 2023)
 
 XXVIII. Coordinarse para establecer los Centros de Atención y Justicia para Niñas, Niños y Adolescentes.
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2026)</small>
+
+XXIX. Implementar medidas tendientes a la prevención, atención, erradicación y rehabilitación de los problemas de salud derivados de las adicciones, mediante programas y/o campañas de carácter permanente dirigidas a niñas, niños y adolescentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -2654,3 +2672,21 @@ P.O. 19 DE FEBRERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 334 POR EL QUE “SE REFORMA EL ARTÍCULO 75 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 9 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 472.- ÚNICO.- SE ADICIONA LA FRACCIÓN X BIS AL ARTÍCULO 5 Y LA FRACCIÓN VIII BIS AL ARTÍCULO 38 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y efectos legales procedentes.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 9 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 473.- ÚNICO.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 4, LA FRACCIÓN VIII DEL ARTÍCULO 10, EL PRIMER PÁRRAFO ASÍ COMO LA FRACCIÓN III DEL ARTÍCULO 32, LA FRACCIÓN III DEL ARTÍCULO 33; Y, SE REFORMA LA FRACCIÓN IV Y SE ADICIONA LA FRACCIÓN XXIX AL ARTÍCULO 71 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La implementación del presente Decreto se realizará con cargo a los recursos disponibles de las instancias competentes, por lo que no se autorizarán ampliaciones presupuestales adicionales.
+
+TERCERO. Las autoridades competentes deberán armonizar sus programas y acciones conforme al presente Decreto, con cargo a su presupuesto autorizado.
