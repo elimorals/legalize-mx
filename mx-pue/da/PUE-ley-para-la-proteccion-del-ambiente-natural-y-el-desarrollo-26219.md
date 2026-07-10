@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2026-05-14"
+last_updated: "2026-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2026.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -258,6 +258,14 @@ XXV.- EVALUACIÓN DEL ESTUDIO DEL IMPACTO.- Es el procedimiento a través del cu
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
 XXVI.- EQUILIBRIO ECOLÓGICO.- La relación de interdependencias entre los elementos naturales que conforman el ambiente y hacen posible la existencia, transformación y desarrollo del ser humano y demás seres vivos;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2026)</small>
+
+XXVI Bis. FAUNA SILVESTRE: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2026)</small>
+
+XXVI Ter. FLORA SILVESTRE: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
@@ -1534,6 +1542,10 @@ La Secretaría, en coordinación con las Autoridades en la materia, promoverá e
 ###### ARTÍCULO 94.
 
 La Secretaría, por conducto de las Autoridades en la materia, coordinará con la Federación las acciones sobre vedas, aprovechamiento, posesión, comercialización, colecta, importación, repoblamiento y propagación de flora y fauna silvestres, efectuadas por personas físicas o jurídicas en el territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2026)</small>
+
+Para efecto de lo anterior, se deberán tomar en consideración los criterios para la preservación y aprovechamiento sustentable de la flora y fauna silvestres previstos por la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 ###### ARTÍCULO 95.
 
@@ -2908,6 +2920,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 14 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN XXXIV BIS AL ARTÍCULO 4, LA FRACCIÓN XXVI BIS AL 5, LA FRACCIÓN VIII BIS AL 6, TODAS DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LAS FRACCIONES XXVI BIS Y XXVI TER AL ARTÍCULO 4 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 94 DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
