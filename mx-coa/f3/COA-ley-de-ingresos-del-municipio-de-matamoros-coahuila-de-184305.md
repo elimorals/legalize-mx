@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-del-municipio-de-matamoros-coahuila-de-184305"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-23"
-last_updated: "2025-12-23"
+last_updated: "2026-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE INGRESOS DEL MUNICIPIO DE MATAMOROS, COAHUILA DE ZARAGOZA, PARA EL EJERCICIO FISCAL 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:10 DE JULIO DE 2026.
 
 Ley publicada en el Número 102 Sexta Sección del Periódico Oficial del Estado de Coahuila, el martes 23 de diciembre de 2025.
 
