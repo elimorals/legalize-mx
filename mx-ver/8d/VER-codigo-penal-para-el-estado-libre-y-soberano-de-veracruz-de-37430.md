@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2026-07-02"
+last_updated: "2026-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JULIO DE 2026.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2473,17 +2473,17 @@ c) El objeto del robo sean vales de papel o cualquier dispositivo en forma de ta
 
 d) Cuando se cometa por elementos de los cuerpos policiacos o de procuración de justicia durante un incendio, naufragio, inundación, cualquier fenómeno climatológico u otra calamidad pública, aprovechándose del desorden y confusión que producen o de la consternación que una desgracia privada causa al ofendido y a su familia.
 
-> <small>(REFORMADO, G.O. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 2026)</small>
 
 ###### Artículo 206.
 
-A quien con ánimo de dominio, lucro o uso, se apodere de algún instrumento o máquina de labranza, alambre utilizado para cercar, frutos cosechados o por cosechar, colmenas, abejas o sus productos, total o parcialmente ajenos, sin el consentimiento de quien legalmente pueda disponer de los mismos con arreglo a la ley, se le sancionará de la manera siguiente:
+A quien, con ánimo de dominio, lucro o uso, se apodere de instrumentos o maquinaria de labranza, equipo e insumos apícolas, colmenas pobladas o vacías, frutos cosechados o por cosechar, alambre para cercar, abejas y demás bienes indispensables para la producción apícola, total o parcialmente ajenos, sin consentimiento de quien legalmente pueda disponer de ellos, se le sancionará de la manera siguiente:
 
-I. Si el valor de lo robado no excediere de cien días de salario, con prisión de tres meses a seis años y multa hasta de setenta y cinco días de salario;
+I. Si el valor de lo robado no excediere de doscientas setenta veces el valor diario de la Unidad de Medida y Actualización, con prisión de cuatro meses a seis años y multa de hasta doscientas veces el valor diario de la Unidad de Medida y Actualización;
 
-II. Si el valor de lo robado excediere de cien días de salario, con prisión de tres a diez años y multa de hasta cuatrocientos días de salario; o
+II. Si el valor de lo robado excediere de doscientas setenta veces el valor diario de la Unidad de Medida y Actualización, con prisión de tres a diez años y multa de hasta mil cien veces el valor diario de la Unidad de Medida y Actualización; o
 
-III. Si el valor de lo robado excediere de doscientos días de salario y fuere cometido en el medio rural, con prisión de cuatro a doce años y multa de hasta seiscientos días de salario.
+III. Si el valor de lo robado excediere de quinientas treinta veces el valor diario de la Unidad de Medida y Actualización y además fuere cometido en el medio rural, con prisión de cuatro a doce años y multa de hasta mil setecientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
@@ -2767,7 +2767,13 @@ A quien, en perjuicio de tercero, por cualquier medio destruya o deteriore una c
 
 Si el daño cometido en los términos del párrafo anterior se ocasiona, durante emergencias sanitarias o catástrofes, sobre bienes de instituciones públicas o establecimientos privados de salud, laboratorios, consultorios médicos o inmuebles habilitados para operar como hospitales, se impondrán de uno a nueve años de prisión y multa de treinta a doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
-Este delito se perseguirá por querella.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JULIO DE 2026)</small>
+
+Se equiparará al delito de daños y se sancionará con la misma pena establecida en el primer párrafo de este artículo, a quien, mediante la aplicación o contraviniendo las disposiciones fitosanitarias use plaguicidas, agroquímicos u otras sustancias tóxicas, causando, en perjuicio de tercero, la muerte de colonias de abejas o la destrucción total o parcial de apiarios, sin perjuicio de las sanciones administrativas que correspondan.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 10 DE JULIO DE 2026)</small>
+
+Los delitos previstos en este artículo se perseguirán por querella.
 
 > <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
 
@@ -3262,6 +3268,32 @@ X. HABIÉNDOLE SIDO APLICADA UNA SANCIÓN ADMINISTRATIVA POR HECHO SIMILAR, REIN
 > <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2016)</small>
 
 XI. Autorice, ordene o consienta la comisión de cualquiera de las conductas descritas en las fracciones anteriores.
+
+> <small>(ADICIONADO, G.O. 10 DE JULIO DE 2026)</small>
+
+Las penas de prisión y las multas establecidas en el presente artículo se aumentarán hasta en una mitad cuando las conductas previstas en las fracciones I, II, III y VIII se relacionen directamente con el uso, aplicación, almacenamiento, transporte o disposición de agroquímicos que se encuentren expresamente identificados como prohibidos o restringidos conforme a los listados, catálogos, normas oficiales mexicanas, acuerdos o disposiciones de carácter general publicados por las autoridades federales competentes y los tratados internacionales de los que el Estado Mexicano sea parte, tales como plaguicidas, fungicidas, herbicidas, nematicidas, fertilizantes y demás sustancias fitosanitarias comprendidas en dichas disposiciones.
+
+> <small>(ADICIONADO, G.O. 10 DE JULIO DE 2026)</small>
+
+###### Artículo 259 Bis.
+
+Se impondrá de dos a seis años de prisión y multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización, a quien, dentro de una zona declarada de preservación ecológica, área natural protegida o ecosistemas cuya conservación o preservación sea competencia de las autoridades estatales o municipales conforme a las leyes de la materia:
+
+I. Realice actividades agrícolas, pecuarias o forestales sin la autorización ambiental, forestal o de impacto ambiental exigida por las disposiciones jurídicas aplicables, cuando con ello cause daño grave al ecosistema;
+
+II. Aplique o almacene agroquímicos expresamente prohibidos por disposiciones federales de carácter general publicadas por autoridad competente, o agroquímicos de uso restringido en contravención a las condiciones previstas en dichas disposiciones, dentro de áreas perimetrales de protección determinadas conforme a las disposiciones jurídicas aplicables, o dentro de las zonas de protección previstas en las disposiciones normativas aplicables respecto de fuentes de abastecimiento de agua para uso humano asignadas, concesionadas o administradas por autoridades estatales o municipales; o
+
+III. Vierta o permita el vertimiento de residuos de agroquímicos en suelos o subsuelos de competencia estatal o municipal, o en sistemas de drenaje, alcantarillado, tratamiento o infraestructura hídrica administrados por autoridades estatales o municipales, cuando dicha conducta altere gravemente las condiciones fisicoquímicas o biológicas del ecosistema cuya conservación o preservación corresponda a dichas autoridades.
+
+Las penas privativas de libertad y las multas previstas en el presente artículo se aumentarán hasta en una mitad cuando la conducta sea cometida por una persona física en nombre, por cuenta, en beneficio o mediante los medios proporcionados por una persona jurídica, o cuando el daño grave incida en zonas de recarga hídrica o fuentes de abasto humano determinadas por instrumento oficial o dictamen técnico de autoridad competente.
+
+> <small>(ADICIONADO, G.O. 10 DE JULIO DE 2026)</small>
+
+###### Artículo 259 Ter.
+
+Al propietario, poseedor, arrendador, administrador o titular de un derecho de uso o disposición sobre un predio que, teniendo conocimiento de que este es o será utilizado para realizar las conductas previstas en los artículos 259 o 259 Bis de este Código, ya sea por requerimiento o notificación de autoridad competente o por cualquier otro medio que lo acredite de manera fehaciente, facilite su uso, goce o posesión para tal fin, o permita la continuidad de dicho uso sin dar aviso a la autoridad competente o sin ejercer oportunamente las acciones legales o contractuales que estén a su alcance, se le impondrá de uno a cuatro años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las penas que correspondan cuando su intervención actualice alguna forma de autoría, participación o encubrimiento conforme a este Código.
+
+El pacto por escrito de la prohibición de realizar las conductas previstas en los artículos 259 o 259 Bis de este Código constituirá prueba de la falta de consentimiento del titular; quien lo haya celebrado y, al tener conocimiento de tales conductas, dé aviso a la autoridad competente o ejerza oportunamente las acciones legales o contractuales a su alcance, no incurrirá en la responsabilidad prevista en este artículo.
 
 ###### Artículo 260.
 
@@ -5838,3 +5870,25 @@ G.O. 2 DE JULIO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 529 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El Poder Ejecutivo del Estado, en el ámbito de su competencia, contará con un plazo no mayor a noventa días naturales, contado a partir de la entrada en vigor del presente Decreto, para emitir o adecuar las disposiciones reglamentarias que correspondan a las dependencias de la administración pública estatal en materia de prevención y control de la contaminación por agroquímicos, incluyendo la determinación de la amplitud, distancia o proporción de las áreas perimetrales de protección y de las franjas respecto de fuentes de abastecimiento de agua para uso humano a que se refieren el Código Penal y la presente Ley.
+
+TERCERO. Los 212 Ayuntamientos del Estado, en el ámbito de sus atribuciones y con respeto a su autonomía municipal, contarán con un plazo no mayor a ciento veinte días naturales, contado a partir de la entrada en vigor del presente Decreto, para revisar y, en su caso, adecuar sus reglamentos y disposiciones administrativas en materia de protección ambiental, ordenamiento ecológico, uso de suelo, desarrollo urbano y prevención y control de la contaminación por agroquímicos, a fin de armonizarlos con las disposiciones del presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 530 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DE LA LEY APÍCOLA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. La Secretaría de Desarrollo Agropecuario, Rural y Pesca, en el ámbito de sus atribuciones, deberá realizar las adecuaciones a sus reglamentos, emitirá las reglas de operación que se estimen pertinentes y las adecuaciones administrativas necesarias para la aplicación de las disposiciones previstas en el presente Decreto, dentro de un plazo de ciento veinte días naturales contado a partir de su entrada en vigor.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
