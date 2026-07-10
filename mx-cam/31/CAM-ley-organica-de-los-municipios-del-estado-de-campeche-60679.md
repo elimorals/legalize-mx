@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2026-05-22"
+last_updated: "2026-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2026.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -1039,7 +1039,13 @@ D. El ejercicio temporal por parte del Estado de alguna función o la prestació
 
 E. El ejercicio coordinado por el Estado y el Municipio de alguna función o la prestación de un servicio público municipal;
 
-F. La asunción por el Municipio dentro de su territorio, de la prestación de servicios públicos o la atención de funciones a cargo del Estado, así como la ejecución u operación de obras estatales, cuando ello resulte conveniente para el desarrollo económico y social del Municipio; así como;
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2026)</small>
+
+F. La asunción por el Municipio dentro de su territorio, de funciones o servicios públicos a cargo del Estado, así como la ejecución u operación de obras estatales, cuando ello resulte conveniente para el desarrollo económico, social y humano del Municipio, mediante la celebración de convenios específicos que definan responsabilidades, recursos y mecanismos de evaluación.
+
+Asimismo, mediante los convenios respectivos y en coordinación con las autoridades competentes, los municipios podrán, conforme a su disponibilidad presupuestal, administrativa y patrimonial, facilitar el uso de espacios públicos de su propiedad o bajo su administración para el desarrollo de acciones de promoción, prevención y atención primaria de la salud, con enfoque de derechos humanos e inclusión social.
+
+Los convenios que se celebren podrán establecer los mecanismos de coordinación institucional, así como las responsabilidades operativas, técnicas, administrativas y financieras que correspondan a cada orden de gobierno, de conformidad con la legislación aplicable, atendiendo a las atribuciones, capacidades institucionales y disponibilidad presupuestaria que determine cada autoridad participante en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE JUNIO DE 2022)</small>
 
@@ -2824,3 +2830,15 @@ P.O. 22 DE MAYO DE 2026.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 10 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMA EL APARTADO F DE LA FRACCIÓN I DEL ARTÍCULO 102 DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los HH. Ayuntamientos promoverán, en el ámbito de su competencia y conforme a los instrumentos de planeación municipal aplicables, acciones de promoción de la salud comunitaria y atención prioritaria a grupos en condición de vulnerabilidad.
+
+TERCERO.- Los HH. Ayuntamientos en un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente decreto, deberán realizar la armonización y ajustes necesarios a su marco reglamentario aplicable.
+
+CUARTO.- Se derogan las disposiciones legales y reglamentarias del marco normativo local, en lo que se opongan al contenido del presente decreto.
