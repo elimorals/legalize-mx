@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-830-apicola-para-el-estado-de-veracruz-de-37185"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-12"
-last_updated: "2020-02-04"
+last_updated: "2026-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY APICOLA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 12 de febrero de 2004.
 
@@ -361,11 +361,23 @@ El incumplimiento a las disposiciones de la presente Ley, independientemente de 
 
 I. Multa; o
 
-II. Cancelación de registros, permisos o trámites administrativos.
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2026)</small>
+
+II. Cancelación de registros, permisos, autorizaciones o trámites administrativos que correspondan; o
+
+> <small>(ADICIONADA, G.O. 10 DE JULIO DE 2026)</small>
+
+III. Las demás medidas administrativas previstas en esta Ley.
+
+> <small>(ADICIONADO, G.O. 10 DE JULIO DE 2026)</small>
+
+Podrá ordenarse el aseguramiento precautorio de colmenas, material apícola, productos y subproductos, cuando resulte necesario para impedir su movilización irregular.
+
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 33.
 
-En caso de reincidencia, la multa podrá ser de hasta dos veces el monto originalmente impuesto.
+En caso de reincidencia, la multa podrá ser de hasta dos veces el monto originalmente impuesto y, atendiendo a la gravedad de la infracción, la Secretaría podrá ordenar se aplique lo dispuesto en la fracción II del artículo 32.
 
 ###### ARTÍCULO 34.
 
@@ -373,9 +385,15 @@ El importe de las multas será pagado ante la Oficina de Hacienda del Estado que
 
 Ante el incumplimiento del pago de las multas impuestas, se empleará el procedimiento administrativo de ejecución, previsto en el Código de Procedimientos Administrativos para el Estado.
 
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 35.
 
-La Secretaría, por conducto de la Dirección, podrá retener las colmenas, sus productos y subproductos, en caso de incumplimiento de las disposiciones de esta Ley, relativas a su movilización. La retención durará hasta que el interesado cumpla con los requisitos correspondientes.
+La Secretaría, por conducto de la Dirección, podrá retener o asegurar precautoriamente las colmenas, equipo, material apícola, productos y subproductos, en caso de incumplimiento de las disposiciones de esta Ley relativas a su movilización, propiedad, trazabilidad, o comercialización, siguiendo los protocolos y demás reglas de operación de las que disponga la Secretaría. La medida subsistirá hasta que la persona interesada acredite el cumplimiento de los requisitos correspondientes, sin perjuicio de las sanciones administrativas y responsabilidades penales que resulten procedentes.
+
+Al ejecutar el aseguramiento precautorio, el personal de la Secretaría deberá levantar acta circunstanciada en la que se detalle el inventario de los bienes asegurados, el estado físico y sanitario que guardan, y la designación del depositario. El depositario podrá ser el propio infractor, la asociación apícola de la jurisdicción correspondiente o un tercero que acredite capacidad técnica y material para su debido resguardo.
+
+Cuando se trate del aseguramiento de colmenas con colonias vivas, la Secretaría, de manera inmediata, dictará las medidas técnicas, de manejo, así como las medidas sanitarias necesarias para garantizar su conservación y supervivencia, a fin de evitar daños patrimoniales y salvaguardar el bienestar animal durante el tiempo que dure el resguardo. El procedimiento deberá sustanciarse y resolverse garantizando en todo momento el derecho de audiencia y el debido proceso del presunto infractor, aplicando de manera supletoria el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
 
 ###### ARTÍCULO 36.
 
@@ -389,11 +407,13 @@ III. El monto del beneficio, daño o perjuicio económico, si los hubiere, deriv
 
 IV. La reincidencia, en su caso.
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, G.O. 10 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 37.
 
-Se sancionará con multa del valor diario de cincuenta a doscientas Unidades de Medida y Actualización vigente o con la cancelación del registro de sitio de pecoreo, del permiso de internación o del trámite administrativo que corresponda, según la gravedad de la infracción, el incumplimiento de lo dispuesto en los artículos 8, 9, 10, 14, 19, 21, 22, 27 y 29 de esta Ley.
+Se sancionará con multa equivalente de sesenta a doscientas cuarenta veces el valor diario de la Unidad de Medida y Actualización vigente, o con la cancelación del registro de sitio de pecoreo, del permiso de internación o del trámite administrativo que corresponda, según la gravedad de la infracción, el incumplimiento de lo dispuesto en los artículos 8, 9, 10, 14, 19, 21, 22, 27 y 29 de esta Ley.
+
+Cuando la infracción consista en la comercialización o movilización de colmenas, material apícola, productos o subproductos sin la marca de fuego, registro, factura o documentación correspondiente que acredite, según el caso, su legal propiedad o procedencia, la multa será equivalente de doscientas cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, sin perjuicio de dar vista a la Fiscalía General del Estado por los hechos que pudieran constituir delito.
 
 ###### ARTÍCULO 38.
 
@@ -464,3 +484,13 @@ SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códig
 TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 10 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 530 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DE LA LEY APÍCOLA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. La Secretaría de Desarrollo Agropecuario, Rural y Pesca, en el ámbito de sus atribuciones, deberá realizar las adecuaciones a sus reglamentos, emitirá las reglas de operación que se estimen pertinentes y las adecuaciones administrativas necesarias para la aplicación de las disposiciones previstas en el presente Decreto, dentro de un plazo de ciento veinte días naturales contado a partir de su entrada en vigor.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
