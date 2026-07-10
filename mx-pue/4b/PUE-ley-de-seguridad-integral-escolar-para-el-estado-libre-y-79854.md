@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-integral-escolar-para-el-estado-libre-y-79854"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-04"
-last_updated: "2026-04-28"
+last_updated: "2026-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 4 de febrero de 2011.
 
@@ -415,11 +415,21 @@ I.- Detectar y evitar el consumo de drogas, alcohol y tabaco o de cualquier tipo
 
 II.- Detectar la incidencia delictiva que se dé o pudiese darse en los diferentes planteles escolares y su entorno, e identificar a los responsables de estos hechos o delitos, para implementar el tratamiento y las medidas que se deban de llevar a cabo, así como su seguimiento, con la finalidad de brindar seguridad a la comunidad escolar en general;
 
-III.- Crear conciencia en la sociedad y en la comunidad escolar sobre la necesidad de implementar medidas tendientes a la prevención, autoprotección y denuncia de conductas ilícitas y consumo de sustancias nocivas para la salud dentro de los planteles educativos y su entorno; así como también las medidas sanitarias y alimenticias que garanticen el bienestar escolar;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2026)</small>
 
-IV.- Involucrar al personal docente y administrativo de las escuelas, padres de familia, alumnos y vecinos de las instituciones escolares, para ejercitar y operar las acciones conducentes, a fin de lograr un verdadero ambiente de seguridad escolar; y
+III.- Fomentar valores, principios y reglas de integridad y respeto, para crear conciencia en la sociedad y en la comunidad escolar sobre la necesidad de implementar medidas tendientes a la prevención, detección, autoprotección y denuncia de casos de violencia, conductas ilícitas o consumo de sustancias nocivas para la salud dentro de los planteles educativos y su entorno; así como también las medidas sanitarias y alimenticias que garanticen el bienestar escolar;
 
-V.- Establecer las acciones con la participación de las diversas instituciones sociales para la realización de conferencias, pláticas, foros y demás eventos afines, para la prevención, detección y canalización oportuna de factores de riesgo de la comunidad escolar y en general organizar actividades escolares y extraescolares, tendientes a mejorar la seguridad escolar.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2026)</small>
+
+IV.- Involucrar al personal docente y administrativo de las escuelas, padres de familia, alumnos y vecinos de las instituciones escolares, para ejercitar y operar las acciones conducentes, a fin de lograr un verdadero ambiente de seguridad escolar;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2026)</small>
+
+V.- Establecer las acciones con la participación de las diversas instituciones sociales para la realización de conferencias, pláticas, foros y demás eventos afines, para la prevención, detección y canalización oportuna de factores de riesgo de la comunidad escolar y en general organizar actividades escolares y extraescolares, tendientes a mejorar la seguridad escolar, y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2026)</small>
+
+VI.- Analizar el contexto escolar y los supuestos que pudieran presentarse en cada plantel educativo, para la aplicación de mecanismos y estrategias, en estricto apego al caso concreto, privilegiando la perspectiva de género y el interés superior de la niñez, para reducir y evitar riesgos y garantizar la seguridad integral de la comunidad escolar.
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE SEGURIDAD ESCOLAR
 
@@ -946,5 +956,13 @@ P.O. 28 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I BIS, VIII Y IX, Y ADICIONA LAS FRACCIONES I TER, IX BIS Y IX TER, TODAS DEL ARTÍCULO 2 DE LA LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III, IV, V Y ADICIONA LA FRACCIÓN VI, AL ARTÍCULO 19 DE LA LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el periódico oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
