@@ -4,7 +4,7 @@ identifier: "VER-ley-estatal-de-proteccion-ambiental-18963"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-30"
-last_updated: "2026-05-15"
+last_updated: "2026-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 62 ESTATAL DE PROTECCIÓN AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JULIO DE 2026.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 
@@ -93,11 +93,21 @@ IV.- Áreas naturales protegidas de competencia Federal: Las zonas del territori
 
 V.- Áreas naturales protegidas: zonas del territorio estatal y aquellas sobre las que el Estado ejerce su soberanía y jurisdicción en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas o restauradas y están sujetas al régimen previsto en la presente Ley con el fin de preservar e interconectar ambientes naturales; salvaguardar la diversidad genética de las especies silvestres; lograr el aprovechamiento sustentable de los recursos naturales y mejorar la calidad del ambiente en los centros de población y sus alrededores.
 
-> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2026)</small>
 
-V Bis.- ÁREA VERDE: Toda superficie cubierta de vegetación natural o inducida que se localice en el Estado.
+V Bis.- Área verde: Toda superficie cubierta de vegetación natural o inducida que se localice en el Estado.
 
-VI.- Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos.
+> <small>(ADICIONADA, G.O. 10 DE JULIO DE 2026)</small>
+
+V Ter. Área perimetral de protección: Franja o área de transición contigua a centros de población, asentamientos humanos, ecosistemas, áreas naturales protegidas, cuerpos de agua o hábitats críticos, determinada conforme a las disposiciones jurídicas federales, estatales o municipales aplicables, cuya finalidad es atenuar los impactos negativos de las actividades humanas aledañas y proteger la integridad de los elementos naturales. Su amplitud, distancia o proporción será la prevista expresamente en dichas disposiciones.
+
+> <small>(REFORMADA, G.O. 10 DE JULIO DE 2026)</small>
+
+VI.- Aprovechamiento sustentable: Uso de los recursos naturales de manera que se preserve la integridad funcional y la capacidad de carga de los ecosistemas a los que pertenecen, por tiempo indefinido.
+
+> <small>(ADICIONADA, G.O. 10 DE JULIO DE 2026)</small>
+
+VI Bis. Agroquímico: Sustancia o mezcla de sustancias químicas, de origen sintético o natural, utilizada para prevenir, controlar o eliminar organismos que afecten actividades agrícolas, pecuarias o forestales, o para aportar nutrientes al suelo o a los cultivos. Comprende plaguicidas, fertilizantes, herbicidas, nematicidas, fungicidas e insecticidas, y lo (sic) que se regulen por la legislación federal, las Normas Oficiales Mexicanas y demás disposiciones jurídicas aplicables en la materia.
 
 VII.- Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas.
 
@@ -2489,6 +2499,10 @@ VII. El aprovechamiento de los recursos naturales que comprenden los ecosistemas
 
 VIII. Para mantener la integridad y el equilibrio de los elementos naturales que intervienen en el ciclo hidrológico, se deberá considerar la protección de suelos, áreas boscosas, selváticas, el mantenimiento de caudales básicos de las corrientes de agua y la capacidad de los acuíferos.
 
+> <small>(ADICIONADA, G.O. 10 DE JULIO DE 2026)</small>
+
+IX. Las autoridades estatales y municipales, en el ámbito de sus atribuciones, vigilarán que el uso, aplicación, almacenamiento, manejo o disposición de las sustancias fitosanitarias a que se refiere el artículo 163 Bis, fracción VIII, se sujete a las prohibiciones y limitaciones de las disposiciones federales aplicables; tratándose de aquellas que no se encuentren en algún estatus de prohibición, su uso observará la amplitud, distancia o proporción de protección que prevean las disposiciones jurídicas aplicables respecto de las aguas de jurisdicción estatal, de las aguas nacionales asignadas o concesionadas por la Federación al Estado o a los municipios, y de la infraestructura hidráulica a cargo de dichas autoridades.
+
 ###### Artículo 148.
 
 Los criterios para el aprovechamiento sustentable y la prevención y control de la contaminación del agua serán considerados en:
@@ -2611,9 +2625,33 @@ El Gobierno del Estado y los Ayuntamientos, se coordinarán con las autoridades 
 
 La información que se recabe deberá ser incorporada al Sistema Nacional de Información Ambiental establecido por la Federación, en los términos de los acuerdos de coordinación respectivos.
 
-### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN VISUAL Y DE LA GENERADA POR RUIDO, VIBRACIONES, ENERGÍA TÉRMICA, ENERGÍA LUMÍNICA Y OLORES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 10 DE JULIO DE 2026)</small>
 
-### CAPÍTULO IV. ACTIVIDADES RIESGOSAS
+### CAPÍTULO II BIS. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO Y DE LOS ECOSISTEMAS TERRESTRES
+
+> <small>(ADICIONADO, G.O. 10 DE JULIO DE 2026)</small>
+
+###### Artículo 163 Bis.
+
+Para la prevención y control de la contaminación del suelo y la protección de los ecosistemas terrestres se considerarán los siguientes criterios:
+
+l. La flora y fauna silvestres que integran los ecosistemas terrestres del Estado constituyen un patrimonio natural de valor ecológico, científico, cultural y económico, por lo que su protección, conservación y aprovechamiento sustentable son de interés público y utilidad social;
+
+II. Corresponde al Estado y a la sociedad prevenir y controlar la contaminación de los suelos de jurisdicción estatal, así como promover su restauración cuando estos hayan sido degradados por actividades humanas o fenómenos naturales;
+
+III. El aprovechamiento del suelo en actividades productivas, agropecuarias, forestales o industriales, susceptibles de producir contaminación o degradación, conlleva la responsabilidad de aplicar medidas de mitigación, restauración y compensación ambiental, a fin de mantener su función ecológica y productiva; además, deben ser controlados los residuos en tanto constituyen la principal fuente de contaminación de los suelos;
+
+IV. La prevención y reducción de la generación de residuos sólidos, municipales e industriales, así como la incorporación de técnicas y procedimientos para su reutilización y reciclaje, así como la regulación de su manejo y disposición final eficiente;
+
+V. La utilización de agroquímicos, fertilizantes y sustancias tóxicas debe ser compatible con el equilibrio de los ecosistemas y considerar sus efectos sobre la salud humana, a fin de prevenir los daños que pudieran ocasionar;
+
+VI. En los suelos contaminados por la presencia de materiales o residuos peligrosos deberán llevarse a cabo las acciones necesarias para recuperar o restablecer sus condiciones, de tal manera que puedan ser utilizados en cualquier tipo de actividad prevista por el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable;
+
+VII. En las zonas afectadas por fenómenos de degradación o desertificación deberán llevarse a cabo las acciones de regeneración, recuperación y rehabilitación necesarias, a fin de restaurarlas; y
+
+VIII. En las áreas perimetrales de protección a que se refiere el artículo 3, fracción V Ter, de esta Ley, el uso, aplicación, almacenamiento, manejo o disposición de plaguicidas, herbicidas, insecticidas, fungicidas, fumigantes, nematicidas y demás sustancias fitosanitarias cuyo registro haya sido cancelado, revocado, suspendido o prohibido por las autoridades federales competentes, así como de aquellas cuyo uso se encuentre restringido por disposiciones de carácter general, normas oficiales mexicanas o tratados internacionales de los que el Estado Mexicano sea parte, se sujetará a las prohibiciones y limitaciones previstas en dichas disposiciones; tratándose de sustancias que no se encuentren en algún estatus de prohibición, su uso observará la amplitud, distancia o proporción de protección que prevean las disposiciones normativas aplicables.
+
+### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN VISUAL Y DE LA GENERADA POR RUIDO, VIBRACIONES, ENERGÍA TÉRMICA, ENERGÍA LUMÍNICA Y OLORES
 
 ###### Artículo 164.
 
@@ -2637,7 +2675,7 @@ Corresponde a los estados y los ayuntamientos, en su ámbito de competencia esta
 
 La Secretaría asesorará y apoyará a los Municipios en el cumplimiento de las disposiciones contenidas en este Capítulo.
 
-### CAPÍTULO V. MANEJO Y DISPOSICIÓN DE RESIDUOS SÓLIDOS NO PELIGROSOS
+### CAPÍTULO IV. ACTIVIDADES RIESGOSAS
 
 ###### Artículo 168.
 
@@ -2685,7 +2723,7 @@ I.- En su desarrollo se generen residuos que sean vertidos a los sistemas de dre
 
 II.- Cuando las actividades estén relacionadas con residuos no peligrosos, generados en servicios públicos cuya regulación o manejo corresponda a los municipios o se relacionen con dichos servicios
 
-### CAPÍTULO VI. PREVENCIÓN Y CONTROL DE LAS EMERGENCIAS ECOLÓGICAS Y CONTINGENCIAS AMBIENTALES
+### CAPÍTULO V. MANEJO Y DISPOSICIÓN DE RESIDUOS SÓLIDOS NO PELIGROSOS
 
 ###### Artículo 173.
 
@@ -2759,7 +2797,7 @@ II.- La identificación de alternativas de minimización reutilización, recicla
 
 III. La instalación y operación de centros de acopio de residuos sólidos municipales y domésticos orgánicos o inorgánicos, para su clasificación, reuso, tratamiento y reciclaje.
 
-### CAPÍTULO I. MECANISMOS DE PARTICIPACIÓN SOCIAL
+### CAPÍTULO VI. PREVENCIÓN Y CONTROL DE LAS EMERGENCIAS ECOLÓGICAS Y CONTINGENCIAS AMBIENTALES
 
 ###### Artículo 179.
 
@@ -2817,9 +2855,7 @@ IV.- Participar en la elaboración de los programas en los que se consideren acc
 
 ## TÍTULO SEXTO. PARTICIPACIÓN SOCIAL Y DERECHO A LA INFORMACIÓN AMBIENTAL
 
-### CAPÍTULO II. CONSEJO CIUDADANO PARA LA CONSERVACIÓN DEL MEDIO AMBIENTE Y EL DESARROLLO SUSTENTABLE
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 23 DE NOVIEMBRE DE 2017)</small>
+### CAPÍTULO I. MECANISMOS DE PARTICIPACIÓN SOCIAL
 
 ###### Artículo 182.
 
@@ -2867,9 +2903,9 @@ VI.- Propondrán a las Comisiones Municipales de Ecología mecanismos adecuados 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
-### CAPÍTULO III. DE LOS CONSEJOS MUNICIPALES DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
+### CAPÍTULO II. CONSEJO CIUDADANO PARA LA CONSERVACIÓN DEL MEDIO AMBIENTE Y EL DESARROLLO SUSTENTABLE
 
-> <small>(REFORMADO, G.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 23 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 184.
 
@@ -2921,7 +2957,9 @@ IX. Fomentar la cultura de la protección al ambiente y programas de educación 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE JULIO DE 2011)</small>
 
-### CAPÍTULO IV. DERECHO A LA INFORMACIÓN AMBIENTAL
+### CAPÍTULO III. DE LOS CONSEJOS MUNICIPALES DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
+
+> <small>(REFORMADO, G.O. 15 DE JULIO DE 2011)</small>
 
 ###### Artículo 186.
 
@@ -2981,7 +3019,7 @@ VII. Dar aviso al Ayuntamiento o a las autoridades competentes en la materia sob
 
 VIII. Las demás que determinen esta Ley y otros ordenamientos legales aplicables en la materia o el Ayuntamiento.
 
-### CAPÍTULO I. DE LA COMPETENCIA
+### CAPÍTULO IV. DERECHO A LA INFORMACIÓN AMBIENTAL
 
 ###### Artículo 187.
 
@@ -3033,9 +3071,7 @@ Quien reciba información ambiental de las autoridades competentes, en los térm
 
 ## TÍTULO SÉPTIMO. DEL PROCEDIMIENTO Y LAS SANCIONES
 
-### CAPÍTULO II. INSPECCIÓN Y VIGILANCIA
-
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+### CAPÍTULO I. DE LA COMPETENCIA
 
 ###### Artículo 194.
 
@@ -3057,9 +3093,9 @@ Cuando alguna de las autoridades señaladas en el artículo anterior, esté cono
 
 Cualquier autoridad de las enumeradas en el artículo 194 de esta ley, que tenga conocimiento de una conducta o hecho que no sea de su competencia, pero que presente un peligro inminente a los ecosistemas o a la salud pública, podrá actuar a prevención, ordenando la inspección procedente y levantando el acta correspondiente en los términos de los Artículos 199 y 202 de esta Ley, y la turnará inmediatamente a la autoridad competente.
 
-### CAPÍTULO III. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO II. INSPECCIÓN Y VIGILANCIA
 
-> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 197.
 
@@ -3153,7 +3189,9 @@ En los casos en que el infractor cumpla con las medidas correctivas o de urgente
 
 Si de los hechos investigados apareciera la posible comisión de un delito, la autoridad competente formulará ante el Ministerio Público la querella correspondiente.
 
-### CAPÍTULO IV. DEL RECURSO DE REVISIÓN
+### CAPÍTULO III. DE LAS SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 212.
 
@@ -3227,9 +3265,7 @@ En los casos en que se imponga como sanción la clausura temporal, la autoridad 
 
 La Secretaría y la Procuraduría, en el ámbito de sus respectivas competencias y de manera conjunta o separada, podrán promover ante las autoridades federales, estatales o municipales competentes, con base en los estudios que hagan para ese efecto, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos, de transporte o cualquier actividad que afecte o pueda afectar el ambiente, los recursos naturales o causar desequilibrio ecológico o pérdida de la biodiversidad.
 
-### CAPÍTULO V. DE LA DENUNCIA POPULAR
-
-> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
+### CAPÍTULO IV. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 220.
 
@@ -3304,6 +3340,10 @@ El recurso se resolverá dentro de un plazo de veinte días contados a partir de
 ###### Artículo 226.
 
 La resolución del recurso se fundamentará en Derecho y examinará todos y cada uno de los agravios que se hayan hecho valer y se notificará personalmente al recurrente dentro de los tres días siguientes a su emisión.
+
+### CAPÍTULO V. DE LA DENUNCIA POPULAR
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 227.
 
@@ -3558,3 +3598,15 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Se derogan todas las disposiciones jurídicas y administrativas de igual o menor jerarquía que se opongan al presente Decreto.
 
 CUARTO. Las autoridades ambientales y de la SEFIPLAN deberán realizar, en un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor del presente Decreto, los ajustes administrativos y normativos necesarios para el cumplimiento de las disposiciones aquí contenidas, incluyendo la actualización de manuales administrativos, procedimientos internos y, en su caso, la suscripción de convenios de colaboración.
+
+G.O. 10 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 529 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTGADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE Y DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL DEL VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El Poder Ejecutivo del Estado, en el ámbito de su competencia, contará con un plazo no mayor a noventa días naturales, contado a partir de la entrada en vigor del presente Decreto, para emitir o adecuar las disposiciones reglamentarias que correspondan a las dependencias de la administración pública estatal en materia de prevención y control de la contaminación por agroquímicos, incluyendo la determinación de la amplitud, distancia o proporción de las áreas perimetrales de protección y de las franjas respecto de fuentes de abastecimiento de agua para uso humano a que se refieren el Código Penal y la presente Ley.
+
+TERCERO. Los 212 Ayuntamientos del Estado, en el ámbito de sus atribuciones y con respeto a su autonomía municipal, contarán con un plazo no mayor a ciento veinte días naturales, contado a partir de la entrada en vigor del presente Decreto, para revisar y, en su caso, adecuar sus reglamentos y disposiciones administrativas en materia de protección ambiental, ordenamiento ecológico, uso de suelo, desarrollo urbano y prevención y control de la contaminación por agroquímicos, a fin de armonizarlos con las disposiciones del presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
