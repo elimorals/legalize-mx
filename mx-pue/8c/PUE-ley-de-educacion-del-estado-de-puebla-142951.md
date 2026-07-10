@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-142951"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-18"
-last_updated: "2026-04-24"
+last_updated: "2026-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2026.
 
 Ley publicada en la Segunda Sección del Estado de Puebla, el lunes 18 de mayo de 2020.
 
@@ -217,9 +217,9 @@ a) Extenderá sus beneficios sin discriminación alguna, de conformidad con lo d
 
 b) Tendrá especial énfasis en el estudio de la realidad y las culturas locales y nacionales;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE JULIO DE 2026)</small>
 
-II. Inclusiva, equitativa y de excelencia eliminando toda forma de discriminación y exclusión, garantizando la igualdad de trato, así como las demás condiciones estructurales que se convierten en barreras al aprendizaje y la participación, por lo que:
+II. Inclusiva, equitativa y de excelencia eliminando toda forma de discriminación, exclusión y violencia, garantizando la igualdad de trato, así como las demás condiciones estructurales que se convierten en barreras al aprendizaje y la participación, por lo que:
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2023)</small>
 
@@ -961,9 +961,11 @@ Cuando se trate de esquemas no formales de aprendizaje, la autoridad educativa e
 
 ### CAPÍTULO I. DE LA ORIENTACIÓN INTEGRAL EN EL PROCESO EDUCATIVO
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 61.
 
-La orientación integral en el proceso educativo comprende la formación para la vida de las y los educandos, así como los contenidos de los planes y programas de estudio, la vinculación de la escuela con la comunidad y la adecuada formación de las maestras y maestros en los procesos de enseñanza aprendizaje, acorde con este criterio.
+La orientación integral en el proceso educativo comprende la formación para la vida de las y los educandos, así como los contenidos de los planes y programas de estudio, la vinculación de la escuela con la comunidad, el respeto a la integridad y la salud mental de las y los educandos y la adecuada formación de las maestras y maestros en los procesos de enseñanza aprendizaje, acorde con este criterio.
 
 ###### ARTÍCULO 62.
 
@@ -989,7 +991,9 @@ Dicho conocimiento deberá estar sustentado en principios éticos de desarrollo 
 
 V. El pensamiento filosófico, histórico y humanístico;
 
-VI. Las habilidades socioemocionales, como el desarrollo de la imaginación y la creatividad de contenidos y formas; el respeto por los otros; la colaboración y el trabajo en equipo; la comunicación; el aprendizaje informal; la productividad; capacidad de iniciativa, resiliencia, responsabilidad; trabajo en red y empatía; gestión y organización;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2026)</small>
+
+VI. Las habilidades socioemocionales, como el desarrollo de la imaginación y la creatividad de contenidos y formas; el respeto por los otros; el fomento al cuidado de la salud mental; la colaboración y el trabajo en equipo; la comunicación; el aprendizaje informal; la productividad; capacidad de iniciativa, resiliencia, responsabilidad, trabajo en red y empatía, gestión y organización;
 
 VII. El pensamiento crítico, como una capacidad de identificar, analizar, cuestionar y valorar fenómenos, información, acciones e ideas, así como tomar una posición frente a los hechos y procesos para solucionar distintos problemas de la realidad;
 
@@ -1265,13 +1269,21 @@ La Secretaría creará para cada educando desde educación inicial hasta media s
 
 La información del expediente al que se refiere este artículo se proporcionará a la autoridad educativa federal para actualizar el Sistema de Información y Gestión Educativa, según lo dispuesto en la Ley General de Educación y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 84.
 
-Los planteles educativos de nivel básico a medio superior que formen parte del Sistema Educativo Estatal, procurarán contar con al menos un profesional en psicología o trabajo social, con el objeto de brindar apoyo a las niñas, niños y adolescentes a fin de prevenir y erradicar el abuso sexual, acoso escolar, embarazos adolescentes y conductas antisociales de las y los educandos, y así garantizar su salud emocional, mental y libre desarrollo de la personalidad. Cuando los servicios educativos se realicen a distancia, la Secretaría deberá implementar estrategias digitales para promover la salud mental de las y los educandos.
+Los planteles educativos de nivel básico a medio superior que formen parte del Sistema Educativo Estatal, procuraran contar con al menos un profesional en psicología y trabajo social, con el objeto de brindar apoyo a docentes, autoridades educativas, niñas, niños y adolescentes, a fin de prevenir, canalizar y erradicar el abuso sexual, acoso escolar, embarazos adolescentes y conductas antisociales, autolesivas y otras que afecten la salud mental de las y los educandos, y así garantizar la salud emocional, mental y libre desarrollo de la personalidad.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2026)</small>
+
+Cuando los servicios educativos se realicen a distancia, la Secretaría deberá implementar estrategias digitales para promover la salud mental de las y los educandos.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
 De igual forma, la Secretaría ofrecerá servicios de orientación educativa, de trabajo social y de psicología desde la educación básica hasta la educación superior, de acuerdo con la suficiencia presupuestal y las necesidades de cada plantel, a fin de garantizar lo establecido en el párrafo anterior, así como fomentar una conciencia crítica que perfile a las y los educandos en la selección de su formación a lo largo de la vida para su desarrollo personal y contribuir al bienestar de sus comunidades.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
 
 Las acciones, servicios y estrategias que emprenda la Secretaría en materia de Salud Mental deberán privilegiar la coordinación con las autoridades sanitarias competentes.
 
@@ -2424,5 +2436,13 @@ P.O. 24 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE ADICIONA EL CAPÍTULO V DENOMINADO DEL APOYO ESCOLAR COMUNITARIO AL TÍTULO DÉCIMO "DE LA CORRESPONSABILIDAD SOCIAL EN EL PROCESO EDUCATIVO", ASÍ COMO LOS ARTÍCULOS 136 BIS, 136 TER Y 136 QUÁTER A LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 12, EL ARTÍCULO 61, LA FRACCIÓN VI DEL ARTÍCULO 63, EL ACÁPITE DEL 84, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 84 RECOMIÉNDOSE LOS SUBSECUENTES PÁRRAFOS; TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA; ASIMISMO, SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 1, LOS INCISOS G), H) DE LA FRACCIÓN III Y LAS FRACCIONES VI Y VII DEL ARTÍCULO 14, LAS FRACCIONES I, III, VIII, X Y XIII DEL ARTÍCULO 35, EL ARTÍCULO 36 Y EL ARTÍCULO 39; Y SE ADICIONA EL INCISO I) A LA FRACCIÓN III Y LA FRACCIÓN VIII AL ARTÍCULO 14; TODOS DE LA LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; Y SE REFORMAN LAS FRACCIONES II Y V DEL ARTÍCULO 10 DE (SIC) LEY DE SALUD MENTAL Y ADICCIONES PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
