@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-385-de-ingresos-para-el-municipio-de-san-luis-183316
 country: "mx"
 rank: "ley"
 publication_date: "2025-12-23"
-last_updated: "2025-12-23"
+last_updated: "2026-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=183316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NÚMERO 385 DE INGRESOS PARA EL MUNICIPIO DE SAN LUIS ACATLÁN DEL ESTADO DE GUERRERO, PARA EL EJERCICIO FISCAL 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2026.
 
 Ley publicada en el Alcance XXII del Número 102 del Periódico Oficial del Estado de Guerrero, el martes 23 de diciembre de 2025.
 
