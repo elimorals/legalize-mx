@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-salud-mental-y-adicciones-para-el-estado-de-puebla-17411
 country: "mx"
 rank: "ley"
 publication_date: "2024-08-15"
-last_updated: "2026-06-16"
+last_updated: "2026-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SALUD MENTAL Y ADICCIONES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2026.
 
 Ley publicada en la Cuarta Sección del Número 11 del Periódico Oficial del Estado de Puebla, el jueves 15 de agosto de 2024.
 
@@ -279,17 +279,17 @@ La Secretaría de Educación, en el ámbito de su competencia, fomentará y llev
 
 I. Cuenten con personal capacitado y actualizado en la materia de psicología, pedagogía infantil y educación escolar de acuerdo a la edad de las y los educandos, con el objetivo de identificar un posible trastorno mental que presenten niñas, niños, o adolescentes, debiéndolos canalizar a algún Módulo de Atención Mental o Centro Hospitalario, así como informar a sus madres, padres o tutores y dar la orientación correspondiente, de acuerdo a su capacidad de respuesta;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2026)</small>
 
-II. Proporcionen material informativo básico en materia de salud mental a las madres, padres o tutores con la finalidad de identificar algún trastorno mental y aplicar los protocolos internos de actuación para la canalización de niñas, niños y adolescentes a las autoridades competentes;
+II. Proporcionen material informativo básico (sic) salud mental a las madres, padres, tutores y docentes con la finalidad de identificar algún trastorno y aplicar los protocolos internos de actuación para la canalización de niñas, niños y adolescentes a las autoridades competentes;
 
 III. Promuevan el componente de salud mental y adicciones con base en el modelo de atención primaria a la salud;
 
 IV. En términos de lo establecido en la Ley de Educación del Estado de Puebla, realizar los ajustes razonables en función de las necesidades de las personas que tengan algún trastorno mental y otorgar los apoyos necesarios para facilitar su formación, y
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2026)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2026)</small>
 
-V. Implementen y fomenten acciones, campañas o programas relacionados con la promoción, prevención, y atención de la salud mental de niñas, niños y adolescentes.
+V. Implementar y fomentar programas relacionados con la salud mental de niñas, niños y adolescentes y sus familias.
 
 ### CAPÍTULO III. DEL CECA Y LOS PROGRAMAS DE SALUD MENTAL Y ADICCIONES
 
@@ -598,5 +598,13 @@ P.O. 16 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 13 DE LA LEY DE SALUD MENTAL Y ADICCIONES PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 12, EL ARTÍCULO 61, LA FRACCIÓN VI DEL ARTÍCULO 63, EL ACÁPITE DEL 84, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 84 RECOMIÉNDOSE (SIC) LOS SUBSECUENTES PÁRRAFOS; TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA; ASIMISMO, SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 1, LOS INCISOS G), H) DE LA FRACCIÓN III Y LAS FRACCIONES VI Y VII DEL ARTÍCULO 14, LAS FRACCIONES I, III, VIII, X Y XIII DEL ARTÍCULO 35, EL ARTÍCULO 36 Y EL ARTÍCULO 39; Y SE ADICIONA EL INCISO I) A LA FRACCIÓN III Y LA FRACCIÓN VIII AL ARTÍCULO 14; TODOS DE LA LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; Y SE REFORMAN LAS FRACCIONES II Y V DEL ARTÍCULO 10 DE LEY DE SALUD MENTAL Y ADICCIONES PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
