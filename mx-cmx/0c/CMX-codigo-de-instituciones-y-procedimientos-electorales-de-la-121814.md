@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-de-la-1218
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-07"
-last_updated: "2026-04-09"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121814&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-06-06"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 9 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -138,7 +138,9 @@ XII. Ley Procesal. La Ley Procesal Electoral para la Ciudad de México;
 
 XIII. Ley de Responsabilidad. Ley de Responsabilidad Administrativa de la Ciudad de México;
 
-XIV. Ley de Transparencia. La Ley de Transparencia y Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XIV. Ley de Transparencia. La Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México;
 
 XV. Reglamento Interior del Instituto Electoral. Reglamento Interior del Instituto Electoral de la Ciudad de México;
 
@@ -149,6 +151,10 @@ B) En lo que se refiere a los entes y sujetos de este Código:
 I. Alcaldesas o Alcaldes. Titulares de los órganos político-administrativos de las demarcaciones territoriales en que se divide la Ciudad de México;
 
 II. Autoridades Electorales. El Instituto Nacional Electoral, el Instituto Electoral y el Tribunal Electoral ambos de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+II Bis. Autoridades Garantes: autoridad garante local; la Contraloría del Poder Judicial; los órganos internos de control o equivalentes de los órganos constitucionales autónomos y la Contraloría Interna del Congreso de la Ciudad de México. Las autoridades garantes gozarán de autonomía técnica y operativa en el ejercicio de las funciones establecidas en la presente.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -163,6 +169,10 @@ VI. Circunscripción. Límite territorial de representación política definido 
 VII. Congreso Local. Congreso de la Ciudad de México;
 
 VIII. Concejales. Integrantes de los órganos colegiados electos por planilla en cada demarcación territorial y que forman parte de la administración pública de las Alcaldías y cada uno representa una circunscripción;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+VIII BIS. Comité del Subsistema de Transparencia: órgano colegiado rector del Subsistema de Transparencia de la Ciudad, de conformidad con el artículo 32 de la Ley General de Transparencia y Acceso a la Información Pública;
 
 IX. Consejera o Consejero Presidente. A la persona que presida el Consejo General del Instituto Electoral de la Ciudad de México;
 
@@ -2890,6 +2900,12 @@ Para efectos administrativos y orgánicos, la Contraloría Interna estará adscr
 
 #### SECCIÓN SEGUNDA. DE LA CONTRALORÍA INTERNA
 
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+Apartado A
+
+Del Control Interno y Responsabilidades
+
 > <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 103.
@@ -2983,6 +2999,20 @@ XXVIII. Las demás que le confiera este Código, las Leyes aplicables y el Regla
 ###### Artículo 106.
 
 Durante los procesos electorales y de participación ciudadana, la o el contralor interno deberá asumir e implementar, bajo su estricta responsabilidad, todas las medidas necesarias para que el cumplimiento de las atribuciones encomendadas a su área, en ningún caso, incida en la preparación y desarrollo de dichos procesos, ni retrasen la realización de las actividades vinculadas con los mismos.
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+Apartado B
+
+De la Integración al Comité del Subsistema de Transparencia de la Ciudad de México y de las funciones de la Contraloría Interna como Autoridad Garante
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 106 Bis.
+
+La persona titular de la Contraloría Interna del Instituto Electoral de la Ciudad de México será integrante, en representación del Instituto Electoral de la Ciudad de México, del Comité del Subsistema de Transparencia de la Ciudad de México, de conformidad con lo dispuesto en el artículo 28 de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
+
+Su participación se ejercerá conforme a la legislación local en la materia y, en lo conducente, dentro de los mecanismos de coordinación previstos en la Ley General de Transparencia y Acceso a la Información Pública, con el objeto de asegurar la articulación institucional y la armonización normativa entre el orden local y el federal.
 
 #### SECCIÓN TERCERA
 
@@ -4268,9 +4298,19 @@ XXII. Requerir fundada y motivadamente a los órganos y servidores públicos del
 
 XXIII. Las demás que le confiera este Código y la normatividad aplicable.
 
-### CAPÍTULO VI. DE LOS ÓRGANOS EJECUTIVOS
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
 
-### CAPÍTULO VII. DE LOS ÓRGANOS AUXILIARES
+### CAPÍTULO V BIS. De la Integración al Comité del Subsistema de Transparencia de la Ciudad de México y de las funciones de la Contraloría Interna como Autoridad Garante
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 202 Bis.
+
+La persona titular de la Contraloría Interna del Tribunal Electoral de la Ciudad de México será integrante, en representación del Tribunal Electoral de la Ciudad de México, del Comité del Subsistema de Transparencia de la Ciudad de México, de conformidad con lo dispuesto en el artículo 28 de la Ley de Transparencia para el Acceso y Socialización de la información de la Ciudad de México.
+
+Su participación se ejercerá conforme a la legislación local en la materia y, en lo conducente, dentro de los mecanismos de coordinación previstos en la Ley General de Transparencia y Acceso a la Información Pública, con el objeto de asegurar la articulación institucional y la armonización normativa entre el orden local y el federal.
+
+### CAPÍTULO VI. DE LOS ÓRGANOS EJECUTIVOS
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA GENERAL
 
@@ -4408,7 +4448,7 @@ VII. Preparar los proyectos de convenios de apoyo y colaboración que le solicit
 
 VIII. Las demás que le sean conferidas en el Reglamento Interior del Tribunal Electoral.
 
-### CAPÍTULO VIII. DE LAS UNIDADES TÉCNICAS DEL TRIBUNAL ELECTORAL
+### CAPÍTULO VII. DE LOS ÓRGANOS AUXILIARES
 
 #### SECCIÓN PRIMERA. COORDINACIONES
 
@@ -4536,6 +4576,10 @@ VIII. Coadyuvar, apoyar y asesorar a todas las áreas del Tribunal en el cumplim
 
 IX. Aquellas que se determinen en la legislación y la normatividad interna aplicable; así como las que su superior/a jerárquico/a le encomiende en relación con su puesto.
 
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+X. Coordinarse con el Instituto Nacional Electoral, para la atención de requerimientos, integración de expedientes y cumplimiento de determinaciones emitidas en materia de acceso a la información pública y protección de datos personales.
+
 #### SECCIÓN QUINTA. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
 
 ###### Artículo 216.
@@ -4622,7 +4666,7 @@ Para el correcto ejercicio de sus atribuciones, el Instituto de Formación y Cap
 
 Las y los Magistrados, las y los Secretarios de Estudio y Cuenta, Coordinadores y demás personal jurídico o administrativo, según corresponda, podrán participar en las actividades del Instituto de Formación y Capacitación, sin demérito de sus funciones.
 
-### CAPÍTULO IX. DE LAS RELACIONES LABORALES
+### CAPÍTULO VIII. DE LAS UNIDADES TÉCNICAS DEL TRIBUNAL ELECTORAL
 
 #### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
 
@@ -4726,7 +4770,7 @@ VIII. Las demás previstas en la normativa aplicable.
 
 La información cuantitativa de la actividad jurisdiccional del Tribunal considerará los grupos de población conforme al enfoque de derechos humanos y la perspectiva de género.
 
-### CAPÍTULO ÚNICO. DE LAS AGRUPACIONES POLÍTICAS LOCALES
+### CAPÍTULO IX. DE LAS RELACIONES LABORALES
 
 ###### Artículo 229.
 
@@ -4894,7 +4938,7 @@ Los Partidos Políticos con registro nacional y los Partidos Políticos con regi
 
 ## TÍTULO SEGUNDO. DE LA NATURALEZA, CONSTITUCIÓN Y REGISTRO DE LAS ASOCIACIONES POLÍTICAS
 
-### CAPÍTULO I. NATURALEZA Y FINES
+### CAPÍTULO ÚNICO. DE LAS AGRUPACIONES POLÍTICAS LOCALES
 
 #### SECCIÓN PRIMERA. NATURALEZA Y FINES
 
@@ -5134,7 +5178,7 @@ Cuando se determine la pérdida del registro de una Agrupación Política, se ap
 
 ## TÍTULO TERCERO. DE LOS PARTIDOS POLÍTICOS
 
-### CAPITULO II. DE LA CONSTITUCIÓN Y REGISTRO DE LOS PARTIDOS POLÍTICOS LOCALES
+### CAPÍTULO I. NATURALEZA Y FINES
 
 ###### Artículo 256.
 
@@ -5200,7 +5244,7 @@ Siendo firme la declaración hecha por la autoridad competente, en el sentido de
 
 La declaratoria del Consejo General surtirá sus efectos en forma inmediata, salvo el caso de que se esté desarrollando un proceso electoral. En esta circunstancia, la resolución surtirá efectos, una vez que aquel haya concluido.
 
-### CAPÍTULO III. DE LAS PRERROGATIVAS Y OBLIGACIONES
+### CAPITULO II. DE LA CONSTITUCIÓN Y REGISTRO DE LOS PARTIDOS POLÍTICOS LOCALES
 
 ###### Artículo 260.
 
@@ -5396,7 +5440,7 @@ Para el caso de que la solicitante no cumpla con los requisitos y criterios, el 
 
 Los Partidos Políticos de nuevo registro no podrán convenir frentes, coaliciones, fusiones o Candidaturas Comunes con otro Partido Político antes de la conclusión de la primera elección federal o local inmediata posterior a su registro, según corresponda.
 
-### CAPÍTULO IV. DE LOS PROCESOS DE SELECCIÓN INTERNA
+### CAPÍTULO III. DE LAS PRERROGATIVAS Y OBLIGACIONES
 
 ###### Artículo 272.
 
@@ -5548,7 +5592,7 @@ XXIII Bis. Abstenerse de participar de manera directa e indirecta en la elecció
 
 XXIV. Las demás que establezcan este Código y los ordenamientos aplicables.
 
-### CAPÍTULO V. FRENTES, COALICIONES ELECTORALES, CANDIDATURAS COMUNES
+### CAPÍTULO IV. DE LOS PROCESOS DE SELECCIÓN INTERNA
 
 ###### Artículo 274.
 
@@ -5736,7 +5780,7 @@ I. Que haya sido sancionado por actos anticipados de campaña o precampaña; y
 
 II. Que haya presentado su informe de gastos de precampaña después del límite establecido por la autoridad electoral competente.
 
-### CAPITULO VI. DE LOS GOBIERNOS DE COALICIÓN
+### CAPÍTULO V. FRENTES, COALICIONES ELECTORALES, CANDIDATURAS COMUNES
 
 #### SECCIÓN PRIMERA. DE LOS FRENTES
 
@@ -5894,9 +5938,7 @@ En caso de su aprobación el Consejo General deberá remitirlo para su publicaci
 
 Los partidos políticos que postulen candidaturas comunes no podrán postular candidaturas propias, independientes ni de otros partidos políticos para la elección que convinieron la candidatura común.
 
-### CAPÍTULO VII. DE LAS CANDIDATURAS SIN PARTIDO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2020)</small>
+### CAPITULO VI. DE LOS GOBIERNOS DE COALICIÓN
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -5972,7 +6014,9 @@ La persona titular de la Jefatura de Gobierno hará del conocimiento del Congres
 
 Es deber de cada Partido Político coaligado apoyar el Programa de Gobierno de la Coalición en el Congreso de la Ciudad.
 
-### CAPÍTULO VIII. DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS
+### CAPÍTULO VII. DE LAS CANDIDATURAS SIN PARTIDO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 310.
 
@@ -6260,9 +6304,7 @@ El financiamiento privado de que dispongan los candidatos sin partido, estará s
 
 Son prerrogativas y derechos de las y los candidatos sin partido registrados las que establece la Constitución Federal, Constitución Local, Ley General de Instituciones y Procedimientos Electorales y este Código.
 
-### CAPÍTULO IX. DE LA FISCALIZACIÓN
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
+### CAPÍTULO VIII. DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -6538,7 +6580,9 @@ c) Los rendimientos financieros obtenidos a través de esta modalidad deberán d
 
 Los partidos políticos no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades.
 
-### CAPÍTULO X. DE LA PÉRDIDA DE REGISTRO Y DE LA EXTINCIÓN DE LOS DERECHOS Y OBLIGACIONES DE LOS PARTIDOS POLÍTICOS
+### CAPÍTULO IX. DE LA FISCALIZACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2022)</small>
 
 ###### Artículo 348.
 
@@ -6630,9 +6674,7 @@ Dicho procedimiento se iniciará con la solicitud que presenten ante esa Unidad,
 
 Para el ejercicio de sus atribuciones, las autoridades de la Ciudad de México, las instituciones financieras y todas las personas físicas y morales estarán obligadas a rendir y a otorgar la documentación que esté en su poder y que les sea requerida por la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+### CAPÍTULO X. DE LA PÉRDIDA DE REGISTRO Y DE LA EXTINCIÓN DE LOS DERECHOS Y OBLIGACIONES DE LOS PARTIDOS POLÍTICOS
 
 ###### Artículo 354.
 
@@ -6704,7 +6746,7 @@ g) En todo tiempo deberá garantizarse al partido político de que se trate el e
 
 ## TÍTULO PRIMERO. DE LOS PROCESOS ELECTORALES Y LOS PROCEDIMIENTOS DE PARTICIPACION CIUDADANA
 
-### CAPÍTULO II. DEL PROCESO ELECTORAL ORDINARIO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -6724,7 +6766,9 @@ El día en que se reciba la votación de las elecciones ordinarias será conside
 
 Durante los procesos electorales y de participación ciudadana todos los días y horas son hábiles. Los plazos se contarán por días completos y cuando se señalen por horas se contarán de momento a momento.
 
-### CAPÍTULO III. DEL PROCESO ELECTORAL EXTRAORDINARIO
+### CAPÍTULO II. DEL PROCESO ELECTORAL ORDINARIO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 358.
 
@@ -6754,7 +6798,7 @@ En el caso de la elección de Jefatura de Gobierno, esta etapa concluirá con el
 
 Para la elección del Poder Judicial, se atenderán las etapas previstas en el apartado específico del presente Código.
 
-### CAPÍTULO IV. DE LOS PROCEDIMIENTOS Y MECANISMOS DE PARTICIPACIÓN CIUDADANA
+### CAPÍTULO III. DEL PROCESO ELECTORAL EXTRAORDINARIO
 
 ###### Artículo 360.
 
@@ -6772,7 +6816,7 @@ Las convocatorias para la celebración de procesos electorales y de participaci�
 
 En ningún caso podrá participar en elecciones ordinarias o extraordinarias el partido político que hubiese perdido su registro con anterioridad a la fecha en que éstas deban realizarse. No obstante, podrá participar en una elección extraordinaria el partido que hubiese perdido su registro, siempre y cuando hubiera participado con candidato en la elección ordinaria que fue anulada.
 
-### CAPÍTULO ÚNICO. DEMOCRACIA PARTICIPATIVA
+### CAPÍTULO IV. DE LOS PROCEDIMIENTOS Y MECANISMOS DE PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 362.
 
@@ -6804,7 +6848,7 @@ Para la recepción de la votación u opinión, se instalará un centro de votaci
 
 ## TITULO SEGUNDO. DE LA DEMOCRACIA
 
-### CAPITULO I. AMBITO TERRITORIAL DE VALIDEZ RESPECTO A LOS CARGOS DE ELECCION POPULAR
+### CAPÍTULO ÚNICO. DEMOCRACIA PARTICIPATIVA
 
 ###### Artículo 364.
 
@@ -6848,7 +6892,7 @@ Los Partidos Políticos que integran el Consejo General fungirán como garantes 
 
 ## TÍTULO TERCERO. DE LA GEOGRAFÍA ELECTORAL, LA COLABORACIÓN REGISTRAL Y ELECTORAL
 
-### CAPÍTULO II. DE LAS LISTAS NOMINALES DE ELECTORES Y SU REVISIÓN
+### CAPITULO I. AMBITO TERRITORIAL DE VALIDEZ RESPECTO A LOS CARGOS DE ELECCION POPULAR
 
 ###### Artículo 368.
 
@@ -6868,7 +6912,7 @@ Para efectos de este Libro se entenderá como colaboración registral al conjunt
 
 De conformidad con el artículo 41 de la Constitución Federal y la Ley General, el Instituto Electoral podrá celebrar convenios con el Instituto Nacional para la organización de los procesos electorales locales.
 
-### CAPÍTULO III. TÉCNICA CENSAL
+### CAPÍTULO II. DE LAS LISTAS NOMINALES DE ELECTORES Y SU REVISIÓN
 
 ###### Artículo 372.
 
@@ -6916,7 +6960,7 @@ En su caso, la Dirección Ejecutiva de Organización y Geoestadística Electoral
 
 Las Listas Nominales de Electores que se entreguen a los Partidos Políticos serán para su uso exclusivo y no podrán destinarse a finalidad u objeto distinto al de la revisión del Padrón Electoral y Listado Nominal. Cuando un Partido Político no desee conservarlas, deberá reintegrarlas al Instituto Electoral.
 
-### CAPITULO I. ACTOS PREVIOS A LA JORNADA ELECTORAL
+### CAPÍTULO III. TÉCNICA CENSAL
 
 ###### Artículo 378.
 
@@ -6954,7 +6998,7 @@ Los Partidos Políticos acreditados ante el Consejo General podrán presentar la
 
 DISPOSICIONES PRELIMINARES.
 
-### CAPÍTULO II. DE LA DOCUMENTACIÓN Y MATERIAL ELECTORAL
+### CAPITULO I. ACTOS PREVIOS A LA JORNADA ELECTORAL
 
 ###### Artículo 379.
 
@@ -7096,7 +7140,7 @@ Los Partidos Políticos o Coaliciones al realizar la sustitución de candidatos 
 
 Los Candidatos sin partido que obtengan su registro no podrán ser sustituidos en ninguna de las etapas del proceso electoral. Tratándose de la fórmula de Diputaciones al Congreso de la Ciudad de México, será cancelado el registro de la fórmula completa cuando falte el propietario. La ausencia del suplente no invalidará la fórmula.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA DOCUMENTACIÓN Y MATERIAL ELECTORAL
 
 ###### Artículo 386.
 
@@ -7214,7 +7258,7 @@ No se considerarán dentro de los topes de campaña los gastos que realicen los 
 
 ## TÍTULO QUINTO. CAMPAÑAS ELECTORALES
 
-### CAPÍTULO II. DISPOSICIONES PARA EL CONTROL DE LA PROPAGANDA ELECTORAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 395.
 
@@ -7236,7 +7280,7 @@ II. Sesenta días antes del término previsto para finalizar las campañas elect
 
 Las campañas electorales deberán concluir tres días antes de celebrarse la jornada electoral. El día de la jornada electoral y durante los tres días anteriores no se permitirá la celebración ni la difusión de reuniones o actos públicos de campaña, de propaganda o de proselitismo electorales. La contravención a esta disposición, será sancionada en los términos de la Ley Procesal.
 
-### CAPÍTULO III. REGLAS GENERALES PARA LA CELEBRACION DE DEBATES Y ENCUESTAS DE OPINIÓN
+### CAPÍTULO II. DISPOSICIONES PARA EL CONTROL DE LA PROPAGANDA ELECTORAL
 
 ###### Artículo 397.
 
@@ -7376,7 +7420,7 @@ La Dirección Ejecutiva de Asociaciones Políticas y Fiscalización del Institut
 
 El Instituto Electoral podrá convenir con el órgano electoral federal medidas para la coordinación e intercambio de información respecto a lo establecido en el presente Capítulo.
 
-### CAPÍTULO I. DE LA UBICACIÓN DE CASILLAS
+### CAPÍTULO III. REGLAS GENERALES PARA LA CELEBRACION DE DEBATES Y ENCUESTAS DE OPINIÓN
 
 ###### Artículo 409.
 
@@ -7418,7 +7462,7 @@ Los resultados oficiales de las elecciones, son exclusivamente los que den a con
 
 ## TÍTULO SEXTO. DE LAS CASILLAS ELECTORALES
 
-### CAPÍTULO II. DE LA DESIGNACIÓN DE LOS FUNCIONARIOS DE LAS MESAS DIRECTIVAS DE CASILLA
+### CAPÍTULO I. DE LA UBICACIÓN DE CASILLAS
 
 ###### Artículo 411.
 
@@ -7460,9 +7504,7 @@ III. En sesión del Consejo Distrital que se celebre en la última semana del me
 
 IV. La Secretaría Ejecutiva del Consejo General ordenará la publicación de la lista de ubicación de casillas aprobadas, a más tardar el 15 de junio del año de la elección y ordenará una segunda publicación de la lista, en su caso, con los ajustes correspondientes, la última semana de junio del año de la elección. Quien presida los Consejos Distritales harán lo propio en los lugares públicos comprendidos en su distrito.
 
-### CAPÍTULO III. DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS Y CANDIDATOS SIN PARTIDO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+### CAPÍTULO II. DE LA DESIGNACIÓN DE LOS FUNCIONARIOS DE LAS MESAS DIRECTIVAS DE CASILLA
 
 ###### Artículo 414.
 
@@ -7508,7 +7550,9 @@ Durante el procedimiento para la designación de funcionarios de casilla deberá
 
 El Instituto Electoral, promoverá la participación de los ciudadanos en las tareas electorales. Los ciudadanos designados para integrar las mesas directivas de casilla, podrán excusarse de su responsabilidad, únicamente por causa justificada o de fuerza mayor, presentando dicha excusa por escrito ante el organismo que lo designó.
 
-### CAPÍTULO IV. DE LOS OBSERVADORES ELECTORALES
+### CAPÍTULO III. DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS Y CANDIDATOS SIN PARTIDO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 416.
 
@@ -7600,7 +7644,7 @@ g) En todo tiempo podrán presentar escritos de incidentes que se susciten duran
 
 h) Podrán comprobar la presencia de los representantes de su Partido Político en las Mesas Directivas de Casilla y recibir de ellos los informes relativos a su desempeño.
 
-### CAPÍTULO I. GENERALIDADES
+### CAPÍTULO IV. DE LOS OBSERVADORES ELECTORALES
 
 ###### Artículo 419.
 
@@ -7668,7 +7712,7 @@ La actuación de los observadores se sujetará a las normas y lineamientos que e
 
 ## TITULO SÉPTIMO. DE LA JORNADA ELECTORAL
 
-### CAPÍTULO II. DE LA INSTALACIÓN Y APERTURA DE LAS CASILLAS
+### CAPÍTULO I. GENERALIDADES
 
 ###### Artículo 423.
 
@@ -7742,7 +7786,7 @@ Para la recepción continua y simultánea de los paquetes electorales, el Consej
 
 Cuando medie caso fortuito o causa de fuerza mayor, se considerará que existe una causa justificada para que los paquetes con los expedientes de casilla o los instrumentos electrónicos para la recepción de la votación no sean entregados inmediatamente al Consejo Distrital. Los Consejos Distritales durante los tres días previos a la elección y el mismo día de la elección solicitarán por escrito a los Partidos Políticos, Coaliciones y Candidatos sin partido retirar su propaganda de los lugares en donde se instalarán las casillas. En forma complementaria, los Consejos Distritales tomarán las medidas necesarias para el retiro de la propaganda en dichos lugares, en términos de lo dispuesto por este Código. En todo caso, se hará bajo la vigilancia y supervisión de los Consejeros Electorales y representantes de los Partidos Políticos, Coaliciones y Candidatos sin partido.
 
-### CAPÍTULO III. DE LA VOTACIÓN
+### CAPÍTULO II. DE LA INSTALACIÓN Y APERTURA DE LAS CASILLAS
 
 ###### Artículo 430.
 
@@ -7800,7 +7844,7 @@ III. Las boletas electorales serán rubricadas o selladas en la parte posterior 
 
 En el supuesto de que el representante del Partido Político o Candidato sin partido que resultó facultado en el sorteo se negare a rubricar o sellar las boletas, el representante que lo solicite tendrá ese derecho.
 
-### CAPÍTULO IV. DEL ESCRUTINIO Y CÓMPUTO EN LAS CASILLAS
+### CAPÍTULO III. DE LA VOTACIÓN
 
 ###### Artículo 433.
 
@@ -7874,9 +7918,7 @@ Quien presida declarará cerrada la votación al cumplirse alguno de los extremo
 
 El acta deberá ser firmada por los funcionarios y representantes de los Partidos Políticos y Candidatos sin partido; de conformidad con lo dispuesto en este Código y en su caso por la normatividad aplicable.
 
-### CAPÍTULO V. DE LA CLAUSURA DE LA CASILLA Y LA REMISIÓN AL CONSEJO DISTRITAL
-
-> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+### CAPÍTULO IV. DEL ESCRUTINIO Y CÓMPUTO EN LAS CASILLAS
 
 ###### Artículo 442.
 
@@ -8004,7 +8046,9 @@ La Secretaría de la Mesa Directiva de Casilla correspondiente estará encargado
 
 Cumplidas las acciones a que se refiere el artículo anterior, quienes presidan las Mesas Directivas de Casilla, fijarán avisos en lugar visible del exterior de las mismas, con los resultados de cada una de las elecciones, los que serán firmados por ellos y los representantes que así deseen hacerlo.
 
-### CAPÍTULO VI. DE LA SEGURIDAD EN EL DESARROLLO DE LA JORNADA ELECTORAL
+### CAPÍTULO V. DE LA CLAUSURA DE LA CASILLA Y LA REMISIÓN AL CONSEJO DISTRITAL
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 448.
 
@@ -8036,7 +8080,7 @@ El Consejo Distrital hará constar en el acta circunstanciada de recepción de l
 
 El Consejo General podrá establecer criterios con base en los cuales los Consejos Distritales autoricen a los auxiliares electorales para auxiliar a los Presidentes de las Mesas Directivas de Casilla en la entrega de los paquetes electorales.
 
-### CAPÍTULO I. REALIZACION DE LOS CÓMPUTOS DISTRITALES
+### CAPÍTULO VI. DE LA SEGURIDAD EN EL DESARROLLO DE LA JORNADA ELECTORAL
 
 ###### Artículo 450.
 
@@ -8064,7 +8108,7 @@ Los titulares de las Notarías Públicas en ejercicio mantendrán abiertas sus o
 
 ## TITULO OCTAVO. OBTENCION DE RESULTADOS ELECTORALES
 
-### CAPÍTULO II. DE LOS CÓMPUTOS FINALES
+### CAPÍTULO I. REALIZACION DE LOS CÓMPUTOS DISTRITALES
 
 ###### Artículo 451.
 
@@ -8222,9 +8266,7 @@ El Consejo General acordará lo necesario para la destrucción de la documentaci
 
 Se podrá exceptuar de lo anterior el material electoral que pueda ser reutilizado en otros procesos electorales o de participación ciudadana.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+### CAPÍTULO II. DE LOS CÓMPUTOS FINALES
 
 ###### Artículo 459.
 
@@ -8294,9 +8336,9 @@ La Presidencia del Consejo General una vez verificados los hechos a que se refie
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO ÚNICO (SIC). DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
 # LIBRO QUINTO (SIC). DE LA INTEGRACIÓN DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
@@ -8306,7 +8348,7 @@ La Presidencia del Consejo General una vez verificados los hechos a que se refie
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO I. REGLAS GENERALES
+### CAPÍTULO ÚNICO (SIC). DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8336,7 +8378,7 @@ En ningún caso los medios de impugnación, constitucionales o legales, producir
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO II. DE LA CONVOCATORIA Y POSTULACIÓN DE CANDIDATURAS
+### CAPÍTULO I. REGLAS GENERALES
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8380,7 +8422,7 @@ Para la notificación de acuerdos y resoluciones dirigidas a las personas candid
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO III. DE LA ORGANIZACIÓN DE LA ELECCIÓN
+### CAPÍTULO II. DE LA CONVOCATORIA Y POSTULACIÓN DE CANDIDATURAS
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8484,7 +8526,7 @@ En caso de fallecimiento, incapacidad, inhabilitación o declinación de alguna 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO IV. DE LA PROPAGANDA
+### CAPÍTULO III. DE LA ORGANIZACIÓN DE LA ELECCIÓN
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8536,7 +8578,7 @@ El Instituto Electoral podrá determinar la instalación y funcionamiento de los
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO V. DE LAS ENCUESTAS Y SONDEOS DE OPINIÓN
+### CAPÍTULO IV. DE LA PROPAGANDA
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8600,7 +8642,7 @@ El Instituto Electoral promoverá los perfiles de las personas candidatas a trav
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO VI. DE LOS FOROS DE DEBATES
+### CAPÍTULO V. DE LAS ENCUESTAS Y SONDEOS DE OPINIÓN
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8624,7 +8666,7 @@ La metodología, costos, personas responsables y resultados de las encuestas o s
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO VII. DE LAS CAMPAÑAS ELECTORALES
+### CAPÍTULO VI. DE LOS FOROS DE DEBATES
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8658,7 +8700,7 @@ Las entrevistas en las que participen las personas candidatas y sean difundidas 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO VIII. DE LA OBSERVACIÓN ELECTORAL
+### CAPÍTULO VII. DE LAS CAMPAÑAS ELECTORALES
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8712,7 +8754,7 @@ El incumplimiento a las disposiciones del presente artículo será sancionado co
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO IX. DE LAS ACTIVIDADES DEL INSTITUTO ELECTORAL PARA LA PROMOCIÓN DE LA ELECCIÓN DEL PODER JUDICIAL
+### CAPÍTULO VIII. DE LA OBSERVACIÓN ELECTORAL
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8732,7 +8774,7 @@ El Instituto Electoral podrá, de acuerdo a la suficiencia presupuestal, determi
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO X. DE LA ORGANIZACIÓN ELECTORAL
+### CAPÍTULO IX. DE LAS ACTIVIDADES DEL INSTITUTO ELECTORAL PARA LA PROMOCIÓN DE LA ELECCIÓN DEL PODER JUDICIAL
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8766,7 +8808,7 @@ En caso de incumplimiento de algunas de las reglas en materia de fiscalización 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO XI. DE LA ELECCIÓN POR UNA CIRCUNSCRIPCIÓN
+### CAPÍTULO X. DE LA ORGANIZACIÓN ELECTORAL
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8802,7 +8844,7 @@ La operación y funcionamiento de los Consejos Distritales se sujetará a las di
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO XII. DE LAS MESAS DIRECTIVAS DE CASILLA
+### CAPÍTULO XI. DE LA ELECCIÓN POR UNA CIRCUNSCRIPCIÓN
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8816,7 +8858,7 @@ El Instituto determinará la viabilidad de instalar Consejos Distritales Locales
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO XIII. DE LAS BOLETAS Y MATERIALES ELECTORALES
+### CAPÍTULO XII. DE LAS MESAS DIRECTIVAS DE CASILLA
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8858,7 +8900,7 @@ En los supuestos de que no exista casilla única, así como en las elecciones ex
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO XIV. DE LAS ACTIVIDADES EN MATERIA REGISTRAL Y DEL LISTADO NOMINAL
+### CAPÍTULO XIII. DE LAS BOLETAS Y MATERIALES ELECTORALES
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8894,7 +8936,7 @@ i) Las boletas estarán adheridas a un talón con folio, del cual serán despren
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO XV. DE LA JORNADA ELECTORAL
+### CAPÍTULO XIV. DE LAS ACTIVIDADES EN MATERIA REGISTRAL Y DEL LISTADO NOMINAL
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8908,7 +8950,7 @@ El corte definitivo del estadístico del Listado Nominal será aprobado por el C
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO XVI. DE LOS CÓMPUTOS Y SUMATORIA
+### CAPÍTULO XV. DE LA JORNADA ELECTORAL
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -8990,7 +9032,7 @@ V. De la recepción de los paquetes que contengan los expedientes de casilla, se
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO XVII. DE LA ENTREGA DE CONSTANCIAS DE MAYORÍA Y DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN
+### CAPÍTULO XVI. DE LOS CÓMPUTOS Y SUMATORIA
 
 > <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -9023,6 +9065,10 @@ Una vez que se haya computado la totalidad de las elecciones, los Consejos Distr
 Una vez que el Consejo General realice la sumatoria final, procederá a asignar los cargos por materia de especialización entre las candidaturas que hayan obtenido el mayor número de votos, observando la paridad de género, y publicará los resultados de la elección.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO XVII. DE LA ENTREGA DE CONSTANCIAS DE MAYORÍA Y DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 515.
 
@@ -9329,3 +9375,31 @@ G.O. 9 DE ABRIL DE 2026.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PUBLICA DE LA CIUDAD DE MÉXICO, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO; DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO; Y DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DE LA CIUDAD DE MÉXICO, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, con excepción de lo previsto en el Transitorio Séptimo de este Decreto.
+
+CUARTO.- La Persona Titular de la Jefatura de Gobierno de la Ciudad de México realizará las modificaciones reglamentarias que correspondan para la debida observancia del presente Decreto.
+
+QUINTO.- La Persona Titular de la Jefatura de Gobierno de la Ciudad de México expedirá el Decreto de creación del órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que hace referencia la fracción LII del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+
+SEXTO.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+SÉPTIMO.- Las fracciones LII, LIII, LIX, LX y LXI del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México entrarán en vigor cuando entre en funcionamiento el órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que se refiere la fracción LII del mencionado artículo.
+
+OCTAVO.- Los sujetos obligados, dependencias, órganos desconcentrados, alcaldías, órganos autónomos y demás entes públicos deberán realizar las adecuaciones administrativas, operativas y reglamentarias necesarias para el cumplimiento del presente Decreto dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+NOVENO.- El Congreso de la Ciudad de México, los órganos constitucionalmente autónomos y las demás autoridades competentes deberán armonizar sus reglamentos interiores, lineamientos y disposiciones normativas internas dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DECIMO.- Los procedimientos administrativos, solicitudes de acceso a la información, recursos de revisión, medios de impugnación, procedimientos de protección de datos personales y demás asuntos iniciados con anterioridad a la entrada en vigor del presente.
+
+DECIMO PRIMERO.- Con la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan al mismo.
+
+DECIMO SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
