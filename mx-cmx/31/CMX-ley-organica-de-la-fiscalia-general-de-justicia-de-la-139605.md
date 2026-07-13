@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-fiscalia-general-de-justicia-de-la-139605"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-24"
-last_updated: "2025-12-24"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139605&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-12-23"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE JULIO DE 2026.
 
 Ley publicada en el Número 248 Bis de la Gaceta Oficial de la Ciudad de México, el martes 24 de diciembre de 2019.
 
@@ -100,6 +100,10 @@ Para efectos de la presente ley se entenderá por:
 
 I. Centro: al Centro de Evaluación y Control de Confianza de la Fiscalía General del Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+I BIS. Autoridades Garantes: autoridad garante local; la Contraloría del Poder Judicial; los órganos internos de control o equivalentes de los órganos constitucionales autónomos y la Contraloría Interna del Congreso de la Ciudad de México. Las autoridades garantes gozarán de autonomía técnica y operativa en el ejercicio de las funciones establecidas en la presente.
+
 II. Código Nacional: al Código Nacional de Procedimientos Penales;
 
 III. Código Penal: al Código Penal para el Distrito Federal;
@@ -107,6 +111,10 @@ III. Código Penal: al Código Penal para el Distrito Federal;
 IV. Constitución Federal: a la Constitución Política de los Estados Unidos Mexicanos;
 
 V. Constitución Local: a la Constitución Política del Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+V BIS. Comité del Subsistema de Transparencia: órgano colegiado rector del Subsistema de Transparencia de la Ciudad, de conformidad con el artículo 32 de la Ley General de Transparencia y Acceso a la Información Pública;
 
 VI. Consejo de Asuntos Internos: al Órgano Colegiado denominado Consejo de Asuntos Internos de la Fiscalía General de Justicia de la Ciudad de México;
 
@@ -129,6 +137,10 @@ XIII. Igualdad Sustantiva: a la igualdad distributiva, que analiza las desiguald
 XIV. Ley: a Ley Orgánica de la Fiscalía General de Justicia de la Ciudad de México;
 
 XV. Ley General del Sistema: a la Ley General del Sistema Nacional de Seguridad Pública;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XV BIS. Ley de Transparencia: Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México;
 
 XVI. Modelo: al modelo de Procuración de Justicia para la conducción de la investigación y acusación de los delitos, así como de operación de la Fiscalía;
 
@@ -204,15 +216,15 @@ VIII. Facilitar la participación ciudadana en el diseño de las políticas púb
 
 IX. Proponer la política criminal y el plan correspondiente en el ámbito local.
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 10.
 
 Publicidad y Transparencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+La Fiscalía General garantizará el acceso a la información pública generada en el marco de sus atribuciones, conforme a lo establecido en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y demás normatividad aplicable, a través de la Unidad de Estadística y Transparencia.
 
-La Fiscalía General garantizará el acceso a la información pública generada en el marco de sus atribuciones, conforme a lo establecido en la Ley de la materia, y demás normatividad aplicable, estableciendo la Unidad de Estadística y la Unidad de Trasparencia, en términos de la normativa aplicable.
-
-Respecto a las investigaciones relacionadas con las violaciones a los Derechos Humanos, se estará a lo dispuesto por el artículo 5 de la Ley General de Transparencia y Acceso a la Información Púbica.
+Respecto de las investigaciones relacionadas con violaciones a derechos humanos, se estará a lo dispuesto por el artículo 5 de la Ley General de Transparencia y Acceso a la Información Pública, y por la normativa aplicable en materia de protección de datos personales.
 
 ###### Artículo 11.
 
@@ -690,9 +702,9 @@ VI. Emitir el Reglamento de esta Ley;
 
 VII. Establecer mediante Reglamento o acuerdo, los órganos colegiados, grupos técnicos, grupos especializados, comités de análisis y evaluación, comités de trabajo, unidades administrativas, unidades operativas, especiales, fiscalías, centros, y dictar las medidas, registros, protocolos y controles para gestionar y normar las facultades conferidas al Ministerio Público de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-VIII. Crear una Unidad Administrativa de Estadística, así como la Unidad de Transparencia en términos de la legislación en la materia;
+VIII. Crear una Unidad Interna de Estadística y Transparencia, que garantice la publicación oportuna de información, de conformidad con esta Ley y con la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México;
 
 IX. Expedir reglas para la administración eficiente de los recursos materiales y humanos de la institución y ejercer las facultades administrativas, fiscales y hacendarias que señalen las leyes;
 
@@ -700,7 +712,9 @@ X. Instituir mecanismos de asistencia con las instituciones de seguridad ciudada
 
 XI. Establecer un servicio profesional de carrera, con reglas para la selección, ingreso, formación, promoción y permanencia de las personas servidoras públicas, con arreglo a la Ley;
 
-XII. Emitir las reglas conforme a las cuales sistematizará la información bajo su resguardo, acorde a los lineamientos establecidos en la ley respectiva;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XII. Emitir las reglas conforme a las cuales sistematizará la información bajo su resguardo, acorde con los lineamientos y disposiciones generales aplicables en materia de transparencia, acceso a la información pública y protección de datos personales, en el ámbito de sus respectivas competencias;
 
 XIII. Participar en las instancias relacionadas con los sistemas local, regional y nacional de seguridad, así como con las alcaldías y demás entes públicos;
 
@@ -2512,11 +2526,11 @@ La Fiscalía General aplicará en lo que corresponda a su competencia, las dispo
 
 La persona Titular de la Fiscalía General, deberá participar por si o a través de la Unidad Administrativa que designe, en el Sistema Nacional de Seguridad Pública, el Sistema de Seguridad Ciudadana de la Ciudad de México, la Conferencia Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de Justicia, y en los mecanismos, protocolos y registros previstos en otras leyes, para dar cumplimiento a los compromisos institucionales e instrumentos legales Nacionales e Internacionales y administrativos.
 
-> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 93.
 
-Como parte de la coordinación en materia de seguridad ciudadana, procuración y administración de justicia, la Fiscalía General, en el ámbito de sus competencias, y previo convenio o acuerdo de colaboración, intercambiará, suministrará y sistematizará, según sea el caso, los datos que se generen para coadyuvar a los Sistemas de Seguridad Ciudadana. Asimismo, podrá utilizar la información vertida por los Sistemas en el ámbito de la investigación y persecución de delitos, observando los requerimientos de las leyes de transparencia, acceso a la información y protección de datos personales.
+Como parte de la coordinación en materia de seguridad ciudadana, procuración y administración de justicia, la Fiscalía General, en el ámbito de sus competencias, y previo convenio de colaboración, intercambiará, suministrará y sistematizará, según sea el caso, los datos que se generen para coadyuvar a los Sistemas de Seguridad Ciudadana. Asimismo, podrá utilizar la información vertida por los Sistemas en el ámbito de la investigación y persecución de delitos, observando los requerimientos de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México, así como demás disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
@@ -2604,7 +2618,9 @@ El Consejo Ciudadano se auxiliará con una Secretaría Técnica, así como con e
 
 ## TITULO DÉCIMO PRIMERO. DEL CONTROL INTERNO
 
-### Capítulo Único.
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
+### Capítulo I. Del Control Interno
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
@@ -2677,6 +2693,24 @@ La designación de la persona Titular del Órgano Interno de Control de la Fisca
 > <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 La persona titular del Órgano Interno de Control de la Fiscalía General durará en su encargo seis años, sin posibilidad de reelección.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2026)</small>
+
+### Capítulo II. De la Integración al Comité del Subsistema de Transparencia de la Ciudad de México y de las Funciones del Órgano Interno de Control como Autoridad Garante
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 103.
+
+La persona titular del Órgano Interno de Control será integrante, en representación de la Fiscalía General de Justicia de la Ciudad de México, del Comité del Subsistema de Transparencia de la Ciudad de México, de conformidad con lo dispuesto en el artículo 28 de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
+
+Su participación se ejercerá conforme a la legislación local en la materia y, en lo conducente, dentro de los mecanismos de coordinación previstos en la Ley General de Transparencia y Acceso a la Información Pública, con el objeto de asegurar la articulación institucional y la armonización normativa entre el orden local y el federal.
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 104.
+
+Además de las atribuciones que le corresponden en materia de control interno, el Órgano Interno de Control fungirá como Autoridad Garante, en términos de lo dispuesto en el Título Segundo, Capítulo II denominado "De las autoridades garantes y la autoridad garante local", de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México, así como de la normativa aplicable en materia de protección de datos personales, para garantizar el ejercicio del derecho de acceso a la información pública, la privacidad y la protección de datos personales.
 
 ## TRANSITORIOS
 
@@ -2879,3 +2913,31 @@ DÉCIMO CUARTO. El establecimiento del Modelo de Gestión y Procesamiento de Cas
 DÉCIMO QUINTO. La Coordinación General de Administración de la Fiscalía General gestionará y proporcionará los recursos materiales, el capital humano y los recursos financieros que se requieran para el cumplimiento del presente Decreto, y realizará las adecuaciones orgánicas y administrativas necesarias para su observancia.
 
 DÉCIMO SEXTO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se cubrirán mediante movimientos compensados conforme a las disposiciones jurídicas aplicables con cargo al presupuesto autorizado a la Fiscalía General de Justicia de la Ciudad de México, por lo que no se autorizarán ampliaciones a su presupuesto.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PUBLICA DE LA CIUDAD DE MÉXICO, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO; DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO; Y DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DE LA CIUDAD DE MÉXICO, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES".]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, con excepción de lo previsto en el Transitorio Séptimo de este Decreto.
+
+CUARTO.- La Persona Titular de la Jefatura de Gobierno de la Ciudad de México realizará las modificaciones reglamentarias que correspondan para la debida observancia del presente Decreto.
+
+QUINTO.- La Persona Titular de la Jefatura de Gobierno de la Ciudad de México expedirá el Decreto de creación del órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que hace referencia la fracción LII del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+
+SEXTO.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+SÉPTIMO.- Las fracciones LII, LIII, LIX, LX y LXI del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México entrarán en vigor cuando entre en funcionamiento el órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que se refiere la fracción LII del mencionado artículo.
+
+OCTAVO.- Los sujetos obligados, dependencias, órganos desconcentrados, alcaldías, órganos autónomos y demás entes públicos deberán realizar las adecuaciones administrativas, operativas y reglamentarias necesarias para el cumplimiento del presente Decreto dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+NOVENO.- El Congreso de la Ciudad de México, los órganos constitucionalmente autónomos y las demás autoridades competentes deberán armonizar sus reglamentos interiores, lineamientos y disposiciones normativas internas dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DECIMO.- Los procedimientos administrativos, solicitudes de acceso a la información, recursos de revisión, medios de impugnación, procedimientos de protección de datos personales y demás asuntos iniciados con anterioridad a la entrada en vigor del presente.
+
+DECIMO PRIMERO.- Con la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan al mismo.
+
+DECIMO SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
