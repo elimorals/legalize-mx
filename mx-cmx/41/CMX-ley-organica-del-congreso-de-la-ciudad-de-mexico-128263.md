@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2026-06-23"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -90,6 +90,10 @@ III. Auditoría: La Auditoría Superior de la Ciudad de México;
 
 IV. Canal de Televisión: El Canal de Televisión del Congreso de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+IV BIS. Autoridades Garantes: autoridad garante local; la Contraloría del Poder Judicial; los órganos internos de control o equivalentes de los órganos constitucionales autónomos y la contraloría interna del Congreso de la Ciudad de México. Las autoridades garantes gozarán de autonomía técnica y operativa en el ejercicio de las funciones establecidas en la presente.
+
 V. Ciudad: La Ciudad de México;
 
 > <small>(REFORMADA, G.O. 8 DE JULIO DE 2019)</small>
@@ -103,6 +107,10 @@ VII. Comité: Es el órgano auxiliar interno de carácter administrativo integra
 VIII. Conferencia: La Conferencia para la Dirección y Programación de los Trabajos Legislativos;
 
 IX. Congreso: El Congreso de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+IX BIS. Comité del Subsistema de Transparencia: órgano colegiado rector del Subsistema de Transparencia de la Ciudad, de conformidad con el artículo 32 de la Ley General de Transparencia y Acceso a la Información Pública;
 
 X. Constitución Local: La Constitución Política de la Ciudad de México;
 
@@ -175,6 +183,10 @@ XXXIII Bis. Paridad: la paridad es un principio que tiene como finalidad generar
 En la interpretación y aplicación del principio de paridad de género se atenderá la proporcionalidad, y en todo caso, se favorecerá a las mujeres como medida de acción afirmativa.
 
 XXXIV. Pleno: Es el máximo órgano de dirección del Congreso reunido conforme las reglas del quórum;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XXXIV BIS. Ley de Transparencia: Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México;
 
 XXXV. Pregunta parlamentaria: Solicitud de información que realiza el Congreso al Poder Ejecutivo, alcaldías, órganos, dependencias y entidades, los cuales contarán con un plazo de 30 días naturales para responder;
 
@@ -374,7 +386,7 @@ XXVII. Designar a la persona titular Secretaria de la Contraloría General, de c
 
 XXVIII. Designar a las personas titulares de las Subsecretarías de Prevención a la Corrupción y Auditoría, de Control y Evaluación y de Legalidad y Responsabilidades, de conformidad a lo establecido en la Constitución Local y la presente ley;
 
-XXIX. Designar a las y los comisionados del Instituto de Transparencia y Acceso a la Información Pública y Rendición de Cuentas de la Ciudad, lo anterior de conformidad a lo establecido en la Constitución Política, la Constitución Local, la presente ley y las leyes aplicables
+XXIX. (DEROGADA, G.O. 13 DE JULIO DE 2026)
 
 XXX. Designar a las y los Defensores Demarcacionales de Derechos Humanos correspondientes a cada una de las Alcaldías, que deberán durar en su cargo cuatro años, contando a partir de la fecha de su designación, pudiendo ser reelectos por el Congreso por una sola vez y por igual periodo;
 
@@ -1882,21 +1894,41 @@ A la Oficialía Mayor le corresponderá realizar las facultades señaladas en el
 
 El Congreso contará con una Contraloría Interna que ejercerá sus funciones en el marco del Sistema Anticorrupción nacional y local.
 
-La Contraloría Interna del Congreso tendrá a su cargo la auditoría interna del ejercicio del presupuesto de egresos del Congreso, incluyendo recursos asignados a los Grupos Parlamentarios, los que deberán presentar un informe semestral a la contraloría con la debida justificación del uso y destino de los recursos que el Congreso les otorgue. La contraloría auditará a los Grupos Parlamentarios respecto del ejercicio de los recursos que les sean asignados por el Congreso. La Contraloría presentará al Pleno, por conducto de la Junta, un informe semestral sobre el ejercicio del presupuesto de egresos del Congreso.
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
+La Contraloría Interna del Congreso tendrá a su cargo la auditoría interna del ejercicio del presupuesto de egresos del Congreso, incluyendo los recursos asignados a los Grupos Parlamentarios, los que deberán presentar un informe semestral a la Contraloría con la debida justificación del uso y destino de los recursos que el Congreso les otorgue. La Contraloría auditará a los Grupos Parlamentarios y Asociaciones Parlamentarias respecto del ejercicio de los recursos que les sean asignados por el Congreso. La Contraloría presentará al Pleno, por conducto de la Junta, un informe semestral sobre el ejercicio del presupuesto de egresos del Congreso.
 
 Las resoluciones de la o el titular de la Contraloría se darán a conocer previamente a la Junta.
 
 A la Contraloría Interna le corresponderá realizar las facultades señaladas en la Constitución Política, la Constitución Local, la presente ley y los artículos 498, 499, 500, 501 y 502 del Reglamento, así como los requisitos para ser la o el titular de la misma.
 
-### CAPÍTULO V. De la Tesorería
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2026)</small>
 
-### CAPÍTULO VI. Del Instituto de Investigaciones Legislativas
+### CAPÍTULO IV BIS. De la Integración de la Contraloría Interna al Comité del Subsistema de Transparencia de la Ciudad de México y de sus Funciones como Autoridad Garante
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 97 Bis.
+
+La persona titular de la Contraloría Interna será integrante, en representación del Congreso de la Ciudad de México, del Comité del Subsistema de Transparencia de la Ciudad de México, de conformidad con lo dispuesto en el artículo 28 de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
+
+Su participación se ejercerá conforme a la legislación local en la materia y, en lo conducente, dentro de los mecanismos de coordinación previstos en la Ley General de Transparencia y Acceso a la Información Pública, con el objeto de asegurar la articulación institucional y la armonización normativa entre el orden local y el federal.
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 97 Ter.
+
+Además de las atribuciones que le corresponden en materia de control interno, la Contraloría Interna fungirá como Autoridad Garante en el ámbito del Congreso de la Ciudad de México y de la Auditoría Superior de la Ciudad de México, en términos de lo dispuesto en el Título Segundo, Capítulo II, denominado “De las autoridades garantes y la autoridad garante local”, de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México, así como de la normativa aplicable en materia de protección de datos personales.
+
+El ejercicio de dichas atribuciones tendrá por objeto garantizar el derecho de acceso a la información pública, la protección de datos personales y el adecuado manejo de la información en posesión del Congreso y de la Auditoría Superior de la Ciudad de México, conforme a las disposiciones legales aplicables.
+
+### CAPÍTULO V. De la Tesorería
 
 ###### Artículo 98.
 
 A la Tesorería le corresponde, dirigir, supervisar, administrar, registrar y controlar los recursos financieros para posibilitar el desarrollo de los objetivos y funciones del Congreso, de conformidad con la normatividad y bajo un marco de eficiencia, eficacia, honradez, transparencia, austeridad y racionalidad del gasto.
 
-### CAPÍTULO VII. De la Coordinación de Comunicación Social
+### CAPÍTULO VI. Del Instituto de Investigaciones Legislativas
 
 ###### Artículo 99.
 
@@ -1906,15 +1938,15 @@ Al Instituto de Investigaciones Legislativas le corresponderá realizar las facu
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO VIII. Del Canal de Televisión
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE DICIEMBRE DE 2025)</small>
+### CAPÍTULO VII. De la Coordinación de Comunicación Social
 
 ###### Artículo 100.
 
 (DEROGADO, G.O. 8 DE DICIEMBRE DE 2025)
 
-### CAPÍTULO IX. De la Unidad de Transparencia
+### CAPÍTULO VIII. Del Canal de Televisión
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 101.
 
@@ -1926,7 +1958,7 @@ Su objetivo será transmitir, video grabar, reseñar y difundir, a través de la
 
 Al Canal de Televisión, le corresponderá realizar las facultades señaladas en la presente ley y los artículos 513, 514, 515, 516, 517, 518, 519, 520 del Reglamento, así como los requisitos para ser la o el titular de la misma.
 
-### CAPÍTULO X. De la Unidad de Estudios de las Finanzas Públicas
+### CAPÍTULO IX. De la Unidad de Transparencia
 
 ###### Artículo 102.
 
@@ -1936,7 +1968,7 @@ A la Unidad de Transparencia, le corresponderá realizar las facultades señalad
 
 El Congreso, contemplará la inclusión de principios, políticas y mecanismos de apertura gubernamental en materia de transparencia, rendición de cuentas y participación ciudadana, impulsando preferentemente la utilización de tecnologías de la información al interior de las Comisiones, Comités y Unidades Administrativas.
 
-### CAPÍTULO XI. Del Centro de Estudios para la Igualdad de Género
+### CAPÍTULO X. De la Unidad de Estudios de las Finanzas Públicas
 
 ###### Artículo 103.
 
@@ -1948,7 +1980,7 @@ La Unidad de Estudios de las Finanzas Públicas contará con una Oficina Presupu
 
 A la Unidad de Estudios y Finanzas Públicas le corresponderá realizar las facultades señaladas en la Constitución Política, la Constitución Local, las aplicables, la presente ley y los artículos 523, 524, 525 y 526 del Reglamento, así como los requisitos para ser la o el titular de la misma.
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+### CAPÍTULO XI. Del Centro de Estudios para la Igualdad de Género
 
 ###### Artículo 104.
 
@@ -1962,7 +1994,7 @@ La Directora del Centro, deberá contar con la trayectoria y perfil profesional 
 
 ## TÍTULO NOVENO. DEL SERVICIO PARLAMENTARIO DE CARRERA
 
-### CAPÍTULO I. De la Iniciativa Ciudadana
+### CAPÍTULO ÚNICO. Disposiciones Generales
 
 ###### Artículo 105.
 
@@ -1988,7 +2020,7 @@ La Coordinación de Servicios Parlamentarios elaborará un proyecto de Reglament
 
 ## TÍTULO DÉCIMO. DE LA INICIATIVA CIUDADANA Y PREFERENTE
 
-### CAPÍTULO II. De la Iniciativa Preferente
+### CAPÍTULO I. De la Iniciativa Ciudadana
 
 ###### Artículo 107.
 
@@ -2008,7 +2040,7 @@ En el caso de iniciativas ciudadanas que versen sobre el texto de un Programa de
 
 Una vez que las y los integrantes de las Comisiones resuelvan sobre el sentido del proyecto, se remitirá el dictamen al Pleno del Congreso de conformidad con lo establecido en el reglamento de la presente ley.
 
-### CAPÍTULO I. De los procedimientos
+### CAPÍTULO II. De la Iniciativa Preferente
 
 ###### Artículo 109.
 
@@ -2038,7 +2070,7 @@ III. La discusión y votación sólo se abocará a la iniciativa preferente, de 
 
 ## TÍTULO DÉCIMO PRIMERO. DE LAS DESIGNACIONES, NOMBRAMIENTOS Y RATIFICACIONES
 
-### CAPÍTULO II. De la o el Jefe de Gobierno
+### CAPÍTULO I. De los procedimientos
 
 ###### Artículo 112.
 
@@ -2084,13 +2116,13 @@ Para el caso de aprobación, las y los candidatos designados, nombrados o ratifi
 
 “Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política de la Ciudad de México y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de (según sea el caso) del (autoridad que corresponda) mirando en todo por el bien y prosperidad de la Unión y de la Ciudad de México, y si así no lo hiciere que el pueblo me lo demande.”
 
-### CAPÍTULO III. Del Nombramiento del Gabinete en caso de Gobierno de Coalición
+### CAPÍTULO II. De la o el Jefe de Gobierno
 
 ###### Artículo 116.
 
 Para la designación que debe realizar el Congreso en caso de falta absoluta de la o el Jefe de Gobierno, se estará a lo dispuesto en lo mandatado en el artículo 18 de la presente ley.
 
-### CAPÍTULO IV. Del Nombramiento del Consejo Judicial Ciudadano
+### CAPÍTULO III. Del Nombramiento del Gabinete en caso de Gobierno de Coalición
 
 ###### Artículo 117.
 
@@ -2112,7 +2144,7 @@ III. Recibido el acuerdo por la Mesa Directiva se convocará al Pleno del Congre
 
 Cuando deba cubrirse una vacante por causa de renuncia, cese, defunción, o cualquiera que sea, se estará a lo dispuesto en el Código de Instituciones y Procedimientos Electorales de la Ciudad de México y la Ley Orgánica de la Administración Publica de la Ciudad de México.
 
-### CAPÍTULO V. Del Nombramiento y Ratificación de la o el Fiscal General de la Ciudad de México
+### CAPÍTULO IV. Del Nombramiento del Consejo Judicial Ciudadano
 
 ###### Artículo 118.
 
@@ -2132,7 +2164,7 @@ b) Proponer, con la aprobación de las dos terceras partes de sus integrantes, a
 
 c) Proponer al Congreso las ternas para elegir a las y los fiscales especializados en materia electoral y de combate a la corrupción.
 
-### CAPÍTULO VI. Del Fiscal Anticorrupción de la Ciudad de México
+### CAPÍTULO V. Del Nombramiento y Ratificación de la o el Fiscal General de la Ciudad de México
 
 ###### Artículo 119.
 
@@ -2180,7 +2212,7 @@ En esta nueva terna podrán estar incluidas las dos personas que estaban propues
 
 Este procedimiento se seguirá hasta en tanto se nombre a la o el Titular de la Fiscalía General de Justicia de la Ciudad de México.
 
-### CAPÍTULO VII. De las Personas Titulares de las Fiscalías Especializadas en Materia Electoral y Combate a la Corrupción
+### CAPÍTULO VI. Del Fiscal Anticorrupción de la Ciudad de México
 
 ###### Artículo 121.
 
@@ -2210,13 +2242,13 @@ IX. No haber desempeñado el cargo de Magistrada o Magistrado del Tribunal Super
 
 X. Presentar las declaraciones patrimonial, de intereses y fiscal.
 
-### CAPÍTULO VIII. De las Fiscalías Especializadas y las Unidades de Atención Temprana
+### CAPÍTULO VII. De las Personas Titulares de las Fiscalías Especializadas en Materia Electoral y Combate a la Corrupción
 
 ###### Artículo 123.
 
 Las y los Fiscales Especializados en Materia Electoral y Combate a la Corrupción de la Ciudad de México, se hará conforme al artículo 120 de la presente ley, con la aprobación de la mayoría calificada del Congreso.
 
-### CAPÍTULO IX. Del Nombramiento de la Persona Titular de la Entidad de Fiscalización
+### CAPÍTULO VIII. De las Fiscalías Especializadas y las Unidades de Atención Temprana
 
 ###### Artículo 124.
 
@@ -2224,15 +2256,13 @@ Las y los titulares de las Unidades de Atención Temprana, serán nombrados a pr
 
 El procedimiento para su nombramiento se hará de conformidad con el Artículo 44, Apartado C, de la Constitución Local y las reglas generales del Capítulo I, del Presente Título.
 
-### CAPÍTULO X. De las y los integrantes del Comité de Participación Ciudadana
+### CAPÍTULO IX. Del Nombramiento de la Persona Titular de la Entidad de Fiscalización
 
 ###### Artículo 125.
 
 Para el nombramiento de la persona titular de la Entidad de Fiscalización de la Ciudad de México, se hará conforme al artículo 120 de la presente ley, con aprobación de las dos terceras partes de las y los Diputados presentes en Sesión.
 
-### CAPÍTULO XI. De la o el Secretario Técnico de la Secretaría Ejecutiva del Sistema Anticorrupción de la Ciudad de México
-
-> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2023)</small>
+### CAPÍTULO X. De las y los integrantes del Comité de Participación Ciudadana
 
 ###### Artículo 126.
 
@@ -2286,7 +2316,7 @@ f) El plazo máximo de noventa días en que se deberá hacer la designación que
 
 En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de sesenta días y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar.
 
-### CAPÍTULO XII. Del Comité Consultivo del Sistema de Fiscalización de la Ciudad de México
+### CAPÍTULO XI. De la o el Secretario Técnico de la Secretaría Ejecutiva del Sistema Anticorrupción de la Ciudad de México
 
 > <small>(REFORMADO, G.O. 22 DE JUNIO DE 2023)</small>
 
@@ -2312,7 +2342,9 @@ VI. Presentar sus declaraciones de intereses, patrimonial y fiscal, de forma pre
 
 VII. No ser Secretaria o Secretario de Estado, ni Procuradora o Procurador General de la República, Subsecretario u Oficial Mayor en la Administración Pública Federal, Jefa o Jefe de Gobierno de la Ciudad de México, Procurador General de Justicia de la Ciudad de México, titular de alguna dependencia, o de cualquier Órgano Autónomo, ni Magistrada o Magistrado del Tribunal Superior de Justicia o Consejero de la Judicatura de la Ciudad de México, a menos que se haya separado de su cargo un año antes del día de su designación.
 
-### CAPÍTULO XIII. De la Persona Titular de la Defensoría Pública de Participación Ciudadana y de Procesos Democráticos
+### CAPÍTULO XII. Del Comité Consultivo del Sistema de Fiscalización de la Ciudad de México
+
+> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 130.
 
@@ -2336,9 +2368,7 @@ VI. Una o un representante de algún centro de investigación de prestigio y rec
 
 Todas las organizaciones a que se refieren las fracciones anteriores, deberán estar formalmente constituidas y con sede en la Ciudad de México.
 
-### CAPÍTULO XIV. De las y los Magistrados del Tribunal Superior de Justicia de la Ciudad de México
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2022)</small>
+### CAPÍTULO XIII. De la Persona Titular de la Defensoría Pública de Participación Ciudadana y de Procesos Democráticos
 
 ###### Artículo 132.
 
@@ -2346,7 +2376,9 @@ La Persona Titular de la Defensoría Pública de Participación Ciudadana y de P
 
 El procedimiento para su nombramiento se hará de conformidad con las reglas generales artículo 120 de la presente ley.
 
-### CAPÍTULO XV. De los Consejos Ciudadanos Honoríficos y su Integración
+### CAPÍTULO XIV. De las y los Magistrados del Tribunal Superior de Justicia de la Ciudad de México
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2022)</small>
 
 ###### Artículo 133.
 
@@ -2362,7 +2394,7 @@ Las y los Magistrados durarán seis años en su cargo y podrán ser ratificados,
 
 El procedimiento para su designación o ratificación se hará de conformidad con las reglas generales del artículo 113 de la presente ley.
 
-### CAPÍTULO XVI. Del Nombramiento de las Personas Titulares y Consejeras de los Organismos Autónomos
+### CAPÍTULO XV. De los Consejos Ciudadanos Honoríficos y su Integración
 
 ###### Artículo 134.
 
@@ -2372,7 +2404,7 @@ El Congreso integrará estos consejos, mediante convocatoria pública abierta y 
 
 El procedimiento para su nombramiento se seguirá de conformidad con el artículo 46, Apartado C de la Constitución Local, y las reglas generales artículo 120 de la presente ley.
 
-### CAPÍTULO XVII. De la Secretaría de la Contraloría General
+### CAPÍTULO XVI. Del Nombramiento de las Personas Titulares y Consejeras de los Organismos Autónomos
 
 ###### Artículo 135.
 
@@ -2380,13 +2412,13 @@ Los Consejos ciudadanos de carácter honorífico por materia propondrán para la
 
 El procedimiento para los nombramientos señalados en el supuesto anterior se realizará de conformidad a lo establecido en las reglas generales del artículo 120 de la presente ley.
 
-### CAPÍTULO XVIII. De las Subsecretarías de la Secretaría de la Contraloría General
+### CAPÍTULO XVII. De la Secretaría de la Contraloría General
 
 ###### Artículo 136.
 
 Para el nombramiento de la persona titular de la Secretaría de la Contraloría General de la Ciudad de México, se hará conforme al artículo 120 de la presente ley, a propuesta en terna de la o el Jefe de Gobierno, con aprobación de las dos terceras partes de las y los Diputados presentes en Sesión. Durará en su encargo 7 años, con la posibilidad de ser ratificado por un periodo igual, y podrá ser removido por ésta o éste, de conformidad con las causas establecidas en la ley; el Congreso podrá objetar dicha determinación por las dos terceras partes de sus integrantes presentes.
 
-### CAPÍTULO XIX. De la o el Director del Instituto de Planeación Democrática y Prospectiva de la Ciudad de México
+### CAPÍTULO XVIII. De las Subsecretarías de la Secretaría de la Contraloría General
 
 ###### Artículo 137.
 
@@ -2404,7 +2436,7 @@ Las y los titulares durarán en su encargo siete años con posibilidad de reelec
 
 El procedimiento se realizará de conformidad con las reglas generales del artículo 120 de la presente Ley.
 
-### CAPÍTULO XX. De la Integración del Sistema Público de Radiodifusión de la Ciudad de México
+### CAPÍTULO XIX. De la o el Director del Instituto de Planeación Democrática y Prospectiva de la Ciudad de México
 
 ###### Artículo 138.
 
@@ -2414,7 +2446,7 @@ La o el Director General deberá ser un experto reconocido en planeación del de
 
 El procedimiento para su designación se seguirá de conformidad con las reglas generales del artículo 120 de la presente ley.
 
-### CAPÍTULO XXI. De las y los Magistrados de la Sala Superior y Ordinaria del Tribunal de Justicia Administrativa
+### CAPÍTULO XX. De la Integración del Sistema Público de Radiodifusión de la Ciudad de México
 
 ###### Artículo 139.
 
@@ -2422,7 +2454,7 @@ Las y los consejeros ciudadanos y la terna para la Dirección General del Sistem
 
 El procedimiento para sus designaciones se realizará de conformidad con el artículo 16, Apartado F, numeral 8 de la Constitución Local, y por las reglas generales del artículo 120 de la presente ley.
 
-### CAPÍTULO XXII. De la persona titular del Órgano Interno de Control del Tribunal de Justicia Administrativa
+### CAPÍTULO XXI. De las y los Magistrados de la Sala Superior y Ordinaria del Tribunal de Justicia Administrativa
 
 ###### Artículo 140.
 
@@ -2436,7 +2468,7 @@ Para ello, se desahogarán las comparecencias correspondientes, en las que se ga
 
 La Comisión de Administración y Procuración de Justicia, encargada del dictamen, deberán solicitar información a las autoridades, relativas a antecedentes penales y/o administrativos que consideren necesarias para acreditar la idoneidad de las propuestas.
 
-### CAPÍTULO XXIII. De los Órganos Internos de Control de la Administración Pública de la Ciudad y los Organismos Constitucionales Autónomos
+### CAPÍTULO XXII. De la persona titular del Órgano Interno de Control del Tribunal de Justicia Administrativa
 
 ###### Artículo 141.
 
@@ -2446,7 +2478,7 @@ La persona titular será designada por mayoría simple de las y los integrantes 
 
 El procedimiento para la designación se realizará de conformidad con las reglas generales del artículo 120 de la presente ley.
 
-### CAPÍTULO XXIV. Del Órgano Interno de Control de la Secretaría Ejecutiva del Sistema Anticorrupción de la Ciudad
+### CAPÍTULO XXIII. De los Órganos Internos de Control de la Administración Pública de la Ciudad y los Organismos Constitucionales Autónomos
 
 ###### Artículo 142.
 
@@ -2464,17 +2496,15 @@ Para el nombramiento de las y los titulares de los Órganos Internos de Control 
 
 El procedimiento para los nombramientos se realizará de conformidad con las reglas generales del artículo 120 de la presente Ley.
 
-### CAPÍTULO XXV. De la Comisión de Selección del Sistema Anticorrupción de la Ciudad de México
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JUNIO DE 2023)</small>
+### CAPÍTULO XXIV. Del Órgano Interno de Control de la Secretaría Ejecutiva del Sistema Anticorrupción de la Ciudad
 
 ###### Artículo 144.
 
 La Secretaría Ejecutiva contará con un Órgano de Control Interno, cuya persona titular será designada en los mismos términos que de la o el titular de la Secretaría de la Contraloría y deberá contar con el proceso de selección, evaluación y formación conforme al sistema de profesionalización que al efecto se establezca, contará con la estructura que dispongan las disposiciones jurídicas aplicables, lo anterior de conformidad con la Constitución Política, la Constitución Local, la presente ley y las leyes aplicables.
 
-### CAPÍTULO XXVI. De las y los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
+### CAPÍTULO XXV. De la Comisión de Selección del Sistema Anticorrupción de la Ciudad de México
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 145.
 
@@ -2512,47 +2542,19 @@ VI. El plazo máximo de noventa días en que se deberá hacer la designación qu
 
 En caso de que se generen vacantes imprevistas, el proceso de selección de la o el nuevo integrante no podrá exceder el límite de sesenta días y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 1 DE NOVIEMBRE DE 2018)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2026)</small>
 
-### CAPÍTULO XXVII. De las y los Consejeros del Consejo Consultivo de Desarrollo Urbano de la Ciudad de México
+### CAPÍTULO XXVI. De las y los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
 
 ###### Artículo 147.
 
-Para la designación de las y los Comisionados integrantes del Pleno del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de la Ciudad de México, el Congreso:
-
-> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
-
-I. A través de la Comisión de Transparencia, Protección de Datos Personales y Combate a la Corrupción, emitirá convocatoria pública abierta, en la que invitará a las y los interesados en postularse, y a organizaciones no gubernamentales, centros de investigación, colegios, barras y asociaciones de profesionistas, instituciones académicas y medios de comunicación para que presenten sus postulaciones de aspirantes a ocupar el cargo, siempre que cumplan con los requisitos señalados por el artículo 49 numeral 1, de la Constitución Local, y la ley de la materia, en un plazo no mayor a sesenta días anteriores a la fecha en que concluya su periodo el Comisionado que dejará su puesto;
-
-II. En la convocatoria se establecerán:
-
-a) Los plazos, lugares, horarios y condiciones de presentación de las solicitudes;
-
-b) Los requisitos y la forma de acreditarlos;
-
-c) El método de registro y el instrumento técnico de evaluación y calificación de las y los aspirantes;
-
-d) En su caso, las audiencias públicas para promover la participación ciudadana, en las que se podrá invitar a investigadores, académicos y a organizaciones de la sociedad civil, especialistas en las materias de acceso a la información, transparencia, datos personales, fiscalización y rendición de cuentas, y
-
-e) Se publicará en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en tres diarios de mayor circulación en la misma;
-
-III. Se publicará el currículum vitae de cada uno de las y los aspirantes;
-
-> <small>(REFORMADA, G.O. 22 DE JUNIO DE 2023)</small>
-
-IV. Con base en la evaluación de los perfiles, la Comisión de Transparencia, Protección de Datos Personales y Combate a la Corrupción, realizará la selección de aspirantes a Comisionados y remitirá su dictamen al Pleno del Congreso, para que éste realice la designación correspondiente;
-
-V. En la conformación del Pleno del Instituto, se garantizará que exista igualdad de género, por lo que deberá conformarse de al menos tres Comisionados de un género distinto al de la mayoría, se procurará la experiencia en materia de transparencia, acceso a la información, protección de datos personales y rendición de cuentas;
-
-VI. Una vez designados las y los Comisionados, deberán rendir protesta ante el Pleno;
-
-VII. La resolución de la designación de las y los Comisionados Ciudadanos que integrarán el Instituto, se publicará en la Gaceta Oficial y para su mayor difusión en tres diarios de mayor circulación en la misma.
-
-VIII. En caso de ocurrir una vacante por alguna circunstancia distinta a la conclusión del periodo para el que fue designado la o el Comisionado Ciudadano, el nombramiento se hará dentro del improrrogable plazo de sesenta días naturales posteriores a ser comunicada la ausencia.
+(DEROGADO, G.O. 13 DE JULIO DE 2026)
 
 ###### Artículo 148.
 
-Las y los Comisionados durarán en su encargo siete años improrrogables, sin posibilidad de reelección, serán sustituidos de forma escalonada para asegurar la operación del Instituto, tendrán las facultades que les confieren la Constitución Política, la Constitución Local, la presente ley, y las leyes aplicables.
+(DEROGADO, G.O. 13 DE JULIO DE 2026)
+
+### CAPÍTULO XXVII. De las y los Consejeros del Consejo Consultivo de Desarrollo Urbano de la Ciudad de México
 
 ###### Artículo 149.
 
@@ -3029,3 +3031,31 @@ G.O. 23 DE JUNIO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Congreso de la Ciudad de México.
 
 SEGUNDO. Remítase el presente Decreto a la Jefa de Gobierno de la Ciudad de México, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PUBLICA DE LA CIUDAD DE MÉXICO, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO; DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO; Y DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DE LA CIUDAD DE MÉXICO, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, con excepción de lo previsto en el Transitorio Séptimo de este Decreto.
+
+CUARTO.- La Persona Titular de la Jefatura de Gobierno de la Ciudad de México realizará las modificaciones reglamentarias que correspondan para la debida observancia del presente Decreto.
+
+QUINTO.- La Persona Titular de la Jefatura de Gobierno de la Ciudad de México expedirá el Decreto de creación del órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que hace referencia la fracción LII del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+
+SEXTO.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+SÉPTIMO.- Las fracciones LII, LIII, LIX, LX y LXI del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México entrarán en vigor cuando entre en funcionamiento el órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que se refiere la fracción LII del mencionado artículo.
+
+OCTAVO.- Los sujetos obligados, dependencias, órganos desconcentrados, alcaldías, órganos autónomos y demás entes públicos deberán realizar las adecuaciones administrativas, operativas y reglamentarias necesarias para el cumplimiento del presente Decreto dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+NOVENO.- El Congreso de la Ciudad de México, los órganos constitucionalmente autónomos y las demás autoridades competentes deberán armonizar sus reglamentos interiores, lineamientos y disposiciones normativas internas dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DECIMO.- Los procedimientos administrativos, solicitudes de acceso a la información, recursos de revisión, medios de impugnación, procedimientos de protección de datos personales y demás asuntos iniciados con anterioridad a la entrada en vigor del presente.
+
+DECIMO PRIMERO.- Con la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan al mismo.
+
+DECIMO SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
