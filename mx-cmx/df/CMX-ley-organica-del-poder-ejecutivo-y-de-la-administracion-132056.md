@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-ejecutivo-y-de-la-administracion-132056"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-13"
-last_updated: "2026-07-06"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132056&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-13"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en el Número 471 Bis en la Gaceta Oficial de la Ciudad de México, el jueves 13 de diciembre de 2018.
 
@@ -736,9 +736,11 @@ IX. Representar a la persona titular de la Jefatura de Gobierno, ante las autori
 
 X. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 28.
 
-A la Secretaría de la Contraloría General le corresponde el despacho de las materias relativas al control interno, auditoría, evaluación gubernamental; así como prevenir, investigar, substanciar y sancionar las faltas administrativas en el ámbito de la Administración Pública de la Ciudad y de las Alcaldías; de acuerdo a las leyes correspondientes.
+A la Secretaría de la Contraloría General le corresponde la promoción del derecho a la buena administración pública, el despacho de las materias relativas al control interno, auditoría, evaluación gubernamental; prevenir, investigar, sustanciar y sancionar las faltas administrativas; así como defender y garantizar el ejercicio de los derechos de acceso a la información pública y de protección de datos personales en el ámbito de la Administración Pública de la Ciudad y de las alcaldías, de acuerdo con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política de la Ciudad de México y las leyes correspondientes, bajo los principios de legalidad, certeza, imparcialidad, máxima publicidad y protección de datos personales.
 
 La Secretaría de la Contraloría General gozará de autonomía técnica y de gestión.
 
@@ -842,7 +844,73 @@ XLVI. Conforme a lo dispuesto en las leyes en la materia, así como en las bases
 
 XLVII. Implementar, administrar y operar los sistemas de información que sean necesarios para el ejercicio de sus atribuciones y suministrar la información para la Plataforma Digital de la Ciudad de México y la Plataforma Nacional en los términos de las disposiciones aplicables; y
 
-XLVIII. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XLVIII. Implementar y ejecutar mecanismos y acciones preventivas en materia de responsabilidades administrativas y aquellas vinculadas con la garantía del derecho a la buena administración en la actuación de la Administración Pública de la Ciudad y de las alcaldías;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XLIX. Recibir directamente o a través de los órganos internos de control, las denuncias, quejas o comunicaciones de las personas ante situaciones que puedan derivar en la negación de servicios públicos o posibles faltas administrativas, pudiendo requerir a las autoridades competentes la adopción de medidas de atención o corrección, así como realizar intervenciones preventivas inmediatas o de orientación;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+L. Promover mecanismos de mediación o conciliación administrativa, para la atención temprana de conflictos o inconformidades relacionados con la actuación administrativa y la prestación de servicios públicos, orientados a la adopción de medidas correctivas por parte de las autoridades competentes, sin perjuicio del ejercicio posterior de las facultades de control, fiscalización e investigación que correspondan;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+LI. Diseñar e implementar mecanismos de control y seguimiento de participación ciudadana, social o comunitaria orientados al control preventivo de la gestión pública, la vigilancia del servicio público y el derecho a la buena administración, privilegiando esquemas ágiles, territoriales y de intervención directa que fortalezcan la rendición de cuentas y la prevención de faltas administrativas, sin que ello implique sustitución de los mecanismos previstos en otras leyes;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+LII. Ejercer, en el ámbito de la Administración Pública de la Ciudad y de las alcaldías, con perspectiva de derechos humanos, género y no discriminación las atribuciones que correspondan a la autoridad garante en materia de transparencia, acceso a la información pública y protección de datos personales, de conformidad con la legislación general y local aplicable en la materia, a través del órgano desconcentrado que para tal efecto prevea la ley;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+LIII. Conocer, sustanciar y resolver los recursos y procedimientos previstos en la legislación en materia de transparencia, acceso a la información pública y protección de datos personales respecto de los sujetos obligados de la Administración Pública de la Ciudad y de las alcaldías, así como imponer, en el ámbito de su competencia, las medidas de apremio y sanciones que correspondan conforme a la ley;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+LIV. Impulsar la transparencia proactiva, la publicación de información en formatos abiertos, gobierno digital, y tecnología, accesibles e inclusivos para las personas, con perspectiva de derechos humanos, género y no discriminación, así como coordinar la política de gobierno de datos abiertos en la Administración Pública de la Ciudad y las alcaldías, promoviendo y socializando el acceso a la información.
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+LV. Establecer sistemas de rendición de cuentas claras, transparentes y oportunas, así como dirigir y vigilar el ejercicio de los derechos de acceso a la información pública y protección de datos personales dentro de la Secretaría de la Contraloría General y en los entes de la administración pública de la Ciudad;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+LVI. Dictar, en el ámbito de sus atribuciones, los lineamientos, criterios, políticas, bases y demás normatividad para la debida observancia y cumplimiento de las disposiciones en materia de transparencia, acceso a la información pública y protección de datos personales por los sujetos obligados;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+LVII. Asistir, orientar, asesorar y auxiliar a las personas para el ejercicio de los derechos de acceso a la información pública y protección de datos personales;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+LVIII. Implementar mecanismos de observación y difusión que permitan a las personas utilizar la información para la vigilancia y evaluación del desempeño de los sujetos obligados, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+LIX. Verificar que los sujetos obligados cumplan con las obligaciones en materia de transparencia y acceso a la información pública, para lo cual, además del monitoreo electrónico, podrá practicar visitas, inspecciones y revisiones, así como requerir información a los sujetos obligados que correspondan;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+LX. Conocer de los procedimientos relativos a la protección de los derechos de acceso a la información, protección de datos personales, verificación de obligaciones en dichas materias, así como de la imposición de sanciones a sujetos obligados en la Ciudad;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+LXI. Promover la capacitación y actualización de las personas servidoras públicas adscritas a los sujetos obligados, en materias de transparencia, acceso a la información pública y protección de datos personales;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+LXII. Presidir el Subsistema local de transparencia de la Ciudad;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+LXIII. Realizar visitas preventivas con el objeto de verificar la adecuada prestación de los servicios públicos y garantía del derecho a la buena administración, a fin de inhibir conductas irregulares y fortalecer el cumplimiento de las obligaciones administrativas, sin perjuicio de las facultades de auditoría, intervención e investigación que correspondan; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 13 DE JULIO DE 2026)</small>
+
+LXIV. Las demás que le confieran las leyes y otros ordenamientos jurídicos.
 
 ###### Artículo 29.
 
@@ -3759,3 +3827,31 @@ QUINTO. El Instituto del Deporte de la Ciudad de México quedará sectorizado a 
 SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizará ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PUBLICA DE LA CIUDAD DE MÉXICO, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO; DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO; Y DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DE LA CIUDAD DE MÉXICO, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, con excepción de lo previsto en el Transitorio Séptimo de este Decreto.
+
+CUARTO.- La Persona Titular de la Jefatura de Gobierno de la Ciudad de México realizará las modificaciones reglamentarias que correspondan para la debida observancia del presente Decreto.
+
+QUINTO.- La Persona Titular de la Jefatura de Gobierno de la Ciudad de México expedirá el Decreto de creación del órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que hace referencia la fracción LII del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+
+SEXTO.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+SÉPTIMO.- Las fracciones LII, LIII, LIX, LX y LXI del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México entrarán en vigor cuando entre en funcionamiento el órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que se refiere la fracción LII del mencionado artículo.
+
+OCTAVO.- Los sujetos obligados, dependencias, órganos desconcentrados, alcaldías, órganos autónomos y demás entes públicos deberán realizar las adecuaciones administrativas, operativas y reglamentarias necesarias para el cumplimiento del presente Decreto dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+NOVENO.- El Congreso de la Ciudad de México, los órganos constitucionalmente autónomos y las demás autoridades competentes deberán armonizar sus reglamentos interiores, lineamientos y disposiciones normativas internas dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DECIMO.- Los procedimientos administrativos, solicitudes de acceso a la información, recursos de revisión, medios de impugnación, procedimientos de protección de datos personales y demás asuntos iniciados con anterioridad a la entrada en vigor del presente.
+
+DECIMO PRIMERO.- Con la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan al mismo.
+
+DECIMO SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
