@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2026-06-23"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -5776,19 +5776,29 @@ En el Archivo Histórico Administrativo del Congreso deberán estar depositados 
 
 #### Sección Tercera. De la Contraloría Interna
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 498.
 
-La persona titular tiene a su cargo practicar auditorías, revisiones, investigaciones y verificaciones, recibir quejas y denuncias y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas así como conocer de los recursos de revocación, de conformidad con la Constitución Local y la ley, este reglamento y la ley de la materia y, llevar a cabo los procedimientos derivados de las inconformidades presentadas por contratistas y proveedores conforme a la normatividad aplicable.
+La persona titular de la Contraloría Interna tiene a su cargo practicar auditorías, revisiones, investigaciones y verificaciones; recibir quejas y denuncias; y sustanciar los procedimientos y sanciones inherentes a las responsabilidades administrativas, así como conocer de los recursos de revocación, de conformidad con la Constitución Local y la ley, este Reglamento y la legislación aplicable, así como llevar a cabo los procedimientos derivados de las inconformidades presentadas por contratistas y proveedores conforme a la normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+Asimismo, en su carácter de Autoridad Garante del Congreso, ejercerá las atribuciones que le confiera la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México en materia de acceso a la información pública y protección de datos personales, en el ámbito de competencia del Congreso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 499.
 
-Tendrá a su cargo la Auditoría interna del Ejercicio del Presupuesto de Egresos del Congreso, incluyendo recursos asignados a los Grupos Parlamentarios, los que deberán presentar un informe semestral a la Contraloría con la debida justificación del uso y destino de los recursos que el Congreso les otorgue. La Contraloría auditará a los Grupos Parlamentarios respecto del ejercicio de los recursos que les sean asignados por el Congreso, y para la mejor distribución y desarrollo del trabajo podrá auxiliarse de Subcontralores de Auditoría; Control y Evaluación; y de Legalidad y Responsabilidades; así como de las y los servidores públicos subalternos establecidos en la estructura que apruebe la Junta y/o el Comité de Administración, en el Manual de Organización y Procedimientos.
+Tendrá a su cargo la auditoría interna del Ejercicio del Presupuesto de Egresos del Congreso, incluyendo los recursos asignados a los Grupos Parlamentarios y Asociaciones Parlamentarias, los que deberán presentar un informe semestral a la Contraloría con la debida justificación del uso y destino de los recursos que el Congreso les otorgue. La Contraloría auditará a los Grupos Parlamentarios y Asociaciones Parlamentarias respecto del ejercicio de los recursos que les sean asignados por el Congreso, y para la mejor distribución y desarrollo del trabajo podrá auxiliarse de Subcontralorías de Auditoría; Control y Evaluación; y de Legalidad y Responsabilidades, así como de las personas servidoras públicas subalternas establecidas en la estructura que apruebe la Junta y/o el Comité de Administración, en el Manual de Organización y Procedimientos.
 
-La Contraloría Interna presentará al Pleno, por conducto de la Junta, un informe semestral sobre el ejercicio del presupuesto de egresos del Congreso.
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
-Las resoluciones del Contralor se darán a conocer previamente a la Junta.
+La Contraloría Interna presentará al Pleno, por conducto de la Junta, un informe semestral sobre el ejercicio del presupuesto de egresos del Congreso. Las resoluciones de la persona titular de la Contraloría se darán a conocer previamente a la Junta.
 
-Además tendrá las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 13 DE JULIO DE 2026)</small>
+
+Además, tendrá las siguientes atribuciones:
 
 I. Admitir, desahogar y resolver los recursos que se interpongan en contra de sus resoluciones;
 
@@ -5845,6 +5855,12 @@ XXV. Verificar el cumplimiento de los objetivos contenidos en los Programas del 
 XXVI. Verificar que las Unidades Administrativas que integran al Congreso cumplan con las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuesto, ingresos, egresos, financiamiento, inversión, deuda, fondos, valores y bienes de la Ciudad de México en administración del Congreso; así como las demás disposiciones relativas que dicte el Pleno del Congreso, y
 
 XXVII. Las demás que le sean atribuidas por la ley y demás disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 499 Bis.
+
+Además de las atribuciones que le corresponden en materia de control interno, la Contraloría Interna fungirá como Autoridad Garante, en términos de lo dispuesto en el Título Segundo, Capítulo II denominado “De las autoridades garantes y la autoridad garante local”, de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México, así como de la normativa aplicable en materia de protección de datos personales, para garantizar el ejercicio del derecho de acceso a la información pública, la privacidad y la protección de datos personales.
 
 ###### Artículo 500.
 
@@ -6873,3 +6889,31 @@ G.O. 23 DE JUNIO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Congreso de la Ciudad de México.
 
 SEGUNDO. Remítase el presente Decreto a la Jefa de Gobierno de la Ciudad de México, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PUBLICA DE LA CIUDAD DE MÉXICO, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO; DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO; Y DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DE LA CIUDAD DE MÉXICO, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. - Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México.
+
+SEGUNDO. - Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, con excepción de lo previsto en el Transitorio Séptimo de este Decreto.
+
+CUARTO. - La Persona Titular de la Jefatura de Gobierno de la Ciudad de México realizará las modificaciones reglamentarias que correspondan para la debida observancia del presente Decreto.
+
+QUINTO. - La Persona Titular de la Jefatura de Gobierno de la Ciudad de México expedirá el Decreto de creación del órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que hace referencia la fracción LII del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+
+SEXTO. - Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+SÉPTIMO. - Las fracciones LII, LIII, LIX, LX y LXI del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México entrarán en vigor cuando entre en funcionamiento el órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que se refiere la fracción LII del mencionado artículo.
+
+OCTAVO. - Los sujetos obligados, dependencias, órganos desconcentrados, alcaldías, órganos autónomos y demás entes públicos deberán realizar las adecuaciones administrativas, operativas y reglamentarias necesarias para el cumplimiento del presente Decreto dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+NOVENO. - El Congreso de la Ciudad de México, los órganos constitucionalmente autónomos y las demás autoridades competentes deberán armonizar sus reglamentos interiores, lineamientos y disposiciones normativas internas dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DECIMO. - Los procedimientos administrativos, solicitudes de acceso a la información, recursos de revisión, medios de impugnación, procedimientos de protección de datos personales y demás asuntos iniciados con anterioridad a la entrada en vigor del presente.
+
+DECIMO PRIMERO. - Con la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan al mismo.
+
+DECIMO SEGUNDO. - Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
