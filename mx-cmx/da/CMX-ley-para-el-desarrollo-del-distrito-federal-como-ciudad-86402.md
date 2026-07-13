@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-del-distrito-federal-como-ciudad-86402"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-29"
-last_updated: "2018-02-26"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86402&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2012-01-26"
 ---
 # LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO
 
-LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO
+LEY PARA EL DESARROLLO DE LA CIUDAD DE MÉXICO COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 29 de febrero de 2012.
 
@@ -48,7 +48,9 @@ DECRETO POR EL QUE SE EXPIDE LA LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO
 
 Se expide Ley para el Desarrollo del Distrito Federal como Ciudad Digital y del Conocimiento, para quedar como sigue:
 
-LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE JULIO DE 2026)</small>
+
+LEY PARA EL DESARROLLO DE LA CIUDAD DE MÉXICO COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO
 
 ## TÍTULO PRIMERO
 
@@ -100,7 +102,9 @@ Para efectos del presente ordenamiento, se entiende por:
 
 Agenda.- Agenda para el Desarrollo del Distrito Federal como Ciudad Digital y del Conocimiento;
 
-Administración Pública.- La Jefatura de Gobierno, dependencias, órganos desconcentrados, órganos político administrativos, empresas de participación estatal, fidecomisos públicos y demás entidades que conforman la administración pública central, desconcentrada y paraestatal del Distrito Federal, en términos de la Ley Orgánica del Distrito Federal;
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
+Administración Pública.- La Jefatura de Gobierno, dependencias, órganos desconcentrados, órganos político administrativos, empresas de participación estatal, fidecomisos públicos y demás entidades que conforman la administración pública central, desconcentrada y paraestatal de la Ciudad de México, en términos de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
 
 Administración del conocimiento.- Es el proceso sistemático de detectar, seleccionar, organizar, filtrar, presentar y usar la información, con el objeto de explotar cooperativamente los recursos de conocimiento, basados en el capital intelectual propio, orientados a potenciar las competencias y la generación de valor;
 
@@ -112,7 +116,9 @@ Ciudad del conocimiento.- Ciudad en la que los actores públicos y privados cola
 
 Consejo.- Consejo Económico y Social de la Ciudad de México;
 
-Contraloría General.- Contraloría General del Distrito Federal;
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
+Contraloría General.- La Secretaría de la Contraloría General de la Ciudad de México;
 
 Cultura Digital.- Conjunto de conocimientos, modos de vida y costumbres que incorporan el uso de las tecnologías de la información y comunicaciones, así como la generación y uso del conocimiento;
 
@@ -122,7 +128,9 @@ Contenidos ciudadanos.- Contenidos generados y/o almacenados en formatos digital
 
 Gobierno electrónico.- El uso estratégico de las Tecnologías de la Información y Comunicación por la Administración Pública para ofrecer servicios e información a las personas de manera eficiente y efectiva, así como para relacionarse con estas para establecer vínculos de colaboración;
 
-Instituto de Ciencia y Tecnología.- Instituto de Ciencia y Tecnología del Distrito Federal;
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
+Secretaría.- Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
 
 Indicadores de Resultados.- Expresiones cuantitativas que permiten medir el grado de logro de los objetivos del ente público, sus servicios, programas y proyectos;
 
@@ -130,15 +138,23 @@ Indicadores de Impacto.- Expresiones cuantitativas que permiten medir los efecto
 
 Innovación.- Explotación exitosa de nuevas ideas, la conversión de las ideas en beneficios, comerciales o de bien público en un contexto determinado, que genera resultados rentables y útiles;
 
-Secretaría de Cultura.- Secretaría de Cultura del Distrito Federal
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
-Secretaría de Desarrollo Económico.- Secretaría de Desarrollo Económico del Distrito Federal.
+Secretaría de Cultura.- Secretaría de Cultura de la Ciudad de México;
 
-Secretaría de Educación.- Secretaría de Educación del Distrito Federal;
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
-Secretaría del Trabajo y Fomento al Empleo.- Secretaría del Trabajo y Fomento al Empleo del Distrito Federal;
+Secretaría de Desarrollo Económico.- Secretaría de Desarrollo Económico de la Ciudad de México;
 
-Secretaria de Salud.- La Secretaria de Salud del Distrito Federal;
+> <small>(REFORMADO [N. DE E. DEROGADO], G.O. 13 DE JULIO DE 2026)</small>
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
+Secretaría del Trabajo y Fomento al Empleo.- Secretaría del Trabajo y Fomento al Empleo de la Ciudad de México;
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
+Secretaría de Salud.- La Secretaría de Salud Pública de la Ciudad de México;
 
 Sistema de administración de conocimiento.- Relaciones de coordinación y colaboración entre los agentes para la generación y utilización del conocimiento, que incluye también un Sistema Informático Integral de la Administración Pública cuya función es la Gestión del Conocimiento de la Cuidad (sic);
 
@@ -280,9 +296,13 @@ Con la finalidad de que la población pueda acceder a contenidos educativos, la 
 
 ### CAPÍTULO IV. DE LA INFORMACIÓN, LOS CONTENIDOS Y LAS APLICACIONES
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 28.
 
-La Administración Pública asegurará, en armonía con la Ley de Transparencia y Acceso a la Información Pública, un acceso equitativo a la información, así como a las ideas y el conocimiento para actividades económicas, de asistencia social, políticas, culturales, turísticas, educativas, científicas, de salud, seguridad pública, de procuración de justicia, de protección civil y de apoyo al medio ambiente, apoyándose para tales fines en las Tecnologías de la Información y Comunicación y del Conocimiento.
+La Administración Pública asegurará, en armonía con la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México, el acceso equitativo, oportuno, accesible y en formatos abiertos a la información pública, así como a las ideas y al conocimiento para actividades económicas, de asistencia social, políticas, culturales, turísticas, educativas, científicas, de salud, seguridad pública, procuración de justicia, protección civil y protección al medio ambiente.
+
+Para tal efecto, deberá privilegiarse el principio de máxima publicidad, la generación de versiones públicas cuando corresponda, el uso de lenguaje claro, la accesibilidad universal, los ajustes razonables para personas con discapacidad y la transparencia proactiva con sentido social, apoyándose en las Tecnologías de la Información y Comunicación y del Conocimiento.
 
 ###### Artículo 29.
 
@@ -290,9 +310,13 @@ Se promoverá una cultura de acceso a la información y al conocimiento, equilib
 
 La Secretaría de Educación fomentará la capacitación y profesionalización de creadores, editores y productores de contenido, así como de los desarrolladores de aplicaciones informáticas con valor social, quienes tendrán un papel activo en el desarrollo del Distrito Federal como Ciudad Digital y del Conocimiento.
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 30.
 
-El Instituto de Ciencia y Tecnología promoverá el acceso universal, con las mismas oportunidades para todos al conocimiento científico, la creación y divulgación de información científica y técnica, con inclusión de las iniciativas de acceso abierto para las publicaciones científicas. Para lo cual dicho Instituto deberá definir los lineamientos generales para la determinación de la dinámica de alimentación de los contenidos digitales que serán manipulados por medio de las aplicaciones informáticas disponibles.
+El Instituto de Ciencia y Tecnología promoverá el acceso universal, en condiciones de igualdad, al conocimiento científico, la creación y divulgación de información científica y técnica, incluyendo las iniciativas de acceso abierto para publicaciones científicas, repositorios públicos y el aprovechamiento social de la información en formatos abiertos y reutilizables.
+
+Para ello, dicho Instituto deberá definir lineamientos generales para la integración, conservación, actualización, interoperabilidad y consulta pública de los contenidos digitales, procurando su disponibilidad permanente, accesibilidad y utilidad social.
 
 ###### Artículo 31.
 
@@ -302,9 +326,11 @@ La Administración Pública fomentará una cultura de propiedad intelectual e in
 
 La Administración Pública alentará, a través de todas sus instancias pertinentes, la producción de todo tipo de contenidos digitales y aplicaciones de carácter informático, sean educativos, científicos, culturales o recreativos, en diferentes idiomas y formatos, y la accesibilidad a esos contenidos y las aplicaciones informáticas que involucran, de igual forma estimulará la creación de contenidos que den respuesta a los retos de la ciudad y alienten el desarrollo económico y social.
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 33.
 
-La Administración Pública fomentará la adopción de principios y normas en materia de metadatos, que faciliten la cooperación y la utilización eficaz de la información y los datos-científico tecnológicos compilados.
+La Administración Pública fomentará la adopción de principios, lineamientos y normas en materia de metadatos que faciliten la cooperación institucional, la interoperabilidad, la trazabilidad documental, la conservación archivística y la utilización eficaz de la información y de los datos científico-tecnológicos compilados, en congruencia con la Ley de Archivos de la Ciudad de México y la legislación aplicable en materia de transparencia y acceso a la información pública.
 
 ###### Artículo 34.
 
@@ -314,9 +340,15 @@ La Secretaría de Educación, fomentará la formación y profesionalización as�
 
 La Secretaria de Salud apoyará particularmente la inversión y regulación necesarias para la implementación de aplicaciones relativas al telemonitoreo de pacientes, consultas médicas a distancia y control de inventarios del cuadro básico de medicamentos.
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 36.
 
-Será obligatorio que todas las aplicaciones informáticas de la Administración Pública orientadas a la interacción con la ciudadanía, cuenten con interfaces que cumplan con altos índices de accesibilidad y usabilidad para los usuarios objetivo a los que van dirigidos. Todos los portales Web que se desarrollen desde Administración Pública, deberán observar las reglas que para tal efecto emita la Contraloría General.
+Será obligatorio que todas las aplicaciones informáticas de la Administración Pública orientadas a la interacción con la ciudadanía cuenten con interfaces que cumplan con criterios de accesibilidad universal, formatos accesibles, usabilidad, lenguaje claro, ajustes razonables para personas con discapacidad, interoperabilidad y protección de datos personales.
+
+Asimismo, deberán garantizar la publicación de información pública en formatos abiertos, observando los principios de máxima publicidad, seguridad de la información, confidencialidad y protección de datos personales, conforme a la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México.
+
+Todos los portales y plataformas digitales que se desarrollen desde la Administración Pública deberán observar las disposiciones que para tal efecto emita la Secretaría de la Contraloría General de la Ciudad de México y demás autoridades competentes.
 
 ### CAPÍTULO V. DEL DESARROLLO ECONÓMICO BASADO EN EL CONOCIMIENTO Y LAS TECNOLOGÍAS DE LA INFORMACIÓN
 
@@ -380,17 +412,25 @@ VI. Administrará un portal electrónico para acceso a los recursos y servicios 
 
 VII. Fomentar para los programas de investigación, innovación y desarrollo tecnológico, la cooperación entre las instituciones académicas y las empresas relacionadas a los temas de esta Ley.
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 43.
 
-La Contraloría General implementará un programa de innovación ciudadana y modernización gubernamental para un gobierno que impacte beneficiosamente la vida de los habitantes de la ciudad siendo más eficiente, efectivo, confiable y de calidad, incluyente y para lo anterior, con un uso estratégico de las Tecnologías de la Información y Comunicación y del Conocimiento.
+La Secretaría de la Contraloría General implementará un programa de innovación ciudadana, gobierno abierto y modernización gubernamental que impacte de manera positiva la vida de las personas habitantes de la ciudad, mediante una administración pública más eficiente, efectiva, confiable, incluyente, transparente y orientada a la rendición de cuentas, con un uso estratégico de las Tecnologías de la Información y Comunicación y del Conocimiento.
 
-En el programa, deberá generarse sinergias entre proyectos similares y aprovechar la experiencia acumulada para disminuir los costos, a través de la documentación de todos los casos y la réplica de los casos de éxito, contribuyendo, además, a la implementación de estándares homologados de administración de proyectos.
+Dicho programa deberá promover la transparencia proactiva, los datos abiertos, la participación ciudadana digital, la mejora de los servicios públicos y la generación de mecanismos de control social y seguimiento ciudadano sobre la gestión pública.
+
+Asimismo, deberán generarse sinergias entre proyectos similares y aprovechar la experiencia acumulada para disminuir costos, mediante la documentación de los casos y la réplica de buenas prácticas, contribuyendo además a la implementación de estándares homologados de administración de proyectos.
 
 ### CAPÍTULO VII. DEL GOBIERNO ELECTRÓNICO
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 44.
 
-La Administración Pública buscará soportar mediante las Tecnologías de la Información y Comunicación y del Conocimiento los principales servicios públicos que ofrece en beneficio de la eficiencia en la atención ciudadana; con las consideraciones pertinentes respecto a políticas, mecanismos de seguridad y salvaguarda de privacidad de información, así como el uso de altos estándares de interoperabilidad y usabilidad.
+La Administración Pública buscará soportar mediante las Tecnologías de la Información y Comunicación y del Conocimiento los principales servicios públicos que ofrece, en beneficio de la eficiencia en la atención ciudadana, observando en todo momento políticas, mecanismos de seguridad de la información, salvaguarda de la privacidad, protección de datos personales, trazabilidad, confidencialidad y licitud en el tratamiento de la información.
+
+Asimismo, deberá garantizar altos estándares de interoperabilidad, accesibilidad, usabilidad y cumplimiento de las disposiciones previstas en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2014)</small>
 
@@ -577,3 +617,25 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 Tercero. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES II, IV Y XV DEL ARTÍCULO 2; UN CAPÍTULO I BIS AL TÍTULO SEGUNDO DEL CONSEJO DE EVALUACIÓN, DENOMINADO “DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DEL ÓRGANO INTERNO DE CONTROL COMO AUTORIDAD GARANTE”, ASÍ COMO LOS ARTÍCULOS 16 BIS Y 16 TER, TODOS DE LA LEY DE EVALUACIÓN DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY DE DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY DE DEFENSORÍA PÚBLICA DE LA CIUDAD DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 1, 2 FRACCIONES II, IV, V, VI, IX, XI Y XIII, 3, 7 FRACCIONES II y XXIII, 13 FRACCIONES V Y VI, 15, 21 FRACCIÓN IX, 22 FRACCIÓN VI, 23, 24, 33, 35 FRACCIONES VII Y VIII, 38 FRACCIÓN IV, 39, 42 FRACCIONES I Y II, Y 43, 53 FRACCIONES IV, V, VI Y VIII, Y 58 FRACCIONES III, VI Y VII; Y SE ADICIONA LA FRACCIÓN XXIV DEL ARTÍCULO 7, UN SEGUNDO PÁRRAFO AL ARTÍCULO 31, EL ARTÍCULO 31 BIS Y LA FRACCIÓN IX DEL ARTÍCULO 35, TODOS DE LA LEY DE DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 59 DE LA LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO. SE REFORMAN EL ARTÍCULO 2, 4 FRACCIÓN X, 17 FRACCIONES VIII Y X, 22 FRACCIÓN III, 23, 24, Y 27; Y SE ADICIONAN LA FRACCIÓN XIV DEL ARTÍCULO 4, UN CAPÍTULO V, DENOMINADO “DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DE LA CONTRALORÍA INTERNA COMO AUTORIDAD GARANTE”, LOS ARTÍCULOS 31 Y 32, TODOS DE LA LEY DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 3 FRACCIONES XXXIII Y XLIII, 11 FRACCIÓN IV, 20 FRACCIÓN XIX Y 34 FRACCIÓN V DE LA LEY DEL SISTEMA INTEGRAL DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 33 DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 5 FRACCIONES V Y XXXII, Y 27 FRACCIÓN II DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 10 FRACCIÓN V Y 31 FRACCIÓN V DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO. SE ADICIONA LA FRACCIÓN XL BIS DEL ARTÍCULO 2; SE REFORMAN LOS ARTÍCULOS 100 FRACCIÓN VI Y 103 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 6 FRACCIONES VI, LVII Y LXIX, 17 FRACCIÓN XVII, 21 FRACCIÓN VI, 37 FRACCIÓN X Y 45; SE ADICIONAN LA FRACCIÓN XVII BIS DEL ARTÍCULO 6; Y SE DEROGAN LA FRACCIÓN LVIII DEL ARTÍCULO 6, TODOS DE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN IX, 12 FRACCIÓN VI Y 30 DE LA LEY DE CIUDADANÍA DIGITAL DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 39 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MÉXICO. SE ADICIONAN LAS FRACCIONES XVIII BIS Y XVIII TER DEL ARTÍCULO 3; SE REFORMAN LA FRACCIÓN XXIV DEL ARTÍCULO 3 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 123, 124 Y 164 DE LA LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 43 Y 70 FRACCIÓN VII DE LA LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LOS SERVIDORES PÚBLICOS QUE DESIGNA LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LOS TITULARES DE LOS ÓRGANOS POLÍTICO-ADMINISTRATIVOS DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LAS PERSONAS SERVIDORAS PÚBLICAS QUE DESIGNA EL CONGRESO DE LA CIUDAD DE MÉXICO Y DE LAS PERSONAS TITULARES DE LAS ALCALDÍAS DE LA CIUDAD DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 8, 10, 24, 26, 29, 30 Y 31 Y SE DEROGAN LAS FRACCIONES IV DE LOS ARTÍCULOS 2 Y 3 DE LA LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LOS SERVIDORES PÚBLICOS QUE DESIGNA LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LOS TITULARES DE LOS ÓRGANOS POLÍTICO-ADMINISTRATIVOS DEL DISTRITO FEDERAL. SE REFORMAN LOS ARTÍCULOS 5, 16, 22 Y 26 DE LA LEY QUE REGULA EL USO DE TECNOLOGÍA PARA LA SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL, PARA QUEDAR COMO LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA LA CIUDAD DE MÉXICO; Y SE REFORMA EL ARTÍCULO 7 DE LA LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 17 DE LA LEY DEL SISTEMA DE ALERTA SOCIAL DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO, PARA QUEDAR COMO LEY PARA EL DESARROLLO DE LA CIUDAD DE MÉXICO COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO; Y SE REFORMAN LOS ARTÍCULOS 5, 28, 30, 33, 36, 43 y 44 DE LA LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO. SE MODIFICA LA DENOMINACIÓN DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DE LA CIUDAD DE MÉXICO; SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO XIV, PARA QUEDAR COMO “DE LA TRANSPARENCIA, LA PROTECCIÓN DE DATOS PERSONALES Y LA SEGURIDAD DE LA INFORMACIÓN”; Y SE REFORMAN LOS ARTÍCULOS 74, 75, 76, 77, 78, 79 Y 80 DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las referencias contenidas en leyes, reglamentos, acuerdos, lineamientos, manuales administrativos, disposiciones normativas y demás instrumentos jurídicos al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, o a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, se entenderán hechas a la autoridad competente que corresponda, de conformidad con la distribución de atribuciones prevista en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y demás normativa aplicable.
+
+QUINTO. Las referencias contenidas en los ordenamientos reformados a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México se entenderán realizadas al ordenamiento vigente en la materia, conforme a las disposiciones aplicables.
+
+SEXTO. Los sujetos obligados, dependencias, órganos desconcentrados, entidades, alcaldías, órganos autónomos y demás entes públicos comprendidos en el presente Decreto deberán realizar las adecuaciones administrativas, operativas y normativas necesarias para su cumplimiento, dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugnación, expedientes, registros, actuaciones administrativas y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio, salvo que la norma posterior resulte más favorable para la protección del derecho correspondiente.
+
+OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
