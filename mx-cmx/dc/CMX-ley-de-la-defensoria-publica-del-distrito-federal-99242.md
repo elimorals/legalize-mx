@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-defensoria-publica-del-distrito-federal-99242"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-28"
-last_updated: "2014-12-18"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99242&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2014-02-21"
 ---
 # LEY DE LA DEFENSORIA PUBLICA DEL DISTRITO FEDERAL
 
-LEY DE LA DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL
+LEY DE DEFENSORÍA PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Gobierno del Distrito Federal, el viernes 28 de febrero de 2014.
 
@@ -48,15 +48,19 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE LA DEFENSORÍA PÚBLICA DEL DISTRITO FEDE
 
 Se crea la Ley de la Defensoría Pública del Distrito Federal, para quedar como sigue:
 
-LEY DE LA DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE JULIO DE 2026)</small>
+
+LEY DE DEFENSORÍA PÚBLICA DE LA CIUDAD DE MÉXICO.
 
 ## TÍTULO PRIMERO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones de esta ley son de orden público, interés social y de observancia obligatoria en todo el Distrito Federal, tienen por objeto regular la prestación del servicio de Defensoría Pública con calidad, así como autonomía técnica y operativa, a fin de garantizar el pleno ejercicio de los derechos humanos de los habitantes del Distrito Federal y de quienes transiten por su territorio.
+Las disposiciones de esta ley son de orden público, interés social y de observancia obligatoria en toda la Ciudad de México, tienen por objeto regular la prestación del servicio de Defensoría Pública con calidad, así como autonomía técnica y operativa, a fin de garantizar el pleno ejercicio de los derechos humanos de los habitantes de la Ciudad de México y de quienes transiten por su territorio.
 
 ###### ARTÍCULO 2.
 
@@ -64,35 +68,51 @@ Para los efectos de esta ley, se entenderá por:
 
 I. Colegio de Defensores: el órgano colegiado de consulta y toma de decisiones de la Defensoría Pública;
 
-II. Consejería Jurídica: la Consejería Jurídica y de Servicios Legales del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+II. Consejería Jurídica: Consejería Jurídica y de Servicios Legales de la Ciudad de México.
 
 III. Persona Consejera Jurídica: Consejero Jurídico y de Servicios Legales;
 
-IV. Dirección General: la Dirección General de Servicios Legales de la Consejería Jurídica y de Servicios Legales del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-V. Persona Defensora en Jefe: Director de la Defensoría Pública del Distrito Federal;
+IV. Dirección General: la Dirección General de Servicios Legales de la Consejería Jurídica y de Servicios Legales de la Ciudad de México;
 
-VI. Persona Defensora Especializada: Subdirector de la Defensoría Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+V. Persona Defensora en Jefe: Persona Titular de la Defensoría Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+VI. Persona Defensora Especializada: Persona Titular de la Subdirección de la Defensoría Pública de la Ciudad de México;
 
 VII. Persona Defensora Pública: licenciado en derecho con título y cédula profesional;
 
 VIII. Defensoría Pública: la unidad administrativa de apoyo técnico operativo adscrita a la Dirección General de Servicios Legales;
 
-IX. Dirección: Dirección de Defensoría Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+IX. Dirección: Dirección de Defensoría Pública de la Ciudad de México;
 
 X. Instituto de Capacitación: Instituto de Capacitación de la Defensoría Pública;
 
-XI. Persona Jefa de Defensores: Jefe de Unidad Departamental de la Defensoría Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XI. Persona Jefa de Defensores: Persona Titular de la Unidad Departamental de Orientación y Apoyo a la Defensoría Pública;
 
 XII. LGBTTTI: la comunidad lésbico, gay, bisexual, transexual, transgénero, travesti e intersexual; y
 
-XIII. Reglamento: Reglamento de la Ley de la Defensoría Pública del Distrito Federal.
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XIII. Reglamento: Reglamento de la Ley de la Defensoría Pública de la Ciudad de México.
 
 ### CAPÍTULO II. DE LA DEFENSORÍA PÚBLICA
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 3.
 
-La Dirección de la Defensoría Pública del Distrito Federal estará a cargo de la persona Defensora en Jefe, quien tendrá las atribuciones contenidas en la presente ley, su reglamento y demás disposiciones aplicables, las que ejercerá por sí o por conducto de las personas defensoras especializadas, jefas de defensores, defensoras públicas, peritas, de personal administrativo y auxiliar adscrito a la misma.
+La Dirección de la Defensoría Pública de la Ciudad de México estará a cargo de la persona Defensora en Jefe, quien tendrá las atribuciones contenidas en la presente ley, su reglamento y demás disposiciones aplicables, las que ejercerá por sí o por conducto de las personas defensoras especializadas, jefas de defensores, defensoras públicas, peritas, de personal administrativo y auxiliar adscrito a la misma.
 
 La Dirección será una unidad administrativa de apoyo técnico-operativo, adscrita a la Dirección General, dependiente de la Consejería Jurídica, con autonomía técnica y operativa para el desarrollo de sus atribuciones.
 
@@ -180,7 +200,9 @@ La persona Defensora en Jefe tendrá las atribuciones siguientes:
 
 I. Vigilar que la prestación del servicio sea de calidad;
 
-II. Dirigir, organizar y supervisar la defensoría pública en el Distrito Federal, de conformidad con esta Ley;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+II. Dirigir, organizar y supervisar la defensoría pública en la Ciudad de México, de conformidad con esta Ley;
 
 III. Vigilar que se observen los derechos humanos de los usuarios del servicio, particularmente de las personas imputadas, indígenas; en situación de vulnerabilidad; pertenecientes a la comunidad LGBTTTI; discapacitadas, adultas mayores; con enfermedades mentales o psiquiátricas, así como las mujeres víctimas de violencia y los niños, niñas y adolescentes;
 
@@ -222,9 +244,15 @@ XXI. Imponer correcciones disciplinarias a los defensores y demás empleados de 
 
 XXII. Concentrar la información total de los asuntos iniciados;
 
-XXIII. Supervisar el desempeño de las personas defensoras públicas en el ejercicio de su función, disponiendo lo conducente a fin de que el servicio sea brindado en forma oportuna, diligente, eficaz y de manera continua, sin interrupciones; y
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-XXIV. Las demás que señale la presente ley, su reglamento y otros ordenamientos jurídicos aplicables.
+XXIII. Supervisar el desempeño de las personas defensoras públicas en el ejercicio de su función, disponiendo lo conducente a fin de que el servicio sea brindado en forma oportuna, diligente, eficaz y de manera continua, sin interrupciones;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XXIV. Garantizar que los actos, decisiones y servicios prestados por la Defensoría Pública se documenten de manera adecuada, accesible y verificable, conforme a los principios de transparencia, máxima publicidad y protección de datos personales previstos en la legislación aplicable; y
+
+XXV. Las demás que señale la presente ley, su reglamento y otros ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 8.
 
@@ -280,9 +308,13 @@ III. Cuando el servicio se preste en juzgados penales, de justicia especializada
 
 IV. Cuando el servicio se preste en juzgados civiles, de juicios orales en materia civil y mercantil, y familiares el horario será de lunes a jueves de 9:00 a 15:00 horas y viernes de 9:00 a 14:00 horas;
 
-V. Cuando el servicio se preste en los consejos de honor y justicia de la Procuraduría General de Justicia del Distrito Federal o Secretaria de Seguridad Pública del Distrito Federal, el horario será de lunes a viernes de 9:00 a las 15:00 y de 15:00 a 21:00 horas, cuando se requiera según las necesidades del servicio; o
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-VI. Cuando se requiera prestar el servicio en otras instancias o dependencias del Distrito Federal, se podrán asignar horarios y días especializados a efecto de cubrir la necesidad del servicio, sin perjuicio de sus derechos laborales.
+V. Cuando el servicio se preste en los consejos de honor y justicia de la Fiscalía General de Justicia de la Ciudad de México o Secretaría de Seguridad Ciudadana de la Ciudad de México, el horario será de lunes a viernes de 9:00 a las 15:00 y de 15:00 a 21:00 horas, cuando se requiera según las necesidades del servicio; o
+
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+VI. Cuando se requiera prestar el servicio en otras instancias o dependencias de la Ciudad de México, se podrán asignar horarios y días especializados a efecto de cubrir la necesidad del servicio, sin perjuicio de sus derechos laborales.
 
 El cambio de adscripción de una persona defensora pública deberá notificarse con dos meses de anticipación para que se actualice en la materia que atenderá. Los cambios de las personas defensoras públicas serán de adscripción en la misma materia; salvo que lo solicite el defensor público o se requiera por necesidad de servicio.
 
@@ -294,9 +326,11 @@ Las personas defensoras públicas y peritas son trabajadoras de confianza.
 
 También son personas trabajadoras de confianza las personas servidoras públicas adscritos a la Defensoría que realicen las funciones previstas en el artículo 5° de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del artículo 123 Constitucional.
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 15.
 
-Las percepciones de las personas defensoras públicas no serán inferiores a las ordinarias que correspondan a las personas agentes del Ministerio Público, en el nivel básico, de la Procuraduría General de Justicia del Distrito Federal.
+Las percepciones de las personas defensoras públicas no serán inferiores a las ordinarias que correspondan a las personas agentes del Ministerio Público, en el nivel básico, de la Fiscalía General de Justicia de la Ciudad de México.
 
 ###### ARTÍCULO 16.
 
@@ -466,7 +500,9 @@ VII. Mediación;
 
 VIII. Administrativo ante los consejos de honor y justicia; y
 
-IX. Las demás que conozcan las autoridades jurisdiccionales del Tribunal Superior de Justicia del Distrito Federal.
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+IX. Las demás que conozcan las autoridades jurisdiccionales del Tribunal Superior de Justicia de la Ciudad de México.
 
 ###### ARTÍCULO 22.
 
@@ -484,17 +520,23 @@ IV. Honradez: La persona servidora pública en su encargo no podrá obtener alg�
 
 V. Profesionalidad: la persona servidora pública que preste el servicio deberá dominar los conocimientos técnicos y habilidades especiales que se requieran para el ejercicio de su función debiendo observar en todo momento un comportamiento ético, calificado, responsable y capaz;
 
-VI. Transparencia: el servicio deberá proporcionarse en forma abierta, clara y documentada en medios físicos o electrónicos debiendo estar debidamente organizada en archivos que permitan su conservación y consulta de conformidad a las normas aplicables.
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+VI. Transparencia y apertura institucional: el servicio deberá prestarse de forma clara, documentada y accesible, mediante medios físicos o electrónicos, garantizando el derecho de acceso a la información pública, sin comprometer datos personales ni información legalmente reservada.
 
 ###### ARTÍCULO 23.
 
 Para gozar de los servicios de defensoría en las materias, civil, familiar, arrendamiento inmobiliario y mercantil, se evaluará la viabilidad de la prestación del servicio, mediante la práctica de un estudio socioeconómico y, en su caso, se designará a la persona Defensora Pública.
 
-No se otorgará el servicio de defensoría cuando se constituya como contraparte la Administración Pública del Distrito Federal.
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
+No se otorgará el servicio de defensoría cuando se constituya como contraparte la Administración Pública de la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 24.
 
-Los servicios de asistencia jurídica se prestarán en las materias señaladas en el artículo 23, a las personas que reciban bajo cualquier concepto, ingresos mensuales inferiores al monto que se establezca anualmente mediante publicación en la Gaceta Oficial del Distrito Federal, y en todos los casos:
+Los servicios de asistencia jurídica se prestarán en las materias señaladas en el artículo 23, a las personas que reciban bajo cualquier concepto, ingresos mensuales inferiores al monto que se establezca anualmente mediante publicación en la Gaceta Oficial de la Ciudad de México, y en todos los casos:
 
 I. A las personas cuya condición social o económica muestre una desventaja evidente frente a quienes se opongan a sus derechos;
 
@@ -506,9 +548,13 @@ IV. A las mujeres víctimas de violencia;
 
 V. A las personas adultas mayores;
 
-VI. A los policías, de los cuerpos de seguridad y procuración de justicia del Distrito Federal, excepto mandos medios y superiores, ante su Consejo de Honor y Justicia; y
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-VII. Cuando así lo indique la persona titular de la Consejería Jurídica para la defensa de los derechos humanos de los habitantes del Distrito Federal.
+VI. A las personas policías de los cuerpos de seguridad y procuración de justicia de la Ciudad de México, excepto mandos medios y superiores, ante su Consejo de Honor y Justicia; y
+
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+VII. Cuando así lo indique la persona titular de la Consejería Jurídica y de Servicios Legales de la Ciudad de México.
 
 ###### ARTÍCULO 25.
 
@@ -570,19 +616,31 @@ El reglamento de esta ley establecerá el número de unidades administrativas de
 
 La Defensoría Pública establecerá una unidad específica, para que cualquier persona interesada pueda presentar quejas por incumplimiento de las obligaciones de las personas defensoras públicas, a efecto de que se inicien las acciones legales correspondientes.
 
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+La Defensoría Pública deberá implementar medidas administrativas, técnicas y organizacionales para garantizar la seguridad de la información, la protección de datos personales y la integridad de los expedientes físicos y electrónicos, conforme a la legislación aplicable en materia de transparencia y protección de datos personales.
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### ARTÍCULO 31 Bis.
+
+La Defensoría Pública deberá coordinarse con la Autoridad Garante Local, en materia de acceso a la información pública y protección de datos personales, atendiendo las recomendaciones, criterios y lineamientos que emita en el ámbito de sus atribuciones.
+
 ### CAPÍTULO II. DE LA INFRAESTRUCTURA
 
 ###### ARTÍCULO 32.
 
 La Defensoría Pública contará con las instalaciones necesarias, adecuadas y funcionales para el debido cumplimiento de sus atribuciones.
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 33.
 
-En las agencias investigadoras del Ministerio Público de la Procuraduría General de Justicia del Distrito Federal, en los juzgados del Tribunal Superior de Justicia del Distrito Federal así como en los juzgados cívicos, deberá contarse con la presencia de personas defensoras públicas que asistan jurídicamente a quienes lo soliciten.
+En las agencias investigadoras del Ministerio Público de la Fiscalía General de Justicia de la Ciudad de México, en los juzgados del Tribunal Superior de Justicia de la Ciudad de México, así como en los juzgados cívicos, deberá contarse con la presencia de personas defensoras públicas que asistan jurídicamente a quienes lo soliciten.
 
-El Tribunal Superior de Justicia y la Procuraduría General de Justicia, ambos del Distrito Federal, deberán proporcionar a la Defensoría Pública, en sus instalaciones, espacios físicos adecuados y otorgarle las facilidades necesarias para el desempeño de sus funciones.
+El Tribunal Superior de Justicia y la Fiscalía General de Justicia, ambos de la Ciudad de México, deberán proporcionar a la Defensoría Pública, en sus instalaciones, espacios físicos adecuados y otorgarle las facilidades necesarias para el desempeño de sus funciones.
 
-Los locales asignados a las personas defensoras públicas para la asistencia de las personas adolescentes en conflicto con la ley penal deberán contar con áreas específicas de orientación jurídica y social, así como personas trabajadoras sociales para que quienes ejerzan la patria potestad o los representen sean informadas de su situación legal.
+Los locales asignados a las personas defensoras públicas para la asistencia de las personas adolescentes en conflicto con la ley penal deberán contar con áreas específicas de orientación jurídica y social, así como con personas trabajadoras sociales, a efecto de que quienes ejerzan la patria potestad o la representación legal sean informadas de su situación jurídica.
 
 ###### ARTÍCULO 34.
 
@@ -606,11 +664,19 @@ V. Utilicen los mecanismos de defensa que conforme a la legislación aplicable c
 
 VI. Les informen del estado procesal que guarda su situación y de cuáles serán los medios y estrategias de defensa empleadas por la persona Defensora Pública, así como las diligencias a practicarse;
 
-VII. Las canalicen a la instancia competente del Distrito Federal para que reciba atención psicológica, en los casos necesarios;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-VIII. Les informen sobre la conveniencia y efectos jurídicos de los convenios; y
+VII. Las canalicen a la instancia competente de la Ciudad de México para que reciba atención psicológica, en los casos necesarios;
 
-IX. Las demás que señale la presente ley, su reglamento y otros ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+VIII. Les informen sobre la conveniencia y efectos jurídicos de los convenios;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+IX. Conocer si los sistemas electrónicos o herramientas tecnológicas utilizadas por la Defensoría Pública influyen en la gestión, seguimiento o asignación de su asunto, garantizando siempre revisión y responsabilidad humana; y
+
+X. Las demás que señale la presente ley, su reglamento y otros ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 36.
 
@@ -652,7 +718,9 @@ II. Entrega y recepción de documentos que acrediten la identidad, cumplimiento 
 
 III. Entrevista a las personas aspirantes;
 
-IV. Aplicación y aprobación de los exámenes de control de confianza por centro autorizado por la Contraloría General del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+IV. Aplicación y aprobación de los exámenes de control de confianza por centro autorizado por la persona titular de la Secretaría de la Contraloría General de la Ciudad de México;
 
 V. Aplicación y aprobación de los exámenes de conocimientos;
 
@@ -666,9 +734,11 @@ El avance de los aspirantes en el procedimiento de selección estará condiciona
 
 Las decisiones que se tomen en el procedimiento de selección serán inapelables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 39.
 
-La convocatoria para cubrir plazas de nueva creación la emitirá la persona titular de la Consejería Jurídica mediante publicación en la Gaceta Oficial del Distrito Federal.
+La convocatoria para cubrir plazas de nueva creación será emitida por la persona titular de la Consejería Jurídica y de Servicios Legales de la Ciudad de México, mediante publicación en la Gaceta Oficial de la Ciudad de México.
 
 Las plazas vacantes serán cubiertas individualmente, sin necesidad de emitir convocatoria, por aquellas personas que cumplan con los requisitos señalados para el puesto, hayan demostrado los méritos suficientes en el desempeño de sus funciones y acreditado los programas anuales de capacitación.
 
@@ -688,9 +758,13 @@ Las personas señaladas en el artículo anterior, no podrán pertenecer al Servi
 
 Para permanecer como persona Defensora Pública en el servicio profesional de carrera, se requiere:
 
-I. Aprobar el programa anual de capacitación de la Defensoría Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-II. Presentarse y acreditar los exámenes de control de confianza que se realizaran cada tres años, por la Contraloría General del Gobierno del Distrito Federal, en las materias patrimonial y psicométricas;
+I. Aprobar el programa anual de capacitación de la Defensoría Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+II. Presentarse y acreditar los exámenes de control de confianza que se realizarán cada tres años, por la Secretaría de la Contraloría General de la Ciudad de México, en las materias patrimonial y psicométrica;
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -704,17 +778,23 @@ V. No haber sido suspendido, destituido o inhabilitado por resolución firme com
 
 VI. Las demás que señale la presente ley, su reglamento y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 43.
 
-Las personas defensoras públicas que formen parte del servicio profesional de carrera mantendrán su cargo, con licencia de plaza, cuando sean nombradas en un cargo de dirección en alguna dependencia de la administración pública federal, del Distrito Federal, estatal o municipal o en la Defensoría Pública Federal.
+Las personas defensoras públicas que formen parte del servicio profesional de carrera mantendrán su cargo, con licencia de plaza, cuando sean nombradas en un cargo de dirección en alguna dependencia de la administración pública federal, de la Ciudad de México, estatal o municipal, o en la Defensoría Pública Federal.
 
 El área de recursos humanos expedirá la licencia de plaza solo cuando cuente con el visto bueno de la persona titular de la Dirección General.
 
 La licencia deberá renovarse cada año o cuando asuma otro encargo.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 13 DE JULIO DE 2026)</small>
+
 El personal de base se regirá por sus condiciones generales de trabajo.
 
-Cuando concluya su encargo la persona Defensora Pública deberá solicitar su reincorporación dentro de los quince días hábiles siguientes, en caso contrario se considerará presentada su renuncia sin responsabilidad ni pago alguno de la Consejería Jurídica
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
+Al concluir su encargo, la persona defensora pública deberá solicitar su reincorporación dentro de los quince días hábiles siguientes; en caso contrario, se tendrá por presentada su renuncia sin responsabilidad ni pago alguno para la Consejería Jurídica y de Servicios Legales de la Ciudad de México.
 
 ### CAPÍTULO IV. DE LOS PROGRAMAS TEMPORALES DE DISPONIBILIDAD Y PROFESIONALIZACIÓN
 
@@ -804,15 +884,23 @@ II. La persona Defensora en Jefe, quien además podrá suplir al presidente en s
 
 III. La persona responsable del Instituto;
 
-IV. La persona Defensora Especial titular de la unidad en materia penal, quien será el (sic) Secretaria Técnica;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-V. Una persona invitada de la Procuraduría General de Justicia del Distrito Federal;
+IV. La persona Defensora Especial titular de la unidad en materia penal, quien fungirá como Secretaría Técnica;
 
-VI. Una persona invitada del Tribunal Superior de justicia del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+V. Una persona invitada de la Fiscalía General de Justicia de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+VI. Una persona invitada del Tribunal Superior de Justicia de la Ciudad de México;
 
 VII. Una persona invitada de la academia; y
 
-VIII. Una persona invitada de la Comisión de Derechos Humanos del Distrito Federal.
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+VIII. Una persona invitada de la Comisión de Derechos Humanos de la Ciudad de México.
 
 ###### ARTÍCULO 54.
 
@@ -858,15 +946,21 @@ I. Por cada una de las áreas se solicitará a las personas defensoras públicas
 
 II. Los nombres de las personas candidatas propuestas serán enviados al área administrativa para que informe respecto del récord de asistencia y puntualidad;
 
-III. También se enviarán los nombres a las personas defensoras especializadas para que informen a la persona Defensora en Jefe el número de asuntos atendidos, las resoluciones favorables que tengan así como el número de quejas existentes, en su caso, en su contra:
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+III. Asimismo, se enviarán los nombres a las personas defensoras especializadas para que informen a la persona Defensora en Jefe el número de asuntos atendidos, las resoluciones favorables obtenidas, así como el número de quejas existentes, en su caso, en su contra;
 
 IV. Serán seleccionados las personas defensoras que tengan menor número de faltas y retardos, mayor número de asuntos atendidos y resoluciones a favor, así como menor número de quejas;
 
 V. El colegio de defensores determinará los nombres de los galardonados que cumplan con los requisitos antes señalados;
 
-VI. La determinación de los galardonados será inapelable;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-VII. Los nombres de las personas galardonados (sic) se darán a conocer mediante publicación en la Gaceta Oficial del Distrito Federal.
+VI. La determinación de las personas galardonadas será inapelable; y
+
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+VII. Los nombres de las personas galardonadas se darán a conocer mediante publicación en la Gaceta Oficial de la Ciudad de México.
 
 ###### ARTÍCULO 59.
 
@@ -909,3 +1003,25 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES II, IV Y XV DEL ARTÍCULO 2; UN CAPÍTULO I BIS AL TÍTULO SEGUNDO DEL CONSEJO DE EVALUACIÓN, DENOMINADO “DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DEL ÓRGANO INTERNO DE CONTROL COMO AUTORIDAD GARANTE”, ASÍ COMO LOS ARTÍCULOS 16 BIS Y 16 TER, TODOS DE LA LEY DE EVALUACIÓN DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY DE DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY DE DEFENSORÍA PÚBLICA DE LA CIUDAD DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 1, 2 FRACCIONES II, IV, V, VI, IX, XI Y XIII, 3, 7 FRACCIONES II Y XXIII, 13 FRACCIONES V Y VI, 15, 21 FRACCIÓN IX, 22 FRACCIÓN VI, 23, 24, 33, 35 FRACCIONES VII Y VIII, 38 FRACCIÓN IV, 39, 42 FRACCIONES I Y II, Y 43, 53 FRACCIONES IV, V, VI Y VIII, Y 58 FRACCIONES III, VI Y VII; Y SE ADICIONA LA FRACCIÓN XXIV DEL ARTÍCULO 7, UN SEGUNDO PÁRRAFO AL ARTÍCULO 31, EL ARTÍCULO 31 BIS Y LA FRACCIÓN IX DEL ARTÍCULO 35, TODOS DE LA LEY DE DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 59 DE LA LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO. SE REFORMAN EL ARTÍCULO 2, 4 FRACCIÓN X, 17 FRACCIONES VIII Y X, 22 FRACCIÓN III, 23, 24, Y 27; Y SE ADICIONAN LA FRACCIÓN XIV DEL ARTÍCULO 4, UN CAPÍTULO V, DENOMINADO “DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DE LA CONTRALORÍA INTERNA COMO AUTORIDAD GARANTE”, LOS ARTÍCULOS 31 Y 32, TODOS DE LA LEY DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 3 FRACCIONES XXXIII Y XLIII, 11 FRACCIÓN IV, 20 FRACCIÓN XIX Y 34 FRACCIÓN V DE LA LEY DEL SISTEMA INTEGRAL DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 33 DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 5 FRACCIONES V Y XXXII, Y 27 FRACCIÓN II DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 10 FRACCIÓN V Y 31 FRACCIÓN V DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO. SE ADICIONA LA FRACCIÓN XL BIS DEL ARTÍCULO 2; SE REFORMAN LOS ARTÍCULOS 100 FRACCIÓN VI Y 103 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 6 FRACCIONES VI, LVII Y LXIX, 17 FRACCIÓN XVII, 21 FRACCIÓN VI, 37 FRACCIÓN X Y 45; SE ADICIONAN LA FRACCIÓN XVII BIS DEL ARTÍCULO 6; Y SE DEROGAN LA FRACCIÓN LVIII DEL ARTÍCULO 6, TODOS DE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN IX, 12 FRACCIÓN VI Y 30 DE LA LEY DE CIUDADANÍA DIGITAL DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 39 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MÉXICO. SE ADICIONAN LAS FRACCIONES XVIII BIS Y XVIII TER DEL ARTÍCULO 3; SE REFORMAN LA FRACCIÓN XXIV DEL ARTÍCULO 3 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 123, 124 Y 164 DE LA LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 43 Y 70 FRACCIÓN VII DE LA LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LOS SERVIDORES PÚBLICOS QUE DESIGNA LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LOS TITULARES DE LOS ÓRGANOS POLÍTICO-ADMINISTRATIVOS DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LAS PERSONAS SERVIDORAS PÚBLICAS QUE DESIGNA EL CONGRESO DE LA CIUDAD DE MÉXICO Y DE LAS PERSONAS TITULARES DE LAS ALCALDÍAS DE LA CIUDAD DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 8, 10, 24, 26, 29, 30 Y 31 Y SE DEROGAN LAS FRACCIONES IV DE LOS ARTÍCULOS 2 Y 3 DE LA LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LOS SERVIDORES PÚBLICOS QUE DESIGNA LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LOS TITULARES DE LOS ÓRGANOS POLÍTICO-ADMINISTRATIVOS DEL DISTRITO FEDERAL. SE REFORMAN LOS ARTÍCULOS 5, 16, 22 Y 26 DE LA LEY QUE REGULA EL USO DE TECNOLOGÍA PARA LA SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL, PARA QUEDAR COMO LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA LA CIUDAD DE MÉXICO; Y SE REFORMA EL ARTÍCULO 7 DE LA LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 17 DE LA LEY DEL SISTEMA DE ALERTA SOCIAL DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO, PARA QUEDAR COMO LEY PARA EL DESARROLLO DE LA CIUDAD DE MÉXICO COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO; Y SE REFORMAN LOS ARTÍCULOS 5, 28, 30, 33, 36, 43 Y 44 DE LA LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO. SE MODIFICA LA DENOMINACIÓN DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DE LA CIUDAD DE MÉXICO; SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO XIV, PARA QUEDAR COMO “DE LA TRANSPARENCIA, LA PROTECCIÓN DE DATOS PERSONALES Y LA SEGURIDAD DE LA INFORMACIÓN”; Y SE REFORMAN LOS ARTÍCULOS 74, 75, 76, 77, 78, 79 Y 80 DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las referencias contenidas en leyes, reglamentos, acuerdos, lineamientos, manuales administrativos, disposiciones normativas y demás instrumentos jurídicos al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, o a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, se entenderán hechas a la autoridad competente que corresponda, de conformidad con la distribución de atribuciones prevista en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y demás normativa aplicable.
+
+QUINTO. Las referencias contenidas en los ordenamientos reformados a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México se entenderán realizadas al ordenamiento vigente en la materia, conforme a las disposiciones aplicables.
+
+SEXTO. Los sujetos obligados, dependencias, órganos desconcentrados, entidades, alcaldías, órganos autónomos y demás entes públicos comprendidos en el presente Decreto deberán realizar las adecuaciones administrativas, operativas y normativas necesarias para su cumplimiento, dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugnación, expedientes, registros, actuaciones administrativas y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio, salvo que la norma posterior resulte más favorable para la protección del derecho correspondiente.
+
+OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
