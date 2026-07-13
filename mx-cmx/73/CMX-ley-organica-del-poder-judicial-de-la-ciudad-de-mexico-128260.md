@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-judicial-de-la-ciudad-de-mexico-128260"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2025-08-31"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128260&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en el Tomo I al Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -76,7 +76,9 @@ I. Legalidad y honradez. Actuar dentro de las atribuciones que les confieran las
 
 II. Accesibilidad. Permitir y facilitar a las personas con alguna discapacidad el uso de los servicios públicos que ofrece el Poder Judicial, de manera progresiva.
 
-III. Transparencia. Los órganos públicos que integran al Poder Judicial deben brindar publicidad a las deliberaciones y actos relacionados con sus atribuciones, así como dar acceso a la información que generen, de conformidad con las leyes en la materia.
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+III. Transparencia. Los órganos públicos que integran al Poder Judicial deben brindar publicidad a las deliberaciones y actos relacionados con sus atribuciones, así como dar acceso a la información que generen, de forma impresa para consulta directa y en los respectivos sitios de Internet, de acuerdo con sus funciones y de conformidad con las leyes en la materia.
 
 IV. Máxima publicidad. Toda la información en posesión de los órganos públicos que integran al Poder Judicial será pública, completa, oportuna y accesible, sujeta a un claro régimen de excepciones, que deberán estar definidas y ser además legítimas y estrictamente necesarias en una sociedad democrática.
 
@@ -114,11 +116,19 @@ II. Archivo Judicial, al Archivo Judicial del Tribunal Superior de Justicia del 
 
 III. Centro de Justicia Alternativa, al Centro de Justicia Alternativa del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+III BIS. Autoridades Garantes: autoridad garante local; el Órgano de Administración Judicial; los órganos internos de control o equivalentes de los órganos constitucionales autónomos y la Contraloría Interna del Congreso de la Ciudad de México.
+
 IV. (DEROGADA, G.O. 31 DE AGOSTO DE 2025)
 
 V. Congreso, al Congreso de la Ciudad de México;
 
 VI. (DEROGADA, G.O. 31 DE AGOSTO DE 2025)
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+VI BIS. Comité del Subsistema de Transparencia: Es el Órgano Colegiado integrado de conformidad con el artículo 32 de la Ley General de Transparencia y Acceso a la Información Pública y cuyas funciones están señaladas en el artículo 30 de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México;
 
 VII. Constitución, a la Constitución Política de la Ciudad de México;
 
@@ -159,6 +169,10 @@ XVI. Pleno, al Pleno del Tribunal Superior de Justicia del Poder Judicial de la 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE AGOSTO DE 2025)</small>
 
 XVII. Pleno del Órgano de Administración Judicial, al Pleno del Órgano de Administración Judicial del Poder Judicial de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XVII BIS. Ley de Transparencia: Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE AGOSTO DE 2025)</small>
 
@@ -7238,7 +7252,9 @@ El proceso de substanciación para la separación del personal del Servicio Civi
 
 ## TÍTULO DÉCIMO SEXTO. DE LA CONTRALORÍA
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 13 DE JULIO DE 2026)</small>
+
+### CAPÍTULO I
 
 ###### Artículo 406.
 
@@ -7272,11 +7288,11 @@ Corresponde a la persona titular de la Contraloría originalmente la representac
 
 Para el ejercicio de sus funciones la Contraloría tiene a su cargo las atribuciones que corresponden a su propio ámbito de competencia y se regirá por lo previsto en esta Ley, las normas que expresamente le atribuyan facultades, así como en los acuerdos que resulten aplicables.
 
-> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 410.
 
-La Contraloría será competente para conocer respecto de las conductas cometidas por las personas servidoras públicas que desempeñen actividades administrativas en el Poder Judicial; tratándose de servidores públicos de la administración de justicia, esta se determinará por la naturaleza de la conducta o faltas siempre que contravengan disposiciones en materia de planeación, presupuesto, ingresos, egresos, financiamiento, inversión, patrimonio, fondos y valores, así como las relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales, planeación, situación patrimonial y auditorías, transparencia y datos personales, vigilando su cumplimiento y las demás, conforme a la normatividad aplicable, así como a las leyes en materia de responsabilidades administrativas.
+La Contraloría será competente para conocer respecto de las conductas cometidas por las personas servidoras públicas que desempeñen actividades administrativas en el Poder Judicial; tratándose de las personas servidoras públicas de la administración de justicia, esta se determinará por la naturaleza de la conducta o faltas siempre que contravengan disposiciones en materia de planeación, presupuesto, ingresos, egresos, financiamiento, inversión, patrimonio, fondos y valores, así como las relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales, planeación, situación patrimonial y auditorías, transparencia y datos personales, vigilando su cumplimiento y las demás, conforme a la normatividad aplicable y a las leyes en materia de responsabilidades administrativas, sin perjuicio de las atribuciones que correspondan a la Contraloría del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México en su carácter de Autoridad Garante, en términos de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
 
 ###### Artículo 411.
 
@@ -7364,9 +7380,9 @@ XXXIV. Emitir opiniones y observaciones tratándose de asuntos de la competencia
 
 XXXV. Delegar o conferir las atribuciones que fueren necesarias al personal adscrito a la Contraloría para el debido cumplimiento de los asuntos de su competencia, con el objeto de cumplir con la máxima diligencia las funciones y atribuciones de la Contraloría, así como en los casos de ausencia del Contralor General.
 
-> <small>(REFORMADA, G.O. 31 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-XXXVI. Expedir las autorizaciones que se requieran de cualquier documentación que obre en los archivos de la Contraloría, excepto las que por su especial naturaleza sea considerada información y/o documentación clasificada como confidencial o reservada, con respecto a los procedimientos administrativos de responsabilidad administrativa, auditorías y situación patrimonial de las y los servidores públicos del Poder Judicial, en términos de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México;
+XXXVI. Expedir las autorizaciones que se requieran de cualquier documentación que obre en los archivos de la Contraloría, excepto las que por su especial naturaleza sea considerada información y/o documentación clasificada como confidencial o reservada, con respecto a los procedimientos administrativos de responsabilidad administrativa, auditorías y situación patrimonial de las personas servidoras públicas del Poder Judicial, en términos de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México;
 
 XXXVII. Denunciar ante las autoridades competentes los hechos de que se tengan conocimiento y puedan ser constitutivos de probables delitos, y solicitar la intervención del área jurídica respectiva a formular, cuando así se requiera, las querellas a que hubiere lugar;
 
@@ -7394,17 +7410,37 @@ XLIV. Aportar toda la información en el ámbito de su competencia para la debid
 
 XLV. Celebrar convenios de coordinación, con las autoridades competentes y que sean necesarias, para el establecimiento de los procedimientos necesarios, para el establecimiento de los procedimientos que coadyuven al cumplimiento eficaz y eficiente de sus respectivas funciones, así como para fortalecer los trabajos del Sistema de Fiscalización de la Ciudad de México; y
 
-XLVI. Las demás que con tal carácter le atribuyan expresamente las disposiciones legales y reglamentarias.
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XLVI. Las demás que, con el carácter de Contraloría, le atribuyan expresamente las disposiciones legales y reglamentarias aplicables, así como aquellas que le confiera la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México; en su carácter de Autoridad Garante.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2026)</small>
+
+### CAPÍTULO II. DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DE LA CONTRALORÍA COMO AUTORIDAD GARANTE
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 411 Bis.
+
+Las personas titulares de la Contraloría del Poder Judicial de la Ciudad de México y de la Contraloría del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México formarán parte, en representación del Poder Judicial, del Comité del Subsistema de Transparencia de la Ciudad de México, de conformidad con lo dispuesto en el artículo 28 de la Ley de Transparencia para el Acceso y Socialización de la información de la Ciudad de México.
+
+Su participación se ejercerá conforme a la legislación local en la materia y, en lo conducente, dentro de los mecanismos de coordinación previstos en la Ley General de Transparencia y Acceso a la Información Pública, con el objeto de asegurar la articulación institucional y la armonización normativa entre el orden local y el federal.
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 411 Ter.
+
+Además de las atribuciones que le corresponden en materia de control interno, la Contraloría del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México fungirá como Autoridad Garante, en términos de lo dispuesto en el Título Segundo, Capítulo II, denominado “De las autoridades garantes y la autoridad garante local”, de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México, así como de la normativa aplicable en materia de protección de datos personales, para garantizar el ejercicio del derecho de acceso a la información pública, la privacidad y la protección de datos personales.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 31 DE AGOSTO DE 2025)</small>
-
-### CAPÍTULO ÚNICO
-
-> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2025)</small>
 
 ## TÍTULO DÉCIMO SÉPTIMO. DE LA DIRECCIÓN GENERAL DE GESTIÓN TECNOLÓGICA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 31 DE AGOSTO DE 2025)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2025)</small>
 
 ###### Artículo 412.
 
@@ -7755,3 +7791,31 @@ DÉCIMO SÉPTIMO. Las Magistradas y Magistrados de las Salas del Tribunal cuyos 
 DÉCIMO OCTAVO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO NOVENO. El Consejo de la Judicatura de la Ciudad de México, por conducto de la persona a (sic) que designe, tendrá 30 días hábiles a partir del primero de septiembre de 2025, para la transición de los recursos materiales, humanos y financieros al Órgano de Administración Judicial y al Tribunal de Disciplina Judicial, de acuerdo a sus atribuciones y facultades correspondientes.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PUBLICA DE LA CIUDAD DE MÉXICO, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO; DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO; Y DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DE LA CIUDAD DE MÉXICO, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, con excepción de lo previsto en el Transitorio Séptimo de este Decreto.
+
+CUARTO.- La Persona Titular de la Jefatura de Gobierno de la Ciudad de México realizará las modificaciones reglamentarias que correspondan para la debida observancia del presente Decreto.
+
+QUINTO.- La Persona Titular de la Jefatura de Gobierno de la Ciudad de México expedirá el Decreto de creación del órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que hace referencia la fracción LII del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+
+SEXTO.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+SÉPTIMO.- Las fracciones LII, LIII, LIX, LX y LXI del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México entrarán en vigor cuando entre en funcionamiento el órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que se refiere la fracción LII del mencionado artículo.
+
+OCTAVO.- Los sujetos obligados, dependencias, órganos desconcentrados, alcaldías, órganos autónomos y demás entes públicos deberán realizar las adecuaciones administrativas, operativas y reglamentarias necesarias para el cumplimiento del presente Decreto dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+NOVENO.- El Congreso de la Ciudad de México, los órganos constitucionalmente autónomos y las demás autoridades competentes deberán armonizar sus reglamentos interiores, lineamientos y disposiciones normativas internas dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DECIMO.- Los procedimientos administrativos, solicitudes de acceso a la información, recursos de revisión, medios de impugnación, procedimientos de protección de datos personales y demás asuntos iniciados con anterioridad a la entrada en vigor del presente.
+
+DECIMO PRIMERO.- Con la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan al mismo.
+
+DECIMO SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
