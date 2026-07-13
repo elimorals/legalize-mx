@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-proteccion-integral-de-personas-defensoras-de-10928
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-10"
-last_updated: "2015-10-02"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109283&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,9 @@ issue_date: "2015-08-07"
 ---
 # LEY PARA LA PROTECCION INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL
 
-LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL
+LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 2 DE OCTUBRE DE 2015.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 10 de agosto de 2015.
 
@@ -48,9 +46,11 @@ DECRETO POR EL QUE SE EXPIDE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEF
 
 ###### ARTÍCULO ÚNICO.
 
-Se expide la Ley para la Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas del Distrito Federal , para quedar como sigue:
+Se expide la Ley para la Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas del Distrito Federal, para quedar como sigue:
 
-LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE JULIO DE 2026)</small>
+
+LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DE LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO I. Objeto de la Ley
 
@@ -810,35 +810,55 @@ III. En los casos de las fracciones anteriores, el análisis de los resultados d
 
 Atendiendo al principio de mayor protección las Medidas otorgadas no se modificarán o suspenderán hasta que se resuelva la queja presentada.
 
-### CAPÍTULO XIV. TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y SEGURIDAD DE LA INFORMACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE JULIO DE 2026)</small>
+
+### CAPÍTULO XIV. DE LA TRANSPARENCIA, LA PROTECCIÓN DE DATOS PERSONALES Y LA SEGURIDAD DE LA INFORMACIÓN
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 74.
 
-El acceso y la difusión de la información relacionada con esta Ley, será de conformidad a lo que disponga la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, la Ley de Protección de Datos Personales así como las demás disposiciones aplicables.
+El acceso, consulta, uso, resguardo y difusión de la información relacionada con esta Ley se regirán por lo dispuesto en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México, en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México y en las demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 75.
 
-Toda información obtenida por los Entes Públicos derivado de las acciones encaminadas a la protección de las personas periodistas, colaboradoras periodísticas y defensoras de derechos humanos, deberá resguardarse y tratarse de conformidad con lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y la Ley de Protección de Datos Personales del Distrito Federal.
+Toda información obtenida por los Entes Públicos con motivo de las acciones encaminadas a la protección de las personas periodistas, personas colaboradoras periodísticas y personas defensoras de derechos humanos deberá resguardarse, administrarse y tratarse de conformidad con la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México, la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México y la demás normativa aplicable.
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 76.
 
-Toda aquella información definida por la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y la Ley de Protección de Datos Personales para el Distrito Federal como de acceso restringido en sus modalidades de reservada y confidencial, no podrá ser divulgada, salvo en el caso de las excepciones señaladas en la normatividad aplicable.
+La información que, en términos de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México, tenga el carácter de reservada o confidencial, no podrá divulgarse, salvo en los casos expresamente previstos en las disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 77.
 
-Cuando un Ente Público en ejercicio de sus atribuciones transmita a otro ente información de acceso restringido, deberán incluir, en el oficio que remita, una leyenda donde se refiera que la información es de esa naturaleza, apercibiendo que su divulgación es motivo de responsabilidad en términos de normatividad aplicable.
+Cuando un Ente Público, en ejercicio de sus atribuciones, remita a otro ente información clasificada como reservada o confidencial, deberá señalar expresamente tal carácter en el oficio o medio de remisión correspondiente, apercibiendo que su uso, tratamiento, difusión o divulgación indebidos darán lugar a las responsabilidades previstas en la normativa aplicable.
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 78.
 
-Cuando medie una solicitud de información pública ante los Entes Públicos que en el uso de sus atribuciones posean derivado de la presente Ley, la información únicamente podrá ser clasificada como reservada de manera fundada y motivada de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y la Ley de Protección de Datos Personales para el Distrito Federal así como la demás normatividad aplicable.
+Cuando se presente una solicitud de acceso a información pública respecto de información que obre en posesión de los Entes Públicos con motivo de la aplicación de esta Ley, su clasificación deberá realizarse de manera fundada y motivada, de conformidad con la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México, la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México y las demás disposiciones aplicables.
+
+La información podrá clasificarse como reservada o confidencial, según corresponda, especialmente cuando su divulgación pueda comprometer la seguridad, integridad, localización o vida de las personas protegidas, o cuando contenga datos personales o datos personales sensibles.
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 79.
 
-Para el manejo de los datos e información sobre los casos que se conocen en el Mecanismo y en particular en el Consejo de Evaluación de Medidas se deberá mantener la confidencialidad de los mismos y seguir el Protocolo de Seguridad en el Manejo de la Información.
+En el manejo de los datos e información relativos a los casos que conozca el Mecanismo y, en particular, el Consejo de Evaluación de Medidas, deberá preservarse en todo momento la confidencialidad de la información y observarse estrictamente el Protocolo de Seguridad en el Manejo de la Información, así como las demás disposiciones aplicables en materia de transparencia y protección de datos personales.
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 80.
 
-En el caso de que los integrantes civiles del Consejo de Evaluación de Medidas o de la Junta de Gobierno manejen inadecuadamente o difundan información sobre los Casos; su análisis de riesgo o las medidas adoptadas, los involucrados quedarán impedidos para ser parte del Mecanismo. Por su parte las autoridades deberán iniciar de forma inmediata el procedimiento correspondiente por la falta cometida.
+En caso de que las personas integrantes civiles del Consejo de Evaluación de Medidas o de la Junta de Gobierno hagan un uso indebido, revelen, difundan o permitan el acceso no autorizado a información relacionada con los casos, los análisis de riesgo o las medidas adoptadas, no podrán continuar formando parte del Mecanismo, sin perjuicio de las responsabilidades administrativas, civiles o penales a que haya lugar.
+
+Tratándose de personas servidoras públicas, la autoridad competente deberá iniciar de inmediato los procedimientos correspondientes conforme a la normativa aplicable.
 
 ### CAPÍTULO XV. DE LA RESPONSABILIDAD DE LAS PERSONAS SERVIDORAS PÚBLICAS
 
@@ -893,3 +913,27 @@ DÉCIMO NOVENO.- El Jefe de Gobierno, por conducto de las dependencias competent
 Recinto de la Asamblea Legislativa del Distrito Federal, a los nueve días del mes de julio del año dos mil quince.- POR LA MESA DIRECTIVA.- DIP. EFRAIN MORALES LÓPEZ, PRESIDENTE.- DIP. ALEJANDRO RAFAEL PIÑA MEDINA, SECRETARIO.- DIP. SAMUEL RODRÍGUEZ TORRES, SECRETARIO. (FIRMAS)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los siete días del mes de agosto del año dos mil quince.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO VIGÉSIMO PRIMERO POR EL QUE “SE MODIFICA LA DENOMINACIÓN DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DE LA CIUDAD DE MÉXICO; SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO XIV, PARA QUEDAR COMO “DE LA TRANSPARENCIA, LA PROTECCIÓN DE DATOS PERSONALES Y LA SEGURIDAD DE LA INFORMACIÓN”; Y SE REFORMAN LOS ARTÍCULOS 74, 75, 76, 77, 78, 79 Y 80 DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las referencias contenidas en leyes, reglamentos, acuerdos, lineamientos, manuales administrativos, disposiciones normativas y demás instrumentos jurídicos al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, o a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, se entenderán hechas a la autoridad competente que corresponda, de conformidad con la distribución de atribuciones prevista en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y demás normativa aplicable.
+
+QUINTO. Las referencias contenidas en los ordenamientos reformados a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México se entenderán realizadas al ordenamiento vigente en la materia, conforme a las disposiciones aplicables.
+
+SEXTO. Los sujetos obligados, dependencias, órganos desconcentrados, entidades, alcaldías, órganos autónomos y demás entes públicos comprendidos en el presente Decreto deberán realizar las adecuaciones administrativas, operativas y normativas necesarias para su cumplimiento, dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugnación, expedientes, registros, actuaciones administrativas y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio, salvo que la norma posterior resulte más favorable para la protección del derecho correspondiente.
+
+OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
