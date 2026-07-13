@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-justicia-alternativa-del-tribunal-superior-de-57806"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-08"
-last_updated: "2015-08-20"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57806&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2007-12-20"
 ---
 # LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL
 
-LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL
+LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 8 de enero de 2008.
 
@@ -50,7 +50,9 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIO
 
 Se expide la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, para quedar como sigue:
 
-LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE JULIO DE 2026)</small>
+
+LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO PRIMERO.
 
@@ -232,9 +234,11 @@ Los jueces, en materia civil, familiar, penal y de justicia para adolescentes de
 
 El ministerio público estará facultado para informar sobre las peculiaridades de la mediación, antes de iniciar denuncia o querella y orientar a los particulares en cuanto a las ventajas de acudir a la misma para alcanzar una solución económica, rápida y satisfactoria a sus controversias.
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 7.
 
-El término de la prescripción y para la caducidad de la instancia se interrumpirá durante la substanciación de la mediación, hasta por un máximo de dos meses.
+La información que se genere en los procedimientos de mediación se considerará reservada, en términos de lo previsto por la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
 
 ###### Artículo 8.
 
@@ -1287,3 +1291,25 @@ CUARTO. Quienes habiendo obtenido diploma o constancia de mediación privada con
 QUINTO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
 
 SEXTO. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO OCTAVO POR EL QUE “SE MODIFICA LA DENOMINACIÓN DE LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL, PARA QUEDAR COMO LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA LA CIUDAD DE MÉXICO; Y SE REFORMA EL ARTÍCULO 7 DE LA LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las referencias contenidas en leyes, reglamentos, acuerdos, lineamientos, manuales administrativos, disposiciones normativas y demás instrumentos jurídicos al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, o a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, se entenderán hechas a la autoridad competente que corresponda, de conformidad con la distribución de atribuciones prevista en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y demás normativa aplicable.
+
+QUINTO. Las referencias contenidas en los ordenamientos reformados a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México se entenderán realizadas al ordenamiento vigente en la materia, conforme a las disposiciones aplicables.
+
+SEXTO. Los sujetos obligados, dependencias, órganos desconcentrados, entidades, alcaldías, órganos autónomos y demás entes públicos comprendidos en el presente Decreto deberán realizar las adecuaciones administrativas, operativas y normativas necesarias para su cumplimiento, dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugnación, expedientes, registros, actuaciones administrativas y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio, salvo que la norma posterior resulte más favorable para la protección del derecho correspondiente.
+
+OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
