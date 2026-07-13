@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-contencioso-administrativo-para-el-28565"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-19"
-last_updated: "2026-06-23"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 19 de septiembre de 1999.
 
@@ -273,25 +273,61 @@ En los juicios que se tramiten ante el Tribunal, no habrá lugar a condenación 
 
 ### CAPITULO II. De las Notificaciones y de los Términos
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 13.
 
-Toda resolución durante el procedimiento debe notificarse, a más tardar, al día siguiente a aquél en que el expediente se haya turnado al Actuario para ese efecto. A continuación de la resolución, se asentará la razón respectiva.
+Toda resolución durante el procedimiento debe notificarse, a más tardar, al tercer día siguiente a aquél en que el expediente se haya turnado a la persona actuaria para ese efecto. A continuación de la resolución, se asentará la razón respectiva. Para el caso de las notificaciones realizadas por correo certificado, los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancias a dichas actuaciones.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2026)</small>
 
-Al Actuario que sin causa justificada incumpla con esta obligación o practique notificaciones en forma contraria a las formalidades conducentes, se le impondrá una multa qué no excederá del treinta por ciento de su salario mensual; en caso de reincidencia, se dará vista al Tribunal de Justicia Administrativa del Estado de Aguascalientes, a través del Pleno o del órgano competente previsto en su Ley Orgánica, el cual, previa audiencia del Actuario, podrá imponerle una sanción hasta por treinta días de suspensión. De persistir en la omisión, el Tribunal determinará la destitución del Actuario, sin responsabilidad para el Estado, lo anterior conforme a lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+A la persona actuaria que sin causa justificada incumpla con esta obligación o practique notificaciones en forma contraria a las formalidades conducentes, se le impondrá una multa que no excederá del treinta por ciento de su salario mensual; en caso de reincidencia, se dará vista al Órgano Interno de Control del Tribunal de Justicia Administrativa del Estado de Aguascalientes, el cual, previa audiencia de la persona actuaria, podrá imponerle una sanción hasta por treinta días de suspensión. De persistir en la omisión, el Órgano Interno de Control determinará la destitución de la persona actuaria, sin responsabilidad para el Estado.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 14.
 
-Las notificaciones se practicarán siguiendo las reglas del Código de Procedimientos Civiles del Estado, excepto en el caso de las autoridades, las cuales se harán por oficio.
+Las notificaciones a las personas particulares y a las autoridades en el juicio deberán realizarse por medio del Boletín Procesal, enviándose previamente un aviso electrónico a su dirección de correo electrónico o dirección de correo electrónico institucional según sea el caso, de que se realizará la notificación, a más tardar el tercer día siguiente a aquél en que el expediente haya sido turnado a la persona actuaria para ese efecto.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2026)</small>
+
+El aviso de notificación deberá ser enviado cuando menos con tres días de anticipación a la publicación del acuerdo, resolución o sentencia de que se trate en el Boletín Procesal.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2026)</small>
+
+Las notificaciones electrónicas a las partes se entenderán realizadas con la sola publicación en el Boletín Procesal, y con independencia del envío, cuando así proceda, de los avisos electrónicos.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2026)</small>
+
+La persona actuaria deberá asentar en el expediente la razón de las notificaciones realizadas por Boletín Procesal, haciendo constar la fecha de publicación y los datos necesarios para su identificación.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2026)</small>
+
+Las personas particulares y las autoridades, mientras no se haya realizado la notificación por Boletín Procesal, podrán apersonarse en el Tribunal para ser notificados personalmente. Una vez realizada la notificación por Boletín Procesal, las partes, cuando esto proceda, deberán acudir al Tribunal a recoger sus traslados de ley, en el entendido de que con o sin la entrega de los traslados, los plazos comenzarán a computarse a partir del día siguiente al en que surta efectos la notificación correspondiente. La persona actuaria o la persona titular de la Secretaría de Acuerdos, en todos los casos, previo levantamiento de razón, entregará los traslados de ley.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2026)</small>
+
+Dicho aviso deberá incluir el archivo electrónico que contenga el acuerdo y en el caso del emplazamiento, el escrito de demanda correspondiente.
 
 ###### ARTICULO 15.
 
 (DEROGADO, P.O. 10 DE ABRIL DE 2006)
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2026)</small>
+
+###### ARTICULO 15 Bis.
+
+Las notificaciones únicamente deberán realizarse personalmente, o por correo certificado con acuse de recibo, cuando se trate de las resoluciones siguientes:
+
+I. La que corra traslado de la demanda, en el caso de la persona tercera, así como el emplazamiento a la persona particular en el juicio de lesividad;
+
+II. La que mande citar a la persona testigo que no pueda ser presentado por la parte oferente.
+
+Para los efectos señalados en las fracciones anteriores, una vez que las partes y la persona testigo se apersonen en el juicio, y la persona perito haya comparecido para aceptar y protestar el cargo, deberán señalar dirección de correo electrónico, bajo el apercibimiento que, de no hacerlo, se procederá en los términos del artículo 29, último párrafo, de la presente Ley.
+
+Las personas magistradas, podrán excepcionalmente ordenar la notificación personal, por oficio o por correo certificado con acuse de recibo a las partes, atendiendo a su situación concreta, para lo cual deberán fundar y motivar esa determinación en el acuerdo respectivo.
+
+En los demás casos, las notificaciones deberán realizarse por medio del Boletín Procesal.
 
 ###### ARTICULO 16.
 
@@ -303,9 +339,9 @@ Las notificaciones surtirán sus efectos:
 
 I.- Desde el mismo día en que se hayan practicado, tratándose de las que deben hacerse personalmente; y
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2026)</small>
 
-II.- Las demás, desde el día siguiente al de la fijación de la lista en la Sala.
+II.- Las demás, al tercer día hábil siguiente a aquél en que se haya realizado la publicación en el Boletín Procesal.
 
 ###### ARTICULO 18.
 
@@ -469,11 +505,13 @@ Cuando el interesado fallezca durante el plazo para iniciar el juicio, éste se 
 
 La demanda deberá contener:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+I.- El nombre de la parte actora y domicilio para recibir notificaciones, así como su Dirección de Correo Electrónico, para recibir notificaciones.
 
-I.- El nombre del actor y domicilio para recibir notificaciones, así como su Dirección de Correo Electrónico, cuando opte por la sustanciación de Juicio en Línea;
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2026)</small>
+
+Cuando opte por la sustanciación de Juicio en Línea, así lo deberá indicar;
 
 II.- La resolución o acto administrativo que se impugna;
 
@@ -490,6 +528,10 @@ VII.- El nombre y domicilio del tercero interesado cuando lo haya;
 VIII.- La enumeración de las pruebas que ofrezca, las que deberán relacionarse con cada uno de los conceptos de nulidad; y
 
 IX.- Manifestar en su caso si se solicita la suspensión del acto impugnado y hacer el ofrecimiento de la garantía cuando corresponda.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2026)</small>
+
+Cuando no se señale dirección de correo electrónico, no se enviará el aviso electrónico que corresponda.
 
 ###### ARTICULO 30.
 
@@ -558,6 +600,10 @@ Admitida la demanda, se correrá traslado de ella al demandado, emplazándolo pa
 Cuando alguna autoridad que deba ser parte en el juicio no fuera señalada por el actor como demandada, de oficio, se le correrá traslado de la demanda, para que la conteste en el plazo a que se refiere el párrafo anterior.
 
 Si los demandados fueren varios, el término para contestarles correrá de manera individual.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2026)</small>
+
+Las dependencias, organismos o autoridades cuyos actos o resoluciones sean susceptibles de impugnarse ante el Tribunal, así como aquellas encargadas de su defensa en el juicio y quienes puedan promover juicio de lesividad, deben registrar su dirección de correo electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios administrativos, para el efecto del envío del aviso electrónico.
 
 ###### ARTICULO 36.
 
@@ -1221,17 +1267,15 @@ El Boletín Procesal o lista, es el medio de comunicación oficial, a través de
 
 Es obligación del Tribunal, llevar actualizado el Boletín Procesal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
 El mismo se difundirá por medio de dos formas:
 
 I. Impreso que estará accesible para consulta; o
 
-II. Electrónico que estará al alcance en la página de Internet de Poder Judicial del Estado.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2026)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+II. Electrónico que estará al alcance en la página de Internet oficial del Tribunal de Justicia Administrativa del Estado de Aguascalientes.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
@@ -1484,3 +1528,29 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 El Tribunal de Justicia Administrativa del Estado de Aguascalientes, en un plazo no mayor a 60 días naturales contados a partir de la entrada en vigor del presente Decreto, realizará las adecuaciones reglamentarias y administrativas necesarias para su cumplimiento.
+
+P.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 547.- SE REFORMA LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Tribunal de Justicia Administrativa del Estado de Aguascalientes contará con un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones técnicas, normativas y operativas necesarias para la correcta implementación del sistema de notificaciones electrónicas y el Boletín Procesal en los términos de esta reforma.
+
+Durante dicho periodo, las notificaciones se seguirán practicando conforme a las disposiciones vigentes con anterioridad a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para el cumplimiento de lo dispuesto en el presente Decreto, el Tribunal de Justicia Administrativa del Estado de Aguascalientes deberá realizar los ajustes presupuestales internos que permitan la viabilidad financiera de la implementación tecnológica, respetando su autonomía técnica y de gestión.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal, deberán registrar su Dirección de Correo Electrónico institucional, así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios administrativos, dentro del plazo de 90 días naturales a que se refiere el artículo segundo transitorio.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos iniciados con anterioridad a la entrada en vigor de la presente reforma se concluirán de acuerdo a las disposiciones vigentes con las que iniciaron.
