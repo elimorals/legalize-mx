@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2025-12-24"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -91,6 +91,10 @@ XIII. Habitante: La persona que reside en la Ciudad.
 XIV. Ingresos de aplicación automática: Los recursos por concepto de productos y aprovechamientos que recaudan y administran las Alcaldías.
 
 XV. Ley Procesal Electoral: La Ley Procesal Electoral de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XV Bis. Ley de Transparencia: Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México;
 
 XVI. Programa de Ordenamiento territorial de la alcaldía: El que es elaborado por la alcaldía con opinión del concejo, de conformidad a lo establecido por la Constitución Local.
 
@@ -606,9 +610,17 @@ III. Realizar acciones de conciliación en conflictos vecinales que permitan a l
 
 Las atribuciones exclusivas de las personas titulares de las Alcaldías en materia de Rendición de cuentas, son las siguientes:
 
-I. Cumplir con sus obligaciones en materia de transparencia y acceso a la información, de conformidad con la ley aplicable; y
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-II. Participar en el sistema local contra la corrupción y establecer una estrategia anual en la materia con indicadores públicos de evaluación y mecanismos de participación ciudadana, así como implementar controles institucionales para prevenir actos de corrupción; mecanismos de seguimiento, evaluación y observación pública de las licitaciones, contrataciones y concesiones que realicen; y adopción de tabuladores de precios máximos, sujetándose a lo dispuesto en las leyes generales de la materia;
+I. Cumplir con sus obligaciones en materia de transparencia, acceso a la información pública, protección de datos personales, gestión documental y archivo, de conformidad con la Constitución Política de la Ciudad de México y la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y la legislación en materia de protección de datos personales.
+
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+II. Participar en el Sistema Local Anticorrupción y establecer una estrategia anual en la materia con indicadores públicos de evaluación y mecanismos de participación ciudadana; e implementar controles institucionales para prevenir actos de corrupción; mecanismos de seguimiento, evaluación y observación pública de las licitaciones, contrataciones y concesiones que realicen; y adopción de tabuladores de precios máximos, sujetándose a lo dispuesto en las leyes generales de la materia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 13 DE JULIO DE 2026)</small>
+
+III. Participar, a través de su órgano interno de control, en el Comité del Subsistema de Transparencia de la Ciudad de México, en los términos que establezca la legislación aplicable, sin que ello implique el ejercicio de funciones como autoridad garante.
 
 ###### Artículo 39.
 
@@ -1562,11 +1574,25 @@ Mediante el uso del Sistema Integral de Información, Diagnóstico, Monitoreo y 
 
 Las Alcaldías en términos de la presente ley, participarán con la jefatura de gobierno en el diseño y despliegue de una agenda digital incluyente para la Ciudad.
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 122.
 
-Para garantizar de forma completa y actualizada la transparencia, la rendición de cuentas y el acceso a la información, las Alcaldías deberán establecer sistemas para informar a la ciudadanía sobre sus actividades, (sic) través de una plataforma de accesibilidad universal, de datos abiertos y apoyada en nuevas tecnologías.
+Para garantizar de forma completa, actualizada y verificable la transparencia, la rendición de cuentas y el acceso a la información, las Alcaldías deberán establecer y mantener sistemas institucionales integrales que permitan:
 
-Para efectos de lo dispuesto en el párrafo anterior, las Alcaldías, en coordinación con el gobierno de la Ciudad, contribuirán con infraestructura sólida, segura, innovadora y sustentable para que todos los habitantes de la demarcación puedan acceder a internet gratuito en espacios públicos.
+I. La publicación permanente y actualizada de las obligaciones de transparencia comunes y específicas;
+
+II. La generación y difusión de información en formatos abiertos, accesibles y reutilizables;
+
+III. La implementación de mecanismos de transparencia proactiva y gobierno abierto;
+
+IV. La interoperabilidad con la Plataforma Nacional de Transparencia y demás sistemas previstos en la ley;
+
+V. La accesibilidad universal, incluyendo ajustes razonables para personas con discapacidad.
+
+Para efectos de lo dispuesto en el presente artículo, las Alcaldías actuarán en coordinación con el Gobierno de la Ciudad y con las instancias competentes del Sistema Nacional y Local de Transparencia.
+
+Las Alcaldías, en coordinación con el Gobierno de la Ciudad, promoverán y contribuirán al desarrollo de infraestructura digital pública que garantice el acceso equitativo, seguro y continuo a herramientas tecnológicas y conectividad en espacios públicos, como medio para facilitar el ejercicio del derecho de acceso a la información, la participación ciudadana y la inclusión digital, conforme a la disponibilidad presupuestal y a la normatividad aplicable.
 
 ###### Artículo 123.
 
@@ -2256,17 +2282,21 @@ Ninguna autoridad de las Alcaldías podrá decidir las formas internas de conviv
 
 ### CAPÍTULO I. DISPOSICIONES COMUNES EN MATERIA DE TRANSPARENCIA Y LA RENDICIÓN DE CUENTAS
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 228.
 
-Las Alcaldías deberán regir su funcionamiento de acuerdo a los principios de certeza, eficacia, imparcialidad, independencia, legalidad, máxima publicidad, objetividad, profesionalismo, transparencia, buena administración, buen gobierno, y gobierno abierto con plena accesibilidad basado en la honestidad, transparencia, rendición de cuentas, integridad pública, atención y participación ciudadana y sustentabilidad.
+Las Alcaldías deberán regir su funcionamiento conforme a los principios de certeza, eficacia, imparcialidad, independencia, legalidad, máxima publicidad, objetividad, profesionalismo, transparencia, buena administración, buen gobierno y gobierno abierto, con plena accesibilidad, basado en la honestidad, rendición de cuentas, integridad pública, atención y participación ciudadana y sustentabilidad.
 
-Para ello adoptarán instrumentos de gobierno electrónico y abierto, innovación social y modernización.
+Para ello, adoptarán instrumentos de gobierno electrónico y abierto, innovación social y modernización.
 
-Es finalidad de las Alcaldías en los ámbitos de su respectiva competencia, garantizar la equidad, eficacia y transparencia de los programas y acciones de gobierno.
+Es finalidad de las Alcaldías, en los ámbitos de su respectiva competencia, garantizar la equidad, eficacia y transparencia de los programas y acciones de gobierno, asegurando la trazabilidad y disponibilidad de la información pública, a fin de facilitar el ejercicio efectivo del derecho de acceso a la información.
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 229.
 
-Las personas titulares de las Alcaldías, en el ámbito de sus atribuciones, deberán dar cumplimiento a sus obligaciones en materia de transparencia, acceso a la información y rendición de cuentas, de conformidad con la ley aplicable.
+Las personas titulares de las Alcaldías, en el ámbito de sus atribuciones, deberán dar cumplimiento a las obligaciones en materia de transparencia, acceso a la información pública, rendición de cuentas, privacidad y protección de datos personales, de conformidad con la Constitución Política de la Ciudad de México, las leyes generales aplicables y la legislación local en la materia, así como con las disposiciones, criterios y lineamientos que emitan las autoridades competentes.
 
 ### CAPÍTULO II. DEL ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -2274,43 +2304,85 @@ Las personas titulares de las Alcaldías, en el ámbito de sus atribuciones, deb
 
 Toda persona tiene derecho al libre acceso a información plural, suficiente y oportuna, así como producirla, buscarla, recibirla y difundirla por cualquier medio.
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 231.
 
-Las Alcaldías deberán documentar todo acto que deriva de sus facultades, competencias o funciones.
+Las Alcaldías deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, conforme a los principios de legalidad y máxima publicidad.
 
-Toda la información generada, obtenida, adquirida, transformada o en posesión de las Alcaldías, es pública y accesible a cualquier persona en los términos y condiciones que establezcan la Constitución Federal, la Constitución Local, las leyes generales y locales; sólo podrá ser clasificada excepcionalmente como reservada temporalmente por razones de interés público, en los términos dispuestos por la normatividad aplicable.
+Toda la información generada, obtenida, adquirida, transformada o en posesión de las Alcaldías es pública y accesible a cualquier persona en los términos establecidos en la Constitución Federal, la Constitución Política de la Ciudad de México y la legislación general y local aplicable.
+
+Solo podrá clasificarse excepcionalmente como reservada o confidencial mediante resolución debidamente fundada y motivada, conforme a los principios de necesidad, proporcionalidad y temporalidad.
+
+Las Alcaldías deberán garantizar la elaboración de versiones públicas, la adecuada protección de datos personales y la conservación documental conforme a la normatividad en materia de archivos.
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 232.
 
 Las Alcaldías contarán con órganos internos de control, mismos que tendrán las facultades y atribuciones que establece la ley de la materia.
 
-### CAPÍTULO I. GENERALIDADES
+Los órganos internos de control coadyuvarán en el cumplimiento de las obligaciones de transparencia, acceso a la información y rendición de cuentas, y podrán participar, en su caso, en los mecanismos de coordinación institucional que establezca el Comité del Subsistema de Transparencia de la Ciudad de México, sin asumir funciones de autoridad garante.
+
+Dicha participación tendrá por objeto fortalecer la armonización normativa, la implementación de políticas públicas en materia de transparencia, gobierno abierto, datos abiertos y rendición de cuentas, sin que ello implique facultades para resolver recursos, emitir criterios vinculantes o interpretar la normativa aplicable.
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 232 Bis.
+
+Para el cumplimiento de sus obligaciones como sujetos obligados, las Alcaldías deberán contar, cuando menos, con:
+
+I. Unidad de Transparencia, como instancia responsable de la recepción, trámite y seguimiento de solicitudes de acceso a la información y de derechos en materia de datos personales, en los términos previstos por la legislación aplicable;
+
+II. Comité de Transparencia, como órgano colegiado competente para confirmar, modificar o revocar la clasificación de la información, declarar inexistencias y ordenar medidas para la adecuada gestión documental, en los términos de la legislación aplicable; y
+
+III. Mecanismos y herramientas institucionales que aseguren la accesibilidad y la atención a personas en situación de vulnerabilidad, conforme a las disposiciones y lineamientos aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 13 DE JULIO DE 2026)</small>
+
+### CAPÍTULO III. DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 232 Ter.
+
+La persona titular del Órgano Interno de Control será integrante, en representación de la Alcaldía, del Comité del Subsistema de Transparencia de la Ciudad de México, de conformidad con lo dispuesto en el artículo 28 de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
+
+Su participación se ejercerá conforme a la legislación local en la materia y no implicará el ejercicio de funciones como Autoridad Garante, las cuales se regirán por el régimen competencial previsto en la propia Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
 
 ## TÍTULO XVI. DE LAS ACCIONES ANTICORRUPCIÓN
 
-### CAPÍTULO II. DE LA PARTICIPACIÓN DE LAS ALCALDÍAS EN LOS SISTEMAS NACIONAL Y LOCAL ANTICORRUPCIÓN
+### CAPÍTULO I. GENERALIDADES
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 233.
 
-Cualquier ciudadana o ciudadano podrá denunciar hechos de corrupción y recurrir las resoluciones del órgano interno de control de conformidad con los requisitos que al efecto establezca la ley de la materia.
+Cualquier ciudadana o ciudadano podrá denunciar hechos de corrupción y recurrir las resoluciones del órgano interno de control, de conformidad con los requisitos que establezcan las leyes aplicables.
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 234.
 
-Todos los servidores públicos de las Alcaldías están sujetos al régimen de responsabilidades administrativas, resarcitorias y penales que se estable (sic) en los artículos 61, numeral 1, fracción ii, 64 y 66 de la Constitución Local, así como en las leyes aplicables.
+Todas las personas servidoras públicas de las Alcaldías estarán sujetas al régimen de responsabilidades administrativas, resarcitorias y penales que se establece en los artículos 61, numeral 1, fracción II, 64 y 66 de la Constitución Local, así como en las leyes aplicables.
 
 ###### Artículo 235.
 
 Sin perjuicio de lo señalado en el artículo precedente, las personas que ocupen un cargo de elección popular en la Alcaldía serán sujetos del régimen de responsabilidad política, conforme a lo establecido en el artículo 65 de la Constitución Local.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 236.
 
-Las Alcaldías de la Ciudad se encuentran sujetas al control interno y externo que prevén el artículo 122 de la Constitución Federal, la constitución local y las leyes que de ella emanan.
+Las Alcaldías de la Ciudad se encuentran sujetas al control interno y externo que prevén el artículo 122 de la Constitución Federal, la Constitución Local y las leyes que de ella emanan.
 
-Ningún servidor público de las Alcaldías podrá oponerse u obstaculizar los trabajos de control interno y de fiscalización superior que, de forma fundada y motivada, realicen la Secretaría encargada del control interno y la Auditoría Superior de la Ciudad de México.
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
+Ninguna persona servidora pública de las Alcaldías podrá oponerse u obstaculizar los trabajos de control interno y de fiscalización superior que, de forma fundada y motivada, realicen la Secretaría encargada del control interno y la Auditoría Superior de la Ciudad de México.
 
 La misma disposición aplicará para la Auditoría Superior de la Federación tratándose de recursos de procedencia federal.
 
-### CAPÍTULO III. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO II. DE LA PARTICIPACIÓN DE LAS ALCALDÍAS EN LOS SISTEMAS NACIONAL Y LOCAL ANTICORRUPCIÓN
 
 ###### Artículo 237.
 
@@ -2341,6 +2413,8 @@ Para el diseño y planeación de los mismos, las Alcaldías deberán ajustarse a
 ###### Artículo 241.
 
 En el informe anual que en esta materia entregue la Alcaldía, deberá incluir las acciones puntuales que sustenten su ejecución y publicarlo en la página electrónica de la Alcaldía.
+
+### CAPÍTULO III. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 242.
 
@@ -2625,3 +2699,31 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su prom
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Las Alcaldías podrán llevar a cabo mediante gastos compensados los ajustes presupuestarios y hacer las prevenciones para los siguientes ejercicios fiscales a efecto de implementar planes y programas de atención a la salud mental de las personas jóvenes dentro de su demarcación territorial.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PUBLICA DE LA CIUDAD DE MÉXICO, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO; DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO; Y DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DE LA CIUDAD DE MÉXICO, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, con excepción de lo previsto en el Transitorio Séptimo de este Decreto.
+
+CUARTO.- La Persona Titular de la Jefatura de Gobierno de la Ciudad de México realizará las modificaciones reglamentarias que correspondan para la debida observancia del presente Decreto.
+
+QUINTO.- La Persona Titular de la Jefatura de Gobierno de la Ciudad de México expedirá el Decreto de creación del órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que hace referencia la fracción LII del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+
+SEXTO.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+SÉPTIMO.- Las fracciones LII, LIII, LIX, LX y LXI del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México entrarán en vigor cuando entre en funcionamiento el órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que se refiere la fracción LII del mencionado artículo.
+
+OCTAVO.- Los sujetos obligados, dependencias, órganos desconcentrados, alcaldías, órganos autónomos y demás entes públicos deberán realizar las adecuaciones administrativas, operativas y reglamentarias necesarias para el cumplimiento del presente Decreto dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+NOVENO.- El Congreso de la Ciudad de México, los órganos constitucionalmente autónomos y las demás autoridades competentes deberán armonizar sus reglamentos interiores, lineamientos y disposiciones normativas internas dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DECIMO.- Los procedimientos administrativos, solicitudes de acceso a la información, recursos de revisión, medios de impugnación, procedimientos de protección de datos personales y demás asuntos iniciados con anterioridad a la entrada en vigor del presente.
+
+DECIMO PRIMERO.- Con la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan al mismo.
+
+DECIMO SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
