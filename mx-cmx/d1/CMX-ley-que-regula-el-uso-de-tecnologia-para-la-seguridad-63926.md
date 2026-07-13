@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-regula-el-uso-de-tecnologia-para-la-seguridad-63926"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-27"
-last_updated: "2025-08-27"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63926&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-10-16"
 
 LEY QUE REGULA EL USO DE TECNOLOGÍA PARA LA SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 27 de octubre de 2008.
 
@@ -168,9 +168,9 @@ Secretaría.
 
 Sólo podrán ser instalados, sin previa autorización, los equipos tecnológicos fijos en bienes del dominio público o bienes del dominio privado de la Ciudad de México. Para la instalación en cualquier otro lugar, se requerirá autorización por escrito de la persona propietaria o poseedora del lugar donde se pretenda ubicar los equipos y sistemas tecnológicos.
 
-> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
-Dicha autorización será clasificada como confidencial y deberá resguardarse junto con la información obtenida por esos sistemas tecnológicos, de conformidad con lo dispuesto en la presente Ley y la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+Dicha autorización será clasificada como confidencial y deberá resguardarse junto con la información obtenida por esos sistemas tecnológicos, de conformidad con lo dispuesto en la presente Ley y la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 6 DE JULIO DE 2012)</small>
 
@@ -322,17 +322,17 @@ La información a que se refiere esta Ley no podrá obtenerse, clasificarse, ana
 
 I. Cuando provenga de la intervención de comunicaciones privadas, salvo cuando sea autorizada por la autoridad judicial federal de conformidad con la Constitución Política de los Estados Unidos Mexicanos y las leyes secundarias;
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-II. Cuando se clasifique, analice, custodie, difunda o distribuya en contravención a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México; y
+II. Cuando se clasifique, analice, custodie, difunda o distribuya en contravención a la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México; y
 
 III. Cuando se obtenga al interior de un domicilio o violente el derecho a la vida privada de las personas, excepto en los casos de flagrancia o mandamiento judicial, en cuyo caso, deberá observarse lo siguiente:
 
 a) Si con el uso de equipos o sistemas tecnológicos se obtiene información que violente esta disposición, la Secretaría, de forma oficiosa y expedita, deberá destruir la misma, motivando la razón de tal hecho, asegurándose de que no sea archivada, clasificada, analizada o custodiada de forma alguna; y
 
-> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
-b) En el supuesto de que, junto con información relevante para la seguridad pública, obtenida con el uso de equipos o sistemas tecnológicos, a que hace referencia el artículo anterior, se obtuviere información que afecte los derechos preservados en esta fracción y dicha parte no pueda ser eliminada por riesgo a afectar la integridad de la información, la Secretaría clasificará sólo esa parte como confidencial y le dará el trato correspondiente, de conformidad con esta Ley y la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+b) En el supuesto de que, junto con información relevante para la seguridad pública, obtenida con el uso de equipos o sistemas tecnológicos, a que hace referencia el artículo anterior, se obtuviere información que afecte los derechos preservados en esta fracción y dicha parte no pueda ser eliminada por riesgo a afectar la integridad de la información, la Secretaría clasificará sólo esa parte como confidencial y le dará el trato correspondiente, de conformidad con esta Ley y la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
 
 ###### Artículo 17.
 
@@ -390,11 +390,11 @@ Los particulares tienen las obligaciones y limitaciones en la utilización de eq
 
 ### CAPÍTULO V. DE LA RESERVA, CONTROL, ANÁLISIS Y UTILIZACIÓN DE LA INFORMACIÓN OBTENIDA CON TECNOLOGÍA
 
-> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 22.
 
-Toda información obtenida por la Secretaría con el uso de equipos o sistemas tecnológicos, conforme a los lineamientos de la presente Ley, debe registrarse, clasificarse y tratarse de conformidad con lo establecido en la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+Toda información obtenida por la Secretaría con el uso de equipos o sistemas tecnológicos, conforme a los lineamientos de la presente Ley, debe registrarse, clasificarse y tratarse de conformidad con lo establecido en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
 
 ###### Artículo 23.
 
@@ -426,7 +426,7 @@ La Secretaría debe garantizar la inviolabilidad e inalterabilidad de la informa
 
 Las personas servidoras públicas que tengan bajo su custodia la información a que hace referencia este artículo, serán responsables directamente de su guarda, inviolabilidad e inalterabilidad, hasta en tanto no hagan entrega de la misma a otra persona servidora pública, dando cuenta de dicho acto en el documento donde conste la Cadena de Custodia de la misma.
 
-> <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 26.
 
@@ -434,7 +434,7 @@ Las personas servidoras públicas de la Secretaría que participen en la obtenci
 
 Asimismo, dichas personas servidoras públicas deberán otorgar por escrito una promesa de confidencialidad que observarán en todo tiempo, aún después de que hayan cesado en el cargo en razón del cual se les otorgó el acceso.
 
-Las personas servidoras públicas del Ministerio Público, Autoridad especializada en Justicia para Adolescentes o Autoridad que ventile un procedimiento administrativo, seguido en forma de juicio, establecido en la normativa de la Ciudad de México, deberán acatar las disposiciones de este artículo cuando, por razón de su encargo, conozcan o manejen información reservada a que hace referencia esta Ley y la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+Las personas servidoras públicas del Ministerio Público, Autoridad especializada en Justicia para Adolescentes o Autoridad que ventile un procedimiento administrativo, seguido en forma de juicio, establecido en la normativa de la Ciudad de México, deberán acatar las disposiciones de este artículo cuando, por razón de su encargo, conozcan o manejen información reservada a que hace referencia esta Ley y la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
 
@@ -671,3 +671,25 @@ G.O. 27 DE AGOSTO DE 2025.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES II, IV Y XV DEL ARTÍCULO 2; UN CAPÍTULO I BIS AL TÍTULO SEGUNDO DEL CONSEJO DE EVALUACIÓN, DENOMINADO "DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DEL ÓRGANO INTERNO DE CONTROL COMO AUTORIDAD GARANTE", ASÍ COMO LOS ARTÍCULOS 16 BIS Y 16 TER, TODOS DE LA LEY DE EVALUACIÓN DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY DE DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY DE DEFENSORÍA PÚBLICA DE LA CIUDAD DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 1, 2 FRACCIONES II, IV, V, VI, IX, XI Y XIII, 3, 7 FRACCIONES II y XXIII, 13 FRACCIONES V Y VI, 15, 21 FRACCIÓN IX, 22 FRACCIÓN VI, 23, 24, 33, 35 FRACCIONES VII Y VIII, 38 FRACCIÓN IV, 39, 42 FRACCIONES I Y II, Y 43, 53 FRACCIONES IV, V, VI Y VIII, Y 58 FRACCIONES III, VI Y VII; Y SE ADICIONA LA FRACCIÓN XXIV DEL ARTÍCULO 7, UN SEGUNDO PÁRRAFO AL ARTÍCULO 31, EL ARTÍCULO 31 BIS Y LA FRACCIÓN IX DEL ARTÍCULO 35, TODOS DE LA LEY DE DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 59 DE LA LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO. SE REFORMAN EL ARTÍCULO 2, 4 FRACCIÓN X, 17 FRACCIONES VIII Y X, 22 FRACCIÓN III, 23, 24, Y 27; Y SE ADICIONAN LA FRACCIÓN XIV DEL ARTÍCULO 4, UN CAPÍTULO V, DENOMINADO "DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DE LA CONTRALORÍA INTERNA COMO AUTORIDAD GARANTE", LOS ARTÍCULOS 31 Y 32, TODOS DE LA LEY DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 3 FRACCIONES XXXIII Y XLIII, 11 FRACCIÓN IV, 20 FRACCIÓN XIX Y 34 FRACCIÓN V DE LA LEY DEL SISTEMA INTEGRAL DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 33 DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 5 FRACCIONES V Y XXXII, Y 27 FRACCIÓN II DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 10 FRACCIÓN V Y 31 FRACCIÓN V DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO. SE ADICIONA LA FRACCIÓN XL BIS DEL ARTÍCULO 2; SE REFORMAN LOS ARTÍCULOS 100 FRACCIÓN VI Y 103 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 6 FRACCIONES VI, LVII Y LXIX, 17 FRACCIÓN XVII, 21 FRACCIÓN VI, 37 FRACCIÓN X Y 45; SE ADICIONAN LA FRACCIÓN XVII BIS DEL ARTÍCULO 6; Y SE DEROGAN LA FRACCIÓN LVIII DEL ARTÍCULO 6, TODOS DE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN IX, 12 FRACCIÓN VI Y 30 DE LA LEY DE CIUDADANÍA DIGITAL DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 39 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MÉXICO. SE ADICIONAN LAS FRACCIONES XVIII BIS Y XVIII TER DEL ARTÍCULO 3; SE REFORMAN LA FRACCIÓN XXIV DEL ARTÍCULO 3 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 123, 124 Y 164 DE LA LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 43 Y 70 FRACCIÓN VII DE LA LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LOS SERVIDORES PÚBLICOS QUE DESIGNA LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LOS TITULARES DE LOS ÓRGANOS POLÍTICO-ADMINISTRATIVOS DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LAS PERSONAS SERVIDORAS PÚBLICAS QUE DESIGNA EL CONGRESO DE LA CIUDAD DE MÉXICO Y DE LAS PERSONAS TITULARES DE LAS ALCALDÍAS DE LA CIUDAD DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 8, 10, 24, 26, 29, 30 Y 31 Y SE DEROGAN LAS FRACCIONES IV DE LOS ARTÍCULOS 2 Y 3 DE LA LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LOS SERVIDORES PÚBLICOS QUE DESIGNA LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LOS TITULARES DE LOS ÓRGANOS POLÍTICO-ADMINISTRATIVOS DEL DISTRITO FEDERAL. SE REFORMAN LOS ARTÍCULOS 5, 16, 22 Y 26 DE LA LEY QUE REGULA EL USO DE TECNOLOGÍA PARA LA SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL, PARA QUEDAR COMO LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA LA CIUDAD DE MÉXICO; Y SE REFORMA EL ARTÍCULO 7 DE LA LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 17 DE LA LEY DEL SISTEMA DE ALERTA SOCIAL DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO, PARA QUEDAR COMO LEY PARA EL DESARROLLO DE LA CIUDAD DE MÉXICO COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO; Y SE REFORMAN LOS ARTÍCULOS 5, 28, 30, 33, 36, 43 y 44 DE LA LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO. SE MODIFICA LA DENOMINACIÓN DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DE LA CIUDAD DE MÉXICO; SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO XIV, PARA QUEDAR COMO "DE LA TRANSPARENCIA, LA PROTECCIÓN DE DATOS PERSONALES Y LA SEGURIDAD DE LA INFORMACIÓN"; Y SE REFORMAN LOS ARTÍCULOS 74, 75, 76, 77, 78, 79 Y 80 DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL".]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las referencias contenidas en leyes, reglamentos, acuerdos, lineamientos, manuales administrativos, disposiciones normativas y demás instrumentos jurídicos al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, o a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, se entenderán hechas a la autoridad competente que corresponda, de conformidad con la distribución de atribuciones prevista en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y demás normativa aplicable.
+
+QUINTO. Las referencias contenidas en los ordenamientos reformados a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México se entenderán realizadas al ordenamiento vigente en la materia, conforme a las disposiciones aplicables.
+
+SEXTO. Los sujetos obligados, dependencias, órganos desconcentrados, entidades, alcaldías, órganos autónomos y demás entes públicos comprendidos en el presente Decreto deberán realizar las adecuaciones administrativas, operativas y normativas necesarias para su cumplimiento, dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugnación, expedientes, registros, actuaciones administrativas y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio, salvo que la norma posterior resulte más favorable para la protección del derecho correspondiente.
+
+OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
