@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-ciudadania-digital-de-la-ciudad-de-mexico-139916"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-09"
-last_updated: "2022-11-11"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139916&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-01-08"
 
 LEY DE CIUDADANÍA DIGITAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en el No. 258 Bis de la Gaceta Oficial de la Ciudad de México el jueves 9 de enero de 2020.
 
@@ -146,7 +146,9 @@ VII. Proporcionalidad.- Los requerimientos de seguridad y autenticación de los 
 
 VIII. Datos Abiertos por Defecto.- Los datos se encontrarán en formato de datos abiertos, sin comprometer el derecho a la protección de los datos personales de las personas.
 
-IX. Transparencia y confidencialidad.- El tratamiento de la información que se genere con motivo del Autenticador deberá realizarse de conformidad con lo establecido en la Ley de Protección de Datos Personales en posesión de Sujetos Obligados de la Ciudad de México y la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+IX. Transparencia y confidencialidad.- El tratamiento de la información que se genere con motivo del Autenticador deberá realizarse de conformidad con lo establecido en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México y la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
 
 ###### Artículo 4.
 
@@ -266,9 +268,9 @@ IV. Incorporar a sus canales digitales las herramientas necesarias para facilita
 
 V. Utilizar el Riel de Interoperabilidad, apegándose a los criterios técnicos y de seguridad para el intercambio de información y/o datos que defina la Agencia;
 
-> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-VI. Utilizar tecnologías de la información y comunicaciones que aseguren la disponibilidad, el acceso, la integridad, la autenticidad, la confidencialidad y la conservación de los datos e información que generen, con motivo de la utilización del Autenticador, en términos de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados de la Ciudad de México, de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México y de la Ley de Archivos de la Ciudad de México;
+VI. Utilizar tecnologías de la información y comunicaciones que aseguren la disponibilidad, el acceso, la integridad, la autenticidad, la confidencialidad y la conservación de los datos e información que generen, con motivo de la utilización del Autenticador, en términos de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México, de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y de la Ley de Archivos de la Ciudad de México;
 
 VII. Cumplir los procedimientos para identificar a las Personas que presenten sus solicitudes mediante canales digitales conforme lo mandata esta Ley;
 
@@ -454,7 +456,9 @@ La Agencia no tendrá acceso ni incorporará a sus archivos a la información qu
 
 La Administración Pública y las Alcaldías que substancien procedimientos de carácter administrativo y la Fiscalía General de Justicia de la Ciudad de México, en cumplimiento de sus atribuciones, podrán consultar la Cédula Ciudadana, así como los documentos y/o datos que obren en los Expedientes Electrónicos de los involucrados para fines de substanciación y de investigación, respectivamente.
 
-La Agencia deberá llevar un registro de las consultas que dichas autoridades realicen a la Cédula Ciudadana y a los Expedientes Electrónicos vinculados a ésta. Dichos registros podrán tener el carácter de reservado, en términos de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, en tanto no concluya la investigación para la cual la información y/o datos fueron requeridos.
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
+La Agencia deberá llevar un registro de las consultas que dichas autoridades realicen a la Cédula Ciudadana y a los Expedientes Electrónicos vinculados a ésta. Dichos registros podrán tener el carácter de reservado, en términos de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México, en tanto no concluya la investigación para la cual la información y/o datos fueron requeridos.
 
 En su caso, para efectos de pruebas dentro de un juicio penal se atenderán las exigencias establecidas en el Código Nacional de Procedimientos Penales.
 
@@ -773,3 +777,25 @@ G.O. 11 DE NOVIEMBRE DE 2022.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES II, IV Y XV DEL ARTÍCULO 2; UN CAPÍTULO I BIS AL TÍTULO SEGUNDO DEL CONSEJO DE EVALUACIÓN, DENOMINADO “DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DEL ÓRGANO INTERNO DE CONTROL COMO AUTORIDAD GARANTE”, ASÍ COMO LOS ARTÍCULOS 16 BIS Y 16 TER, TODOS DE LA LEY DE EVALUACIÓN DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY DE DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY DE DEFENSORÍA PÚBLICA DE LA CIUDAD DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 1, 2 FRACCIONES II, IV, V, VI, IX, XI Y XIII, 3, 7 FRACCIONES II y XXIII, 13 FRACCIONES V Y VI, 15, 21 FRACCIÓN IX, 22 FRACCIÓN VI, 23, 24, 33, 35 FRACCIONES VII Y VIII, 38 FRACCIÓN IV, 39, 42 FRACCIONES I Y II, Y 43, 53 FRACCIONES IV, V, VI Y VIII, Y 58 FRACCIONES III, VI Y VII; Y SE ADICIONA LA FRACCIÓN XXIV DEL ARTÍCULO 7, UN SEGUNDO PÁRRAFO AL ARTÍCULO 31, EL ARTÍCULO 31 BIS Y LA FRACCIÓN IX DEL ARTÍCULO 35, TODOS DE LA LEY DE DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 59 DE LA LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO. SE REFORMAN EL ARTÍCULO 2, 4 FRACCIÓN X, 17 FRACCIONES VIII Y X, 22 FRACCIÓN III, 23, 24, Y 27; Y SE ADICIONAN LA FRACCIÓN XIV DEL ARTÍCULO 4, UN CAPÍTULO V, DENOMINADO “DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DE LA CONTRALORÍA INTERNA COMO AUTORIDAD GARANTE”, LOS ARTÍCULOS 31 Y 32, TODOS DE LA LEY DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 3 FRACCIONES XXXIII Y XLIII, 11 FRACCIÓN IV, 20 FRACCIÓN XIX Y 34 FRACCIÓN V DE LA LEY DEL SISTEMA INTEGRAL DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 33 DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 5 FRACCIONES V Y XXXII, Y 27 FRACCIÓN II DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 10 FRACCIÓN V Y 31 FRACCIÓN V DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO. SE ADICIONA LA FRACCIÓN XL BIS DEL ARTÍCULO 2; SE REFORMAN LOS ARTÍCULOS 100 FRACCIÓN VI Y 103 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 6 FRACCIONES VI, LVII Y LXIX, 17 FRACCIÓN XVII, 21 FRACCIÓN VI, 37 FRACCIÓN X Y 45; SE ADICIONAN LA FRACCIÓN XVII BIS DEL ARTÍCULO 6; Y SE DEROGAN LA FRACCIÓN LVIII DEL ARTÍCULO 6, TODOS DE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN IX, 12 FRACCIÓN VI Y 30 DE LA LEY DE CIUDADANÍA DIGITAL DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 39 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MÉXICO. SE ADICIONAN LAS FRACCIONES XVIII BIS Y XVIII TER DEL ARTÍCULO 3; SE REFORMAN LA FRACCIÓN XXIV DEL ARTÍCULO 3 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 123, 124 Y 164 DE LA LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 43 Y 70 FRACCIÓN VII DE LA LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LOS SERVIDORES PÚBLICOS QUE DESIGNA LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LOS TITULARES DE LOS ÓRGANOS POLÍTICO-ADMINISTRATIVOS DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LAS PERSONAS SERVIDORAS PÚBLICAS QUE DESIGNA EL CONGRESO DE LA CIUDAD DE MÉXICO Y DE LAS PERSONAS TITULARES DE LAS ALCALDÍAS DE LA CIUDAD DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 8, 10, 24, 26, 29, 30 Y 31 Y SE DEROGAN LAS FRACCIONES IV DE LOS ARTÍCULOS 2 Y 3 DE LA LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LOS SERVIDORES PÚBLICOS QUE DESIGNA LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LOS TITULARES DE LOS ÓRGANOS POLÍTICO-ADMINISTRATIVOS DEL DISTRITO FEDERAL. SE REFORMAN LOS ARTÍCULOS 5, 16, 22 Y 26 DE LA LEY QUE REGULA EL USO DE TECNOLOGÍA PARA LA SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL, PARA QUEDAR COMO LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA LA CIUDAD DE MÉXICO; Y SE REFORMA EL ARTÍCULO 7 DE LA LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 17 DE LA LEY DEL SISTEMA DE ALERTA SOCIAL DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO, PARA QUEDAR COMO LEY PARA EL DESARROLLO DE LA CIUDAD DE MÉXICO COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO; Y SE REFORMAN LOS ARTÍCULOS 5, 28, 30, 33, 36, 43 y 44 DE LA LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO. SE MODIFICA LA DENOMINACIÓN DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DE LA CIUDAD DE MÉXICO; SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO XIV, PARA QUEDAR COMO “DE LA TRANSPARENCIA, LA PROTECCIÓN DE DATOS PERSONALES Y LA SEGURIDAD DE LA INFORMACIÓN”; Y SE REFORMAN LOS ARTÍCULOS 74, 75, 76, 77, 78, 79 Y 80 DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las referencias contenidas en leyes, reglamentos, acuerdos, lineamientos, manuales administrativos, disposiciones normativas y demás instrumentos jurídicos al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, o a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, se entenderán hechas a la autoridad competente que corresponda, de conformidad con la distribución de atribuciones prevista en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y demás normativa aplicable.
+
+QUINTO. Las referencias contenidas en los ordenamientos reformados a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México se entenderán realizadas al ordenamiento vigente en la materia, conforme a las disposiciones aplicables.
+
+SEXTO. Los sujetos obligados, dependencias, órganos desconcentrados, entidades, alcaldías, órganos autónomos y demás entes públicos comprendidos en el presente Decreto deberán realizar las adecuaciones administrativas, operativas y normativas necesarias para su cumplimiento, dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugnación, expedientes, registros, actuaciones administrativas y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio, salvo que la norma posterior resulte más favorable para la protección del derecho correspondiente.
+
+OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
