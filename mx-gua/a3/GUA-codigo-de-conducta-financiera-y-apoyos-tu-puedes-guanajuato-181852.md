@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-conducta-financiera-y-apoyos-tu-puedes-guanajuato-181
 country: "mx"
 rank: "codigo"
 publication_date: "2025-10-02"
-last_updated: "2025-10-02"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE CONDUCTA FINANCIERA Y APOYOS ''TU PUEDES GUANAJUATO"
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LA FINANCIERA Y APOYOS «TÚ PUEDES GUANAJUATO», PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA FINANCIERA Y APOYOS “TÚ PUEDES GUANAJUATO”
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2026 (ABROGADO).
 
 Código publicado en la Segunda Parte del Número 197 del Periódico Oficial del Estado de Guanajuato, el jueves 2 de octubre de 2025.
 
@@ -352,3 +354,15 @@ Aprobó el Órgano Interno de Control de la Secretaría de Economía:
 Carlos Enrique Mendoza Santibáñez
 
 Titular del Órgano Interno de Control de la Secretaría de Economía
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA FINANCIERA Y APOYOS "TÚ PUEDES GUANAJUATO".]
+
+Primero. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Segundo. Sin perjuicio de lo anterior, el presente Código deberá difundirse en la página de internet Institucional de la Financiera.
+
+Tercero. Se abroga el Código de Conducta de la Financiera y Apoyos «Tú Puedes Guanajuato», publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 197 Segunda Parte, de fecha 2 de octubre de 2025.
