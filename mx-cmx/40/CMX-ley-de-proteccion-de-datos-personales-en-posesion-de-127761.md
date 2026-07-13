@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-de-datos-personales-en-posesion-de-127761"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-10"
-last_updated: "2021-02-11"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127761&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2018-02-22"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 13 DE JULIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el martes 10 de abril de 2018.
 
@@ -1699,3 +1701,25 @@ G.O. 11 DE FEBRERO DE 2021.
 PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, con excepción de lo previsto en el Transitorio Quinto del mismo.
+
+CUARTO.- A la entrada en vigor del presente Decreto, queda abrogada la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México publicada el veintidós de febrero del año dos mil dieciocho, así como sus posteriores reformas.
+
+QUINTO.- Las normas relativas a las funciones encomendadas al Órgano Desconcentrado de la Secretaría de la Contraloría General de la Ciudad de México a que se refiere el presente Decreto entrarán en vigor una vez que comience su funcionamiento, por lo que, a partir de ese momento, se entenderán formalmente extintas las funciones del ente público que ejercía atribuciones en dicha materia en la Ciudad de México.
+
+SEXTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
+
+SÉPTIMO.- Las funciones, servicios y procedimientos en materia de protección de datos personales no podrán suspenderse ni interrumpirse con motivo de la entrada en vigor del presente Decreto. Las autoridades garantes competentes deberán garantizar en todo momento la continuidad operativa y el ejercicio efectivo de los derechos de las personas.
+
+OCTAVO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, se sustanciarán ante la Secretaría de la Contraloría General de la Ciudad de México por medio de su órgano desconcentrado, conforme a la normatividad vigente al momento en que éste entre en funciones.
+
+NOVENO.- Con la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan al mismo.
