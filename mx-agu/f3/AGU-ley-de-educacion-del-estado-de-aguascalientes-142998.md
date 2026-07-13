@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2026-05-11"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -519,11 +519,13 @@ XIII. Fomentar el aprendizaje de diferentes idiomas, para lo cual se llevarán a
 
 XIV. Promover mediante la enseñanza el conocimiento de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2026)</small>
 
-XV. Fomentar actitudes solidarias y positivas hacia el trabajo y el bienestar general, impulsando una cultura económica y financiera en los educandos, conforme con cada etapa de su vida, bajo las siguientes bases:
+XV. Fomentar actitudes solidarias y positivas hacia el trabajo y el bienestar general, impulsando una cultura de inclusión económica y financiera en los educandos, en términos de la Ley para el Fomento a la Economía, la Inversión y el Empleo para el Estado de Aguascalientes; conforme con cada etapa de su vida, bajo las siguientes bases:
 
-a) Dar conocimientos patrimoniales básicos para planificar con visión de futuro;
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2026)</small>
+
+a) Dar conocimientos patrimoniales básicos y de inclusión financiera, que resulten necesarios para planificar con visión de futuro, como lo son: el acceso a la infraestructura bancaria, el uso de productos y servicios, la protección al consumidor y la educación financiera;
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
 
@@ -2021,11 +2023,17 @@ IV. Informar a las autoridades educativas, los cambios que se presenten en la co
 
 V. Acudir a los llamados de las autoridades educativas y escolares relacionados con la revisión del progreso, desempeño y conducta de sus hijas, hijos o pupilos menores de dieciocho años;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2026)</small>
 
-VI. Promover la participación de sus hijas, hijos o pupilos menores de dieciocho años en la práctica de actividades físicas, de recreación, deportivas y de educación física dentro y fuera de los planteles educativos, como un medio de cohesión familiar y comunitaria; y
+VI. Promover la participación de sus hijas, hijos o pupilos menores de dieciocho años en la práctica de actividades físicas, de recreación, deportivas y de educación física dentro y fuera de los planteles educativos, como un medio de cohesión familiar y comunitaria;
 
-VII.- Fomentar en sus hijas, hijos o pupilos menores de dieciocho años, una cultura de respeto y reconocimiento a la autoridad del maestro o personal docente y administrativo de los planteles educativos, además de las normas de convivencia social de las escuelas.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2026)</small>
+
+VII. Fomentar en sus hijas, hijos o pupilos menores de dieciocho años, una cultura de respeto y reconocimiento a la autoridad del maestro o personal docente y administrativo de los planteles educativos, además de las normas de convivencia social de las escuelas; y
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2026)</small>
+
+VIII. Presentar cualquier queja, inconformidad o denuncia relacionada con los alumnos, personal docente, directivo o administrativo, ante las autoridades competentes y/o a través de los canales institucionales y legales correspondientes, absteniéndose de realizar actos de difamación, violencia, asedio o acoso que vulneren la dignidad y derechos del personal educativo.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
@@ -2764,3 +2772,31 @@ P.O. 11 DE MAYO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 550.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 551.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES; Y, LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Autoridad Educativa del Estado dispondrá de un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor de presente Decreto, para actualizar o, en su caso, expedir los protocolos de actuación o demás normatividad para su cumplimiento.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
