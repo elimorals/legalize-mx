@@ -4,7 +4,7 @@ identifier: "CMX-ley-procesal-electoral-de-la-ciudad-de-mexico-121815"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-07"
-last_updated: "2024-12-23"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121815&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,1165 +20,1469 @@ issue_date: "2017-06-06"
 ---
 # LEY PROCESAL ELECTORAL DE LA CIUDAD DE MEXICO
 
-LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
+LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
-Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 1998.
+Ley publicada en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
-EL CIUDADANO LICENCIADO ANGEL SERGIO GUERRERO MIER, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, a sus habitantes, sabed:
+MIGUEL ÁNGEL MANCERA ESPINOSA, Jefe de Gobierno de la Ciudad de México; a sus habitantes sabed:
 
-Que la H. Legislatura del mismo se ha servido dirigirme el siguiente:
+Que la H. Asamblea Legislativa del Distrito Federal, VII Legislatura se ha servido dirigirme el siguiente
 
-Con fecha 09 de Diciembre del presente año, el C. Lic. Angel Sergio Guerrero Mier, Gobernador Constitucional del Estado, envió a esta H. LXI Legislatura Local, Iniciativa de Decreto, que contiene Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Durango, misma que fue turnada a la Comisión de Administración Pública integrada por los CC. Diputados: Juan de Dios Castro Muñoz, Gustavo Alonso Nevárez Montelongo, Norma Elizabeth Sotelo Ochoa, Oscar García Barrón y Jaime Fernández Saracho; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
+D E C R E T O
 
-CONSIDERANDOS:
+(Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- VII LEGISLATURA)
 
-PRIMERO.- Que la Comisión que dictaminó, encontró que el propósito de la misma, estriba esencialmente en proporcionar a nuestro estado, un marco jurídico debidamente estructurado que regule el procedimiento de aplicación de los recursos públicos estatales y municipales bajo directrices que tiendan a asegurar con eficacia el debido control del gasto público a fin de evitar el dispendio, procurando que el manejo de los recursos destinados a las adquisiciones, arrendamientos y servicios de bienes muebles e inmuebles que requiere la administración pública, se realicen con eficacia y transparencia.
+ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-SEGUNDO.- Que es de interés público que el Gobierno del Estado adopte medidas tendientes a lograr una mayor eficacia y honradez, en la ejecución del gasto público, y con ello, el fortalecimiento de la política económoca (sic) de nuestra entidad federativa.
+VII LEGISLATURA.
 
-TERCERO.- Que por lo anterior, la comisión que dictaminó, consideró que la iniciativa objeto de este decreto, es de gran importancia, pues al precisarse en la misma las funciones de los comités de adquisiciones, arrendamientos y servicios que deberán crearse en todas y cada una de las dependencias y entidades, permitirá mayor eficacia y transparencia en la aplicación de los recursos, objetivo primordial establecido en nuestra Constitución Política Local.
+D E C R E T A
 
-CUARTO.- Que también es importante resaltar lo positivo que resultará para nuestro estado contar con la Ley de Adquisiciones, Arrendamientos y Servicios, pues la misma establece su ámbito de aplicación, y los órganos competentes para resolver las inconformidades o recursos que se interpongan con motivo de la aplicación de la misma.
-
-QUINTO.- Que de igual manera, los suscritos consideramos que al contar nuestra administración pública con normas que regulen el manejo de las adquisiciones, arrendamientos y servicios relacionados con bienes muebles e Inmuebles que requiera, además de encontrarse acorde a lo dispuesto en el segundo párrafo del artículo 127 de nuestra constitución política local, que a la letra dice:
-
-"ARTICULO 127.-..................................................................................................
-
-Las adquisiciones, arrendamientos y enajenaciones de tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación que haya de celebrarse para la ejecución de obras públicas, serán adjudicados o se llevaran a cabo a través de licitaciones publicas mediante convocatoria pública, para que, de manera libre, se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al estado las mejores condiciones disponibles en cuanto a precios, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
-
-............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................." se obtendrá una mejor eficientización de la administración pública estatal y en consecuencia un ahorro en el gasto público, lo cual conllevará a elevar el nivel de vida de los habitantes de nuestra comunidad duranguense.
-
-Con base en los anteriores Considerandos, la H. LXI Legislatura del Estado, expide el siguiente:
-
-DECRETO No. 65
-
-LA HONORABLE SEXAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 55 DE LA CONSTITUCION POLITICA, A NOMBRE DEL PUEBLO, DECRETA:
-
-LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
+DECRETO QUE CONTIENE LAS OBSERVACIONES DEL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO RESPECTO DEL DIVERSO POR EL QUE SE ABROGA EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL DISTRITO FEDERAL Y LA LEY PROCESAL ELECTORAL DEL DISTRITO FEDERAL Y SE EXPIDE EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA CIUDAD DE MÉXICO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL Y DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+[…]
 
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas las disposiciones legales que se opongan al presente decreto.
+Se abroga la Ley Procesal Electoral para el Distrito Federal, y se expide la Ley Procesal Electoral de la Ciudad de México en los siguientes términos:
 
-P.O. 16 DE AGOSTO DE 2007.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas aquellas disposiciones legales que se opongan al presente.
-
-P.O. 14 DE DICIEMBRE DE 2008.
-
-Primero.- El presente Decreto entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
-
-Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-
-Tercero.- Dentro de los 180 días en que entren en vigor el presente decreto, el Ejecutivo del Estado realizará las adecuaciones pertinentes al Reglamento de esta Ley.
-
-P.O. 17 DE JULIO DE 2014.
-
-PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
-
-P.O. 5 DE MARZO DE 2017.
+LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO
 
 # LIBRO PRIMERO. De las Faltas Administrativas y Sanciones
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+## TÍTULO PRIMERO. Disposiciones Generales
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
-
-###### ARTÍCULO 1.
-
-La presente Ley es de orden público y de interés social que tiene por objeto, reglamentar las disposiciones contenidas en el artículo 160, en su párrafo tercero, de la Constitución Política del Estado Libre y Soberano de Durango, en materia de adquisiciones, arrendamientos y contratación de servicios que lleve a cabo el Estado, las Dependencias y Entidades de la Administración Pública Estatal y los Ayuntamientos; así como en materia de Proyectos de inversión y Prestación de Servicios.
-
-### CAPÍTULO ÚNICO
-
-#### SECCIÓN PRIMERA. De las Quejas
-
-###### ARTÍCULO 2.
-
-Para efectos de esta Ley se entenderá por:
-
-I.- SECRETARÍA: La Secretaria de Finanzas y de Administración.
-
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2014)</small>
-
-II.- CONTRALORÍA: La Secretaría de Contraloría.
-
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
-
-III.- DEPENDENCIAS: Las señaladas en las fracciones del artículo 28 de la Ley Orgánica de la Administración Pública del Estado de Durango.
-
-IV.- ENTIDADES: Los organismos públicos descentralizados Estatales o Municipales, las empresas de participación Estatal o Municipal mayoritaría y los fideicomisos en donde el fideicomitente sea el Gobierno del Estado.
-
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
-
-V.- PROVEEDOR: Toda persona física o moral debidamente inscrita en el padrón de proveedores del Gobierno del Estado de Durango, que tenga capacidad legal y financiera para celebrar contratos de adquisiciones, arrendamientos o servicios.
-
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
-
-VI.- LICITANTE: La persona física o moral que participe en cualquier procedimiento de Licitación Pública o bien de Invitación a cuando menos tres proveedores.
-
-VII.- LOS ORGANISMOS ADSCRITOS: Los mencionados en la Ley Orgánica de la Administración Pública del Estado de Durango.
-
-VIII.- AYUNTAMIENTO: Los Ayuntamientos del Estado de Durango.
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2008)</small>
-
-IX.- SERVICIOS: Serán todos aquéllos que se contraten, relacionados con bienes muebles e inmuebles, respecto a instalación, reparación, conservación y mantenimiento.
-
-X.- ACCIONES DE OPERACIÓN: Las adquisiciones, arrendamientos y servicios que se efectúen para el desempeño particular de cada dependencia en la realización de sus funciones específicas.
-
-XI.- COMITÉ: Comité de Adquisiciones.
-
-XII.- UNIDAD: Aquella área de la administración pública del Estado o Municipio que tenga a su cargo las acciones de administración relativas a adquisiciones.
-
-XIII.- COMPRANET: Sistema electrónico de Compras Gubernamentales.
-
-XIV.- INTERNET: Red de Comunicaciones Internacionales.
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2008)</small>
-
-XV.- PIPS: El contrato, concesión o cualquier otro instrumento jurídico en virtud del cual una Entidad adquiere bienes, el uso de éstos o servicios que deban prestarse o suministrarse por la contraparte durante un plazo mínimo de tres años y máximo de treinta años y requieran de una inversión por la contraparte superior a dos millones de Unidades de Inversión, según se publique por el Banco de México al momento de la celebración del Contrato.
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2008)</small>
-
-XVI.- INVERSIONISTA PROVEEDOR: La persona que celebra un contrato de PIPS con una Dependencia, Entidad o Ayuntamiento.
-
-#### SECCIÓN SEGUNDA. De los Procedimientos
+### CAPÍTULO I. Ámbito de Aplicación e Interpretación
 
 > <small>(REFORMADO, [N. DE E. REPUBLICADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
 
-###### ARTÍCULO 3.
+###### Artículo 1.
 
-Para los efectos de esta Ley, entre las adquisiciones, arrendamientos y servicios quedan comprendidos:
+Las disposiciones contenidas en esta ley son de orden público y de observancia obligatoria y general en toda la Ciudad de México y para las ciudadanas y los ciudadanos que ejerzan sus derechos político electorales en territorio extranjero. Para los efectos de esta ley, se entenderá por:
 
-I.- La adquisición de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble que sea necesario para la realización de las obras públicas, por administración directa o los que suministren las Dependencias, Entidades y Ayuntamientos de acuerdo a lo pactado en los contratos correspondientes.
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-II.- La contratación de los servicios relacionados con bienes muebles que se encuentren incorporados o adheridos a inmuebles, cuya conservación, mantenimiento o reparación no impliquen modificación al propio inmueble.
+I. Persona candidata a cargo electivo: Aquella persona que en materia de participación ciudadana es elegible para ser integrante de los Comités y Consejos de los Pueblos;
 
-III.- La reconstrucción, reparación y mantenimiento de bienes muebles; maquila, seguros, transportación de bienes muebles, contratación de servicios de limpieza y vigilancia, así como los estudios técnicos que se vinculen con la adquisición o uso de bienes muebles.
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-IV.- Los contratos financieros de bienes muebles; y
+I bis. Campañas negativas: Cualquier acto realizado mediante el uso de materiales impresos, mensajes telefónicos, redes sociales, plataformas de internet o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita o comparta información falsa que atente contra el honor, reputación, integridad, dignidad, intimidad, vida privada de un candidato, dirigida a influir de manera negativa en las preferencias electorales de los ciudadanos;
 
-V.- En general, los servicios de cualquier naturaleza cuya prestación genere una obligación de pago para las Dependencias, Entidades y Ayuntamientos que no se encuentran reguladas en forma especifica por otras disposiciones legales.
+II. Código: El Código de Instituciones y Procedimientos Electorales de la Ciudad de México;
 
-En todos los casos en que esta Ley haga referencia a las aquisiciones (sic), arrendamientos y servicios, se entenderá que se trata, respectivamente, de adquisición de bienes muebles, arrendamientos de bienes inmuebles y de prestación de servicios de cualquier naturaleza.
+III. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2008)</small>
+IV. Constitución Local: Constitución Política de la Ciudad de México;
 
-Tratándose de PIPS, quedan comprendidos el financiamiento, diseño, construcción, conservación, mantenimiento y operación de los activos necesarios en la provisión de servicios públicos, con los activos que construya o suministre el Inversionista Proveedor por sí el a través de un tercero, incluyendo bienes que sean propiedad de una Dependencia, Entidad o Ayuntamiento, en los términos de la Ley de Proyectos de Inversión y Prestación de Servicios del Estado de Durango.
+V. Consejo General: Consejo General del Instituto Electoral de la Ciudad de México;
 
-###### ARTÍCULO 4.
+VI. Comisión: Comisión de controversias Laborales y Administrativas del Tribunal Electoral de la Ciudad de México;
 
-Estarán sujetas a las disposiciones de esta Ley las adquisiciones, arrendamientos y servicios, que contraten las Dependencias, las Entidades y los Ayuntamientos del Estado cuando se realicen con cargo total o parcial a fondos Estatales y Municipales.
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-###### ARTÍCULO 5.
+VII. El derecho de igualdad política entre mujeres y hombres: Aquel que se garantiza con la integración cualitativa y cuantitativa de 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación, en forma horizontal y vertical;
 
-Las acciones de operación estarán a cargo de las Dependencias, Entidades y Ayuntamientos. Las acciones de administración estarán a cargo de la Unidad y la Secretaría en su caso.
+VIII. Gaceta Oficial: La Gaceta Oficial de la Ciudad de México;
 
-La Secretaría, la Contraloría, la Unidad y las Dependencias en el ámbito de sus respectivas competencias, quedan facultadas para aplicar esta Ley para efectos administrativos y dictarán las disposiciones administrativas para el cumplimiento y aplicación de sus disposiciones reglamentarias.
+IX. Instituto: Instituto Electoral de la Ciudad de México;
+
+X. Instrumentos de participación ciudadana: Los previstos expresamente en la Ley de Participación, como competencia del Tribunal;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XI. Ley General: La Ley General de Instituciones y Procedimientos Electorales;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XII. Ley de Acceso: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México;
+
+XIII. Ley de Participación: Ley de Participación Ciudadana de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XIV. Paridad de género: Es el principio constitucional que ordena el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos político electorales. El derecho de igualdad política entre mujeres y hombres, que se garantiza con la integración cualitativa y cuantitativa del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación, en forma horizontal y vertical;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XV. Paridad de género horizontal. Obligación que tienen los partidos políticos de postular en igualdad de porcentajes a los géneros femenino y masculino que encabezan las fórmulas de diputaciones, alcaldías o planillas para las concejalías en todos los distritos electorales de la ciudad de México;
+
+> <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+XV Bis. Personas juzgadoras: Personas magistradas y juezas que integran el Poder Judicial de la Ciudad de México, electas por mayoría relativa y voto directo de la ciudadanía;
+
+XVI. Pleno: Pleno del Tribunal Electoral de la Ciudad de México;
+
+XVII. Proceso democrático: El organizado por una autoridad de la Ciudad de México que tenga por objeto consultar a la ciudadanía o someter a elección algún cargo o decisión, siempre y cuando, guarden similitud con alguna o algunas etapas de los procesos electorales constitucionales;
+
+XVIII. Proceso electivo: El relativo a la renovación de los Comités Ciudadanos, los Consejos de los Pueblos y demás procedimientos de participación ciudadana previstos en la ley de la materia;
+
+XIX. Proceso electoral: El relativo a la renovación periódica por voto universal, libre, secreto y directo de la Jefatura de Gobierno, Diputaciones al Congreso de la Ciudad de México, Alcaldías y Concejales. Se considerarán también aquellos relativos a la renovación de cargos de elección popular en los pueblos y barrios originarios y comunidades indígenas, mediante el sistema de usos y costumbres, cuando guarden similitud con las etapas de los procesos electorales constitucionales;
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XX. Reglamento Interior: Reglamento Interior del Tribunal Electoral de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XXI. Tribunal: Tribunal Electoral de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+XXII. Violencia política contra las mujeres en razón de género: es toda acción, conducta u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley de Acceso y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXII, G.O. 29 DE JULIO DE 2020.]</small>
+
+La violencia política basada en género y la violencia política contra las mujeres constituyen una forma de discriminación de los espacios de poder y de decisión; fomenta la desigualdad y transgrede los derechos políticos y civiles de las mujeres.
+
+El servicio de la Gaceta Oficial de la Ciudad de México será gratuito para todas las publicaciones del Tribunal Electoral y no podrá cobrarse ninguna cantidad por ningún concepto o condicionarse alguna publicación por cualquier motivo o causa.
+
+### CAPÍTULO II. De las Quejas, Procedimientos, Sujetos y las Conductas Sancionables
+
+#### SECCIÓN PRIMERA. De las Quejas
+
+###### Artículo 2.
+
+Las asociaciones políticas, candidaturas sin partido, personas jurídicas a través de sus representantes legales y en general cualquier persona podrá solicitar por escrito a la autoridad electoral administrativa, se investiguen los actos u omisiones de los Partidos Políticos, Agrupaciones Políticas y candidaturas sin partido, personas servidoras públicas y, en general de cualquier persona física o jurídica que se presuman violatorios de las normas electorales, debiendo acompañar los elementos probatorios idóneos en los que sustente su queja.
+
+Las autoridades que conozcan de la probable comisión de una irregularidad en la materia con motivo del ejercicio de sus atribuciones, darán vista al Instituto Electoral quien de ser el caso iniciará el procedimiento respectivo.
+
+La Comisión de Fiscalización del Instituto Electoral, en el caso de que el Instituto Nacional delegue dicha función podrá llevar a cabo los procedimientos de investigación conforme a la normatividad aplicable.
+
+Para la sustanciación y resolución de dichos procedimientos serán aplicables, en lo conducente, las normas previstas en el Código y en la demás normatividad aplicable.
+
+#### SECCIÓN SEGUNDA. De los Procedimientos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 3.
+
+Para la investigación y determinación de sanciones por presuntas faltas cometidas a las disposiciones electorales por los Partidos Políticos, las candidaturas sin partido, candidaturas de personas juzgadoras, la ciudadanía, observadoras u observadores electorales y en general cualquier sujeto bajo el imperio de las mismas, el Instituto Electoral iniciará el trámite y sustanciación de alguno de los siguientes procedimientos:
+
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+I. Procedimiento Ordinario Sancionador Electoral. Procede cuando a instancia de parte o de oficio, el Instituto Electoral tenga conocimiento de la comisión de conductas infractoras de los sujetos obligados. Se encontrará sujeto al principio dispositivo, que faculta a las partes a instar al órgano competente para la apertura de la instancia y a ofrecer las pruebas que estime conducentes. El procedimiento ordinario sancionador electoral será aplicable por faltas cometidas dentro y fuera de los procesos electorales, incluido el incumplimiento de la aplicación de los protocolos de atención (sic) erradicación de la Violencia Política contra las Mujeres en Razón de Género, con excepción de las señaladas en el procedimiento especial sancionador electoral. Dicho procedimiento será resuelto por el Consejo General del Instituto Electoral; y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+II. Procedimiento Especial Sancionador Electoral. Será instrumentado dentro del proceso electoral, incluyendo el de personas juzgadoras respecto de las conductas contrarias a la norma electoral; es primordialmente inquisitivo y el órgano instructor tiene la facultad de investigar los hechos por todos los medios legales a su alcance, sin que deba sujetarse únicamente a las pruebas allegadas al procedimiento por las partes. Dicho procedimiento será resuelto por el Tribunal Electoral.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2023)</small>
+
+El Procedimiento Especial Sancionador Electoral será instrumentado en los casos siguientes:
+
+a) La Comisión de Fiscalización del Instituto Electoral, en el caso de que el Instituto Nacional delegue dicha función podrá llevar a cabo los procedimientos de investigación conforme a la normatividad aplicable.
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+b) Por propaganda política o electoral de partidos políticos, candidatas o candidatos sin partidos o de personas juzgadoras que calumnie o constituyan actos o expresiones de violencia política contra las mujeres en razón de género, que degraden o discriminen a las instituciones, a los propios partidos políticos o a las personas. En este caso, la queja o denuncia solo procederá a instancia de parte;
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+c) Cuando las denuncias tengan como motivo la comisión de conductas referidas a la confección, colocación o al contenido de propaganda o de cualquier otra diferente a la transmitida por radio o televisión;
+
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+d) Por actos anticipados de precampaña o campaña;
+
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+e) Por quejas o denuncias por violencia política contra las mujeres en razón de género;
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+f) Por campañas negativas en contra de cualquier partido político, persona candidata o candidaturas de personas juzgadoras, la cual, solo procederá a instancia de parte;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+g) En la solicitud de votos por paga, promesa de dinero u otra contraprestación, y
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
+
+h) En los informes de las personas titulares de las alcaldías y de la Jefatura de Gobierno que contravengan lo dispuesto en la normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+i) Por violaciones en el proceso para la elección de personas juzgadoras.
+
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Cuando se tenga conocimiento de faltas que contravengan lo señalado en la Base III del artículo 41 de la Constitución Federal y las que se refieren en general a irregularidades e incumplimientos sobre presuntas contrataciones y adquisiciones de la persona que ostente las candidaturas sin partido, partidos políticos, candidaturas de personas juzgadoras o particulares de tiempos para transmitir propaganda política o electoral en radio y televisión; la propaganda política o electoral de partidos políticos y candidaturas de personas juzgadoras que calumnie o constituyan actos o expresiones de violencia política contra las mujeres en razón de género o que degraden, denigren o discriminen a las personas o a las instituciones y los partidos políticos; así como a publicidad de gobierno emitida durante las campañas en los medios electrónicos, la Secretaría Ejecutiva, realizará las diligencias necesarias para recabar la información que haga presumir la conducta y los presentará al Consejo General, quien determinará si hace suya la denuncia y la fórmula al Instituto Nacional, a través de la Secretaría del Consejo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], G.O. 29 DE JULIO DE 2020)</small>
+
+La violencia política contra las mujeres en razón de género, dentro del proceso electoral o fuera de éste, constituye una infracción a la legislación electoral, por parte de los sujetos de responsabilidad señalados en el artículo 442 de la Ley General y/o 7 de esta Ley, y se manifiesta, entre otras, a través de las siguientes conductas:
+
+a) Obstaculizar a las mujeres, los derechos de asociación o afiliación política;
+
+b) Ocultar información a las mujeres, con el objetivo de impedir la toma de decisiones y el desarrollo de sus funciones y actividades;
+
+c) Ocultar la convocatoria para el registro de precandidaturas o candidaturas, o información relacionada con ésta, con la finalidad de impedir la participación de las mujeres;
+
+d) Proporcionar a las mujeres que aspiran a ocupar un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir su registro;
+
+e) Obstaculizar la precampaña o campaña política de las mujeres, impidiendo que la competencia electoral se desarrolle en condiciones de igualdad, y
+
+f) Cualesquiera otras acciones que lesionen o dañen la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales, en términos de la Ley de Acceso, la Ley General y este Código.
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+###### Artículo 4.
+
+Cuando algún órgano del Instituto Electoral reciba una queja o denuncia o tenga conocimiento de la probable comisión de infracciones en materia electoral, deberá informarlo y turnar el escrito correspondiente a la Secretaría Ejecutiva quien realizará las actuaciones previas en coadyuvancia de la Dirección Ejecutiva de Asociaciones Políticas y pondrá a consideración de la Comisión correspondiente el proyecto de acuerdo que corresponda.
+
+El escrito de denuncia en los procedimientos sancionadores deberá contener lo siguiente:
+
+a) Nombre de la persona denunciante, con firma autógrafa o huella digital;
+
+b) Nombre de la persona señalada como probable responsable;
+
+c) Domicilio para oír y recibir notificaciones;
+
+d) Narración expresa de los hechos en que se basa la denuncia;
+
+e) Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las que habrá de requerir la autoridad, por no tener posibilidad de recabarlas;
+
+f) En su caso, las medidas cautelares y de protección, de manera inmediata.
+
+g) En caso de que la persona promovente actúe por medio de una o un representante, quien ejerza el mandato deberá presentar las constancias originales o, en su defecto, copias certificadas con las que acredite dicha representación. Tratándose de las representaciones de las asociaciones políticas acreditadas ante el Instituto, no será necesario que exhiban documento alguno para demostrar su personería.
+
+La Secretaría Ejecutiva propondrá a la Comisión el inicio oficioso de un procedimiento sancionador, cuando se tenga conocimiento del incumplimiento de las medidas cautelares ordenadas por esta autoridad o por hechos relacionados con violencia política contra las mujeres en razón de género.
+
+La Comisión aprobará el inicio del procedimiento o, en su caso, el desechamiento, turnando el expediente a la Secretaría Ejecutiva quien a través de la Dirección Ejecutiva de Asociaciones Política (sic) llevará a cabo la sustanciación del procedimiento en los plazos y con las formalidades señaladas en la normativa que al efecto emita el Consejo General.
+
+En los casos de violencia política en razón de género y aquellos en los que se soliciten medias (sic) cautelares o de protección la Comisión deberá determinar sobre la adopción de las mismas en el plazo de veinticuatro horas. Las medidas pueden ser sometidas a consideración de la Comisión en todo momento por integrantes de la Comisión, por la Secretaría Ejecutiva o por las partes.
+
+La medida cautelar es el acto procedimental determinado por la Comisión a fin de preservar provisionalmente la materia sobre la que se resolverá el fondo del asunto, lograr la cesación de los actos o hechos que constituyan a la presunta infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en el Código, hasta en tanto se emita la resolución definitiva que ponga fin al procedimiento.
+
+Las medidas cautelares que podrán ser ordenadas por infracciones que constituyan violencia política contra las mujeres en razón de género, son las siguientes:
+
+a) Realizar análisis de riesgos y un plan de seguridad;
+
+b) Retirar la campaña violenta contra la víctima, haciendo públicas las razones;
+
+c) Cuando la conducta sea reiterada por lo menos en una ocasión, suspender el uso de las prerrogativas asignadas a la persona agresora;
+
+d) Ordenar la suspensión del cargo partidista, de la persona agresora; y
+
+e) Cualquier otra requerida para la protección de la mujer víctima, o de quien ella solicite.
+
+Cuando las medidas de protección sean competencia de otra autoridad, la Secretaría Ejecutiva dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
+
+En el caso de que la conducta infractora sea del conocimiento de las autoridades electorales administrativas distritales, de inmediato la remitirán a la Secretaría Ejecutiva del Instituto para que ordene iniciar el procedimiento correspondiente.
+
+Cuando las denuncias presentadas sean en contra de alguna persona servidora pública, la Secretaría Ejecutiva dará vista de las actuaciones, así como de su resolución, a las autoridades competentes en materia de responsabilidades administrativas, para que inicien los procedimientos a que haya lugar y, en su caso, apliquen las sanciones que correspondan en términos de la Ley de Responsabilidades Administrativas de la Ciudad de México.
+
+En la tramitación de los procedimientos sancionadores, serán admitidas las siguientes pruebas:
+
+I. Documentales públicas;
+
+II. Documentales privadas;
+
+III. Técnicas;
+
+IV. Reconocimiento o inspección;
+
+V. Confesional y testimonial;
+
+VI. Pericial;
+
+VII. Instrumental de actuaciones; y
+
+VIII. Presuncional legal y humana.
+
+Cuando las cargas de trabajo lo ameriten, la Secretaría Ejecutiva podrá auxiliarse también para la sustanciación del procedimiento de la Unidad Técnica de Asuntos Jurídicos.
+
+Una vez sustanciado dicho procedimiento, la Secretaria o Secretario Ejecutivo acordará el cierre de instrucción y ordenará la elaboración del proyecto de resolución que corresponda.
+
+El Reglamento que expida el Consejo General a fin de establecer las características de los procedimientos administrativos sancionadores, deberá considerar cuando menos los siguientes aspectos:
+
+I. La obligación de quien recibe una queja o denuncia de turnarla de inmediato a la Secretaría Ejecutiva para que ponga a consideración de la Comisión el acuerdo correspondiente, así como el emplazamiento a las personas probables responsables para que en el plazo de cinco días hábiles, contados a partir del siguiente a que la notificación haya surtidos (sic) sus efectos, contesten por escrito lo que a su derecho convenga y, en su caso, aporten las pruebas que consideren pertinentes. Si se ofrece la pericial contable, ésta será con cargo a la parte promovente;
+
+II. El establecimiento de las medidas de apremio y cautelares, así como su tramitación para el debido cumplimiento de las obligaciones derivadas del procedimiento;
+
+III. La mención de que los medios de prueba deberán ser exhibidas (sic) junto con el escrito en el que se comparezca al procedimiento. Ninguna prueba aportada fuera del plazo previsto para ello será tomada en cuenta, a excepción de las supervenientes;
+
+IV. Que para la integración del expediente, se podrá solicitar la información y documentación (sic)
+
+con que cuenten las instancias competentes del propio instituto electoral, otras autoridades, así como a personas físicas o jurídicas;
+
+V. El establecimiento de los plazos máximos para la sustanciación de la queja, que en los casos de violencia política contra las mujeres en razón de género, no podrán exceder de quince días, contados a partir de que la Comisión acuerde su inicio y los relativos para la formulación y presentación del proyecto de resolución correspondiente al Consejo General para su determinación;
+
+VI. Para la determinación de la sanción correspondiente, se tomará en cuenta los siguientes elementos:
+
+a) La gravedad de la infracción;
+
+b) Las circunstancias objetivas del hecho;
+
+c) La responsabilidad; y
+
+d) Las circunstancias subjetivas y la finalidad de la sanción.
+
+VII. Tratándose de procedimientos ordinarios, cuando el proyecto de resolución que se someta a consideración del Consejo General y a juicio de éste, deba ser complementado, se devolverá al órgano que conoce del asunto para que una vez desahogadas las diligencias necesarias para mejor proveer, se formule un nuevo proyecto de resolución.
+
+VIII. Que, tratándose de procedimientos especiales, una vez sustanciado el expediente respectivo, deberá remitirse al Tribunal a fin de que el órgano jurisdiccional resuelva lo conducente, señalando las reglas para su remisión.
+
+En la resolución de procedimientos especiales, por violencia política contra las mujeres en razón de género, se deberán ordenar las medidas de reparación integral que correspondan considerando al menos las siguientes:
+
+a) Indemnización de la víctima;
+
+b) Restitución inmediata en el cargo al que fue obligada a renunciar por motivos de violencia política;
+
+c) Disculpa pública,
+
+d) Medidas de no repetición.
+
+IX. Al expediente que sea remitido al Tribunal, deberá incorporarse un dictamen elaborado por la Secretaría Ejecutiva, que deberá contener lo siguiente:
+
+a) La relatoría de los hechos que dieron motivo a la queja o denuncia;
+
+b) Las diligencias que se hayan realizado por la autoridad;
+
+c) Las pruebas aportadas por las partes;
+
+d) El desarrollo de cada una de las etapas durante la sustanciación del procedimiento; y
+
+e) Las conclusiones, sin prejuzgar sobre el fondo del asunto.
+
+###### Artículo 5.
+
+En los casos en que la Secretaría Ejecutiva determine que la queja presentada es frívola, se desechará de plano.
+
+La determinación de la Secretaría Ejecutiva podrá ser impugnada ante el Tribunal Electoral.
+
+Se entenderá que la queja es frívola, cuando:
+
+I. Las demandas o promociones en las cuales se formulen pretensiones que no se pueden alcanzar jurídicamente, por ser notorio y evidente que no se encuentran al amparo del Derecho;
+
+II. Aquéllas que refieran hechos que resulten física y/o jurídicamente falsos o inexistentes de la sola lectura cuidadosa del escrito y no se presenten las pruebas mínimas para acreditar su veracidad;
+
+III. Aquéllas que refieran a hechos que no constituyan de manera fehaciente una falta o violación electoral; y
+
+IV. Aquellas que se sustenten únicamente en notas de opinión periodística o de carácter noticioso, que generalicen una situación, sin que por otro medio se pueda acreditar su veracidad.
 
 #### SECCIÓN TERCERA. De la Ejecución de las Resoluciones
 
-###### ARTÍCULO 6.
+###### Artículo 6.
 
-Las funciones que en esta Ley se asignen a la Unidad, la Secretaría, las Dependencias y Entidades serán ejercidas también por las tesorerías municipales de los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, en lo que sean compatibles.
+Las resoluciones del Consejo General en que se imponga una sanción pecuniaria, que no hubiesen sido recurridas, o bien, que fuesen confirmadas por el Tribunal Electoral o el Tribunal Electoral del Poder Judicial de la Federación, deberán ser cumplidas mediante el pago en la Secretaría Administrativa del Instituto Electoral, en un plazo improrrogable en cuando menos de cuatro ministraciones contados a partir de que haya quedado firme la resolución.
+
+Transcurrido el plazo sin que se haya realizado el pago, tratándose de un Partido Político el Instituto Electoral podrá deducir el monto de la sanción de la siguiente ministración del financiamiento público que le corresponda. En cualquier otro caso, el Instituto Electoral notificará a la Tesorería del Gobierno de la Ciudad de México para que se proceda a su cobro en términos de la normatividad aplicable.
+
+Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por sujetos del régimen sancionador electoral considerados en este ordenamiento serán destinados a la Secretaría de Ciencia, Tecnología e Innovación y Secretaria de Cultura, ambas de la Ciudad de México, en los términos de las disposiciones aplicables y los recursos serán utilizados para proyectos y programas en materia de ciencia, tecnología e innovación y cultura, estos no podrán ejercerse en conceptos distintos a los proyectos y programas antes mencionados.
+
+Para tal efecto, dichos recursos deberán ser entregados a la Secretaría de Finanzas de la Ciudad de México dentro de los quince días hábiles siguientes a la fecha en la que se realice el pago o se haga efectivo el descuento del monto de la ministración correspondiente y esta Secretaría a su vez tendrá que canalizarlos a la Secretaría de Ciencia, Tecnología e Innovación y Secretaria de Cultura, ambas de la Ciudad de México en un plazo improrrogable en cuando menos de cuatro ministraciones.
 
 #### SECCIÓN CUARTA. De los Sujetos y Conductas Sancionables
 
-###### ARTÍCULO 7.
+###### Artículo 7.
 
-Las atribuciones que esta Ley le confiere a la Contraloría son:
+Son sujetos de responsabilidad por infracciones cometidas a las disposiciones electorales contenidas en la ley:
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+I. Los partidos políticos;
 
-I.- Actuar como órgano preventivo de control y vigilancia dentro de los procedimientos de licitación, adjudicación y contratación de la materia a que se refiere esta Ley.
+II. Las agrupaciones políticas;
 
-II.- Dictar las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de este ordenamiento legal.
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-III.- Será responsable de la observación de criterios que promuevan la simplificación administrativa, la descentralización de funciones y la efectiva delegación de facultades.
+III. Quien aspire a las candidaturas sin partido, las precandidatas y los precandidatos, candidatas, candidatos sin partido a cargos de elección popular y candidaturas a personas juzgadoras;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+IV. Las persona (sic) físicas y jurídicas;
 
-IV.- Resolverá las inconformidades, así como los recursos de revocación y revisión interpuestos, con motivo de la aplicación de la presente Ley.
+V. Las observadoras y observadores electorales o las organizaciones de observadores electorales;
 
-V.- La Contraloría estará facultada para interpretar esta normatividad para efectos administrativos.
+VI. Quien ejerza la titularidad de las Notarías Públicas;
 
-###### ARTÍCULO 8.
+VII. Las organizaciones ciudadanas que pretendan formar un partido político;
 
-Para el cumplimiento del objeto de esta Ley, la Secretaría, la Unidad, las Dependencias, las Entidades y los Ayuntamientos en el ámbito de sus respectivas competencias, tendrán las siguientes facultades y obligaciones:
+VIII. Las funcionarias y funcionarios electorales;
 
-I.- Planear, programar, presupuestar y controlar las adquisiciones, arrendamiento de bienes muebles e inmuebles, y la contratación de servicios relacionados con los mismos.
+IX. Las personas servidoras públicas de la Ciudad de México;
 
-II.- Celebrar los actos y contratos, previo procedimiento de licitación que establecen los artículos 27 y 28 de ésta Ley, en relación con las materias a que se refiere la fracción anterior;
+X. Las ministras y ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, y
 
-III.- Fijar los lineamientos que no estén establecidos, conforme a los cuales, se deberán de adquirir las mercancías, materia prima y demás bienes muebles e inmuebles que se requieran para la realización de sus funciones;
+XI. Los demás sujetos obligados en los términos del Código.
 
-IV.- Aprobar bajo su responsabilidad siguiendo los lineamientos que marque la Contraloría, los formatos mediante los cuales se documentarán los pedidos o contratos de adquisiciones de mercancías, materias primas, bienes muebles e inmuebles, arrendamientos y contratación de servicios, previa revisión de éstos, interviniendo directamente en la recepción para verificar el cumplimiento de especificaciones establecidas;
+> <small>(REFORMADO, [N. DE E. REPUBLICADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2023)</small>
 
-V.- Establecer las formas que no estén reglamentadas relativas al procedimiento para contratar el arrendamiento de bienes muebles e inmuebles que se requieran para la realización de las funciones de las mismas.
+###### Artículo 8.
 
-VI.- Elaborar la convocatoria para el procedimiento de licitación observando los requisitos y formalidades establecidos en la presente Ley;
+Constituyen infracciones de los partidos políticos a la Ley General de Partidos Políticos y al Código:
 
-VII.- Cumplir estrictamente con la observancia de los procedimientos que establece esta Ley.
+I. El incumplimiento de las obligaciones señaladas en la Ley General de Partidos Políticos, el Código y demás disposiciones aplicables del mismo;
 
-VIII.- Emitir las bases de licitaciones para la adquisición de mercancías, materia prima, bienes muebles e inmuebles, así como para la contratación de servicios y arrendamientos, conforme a esta Ley.
+II. El incumplimiento de las resoluciones o acuerdos del Consejo General;
 
-IX.- Proporcionar a los participantes toda clase de información relacionada con las acciones que señalan los artículo (sic) 27 y 28 de ésta Ley.
+III. Aceptar donativos o aportaciones económicas de las personas o entidades que no estén expresamente facultadas para ello o soliciten crédito a la banca de desarrollo para el financiamiento de sus actividades, en contravención la Ley General de Partidos Políticos y al Código;
 
-X.- Establecer las normas conforme a las cuales deberán de operar los almacenes que establece esta Ley;
+IV. Aceptar donativos o aportaciones económicas superiores a los límites señalados por la Ley General de Partidos Políticos, al Código y el Consejo General;
 
-XI.- Proveer el mantenimiento, cuidado y uso debido de los bienes muebles e inmuebles propiedad del Estado, conservando y actualizando el inventario de éstos, proporcionando la información correspondiente a la Secretaría;
+V. El incumplimiento de las reglas establecidas para el manejo y comprobación de sus recursos o para la entrega de la información sobre el origen, monto y destino de los mismos;
 
-XII.- Revisar, coordinadamente, la Contraloría, la Secretaría y el Comité, los sistemas operativos de adquisiciones, arrendamientos y contratación de servicios, estableciendo mecanismos funcionales;
+VI. No presentar los informes de gastos anuales, de sus procesos de selección interna o de campaña electoral y sobrepasar los topes fijados conforme a la Ley General de Partidos Políticos y el Código durante la misma;
 
-XIII.- Formar parte del Sistema Estatal Electrónico de Contrataciones Gubernamentales (COMPRANET); y
+VII. Realizar actos anticipados de precampaña y campaña;
 
-XIV.- En general, las demás que señalen las leyes y reglamentos aplicables.
+VIII. Colocar propaganda en lugares expresamente prohibidos por el Código y otras disposiciones administrativas y de protección al medio ambiente;
 
-###### ARTÍCULO 9.
+IX. No usar el material previsto en el Código para la confección o elaboración de propaganda electoral;
 
-Los titulares de las Dependencias, las Entidades, los Órganos de Gobierno Estatal y Municipal, deberán procurar que en la adopción e instrumentación de las acciones que deban llevarse a cabo se promueva la simplificación administrativa, la descentralización de funciones y la efectiva delegación de facultades.
+X. El incumplimiento de las obligaciones en materia de transparencia y acceso a la información;
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2006)</small>
+XI. Contratar por sí mismo o por interpósita persona espacios en radio y televisión;
 
-###### ARTÍCULO 10.
+XII. No cumplir con el principio de paridad de género, establecidas para el registro de candidaturas a un cargo de elección popular;
 
-Las controversias que se susciten con motivo de la aplicación de esta Ley se someterán a la jurisdicción de los tribunales estatales, sin perjuicio en la esfera administrativa de las inconformidades y recursos que presenten los particulares con relación a las diversas, etapas del proceso de licitación, en los términos del Titulo VI de esta Ley.
+XIII. No informar al Instituto Electoral sobre las modificaciones a su declaración de principios, programa de acción y principios;
 
-Las controversias que se susciten con motivo de los contratos celebrados con base en esta Ley, se someterán a la jurisdicción de los tribunales estatales o al arbitraje, según se estipule en dichos contratos.
+XIV. No presentar ante el Instituto Electoral el convenio para la integración de Frentes;
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2014)</small>
+XV. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
 
-###### ARTÍCULO 11.
+XVI. No anexar los estados financieros o cualquier otro elemento requerido por la autoridad para revisión de los informes anuales;
 
-En lo no previsto por la presente Ley será aplicable supletoriamente la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
+XVII. Promover la imagen de una candidatura o de un Partido Político en propaganda electoral, distinto a los registrados ante el Instituto Electoral, sin que medie coalición o candidatura común, y cuya finalidad sea obtener un beneficio electoral;
 
-###### ARTÍCULO 12.
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2023)</small>
 
-En la planeación de las adquisiciones, arrendamientos y servicios, las Dependencias, Entidades y Ayuntamientos deberán sujetarse a:
+XVIII. La difusión de campañas negativas de propaganda política o electoral que contenga expresiones que calumnien a las instituciones, partidos políticos o a las personas;
 
-I.- Los objetivos y prioridades del Plan Estatal y Municipal de Desarrollo así como a sus programas anuales;
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-II.- Los objetivos, metas y previsiones de recursos establecidos en los presupuestos de egresos del Estado y Ayuntamientos;
+XIX. Menoscabar, limitar, restringir, anular, obstaculizar, excluir, afectar o impedir el ejercicio de derechos políticos electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley, la Ley General y de la Ley de Acceso;
 
-III.- Los programas anuales que deberán elaborarse por cada Dependencia relativos a la materia y a su respectivo presupuesto.
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-###### ARTÍCULO 13.
+XX. El incumplimiento de las demás disposiciones previstas en el Código en materia de precampañas y campañas electorales, y
 
-Las Dependencias, Entidades y Ayuntamientos formularán su programa anual de adquisiciones, arrendamientos y servicios con sus respectivos presupuestos, los cuales deberán presentar a la Secretaría y a la Contraloría.
+XXI. La comisión de cualquier otra falta de las previstas en el Código.
 
-Los organismos anteriormente señalados se abstendrán de realizar y modificar contratos al respecto, cuando no hubiese saldo disponible en la correspondiente partida presupuestal.
+###### Artículo 9.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+Constituyen infracciones de las agrupaciones políticas al Código:
 
-###### ARTÍCULO 14.
+I. El incumplimiento de las obligaciones señaladas en el Código y demás disposiciones aplicables del mismo;
 
-Las unidades compradoras de las dependencias y entidades de la Administración Pública Estatal y Municipal deberán estar integradas al sistema electrónico de compras gubernamentales COMPRANET, y a más tardar el 31 de Enero de cada año darán a conocer a los interesados sus programas anuales a que se refiere el articulo anterior, para que los proveedores puedan conocer esa información, salvo que exista causa justificada para no hacerlo en el término establecido. Dichos datos serán de carácter informativo sin compromiso de contratación y podrán ser modificados, suspendidos o cancelados, sin responsabilidad alguna para la dependencia o entidad de que se trate con excepción de aquella información que, de conformidad con las disposiciones aplicables, sea de naturaleza reservada, en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango.
+II. El incumplimiento de las resoluciones o acuerdos del Consejo General;
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+III. Aceptar donativos o aportaciones económicas de las personas o entidades que no estén expresamente facultadas para ello o soliciten crédito a la banca de desarrollo para el financiamiento de sus actividades, en contravención a lo dispuesto por el Código;
 
-En aquellos casos en que por razones técnicas no se pudiera establecer o instalar el sistema electrónico de compras gubernamentales COMPRANET, deberán realizar una publicación de sus programas anuales, en alguno de los periódicos de mayor circulación, en la zona de que se trate y en la Capital del Estado.
+IV. Aceptar donativos o aportaciones económicas superiores a los límites señalados por el Código y el Consejo General;
 
-###### ARTÍCULO 15.
+V. El incumplimiento de las reglas establecidas para el manejo y comprobación de sus recursos o para la entrega de la información sobre el origen, monto y destino de los mismos;
 
-El arrendamiento de bienes muebles e inmuebles para las funciones de administración, solo podrá celebrarse por conducto de la Secretaría, en lo concerniente al ámbito Estatal y por el área respectiva en los Ayuntamientos.
+VI. No informar al Instituto Electoral sobre las modificaciones a su declaración de principios, programa de acción y principios;
 
-###### ARTÍCULO 16.
+VII. Contratar por sí mismo o por interpósita persona espacios en radio y televisión;
 
-Las adquisiciones, arrendamientos y servicios de todo tipo de bienes, prestación de servicios de cualquier naturaleza, serán adjudicados o se llevarán a cabo a través de licitaciones públicas, mediante convocatoria pública, a fin de asegurar al Estado y Ayuntamientos las mejores condiciones disponibles, en cuanto a precios, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-###### ARTÍCULO 17.
+VIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
 
-La Secretaría, las Dependencias, la Unidad, las Entidades y los Ayuntamientos, bajo su responsabilidad podrán celebrar contratos de adquisiciones, arrendamientos y servicios, así como de PIPS:
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+IX. El incumplimiento a las obligaciones de paridad de género y para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, y
 
-I.- Por licitación:
+X. El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en el Código.
 
-a).- Pública;
+###### Artículo 10.
 
-b).- Por invitación restringida cuando menos a tres proveedores.
+Constituyen infracciones de las personas precandidatas o candidatas a cargos de elección popular en el Código:
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+I. La realización de actos anticipados de precampaña o campaña, según sea el caso;
 
-II.- La adjudicación directa.
+II. Solicitar o recibir recursos, en dinero o en especie, de personas no autorizadas por el Código;
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+III. Omitir en los informes respectivos los recursos recibidos, en dinero o en especie, destinados a su precampaña o campaña;
 
-Los Ayuntamientos, establecerán los lineamientos para las licitaciones, con intervención de la Contraloría, tomando como base sus presupuestos de Egresos.
+IV. No presentar el informe de gastos de precampaña o campaña establecidos en el Código;
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+V. Exceder el tope de gastos de precampaña o campaña establecidos;
 
-La licitación pública inicia con la publicación de la convocatoria y, en el caso de invitación a cuando menos tres proveedores, con la entrega de la primera invitación; ambos procedimientos concluyen, en su caso, con la firma del contrato.
+VI. Colocar propaganda en lugares expresamente prohibidos por el Código y otras disposiciones administrativas y de protección al medio ambiente;
 
-###### ARTÍCULO 18.
+VII. Contratar por sí mismo o por interpósita persona espacios en radio y televisión;
 
-Los organismos que señala la presente Ley podrán convocar, adjudicar o llevar a cabo adquisiciones, arrendamientos y servicios, solamente cuando se cuente con saldo disponible dentro de su presupuesto, salvo excepciones que autorice la Secretaría, el Congreso del Estado o los HH. Cabildos, en su caso, conforme a las Leyes aplicables.
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
 
-###### ARTÍCULO 19.
+VIII. No usar el material previsto por el Código para la confección o elaboración de propaganda electoral;
 
-Para la adquisición de mercancías, materias primas y bienes de procedencia extranjera, se estará a lo previsto por las disposiciones legales correspondientes.
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-###### ARTÍCULO 20.
+IX. Menoscabar, limitar o impedir el ejercicio de derechos político electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley y de la Ley de Acceso; y
 
-Las licitaciones podrán ser:
+X. El incumplimiento de cualquiera de las disposiciones contenidas en el Código.
 
-NACIONALES.- Cuando únicamente puedan participar personas de nacionalidad mexicana y los bienes a adquirir cuenten por lo menos con un cincuenta por ciento de contenido nacional, a excepción de lo establecido por la Secretaría de Comercio y Fomento Industrial; previa opinión de la Secretaría de la Contraloría del Estado; o
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+###### Artículo 10 Bis.
 
-INTERNACIONALES.- Cuando puedan participar tanto personas de nacionalidad mexicana como extranjera, de conformidad con lo establecido en el artículo 117, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, así como las demás disposiciones legales aplicables.
+Constituyen infracciones de las candidaturas a personas juzgadoras en el Código:
 
-Se realizarán licitaciones de carácter internacional, cuando resulte obligatorio conforme a lo establecido en los Tratados y Convenios Internacionales aprobados por el Senado de la República, cuando en el mercado Nacional no exista garantía en calidad, o cantidad, o los proveedores nacionales no cuenten con la capacidad requerida salvo determinación de la Secretaría de Comercio y Fomento Industrial.
+I. La realización de actos anticipados de campaña;
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+II. Colocar propaganda en lugares expresamente prohibidos por el Código y otras disposiciones administrativas y de protección al medio ambiente;
 
-###### ARTÍCULO 21.
+III. No usar el material previsto por el Código para la confección o elaboración de propaganda electoral;
 
-Los Proveedores e Inversionistas Proveedores quedarán obligados ante la Secretaría, la Unidad, las Dependencias, Entidades, Ayuntamientos y cualquier otro organismo, a responder de los defectos o vicios y de cualquier otra responsabilidad en que hubieren incurrido, en los términos de esta Ley, en el contrato respectivo de conformidad con lo dispuesto por el Código Civil del Estado de Durango, o en su caso, por la Legislación aplicable.
+IV. Menoscabar, limitar o impedir el ejercicio de derechos político-electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley y de la Ley de Acceso; y
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+V. El incumplimiento de cualquiera de las disposiciones contenidas en el Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+###### Artículo 11.
 
-###### ARTÍCULO 22.
+Constituyen infracciones a quienes aspiren o hayan obtenido la candidatura sin partido a cargos de elección popular:
 
-La Secretaría, la Unidad, las Dependencias, las Entidades, y los Ayuntamientos, exigirán la restitución de lo pagado o la reposición de los bienes o servicios, cuando éstos no sean de la calidad, especificaciones o características pactadas, sin perjuicio de la imposición de las sanciones y procedimientos legales que procedan.
+I. El incumplimiento de las obligaciones establecidas en el Código;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+II. La realización de actos anticipados de campaña;
 
-###### ARTÍCULO 23.
+III. Solicitar o recibir recursos en efectivo o en especie, de personas no autorizadas por el Código;
 
-Si en un período de 15 días hábiles, contados a partir de la fecha en que se detecten irregularidades, en los bienes o servicios, por parte de la convocante y/o la Contraloría, la Secretaría, la Unidad, las Dependencias, Entidades y los Ayuntamientos según corresponda, no obtienen la respectiva restitución, a pesar de la notificación de éstas, podrán rescindir el contrato correspondiente de conformidad con lo establecido en el artículo 49 bis de esta Ley, al Proveedor y adjudicar, a la segunda propuesta solvente más baja del concurso del cual se derivó la contratación, sin perjuicio de la sanción correspondiente.
+IV. Liquidar o pagar, así como aceptar la liquidación o el pago de actos u operaciones mediante el uso de efectivo o metales y piedras preciosas;
 
-En caso de que los proveedores incumplan con las obligaciones derivadas de los contratos y pedidos respectivos, la adquiriente o la Contraloría, en su caso, procederá a declarar la rescisión de los actos jurídicos respectivos, misma que se comunicará por escrito al proveedor para que éste en un término de 10 días hábiles contados a partir del día siguiente al que se lleve a cabo la notificación, manifieste lo que a su derecho convenga, procediendo la dependencia, entidad o ayuntamiento a resolver lo procedente dentro de los diez días naturales siguientes al que hubiere recibido el escrito de contestación. Si las causas de rescisión fueran imputables al proveedor se procederá a hacer efectiva la garantía y se abstendrán de cubrir los importes restantes.
+V. Utilizar recursos de procedencia ilícita para el financiamiento de cualquiera de sus actividades;
 
-La situación descrita en el párrafo anterior deberá hacerse del inmediato conocimiento de la Contraloría, por escrito, por conducto de los titulares de los organismos contratantes para su respectivo seguimiento y evaluación.
+VI. Recibir aportaciones y donaciones en efectivo, así como metales y/o piedras preciosas de cualquier persona física o moral;
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2006)</small>
+VII. No presentar los informes que correspondan para obtener el apoyo ciudadano y de campaña establecidos por el Código;
 
-Lo dispuesto en este artículo no aplica a los contratos celebrados conforme a la Ley de Proyectos de Inversión y Prestación de Servicios.
+VIII. Exceder el tope de gastos para obtener el apoyo ciudadano y de campaña establecido por el Consejo General;
 
-###### ARTÍCULO 24.
+IX. No reembolsar los recursos provenientes del financiamiento público no ejercidos durante las actividades de campaña;
 
-Los actos, convenios, pedidos, contratos y negocios jurídicos relativos a los regulados por esta Ley, que celebren las Dependencias, Entidades y Ayuntamientos en contravención a lo dispuesto por ella y las disposiciones que de ésta se deriven, serán nulos de pleno derecho.
+X. El incumplimiento de las resoluciones y acuerdos del Instituto;
 
-La Secretaría, la Unidad, las Dependencias, Entidades y Ayuntamientos, así como la Contraloría, en su caso, harán valer la nulidad y procederán, a exigir la restitución de lo pagado y la devolución de los bienes adquiridos o arrendados. Para tal efecto se estará a lo dispuesto por los artículos 22 y 23 de esta Ley.
+XI. La obtención de bienes inmuebles con recursos provenientes del financiamiento público o privado;
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2017)</small>
+XII. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas, instituciones o los partidos políticos;
 
-###### ARTÍCULO 25.
+XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
 
-Las Dependencias, Entidades y Ayuntamientos, en sus procesos de adquisición de bienes muebles, arrendamientos y contratación de servicios que requieran; deberán observar que al menos el 75% de estos se adquieran a proveedores locales y representen cuando menos el 50%·del presupuesto programado para la adquisición de bienes muebles, arrendamientos y servicios que se requieran conforme a esta Ley.
+XIV. Colocar propaganda en lugares expresamente prohibidos por el Código y otras disposiciones administrativas y de protección al medio ambiente;
 
-Si existen dos o más proposiciones que en cuanto a precio tengan una diferencia máxima del dos por ciento, el contrato debe adjudicarse de acuerdo con los siguientes criterios de preferencia, aplicados en este orden:
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
 
-I. A los proveedores del sector de las micro, pequeñas y medianas empresas asentadas o con domicilio en el Estado, inscritos en el Padrón de Proveedores del Gobierno del Estado de Durango, por lo menos con una antigüedad de 6 (seis) meses anteriores a la fecha de la convocatoria;
+XV. El incumplimiento a las obligaciones de paridad de género y para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género.
 
-II. Al proveedor local sobre el nacional, o a este sobre el extranjero;
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 29 DE JULIO DE 2020)</small>
 
-III. A los proveedores que presenten mejor grado de protección al medio ambiente; y
+XVI. Contratar por sí mismo o por interpósita persona espacios en radio y televisión;
 
-IV. A los proveedores que presenten innovaciones tecnológicas.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE JULIO DE 2020)</small>
 
-###### ARTÍCULO 26.
+XVII. Menoscabar, limitar o impedir el ejercicio de derechos político electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de esta Ley y de la Ley de Acceso, y
 
-Los organismos adquirientes que participen en los términos de ésta Ley podrán solicitar autorización a la Secretaría y Contraloría para la contratación de asesoría técnica.
+XVIII. El incumplimiento de cualquiera de las disposiciones contenidas en el Código y demás disposiciones aplicables.
 
-###### ARTÍCULO 27.
+###### Artículo 12.
 
-Para llevar a cabo los procedimientos de licitaciones públicas, las convocatorias, que podrán referirse a una o más de las operaciones reguladas en este ordenamiento, se publicarán por una sola vez en el Periódico Oficial del Estado de Durango y en uno de los diarios de mayor circulación en el Estado y tratándose de PIPS, deberá ser en uno de circulación nacional y contendrá cuando menos:
+Constituyen infracciones de la ciudadanía, de las dirigencias y la militancia de partidos políticos, o en su caso de cualquier persona física o moral, el incumplimiento de cualquiera de las disposiciones contenidas en el Código.
 
-I.- El nombre o denominación de la convocante;
+###### Artículo 13.
 
-II.- La indicación de los lugares, fechas y horarios en que los interesados podrán registrarse y obtener las bases de la licitación a través del sistema electrónico de compras gubernamentales y, en su caso, el costo y forma de pago de las mismas. Cuando el documento que tenga las bases de licitación implique un costo, éste será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de los documentos que se entreguen. Los interesados podrán revisar tales documentos previamente a la inscripción y al pago de dicho costo, el cual será requisito para participar en la licitación;
+Constituyen infracciones de las observadoras y los observadores electorales, y de las organizaciones con el mismo propósito, el incumplimiento, según sea el caso, de las obligaciones establecidas en el Código.
 
-III.- La fecha, hora y lugar de celebración del acto de presentación y apertura de proposiciones;
+###### Artículo 14.
 
-IV.- La indicación, si la licitación es nacional o internacional;
+Constituyen infracciones de las funcionarias y los funcionarios electorales, el incumplimiento de las obligaciones establecidas en el Código.
 
-V.- La descripción general, cantidad y unidad de medida de los bienes o servicios que sean objeto de la licitación;
+###### Artículo 15.
 
-VI.- En caso de arrendamiento, la indicación de si éste es con opción a compra; y
+Constituyen infracciones al Código por parte de las personas servidoras públicas de la Ciudad de México:
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2008)</small>
+I. La omisión o el incumplimiento de la obligación de prestar colaboración y auxilio o de proporcionar, en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
 
-VII.- Los criterios generales conforme a los cuales se adjudicará el contrato, y
+II. La difusión, por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta el día de la jornada electoral inclusive, con excepción de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2008)</small>
+III. El incumplimiento del principio de imparcialidad establecido por el artículo 134 de la Constitución Federal, cuando tal conducta afecte la equidad de la contienda entre los partidos políticos, entre quien aspire, haya obtenido la precandidatura o candidatura durante los procesos electorales;
 
-VIII.- Tratándose de PIPS, las demás que se consideren necesarias, dependiendo de la magnitud y complejidad de los servicios.
+IV. Durante los procesos electorales, la difusión de propaganda, en cualquier medio de comunicación social, que contravenga lo dispuesto por el párrafo octavo del artículo 134 de la Constitución Federal;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+
+V. La utilización de programas sociales y de sus recursos del ámbito local, con la finalidad de inducir o coaccionar a la ciudadanía para votar a favor o en contra de cualquier partido político o candidatura;
+
+> <small>(ADICIONADA, G.O. 29 DE JULIO DE 2020)</small>
+
+VI. Menoscabar, limitar o impedir el ejercicio de derechos políticos electorales de las mujeres o incurrir en actos u omisiones constitutivos de violencia política contra las mujeres en razón de género, en los términos de la Ley General, esta Ley y la Ley de Acceso; y
+
+VII. El incumplimiento de cualquiera de las disposiciones contenidas en el Código.
+
+###### Artículo 16.
+
+Constituyen infracciones al Código por parte de las personas titulares de las Notarías Públicas, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y de atender las solicitudes que les hagan esta autoridad, las funcionarias y los funcionarios de casilla, la ciudadanía, la representación de partidos políticos, así como de las personas titulares de las candidaturas sin partido, para dar fe de hechos o certificar documentos concernientes a la elección.
+
+###### Artículo 17.
+
+Constituyen infracciones al Código por parte de las organizaciones ciudadanas que pretendan constituir partidos políticos:
+
+I. No informar mensualmente al Instituto del origen y destino de los recursos que obtengan para el desarrollo de las actividades tendentes a la obtención del registro;
+
+II. Permitir que en la creación del partido político intervengan organizaciones gremiales u otras con objeto social diferente a dicho propósito, salvo el caso de agrupaciones políticas locales; y
+
+III. Realizar o promover la afiliación colectiva de ciudadanas o ciudadanos a la organización o al partido para el que se pretenda registro.
+
+###### Artículo 18.
+
+Constituyen infracciones al Código para las y los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión:
+
+I. La inducción a la abstención, a votar por una candidatura o partido político, o a no hacerlo por cualquiera de ellos, en los lugares destinados al culto o en lugares de uso público;
+
+II. Realizar o promover aportaciones económicas a un partido político, aspirante o candidatura a un cargo de elección popular; y
+
+III. El incumplimiento, en lo conducente, de cualquiera de las disposiciones contenidas en el Código.
+
+###### Artículo 19.
+
+Las infracciones señaladas en los artículos anteriores serán sancionadas conforme a lo siguiente:
+
+I. Respecto de los partidos políticos:
+
+a) Amonestación pública;
+
+b) Multa de hasta cincuenta mil Unidades de Medida y Actualización, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de las o los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
+
+c) Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución;
+
+> <small>(ADICIONADO, G.O. 29 DE JULIO DE 2020)</small>
+
+d) Cuando exista sentencia condenatoria por delitos de Violencia Política Contra las Mujeres, según la gravedad de la falta, podrá sancionarse con la reducción de hasta el 50% de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución, y no podrá participar en el siguiente proceso electoral;
+
+e) En los casos de graves y reiteradas conductas violatorias de la Constitución Federal, la Ley General de Partidos Políticos y del Código, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos, con la cancelación de su registro como partido político.
+
+II. Respecto de las agrupaciones políticas locales:
+
+a) Amonestación;
+
+b) Multa de hasta mil Unidades de Medida y Actualización, según la gravedad de la falta;
+
+c) La suspensión de su registro, en cuyo caso no podrá ser menor a cuatro meses, ni mayor a un año; y
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+d) La cancelación de su registro cuando exista sentencia condenatoria por conductas que sean consideradas delitos de Violencia Política Contra las Mujeres.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+III. Respecto de las precandidaturas, candidaturas a cargos de elección popular y candidaturas a personas juzgadoras:
+
+a) Con amonestación;
+
+b) Con multa de hasta cinco mil Unidades de Medida y Actualización; y
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+c) Ante sentencia condenatoria por delitos de Violencia Política Contra las Mujeres, con la pérdida del derecho de la precandidatura infractora a ser registrada como candidatura o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones sean cometidas por quien ostente las precandidaturas a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando la precandidata o precandidato resulte electo en el proceso interno, el partido político no podrá registrar su candidatura.
+
+IV. Respecto de las y los aspirantes o las y los candidatos sin partido:
+
+a) Amonestación;
+
+b) Multa de hasta cinco mil Unidades de Medida y Actualización;
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+c) Pérdida del derecho de la o el aspirante infractor a ser registrado como candidata o candidato sin partido o, en su caso, si ya hubiera sido registrado, con la cancelación de la candidatura, cuando se dicte sentencia condenatoria por delitos de Violencia Política Contra las Mujeres;
+
+d) En caso de que la o el aspirante omita informar y comprobar a la unidad de fiscalización del Instituto los gastos tendentes a recabar el apoyo ciudadano, no se podrá registrar en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable; y
+
+e) En caso de que quien ostente la candidatura sin partido omita informar y comprobar a la autoridad electoral nacional los gastos de campaña y no los reembolse, no se podrá registrar su candidatura en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable.
+
+V. Respecto de la ciudadanía, de la dirigencia y militancia de los partidos políticos, o de cualquier persona física o moral:
+
+a) Amonestación;
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+b) Respecto de la ciudadanía, de la dirigencia y militancia a los partidos políticos, y cuando se trate de incumplimiento de las obligaciones para Prevenir, Atender y Erradicar la Violencia Política Contra las Mujeres en Razón de Género y en los casos de Violencia Política contra las Mujeres en Razón de Género, con multa de hasta quinientas Unidades de Medida y Actualización y en el caso de aportaciones que violen lo dispuesto en el Código.
+
+VI. Respecto de las personas morales por las conductas señaladas en la fracción anterior:
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+a) Multa de hasta cien mil días Unidades de Medida y Actualización, en el caso de aportaciones que violen lo dispuesto en el Código y cuando se trate de incumplimiento de las obligaciones para Prevenir, Atender y Erradicar la Violencia Política Contra las Mujeres en Razón de Género y en los casos de Violencia Política contra las Mujeres en Razón de Género.
+
+VII. Respecto de las observadoras y observadores electorales u organizaciones de observación electoral:
+
+a) Amonestación;
+
+b) Multa de hasta doscientas Unidades de Medida y Actualización; y
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+c) Cancelación inmediata de la acreditación como observadoras u observadores electorales y la inhabilitación para acreditarles como tales en al menos dos procesos electorales, según sea el caso, cuando se dicte sentencia condenatoria por delitos de Violencia Política Contra las Mujeres;
+
+VIII. Respecto de las organizaciones ciudadanas que pretendan constituir partidos políticos:
+
+a) Amonestación;
+
+b) Multa de hasta dos mil quinientas Unidades de Medida y Actualización, según la gravedad de la falta; y
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+c) Con la cancelación del procedimiento tendente a obtener el registro como partido político local cuando se dicte sentencia condenatoria por delitos de Violencia Política Contra las Mujeres;
+
+IX. Respecto de funcionarias o funcionarios electorales procederá sancionar, de conformidad con lo siguiente:
+
+a) Amonestación;
+
+b) Suspensión;
+
+> <small>(REFORMADO, G.O. 29 DE JULIO DE 2020)</small>
+
+c) Destitución del cargo cuando se dicte sentencia condenatoria por delitos de Violencia Política Contra las Mujeres; y
+
+d) Multa hasta de cien veces la Unidades de Medida y Actualización.
+
+###### Artículo 20.
+
+Cuando las autoridades federales, estatales, municipales o de la Ciudad de México incumplan los mandatos de la autoridad electoral, no proporcionen en tiempo y forma la información que les sea solicitada, o no presten el auxilio y colaboración que les sea requerida por los órganos del Instituto, se estará a lo siguiente:
+
+I. Conocida la infracción, la Secretaría Ejecutiva integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de ley;
+
+II. El superior jerárquico a que se refiere el párrafo anterior deberá comunicar al Instituto las medidas que haya adoptado en el caso; y
+
+III. Si la autoridad infractora no tuviese superior jerárquico, el requerimiento será turnado a la Auditoría Superior de la Ciudad de México, a fin de que se proceda en los términos de las leyes aplicables.
+
+Cuando el Instituto conozca del incumplimiento por parte de la persona titular de la notaría pública a las obligaciones que el Código les impone, la Secretaría Ejecutiva integrará un expediente que se remitirá a la autoridad competente para que proceda en los términos de la legislación aplicable; estos últimos deberán comunicar al Instituto, dentro del plazo de un mes, las medidas que haya adoptado y las sanciones impuestas. En todo caso, la autoridad competente ordenará las medidas cautelares a fin de que la conducta infractora cese de inmediato.
+
+Cuando el Instituto tenga conocimiento de la comisión de una infracción por parte de las y los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, la Secretaría Ejecutiva integrará el expediente que corresponda y dará vista con el mismo a la Secretaría de Gobernación, para los efectos legales conducentes.
+
+###### Artículo 21.
+
+Para la individualización de las sanciones, una vez acreditada la existencia de una infracción y su imputación, la autoridad electoral deberá tomar en cuenta las circunstancias que rodean la contravención de la norma administrativa, entre otras, las siguientes:
+
+I. La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones del Código, en atención al bien jurídico tutelado, o las que se dicten con base en él;
+
+II. Las circunstancias de modo, tiempo y lugar de la infracción;
+
+III. Las condiciones económicas de la persona infractora;
+
+IV. Las condiciones externas y los medios de ejecución;
+
+V. La reincidencia en el incumplimiento de obligaciones, y
+
+VI. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+
+Se considerará reincidente a la parte infractora que habiendo sido declarado responsable del incumplimiento de alguna de las obligaciones a que se refiere el Código dentro de los tres años anteriores, incurra nuevamente en la misma conducta infractora al presente ordenamiento legal.
+
+### CAPITULO III
+
+De los sujetos y conductas sancionables en materia de participación ciudadana.
+
+###### Artículo 22.
+
+El Instituto Electoral conocerá de las infracciones que cometan:
+
+I. Los ciudadanos que participen a cargos electivos de los órganos de representación ciudadana, a quienes podrá sancionar con la cancelación inmediata de su candidatura, y una multa de 50 a 200 Unidades de Cuenta.
+
+II. Las personas físicas o jurídicas que participen en prácticas que distorsionen, impidan o vulneren el derecho a la participación ciudadana, según lo previsto en esta Ley de Participación Ciudadana y que no estén previstas en otros ordenamientos.
+
+III. Los servidores públicos de la Ciudad de México en los casos en que participen en prácticas que distorsionen, impidan o vulneren el derecho a la participación ciudadana, según lo previsto en la Ley de Participación Ciudadana.
+
+IV. Los funcionarios electorales, a quienes procederá sancionar, en su caso, con amonestación, suspensión, destitución del cargo o multa hasta de 100 Unidades de Cuenta.
+
+V. Los Partidos Políticos y las Agrupaciones Políticas Locales.
+
+VI. En los casos en los que los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, induzcan al ciudadano a votar en favor o en contra de un candidato a cargo electivo, o a la abstención, en los edificios destinados al culto o en cualquier otro lugar, para los efectos previstos por la ley; o realicen aportaciones económicas a un candidato de cargo electivo, el Instituto Electoral integrará el expediente que corresponda dando vista con el mismo a la Secretaría de Gobernación, para los efectos legales conducentes.
+
+###### Artículo 23.
+
+Los Partidos Políticos en lo conducente serán sancionados por las siguientes causas:
+
+I. Incumplir las disposiciones de la Ley de Participación Ciudadana;
+
+II. Incumplir con las resoluciones o acuerdos del Consejo General;
+
+III. Hacer aportaciones económicas a los candidatos a cargos electivos a los órganos de representación ciudadana para el financiamiento de sus actividades, en contravención a lo dispuesto por el Código y la Ley de Participación Ciudadana;
+
+IV. Promover la imagen de un candidato a cargo electivo con la intención de beneficiarlo en el proceso; y
+
+V. Entorpecer o distorsionar el proceso de voto electrónico para favorecer a determinado candidato a cargo electivo.
+
+###### Artículo 24.
+
+Las personas físicas y jurídicas podrán ser sancionadas por las siguientes causas:
+
+I. Por participar en prácticas que distorsionen, impidan o vulneren el derecho a la participación ciudadana, según lo previsto en la Ley de Participación Ciudadana;
+
+II. Incumplir con las resoluciones o acuerdos del Consejo General;
+
+III. Negarse a proporcionar la información que le sea requerida por el Instituto, con motivo de los procedimientos de investigación que sean seguidos en su seno;
+
+IV. Por participar en prácticas de compra y venta del voto; y
+
+V. Entorpecer o distorsionar el proceso de voto electrónico para favorecer a determinado candidato a cargo electivo.
+
+###### Artículo 25.
+
+Las infracciones a que se refiere el artículo anterior de este ordenamiento serán sancionadas valorando los elementos objetivos del caso y se sancionarán conforme a lo siguiente:
+
+I. Respecto de los Partidos Políticos:
+
+a) Tratándose de los supuestos previstos en las fracciones I y II del artículo 23, con multa de 50 hasta 5 mil Unidades de Cuenta.
+
+b) Tratándose de los supuestos previstos en las fracciones III y IV del artículo 23, con multa de 10 mil hasta 50 mil Unidades de Cuenta.
+
+c) Tratándose de los supuestos previstos en las fracciones V del artículo 23 hasta con la reducción del 1% al 50% de las ministraciones mensuales del financiamiento público que les corresponda, por el período que señale la resolución;
+
+II. Respecto de las Agrupaciones Políticas:
+
+a) Por las causas de las fracciones I y II del artículo 23, hasta con la suspensión de su registro como tal, por el período que señale la resolución, en cuyo caso no podrá ser menor a cuatro meses ni mayor a un año; y
+
+b) Por las causas de las fracciones III, IV y V del artículo 23, hasta con la pérdida de su registro.
+
+###### Artículo 26.
+
+Las sanciones aplicables a las conductas que refiere el artículo 24 consistirán en:
+
+I. En los supuestos previstos en las fracciones I y II hasta con multa de 10 a 5 mil Unidades de Cuenta de la Ciudad de México; y
+
+II. Por las causas señaladas en las fracciones III, IV y V por tratarse de las personas que no son candidatos, pero forman parte de los órganos de representación ciudadana hasta con multa de 100 a 500 Unidades de Cuenta.
+
+###### Artículo 27.
+
+Para la individualización de las sanciones señaladas en los artículos precedentes, una vez acreditada la existencia de una infracción y su imputación, la autoridad deberá determinar la gravedad de las faltas considerando las circunstancias en que fueron cometidas, así como las atenuantes y agravantes que mediaron en la comisión de la falta, a fin de individualizar la sanción y, en su caso, el monto correspondiente, atendiendo a las reglas que establece la presente Ley.
+
+Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador en materia de participación ciudadana considerados en esta Ley serán destinados al Instituto Electoral y a la Secretaría de Educación Pública del gobierno de esta ciudad para los fines de la participación ciudadana.
+
+Para la individualización de la sanción debe considerarse lo siguiente:
+
+I. La magnitud del hecho sancionable y el grado de responsabilidad del imputado;
+
+II. Los medios empleados;
+
+III. La magnitud del daño cuando al bien jurídico o del peligro en que éste fue colocado, que determinan la gravedad de la falta;
+
+IV. Las circunstancias de tiempo, lugar, modo y ocasión del hecho realizado;
+
+V. La forma y grado de intervención del responsable en la comisión de la falta;
+
+VI. Las condiciones económicas del responsable;
+
+VII. La reincidencia o sistematicidad en la comisión de la falta, y
+
+VIII. Las demás circunstancias especiales del responsable, que sean relevantes para determinar la posibilidad que tuvo que haber ajustado su conducta a las exigencias de la norma.
 
 # LIBRO SEGUNDO. De los de Medios de Impugnación
 
-## TÍTULO SEGUNDO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
+## TÍTULO PRIMERO. Disposiciones Generales
 
-### CAPÍTULO SEGUNDO. DE LAS CONVOCATORIAS Y BASES DE LICITACIÓN
+### CAPÍTULO I. Ámbito de Aplicación e Interpretación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+###### Artículo 28.
 
-###### ARTÍCULO 28.
+El sistema de medios de impugnación regulado por ésta ley tiene por objeto garantizar:
 
-Las bases que emitan las convocantes para las licitaciones públicas se pondrán a disposición de los interesados vía internet a través del sistema electrónico de compras gubernamentales o en las oficinas de las convocantes, a partir de la fecha de publicación de la convocatoria y hasta siete días naturales, tratándose de PIPS, dicho término se estipulará en las bases y convocatoria respectiva, previos al acto de presentación y apertura de proposiciones.
+I. Que los actos y resoluciones electorales locales se sujeten a los principios de constitucionalidad, convencionalidad y legalidad;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Las Convocantes podrán modificar las bases de licitación, ya sea a iniciativa propia o en respuesta a alguna aclaración solicitada por cualquiera de los Iicitantes, hasta inclusive el sexto día natural previo al acto de presentación y apertura de proposiciones. Estas modificaciones serán de carácter obligatorio para todos los participantes.
+II. La constitucionalidad, convencionalidad y legalidad de los actos, acuerdos o resoluciones de la Jefatura de Gobierno, del Congreso de la Ciudad, de las Alcaldías, del Instituto Electoral, de las autoridades tradicionales o de cualquier otra autoridad local, para salvaguardar los resultados vinculantes de los procesos electorales, incluyendo el de las personas juzgadoras, electivos y democráticos, será competencia del Tribunal;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+III. La definitividad de los distintos actos y etapas de los procesos electorales; y
 
-Las bases deberán contener cuando menos, lo siguiente:
+IV. La salvaguarda, validez y eficacia de los derechos político-electorales de la ciudadanía.
 
-I.- Nombre o denominación de la convocante;
+V. Controversias suscitadas en las elecciones de autoridades tradicionales, siempre y cuando sean para favorecer el derecho de autodeterminación de los pueblos originarios de la Ciudad de México. En los juicios promovidos en este supuesto, el Tribunal dispensará a los promoventes de cumplir con los formulismos para la presentación de la demanda, así como para el ofrecimiento de pruebas; así mismo aplicará la suplencia en la deficiencia de la expresión de los agravios y determinará las diligencias para mejor proveer que sean necesarias para la resolución de la controversia.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2008)</small>
+El Tribunal únicamente tendrá competencia para conocer y resolver los conflictos sometidos a su jurisdicción en los procesos de participación ciudadana que expresamente determine la Ley de la materia.
 
-II.- Forma en que se acreditará la existencia y personalidad jurídica del licitante, fecha, hora y lugar de la junta o juntas de aclaraciones a las bases de la licitación, siendo optativa la asistencia a las reuniones que se realicen;
+###### Artículo 29.
 
-III.- Fecha, hora y lugar para la presentación y apertura de las proposiciones, garantías, comunicación del fallo y firma del contrato;
+En ningún caso la interposición de los medios de impugnación previstos en esta Ley, producirá efectos suspensivos sobre el acto o resolución impugnada.
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+###### Artículo 30.
 
-IV.- Señalamiento de que será causa de descalificación, el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación que afecten la solvencia de la propuesta;
+Para la resolución de los medios de impugnación previstos en esta Ley, las normas se interpretarán conforme a la Constitución Federal, la Constitución Local, los tratados o instrumentos internacionales celebrados por el Estado Mexicano, así como a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho.
 
-V.- El idioma en que deberán presentarse las proposiciones;
+La interpretación del orden jurídico deberá realizarse conforme a los derechos humanos reconocidos en la Constitución Federal y Local, favoreciendo en todo tiempo a las personas con la protección más amplia.
 
-VI.- La indicación de que ninguna de las condiciones contenidas en las bases de licitación, así como de las proposiciones que sean presentadas por los proveedores podrán ser negociadas;
+En la interpretación sobre la resolución de conflictos de asuntos internos de los partidos políticos, se deberá tomar en cuenta el carácter de entidad de interés público de éstos como organización de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus militantes.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE AGOSTO DE 2007)</small>
+En caso de ponderación de normas o principios, se deberá optar por remitir los asuntos a la justicia interna, siempre y cuando, ello no genere un menoscabo en los derechos de los actores que haga irreparable el acto reclamado.
 
-VII.- Criterios claros y detallados para la evaluación de las propuestas y adjudicación de los contratos;
+### CAPÍTULO II. Del Tribunal
 
-VIII.- Descripción completa de los bienes, arrendamientos o servicios; información específica sobre el mantenimiento; asistencia técnica y capacitación; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; especificaciones y normas que, en su caso, sean aplicables; dibujos; cantidades; muestras, pruebas que se realizarán y, de ser posible, método para ejecutarlas; período de garantía y, en su caso, otras opciones adicionales de cotización;
+###### Artículo 31.
 
-IX.- Plazo, lugar y condiciones de entrega;
+El Tribunal, conforme a las disposiciones de esta Ley, resolverá los asuntos de su competencia con plena jurisdicción.
 
-X.- Condiciones de precio y pago;
+Para el debido cumplimiento de sus funciones, se regirá por los principios de constitucionalidad, convencionalidad, legalidad, certeza, independencia, imparcialidad, objetividad, equidad, probidad, máxima publicidad, transparencia y accesibilidad a la información pública.
 
-XI.- La indicación de si se entregará anticipo, en cuyo caso deberá señalarse el porcentaje respectivo, el que no podrá exceder del cincuenta por ciento del monto total del contrato;
+###### Artículo 32.
 
-XII.- La indicación si la totalidad de los bienes o servicios objeto de la licitación, o bien, de cada partida o concepto de los mismos, serán adjudicados a un solo proveedor o a varios;
+Todos los trámites, audiencias y sesiones derivados de la promoción de los medios de impugnación, juicios y procedimientos previstos en la presente Ley serán del conocimiento público, salvo que la ley disponga lo contrario o el Tribunal así lo decida por razones de seguridad u orden público.
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
-XIII.- Señalamiento de que será causa de descalificación la comprobación de que algún licitante ha acordado con otro u otros elevar los precios de los bienes y servicios;
+###### Artículo 33.
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+El acceso a los expedientes jurisdiccionales competencia del Tribunal quedará reservado sólo a las partes y a las personas autorizadas para ello, y una vez que las sentencias hayan causado estado, podrán ser consultados por cualquier persona, en los términos de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
 
-XIV.- Penas convencionales por atraso en las entregas o en la prestación de los servicios;
+Para el efecto anterior, deberán protegerse los datos personales.
 
-XV.- Instrucciones para elaborar y entregar las proposiciones y garantías;
+###### Artículo 34.
 
-XVI.- La indicación, en los casos de licitación internacional, que los pagos se harán en moneda nacional; y
+El Tribunal a través de su Presidencia, podrá requerir, en todo momento, el auxilio, apoyo y colaboración de algún órgano de gobierno, autónomo o autoridad administrativa y jurisdiccional de la Ciudad de México, quienes estarán obligados a prestarlo de inmediato en los términos que les sea requerido.
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+En caso de incumplimiento, la Presidencia del Tribunal dará vista al órgano de control competente a efecto de que se proceda en términos de la ley aplicable en materia de responsabilidades.
 
-XVII.- La indicación de que los licitantes deberán presentar sus propuestas en sobre cerrado conteniendo los aspectos tanto técnicos como económicos;
+Asimismo, el Pleno también podrá solicitar el apoyo y colaboración de cualquier órgano de gobierno o autoridad administrativa y jurisdiccional de carácter federal, estatal y municipal, para lo cual se estará a lo dispuesto en la legislación aplicable
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+###### Artículo 35.
 
-XVIII.- La indicación de que en caso de violaciones en materia de derechos inherentes a la propiedad intelectual, la responsabilidad estará a cargo del licitante o proveedor según sea el caso, salvo que exista impedimento, la indicación de que los mencionados derechos, para el caso de la contratación de servicios de consultoría, asesorías, estudios e investigaciones, se estipularán a favor de las dependencias, entidades y ayuntamientos, en los términos de las disposiciones legales aplicables.
+Las autoridades de la Ciudad de México, así como la ciudadanía, Asociaciones Políticas, candidatas y candidatos, y todas aquellas personas físicas o morales, que con motivo del trámite, substanciación y resolución de los medios de impugnación a que se refiere el presente Libro, no cumplan las disposiciones de esta Ley o desacaten las resoluciones que dicte el Tribunal, serán sancionados en términos del presente ordenamiento.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2008)</small>
+###### Artículo 36.
 
-XIX.- Tratándose de PIPS, las demás que se consideren necesarias, dependiendo de la magnitud y complejidad de los servicios.
+El Tribunal tomará las medidas necesarias para lograr la más pronta, expedita, eficiente y completa impartición de justicia. Para tal efecto, los actos procesales se regirán bajo los principios de economía procesal y concentración de actuaciones.
 
-###### ARTÍCULO 29.
+### CAPÍTULO III. Medios de Impugnación
 
-Todo interesado que satisfaga los requisitos de la convocatoria, así como las bases y especificaciones en la licitación tendrá derecho a presentar proposiciones.
+###### Artículo 37.
 
-El plazo para la presentación y apertura de proposiciones no será menor de siete ni mayor de quince días naturales, contados a partir de la fecha de publicación de la convocatoria.
+El sistema de medios de impugnación se integra por:
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2006)</small>
+I. El juicio electoral; y
 
-Para el caso de Proyectos de Inversión y Prestación de Servicios, el plazo para la presentación y apertura de proposiciones no será menor de siete días naturales, y el plazo mayor se establecerá en la convocatoria respectiva.
+II. El juicio para la protección de los derechos político-electorales de la ciudadanía.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2008)</small>
+## TÍTULO SEGUNDO. Reglas Comunes Aplicables a los Medios de Impugnación
 
-Dos o más personas físicas o morales podrán presentar conjuntamente proposiciones, sin necesidad de constituir una sociedad o nueva sociedad en caso de personas morales, siempre que para tales efectos, celebren entre sí un Convenio que deberá contener como mínimo lo siguiente:
+### CAPÍTULO I. Prevenciones Generales
 
-I. Nombre y domicilio de cada uno de los miembros que lo integran, señalando los datos del acta de nacimiento y registro federal de contribuyentes de las personas físicas agrupadas o los testimonios públicos con los que se acredita la existencia legal de las personas morales que lo integran;
+###### Artículo 38.
 
-II. Nombre de los representantes de cada uno de los miembros identificando, en su caso, los datos de los testimonios públicos con los que se acredita su representación;
+Las disposiciones de este Título rigen para el trámite, sustanciación y resolución de todos los medios de impugnación, con excepción de las reglas particulares señaladas expresamente para cada uno de ellos.
 
-III. Definición de las aportaciones de cada miembro;
+###### Artículo 39.
 
-IV. Designación de un domicilio común para oír y recibir notificaciones;
+No podrá suspenderse el procedimiento, salvo cuando para su continuación sea imprescindible la resolución de otro medio de impugnación que se tramite en el propio Tribunal o ante el Tribunal Electoral del Poder Judicial de la Federación o por otra causa análoga calificada por el Pleno del Tribunal.
 
-V. Designación de un representante común otorgándole poder amplio y suficiente para tratar cualquier asunto relacionado con la Oferta;
+###### Artículo 40.
 
-VI. Una descripción del objeto del convenio, señalando las obligaciones de hacer o dar que le corresponda a cada miembro, así como la manera en que se exigirá su cumplimiento, y
+Las audiencias y todas las actuaciones que deban realizarse con motivo de la sustanciación de un medio de impugnación, estarán bajo la responsabilidad de la Magistratura Instructora, quien será asistido por la Ponencia a su cargo y, en caso de que el Pleno lo autorice, también podrá ser auxiliado por una persona de la Secretaría de Estudio y Cuenta adscrito a otra ponencia.
 
-VII. Estipulación expresa que cada uno de los firmantes quedará obligado en forma conjunta y solidaria para comprometerse por cualquier responsabilidad derivada de su proposición.
+### CAPÍTULO II. De los Términos
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+###### Artículo 41.
 
-###### ARTÍCULO 30.
+Durante los procesos electorales todos los días y horas son hábiles. Los términos se computarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas.
 
-En las licitaciones la entrega de proposiciones se hará por escrito, mediante un sobre cerrado que contendrá por separado, los aspectos técnicos así como los económicos, incluyendo en estos últimos la garantía de sostenimiento de las propuestas.
+Tratándose de los procesos de participación ciudadana, el párrafo anterior aplicará exclusivamente para aquellos previstos en la ley de la materia como competencia del Tribunal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+Los asuntos generados durante dichos procesos que no guarden relación con éstos, no se sujetarán a la regla anterior.
 
-### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE LlCITACIÓN DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
+Durante el tiempo que transcurra entre los procesos referidos en el primer párrafo del presente artículo, el cómputo de los términos se hará contando solamente los días hábiles debiendo entenderse por tales, todos los días a excepción de los sábados, domingos y los inhábiles que determinen las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+###### Artículo 42.
 
-###### ARTÍCULO 31.
+Todos los medios de impugnación previstos en esta Ley, deberán interponerse dentro del plazo de cuatro días contados a partir del día siguiente a aquel en que el actor haya tenido conocimiento del acto o resolución impugnado, o se hubiese notificado de conformidad con lo dispuesto en la norma aplicable.
 
-A los actos de apertura de proposiciones podrá invitarse a funcionarios o representantes de los sectores públicos, privados y sociales que se consideren convenientes. Así mismo, deberá estar presente un representante de la Contraloría a la cual deberá enviar el convocante la invitación con 5 días hábiles de anticipación como mínimo, antes de la realización de la licitación.
+Tratándose de omisiones, el impugnante podrá controvertirlas en cualquier momento mientras perdure la misma.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+### CAPÍTULO III. De las Partes
 
-Cuando por causas de fuerza mayor no imputables a la Contraloría, ésta no pudiera estar presente en el acto, la convocante deberá turnar la documentación correspondiente al órgano de control a la mayor brevedad posible para su análisis y seguimiento.
+###### Artículo 43.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+Son partes en los medios de impugnación y en el proceso, las siguientes:
 
-###### ARTÍCULO 32.
+I. El actor, que será quien estando legitimado lo presente por sí mismo o en su caso a través de representante;
 
-Las personas físicas o morales que participen en las licitaciones o adjudicaciones que prevé la presente Ley, deberán otorgar la garantía que se fije en la convocatoria o contrato, mediante la siguiente:
+II. La autoridad responsable, partido, coalición o agrupación política que haya realizado el acto o emitido la resolución que se impugna; y
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+III. El tercero interesado, que es el partido político, la coalición, las candidatas y candidatos, ya sea propuestos por los partidos políticos o sin partido, la agrupación política o ciudadana, según corresponda, con un interés en la causa derivado de un derecho incompatible con el que pretende el actor.
 
-I.- La garantía de sostenimiento de las propuestas en los procedimientos de licitación, cuyo monto de garantía será un mínimo de 5% del valor total de la propuesta económica;
+Las candidatas o candidatos propuestas por los partidos políticos podrán participar como coadyuvantes de éstos en los juicios electorales, de conformidad con las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+I. A través de la presentación de escritos en los que manifiesten lo que a su derecho convenga, sin que en ningún caso se puedan tomar en cuenta los alegatos, ni los conceptos que amplíen o modifiquen la controversia planteada en el medio de impugnación o en el escrito que como tercero interesado haya presentado su partido;
 
-II.- Los anticipas que, en su caso, reciban. Esta garantía deberá constituirse por la totalidad del monto del anticipo; y
+II. Los escritos deberán presentarse dentro de los plazos establecidos para la promoción de los medios de impugnación o, en su caso, para la presentación de los escritos de los terceros interesados;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+III. Los escritos deberán ir acompañados del documento con el que acredite su calidad de candidata o candidato. Los candidatos deberán acompañar su constancia de registro como tal para el efecto de acreditar su personalidad;
 
-III.- Garantía de cumplimiento de los contratos, cuyo monto de la garantía se determinará dependiendo de la magnitud del contrato.
+IV. Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y dentro de los plazos establecidos en esta Ley, siempre y cuando estén relacionadas con los hechos y agravios invocados en el medio de impugnación promovido o en el escrito de tercero interesado presentado por su partido político; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2008)</small>
+V. Deberán llevar el nombre y la firma autógrafa o la huella digital de la parte promovente.
 
-Tratándose de licitaciones de PIPS, el porcentaje de la garantía de sostenimiento se establecerá en las bases de licitación respectivas.
+###### Artículo 44.
 
-###### ARTÍCULO 33.
+Los terceros interesados podrán comparecer por escrito ante la autoridad u órgano responsable para alegar lo que a su interés convenga. Los escritos de comparecencia deberán presentarse dentro de las 72 horas siguientes contadas a partir de la publicación de la demanda y, en su caso anexos, en los estrados de la autoridad u órgano responsable,
 
-Las garantías que deban otorgarse conforme a esta ley, serán constituidas en favor de la Secretaría de Finanzas y Adminstración (sic) o de las tesorerías municipales, según sea el caso, salvo que se trate de Entidades, en cuyo caso las garantías se constituirán en su favor.
+Para el efecto anterior, la autoridad u órgano responsable está obligada a expedir de manera inmediata y sin costo alguno, copias simples de la demanda y en su caso, anexos, ya sea en medios impresos, ópticos o digitales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE AGOSTO DE 2007)</small>
+Los escritos de comparecencia deberán:
 
-###### ARTÍCULO 34.
+I. Presentarse ante la autoridad u órgano partidario responsable del acto o resolución impugnada;
 
-La presentación y apertura de proposiciones podrá ser en uno o dos actos, en los cuales podrán participar los Iicitantes que hayan cubierto el costo de las bases de licitación, las especificaciones de la misma y los requisitos de la convocatoria y se llevará a cabo, conforme a lo siguiente:
+II. Hacer constar el nombre del tercero interesado;
 
-a) En la primera etapa:
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2020)</small>
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2007)</small>
+III. Señalar domicilio para recibir notificaciones o, en su caso, una dirección de correo electrónico válida, en caso de solicitar la recepción de notificación electrónica, cumpliendo con el procedimiento que al efecto establezca el Pleno;
 
-I.- Los licitantes entregarán sus proposiciones en sobre cerrado, en forma inviolable, se procederá a la apertura de las propuestas, y se desecharán las que hubieren omitido alguno de los requisitos exigidos, las que serán devueltas por la convocante transcurridos quince días naturales contados a partir de la fecha en que se dé a conocer el fallo de la licitación; en este acto, la revisión de la documentación se efectuará en forma cuantitativa, sin entrar al análisis detallado de su contenido, el cual se efectuará durante el proceso de evaluación de las propuestas:
+IV. Acompañar la documentación que sea necesaria para acreditar la personería del compareciente, de conformidad con lo previsto en esta Ley;
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2008)</small>
+V. Precisar la razón del interés jurídico en que se funden y las pretensiones concretas del compareciente;
 
-II.- Los participantes o un representante común nombrado por éstos, rubricarán el documento de contenido técnico y económico que se señale en las bases. En caso de que la apertura de las proposiciones económicas no se realice en la misma hora y fecha, los sobres que las contengan serán, firmados por los Iicitantes y los servidores públicos de las Dependencias, Entidades o Ayuntamientos presentes y quedarán en custodia de la convocante, quien establecerá en el acta correspondiente la fecha, lugar y hora en que se llevará a cabo la segunda etapa, levantando el acta correspondiente precisando el acto. Durante este período, la convocante hará el análisis detallado de las propuestas técnicas aceptadas.
+VI. Ofrecer y aportar las pruebas dentro del plazo para su presentación; mencionar en su caso, las que se habrán de aportar dentro de dicho plazo; y solicitar las que deban requerirse, cuando la parte promovente justifique que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas; y
 
-b) En la Segunda etapa:
+VII. Hacer constar el nombre, la firma autógrafa o la huella digital del compareciente.
 
-I.- Se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieren sido desechadas en la primera etapa o en el análisis detallado de las mismas, y se dará lectura en voz alta al importe de las propuestas que contengan los documentos y cubran los requisitos exigidos;
+###### Artículo 45.
 
-II.- En caso de que el fallo de la licitación no se realice en la misma fecha, los licitantes y servidores públicos presentes además de la convocante firmarán las proposiciones económicas aceptadas. La convocante señalará fecha, lugar y hora en que se dará a conocer el fallo de la licitación, el que deberá quedar comprendido dentro de los treinta días naturales contados a partir de la fecha de inicio de la primera etapa y podrá diferirse por una sola vez, siempre que el nuevo plazo fijado no exceda de diez días naturales contados a partir del plazo establecido originalmente.
+La Magistratura Instructora o, en su caso el Pleno, tendrán por no presentado el escrito de comparecencia cuando el mismo se reciba de manera extemporánea; sea presentado ante autoridad u órgano distinto del responsable; o no contenga en original la firma autógrafa o huella digital del compareciente.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+Cuando no se satisfagan los requisitos previstos en las fracciones IV o V del artículo anterior, la Magistratura instructora requerirá a la parte compareciente para que los cumpla, en un plazo de cuarenta y ocho horas, contadas a partir de la notificación personal correspondiente, bajo apercibimiento que, de no hacerlo, se propondrá al Pleno tenerlo por no presentado.
 
-En tratándose de PIPS, el plazo de la prórroga para dar a conocer el fallo de la licitación será hasta de treinta días naturales contados a partir del plazo establecido originalmente.
+### CAPÍTULO IV. Legitimación y Personería
 
-III.- En junta pública se dará a conocer el fallo de licitación, a la que libremente podrán asistir los licitantes que hubieren participado en las etapas de presentación y apertura de proposiciones. En sustitución de esta junta, la convocante podrá optar en comunicar por escrito el fallo de la licitación, a cada uno de los licitantes, y deberá enviar copia del fallo a la Contraloría;
+###### Artículo 46.
 
-IV.- En el mismo acto de fallo o adjunta a la comunicación referida en la fracción anterior, la convocante proporcionará por escrito a los licitantes la información acerca de las razones por las cuales, en su caso, su propuesta no fue elegida; asimismo, se levantará el acta de fallo de la licitación, que firmarán los participantes, a quienes se les entregará copia de la misma, al igual que a la Contraloría.
+La presentación de los medios de impugnación corresponde a:
 
-###### ARTÍCULO 35.
+I. Los Partidos Políticos, Coaliciones o las Agrupaciones Políticas a través de sus representantes legítimos, entendiéndose por éstos:
 
-La convocante para hacer la evaluación de las proposiciones, deberá verificar que las mismas incluyan la información, documentos y requisitos solicitados en las bases de la licitación.
+a) Los registrados formalmente ante el órgano electoral responsable del acto o resolución impugnada. Los representantes de los partidos políticos acreditados ante el Consejo General del Instituto Electoral podrán interponer medios de impugnación ante los Consejos Distritales.
 
-Una vez hecha la evaluación de las proposiciones y atendiendo, en su caso, la opinión y dictamen del Comité, el contrato se adjudicará a la persona que, de entre los licitantes, reúna las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+b) Las y los representantes ante el Consejo General del Instituto podrán interponer medios de impugnación ante los demás Consejos.
 
-Si resultare que dos o más proposiciones son solventes y, por lo tanto, satisfacen la totalidad de los requerimientos de la convocante, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo.
+c) Los miembros de los comités regionales, distritales y de las Alcaldías, o sus equivalentes, según corresponda. En estos casos, deberán acreditar su personería con el nombramiento hecho de acuerdo los (sic) estatutos del partido; y
 
-La convocante emitirá un dictamen en el que hará constar el análisis de las proposiciones admitidas y se hará mención de las proposiciones desechadas.
+d) Las personas que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por los funcionarios del partido facultados para ello.
 
-(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2008) (F. DE E., P.O. 25 DE DICIEMBRE DE 2008)
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-Tratándose de la evaluación de proposiciones para la adjudicación de un contrato de PIPS, la convocante determinará en las bases de licitación, criterios claros y detallados.
+II. Las ciudadanas y ciudadanos, candidatas y candidatos, ya sean sin partido, propuestos por los partidos políticos o de la elección de personas juzgadoras, por su propio derecho o a través de representantes legítimos, entendiéndose por éstos los registrados formalmente ante el órgano electoral responsable del acto o resolución impugnada o quien cuente con poder otorgado en escritura pública. Las candidatas y candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro;
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+III. Las organizaciones ciudadanas solicitantes de registro como agrupación o de observación electoral; deberán presentarlos por conducto de quien ostente la representación legítima, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable;
 
-###### ARTÍCULO 36.
+IV. La ciudadanía por propio derecho o a través de sus representantes legítimos y las y los representantes registrados formalmente ante los órganos electorales en los procesos de participación ciudadana.
 
-La convocante procederá a declarar desierta una licitación cuando las posturas presentadas no reúnan los requisitos de las bases de la licitación, sus precios no fueren aceptables o rebase la asignación presupuestal autorizada: debiendo expedir una nueva convocatoria o invitación; si se declaran desiertas dos licitaciones públicas o de invitación restringida, se adjudicarán en forma directa; para tal efecto, se deberá levantar el acta correspondiente.
+Salvo en la elección de Comités Ciudadanos únicamente los representantes de las fórmulas registradas ante las direcciones distritales del Instituto estarán legitimados para interponer medios de impugnación; para tal efecto, deberán acompañar a la demanda, copia simple del documento donde conste su nombramiento o designación; y
 
-### CAPÍTULO CUARTO. DE LOS CONTRATOS EN LAS ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
+V. Cualquier integrante de la comunidad, tratándose de elecciones regidas por usos y costumbres,
 
-###### ARTÍCULO 37.
+### CAPÍTULO V. Requisitos de los Medios de Impugnación
 
-La convocante se abstendrá de recibir propuestas o celebrar contrato alguno en las materias a que se refiere esta Ley, con las personas físicas o morales siguientes:
+###### Artículo 47.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE AGOSTO DE 2007)</small>
+Los medios de impugnación deberán presentarse por escrito y cumplir con los requisitos siguientes:
 
-I.- Aquellas que no cuenten con su registro vigente de Padrón de Proveedores;
+I. Interponerse por escrito ante la autoridad electoral u órgano del Partido Político o Coalición que dictó o realizó el acto o la resolución. La autoridad u órgano electoral que reciba un medio de impugnación que no sea de su competencia lo señalará de inmediato al demandante y lo remitirá, sin dilación alguna al que resulte competente;
 
-II.- En las que el servidor público que intervenga en cualquier forma en la adjudicación del contrato tenga interés personal, familiar o de negocios, incluyendo aquellas en que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2020)</small>
 
-III.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte;
+II. Mencionar el nombre del actor y señalar domicilio en la Ciudad de México para recibir toda clase de notificaciones y documentos y, en su caso, a quien en su nombre las pueda oír y recibir; así como un número telefónico y una dirección de correo electrónico válida para recibir notificaciones electrónicas en los términos del procedimiento que para tal efecto emita el Pleno del Tribunal;
 
-IV.- Aquellos proveedores que, por causas imputables a ellos mismos, la convocante les hubiere rescindido administrativamente un contrato, en más de una ocasión, dentro del lapso de dos años, calendario contado a partir de la primera rescisión. Dicho impedimento prevalecerá ante la propia convocante durante dos años, calendario contado a partir de la fecha de rescisión del segundo contrato;
+III. En caso que la parte promovente no tenga acreditada la personalidad o personería ante la autoridad u órgano responsable, acompañará la documentación necesaria para acreditarla. Se entenderá por parte promovente a quien comparezca con carácter de representante legítimo;
 
-V.- Los proveedores que se encuentran en el supuesto de la fracción anterior, respecto de dos o más dependencias o entidades, durante un año calendario, contado a partir de la fecha en que la Contraloría lo haga del conocimiento de las dependencias y entidades de la administración pública estatal y municipal;
+IV. Mencionar de manera expresa el acto o resolución impugnada y la autoridad electoral u órgano responsable del Partido Político o Coalición responsable;
 
-VI.- Las que no hubieren cumplido sus obligaciones contractuales respecto de las materias a que se refiere esta Ley, por causas imputables a ellas y que, como consecuencia de ello, haya sido perjudicada gravemente la convocante respectiva;
+V. Mencionar de manera expresa y clara los hechos en que se basa la impugnación y los agravios que causen el acto o resolución impugnados, así como los preceptos legales presuntamente violados;
 
-VII.- Aquellas que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe, en algún proceso para la adjudicación de un contrato, en su celebración, durante su vigencia, o bien, la presentación o desahogo de una inconformidad;
+VI. Ofrecer las pruebas junto con su escrito, mencionar las que se habrán de aportar dentro de los plazos legales y solicitar las que deban requerirse, cuando la parte promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; y
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2006)</small>
+VII. Hacer constar el nombre y la firma autógrafa o huella digital de la parte promovente.
 
-VIII.- Las que en virtud de la información con que cuente el órgano de control interno, hayan celebrado contratos en contravención a esta Ley;
+###### Artículo 48.
 
-IX.- Aquellas a las que se les declare en estado de quiebra o, en su caso, sujetas a concurso de acreedores;
+Cuando se omita alguno de los requisitos señalados en las fracciones IV o V del artículo anterior, la Magistratura Instructora requerirá a la parte promovente para que lo cumpla en un plazo de cuarenta y ocho horas contadas a partir de que se realice la notificación personal del requerimiento correspondiente, con el apercibimiento de que, de no hacerlo, se propondrá al pleno el desechamiento de plano del escrito de demanda.
 
-X.- Las que por sí o a través de empresas que formen parte del mismo grupo empresarial elaboren dictámenes, peritajes y avalúos cuando se requiera dirimir controversias entre tales personas y la convocante;
+En ningún caso la falta de pruebas será motivo de desechamiento del medio de impugnación.
 
-XI.- De los proveedores que no hayan obtenido a través del Sistema Electrónico de Contrataciones Gubernamentales (COMPRANET) o en las oficinas de la convocante las bases de licitación correspondientes; y
+### CAPÍTULO VI. De la Improcedencia y el Sobreseimiento
 
-XII.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de esta Ley.
+###### Artículo 49.
 
-## TÍTULO TERCERO. DEL PROCEDIMIENTO Y CONTRATOS DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
+Los medios de impugnación previstos en este ordenamiento serán improcedentes y, por tanto, se decretará el desechamiento de plano de la demanda, cuando:
 
-### CAPÍTULO QUINTO. DEL COMITÉ DE ADQUISICIONES
+I. Se pretenda impugnar actos o resoluciones que no afecten el interés jurídico del actor y cuando se interpongan ante autoridad u órgano distinto del responsable;
 
-###### ARTÍCULO 38.
+II. Se pretenda impugnar actos o resoluciones que se hayan consumado de un modo irreparable;
 
-Los contratos que deban formalizarse como resultado de la adjudicación, deberán suscribirse en un término no mayor de diez días naturales contados a partir de la fecha en que se hubiere notificado al proveedor el fallo correspondiente.
+III. Se pretenda impugnar actos o resoluciones que se hubiesen consentido expresamente, entendiéndose por éstos, las manifestaciones de voluntad que entrañen ese consentimiento;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2008)</small>
+IV. Se presenten fuera de los plazos señalados en esta Ley;
 
-Los contratos de PIPS que deban formalizarse como resultado de la adjudicación, deberán formalizarse en los términos establecidos en las bases de licitación.
+V. La parte promovente carezca de legitimación en los términos del presente ordenamiento;
 
-###### ARTÍCULO 39.
+VI. No se hayan agotado todas las instancias previas establecidas en la ley o por las normas internas de los partidos políticos, según corresponda, para combatir los actos o resoluciones electorales o las determinaciones de estos últimos, en virtud de los cuales se pudieran haber modificado, revocado o anulado, salvo lo previsto en el artículo 124 de esta Ley;
 
-El proveedor a quien se hubiere adjudicado el contrato como resultado de una licitación, perderá a favor de la convocante la garantía de seriedad que hubiere otorgado si, por causas imputables a él, la operación no se formaliza dentro del plazo a que se refiere el artículo anterior, pudiendo la dependencia o entidad adjudicar el contrato al participante que haya presentado la segunda proposición solvente más baja, de conformidad con lo asentado en el dictamen a que se refiere el artículo 35, y así sucesivamente en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la postura que inicialmente hubiere resultado ganadora, en todo caso, no sea superior al diez por ciento.
+VII. En un mismo escrito se pretenda impugnar más de una elección, salvo en la elección de Diputaciones y del Consejo por ambos principios;
 
-###### ARTÍCULO 40.
+VIII. Los agravios no tengan relación directa con el acto o resolución que se combate, o que de los hechos expuestos no pueda deducirse agravio alguno;
 
-El proveedor a quien se hubiere adjudicado el contrato no estará obligado a suministrar los bienes o prestar el servicio, si la dependencia, entidad o ayuntamiento, por causas no imputables al mismo proveedor, no firmare el contrato dentro del plazo establecido en el artículo 38, en cuyo caso se le reembolsarán los gastos no recuperables en que hubiere incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
+IX. Se omita mencionar los hechos en que se basa la impugnación;
 
-El atraso de la dependencia, entidad o municipio en la formalización de los contratos respectivos, prorrogará en igual plazo la fecha de cumplimiento de las obligaciones asumidas por ambas partes.
+X. Exista la excepción procesal de la cosa juzgada, así como su eficacia refleja;
 
-### CAPÍTULO SEXTO. DE LOS PROVEEDORES Y SU REGISTRO
+XI. Se omita hacer constar el nombre y la firma autógrafa o huella digital de la parte promovente;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2007)</small>
+XII. La parte promovente desista expresamente por escrito, en cuyo caso, únicamente la Magistratura Instructora, sin mayor trámite, requerirá la ratificación del escrito con el apercibimiento que, de no comparecer, se le tendrá por ratificado. El desistimiento deberá realizarse ante la Magistratura Instructora. Los partidos políticos sólo pueden desistirse de las demandas de resarcimiento o reconocimiento de derechos propios, no respecto de derechos públicos o colectivos; y
 
-###### ARTÍCULO 41.
+XIII. En los demás casos que se desprendan de los ordenamientos legales aplicables.
 
-Los derechos y obligaciones que se deriven de los contratos de adquisiciones, arrendamientos o servicios, no podrán cederse en forma parcial o total a favor de cualesquiera otra persona física o moral, con excepción de los derechos de cobro, en cuyo caso, se deberá contar con la conformidad previa de la dependencia, entidad o ayuntamiento de que se trate.
+###### Artículo 50.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2008)</small>
+El Pleno del Tribunal podrá decretar el sobreseimiento, cuando habiendo sido admitido el medio de impugnación correspondiente:
 
-Tratándose de contratos de PIPS, se podrán ceder en forma parcial o total los derechos de cobro, siempre y cuando cuente con la conformidad previa de la Dependencia, Entidad o Ayuntamiento de que se trate y no contravenga ninguna disposición legal.
+I. La parte promovente se desista expresamente por escrito; en cuyo caso, la Magistratura Instructora requerirá la ratificación del escrito apercibiéndolo que, de no comparecer, se tendrá por ratificado el desistimiento;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+II. El acto o resolución impugnado se modifique o revoque o, por cualquier causa, quede sin materia el medio de impugnación respectivo;
 
-ARTÍCULO 41 BIS.- Los contratos de adquisiciones, arrendamientos y servicios, así como los de PIPS, deberán contener, en lo aplicable, lo siguiente:
+III. Aparezca o sobrevenga alguna de las causales de improcedencia previstas en el presente ordenamiento; y
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+IV. La persona agraviada fallezca, sea suspendida o pierda sus derechos político electorales, antes de que se dicte resolución o sentencia.
 
-I. La autorización del presupuesto para cubrir el compromiso derivado del contrato;
+### CAPÍTULO VII. De las Pruebas
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+###### Artículo 51.
 
-II. La garantía del sostenimiento de las propuestas y la de cumplimiento de los contratos que deberán ser de conformidad con lo establecido en el artículo 32 de esta Ley;
+La persona que afirma está obligada a probar. También lo está la persona que niega, cuando la negativa implica la afirmación expresa de un hecho.
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+###### Artículo 52.
 
-III. La indicación del procedimiento conforme al cual se llevó a cabo la adjudicación del contrato;
+Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos.
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+###### Artículo 53.
 
-IV. El precio unitario y el importe total a pagar por los bienes o servicios;
+Sólo podrán ser ofrecidas y admitidas las pruebas siguientes:
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+I. Documentales públicas;
 
-V. La fecha o plazo, lugar y condiciones de entrega;
+II. Documentales privadas;
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+III. Técnicas;
 
-VI. Porcentaje, número y fechas o plazo de las exhibiciones y amortización de los anticipos que se otorguen;
+IV. Presuncionales legales y humanas;
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+V. Instrumental de actuaciones;
 
-VII. Forma, términos y porcentaje para garantizar los anticipos y el cumplimiento del contrato;
+VI. La confesional y la testimonial, cuando versen sobre declaraciones que consten en acta levantada ante fedatario público que las haya recibido directamente de la parte declarante, y siempre que esta última quede debidamente identificada y asiente a la razón de su dicho;
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+VII. Reconocimiento o inspección; y
 
-VIII. Plazo y condiciones de pago del precio de los bienes o servicios;
+VIII. Periciales, cuando la violación reclamada lo amerite, los plazos legalmente establecidos permitan su desahogo y se estimen determinantes para que con su perfeccionamiento se pueda modificar, revocar o anular el acto o resolución impugnada.
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+###### Artículo 54.
 
-IX. Precisión de sí el precio es fijo o sujeto a ajustes y, en este último caso, la fórmula o condición en que se hará y calculará el ajuste;
+El Tribunal tiene amplias facultades de allegarse las pruebas que estime pertinentes para resolver los medios de impugnación sujetos a su conocimiento.
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+La Presidencia o la Magistratura Instructora, durante la fase de instrucción, podrán requerir a los diversos órganos electorales o partidistas, así como a las autoridades federales, de la Ciudad de México o alcaldías, cualquier informe, documento, acta o paquete de votación que, obrando en su poder, sirva para la justificación de un hecho controvertido y siempre que haya principio de prueba que así lo justifique.
 
-X. Condiciones, términos y procedimientos para la aplicación de penas convencionales por atraso en la entrega de los bienes o servicios, por causas imputables d los proveedores;
+La autoridad requerida deberá proporcionar de inmediato los informes o documentos que se les soliciten y obren en su poder, y de no ser así, la Presidencia, la Magistratura Instructora o el Pleno podrán imponerle cualquiera de las medias (sic) de apremio o correcciones disciplinarias previstas en la presente normatividad.
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+###### Artículo 55.
 
-XI. La descripción pormenorizada de los bienes o servicios objeto del contrato, incluyendo, en su caso, la marca y modelo de los bienes;
+Para los efectos de este ordenamiento, serán documentales públicas, tanto en los procesos electorales, electivos y democráticos, según corresponda:
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+I. Las actas oficiales de las mesas directivas de casilla, así como las de los diferentes cómputos que consignen resultados electorales. Serán actas oficiales las originales, las copias autógrafas o las copias certificadas que deben constar en los expedientes de cada elección;
 
-XII. Salvo que exista impedimento, la estipulación de que los derechos inherentes a la propiedad intelectual, que se deriven de los servicios de consultorías, asesorías, estudios e investigaciones contratados, invariablemente se constituirán a favor de la dependencia o de la entidad, según corresponda, en términos de las disposiciones legales aplicables; y
+II. Los documentos originales expedidos por los órganos o funcionarios electorales, dentro del ámbito de su competencia;
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2007)</small>
+III. Los documentos expedidos, dentro del ámbito de sus facultades, por las autoridades federales, de la Ciudad de México, de las entidades federativas o municipales, así como de las alcaldías; y
 
-XIII. Los demás aspectos y requisitos previstos en las bases e invitaciones, así como los relativos al tipo de contrato de que se trate.
+IV. Los documentos expedidos por quienes estén investidos de fe pública de acuerdo con la ley, siempre y cuando en ellos se consignen hechos que les consten.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2007)</small>
+###### Artículo 56.
 
-Para los efectos de esta Ley, las bases de licitación, el contrato, sus anexos, son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones que se establezcan, en el contrato no deberán modificar las condiciones previstas en las bases de licitación.
+Serán documentales privadas todos los demás documentos o actas no previstas en el artículo anterior y que aporten las partes, siempre que resulten pertinentes y relacionadas con sus pretensiones o defensas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+###### Artículo 57.
 
-###### ARTÍCULO 42.
+Se considerarán pruebas técnicas las fotografías, otros medios de reproducción de imágenes y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia que puedan ser desahogados sin necesidad de peritajes o instrumentos, accesorios, aparatos o maquinaria que no estén al alcance del Tribunal para resolver.
 
-La garantía del anticipo o la del cumplimiento del contrato correspondiente deberá entregarse en un plazo que no excederá de diez días hábiles, contados a partir de su firma. Tratándose de contratos de PIPS, los plazos para la entrega de las garantías que se requieran al Inversionista Proveedor, se establecerán en las bases de licitación.
+La parte aportante deberá señalar concretamente lo que pretende acreditar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+###### Artículo 58.
 
-Si el proveedor no firmare el contrato perderá a favor de la convocante la garantía de seriedad que hubiere otorgado, y la dependencia, entidad o ayuntamiento podrá, sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante que haya presentado la siguiente proposición solvente más baja, de conformidad con lo asentado en el dictamen a que se refiere el artículo 35 párrafo IV de esta Ley, y así sucesivamente en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la postura que inicialmente hubiere resultado ganadora, en todo caso, no sea superior al diez por ciento.
+Cuando a juicio de la Magistratura Instructora, por la naturaleza de las pruebas ofrecidas o recabadas, sea indispensable desahogarla ante las partes, se celebrará una audiencia, en la fecha que para tal efecto se señale, a la que podrán acudir las partes interesadas, pero sin que su presencia sea un requisito necesario para su realización. La Magistratura Instructora acordará lo conducente; las partes interesadas podrán comparecer por si mismas o, a través de una representación debidamente autorizada.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2007)</small>
+###### Artículo 59.
 
-### CAPÍTULO SÉPTIMO. DE LOS ALMACENES
+La pericial podrá ser ofrecida y admitida en aquellos medios de impugnación no vinculados al proceso electoral y a sus resultados, siempre y cuando su desahogo sea posible en los plazos legalmente establecidos.
 
-###### ARTÍCULO 43.
+De manera excepcional se podrá ofrecer y admitir en esos procesos, cuando a juicio del Tribunal, su desahogo sea determinante para acreditar la violación alegada y no constituya un obstáculo para la resolución oportuna de los medios de impuganción (sic).
 
-En caso de que la convocante no firme el contrato respectivo dentro del término señalado en el artículo 38, deberá reintegrar al proveedor la garantía de seriedad que otorgó a favor de la convocante.
+Para su ofrecimiento y admisión deberán cumplirse además los siguientes requisitos:
 
-El proveedor a quien se hubiere adjudicado el contrato, no estará obligado a suministrar los bienes o prestar el servicio, si la convocante, por causas no imputables al mismo proveedor, no firmare el contrato dentro del plazo establecido en esta Ley, en cuyo caso se reembolsarán los gastos no recuperables que estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
+I. Ser ofrecida junto con el escrito de demanda;
 
-###### ARTÍCULO 44.
+II. Señalarse la materia sobre la que versará la prueba, exhibiendo el cuestionario respectivo con copia para cada una de las partes;
 
-En las adquisiciones, arrendamientos y servicios, deberá pactarse preferentemente la condición de precio fijo.
+III. Especificarse lo que pretenda acreditarse con la misma; y
 
-Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán los incrementos autorizados.
+IV. Señalarse el nombre del perito que se proponga y exhibir su acreditación técnica.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2006)</small>
+###### Artículo 60.
 
-En casos justificados se podrán pactar en el contrato decrementos o incrementos a los precios, de acuerdo con la fórmula que determine previamente la convocante en las bases de la licitación. En ningún caso procederán ajustes que no hubieren sido considerados en las propias bases de licitación.
+Para el desahogo de la prueba pericial, se observarán las disposiciones siguientes:
 
-###### ARTÍCULO 45.
+I. Cada parte presentará personalmente a su perito el día de la audiencia, bajo el apercibimiento de que de no hacerlo perderá este derecho;
 
-Las dependencias, entidades o ayuntamientos deberán pagar al proveedor el precio estipulado en el contrato, a más tardar dentro de los veinte días naturales siguientes, contados a partir de la fecha en que se haga exigible la obligación a cargo de la propia dependencia, entidad o ayuntamiento.
+II. Los peritos protestarán ante la Magistratura Instructora desempeñar el cargo con arreglo a la ley, asentándose el resultado de esta diligencia en el acta, inmediatamente rendirán su dictamen con base en el cuestionario aprobado, a menos de que por causa justificada soliciten otra fecha para rendirlo;
 
-En caso de incumplimiento en los pagos a que se refiere el párrafo anterior y sin perjuicio de la responsabilidad del servidor público que corresponda de la dependencia o entidad, ésta deberá pagar gastos financieros conforme a una tasa que será igual a la establecida por la Ley de Ingresos de la Federación en los casos de prórroga para el pago de créditos fiscales. Dichos gastos se calcularán sobre las cantidades no pagadas y se computarán por días calendario desde que se venció el plazo pactado, hasta la fecha en que se pongan efectivamente las cantidades a disposición del proveedor.
+III. La prueba se desahogará con el perito o peritos que concurran;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2008)</small>
+IV. Las partes y la Magistratura Instructora podrán formular al perito las preguntas que juzguen pertinentes;
 
-Tratándose de contratos de PIPS, el pago al Inversionista Proveedor se sujetará a las estipulaciones previstas en dichos instrumentos, así como a lo establecido en las bases de licitación.
+V. En caso de existir discrepancia sustancial en los dictámenes, la Magistratura Instructora podrá designar un perito tercero que prioritariamente será de la lista que emita el Tribunal Superior de Justicia de la Ciudad de México;
 
-### CAPÍTULO ÚNICO
+VI. El perito tercero designado por la Magistratura Instructora sólo podrá ser recusado por tener interés personal, por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad a petición de alguna de las partes, dentro de las veinticuatro horas siguientes a la notificación de su nombramiento;
 
-###### ARTÍCULO 46.
+VII. La recusación se resolverá de inmediato por la Magistratura Instructora y, en su caso se procederá al nombramiento de un nuevo perito; y
 
-Dentro de su presupuesto aprobado y disponible, las dependencias, entidades y ayuntamiento, bajo su responsabilidad y por razones fundadas, podrán acordar el incremento en la cantidad de bienes solicitados, mediante modificaciones a sus contratos vigentes, siempre que el monto total de las modificaciones no rebase en conjunto, el quince por ciento de los conceptos y volúmenes establecidos originalmente en los mismos y el precio de los bienes sea igual al pactado originalmente.
+VIII. Los honorarios de cada perito deberán ser pagados por la parte que lo proponga, con excepción del tercero, cuyos honorarios serán cubiertos por ambas partes.
 
-Igual porcentaje se aplicará a las modificaciones o prórrogas que se hagan respecto de la vigencia de los contratos de arrendamientos o servicios.
+###### Artículo 61.
 
-Tratándose de contratos en los que se incluyan bienes o servicios de diferentes características, el porcentaje se aplicará para cada partida o concepto de los bienes o servicios de que se trate.
+Los medios de prueba serán valorados por el Tribunal al momento de resolver, atendiendo a las reglas de la lógica, de la sana crítica y de la experiencia, tomando en cuenta las disposiciones especiales señaladas en esta Ley.
 
-### CAPÍTULO ÚNICO
+Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+Las documentales privadas, las técnicas, las presuncionales, la instrumental de actuaciones, la confesional, la testimonial, los reconocimientos o inspecciones judiciales y las periciales, sólo harán prueba plena cuando junto con los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción en el Tribunal sobre la veracidad de los hechos afirmados.
 
-###### ARTÍCULO 47.
-
-Cualquier modificación a los contratos deberá formalizarse por escrito, por parte de las dependencias, entidades o ayuntamientos. Los instrumentos legales respectivos serán suscritos por el servidor público que lo haya hecho en el contrato o quien lo sustituya, dando aviso inmediato a la Contraloría.
-
-Las dependencias, entidades o ayuntamientos se abstendrán de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones y, en general, cualquier cambio que implique otorgar condiciones más ventajosas a un proveedor comparadas con las establecidas originalmente.
-
-###### ARTÍCULO 48.
-
-Las dependencias, entidades o ayuntamientos podrán pactar penas convencionales a cargo del proveedor por atraso en el cumplimiento de los contratos. En las operaciones en que se pactare ajuste de precios, la penalización se calculará sobre el precio ajustado.
-
-### CAPÍTULO PRIMERO. DE LAS INCONFORMIDADES
-
-###### ARTÍCULO 49.
-
-Tratándose de incumplimiento del proveedor por la no entrega de los bienes o de la prestación del servicio, éste deberá reintegrar los anticipos más los intereses correspondientes, conforme a una tasa que será igual a la establecida por la Ley de Ingresos de la Federación en los casos de prórroga para el pago de créditos fiscales. Los cargos se calcularán sobre el monto del anticipo no amortizado y se computarán por días calendario desde la fecha de su entrega, hasta la fecha en que se pongan efectivamente las cantidades a disposición de la dependencia, entidad o ayuntamiento.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE JUNIO DE 2006)</small>
-
-Los proveedores cubrirán las cuotas compensatorias que conforme a la Ley de la materia, pudiere estar sujeta la importación de bienes objeto de un contrato, y en estos casos no procederán incrementos a los precios pactados, ni cualquier otra modificación a contrato.
-
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2007)</small>
-
-ARTÍCULO 49 BIS.- La convocante, la Secretaria, la Unidad, las Dependencias, Entidades y los Ayuntamientos, según corresponda, podrán, en cualquier momento, rescindir administrativamente los contratos cuando el proveedor incurra en incumplimiento de sus obligaciones, conforme al procedimiento siguiente:
-
-l. Se iniciará a partir de que al proveedor le sea comunicado por escrito el incumplimiento en que haya incurrido, para que en un término de cinco días hábiles exponga lo que a su derecho convenga y aporte, en su caso, las pruebas que estime pertinentes;
-
-II. Transcurrido el término a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que hubiere hecho valer;
-
-III. La determinación de dar o no por rescindido el contrato, deberá ser debidamente fundada, motivada y comunicada al proveedor dentro de los diez días hábiles siguientes a lo señalado en la fracción I de este artículo, para que, manifieste lo que a su derecho convenga, procediendo la dependencia, entidad o ayuntamiento a resolver lo procedente dentro de los diez días naturales siguientes al que hubiere recibido el escrito de contestación. Si las causas de rescisión fueran imputables al proveedor, se procederá a hacer efectiva la garantía y se abstendrán de cubrir los importes restantes.
-
-La situación descrita en el párrafo anterior, deberá hacerse del inmediato conocimiento de la Contraloría, por escrito, por conducto de los titulares de los organismos contratantes para su respectivo seguimiento y evaluación; y
-
-IV. Cuando se rescinda el contrato se formulará el finiquito correspondiente, a efecto de hacer constar los pagos que deba efectuar la dependencia o entidad por concepto de los bienes recibidos o los servicios prestados hasta el momento de rescisión.
-
-Si previamente a la determinación de dar por rescindido el contrato, se hiciere entrega de los bienes o se prestaren los servicios, el procedimiento iniciado quedará sin efecto, previa aceptación y verificación de la dependencia o entidad de que continúa vigente la necesidad de los mismos, aplicando, en su caso, las penas convencionales correspondientes.
-
-La dependencia o entidad podrá determinar no dar por rescindido el contrato, cuando durante el procedimiento advierta que la rescisión del contrato pudiera ocasionar algún daño o afectación a las funciones que tiene encomendadas. En este supuesto, deberá elaborar un dictamen en el cual justifique que los impactos económicos o de operación que se ocasionarían con la rescisión del contrato resultarían más inconvenientes.
-
-Al no dar por rescindido el contrato, la dependencia o entidad establecerá con el proveedor otro plazo, que le permita subsanar el incumplimiento que hubiere motivado el inicio del procedimiento. El convenio modificatorio que al efecto se celebre, deberá contener las medidas jurídicas necesarias que garanticen el cumplimiento de los plazos, condiciones y términos establecidos, por lo que se deberán establecer penas convencionales, así como garantizar que el proveedor realizara el pago de daños y perjuicios que pudiese ocasionar con su incumplimiento.
-
-Las dependencias y entidades podrán establecer en las bases de licitación, invitaciones y contratos, deducciones al pago de bienes o servicios con motivo del incumplimiento parcial o deficiente en que pudiera incurrir el proveedor respecto a las partidas o conceptos que integran el contrato. En estos casos, establecerán el límite de incumplimiento a partir del cual podrán cancelar total o parcialmente las partidas o conceptos no entregados, o bien rescindir el contrato en los términos de artículo.
-
-Cuando por motivo del atraso en la entrega de los bienes o la prestación de los servicios, o el procedimiento de rescisión se ubique en un ejercicio fiscal diferente a aquél en que hubiere sido adjudicado el contrato, la dependencia o entidad convocante podrá recibir los bienes o servicios, previa verificación de que continúa vigente la necesidad de los mismos y se cuenta con partida y disponibilidad presupuestaria del ejercicio fiscal vigente, debiendo modificarse la vigencia del contrato con los precios originalmente pactados. Cualquier pacto en contrario a lo dispuesto en este artículo se considerará nulo.
-
-Asimismo, podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general, o bien, cuando por causas justificadas se extinga la necesidad de requerir los bienes o servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas, se ocasionaría algún daño o perjuicio al Estado, o se determine la nulidad total o parcial de los actos que dieron origen al contrato, con motivo de la resolución de una inconformidad emitida por el órgano de control correspondiente. En estos supuestos la dependencia o entidad reembolsará al proveedor los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato correspondiente.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 49 BIS 1.- Tratándose de contratos de PIPS, las Dependencias, Entidades y los Ayuntamientos, según corresponda, podrán rescindirlos administrativamente en caso de incumplimiento de las obligaciones a cargo del Inversionista Proveedor estipuladas contractualmente como causales de rescisión y éstas no hayan sido subsanadas en los términos del Contrato. A efecto de poder llevar a cabo la rescisión administrativa, la contratante deberá solicitar la autorización correspondiente de la Secretaría dentro de los treinta días naturales siguientes a aquél en que se hubiere agotado cualquier periodo de gracia otorgado al Inversionista Proveedor en el Contrato. Si previamente a la determinación de dar por rescindido el Contrato, se subsana el incumplimiento correspondiente, el procedimiento podrá quedar sin efecto a juicio de la contratante.
-
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 49 BIS 2.- Las Dependencias, Entidades y los Ayuntamientos, según corresponda, podrán intervenir temporalmente o dar por terminado anticipadamente el Contrato de PIPS cuando concurran razones de interés general, se presente un caso fortuito o una fuerza mayor, o bien, cuando por causas justificadas se extinga la necesidad de requerir los servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas, se ocasionaría algún daño o perjuicio al Estado.
-
-###### ARTÍCULO 50.
-
-Las dependencias, entidades o ayuntamientos estarán obligados a mantener los bienes adquiridos o arrendados en condiciones apropiadas de operación, mantenimiento y conservación, así como vigilar que los mismos se destinen al cumplimiento de los programas y acciones previamente determinados.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2008)</small>
-
-Para los efectos del párrafo anterior, las Dependencias, Entidades o Ayuntamientos en los actos o contratos de adquisiciones, arrendamientos, servicios, así como los de PIPS, deberán estipular las condiciones que garanticen su correcta operación y funcionamiento; el aseguramiento del bien o bienes de que se trate para garantizar su integridad hasta el momento de su entrega y, en caso de ser necesario, la capacitación de personal que operarán los equipos.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
-
-ARTÍCULO 50 BIS.- Cuando en la prestación del servicio se presente caso fortuito o de fuerza mayor, la Dependencia o Entidad, bajo su responsabilidad podrá suspender la prestación del servicio, en cuyo caso únicamente se pagarán aquellos que hubiesen sido efectivamente prestados y se reintegrarán, en su caso, los anticipos no amortizados.
-
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2007)</small>
-
-Cuando la suspensión obedezca a causas imputables a la dependencia o entidad, en las bases de la licitación y el contrato deberá preverse la forma de pagar al proveedor los gastos no recuperables durante el tiempo que dure está suspensión.
-
-### CAPÍTULO SEGUNDO. DEL RECURSO DE REVOCACIÓN Y REVISIÓN
-
-###### ARTÍCULO 51.
-
-Las Dependencias, Entidades o Ayuntamientos deberán establecer comités de adquisiciones, arrendamientos y servicios, salvo que por la naturaleza o magnitud de sus funciones, no se justifique la instalación a juicio de la Secretaría, mismos que tendrán las siguientes funciones:
-
-I.- Revisar los programas y presupuestos de adquisiciones, arrendamientos y servicios, así como formular las observaciones y recomendaciones convenientes;
-
-II.- Proponer las políticas internas, bases y lineamientos en motivo de adquisiciones, arrendamientos y servicios y autorizar los supuestos no previstos, además de elaborar y de aprobar el manual de integración y financiamiento del comité, conforme a las bases que expida la Contraloría;
-
-III.- Dictaminar sobre la procedencia de celebrar licitaciones públicas así como los casos en las que no se celebren, por encontrarse en algunos de los supuestos de excepción previstos por el título IV;
-
-IV.-Analizar el informe de la conclusión de los casos dictaminados conforme a la fracción III del presente artículo, así como los resultados generados de las adquisiciones, arrendamientos y servicios, y además, disponer las medidas necesarias; y
-
-V.- Coadyuvar al cumplimiento de esta Ley y las demás disposiciones aplicables a la materia.
-
-El comité será un órgano de carácter técnico interinstitucional, de naturaleza técnica, consultiva y de opinión.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2007)</small>
-
-###### ARTÍCULO 52.
-
-La Contraloría realizará y mantendrá actualizado el padrón de proveedores de las Dependencias y Entidades de la Administración Pública Estatal y Municipal.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2007)</small>
-
-###### ARTÍCULO 53.
-
-Los interesados a formar parte del Padrón de Proveedores, deberán cumplir cuando menos, los siguientes requisitos:
-
-I.- Presentar solicitud ante la Contraloría en el formato previamente establecido y aprobado por ésta;
-
-II.- Cuando dicho trámite se lleve a cabo por persona física deberá acompañarse a éste, copia certificada de su cédula de identificación fiscal así como el documento donde acredite su actividad preponderante;
-
-III.- Tratándose de personas morales, su representante legal o persona que lo represente deberá anexar a su solicitud copia debidamente notariada, además de su cédula de identificación fiscal, del acta constitutiva y sus respectivas reformas, en el caso de organismos descentralizados la ley o Decreto que los creó, y por último, con respecto a fideicomisos, el contrato correspondientes;
-
-IV.- Además mediante la exhibición del documento original, acreditar que es comerciante o productor, legalmente establecido, el que previo cotejo con la copia respectiva, se reintegrará al solicitante;
-
-V.- Demostrar su solvencia económica y capacidad para la producción o suministro de mercancías, materias primas y demás bienes muebles, y en su caso, para el arrendamiento de éstos o la prestación de servicios; y
-
-VI.- Pagar previamente los derechos establecidos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE AGOSTO DE 2007)</small>
-
-###### ARTÍCULO 54.
-
-Los proveedores a que se refiere el artículo anterior que incumplan con cualquier requisito, no serán registrados en el padrón correspondiente, así mismo que no den cumplimiento a los contratos establecidos con Dependencias, Entidades, Ayuntamientos o cualquier otro organismo al que se refiere esta ley, serán dados de baja, cuando las causas sean imputables a su persona, los cuales estarán imposibilitados a formar parte de éste hasta transcurrido el término de 2 años, contados a partir del acto realizado.
-
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2007)</small>
-
-ARTÍCULO 54 BIS.- Los proveedores registrados y vigentes podrán ser publicados en la página de Internet del Gobierno del Estado para que las dependencias y entidades de la administración pública estatal y municipal puedan tener fácil acceso a la información de quién está registrado como proveedor, así como por este medio publicitar a los proveedores.
-
-###### ARTÍCULO 55.
-
-En cada una de las Dependencias, Entidades o Ayuntamientos a que se refiere esta Ley funcionará un almacén, mediante el cual se llevará un control de las mercancías, materias primas y bienes que se adquieran en acciones de operación conforme a esta normatividad.
-
-###### ARTÍCULO 56.
-
-El control de almacén, comprenderá como mínimo los siguientes aspectos:
-
-I.- Recepción;
-
-II.- Registro e inventario;
-
-III.- Guarda y conservación;
-
-IV.- Despacho;
-
-V.- Servicios complementarios; y
-
-VI.- Baja o destino.
-
-###### ARTÍCULO 57.
-
-La Secretaría, Las Dependencias, las Entidades y Ayuntamientos en los supuestos a que se refiere el presente capítulo bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de adquisición, arrendamientos y de servicios, a través de los procedimientos de invitación restringida o adjudicación directa, respetando los ayuntamientos sus lineamientos correspondientes.
-
-La opinión que ejerzan deberá fundarse según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, emitiendo un dictamen en el que deberán acreditar de entre los criterios mencionados, aquellos en que se funda el ejercicio de la opinión y contendrá además:
-
-I.- El valor del Contrato;
-
-II.- Una descripción general de los bienes o servicios correspondientes;
-
-III.- La nacionalidad del proveedor; y
-
-IV.- Tratándose de adquisiciones y arrendamientos, el origen de los bienes.
-
-En estos casos, el Titular de la Dependencia, Entidad o Ayuntamiento, a más tardar el último día hábil de cada mes, enviará un informe a la Contraloría, y en su caso, al Órgano de Gobierno que corresponda, que se referirá a las operaciones autorizadas en el mes calendario inmediato, acompañando copia del dictamen aludido en el segundo párrafo de este artículo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
-
-###### ARTÍCULO 58.
-
-Las Dependencias, Entidades o Ayuntamientos, bajo su responsabilidad, podrán contratar adquisiciones, arrendamientos y servicios, así como tratándose de contratos de PIPS a través de un procedimiento de invitación restringida o de adjudicación directa, cuando:
-
-I.- El Contrato solo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
-
-II.- Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna Zona del Estado, o Municipio como consecuencia de desastres producidos por fenómenos naturales, por casos fortuitos de fuerza mayor, o existan circunstancias que puedan provocar pérdidas o costos adicionales;
-
-III.- Se realicen dos licitaciones públicas sin que en ambas se hubiesen recibido proposiciones solventes;
-
-IV.- Existan razones justificadas para la adquisición y arrendamiento de bienes de marca determinada;
-
-V.- Se trate de adquisiciones de bienes perecederos de granos y productos alimenticios básicos o semiprocesados y bienes usados. Tratándose de estos últimos, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practicarán las instituciones de banca y crédito u otros terceros legitimados para ello conforme a las disposiciones aplicables;
-
-VI.- Se trate de servicios de consultoría cuya difusión pudiera afectar al interés público o comprometer información de naturaleza confidencial para el Estado o Municipios;
-
-VII.- Se trate de adquisiciones de bienes que realicen las Dependencias, Entidades o Ayuntamientos para su comercialización o para someterlos a procesos productivos en cumplimiento de un objeto o bienes propios;
-
-VIII.- Se trate de servicios de mantenimiento, conservación, restauración y reparación de bienes en los que sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo o determinar las especificaciones correspondientes;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2008)</small>
-
-IX.- Se trate de adquisiciones provenientes de personas físicas o morales que en razón de encontrarse en estado de liquidación o disolución, o bien, bajo intervención judicial, ofrezcan bienes en condiciones excepcionalmente favorables;
-
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2008)</small>
-
-X.- Se trate de servicios profesionales prestados por personas físicas, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2008)</small>
-
-XI.- Se trata de adquisiciones, arrendamientos y servicios que garanticen el correcto desarrollo de las funciones de Seguridad Pública y la reinserción social, en los términos previstos en las leyes.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2008)</small>
-
-###### ARTÍCULO 59.
-
-En materia de adquisiciones, arrendamientos y servicios, así como de PIPS, se invitará a personas cuyas actividades comerciales estén relacionadas con los bienes o servicios, objeto del contrato a celebrarse.
-
-###### ARTÍCULO 60.
-
-Los procedimientos de invitación cuando menos a tres proveedores se sujetarán a lo siguiente:
-
-I.- La apertura de los sobres deberá ser con la presencia de los licitantes, participantes y de un representante del Órgano de Control.
-
-II.- Para llevar a cabo la licitación, se deberá contar con un mínimo de tres propuestas.
-
-###### ARTÍCULO 61.
-
-Quienes infrinjan las disposiciones contenidas en esta Ley, serán sancionadas tratándose de proveedores, con multa de 10 a 1000 veces el valor diario de la Unidad de Medida y Actualización. Los criterios de aplicación de tales sanciones se establecerán en el reglamento.
-
-En los casos en que el adquiriente no aplique las sanciones previstas en este artículo en un término de 30 días naturales contados a partir de que tenga conocimiento de la infracción, la Contraloría podrá aplicar la sanción que corresponda al proveedor, sin perjuicio de la responsabilidad en que incurran los servidores públicos, conforme al ordenamiento aplicable en la materia.
-
-> <small>(REFORMADA [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2008)</small>
-
-Tratándose de contratos PIPS, las infracciones y sanciones, serán las que comprende la presente ley en lo que resulte aplicable, sin perjuicio de lo establecido en otras disposiciones legales, así como las que se establezcan en las Bases de Licitación.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+En ningún caso se admitirán las pruebas ofrecidas o aportadas fuera de los plazos legales. La única excepción a esta regla será la de pruebas supervenientes, entendiéndose por tales los medios de convicción surgidos después del plazo legal en que deban aportarse los elementos probatorios, y aquellos existentes desde entonces, pero que la parte promovente, el compareciente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlos o por existir obstáculos que no estaban a su alcance superar, siempre y cuando se aporten antes del cierre de la instrucción.
 
 ### CAPÍTULO VIII. De las Notificaciones
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE FEBRERO DE 2020)</small>
 
-###### ARTÍCULO 62.
+###### Artículo 62.
 
-Sin perjuicio de lo establecido en el artículo anterior, los proveedores que incurran en infracción a esta Ley, según la gravedad del acto u omisión de que fueran responsables, podrán ser sancionados con el pago de la indemnización por daños y perjuicios a favor de las Dependencias, Entidades o Ayuntamientos, que consistirá en resarcir el daño causado y la cantidad pagada en exceso o anticipada. Asimismo, los Proveedores o Inversionistas Proveedores que incumplan con lo establecido en la presente ley, la Contraloría podrá cancelar la vigencia del certificado que los acredite como Proveedores y suspenderlos por un tiempo no menor de tres meses ni mayor de cinco años, por lo que éstos no podrán realizar su trámite de inscripción o refrendo, hasta que termine el plazo de suspensión que se estableció en la resolución correspondiente, por lo que las dependencias y entidades no podrán realizar ningún tipo de contratación con ellos.
+Las notificaciones se podrán hacer personalmente, por estrados y estrados electrónicos, por lista o cédula publicada en los estrados, por oficio, por correo certificado, por telegrama, por vía fax, por correo electrónico mediante el sistema de notificaciones electrónicas o mediante publicación en la Gaceta Oficial de la Ciudad de México, según se requiera para la eficacia del acto, resolución o sentencia a notificar, salvo disposiciones expresas en esta ley.
 
-###### ARTÍCULO 63.
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2020)</small>
 
-En los casos de pagos en exceso que haya recibido el proveedor, éste deberá reintegrarlas, más los intereses correspondientes, conforme a una tasa que será igual a la establecida en las leyes fiscales para el pago de los créditos fiscales. Tratándose de menoscabo patrimonial o cantidades anticipadas, se reintegrarán considerando el índice nacional de precios al consumidor, que se computará por días calendario desde la fecha en que se haya causado el daño o se haya hecho el pago respectivo, hasta la fecha en que se pongan efectivamente las cantidades a disposición de la Secretaría, la Dependencia, Entidades o Ayuntamientos, según correspondan.
+Las partes que actúen en los medios de impugnación mencionados por esta ley deberán señalar domicilio para oír y recibir notificaciones en la Ciudad de México o, en su caso, una dirección de correo electrónico válida en caso de solicitar la notificación electrónica, cumpliendo con el procedimiento que al efecto establezca el Pleno; de no hacerlo, las notificaciones se realizarán por estrados.
 
-Tratándose del retraso en el pago de lo contratado por más de quince días naturales por causas imputables a los servidores públicos, se pagará al proveedor con la actualización a que se refiere el párrafo anterior.
+Los estrados son los lugares públicos destinados en las oficinas de los órganos del Instituto e instalaciones del Tribunal, para que sean colocadas para su notificación, copias del escrito de demanda y de los autos y resoluciones que le recaigan.
 
-> <small>(F. DE E., P.O. 29 DE AGOSTO DE 1999)</small>
+Los estrados electrónicos serán alojados en los respectivos sitios de Internet del Instituto y del Tribunal.
 
-En este caso se impondrá una multa igual al servidor público que haya incurrido en la omisión, misma que se aplicará para cubrir la cantidad actualizada, sin perjuicio de otras sanciones que pudieran derivarse conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+Las notificaciones en materia de transparencia y acceso a la información se realizarán mediante correo electrónico en acuerdo por separado; de no ser posible, se practicarán de manera personal.
 
-> <small>(REFORMADA [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 6 DE FEBRERO DE 2020)</small>
 
-En los contratos de PIPS se deberá establecer el procedimiento de reintegro en el caso de que se realice un pago en exceso.
+Las resoluciones y acuerdos que emita el Tribunal con motivo del trámite, sustanciación y resolución de los medios de impugnación podrán notificarse mediante un sistema de notificaciones electrónicas, conforme al procedimiento que emita el Pleno, el cual deberá cumplir, al menos, los criterios siguientes:
 
-###### ARTÍCULO 64.
+I. Se practicará cuando las partes manifiesten expresamente su voluntad de que sean notificadas por esta vía desde su primer escrito de comparecencia a juicio.
 
-La Contraloría, las dependencias, las entidades y los Ayuntamientos, impondrán las sanciones o multas conforme a los siguientes criterios:
+II. El Tribunal proveerá al solicitante de una firma electrónica certificada y una cuenta institucional en la que se realicen las notificaciones, que deberán garantizar la identidad de su titular y las medidas de seguridad informática en la transmisión e integridad de las comunicaciones procesales.
 
-I.- Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de eliminar prácticas tendientes a infringir, en cualquier forma, las disposiciones de esta Ley o las que se dicten con base en ella;
+III. El sistema correspondiente generará automáticamente una constancia de envío y acuse de recibo de la comunicación procesal practicada.
 
-II.- Cuando sean varios los responsables, cada uno será sancionado con el total de la sanción o multa que se imponga;
+IV. Las notificaciones surtirán efectos a partir de que se tenga la constancia de envío y acuse de recibo.
 
-III.- Tratándose de reincidencia, se impondrá otra sanción o multa mayor dentro de los límites señalados en el artículo 61; y
+V. Establecerá las reglas para la expedición, vigencia, renovación y revocación del certificado de la firma electrónica, así como para la creación y baja de la cuenta institucional.
 
-IV.- En caso de incumplimiento de la obligación derivada de la infracción, se impondrán multas por cada día que transcurra.
+VI. El uso de la firma electrónica certificada, de la cuenta institucional, así como de la información y contenido de todo documento digital recibido mediante notificación electrónica, será responsabilidad del usuario.
 
-###### ARTÍCULO 65.
+###### Artículo 63.
 
-No se impondrán sanciones o multas cuando se haya incurrido en la infracción por causa de fuerza mayor o de caso fortuito, o cuando se observe en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie requerimiento, visita, excitativa a cumplir u otra gestión efectuada por la misma.
+El Tribunal podrá notificar sus resoluciones a cualquier hora, dentro del proceso electoral o de los procesos de participación ciudadana.
 
-###### ARTÍCULO 66.
+###### Artículo 64.
 
-En el procedimiento para la aplicación de las sanciones o multas a que se refiere este capítulo, se observarán las siguientes reglas:
+Las notificaciones personales, por oficio, por estrados y por correo electrónico se harán a las partes en el medio de impugnación, a más tardar dentro de los tres días siguientes al dictado del acto o resolución; las publicaciones en los diarios o en la Gaceta Oficial deberán solicitarse dentro del mismo plazo.
 
-I.- Se comunicarán por escrito al presunto infractor los hechos constitutivos de la infracción, para que dentro del término que para tal efecto se señale y que no podrá ser menor de diez días hábiles exponga lo que a su derecho convenga y aporte lo que estime pertinente;
+Las sentencias que recaigan a los juicios relativos a los resultados de la elección de Diputaciones serán notificadas al Congreso de la Ciudad y del Concejo a la Alcaldía correspondiente.
 
-II.- Transcurrido el término a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que se hubieren hecho valer;
+Las sentencias que recaigan a los juicios relativos a los resultados de la elección de integrantes de las Alcaldías serán notificadas adicionalmente a la Jefatura de Gobierno de la Ciudad de México.
 
-III.- La resolución será debidamente fundada, motivada y se comunicará por escrito al afectado; y
+Se realizarán personalmente las notificaciones de los autos, acuerdos o sentencias que:
 
-IV.- Podrá, el órgano resolutor, decretar la suspensión temporal del padrón de proveedores, mientras dure el procedimiento; una vez decretada la suspensión provisional en el padrón de proveedores el infractor no podrá participar en nuevos procedimientos de licitación.
+I. Formulen un requerimiento a las partes; distinto a la materia de transparencia y acceso a la información;
 
-Las sanciones económicas que no sean cubiertas voluntariamente, se harán efectivas por la Secretaría de Finanzas a través del procedimiento administrativo de ejecución.
+II. Desechen o tengan por no presentado el medio de impugnación;
 
-En lo conducente, este artículo será aplicable en las rescisiones administrativas que lleven a cabo las Dependencias, Entidades o Ayuntamientos por causas imputables a los proveedores.
+III. Tengan por no presentado el escrito inicial de un tercero interesado o coadyuvante;
 
-###### ARTÍCULO 67.
+IV. Sean definitivas y que recaigan a los medios de impugnación previstos en este ordenamiento;
 
-Los Servidores Públicos de las Dependencias, Entidades o Ayuntamientos que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley o las disposiciones que de ella deriven, deberán comunicarlo a las autoridades que resulten competentes.
+V. Señalen fecha para la práctica de una diligencia extraordinaria de inspección judicial, compulsa, cotejo o cualquier otra;
 
-La omisión a lo dispuesto en el párrafo anterior será sancionada administrativamente conforme a la Ley aplicable.
+VI. Determinen el sobreseimiento;
 
-###### ARTÍCULO 68.
+VII. Ordenen la reanudación del procedimiento;
 
-Las responsabilidades a que se refiere la presente Ley son independientes de las de orden civil o penal, que puedan derivar de la comisión de los mismos hechos.
+VIII. Califiquen como procedente la excusa de alguno de los magistrados; y
 
-###### ARTÍCULO 69.
+IX. En los demás casos en que así lo considere procedente el Pleno, la Presidencia del Tribunal o la Magistratura correspondiente.
 
-Las personas interesadas podrán inconformarse por escrito ante la Contraloría, por los actos derivados del procedimiento de licitación que contravengan las disposiciones que rigen las materias objeto de esta Ley, dentro de los diez días hábiles siguientes a aquél en que éste ocurra o el inconforme tenga conocimiento del acto impugnado.
+###### Artículo 65.
 
-Lo anterior sin perjuicio de que las personas interesadas, previamente manifiesten al órgano de control interno de la convocante, tratándose del procedimiento de licitaciones, las irregularidades que a su juicio se hayan cometido en el procedimiento de adjudicación del contrato a fin de que las mismas se corrijan, debiéndose acompañar la manifestación al escrito de inconformidad, además de las probanzas en las que sustente la misma para que sea valorada durante la investigación.
+Las notificaciones personales podrán hacerse en las oficinas del Tribunal, si la parte interesada está presente, o en el domicilio que haya señalado para tal efecto, en cuyo caso, se observarán las siguientes reglas:
 
-###### ARTÍCULO 70.
+I. La persona actuaria o notificadora autorizada se cerciorará de que es el domicilio señalado por el interesado;
 
-Transcurridos los plazos establecidos en el artículo anterior, precluye para los interesados el derecho de inconformarse, sin perjuicio de que la Contraloría pueda actuar de oficio en cualquier tiempo en términos de la presente Ley.
+II. Cerciorado de lo anterior, requerirá la presencia de la parte promovente o de la persona o personas autorizadas para oír o recibir notificaciones. Si alguna de las personas mencionadas está presente, entenderá con ella la diligencia, previa identificación;
 
-###### ARTÍCULO 71.
+III. En caso de que no se encuentre la parte interesada o la persona autorizada dejará citatorio para que el interesado o persona autorizada espere al notificador dentro de las siguientes ocho horas, en el caso de estar en curso un proceso electoral, electivo o democrático. Fuera de éstos, la notificación podrá hacerse al siguiente día hábil.
 
-El inconforme en el escrito a que se refiere el primer párrafo del artículo 69, deberá bajo protesta de decir verdad, manifestar los hechos que le consten relativos al acto o actos impugnados y acompañar en original o copia debidamente certificada la documentación en que sustente su petición.
+IV. En el citatorio se incluirá el apercibimiento de que, en caso de no esperar al notificador en la hora señalada, la notificación que se le deba hacer personal se hará por fijación de la cédula respectiva en el exterior del local del domicilio señalado, sin perjuicio de publicarla en los estrados del Instituto Electoral o del Tribunal; y
 
-###### ARTÍCULO 72.
+V. En los casos en que no haya en el domicilio persona alguna con quien pueda entenderse la diligencia y una vez cumplido lo establecido en la fracción I, se fijará un único citatorio para dentro de las siguientes ocho horas, en el caso de estar en curso un proceso electoral, electivo o democrático. Fuera de éstos, la notificación podrá hacerse al siguiente día hábil, con algún vecino o bien se fijará en la puerta principal del local.
 
-Dentro de las 72 Hrs., al acto de presentación del escrito de inconformidad recaerá un auto de la autoridad admitiendo, desechando o solicitando aclaración de el mismo, el cual será notificado, al promovente que deberá en caso de aclaración realizarla por escrito dentro de las 24 Hrs., siguientes a la notificación.
+###### Artículo 66.
 
-###### ARTÍCULO 73.
+Las cédulas de notificación personal deberán contener:
 
-La Contraloría, de oficio o en atención a las inconformidades a que se refiere el artículo 69, realizará las investigaciones correspondientes dentro de un plazo que no excederá de 45 días naturales, contados a partir de la fecha en que se inicien, y resolverá lo conducente.
+I. La descripción del acto o resolución que se notifica;
 
-Las Dependencias, Entidades o Ayuntamientos proporcionarán a la Contraloría la información requerida para sus investigaciones correspondientes dentro de un plazo que no excederá de 5 días naturales contados a partir de la fecha de recepción de la respectiva solicitud para que resuelva lo conducente.
+II. La autoridad que lo dictó;
 
-Durante las investigaciones de los hechos a que se refiere el Párrafo anterior, la Contraloría podrá suspender el proceso de adjudicación cuando:
+III. Lugar, hora y fecha en que se hace y el nombre de la persona con quien se atiende la diligencia. En caso de que ésta se niegue a recibir la notificación, se hará constar esta circunstancia en la cédula, o en su defecto la circunstancia de haber dejado citatorio que no fue atendido, y se fijará en el exterior del domicilio señalado para oír y recibir notificaciones;
 
-I.- Se advierta que existen o pudieran existir actos contrarios a las disposiciones de esta Ley o de las disposiciones que de ella se deriven; y
+IV. Siempre que la diligencia se entienda con alguna persona, se entregará copia certificada del documento en que conste el acto o resolución que se notifica. En el caso de que proceda fijar la cédula de notificación en el exterior del local, se dejará copia simple del acto o resolución que se notifica y se asentará la noticia de que la copia certificada del acto o resolución notificada queda a disposición del interesado en el Tribunal;
 
-II.- Que con la suspensión, no se cause perjuicio al interés público y no se contravengan disposiciones de orden público, o bien, si de continuarse el procedimiento de contratación, pudiera producirse daños o perjuicios a la Dependencia, Entidad o Ayuntamiento de que se trate.
+V. Acreditación de la persona notificadora;
 
-###### ARTÍCULO 74.
+VI. La fecha del acuerdo, acto o resolución que se notifica; y
 
-Serán causas de desechamiento:
+VII. Nombre de la persona a quien se realiza.
 
-I.- La falta de personalidad del actor;
+###### Artículo 67.
 
-II.- Falta de interés legal de la parte promovente;
+Operará la notificación automática cuando el representante de la parte agraviada haya estado presente en la sesión del órgano del Instituto Electoral o de la autoridad que emitió el acto o resolución que estime le causa perjuicio; en este caso, el partido político o candidato sin partido se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
 
-III.- La falta de protesta en el escrito de inconformidad;
+Para que opere dicha notificación y pueda prevalecer sobre cualquier otra que hubiere ordenado la autoridad electoral, deberá estar acreditado que el partido político o la candidatura sin partido tuvo conocimiento pleno de los motivos y fundamentos que sustentan la resolución o acto reclamado, por haber recibido copia íntegra del mismo, ya sea física o electrónica cuando menos cuarenta y ocho horas antes de la sesión correspondiente y durante la discusión no se haya modificado de manera sustantiva.
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2008)</small>
+Las notificaciones personales y por oficio surtirán efectos el día en que se practiquen o se tengan hechas por disposición legal. Las notificaciones por estrados, Diarios y Gaceta Oficial de la Ciudad de México surtirán sus efectos al día siguiente de su publicación o fijación.
 
-IV.- No acompañar al escrito de inconformidad la documentación en original o copia certificada que sustente el acto o actos impugnados;
+###### Artículo 68.
 
-V.- En caso de aclaración de la inconformidad no presente la misma en los términos que establece esta Ley.
+No requerirán de notificación personal actos o resoluciones que se hagan públicos a través de la Gaceta Oficial de la Ciudad de México o los diarios o periódicos de circulación en la Ciudad de México ordenadas por la autoridad, o mediante la fijación de cédulas en los estrados de los órganos del Instituto Electoral y del Tribunal o en lugares públicos, en los términos de este ordenamiento.
+
+###### Artículo 69.
+
+Salvo las resoluciones y acuerdos de mero trámite, las autoridades y partidos políticos, siempre serán notificadas mediante oficio, en el que deberá exigirse firma o sello de recibido. En caso de que el destinatario o la persona que reciba el oficio se niegue a firmar o a sellar, quién notifique asentará constancia de dicha circunstancia en la copia del oficio y procederá a fijar la notificación en la puerta del inmueble y se tendrá por legalmente realizada.
+
+Asimismo, en caso de autorizarlo, las autoridades y partidos políticos podrán ser notificadas mediante correo electrónico.
+
+Para tal efecto, los actuarios deberán elaborar la razón o constancia respectiva.
+
+###### Artículo 70.
+
+Para la notificación por telegrama, éste se elaborará por duplicado, a fin de que la oficina que lo transmita devuelva un ejemplar sellado, el cual se agregará al expediente.
+
+###### Artículo 71.
+
+La notificación por correo se hará en pieza certificada, agregándose al expediente el acuse de recibo postal.
+
+Las notificaciones por correo electrónico surtirán sus efectos a partir de que se tenga constancia de su recepción o de su acuse de recibido. De la transmisión y recepción se levantará la razón correspondiente.
+
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2020)</small>
+
+###### Artículo 72.
+
+Cuando la parte actora, coadyuvantes o los terceros interesados así lo autoricen expresamente, o en forma extraordinaria, a juicio del órgano jurisdiccional resulte conveniente para el conocimiento de una actuación, las notificaciones se podrán hacer a través de fax o mediante el sistema de notificaciones electrónicas.
+
+Surtirán sus efectos a partir de que se tenga constancia de su recepción o de su acuse de recibido. De la transmisión y recepción levantará la razón correspondiente el actuario del Tribunal, salvo en el caso de las notificaciones electrónicas, en cuyo caso se estará a lo previsto en el artículo 62, párrafo sexto de esta Ley.
+
+El Instituto y el Tribunal aprobarán los procedimientos necesarios a efecto de garantizar la autenticidad y efectividad de las notificaciones electrónicas entre dichas autoridades, debiendo coordinarse de manera institucional a fin de establecer y utilizar un sistema informático de las mismas características.
+
+El Consejo General del Instituto implementará el sistema de notificaciones electrónicas a las partes en la instrucción de los procedimientos sancionadores ordinario y especial, así como en la resolución del Procedimiento Ordinario Sancionador Electoral, acorde con las bases previstas en el párrafo sexto del artículo 62 de esta Ley, en lo que resulten aplicables.
+
+Asimismo, ambas autoridades serán responsables de difundir y promover, por los medios a su alcance, el uso de la notificación electrónica y los beneficios que representa utilizarla.
+
+###### Artículo 73.
+
+Las notificaciones por estrados se sujetarán a lo siguiente:
+
+I. Se fijará copia autorizada del auto, acuerdo o sentencia, así como de la cédula de notificación correspondiente, asentando la razón de la diligencia en el expediente respectivo; y
+
+II. Los proveídos de referencia permanecerán en los estrados durante un plazo mínimo de tres días, asentándose la razón de su retiro.
+
+###### Artículo 74.
+
+Las notificaciones que se ordenen en los procedimientos especiales laborales se realizarán de conformidad a las reglas particulares establecidas en la presente Ley.
 
 ### CAPÍTULO IX. De la Sustanciación
 
 #### SECCIÓN PRIMERA. Trámite ante la Autoridad Responsable
 
-###### ARTÍCULO 75.
+###### Artículo 75.
 
-Serán causas de improcedencia:
+La presentación, sustanciación y resolución de los juicios se rigen por las disposiciones previstas en este Capítulo, salvo las reglas particulares que en esta Ley se prevean.
 
-I.- Cuando de la investigación a que se refiere el artículo 73, se derive la inexistencia de actos que contravengan las disposiciones de la presente Ley;
+###### Artículo 76.
 
-II.- Que con la realización del acto combatido mediante la inconformidad, no se cause perjuicio al interés público o contravengan disposiciones legales, que no se ocasione daño alguno o perjuicio a la convocante y al patrimonio de la Dependencia, Entidad o Ayuntamiento;
+La autoridad u órgano partidario que reciba un medio de impugnación, deberá hacer constar la hora y fecha de su recepción y detallar los anexos que se acompañan.
 
-III.- Que el acto o actos contra los que se inconformen, no guarden relación con la materia de este ordenamiento;
+###### Artículo 77.
 
-IV.- Será improcedente la inconformidad cuando previa a ésta se haya interpuesto otro medio de defensa en contra de él o los actos que se combatan mediante este recurso.
+El órgano del Instituto Electoral, autoridad u órgano partidario que reciba un medio de impugnación, en contra del acto emitido o resolución dictada por él, bajo su más estricta responsabilidad y de inmediato deberá:
 
-###### ARTÍCULO 76.
+I. Hacerlo del conocimiento público el mismo día de su presentación mediante cédula que durante en plazo de setenta y dos horas, se fije en los estrados o por cualquier otro medio que garantice fehacientemente la publicidad del escrito. En la cédula se hará constar con precisión la fecha y hora en que se fija, así como la fecha y hora en que concluya el plazo;
 
-La resolución que emita la Contraloría, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido tendrá por consecuencia:
+II. Por ningún motivo, la autoridad u órgano partidario responsable podrá abstenerse o negarse de recibir un escrito de medio de impugnación ni calificar sobre su admisión o desechamiento;
 
-I.- La nulidad del procedimiento a partir del Acto o Actos Irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la Ley;
+III. Una vez cumplido el plazo señalado en la fracción I del presente artículo, la autoridad u órgano partidario que reciba un escrito de demanda, deberá hacer llegar al Tribunal, dentro de las cuarenta y ocho horas siguientes:
 
-II.- La nulidad total del procedimiento;
+a) El escrito original mediante el cual se presenta el medio de impugnación, las pruebas y la demás documentación que se haya acompañado al mismo;
 
-III.- La declaración de improcedencia de la inconformidad; o
+b) La copia certificada del documento en que conste el acto o resolución impugnada y la demás documentación relacionada y pertinente que obre en su poder, o si es el caso el expediente relativo al cómputo de la elección que se impugne;
 
-IV.- Confirmar el acto impugnado.
+c) En su caso los escritos de los terceros interesados y coadyuvantes, las pruebas y la demás documentación que se hayan acompañado a los mismos;
 
-###### ARTÍCULO 77.
+d) Un informe circunstanciado sobre el acto o resolución impugnado; y
 
-(DEROGADO, P.O. 14 DE DICIEMBRE DE 2008)
+e) Cualquier otro documento que se estime necesario para la resolución de asunto.
 
-###### ARTÍCULO 78.
+###### Artículo 78.
 
-(DEROGADO, P.O. 14 DE DICIEMBRE DE 2008)
+El informe circunstanciado que debe rendir la autoridad u órgano partidario responsable, por lo menos deberá contener:
 
-###### ARTÍCULO 79.
+I. En su caso, la mención de si la parte promovente o compareciente, tienen reconocida su personería;
 
-(DEROGADO, P.O. 14 DE DICIEMBRE DE 2008)
+II. Los motivos, razones y fundamentos jurídicos que consideren pertinentes para sostener la legalidad del acto o resolución impugnada; y
+
+III. El nombre y firma de la funcionaria o funcionario que lo rinde.
+
+###### Artículo 79.
+
+Cuando algún órgano del Instituto Electoral, autoridad u órgano partidario reciba un medio de impugnación por el cual se pretenda combatir un acto o resolución que no le es propio, lo señalará al actor y lo remitirá de inmediato a la autoridad responsable para los efectos de la tramitación y remisión del medio de impugnación. La actuación negligente de la autoridad u órgano partidista que recibió la demanda no podrá irrogarle perjuicio a la parte actora.
+
+Cuando alguna persona pretenda interponer un medio de impugnación ante un órgano del Instituto, Tribunal, autoridad política o comunitaria u órgano partidario por el cual se pretenda combatir un acto o resolución que no le es propio, en ese momento se le hará saber y se le orientará para que se dirija a la autoridad responsable.
+
+De lo anterior se levantará la razón respectiva y se asentará en el libro de gobierno que se abra para tal efecto.
 
 #### SECCIÓN SEGUNDA. De la Sustanciación ante el Tribunal
 
-###### ARTÍCULO 80.
+###### Artículo 80.
 
-(DEROGADO, P.O. 14 DE DICIEMBRE DE 2008)
+Recibida la documentación que debe remitir la autoridad responsable en los términos de esta Ley, se estará a lo siguiente:
+
+I. La Presidencia del Tribunal ordenará la integración y registro del expediente y lo turnará a la brevedad a la Magistratura Instructora que corresponda de acuerdo con las reglas del turno, para su sustanciación y la formulación del proyecto de sentencia que corresponda. En la determinación del turno, se estará al orden de entrada de los expedientes y al orden alfabético del primer apellido de los integrantes del Pleno. El turno podrá modificarse en razón del equilibrio en las cargas de trabajo o cuando la naturaleza de los asuntos así lo requiera, previo acuerdo de la o del presidente;
+
+II. La Magistratura Instructora radicará el expediente en su ponencia, reservándose la admisión y, en su caso, realizará las prevenciones que procedan, requerirá los documentos e informes que correspondan, y ordenará las diligencias que estime necesarias para resolver;
+
+III. La Magistratura Instructora revisará de oficio si el medio de impugnación reúne los requisitos generales y especiales de procedencia establecidos en este ordenamiento;
+
+IV. En el supuesto de que el escrito del coadyuvante no satisfaga el requisito relativo a acreditar la calidad de una candidatura o su interés en la causa, en términos de lo establecido en esta Ley y no se pueda deducir éste de los elementos que obren en el expediente, se le requerirá, con el apercibimiento de que el escrito no se tomará en cuenta al momento de resolver, si no cumple con tal requisito en un plazo no mayor a cuarenta y ocho horas, contadas a partir de que se le notifique el auto correspondiente;
+
+V. Si de la revisión que realice la Magistratura encuentra que el medio de impugnación incumple con los requisitos esenciales para sustanciar y resolver el asunto, resulte evidentemente frívolo o encuadre en una de las causales de improcedencia o sobreseimiento, someterá a la consideración del Pleno, la resolución para su desechamiento;
+
+VI. En caso de ser necesario, la Magistratura Instructora podrá ordenar la celebración de una audiencia para el desahogo de las pruebas que a su juicio así lo ameriten;
+
+VII. Si la autoridad u órgano responsable no envía el informe circunstanciado dentro del plazo señalado en la presente Ley, el medio de impugnación se resolverá con los elementos que obren en autos; lo anterior, sin perjuicio de la sanción que deba ser impuesta de conformidad con la presente Ley u otras disposiciones aplicables;
+
+VIII. Una vez sustanciado el expediente, y si el medio de impugnación reúne todos los requisitos establecidos por esta Ley o, en su caso, se desahogaron satisfactoriamente las prevenciones, la Magistratura Instructora dictará el auto de admisión que corresponda; proveerá sobre las pruebas ofrecidas y aportadas, y declarará el cierre de la instrucción, ordenando la elaboración del correspondiente proyecto de resolución para ser sometido al Pleno del Tribunal. Dicho auto será notificado a las partes mediante los estrados del Tribunal;
+
+IX. Si derivado de las deliberaciones del Pleno en las reuniones privadas fuera necesario realizar mayores diligencias en un expediente y ya hubiere sido cerrada la instrucción, la Magistratura Instructora reiniciará las actuaciones notificando por estrados a las partes. Finalizadas las diligencias y estando el asunto en estado de resolución, se propondrá al Pleno el nuevo proyecto, previa declaración de la conclusión de las nuevas actuaciones;
+
+X. De oficio o a petición de cualquiera de las partes, la Magistratura Instructora podrá ordenar la regularización del procedimiento, siempre y cuando no implique revocar sus propios actos; en caso contrario, solo podrá ser ordenada por el Pleno.
 
 ###### Artículo 81.
 
@@ -1482,7 +1786,7 @@ XVII. Admisión en el desahogo de comunicaciones, exhortos, oficios, audiencias 
 
 XVIII. Instauración de una Oficialía de Partes Virtual que facilite la presentación de demandas, escritos iniciales o cualquier tipo de promociones, con sus anexos, en forma electrónica y, al mismo tiempo, se integre el expediente electrónico.
 
-## TÍTULO CUARTO. DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
+## TÍTULO TERCERO. De los Medios de Impugnación en Particular
 
 ### CAPÍTULO I. Del Juicio Electoral
 
@@ -1492,6 +1796,10 @@ El juicio electoral tiene por objeto garantizar la constitucionalidad, convencio
 
 El juicio electoral será aplicable y procederá fuera y durante los procesos electorales, electivos o democráticos ordinarios y extraordinarios, en los términos y formas que establece esta Ley.
 
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+Son actos impugnables a través del Juicio Electoral, en los términos del Código de Instituciones y Procedimientos Electorales y de la presente ley, la elección de las personas juzgadoras.
+
 ###### Artículo 103.
 
 Podrá ser promovido el juicio electoral en los siguientes términos:
@@ -1500,9 +1808,15 @@ I. En contra de actos, resoluciones u omisiones de los órganos distritales, uni
 
 II. Por las asociaciones políticas, coaliciones y candidaturas sin partido, por violaciones a las normas electorales, cuando hagan valer presuntas violaciones a sus derechos;
 
+> <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+II Bis. Por las y los candidatos a personas juzgadoras del Poder Judicial de la Ciudad de México en contra de las determinaciones de las autoridades electorales de la Ciudad de México que violen normas constitucionales o legales, en los términos señalados por esta ley;
+
 III. Por la ciudadanía y las organizaciones ciudadanas en términos de la Ley de Participación Ciudadana, a través de sus representantes acreditados, en contra de actos, resoluciones u omisiones de los órganos desconcentrados, unidades técnicas, del Consejo General del Instituto Electoral por violaciones a las normas que rigen los instrumentos de participación ciudadana, exclusivamente dentro de dichos procesos y siempre y cuando sean competencia del Tribunal;
 
-IV. Por los partidos políticos, coaliciones y candidaturas sin partido, en contra de los cómputos totales y entrega de constancias de mayoría o asignación, según sea el caso, en las elecciones reguladas por el Código;
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+IV. Por los partidos políticos, coaliciones, candidaturas sin partido y candidaturas de personas juzgadoras, en contra de los cómputos totales y entrega de constancias de mayoría o asignación, según sea el caso, en las elecciones reguladas por el Código;
 
 V. Aquellos que cuestionen actos y resoluciones dictadas dentro de un procedimiento administrativo sancionador electoral susceptibles de afectar su interés jurídico, siempre y cuando, los derechos reclamados en dicho juicio no se refieran a aquéllos de naturaleza político-electoral concedidos normativamente a los ciudadanos; y
 
@@ -1584,9 +1898,17 @@ IV. La elección de las Diputaciones por los principios de mayoría relativa o r
 
 V. La elección de las y los Alcaldes;
 
-VI. La elección de Concejales por los principios de mayoría relativa o representación proporcional; y
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-VII. Los resultados del procedimiento de participación ciudadana.
+VI. La elección de Concejales por los principios de mayoría relativa o representación proporcional;
+
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VII. Los resultados del procedimiento de participación ciudadana; y
+
+> <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VIII. Los resultados de las elecciones de personas juzgadoras integrantes del Poder Judicial de la Ciudad de México.
 
 ###### Artículo 113.
 
@@ -1643,6 +1965,24 @@ Las irregularidades mencionadas en las fracciones VI, VII, VIII, IX, X y XI debe
 Se calificarán como dolosas, aquellas conductas realizadas con pleno conocimiento de su carácter ilícito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral.
 
 Se presumirá que las violaciones son determinantes, cuando la diferencia entre la votación obtenida entre el primero y segundo lugares sea menor al cinco por ciento.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 114 Bis.
+
+Son causales de nulidad de la elección de personas juzgadoras del Poder Judicial de la Ciudad de México, adicionalmente a las aplicables previstas en el Artículo 27, letra D de la Constitución Política de la Ciudad de México:
+
+a) Cuando alguna o algunas de las causales de nulidad previstas en el artículo 114 de esta Ley, se acrediten en por lo menos el 25% de las casillas instaladas en el ámbito correspondiente a cada elección;
+
+b) Cuando en el ámbito correspondiente a la elección de que se trate, no se instale el 25% o más de las casillas y consecuentemente la votación no hubiere sido recibida;
+
+c) Cuando la candidatura ganadora de la elección resulte inelegible;
+
+d) Cuando se acredite el uso de financiamiento público o privado, con excepción del legalmente permitido por el Código de Instituciones y Procedimientos Electorales de la Ciudad de México, o
+
+e) Cuando se acredite que partidos políticos o personas servidoras públicas beneficiaron o perjudicaron indebidamente la campaña de una persona candidata.
+
+Las causales de nulidad señaladas en el párrafo anterior deberán estar plenamente acreditadas y se debe demostrar que las mismas fueron determinantes para el resultado de la elección.
 
 ###### Artículo 115.
 
@@ -1764,13 +2104,17 @@ II. En controversias que se susciten entre diversos órganos partidistas en la C
 
 III. En contra de sanciones impuestas por algún órgano del Instituto Electoral o de un partido político, siempre y cuando implique violación a un derecho político-electoral;
 
-> <small>(REFORMADA, G.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-IV. En las controversias que deriven de los procesos de participación ciudadana expresamente previstos en la ley de la materia como competencia del Tribunal, siempre y cuando se hagan valer presuntas violaciones a sus derechos político-electorales; y
+IV. En las controversias que deriven de los procesos de participación ciudadana expresamente previstos en la ley de la materia como competencia del Tribunal, siempre y cuando se hagan valer presuntas violaciones a sus derechos político-electorales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-V. En contra de cualquier acto u omisión que transgreda los derechos humanos de las personas en el ámbito político-electoral, de forma individual o colectiva, incluyendo los que actualicen violencia política contra las mujeres en razón de género, en los términos establecidos en la Constitución, la Ley General, la Ley de Acceso, esta Ley y el Código.
+V. En contra de cualquier acto u omisión que transgreda los derechos humanos de las personas en el ámbito político-electoral, de forma individual o colectiva, incluyendo los que actualicen violencia política contra las mujeres en razón de género, en los términos establecidos en la Constitución, la Ley General, la Ley de Acceso, esta Ley y el Código; y
+
+> <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VI. Para impugnar los actos y resoluciones por quien, teniendo interés jurídico, considere que indebidamente se afecta su derecho para integrar la titularidad de los diversos cargos del Poder Judicial de la Ciudad de México electos por votación libre, directa y secreta, en los que se afecten los derechos político-electorales de la ciudadanía en términos de la Constitución Federal y de la Constitución Local.
 
 Para el efecto de restituir a las ciudadanas o ciudadanos en el derecho político electoral violado, el Tribunal tendrá amplias facultades para decretar la nulidad de los procesos electivos, democráticos, e internos de los partidos políticos y de las agrupaciones políticas, así como en las controversias que surjan entre sus órganos.
 
@@ -1784,9 +2128,21 @@ II. Considere que se violó su derecho político-electoral de ser votado cuando,
 
 III. Cuando habiéndose asociado con otras y otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como agrupación política;
 
-IV. Cuando estando afiliado a un partido político o agrupación política, considere que un acto o resolución de los órganos partidarios o de la agrupación responsables, es violatorio de cualquiera de sus derechos político-electorales; y
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
 
-V. Considere que los actos o resoluciones de la autoridad electoral son violatorios de cualquiera de sus derechos político-electorales.
+IV. Cuando estando afiliado a un partido político o agrupación política, considere que un acto o resolución de los órganos partidarios o de la agrupación responsables, es violatorio de cualquiera de sus derechos político-electorales;
+
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+V. Considere que los actos o resoluciones de la autoridad electoral son violatorios de cualquiera de sus derechos político-electorales; y
+
+> <small>(ADICIONADA, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+VI. Considere que se violó su derecho político-electoral de ser votado o votada a alguno de los cargos del Poder Judicial de la Ciudad de México electos por votación libre, directa y secreta.
+
+> <small>(ADICIONADO, G.O. 23 DE DICIEMBRE DE 2024)</small>
+
+En estos casos no operará la suplencia de la queja.
 
 ###### Artículo 124.
 
@@ -1814,7 +2170,7 @@ El juicio para la protección de los derechos político-electorales de la ciudad
 
 # LIBRO TERCERO. De las Controversias Laborales y Administrativas
 
-## TÍTULO QUINTO. DE LAS INFRACCIONES Y SANCIONES
+## TÍTULO PRIMERO. De los Procedimientos Especiales
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -2436,7 +2792,7 @@ Todos los juicios en materia laboral serán resueltos por el Pleno del Tribunal 
 
 Para conocer y resolver respecto a resoluciones laborales, revisión de los actos de ejecución, y procedimiento de ejecución, se aplicarán las normas de la Ley Federal del Trabajo, en tanto no contravengan la naturaleza jurídica del Tribunal.
 
-## TÍTULO SEXTO. DE LAS INCONFORMIDADES Y LOS RECURSOS DE REVOCACIÓN Y REVISIÓN
+## TÍTULO SEGUNDO. Del Juicio de Inconformidad Administrativa
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -2862,49 +3218,57 @@ VII. Todas aquellas que sean de la misma naturaleza.
 
 ## TRANSITORIOS
 
-PRIMERO.- La presente Ley, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
-SEGUNDO.- Se derogan las disposiciones que se opongan a la presente Ley.
+SEGUNDO.- Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
 
-TERCERO.- La Secretaría de la Contraloría, dispondrá de tres meses a partir de la iniciación de la vigencia de la presente Ley, para elaborar el Reglamento respectivo y, en tanto se expide dicho Reglamento, el Ejecutivo del Estado, a través de la Dependencia competente, podrá dictar las disposiciones administrativas conducentes al cumplimiento de las mismas.
+TERCERO.- El presente decreto deberá estar vigente a más tardar 90 días antes de que inicie el proceso electoral 2017-2018.
 
-El Ciudadano Gobernador Constitucional del Estado dispondrá se publique, circule y observe.
+CUARTO.- Se abroga la Ley Procesal Electoral del Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 21 de diciembre de 2007, así como todas las disposiciones contenidas en otras legislaciones que sean contrarias al presente Decreto.
 
-Dado en el Salón de Sesiones del Honorable Congreso del Estado, en Victoria de Durango, Dgo., a los (15) quince días del mes Diciembre del año de (1998) Mil Novecientos Noventa y Ocho.
+QUINTO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
 
-DIP. JOSÉ MANUEL DIAZ MEDINA, PRESIDENTE.- DIP. RAUL MUÑOZ DE LEÓN, SECRETARIO.- DIP. BONIFACIO HERRERA RIVERA, SECRETARIO.- Rúbricas.
+Recinto de la Asamblea Legislativa del Distrito Federal, a los seis días del mes de junio del año dos mil diecisiete.- POR LA MESA DIRECTIVA.- DIP. MAURICIO ALONSO TOLEDO GUTIÉRREZ, PRESIDENTE.- DIP. REBECA PERALTA LEÓN, SECRETARIA.- DIP. LUCIANO JIMENO HUANOSTA, SECRETARIO.- (Firmas)
 
-Por tanto mando se imprima, publique, circule y comuníquese a quienes corresponda para su exacta observancia.
+Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los seis días del mes de junio del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, EDGAR OSWALDO TUNGÜI RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTES.- FIRMA.- EL SECRETARIO DE TURISMO, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, AMALIA DOLORES GARCÍA MEDINA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MAURICIO RODRÍGUEZ ALONSO.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL, Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, RENÉ RAÚL DRUCKER COLÍN.- FIRMA.
 
-DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los quince días del mes de Diciembre del año de mil novecientos noventa y ocho.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. ANGEL SERGIO GUERRERO MIER.- EL SECRETARIO GENERAL DE GOBIERNO. LIC. JESUS FLORES LOPEZ.- Rúbricas.
+G.O. 6 DE FEBRERO DE 2020.
 
-> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICAN LOS ARTÍCULOS 44, PÁRRAFO TERCERO, FRACCIÓN III; 47 FRACCIÓN II; 62, PÁRRAFOS PRIMERO Y SEGUNDO; Y 72; Y SE ADICIONA UN PÁRRAFO SEXTO, FRACCIONES I A VI AL ARTÍCULO 62 DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO".]
 
-P.O. 29 DE JUNIO DE 2006.
+PRIMERO.- Publíquese en la Gaceta Oficial de la Cuidad de México y para su mayor difusión en el Diario Oficial de la Federación.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 78.- POR EL QUE SE REFORMA EL ARTICULO 61 PARRAFO PRIMERO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO”.]
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+TERCERO.- Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
 
-SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado por el Instituto Nacional de Estadística y Geografía (INEGI), en el Diario Oficial de la Federación, en los términos establecidos por la Ley para Determinar el Valor de la Unidad de Medida y Actualización.
+CUARTO.- El Pleno del Tribunal Electoral de la Ciudad de México deberá emitir las reglas del sistema de notificaciones electrónicas y realizar las acciones necesarias y presupuestales para su implementación en el ámbito de sus atribuciones, con motivo del trámite, sustanciación y resolución de los medios de impugnación previstos en la Ley Procesal Electoral de la Ciudad de México, el cual deberá entrar en funcionamiento hasta antes que inicie el proceso electoral local ordinario de 2020-2021, contados a partir de la entrada en vigor del presente Decreto.
 
-TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
+QUINTO.- El Consejo General del Instituto Electoral de la Ciudad de México emitirá las reglas del sistema de notificaciones electrónicas y realizará las acciones necesarias y presupuestales para su implementación en el ámbito de sus atribuciones, con motivo de la instrucción de los procedimientos sancionadores ordinario y especial, así como de la resolución del Procedimiento Ordinario Sancionador Electoral, previstos en la Ley Procesal Electoral de la Ciudad de México, el cual deberá entrar en funcionamiento hasta antes que inicie el proceso electoral local ordinario de 2020-2021, contados a partir de la entrada en vigor de este Decreto.
 
-CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+G.O. 29 DE JULIO DE 2020.
 
-P.O. 4 DE JUNIO DE 2017.
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO Y LA LEY PROCESAL ELECTORAL PARA LA CIUDAD DE MÉXICO”.]
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 147.- POR EL QUE SE REFORMA EL ARTICULO 25 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO".]
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
-###### ARTÍCULO PRIMERO.
+SEGUNDO.- Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
 
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+TERCERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
-###### ARTÍCULO SEGUNDO.
+CUARTO.- Para los efectos de lo dispuesto en los artículos 63, fracción XII; y 94, fracción I, las unidades referidas contarán con un plazo de 30 días hábiles para proponer al Consejo General los programas de educación cívica, principios democráticos, paridad de género, perspectiva intercultural, igualdad y no discriminación, respeto y promoción a los derechos humanos de las mujeres en el ámbito político; así como elaborar, proponer y coordinar programas de educación cívica, principios democráticos, paridad de género, perspectiva intercultural, igualdad y respeto a los derechos humanos de las mujeres en el ámbito político, respectivamente.
 
-Se derogan todas las disposiciones que se opongan al presente Decreto.
+QUINTO.- Se derogan todas las disposiciones del Código de Instituciones y Procedimientos Electorales y de la Ley Procesal Electoral, ambos ordenamientos de la Ciudad de México, que se opongan al contenido del presente Decreto.
+
+SEXTO.- Los subsecuentes nombramientos que se lleven a cabo con motivo de la aplicación de las leyes e instancias a que hace referencia el presente Decreto, deberán realizarse garantizando el principio de paridad de género.
+
+SÉPTIMO.- Para garantizar el principio de paridad de género en la postulación de candidaturas a los cargos de elección popular en los próximos procesos electorales, el Instituto Electoral aplicará los lineamientos utilizados en el Proceso Electoral Ordinario 2017-2018.
+
+Los Distritos Electorales y Demarcaciones Territoriales se ordenarán de mayor a menor conforme al porcentaje de votación obtenido en el proceso electoral anterior, y se dividirán en tres bloques de competitividad, y en caso de remanente, éste se considerará en el bloque de competitividad alta.
+
+G.O. 1 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN CAPÍTULO XIV, DEL SISTEMA DE JUSTICIA DIGITAL ELECTORAL, AL TÍTULO SEGUNDO REGLAS COMUNES APLICABLES A LOS MEDIOS DE IMPUGNACIÓN, DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO”.]
 
@@ -2925,3 +3289,45 @@ G.O. 2 DE JUNIO DE 2023.
 Primero. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente decreto entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN IV DEL ARTÍCULO 1; SE ADICIONA LA FRACCIÓN XXIII BIS, Y SE ADICIONA UN PÁRRAFO A LA FRACCIÓN II QUÁTER Y SE REFORMA LA FRACCIÓN VIII DEL INCISO C) DEL ARTÍCULO 4; SE MODIFICAN EL SEGUNDO Y EL CUARTO PÁRRAFO DE LA FRACCIÓN I, Y SE ADICIONA UN PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 6; SE ADICIONA EL ARTÍCULO 21 BIS; SE MODIFICA EL PRIMER PÁRRAFO, LA FRACCIÓN IV. Y EL INCISO N) DEL ARTÍCULO 36; SE MODIFICA EL TERCER PÁRRAFO Y SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 46; SE MODIFICA LA FRACCIÓN XXXIV DEL ARTÍCULO 50, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 53; SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 70 BIS; SE MODIFICA EL TERCER PÁRRAFO DEL ARTÍCULO 71; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 75; SE MODIFICA EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 76; SE MODIFICA LA FRACCIÓN II Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 80; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 116; SE MODIFICA EL CUARTO PÁRRAFO DEL ARTÍCULO 138; SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 165; SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 179; SE MODIFICA EL ARTÍCULO 242; SE MODIFICAN LAS FRACCIONES XIII, XIV Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 251; SE MODIFICA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 257; SE MODIFICA LA FRACCIÓN I DEL ARTÍCULO 272; SE ADICIONA LA FRACCIÓN XXIII BIS AL ARTÍCULO 273; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 356; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 358; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 359; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 374; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 376; SE MODIFICA EL PRIMER PÁRRAFO DEL ARTÍCULO 416; SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 437; SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 443; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 444; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 445; SE MODIFICA EL ARTÍCULO 448; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 449; SE MODIFICA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 450; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 454; SE MODIFICA EL PÁRRAFO TERCERO DE LA FRACCIÓN II DEL ARTÍCULO 455; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 456; SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 461; SE ADICIONA EL LIBRO QUINTO DE LA INTEGRACIÓN DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, TÍTULO PRIMERO DE LA RENOVACIÓN DEL PODER JUDICIAL Y CAPÍTULO ÚNICO DISPOSICIONES GENERALES, Y LOS ARTÍCULOS 462 Y 463; SE ADICIONA EL TÍTULO SEGUNDO DEL PROCESO ELECTORAL DE LAS PERSONAS JUZGADORAS DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, CAPÍTULO I, REGLAS GENERALES Y SE ADICIONAN LOS ARTÍCULOS 464 Y 465; SE ADICIONA EL CAPÍTULO II DE LA CONVOCATORIA Y POSTULACIÓN DE CANDIDATURAS, Y SE ADICIONAN LOS ARTÍCULOS 466, 467, 468, 469, 470 Y 471; SE ADICIONA EL CAPÍTULO III DE LA ORGANIZACIÓN DE LA ELECCIÓN, Y SE ADICIONAN LOS ARTÍCULOS 472, 473 Y 474; SE ADICIONA EL CAPÍTULO IV DE LA PROPAGANDA, Y SE ADICIONAN LOS ARTÍCULOS 475, 476, 477, 478, 479, 480 Y 481; SE ADICIONA EL CAPÍTULO V DE LAS ENCUESTAS Y SONDEOS DE OPINIÓN Y SE ADICIONAN LOS ARTÍCULOS 482 Y 483; SE ADICIONA EL CAPÍTULO VI DE LOS FOROS DE DEBATES Y SE ADICIONAN LOS ARTÍCULOS 484, 485 Y 486; SE ADICIONA EL CAPÍTULO VII DE LAS CAMPAÑAS ELECTORALES Y SE ADICIONAN LOS ARTÍCULOS 487, 488, 489, 490 Y 491; SE ADICIONA EL CAPÍTULO VIII DE LA OBSERVACIÓN ELECTORAL Y SE ADICIONAN LOS ARTÍCULOS 492 Y 493; SE ADICIONA EL CAPÍTULO IX DE LAS ACTIVIDADES DEL INSTITUTO ELECTORAL PARA LA PROMOCIÓN DE LA ELECCIÓN DEL PODER JUDICIAL Y SE ADICIONAN LOS ARTÍCULOS 494 Y 495; SE ADICIONA EL CAPÍTULO X DE LA ORGANIZACIÓN ELECTORAL Y SE ADICIONAN LOS ARTÍCULOS 496, 497 Y 498; SE ADICIONA EL CAPÍTULO XI DE LA ELECCIÓN POR UNA CIRCUNSCRIPCIÓN Y SE ADICIONA EL ARTÍCULO 499; SE ADICIONA EL CAPÍTULO XII DE LAS MESAS DIRECTIVAS DE CASILLA Y SE ADICIONAN LOS ARTÍCULOS 500, 501 Y 502; SE ADICIONA EL CAPÍTULO XIII DE LAS BOLETAS Y MATERIALES ELECTORALES Y SE ADICIONA EL ARTÍCULO 503, SE ADICIONA EL CAPÍTULO XIV DE LAS ACTIVIDADES EN MATERIA REGISTRAL Y DEL LISTADO NOMINAL Y SE ADICIONA EL ARTÍCULO 504; SE ADICIONA EL CAPÍTULO XV DE LA JORNADA ELECTORAL Y SE ADICIONAN LOS ARTÍCULOS 505, 506, 507, 508, 509 Y 510; SE ADICIONA EL CAPÍTULO XVI DE LOS CÓMPUTOS Y SUMATORIA Y SE ADICIONAN LOS ARTÍCULOS 511, 512, 513 Y 514; SE ADICIONA EL CAPÍTULO XVII DE LA ENTREGA DE CONSTANCIAS DE MAYORÍA Y DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN Y SE ADICIONAN LOS ARTÍCULOS 515, 516 Y 517, TODOS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO; Y SE ADICIONA LA FRACCIÓN XV BIS DEL ARTÍCULO 1; SE MODIFICA EL PRIMER Y TERCER PÁRRAFO, LA FRACCIÓN II, EL INCISO B) Y F) Y SE ADICIONA EL INCISO I) AL ARTÍCULO 3; SE MODIFICA LA FRACCIÓN III DEL ARTÍCULO 7; SE ADICIONA EL ARTÍCULO 10 BIS; SE MODIFICA LA FRACCIÓN III DEL ARTÍCULO 19; SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 28; SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 46; SE ADICIONA UN PÁRRAFO AL ARTÍCULO 102; SE ADICIONA LA FRACCIÓN II BIS Y SE MODIFICA LA FRACCIÓN IV DEL ARTÍCULO 103; SE MODIFICAN LAS FRACCIONES VI Y VII Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 112; SE ADICIONA EL ARTÍCULO 114 BIS; SE MODIFICAN LAS FRACCIONES IV Y V Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 122; SE MODIFICA (SIC) LAS FRACCIONES IV Y V Y SE ADICIONA LA FRACCIÓN VI Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 123; TODOS DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Los Poderes de la Ciudad de México atenderán lo dispuesto en el presente Decreto y acatarán, en lo que corresponda, las resoluciones emitidas por el Consejo General del Instituto Nacional Electoral e Instituto Electoral de la Ciudad de México, en lo que sea aplicable a los procesos electorales locales, respecto a la renovación del Poder Judicial en la Ciudad de México.
+
+CUARTO. El Instituto Electoral emitirá las determinaciones, acuerdos y resoluciones, así como la normativa necesaria, en el ámbito de sus atribuciones, para llevar a cabo el Proceso Local Extraordinario 2025.
+
+QUINTO. El Proceso Electoral Extraordinario 2025 dará inicio el día de la entrada en vigor del presente Decreto. La etapa de preparación de la elección extraordinaria del año 2025 iniciará con la primera sesión del Consejo General del Instituto Electoral de la Ciudad de México.
+
+SEXTO. El Congreso Local dotará al Instituto Electoral de la Ciudad de México y al Tribunal Electoral de la Ciudad de México, de recursos financieros para la realización el (sic) Proceso Electoral Extraordinario 2025, para la elección de personas juzgadoras integrantes del Poder Judicial observando para ello los principios de racionalidad, austeridad, transparencia, eficacia y rendición de cuentas.
+
+Para tal efecto tomará en consideración la presupuestación que al efecto realice el Instituto Electoral de la Ciudad de México y el Tribunal Electoral de la Ciudad de México, una vez que entre en vigor el presente Decreto.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO SEXTO POR EL QUE “SE REFORMA EL ARTÍCULO 33 DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las referencias contenidas en leyes, reglamentos, acuerdos, lineamientos, manuales administrativos, disposiciones normativas y demás instrumentos jurídicos al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, o a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, se entenderán hechas a la autoridad competente que corresponda, de conformidad con la distribución de atribuciones prevista en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y demás normativa aplicable.
+
+QUINTO. Las referencias contenidas en los ordenamientos reformados a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México se entenderán realizadas al ordenamiento vigente en la materia, conforme a las disposiciones aplicables.
+
+SEXTO. Los sujetos obligados, dependencias, órganos desconcentrados, entidades, alcaldías, órganos autónomos y demás entes públicos comprendidos en el presente Decreto deberán realizar las adecuaciones administrativas, operativas y normativas necesarias para su cumplimiento, dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugnación, expedientes, registros, actuaciones administrativas y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio, salvo que la norma posterior resulte más favorable para la protección del derecho correspondiente.
+
+OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
