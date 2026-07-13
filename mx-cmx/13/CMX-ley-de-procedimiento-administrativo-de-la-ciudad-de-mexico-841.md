@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-procedimiento-administrativo-de-la-ciudad-de-mexico-841"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2019-06-12"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=841&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1995-12-14"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -616,9 +616,9 @@ VII. Proporcionar información y orientar acerca de los requisitos jurídicos o 
 
 VIII. Permitir el acceso a sus registros y archivos en los términos previstos en ésta u otras leyes.
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
-El acceso a los archivos y registros derivados de información obtenida con equipos y sistemas tecnológicos por la Secretaría de Seguridad Ciudadana y sus productos de inteligencia para la prevención de los delitos, por su carácter relevante para la seguridad pública de la Ciudad de México, deberá permitirse o restringirse y presentarse en los formatos que establece la Ley que regula el uso de tecnología para la Seguridad Pública y la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas, ambas de la Ciudad de México;
+El acceso a los archivos y registros derivados de información obtenida con equipos y sistemas tecnológicos por la Secretaría de Seguridad Ciudadana y sus productos de inteligencia para la prevención de los delitos, por su carácter relevante para la seguridad pública de la Ciudad de México, deberá permitirse o restringirse y presentarse en los formatos que establece la Ley que regula el uso de tecnología para la Seguridad Pública y la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México, ambas de la Ciudad de México;
 
 IX. Tratar con respeto a los particulares y a facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones;
 
@@ -1709,3 +1709,25 @@ TERCERO.- Las reformas contenidas en el presente decreto derogan y dejan sin efe
 CUARTO.- La persona titular de la Jefatura de Gobierno de la Ciudad de México, emitirá el Reglamento que regule la Verificación Administrativa de la Ciudad de México, en un plazo de sesenta días, a partir de la publicación del presente decreto.
 
 QUINTO.- Las referencias hechas al Reglamento de la Ley, se entenderán hechas al Reglamento de Verificación Administrativa del Distrito Federal, hasta en tanto no se expida el Reglamento del presente ordenamiento.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO SEGUNDO POR EL QUE “SE REFORMA EL ARTÍCULO 39 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las referencias contenidas en leyes, reglamentos, acuerdos, lineamientos, manuales administrativos, disposiciones normativas y demás instrumentos jurídicos al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, o a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, se entenderán hechas a la autoridad competente que corresponda, de conformidad con la distribución de atribuciones prevista en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y demás normativa aplicable.
+
+QUINTO. Las referencias contenidas en los ordenamientos reformados a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México se entenderán realizadas al ordenamiento vigente en la materia, conforme a las disposiciones aplicables.
+
+SEXTO. Los sujetos obligados, dependencias, órganos desconcentrados, entidades, alcaldías, órganos autónomos y demás entes públicos comprendidos en el presente Decreto deberán realizar las adecuaciones administrativas, operativas y normativas necesarias para su cumplimiento, dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugnación, expedientes, registros, actuaciones administrativas y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio, salvo que la norma posterior resulte más favorable para la protección del derecho correspondiente.
+
+OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
