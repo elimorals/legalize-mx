@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-transparencia-en-remuneraciones-132087"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2025-08-27"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -157,6 +157,10 @@ XXXIX. Ley de Ingresos: Ley de Ingresos de la Ciudad de México, que anualmente 
 > <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2020)</small>
 
 XL. Ley de Planeación: Ley del Sistema de Planeación del Desarrollo de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XL Bis. Ley de Transparencia: Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], G.O. 1 DE DICIEMBRE DE 2020)</small>
 
@@ -1636,9 +1640,9 @@ IV. Fiscalización: La remuneración es objeto de vigilancia, control y revisió
 
 V. Igualdad: La remuneración se compensa en igualdad de condiciones a puestos iguales en funciones, responsabilidades, jornada laboral y condición de eficiencia, o cualquier otra que atente contra la dignidad humana, sin perjuicio de los derechos adquiridos; y
 
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-VI. Transparencia y rendición de cuentas: La remuneración es pública y toda autoridad está obligada a informar y a rendir cuentas con veracidad y oportunidad, privilegiando el principio de máxima publicidad, en los términos de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+VI. Transparencia y rendición de cuentas: La remuneración es pública y toda autoridad está obligada a informar y a rendir cuentas con veracidad y oportunidad, privilegiando el principio de máxima publicidad, en los términos de la Ley de Transparencia.
 
 > <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1670,9 +1674,11 @@ b) La remuneración que sea producto de las condiciones generales de trabajo, de
 
 III. Ninguna persona servidora pública deberá recibir un salario menor al doble del salario mínimo general vigente en el país. Bajo las anteriores excepciones, la suma de las retribuciones no deberá exceder de la mitad de la remuneración establecida para la persona titular de la Jefatura de Gobierno de la Ciudad de México establecido en el Presupuesto de Egresos de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 103.
 
-Las remuneraciones y sus tabuladores son públicos, por lo que no pueden clasificarse como información reservada o confidencial, en términos de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+Las remuneraciones y sus tabuladores son públicos, por lo que no pueden clasificarse como información reservada o confidencial, en términos de la Ley de Transparencia.
 
 > <small>(REFORMADO, G.O. 4 DE MARZO DE 2020)</small>
 
@@ -3681,3 +3687,25 @@ G.O. 27 DE AGOSTO DE 2025.
 PRIMERO. Remítase el presente Decreto a la Jefa de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México, y
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO NOVENO POR EL QUE “SE ADICIONA LA FRACCIÓN XL BIS DEL ARTÍCULO 2; SE REFORMAN LOS ARTÍCULOS 100 FRACCIÓN VI Y 103 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las referencias contenidas en leyes, reglamentos, acuerdos, lineamientos, manuales administrativos, disposiciones normativas y demás instrumentos jurídicos al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, o a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, se entenderán hechas a la autoridad competente que corresponda, de conformidad con la distribución de atribuciones prevista en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y demás normativa aplicable.
+
+QUINTO. Las referencias contenidas en los ordenamientos reformados a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México se entenderán realizadas al ordenamiento vigente en la materia, conforme a las disposiciones aplicables.
+
+SEXTO. Los sujetos obligados, dependencias, órganos desconcentrados, entidades, alcaldías, órganos autónomos y demás entes públicos comprendidos en el presente Decreto deberán realizar las adecuaciones administrativas, operativas y normativas necesarias para su cumplimiento, dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugnación, expedientes, registros, actuaciones administrativas y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio, salvo que la norma posterior resulte más favorable para la protección del derecho correspondiente.
+
+OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
