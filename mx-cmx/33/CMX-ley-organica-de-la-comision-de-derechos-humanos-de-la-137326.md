@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-comision-de-derechos-humanos-de-la-137326"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-12"
-last_updated: "2021-03-02"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137326&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-06-10"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en el No. 133 de la Gaceta Oficial de la Ciudad de México, el viernes 12 de julio de 2019.
 
@@ -62,6 +62,10 @@ Para efectos de lo establecido en esta Ley se entenderá por:
 
 I. Autoridad: los poderes ejecutivo, legislativo y judicial, las Alcaldías y los organismos autónomos, todos de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+I BIS. Autoridades Garantes: autoridad garante local; la Contraloría del Poder Judicial; los órganos internos de control o equivalentes de los órganos constitucionales autónomos y la contraloría interna del Congreso de la Ciudad de México. Las autoridades garantes gozarán de autonomía técnica y operativa en el ejercicio de las funciones establecidas en la presente;
+
 II. Ciudad: la Ciudad de México;
 
 III. Comisión: la Comisión de Derechos Humanos de la Ciudad de México;
@@ -71,6 +75,10 @@ IV. Comisión Nacional: la Comisión Nacional de los Derechos Humanos.
 V. Congreso: el Congreso de la Ciudad de México;
 
 VI. Consejo: el Consejo de la Comisión de Derechos Humanos de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+VI BIS. Comité del Subsistema de Transparencia: órgano colegiado rector del Subsistema de Transparencia de la Ciudad, de conformidad con el artículo 32 de la Ley General de Transparencia y Acceso a la Información Pública;
 
 VII. Constitución General: la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -89,6 +97,10 @@ XIII. Personas Consejeras: Las Consejeras y Consejeros integrantes del Consejo d
 XIV. Persona Servidora Pública: de conformidad con el artículo 64 de la Constitución Local toda persona que desempeñe un empleo, cargo, función, mandato o comisión en los poderes ejecutivo, legislativo y judicial, en las Alcaldías y los organismos autónomos, todos de la Ciudad de México; así como las personas que ejerzan actos de autoridad, recursos públicos o contraten con entes públicos la ejecución de obra o servicios públicos, de adquisiciones, de subrogación de funciones o reciban concesiones;
 
 XV. Reglamento Interno: el Reglamento Interno de la Comisión de Derechos Humanos de la Ciudad de México; y
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XV BIS. Ley de Transparencia: Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México;
 
 XVI. Visitadurías Generales: las visitadurías generales de la Comisión de Derechos Humanos de la Ciudad de México.
 
@@ -616,7 +628,9 @@ Para los efectos de recepción de peticiones o quejas, todos los días y horas d
 
 Las personas servidoras públicas de la Comisión deberán dar en todo momento trato confidencial a la información, documentación, datos, pruebas y demás elementos que obren en su poder con motivo del trámite de los procedimientos y actuaciones competencia de la Comisión.
 
-Se exceptúa de lo establecido en el párrafo anterior, las resoluciones, conclusiones o recomendaciones que serán públicas en términos de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México. La Comisión requerirá a las personas peticionarias o presuntas víctimas su consentimiento por escrito, en el primer acuerdo o resolución que se emita, únicamente para publicar sus datos personales, en el entendido de que la omisión a desahogar dicho requerimiento constituirá su negativa.
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
+Se exceptúan de lo dispuesto en el párrafo anterior, las resoluciones, conclusiones o recomendaciones que serán públicas en términos de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México. La Comisión requerirá a las personas peticionarias o presuntas víctimas su consentimiento por escrito, en el primer acuerdo o resolución que se emita, únicamente para publicar sus datos personales, en el entendido de que la omisión de desahogar dicho requerimiento constituirá su negativa.
 
 La Comisión en cada uno de los procedimientos que lleve a cabo tendrá acceso a la información o documentación necesaria para el esclarecimiento de los hechos a condición de que esté relacionada con las probables violaciones, con inclusión de aquélla que las autoridades o personas servidoras públicas clasifiquen con carácter confidencial o reservada. Las autoridades o personas servidoras públicas comunicarán a la Comisión las razones que sustentan dicha clasificación de la información. En este supuesto, las personas titulares de las visitadurías generales de la Comisión tendrán la facultad de hacer la clasificación final de la información y solicitar que les sea proporcionada bajo su más estricta responsabilidad.
 
@@ -1386,9 +1400,25 @@ XXV. Cumplir con las disposiciones jurídicas y administrativas aplicables en ma
 
 XXVI. Las demás que le confiera esta Ley, las Leyes aplicables, el Reglamento Interno y otras disposiciones legales aplicables.
 
-### Capítulo II. De las Responsabilidades de las Personas Servidoras Públicas de la Comisión
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2026)</small>
 
-### Capítulo I. De la Colaboración
+### CAPÍTULO I BIS. De la Integración al Comité del Subsistema de Transparencia de la Ciudad de México y de las Funciones del Órgano Interno de Control como Autoridad Garante
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 125 Bis.
+
+La persona titular de la Contraloría Interna de Control será integrante, en representación de la Comisión de Derechos Humanos, del Comité del Subsistema de Transparencia de la Ciudad de México, de conformidad con lo dispuesto en el artículo 28 de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México.
+
+Su participación se ejercerá conforme a la legislación local en la materia y, en lo conducente, dentro de los mecanismos de coordinación previstos en la Ley General de Transparencia y Acceso a la Información Pública, con el objeto de asegurar la articulación institucional y la armonización normativa entre el orden local y el federal.
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 125 Ter.
+
+Además de las atribuciones que le corresponden en materia de control interno, la Contraloría Interna de Control fungirá como Autoridad Garante, en términos de lo dispuesto en el Título Segundo, Capítulo II denominado “De las autoridades garantes y la autoridad garante local”, de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México, así como de la normativa aplicable en materia de protección de datos personales, para garantizar el ejercicio del derecho de acceso a la información pública, la privacidad y la protección de datos personales.
+
+### Capítulo II. De las Responsabilidades de las Personas Servidoras Públicas de la Comisión
 
 ###### Artículo 126.
 
@@ -1404,7 +1434,7 @@ Las personas servidoras públicas de la Comisión están obligadas a presentar y
 
 ## TÍTULO OCTAVO. DE LA COLABORACIÓN Y RESPONSABILIDADES DE LAS AUTORIDADES Y PERSONAS SERVIDORAS PÚBLICAS DE LA CIUDAD DE MÉXICO
 
-### Capítulo II. De las Responsabilidades
+### Capítulo I. De la Colaboración
 
 ###### Artículo 128.
 
@@ -1415,6 +1445,8 @@ Todas las autoridades y personas servidoras públicas de la Ciudad están obliga
 La Comisión podrá solicitar a las autoridades y personas servidoras públicas de la Ciudad, para el desahogo de los procedimientos establecidos en la presente Ley, la información o documentación que estime necesarias.
 
 Las autoridades y personas servidoras públicas de la Ciudad están obligadas a proporcionar a la Comisión, en los plazos señalados por ésta, la información y documentación que les sea requerida.
+
+### Capítulo II. De las Responsabilidades
 
 ###### Artículo 130.
 
@@ -1485,3 +1517,31 @@ G.O. 2 DE MARZO DE 2021.
 PRIMERO.- Remítase a (sic) Jefatura de Gobierno de la Ciudad de México para su Publicación en la Gaceta oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PUBLICA DE LA CIUDAD DE MÉXICO, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO; DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO; Y DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DE LA CIUDAD DE MÉXICO, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, con excepción de lo previsto en el Transitorio Séptimo de este Decreto.
+
+CUARTO.- La Persona Titular de la Jefatura de Gobierno de la Ciudad de México realizará las modificaciones reglamentarias que correspondan para la debida observancia del presente Decreto.
+
+QUINTO.- La Persona Titular de la Jefatura de Gobierno de la Ciudad de México expedirá el Decreto de creación del órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que hace referencia la fracción LII del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+
+SEXTO.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+SÉPTIMO.- Las fracciones LII, LIII, LIX, LX y LXI del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México entrarán en vigor cuando entre en funcionamiento el órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que se refiere la fracción LII del mencionado artículo.
+
+OCTAVO.- Los sujetos obligados, dependencias, órganos desconcentrados, alcaldías, órganos autónomos y demás entes públicos deberán realizar las adecuaciones administrativas, operativas y reglamentarias necesarias para el cumplimiento del presente Decreto dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+NOVENO.- El Congreso de la Ciudad de México, los órganos constitucionalmente autónomos y las demás autoridades competentes deberán armonizar sus reglamentos interiores, lineamientos y disposiciones normativas internas dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DECIMO.- Los procedimientos administrativos, solicitudes de acceso a la información, recursos de revisión, medios de impugnación, procedimientos de protección de datos personales y demás asuntos iniciados con anterioridad a la entrada en vigor del presente.
+
+DECIMO PRIMERO.- Con la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan al mismo.
+
+DECIMO SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
