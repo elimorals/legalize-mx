@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-de-justicia-administrativa-de-la-1231
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-01"
-last_updated: "2019-03-04"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123188&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-08-31"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en el No. 146 Ter de la Gaceta Oficial de la Ciudad de México, el viernes 1 de septiembre de 2017.
 
@@ -194,7 +194,9 @@ Se suspenderán las labores generales del Tribunal y no correrán los plazos, lo
 
 El Pleno General se conforma por todas las personas Magistrados de la Sala Superior y bastará la presencia de la mayoría simple de éstas para que sus sesiones sean válidas.
 
-Las sesiones del Pleno General, así como las diligencias o audiencias que deban practicar serán públicas y se transmitirán por los medios electrónicos que faciliten su seguimiento, en los casos que se estime necesario serán videograbadas, resguardando los datos personales de conformidad con la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México. Sólo en los casos que la ley lo establezca, las sesiones podrán ser privadas, sin embargo, de estas se harán versiones públicas para la consulta ciudadana que, en su caso, sea requerida.
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
+Las sesiones del Pleno General, así como las diligencias o audiencias que deban practicar serán públicas y se transmitirán por los medios electrónicos que faciliten su seguimiento, cuando se estime necesario serán videograbadas, resguardando los datos personales en términos de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México y de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México. Sólo en los casos que la ley lo establezca, las sesiones podrán ser privadas, en tales supuestos, deberán elaborarse las versiones públicas correspondientes para consulta ciudadana que, en su caso, sea requerida.
 
 > <small>(REFORMADO, G.O. 4 DE MARZO DE 2019)</small>
 
@@ -552,7 +554,9 @@ Para la validez de las sesiones de la Sala, será indispensable la presencia de 
 
 En los juicios en la vía sumaria, la Magistrada o el Magistrado que haya instruido el juicio emitirá la sentencia que en derecho corresponda de manera unitaria, en términos de lo previsto en la Ley de Justicia Administrativa de la Ciudad de México.
 
-Las sesiones de las Salas Ordinarias, así como en su caso, las audiencias que deban practicar serán públicas y se transmitirán por los medios electrónicos que faciliten su seguimiento, resguardando los datos personales de conformidad con la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México. Sólo en los casos que la Ley lo establezca, las sesiones podrán ser privadas, sin embargo, de estas se harán versiones públicas para la consulta ciudadana que, en su caso, sea requerida.
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
+Las sesiones de las Salas Ordinarias, así como en su caso, las audiencias que deban practicar serán públicas y se transmitirán por los medios electrónicos que faciliten su seguimiento, resguardando los datos personales en términos de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México y de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México. Sólo en los casos que la Ley lo establezca, las sesiones podrán ser privadas, en tales supuestos, deberán elaborarse las versiones públicas correspondientes para consulta ciudadana que, en su caso, sea requerida.
 
 ###### Artículo 28.
 
@@ -1331,3 +1335,31 @@ TERCERO.- La Jefa de Gobierno de la Ciudad de México deberá remitir al Congres
 CUARTO.- Una vez que quede conformado en su totalidad el Pleno General del Tribunal, conforme a lo previsto en la Ley, se deberá elegir a nuevas personas integrantes de la Junta de Gobierno y Administración dentro de los 15 días siguientes a que hayan tomado protesta del encargo las nuevas personas Magistradas de Sala Superior y de Sala Ordinaria, los cuales podrán competir para formar la misma.
 
 QUINTO.- El Reglamento Interior del Tribunal que se encuentre vigente a la entrada en vigor de la Ley, seguirá aplicándose en aquello que no se oponga a ésta, hasta que el Pleno General expida el nuevo Reglamento Interior de conformidad con lo previsto en este ordenamiento, lo cual deberá hacer en un plazo de noventa días a partir de la entrada en vigor de este decreto.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PUBLICA DE LA CIUDAD DE MÉXICO, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO; DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO; DE LA LEY ORGÁNICA DEL INSTITUTO DE PLANEACIÓN DEMOCRÁTICA Y PROSPECTIVA DE LA CIUDAD DE MÉXICO; Y DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DE LA CIUDAD DE MÉXICO, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. - Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México.
+
+SEGUNDO. - Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México, con excepción de lo previsto en el Transitorio Séptimo de este Decreto.
+
+CUARTO. - La Persona Titular de la Jefatura de Gobierno de la Ciudad de México realizará las modificaciones reglamentarias que correspondan para la debida observancia del presente Decreto.
+
+QUINTO. - La Persona Titular de la Jefatura de Gobierno de la Ciudad de México expedirá el Decreto de creación del órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que hace referencia la fracción LII del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México.
+
+SEXTO. - Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+SÉPTIMO. - Las fracciones LII, LIII, LIX, LX y LXI del artículo 28 de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México entrarán en vigor cuando entre en funcionamiento el órgano desconcentrado adscrito a la Secretaría de la Contraloría General a que se refiere la fracción LII del mencionado artículo.
+
+OCTAVO. - Los sujetos obligados, dependencias, órganos desconcentrados, alcaldías, órganos autónomos y demás entes públicos deberán realizar las adecuaciones administrativas, operativas y reglamentarias necesarias para el cumplimiento del presente Decreto dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+NOVENO. - El Congreso de la Ciudad de México, los órganos constitucionalmente autónomos y las demás autoridades competentes deberán armonizar sus reglamentos interiores, lineamientos y disposiciones normativas internas dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+DECIMO. - Los procedimientos administrativos, solicitudes de acceso a la información, recursos de revisión, medios de impugnación, procedimientos de protección de datos personales y demás asuntos iniciados con anterioridad a la entrada en vigor del presente.
+
+DECIMO PRIMERO. - Con la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan al mismo.
+
+DECIMO SEGUNDO. - Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
