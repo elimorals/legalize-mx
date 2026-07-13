@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-universidad-autonoma-de-la-ciudad-de-mexico-42082"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-05"
-last_updated: "2014-11-28"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42082&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-12-29"
 
 LEY DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 5 de enero de 2005.
 
@@ -54,9 +54,11 @@ La presente Ley es de orden público y de interés social; tiene por objeto dota
 
 Para efectos de esta ley, se entiende por Universidad a la Universidad Autónoma de la Ciudad de México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 2.
 
-La Universidad es un organismo público autónomo del Distrito Federal, por lo que goza de personalidad jurídica y patrimonio propio.
+La Universidad es un organismo público autónomo de la Ciudad de México, por lo que goza de personalidad jurídica y patrimonio propio.
 
 La Universidad se rige por el artículo 3º de la Constitución, la presente ley y las demás normas que de la misma emanen.
 
@@ -88,15 +90,23 @@ VIII. Formular sus políticas académicas, de investigación, de extensión y di
 
 IX. Establecer políticas de cooperación y servicio con todos los sectores del país y del extranjero de acuerdo con sus propios fines y programas académicos;
 
-X. Determinar sus planes y programas de estudio, sus programas de investigación y extensión, así como las modalidades de los proyectos y actividades de apoyo a las comunidades del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+X. Determinar sus planes y programas de estudio, sus programas de investigación y extensión, así como las modalidades de los proyectos y actividades de apoyo a las comunidades de la Ciudad de México.
 
 XI. Establecer las normas y formas de administración de su patrimonio;
 
 XII. Realizar toda clase de actos jurídicos para el logro de sus fines;
 
-XIII. Ejercer su presupuesto; y
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
 
-XIV. Las demás que se deriven de esta Ley, sus estatutos y reglamentos.
+XIII. Ejercer su presupuesto;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XIV. Garantizar el derecho de acceso a la información pública y la protección de datos personales en posesión de la Universidad, ejercer las atribuciones que en su carácter de autoridad garante le correspondan conforme a la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México, y participar en el Comité del Subsistema de Transparencia de la Ciudad de México, en los términos de la legislación aplicable.
+
+XV. Las demás que se deriven de esta Ley, sus estatutos y reglamentos.
 
 ### CAPÍTULO II. DE LA COMUNIDAD UNIVERSITARIA
 
@@ -228,11 +238,15 @@ VI. Aprobar y modificar las políticas y planes generales de desarrollo de la in
 
 VII. Definir las características y funciones de las entidades académicas, así como las formas de organización y operación de la Universidad;
 
-VIII. Crear, modificar y suprimir unidades académicas, técnicas y administrativas, entre las que necesariamente se establecerá un órgano de contraloría de la Universidad;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+VIII. Crear, modificar y suprimir unidades académicas, técnicas y administrativas, entre las que necesariamente se establecerá un órgano de contraloría de la Universidad, el cual coadyuvará en el cumplimiento de las obligaciones en materia de transparencia, acceso a la información pública y protección de datos personales, conforme a la legislación aplicable.
 
 IX. Conocer los informes anuales del tesorero y del órgano de contraloría de la Universidad; aprobarlos, si es el caso; y emitir las disposiciones pertinentes;
 
-X. Conocer los estados financieros debidamente auditados por el órgano de contraloría de la Universidad y el despacho externo que se designe conforme a las normas aplicables; aprobarlos, si es el caso, y emitir las disposiciones pertinentes. Una vez aprobados, dichos estados financieros se harán del conocimiento público y estarán a disposición de cualquier persona pública o privada que solicite su consulta de manera fundada y motivada;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+X. Conocer los estados financieros debidamente auditados por el órgano de contraloría de la Universidad y el despacho externo que se designe conforme a las normas aplicables; aprobarlos, si es el caso, y emitir las disposiciones pertinentes. Una vez aprobados, dichos estados financieros se harán del conocimiento público y estarán a disposición de cualquier persona para su consulta, en términos de la legislación aplicable en materia de transparencia y acceso a la información pública.
 
 XI. Autorizar el proyecto anual de ingresos y el presupuesto de egresos;
 
@@ -292,7 +306,9 @@ I. Los inmuebles y cualquier otro bien que le hayan sido otorgados por el Gobier
 
 II. El efectivo, valores, créditos y otros bienes muebles, así como los equipos y muebles con que cuenta en la actualidad, y los que en el futuro adquiera por cualquier título;
 
-III. Los presupuestos anuales y las aportaciones ordinarias, extraordinarias y específicas que le asignen la Federación y el Gobierno del Distrito Federal, así como las de las delegaciones del Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+III. Los presupuestos anuales y las aportaciones ordinarias, extraordinarias y específicas que le asignen la Federación y el Gobierno de la Ciudad de México, así como las de las Alcaldías.
 
 IV. Los intereses, dividendos, rentas y otros rendimientos derivados de sus bienes patrimoniales;
 
@@ -308,15 +324,17 @@ IX. El patrimonio que se le asigne de cualquier otra manera legal.
 
 ### CAPÍTULO II. DEL FINANCIAMIENTO PÚBLICO DE LA UNIVERSIDAD
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 23.
 
-Para garantizar un adecuado desarrollo cualitativo y cuantitativo de la Universidad, y conforme a lo dispuesto en los artículos 3º de la Constitución Política de los Estados Unidos Mexicanos y 9º y 27 de la Ley General de Educación, la Asamblea Legislativa del Distrito Federal asignará anualmente a esta institución, como mínimo para su presupuesto de operación 1241 veces la Unidad de Cuenta de la Ciudad de México vigente por cada estudiante con dedicación ordinaria y sus equivalentes. Se entiende por estudiante con dedicación ordinaria al inscrito en la totalidad de cursos correspondientes al plan de estudios en cada periodo; asimismo, asignará los recursos necesarios para sufragar las inversiones concomitantes. Con este fin, la Asamblea Legislativa del Distrito Federal considerará esta asignación como programa prioritario para propósitos presupuestales y el monto del financiamiento nunca será inferior al presupuesto del año previo.
+Para garantizar un adecuado desarrollo cualitativo y cuantitativo de la Universidad, y conforme a lo dispuesto en los artículos 3° de la Constitución Política de los Estados Unidos Mexicanos y 9° y 27 de la Ley General de Educación, el Congreso de la Ciudad de México asignará anualmente a esta institución, como mínimo para su presupuesto de operación 1241 veces la Unidad de Cuenta de la Ciudad de México vigente por cada estudiante con dedicación ordinaria y sus equivalentes. Se entiende por estudiante con dedicación ordinaria al inscrito en la totalidad de cursos correspondientes al plan de estudios en cada periodo; asimismo, asignará los recursos necesarios para sufragar las inversiones concomitantes. Con este fin, el Congreso de la Ciudad de México considerará esta asignación como programa prioritario para propósitos presupuestales y el monto del financiamiento nunca será inferior al presupuesto del año previo.
+
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 24.
 
-El Gobierno del Distrito Federal aportará los predios que se requieran para las instalaciones de la Universidad, entregándolos en condiciones adecuadas para su funcionamiento.
+El Gobierno de la Ciudad de México aportará los predios que se requieran para las instalaciones de la Universidad, entregándolos en condiciones adecuadas para su funcionamiento.
 
 ###### Artículo 25.
 
@@ -326,9 +344,11 @@ Los ingresos de la Universidad y los bienes de su propiedad gozarán de las exen
 
 En tanto que institución pública del Estado los servicios educativos que la Universidad proporcione a los miembros de su comunidad no generarán obligación alguna de pago.
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 27.
 
-La Universidad elaborará anualmente su proyecto de presupuesto de egresos, atendiendo la previsión de ingresos que la Secretaría de Finanzas del Gobierno del Distrito Federal le comunique y las metas establecidas en su plan de desarrollo.
+La Universidad elaborará anualmente su proyecto de presupuesto de egresos, atendiendo la previsión de ingresos que la Secretaría de Administración y Finanzas del Gobierno de la Ciudad de México le comunique y las metas establecidas en su plan de desarrollo.
 
 ### CAPÍTULO III. DE LAS RELACIONES LABORALES
 
@@ -347,6 +367,24 @@ La Universidad contará con un órgano de control interno denominado Contralorí
 ###### Artículo 30.
 
 La Universidad establecerá sus normas en materia de adquisiciones, bajo los principios de legalidad, transparencia, eficiencia, honradez y utilización óptima de los recursos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2026)</small>
+
+### CAPÍTULO V. DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DE LA CONTRALORÍA INTERNA COMO AUTORIDAD GARANTE
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 31.
+
+La persona titular de la Contraloría Interna de la Universidad Autónoma de la Ciudad de México será integrante, en representación de esta, del Comité del Subsistema de Transparencia de la Ciudad de México, de conformidad con lo dispuesto en el artículo 28 de la Ley de Transparencia para el Acceso y Socialización de la información de la Ciudad de México.
+
+Su participación se ejercerá conforme a la legislación local en la materia y, en lo conducente, dentro de los mecanismos de coordinación previstos en la Ley General de Transparencia y Acceso a la Información Pública, con el objeto de asegurar la articulación institucional y la armonización normativa entre el orden local y el federal.
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 32.
+
+Además de las atribuciones que le corresponden en materia de control interno, la Contraloría Interna ejercerá las funciones que, en el ámbito de su competencia, le correspondan como autoridad garante, conforme a la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México, así como de la normativa aplicable en materia de protección de datos personales, para garantizar el ejercicio del derecho de acceso a la información pública, la privacidad y la protección de datos personales.
 
 ## TRANSITORIOS
 
@@ -445,3 +483,25 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES II, IV Y XV DEL ARTÍCULO 2; UN CAPÍTULO I BIS AL TÍTULO SEGUNDO DEL CONSEJO DE EVALUACIÓN, DENOMINADO “DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DEL ÓRGANO INTERNO DE CONTROL COMO AUTORIDAD GARANTE”, ASÍ COMO LOS ARTÍCULOS 16 BIS Y 16 TER, TODOS DE LA LEY DE EVALUACIÓN DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY DE DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY DE DEFENSORÍA PÚBLICA DE LA CIUDAD DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 1, 2 FRACCIONES II, IV, V, VI, IX, XI Y XIII, 3, 7 FRACCIONES II Y XXIII, 13 FRACCIONES V Y VI, 15, 21 FRACCIÓN IX, 22 FRACCIÓN VI, 23, 24, 33, 35 FRACCIONES VII Y VIII, 38 FRACCIÓN IV, 39, 42 FRACCIONES I Y II, Y 43, 53 FRACCIONES IV, V, VI Y VIII, Y 58 FRACCIONES III, VI Y VII; Y SE ADICIONA LA FRACCIÓN XXIV DEL ARTÍCULO 7, UN SEGUNDO PÁRRAFO AL ARTÍCULO 31, EL ARTÍCULO 31 BIS Y LA FRACCIÓN IX DEL ARTÍCULO 35, TODOS DE LA LEY DE DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 59 DE LA LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO. SE REFORMAN EL ARTÍCULO 2, 4 FRACCIÓN X, 17 FRACCIONES VIII Y X, 22 FRACCIÓN III, 23, 24, Y 27; Y SE ADICIONAN LA FRACCIÓN XIV DEL ARTÍCULO 4, UN CAPÍTULO V, DENOMINADO “DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DE LA CONTRALORÍA INTERNA COMO AUTORIDAD GARANTE”, LOS ARTÍCULOS 31 Y 32, TODOS DE LA LEY DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 3 FRACCIONES XXXIII Y XLIII, 11 FRACCIÓN IV, 20 FRACCIÓN XIX Y 34 FRACCIÓN V DE LA LEY DEL SISTEMA INTEGRAL DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 33 DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 5 FRACCIONES V Y XXXII, Y 27 FRACCIÓN II DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 10 FRACCIÓN V Y 31 FRACCIÓN V DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO. SE ADICIONA LA FRACCIÓN XL BIS DEL ARTÍCULO 2; SE REFORMAN LOS ARTÍCULOS 100 FRACCIÓN VI Y 103 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 6 FRACCIONES VI, LVII Y LXIX, 17 FRACCIÓN XVII, 21 FRACCIÓN VI, 37 FRACCIÓN X Y 45; SE ADICIONAN LA FRACCIÓN XVII BIS DEL ARTÍCULO 6; Y SE DEROGAN LA FRACCIÓN LVIII DEL ARTÍCULO 6, TODOS DE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN IX, 12 FRACCIÓN VI Y 30 DE LA LEY DE CIUDADANÍA DIGITAL DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 39 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MÉXICO. SE ADICIONAN LAS FRACCIONES XVIII BIS Y XVIII TER DEL ARTÍCULO 3; SE REFORMAN LA FRACCIÓN XXIV DEL ARTÍCULO 3 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 123, 124 Y 164 DE LA LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 43 Y 70 FRACCIÓN VII DE LA LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LOS SERVIDORES PÚBLICOS QUE DESIGNA LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LOS TITULARES DE LOS ÓRGANOS POLÍTICO-ADMINISTRATIVOS DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LAS PERSONAS SERVIDORAS PÚBLICAS QUE DESIGNA EL CONGRESO DE LA CIUDAD DE MÉXICO Y DE LAS PERSONAS TITULARES DE LAS ALCALDÍAS DE LA CIUDAD DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 8, 10, 24, 26, 29, 30 Y 31 Y SE DEROGAN LAS FRACCIONES IV DE LOS ARTÍCULOS 2 Y 3 DE LA LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LOS SERVIDORES PÚBLICOS QUE DESIGNA LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LOS TITULARES DE LOS ÓRGANOS POLÍTICO-ADMINISTRATIVOS DEL DISTRITO FEDERAL. SE REFORMAN LOS ARTÍCULOS 5, 16, 22 Y 26 DE LA LEY QUE REGULA EL USO DE TECNOLOGÍA PARA LA SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL, PARA QUEDAR COMO LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA LA CIUDAD DE MÉXICO; Y SE REFORMA EL ARTÍCULO 7 DE LA LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 17 DE LA LEY DEL SISTEMA DE ALERTA SOCIAL DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO, PARA QUEDAR COMO LEY PARA EL DESARROLLO DE LA CIUDAD DE MÉXICO COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO; Y SE REFORMAN LOS ARTÍCULOS 5, 28, 30, 33, 36, 43 Y 44 DE LA LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO. SE MODIFICA LA DENOMINACIÓN DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DE LA CIUDAD DE MÉXICO; SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO XIV, PARA QUEDAR COMO “DE LA TRANSPARENCIA, LA PROTECCIÓN DE DATOS PERSONALES Y LA SEGURIDAD DE LA INFORMACIÓN”; Y SE REFORMAN LOS ARTÍCULOS 74, 75, 76, 77, 78, 79 Y 80 DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las referencias contenidas en leyes, reglamentos, acuerdos, lineamientos, manuales administrativos, disposiciones normativas y demás instrumentos jurídicos al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, o a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, se entenderán hechas a la autoridad competente que corresponda, de conformidad con la distribución de atribuciones prevista en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y demás normativa aplicable.
+
+QUINTO. Las referencias contenidas en los ordenamientos reformados a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México se entenderán realizadas al ordenamiento vigente en la materia, conforme a las disposiciones aplicables.
+
+SEXTO. Los sujetos obligados, dependencias, órganos desconcentrados, entidades, alcaldías, órganos autónomos y demás entes públicos comprendidos en el presente Decreto deberán realizar las adecuaciones administrativas, operativas y normativas necesarias para su cumplimiento, dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugnación, expedientes, registros, actuaciones administrativas y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio, salvo que la norma posterior resulte más favorable para la protección del derecho correspondiente.
+
+OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
