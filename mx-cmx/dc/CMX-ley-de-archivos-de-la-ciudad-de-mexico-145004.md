@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-archivos-de-la-ciudad-de-mexico-145004"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-18"
-last_updated: "2020-11-18"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145004&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-11-13"
 
 LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en el Número 475 de la Gaceta Oficial de la Ciudad de México, el miércoles 18 de noviembre de 2020.
 
@@ -582,9 +582,11 @@ Los documentos que contengan datos personales sensibles, de acuerdo con la norma
 
 El sujeto obligado deberá asegurar que se cumplan los plazos de conservación establecidos en el catálogo de disposición documental y que los mismos no excedan el tiempo que la normatividad especifica que rija las funciones y atribuciones del sujeto obligado, disponga, o en su caso, del uso, consulta accesible y utilidad que tenga su información. En ningún caso el plazo podrá exceder de 25 años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 43.
 
-El Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, de acuerdo con la legislación local y nacional en materia de transparencia y acceso a la información pública, determinará los mecanismos, instrumentos y herramientas para garantizar los derechos de acceso a la información pública y protección de datos personales, asimismo determinar el mecanismo de acceso a un documento con valores históricos, que no haya sido transferido a un archivo histórico y que contenga datos personales sensibles, de manera excepcional en los siguientes casos:
+La persona titular de la Autoridad Garante Local, de acuerdo con la legislación local y nacional en materia de transparencia y acceso a la información pública, determinará los mecanismos, instrumentos y herramientas para garantizar los derechos de acceso a la información pública y protección de datos personales, así como determinar, previa prueba de interés público, el mecanismo de acceso a documentos con valor histórico que no hayan sido transferidos a un archivo histórico y que contengan datos personales sensibles, de manera excepcional en los siguientes casos:
 
 I. Se solicite para una investigación o estudio que se considere relevante para el país, siempre que el mismo no se pueda realizar sin acceso a la información confidencial y el investigador o la persona que realice el estudio quede obligado por escrito a no divulgar la información que contenga datos personales sensibles;
 
@@ -840,7 +842,9 @@ V. Una persona representante del Congreso de la Ciudad de México;
 
 VI. Un representante del Poder Judicial de la Ciudad de México;
 
-VII. Una persona comisionada del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México;
+> <small>(REFORMADA, G.O. 13 DE JULIO DE 2026)</small>
+
+VII. La persona titular de la Autoridad Garante Local.
 
 VIII. La persona titular de la Auditoría Superior de la Ciudad de México;
 
@@ -1429,3 +1433,27 @@ DÉCIMO SEXTO. Todos los sujetos obligados deberán de contar con una plataforma
 Palacio Legislativo del Congreso de la Ciudad de México, a los seis días del mes de octubre del año dos mil veinte.- POR LA MESA DIRECTIVA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, PRESIDENTA.- DIPUTADA DONAJI OFELIA OLIVERA REYES, SECRETARIA.- DIPUTADO HÉCTOR BARRERA MARMOLEJO, SECRETARIO.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; 32 apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21, párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los trece días del mes de noviembre del año dos mil veinte.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- LA ENCARGADA DEL DESPACHO DE LA SECRETARÍA DE CULTURA, MARÍA GUADALUPE LOZADA LEÓN.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, INGRID AURORA GÓMEZ SARACÍBAR.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LARISA ORTIZ QUINTERO.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, NÉSTOR VARGAS SOLANO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO DÉCIMO QUINTO POR EL QUE "SE REFORMAN LOS ARTÍCULOS 43 Y 70 FRACCIÓN VII DE LA LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las referencias contenidas en leyes, reglamentos, acuerdos, lineamientos, manuales administrativos, disposiciones normativas y demás instrumentos jurídicos al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, o a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, se entenderán hechas a la autoridad competente que corresponda, de conformidad con la distribución de atribuciones prevista en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y demás normativa aplicable.
+
+QUINTO. Las referencias contenidas en los ordenamientos reformados a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México se entenderán realizadas al ordenamiento vigente en la materia, conforme a las disposiciones aplicables.
+
+SEXTO. Los sujetos obligados, dependencias, órganos desconcentrados, entidades, alcaldías, órganos autónomos y demás entes públicos comprendidos en el presente Decreto deberán realizar las adecuaciones administrativas, operativas y normativas necesarias para su cumplimiento, dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugnación, expedientes, registros, actuaciones administrativas y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio, salvo que la norma posterior resulte más favorable para la protección del derecho correspondiente.
+
+OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
