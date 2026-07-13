@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-administrativas-del-estado-de-122654"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-01"
-last_updated: "2026-06-29"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 1 de agosto de 2017.
 
@@ -181,13 +181,17 @@ No se considerarán Servidores Públicos los consejeros independientes de los ó
 
 ### CAPÍTULO II. Los Principios y Directrices que Rigen la Actuación de los Servidores Públicos
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 5°.
 
-Todos los entes públicos del Estado y sus municipios están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público.
+Todos los entes públicos del Estado y sus Municipios están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada persona servidora pública, en el marco del respeto a los derechos humanos, la buena administración pública entendida como el deber de actuar con legalidad, eficacia, transparencia, racionalidad y orientación al interés público, así como con perspectiva de género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2026)</small>
 
 ###### Artículo 6°.
 
-Los servidores públicos se sujetarán en el desempeño de su empleo, cargo, comisión o función, a los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público.
+Las Personas Servidoras Públicas observarán en el desempeño de su empleo, cargo, comisión o función, los principios de austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos conforme a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, en los apartados que rigen el servicio público.
 
 Para la efectiva aplicación de dichos principios, los servidores públicos se sujetarán, respetando los derechos humanos, a las siguientes directrices:
 
@@ -2472,5 +2476,13 @@ P.O. 29 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 532.- SE REFORMA LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 549.- SE REFORMA LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
