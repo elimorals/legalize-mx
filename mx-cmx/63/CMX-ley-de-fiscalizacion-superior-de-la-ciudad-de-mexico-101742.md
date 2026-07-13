@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fiscalizacion-superior-de-la-ciudad-de-mexico-101742"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-09"
-last_updated: "2018-11-27"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101742&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-06-09"
 
 LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 9 de julio de 2014.
 
@@ -1220,9 +1220,15 @@ d) El cumplimiento de las decisiones que, de acuerdo a lo dispuesto en su mandat
 
 La Auditoría Superior no intervendrá en ningún momento en la gestión de los sujetos de fiscalización.
 
+> <small>(REFORMADO, G.O. 13 DE JULIO DE 2026)</small>
+
 ###### Artículo 59.
 
-La Auditoría Superior realizará su función fiscalizadora en un marco de transparencia, por lo que la información pública que emita será de manera oportuna, fidedigna, clara y pertinente, sobre su mandato, actividades concluidas, gestión financiera, operaciones y desempeño.
+La Auditoría Superior realizará su función fiscalizadora en un marco de transparencia, máxima publicidad y rendición de cuentas.
+
+La información pública que emita deberá difundirse de manera oportuna, fidedigna, clara, accesible y en formatos abiertos, incluyendo el Programa General de Auditoría, los Informes Individuales, el Informe General Ejecutivo, recomendaciones, acciones promovidas y el seguimiento a las mismas, sin perjuicio de la clasificación de información reservada o confidencial en términos de la legislación aplicable.
+
+La Auditoría Superior implementará mecanismos de transparencia proactiva que fortalezcan el conocimiento ciudadano sobre el ejercicio de la fiscalización superior y el impacto de sus resultados.
 
 > <small>(REFORMADO, G.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1777,3 +1783,25 @@ PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de M
 SEGUNDO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente decreto.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO TERCERO POR EL QUE “SE REFORMA EL ARTÍCULO 59 DE LA LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las referencias contenidas en leyes, reglamentos, acuerdos, lineamientos, manuales administrativos, disposiciones normativas y demás instrumentos jurídicos al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, o a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, se entenderán hechas a la autoridad competente que corresponda, de conformidad con la distribución de atribuciones prevista en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y demás normativa aplicable.
+
+QUINTO. Las referencias contenidas en los ordenamientos reformados a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México se entenderán realizadas al ordenamiento vigente en la materia, conforme a las disposiciones aplicables.
+
+SEXTO. Los sujetos obligados, dependencias, órganos desconcentrados, entidades, alcaldías, órganos autónomos y demás entes públicos comprendidos en el presente Decreto deberán realizar las adecuaciones administrativas, operativas y normativas necesarias para su cumplimiento, dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugnación, expedientes, registros, actuaciones administrativas y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio, salvo que la norma posterior resulte más favorable para la protección del derecho correspondiente.
+
+OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
