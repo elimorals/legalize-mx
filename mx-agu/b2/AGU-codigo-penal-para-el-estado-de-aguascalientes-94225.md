@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2026-07-06"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1031,6 +1031,10 @@ II. Lesiones Dolosas en Riña, previstas en el Artículo 105;
 
 III. Hostigamiento Sexual, prevista en el Artículo 114;
 
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2026)</small>
+
+III. A. Acoso Sexual, previsto en el Artículo 114 Bis;
+
 > <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
 
 IV. Abuso sexual y Abuso sexual Equiparado previstos en el Artículo 115 con excepción del caso previsto en su párrafo quinto;
@@ -1495,29 +1499,23 @@ VII. La conducta se realice en un lugar cerrado o con acceso restringido.
 
 Hostigamiento sexual. El Hostigamiento Sexual consiste en:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2026)</small>
 
-I. El asedio que se haga con fines lascivos, sobre cualquier persona por quien se aproveche de su posición jerárquica, derivada de relaciones laborales, docentes, domésticas o de cualquier otra clase, que implique subordinación de parte de la víctima;
+I. El asedio que se haga con fines lascivos, sobre cualquier persona por quien se aproveche de su posición jerárquica, derivada de relaciones laborales, docentes, domésticas o de cualquier otra clase, que implique subordinación de parte de la víctima; o
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2026)</small>
 
-II. El asedio con fines lascivos, para sí o por tercera persona, a cualquier persona, aprovechándose de cualquier circunstancia de necesidad o de desventaja de la víctima;
+II. El asedio con fines lascivos, para sí o por tercera persona, a cualquier persona, aprovechándose de cualquier circunstancia de necesidad o de desventaja de la víctima.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+III. (DEROGADA, P.O. 13 DE JULIO DE 2026)
 
-III. El asedio que se haga con fines lascivos, sobre cualquier persona en espacios o establecimientos públicos, que afecte o perturben el derecho a la integridad física, psíquica y moral o el derecho al libre tránsito; causándole intimidación, degradación, humillación o un ambiente ofensivo; o
+IV. (DEROGADA, P.O. 13 DE JULIO DE 2026)
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2026)</small>
 
-IV. Captar imágenes o cualquier registro audiovisual del cuerpo de otra persona o de alguna parte de su cuerpo, sin su consentimiento y con un carácter erótico sexual.
+Al responsable de Hostigamiento Sexual se le aplicarán de 1 a 2 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos, cuando la víctima sea menor de 18 años o cuando el responsable tenga o haya tenido una relación de pareja con la víctima.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
-
-Al responsable de Hostigamiento Sexual previsto en las Fracciones I y II del presente Artículo se le aplicarán de 1 a 2 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos, cuando la víctima sea menor de 18 años de edad o cuando el responsable tenga o haya tenido una relación de pareja con la víctima.
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
-
-Al responsable de Hostigamiento Sexual previsto en las Fracciones III y IV se le aplicarán de 6 meses a 1 año 6 meses de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE JULIO DE 2026)</small>
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
@@ -1530,6 +1528,20 @@ Si el hostigador fuese servidor público y utilizare los medios o circunstancias
 > <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
 
 Si el sujeto activo fuese personal docente o administrativo de una institución educativa, pública o privada, y la víctima fuese estudiante de la misma, la pena de prisión se aumentará hasta en una mitad en sus mínimos y máximos. Además de las penas señaladas, se le destituirá del cargo y quedará inhabilitado para desempeñar cualquier empleo, cargo o comisión en el sistema educativo por un periodo de uno a cinco años.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2026)</small>
+
+ARTÍCULO 114 BIS.- Acoso sexual. El Acoso Sexual consiste en:
+
+I. El asedio que se haga con fines lascivos, sobre cualquier persona con la que no exista relación de subordinación de parte de la víctima;
+
+II. El asedio que se haga con fines lascivos, sobre cualquier persona en lugares públicos y/o privados de acceso público, vías y transporte público o transporte de plataformas, que afecte o provoque malestar en la víctima dañando su dignidad e integridad personal; o
+
+III. El asedio que se haga con fines lascivos, sobre cualquier persona, para captar imágenes o cualquier registro audiovisual del cuerpo de otra persona o de alguna parte de su cuerpo, sin su consentimiento y con un carácter erótico sexual.
+
+Al responsable de Acoso Sexual previsto se le aplicarán de 6 meses a 2 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+La pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos, cuando la víctima sea menor de 18 años de edad o cuando el responsable tenga o haya tenido una relación de pareja con la víctima.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2026)</small>
 
@@ -1591,25 +1603,33 @@ III. La venta o suministro que de cualquier forma se haga a personas menores de 
 
 IV. Emplear, directa o indirectamente, a personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho o resistirlo, para que presten servicios en cantinas, tabernas, bares, establecimientos donde otras personas practiquen la prostitución o en cualquier lugar nocivo donde se afecte de forma negativa su sano desarrollo físico, mental o emocional. Se considerará que se emplea a las personas descritas en la presente Fracción cuando preste sus servicios por un salario, comida, comisión de cualquier tipo, estipendio, gaje o emolumento, o bien gratuitamente;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2026)</small>
 
-V. Obligar, inducir, facilitar, procurar o emplear directa o indirectamente, a personas menores de 18 años de edad, o personas que no tengan capacidad para comprender el significado del hecho o resistirlo, para formar parte de una asociación delictuosa, para los efectos de esta fracción, se entenderá como asociación delictuosa lo previsto en el artículo 178 D, de este Código; o
+V. Obligar, inducir, facilitar, procurar o emplear directa o indirectamente, a personas menores de 18 años de edad, o personas que no tengan capacidad para comprender el significado del hecho o resistirlo, para formar parte de una asociación delictuosa, para los efectos de esta fracción, se entenderá como asociación delictuosa lo previsto en el artículo 178 D, de este Código;
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2026)</small>
 
-VI . Inducir, incitar, facilitar, permitir o tolerar que una persona menor de dieciocho años de edad o una persona que no tenga capacidad para comprender el significado del hecho o resistirlo utilice máquinas de juegos de azar o dispositivos electrónicos de apuesta cuyo funcionamiento dependa predominantemente del azar y no de la destreza o habilidad del usuario, en los que se ofrezca o permita la obtención de un beneficio económico directo en dinero.
+VI. Inducir, incitar, facilitar, permitir o tolerar que una persona menor de dieciocho años de edad o una persona que no tenga capacidad para comprender el significado del hecho o resistirlo utilice máquinas de juegos de azar o dispositivos electrónicos de apuesta cuyo funcionamiento dependa predominantemente del azar y no de la destreza o habilidad del usuario, en los que se ofrezca o permita la obtención de un beneficio económico directo en dinero; o
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2026)</small>
+
+VII. Contactar a una persona menor de dieciocho años de edad o a persona que no tenga capacidad para comprender el significado del hecho o resistirlo, a través de internet, sistemas informáticos, redes sociales o cualquier tecnología de la información y comunicación, con la finalidad de concertar un encuentro físico para realizar cualquiera de las conductas descritas en las fracciones anteriores o actos de naturaleza sexual.
 
 Para los efectos de este Artículo, por exhibicionismo corporal se entenderá mostrar la vagina, pene, senos, glúteos o ano.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2026)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2026)</small>
 
-Al responsable de Corrupción de Menores e incapaces descrita en las Fracciones I, II, III y V se aplicarán de 6 a 14 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Tratándose de las Fracciones IV y VI al responsable se le aplicaran de 3 a 5 años de prisión, de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable de Corrupción de Menores e incapaces descrita en las Fracciones I, II, III, V y VII se aplicarán de 6 a 14 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Tratándose de las Fracciones IV y VI al responsable se le aplicarán de 3 a 5 años de prisión, de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 Las punibilidades descritas en el párrafo anterior se duplicarán cuando el inculpado sea ascendiente, padrastro, o madrastra de la víctima, o cuando el inculpado habite en el mismo domicilio de la víctima, y se aplicará como pena la privación de los derechos de familia que el inculpado tenga en relación con la víctima.
 
 Si el inculpado labora en organizaciones dedicadas al cuidado o atención de menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, también se le aplicará como pena la privación del cargo, empleo o comisión que ahí desempeñe.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2026)</small>
+
+Cuando la conducta descrita en la fracción VII se realice mediante el uso de una identidad falsa o simulada para ganar la confianza de la víctima, la punibilidad se aumentará hasta en una mitad. Las sanciones previstas en esta fracción se aplicarán sin perjuicio de las penas que correspondan por los otros delitos que resulten cometidos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
@@ -1736,6 +1756,14 @@ El pago de los alimentos se hará en la forma y términos que la ley civil fije 
 ###### ARTÍCULO 122.
 
 (DEROGADO, P.O. 2 DE FEBRERO DE 2015)
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2026)</small>
+
+ARTÍCULO 122 BIS.- Comete el delito de cohabitación forzada de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien obligue, coaccione, induzca, solicite, gestione, se beneficie de esta, oferte a una o varias de estas personas a unirse informal o consuetudinariamente, con o sin su consentimiento, con ella o con otra persona de su misma condición o con persona mayor de dieciocho años de edad, con el fin de convivir en forma constante y equiparable a la de un matrimonio.
+
+Al responsable de este delito se le impondrá pena de ocho a quince años de prisión y de mil a dos mil quinientos días multa.
+
+La pena prevista en el párrafo anterior se aumentará hasta en una mitad, en su mínimo y en su máximo, si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana, o si se encontrare en situación de migración o refugiada.
 
 ###### ARTÍCULO 123.
 
@@ -2051,7 +2079,9 @@ III. Los que estén ligados con las personas por amor, respeto, gratitud o estre
 
 Si la amenaza fuera dirigida a una persona integrante de un Órgano jurisdiccional, asesor jurídico, defensor, Ministerio Público, ofendido, víctima o testigo, intervinientes en un procedimiento penal, con el propósito de que no concurran a las audiencias o de incidir en ellos evitando que se conduzcan con verdad, u oculten hechos, circunstancias o cualquier otra información que sea relevante para la solución de la controversia motivo del procedimiento en el que intervienen, se impondrán de tres a siete años de prisión, de 200 a 400 días multa y a la reparación total de los daños y perjuicios ocasionados.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2026)</small>
+
+Cuando la amenaza sea realizada por algún estudiante de alguna institución educativa pública o privada, o por sus ascendientes o descendientes consanguíneos o quien ejerza la patria potestad o tutela, y la víctima sea personal docente, directivo o administrativo de la misma institución, con el propósito de intimidarlo o coaccionarlo en el ejercicio de sus funciones o como represalia por las mismas, se impondrán de uno a tres años de prisión, de 100 a 200 días multa y a la reparación total de los daños y perjuicios ocasionados.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2023)</small>
 
@@ -2851,13 +2881,27 @@ III. Hacer aparecer a un no autor, partícipe o cómplice, como inculpado de un 
 
 IV. Sin motivo justificado oculte su domicilio o de cualquier forma señale o utilice uno inexistente, o el de otra persona sin su autorización, y obtenga con ello documentación oficial o de cualquier índole en original, o copia, aún y cuando se utilice su propio nombre o el de una persona diversa, real o inexistente;
 
-V. Oculte su nombre; o apellidos, o ambos y de cualquier forma tome o utilice otro imaginario, o el de otra persona, y obtenga con ello documentación oficial o de cualquier índole en original o copia, para sí o para terceros.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2026)</small>
+
+V. Oculte su nombre; o apellidos, o ambos y de cualquier forma tome o utilice otro imaginario, o el de otra persona, y obtenga con ello documentación oficial o de cualquier índole en original o copia, para sí o para terceros; o
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2026)</small>
+
+VI. Quien utilice, promueva o induzca a una persona menor de edad para la comisión de esta conducta.
 
 En todo caso se entenderá por obtención, además de la expedición por parte de la autoridad o del particular, la posesión, tenencia o portación del documento o copia de que se trate por parte del inculpado.
 
 Al responsable de Falsedad ante la Autoridad o Fedatario Público se le aplicarán de 3 a 5 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, para el caso de las Fracciones IV y V la pena se incrementará hasta en un tercio de los mínimos y máximos señalados para las demás Fracciones.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2026)</small>
+
+Las penas previstas en el párrafo anterior se aumentarán hasta en una mitad en sus mínimos y máximos cuando la conducta la cometa algún estudiante de alguna institución educativa pública o privada, o por sus ascendientes o quien ejerza la patria potestad o tutela, en contra de personal docente, directivo o administrativo de la misma institución con motivo del ejercicio de sus funciones.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 13 DE JULIO DE 2026)</small>
+
 Si el inculpado se retracta oportunamente de sus falsas declaraciones antes de que se pronuncie sentencia, solo se le aplicarán de 3 meses a 2 años de prisión y de 10 a 50 días multa.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE JULIO DE 2026)</small>
 
 No podrá ser responsable de Falsedad ante la Autoridad quien tenga el carácter de indiciado, procesado, inculpado o imputado en un procedimiento penal.
 
@@ -3689,7 +3733,19 @@ En caso de reincidencia o si la persona que realiza el acoso es superior jerárq
 
 ARTÍCULO 192 B.- Asedio por medios digitales. Comete el delito de asedio por medios digitales quien, sirviéndose de las tecnologías de la información y la comunicación, acose, hostigue, amenace o presione de manera persistente o reiterada a otro, con el propósito de menoscabar su dignidad, provocar miedo o afectar la imagen pública o social de la víctima, mediante el empleo de mensajes o videograbaciones, imágenes, o cualquier otro mecanismo de comunicación proporcionado por el entorno digital.
 
-Al responsable del delito de asedio por medios digitales se le impondrá pena de prisión entre uno y dos años de prisión; y de cien a doscientos días de multa. La sanción se podrá incrementar hasta un medio en sus mínimos y máximos cuando la víctima sea mujer, menor de edad, o el tipo penal se cometa por razones de género u orientación sexual.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2026)</small>
+
+Al responsable del delito de asedio por medios digitales se le impondrá pena de prisión entre uno y dos años de prisión; y de cien a doscientos días de multa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JULIO DE 2026)</small>
+
+La sanción se podrá incrementar en una mitad en cuanto a su mínimo y máximo cuando la víctima sea mujer, menor de edad, o el tipo penal se cometa por razones de género u orientación sexual.
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2026)</small>
+
+La sanción también se podrá incrementar en una mitad en cuanto a su mínimo y máximo cuando la conducta la cometa algún estudiante de alguna institución educativa pública o privada, o por sus ascendientes o quien ejerza la patria potestad o tutela, en contra de personal docente, directivo o administrativo de la misma institución con motivo del ejercicio de sus funciones.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE JULIO DE 2026)</small>
 
 Este delito solo se perseguirá por querella.
 
@@ -5194,3 +5250,47 @@ P.O. 6 DE JULIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 548.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 551.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES; Y, LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Autoridad Educativa del Estado dispondrá de un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor de (sic) presente Decreto, para actualizar o, en su caso, expedir los protocolos de actuación o demás normatividad para su cumplimiento.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 552.- SE ADICIONA EL ARTÍCULO 122 BIS AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 553.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con anterioridad a la entrada en vigor del presente Decreto, por las conductas tipificadas en las fracciones III y IV del artículo 114 que por virtud de este instrumento se derogan, seguirán tramitándose hasta su conclusión conforme a las disposiciones normativas vigentes al momento de la comisión de los hechos, salvaguardando en todo momento el principio de aplicación de la ley más favorable al inculpado.
