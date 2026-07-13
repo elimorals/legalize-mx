@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-evaluacion-de-la-ciudad-de-mexico-149748"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-09"
-last_updated: "2021-06-09"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149748&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-07"
 
 LEY DE EVALUACIÓN DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
 
 Ley publicada en el No. 614 de la Gaceta Oficial de la Ciudad de México, el miércoles 9 de junio de 2021.
 
@@ -64,33 +64,45 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Administración Pública: Conjunto de dependencias, órganos y entidades que componen la Administración Pública Centralizada y la Paraestatal de la Ciudad de México;
 
-II. Alcaldías: Órganos político administrativos de cada una de las demarcaciones territoriales en que se divide la Ciudad de México;
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
 
-III. Comités de Evaluación: Comités encargados de las evaluaciones y, en su caso, de elaborar recomendaciones;
+II. Autoridades Garantes: autoridad garante local; el Órgano de Administración Judicial; los órganos internos de control o equivalentes de los órganos constitucionales autónomos y la contraloría interna del Congreso de la Ciudad de México;
 
-IV. Congreso: Congreso de la Ciudad de México;
+III. Alcaldías: Órganos político administrativos de cada una de las demarcaciones territoriales en que se divide la Ciudad de México;
 
-V. Constitución: Constitución Política de la Ciudad de México;
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
 
-VI. Consejo: Consejo de Evaluación de la Ciudad de México;
+IV. Comité del Subsistema de Transparencia: Es el Órgano Colegiado integrado de conformidad con el artículo 32 de la Ley General de Transparencia y Acceso a la Información Pública y cuyas funciones están señaladas en el artículo 28 de la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad;
 
-VII. Consejo Ciudadano: Grupo de carácter honorifico conformado por personas, encargado de proponer al Congreso de la Ciudad de México las ternas para integrar el Consejo;
+V. Comités de Evaluación: Comités encargados de las evaluaciones y, en su caso, de elaborar recomendaciones;
 
-VIII. Personas Consejeras: Consejeras y Consejeros integrantes del Consejo de Evaluación de la Ciudad de México;
+VI. Congreso: Congreso de la Ciudad de México;
 
-IX. Ciudad: Ciudad de México;
+VII. Constitución: Constitución Política de la Ciudad de México;
 
-X. Estatuto: Estatuto Orgánico del Consejo de Evaluación de la Ciudad de México;
+VIII. Consejo: Consejo de Evaluación de la Ciudad de México;
 
-XI. Instituto de Planeación: Instituto de Planeación Democrática y Prospectiva de la Ciudad de México;
+IX. Consejo Ciudadano: Grupo de carácter honorifico conformado por personas, encargado de proponer al Congreso de la Ciudad de México las ternas para integrar el Consejo;
 
-XII. Ley: Ley de Evaluación de la Ciudad de México;
+X. Personas Consejeras: Consejeras y Consejeros integrantes del Consejo de Evaluación de la Ciudad de México;
 
-XIII. Contraloría: Secretaría de la Contraloría General de la Ciudad de México;
+XI. Ciudad: Ciudad de México;
 
-XIV. Sistema de Derechos Humanos: Sistema Integral de Derechos Humanos en la Ciudad de México, y
+XII. Estatuto: Estatuto Orgánico del Consejo de Evaluación de la Ciudad de México;
 
-XV. Sistema de Planeación: Sistema de Planeación del Desarrollo de la Ciudad de México.
+XIII. Instituto de Planeación: Instituto de Planeación Democrática y Prospectiva de la Ciudad de México;
+
+XIV. Ley: Ley de Evaluación de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 13 DE JULIO DE 2026)</small>
+
+XV. Ley de Transparencia: Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México;
+
+XVI. Contraloría: Secretaría de la Contraloría General de la Ciudad de México;
+
+XVII. Sistema de Derechos Humanos: Sistema Integral de Derechos Humanos en la Ciudad de México, y
+
+XVIII. Sistema de Planeación: Sistema de Planeación del Desarrollo de la Ciudad de México.
 
 ###### Artículo 3.
 
@@ -304,9 +316,25 @@ La organización y estructura de estas Unidades serán establecidas en el Estatu
 
 El Consejo contará con un Órgano Interno de Control, adscrito al Sistema Local Anticorrupción y su personal se sujetará al régimen de Responsabilidades de las Personas Servidoras Públicas en los términos previstos en la Constitución y las Leyes.
 
-### CAPÍTULO II. DE LA INTEGRACIÓN, ORGANIZACIÓN, DESIGNACIÓN Y ATRIBUCIONES DEL CONSEJO CIUDADANO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2026)</small>
 
-### CAPÍTULO III. DE LA ORGANIZACIÓN, DESIGNACIÓN Y ATRIBUCIONES DE LOS COMITÉS DE EVALUACIÓN
+### CAPÍTULO I BIS. DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DEL ÓRGANO INTERNO DE CONTROL COMO AUTORIDAD GARANTE
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 16 Bis.
+
+La persona titular del Órgano Interno de Control será integrante, en representación del Consejo de Evaluación, del Comité del Subsistema de Transparencia de la Ciudad de México, de conformidad con lo dispuesto en el artículo 28 de la Ley de Transparencia para el Acceso y Socialización de la información de la Ciudad de México.
+
+Su participación se ejercerá conforme a la legislación local en la materia y, en lo conducente, dentro de los mecanismos de coordinación previstos en la Ley General de Transparencia y Acceso a la Información Pública, con el objeto de asegurar la articulación institucional y la armonización normativa entre el orden local y el federal.
+
+> <small>(ADICIONADO, G.O. 13 DE JULIO DE 2026)</small>
+
+###### Artículo 16 Ter.
+
+Además de las atribuciones que le corresponden en materia de control interno, el Órgano Interno de Control ejercerá las funciones que, en el ámbito de su competencia, le correspondan como autoridad garante, conforme a la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México, así como de la normativa aplicable en materia de protección de datos personales, para garantizar el ejercicio del derecho de acceso a la información pública, la privacidad y la protección de datos personales.
+
+### CAPÍTULO II. DE LA INTEGRACIÓN, ORGANIZACIÓN, DESIGNACIÓN Y ATRIBUCIONES DEL CONSEJO CIUDADANO
 
 ###### Artículo 17.
 
@@ -340,7 +368,7 @@ En el proceso de selección de las personas integrantes del Consejo se establece
 
 Si alguna persona consejera cesa anticipadamente en su encargo por deceso, renuncia o cualquier situación no prevista en esta Ley, el Consejo Ciudadano emitirá convocatoria pública para integrar los encargos y plazos vacantes, de acuerdo con el procedimiento previsto para las designaciones.
 
-### CAPÍTULO IV. DEL PATRIMONIO, PRESUPUESTO Y RÉGIMEN LABORAL DEL CONSEJO
+### CAPÍTULO III. DE LA ORGANIZACIÓN, DESIGNACIÓN Y ATRIBUCIONES DE LOS COMITÉS DE EVALUACIÓN
 
 ###### Artículo 23.
 
@@ -350,7 +378,7 @@ Los Comités de Evaluación son los encargados de evaluar las políticas, progra
 
 La integración de los Comités será de, por lo menos, dos personas consejeras y una tercera persona experta en la materia, su funcionamiento será regulado por el Estatuto Orgánico que emita el Consejo.
 
-### CAPÍTULO I. DE LA EVALUACIÓN EXTERNA
+### CAPÍTULO IV. DEL PATRIMONIO, PRESUPUESTO Y RÉGIMEN LABORAL DEL CONSEJO
 
 ###### Artículo 25.
 
@@ -372,7 +400,7 @@ En ningún caso, el personal del Consejo y las personas consejeras podrán perci
 
 ## TÍTULO TERCERO. DEL PROCESO DE EVALUACIÓN Y DE LAS RECOMENDACIONES
 
-### CAPÍTULO II. DE LAS OBSERVACIONES Y RECOMENDACIONES
+### CAPÍTULO I. DE LA EVALUACIÓN EXTERNA
 
 ###### Artículo 27.
 
@@ -388,7 +416,7 @@ IV. Dar seguimiento y analizar el impacto de las políticas, los programas, los 
 
 V. Generar opiniones que serán consideradas en el proceso presupuestario e incidirán en la orientación del gasto público.
 
-### CAPÍTULO I. DE LA PARTICIPACIÓN Y CARÁCTER PÚBLICO DE LAS METODOLOGÍAS Y PRODUCTOS
+### CAPÍTULO II. DE LAS OBSERVACIONES Y RECOMENDACIONES
 
 ###### Artículo 28.
 
@@ -488,7 +516,7 @@ Para la medición en el avance del desarrollo económico, social, urbano y rural
 
 ## TÍTULO QUINTO. DE LOS MECANISMOS DE PARTICIPACIÓN Y COORDINACIÓN INTERINSTITUCIONAL
 
-### CAPÍTULO II. DE LAS OBLIGACIONES DE COLABORACIÓN DE LAS AUTORIDADES Y PERSONAS SERVIDORAS PÚBLICAS
+### CAPÍTULO I. DE LA PARTICIPACIÓN Y CARÁCTER PÚBLICO DE LAS METODOLOGÍAS Y PRODUCTOS
 
 ###### Artículo 43.
 
@@ -502,11 +530,13 @@ En la realización de sus funciones, el Consejo fomentará la participación de 
 
 En la realización de sus funciones, el Consejo fomentará la participación de la ciudadanía y personas interesadas en la evaluación de las políticas públicas, en los términos establecidos en la Ley de Participación ciudadana de la Ciudad de México.
 
-### CAPÍTULO III. DE LAS SANCIONES
+### CAPÍTULO II. DE LAS OBLIGACIONES DE COLABORACIÓN DE LAS AUTORIDADES Y PERSONAS SERVIDORAS PÚBLICAS
 
 ###### Artículo 46.
 
 Con base en lo establecido en esta Ley, los entes de la Administración Pública y las Alcaldías están obligados a proporcionar la información que en el ámbito de sus atribuciones les solicite el Consejo, en los plazos y términos establecidos.
+
+### CAPÍTULO III. DE LAS SANCIONES
 
 ###### Artículo 47.
 
@@ -549,3 +579,27 @@ UNDÉCIMO. Una vez que entre en vigor el presente Decreto, el Consejo continuar�
 Palacio Legislativo del Congreso de la Ciudad de México, a los veintisiete días del mes de mayo del año dos mil veintiuno. POR LA MESA DIRECTIVA, DIPUTADA ANA PATRICIA BAEZ GUERRERO, PRESIDENTA, DIPUTADA DONAJI OFELIA OLIVERA REYES, SECRETARÍA, DIPUTADO PABLO MONTES DE OCA DEL OLMO, SECRETARIO (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los siete días del mes de junio del año dos mil veintiuno.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ALFONSO SUÁREZ DEL REAL Y AGUILERA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- LA SECRETARIA DE CULTURA, VANNESA BOHÓRQUEZ LÓPEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, CARLOS ALBERTO ULLOA PÉREZ.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, INGRID AURORA GÓMEZ SARACÍBAR.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LAURA ITA ANDEHUI RUIZ MONDRAGÓN.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- EL SECRETARIO DE TURISMO, CARLOS MACKINLAY GROHMANN.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, NÉSTOR VARGAS SOLANO.- FIRMA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE ADICIONAN LAS FRACCIONES II, IV Y XV DEL ARTÍCULO 2; UN CAPÍTULO I BIS AL TÍTULO SEGUNDO DEL CONSEJO DE EVALUACIÓN, DENOMINADO “DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DEL ÓRGANO INTERNO DE CONTROL COMO AUTORIDAD GARANTE”, ASÍ COMO LOS ARTÍCULOS 16 BIS Y 16 TER, TODOS DE LA LEY DE EVALUACIÓN DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY DE DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY DE DEFENSORÍA PÚBLICA DE LA CIUDAD DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 1, 2 FRACCIONES II, IV, V, VI, IX, XI Y XIII, 3, 7 FRACCIONES II Y XXIII, 13 FRACCIONES V Y VI, 15, 21 FRACCIÓN IX, 22 FRACCIÓN VI, 23, 24, 33, 35 FRACCIONES VII Y VIII, 38 FRACCIÓN IV, 39, 42 FRACCIONES I Y II, Y 43, 53 FRACCIONES IV, V, VI Y VIII, Y 58 FRACCIONES III, VI Y VII; Y SE ADICIONA LA FRACCIÓN XXIV DEL ARTÍCULO 7, UN SEGUNDO PÁRRAFO AL ARTÍCULO 31, EL ARTÍCULO 31 BIS Y LA FRACCIÓN IX DEL ARTÍCULO 35, TODOS DE LA LEY DE DEFENSORÍA PÚBLICA DEL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 59 DE LA LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO. SE REFORMAN EL ARTÍCULO 2, 4 FRACCIÓN X, 17 FRACCIONES VIII Y X, 22 FRACCIÓN III, 23, 24, Y 27; Y SE ADICIONAN LA FRACCIÓN XIV DEL ARTÍCULO 4, UN CAPÍTULO V, DENOMINADO “DE LA INTEGRACIÓN AL COMITÉ DEL SUBSISTEMA DE TRANSPARENCIA DE LA CIUDAD DE MÉXICO Y DE LAS FUNCIONES DE LA CONTRALORÍA INTERNA COMO AUTORIDAD GARANTE”, LOS ARTÍCULOS 31 Y 32, TODOS DE LA LEY DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 3 FRACCIONES XXXIII Y XLIII, 11 FRACCIÓN IV, 20 FRACCIÓN XIX Y 34 FRACCIÓN V DE LA LEY DEL SISTEMA INTEGRAL DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 33 DE LA LEY PROCESAL ELECTORAL DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 5 FRACCIONES V Y XXXII, Y 27 FRACCIÓN II DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 10 FRACCIÓN V Y 31 FRACCIÓN V DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO. SE ADICIONA LA FRACCIÓN XL BIS DEL ARTÍCULO 2; SE REFORMAN LOS ARTÍCULOS 100 FRACCIÓN VI Y 103 DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 6 FRACCIONES VI, LVII Y LXIX, 17 FRACCIÓN XVII, 21 FRACCIÓN VI, 37 FRACCIÓN X Y 45; SE ADICIONAN LA FRACCIÓN XVII BIS DEL ARTÍCULO 6; Y SE DEROGAN LA FRACCIÓN LVIII DEL ARTÍCULO 6, TODOS DE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN IX, 12 FRACCIÓN VI Y 30 DE LA LEY DE CIUDADANÍA DIGITAL DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 39 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO DE LA CIUDAD DE MÉXICO. SE ADICIONAN LAS FRACCIONES XVIII BIS Y XVIII TER DEL ARTÍCULO 3; SE REFORMAN LA FRACCIÓN XXIV DEL ARTÍCULO 3 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 123, 124 Y 164 DE LA LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 43 Y 70 FRACCIÓN VII DE LA LEY DE ARCHIVOS DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LOS SERVIDORES PÚBLICOS QUE DESIGNA LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LOS TITULARES DE LOS ÓRGANOS POLÍTICO-ADMINISTRATIVOS DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LAS PERSONAS SERVIDORAS PÚBLICAS QUE DESIGNA EL CONGRESO DE LA CIUDAD DE MÉXICO Y DE LAS PERSONAS TITULARES DE LAS ALCALDÍAS DE LA CIUDAD DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 8, 10, 24, 26, 29, 30 Y 31 Y SE DEROGAN LAS FRACCIONES IV DE LOS ARTÍCULOS 2 Y 3 DE LA LEY QUE ESTABLECE EL PROCEDIMIENTO DE REMOCIÓN DE LOS SERVIDORES PÚBLICOS QUE DESIGNA LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL Y DE LOS TITULARES DE LOS ÓRGANOS POLÍTICO-ADMINISTRATIVOS DEL DISTRITO FEDERAL. SE REFORMAN LOS ARTÍCULOS 5, 16, 22 Y 26 DE LA LEY QUE REGULA EL USO DE TECNOLOGÍA PARA LA SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL, PARA QUEDAR COMO LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA LA CIUDAD DE MÉXICO; Y SE REFORMA EL ARTÍCULO 7 DE LA LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL. SE REFORMA EL ARTÍCULO 17 DE LA LEY DEL SISTEMA DE ALERTA SOCIAL DE LA CIUDAD DE MÉXICO. SE MODIFICA LA DENOMINACIÓN DE LA LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO, PARA QUEDAR COMO LEY PARA EL DESARROLLO DE LA CIUDAD DE MÉXICO COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO; Y SE REFORMAN LOS ARTÍCULOS 5, 28, 30, 33, 36, 43 Y 44 DE LA LEY PARA EL DESARROLLO DEL DISTRITO FEDERAL COMO CIUDAD DIGITAL Y DEL CONOCIMIENTO. SE MODIFICA LA DENOMINACIÓN DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL, PARA QUEDAR COMO LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DE LA CIUDAD DE MÉXICO; SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO XIV, PARA QUEDAR COMO “DE LA TRANSPARENCIA, LA PROTECCIÓN DE DATOS PERSONALES Y LA SEGURIDAD DE LA INFORMACIÓN”; Y SE REFORMAN LOS ARTÍCULOS 74, 75, 76, 77, 78, 79 Y 80 DE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las referencias contenidas en leyes, reglamentos, acuerdos, lineamientos, manuales administrativos, disposiciones normativas y demás instrumentos jurídicos al Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, o a la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, se entenderán hechas a la autoridad competente que corresponda, de conformidad con la distribución de atribuciones prevista en la Ley de Transparencia para el Acceso y Socialización de la Información de la Ciudad de México y demás normativa aplicable.
+
+QUINTO. Las referencias contenidas en los ordenamientos reformados a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México se entenderán realizadas al ordenamiento vigente en la materia, conforme a las disposiciones aplicables.
+
+SEXTO. Los sujetos obligados, dependencias, órganos desconcentrados, entidades, alcaldías, órganos autónomos y demás entes públicos comprendidos en el presente Decreto deberán realizar las adecuaciones administrativas, operativas y normativas necesarias para su cumplimiento, dentro de un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor.
+
+SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugnación, expedientes, registros, actuaciones administrativas y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a las disposiciones vigentes al momento de su inicio, salvo que la norma posterior resulte más favorable para la protección del derecho correspondiente.
+
+OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
