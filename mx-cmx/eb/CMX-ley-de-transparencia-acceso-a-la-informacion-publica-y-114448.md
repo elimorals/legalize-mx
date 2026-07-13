@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transparencia-acceso-a-la-informacion-publica-y-114448"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-06"
-last_updated: "2024-11-29"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114448&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2016-05-06"
 ---
 # LEY DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y RENDICION DE CUENTAS DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY DE TRANSPARENCIA PARA EL ACCESO Y SOCIALIZACIÓN DE LA INFORMACIÓN DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 13 DE JULIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026 (ABROGADA).
 
 Ley publicada en el No. Bis de la Gaceta Oficial de la Ciudad de México, el viernes 6 de mayo de 2016.
 
@@ -3861,3 +3863,41 @@ G.O. 29 DE NOVIEMBRE DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
+
+G.O. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE TRANSPARENCIA PARA EL ACCESO Y SOCIALIZACIÓN DE LA INFORMACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, con excepción de lo previsto en el Transitorio quinto del mismo.
+
+CUARTO.- Con la entrada en vigor del presente Decreto se abroga la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
+
+QUINTO.- Las normas relativas a las funciones encomendadas al Órgano Desconcentrado de la Secretaría de la Contraloría General de la Ciudad de México a que se refiere el presente Decreto entrarán en vigor una vez que comience su funcionamiento, por lo que, a partir de ese momento, se entenderán formalmente extintas las funciones del ente público que ejercía atribuciones en materia de transparencia, acceso a la información pública en la Ciudad de México.
+
+SEXTO.- El Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México deberá transferir, en un plazo máximo de 180 (sic) hábiles contados a partir de la creación del órgano desconcentrado de la Secretaría de la Contraloría General conforme al presente Decreto, la totalidad de sus bienes muebles, recursos materiales, registros, plataformas tecnológicas, sistemas electrónicos, bases de datos, acervos documentales, archivísticos y demás información bajo su resguardo al órgano desconcentrado que se constituya conforme al presente Decreto, garantizando en todo momento su integridad, autenticidad, disponibilidad, trazabilidad y confidencialidad.
+
+SÉPTIMO.- Los recursos presupuestarios y financieros del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México deberán ser transferidos al órgano desconcentrado de la Secretaría de la Contraloría General que se constituya conforme al presente Decreto a través de los mecanismos que determine la Secretaría de Administración y Finanzas, dentro de los 180 días hábiles siguientes a la creación de dicho órgano desconcentrado de conformidad con las disposiciones jurídicas aplicables, y bajo los principios de legalidad, eficiencia, economía, control y transparencia.
+
+OCTAVO.- El Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México deberá entregar al órgano desconcentrado de la Secretaría de la Contraloría General que se constituya conforme al presente Decreto toda la información contable, financiera, programática y presupuestaria necesaria para la integración de la Cuenta Pública, informes trimestrales y demás obligaciones en materia hacendaria, conforme a las disposiciones aplicables.
+
+NOVENO.- El Órgano Interno de Control del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México se integrará a la estructura de la Secretaría de la Contraloría General de la Ciudad de México, debiendo transferirse los asuntos, expedientes y procedimientos en trámite dentro de un plazo máximo de 180 días hábiles a partir de la entrada en vigor de este Decreto.
+
+DÉCIMO.- Los instrumentos jurídicos, convenios, contratos y demás actos vigentes celebrados por el Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México continuarán vigentes y serán asumidos por el órgano desconcentrado de la Secretaría de la Contraloría General que se constituya conforme al presente Decreto.
+
+DÉCIMO PRIMERO.- Los recursos humanos del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México serán transferidos al órgano desconcentrado de la Secretaría de la Contraloría General que se constituya conforme al presente Decreto, respetando en todo momento los derechos laborales adquiridos, conforme a la legislación aplicable.
+
+DÉCIMO SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
+
+DÉCIMO TERCERO.- Las funciones, servicios y procedimientos en materia de transparencia, acceso a la información pública no podrán suspenderse ni interrumpirse con motivo de la entrada en vigor del presente Decreto. Las autoridades garantes competentes deberán garantizar en todo momento la continuidad operativa y el ejercicio efectivo de los derechos de las personas.
+
+DÉCIMO CUARTO.- Los expedientes, archivos, registros y acervos documentales del Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México deberán transferirse al órgano desconcentrado de la Secretaría de la Contraloría a más tardar dentro de los 180 días hábiles siguientes a la entrada en vigor del presente Decreto, por lo que la suspensión de plazos a que se refiere el Transitorio Sexto del Decreto por el que se adiciona el numeral 5 del apartado e) del artículo 7; se derogan el inciso d) del apartado a) del artículo 46; y el artículo 49; y se reforma el numeral 2 del artículo 63, todos de la Constitución Política de la Ciudad de México, publicado en la Gaceta Oficial el 19 de diciembre de 2025, se mantendrá vigente durante ese periodo.
+
+DÉCIMO QUINTO.- La defensa legal ante autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México en materia de derecho a la información o cualquier otra distinta a las mencionadas, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales y laborales, se llevará a cabo por la Secretaría de la Contraloría General de la Ciudad de México, a través de su órgano desconcentrado en materia de transparencia, acceso a la información y protección de datos personales hasta que éste entre en funciones.
+
+DÉCIMO SEXTO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, se sustanciarán ante la Secretaría de la Contraloría General de la Ciudad de México por medio de su órgano desconcentrado, conforme a la normatividad vigente al momento en que éste entre en funciones.
+
+DÉCIMO SÉPTIMO.- Con la entrada en vigor del presente Decreto se derogan todas aquellas disposiciones que contravengan al mismo.
