@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-4-2015-del-presidente-de-1096
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-08-31"
-last_updated: "2019-06-25"
+last_updated: "2026-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109615&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-08-27"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION 4/2015 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE ALINEAN LAS ESTRUCTURAS ADMINISTRATIVAS Y FUNCIONALES DEL ALTO TRIBUNAL A LAS DISPOSICIONES DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO FRACCIÓN IV DEL ACUERDO GENERAL NORMATIVO NÚMERO 1/2026 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTISIETE DE MAYO DE DOS MIL VEINTISÉIS, QUE ESTABLECE DISPOSICIONES EN MATERIAS DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 13 DE JULIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN 4/2015 DEL VEINTISÉIS DE AGOSTO DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE ALINEAN LAS ESTRUCTURAS ADMINISTRATIVAS Y FUNCIONALES DEL ALTO TRIBUNAL A LAS DISPOSICIONES DE LA LEY GENERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JULIO DE 2026 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 31 de agosto de 2015.
 
@@ -158,3 +160,41 @@ PRIMERO. El presente Acuerdo General entrará en vigor el día de su expedición
 SEGUNDO. Se derogan todas las disposiciones jurídicas que se opongan a lo previsto en el presente Acuerdo General de Administración.
 
 TERCERO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación, sin menoscabo de que la Dirección General de Asuntos Jurídicos difunda el texto íntegro actualizado de los Acuerdos Generales de Administración 4/2015 y 5/2015 en esos medios electrónicos. CÚMPLASE.
+
+D.O.F. 13 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NORMATIVO NÚMERO 1/2026 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTISIETE DE MAYO DE DOS MIL VEINTISÉIS, QUE ESTABLECE DISPOSICIONES EN MATERIAS DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan los instrumentos normativos siguientes:
+
+I. Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, aprobado el treinta de marzo de dos mil cuatro y publicado en el Diario Oficial de la Federación el dos de abril de dos mil cuatro, en lo que se refiere al Tribunal Constitucional;
+
+II. Acuerdo General de la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales de la Suprema Corte de Justicia de la Nación, del nueve de julio de dos mil ocho, relativo a los órganos y procedimientos para tutelar en el ámbito de este tribunal los derechos de acceso a la información, a la privacidad y a la protección de datos personales garantizados en el artículo 6o. constitucional, publicado en el Diario Oficial de la Federación el quince de julio de dos mil ocho;
+
+III. Lineamientos del veintisiete de agosto de dos mil ocho, para el desarrollo de las sesiones públicas del Comité de Acceso a la Información y Protección de Datos Personales de la Suprema Corte de Justicia de la Nación;
+
+IV. Acuerdo General de Administración 4/2015 del veintiséis de agosto de dos mil quince, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se alinean las estructuras administrativas y funcionales del Alto Tribunal a las disposiciones de la Ley General de Transparencia y Acceso a la Información Pública, publicado en el Diario Oficial de la Federación el treinta y uno de agosto de dos mil quince;
+
+V. Acuerdo General de Administración 05/2015 del tres de noviembre de dos mil quince, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se expiden los Lineamentos (Sic) temporales para regular el procedimiento administrativo interno de acceso a la información pública, así como el funcionamiento y atribuciones del Comité de Transparencia de la Suprema Corte de Justicia de la Nación;
+
+VI. Acuerdo del Comité Especializado de Ministros relativo a la sustanciación de los recursos de revisión que se interponen en contra del trámite de solicitudes de acceso a la información pública en posesión de la Suprema Corte de Justicia de la Nación publicado en el Diario Oficial de la Federación el ocho de junio de dos mil dieciséis;
+
+VII. Acuerdo General 11/2017, del cinco de septiembre de dos mil diecisiete, del Pleno de la Suprema Corte de Justicia de la Nación, por el que se regulan los alcances de la protección del nombre de personas físicas o morales contenido en los distintos instrumentos jurisdiccionales;
+
+VIII. Acuerdo del Comité Especializado de Ministros relativo a la sustanciación de los recursos de revisión en materia de datos personales en el ámbito de la Suprema Corte de Justicia de la Nación publicado en el Diario Oficial de la Federación el dos de noviembre de dos mil diecisiete, y
+
+IX. Instructivo/Datos relativos para la atención de solicitudes de acceso a la información que versen sobre expedientes judiciales.
+
+TERCERO. Se abroga la Resolución 2/2025 del Pleno de la Suprema Corte de Justicia de la Nación, de trece de octubre de dos mil veinticinco, por la que se designa a los integrantes del Comité Especializado de Ministras y Ministros en materia de transparencia, acceso a la información y protección de datos personales, en los asuntos de su competencia.
+
+Hasta en tanto el Pleno de la Suprema Corte de Justicia de la Nación no resuelva una nueva integración del Comité Especializado de Ministras y Ministros en materia de transparencia, acceso a la información y protección de datos personales, éste seguirá conformado en términos del numeral Segundo de la Resolución 2/2025 que se abroga en términos del párrafo anterior.
+
+CUARTO. A la entrada en vigor del presente Acuerdo General quedarán derogadas todas aquellas disposiciones que se opongan al presente.
+
+QUINTO. Todos los procedimientos iniciados durante la vigencia de las normas abrogadas en los transitorios Segundo y Tercero del presente Acuerdo General, así como los actos que de ellos deriven se continuarán tramitando hasta su terminación conforme a las disposiciones jurídicas que les dieron origen.
+
+SEXTO. La aplicación del Código Nacional de Procedimientos Civiles y Familiares como norma supletoria del presente Acuerdo General estará condicionada a su entrada en vigor a nivel federal. Hasta en tanto, se aplicarán de forma supletoria a este Acuerdo General la Ley Federal de Procedimiento Administrativo o el Código Federal de Procedimientos Civiles, según corresponda.
+
+SÉPTIMO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como, en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
