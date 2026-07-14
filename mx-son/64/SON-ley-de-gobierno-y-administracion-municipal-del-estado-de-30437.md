@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2026-06-30"
+last_updated: "2026-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE JULIO DE 2026.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -2273,7 +2273,9 @@ Las responsabilidades de los funcionarios y empleados municipales se sujetarán 
 
 Artículo 173 BIS.- Se entenderá por ausencia definitiva por defunción la terminación del encargo derivada del fallecimiento de cualquiera de los integrantes del Ayuntamiento en funciones, la cual constituye una modalidad distinta a las causales sancionatorias de separación del cargo y se regirá por el procedimiento previsto en el presente artículo.
 
-I.- Cuando se trate del Presidente o Presidenta Municipal, dentro de los cinco días naturales posteriores a su defunción, el Ayuntamiento deberá comunicar al Congreso del Estado tal situación, el cual, se deberá acompañar de los documentos fehacientes necesarios que acrediten su fallecimiento; asimismo, de la propuesta aprobada por mayoría absoluta de sus integrantes de la persona designada para sustituirla en sus funciones por el resto del tiempo que tenga duración el cargo.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE JULIO DE 2026)</small>
+
+I.- Cuando se trate del Presidente o Presidenta Municipal, dentro de los cinco días naturales posteriores a su defunción, el Ayuntamiento deberá comunicar al Congreso del Estado tal situación, para lo cual se deberá acompañar de los documentos fehacientes necesarios que acrediten su fallecimiento, así como, de la propuesta aprobada por mayoría absoluta, de la persona designada de entre sus integrantes, para sustituir a la persona fallecida en sus funciones, por el resto del tiempo que tenga duración el cargo.
 
 Una vez lo anterior, el Pleno del Congreso del Estado, dentro de los siete días naturales posteriores a dicha notificación, deberá, resolver la Ausencia Definitiva, aprobar la propuesta de designación y, llamar a la persona sustituta a la toma de protesta de ley correspondiente ante el Ayuntamiento; todo lo anterior, con aprobación de las dos terceras partes de las y los diputados presentes en la sesión.
 
@@ -4802,3 +4804,15 @@ Los recursos públicos que resulten como economías o ahorros en los presupuesto
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+B.O. 14 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 134, QUE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN PRIMERA DEL ARTÍCULO 173 BIS DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
