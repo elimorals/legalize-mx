@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-la-auditoria-superior-del-estado-de-sinaloa-60836"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-23"
-last_updated: "2022-09-23"
+last_updated: "2026-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 23 de abril de 2008.
 
@@ -76,6 +76,10 @@ La facultad del Congreso del Estado de revisar y fiscalizar las cuentas pública
 ###### Artículo 3.
 
 La Auditoría Superior del Estado de Sinaloa es un órgano técnico de fiscalización general en la Entidad, bajo la coordinación del Congreso del Estado y para tal efecto gozará de plena independencia y autonomía técnica y de gestión, de conformidad con lo establecido en la Constitución Política del Estado de Sinaloa y en esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2026)</small>
+
+La autonomía técnica, consiste en la facultad de la Auditoría Superior del Estado, para decidir sobre la planeación, programación, ejecución, informe y seguimiento en el proceso de la fiscalización superior, y; la autonomía de gestión, es la potestad del órgano técnico de fiscalización superior en el Estado de Sinaloa, para decidir sobre su organización interna, estructura, funcionamiento y resoluciones, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -137,6 +141,10 @@ XI. (DEROGADA, P.O. 9 DE OCTUBRE DE 2017)
 
 XII. Entidades Fiscalizadas: Los entes públicos, las entidades de interés público distintas a los partidos políticos; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos, públicos o privados, cuando hayan recibido por cualquier título, recursos públicos, y en general cualquier entidad, persona física o moral, pública o privada, que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines;
 
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2026)</small>
+
+XII Bis. Evaluación del desempeño de la Auditoría Superior del Estado: Consiste en el análisis objetivo, independiente e imparcial respecto del cumplimiento de objetivos y metas institucionales, en términos de lo dispuesto por el artículo 43 fracción XXII Bis B de la Constitución Política del Estado de Sinaloa;
+
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
 XIII. Estructura Programática: Conjunto de categorías y elementos programáticos ordenados considerando una clasificación por funciones, subfunciones y programas, que defina las acciones que efectúan las entidades fiscalizables, para alcanzar sus objetivos y metas de acuerdo con las políticas establecidas en los planes, los programas y los presupuestos;
@@ -149,9 +157,9 @@ XIII Bis. Faltas administrativas graves: Las así señaladas en la Ley General d
 
 XIII Bis A. Fiscalía Especializada: Fiscalía Especializada en Combate a la Corrupción;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2026)</small>
 
-XIV. Fiscalización Superior: Facultad exclusiva del Congreso del Estado y que es ejercida apoyándose en la Auditoría Superior del Estado, para que a través de ésta se realice la revisión y fiscalización de la respectiva cuenta pública, incluyendo el informe de avance de gestión financiera;
+XIV. Fiscalización Superior: Facultad exclusiva del Congreso del Estado y que es ejercida apoyándose en la Auditoría Superior del Estado, para que a través de ésta se realice la revisión y fiscalización superior de las cuentas públicas que formulen el Gobierno del Estado y los Municipios, así como de la información que deberá presentarse sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos paraestatales o paramunicipales, órganos constitucionales autónomos y cualquier persona física o moral del sector social o privado, incluyendo el informe de avance de gestión financiera;
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
@@ -192,6 +200,10 @@ XX. Multa: Es la sanción económica que se impone al servidor público de las e
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 XX Bis. Órgano Interno de Control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como de la investigación, substanciación y, en su caso, de sancionar las faltas administrativas que le competan en los términos previstos en la Ley General de Responsabilidades Administrativas y Ley de Responsabilidades Administrativas del Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2026)</small>
+
+XX Bis A. Órgano constitucional autónomo: son los órganos creados inmediata y fundamentalmente en la Constitución Política de los Estados Unidos Mexicanos o en las constituciones de las entidades federativas y que no se adscriben a los poderes del Estado, y que cuentan con autonomía e independencia funcional y financiera;
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
@@ -235,9 +247,9 @@ XXX. Servidores Públicos: Los que se consideran como tales en la Ley General de
 
 XXXI. Tribunal: Tribunal de Justicia Administrativa; y,
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2026)</small>
 
-XXXII. Unidad Técnica de Evaluación: Área encargada de auxiliar a la Comisión de Fiscalización en la vigilancia y evaluación del desempeño de la Auditoría Superior del Estado.
+XXXII. Unidad de Evaluación del Desempeño: Área encargada de auxiliar a la Comisión de Fiscalización en la evaluación del desempeño de la Auditoría Superior del Estado.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -277,9 +289,9 @@ II. Establecer las normas, procedimientos, métodos y sistemas de información u
 
 III. Evaluar los informes de avance de gestión financiera respecto de los avances físicos y financieros de los programas autorizados y sobre procesos concluidos;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2026)</small>
 
-IV. Evaluar el cumplimiento final de los objetivos y metas fijados en los programas contenidos en la estructura programática vigente conforme a los indicadores de gestión y estratégicos aprobados en los presupuestos, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de los recursos públicos;
+IV. Practicar auditorías de desempeño en el cumplimiento de los objetivos y metas contenidos en los programas estatales y municipales, conforme a los indicadores establecidos en las Leyes de Ingresos y Presupuestos de Egresos correspondientes, tomando en cuenta los planes de desarrollo, así como los programas sectoriales, regionales, operativos anuales, y demás programas de las entidades fiscalizadas, entre otros, a efecto de verificar el desempeño de los mismos y, en su caso, el uso de recursos públicos en términos de eficacia, eficiencia y economía;
 
 V. Verificar que las entidades fiscalizadas que hubieren recaudado, manejado, administrado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como, en el caso de los egresos con cargo a las partidas correspondientes, además con apego a las disposiciones legales reglamentarias y administrativas aplicables;
 
@@ -535,9 +547,9 @@ El dictamen que contenga la terna a que se refiere el párrafo anterior, será e
 
 El Auditor Superior del Estado durará en su encargo siete años y podrá ser nombrado nuevamente para un período más, por una sola vez.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2026)</small>
 
-El Titular de la Auditoría Superior del Estado estará obligado a comparecer ante el Pleno del Congreso del Estado, previa citación del Congreso, en un plazo no mayor a 20 días naturales y no menor a 10 días naturales posteriores a la presentación del Informe General e Informes Individuales de la cuenta pública del Gobierno del Estado, de los Gobiernos Municipales, de la información sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos paraestatales o paramunicipales y órganos constitucionales autónomos. Asimismo, estará obligado a comparecer ante la Comisión de Fiscalización o en el Pleno del Congreso cada año para una evaluación exhaustiva de su desempeño, de las acciones y programas emprendidos bajo su gestión, así como de los resultados de las auditorías practicadas en dicho término. El resultado de esta evaluación será considerado para solicitar la remoción del Auditor Superior del Estado en los términos abajo previstos.
+La persona Titular de la Auditoría Superior del Estado estará obligada a comparecer ante el Pleno del Congreso del Estado, previa citación del Congreso, en un plazo no mayor a 20 días naturales y no menor a 10 días naturales posteriores a la presentación del Informe General e Informes Individuales de la cuenta pública del Gobierno del Estado, de los Gobiernos Municipales, de la información sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos paraestatales o paramunicipales y órganos constitucionales autónomos.
 
 El Auditor Superior del Estado podrá ser removido con la misma votación requerida para su nombramiento, por las causas graves que esta Ley señala, o por las causas y conforme a los procedimientos previstos en el Título VI de la Constitución Política del Estado de Sinaloa, en lo conducente.
 
@@ -599,7 +611,11 @@ I. Representar a la Auditoría Superior del Estado ante las entidades fiscalizad
 
 II. Administrar los bienes y recursos a cargo de la Auditoría Superior del Estado y resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios de la misma, sujetándose a lo dispuesto en el Artículo 155 de la Constitución Política del Estado, la Ley de Adquisiciones, Arrendamientos y Servicios del Estado y su Reglamento, así como gestionar la incorporación, destino y desincorporación de bienes inmuebles del dominio público del Estado afectos a su servicio;
 
-III. Elaborar durante el mes de enero de cada año, informe de actividades realizadas en el ejercicio anterior por la entidad a su cargo, así como el programa anual de auditorías, visitas e inspecciones a realizar durante el ejercicio respectivo, haciéndolo del conocimiento de la Comisión de Fiscalización;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2026)</small>
+
+III. Presentar ante la Comisión de Fiscalización el informe de actividades realizadas en el ejercicio anterior, durante el mes de enero de cada año.
+
+Asimismo, a más tardar el décimo día hábil del mes de diciembre del ejercicio a fiscalizar, deberá hacer del conocimiento de la misma el Programa Anual de Auditorías, Visitas e Inspecciones a realizar durante el ejercicio fiscal siguiente;
 
 IV. Elaborar, de conformidad con lo establecido en esta Ley, el proyecto de Reglamento Interior de la Auditoría Superior del Estado, en el que se asignarán las atribuciones al Sub-Auditor Superior y a los Auditores Especiales, a sus unidades administrativas y sus titulares, así como todo lo concerniente a la organización y funcionamiento de la entidad a su cargo, para ser presentado a la Comisión de Fiscalización para su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Sinaloa";
 
@@ -675,9 +691,9 @@ XXIV. Publicar y mantener actualizada la información pública de oficio, así c
 
 XXV. Solicitar ante las autoridades competentes el cobro de multas, indemnizaciones y sanciones resarcitorias que se impongan en los términos de esta Ley;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2026)</small>
 
-XXVI. Comparecer, previa citación, ante el Pleno del Congreso del Estado, en un plazo no mayor a 20 días naturales y no menor a 10 días naturales posteriores a la presentación del Informe General e Informes Individuales de la cuenta pública del Gobierno del Estado, de los Gobiernos Municipales y de la información sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos paraestatales o paramunicipales y órganos constitucionales autónomos. Asimismo, comparecer ante la Comisión de Fiscalización o en el Pleno del Congreso cada año para una evaluación exhaustiva de su desempeño, de las acciones y programas emprendidos bajo su gestión, así como de los resultados de las auditorías practicadas en dicho término;
+XXVI. Comparecer, previa citación, ante el Pleno del Congreso del Estado, en un plazo no mayor a 20 días naturales y no menor a 10 días naturales posteriores a la presentación del Informe General e Informes Individuales de la cuenta pública del Gobierno del Estado, de los Gobiernos Municipales y de la información sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos paraestatales o paramunicipales y órganos constitucionales autónomos;
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
@@ -737,9 +753,9 @@ V. Incumplir injustificadamente con el programa anual de auditorías, visitas e 
 
 VI. Aceptar la injerencia de los partidos políticos en el ejercicio de sus funciones y de estas circunstancias, conducirse con parcialidad en la revisión de las cuentas públicas y en los procedimientos de fiscalización e imposición de sanciones a que se refiere la presente Ley; y,
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2026)</small>
 
-VII. Obtener una evaluación no satisfactoria en la comparecencia ante la Comisión de Fiscalización o del Pleno del Congreso respecto de su desempeño, de las acciones y programas emprendidos bajo su gestión, así como de los resultados de las auditorías practicadas en dicho término.
+VII. Obtener una evaluación del desempeño poco satisfactoria sin justificación, a juicio de la Comisión de Fiscalización o del Pleno del Congreso, durante dos ejercicios consecutivos.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -803,9 +819,9 @@ XII. Conocer de las denuncias que se presenten en contra del Auditor Superior de
 
 XIII. Presentar, a través de la Junta de Coordinación Política, al Pleno del Congreso del Estado el dictamen relativo a la terna para designar al Auditor Superior del Estado;
 
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2026)</small>
 
-XIV. Realizar el dictamen correspondiente a la evaluación del desempeño, de las acciones y programas, así como de los resultados de las auditorías practicadas, bajo la gestión del Auditor Superior del Estado, de conformidad con la comparecencia establecida en el artículo 19 de esta Ley;
+XIV. Evaluar el desempeño de la Auditoría Superior del Estado respecto del cumplimiento de los objetivos y metas institucionales;
 
 > <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
 
@@ -829,57 +845,61 @@ XIX. Una vez recibidos el Informe General y los informes individuales de las cue
 
 XX. En general, todas las que deriven de esta Ley, de otras legislaciones aplicables y de las disposiciones generales y acuerdos que tome el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2026)</small>
 
 ###### Artículo 30 Bis.
 
-Para los efectos de la fracción XXII del artículo 43 de la Constitución Política del Estado de Sinaloa, la Comisión de Fiscalización contará con una Unidad Técnica de Evaluación encargada de auxiliarla en la vigilancia, evaluación y control del desempeño de la Auditoría Superior del Estado.
+Para los efectos del último párrafo, de la fracción XXII y de la fracción XXII Bis B, del artículo 43, de la Constitución Política del Estado de Sinaloa, la Comisión de Fiscalización, contará con una Unidad de Evaluación del Desempeño, encargada de auxiliarla en la evaluación del desempeño de la Auditoría Superior del Estado.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2026)</small>
 
-Artículo 30 Bis A. La Unidad Técnica de Evaluación tendrá las siguientes atribuciones:
+Artículo 30 Bis A. La Unidad de Evaluación del Desempeño, tendrá las siguientes atribuciones:
 
-I. Practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y el cumplimiento de los objetivos, metas e indicadores de los programas anuales de la Auditoría Superior del Estado, así como la debida aplicación de los recursos a cargo de ésta con base en el programa anual de trabajo;
+I. Practicar evaluaciones para verificar el desempeño respecto del cumplimiento de los objetivos, metas e indicadores de los programas institucionales de la Auditoría Superior del Estado, y en su caso, emitir las recomendaciones al desempeño que de ellas deriven;
 
 II. Requerir a las unidades administrativas de la Auditoría Superior del Estado, la información necesaria para cumplir con sus atribuciones;
 
 III. Proponer a la Comisión de Fiscalización, la emisión de reglamentos internos, lineamientos, circulares y demás disposiciones administrativas necesarias para el funcionamiento de la Unidad;
 
-IV. Conocer, desahogar y resolver en su caso, a instancia de la Comisión de Fiscalización, los procedimientos de responsabilidad administrativa a que haya lugar en los que incurra el Titular de la Auditoría Superior del Estado;
+IV. Auxiliar a la Comisión de Fiscalización en la elaboración del análisis y valoraciones sobre el Informe General Ejecutivo del Resultado de la Fiscalización Superior, así como de los Informes Individuales de la Revisión y Fiscalización de la Cuenta Pública del Gobierno del Estado, de los Gobiernos Municipales y de la información sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos paraestatales o paramunicipales y órganos constitucionales autónomos y demás documentos que le envíe la Auditoría Superior del Estado;
 
-V. Implementar y supervisar, de forma permanente, procesos para el mejoramiento, modernización y certificación de los servicios prestados por la Auditoría Superior del Estado;
+V. Proponer a la Comisión de Fiscalización los indicadores y sistemas de evaluación del desempeño de la propia Unidad de Evaluación del Desempeño y los que utilice para evaluar a la Auditoría Superior del Estado, así como los sistemas de seguimiento a las recomendaciones al desempeño, que promuevan tanto la Unidad de Evaluación como la Comisión de Fiscalización;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
+VI. Coadyuvar y asistir a la Comisión de Fiscalización en el cumplimiento de sus atribuciones;
 
-VI. Auxiliar a la Comisión de Fiscalización en la elaboración del análisis y valoraciones sobre el Informe General Ejecutivo del Resultado de la Fiscalización Superior, así como de los Informes Individuales de la Revisión y Fiscalización de la Cuenta Pública del Gobierno del Estado, de los Gobiernos Municipales y de la información sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos paraestatales o paramunicipales y órganos constitucionales autónomos y demás documentos que le envíe la Auditoría Superior del Estado;
+VII. Atender prioritariamente las denuncias;
 
-VII. Proponer a la Comisión de Fiscalización los indicadores y sistemas de evaluación del desempeño de la propia Unidad Técnica de Evaluación y los que utilice para evaluar a la Auditoría Superior del Estado, así como los sistemas de seguimiento a las observaciones y acciones que promuevan tanto la Unidad Técnica de Evaluación como la Comisión de Fiscalización;
+VIII. Participar con voz pero sin voto, en su caso, en las sesiones de la Comisión de Fiscalización para brindar apoyo técnico y especializado; y
 
-VIII. Coadyuvar y asistir a la Comisión de Fiscalización en el cumplimiento de sus atribuciones;
+IX. Las demás que le atribuya la Comisión de Fiscalización y expresamente las disposiciones legales y reglamentarias aplicables.
 
-IX. Atender prioritariamente las denuncias;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2026)</small>
 
-X. Participar con voz pero sin voto, en su caso, en las sesiones de la Comisión de Fiscalización para brindar apoyo técnico y especializado; y,
+Artículo 30 Bis B. El titular de la Unidad de Evaluación del Desempeño, será propuesto por la Comisión de Fiscalización a través de convocatoria pública que deberá ser transparente expedida para tal efecto, y designado por el Congreso del Estado, mediante el voto de las dos terceras partes de sus miembros presentes en la sesión respectiva, debiendo cumplir los requisitos siguientes:
 
-XI. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+I. Ser mexicano, estar en pleno ejercicio de sus derechos políticos y civiles, tener al menos treinta años de edad y menos de setenta al día de la designación, no haber sido condenado por delito doloso; no haber desempeñado durante el último año anterior cargos de nivel secretario u homólogos en el Poder Ejecutivo con excepción del encargado de control interno; Magistrado del Poder Judicial o haber desempeñado cargo de elección popular, ni en órgano de dirección nacional, estatal o municipal en algún partido político, asimismo no haberse desempeñado como Presidente Municipal, Síndico Procurador o Secretario en los Gobiernos Municipales, Diputado, Secretario General del Congreso o haber sido designado por el Congreso como titular de algún organismo autónomo;
 
-Artículo 30 Bis B. El titular de la Unidad Técnica de Evaluación, será propuesto por la Comisión de Fiscalización a través de convocatoria pública que deberá ser transparente expedida para tal efecto, y designado por el Congreso del Estado, mediante el voto de las dos terceras partes de sus miembros presentes en la sesión respectiva, debiendo cumplir los requisitos siguientes:
-
-I. Ser mexicano por nacimiento, estar en pleno ejercicio de sus derechos políticos y civiles, tener al menos treinta años de edad y menos de setenta al día de la designación, no haber sido condenado por delito doloso; no haber desempeñado durante el último año anterior cargos de nivel secretario u homólogos en el Poder Ejecutivo con excepción del encargado de control interno; Magistrado del Poder Judicial o haber desempeñado cargo de elección popular, ni en órgano de dirección nacional, estatal o municipal en algún partido político, asimismo no haberse desempeñado como Presidente Municipal, Síndico Procurador o Secretario en los Gobiernos Municipales, Diputado, Secretario General del Congreso o haber sido designado por el Congreso como titular de algún organismo autónomo;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 II. Poseer título y cédula profesional de licenciado en cualquier área relacionada con las actividades administrativas o finanzas públicas, con una antigüedad mínima de dos años, expedido por la autoridad o institución legalmente facultada para ello, asimismo deberá acreditar mínimamente tres años de experiencia en dichas áreas; y,
 
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 III. Al momento de su designación, no tener parentesco por consanguinidad o afinidad hasta el tercer grado, con los Titulares de los Poderes o los Secretarios de Despacho.
 
-El Titular de la Unidad Técnica de Evaluación durará en su cargo un periodo de cuatro años, prorrogable por otro periodo del mismo término, a propuesta de la Comisión de Fiscalización, previa aprobación del Pleno del Congreso.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+El Titular de la Unidad de Evaluación del Desempeño, durará en su cargo un periodo de cuatro años, prorrogable por otro periodo del mismo término, a propuesta de la Comisión de Fiscalización, previa aprobación del Pleno del Congreso del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2026)</small>
 
 ###### Artículo 31.
 
-Las entidades fiscalizadas o cualquier ciudadano en pleno ejercicio de sus derechos y bajo su más estricta responsabilidad tendrán la facultad de formular denuncia ante la Comisión de Fiscalización a través de la Unidad Técnica de Evaluación sobre los actos del Titular de la Auditoría Superior del Estado que contravengan las disposiciones de esta Ley, en cuyo caso la Unidad Técnica de Evaluación substanciará la investigación preliminar por vía especial, para dictaminar si ha lugar a iniciar el procedimiento de remoción a que se refiere este ordenamiento, o bien el previsto en la Ley General de Responsabilidades Administrativas y Ley de Responsabilidades Administrativas del Estado, notificando al denunciante el dictamen correspondiente, previa aprobación de la Comisión.
+Las entidades fiscalizadas o cualquier ciudadano en pleno ejercicio de sus derechos y bajo su más estricta responsabilidad tendrán la facultad de formular denuncia ante la Comisión de Fiscalización a través de la Unidad de Evaluación del Desempeño sobre los actos de la persona Titular de la Auditoría Superior del Estado que contravengan las disposiciones de esta Ley, en cuyo caso la Unidad de Evaluación del Desempeño substanciará la investigación preliminar por vía especial, para dictaminar si ha lugar a iniciar el procedimiento de remoción a que se refiere este ordenamiento, notificando al denunciante el dictamen correspondiente, previa aprobación de la Comisión.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 9 DE OCTUBRE DE 2017)</small>
 
 El escrito de denuncia deberá sujetarse a las siguientes formalidades:
 
@@ -889,7 +909,11 @@ II. Acompañar a su escrito de denuncia, los medios de prueba con los que se tra
 
 III. Ratificar en comparecencia y dentro de los tres días hábiles siguientes al de su presentación, el contenido del escrito de denuncia.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 Si la denuncia cumple con lo señalado en las fracciones anteriores, la Comisión de Fiscalización en sesión que celebre dentro de los tres días hábiles siguientes a la ratificación de la denuncia, la admitirá si procede y, en un plazo no mayor de quince días hábiles, contados a partir de la fecha de admisión, emitirá el dictamen respectivo. Si la denuncia no cumple con alguna de las formalidades a las que se refiere este artículo, se desechará de plano, lo que deberá notificarse personalmente al denunciante.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 Cuando por la naturaleza de las pruebas ofrecidas se requiera mayor tiempo para su valoración, la Comisión de Fiscalización podrá ampliar, en no más de diez días hábiles el plazo señalado en el párrafo anterior.
 
@@ -899,11 +923,9 @@ Para los efectos del artículo anterior, la Comisión de Fiscalización, notific
 
 Si la Comisión resuelve, por la aprobación de la mitad más uno de sus integrantes, que ha lugar a la remoción, turnará de inmediato el dictamen correspondiente al Pleno del Congreso para que éste apruebe, en su caso, el dictamen y sus puntos resolutivos. Si la Comisión dictamina que no ha lugar a la remoción ordenará que se archive el expediente de la denuncia como asunto total y definitivamente concluido.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
-
 ###### Artículo 33.
 
-Si los motivos de la denuncia no son actos considerandos (sic) para que el Pleno del Congreso del Estado conozca de la solicitud de remoción del titular de la Auditoría Superior del Estado, pero sí de aquellos señalados en la Ley General de Responsabilidades Administrativas y Ley de Responsabilidades Administrativas del Estado, la Unidad Técnica de Evaluación iniciará los procedimientos respectivos señalados en dichas Leyes.
+(DEROGADO, P.O. 15 DE JULIO DE 2026)
 
 ## Título Cuarto. De la Revisión y Fiscalización Superior de las Cuentas Públicas e Informes de Resultados
 
@@ -1243,17 +1265,13 @@ Los incisos e) y f) deberán considerarse incluyendo el Impuesto al Valor Agrega
 
 ###### Artículo 39.
 
-Las entidades fiscalizadas estarán obligadas a conservar la documentación comprobatoria de su contabilidad en archivos físicos, cuando menos por seis años. Transcurrido este plazo, el Congreso del Estado, a través de la Auditoría Superior del Estado, podrá autorizar la destrucción de la documentación, siempre y cuando ésta se haya respaldado en medios electrónicos no regrabables.
+(DEROGADO, P.O. 15 DE JULIO DE 2026)
 
-En el caso de los documentos que representen obligaciones económicas contractuales, éstos sólo se podrán destruir como lo dispone el párrafo anterior, siempre y cuando haya concluido el término legal de la prescripción, previa expedición del finiquito correspondiente.
-
-Los documentos que amparen bienes muebles e inmuebles, del dominio privado, de las entidades fiscalizadas, deberán conservarse en su poder en tanto no se transfiera su propiedad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2026)</small>
 
 ###### Artículo 40.
 
-La Auditoría Superior del Estado conservará en su poder las cuentas públicas y los informes de resultados, mientras no prescriban sus facultades para fincar las responsabilidades derivadas de las irregularidades que, en su caso, se detecten en las operaciones objeto de revisión, así como las copias autógrafas de las resoluciones en las que se determinen las indemnizaciones y sanciones resarcitorias y se finquen responsabilidades; asimismo los documentos que contengan las denuncias o querellas penales que se hubieren formulado, como consecuencia de los hechos presuntamente delictivos que se hubieren evidenciado durante la referida revisión.
+La Auditoría Superior del Estado conservará en su poder las cuentas públicas y los informes de resultados, mientras no prescriban las facultades de las autoridades competentes para fincar las responsabilidades derivadas de las irregularidades que, en su caso, se detecten en las operaciones objeto de revisión; asimismo los documentos que contengan las denuncias o querellas penales que se hubieren formulado, como consecuencia de los hechos que la ley califique como delito que se hubieren evidenciado durante la referida revisión.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
@@ -1303,39 +1321,71 @@ Los estados financieros auditados por despachos contables y remitidos por las en
 
 La revisión de las cuentas públicas tiene por objeto:
 
-I. En cuanto al ingreso:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE JULIO DE 2026)</small>
 
-a). Precisar los ingresos públicos que perciban; y,
+I. Evaluar los resultados de la gestión financiera:
 
-b). Verificar que los ingresos recaudados sean conforme a lo dispuesto por la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, las leyes de ingresos municipales, leyes fiscales especiales, decretos, acuerdos y demás disposiciones que rijan en la materia;
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2026)</small>
 
-II. En cuanto al egreso:
+a). Para el cumplimiento de la ejecución de la Ley de Ingresos y el ejercicio del Presupuesto de Egresos para verificar la forma y términos en que los ingresos fueron recaudados, obtenidos, captados y administrados; constatar que los recursos provenientes de financiamientos y otras obligaciones y empréstitos se contrataron, recibieron y aplicaron de conformidad con lo aprobado; y revisar que los egresos se ejercieron en los conceptos y partidas autorizados, incluidos, entre otros aspectos, la contratación de servicios y obra pública, las adquisiciones, arrendamientos, subsidios, aportaciones, donativos, transferencias, aportaciones a fondos, fideicomisos y demás instrumentos financieros, así como cualquier esquema o instrumento de pago a largo plazo;
 
-a). Precisar el gasto público; y,
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2026)</small>
 
-b). Comprobar que el gasto público se ajuste a los presupuestos de egresos, su contabilización esté respaldada por la documentación comprobatoria original, así como los requisitos que establece esta Ley y demás disposiciones que rijan en la materia;
+b). Para verificar si se cumplió con las disposiciones jurídicas aplicables en materia de sistemas de registro y contabilidad gubernamental; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos; recursos materiales, y demás normatividad aplicable al ejercicio del gasto público;
 
-III. En cuanto al patrimonio:
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2026)</small>
 
-a). Determinar el resultado de la gestión y situación financiera;
+c). Para comprobar si la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de recursos públicos, incluyendo subsidios, transferencias y donativos, y si los actos, contratos, convenios, mandatos, fondos, fideicomisos,
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+prestación de servicios públicos, operaciones o cualquier acto que las entidades fiscalizadas, celebren o realicen, relacionados con el ejercicio del gasto público, se ajustaron a la legalidad, y si no han causado daños o perjuicios, o ambos, en contra de la Hacienda Pública o, en su caso, del patrimonio de los entes públicos;
 
-b). Verificar que los estados financieros estén elaborados de conformidad con los postulados básicos de contabilidad gubernamental; y,
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2026)</small>
 
-c). Verificar que los estados financieros elaborados, autorizados por la administración de la entidad correspondiente, sean completos y revelen la información necesaria que refleje la situación financiera, los resultados de operación, los cambios en la situación financiera y las variaciones en su patrimonio; y,
+d). Para comprobar que el gasto público se ajuste a los presupuestos de egresos, su contabilización esté respaldada por la documentación comprobatoria original, así como los requisitos que establece esta Ley y demás disposiciones que rijan en la materia;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2026)</small>
 
-IV. En cuanto a deuda pública: comprobar el cumplimiento del pago de las amortizaciones de capital, de intereses de los créditos contratados, así como la contabilización de los intereses devengados no pagados; y,
+e). Para verificar que los estados financieros estén elaborados de conformidad con los postulados básicos de contabilidad gubernamental;
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2026)</small>
 
-V. Verificar el cumplimiento de los objetivos contenidos en los programas determinando:
+f). Para verificar que los estados financieros elaborados, autorizados por la administración de la entidad correspondiente, sean completos y revelen la información necesaria que refleje la situación financiera, los resultados de operación, los cambios en la situación financiera y las variaciones en su patrimonio; y,
 
-a). La eficiencia, la eficacia y la economía de los programas y su efecto o la consecuencia en las condiciones sociales y económicas, durante el período que se evalúe; y,
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2026)</small>
 
-b). Si se cumplieron las metas de los indicadores aprobados en el presupuesto correspondiente y si el referido cumplimiento tiene relación con el Plan Estatal de Desarrollo y los Planes Municipales, respectivamente.
+g). Para comprobar el cumplimiento del pago de las amortizaciones de capital, de intereses de los créditos contratados, así como la contabilización de los intereses devengados no pagados;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE JULIO DE 2026)</small>
+
+II. Verificar el cumplimiento de los objetivos contenidos en los programas:
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2026)</small>
+
+a). Realizar auditorías del desempeño de los programas, verificando la eficiencia, la eficacia y la economía en el cumplimiento de los objetivos de los mismos;
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2026)</small>
+
+b). Si se cumplieron las metas de los indicadores aprobados en el Presupuesto de Egresos y si dicho cumplimiento tiene relación con el Plan Estatal de Desarrollo y los Planes Municipales, según corresponda, y los programas que deriven de los mismos; y,
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2026)</small>
+
+c). Si se cumplieron los objetivos de los programas y las metas de gasto que promuevan la igualdad entre mujeres y hombres;
+
+III. (DEROGADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE JULIO DE 2026)
+
+a). (DEROGADO, P.O. 15 DE JULIO DE 2026)
+
+b). (DEROGADO, P.O. 15 DE JULIO DE 2026)
+
+c). (DEROGADO, P.O. 15 DE JULIO DE 2026)
+
+IV. (DEROGADA, P.O. 15 DE JULIO DE 2026)
+
+V. (DEROGADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE JULIO DE 2026)
+
+a). (DEROGADO, P.O. 15 DE JULIO DE 2026)
+
+b). (DEROGADO, P.O. 15 DE JULIO DE 2026)
 
 ###### Artículo 48.
 
@@ -1355,39 +1405,29 @@ II. Realizar auditorías al desempeño que permitan evaluar los resultados obten
 
 III. Determinar, en caso de irregularidades detectadas, las indemnizaciones y el fincamiento de responsabilidades y sanciones resarcitorias, por daños causados a la Hacienda Pública Estatal o municipal, a los recursos que por cualquier concepto obtengan el Estado y sus municipios o al patrimonio de los Entes Públicos Estatales y Municipales. Para el cumplimiento de lo anterior la Auditoría podrá ordenar la realización de auditorías forenses; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE JULIO DE 2026)</small>
 
-IV. Elaborar el Informe General y los informes individuales de la cuenta pública del Gobierno del Estado y los Municipios, y de la información sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos paraestatales o paramunicipales y órganos constitucionales autónomos y rendirlo al Congreso del Estado, por conducto de la Comisión de Fiscalización. Este informe contendrá, enunciativamente, los siguientes puntos:
+IV. Elaborar el Informe General y los informes individuales de la cuenta pública del Gobierno del Estado y los Municipios, y de la información sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos paraestatales o paramunicipales y órganos constitucionales autónomos y rendirlo al Congreso del Estado, por conducto de la Comisión de Fiscalización. Estos informes contendrán respectivamente lo establecido en los artículos 69 y 69 Bis A de esta Ley.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+a). (DEROGADO, P.O. 15 DE JULIO DE 2026)
 
-a). El cumplimiento de los postulados básicos de contabilidad gubernamental en su registro y presentación;
+b). (DEROGADO, P.O. 15 DE JULIO DE 2026)
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+c). (DEROGADO, P.O. 15 DE JULIO DE 2026)
 
-b). En relación con el Gobierno del Estado, Ayuntamientos y los Entes Públicos Estatales y Municipales, los resultados del informe de avance de gestión financiera;
+d). (DEROGADO, P.O. 15 DE JULIO DE 2026)
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2022)</small>
-
-c). La comprobación de que el Gobierno del Estado y los municipios se ajustaron a los criterios señalados en sus leyes de ingresos y presupuestos de egresos y en las demás leyes aplicables en la materia; y de que los entes públicos, lo hicieron en apego a los objetos para los que fueron creados;
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2022)</small>
-
-d). El análisis de las desviaciones presupuestales si las hubiere; y
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2022)</small>
-
-e). Un dictamen derivado de la fiscalización, un apartado específico con las acciones que la Auditoría haya promovido, así como las justificaciones y aclaraciones que, en su caso, los entes fiscalizados hayan presentado sobre las mismas.
+e). (DEROGADO, P.O. 15 DE JULIO DE 2026)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ### Capítulo Tercero. De las Acciones y Recomendaciones derivadas de la Fiscalización
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2026)</small>
 
 ###### Artículo 49.
 
-El Titular de la Auditoría Superior del Estado enviará a las entidades fiscalizadas, a más tardar dentro de un plazo de 8 días naturales siguientes a que haya sido entregado al Congreso del Estado, el informe individual que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de hasta 20 días naturales, presenten la información y realicen las consideraciones pertinentes.
+La persona titular de la Auditoría Superior del Estado, enviará a las entidades fiscalizadas, a más tardar dentro de un plazo de 5 días hábiles siguientes a que haya sido entregado al Congreso del Estado, el informe individual que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de hasta 15 días hábiles, presenten la información y realicen las consideraciones pertinentes.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -1415,21 +1455,23 @@ VI. Mediante las denuncias de hechos, hará del conocimiento de la Fiscalía Esp
 
 VII. Por medio de la denuncia de juicio político, hará del conocimiento del Congreso del Estado la presunción de actos u omisiones de los servidores públicos a que se refiere el artículo 132 de la Constitución Política del Estado, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, a efecto de que se substancie el procedimiento y resuelva sobre la responsabilidad política correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2026)</small>
 
 ###### Artículo 50.
 
-La Auditoría Superior del Estado deberá pronunciarse en un plazo de 30 días hábiles, contados a partir de su recepción, sobre las respuestas emitidas por las entidades fiscalizadas, emitiendo un informe final integral sobre el estado que guardan las solventaciones que presentará al Congreso del Estado a través de la Comisión de Fiscalización a más tardar el día 1 de noviembre del año de la presentación de la cuenta pública.
+La Auditoría Superior del Estado deberá pronunciarse dentro de un plazo de 30 días hábiles, contados a partir de la conclusión del término de 15 días hábiles a que hace referencia el artículo 49 de esta Ley, sobre las respuestas emitidas por las entidades fiscalizadas, emitiendo un informe final integral sobre el estado que guardan las solventaciones que presentará al Congreso del Estado a través de la Comisión de Fiscalización a más tardar el día 1 de noviembre del año de la presentación de la cuenta pública. Si con posterioridad a dicha fecha, aún no ha vencido el plazo para emitir el pronunciamiento respectivo sobre las respuestas de una o más entidades, se deberá remitir en alcance la información correspondiente, en un plazo no mayor a 3 días hábiles posteriores al vencimiento.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante la Auditoría Superior del Estado las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2026)</small>
 
 ###### Artículo 50 Bis.
 
-Antes de emitir sus recomendaciones, la Auditoría Superior del Estado analizará con las entidades fiscalizadas las observaciones que dan motivo a las mismas. En las reuniones de resultados preliminares y finales las entidades fiscalizadas a través de sus representantes o enlaces suscribirán conjuntamente con el personal de las áreas auditoras correspondientes de la Auditoría Superior del Estado, las Actas en las que consten los términos de las recomendaciones que, en su caso, sean acordadas y los mecanismos para su atención. Lo anterior, sin perjuicio de que la Auditoría Superior del Estado podrá emitir recomendaciones en los casos en que no logre acuerdos con las entidades fiscalizadas.
+Antes de emitir las recomendaciones al desempeño, la Auditoria Superior del Estado, analizará con las entidades fiscalizadas las observaciones que dan motivo a las mismas. En las reuniones de resultados preliminares y finales las entidades fiscalizadas a través de sus representantes o enlaces suscribirán conjuntamente con el personal de las áreas auditoras correspondientes de la Auditoría Superior del Estado, las actas en las que consten los términos de las recomendaciones al desempeño y en su caso, los mecanismos de atención que sean acordados.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 La información, documentación o consideraciones aportadas por las entidades fiscalizadas para atender las recomendaciones en los plazos convenidos, deberán precisar las mejoras realizadas y las acciones emprendidas. En caso contrario, deberán justificar la improcedencia de lo recomendado o las razones por los (sic) cuales no resulta factible su implementación.
 
@@ -1875,13 +1917,17 @@ La unidad administrativa del Órgano Interno de Control de la Auditoría Superio
 
 Las responsabilidades que se finquen a los servidores públicos de los entes públicos y de la Auditoría Superior del Estado, no eximen a éstos ni a los particulares, personas físicas o morales, de sus obligaciones, cuyo cumplimiento se les exigirá aun cuando la responsabilidad se hubiere hecho efectiva total o parcialmente.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2026)</small>
 
 ###### Artículo 80.
 
-La unidad administrativa a cargo de las investigaciones de la Auditoría Superior del Estado promoverá el informe de presunta responsabilidad administrativa ante la unidad de la propia Auditoría encargada de fungir como autoridad substanciadora, cuando los pliegos de observaciones no sean solventados por las entidades fiscalizadas.
+La unidad administrativa a cargo de las investigaciones de la Auditoría Superior del Estado, promoverá el informe de presunta responsabilidad administrativa ante la unidad de la propia Auditoría, encargada de fungir como autoridad substanciadora, cuando no sean atendidos o solventados por las entidades fiscalizadas, los resultados con observación que contengan acciones de tipo Promoción de Responsabilidad Administrativa y/o Pliego de Observaciones que se deriven de conductas que la Ley General de Responsabilidades Administrativas y/o la Ley de Responsabilidades Administrativas del Estado de Sinaloa tipifiquen como faltas graves.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 Lo anterior, sin perjuicio de que la unidad administrativa a cargo de las investigaciones podrá promover el informe de presunta responsabilidad administrativa, en cualquier momento en que cuente con los elementos necesarios.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 El procedimiento para promover el informe de presunta responsabilidad administrativa y la imposición de sanciones por parte del Tribunal, se regirá por lo dispuesto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
 
@@ -1893,11 +1939,13 @@ De conformidad con lo dispuesto en la Ley General de Responsabilidades Administr
 
 Para efectos de lo previsto en el párrafo anterior, el Reglamento Interior de la Auditoría Superior del Estado, deberá contener una unidad administrativa a cargo de las investigaciones que será la encargada de ejercer las facultades que la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado le confiere a las autoridades investigadoras; así como una unidad que ejercerá las atribuciones que la citada Ley otorga a las autoridades substanciadoras. Los titulares de las unidades referidas deberán cumplir para su designación con los requisitos que se prevén para ser Auditor Especial.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2026)</small>
 
 ###### Artículo 82.
 
-Los órganos internos de control deberán informar a la Auditoría Superior del Estado, dentro de los treinta días hábiles siguientes de recibido el informe de presunta responsabilidad administrativa, el número de expediente con el que se inició la investigación o procedimiento respectivo.
+Los órganos internos de control, deberán informar a la Auditoría Superior del Estado, el número de expediente con el que se inició la investigación o procedimiento respectivo, dentro de los treinta días hábiles siguientes de recibido el oficio a través del cual se les da vista de los hechos relacionados con resultados con observación que contengan acciones de tipo Promoción de Responsabilidad Administrativa y/o Pliego de Observaciones que se deriven de conductas que la Ley General de Responsabilidades Administrativas y/o la Ley de Responsabilidades Administrativas del Estado de Sinaloa, tipifiquen como faltas no graves.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 Asimismo, los órganos internos de control deberán informar a la Auditoría Superior del Estado de la resolución definitiva que se determine o recaiga a sus promociones, dentro de los diez días hábiles posteriores a que se emita dicha resolución.
 
@@ -2223,13 +2271,13 @@ En todos los casos, la prescripción a que alude el artículo 110, se interrumpi
 
 La Comisión de Fiscalización recibirá peticiones, propuestas, solicitudes y denuncias fundadas y motivadas por la sociedad civil, las cuales podrán ser consideradas por la Auditoría Superior del Estado en el programa anual de auditorías y cuyos resultados deberán ser considerados en los informes individuales y, en su caso, en el Informe General. Dichas propuestas también podrán ser presentadas por conducto del Comité de Participación Ciudadana a que se refiere la Ley del Sistema Anticorrupción del Estado de Sinaloa, debiendo el Auditor Superior del Estado informar a la Comisión de Fiscalización, así como a dicho Comité sobre las determinaciones que se tomen en relación con las propuestas relacionadas con el programa anual de auditorías.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2026)</small>
 
 ###### Artículo 114.
 
-La Unidad Técnica de Evaluación recibirá de parte de la sociedad opiniones, solicitudes y denuncias sobre el funcionamiento de la fiscalización que ejerce la Auditoría Superior del Estado a efecto de participar, aportar y contribuir a mejorar el funcionamiento de sus funciones de fiscalización.
+La Unidad de Evaluación del Desempeño, recibirá de parte de la sociedad opiniones, solicitudes y denuncias sobre el funcionamiento de la fiscalización que ejerce la Auditoría Superior del Estado, a efecto de participar, aportar y contribuir a mejorar el funcionamiento de sus funciones de fiscalización.
 
-Dichas opiniones, solicitudes o denuncias podrán presentarse por medios electrónicos o por escrito libre dirigido ante la Unidad Técnica de Evaluación. Dicha Unidad pondrá a disposición de los particulares los formatos correspondientes.
+Las opiniones, solicitudes o denuncias podrán presentarse por medios electrónicos o por escrito libre dirigido ante la Unidad de Evaluación del Desempeño. La citada Unidad pondrá a disposición de los particulares los formatos correspondientes.
 
 ## Transitorios
 
@@ -2472,3 +2520,19 @@ A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los M
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 484 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Unidad Técnica de Evaluación, publicado en el Periódico Oficial "El Estado de Sinaloa" No. 017 de fecha 8 de febrero de 2021.
+
+TERCERO. La Comisión de Fiscalización, dentro de los 60 días siguientes, contados a partir de la entrada en vigor del presente Decreto, deberá emitir el Reglamento Interior de la Unidad de Evaluación del Desempeño; cuya estructura y organización se realizará conforme a los principios de transparencia, austeridad, racionalidad y disciplina del gasto público.
+
+CUARTO. Los derechos laborales de las personas servidoras públicas de la Unidad Técnica de Evaluación, serán respetados, en términos de la legislación aplicable. Los recursos humanos y materiales con que cuente la referida Unidad pasarán a formar parte de la Unidad de Evaluación del Desempeño.
+
+QUINTO. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto a la Unidad Técnica de Evaluación se entenderán hechas o conferidas a la Unidad de Evaluación del Desempeño.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
