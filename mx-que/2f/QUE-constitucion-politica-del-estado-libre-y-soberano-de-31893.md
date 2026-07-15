@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2026-04-30"
+last_updated: "2026-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2026.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -1039,17 +1039,21 @@ El Municipio Libre constituye la base de la división territorial y de la organi
 
 Los Municipios serán gobernados por un Ayuntamiento de elección popular directa, el cual se compondrá:
 
-I. De un Presidente Municipal que, política y administrativamente, será el representante del Municipio;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2026)</small>
 
-II. Del número determinado de Regidores que, basado en factores geográficos, demográficos y socioeconómicos de cada Municipio, determine la ley; y
+I. De un Presidente o Presidenta Municipal que, política y administrativamente, será la persona representante del Municipio;
 
-III. Hasta tres Síndicos.(5)
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2026)</small>
 
-(5) En cumplimiento a la resolución de la Suprema Corte de Justicia de la Nación recaída en la acción de inconstitucionalidad 76/2008 y sus acumuladas 77/2008 y 78/2008, se modificó la fracción III del segundo párrafo del artículo 35 de esta Constitución.
+II. Del número determinado de Regidurías que, basado en factores geográficos, demográficos y socioeconómicos de cada Municipio, determine la ley, el cual no podrá exceder de quince; y
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2026)</small>
 
-Los ayuntamientos se regirán por el principio de Gobierno Abierto, en términos de las disposiciones legales aplicables, debiendo renovarse cada tres años. Los miembros que los integran protestarán el cargo al entrar en funciones el primero de octubre del año de su elección.
+III. De una Sindicatura.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2026)</small>
+
+Los ayuntamientos se regirán por los principios de Gobierno Abierto, así como los previstos en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables, debiendo renovarse cada tres años. Los miembros que los integran protestarán el cargo al entrar en funciones el primero de octubre del año de su elección.
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -2282,3 +2286,13 @@ Artículo Décimo Primero. Se modifica la denominación, adscripción y función
 Artículo Décimo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Décimo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro.
+
+P.O. 15 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 35 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO, EN MATERIA DE INTEGRACIÓN DE LOS AYUNTAMIENTOS”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley y deberán adecuarse a la presente ley, las disposiciones jurídicas secundarias.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
