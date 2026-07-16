@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-entidades-paraestatales-del-estado-de-jalisco-164644"
 country: "mx"
 rank: "ley"
 publication_date: "2023-02-23"
-last_updated: "2026-03-07"
+last_updated: "2026-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2026.
 
 Ley publicada en el Número 35 de la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 23 de febrero de 2023. (REPUBLICADA EN EL P.O. 14 DE MARZO DE 2023).
 
@@ -319,6 +319,8 @@ III. No tener sentencia condenatoria que haya causado estado por delitos de viol
 
 ###### Artículo 23.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
+
 1. La persona titular de la Dirección General tiene las siguientes atribuciones:
 
 I. Fungir como órgano ejecutivo del Organismo;
@@ -347,7 +349,9 @@ VI. Formular el proyecto de Presupuesto de Ingresos y Egresos del Organismo, jun
 
 VII. Comunicar a la Junta de Gobierno de manera general, previo informe del Órgano Interno de Control, de los dictámenes de las auditorías practicadas y de los estados financieros del Organismo, para la posterior publicación de los mismos;
 
-VIII. Proponer a la Junta de Gobierno para su nombramiento a los funcionarios públicos del nivel inmediato inferior al suyo;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
+
+VIII. Proponer a la Junta de Gobierno para su nombramiento a los funcionarios públicos del nivel inmediato inferior al suyo, previa verificación de que dichos perfiles cumplen con la experiencia y capacidad técnica requeridas para el puesto conforme al Catálogo de Puestos del Organismo.
 
 IX. Establecer las medidas y mecanismos que aseguren la calidad, eficacia y eficiencia en la operación del Organismo;
 
@@ -838,3 +842,11 @@ P.O. 7 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 30139/LXIV/26 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSOS ARTÍCULOS Y FRACCIONES DE LA LEY DEL GOBIERNO Y DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 22, FRACCIÓN II Y ADICIONA LA FRACCIÓN III DE LA LEY DE ENTIDADES PARAESTATALES, DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 16 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 30173/LXIV/26 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 14 DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL PODER EJECUTIVO DENOMINADO SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE JALISCO, Y EL ARTÍCULO 23 DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las entidades paraestatales del Estado de Jalisco, incluido el Sistema lntermunicipal de los Servicios de Agua Potable y Alcantarillado (SIAPA), deberán elaborar o, en su caso, actualizar el Catálogo de Puestos que defina los perfiles técnicos, profesionales y de experiencia requeridos para cada plaza. Dicho catálogo deberá ser aprobado por la Junta de Gobierno respectiva y publicado en el portal de transparencia institucional de la entidad, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente decreto.
