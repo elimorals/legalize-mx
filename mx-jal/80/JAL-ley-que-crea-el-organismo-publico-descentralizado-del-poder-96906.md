@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-organismo-publico-descentralizado-del-poder-969
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-24"
-last_updated: "2024-10-08"
+last_updated: "2026-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL PODER EJECUTIVO DENOMINADO SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2026.
 
 Ley publicada en la sección X del Periódico Oficial del Estado de Jalisco, el martes 24 de diciembre de 2013.
 
@@ -295,6 +295,8 @@ V. Las demás atribuciones que se deriven de la presente ley, el Reglamento Inte
 
 Corresponde al titular del Poder Ejecutivo del Estado designar y remover al Director General del Organismo. Será requisito que la persona designada cuente con título profesional en materias afines al objeto del organismo, cinco años de experiencia comprobable y trayectoria reconocida en la materia.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 14.
 
 El Director General será el superior jerárquico de todas las unidades administrativas del organismo y tendrá las obligaciones y atribuciones siguientes:
@@ -321,7 +323,9 @@ X. Asumir el cargo de Secretario Técnico de la Junta de Gobierno;
 
 XI. Asistir a las reuniones de la Junta de Gobierno y mantenerlo informado de las actividades del organismo;
 
-XII. Nombrar de acuerdo con los perfiles establecidos para el puesto y remover al personal de las unidades administrativas que conformen al Organismo Operador Estatal;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
+
+XII. Nombrar y remover al personal de las unidades administrativas que conformen al Organismo Operador Estatal, asegurando que los nombramientos de carácter directivo y técnico cumplan con el perfil profesional y la experiencia establecidos en el Catálogo de Puestos del Organismo.
 
 XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones;
 
@@ -658,3 +662,11 @@ Artículo Primero. El presente decreto entrará en vigor el día siguiente de su
 Artículo Segundo. La Junta de Gobierno del organismo operador de los servicios de agua potable, drenaje, alcantarillado, tratamiento, reutilización, disposición de aguas residuales y manejo de aguas pluviales en el área metropolitana de Guadalajara, deberá formalizar la incorporación a la Junta de Gobierno dentro de los días siguientes a la entrada en vigor de este decreto o a que se suscriba el convenio de incorporación.
 
 Artículo Tercero. En los términos de la fracción XI del artículo 35 de la Constitución Política del Estado de Jalisco, se autoriza al municipio de Tlajomulco de Zúñiga, Jalisco, a suscribir el convenio de incorporación al organismo operador de los servicios de agua potable, drenaje, alcantarillado, tratamiento, reutilización, disposición de aguas residuales y manejo de aguas pluviales en el área metropolitana de Guadalajara.
+
+P.O. 16 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 30173/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 14 DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL PODER EJECUTIVO DENOMINADO SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE JALISCO, Y EL ARTÍCULO 23 DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las entidades paraestatales del Estado de Jalisco, incluido el Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado (SIAPA), deberán elaborar o, en su caso, actualizar el Catálogo de Puestos que defina los perfiles técnicos, profesionales y de experiencia requeridos para cada plaza. Dicho catálogo deberá ser aprobado por la Junta de Gobierno respectiva y publicado en el portal de transparencia institucional de la entidad, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente decreto.
