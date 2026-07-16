@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-de-pensiones-del-estado-de-jalisco-71070"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-19"
-last_updated: "2023-05-23"
+last_updated: "2026-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2026.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 19 de noviembre de 2009.
 
@@ -57,6 +57,8 @@ III. Definir, normar y establecer los requisitos, modalidades y condiciones de l
 
 IV. Fijar las bases de organización y funcionamiento del organismo público descentralizado Instituto de Pensiones del Estado de Jalisco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entiende por:
@@ -81,7 +83,9 @@ IX. Manuales: el Manual General de Organización y los manuales especiales de pr
 
 X. Nómina: documento que contiene las percepciones que obligatoriamente debe otorgar la entidad patronal al afiliado como contraprestación por su trabajo;
 
-XI. Pensión: derecho pecuniario para el pago periódico y vitalicio que reciben las personas señaladas por esta Ley por concepto de jubilación, edad avanzada, invalidez, viudez y orfandad, en los términos y con las condiciones y excepciones establecidas por el presente ordenamiento;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
+
+XI. Pensión: derecho pecuniario para el pago periódico y vitalicio que reciben las personas señaladas por esta Ley por concepto de jubilación, edad avanzada, invalidez, viudez, orfandad y declaración especial de ausencia en los términos y con las condiciones y excepciones establecidas por el presente ordenamiento;
 
 XII. Pensionado: la persona física que, habiendo sido afiliada, obtenga el otorgamiento de una pensión prevista en la presente Ley, previo acuerdo del Consejo Directivo y una vez cumplidos los requisitos aplicables al caso;
 
@@ -279,9 +283,13 @@ La organización y administración del sistema de seguridad social establecido e
 
 El sistema de seguridad social que establece esta Ley comprende un régimen obligatorio y un régimen voluntario, cuyas prestaciones se otorgarán exclusivamente en las formas y condiciones autorizadas por la propia Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 27.
 
 Las prestaciones y servicios que otorga el régimen de las entidades centralizadas, salvo pacto en contrario con la entidad pública patronal, son:
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
 
 I. Pensiones:
 
@@ -291,7 +299,9 @@ b) Por edad avanzada;
 
 c) Por invalidez; y
 
-d) Por viudez y orfandad;
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
+
+d) Por viudez, orfandad o Declaración Especial de Ausencia;
 
 II. Prestaciones económicas derivadas de la muerte del pensionado o del afiliado;
 
@@ -425,6 +435,8 @@ La base de cotización para el pago de las aportaciones de todas las plazas para
 
 En los casos de los afiliados que cuenten con dos o más nombramientos o plazas compatibles en las entidades patronales, deberán cubrirse las cuotas sobre la totalidad de sus percepciones que constituyan las bases de cotización establecidas en esta Ley, y los montos de las prestaciones a que haya lugar conforme al presente ordenamiento se calcularán y se otorgarán sobre las aportaciones correspondientes a cada una de las plazas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 41.
 
 En los términos del artículo anterior se estará a lo siguiente:
@@ -433,7 +445,9 @@ I. La pensión por invalidez sólo se otorgará con respecto a la plaza en que s
 
 II. La pensión por edad avanzada sólo se otorgará con relación a la plaza o plazas en que se tuvieren veinte años o más de cotización; y
 
-III. La pensión por viudez y orfandad derivada de la muerte del pensionado se otorgará exclusivamente en lo que corresponda a la plaza o plazas en que al momento del deceso hubiere estado pensionado.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
+
+III. La pensión por viudez y orfandad derivada de la muerte del pensionado, así como la derivada de la declaración especial de ausencia, se otorgarán exclusivamente en lo que corresponda a la plaza o plazas en que al momento del deceso o desaparición hubiere estado pensionado.
 
 ###### Artículo 42.
 
@@ -559,9 +573,11 @@ Igualmente, cuando el fondo de aportación de un afiliado sea aplicado al pago d
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 58.
 
-El Instituto otorgará, conforme a las disposiciones de la presente Ley, las pensiones por jubilación, por edad avanzada, por invalidez, por viudez y orfandad, las cuales se regirán por las disposiciones contenidas en el presente capítulo.
+El Instituto otorgará, conforme a las disposiciones de la presente Ley, las pensiones por jubilación, por edad avanzada, por invalidez, por viudez, orfandad y declaración especial de ausencia, las cuales se regirán por las disposiciones contenidas en el presente capítulo.
 
 ###### Artículo 59.
 
@@ -581,6 +597,8 @@ Para el otorgamiento y conservación de la pensión el Instituto podrá determin
 
 Para que un afiliado pueda obtener alguna de las pensiones establecidas en esta Ley, deberá cubrir previamente los adeudos vencidos que por cualquier concepto tenga con el Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 62.
 
 La compatibilidad o incompatibilidad de las pensiones previstas por esta Ley, se determinará conforme a las siguientes disposiciones:
@@ -597,9 +615,13 @@ En el caso de afiliados que coticen en dos o más plazas, el monto de las pensio
 
 III. La pensión por invalidez es incompatible con cualquier otro tipo de pensión que otorgue el Instituto que se derive de la misma plaza;
 
-IV. La pensión por viudez y orfandad que otorgue el Instituto es compatible, únicamente, con otra de esa misma naturaleza, generada por la muerte de un familiar diverso que al momento de su fallecimiento ya hubiere sido pensionado por el Instituto; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
 
-V. La pensión por viudez y orfandad es compatible con la percepción, exclusivamente, de una pensión por jubilación, invalidez o edad avanzada otorgada por el Instituto.
+IV. La pensión por viudez, orfandad o declaración especial de ausencia, que otorgue el Instituto es compatible, únicamente, con otra de esa misma naturaleza, generada por la muerte de un familiar diverso que al momento de su fallecimiento ya hubiere sido pensionado por el Instituto; y
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
+
+V. La pensión por viudez, orfandad o declaración especial de ausencia, es compatible con la percepción, exclusivamente, de una pensión por jubilación, invalidez o edad avanzada otorgada por el Instituto.
 
 En el caso de pensionados a los que habiendo cumplido la antigüedad de cotización en más de dos plazas se les concedan las pensiones respectivas, se les suspenderá de inmediato el pago de la pensión por viudez y orfandad.
 
@@ -685,7 +707,9 @@ El afiliado que, habiendo cumplido los treinta años de cotización, aún no ten
 
 En tal supuesto, la pensión por jubilación se pagará a partir de que sea solicitada y se haya cumplido la edad mínima. El monto de la pensión que se otorgue se calculará tomando como base los últimos tres años cotizados acorde al artículo 70 de esta Ley, actualizándose esa base en proporción a los incrementos del salario mínimo general en la Zona Metropolitana de Guadalajara.
 
-Si la persona que hubiere cumplido treinta años de cotización, muriera antes de alcanzar los sesenta y cinco años de edad, sin estar en activo; los beneficiarios podrán gestionarla, al momento del fallecimiento, cubriéndose el 50% por viudez y orfandad, distribuible entre los beneficiarios.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
+
+Si la persona que hubiere cumplido treinta años de cotización, muriera o desapareciera antes de alcanzar los sesenta y cinco años de edad, sin estar en activo; los beneficiarios podrán gestionarla, al momento del fallecimiento, o de la declaración especial de ausencia, cubriéndose el 50% por viudez y orfandad, distribuible entre los beneficiarios.
 
 #### Sección Tercera. De la Pensión por Edad Avanzada
 
@@ -861,21 +885,29 @@ La permanencia del trabajador en el servicio por más de seis meses a partir de 
 
 El Instituto pagará exclusivamente las prestaciones previstas en esta Ley. Se reservan al trabajador afiliado las acciones que, en su caso, procedan contra las entidades públicas patronales por concepto de riesgos de trabajo.
 
-#### Sección Quinta. De la Pensión por Viudez y Orfandad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JULIO DE 2026)</small>
+
+#### Sección Quinta. De la Pensión por Viudez, Orfandad y Declaración Especial de Ausencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2026)</small>
 
 ###### Artículo 91.
 
-La pensión por viudez y orfandad procede en el caso de que fallezca el afiliado en activo y se cumplan los siguientes requisitos:
+La pensión por viudez, orfandad, o declaración especial de ausencia, procede en el caso de que fallezca el afiliado en activo y en los casos de declaración especial de ausencia, a partir del día siguiente de la publicación que ordene el juez en el procedimiento especial de declaración de ausencia, en términos de lo dispuesto en la Ley para la Declaración Especial de Ausencia por Desaparición de Personas del Estado de Jalisco, y se cumplan los siguientes requisitos:
 
-I. Que el afiliado fallecido hubiere acumulado cuando menos diez años de cotización efectiva, en tiempo y forma, al Instituto, o en el supuesto de que hubiere muerto por causa de riesgo de trabajo aún cuando no tuviere los diez años de cotización;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
+
+I. Que el afiliado fallecido o desaparecido hubiere acumulado cuando menos diez años de cotización efectiva, en tiempo y forma, al Instituto, o en el supuesto de que hubiere muerto o desaparecido por causa de riesgo de trabajo aún cuando no tuviere los diez años de cotización;
 
 II. Que el afiliado no hubiere tenido derecho a pensión por jubilación, edad avanzada o invalidez; y
 
 III. Que se demuestre fehacientemente la existencia de los beneficiarios a que se refiere esta Ley, y que éstos o sus representantes presenten ante el Instituto la solicitud respectiva acompañada de los documentos que acrediten los extremos anteriores, conforme se determine en los reglamentos respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 92.
 
-La pensión por viudez y orfandad será cuantificada sobre la base de cotización que hubiere tenido en vida el afiliado fallecido y conforme a los porcentajes establecidos en la siguiente tabla:
+La pensión por viudez, orfandad o declaración especial de ausencia, será cuantificada sobre la base de cotización que hubiere tenido en vida el afiliado fallecido y conforme a los porcentajes establecidos en la siguiente tabla:
 
 Menos de 10 años de cotización en caso
 
@@ -923,13 +955,21 @@ de muerte por riesgo de trabajo 30%
 
 30 años o más de cotización 50%
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 93.
 
-El derecho a la percepción de pensión por viudez y orfandad nace a partir del día siguiente de la fecha en que ocurra el fallecimiento del afiliado.
+El derecho a la percepción de pensión por viudez, orfandad o declaración especial de ausencia nace a partir del día siguiente de la fecha en que ocurra el fallecimiento del afiliado y en los casos de declaración especial de ausencia, a partir del día siguiente de la publicación que ordene el juez en el procedimiento especial de declaración de ausencia, en términos de lo dispuesto en la Ley para la Declaración Especial de Ausencia por Desaparición de Personas del Estado de Jalisco.
 
-Esta prestación se otorgará únicamente en económico sin que exista obligación de otorgar servicio médico ni otras prestaciones.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
 
-Si a la fecha del fallecimiento el afiliado no contare con el tiempo de cotización requerido para que sus beneficiarios accedan a una pensión por viudez u orfandad, habrá lugar a la devolución del fondo de aportación en favor de sus beneficiarios o la prestación económica por el monto de 20 salarios mínimos elevados al mes, lo que sea mayor, en una sola exhibición.
+Esta prestación se otorgará únicamente en lo económico sin que exista obligación de otorgar servicio médico ni otras prestaciones.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
+
+Si a la fecha del fallecimiento o desaparición el afiliado no contare con el tiempo de cotización requerido para que sus beneficiarios accedan a una pensión por viudez, orfandad o declaración especial de ausencia, habrá lugar a la devolución del fondo de aportación en favor de sus beneficiarios o la prestación económica por el monto de 20 salarios mínimos elevados al mes, lo que sea mayor, en una sola exhibición.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
 
 La devolución no incluirá:
 
@@ -939,35 +979,49 @@ II. Fondo de garantía por préstamos; y
 
 III. Aportaciones voluntarias en la proporción correspondiente a las patronales totales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 94.
 
-Los beneficiarios del afiliado que tendrán derecho a recibir la pensión por viudez y orfandad, serán él o la cónyuge; concubina o concubinario supérstites, según sea el caso; sólo o en concurrencia con los hijos del afiliado fallecido si los hay menores de edad o mayores de edad que se encuentren física o mentalmente inhabilitados para trabajar, de manera total y permanente, o los que, siendo menores de 23 años, dependan económicamente del afiliado por estar realizando estudios en planteles del sistema educativo nacional. Igual derecho tendrán los hijos concebidos y no nacidos al momento del fallecimiento del afiliado, siempre que sean viables, y su derecho empezará a partir del día del nacimiento, sobre las pensiones futuras.
+Los beneficiarios del afiliado que tendrán derecho a recibir la pensión por viudez, orfandad o declaración especial de ausencia, serán él o la cónyuge; concubina o concubinario supérstites, según sea el caso; sólo o en concurrencia con los hijos del afiliado fallecido si los hay menores de edad o mayores de edad que se encuentren física o mentalmente inhabilitados para trabajar, de manera total y permanente, o los que, siendo menores de 23 años, dependan económicamente del afiliado por estar realizando estudios en planteles del sistema educativo nacional. Igual derecho tendrán los hijos concebidos y no nacidos al momento del fallecimiento del afiliado, siempre que sean viables, y su derecho empezará a partir del día del nacimiento, sobre las pensiones futuras.
 
 En caso de concubinato, la concubina o concubinario supérstites, según sea el caso, sólo podrán ser beneficiarios, cuando al momento de la muerte de afiliado, estuvieren imposibilitados física o mentalmente, o fueren mayor de sesenta y cinco años.
 
 Se excluyen de la pensión por orfandad los hijos mayores de edad y emancipados con incapacidad física o mental, cuando su estado de invalidez se hubiere producido durante su mayoría de edad o emancipación y derive de una conducta intencional o haya sido causada por actividad laboral.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 95.
 
-El monto total de la pensión por viudez y orfandad se dividirá por partes iguales entre todos los beneficiarios que tengan derecho a ella. Cuando alguno de ellos perdiese su derecho, su parte acrecerá proporcionalmente la de los demás.
+El monto total de la pensión por viudez, orfandad o declaración especial de ausencia se dividirá por partes iguales entre todos los beneficiarios que tengan derecho a ella. Cuando alguno de ellos perdiese su derecho, su parte acrecerá proporcionalmente la de los demás.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
 
 ###### Artículo 96.
 
 La pensión por viudez y orfandad se concederá independientemente de la causa de fallecimiento del afiliado, salvo que el familiar beneficiario hubiera provocado intencionalmente la muerte del afiliado, según sentencia ejecutoriada que lo declare.
 
-#### Sección Sexta. De la Prestación Económica por Muerte del Pensionado
+La pensión por declaración especial de ausencia se concederá independientemente de la causa de desaparición del afiliado, salvo que el familiar beneficiario hubiera provocado intencionalmente la desaparición del afiliado, según sentencia ejecutoriada que lo declare.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JULIO DE 2026)</small>
+
+#### Sección Sexta. De la Prestación Económica por Muerte o Desaparición del Pensionado
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
 
 ###### Artículo 97.
 
-Cuando fallezca un pensionado por jubilación, por edad avanzada o por invalidez, sus beneficiarios tendrán derecho a una prestación económica mensual equivalente al 50% del importe de la pensión que el pensionado percibía al momento de su fallecimiento, la cual se podrá incrementar en la misma proporción y simultáneamente a los aumentos que sufra el salario mínimo general vigente en la Zona Metropolitana de Guadalajara y conforme lo determine el Consejo Directivo.
+Cuando fallezca o desaparezca un pensionado por jubilación, por edad avanzada o por invalidez, sus beneficiarios tendrán derecho a una prestación económica mensual equivalente al 50% del importe de la pensión que el pensionado percibía al momento de su fallecimiento o desaparición, la cual se podrá incrementar en la misma proporción y simultáneamente a los aumentos que sufra el salario mínimo general vigente en la Zona Metropolitana de Guadalajara y conforme lo determine el Consejo Directivo.
 
-Igual derecho generará para sus beneficiarios el fallecimiento, en activo o no, del afiliado que, al momento del deceso, ya tuviere derecho a una pensión por jubilación, por edad avanzada o por invalidez en los términos de esta Ley, aun cuando no lo hubiere ejercido. En este caso el monto de la prestación se calculará sobre el importe de la pensión que al afiliado fallecido le habría correspondido al momento del deceso, como si hubiere estado pensionado.
+Igual derecho generará para sus beneficiarios el fallecimiento o desaparición, en activo o no, del afiliado que, al momento del deceso, ya tuviere derecho a una pensión por jubilación, por edad avanzada o por invalidez en los términos de esta Ley, aun cuando no lo hubiere ejercido. En este caso el monto de la prestación se calculará sobre el importe de la pensión que al afiliado fallecido o desaparecido le habría correspondido al momento del deceso, como si hubiere estado pensionado.
 
 ###### Artículo 98.
 
 Los beneficiarios del pensionado que tendrán derecho a recibir esta prestación, serán el o la cónyuge o concubina supérstites, según sea el caso, solo o en concurrencia con los hijos del pensionado fallecido si los hay menores de edad o mayores de edad que se encuentren física o mentalmente inhabilitados para trabajar, de manera total y permanente, o los que, siendo menores de 23 años, dependan económicamente del pensionado por estar realizando estudios en planteles del sistema educativo nacional. Igual derecho tendrán los hijos concebidos y no nacidos al momento del fallecimiento del pensionado, siempre que sean viables, y su derecho empezará a partir del día del nacimiento, sobre las mensualidades futuras.
 
-En caso de concubinato, la concubina o concubinario supérstites, según sea el caso, sólo podrán ser beneficiarios, cuando al momento de la muerte de afiliado, estuvieren imposibilitados física o mentalmente, o fueren mayor de sesenta y cinco años.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
+
+En caso de concubinato, la concubina o concubinario supérstites, según sea el caso, sólo podrán ser beneficiarios, cuando al momento de la muerte o de la declaración especial de ausencia de afiliado, estuvieren imposibilitados física o mentalmente, o fueren mayor de sesenta y cinco años.
 
 ###### Artículo 99.
 
@@ -977,7 +1031,11 @@ El monto total de la prestación a que se refiere la presente sección se dividi
 
 Los beneficiarios del pensionado en los términos de la presente sección tendrán derecho a recibir una gratificación anual equivalente a cuarenta días de la pensión que estén recibiendo, según lo acuerde de forma general el Consejo Directivo. Los que tuviesen menos de un año percibiendo la prestación económica recibirán como gratificación anual la parte proporcional que les corresponda.
 
-#### Sección Séptima. De las Disposiciones Comunes para la Pensión por Viudez y Orfandad y para la Prestación Económica por Muerte del Pensionado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JULIO DE 2026)</small>
+
+#### Sección Séptima
+
+De las Disposiciones Comunes para la Pensión por Viudez, Orfandad y Declaración Especial de Ausencia y para la Prestación Económica por Muerte o Desaparición del Pensionado
 
 ###### Artículo 101.
 
@@ -987,25 +1045,39 @@ En el caso de afiliados en activo, los tratamientos médicos, exámenes y medios
 
 Los tratamientos y exámenes médicos de los pensionados y sus beneficiarios estarán a cargo del Instituto.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 102.
 
-Si después de otorgada la pensión por viudez y orfandad o la prestación por muerte del pensionado, aparecen otros beneficiarios con derecho a la misma, se les hará extensiva y percibirán sus partes a partir de la fecha en que sea resuelta su solicitud por el Instituto sin que puedan reclamar el pago de las cantidades ya percibidas por los primeros beneficiarios.
+Si después de otorgada la pensión por viudez, orfandad o declaración especial de ausencia; o la prestación por muerte del pensionado, aparecen otros beneficiarios con derecho a la misma, se les hará extensiva y percibirán sus partes a partir de la fecha en que sea resuelta su solicitud por el Instituto sin que puedan reclamar el pago de las cantidades ya percibidas por los primeros beneficiarios.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
 
 ###### Artículo 103.
 
-En caso de controversia o duda fundada entre quienes pretendan tener el derecho a la pensión por viudez y orfandad o a la prestación por muerte del pensionado, se suspenderá el trámite y pago de la misma hasta que se resuelva la situación por las autoridades competentes, sin que el beneficiario que obtenga resolución favorable pueda exigir el pago de las cantidades cobradas con anterioridad por otro u otros posibles beneficiarios.
+En caso de controversia o duda fundada entre quienes pretendan tener el derecho a la pensión por viudez, orfandad o declaración especial de ausencia; o a la prestación por muerte o desaparición del pensionado, se suspenderá el trámite y pago de la misma hasta que se resuelva la situación por las autoridades competentes, sin que el beneficiario que obtenga resolución favorable pueda exigir el pago de las cantidades cobradas con anterioridad por otro u otros posibles beneficiarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2026)</small>
 
 ###### Artículo 104.
 
-Los beneficiarios del afiliado o pensionado perderán el derecho a la pensión por viudez y orfandad o la prestación por muerte del pensionado, por cualquiera de las siguientes causas:
+Los beneficiarios del afiliado o pensionado perderán el derecho a la pensión por viudez, orfandad, o declaración especial de ausencia o la prestación por muerte o desaparición del pensionado, por cualquiera de las siguientes causas:
 
 I. Por fallecimiento;
 
 II. Por incumplir los requisitos establecidos en esta Ley para ser considerado beneficiario;
 
-III. Por contraer matrimonio o entrar en concubinato con otra persona; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
 
-IV. Por sentencia ejecutoriada que declare que el beneficiario fue el causante de la muerte del afiliado o pensionado.
+III. Por contraer matrimonio o entrar en concubinato con otra persona;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
+
+IV. Por sentencia ejecutoriada que declare que el beneficiario fue el causante de la muerte del afiliado o pensionado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2026)</small>
+
+V. Si se hallare a la persona ausente, o regresa por sí sola
 
 ###### Artículo 105.
 
@@ -1023,17 +1095,27 @@ En el caso de los pensionados el otorgamiento de esta prestación se realizará 
 
 ### Capítulo V. Del Ramo de Servicios Médicos para los Pensionados y sus Beneficiarios
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 106.
 
 El Instituto otorgará servicio médico a:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE JULIO DE 2026)</small>
+
 I. El pensionado por jubilación, por edad avanzada y por invalidez;
 
-II. Los beneficiarios del pensionado por jubilación, por edad avanzada y por invalidez; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
 
-III. Los beneficiarios del afiliado fallecido en activo que, al momento del deceso, ya tuviere derecho a una pensión por jubilación, por edad avanzada o por invalidez en los términos de esta Ley, aun cuando no lo hubiere ejercido.
+II. Los beneficiarios del pensionado por jubilación, por edad avanzada, por invalidez o por declaración especial de ausencia; y
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
+
+III. Los beneficiarios del afiliado fallecido o desaparecido en activo que, al momento del deceso o de la declaración especial de ausencia, ya tuviere derecho a una pensión por jubilación, por edad avanzada o por invalidez en los términos de esta Ley, aun cuando no lo hubiere ejercido.
 
 Podrá pactarse con las entidades patronales que los servicios médicos a los sujetos antes indicados sean otorgados por las propias entidades patronales o por terceros con cargo al patrón, conforme a los convenios que autorice el Consejo Directivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
 
 ###### Artículo 107.
 
@@ -1047,7 +1129,11 @@ Si hubiere dos o más personas que se encuentren en este supuesto, respecto a un
 
 III. Los hijos menores de edad o mayores de edad que se encuentren física o mentalmente inhabilitados para trabajar, de manera total y permanente, o los que, siendo menores de 23 años, dependan económicamente del pensionado por estar realizando estudios en planteles del sistema educativo nacional;
 
-IV. Los hijos concebidos y no nacidos al momento del fallecimiento del pensionado, siempre que sean viables. Su derecho empezará a partir del día del nacimiento; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
+
+IV. Los hijos concebidos y no nacidos al momento del fallecimiento o desaparición del pensionado, siempre que sean viables. Su derecho empezará a partir del día del nacimiento; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE JULIO DE 2026)</small>
 
 V. El padre y la madre del pensionado, que vivan en el hogar de éste o dependan económicamente de él, aún sin habitar en la misma casa.
 
@@ -1135,9 +1221,11 @@ Todo crédito otorgado conforme a las disposiciones del presente capítulo deber
 
 La falta de pago oportuno de los créditos otorgados conforme a este capítulo dará lugar a la anotación del acreditado en el Buró de Crédito Interno del Instituto, que se regirá conforme a las disposiciones que se expidan por el Consejo Directivo.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 117.
 
-El fallecimiento del acreditado suspenderá la causación de intereses respecto a los adeudos que aquél tuviere con el Instituto y el capital principal será saldado de conformidad con lo dispuesto en esta Ley con respecto al Fondo de Garantía.
+El fallecimiento o la declaración especial de ausencia del acreditado suspenderá la causación de intereses respecto a los adeudos que aquél tuviere con el Instituto y el capital principal será saldado de conformidad con lo dispuesto en esta Ley con respecto al Fondo de Garantía.
 
 ###### Artículo 118.
 
@@ -1193,6 +1281,8 @@ IV. Redención de gravámenes que soporten tales inmuebles.
 
 El Instituto podrá enajenar inmuebles en mercado abierto a personas no afiliadas ni pensionadas, siempre que el rendimiento de la inversión así lo justifique; ello con el fin de fortalecer la salud financiera del Instituto para garantizar la continuidad de las prestaciones de afiliados y pensionados, en términos de los lineamientos que emita el Consejo Directivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 123.
 
 Los créditos de esquema hipotecario se otorgarán con sujeción a las siguientes reglas:
@@ -1215,13 +1305,17 @@ VIII. Los contratos que se celebren con los afiliados deberán establecer las ca
 
 IX. La falta de pago oportuno de los créditos otorgados conforme a este capítulo dará lugar a la anotación del afiliado acreditado en el Buró de Crédito Interno, que se regirá conforme a las disposiciones que se expidan por el Consejo Directivo;
 
-X. El préstamo hipotecario estará garantizado por un fondo de garantía o póliza que libere al afiliado o a sus beneficiarios de las obligaciones derivadas de dicho préstamo en los casos de siniestro del inmueble, incapacidad total permanentemente o fallecimiento del acreditado; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
+
+X. El préstamo hipotecario estará garantizado por un fondo de garantía o póliza que libere al afiliado o a sus beneficiarios de las obligaciones derivadas de dicho préstamo en los casos de siniestro del inmueble, incapacidad total permanentemente, fallecimiento del acreditado o declaración especial de ausencia; y
 
 XI. El fondo de garantía se regirá por las disposiciones de esta Ley y las disposiciones que emita el Consejo Directivo, sin que sea sujeto de devolución alguna, sino que se conservará en acrecentamiento patrimonial, para su aplicación a créditos incobrables.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 124.
 
-En caso de fallecimiento del afiliado acreditado o pensionado, o de la incapacidad total y permanente del afiliado determinada por el correspondiente dictamen médico, el Instituto cubrirá con el fondo de garantía estos riesgos, el cual se regulará conforme a esta Ley y por las disposiciones que expida el Consejo Directivo.
+En caso de fallecimiento del afiliado acreditado o pensionado, de incapacidad total y permanente del afiliado determinada por el correspondiente dictamen médico, o cuando se haya emitido declaración especial de ausencia por autoridad judicial competente que haya causado estado, el Instituto cubrirá con el fondo de garantía estos riesgos, el cual se regulará conforme a esta Ley y a las disposiciones que expida el Consejo Directivo.
 
 ###### Artículo 125.
 
@@ -1235,13 +1329,21 @@ Previa solicitud del afiliado acreditado que se separe definitivamente del servi
 
 ### Capítulo VIII. Del Fondo de Garantía
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 127.
 
 El fondo de garantía se constituye para absorber todos aquellos créditos de afiliados y pensionados que habiéndose agotado los procedimientos legales tendientes a su cobro, sean considerados por el Instituto como incobrables.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
+
 La aplicación del fondo de garantía será procedente después de un año de haberse dictaminado como incobrable el crédito.
 
-Se cubrirán con cargo a dicho fondo los adeudos de los acreditados que dentro del período de vigencia del crédito fallezcan o queden inhabilitados, física o mentalmente, en forma total y permanente.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
+
+Se cubrirán con cargo a dicho fondo los adeudos de los acreditados que dentro del período de vigencia del crédito fallezcan, exista declaración especial de ausencia del afiliado o queden inhabilitados, física o mentalmente, en forma total y permanente.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
 
 El Fondo de Garantía es aplicable a los siguientes tipos de crédito:
 
@@ -1261,13 +1363,23 @@ El Fondo de Garantía es administrado por el Instituto y sus recursos tienen com
 
 Las primas del Fondo de Garantía no son materia de devolución a la conclusión del crédito, permanecerán en el patrimonio institucional, para su afectación a la cobertura de riesgos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 129.
 
 Los créditos que se señalan en el artículo 127 de esta Ley serán cubiertos por el Fondo de Garantía en los siguientes casos:
 
-I. Fallecimiento del afiliado o pensionado acreditado; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
 
-II. Incapacidad total permanente del afiliado o pensionado acreditado, declarándose así por el dictamen médico correspondiente.
+I. Fallecimiento del afiliado o pensionado acreditado;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
+
+II. Incapacidad total permanente del afiliado o pensionado acreditado, declarándose así por el dictamen médico correspondiente; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2026)</small>
+
+III. Por declaración especial de ausencia del afiliado
 
 Tratándose de créditos hipotecarios, el fondo de garantía cubre además el riesgo por caso fortuito o fuerza mayor, no imputable al afiliado o pensionado, donde existiera la pérdida total del bien que garantiza el pago del crédito hipotecario.
 
@@ -1319,9 +1431,11 @@ Los servicios se prestarán mediante el pago de la cuota de recuperación o tari
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 137.
 
-El afiliado que hubiere estado incorporado por lo menos cuatro años en el régimen de las entidades centralizadas y cause baja definitiva del servicio, sin haber sido pensionado ni pertenecer al régimen de las entidades centralizadas de esta Ley, podrá continuar contribuyendo voluntariamente al fondo de pensiones, para seguir generando el derecho a las pensiones por jubilación, por edad avanzada o por viudez y orfandad.
+El afiliado que hubiere estado incorporado por lo menos cuatro años en el régimen de las entidades centralizadas y cause baja definitiva del servicio, sin haber sido pensionado ni pertenecer al régimen de las entidades centralizadas de esta Ley, podrá continuar contribuyendo voluntariamente al fondo de pensiones, para seguir generando el derecho a las pensiones por jubilación, por edad avanzada o por viudez, orfandad o declaración especial de ausencia.
 
 ###### Artículo 138.
 
@@ -1383,6 +1497,8 @@ Las actualizaciones no podrán ser retroactivas, dado que los pagos deberán hab
 
 Dado el carácter voluntario de las aportaciones, las actualizaciones tanto de la base como de la tasa se efectuarán de oficio por el Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
+
 ###### Artículo 145.
 
 La incorporación al régimen voluntario se pierde:
@@ -1393,9 +1509,17 @@ II. Por dejar de pagar las aportaciones correspondientes durante seis meses cons
 
 III. Por ser dado de alta el afiliado nuevamente en el régimen de las entidades centralizadas;
 
-IV. Por fallecimiento; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
 
-V. Por haberse pensionado.
+IV. Por fallecimiento;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
+
+V. Por haberse pensionado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2026)</small>
+
+VI. Por desaparición.
 
 ###### Artículo 146.
 
@@ -1403,11 +1527,21 @@ En caso de que el aportador voluntario solicite la devolución de su fondo de ap
 
 Si el aportador voluntario tuviere adeudos pendientes con el Instituto, se le restará la parte suficiente para cubrirlos, pudiendo aplicarse íntegramente su fondo de aportaciones al pago de sus obligaciones.
 
-En caso de fallecimiento del aportador voluntario sin que hubiere adquirido el derecho a pensión, sus beneficiarios, en los términos de esta Ley, podrán solicitar la devolución de su fondo de aportaciones; excepción hecha de la parte proporcional de cuota patronal que quedará en el patrimonio del Instituto como fondo solidario.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
 
-Si al fallecer el aportador voluntario hubiere reunido los requisitos para acceder a una pensión, sin haberla solicitado y obtenido; los beneficiarios recibirán la prestación establecida en el artículo 97 de esta Ley.
+En caso de fallecimiento o de declaración especial de ausencia del aportador voluntario sin que hubiere adquirido el derecho a pensión, sus beneficiarios, en los términos de esta Ley, podrán solicitar la devolución de su fondo de aportaciones; excepción hecha de la parte proporcional de cuota patronal que quedará en el patrimonio del Instituto como fondo solidario.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2026)</small>
+
+Si al fallecer o desaparecer el aportador voluntario hubiere reunido los requisitos para acceder a una pensión, sin haberla solicitado y obtenido; los beneficiarios recibirán la prestación establecida en el artículo 97 de esta Ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
 
 Cuando el aportador voluntario haya accedido a una pensión no podrá solicitarse la devolución de fondos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JULIO DE 2026)</small>
+
+En los casos de afiliados desaparecidos, deberá existir la declaración especial de ausencia, emitida por el Juez competente y que haya causado estado.
 
 ###### Artículo 147.
 
@@ -1422,6 +1556,8 @@ Una vez desafectados los recursos del fondo de pensiones no podrán ingresar nue
 ###### Artículo 148.
 
 El Instituto de Pensiones del Estado de Jalisco es un organismo público descentralizado del Poder Ejecutivo del Estado, con autonomía técnica y operativa, personalidad jurídica y patrimonio propio, con las atribuciones de servicio y de autoridad que esta Ley le concede para el cumplimiento de los fines de la seguridad social que le son confiados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE JULIO DE 2026)</small>
 
 ###### Artículo 149.
 
@@ -1455,9 +1591,19 @@ XII. Celebrar convenios, contratos y acuerdos con los sectores público, privado
 
 XIII. Establecer y organizar la estructura administrativa necesaria para su funcionamiento;
 
-XIV. Participar en la elaboración de los reglamentos que normen las prestaciones establecidas en la Ley, así como proponer al Titular del Poder Ejecutivo del Estado las propuestas de reformas y adecuaciones legales necesarias para el buen funcionamiento institucional; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2026)</small>
 
-XV. Las demás que sean necesarias para el cumplimiento de las anteriores y las que se establezcan en esta Ley.
+XIV. Participar en la elaboración de los reglamentos que normen las prestaciones establecidas en la Ley, así como proponer al Titular del Poder Ejecutivo del Estado las propuestas de reformas y adecuaciones legales necesarias para el buen funcionamiento institucional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2026)</small>
+
+XV. Pensiones del Estado deberá integrar y mantener actualizada una base de datos institucional que contenga el registro de las personas trabajadoras sujetas al rubro de declaración especial de ausencia.
+
+Dicha base será alimentada y actualizada de manera mensual, por las dependencias y entidades de la Administración Pública del Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2026)</small>
+
+XVI. Las demás que sean necesarias para el cumplimiento de las anteriores y las que se establezcan en esta Ley.
 
 Las atribuciones y funciones del Instituto a las que se refiere este artículo residen esencial y originariamente en el Consejo Directivo, pero podrán ser delegadas o ejercidas en forma individual o conjunta a los integrantes del Consejo Directivo, previo acuerdo de éste y conforme a lo establecido en esta Ley y en el Reglamento Interior del Instituto.
 
@@ -1954,3 +2100,11 @@ P.O. 23 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29179/LXIII/23 QUE MODIFICA DIVERSOS ORDENAMIENTOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS DEL GOBIERNO DEL ESTADO, CON EL OBJETO DE QUE LA SECRETARÍA DE HACIENDA PÚBLICA FORME PARTE DEL ÓRGANO MÁXIMO DE DICHOS ENTES PÚBLICOS; ASÍ MISMO SE INCORPORE LENGUAJE INCLUYENTE Y, EN LOS CASO (SIC) NECESARIOS, SE REALICE LA ACTUALIZACIÓN DE DENOMINACIONES DE LAS DEPENDENCIAS Y ENTIDADES QUE LO INTEGRAN”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 16 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 30205/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 3, 27, 41, 58, 62, 73, EL TÍTULO DE LA SECCIÓN QUINTA, 91, 92, 93, 94, 95, 96, EL TÍTULO DE LA SECCIÓN SEXTA, 97, 98, EL TÍTULO DE LA SECCIÓN SÉPTIMA 102, 103, 104, 106, 107, 117, 123, 124, 127, 129, 137, 145, 146 Y 149 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El titular del Poder Ejecutivo Estatal dispondrá de 60 días naturales para realizar las adecuaciones reglamentarias que deriven del presente decreto.
