@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-la-atencion-y-proteccion-a-personas-con-la-122700"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2017-07-19"
+last_updated: "2026-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 19 de julio de 2017.
 
@@ -170,6 +170,10 @@ VIII. Ser inscritos en el Sistema de Protección Social en Salud, conforme a lo 
 IX. Recibir una educación o capacitación basada en criterios de integración e inclusión, tomando en cuenta sus capacidades y potencialidades, mediante evaluaciones pedagógicas, a fin de fortalecer la posibilidad de una vida independiente;
 
 X. Contar, en el marco de la educación especial a que se refiere la Ley de Educación para el Estado, con elementos que faciliten su proceso de integración a escuelas de educación regular;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2026)</small>
+
+X Bis. Promover e implementar programas para la formación y capacitación de personal docente y directivo de educación básica y media superior, en salud mental, socioemocional y autocuidado, así como trastornos del neurodesarrollo, incluido el espectro autista;
 
 XI. Acceder a los programas gubernamentales para recibir alimentación nutritiva, suficiente, de calidad, y de acuerdo a las necesidades metabólicas propias de su condición;
 
@@ -374,3 +378,17 @@ GONZALO GÓMEZ FLORES
 El Secretario de Salud
 
 ALFREDO ROMÁN MESSINA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 419 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN, DE LA LEY DE SALUD MENTAL, Y DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA, TODAS DEL ESTADO DE SINALOA.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
