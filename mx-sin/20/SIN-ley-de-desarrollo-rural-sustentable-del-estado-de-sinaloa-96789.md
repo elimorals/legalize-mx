@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-rural-sustentable-del-estado-de-sinaloa-96789
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2018-05-25"
+last_updated: "2026-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2026.
 
 Ley publicada en la Primera Sección de la Edición Extraordinaria del Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 2013.
 
@@ -67,9 +67,17 @@ VIII. Generar, integrar y hacer accesible la información requerida para el segu
 
 IX. Promover, en coordinación con las instancias correspondientes, la investigación y transferencia de tecnología, educación y capacitación acordes a las condiciones culturales y socioeconómicas de la población rural a fin de elevar su calidad de vida;
 
-X. Diseñar y promover prácticas productivas orientadas a la conservación y mejoramiento de los recursos naturales, la biodiversidad, la inocuidad alimentaria y los servicios ambientales del campo; y,
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
 
-XI. El cumplimiento del objeto de esta Ley y los principios de política señalados en la misma.
+X. Diseñar y promover prácticas productivas orientadas a la conservación y mejoramiento de los recursos naturales, la biodiversidad, la inocuidad alimentaria y los servicios ambientales del campo;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+XI. El cumplimiento del objeto de esta Ley y los principios de política señalados en la misma; y
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2026)</small>
+
+XII. Garantizar la paridad de género en la representación y participación en todas las actividades de desarrollo rural, de modo que las mujeres cuenten con voz en la toma de decisiones, así como establecer la equidad de género en el acceso a financiamiento, capacitación y recursos productivos, reconociendo plenamente su papel en la economía rural.
 
 ###### Artículo 3°.
 
@@ -408,6 +416,10 @@ XXIV. Las demás que le establezca la presente Ley.
 ###### Artículo 20.
 
 La rectoría de la planeación del desarrollo rural en el Estado es responsabilidad compartida de los Gobiernos Estatal y Municipal, quienes mediante convenios de coordinación con la Federación podrán desarrollar tal función.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2026)</small>
+
+Para ello, deberán integrar la perspectiva de género en todas las estrategias, programas y políticas de desarrollo rural, asegurando la participación equitativa de las mujeres en la toma de decisiones, el acceso a recursos productivos y la implementación de proyectos que promuevan su empoderamiento económico y social en las comunidades rurales.
 
 ###### Artículo 21.
 
@@ -783,15 +795,23 @@ XI. Promover el aprovechamiento sustentable de los recursos naturales de uso col
 
 XII. La producción y desarrollo de mercados para productos no tradicionales.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE JULIO DE 2026)</small>
 
-Los apoyos que se otorguen a mujeres vinculadas al sector rural deberán atender los siguientes lineamientos:
+Los apoyos que se otorguen a mujeres vinculadas al sector rural deberán ser asignados en forma paritaria en cuanto al género y deberán atender los siguientes lineamientos:
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2018)</small>
 
 l. Otorgar la posibilidad de complementar las actividades rurales productivas con actividades paralelas de educación auspiciadas, para la conclusión de la educación básica;
 
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2018)</small>
+
 II. Contar con un componente de capacitación en materia de equidad de género para toda la población integrante de las unidades económicas rurales;
 
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2018)</small>
+
 III. Incorporar elementos de difusión permanente de información para el combate a cualquier tipo de violencia por razón de género; y,
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2018)</small>
 
 IV. Promover la integración de las mujeres en sociedades y empresas productivas mediante la capacitación y el otorgamiento preferente de créditos y microcréditos.
 
@@ -1332,3 +1352,15 @@ P.O. 25 DE MAYO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. El Ejecutivo del Estado deberá contemplar las partidas presupuestales necesarias en la Ley de Ingresos y Presupuesto de Egresos del Estado, para el Ejercicio Fiscal correspondiente para el cumplimiento del presente Decreto.
+
+P.O. 17 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 434 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 2, 20 Y 60 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan al presente Decreto.
