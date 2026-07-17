@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-las-personas-con-trastorno-del-espectro-del-131613"
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-17"
-last_updated: "2020-01-25"
+last_updated: "2026-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY PARA LAS PERSONAS CON TRASTORNO DEL ESPECTRO DEL AUTISMO EN EL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO 30210/LXIV/26 DEL CONGRESO DEL ESTADO QUE ABROGA LA LEY PARA LAS PERSONAS CON TRASTORNO DEL ESPECTRO DEL AUTISMO EN EL ESTADO DE JALISCO Y EXPIDE LA LEY PARA LA ATENCIÓN, PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS QUE VIVEN EN EL ESPECTRO AUTISTA DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 17 DE JULIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LAS PERSONAS CON TRASTORNO DEL ESPECTRO DEL AUTISMO EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2026 (ABROGADO).
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 17 de noviembre de 2018.
 
@@ -234,3 +236,19 @@ P.O. 25 DE ENERO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 17 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 30210/LXIV/26 DEL CONGRESO DEL ESTADO QUE ABROGA LA LEY PARA LAS PERSONAS CON TRASTORNO DEL ESPECTRO DEL AUTISMO EN EL ESTADO DE JALISCO Y EXPIDE LA LEY PARA LA ATENCIÓN, PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS QUE VIVEN EN EL ESPECTRO AUTISTA DEL ESTADO DE JALISCO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. La Secretaría de la Hacienda Pública del Estado de Jalisco realizará las adecuaciones, y previsiones presupuestales necesarias para atender las consideraciones previstas en el presente decreto.
+
+Tercero. Los recursos para la creación, ampliación y operación de la Red Estatal de Centros Regionales previstos en el presente decreto, se sujetará a las disposiciones hacendarias aplicables en la materia, en los presupuestos autorizados, con base a los planes, programas y políticas públicas que para tal efecto implemente el Ejecutivo Estatal.
+
+Cuarto. El Ejecutivo Estatal deberá expedir el Reglamento de la Ley que se expide en el presente Decreto dentro de los 90 noventa días posteriores a su entrada en vigor.
+
+Quinto. El Ejecutivo Estatal y el DIF Jalisco deberán integrar la Comisión Intersectorial prevista en el presente decreto dentro de los 180 ciento ochenta días posteriores a su entrada en vigor.
+
+Sexto. La Comisión Intersectorial prevista en el presente Decreto deberá elaborar y aprobar su Reglamento Interno dentro de los 60 sesenta días naturales posteriores a su integración.
