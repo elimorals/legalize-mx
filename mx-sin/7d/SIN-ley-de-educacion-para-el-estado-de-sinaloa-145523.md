@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-145523"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-04"
-last_updated: "2024-08-19"
+last_updated: "2026-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2026.
 
 Ley publicada en la Sección Segunda al Número 146 del Periódico Oficial del Estado de Sinaloa, el viernes 4 de diciembre de 2020.
 
@@ -133,11 +133,17 @@ II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia,
 
 III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
 
-IV. Combatir las causas de discriminación y violencia en las diferentes regiones del Estado, especialmente la que se ejerce contra la niñez y la de género, y
+IV. Combatir las causas de discriminación y violencia en las diferentes regiones del Estado, especialmente la que se ejerce contra la niñez y la de género;
 
-V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2026)</small>
+
+VI. Promover y fomentar en la educación la integración de conocimientos básicos sobre salud mental, aprendizaje socioemocional y autocuidado, como eje transversal.
 
 ###### Artículo 12.
 
@@ -985,7 +991,9 @@ IX. El fomento de la igualdad de género para la construcción de una sociedad j
 
 X. La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos en adolescentes y de las infecciones de transmisión sexual;
 
-XI. La educación socioemocional;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+XI. La educación socioemocional, y la integración de conocimientos básicos sobre salud mental;
 
 XII. La prevención del consumo de sustancias psicoactivas, el conocimiento de sus causas, riesgos y consecuencias;
 
@@ -1144,6 +1152,34 @@ La información del expediente al que se refiere este artículo se proporcionar�
 ###### Artículo 113.
 
 La autoridad educativa estatal ofrecerá servicios de orientación educativa, de trabajo social y de psicología desde la educación básica hasta la educación superior, de acuerdo con la suficiencia presupuestal y a las necesidades de cada plantel, a fin de fomentar una conciencia crítica que perfile a los educandos en la selección de su formación a lo largo de la vida para su desarrollo personal y contribuir al bienestar de sus comunidades.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2026)</small>
+
+###### Artículo 113 Bis.
+
+La autoridad educativa estatal se coordinará con la Secretaría de Salud y el Instituto Sinaloense de Salud Mental, ofrecerá servicios de atención integral a la salud mental de los educandos, mediante la implementación de acciones, programas o protocolos permanentes de promoción, prevención, detección temprana, atención y canalización de casos que requieran intervención especializada, conforme a la Ley General de Salud y la Ley de Salud Mental del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2026)</small>
+
+Artículo 113 Bis A. Para tal efecto implementará campañas de difusión, promoción, concientización y sensibilización a través del uso de las Tecnologías de la Información y Comunicación, conocimiento y aprendizaje digital, con accesibilidad y diseño universal para niñas, niños y adolescentes con discapacidades físicas, hablantes de lenguas indígenas y afrodescendientes.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2026)</small>
+
+Artículo 113 Bis B. Las escuelas de educación básica y media superior para la atención de la salud mental de los educandos deberán contar con áreas de atención, personal especializado en psicología, trabajo social o áreas afines, de acuerdo a la disponibilidad presupuestaria.
+
+Implementarán evaluaciones psicoemocionales periódicas con base en protocolos científicos y con consentimiento informado de madres, padres o personas tutoras. Los resultados tendrán carácter confidencial, preventivo y no punitivo, y se utilizarán exclusivamente para orientación y canalización a los servicios de salud correspondientes para su atención especializada.
+
+Asimismo, deberán integrar equipos de respuesta inmediata para situaciones de crisis, capacitados en técnicas para atenuar su escalamiento.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2026)</small>
+
+Artículo 113 Bis C. La autoridad educativa estatal en el ámbito de su competencia, promoverá la formación y capacitación permanente de personal docente y directivo con conocimientos básicos sobre salud mental, aprendizaje socioemocional y autocuidado, así como trastornos del neurodesarrollo, incluido el espectro autista, que permitan identificar signos de alerta y la canalización a los servicios especializados.
+
+Asimismo, desarrollará programas y cursos para brindar a los educandos conocimientos básicos sobre salud mental, aprendizaje socioemocional y autocuidado.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2026)</small>
+
+Artículo 113 Bis D. La autoridad educativa estatal en la educación básica y media superior procurará ofrecer servicios remotos de atención, a través de una línea pública telefónica u otros medios electrónicos, para ayuda psicológica y de intervención en crisis, brindar orientación y canalización, en su caso, a los educandos, la cual deberá estar disponibles (sic) durante el ciclo escolar.
 
 ### Capítulo II. Del Fomento de Estilos de Vida Saludables en el Entorno Escolar
 
@@ -1526,6 +1562,10 @@ III. Promover y prestar servicios educativos, distintos de los previstos en las 
 IV. Participar en las actividades tendientes para la admisión, promoción y reconocimiento del personal docente o con funciones de dirección o supervisión en la educación básica y media superior, de conformidad con lo dispuesto en la Ley General del Sistema para la Carrera de las Maestras y los Maestros;
 
 V. Determinar y formular planes y programas de estudio, distintos de los previstos en la fracción I del artículo 113 de la Ley General;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2026)</small>
+
+V Bis. Promover e implementar programas para la formación y capacitación de personal docente y directivo de educación básica y media superior, en salud mental, socioemocional y autocuidado, así como trastornos del neurodesarrollo, incluido el espectro autista;
 
 VI. Diseñar y operar los programas para la formación, capacitación, actualización y de estudios de posgrado para los maestros de educación básica y normal, previa determinación de la autoridad federal competente;
 
@@ -2344,3 +2384,15 @@ P.O. 19 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 419 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN, DE LA LEY DE SALUD MENTAL, Y DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
