@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2025-10-16"
+last_updated: "2026-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -609,9 +609,9 @@ Toda autoridad estatal o municipal que, en el ámbito de su competencia, tenga c
 
 El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los poderes Legislativo y Ejecutivo, de los gobiernos municipales y para los procesos relativos a los mecanismos de participación ciudadana y popular. La renovación de los poderes Legislativo y Ejecutivo y de los ayuntamientos del Estado, se realizará en elecciones, mediante la emisión del sufragio universal, libre, secreto, directo e intransferible.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
 
-Votar en las elecciones constituye un derecho y una obligación de la ciudadanía que se ejerce para elegir cargos de elección popular. También es derecho de la ciudadanía, y obligación para todos los partidos políticos, la igualdad de oportunidades y la paridad vertical y horizontal entre hombres y mujeres, en candidaturas a diputaciones locales tanto propietarios como suplentes, en candidaturas a presidencias municipales, integración de planillas a munícipes, así como para las autoridades electorales en la integración de los consejos distritales y municipales.
+Votar en las elecciones constituye un derecho y una obligación de la ciudadanía que se ejerce para elegir cargos de elección popular. También es derecho de la ciudadanía, y obligación para todos los partidos políticos, la igualdad de oportunidades, garantizar la perspectiva de género, la igualdad sustantiva y la paridad vertical y horizontal entre hombres y mujeres, en candidaturas a diputaciones locales tanto propietarios como suplentes, en candidaturas a presidencias municipales, integración de planillas a munícipes, así como para las autoridades electorales en la integración de los consejos distritales y municipales.
 
 La organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación ciudadana estará a cargo del Instituto Electoral y de Participación Ciudadana.
 
@@ -757,6 +757,10 @@ b) Para elegir a los magistrados del Poder Judicial del Estado y a los integrant
 
 c) Para elegir a los integrantes de los concejos municipales en los casos que esta Constitución dispone;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JULIO DE 2026)</small>
+
+En los procesos electorales del Estado regirá el principio de máxima transparencia del perfil de las candidaturas. La ley establecerá los mecanismos para que las personas que soliciten su registro a cargos de elección popular presenten información patrimonial, fiscal, de intereses, jurídica, administrativa, médica y de confianza pública, en versiones públicas, accesibles y verificables, con la finalidad de garantizar el derecho ciudadano al voto libre e informado. La presentación y publicación de dicha información tendrá fines de transparencia democrática y no constituirá, por sí misma, causa automática de negativa, cancelación o pérdida del registro, salvo los supuestos de inelegibilidad previstos expresamente en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables.
+
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
 III. La organización de los procesos electorales es una función estatal que se realiza a través del Instituto Nacional Electoral y del Organismo Público Local Electoral, denominado Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta constitución y las leyes que se derivan de ambas;
@@ -773,7 +777,13 @@ V. La Consejera o el Consejero Presidente y los consejeros electorales durarán 
 
 De darse la falta absoluta de la Consejera o el Consejero Presidente o de cualquiera de los consejeros electorales, se estará a lo dispuesto en la norma citada en el primer párrafo de esta fracción y la ley general en la materia.
 
-La Consejera o el Consejero Presidente y los consejeros electorales percibirán una remuneración acorde con sus funciones que será establecida previamente en el Presupuesto de Egresos del Estado, conforme a los principios, bases y lineamientos que prevén la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes y demás disposiciones reglamentarias que de ellas emanen; la cual en ningún supuesto podrá ser igual ni superior a la de los magistrados del Poder Judicial del Estado. No podrán tener otro empleo, cargo o comisión, con excepción de aquellos no remunerados en que actúen en representación del Instituto o que desempeñen en actividades docentes, científicas, culturales, de investigación o beneficencia.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
+
+La Consejera o el Consejero Presidente y los consejeros electorales percibirán una remuneración acorde con sus funciones que será establecida previamente en el Presupuesto de Egresos del Estado, conforme a los principios, bases y lineamientos que prevén la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes y demás disposiciones reglamentarias que de ellas emanen; la cual en ningún supuesto excederá el límite establecido en el artículo 127 de la Constitución Federal. No podrán tener otro empleo, cargo o comisión, con excepción de aquellos no remunerados en que actúen en representación del Instituto o que desempeñen en actividades docentes, científicas, culturales, de investigación o beneficencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JULIO DE 2026)</small>
+
+No podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
 No podrán ser designados como Consejera o Consejero Presidente ni como consejera o consejero electorales del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, quienes hayan ocupado cargos públicos de elección popular o dirigencia de algún partido político, de conformidad a lo establecido en la Ley General.
 
@@ -887,11 +897,11 @@ XVI. La jornada electoral ordinaria deberá realizarse el primer domingo de juni
 
 ### CAPITULO III. De los partidos y agrupaciones políticas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2026)</small>
 
 ###### Art. 13.
 
-Los partidos políticos son entidades de interés público, con personalidad jurídica y patrimonio propios. Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público. Buscarán la participación efectiva de ambos géneros en la integración de sus órganos, de acuerdo con los programas, principios e ideas que postulan, garantizarán a las mujeres el ejercicio de sus derechos políticos y electorales libres de violencia política, determinarán, y harán públicos los criterios para garantizar la paridad entre los géneros, en candidaturas a legisladores y munícipes.
+Los partidos políticos son entidades de interés público, con personalidad jurídica y patrimonio propios. Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público. Buscarán la participación efectiva de ambos géneros en la integración de sus órganos, de acuerdo con los programas, principios e ideas que postulan, garantizarán a las mujeres el ejercicio de sus derechos políticos y electorales libres de violencia política, determinarán, y harán públicos los criterios para garantizar la perspectiva de género, la igualdad sustantiva y la paridad entre los géneros, en candidaturas a legisladores y munícipes.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -1159,9 +1169,9 @@ Todas las diputadas y diputados tendrán los mismos derechos y obligaciones y po
 
 La ley establecerá los procedimientos para la conformación de grupos parlamentarios y promoverá la coordinación de las actividades parlamentarias.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
 
-Cada fórmula de candidatos a diputados de mayoría relativa se integrará por un propietario y un suplente del mismo género. Los partidos políticos deberán respetar la paridad de género en el registro de candidatos a diputados al Congreso del Estado, por ambos principios, conforme determine la ley.
+Cada fórmula de candidatos a diputados de mayoría relativa se integrará por un propietario y un suplente del mismo género. Los partidos políticos deberán garantizar los principios de paridad, igualdad sustantiva y perspectiva de género, en el registro de candidatos a diputados al Congreso del Estado, por ambos principios, conforme determine la ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -1295,17 +1305,11 @@ El Congreso sesionará por lo menos cuatro veces al mes durante los periodos com
 
 Para el conocimiento de los dictámenes relativos a la materia de responsabilidad de los servidores públicos, deberá convocarse a la celebración de sesiones extraordinarias.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
-
-###### Artículo 26.
-
-Salvo lo dispuesto por la legislación en materia de disciplina financiera de las entidades federativas y municipios, el presupuesto del Poder Legislativo no podrá ser inferior al ejercido el año inmediato anterior, actualizado con base en la cifra de inflación señalada en los criterios generales de política económica para el ejercicio que se está presupuestando.
-
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
 
 ###### Art. 26.
 
-En ningún caso el presupuesto del Poder Legislativo podrá ser inferior al ejercido el año inmediato anterior, actualizado con base en la cifra oficial de inflación que publique el Instituto Nacional de Estadística y Geografía.
+Salvo lo dispuesto por la legislación en materia de disciplina financiera de las entidades federativas y municipios, el presupuesto del Poder Legislativo no excederá del cero punto setenta por ciento del presupuesto total de egresos del Estado y podrá actualizarse conforme a la inflación anual, señalada en los criterios generales de política económica para el ejercicio que se está presupuestando.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -2453,7 +2457,17 @@ En materia electoral la interposición de los recursos no producirá en ningún 
 
 Los magistrados electorales serán electos por la Cámara de Senadores en los términos dispuestos en el ordinal 5° del inciso c) de la fracción IV del artículo 116 de la Constitución federal, y por lo establecido en la ley general en la materia.
 
-Los magistrados electorales durarán en el cargo siete años; se renovarán de forma escalonada y no podrán ser reelectos. Percibirán una remuneración igual a la prevista para los magistrados del Poder Judicial del Estado. Las normas relativas a los requisitos que deberán cumplir los designados, la forma para cubrir las vacantes, remoción, el régimen de responsabilidades, impedimentos y excusas serán los establecidos en la ley general en la materia.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
+
+Los magistrados electorales durarán en el cargo siete años; se renovarán de forma escalonada y no podrán ser reelectos. Percibirán una remuneración igual a la prevista para los magistrados del Poder Judicial del Estado, misma que no podrá exceder el límite establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JULIO DE 2026)</small>
+
+No podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JULIO DE 2026)</small>
+
+Las normas relativas a los requisitos que deberán cumplir los designados, la forma para cubrir las vacantes, remoción, el régimen de responsabilidades, impedimentos y excusas serán los establecidos en la ley general en la materia.
 
 Sin perjuicio de lo dispuesto en el párrafo anterior, la legislación local establecerá las demás normas aplicables.
 
@@ -2543,13 +2557,17 @@ El municipio libre es base de la división territorial y de la organización pol
 
 I. Cada municipio será gobernado por un Ayuntamiento de elección popular directa, que residirá en la cabecera municipal. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia entre éste y el gobierno del Estado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE JULIO DE 2026)</small>
 
-II. Los ayuntamientos se integrarán por una Presidencia Municipal, regidurías y sindicatura electos popularmente, según los principios de mayoría relativa y representación proporcional, en el número, las bases y los términos que señale la ley de la materia. Las regidurías electas por cualquiera de dichos principios, tendrán los mismos derechos y obligaciones;
+II. Los ayuntamientos se integrarán por un Presidente o Presidenta Municipal, una sindicatura y hasta quince regidurías, electos popularmente, según los principios de mayoría relativa y representación proporcional, en el número, las bases y los términos que señale la ley de la materia. Las regidurías electas por cualquiera de dichos principios, tendrán los mismos derechos y obligaciones;
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
 
-Es obligación de los partidos políticos candidatas y candidatos independientes, que en las listas de candidaturas a la presidencia, regidurías y sindicatura municipales sea respetado el principio de paridad de género, en el que las fórmulas de candidatos se alternarán por género y cada candidato propietario a presidenta o presidente, regidora o regidor, o síndica o sindico. tenga un suplente del mismo género. Es obligación que por lo menos una candidata o candidato de los registrados en las planillas para munícipes tenga entre dieciocho y treinta y cinco años de edad
+Es obligación de los partidos políticos candidatas y candidatos independientes, que en las listas de candidaturas a la presidencia, regidurías y sindicatura municipales sea (sic) respetado los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva, en el que las fórmulas de candidatos se alternarán por género y cada candidato propietario a presidenta o presidente, regidora o regidor, o síndica o sindico tenga un suplente del mismo género. Es obligación que por lo menos una candidata o candidato de los registrados en las planillas para munícipes tenga entre dieciocho y treinta y cinco años de edad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JULIO DE 2026)</small>
+
+En la legislación secundaria se impulsará la representación político-electoral de las personas pertenecientes a grupos en situación de vulnerabilidad, bajo principios de equidad y no discriminación.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JUNIO DE 2017)</small>
 
@@ -4544,3 +4562,23 @@ QUINTO. Los Comisionados del Instituto de Transparencia, Información Pública y
 SEXTO. Los remanentes presupuestales del Instituto de Transparencia y Acceso a la Información Pública que resultaren de la extinción del organismo serán entregados a la Secretaría de Administración. Los recursos materiales con que cuente el Instituto serán transferidos a la Contraloría del Estado.
 
 SÉPTIMO. Quedan derogadas todas las disposiciones que se opongan a este decreto.
+
+P.O. 17 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30207/LXIV/2026 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 11, 12, 13, 18, 26, 69 Y 73 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, EN MATERIA POLÍTICO-ELECTORAL, ASÍ COMO EL ACUERDO LEGISLATIVO 347/LXIV/26 QUE DECLARA MINUTA DE DICHO DECRETO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Congreso del Estado de Jalisco, en el ámbito de su competencia, armonizará las leyes secundarias que resulten necesarias para adecuarlas al contenido del presente Decreto. Entre tanto, se aplicarán en lo conducente de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes electorales que no se contrapongan al presente Decreto.
+
+TERCERO.- La integración de los Ayuntamientos prevista en el artículo 73, fracción II, surtirá efectos a partir del periodo administrativo municipal subsecuente.
+
+CUARTO.- El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco y el Tribunal Electoral del Estado de Jalisco revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el presente Decreto.
+
+QUINTO.- El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, tendrá hasta antes de los noventa días del inicio del proceso electoral estatal, para emitir los lineamientos para la implementación del régimen de transparencia reforzada de candidaturas.
+
+SEXTO.- Las reformas contempladas en el artículo 26 surtirán sus efectos a partir del inicio de la Legislatura subsecuente. Los recursos públicos que resulten como economías o ahorros en los presupuestos anuales derivados de las reducciones realizadas en cumplimiento a este artículo tal como queda reformado, quedarán en el patrimonio de la Hacienda Pública del Estado de Jalisco.
+
+Los Poderes Ejecutivo y Legislativo del Estado propiciarán que los recursos excedentes se destinen a obras de infraestructura pública en beneficio de la población, en los términos de la legislación aplicable, garantizando en todo momento los principios de legalidad, honradez, transparencia y austeridad.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
