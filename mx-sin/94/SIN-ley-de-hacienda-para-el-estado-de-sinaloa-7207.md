@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2026-02-18"
+last_updated: "2026-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -1938,6 +1938,10 @@ ante autoridades fuera del Estado 1.00
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
 Para efectos del presente artículo, se entiende por vehículos utilitarios todo terreno, todo aquel vehículo de tres o cuatro ruedas, con motor a gasolina, destinado específicamente para ser utilizado en actividades deportivas, recreativas, turísticas, de seguridad o laborales; y, por motocicleta, el vehículo automotor de dos o más ruedas, independientemente de la denominación que se le otorgue.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2026)</small>
+
+ART. 48 BIS.- Quedan exentas del pago de Derechos contemplados en las fracciones XI, XII y XIV del artículo anterior, las personas que hayan sido objeto de robo vehicular en el Estado de Sinaloa.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2019)</small>
 
@@ -4494,3 +4498,13 @@ P.O. 18 DE FEBRERO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Previo a la emisión de los programas especiales a que se refiere el presente Decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones administrativas correspondientes.
+
+P.O. 17 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 452 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS, Y LEY DE HACIENDA, AMBAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Ejecutivo del Estado, deberá adecuar su normativa interna en un plazo de 60 días hábiles, posteriores al inicio de vigencia del presente Decreto.
+
+TERCERO. La Fiscalía General del Estado de Sinaloa, deberá establecer convenios con los Ayuntamientos, así también acuerdos con particulares, personas físicas o morales, que otorguen los servicios de guarda en los depósitos y pensión, arrastre y traslado, en un plazo de 60 días hábiles posteriores a su entrada en vigor, a efecto de dar cumplimiento con el presente Decreto.
