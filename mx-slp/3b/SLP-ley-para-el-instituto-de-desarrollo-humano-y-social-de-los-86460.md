@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-instituto-de-desarrollo-humano-y-social-de-los-8646
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2023-09-08"
+last_updated: "2026-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL INSTITUTO DE DESARROLLO HUMANO Y SOCIAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de diciembre de 2011.
 
@@ -119,9 +119,15 @@ XXI. Publicar un informe anual sobre el desempeño de sus funciones y los avance
 
 XXII. Fungir, en su caso, a través de su titular, como secretaría ejecutiva del Sistema Estatal para el Desarrollo Humano y social de los Pueblos y Comunidades, llevando al efecto las acciones que la ley de la materia y su reglamento le atribuyen;
 
-XXIII. Rendir anualmente un informe de actividades de acuerdo a los objetivos y atribuciones que se determinan en esta Ley a la Junta Directiva, y
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
 
-XXIV. Las demás que establezcan las disposiciones legales aplicables.
+XXIII. Rendir anualmente un informe de actividades de acuerdo a los objetivos y atribuciones que se determinan en esta Ley a la Junta Directiva;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2026)</small>
+
+XXIV. Podrá fungir como enlace interinstitucional entre los entes consultantes y la entidad normativa, en los procesos de Consulta Indígena, en apego a la Ley de la materia, y
+
+XXV. Las demás que establezcan las disposiciones legales aplicables.
 
 ###### ARTICULO 5º.
 
@@ -564,3 +570,9 @@ P.O. 8 DE SEPTIEMBRE DE 2023.
 PRIMERO. Este decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0576.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 4, DE LA LEY PARA EL INSTITUTO DE DESARROLLO HUMANO Y SOCIAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. El presente Decretó entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, “Plan de San Luis”.
