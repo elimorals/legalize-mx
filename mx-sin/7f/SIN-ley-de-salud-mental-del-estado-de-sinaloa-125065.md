@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-mental-del-estado-de-sinaloa-125065"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2023-10-04"
+last_updated: "2026-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SALUD MENTAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2026.
 
 Ley publicada en el Número 163 del Periódico Oficial de Sinaloa, el miércoles 27 de diciembre de 2017.
 
@@ -379,7 +379,9 @@ La Secretaría a traves del Instituto y la Secretaría de Educación Pública y 
 
 I. Contar con personal capacitado y actualizado en la materia de psicología, pedagogía infantil y educación escolar con el objetivo de identificar un posible trastorno mental que presenten niñas o niños, debiéndolos canalizar a algún Módulo de Atención o Centro Hospitalario, así como informar a sus padres o tutor y dar la orientación correspondiente, para lo cual se requiere como mínimo dos psicólogos educativos o clínicos por la escuela;
 
-II. Proponer a la autoridad competente programas relacionados con salud mental infantil para que sean incorporados en el plan de estudios correspondiente;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+II. Proponer a la autoridad educativa competente contenido de planes y programas de estudio sobre educación socioemocional, y la integración de conocimientos básicos sobre salud mental para niñas, niños y adolescentes;
 
 III. Proporcionar material informativo básico en salud mental a los padres o tutores, con la finalidad de identificar algún tipo de trastorno en el menor y aplicar las medidas preventivas en un primer momento, identificando conductas de agresión, trastornos alimenticios, baja autoestima, conducta antisocial, depresión, ansiedad y otros;
 
@@ -764,3 +766,15 @@ P.O. 4 DE OCTUBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 419 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN, DE LA LEY DE SALUD MENTAL, Y DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
