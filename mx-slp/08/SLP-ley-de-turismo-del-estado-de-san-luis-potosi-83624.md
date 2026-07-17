@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2026-05-14"
+last_updated: "2026-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -817,11 +817,11 @@ La Secretaría, en coordinación con los ayuntamientos, promoverán y fomentará
 
 La Secretaría en conjunto con la Secretaría de Educación de Gobierno del Estado, promoverá programas que difundan la importancia de respetar y conservar los atractivos turísticos, así como mostrar un espíritu de servicio y hospitalidad hacia el turista nacional y extranjero.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 59.
 
-La Secretaría, en coordinación con la Secretaría Estatal de Cultura, establecerá programas que tengan como finalidad fomentar y promover la cultura del Estado, así como la difusión del patrimonio cultural, histórico, artístico y arqueológico, con apego a la legislación federal y estatal aplicables en la materia; dichos programas deberán ser difundidos entre los prestadores de servicios turísticos en la Entidad.
+La Secretaría, en coordinación con la Secretaría de Cultura del Estado, establecerán programas orientados al fomento y promoción de la cultura del Estado, así como de su patrimonio histórico, artístico y arqueológico; dichos programas deberán difundirse entre los prestadores de servicios turísticos en la Entidad.
 
 ### Capítulo VI. Del Turismo Deportivo
 
@@ -1780,6 +1780,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 P.O. 14 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0528.- QUE REFORMA EL ARTÍCULO 59, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 17 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0577.- QUE REFORMA EL ARTÍCULO 59, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
