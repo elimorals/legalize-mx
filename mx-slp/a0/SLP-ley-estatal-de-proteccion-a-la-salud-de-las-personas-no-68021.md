@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-la-salud-de-las-personas-no-68021"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-28"
-last_updated: "2022-06-08"
+last_updated: "2026-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LA SALUD DE LAS PERSONAS NO FUMADORAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 28 de marzo de 2009.
 
@@ -47,9 +47,11 @@ LEY ESTATAL DE PROTECCION A LA SALUD DE LAS PERSONAS NO FUMADORAS
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 1°.
 
-La presente Ley es de orden público, e interés social y general; tiene por objeto proteger la salud de los efectos del humo del tabaco por inhalarlo involuntariamente; establece los mecanismos y acciones tendientes a prevenir y disminuir las consecuencias generadas en la salud de la población por esta causa; asimismo, instituye las sanciones correspondientes para quienes incumplan este Ordenamiento.
+La presente Ley es de orden público e interés social y general; tiene por objeto proteger la salud de las personas frente a la exposición involuntaria al humo del tabaco, así como de las emisiones, vaporizaciones, o atomizaciones, provenientes de sustancias tóxicas líquidas u otras presentaciones con o sin nicotina, generadas por cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos. Establecer los mecanismos y acciones tendientes a prevenir y disminuir las consecuencias generadas en la salud de la población por estas causas. Y determinar las sanciones correspondientes para quienes incumplan las disposiciones de este Ordenamiento.
 
 ###### ARTICULO 2°.
 
@@ -59,17 +61,29 @@ La aplicación y vigilancia en el cumplimiento de este Ordenamiento, corresponde
 
 La presente Ley tiene las siguientes finalidades:
 
-I. Proteger la salud de la población de los efectos nocivos del tabaco;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
 
-II. Proteger los derechos de los no fumadores a vivir y convivir en espacios cien por ciento libres de humo de tabaco;
+I. Proteger la salud de la población frente a los efectos nocivos derivados del consumo de productos de tabaco, así como de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos;
 
-III. Establecer las bases para la protección contra el humo de tabaco;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
 
-IV. Instituir medidas para reducir el consumo de tabaco, particularmente en los menores;
+II. Proteger el derecho de las personas no fumadoras y no consumidoras a vivir y convivir en espacios 100% libres de humo de tabaco, de emisiones, vaporizaciones, o atomizaciones, de sustancias tóxicas líquidas u otras presentaciones, con o sin nicotina, generados por el consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos;
 
-V. Fomentar la promoción, la educación para la salud, así como la difusión del conocimiento de los riesgos atribuibles al consumo y a la exposición al humo de tabaco;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
 
-VI. Establecer los lineamientos generales para el diseño y evaluación de legislación y políticas públicas basadas en evidencia contra el tabaquismo, y
+III. Establecer las bases para la protección contra la exposición involuntaria al humo de tabaco y a las emisiones, vaporizaciones, o atomizaciones, provenientes de sustancias tóxicas líquidas u otras presentaciones, con o sin nicotina, generados por el consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+IV. Implementar medidas para reducir el consumo de productos de tabaco, y de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, particularmente entre niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+V. Fomentar la promoción y educación para la salud, así como la difusión del conocimiento de los riesgos atribuibles al consumo y a la exposición al humo de tabaco, a las emisiones, vaporizaciones, y atomizaciones, de sustancias tóxicas, líquidas u otras presentaciones, con o sin nicotina, generados por el consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+VI. Establecer los lineamientos generales para el diseño y evaluación de legislación y políticas públicas basadas en evidencia científica para la prevención del tabaquismo y del consumo de cigarrillos electrónicos, vapeadores y otros sistemas o dispositivos análogos, y
 
 VII. Las demás que sean necesarias para el cumplimiento de sus objetivos.
 
@@ -79,37 +93,57 @@ Para efectos de esta Ley, se entiende por:
 
 I. Cigarrillo: cigarro pequeño de picadura de tabaco, envuelto en un papel de fumar;
 
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2026)</small>
+
+I BIS. Cigarrillo electrónico, vapeador, y demás sistemas o dispositivos análogos: todo aparato o sistema mecánico, electrónico o de cualquier tecnología, que se utilice para calentar, vaporizar o atomizar sustancias tóxicas líquidas, u otras presentaciones, con o sin nicotina, susceptibles de ser inhaladas por la persona consumidora;
+
 II. Cigarro o puro: rollo de hojas de tabaco, que enciende por un extremo y se chupa o fuma por el opuesto;
 
 III. Denuncia Ciudadana: notificación hecha a la autoridad competente por cualquier persona respecto de los hechos de incumplimiento de las disposiciones contenidas en esta Ley, sus reglamentos y demás disposiciones aplicables;
 
-IV. Emisión: es la sustancia producida y liberada cuando un producto del tabaco esté encendido o calentado, comprende nicotina, alquitrán, monóxido de carbono, así como la composición química que forman parte del humo de tabaco. En el caso de productos del tabaco para uso oral sin humo, se entiende como todas las sustancias liberadas durante el proceso de mascado o chupado; y en el caso de productos del tabaco para uso nasal, son todas las sustancias liberadas durante el proceso de inhalación o aspiración;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+IV. Emisión: es la sustancia producida y liberada cuando un producto del tabaco esté encendido o calentado, comprende nicotina, alquitrán, monóxido de carbono, así como la composición química que forman parte del humo de tabaco. En el caso de productos del tabaco para uso oral sin humo, se entiende como todas las sustancias liberadas durante el proceso de mascado o chupado; y en el caso de productos del tabaco para uso nasal, son todas las sustancias liberadas durante el proceso de inhalación o aspiración; asimismo, se considerarán emisiones, las vaporizaciones, o atomizaciones, provenientes de sustancias tóxicas líquidas u otras presentaciones con o sin nicotina, generadas por el consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, susceptibles de ser inhaladas por terceras personas, en adelante, emisiones, vaporizaciones o atomizaciones;
 
-V. Espacio 100% libre de humo de tabaco: aquellas áreas en las que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco, y que son las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2026)</small>
+
+V. Espacio 100% libre de humo de tabaco y emisiones: aquellas áreas en las que por razones de orden público e interés social queda prohibido fumar, consumir, vapear, utilizar o tener encendido cualquier producto de tabaco, así como cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, y que son las siguientes:
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 a) Áreas físicas cerradas con acceso al público que sean destinadas a cualquier fin.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 b) Áreas físicas cerradas que sirvan como lugar de trabajo.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 c) Las áreas físicas destinadas al transporte público y los vehículos destinados para ese fin.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 Las áreas a que se refieren los incisos a) y b) de este artículo deberán, en todos los casos, tener como mínimo una superficie equivalente al doble de la que corresponda al espacio interior aislado. Para ello, no se tomarán como superficies libres de tabaco las áreas destinadas para cocina, preparación de bebidas y alimentos, sanitarios, terrazas, estacionamientos y oficinas administrativas;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
 
-V BIS. Espacio Interior Aislado: áreas físicamente separadas e incomunicadas de los espacios 100% libres de humo; o que cuenten con mecanismos que eviten el traslado de partículas a éstos, y que no sean paso obligado para las personas no fumadoras, en las que se prohibirá el acceso a menores de edad;
+V BIS. Espacio interior aislado: área físicamente separada e incomunicada de los espacios 100% libres de humo de tabaco, así como de las emisiones vaporizaciones, o atomizaciones; o que cuenten con mecanismos que eviten el traslado de humo, emisiones, vaporizaciones o atomizaciones, y que no sean paso obligado para las personas no fumadoras, en las que se prohibirá el acceso a niñas, niños y adolescentes;
 
 VI. Humo de tabaco: se refiere a las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco y que afectan al no fumador;
 
 VII. Ley: la presente Ley;
 
-VIII. Persona fumadora: sujeto que consume producto de tabaco mediante la combustión para la inhalación del mismo, bajo la forma de cigarrillo, puros u otros tabacos labrados;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
 
-IX. Persona fumadora pasiva: sujeto que se encuentra en condiciones de inhalar involuntariamente humo producto de la combustión de algún producto de tabaco, como consecuencia de la cercanía con alguna persona que fume;
+VIII. Persona fumadora: sujeto que consume productos de tabaco mediante combustión para la inhalación del mismo, bajo la forma de cigarrillo, puros u otros tabacos labrados; o que consume cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos para la inhalación de sus emisiones, vaporizaciones, o atomizaciones;
 
-X. Persona no fumadora: toda aquélla que decide no consumir productos de tabaco mediante combustión del tabaco;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+IX. Persona fumadora pasiva: sujeto que se encuentra en condiciones de inhalar involuntariamente humo de tabaco, o emisiones vaporizaciones, o atomizaciones, como consecuencia de la cercanía con alguna persona fumadora;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+X. Persona no fumadora, ni consumidora de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos: toda aquélla que decide no consumir productos de tabaco mediante combustión, ni cigarrillos electrónicos, vapeadores y otros sistemas o dispositivos análogos;
 
 XI. Promoción de la salud: las acciones tendientes a desarrollar actitudes y conductas que favorezcan estilos de vida saludables en la familia, el trabajo y la comunidad;
 
@@ -121,57 +155,95 @@ XIV. Tabaco: la planta "nicotina tabacum" y sus sucedáneos, en su forma natural
 
 XV. Verificador: persona facultada por la autoridad competente para realizar funciones de vigilancia y actos tendientes a lograr el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2026)</small>
+
+ARTICULO 4° BIS. El lenguaje utilizado en la presente Ley se entenderá redactado en términos neutros y comprenderá a todas las personas, sin distinción de género. Para la aplicación e interpretación de esta Ley, las autoridades, en sus actuaciones, comunicaciones y decisiones, utilizarán de manera preferente términos que reflejen dicho carácter neutro e inclusivo, sin que sea necesaria la modificación expresa de cada precepto legal para alcanzar este fin.
+
 ### CAPITULO II. De la Distribución de Competencias y Atribuciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 5°.
 
-La Secretaría de Salud realizará las siguientes acciones contra el tabaquismo:
+La Secretaría de Salud realizará las siguientes acciones contra el tabaquismo, así como del consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos:
 
-I. Llevar a cabo en términos de lo dispuesto en la Ley General de Salud, y la Ley de Salud del Estado, en coordinación con la Secretaría de Salud Federal, la operación del Programa contra el Tabaquismo;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
 
-II. Promover y organizar los servicios de detección temprana de la adicción al tabaco;
+I. Llevar a cabo en términos de lo dispuesto en la Ley General de Salud, y la Ley de Salud del Estado, en coordinación con la Secretaría de Salud Federal, la operación del Programa contra el Tabaquismo, y el consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+II. Promover y organizar los servicios de detección temprana de la adicción al tabaco, y de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos;
 
 III. Brindar orientación y atención a fumadores que deseen abandonar el consumo;
 
-IV. Investigar las causas y consecuencias del tabaquismo;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+IV. Investigar las causas y consecuencias del tabaquismo, así como del consumo de cigarrillos electrónicos, vapeadores y otros sistemas o dispositivos análogos;
 
 V. Impulsar la promoción de actitudes y conductas que favorezcan estilos de vida saludables en la familia, el trabajo y la comunidad;
 
-VI. Desarrollar acciones permanentes para disuadir y evitar el consumo de productos del tabaco, principalmente por parte de niños, adolescentes y grupos vulnerables;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
 
-VII. Diseñar el catálogo de letreros y/o señalamientos preventivos, informativos o restrictivos, que serán colocados al interior de los establecimientos, empresas y oficinas de los poderes del Estado, para prevenir el consumo de tabaco y establecer las prohibiciones pertinentes;
+VI. Desarrollar acciones permanentes orientadas a disuadir y prevenir el consumo de productos de tabaco, así como de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, especialmente entre niñas, niños, adolescentes y grupos en situación de vulnerabilidad;
 
-VIII. Realizar en conjunto con la iniciativa privada, campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+VII. Diseñar el catálogo de letreros y/o señalamientos preventivos, informativos o restrictivos, que deberán colocarse al interior de los establecimientos, empresas y oficinas de los poderes del Estado, para prevenir el consumo de productos de tabaco, así como el consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, y establecer las prohibiciones correspondientes;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+VIII. Realizar, en conjunto con la iniciativa privada, campañas permanentes de información, concientización y difusión para prevenir el consumo de productos de tabaco, así como el consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos;
 
 IX. Aplicar las sanciones que en el ámbito de su competencia le correspondan, de conformidad con la Ley de Salud del Estado, y en los casos previstos por la presente Ley;
 
-X. Certificar los espacios 100% libres del humo del tabaco establecidos en esta Ley, y
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+X. Certificar los espacios 100% libres del humo del tabaco, y emisiones vaporizaciones, o atomizaciones, de sustancias tóxicas líquidas u otras presentaciones con o sin nicotina, generadas por cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos establecidos en esta Ley, y
 
 XI. Las demás que le otorgue la ley y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 6°.
 
-Para efectos de lo anterior, la Secretaría establecerá los lineamientos para la ejecución y evaluación del Programa contra el Tabaquismo, que comprenderá, entre otras, las siguientes acciones:
+Para efectos de lo establecido en el artículo anterior, la Secretaría establecerá los lineamientos para la ejecución y evaluación del Programa contra el Tabaquismo, consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, que comprenderá, entre otras, las siguientes acciones:
 
 I. La promoción de la salud;
 
-II. El diagnóstico, prevención, tratamiento y rehabilitación del tabaquismo y de los padecimientos originados por el;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
 
-III. La coordinación con la Secretaría de Educación de Gobierno del Estado; para la orientación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar al interior de los espacios libres de humo de tabaco que establezca esta Ley, sus reglamentos y demás disposiciones aplicables;
+II. El diagnóstico, prevención, tratamiento y rehabilitación del tabaquismo, así como de la dependencia y de los padecimientos derivados del consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos;
 
-IV. La elaboración periódica de un programa de seguimiento y evaluación de metas y logros del Programa contra el Tabaquismo, que incluya al menos, las conductas relacionadas al tabaco y su impacto en la salud;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
 
-V. El diseño de programas que ayuden a dejar de fumar, combinadas con consejería y otras intervenciones, y
+III. La coordinación con la Secretaría de Educación del Gobierno del Estado para la orientación sobre los efectos del tabaquismo en la salud, así como del consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, dirigida especialmente a la familia, niñas, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva; incluyendo la orientación a la población para que se abstenga de fumar o consumir los mencionados dispositivos al interior de los espacios 100% libres de humo de tabaco y emisiones, vaporizaciones, o atomizaciones que establezca esta Ley, sus reglamentos y demás disposiciones aplicables;
 
-VI. El diseño de campañas de publicidad que inhiban el hábito de fumar, y disminuyan las probabilidades de iniciarse en el consumo de los productos del tabaco.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+IV. La elaboración periódica de un programa de seguimiento y evaluación de metas y resultados del Programa contra el Tabaquismo, cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, que incluya, al menos, el análisis de las conductas relacionadas con el consumo de productos de tabaco, así como de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, así como su impacto en la salud;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+V. El diseño de programas que ayuden a dejar de fumar, así como a cesar el uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, combinados con consejería y otras intervenciones especializadas, y
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+VI. El diseño de campañas de información y prevención que inhiban el hábito de fumar, así como del consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, y que disminuyan las probabilidades de iniciarse en el consumo de productos de tabaco o en la utilización de los mencionados dispositivos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 7°.
 
-Para la práctica de las acciones del Programa contra el Tabaquismo; se tendrán en cuenta los siguientes aspectos:
+Para la práctica de las acciones del Programa contra el Tabaquismo, y consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, se tendrán en cuenta los siguientes aspectos:
 
-I. La generación de la evidencia científica sobre las causas y consecuencias del tabaquismo, y sobre la evaluación del programa;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
 
-II. La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes;
+I. La generación de evidencia científica sobre las causas y consecuencias del tabaquismo, así como del consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, y sobre la evaluación del programa;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+II. La educación a la familia para prevenir el consumo de productos de tabaco y el consumo de cigarrillos electrónicos, vapeadores y otros sistemas o dispositivos análogos por parte de niñas, niños y adolescentes;
 
 III. La vigilancia e intercambio de información, y
 
@@ -185,7 +257,9 @@ I. Conocer de las denuncias presentadas por los ciudadanos o usuarios, cuando, e
 
 II. Ordenar de oficio o por denuncia ciudadana, la realización de visitas de inspección para cerciorarse del cumplimiento de las disposiciones de esta Ley, en los establecimientos, empresas y oficinas de la administración pública;
 
-III. Sancionar, previa visita de verificación, a los propietarios, dueños o administradores responsables de los espacios 100% libres del humo del tabaco, que no cumplan con las restricciones y obligaciones que impone esta Ley;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+III. Sancionar, previa visita de verificación, a los propietarios, dueños o administradores responsables de los espacios 100% libres del humo, emisiones, vaporizaciones, o atomizaciones, que no cumplan con las restricciones y obligaciones que impone esta Ley;
 
 IV. Sancionar a los particulares que al momento de la inspección, hayan sido encontrados fumando en los lugares en que se encuentre prohibido;
 
@@ -193,71 +267,85 @@ V. Informar a los órganos de control internos competentes de los poderes y muni
 
 VI. Las demás que le otorgue la ley y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 9°.
 
-En términos de las disposiciones federales en la materia, queda estrictamente prohibida la venta de cigarros a menores de edad.
+En términos de la Ley General de Salud, y demás disposiciones aplicables, queda estrictamente prohibida la venta, suministro o entrega a niñas, niños, o adolescentes, productos de tabaco, así como de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos.
+
+Las autoridades estatales y municipales coadyuvarán, en el ámbito de sus competencias, en la vigilancia y cumplimiento de lo dispuesto por la legislación federal en la materia.
 
 ## TITULO SEGUNDO. PROTECCION A LAS PERSONAS NO FUMADORAS
 
 ### CAPITULO I. De las Acciones de Protección a las Personas no Fumadoras
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 10.
 
-Queda prohibido a cualquier persona fumar o tener encendido cualquier producto del tabaco en los espacios 100% libres de humo de tabaco, así como en las escuelas públicas y privadas de educación básica obligatoria y media superior e instituciones de salud en el Estado.
+Queda prohibido a cualquier persona, fumar, consumir, vapear, utilizar o tener encendido cualquier producto de tabaco, así como el consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, en los espacios 100% libres de humo de tabaco y de emisiones, vaporizaciones, o atomizaciones; así como en las escuelas públicas y privadas de educación básica obligatoria y media superior e instituciones de salud en el Estado.
 
-En dichos lugares se fijará en el interior y en el exterior, los letreros, logotipos y emblemas que establezca la Secretaría.
+En dichos lugares se fijarán, en el interior y en el exterior, los letreros, logotipos y emblemas que establezca la Secretaría.
 
 ### CAPITULO II. De las Obligaciones
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 11.
 
-En lugares con acceso al público, o en áreas interiores de trabajo, públicas o privadas, incluidas las universidades e instituciones de educación superior, podrán existir áreas en las que se permita fumar.
+En lugares con acceso al público, o en áreas interiores de trabajo, públicas o privadas, incluidas las universidades e instituciones de educación superior, podrán existir áreas en las que se permita fumar o consumir cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+Las áreas mencionadas deberán cumplir con las siguientes disposiciones:
 
-Dichas áreas deberán cumplir con las disposiciones reglamentarias:
+I. Ubicarse en espacios al aire libre, físicamente separados e incomunicados de los espacios 100% libres de humo de tabaco, emisiones, vaporizaciones, o atomizaciones, y
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+II. Ubicarse en espacios interiores aislados.
 
-I. Ubicarse en espacios al aire libre, físicamente separados e incomunicados de los espacios 100% libres de humo, y
+Queda prohibida la entrada a niñas, niños y adolescentes a las áreas exclusivas para fumar.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
-
-II. En espacios interiores aislados.
-
-Queda prohibida la entrada a menores de edad a las zonas exclusivas para fumar.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 12.
 
-El propietario, administrador o responsable de un espacio 100% libre de humo de tabaco, estará obligado a hacer respetar los ambientes libres de humo de tabaco establecidos en los artículos anteriores.
+El propietario, administrador o responsable de un espacio 100% libre de humo de tabaco, emisiones, vaporizaciones, o atomizaciones, estará obligado a hacer respetar los ambientes establecidos en los artículos anteriores.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 13.
 
-En todos los espacios 100% libres de humo de tabaco y en las zonas exclusivamente para fumar, se colocarán en un lugar visible, letreros que indiquen claramente su naturaleza; debiéndose incluir un número telefónico para la denuncia por incumplimiento a esta Ley, sus reglamentos y demás disposiciones aplicables.
+En todos los espacios 100% libres de humo de tabaco, emisiones, vaporizaciones, o atomizaciones, así como en las zonas exclusivamente destinadas para fumar o consumir cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, se colocarán en un lugar visible letreros que indiquen claramente su naturaleza; debiendo incluirse un número telefónico para la denuncia por incumplimiento a esta Ley, sus reglamentos y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 14.
 
-Los dueños de los vehículos de transporte público o escolar, deberán fijar en el interior y exterior de los mismos, letreros o emblemas que indiquen la prohibición de fumar.
+Los propietarios o responsables de los vehículos destinados al servicio de transporte público o escolar deberán fijar en el interior y exterior de los mismos, letreros o emblemas que indiquen la prohibición de fumar o consumir cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, en términos de lo dispuesto por esta Ley.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 15.
 
-El conductor de un vehículo del servicio de transporte colectivo que constate que una persona está fumando en el interior de la unidad, lo conminará a dejar de hacerlo. De no atender la exhortación, lo comunicará a la autoridad correspondiente.
+El conductor de un vehículo del servicio de transporte colectivo que constate que una persona está fumando o utilizando cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos en el interior de la unidad, la conminará a dejar de hacerlo. De no atender la exhortación, lo comunicará a la autoridad correspondiente.
 
-Cuando el conductor de un vehículo del servicio de transporte colectivo, autorice que se fume en el interior de la unidad, se le aplicará la misma sanción que al infractor.
+Cuando el conductor autorice que se fume o se utilicen dichos dispositivos en el interior de la unidad, se le aplicará la misma sanción que al infractor.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 16.
 
-La Secretaría promoverá la participación de la sociedad civil en la prevención del tabaquismo, y el control de los productos del tabaco en las siguientes acciones:
+La Secretaría promoverá la participación de la sociedad civil en la prevención del tabaquismo, así como del uso de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, y en el control de los productos del tabaco y de dichos dispositivos, en las siguientes acciones:
 
-I. Promoción de los espacios 100% libres de humo de tabaco;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+I. Promoción de los espacios 100% libres de humo de tabaco y emisiones, vaporizaciones, o atomizaciones;
 
 II. Promoción de la salud comunitaria;
 
 III. Educación para la salud;
 
-IV. Investigación para la salud y generación de la evidencia científica en materia del control del tabaco;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2026)</small>
+
+IV. Investigación para la salud y generación de evidencia científica en materia de control del tabaco y del consumo de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos;
 
 V. Coordinación con los consejos, nacional, y estatal contra las adicciones, y
 
@@ -271,9 +359,11 @@ Cualquier persona podrá presentar ante la autoridad correspondiente, una denunc
 
 La autoridad competente salvaguardará la identidad e integridad del ciudadano denunciante.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 19.
 
-La Secretaría deberá contar con una línea telefónica en operación de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas y sugerencias sobre los espacios 100% libres de humo de tabaco, así como el incumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables.
+La Secretaría deberá contar con una línea telefónica en operación de acceso gratuito para que las personas puedan efectuar denuncias, quejas y sugerencias sobre los espacios 100% libres de humo de tabaco y emisiones, así como por el incumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables.
 
 ###### ARTICULO 20.
 
@@ -371,17 +461,15 @@ II. Las condiciones socio-económicas del infractor, y
 
 III. La calidad de reincidente del infractor.
 
-###### ARTICULO 33.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
 
-Se sancionará con multa:
+###### ARTÍCULO 33.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+Se sancionará con multa de:
 
-I. De hasta cien veces la unidad de medida y actualización diaria vigente, el incumplimiento de lo dispuesto en el artículo 10 de esta Ley, y
+I. Diez a cien veces la Unidad de Medida y Actualización diaria vigente, el incumplimiento de lo dispuesto en el artículo 10 de esta Ley, y
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
-
-II. De mil hasta cuatro mil veces la unidad de medida y actualización diaria vigente, el incumplimiento de las disposiciones contenidas en los artículos 11 y 12 de esta Ley.
+II. Mil hasta cuatro mil veces la Unidad de Medida y Actualización diaria vigente, el incumplimiento de las disposiciones contenidas en los artículos 11 y 12 de esta Ley.
 
 ###### ARTICULO 34.
 
@@ -399,9 +487,11 @@ Se sancionará con arresto hasta por treinta y seis horas, a quien de (sic) incu
 
 Cuando con motivo de la aplicación de esta Ley se desprenda la posible comisión de uno o varios delitos, la autoridad correspondiente formulará la denuncia o querella ante el Ministerio Público, sin perjuicio de la sanción administrativa que proceda.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 38.
 
-El Ejecutivo del Estado y los ayuntamientos en el ámbito de sus respectivas competencias, deberán garantizar que los recursos económicos que se recauden por la imposición de sanciones derivadas del incumplimiento a la presente Ley, sean canalizados a la ejecución de acciones para la prevención y tratamiento de enfermedades atribuibles al tabaco, o para llevar a cabo investigaciones sobre el tabaquismo y sus riesgos.
+El Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, deberán garantizar que los recursos económicos que se recauden por la imposición de sanciones derivadas del incumplimiento a la presente Ley, sean canalizados a la ejecución de acciones para la prevención y tratamiento de enfermedades atribuibles al consumo de productos de tabaco, y de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos, o para llevar a cabo investigaciones relacionadas con el tabaquismo, la dependencia a la nicotina y los riesgos asociados a los mencionados dispositivos.
 
 ARTICULO. 39. Si el infractor fuese jornalero, obrero o trabajador, la multa no será mayor al importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
@@ -411,11 +501,11 @@ Los trabajadores no asalariados podrán demostrar esta calidad con cualquier doc
 
 Los infractores a que hacen referencia los párrafos anteriores, tendrán un periodo de diez días hábiles para demostrar su calidad de trabajador, jornalero, obrero o trabajador no asalariado, ante la autoridad competente y pagar el importe de la multa equivalente a un día de su ingreso; transcurrido este periodo, el pago de la multa tendrá el monto que prevé esta Ley.
 
-> <small>(F. DE E., P.O. 31 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 40.
 
-Los órganos de control interno de cada organismo, dependencia y entidad pública de los poderes del Estado y municipios, serán los encargados de iniciar los procedimientos e imponer conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, las sanciones que correspondan a los servidores públicos que infrinjan las disposiciones de la presente Ley.
+Los Órganos Internos de Control de cada organismo, dependencia y entidad pública de los poderes del Estado y municipios, serán los encargados de iniciar los procedimientos e imponer conforme a la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, las sanciones que correspondan a los servidores públicos que infrinjan las disposiciones de la presente Ley.
 
 ### CAPITULO IV. Medios de Defensa
 
@@ -488,3 +578,13 @@ P.O. 8 DE JUNIO DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0578.- QUE REFORMA LOS ARTÍCULOS 1º, 3º, 4º, 5º, 6º, 7º, 8º, 9º, 10, 11, 12, 13, 14, 15, 16, 19, 33, 38, 40; REALIZA ADICIÓN AL ARTÍCULO 4º Y EL ARTÍCULO 4º BIS, DE LA LEY ESTATAL DE PROTECCIÓN A LA SALUD DE PERSONAS NO FUMADORAS".]
+
+PRIMERO. El presente decreto entrará en vigor ciento ochenta días hábiles siguientes a su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+A la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a la misma.
+
+SEGUNDO. Las erogaciones que se generen por la implementación del presente Decreto se cubrirán con cargo a los presupuestos de los ejecutores de gasto que intervengan en este, por lo que no se autorizarán ampliaciones de recursos en el presente ejercicio fiscal ni en años subsecuentes para tales efectos. Para ejercicios fiscales subsecuentes se deberán realizar las previsiones de recursos respectivas en los anteproyectos de presupuesto de los ejecutores de gasto que correspondan sin que se incremente su presupuesto regularizable de gasto de operación ni de servicios personales.
