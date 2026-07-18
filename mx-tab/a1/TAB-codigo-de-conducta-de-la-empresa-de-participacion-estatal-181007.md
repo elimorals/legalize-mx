@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-la-empresa-de-participacion-estatal-18100
 country: "mx"
 rank: "codigo"
 publication_date: "2025-07-19"
-last_updated: "2025-07-19"
+last_updated: "2026-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LA EMPRESA DE PARTICIPACION ESTATAL MAYORITARIA ESPECTACULOS DEPORTIVOS DE TABASCO SOCIEDAD ANONIMA DE CAPITAL VARIABLE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA EMPRESA PARAESTATAL DE PARTICIPACIÓN MAYORITARIA ESPECTÁCULOS DEPORTIVOS DE TABASCO S.A. DE C.V., PUBLICADO EN EL P.O. DE 18 DE JULIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA EMPRESA DE PARTICIPACIÓN ESTATAL MAYORITARIA ESPECTÁCULOS DEPORTIVOS DE TABASCO S.A. DE C.V.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento F de la Edición 8647 del Periódico Oficial del Estado de Tabasco, el sábado 19 de julio de 2025.
 
@@ -580,3 +582,13 @@ ______________________________________
 DADO EN LA CIUDAD DE VILLAHERMOSA, TABASCO, A LOS DOS DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL VEINTICINCO.
 
 LIC. DANIEL GÓMEZ ARELLANO, PRESIDENTE EJECUTIVO DE LA EMPRESA DE PARTICIPACION ESTATAL MAYORITARIA ESPECTÁCULOS DEPORTIVOS DE TABASCO, S.A. DE C.V.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL " CÓDIGO DE CONDUCTA DE LA EMPRESA PARAESTATAL DE PARTICIPACIÓN MAYORITARIA ESPECTÁCULOS DEPORTIVOS DE TABASCO S.A. DE C.V."]
+
+PRIMERO: El Presente Código de Conducta entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO: Se abroga el Código de Conducta de la Empresa de Participación Estatal Mayoritaria Espectáculos Deportivos de Tabasco S.A. de C.V. de fecha 02 de abril de 2025.
