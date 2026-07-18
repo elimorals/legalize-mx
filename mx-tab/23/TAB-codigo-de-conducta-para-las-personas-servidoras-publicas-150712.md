@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-para-las-personas-servidoras-publicas-150712
 country: "mx"
 rank: "codigo"
 publication_date: "2020-12-02"
-last_updated: "2020-12-02"
+last_updated: "2026-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PUBLICAS DEL INSTITUTO DE VIVIENDA DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE VIVIENDA DE TABASCO, PUBLICADO EN EL P.O. DE 18 DE JULIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE VIVIENDA DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento B del Periódico Oficial del Estado de Tabasco, el miércoles 2 de diciembre de 2020.
 
@@ -372,3 +374,15 @@ LIC. ARTURO ENRÍQUE PRIEGO RODRÍGUEZ
 ENCARGADO DEL DESPACHO DEL
 
 INSTITUTO DE VIVIENDA DE TABASCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE VIVIENDA DE TABASCO”.]
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Código de Conducta para las Personas Servidoras Públicas del INVITAB de fecha 2 de diciembre de 2020, publicado en el Periódico Oficial del Estado de Tabasco, Suplemento B, Edición, 8164.
+
+TERCERO: Todas las personas servidoras públicas del INVITAB, deberán suscribir la Carta Compromiso a que hace referencia el artículo 10 del presente Código de Conducta.
