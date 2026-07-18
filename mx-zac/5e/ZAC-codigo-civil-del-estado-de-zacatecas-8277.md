@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2023-07-08"
+last_updated: "2026-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2026.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -2521,9 +2521,7 @@ III.- El Estado, por conducto de su Secretaría de Educación Pública y Servici
 
 790.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, los que se fijarán de acuerdo a lo preceptuado en los artículos 571, 573 y 575 de este Código.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
-
-791.- El adoptado hereda como un hijo, pero, tratándose de adopción simple, no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+791. (DEROGADO, P.O. 18 DE JULIO DE 2026)
 
 792.- Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos, siendo aplicable lo dispuesto en el artículo 790 de este ordenamiento.
 
@@ -2539,13 +2537,9 @@ III.- El Estado, por conducto de su Secretaría de Educación Pública y Servici
 
 797.- Los miembros de cada línea y en el mismo grado, en el caso del artículo anterior, dividirán entre ellos por partes iguales, la porción que a la línea corresponda.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+798. (DEROGADO, P.O. 18 DE JULIO DE 2026)
 
-798.- Tratándose de adopción simple, si concurren los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
-
-799.- Tratándose de adopción simple, si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
+799. (DEROGADO, P.O. 18 DE JULIO DE 2026)
 
 800.- Los ascendientes naturales tienen derecho de heredar a sus descendientes reconocidos en los términos de este Capítulo.
 
@@ -8348,3 +8342,19 @@ P.O. 8 DE JULIO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno de Zacatecas.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente decreto.
+
+P.O. 18 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 348.- SE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO FAMILIAR Y EL CÓDIGO CIVIL, AMBOS DEL ESTADO DE ZACATECAS, EN MATERIA DE ADOPCIÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
