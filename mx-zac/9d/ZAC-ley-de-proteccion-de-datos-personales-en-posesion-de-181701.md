@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-de-datos-personales-en-posesion-de-181701"
 country: "mx"
 rank: "ley"
 publication_date: "2025-09-20"
-last_updated: "2025-09-20"
+last_updated: "2026-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2026.
 
 Ley publicada en el Suplemento 6 al Número 76 del Periódico Oficial del Estado de Zacatecas, el sábado 20 de septiembre de 2025.
 
@@ -87,9 +87,9 @@ I. Áreas. Instancias de los Sujetos Obligados responsables previstos en los res
 
 II. Autoridad garante local. Transparencia para el Pueblo de Zacatecas, órgano administrativo desconcentrado de la Secretaría de la Función Pública del Gobierno del Estado de Zacatecas, encargado de la atención y resolución de los medios de impugnación en materia de Transparencia, Acceso a la Información y Protección de Datos Personales de las instituciones del Poder Ejecutivo del Estado de Zacatecas, como lo son, las dependencias, los descentralizados y fideicomisos, así como de los municipios y sus organismos descentralizados municipales e intermunicipales;
 
-(NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 254/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2026)</small>
 
-III. Autoridades garantes. El órgano de control y disciplina del Poder Judicial; los órganos internos de control o equivalentes de los Órganos Constitucionales Autónomos, el órgano interno de control de la Legislatura del Estado de Zacatecas; EL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, POR CUANTO HACE AL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS PARTIDOS POLÍTICOS CON ACREDITACIÓN O REGISTRO ESTATAL; EL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE ZACATECAS, POR CUANTO HACE AL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS SINDICATOS, así como la Autoridad garante establecida en la fracción II del presente artículo.
+III. Autoridades garantes. El órgano de control y disciplina del Poder Judicial; los órganos internos de control o equivalentes de los Órganos Constitucionales Autónomos, el órgano interno de control de la Legislatura del Estado de Zacatecas; el Instituto Electoral del Estado de Zacatecas, por cuanto hace al acceso a la información pública de los partidos políticos con acreditación o registro estatal; el Centro de Conciliación Laboral del Estado de Zacatecas, por cuanto hace al acceso a la información pública de los sindicatos de los trabajadores al servicio de los Poderes del Estado, los municipios y organismos paraestatales, así como la Autoridad garante establecida en la fracción II del presente artículo;
 
 IV. Aviso de privacidad. Documento a disposición de la persona titular de la información de forma física, electrónica o en cualquier formato generado por el responsable, a partir del momento en el cual se recaben sus datos personales, con el objeto de informarle los propósitos del tratamiento de los mismos;
 
@@ -1608,3 +1608,13 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Quinta Legislatura del E
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado, a los diez días del mes de julio del año dos mil veinticinco. GOBERNADOR DEL ESTADO.- DAVID MONREAL ÁVILA. SECRETARIO GENERAL DE GOBIERNO.- RODRIGO REYES MUGÜERZA. Rúbricas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 332.- SE ADICIONA UNA FRACCIÓN XXI AL ARTÍCULO 3 Y SE RECORREN LAS DEMÁS EN SU ORDEN, SE REFORMA AL PÁRRAFO TERCERO DEL ARTÍCULO 4o Y SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 62, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan al presente Decreto.
