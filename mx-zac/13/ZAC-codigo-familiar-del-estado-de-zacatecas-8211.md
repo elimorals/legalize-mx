@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2026-02-04"
+last_updated: "2026-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -575,21 +575,15 @@ Dictada la resolución judicial definitiva que autoriza la adopción, el Juez qu
 
 La falta de registro de la adopción no quita a ésta sus efectos legales, pero sujeta al responsable a lo dispuesto por el artículo veintisiete de este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
-
 ###### ARTICULO 58.
 
-En la adopción simple se levantará un acta de adopción que contendrá el nombre, apellidos, edades y domicilios del adoptante o adoptantes y del adoptado; el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción.
+(DEROGADO, P.O. 18 DE JULIO DE 2026)
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
-
-Extendida el acta de la adopción, se harán las anotaciones en la del nacimiento del adoptado y se archivará la copia de las diligencias relativas, bajo el mismo número del acta de adopción.
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 59.
 
-En la adopción plena se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos y se harán las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado, ni su condición de tal, salvo providencia dictada en juicio.
+En la adopción se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos y se harán las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado, ni su condición de tal, salvo providencia dictada en juicio.
 
 ###### ARTICULO 60.
 
@@ -1039,9 +1033,11 @@ X. El matrimonio subsistente con persona distinta de aquella con quien se preten
 
 De estos impedimentos sólo son dispensables el parentesco de consanguinidad en la línea colateral desigual, así como aquellos en los que esté prevista la libre manifestación del consentimiento del o de los contrayentes, que desestimen formalmente el impedimento.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 115.
 
-El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, mientras dure el lazo jurídico de la adopción.
+El adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -1971,9 +1967,9 @@ El parentesco de consanguinidad es el vinculo que existe entre personas que desc
 
 También se considera parentesco por consanguinidad, el vinculo existente entre el hijo producto de la reproducción asistida y los cónyuges o concubinos que hubieren procurado el nacimiento.
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2026)</small>
 
-En la adopción plena, se equiparará al parentesco por consanguinidad aquél que existe entre adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
+En la adopción se equiparará al parentesco por consanguinidad aquél que existe entre adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
 
 ###### ARTICULO 247.
 
@@ -1987,11 +1983,9 @@ Disuelto el matrimonio desaparece el parentesco por afinidad.
 
 Se asimila al parentesco por afinidad la relación que resulta del concubinato. Esta asimilación sólo comprende los parientes consanguíneos en línea recta ascendiente o descendiente sin limitación de grado; y su único efecto es constituir un impedimento para el matrimonio.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
-
 ###### ARTICULO 249.
 
-El parentesco civil es el que nace de la adopción simple; y es aquel que existe solamente entre el adoptante y el adoptado.
+(DEROGADO, P.O. 18 DE JULIO DE 2026)
 
 ###### ARTICULO 250.
 
@@ -2765,11 +2759,9 @@ La adopción hecha por extranjeros radicados legalmente en México, se rige por 
 
 El tutor no puede adoptar al pupilo sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
-
 ###### ARTICULO 357.
 
-El menor o incapacitado que hayan sido adoptados en forma simple podrán impugnar la adopción dentro del año siguiente a la mayoría de edad, o a la fecha en que haya desaparecido la incapacidad.
+(DEROGADO, P.O. 18 DE JULIO DE 2026)
 
 ###### ARTICULO 358.
 
@@ -2865,115 +2857,85 @@ c) El consentimiento del menor o incapacitado a la adopción, cuando sea necesar
 
 V. Que ninguno de los adoptantes se encuentre inscrito en el Registro de Deudores Alimentarios Morosos.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2026)</small>
 
-### CAPÍTULO OCTAVO. DE LA ADOPCIÓN PLENA
+### CAPÍTULO OCTAVO. DE LA ADOPCIÓN
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 364 Ter.
 
-El adoptado bajo la forma de adopción plena se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
+El adoptado se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 364 Quáter.
 
-La adopción plena extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado con alguno: de los progenitores del adoptado no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
+La adopción extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado con alguno de los progenitores del adoptado no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 364 Quinquies.
 
-La adopción plena es irrevocable, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en la filiación biológica.
+La adopción es irrevocable, pero puede demandarse la pérdida de la patria potestad por las mismas causales que en la filiación biológica.
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 364 Sexies.
 
-Para que la adopción plena pueda tener efectos, además de las personas a que se refiere el artículo 359 de este Código, deberá otorgar su consentimiento el padre o madre del menor que se pretende adoptar, salvo que exista al respecto declaración judicial de abandono.
+Para que la adopción pueda tener efectos, además de las personas a que se refiere el artículo 359 de este Código, deberá otorgar su consentimiento el padre o madre del menor que se pretende adoptar, salvo que exista al respecto declaración judicial de abandono.
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 364 Septies.
 
-Tratándose de la adopción plena, el Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los casos siguientes y contando con autorización judicial:
-
-I. Para efectos de impedimento para contraer matrimonio, y
-
-II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, si fuere menor de edad se requerirá el consentimiento de los adoptantes.
-
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
-
-###### ARTICULO 364 Octies.
-
-No pueden adoptar mediante adopción plena, las personas que tengan vínculo de parentesco consanguíneo con el menor o incapaz.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2017)</small>
-
-### CAPÍTULO NOVENO. DE LA ADOPCIÓN SIMPLE
-
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
-
-###### ARTICULO 364 Nonies.
-
-Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, no crea ningún vínculo jurídico entre el adoptado y la familia del adoptante, ni entre éste y la familia de aquél, salvo los impedimentos para contraer matrimonio.
-
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
-
-###### ARTICULO 364 Decies.
-
-Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad que será transferida al padre adoptivo.
-
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2017)</small>
-
-ARTICULO 364 Undecies.- La adopción simple podrá convertirse en plena siempre que se cumplan los requisitos y se realice el procedimiento aplicable a esta última.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2017)</small>
-
-###### ARTICULO 365.
-
-La adopción simple puede revocarse:
-
-I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, en los términos establecidos por esta Ley;
-
-II. Por ingratitud del adoptado;
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
-
-III. Por maltrato, abandono o costumbres desordenadas, en los términos de la Ley Estatal de los Derechos de las Niñas, los Niños y los Adolescentes, así como en los casos de violencia familiar, de acuerdo a lo dispuesto en el artículo 283 bis. de este Código. La revocación se tramitará de conformidad a lo dispuesto por el Código de Procedimientos Civiles.
-
-En este caso, el Ministerio Público, en protección al menor, ordenará la separación inmediata del adoptado; lo pondrá a la protección y cuidado de los ascendientes a los que legalmente les corresponda el ejercicio de la patria potestad; a su falta o impedimento, el menor pasará a la custodia del Sistema Estatal para el Desarrollo Integral de la Familia, y dentro de las veinticuatro horas siguientes pedirá al Juez la revocación de la adopción, quien deberá resolver en un término de setenta y dos horas a partir de la fecha de la solicitud.
+Tratándose de la adopción, el Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los casos siguientes y contando con autorización judicial:
 
 > <small>(ADICIONADA, P.O. 29 DE MARZO DE 2017)</small>
 
-IV. Por impugnación del vínculo hecha por el adoptado dentro del año siguiente a la mayoría de edad, o a la fecha en que haya desaparecido la incapacidad.
+I. Para efectos de impedimento para contraer matrimonio, y
+
+> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2017)</small>
+
+II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, si fuere menor de edad se requerirá el consentimiento de los adoptantes.
+
+###### ARTICULO 364 Octies.
+
+(DEROGADO, P.O. 18 DE JULIO DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JULIO DE 2026)</small>
+
+### CAPÍTULO NOVENO. DE LA ADOPCIÓN SIMPLE
+
+###### ARTICULO 364 Nonies.
+
+(DEROGADO, P.O. 18 DE JULIO DE 2026)
+
+###### ARTICULO 364 Decies.
+
+(DEROGADO, P.O. 18 DE JULIO DE 2026)
+
+ARTICULO 364 Undecies.- (DEROGADO, P.O. 18 DE JULIO DE 2026)
+
+###### ARTICULO 365.
+
+(DEROGADO, P.O. 18 DE JULIO DE 2026)
 
 ###### ARTICULO 366.
 
-Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
-
-I. Si comete algún delito que merezca pena de dos años de prisión, contra la persona, la honra o los bienes del o de los adoptantes, de sus ascendientes o descendientes;
-
-II. Si el adoptado acusa judicialmente al o a los adoptantes de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, concubina, concubinario, sus ascendientes o descendientes;
-
-III. Si el adoptado rehusa dar alimentos al adoptante, cuando éste tenga el carácter de acreedor alimentista, de acuerdo con las disposiciones contenidas en esta ley.
-
-Para revocar la adopción cuando los interesados convengan en ella, el Juez sólo podrá decretarla, si convencido de la espontaneidad con que se solicitó, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+(DEROGADO, P.O. 18 DE JULIO DE 2026)
 
 ###### ARTICULO 367.
 
-La sentencia del Juez deja sin efecto la adopción y restituye las cosas al estado que guardaban antes de efectuarse ésta.
+(DEROGADO, P.O. 18 DE JULIO DE 2026)
 
 ###### ARTICULO 368.
 
-En el caso de revocación por ingratitud, ésta deja de producir efectos desde que se comete el acto ingrato, aunque la resolución que la declare sea posterior.
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2000)</small>
+(DEROGADO, P.O. 18 DE JULIO DE 2026)
 
 ###### ARTICULO 369.
 
-Las resoluciones que dicten los Jueces aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción. Igualmente al Consejo Estatal de los Derechos del Niño para los efectos del seguimiento de su situación.
+(DEROGADO, P.O. 18 DE JULIO DE 2026)
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2017)</small>
 
@@ -5504,3 +5466,19 @@ El presente Decreto entrará en vigor el primero de enero del año dos mil veint
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 18 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 348.- SE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO FAMILIAR Y EL CÓDIGO CIVIL, AMBOS DEL ESTADO DE ZACATECAS, EN MATERIA DE ADOPCIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
