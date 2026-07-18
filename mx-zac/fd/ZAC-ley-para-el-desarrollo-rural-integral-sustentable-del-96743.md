@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-desarrollo-rural-integral-sustentable-del-96743"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-30"
-last_updated: "2026-04-25"
+last_updated: "2026-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2026.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de noviembre de 2013.
 
@@ -1215,21 +1215,27 @@ III. Reorientar el uso del suelo cuando existan niveles altos de erosión o impa
 
 IV. Promover la adopción de tecnologías que conserven y mejoren la productividad de las tierras, la biodiversidad y el entorno natural;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE JULIO DE 2026)</small>
 
 V. Fomentar la producción de productos con oportunidades de exportación y generación de divisas;
 
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2026)</small>
+
+VI. Promover el aprovechamiento sustentable de plantas y frutos comestibles que se desarrollan de forma natural en el campo zacatecano. Este aprovechamiento deberá fomentar su conservación, uso tradicional, promoción educativa, investigación científica, difusión turística y comercialización responsable.
+
+La Secretaría, en coordinación con instituciones de educación superior, centros de investigación y dependencias del ramo cultural y turístico, promoverá estrategias integrales con cobertura en todos los municipios del estado, y
+
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2026)</small>
 
-VI. Fomentar la diversificación productiva;
+VII. Fomentar la diversificación productiva;
 
 > <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2026)</small>
 
-VII. Apoyar proyectos que propicien la innovación productiva y el cuidado del suelo, a través del uso de biofertilizantes, plaguicidas orgánicos, la bioestimulación de cultivos y, en general, todas las prácticas agronómicas que mejoren los medios de vida en el campo de manera orgánica y sustentable; y
+VIII. Apoyar proyectos que propicien la innovación productiva y el cuidado del suelo, a través del uso de biofertilizantes, plaguicidas orgánicos, la bioestimulación de cultivos y, en general, todas las prácticas agronómicas que mejoren los medios de vida en el campo de manera orgánica y sustentable; y
 
 > <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2026)</small>
 
-VIII. Incentivar las prácticas agronómicas sustentables que permitan la bioestimulación de cultivos por medio de nutrientes vegetales y sustancias naturales, propiciando el uso preferente de biofertilizantes y plaguicidas orgánicos que permitan una transición gradual y progresiva hacia sistemas de agricultura regenerativa y ecológica.
+IX. Incentivar las prácticas agronómicas sustentables que permitan la bioestimulación de cultivos por medio de nutrientes vegetales y sustancias naturales, propiciando el uso preferente de biofertilizantes y plaguicidas orgánicos que permitan una transición gradual y progresiva hacia sistemas de agricultura regenerativa y ecológica.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1385,7 +1391,9 @@ II. Generar la interlocución permanente entre productores y compradores por med
 
 III. Impulsar acciones que desalienten las prácticas especulativas que perjudican a los productores y consumidores;
 
-IV. Implementar talleres y cursos de capacitación comercial a productores y organizaciones económicas rurales, y
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2026)</small>
+
+IV. Implementar talleres y cursos de capacitación comercial dirigidos a productores y organizaciones económicas rurales, con enfoque en estrategias de comercialización a nivel nacional e internacional, incluyendo la promoción de alianzas estratégicas y vínculos directos con empresas del país y otras naciones, para facilitar la colocación de sus productos en mercados competitivos, y
 
 V. Las demás que sean necesarias para el desarrollo comercial de los productos del sector rural en el Estado.
 
@@ -1814,6 +1822,14 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 197.- REFORMAS Y ADICIONONES A LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 325.- SE REFORMA LA FRACCIÓN V Y SE ADICIONA LA FRACCIÓN VI, RECORRIÉNDOSE LAS SIGUIENTES EN SU ORDEN AL ARTÍCULO 69 Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 83 DE LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS".]
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
 
