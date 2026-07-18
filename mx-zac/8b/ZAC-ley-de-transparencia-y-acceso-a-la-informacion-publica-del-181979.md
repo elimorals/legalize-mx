@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1819
 country: "mx"
 rank: "ley"
 publication_date: "2025-10-15"
-last_updated: "2025-10-15"
+last_updated: "2026-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 15 de octubre de 2025.
 
@@ -157,17 +157,21 @@ XIX. Plataforma Nacional: Plataforma Nacional de Transparencia, a la que se hace
 
 XX. Resoluciones de Lectura Fácil: documentos redactados con un lenguaje claro y sencillo, buscando que sean comprensibles para todos, especialmente para personas con dificultades para leer o comprender información compleja;
 
-XXI. Sistema Nacional: Sistema Nacional de Acceso a la Información Pública;
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2026)</small>
 
-XXII. Subsistema de Transparencia: Subsistema de Transparencia del Estado de Zacatecas, establecido y conformado de acuerdo al Título Segundo Capítulo III de la Ley General;
+XXI. Sindicato, en singular o plural: A los sindicatos de los trabajadores al servicio de los Poderes del Estado, los municipios y organismos paraestatales;
+
+XXII. Sistema Nacional: Sistema Nacional de Acceso a la Información Pública;
+
+XXIII. Subsistema de Transparencia: Subsistema de Transparencia del Estado de Zacatecas, establecido y conformado de acuerdo al Título Segundo Capítulo III de la Ley General;
 
 (NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 193/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN XXIII DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-XXIII. Sujetos obligados: Cualquier autoridad, entidad, órgano y organismo de los poderes Legislativo, Ejecutivo, Judicial y de los Municipios, organismos autónomos, PARTIDOS POLÍTICOS, fideicomisos y fondos públicos, así como de cualquier persona física, moral O SINDICATO que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal;
+XXIV. Sujetos obligados: Cualquier autoridad, entidad, órgano y organismo de los poderes Legislativo, Ejecutivo, Judicial y de los Municipios, organismos autónomos, PARTIDOS POLÍTICOS, fideicomisos y fondos públicos, así como de cualquier persona física, moral O SINDICATO que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal;
 
-XXIV. Unidad de Transparencia: Instancia a la que hace referencia el artículo 32 de la presente Ley, y
+XXV. Unidad de Transparencia: Instancia a la que hace referencia el artículo 32 de la presente Ley, y
 
-XXV. Versión Pública: Documento o expediente en el que se otorga acceso a la información pública, previa eliminación u omisión de aquellas partes o secciones que se encuentren clasificadas conforme a la Ley.
+XXVI. Versión Pública: Documento o expediente en el que se otorga acceso a la información pública, previa eliminación u omisión de aquellas partes o secciones que se encuentren clasificadas conforme a la Ley.
 
 ###### Artículo 4.
 
@@ -175,9 +179,9 @@ El derecho humano de acceso a la información comprende solicitar, investigar, d
 
 Toda la información generada, obtenida, adquirida, transformada o en posesión de los sujetos obligados es pública y accesible a cualquier persona en los términos y condiciones que se establezcan en la Ley General, la presente Ley y en los tratados internacionales de los que el Estado mexicano sea parte, así como en las disposiciones jurídicas aplicables;
 
-(NOTA: EL 27 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 272/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE ABRIL DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2026)</small>
 
-La información podrá ser clasificada como reservada temporalmente por razones de interés público o seguridad nacional CONFORME A LOS TÉRMINOS ESTABLECIDOS POR LA LEY GENERAL Y POR ESTA LEY.
+La información podrá ser clasificada como reservada temporalmente por razones de interés público o seguridad nacional conforme a los términos establecidos por la Ley General.
 
 ###### Artículo 5.
 
@@ -1169,9 +1173,13 @@ V. Las actas de asamblea;
 
 VI. Los reglamentos interiores de trabajo;
 
-VII. Los contratos colectivos, incluyendo el tabulador, convenios y las condiciones generales de trabajo, y
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2026)</small>
 
-VIII. Todos los documentos contenidos en el Expediente de registro sindical y de contratos colectivos de trabajo.
+VII. El tabulador, convenios y las condiciones generales de trabajo, y
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2026)</small>
+
+VIII. Todos los documentos contenidos en el Expediente de registro sindical.
 
 Las autoridades administrativas y jurisdiccionales en materia laboral deberán expedir copias de los documentos que obren en los expedientes de los registros a las personas solicitantes que los requieran, de conformidad con el procedimiento de acceso a la información.
 
@@ -2194,3 +2202,13 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Quinta Legislatura del E
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo, a los diez días del mes de julio del año dos mil veinticinco. GOBERNADOR DEL ESTADO.- DAVID MONREAL ÁVILA. SECRETARIO GENERAL DE GOBIERNO.- RODRIGO REYES MUGÜERZA. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 332.- SE ADICIONA UNA FRACCIÓN XXI AL ARTÍCULO 3 Y SE RECORREN LAS DEMÁS EN SU ORDEN, SE REFORMA AL (SIC) PÁRRAFO TERCERO DEL ARTÍCULO 4o Y SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 62, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan al presente Decreto.
