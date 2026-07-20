@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2026-07-03"
+last_updated: "2026-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -143,9 +143,9 @@ La mujer y el hombre son iguales ante la Ley, ésta protegerá la organización 
 
 Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad. El Estado garantizará el acceso a los programas y acciones públicas en la materia y fomentará en sus habitantes el cuidado de la salud, procurando que las autoridades atiendan la nutrición adecuada de las familias, la alimentación segura, así como los medios para obtenerla, con primordial atención en la calidad de la alimentación que consumen las niñas, niños, jóvenes y adultos mayores, en esta tarea participarán las dependencias y organismos competentes de la administración pública del Gobierno del Estado, así como los correspondientes de los Municipios de la Entidad.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
 
-Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo.
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento, estímulo y la generación de condiciones para su ejercicio efectivo.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
@@ -4948,3 +4948,11 @@ La nueva integración del Ayuntamiento del Municipio de Aguascalientes prevista 
 ###### ARTÍCULO TERCERO.
 
 El Congreso del Estado realizará las adecuaciones que en su caso estime necesarias en materia electoral y municipal, según corresponda.
+
+P.O. 20 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 544.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
