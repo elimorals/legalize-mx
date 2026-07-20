@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2025-03-10"
+last_updated: "2026-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2026.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -1175,11 +1175,15 @@ La administración de los recursos se realizará conforme a los principios seña
 
 #### SECCIÓN CUARTA. CONTRALORÍA INTERNA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2026)</small>
 
 ###### Artículo 82.
 
-La Contraloria Interna es el órgano interno de control y la dependencia competente para promover el desarrollo administrativo institucional y verificar el cumplimiento de las obligaciones administrativas y legales de los servidores públicos de las demás dependencias del Congreso; al efecto podrá realizar investigaciones, auditorías, al igual que recibir, investigar, substanciar y resolver las quejas respecto de la aplicación de los procedimientos y sanciones inherentes a las responsabilidades administrativas de los servidores públicos del Congreso, de conformidad a la presente Ley, el Reglamento, la Ley General de Responsabilidades Administrativas y demás ordenamientos jurídicos aplicables.
+La Contraloría Interna es el órgano interno de control y la dependencia competente para promover el desarrollo administrativo institucional y verificar el cumplimiento de las obligaciones administrativas y legales de las personas servidoras públicas del Congreso. Para el ejercicio de sus atribuciones, podrá realizar investigaciones y auditorías, así como recibir, investigar, substanciar y resolver las quejas respecto de la aplicación de los procedimientos y sanciones inherentes a las responsabilidades administrativas de conformidad con la presente Ley, el Reglamento, la Ley General de Responsabilidades Administrativas y demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2026)</small>
+
+Asimismo, fungirá como autoridad garante y revisora en materia de transparencia, acceso a la información y protección de datos personales respecto de los asuntos competencia del Congreso del Estado y de la Auditoría Superior del Estado de Nayarit, de conformidad con lo establecido en las diposiciones legales aplicables y al Reglamento Interior del Congreso.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1187,9 +1191,9 @@ La Contraloria Interna es el órgano interno de control y la dependencia compete
 
 La Contraloría Interna para el cumplimiento de sus funciones contará con la estructura siguiente:
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2026)</small>
 
-I.- Dirección de Auditoría Financiera;
+I.- Dirección de Auditoría Financiera y Órgano Garante;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2021)</small>
 
@@ -1886,3 +1890,17 @@ P.O. 10 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DE MODIFICACIÓN DE LA DENOMINACIÓN DE LA COMISIÓN DE IGUALDAD DE GÉNERO Y FAMILIA, POR COMISIÓN DE IGUALDAD DE GÉNERO Y FAMILIAS".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 20 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA EL ARTÍCULO 82 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DE TRANSPARENCIA Y DATOS PERSONALES".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Tercero. En un plazo no mayor a sesenta días hábiles, contados a partir de la entrada en vigor de este Decreto, deberán realizarse las adecuaciones normativas, administrativas y operativas necesarias para la debida aplicación del presente instrumento.
+
+Cuarto. Las referencias contenidas en leyes, decretos, acuerdos y demás disposiciones normativas, administrativas, de planeación, programación o presupuesto, o en cualquier otro instrumento jurídico que haga referencia, a la Dirección de Auditoría Financiera, se entenderán realizadas a la Dirección de Auditoría Financiera y Órgano Garante.
+
+Quinto. Comuníquese el presente Decreto a las personas titulares de la Auditoría Superior del Estado de Nayarit, de la Contraloría Interna y de la Unidad de Transparencia del Honorable Congreso del Estado, para su conocimiento y efectos conducentes.
