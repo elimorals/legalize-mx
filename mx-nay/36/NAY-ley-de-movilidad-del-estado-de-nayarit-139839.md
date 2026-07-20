@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-movilidad-del-estado-de-nayarit-139839"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-07"
-last_updated: "2025-09-15"
+last_updated: "2026-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE MOVILIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2026.
 
 Ley publicada en la Sección quinta del Número 003 del Periódico Oficial del Estado de Nayarit, el martes 7 de enero de 2020.
 
@@ -635,11 +635,11 @@ I. Definir y expedir los lineamientos fundamentales de la política de movilidad
 
 II. Emitir, a propuesta de la Secretaría, y con la participación técnica del IPLANAY y los Ayuntamientos, el Programa Integral de Movilidad Sostenible y demás instrumentos normados por esta Ley;
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2026)</small>
 
-III. Autorizar, con la intervención que en derecho corresponda a la Secretaría y a la Comisión Técnica de Movilidad, las concesiones del servicio público de transporte, así como modificarlas, extinguirlas, vigilarlas, cancelarlas o revocarlas en los términos de la presente Ley y sus reglamentos;
+III. Otorgar, modificar, vigilar, revocar, cancelar y extinguir las concesiones del servicio público y especializado de transporte, con la intervención que en derecho corresponda a la Secretaría y a la Comisión Técnica de Movilidad, conforme al procedimiento previsto en esta Ley y su Reglamento;
 
-IV. Otorgar, revocar o extinguir las concesiones, según corresponda, para la prestación de los servicios de transporte público y especializado;
+IV. (DEROGADA, P.O. 20 DE JULIO DE 2026)
 
 > <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
@@ -4249,23 +4249,39 @@ El titular del Poder Ejecutivo del Estado, para la más eficaz prestación del s
 
 Las concesiones o permisos de transporte público son inembargables, imprescriptibles, inalienables e intransferibles ya sea a título oneroso o gratuito y no serán materia de transmisión por causa de muerte, por donación, herencia o legado.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2026)</small>
 
 ###### Artículo 342.
 
-Las personas físicas o morales, para participar en la prestación del servicio público de transporte colectivo, requerirán obtener concesión según corresponda, expedida por el titular del Poder Ejecutivo del Estado por conducto de la Secretaría y estarán limitadas al número que esta determine, de conformidad a las necesidades de la prestación del servicio una vez que se hayan realizado el estudio de factibilidad, rentabilidad y viabilidad.
+Las personas físicas o morales, para participar en la prestación del servicio público de transporte colectivo, requerirán obtener concesión según corresponda, expedida por la persona titular del Poder Ejecutivo del Estado por conducto de la Secretaría y estarán limitadas al número que esta determine, de conformidad a las necesidades de la prestación del servicio una vez que se hayan realizado el estudio de factibilidad, rentabilidad y viabilidad.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
 
 No se podrán expedir concesiones o permisos de transporte público sin el dictamen técnico emitido por la Comisión Técnica de Movilidad.
 
-Previo a la expedición de una concesión o permiso, la persona titular de la Secretaría analizará el expediente en un plazo de quince días hábiles a partir de su recepción, para determinar si se encuentra integrado de manera completa y expedir la concesión o permiso según corresponda.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
 
-En caso de que el expediente se encuentre incompleto, la persona titular de la Secretaría deberá de remitirlo a la Comisión Técnica de Movilidad para subsanar lo faltante.
+Previo a la expedición de una concesión o permiso, la persona titular de la Secretaría contará con un plazo de quince días hábiles a partir de la recepción de la solicitud para verificar la integración completa del expediente.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
+
+Concluida dicha verificación, el procedimiento de análisis técnico, dictamen de la Comisión Técnica de Movilidad y resolución definitiva se desahogará conforme a los plazos y procedimiento que establezca el Reglamento.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
 
 Las personas físicas o morales que cuenten con una concesión, permiso o cualquier otra autorización, deberán estar registradas en la Secretaría.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
 Para el caso de renovación de concesión para el transporte colectivo de pasajeros, la persona física o moral, deberá solicitarlo por escrito seis meses previos a su vencimiento, acompañando la documentación requerida en los términos de Ley; en caso de no realizar la solicitud en el término establecido será causa de extinción, además de las señaladas en esta Ley.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
 Las concesiones únicamente se otorgarán a personas de nacionalidad mexicana, físicas o morales, según el servicio de que se trate, constituidas conforme a las Leyes del país.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2026)</small>
+
+El Reglamento establecerá el procedimiento para el otorgamiento, modificación, extinción y revocación de concesiones de conformidad con las bases mínimas contenidas en la presente Ley.
 
 ###### Artículo 343.
 
@@ -4341,9 +4357,11 @@ Presentada en tiempo y forma la solicitud, la autoridad deberá comunicar al int
 
 La concesión será prorrogada a favor de su titular si está prestando el servicio público de transporte y subsiste la necesidad del servicio, siempre que no se afecte el interés público y se cumplan los requisitos señalados en esta Ley.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
+
 ###### Artículo 347.
 
-La prórroga se autorizará por el Titular del Poder Ejecutivo del Estado siguiendo con el procedimiento previsto en las fracciones II, III, IV, V, VI, VII Y VIII del artículo 356 de la presente ley, la resolución se remitirá mediante acuerdo que se informará al REPUMO, para los efectos de asentar las inscripciones de las concesiones que se prorrogan y aquellas que se declaren extintas a efecto de realizar la anotación correspondiente.
+La prórroga se autorizará por la persona Titular del Poder Ejecutivo del Estado siguiendo con el procedimiento que establezca el Reglamento de la presente ley, la resolución se remitirá mediante acuerdo que se informará al REPUMO, para los efectos de asentar las inscripciones de las concesiones que se prorrogan y aquellas que se declaren extintas a efecto de realizar la anotación correspondiente.
 
 ###### Artículo 348.
 
@@ -4407,9 +4425,11 @@ Del total de vehículos que conformarán el parque vehicular en el Estado, desti
 
 La Comisión Técnica de Movilidad, determinará también la sustitución de las concesiones que hayan sido canceladas, revocadas o estén vacantes, y las que hayan sido declaradas extintas, para que los interesados, ya sean personas físicas o morales, presenten sus propuestas, mismas que se otorgarán a quienes tengan derecho y manifiesten interés, con base en los estudios y datos proporcionados por la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2026)</small>
+
 ###### Artículo 356.
 
-El Ejecutivo estatal, otorgará las concesiones a las personas físicas o morales, bajo los principios de imparcialidad, legalidad y transparencia, observando el siguiente procedimiento:
+La persona titular del Ejecutivo estatal, otorgará las concesiones a las personas físicas o morales, bajo los principios de imparcialidad, legalidad y transparencia, observando el siguiente procedimiento:
 
 I. Previo diagnóstico elaborado por la Comisión Técnica de Movilidad, que sustente que existen concesiones vacantes o la necesidad de expedir nuevas, indicando su objeto, modalidad y requisitos;
 
@@ -4417,13 +4437,15 @@ I. Previo diagnóstico elaborado por la Comisión Técnica de Movilidad, que sus
 
 II. La persona interesada en obtener una Concesión, deberá presentar su solicitud a través del formato establecido y expedido por la Secretaría conforme al artículo 359 de la presente ley;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2026)</small>
 
-III. Recibida la solicitud para obtener concesión de servicio público de transporte, la Secretaría la turnará para su dictamen a la Comisión Técnica de Movilidad; previa emisión del estudio de factibilidad, rentabilidad y viabilidad que emite la Dirección de Movilidad e Imagen Urbana de la Secretaría de Movilidad;
+III. Recibida la solicitud, la Secretaría ordenará a la Dirección de Movilidad e Imagen Urbana la elaboración del estudio de factibilidad, rentabilidad y viabilidad en el plazo que establezca el Reglamento. Concluido dicho estudio, la Secretaría remitirá el expediente completo incluyendo el estudio, a la Comisión Técnica de Movilidad para la emisión del dictamen correspondiente.
 
 IV. Una vez recibido por la Comisión Técnica de Movilidad, el expediente de referencia, está deberá pronunciarse mediante Dictamen en cuyos resolutivos determinó que la parte interesada agotó debidamente el procedimiento necesario y satisfizo los requisitos exigidos para tal efecto por la ley, sobre la factibilidad o no de conceder o renovar la Concesión solicitada;
 
-V. El Dictamen emitido por la Comisión Técnica de Movilidad, en caso de ser favorable deberá ser remitido al Titular del Poder Ejecutivo del Estado, a efecto de este último determine la procedencia o improcedencia de la Concesión solicitado, por medio de una resolución definitiva en caso afirmativo;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2026)</small>
+
+V. El Dictamen emitido por la Comisión Técnica de Movilidad, en caso de ser favorable deberá ser remitido a la persona Titular del Poder Ejecutivo del Estado, quien contará con un plazo de treinta días naturales para determinar mediante resolución fundada y motivada la procedencia o improcedencia de la concesión solicitada;
 
 VI. La información relativa a las concesiones otorgadas, se enviará al REPUMO.
 
@@ -4445,9 +4467,11 @@ II. El propio REPUMO, certificará si los solicitantes son o no titulares de con
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO DE CONCURSO O REGULARIZACIÓN PARA EL OTORGAMIENTO DE CONCESIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2026)</small>
+
 ###### Artículo 359.
 
-El interesado en obtener del Titular del Ejecutivo del Estado, concesión o cualquier permiso para prestar el servicio de transporte, deberá llenar el formato que para tal efecto expida la Secretaría y satisfacer los siguientes requisitos:
+Quien tenga interés en obtener de la persona Titular del Ejecutivo del Estado, concesión o permiso para prestar el servicio público de transporte, deberá llenar el formato que para tal efecto expida la Secretaría y satisfacer los siguientes requisitos:
 
 I. Tipo de servicio que se pretende prestar y características del vehículo;
 
@@ -4471,7 +4495,13 @@ X. Constancia de verificación del vehículo, y
 
 XI. Tratándose de personas morales, deberán tener su domicilio principal en el Estado y exhibir los estatutos respectivos ante la Secretaría, en los términos de la Ley.
 
-Para la procedencia del permiso o Concesión, el solicitante deberá comprobar la propiedad legal del vehículo con documentos originales e idóneos. No se permitirá que al amparo de permiso circulen vehículos de procedencia extranjera, cuya situación legal en el país sea irregular.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
+
+Para la procedencia del permiso o Concesión, el solicitante deberá comprobar la posesión o propiedad legal del vehículo con documentos originales e idóneos. No se permitirá que al amparo de permiso circulen vehículos de procedencia extranjera, cuya situación legal en el país sea irregular.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2026)</small>
+
+Para el cumplimiento de los requisitos previstos en el presente artículo se estará a lo dispuesto en el artículo 356 de esta Ley. Asimismo, la integración del expediente para la solicitud, dictaminación y, en su caso, otorgamiento de concesiones o permisos, se sujetará a lo que establezca el Reglamento de la presente Ley y demás disposiciones administrativas aplicables.
 
 ###### Artículo 360.
 
@@ -4521,11 +4551,11 @@ XIV. Designar libremente, en caso de ser persona física el concesionario, a qui
 
 ### CAPÍTULO III. DE LA VIGENCIA DE LAS CONCESIONES
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
 
 ###### Artículo 362.
 
-La duración ordinaria de las concesiones en el caso del servicio público de pasajeros en cualquiera de sus modalidades será por diez años, y podrá prorrogarse a petición de sus titulares por periodos de igual tiempo, siempre que aquéllos acrediten haber cumplido con las condiciones que para tal efecto se impongan, y previo pago de derechos que establezcan las leyes aplicables. Esto sin perjuicio del derecho de los titulares de las concesiones a concursar por la concesión para las rutas correspondientes, para cuando hayan concluido los períodos de prórroga respectivos.
+La duración ordinaria de las concesiones para el servicio público de transporte colectivo de pasajeros y taxi será de diez años, y podrá prorrogarse a petición de sus titulares por periodos de igual tiempo, siempre que acrediten haber cumplido con las condiciones que para tal efecto se impongan y previo pago de derechos conforme a las leyes aplicables. Para otras modalidades de servicio concesionado, la duración será la que determine el Reglamento atendiendo a las características operativas de cada modalidad, sin poder ser inferior a cinco ni superior a diez años.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2022)</small>
 
@@ -4895,9 +4925,19 @@ IV. Las demás que establezca la presente Ley y su Reglamento.
 
 En el caso previsto en la fracción II de este artículo, la Secretaría podrá declarar la suspensión de la autorización, concesión o permiso, o de ambos, a solicitud de la autoridad investigadora, hasta en tanto se deslindan las responsabilidades por la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2026)</small>
+
 ###### Artículo 400.
 
-La extinción de una autorización, concesión o permiso por cualquiera de las causas establecidas en éste u otros ordenamientos, será declarada administrativamente por la Secretaría, de acuerdo con el procedimiento establecido en el Reglamento.
+La extinción de una autorización o permiso, por cualquiera de las causas establecidas en este ordenamiento u otros aplicables, será declarada administrativamente por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2026)</small>
+
+Tratándose de concesiones de servicio público de transporte, la Comisión Técnica de Movilidad instruirá el procedimiento y emitirá el dictamen técnico correspondiente, mismo que remitirá a la persona titular del Poder Ejecutivo del Estado para que, en el ámbito de su competencia, emita la resolución de extinción.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2026)</small>
+
+En ambos supuestos se garantizará el derecho de audiencia y defensa de la persona titular afectada, conforme a lo establecido en el Reglamento y en la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
 ## TÍTULO DÉCIMO TERCERO. DE LOS SUJETOS RELACIONADOS CON EL TRANSPORTE PÚBLICO Y PRIVADO
 
@@ -5654,3 +5694,15 @@ P.O. 15 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSAS FRACCIONES DE LOS ARTÍCULOS 44, 184 Y 294 DE LA LEY DE MOVILIDAD DEL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE INCLUSIVO Y ARMONIZACIÓN NORMATIVA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 20 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE NAYARIT”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+Tercero.- Los asuntos y procedimientos que se encuentren en trámite ante la Secretaría de Movilidad o la Comisión Técnica de Movilidad al momento de la entrada en vigor del presente Decreto continuarán sustanciándose conforme a las disposiciones vigentes al inicio de cada trámite; sin embargo, en todo aquello que resulte aplicable, se estará a lo previsto en el presente Decreto cuando su aplicación resulte más favorable a la persona particular o al interés público.
+
+Cuarto.- El Ejecutivo del Estado deberá realizar las adecuaciones pertinentes al Reglamento de la Ley de Movilidad del Estado de Nayarit, dentro de los 120 días naturales, contados a partir de la entrada en vigor del presente Decreto.
