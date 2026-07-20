@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2026-06-10"
+last_updated: "2026-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2026.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE JUNIO DE 2026.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -2425,11 +2423,11 @@ En todo caso de robo, la autoridad jurisdiccional competente podrá suspender al
 
 ### CAPÍTULO II. ABIGEATO
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
 
 ###### Artículo 196.
 
-Comete del (sic) delito de abigeato el que se apodere, sin derecho y sin consentimiento de quien legalmente pueda disponer de ellos e independientemente del lugar en que se encuentren, de uno o más semovientes de cualquier especie ganadera, formen o no hato, o de una o más colonias de abejas en un apiario.
+Comete del (sic) delito de abigeato el que se apodere, sin derecho y sin consentimiento de quien legalmente pueda disponer de ellos e independientemente del lugar en que se encuentren, de uno o más semovientes de cualquier especie ganadera, formen o no hato, o de una o más colonias de abejas en un apiario o meliponario.
 
 Para los efectos de este capítulo:
 
@@ -2437,17 +2435,23 @@ a) Se considerará semoviente a toda especie bovina, caballar, asnal, mular, ovi
 
 b) Una colonia de abejas es un conjunto de abejas que interactúan intercambiando alimentos y otras sustancias necesarias para su vida y llevando a cabo diferentes actividades.
 
-c) Serán considerados instrumentos del delito de abigeato las cabalgaduras o vehículos y objetos que sirvan para su comisión y el transporte de animales o sus productos.
+c) Se considerará meliponario a la instalación, estructura o espacio destinado a la cría, manejo y producción de abejas pertenecientes a la especie Meliponini, incluyendo los jobones, recipientes o colmenas rústicas o tecnificadas para tal fin.
 
-d) Este delito se sancionará de la forma siguiente:
+d) Serán considerados instrumentos del delito de abigeato las cabalgaduras o vehículos y objetos que sirvan para su comisión y el transporte de animales o sus productos.
 
-I.- Con prisión de tres a cinco años y multa de trescientas a cuatrocientas unidades de medida y actualización diarias vigentes cuando se cometa en una cabeza de ganado o una colonia de abejas.
+e) Este delito se sancionará de la forma siguiente:
 
-II.- Con prisión de cinco a ocho años y multa de cuatrocientas a quinientas unidades de medida y actualización diarias vigentes cuando se cometa en hasta tres cabezas de ganado o el mismo número de colonias de abejas.
+I. Con prisión de tres a cinco años y multa de trescientas a cuatrocientas unidades de medida y actualización diarias vigentes cuando se cometa en una cabeza de ganado o una colonia de abejas.
 
-III.- Con prisión de ocho a once años y multa de quinientas a mil unidades de medida y actualización diarias vigentes cuando se cometa en más de tres cabezas de ganado o el mismo número de colonias de abejas.
+II. Con prisión de cinco a ocho años y multa de cuatrocientas a quinientas unidades de medida y actualización diarias vigentes cuando se cometa en hasta tres cabezas de ganado o el mismo número de colonias de abejas.
+
+III. Con prisión de ocho a once años y multa de quinientas a mil unidades de medida y actualización diarias vigentes cuando se cometa en más de tres cabezas de ganado o el mismo número de colonias de abejas.
 
 En el supuesto de la fracción I el delito será perseguido por querella de parte.
+
+Las mismas penas se aplicarán a quien destruya colonias o colmenas de abejas, panales, abejas, miel y productos apícolas.
+
+Cuando la destrucción de colonias o colmenas de abejas, panales, abejas, miel y productos apícolas se deriven del uso y aplicación de plaguicidas y herbicidas, el cual genere perjuicio al patrimonio del productor y que éste sea superior a quinientas unidades de medida y actualización, se aumentará hasta en una mitad la pena que corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2025)</small>
 
@@ -2547,35 +2551,35 @@ m) Cuando sea cometido por quien tenga una relación laboral o, la persona o per
 
 n) Sea perpetrado por persona o personas que estén formalmente registradas como ganaderos en cualquier institución, unión, asociación o agrupación relacionada con la ganadería.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
 
 ###### Artículo 197.
 
-Se impondrán las mismas sanciones que se señalan en el artículo anterior a los que para sí o para otros adquieran semovientes, colonias o colmenas de abejas o aves, conejos o peces robados, a sabiendas de su procedencia u origen ilícitos y a quienes no acrediten su legítima posesión o propiedad ante las autoridades competentes.
+Se impondrán las mismas sanciones que se señalan en el artículo anterior al que para sí o para otros adquiera semovientes, colonias o colmenas de abejas, panales, miel, productos apícolas, aves, conejos o peces robados, a sabiendas de su procedencia u origen ilícitos y a quienes no acrediten su legítima posesión o propiedad ante las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
 
 ###### Artículo 198.
 
-Al servidor público que intervenga en la legalización de los documentos que acrediten la propiedad del semoviente o colonia de abejas, o al encargado del rastro o lugar destinado a este fin, si no toma las medidas indispensables para cerciorarse de la procedencia legítima del mismo, se le impondrán de veinticuatro a setenta y ocho jornadas de trabajo a favor de la comunidad y multa de cincuenta a ciento cincuenta Unidades Diarias de Medida y Actualización y destitución del empleo, cargo o comisión.
+Al servidor público que intervenga en la legalización de los documentos que acrediten la propiedad del semoviente, colonias o colmenas de abejas, panales, miel o productos apícolas, o al encargado del rastro o lugar destinado a este fin, si no toma las medidas indispensables para cerciorarse de la procedencia legítima del mismo, se le impondrán de uno a tres años de prisión y multa de cien a trescientas unidades diarias de medida y actualización y destitución del empleo, cargo o comisión.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
 
 ###### Artículo 199.
 
-Al que, con o sin documentos, ampare animales en pie o sacrificados a sabiendas de su origen ilícito, se le impondrán de uno a tres años de prisión y multa de cincuenta a doscientas Unidades de Medida y Actualización. Igual sanción se aplicará al que comercie, posea, suministre y transporte productos o derivados robados de origen animal.
+Al que, con o sin documentos, ampare animales en pie o sacrificados, colonias o colmenas de abejas a sabiendas de su origen ilícito, se le impondrán de uno a tres años de prisión y multa de cincuenta a doscientas unidades diarias de medida y actualización. Igual sanción se aplicará al que comercie, posea, suministre y transporte productos o derivados robados de origen animal, miel o productos apícolas.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
 
 ###### Artículo 200.
 
-Al que lucre, comercie, posea, transporte o suministre productos como pieles, carnes u otros derivados obtenidos del abigeato sin haber tomado las medidas necesarias para cerciorarse de su legal procedencia, se le impondrán las sanciones previstas en la fracción I del inciso d) del artículo 196.
+Al que lucre, comercie, posea, transporte o suministre productos como pieles, carnes, colonias o colmenas de abejas, panales u otros derivados obtenidos del abigeato sin haber tomado las medidas necesarias para cerciorarse de su legal procedencia, se le impondrán las sanciones previstas en la fracción I del inciso e) del artículo 196.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
 
 ###### Artículo 201.
 
-Al que altere, modifique o elimine, fierros, marcas o señales, marque, señale, contramarque o contraseñale semovientes o colonias o colmenas de abejas, subproductos o derivados de origen animal o productos o subproductos de origen apícola, sin el consentimiento de quien legalmente pueda otorgarlo, con o sin ánimo de apropiación, se le impondrán de dos a cuatro años de prisión y multa de cien a trescientas Unidades de Medida y Actualización.
+Al que altere, modifique o elimine, fierros, marcas o señales, marque, señale, contramarque o contraseñale semovientes o colonias o colmenas de abejas, subproductos o derivados de origen animal o productos o subproductos de origen apícola, en terreno propio o ajeno, sin el consentimiento de quien legalmente pueda otorgarlo, con o sin ánimo de apropiación, se le impondrán de dos a cuatro años de prisión y multa de cien a trescientas unidades de medida y actualización.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
 
@@ -5770,3 +5774,13 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 20 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 258 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 196, 197, 198, 199, 200 Y 201 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
