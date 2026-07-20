@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2026-07-06"
+last_updated: "2026-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2026.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -747,19 +747,19 @@ El salario es la retribución que debe pagarse al trabajador a cambio de los ser
 
 El salario será igual para cada una de las categorías de trabajadores señaladas en los presupuestos de egresos respectivos.
 
-> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
 
-A trabajo igual, desempeñado en puesto, jornada y condiciones de eficiencia también iguales, debe corresponder salario igual entre trabajadoras y trabajadores, sin excepción alguna.
+A trabajo igual, desempeñado en las mismas condiciones y jornada, deberá corresponder salario igual, sin tener en cuenta el sexo ni el género.
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
 
-En cumplimiento de las obligaciones del Estado de reducir la brecha salarial de género, se promoverán acciones para erradicar las prácticas retributivas desiguales de conformidad con lo dispuesto en la Ley General para la Igualdad entre Mujeres y Hombres y la Ley para la Igualdad entre Mujeres y Hombres del Estado de Aguascalientes.
+En cumplimiento de las obligaciones del Estado de eliminar la brecha salarial de género, se promoverán acciones para erradicar las prácticas retributivas desiguales y garantizar la igualdad sustantiva, de conformidad con lo dispuesto en la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres y la ley local en la materia.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 49.
 
-El salario fijado en los términos del artículo anterior, no podrá modificarse por condiciones de edad, sexo, género o nacionalidad.
+El salario fijado en los términos del artículo anterior, no será sujeto de modificación alguna.
 
 ###### ARTICULO 50.
 
@@ -2492,3 +2492,11 @@ P.O. 6 DE JULIO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 – El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 560.- SE REFORMA EL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+– El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
