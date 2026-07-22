@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2025-12-24"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -299,11 +299,17 @@ XII. Crear, cuando así lo juzguen conveniente, una comisión de límites;
 
 XIII. Fijar, modificar o sustituir los nombres de los centros poblados del Municipio;
 
-XIV. Resolver en revisión, los actos y acuerdos del Presidente Municipal que sean recurribles; y
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2015)</small>
+XIV. Resolver en revisión, los actos y acuerdos del Presidente Municipal que sean recurribles;
 
-XV. Establecer en su reglamentación interna medidas tendentes a desincentivar la exhibición, comercialización o difusión en lugares públicos de material pornográfico y/o violento.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2026)</small>
+
+XV. Establecer en su reglamentación interna medidas tendentes a desincentivar la exhibición, comercialización o difusión en lugares públicos de material pornográfico y/o violento; y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2026)</small>
+
+XVI. Establecer en la reglamentación interna medidas tendentes a erradicar en la presentación de espectáculos públicos, artísticos o similares, la interpretación y/o reproducción de contenidos musicales, videos, imágenes o cualquier otro similar que promuevan la cultura de la violencia o hagan apología del delito o de autores de hechos ilícitos.
 
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2015)</small>
 
@@ -2196,3 +2202,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Para el debido cumplimiento del presente Decreto, los Ayuntamientos en un plazo de noventa días naturales posteriores a su publicación, deberán integrar las Comisiones Permanentes y realizar las adecuaciones normativas correspondientes.
+
+P.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 466 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN, LEY DE GOBIERNO MUNICIPAL, LEY DE MOVILIDAD SUSTENTABLE Y SEGURIDAD VIAL, Y LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico" Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá realizar las adecuaciones pertinentes a las disposiciones reglamentarias correspondientes, en un plazo que no exceda de los 90 días naturales posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
