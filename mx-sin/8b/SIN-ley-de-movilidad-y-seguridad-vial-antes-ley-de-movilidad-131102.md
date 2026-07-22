@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-movilidad-y-seguridad-vial-antes-ley-de-movilidad-131102
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-10"
-last_updated: "2026-02-18"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE MOVILIDAD SUSTENTABLE Y SEGURIDAD VIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2026.
 
 Ley publicada en la Segunda Sección del No. 125 del Periódico Oficial del Estado de Sinaloa, el miércoles 10 de octubre de 2018.
 
@@ -2033,6 +2033,10 @@ VII. Contar con los documentos establecidos en la presente Ley, tales como la li
 
 En este caso, se les extenderá un certificado de aptitud, previo curso de capacitación a que deberán someterse, en los términos que se indiquen en el Reglamento de esta Ley.
 
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2026)</small>
+
+Queda prohibido a los conductores, durante la prestación del servicio, reproducir música o contenidos audiovisuales que promuevan la cultura de la violencia, hagan apología del delito o enaltezcan a personas vinculadas con actividades ilícitas.
+
 B) De Vehículos Particulares.
 
 I. No tirar o arrojar basura u objetos desde el interior del vehículo hacia el exterior, y vigilar que los pasajeros cumplan con dicha disposición;
@@ -2285,15 +2289,19 @@ LIII. Verificar que sus conductores se presenten a laborar con el uniforme corre
 
 LIV. No permitir que sus conductores presten el servicio bajo el efecto del consumo de alcohol, drogas, enervantes o psicotrópicos de cualquier tipo, siendo solidariamente responsable en caso de incumplimiento de esta disposición;
 
-LV. Cumplir con las estipulaciones que para la prestación de los servicios le fije la concesión o permiso respectivo, de acuerdo con esta Ley y disposiciones que por causa de interés social dicte el Ejecutivo del Estado;
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2026)</small>
 
-LVI. Cobrar por el transporte de personas el precio establecido en las tarifas aprobadas previamente por el Ejecutivo del Estado, o en su caso, la contraprestación acordada con el usuario. En el caso del servicio público de transporte de carga, cobrar la contraprestación establecida en el contrato celebrado por escrito con el usuario;
+LV. No permitir a los conductores, durante la prestación del servicio la reproducción de música o contenidos audiovisuales que promuevan la cultura de la violencia, hagan apología del delito o enaltezcan a personas vinculadas con actividades ilícitas;
 
-LVII. Vigilar que los conductores de los vehículos obtengan la licencia y certificado de aptitud respectivos y cumplan con las disposiciones legales de la materia;
+LVI. Cumplir con las estipulaciones que para la prestación de los servicios le fije la concesión o permiso respectivo, de acuerdo con esta Ley y disposiciones que por causa de interés social dicte el Ejecutivo del Estado;
 
-LVIII. Instalar botones de pánico en las unidades de transporte público; y
+LVII. Cobrar por el transporte de personas el precio establecido en las tarifas aprobadas previamente por el Ejecutivo del Estado, o en su caso, la contraprestación acordada con el usuario. En el caso del servicio público de transporte de carga, cobrar la contraprestación establecida en el contrato celebrado por escrito con el usuario;
 
-LIX. Las demás que señalen esta Ley y otras disposiciones legales, reglamentarias y administrativas.
+LVIII. Vigilar que los conductores de los vehículos obtengan la licencia y certificado de aptitud respectivos y cumplan con las disposiciones legales de la materia;
+
+LIX. Instalar botones de pánico en las unidades de transporte público; y
+
+LX. Las demás que señalen esta Ley y otras disposiciones legales, reglamentarias y administrativas.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2024)</small>
 
@@ -5392,3 +5400,19 @@ P.O. 18 DE FEBRERO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Previo a la emisión de los programas especiales a que se refiere el presente Decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones administrativas correspondientes.
+
+P.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 466 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN, LEY DE GOBIERNO MUNICIPAL, LEY DE MOVILIDAD SUSTENTABLE Y SEGURIDAD VIAL, Y LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico" Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá realizar las adecuaciones pertinentes a las disposiciones reglamentarias correspondientes, en un plazo que no exceda de los 90 días naturales posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
