@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2026-05-13"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -634,6 +634,10 @@ Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2019)</small>
 
 Artículo 41 bis. La edad mínima para contraer matrimonio será los 18 años, de acuerdo a la legislación civil correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2026)</small>
+
+Queda estrictamente prohibido el matrimonio entre personas menores a los 18 años, mismo que en caso de llevarse a cabo con persona mayor de edad, se sancionara a los responsables conforme a la legislación penal aplicable.
 
 ### Capítulo Octavo. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
@@ -2342,3 +2346,13 @@ PRIMERA. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan las disposiciones de igual o menor jerarquía que se contrapongan al presente Decreto.
+
+P.O. 22 DE JULIO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO SEISCIENTOS VEINTISIETE.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, Y DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente Decreto a la Gobernadora Constitucional del Estado para los efectos previstos en el artículo 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano oficial de difusión del Gobierno del Estado.
+
+TERCERA. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
