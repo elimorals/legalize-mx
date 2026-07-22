@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-gestion-integral-de-riesgos-y-proteccion-civil-de-la-136
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-05"
-last_updated: "2023-04-28"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136559&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-06-05"
 
 LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE JULIO DE 2026.
 
 Ley publicada en Número 106 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 5 de junio de 2019.
 
@@ -161,6 +161,10 @@ XXX) Grupos Voluntarios: Son aquellas personas físicas o morales acreditadas an
 XXXI) Identificación de Riesgos: Es el reconocimiento y valoración de los daños y pérdidas probables y su distribución geográfica, a través del análisis de los peligros, las condiciones de Vulnerabilidad y los Sistemas Expuestos; incluye el análisis de las causas y factores que han contribuido a la generación de Riesgos, así como escenarios probables;
 
 XXXII) Instrumentos de la Gestión Integral de Riesgos y Protección Civil: Herramientas e información utilizadas en la prevención, diagnóstico y atención de emergencias o desastres, empleadas por el Sistema;
+
+> <small>(ADICIONADA, G.O. 22 DE JULIO DE 2026)</small>
+
+XXXII BIS) Infraestructura pasiva en desuso: Estructuras, soportes, ductos, cables u otros componentes físicos que, habiendo sido destinados a la prestación de servicios o redes, han dejado de ser utilizados y no cumplen función activa alguna.
 
 XXXIII) Jefatura de Gobierno: A la persona titular de la Jefatura de Gobierno;
 
@@ -524,7 +528,11 @@ I (SIC). CAPÍTULO IV
 
 II (SIC). DE LAS ALCALDÍAS
 
-III (SIC). Artículo 15. Corresponde a las Alcaldías:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JULIO DE 2026)</small>
+
+###### Artículo 15.
+
+Corresponde a las alcaldías:
 
 I) Representar, a través de su titular, las acciones del Sistema en su Alcaldía;
 
@@ -568,7 +576,9 @@ XI TER) Registrar los Programas Especiales de su competencia a través de la Pla
 
 XI QUATER) Para los Centros Educativos establecidos en su demarcación deberán vigilar que el Programa Interno de Protección Civil se encuentre vigente. De no ser así, deberá procederse de acuerdo a la Ley de Procedimiento Administrativo de la Ciudad de México.
 
-XII) Identificar y elaborar las opiniones y/o dictámenes técnicos respecto a las condiciones de Riesgo de sitios, inmuebles o actividades, en los términos de esta Ley y el Reglamento;
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
+
+XII) Identificar y elaborar las opiniones y/o dictámenes técnicos respecto a las condiciones de Riesgo de sitios, inmuebles, puntos que alojen infraestructura pasiva en desuso o actividades, en los términos de esta Ley y el Reglamento;
 
 XIII) Enviar a la Secretaría, para su certificación, los dictámenes técnicos de las zonas de alto riesgo;
 
@@ -1642,11 +1652,11 @@ La Secretaría o las Alcaldías, a más tardar dentro de los diez días hábiles
 
 ### CAPÍTULO III. DE LAS OPINIONES Y DICTÁMENES TÉCNICOS Y ESTUDIOS DE RIESGO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JULIO DE 2026)</small>
 
 ###### Artículo 96.
 
-Previo a la solicitud de registro de manifestaciones de construcción tipo B y C, así como las licencias de construcción especiales previstas en el Reglamento de Construcciones del Distrito Federal, se deberá elaborar un Estudio de Riesgos de Obra, cuyas características se definirán en el Reglamento.
+Previo a la solicitud de registro de manifestaciones de construcción tipo B y C, así como las licencias de construcción especiales previstas en el reglamento de construcciones vigente y aplicable en la Ciudad de México, se deberá elaborar un Estudio de Riesgos de Obra, cuyas características se definirán en el Reglamento.
 
 > <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
 
@@ -1684,9 +1694,9 @@ I. Carta de responsabilidad del propietario o poseedor, empresa constructora o d
 
 II. Carta de corresponsabilidad expedida por el Responsable Oficial de Protección Civil;
 
-> <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
 
-III. Póliza de Seguro de responsabilidad civil por daños a terceros vigente, la cual será la misma que exige el Reglamento de Construcciones para el Distrito Federal.
+III. Póliza de Seguro de responsabilidad civil por daños a terceros vigente, la cual será la misma que exige el reglamento de construcciones vigente y aplicable en la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 28 DE ABRIL DE 2023)</small>
 
@@ -1842,7 +1852,9 @@ Las acciones de identificación de Riesgos consisten, entre otras, en:
 
 I. Monitorear el crecimiento urbano;
 
-II. Identificar instalaciones de servicios irregulares;
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
+
+II. Identificar instalaciones de servicios irregulares; así como infraestructura pasiva en desuso;
 
 III. Identificar zonas de marginación social;
 
@@ -2814,9 +2826,9 @@ Corresponde al Gobierno de la Ciudad de México impulsar en sus procesos de plan
 
 Las Alcaldías y la Secretaría, ambas en el ámbito de sus atribuciones, ordenarán las visitas de verificación administrativa a efecto de vigilar el cumplimiento de esta Ley, su Reglamento y demás disposiciones en la materia.
 
-> <small>(ADICIONADO, G.O. 2 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, G.O. 22 DE JULIO DE 2026)</small>
 
-El procedimiento de verificación administrativa se llevará a cabo conforme a lo establecido en la Ley de Procedimiento Administrativo de la Ciudad de México, la Ley del Instituto de Verificación Administrativa de la Ciudad de México, el Reglamento de Verificación Administrativa del Distrito Federal y demás disposiciones jurídicas y administrativas que resulten aplicables.
+El procedimiento de verificación administrativa se llevará a cabo conforme a lo establecido en la Ley de Procedimiento Administrativo de la Ciudad de México, la Ley del Instituto de Verificación Administrativa de la Ciudad de México, el reglamento de verificación administrativa vigente y aplicable en la Ciudad de México y demás disposiciones jurídicas y administrativas que resulten aplicables.
 
 > <small>(REFORMADO, G.O. 28 DE ABRIL DE 2023)</small>
 
@@ -2828,11 +2840,11 @@ La Secretaría capacitará al Personal de Verificación en materia de protecció
 
 (DEROGADO, G.O. 2 DE MARZO DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JULIO DE 2026)</small>
 
 ###### Artículo 213.
 
-Con motivo de la visita de verificación y para proteger la salud, la seguridad pública, la integridad de las personas y sus bienes, así como para evitar el incumplimiento de la normatividad referente a las actividades reguladas, la Secretaría y las Alcaldías, en el ámbito de sus respectivas competencias, además de las establecidas en la Ley de Procedimiento Administrativo de la Ciudad de México y en el Reglamento de Verificación Administrativa del Distrito Federal, podrán imponer una o más de las siguientes medidas cautelares y de seguridad:
+Con motivo de la visita de verificación y para proteger la salud, la seguridad pública, la integridad de las personas y sus bienes, así como para evitar el incumplimiento de la normatividad referente a las actividades reguladas, la Secretaría y las Alcaldías, en el ámbito de sus respectivas competencias, además de las establecidas en la Ley de Procedimiento Administrativo de la Ciudad de México y en el reglamento de verificación administrativa vigente y aplicable en la Ciudad de México, podrán imponer una o más de las siguientes medidas cautelares y de seguridad:
 
 > <small>(ADICIONADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -3215,3 +3227,23 @@ CUARTO. La Agencia Digital de Innovación Pública de la Ciudad de México, cont
 QUINTO. Los Programas Internos de Protección Civil que a la entrada en vigor del presente Decreto no hayan sido registrados por las Alcaldías, deberán ser capturados nuevamente en la Plataforma Digital.
 
 SEXTO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+G.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 59 DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL Y SE REFORMAN LOS ARTÍCULOS 15, FRACCIÓN XII, Y 113, FRACCIÓN II, Y SE ADICIONA UNA FRACCIÓN XXXII BIS, AL ARTÍCULO 2, DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+CUARTO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 96, PÁRRAFO PRIMERO; 98, FRACCIÓN III; 210, PÁRRAFO SEGUNDO Y 213 PÁRRAFO PRIMERO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
