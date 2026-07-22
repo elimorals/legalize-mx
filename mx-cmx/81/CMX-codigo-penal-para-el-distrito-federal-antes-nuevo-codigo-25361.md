@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2026-04-10"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2026.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -3597,6 +3597,12 @@ d) Licencia de construcción especial para demolición;
 e) Permisos para la ejecución de obras; o
 
 f) Cualquier otro relacionado con la zonificación, el uso del suelo, construcción y demolición, independientemente de su denominación; Que le permita edificarlo en la forma en que se describa o prometa en el contrato.
+
+> <small>(ADICIONADO, G.O. 22 DE JULIO DE 2026)</small>
+
+ARTÍCULO 231 BIS. A quien, mediante engaño digital consistente en la creación o uso de mensajes, páginas electrónicas, dominios, aplicaciones o cualquier otra interfaz tecnológica que simule ser legítima, induzca a una persona a revelar, capturar o proporcionar datos personales, financieros o de autenticación, con la finalidad de obtener un beneficio indebido para sí o para un tercero o para causar un perjuicio, se le impondrán de tres a seis años de prisión y de doscientas a seiscientas unidades de medida y actualización de multa.
+
+Las penas previstas en este artículo se incrementarán hasta en una mitad cuando la víctima sea persona con discapacidad o persona mayor, o cuando, para su comisión, afecte a persona menor de edad.
 
 > <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2004)</small>
 
@@ -7377,3 +7383,13 @@ G.O. 10 DE ABRIL DE 2026.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 231 BIS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. - Se derogan todas las disposiciones que contravengan el presente Decreto.
