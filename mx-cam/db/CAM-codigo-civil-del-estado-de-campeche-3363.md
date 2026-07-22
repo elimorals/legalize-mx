@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2026-07-17"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2026.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE JULIO DE 2026 NO APLICA AL ARTICULADO DEL DECRETO 260 PUBLICADO EN EL P.O. DE 22 DE JULIO DE 2026.]</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -2279,11 +2281,11 @@ Los hermanos y demás parientes colaterales a que se refiere el artículo anteri
 
 En la adopción se aplicará lo dispuesto por los artículos 320, 320 Bis, 321, 322 y 324 de este Código.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2026)</small>
 
 ###### Art. 324.
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad. Respecto a los menores, los alimentos comprenden, además, los gastos necesarios para la educación básica del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales. En cuanto a los adultos mayores, además de incluir todos los gastos necesarios para su atención geriátrica, se procurará que los alimentos se les proporcionen integrándolos a la familia.
+Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en caso de enfermedad. Respecto a las niñas, niños y adolescentes los alimentos comprenden, además, atención médica y psicológica preventiva integrada a la salud, los gastos necesarios para la educación básica -inicial, preescolar, primaria y secundaria- y media superior del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales. En cuanto a los adultos mayores, además de incluir todos los gastos necesarios para su atención geriátrica, se procurará que los alimentos se les proporcionen integrándolos a la familia.
 
 ###### Art. 325.
 
@@ -16742,3 +16744,11 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Los trámites y procedimientos que se encuentren en curso de adopción simple, plena e internacional de la jurisdicción del Estado de Campeche, serán considerados trámites de adopción, en términos de lo previsto en este decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 260 POR EL QUE “SE REFORMA EL ARTÍCULO 324 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
