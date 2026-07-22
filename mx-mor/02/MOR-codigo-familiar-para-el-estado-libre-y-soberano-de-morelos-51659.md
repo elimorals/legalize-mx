@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2026-05-27"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -3879,6 +3879,10 @@ Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denuncia
 
 SANCIÓN AL OFICIAL DEL REGISTRO CIVIL QUE AUTORICE UN MATRIMONIO CONOCIENDO LA EXISTENCIA DE IMPEDIMENTO. El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que existe impedimento legal, o de que éste se ha denunciado, será sancionado como lo disponga el Código Penal.
 
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2026)</small>
+
+Queda estrictamente prohibida la autorización de matrimonio entre personas menores a los 18 años.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 461.
@@ -7424,3 +7428,13 @@ P.O. 27 DE MAYO DE 2026.
 PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+P.O. 22 DE JULIO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO SEISCIENTOS VEINTISIETE POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, Y DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente Decreto a la Gobernadora Constitucional del Estado para los efectos previstos en el artículo 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano oficial de difusión del Gobierno del Estado.
+
+TERCERA. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
