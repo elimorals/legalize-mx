@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2025-02-24"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -349,6 +349,12 @@ La Secretaría y la Policía Estatal Preventiva tendrán las atribuciones y obli
 
 Asimismo, la Secretaría tendrá a su cargo la evaluación y supervisión de las medidas cautelares y de la suspensión condicional del proceso en los términos de la ley aplicable.
 
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2026)</small>
+
+###### Artículo 18 Bis.
+
+La Secretaría y los Municipios contarán dentro de la estructura de su Policía Estatal Preventiva, y de las Policías Preventivas Municipales, con una Unidad de Género encargada de la atención de violencia familiar y de género con perspectiva de derechos humanos, cuyo objetivo principal es garantizar la seguridad y el bienestar de las mujeres, así como promover la igualdad de género en el ámbito de la seguridad pública.
+
 ###### Artículo 19.
 
 La institución de procuración de justicia del Estado, integrada por el ministerio público, los peritos, las policías y demás auxiliares, tendrán las facultades y obligaciones que a su cargo establecen esta Ley, la Ley Orgánica del Ministerio Público del Estado y demás ordenamientos legales que la rigen.
@@ -575,9 +581,19 @@ X. Someterse a exámenes para comprobar la ausencia de alcoholismo y el no uso d
 
 XI. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
 
-XII. Cumplir con los deberes establecidos en esta Ley, y demás disposiciones que deriven de la misma; y,
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2026)</small>
 
-XIII. Los demás que establezcan otras disposiciones legales aplicables.
+XII. Cumplir con los deberes establecidos en esta Ley, y demás disposiciones que deriven de la misma;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2026)</small>
+
+XIII. No ser declarado persona deudora alimentaria morosa, salvo que exhiba la documentación con la que acredite judicialmente el cumplimiento de la totalidad de las obligaciones en mora;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2026)</small>
+
+XIV. No haber sido condenado por sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexual, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y
+
+XV. Los demás que establezcan otras disposiciones legales aplicables.
 
 De Permanencia:
 
@@ -3137,6 +3153,10 @@ La Secretaría tramitará los ascensos del personal de la Policía Preventiva Es
 
 El ascenso o la promoción al grado inmediato superior, sólo se considerará dentro de la misma especialidad o servicio, excepto en los casos en los que no haya interesados para cubrir la vacante. Únicamente se concederá el ascenso cuando haya plaza disponible. Los beneficios provenientes de un ascenso sólo pueden ser renunciados por aquellos a quienes corresponda el derecho de ascender. La renuncia al ascenso no implica la pérdida del empleo, cargo o comisión que desempeñe.
 
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2026)</small>
+
+Además, en todos los procesos de ascenso o promoción al grado inmediato superior deberán observar el principio de paridad de género. Las vacantes disponibles serán distribuidas de manera igualitaria entre mujeres y hombres, priorizando el acceso equitativo a oportunidades de desarrollo profesional en la organización jerárquica.
+
 ###### Artículo 202.
 
 Por ningún motivo se concederán ascensos a los individuos que se encuentren:
@@ -4220,3 +4240,31 @@ P.O. 24 DE FEBRERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEGUNDO. Los Ayuntamientos dentro de los días naturales siguientes al inicio de vigencia del presente Decreto, deberán realizar las modificaciones correspondientes a su regulación interna.
+
+P.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. Transitorios DEL "DECRETO NÚMERO: 433 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado y los Ayuntamientos de los Municipios contarán con un plazo máximo de 120 días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones correspondientes en los Reglamentos y ordenamientos de sus respectivas competencias, a efecto de dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Seguridad Pública del Estado de Sinaloa, contará con un plazo máximo de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto para crear la Unidad de Género.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Seguridad Pública del Estado de Sinaloa, dentro del plazo que no deberá exceder de 120 días naturales, a partir de la creación de la Unidad de Género, deberá realizar las adecuaciones correspondientes a su Reglamento Interior para establecer las atribuciones de dicha Unidad.
+
+###### ARTÍCULO QUINTO.
+
+Los Ayuntamientos de los Municipios, contará con un plazo máximo de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto para crear las Unidades de Género, correspondientes.
+
+###### ARTÍCULO SEXTO.
+
+Los Ayuntamientos de los Municipios, dentro del plazo que no deberá exceder de 120 días naturales, a partir de la creación de la Unidad de Género, deberán realizar las adecuaciones correspondientes a su regulación interna para establecer las atribuciones de dicha Unidad.
