@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-vivienda-para-la-ciudad-de-mexico-120451"
 country: "mx"
 rank: "ley"
 publication_date: "2017-03-23"
-last_updated: "2025-10-27"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120451&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-02-28"
 
 LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 23 de marzo de 2017.
 
@@ -118,11 +118,15 @@ XVIII. Garantizar el acceso a vivienda adecuada a poblaciones vulnerables como p
 
 Son de aplicación supletoria a lo no previsto en este ordenamiento, los siguientes:
 
-I. Ley Ambiental y de Protección a la Tierra del Distrito Federal;
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
+
+I. Ley Ambiental de la Ciudad de México;
 
 II. Ley de Desarrollo Urbano del Distrito Federal;
 
-III. Ley Federal de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
+
+III. Ley General de Responsabilidades Administrativas.
 
 IV. Ley de Procedimiento Administrativo del Distrito Federal;
 
@@ -220,7 +224,9 @@ XXVIII. ORGANIZACIONES SOCIALES DE VIVIENDA: Son aquellas agrupaciones de person
 
 XXIX. ÓRGANO LEGISLATIVO: El órgano de Gobierno encargado de la función legislativa;
 
-XXX. ÓRGANOS POLÍTICOS ADMINISTRATIVOS: Las Demarcaciones Políticas, Alcaldías o Demarcaciones Territoriales del Distrito Federal;
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
+
+XXX. ÓRGANOS POLÍTICOS ADMINISTRATIVOS: Las Demarcaciones Políticas, Alcaldías o Demarcaciones Territoriales de la Ciudad de México;
 
 XXXI. POBLACIÓN CALLEJERA: Toda persona o grupos de personas con o sin relación entre sí, que subsisten en la calle o el espacio público, utilizando recursos propios y precarios para satisfacer sus necesidades elementales;
 
@@ -1010,9 +1016,11 @@ II. La participación ciudadana en el mejoramiento de las viviendas;
 
 III. Vivienda progresiva.
 
+> <small>(REFORMADO, G.O. 22 DE JULIO DE 2026)</small>
+
 ###### Artículo 67.
 
-La Secretaría de Finanzas analizará un programa anual de estímulos para que los propietarios de las viviendas que se encuentren declarados afectos al Patrimonio Arquitectónico Urbanístico del Distrito Federal, y requieran de acciones de mejoramiento, puedan realizar mejoras en su vivienda previo dictamen de las autoridades facultadas.
+La Secretaría de Administración y Finanzas de la Ciudad de México analizará un programa anual de estímulos para que los propietarios de las viviendas que se encuentren declarados afectos al Patrimonio Arquitectónico Urbanístico del Distrito Federal, y requieran de acciones de mejoramiento, puedan realizar mejoras en su vivienda previo dictamen de las autoridades facultadas.
 
 ## TÍTULO VI. DE LA PRODUCCIÓN SOCIAL DE VIVIENDA
 
@@ -1090,7 +1098,9 @@ El concepto de pago del crédito de vivienda otorgado por el Instituto no debe s
 
 Los beneficiarios de créditos otorgados por el Instituto deben cumplir los siguientes requisitos:
 
-a) Ser habitante del Distrito Federal;
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
+
+a) Ser habitante de la Ciudad de México;
 
 b) No ser propietario de otra vivienda;
 
@@ -1475,3 +1485,11 @@ G.O. 27 DE OCTUBRE DE 2025.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2 FRACCIÓN I; 5 FRACCIÓN XXX; 67 Y 78 INCISO A) DE LA LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.– Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.– El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
