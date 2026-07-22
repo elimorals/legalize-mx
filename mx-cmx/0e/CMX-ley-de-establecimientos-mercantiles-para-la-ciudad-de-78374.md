@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2025-12-24"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -544,9 +544,15 @@ d) Cuando por virtud de certificado de uso de suelo por derechos adquiridos no e
 
 e) Los establecimientos mercantiles a los que se refiere la fracción V del artículo 35 de la presente Ley.
 
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
 
-XV. No generar ruido al exterior que afecte el derecho de terceros. La omisión a esta fracción se atenderá conforme a la Ley de Cultura Cívica y la Ley Ambiental de Protección a la Tierra, ambas vigentes en la Ciudad de México.
+XV. No generar ruido al exterior que afecte el derecho de terceros. La omisión a esta fracción se atenderá conforme a la Ley de Cultura Cívica y la Ley Ambiental de Protección a la Tierra, ambas vigentes en la Ciudad de México; y
+
+> <small>(ADICIONADA, G.O. 22 DE JULIO DE 2026)</small>
+
+XVI. Los establecimientos mercantiles de bajo impacto enlistados en las fracciones V, VII y XI del artículo 35 de la presente Ley; así como aquellos establecimientos de bajo impacto y de impacto vecinal que estén obligados a contar con sanitarios, deberán contar con cambiadores de pañales para bebé en los sanitarios de hombres y mujeres indistintamente.
+
+Quedan exceptuados de esta obligación los establecimientos mercantiles de bajo impacto e impacto vecinal cuyo aforo sea menor a 100 personas o cuya superficie construida sea menor a 150 m², así como los giros mercantiles de masajes y gimnasios.
 
 Apartado B:
 
@@ -2397,3 +2403,13 @@ G.O. 24 DE DICIEMBRE DE 2025.
 PRIMERO. Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 10, APARTADO A, DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Los establecimientos mercantiles obligados conforme al presente Decreto deberán instalar cambiadores de bebés en los sanitarios para mujeres y hombres, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
