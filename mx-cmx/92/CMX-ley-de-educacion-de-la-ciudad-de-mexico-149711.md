@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-de-la-ciudad-de-mexico-149711"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2025-12-30"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149711&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-04"
 
 LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2026.
 
 Ley publicada en el No. 612 de la Gaceta Oficial de la Ciudad de México, el lunes 7 de junio de 2021.
 
@@ -216,9 +216,17 @@ XXVII. Auspiciar una educación que permita a la sociedad participar en la condu
 
 XXVIII. Enseñar los conceptos y principios básicos de la prevención y reducción del riesgo de desastres;
 
-XXIX. Impulsar una formación en ciencias de la computación, informática e Internet en todos los niveles, tipos y modalidades de estudio, incorporando asignaturas de tecnologías de la información y las comunicaciones, y
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
 
-XXX. Formar hábitos, habilidades y métodos para el aprendizaje autónomo y para la educación a lo largo de la vida.
+XXIX. Impulsar una formación en ciencias de la computación, informática e Internet en todos los niveles, tipos y modalidades de estudio, incorporando asignaturas de tecnologías de la información y las comunicaciones;
+
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
+
+XXX. Formar hábitos, habilidades y métodos para el aprendizaje autónomo y para la educación a lo largo de la vida; y
+
+> <small>(ADICIONADA, G.O. 22 DE JULIO DE 2026)</small>
+
+XXXI. Promover el aprendizaje digital fomentando el uso responsable y consciente de las tecnologías de la información.
 
 ###### Artículo 8.
 
@@ -273,6 +281,10 @@ XIII. Editar los libros de texto y producir materiales didácticos distintos a l
 XIV. Prestar servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar al Sistema Educativo de la entidad, a la innovación educativa y a la investigación científica, tecnológica y humanística, en concurrencia con la Federación;
 
 XV. Desarrollar innovaciones pedagógicas para la mejora continua de la educación;
+
+> <small>(ADICIONADO, G.O. 22 DE JULIO DE 2026)</small>
+
+La Secretaría podrá proponer a la Autoridad Educativa Federal estrategias para el desarrollo de capacidades que permitan el uso crítico e informado de las tecnologías de la información y dispositivos electrónicos a efecto de promover la formación de habilidades para analizar, evaluar y utilizar la información disponible en entornos digitales de manera responsable y reflexiva.
 
 XVI. Garantizar, en concurrencia con la Federación, el acceso de las personas mayores a la educación pública y a cualquier otra actividad que contribuya a potenciar sus capacidades, habilidades y conocimientos, así como su desarrollo intelectual, permitiéndoles conservar una actitud de aprendizaje constante y aprovechar toda oportunidad de educación y capacitación que tienda a su realización personal, facilitando los trámites administrativos y difundiendo la oferta educativa en general;
 
@@ -1867,3 +1879,13 @@ G.O. 30 DE DICIEMBRE DE 2025.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES XXIX Y XXX DEL ARTÍCULO 7; Y SE ADICIONAN LA FRACCIÓN XXXI DEL ARTÍCULO 7, UN SEGUNDO PÁRRAFO A LA FRACCIÓN XV DEL ARTÍCULO 9”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
