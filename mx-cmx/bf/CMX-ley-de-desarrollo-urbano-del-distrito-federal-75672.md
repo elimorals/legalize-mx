@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-urbano-del-distrito-federal-75672"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-15"
-last_updated: "2025-10-24"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75672&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-29"
 
 LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 15 de julio de 2010.
 
@@ -1474,9 +1474,11 @@ Los proyectos para la instalación, construcción o modificación de elementos d
 
 Las solicitudes de particulares interesados en esas materias, deberán sujetarse a los requisitos y procedimientos que establezca la reglamentación de esta Ley.
 
+> <small>(REFORMADO, G.O. 22 DE JULIO DE 2026)</small>
+
 ###### Artículo 59.
 
-Para la instalación y uso de la infraestructura, su mantenimiento o el retiro de ductos y conducción de toda clase de fluidos en el Distrito Federal, se requerirá autorización en los términos establecidos en el Reglamento y en los demás ordenamientos aplicables.
+Para la instalación y uso de la infraestructura, su mantenimiento o el retiro de cables en desuso, ductos y conducción de toda clase de fluidos en el Distrito Federal, se requerirá autorización en los términos establecidos en el Reglamento y en los demás ordenamientos aplicables.
 
 ###### Artículo 60.
 
@@ -2291,3 +2293,15 @@ G.O. 24 DE OCTUBRE DE 2025.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 59 DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL Y SE REFORMAN LOS ARTÍCULOS 15, FRACCIÓN XII, Y 113, FRACCIÓN II, Y SE ADICIONA UNA FRACCIÓN XXXII BIS, AL ARTÍCULO 2, DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. - Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. - Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+CUARTO. - Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
