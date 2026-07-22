@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2025-12-10"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -6829,7 +6829,9 @@ XVI. En el carril exclusivo del Corredor de Transporte Público;
 
 XVII. En accesos, salidas, áreas de circulación y zonas de ascenso y descenso de pasaje en las terminales de RUTA;
 
-XVIII. Sobre las banquetas, rampas, camellones, andadores, retornos, isletas u otras vías y espacio reservados a peatones y ciclistas, para ello es suficiente que cualquier parte del vehículo se encuentre sobre estos espacios; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2026)</small>
+
+XVIII. Sobre las banquetas, rampas, camellones, andadores, retornos, isletas u otras vías y espacio reservados a peatones, para ello es suficiente que cualquier parte del vehículo se encuentre sobre estos espacios.
 
 XIX. En la Vía Pública por más de treinta minutos para realizar trabajos de compostura de algún desperfecto o reparaciones motivadas por casos de emergencia o de fuerza mayor. Los talleres o particulares que se dedican a la reparación de automóviles, bajo ningún concepto podrán hacerlo en la Vía Pública.
 
@@ -37715,21 +37717,25 @@ a) Profesional;
 
 b) Estudiantil;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 2026)</small>
 
-XIV. Reconocimiento de "Visitante Distinguido";
+XIV. Premio Municipal en Gestión de Riesgos y Protección Civil;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE JULIO DE 2026)</small>
 
-XV. Reconocimiento de "Poblano Distinguido";
+XV. Reconocimiento de "Visitante Distinguido";
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE JULIO DE 2026)</small>
 
-XVI. Reconocimiento de "Copia de la Declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Mundial", y
+XVI. Reconocimiento de "Poblano Distinguido";
 
-(REUBICADA, P.O. 9 DE DICIEMBRE DE 2021)
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE JULIO DE 2026)</small>
 
-XVII. Reconocimiento "Juan de Palafox y Mendoza".
+XVII. Reconocimiento de "Copia de la Declaración de la UNESCO a la Ciudad de Puebla como Patrimonio Mundial”, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JULIO DE 2026)</small>
+
+XVIII. Reconocimiento "Juan de Palafox y Mendoza".
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -38714,6 +38720,54 @@ Artículo 2335 Vicies. La elección de los ganadores de cada categoría será ll
 Artículo 2335 Unvicies. El registro individual corresponde a profesionales o estudiantes que hicieron alguna publicación a título personal. Si el participante es registrado por un tercero, el postulante deberá poner el nombre del autor de dicha publicación, aunque los datos de contacto sean del solicitante.
 
 El registro en grupo, para cualquiera de las dos categorías, corresponde a equipos de trabajo, producciones, colectivos y todos aquellos que hayan colaborado en el mismo trabajo, debiendo designar una persona como representante.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2026)</small>
+
+DEL PREMIO MUNICIPAL DE GESTIÓN DE RIESGOS Y PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2026)</small>
+
+Artículo 2335 Duovicies.- El Premio Municipal en Gestión de Riesgos y Protección Civil, será entregado a la persona, personas o grupos que representen un ejemplo para comunidad por su esfuerzo en acciones o medidas de autoprotección y autopreparación para enfrentar fenómenos naturales o de origen humano que pongan a la población en situación de riesgo o peligro, así como cuando se signifiquen en su labor ejemplar en la ayuda a la población ante eventualidad de una emergencia mayor o desastre dentro del Municipio de Puebla.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2026)</small>
+
+Artículo 2335 Tervicies.- El Premio Municipal en Gestión de Riesgos y Protección Civil, consistirá en una presea diseñada especialmente para tal efecto y un diploma signado por las personas titulares de la Presidencia Municipal, Secretaría del Ayuntamiento y Regiduría de la Comisión de Protección Civil, que serán entregados en Acto Protocolario o en Sesión del Consejo Municipal de Gestión de Riesgos y Protección Civil del Honorable Ayuntamiento del Municipio de Puebla, por Acuerdo del Consejo de Premiación, preferentemente en el marco de la conmemoración del Día Nacional de la Protección Civil
+
+La convocatoria deberá ser emitida al menos un mes antes de la premiación o cuando el Consejo de Premiación lo determine.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2026)</small>
+
+Artículo 2335 Quatervicies.- El Consejo de Premiación del Premio Municipal en Gestión de Riesgos y Protección Civil, estará integrado por:
+
+I. Un Presidente o Presidenta, quien será la persona titular de Presidencia Municipal, con voz y voto; quien en caso de empate tendrá voto de calidad;
+
+II. La persona titular de la Secretaría del Ayuntamiento, quien fungirá como Secretario o Secretaria, con voz;
+
+III. Las personas integrantes de la Comisión Permanente de Protección Civil, con el carácter de vocales, teniendo voz y voto;
+
+IV. La persona titular de la Sindicatura Municipal, con el carácter de vocal, teniendo voz y voto, y
+
+V. Las personas titulares de las Direcciones de Gestión de Riesgos en Materia de Protección Civil, y de Protección Civil o sus homólogos, en su carácter de vocales y quienes tendrán voz y voto.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2026)</small>
+
+Artículo 2335 Quinvicies.- Las propuestas de la persona, personas o grupos a recibir dicho premio, serán hechas por el Consejo Municipal de Gestión de Riesgos y Protección Civil del Honorable Ayuntamiento del Municipio de Puebla, y remitidas al Consejo de Premiación para los efectos previstos en el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2026)</small>
+
+Artículo 2335 Sexvicies.- Las propuestas de la persona, personas o grupos a recibir el Premio Municipal en Gestión de Riesgos y Protección Civil, se efectuará bajo los siguientes términos:
+
+I. Solo se podrán registrar quienes cumplan con los requisitos establecidos en el presente Capítulo o los que para tal efecto establezca e (sic) Consejo de Premiación;
+
+II. La inscripción será dentro de la fecha y bajo los términos que señale la convocatoria correspondiente;
+
+III. Toda propuesta debe expresar las acciones, actividades, trayectoria y logros en materia de autoprotección y autopreparación para enfrentar fenómenos naturales o de origen humano que pongan a la población en situación de riesgo, o que signifiquen en su labor ejemplar ayuda a la población ante eventualidad de una emergencia mayor o desastre, y
+
+IV. Los demás requisitos que, a juicio del Consejo de Premiación, estime convenientes.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2026)</small>
+
+Artículo 2335 Septvicies.- Las disposiciones no previstas en el presente Capítulo, relacionadas con las propuestas, selección y premiación serán resueltas por el Consejo de Premiación con el apoyo del Consejo Municipal de Gestión de Riesgos y Protección Civil del Honorable Ayuntamiento del Municipio de Puebla.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -41618,3 +41672,17 @@ P.O. 10 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 20 DE NOVIEMBRE DE 2025, QUE APRUEBA EL DICTAMEN PRESENTADO POR LAS Y LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE INFRAESTRUCTURA, POR VIRTUD DEL CUAL SE REFORMA EL NUMERAL 28, “TABULADOR DE INFRACCIONES Y SANCIONES” DEL CAPÍTULO 10 “TRÁNSITO MUNICIPAL, MOVILIDAD Y SEGURIDAD VIAL” DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA A FIN DE MODIFICAR LA SANCIÓN POR TRANSITAR O INVADIR CICLOVÍA O CICLOCARRIL”.]
 
 UNICO. La presente reforma entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 23 DE MARZO DE 2026, QUE APRUEBA EL DICTAMEN PRESENTADO POR LAS Y LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE INFRAESTRUCTURA, MOVILIDAD Y SERVICIOS PÚBLICOS, POR EL QUE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 326 DEL CAPÍTULO 10 “TRÁNSITO MUNICIPAL, MOVILIDAD Y SEGURIDAD VIAL” DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+ÚNICO. La presente reforma entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 23 DE MARZO DE 2026, QUE APRUEBA EL DICTAMEN PRESENTADO POR LAS Y LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE PROTECCIÓN CIVIL, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CAPÍTULO 36 "DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA" DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. Las reformas y adiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
