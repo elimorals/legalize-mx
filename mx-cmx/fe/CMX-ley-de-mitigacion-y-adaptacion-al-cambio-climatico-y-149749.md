@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-mitigacion-y-adaptacion-al-cambio-climatico-y-149749"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-09"
-last_updated: "2025-12-24"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149749&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-07"
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2026.
 
 Ley publicada en el Número 614 de la Gaceta Oficial de la Ciudad de México, el miércoles 9 de junio de 2021.
 
@@ -94,11 +94,11 @@ XIV. Desarrollar políticas públicas locales para prevenir y mitigar los efecto
 
 En todo lo no previsto en la presente Ley, se aplicarán de manera supletoria la Ley General de Cambio Climático, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Tratados Internacionales en los que el Estado Mexicano sea parte, a falta de disposición expresa en ellas, se estará a lo dispuesto en otras leyes, reglamentos, normas y demás ordenamientos jurídicos relacionados al presente ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JULIO DE 2026)</small>
 
 ###### Artículo 4.
 
-Para efectos de esta Ley, se estará a las definiciones de los conceptos que contienen la Ley General de Cambio Climático, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Ambiental, así como de la Ley de Gestión Integral de Riesgos y Protección Civil, ambas vigentes en la Ciudad de México, además de las siguientes:
+Para efectos de esta Ley, se estará a las definiciones de los conceptos que contienen la Ley General de Cambio Climático, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Ambiental de Protección a la Tierra, así como de la Ley de Gestión Integral de Riesgos y Protección Civil, ambas vigentes en la Ciudad de México, además de las siguientes:
 
 I. Adaptación: medidas encaminadas a reducir la vulnerabilidad de los sistemas naturales y humanos ante los efectos reales o esperados del cambio climático;
 
@@ -178,37 +178,45 @@ XXVII. Ley: Ley de Mitigación y Adaptación al Cambio Climático y Desarrollo S
 
 XXVIII. Ley de Planeación: Ley del Sistema de Planeación del Desarrollo de la Ciudad de México;
 
-XXIX. Ley Ambiental: Ley Ambiental de Protección a la Tierra en el Distrito Federal;
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
+
+XXIX. Ley Ambiental: Ley Ambiental de la Ciudad de México;
 
 XXX. Ley General: Ley General de Cambio Climático;
 
 XXXI. Mercados de carbono: transacciones locales, nacionales o internacionales por la emisión y mitigación de gases de efecto invernadero en la atmósfera, de acuerdo con el precio de mercado de las toneladas equivalentes;
 
-XXXIV (SIC). Plan General: Plan General de Desarrollo de la Ciudad de México: Plan General (sic);
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
 
-XXXV. Política de la Ciudad de México en materia de cambio climático: conjunto de arreglos institucionales, instrumentos de política y políticas públicas que contribuyen a la mitigación de emisiones y la adaptación al cambio climático en la Ciudad de México;
+XXXII. Plan General: Plan General de Desarrollo de la Ciudad de México;
 
-XXXVI. Presupuesto de carbono: cantidad máxima de emisiones de dióxido de carbono equivalente (CO2e) que puede emitir un lugar a lo largo de un período, en la Ciudad de México, para limitar su contribución al incremento de la temperatura promedio del planeta;
+XXXIII. Política de la Ciudad de México en materia de cambio climático: conjunto de arreglos institucionales, instrumentos de política y políticas públicas que contribuyen a la mitigación de emisiones y la adaptación al cambio climático en la Ciudad de México;
 
-XXXVII. Programa de Acción Climática: Programa de Acción Climática de la Ciudad de México;
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
 
-XXXVIII. Programa de Alcaldía: Programa de cada Alcaldía de acción ante el cambio climático;
+XXXIV. Presupuesto de carbono: cantidad máxima de emisiones de dióxido de carbono equivalente (CO2e) que puede emitir un lugar a lo largo de un periodo, en la Ciudad de México, para limitar su contribución al incremento de la temperatura promedio del planeta;
 
-XXXIX. Programa General: Programa General de Ordenamiento Territorial de la Ciudad de México: Programa General (sic)
+XXXV. Programa de Acción Climática: Programa de Acción Climática de la Ciudad de México;
 
-XL. Reservorio de gases de efecto invernadero: unidad física con la capacidad para almacenar o acumular un gas de efecto invernadero;
+XXXVI. Programa de Alcaldía: Programa de cada Alcaldía de acción ante el cambio climático;
 
-XLI. Resiliencia: capacidad de los sistemas naturales o sociales para recuperarse o soportar los efectos derivados del cambio climático;
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
 
-XLII. Riesgo: daños o pérdidas probables sobre un Sistema Expuesto, conformado por personas, comunidades, bienes, infraestructura y ecosistemas, resultado de la interacción entre su vulnerabilidad y la exposición ante la presencia de un fenómeno perturbador;
+XXXVII. Programa General: Programa General de Ordenamiento Territorial de la Ciudad de México;
 
-XLIII. Secretaría: Secretaría del Medio Ambiente de la Ciudad de México;
+XXXVIII. Reservorio de gases de efecto invernadero: unidad física con la capacidad para almacenar o acumular un gas de efecto invernadero;
 
-XLIV. Sistema de Seguimiento: criterios, lineamientos, normas y proceso (sic) para el monitoreo, medición, reporte, verificación y evaluación de las medidas de adaptación y mitigación del Programa de Acción Climática;
+XXXIX. Resiliencia: capacidad de los sistemas naturales o sociales para recuperarse o soportar los efectos derivados del cambio climático;
 
-XLV. Transversalidad: cualidad y condición que permite transitar de una planeación sectorizada a otra coordinada e integral, coherente y sistematizada, atendiendo a la realidad ambiental y climática, y haciendo de ésta un eje rector del desarrollo que orienta y rige la toma de decisiones; y
+XL. Riesgo: daños o pérdidas probables sobre un Sistema Expuesto, conformado por personas, comunidades, bienes, infraestructura y ecosistemas, resultado de la interacción entre su vulnerabilidad y la exposición ante la presencia de un fenómeno perturbador;
 
-XLVI. Vulnerabilidad: susceptibilidad o incapacidad de un sistema de afrontar los efectos adversos del cambio climático, en particular la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
+XLI. Secretaría: Secretaría del Medio Ambiente de la Ciudad de México;
+
+XLII. Sistema de Seguimiento: criterios, lineamientos, normas y proceso para el monitoreo, medición, reporte, verificación y evaluación de las medidas de adaptación y mitigación del Programa de Acción Climática;
+
+XLIII. Transversalidad: cualidad y condición que permite transitar de una planeación sectorizada a otra coordinada e integral, coherente y sistematizada, atendiendo a la realidad ambiental y climática, y haciendo de ésta un eje rector del desarrollo que orienta y rige la toma de decisiones; y
+
+XLIV. Vulnerabilidad: susceptibilidad o incapacidad de un sistema de afrontar los efectos adversos del cambio climático, en particular la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
 
 ## TÍTULO SEGUNDO. AUTORIDADES, COMPETENCIAS Y COORDINACIÓN
 
@@ -1030,9 +1038,17 @@ III. Las metas e indicadores de mitigación y adaptación;
 
 IV. Las entidades responsables de la implementación y seguimiento y los tiempos de implementación de las medidas;
 
-V. Los grupos en situación de vulnerabilidad en su demarcación territorial; y
+> <small>(REFORMADA, G.O. 22 DE JULIO DE 2026)</small>
 
-VI. Las demás que determinen la Secretaría y la Alcaldía correspondiente.
+V. Los grupos en situación de vulnerabilidad en su demarcación territorial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 22 DE JULIO DE 2026)</small>
+
+VI. Las medidas que incluyan la gestión de riesgos por lluvias intensas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 22 DE JULIO DE 2026)</small>
+
+VII. Las demás que determinen la Secretaría y la Alcaldía correspondiente.
 
 ###### Artículo 50.
 
@@ -1501,3 +1517,21 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su prom
 SEGUNDO. El presente decreto entrará en vigor el día siguiente al de su publicación.
 
 TERCERO. Las obligaciones que, en su caso, se generen con motivo del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales.
+
+G.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS FRACCIONES DEL ARTÍCULO 4 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 49 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN AL CAMBIO CLIMÁTICO Y DESARROLLO SUSTENTABLE DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México y para su mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente decreto entrará en vigor al día natural siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
