@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-la-ciudad-de-mexico-173820"
 country: "mx"
 rank: "ley"
 publication_date: "2024-07-18"
-last_updated: "2025-12-24"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173820&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2024-07-16"
 
 LEY AMBIENTAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2026.
 
 Ley publicada en el No. 1404 de la Gaceta Oficial de la Ciudad de México, el jueves 18 de julio de 2024.
 
@@ -450,6 +450,10 @@ LIII. Fijar los mecanismos para la gestión de recursos financieros que permitan
 
 LIV. Las demás que le confieren ésta y otras leyes, así como las que se deriven de los instrumentos de coordinación celebrados y que se celebren.
 
+> <small>(ADICIONADA, G.O. 22 DE JULIO DE 2026)</small>
+
+LV. Promover incentivos para la protección, conservación y uso sustentable de los polinizadores, su hábitat y la flora nectarífera y polinífera, con especial enfoque en la producción sustentable, la conservación de especies endémicas y el cuidado de las zonas de importancia para los polinizadores.
+
 ###### Artículo 8º.
 
 Corresponde a las Alcaldías el ejercicio de las siguientes atribuciones:
@@ -529,6 +533,10 @@ XII. Promover y ejecutar en el ámbito de sus competencias, políticas para redu
 > <small>(ADICIONADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 XIII. Promover el uso prioritario de especies y semillas endémicas en el suelo de conservación de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 22 DE JULIO DE 2026)</small>
+
+XIII (SIC). Promover incentivos para la protección, conservación y uso sustentable de los polinizadores, su hábitat y la flora nectarífera y polinífera.
 
 ###### Artículo 10.
 
@@ -625,6 +633,10 @@ XII. Los objetivos de descarbonización de la política climática; y,
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
 
 XIII. La reducción de la vulnerabilidad de la población, los ecosistemas y la infraestructura urbana, anteponiendo la prevención a los riesgos actuales reales y previsibles del cambio climático, así como empleando el análisis interseccional correspondiente.
+
+> <small>(ADICIONADA, G.O. 22 DE JULIO DE 2026)</small>
+
+XIV. La promoción de incentivos para la protección, conservación y uso sustentable de los polinizadores, su hábitat y la flora nectarífera y polinífera, con especial enfoque en la producción sustentable, la conservación de especies endémicas y el cuidado de las zonas de importancia para los polinizadores.
 
 #### SECCIÓN TERCERA.
 
@@ -1269,6 +1281,10 @@ VI. Promover la adopción de prácticas que integren las actividades económicas
 VII. Promover la integración de criterios de conservación de la biodiversidad en los sectores productivos y de prestación de servicios, así como la producción agroecológica; e
 
 VIII. Impulsar prácticas que orienten hacia un desarrollo bajo o neutro en carbono y resiliente ante los efectos adversos del cambio climático.
+
+> <small>(ADICIONADA, G.O. 22 DE JULIO DE 2026)</small>
+
+IX. Promover la protección, conservación y uso sustentable de los polinizadores, su hábitat y la flora nectarífera y polinífera, con especial enfoque en la producción sustentable, la conservación de especies endémicas y el cuidado de las zonas de importancia para los polinizadores.
 
 ###### Artículo 74.
 
@@ -3837,3 +3853,15 @@ G.O. 24 DE DICIEMBRE DE 2025.
 PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO Y SE EXPIDE LA LEY PARA EL FOMENTO APÍCOLA Y LA CONSERVACIÓN DE POLINIZADORES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La reglamentación aplicable al presente decreto deberá ser expedida dentro de los ciento ochenta días hábiles siguientes a su entrada en vigor.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado de las respectivas dependencias y cualquier modificación deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal ni subsecuentes.
