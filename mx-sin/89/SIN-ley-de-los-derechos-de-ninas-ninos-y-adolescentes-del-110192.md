@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110192"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2025-10-01"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2015.
 
@@ -771,13 +771,17 @@ VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud
 
 VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2026)</small>
 
-VIII. El castigo corporal y humillante; y
+VIII. El castigo corporal y humillante;
 
-> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2026)</small>
 
-IX. La orfandad producida por el feminicidio de sus madres.
+IX. La orfandad producida por el feminicidio de sus madres; y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2026)</small>
+
+X. Contenidos en los medios de comunicación y redes sociales que afecten o impidan objetivamente el desarrollo integral de niñas, niños y adolescentes, o que hagan apología del delito, en contravención al principio de interés superior de la niñez.
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2023)</small>
 
@@ -2308,3 +2312,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 466 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN, LEY DE GOBIERNO MUNICIPAL, LEY DE MOVILIDAD SUSTENTABLE Y SEGURIDAD VIAL, Y LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá realizar las adecuaciones pertinentes a las disposiciones reglamentarias correspondientes, en un plazo que no exceda de los 90 días naturales posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
