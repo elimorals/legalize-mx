@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-145523"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-04"
-last_updated: "2026-07-17"
+last_updated: "2026-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2026.
 
 Ley publicada en la Sección Segunda al Número 146 del Periódico Oficial del Estado de Sinaloa, el viernes 4 de diciembre de 2020.
 
@@ -1239,13 +1239,23 @@ IV. Establecer los mecanismos gratuitos de asesoría, orientación, reporte de c
 
 V. Solicitar a la Comisión Nacional para la Mejora Continua de la Educación estudios, investigaciones, informes y diagnósticos que permitan conocer las causas y la incidencia del fenómeno de violencia o maltrato entre escolares en cualquier tipo, ya sea psicológica, física o cibernética, así como su impacto en el entorno escolar en la deserción de los centros educativos, en el desempeño académico de los educandos, en sus vínculos familiares y comunitarios y el desarrollo integral de todas sus potencialidades, así como las medidas para atender dicha problemática;
 
-VI. Celebrar convenios de cooperación, coordinación y concertación con los sectores públicos, privados y sociales, para promover los derechos de las niñas, niños, adolescentes y jóvenes, y el fomento de la cultura de la paz, resolución no violenta de conflictos, fortalecimiento de la cohesión comunitaria y convivencia armónica dentro de las escuelas;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2026)</small>
+
+VI. Celebrar convenios de cooperación, coordinación y concertación con los sectores públicos, privados y sociales, para promover los derechos de las niñas, niños, adolescentes y jóvenes, y el fomento de la cultura de la paz, resolución no violenta de conflictos, prevención de conductas que enaltezcan actividades ilícitas, fortalecimiento de la cohesión comunitaria y convivencia armónica dentro de las escuelas;
 
 VII. Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencia en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales;
 
-VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social, y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2026)</small>
 
-IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas.
+VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2026)</small>
+
+IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas; y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2026)</small>
+
+X. Prohibir la reproducción, difusión o realización de contenidos que enaltezcan actividades ilícitas o a personas vinculadas a ellas, por cualquier medio, en los espacios de las instituciones de educación básica y media superior.
 
 ###### Artículo 121.
 
@@ -2396,3 +2406,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 466 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN, LEY DE GOBIERNO MUNICIPAL, LEY DE MOVILIDAD SUSTENTABLE Y SEGURIDAD VIAL, Y LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá realizar las adecuaciones pertinentes a las disposiciones reglamentarias correspondientes, en un plazo que no exceda de los 90 días naturales posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
