@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-celebracion-de-espectaculos-publicos-en-la-14213"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-13"
-last_updated: "2025-03-25"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14213&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1996-12-27"
 
 LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE JULIO DE 2026.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 13 de enero de 1997.
 
@@ -320,7 +320,13 @@ XII. Proporcionar a los participantes en el Espectáculo público, sanitarios hi
 
 XIII. Devolver dentro de un plazo de 48 horas y contra la simple entrega del boleto o contraseña respectiva, el importe de las entradas cuando de conformidad con las disposiciones específicas de la Ley o de los Reglamentos correspondientes, resulte procedente ante la suspensión o cancelación de un Espectáculo público por causas imputables al Titular;
 
-XIV. Prohibir durante la celebración del Espectáculo de que se trate, las conductas que tiendan a alentar, favorecer o tolerar la prostitución o drogadicción, y en general aquellas que pudieran constituir una infracción o delito;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE JULIO DE 2026)</small>
+
+XIV. Prohibir durante la celebración del Espectáculo de que se trate, las conductas que tiendan a alentar, favorecer o tolerar la prostitución o drogadicción, cualquier tipo de apología del delito y en general aquellas que pudieran constituir una infracción o delito;
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2026)</small>
+
+Además de lo anterior, queda prohibido tolerar la violencia, la discriminación y los discursos de odio.
 
 XV. Dar aviso a las autoridades competentes, cuando detecten la comisión de alguna de las conductas a que se refiere la fracción anterior;
 
@@ -1747,3 +1753,11 @@ TERCERO. Dentro de los 210 días naturales posteriores a la entrada en vigor del
 CUARTO. Dentro de los 180 días siguientes a la publicación del presente Decreto, el Congreso de la Ciudad de México realizará la actualización y armonización de la legislación aplicable.
 
 QUINTO. Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XIV DEL ARTÍCULO 12 DE LA LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
