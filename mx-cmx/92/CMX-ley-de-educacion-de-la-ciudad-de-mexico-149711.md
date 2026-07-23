@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-de-la-ciudad-de-mexico-149711"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2026-07-22"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149711&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-04"
 
 LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en el No. 612 de la Gaceta Oficial de la Ciudad de México, el lunes 7 de junio de 2021.
 
@@ -321,6 +321,10 @@ XXXI. Desarrollar, ejecutar y promover programas de apoyo social que incidan en 
 > <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
 
 XXXII. Elaborar y aplicar instrumentos, programas y campañas locales con acciones específicas orientadas a prevenir, identificar, atender y erradicar la violencia en cualquier tipo de sus manifestaciones, con el objetivo de lograr una convivencia sana y pacífica, sin riesgos a la integridad individual o colectiva en la comunidad educativa.
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+XXXII BIS. Proponer a la Autoridad Educativa Federal estrategias y protocolos de prevención, actuación y atención, ante situaciones de violencia en contra del personal docente, los cuales deberán ser difundidos y accesibles para todos los integrantes de la comunidad educativa;
 
 XXXIII. Promover programas y suscribir convenios de cooperación, coordinación o acuerdos interinstitucionales con instituciones públicas o privadas, nacionales o internacionales, en materia educativa, científica, tecnológica, de innovación, de formación artística y cultural, de educación física y deporte, de educación vial, ambiental y financiera, así como los demás instrumentos jurídicos que en el ámbito de su competencia correspondan a la persona titular de la Secretaría;
 
@@ -930,27 +934,43 @@ La regulación del sistema de humanidades, ciencias, tecnologías e innovación 
 
 La Secretaría, en el ámbito de sus atribuciones y en coordinación con las autoridades competentes fortalecerán y apoyarán la generación, ejecución, difusión y divulgación de proyectos y resultados de investigación científica, humanística, tecnológica y de innovación, con la finalidad de generar propuestas de solución a los problemas y necesidades de la Ciudad, contribuir a su desarrollo económico y social, elevar el bienestar de la población y reducir las desigualdades.
 
-> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 2023)</small>
-
 ###### Artículo 58 Quáter.
 
 La Secretaría, en el ámbito de sus atribuciones y en coordinación con las autoridades educativas de la Federación, las universidades públicas autónomas por ley, así como las instituciones de educación superior de la Ciudad, impulsará el desarrollo de la investigación en ciencias, humanidades, tecnologías e innovación, conforme a los objetivos siguientes:
 
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
 I. Fomentar la realización de investigación básica y aplicada, desarrollo tecnológico e innovación;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
 
 II. Apoyar las capacidades de las instituciones y grupos de investigación científica, humanística y tecnológica en las instituciones públicas del Sistema Educativo local;
 
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
 III. Impulsar la formación de investigadoras e investigadores a través de programas de posgrado y apoyar su incorporación a las instituciones académicas que realizan funciones de investigación, desarrollo tecnológico e innovación;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
 
 IV. Fomentar vocaciones científicas, tecnológicas, humanísticas e innovadoras;
 
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
 V. Desarrollar una vinculación creciente de las actividades de investigación científica, humanística, tecnológica y de innovación con las políticas públicas a cargo del Gobierno de la Ciudad;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
 
 VI. Favorecer la creación de infraestructuras para el desarrollo de la ciencia y la innovación tecnológica;
 
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
+
 VII. Fomentar la difusión, en los ámbitos nacional e internacional, del conocimiento producido por las actividades de investigación, desarrollo tecnológico e innovación;
 
-VIII. Establecer programas de divulgación para impulsar la participación y el interés de las niñas, niños, adolescentes y jóvenes en las ciencias, humanidades, tecnologías e innovación, y
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+VIII. Establecer programas de divulgación para impulsar e incrementar la participación y el interés de las niñas, niños, adolescentes y jóvenes en las ciencias, humanidades, tecnologías e innovación, incorporando la perspectiva de género e interculturalidad para derribar los estereotipos de género y,
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 2023)</small>
 
 IX. Democratizar la información científica, tecnológica, humanística y de innovación, en los términos que establezca la ley de la materia.
 
@@ -1502,6 +1522,12 @@ Es deber de los educandos cumplir con las normas de las instituciones educativas
 
 El personal docente o con funciones de dirección o supervisión en la educación básica y media superior de las instituciones públicas de la Ciudad, gozará de todos los derechos y tendrá todas las obligaciones establecidas en la Constitución Federal, la Constitución Local, la Ley General, la Ley del Sistema para la Carrera de las Maestras y los Maestros, la presente Ley y demás normativa educativa y laboral aplicable.
 
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2026)</small>
+
+###### Artículo 113.
+
+Bis. El personal docente o con funciones de dirección o supervisión en la educación básica y media superior de las instituciones públicas de la Ciudad, dentro del ámbito de competencia, ante situaciones de violencia en el entorno escolar o de maltrato escolar aplicarán los protocolos de actuación referidos en la Ley para la Promoción de la Convivencia Libre de Violencia en el Entorno Escolar de la Ciudad de México, bajo los principios de diligencia, no revictimización y enfoque de género.
+
 ###### Artículo 114.
 
 Para ejercer la docencia dentro de cada uno de los tipos, niveles y modalidades que comprende el Sistema Educativo de la Ciudad, el personal docente deberá acreditar la preparación y capacidades necesarias para el desempeño del curso o asignatura que imparten, sujetándose a las disposiciones que la ley establece para el ejercicio de la profesión.
@@ -1889,3 +1915,33 @@ PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicaci�
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXXII BIS AL ARTÍCULO 9 DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo el (sic) presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JULIO DE 2026.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 58 QUÁTER DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO.
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 4; Y SE ADICIONA LA FRACCIÓN II BIS DEL ARTÍCULO 4, TODOS DE LA LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DE LA CIUDAD DE MÉXICO Y SE ADICIONA UN ARTÍCULO 113 BIS A LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
