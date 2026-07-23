@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-accesibilidad-para-la-ciudad-de-mexico-117907"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-12"
-last_updated: "2025-12-24"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117907&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-12-03"
 
 LEY DE LA ACCESIBILIDAD PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 12 de enero de 2017.
 
@@ -62,6 +62,12 @@ La presente Ley es de orden público e interés social y tiene por objeto que en
 
 Todas las edificaciones públicas y privadas, que presten servicios al público, que se construyan a partir de la entrada en vigor de la presente Ley, se ajustarán a los criterios de diseño universal y accesibilidad para las personas con discapacidad y personas con movilidad limitada que se dispongan en la presente Ley, reglamentos, normas técnicas y demás ordenamientos aplicables en la materia; asimismo, en las edificaciones existentes, se deberán realizar los ajustes razonables y adaptaciones, considerando la aplicación de criterios de accesibilidad de manera progresiva.
 
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2026)</small>
+
+###### Artículo 2 Bis.
+
+Toda la información que emitan las autoridades de la Ciudad de México será accesible, confiable, verificable, veraz y oportuna, con lenguaje claro y ciudadano, conforme a los principios previstos de la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política de la Ciudad de México.
+
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entenderá por:
@@ -84,7 +90,9 @@ VII. Diseño Universal: El diseño de productos, entornos, programas y servicios
 
 VIII. Estado de dependencia: El estado de carácter permanente en que se encuentran las personas que requieren de la atención de otra u otras personas para realizar las actividades esenciales de la vida, lo anterior por razones derivadas de una o más deficiencias de causa física, intelectual, psicosocial o sensorial, ligadas a la falta o pérdida de autonomía.
 
-IX. INDEPEDI: Instituto para la Integración al Desarrollo de las Personas con Discapacidad de la Ciudad de México.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+IX. Instituto: Instituto de las Personas con Discapacidad de la Ciudad de México.
 
 X. lntersectorialidad: El principio en virtud del cual, las políticas en cualquier ámbito de la gestión pública deben considerar como elementos transversales, los derechos de las personas con discapacidad.
 
@@ -110,7 +118,9 @@ La aplicación y cumplimiento de esta Ley, corresponde a:
 
 I. La persona titular de la Jefatura de Gobierno de la Ciudad de México;
 
-II. El INDEPEDI;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+II. El Instituto;
 
 III. El DIF-CDMX;
 
@@ -170,11 +180,11 @@ II. Incorporar en caso de ser necesario, en el Proyecto de Presupuesto de Egreso
 
 III. Las demás que le otorgue la Ley y otras disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 6.
 
-Son atribuciones del INDISCAPACIDAD CDMX:
+Son atribuciones del Instituto:
 
 I. Proponer políticas públicas para garantizar el cumplimiento de la presente Ley dentro del Subprograma de Accesibilidad y del Subprograma de Sensibilización, ambos del Programa para la Integración al Desarrollo de las Personas con Discapacidad de la Ciudad de México;
 
@@ -182,7 +192,9 @@ II. Emitir su opinión en el otorgamiento de las correspondientes licencias de c
 
 III. Dar cumplimiento a las visitas y procedimientos de verificación administrativa señaladas en el artículo primero del Reglamento de Verificación Administrativa del Distrito Federal y las disposiciones legales aplicables, respecto a la accesibilidad física, de información, comunicación y transporte;
 
-IV. Certificar a las y los intérpretes de Lengua de Señas Mexicana en la Ciudad de México; y
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+IV. Certificar a las personas intérpretes de Lengua de Señas Mexicana en la Ciudad de México; y
 
 V. Las demás que le otorgue la Ley y otras disposiciones jurídicas aplicables.
 
@@ -202,13 +214,13 @@ III. Las demás que le otorgue la presente Ley y otras disposiciones jurídicas 
 
 Son atribuciones de la Secretaría de Bienestar e Igualdad Social de la Ciudad de México:
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-I. Elaborar conjuntamente con el INDISCAPACIDAD CDMX y el DIF-CDMX, los programas orientados a la sensibilización sobre el derecho a la accesibilidad para todas las personas que viven o transitan en la Ciudad de México, de conformidad con los lineamientos que se establezcan en la materia;
+I. Elaborar conjuntamente con el Instituto y el DIF-CDMX, los programas orientados a la sensibilización sobre el derecho a la accesibilidad para todas las personas que viven o transitan en la Ciudad de México, de conformidad con los lineamientos que se establezcan en la materia;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-II. Difundir en conjunto con el INDISCAPACIDAD CDMX y el DIF-CDMX, las acciones, políticas y campañas de sensibilización que permitan generar una toma de conciencia entre las y los ciudadanos que habitan y transitan en la Ciudad de México sobre la trascendencia de la accesibilidad para todas y todos sus habitantes; y
+II. Difundir en conjunto con el Instituto y el DIF-CDMX, las acciones, políticas y campañas de sensibilización que permitan generar una toma de conciencia entre las y los ciudadanos que habitan y transitan en la Ciudad de México sobre la trascendencia de la accesibilidad para todas y todos sus habitantes; y
 
 III. Las demás que le otorgue la Ley y otras disposiciones jurídicas aplicables.
 
@@ -242,7 +254,9 @@ III. Las demás que le otorgue la Ley y otras disposiciones jurídicas aplicable
 
 Con la finalidad de promover las necesidades de las personas con discapacidad y el derecho a participar en la comunidad en igualdad de condiciones con las demás personas, se realizarán campañas y acciones de sensibilización en materia de accesibilidad y diseño universal en el entorno físico, incluyendo todas las edificaciones, espacios públicos, transporte público de pasajeros, la información y las comunicaciones.
 
-El INDEPEDI y el DIF-CDMX, en colaboración con los entes de gobierno de la Ciudad de México, darán promoción a las campañas y acciones de sensibilización mediante foros, talleres, exposiciones, cursos, entre otras actividades, fomentando el respeto a los derechos de las personas con discapacidad.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
+El Instituto y el DIF-CDMX, en colaboración con los entes de gobierno de la Ciudad de México, darán promoción a las campañas y acciones de sensibilización mediante foros, talleres, exposiciones, cursos, entre otras actividades, fomentando el respeto a los derechos de las personas con discapacidad.
 
 ###### Artículo 12.
 
@@ -278,29 +292,37 @@ III. Sanitarios accesibles; y
 
 IV. Elevadores, escaleras o rampas de acceso e información general.
 
-Lo anterior con el objeto de que las personas con discapacidad y con movilidad limitada puedan identificar los espacios destinados para ellas y el acceso a la información que requiera.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
+Lo anterior con el objeto de que las personas con discapacidad y con movilidad limitada puedan identificar los espacios destinados para ellas y el acceso a la información que requieran.
 
 ###### Artículo 16.
 
 Los espacios públicos destinados a la recreación, paseos, jardines, parques públicos y demás de naturaleza análoga, deberán contar con rutas accesibles para facilitar la movilidad de las personas con discapacidad y con movilidad limitada.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 17.
 
-Todos los establecimientos mercantiles y de servicios financieros en la Ciudad de México, deberán contar con espacios accesibles para personas con discapacidad, adultos mayores y mujeres embarazadas, contemplando la tecnología disponible, las ayudas técnicas y ajustes razonables necesarios, mismos que deberán ser exclusivos o prioritarios, en su uso, para este grupo de población.
+Todos los establecimientos mercantiles y de servicios financieros en la Ciudad de México, deberán contar con espacios accesibles para personas con discapacidad, personas mayores, mujeres embarazadas y personas gestantes, contemplando la tecnología disponible, las ayudas técnicas y ajustes razonables necesarios, mismos que deberán ser exclusivos o prioritarios, en su uso, para este grupo de la población.
 
 ###### Artículo 18.
 
 En todo espacio público y privado de la Ciudad de México, principalmente en aquellos que se encuentren abiertos al público en general, se deberá permitir en todo momento el acceso de los perros guía que acompañen a las personas con discapacidad visual.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 19.
 
-Con el propósito de garantizar el derecho (sic) la accesibilidad al entorno físico, las edificaciones, los espacios públicos, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y el transporte, especialmente para las personas con discapacidad y personas con movilidad limitada, asegurando el ejercicio de sus derechos y eliminando cualquier forma de discriminación y promoviendo la igualdad, el INDEPEDI y el DIF-CDMX, de manera conjunta, certificarán en materia de accesibilidad, la infraestructura, la información, las comunicaciones y el transporte, sean estas de carácter público o privado, lo anterior a través de la expedición del Certificado de Accesibilidad de la Ciudad de México.
+Con el propósito de garantizar el derecho de accesibilidad al entorno físico, las edificaciones, los espacios públicos, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y el transporte, especialmente para las personas con discapacidad y personas con movilidad limitada, asegurando el ejercicio de sus derechos y eliminando cualquier forma de discriminación y promoviendo la igualdad, el Instituto y el DIF-CDMX, de manera conjunta, certificarán en materia de accesibilidad, la infraestructura, la información, las comunicaciones y el transporte, sean estas de carácter público o privado, lo anterior a través de la expedición del Certificado de Accesibilidad de la Ciudad de México.
 
 Dicho certificado garantizará la accesibilidad en la Ciudad de México de todo espacio construido, la infraestructura, la información, las comunicaciones y el transporte público de pasajeros que preste servicios en ella.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 20.
 
-Para dar cumplimiento al artículo anterior, el INDEPEDI y el DIF-CDMX, de manera conjunta y mediante el Mecanismo de Coordinación lnterinstitucional, deberán:
+Para dar cumplimiento al artículo anterior, el Instituto y el DIF-CDMX, de manera conjunta y mediante el Mecanismo de Coordinación Interinstitucional, deberán:
 
 I. Elaborar, actualizar y publicar un Estudio de Evaluación de Accesibilidad, que deberá regir, orientar y aplicarse por ambas instancias, al momento de efectuar los trabajos de evaluación al espacio construido e infraestructura de transporte, para lo cual podrán convocar a las instancias de los sectores público, privado y social competentes o expertas en la materia;
 
@@ -329,3 +351,15 @@ G.O. 24 DE DICIEMBRE DE 2025.
 PRIMERO. Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 2 BIS; Y SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 3; LA FRACCIÓN II DEL ARTÍCULO 4; EL PRIMER PÁRRAFO Y LA FRACCIÓN IV DEL ARTÍCULO 6; LAS FRACCIONES I Y II DEL ARTÍCULO 8; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 11; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 15; EL PRIMER PÁRRAFO DEL ARTÍCULO 17; EL PRIMER PÁRRAFO DEL ARTÍCULO 19 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 20 DE LA LEY DE LA ACCESIBILIDAD PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las autoridades de la Ciudad de México contarán con un plazo de dos años para realizar los ajustes necesarios después de la entrada en vigor de esta legislación.
+
+CUARTO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
