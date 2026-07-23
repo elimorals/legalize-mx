@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2025-08-27"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -242,45 +242,45 @@ Los tipos de violencia contra las mujeres son:
 
 I. Violencia Psicoemocional: Toda acción u omisión dirigida a desvalorar, intimidar o controlar sus acciones, comportamientos y decisiones, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, celotipia, desdén, indiferencia, descuido reiterado, chantaje, humillaciones, comparaciones destructivas, abandono o actitudes devaluatorias, culpabilizar o cualquier otra, que provoque en quien la recibe alteración autocognitiva y autovalorativa que integran su autoestima o alteraciones en alguna esfera o área de su estructura psíquica;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia psicoemocional se sanciona de acuerdo con lo establecido en los artículos 138 y 200 del Código Penal para el Distrito Federal.
+La violencia psicoemocional se sanciona de acuerdo con lo establecido en los artículos 138 y 200 del Código Penal local vigente para la Ciudad de México.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE FEBRERO DE 2024)</small>
 
 II. Violencia Física: Es cualquier acción u omisión que cause o busque causar daño en la integridad física de la mujer, provocando lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad o pongan en peligro la vida.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia física se sanciona de acuerdo con lo establecido en los artículos 130, 131 y 132 del Código Penal para el Distrito Federal.
+La violencia física se sanciona de acuerdo con lo establecido en los artículos 130, 131 y 132 del Código Penal local vigente para la Ciudad de México.
 
 III. Violencia Patrimonial: Toda acción u omisión que ocasiona daño o menoscabo en los bienes muebles o inmuebles de la mujer y su patrimonio; también puede consistir en la sustracción, destrucción, desaparición, ocultamiento o retención de objetos, documentos personales, bienes o valores o recursos económicos;
 
-> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia patrimonial se sanciona de acuerdo con lo establecido en los artículos 200, 232 y 232 BIS del Código Penal para el Distrito Federal.
+La violencia patrimonial se sanciona de acuerdo con lo establecido en los artículos 200, 232 y 232 BIS del Código Penal local vigente para la Ciudad de México.
 
 IV. Violencia Económica: Toda acción u omisión que afecta la economía de la mujer, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, en la restricción, limitación y/o negación injustificada para obtener recursos económicos, percepción de un salario menor por igual trabajo, explotación laboral, exigencia de exámenes de no gravidez, así como la discriminación para la promoción laboral;
 
-> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia económica se sanciona de acuerdo con lo establecido en los artículos 193, 194, 195, 196 y 197 del Código Penal para el Distrito Federal.
+La violencia económica se sanciona de acuerdo con lo establecido en los artículos 193, 194, 195, 196 y 197 del Código Penal local vigente para la Ciudad de México.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 25 DE JUNIO DE 2025)</small>
 
 V. Violencia Sexual: Toda acción u omisión que amenaza, pone en riesgo o lesiona la libertad, seguridad, integridad y desarrollo psicosexual de la mujer, como miradas o palabras lascivas, hostigamiento, prácticas sexuales no consensuadas, acoso, violación, explotación sexual comercial, tortura sexual, trata de personas para la explotación sexual o el uso denigrante de la imagen de la mujer;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia sexual se sanciona de acuerdo con lo establecido en los artículos 152, 174, 175, 176, 177, 178, 179, 180, 181, 181 Bis, 181 Ter, 181 Quáter, 186, 187, 188, 188 Bis, 189 y 189 Bis del Código Penal para el Distrito Federal.
+La violencia sexual se sanciona de acuerdo con lo establecido en los artículos 152, 174, 175, 176, 177, 178, 179, 180, 181, 181 Bis, 181 Ter, 181 Quáter, 186, 187, 188, 188 Bis, 189 y 189 Bis del Código Penal local vigente para la Ciudad de México.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 27 DE MARZO DE 2024)</small>
 
 VI. Violencia contra los Derechos Reproductivos: Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos; el acceso a métodos anticonceptivos de su elección; a una maternidad elegida y segura; a servicios de aborto seguro en el marco previsto por la ley para la interrupción legal del embarazo; a servicios de atención prenatal; a servicios obstétricos de emergencia; así como la libertad de elección en cuanto a los productos e insumos para la gestión menstrual.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia contra los derechos reproductivos se concreta al no cumplir con lo establecido en el artículo 144 del Código Penal para el Distrito Federal.
+La violencia contra los derechos reproductivos se concreta al no cumplir con lo establecido en el artículo 144 del Código Penal local vigente para la Ciudad de México.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 25 DE JUNIO DE 2025)</small>
 
@@ -302,15 +302,17 @@ e) Practicar el parto por vía de cesárea, existiendo condiciones para el parto
 
 VIII. Violencia Feminicida: Toda acción u omisión que constituye la forma extrema de violencia contra las mujeres producto de la violación de sus derechos humanos y que puede culminar en homicidio u otras formas de muerte violenta de mujeres.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia feminicida se sanciona de acuerdo con lo establecido en el artículo 148 Bis del Código Penal para el Distrito Federal.
+La violencia feminicida se sanciona de acuerdo con lo establecido en el artículo 148 Bis del Código Penal local vigente para la Ciudad de México.
 
 > <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2025)</small>
 
 VIII Bis. Violencia Transfeminicida: Toda acción u omisión que constituye la forma extrema de violencia contra una mujer trans o persona cuya identidad o expresión de género, real o percibida, se encuentre dentro del espectro femenino de género, producto de la violación de sus derechos humanos y que puede culminar en homicidio u otras formas de muerte violenta de mujer trans.
 
-La violencia transfeminicida se sanciona de acuerdo con lo establecido en el artículo 148 Ter del Código Penal para el Distrito Federal.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
+La violencia transfeminicida se sanciona de acuerdo con lo establecido en el artículo 148 Ter del Código Penal local vigente para la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2023)</small>
 
@@ -328,17 +330,17 @@ Este tipo de violencia puede cometerse también a través de familiares o person
 
 Es particularmente grave cuando las instituciones destinadas a la atención y acceso a la justicia, al no reconocerla, emiten determinaciones, resoluciones y sentencias sin perspectiva de género vulnerando derechos humanos de las mujeres y el interés superior de la niñez.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia vicaria se sanciona de acuerdo con lo establecido en el artículo 201 Ter del Código Penal para el Distrito Federal.
+La violencia vicaria se sanciona de acuerdo con lo establecido en el artículo 201 Ter del Código Penal local vigente para la Ciudad de México.
 
 > <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2024)</small>
 
 XI. Violencia por ataques con ácido, sustancias químicas o corrosivas: Es cualquier acción u omisión que cause o busque causar daño no accidental arrojando, derramando o poniendo en contacto con algún tipo de gas, compuesto químicos, ácido, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, explosivas, reactivas, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en determinadas condiciones pueda provocar lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad o pongan en peligro la vida.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia por ataques con ácido, sustancias químicas o corrosivas se sanciona de acuerdo con lo establecido en los artículos 135 Bis, 135 Ter, 135 Quáter, y 135 Quinquies, del Código Penal para el Distrito Federal.
+La violencia por ataques con ácido, sustancias químicas o corrosivas se sanciona de acuerdo con lo establecido en los artículos 135 Bis, 135 Ter, 135 Quáter, y 135 Quinquies, del Código Penal local vigente para la Ciudad de México.
 
 ### CAPÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
 
@@ -352,55 +354,55 @@ Las modalidades de violencia contra las mujeres son:
 
 I. Violencia Familiar: Es aquella que puede ocurrir dentro o fuera del domicilio de la víctima, cometido por parte de la persona agresora con la que tenga o haya tenido parentesco por consanguinidad o por afinidad, derivada de concubinato, matrimonio, sociedad de convivencia o relaciones de hecho;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia familiar se sanciona de acuerdo con lo establecido en los artículos 181 Ter, fracción II, 193 y 200, del Código Penal para el Distrito Federal;
+La violencia familiar se sanciona de acuerdo con lo establecido en los artículos 181 Ter, fracción II, 193 y 200, 200 bis, 200 Ter, 200 Quater y 201 Bis, del Código Penal local vigente para la Ciudad de México;
 
 > <small>(ADICIONADA, G.O. 11 DE JULIO DE 2017)</small>
 
 II. Violencia en el noviazgo: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres de cualquier edad, mediante la relación de uno o varios tipos de violencia, durante o después de una relación de noviazgo, una relación afectiva o de hecho o una relación sexual.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia en el noviazgo se sanciona de acuerdo con lo establecido en los artículos 131 y 148 Bis del Código Penal para el Distrito Federal;
+La violencia en el noviazgo se sanciona de acuerdo con lo establecido en los artículos 131, 148 Bis, 200 y 200 Quater del Código Penal local vigente para la Ciudad de México;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 25 DE JUNIO DE 2025)</small>
 
 III. Violencia Laboral: Es aquella que ocurre cuando se presenta la negativa a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, el acoso, la manipulación psicológica, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia laboral se sanciona de acuerdo con lo establecido en los artículos 131, 148 Bis, 179 y 181 Ter del Código Penal para el Distrito Federal. Así como, lo establecido en el artículo 994 de la Ley Federal del Trabajo;
+La violencia laboral se sanciona de acuerdo con lo establecido en los artículos 131, 148 Bis, 179 y 181 Ter del Código Penal local vigente para la Ciudad de México. Así como, lo establecido en el artículo 994 de la Ley Federal del Trabajo;
 
 > <small>(ADICIONADA, G.O. 11 DE JULIO DE 2017)</small>
 
 IV. Violencia Escolar: Son todas aquellas conductas, acciones u omisiones, infligidas por el personal docente o administrativo o cualquier integrante de la comunidad educativa que daña la dignidad, salud, integridad, libertad y seguridad de las víctimas. La violencia escolar se manifiesta en todas aquellas conductas cometidas individual o colectivamente, en un proceso de interacción que se realiza y prolonga tanto al interior como al exterior de los planteles educativos o del horario escolar, y se expresa mediante la realización de uno o varios tipos de violencia contra las mujeres en cualquier etapa de su vida.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia escolar se sanciona de acuerdo con lo establecido en los artículos 131, 148 Bis y 178 del Código Penal para el Distrito Federal;
+La violencia escolar se sanciona de acuerdo con lo establecido en los artículos 131, 148 Bis y 178 del Código Penal local vigente para la Ciudad de México;
 
 V. Violencia Docente: Es aquella que puede ocurrir cuando se daña la autoestima de las alumnas o maestras con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les inflingen (sic) maestras o maestros;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia docente se sanciona de acuerdo con lo establecido en los artículos 131, 148 Bis, 179 y 181 Ter del Código Penal para el Distrito Federal;
+La violencia docente se sanciona de acuerdo con lo establecido en los artículos 131, 148 Bis, 179 y 181 Ter del Código Penal local vigente para la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2023)</small>
 
 VI. Violencia en la Comunidad: Es aquella cometida de forma individual o colectiva, que atenta contra su seguridad e integridad personal y que puede ocurrir en el barrio, en los espacios públicos o de uso común, de libre tránsito, en inmuebles públicos o medios de transporte público, propiciando su discriminación, marginación o exclusión social;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia en la comunidad se sanciona de acuerdo con lo establecido en los artículos 174 y 179 del Código Penal para el Distrito Federal. Así como, lo establecido en el artículo 161, fracción XVIII del reglamento de la Ley de Movilidad del Distrito Federal;
+La violencia en la comunidad se sanciona de acuerdo con lo establecido en los artículos 174 y 179 del Código Penal local vigente para la Ciudad de México. Así como, lo establecido en el artículo 161, fracción XVIII del reglamento de la Ley de Movilidad de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2020)</small>
 
 VII. Violencia Institucional: Son los actos u omisiones de las personas con calidad de servidor público que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. El Gobierno de la Ciudad de México, se encuentra obligado a actuar con la debida diligencia para evitar que se inflija violencia contra las mujeres.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia institucional se sanciona de acuerdo con lo establecido en los artículos 153, 178 fracción II, 179, 181 Quintus fracción IV, 206 fracción II y 206 Bis del Código Penal para el Distrito Federal;
+La violencia institucional se sanciona de acuerdo con lo establecido en los artículos 153, 178 fracción II, 179, 181 Quintus fracción IV, 206 fracción II y 206 Bis del Código Penal local vigente para la Ciudad de México;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE OCTUBRE DE 2023)</small>
 
@@ -464,9 +466,9 @@ s) Cualquier otro que tenga por objeto o resultado coartar los derechos polític
 
 X. Violencia digital: Es cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet, correo electrónico, o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y comparta imágenes, audios o videos reales o simulados o por inteligencia artificial de contenido sexual íntimo de una persona, sin su consentimiento; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño psicológico, económico o sexual tanto en el ámbito privado como en el público, además de daño moral, tanto a ellas como a sus familias.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-La violencia digital se sanciona de acuerdo con lo establecido en el artículo 181 Quintus del Código Penal para el Distrito Federal.
+La violencia digital se sanciona de acuerdo con lo establecido en el artículo 181 Quintus del Código Penal local vigente para la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 10 DE JUNIO DE 2022)</small>
 
@@ -1956,7 +1958,9 @@ I. Informar a la ofendida o víctima del delito así como a sus derechohabientes
 
 II. Solicitar al juez el embargo precautorio de los bienes del probable responsable, cuando se tenga el temor fundado de que el obligado a la reparación del daño oculte o enajene los bienes para hacer efectiva dicha reparación;
 
-III. Informar a la víctima sobre el derecho que tiene de acudir a la Comisión de Derechos Humanos del Distrito Federal cuando de los hechos que constituyen delito también se desprende la violación a sus derechos humanos y orientarla para que considere la opción de presentar su denuncia o queja ante la Fiscalía de Servidores Públicos u órgano de control interno de la dependencia que corresponda.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+III. Informar a la víctima sobre el derecho que tiene de acudir a la Comisión de Derechos Humanos de la Ciudad de México cuando de los hechos que constituyen delito también se desprende la violación a sus derechos humanos y orientarla para que considere la opción de presentar su denuncia o queja ante la Fiscalía de Servidores Públicos u órgano de control interno de la dependencia que corresponda.
 
 ## TÍTULO QUINTO. DEL PRESUPUESTO PARA LA INSTRUMENTACIÓN DE ESTA LEY
 
@@ -1996,13 +2000,11 @@ La responsabilidad de los servidores públicos será sancionada por los órganos
 
 ### CAPITULO UNICO. REGISTRO PÚBLICO DE PERSONAS AGRESORAS SEXUALES
 
-(NOTA: EL 20 DE FEBRERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 187/2020 Y SU ACUMULADA 218/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE MARZO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.O. 20 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 79.
 
-El Registro PÚBLICO de Personas Agresoras Sexuales de la Ciudad de México constituye un sistema de información DE CARÁCTER PÚBLICO que contendrá los registros de personas sentenciadas con ejecutoria por un juez penal, EN TÉRMINOS DE LOS ESTABLECIDOS (SIC) EN LOS ARTÍCULOS 69 TER Y 69 QUARTER DEL CÓDIGO PENAL DEL DISTRITO FEDERAL VIGENTE.
+El Registro de Personas Agresoras Sexuales de la Ciudad de México constituye un sistema de información que contendrá los registros de personas sentenciadas con ejecutoria por un juez penal.
 
 En ningún caso y bajo ninguna circunstancia, se incluirán datos personales de las víctimas o datos que hagan posible su localización e identificación y ocasionen una revictimización.
 
@@ -2443,3 +2445,11 @@ PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su prom
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 9, FRACCIONES VI Y VII, DE LA LEY PARA EL RECONOCIMIENTO Y LA ATENCIÓN DE LAS PERSONAS LGBTTTI+ DE LA CIUDAD DE MÉXICO Y SE REFORMAN LOS ARTÍCULOS 6, FRACCIONES I, SEGUNDO PÁRRAFO, III, SEGUNDO PÁRRAFO, IV, SEGUNDO PÁRRAFO, V, SEGUNDO PÁRRAFO, VI, SEGUNDO PÁRRAFO, VIII, SEGUNDO PÁRRAFO, X, CUARTO PÁRRAFO, Y XI, SEGUNDO PÁRRAFO; 7, FRACCIONES I, SEGUNDO PÁRRAFO, II, SEGUNDO PÁRRAFO, III, SEGUNDO PÁRRAFO, IV, SEGUNDO PÁRRAFO, V, SEGUNDO PÁRRAFO, VI, SEGUNDO PÁRRAFO, VII, SEGUNDO PÁRRAFO, Y X, CUARTO PÁRRAFO; 74, FRACCIÓN III Y 79, PÁRRAFO PRIMERO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO.".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
