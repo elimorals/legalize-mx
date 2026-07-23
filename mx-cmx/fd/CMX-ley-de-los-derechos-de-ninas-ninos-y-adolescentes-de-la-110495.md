@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2025-12-24"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -612,6 +612,12 @@ Niñas, niños y adolescentes de nacionalidad extranjera que se encuentren en te
 
 Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y adolescentes, así como en relación con los derechos y obligaciones derivados de la filiación y parentesco, se estará a la legislación civil aplicable. Ante la negativa de la prueba de paternidad o maternidad, la autoridad competente, salvo prueba en contrario, presumirá que es el padre o la madre respectivamente.
 
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2026)</small>
+
+###### Artículo 20 Bis.
+
+En el caso de personas nacidas al interior de centros de reinserción social, la autoridad deberá informar al Juez del Registro Civil, para que tenga conocimiento del nacimiento.
+
 ### Capítulo Cuarto. Del Derecho a Vivir en Familia
 
 ###### Artículo 21.
@@ -1126,7 +1132,9 @@ Las niñas y las adolescentes en igualdad de condiciones con los niños y los ad
 
 Las autoridades y los órganos político administrativos, para garantizar la igualdad sustantiva deberán:
 
-I. Transversalizar la perspectiva de género en todas sus actuaciones y procurar la utilización de un lenguaje no sexista en sus documentos oficiales;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+I. Transversalizar la perspectiva de género y de derechos humanos en todas sus actuaciones y procurar la utilización de un lenguaje no sexista en sus documentos oficiales;
 
 II. Diseñar, implementar y evaluar programas y, políticas públicas, a través de acciones afirmativas tendientes a eliminar los obstáculos que impiden la igualdad de acceso y de oportunidades a la alimentación, a la educación y a la atención médica entre las niñas y las adolescentes;
 
@@ -1136,9 +1144,13 @@ III. Implementar acciones específicas para alcanzar la eliminación de costumbr
 
 IV. Establecer medidas dirigidas de manera preferente a las niñas y las adolescentes que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja para el ejercicio o goce de los derechos contenidos en esta Ley;
 
-V. Establecer los mecanismos institucionales que orienten a las autoridades hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las niñas y las adolescentes;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-VI. Desarrollar campañas permanentes de sensibilización de los derechos de las niñas y las adolescentes;
+V. Establecer los mecanismos institucionales que orienten a las autoridades hacia el cumplimiento efectivo de la igualdad sustantiva con perspectiva de género y enfoque de derechos humanos en los ámbitos público y privado, promoviendo el empoderamiento de las niñas y las adolescentes;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+VI. Desarrollar campañas permanentes de sensibilización de los derechos de las niñas y las adolescentes con perspectiva de género;
 
 VII. Promover un entorno educativo en el que se eliminen las barreras sociales y culturales que impiden la asistencia a las escuelas de adolescentes embarazadas;
 
@@ -1146,11 +1158,15 @@ VIII. Impulsar campañas, que de manera científica y veraz brinden información
 
 IX. Generar mecanismos y campañas para alentar a las niñas y a las adolescentes a ejercer su opinión en todos los asuntos que las afecten, garantizando que sus opiniones sean respetadas y valoradas deacuerdo (sic) con la edad, desarrollo evolutivo, cognoscitivo y grado de madurez; particularmente, en cualquier procedimiento judicial o administrativo que afecte sus derechos y;
 
-X. Elaborar y aplicar protocolos de investigación, que tengan perspectiva de género, sobre los delitos que se cometen con mayor incidencia en contra de las niñas y las adolescentes. Primordialmente, para la investigación de los delitos que atenten contra la vida, la seguridad, libertad, el libre desarrollo de la personalidad y la dignidad.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+X. Elaborar y aplicar protocolos de investigación, que tengan perspectiva de género y de derechos humanos, sobre los delitos que se cometen con mayor incidencia en contra de las niñas y las adolescentes. Primordialmente, para la investigación de los delitos que atenten contra la vida, la seguridad, libertad, el libre desarrollo de la personalidad y la dignidad.
+
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 35.
 
-Las normas aplicables a las niñas y a las adolescentes deberán estar dirigidas a visibilizar, promover, respetar, proteger, garantizar y restituir en su caso, sus derechos en aras de alcanzar la igualdad sustantiva con respecto a los niños y a los adolescentes; y, en general, con toda la sociedad.
+Las normas aplicables a las niñas y a las adolescentes deberán diseñarse, interpretarse y aplicarse con perspectiva de género, enfoque de derechos humanos y estar dirigidas a visibilizar, promover, respetar, proteger, garantizar y restituir en su caso, sus derechos en aras de alcanzar la igualdad sustantiva con respecto a los niños y a los adolescentes; y, en general, con toda la sociedad.
 
 ### Capítulo Sexto.. Del Derecho a no ser discriminado
 
@@ -1202,11 +1218,11 @@ Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda form
 
 Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza positiva de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el castigo humillante.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 44.
 
-Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender investigar, perseguir y sancionar conforme a derecho corresponda, los casos en que niñas, niños o adolescentes se vean afectados por:
+Las autoridades y los órganos político administrativos, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender, investigar, perseguir y sancionar conforme a derecho corresponda, los casos en que niñas, niños o adolescentes se vean afectados por:
 
 I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
 
@@ -1234,11 +1250,13 @@ VII. La desaparición forzada de personas;
 
 VIII. El trabajo antes de la edad mínima de quince años, y particularmente el trabajo infantil desempeñado en las calles, avenidas, ejes viales, espacios públicos o privados, medios de transporte o cualquier vía de circulación;
 
-IX. El trabajo en adolescentes mayores de quince años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2020)</small>
+IX. El trabajo que perjudique su salud, su educación o impida su desarrollo físico o mental, implique explotación laboral, las peores formas de trabajo infantil o trabajo forzoso.
 
-Se entiende por las peores formas de trabajo infantil a las relativas a: la esclavitud, trata infantil, servidumbre por deudas, la condición de siervo, trabajo forzoso, explotación sexual y la participación en actividades ilícitas;
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+IX Bis. En el caso de niñas, niños o adolescentes mayores de quince y menores de dieciséis años, deberán contar con la autorización para trabajar de sus padres, tutores o de la autoridad competente establecida por la Ley en la materia.
 
 > <small>(REFORMADA, G.O. 21 DE ABRIL DE 2023)</small>
 
@@ -1248,9 +1266,9 @@ X. La incitación o coacción para que participen en la comisión de delitos o e
 
 XI. El castigo corporal y/o humillante; y
 
-> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-XII. Contenidos en los medios de comunicación y redes sociales que afecten o impidan objetivamente el desarrollo integral de niñas, niños y adolescentes, o que hagan apología del delito, en contravención al principio de interés superior de la niñez; y
+XII. La violencia digital y mediática, así como los contenidos en los medios de comunicación y redes sociales que afecten o impidan objetivamente el desarrollo integral de niñas, niños y adolescentes, o que hagan apología del delito, en contravención al principio del interés superior de la niñez; y
 
 > <small>(ADICIONADA, G.O. 19 DE JULIO DE 2024)</small>
 
@@ -3251,3 +3269,41 @@ G.O. 24 DE DICIEMBRE DE 2025.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO SE ADICIONA UN ARTÍCULO 20 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 44 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables de Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IX Y SE ADICIONA LA FRACCIÓN IX BIS DEL ARTÍCULO 44 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN LAS FRACCIONES I, V, VI Y X DEL ARTÍCULO 34, ASÍ COMO EL ARTÍCULO 35 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
