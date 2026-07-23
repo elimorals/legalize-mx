@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2025-12-30"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIA: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -362,6 +362,10 @@ XXII BIS. Criador: La persona física o moral que realiza las actividades de rep
 
 XXII BIS 1. Criadero: Lugar destinado a la reproducción y crianza con fines de venta, cuya actividad se encuentra regulada por esta Ley y demás legislación aplicable;
 
+> <small>(ADICIONADA, G.O. 23 DE JUNIO DE 2026)</small>
+
+XXII BIS 2. Distintivo de Lugar Abierto a Animales de Compañía: Reconocimiento otorgado por la Agencia de Atención Animal a los establecimientos mercantiles a los que se refiere el artículo 10 de la Ley de Establecimientos Mercantiles para la Ciudad de México, que acrediten el cumplimiento de las condiciones de bienestar animal y trato digno y respetuoso, así como de salud, seguridad e higiene necesarias para permitir el acceso y permanencia de animales de compañía durante la estancia de las personas usuarias o clientes;
+
 XXIII. (DEROGADA [N. DE E. REPUBLICADA SU DEROGACIÓN], G.O. 18 DE ABRIL DE 2024)
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
@@ -412,6 +416,12 @@ XXV Bis 7. Espectáculo taurino sin violencia. La realización de corridas de to
 
 XXVI. Instrumentos económicos: Los estímulos fiscales, financieros y administrativos que expidan las autoridades de la Ciudad de México, de conformidad con la normativa aplicable, en las materias de la presente Ley;
 
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+XXVI BIS. Interés Superior de los Seres Sintientes: Es el principio rector, de derecho y de regla procedimental, conforme al cual, en toda decisión, interpretación, actuación, de política pública, acto administrativo, proceso, procedimiento o medida que afecte directa o indirectamente a los animales, deberá priorizarse como consideración primordial la protección de su bienestar integral, de su vida y de su integridad física y psicoemocional, atendiendo a sus necesidades etológicas, condiciones de salud, ambiente, estado mental y entorno del ser sintiente.
+
+Este principio operará como criterio de ponderación reforzada en los conflictos entre intereses humanos y aquellos que involucren a seres sintientes, en el entendido de que toda restricción a su bienestar deberá estar expresamente prevista en la ley, ser necesaria y proporcional, y contemplar medidas para minimizar su sufrimiento, conforme a criterios científicos y técnicos aplicables.
+
 > <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
 
 XXVII. Ley: La Ley de Protección y Bienestar de los Animales de la Ciudad de México;
@@ -461,6 +471,10 @@ XXXI BIS 1. Paseo de perros: acción de proporcionar a uno o más ejemplares can
 > <small>(ADICIONADA, G.O. 27 DE MARZO DE 2024)</small>
 
 XXXI BIS 2. Pensión: establecimiento legalmente constituido en el que se brindan servicios con fines de lucro de guarda y custodia temporal, alojamiento y alimentación de animales de compañía, perros para asistencia y perros o animales para terapia asistida, excluyendo toda clase de atención o servicio médico veterinario zootecnista. Se incluyen las llamadas guarderías y hoteles para animales de compañía;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+XXXI BIS 3. Persona Rescatista Independiente: Persona física que, de manera voluntaria y sin afiliación formal a dependencias gubernamentales ni a organizaciones de la sociedad civil, realiza actividades de rescate, rehabilitación y resguardo de animales de compañía en situación de abandono, maltrato o peligro. Estas actividades comprenden, entre otras, el rescate en la vía pública; la gestión de atención médico veterinaria con profesional autorizado, alimentaria y de bienestar; la búsqueda de hogares temporales o definitivos; y la promoción de la adopción responsable. Su labor se financia principalmente con recursos propios o donaciones y se sustenta en un compromiso personal con la protección y el bienestar animal;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -764,17 +778,21 @@ VII. Coordinar la creación y operación del Padrón de las Asociaciones Protect
 
 VII Bis. Coordinar con la Agencia y las Alcaldías la creación y operación del registro de prestadores de servicios, establecimientos mercantiles y escuelas de adiestramiento.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 18 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-VIII. Promover la participación ciudadana a través de sus órganos de representación ciudadana e instrumentos de participación, a fin de difundir la cultura y la protección a los animales; y
+VIII. Promover la participación ciudadana a través de sus órganos de representación ciudadana e instrumentos de participación, a fin de difundir la cultura y la protección a los animales;
 
 > <small>(ADICIONADA, G.O.17 DE DICIEMBRE DE 2019)</small>
 
 IX. Coordinar, supervisar y administrar la operación del Hospital Veterinario de la Ciudad de México, a través de la Agencia de Atención Animal de la Ciudad de México;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 18 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 23 DE JULIO DE 2026)</small>
 
-X. Las demás que esta Ley y aquellos ordenamientos jurídicos aplicables le confieran.
+X. Impulsar la difusión de información y la concientización sobre acciones de prevención y protección de los seres sintientes, en caso de emergencia o desastres naturales; y,
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 23 DE JULIO DE 2026)</small>
+
+XI. Las demás que esta Ley y aquellos ordenamientos jurídicos aplicables le confieren.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MARZO DE 2024)</small>
 
@@ -877,6 +895,10 @@ j) Detener y remitir ante la autoridad competente a las personas probables infra
 > <small>(ADICIONADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 III. Coadyuvar en el cumplimiento de las disposiciones de esta Ley;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+III Bis. Coadyuvar, previa solicitud de la Procuraduría, en el monitoreo de redes sociales y plataformas tecnológicas, dentro de los procedimientos de atención de denuncias, verificación y sanción que conforme a sus facultades este substanciando;
 
 > <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
 
@@ -1314,9 +1336,21 @@ IX. Abandonar a los animales en la vía pública o mantenerlos en situación de 
 
 X.- La matanza o sacrificio de animales para abasto en establecimientos que no cuenten con las autorizaciones, avisos o permisos necesarios para operar, en términos de las disposiciones aplicables en la materia;
 
-> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-XI.- Utilizar sustancias tóxicas o métodos abrasivos para producir lesiones o la muerte en animales; y
+XI. Utilizar sustancias tóxicas o métodos abrasivos para producir lesiones o la muerte en animales;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.O. 23 DE JULIO DE 2026)</small>
+
+XI Bis. Realizar prácticas de crianza selectiva o selección artificial y manipulación genética, de manera directa y comprobable, que provoquen sufrimiento, dolor crónico, discapacidad, alteraciones funcionales, enfermedades hereditarias graves o cualquier afectación que comprometa la salud, el bienestar o la integridad física de los animales.
+
+No se considerarán comprendidas en esta fracción las prácticas de mejoramiento genético realizadas en el marco de actividades productivas, pecuarias, acuícolas o apícolas reguladas, así como la reproducción legal y profesional del perro y gato, siempre que:
+
+a) Se apeguen a la normatividad sanitaria, ambiental y de bienestar animal aplicable;
+
+b) No generen afectaciones comprobables a la salud o integridad de los animales; y
+
+c) Se realicen bajo criterios técnicos, zootécnicos o veterinarios reconocidos.
 
 XII.- Las demás que establezcan la presente Ley y demás ordenamientos jurídicos aplicables.
 
@@ -1333,6 +1367,18 @@ Dicha reparación del daño, también consistirá en atención médica veterinar
 > <small>(ADICIONADO, G.O. 1 DE MARZO DE 2023)</small>
 
 Cuando el acto de maltrato consista en el abandono de un animal de compañía, las autoridades valorarán a través de atención médica veterinaria el estado en que el animal se encuentre; y si la persona dueña o cuidadora es apta para volver a tenerlo bajo su cuidado. Los gastos para la valoración médica del animal de compañía forman parte de la reparación del daño, así como los que se generen por el cuidado del animal de compañía en los centros de atención animal y/u hospitales con que disponga el Gobierno de la Ciudad.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2026)</small>
+
+###### Artículo 24 Ter.
+
+La Agencia administrará y controlará el Registro de Personas Maltratadoras de Animales, el cual contendrá los registros de las personas sancionadas por autoridad administrativa y sentenciadas por autoridad judicial, debido a causales de maltrato o crueldad animal establecidas en la legislación local.
+
+El Registro estará dispuesto de forma que pueda ser consultado en términos de la legislación aplicable en materia de transparencia y datos personales.
+
+El Registro de Personas Maltratadoras de Animales se cargará, revisará y actualizará, a través de la coordinación interinstitucional entre las autoridades competentes y la Agencia.
+
+La información contenida en el Registro podrá ser utilizada para fines de adopción, crianza, reproducción y cualquier otro fin lícito relacionado con la prevención y erradicación del maltrato animal, así como para la protección y garantía del bienestar animal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -1473,6 +1519,12 @@ XXVII. Criar, enajenar o adquirir animales de compañía para consumo humano; y
 > <small>(ADICIONADA, G.O. 1 DE MARZO DE 2023)</small>
 
 XXVIII. La venta de animales mutilados con fines estéticos.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2026)</small>
+
+###### Artículo 25 Bis.
+
+Sólo podrán ofrecer, promover, publicar, o difundir la compra o venta de perros y gatos por medios electrónicos, redes sociales, plataformas digitales o cualquier tecnología de la información, las personas físicas o morales que cuenten con los registros y autorizaciones para comercializar; sin perjuicio del cumplimiento de las obligaciones previstas en el artículo 28 bis del presente ordenamiento.
 
 > <small>(REFORMADO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -2304,9 +2356,9 @@ c). Multa de 21 a 30 veces la Unidad de Medida y Actualización vigente, o arres
 
 d) Multa de 300 a 600 veces la Unidad de Medida y Actualización vigente, y arresto administrativo de 25 a 36 horas, por violaciones a lo dispuesto por el artículo 25, fracciones XXVI, XXVII y XXVIII de la presente Ley.
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-IV. Corresponde a la Procuraduría, siguiendo el procedimiento regulado por el artículo 56 párrafo primero de la presente Ley, imponer multa de 150 a 3000 veces la Unidad de Medida y Actualización vigente por violaciones a lo dispuesto en los artículos 25, fracciones V Bis y V Ter, 27, 27 Bis, 28, 28 Bis, 35 y 39 de la presente Ley.
+IV. Corresponde a la Procuraduría, siguiendo el procedimiento regulado por el artículo 56 párrafo primero de la presente Ley, imponer multa de 150 a 3000 veces la Unidad de Medida y Actualización vigente por violaciones a lo dispuesto en los artículos 25, fracciones V Bis, V Ter, 25 Bis, 27, 27 Bis, 28, 28 Bis, 35 y 39 de la presente Ley.
 
 > <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
 
@@ -2446,6 +2498,10 @@ III Bis 1. Implementar y administrar un padrón de las personas físicas y moral
 
 III Bis 2. Elaborar las bases para proporcionar tratamiento etológico a los animales alojados en las zonas de resguardo temporal de las Alcaldías, así como los lineamientos técnicos de operación a los que deberán sujetarse;
 
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+III Bis 3. Implementar, administrar y controlar el Registro de Personas Maltratadoras de Animales;
+
 > <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2017)</small>
 
 IV. Establecer convenios de concertación o de coordinación con instituciones públicas y privadas para el mejor cumplimiento de la presente Ley;
@@ -2546,9 +2602,15 @@ XXVI. Coordinar, supervisar y administrar la operación y regulación del funcio
 
 XXVI Bis. Crear, integrar y mantener actualizado el Registro de datos de perros de asistencia, así como de animales de terapia; de las personas asistidas por ellos, o bien del manejador que participa en las intervenciones;
 
-> <small>(ADICIONADA, G.O. 27 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, G.O. 23 DE JUNIO DE 2026)</small>
 
-XXVI Ter. Crear y administrar un Padrón de las instituciones o centros nacionales que se dediquen al adiestramiento de perros de asistencia, y;
+XXVI Ter. Crear y administrar un Padrón de las instituciones o centros nacionales que se dediquen al adiestramiento de perros de asistencia;
+
+> <small>(ADICIONADA, G.O. 23 DE JUNIO DE 2026)</small>
+
+XXVI Quater. Establecer, en coordinación con la Secretaría de Salud y la Secretaria de Desarrollo Económico, los lineamientos y criterios aplicables a los establecimientos mercantiles que, de manera voluntaria, deseen participar en el procedimiento para obtener el Distintivo de Lugar Abierto a Animales de Compañía. Estos lineamientos serán administrados mediante el sistema informático que diseñe o implemente la Agencia;
+
+Los establecimientos mercantiles interesados deberán presentar la solicitud correspondiente y realizar las adecuaciones de infraestructura necesarias para garantizar un trato digno y respetuoso hacia los animales de compañía, conforme a los requisitos establecidos para la entrega de dicha distinción; y
 
 (REUBICADA [N. DE E. REUBICADA Y REFORMADA], G.O.17 DE DICIEMBRE DE 2019)
 
@@ -3041,3 +3103,43 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su prom
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Dentro de los 180 días hábiles siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PROTECCIÓN Y DE BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, la Secretaría del Medio Ambiente de la Ciudad de México, por conducto de la Agencia de Atención Animal, deberá realizar las adecuaciones tecnológicas, administrativas y normativas necesarias para la implementación, operación e inicio del Registro de Personas Maltratadoras de Animales.
+
+CUARTO. Dentro de los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
+
+QUINTO. La implementación y operación del Registro de Personas Maltratadoras de Animales a que se refieren los artículos 24 Ter y 73, fracción III Bis 3, del presente Decreto, se realizará conforme a la disponibilidad presupuestal de la Agencia de Atención Animal y de las Unidades Responsables del Gasto, sin que se autoricen ampliaciones presupuestales ni recursos adicionales para tales efectos.
+
+SEXTO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JUNIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXVI TER DEL ARTÍCULO 73; ASIMISMO SE ADICIONA UNA FRACCIÓN XXII BIS 2 AL ARTÍCULO 4; Y, UNA FRACCIÓN XXVI QUATER AL ARTÍCULO 73, TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO Y SE ADICIONA UNA FRACCIÓN VIII TER AL APARTADO A DEL ARTÍCULO 10 DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Dentro de los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
+
+CUARTO.– En un plazo no mayor a ciento ochenta días hábiles contados a partir de la publicación del presente Decreto en la Gaceta Oficial de la Ciudad de México, la Agencia de Atención Animal de la Ciudad de México deberá emitir los lineamientos y criterios aplicables a los establecimientos mercantiles que, de manera voluntaria, deseen participar en el procedimiento para obtener el Distintivo de Lugar Abierto a Animales de Compañía.
+
+QUINTO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES VIII Y X DEL ARTÍCULO 9; Y, SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 9; Y TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
