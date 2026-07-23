@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2026-06-05"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -198,7 +198,9 @@ C. Derecho a la reparación integral
 
 Artículo 6
 
-Ciudad de libertades y derechos
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
+
+Ciudad de Libertades y Derechos
 
 A. Derecho a la autodeterminación personal
 
@@ -226,9 +228,13 @@ D. Derechos de las familias
 
 3. Se implementará una política pública de atención y protección a las familias de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
 E. Derechos sexuales
 
 Toda persona tiene derecho a la sexualidad; a decidir sobre la misma y con quién compartirla; a ejercerla de forma libre, responsable e informada, sin discriminación, con respeto a la preferencia sexual, la orientación sexual, la identidad de género, la expresión de género y las características sexuales, sin coerción o violencia; así como a la educación en sexualidad y servicios de salud integrales, con información completa, científica, no estereotipada, diversa y laica. Se respetará la autonomía progresiva de niñas, niños y adolescentes.
+
+Todas las niñas, mujeres y personas menstruantes tienen derecho a desarrollar el proceso biológico de la menstruación en condiciones dignas, seguras e informadas, libre de toda violencia y discriminación motivadas por el género y los estereotipos. Las autoridades fomentarán de forma progresiva y armónica el ejercicio de este derecho.
 
 F. Derechos reproductivos
 
@@ -660,7 +666,9 @@ Se regirá por los principios de certeza, independencia, legalidad, imparcialida
 
 La ley determinará el procedimiento que se deberá observar en la instancia conciliatoria, así como las reglas para que los convenios laborales adquieran condición de cosa juzgada para su ejecución. En todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto.
 
-11. Las autoridades impulsarán la constitución y funcionamiento de cooperativas de las personas trabajadoras y otras formas de organización productiva del sector social de la economía, que contribuyan al desarrollo económico de la Ciudad y el mejoramiento de las condiciones de vida de sus habitantes.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
+11. Las autoridades impulsarán la constitución y el funcionamiento de sociedades cooperativas de las personas trabajadoras, de servicios de cuidados y de otras formas de organización productiva del sector social de la economía, que contribuyan al desarrollo económico de la Ciudad y el mejoramiento de las condiciones de vida de sus habitantes.
 
 12. Las personas trabajadoras no asalariadas, prestadoras de servicios por cuenta propia, que producen bienes y artesanías y comerciantes, tienen derecho a realizar un trabajo digno y a poseer una identidad formal en la Ciudad de México, a asociarse para defender sus intereses, recibir capacitación, y las demás que establezca la legislación en la materia.
 
@@ -1512,9 +1520,17 @@ Existirá un fondo para que las alcaldías cuenten con recursos para uso exclusi
 
 5. En la preservación, protección, conservación, revalorización, restauración, gestión, uso sustentable, disfrute y las demás actividades relativas al patrimonio, el Gobierno de la Ciudad promoverá y apoyará la participación de organismos, organizaciones sociales, vecinales, instituciones educativas, culturales y de especialistas. El incumplimiento de las previsiones contenidas en el mismo, quedará sujeto a las sanciones establecidas en la ley.
 
-B. Patrimonio de la humanidad en la ciudad
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-1. Las autoridades de la Ciudad, en coordinación con las autoridades federales, adoptarán medidas para la conservación y gestión de los sitios declarados patrimonio de la humanidad en la Ciudad y de los susceptibles de serlo, así como de aquellas relacionadas con el patrimonio inmaterial.
+B. Patrimonio de la humanidad de la ciudad
+
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
+1. Las autoridades de la Ciudad, en coordinación con las autoridades federales, adoptarán medidas para conservación y gestión de los sitios declarados patrimonio de la humanidad en la Ciudad y de los susceptibles de serlo, así como aquellas relacionadas con el patrimonio inmaterial.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2026)</small>
+
+En el caso del Patrimonio Cultural Inmaterial inscrito en la Lista Representativa de la Humanidad por la UNESCO, las autoridades de la Ciudad, en el ámbito de sus competencias y en coordinación con las autoridades federales, deberán garantizar de manera progresiva su salvaguardia mediante acciones y planes de carácter general, en concordancia con los tratados internacionales, promoviendo la participación efectiva de las comunidades portadoras, con enfoque de igualdad sustantiva, perspectiva de género e interseccionalidad, y reconociendo el papel relevante de las mujeres en la transmisión y continuidad de las prácticas culturales vivas.
 
 2. El Gobierno de la Ciudad creará órganos de coordinación para la protección y conservación de los sitios declarados patrimonio de la humanidad en la ciudad, mediante acciones de gobierno, desarrollo económico, cultural, social, urbano, rural y ambiental. Las leyes y reglamentos establecerán su ámbito de jurisdicción, presupuesto y funciones.
 
@@ -5003,3 +5019,33 @@ QUINTO.- En tanto no hayan sido realizadas las modificaciones a la legislación 
 SEXTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal y subsecuentes.
 
 SÉPTIMO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 6 APARTADO E) DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO: Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación de la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO: Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 10, APARTADO B), NUMERAL 11 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO: Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO: Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO AL NUMERAL 1, APARTADO B DEL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO: Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO: Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
