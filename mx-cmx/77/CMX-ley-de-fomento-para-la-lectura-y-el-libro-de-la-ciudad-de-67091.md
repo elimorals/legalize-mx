@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-la-lectura-y-el-libro-de-la-ciudad-de-67091
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2025-04-11"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67091&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-02-25"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 4 de marzo de 2009.
 
@@ -69,6 +69,10 @@ La presente ley tiene por objeto:
 I. Contribuir a erradicar los distintos grados de analfabetismo presentes en diversos grupos poblacionales de la Ciudad de México.
 
 II. Fomentar la lectura como medio de igualación social.
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+II Bis. Promover el uso de libros electrónicos.
 
 III. Aportar elementos para elevar la calidad y el nivel de la educación.
 
@@ -123,6 +127,10 @@ II. Distribución: Actividad de intermediación entre el editor y el vendedor de
 > <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
 III. Libro: Toda publicación unitaria, no periódica, de carácter literario, artístico, científico, técnico, educativo, informativo o recreativo, impresa en cualquier soporte, cuya edición se haga en su totalidad de una sola vez en un volumen o a intervalos en varios volúmenes o fascículos. Comprende también los materiales complementarios en cualquier tipo de soporte, incluido el electrónico, que conformen, conjuntamente con el libro, un todo unitario que no pueda comercializarse separadamente.
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+III Bis. Libro electrónico: Publicación unitaria, no periódica de carácter literario, artístico, científico, técnico, educativo, informativo o recreativo cuyo soporte es un archivo electrónico o cuyo texto se presenta en formato digital y se almacena en un dispositivo electrónico o se visualiza en internet.
 
 > <small>(REFORMADA, G.O. 20 DE JULIO DE 2011)</small>
 
@@ -205,6 +213,10 @@ VI. La Subsecretaría de Educación.
 > <small>(ADICIONADA, G.O. 27 DE MAYO DE 2022)</small>
 
 VII. La Dirección General de Planeación y Evaluación Estratégica.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2026)</small>
+
+Las autoridades encargadas de la aplicación de la presente Ley promoverán, en el ámbito de sus atribuciones, espacios de fomento a la lectura y el libro mediante el uso de tecnologías de la información y la comunicación.
 
 > <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -326,15 +338,19 @@ Corresponde al ejecutivo de la Ciudad de México garantizar las políticas y est
 
 Corresponde a la persona titular de la Jefatura de Gobierno a través de la Secretaría, la celebración de convenios y acuerdos con dependencias de las distintas ramas y órdenes de gobierno tanto federal como local con el fin de diseñar, planear, coordinar, aplicar y fortalecer políticas, programas, proyectos y acciones de fomento a la lectura del libro y su conservación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 11.
 
-Corresponde a las personas titulares de las Alcaldías:
+Corresponde a las Alcaldías:
 
 > <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2021)</small>
 
 I. Fomentar, promover, incentivar, vincular y difundir el material de lectura de manera constante y gradual, principalmente en zonas de alta marginalidad con la finalidad de desarrollar y fortalecer el hábito de la lectura. El material se deberá ofrecer de forma gratuita, sin fines de lucro y sin condicionamiento alguno.
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+I Bis. Promover, dentro de su demarcación territorial y en coordinación con la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México el uso de libros electrónicos.
 
 > <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -629,3 +645,13 @@ G.O. 11 DE ABRIL DE 2025.
 Primero. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para efectos de su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 2; LA FRACCIÓN III BIS AL ARTÍCULO 4; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 6 Y UNA FRACCIÓN I BIS AL ARTÍCULO 11 TODOS DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con la disponibilidad presupuestal existente y el presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
