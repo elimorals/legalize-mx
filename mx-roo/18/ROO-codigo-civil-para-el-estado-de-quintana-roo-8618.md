@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2024-10-09"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2026.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -1895,17 +1895,11 @@ La manifestación de la voluntad no existe si quien la emite es:
 
 a) Una niña o niño menor de siete años de edad;
 
-(NOTA: EL 24 DE JUNIO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2024, DECLARÓ LA INVALIDEZ DEL INCISO b) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE JUNIO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+b) Una persona mayor de edad, cuya voluntad no pueda ser manifestada y/o conocida por ningún medio, aun después de haber realizado esfuerzos reales, considerables y pertinentes y de haberle prestado las medidas de accesibilidad y ajustes razonables, conforme a las disposiciones en la materia.
 
-b) UNA PERSONA QUE POR CAUSA DE ENFERMEDAD REVERSIBLE O IRREVERSIBLE, O QUE, POR SU ESTADO PARTICULAR DE DISCAPACIDAD, YA SEA DE CARÁCTER FÍSICO, SENSORIAL, INTELECTUAL, EMOCIONAL, MENTAL O VARIAS DE ELLAS A LA VEZ, NO PUEDAN GOBERNARSE, OBLIGARSE O MANIFESTAR SU VOLUNTAD, POR SÍ MISMAS O POR ALGÚN MEDIO QUE LA SUPLA.
-
-(NOTA: EL 24 DE JUNIO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2024, DECLARÓ LA INVALIDEZ DEL INCISO c) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE JUNIO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-c) LAS PERSONAS QUE, POR IMPEDIMENTOS FÍSICOS, NO LES PERMITAN COMUNICARSE EN FORMA ALGUNA, YA SEA VERBAL, ESCRITA, O MEDIANTE LENGUAJE MÍMICO.
+c) (DEROGADO, P.O. 23 DE JULIO DE 2026)
 
 d) Las personas que no sepan leer ni escribir, ni conozcan el idioma en que pudiera aparecer (sic) haber contratado.
 
@@ -2673,11 +2667,9 @@ Son incapaces:
 
 I. Las niñas, niños y adolescentes;
 
-II. Las personas mayores de edad enumeradas en los siguientes incisos de esta fracción;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2026)</small>
 
-a) Que por causa de enfermedad reversible, o por su estado particular de incapacidad, ya sea de carácter físico, sensorial, intelectual, emocional, mental o varias de ellas a la vez, no puedan gobernarse, obligarse o manifestar su voluntad, por sí mismas o por algún medio que la supla, y
-
-b) Las personas sordomudas que no sepan darse a entender por escrito o, mediante intérprete, por el lenguaje mímico en que se imparte instrucción escolar a las personas de su clase, y
+II. Una persona mayor de edad, cuya voluntad no pueda ser manifestada y/o conocida por ningún medio, aun después de haber realizado esfuerzos reales, considerables y pertinentes y de haberle prestado las medidas de accesibilidad y ajustes razonables, conforme a las disposiciones en la materia, y
 
 III. Las personas ebrias consuetudinarias y las que habitualmente hacen uso no terapéutico de enervantes, estupefacientes, psicotrópicos o de cualquiera otra sustancia que altere la conducta y produzca farmacodependencia.
 
@@ -3709,15 +3701,17 @@ Al escrito a que se refiere el artículo anterior se acompañará:
 
 I. El acta de nacimiento, identificación oficial o pasaporte de cada una de las personas contrayentes, así como la cédula única de registro poblacional;
 
-(NOTA: EL 24 DE JUNIO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE JUNIO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-II. Un certificado médico por cada persona contrayente, en el que asegure que no padece enfermedad o padecimiento crónico o incurable, que además sea contagioso y/o hereditario. DE ENCONTRARSE ENFERMA UNA O AMBAS PERSONAS CONTRAYENTES, EL CERTIFICADO MÉDICO DEBERÁ CONTENER LOS ALCANCES Y EFECTOS DE LAS MISMAS, ASÍ COMO SI EXISTE ALGÚN RIESGO Y LAS MEDIDAS PARA LA PREVENCIÓN DE LA ENFERMEDAD O PADECIMIENTO, DE TAL MANERA QUE, LAS PERSONAS ESTÉN DEBIDAMENTE INFORMADAS DE SU DECISIÓN, EN LOS TÉRMINOS QUE CORRESPONDA.
-
-Para las personas en situación de calle tienen obligación de expedir gratuitamente este certificado las personas médicas encargadas de los servicios de sanidad de carácter oficial, y
+II. (DEROGADA, P.O. 23 DE JULIO DE 2026)
 
 III. Copia de la dispensa de impedimentos, si los hubo.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2026)</small>
+
+Las autoridades del Registro Civil, de manera previa a la celebración del matrimonio fomentarán que las instituciones públicas del sector salud, promuevan, el acceso de las personas que pretendan contraer matrimonio a recibir orientación en materia de salud, con la finalidad de que reciban información sobre prevención de enfermedades, salud sexual y reproductiva, planificación familiar, salud materno-infantil, salud mental, prevención de adicciones y de la violencia familiar y demás temas relacionados con la protección y promoción de la salud integral de las personas contrayentes y de su futura familia. Además de lo anterior podrán informar empleando las medidas de accesibilidad correspondientes, los alcances del matrimonio.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2026)</small>
+
+La participación en dichas actividades por parte de los contrayentes será voluntaria y no constituirá requisito para la celebración del matrimonio ni afectará la solicitud de matrimonio.
 
 ###### Artículo 683.
 
@@ -3819,33 +3813,25 @@ III.- El atentado contra la vida de alguna de las personas casadas, para contrae
 
 IV.- El miedo grave. En caso de violencia en razón de género, subsistirá el impedimento entre la víctima y la persona generadora de violencia.
 
-V.- La embriaguez habitual;
+V.- (DEROGADA, P.O. 23 DE JULIO DE 2026)
 
-VI.- El uso no terapéutico de enervantes, estupefacientes o psicotrópicos o de cualquier otra sustancia que altere la conducta y produzca dependencia;
+VI.- (DEROGADA, P.O. 23 DE JULIO DE 2026)
 
-VII.- La impotencia por causa física para entrar en el estado matrimonial siempre que sea incurable;
+VII.- (DEROGADA, P.O. 23 DE JULIO DE 2026)
 
-VIII.- Cualquiera otra enfermedad crónica o incurable que sea además contagiosa y/o hereditaria;
+VIII.- (DEROGADA, P.O. 23 DE JULIO DE 2026)
 
-(NOTA: EL 24 DE JUNIO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2024, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE JUNIO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-IX.- LA ENFERMEDAD REVERSIBLE O IRREVERSIBLE, O QUE, POR SU ESTADO PARTICULAR DE DISCAPACIDAD, YA SEA DE CARÁCTER FÍSICO, SENSORIAL, INTELECTUAL, EMOCIONAL, MENTAL O VARIAS DE ELLAS A LA VEZ, IMPIDAN QUE ALGUNA PERSONA CONTRAYENTE, PUEDA GOBERNARSE, OBLIGARSE O MANIFESTAR SU VOLUNTAD, POR SÍ MISMA O POR ALGÚN MEDIO QUE LA SUPLA, Y
+IX.- (DEROGADA, P.O. 23 DE JULIO DE 2026)
 
 X.- El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer, o subsistente con ésta.
 
-(NOTA: EL 24 DE JUNIO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2024, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE JUNIO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 23 DE JULIO DE 2026)</small>
 
-EN EL CASO A QUE SE REFIERE LA FRACCIÓN II DEL ARTÍCULO 682 EN RELACIÓN A LAS FRACCIONES VII Y VIII DE ÉSTE ARTÍCULO, EL CERTIFICADO MÉDICO SERÁ DISPENSABLE, O TALES CUESTIONES DEJARÁN DE SER IMPEDIMENTO, CUANDO CONSTE LA MANIFESTACIÓN EXPRESA FRENTE A LA PERSONA JUZGADORA, POR CUALQUIER MEDIO, DE QUE AMBAS PERSONAS CONTRAYENTES, TIENEN CONOCIMIENTO DE LAS CIRCUNSTANCIAS ENUNCIADAS, ASÍ COMO DE SUS CONSECUENCIAS, Y QUE CONSIENTEN DE ESTAS, ESTANDO INFORMADAS PARA CONTRAER MATRIMONIO BAJO LAS MISMAS.
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2026)</small>
 
-(NOTA: EL 24 DE JUNIO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2024, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE JUNIO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
-
-DE IGUAL FORMA, PARA EL CASO DE LAS FRACCIONES V Y VI, TALES CIRCUNSTANCIAS PODRÁN SER TAMBIÉN DISPENSABLES, O DEJARÁN DE SER IMPEDIMENTO, CUANDO CONSTE LA MANIFESTACIÓN EXPRESA FRENTE A LA PERSONA JUZGADORA, POR CUALQUIER MEDIO, DE QUE AMBAS PERSONAS CONTRAYENTES, TIENEN CONOCIMIENTO DE LAS CIRCUNSTANCIAS ENUNCIADAS, ASÍ COMO DE SUS CONSECUENCIAS, Y QUE CONSIENTEN DE ESTAS, ESTANDO INFORMADAS PARA CONTRAER MATRIMONIO BAJO LAS MISMAS.
+Los efectos de la incapacidad a que se refiere la fracción III del artículo 529, no serán aplicables en materia de contrato de matrimonio.
 
 ###### Artículo 701.
 
@@ -4223,9 +4209,9 @@ Habrá nulidad relativa del matrimonio:
 
 I.- Por error cuando entendiendo un cónyuge celebrar su matrimonio con determinada persona lo contrae con otra;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2026)</small>
 
-II.- Cuando se haya celebrado concurriendo alguno de los impedimentos enumerados en las fracciones III, IV, V, VI, VII, VIII, IX, del artículo 700;
+II.- Cuando se haya celebrado concurriendo alguno de los impedimentos enumerados en las fracciones III y IV del artículo 700;
 
 III.- Cuando se haya celebrado sin observar las formalidades señaladas en los artículos 685 y 688.
 
@@ -4275,17 +4261,13 @@ III.- Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
 
 La acción que nace de esta causa de nulidad sólo puede deducirse por el cónyuge agraviado, dentro de los sesenta días contados a partir de la fecha en que cesó la violencia o intimidación.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
-
 ###### Artículo 779.
 
-La nulidad que se funde en alguna de las causas expresadas en las fracciones V a VIII del artículo 700, sólo puede ser pedida por cualquiera de los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+(DEROGADO, P.O. 23 DE JULIO DE 2026)
 
 ###### Artículo 780.
 
-Tiene derecho de pedir la nulidad que se funde en la fracción IX del artículo 700, el otro cónyuge o el tutor del incapacitado.
+(DEROGADO, P.O. 23 DE JULIO DE 2026)
 
 ###### Artículo 781.
 
@@ -18212,3 +18194,11 @@ P.O. 9 DE OCTUBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 258 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO".]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente decreto.
