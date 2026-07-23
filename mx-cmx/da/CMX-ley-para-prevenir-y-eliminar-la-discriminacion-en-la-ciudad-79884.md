@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-prevenir-y-eliminar-la-discriminacion-en-la-ciudad-798
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-24"
-last_updated: "2024-11-29"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79884&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-02-23"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de febrero de 2011.
 
@@ -586,7 +586,9 @@ Los entes públicos, en el ámbito de su competencia y atribuciones, llevarán a
 
 I. Garantizar que sean tomadas en cuenta sus necesidades y experiencias en todos los programas destinados a erradicar la pobreza y asegurar espacios para su participación en el diseño, implementación, seguimiento y evaluación de los programas y políticas públicas correspondientes;
 
-II. Fomentar la educación contra la discriminación, que promueva los valores de diversidad, tolerancia y respeto a las diferencias, económicas, sociales, culturales y religiosas;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+II. Fomentar la educación en materia de prevención y eliminación de toda forma de discriminación, así como promover los valores de diversidad, tolerancia y respeto a las diferencias económicas, sociales, culturales, religiosas, de género y de estado de salud, con el propósito de garantizar la inclusión y la igualdad de personas;
 
 III. Diseñar y desarrollar campañas de promoción y educación para concientizar a la población acerca del fenómeno de la discriminación, el respeto a la diversidad y el ejercicio de la tolerancia;
 
@@ -2539,3 +2541,13 @@ G.O. 29 DE NOVIEMBRE DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 13 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
