@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-136644"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2026-04-10"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136644&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-06-07"
 
 LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en el Número 108 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 7 de junio de 2019.
 
@@ -900,11 +900,17 @@ V. Impartición de pláticas a vecinos o educandos, relacionadas con la conviven
 
 VI. Participar en talleres, exposiciones, muestras culturales, artísticas y/o deportivas en espacios públicos que determine la Consejería.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 23 DE JULIO DE 2026)</small>
+
 VII. Asistir a los cursos, terapias, talleres diseñados para corregir su comportamiento, en materias como autoestima, escuela para padres, relación de pareja, cultura de la paz, prevención de las adicciones, prevención de la violencia familiar, equidad de género, cultura vial, y los que determine la Consejería.
 
 Dichas actividades podrán realizarse en las dependencias de la administración pública o en las instituciones educativas, sociales o privadas que determine la Consejería; y
 
-VIII. Las demás que determine la Consejería.
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+VIII. Realizar actividades de protección y bienestar animal que promuevan la tenencia responsable y el respeto a todas las formas de vida, tales como apoyo en refugios, albergues o centros públicos de atención animal, campañas de salud animal, esterilización, vacunación, rehabilitación de áreas caninas en los parques de la Ciudad de México; y
+
+IX. Las demás que determine la Consejería.
 
 ###### Artículo 45.
 
@@ -1947,3 +1953,11 @@ G.O. 10 DE ABRIL DE 2026.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VII Y SE ADICIONA UNA FRACCIÓN VIII, RECORRIÉNDOSE LA ACTUAL FRACCIÓN VIII PARA QUEDAR COMO FRACCIÓN IX, AL ARTÍCULO 44 DE LA LEY DE CULTURA CÍVICA ´DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
