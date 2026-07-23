@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-vivienda-para-la-ciudad-de-mexico-120451"
 country: "mx"
 rank: "ley"
 publication_date: "2017-03-23"
-last_updated: "2026-07-22"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120451&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-02-28"
 
 LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 23 de marzo de 2017.
 
@@ -609,6 +609,10 @@ d) Requiere de un espacio adecuado en donde vivir;
 e) Vive en condiciones de hacinamiento;
 
 f) Cuya vivienda está construida parcial o totalmente con materiales precarios, o requiere mantenimiento.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2026)</small>
+
+g) No sea propietaria de una vivienda y pertenezca a grupos de atención prioritaria.
 
 III. Incrementar los recursos públicos destinados al desarrollo de los Programas de Vivienda;
 
@@ -1493,3 +1497,13 @@ G.O. 22 DE JULIO DE 2026.
 PRIMERO.– Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.– El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL INCISO G) A LA FRACCIÓN II DEL ARTÍCULO 26 DE LA LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
