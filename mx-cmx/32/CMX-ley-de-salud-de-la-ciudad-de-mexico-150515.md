@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-de-la-ciudad-de-mexico-150515"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-09"
-last_updated: "2026-05-12"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150515&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2021-08-06"
 
 LEY DE SALUD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en el No. 657 de la Gaceta Oficial de la Ciudad de México, el lunes 9 de agosto de 2021.
 
@@ -144,6 +144,10 @@ VIII. El desarrollo de la enseñanza e investigación científica y tecnológica
 
 IX. La garantía de seguridad sanitaria a todas las personas en esta entidad.
 
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+X. El autocuidado.
+
 (REPUBLICADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2022)
 
 ###### Artículo 5.
@@ -211,6 +215,10 @@ VIII. Atención Médica Integral: conjunto de actividades realizadas por el pers
 IX. Atención Prehospitalaria de las Urgencias Médicas: conjunto de acciones médicas otorgadas al paciente cuya condición clínica se considera que pone en peligro la vida, un órgano o su función con el fin de lograr la limitación del daño y su estabilización orgánico-funcional desde el primer contacto hasta la llegada y entrega a un establecimiento para la atención médica con servicios de urgencia;
 
 X. Atención Primaria de Salud: asistencia esencial, basada en métodos y tecnologías prácticos, científicamente fundados y socialmente aceptables, puesta al alcance de todos los individuos y familias de la comunidad mediante su plena participación, y a un costo que la comunidad y Gobierno puedan soportar, en todas y cada una de las etapas de su desarrollo, con espíritu de autorresponsabilidad y autodeterminación, orienta sus funciones y estructura a los valores de la equidad, la solidaridad social, y el derecho de todo ser humano a gozar del grado máximo de salud que se pueda alcanzar sin distinción de origen étnico, religión, ideología política, género, condición económica o social;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+X BIS. Autocuidado: dimensión del derecho al cuidado que comprende la capacidad de toda persona de procurar su propio bienestar físico, mental, emocional y relacional;
 
 XI. Catálogo de Medicamentos e Insumos: documento en el que se agrupan, caracterizan y codifican todos los medicamentos, el material de curación, el instrumental, el equipo médico y los auxiliares de diagnóstico empleados por el Sistema de Salud para otorgar servicios a la población;
 
@@ -472,7 +480,11 @@ XXIX. A la atención integral de cáncer de mama, con base a los criterios que e
 
 XXX. Acceder al servicio público de atención prehospitalaria de urgencias médicas; y,
 
-XXXI. Los demás que le sean reconocidos en las disposiciones legales aplicables.
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+XXXI. La atención integral del cáncer de ovario y de endometrio, conforme a los protocolos, lineamientos, programas y guías clínicas vigentes, para la atención de cánceres ginecológicos; y,
+
+XXXII. Los demás que le sean reconocidos en las disposiciones legales aplicables.
 
 ###### Artículo 13.
 
@@ -686,7 +698,9 @@ x) El desarrollo de programas para la atención especializada y multidisciplinar
 
 y) El desarrollo de programas de salud contra las adicciones y la farmacodependencia, en coordinación con la Secretaría Federal y en los términos de los programas aplicables en la materia;
 
-z) La prevención, detección y atención del cáncer de mama, cervicouterino, próstata, testicular, infantil y otros;
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
+z) La prevención, detección y atención del cáncer de mama, de ovario y de endometrio, cervicouterino, próstata, testicular, infantil y otros.
 
 > <small>(REFORMADO, G.O. 27 DE AGOSTO DE 2025)</small>
 
@@ -1434,13 +1448,17 @@ El Gobierno, a través de la Secretaría, aplicará anualmente la vacuna contra 
 
 ### CAPÍTULO VIII. PREVENCIÓN Y ATENCIÓN DEL CÁNCER
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 70.
 
-Para efectos del presente capítulo, se entiende por cáncer al tumor maligno en general que se caracteriza por la pérdida en el control de crecimiento, desarrollo y multiplicación celular con capacidad de producir metástasis.
+Para efectos del presente capítulo, se entiende por cáncer, neoplasia o tumor maligno, al conjunto de enfermedades que se caracterizan por el crecimiento celular anormal descontrolado, desencadenado por una serie de mutaciones genéticas adquiridas o inducidas por factores internos o externos, con la capacidad de invadir y reproducirse de forma descontrolada, así como de diseminarse por vía linfática sanguínea y por contigüidad a cualquier órgano o tejido; a este proceso se le denomina metástasis.
+
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 71.
 
-En la Ciudad se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables, niñas, niños y adolescentes con cáncer, mujeres con cáncer uterino o de mama y hombres con cáncer de próstata.
+En la Ciudad se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables, niñas, niños y adolescentes con cáncer, personas con cáncer uterino, de ovario, de endometrio, de mama y próstata.
 
 ###### Artículo 72.
 
@@ -1697,6 +1715,12 @@ Se cancelará el acceso gratuito a los servicios de salud, medicamentos y demás
 I. Realice acciones en perjuicio del acceso a los servicios gratuitos de salud, medicamentos y demás insumos asociados para las personas sin seguridad social, o afecte los intereses de terceros, y
 
 II. Proporcione información falsa para determinar su condición laboral o de beneficiario de la seguridad social.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2026)</small>
+
+###### Artículo 99 Bis.
+
+El Sistema de Salud de la Ciudad de México, impulsará programas que promuevan el acceso a la salud integral de las personas en situación de calle, con un enfoque de igualdad sustantiva, no discriminación y trato digno.
 
 > <small>(REFORMADA SE DENOMINACIÓN [N. DE E. ADICIONADA SU DENOMINACIÓN], G.O. 19 DE ENERO DE 2023)</small>
 
@@ -2228,7 +2252,9 @@ Corresponde a la Secretaría, en coordinación con la Secretaría de Gobierno, i
 
 Los centros femeniles de reclusión contarán de forma permanente con servicios médicos de atención integral de la salud materno infantil. Para tal efecto, la Secretaría tendrá, entre otras, las siguientes atribuciones:
 
-I. Elaborar programas de salud integral de las mujeres, desde una perspectiva de género, poniendo énfasis en la salud sexual y reproductiva, que consideren como mínimo la realización de estudios de detección de enfermedades y atención de cáncer de mama y cervicouterino, así como de VIH/SIDA para quienes lo soliciten, además de llevar a cabo campañas informativas de salud materno-infantil;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+I. Elaborar programas de salud integral de las mujeres, desde una perspectiva de género, poniendo énfasis en la salud sexual y reproductiva, que consideren como mínimo la realización de estudios de detección de enfermedades y atención de cáncer de mama, ovario, endometrio y cervicouterino, así como de VIH/SIDA para quienes lo soliciten, además de llevar a cabo campañas informativas de salud materno-infantil;
 
 II. Facilitar el acceso oportuno, bajo consentimiento informado, a métodos anticonceptivos, anticoncepción de emergencia, interrupción legal del embarazo y de información sobre atención materno-infantil;
 
@@ -3039,6 +3065,36 @@ TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 G.O. 12 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 108 Y SE ADICIONA EL ARTÍCULO 102 BIS DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 99 BIS A LA LEY DE SALUD DE LA CIUDAD DE MÉXICO, EN MATERIA DE ACCESO A LA SALUD DE LAS PERSONAS EN SITUACIÓN DE CALLE".]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL INCISO Z) DE LA FRACCIÓN I DEL ARTÍCULO 19, ASÍ COMO LOS ARTÍCULOS 70, 71 Y LA FRACCIÓN I DEL ARTÍCULO 144; Y SE ADICIONA AL ARTÍCULO 12, UNA FRACCIÓN XXXI Y SE RECORRE LA SUBSECUENTE, TODOS DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 4 ASÍ COMO LA FRACCIÓN X BIS AL ARTÍCULO 6, AMBOS DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
