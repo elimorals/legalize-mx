@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-albergues-publicos-y-privados-para-ninas-y-ninos-del-878
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-24"
-last_updated: "2023-12-06"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87873&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2012-05-21"
 ---
 # LEY DE ALBERGUES PUBLICOS Y PRIVADOS PARA NIÑAS Y NIÑOS DEL DISTRITO FEDERAL
 
-LEY DE ALBERGUES PÚBLICOS Y PRIVADOS PARA NIÑAS Y NIÑOS DEL DISTRITO FEDERAL
+LEY DE ALBERGUES PÚBLICOS Y PRIVADOS PARA NIÑAS Y NIÑOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 24 de mayo de 2012.
 
@@ -46,21 +46,29 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE ALBERGUES PÚBLICOS Y PRIVADOS PARA NIÑA
 
 ÚNICO: Se expide la LEY DE ALBERGUES PÚBLICOS Y PRIVADOS PARA NIÑAS Y NIÑOS DEL DISTRITO FEDERAL para quedar como sigue:
 
-LEY DE ALBERGUES PÚBLICOS Y PRIVADOS PARA NIÑAS Y NIÑOS DEL DISTRITO FEDERAL.
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE JULIO DE 2026)</small>
+
+Ley de Albergues Públicos y Privados para Niñas y Niños de la Ciudad de México
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 1º.
 
-La presente Ley es de orden público e interés social y de observancia general en el Distrito Federal y tiene por objeto regular el funcionamiento de los albergues públicos y privados, sin fines de lucro que tienen un fin preeminentemente de asistencia social que tengan bajo su cuidado a niñas y niños en el Distrito Federal, para garantizar su integridad física, psicológica y su situación jurídica.
+La presente Ley es de orden público e interés social y de observancia general en la Ciudad de México y tiene por objeto regular el funcionamiento de los albergues públicos y privados, sin fines de lucro que tienen un fin preeminentemente de asistencia social que tengan bajo su cuidado a niñas y niños en la Ciudad de México, para garantizar su integridad física, psicológica y su situación jurídica.
 
 ###### Artículo 2º.
 
 La aplicación y seguimiento de esta Ley corresponde:
 
-I. Al Jefe de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-II. A la Secretaría de Desarrollo Social;
+I. Persona titular de la Jefatura de Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+II. A la Secretaría de Bienestar e Igualdad Social;
 
 III. A la Secretaría de Salud;
 
@@ -68,13 +76,21 @@ IV. A la Secretaría de Educación;
 
 V. A la Secretaría de Protección Civil;
 
-VI. A los titulares de los Órganos Político-Administrativos;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-VII. Al Sistema para el Desarrollo Integral de la Familia del Distrito Federal;
+VI. A las personas titulares de los Órganos Político-Administrativos;
 
-VIII. A la Procuraduría General de Justicia del Distrito Federal, y
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-IX. Al Instituto de Verificación Administrativa del Distrito Federal, en su ámbito de competencia.
+VII. Al Sistema para el Desarrollo Integral de la Familia de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+VIII. A la Fiscalía General de Justicia de la Ciudad de México, y
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+IX. Al Instituto de Verificación Administrativa de la Ciudad de México, en su ámbito de competencia.
 
 > <small>(ADICIONADA, G.O. 6 DE DICIEMBRE DE 2023)</small>
 
@@ -90,31 +106,47 @@ II. Autoridad: Cualquiera de las referidas en el artículo segundo, de esta Ley.
 
 III. Certificado: el documento expedido por el órgano político-administrativo a favor del albergue privado que cumpla con los requisitos establecidos por la presente Ley.
 
-IV. Delegación: al órgano político-administrativo de cada demarcación territorial en el Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-V. DIF-DF: al Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
+IV. Alcaldía: al órgano político-administrativo de cada demarcación territorial en la Ciudad de México.
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+V. DIF-CDMX: al Sistema para el Desarrollo Integral de la Familia de la Ciudad de México.
 
 VI. IASIS: al Instituto de Asistencia e Integración Social del Distrito Federal.
 
 VII. INVEA: al Instituto de Verificación Administrativa del Distrito Federal.
 
-VIII. Ley: a la Ley de Albergues Públicos y Privados para Niñas y Niños del Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+VIII. Ley: a la Ley de Albergues Públicos y Privados para Niñas y Niños de la Ciudad de México.
 
 IX. Niña o Niño: aquellas personas menores de dieciocho años.
 
-X. Defensoría: A la Defensoría de los Derechos de la Infancia del Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+X. Defensoría: a la Defensoría de los Derechos de la Infancia de la Ciudad de México.
 
 XI. Residente: a la niña o niño, que por diversas causas se encuentra interno en algún albergue público o privado.
 
 XII. Secretaría de Desarrollo Social: Secretaría de Desarrollo Social del Distrito Federal.
 
-XIII. Secretaría de Educación: Secretaría de Educación del Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-XIV. Secretaría de Protección Civil: a la Secretaría de Protección Civil del Distrito Federal.
+XIII. Secretaría de Educación: Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México.
 
-XV. Secretaría de Salud: Secretaría de Salud del Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-XVI. Visitas de inspección: son las visitas realizadas por las autoridades competentes en el Distrito Federal, para comprobar el cumplimiento de las disposiciones en materia de protección civil y salud. Dichas visitas se sujetarán a los principios de unidad, funcionalidad, honestidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia, imparcialidad y autocontrol de los privados.
+XIV. Secretaría de Protección Civil: a la Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México.
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+XV. Secretaría de Salud: Secretaría de Salud de la Ciudad de México.
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+XVI. Visitas de inspección: son las visitas realizadas por las autoridades competentes en la Ciudad de México, para comprobar el cumplimiento de las disposiciones en materia de protección civil y salud. Dichas visitas se sujetarán a los principios de unidad, funcionalidad, honestidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia, imparcialidad y autocontrol de los privados.
 
 > <small>(ADICIONADA, G.O. 6 DE DICIEMBRE DE 2023)</small>
 
@@ -136,23 +168,31 @@ II. Vigilar que las y los administradores de albergues proporcionen información
 
 III. Las demás que le otorgue ésta y demás leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 6º.
 
-La Secretaría de Desarrollo Social deberá integrar y actualizar, con base en lo que dispone la presente Ley, el Padrón de Albergues Públicos y Privados para Niñas y Niños del Distrito Federal.
+La Secretaría de Bienestar e Igualdad Social deberá integrar y actualizar, con base en lo que dispone la presente Ley, el Padrón de Albergues Públicos y Privados para Niñas y Niños de la Ciudad de México.
 
-La Secretaría de Desarrollo Social a través de su página de Internet, publicará el Padrón de Albergues Públicos y Privados para Niñas y Niños del Distrito Federal, el cual contendrá el nombre o denominación del albergue, dirección, nombre de la o el responsable, población y rango de edad de las y los residentes, y si corresponde a un albergue público o privado, mismo que será actualizado de conformidad con los plazos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
+La Secretaría de Bienestar e Igualdad Social a través de su página de Internet, publicará el Padrón de Albergues Públicos y Privados para Niñas y Niños de la Ciudad de México, el cual contendrá el nombre o denominación del albergue, dirección, nombre de la o el responsable, población y rango de edad de las y los residentes, y si corresponde a un albergue público o privado, mismo que será actualizado de conformidad con los plazos establecidos en la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
 
 ###### Artículo 7º.
 
 Corresponden a la Secretaría de Salud, las siguientes atribuciones:
 
-I. Otorgar a los albergues públicos y privados el certificado de condición sanitaria, en términos de lo establecido por esta Ley, la Ley de Salud del Distrito Federal y demás normatividad aplicable, de acuerdo al nivel de cuidado y atención que brinden a las y los menores;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+I. Otorgar a los albergues públicos y privados el certificado de condición sanitaria, en términos de lo establecido por esta Ley, la Ley de Salud de la Ciudad de México y demás normatividad aplicable, de acuerdo al nivel de cuidado y atención que brinden a las y los menores;
 
 II. Revocar la autorización sanitaria, en caso de incumplimiento de las normas de salud a que está obligado;
 
 III. Verificar que exista un adecuado servicio de educación en salud sexual, reproductiva y de planificación familiar;
 
-IV. Proporcionar servicios de salud gratuitos a las y los residentes en los albergues, a través de las Unidades Médicas, Centros de Salud y Clínicas y Hospitales dependientes del Sistema de Salud del Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+IV. Proporcionar servicios de salud gratuitos a las y los residentes en los albergues, a través de las Unidades Médicas, Centros de Salud y Clínicas y Hospitales dependientes de la Secretaría de Salud de la Ciudad de México;
 
 V. Dar asesoría y fomentar la formación e implementación de los programas de sanidad para los albergues;
 
@@ -168,7 +208,9 @@ I. Coadyuvar a que los albergues que presten servicios educativos cuenten con pr
 
 II. Apoyar a los albergues con el objeto de logar (sic) la igualdad de acceso, permanencia y resultados satisfactorios en la educación;
 
-III. Dentro de la educación que se brinde a las y los residentes en los albergues, se deberá proporcionar educación para el trabajo, de acuerdo con lo que establece la Ley General de Educación, Ley de Educación del Distrito Federal y los lineamientos aplicables en la materia; y
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+III. Dentro de la educación que se brinde a las y los residentes en los albergues, se deberá proporcionar educación para el trabajo, de acuerdo con lo que establece la Ley General de Educación, Ley de Educación de la Ciudad de México y los lineamientos aplicables en la materia; y
 
 IV. Las demás que le otorgue ésta y demás leyes aplicables.
 
@@ -184,9 +226,11 @@ III. Fomentar el cumplimiento de los programas internos de protección civil en 
 
 IV. Las demás que le otorguen las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 10.
 
-Corresponden a las Delegaciones, las siguientes atribuciones:
+Corresponden a las Alcaldías, las siguientes atribuciones:
 
 I. Expedir los certificados a los albergues privados que cumplan con los requisitos que establezca la presente Ley y los demás ordenamientos legales aplicables;
 
@@ -202,29 +246,43 @@ VI. Establecer multas, suspensiones temporales y definitivas cuando estas proced
 
 VII. Revocar los certificados de los albergues privados de conformidad con lo establecido en esta Ley;
 
-VIII. Elaborar un Padrón Delegacional de Albergues Públicos y Privados para Niñas y Niños, que se encuentren en su demarcación, mismo que deberá contener el nombre del albergue, dirección, nombre del responsable, población y rango de edad de las y los menores residentes y si se trata de albergue público o privado. Dicho padrón será publicado y actualizado en su respectivo sitio de Internet y remitido a la Secretaría de Desarrollo Social, a fin de integrar la información al Padrón de Albergues Públicos y Privados para Niñas y Niños del Distrito Federal; y
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+VIII. Elaborar un Padrón de Alcaldía de Albergues Públicos y Privados para Niñas y Niños, que se encuentren en su demarcación, mismo que deberá contener el nombre del albergue, dirección, nombre del responsable, población y rango de edad de las y los menores residentes y si se trata de albergue público o privado. Dicho padrón será publicado y actualizado en su respectivo sitio de Internet y remitido a la Secretaría de Bienestar e Igualdad Social, a fin de integrar la información al Padrón de Albergues Públicos y Privados para Niñas y Niños de la Ciudad de México; y
 
 IX. Las demás que le otorgue la presente y demás leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 11.
 
-Corresponde al DIF-DF, las siguientes atribuciones:
+Corresponde al DIF-CDMX, las siguientes atribuciones:
 
-I. Coadyuvar con el Jefe de Gobierno del Distrito Federal, la Secretaría de Salud, la Secretaría de Educación, la Procuraduría General de Justicia del Distrito Federal y el Instituto de Verificación Administrativa del Distrito Federal para la consecución de los fines que persigue la presente ley;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+I. Coadyuvar con la Persona titular de la Jefatura de Gobierno de la Ciudad de México, la Secretaría de Salud, la Secretaría de Educación, la Fiscalía General de Justicia de la Ciudad de México y el Instituto de Verificación Administrativa de la Ciudad de México para la consecución de los fines que persigue la presente ley;
 
 II. Vigilar la observancia de las Normas Oficiales Mexicanas en materia de Asistencia Social y en su caso generar las recomendaciones que correspondan a las autoridades facultadas para la aplicación y seguimiento de la presente ley;
 
 III. Administrar y operar los albergues infantiles que le son adscritos;
 
-IV. Promover e impulsar el sano crecimiento físico, mental y social de las y los residentes en los albergues del Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-V. Llevar a cabo revisiones periódicas y constantes a todos los albergues públicos y privados para niños y niñas del Distrito Federal, para constatar que las y los menores residentes se encuentren en óptimas condiciones de salud física y psicológica; y
+IV. Promover e impulsar el sano crecimiento físico, mental y social de las y los residentes en los albergues de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+V. Llevar a cabo revisiones periódicas y constantes a todos los albergues públicos y privados para niños y niñas de la Ciudad de México, para constatar que las y los menores residentes se encuentren en óptimas condiciones de salud física y psicológica; y
 
 VI. Las demás que le otorgue la presente y demás leyes aplicables.
 
-Corresponde al DIF-DF, a través de la Defensoría de los Derechos de la Infancia del Distrito Federal, las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 23 DE JULIO DE 2026)</small>
 
-I. Presentar denuncias ante las autoridades competentes de cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que vaya en detrimento de las libertades y derechos humanos de las niñas y niños que residen en los albergues públicos y privados del Distrito Federal;
+Corresponde al DIF-CDMX, a través de la Defensoría de los Derechos de la Infancia de la Ciudad de México, las siguientes atribuciones:
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+I. Presentar denuncias ante las autoridades competentes de cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que vaya en detrimento de las libertades y derechos humanos de las niñas y niños que residen en los albergues públicos y privados de la Ciudad de México;
 
 II. Dar atención y seguimiento a quejas, denuncias e informes, sobre la violación de los derechos de las niñas y niños residentes en los albergues, haciéndolos del conocimiento de las autoridades respectivas, así como ejercer las acciones legales correspondientes; y
 
@@ -240,9 +298,11 @@ II. Vigilar que los albergues a su cargo cumplan con las normas establecidas en 
 
 III. Las demás que le otorguen las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 13.
 
-Corresponden al Consejo de Asistencia e Integración Social del Distrito Federal, las siguientes atribuciones:
+Corresponden al Consejo de Asistencia e Integración Social de la Ciudad de México, las siguientes atribuciones:
 
 I. Evaluar y supervisar el cumplimiento de los objetivos, metas y la cobertura y el impacto de los programas que, en materia de protección civil, salud y desarrollo humano, se implementen en los albergues para niñas y niños, conjuntamente con los responsables de la ejecución de los mismos;
 
@@ -250,7 +310,9 @@ II. Apoyar y promover los planes, programas y proyectos en materia de protecció
 
 III. Ejecutar las acciones que se acuerden por la mayoría de sus miembros;
 
-IV. Entregar un informe anual al órgano u órganos de trabajo interno de la Asamblea Legislativa del Distrito Federal, relativos al desarrollo social y a la atención a los grupos vulnerables, respecto de los resultados obtenidos sobre la supervisión y evaluación de los programas de los albergues en materia de salud y protección civil, así como del cumplimiento de la presente Ley.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+IV. Entregar un informe anual al órgano u órganos de trabajo interno del Congreso de la Ciudad de México, relativos al desarrollo social y a la atención a los grupos vulnerables, respecto de los resultados obtenidos sobre la supervisión y evaluación de los programas de los albergues en materia de salud y protección civil, así como del cumplimiento de la presente Ley.
 
 ### CAPÍTULO III. DE LOS ALBERGUES PUBLICOS Y PRIVADOS DEL DISTRITO FEDERAL
 
@@ -258,9 +320,11 @@ IV. Entregar un informe anual al órgano u órganos de trabajo interno de la Asa
 
 Para los efectos de este ordenamiento, se entiende por albergue, el lugar en donde se procura el asilo, alojamiento, abastecimiento alimentario, apoyo y bienestar físico y mental a niñas y niños, y que contribuyen al ejercicio pleno de sus capacidades, a su educación, desarrollo humano y su integración a la sociedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 15.
 
-Los titulares o representantes legales de los albergues para niñas y niños en el Distrito Federal, con independencia de su régimen interno, deberán sujetarse en lo conducente a las disposiciones de esta Ley. Los titulares o representantes legales de los albergues privados deberán obtener el certificado ante la Delegación correspondiente, así como remitir a la Secretaría de Desarrollo Social una copia certificada del mismo para que ésta a su vez integre el Padrón de Albergues Públicos y Privados para Niñas y Niños del Distrito Federal. Las y los titulares o responsables de los albergues públicos también deberán registrarlos en dicho padrón.
+Los titulares o representantes legales de los albergues para niñas y niños en la Ciudad de México, con independencia de su régimen interno, deberán sujetarse en lo conducente a las disposiciones de esta Ley. Los titulares o representantes legales de los albergues privados deberán obtener el certificado ante la Alcaldía correspondiente, así como remitir a la Secretaría de Bienestar e Igualdad Social una copia certificada del mismo para que ésta a su vez integre el Padrón de Albergues Públicos y Privados para Niñas y Niños de la Ciudad de México. Las y los titulares o responsables de los albergues públicos también deberán registrarlos en dicho padrón.
 
 En el caso de los albergues públicos, los titulares estarán obligados a que el albergue que presiden se encuentre en el padrón a que se refiere el artículo 6 de la presente Ley, además de cumplir con los siguientes requisitos:
 
@@ -270,7 +334,9 @@ II. Constancia expedida por la Secretaría de Protección Civil, en la cual se e
 
 III. Nombramiento del titular del albergue emitido por la autoridad correspondiente;
 
-IV. Carta de no antecedentes penales expedida por la Procuraduría General de Justicia del Distrito Federal del titular del albergue así como de todos los servidores públicos que laboren en el mismo, salvo tratándose de delitos culposos, cuando en estos últimos haya transcurrido el término de tres años. Por ningún motivo deberá tener antecedentes por delitos previstos en el Libro II, Titulo V y VI del Código Penal para el Distrito Federal, o cualquier otro similar que pudiera poner en peligro la integridad física o psicológica de los residentes.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+IV. Carta de no antecedentes penales expedida por la Fiscalía General de Justicia de la Ciudad de México del titular del albergue, así como de todos los servidores públicos que laboren en el mismo, salvo tratándose de delitos culposos, cuando en estos últimos haya transcurrido el término de tres años. Por ningún motivo deberá tener antecedentes por delitos previstos en el Libro II, Titulo V y VI del Código Penal para el Distrito Federal, o cualquier otro similar que pudiera poner en peligro la integridad física o psicológica de los residentes.
 
 > <small>(ADICIONADO, G.O. 6 DE DICIEMBRE DE 2023)</small>
 
@@ -286,9 +352,13 @@ DE LAS OBLIGACIONES DE LAS Y LOS TITULARES DE ALBERGUES PARA NIÑAS Y NIÑOS.
 
 Son obligaciones de las y los titulares o responsables legales de los albergues:
 
-I. Garantizar el cumplimiento de los requisitos establecidos por esta Ley, para formar parte del Padrón Delegacional de Albergues Públicos y Privados para Niñas y Niños;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-II. Llevar un registro de las y los residentes y remitirlo mensualmente a la Secretaría de Desarrollo Social y a la Delegación que corresponda;
+I. Garantizar el cumplimiento de los requisitos establecidos por esta Ley; para formar parte del Padrón de Alcaldía de Albergues Públicos y Privados para Niñas y Niños.
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+II. Llevar un registro de las y los residentes y remitirlo mensualmente a la Secretaría de Bienestar e Igualdad Social y a la Alcaldía que corresponda;
 
 III. Garantizar que los albergues cuenten con las instalaciones y el personal adecuado para resguardar la seguridad integral de las y los residentes;
 
@@ -302,13 +372,17 @@ VII. Colaborar con la autoridad, para facilitar las tareas de vigilancia;
 
 VIII. Informar oportunamente a la autoridad correspondiente, cuando tenga conocimiento de que peligre la integridad física o la seguridad jurídica de alguna o algún residente;
 
-IX. Ejercer la tutela de las y los menores en situación de desamparo, previa declaración judicial y en concordancia con el Código Civil para el Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+IX. Ejercer la tutela de las y los menores en situación de desamparo, previa declaración judicial y en concordancia con el Código Civil vigente para la Ciudad de México;
 
 X. Contar en el albergue con un área de asesoría profesional en materia jurídica y de trabajo social;
 
 XI. Proporcionar a las y los residentes, a través del personal capacitado, atención médica adecuada;
 
-XII. En su caso, proporcionar educación a las y los residentes, a través del personal correspondiente y de conformidad con los planes y programas de estudio vigentes en el Distrito Federal; y
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+XII. En su caso, proporcionar educación a las y los residentes, a través del personal correspondiente y de conformidad con los planes y programas de estudio vigentes en la Ciudad de México; y
 
 XIII. Las demás obligaciones que éste u otros ordenamientos legales establezcan.
 
@@ -398,7 +472,9 @@ II. Programar sesiones informativas con objeto de transmitir a las y los residen
 
 III. Planificar las acciones y actividades de las y los residentes y del personal vinculadas a situaciones de emergencia o siniestro, determinando quien hará el aviso a los servicios de emergencia exteriores; y
 
-IV. Las demás que establezcan los ordenamientos de seguridad y protección civil vigentes en el Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+IV. Las demás que establezcan los ordenamientos de seguridad y protección civil vigentes en la Ciudad de México.
 
 ###### Artículo 26.
 
@@ -450,25 +526,27 @@ Cada albergue deberá proporcionar a las y los residentes atención médica, por
 
 En el caso de presentarse alguna enfermedad contagiosa en alguna o alguno de los residentes, los albergues deberán tomar las medidas conducentes para evitar el contagio y notificar de inmediato a las autoridades del sector salud correspondientes.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 34.
 
-Los requisitos de admisión de niñas y niños, serán establecidos por el reglamento interno de cada institución y en cuanto a las obligaciones de quienes ejerzan la tutela sobre las y los residentes, se observarán las disposiciones del Código Civil para el Distrito Federal.
+Los requisitos de admisión de niñas y niños, serán establecidos por el reglamento interno de cada institución y en cuanto a las obligaciones de quienes ejerzan la tutela sobre las y los residentes, se observarán las disposiciones del Código Civil vigente para la Ciudad de México.
 
 ### CAPÍTULO VIII
 
 SITUACIÓN JURÍDICA DE LAS Y LOS RESIDENTES EN LOS ALBERGUES PARA NIÑAS Y NIÑOS.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 35.
 
-Las y los residentes que se encuentren en condición de expósitos, abandonados, repatriados, maltratados o migrantes, estarán sujetos a la tutela de los titulares o representantes legales de los albergues privados, organizaciones civiles o instituciones de asistencia social autorizadas, previa declaración judicial, conforme a lo establecido en el Código Civil para el Distrito Federal.
+Las y los residentes que se encuentren en condición de expósitos, abandonados, repatriados, maltratados o migrantes, estarán sujetos a la tutela de los titulares o representantes legales de los albergues privados, organizaciones civiles o instituciones de asistencia social autorizadas, previa declaración judicial, conforme a lo establecido en el Código Civil vigente para la Ciudad de México.
 
-El Sistema para el Desarrollo Integral de Familia del Distrito Federal, ejercerá la tutela de las y los menores en situación de desamparo que no hayan sido acogidos por instituciones privadas.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 36.
 
-Las y los titulares de los albergues o sus representantes legales, deberán notificar a la Procuraduría General de Justicia del Distrito Federal, dentro de las veinticuatro horas siguientes, contadas a partir de que tengan conocimiento de que alguna o alguno de los residentes se encuentre en los supuestos establecidos por el artículo anterior, a fin de que esta institución inicie los procedimientos legales correspondientes.
-
-Recibida la denuncia, y en caso de que así proceda, la Procuraduría General de Justicia del Distrito Federal iniciará investigación y deberá tomar las medidas provisionales para garantizar la seguridad de la niña o niño. En tanto se realizan las investigaciones, el albergue no deberá entregar a la o el residente a persona alguna, sin autorización de la autoridad antes referida.
+Las y los titulares de los albergues o sus representantes legales, deberán notificar a la Fiscalía General de Justicia de la Ciudad de México, dentro de las veinticuatro horas siguientes, contadas a partir de que tengan conocimiento de que alguna o alguno de los residentes se encuentre en los supuestos establecidos por el artículo anterior, a fin de que esta institución inicie los procedimientos legales correspondientes.
 
 ###### Artículo 37.
 
@@ -478,9 +556,11 @@ Las y los titulares de los albergues, estarán obligados a garantizar el efectiv
 
 DEL CERTIFICADO PARA EL FUNCIONAMIENTO DE ALBERGUES PRIVADOS DE NIÑAS Y NIÑOS.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 38.
 
-Los albergues privados de niñas y niños, para su legal funcionamiento, deberán contar con el certificado expedido por la Delegación correspondiente y formar parte del Padrón del (sic)Albergues para Niñas y Niños del Distrito Federal, que para efectos de certificación y control lleve a cabo la autoridad.
+Los albergues privados de niñas y niños, para su legal funcionamiento, deberán contar con el certificado expedido por la Alcaldía correspondiente y formar parte del Padrón del (sic) Albergues para Niñas y Niños de la Ciudad de México, que para efectos de certificación y control lleve a cabo la autoridad.
 
 ###### Artículo 39.
 
@@ -490,7 +570,9 @@ El certificado para el funcionamiento de albergue privado de niñas y niños, es
 
 Los requisitos para tramitar el certificado son los siguientes:
 
-I. Llenar el formato expedido por la Delegación en el que se especificará el nombre de la persona física o moral que desee prestar el servicio de albergue para niñas y niños;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+I. Llenar el formato expedido por la Alcaldía en el que se especificará el nombre de la persona física o moral que desee prestar el servicio de albergue para niñas y niños;
 
 II. Entrega de los siguientes documentos:
 
@@ -500,7 +582,9 @@ b) Constancia expedida por la Secretaría de Protección Civil, en la cual se ex
 
 c) Credencial para votar y tratándose de personas morales, el acta constitutiva, reformas a ésta y los documentos que acrediten la representación legal de la o el solicitante; y
 
-d) Carta de no antecedentes penales expedida por la Procuraduría General de Justicia del Distrito Federal de las personas físicas y en su caso de todas y todos los asociados de la persona moral, salvo tratándose de delitos culposos, cuando en estos últimos haya transcurrido el término de tres años. Por ningún motivo deberá tener antecedentes por delitos previstos en el Libro II, Título V y VI del Código Penal para el Distrito Federal, o cualquier otro similar que pudiera poner en peligro la integridad física y psicológica de los residentes.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
+d) Carta de no antecedentes penales expedida por la Fiscalía General de Justicia de la Ciudad México de las personas físicas y en su caso de todas y todos los asociados de la persona moral, salvo tratándose de delitos culposos, cuando en estos últimos haya transcurrido el término de tres años. Por ningún motivo deberá tener antecedentes por delitos previstos en el Libro II, Título V y VI del Código Penal para el Distrito Federal, o cualquier otro similar que pudiera poner en peligro la integridad física y psicológica de los residentes.
 
 III. Presentar la documentación que acredite su personalidad jurídica;
 
@@ -510,13 +594,17 @@ V. Copia del reglamento Interno; y
 
 VI. Un proyecto de reglamento operativo, de acuerdo con las edades, sexo y número de residentes que atenderá.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 41.
 
-Recibida la solicitud, la Delegación en un plazo máximo de treinta días hábiles, comunicará al interesado la resolución correspondiente y, en su caso, expedirá el certificado.
+Recibida la solicitud, la Alcaldía en un plazo máximo de treinta días hábiles, comunicará al interesado la resolución correspondiente y, en su caso, expedirá el certificado.
+
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 42.
 
-Ante la omisión de cualquiera de los requisitos señalados en este capítulo, para la obtención del certificado de albergue, la Delegación otorgará hasta noventa días naturales para que el interesado cumpla con los mismos, de no hacerlo, negará el trámite respectivo y le será devuelta su documentación.
+Ante la omisión de cualquiera de los requisitos señalados en este capítulo, para la obtención del certificado de albergue, la Alcaldía otorgará hasta noventa días naturales para que el interesado cumpla con los mismos, de no hacerlo, negará el trámite respectivo y le será devuelta su documentación.
 
 ###### Artículo 43.
 
@@ -526,31 +614,41 @@ Los certificados expedidos serán de duración indefinida.
 
 Los certificados, deberán contener los datos de la o el titular, nombre o denominación del Albergue y su ubicación, el número de control respectivo, la fecha de expedición y tipo de servicios que brinda.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 45.
 
-Los albergues podrán cancelar voluntariamente el certificado que fue expedido a su favor, dando aviso por escrito en un plazo no mayor de 30 días hábiles a la Delegación, a fin de que se realicen los procedimientos administrativos correspondientes.
+Los albergues podrán cancelar voluntariamente el certificado que fue expedido a su favor, dando aviso por escrito en un plazo no mayor de 30 días hábiles a la Alcaldía, a fin de que se realicen los procedimientos administrativos correspondientes.
 
 ### CAPÍTULO X. DE LA INSPECCIÓN Y VIGILANCIA DE LOS ALBERGUES PARA NIÑAS Y NIÑOS DEL DISTRITO FEDERAL
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 46.
 
-La Delegación correspondiente ordenará al Instituto de Verificación Administrativa del Distrito Federal realizar visitas de inspección por lo menos una vez cada tres meses, y aplicará las sanciones que este ordenamiento establece, sin perjuicio de las facultades y sanciones que confieran a otras dependencias, otros ordenamientos locales aplicables en la materia de que se trate.
+La Alcaldía correspondiente ordenará al Instituto de Verificación Administrativa de la Ciudad de México realizar visitas de inspección por lo menos una vez cada tres meses, y aplicará las sanciones que este ordenamiento establece, sin perjuicio de las facultades y sanciones que confieran a otras dependencias, otros ordenamientos locales aplicables en la materia de que se trate.
 
 ###### Artículo 47.
 
 La Secretaria de Salud deberá realizar visitas de inspección semestrales, sin perjuicio de otras medidas previstas en las leyes que puedan llevarse a cabo para verificar el cumplimiento de este ordenamiento.
 
-Dicho personal, al realizar las visitas de inspección, deberá estar provisto del documento oficial que lo acredite como tal, así como de la orden escrita debidamente fundada y motivada, expedida por autoridad competente, en la que se precisará el lugar que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta, de acuerdo a la Ley de Procedimiento Administrativo y Reglamento de Verificación Administrativa, ambos para el Distrito Federal.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
+Dicho personal, al realizar las visitas de inspección, deberá estar provisto del documento oficial que lo acredite como tal, así como de la orden escrita debidamente fundada y motivada, expedida por autoridad competente, en la que se precisará el lugar que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta, de acuerdo a la Ley de Procedimiento Administrativo de la Ciudad de México y Reglamento de Verificación Administrativa para la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 48.
 
-Toda visita de verificación que se practique a los albergues en el Distrito Federal se regirá por la Ley de Procedimiento Administrativo, el Reglamento de Verificación Administrativa y demás ordenamientos legales que apliquen en la materia para el Distrito Federal.
+Toda visita de verificación que se practique a los albergues en la Ciudad de México se regirá por la Ley de Procedimiento Administrativo, el Reglamento de Verificación Administrativa y demás ordenamientos legales que apliquen en la materia para la Ciudad de México.
 
 ### CAPÍTULO XI. DE LA SUSPENSIÓN
 
-###### ARTÍCULO 49.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
 
-La Delegación podrá ordenar la suspensión temporal o definitiva de los servicios que prestan los albergues privados, por si o a petición de las Secretarías de Protección Civil, de Salud o de las autoridades vinculadas a dichos espacios, según la gravedad de la infracción y las características de la actividad, cuando se den las causas que se mencionan a continuación:
+###### Artículo 49.
+
+La Alcaldía podrá ordenar la suspensión temporal o definitiva de los servicios que prestan los albergues privados, por si o a petición de las Secretarías de Protección Civil, de Salud o de las autoridades vinculadas a dichos espacios, según la gravedad de la infracción y las características de la actividad, cuando se den las causas que se mencionan a continuación:
 
 I. Cuando la persona responsable del albergue se encuentre ausente del establecimiento en tres ocasiones en que haya visita de supervisión de las autoridades correspondientes;
 
@@ -568,13 +666,17 @@ VII. Cuando carezca del correspondiente certificado de acuerdo a la Ley.
 
 Las causales previstas en el presente artículo, de no ser subsanadas en el término establecido por el procedimiento administrativo aplicable, serán causa de la revocación del certificado.
 
-En el caso de los albergues públicos, la autoridad de que se trate levantará el acta correspondiente y dará vista a la Contraloría Interna o a la Contraloría General del Distrito Federal, según corresponda.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
+En el caso de los albergues públicos, la autoridad de que se trate levantará el acta correspondiente y dará vista a la Contraloría Interna o a la Contraloría General de la Ciudad de México, según corresponda.
 
 ### CAPÍTULO XII. DE LA REVOCACIÓN DEL CERTIFICADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 50.
 
-Son causas de revocación del certificado expedido por la Delegación, las siguientes:
+Son causas de revocación del certificado expedido por la Alcaldía, las siguientes:
 
 I. Suspender sin causa justificada y sin dar aviso por escrito a las autoridades correspondientes las actividades del establecimiento por un lapso mayor de 30 días naturales;
 
@@ -588,9 +690,11 @@ V. Cuando exista cambio de domicilio, de responsable o incremento en la capacida
 
 VI. Dejar de satisfacer algunos de los requisitos o incumplir de manera reiterada, previo exhorto por parte de la autoridad competente, con las obligaciones establecidas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 51.
 
-Las sanciones, así como la revocación del certificado, serán impuestas por resolución que emane del procedimiento administrativo establecido en la Ley de Procedimiento Administrativo del Distrito Federal y demás ordenamientos legales aplicables en la materia.
+Las sanciones, así como la revocación del certificado, serán impuestas por resolución que emane del procedimiento administrativo establecido en la Ley de Procedimiento Administrativo de la Ciudad de México y demás ordenamientos legales aplicables en la materia.
 
 En caso de que se determine la suspensión de las actividades o la revocación del certificado del albergue de que se trate, la autoridad o autoridades involucradas deberán garantizar la reubicación de las y los residentes en otro lugar en que se proporcione el servicio de albergue.
 
@@ -620,6 +724,14 @@ G.O. 6 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LA FRACCIÓN X, AL ARTÍCULO 2º; LA FRACCIÓN XVII, AL ARTÍCULO 3º; Y EL ARTÍCULO 15 BIS; A LA LEY DE ALBERGUES PÚBLICOS Y PRIVADOS PARA NIÑAS Y NIÑOS DEL DISTRITO FEDERAL".]
 
-PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
-SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE SE (SIC) REFORMA LA DENOMINACIÓN DE LA LEY DE ALBERGUES PÚBLICOS Y PRIVADOS PARA NIÑAS Y NIÑOS DEL DISTRITO FEDERAL, PARA QUEDAR COMO "LEY DE ALBERGUES PÚBLICOS Y PRIVADOS PARA NIÑAS Y NIÑOS DE LA CIUDAD DE MÉXICO"; ASÍ COMO LOS ARTÍCULOS 1, PRIMER PÁRRAFO; 2, FRACCIÓN I, VII, VIII Y IX; 3, FRACCIÓN IV, XIII, XIV, XV Y XVI; 6, PRIMERO Y SEGUNDO PÁRRAFO; 7 FRACCIÓN I Y IV; 8 FRACCIÓN III; 10, PRIMER PÁRRAFO Y FRACCIÓN VIII; 11, FRACCIÓN I, IV, V Y SEGUNDO PÁRRAFO FRACCIÓN I; 13, PRIMER PÁRRAFO Y FRACCIÓN IV; 15, PRIMER PÁRRAFO Y FRACCIÓN IV; 16, FRACCIÓN I,II, IX Y XII; 25 FRACCIÓN IV; 34; 35; 36; 38; 40, FRACCIÓN I, FRACCIÓN II INCISO D); 41, 42, 45, 46; 47, SEGUNDO PÁRRAFO; 48; 49, PRIMER Y NOVENO PÁRRAFO; 50, PRIMER PÁRRAFO Y EL ARTÍCULO 51, DE LA LEY DE ALBERGUES PÚBLICOS Y PRIVADOS PARA NIÑAS Y NIÑOS DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
