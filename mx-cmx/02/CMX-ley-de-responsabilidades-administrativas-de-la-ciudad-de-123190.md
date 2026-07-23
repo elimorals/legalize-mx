@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-responsabilidades-administrativas-de-la-ciudad-de-123190
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-01"
-last_updated: "2026-07-13"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123190&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-08-31"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 1 de septiembre de 2017.
 
@@ -667,6 +667,12 @@ IV. Se abstengan de notificar o solicitar la inscripción de las sanciones admin
 Para efectos de la fracción anterior, las Personas Servidoras Públicas que denuncien una Falta administrativa grave o Faltas de particulares, o sean testigos en el procedimiento, podrán solicitar medidas de protección que resulten razonables. La solicitud deberá ser evaluada y atendida de manera oportuna por el Ente público donde presta sus servicios el denunciante.
 
 Los Servidores públicos que denuncien una falta administrativa grave o faltas de particulares, o sean testigos en el procedimiento, podrán solicitar medidas de protección que resulten razonables. La solicitud deberá ser evaluada y atendida de manera oportuna por el Ente público donde presta sus servicios el denunciante, sin perjuicio de las medidas que establezca el Sistema Anticorrupción de la Ciudad de México para la protección de denunciantes, testigos y afectos por hechos de corrupción.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2026)</small>
+
+###### Artículo 64 Bis.
+
+Será responsable de injerencia sindical la persona servidora pública que, por si o por terceros, incurra en las conductas previstas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.
 
 ### Capítulo III. De los actos de particulares vinculados con faltas administrativas graves
 
@@ -2029,3 +2035,15 @@ SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugn
 OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
 
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 64 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. En tanto el Congreso expide la Ley que Regula las Relaciones Laborales de la Ciudad de México y sus Personas Trabajadoras a que se refiere el Transitorio VIGESIMO QUINTO de la Constitución Política de la Ciudad de México, las disposiciones del presente Decreto se regirán de conformidad con lo establecido en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
