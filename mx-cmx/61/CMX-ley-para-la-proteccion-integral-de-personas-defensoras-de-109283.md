@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-proteccion-integral-de-personas-defensoras-de-10928
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-10"
-last_updated: "2026-07-13"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109283&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-07"
 
 LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 10 de agosto de 2015.
 
@@ -48,33 +48,45 @@ DECRETO POR EL QUE SE EXPIDE LA LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEF
 
 Se expide la Ley para la Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas del Distrito Federal, para quedar como sigue:
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE JULIO DE 2026)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], G.O. 23 DE JULIO DE 2026)</small>
 
 LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DE LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO I. Objeto de la Ley
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta ley son de orden público, interés social y observancia general en el territorio del Distrito Federal y serán aplicadas de conformidad con el artículo 1 de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales sobre derechos humanos, ratificados y de los que el Estado Mexicano sea parte, y los criterios establecidos en la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas y servirá para promover y facilitar la cooperación entre el Gobierno Federal, los gobiernos de las entidades federativas, los organismos públicos de derechos humanos, la sociedad civil, la ciudadanía, las instituciones académicas, así como con las representaciones diplomáticas y con organismos internacionales, así como para establecer los mecanismos e instancias para la protección de los mismos en la Ciudad de México para alcanzar los objetivos de la ley.
+Las disposiciones de esta ley son de orden público, interés social y observancia general en la Ciudad de México y serán aplicadas de conformidad con el artículo 1 de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales sobre derechos humanos, ratificados y de los que el Estado Mexicano sea parte, y los criterios establecidos en la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, servirá para promover y facilitar la cooperación entre el Gobierno Federal, los gobiernos de las entidades federativas, los organismos públicos de derechos humanos, la sociedad civil, la ciudadanía, las instituciones académicas, así como con las representaciones diplomáticas y con organismos internacionales, así como para establecer los mecanismos e instancias para la protección de los mismos en la Ciudad de México para alcanzar los objetivos de la ley.
 
 Para ello tendrá como objetivos los siguientes:
 
-I. Reconocer el ejercicio de la promoción y defensa de los derechos humanos y del periodismo como actividades de interés público y por lo tanto el Estado debe de promover, respetar, proteger y garantizar los derechos humanos vinculados a ello.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-II. Garantizar los derechos a la vida, integridad física, psicológica, moral y económica, libertad y seguridad de las personas defensoras de derechos humanos, periodistas y colaboradoras periodísticas en el Distrito Federal, cuando se encuentran en riesgo con motivo del ejercicio de su actividad, con la finalidad de garantizar las condiciones para continuar ejerciéndola; así como salvaguardar los mismos derechos y bienes de los familiares o personas vinculadas a los periodistas, colaboradores periodísticos o defensores de derechos humanos y todas aquellas señaladas en el artículo 40 de la presente Ley.
+I. Reconocer el ejercicio de la promoción y defensa del periodismo, los derechos humanos y el medio ambiente como actividades de interés público y por lo tanto el Estado debe de promover, respetar, proteger y garantizar los derechos humanos vinculados a ello.
 
-III. Garantizar a las personas defensoras de derechos humanos, periodistas y colaboradoras periodísticas que se encuentran fuera de su lugar de origen a consecuencia de la violencia de la que fueron o podrían ser potenciales víctimas, condiciones de vida digna para continuar ejerciendo su labor en el Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-IV. Establecer la responsabilidad de los Entes Públicos del Distrito Federal para implementar y operar las Medidas Preventivas, Medidas de Protección, Medidas de Protección Urgente y Medidas de Carácter Social de las personas que se encuentran en situación de riesgo, como consecuencia de la defensa o promoción de los derechos humanos y del ejercicio de la libertad de expresión y el periodismo.
+II. Garantizar los derechos a la vida, integridad física, psicológica, moral y económica, libertad y seguridad de las personas periodistas, colaboradoras periodísticas, de las personas defensoras de derechos humanos y ambientales en la Ciudad de México, cuando se encuentran en riesgo con motivo del ejercicio de su actividad, con la finalidad de garantizar las condiciones para continuar ejerciéndola; así como salvaguardar los mismos derechos y bienes de los familiares o personas vinculadas a las personas mencionadas en la presente fracción, así como todas aquellas señaladas en el artículo 40 de la presente Ley.
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+III. Garantizar a las personas periodistas y colaboradoras periodísticas, defensoras de derechos humanos y del medio ambiente que se encuentran fuera de su lugar de origen a consecuencia de la violencia de la que fueron o podrían ser potenciales víctimas, condiciones de vida digna para continuar ejerciendo su labor en la Ciudad de México.
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+IV. Establecer la responsabilidad de los Entes Públicos de la Ciudad de México para implementar y operar las Medidas Preventivas, Medidas de Protección, Medidas de Protección Urgente y Medidas de Carácter Social de las personas que se encuentran en situación de riesgo, como consecuencia del ejercicio de la libertad de expresión y el periodismo, la defensa o promoción de los derechos humanos y del medio ambiente.
 
 ###### Artículo 2.
 
 La presente Ley crea el Mecanismo de Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas del Distrito Federal, como un organismo público descentralizado del Gobierno del Distrito Federal, con personalidad jurídica y patrimonio propio, autonomía técnica y de gestión para el cumplimiento de sus objetivos y atribuciones con domicilio en el Distrito Federal.
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 3.
 
-El objeto del Mecanismo es que el Gobierno del Distrito Federal atienda la responsabilidad fundamental de proteger, respetar y garantizar los derechos humanos de las personas que se encuentran en situación de riesgo como consecuencia de la defensa o promoción de los derechos humanos y del ejercicio de la libertad de expresión y el periodismo en el Distrito Federal; así como fomentar las políticas públicas, capacitación y coordinación en la materia, para prevenir acciones que vulneren dichos derechos.
+El objeto del Mecanismo es que el Gobierno de la Ciudad de México atienda la responsabilidad fundamental de proteger, respetar y garantizar los derechos humanos de las personas que se encuentran en situación de riesgo como consecuencia del ejercicio a la libertad de expresión y el periodismo, de la defensa o promoción de los derechos humanos y del medio ambiente en la Ciudad de México; así como fomentar las políticas públicas, capacitación y coordinación en la materia, para prevenir acciones que vulneren dichos derechos.
 
 ###### Artículo 4.
 
@@ -86,9 +98,13 @@ Al analizar cada caso, los órganos del Mecanismo, establecidos en el artículo 
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Acciones de prevención: Conjunto de acciones y medios encaminadas a desarrollar políticas públicas y programas con el objetivo de reducir los factores de riesgo que favorecen las agresiones contra personas defensoras de derechos humanos y periodistas, así como para combatir las causas que las producen y generar garantías de no repetición.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-II. Agresión: Toda conducta que atente de cualquier forma contra la vida, la integridad física, psicológica, moral o económica, libertad o seguridad, así como a los bienes o derechos de las personas defensoras de derechos humanos, periodistas y colaboradoras periodísticas, familiares o personas vinculadas a ellas y todas aquellas señaladas en el artículo 40 de la presente Ley, con motivo del ejercicio de su actividad.
+I. Acciones de prevención: Conjunto de acciones y medios encaminadas a desarrollar políticas públicas y programas con el objetivo de reducir los factores de riesgo que favorecen las agresiones contra periodistas personas defensoras de derechos humanos y del medio ambiente, así como para combatir las causas que las producen y generar garantías de no repetición.
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+II. Agresión: Toda conducta que atente de cualquier forma contra la vida, la integridad física, psicológica, moral o económica, libertad o seguridad, así como a los bienes o derechos de las personas periodistas y colaboradoras periodísticas, personas defensoras de derechos humanos y del medio ambiente, familiares o personas vinculadas a ellas y todas aquellas señaladas en el artículo 40 de la presente Ley, con motivo del ejercicio de su actividad.
 
 III. Colaboradora o colaborador periodístico: Toda persona que hace del ejercicio de las libertades de expresión y/o información su actividad principal o complementaria, ya sea de manera esporádica o regular, sin que se requiera registro gremial, remuneración o acreditación alguna para su ejercicio.
 
@@ -128,6 +144,10 @@ XIX. Persona Defensora de Derechos Humanos: Personas físicas que actúen indivi
 
 XX. Persona peticionaria: Persona o personas que solicitan Medidas Preventivas, Medidas de Protección o Medidas de Protección Urgente ante el Mecanismo.
 
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+XX BIS. Personas Defensoras del Medio Ambiente: son todas aquellas personas que actúan individualmente o como integrantes de un grupo, organización o movimiento social, de manera gratuita u onerosa, en la promoción, protección, cuidado, conservación, procuración o restauración del medio ambiente y la biodiversidad.
+
 XXI. Plan de protección: Al conjunto de acciones para aumentar las capacidades y disminuir las vulnerabilidades, amenazas y exposición de riesgo de la persona beneficiaria, para lo cual se otorgarán lineamientos, Medidas Preventivas y/o de Protección, según el caso con la finalidad de garantizar su labor profesional.
 
 XXII. Procedimiento Extraordinario: Procedimiento que deriva en Medidas de Protección Urgente con el fin de preservar la vida, libertad e integridad de la persona beneficiaria.
@@ -150,13 +170,21 @@ V. Mesa de Trabajo Multisectorial.
 
 El Mecanismo tendrá las siguientes atribuciones:
 
-I. Proponer e impulsar iniciativas de ley, normatividad o políticas públicas encaminadas a fortalecer la prevención y protección integral de personas defensoras de derechos humanos, periodistas y colaboradoras periodísticas;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-II. Promover el reconocimiento y ejercicio del derecho a defender derechos humanos y a la libertad de expresión;
+I. Proponer e impulsar iniciativas de ley, normatividad o políticas públicas encaminadas a fortalecer la prevención y protección integral de personas periodistas y colaboradoras periodísticas, defensoras de derechos humanos y del medio ambiente;
 
-III. Impulsar, coordinar y evaluar con y en las dependencias de la Administración Pública políticas públicas que garanticen el derecho a defender derechos humanos y el ejercicio a la libertad de expresión;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-IV. Impulsar, coordinar y evaluar con las dependencias de la Administración Pública acciones que garanticen a las personas defensoras de derechos humanos, periodistas y colaboradores periodísticos en riesgo con motivo del ejercicio de su actividad, las condiciones para continuar ejerciéndola;
+II. Promover el reconocimiento y ejercicio del derecho a defender la libertad de expresión derechos humanos y al medio ambiente y;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+III. Impulsar, coordinar y evaluar con y en las dependencias de la Administración Pública políticas públicas que garanticen el derecho a defender la libertad de expresión, los derechos humanos y al medio ambiente y;
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+IV. Impulsar, coordinar y evaluar con las dependencias de la Administración Pública acciones que garanticen a las personas periodistas y colaboradores periodísticos, personas defensoras de derechos humanos y del medio ambiente, en riesgo con motivo del ejercicio de su actividad, las condiciones para continuar ejerciéndola;
 
 V. Impulsar la capacitación especializada de las personas servidoras públicas en materia de derecho a defender derechos humanos y el derecho a la libertad de expresión incluyendo la perspectiva de género;
 
@@ -937,3 +965,13 @@ SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugn
 OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
 
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA LEY PARA QUEDAR COMO “LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DE LA CIUDAD DE MÉXICO”; SE REFORMA EL PÁRRAFO PRIMERO Y LAS FRACCIONES I, II, III Y IV DEL ARTÍCULO 1; EL ARTÍCULO 3; LAS FRACCIONES I, II DEL ARTÍCULO 5; SE ADICIONA LA FRACCIÓN XX BIS DEL ARTÍCULO 5; SE REFORMA LAS FRACCIONES I, II, III, IV, DEL ARTÍCULO 7”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las obligaciones que, en su caso se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuente, por lo que no autorizarán recursos adicionales para tales efectos.
