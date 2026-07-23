@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-reconocimiento-y-la-atencion-de-las-personas-151006
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-07"
-last_updated: "2025-03-31"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151006&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-09-06"
 
 LEY PARA EL RECONOCIMIENTO Y LA ATENCIÓN DE LAS PERSONAS LGBTTTI+ DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en el Número 678 Bis de la Gaceta Oficial de la Ciudad de México, el martes 7 de septiembre de 2021.
 
@@ -310,11 +310,13 @@ IV. Ley de Acceso de las Mujeres a una vida Libre de Violencia de la Ciudad de M
 
 V. Ley del Sistema Integral de Derechos Humanos de la Ciudad de México;
 
-VI. Código Civil para el Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA, G.O. 3 DE MAYO DE 2024)</small>
+VI. Código Civil local vigente para la Ciudad de México;
 
-VII. Código Penal para el Distrito Federal, y
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+VII. Código Penal local vigente para la Ciudad de México; y
 
 VIII. Demás leyes aplicables.
 
@@ -1057,3 +1059,11 @@ G.O. 31 DE MARZO DE 2025.
 PRIMERO.– El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.– Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 9, FRACCIONES VI Y VII, DE LA LEY PARA EL RECONOCIMIENTO Y LA ATENCIÓN DE LAS PERSONAS LGBTTTI+ DE LA CIUDAD DE MÉXICO Y SE REFORMAN LOS ARTÍCULOS 6, FRACCIONES I, SEGUNDO PÁRRAFO, III, SEGUNDO PÁRRAFO, IV, SEGUNDO PÁRRAFO, V, SEGUNDO PÁRRAFO, VI, SEGUNDO PÁRRAFO, VIII, SEGUNDO PÁRRAFO, X, CUARTO PÁRRAFO, Y XI, SEGUNDO PÁRRAFO; 7, FRACCIONES I, SEGUNDO PÁRRAFO, II, SEGUNDO PÁRRAFO, III, SEGUNDO PÁRRAFO, IV, SEGUNDO PÁRRAFO, V, SEGUNDO PÁRRAFO, VI, SEGUNDO PÁRRAFO, VII, SEGUNDO PÁRRAFO, Y X, CUARTO PÁRRAFO; 74, FRACCIÓN III Y 79, PÁRRAFO PRIMERO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.– Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.– El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
