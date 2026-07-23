@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-donacion-altruista-de-alimentos-de-la-ciudad-de-119
 country: "mx"
 rank: "ley"
 publication_date: "2017-02-16"
-last_updated: "2022-09-30"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119274&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-02-16"
 
 LEY PARA LA DONACIÓN ALTRUISTA DE ALIMENTOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en el No. 9 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 16 de febrero de 2017.
 
@@ -132,7 +132,9 @@ I. Crear una Cultura de aprovechamiento y donación altruista de alimentos.
 
 II. Concientizar a los consumidores y a los sectores público, social y privado sobre la importancia de evitar el desperdicio de alimentos y de propiciar la donación de éstos.
 
-III. Garantizar la participación de los consumidores y de los sectores público, social y privado en la creación, promoción y fomento de una cultura de aprovechamiento y donación altruista de alimentos;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+III. Garantizar la participación solidaria y comunitaria de los consumidores y de los sectores público, social y privado en la creación, promoción y fomento de una cultura de aprovechamiento y donación altruista de alimentos;
 
 IV. Fomentar y promover las propuestas de los ciudadanos y sus organizaciones para garantizar la satisfacción de las necesidades alimentarias de la población menos favorecida, así como estimular las aportaciones libres y voluntarias de alimentos.
 
@@ -423,3 +425,11 @@ G.O. 30 DE SEPTIEMBRE DE 2022.
 PRIMERO.– Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 5 DE LA LEY PARA LA DONACIÓN ALTRUISTA DE ALIMENTOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para efectos de su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
