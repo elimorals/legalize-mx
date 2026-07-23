@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-prestacion-de-servicios-inmobiliarios-del-distrito-89118
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-23"
-last_updated: "2014-12-18"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89118&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2012-08-22"
 ---
 # LEY DE PRESTACION DE SERVICIOS INMOBILIARIOS DEL DISTRITO FEDERAL
 
-LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL DISTRITO FEDERAL
+LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de agosto de 2012.
 
@@ -48,15 +48,19 @@ DECRETO POR EL SE EXPIDE LA LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL DI
 
 Se expide la Ley de Prestación de Servicios Inmobiliarios del Distrito Federal, para quedar como sigue:
 
-LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE JULIO DE 2026)</small>
+
+LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS PARA LA CIUDAD DE MÉXICO
 
 ## TÍTULO PRIMERO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público y de interés social y tienen por objeto regular la prestación de servicios inmobiliarios en el Distrito Federal.
+Las disposiciones de esta Ley son de orden público y de interés social y tienen por objeto regular la prestación de servicios inmobiliarios en la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 14 DE MARZO DE 2014)</small>
 
@@ -64,13 +68,19 @@ Las disposiciones de esta Ley son de orden público y de interés social y tiene
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Acreditación: Documento que emite la Secretaría o, en su caso, las Instituciones Educativas, Colegios y Asociaciones que se autorice en la materia por la Secretaría de Educación Pública y/o la Secretaría de Educación del Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+I. Acreditación: Documento que emite la Secretaría o, en su caso, las Instituciones Educativas, Colegios y Asociaciones que se autorice en la materia por la Secretaría de Educación Pública y/o la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México.
 
 II. Certificación: Autorización otorgada por la Secretaría a los Profesionales Inmobiliarios para prestar Servicios Inmobiliarios cuando se cumplan todos los requisitos exigidos por esta Ley y su Reglamento.
 
-III. Consejo: El Consejo de Servicios Inmobiliarios del Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-IV. Invitados del Consejo: Los servidores públicos adscritos al Gobierno Local o Federal, un representante del Distrito Federal, Asociaciones, Organismos o Consejos relacionados con la prestación de Servicios Inmobiliarios, un representante de la Procuraduría General de Justicia del Distrito Federal que sean invitados por el Consejero Presidente a participar en sesiones específicas.
+III. Consejo: El Consejo de Servicios Inmobiliarios de la Ciudad de México.
+
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+IV. Invitados del Consejo: Los servidores públicos adscritos al Gobierno Local o Federal, un representante de la Ciudad de México, Asociaciones, Organismos o Consejos relacionados con la prestación de Servicios Inmobiliarios, un representante de la Fiscalía General de Justicia de la Ciudad de México que sean invitados por el Consejero Presidente a participar en sesiones específicas.
 
 V. Integrantes del Consejo: Los que conforman el Consejo con voz y voto.
 
@@ -82,19 +92,23 @@ VIII. Padrón de Capacitadores: Lista oficial que publicará la Secretaría en l
 
 IX. Programa: Programa de Capacitación, Actualización y Profesionalización en materia de Servicios Inmobiliarios.
 
-X. Profesional Inmobiliario: Es la persona física o moral que se dedica a la prestación de Servicios Inmobiliarios por su cuenta o de terceros, mediante el pago de una remuneración económica ; en el caso de las personas físicas deberán contar con Certificación emitida por la Secretaría; la cual se divide en Corredor Inmobiliario y Administrador Inmobiliario.
+X. Profesional Inmobiliario: Es la persona física o moral que se dedica a la prestación de Servicios Inmobiliarios por su cuenta o de terceros, mediante el pago de una remuneración económica; en el caso de las personas físicas deberán contar con Certificación emitida por la Secretaría; la cual se divide en Corredor Inmobiliario y Administrador Inmobiliario.
 
 a) El Corredor Inmobiliario es la persona que se dedica a la promoción, comercialización, intermediación o consultoría en la permuta, compraventa o arrendamiento de bienes inmuebles.
 
 b) El Administrador Inmobiliario es la persona que se dedica a la administración de inmuebles o consultoría.
 
-XI. Registro: El Registro Único de Profesionales Inmobiliarios del Distrito Federal
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+XI. Registro: El Registro Único de Profesionales Inmobiliarios de la Ciudad de México.
 
 XII. Reglamento: El Reglamento de la Ley de Prestación de Servicios Inmobiliarios del Distrito Federal;
 
 XIII. Revalidación: Renovación anual de la Certificación.
 
-XIV. Secretaría: Secretaría de Desarrollo Económico del Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+XIV. Secretaría: Secretaría de Desarrollo Económico de la Ciudad de México;
 
 XV. Usuarios: Las personas que reciben Servicios Inmobiliarios.
 
@@ -146,7 +160,9 @@ V. Aplicar las sanciones previstas en este ordenamiento.
 
 VI. Mantener actualizado el Registro Único de Profesionales Inmobiliarios.
 
-VII. Difundir el Código de Ética de los Servicios Profesionales Inmobiliarios en el Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+VII. Difundir el Código de Ética de los Servicios Profesionales Inmobiliarios aplicable a la Ciudad de México.
 
 VIII. Implementar y operar un sistema de quejas o denuncias para usuarios respecto de los Profesionales Inmobiliarios con Registro o para quienes se ostenten como tales sin serlo.
 
@@ -170,13 +186,13 @@ XV. Las que señale la presente Ley y los demás ordenamientos aplicables a la m
 
 #### SECCIÓN PRIMERA. DEL REGISTRO ÚNICO DE PROFESIONALES INMOBILIARIOS
 
-> <small>(REFORMADO, G.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 6.
 
-La Secretaría contará con un Registro Único de Profesionales Inmobiliarios que será público con el objeto de generar y mantener actualizada la base de datos de los Profesionales Inmobiliarios del Distrito Federal.
+La Secretaría contará con un Registro Único de Profesionales Inmobiliarios que será público con el objeto de generar y mantener actualizada la base de datos de los Profesionales Inmobiliarios de la Ciudad de México.
 
-Las personas físicas y morales que presten Servicios Inmobiliarios en el Distrito Federal, deberán obtener el Registro a que se refiere la presente Ley.
+Las personas físicas y morales que presten Servicios Inmobiliarios en la Ciudad de México, deberán obtener el Registro a que se refiere la presente Ley.
 
 > <small>(REFORMADO, G.O. 14 DE MARZO DE 2014)</small>
 
@@ -184,11 +200,11 @@ Las personas físicas y morales que presten Servicios Inmobiliarios en el Distri
 
 La Secretaría publicará en su portal de Internet o en ventanilla el padrón de Profesionales Inmobiliarios, que se encuentren en trámite y registrados a fin de hacerlo disponible al público interesado.
 
-> <small>(REFORMADO, G.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 8.
 
-Las personas que presten Servicios Inmobiliarios respecto de bienes ubicados en el Distrito Federal o que ofrezcan o brinden dichos servicios en esta circunscripción aún y cuando los inmuebles se encuentren fuera de su territorio, deberán estar certificados y registrados, según sea el caso, como Profesionales Inmobiliarios ante la Secretaría.
+Las personas que presten Servicios Inmobiliarios respecto de bienes ubicados en la Ciudad de México o que ofrezcan o brinden dichos servicios en esta circunscripción aún y cuando los inmuebles se encuentren fuera de su territorio, deberán estar certificados y registrados, según sea el caso, como Profesionales Inmobiliarios ante la Secretaría.
 
 > <small>(REFORMADO, G.O. 14 DE MARZO DE 2014)</small>
 
@@ -316,7 +332,9 @@ III. Sujetarse a los exámenes en materia de Servicios Inmobiliarios ante la Sec
 
 IV. Dar aviso por escrito o vía página web a la Secretaría, de cualquier cambio o modificación que afecte los datos contenidos en la Certificación otorgada.
 
-V. Cumplir con el Código de Ética para la prestación de Servicios Inmobiliarios del Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+V. Cumplir con el Código de Ética para la prestación de Servicios Inmobiliarios aplicable a la Ciudad de México.
 
 VI. Conducirse con honestidad y ética profesional, y proteger los intereses legales y financieros de sus clientes y de las personas con quien tengan trato de negocios, respecto de los Servicios Inmobiliarios en que intervengan.
 
@@ -342,7 +360,9 @@ XIV. Las demás que establezca esta Ley y señalen otros ordenamientos.
 
 Las personas morales que como Profesionales Inmobiliarios tendrán las siguientes obligaciones:
 
-I. Cumplir con el Código de Ética para la prestación de Servicios Inmobiliarios del Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+I. Cumplir con el Código de Ética para la prestación de Servicios Inmobiliarios aplicable a la Ciudad de México.
 
 II. Conducirse con honestidad y ética profesional, y proteger los intereses legales y financieros de sus clientes y de las personas con quien tengan trato de negocios, respecto de los Servicios Inmobiliarios en que intervengan.
 
@@ -362,7 +382,9 @@ IX. Las demás que establezca esta Ley y señalen otros ordenamientos.
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO PRIMERO. DEL CONSEJO DE SERVICIOS INMOBILIARIOS DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 23 DE JULIO DE 2026)</small>
+
+### CAPÍTULO PRIMERO. DEL CONSEJO DE SERVICIOS INMOBILIARIOS DE LA CIUDAD DE MÉXICO
 
 > <small>(REFORMADO, G.O. 14 DE MARZO DE 2014)</small>
 
@@ -394,11 +416,15 @@ El Presidente del Consejo de Servicios Inmobiliarios podrá invitar a las sesion
 
 I. Servidores públicos locales o federales.
 
-II. Un representante del Colegio de Notarios del Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+II. Un representante del Colegio de Notarios de la Ciudad de México.
 
 III. Representantes de Asociaciones, organismos o consejos relacionados con el sector inmobiliario en cualquiera de sus modalidades.
 
-IV. Un Representante de la Procuraduría General de Justicia del Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+IV. Un Representante de la Fiscalía General de Justicia de la Ciudad de México.
 
 La operación y funcionamiento del Consejo se llevará a cabo en los términos previstos en el Reglamento.
 
@@ -412,7 +438,9 @@ I. Proponer políticas, estrategias y acciones orientadas a la protección de lo
 
 II. Aprobar los Programas de Capacitación y Actualización de los Profesionales Inmobiliarios.
 
-III. Elaborar el Código de Ética de los Servicios Profesionales Inmobiliarios en el Distrito Federal.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+III. Elaborar el Código de Ética de los Servicios Profesionales Inmobiliarios aplicable a la Ciudad de México.
 
 IV. Analizar y resolver sobre asuntos que en materia de Prestación de Servicios Inmobiliarios se sometan a su consulta.
 
@@ -432,7 +460,9 @@ VII. Las que le atribuya esta Ley, su Reglamento y demás ordenamientos.
 
 Los Programas buscarán que los Profesionales Inmobiliarios adquieran, desarrollen, perfeccionen y actualicen sus conocimientos, habilidades y aptitudes para el eficaz desempeño de su actividad.
 
-Los Programas podrán ser impartidos por la Secretaría o en su caso por Instituciones Educativa, Colegios y Asociaciones los cuales tendrán que tener sus cursos debidamente autorizados en la materia ante la Secretaría de Educación Pública o la Secretaría de Educación del Distrito Federal.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
+
+Los Programas podrán ser impartidos por la Secretaría o en su caso por Instituciones Educativa (sic), Colegios y Asociaciones los cuales tendrán que tener sus cursos debidamente autorizados en la materia ante la Secretaría de Educación Pública o la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México.
 
 ###### Artículo 21.
 
@@ -448,11 +478,11 @@ Las especificaciones de los programas, periodicidad, convocatorias y demás cara
 
 #### SECCIÓN SEGUNDA. DEL CÓDIGO DE ÉTICA DE SERVICIOS INMOBILIARIOS
 
-> <small>(REFORMADO, G.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 23.
 
-El Código de Ética de Servicios Inmobiliarios para el Distrito Federal, se integrará por un conjunto de principios y directrices encaminadas a orientar la prestación de los servicios profesionales inmobiliarios en el Distrito Federal, a efecto de que, a través de un comportamiento digno y eficiente, responda a la necesidad de protección de los Usuarios de dichos servicios y a las reclamaciones que atenten contra el prestigio de los Profesionales Inmobiliarios.
+El Código de Ética de Servicios Inmobiliarios aplicable a la Ciudad de México, se integrará por un conjunto de principios y directrices encaminadas a orientar la prestación de los servicios profesionales inmobiliarios en la Ciudad de México, a efecto de que, a través de un comportamiento digno y eficiente, responda a la necesidad de protección de los Usuarios de dichos servicios y a las reclamaciones que atenten contra el prestigio de los Profesionales Inmobiliarios.
 
 > <small>(REFORMADO, G.O. 14 DE MARZO DE 2014)</small>
 
@@ -468,11 +498,13 @@ Los Profesionales Inmobiliarios deberán conducirse con rectitud, ética, honest
 
 ### CAPITULO ÚNICO. DEL REGISTRO DE CAPACITADORES INMOBILIARIOS
 
-> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 25.
 
-La Secretaría contará con un Padrón de Capacitadores Inmobiliarios constituido por Instituciones Educativas, Colegios o Asociaciones que han sido autorizadas por la Secretaría de Educación Pública o Secretaría de Educación del Distrito Federal, para la impartición de cursos de capacitación y actualización en materia inmobiliaria y que cumplan con los requisitos establecidos en el Reglamento.
+La Secretaría contará con un Padrón de Capacitadores Inmobiliarios constituido por Instituciones Educativas, Colegios o Asociaciones que han sido autorizadas por la Secretaría de Educación Pública o Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México, para la impartición de cursos de capacitación y actualización en materia inmobiliaria y que cumplan con los requisitos establecidos en el Reglamento.
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2014)</small>
 
 El Padrón de Capacitadores se publicará en la página de Internet para su consulta.
 
@@ -490,47 +522,79 @@ Las personas interesadas en formar parte del padrón a que se refiere este Títu
 
 ### CAPÍTULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 27.
 
-Las violaciones y faltas a lo establecido en la Ley y su Reglamento, serán sancionadas por la Secretaría o el Instituto de Verificación Administrativa del Distrito Federal, según lo determine esta Ley, sin que para ello sea necesario que se ciña al orden que a continuación señala:
+Las violaciones y faltas a lo establecido en la Ley y su Reglamento, serán sancionadas por la Secretaría o el Instituto de Verificación Administrativa de la Ciudad de México, según lo determine esta Ley, sin que para ello sea necesario que se ciña al orden que a continuación señala
+
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
 
 I. Amonestación;
 
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
+
 II. Apercibimiento;
+
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
 
 III. Multa por el equivalente del 50% al 100% (cincuenta al cien por ciento) de la cantidad obtenida como pago por los servicios que preste el Profesional Inmobiliario, dicha multa se fijará de manera proporcional y equitativa por la Secretaría considerando lo establecido en el Artículo 28 de esta Ley;
 
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
+
 IV. Suspensión de seis meses a un año de la Certificación o Registro;
+
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
 
 V. Suspensión de seis meses a un año del Registro de los Capacitadores Inmobiliarios;
 
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
+
 VI. Revocación definitiva de la Certificación y Registro del Profesional Inmobiliario;
+
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
 
 VII. Revocación definitiva del Registro de los Capacitadores Inmobiliarios;
 
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
+
 VIII. Arresto administrativo hasta por treinta y seis horas que podrá ser conmutable.
 
-En caso de que la Secretaría o el Instituto de Verificación Administrativa del Distrito Federal, tenga conocimiento por sí, o por terceras personas del uso indebido de cualquier documentación, realización de actos, o conductas que estime constitutiva de ilícito penal en relación a los actos de profesionales inmobiliarios, se pondrá en conocimiento del Ministerio Público.
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
-> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2014)</small>
+En caso de que la Secretaría o el Instituto de Verificación Administrativa de la Ciudad de México, tenga conocimiento por sí, o por terceras personas del uso indebido de cualquier documentación, realización de actos, o conductas que estime constitutiva de ilícito penal en relación a los actos de profesionales inmobiliarios, se pondrá en conocimiento del Ministerio Público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 28.
 
-La Secretaría o el Instituto de Verificación Administrativa del Distrito Federal, fundará y motivará su resolución considerando lo siguiente:
+La Secretaría o el Instituto de Verificación Administrativa de la Ciudad de México, fundará y motivará su resolución considerando lo siguiente:
+
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
 
 I. Los daños y perjuicios que se hayan ocasionado o pudieren ocasionarse;
 
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
+
 II. La gravedad de la infracción;
+
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
 
 III. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
 
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
+
 IV. La capacidad económica del infractor;
+
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
 
 V. La reincidencia del infractor;
 
+> <small>(ADICIONADA, G.O. 14 DE MARZO DE 2014)</small>
+
 VI. El monto del lucro obtenido por el infractor.
+
+> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2014)</small>
 
 Las infracciones y sanciones se aplicarán según las circunstancias del caso.
 
@@ -576,11 +640,11 @@ Al Profesional Inmobiliario, que no se apegue al Código de Ética o que sus acc
 
 Al Profesional Inmobiliario, que sean sentenciados en materia penal por hechos derivados del ejercicio de su actividad inmobiliaria, se le sancionará con la Revocación definitiva de la Certificación, Revalidación y Registro.
 
-> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 36.
 
-Las sanciones consistentes en multa que imponga la Secretaría, se harán efectivas por la Secretaría de Finanzas del Gobierno del Distrito Federal.
+Las sanciones consistentes en multa que imponga la Secretaría, se harán efectivas por la Secretaría de Administración y Finanzas del Gobierno de la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 14 DE MARZO DE 2014)</small>
 
@@ -588,15 +652,15 @@ Las sanciones consistentes en multa que imponga la Secretaría, se harán efecti
 
 En todos los casos, las infracciones y sanciones que se hagan a los Profesionales Inmobiliarios y Capacitadores se asentarán en el Registro.
 
-> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, G.O. 23 DE JULIO DE 2026)</small>
 
 ###### Artículo 38.
 
-La Secretaría podrá solicitar al Instituto de Verificación Administrativa del Distrito Federal la práctica de visitas de verificación a los profesionales inmobiliarios a efecto de revisar que cumplan las obligaciones y no incurran en las prohibiciones contenidas en esta Ley.
+La Secretaría podrá solicitar al Instituto de Verificación Administrativa de la Ciudad de México la práctica de visitas de verificación a los profesionales inmobiliarios a efecto de revisar que cumplan las obligaciones y no incurran en las prohibiciones contenidas en esta Ley.
 
-El Instituto de Verificación Administrativa del Distrito Federal tendrá facultad para verificar en materia de profesionales inmobiliarios.
+El Instituto de Verificación Administrativa de la Ciudad de México tendrá facultad para verificar en materia de profesionales inmobiliarios.
 
-Solo cuando la Secretaria lo solicite el Instituto de Verificación Administrativa del Distrito Federal emitirá las ordenes de verificación; y practicará las visitas así como substanciará el procedimiento conforme a la ley del Instituto, su Reglamento y demás normativa vigente.
+Solo cuando la Secretaría lo solicite el Instituto de Verificación Administrativa de la Ciudad de México emitirá las ordenes de verificación; y practicará las visitas así como substanciará el procedimiento conforme a la ley del Instituto, su Reglamento y demás normativa vigente.
 
 > <small>(ADICIONADO, G.O. 14 DE MARZO DE 2014)</small>
 
@@ -771,3 +835,11 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LA DENOMINACIÓN DE LA LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL DISTRITO FEDERAL, PARA QUEDAR COMO “LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS PARA LA CIUDAD DE MÉXICO” Y LA DENOMINACIÓN DEL CAPÍTULO PRIMERO, “DEL CONSEJO DE SERVICIOS INMOBILIARIOS DEL DISTRITO FEDERAL, PARA QUEDAR COMO CAPÍTULO PRIMERO, “DEL CONSEJO DE SERVICIOS INMOBILIARIOS DE LA CIUDAD DE MÉXICO” ASÍ COMO LOS ARTÍCULOS 1, 2 FRACCIONES I, III, IV, XI Y XIV; 5 FRACCIÓN VII; 6; 8; 16 FRACCIÓN V; 16 BIS FRACCIÓN I; 18 FRACCIONES II Y IV; 19 FRACCIÓN III; 20, 23, 25, 27, 28, 36 Y 38".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
