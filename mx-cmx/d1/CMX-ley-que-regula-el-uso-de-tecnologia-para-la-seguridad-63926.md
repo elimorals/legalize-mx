@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-regula-el-uso-de-tecnologia-para-la-seguridad-63926"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-27"
-last_updated: "2026-07-13"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63926&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-10-16"
 
 LEY QUE REGULA EL USO DE TECNOLOGÍA PARA LA SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 27 de octubre de 2008.
 
@@ -58,9 +58,9 @@ LEY QUE REGULA EL USO DE TECNOLOGÍA PARA LA SEGURIDAD CIUDADANA DE LA CIUDAD DE
 
 Las disposiciones de esta Ley son de orden público e interés social y de observancia general en la Ciudad de México y tienen por objeto:
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-I. Regular la ubicación, instalación y operación de equipos y sistemas tecnológicos a cargo de la Secretaría de Seguridad Ciudadana de la Ciudad de México;
+I. Regular la ubicación, instalación y operación de equipos y sistemas tecnológicos a cargo de la Secretaría de Seguridad Ciudadana de la Ciudad de México, en bienes del dominio y espacios públicos;
 
 II. Contribuir al mantenimiento del orden, la tranquilidad y estabilidad en la convivencia así como prevenir situaciones de emergencia o desastre e incrementar la seguridad ciudadana;
 
@@ -80,15 +80,17 @@ I. Cadena de Custodia: al documento oficial donde se asienta la obtención de in
 
 II. Conductas Ilícitas de alto impacto: aquellas que tengan amplia repercusión por su recurrencia y cercanía con el entorno familiar y vecinal;
 
-III. Equipos tecnológicos: al conjunto de aparatos y dispositivos, para el tratamiento de voz o imagen, que constituyen el material de un sistema o un medio;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+III. Equipos tecnológicos: al conjunto de aparatos, dispositivos y herramientas, para el tratamiento de voz, video y/o imagen, que constituyen el material de un sistema o un medio;
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
 
 IV. Instituciones de Seguridad Ciudadana: a la Secretaría de Seguridad Ciudadana y Fiscalía General de Justicia, que como dependencias del ámbito local de la Ciudad de México, por sus funciones legales les compete la prevención, investigación y persecución de delitos e infracciones administrativas;
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-V. Inteligencia para la prevención: al conocimiento obtenido a partir del acopio, procesamiento, diseminación y aprovechamiento de información, para la toma de decisiones en materia de Seguridad Ciudadana competencia de la Ciudad de México;
+V. Inteligencia para la prevención: al conocimiento obtenido a partir del acopio, procesamiento, análisis, diseminación y aprovechamiento de información, para la toma de decisiones en materia de Seguridad Ciudadana competencia de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
 
@@ -114,9 +116,9 @@ X. Reglamento: al Reglamento de la Ley que Regula el Uso de Tecnología para la 
 
 XI. Secretaría: a la Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-XII. Sistema tecnológico: al conjunto organizado de dispositivos electrónicos, programas de cómputo y en general todo aquello basado en tecnologías de la información para apoyar tareas de seguridad ciudadana; y
+XII. Sistema tecnológico: al conjunto organizado de equipos, herramientas tecnológicas, y en general todo aquello basado en tecnologías de la información para apoyar tareas de seguridad pública; y
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
 
@@ -278,9 +280,9 @@ Para el óptimo aprovechamiento y oportuna actualización de los equipos y siste
 
 Las funciones del Consejo Asesor en Educación, Ciencia, Tecnología e Innovación para la Seguridad Ciudadana, serán las siguientes:
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-I. Diseñar políticas para la adquisición, utilización e implementación de equipos y sistemas tecnológicos por la Secretaría y la Fiscalía General de Justicia de la Ciudad de México;
+I. Diseñar políticas para la adquisición, utilización e implementación de equipos y sistemas tecnológicos por las instituciones de Seguridad Ciudadana;
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2025)</small>
 
@@ -693,3 +695,13 @@ SÉPTIMO. Los procedimientos, trámites, solicitudes, recursos, medios de impugn
 OCTAVO. La información clasificada, reservada o confidencial con anterioridad a la entrada en vigor del presente Decreto conservará dicho carácter durante los plazos y condiciones establecidos al momento de su clasificación, sin perjuicio de que pueda ser revisada conforme a la legislación vigente en materia de transparencia y protección de datos personales.
 
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado para los ejecutores de gasto correspondientes, en el caso de modificaciones o creación de estructuras orgánicas, éstas deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 1; LAS FRACCIONES III, V Y XII DEL ARTÍCULO 2; Y LA FRACCIÓN I DEL ARTÍCULO 4, TODOS DE LA LEY QUE REGULA EL USO DE TECNOLOGÍA PARA LA SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
