@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-fisica-y-deporte-de-la-ciudad-de-mexico-57769"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-04"
-last_updated: "2024-12-17"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-12"
 
 LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de enero de 2008.
 
@@ -268,7 +268,9 @@ I.- Cumplir con los Estatutos y Reglamentos de su deporte, especialidad o activi
 
 II.- Respetar los lineamientos del Sistema y del Programa del Deporte de la Ciudad de México;
 
-III.- Cuidar y vigilar que la infraestructura deportiva utilizada en sus prácticas, se ocupe para el fin adecuado, procurando se conserve en buen estado, conforme a lo establecido en los Reglamentos aplicables;
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+III.- Cuidar y vigilar que la infraestructura deportiva utilizada en sus prácticas, se ocupe para el fin adecuado, procurando se conserve en buen estado, con prácticas que prioricen la perspectiva de género, conforme a lo establecido en los Reglamentos aplicables;
 
 > <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2021)</small>
 
@@ -422,9 +424,9 @@ XVI.- Promover entre la sociedad, alternativas de financiamiento que permitan in
 
 XVII.- Otorgar reconocimientos y estímulos a deportistas, incluidos los deportistas con discapacidad, en las entidades u organismos públicos sociales y privados de los Órganos Político-Administrativos de las Demarcaciones Territoriales de la Ciudad de México que se hayan distinguido en el deporte o en la difusión, promoción, fomento o investigación en materia deportiva;
 
-> <small>(REFORMADA, G.O. 13 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-XVIII.- Efectuar verificaciones anuales a las instalaciones deportivas de la Ciudad de México, en coordinación con la unidad administrativa de Gestión Integral de Riesgos y Protección Civil de las alcaldías, a efecto de que se encuentren en óptimas condiciones de uso y mantenimiento; así como equipadas con todos y cada uno de los elementos materiales necesarios para la práctica de cada especialidad; y en su caso podrán vetar el uso de cualquier instalación que no cumpla con los requisitos de seguridad; dicha verificación se reportará en un informe anual que detallará las condiciones de la infraestructura deportiva y que estará públicamente disponible en el portal de Internet del Instituto.
+XVIII.- Efectuar verificaciones anuales a las instalaciones deportivas de la Ciudad de México, a efecto de que se encuentren en óptimas condiciones de uso y mantenimiento; así como equipadas con todos y cada uno de los elementos materiales necesarios para la práctica de cada especialidad; y en su caso podrán vetar el uso de cualquier instalación que no cumpla con los requisitos de seguridad y perspectiva de género; dicha verificación se reportará en un informe anual que detallará las condiciones de la infraestructura deportiva y que estará públicamente disponible en el portal de Internet del Instituto.
 
 > <small>(REFORMADA, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -682,9 +684,9 @@ X. Destinar, conforme lo establezcan sus presupuestos de egresos, recursos para 
 
 XI.- Vigilarán que la entrada a las instalaciones y la expedición de credenciales de los deportivos que correspondan a su competencia sean totalmente gratuitos; bajo la supervisión y vigilancia de la contraloría correspondiente.
 
-> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-XII.- Promover la realización de programas y campañas de difusión con perspectiva de género sobre la no violencia en el deporte, la erradicación de actos racistas, intolerantes y violentos y de una cultura de sana convivencia y esparcimiento al interior de las instalaciones y espacios deportivos de su jurisdicción.
+XII.- Promover la realización de programas y campañas de difusión con perspectiva de género sobre la no violencia en el deporte, el acceso pleno y seguro a espacios públicos, la erradicación de actos racistas, intolerantes y violentos y de una cultura de sana convivencia y esparcimiento al interior de las instalaciones y espacios deportivos de su jurisdicción.
 
 > <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
 
@@ -844,7 +846,9 @@ I.- La forma en que se desarrollarán las actividades deportivas que se realicen
 
 II.- Los apoyos que, en su caso, les sean destinados para el desarrollo y fomento del deporte, comprendiendo las actividades científicas y técnicas que se relacionen con el mismo; y
 
-III.- Las acciones y recursos que aporten para la promoción y fomento del deporte, así como el uso de su infraestructura.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+III.- Las acciones y recursos que aporten para la promoción y fomento del deporte, así como el uso de su infraestructura, priorizando acciones con perspectiva de género.
 
 ###### Artículo 49.
 
@@ -1313,5 +1317,13 @@ G.O. 17 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO, EN MATERIA DE AUTOCUIDADOS, PREVENCIÓN DE ENFERMEDADES Y GENERACIÓN DE BIENESTAR”.]
 
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO, (EN MATERIA DE PROMOVER ESPACIOS SEGUROS PARA MUJERES, DENOMINADO “CANCHA SEGURA” PARA MUJERES)”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
