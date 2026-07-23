@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-reconocimiento-de-los-derechos-de-las-personas-146185"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-15"
-last_updated: "2025-12-24"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146185&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-01-14"
 
 LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en el Número 515 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 15 de enero de 2021.
 
@@ -674,11 +674,17 @@ II. Realizar una amplia difusión de todas las instituciones públicas que propo
 
 III. Fomentar en las instituciones de educación superior de la Ciudad la impartición de cursos formativos dirigidos a personas mayores que, con independencia del nivel académico con el que cuenten, posibiliten la formación en determinadas materias, sin que ello implique la obtención de una titulación académica;
 
-IV. Incluir en los planes y programas de estudio del sistema educativo de la ciudad los conocimientos relacionados con los derechos de las personas mayores, el respeto, aprecio y reconocimiento a sus aportaciones y los relativos para alcanzar un envejecimiento activo y saludable, y
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 24 DE DICIEMBRE DE 2025)</small>
+IV. Incluir en los planes y programas de estudio del sistema educativo de la ciudad los conocimientos relacionados con los derechos de las personas mayores, el respeto, aprecio y reconocimiento a sus aportaciones y los relativos para alcanzar un envejecimiento activo y saludable;
 
-V. Desarrollar, en forma prioritaria, programas educativos especialmente orientados a las personas mayores para capacitarlas en el uso de las tecnologías de la información y comunicación, con el propósito de minimizar la brecha digital e incrementar su integración social y comunitaria.
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
+
+V. Desarrollar, en forma prioritaria, programas educativos especialmente orientados a las personas mayores para capacitarlas en el uso de las tecnologías de la información y comunicación, con el propósito de minimizar la brecha digital e incrementar su integración social y comunitaria; y
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+VI. Promover el acceso y desarrollo de actividades y programas de educación física diseñados específicamente para personas mayores, con el fin de mejorar su salud física, mental y emocional, fomentar la inclusión social y promover su autonomía y calidad de vida.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], G.O. 24 DE DICIEMBRE DE 2025)</small>
 
@@ -1647,6 +1653,16 @@ SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publica
 G.O. 24 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 6, SU SECCIÓN XIV, 50, 51, 52, 54 Y 55, TODOS DE LA LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VI AL ARTICULO 51 DE LA LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
