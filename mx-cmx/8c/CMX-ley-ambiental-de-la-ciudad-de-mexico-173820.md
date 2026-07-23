@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-la-ciudad-de-mexico-173820"
 country: "mx"
 rank: "ley"
 publication_date: "2024-07-18"
-last_updated: "2026-07-22"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173820&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2024-07-16"
 
 LEY AMBIENTAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en el No. 1404 de la Gaceta Oficial de la Ciudad de México, el jueves 18 de julio de 2024.
 
@@ -149,6 +149,10 @@ IX. Auditoría Ambiental: El examen metodológico de las actividades, operacione
 X. Autorización de Impacto Ambiental: La autorización otorgada por la Secretaría como resultado de la presentación y evaluación de una declaratoria de cumplimiento ambiental, informe preventivo, manifestación o estudio de impacto ambiental y riesgo, según corresponda, cuando previamente a la realización de una obra o actividad se cumplan los requisitos establecidos en esta Ley para evitar o en su defecto minimizar y restaurar o compensar los daños ambientales que las mismas puedan ocasionar;
 
 XI. Barrancas: La depresión geográfica que por sus condiciones topográficas y geológicas se presentan como hendiduras y sirven de refugio de vida silvestre, de cauce de los escurrimientos naturales de ríos, riachuelos y precipitaciones pluviales, que constituyen zonas importantes del ciclo hidrológico y biogeoquímico;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+XI Bis. Bosque de Agua: Sistema ecorregional de bosques templados de montaña que se extiende por las sierras de las Cruces, del Ajusco, del Chichinautzin y de Zempoala, compartido entre la Ciudad de México, el Estado de México y Morelos. Su cobertura forestal, condiciones geomorfológicas e hidrológicas resultan determinantes para la infiltración pluvial y la recarga de los acuíferos que abastecen a la Zona Metropolitana del Valle de México, así como para la conservación de la biodiversidad regional.
 
 XII. Centros de Verificación de Emisiones Vehiculares o Verificentros: Establecimiento de servicio autorizado por la Secretaría para llevar a cabo la medición de emisiones contaminantes provenientes de los vehículos automotores en circulación, así como evaluar la condición operativa de sus componentes de control ambiental, con el equipo y la tecnología autorizada por la Secretaría;
 
@@ -3865,3 +3869,13 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La reglamentación aplicable al presente decreto deberá ser expedida dentro de los ciento ochenta días hábiles siguientes a su entrada en vigor.
 
 CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado de las respectivas dependencias y cualquier modificación deberá realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal ni subsecuentes.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XI BIS DEL ARTÍCULO 4 DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
