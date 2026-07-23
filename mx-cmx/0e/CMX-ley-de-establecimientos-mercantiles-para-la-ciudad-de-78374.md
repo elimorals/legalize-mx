@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2026-07-22"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -121,6 +121,10 @@ g) Traspaso del establecimiento mercantil; y
 h) Modificaciones del establecimiento o giro.
 
 V. Clausura Permanente: El acto administrativo a través del cual la autoridad, como consecuencia del incumplimiento grave o reiterado a la normatividad correspondiente, ordena suspender las actividades o funcionamiento de un establecimiento mercantil de forma inmediata;
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2026)</small>
+
+Tratándose de los sellos a que se refiere esta fracción, la autoridad deberá incluir, además de lo previsto en el Reglamento de Verificación Administrativa del Distrito Federal, la causa que dio origen a la sanción.
 
 VI. Clausura Parcial o Total: El acto administrativo a través del cual la autoridad, como consecuencia del incumplimiento a la normatividad correspondiente, ordena suspender las actividades o funcionamiento de un establecimiento mercantil sólo en una parte o en todo el establecimiento mercantil;
 
@@ -470,13 +474,25 @@ VII. Evitar aglomeraciones en la entrada principal, salidas y salidas de emergen
 
 Las salidas de emergencia deberán estar debidamente señaladas al interior de los establecimientos mercantiles, y cuando las características del mismo lo permitan deberán ser distintas al acceso principal de conformidad con la normativa en gestión integral de riesgos y protección civil;
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-VIII. Permitir el libre acceso al establecimiento mercantil a los perros de asistencia. El establecimiento mercantil no podrá establecer condición alguna o costos por la entrada o estancia de dicho animal;
+VIII. Permitir el libre acceso al establecimiento mercantil a los perros de asistencia.
+
+Los establecimientos mercantiles podrán de manera voluntaria permitir el acceso a animales de compañía, y podrán habilitar áreas determinadas y adecuadas para su estancia, procurando condiciones de seguridad, higiene y bienestar tanto para estos como para las personas usuarias.
+
+Los perros de asistencia y los animales de compañía no podrán ingresar a las áreas restringidas por disposiciones higiénico-sanitarias, de protección civil o aquellas cuya naturaleza, actividad o condiciones representen un riesgo para la seguridad o bienestar de estos y de las personas usuarias.
+
+Tratándose de perros de asistencia, la restricción señalada en el párrafo anterior no será aplicable cuando la persona usuaria del ejemplar requiera de éste para su movilidad, orientación, auxilio o realización de actividades esenciales y no pueda ser asistida de manera individual por un familiar o persona de confianza
+
+El establecimiento mercantil no podrá establecer condición alguna ni cobrar costo adicional por el acceso o estancia de los animales de compañía y perros de asistencia.
 
 > <small>(REFORMADA, G.O. 21 DE ABRIL DE 2023)</small>
 
 VIII bis. Realizar todas las acciones pertinentes para evitar cualquier forma de discriminación establecidas en los artículos 5 y 6 de la Ley para Prevenir y Eliminar la Discriminación de la Ciudad de México, en perjuicio de alguna persona o grupo de atención prioritaria.
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+VIII ter. Los establecimientos mercantiles que, de manera voluntaria, deseen obtener el Distintivo de Lugar Abierto a Animales de Compañía podrán presentar su solicitud ante la Agencia de Atención Animal, cumpliendo con las condiciones y requerimientos que se emitan para tal efecto, en términos de lo dispuesto por el artículo 73 fracción XXVI Quáter de la Ley de Protección y Bienestar de los Animales de la Ciudad de México.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2012)</small>
 
@@ -898,9 +914,13 @@ III. Establecimientos de Hospedaje;
 
 IV. Clubes Privados; y
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-V. Salas de cine y autocinemas con o sin venta de bebidas alcohólicas, teatros y auditorios.
+V. Salas de cine y autocinemas con o sin venta de bebidas alcohólicas, teatros y auditorios; y
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+VI. Pulquerías Tradicionales.
 
 > <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
 
@@ -1087,6 +1107,24 @@ privados 7:00 horas y hasta y hasta las 3:00 horas
 las 3:00 horas del del día siguiente.
 
 día siguiente. día siguiente.
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2026)</small>
+
+g) Pulquerías
+
+Tradicionales: 10:00 a 22:00 horas 10:00 a 22:00 horas
+
+> <small>(ADICIONADO, G.O. 23 DE JULIO DE 2026)</small>
+
+###### Artículo 24 Bis.
+
+Las Pulquerías Tradicionales se sujetarán a las siguientes disposiciones específicas:
+
+I. Su actividad comercial principal será la venta de pulque natural y curado, entendido como la bebida fermentada derivada del aguamiel del maguey, sin que se permita la venta de otras bebidas alcohólicas, ni la entrada a menores de edad.
+
+De manera complementaria se permitirá la venta de alimentos y botanas.
+
+II. Las pulquerías tradicionales realizarán exclusivamente su actividad principal para consumo dentro del establecimiento o para llevar, quedando prohibida la modalidad de barra libre.
 
 ###### Artículo 25.
 
@@ -2413,3 +2451,45 @@ PRIMERO. Remítase a la Persona Titular de la Jefatura de Gobierno para su promu
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Los establecimientos mercantiles obligados conforme al presente Decreto deberán instalar cambiadores de bebés en los sanitarios para mujeres y hombres, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 2 DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 10 APARTADO A DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las personas titulares de los establecimientos mercantiles de bajo impacto, impacto vecinal e impacto zonal podrán realizar, dentro de un plazo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, las adecuaciones y acciones que, en su caso, consideren necesarias para la implementación de las medidas previstas en el mismo.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXVI TER DEL ARTÍCULO 73; ASIMISMO SE ADICIONA UNA FRACCIÓN XXII BIS 2 AL ARTÍCULO 4; Y, UNA FRACCIÓN XXVI QUÁTER AL ARTÍCULO 73, TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO Y SE ADICIONA UNA FRACCIÓN VIII TER AL APARTADO A DEL ARTÍCULO 10 DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Dentro de los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
+
+CUARTO.- En un plazo no mayor a ciento ochenta días hábiles contados a partir de la publicación del presente Decreto en la Gaceta Oficial de la Ciudad de México, la Agencia de Atención Animal de la Ciudad de México deberá emitir los lineamientos y criterios aplicables a los establecimientos mercantiles que, de manera voluntaria, deseen participar en el procedimiento para obtener el Distintivo de Lugar Abierto a Animales de Compañía.
+
+QUINTO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LA FRACCIÓN VI AL ARTÍCULO 19; EL INCISO G) AL ARTÍCULO 24 Y EL ARTÍCULO 24 BIS A LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO ".]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor noventa días posteriores a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
