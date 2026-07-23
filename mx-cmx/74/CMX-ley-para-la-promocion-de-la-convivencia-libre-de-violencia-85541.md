@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-promocion-de-la-convivencia-libre-de-violencia-8554
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-31"
-last_updated: "2021-05-27"
+last_updated: "2026-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85541&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2012-01-25"
 
 LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE JULIO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 31 de enero de 2012.
 
@@ -192,9 +192,13 @@ La persona víctima de cualquier tipo y modalidad de violencia en el entorno esc
 
 I. Ser tratada con respeto a su integridad y el ejercicio pleno de sus derechos tanto por la comunidad educativa, como por las autoridades competentes;
 
-> <small>(REFORMADA, G.O. 27 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, G.O. 23 DE JULIO DE 2026)</small>
 
-II. Contar con protección inmediata y efectiva por parte de las autoridades de la Ciudad de México cuando se encuentre en riesgo su integridad física o psicológica;
+II. Recibir atención y protección inmediata por parte de las autoridades de la Ciudad de México, cuando se encuentre en riesgo su integridad física o psicológica;
+
+> <small>(ADICIONADA, G.O. 23 DE JULIO DE 2026)</small>
+
+II Bis. A la aplicación de los protocolos de actuación, bajo los principios de diligencia, no revictimización y enfoque de género;
 
 III. Recibir información, veraz y suficiente que le permita decidir sobre las opciones de atención;
 
@@ -933,3 +937,13 @@ G.O. 27 DE MAYO DE 2021.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+G.O. 23 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 4; Y SE ADICIONA LA FRACCIÓN II BIS DEL ARTÍCULO 4, TODOS DE LA LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DE LA CIUDAD DE MÉXICO Y SE ADICIONA UN ARTÍCULO 113 BIS A LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
