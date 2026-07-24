@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2026-05-25"
+last_updated: "2026-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2026.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -53,7 +53,11 @@ El Estado de Sinaloa, como parte integrante de los Estados Unidos Mexicanos, se 
 
 En lo que atañe a su régimen interior la soberanía del Estado reside esencial y originariamente en el pueblo sinaloense, el cual propugna como valores superiores de su orden jurídico y social, la libertad, la igualdad sustantiva, la justicia, la solidaridad, el pluralismo político y la diversidad cultural.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2026)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+###### Art. 3°.
+
+El Estado de Sinaloa es libre y soberano en su régimen interior, sin más limitaciones que las expresamente establecidas por el Pacto Federal. Sus tareas fundamentales son promover el bienestar individual y colectivo de las y los sinaloenses, el desarrollo económico sustentable considerando la simplificación administrativa y digitalización de trámites y servicios, y el desarrollo de capacidades tecnológicas como una estrategia para alcanzar dicho propósito, también el procurar la seguridad y la paz social, la participación de la ciudadanía en la vida política, económica, cultural y social, y la equidad en las relaciones sociales.
 
 ###### Art. 4º.
 
@@ -93,11 +97,17 @@ III. Nadie será sometido sin su libre consentimiento a exámenes y experimentos
 
 IV. Todo ser humano tiene derecho a un nombre propio y a los apellidos de sus padres o al de uno de ellos. La ley regulará la forma de asegurar este derecho.
 
-V. Todo individuo tiene derecho a adecuar su comportamiento a convicciones personales de orden religioso, ético, humanitario o de una naturaleza afín.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-VI. Todo individuo tiene derecho a buscar, recibir y difundir informaciones e ideas de toda índole, salvo los casos de excepción que determine la ley orgánica para asegurar el respeto a los derechos o a la reputación de los demás y la protección de la seguridad nacional, el orden público o la salud pública.
+V. Toda persona tiene derecho a adecuar su comportamiento a convicciones personales de orden religioso, ético, humanitario o de una naturaleza afín.
 
-VII. Cuando se trate de datos personales en información creada, administrada o en posesión de las entidades públicas, el individuo tendrá libre acceso a todo registro, archivo o banco de datos en que se contengan referencias a su persona, pudiendo requerir la actualización, rectificación, confidencialidad o supresión de esta información si lesiona o restringe alguno de sus derechos.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+VI. Toda persona tiene derecho a buscar, recibir y difundir informaciones e ideas de toda índole, salvo los casos de excepción que determine la ley orgánica para asegurar el respeto a los derechos o a la reputación de los demás y la protección de la seguridad nacional, el orden público o la salud pública.
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+VII. Cuando se trate de datos personales en información creada, administrada o en posesión de las entidades públicas, toda persona tendrá libre acceso a todo registro, archivo o banco de datos en que se contengan referencias a su persona, pudiendo requerir la actualización, rectificación, confidencialidad o supresión de esta información si lesiona o restringe alguno de sus derechos.
 
 VIII. Toda persona afectada por informaciones emitidas en su perjuicio a través de medios de difusión y que se dirijan al público en general, tiene derecho a efectuar por el mismo órgano de difusión y en condiciones similares a la difusión efectuada, su rectificación o respuesta en los términos que establezca la ley.
 
@@ -233,23 +243,55 @@ IV. Las únicas limitaciones admisibles son las previstas en el texto constituci
 
 V. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2013)
 
-VI. El interés superior del niño deberá tener consideración primordial por parte de los tribunales, autoridades administrativas u órganos legislativos, así como en todas las medidas que tomen las instituciones públicas o privadas de bienestar social. Dicho deber implica que el desarrollo del niño y el ejercicio pleno de sus derechos deben ser considerados como criterios rectores para la elaboración de normas y la aplicación de éstas en todos los órdenes relativos a la vida del niño.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+VI. El interés superior de la niñez deberá tener consideración primordial por parte de los tribunales, autoridades administrativas u órganos legislativos, así como en todas las medidas que tomen las instituciones públicas o privadas de bienestar social. Dicho deber implica que el desarrollo de niñas y niños y el ejercicio pleno de sus derechos deben ser considerados como criterios rectores para la elaboración de normas y la aplicación de éstas en todos los órdenes relativos a su vida.
 
 VII. Ninguna interpretación podrá excluir otros derechos inherentes al ser humano que no estén previstos en la presente Constitución.
 
 ## TITULO II
 
-### CAPITULO I. DE LOS SINALOENSES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JULIO DE 2026)</small>
 
-### CAPITULO II. DE LOS CIUDADANOS SINALOENSES
+### CAPITULO I. DE LAS Y LOS SINALOENSES
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-###### Art. 8º.
+###### Art. 5°.
 
-Son ciudadanos sinaloenses:
+Son sinaloenses las y los mexicanos nacidos en el Estado de Sinaloa, y las personas residentes en él por más de dos años consecutivos.
 
-Los hombres y mujeres nacidos en el Estado, así como los ciudadanos mexicanos avecinados en Sinaloa por más de dos años consecutivos, si no han declarado ante el Ejecutivo del Estado, que desean conservar su calidad de origen; y que reúnan además los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
+
+###### Art. 6°.
+
+Son obligaciones de las y los sinaloenses:
+
+I. Inscribirse en el catastro de la Municipalidad, manifestando la propiedad que tenga y la industria, profesión o trabajo de que subsista.
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
+
+II. Instruirse y ser responsable de que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas, para recibir educación preescolar, primaria, secundaria, media superior y, (sic) su caso la inicial, de conformidad con las leyes respectivas. Asimismo, los padres, madres o tutores deberán dar seguimiento al proceso educativo, revisando su progreso y desempeño, velando por el bienestar y desarrollo de sus hijos o tutorados.
+
+III. Contribuir a los gastos públicos en la forma que las leyes lo dispongan.
+
+IV. Cooperar al mantenimiento del orden y de la paz pública.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+###### Art. 7°.
+
+Las y los sinaloenses en igualdad de circunstancias serán preferidos a los que no lo sean, en toda clase de concesiones, empleos, cargos o comisiones del Gobierno, que de acuerdo con las leyes puedan otorgárseles.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JULIO DE 2026)</small>
+
+### CAPITULO II. DE LAS CIUDADANAS Y LOS CIUDADANOS SINALOENSES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
+
+###### Art. 8°.
+
+Son ciudadanos sinaloenses: Los hombres y mujeres nacidos en el Estado, así como las ciudadanas y los ciudadanos mexicanos avecindados en Sinaloa por más de dos años consecutivos, si no han declarado ante el Ejecutivo del Estado, que desean conservar su calidad de origen; y que reúnan además los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 1970)</small>
 
@@ -257,11 +299,11 @@ I. Haber cumplido los dieciocho años y
 
 II. Tener un modo honesto de vivir.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 1953)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
-###### Art. 9º.
+###### Art. 9°.
 
-Son obligaciones del ciudadano del Estado, además de las anteriores:
+Son obligaciones de la ciudadana y el ciudadano del Estado, además de las anteriores:
 
 I. Inscribirse en los padrones municipales de la jurisdicción a que pertenezcan.
 
@@ -275,23 +317,23 @@ III. Desempeñar las funciones electorales y los cargos de elección popular y l
 
 IV. (DEROGADA, P.O. 1 DE JUNIO DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 10.
 
-Son derechos del ciudadano sinaloense:
+Son derechos de la ciudadana y el ciudadano sinaloense:
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
 
 I. Votar en las elecciones populares, siempre que estén en pleno ejercicio de sus derechos.
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Los ciudadanos que residan en el extranjero podrán ejercer su derecho al voto para la elección de Gobernador, en los términos que disponga la Ley en la materia.
+Las ciudadanas y los ciudadanos que residan en el extranjero podrán ejercer su derecho al voto para la elección de Gobernadora o Gobernador, en los términos que disponga la Ley en la materia.
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-II. Poder ser votado en condiciones de paridad de género para todos los cargos de elección popular, teniendo las calidades que establezca la Ley. El derecho de solicitar el registro de candidaturas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la ley de la materia.
+II. Poder ser votada y votado en condiciones de paridad de género para todos los cargos de elección popular, teniendo las calidades que establezca la Ley. El derecho de solicitar el registro de candidaturas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la ley de la materia.
 
 III. Ser preferido en igualdad de circunstancias, a los que no sean ciudadanos sinaloenses en toda clase de empleos, cargos, comisiones y concesiones del Gobierno del Estado y Municipios.
 
@@ -307,11 +349,15 @@ V. Participar en los procesos de revocación de mandato.
 
 (DEROGADO, P.O. 26 DE ENERO DE 1950)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
+
 ###### Art. 11.
 
-La calidad de ciudadano sinaloense se pierde:
+La calidad de la ciudadana y el ciudadano sinaloense se pierde:
 
-I. Por la pérdida de la calidad de ciudadano mexicano.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+I. Por la pérdida de la calidad de la ciudadanía mexicana.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE DICIEMBRE DE 1953)</small>
 
@@ -319,11 +365,15 @@ II. Por residencia de más de dos años consecutivos fuera del Estado, cuando la
 
 III. En los demás casos que expresamente lo prevengan las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
+
 ###### Art. 12.
 
-Los derechos o prerrogativas del ciudadano sinaloense, se suspenden:
+Los derechos o prerrogativas de la ciudadana y el ciudadano sinaloense, se suspenden:
 
-I. Por la suspensión de los derechos o prerrogativas del ciudadano mexicano.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+I. Por la suspensión de los derechos o prerrogativas de la ciudadanía mexicana.
 
 II. Por incapacidad declarada conforme a la ley.
 
@@ -331,7 +381,9 @@ II. Por incapacidad declarada conforme a la ley.
 
 III. Por tener pendiente proceso y estar privado de la libertad desde la fecha del auto de vinculación a proceso si se trata de un juicio del orden penal común, o desde la declaración de haber lugar a formación de causa, en los casos de omisiones, faltas o delitos oficiales.
 
-IV. Por la falta de cumplimiento, sin causa justificada a cualquiera de las obligaciones que esta Constitución impone al ciudadano sinaloense.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+IV. Por la falta de cumplimiento, sin causa justificada a cualquiera de las obligaciones que esta Constitución impone a la ciudadana y el ciudadano sinaloense.
 
 V. Por disposición expresa de autoridad judicial en sentencia que haya causado ejecutoria.
 
@@ -351,9 +403,9 @@ En los supuestos de esta fracción, la persona no podrá ser registrada como can
 
 VIII. En los demás casos que las leyes determinen.
 
-> <small>(ADICIONADO, P.O. 09 DE MAYO DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Una vez suspendida o perdida la calidad de ciudadano sinaloense, sólo se recobrará en la forma y términos que previene esta Constitución o la Ley respectiva.
+Una vez suspendida o perdida la calidad de ciudadana o ciudadano sinaloense, sólo se recobrará en la forma y términos que previene esta Constitución o la Ley respectiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
 
@@ -397,7 +449,9 @@ A. Esta Constitución reconoce y garantiza el derecho de los pueblos y las comun
 
 I. Decidir sus formas internas de convivencia y organización social, económica, política y cultural;
 
-II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos y los establecidos en esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos y los establecidos en esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por las juezas y jueces o tribunales correspondientes;
 
 III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas participen en condiciones de igualdad, en un marco que respete el pacto federal y la soberanía del Estado;
 
@@ -503,9 +557,9 @@ Los ciudadanos y ciudadanas sinaloenses que participen en candidaturas sin la in
 
 Los partidos políticos deberán presentar al Instituto Nacional Electoral, en los tiempos y bajo las modalidades que disponga la legislación aplicable, informes anuales en los que se reflejarán el total de ingresos recabados por cualquier modalidad de financiamiento, así como la totalidad de los gastos realizados a lo largo del año que corresponda, con motivo de la realización de sus actividades ordinarias permanentes, las de precampaña y las de campaña, así como los informes especiales y detallados que les sean solicitados por dicho Instituto.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Los ciudadanos que participen como candidatos independientes quedarán obligados a presentar los informes sobre ingresos y aplicación de recursos a sus campañas políticas, en los mismos plazos, términos y condiciones que los partidos políticos, en todo aquello que resulten aplicables.
+Las ciudadanas y los ciudadanos que participen como candidatos independientes quedarán obligados a presentar los informes sobre ingresos y aplicación de recursos a sus campañas políticas, en los mismos plazos, términos y condiciones que los partidos políticos, en todo aquello que resulten aplicables.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -567,7 +621,9 @@ V. Escrutinios y cómputos en los términos que señale la ley;
 
 VI. Declaración de validez y otorgamiento de constancias en elecciones locales;
 
-VII. Cómputo de la elección de Gobernador del Estado;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+VII. Cómputo de la elección de la Gobernadora o Gobernador del Estado;
 
 VIII. Resultados preliminares; encuestas o sondeos de opinión; observación electoral, y conteos rápidos, conforme a los lineamientos que establezca el Instituto Nacional Electoral;
 
@@ -601,9 +657,13 @@ La Ley establecerá los requisitos que deberá reunir el titular del órgano int
 
 El Instituto Electoral del Estado de Sinaloa contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán regulados por la ley.
 
-El consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley. Los consejeros electorales estatales deberán ser sinaloenses por nacimiento o contar con una residencia efectiva en el Estado de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley. En caso de que ocurra una vacante de consejero electoral estatal, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos de la ley. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el periodo. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Los consejeros electorales durarán en sus cargos siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley. Durante el tiempo de su encargo no podrán desempeñar otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+La consejera Presidenta o el consejero Presidente y las consejeras o los consejeros electorales serán designadas por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley. Las consejeras y los consejeros electorales estatales deberán ser sinaloenses por nacimiento o contar con una residencia efectiva en el Estado de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley. En caso de que ocurra una vacante de consejera o consejero electoral estatal, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos de la ley. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá a quien sustituya para concluir el periodo. Si la falta ocurriese dentro de los últimos tres años, se elegirá a una consejera o un consejero para un nuevo periodo.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+Las consejeras y los consejeros electorales durarán en sus cargos siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley. Durante el tiempo de su encargo no podrán desempeñar otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
 La ley establecerá un sistema de medios de impugnación con los plazos convenientes para el desahogo de todas las instancias impugnativas, de los que conocerán el Instituto Electoral del Estado de Sinaloa y el Tribunal Electoral del Estado de Sinaloa. Dicho sistema dará definitividad a las distintas etapas del proceso electoral y garantizará que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnados.
 
@@ -619,11 +679,13 @@ Las designaciones de las y los titulares de las magistraturas electorales, será
 
 El Tribunal Electoral del Estado de Sinaloa, funcionará en Pleno y sus sesiones de resolución serán públicas; será autónomo, independiente en sus decisiones, máxima autoridad jurisdiccional en su materia y tendrá competencia para resolver en forma definitiva y firme las impugnaciones que se interpongan; realizará el cómputo final de la elección a la gubernatura del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de dicha elección y asimismo la de Gobernadora o Gobernador Electo, según corresponda, respecto de la candidatura que hubiese obtenido el mayor número de votos a quien expedirá la constancia correspondiente.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 16.
 
-Ningún Ciudadano podrá ser detenido ni en la víspera ni el día de las elecciones por delitos leyes, (sic) faltas u omisiones.
+Ninguna ciudadana o ciudadano podrá ser detenido ni en la víspera ni el día de las elecciones por delitos leves, faltas u omisiones.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1989)</small>
 
 Ninguna autoridad podrá impedir ni estorbar la verificación de las elecciones debiendo limitar su intervención a sólo los casos de alteración del orden público, sin perjuicio de proceder como corresponda, después de terminada la elección. Todo acto ilegal de parte de cualquiera autoridad en materia de elecciones populares será causa grave de responsabilidad.
 
@@ -697,35 +759,39 @@ El Poder Legislativo del Estado de Sinaloa se deposita en una asamblea que se de
 
 El Congreso del Estado se compondrá de representantes electos popularmente cada tres años, denominados Diputadas y Diputados, y para su elección se observará el principio de paridad de género. Por cada Diputada y Diputado se elegirán suplentes del mismo género.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 72 PUBLICADO EN EL P.O. DE 28 DE ENERO DE 2022, SE DEJAN SIN EFECTOS LAS REFORMAS APROBADAS A LOS PÁRRAFOS PRIMERO, TERCERO, CUARTO Y SÉPTIMO DEL PRESENTE ARTÍCULO, PUBLICADAS EN EL DECRETO NÚMERO 105 DE 4 DE MAYO DE 2017.]</small>
-
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 24.
 
-El Congreso del Estado se integrará con 40 Diputados, 24 de ellos electos por el sistema de mayoría relativa en distritos electorales uninominales y 16 Diputados electos de acuerdo con el principio de representación proporcional, mediante el sistema de lista de candidatos votada en circunscripción plurinominal.
+El Congreso del Estado se integrará con 40 Diputadas y Diputados, 24 de ellos electos por el sistema de mayoría relativa en distritos electorales uninominales y 16 Diputadas y Diputados electos de acuerdo con el principio de representación proporcional, mediante el sistema de lista de candidatos votada en circunscripción plurinominal.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 La demarcación territorial de los distritos electorales uninominales locales será realizada por el Instituto Nacional Electoral con base en el último censo general de población y los criterios generales determinados por su Consejo General.
 
-Para la elección de los 16 Diputados según el principio de representación proporcional y el sistema de listas de candidatos, el territorio del Estado se podrá dividir de una a tres circunscripciones plurinominales. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Para que un partido político obtenga el registro de sus listas para la elección de diputados de representación proporcional, deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos diez distritos uninominales, de ellos, en su caso, mínimamente tres deberán estar en cada circunscripción plurinominal.
+Para la elección de las 16 Diputadas y Diputados según el principio de representación proporcional y el sistema de listas de las candidatas y los candidatos, el territorio del Estado se podrá dividir de una a tres circunscripciones plurinominales. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Todo partido político que alcance el tres por ciento de la votación estatal emitida para la elección de Diputados en el Estado, tendrá derecho a que se le asigne un Diputado de representación proporcional.
+Para que un partido político obtenga el registro de sus listas para la elección de diputadas y diputados de representación proporcional, deberá acreditar que participa con candidatas a diputadas y a diputados de mayoría relativa en por lo menos diez distritos uninominales, de ellos, en su caso, mínimamente tres deberán estar en cada circunscripción plurinominal.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-El número de Diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos efectivos obtenidos, mediante la aplicación de la fórmula electoral y procedimiento de asignación que señale la Ley. En todo caso la asignación se hará siguiendo el orden que tuvieren los candidatos en la lista o listas correspondientes.
+Todo partido político que alcance el tres por ciento de la votación estatal emitida para la elección de Diputadas y Diputados en el Estado, tendrá derecho a que se le asigne una Diputada o un Diputado de representación proporcional.
 
-En ningún caso un partido político podrá contar con más de 24 diputados por ambos principios.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
+El número de Diputadas y Diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos efectivos obtenidos, mediante la aplicación de la fórmula electoral y procedimiento de asignación que señale la Ley. En todo caso la asignación se hará siguiendo el orden que tuvieren las candidatas y los candidatos en la lista o listas correspondientes.
 
-En ningún caso un partido político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación estatal emitida, más el ocho por ciento. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+En ningún caso un partido político podrá contar con más de 24 diputadas y diputados por ambos principios.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+En ningún caso un partido político podrá contar con un número de Diputadas y Diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación estatal emitida, más el ocho por ciento. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
 
@@ -743,21 +809,27 @@ II. Para contender por el sistema de mayoría relativa, es necesario contar con 
 
 Cuando un municipio sea cabecera de dos o más distritos electorales, para ser elegible en cualquiera de ellos, la residencia a que se refiere el párrafo anterior bastará con que se tenga en el municipio de que se trate.
 
-Para poder figurar como candidato en la lista de circunscripción electoral plurinominal, se requerirá ser sinaloense por nacimiento, o por vecindad con una residencia efectiva en el Estado de más de dos años anterior a la fecha de la celebración de la jornada electoral.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+Para poder figurar como candidata o candidato en la lista de circunscripción electoral plurinominal, se requerirá ser sinaloense por nacimiento, o por vecindad con una residencia efectiva en el Estado de más de dos años anterior a la fecha de la celebración de la jornada electoral.
 
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
 
 III. Tener dieciocho años cumplidos el día de la elección;
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-IV. No podrán ser electos diputados propietarios o suplentes: el Gobernador del Estado; los secretarios y subsecretarios y titulares de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal; los titulares de los órganos constitucionales autónomos; los magistrados del Supremo Tribunal de Justicia; los jueces de Primera Instancia; los recaudadores de rentas y los presidentes municipales, en los distritos electorales en donde ejerzan sus funciones; los diputados y senadores al Congreso de la Unión que se encontraren en ejercicio; las personas que tengan o hayan tenido mando de fuerzas de la Federación, Estado o municipios y los ministros de cualquier culto. Los ciudadanos antes referidos, con excepción de los ministros de cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos noventa días antes de la elección.
+IV. No podrán ser electas diputadas y diputados propietarios o suplentes: la Gobernadora o Gobernador del Estado; las secretarias o secretarios; subsecretarias o subsecretarios y titulares de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal; las personas titulares de los órganos constitucionales autónomos; las magistradas y magistrados del Supremo Tribunal de Justicia; las juezas y jueces de Primera Instancia; los recaudadores de rentas; las presidentas y presidentes municipales, en los distritos electorales en donde ejerzan sus funciones; las diputadas y diputados; senadoras y senadores al Congreso de la Unión que se encontraren en ejercicio; las personas que tengan o hayan tenido mando de fuerzas de la Federación, Estado o municipios y las ministras o ministros de cualquier culto. Las ciudadanas y ciudadanos antes referidos, con excepción de los ministros de cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos noventa días antes de la elección.
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 19 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2026)</small>
 
-V. No podrán ser electos diputados propietarios o suplentes:
+V. No podrán ser electas diputadas y diputados propietarios o suplentes:
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
 a) Las personas que aparezcan inscritas en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa al tiempo en que se solicite el registro de sus candidaturas, salvo que exhiban la documentación con la que hayan acreditado judicialmente el cumplimiento de las obligaciones en mora;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
 b) Las personas condenadas por el delito de violencia política contra las mujeres en razón de género, por delitos contra la familia y/o contra la libertad sexual y su normal desarrollo;
 
@@ -773,11 +845,11 @@ d) Las personas que habiendo ejercido algún cargo de elección popular o dentro
 
 e) Las personas obligadas y que derivado de su empleo o cargo de mando dentro del servicio público, incumplan con la aplicación del principio de paridad de género.
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 25 Bis.
 
-Los Diputados en funciones podrán ser nuevamente electos hasta completar un máximo de cuatro periodos consecutivos de ejercicio. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiese postulado originalmente, salvo que el interesado haya renunciado o perdido su militancia antes de la mitad de su mandato. La ley establecerá los requisitos que deberán satisfacerse para una nueva postulación.
+Las Diputadas y los Diputados en funciones podrán ser nuevamente electos hasta completar un máximo de cuatro periodos consecutivos de ejercicio. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiese postulado originalmente, salvo que el interesado haya renunciado o perdido su militancia antes de la mitad de su mandato. La ley establecerá los requisitos que deberán satisfacerse para una nueva postulación.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
@@ -791,67 +863,79 @@ El Congreso del Estado se instalará el día treinta de septiembre del año que 
 
 La instalación de una Legislatura se verificará en los términos establecidos por la Ley Orgánica del Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
+
 ###### Art. 28.
 
-El Congreso no podrá ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros. Al abrirse los períodos de sesiones los Diputados presentes deberán reunirse en el día señalado por la ley o por la convocatoria en su caso, y procederán como sigue:
+El Congreso no podrá ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros. Al abrirse los períodos de sesiones las Diputadas y los Diputados presentes deberán reunirse en el día señalado por la ley o por la convocatoria en su caso, y procederán como sigue:
 
 I. Si los presentes están en mayoría, se conminará a los propietarios faltantes para que concurran dentro de los diez días siguientes. Si no cumplieren ni acreditaren debidamente dentro del mismo plazo, que les impide fuerza mayor, se les declarará suspendidos en sus funciones hasta la inauguración del período siguiente, y se exhortará en igual forma y bajo la misma pena a los suplentes. Si éstos también faltaren, se observará lo dispuesto en el artículo 30; más si unos u otros justifican sus faltas, deberán solicitar licencia, que en ningún caso será con goce de sueldo.
 
-II. Si los Diputados presentes están en minoría, exhortarán simultáneamente y por separado a los propietarios que falten, y a sus respectivos Suplentes, para que de acuerdo entre ambos, se presente cualquiera de ellos dentro de los diez días que siguen, y si no lo hicieren por cualquier motivo, se procederá como lo determina el art. 30, a reserva de declarar la vacante del puesto, por la Cámara, cuando las faltas sean injustificadas.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+II. Si las Diputadas y Diputados presentes están en minoría, exhortarán simultáneamente y por separado a los propietarios que falten, y a sus respectivos Suplentes, para que de acuerdo entre ambos, se presente cualquiera de ellos dentro de los diez días que siguen, y si no lo hicieren por cualquier motivo, se procederá como lo determina el Artículo 30, a reserva de declarar la vacante del puesto, por la Cámara, cuando las faltas sean injustificadas.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
 
 En los casos de emergencia previstos en la Ley que impidan la presencia física de las Diputadas y los Diputados, el Congreso, sus comisiones y órganos de gobierno podrán realizar sesiones y reuniones a distancia mediante el uso de herramientas y tecnologías de la información y las comunicaciones, previo acuerdo de sus órganos de gobierno.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 29.
 
-Se entenderá que renuncian al cargo los Diputados que, sin causa justificada a juicio del Pleno, falten a tres sesiones ordinarias consecutivas. Llegado el caso se llamará a los suplentes, y si éstos tampoco se presentan dentro de un plazo igual, se declarará la vacante del puesto y se procederá de acuerdo con el artículo 30.
+Se entenderá que renuncian al cargo las Diputadas y Diputados que, sin causa justificada a juicio del Pleno, falten a tres sesiones ordinarias consecutivas. Llegado el caso se llamará a los suplentes, y si éstos tampoco se presentan dentro de un plazo igual, se declarará la vacante del puesto y se procederá de acuerdo con el artículo 30.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 30.
 
-En los casos de los artículo (sic) 28 y 29 y, en general, siempre que por ausencia injustificada ó por faltas absolutas de los Diputados de Mayoría no pueda haber quórum, los Ayuntamientos de las cabeceras de los distritos electorales, a petición de los Diputados presentes, nombrarán por mayoría de votos los correspondientes sustitutos, quienes funcionarán mientras se efectúan las nuevas elecciones, si la designación se hiciera dentro de los dos primeros años del período de funciones; más si fuera dentro del último, los sustitutos terminarán el período.
+En los casos de los artículos 28 y 29 y, en general, siempre que por ausencia injustificada o por faltas absolutas de las Diputadas y Diputados de mayoría no pueda haber quórum, los Ayuntamientos de las cabeceras de los distritos electorales, a petición de las Diputadas y Diputados presentes, nombrarán por mayoría de votos los correspondientes sustitutos, quienes funcionarán mientras se efectúan las nuevas elecciones, si la designación se hiciera dentro de los dos primeros años del período de funciones; más si fuera dentro del último, los sustitutos terminarán el período.
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 1995)</small>
+Las vacantes de las diputadas y diputados que hubieren sido electos según el sistema de representación proporcional se cubrirán con su respectivo suplente, y a falta de ambos se cubrirán con los candidatos postulados por su mismo partido que hubiesen quedado en lugar preferente en la lista regional de la circunscripción plurinominal correspondiente.
 
-Las vacantes de los diputados que hubieren sido electos según el sistema de representación proporcional se cubrirán con su respectivo suplente, y a falta de ambos se cubrirán con los candidatos postulados por su mismo partido que hubiesen quedado en lugar preferente en la lista regional de la circunscripción plurinominal correspondiente.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 31.
 
-Los Diputados que falten a sesión sin causa justificada o sin el permiso del Presidente, o que sin tales requisitos abandonen el salón antes de que la sesión termine, no tendrán derecho a las dietas correspondientes.
+Las Diputadas y Diputados que falten a sesión sin causa justificada o sin el permiso de la Presidenta o del Presidente, o que sin tales requisitos abandonen el salón antes de que la sesión termine, no tendrán derecho a las dietas correspondientes.
 
 ###### Art. 32.
 
 En caso de desaparición total del Congreso, el Ejecutivo del Estado, en lo inmediatamente posible, convocará a elecciones.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 33.
 
-Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de sus funciones y jamás podrán ser reconvenidos por la expresión de sus ideas.
+Las Diputadas y Diputados son inviolables por las opiniones que manifiesten en el desempeño de sus funciones y jamás podrán ser reconvenidos por la expresión de sus ideas.
 
-El Presidente del Congreso velará por el respeto al fuero constitucional de los miembros del mismo y por la inviolabilidad del recinto donde se reúnan a sesionar.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+La Presidenta o el Presidente del Congreso velará por el respeto al fuero constitucional de los miembros del mismo y por la inviolabilidad del recinto donde se reúnan a sesionar.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 El Congreso expedirá la Ley que regulará su estructura y funcionamiento. En la integración de su estructura orgánica administrativa y sus comisiones se observará el principio de paridad de género.
 
-La Ley determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el propio Congreso.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+La Ley determinará las formas y procedimientos para la agrupación de las Diputadas y Diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el propio Congreso.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
 
 Esta Ley no podrá ser vetada, ni necesitará promulgación del Ejecutivo del Estado para tener vigencia.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 34.
 
-Los delitos, actos u omisiones en que incurran los Diputados serán sancionados conforme a las disposiciones del Título VI.
+Los delitos, actos u omisiones en que incurran las Diputadas y Diputados serán sancionados conforme a las disposiciones del Título VI.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 35.
 
-Los Diputados propietarios, durante el período de su encargo y los Suplentes, cuando estuvieren en ejercicio, no podrán desempeñar, ni aun aceptar, ni en propiedad ni en suplencia, ninguna otra comisión o empleo de la Federación, del Estado o de los Municipios, por los que se disfrute sueldo o se reciban subsidios, sin licencia previa de la Cámara, pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La infracción de este precepto será castigada, previo juicio de responsabilidad, con la pérdida del carácter de Diputado. Se exceptúan de las disposiciones de este artículo, los servicios prestados a las instituciones docentes o de beneficencia.
+Las diputadas y diputados propietarios, durante el período de su encargo y, las y los Suplentes, cuando estuvieren en ejercicio, no podrán desempeñar, ni aun aceptar, ni en propiedad ni en suplencia, ninguna otra comisión o empleo de la Federación, del Estado o de los Municipios, por lo que se disfrute sueldo o se reciban subsidios, sin licencia previa de la Cámara, pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La infracción de este precepto será castigada, previo juicio de responsabilidad, con la pérdida del carácter de Diputada o Diputado. Se exceptúan de las disposiciones de este artículo, los servicios prestados a las instituciones docentes o de beneficencia.
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
@@ -897,7 +981,9 @@ Habrá períodos extraordinarios de sesiones, siempre que lo disponga:
 
 I. La Diputación Permanente.
 
-II. La mayoría absoluta de los Diputados.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+II. La mayoría absoluta de las Diputadas y los Diputados.
 
 III. El Ejecutivo del Estado.
 
@@ -941,9 +1027,11 @@ En el mes de enero de cada año, el Supremo Tribunal de Justicia del Estado envi
 
 Todas las sesiones del Congreso serán públicas, con excepción de las que su Ley Orgánica disponga que sean secretas.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
 ###### Art. 42.
 
-Toda resolución del Congreso tendrá el carácter de Ley, Decreto o Acuerdo. Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente del Congreso, y por los Secretarios; y los acuerdos, en todo caso, firmados sólo por los dos Secretarios.
+Toda resolución del Congreso tendrá el carácter de Ley, Decreto o Acuerdo. Las leyes y decretos se comunicarán al Ejecutivo firmados por la Presidenta o Presidente del Congreso, y por las Secretarias o Secretarios; y los acuerdos, en todo caso, firmados sólo por las dos Secretarias o Secretarios.
 
 #### SECCION II. DE LAS FACULTADES DEL CONGRESO
 
@@ -951,9 +1039,9 @@ Toda resolución del Congreso tendrá el carácter de Ley, Decreto o Acuerdo. La
 
 Son facultades exclusivas del Congreso del Estado, las siguientes:
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-I. Expedir su propia Ley Orgánica que no podrá ser vetada ni necesitará de promulgación del Gobernador del Estado.
+I. Expedir su propia Ley Orgánica que no podrá ser vetada ni necesitará de promulgación de la Gobernadora o del Gobernador del Estado.
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -965,7 +1053,9 @@ III. Decretar toda clase de imposiciones tributarias necesarias para cubrir el p
 
 IV. Iniciar leyes o sus reformas ante el Congreso de la Unión.
 
-V. Aprobar los convenios que el Gobernador del Estado celebre con las Entidades vecinas sobre cuestiones de límites y someterlos, por conducto del mismo, a la ratificación del Congreso de la Unión.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+V. Aprobar los convenios que la Gobernadora o el Gobernador del Estado celebre con las Entidades vecinas sobre cuestiones de límites y someterlos, por conducto del mismo, a la ratificación del Congreso de la Unión.
 
 VI. Ratificar los arreglos concertados entre las Municipalidades con motivo de la fijación de sus límites.
 
@@ -973,11 +1063,15 @@ VI. Ratificar los arreglos concertados entre las Municipalidades con motivo de l
 
 VII. Crear nuevas Municipalidades dentro de los límites de las ya existentes, siendo necesario para el efecto:
 
-(A). Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuenten con una población cuando menos, de TREINTA MIL HABITANTES, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanos.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+A) Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuenten con una población cuando menos, de TREINTA MIL HABITANTES, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanas y ciudadanos.
 
 (B). Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
 
-(C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+C) Que la elección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de las Diputadas y Diputados.
 
 (D). Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
 
@@ -995,19 +1089,21 @@ X. Decretar la traslación provisional de los Poderes del Estado, fuera de la ci
 
 XI. Convocar a toda clase de elecciones para servidores públicos del Estado y Municipios, cuando fuere conducente.
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-XII. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo que hubiere hecho el Tribunal Estatal Electoral.
+XII. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernadora Electa o Gobernador Electo que hubiere hecho el Tribunal Estatal Electoral.
 
-XIII. Elegir al ciudadano que deba substituir al Gobernador del Estado, con el carácter de Substituto, o de Interino, en los términos que esta Constitución señala.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2025)</small>
+XIII. Elegir a la ciudadana o al ciudadano que deba sustituir al Gobernador o a la Gobernadora del Estado, con el carácter de sustituta o sustituto, o de interina o interino, en los términos que esta Constitución señala.
 
-XIV. Elegir a los Magistrados del Tribunal de Justicia Administrativa del Estado y al titular del Centro de Conciliación Laboral, mediante los procedimientos que esta Constitución y las leyes respectivas señalen.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
+XIV. Elegir a las Magistradas y los Magistrados del Tribunal de Justicia Administrativa del Estado y a la persona titular del Centro de Conciliación Laboral, mediante los procedimientos que esta Constitución y las leyes respectivas señalen.
 
-XV. Elegir Presidente Municipal, Síndicos Procuradores y Regidores sustitutos en casos de vacante.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+XV. Elegir Presidenta o Presidente Municipal, Sindicas o Síndicos Procuradores y Regidoras o Regidores sustitutos en casos de vacante.
 
 XVI. Desempeñar todas las funciones que le encomiende la Ley Electoral para Poderes Federales.
 
@@ -1015,21 +1111,21 @@ XVI. Desempeñar todas las funciones que le encomiende la Ley Electoral para Pod
 
 XVII. Expedir leyes que regulen la seguridad pública en el Estado; establezcan las bases de coordinación entre el Estado y los Municipios en materia de seguridad pública; y señalen la organización y funcionamiento de las instituciones de seguridad pública, así como las reglas para el establecimiento del servicio de carrera en dichas instituciones.
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-XVIII. Recibir protesta constitucional a los Diputados, al Gobernador, a los Magistrados del Supremo Tribunal de Justicia del Estado y a los Magistrados del Tribunal de Justicia Administrativa del Estado, así como a los servidores públicos que esta Constitución y sus propias leyes lo determinen.
+XVIII. Recibir protesta constitucional a las Diputadas y los Diputados, a la Gobernadora o el Gobernador, a las Magistradas y Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal de Justicia Administrativa del Estado, así como a los servidores públicos que esta Constitución y sus propias leyes lo determinen.
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-XIX. Conceder licencia y admitir las renuncias a los Diputados y demás servidores públicos de su propia dependencia, al Gobernador y a los Magistrados del Supremo Tribunal de Justicia, a los Magistrados del Tribunal de Justicia Administrativa del Estado, así como a los servidores públicos que esta Constitución y sus propias leyes lo determinen.
+XIX. Conceder licencia y admitir las renuncias a las Diputadas y los Diputados y demás servidores públicos de su propia dependencia, a la Gobernadora o al Gobernador y a las Magistradas y los Magistrados del Supremo Tribunal de Justicia y del Tribunal de Justicia Administrativa del Estado, así como a los servidores públicos que esta Constitución y sus propias leyes lo determinen.
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-XIX Bis. Nombrar a propuesta del Órgano de Gobierno, a los servidores públicos del Congreso del Estado hasta el nivel de Director; recibirles la protesta de Ley, removerlos y concederles licencia, en los términos previstos en la Ley Orgánica;
+XIX Bis. Nombrar a propuesta del Órgano de Gobierno, a los servidores públicos del Congreso del Estado hasta el nivel de Directora o Director; recibirles la protesta de Ley, removerlos y concederles licencia, en los términos previstos en la Ley Orgánica.
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-XIX Bis A. Conocer y resolver sobre las solicitudes de destitución de los magistrados del Tribunal de Justicia Administrativa así como de los servidores públicos que esta Constitución y sus propias leyes lo determinen.
+XIX Bis A. Conocer y resolver sobre las solicitudes de destitución de las magistradas y los magistrados del Tribunal de Justicia Administrativa así como de los servidores públicos que esta Constitución y sus propias leyes lo determinen.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1103,7 +1199,9 @@ XXVIII. Conceder o no los premios y recompensas que proponga el Ejecutivo del Es
 
 XXIX. Conceder amnistía por delitos cuyo conocimiento pertenezca a los tribunales del Estado.
 
-XXX. Rehabilitar en los derechos de ciudadano a quienes tengan perdido o suspenso su ejercicio de acuerdo con las leyes.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+XXX. Rehabilitar en los derechos de ciudadana o ciudadano a quienes tengan perdido o suspenso su ejercicio de acuerdo con las leyes.
 
 XXXI. Habilitar de edad a los menores que reunan los requisitos exigidos por la ley.
 
@@ -1121,19 +1219,21 @@ XXXIII Bis. Para expedir leyes que regulen actividades relativas a la prestació
 
 XXXIV. Citar a comparecer a la autoridad o servidor público que se hubieren negado a aceptar o cumplir una recomendación de la Comisión Estatal de Derechos Humanos, para el efecto de que expliquen el motivo de su negativa.
 
-Lo anterior, a solicitud del Presidente de ese organismo y previo Dictamen de procedencia emitido por las Comisiones Permanentes de Derechos Humanos y la relativa al cargo que desempeñen dichos servidores, aprobado por el Pleno.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE FEBRERO DE 2017)</small>
+Lo anterior, a solicitud de la Presidenta o del Presidente de ese organismo y previo Dictamen de procedencia emitido por las Comisiones Permanentes de Derechos Humanos y la relativa al cargo que desempeñen dichos servidores, aprobado por el Pleno.
 
-XXXV. Elegir al Fiscal General del Estado y objetar su remoción, en los términos que precisa esta Constitución, así como tomarle la protesta de ley.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE MARZO DE 2017)</small>
+XXXV. Elegir a la Fiscal o el Fiscal General del Estado y objetar su remoción, en los términos que precisa esta Constitución, así como tomarle la protesta de ley.
 
-XXXVI. Ratificar el nombramiento del Secretario encargado del control interno que haya nombrado el Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2017)</small>
+XXXVI. Ratificar el nombramiento de la Secretaria o Secretario encargado del control interno que haya nombrado el Ejecutivo del Estado.
 
-XXXVII. Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en esta Constitución que ejerzan recursos públicos.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+XXXVII. Designar, por el voto de las dos terceras partes de sus miembros presentes, a las personas titulares de los órganos internos de control de los organismos con autonomía reconocida en esta Constitución que ejerzan recursos públicos.
 
 > <small>(ADICIONADA, P.O. 17 DE MARZO DE 2017)</small>
 
@@ -1167,37 +1267,43 @@ II. Delegar sus facultades legislativas. Solo en caso de guerra extranjera podr�
 
 El derecho de iniciar leyes y decretos o sus reformas compete:
 
-I. A los miembros del Congreso del Estado;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-II. Al Gobernador del Estado;
+I. A las Diputadas y los Diputados del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+II. A la Gobernadora y al Gobernador del Estado;
 
 III. Al Supremo Tribunal de Justicia del Estado;
 
 IV. A los Ayuntamientos del Estado;
 
-V. A los ciudadanos sinaloenses;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+V. A las ciudadanas y ciudadanos sinaloenses;
 
 VI. A los grupos legalmente organizados en el Estado.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Las iniciativas presentadas por los Diputados del Congreso, por el Gobernador, por el Supremo Tribunal de Justicia y por los Ayuntamientos, pasarán desde luego a Comisión.
+Las iniciativas presentadas por las Diputadas y Diputados del Congreso, por la Gobernadora o el Gobernador, por el Supremo Tribunal de Justicia y por los Ayuntamientos, pasarán desde luego a Comisión.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Por cada período ordinario de sesiones, el Gobernador podrá presentar hasta dos iniciativas con el carácter de preferente, que deberán ser votadas por el Pleno del Congreso en un término máximo de diez días naturales.
+Por cada período ordinario de sesiones, la Gobernadora o el Gobernador podrá presentar hasta dos iniciativas con el carácter de preferente, que deberán ser votadas por el Pleno del Congreso en un término máximo de diez días naturales.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Para que la iniciativa con el carácter de preferente sea rechazada en lo general o modificada en lo particular, se requerirá el voto de las dos terceras partes de los integrantes del Congreso presentes al momento de la votación.
+Para que la iniciativa con el carácter de preferente sea rechazada en lo general o modificada en lo particular, se requerirá el voto de las dos terceras partes de las y los integrantes del Congreso presentes al momento de la votación.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-No podrán tener el carácter de preferente las iniciativas que el titular del Ejecutivo Estatal presente en materia presupuestal, al sistema electoral y de partidos, ni modificaciones constitucionales.
+No podrán tener el carácter de preferente las iniciativas que la persona titular del Ejecutivo Estatal presente en materia presupuestal, al sistema electoral y de partidos, ni modificaciones constitucionales.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Los Grupos Parlamentarios del Congreso tendrán derecho de presentar iniciativas cuando éstas se apeguen a la plataforma electoral del partido político al que estén afiliados, a la agenda legislativa que su grupo parlamentario hubiere presentado, así como a las políticas públicas que el Ejecutivo Estatal esté aplicando. En el caso de los diputados sin Grupo Parlamentario, la presentación de iniciativas preferentes se hará previa solicitud expresa que de conformidad con la Ley hagan a las instancias de gobierno del Congreso.
+Los Grupos Parlamentarios del Congreso tendrán derecho de presentar iniciativas cuando éstas se apeguen a la plataforma electoral del partido político al que estén afiliados, a la agenda legislativa que su grupo parlamentario hubiere presentado, así como a las políticas públicas que el Ejecutivo Estatal esté aplicando. En el caso de las diputadas y diputados sin Grupo Parlamentario, la presentación de iniciativas preferentes se hará previa solicitud expresa que de conformidad con la Ley hagan a las instancias de gobierno del Congreso.
 
 > <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
 
@@ -1221,9 +1327,13 @@ III. Aprobado por el Congreso un proyecto de ley o decreto, se remitirá al Ejec
 
 IV. Se reputará aprobado por el Ejecutivo, todo proyecto de ley o decreto no devuelto con observaciones al Congreso dentro de los primeros ocho días útiles contados desde la fecha en que lo reciba, a no ser que corriendo ese término, hubiere el Congreso cerrado sus sesiones; en este caso, la devolución deberá hacerse el primer día útil del nuevo período de Sesiones.
 
-V. El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto con sus observaciones, dentro de los ocho días siguientes, a aquel en que lo recibió, para que se estudie nuevamente; mas si el Congreso lo ratifica por el voto de las dos terceras partes de los Diputados presentes, pasará de nuevo el proyecto al Ejecutivo, para su inmediata promulgación.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-VI. Si un proyecto de ley o decreto fuere desechado en parte o modificado por el Ejecutivo, la nueva discusión se concretará a sólo lo desechado o modificado. Si las modificaciones del Ejecutivo fueren aprobadas por las dos terceras partes de los Diputados presentes, el proyecto se remitirá de nuevo para su inmediata promulgación.
+V. El proyecto de ley o decreto desechado en todo o en parte por el o la titular del Ejecutivo, será devuelto con sus observaciones, dentro de los ocho días siguientes, a aquel en que lo recibió, para que se estudie nuevamente; más si el Congreso lo ratifica por el voto de las dos terceras partes de las Diputadas y Diputados presentes, pasará de nuevo el proyecto al Ejecutivo, para su inmediata promulgación.
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+VI. Si un proyecto de ley o decreto fuere desechado en parte o modificado por el o la Titular del Ejecutivo, la nueva discusión se concretará a sólo lo desechado o modificado. Si las modificaciones del Ejecutivo fueren aprobadas por las dos terceras partes de las Diputadas y Diputados presentes, el proyecto se remitirá de nuevo para su inmediata promulgación.
 
 VII. Todo proyecto de ley o decreto que fuere desechado por el Congreso, no se volverá a presentar en el mismo período de sesiones.
 
@@ -1239,11 +1349,11 @@ IX. El Ejecutivo del Estado no podrá hacer observaciones a las resoluciones del
 
 (C.) En los decretos de apertura y clausura de los período (sic) extraordinarios de sesiones.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 47.
 
-Toda Ley o decreto será promulgada bajo la firma del Presidente y Secretario del Congreso, en la siguiente forma: "El Congreso del Estado Libre y Soberano de Sinaloa, representado por su ... (número de orden) ... Legislatura, ha tenido a bien expedir (o el) siguiente Ley ... (número de nombre oficial de la Ley o Decreto)". Seguirá el texto de la Ley o Decreto y al final, el mandato de que se publique y circule para su debida observancia, firmado por el Gobernador del Estado y el Secretario del Ramo a que el asunto corresponda.
+Toda ley o decreto será promulgada bajo la firma de la Presidenta o Presidente y Secretaria o Secretario del Congreso, en la siguiente forma: "El Congreso del Estado Libre y Soberano de Sinaloa, representado por su... (número de orden)... Legislatura, ha tenido a bien expedir la siguiente Ley... (número de nombre oficial de la Ley o Decreto)". Seguirá el texto de la Ley o Decreto y al final, el mandato de que se publique y circule para su debida observancia, firmado por la Gobernadora o Gobernador del Estado y la Secretaria o Secretario del Ramo a que el asunto corresponda.
 
 ###### Art. 48.
 
@@ -1257,7 +1367,9 @@ Las leyes y decretos son obligatorios desde el día siguiente al de su promulgac
 
 Durante los recesos del Congreso del Estado, habrá una Diputación Permanente que se integrará bajo la fórmula de nueve Propietarios y nueve Suplentes. Cada Grupo Parlamentario contará, como mínimo, con un representante propietario y su respectivo suplente.
 
-Los miembros de la Diputación Permanente serán elegidos por mayoría de votos de los Diputados presentes, en la última sesión de cada Período Ordinario de Sesiones de ejercicio constitucional.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+Las Diputadas y los Diputados de la Diputación Permanente serán elegidos por mayoría de votos de las Diputadas y los Diputados presentes, en la última sesión de cada Período Ordinario de Sesiones de ejercicio constitucional.
 
 ###### Art. 50.
 
@@ -1267,27 +1379,29 @@ I. Recibir y despachar la correspondencia del Congreso, resolviendo sólo los as
 
 II. Abrir dictamen sobre todos los asuntos que hubieren quedado sin resolución en los expedientes y sobre los que en el receso del Congreso se presentaren, para dar a éste cuenta con ellos en el próximo período de su reunión.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-III. Elegir Presidente Municipal, Regidores y Síndicos Procuradores Sustitutos de los Ayuntamientos en caso de vacante.
+III. Elegir Presidenta o Presidente Municipal, Regidoras y Regidores, Sindicas y Síndicos Procuradores Sustitutos de los Ayuntamientos en caso de vacante.
 
 IV. Convocar al Congreso a sesiones extraordinarias cuando proceda.
 
 V. Convocar e (sic) elecciones extraordinarias cuando fuere conducente.
 
-VI. Nombrar Gobernador Provisional en los casos que esta Constitución determine.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2012)</small>
+VI. Nombrar Gobernadora o Gobernador Provisional en los casos que esta Constitución determine.
 
-VII. Recibir la protesta del Gobernador del Estado.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2018)</small>
+VII. Recibir la protesta de la Gobernadora o del Gobernador del Estado.
 
-VII Bis. Recibir protesta de los Diputados suplentes que hayan sido llamados para entrar en funciones.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+VII Bis. Recibir protesta de las Diputadas y los Diputados suplentes que hayan sido llamados para entrar en funciones.
 
-VIII. Conceder licencias a sus propios miembros, a los Diputados y demás servidores públicos del Congreso, al Gobernador y a los Magistrados del Supremo Tribunal de Justicia del Estado.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+VIII. Conceder licencias a sus propios miembros, a las Diputadas y Diputados y demás servidores públicos del Congreso, a la Gobernadora o Gobernador y a las Magistradas y Magistrados del Supremo Tribunal de Justicia del Estado.
 
 IX. Actuar en substitución de la Comisión de Glosa, para facilitar las revisiones de la Contaduría Mayor, hasta producir dictamen que someterá a la consideración de la Cámara.
 
@@ -1361,21 +1475,27 @@ Los Poderes del Estado, los Ayuntamientos y las demás entidades fiscalizadas fa
 
 El Poder Ejecutivo del Estado o el Ayuntamiento en su caso, aplicará el procedimiento administrativo de ejecución, para el cobro de indemnizaciones y sanciones pecuniarias que se establezcan por la Auditoria Superior del Estado en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 54.
 
-El Congreso del Estado designará al titular de la Auditoría Superior del Estado por el voto de las dos terceras partes de sus miembros presentes. La ley determinará el procedimiento para su designación. Dicho titular durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título VI de esta Constitución.
+El Congreso del Estado designará a la persona titular de la Auditoría Superior del Estado por el voto de las dos terceras partes de sus miembros presentes. La ley determinará el procedimiento para su designación. Dicha o dicho titular durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título VI de esta Constitución.
 
-Para ser titular de la Auditoría Superior del Estado se requiere ser mexicano por nacimiento, estar en pleno ejercicio de sus derechos políticos y civiles; tener treinta y cinco años de edad y menos de setenta al día de la designación, o bien no cumplir setenta años durante el ejercicio de sus funciones; gozar de buena reputación personal, haber residido efectivamente en el Estado durante los últimos dos años y no haber sido condenado por delito doloso; no haberse desempeñado durante los dos años anteriores con cargos de nivel de Secretario u homólogos en el Poder Ejecutivo con excepción del encargado de control interno; asimismo no haberse desempeñado como Presidente Municipal, Síndico Procurador o Secretario en los Gobiernos Municipales, Diputado, Secretario General del Congreso o haber sido designado por el Congreso como titular de algún organismo autónomo y, cumplir los requisitos establecidos en la ley.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+Para ser titular de la Auditoría Superior del Estado se requiere ser mexicana o mexicano por nacimiento, estar en pleno ejercicio de sus derechos políticos y civiles; tener treinta y cinco años de edad y menos de setenta al día de la designación, o bien no cumplir setenta años durante el ejercicio de sus funciones; gozar de buena reputación personal, haber residido efectivamente en el Estado durante los últimos dos años y no haber sido condenada o condenado por delito doloso; no haberse desempeñado durante los dos años anteriores con cargos de nivel de Secretaria o Secretario u homólogos en el Poder Ejecutivo con excepción del encargado de control interno; asimismo no haberse desempeñado como Presidenta o Presidente Municipal, Síndica o Síndico Procurador, Secretaria o Secretario en los Gobiernos Municipales, Diputada o Diputado, Secretaria o Secretario General del Congreso o haber sido designado por el Congreso como titular de algún organismo autónomo y, cumplir los requisitos establecidos en la ley.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
 
 Durante su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo cargo o comisión, salvo los docentes y los no remunerados en asociaciones científicas, artísticas o de beneficencia pública o privada.
 
 ### CAPITULO III. DEL PODER EJECUTIVO
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
 ###### Art. 55.
 
-Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se denominará "GOBERNADOR CONSTITUCIONAL DEL ESTADO."
+Se deposita el ejercicio del Poder Ejecutivo del Estado, en una ciudadana o un ciudadano que se denominará "GOBERNADORA O GOBERNADOR CONSTITUCIONAL DEL ESTADO".
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2023)</small>
 
@@ -1383,29 +1503,29 @@ Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se 
 
 Para ser Gobernadora o Gobernador del Estado se requiere:
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-I. Ser ciudadano sinaloense por nacimiento o por vecindad, en este último caso con residencia efectiva en el Estado no menor de cinco años inmediatamente anteriores al día de la elección.
+I. Ser ciudadana o ciudadano sinaloense por nacimiento o por vecindad, en este último caso con residencia efectiva en el Estado no menor de cinco años inmediatamente anteriores al día de la elección.
 
 > <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2023)</small>
 
 II. Tener veinticinco años cumplidos el día de la elección.
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1943)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-III. Haber conservado su domicilio en el Estado, seis meses al menos, inmediatamente antes de la elección; bastando para ser Gobernador Interino, Provisional o Substituto, la calidad de ciudadano sinaloense.
+III. Haber conservado su domicilio en el Estado, seis meses al menos, inmediatamente antes de la elección; bastando para ser Gobernadora o Gobernador Interino, Provisional o Sustituto, la calidad de ciudadana o ciudadano sinaloense.
 
 IV. Haber obtenido la mayoría de sufragios legales. En caso de empate en la votación, se convocará a nuevas elecciones.
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-V. No haber sido Secretario, Subsecretario o titular de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal; los titulares de los órganos constitucionales autónomos; Magistrado del Supremo Tribunal de Justicia, Juez de Primera Instancia; Recaudador de Rentas o Presidente Municipal; Diputado y Senador al Congreso de la Unión que se encontrare en ejercicio; haber tenido mando de fuerza de la Federación, Estado o municipios, o ser ministro de cualquier culto. Los ciudadanos antes referidos, con excepción de los ministros de cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos 90 días antes de la elección.
+V. No haber sido Secretaria o Secretario, Subsecretaría o Subsecretario o titular de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal; las titulares o los titulares de los órganos constitucionales autónomos; Magistrada o Magistrado del Supremo Tribunal de Justicia, Jueza o Juez de Primera Instancia; Recaudador de Rentas o Presidenta o Presidente Municipal; Diputada o Diputado y Senadora o Senador al Congreso de la Unión que se encontrare en ejercicio; haber tenido mando de fuerza de la Federación, Estado o municipios, o ser ministro de cualquier culto. Las ciudadanas y los ciudadanos antes referidos, con excepción de los ministros de cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos 90 días antes de la elección.
 
 VI. No haber sido convicto por ningún Tribunal, ni haber figurado directa o indirectamente en alguna azonada, motín a (sic) cuartelazo promovido contra las instituciones de la Nación o del Estado.
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1947)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-VII. Comprobar de conformidad con el Código Civil y demás Leyes sobre la materia su calidad de ciudadano sinaloense por nacimiento.
+VII. Comprobar de conformidad con el Código Civil y demás leyes sobre la materia su calidad de ciudadana o ciudadano sinaloense por nacimiento.
 
 > <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
@@ -1423,57 +1543,59 @@ X. No haber incurrido en el incumplimiento de la aplicación del principio de pa
 
 No podrán ser electas para este cargo las personas que habiendo obtenido su registro como candidatas a algún cargo de elección popular hayan sido sancionadas por las autoridades electorales en el Estado por cometer violencia política contra las mujeres en razón de género; o que habiendo ejercido algún cargo de elección popular o dentro del servicio público hayan sido sancionadas por dichas autoridades por cometer violencia política contra las mujeres en razón de género.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 57.
 
-El Gobernador del Estado entrará a ejercer su cargo el día primero de noviembre del año de su elección, durará seis años en su ejercicio y no será reelecto.
+La Gobernadora o el Gobernador del Estado entrará a ejercer su cargo el día primero de noviembre del año de su elección, durará seis años en su ejercicio y no será reelecto.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-###### Art. 58.
+Art 58. Las faltas temporales de la Gobernadora o Gobernador del Estado hasta por treinta días serán suplidas por la Secretaria o Secretario de Gobierno con el carácter de encargado del Despacho; las que excedan de tal período serán cubiertas por una Gobernadora o Gobernador Interino que nombrará el Congreso por mayoría absoluta de votos de las Diputadas y Diputados presentes. Si éste estuviere en receso al ocurrir la falta, la Diputación Permanente nombrará una o uno provisional.
 
-Las faltas temporales del Gobernador del Estado hasta por treinta días serán suplidas por el Secretario de Gobierno con el carácter de encargado del Despacho; las que excedan de tal período serán cubiertas por un Gobernador Interino que nombrará el Congreso por mayoría absoluta de votos de los Diputados presentes. Si este estuviere en receso al ocurrir la falta, la Diputación Permanente nombrará uno provisional.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1953)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 59.
 
-En caso de falta absoluta de Gobernador del Estado, ocurrida dentro de los dos primeros años del sexenio, el Congreso se constituirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros nombrará en escrutinio secreto y por mayoría absoluta de votos un Gobernador Interino, y expedirá inmediatamente la convocatoria a nuevas elecciones. Si el Congreso estuviere en receso al ocurrir la falta, la Diputación Permanente nombrará uno Provisional y convocará al Congreso a sesiones extraordinarias para que éste designe un Gobernador Interino y convoque inmediatamente a elecciones. Si la falta absoluta del Gobernador ocurriera en los últimos cuatro años de su período, si el Congreso se encontrase en sesiones, designará al Gobernador Substituto que deberá concluir el período; si el Congreso no estuviere reunido la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la elección del Gobernador Substituto.
+En caso de falta absoluta de la Gobernadora o el Gobernador del Estado, ocurrida dentro de los dos primeros años del sexenio, el Congreso se constituirá inmediatamente en Colegio Electoral y concurriendo cuando menos las dos terceras partes del número total de sus miembros nombrará en escrutinio secreto y por mayoría absoluta de votos una Gobernadora o un Gobernador Interino, y expedirá inmediatamente la convocatoria a nuevas elecciones. Si el Congreso estuviere en receso al ocurrir la falta, la Diputación Permanente nombrará una o uno Provisional y convocará al Congreso a sesiones extraordinarias para que éste designe una Gobernadora o un Gobernador Interino y convoque inmediatamente a elecciones. Si la falta absoluta de la Gobernadora o del Gobernador ocurriera en los últimos cuatro años de su período, si el Congreso se encontrase en sesiones, designará a la Gobernadora o al Gobernador Substituto que deberá concluir el período; si el Congreso no estuviere reunido la Diputación Permanente nombrará una Gobernadora o un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la elección de la Gobernadora o del Gobernador Substituto.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2022)</small>
+En caso de haberse revocado el mandato de la Gobernadora o del Gobernador del Estado, el Congreso nombrará, dentro de los treinta días siguientes, a quien concluirá el periodo constitucional.
 
-En caso de haberse revocado el mandato del Gobernador del Estado, el Congreso nombrará, dentro de los treinta días siguientes, a quien concluirá el periodo constitucional.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 60.
 
-Siempre que por cualquier motivo no pudiera por de pronto el Congreso o la Diputación Permanente, hacer la designación de que tratan los artículos anteriores, entrará a ocupar el cargo, provisionalmente, el Presidente del Supremo Tribunal de Justicia del Estado.
+Siempre que por cualquier motivo no pudiera por de pronto el Congreso o la Diputación Permanente, hacer la designación de que tratan los artículos anteriores, entrará a ocupar el cargo, provisionalmente, la Presidenta o el Presidente del Supremo Tribunal de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1953)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 61.
 
-La persona que haya fungido como Gobernador en los casos previstos por los artículos 59 y 60, no podrá ser electa popularmente Gobernador Constitucional del Estado para el período inmediato.
+La persona que haya fungido como Gobernadora o Gobernador en los casos previstos por los Artículos 59 y 60, no podrá ser electa popularmente Gobernadora o Gobernador Constitucional del Estado para el período inmediato.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 62.
 
-Si por cualquier motivo la elección ordinaria de Gobernador no estuviere hecha y publicada antes del día primero de enero en que deba verificarse la renovación, o el electo no entrare al ejercicio de sus funciones, ese día cesará sin embargo el antiguo, y se encargará del Poder Ejecutivo el Presidente del Supremo Tribunal de Justicia por mientras se llenan aquellas formalidades.
+Si por cualquier motivo la elección ordinaria de la Gobernadora o de Gobernador no estuviere hecha y publicada antes del día primero de enero en que deba verificarse la renovación, o la persona electa no entrare al ejercicio de sus funciones, ese día cesará sin embargo el antiguo, y se encargará del Poder Ejecutivo la Presidenta o el Presidente del Supremo Tribunal de Justicia por mientras se llenan aquellas formalidades.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 63.
 
-El cargo de Gobernador del Estado sólo es renunciable por causa grave que calificará el Congreso, ante el cual se presentará la renuncia.
+El cargo de Gobernadora o Gobernador del Estado sólo es renunciable por causa grave que calificará el Congreso, ante el cual se presentará la renuncia.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1945)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 64.
 
-El Gobernador no podrá ausentarse del territorio del Estado, por más de treinta días sin permiso del Congreso o de la Diputación Permanente en su caso.
+La Gobernadora o el Gobernador no podrá ausentarse del territorio del Estado, por más de treinta días sin permiso del Congreso o de la Diputación Permanente en su caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 65.
 
-Son facultades y obligaciones del Gobernador Constitucional del Estado, las siguientes:
+Son facultades y obligaciones de la Gobernadora o del Gobernador Constitucional del Estado, las siguientes:
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -1483,17 +1605,17 @@ I. Sancionar, promulgar, reglamentar y ejecutar las leyes y decretos que expida 
 
 II. Nombrar y remover a los servidores públicos de su dependencia cuyo nombramiento y remoción no estén determinados de otro modo en la Constitución y demás leyes, observando el principio de paridad de género, así como concederles licencias y admitirles sus renuncias.
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-III. Tener el mando de la fuerza pública en el Estado. En los casos en que el Gobernador del Estado juzgue como de fuerza mayor o alteración grave del orden público podrá transmitir órdenes a la Policía Preventiva Municipal, quien deberá acatarlas;
+III. Tener el mando de la fuerza pública en el Estado. En los casos en que la Gobernadora o el Gobernador del Estado juzgue como de fuerza mayor o alteración grave del orden público podrá transmitir órdenes a la Policía Preventiva Municipal, quien deberá acatarlas;
 
 IV. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, y pedir al mismo la prórroga del período de sesiones por el tiempo que estime necesario.
 
 V. Facilitar a las autoridades judiciales del Estado, los auxilios que necesiten para el desempeño de sus funciones y excitarlas a que otorguen pronta y debida justicia.
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-VI. Presentar al Congreso del Estado, a más tardar el último sábado del mes de noviembre de cada año, el proyecto de Ley de Ingresos y Presupuesto de Egresos para el año siguiente, así como remitir la cuenta pública del año anterior a más tardar el 31 de marzo, sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador, suficientemente justificada a juicio de la Legislatura.
+VI. Presentar al Congreso del Estado, a más tardar el último sábado del mes de noviembre de cada año, el proyecto de Ley de Ingresos y Presupuesto de Egresos para el año siguiente, así como remitir la cuenta pública del año anterior a más tardar el 31 de marzo, sólo se podrá ampliar el plazo de presentación cuando medie solicitud de la Gobernadora o del Gobernador, suficientemente justificada a juicio de la Legislatura.
 
 VII. Cuidar de que la recaudación e inversión de los caudales públicos se hagan con arreglo a las leyes.
 
@@ -1559,9 +1681,9 @@ XXI Bis B. Incluir anualmente, dentro de la iniciativa de Ley de Ingresos y Pres
 
 XXI Bis C. Informar anualmente al Congreso, sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y con relación a la situación de la deuda pública estatal, al rendir la cuenta pública. Incluyendo, asimismo, información detallada sobre los contratos de colaboración público privada en vigor, sobre el otorgamiento de garantías y avales y sobre la afectación de sus ingresos, como fuente o garantía de pago, o en cualquier otra forma, en términos de las leyes aplicables, en su caso;
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-XXII. Participar en el proceso de elección y remoción del Fiscal General del Estado en términos de lo previsto por esta Constitución.
+XXII. Participar en el proceso de elección y remoción de la Fiscal o del Fiscal General del Estado en términos de lo previsto por esta Constitución.
 
 > <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
 
@@ -1593,49 +1715,51 @@ XXV. Las demás que le confieren la Constitución Política de los Estados Unido
 
 La Administración Pública será Estatal y Paraestatal.
 
-La Estatal conforme a la Ley Orgánica que expida el Congreso del Estado, su Reglamento y demás Reglamentos, decretos y acuerdos que expida el Gobernador del Estado para la Constitución y funcionamiento de las entidades que la integren.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-La Paraestatal conforme a la Ley Orgánica que expida el Congreso que establecerá las bases generales de creación de las entidades que la integren, la intervención del Gobernador del Estado en su operación y las relaciones entre el Ejecutivo y las entidades paraestatales y conforme a las disposiciones reglamentarias generales y a las especiales para cada entidad que en su ejecución expida el Gobernador Constitucional del Estado.
+La Estatal conforme a la Ley Orgánica que expida el Congreso del Estado, su reglamento y demás reglamentos, decretos y acuerdos que expida la Gobernadora o el Gobernador del Estado para la Constitución y funcionamiento de las entidades que la integren.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+La Paraestatal conforme a la Ley Orgánica que expida el Congreso que establecerá las bases generales de creación de las entidades que la integren, la intervención de la Gobernadora o del Gobernador del Estado en su operación y las relaciones entre el Ejecutivo y las entidades Paraestatales y conforme a las disposiciones reglamentarias generales y a las especiales para cada entidad que en su ejecución expida la Gobernadora o el Gobernador Constitucional del Estado.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
 
 Las personas titulares de las Secretarías de la Administración Pública Estatal serán designadas observando el principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 67.
 
-Para ser Titular de una Secretaría o Subsecretaría del Poder Ejecutivo del Estado se requerirá ser ciudadana o ciudadano mexicano en el ejercicio de sus derechos, poseer la capacidad necesaria a juicio del Gobernador del Estado y tener veinticinco años cumplidos.
+Para ser Titular de una Secretaría o Subsecretaría del Poder Ejecutivo del Estado se requerirá ser ciudadana o ciudadano mexicano en el ejercicio de sus derechos, poseer la capacidad necesaria a juicio de la Gobernadora o del Gobernador del Estado y tener veinticinco años cumplidos.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 68.
 
-Los Secretarios y Sub-Secretarios de los diversos ramos de la Administración Pública no podrán desempeñar algún otro cargo, empleo o comisión oficial y particulares por los que reciban remuneración, con excepción de la integración en los consejos de los organismos estatales, paraestatales y Municipales y de los cargos docentes, ni ejercer profesión alguna salvo en causas propias del ejercicio de sus funciones.
+Las Secretarias y los Secretarios, y las Sub-Secretarias y Sub-Secretarios de los diversos ramos de la Administración Pública no podrán desempeñar algún otro cargo, empleo o comisión oficial y particulares por los que reciban remuneración, con excepción de la integración en los consejos de los organismos estatales, paraestatales y Municipales y de los cargos docentes, ni ejercer profesión alguna salvo en causas propias del ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 69.
 
-Para ser válidos los decretos, reglamentos y acuerdos del Gobernador, deberán estar firmados por éste y por el Secretario encargado del Ramo a que el asunto corresponda, de los que serán solidariamente responsables.
+Para ser válidos los decretos, reglamentos y acuerdos de la Gobernadora o Gobernador, deberán estar firmados por ésta o éste, y por la Secretaria o Secretario encargado del ramo a que el asunto corresponda, de los que serán solidariamente responsables.
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 70.
 
-Los Secretarios de la Administración Pública Estatal, al inicio de cada Período Ordinario de Sesiones, enviarán al Congreso del Estado un informe por escrito sobre la situación que guarda la Secretaría a su cargo.
+Las Secretarias y los Secretarios de la Administración Pública Estatal, al inicio de cada Período Ordinario de Sesiones, enviarán al Congreso del Estado un informe por escrito sobre la situación que guarda la Secretaría a su cargo.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
+El Congreso del Estado podrá convocar a las Secretarias y los Secretarios de Despacho, a las directoras y los directores de las entidades paraestatales, así como a los titulares de los órganos constitucionales autónomos, unidades administrativas, organismos descentralizados y desconcentrados o de carácter estatal para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, o para que respondan a interpelaciones o preguntas.
 
-El Congreso del Estado podrá convocar a los secretarios de Despacho, a los directores de las entidades paraestatales, así como a los titulares de los órganos constitucionales autónomos, unidades administrativas, organismos descentralizados y desconcentrados o de carácter estatal para que informen bajo protesta de decir verdad, cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, o para que respondan a interpelaciones o preguntas.
+El Congreso del Estado podrá requerir información o documentación a las personas titulares de las dependencias y entidades del gobierno estatal, mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor de 15 días naturales a partir de su recepción. El ejercicio de estas atribuciones se realizará de conformidad con la Ley Orgánica del Congreso del Estado.
 
-El Congreso del Estado podrá requerir información o documentación a los titulares de las dependencias y entidades del gobierno estatal, mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor de 15 días naturales a partir de su recepción. El ejercicio de estas atribuciones se realizará de conformidad con la Ley Orgánica del Congreso del Estado.
-
-> <small>(REFORMADO P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 71.
 
-Las faltas temporales de los Secretarios serán suplidas dentro de sus Ramos respectivos por los servidores públicos inmediatos inferiores con las mismas responsabilidades y atribuciones de aquéllos.
+Las faltas temporales de las Secretarias y los Secretarios serán suplidas dentro de sus Ramos respectivos por los servidores públicos inmediatos inferiores con las mismas responsabilidades y atribuciones de aquéllos.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
 
@@ -1753,35 +1877,51 @@ El Consejo Consultivo estará integrado además por personas ciudadanas de la so
 
 La Ley fijará las características y funciones del Consejo Consultivo, así como la elección de sus miembros honoríficos.
 
-> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 76 Bis.
 
-Al mando de la Fiscalía General del Estado estará un Fiscal General que durará en su encargo siete años y no podrá ser reelecto, el cual será designado y, en su caso, removido conforme a lo siguiente:
+Al mando de la Fiscalía General del Estado estará una Fiscal o un Fiscal General que durará en su encargo siete años y no podrá ser reelecto, el cual será designado y, en su caso, removido conforme a lo siguiente:
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
 
 I. La Coordinación General del Consejo Estatal de Seguridad Pública, previa Convocatoria Pública seleccionará cinco personas para ser propuestas al Titular del Ejecutivo Estatal, a fin de que por su conducto se proponga al Congreso del Estado a tres personas que considere idóneas para ocupar el cargo de Fiscal General, quienes deberán cumplir con los requisitos previstos en esta Constitución. En lo correspondiente a este proceso, se deberá observar el principio de paridad de género.
 
-II. El Congreso del Estado, previa comparecencia de aspirantes, designará al Fiscal General con el voto de las dos terceras partes de sus miembros presentes dentro del plazo de diez días hábiles. Si el Congreso del Estado no hace la designación en el plazo establecido, el Poder Ejecutivo en un término no mayor a cinco días naturales, designará al Fiscal General del Estado de entre la propuesta referida en la fracción I.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-III. El Fiscal General podrá ser removido por el Gobernador por las causas previstas en la ley. La remoción podrá ser objetada por el voto de las dos terceras partes de los miembros presentes en el Congreso dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
+II. El Congreso del Estado, previa comparecencia de aspirantes, designará la Fiscal o el Fiscal General con el voto de las dos terceras partes de sus miembros presentes dentro del plazo de diez días hábiles. Si el Congreso del Estado no hace la designación en el plazo establecido, el Poder Ejecutivo en un término no mayor a cinco días naturales, designará a la Fiscal o al Fiscal General del Estado de entre la propuesta referida en la fracción I.
 
-IV. En los recesos del Congreso, la Diputación Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General. En este caso, los plazos de diez días hábiles previstos en las fracciones II y III anteriores, se computarán a partir de la convocatoria a sesiones extraordinarias.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-V. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
+III. La Fiscal o el Fiscal General podrá ser removido por la Gobernadora o Gobernador por las causas previstas en la ley. La remoción podrá ser objetada por el voto de las dos terceras partes de los miembros presentes en el Congreso dentro de un plazo de diez días hábiles, en cuyo caso la Fiscal o el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
 
-El Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo del Estado un informe de actividades.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+IV. En los recesos del Congreso, la Diputación Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción de la Fiscal o el Fiscal General. En este caso, los plazos de diez días hábiles previstos en las fracciones II y III anteriores, se computarán a partir de la convocatoria a sesiones extraordinarias.
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+V. Las ausencias de la Fiscal o el Fiscal General serán suplidas en los términos que determine la ley.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+La Fiscal o el Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo del Estado un informe de actividades.
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2017)</small>
 
 Comparecerá ante cualquiera de ellos cuando se le cite a rendir cuentas o a informar sobre su gestión.
 
-El Fiscal General del Estado, los vicefiscales general, especializados y/o regionales, policías de investigación o demás personal bajo su autoridad, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Durante el ejercicio de su cargo, el Fiscal General no podrá desempeñar actividades profesionales que impliquen el ejercicio libre y/o remunerado de su profesión, salvo las actividades docentes, científicas, culturales, de investigación o beneficencia.
+La Fiscal o el Fiscal General del Estado, las vicefiscales o los vicefiscales general, especializados y/o regionales, policías de investigación o demás personal bajo su autoridad, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Art. 76 Bis A. La Fiscalía General del Estado contará con las Fiscalías Especializadas en Combate a la Corrupción, en Desaparición Forzada de Personas, en Materia de Delitos Relacionados con las Violencias de Género contra las Mujeres, en Materia de Tortura y en Atención de Delitos Electorales, las cuales tendrán nivel de Vicefiscalía General. Los Fiscales Especializados serán designados y removidos por el Fiscal General del Estado.
+Durante el ejercicio de su cargo, la Fiscal o el Fiscal General no podrá desempeñar actividades profesionales que impliquen el ejercicio libre y/o remunerado de su profesión, salvo las actividades docentes, científicas, culturales, de investigación o beneficencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
+
+Art. 76 Bis A. La Fiscalía General del Estado contará con las Fiscalías Especializadas en Combate a la Corrupción, en Desaparición Forzada de Personas, en Materia de Tortura y en Atención de Delitos Electorales, las cuales tendrán nivel de Vicefiscalía General. Las Fiscales o los Fiscales Especializados serán designados y removidos por la Fiscal o el Fiscal General del Estado.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2019)</small>
 
@@ -1813,9 +1953,9 @@ IV. Gozar de buena reputación.
 
 V. No haber sido condenada o condenado por la comisión de delito doloso.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-De igual forma percibirá las mismas prestaciones y emolumentos legales o normativos internos, salariales y/o de cualquier especie del Magistrado Presidente del Supremo Tribunal de Justicia del Estado.
+De igual forma percibirá las mismas prestaciones y emolumentos legales o normativos internos, salariales y/o de cualquier especie de la Magistrada Presidenta o Magistrado Presidente del Supremo Tribunal de Justicia del Estado.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ENERO DE 1993)</small>
 
@@ -1831,21 +1971,21 @@ Para conocer de las quejas en contra de actos u omisiones de naturaleza administ
 
 Este organismo formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas y no será competente tratándose de asuntos electorales y jurisdiccionales.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Todo servidor público está obligado a responder las recomendaciones que emita la Comisión Estatal de los Derechos Humanos. Cuando las recomendaciones no sean aceptadas o cumplidas por las autoridades o servidores públicos, estos deberán fundar, motivar, y hacer pública su negativa; además, el Congreso del Estado, a solicitud del Presidente de ese organismo y previo Dictamen de procedencia emitido por las Comisiones Permanentes de Derechos Humanos y la relativa al cargo que desempeñen dichos servidores, aprobado por el Pleno, podrá llamar, a las autoridades o servidores públicos responsables para que comparezcan ante dichas Comisiones Permanentes a efecto de que expliquen el motivo de su negativa.
+Todo servidor público está obligado a responder las recomendaciones que emita la Comisión Estatal de los Derechos Humanos. Cuando las recomendaciones no sean aceptadas o cumplidas por las autoridades o servidores públicos, estos deberán fundar, motivar, y hacer pública su negativa; además, el Congreso del Estado, a solicitud de la Presidenta o del Presidente de ese organismo y previo Dictamen de procedencia emitido por las Comisiones Permanentes de Derechos Humanos y la relativa al cargo que desempeñen dichos servidores, aprobado por el Pleno, podrá llamar, a las autoridades o servidores públicos responsables para que comparezcan ante dichas Comisiones Permanentes a efecto de que expliquen el motivo de su negativa.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 La Comisión Estatal de los Derechos Humanos tendrá un Consejo Consultivo integrado por diez Consejeras y Consejeros. En su designación se observará el principio de paridad de género, los cuales serán electos por el voto de las dos terceras partes de los integrantes del Congreso del Estado mediante un procedimiento de consulta pública que deberá ser transparente, en los términos y condiciones que determine la Ley. Cada dos años serán sustituidos las o los dos consejeros con mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-El Titular de la Presidencia de la Comisión Estatal de Derechos Humanos, quien también presidirá el Consejo Consultivo, será electo en los mismos términos del párrafo anterior. Durará en su encargo cuatro años, podrá ser reelecto por una sola vez cumpliendo con las mismas formalidades del procedimiento en el que fue designado, y solo podrá ser removido de sus funciones en los términos del Título Sexto de la Constitución Política del Estado de Sinaloa.
+La persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos, quien también presidirá el Consejo Consultivo, será electa en los mismos términos del párrafo anterior. Durará en su encargo cuatro años, podrá ser reelecta por una sola vez cumpliendo con las mismas formalidades del procedimiento en el que fue designada, y solo podrá ser removida de sus funciones en los términos del Título Sexto de la Constitución Política del Estado de Sinaloa.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anualmente a los poderes Ejecutivo y Legislativo Estatal, un informe de actividades, en los términos que la ley disponga.
+La Presidenta o Presidente de la Comisión Estatal de los Derechos Humanos, presentará anualmente a los poderes Ejecutivo y Legislativo Estatal, un informe de actividades, en los términos que la ley disponga.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 6 DE ABRIL DE 2016)</small>
 
@@ -1857,11 +1997,17 @@ El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anual
 
 El Estado contará con un Consejo Estatal de Evaluación de la Política de Desarrollo Social, que será un órgano autónomo, con personalidad jurídica y patrimonio propios, y tendrá a su cargo la medición de la pobreza y la evaluación de los programas, objetivos, metas y acciones de la política de desarrollo social del Estado, así como emitir recomendaciones en los términos que disponga la ley, la cual establecerá las formas de coordinación del órgano con las autoridades federales, locales y municipales para el ejercicio de sus funciones.
 
-El Consejo Estatal de Evaluación de la Política de Desarrollo Social, estará integrado por un Presidente y dos Consejeros, que serán nombrados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, mediante el procedimiento de consulta pública que deberá ser transparente, en los términos y condiciones que determine la Ley. Los nombramientos podrán ser objetados por el Gobernador del Estado en un plazo de diez días hábiles y, si no lo hiciere, ocuparán los cargos las personas nombradas por el Congreso. El Presidente y los Consejeros deberán ser ciudadanos sinaloenses de reconocido prestigio en los sectores público, privado y social, así como en los ámbitos académico y profesional y tener experiencia mínima de cinco años en materia de desarrollo social. En ningún caso la totalidad de los integrantes del Consejo podrá corresponder a un mismo género.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-El Presidente y los Consejeros del Consejo Estatal de Evaluación de la Política de Desarrollo Social durarán en su encargo cinco años, podrán ser nuevamente nombrados para un período igual, y solo podrán ser removidos de sus funciones en los términos del Título VI de esta Constitución.
+El Consejo Estatal de Evaluación de la Política de Desarrollo Social, estará integrado por una Presidenta o un Presidente y dos Consejeras o Consejeros, que serán nombrados por el voto de las dos terceras partes de las Diputadas y los Diputados presentes del Congreso del Estado, mediante el procedimiento de consulta pública que deberá ser transparente, en los términos y condiciones que determine la Ley. Los nombramientos podrán ser objetados por la Gobernadora o el Gobernador del Estado en un plazo de diez días hábiles y, si no lo hiciere, ocuparán los cargos las personas nombradas por el Congreso. La Presidenta o el Presidente y, las Consejeras y los Consejeros deberán ser ciudadanos y ciudadanas sinaloenses de reconocido prestigio en los sectores público, privado y social, así como en los ámbitos académico y profesional y tener experiencia mínima de cinco años en materia de desarrollo social. En ningún caso la totalidad de los integrantes del Consejo podrá corresponder a un mismo género.
 
-El Presidente del Consejo Estatal de Evaluación de la Política de Desarrollo Social presentará anualmente al Congreso del Estado un informe de actividades, y comparecerá ante el mismo cuando sea requerido.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+La Presidenta o Presidente y las Consejeras o Consejeros del Consejo Estatal de Evaluación de la Política de Desarrollo Social durarán en su encargo cinco años, podrán ser nuevamente nombrados para un período igual, y solo podrán ser removidos de sus funciones en los términos del Título VI de esta Constitución.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+La Presidenta o Presidente del Consejo Estatal de Evaluación de la Política de Desarrollo Social presentará anualmente al Congreso del Estado un informe de actividades, y comparecerá ante el mismo cuando sea requerido.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2014)</small>
 
@@ -1873,11 +2019,11 @@ El Presidente del Consejo Estatal de Evaluación de la Política de Desarrollo S
 
 Habrá en el Estado un Instituto de la Defensoría Pública, mismo que en el desempeño de sus funciones gozará de independencia técnica y operativa, a fin de garantizar de manera gratuita a los imputados el derecho a una defensa adecuada y de calidad en materia penal y de justicia para adolescentes, así como el acceso a la justicia mediante la orientación, asesoría y representación jurídica en materia civil, familiar, administrativa y laboral, a través de Defensores Públicos y de Asesores Jurídicos, en los términos que señale la Ley.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 79.
 
-El Instituto de la Defensoría Pública dependerá de (sic) Gobierno del Estado y estará constituido por un Director y la estructura orgánica que establezca la Ley y el reglamento respectivo, mismos que fijaran los requisitos, forma y términos de su integración, así como sus atribuciones.
+El Instituto de la Defensoría Pública dependerá de (sic) Gobierno del Estado y estará constituido por una Directora o un Director y la estructura orgánica que establezca la Ley y el reglamento respectivo, mismos que fijaran los requisitos, forma y términos de su integración, así como sus atribuciones.
 
 #### SECCION IV. DE LA HACIENDA PUBLICA
 
@@ -1887,11 +2033,11 @@ El Instituto de la Defensoría Pública dependerá de (sic) Gobierno del Estado 
 
 La Hacienda Pública del Estado estará constituída por los bienes muebles e inmuebles comprendidos en su patrimonio; por los impuestos, derechos, productos y aprovechamientos que en su favor establezcan las leyes del Estado; y por las participaciones que en impuestos Federales otorguen al Estado las Leyes Federales.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 81.
 
-La dirección de la política fiscal del Estado en la esfera administrativa y la administración de la hacienda pública del Estado, corresponderán originalmente al Gobernador quien podrá delegar su ejercicio mediante disposiciones de carácter general y especial.
+La dirección de la política fiscal del Estado en la esfera administrativa y la administración de la hacienda pública del Estado, corresponderán originalmente a la Gobernadora o al Gobernador quien podrá delegar su ejercicio mediante disposiciones de carácter general y especial.
 
 ###### Art. 82.
 
@@ -1913,15 +2059,17 @@ El Congreso del Estado por el voto de las dos terceras partes de sus miembros pr
 
 Sin perjuicio de lo anterior, el Estado y los Municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Las obligaciones a corto plazo deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 85.
 
-Ningún impuesto podrá establecerse si no se destina a los gastos públicos y ningún pago podrá hacerse por las oficinas fiscales sin estar expresamente autorizado por el Presupuesto de Egresos del Estado. Ningún impuesto podrá ser rematado. Ningún gasto con cargo a partidas extraordinarias será cubierto por las oficinas fiscales, sin orden firmada por el Gobernador y por el Secretario del Ramo.
+Ningún impuesto podrá establecerse si no se destina a los gastos públicos y ningún pago podrá hacerse por las oficinas fiscales sin estar expresamente autorizado por el Presupuesto de Egresos del Estado. Ningún impuesto podrá ser rematado. Ningún gasto con cargo a partidas extraordinarias será cubierto por las oficinas fiscales, sin orden firmada por la Gobernadora o Gobernador y por la Secretaria o Secretario del Ramo.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 86.
 
-El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes legalmente giradas por los otros dos Poderes, con cargo a sus partidas extraordinarias respectivas.
+La Gobernadora o el Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes legalmente giradas por los otros dos Poderes, con cargo a sus partidas extraordinarias respectivas.
 
 ###### Art. 87.
 
@@ -2027,25 +2175,39 @@ La Presidencia del Supremo Tribunal de Justicia del Estado se ejercerá por una 
 
 Las personas titulares de las Magistraturas Propietarias del Supremo Tribunal de Justicia serán electas en términos y conforme a las bases del artículo 96, observando siempre el principio de paridad de género. Durarán nueve años en el ejercicio de su encargo, podrán ser reelectas y, si lo fueren, solo podrán ser privadas de sus puestos en los términos que determine la Constitución General, esta Constitución y la legislación de responsabilidades aplicable.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 95.
 
-Los Magistrados del Supremo Tribunal de Justicia, sólo podrán ser privados de sus cargos conforme a las causas y con sujeción a los procedimientos previstos en esta Constitución.
+Las Magistradas y Magistrados del Supremo Tribunal de Justicia, sólo podrán ser privados de sus cargos conforme a las causas y con sujeción a los procedimientos previstos en esta Constitución.
 
-Los Magistrados del Supremo Tribunal de Justicia se retirarán de sus cargos en forma forzosa o voluntaria.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+Las Magistradas y Magistrados del Supremo Tribunal de Justicia se retirarán de sus cargos en forma forzosa o voluntaria.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE ENERO DE 2001)</small>
 
 Son causa de retiro forzoso:
 
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2001)</small>
+
 I. Haber cumplido setenta años de edad;
 
-II. Tener treinta años de servicios en el Poder Judicial del Estado, y dentro de éstos, haber ejercido el cargo de Magistrado cuando menos durante diez años;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-III. Haber cumplido quince años de servicios como Magistrado del Supremo Tribunal de Justicia; y
+II. Tener treinta años de servicios en el Poder Judicial del Estado, y dentro de éstos, haber ejercido el cargo de Magistrada o Magistrado cuando menos durante diez años;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+III. Haber cumplido quince años de servicios como Magistrada o Magistrado del Supremo Tribunal de Justicia; y
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2001)</small>
 
 IV. Padecer incapacidad física o mental incurables, incluso cuando ésta fuere parcial o transitoria.
 
-La Ley Orgánica del Poder Judicial del Estado fijará las causas del retiro voluntario, los beneficios que tendrá el Magistrado que se retire forzosa o voluntariamente y el procedimiento que deberá seguirse para la formulación del dictamen, el cual se pondrá en conocimiento del Congreso del Estado o de la Diputación Permanente, para los efectos de su aprobación.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+La Ley Orgánica del Poder Judicial del Estado fijará las causas del retiro voluntario, los beneficios que tendrá la Magistrada o Magistrado que se retire forzosa o voluntariamente y el procedimiento que deberá seguirse para la formulación del dictamen, el cual se pondrá en conocimiento del Congreso del Estado o de la Diputación Permanente, para los efectos de su aprobación.
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
 
@@ -2141,9 +2303,9 @@ I. Los cargos docentes o en instituciones de beneficencia.
 
 II. (DEROGADA, P.O. 6 DE JUNIO DE 2025)
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-III. Las funciones notariales, que podrán ser ejercidas por los Jueces de Primera Instancia y Menores en los lugares donde no haya Notaría, o habiéndolos estén impedidos para ejercerlas. La Ley del Notariado reglamentará esta fracción.
+III. Las funciones notariales, que podrán ser ejercidas por las Juezas o los Jueces de Primera Instancia y Menores en los lugares donde no haya Notaría, o habiéndolos estén impedidos para ejercerlas. La Ley del Notariado reglamentará esta fracción.
 
 ###### Art. 103.
 
@@ -2159,9 +2321,9 @@ La Ley Orgánica del Poder Judicial reglamentará la integración y el funcionam
 
 I. Conocer como jurado de sentencia en el juicio político instaurado contra los servidores públicos señalados en el Título VI de esta Constitución.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-II. Resolver, como jurado de sentencia, de las acusaciones penales formuladas por la Legislatura Local en contra del Gobernador del Estado, por la comisión de delitos.
+II. Resolver, como jurado de sentencia, de las acusaciones penales formuladas por la Legislatura Local en contra de la Gobernadora o del Gobernador del Estado, por la comisión de delitos.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2169,9 +2331,9 @@ III. Conocer y resolver las controversias de cualquier orden que se susciten, en
 
 III Bis. (DEROGADA, P.O. 22 DE OCTUBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-IV. Conocer de los conflictos competenciales que se susciten entre los Jueces de Primera Instancia, o entre Jueces Menores de diversos distritos judiciales.
+IV. Conocer de los conflictos competenciales que se susciten entre las Juezas y Jueces de Primera Instancia, o entre Juezas y Jueces Menores de diversos distritos judiciales.
 
 V. (DEROGADA, P.O. 6 DE JUNIO DE 2025)
 
@@ -2227,11 +2389,13 @@ b) Cuando la persona servidora pública no acredite favorablemente la evaluació
 
 El Órgano de Administración Judicial contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial. Tendrá a su cargo la determinación del número, competencia territorial y especialización por materias de los Juzgados de Primera Instancia; el ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño; la inspección de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes.
 
-(NOTA: EL 11 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 74/2025, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-EL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL SE INTEGRARÁ POR CINCO PERSONAS, DE LAS CUALES, CUATRO DURARÁN EN SU ENCARGO SEIS AÑOS IMPRORROGABLES. DE ESTAS, UNA SERÁ DESIGNADA POR EL PODER EJECUTIVO, POR CONDUCTO DEL GOBERNADOR CONSTITUCIONAL DEL ESTADO; UNO POR EL CONGRESO DEL ESTADO MEDIANTE VOTACIÓN CALIFICADA DE DOS TERCIOS DE SUS INTEGRANTES PRESENTES; Y DOS POR EL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO. LA PRESIDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO INTEGRARÁ Y PRESIDIRÁ ASIMISMO EL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL.
+El Pleno del Órgano de Administración Judicial se integrará por cinco personas, de las cuales, cuatro durarán en su encargo seis años improrrogables. De estas, una será designada por el Poder Ejecutivo, por conducto de la Gobernadora o del Gobernador Constitucional del Estado; una por el Congreso del Estado mediante votación calificada de dos tercios de sus integrantes presentes; y dos por el Pleno del Supremo Tribunal de Justicia del Estado. La Presidencia del Supremo Tribunal de Justicia del Estado integrará y presidirá asimismo el Pleno del Órgano de Administración Judicial.
 
-Quienes integren el Pleno del Órgano de Administración deberán ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del Órgano de Administración Judicial, con antigüedad mínima de cinco años; y no estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+Quienes integren el Pleno del Órgano de Administración deberán ser mexicanas o mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del Órgano de Administración Judicial, con antigüedad mínima de cinco años; y no estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenadas o condenados por delito doloso con sanción privativa de la libertad.
 
 Durante su encargo, las personas integrantes del Pleno del Órgano de Administración Judicial solo podrán ser removidas en los términos del Título VI de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
 
@@ -2243,9 +2407,9 @@ El Órgano de Administración Judicial elaborará el presupuesto del Poder Judic
 
 En el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en operación fondos, fideicomisos o contratos análogos que no estén previstos en la ley.
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JULIO DE 2026)</small>
 
-#### SECCION III. DE LOS JUECES DE PRIMERA INSTANCIA Y MENORES
+#### SECCION III. DE LAS JUEZAS Y LOS JUECES DE 1a INSTANCIA Y MENORES
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
 
@@ -2257,11 +2421,13 @@ Las Juezas y los Jueces de Primera Instancia serán electos mediante voto popula
 
 (DEROGADO, P.O. 6 DE JUNIO DE 2025)
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1968)</small>
+> <small>(REFORMADO PRIEMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 108.
 
-En cada una de las Cabaceras (sic) de los Distritos Judiciales, a que se refiere la fracción II del Artículo 18 de esta Ley, habrá uno o más Jueces de 1ra. Instancia que tendrá la Jurisdicción que le señale la Ley Orgánica del Poder Judicial.
+En cada una de las Cabeceras de los Distritos Judiciales, a que se refiere la fracción II del Artículo 18 de esta Ley, habrá uno o más Juezas y Jueces de 1ra. Instancia que tendrá la Jurisdicción que le señale la Ley Orgánica del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1968)</small>
 
 En el Distrito Judicial en que esté ubicada la Penitenciaría del Estado, el Juzgado o los Juzgados de Primera Instancia con jurisdicción en el Ramo Penal del Propio Distrito, residirán en el mismo lugar en que se encuentre dicho establecimiento penitenciario.
 
@@ -2271,9 +2437,13 @@ En el Distrito Judicial en que esté ubicada la Penitenciaría del Estado, el Ju
 
 El Supremo Tribunal de Justicia determinará el número de Juzgados Menores, su jurisdicción y competencia.
 
-Los Jueces Menores serán nombrados por el Supremo Tribunal de Justicia y durarán en su cargo 3 años, al término de los cuales podrán ser ratificados y si lo fuera (sic), sólo serán privados de sus puestos previo juicio de responsabilidad o instructivo en el que se demuestre su incapacidad o mala conducta.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Para ser Juez Menor se requiere: Ser ciudadano mexicano por nacimiento y sinaloense, en pleno ejercicio de sus derechos, mayor de edad, de notoria buena conducta y tener preferentemente cursada la carrera de Licenciado en Derecho.
+Las Juezas y Jueces Menores serán nombrados por el Supremo Tribunal de Justicia y durarán en su cargo 3 años, al término de los cuales podrán ser ratificados y si lo fueran, sólo serán privados de sus puestos previo juicio de responsabilidad o instructivo en el que se demuestre su incapacidad o mala conducta.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+Para ser Jueza o Juez Menor se requiere: Ser ciudadana o ciudadano mexicano por nacimiento y sinaloense, en pleno ejercicio de sus derechos, mayor de edad, de notoria buena conducta y tener preferentemente cursada la carrera de Licenciado en Derecho.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2017)</small>
 
@@ -2367,7 +2537,9 @@ Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
 I. El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría del Ejecutivo Estatal responsable del control interno; por la persona titular de la presidencia del Tribunal de Justicia Administrativa del Estado; así como por una persona representante del Tribunal de Disciplina Judicial y otra del Comité de Participación Ciudadana.
 
-II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanas y ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
 
 III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la ley:
 
@@ -2413,65 +2585,65 @@ Los Municipios tendrán personalidad jurídica y patrimonio propios y serán gob
 
 No habrá ninguna autoridad intermedia entre el Ayuntamiento y los poderes del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Los Municipios se dividirán en Sindicaturas y éstas en Comisarías, en cuyas jurisdicciones ejercerán las funciones ejecutivas y administrativas los Síndicos y Comisarios Municipales, respectivamente. Unos y otros serán nombrados cada tres años por el Ayuntamiento de la Municipalidad que corresponda y removidos libremente por el mismo.
+Los Municipios se dividirán en Sindicaturas y éstas en Comisarías, en cuyas jurisdicciones ejercerán las funciones ejecutivas y administrativas las Síndicas o Síndicos y Comisarias o Comisarios Municipales, respectivamente. Unos y otros serán nombrados cada tres años por el Ayuntamiento de la Municipalidad que corresponda y removidos libremente por el mismo.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 111.
 
-Compete a los Ayuntamientos y en su caso a los Concejos Municipales, ejercer de manera exclusiva el gobierno municipal, conforme a las disposiciones que establece la Constitución Federal, esta Constitución y las leyes que de ellas emanen, correspondiendo al Presidente Municipal ejercer las atribuciones ejecutivas y representativas, llevar la jefatura política y administrativa de la municipalidad y presidir las sesiones del Cabildo.
+Compete a los Ayuntamientos y en su caso a los Concejos Municipales, ejercer de manera exclusiva el gobierno municipal, conforme a las disposiciones que establece la Constitución Federal, esta Constitución y las leyes que de ellas emanen, correspondiendo a la Presidenta o Presidente Municipal ejercer las atribuciones ejecutivas y representativas, llevar la jefatura política y administrativa de la municipalidad y presidir las sesiones del Cabildo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 112.
 
-La elección directa de Presidente Municipal, Síndicos Procuradores y Regidores de los Ayuntamientos, se verificará cada tres años y entrarán en funciones el día primero de noviembre del año de su elección, previa protesta que otorgarán ante el Ayuntamiento saliente.
+La elección directa de la Presidenta o Presidente Municipal, Síndicas o Síndicos Procuradores, Regidoras y Regidores de los Ayuntamientos, se verificará cada tres años y entrarán en funciones el día primero de noviembre del año de su elección, previa protesta que otorgarán ante el Ayuntamiento saliente.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-Por cada Regidor y Síndico Procurador propietarios se elegirá un suplente del mismo género.
+Por cada Regidora o Regidor y Síndica o Síndico Procurador propietarios se elegirá una o un suplente del mismo género.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
 Los municipios, cualquiera que sea su número de habitantes, integrarán sus Ayuntamientos de conformidad con lo siguiente:
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-I. Los de Ahome, Guasave, Culiacán y Mazatlán, con un Presidente Municipal, un Síndico Procurador, siete Regidores de Mayoría Relativa y cinco Regidores de Representación Proporcional.
+I. Los de Ahome, Guasave, Culiacán y Mazatlán, con una Presidenta o Presidente Municipal, una Síndica o Síndico Procurador, siete Regidoras y Regidores de Mayoría Relativa y cinco Regidoras y Regidores de Representación Proporcional.
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-II. Los de El Fuerte, Sinaloa, Salvador Alvarado, Mocorito, Navolato, Rosario y Escuinapa, con un Presidente Municipal, un Síndico Procurador, cinco Regidores de Mayoría Relativa y cuatro Regidores de Representación Proporcional.
+II. Los de El Fuerte, Sinaloa, Salvador Alvarado, Mocorito, Navolato, Rosario y Escuinapa, con una Presidenta o Presidente Municipal, una Síndica o Síndico Procurador, cinco Regidoras y Regidores de Mayoría Relativa y cuatro Regidoras y Regidores de Representación Proporcional.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-III. Los Municipios de Choix, Juan José Ríos, Angostura, Badiraguato, Cosalá, Eldorado, Elota, San Ignacio y Concordia, con un Presidente Municipal, un Síndico Procurador, tres Regidores de Mayoría Relativa y tres Regidores de Representación Proporcional.
+III. Los Municipios de Choix, Juan José Ríos, Angostura, Badiraguato, Cosalá, Eldorado, Elota, San Ignacio y Concordia, con una Presidenta o Presidente Municipal, una Síndica o Síndico Procurador, tres Regidoras y Regidores de Mayoría Relativa y tres Regidoras y Regidores de Representación Proporcional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
+
+Art 113. La Policía Preventiva Municipal estará al mando de la Presidenta o Presidente Municipal, en los términos del Reglamento correspondiente y acatará las órdenes que la Gobernadora o Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
-
-###### Art. 113.
-
-La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos del Reglamento correspondiente y acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
 El Ejecutivo Federal tendrá el mando de la fuerza pública en los Municipios donde resida habitual o transitoriamente.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 114.
 
-El cargo de Presidente Municipal, de Regidor y de Síndico Procurador será obligatorio pero no gratuito y sólo será renunciable por causa justificada a juicio del Ayuntamiento.
+El cargo de Presidenta o Presidente Municipal, de Regidora o Regidor y de Síndica o Síndico Procurador será obligatorio, pero no gratuito y sólo será renunciable por causa justificada a juicio del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 115.
 
-Para ser Regidor o Síndico Procurador del Ayuntamiento se requiere:
+Para ser Regidora o Regidor y Síndica o Síndico Procurador del Ayuntamiento se requiere:
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+I. Ser ciudadana o ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2493,27 +2665,31 @@ IV. No aparecer inscrito en el Registro de Deudores Alimentarios Morosos del Est
 
 V. No haber incurrido en el incumplimiento de la aplicación del principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 116.
 
-Para ser Presidente Municipal, además de los requisitos exigidos para ser Regidor, son necesarios los siguientes:
+Para ser Presidenta o Presidente Municipal, además de los requisitos exigidos para ser Regidora o Regidor, son necesarios los siguientes:
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 I. Tener 25 años cumplidos, cuando menos, en la fecha de la elección;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-II. Ser originario de la municipalidad que lo elija o vecino de ella cuando menos tres años anteriores a la elección siempre que sea ciudadano sinaloense por nacimiento o por vecindad, con residencia efectiva en el Estado en este último caso, no menor de cinco años inmediatamente anteriores al día de la elección.
+II. Ser persona originaria de la municipalidad que lo elija o vecina de ella cuando menos tres años anteriores a la elección siempre que sea ciudadana o ciudadano sinaloense por nacimiento o por vecindad, con residencia efectiva en el Estado en este último caso, no menor de cinco años inmediatamente anteriores al día de la elección.
 
 ###### Art. 116 Bis.
 
 (DEROGADO, P.O. 27 DE ENERO DE 1984)
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 117.
 
-Los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos de elección popular directa, podrán ser electos consecutivamente para los mismos cargos por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. La ley establecerá los requisitos que deberán satisfacerse para la nueva postulación.
+Las Presidentas y Presidentes Municipales, Síndicas o Síndicos Procuradores y Regidoras o Regidores de los Ayuntamientos de elección popular directa, podrán ser electos consecutivamente para los mismos cargos por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. La ley establecerá los requisitos que deberán satisfacerse para la nueva postulación.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 Quienes por elección indirecta, por nombramiento o designación de parte de alguna autoridad, desempeñen las funciones propias de dichos cargos, independientemente de la denominación que se les dé, podrán ser electos para el período inmediato.
 
@@ -2523,23 +2699,19 @@ Quienes por elección indirecta, por nombramiento o designación de parte de alg
 
 El Congreso del Estado, por acuerdo de las dos terceras partes de sus miembros, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus integrantes, por cualesquiera de las causas graves que prevenga la Ley, condicionándose lo anterior a que sean oídos en defensa de sus derechos y tengan la oportunidad suficiente para rendir pruebas y formular alegatos.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-En caso de declararse desaparecido un Ayuntamiento, o por renuncia, o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entren en funciones los Suplentes, ni que se celebren nuevas elecciones, el Congreso del Estado designará, de entre los vecinos a un Concejo Municipal que concluirá el período respectivo; estos Concejos estarán integrados por el número de miembros que determine la Ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los Regidores. Dicho Concejo rendirá la protesta de Ley ante el propio Congreso del Estado.
+En caso de declararse desaparecido un Ayuntamiento, o por renuncia, o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entren en funciones los Suplentes, ni que se celebren nuevas elecciones, el Congreso del Estado designará, de entre los vecinos a un Concejo Municipal que concluirá el período respectivo; estos Concejos estarán integrados por el número de miembros que determine la Ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para las Regidoras y Regidores. Dicho Concejo rendirá la protesta de Ley ante el propio Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 119.
 
-Las faltas temporales del Presidente Municipal cuando no excedan de diez días serán cubiertas por el Secretario del Ayuntamiento con el carácter de Encargado del Despacho, bastando solamente el aviso respectivo que dará el Presidente Municipal al propio Ayuntamiento.
+Las faltas temporales de la Presidenta o Presidente Municipal cuando no excedan de diez días serán cubiertas por la Secretaria o Secretario del Ayuntamiento con el carácter de Encargado del Despacho, bastando solamente el aviso respectivo que dará la Presidenta o Presidente Municipal al propio Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+Cuando la ausencia excediere del tiempo señalado en el párrafo anterior, la Presidenta o Presidente Municipal sólo podrá separarse de su puesto mediante licencia previamente concedida por el Ayuntamiento, quien designará de entre sus miembros a una Presidenta o Presidente Municipal provisional.
 
-Cuando la ausencia excediere del tiempo señalado en el párrafo anterior, el Presidente Municipal solo podrá separarse de su puesto mediante licencia previamente concedida por el Ayuntamiento, quien designará de entre sus miembros a un Presidente Municipal provisional.
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2004)</small>
-
-Las ausencias del Presidente Municipal, del territorio del Estado, cuando no excedan de cinco días, no requerirán la previa autorización del Ayuntamiento.
+Las ausencias de la Presidenta o Presidente Municipal, del territorio del Estado, cuando no excedan de cinco días, no requerirán la previa autorización del Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
@@ -2725,13 +2897,13 @@ Cuando dos o más centros urbanos situados en territorios de dos o más Municipi
 
 Las municipalidades procurarán arreglar sus cuestiones sobre límites mediante convenios entre sí, los que en todo caso se someterán a la ratificación del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 128.
 
-Cada Ayuntamiento tendrá un Secretario y un Tesorero, así como el número correspondiente de Síndicos y Comisarios Municipales, nombrados de fuera de su seno, quienes deberán ser ciudadanos mexicanos por nacimiento en pleno ejercicio de sus derechos y estar avecindados en la Municipalidad, cuando menos un año inmediatamente antes de su designación.
+Cada Ayuntamiento tendrá una Secretaria o Secretario y una Tesorera o Tesorero, así como el número correspondiente de Síndicas o Síndicos y Comisarias o Comisarios Municipales, nombrados de fuera de su seno, quienes deberán ser ciudadanas o ciudadanos mexicanos por nacimiento en pleno ejercicio de sus derechos y estar avecindados en la Municipalidad, cuando menos un año inmediatamente antes de su designación.
 
-El Tesorero antes de entrar a ejercer sus funciones, caucionará suficientemente su manejo.
+La Tesorera o el Tesorero antes de entrar a ejercer sus funciones, caucionará suficientemente su manejo.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2785,35 +2957,55 @@ Ningún servidor público del Gobierno del Estado y de los Ayuntamientos tiene d
 
 Podrán ser sujetos de juicio político, para sancionar su responsabilidad, el Gobernador o Gobernadora, las diputadas y diputados locales, las magistradas y magistrados del Supremo Tribunal de Justicia del Estado, las magistradas y magistrados del Tribunal de Disciplina Judicial, las personas integrantes del Órgano de Administración Judicial, las personas titulares de las secretarías de Despacho del Poder Ejecutivo, las juezas y jueces de Primera Instancia, titulares y directoras, o sus equivalentes, de las entidades, instituciones u organismos que integren la Administración Pública Paraestatal conforme al primer párrafo del artículo 130, las personas titulares de los órganos constitucionales autónomos, así como las personas titulares de las presidencias municipales, regidurías y sindicaturas de procuración de los ayuntamientos.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 133.
 
-Son causas que podrán motivar la instauración del juicio político en contra del Gobernador del Estado, los Magistrados del Supremo Tribunal de Justicia y de los Diputados Locales, las siguientes faltas u omisiones en que incurran durante el ejercicio de su encargo, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho:
+Son causas que podrán motivar la instauración del juicio político en contra de la Gobernadora o Gobernador del Estado, las Magistradas y Magistrados del Supremo Tribunal de Justicia y de las Diputadas y Diputados Locales, las siguientes faltas u omisiones en que incurran durante el ejercicio de su encargo, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho:
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 I. La violación grave a disposición expresa de la Constitución Política de los Estados Unidos Mexicanos, o de la Constitución Política del Estado, o a las Leyes que de ellas emanen;
 
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+
 II. El manejo indebido de fondos y recursos del Estado o de la Federación; y,
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 III. Los ataques a la libertad electoral.
 
-Respecto a los diversos servidores públicos señalados en el artículo anterior, son causas de responsabilidad, además de las mencionadas en este Artículo, los actos u omisiones que señalen las leyes de la materia.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
-No procederá el juicio político por la sola expresión de las ideas.
+Respecto a los diversos servidores públicos señalados en el artículo anterior, son causas de responsabilidad, además de las mencionadas en este Artículo, los actos u omisiones que señalen las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
+No procederá el juicio político por la sola expresión de las ideas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
+
 ###### Art. 134.
 
-El Congreso del Estado, por mayoría de los Diputados presentes y erigidos en Jurado de Acusación, resolverá si ha lugar, o no, a formular acusación. Si procediere presentar ésta, el servidor público quedará separado de su cargo.
+El Congreso del Estado, por mayoría de las Diputadas y Diputados presentes y erigidos en Jurado de Acusación, resolverá si ha lugar, o no, a formular acusación. Si procediere presentar ésta, el servidor público quedará separado de su cargo.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 Formulada en su caso la acusación, el Pleno del Supremo Tribunal de Justicia del Estado, constituido en Jurado de Sentencia, resolverá en definitiva.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
 La sentencia condenatoria impondrá como sanción la destitución del servidor público y su inhabilitación para ocupar cargo, empleo o comisión de cualquier naturaleza en la administración pública.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 Si la sentencia es absolutoria, el acusado continuará en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
 No procede recurso legal alguno en contra de la acusación ni de la sentencia del Pleno.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 La Legislatura Local procederá conforme a lo previsto en este Capítulo, tratándose de las resoluciones declarativas dictadas por el Congreso de la Unión.
 
@@ -2831,9 +3023,9 @@ Todo servidor público es penalmente responsable por los delitos que cometa y su
 
 Se requiere declaratoria previa del Congreso del Estado, erigido en Jurado de Acusación por mayoría absoluta de las diputadas y diputados presentes, de que ha lugar a proceder penalmente en contra de la persona inculpada, tratándose de delitos atribuidos a diputadas y diputados de la Legislatura Local, magistradas y magistrados del Supremo Tribunal de Justicia, magistradas y magistrados del Tribunal de Disciplina Judicial, personas integrantes del Órgano de Administración Judicial, juezas y jueces de primera instancia, personas titulares de las secretarías de Despacho del Poder Ejecutivo, de las presidencias municipales y titulares de órganos constitucionales autónomos, quienes serán juzgadas por la autoridad competente.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-El Gobernador del Estado durante el tiempo de su encargo sólo podrá ser enjuiciado por delitos graves del fuero común, previa declaratoria de la Legislatura, y será juzgado por el Pleno del Supremo Tribunal de Justicia erigido en Jurado de Sentencia.
+La Gobernadora o el Gobernador del Estado durante el tiempo de su encargo sólo podrá ser enjuiciado por delitos graves del fuero común, previa declaratoria de la Legislatura, y será juzgado por el Pleno del Supremo Tribunal de Justicia erigido en Jurado de Sentencia.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2841,7 +3033,9 @@ El Gobernador del Estado durante el tiempo de su encargo sólo podrá ser enjuic
 
 Por la declaratoria de procedencia, el servidor público quedará separado de su cargo mientras esté sujeto al proceso penal. En caso contrario cesará todo procedimiento ulterior en su contra, pero podrá enjuiciársele penalmente después de concluido su cargo. Cuando la sentencia sea absolutoria, el inculpado podrá reasumir su encargo.
 
-Tratándose de delitos federales imputados al Gobernador, a los Diputados o Magistrados, previa declaratoria del Congreso de la Unión, la Legislatura Local resolverá si ha lugar a proceder en contra de los servidores públicos mencionados, para el solo efecto de dejar expedita la actuación de las autoridades competentes.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+Tratándose de delitos federales imputados a la Gobernadora o al Gobernador, a las Diputadas y los Diputados o Magistradas y Magistrados, previa declaratoria del Congreso de la Unión, la Legislatura Local resolverá si ha lugar a proceder en contra de los servidores públicos, mencionados, para el solo efecto de dejar expedita la actuación de las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2889,7 +3083,9 @@ IV. El Tribunal de Justicia Administrativa impondrá a los particulares que inte
 
 Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
-Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos a prueba, podrá formular denuncia respecto de las conductas a las que se refiere el presente artículo.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+Cualquier ciudadana o ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos a prueba, podrá formular denuncia respecto de las conductas a las que se refiere el presente artículo.
 
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
 
@@ -2949,47 +3145,57 @@ I. La protesta se rinde personal y verbalmente con interpelación o sin ella.
 
 II. La protesta se pide y se dá por interpelación entre los siguientes servidores públicos:
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-(1).- A los Diputados de la Legislatura que va a instalarse, les pedirá en grupo la protesta el Presidente a la Diputación Permanente o de la Cámara saliente, si está en período extraordinario de sesiones. En uno y otro caso, el acto se verificará en sesión pública ordinaria o extraordinaria. A los Diputados que se presenten después y a los suplentes que entren en ejercicio, el Presidente de la Cámara o el Presidente de la Diputación Permanente les tomará la protesta en la sesión pública que corresponda.
+(1).- A las Diputadas y Diputados de la Legislatura que va a instalarse, les pedirá en grupo la protesta la Presidenta o Presidente a la Diputación Permanente o de la Cámara saliente, si está en período extraordinario de sesiones. En uno y otro caso, el acto se verificará en sesión pública ordinaria o extraordinaria. A las Diputadas y Diputados que se presenten después y a las o los suplentes que entren en ejercicio, la Presidenta o Presidente de la Cámara o la Presidenta o Presidente de la Diputación Permanente les tomará la protesta en la sesión pública que corresponda.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-(2).- Al Gobernador y a los Magistrados del Supremo Tribunal de Justicia del Estado, les tomará la protesta en solemne sesión pública, ordinaria o extraordinaria, el Presidente de la Cámara.
+(2).- A la Gobernadora o Gobernador, a las Magistradas y Magistrados del Supremo Tribunal de Justicia del Estado, les tomará la protesta en solemne sesión pública, ordinaria o extraordinaria, la Presidenta o Presidente de la Cámara.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-(3).- A los titulares de las entidades de la Administración Pública Estatal y Paraestatal, al Recaudador de Rentas con residencia en la capital del Estado, les tomará la protesta el ciudadano Gobernador y ellos, a su vez, a los demás servidores públicos de sus dependencias que residan en la capital. En cuanto a los subalternos foráneos de las diversas dependencias administrativas del Ejecutivo, les tomará la protesta el Presidente Municipal en cuya circunscripción territorial ejerzan sus cargos.
+(3).- A las titulares y los titulares de las entidades de la Administración Pública Estatal y Paraestatal, al Recaudador de Rentas con residencia en la capital del Estado, les tomará la protesta la Gobernadora o Gobernador y ellos, a su vez, a los demás servidores públicos de sus dependencias que residan en la capital. En cuanto a los subalternos foráneos de las diversas dependencias administrativas del Ejecutivo, les tomará la protesta la Presidenta o Presidente Municipal en cuya circunscripción territorial ejerzan sus cargos.
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
 
 (4).- A las personas integrantes del Órgano de Administración Judicial, titulares de las Secretarías y demás personas servidoras públicas del Supremo Tribunal de Justicia; así como a las Juezas y Jueces de Primera Instancia, les tomará la protesta la presidencia de aquel alto cuerpo, ante el Tribunal en Pleno.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-(5).- Al Presidente Municipal, a los Regidores y Síndicos Procuradores del Ayuntamiento que va a instalarse, les tomará la protesta en grupo, el Presidente del Ayuntamiento saliente en sesión pública de éste. A los Regidores y Síndicos Procuradores que se presenten después y a los Suplentes que entren en ejercicio, el Presidente en funciones, en la sesión que corresponda.
+(5).- A la Presidenta o Presidente Municipal, a las Regidoras o Regidores y Síndicas o Síndicos Procuradores del Ayuntamiento que va a instalarse, les tomará la protesta en grupo, la Presidenta o Presidente del Ayuntamiento saliente en sesión pública de éste. A las regidoras o Regidores y Síndicas o Síndicos Procuradores que se presenten después y a los Suplentes que entren en ejercicio, la Presidenta o Presidente en funciones, en la sesión que corresponda.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-(6).- Al Secretario, Tesorero y demás servidores públicos municipales, les tomará la protesta el Presidente del Ayuntamiento en sesión de éste a los dos primeros y ante el Secretario Municipal a los demás.
+(6).- A la Secretaria o Secretario, Tesorera o Tesorero y demás servidores públicos municipales, les tomará la protesta la Presidenta o Presidente del Ayuntamiento en sesión de éste a los dos primeros y ante la Secretaria o Secretario Municipal a los demás.
 
-(7).- A los Síndicos y Comisarios les tomará la protesta el Presidente Municipal en sesión pública del Ayuntamiento, o los colegas salientes en cualquier caso de impedimento.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+(7).- A las Síndicas o Síndicos y Comisarias o Comisarios les tomará la protesta la Presidenta o Presidente Municipal en sesión pública del Ayuntamiento, o los colegas salientes en cualquier caso de impedimento.
 
 III. La protesta se rinde sin previa interpelación:
 
-(1).- Ante la Cámara en sesión pública, por los Presidentes que se nombre el Congreso.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+(1).- Ante la Cámara en sesión pública, por las Presidentas o Presidentes que nombre el Congreso.
 
-(2).- Ante el Supremo Tribunal de Justicia en Pleno, por el Presidente del mismo.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-(3).- Ante el Ayuntamiento en sesión pública, por los Presidentes Municipales electos por él mismo.
+(2).- Ante el Supremo Tribunal de Justicia en Pleno, por la Presidenta o Presidente del mismo.
 
-IV. El acto de la protesta se verificará poniéndose en pie todos los presentes, excepto el Gobernador y los Presidentes del Congreso, del Supremo Tribunal de Justicia y de los Ayuntamientos, cuando ante ellos deba rendirse, porque en ese momento son los representantes de la soberanía del pueblo. El que protesta, mientras habla, mantendrá extendido horizontalmente hacia el frente el brazo derecho, con los dedos unidos y el dorso de la mano abierta hacia arriba. Acto continuo, se levantará un acta por duplicado que firmará el otorgante y quien reciba la protesta, con su Secretario respectivo, un tanto de la cual se remitirá a la oficina pagadora por los conductos debidos. Si la protesta se rinde ante el Congreso, el Supremo Tribunal de Justicia o el Ayuntamiento no habrá más acta que la ordinaria de la sesión, dándose conocimiento de ella a quien corresponda, por medio de oficio.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+(3).- Ante el Ayuntamiento en sesión pública, por las Presidentas o Presidentes Municipales electos por él mismo.
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+IV. El acto de la protesta se verificará poniéndose en pie todos los presentes, excepto la Gobernadora o Gobernador y las Presidentas o Presidentes del Congreso, del Supremo Tribunal de Justicia y de los Ayuntamientos, cuando ante ellos deba rendirse, porque en ese momento son los representantes de la soberanía del pueblo. Quien protesta, mientras habla, mantendrá extendido horizontalmente hacia el frente el brazo derecho, con los dedos unidos y el dorso de la mano abierta hacia arriba. Acto continuo, se levantará un acta por duplicado que firmará el otorgante y quien reciba la protesta, con su Secretaria o Secretario respectivo, un tanto de la cual se remitirá a la oficina pagadora por los conductos debidos. Si la protesta se rinde ante el Congreso, el Supremo Tribunal de Justicia o el Ayuntamiento no habrá más acta que la ordinaria de la sesión, dándose conocimiento de ella a quien corresponda, por medio de oficio.
 
 V. En los casos en que por cualquier motivo se altere el orden constitucional en el Estado, están facultados para tomar protesta, a falta de las autoridades designadas en los incisos II y III de este artículo; el Supremo Tribunal de Justicia en pleno acuerdo, el Ayuntamiento de la Capital del Estado, y sucesivamente los demás Cuerpos edilicios por el orden decreciente de la población de sus Municipalidades.
 
-VI. En el caso de que el orden constitucional desaparezca totalmente en el Estado, el Gobernador Interino que designe el Gobierno Federal, rendirá la protesta ante el pueblo del lugar de la residencia oficial para el efecto, previamente convocado.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+VI. En el caso de que el orden constitucional desaparezca totalmente en el Estado, la Gobernadora o el Gobernador Interino que designe el Gobierno Federal, rendirá la protesta ante el pueblo del lugar de la residencia oficial para el efecto, previamente convocado.
 
 VII. Es ilegal la protesta rendida ante una autoridad no protestada.
 
@@ -3007,15 +3213,17 @@ Dicha remuneración será determinada anual y equitativamente en los presupuesto
 
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, que de manera directa o indirecta se suma al ingreso, incluyendo dietas o salarios, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, vehículo y su mantenimiento, gastos médicos mayores, celular y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales, debidamente justificados;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-II. Ningún servidor público de la administración pública estatal podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Titular del Poder Ejecutivo del Estado en el presupuesto de egresos correspondiente, y éste no podrá percibir un ingreso mayor al del Presidente de la República;
+II. Ningún servidor público de la administración pública estatal podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para la Titular o el Titular del Poder Ejecutivo del Estado en el presupuesto de egresos correspondiente, y éste no podrá percibir un ingreso mayor al de la Presidenta o Presidente de la República;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
 
 III. Ningún servidor público de la administración pública estatal podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, en los términos del artículo 143 de la presente Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función.
 
-En ningún caso, el excedente a que se refiere el párrafo anterior, podrá ser superior a la mitad de la remuneración establecida para el Gobernador Constitucional del Estado en el Presupuesto de Egresos correspondiente;
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+En ningún caso, el excedente a que se refiere el párrafo anterior, podrá ser superior a la mitad de la remuneración establecida para la Gobernadora o el Gobernador Constitucional del Estado en el Presupuesto de Egresos correspondiente;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2011)</small>
 
@@ -3025,11 +3233,11 @@ IV. No se concederán, ni cubrirán jubilaciones, pensiones o haberes de retiro,
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 146.
 
-Al expedir y reformar el Congreso del Estado el Presupuesto de Egresos, se establecerán, equitativamente, los sueldos y compensaciones de los servidores públicos de la administración publica del Estado, así como las dietas e ingresos que correspondan a los Diputados en los términos del artículo anterior. Esta misma prevención se observará por los Ayuntamientos en su respectiva relación con el Presidente Municipal, los Regidores y los Síndicos Procuradores.
+Al expedir y reformar el Congreso del Estado el Presupuesto de Egresos, se establecerán, equitativamente, los sueldos y compensaciones de los servidores públicos de la administración pública del Estado, así como las dietas e ingresos que correspondan a las Diputadas y Diputados en los términos del artículo anterior. Esta misma prevención se observará por los Ayuntamientos en su respectiva relación con la Presidenta o Presidente Municipal, las Regidoras o Regidores y las Síndicas o Síndicos Procuradores.
 
 ###### Art. 147.
 
@@ -3057,11 +3265,15 @@ Los servidores públicos que entren a ejercer su encargo después del día fijad
 
 El referéndum, plebiscito y la revocación de mandato son formas de consulta y participación ciudadana que se sujetarán a las siguientes disposiciones:
 
-El referéndum es el acto conforme al cual, en los términos que establezca la ley, los ciudadanos sinaloenses opinan sobre la aprobación o rechazo de leyes estatales, excepto de las de carácter fiscal o tributario, cuya competencia es materia exclusiva del Congreso del Estado, ni respecto de reformas a la Constitución Política o a las leyes locales que se hubieren expedido para adecuar el marco jurídico de la entidad a las reformas o adiciones que se hicieren a la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+El referéndum es el acto conforme al cual, en los términos que establezca la ley, las ciudadanas y los ciudadanos sinaloenses opinan sobre la aprobación o rechazo de leyes estatales, excepto de las de carácter fiscal o tributario, cuya competencia es materia exclusiva del Congreso del Estado, ni respecto de reformas a la Constitución Política o a las leyes locales que se hubieren expedido para adecuar el marco jurídico de la entidad a las reformas o adiciones que se hicieren a la Constitución Política de los Estados Unidos Mexicanos.
 
 El referéndum puede ser total o parcial, según se refiera a toda una ley o solamente a algunos de sus preceptos.
 
-El plebiscito es el acto conforme al cual, en los términos que establezca la ley, los ciudadanos sinaloenses expresan su aprobación o rechazo a los actos, propuestas o decisiones del Poder Ejecutivo del Estado u organismos e instituciones de la administración pública paraestatal, así como de los ayuntamientos u organismos e instituciones de la administración pública municipal.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+El plebiscito es el acto conforme al cual, en los términos que establezca la ley, las ciudadanas y los ciudadanos sinaloenses expresan su aprobación o rechazo a los actos, propuestas o decisiones del Poder Ejecutivo del Estado u organismos e instituciones de la administración pública paraestatal, así como de los ayuntamientos u organismos e instituciones de la administración pública municipal.
 
 En la legislación reglamentaria se establecerán las materias que pueden ser objeto de referéndum y plebiscito, los requisitos para convocar y el órgano facultado para hacerlo, así como los plazos para su realización, los procedimientos a que estará sujeto, los porcentajes mínimos de participación ciudadana y los efectos que produzcan sus resultados.
 
@@ -3071,15 +3283,17 @@ Las autoridades estatales y municipales están obligadas a coadyuvar en todo aqu
 
 Los resultados del referéndum y plebiscito serán obligatorios para las autoridades competentes.
 
-La revocación de mandato es el acto mediante el cual la mayoría absoluta de los ciudadanos en ejercicio pleno de sus derechos, habitantes de un pueblo o región cualquiera, tienen derecho para recusar el nombramiento de autoridades, hecho por el Ejecutivo, por el Supremo Tribunal de Justicia o por los Ayuntamientos, conforme a las siguientes bases:
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+La revocación de mandato es el acto mediante el cual la mayoría absoluta de las ciudadanas y los ciudadanos en ejercicio pleno de sus derechos, habitantes de un pueblo o región cualquiera, tienen derecho para recusar el nombramiento de autoridades, hecho por el Ejecutivo, por el Supremo Tribunal de Justicia o por los Ayuntamientos, conforme a las siguientes bases:
 
 I. La petición será presentada por escrito a la Superioridad de quien haya emanado el nombramiento para su reconsideración.
 
 II. Si los peticionarios no fueren satisfechos por la Superioridad que hizo el nombramiento, podrán recurrir al Congreso del Estado, quien oyendo a las partes resolverá en justicia. Si la resolución favorece a los peticionarios, el Congreso la comunicará a quien corresponda para su cumplimiento. En la legislación reglamentaria se establecerá el procedimiento.
 
-> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2026)</small>
 
-La revocación de mandato del Gobernador del Estado se llevará a cabo conforme a lo siguiente:
+La revocación de mandato de la Gobernadora o del Gobernador del Estado se llevará a cabo conforme a lo siguiente:
 
 > <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2022)</small>
 
@@ -3163,31 +3377,53 @@ Aprobada la constitución y efectuado el registro del patrimonio de la familia, 
 
 En el Estado no podrá expedirse ley o disposición alguna que limite la libertad de los herederos, legatarios y demás partícipes en una sucesión, para disponer a discreción de sus derechos en cualquier tiempo y en toda forma, ni que los obligue a mantener sus bienes en estado de comunidad, por más del término necesario para concluir el juicio sucesorio respectivo.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Art. 154.
 
-Para los efectos de la Ley de Expropiación en el Estado podrán el Gobernador y los Presidentes Municipales en sus respectivas jurisdicciones expropiar y ocupar la propiedad privada por causa de utilidad pública mediante indemnización y previa autorización del Congreso del Estado y los Ayuntamientos respectivamente en los siguientes casos:
+Para los efectos de la Ley de Expropiación en el Estado, podrán la Gobernadora o Gobernador y las Presidentas o Presidentes Municipales en sus respectivas jurisdicciones expropiar y ocupar la propiedad privada por causa de utilidad pública mediante indemnización y previa autorización del Congreso del Estado y los Ayuntamientos respectivamente en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
 
 I. Para la construcción y conservación de los caminos carreteros y vecinales y sus obras accesorias.
 
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
+
 II. Para la construcción de canales de irrigación por cuenta del Estado, por los particulares o por empresas autorizadas en forma.
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
 
 III. Para el aprovechamiento del agua en los usos domésticos de las poblaciones.
 
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
+
 IV. Para la utilización de cuencas naturales o artificiales de acaparamiento de agua.
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
 
 V. Para la desecación de lagos, lagunas y pantanos con objeto de saneamiento o de aplicaciones agrícolas y para el estarquinamiento (sic) de las regiones áridas.
 
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
+
 VI. Para la creación y fomento de la propiedad agrícola parcelaria.
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
 
 VII. Para la fundación de Colonias y pueblos.
 
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
+
 VIII. Para la creación de la propiedad comunal para pastales en tierras que no sean de cultivo.
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
 
 IX. Para la conservación y replantación de los bosques.
 
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
+
 X. Para la instalación de fuerza hidroeléctrica por cuenta del Estado o por empresas particulares.
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
 
 XI. Para fomento y creación de industrias nuevas en el Estado.
 
@@ -3203,19 +3439,35 @@ XIII. Para la apertura de calles y jardines; construcción de escuelas, mercados
 
 XIV. Para la construcción de parques y erección de monumentos en los sitios en que se hayan verificado célebres hechos históricos, y la conservación o restauración de muebles e inmuebles que por su representatividad, inserción en determinado estilo, grado de innovación, materiales y técnicas utilizados, posean un valor estético o histórico sobresaliente. Tratándose de inmuebles, este valor podrá también estimarse atendiendo a su significación en el contexto urbano.
 
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
+
 XV. Para la satisfacción de necesidades colectivas en caso de guerra o trastornos interiores, para el abastecimiento de las ciudades y centros de población, de víveres o de otros artículos de consumo necesarios, y en los procedimientos empleados para combatir o impedir la propagación de epidemias, epizootias, incendios, plagas, inundaciones y otras calamidades públicas.
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
 
 XVI. En los medios empleados para la Defensa Nacional o para el mantenimiento de la paz pública.
 
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
+
 XVII. En la defensa, conservación, desarrollo o aprovechamiento de los elementos naturales susceptibles de explotación.
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
 
 XVIII. En la equitativa distribución de la riqueza acaparada o monopolizada con ventajas exclusivas de una o varias personas y con perjuicio de la colectividad en general, o de una clase en particular.
 
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
+
 XIX. En la creación, fomento o conservación de una empresa para beneficio de la colectividad.
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
 
 XX. En las medidas necesarias para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la colectividad.
 
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
+
 XXI. En la creación o mejoramiento de centros de población de sus fuentes propias de vida.
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
 
 XXII. En los demás casos previstos por Leyes especiales.
 
@@ -3255,7 +3507,9 @@ Esta Constitución es la ley fundamental del Gobierno interior del Estado y nadi
 
 La presente Constitución puede ser adicionada o reformada.
 
-Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso del Estado, por voto de las dos terceras partes del número total de Diputados, acuerde las reformas o adiciones, y que éstas sean aprobadas por las dos terceras partes de los Ayuntamientos del Estado, dentro de los quince días siguientes a la fecha en que les fueren comunicadas. El Ayuntamiento que dejare de emitir su voto dentro del plazo asignado, se computará como afirmativo. El Congreso hará el cómputo de votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso del Estado, por voto de las dos terceras partes del número total de Diputadas y Diputados, acuerde las reformas o adiciones, y que éstas sean aprobadas por las dos terceras partes de los Ayuntamientos del Estado, dentro de los quince días siguientes a la fecha en que les fueren comunicadas. El Ayuntamiento que dejare de emitir su voto dentro del plazo asignado, se computará como afirmativo. El Congreso hará el cómputo de votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
 
 TRANSITORIOS:
 
@@ -3270,10 +3524,6 @@ Subsistirán vigentes todas las leyes y decretos en todo aquello que no se opong
 ###### Art. 3o.
 
 Para los efectos del artículo 18 de esta Constitución y mientras se expidan las leyes que los determine (sic), se reputarán como distritos fiscales, judiciales y electorales, las actuales divisiones en la forma que hasta hoy han existido.
-
-###### Art. 3º.
-
-El Estado de Sinaloa es libre y soberano en su régimen interior, sin más limitaciones que las expresamente establecidas por el Pacto Federal. Sus tareas fundamentales son promover el bienestar individual y colectivo de los sinaloenses, el desarrollo económico sustentable considerando la simplificación administrativa y digitalización de trámites y servicios, y el desarrollo de capacidades tecnológicas como una estrategia para alcanzar dicho propósito, también el procurar la seguridad y la paz social, la participación de todos los ciudadanos en la vida política, económica, cultural y social, y la equidad en las relaciones sociales.
 
 ###### Art. 4o.
 
@@ -3356,30 +3606,6 @@ P.O. 3 DE MAYO DE 1938.
 Unico.- El presente Decreto surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 19 DE MAYO DE 1938.
-
-###### Art. 5º.
-
-Son sinaloenses los mexicanos nacidos en el Estado de Sinaloa, y los residentes en él por más de dos años consecutivos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 1994)</small>
-
-###### Art. 6º.
-
-Son obligaciones del Sinaloense:
-
-I. Inscribirse en el catastro de la Municipalidad, manifestando la propiedad que tenga y la industria, profesión o trabajo de que subsista.
-
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2020)</small>
-
-II. Instruirse y ser responsable de que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas, para recibir educación preescolar, primaria, secundaria, media superior y, (sic) su caso la inicial, de conformidad con las leyes respectivas. Asimismo, los padres, madres o tutores deberán dar seguimiento al proceso educativo, revisando su progreso y desempeño, velando por el bienestar y desarrollo de sus hijos o tutorados.
-
-III. Contribuir a los gastos públicos en la forma que las leyes lo dispongan.
-
-IV. Cooperar al mantenimiento del orden y de la paz pública.
-
-###### Art. 7º.
-
-Los sinaloenses en igualdad de circunstancias serán preferidos a los que no lo sean, en toda clase de concesiones, empleos, cargos o comisiones del Gobierno, que de acuerdo con las leyes puedan otorgárseles.
 
 ###### Artículo 1o.
 
@@ -4936,6 +5162,14 @@ P.O. 27 DE FEBRERO DE 2026.
 P.O. 25 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 397 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VIII DEL TÍTULO CUARTO, Y LOS ARTÍCULOS 3° Y 109 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 425 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
 ###### ARTÍCULO ÚNICO.
 
