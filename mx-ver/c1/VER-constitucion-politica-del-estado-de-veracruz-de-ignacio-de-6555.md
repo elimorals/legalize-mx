@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2026-07-02"
+last_updated: "2026-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JULIO DE 2026.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -1855,31 +1855,55 @@ No podrá ser Magistrada, Magistrado, Jueza o Juez de Primera Instancia del Pode
 
 Las Magistradas y Magistrados de los Tribunales Superior de Justicia, Disciplina Judicial y de Conciliación y Arbitraje, así como Juezas y Jueces de Primera Instancia del Poder Judicial del Estado de Veracruz, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones estatales ordinarias que corresponda conforme el siguiente procedimiento:
 
-I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que comprenderá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El órgano de administración judicial hará del conocimiento del Congreso del Estado los cargos sujetos a elección, la especialización por materia, el distrito judicial respectivo y demás información que requiera;
+> <small>(REFORMADA, G.O. 24 DE JULIO DE 2026)</small>
 
-II. Los Poderes del Estado postularán el número de candidaturas que corresponda a cada cargo conforme a los párrafos segundo y tercero de la fracción IV del presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
+I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas a más tardar el treinta de abril del año anterior al de la elección judicial que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El órgano de administración judicial hará del conocimiento del Congreso del Estado los cargos sujetos a elección, la especialización por materia, el distrito judicial respectivo y demás información que requiera;
 
-a. Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas que respalden su idoneidad para desempeñar el cargo, emitidas por personas de prestigio, asociaciones civiles relacionadas con la actividad jurídica, escuelas de derecho públicas o privadas, barras o colegios de abogacía.
+> <small>(REFORMADA, G.O. 24 DE JULIO DE 2026)</small>
 
-b. Cada Poder integrará un Comité de Evaluación conformado por cinco personas honorables de reconocido prestigio en el ámbito de la actividad jurídica que recibirá los expedientes de las personas aspirantes, evaluarán el cumplimiento de los requisitos constitucionales y legales e identificarán a los mejores perfiles, en función de los que cuenten con mayores conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y preparación académica y profesional en el ejercicio de la actividad jurídica; y
+II. Cada uno de los Poderes del Estado postularán dos personas para cada cargo, de conformidad con lo establecido en el presente artículo.
 
-c. Los Comités de Evaluación integrarán un listado de las diez personas mejor evaluadas para cada cargo en los casos de integrantes de los Tribunales Superior de Justicia, de Disciplina Judicial y de Conciliación y Arbitraje, así como de las seis personas mejor evaluadas para cada cargo de Juezas y Jueces de Primera Instancia. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo, al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso del Estado.
+Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
 
-III. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Organismo Público Local Electoral a más tardar el doce de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo. Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado siempre que aspiren al mismo cargo. Precluirá la facultad de los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria; y
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2026)</small>
 
-IV. El Organismo Público Local Electoral efectuará los cómputos de la elección, declarará la validez de la elección, publicará los resultados, entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos. El Tribunal Electoral de Veracruz, resolverá las impugnaciones conforme a las leyes aplicables, antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo; dentro de los tres días hábiles siguientes, el órgano de administración judicial y el Tribunal Superior de Justicia, sesionarán para determinar las adscripciones de las candidaturas electas.
+a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección, que garanticen la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas que respalden su idoneidad para desempeñar el cargo, emitidas por personas de prestigio, asociaciones civiles relacionadas con la actividad jurídica, escuelas de derecho públicas o privadas, barras o colegios de abogacía.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2026)</small>
 
-Para las propuestas de aspirantes a Magistradas y Magistrados de los Tribunales Superior de Justicia, de Disciplina Judicial y de Conciliación y Arbitraje. El Poder Ejecutivo por conducto de la persona titular del Gobierno del Estado, el Poder Legislativo y el Poder Judicial, postularán cada uno hasta tres personas por cada cargo disponible. Al efecto, el Poder Legislativo realizará para ello votación calificada de dos terceras partes de las Diputadas y Diputados presentes y el Poder Judicial mediante la aprobación de la mayoría del Pleno del Tribunal Superior de Justicia.
+b) Cada Poder integrará un Comité de Evaluación conformado por cinco personas honorables de reconocido prestigio en el ámbito de la actividad jurídica, quienes elegirán de entre sus integrantes a la persona que coordine sus trabajos.
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
+Las personas coordinadoras de los tres Comités integrarán una Comisión Coordinadora, responsable de verificar el cumplimiento de los requisitos constitucionales y legales de las personas participantes, establecer criterios y metodologías homologadas de evaluación, selección y exámenes de conocimientos, y emitir acuerdos que regulen los trabajos de los tres Comités.
 
-Para las propuestas de aspirantes de Juezas y Jueces de Primera Instancia, los Poderes del Estado postularán hasta dos aspirantes por cada cargo disponible, en los términos previstos en el párrafo anterior.
+Cada Comité seleccionará, conforme a los criterios definidos por la Comisión Coordinadora, a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
+
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2026)</small>
+
+c) Los Comités de Evaluación integrarán un listado de las cuatro personas mejor evaluadas para cada cargo correspondiente a los integrantes de los Tribunales Superior de Justicia, de Disciplina Judicial y de Conciliación y Arbitraje, así como de las Juezas y los Jueces de Primera Instancia. Posteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo a dos personas para cada cargo. Los Comités garantizarán la paridad de género en el listado de personas a insacular por especialidad, de ser aplicable. Asimismo, observarán la paridad de género en el listado de propuestas posterior a la insaculación. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso del Estado.
+
+Para los efectos del párrafo anterior, cada uno de los Poderes del Estado postulará dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de la Gobernadora o Gobernador del Estado; el Poder Legislativo mediante votación calificada de dos tercios de sus integrantes presentes; y el Poder Judicial del Estado, por conducto del Pleno del Tribunal Superior de Justicia, por mayoría de sus integrantes.
+
+> <small>(REFORMADA, G.O. 24 DE JULIO DE 2026)</small>
+
+III. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Organismo Público Local Electoral en los plazos que refiera la convocatoria, a efecto de que organice el proceso electivo. Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado siempre que aspiren al mismo cargo. Precluirá la facultad de los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria; y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 24 DE JULIO DE 2026)</small>
+
+IV. El Organismo Público Local Electoral efectuará los cómputos de la elección, declarará la validez de la elección, publicará los resultados, entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos. El Tribunal Electoral de Veracruz, resolverá las impugnaciones conforme a las leyes aplicables, antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo ante dicho órgano legislativo. Las autoridades electorales no podrán modificar los resultados de la elección ni la asignación de cargos después de esa fecha. Dentro de los tres días hábiles siguientes, el órgano de administración judicial sesionará para determinar las adscripciones de las Juezas y los Jueces electos, y el Tribunal Superior de Justicia hará lo propio respecto de las personas Magistradas.
+
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2026)</small>
+
+Para el caso de Magistradas y Magistrados de los Tribunales Superior de Justicia, Disciplina Judicial y de Conciliación y Arbitraje, la elección se realizará a nivel Estatal conforme al procedimiento anterior y en los términos que dispongan las leyes. Cada Poder postulará dos candidaturas por cargo a renovar en la elección de que se trate. La asignación de los cargos electos se realizará entre las candidaturas que obtengan mayor número de votos, observando la integración paritaria del órgano correspondiente.
+
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2026)</small>
+
+Para el caso de Juezas y Jueces de Primera Instancia, la elección se realizará a nivel Estatal, tomándose en consideración la especialidad del juzgado correspondiente, conforme a lo que disponga la ley.
 
 Para lo establecido en los dos párrafos que anteceden, se observarán los principios de paridad de género sustantiva establecidos en esta Constitución.
 
-El Congreso del Estado incorporará en los listados que remita al Organismo Público Local Electoral, a las personas que se encuentran en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2026)</small>
+
+El Congreso del Estado incorporará en los listados que remita al Organismo Público Local Electoral, a las personas que se encuentran en funciones en los cargos susceptibles de renovación al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso.
 
 > <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
 
@@ -1890,6 +1914,26 @@ Las personas candidatas tendrán derecho de acceso a radio y televisión de mane
 Para todos los cargos de elección dentro del Poder Judicial estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios de radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
 
 La duración de las campañas para los cargos señalados en el presente artículo será de treinta días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2026)</small>
+
+Las boletas electorales de la elección judicial distinguirán al Poder postulante y, cuando corresponda, a las personas juzgadoras en funciones en los cargos a elegir. Asimismo, distinguirán las especialidades que correspondan y contendrán los nombres completos de las personas candidatas. Las candidaturas se ubicarán en recuadros para que la ciudadanía señale su preferencia, debiendo elegir una sola candidatura por especialidad.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2026)</small>
+
+La jornada electoral judicial se celebrará en la misma ubicación donde se realicen las elecciones ordinarias federales o locales de ese año. Las autoridades electorales adoptarán las medidas necesarias para garantizar que la jornada electoral judicial se desarrolle sin la intervención de personas representantes de partidos políticos.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2026)</small>
+
+El escrutinio y cómputo de los votos se realizará en la casilla donde fueron sufragados.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2026)</small>
+
+Las Presidencias del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Tribunal de Conciliación y Arbitraje corresponderán única y exclusivamente a las Magistradas o los Magistrados electos para integrar cada uno de dichos órganos, respectivamente.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2026)</small>
+
+En ningún caso los votos obtenidos para integrar un determinado Tribunal podrán ser considerados, transferidos o hechos valer para reclamar la Presidencia, adscripción o cargo alguno en otro distinto.
 
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2024)</small>
 
@@ -1949,9 +1993,13 @@ Las sanciones que emita el Tribunal podrán incluir la amonestación, suspensió
 
 El Tribunal podrá dar vista al ministerio público competente ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, solicitar el juicio político de las personas juzgadoras electas por voto popular ante el Congreso del Estado.
 
-El Tribunal evaluará el desempeño de las Juezas y Jueces que resulten electas en la elección estatal que corresponda durante su primer año de ejercicio. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2026)</small>
 
-La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
+El Tribunal evaluará el desempeño de las Juezas y Jueces que resulten electas en la elección estatal que corresponda durante su primer año de ejercicio y aplicará programas de capacitación y actualización permanente, para lo cual podrá coordinarse con la Escuela Judicial Veracruzana o su equivalente. La ley establecerá los métodos, criterios e indicadores aplicables a los procesos de evaluación que correspondan.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 24 DE JULIO DE 2026)</small>
+
+La ley señalará los criterios, metodologías, etapas, áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la transparencia, imparcialidad y objetividad de los procesos de evaluación y de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación correspondiente resulte insatisfactoria:
 
 a. Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
 
@@ -1972,6 +2020,18 @@ Las y los integrantes del órgano de administración judicial deberán ser de na
 Durante su encargo, las personas integrantes del Pleno del órgano de administración sólo podrán ser removidas en los términos del Título Quinto de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
 
 La ley establecerá las bases para la formación evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2026)</small>
+
+El órgano de administración judicial podrá conceder licencias sin goce de sueldo a las Juezas y los Jueces de Primera Instancia, cuando excedan de un mes; las cuales deberán justificarse.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2026)</small>
+
+En caso de defunción, renuncia, destitución o ausencia definitiva de las personas juzgadoras, el Tribunal u órgano respectivo declarará vacante el cargo, el cual deberá renovarse para un nuevo periodo en la elección inmediata posterior que corresponda.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2026)</small>
+
+Las personas juzgadoras que aspiren a un cargo de elección distinto al que ostenten deberán separarse del cargo mediante renuncia expresa e irrevocable, la cual informarán al órgano de administración judicial antes de su registro en el proceso correspondiente. El órgano de administración judicial comunicará de inmediato la vacante a la autoridad competente para que el cargo sea sujeto a elección.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -4469,7 +4529,9 @@ Para realizar lo anterior, dentro de los siguientes cinco días hábiles a la en
 
 En ese sentido, el Consejo de la Judicatura remitirá la información relativa tratándose de las y los Jueces de Primera Instancia, para que el Congreso determine los cargos a renovar en el Proceso Electoral Extraordinario 2024-2025.
 
-Los Cargos de Magistraturas y personas juzgadoras que no resulten seleccionadas conforme a los lineamientos anteriores se elegirán en el Proceso Electoral Ordinario 2026-2027.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2026)</small>
+
+Los cargos de Magistraturas y personas juzgadoras que no resulten seleccionadas conforme a los lineamientos anteriores se elegirán en el Proceso Electoral 2027-2028.
 
 El Congreso del Estado emitirá un acuerdo en el que, con base en los lineamientos antes indicados y la información remitida por el Tribunal Superior de Justicia y el Consejo de la Judicatura, determinará qué cargos del Poder Judicial se renovarán en el Proceso Electoral Extraordinario 2024-2025.
 
@@ -4491,11 +4553,13 @@ La jornada electoral se celebrará el primer domingo de junio de dos mil veintic
 
 El Organismo Público Local Electoral efectuará los cómputos de la elección, declarará la validez de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos. El Tribunal Electoral de Veracruz, resolverá las impugnaciones a más tardar el veintiocho de agosto de dos mil veinticinco. Dentro de los tres días hábiles siguientes, a la toma de protesta correspondiente, el Tribunal Superior de Justicia y el órgano de administración judicial, sesionarán para determinar las adscripciones de las personas electas.
 
-Para el Proceso Electoral Ordinario 2026-2027, la toma de protesta las personas aspirantes electas ante el Congreso del Estado se llevará a cabo el 1º de septiembre de 2027 ante la LXVII Legislatura.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2025)</small>
+Para el Proceso Electoral 2027-2028, la toma de protesta de las personas aspirantes electas ante el Congreso del Estado se llevará a cabo el 1 º de septiembre de 2028 ante la LXVIII Legislatura.
 
-TERCERO. Las Magistradas y Magistrados del Tribunal de Disciplina Judicial que resulten electos en el Proceso Electoral Extraordinario 2024-2025, durarán dos y cinco años en el cargo, por lo que su nombramiento vencerá en el dos mil veintisiete para dos de ellos, y en el dos mil treinta para los otros tres, en función del número de votos que obtenga cada candidatura, correspondiendo un periodo mayor a quien alcance la mayor votación.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2026)</small>
+
+TERCERO. Las Magistradas y Magistrados del Tribunal de Disciplina Judicial que resulten electos en el Proceso Electoral Extraordinario 2024-2025, durarán tres y cinco años en el cargo, por lo que su nombramiento vencerá en el dos mil veintiocho para dos de ellos, y en el dos mil treinta para los otros tres, en función del número de votos que obtenga cada candidatura, correspondiendo un periodo mayor a quien alcance la mayor votación.
 
 CUARTO. El Consejo de la Judicatura continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, hasta en tanto sean creados el Tribunal de Disciplina Judicial y el órgano de administración judicial.
 
@@ -4521,7 +4585,9 @@ Las Magistradas, Magistrados, Juezas y Jueces de Primera Instancia del Poder Jud
 
 Para el caso de las Magistradas y Magistrados seleccionadas para participar en el Proceso Electoral Extraordinario 2024-2025, cuyo cargo concluya antes del treinta y uno de diciembre de dos mil veinticinco, no serán beneficiarias por un haber de retiro o pensión complementaria según corresponda, salvo cuando presenten su renuncia al cargo antes de la fecha de cierre de la convocatoria correspondiente, de acuerdo con la legislación aplicable.
 
-Las Magistradas y Magistrados que se encuentren vigentes en el cargo al inicio del Proceso Electoral Ordinario 2026-2027, cuyo periodo concluya antes de las elecciones, solo podrán ser acreedores del haber de retiro o pensión complementaria según corresponda, cuando presenten su renuncia antes del cierre de la convocatoria relativa.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2026)</small>
+
+Las Magistradas y Magistrados que se encuentren vigentes en el cargo al inicio del Proceso Electoral 2027-2028, cuyo periodo concluya antes de las elecciones, solo podrán ser acreedores del haber de retiro o pensión complementaria según corresponda, cuando presenten su renuncia antes del cierre de la convocatoria relativa.
 
 Los órganos del Poder Judicial llevarán a cabo los actos y procesos necesarios para extinguir los fondos, fideicomisos, mandatos o contratos análogos que no se encuentren previstos en una ley secundaria, por lo que tendrán un plazo máximo de noventa días naturales posteriores a la entrada en vigor del presente Decreto para enterar la totalidad de los recursos remanentes en dichos instrumentos, así como los productos y aprovechamientos derivados de los mismos, a la Tesorería del Estado.
 
@@ -4531,7 +4597,9 @@ OCTAVO. En virtud de la modificación al esquema de designación de la Presidenc
 
 Para esta ocasión, el periodo de la Presidencia del Tribunal Superior de Justicia será de dos años, asignada a la persona que obtenga el mayor número de votos en el Proceso Electoral Extraordinario 2024-2025.
 
-A partir del Proceso Electoral Ordinario 2026- 2027, la rotación establecida en el segundo párrafo del artículo 57 de esta Constitución será plenamente efectiva.
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2026)</small>
+
+A partir del Proceso Electoral 2027-2028, la rotación establecida en el segundo párrafo del artículo 57 de esta Constitución será plenamente efectiva.
 
 La persona que ocupe la Presidencia y cuya gestión coincida con un proceso electoral ordinario o extraordinario, permanecerá en funciones hasta la toma de protesta de las nuevas magistradas y magistrados electos.
 
@@ -4652,3 +4720,45 @@ SEGUNDO. Las modificaciones a los artículos 23, 43 y 69 contenidas en el presen
 TERCERO. Las modificaciones a los artículos 21 y 70 contenidas en el presente Decreto, respecto a la prohibición de reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir de los procesos electorales locales, a celebrarse en 2030. En consecuencia, las personas que en el año 2030 se encuentren ejerciendo los cargos públicos a que hace referencia el presente Decreto, no podrán postularse para procesos de reelección.
 
 CUARTO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 24 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 531 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE REFORMA AL PODER JUDICIAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Los cargos de Juezas y Jueces de Primera Instancia, Magistradas y Magistrados del Tribunal Superior de Justicia del Estado y del Tribunal de Conciliación y Arbitraje, que no hayan sido objeto de renovación en la elección judicial del año 2025, así como las vacantes correspondientes, se elegirán sin excepción en la elección judicial del año 2028, conforme a lo previsto en este Decreto.
+
+TERCERO. Las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado y del Tribunal de Conciliación y Arbitraje que se encuentren en funciones a la entrada en vigor del presente Decreto y cuyo encargo concluiría originalmente durante el año 2027, permanecerán en ellas hasta el año 2028, culminando en la fecha en que tomen protesta las personas que emanen de la elección respectiva.
+
+Se exceptúan de la permanencia en el cargo de las Magistraturas a que hace alusión el párrafo anterior, los casos de nombramientos cuya vigencia concluya antes de dicho periodo, los cuales se entenderán como retiros programados. Las personas Magistradas comprendidas en estos supuestos cesarán en sus funciones en la fecha originalmente prevista, en los términos que correspondan conforme a la ley.
+
+CUARTO. Por única ocasión, dado el carácter extraordinario del periodo de transición para la plena implementación del nuevo sistema judicial, con motivo de la conclusión del periodo de dos años de la Presidencia del Tribunal Superior de Justicia del Estado en el año 2027, su Pleno elegirá, mediante el voto de la mayoría de sus integrantes, a cualquier Magistrada o Magistrado del propio Tribunal, para ocupar dicha Presidencia durante el periodo comprendido del primero de septiembre de 2027 al treinta y uno de agosto de 2028.
+
+Para tal efecto, deberá convocarse a sesión especial del Pleno del Tribunal Superior de Justicia del Estado, a celebrarse cuando menos con sesenta días naturales de anticipación a la conclusión del periodo de la Presidencia en funciones, conforme a las disposiciones aplicables.
+
+QUINTO. A partir del primero de septiembre de 2028, con la toma de protesta de las Magistradas y Magistrados electos en el Proceso Electoral 2027-2028, la rotación de la Presidencia del Tribunal Superior de Justicia se aplicará plenamente conforme al principio establecido en el segundo párrafo del artículo 57 de esta Constitución, bajo las siguientes reglas para el inicio de su ciclo:
+
+I. Al completarse la renovación integral del Tribunal Superior de Justicia del Estado, su Presidencia para el periodo comprendido del año 2028 al 2031, será ocupada por la Magistrada o Magistrado del propio Tribunal, que obtenga el mayor número de votos correspondiente a la elección judicial del año 2028.
+
+II. Las subsecuentes Presidencias del Tribunal Superior de Justicia del Estado se asignarán de manera sucesiva cada tres años, correspondiendo a las personas Magistradas integrantes de dicho Tribunal que sigan en el orden de prelación, derivado de la mayor votación total obtenida en los resultados conjuntos de la elección 2024-2025 y de la que se celebrará en el periodo 2027- 2028.
+
+III. Se exceptúa de la asignación de las subsecuentes presidencias a la persona Magistrada que haya obtenido la mayor votación en el proceso electoral 2024-2025, en virtud de haber ejercido ya la Presidencia del Tribunal Superior de Justicia, durante el periodo de transición previo.
+
+SEXTO. Para dar cumplimiento a lo dispuesto en el presente Decreto, el órgano de administración judicial tendrá como fecha límite los primeros diez días del mes de abril de dos mil veintisiete para enviar al Congreso del Estado un informe sobre la situación de las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina, y de Conciliación y Arbitraje; así como de las Juezas y Jueces de Primera Instancia.
+
+Dicho informe deberá especificar, respecto de cada cargo: el nombre de la persona titular, género, adscripción, antigüedad, vigencia de su nombramiento o periodo, entre otros que estime de trascendencia, así como cualquier otra información técnica necesaria para que el Congreso del Estado determine las Magistraturas y Juzgados sujetos a los subsecuentes procesos de renovación o asignación que correspondan.
+
+SÉPTIMO. El Congreso del Estado deberá expedir la legislación secundaria que se ajuste al presente Decreto antes del 31 de agosto de 2026.
+
+Entre tanto, serán aplicables de manera directa las disposiciones constitucionales contenidas en el presente Decreto y, de manera supletoria, las leyes aplicables en todo aquello que no se oponga a su naturaleza y finalidad.
+
+OCTAVO. El Organismo Público Local Electoral realizará las adecuaciones reglamentarias, administrativas y operativas necesarias para la organización de la elección judicial del año 2028, incluyendo la documentación electoral, integración de listados de candidaturas, diseño de boletas, escrutinio y cómputo de votos, así como las demás necesarias para garantizar el cumplimiento del presente Decreto.
+
+NOVENO. Para el Proceso Electoral 2027-2028, la Comisión Coordinadora de los Comités de Evaluación prevista en el artículo 59 de esta Constitución deberá instalarse conforme a los plazos establecidos en la convocatoria respectiva y emitirá los criterios, metodologías y acuerdos necesarios para el desarrollo de sus funciones.
+
+DÉCIMO. El Pleno del Tribunal de Disciplina Judicial deberá emitir las adecuaciones correspondientes a su Reglamento Interior dentro de un plazo no mayor a sesenta días naturales siguientes a la entrada en vigor del presente Decreto, a efecto de armonizarlo con sus competencias, atribuciones, integración, funcionamiento interno, periodicidad de sesiones, facultades de sus órganos auxiliares, procedimientos de responsabilidad administrativa y evaluación del desempeño de la función judicial.
+
+DÉCIMO PRIMERO. El periodo de las Magistradas y Magistrados del Tribunal Superior de Justicia, y del Tribunal de Conciliación y Arbitraje, así como de las Juezas y Jueces de Primera Instancia que resulten electos en la elección judicial del año 2028 conforme al presente Decreto, será de ocho años, concluyendo el treinta y uno de agosto del año 2036.
+
+DÉCIMO SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
