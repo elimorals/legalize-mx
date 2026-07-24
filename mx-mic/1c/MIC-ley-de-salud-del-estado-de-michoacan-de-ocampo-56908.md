@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2026-06-04"
+last_updated: "2026-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -307,9 +307,11 @@ IV. La Comisión Estatal para la Protección Contra Riesgos Sanitarios.
 
 Son auxiliares de las autoridades sanitarias en el Estado en materia de salubridad general y local, las dependencias y los servidores públicos adscritos a la Administración Pública Centralizada del Estado y de los ayuntamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 6°.
 
-Corresponderá a la Secretaría de acuerdo a lo señalado por la Ley General de Salud, organizar, operar, supervisar y evaluar las siguientes materias de salubridad general:
+Corresponderá a la Secretaría, de acuerdo a lo señalado por la Ley General de Salud, organizar, operar, supervisar y evaluar las siguientes materias de salubridad general:
 
 I. La prestación de los servicios de la atención médica, en sus formas preventivas, curativas y de rehabilitación, preferentemente en beneficio de grupos vulnerables;
 
@@ -381,6 +383,10 @@ XVI. La prestación del servicio de asistencia social;
 
 XVII. El programa contra el alcoholismo;
 
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2026)</small>
+
+XVII Bis. Coordinar, en el ámbito de sus atribuciones, acciones especiales de prevención, orientación, atención, canalización y seguimiento en materia de adicciones dirigidas a niñas, niños y adolescentes, en coordinación con la Secretaría Ejecutiva del Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado y demás autoridades competentes, privilegiando el interés superior de la niñez, la protección integral, la confidencialidad y el enfoqué de salud pública;
+
 XVIII. Los programas contra el tabaquismo;
 
 XIX. Programar, organizar y desarrollar el sistema estatal de salud, procurando su participación programática en el sistema nacional, coadyuvando a su consolidación y funcionamiento;
@@ -390,6 +396,10 @@ XX. Formular y desarrollar programas locales de salud, en el marco de los sistem
 XXI. Los programas y acciones que en materia de salubridad local le competa;
 
 XXII. Elaborar información estadística local y proporcionarla a la autoridad federal competente;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2026)</small>
+
+XXII Bis. Integrar, actualizar y coordinar mecanismos de control, registro y supervisión sanitaria de los Centros de Atención Integral para Personas con Adicciones en el Padrón Estatal de Centros de Atención Integral para Personas con Adicciones públicos y privados, en términos de la Ley Contra las Adicciones en el Estado de Michoacán de Ocampo, las Normas Oficiales Mexicanas y demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
 
@@ -1089,13 +1099,19 @@ III. Expedir reglamentos, circulares y disposiciones administrativas relacionado
 
 III Bis. Capacitar a través de los sistemas DIF, a los padres de familia o tutores, en materia de los cuidados durante la primera infancia, incluyendo la estimulación temprana;
 
-IV. Formular y desarrollar programas municipales en materia de prevención, de promoción y de atención a la salud, en el marco de los Sistemas Nacional y Estatal de Salud; y,
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
+IV. Formular y desarrollar programas municipales en materia de prevención, de promoción y de atención a la salud, en el marco de los Sistemas Nacional y Estatal de Salud;
 
-V. En caso de un fenómeno natural, alerta epidemiológica, asociación epidemiológica, brote, emergencia epidemiológica, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, epidemia y pandemia, observar y coadyuvar en el cumplimiento de las medidas de seguridad sanitarias emitidas por el Gobierno Estatal y/o Federal, o bien las de mayor protección para la población; y,
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-VI. Vigilar y hacer cumplir en la esfera de su competencia, los ordenamientos legales sanitarios correspondientes.
+V. En caso de un fenómeno natural, alerta epidemiológica, asociación epidemiológica, brote, emergencia epidemiológica, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, epidemia y pandemia, observar y coadyuvar en el cumplimiento de las medidas de seguridad sanitarias emitidas por el Gobierno Estatal y/o Federal, o bien las de mayor protección para la población;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2026)</small>
+
+VI. Informar a la Secretaría, por conducto de la instancia competente en materia de protección contra riesgos sanitarios, cuando tengan conocimiento de la existencia u operación irregular de establecimientos que presten servicios de atención a personas con adicciones, a fin de que se realicen las verificaciones y acciones que correspondan conforme a la normatividad aplicable; y,
+
+VII. Vigilar y hacer cumplir, en la esfera de su competencia, los ordenamientos legales sanitarios correspondientes.
 
 ###### ARTÍCULO 24.
 
@@ -1845,11 +1861,13 @@ II. Sustancia peligrosa: Aquel elemento o compuesto, o la mezcla química de amb
 
 III. Sustancia tóxica: Aquel elemento o compuesto, o la mezcla química de ambos que, cuando por cualquier vía de ingreso, ya sea inhalación, ingestión o contacto con la piel o mucosas, causan efectos adversos al organismo, de manera inmediata o mediata, temporal o permanente, como lesiones funcionales, alteraciones genéticas, teratogénicas, mutagénicas, carcinogénicas o la muerte.
 
-> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 89 Ter.
 
-Para el cumplimiento de su objetivo, la Secretaría a través de la COEPRIS, tendrá a su cargo las siguientes atribuciones:
+Para el cumplimiento de su objetivo, la Secretaría, a través de la COEPRIS, tendrá a su cargo las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2013)</small>
 
 I. Ejercer la regulación, control, vigilancia y fomento sanitario en todos los lugares donde se manipule o aplique, plaguicidas, sustancias peligrosas o tóxicas;
 
@@ -1857,17 +1875,25 @@ I. Ejercer la regulación, control, vigilancia y fomento sanitario en todos los 
 
 II. Ejercer las acciones de control, regulación y fomento sanitario correspondientes, para prevenir y reducir los riesgos sanitarios, asociación epidemiológica, brote, emergencia epidemiológica, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, epidemia y pandemia, derivados de la exposición de la población a factores químicos, físicos y biológicos incluyendo las sustancias tóxicas o peligrosas;
 
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2013)</small>
+
 III. Participar en coordinación con las unidades administrativas correspondientes de la Secretaría, en la instrumentación de acciones y prevenciones de control y vigilancia epidemiológica, de las intoxicaciones por plaguicidas, sustancias peligrosas o tóxicas, cuando estos se relacionen con los riesgos sanitarios derivados de los procesos de manipulación, preparación, mezcla y aplicación;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
 
 IV. Determinar las medidas de seguridad, preventivas y correctivas en el ámbito de su respectiva competencia, a través de la vigilancia epidemiológica y de alerta epidemiológica;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-V. Aplicar estrategias tendientes a la prevención, evaluación y seguimiento de riesgos sanitarios, asociación epidemiológica, brote, emergencia epidemiológica, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, epidemia y pandemia en coadyuvancia con otras autoridades competentes; a través de vigilancia epidemiológica y de alerta epidemiológica, de conformidad con la NORMA Oficial Mexicana NOM-017-SSA2-2012; y;
+V. Aplicar estrategias tendientes a la prevención, evaluación y seguimiento de riesgos sanitarios, asociación epidemiológica; brote, emergencia epidemiológica, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, epidemia y pandemia en coadyuvancia con otras autoridades competentes; a través de vigilancia epidemiológica y de alerta epidemiológica, de conformidad con la NORMA Oficial Mexicana NOM-0l 7-SSA2-2012;
 
-VI. Emitir, prorrogar y revocar las autorizaciones sanitarias en la materia de su respectiva competencia, así como ejercer aquellos actos de autoridad que para la regulación, prevención, control y fomentos sanitarios, se esté establecido o derive de la presente Ley y sus respectivos reglamentos, las Normas Oficiales Mexicanas de la materia y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+VI. Emitir, prorrogar y revocar las autorizaciones sanitarias en la materia de su respectiva competencia, así como ejercer aquellos actos de autoridad que para la regulación, prevención, control y fomento sanitarios se establezcan o deriven de la presente Ley, sus reglamentos, las Normas Oficiales Mexicanas de la materia y demás disposiciones aplicables; y,
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2026)</small>
+
+VII. Programar y ejecutar, en el ámbito de sus atribuciones, acciones de verificación sanitaria a los Centros de Atención Integral para Personas con Adicciones que operen en el Estado, conforme a la Ley General de Salud, la presente Ley, la Ley Contra las Adicciones en el Estado de Michoacán de Ocampo, las Normas Oficiales Mexicanas y demás disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
@@ -2827,9 +2853,15 @@ V. Número de cédula profesional, en su caso, del responsable sanitario.
 
 Corresponde a la Secretaría y a los ayuntamientos, en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de esta Ley y demás disposiciones reglamentarias que se dicten con base en ella.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 200.
 
-Las demás dependencias y entidades de la administración pública del Estado, coadyuvarán a la vigilancia del cumplimiento de la legislación sanitaria y, cuando encontraren irregularidades que a su juicio constituyan violaciones a aquélla, lo harán del conocimiento de las autoridades sanitarias competentes.
+Las demás dependencias y entidades de la administración pública del Estado coadyuvarán a la vigilancia del cumplimiento de la legislación sanitaria y, cuando encontraren irregularidades que a su juicio constituyan violaciones a aquélla, lo harán del conocimiento de las autoridades sanitarias competentes.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2026)</small>
+
+Cuando, con motivo de una diligencia de verificación sanitaria en Centros de Atención Integral para Personas con Adicciones, la autoridad sanitaria competente advierta un riesgo objetivo para la integridad del personal verificador o para el desarrollo de la diligencia, podrá solicitar el auxilio de las autoridades competentes en materia de seguridad pública o procuración de justicia, exclusivamente para brindar acompañamiento y seguridad perimetral, sin que ello implique acceso a expedientes clínicos, registros internos, datos personales sensibles o información confidencial de las personas usuarias, salvo en los casos expresamente previstos por la legislación aplicable.
 
 ###### ARTÍCULO 201.
 
@@ -3934,3 +3966,17 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La aplicación de las disposiciones contenidas en el presente Decreto se realizará con cargo al presupuesto autorizado de las dependencias y entidades competentes, por lo que no se autorizarán ampliaciones presupuestales adicionales para el ejercicio fiscal correspondiente.
 
 TERCERO. En un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Educación en el Estado, en coordinación con las instancias competentes, incorporará orientaciones pedagógicas sobre salud renal en los planes y programas de estudio aplicables.
+
+P.O. 24 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 481.- ARTÍCULO SEGUNDO.- SE ADICIONAN LAS FRACCIONES XVII BIS Y XXII BIS AL ARTÍCULO 6; SE REFORMAN LAS FRACCIONES IV Y V; SE ADICIONA UNA FRACCIÓN VI Y SE RECORRE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 23; SE REFORMAN LAS FRACCIONES ,V Y VI Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 89 TER; Y, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 200 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Salud del Estado, por conducto de la unidad administrativa competente y en el ámbito de sus atribuciones, contará con un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto para emitir o adecuar las disposiciones administrativas necesarias para la integración, actualización, administración, interoperabilidad y funcionamiento del Padrón Estatal de Centros de Atención Integral para Personas con Adicciones, garantizando el resguardo y tratamiento de la información conforme a la normatividad aplicable en materia de protección de datos personales y, en su caso, su disponibilidad para autoridades competentes en términos de la legislación en materia de búsqueda de personas.
+
+TERCERO. La Secretarla de Salud del Estado, a través de la instancia competente en materia de protección contra riesgos sanitarios, deberá realizar las adecuaciones administrativas necesarias para programar las acciones de verificación sanitaria a que se refiere en el presente Decreto, conforme a su capacidad operativa, disponibilidad presupuestaria y normatividad aplicable.
+
+CUARTO. Los Centros de Atención Integral para Personas con Adicciones deberán adecuar sus registros, procedimientos internos y mecanismos de resguardo de información a lo previsto en el presente Decreto, de conformidad con la normatividad aplicable en materia de salud, confidencialidad y protección de datos personales, dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+QUINTO. Las acciones derivadas del presente Decreto se realizarán con cargo al presupuesto aprobado de las autoridades competentes, por lo que no implicarán la creación inmediata de nuevas estructuras administrativas ni compromisos presupuestales adicionales, salvo disponibilidad presupuestaria y conforme a la legislación aplicable.
