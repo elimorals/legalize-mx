@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-233-de-obras-publicas-y-servicios-relacionados-17727
 country: "mx"
 rank: "ley"
 publication_date: "2025-02-04"
-last_updated: "2025-08-14"
+last_updated: "2026-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=177270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 233 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JULIO DE 2026.
 
 Ley publicada en el Número Extraordinario 50 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 4 de febrero de 2025.
 
@@ -294,6 +294,10 @@ Cuando por las condiciones especiales de las obras públicas se requiera la inte
 Los Entes Públicos que realicen obras públicas y servicios relacionados con ellas, sea por contrato o por administración directa, así como los contratistas con quienes aquellos contraten, observarán las disposiciones que, en materia de asentamientos humanos, desarrollo urbano, accesibilidad para personas con discapacidad, medio ambiente, construcción y demás que resulten aplicables, que rijan en el ámbito federal, estatal y municipal.
 
 Los Entes Públicos, de conformidad con las disposiciones señaladas, deberán tramitar y obtener de las autoridades competentes, cuando sea el caso, los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas, o en su caso, los derechos otorgados por quien pueda disponer legalmente de los mismos.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2026)</small>
+
+Tratándose de obras públicas y servicios relacionados con ellas que realicen los Entes Públicos en materia de infraestructura educativa cuyo propósito sea la construcción, mantenimiento o equipamiento de planteles educativos, y la propiedad, los derechos de propiedad o los otorgados por quien pueda disponer legalmente de los mismos se encuentren en proceso de regularización, podrá acreditarse por parte de los Entes Públicos que se cuenta con la constancia de la Secretaría de Educación de Veracruz en la que se acredite la operación regular del plantel educativo, el reconocimiento de validez de su funcionamiento y la matrícula mínima de alumnos del ciclo escolar correspondiente del centro donde se ejecuten las obras.
 
 ###### Artículo 20.
 
@@ -1046,3 +1050,15 @@ G.O. 14 DE AGOSTO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.O. 24 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 532 POR EL QUE SE ADICIONA UN ARTÍCULO 35 BIS A LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS, Y UN TERCER PÁRRAFO AL ARTÍCULO 19 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS, AMBAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Órgano de Fiscalización Superior del Estado de Veracruz de Ignacio de la Llave deberá realizar las adecuaciones necesarias a su normativa interna aplicable en un plazo no mayor de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para dar cumplimiento al mismo.
+
+CUARTO. En un periodo de sesenta días naturales, contados a partir del inicio de vigencia del presente Decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias necesarias de conformidad con lo establecido en el presente.
