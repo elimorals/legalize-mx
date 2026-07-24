@@ -4,7 +4,7 @@ identifier: "JAL-codigo-electoral-del-estado-de-jalisco-antes-codigo-62461"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-05"
-last_updated: "2026-06-18"
+last_updated: "2026-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO ELECTORAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2026.
 
 Código publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 5 de agosto de 2008.
 
@@ -801,9 +801,9 @@ Artículo 23
 
 Artículo 24
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-1. Los ayuntamientos se integran por un Presidente o Presidenta Municipal, el número de regidurías de mayoría relativa y de representación proporcional que se señalan en el presente capítulo, y una sindicatura.
+1. Los ayuntamientos se integran por un Presidente o Presidenta Municipal, una sindicatura y hasta quince regidurías electas según los principios de mayoría relativa y de representación proporcional de conformidad a lo señalado en el presente capítulo.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
@@ -895,27 +895,37 @@ Artículo 29
 
 I. En los municipios en que la población no exceda de cincuenta mil habitantes se elegirán:
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE JULIO DE 2026)</small>
 
 a) Siete regidores por el principio de mayoría relativa; y
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE JULIO DE 2026)</small>
+
 b) Hasta cuatro de representación proporcional.
 
-II. En los municipios cuya población exceda de cincuenta mil, pero no de cien mil habitantes, se elegirán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+II. En los municipios en que la población exceda de cincuenta mil, pero no de quinientos mil habitantes, se elegirán:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE JULIO DE 2026)</small>
 
 a) Nueve regidores por el principio de mayoría relativa; y
 
-b) Hasta cinco regidores de representación proporcional.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE JULIO DE 2026)</small>
 
-III. En los municipios en que la población exceda de cien mil, pero no de quinientos mil habitantes, se elegirán:
+b) Hasta Cinco regidores de representación proporcional; y
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2026)</small>
 
-a) Diez regidores por el principio de mayoría relativa; y
+III. En los municipios en que la población exceda de quinientos mil habitantes, se elegirán:
 
-b) Hasta seis regidores de representación proporcional; y
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+a) Nueve regidores por el principio de mayoría relativa; y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE JULIO DE 2026)</small>
+
+b) Hasta Seis regidores de representación proporcional.
 
 IV. En los municipios en que la población exceda de quinientos mil habitantes, se elegirán:
 
@@ -2075,6 +2085,8 @@ Artículo 136
 
 Artículo 137
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2026)</small>
+
 1. El Consejero Presidente del Instituto tiene las atribuciones siguientes:
 
 I. Representar al Instituto Electoral con todas las facultades legales y necesarias inherentes a dicho fin;
@@ -2141,11 +2153,9 @@ d) La Comisión de Investigación y Estudios Electorales; y
 
 e) La de Quejas y Denuncias.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
-
-XXI. EXPEDIR CONVOCATORIA, A MÁS TARDAR EL QUINCE DE NOVIEMBRE DEL AÑO ANTERIOR AL DE LA ELECCIÓN, PARA ALLEGARSE PROPUESTAS DE CANDIDATOS A CONSEJEROS PARA LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES, DEBIENDO PUBLICARLA EN UNO DE LOS PERIÓDICOS DE MAYOR CIRCULACIÓN EN EL ESTADO;
+XXI. Expedir convocatoria, a más tardar el 31 de octubre del año anterior al de la elección, para allegarse propuestas de candidatos a Consejeros para los Consejos Distritales y Municipales Electorales, debiendo publicarla en uno de los periódicos de mayor circulación en el Estado;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -3077,15 +3087,13 @@ Artículo 213
 
 2. La convocatoria a que se refiere el párrafo anterior será publicada en por lo menos dos diarios de los de mayor circulación en el Estado.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
 ###### Artículo 214.
 
-1. En las elecciones en que se renueve en su caso al titular del Poder Ejecutivo, a los integrantes del Congreso del Estado y de los Ayuntamientos el Consejo General del Instituto Electoral ordenará la publicación de la convocatoria para elecciones ordinarias, la primera semana de noviembre del año anterior a aquél en que se celebren las elecciones.
+1. En las elecciones en que se renueve al titular del Poder Ejecutivo, el Consejo General del Instituto Electoral ordenará la publicación de la convocatoria para elecciones ordinarias, la primera quincena de septiembre del año anterior en que se verificarán los comicios.
 
-2. El Instituto podrá realizar actos tendientes a la preparación del proceso electoral previo a la fecha señalada en el numeral 1.
+2. Cuando solamente se renueve a los integrantes del Congreso del Estado y de los Ayuntamientos, la convocatoria deberá publicarse la primera quincena de octubre del año anterior en que se verificarán los comicios.
 
 Artículo 215
 
@@ -3187,17 +3195,13 @@ Artículo 229
 
 2. Al menos treinta días antes del inicio formal de los procesos a que se refiere (sic) las fracciones I y II siguientes, cada partido determinará, conforme a sus Estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate. La determinación deberá ser comunicada al Consejo General del Instituto dentro de las setenta y dos horas siguientes a su aprobación, señalando la fecha de inicio del proceso interno; el método o métodos que serán utilizados; la fecha para la expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno; los órganos de dirección responsables de su conducción y vigilancia; la fecha de celebración de la asamblea electoral estatal, Distrital, Municipal o, en su caso, de realización de la jornada comicial interna, conforme a lo siguiente:
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA LA FRACCIÓN I DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
+I. Durante los procesos electorales en que se renueven el titular del Poder Ejecutivo, a los integrantes del Congreso del Estado y de los Ayuntamientos, las precampañas darán inicio en la tercera semana de noviembre del año previo al de la elección. No podrán durar más de dos terceras partes de la duración de la campaña respectiva;
 
-I. DURANTE LOS PROCESOS ELECTORALES EN QUE SE RENUEVEN EL TITULAR DEL PODER EJECUTIVO, A LOS INTEGRANTES DEL CONGRESO DEL ESTADO Y DE LOS AYUNTAMIENTOS, LAS PRECAMPAÑAS DARÁN INICIO EN LA PRIMERA SEMANA DE DICIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN. NO PODRÁN DURAR MÁS DE DOS TERCERAS PARTES DE LA DURACIÓN DE LA CAMPAÑA RESPECTIVA;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA LA FRACCIÓN II DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2023)</small>
-
-II. DURANTE LOS PROCESOS ELECTORALES EN QUE SE RENUEVE SOLAMENTE A LOS INTEGRANTES DEL CONGRESO DEL ESTADO Y DE LOS AYUNTAMIENTOS, LAS PRECAMPAÑAS DARÁN INICIO EN LA SEGUNDA SEMANA DE DICIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN. NO PODRÁN DURAR MÁS DE DOS TERCERAS PARTES DE LA DURACIÓN DE LA CAMPAÑA RESPECTIVA; Y
+II. Durante los procesos electorales en que se renueve solamente a los integrantes del Congreso del Estado y de los Ayuntamientos, las precampañas darán inicio en la primera semana de enero del año de la elección. No podrán durar más de dos terceras partes de la duración de la campaña respectiva; y
 
 III. Cuando un partido tenga prevista la celebración de una jornada de consulta directa, ésta se realizará el mismo día para todas las candidaturas.
 
@@ -3211,11 +3215,9 @@ III. Cuando un partido tenga prevista la celebración de una jornada de consulta
 
 5. Queda prohibido a los precandidatos a candidaturas a cargos de elección popular, en todo tiempo, la contratación de propaganda o cualquier otra forma de promoción personal en radio y televisión. La violación a esta norma se sancionará con la negativa de registro como precandidato, o en su caso con la cancelación de dicho registro. De comprobarse la violación a esta norma en fecha posterior a la de postulación del candidato por el partido de que se trate, el Instituto Electoral negará el registro legal del infractor.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA EL NUMERAL 6 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2023)</small>
-
-6. LOS PROCESOS INTERNOS PARA SELECCIÓN DE CANDIDATOS DE LOS PARTIDOS POLÍTICOS NO PODRÁN INICIAR ANTES DE LA TERCERA SEMANA DE NOVIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN CUANDO SE ELIJA GOBERNADOR; Y NO PODRÁN INICIAR ANTES DE LA CUARTA SEMANA DE NOVIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN CUANDO SÓLO SE ELIJAN DIPUTADOS Y MUNÍCIPES.
+6. Los procesos internos para selección de candidatos de los partidos políticos no podrán iniciar antes de la tercera semana de noviembre del año previo al de la elección cuando se elija Gobernador; y no podrán iniciar antes de la cuarta semana de diciembre del año previo al de la elección cuando sólo se elijan diputados y munícipes.
 
 (NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA EL NUMERAL 7 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -3263,11 +3265,9 @@ Artículo 231
 
 Artículo 232
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA EL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2023)</small>
-
-1. A MÁS TARDAR EL QUINCE DE NOVIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN, EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DETERMINARÁ LOS MONTOS DE LOS TOPES DE GASTOS DE PRECAMPAÑAS POR PRECANDIDATO Y TIPO DE ELECCIÓN PARA LA QUE PRETENDA SER POSTULADO. EL TOPE SERÁ EQUIVALENTE AL VEINTE POR CIENTO DEL ESTABLECIDO PARA LAS CAMPAÑAS INMEDIATAS ANTERIORES, SEGÚN LA ELECCIÓN DE QUE SE TRATE.
+1. A más tardar el treinta y uno de octubre del año previo al de la elección, el Consejo General del Instituto Electoral determinará los montos de los topes de gastos de precampañas por precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
 
 2. (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
@@ -3503,7 +3503,7 @@ III. Para el registro de Munícipes, a partir de la primera semana y hasta la te
 
 Artículo 241
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 24 DE JULIO DE 2026)</small>
 
 1. Las solicitudes de registro de candidatos deberán presentarse por escrito en el formato aprobado por el Consejo General del Instituto y contener:
 
@@ -3529,9 +3529,9 @@ f) Cargo al que se solicita su registro como candidato; y
 
 g) Los candidatos a Diputados o a munícipes que busquen reelegirse en sus cargos, deberán acompañar una carta que especifique los periodos para los que han sido electos en ese cargo y la manifestación de estar cumpliendo los límites establecidos por la Constitución Política de los Estados Unidos Mexicanos y la del Estado en materia de reelección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2026)</small>
 
-II. A la solicitud de cada uno de los ciudadanos propuestos a candidatos propietarios y suplentes, se deberá acompañar sin excepción los documentos siguientes:
+II. A la solicitud de cada una de las personas ciudadanas propuestas como candidatas propietarias y suplentes, se presentará la documentación prevista en este Código, así como la documentación de transparencia reforzada establecida en la fracción IV del presente artículo.
 
 a) Escrito con firma autógrafa en el que los ciudadanos propuestos como candidatos manifiesten su aceptación para ser registrados y en el que bajo protesta de decir verdad expresen que cumplen con todos y cada uno de los requisitos que establecen la Constitución Política del Estado y este Código;
 
@@ -3548,6 +3548,40 @@ d) Constancia de residencia, cuando no sean nativos de la Entidad, expedida con 
 e) Copia certificada por autoridad competente de la constancia de rendición de la declaración de situación patrimonial, cuando se trate de servidores públicos.
 
 III. Escrito con firma autógrafa, del dirigente estatal del partido político, o en su caso, del representante de la coalición, en el que manifieste bajo protesta de decir verdad que los ciudadanos de quienes se solicita su registro como candidatos fueron seleccionados de conformidad con los estatutos del partido político, o con apego a las disposiciones del convenio de coalición.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 24 DE JULIO DE 2026)</small>
+
+IV. Para efectos de máxima transparencia, voto informado e integridad democrática, cada persona propuesta como candidata presentará, bajo protesta de decir verdad y con autorización expresa para su publicación en versión pública, la siguiente información:
+
+a) Declaración patrimonial en versión pública;
+
+b) Declaración fiscal, constancia de situación fiscal o documento equivalente que permita conocer el cumplimiento de obligaciones fiscales, en los términos que establezcan los lineamientos del Instituto;
+
+c) Declaración de intereses en versión pública;
+
+d) Constancia de antecedentes penales expedida por autoridad competente;
+
+e) Manifestación bajo protesta de decir verdad sobre la existencia o inexistencia de sentencias condenatorias firmes por delitos dolosos;
+
+f) Manifestación bajo protesta de decir verdad sobre la existencia o inexistencia de sentencia firme por violencia familiar, delitos contra la libertad y seguridad sexuales, violencia política contra las mujeres en razón de género, delitos contra la vida y la integridad corporal, delincuencia organizada o incumplimiento de obligaciones alimentarias;
+
+g) Constancia de no inscripción como persona deudora alimentaria morosa, cuando resulte aplicable;
+
+h) Relación de sanciones administrativas firmes, inhabilitaciones o responsabilidades públicas definitivas;
+
+i) Certificado médico de aptitud funcional para el desempeño del cargo, sin publicación de expediente clínico, diagnóstico específico, información genética, psiquiátrica o cualquier otro dato de salud no indispensable;
+
+j) Resultado general de examen toxicológico para detección de sustancias ilícitas, emitido por institución pública o privada certificada;
+
+k) Certificación general de control de confianza, conforme a los parámetros, instituciones y lineamientos que emita el Instituto;
+
+l) Relación de personas jurídicas en las que participe como socia, accionista, administradora, apoderada, beneficiaria final o integrante de órganos de administración, cuando dicha información sea relevante para identificar posibles conflictos de interés;
+
+m) Autorización expresa, informada y por escrito para la publicación de las versiones públicas correspondientes; y
+
+n) Las demás que determine el Consejo General mediante lineamientos, siempre que sean objetivas, proporcionales, razonables y vinculadas con el derecho ciudadano al voto informado.
+
+La información prevista en esta fracción tendrá finalidad de transparencia, publicidad democrática y rendición de cuentas. Su contenido no constituirá, por sí mismo, causa automática de negativa, cancelación o pérdida del registro, salvo en los supuestos de inelegibilidad previstos expresamente en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Jalisco y las leyes aplicables.
 
 Artículo 242
 
@@ -3572,6 +3606,10 @@ Artículo 244
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
 2. Si de la verificación realizada a la solicitud de registro se advierte que se omitió el cumplimiento de los requisitos establecidos en los incisos b), c), d) y e) de la fracción II del párrafo 1 del artículo 241 de este Código, se notificará de inmediato al partido político o coalición correspondiente previniéndolo para que dentro del término de las 48 horas siguientes a la notificación, subsane el o los requisitos omitidos, aporte la documentación faltante o sustituya la candidatura, con el apercibimiento de que de no hacerlo dentro de dicho término, le será negado el registro de la candidatura o candidaturas propuestas y le será devuelta la documentación presentada. El instituto no podrá bajo ninguna circunstancia, requerir al partido o coalición, cuando se trate de faltantes en los requisitos establecidos en la fracción I; inciso a) de la fracción II y lo previsto en la fracción III del párrafo 1 del artículo 241 del presente Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JULIO DE 2026)</small>
+
+Tratándose de la documentación prevista en la fracción IV del artículo 241 de este Código, la omisión, negativa o presentación incompleta deberá hacerse pública en la plataforma de transparencia electoral del Instituto, bajo la leyenda que corresponda: "No presentó", "Presentó parcialmente", "No autorizó versión pública" o "Información pendiente de validación". Dicha omisión no producirá, por sí misma, negativa automática del registro, salvo que se actualice un supuesto expreso de inelegibilidad constitucional o legal.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
 
@@ -3607,7 +3645,17 @@ II. De Diputados por ambos principios y de Munícipes, a más tardar sesenta y c
 
 Artículo 247
 
-1. Las resoluciones del Consejo General del Instituto Electoral que otorguen el registro como candidatos a Diputados por los principios de mayoría relativa y de representación proporcional, Gobernador y Munícipes, se publicarán en el periódico oficial “El Estado de Jalisco” dentro de los cinco días siguientes al de su aprobación.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
+
+1. Las resoluciones del Consejo General del Instituto Electoral que otorguen el registro como candidatas o candidatos a la Gubernatura, diputaciones por los principios de mayoría relativa y representación proporcional, así como munícipes, se publicarán en el Periódico Oficial "El Estado de Jalisco" dentro de los cinco días siguientes al de su aprobación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JULIO DE 2026)</small>
+
+2. Dentro del mismo plazo, el Instituto deberá publicar en su portal oficial la plataforma denominada "Perfil Público de Candidaturas", que contendrá las versiones públicas de la información prevista en la fracción IV del artículo 241 de este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JULIO DE 2026)</small>
+
+3. La publicación deberá observar los principios de máxima publicidad, protección de datos personales, presunción de inocencia, no discriminación, proporcionalidad, seguridad personal, certeza electoral y derecho ciudadano al voto informado.
 
 Artículo 248
 
@@ -5609,6 +5657,14 @@ IV. El Tribunal Electoral del Estado de Jalisco.
 
 3. La Comisión mencionada en la fracción II del párrafo 1 de este artículo se integrará por tres Consejeros Electorales, quienes serán designados por el Consejo General para un periodo de tres años. Sus sesiones y procedimientos serán determinados en el reglamento que al efecto apruebe el propio Consejo General.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JULIO DE 2026)</small>
+
+###### Artículo 460 Bis.
+
+1. El Instituto Electoral y el Tribunal Electoral, en sus respectivos ámbitos de competencia, implementarán un sistema de juicio en línea que garantice la impartición de justicia mediante el uso de herramientas tecnológicas, para lo cual deberán emitir los acuerdos y lineamientos que resulten necesarios.
+
+2. La utilización del sistema del juicio en línea, para el trámite, substanciación y resolución de los procedimientos sancionadores, es optativa para las y los justiciables, y vinculante para las autoridades electorales y órganos competentes.
+
 Artículo 461
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2011)</small>
@@ -5739,9 +5795,13 @@ Artículo 466
 
 2. La queja o denuncia podrá ser presentada por escrito, en forma oral o por medios de comunicación electrónicos y deberá cumplir con los siguientes requisitos:
 
-I. Nombre del quejoso o denunciante, con firma autógrafa o huella digital;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-II. Domicilio para oír y recibir notificaciones;
+I. Nombre de la persona quejosa o denunciante, con firma autógrafa, o huella digital;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+II. Correo electrónico y domicilio para oír y recibir notificaciones;
 
 III. Los documentos que sean necesarios para acreditar la personería;
 
@@ -5815,7 +5875,9 @@ I. Nombre del denunciado o su representante, con firma autógrafa o huella digit
 
 II. Deberá referirse a los hechos que se le imputan, afirmándolos, negándolos o declarando que los desconoce;
 
-III. Domicilio para oír y recibir notificaciones;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+III. Correo electrónico y domicilio para oír y recibir notificaciones:
 
 IV. Los documentos que sean necesarios para acreditar la personería; y
 
@@ -6363,6 +6425,8 @@ II. La definitividad de los distintos actos y etapas de los procesos electorales
 
 Artículo 501
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTÉ PÁRRAFO], P.O. 24 DE JULIO DE 2026)</small>
+
 1. El sistema de medios de impugnación se integra por:
 
 I. El recurso de revisión, para garantizar la legalidad de actos y resoluciones de la autoridad electoral estatal, Distrital o Municipal;
@@ -6373,13 +6437,21 @@ II. El recurso de apelación y el juicio de inconformidad, para juzgar la legali
 
 III. El Juicio para la Protección de los Derechos Político Electorales del Ciudadano;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-IV. Los medios de impugnación precedentes que en lo conducente sean aplicables para dirimir controversias respecto de los procesos de mecanismos de participación ciudadana y popular;
+IV. Los medios de impugnación precedentes que en lo conducente sean aplicables para dirimir controversias respecto de los procesos de mecanismos de participación ciudadana y popular; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-V. Los procedimientos especiales para dirimir los conflictos o diferencias laborales entre el Instituto Electoral.
+V. Los procedimientos especiales para dirimir los conflictos o diferencias laborales entre el Instituto Electoral y sus servidores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JULIO DE 2026)</small>
+
+###### Artículo 501 Bis.
+
+1. El Instituto Electoral y el Tribunal Electoral, en sus respectivos ámbitos de competencia, implementarán un sistema de juicio en línea que garantice la administración e impartición de justicia mediante el uso de herramientas tecnológicas, para lo cual deberán emitir los acuerdos y lineamientos que resulten necesarios.
+
+2. La utilización del sistema del juicio en línea, para la interposición, trámite y resolución de todos los medios de impugnación, es optativa para las y los justiciables, y vinculante para las autoridades y órganos responsables.
 
 Artículo 502
 
@@ -6435,11 +6507,17 @@ Artículo 507
 
 1. Los medios de impugnación deben presentarse por escrito ante la autoridad señalada como responsable del acto o resolución impugnado, debiendo indicar:
 
-I. Nombre del actor;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-II. Domicilio para recibir notificaciones, el cual deberá estar ubicado en la ciudad de residencia de la autoridad que deba resolver el medio de impugnación, y en su caso, a quien en su nombre las pueda oír y recibir;
+I. Nombre de la parte actora;
 
-III. Acompañar el o los documentos necesarios para acreditar la personería del promovente;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+II. Domicilio y correo electrónico para recibir notificaciones. El domicilio deberá estar ubicado en la ciudad de residencia de la autoridad que deba resolver el medio de impugnación y, en su caso, a quien en su nombre las pueda oír y recibir;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+III. Acompañar el o los documentos necesarios para acreditar la personería. En el caso del juicio para la protección de los Derechos Político-Electorales del Ciudadano, acompañar copia de la credencial para votar;
 
 IV. Señalar la agrupación política; el partido político o coalición que representen;
 
@@ -6449,15 +6527,21 @@ VI. Mencionar de manera expresa y clara los hechos en que se basa la impugnació
 
 VII. Los agravios que cause el acto o resolución impugnado, así como los preceptos presuntamente violados;
 
-VIII. El ofrecimiento de las pruebas relacionándolas con los hechos que se pretendan probar; la mención de las que deban requerirse, cuando el promovente justifique que oportunamente las solicitó por escrito al órgano competente, y éstas no le hubieren sido entregadas;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+VIII. El ofrecimiento de las pruebas relacionándolas con los hechos que se pretendan probar; la mención de las que deban requerirse, cuando la parte oferente justifique que oportunamente las solicitó por escrito al órgano competente, y éstas no le hubieren sido entregadas;
 
 IX. Acompañar en copia simple tres tantos de la demanda, de las que una será puesta a disposición de los terceros interesados; y
 
-X. Firma autógrafa del promovente o huella digital.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+X. Firma autógrafa de la persona promovente o huella digital.
 
 2. Cuando la violación reclamada verse exclusivamente sobre puntos de derecho, no será necesario cumplir con el requisito previsto en la fracción VI.
 
-3. Las partes podrán solicitar copias simples o certificadas de los documentos que obren en los expedientes de los medios de impugnación, las que serán expedidas a costa del solicitante. La certificación no causará impuesto o derecho alguno.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
+
+3. Las partes podrán solicitar copias simples o certificadas de los documentos que obren en los expedientes de los medios de impugnación, las que serán expedidas a costa de la parte solicitante. La certificación no causará impuesto o derecho alguno.
 
 ### Capítulo Cuarto. Desechamiento, Improcedencia y Sobreseimiento
 
@@ -6865,9 +6949,23 @@ Artículo 547
 
 2. Las notificaciones a que se refiere el presente ordenamiento surtirán sus efectos el mismo día en que se practiquen.
 
-Artículo 548
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-1. Las notificaciones se podrán hacer: personalmente, por lista que se fijará en estrados, por oficio, por correo certificado o por telegrama, o por cualquier otro medio de comunicación que se considere idóneo siempre que exista la posibilidad de recabar constancia indubitable de la diligencia, salvo disposición en contrario de las leyes aplicables en la materia.
+###### Artículo 548.
+
+1. Las notificaciones se podrán hacer:
+
+I. Personalmente, en el domicilio proporcionado para tal efecto, por comparecencia cuando la parte interesada, su representante o persona autorizada para ello, acuda a las instalaciones de la autoridad competente y se imponga del contenido de la determinación emitida;
+
+II. Por estrados;
+
+III. Por oficio;
+
+IV. Por correo certificado o por telegrama;
+
+V. Por correo o medio electrónico. Las partes podrán proporcionar correo electrónico para recibir notificaciones, incluso aquellas de carácter personal, debiendo manifestarlo expresamente por escrito. Para acreditar la debida entrega de la notificación al correo electrónico señalado para ello, la persona notificadora deberá imprimir copia de envío y recepción del mensaje, agregarlas al expediente y asentar la razón correspondiente. El uso del medio a que se hace referencia deberá asegurar que las notificaciones se hagan en el tiempo establecido y se transmita con claridad, precisión y en forma completa el contenido del acto o de la resolución que la ordene. El Instituto o el Tribunal podrán habilitar un sistema de notificaciones electrónicas que permita garantizar plenamente el conocimiento del acto o resolución a notificar por la parte involucrada, debiendo expedir lineamientos que regulen su uso y control.
+
+2. En todos los casos, el o la persona Actuaria levantará acta en la que hará constar el lugar, la hora, fecha y demás circunstancias en que se practicó la notificación del auto, resolución o sentencia, la cual deberá de agregarse al expediente correspondiente.
 
 Artículo 549
 
@@ -7019,7 +7117,7 @@ Artículo 572
 
 1. Durante el tiempo que transcurra entre dos procesos electorales, para garantizar la legalidad de los actos y resoluciones electorales, en los términos señalados en este Título, podrán interponerse los medios de impugnación siguientes:
 
-I. El recurso de aclaración;
+I. (DEROGADA, P.O. 24 DE JULIO DE 2026)
 
 > <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
 
@@ -7185,7 +7283,9 @@ I. A los promoventes, partidos políticos que no tengan representantes acreditad
 
 II. Al órgano del Instituto Electoral cuyo acto o resolución fue impugnado, se le hará por correo certificado o por oficio al cual se le anexará copia de la resolución; y
 
-III. A los terceros interesados, por correo certificado.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+III. A la parte tercera interesada, personalmente en el domicilio que hubiere señalado o por correo electrónico.
 
 ## Título Sexto. Medios Judiciales de Impugnación
 
@@ -7323,11 +7423,99 @@ Artículo 609
 
 1. Las sentencias del Pleno del Tribunal recaídas a los recursos de apelación, serán notificadas dentro de las cuarenta y ocho horas siguientes de pronunciadas:
 
-I. Al actor, por correo certificado, por telegrama o personalmente;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
 
-II. Al órgano del Instituto Electoral que hubiere realizado el acto o dictado la resolución impugnada, por correo certificado, por telegrama, personalmente o por oficio acompañando copia de la resolución; y
+I. A la parte actora, personalmente o por correo electrónico;
 
-III. A los terceros interesados, por correo certificado, telegrama o personalmente.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+II. Al órgano del Instituto Electoral que hubiere realizado el acto o dictado la resolución impugnada, por oficio acompañando copia de la resolución; y
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2026)</small>
+
+III. A la parte tercera interesada, personalmente o por correo electrónico.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE JULIO DE 2026)</small>
+
+## Título Séptimo Bis.. Juicio para la protección de los derechos político-electorales del Ciudadano
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE JULIO DE 2026)</small>
+
+### Capítulo Primero. Procedencia
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2026)</small>
+
+###### Artículo 609 Bis.
+
+1. El juicio para la protección de los derechos político-electorales, sólo procederá cuando el ciudadano en forma individual o a través de sus representantes legales, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos.
+
+2. En el supuesto previsto en la fracción II, del párrafo 1 del siguiente artículo, la demanda deberá presentarse por conducto da quien ostente la representación legítima de la organización o agrupación política agraviada.
+
+3. Asimismo, resultará procedente para impugnar los actos y resoluciones por quien, teniendo interés jurídico, considere que indebidamente se afecta su derecho a integrar una consejería municipal o distrital.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2026)</small>
+
+###### Artículo 609 Ter.
+
+1. El juicio podrá ser promovido por el ciudadano cuando:
+
+I. Habiendo cumplido con los requisitos y trámites correspondientes, no hubiere obtenido oportunamente el documento que exija la ley electoral respectiva para ejercer el voto;
+
+II. Habiendo obtenido oportunamente el documento a que se refiere el inciso anterior, no aparezca incluido en la lista nominal de electores de la sección correspondiente a su domicilio;
+
+III. Considere haber sido indebidamente excluido de la lista nominal de electores de la sección correspondiente a su domicilio;
+
+IV. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato o candidata a un cargo de elección popular.
+
+V. Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político estatal o agrupación política estatal;
+
+VI. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior;
+
+VII. Considere que los actos o resoluciones del partido político al que está afiliado o afiliada violan alguno de sus derechos político-electorales. Lo anterior es aplicable a las personas precandidatas y candidatas a cargos de elección popular aun cuando no estén afiliadas al partido señalado como responsable; y
+
+VIII. Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco y en el propio Código Electoral del Estado de Jalisco.
+
+2. El juicio sólo será procedente cuando la parte actora haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
+
+3. En los casos previstos en la fracción IV, del párrafo 1 de este artículo, el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa a la persona quejosa.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE JULIO DE 2026)</small>
+
+### Capítulo Segundo. Competencia y Sustanciación
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2026)</small>
+
+###### Artículo 609. Quater.
+
+1. Es competente para resolver el juicio para la protección de los derechos político-electorales de ciudadano, el Pleno del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2026)</small>
+
+###### Artículo 609. Quinquies.
+
+1. La tramitación y sustanciación del juicio para la protección de los derechos político-electorales del ciudadano, se realizará conforme a las reglas comunes aplicables a los medios de impugnación, establecidas en el Título Segundo del presente Libro Séptimo de este Código Electoral.
+
+> <small>(ADICIONADO CON EL ARTÍCULOO QUE LO INTEGRA, P.O. 24 DE JULIO DE 2026)</small>
+
+### Capítulo Tercero. Sentencias y Notificaciones
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2026)</small>
+
+###### Artículo 609.
+
+Sexties.
+
+1. Las sentencias que resuelvan el fondo del juicio para la protección de los derechos político-electorales de la ciudadanía, serán definitivas y podrán tener los efectos siguientes:
+
+a) Confirmar el acto o resolución impugnado; y
+
+b) Revocar o modificar el acto o resolución impugnado y restituir a la persona promovente en el uso y goce del derecho político-electoral que le haya sido violado.
+
+2. Las sentencias recaídas a los juicios para la protección de los derechos político-electorales del ciudadano serán notificadas:
+
+a) A la parte actora, y en su caso, a la parte tercera interesada, a más tardar dentro de las veinticuatro horas siguientes al dictado de la sentencia, personalmente siempre y cuando haya señalado domicilio ubicado en el Área Metropolitana de Guadalajara, sede del Tribunal Electoral y atendiendo a las reglas que para las notificaciones personales regulan los artículos 550 al 554 del presente Código Electoral. En cualquier otro caso, la notificación se hará por estrados, por correo certificado o por correo electrónico de haberse proporcionado.
+
+b) A la autoridad u órgano partidista responsable, a más tardar dentro de las veinticuatro horas siguientes al dictado de la sentencia, por oficio acompañado de la copia certificada de la misma.
 
 ## Título Octavo. Juicio de Inconformidad
 
@@ -7368,6 +7556,30 @@ V. La asignación que realice el Instituto Electoral respecto de la elección:
 a) De Diputados de representación proporcional; y
 
 b) De Munícipes por el principio de representación proporcional.
+
+###### Artículo 613.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
+
+Artículo 614
+
+1. Las causas de nulidad previstas en este Código, sólo podrán hacerse valer al promover la inconformidad en contra de los resultados que arrojen los procesos electorales.
+
+Artículo 615
+
+1. Los candidatos podrán promover la inconformidad en su carácter de actores en los siguientes casos:
+
+I. Cuando por motivos de inelegibilidad la autoridad electoral decida no otorgarles la constancia de mayoría; y
+
+II. En los supuestos de procedencia previstos en las fracciones I, II, III y V del artículo 612, siempre y cuando el partido político o coalición que los postuló no haga valer la inconformidad.
+
+2. Fuera de los casos previstos en el párrafo anterior, los candidatos sólo podrán intervenir como coadyuvantes.
+
+Artículo 616
+
+1. En el supuesto de procedencia previsto en el inciso c) de la fracción X del artículo 617, cualquiera de los candidatos que integren la planilla de Munícipes, estará facultado para promover la inconformidad en su carácter de actor siempre y cuando se demuestre la afectación a su interés jurídico, y el partido político o coalición que los postuló no haga valer la inconformidad.
 
 ### Capítulo Segundo. Requisitos Especiales del Escrito de Demanda
 
@@ -7435,8 +7647,6 @@ Artículo 621
 
 4. De presentarse discrepancia entre el representante o representantes reconocidos por el Instituto Electoral y sus órganos con los relacionados ante el Tribunal Electoral, prevalecerán los que como tales reconozca el organismo electoral.
 
-## Título Noveno. Nulidades y sus Declaratorias
-
 ### Capítulo Cuarto. Partes y Trámite de la Demanda
 
 Artículo 622
@@ -7470,30 +7680,6 @@ Artículo 626
 Artículo 627
 
 1. En el caso de que al escrito de demanda no se haya acompañado el documento que acredite la personería del promovente, no se requerirá por su exhibición, cuando aparezca legalmente acreditada la personería en las constancias o informes que obren en la documentación anexa al medio de impugnación que remita la autoridad responsable.
-
-###### Artículo 613.
-
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
-
-Artículo 614
-
-1. Las causas de nulidad previstas en este Código, sólo podrán hacerse valer al promover la inconformidad en contra de los resultados que arrojen los procesos electorales.
-
-Artículo 615
-
-1. Los candidatos podrán promover la inconformidad en su carácter de actores en los siguientes casos:
-
-I. Cuando por motivos de inelegibilidad la autoridad electoral decida no otorgarles la constancia de mayoría; y
-
-II. En los supuestos de procedencia previstos en las fracciones I, II, III y V del artículo 612, siempre y cuando el partido político o coalición que los postuló no haga valer la inconformidad.
-
-2. Fuera de los casos previstos en el párrafo anterior, los candidatos sólo podrán intervenir como coadyuvantes.
-
-Artículo 616
-
-1. En el supuesto de procedencia previsto en el inciso c) de la fracción X del artículo 617, cualquiera de los candidatos que integren la planilla de Munícipes, estará facultado para promover la inconformidad en su carácter de actor siempre y cuando se demuestre la afectación a su interés jurídico, y el partido político o coalición que los postuló no haga valer la inconformidad.
 
 ### Capítulo Quinto. Sentencias y sus Efectos
 
@@ -7545,6 +7731,14 @@ b) Munícipes por el principio de representación proporcional, que realice el C
 
 X. Confirmar, modificar o revocar la Constancia de Mayoría de votos de la elección de Gobernador.
 
+###### Artículo 629.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+Artículo 630
+
+1. Las sentencias que recaigan a los juicios de inconformidad, serán definitivas e inatacables.
+
 ### Capítulo Sexto. Sección de Ejecución
 
 Artículo 631
@@ -7583,13 +7777,7 @@ Artículo 635
 
 1. Concluido el proceso electoral ordinario o extraordinario, el Instituto Electoral, por conducto de su Presidente, podrá solicitar copia certificada de la documentación que integre los expedientes formados con motivo de los juicios de inconformidad.
 
-###### Artículo 629.
-
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
-
-Artículo 630
-
-1. Las sentencias que recaigan a los juicios de inconformidad, serán definitivas e inatacables.
+## Título Noveno. Nulidades y sus Declaratorias
 
 ### Capítulo Único. Nulidades
 
@@ -7803,21 +7991,53 @@ III. Cuando se presente alguna de las causas señaladas en la Constitución Pol�
 
 2. Las elecciones cuyos cómputos, constancias de mayoría y validez o de asignación no sean impugnadas en tiempo y forma, se considerarán válidas, definitivas e inatacables.
 
-### Capítulo Primero. Disposición General
-
-### Capítulo Segundo. Personería y Legitimación
-
 ## Título Décimo. Medios de Impugnación para Dirimir Controversias Respecto de los Procesos de Participación Ciudadana
 
-### Capítulo Tercero. Actos y Resoluciones Impugnables
-
-## Título Décimo Primero. Procedimientos Especiales para Dirimir los Conflictos o Diferencias Laborales entre el Instituto Electoral y sus Servidores
-
-### Capítulo Cuarto. Trámite, Sustanciación y Resolución
+### Capítulo Primero. Disposición General
 
 ###### Artículo 645.
 
 (DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+### Capítulo Segundo. Personería y Legitimación
+
+###### Artículo 646.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+###### Artículo 647.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+### Capítulo Tercero. Actos y Resoluciones Impugnables
+
+###### Artículo 648.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+###### Artículo 649.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+###### Artículo 650.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+###### Artículo 651.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+###### Artículo 652.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+### Capítulo Cuarto. Trámite, Sustanciación y Resolución
+
+###### Artículo 653.
+
+(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+
+## Título Décimo Primero. Procedimientos Especiales para Dirimir los Conflictos o Diferencias Laborales entre el Instituto Electoral y sus Servidores
 
 ### Capítulo Primero. Reglas Especiales
 
@@ -7850,14 +8070,6 @@ e) La jurisprudencia;
 f) La costumbre; y
 
 g) La equidad.
-
-###### Artículo 646.
-
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
-
-###### Artículo 647.
-
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
 
 ### Capítulo Segundo. Trámite, Sustanciación y Resolución
 
@@ -8037,25 +8249,13 @@ Artículo 681
 
 > <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
-###### Artículo 648.
+# LIBRO OCTAVO. De las Candidaturas Independientes
 
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
-###### Artículo 649.
+## Título Primero
 
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
-
-###### Artículo 650.
-
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
-
-###### Artículo 651.
-
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
-
-###### Artículo 652.
-
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
 ### Capítulo Único. De las Disposiciones Preliminares
 
@@ -8125,13 +8325,9 @@ Artículo 690
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
-###### Artículo 653.
+## Título Segundo. Del Proceso de Selección de Candidatos Independientes
 
-(DEROGADO, P.O. 16 DE JUNIO DE 2016)
-
-## Título Primero
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
 
 ### Capítulo Primero. Disposiciones Generales
 
@@ -8153,25 +8349,15 @@ IV. Del registro de Candidatos Independientes.
 
 ### Capítulo Segundo. De la Convocatoria
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
-
 Artículo 692
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA EL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2023)</small>
+1. El Consejo General emitirá la Convocatoria dirigida a los ciudadanos jaliscienses interesados en postularse como Candidatos Independientes, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos para recabar el apoyo ciudadano correspondiente, los topes de gastos que pueden erogar y los formatos para ello, en los siguientes plazos: en la primera semana de noviembre del año previo al de la elección cuando se elija Gobernador, y en la segunda semana de diciembre del año previo al de la elección cuando solo se elijan diputados y munícipes.
 
-1. EL CONSEJO GENERAL EMITIRÁ LA CONVOCATORIA DIRIGIDA A LOS CIUDADANOS JALISCIENSES INTERESADOS EN POSTULARSE COMO CANDIDATOS INDEPENDIENTES, SEÑALANDO LOS CARGOS DE ELECCIÓN POPULAR A LOS QUE PUEDEN ASPIRAR, LOS REQUISITOS QUE DEBEN CUMPLIR, LA DOCUMENTACIÓN COMPROBATORIA REQUERIDA, LOS PLAZOS PARA RECABAR EL APOYO CIUDADANO CORRESPONDIENTE, LOS TOPES DE GASTOS QUE PUEDEN EROGAR Y LOS FORMATOS PARA ELLO, EN LOS SIGUIENTES PLAZOS: EN LA TERCER SEMANA DE NOVIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN CUANDO SE ELIJA GOBERNADOR, Y EN LA CUARTA SEMANA DE NOVIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN CUANDO SOLO SE ELIJAN DIPUTADOS Y MUNÍCIPES.
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
 
 2. El Instituto Electoral dará amplia difusión a la Convocatoria.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
-
-# LIBRO OCTAVO. De las Candidaturas Independientes
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
-
-## Título Segundo. Del Proceso de Selección de Candidatos Independientes
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -8183,11 +8369,9 @@ Artículo 693
 
 1. Los ciudadanos que pretendan postular su candidatura independiente a un cargo de elección popular deberán hacerlo del conocimiento del Instituto Electoral por escrito en el formato que éste determine.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2023, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 29185/LXIII/23 POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2023)</small>
-
-2. DURANTE LOS PROCESOS ELECTORALES, LA MANIFESTACIÓN DE LA INTENCIÓN SE REALIZARÁ EN LOS SIGUIENTES PLAZOS: EN LA CUARTA SEMANA DE NOVIEMBRE DEL AÑO PREVIO AL DE LA ELECCIÓN CUANDO SE ELIJA GOBERNADOR, Y EN LA PRIMERA SEMANA DE DICIEMBRE DEL AÑO PREVIO DE LA ELECCIÓN CUANDO SÓLO SE ELIJAN DIPUTADOS Y MUNÍCIPES
+2. Durante los procesos electorales, la manifestación de la intención se realizará en los siguientes plazos: en la segunda semana de noviembre del año previo al de la elección cuando se elija Gobernador, y en la tercera semana de diciembre del año previo de la elección cuando sólo se elijan diputados y munícipes.
 
 3. Una vez hecha la comunicación a que se refiere el párrafo 1 de este artículo y recibida la constancia respectiva, los ciudadanos adquirirán la calidad de aspirantes. Quienes obtengan esta calidad, no podrán ser postulados como candidatos por algún partido político o coalición en el mismo proceso electoral, independientemente de que obtengan o no su registro como candidato independiente.
 
@@ -8200,10 +8384,6 @@ Artículo 693
 7. No podrá registrarse como candidato independiente a ningún cargo de elección popular, quien no tenga reconocido el carácter de aspirante en la fecha señalada en el párrafo anterior.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
-
-## Título Tercero. De las Prerrogativas, Derechos y Obligaciones
-
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
 ### Capítulo Cuarto. De la Obtención del Apoyo Ciudadano
 
@@ -8381,30 +8561,6 @@ X . Las demás establecidas por este código.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
 
-### Capítulo Primero. De los Derechos y Obligaciones
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
-
-### Capítulo Segundo. De las Prerrogativas
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
-
-### Capítulo Único
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 737
-
-1. Son aplicables a los Candidatos Independientes, las normas sobre propaganda electoral de los partidos políticos contenidas en éste Código.
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 738
-
-1. La propaganda electoral de los Candidatos Independientes deberá tener el emblema y color o colores que los caractericen y diferencien de otros partidos políticos y de otros Candidatos Independientes, así como tener visible la leyenda: "Candidato Independiente".
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
-
 #### Sección Primera. De los Requisitos de Elegibilidad
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
@@ -8561,21 +8717,13 @@ Artículo 717
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
-## Título Cuarto. De la Propaganda Electoral de los Candidatos Independientes
+## Título Tercero. De las Prerrogativas, Derechos y Obligaciones
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
-### Capítulo Único
+### Capítulo Primero. De los Derechos y Obligaciones
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 739
-
-1. La fiscalización de los recursos de los aspirantes a candidatos independientes y de los candidatos independientes, a cargos de elección popular locales se rige por lo dispuesto en el Título Quinto del Libro Séptimo de la Ley General.
-
-2. De conformidad con el artículo 41 fracción V, apartado B, inciso a) numeral 6 de la Constitución Política de los Estados Unidos Mexicanos, corresponde al Instituto Nacional Electoral, a través de los órganos que establece la Ley General la fiscalización de los ingresos y egresos de los candidatos Independientes y los aspirantes a candidatos Independientes.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
 #### Sección Primera. Disposiciones Generales
 
@@ -8703,35 +8851,9 @@ Artículo 722
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
-### Capítulo Primero. De la Documentación y el Material Electoral
+### Capítulo Segundo. De las Prerrogativas
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 740
-
-1. Los Candidatos Independientes figurarán en la misma boleta que el Instituto Nacional Electoral apruebe para los candidatos de los partidos políticos o coaliciones, según la elección en la que participen, de conformidad con (sic) Ley General.
-
-2. Se utilizará un recuadro para cada Candidato Independiente o fórmula de Candidatos Independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos y si fueran varios candidatos o fórmulas, aparecerán en el orden en que hayan solicitado su registro correspondiente.
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 741
-
-1. En la boleta, de acuerdo a la elección de que se trate, aparecerá el nombre completo del Candidato Independiente o de los integrantes de la fórmula de Candidatos Independientes.
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 742
-
-1. En la boleta no se incluirá, ni la fotografía, ni la silueta del candidato.
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
-
-Artículo 743
-
-1. Los documentos electorales serán elaborados por el Instituto Electoral, aplicando en lo conducente lo dispuesto en (sic) Ley General y este Código para la elaboración de la documentación y el material electoral.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
 #### Sección Primera. Del Financiamiento
 
@@ -8865,9 +8987,75 @@ Artículo 736
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
+## Título Cuarto. De la Propaganda Electoral de los Candidatos Independientes
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Artículo 737
+
+1. Son aplicables a los Candidatos Independientes, las normas sobre propaganda electoral de los partidos políticos contenidas en éste Código.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Artículo 738
+
+1. La propaganda electoral de los Candidatos Independientes deberá tener el emblema y color o colores que los caractericen y diferencien de otros partidos políticos y de otros Candidatos Independientes, así como tener visible la leyenda: "Candidato Independiente".
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+
 ## Titulo Quinto. De la Fiscalización
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JULIO DE 2014)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Artículo 739
+
+1. La fiscalización de los recursos de los aspirantes a candidatos independientes y de los candidatos independientes, a cargos de elección popular locales se rige por lo dispuesto en el Título Quinto del Libro Séptimo de la Ley General.
+
+2. De conformidad con el artículo 41 fracción V, apartado B, inciso a) numeral 6 de la Constitución Política de los Estados Unidos Mexicanos, corresponde al Instituto Nacional Electoral, a través de los órganos que establece la Ley General la fiscalización de los ingresos y egresos de los candidatos Independientes y los aspirantes a candidatos Independientes.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+
+## Título Sexto. De los Actos de la Jornada Electoral
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
+
+### Capítulo Primero. De la Documentación y el Material Electoral
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Artículo 740
+
+1. Los Candidatos Independientes figurarán en la misma boleta que el Instituto Nacional Electoral apruebe para los candidatos de los partidos políticos o coaliciones, según la elección en la que participen, de conformidad con (sic) Ley General.
+
+2. Se utilizará un recuadro para cada Candidato Independiente o fórmula de Candidatos Independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos y si fueran varios candidatos o fórmulas, aparecerán en el orden en que hayan solicitado su registro correspondiente.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Artículo 741
+
+1. En la boleta, de acuerdo a la elección de que se trate, aparecerá el nombre completo del Candidato Independiente o de los integrantes de la fórmula de Candidatos Independientes.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Artículo 742
+
+1. En la boleta no se incluirá, ni la fotografía, ni la silueta del candidato.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2014)</small>
+
+Artículo 743
+
+1. Los documentos electorales serán elaborados por el Instituto Electoral, aplicando en lo conducente lo dispuesto en (sic) Ley General y este Código para la elaboración de la documentación y el material electoral.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
 ### Capítulo Segundo. Del Cómputo de los Votos
 
@@ -8882,10 +9070,6 @@ Artículo 744
 Artículo 745
 
 1. Los votos recibidos a favor de Candidatos Independientes, no serán contabilizados para la asignación de diputados por el principio de representación proporcional, en los términos de la Constitución Política de los Estados Unidos Mexicanos, Constitución Local, Ley General y este Código.
-
-## Título Sexto. De los Actos de la Jornada Electoral
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2014)</small>
 
 ## TRANSITORIOS
 
@@ -9174,3 +9358,23 @@ P.O. 18 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 30195/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 637 BIS DEL CÓDIGO ELECTORAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE JULIO 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 30213/LXIV/26, QUE REFORMA LOS ARTÍCULOS 24, 29, 137, 214, 229, 232, 241, 244, 247, 460 BIS, 466, 468, 501, 501 BIS, 507, 548, 572, 594, 609, 692 Y 693; ASIMISMO, ADICIONA EL TÍTULO SÉPTIMO BIS, CON LOS ARTÍCULOS 609 BIS, 609 TER, 609 QUÁTER, 609 QUINQUIES Y 609 SEXIES, DEL CÓDIGO ELECTORAL DEL ESTADO DE JALISCO, EN MATERIA DE INTEGRACIÓN DE AYUNTAMIENTOS, TRANSPARENCIA Y PUBLICIDAD DE CANDIDATURAS, Y ARMONIZACIÓN DE FECHAS ELECTORALES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La integración de los Ayuntamientos prevista en los artículos 24 y 29 del presente Decreto surtirá sus efectos a partir del periodo administrativo municipal subsecuente
+
+TERCERO. Los recursos públicos que resulten como economías o ahorros derivados del ajuste en la integración de los Ayuntamientos conforme al presente Decreto, quedarán en el patrimonio de la hacienda pública de cada municipio. Los Ayuntamientos, en la proyección de sus respectivos presupuestos de egresos, garantizarán que los recursos excedentes se destinen a obras de infraestructura pública y a la prestación de servicios municipales en beneficio de la población, en los términos de la legislación aplicable, garantizando en todo momento los principios de legalidad, honradez, transparencia y austeridad
+
+CUARTO. El Instituto Electoral del Estado de Jalisco deberá emitir, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, los lineamientos para la implementación del régimen de transparencia reforzada de candidaturas previsto en los artículos 241, 244 y 247 del Código Electoral del Estado de Jalisco, mismos que deberán establecer, cuando menos: los formatos únicos de declaración patrimonial, fiscal y de intereses; los parámetros para la elaboración de versiones públicas; las instituciones autorizadas para emitir certificaciones médicas, toxicológicas y de control de confianza; los mecanismos de protección de datos personales sensibles; el procedimiento para subsanar omisiones; la plataforma digital de consulta ciudadana; las medidas de accesibilidad para personas con discapacidad; y los criterios para evitar discriminación, estigmatización o afectación indebida a la presunción de inocencia.
+
+QUINTO. El régimen de transparencia reforzada de candidaturas será aplicable al proceso electoral local inmediato siguiente, siempre que los lineamientos respectivos se emitan antes del inicio formal del periodo de registro de candidaturas correspondiente.
+
+SEXTO. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco y el Tribunal Electoral del Estado de Jalisco revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el presente Decreto, particularmente en lo relativo a las fechas y plazos del proceso electoral local a que se refieren los artículos 137, 214, 229, 232, 692 y 693 del Código Electoral del Estado de Jalisco.
+
+SÉPTIMO. Todas las disposiciones relativas a la creación, establecimiento y operación de los juicios en línea serán aplicables una vez concluido el proceso electoral del año 2027.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
