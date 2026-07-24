@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-364-de-fiscalizacion-superior-y-rendicion-de-124977"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-18"
-last_updated: "2026-06-02"
+last_updated: "2026-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JULIO DE 2026.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 18 de diciembre de 2017.
 
@@ -590,6 +590,14 @@ La Fiscalización Superior se realizará por el Congreso del Estado a través de
 El Órgano fiscalizará en forma posterior los ingresos, egresos y deuda pública; el manejo, la custodia y la aplicación de los fondos y recursos públicos estatales y municipales, la ejecución de obra pública, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales y municipales, a través de los Informes Individuales y del Informe General Ejecutivo, que se rendirán en los términos dispuesto (sic) por esta Ley.
 
 Asimismo, cuando el Estado o sus municipios, celebren empréstitos y obligaciones de pago, con independencia del origen de los recursos afectados como garantía, el Órgano podrá fiscalizar el destino y ejercicio de los recursos correspondientes; así también, fiscalizará los recursos estatales y municipales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos o privados, o cualquier otra figura jurídica, entidad o institución a la que la Constitución, esta Ley o las demás leyes del Estado, les den el carácter de Ente Fiscalizable, de conformidad con el Procedimiento de Fiscalización Superior establecido en esta Ley y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+
+> <small>(ADICIONADO, G.O. 24 DE JULIO DE 2026)</small>
+
+###### Artículo 35 Bis.
+
+Tratándose de proyectos de inversión en infraestructura educativa que tengan como propósito la construcción, mantenimiento o equipamiento de planteles educativos públicos, el Órgano fiscalizará el manejo, custodia y aplicación de los fondos y recursos públicos estatales y municipales destinados a ello, para lo cual verificará que se hayan aplicado en inmuebles cuya propiedad esté debidamente acreditada a favor del Ente Fiscalizable correspondiente.
+
+En caso que la propiedad se encuentre en trámite de ser regularizada y adquirida por el Ente Fiscalizable, o bien que no pertenezca a la Federación, el Estado o los Municipios, el Órgano verificará que se cuente con la constancia de la Secretaría de Educación de Veracruz con la cual acredite la operación regular del plantel educativo, el reconocimiento de validez de su funcionamiento y la matrícula mínima de alumnos del ciclo escolar correspondiente.
 
 ###### Artículo 36.
 
@@ -1568,3 +1576,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Congreso del Estado, en un plazo no mayor a 180 días naturales contado a partir de la entrada en vigor del presente Decreto, realizará las adecuaciones y adiciones que sean necesarias a su marco normativo para la implementación de los medios electrónicos a los que se refiere el mismo.
 
 TERCERO. La Comisión Permanente de Vigilancia coordinará los trabajos de elaboración y formalización de las disposiciones necesarias para efectuar la recepción de los archivos digitales que contengan las Cuentas Públicas que envíen los entes, considerando la opinión de la Secretaría de Fiscalización del Congreso del Estado.
+
+G.O. 24 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 532 POR EL QUE SE ADICIONA UN ARTÍCULO 35 BIS A LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS, Y UN TERCER PÁRRAFO AL ARTÍCULO 19 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS, AMBAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE ARTÍCULO PRIME”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Órgano de Fiscalización Superior del Estado de Veracruz de Ignacio de la Llave deberá realizar las adecuaciones necesarias a su normativa interna aplicable en un plazo no mayor de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para dar cumplimiento al mismo.
+
+CUARTO. En un periodo de sesenta días naturales, contados a partir del inicio de vigencia del presente Decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias necesarias de conformidad con lo establecido en el presente.
