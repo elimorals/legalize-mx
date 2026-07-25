@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2026-06-27"
+last_updated: "2026-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2026.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -3823,9 +3823,9 @@ Si el Congreso no hace la designación en los plazos que se establecen (sic) los
 
 Por lo que se refiere a la remoción, el Fiscal General del Estado de Oaxaca dejará de ejercer su cargo por renuncia, o podrá ser removido por el Ejecutivo por causales de responsabilidad en los casos previstos en esta Constitución y la Ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General del Estado de Oaxaca será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2026)</small>
 
-Las ausencias del Fiscal General del Estado de Oaxaca, serán suplidas en los términos que determine la Ley. El Fiscal General del Estado de Oaxaca, podrá crear las fiscalías que se requieran para el adecuado funcionamiento de la institución, así mismo podrá nombrar y remover a los servidores públicos y Agentes del Ministerio Público; y contará con una Fiscalía Especializada en Delitos Electorales, una Fiscalía Especializada en materia de Combate a la Corrupción y una Fiscalía Especializada en Materia de Personas Desaparecidas, quienes serán nombrados por el Congreso del Estado, conforme al procedimiento establecido en esta Constitución para la elección del Fiscal General del Estado de Oaxaca y quienes deberán cumplir con los mismos requisitos de elegibilidad establecidos para este.
+Las ausencias del Fiscal General del Estado de Oaxaca, serán suplidas en los términos que determine la Ley. El Fiscal General del Estado de Oaxaca, podrá crear las fiscalías que se requieran para el adecuado funcionamiento de la Institución, así mismo podrá nombrar y remover a los servidores públicos y Agentes del Ministerio Público; y contará con una Fiscalía Especializada en Delitos Electorales y una Fiscalía Especializada en materia de Combate a la Corrupción, quienes serán nombrados por el Congreso del Estado, conforme al procedimiento establecido en esta Constitución para la elección del Fiscal General del Estado de Oaxaca y quienes deberán cumplir con los mismos requisitos de elegibilidad establecidos para este.
 
 La Ley determinará los requisitos que deben cubrir los Agentes del Ministerio Público y demás servidores públicos que integran la estructura de la Fiscalía General del Estado de Oaxaca.
 
@@ -7088,3 +7088,13 @@ SEGUNDO. El presente Decreto entrará en vigor el día de su aprobación.
 TERCERO. El Tribunal Electoral del Estado de Oaxaca y el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, en el ámbito de sus respectivas competencias, revisarán y, en su caso, adecuarán sus disposiciones normativas y administrativas para garantizar el cumplimiento del presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1405.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO NOVENO DEL APARTADO D DEL ARTÍCULO 114 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Fiscalía General del Estado de Oaxaca junto con la Secretaría de Finanzas del Gobierno del Estado y demás entes públicos competentes, tendrán un plazo de 90 días naturales para realizar todas las gestiones. administrativas, legales, presupuestales y materiales para la creación de la Vicefiscalía General de Atención a Víctimas y Derechos Humanos, estructurada de manera tal que contemple, dentro de su organización, dos fiscalías especializadas: una en la investigación de la desaparición cometida por particulares desaparición forzada y delitos vinculados; y otra en la investigación de los delitos de tortura, tratos crueles, inhumanos o degradantes y delitos vinculados. Las titularidades de la Vicefiscalía General de Víctimas y Derechos Humanos y de las Fiscalías Especializadas a que hace mención el presente Decreto, serán designadas libremente por el Fiscal General del Estado.
