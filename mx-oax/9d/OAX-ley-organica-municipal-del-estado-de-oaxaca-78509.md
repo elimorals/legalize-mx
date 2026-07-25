@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2026-05-21"
+last_updated: "2026-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -430,6 +430,10 @@ En todos los actos de integración e Instalación del Ayuntamiento se deberá ap
 Las renuncias, deberán ratificarse personalmente por el o los miembros del Ayuntamiento ante la Comisión Permanente de Gobierno y Asuntos Agrarios del Congreso del Estado, en un máximo de 30 días naturales después que la autoridad haya hecho del conocimiento de este y deberá ser previo a la emisión del Decreto correspondiente; si ello no sucede quedará sin efecto la solicitud y se comunicará al Ayuntamiento.
 
 De todos los casos conocerá el Congreso del Estado, hará la declaratoria que corresponda y proveerá lo necesario para cubrir la vacante si después de llamado el suplente, éste no acudiere.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2026)</small>
+
+Tratándose de personas indígenas, la ratificación podrá realizarse con la asistencia de una abogada o abogado de su confianza, quien deberá explicar de manera clara y comprensible las implicaciones jurídicas, políticas y administrativas de la renuncia. Esta asistencia deberá considerar la lengua materna y el contexto cultural de la persona que renuncia, conforme al principio de acceso pleno a la jurisdicción del Estado y a los estándares nacionales e internacionales en materia de derechos de los pueblos y comunidades indígenas
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
 
@@ -5116,3 +5120,11 @@ PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. La integración de los Ayuntamientos establecidos respecto al número de Sindicaturas surtirá efectos a partir del periodo administrativo municipal subsecuente. Los Ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con un número de regidurías menor a 15, continuarán con su integración actual. Solo en los casos que se requiera alguna modificación de la integración por criterios de variación poblacional u otros requisitos, se realizará conforme a lo establecido en la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
+
+P.O. 25 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1318.- MEDIANTE EL CUAL ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 34 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado del Oaxaca.
