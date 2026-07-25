@@ -4,7 +4,7 @@ identifier: "OAX-codigo-familiar-para-el-estado-de-oaxaca-153298"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-12-04"
-last_updated: "2026-01-10"
+last_updated: "2026-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2026.
 
 Código publicado en la Décima Primera Sección del Número 49 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2021.
 
@@ -777,7 +777,9 @@ III. La casa en donde vivirá cada uno de los cónyuges mientras dure el procedi
 
 IV. La cantidad que a título de alimentos el cónyuge debe pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que deba darse para asegurarlo; y
 
-V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores, cuando se haya celebrado el matrimonio bajo el régimen de sociedad conyugal. A este efecto, se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad.
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2026)</small>
+
+V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores, cuando se haya celebrado el matrimonio bajo el régimen de sociedad conyugal. A este efecto los cónyuges acompañarán un inventario de los bienes adquiridos durante el matrimonio, acordando libremente el destino y disposición de los mismos, precisando en el convenio respectivo su distribución.
 
 ###### Artículo 127.
 
@@ -5850,3 +5852,13 @@ P.O. 10 DE ENERO DE 2026.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 25 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1316.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V DEL ARTÍCULO 126 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su Publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
