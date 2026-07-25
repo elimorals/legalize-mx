@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2026-05-23"
+last_updated: "2026-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2115,6 +2115,32 @@ II.- Cuando estando legalmente obligado a entregar a una autoridad información 
 
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y de treinta a cien días multa.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE JULIO DE 2026)</small>
+
+### CAPÍTULO II BIS. Corrupción Inmobiliaria
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2026)</small>
+
+208 Ter.- Comete el delito de corrupción inmobiliaria la persona servidora pública que, aprovechándose de las facultades o funciones de su cargo, realice cualquiera de las siguientes conductas:
+
+I. Por acción u omisión, autorice o tolere la construcción de inmuebles, sin el cumplimiento de todos los requisitos establecidos en las leyes, reglamentos y normas, que así lo exijan, en materia de desarrollo urbano, construcción, uso de suelo, impacto ambiental o protección civil;
+
+II. Autorice, tolere o permita la construcción de niveles o superficie de construcción superiores a los permitidos en la licencia o autorización correspondiente, o sin que exista licencia alguna;
+
+III. Omita realizar las visitas de verificación, inspección o supervisión que le corresponden legalmente para la construcción de inmuebles en materia de obra pública, o bien, falsifique o altere los resultados de dichas visitas con el objeto de permitir o encubrir las conductas señaladas en las fracciones anteriores.
+
+Por las conductas descritas en este artículo, se impondrán una pena de cinco a diez años de prisión y multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse el delito. Así mismo se destituirá e inhabilitará a la persona servidora pública para desempeñar cualquier empleo, cargo o comisión públicos por tiempo igual al de la pena de prisión impuesta.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2026)</small>
+
+208 Quáter.- La pena establecida en el artículo anterior se incrementará en una mitad de su mínimo y hasta una mitad de su máximo, cuando.
+
+I. Se genere un daño o perjuicio al medio ambiente;
+
+II. Se afecte al patrimonio de personas en situación de vulnerabilidad;
+
+III. Se genere un beneficio económico directo o indirecto, al servidor público o a su cónyuge, descendientes o ascendientes, parientes por consanguinidad, o afinidad hasta el cuarto grado; concubina o concubino.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ### CAPITULO III.
@@ -2405,6 +2431,10 @@ En caso de tratarse de particulares realizando funciones propias del supervisor 
 
 217 Bis E.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2017)
 
+## TITULO NOVENO.
+
+Responsabilidad Profesional.
+
 ### CAPITULO I.
 
 Responsabilidad médica y técnica.
@@ -2420,10 +2450,6 @@ II.- Estarán obligados a la reparación del daño por sus actos propios y por l
 220.- La negativa injustificada de los médicos a prestar sus servicios oportuna y diligentemente cuando para ello sean requeridos, en casos graves, en que peligre la vida o la salud, constituirá un delito culposo quedando a prudente arbitrio del Juez la calificación de la gravedad de cada caso según las circunstancias.
 
 221.- Igualmente serán responsables en la forma que previene el artículo 210 todos los que causen daños indebidos en el ejercicio de una profesión, o de un arte o actividad técnica.
-
-## TITULO NOVENO.
-
-Responsabilidad Profesional.
 
 ### CAPITULO II.
 
@@ -2457,6 +2483,10 @@ III. Retarden o nieguen la entrega de un cadáver, excepto cuando se requiera or
 
 La misma pena se impondrá a los directores, encargados o administradores de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver.
 
+## TITULO DECIMO.
+
+Falsedad.
+
 ### CAPITULO I.
 
 Falsificación de sellos, llaves, cuños, troqueles y marcas.
@@ -2476,10 +2506,6 @@ II.- Al que enajene un sello, punzón o marca falsos, ocultando este vicio;
 III.- Al que procurándose los verdaderos sellos, punsones (sic) y marcas, haga uso indebido de ellos;
 
 IV.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones anteriores de éste.
-
-## TITULO DECIMO.
-
-Falsedad.
 
 ### CAPITULO II.
 
@@ -3707,6 +3733,12 @@ Disposiciones comunes para los capítulos procedentes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE ABRIL DE 2002)</small>
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO I.
 
 Privación ilegal de la libertad.
@@ -3766,12 +3798,6 @@ Si el activo del delito realiza algún acto erótico sexual con la víctima, se 
 Si el activo de este delito restituye la libertad a la víctima dentro de las setenta y dos horas, voluntariamente o en atención al primer requerimiento que le haga la autoridad, sin que hubiere existido la realización de algún acto erótico sexual, la sanción será de uno a tres años de prisión.
 
 Este delito sólo se perseguirá por querella de la parte ofendida.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
-
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
@@ -4597,38 +4623,6 @@ II.- De cinco a doce años de prisión y de doscientos a quinientos días multa,
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
 
-### CAPITULO I.
-
-Delitos contra la Legitimidad de las Elecciones.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
-
-391.- Los delitos en materia electoral y sus sanciones, la distribución de competencias, facultades y las formas de coordinación entre los órdenes de gobierno, serán las que establece la Ley General en Materia de Delitos Electorales. Las penas establecidas para los delitos electorales se aplicarán sin perjuicio de las demás que resulten aplicables para los tipos penales que concurran en la comisión de dichos delitos.
-
-392.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
-
-393.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
-
-394.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
-
-395.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
-
-396.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
-
-397.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
-
-398.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
-
-399.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
-
-400.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
-
-401.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
-
-401 BIS.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
-
 ###### ARTÍCULO 388 Bis.
 
 Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
@@ -4687,6 +4681,38 @@ Las excusas absolutorias contenidas en las fracciones I, III y IV no serán apli
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
+### CAPITULO I.
+
+Delitos contra la Legitimidad de las Elecciones.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
+
+391.- Los delitos en materia electoral y sus sanciones, la distribución de competencias, facultades y las formas de coordinación entre los órdenes de gobierno, serán las que establece la Ley General en Materia de Delitos Electorales. Las penas establecidas para los delitos electorales se aplicarán sin perjuicio de las demás que resulten aplicables para los tipos penales que concurran en la comisión de dichos delitos.
+
+392.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
+
+393.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
+
+394.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
+
+395.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
+
+396.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
+
+397.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
+
+398.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
+
+399.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
+
+400.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
+
+401.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
+
+401 BIS.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
 ### CAPITULO II.
 
 Reglas Comunes.
@@ -4696,6 +4722,10 @@ Reglas Comunes.
 403.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2017)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)</small>
+
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO I. Violencia familiar
 
@@ -4722,10 +4752,6 @@ V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, les
 VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en los casos permitidos por la ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MARZO DE 2024)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO I BIS. Violencia Vicaria
 
@@ -5049,6 +5075,10 @@ El ministerio público debe considerar la emisión de órdenes de protección a 
 
 > <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
 
+## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2021)</small>
@@ -5089,9 +5119,9 @@ Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
 
 ### CAPITULO PRIMERO. Del Maltrato y la Crueldad Animal
 
@@ -5153,10 +5183,6 @@ Podrá aplicarse como medida alterna de la sanción pecuniaria, que el sujeto ac
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
-
 ### CAPITULO SEGUNDO. De la Privación de la Vida
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
@@ -5204,56 +5230,6 @@ IV.- El sacrificio de un animal vertebrado para consumo humano.
 423. Los delitos previstos en este título se perseguirán de oficio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-### CAPITULO UNICO.. DELITOS CONTRA LA SEGURIDAD INFORMÁTICA Y ELECTRÓNICA
-
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
-
-434.- Comete el delito de defraudación informática y se le impondrán de cuatro meses a cuatro años de prisión y multa de setenta a ciento veinte veces el valor diario de la unidad de medida y actualización vigente, a quien:
-
-I. Sin autorización, altere, modifique, borre, destruya o disponga de datos o información contenida en un sistema informático o electrónico ajeno.
-
-II. Transmita a una o más personas o divulgue, por cualquier medio, datos o información contenida en un sistema informático o electrónico, sin el consentimiento de quien tenga derecho a disponer de los mismos.
-
-Si el que cometiere cualquiera de las conductas establecidas en este artículo, fuere administrador de la red, las penas se aumentarán en una cuarta parte de su mínimo y su máximo.
-
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
-
-435.- Comente el delito de intrusión informática, el que intercepte, interfiera o acceda a la información contenida en un sistema informático o electrónico, sin derecho y sin autorización de quien debe darlo; a quien cometa este delito se le impondrá la pena de uno a tres años de prisión y multa de cien a ciento treinta veces el valor diario de la unidad de medida y actualización vigente.
-
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
-
-436.- En los supuestos del artículo anterior, si existiere respaldo o copia de los datos o información interceptados o a los que se accedió, sólo se impondrá al actor, de dos meses a dos años de prisión y multa de quinientos a mil veces la unidad de medida y actualización vigente; quedando éste obligado, en su caso, a entregar a la víctima u ofendidos, el medio electrónico en que hubiere guardado la información obtenida, o a borrar la información ilegalmente obtenida.
-
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
-
-437.- Al que diseñe, programe, fabrique, introduzca, importe, exporte, comercialice o distribuya programas de cómputo, dispositivos o mecanismos electrónicos, aparatos, sistemas, códigos de acceso o cualquier dispositivo físico, que tenga por objeto violar uno o más mecanismos de seguridad de equipos informáticos, se le impondrán de seis meses a cuatro años de prisión y de doscientos (sic) a quinientas veces la unidad de medida y actualización vigente.
-
-La pena se aumentará hasta en una cuarta parte de su mínimo y de su máximo, si como consecuencia, se afectaran los datos contenidos en el sistema.
-
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
-
-438.- Al que destruya datos contenidos en un sistema informático o electrónico, a través de la introducción de algún virus; se le impondrá de cinco a diez años de prisión y multa de quinientas a mil veces la unidad de medida y actualización vigente.
-
-Si el activo es el fabricante del mismo, se le aumentará la pena en dos terceras partes de la mínima y máxima establecidas en el párrafo anterior.
-
-Para los efectos de este artículo se entiende por virus, el software malicioso que, una vez instalado en una computadora puede destruir los datos almacenados.
-
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
-
-439.- En caso de concurso de delitos se estará a lo dispuesto por los Artículos 68 y 69 de este Código.
-
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
-
-440.- Las penas previstas en los artículos de este Título, se duplicarán:
-
-I. Cuando las conductas delictivas se ejecuten contra sistemas, equipos u otros dispositivos informáticos o electrónicos del Estado o Municipios;
-
-II. Cuando las conductas delictivas sean realizadas por persona o personas que hayan sido autorizadas para acceder a sus sistemas, equipos u otros dispositivos informáticos o electrónicos, por el Estado o Municipio, siendo cualquiera de estos, el pasivo;
-
-III. Cuando los datos o información contenida en un sistema informático o electrónico, se refieran a datos personales o datos personales sensibles, en términos de lo dispuesto por la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2022)</small>
 
 ## TITULO VIGESIMO QUINTO. Delitos contra la Libertad de Expresión
 
@@ -5334,6 +5310,60 @@ El conocimiento de la actividad delictiva y la existencia de la misma se acredit
 ## TITULO VIGESIMO SEPTIMO.
 
 > <small>(ADICIONADO LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2020)</small>
+
+### CAPITULO UNICO.. DELITOS CONTRA LA SEGURIDAD INFORMÁTICA Y ELECTRÓNICA
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+434.- Comete el delito de defraudación informática y se le impondrán de cuatro meses a cuatro años de prisión y multa de setenta a ciento veinte veces el valor diario de la unidad de medida y actualización vigente, a quien:
+
+I. Sin autorización, altere, modifique, borre, destruya o disponga de datos o información contenida en un sistema informático o electrónico ajeno.
+
+II. Transmita a una o más personas o divulgue, por cualquier medio, datos o información contenida en un sistema informático o electrónico, sin el consentimiento de quien tenga derecho a disponer de los mismos.
+
+Si el que cometiere cualquiera de las conductas establecidas en este artículo, fuere administrador de la red, las penas se aumentarán en una cuarta parte de su mínimo y su máximo.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+435.- Comente el delito de intrusión informática, el que intercepte, interfiera o acceda a la información contenida en un sistema informático o electrónico, sin derecho y sin autorización de quien debe darlo; a quien cometa este delito se le impondrá la pena de uno a tres años de prisión y multa de cien a ciento treinta veces el valor diario de la unidad de medida y actualización vigente.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+436.- En los supuestos del artículo anterior, si existiere respaldo o copia de los datos o información interceptados o a los que se accedió, sólo se impondrá al actor, de dos meses a dos años de prisión y multa de quinientos a mil veces la unidad de medida y actualización vigente; quedando éste obligado, en su caso, a entregar a la víctima u ofendidos, el medio electrónico en que hubiere guardado la información obtenida, o a borrar la información ilegalmente obtenida.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+437.- Al que diseñe, programe, fabrique, introduzca, importe, exporte, comercialice o distribuya programas de cómputo, dispositivos o mecanismos electrónicos, aparatos, sistemas, códigos de acceso o cualquier dispositivo físico, que tenga por objeto violar uno o más mecanismos de seguridad de equipos informáticos, se le impondrán de seis meses a cuatro años de prisión y de doscientos (sic) a quinientas veces la unidad de medida y actualización vigente.
+
+La pena se aumentará hasta en una cuarta parte de su mínimo y de su máximo, si como consecuencia, se afectaran los datos contenidos en el sistema.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+438.- Al que destruya datos contenidos en un sistema informático o electrónico, a través de la introducción de algún virus; se le impondrá de cinco a diez años de prisión y multa de quinientas a mil veces la unidad de medida y actualización vigente.
+
+Si el activo es el fabricante del mismo, se le aumentará la pena en dos terceras partes de la mínima y máxima establecidas en el párrafo anterior.
+
+Para los efectos de este artículo se entiende por virus, el software malicioso que, una vez instalado en una computadora puede destruir los datos almacenados.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+439.- En caso de concurso de delitos se estará a lo dispuesto por los Artículos 68 y 69 de este Código.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
+
+440.- Las penas previstas en los artículos de este Título, se duplicarán:
+
+I. Cuando las conductas delictivas se ejecuten contra sistemas, equipos u otros dispositivos informáticos o electrónicos del Estado o Municipios;
+
+II. Cuando las conductas delictivas sean realizadas por persona o personas que hayan sido autorizadas para acceder a sus sistemas, equipos u otros dispositivos informáticos o electrónicos, por el Estado o Municipio, siendo cualquiera de estos, el pasivo;
+
+III. Cuando los datos o información contenida en un sistema informático o electrónico, se refieran a datos personales o datos personales sensibles, en términos de lo dispuesto por la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+## TITULO VIGESIMO OCTAVO. DELITOS CONTRA EL AMBIENTE
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2022)</small>
 
 ### CAPITULO UNICO
 
@@ -5521,9 +5551,9 @@ El juez tomará en cuenta para la determinación del daño causado en materia am
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2023)</small>
 
-## TITULO VIGESIMO OCTAVO. DELITOS CONTRA EL AMBIENTE
+## TITULO VIGESIMO NOVENO. Delitos contra la libertad reproductiva
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2022)</small>
+> <small>(ADICIONADO LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2023)</small>
 
 ### CAPITULO UNICO. La esterilización forzada, procreación asistida e inseminación artificial sin consentimiento
 
@@ -5566,10 +5596,6 @@ III. En el supuesto de que el delito se realice con violencia física o moral o 
 Cuando la víctima sea mayor de edad el delito se perseguirá por querella.
 
 ARTICULOS TRANSITORIOS:
-
-## TITULO VIGESIMO NOVENO. Delitos contra la libertad reproductiva
-
-> <small>(ADICIONADO LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2023)</small>
 
 ###### ARTICULO 1o.
 
@@ -6842,5 +6868,15 @@ P.O. 23 DE MAYO DE 2026.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 25 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1317.- MEDIANTE EL CUAL ADICIONA EL CAPÍTULO II BIS DENOMINADO CORRUPCIÓN INMOBILIARIA, ASÍ COMO LOS ARTÍCULOS 208 TER Y 208 QUÁTER AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su Publicación.
 
 TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
