@@ -4,7 +4,7 @@ identifier: "VER-estatuto-de-relaciones-laborales-del-organismo-publico-158414"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-11-14"
-last_updated: "2024-12-23"
+last_updated: "2026-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "VER"
 ---
 # ESTATUTO DE RELACIONES LABORALES DEL ORGANISMO PUBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ
 
-> <small>[N. DE E. EL ACUERDO OPLEV/CG272/2024, EXPEDIDO POR EL CONSEJO GENERAL DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 23 DE DICIEMBRE DE 2024, MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+[NOTA 1: EL ACUERDO OPLEV/CG272/2024, EXPEDIDO POR EL CONSEJO GENERAL DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 23 DE DICIEMBRE DE 2024, MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]
+
+[NOTA 2: DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO OPLEV/CG135/2026 DEL CONSEJO GENERAL DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 27 DE JULIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 ESTATUTO DE RELACIONES LABORALES DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PÚBLICADA EN LA GACETA OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PÚBLICADA EN LA GACETA OFICIAL: 27 DE JULIO DE 2026 (ABROGADO).
 
 Estatuto publicado en el Número Extraordinario 456 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 14 de noviembre de 2019.
 
@@ -2524,3 +2526,27 @@ CUARTO. Los padres trabajadores que se encuentren disfrutando del permiso de qui
 QUINTO. Publíquese la presente reforma, adición y derogación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
 
 Este Reglamento fue reformado por el Consejo General el trece de diciembre del año dos mil veinticuatro, mediante Acuerdo OPLEV/CG272/2024.
+
+G.O. 27 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ, POR EL QUE SE EXPIDE EL ESTATUTO DE RELACIONES LABORALES DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto de Relaciones Laborales del Organismo Público Local Electoral del Estado de Veracruz entrará en vigor al momento de su aprobación por el Consejo General.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan los Lineamientos para la Conciliación de Conflictos entre el personal del Organismo Público Local Electoral del Estado de Veracruz, aprobado el diez de abril de dos mil diecisiete mediante acuerdo OPLEV/CG082/2017; el Estatuto de Relaciones Laborales del Organismo Público Local Electoral de Veracruz, aprobado el treinta de octubre de dos mil diecinueve mediante acuerdo OPLEV/CG092/2019; y los Lineamientos del Organismo Público Local Electoral del Estado de Veracruz para atender e instrumentar el procedimiento en casos de Hostigamiento y/o Acoso Sexual o Laboral, aprobado el tres de noviembre de dos mil veintiuno mediante acuerdo OPLEV/CG347/2021, así como toda la normativa reglamentaria del OPLE Veracruz que contravengan al Estatuto de Relaciones Laborales del Organismo Público Local Electoral del Estado de Veracruz, que aparezcan como vigentes en el portal de Internet del OPLE Veracruz.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos de conciliación, quejas, denuncias y procedimientos laborales sancionadores iniciados con anterioridad a la entrada en vigor del presente Estatuto continuarán sustanciándose conforme a la normativa vigente al momento de su inicio.
+
+###### ARTÍCULO CUARTO.
+
+Se ordena actualizar el Protocolo para Evitar, Tratar y Prevenir el Hostigamiento y Acoso Sexual y Laboral del Organismo Público Local Electoral del Estado de Veracruz, aprobado el veintiséis de octubre de dos mil diecisiete, a fin de armonizar las disposiciones con el presente Estatuto.
+
+###### ARTICULO QUINTO.
+
+Publíquese en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
