@@ -4,7 +4,7 @@ identifier: "NAY-ley-en-materia-de-desaparicion-de-personas-para-el-estado-14392
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-28"
-last_updated: "2020-08-28"
+last_updated: "2026-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY EN MATERIA DE DESAPARICION DE PERSONAS PARA EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 27 DE JULIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2026 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el viernes 28 de agosto de 2020.
 
@@ -514,3 +516,27 @@ SÉPTIMO. La partida presupuestaria para la Comisión de Búsqueda, deberá ser 
 Dip. Heriberto Castañeda Ulloa, Presidente.- Rúbrica.- Dip. Marisol Sánchez Navarro, Secretaria.- Rúbrica.- Dip. Manuel Ramón Salcedo Osuna, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintiséis días del mes de agosto de dos mil veinte.- L.C. ANTONIO ECHEVARRÍA GARCÍA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Antonio Serrano Guzmán.- Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE NAYARIT”.]
+
+Primero. La presente Ley entrará en vigor el día de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+Segundo. Se abroga la Ley en Materia de Desaparición de Personas para el Estado de Nayarit, publicada el 28 de agosto del 2020 en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+Tercero. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Cuarto. En un plazo no mayor a sesenta días hábiles contados a partir de la entrada en vigor de la presente Ley, las autoridades competentes deberán emitir o en su caso realizar todas las armonizaciones legislativas, normativas, administrativas y tecnológicas necesarias para cumplir el objeto de esta Ley.
+
+Quinto. En un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor de la presente Ley, se deberá integrar el Sistema Estatal de Búsqueda de Personas.
+
+Sexto. En aquellas leyes, decretos, acuerdos y demás disposiciones normativas, administrativas, de planeación o programación o en cualquier otro instrumento jurídico que haga referencia a la Fiscalía Especializada en materia Personas Desaparecidas se deberá entender que se refiere a la Fiscalía Especializada en materia de Personas Desaparecidas y No Localizadas de la Fiscalía General del Estado de Nayarit.
+
+Séptimo. En un plazo no mayor a treinta días hábiles contados a partir de la entrada en vigor de la presente Ley, la Comisión Legislativa competente de este Poder Legislativo deberá emitir la convocatoria correspondiente con la cual se dará inicio al proceso de selección de las personas que se integrarán a la actual composición del Consejo Estatal Ciudadano.
+
+Octavo. Las erogaciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Estatal y cualquier otro ente público en el ámbito de sus competencias, para dar cumplimiento a lo dispuesto en la presente Ley, deberán cubrirse con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal.
+
+En lo que respuesta (sic) al ejercicio fiscal 2027 y subsecuentes, se deberán realizar las consecuentes planeaciones y proyecciones presupuestales de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit y demás disposiciones aplicables.
