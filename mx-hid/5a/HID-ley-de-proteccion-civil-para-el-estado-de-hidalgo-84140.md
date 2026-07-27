@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-84140"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2026-05-07"
+last_updated: "2026-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -231,7 +231,9 @@ VI. El establecimiento de un sistema de certificación de competencias, que gara
 
 VII. El conocimiento y la adaptación al cambio climático, y en general a las consecuencias y afectos del calentamiento global provocados por el ser humano y la aplicación de las tecnologías,
 
-VIII. La atención prioritaria para la población vulnerable.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2026)</small>
+
+VIII. La atención prioritaria y diferenciada de la población en situación de vulnerabilidad, preferentemente de las personas con discapacidad y de las personas adultas mayores, garantizando su protección previamente, durante y posterior a emergencias o desastres.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
 
@@ -1450,3 +1452,11 @@ P.O. 7 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 632 - LXVI POR EL QUE SE REFORMA EL ARTÍCULO 7 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE HIDALGO EN MATERIA DE PRIORIZACIÓN DE RIESGOS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 669 - LXVI POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 3 BIS DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Las autoridades estatales y municipales competentes en materia de protección civil deberán, en el ámbito de sus atribuciones, adecuar progresivamente sus programas, protocolos y acciones de protección civil para dar cumplimiento a lo dispuesto en el presente Decreto, conforme a su disponibilidad presupuestaria.
