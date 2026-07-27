@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2026-07-08"
+last_updated: "2026-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -454,6 +454,10 @@ V.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2021)
 ###### ARTÍCULO 10.
 
 La violencia laboral, es toda acción u omisión efectuada por quien ejerce jerarquía encaminada a impedir ilegalmente la contratación, limitar, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, con independencia de la discriminación de género, dentro de los que se encuentra la exigencia y presentación de certificados médicos de no embarazo; preferencia sexual, las amenazas, la intimidación, y la explotación laboral, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la Ley, que afecte la permanencia, reconocimiento, salario y prestaciones de las mujeres en los espacios productivos públicos o privados.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2026)</small>
+
+Esta clase de violencia también se puede presentar entre personas que ocupen un nivel jerárquico similar, o bien, de una persona con un nivel subalterno hacia su superior jerárquico. Los tipos de violencia señalados en este artículo pueden suscitarse tanto en el centro de trabajo como fuera de éste, siempre y cuando exista una relación laboral y la conducta sea motivada por razones de género.
 
 ###### ARTÍCULO 11.
 
@@ -2618,3 +2622,9 @@ P.O. 8 DE JULIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 400 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE INDICADORES DE MEDICIÓN Y MECANISMOS DE EVALUACIÓN”.]
 
 ÚNICO. El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 663 – LXVI POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 10 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE VIOLENCIA LABORAL HORIZONTAL Y ASCENDENTE".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
