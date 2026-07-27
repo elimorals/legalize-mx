@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2026-07-08"
+last_updated: "2026-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -1925,15 +1925,23 @@ Todo lo relacionado con los predios o establecimientos, la forma en que otras au
 
 #### SECCION SEGUNDA. DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2026)</small>
 
 ###### Artículo 124.
 
-Todo usuario, tanto del sector público como del sector social o privado, está obligado al pago de los servicios públicos relacionados con el agua que se le presten, con base en las cuotas y tarifas fijadas en la Ley. Las personas adultas mayores, con discapacidad y/o jubiladas, que acrediten con estudio socioeconómico y demás elementos que fehacientemente y a satisfacción de los prestadores del servicio, no tener otros ingresos o depender económicamente de otra u otras personas, se les aplicará el subsidio correspondiente en la tarifa de servicio doméstico, que otorga el Estado.
+Toda persona usuaria, tanto del sector público como del sector social o privado, está obligada al pago de los servicios públicos relacionados con el agua que se le presten, con base en las cuotas y tarifas fijadas en la Ley.
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2026)</small>
 
-Para los casos de cambio de situación económica en los que el usuario deje de ser dependiente económico, se aplicará la tarifa general de acuerdo a sus consumos, eliminándose el subsidio otorgado.
+Los Organismos Operadores, Municipales e Intermunicipales otorgarán subsidios, apoyos o descuentos, exclusivamente en la tarifa de servicio doméstico, a efecto de apoyar a las personas adultas mayores, personas con discapacidad y personas jubiladas o pensionadas.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2026)</small>
+
+La concesión de estos beneficios estará sujeta a que las personas interesadas acrediten su condición, a través de cualquier documentación válida y vigente. En caso de ser necesario, los organismos operadores podrán realizar los estudios socioeconómicos pertinentes para verificar el estado de necesidad por parte de las personas solicitantes.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2026)</small>
+
+Para los casos de cambio de situación económica, se aplicará la tarifa general de acuerdo a sus consumos, eliminándose el subsidio otorgado.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
@@ -1943,9 +1951,9 @@ Las escuelas oficiales podrán gozar del beneficio del subsidio en el servicio, 
 
 Este beneficio no será aplicable a las escuelas particulares, quienes deberán pagar la tarifa de uso comercial correspondiente.
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2026)</small>
 
-A los hospitales, clínicas, y centros de salud del sector público, se aplicará el beneficio señalado en el párrafo tercero del presente artículo; quedan excluidos de este beneficio los hospitales y clínicas particulares.
+A los hospitales, clínicas, y centros de salud del sector público, se aplicará el beneficio señalado en el párrafo quinto del presente artículo; quedan excluidos de este beneficio los hospitales y clínicas particulares.
 
 ###### Artículo 125.
 
@@ -2718,3 +2726,9 @@ P.O. 8 DE JULIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 596 – LXVI POR EL QUE SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 84 QUINQUIES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO; ASÍ COMO LA FRACCIÓN V DEL ARTÍCULO 18 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 28 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO, EN MATERIA DE ESPECIES ENDÉMICAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 662 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS PÁRRAFOS DEL ARTÍCULO 124 DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO, EN MATERIA DE APOYOS Y SUBSIDIOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
