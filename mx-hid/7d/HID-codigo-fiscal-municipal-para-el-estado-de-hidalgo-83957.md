@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-para-el-estado-de-hidalgo-83957"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-11-21"
-last_updated: "2025-08-22"
+last_updated: "2026-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2026.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -78,6 +78,10 @@ Son ingresos ordinarios de los municipios: los Impuestos, derechos, aprovechamie
 Son ingresos extraordinarios: Los empréstitos, expropiaciones, impuestos y derechos extraordinarios, aportaciones para obras de beneficencia social, apoyos financieros federales, estatales, gastos de operación y otras aportaciones.
 
 Ninguna contribución podrá recaudarse si no está establecida en ley.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2026)</small>
+
+Todos los ingresos municipales, cualquiera que sea su origen o naturaleza, incluyendo aquellos que se perciban mediante la modalidad de pagos en especie, deberán registrarse por la Tesorería Municipal y formar parte de la cuenta pública que corresponda, de conformidad con la legislación y normatividad aplicable.
 
 ###### ARTÍCULO 4.
 
@@ -325,6 +329,10 @@ La Ley de Ingresos del Ayuntamiento, será publicada en el Periódico Oficial de
 
 La falta de oportunidad o de presentación de los proyectos al Congreso del Estado o de su publicación dará lugar a que sigan vigentes los del año inmediato anterior, para lo cual la legislatura hará la declaración correspondiente.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2026)</small>
+
+Ante tal omisión, se estará a lo dispuesto por la legislación en la materia correspondiente.
+
 ### CAPÍTULO TERCERO. DE LAS CUENTAS DEL MUNICIPIO
 
 ###### ARTÍCULO 34.
@@ -339,9 +347,11 @@ El Tesorero Municipal debe practicar el corte diario de caja, en dicho acto, deb
 
 El Tesorero Municipal deberá practicar un corte de caja mensual del cual se sacarán tres copias, de las cuales se remitirán originales y copia al Ayuntamiento, éste turnará desde luego ambos ejemplares a su Comisión de Hacienda, la que hará la revisión preventiva, comunicando oportunamente al Tesorero Municipal, para que en su caso, hagan las correcciones y reintegros que procedan. La Comisión de Hacienda devolverá el corte de caja que contengan los originales de los comprobantes a la Tesorería y se reservará la copia para el archivo del ayuntamiento, siendo obligatorio dar publicidad por cualquier medio local y en su página de internet correspondiente, al corte de caja.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 37.
 
-El Ayuntamiento presentará al Congreso del Estado por conducto de la Auditoría Superior a más tardar el 31 de marzo de cada año la Cuenta Pública del año anterior, con excepción a la correspondiente al cuarto año de ejercicio, que deberá presentar a más tardar el 15 de octubre.
+El Ayuntamiento presentará al Congreso del Estado por conducto de la Auditoría Superior a más tardar el 30 de abril de cada año la Cuenta Pública del año anterior.
 
 ###### ARTÍCULO 38.
 
@@ -355,9 +365,11 @@ En todo caso deberán atenderse los criterios, normas, procedimientos, métodos 
 
 La revisión de la Cuenta Pública de los ayuntamientos por parte del Congreso, se concluirá el 31 de octubre del año siguiente al de su presentación con base en las conclusiones técnicas del informe del resultado de la revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado siga su curso.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 41.
 
-La remisión de la Cuenta Pública Municipal se hará de conformidad con los requisitos y lineamentos que para tal efecto establezca la Auditoría Superior del Estado.
+La remisión de la Cuenta Pública Municipal se hará de conformidad con los criterios, métodos, lineamientos y sistemas que para tal efecto establezca la Auditoría Superior del Estado.
 
 ###### ARTÍCULO 42.
 
@@ -547,7 +559,9 @@ I.- No deberá exceder de los plazos previsto en el Artículo 58 de este Código
 
 II.- Será previa garantía del interés fiscal en términos de lo dispuesto por el Artículo 178 de este Código;
 
-III.- Tratándose de pago en parcialidades, el interesado deberá cubrir cuando menos el 30% del total del crédito, como pago inicial;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2026)</small>
+
+III.- Tratándose de pago en parcialidades, el interesado deberá cubrir cuando menos el 20% del total del crédito, como pago inicial;
 
 IV.- El sujeto pasivo deberá solicitar por escrito a la Tesorería Municipal, la autorización para efectuar el pago diferido o en parcialidades; dicho escrito deberá contener por lo menos los siguientes datos: el nombre, denominación o razón social, en su caso el nombre del representante legal, domicilio fiscal dentro del territorio del Municipio para oír y recibir notificaciones, el número de registro en el padrón Municipal de contribuyentes, clave en el Registro Federal de Contribuyentes y el monto e integración del crédito fiscal motivo de la solicitud;
 
@@ -565,15 +579,27 @@ II.- El sujeto pasivo cambie de domicilio fiscal, sin dar aviso de dicho cambio 
 
 III.- Cuando el deudor sea declarado en estado de quiebra, concurso, suspensión de pagos o solicite su liquidación judicial; y
 
-IV.- Por falta de pago oportuno de 2 o más parcialidades.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2026)</small>
+
+IV.- Por falta de pago oportuno de 2 o más parcialidades, o en su caso en la última; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2026)</small>
+
+V.- Tratándose del pago diferido, se venza el plazo para realizar el pago y este no se efectúe.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2026)</small>
+
+En los supuestos señalados en las fracciones anteriores, las autoridades fiscales requerirán y harán exigible el saldo mediante el procedimiento administrativo de ejecución.
 
 ###### ARTÍCULO 63.
 
 Durante el transcurso de las prórrogas o del pago en parcialidades, cuando no se paguen oportunamente los montos de los pagos en la fecha de su vencimiento, el contribuyente estará obligado a pagar intereses moratorios de acuerdo con lo que anualmente disponga la Ley de Ingresos del Municipio correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 64.
 
-El pago de los créditos fiscales, deberá hacerse en efectivo a través de las formas autorizadas por la Tesorería Municipal; ante las instituciones bancarias que determine la Tesorería Municipal vía internet, transferencias electrónicas, giros postales, telegráficos o bancarios, así como por cheques certificados que se presenten en dichas instituciones los cuales se admitirán como efectivo.
+El pago de los créditos fiscales, deberá hacerse en efectivo a través de las formas y formatos autorizados por la Tesorería Municipal; ante las instituciones bancarias que determine la Tesorería Municipal vía internet, transferencias electrónicas, giros postales, telegráficos o bancarios, así como por cheques certificados que se presenten en dichas instituciones los cuales se admitirán como efectivo.
 
 En los casos de notoria insolvencia de los deudores, para el pago de créditos fiscales, podrá admitirse su liquidación en especie vía dación en pago, previo el avalúo correspondiente con la autorización de la dependencia competente de la Tesorería Municipal.
 
@@ -809,6 +835,22 @@ La falta de pago total o parcial de un crédito fiscal, o el pago de tales grav�
 
 Los sujetos interesados, directamente, en situaciones reales y concretas que planteen consultas por escrito, tendrán derecho a que las autoridades fiscales dicten resolución conforme a lo establecido en este capítulo.
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JULIO DE 2026)</small>
+
+Para efectos del párrafo anterior, las consultas deberán cumplir con lo siguiente:
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2026)</small>
+
+I.- Que la consulta comprenda los antecedentes y circunstancias necesarias para que la autoridad se pueda pronunciar al respecto.
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2026)</small>
+
+II.- Que los antecedentes y circunstancias que originen la consulta no se hubieren modificado posteriormente a su presentación ante la autoridad.
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2026)</small>
+
+III.- Que la consulta se formule antes de que la autoridad ejerza sus facultades de comprobación respecto de las situaciones reales y concretas a que se refiere la consulta.
+
 Las consultas relativas a la interpretación general, abstracta, hipotética o impersonal de las leyes fiscales, no serán motivo de resolución por parte de las autoridades fiscales.
 
 ###### ARTÍCULO 88.
@@ -825,13 +867,21 @@ Los particulares o sus representantes podrán autorizar por escrito a personas q
 
 Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presente la promoción inicial.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2026)</small>
+
+ARTÍCULO 89 BIS.- Los contribuyentes tendrán derecho a recibir orientación y asistencia gratuita, por parte de la autoridad fiscal municipal para el cumplimiento de sus obligaciones fiscales.
+
 ###### ARTÍCULO 90.
 
 Son obligaciones de los contribuyentes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2026)</small>
 
-I.- Inscribirse en el padrón municipal de contribuyentes que corresponda, en un término que no exceda de un mes, a partir de que inicien operaciones o que se actualice el supuesto jurídico o de hecho que lo motive; así como presentar su constancia de situación fiscal en el Registro Federal de Contribuyentes;
+I.- Inscribirse en el padrón municipal de contribuyentes que corresponda, en un término que no exceda de un mes, a partir de que inicien operaciones o que se actualice el supuesto jurídico o de hecho que lo motive; así como proporcionar la información relacionada con su identidad, su domicilio, su actividad preponderante y su constancia de situación fiscal en el Registro Federal de Contribuyentes;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2026)</small>
+
+I bis.- Utilizar los formatos oficiales autorizados por la Tesorería Municipal para el cumplimiento de sus obligaciones fiscales, los cuales deberán ser publicados de manera oficial para su debida observancia.
 
 II.- Declarar y pagar los créditos fiscales a su cargo en los términos que dispongan las leyes fiscales;
 
@@ -2559,9 +2609,17 @@ XI.- Los sueldos y salarios del deudor o de sus familiares;
 
 XII.- Las pensiones alimenticias;
 
-XIII.- Las pensiones civiles y militares concedidas por los organismos de seguridad social; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2026)</small>
 
-XIV.- Los ejidos.
+XIII.- Las pensiones civiles y militares concedidas por los organismos de seguridad social;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2026)</small>
+
+XIV.- Los ejidos; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2026)</small>
+
+XV.- Los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro, incluidas las aportaciones voluntarias y complementarias, conforme a lo establecido en la Ley de los Sistemas de Ahorro para el Retiro.
 
 ###### ARTÍCULO 195.
 
@@ -3424,3 +3482,11 @@ P.O. 22 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO Y EL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PRESENTACIÓN DE INICIATIVAS DE LEYES DE INGRESOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 666 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE RECAUDACIÓN E INGRESOS MUNICIPALES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente Decreto.
