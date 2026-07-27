@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2025-05-15"
+last_updated: "2026-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -1903,25 +1903,25 @@ Capítulo Decimoctavo
 
 Del Órgano Interno de Control
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2026)</small>
 
 ###### Art. 141.
 
-El Órgano Interno de Control del Congreso, es el órgano de apoyo que tiene a su cargo ejercer, dentro del ámbito del Poder Legislativo del Estado, las atribuciones que la legislación en materia de responsabilidades administrativas confiere a los órganos internos de control, así como las que establecen la legislación en materia de obras públicas y de adquisiciones, arrendamientos y prestación de servicios en bienes muebles y, la Ley que Regula los Procedimientos de Entrega-Recepción del Estado de Campeche y sus Municipios. Dentro de sus funciones se encontrará la de revisar la aplicación de los recursos que se otorguen a los grupos parlamentarios así como a los diputados que no estén integrados a alguno de esos grupos.
+El Órgano Interno de Control del Congreso, es el órgano de apoyo que tiene a su cargo ejercer, dentro del ámbito del Poder Legislativo del Estado, las atribuciones que la legislación en materia de responsabilidades administrativas confiere a los órganos internos de control, así como las que establecen la legislación en materia de obras públicas y de adquisiciones, arrendamientos y prestación de servicios en bienes muebles, la Ley que Regula los Procedimientos de Entrega-Recepción del Estado de Campeche y sus Municipios y las disposiciones aplicables en materia de transparencia, acceso a la información pública y protección de datos personales, en lo relativo a la vigilancia del cumplimiento de dichas obligaciones por parte de las áreas administrativas del Congreso y de la Auditoría Superior del Estado. Dentro de sus funciones se encontrará la de revisar la aplicación de los recursos que se otorguen a los grupos parlamentarios, así como a los diputados que no estén integrados a alguno de esos grupos.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2026)</small>
 
 ###### Art. 142.
 
 El Órgano Interno de Control del Congreso, se integrará con:
 
-I. Un Contralor;
+I. La Oficina del Titular del Órgano Interno de Control;
 
-II. Un Director de Normatividad y Control;
+II. La Dirección de Normatividad y Control;
 
-III. Un Director de Auditoría; y
+III. La Dirección de Auditoría; y
 
-IV. El demás personal técnico y administrativo que requiera el Órgano Interno de Control para su funcionamiento y que permita la correspondiente previsión presupuestal, conforme a lo que se disponga en los Manuales de Organización y de Procedimientos del Órgano Interno de Control, cuya elaboración corresponderá a su titular y su aprobación a la Comisión de Enlace en Materia de Control Interno.
+IV. El demás personal técnico y administrativo que requiera el Órgano Interno de Control para su funcionamiento y que permita la correspondiente previsión presupuestal, conforme a la estructura orgánica que se disponga en su Reglamento Interior.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
 
@@ -2013,6 +2013,14 @@ XXIII. Recibir y resguardar las declaraciones de situación patrimonial y de int
 
 XXIV. Intervenir en los procesos de entrega recepción por inicio o conclusión de encargo de los servidores públicos que corresponda;
 
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2026)</small>
+
+XXIV Bis. Constituirse, en el ámbito del Poder Legislativo del Estado, integrado por el H. Congreso del Estado y la Auditoría Superior del Estado de Campeche, como autoridad garante en materia de transparencia, acceso a la información pública y protección de datos personales, garantizando el ejercicio de estos derechos conforme a los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad, eficacia, objetividad, profesionalismo, máxima publicidad, transparencia, accesibilidad y protección de datos personales previstos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Campeche y la legislación aplicable.
+
+Para el ejercicio de estas atribuciones, conocerá y resolverá los procedimientos, recursos, verificaciones y demás actuaciones que le correspondan conforme a la legislación en la materia, respecto de las unidades administrativas del H. Congreso del Estado y de la Auditoría Superior del Estado de Campeche.
+
+El Órgano Interno de Control ejercerá las atribuciones previstas en esta fracción conforme a la organización, procedimientos y competencias establecidos en la legislación en materia de transparencia y protección de datos personales, esta Ley, su Reglamento y demás disposiciones normativas aplicables.
+
 XXV. Mantener una estrecha relación de colaboración y apoyo con la Auditoría Superior del Estado, y
 
 XXVI. Las demás que le otorgue esta ley, la Ley General de Responsabilidades Administrativas, la Ley General del Sistema Nacional Anticorrupción, la propia del Estado, su Reglamento Interior y las demás disposiciones legales y administrativas aplicables en la materia.
@@ -2021,9 +2029,9 @@ XXVI. Las demás que le otorgue esta ley, la Ley General de Responsabilidades Ad
 
 Art. 145 ter.- Los servidores públicos adscritos al Órgano Interno de Control del Congreso, deberán apegarse a los principios de legalidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso, así como guardar estricta reserva sobre la información y documentación que conozcan con motivo del desempeño de sus atribuciones, actuaciones y observaciones.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2026)</small>
 
-Art. 145 quáter.- Las áreas del Congreso estarán obligadas a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de sus funciones o atribuciones legales.
+Art. 145 quáter.- Las áreas del Congreso estarán obligadas a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control, sin que dicha revisión interfiera u obstaculice el ejercicio de sus funciones o atribuciones legales, incluyendo aquella información necesaria para verificar el cumplimiento de las obligaciones en materia de transparencia, acceso a la información pública y protección de datos personales, para este último supuesto también estará obligada la Auditoría Superior del Estado.
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
 
@@ -2514,3 +2522,11 @@ P.O. 15 DE MAYO DE 2025.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 27 DE JULIO DE 2026
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 263 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 141, 142, 145 QUATER Y SE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 145 BIS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
