@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2026-07-08"
+last_updated: "2026-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -97,11 +97,11 @@ XI.- Promover las medidas preventivas necesarias para erradicar la violencia, as
 
 Objeto que tienen (sic) el propósito de coadyuvar en la formación y desarrollo integral de las y de los habitantes del Estado de Hidalgo, en las actividades relacionadas con la cultura física, el deporte y la recreación.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2026)</small>
 
 ###### Artículo 2.
 
-La función del deporte, es la de fortalecer la interacción de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas y fomentar la solidaridad y respeto como normas del deporte.
+La función del deporte es fortalecer la interacción de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas y fomentar la solidaridad y respeto como normas del deporte; reconociéndose además como un medio para fomentar la activación física regular y la prevención de enfermedades, orientada a preservar la salud de la población y el mejoramiento de la calidad de vida.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
 
@@ -1970,5 +1970,11 @@ P.O. 29 DE DICIEMBRE DE 2025.
 P.O. 8 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 581 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE PERSPECTIVA DE GÉNERO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 672 – LXVI POR EL CUAL SE REFORMA EL ARTÍCULO 2 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN DE LA ACTIVACIÓN FÍSICA REGULAR”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
