@@ -4,7 +4,7 @@ identifier: "HID-ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad-143820
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-17"
-last_updated: "2026-04-21"
+last_updated: "2026-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2026.
 
 Decreto publicado en el Alcance Núm. 33 del Periódico Oficial del Estado de Hidalgo, el lunes 17 de agosto de 2020.
 
@@ -409,13 +409,17 @@ X.- Desarrollar mecanismos de comunicación gratuitos que faciliten la gestión 
 
 XI.- Promover el acceso a los programas de desarrollo humano, social y económico, así como servicios para los migrantes hidalguenses;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2026)</small>
 
-XII.- Incluir en el Plan Estatal de Desarrollo y promover que, en los planes municipales de desarrollo, se considere a migrantes hidalguenses y sus familiares como agentes de cambio para el desarrollo de sus comunidades de origen; y
+XII.- Incluir en el Plan Estatal de Desarrollo y promover que, en los planes municipales de desarrollo, se considere a migrantes hidalguenses y sus familiares como agentes de cambio para el desarrollo de sus comunidades de origen;
 
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2026)</small>
 
-XIII.- En el caso de la migración en contexto de movilidad, establecer los mecanismos para la prevención de la violencia en contra de las personas migrantes.
+XIII.- En el caso de la migración en contexto de movilidad, establecer los mecanismos para la prevención de la violencia en contra de las personas migrantes; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2026)</small>
+
+XIV.- Diseñar e implementar, en el ámbito de sus atribuciones y conforme a la disponibilidad presupuestaria, mecanismos y protocolos de atención, orientación, canalización y acompañamiento institucional con perspectiva de género, enfoque diferenciado, intercultural y de derechos humanos, dirigidos a mujeres migrantes en contexto de movilidad que se encuentren en situación de riesgo, violencia o vulnerabilidad; coordinando las acciones que resulten procedentes con las autoridades competentes, el Centro de Justicia para Mujeres del Estado de Hidalgo y las instituciones públicas, sociales o privadas especializadas en atención, protección o refugio.
 
 ###### Artículo 7.
 
@@ -870,3 +874,11 @@ P.O. 21 DE ABRIL DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. La Secretaría de Bienestar e Inclusión Social, de manera progresiva y atendiendo a la suficiencia presupuestal, emitirá las adecuaciones normativas y operativas para dar cumplimiento al presente Decreto.
+
+P.O. 27 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 670 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 6 DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, EN MATERIA DE ATENCIÓN INTEGRAL A MUJERES MIGRANTES CON PERSPECTIVA DE GÉNERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Poder Ejecutivo del Estado realizará las acciones administrativas, normativas y de coordinación necesarias para la implementación del presente Decreto, conforme a la disponibilidad presupuestaria, sin que ello implique autorización de recursos adicionales para tales efectos.
