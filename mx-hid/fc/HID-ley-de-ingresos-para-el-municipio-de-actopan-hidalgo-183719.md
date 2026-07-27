@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-para-el-municipio-de-actopan-hidalgo-183719"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-31"
-last_updated: "2025-12-31"
+last_updated: "2026-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=183719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE INGRESOS PARA EL MUNICIPIO DE ACTOPAN, HIDALGO, CORRESPONDIENTE AL EJERCICIO FISCAL 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2026.
 
 Ley publicada en el Alcance Cinco al Número 52 del Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2025.
 
