@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2026-06-16"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -531,15 +531,21 @@ IX.- En caso de distinguirse como atletas de alto rendimiento, de acuerdo a los 
 
 Son obligaciones de la y el deportista:
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-I.- Ser un ejemplo para la niñez, las juventudes y la sociedad;
+I.- Conducirse con respeto y juego limpio en la práctica deportiva, procurando ser ejemplo para la niñez, las juventudes y la sociedad en general;
 
-II.- Cumplir cabalmente con los estatutos y reglamentos de su deporte o especialidad;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-III.- Asistir a competencias de distintos niveles cuando sea requerido;
+II.- Cumplir con los estatutos, reglamentos y demás disposiciones aplicables a su deporte o especialidad;
 
-IV.- Comunicar inmediatamente por escrito al órgano rector en materia deportiva en el Estado, cuando tengan interés en formar parte de organizaciones o clubes deportivos profesionales;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+III.- Asistir y participar en las competencias, entrenamientos o concentraciones para las que sean convocados por las autoridades u organizaciones deportivas correspondientes;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+IV.- Comunicar por escrito al órgano rector en materia deportiva en el Estado, cuando pretendan incorporarse a organizaciones o clubes deportivos profesionales;
 
 V.- Representar dignamente a su Municipio, al Estado y al País en el evento al que se le haya convocado;
 
@@ -547,9 +553,21 @@ VI.- Asistir a reuniones, recibir premios o estímulos, cuando sea convocado par
 
 VII.- Cuidar y vigilar que las instalaciones en que practiquen su deporte, se conserven dignamente;
 
-VIII.- Fomentar el deporte entre sus compañeros y en el grupo social a que pertenezca; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-IX.- Las que sean señaladas en la presente Ley y demás ordenamientos legales vigentes.
+VIII.- Fomentar la práctica del deporte, la activación física y la convivencia respetuosa entre sus compañeros y en su comunidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2026)</small>
+
+IX.- Participar en programas de prevención del dopaje, orientación y promoción del juego limpio que implementen las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+X.- Someterse, conforme a la normatividad aplicable, a los controles y pruebas antidopaje que determinen las autoridades competentes en materia deportiva, con respeto a su dignidad, privacidad, integridad física y derechos humanos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2026)</small>
+
+XI.- Las que sean señaladas en la presente Ley y demás ordenamientos legales vigentes.
 
 ### CAPITULO III. DEL FOMENTO Y ESTIMULOS AL DEPORTE
 
@@ -902,5 +920,13 @@ P.O. 16 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VII, XII Y XIII DEL ARTÍCULO 18, LAS FRACCIONES VII Y VIII DEL 27, Y EL 39; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 18, TODOS DE LA LEY ESTATAL DEL DEPORTE".]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I, II, III, IV, VIII Y IX DEL ARTÍCULO 28; Y ADICIONA LAS FRACCIONES X Y XI AL ARTÍCULO 28; TODAS DE LA LEY ESTATAL DEL DEPORTE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
