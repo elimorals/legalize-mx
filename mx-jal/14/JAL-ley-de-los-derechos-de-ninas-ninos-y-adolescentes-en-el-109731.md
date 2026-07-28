@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2025-11-25"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -537,9 +537,9 @@ IV. La capacitación y sensibilización a las personas servidoras públicas corr
 
 V. Dar respuesta a la información requerida por el Sistema Estatal de Protección en un plazo máximo (sic) 10 días hábiles; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-VI. Establecer medidas tendientes a favorecer la salud mental de niñas, niños y adolescentes.
+VI. Establecer medidas integrales, con enfoque de derechos, perspectiva de desarrollo integral y sensibilidad psicosocial, orientadas a proteger y fortalecer la salud mental de niñas, niños y adolescentes, mediante acciones preventivas, comunitarias, psicoeducativas y acompañamiento emocional y promoción del bienestar mental en los entornos escolares, familiares y comunitarios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2023)</small>
 
@@ -2366,5 +2366,11 @@ P.O. 21 DE OCTUBRE DE 2025.
 P.O. 25 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29867/LXIV/25 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ATENCIÓN A VÍCTIMAS, DE LA LEY DE DESARROLLO SOCIAL, DEL CÓDIGO DE ASISTENCIA SOCIAL Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30209/LXIV/26 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 37 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
