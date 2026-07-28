@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2026-01-13"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
@@ -247,7 +247,11 @@ Las sesiones del Pleno y de la Diputación Permanente, así como de las Comision
 
 El público asistente deberá guardar el debido orden y deberá abstenerse de tomar parte en los debates y realizar cualquier tipo de denostación. En caso de contravenir ésta disposición, el Presidente respectivo, estará facultado para ordenar el retiro del lugar y en su caso, con el apoyo de la fuerza pública, ordenar la detención y consignación de los responsables cuando los hechos sean constitutivos de un delito.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 10.
+
+El Congreso del Estado deberá observar lo previsto en el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos respecto al límite del porcentaje anual para su presupuesto de egresos.
 
 El Poder Legislativo tendrá plena autonomía para el ejercicio de su presupuesto de egresos, mismo que será suficiente para el adecuado desarrollo de sus atribuciones y para organizarse administrativamente, con apego a lo dispuesto en la Constitución Política del Estado de Yucatán, en esta Ley y demás disposiciones reglamentarias aplicables.
 
@@ -2196,3 +2200,25 @@ Artículo segundo. Los asuntos a los que alude el presente decreto que estén en
 Derogación expresa
 
 Artículo tercero. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+D.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 216/2026 POR EL QUE SE MODIFICAN LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN; LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN; LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN; Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN; ASÍ COMO EL DECRETO 169/2026 POR EL QUE SE DETERMINA EL NÚMERO DE REGIDURÍAS QUE INTEGRARÁN LOS 106 AYUNTAMIENTOS DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, PARA EL EJERCICIO CONSTITUCIONAL 2027-2030, EN MATERIA DE CONFORMACIÓN DE CABILDOS, AUSTERIDAD PRESUPUESTAL LEGISLATIVA, CERO PRIVILEGIOS DE LAS Y LOS SERVIDORES PÚBLICOS Y NULIDAD POR INTERVENCIÓN EXTRANJERA".]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Ajuste de remuneraciones de las y los servidores públicos
+
+Artículo segundo. Los poderes públicos locales, los gobiernos municipales y los organismos constitucionales autónomos en la entidad deberán realizar los ajustes presupuestales necesarios para, si fuera el caso, ajustar las percepciones de sus servidoras y servidores públicos a lo ordenado en el presente decreto.
+
+Presupuesto del Poder Legislativo del Estado
+
+Artículo tercero. El Congreso del Estado de Yucatán, para los efectos de la elaboración de su proyecto de presupuesto para el ejercicio fiscal correspondiente al 2027, deberá considerar el presupuesto de egresos aprobado para el Gobierno del Estado del presente año 2026 como parámetro para su cálculo a fin de observar el tope de (sic) máximo de presupuestación con base al índice inflacionario, sin perjuicio de lo previsto en el artículo transitorio octavo por la que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la reforma a la Constitución Política de los Estados Unidos Mexicanos.
+
+En la presupuestación anterior se entenderá comprendido el presupuesto para la Auditoría Superior del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo cuarto. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
