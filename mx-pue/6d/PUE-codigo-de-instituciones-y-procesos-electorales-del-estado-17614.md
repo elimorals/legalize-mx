@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2026-03-15"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:15 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -505,35 +505,23 @@ Los diputados podrán ser electos de manera consecutiva, hasta por cuatro period
 
 El ejercicio del Poder Ejecutivo de la Entidad se deposita en un solo individuo que se denomina Gobernador del Estado de Puebla, el cual será electo cada seis años en forma directa, secreta, uninominal y por mayoría relativa en el territorio del Estado.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 18.
 
-Cada municipio es gobernado y administrado por un Ayuntamiento de elección popular directa, integrado por la planilla que haya obtenido el mayor número de votos, según el principio de mayoría relativa y por Regidores asignados acorde al principio de representación proporcional.
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal, una sindicatura y hasta quince regidurías, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. En ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
 
-El número de Regidores para cada Ayuntamiento se establecerá conforme a las bases siguientes:
+El número de regidurías para cada Ayuntamiento se establecerá conforme a las bases siguientes:
 
-I.- En el Municipio Capital del Estado, con dieciséis Regidores de mayoría, además del Presidente Municipal y el Síndico, así como hasta con siete Regidores asignados por el principio de representación proporcional;
+I.- En el Municipio Capital del Estado, con once regidurías de mayoría, además de un Presidente o Presidenta Municipal, una sindicatura, así como hasta con cuatro personas regidoras asignadas por el principio de representación proporcional;
 
-II.- En los municipios que con base en el último censo general de población tengan noventa mil o más habitantes, por ocho Regidores de mayoría, además del Presidente Municipal y el Síndico, así como hasta con cuatro Regidores asignados por el principio de representación proporcional;
+II.- En los municipios que con base en el último censo general de población tengan noventa mil o más habitantes, por ocho regidurías de mayoría, además de un Presidente o Presidenta Municipal, una sindicatura, así como hasta con cuatro personas regidoras asignadas por el principio de representación proporcional;
 
-III.- En los municipios que con base en el último censo general de población tengan de sesenta mil a menos de noventa mil, por ocho Regidores de mayoría, además del Presidente Municipal y el Síndico, así como hasta con tres Regidores asignados por el principio de representación proporcional; y
+III.- En los municipios que con base en el último censo general de población tengan de sesenta mil a menos de noventa mil, por ocho regidurías de mayoría, además de un Presidente o Presidenta Municipal, una sindicatura, así como hasta con tres personas regidoras asignadas por el principio de representación proporcional; y
 
-IV.- En los demás municipios, por seis Regidores de mayoría, además del Presidente Municipal y el Síndico, así como hasta con dos Regidores asignados por el principio de representación proporcional.
+IV.- En los demás municipios, por seis regidurías de mayoría, además de un Presidente o Presidenta Municipal, una sindicatura, así como hasta con dos personas regidoras asignadas por el principio de representación proporcional.
 
 Los Ayuntamientos se renovarán en su totalidad cada tres años.
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-Los cargos de presidentes municipales, regidores y síndicos, podrán ser elegidos consecutivamente por un periodo adicional.
-
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
-
-Sólo podrán ser postulados por el mismo partido o por cualquiera de los partidos integrantes de la coalición, o candidatura común que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
-
-Los suplentes que hubiesen entrado en funciones en el segundo periodo podrán reelegirse para el tercer periodo.
 
 ## TÍTULO CUARTO. DE LAS ELECCIONES
 
@@ -1751,9 +1739,13 @@ En todo tiempo los Grupos Legislativos que integren el Congreso podrán sustitui
 
 Los partidos políticos deberán acreditar a sus representantes ante el Consejo General, con los respectivos suplentes, pudiendo sustituirlos en todo momento. Por cada acreditación deberán acompañar copia de la credencial para votar respectiva.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 87.
 
-La retribución que perciban los Consejeros Electorales será igual a la prevista para los Magistrados del Tribunal Superior de Justicia.
+Las remuneraciones de las personas Consejeras Electorales, la persona titular de la Secretaría Ejecutiva y titulares de las áreas administrativas del Instituto Electoral del Estado no excederán el límite establecido en el artículo 134 de la Constitución Política del Estado Libre y Soberano de Puebla, y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
+
+La retribución que perciban las personas Consejeras Electorales no podrá ser menor a la prevista para las personas titulares de las Magistraturas Electorales.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -4167,11 +4159,11 @@ Los conflictos de carácter laboral entre el Instituto y su personal, serán res
 
 El proceso electoral deberá entenderse como el conjunto de actos ordenados por la Constitución Federal, la Constitución Local, este Código y las leyes vigentes en materia electoral, realizados por las autoridades electorales, la ciudadanía y los partidos políticos de manera corresponsable, que tiene por objeto la renovación periódica y pacífica de la integración de los Poderes Legislativo y Ejecutivo, y de las y los miembros de los Ayuntamientos de la entidad.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 186.
 
-El proceso electoral ordinario iniciará con la primera sesión del Consejo General, que debe celebrar entre los días tres y cinco del mes de noviembre del año previo a la elección y concluye con los cómputos y declaraciones de validez que realicen los Consejos del Instituto o bien con las resoluciones que, en su caso, pronuncie en última instancia el Tribunal competente.
+El proceso electoral ordinario iniciará con la primera sesión del Consejo General, que debe celebrar los primeros diez días del mes de noviembre del año previo a la elección y concluye con los cómputos y declaraciones de validez que realicen los Consejos del Instituto o bien con las resoluciones que, en su caso, pronuncie en última instancia el Tribunal competente.
 
 ###### ARTÍCULO 187.
 
@@ -4189,11 +4181,11 @@ III.- Resultados y declaraciones de validez de las elecciones.
 
 La etapa de preparación de las elecciones comprenderá todos los actos desarrollados por el Consejo General y los Consejos Distritales y Municipales, en ejercicio de las atribuciones que este Código les confiere, encaminados a la celebración de la jornada electoral.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 189.
 
-La etapa de preparación de las elecciones iniciará con la primera sesión que el Consejo General celebre entre los días tres y cinco del mes de noviembre del año previo al de la elección ordinaria y concluye al inicio de la jornada electoral.
+La etapa de preparación de las elecciones iniciará con la primera sesión que el Consejo General celebre los primeros diez días del mes de noviembre del año previo al de la elección ordinaria y concluye al inicio de la jornada electoral.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -6933,9 +6925,9 @@ En ningún caso los magistrados podrán abstenerse de votar salvo cuando tengan 
 
 En términos de la legislación federal, el Tribunal se integra con tres magistradas y magistrados, según corresponda, observando el principio de paridad y alternando el género mayoritario; actuarán en forma colegiada y permanecerán en su encargo durante siete años, electos por el voto de las dos terceras partes de la Cámara de Senadores presentes en la sesión correspondiente, previa convocatoria pública, en los términos que determine la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
-La presidencia del Tribunal deberá ser rotativa. El Presidente del Tribunal será electo por votación mayoritaria, entre sus miembros, por un periodo de dos años, en la primera sesión del pleno del año que corresponda.
+La presidencia del Tribunal deberá ser rotativa. La persona titular de la Presidencia del Tribunal será electa por votación mayoritaria, entre sus integrantes, por un periodo de tres años, en la primera sesión del Pleno del año que corresponda.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -6951,9 +6943,11 @@ Para ser Magistrado se requiere cumplir con los requisitos establecidos en la Le
 
 (DEROGADO, P.O. 22 DE AGOSTO DE 2015)
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 331.
 
-La remuneración que perciban los Magistrados durante el tiempo que duren en el ejercicio de sus funciones, será igual a la prevista para los Magistrados del Tribunal Superior de Justicia en el Estado.
+La retribución que perciban las personas titulares de las Magistraturas Electorales durante el tiempo que ejerzan sus funciones, no podrá ser menor a la prevista para las personas titulares de las Magistraturas del Tribunal Superior de Justicia del Estado, no excederá del límite establecido en el artículo 134 de la Constitución Política del Estado Libre y Soberano de Puebla, y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -7401,9 +7395,11 @@ III.- El tercero interesado, que lo será el partido político, la candidatura c
 
 El que afirma está obligado a probar. El que niega también lo estará, si su negación contiene una afirmación. Sólo los hechos se prueban, no así el derecho.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 357.
 
-En materia electoral serán admitidas las pruebas documentales, las pruebas técnicas cuando por su naturaleza no requieran de perfeccionamiento y las presuncionales.
+En materia electoral serán admitidas las pruebas documentales, las pruebas técnicas cuando por su naturaleza no requieran de perfeccionamiento, la instrumental de actuaciones y las presuncionales.
 
 Las pruebas deberán ser ofrecidas al presentarse el escrito del recurso; en caso contrario, no serán tomadas en cuenta, con excepción de las pruebas supervinientes.
 
@@ -7421,9 +7417,17 @@ c) Los documentos realizados por quienes se les confiere fe pública y en los qu
 
 II.- Documentales privadas, aquéllas que no se encuentran contempladas en la fracción anterior, que sean ofrecidas por las partes y sean correspondientes;
 
-III.- Las pruebas técnicas son aquellos medios de producción de imagen y sonidos. El oferente deberá señalar concretamente y por escrito el hecho que intenta probar y las circunstancias de modo, tiempo y persona que se aprecian en la prueba; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-IV.- La Presuncional, que es la deducción que realiza el resolutor partiendo de hechos probados para llegar a la verdad.
+III.- Las pruebas técnicas son aquellos medios de producción de imagen y sonidos. El oferente deberá señalar concretamente y por escrito el hecho que intenta probar y las circunstancias de modo, tiempo y persona que se aprecian en la prueba;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+IV.- La presuncional que es la deducción que realiza el resolutor partiendo de hechos probados para llegar a la verdad; y
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+V.- La instrumental que es el conjunto de actuaciones que obran en el expediente del medio de impugnación.
 
 ###### ARTÍCULO 359.
 
@@ -7739,7 +7743,13 @@ I.- Se exceda el gasto de campaña en un cinco por ciento del monto total autori
 
 II.- Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
 
-III.- Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+III.- Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+IV.- Se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales.
 
 Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
 
@@ -8529,7 +8539,9 @@ El órgano del Instituto que reciba o promueva la denuncia la remitirá inmediat
 
 La denuncia será desechada de plano por el Secretario Ejecutivo, sin prevención alguna, cuando:
 
-I.- No reúna los requisitos indicados en el tercer párrafo del presente artículo.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+I.- No reúna los requisitos indicados en el segundo párrafo del artículo inmediato anterior.
 
 II.- Los hechos denunciados no constituyan una violación en materia de propaganda político electoral.
 
@@ -8543,19 +8555,25 @@ IV.- La denuncia sea evidentemente frívola.
 
 El Secretario Ejecutivo deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción. En caso de desechamiento, notificará al denunciante su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas. Tal resolución deberá ser confirmada por escrito.
 
-Cuando el Secretario Ejecutivo admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+Cuando el Secretario Ejecutivo admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan de manera oral o por escrito a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 Si la Secretaría Ejecutiva considera necesaria la adopción de medidas cautelares o de protección, las propondrá a la Comisión de Quejas y Denuncias, la cual dentro del plazo de cuarenta y ocho horas resolverá lo conducente, en los términos establecidos en este Código. Esta decisión podrá ser impugnada ante el Tribunal.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 414.
 
-La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral y será conducida por el Secretario Ejecutivo, debiéndose levantar constancia de su desarrollo.
+La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral o por escrito y será conducida por el Secretario Ejecutivo, debiéndose levantar constancia de su desarrollo.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 En el procedimiento especial no serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto en el curso de la audiencia.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 La falta de asistencia de las partes no impedirá la celebración de la audiencia en el día y hora señalados. La audiencia se desarrollará en los siguientes términos:
 
@@ -9806,3 +9824,17 @@ TERCERO. Las disposiciones aplicables del presente Decreto para el Órgano de Ad
 CUARTO. Las personas servidoras públicas en funciones en alguno de los cargos que sean materia del Proceso Electoral de personas juzgadoras del Poder Judicial del Estado, que pretendan una postulación para un cargo de diferente materia o adscripción regional o distrital, deberán informarlo al Congreso del Estado, dentro del plazo previsto en este Código.
 
 QUINTO. Los poderes del Estado y el Instituto Electoral del Estado deberán considerar las asignaciones presupuestarias necesarias para la correcta implementación del presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. A partir de la entrada en vigor de este Decreto, se derogan las disposiciones que se opongan al contenido del presente.
+
+TERCERO. La reforma contenida en el artículo 18 del presente Decreto, en materia de nepotismo electoral y no reelección, serán aplicables (sic) a partir del proceso electoral 2029 - 2030, en consecuencia, las personas electas en el proceso electoral anterior o que se encuentren ejerciendo el cargo en el año dos mil treinta, no podrán ser reelectas.
+
+CUARTO. Las personas que ejerzan los cargos de presidenta o presidente municipal, regidurías o sindicatura derivados del proceso electoral ordinario 2023-2024 podrán ser electas consecutivamente para un periodo adicional en el proceso electoral ordinario 2026-2027. Quienes pretendan ejercer ese derecho únicamente podrán ser postulados por el mismo partido político o por cualquiera de los partidos integrantes de la coalición o candidatura común que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Asimismo, los suplentes que hubiesen entrado en funciones durante el segundo periodo podrán ser electos para un periodo consecutivo.
+
+QUINTO. El periodo de duración de tres años a que se refiere el párrafo segundo del artículo 327 del presente Decreto, será aplicable a partir de la entrada en vigor de la presente, motivo por el cual la persona Magistrada que, se encuentre ejerciendo la Presidencia del Tribunal Electoral del Estado, continuará en dicho cargo para cumplir con el término previsto en la presente reforma.
