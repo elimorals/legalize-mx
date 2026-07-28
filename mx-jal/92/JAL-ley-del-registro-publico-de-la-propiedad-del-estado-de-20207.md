@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2021-07-29"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -53,11 +53,11 @@ El Registro Público de la Propiedad es la dependencia del Poder Ejecutivo, bajo
 
 Con la finalidad de preservar la seguridad jurídica del tráfico inmobiliario el Registro Público de la Propiedad deberá aplicar los principios registrales de publicidad, legitimación, rogación, consentimiento, prelación, calificación, inscripción, especialización y tracto sucesivo.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 3.
 
-Serán normas supletorias de la presente Ley los Códigos Civil y de Procedimientos Civiles para el Estado de Jalisco.
+Serán normas supletorias de la presente Ley el Código Civil del Estado de Jalisco y el Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -931,7 +931,9 @@ III. Si fueren resoluciones judiciales o administrativas, se ordene su ejecució
 
 IV. Si los documentos respectivos aparecieren redactados en idioma distinto al español, deberán de presentarse debidamente traducidos por perito autorizado por el Supremo Tribunal de Justicia.
 
-En todo caso se observará lo previsto en el artículo 103 del Código de Procedimientos Civiles del Estado.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+En todo caso se observará lo previsto en el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 64.
 
@@ -1656,3 +1658,9 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28423/LXII/21 QUE REFORMA EL ARTÍCULO 8 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30208/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 3 Y 63 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 14 Y 92 DE LA LEY DEL NOTARIADO DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 10 DE LA LEY DE EXPROPIACIÓN DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA DEL ESTADO DE JALISCO Y, SE REFORMA EL ARTÍCULO 17 DEL ARANCEL DE ABOGADOS PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial “El Estado de Jalisco”.
