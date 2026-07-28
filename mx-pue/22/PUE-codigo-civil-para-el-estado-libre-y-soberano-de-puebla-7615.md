@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2025-10-17"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -3961,11 +3961,13 @@ IV.- Si el abuelo o abuela por una de las líneas es viudo o casado en segundas 
 
 V.- Si la patria potestad se defiere por convenio o por resolución judicial a los abuelos por una línea, a falta o por impedimento de éstos, corresponderá ejercerla a los de la otra línea.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 608.
 
-Las personas que tienen al menor bajo su patria potestad o su custodia, deberán proporcionar a éste educación con la facultad de corregirlo de una manera prudente y moderada, y abstenerse de ejercer cualquier tipo de violencia en su contra, en específico castigo corporal; así como la obligación de observar una conducta que le sirva de buen ejemplo.
+Las personas que tengan a la niña, niño o adolescentes bajo su patria potestad o custodia, deberán proporcionarle educación con la facultad de corregirlo de una manera prudente y moderada, quedando prohibido ejercer cualquier tipo de violencia en su contra, en específico castigo corporal o humillante; así como la obligación de observar una conducta que le sirva de buen ejemplo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 La facultad de corregir no implica infligir al menor actos de fuerza u omisiones, que atenten contra su integridad física o psíquica en términos de lo dispuesto por el artículo 291 de este Código, y las normas aplicables en materia de Niñas, Niños y Adolescentes.
 
@@ -4681,7 +4683,9 @@ La separación del tutor se hará con audiencia de éste y por sentencia judicia
 
 Si el tutor es procesado por delito intencional, se aplicarán las disposiciones siguientes:
 
-I.- Cualquiera sea el delito por el que se procese al tutor, quedará éste suspenso en el ejercicio de su encargo desde que se provea el auto de formal prisión, hasta que se pronuncie sentencia irrevocable.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+I.- Cualquiera que sea el delito por el que se procese a la persona tutora, quedará ésta suspensa en el ejercicio de su encargo desde que se provea el auto de vinculación a proceso, hasta que se pronuncie sentencia irrevocable.
 
 II.- En el caso de que se trata en la fracción anterior, se proveerá a la tutela conforme a la ley.
 
@@ -20854,3 +20858,11 @@ P.O. 17 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 608 Y LA FRACCIÓN I DEL ARTÍCULO 697, AMBOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
