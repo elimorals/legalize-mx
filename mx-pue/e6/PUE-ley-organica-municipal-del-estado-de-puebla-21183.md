@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2026-06-08"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -819,9 +819,21 @@ III.- Contribuir para el gasto público en la forma que lo dispongan las leyes;
 
 IV.- Prestar auxilio a las autoridades, cuando para ello sean legalmente requeridos;
 
-V.- Realizar sus actividades y usar y disponer de sus bienes, en forma que no perjudiquen a la colectividad; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2026)</small>
 
-VI.- Las demás que les impongan las leyes y otros ordenamientos aplicables.
+V.- Respetar el medio ambiente, la biodiversidad y el bienestar animal, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2026)</small>
+
+VI.- Procurar la sana alimentación, la práctica del deporte y la recreación familiar;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE JULIO DE 2026)</small>
+
+VII.- Realizar sus actividades y disponer de sus bienes, en forma que no perjudiquen a la colectividad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2026)</small>
+
+VIII.- Las demás que les impongan las leyes y otros ordenamientos aplicables.
 
 ###### ARTÍCULO 38.
 
@@ -961,31 +973,37 @@ Los Planes de Desarrollo Municipal, deberán incluir programas de acción tendie
 
 #### SECCIÓN I. DE LA ELECCIÓN E INTEGRACIÓN DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 46.
 
-Los Ayuntamientos estarán integrados por un Presidente Municipal, Regidores y Síndico, que por elección popular directa sean designados de acuerdo a la planilla que haya obtenido el mayor número de votos. El número de Regidores para cada Ayuntamiento se establecerá conforme a las bases siguientes:
+El Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal, una sindicatura y hasta quince regidurías, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal.
 
-I.- En el Municipio Capital del Estado, con dieciséis Regidores de mayoría, además del Presidente Municipal;
+El número de regidurías para cada Ayuntamiento se establecerá conforme a las bases siguientes:
 
-II.- En los Municipios que conforme al último Censo General de Población tengan sesenta mil o más habitantes, por ocho Regidores de mayoría, además del Presidente Municipal; y
+I. En el Municipio Capital del Estado, con once regidurías de mayoría, además del Presidente o la Presidenta Municipal y una sindicatura;
 
-III.- En los demás Municipios, por seis Regidores de mayoría, además del Presidente Municipal.
+II. En los Municipios que conforme al último Censo General de Población tengan sesenta mil o más habitantes, por ocho regidurías de mayoría, además por un Presidente o Presidenta Municipal y una sindicatura; y
+
+III. En los demás Municipios, por seis regidurías de mayoría relativa, además por un Presidente o Presidenta Municipal y una sindicatura.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 47.
 
-Los Ayuntamientos, de conformidad con la ley de la materia, se complementarán:
+Los Ayuntamientos, de conformidad con la Ley de la materia, se complementarán:
 
-I.- En el Municipio Capital del Estado, hasta con siete Regidores, que serán acreditados conforme al principio de representación proporcional;
+I. En el Municipio Capital del Estado, hasta con cuatro regidurías, que serán acreditadas conforme al principio de representación proporcional;
 
-II.- En los Municipios que conforme al último Censo General de Población tengan noventa mil o más habitantes, hasta con cuatro Regidores que serán acreditados de acuerdo con el mismo principio;
+II. En los Municipios que conforme al último Censo General de Población tengan noventa mil o más habitantes, hasta con cuatro regidurías que serán acreditadas de acuerdo con el mismo principio de representación proporcional;
 
-III.- En los Municipios que conforme al último Censo General de Población tengan de sesenta mil a noventa mil habitantes, hasta con tres Regidores que serán acreditados de acuerdo con el mismo principio;
+III. En los Municipios que conforme al último Censo General de Población tengan de sesenta mil a menos de noventa mil habitantes, hasta con tres regidurías que serán acreditadas de acuerdo con el mismo principio de representación proporcional;
 
-IV.- En los demás Municipios, hasta con dos Regidores que serán acreditados conforme al mismo principio;
+IV. En los demás Municipios, hasta con dos regidurías que serán acreditadas conforme al mismo principio de representación proporcional;
 
-V.- En los casos a que se refieren las fracciones anteriores, los Regidores se acreditarán de entre los Partidos Políticos minoritarios que hayan obtenido por lo menos el dos por ciento de la votación total en el Municipio, de acuerdo con las fórmulas y procedimientos que establezca la ley de la materia; y
+V. En los casos a que se refieren las fracciones anteriores, las regidurías se acreditarán de entre los Partidos Políticos minoritarios que hayan obtenido por lo menos el dos por ciento de la votación total en el Municipio, de acuerdo con las fórmulas y procedimientos que establezca la Ley de la materia; y
 
-VI.- En todo caso, en la asignación de Regidores de representación proporcional se seguirá el orden que tuviesen los candidatos en las planillas correspondientes, con excepción de quienes hubiesen figurado como candidatos a Primer Regidor o Presidente Municipal y a Síndico.
+VI. En todo caso, en la asignación de regidurías de representación proporcional se seguirá el orden que tuviesen las y los candidatos en las planillas correspondientes, con excepción de quienes hubiesen figurado como candidatos a la Primera regiduría o Presidente o Presidenta Municipal y a la sindicatura.
 
 ###### ARTÍCULO 48.
 
@@ -4746,6 +4764,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA EL ARTÍCULO 44 DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LOS ARTÍCULOS 46 Y 47 DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 37; Y SE ADICIONAN LAS FRACCIONES VII Y VIII AL ARTÍCULO 37, TODAS DE LA LEY ORGÁNICA MUNICIPAL".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
