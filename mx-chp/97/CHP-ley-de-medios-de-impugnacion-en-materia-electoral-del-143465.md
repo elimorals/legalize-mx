@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-medios-de-impugnacion-en-materia-electoral-del-143465"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-29"
-last_updated: "2020-06-29"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 29 de junio de 2020.
 
@@ -1085,9 +1085,15 @@ IX. Se compre cobertura informativa o tiempos en radio y televisión, fuera de l
 
 X. Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+XI. Se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales.
+
 2. Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y segundo lugar sea menor al cinco por ciento.
 
-3. En caso de nulidad de la elección, por las causales previstas en las fracciones III, IV, VI, VII, VIII, IX y X el Partido Político o candidato responsable no podrá participar en la elección extraordinaria que al efecto se convoque.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+3. En caso de nulidad de la elección, por las causales previstas en las fracciones III, IV, VI, VII, VIII, IX, X y XI la persona sancionada no podrá participar en la elección extraordinaria que al efecto se convoque.
 
 ###### Artículo 104.
 
@@ -1416,3 +1422,13 @@ El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumpl
 Dado en el Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 26 días del mes de junio del año dos mil veinte - D. P. C. ROSA ELIZABETH BONILLA HIDALGO. - D. S. C. SILVIA TORREBLANCA ALFARO.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 29 días del mes de junio del año dos mil veinte. - Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas. - Ismael Brito Mazariegos, Secretario General de Gobierno. - Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 282 POR EL QUE SE REFORMA Y SE ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 103 DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan al contenido del presente Decreto.
