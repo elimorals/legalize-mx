@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-101698"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2025-12-31"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -159,25 +159,13 @@ El ejercicio del Poder Legislativo se deposita en el Congreso, que se integra co
 
 El Poder Ejecutivo se deposita en una persona que se denomina Gobernadora o Gobernador del Estado de Yucatán.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 9.
 
-El Municipio es el orden de gobierno que constituye la base de la división territorial y de la organización política y administrativa del Estado. Cada Municipio será gobernado por un Ayuntamiento electo en forma directa mediante el voto popular, conforme a lo dispuesto en esta Ley, e integrado por Regidoras y Regidores, entre los cuales, uno será electo con el carácter de Presidenta o Presidente, y otro con el de Síndico.
+El Congreso determinará el número de Regidurías a elegir por el principio de mayoría relativa y de representación proporcional, considerando las circunstancias poblacionales y los fenómenos demográficos establecidos por el Censo de Población y Vivienda del Instituto Nacional de Estadística y Geografía actualizado, y lo dispuesto en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
-El Congreso determinará el número de Regidores a elegir por el principio de mayoría relativa y de representación proporcional, considerando las circunstancias poblacionales y los fenómenos demográficos establecidos por el Censo General de Población y Vivienda actualizado, y lo dispuesto en la Ley de Gobierno de los Municipios del Estado de Yucatán, de la forma siguiente:
-
-I. Cinco Regidores para los que cuenten con hasta cinco mil habitantes, de los cuales 3 serán de mayoría relativa y 2 de representación proporcional;
-
-II. Ocho Regidores para los que cuenten con más de cinco mil y hasta diez mil habitantes, de los cuales 5 serán de mayoría relativa y 3 de representación proporcional;
-
-III. Once Regidores para los que cuenten con más de diez mil y hasta doscientos cincuenta mil habitantes, de los cuales 7 serán de mayoría relativa y 4 de representación proporcional;
-
-IV. Diecinueve Regidores para los que cuenten con más de doscientos cincuenta mil habitantes, de los cuales 11 serán de mayoría relativa y 8 de representación proporcional.
-
-Cada Regidor propietario tendrá su respectivo suplente. El número de Regidores suplentes será igual al de los propietarios.
-
-En caso de renuncia, destitución u otra ausencia definitiva del Regidor propietario, ocupará la vacante su respectivo suplente.
+Las personas integrantes del Cabildo del Ayuntamiento tendrán su respectiva suplente. En caso de renuncia, destitución u otra ausencia definitiva de la persona integrante propietaria, ocupará la vacante dicha suplente.
 
 ### CAPÍTULO II. De las elecciones ordinarias y extraordinarias
 
@@ -589,11 +577,17 @@ a) Para la Gubernatura del Estado, dicha relación deberá contener cuando menos
 
 b) Para la fórmula de Diputaciones de Mayoría relativa, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanas y ciudadanos equivalente al 5% de la lista nominal correspondiente al Distrito en cuestión con corte al 31 de agosto del año previo al de la elección, y estar integrada por ciudadanas y ciudadanos de por lo menos la mitad de las secciones electorales que sumen cuando menos el 1% de ciudadanas y ciudadanos que figuren en la lista nominal de electores en cada uno de ellos;
 
-c) Para la elección de planillas de ayuntamientos, de municipios cuyos cabildos se integran por 5 y 8 regidores, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanas y ciudadanos equivalente al 15% de la lista nominal correspondiente al municipio de que se trate, con corte al 31 de agosto del año previo al de la elección;
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2026)</small>
 
-d) Para la elección de planillas de ayuntamientos, de municipios cuyos cabildos se integran por 11 regidores, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanas y ciudadanos equivalente al 10% de la lista nominal correspondiente al municipio de que se trate, con corte al 31 de agosto del año previo al de la elección, y
+c) Para la elección de planillas de ayuntamientos, de municipios cuyos cabildos se integran por 3 y 6 regidurías, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanas y ciudadanos equivalente al 15% de la lista nominal correspondiente al municipio de que se trate, con corte al 31 de agosto del año previo al de la elección;
 
-e) Para la elección de planillas de ayuntamientos, de municipios cuyos cabildos se integran por 19 regidores, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanas y ciudadanos equivalente al 2% de la lista nominal correspondiente al municipio de que se trate, con corte al 31 de agosto del año previo al de la elección.
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2026)</small>
+
+d) Para la elección de planillas de ayuntamientos, de municipios cuyos cabildos se integran por 9 regidurías, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanas y ciudadanos equivalente al 10% de la lista nominal correspondiente al municipio de que se trate, con corte al 31 de agosto del año previo al de la elección, y
+
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2026)</small>
+
+e) Para la elección de planillas de ayuntamientos, de municipios cuyos cabildos se integran por 15 regidurías, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanas y ciudadanos equivalente al 2% de la lista nominal correspondiente al municipio de que se trate, con corte al 31 de agosto del año previo al de la elección.
 
 II. La cédula de apoyo ciudadano que manifieste el porcentaje requerido en los términos de este artículo; se tendrán que acompañar de las copias simples de la credencial para votar vigentes de las ciudadanas y los ciudadanos que consten en la cédula, así como el respaldo electrónico de dicha información, en los formatos previamente establecidos por la Dirección Ejecutiva de Procedimientos Electorales y Participación Ciudadana.
 
@@ -1712,6 +1706,10 @@ LVIII. Emitir acuerdos y aplicar disposiciones generales, reglas, lineamientos, 
 > <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
 
 LIX. Implementar acciones afirmativas de forma directa para garantizar el principio de paridad de género en la integración del Congreso del Estado de Yucatán y de las Regidurías de los Ayuntamientos, así como interpretar la normatividad en materia electoral con el propósito de garantizar que las mujeres no queden sobrerrepresentadas en la asignación de los cargos de elección popular señalados en esta fracción, con el objeto de lograr una igualdad sustancial;
+
+> <small>(ADICIONADA, D.O. 28 DE JULIO DE 2026)</small>
+
+LIX Bis. Implementar acciones afirmativas respecto a la participación efectiva de grupos prioritarios que por sus condiciones de desigualdad histórica ameriten estas, en términos de la Constitución Federal, la Constitución local, la legislación aplicable y de los acuerdos que para tal fin emita el Consejo General del Instituto Nacional Electoral.
 
 > <small>(REFORMADA, D.O. 23 DE JULIO DE 2020)</small>
 
@@ -5473,9 +5471,11 @@ Para los efectos de esta Ley, se entiende por fórmula electoral los elementos m
 
 A la planilla de regidores que hubiera obtenido el mayor número de votos en la elección, le corresponderá la totalidad de las regidurías de mayoría relativa y sólo tendrá el derecho de participar en la asignación de regidores de representación proporcional en los casos previstos en el artículo 343 de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 338.
 
-Se asignarán regidores de representación proporcional en los ayuntamientos integrados por 5 regidores a los partidos políticos, coaliciones o candidaturas independientes, que no hubieran obtenido el mayor número de votos en la elección, de acuerdo a las siguientes bases:
+Se asignarán regidurías de representación proporcional en los ayuntamientos integrados por 3 regidurías a los partidos políticos, coaliciones o candidaturas independientes, que no hubieran obtenido el mayor número de votos en la elección, de acuerdo con las siguientes bases:
 
 I. Si un solo partido, coaliciones o candidaturas independientes, obtuviere el 15 % o más de la votación total del municipio, se le asignará un Regidor. Para tener derecho a que se le asignen los 2 regidores deberá obtener al menos el 30 % de la votación total del municipio de que se trate;
 
@@ -5483,9 +5483,11 @@ II. Si dos partidos, coaliciones o candidaturas independientes, obtuvieren cada 
 
 III. Si más de dos partidos, coaliciones o candidaturas independientes, obtuvieren el 15% o más de la votación total del municipio, se les asignarán regidores a los dos que hubieran obtenido las votaciones más altas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 339.
 
-Se asignarán regidores de representación proporcional en los ayuntamientos integrados por 8 regidores a los partidos políticos, coaliciones y candidaturas independientes, que no hubieran obtenido el mayor número de votos en la elección, de acuerdo a las siguientes bases:
+Se asignarán regidurías de representación proporcional en los ayuntamientos integrados por 6 regidurías a los partidos políticos, coaliciones y candidaturas independientes, que no hubieran obtenido el mayor número de votos en la elección, de acuerdo con las siguientes bases:
 
 I. Si un solo partido, coaliciones o candidaturas independientes, obtuviere el 12.5 % o más de la votación total del municipio se le asignará un Regidor. Para tener derecho a que se le asigne dos regidores deberá tener al menos el 25% de la votación; y el 37.5 % o más para tener derecho a los 3 regidores;
 
@@ -5495,9 +5497,11 @@ III. Si 3 partidos, coaliciones o candidaturas independientes, obtuvieren el 12.
 
 IV. Si más de 3 partidos, coaliciones o candidaturas independientes, obtuvieren cada uno el 12.5 % o más de la votación se les asignarán regidores a los tres que hayan obtenido las votaciones más altas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 340.
 
-Se asignarán regidores de representación proporcional en los ayuntamientos integrados por 11 regidores bajo las siguientes bases:
+Se asignarán regidurías de representación proporcional en los ayuntamientos integrados por 9 regidurías bajo las siguientes bases:
 
 I. Si un solo partido, coaliciones o candidaturas independientes, obtuviere el 10 % o más de la votación total del municipio se le asignarán tantos regidores como veces obtenga el 10 % de los votos;
 
@@ -5509,13 +5513,15 @@ IV. Si 4 partidos, coaliciones o candidaturas independientes, obtuvieren el 10 %
 
 V. Si más de 4 partidos, coaliciones o candidaturas independientes, obtuvieren el 10 % o más los 4 regidores se asignarán a aquellos que hubieran obtenido las votaciones más altas.
 
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 341.
 
-Se asignarán regidores de representación proporcional en el Ayuntamiento integrado por 19 regidores, de acuerdo a las siguientes bases:
+Se asignarán regidurías de representación proporcional en el Ayuntamiento integrado por 15 regidurías, de acuerdo con las siguientes bases:
 
-I. Si un solo partido, coaliciones o candidaturas independientes, obtuviera el 1.5% o más de la votación total del municipio, se le asignará un Regidor y posteriormente tantos regidores como veces obtenga el 5% hasta asignarle los 8 regidores, y
+I. Si un solo partido, coaliciones o candidaturas independientes, obtuviera el 1.5% o más de la votación total del municipio, se le asignará una regiduría y posteriormente tantas regidurías como veces obtenga el 5% hasta asignarle las 7 regidurías, y
 
-II. Si dos o más partidos, coaliciones o candidaturas independientes, obtuvieren el 1.5% o más de los votos se les asignará un Regidor a cada uno; y alternativamente, empezando por el de mayor votación, por cada 5 % adicional, las demás regidurías hasta asignar los 8 regidores.
+II. Si dos o más partidos, coaliciones o candidaturas independientes, obtuvieren el 1.5% o más de los votos se les asignará una regiduría a cada uno; y alternativamente, empezando por el de mayor votación, por cada 5 % adicional, las demás regidurías hasta asignar las 7 regidurías.
 
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2020)</small>
 
@@ -7342,3 +7348,25 @@ Disposición derogatoria
 Artículo segundo.
 
 Se derogan todas las disposiciones legales y normativas que se opongan al contenido de este decreto.
+
+D.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 216/2026 POR EL QUE SE MODIFICAN LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN; LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN; LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN; Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN; ASÍ COMO EL DECRETO 169/2026 POR EL QUE SE DETERMINA EL NÚMERO DE REGIDURÍAS QUE INTEGRARÁN LOS 106 AYUNTAMIENTOS DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, PARA EL EJERCICIO CONSTITUCIONAL 2027-2030, EN MATERIA DE CONFORMACIÓN DE CABILDOS, AUSTERIDAD PRESUPUESTAL LEGISLATIVA, CERO PRIVILEGIOS DE LAS Y LOS SERVIDORES PÚBLICOS Y NULIDAD POR INTERVENCIÓN EXTRANJERA".]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Ajuste de remuneraciones de las y los servidores públicos
+
+Artículo segundo. Los poderes públicos locales, los gobiernos municipales y los organismos constitucionales autónomos en la entidad deberán realizar los ajustes presupuestales necesarios para, si fuera el caso, ajustar las percepciones de sus servidoras y servidores públicos a lo ordenado en el presente decreto.
+
+Presupuesto del Poder Legislativo del Estado
+
+Artículo tercero. El Congreso del Estado de Yucatán, para los efectos de la elaboración de su proyecto de presupuesto para el ejercicio fiscal correspondiente al 2027, deberá considerar el presupuesto de egresos aprobado para el Gobierno del Estado del presente año 2026 como parámetro para su cálculo a fin de observar el tope de máximo de presupuestación con base al índice inflacionario, sin perjuicio de lo previsto en el artículo transitorio octavo por la que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la reforma a la Constitución Política de los Estados Unidos Mexicanos.
+
+En la presupuestación anterior se entenderá comprendido el presupuesto para la Auditoría Superior del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo cuarto. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
