@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2026-05-11"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -357,29 +357,31 @@ Las atribuciones y funciones que la Constitución Política de los Estados Unido
 
 #### SECCIÓN SEGUNDA. DE LA INTEGRACIÓN Y COMPOSICIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 21.
 
-El Ayuntamiento se integra cada tres años y se compone por el número de Regidores que el Congreso del Estado determine, de conformidad a la legislación del Estado. De entre ellos, uno será electo con el carácter de Presidente Municipal y otro, con el de Síndico.
+El Ayuntamiento se integra cada tres años y se compone por una Presidencia Municipal, una sindicatura que serán electos por el principio de mayoría relativa y el número de Regidurías que el Congreso del Estado determine, de conformidad con la legislación del Estado.
 
 Serán parte del Cabildo, las personas que resultaren electas en los términos del artículo anterior, mediante resolución firme que emita el organismo u órgano electoral competente y publicada en el Diario Oficial del Gobierno del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 22.
 
-En el mes de febrero del año previo al de la elección, el Congreso del Estado, determinará el número de Regidores de Mayoría Relativa y de Representación Proporcional, que corresponda a cada Municipio, considerando los fenómenos demográficos establecidos por el Censo Nacional de Población y Vivienda actualizado, según lo dispuesto por la Constitución Política del Estado de Yucatán y las leyes en materia electoral.
+En el mes de febrero del año previo al de la elección, el Congreso del Estado determinará el número de Regidurías de Mayoría Relativa y de Representación Proporcional, que corresponda a cada Municipio, considerando los fenómenos demográficos establecidos por el Censo de Población y Vivienda del Instituto Nacional de Estadística y Geografía actualizado, según lo dispuesto por la Constitución Política del Estado de Yucatán y las leyes en materia electoral.
 
-Para determinar el número de Regidores, el Congreso del Estado considerará las circunstancias poblacionales de los Municipios, de la forma siguiente:
+Para determinar el número de Regidurías, el Congreso del Estado considerará las circunstancias poblacionales de los Municipios, de la forma siguiente:
 
-I.- Cinco Regidores para los que cuenten con hasta cinco mil habitantes, los cuales tres serán de mayoría relativa y dos de representación proporcional;
+I. Tres Regidurías para los que cuenten con hasta cinco mil habitantes, de las cuales una será de mayoría relativa y dos de representación proporcional.
 
-II.- Ocho Regidores para los que cuenten con hasta diez mil habitantes, los cuales cinco serán de mayoría relativa y tres de representación proporcional;
+II. Seis Regidurías para los que cuenten con hasta diez mil habitantes, de las cuales tres serán de mayoría relativa y tres de representación proporcional.
 
-III.- Once Regidores para los que cuenten entre diez mil a cien mil habitantes, (sic) los cuales siete serán de mayoría relativa y cuatro de representación proporcional, y
+III. Nueve Regidurías para los que cuenten entre diez mil a cien mil habitantes, de las cuales cinco serán de mayoría relativa y cuatro de representación proporcional.
 
-IV.- Diecinueve Regidores para los que tengan más de doscientos cincuenta mil habitantes, los cuales once serán de mayoría relativa y ocho de representación proporcional.
+IV. Quince Regidurías para los que tengan más de doscientos cincuenta mil habitantes, de las cuales ocho serán de mayoría relativa y siete de representación proporcional.
 
-Cada Regidor propietario tendrá su respectivo suplente. El número de Regidores suplentes será igual al de los propietarios.
-
-En caso de renuncia, destitución u otra ausencia definitiva del Regidor propietario, ocupará la vacante su respectivo suplente.
+Las personas integrantes del Cabildo del Ayuntamiento tendrán su respectiva suplente. En caso de renuncia, destitución u otra ausencia definitiva de la persona integrante propietaria, ocupará la vacante dicho suplente.
 
 ###### Artículo 23.
 
@@ -4794,3 +4796,25 @@ Para cumplir con lo anterior, las referidas unidades especializadas podrán soli
 Cláusula derogatoria
 
 Artículo sexto. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+D.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 216/2026 POR EL QUE SE MODIFICAN LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN; LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN; LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN; Y LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN; ASÍ COMO EL DECRETO 169/2026 POR EL QUE SE DETERMINA EL NÚMERO DE REGIDURÍAS QUE INTEGRARÁN LOS 106 AYUNTAMIENTOS DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, PARA EL EJERCICIO CONSTITUCIONAL 2027-2030, EN MATERIA DE CONFORMACIÓN DE CABILDOS, AUSTERIDAD PRESUPUESTAL LEGISLATIVA, CERO PRIVILEGIOS DE LAS Y LOS SERVIDORES PÚBLICOS Y NULIDAD POR INTERVENCIÓN EXTRANJERA".]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Ajuste de remuneraciones de las y los servidores públicos
+
+Artículo segundo. Los poderes públicos locales, los gobiernos municipales y los organismos constitucionales autónomos en la entidad deberán realizar los ajustes presupuestales necesarios para, si fuera el caso, ajustar las percepciones de sus servidoras y servidores públicos a lo ordenado en el presente decreto.
+
+Presupuesto del Poder Legislativo del Estado
+
+Artículo tercero. El Congreso del Estado de Yucatán, para los efectos de la elaboración de su proyecto de presupuesto para el ejercicio fiscal correspondiente al 2027, deberá considerar el presupuesto de egresos aprobado para el Gobierno del Estado del presente año 2026 como parámetro para su cálculo a fin de observar el tope de (sic) máximo de presupuestación con base al índice inflacionario, sin perjuicio de lo previsto en el artículo transitorio octavo por la que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la reforma a la Constitución Política de los Estados Unidos Mexicanos.
+
+En la presupuestación anterior se entenderá comprendido el presupuesto para la Auditoría Superior del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo cuarto. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
