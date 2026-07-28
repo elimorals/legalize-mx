@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "2026-06-08"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -1057,9 +1057,17 @@ La prescripción no puede comenzar ni correr:
 
 I.- Contra los incapacitados mentales, sino cuando se haya discernido su tutela conforme a la Ley.
 
-II.- Contra los trabajadores incorporados al servicio militar, en tiempo de guerra y que por alguno de los conceptos contenidos en esta Ley, se hayan hecho acreedores a indemnización, y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-III.- Durante el tiempo que el trabajador se encuentre privado de su libertad, siempre que haya sido absuelto por sentencia ejecutoriada.
+II.- Contra los trabajadores incorporados al servicio militar, en tiempo de guerra y que por alguno de los conceptos contenidos en esta Ley, se hayan hecho acreedores a indemnización;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+III.- Durante el tiempo que la persona trabajadora se encuentre privada de su libertad, siempre que haya sido absuelta por sentencia ejecutoriada; y
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+IV.- Respecto de la persona trabajadora desaparecida, a partir de la emisión de la Declaratoria Especial de Ausencia por desaparición y en términos de la legislación aplicable en la materia.
 
 ###### ARTICULO 117.
 
@@ -1238,5 +1246,13 @@ P.O. 8 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 60 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES II Y III DEL ARTÍCULO 116, Y ADICIONA LA FRACCIÓN IV AL ARTÍCULO 116; DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
