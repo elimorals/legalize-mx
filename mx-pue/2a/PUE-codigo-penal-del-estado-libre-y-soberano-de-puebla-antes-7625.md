@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2026-06-16"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3577,9 +3577,11 @@ III.- Si además de ser mayor de tres años en referencia a la víctima, es su p
 
 En las fracciones II y III se presumirá la seducción o el engaño.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 266.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 2016)
+Cuando como consecuencia del delito de estupro la víctima quede embarazada, la sanción correspondiente se aumentará hasta en dos terceras partes, indistintamente de la duración o resultado de la gestación.
 
 #### SECCION TERCERA.- VIOLACION
 
@@ -3650,6 +3652,12 @@ Al culpable de violación que se encuentre en ejercicio de la patria potestad o 
 ###### Artículo 271.
 
 Cuando el delito de violación sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión, utilizando los medios o circunstancias que ellos le proporcionen, además de la sanción que le corresponda por aquel delito, será destituido definitivamente del cargo o empleo o suspendido por cinco años en el ejercicio de dicha profesión.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2026)</small>
+
+###### Artículo 271 Bis.
+
+Cuando como consecuencia del delito de violación la víctima quede embarazada, la sanción correspondiente se aumentará hasta en dos terceras partes, indistintamente de la duración o resultado de la gestación.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -8126,6 +8134,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 16 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DE LA SECCIÓN SEGUNDA DEL CAPÍTULO SÉPTIMO DEL LIBRO SEGUNDO Y EL ARTÍCULO 224 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 266 Y SE ADICIONA EL ARTÍCULO 271 BIS, AMBOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
