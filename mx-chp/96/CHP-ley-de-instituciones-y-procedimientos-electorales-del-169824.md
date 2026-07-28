@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-instituciones-y-procedimientos-electorales-del-169824"
 country: "mx"
 rank: "ley"
 publication_date: "2023-09-22"
-last_updated: "2026-07-01"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en el Número 305 del Periódico Oficial del Estado de Chiapas, el viernes 22 de septiembre de 2023.
 
@@ -1973,7 +1973,9 @@ IX. Aprobar, en su caso, durante el mes de enero el ajuste al Presupuesto de Egr
 
 X. Ordenar la realización de auditorías que se consideren necesarias a los órganos del Instituto de Elecciones.
 
-XI. Nombrar a propuesta del Consejero Presidente a los titulares de la Secretarías Ejecutiva y Administrativa, las Direcciones Ejecutivas, Direcciones y Unidades Técnicas de conformidad a lo establecido en el Reglamento de Elecciones.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+XI. Nombrar, a propuesta de la persona titular de la Presidencia del Consejo General, a la persona titular de la Secretaría Ejecutiva.
 
 XII. Remover, por mayoría calificada de cinco votos de los Consejeros Electorales a los titulares de la Secretaría Ejecutiva; de las Direcciones y Direcciones Ejecutivas, y de las Unidades Técnicas. En el caso del titular de la Contraloría General, el Consejo General podrá proponer al Congreso del Estado, que éste resuelva en un plazo no mayor a 30 días naturales, que el Titular de la Contraloría General, sea sancionado o removido por causas graves, consideradas como tales:
 
@@ -2421,9 +2423,13 @@ III. Convocar y presidir las sesiones ordinarias, extraordinarias, permanentes, 
 
 IV. Representar legalmente al Instituto de Elecciones y otorgar poderes para actos de dominio y de administración, así como para ser representado ante cualquier autoridad administrativa, judicial o ante particulares. Para realizar actos de dominio sobre inmuebles destinados al Instituto de Elecciones o para otorgar poderes para dichos efectos.
 
-V. Proponer al Consejo General el nombramiento y remoción de los titulares de los Órganos Ejecutivos y Técnicos, en los términos del Reglamento de Elecciones.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-VI. Nombrar a los servidores públicos que cubrirán temporalmente las vacantes de los titulares de los Órganos Ejecutivos y Técnicos, con carácter de encargados del despacho, en términos del Reglamento de Elecciones y de esta Ley.
+V. Proponer al Consejo General el nombramiento del Secretario Ejecutivo;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+VI. Nombrar a los servidores públicos titulares de los Órganos Ejecutivos y Técnicos;
 
 VII. Informar al Instituto Nacional las vacantes de Consejeros Electorales que se generen, para su correspondiente sustitución.
 
@@ -2811,7 +2817,9 @@ XXXI. Las demás que le confiere esta Ley y otros ordenamientos legales aplicabl
 
 1. Las Direcciones Ejecutivas tienen a su cargo la ejecución, en forma directa, de los proyectos institucionales en los términos aprobados por el Consejo General, en su ámbito de competencia y especialización.
 
-2. Al frente de cada Dirección Ejecutiva habrá un titular, nombrado en los términos del Reglamento de Elecciones.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+2. Al frente de cada Dirección Ejecutiva habrá un titular, nombrado por el Consejero Presidente;
 
 3. Las actividades de las Direcciones Ejecutivas serán coordinadas por la Secretaría Ejecutiva y en su caso, validadas por las correlativas Comisiones, cuando exista alguna con competencia para ello.
 
@@ -3043,7 +3051,9 @@ XIX. Las demás que le confiera esta Ley, el Reglamento Interior y otras disposi
 
 1. El Consejo General contará con unidades técnicas para el adecuado funcionamiento y logro de los fines del Instituto de Elecciones.
 
-2. Al frente de cada Unidad Técnica habrá un titular nombrado por el Consejo General, que debe reunir los requisitos señalados para los titulares de las Direcciones Ejecutivas. Los titulares de las Unidades Técnicas tendrán el nivel jerárquico de acuerdo con el Reglamento de Elecciones y al Estatuto del Servicio Profesional.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+2. Al frente de cada Unidad Técnica habrá un titular nombrado por el Consejero Presidente, que debe reunir los requisitos señalados para los titulares de las Direcciones Ejecutivas. Los titulares de las Unidades Técnicas tendrán el nivel jerárquico de acuerdo con el Reglamento de Elecciones y al Estatuto del Servicio Profesional.
 
 3. Para efectos administrativos y orgánicos, las Unidades Técnicas dependerán del Consejero Presidente y la Secretaría Ejecutiva, de acuerdo con su naturaleza y en lo dispuesto por el Reglamento Interior del Instituto de Elecciones.
 
@@ -7252,3 +7262,13 @@ a) Las reglas para definir la autopercepción de la comunidad LGBTIQ+ y los requ
 b) La distribución de candidaturas por los principios de mayoría relativa y de representación proporcional para la población miembro de la comunidad LGBTIQ+;
 
 c) Los criterios para que los partidos políticos garanticen la inclusión de candidaturas de la comunidad de la diversidad sexual, ya sea por el principio de representación proporcional o de mayoría relativa, en el ámbito de las diputaciones locales.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El Consejo General del Instituto de Elecciones y Participación Ciudadana contará con un plazo de 90 días naturales siguientes a la entrada en vigor del presente Decreto para realizar las adecuaciones reglamentarias que resulten necesarias para su debido cumplimiento.
