@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2023-03-25"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -197,9 +197,11 @@ b) Otro vocal, será el Consejero Jurídico del Poder Ejecutivo del Estado o qui
 
 El representante del Titular del Poder Ejecutivo, deberá informarle que el examen se realizó apegado a derecho. En caso contrario, el Titular del Poder Ejecutivo declarará inválido el examen y ordenará que se realice nuevamente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 14.
 
-No podrán formar parte del jurado los notarios en cuyas notarías hubiese realizado su práctica el sustentante, ni su cónyuge, sus parientes consanguíneos hasta el cuarto grado, los afines hasta el segundo y los civiles, ni aquellos que tengan impedimento o excusa en los términos del Código de Procedimientos Civiles del Estado.
+No podrán formar parte del jurado los notarios en cuyas notarías hubiese realizado su práctica el sustentante, ni su cónyuge, sus parientes consanguíneos hasta el cuarto grado, los afines hasta el segundo y los civiles, ni aquellos que tengan impedimento o excusa en los términos del Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2018)</small>
 
@@ -1507,11 +1509,11 @@ IV. En los demás casos en que las leyes así lo permitan.
 
 En los casos señalados en las fracciones anteriores, el notario dará el destino que corresponda a cada cantidad recibida dentro de los plazos que señalen las disposiciones legales aplicables; en su defecto, tan pronto proceda.
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 92.
 
-Sólo se tramitarán y en su caso se radicarán en las notarías los procedimientos sucesorios a rogación de todos los interesados en los términos de los Código Civil y de Procedimientos Civiles del Estado de Jalisco.
+Sólo se tramitarán y en su caso se radicarán en las notarías los procedimientos sucesorios a rogación de todos los interesados en los términos del Código Civil del Estado de Jalisco y del Código Nacional de Procedimientos Civiles y Familiares.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2007)</small>
 
@@ -3242,3 +3244,9 @@ P.O. 25 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29165/LXIII/23 QUE REFORMA LOS ARTÍCULOS 572, 1931, 2236, 2634 Y 2957 DEL CÓDIGO CIVIL Y EL ARTÍCULO 84 DE LA LEY DEL NOTARIADO, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30208/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS REGISTRO ARTÍCULOS 3 Y 63 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 14 Y 92 DE LA LEY DEL NOTARIADO DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 10 DE LA LEY DE EXPROPIACIÓN DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA DEL ESTADO DE JALISCO Y, SE REFORMA EL ARTÍCULO 17 DEL ARANCEL DE ABOGADOS PARA EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos iles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial ''El Estado de Jalisco''.
