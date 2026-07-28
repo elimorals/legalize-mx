@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2026-07-15"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE JUNIO DE 2026.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O. EL 15 DE JULIO DE 2026 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL D.O. DE 30 DE JUNIO DE 2026.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JULIO DE 2026.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -713,11 +711,11 @@ El Instituto Electoral y (sic) Participación Ciudadana de Yucatán declarará l
 
 La declaración de validez, la asignación de Diputados y Regidores de representación proporcional y la expedición de las respectivas constancias podrán ser impugnadas ante el Tribunal Electoral del Estado de Yucatán, en los términos que la ley señale.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 26 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 25.
 
-El presupuesto del Congreso del Estado, no podrá ser disminuido respecto al del año inmediato anterior y se incrementará anualmente, al menos, conforme al resultado de la inflación general anual registrada para el mes de diciembre del año anterior publicado por el Instituto Nacional de Estadística y Geografía en la primera quincena del mes de enero del año de su elaboración, sin exceder del 10% del presupuesto total asignado al Congreso el (sic) año anterior.
+El presupuesto anual del Congreso del Estado no podrá exceder del 0.70% del presupuesto de egresos del Gobierno del Estado correspondiente. Sin perjuicio de lo anterior, los aumentos a su presupuesto anual, en su caso, deberán estar ajustados al índice inflacionario que se estime por parte del Instituto Nacional de Estadística y Geografía.
 
 (REFORMADO, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
 
@@ -2597,11 +2595,11 @@ Los sujetos obligados, deberán promover, respetar, proteger y garantizar los de
 
 ## TITULO OCTAVO. De los Municipios del Estado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 76.
 
-El Estado tiene como base de su división territorial y organización política y administrativa, al Municipio. Este será gobernado por un Ayuntamiento electo mediante el voto popular libre, directo y secreto; integrado por una Presidenta o Presidente Municipal, Regidoras, Regidores y un Síndico, de conformidad con lo que establezca la ley de la materia, observando el principio de paridad de género. Entre éste y el Gobierno del Estado, no habrá autoridades intermedias.
+El Estado tiene como base de su división territorial y organización política y administrativa, al Municipio. Este será gobernado por un Ayuntamiento electo mediante el voto popular libre, directo y secreto; integrado por una Presidenta o Presidente Municipal, una Sindicatura y con hasta 15 Regidurías, de conformidad con lo que establezca la ley de la materia, observando el principio de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. Entre éste y el Gobierno del Estado, no habrá autoridades intermedias.
 
 > <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -2651,9 +2649,9 @@ V. El mecanismo político de cumplimiento de los términos del convenio de gobie
 
 Los ayuntamientos deberán ratificar los nombramientos que la presidencia municipal haga de las personas titulares de las dependencias del Ayuntamiento en apego al convenio de gobierno de coalición, con excepción del titular de Seguridad Pública.
 
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, D.O. 28 DE JULIO DE 2026)</small>
 
-Tercera.- El primer Regidor de la lista de candidatos electos por el principio de mayoría relativa, tendrá el carácter de Presidenta o Presidente Municipal, el cual será el órgano ejecutivo y político del Ayuntamiento y el segundo, tendrá el carácter de Síndico. Todas las regidoras y regidores desempeñarán las funciones que la ley respectiva les señale.
+Tercera.- La o el primer integrante de la lista de personas candidatas electas por el principio de mayoría relativa, tendrá el carácter de Presidenta o Presidente Municipal, el cual será el órgano ejecutivo y político del Ayuntamiento y el segundo, tendrá el carácter de Síndica o Síndico. Todas las regidoras y regidores desempeñarán las funciones que la ley respectiva les señale.
 
 Cuarta.- Los ayuntamientos estarán investidos de personalidad jurídica y administrarán libremente su hacienda, conforme lo disponga la ley respectiva.
 
@@ -2675,7 +2673,9 @@ El informe de actividades al que se refiere el presente artículo deberá de ser
 
 Séptima.- Las Presidentas y Presidentes Municipales tendrán la obligación al concluir su encargo de llevar a cabo el proceso de entrega recepción, al Ayuntamiento entrante, conforme a la ley respectiva. El incumplimiento de esta obligación será causa de responsabilidad.
 
-Octava.- Las leyes correspondientes, determinarán el número de regidores de mayoría relativa y de representación proporcional, de acuerdo con el número de habitantes de cada municipio.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2026)</small>
+
+Octava.- Las leyes correspondientes, determinarán el número de regidurías de mayoría relativa y de representación proporcional, de acuerdo con el número de habitantes de cada municipio, sin poder exceder del límite máximo de regidurías señalado en el artículo 76 de esta Constitución.
 
 Por cada regidor propietario se elegirá a un suplente. Todos los regidores tendrán los mismos derechos y obligaciones. Si alguno de éstos dejare de desempeñar su cargo, será sustituido por su suplente. De no ser esto posible, lo será de entre los suplentes provenientes del mismo partido político.
 
@@ -2797,9 +2797,9 @@ La ley que organiza y reglamenta el funcionamiento de los ayuntamientos, estable
 
 Dichos organismos privilegiarán la conciliación como mecanismo de solución de controversias.
 
-> <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2026)</small>
 
-En los municipios que no cuenten con un Tribunal de lo Contencioso Administrativo, resolverá las controversias a que se refiere el presente artículo, el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado.
+En los municipios que no cuenten con un Tribunal de lo Contencioso Administrativo, resolverá las controversias a que se refiere el presente artículo, el Tribunal de Justicia Administrativa del Estado de Yucatán.
 
 > <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -2813,9 +2813,13 @@ a) Para la realización de cualquier acto que implique la enajenación de bienes
 
 b) La desincorporación de algún bien de dominio público y su conversión al dominio privado.
 
-> <small>(REFORMADA, D.O. 28 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, D.O. 28 DE JULIO DE 2026)</small>
 
-II.- La presentación para su aprobación ante el Congreso del Estado, a más tardar el día 25 de noviembre de cada año, las iniciativas relativas a las leyes de ingresos que regirán en sus municipios durante el año inmediato siguiente, de conformidad con los requerimientos establecidos en las leyes en materia de presupuesto, contabilidad gubernamental, responsabilidad hacendaria y la demás legislación y normativa aplicable.
+II.- La presentación para su aprobación ante el Congreso del Estado de las iniciativas de reformas y leyes fiscales municipales, las cuales, para el caso de las iniciativas de reformas o nuevas leyes de hacienda, se deberán presentar a más tardar el día 15 de octubre de cada año, y deberán contemplar los conceptos de contribuciones a percibir con sus elementos esenciales que son: objeto, sujeto, base, cuota y tarifa; respecto de las iniciativas, exclusivamente, de las leyes de ingresos que regirán en sus municipios durante el año inmediato siguiente se deberán presentar hasta el 15 de noviembre de cada año, las cuales establecerán únicamente los pronósticos de ingresos a recaudar en dicho año fiscal. Las iniciativas señaladas en este párrafo serán elaboradas de conformidad con los requerimientos establecidos en las leyes en materia de presupuesto, contabilidad gubernamental, responsabilidad hacendaria y la demás legislación y normativa aplicable.
+
+Cuando inicie una administración municipal, la persona titular de la presidencia municipal podrá presentar las iniciativas señaladas en el párrafo anterior hasta el día 30 de octubre cuando se trate de reformas o nuevas leyes de hacienda y, hasta el 25 de noviembre de cada año cuando se trate de las iniciativas relativas a las leyes de ingresos que regirán en sus municipios durante el año inmediato siguiente.
+
+Los municipios se deberán ajustar al acuerdo de práctica parlamentaria que la Legislatura emita para recibir de forma programática las iniciativas señaladas en los párrafos anteriores, con la finalidad de dinamizar y organizar la recepción en los plazos previstos en esta fracción.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE FEBRERO DE 2018)</small>
 
@@ -3578,6 +3582,14 @@ Ningún individuo podrá desempeñar a la vez dos o más cargos de elección pop
 ###### Artículo 104.
 
 Ningún pago podrá hacerse sin que esté comprendido en el Presupuesto, o determinado por Ley posterior a éste.
+
+> <small>(ADICIONADO, D.O. 28 DE JULIO DE 2026)</small>
+
+###### Artículo 104 Bis.
+
+Ningún servidor público de los poderes públicos, de los organismos autónomos y de los gobiernos municipales podrá percibir ingresos mayores a los de la persona titular del Poder Ejecutivo Federal en términos de lo previsto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Se prohíbe que las y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán, las y los magistrados del Tribunal Electoral del Estado de Yucatán y cualquiera otro funcionario público pueda adquirir o contratar, con recursos públicos, seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo, en términos de lo previsto en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -6450,3 +6462,41 @@ En dicha comunicación, deberán anexarse las constancias de discusión y votaci
 Cláusula derogatoria
 
 Artículo tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 215/2026 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE CONFORMACIÓN DE CABILDOS, AUSTERIDAD PRESUPUESTAL LEGISLATIVA Y CERO PRIVILEGIOS DE LAS Y LOS SERVIDORES PÚBLICOS".]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Ajuste de remuneraciones de las y los servidores públicos
+
+Artículo segundo. Los poderes públicos locales, los gobiernos municipales y los organismos constitucionales autónomos en la entidad deberán realizar los ajustes presupuestales necesarios para, si fuera el caso, ajustar las percepciones de sus servidoras y servidores públicos a lo ordenado en el presente decreto.
+
+Presupuesto del Poder Legislativo del Estado
+
+Artículo tercero. El Congreso del Estado de Yucatán, para los efectos de la elaboración de su proyecto de presupuesto para el ejercicio fiscal correspondiente al 2027, deberá considerar el presupuesto de egresos aprobado para el Gobierno del Estado del presente año 2026 como parámetro para su cálculo a fin de observar el tope de máximo de presupuestación con base al índice inflacionario, sin perjuicio de lo previsto en el artículo transitorio octavo por la que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la reforma a la Constitución Política de los Estados Unidos Mexicanos.
+
+En la presupuestación anterior se entenderá comprendido el presupuesto para la Auditoría Superior del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo cuarto. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+D.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 217/2026 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE LEYES FISCALES MUNICIPALES".]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Acuerdo de Recepción programática
+
+Artículo segundo. La Comisión Permanente de Presupuesto, Patrimonio Estatal y Municipal del Congreso del Estado, en el mes de septiembre, deberá emitir el acuerdo de práctica parlamentaria para prever la recepción programática de las iniciativas a las que alude el presente decreto que habrán de regir para el ejercicio fiscal correspondiente al año 2027.
+
+Cláusula derogatoria
+
+Artículo tercero. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
