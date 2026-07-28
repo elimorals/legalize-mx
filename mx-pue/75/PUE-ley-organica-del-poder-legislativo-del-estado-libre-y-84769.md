@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2025-05-29"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -511,6 +511,12 @@ I.- Formar parte de las Comisiones y Comités para los cuales sean nombrados, at
 
 II.- Presentar iniciativas de Ley, Decreto y Acuerdo;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+II Bis.- Retirar durante el ejercicio de su encargo, las iniciativas de leyes, decretos o acuerdos que hayan presentado, en los términos previstos en la presente Ley y el Reglamento.
+
+Tratándose de iniciativas de leyes, decretos o acuerdos suscritas por más de una persona legisladora, su retiro deberá contar con el consentimiento de la mayoría simple de las y los firmantes, mediante manifestación expresa;
+
 III.- Elegir a los integrantes de la Mesa Directiva, Comisiones y Comités del Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 23 DE ABRIL DE 2019)</small>
@@ -876,6 +882,10 @@ XIV.- Comunicar al Secretario General, las instrucciones, observaciones y propue
 XV.- Requerir a los Titulares de las Dependencias del Ejecutivo del Estado, de los Ayuntamientos, a los Titulares de los Organismos Públicos Descentralizados Estatales o Municipales, u Organismos Constitucionales Autónomos; cuando el caso lo amerite o a los funcionarios que dependan de ellos, que comparezcan ante la Legislatura en términos de Ley;
 
 XVI.- Requerir a los Órganos Legislativos que presenten los dictámenes que se les encomiende, en términos de esta Ley y su Reglamento Interior;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+XVI Bis.- Acordar lo relativo al retiro de iniciativas de leyes, decretos o acuerdos, y realizar las notificaciones respectivas;
 
 XVII.- Firmar junto con los Secretarios las determinaciones del Pleno;
 
@@ -1692,6 +1702,12 @@ Cuando algún Diputado presente una iniciativa ante el Pleno o Comisión Permane
 ###### ARTÍCULO 149.
 
 Las iniciativas serán turnadas para su dictamen a la Comisión correspondiente por el Presidente de la Mesa Directiva o Comisión Permanente, en un plazo máximo de cinco días contados a partir de su recepción o aclaración.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2026)</small>
+
+ARTÍCULO 149 BIS.- Las y los Diputados, así como los demás sujetos facultados para presentar iniciativas de leyes, decretos o acuerdos, que soliciten el retiro de estas antes de la emisión del Dictamen correspondiente; deberán hacerlo por escrito debidamente firmado y dirigido al Presidente de la Mesa Directiva o Comisión Permanente, en el que se manifieste de manera expresa e inequívoca su voluntad de retirarla, ante la Secretaría General.
+
+El retiro tendrá como efecto el archivo como asunto concluido, sin perjuicio que la iniciativa puede ser presentada nuevamente.
 
 ###### ARTÍCULO 150.
 
@@ -3032,6 +3048,14 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decr
 P.O. 29 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO; Y DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA."]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE ADICIONAN LA FRACCIÓN II BIS., AL ARTÍCULO 44, LA FRACCIÓN XVI BIS., DEL 74 Y EL 149 BIS.; TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; ASIMISMO, SE ADICIONA EL ARTÍCULO 120 BIS., AL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
