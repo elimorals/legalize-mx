@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2026-06-16"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -147,9 +147,9 @@ XVIII.- Zonas de Desarrollo Turístico Prioritario: Son aquellos municipios, reg
 
 XIX.- Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio Estatal claramente ubicadas y delimitadas geográficamente, que por sus características naturales o culturales, constituyen un atractivo turístico así declarado mediante Decreto.
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-XX.- Turismo Médico y Salud: Actividad generada por las personas que se trasladan fuera de su lugar de residencia con el propósito de rehabilitarse o para mejorar su estado de salud a través de servicios terapéuticos, de recreación, relajación, servicios y tratamientos médicos relacionados con la salud; y
+XX.- Turismo Médico y de Salud: Actividad generada por las personas que se trasladan fuera de su lugar de residencia con el propósito de rehabilitarse o para mejorar su estado de salud y bienestar, a través de servicios terapéuticos, de recreación, relajación, servicios y tratamientos médicos relacionados con la salud;
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2013)</small>
 
@@ -647,13 +647,21 @@ Las dependencias y entidades del sector público del Poder Ejecutivo Estatal y d
 
 En caso de los migrantes de origen poblano que retornan al Estado de manera temporal, la Secretaría, en coordinación con el Instituto Poblano de Asistencia al Migrante promoverán la protección a sus derechos humanos y procurar su vinculación con instituciones de salud, de migración, seguridad pública, y con empresas con actividades de hospedaje, traslado y servicios turísticos que le brinden auxilio durante su estancia.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 34 Bis.
 
-Se define al Turismo Deportivo como aquella actividad que realizan los visitantes con el fin de practicar algún deporte, competir o ser espectador de algún evento deportivo en sus diferentes modalidades.
+Se entiende como Turismo Deportivo al conjunto de actividades cuya motivación principal es participar, entrenar, observar, acompañar o apoyar prácticas, eventos o experiencias deportivas y de actividad física, en ámbitos recreativos, formativos, aficionados, profesionales o de alto rendimiento.
 
-La Secretaría, con el apoyo y en coordinación de las Dependencias y Entidades competentes y aprovechando la vasta riqueza con la que cuenta el Estado de Puebla, promoverán el turismo deportivo a nivel nacional e internacional.
+En este se considerará, de manera enunciativa, la participación activa en competencias, carreteras, torneos, ligas, campamentos, clínicas, concentraciones, entrenamientos, eventos, ferias, congresos y expos; así como la participación pasiva, como personas espectadoras o acompañantes.
+
+La Secretaría, en coordinación con las dependencias y entidades competentes, impulsará el turismo deportivo con criterios de sostenibilidad ambiental, innovación, acceso universal, igualdad sustantiva, seguridad integral con enfoque de cadena de valor y desarrollo comunitario.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2026)</small>
+
+###### Artículo 34 Ter.
+
+Se considerarán modalidades del Turismo Deportivo, los deportes realizados a través del uso de las tecnologías de la información y la comunicación, como los electrónicos y el tecno deporte, siempre que impliquen desplazamiento.
 
 ### CAPÍTULO VII. DEL TURISMO DE NATURALEZA
 
@@ -1201,9 +1209,17 @@ XIX.- Mantener sus instalaciones en condiciones óptimas de servicio e higiene;
 
 XX.- Cumplir con los ordenamientos y normas en materia de protección al medio ambiente, así como establecer los mecanismos y acciones para la separación y reciclado de productos de desecho;
 
-XXI.- Promover el valor y orgullo turístico del Estado; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-XXII.- Todas aquellas que se contemplen en las disposiciones aplicables y las que se deriven de la presente Ley.
+XXI.- Promover el valor y orgullo turístico del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2026)</small>
+
+XXII.- Colaborar en las acciones de prevención, combate y atención del tráfico de menores y pornografía infantil, que al efecto implementen las autoridades competentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2026)</small>
+
+XXIII.- Todas aquellas que se contemplen en las disposiciones aplicables y las que se deriven de la presente Ley.
 
 ###### Artículo 83.
 
@@ -1524,6 +1540,22 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 16 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA EL ARTÍCULO 70 BIS DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTÁDO, POR EL QUE SE REFORMAN LA FRACCIÓN XX DEL ARTÍCULO 3 Y EL 34 BIS, Y SE ADICIONA EL ARTÍCULO 34 TER; TODOS DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; REFORMAN LOS ARTÍCULOS 16, 17, LAS FRACCIONES IV Y VII DEL 62 Y LAS XIX Y XX DEL 127; Y SE ADICIONAN LOS ARTÍCULOS 62 BIS, 62 TER Y LA FRACCIÓN XXI AL 127, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA; ASIMISMO SE REFORMAN LAS FRACCIONES XXI Y XXII, Y SE ADICIONA LA FRACCIÓN XXIII AL ARTÍCULO 82 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
