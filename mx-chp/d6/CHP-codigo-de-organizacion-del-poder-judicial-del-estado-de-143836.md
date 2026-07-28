@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-organizacion-del-poder-judicial-del-estado-de-143836"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-08-19"
-last_updated: "2025-01-27"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ORGANIZACIÓN DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2020.
 
@@ -49,9 +49,11 @@ CÓDIGO DE ORGANIZACIÓN DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 1.
 
-El presente Código de Organización es de orden público y reglamentario del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Chiapas. Tiene por objeto regular la estructura y atribuciones de los órganos que integran al Poder Judicial del Estado, con excepción de las relativas al Tribunal Administrativo, a través de los cuales cumple con las funciones de impartir y administrar justicia dentro de su jurisdicción en materia del fuero común y, en materia del fuero federal, cuando las leyes respectivas así lo permitan.
+El presente Código de Organización es de orden público y reglamentario del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Chiapas. Tiene por objeto regular la estructura y atribuciones de los órganos que integran al Poder Judicial del Estado, a través de los cuales cumplan con las funciones de impartir y administrar justicia dentro de su jurisdicción en materia del fuero común y, en materia del fuero federal, cuando las leyes respectivas así lo permitan.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
@@ -67,11 +69,11 @@ I. El Tribunal Superior de Justicia.
 
 II. El Consejo de la Judicatura.
 
-III. El Tribunal Administrativo.
+III. (DEROGADA, P.O. 28 DE JULIO DE 2026)
 
 La organización y funcionamiento del Tribunal Superior de Justicia y del Consejo de la Judicatura, estarán regulados por las disposiciones del presente código y en el reglamento interior que al efecto se emita.
 
-El Tribunal Administrativo se organizará y funcionará de acuerdo a lo que establezca su propia ley orgánica, reglamento interior y acuerdos generales inherentes.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 3.
 
@@ -81,9 +83,11 @@ El Consejo de la Judicatura será el órgano encargado de la convocatoria, a tra
 
 Los acuerdos de la Comisión de Justicia del Poder Judicial se tomarán con pleno respeto a la autonomía e independencia de cada órgano, en los términos de las disposiciones de la Constitución Política del Estado Libre y Soberano de Chiapas y el presente Código, y deberán ser publicados en el Periódico Oficial cuando se trate de asuntos de interés general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 4.
 
-Corresponde al Poder Judicial, en los términos de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Chiapas, el desempeño de la función jurisdiccional en los asuntos del orden común, incluyendo la imposición de penas, su modificación y duración en el ámbito penal, así como en materia laboral, de control constitucional local, administrativa y de justicia especializada para adolescentes; y tratándose del orden federal, en los casos expresamente previstos por las leyes.
+Corresponde al Poder Judicial, en los términos de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Chiapas, el desempeño de la función jurisdiccional en los asuntos del orden común, incluyendo la imposición de penas, su modificación y duración en el ámbito penal, así como en materia civil, familiar, mercantil, control constitucional local, de justicia especializada para adolescentes, laboral y burocrática; y tratándose del orden federal, en los casos expresamente previstos por las leyes.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
 
@@ -103,9 +107,11 @@ En los casos que lo requiera, el Poder Judicial podrá recibir la colaboración 
 
 El Poder Judicial estará siempre para impartir y administrar justicia dentro de los plazos y en los términos que establezcan las leyes, quedando prohibido para sus servidores públicos recibir, bajo circunstancia alguna o pretexto, cualquier remuneración por concepto de gastos, gratificación u obsequios, ni retribución alguna por las diligencias que se practiquen dentro o fuera de los recintos oficiales del Poder Judicial, aun cuando se efectúen fuera de las horas del despacho o en días y horas habilitados legalmente.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 7.
 
-El Consejo de la Judicatura determinará el número de distritos judiciales que sean necesarios para garantizar la administración de justicia y determinará su jurisdicción, con excepción de la organización jurisdiccional que corresponda al Tribunal Administrativo, la cual atenderá a lo que al respecto disponga la Constitución Política del Estado Libre y Soberano de Chiapas y su ley orgánica.
+El Consejo de la Judicatura determinará el número de distritos judiciales que sean necesarios para garantizar la administración de justicia y determinará su jurisdicción, la cual atenderá a lo que disponga la Constitución Política del Estado Libre y Soberano de Chiapas, y el presente Código.
 
 ###### Artículo 8.
 
@@ -127,9 +133,11 @@ Tampoco podrán formar parte de una misma Sala, Juzgado o dependencia administra
 
 Los Magistrados Regionales y Consejeros de la Judicatura no representan a quien los propone y designa, por lo que ejercerán su función con independencia e imparcialidad; tendrán la misma categoría sin distinción alguna, por lo que los emolumentos que perciban serán iguales y no podrán ser disminuidos durante el periodo de su encargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 11.
 
-Los servidores públicos del Poder Judicial, antes del inicio de las funciones que les correspondan deberán rendir la protesta de ley en los términos de este código, a excepción de quienes ingresen al Tribunal Administrativo quienes lo harán en los términos que establezca su ley orgánica.
+Las personas servidoras públicas del Poder Judicial, antes del inicio de las funciones que les correspondan deberán rendir la protesta de ley en los términos del presente Código.
 
 Los Magistrados, así como los Consejeros de la Judicatura, rendirán protesta de ley ante el Congreso del Estado.
 
@@ -139,9 +147,11 @@ Los servidores públicos del Tribunal Superior de Justicia y del Consejo de la J
 
 Si la persona nombrada no se presentare a rendir la protesta sin que medie causa justificada, dentro del término de 10 días hábiles a partir de la fecha de la notificación de su nombramiento, éste se dejará sin efecto y se procederá a realizar una nueva designación en los términos previstos en la Constitución Política del Estado Libre y Soberano de Chiapas y el presente código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 12.
 
-Para el ingreso y permanencia en el cargo, los servidores públicos del Poder Judicial deberán someterse y aprobar los exámenes físicos, toxicológicos, psicológicos, socioeconómicos y de conocimientos o aptitudes y, en general, de control y confianza según sea el caso, que previamente y de acuerdo a la suficiencia presupuestal de cada ejercicio determine el Consejo de la Judicatura. Los servidores públicos del Poder Judicial se sujetarán a un programa de evaluación permanente establecido por el Consejo de la Judicatura, para que de forma aleatoria se verifique el cumplimiento de los requisitos señalados con anterioridad.
+Para el ingreso y permanencia en el cargo, las personas aspirantes y servidoras públicas del Poder Judicial deberán someterse y aprobar los exámenes respectivos según sea el caso que determine el Consejo de la Judicatura. Las personas servidoras públicas del Poder Judicial se sujetarán a un programa de evaluación permanente establecido por el Consejo de la Judicatura, para que de forma aleatoria se verifique el cumplimiento de los requisitos señalados con anterioridad.
 
 El incumplimiento a lo dispuesto por este artículo será sancionado en términos de este código y demás disposiciones aplicables.
 
@@ -163,7 +173,9 @@ De igual manera deberán abstenerse de realizar actividades de proselitismo a fa
 
 Los Magistrados, Consejeros, Jueces de Primera Instancia y Especializados del Poder Judicial, a la conclusión ordinaria o definitiva del cargo, o en caso de conclusión por razones de edad, tendrán derecho a un haber único que no será menor del equivalente de seis meses del total de la remuneración que tengan asignada al momento de la separación.
 
-Los beneficios recibidos por conclusión ordinaria o definitiva del encargo, por razones de edad y los estímulos económicos al personal del Poder Judicial, podrán ser proveídos con cargo al Fondo Auxiliar para la Administración de Justicia previsto en el presente código; a excepción de aquellos a cargo del Tribunal Administrativo, el cual deberá contar con su propio fondo.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+Los beneficios recibidos por conclusión ordinaria o definitiva del encargo, por razones de edad y los estímulos económicos al personal del Poder Judicial, podrán ser proveídos con cargo al Fondo Auxiliar para la Administración de Justicia previsto en el presente Código.
 
 Los Magistrados, Consejeros de la Judicatura, Jueces de Primera Instancia y Jueces Especializados del Poder Judicial, no podrán actuar como representantes de cualquier naturaleza en ningún proceso ante los órganos del Poder Judicial, durante los tres meses siguientes al de su separación o retiro.
 
@@ -1469,13 +1481,17 @@ La coordinación, asesoría y capacitación de los Juzgados Municipales, estará
 
 ### CAPÍTULO I. DE LA ADMINISTRACIÓN GENERAL DE LOS JUZGADOS DE CONTROL Y TRIBUNALES DE ENJUICIAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 100.
 
-Son obligaciones y facultades del Administrador General de los Juzgados de Control y Tribunales de Enjuiciamiento, las siguientes:
+La persona titular de la Administración General de los Juzgados de Control y Tribunales de Enjuiciamiento, tendrá las obligaciones y facultades siguientes:
 
 I. Organizar y controlar la gestión administrativa de los órganos jurisdiccionales, administrando eficaz y eficientemente los recursos humanos, materiales y financieros asignados.
 
-II. Dirigir las labores administrativas de los órganos jurisdiccionales, bajo la supervisión directa del Oficial Mayor del Consejo de la Judicatura.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+II. Dirigir las labores administrativas de los órganos jurisdiccionales, bajo la supervisión del Consejo de la Judicatura.
 
 III. Mantener la disciplina del personal bajo su mando, realizando las actuaciones inmediatas en caso de indisciplina y remitiéndolas al Consejo de la Judicatura en términos de ley.
 
@@ -2041,7 +2057,9 @@ VI. Establecer las comisiones que estime convenientes para el adecuado funcionam
 
 VII. Asignar a sus comisiones la atención de los asuntos de su competencia.
 
-VIII. Recibir del Tribunal Administrativo su anteproyecto de presupuesto de egresos a efecto de incluirlo en el Presupuesto de Egresos del Poder Judicial del Estado.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+VIII. Coordinar y supervisar las actividades de la Coordinación de Administradores del Sistema Acusatorio.
 
 IX. Elaborar su proyecto de presupuesto de egresos e integrar el proyecto de presupuesto de egresos del Poder Judicial del Estado, mismo que se remitirá para análisis, y en su caso, aprobación del Congreso del Estado.
 
@@ -2069,13 +2087,17 @@ XIX. Investigar sobre hechos que puedan constituir violación de garantías o de
 
 XX. Resolver, previa garantía de audiencia, sobre los procedimientos de responsabilidad por quejas o denuncias que se inicien contra los servidores públicos del Tribunal Superior de Justicia y del Consejo de la Judicatura, e imponer las sanciones que procedan conforme a la normatividad aplicable.
 
-XXI. Otorgar estímulos y recompensas a los servidores públicos del Poder Judicial que se hayan destacado en el desempeño de su cargo, con excepción a los que correspondan al Tribunal Administrativo.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+XXI. Otorgar estímulos y recompensas a las personas servidoras públicas del Poder Judicial que se hayan destacado en el desempeño de su cargo.
 
 XXII. Conceder licencias a los Magistrados de las Salas Regionales y la Visitaduría, Jueces, Secretarios, Actuarios y demás servidores públicos del Tribunal Superior de Justicia y del Consejo de la Judicatura.
 
 XXIII. Fijar las bases para cubrir las plazas vacantes de sus miembros, de acuerdo con lo establecido en este Código y determinar las previsiones para su sustitución, en casos de ausencia temporal o absoluta.
 
-XXIV. Planear, programar, presupuestar, ejecutar y en general, llevar a cabo todo el proceso de obra pública que corresponda al Poder Judicial, con excepción a los que correspondan al Tribunal Administrativo.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+XXIV. Planear, programar, presupuestar, ejecutar y en general, llevar a cabo todo el proceso de obra pública que corresponda al Poder Judicial.
 
 XXV. Participar en la designación de los Magistrados, en los términos establecidos en la Constitución Política del Estado Libre y Soberano de Chiapas.
 
@@ -2109,6 +2131,10 @@ XXXVI. (DEROGADA, P.O. 27 DE ENERO DE 2025)
 
 XXXVII. Aprobar, autorizar y emitir los acuerdos necesarios para otorgar, negar, suspender, revocar o renovar la certificación de las personas facilitadoras públicas del Centro Estatal y de las personas abogadas colaborativas, que al efecto le sean propuestos por el Órgano Instructor de Mecanismos Alternativos de Solución de Controversias.
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2026)</small>
+
+De igual forma otorgar, negar, revocar, suspender o renovar la certificación de las personas facilitadoras en mediación comunitaria, que al efecto le sean propuestos por la Dirección de Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena y Juzgados Municipales, en términos de la Ley de la Materia y demás ordenamientos aplicables.
+
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 2025)</small>
 
 XXXVIII. Solicitar que la Persona Facilitadora privada que haya obtenido una certificación, presente una garantía al inicio de sus funciones.
@@ -2131,7 +2157,9 @@ XLIV. Solicitar información y opiniones a los Magistrados del Tribunal Superior
 
 XLV. Analizar y, en su caso, autorizar los gastos de las Salas Regionales, Juzgados, Secretarías, Unidades, Direcciones, Departamentos y demás órganos del Tribunal Superior de Justicia y del Consejo de la Judicatura, conforme al presupuesto de egresos.
 
-XLVI. Expedir, previo pago correspondiente, la constancia de antecedentes no penales solicitada por particulares.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+XLVI. Expedir, previo pago correspondiente, la Constancia de Antecedentes No Penales y la Constancia de No Inscripción de Persona Deudora Alimentaria Morosa solicitada por particulares.
 
 XLVII. Ordenar la compilación y sistematización de doctrina, leyes, precedentes y tesis de jurisprudencia, salvaguardar el acervo bibliográfico y hemerográfico, así como garantizar los servicios de información jurídica que requieran los servidores públicos del Poder Judicial y sociedad en general, previendo las acciones necesarias para su difusión.
 
@@ -2139,7 +2167,9 @@ XLVIII. Administrar los recursos financieros del Fondo Auxiliar para la Administ
 
 XLIX. Expedir los certificados del registro de peritos, así como las disposiciones normativas y acuerdos para la administración y el funcionamiento del registro de peritos del Poder Judicial del Estado, estableciendo los requisitos para formar parte de éste, los derechos que causará el servicio de expedición del certificado de registro, la cuota de recuperación por los exámenes y los procedimientos que se deberán seguir para brindar el servicio.
 
-L. Promover y difundir el ejercicio ciudadano del derecho de acceso a la información; resolver sobre la negativa a las solicitudes de acceso a la información y proteger los datos personales en poder de los órganos administrativos y jurisdiccionales del Poder Judicial, exceptuando al Tribunal Administrativo.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+L. Promover y difundir el ejercicio ciudadano del derecho de acceso a la información; resolver sobre la negativa a las solicitudes de acceso a la información y proteger los datos personales en poder de los órganos administrativos y jurisdiccionales del Poder Judicial.
 
 LI. Vigilar el funcionamiento del Archivo Judicial, en cuanto al resguardo de los expedientes, documentos y todo aquel material que contenga registros informáticos, audio y video, que se reciba y deba archivarse.
 
@@ -2147,7 +2177,57 @@ LII. Remitir directamente al Congreso del Estado el proyecto de presupuesto del 
 
 LIII. Nombrar al Director del Instituto de Formación, Profesionalización y Carrera Judicial, a propuesta de su Presidente.
 
-LIV. Las demás que le confiera la Constitución Política del Estado, este código y otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2026)</small>
+
+LIV. Coordinar y supervisar las labores de vigilancia y seguridad en los inmuebles que forman parte del patrimonio del Poder Judicial, con excepción de aquellos inmuebles propios y ocupados por entes públicos diversos al Poder Judicial.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+LV. Desarrollar estudios y análisis administrativos que permitan el mejor funcionamiento y la simplificación administrativa de los órganos jurisdiccionales y administrativos del Poder Judicial.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+LVI. Revisar el marco regulatorio del Poder Judicial del Estado, diagnosticar su aplicación y en su caso, conforme a las disposiciones aplicables, realizar anteproyectos de disposiciones legislativas y administrativas en materia de simplificación administrativa, mismas que podrán ser incorporadas a los programas que se establezcan para mejorar sus actividades, previa autorización por el Consejo de la Judicatura.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+LVII. Dictaminar propuestas regulatorias y los análisis de impacto de simplificación administrativa correspondiente.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+LVIII. Proponer, coordinar, publicar, monitorear, opinar y evaluar los programas de simplificación administrativa, así como emitir los lineamientos para su operación, los cuales previo acuerdo del Consejo de la Judicatura, serán vinculantes para los órganos que correspondan.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+LIX. Promover el estudio, la divulgación y la aplicación de la política pública de simplificación administrativa.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+LX. Establecer mecanismos que permitan obtener parámetros de medición para servicios y buenas prácticas, en materia de simplificación administrativa.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+LXI. Coordinar y supervisar las acciones y programas en materia de Protección Civil que deban llevarse a cabo para la prevención de las personas servidoras públicas y el público en general que se encuentren dentro de los inmuebles propiedad del Poder Judicial de conformidad con la normatividad aplicable; con excepción de aquellos inmuebles propios y ocupados por Entes Públicos diversos al Poder Judicial.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+LXII. Coordinar las labores de recopilación y manejo de la información estadística relativa a la actividad jurisdiccional de los órganos del Tribunal Superior de Justicia y del Consejo de la Judicatura con el fin de producir y proveer la información oportuna para la adecuada toma de decisiones.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+LXIII. Administrar los sistemas informáticos, red de equipos de cómputo, soporte técnico y en general todo tipo de equipamiento informático que sea necesario para el quehacer institucional del Tribunal Superior de Justicia y del Consejo de la Judicatura, vigilando su mantenimiento y funcionalidad de forma permanente.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+LXIV. Difundir mediante plataformas propias y medios de comunicación externos, productos comunicacionales que informen de manera transparente a la sociedad civil de las acciones que realiza el Poder Judicial.
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2026)</small>
+
+LXV. Difundir los eventos, cursos, impresiones, libros y en general todas las actividades del Poder Judicial, en todos los medios de comunicación que permita el presupuesto.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE JULIO DE 2026)</small>
+
+LXVI. Las demás que le confiera la Constitución Política del Estado Libre y Soberano de Chiapas, el presente Código y otras disposiciones legales aplicables.
 
 Las decisiones del Pleno del Consejo de la Judicatura serán definitivas e inatacables.
 
@@ -2157,13 +2237,19 @@ Las decisiones del Pleno del Consejo de la Judicatura serán definitivas e inata
 
 El Consejo de la Judicatura contará con un Presidente, que será quien ocupe la Presidencia del Tribunal Superior de Justicia del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 140.
 
-Son atribuciones del Presidente del Consejo de la Judicatura:
+La persona titular de la Presidencia del Consejo de la Judicatura, tiene las atribuciones siguientes:
 
 I. Representar legalmente al Consejo de la Judicatura del Poder Judicial del Estado.
 
 II. La representación a que se refiere la fracción anterior, puede ser delegada al Oficial Mayor, previo acuerdo del Consejo de la Judicatura, para trámites administrativos ante dependencias federales, estatales o municipales, así como para la celebración de toda clase de convenios, acuerdos y contratos que se celebren con entes públicos o particulares exclusivamente.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2026)</small>
+
+Asimismo, la representación para trámites legales será delegada a la Dirección de Asuntos Jurídicos, previo acuerdo del Consejo de la Judicatura, ante toda clase de autoridades judiciales, administrativas, del trabajo, militares, fiscales, agrario y de cualquier otra materia que por su naturaleza requiera de la acreditación de la representación legal respectiva, del fuero federal, estatal o municipal; así como ante sociedades, asociaciones y particulares, en los juicios, procesos y los procedimientos de cualquier índole, con las facultades que se otorguen con su nombramiento respectivo, de igual forma las generales y especiales de un mandato para pleitos y cobranzas.
 
 III. Otorgar, revocar y sustituir poderes, así como delegar en sus servidores públicos subalternos las atribuciones que le correspondan, excepto aquellas que por su naturaleza sean indelegables, en términos de las disposiciones aplicables.
 
@@ -2225,7 +2311,9 @@ XI. Tramitar para su publicación en el Periódico Oficial los acuerdos de inter
 
 XII. Auxiliar a los Consejeros en el ejercicio de sus atribuciones.
 
-XIII. Expedir las constancias de no antecedentes penales y los certificados del registro de peritos.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+XIII. Expedir las Constancias de No Antecedentes Penales, los Certificados del Registro de Peritos y las Constancias de No Inscripción de Persona Deudora Alimentaria Morosa.
 
 XIV. Realizar el registro de títulos y cédulas profesionales, en los términos de lo dispuesto por el Código de Procedimientos Civiles del Estado.
 
@@ -2275,7 +2363,9 @@ Las resoluciones del Consejo que deban notificarse, se harán personalmente a la
 
 En todos los demás casos, las notificaciones se harán por lista de acuerdos y la ejecución de las resoluciones deberá realizarse por conducto de los órganos que el propio Consejo determine.
 
-Todos los acuerdos de interés general emitidos por el Consejo deberán publicarse en el Periódico Oficial.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+Todos los acuerdos de interés general emitidos por el Consejo de la Judicatura y atendiendo el principio de máxima publicidad deberán publicarse en el Periódico Oficial y en el portal de internet del Poder Judicial.
 
 ### CAPÍTULO VII. DE LAS COMISIONES DEL CONSEJO DE LA JUDICATURA
 
@@ -2299,29 +2389,45 @@ Los acuerdos emitidos por las comisiones, deberán ser presentadas al Pleno del 
 
 ### CAPÍTULO I. DE SU INTEGRACIÓN
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 152.
 
-El Consejo de la Judicatura, para el debido ejercicio de sus atribuciones, contará con los siguientes órganos administrativos:
+El Consejo de la Judicatura, para el debido ejercicio de sus atribuciones, tendrá los órganos administrativos siguientes:
 
-I. La Oficialía Mayor.
+I. Oficialía Mayor.
 
 II. Contraloría Interna.
 
-III. La Dirección de Igualdad de Género y Derechos Humanos.
+III. Dirección de Igualdad de Género y Derechos Humanos.
 
-IV. La Dirección de Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena y Juzgados Municipales.
+IV. Dirección de Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena y Juzgados Municipales.
 
-V. La Dirección de Transparencia y Acceso a la Información Pública.
+V. Dirección de Transparencia y Protección de Datos Personales.
 
-VI. La Oficialía de Partes.
+VI. Oficialía de Partes.
 
-VII. El Centro de Convivencia Familiar.
+VII. Centro de Convivencia Familiar.
 
-VIII. El Archivo Judicial.
+VIII. Archivo Judicial.
 
-IX. Los demás que sean necesarios y que apruebe el Pleno del Consejo, de conformidad con el presupuesto asignado.
+IX. Dirección de Asuntos Jurídicos.
 
-El Consejo de la Judicatura establecerá las atribuciones y obligaciones de los órganos administrativos en su Reglamento Interno o en el respectivo acuerdo de creación.
+X. Dirección de Desarrollo e Infraestructura Tecnológica.
+
+XI. Dirección de Comunicación Social y Relaciones Públicas.
+
+XII. Unidad de Simplificación Administrativa.
+
+XIII. Coordinación de Vigilancia y Seguridad.
+
+XIV. Coordinación de Protección Civil y Medio Ambiente.
+
+XV. Coordinación de Administradores del Sistema Acusatorio.
+
+XVI. Los demás que sean necesarios y que apruebe el Pleno del Consejo, de conformidad con el presupuesto asignado.
+
+Las atribuciones de los órganos administrativos que integran el Consejo de la Judicatura, se establecerán en el presente Código, así como en el Reglamento Interno del Consejo de la Judicatura del Poder Judicial del Estado de Chiapas y demás normatividad aplicable.
 
 ### CAPÍTULO II. DE LA OFICIALÍA MAYOR
 
@@ -2339,21 +2445,29 @@ IV. Velar por el cumplimiento de las correcciones disciplinarias que se impongan
 
 V. Formular el anteproyecto del presupuesto de egresos del Tribunal Superior de Justicia y del Consejo de la Judicatura.
 
-VI. Integrar el anteproyecto del presupuesto de egresos del Poder Judicial con los proyectos elaborados por el Tribunal Superior de Justicia, el Consejo de la Judicatura y el Tribunal Administrativo y aprobados por cada uno de los órganos facultados para ello.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+VI. Integrar el anteproyecto del presupuesto de egresos del Poder Judicial con los proyectos elaborados por el Tribunal Superior de Justicia, y el Consejo de la Judicatura, aprobados por los órganos facultados para ello.
 
 VII. Entregar el proyecto de presupuesto de egresos del Poder Judicial al Consejo de la Judicatura, para que éste lo remita al Congreso del Estado.
 
-VIII. Concentrar y administrar los ingresos que perciba el Poder Judicial, con excepción de los correspondientes al Tribunal Administrativo del Poder Judicial del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-IX. Aplicar las partidas del presupuesto de egresos del Poder Judicial, en términos del presente Código, con excepción de las correspondientes al Tribunal Administrativo del Poder Judicial del Estado de Chiapas.
+VIII. Concentrar y administrar los ingresos que perciba el Poder Judicial.
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+IX. Aplicar las partidas del presupuesto de egresos del Poder Judicial, en términos del presente Código y demás ordenamientos legales aplicables.
 
 X. Refrendar, tramitar y registrar los nombramientos, remociones, renuncias, bajas, licencias y jubilaciones de los servidores públicos del Tribunal Superior de Justicia y del Consejo de la Judicatura, y de los órganos jurisdiccionales y administrativos que dependan de éstos, con excepción de los Magistrados Regionales, previo acuerdo del Pleno del Consejo de la Judicatura.
 
-XI. Coordinar y supervisar las acciones y programas en materia de Protección Civil que deban llevarse a cabo para la protección de personal adscrito y el público en general que se encuentre dentro de los inmuebles propiedad del Poder Judicial de conformidad con la normatividad aplicable; con excepción de aquellos inmuebles propios del Poder Judicial ocupados por órganos diversos al Tribunal Superior de Justicia o del Consejo de la Judicatura.
+XI. (DEROGADA, P.O. 28 DE JULIO DE 2026)
 
 XII. Organizar y controlar el escalafón de los trabajadores de base.
 
-XIII. Llevar el control de los bienes que conforman el patrimonio del Poder Judicial, supervisar se mantenga actualizado su inventario y vigilar su adecuada conservación; con excepción de los correspondientes al Tribunal Administrativo.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+XIII. Llevar el control de los bienes que conforman el patrimonio del Poder Judicial, supervisar se mantenga actualizado su inventario y vigilar su adecuada conservación.
 
 XIV. Adquirir, contratar y distribuir los bienes y servicios que permita el presupuesto y requieran los órganos del Tribunal Superior de Justicia y del Consejo de la Judicatura para el desempeño de sus atribuciones, en cumplimiento a los acuerdos emitidos por el Pleno del Consejo de la Judicatura, y en lo que no se contraponga, con base en los procedimientos previstos en la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado.
 
@@ -2369,73 +2483,77 @@ XIX. Supervisar la aplicación y observancia de la normatividad para el manejo d
 
 XX. Supervisar el reclutamiento, selección y contratación del personal administrativo del Tribunal Superior de Justicia y del Consejo de la Judicatura de conformidad con las normas establecidas por el Consejo de la Judicatura.
 
-XXI. Difundir mediante plataformas propias y medios de comunicación externos, productos comunicacionales que informen de manera transparente a la sociedad civil de las acciones que realiza el Poder Judicial, con excepción de los correspondientes al Tribunal Administrativo del Poder Judicial del Estado de Chiapas.
+XXI. (DEROGADA, P.O. 28 DE JULIO DE 2026)
 
-XXII. Desarrollar estudios y análisis administrativos que permitan el mejor funcionamiento y la mejora regulatoria de los órganos jurisdiccionales y administrativos del Poder Judicial, así como elaborar y expedir los manuales de organización, de procedimientos y de atención al público; con excepción de los correspondientes al Tribunal Administrativo del Poder Judicial del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+XXII. Elaborar y expedir los manuales de organización, de procedimientos y de atención al público del Poder Judicial, previa aprobación del Pleno del Consejo de la Judicatura.
 
 XXIII. Efectuar, previo acuerdo del Consejo, la enajenación de los instrumentos y objetos del delito, así como llevar el control del uso y destino de éstos, de conformidad con la normatividad correspondiente.
 
-XXIV. Adquirir, contratar, planear, programar, ejecutar y en general, llevar a cabo todo el proceso de obra pública que corresponda al Poder Judicial, así como llevar a cabo los actos administrativos que sean necesarios para salvaguardar los intereses y bienes inmuebles del Poder Judicial en cumplimiento a los acuerdos emitidos por el Pleno del Consejo de la Judicatura, y en lo que no se contraponga, con base en los procedimientos previstos en la Ley de la materia; con excepción de los correspondientes al Tribunal Administrativo del Poder Judicial del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-XXV. Administrar los sistemas informáticos, red de equipos de cómputo, soporte técnico y en general todo tipo de equipamiento informático que sea necesario para el quehacer institucional del Tribunal Superior de Justicia y del Consejo de la Judicatura, vigilando su mantenimiento y funcionalidad de forma permanente.
+XXIV. Adquirir, contratar, planear, programar, ejecutar y en general, llevar a cabo todo el proceso de obra pública que corresponda al Poder Judicial, así como llevar a cabo los actos administrativos que sean necesarios para salvaguardar los intereses y bienes inmuebles del Poder Judicial en cumplimiento a los acuerdos emitidos por el Pleno del Consejo de la Judicatura, y en lo que no se contraponga, con base en los procedimientos previstos en la Ley de la materia.
+
+XXV. (DEROGADA, P.O. 28 DE JULIO DE 2026)
 
 XXVI. Coordinar, supervisar y administrar los recursos del Fondo Auxiliar para la Impartición de Justicia, observando en todo caso las disposiciones que al efecto emita el Consejo de la Judicatura.
 
-XXVII. Difundir los eventos, cursos, impresiones, libros y en general todas las actividades del Poder Judicial, en todos los medios de comunicación que permita el presupuesto.
+XXVII. (DEROGADA, P.O. 28 DE JULIO DE 2026)
 
 XXVIII. Firmar los cheques para el pago de laudos o sentencias, con la firma conjunta y solidaria del Director del Fondo Auxiliar para la Administración de Justicia.
 
-XXIX. Coordinar y supervisar las labores de vigilancia y seguridad en los inmuebles que forman parte del patrimonio del Poder Judicial, con excepción de aquellos inmuebles propios del Poder Judicial ocupados por órganos diversos al Tribunal Superior de Justicia o del Consejo de la Judicatura.
+XXIX. (DEROGADA, P.O. 28 DE JULIO DE 2026)
 
-XXX. Coordinar y supervisar las actividades de las Delegaciones Administrativas, así como de la Coordinación de Administradores del Sistema Acusatorio.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-XXXI. Coordinar las labores de recopilación y manejo de la información estadística relativa a la actividad jurisdiccional de los órganos del Tribunal Superior de Justicia y del Consejo de la Judicatura con el fin de producir y proveer la información oportuna para la adecuada toma de decisiones.
+XXX. Coordinar y supervisar las actividades de las Delegaciones Administrativas.
 
-XXXII. Coadyuvar en el establecimiento de los programas de evaluación y apoyo a los órganos administrativos, que por la naturaleza de sus funciones requiera del apoyo en materia de análisis psicológico, polígrafo y de entorno socioeconómico del personal; a excepción de los correspondientes al Tribunal Administrativo.
+XXXI. (DEROGADA, P.O. 28 DE JULIO DE 2026)
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+XXXII. Coadyuvar en el establecimiento de los programas de evaluación correspondiente a los órganos administrativos que por la naturaleza de sus funciones requiera del apoyo para el personal de su adscripción.
 
 XXXIII. Supervisar el cumplimiento de las normas y requisitos para el adecuado funcionamiento de los sistemas de reclutamiento, selección y permanencia de los servidores públicos.
 
-XXXIV. Supervisar y aplicar el sistema de evaluación integral; exámenes psicológicos, toxicológicos, polígrafos, entorno socio-económico, competencias y habilidades; al personal de nuevo ingreso y en activo; que garantice, conforme a la normatividad el cumplimiento de los requisitos de ingreso y permanencia, que permita el presupuesto.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-XXXV. Revisar el marco regulatorio del Poder Judicial del Estado, diagnosticar su aplicación y en su caso, conforme a las disposiciones aplicables, realizar anteproyectos de disposiciones legislativas y administrativas en materia de mejora regulatoria, mismas que podrán ser incorporadas a los programas que se establezcan para mejorar en actividades previa autorización por el Consejo de la Judicatura, con excepción de los correspondientes al Tribunal Administrativo del Poder Judicial del Estado de Chiapas.
+XXXIV. Supervisar y aplicar el sistema de evaluación integral y exámenes correspondientes al personal de nuevo ingreso y en activo; que garantice, conforme a la normatividad el cumplimiento de los requisitos de ingreso y permanencia.
 
-XXXVI. Dictaminar propuestas regulatorias y los análisis de impacto regulatorio correspondiente.
+XXXV. (DEROGADA, P.O. 28 DE JULIO DE 2026)
 
-XXXVII. Proponer, coordinar, publicar, monitorear, opinar y evaluar los programas de mejora regulatoria, así como emitir los lineamientos para su operación, los cuales previo acuerdo del Consejo de la Judicatura, serán vinculantes para los órganos que correspondan.
+XXXVI. (DEROGADA, P.O. 28 DE JULIO DE 2026)
 
-XXXVIII. Promover el estudio, la divulgación y la aplicación de la política pública de mejora regulatoria.
+XXXVII. (DEROGADA, P.O. 28 DE JULIO DE 2026)
 
-XXXIX. Establecer mecanismos que permitan obtener parámetros de medición para servicios y buenas prácticas.
+XXXVIII. (DEROGADA, P.O. 28 DE JULIO DE 2026)
+
+XXXIX. (DEROGADA, P.O. 28 DE JULIO DE 2026)
 
 XL. Las demás que le confiera el Consejo de la Judicatura, este Código y la normatividad aplicable al Poder Judicial.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 154.
 
-Para el cumplimiento de sus atribuciones, la Oficialía Mayor se integrará por:
+La Oficialía Mayor para el cumplimiento de sus atribuciones estará integrada por los órganos administrativos siguientes:
 
-I. La Dirección de Tesorería y Contabilidad.
+I. Dirección de Tesorería y Contabilidad.
 
-II. La Dirección del Fondo Auxiliar para la Administración de Justicia.
+II. Dirección del Fondo Auxiliar para la Administración de Justicia.
 
-III. La Dirección de Recursos Humanos.
+III. Dirección de Recursos Humanos.
 
-IV. La Dirección de Programación y Presupuesto.
+IV. Dirección de Programación y Presupuesto.
 
-V. La Dirección de Recursos Materiales y Servicios Generales.
+V. Dirección de Recursos Materiales y Servicios Generales.
 
-VI. La Dirección de Construcción y Remodelación de Inmuebles.
+VI. Dirección de Construcción y Remodelación de Inmuebles.
 
-VII. La Dirección de Asuntos Jurídicos.
+VII. Las demás que permita el presupuesto y autorice el Consejo de la Judicatura.
 
-VIII. La Dirección de Desarrollo e Infraestructura Tecnológica.
-
-IX. La Dirección de Comunicación Social y Relaciones Públicas.
-
-X. La Unidad de Mejora Regulatoria.
-
-XI. Las demás que permita el presupuesto y autorice el Consejo de la Judicatura.
-
-Las atribuciones y obligaciones de las áreas estarán reguladas por el Reglamento Interno del Consejo de la Judicatura.
+Las atribuciones de los órganos administrativos que integran la Oficialía Mayor del Consejo de la Judicatura, se establecerán en el presente Código, así como en el Reglamento Interno del Consejo de la Judicatura del Poder Judicial del Estado de Chiapas y demás normatividad aplicable.
 
 ###### Artículo 155.
 
@@ -2453,21 +2571,29 @@ I. El importe de las multas, fianzas, sanciones, cauciones y garantías que los 
 
 II. Los rendimientos que se generen de los depósitos realizados por los órganos jurisdiccionales ante las instituciones bancarias.
 
-III. El producto de la venta de los objetos o instrumentos materia del delito, que sean de uso lícito, en la forma y términos previstos por el Código Penal para el Estado de Chiapas y la Ley de Bienes Asegurados, Abandonados y Decomisados para el Estado de Chiapas; así como el de la venta de los muebles y valores depositados ante los órganos jurisdiccionales, que no fueren reclamados por quien legalmente tenga derecho a ellos en el término de un año, computado a partir de que haya causado ejecutoria la resolución definitiva.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+III. El producto de la venta de los objetos o instrumentos materia del delito, que sean de uso lícito, en la forma y términos previstos por el Código Penal para el Estado de Chiapas, la Ley de Bienes Asegurados, Abandonados y Decomisados para el Estado de Chiapas, la Ley que Regula el Aseguramiento, Administración, Enajenación y Disposición Final de Vehículos Automotores, Accesorios o Componentes Abandonados para el Estado de Chiapas y demás disposiciones legales aplicables; así como el de la venta de los muebles y valores depositados ante los órganos jurisdiccionales, que no fueren reclamados por quien legalmente tenga derecho a ellos en el término de un año, computado a partir de que haya causado ejecutoria la resolución definitiva.
 
 IV. El monto de la reparación del daño cuando la parte ofendida renuncie al mismo o no lo reclame dentro del término de seis meses a partir de la fecha en que tenga derecho a obtenerlo, siempre que le hubiere sido notificado.
 
 V. Las donaciones o aportaciones hechas a su favor por terceras personas.
 
-VI. El pago de derechos por la expedición a particulares de las constancias de no antecedentes penales.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+VI. El pago de derechos por la expedición a particulares de las Constancias de No Antecedentes Penales y las Constancias de No Inscripción de Persona Deudora Alimentaria Morosa.
 
 VII. El pago correspondiente por los derechos y cuotas de recuperación por la expedición de los certificados del registro de peritos del Poder Judicial.
 
 VIII. El pago correspondiente por la expedición de copias certificadas y certificaciones.
 
-IX. El pago correspondiente a los demás derechos a los que tenga derecho percibir el Poder Judicial por la prestación de sus servicios; exceptuando aquellos del Tribunal Administrativo.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-X. Por los beneficios o productos fiscales a favor del Poder Judicial; con excepción de los correspondientes al Tribunal Administrativo.
+IX. El pago correspondiente a los demás derechos a los que tenga derecho percibir el Poder Judicial por la prestación de sus servicios.
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+X. Por los beneficios o productos fiscales a favor del Poder Judicial.
 
 XI. Las demás que señalen este código, el Reglamento Interior del Consejo de la Judicatura y otras disposiciones legales aplicables.
 
@@ -2511,9 +2637,11 @@ Lo anterior será sin perjuicio de que se tomen las providencias necesarias por 
 
 ### CAPÍTULO III. DE LA CONTRALORÍA INTERNA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 162.
 
-Corresponde a la Contraloría Interna del Consejo de la Judicatura, en el ámbito de su competencia y a excepción de las conferidas al Tribunal Administrativo, el ejercicio de las siguientes atribuciones:
+La Contraloría Interna del Consejo de la Judicatura, en el ámbito de su competencia, le corresponde el ejercicio de las siguientes atribuciones:
 
 I. Planear, organizar y coordinar el sistema de prevención, control y vigilancia de la administración del Poder Judicial; así como implementar los mecanismos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por el Sistema Anticorrupción del Estado de Chiapas, revisando el ingreso, egreso, manejo, custodia y aplicación de los recursos públicos autorizados y su congruencia con el presupuesto de egresos del gobierno del Estado de Chiapas.
 
@@ -2533,19 +2661,23 @@ VIII. Fungir como Autoridad Investigadora, encargada de conocer e investigar los
 
 IX. Las demás que le confiera este Código y el Reglamento Interior del Consejo de la Judicatura.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 163.
 
-Para el cumplimiento de sus atribuciones, la Contraloría Interna contará con:
+La Contraloría Interna para el cumplimiento de sus atribuciones, estará integrada por:
 
-I. Un Contralor Interno.
+I. Un Contralor o Contralora Interna.
 
-II. Un Departamento de Auditoría a Órganos Administrativos.
+II. Departamento de Auditoría a Órganos Administrativos.
 
-III. Un Departamento de Auditoría a Órganos Jurisdiccionales.
+III. Departamento de Auditoría a Órganos Jurisdiccionales.
 
-IV. Un Departamento de Seguimiento y Registro Patrimonial.
+IV. Departamento de Seguimiento y Registro Patrimonial.
 
-V. El personal auditor y administrativo que para el cumplimiento de sus atribuciones requiera y el presupuesto permita.
+V. Departamento de Quejas y Denuncias.
+
+VI. El personal auditor y administrativo que para el cumplimiento de sus fines requiera y el presupuesto permita.
 
 ### CAPÍTULO IV. DIRECCIÓN DE IGUALDAD DE GÉNERO Y DERECHOS HUMANOS
 
@@ -2619,17 +2751,25 @@ XIX. Las demás que le confiera este Código, el Consejo de la Judicatura y las 
 
 Para su funcionamiento, la Dirección de los Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena, y Juzgados Municipales contará con el personal que determine el Consejo de la Judicatura de acuerdo al presupuesto autorizado.
 
-### CAPÍTULO VI. DIRECCIÓN DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2026)</small>
+
+### CAPÍTULO VI. DIRECCIÓN DE TRANSPARENCIA Y PROTECCIÓN DE DATOS PERSONALES
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 166.
 
-La Dirección de Transparencia y Acceso a la Información tendrá la facultad de coordinar y vincular las acciones en materia de transparencia, acceso a la información pública y protección de datos personales y administrar el Portal de Transparencia del Poder Judicial del Estado; así como de recabar y publicar, a través de la Plataforma Nacional y su Portal de Transparencia, las obligaciones de transparencia a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas, siendo el vínculo entre los solicitantes y el Poder Judicial del Estado, a excepción del Tribunal Administrativo.
+La Dirección de Transparencia y Protección de Datos Personales tendrá la facultad de coordinar y vincular las acciones en materia de transparencia, acceso a la información pública y protección de datos personales y administrar el Portal de Transparencia del Poder Judicial del Estado; así como de recabar y coordinar su publicación, a través de la Plataforma Nacional y su Portal de Transparencia, las obligaciones de transparencia y protección de datos personales a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas, la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Chiapas, siendo el vínculo entre los solicitantes y el Poder Judicial del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 167.
 
-La Dirección de Transparencia y Acceso a la Información tendrá las siguientes atribuciones:
+La Dirección de Transparencia y Protección de Datos Personales, tendrá las siguientes atribuciones:
 
-I. Fungir como la Unidad encargada de recabar y difundir la información que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas, así como propiciar que las áreas del Tribunal Superior de Justicia y del Consejo de la Judicatura la actualicen periódicamente, conforme la normatividad aplicable.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+I. Fungir como la Unidad encargada de recabar y difundir la información que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas, y Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Chiapas, así como propiciar que las áreas del Tribunal Superior de Justicia y del Consejo de la Judicatura la actualicen periódicamente, conforme la normatividad aplicable.
 
 II. Recibir y tramitar las solicitudes de acceso a la información, así como las de acceso, rectificación, cancelación y oposición de datos personales que se presenten, dándole seguimiento hasta la resolución que dé fin a las mismas.
 
@@ -2649,9 +2789,13 @@ IX. Derivado de solicitudes de acceso a la información, verificar que la inform
 
 X. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad.
 
-XI. Fomentar la transparencia y accesibilidad al interior de cada sujeto obligado en el Poder Judicial, a excepción del Tribunal Administrativo.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-XII. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas y en las demás disposiciones aplicables.
+XI. Fomentar la transparencia y accesibilidad al interior de cada sujeto obligado en el Poder Judicial.
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+XII. Hacer del conocimiento y coadyuvar con las instancias competentes por la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas, la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Chiapas y demás disposiciones legales aplicables.
 
 XIII. Las demás que le determine el Pleno del Consejo de la Judicatura y demás normatividad aplicable.
 
@@ -3193,9 +3337,11 @@ El Pleno del Consejo de la Judicatura determinará a los servidores públicos qu
 
 Las guardias deberán ser cubiertas preferentemente por el personal que no tenga derecho a vacaciones.
 
-Se exceptúa de lo anterior al Tribunal Administrativo del Poder Judicial del Estado de Chiapas, que se regirá por su propia normatividad.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
 
-### CAPÍTULO II. DE LAS ALTAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2026)</small>
+
+### CAPÍTULO II. DE LAS FALTAS
 
 ###### Artículo 217.
 
@@ -3221,7 +3367,7 @@ Las faltas del Secretario Ejecutivo del Consejo de la Judicatura, se cubrirán p
 
 Las faltas accidentales y temporales de los Secretarios Generales de Acuerdos de las Salas, serán suplidas por un Secretario de Estudio y Cuenta de la misma Sala, designado por el Presidente de la Sala.
 
-Se exceptúa de lo anterior al Tribunal Administrativo del Poder Judicial del Estado de Chiapas, que se regirá por su propia normatividad.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 221.
 
@@ -3233,7 +3379,7 @@ Las faltas definitivas de los Jueces se cubrirán por nuevo nombramiento y las a
 
 Cuando los Secretarios cubran la falta del titular, deberán actuar en los procedimientos con todas las facultades y obligaciones de éste.
 
-Se exceptúa de lo anterior al Tribunal Administrativo del Poder Judicial del Estado de Chiapas, que se regirá por su propia normatividad.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 223.
 
@@ -3243,7 +3389,7 @@ Las faltas definitivas de los Jueces serán suplidas en los términos señalados
 
 Las faltas accidentales y temporales de los Secretarios de Acuerdos e Instructores de los Juzgados de Primera Instancia y Juzgados Especializados, serán suplidas por el Actuario judicial que designe el Juez, quien de inmediato deberá dar el aviso correspondiente al Consejo de la Judicatura, para que ratifique o, en su caso, nombre al Secretario que cubrirá esa falta, lo cual deberá realizarse en un plazo no mayor a quince días.
 
-Se exceptúa de lo anterior al Tribunal Administrativo del Poder Judicial del Estado de Chiapas, que se regirá por su propia normatividad.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 225.
 
@@ -3291,7 +3437,7 @@ XVII. Haber sido procesada o procesado, la servidora o servidor público, su có
 
 XVIII. Los demás que señalen otras disposiciones legales aplicables.
 
-Se exceptúa de lo anterior al Tribunal Administrativo del Poder Judicial del Estado de Chiapas, que se regirá por su propia normatividad.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 227.
 
@@ -3684,3 +3830,23 @@ Artículo Quinto. Conformar el Órgano Instructor en Mecanismos Alternativos de 
 Artículo Sexto. En un plazo máximo de un año, contados a partir de la entrada en vigor del presente Decreto, el Congreso del Estado deberá expedir o adecuar la legislación que regule los procedimientos que establezcan los medios alternativos de solución de controversias, llevados a cabo por los Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena, así como de los Juzgados Municipales del Tribunal Superior de Justicia; hasta en tanto se seguirán rigiendo por la Ley de Justicia Alternativa del Estado de Chiapas.
 
 Artículo Séptimo. El Poder Judicial del Estado llevará a cabo las acciones que sean necesarias para el debido cumplimiento al presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 280 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE ORGANIZACIÓN DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- La Oficialía Mayor del Consejo de la Judicatura del Poder Judicial del Estado de Chiapas, en el ámbito de su respectiva competencia, deberá realizar las transferencias y adecuaciones normativas, reglamentarias y administrativas pertinentes para proveer al eficaz cumplimiento a las disposiciones del presente Decreto.
+
+Artículo Cuarto.- El Consejo de la Judicatura, en un plazo que no exceda de ciento veinte días naturales a partir de la entrada en vigor del presente Decreto, deberá expedir las reformas respectivas al Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado de Chiapas, y demás normatividad que resulte aplicable para el debido cumplimiento del presente Decreto.
+
+Artículo Quinto.- El Consejo de la Judicatura del Poder Judicial del Estado de Chiapas, establecerá el inicio de operación y funcionamiento del Registro Estatal de Personas Deudoras Alimentarias Morosas, en un plazo que no exceda de ciento veinte días naturales a partir de la entrada en vigor del presente Decreto.
+
+Artículo Sexto.- Los procedimientos iniciados en los órganos administrativos de la Oficialía Mayor, con anterioridad a la entrada en vigor del presente Decreto, continuarán su tramitación de conformidad con disposiciones vigentes al momento de su inicio, para proveer el cumplimiento a las disposiciones del presente Decreto.
+
+Artículo Séptimo.- Los órganos administrativos correspondientes de la Oficialía Mayor, que por este Decreto se transfieren al Consejo de la Judicatura del Poder Judicial del Estado de Chiapas, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el cumplimiento del presente Decreto.
+
+Artículo Octavo.- Para el caso que se generen erogaciones con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los recursos del Poder Judicial del Estado en el respectivo presupuesto de egresos del ejecutor de gasto correspondiente, por lo que en ningún caso se autorizarán ampliaciones a su presupuesto de egresos para el presente ejercicio fiscal.
