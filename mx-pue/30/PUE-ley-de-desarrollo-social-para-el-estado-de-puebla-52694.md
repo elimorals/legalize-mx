@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-social-para-el-estado-de-puebla-52694"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2026-06-26"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en la Cuarta Sección al Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -53,7 +53,9 @@ LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA
 
 Las disposiciones de la presente Ley son de orden público e interés social y de observancia general y tienen por objeto:
 
-I.- Garantizar, promover y proteger el cumplimiento de los derechos sociales de los habitantes del Estado;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+I.- Garantizar, promover y proteger el cumplimiento de los derechos sociales de las personas habitantes del Estado;
 
 II.- Establecer las bases para lograr un Desarrollo Social integral, mediante la formulación, ejecución e instrumentación de programas, acciones e inversiones en materia de Desarrollo Social;
 
@@ -99,9 +101,9 @@ VIII. Libre determinación y autonomía de los pueblos indígenas y sus comunida
 
 IX. Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia. Las autoridades del Estado garantizarán que la información gubernamental sea objetiva, oportuna, sistemática y veraz;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-X. Perspectiva de género: Una visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; planteándose por tanto la igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social;
+X. Perspectiva de género: Una visión científica, analítica y política sobre las personas que propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; planteándose por tanto la igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social;
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2022)</small>
 
@@ -123,7 +125,9 @@ XIV. Cohesión social: Se refiere a las relaciones de cooperación, organizació
 
 Para los efectos de esta Ley se entiende por:
 
-I.- Beneficiarios: Aquellas personas que forman parte de la población atendida por los Programas de Desarrollo Social que cumplen los requisitos de la normatividad correspondiente;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+I.- Personas Beneficiarias: Aquellas personas que forman parte de la población atendida por los programas de Desarrollo Social que cumplen los requisitos de la normatividad correspondiente;
 
 II.- (DEROGADA, P.O. 1 DE JUNIO DE 2012)
 
@@ -139,9 +143,9 @@ VII.- Ley: Ley de Desarrollo Social para el Estado de Puebla;
 
 VIII.- Organizaciones: Agrupaciones civiles y sociales, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-IX.- Padrón Único de Beneficiarios: Relación oficial de beneficiarios que incluye a las personas habitantes del Estado, atendidas por los Programas Estatales de Desarrollo Social, así como los Federales y Municipales convenidos, cuyo perfil socioeconómico se establece en la normatividad correspondiente;
+IX.- Padrón Único de Personas Beneficiarias: Relación oficial de personas beneficiarias que incluye a las personas habitantes del Estado, atendidas por los Programas Estatales de Desarrollo Social, así como los Federales y Municipales convenidos, cuyo perfil socioeconómico se establece en la normatividad correspondiente;
 
 > <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2026)</small>
 
@@ -149,7 +153,9 @@ IX Bis.- Política de Desarrollo Social: Conjunto de programas, proyectos y acci
 
 X.- Programas Sociales: Políticas públicas orientadas a combatir la pobreza, la marginación y la vulnerabilidad o la inequidad social;
 
-XI.- Secretaría: Secretaría de Desarrollo Social del Gobierno del Estado de Puebla;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+XI.- Secretaría: Secretaría de Bienestar del Gobierno del Estado de Puebla;
 
 XII.- Sistema Estatal: Sistema Estatal de Desarrollo Social; y
 
@@ -161,7 +167,9 @@ El Desarrollo Social tiene como fin:
 
 I.- Satisfacer las necesidades materiales básicas de la población, esencialmente en los ámbitos de alimentación, salud, educación, vivienda e infraestructura social;
 
-II.- Combatir la inequidad en la distribución de la riqueza, los bienes, y los servicios entre los individuos y grupos sociales;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+II.- Combatir la inequidad en la distribución de la riqueza, los bienes, y los servicios entre las personas y grupos sociales;
 
 III.- Combatir la inequidad social derivada de condiciones de sexo, edad, origen étnico, religioso, orientación sexual o condición física, respetando la pluralidad y diversidad;
 
@@ -207,9 +215,11 @@ Serán considerados derechos para el Desarrollo Social: la salud, la educación,
 
 Toda persona o grupo social en situación de pobreza, marginación o desventaja social, tiene derecho a recibir acciones y apoyos tendientes al mejoramiento de sus condiciones sociales, sujetándose a lo que establezca la normatividad de cada Programa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 11.
 
-Los beneficiarios de los Programas de Desarrollo Social tienen los siguientes derechos y obligaciones:
+Las personas beneficiarias de los Programas de Desarrollo Social tienen los siguientes derechos y obligaciones:
 
 I.- Recibir un trato respetuoso, oportuno y con calidad;
 
@@ -267,9 +277,11 @@ VII.- Promover acciones y programas que incidan en la erradicación del hambre y
 
 VIII.- Promover el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 13.
 
-La Política Estatal de Desarrollo Social considerará en su diseño y aplicación la perspectiva de género en las acciones y programas derivados de ella, para garantizar la igualdad de oportunidades entre hombres y mujeres.
+La Política Estatal de Desarrollo Social considerará en su diseño y aplicación la perspectiva de género en las acciones y programas derivados de ella, para garantizar la igualdad de oportunidades entre las personas.
 
 Asimismo, tomará en consideración en todo momento, las necesidades específicas de los grupos indígenas y grupos con capacidades diferentes de la Entidad y diseñará políticas públicas que impulsen su crecimiento productivo y social.
 
@@ -307,13 +319,13 @@ Las Reglas de Operación de los Programas de Desarrollo Social se sujetarán a l
 
 Los Ayuntamientos de los Municipios de la Entidad, podrán coadyuvar con el Ejecutivo del Estado en la planeación regional y ejecución de los Programas de Desarrollo Social que éste implemente, en los términos y condiciones que determinen en los instrumentos de coordinación que para estos efectos suscriban los mismos, conforme a la normatividad de cada Programa, con excepción de aquellos expresamente asignados legal o administrativamente, a una Dependencia, Entidad u Organismo Federal o Estatal.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 18.
 
-El Gobierno del Estado y los Ayuntamientos de los Municipios se coordinarán para la integración y actualización del Padrón Único de Beneficiarios de los Programas de Desarrollo Social, con el propósito de eficientar el gasto y evitar duplicidad de acciones sociales y beneficiarios en dichos programas.
+El Gobierno del Estado y los Ayuntamientos de los Municipios se coordinarán para la integración y actualización del Padrón Único de personas beneficiarias de los programas de Desarrollo Social, con el propósito de eficientar el gasto y evitar duplicidad de acciones sociales y de personas beneficiarias en dichos programas.
 
-Las Dependencias y Entidades de la Administración Pública Estatal y los Ayuntamientos, contribuirán a la conformación del Padrón Único de Beneficiarios al que se refiere el párrafo anterior, proporcionando la información de los padrones de beneficiarios de los programas que en materia de desarrollo social cada uno ejecute.
+Las Dependencias y Entidades de la Administración Pública Estatal y los Ayuntamientos, contribuirán a la conformación del Padrón Único de personas beneficiarias al que se refiere el párrafo anterior, proporcionando la información de los padrones de personas beneficiarias de los programas que en materia de desarrollo social cada uno ejecute.
 
 ###### Artículo 19.
 
@@ -331,17 +343,21 @@ II. Para la difusión pública se considerarán los factores de cada Municipio, 
 
 a) Se colocará un extracto del programa social en un lugar visible en el inmueble donde residan los Ayuntamientos y las Juntas Auxiliares.
 
-b) El extracto debe señalar al menos los requisitos, el número de beneficiarios y el proceso para ser beneficiario del programa social, la forma en que se aprobará a los candidatos, los puntos a calificar como prioritarios para su selección, y el día en que se darán a conocer los beneficiarios.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
-c) El extracto debe publicarse con un mínimo de treinta días naturales previos a los trámites necesarios para ser beneficiario del programa.
+b) El extracto debe señalar al menos los requisitos, el número de personas beneficiarias y el proceso para ser una persona beneficiaria del programa social, la forma en que se aprobará a las personas candidatas los puntos a calificar como prioritarios para su selección y el día en que se darán a conocer a las personas beneficiarias.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+c) El extracto debe publicarse con un mínimo de treinta días naturales previos a los trámites necesarios para ser una persona beneficiaria del programa.
 
 d) Si se trata de una localidad o comunidad que por vías de acceso o sus particularidades no sea conveniente la difusión pública en el inmueble donde resida el Ayuntamiento o Junta Auxiliar, la publicidad deberá colocarse en el lugar más accesible y de mejor vista para buscar una mayor eficacia.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 19 Ter.
 
-La publicación deberá hacerse en la lengua de la comunidad donde radiquen los beneficiarios del programa.
+La publicación deberá hacerse en la lengua de la comunidad donde radiquen las personas beneficiarias del programa.
 
 ### CAPÍTULO II. DEL FINANCIAMIENTO Y EL GASTO
 
@@ -431,13 +447,13 @@ El Ejecutivo del Estado y los Ayuntamientos de los Municipios, podrán convenir 
 
 ### CAPÍTULO IV. DEL FOMENTO DEL SECTOR SOCIAL DE LA ECONOMÍA
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 30.
 
-El Ejecutivo del Estado y los Ayuntamientos de los Municipios, fomentarán las actividades productivas con potencial de mercado para promover la generación de empleos y de ingresos de personas, familias, grupos y organizaciones productivas y en general del sector social de la economía; promoviendo los valores de los Derechos Humanos, de la inclusión social y en general, el desarrollo integral del ser humano.
+La persona titular del Poder Ejecutivo del Estado y los Ayuntamientos de los Municipios, fomentarán las actividades productivas con potencial de mercado para promover la generación de empleos y de ingresos de personas, familias, grupos y organizaciones productivas y en general del sector social de la economía; promoviendo los valores de los Derechos Humanos, de la inclusión social y en general, el desarrollo integral del ser humano.
 
-Se entenderá por sector social de la economía, al que se refiere el párrafo octavo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, el cual funciona como un sistema socioeconómico creado por organismos de propiedad social, basados en relaciones de solidaridad, cooperación y reciprocidad, privilegiando al trabajo y al ser humano, conformados y administrados en forma asociativa, para satisfacer las necesidades de sus integrantes y comunidades donde se desarrollan.
+Se entenderá por sector social de la economía, al que se refiere el párrafo octavo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, el cual funciona como un sistema socioeconómico creado por organismos de propiedad social, basados en relaciones de solidaridad, cooperación y reciprocidad, privilegiando al trabajo y al ser humano, conformados y administrados en forma asociativa, para satisfacer las necesidades de las personas integrantes y de las comunidades donde se desarrollan.
 
 ###### Artículo 31.
 
@@ -525,9 +541,11 @@ El Sistema Estatal sesionará por lo menos dos veces al año.
 
 ### CAPÍTULO II. DE LAS COMPETENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 38.
 
-Corresponde al Ejecutivo del Estado, por conducto de la Secretaría, las siguientes atribuciones:
+Corresponde a la Persona Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría, las siguientes atribuciones:
 
 I.- Proyectar y coordinar en el ámbito de su competencia, la Planeación Estatal del Desarrollo Social, de conformidad con la normatividad aplicable;
 
@@ -591,9 +609,9 @@ XIX.- Establecer esquemas alternativos para financiar los programas de Desarroll
 
 XX.- Promover el intercambio de experiencias en el diseño, formulación, ejecución y resultados de los programas sociales, con las Dependencias y Entidades de la Administración Pública Estatal, la Federación y los Estados, los Ayuntamientos de los Municipios, los sectores social, privado y académico, así como con las organizaciones no gubernamentales que realicen actividades en materia de Desarrollo Social;
 
-> <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-XXI.- Concertar acciones de capacitación para servidores públicos estatales y municipales en aspectos relacionados con el Desarrollo Social, con las Dependencias y Entidades de la Administración Pública Estatal, la Federación y los Estados, los Ayuntamientos de los Municipios, los sectores social, privado y académico, que realicen actividades en materia de Desarrollo Social;
+XXI.- Concertar acciones de capacitación para las personas servidoras públicas estatales y municipales en aspectos relacionados con el Desarrollo Social, con las Dependencias y Entidades de la Administración Pública Estatal, la Federación y los Estados, los Ayuntamientos de los Municipios, los sectores social, privado y académico, que realicen actividades en materia de Desarrollo Social;
 
 > <small>(ADICIONADA, P.O. 1 DE JUNIO DE 2012)</small>
 
@@ -647,9 +665,11 @@ La coordinación entre Estado y Municipios en materia de Desarrollo Social, tend
 
 Las organizaciones civiles, instituciones académicas, así como organismos nacionales e internacionales, que tengan como objeto impulsar el Desarrollo Social, podrán participar en las acciones relacionadas con la planeación y evaluación de las políticas y acciones públicas en esta materia, mediante la participación organizada de la ciudadanía a través de los Codesos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 44.
 
-Los beneficiarios de los programas sociales podrán organizarse conforme a la normatividad que para tal efecto emita la Secretaría, mediante la constitución de los Codesos, los cuales tendrán las siguientes atribuciones:
+Las personas beneficiarias de los programas sociales podrán organizarse conforme a la normatividad que para tal efecto emita la Secretaría, mediante la constitución de los Codesos, los cuales tendrán las siguientes atribuciones:
 
 I.- Vigilar la adecuada ejecución de las obras y programas que se implementen en sus comunidades;
 
@@ -657,19 +677,25 @@ II.- Gestionar ante las autoridades la realización de obras prioritarias para s
 
 III.- Fomentar la participación ciudadana.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 45.
 
-Las organizaciones civiles vinculadas al Desarrollo Social, podrán recibir fondos públicos, a través de los programas sociales y de conformidad con la normatividad vigente, a excepción de aquellas que formen parte de sus órganos directivos servidores públicos, sus cónyuges o parientes consanguíneos hasta el cuarto grado por afinidad o civiles.
+Las organizaciones civiles vinculadas al desarrollo social, podrán recibir fondos públicos, a través de los programas sociales y de conformidad con la normatividad vigente, a excepción de aquellas que formen parte de sus órganos directivos, personas servidoras públicas, sus cónyuges o parientes consanguíneos hasta el cuarto grado por afinidad o civiles.
 
 Para estos efectos, las organizaciones deberán estar legalmente constituidas y cumplir con los requisitos que se establezcan en las disposiciones y normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 46.
 
-Los beneficiarios podrán, de manera organizada, dar seguimiento al cumplimiento de las metas y la correcta aplicación de los Programas Estatales y Municipales de Desarrollo Social.
+Las personas beneficiarias podrán, de manera organizada, dar seguimiento al cumplimiento de las metas y la correcta aplicación de los Programas Estatales y Municipales de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Artículo 47.
 
-Para realizar las acciones a que se refiere el artículo anterior, el Ejecutivo del Estado y los Ayuntamientos de los Municipios, facilitarán a los beneficiarios, en términos de la Ley de la materia la información que les requieran.
+Para realizar las acciones a que se refiere el artículo anterior, la Persona Titular del Poder Ejecutivo del Estado y los Ayuntamientos de los Municipios, facilitarán a las personas beneficiarias, en términos de la Ley de la materia la información que les requieran.
 
 ### CAPÍTULO IV. DEL REGISTRO DE LAS ORGANIZACIONES CIVILES Y SOCIALES
 
@@ -763,7 +789,9 @@ Las Dependencias o Entidades del Ejecutivo del Estado o de los Ayuntamientos de 
 
 Para realizar la evaluación, deberán tomarse en consideración cuando menos los indicadores siguientes:
 
-I.- Cobertura y número de beneficiarios;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+I.- Cobertura y número de personas beneficiarias;
 
 II.- Calidad de los servicios;
 
@@ -779,7 +807,9 @@ V.- Oportunidades de acceso a los programas;
 
 VI.- Disminución de los índices de pobreza multidimensional; y
 
-VII.- Opinión de los beneficiados.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+VII.- Opinión de las personas beneficiadas.
 
 ###### Artículo 57.
 
@@ -791,9 +821,11 @@ La evaluación será anual, definiendo como periodo del primero de mayo al trein
 
 ### CAPÍTULO VI. DE LA INSPECCIÓN Y VIGILANCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 59.
 
-La Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, será la encargada de verificar el cumplimiento de metas y la correcta aplicación de los recursos públicos asignados a los Programas de Desarrollo Social y para el desempeño de sus funciones podrá:
+La Secretaría Anticorrupción y Buen Gobierno, será la encargada de verificar el cumplimiento de metas y la correcta aplicación de los recursos públicos asignados a los programas de desarrollo social y para el desempeño de sus funciones podrá:
 
 I.- Solicitar la información a las Autoridades Federales, Estatales y Municipales responsables de Desarrollo Social que considere necesaria para el desempeño de sus funciones;
 
@@ -805,25 +837,37 @@ IV.- Atender e investigar las quejas y denuncias presentadas sobre la aplicació
 
 V.- Presentar ante la Autoridad competente, las quejas y denuncias que pueden dar lugar al fincamiento de responsabilidades administrativas, civiles o penales relacionadas con los programas sociales.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 60.
 
-El Gobierno del Estado, a través de la Secretaría, facilitará el acceso a la información necesaria a la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, para el cumplimiento de sus funciones.
+El Gobierno del Estado, a través de la Secretaría, facilitará el acceso a la información necesaria a la Secretaría Anticorrupción y Buen Gobierno para el cumplimiento de sus funciones.
 
 ### CAPÍTULO VII. DE LA DENUNCIA
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### Artículo 61.
 
-Toda persona u organización podrá presentar denuncia ante la Autoridad competente sobre cualquier hecho, acto u omisión, que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta Ley o contravengan sus disposiciones y de los demás ordenamientos que regulen materias relacionadas con el Desarrollo Social, independientemente de la obligación que tiene cualquier individuo de denunciar ante las autoridades penales una conducta tipificada como delito.
+Toda persona u organización podrá presentar denuncia ante la autoridad competente sobre cualquier hecho, acto u omisión, que produzca o pueda producir daños al ejercicio de los derechos establecidos en esta ley o contravengan sus disposiciones y de los demás ordenamientos que regulen materias relacionadas con el desarrollo social, independientemente de la obligación que tiene cualquier persona de denunciar ante las autoridades penales una conducta tipificada como delito.
 
 Artículo. 62.- La denuncia popular podrá ejercitarse por cualquier persona, bastando que se presente por escrito y contenga:
 
-I.- Nombre o razón social, domicilio y demás datos que permitan la identificación del denunciante y, en su caso, de su representante legal;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+I.- Nombre o razón social, domicilio y demás datos que permitan la identificación de la persona denunciante y, en su caso, de su representante legal;
 
 II.- Los actos, hechos u omisiones denunciados;
 
 III.- Los datos que permitan identificar a la presunta autoridad infractora; y
 
-IV.- Las pruebas que en su caso ofrezca el denunciante.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+IV.- Las pruebas que en su caso ofrezca la persona denunciante.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2026)</small>
+
+La denuncia popular podrá ser anónima, y se sujetará únicamente a lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -934,6 +978,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LAS FRACCIONES I, VI Y VII DEL ARTÍCULO 12 Y SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 3 Y LA FRACCIÓN VIII AL ARTÍCULO 12 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1, LA FRACCIÓN X DEL 2 BIS, LAS FRACCIONES I, IX Y XI DEL 3, LA FRACCIÓN II DEL 4, EL PRIMER PÁRRAFO DEL 11, EL PRIMER PÁRRAFO DEL 13, EL 18, LOS INCISOS B) Y C) DE LA FRACCIÓN II DEL 19 BIS, EL 19 TER, EL 30, EL PRIMER PÁRRAFO Y LA FRACCIÓN XXI DEL 38, EL PRIMER PÁRRAFO DEL 44, EL PRIMER PÁRRAFO DEL 45, EL 46, EL 47, LAS FRACCIONES I Y VII DEL 56, EL PRIMER PÁRRAFO DEL 59, EL 60, EL 61 Y LAS FRACCIONES I Y IV DEL 62; Y ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 62, TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
