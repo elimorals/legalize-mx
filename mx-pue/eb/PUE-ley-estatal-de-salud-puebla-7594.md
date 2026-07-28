@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2026-06-16"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -273,9 +273,9 @@ I. Proporcionar servicios de salud a toda la población del Estado y mejorar la 
 
 II. Contribuir al desarrollo demográfico armónico del Estado;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-III. Colaborar al bienestar social de la población del Estado mediante servicios de asistencia social, principalmente a menores en estado de abandono, adultos mayores desamparados y personas con discapacidad, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y lo social;
+III. Colaborar al bienestar social de la población del Estado mediante servicios de asistencia social, principalmente a niñas, niños y adolescentes en estado de abandono, personas adultas mayores desamparados y personas con discapacidad, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y lo social;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -607,9 +607,9 @@ X. La asistencia a los grupos más vulnerables y con mayor atención a las comun
 
 XI. La salud en el trabajo o laboral.
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-XII.- La atención de los sujetos de violencia intrafamiliar y abandono, en particular a las niñas y los niños que serán atendidos, conforme al protocolo de atención a menores víctimas de violencia intrafamiliar y abandono, establecido por la Secretaría de Salud del Estado; y
+XII.- La atención de los sujetos de violencia familiar y abandono, en particular a las niñas, niños y adolescentes que serán atendidos, conforme al protocolo de atención a víctimas de violencia familiar y abandono, establecido por la Secretaría de Salud del Estado; y
 
 > <small>(ADICIONADA, P.O. 10 DE MARZO DE 2000)</small>
 
@@ -837,9 +837,11 @@ IV.- La atención de la preeclampsia y la eclampsia, de forma preventiva, perió
 
 En los servicios de salud se promoverá la organización institucional de comités de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes, así como de prevenir, investigar y sancionar la violencia obstétrica.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 58.
 
-La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
+La protección de la salud física y mental de las niñas, niños y adolescentes es una responsabilidad que comparten los padres, madres, tutores, tutoras o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
 
 ###### ARTICULO 59.
 
@@ -855,9 +857,9 @@ Il. Acciones de orientación y vigilancia institucional, capacitación y fomento
 
 III. Acciones para promover el establecimiento de Bancos de leche materna; y
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-IV. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de cinco años.
+IV. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas en niñas y niños menores de cinco años.
 
 ###### ARTICULO 60.
 
@@ -869,9 +871,9 @@ I. Los programas para padres y madres destinados a promover la atención materno
 
 II. Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas o en su caso, actos de violencia obstétrica.
+III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de las niñas, niños y adolescentes y de las mujeres embarazadas o en su caso, actos de violencia obstétrica.
 
 IV. Acciones relacionadas con educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excreta, y
 
@@ -879,9 +881,9 @@ IV. Acciones relacionadas con educación básica, alfabetización de adultos, ac
 
 V. Los programas de prevención al maltrato infantil, violencia obstétrica y violencia intrafamiliar;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-VI. Programas dirigidos a padres solteros dedicados al cuidado de sus hijos con el objeto de promover el desarrollo físico, mental y emocional saludable de los menores, haciendo valer el derecho a la igualdad de género;
+VI. Programas dirigidos a padres solteros dedicados al cuidado de sus hijas e hijos con el objeto de promover el desarrollo físico, mental y emocional saludable de las niñas, niños y adolescentes, haciendo valer el derecho a la igualdad de género;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
@@ -890,6 +892,12 @@ VII. Programas para la ampliación de la cobertura del servicio de guarderías y
 > <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
 
 VIII. La instalación de cambiadores de pañales en sanitarios de mujeres y hombres en los centros de trabajo de los sectores público y privado, fomentando la comodidad, privacidad e higiene de las personas usuarias.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2026)</small>
+
+ARTICULO 60 BIS.- Los servicios de salud a que hace referencia el artículo 34 de la presente Ley deberán proporcionar atención médica inmediata y expedita a toda mujer embarazada que presente una urgencia obstétrica, ya sea por ingreso directo o mediante referencia de otra unidad médica.
+
+Esta obligación será aplicable en las unidades con capacidad para emergencias obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
 ###### ARTICULO 61.
 
@@ -1011,11 +1019,13 @@ I. La atención de personas con padecimientos mentales, la rehabilitación psiqu
 
 II. La organización, operación y supervisión de Instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTICULO 69.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales o de la condición del espectro autista.
+Los padres, madres, tutores, tutoras o quienes ejerzan la patria potestad, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto procurarán su atención inmediata de las niñas, niños y adolescentes que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales o de la condición del espectro autista.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a su atención.
 
@@ -1393,7 +1403,9 @@ Todas las autoridades involucradas, así como el personal sanitario deberán act
 
 No será válido el consentimiento otorgado por:
 
-I. Menores de edad,
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+I. Niñas, niños o adolescentes,
 
 II. Incapaces, o
 
@@ -1881,11 +1893,13 @@ II. La atención en establecimientos especializados a personas víctimas de malt
 
 III. La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
 
-IV. El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+IV. El ejercicio de la tutela de las niñas, niños y adolescentes, en los términos de las disposiciones legales aplicables;
 
-V. La prestación de servicios de asistencia jurídica y orientación social especialmente a menores, ancianos, discapacitados, personas con la condición del espectro autista sin recursos, y en general a cualquier otra persona en estado de necesidad;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+V. La prestación de servicios de asistencia jurídica y orientación social especialmente a las niñas, niños y adolescentes, personas adultas mayores, personas con discapacidad, personas con la condición del espectro autista sin recursos, y en general a cualquier otra persona en estado de necesidad;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
 
@@ -2039,7 +2053,9 @@ El Gobierno del Estado coadyuvará con la Secretaría de Salud en la ejecución,
 
 El Gobierno del Estado y los Ayuntamientos para evitar y prevenir el consumo de substancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
 
-I. Determinarán y ejercerán medios de control en el expendio de substancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+I. Determinarán y ejercerán medios de control en el expendio de sustancias inhalantes, para prevenir su consumo por parte de niñas, niños, adolescentes y personas con discapacidad;
 
 II. Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas substancias, para evitar el empleo indebido de las mismas;
 
@@ -2477,9 +2493,9 @@ II. Perforador: Persona que introduce algún objeto decorativo de material de im
 
 III. Micropigmentador: Persona que deposita pigmentos en áreas específicas de la piel humana, bajo la epidermis, en la capa capilar de la dermis con agujas accionadas mediante un instrumento manual o electromecánico.
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
-ARTICULO 246 QUATER.- Queda prohibido realizar tatuajes, micropigmentaciones y perforaciones en puestos semifijos, módulos móviles o ambulantes y a personas menores de 18 años, así como aquellas personas que no se encuentren en pleno goce de sus facultades mentales. En el caso de las acciones antes mencionadas, solo podrá exceptuarse lo anterior a menores de 18 años que estén acompañados de uno de sus padres o tutor previa acreditación de tal carácter, o cuenten con la autorización por escrito.
+ARTICULO 246 QUATER.- Queda prohibido realizar tatuajes, micropigmentaciones y perforaciones en puestos semifijos, módulos móviles o ambulantes y a niñas, niños o adolescentes, así como personas con discapacidad. En el caso de las acciones antes mencionadas, solo podrá exceptuarse lo anterior a niñas, niños o adolescentes que estén acompañados de uno de sus padres, madres, tutor o tutora previa acreditación de tal carácter, o cuenten con la autorización por escrito.
 
 > <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
@@ -3784,6 +3800,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 16 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE ADICIONA EL ARTÍCULO 102 BIS A LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a los quince días naturales de su publicación.
+
+SEGUNDO. Se deroga toda disposición legal y reglamentaria que se oponga al presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 6, LA FRACCIÓN XII DEL 29, EL 58, LA FRACCIÓN IV DEL 59, LAS FRACCIONES III Y VI DEL 60, EL PRIMER PÁRRAFO DEL 69, LA FRACCIÓN I DEL 103, LAS FRACCIONES IV Y V DEL 162, LA FRACCIÓN I DEL 181 Y EL 246 QUATER; Y SE ADICIONA EL ARTÍCULO 60 BIS, TODOS DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a los quince días naturales de su publicación.
 
