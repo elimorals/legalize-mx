@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-expropiacion-de-bienes-muebles-e-inmuebles-de-6096"
 country: "mx"
 rank: "ley"
 publication_date: "1923-05-16"
-last_updated: "2021-07-29"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EXPROPIACIÓN DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el miércoles 16 de mayo de 1923.
 
@@ -133,11 +133,11 @@ Cuando la indemnización deba cubrirse con fondos públicos, se librará, de pla
 
 En los casos previstos por las partes segunda y tercera del artículo siete, el Ejecutivo, por conducto del Ministerio Público, enviará copia de su resolución y de las constancias conducentes, al Juez de lo Civil del Partido Judicial en que se encuentren los bienes. Cuando éstos se hallen situados en dos o más Partidos Judiciales, y sean de un solo dueño, tendrá competencia el Juez que elija el Ejecutivo entre los de esos Partidos.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### Art. 10.
 
-Las diligencias Judiciales de que habla esta Ley, serán por escrito, y en ellas representará al Ejecutivo, el Fiscal General o el funcionario de la Fiscalía que él designe, teniendo en su caso aplicación, lo dispuesto por el artículo 49 del Código de Procedimientos Civiles del Estado de Jalisco.
+Las diligencias Judiciales de que habla esta Ley, serán por escrito, y en ellas representará al Ejecutivo, el Fiscal General o el funcionario de la Fiscalía que él designe, de conformidad en lo previsto en el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Art. 11.
 
@@ -286,3 +286,9 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28415/LXII/21 QUE REFORMA LOS ARTÍCULOS 2, 5, 18 Y 22 DE LA LEY DE EXPROPIACIÓN DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30208/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 3 Y 63 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 14 Y 92 DE LA LEY DEL NOTARIADO DEL ESTADO DE JALISCO; SE REFORMA EL ARTÍCULO 10 DE LA LEY DE EXPROPIACIÓN DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA DEL ESTADO DE JALISCO Y, SE REFORMA EL ARTÍCULO 17 DEL ARANCEL DE ABOGADOS PARA EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
