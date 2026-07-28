@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2026-04-08"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JULIO DE 2026.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -2609,25 +2609,37 @@ La pena será de diez a treinta años de prisión para el salteador de caminos o
 
 ### CAPÍTULO III BIS. ACECHO
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2026)</small>
 
-ARTÍCULO 240 BIS. Comete el delito de acecho toda persona que siga, vigile o se comunique persistente y reiteradamente a otra persona, sin su consentimiento generándole un estado de temor, angustia, intranquilidad, incomodidad o zozobra, de tal forma que ocasione menoscabo, restricción, limitación o alteración a su estilo de vida o que debido a ello se limite gravemente su libertad de actuar o toma de decisiones.
+ARTÍCULO 240 BIS. Comete el delito de acecho toda persona que, de manera persistente y reiterada sin consentimiento del sujeto pasivo, la vigile, monitoree, observe, persiga, busque cercanía física, establezca o intente establecer contacto a través de cualquier tipo de medio de comunicación o por interpósita persona, la intercepte en lugares que frecuente u obtenga y utilice la información personal de la victima de manera invasiva, generándole un estado de temor, angustia, intranquilidad, incomodidad o zozobra ocasionándole menoscabo, restricción, limitación o alteración a su estilo de vida o que debido a ello se limite gravemente su libertad personal.
 
 Este delito se perseguirá por querella.
 
-(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025) (F. DE E., D.O. 7 DE ENERO DE 2026)
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2026)</small>
 
-ARTÍCULO 240 TER. Con lo dispuesto en el artículo anterior, se impondrá de seis meses a dos años de prisión y multa de quinientos a mil Unidades de Medida y Actualización a quien, de manera insistente y reiterada, lleve a cabo cualquiera de las conductas siguientes:
+ARTÍCULO 240 TER. Al sujeto activo del delito de acecho se le impondrá de seis meses a dos años de prisión y multa de quinientos a mil Unidades de Medida y Actualización por la comisión de cualquiera de las conductas previstas en el artículo 240 Bis.
+
+> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 2025)</small>
 
 I. Vigile, monitoree u observe a la víctima.
 
+> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
 II. Persiga o busque su cercanía física.
+
+> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 2025)</small>
 
 III. Establezca o intente establecer contacto con la persona a través de cualquier tipo de medio de comunicación o por interpósita persona.
 
+> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
 IV. Intercepte a la víctima en lugares donde la victima frecuenta.
 
+> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 2025)</small>
+
 V. Obtenga y utilice la información personal de la victima de manera invasiva.
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2025)</small>
 
 Las penas previstas en este artículo se impondrán sin perjuicio de las que pudieren corresponder a otros delitos cometidos en concurso aplicando las reglas según corresponda.
 
@@ -2713,11 +2725,19 @@ Si la información obtenida por cualquiera de los medios establecidos en las fra
 
 ### CAPÍTULO V BIS. VIOLACIÓN A LA INTIMIDAD SEXUAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2026)</small>
+
+ARTÍCULO 243 BIS 3. Comete el delito de violación a la intimidad sexual la persona que por sí misma o por interpósita persona que divulgue, comparta, distribuya, publique imágenes, videos, audios, fotografías, impresiones de contenido íntimo sexual de una persona sin su consentimiento, su aprobación, o sin su autorización; así como a quien videograbe, audiograbe, fotografíe, imprima o elabore, imágenes, audios o videos con contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación, o sin su autorización.
+
+> <small>(ADICIONADO, D.O. 28 DE JULIO DE 2026)</small>
+
+A quien cometa este delito, se le impondrá una pena de tres a seis años de prisión y una multa de quinientas a mil Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, D.O. 28 DE JULIO DE 2026)</small>
+
+Se impondrán las mismas sanciones previstas en este artículo cuando las imágenes, videos, audios, fotografías, impresiones de contenido íntimo sexual se elaboren, sinteticen, generen, manipulen, o alteren, por cualquier medio, incluidos sistemas de inteligencia artificial, aprendizaje automático o herramientas de edición digital, representaciones estáticas o en movimiento en las que aparezcan una o varias personas realizando actos sexuales o de exhibicionismo corporal, reales, simulados o sintéticos, o en las que se superpongan o utilicen rasgos de identificación, como rostro, voz o cuerpo, de dicha o dichas personas con fines lascivos o sexuales con el objeto de causar daño directa o indirectamente su divulgación, distribución o publicación.
+
 > <small>(REFORMADO, D.O. 27 DE OCTUBRE DE 2022)</small>
-
-ARTÍCULO 243 BIS 3.- Comete el delito de violación a la intimidad sexual la persona que divulgue, comparta, distribuya o publique imágenes, videos o audios de contenido íntimo sexual de una persona que tenga la mayoría de edad, sin su consentimiento, su aprobación o su autorización; así como a quien videograbe, audiograbe, fotografíe, imprima o elabore, imágenes, audios o videos con contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación, o sin su autorización. A quien cometa este delito, se le impondrá una pena de tres a seis años de prisión y una multa de quinientas a mil Unidades de Medida y Actualización.
-
-Se impondrán las mismas sanciones previstas en el artículo anterior cuando las imágenes, videos o audios de contenido íntimo sexual que se divulguen, compartan, distribuyan o publiquen no correspondan con la persona que es señalada o identificada en los mismos.
 
 El mínimo y el máximo de la pena se aumentará hasta en una mitad:
 
@@ -2733,13 +2753,29 @@ V. Cuando se haga con fines lucrativos.
 
 VI. Cuando a consecuencia de los efectos o impactos del delito, la víctima atente contra su integridad o contra su propia vida.
 
+> <small>(REFORMADO, D.O. 27 DE OCTUBRE DE 2022)</small>
+
 Cuando el delito previsto en este artículo sea cometido contra una persona menor de dieciocho años de edad, se estará a lo establecido en el artículo 211 de este código.
 
 > <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2018)</small>
 
 ARTÍCULO 243 BIS 4.- A quien coaccione, hostigue, o exija a otra persona, la elaboración o remisión de imágenes o grabaciones de voz o audiovisuales de contenido erótico, sexual o pornográfico bajo la amenaza de revelar, publicar, difundir o exhibir sin su consentimiento el material de la misma naturaleza que previamente la víctima le haya compartido directamente o que haya obtenido por cualquier otro medio, se le impondrá de seis meses a cuatro años de prisión y multa de cien a cuatrocientas unidades de medida y actualización.
 
-Cuando la conducta a que se refiere en el párrafo anterior sea cometida contra un menor de dieciocho años, la pena y sanción establecida se aumentará hasta en una mitad.
+> <small>(ADICIONADO [N. DE E. REFORMADO CON SUS INCISOS], D.O. 28 DE JULIO DE 2026)</small>
+
+Cuando la conducta a que se refiere en el párrafo anterior, la pena y sanción establecida se aumentará hasta en una mitad cuando:
+
+I. Sea cometida contra un menor de dieciocho años;
+
+II. Concurran tres o más víctimas;
+
+III. La conducta se difunda en entornos escolares o mediante catálogos, repositorios o grupos creados para tal fin;
+
+IV. La persona activa sea alumno, docente, directiva o personal de la institución educativa o tenga autoridad, confianza o custodia respecto de las víctimas;
+
+V. Se utilicen datos obtenidos de redes sociales o sistemas informáticos sin autorización, o
+
+VI. Se obtenga beneficio económico.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 13 DE MARZO DE 2020)</small>
 
@@ -2808,6 +2844,16 @@ II. Cuando el sujeto activo emplea engaño, amenaza, violencia física o moral, 
 Lo anterior, sin perjuicio de las sanciones que correspondan si resultare cometido otro delito.
 
 Para la configuración del delito, no será necesario que la víctima acceda a los requerimientos o solicitudes del sujeto activo.
+
+> <small>(ADICIONADO, D.O. 28 DE JULIO DE 2026)</small>
+
+ARTÍCULO 243 BIS 14. Comete el delito de uso indebido de software de inteligencia artificial, la persona que elabore, genere o manipule imágenes, videos, audios, o cualquier tipo de material por sí mismo o a través de interpósita persona que cause directa o indirectamente perjuicio o daño a otra persona al ser divulgados, compartidos, distribuidos, o publicados, se le impondrán de seis meses a tres años de prisión y de mil a dos mil Unidades de Medida y Actualización.
+
+Se entenderá como "Software de Inteligencia artificial" cualquier sistema, dispositivo o programa de carácter informático que cuente con la capacidad de realizar actividades que de forma convencional requieren la inteligencia humana para su realización, incluyendo sistemas de procesamiento de lenguaje natural, aprendizaje automático, redes neuronales y algoritmos avanzados.
+
+Se aumentará hasta el doble la pena mínima y máxima cuando el infractor coaccione, hostigue o exija a otra persona realizar una contraprestación y/o acción u omisión alguna bajo la amenaza de revelar, publicar, difundir o exhibir imágenes, videos, audios o cualquier tipo de material elaborado, generado o manipulado mediante software de inteligencia artificial que pueda causarle directa o indirectamente perjuicio o daño.
+
+Cuando se cometiere por servidor público, además de lo previsto en el primer párrafo de este artículo, se le impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación de uno a cinco años para desempeñarlos.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
 
@@ -3653,6 +3699,10 @@ Si faltaren a la verdad al retractar sus declaraciones se considerarán como rei
 
 A quien con el propósito de inculpar a alguien como responsable de un delito ante la autoridad, le impute falsamente un hecho o simule en su contra la existencia de pruebas materiales que hagan presumir esa responsabilidad, se le impondrá prisión de dos a ocho años y de cien a trescientos días-multa.
 
+> <small>(ADICIONADO, D.O. 28 DE JULIO DE 2026)</small>
+
+La pena establecida en el presente artículo se aumentará hasta el doble cuando las pruebas proporcionadas hayan sido elaboradas, generadas o manipuladas mediante software de inteligencia artificial.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 288.
@@ -3821,6 +3871,10 @@ No servirá de excusa de la difamación o de la calumnia, que el hecho imputado 
 
 Comete el delito de chantaje el que para obligar a otro a hacer, tolerar o dejar de hacer alguna cosa contra sus propios bienes jurídicos o a entregarle dinero o cualquier otro objeto, amenace con difamarlo.
 
+> <small>(ADICIONADO, D.O. 28 DE JULIO DE 2026)</small>
+
+ARTÍCULO 306 BIS. Se equiparará al delito de chantaje quien, mediante el uso de software de inteligencia artificial, aprendizaje automático o herramientas de edición digital, genere, manipule o difunda imágenes, audios, videos, textos u otros contenidos falsos o alterados con el propósito de intimidar, amenazar o difamar a una persona, a fin de obligarla a realizar, tolerar o dejar de realizar algún acto en perjuicio de sus propios bienes jurídicos, o a entregarle dinero o cualquier otro objeto.
+
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 307.
@@ -3987,11 +4041,11 @@ ARTÍCULO 314 BIS. Para el supuesto de las relaciones sentimentales sin que medi
 
 Y en el caso que la víctima sea menor de edad, se entenderá como equiparado el delito y la sanción será aplicable acorde al artículo 315 de este código penal, tomando en cuenta los supuestos que en este se determinan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 315.
 
-Se equipara a la violación y se sancionará con prisión de doce a treinta y cinco años, y de tres mil a cinco mil días-multa, a quien sin violencia y con fines lascivos tenga cópula o introduzca por la vía vaginal o anal cualquier objeto o instrumento distinto del miembro viril, a una persona menor de quince años de edad o a persona privada de razón o sentido o cuando por enfermedad o cualquier otra causa no pudiera resistir.
+Se equipara a la violación y se sancionará con prisión de doce a treinta y cinco años, y de tres mil a cinco mil días-multa, a quien sin violencia y con fines lascivos tenga cópula o introduzca por la vía vaginal o anal cualquier objeto o instrumento distinto del miembro viril, a una persona menor de quince años de edad o a persona con discapacidad o cuando por enfermedad o cualquier otra causa no pudiera resistir.
 
 > <small>(REFORMADO, D.O. 24 DE JULIO DE 2020)</small>
 
@@ -4215,13 +4269,19 @@ IV. Con prisión de cinco a diez años y de doscientos a quinientos días-multa,
 
 V. La reparación del daño proveniente de la fracción XVIII del Artículo 324 de este Código, será regulado en la sentencia de gradación del concurso;
 
-> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, D.O. 28 DE JULIO DE 2026)</small>
 
-VI. La conducta prevista en la fracción XXIII del artículo 324, se sancionará por su gravedad, con prisión de cuatro a ocho años y de quinientos a mil días multa si el valor de lo defraudado fuera mayor de seiscientas unidades de medida y actualización, y
+VI. La conducta prevista en la fracción XXIII del artículo 324, se sancionará por su gravedad, con prisión de cuatro a ocho años y de quinientos a mil días multa si el valor de lo defraudado fuera mayor de seiscientas unidades de medida y actualización;
 
-> <small>(ADICIONADA, D.O. 9 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, D.O. 28 DE JULIO DE 2026)</small>
 
 VII. Cuando la simulación prevista en la fracción XVII del artículo 324 se hiciera con la intención de afectar las resoluciones provisionales o definitivas de la autoridad competente en materia de pensión de alimentos a las personas contempladas en el artículo 220 de este código se duplicará la sanción, independientemente de las que pudieran resultar por la comisión de cualquier otro delito.
+
+Para estimar la cuantía del fraude se atenderá únicamente al valor intrínseco de la cosa, si éste no pudiere determinarse o si por la naturaleza de ésta no fuere estimable en dinero, se aplicarán de tres meses a ocho años de prisión y de diez a cien días-multa, y
+
+> <small>(ADICIONADA, D.O. 28 DE JULIO DE 2026)</small>
+
+VIII. Cuando el fraude se cometa mediante el uso de software de inteligencia artificial para suplantar la identidad de una persona, falsificar documentos o generar contenido engañoso con el fin de obtener un beneficio indebido, la pena se aumentará en una mitad respecto de la que correspondería según el monto de lo defraudado.
 
 > <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
@@ -6402,3 +6462,15 @@ Artículo segundo. Los asuntos que se encuentren en trámite ante el ministerio 
 Protocolo de actuación
 
 Artículo tercero. La autoridad investigadora en lo conducente, para la investigación del delito de incumplimiento de obligaciones de asistencia familiar, podrá implementar un protocolo que asegure la correcta integración de las carpetas de investigación en ese delito.
+
+D.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 214/2026 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE ACECHO Y DELITOS COMETIDOS A TRAVÉS DE SOFTWARE O INTELIGENCIA ARTIFICIAL”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
