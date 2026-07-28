@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-175208"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-11-28"
-last_updated: "2026-03-15"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en la Tercera Edición Vespertina del Número 18 del Periódico Oficial del Estado de Puebla, el jueves 28 de noviembre de 2024.
 
@@ -503,9 +503,9 @@ XXIX. Tramitar, por acuerdo del Gobernador o Gobernadora, las solicitudes de amn
 
 XXX. Cumplir y controlar las actividades del Calendario Oficial de Ceremonias Cívicas;
 
-XXXI. Administrar, conforme a la Ley General y la local en la materia, el Archivo General del Estado; normar y asesorar a las dependencias y Entidades de la Administración Pública Estatal en la organización, control, registro y salvaguarda de sus archivos en activo y los que deban enviar al Archivo General del Estado; así como coordinarse con las Secretarías de Planeación, Finanzas y Administración, y Anticorrupción y Buen Gobierno, para la emisión de las normas y lineamientos que deban observar las dependencias y Entidades para la guarda, custodia, conservación, y en su caso, baja de documentos oficiales, y con la Secretaría de Arte y Cultura, para el manejo y preservación del archivo histórico, de conformidad con las disposiciones legales aplicables;
+XXXI. (DEROGADA, P.O. 28 DE JULIO DE 2026)
 
-XXXII. Prestar, a través de la unidad administrativa o instancia correspondiente, la asistencia jurídica gratuita en el fuero común, en términos de la Constitución Política de los Estados Unidos Mexicanos, además de otorgar la misma a las personas que sean de escasos recursos económicos, tengan una notoria vulneración por discapacidad o que por su condición o por disposición de la ley, merezcan especial protección frente a las que se encuentren en la situación contraria;
+XXXII. (DEROGADA, P.O. 28 DE JULIO DE 2026)
 
 XXXIII. Recibir de las dependencias y Entidades de la Administración Pública Estatal, la información respectiva en materia de derechos humanos, cuando así corresponda en el ámbito de su competencia;
 
@@ -2402,3 +2402,11 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado entra
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR VIRTUD DEL CUAL SE DEROGAN LAS FRACCIONES XXXI Y XXXII DEL ARTÍCULO 32 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
