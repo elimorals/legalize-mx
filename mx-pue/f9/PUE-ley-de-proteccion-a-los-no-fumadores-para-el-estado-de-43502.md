@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-los-no-fumadores-para-el-estado-de-43502"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-26"
-last_updated: "2017-12-29"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE PROTECCION A LOS NO FUMADORES PARA EL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN A LOS NO FUMADORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 26 de enero de 2005.
 
@@ -43,7 +45,9 @@ LEY DE PROTECCIÓN A LOS NO FUMADORES PARA EL ESTADO DE PUEBLA
 
 La presente Ley es de orden público e interés general y tiene por objeto:
 
-I. Promover la cultura de tolerancia y respeto entre fumadores y no fumadores;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+I. Promover la cultura de tolerancia y respeto entre las personas fumadoras y no fumadoras;
 
 II. Proteger la salud de las personas por inhalar involuntariamente el humo generado por la combustión de tabaco;
 
@@ -59,7 +63,9 @@ Para efectos de la presente Ley, se entiende por:
 
 I. Fumar: Acción y efecto de inhalar y exhalar el humo generado por la combustión de tabaco;
 
-II. Autoridades Sanitarias: El Gobernador del Estado, la Secretaría de Salud Pública del Estado y los Ayuntamientos en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+II. Autoridades Sanitarias: La persona titular del Poder Ejecutivo del Estado, la Secretaría de Salud del Estado y los Ayuntamientos en el ámbito de sus respectivas competencias;
 
 III. Ley: Ley de Protección a los No Fumadores para el Estado de Puebla;
 
@@ -93,7 +99,9 @@ III. De hospitales, clínicas, centros de salud, centros de atención médica p�
 
 IV. De bibliotecas, museos y hemerotecas;
 
-V. De centros o instituciones de educación inicial, preescolar, básica, media, media superior, superior y especial, siendo los responsables de la observancia de esta norma los Directores de cada uno de los planteles educativos;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+V. De centros o instituciones de educación inicial, preescolar, básica, media, media superior, superior y especial, siendo responsables de la observancia de esta norma las personas titulares de las direcciones de cada uno de los planteles educativos;
 
 VI. De instalaciones destinadas a la práctica de algún deporte, actividad recreativa, de esparcimiento o que asistan preponderantemente menores de dieciocho años;
 
@@ -109,7 +117,9 @@ XI. En elevadores de cualquier edificación; y
 
 XII. En las demás que determinen los Reglamentos y las Autoridades Sanitarias del Estado en el ámbito de sus respectivas competencias.
 
-Tratándose de la obligación contenida en la fracción VII de este artículo, queda bajo la responsabilidad de los conductores el cumplimiento de esta disposición, con la estricta vigilancia de los permisionarios, propietarios y/o inspectores de los medios de transporte y en el caso de taxis o vehículos para el transporte individual de personas, corresponde al conductor determinar si en el mismo se autoriza o no fumar a los pasajeros, en ambos casos, deberá colocar señalización clara y visible al respecto.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+Tratándose de la obligación contenida en la fracción VII de este artículo, queda bajo la responsabilidad de las personas conductoras el cumplimiento de esta disposición, con la estricta vigilancia de las personas permisionarias, propietarias y/o inspectoras de los medios de transporte y en el caso de taxis o vehículos para el transporte individual de personas, corresponde a la persona conductora determinar si en el mismo se autoriza o no fumar a los pasajeros, en ambos casos, deberá colocar señalización clara y visible al respecto.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2010)</small>
 
@@ -117,11 +127,15 @@ ARTÍCULO 3 BIS. Además de lo preceptuado en el artículo anterior, queda prohi
 
 En éstas áreas se fijará en el interior y en el exterior los letreros, logotipos y emblemas que establezca la Secretaría.
 
-El propietario, administrador o responsable de un espacio 100% libre de humo de tabaco, está obligado a hacerlas respetar.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+La persona propietaria, administradora o responsable de un espacio 100% libre de humo de tabaco, está obligada a hacerlas respetar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 4.
 
-Habrá tolerancia para fumar en las áreas cerradas de los lugares públicos a continuación enumerados, siempre que se acondicionen espacios para fumadores, que reúnan los requisitos señalados en el artículo 5 de esta Ley:
+Habrá tolerancia para fumar en las áreas cerradas de los lugares públicos a continuación enumerados, siempre que se acondicionen espacios para personas fumadoras, que reúnan los requisitos señalados en el artículo 5 de esta Ley:
 
 I. En los previstos en las fracciones I, II, III, VI, IX y X del artículo anterior;
 
@@ -135,11 +149,15 @@ V. De establecimientos que proporcionen alojamiento a huéspedes o viajeros medi
 
 VI. En las demás que determinen los Reglamentos y las Autoridades Sanitarias del Estado en el ámbito de sus respectivas competencias.
 
-Quedan exceptuados de la obligación contenida en esta disposición los lugares públicos a que se refieren las fracciones IV y V de este artículo que por el tamaño del área cerrada de que se trate sea tan reducido que no sea viable acondicionar espacios para fumadores, a juicio de la Autoridad Sanitaria competente.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+Quedan exceptuados de la obligación contenida en esta disposición los lugares públicos a que se refieren las fracciones IV y V de este artículo que por el tamaño del área cerrada de que se trate sea tan reducido que no sea viable acondicionar espacios para personas fumadoras, a juicio de la Autoridad Sanitaria competente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 5.
 
-En las áreas cerradas de los lugares públicos en los que se tolere fumar, los responsables del lugar de que se trate, deberán delimitar y acondicionar equitativamente sitios destinados para los fumadores, de modo que se impida que de manera involuntaria los no fumadores que concurran al mismo lugar inhalen el humo generado por la combustión de tabaco; los que cuando menos deberán de:
+En las áreas cerradas de los lugares públicos en los que se tolere fumar, las personas responsables del lugar de que se trate, deberán delimitar y acondicionar equitativamente sitios destinados para las personas fumadoras, de modo que se impida que de manera involuntaria las personas no fumadoras que concurran al mismo lugar inhalen el humo generado por la combustión de tabaco; los que cuando menos deberán:
 
 I. Tener ventilación hacia el exterior o un sistema de extracción o purificación de aire;
 
@@ -155,7 +173,9 @@ III. Estar identificados como sitios de fumar, con señalización clara y visibl
 
 IV. Reunir los demás requisitos que determinen las disposiciones legales aplicables en la materia y las Autoridades Sanitarias del Estado.
 
-En respeto a la dignidad y derechos de los fumadores, los sitios que se acondicionen o designen para éstos, deberán ser siempre de un tamaño razonable, de iguales condiciones, características y comodidades que los espacios para no fumadores, de acuerdo a la cantidad de fumadores y no fumadores que concurran al lugar de que se trate. En ningún caso deberán ser considerados los espacios exteriores o al aire libre como las únicas áreas para fumadores.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+En respeto a la dignidad y derechos de las personas fumadoras, los sitios que se acondicionen o designen para éstas, deberán ser siempre de un tamaño razonable, de iguales condiciones, características y comodidades que los espacios para personas no fumadoras, de acuerdo a la cantidad de personas fumadoras y no fumadoras que concurran al lugar de que se trate. En ningún caso deberán ser considerados los espacios exteriores o al aire libre como las únicas áreas para las personas fumadoras.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
 
@@ -163,23 +183,29 @@ En respeto a la dignidad y derechos de los fumadores, los sitios que se acondici
 
 En las áreas 100% libres de humo de tabaco y en las zonas exclusivamente para fumar, se colocarán en un lugar visible letreros que indiquen claramente su naturaleza.
 
-En las entradas y en el interior de los mismos, deberán existir las señalizaciones y letreros que orienten a los trabajadores, usuarios y visitantes que se trata de un espacio 100% libre de humo de tabaco, así como letreros que contengan leyendas de advertencia sobre su incumplimiento.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+En las entradas y en el interior de los mismos, deberán existir las señalizaciones y letreros que orienten a las personas trabajadoras, usuarias y visitantes que se trata de un espacio 100% libre de humo de tabaco, así como letreros que contengan leyendas de advertencia sobre su incumplimiento.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 7.
 
-En el supuesto de que una persona esté fumando en un espacio 100% libre de humo de tabaco, o en los lugares públicos a que se refieren los artículos 3 y 4, será obligación del propietario, administrador o responsable de dicho lugar, en primera instancia, pedir que deje de fumar y apague su cigarro o cualquier otro producto de tabaco que haya encendido. En caso de que se niegue a dejar de fumar o bien a reubicarse, él o los responsables, deberán, a la brevedad, dar aviso a la autoridad competente para que se respete el cumplimiento de esta Ley y en su caso, impongan las sanciones que correspondan.
+En el supuesto de que una persona este fumando en un espacio 100% libre de humo de tabaco, o en los lugares públicos a que se refieren los artículos 3 y 4, será obligación de la persona propietaria, administradora o responsable de dicho lugar, en primera instancia, pedir que deje de fumar y apague su cigarro o cualquier otro producto de tabaco que haya encendido. En caso de que se niegue a dejar de fumar o bien a reubicarse, la o las personas responsables, deberán, a la brevedad, dar aviso a la autoridad competente para que se respete el cumplimiento de esta Ley y en su caso, impongan las sanciones que correspondan.
 
-La responsabilidad de los propietarios, poseedores o administradores, a que se refiere el presente artículo terminará en el momento en que den aviso a la autoridad correspondiente.
+La responsabilidad de las personas propietarias, poseedoras o administradoras, a que se refiere el presente artículo terminará en el momento en que den aviso a la autoridad correspondiente.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 8.
 
-Los servidores públicos que estén en ejercicio de sus funciones y se encuentren en un lugar público de los señalados en la fracción I del artículo 3 de esta Ley, deberán abstenerse de fumar en los sitios prohibidos para ello.
+Las personas servidoras públicas que estén en ejercicio de sus funciones y se encuentren en un lugar público de los señalados en la fracción I del artículo 3 de esta Ley, deberán abstenerse de fumar en los sitios prohibidos para ello.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 9.
 
-El incumplimiento de lo dispuesto en el artículo anterior será comunicado por cualquier persona, de inmediato, al superior jerárquico del infractor para que se imponga la sanción correspondiente conforme lo previene la Ley de la materia.
+El incumplimiento de lo dispuesto en el artículo anterior será comunicado por cualquier persona, de inmediato, a la persona jerárquicamente superior, de la o el infractor para que se imponga la sanción correspondiente conforme lo previene la Ley de la materia.
 
 ### CAPÍTULO III. DE LA PREVENCIÓN Y ATENCIÓN DEL TABAQUISMO
 
@@ -193,7 +219,9 @@ Las Autoridades Sanitarias del Estado en el ámbito de sus respectivas competenc
 
 La aplicación de esta Ley estará a cargo de la Secretaría de Salud, que deberá coordinar sus acciones con las Dependencias y Entidades de los Gobiernos Estatal y Municipales, así como con otras autoridades competentes para el cumplimiento de los objetivos de este ordenamiento.
 
-La Secretaría de Salud del Estado, coordinará, formulará y desarrollará programas de salud en el marco de los Sistemas Estatal y Nacional de Salud para la detección temprana, orientación y atención a fumadores que deseen abandonar el consumo, investigará sus causas y consecuencias, fomentará la salud considerando la promoción de actitudes y conductas que favorezcan estilos de vida saludables en la familia, el trabajo y la comunidad, y desarrollará acciones permanentes para disuadir y evitar el consumo de productos del tabaco principalmente por parte de niños, adolescentes y grupos vulnerables.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+La Secretaría de Salud del Estado, coordinará, formulará y desarrollará programas de salud en el marco de los Sistemas Estatal y Nacional de Salud para la detección temprana, orientación y atención a personas fumadoras que deseen abandonar el consumo, investigará sus causas y consecuencias, fomentará la salud considerando la promoción de actitudes y conductas que favorezcan estilos de vida saludables en la familia, el trabajo y la comunidad, y desarrollará acciones permanentes para disuadir y evitar el consumo de productos del tabaco principalmente por parte de niñas, niños, adolescentes y personas en situación de vulnerabilidad.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2010)</small>
 
@@ -203,7 +231,9 @@ I.- La promoción de la Salud;
 
 II.- El diagnóstico, prevención, tratamiento y rehabilitación del tabaquismo y de los padecimientos originados por él;
 
-III.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos y/o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar al interior de los espacios 100% libres de humo de tabaco que establezca esta Ley, sus reglamentos y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+III.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niñas, niños, y adolescentes, a través de métodos individuales, colectivos y/o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar al interior de los espacios 100% libres de humo de tabaco que establezca esta Ley, sus reglamentos y demás disposiciones aplicables;
 
 IV.- La elaboración periódica de un programa de seguimiento y evaluación de metas y logros del Programa contra el Tabaquismo que incluya al menos las conductas relacionadas al tabaco y su impacto en la salud;
 
@@ -221,11 +251,13 @@ Para los efectos previstos en este artículo las Autoridades Sanitarias del Esta
 
 Es competencia de los órganos de control interno vigilar que se cumplan las disposiciones contenidas en los artículos 5 y 8 en las instituciones a que se refiere la fracción I del artículo 3 de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 14.
 
-Cualquier ciudadano o institución que detecte que una o varias personas están actuando de manera contraria a lo establecido por esta Ley, deberá dar aviso a la brevedad posible a la autoridad competente para efectos de que ordene su cumplimiento y actúe conforme al presente ordenamiento.
+Cualquier persona ciudadana o institución que detecte que una o varias personas están actuando de manera contraria a lo establecido por esta Ley, deberá dar aviso a la brevedad posible a la autoridad competente para efectos de que ordene su cumplimiento y actúe conforme al presente ordenamiento.
 
-Los integrantes de las asociaciones de padres de familia podrán vigilar en las áreas cerradas de centros o instituciones de educación inicial, preescolar, básica, media, media superior, superior y especial, de manera individual o colectiva, que se cumpla con las disposiciones de esta Ley debiendo dar aviso a la brevedad posible a la autoridad competente para efectos de que ordene su cumplimiento y actúe conforme a esta Ley, en caso de que detecte alguna anomalía.
+Las personas integrantes de las asociaciones de padres de familia podrán vigilar en las áreas cerradas de centros o instituciones de educación inicial, preescolar, básica, media, media superior, superior y especial, de manera individual o colectiva, que se cumpla con las disposiciones de esta Ley debiendo dar aviso a la brevedad posible a la autoridad competente para efectos de que ordene su cumplimiento y actúe conforme a esta Ley, en caso de que detecte alguna anomalía.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2010)</small>
 
@@ -249,25 +281,33 @@ VII.- Las acciones de auxilio de aplicación de esta Ley como la denuncia ciudad
 
 El Estado o los Ayuntamientos en el ámbito de sus respectivas competencias, al otorgar concesiones, permisos o autorizaciones, deberán observar que se dé cumplimiento a la presente Ley; su inobservancia será sancionada conforme lo previenen las leyes de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 16.
 
-Son atribuciones de los Jueces Calificadores las siguientes:
+Son atribuciones de las personas titulares de los Juzgados Calificadores las siguientes:
 
 I. Conocer de las infracciones cometidas por las personas físicas que pongan a su disposición la policía preventiva; y
 
 II. Aplicar las sanciones que se deriven del incumplimiento de esta Ley en el ámbito de su competencia.
 
-Para el procedimiento de sanción, resolución y los medios de defensa que sean competencia del Juez Calificador, se seguirá lo establecido en los Reglamentos correspondientes.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+Para el procedimiento de sanción, resolución y los medios de defensa que sean competencia de la persona titular del Juzgado Calificador, se seguirá lo establecido en los Reglamentos correspondientes.
 
 ###### ARTÍCULO 17.
 
 Son atribuciones de Seguridad Pública Estatal y Municipal en el ámbito de sus respectivas competencias, las siguientes:
 
-I. Poner a disposición del Juez Calificador competente, a las personas físicas que hayan sido sorprendidas por cualquier persona fumando tabaco, en algún lugar público prohibido, siempre que hayan sido conminadas por los policías preventivos a modificar su conducta y se nieguen a hacerlo; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+I. Poner a disposición de la persona titular del Juzgado Calificador competente, a las personas físicas que hayan sido sorprendidas por cualquier persona fumando tabaco, en algún lugar público prohibido, siempre que hayan sido conminadas por las y los policías preventivos a modificar su conducta y se nieguen a hacerlo; y
 
 II. Las demás que le otorguen esta Ley y demás disposiciones jurídicas aplicables.
 
-Las atribuciones a que se refiere este artículo serán ejercidas por Seguridad Pública Estatal y Municipal, a través de los policías preventivos, quienes al momento de ser informados de la comisión de una infracción, invitarán al infractor a modificar su conducta, a trasladarse a las áreas reservadas para fumadores, cuando esta Ley autorice la tolerancia para fumar, o a abandonar el lugar, y en caso de no acatar tal indicación, pondrán a disposición del Juez Calificador que se trate, al infractor.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+Las atribuciones a que se refiere este artículo serán ejercidas por Seguridad Pública Estatal y Municipal, a través de las y los policías preventivos, quienes al momento de ser informados de la comisión de una infracción, invitaran a la persona infractora a modificar su conducta, a trasladarse a las áreas reservadas para personas fumadoras, cuando esta Ley autorice la tolerancia para fumar, o a abandonar el lugar, y en caso de no acatar tal indicación, pondrán a disposición de la persona titular del Juzgado Calificador que se trate, a la persona infractora.
 
 ### CAPÍTULO V. DE LAS SANCIONES
 
@@ -279,7 +319,9 @@ La inobservancia a las disposiciones de la presente Ley, dará lugar a la imposi
 
 Para la aplicación de la multa, se tomará en cuenta la gravedad de la infracción, las condiciones económicas de las personas físicas o jurídicas a que se sanciona, la reincidencia y demás circunstancias que sean necesarias para individualizar la sanción.
 
-Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+Si la persona infractora fuese jornalera, obrera o trabajadora, no podrá ser sancionada con multa mayor del importe de su jornal o salario de un día.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -313,9 +355,11 @@ Se sancionará con multa del equivalente a la cantidad de tres a cien veces el v
 
 Las infracciones a esta Ley no previstas en este Capítulo serán sancionadas con multa del equivalente a la cantidad de hasta cien veces el valor diario de la Unidad de Medida y Actualización, en caso de reincidencia se aumentará hasta en dos terceras partes el monto de la multa.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 24.
 
-Para los efectos de este Capítulo se entiende por reincidencia, que el infractor vuelva a cometer la violación a la misma disposición de esta Ley dentro del periodo de un año calendario a partir de la imposición de la sanción a que se refiere cualesquiera de los artículos 20, 21, 22 y 23 de esta Ley.
+Para los efectos de este Capítulo se entiende por reincidencia, que la persona infractora vuelva a cometer la violación a la misma disposición de esta Ley, dentro del periodo de un año calendario a partir de la imposición de la sanción a que se refiere cualesquiera de los artículos 20, 21, 22 y 23 de esta Ley.
 
 ###### ARTÍCULO 25.
 
@@ -325,19 +369,25 @@ Las multas que se impongan con motivo de la aplicación de esta Ley constituirá
 
 ### CAPÍTULO VI. DEL PROCESO DE INSPECCIÓN Y VIGILANCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 26.
 
-Las Autoridades Sanitarias del Estado en el ámbito de su competencia podrán realizar actos de inspección y vigilancia, en los lugares públicos a los que se refiere esta Ley, relativas al cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven, por conducto del personal debidamente autorizado para ello.
+Las Autoridades Sanitarias del Estado en el ámbito de su competencia, podrán realizar actos de inspección y vigilancia, en los lugares públicos a los que se refiere esta Ley, relativas al cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven, por conducto de las personas debidamente autorizadas para ello.
 
-El personal al realizar las visitas de inspección y vigilancia, deberá contar con el documento oficial que lo acredite como inspector, así como la orden escrita, expedida por la Autoridad Sanitaria, en la que se precisará el lugar público, el área cerrada o la zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+Las personas autorizadas al realizar las visitas de inspección y vigilancia, deberán contar con el documento oficial que las acredite como inspectora o inspector, así como la orden escrita, expedida por la Autoridad Sanitaria, en la que se precisará el lugar público, el área cerrada o la zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
 
 Las visitas de inspección y vigilancia se realizarán dentro de las cuarenta y ocho horas siguientes a la expedición de la orden respectiva.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 27.
 
-El personal autorizado, previo a iniciar la inspección, requerirá la presencia del visitado o su Representante Legal; en caso de no encontrarse se dejará citatorio para que espere a una hora fija dentro de las veinticuatro horas siguientes para la práctica de la inspección. Si no espera en el día y hora señalado, se entenderá la diligencia con el encargado o persona que se encuentre en el lugar, le exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
+Las personas autorizadas, previo a iniciar la inspección, requerirán la presencia de la persona visitada o su Representante Legal; en caso de no encontrarse se dejará citatorio para que espere a una hora fija dentro de las veinticuatro horas siguientes para la práctica de la inspección. Si no espera en el día y hora señalado, se entenderá la diligencia con la persona encargada o aquella que se encuentre en el lugar, le exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos personas que fungirán como testigos.
 
-En caso de negativa o si los designados no aceptan desempeñarse como testigos, no invalidará los efectos de inspección y el personal autorizado lo hará constar en el acta administrativa que al efecto se levante.
+En caso de negativa o si las personas designadas no aceptan desempeñarse como testigos, no invalidará los efectos de inspección y las personas autorizadas lo harán constar en el acta administrativa que al efecto se levante.
 
 ###### ARTÍCULO 28.
 
@@ -351,7 +401,9 @@ La Autoridad Sanitaria, podrá solicitar el auxilio de la fuerza pública para e
 
 En toda visita de inspección se levantará acta circunstanciada por triplicado en forma numerada y foliada, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la inspección, así como lo previsto a continuación:
 
-I. Nombre, denominación o razón social del visitado;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+I. Nombre, denominación o razón social de la persona visitada;
 
 II. Hora, día, mes y año en que se inicie y concluya la visita;
 
@@ -367,27 +419,37 @@ VII. Los datos relativos al lugar público, área o zona que se inspecciona indi
 
 VIII. Manifestación del visitado, si quisiera hacerla; y
 
-IX. Firma de los que intervinieron en la inspección.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+IX. Firma de las personas que intervinieron en la inspección.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 31.
 
-El verificador comunicará al visitado si existen omisiones en el cumplimiento de cualquiera de las obligaciones a su cargo ordenadas en esta Ley o en las disposiciones que de ella emanen y antes de finalizar la inspección, se dará oportunidad a la persona con la que se entendió la misma para que en ese acto formule sus observaciones, con relación a los hechos u omisiones asentados en el acta respectiva. A continuación, se procederá a firmar el acta por la persona con quien se entendió la inspección, por los testigos y el personal autorizado, quien entregará copia del acta al interesado. Si la persona con la que se entendió la inspección o los testigos se negaren a firmar el acta o aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez.
+La persona verificadora comunicara a la persona visitada si existen omisiones en el cumplimiento de cualquiera de las obligaciones a su cargo ordenadas en esta Ley o en las disposiciones que de ella emanen y antes de finalizar la inspección, se dará oportunidad a la persona con la que se entendió la misma para que en ese acto formule sus observaciones, con relación a los hechos u omisiones asentados en el acta respectiva. A continuación, se procederá a firmar el acta por la persona con quien se entendió la inspección, por las personas que fungieron como testigos y la persona autorizada para tal efecto, quien entregará copia del acta a la persona interesada. Si la persona con la que se entendió la inspección o las personas que fungieron como testigos se negaren a firmar el acta o aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 32.
 
-Recibida el acta de inspección por la autoridad correspondiente fundando y motivando determinará de inmediato si el visitado incumplió las disposiciones de esta Ley; y le comunicará tal determinación mediante notificación personal, o por correo certificado con acuse de recibo, para que, dentro del término de cinco días hábiles a partir de que surta efecto dicha notificación, manifieste por escrito lo que a su derecho convenga, en relación con el acta de inspección y la determinación dictada, y en su caso ofrezca pruebas en relación con los hechos u omisiones que en la misma se asienten.
+Recibida el acta de inspección por la autoridad correspondiente fundando y motivando determinará de inmediato si la persona visitada incumplió las disposiciones de esta Ley; y le comunicara tal determinación mediante notificación personal, o por correo certificado con acuse de recibo, para que, dentro del término de cinco días hábiles a partir de que surta efecto dicha notificación, manifieste por escrito lo que a su derecho convenga, en relación con el acta de inspección y la determinación dictada, y en su caso ofrezca pruebas en relación con los hechos u omisiones que en la misma se asienten.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 33.
 
-Transcurrido el término a que se refiere el artículo anterior y desahogadas las pruebas, dentro de los seis días hábiles siguientes, la autoridad emitirá la resolución administrativa definitiva, misma que contendrá una relación sucinta de los hechos, las disposiciones legales y administrativas aplicables al objeto de la inspección, la valoración de las pruebas ofrecidas por el interesado si las hubiere, así como los puntos resolutivos, en los que se señalarán o en su caso ratificarán o adicionarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables.
+Transcurrido el término a que se refiere el artículo anterior y desahogadas las pruebas, dentro de los seis días hábiles siguientes, la autoridad emitirá la resolución administrativa definitiva, misma que contendrá una relación sucinta de los hechos, las disposiciones legales y administrativas aplicables al objeto de la inspección, la valoración de las pruebas ofrecidas por la persona interesada si las hubiere, así como los puntos resolutivos, en los que se señalarán o en su caso ratificarán o adicionarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado a la persona infractora para satisfacerlas y las sanciones a que se hubiere hecho acreedora conforme a las disposiciones aplicables.
 
 ###### ARTÍCULO 34.
 
 La Autoridad Sanitaria verificará el cumplimiento de las medidas ordenadas en términos de la resolución respectiva y en caso de subsistir la o las infracciones, podrá imponer las sanciones que procedan conforme a esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 35.
 
-Cuando se imponga como sanción la clausura temporal, el personal autorizado para ejecutarla, procederá a levantar el acta de la diligencia, siguiendo para ello los lineamientos administrativos establecidos para las inspecciones.
+Cuando se imponga como sanción la clausura temporal, la persona autorizada para ejecutarla, procederá a levantar el acta de la diligencia, siguiendo para ello los lineamientos administrativos establecidos para las inspecciones.
 
 ### CAPÍTULO VII. DE LOS MEDIOS DE PRUEBA
 
@@ -397,17 +459,21 @@ En los procedimientos administrativos previstos en esta Ley, son admisibles toda
 
 ### CAPÍTULO VIII. DEL RECURSO ADMINISTRATIVO DE REVISIÓN
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 37.
 
-Las resoluciones definitivas dictadas en el procedimiento administrativo seguido con motivo de la aplicación de esta Ley, sus Reglamentos y disposiciones que de ella emanen, podrán ser impugnadas por los interesados, mediante el recurso de revisión.
+Las resoluciones definitivas dictadas en el procedimiento administrativo seguido con motivo de la aplicación de esta Ley, sus Reglamentos y disposiciones que de ella emanen, podrán ser impugnadas por las personas interesadas, mediante el recurso de revisión.
 
 ###### ARTÍCULO 38.
 
 Para los efectos del presente Capítulo la autoridad competente que resolverá el recurso, será la Autoridad Sanitaria que hubiere emitido la resolución que se reclama.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 39.
 
-El recurso de revisión se interpondrá por la parte que se considere agraviada y por escrito, dentro de los diez días hábiles siguientes al en que se hubiera hecho la notificación de la resolución que se reclama o aquél en que se ostenta sabedor de la misma, y se contará en ellos el día del vencimiento.
+El recurso de revisión se interpondrá por la parte que se considere agraviada y por escrito, dentro de los diez días hábiles siguientes al en que se hubiera hecho la notificación de la resolución que se reclama o aquél en que se ostenta sabedora de la misma, y se contará en ellos el día del vencimiento.
 
 ###### ARTÍCULO 40.
 
@@ -415,7 +481,9 @@ El recurso de revisión, deberá presentarse ante la Autoridad Sanitaria que hub
 
 I. El órgano administrativo a quien se dirige;
 
-II. El nombre y domicilio del recurrente, y del tercero si lo hubiere, así como el lugar que señale para efecto de notificaciones;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+II. El nombre y domicilio de la persona recurrente, y de la persona tercera interesada si lo hubiere, así como el lugar que señale para efecto de notificaciones;
 
 III. La resolución que se recurre y fecha en que se le notificó o tuvo conocimiento de la misma;
 
@@ -423,13 +491,19 @@ IV. La mención de la autoridad que haya dictado la resolución, ordenando o eje
 
 V. Los agravios que le causan;
 
-VI. Acompañar copia de la resolución que se impugna, y de la notificación correspondiente, o en su caso, señalar la fecha en que se ostente sabedor de la resolución;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+VI. Acompañar copia de la resolución que se impugna, y de la notificación correspondiente, o en su caso, señalar la fecha en que se ostente sabedora de la resolución;
 
 VII. Las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución impugnada debiendo acompañar las documentales con que cuente, incluidas las que acrediten su personalidad cuando actúe, en nombre de otro, en ningún trámite se admitirá la gestión de negocios; las pruebas deberán desahogarse o desecharse en la audiencia de recepción de pruebas y alegatos;
 
-VIII. Para el caso de existir tercero que haya gestionado el acto, se le correrá traslado con copia de los agravios para que en el término de tres días hábiles manifieste lo que a su interés convenga y en caso de que se desconozca su domicilio se le emplazará por edictos;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-IX. La Autoridad Sanitaria que hubiere emitido la resolución que se reclama, podrá decretar, para mejor proveer, los informes y pruebas que estime pertinentes y para el caso de que el inconforme acredite que los documentos ofrecidos como prueba obran en los archivos públicos, deberá solicitar oportunamente copia certificada de los mismos, si no le fueren expedidos, se podrá requerir directamente al funcionario o autoridad que los tenga bajo su custodia, para que los expida y envíe a la autoridad requirente, dichas copias; y
+VIII. Para el caso de existir una tercera que haya gestionado el acto, se le correrá traslado con copia de los agravios para que en el término de tres días hábiles manifieste lo que a su interés convenga y en caso de que se desconozca su domicilio se le emplazará por edictos;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+IX. La Autoridad Sanitaria que hubiere emitido la resolución que se reclama, podrá decretar, para mejor proveer, los informes y pruebas que estime pertinentes y para el caso de que el inconforme acredite que los documentos ofrecidos como prueba obran en los archivos públicos, deberá solicitar oportunamente copia certificada de los mismos, si no le fueren expedidos, se podrá requerir directamente a la persona servidora pública o autoridad que los tenga bajo su custodia, para que los expida y envíe a la autoridad requirente, dichas copias; y
 
 X. Transcurrido el término a que se refiere la fracción VIII de este artículo, se fijará día y hora para una audiencia de recepción de pruebas y alegatos, y concluida se ordenará se pase el expediente para dictar la resolución que corresponda en un plazo de quince días hábiles.
 
@@ -437,17 +511,25 @@ X. Transcurrido el término a que se refiere la fracción VIII de este artículo
 
 La interposición del recurso suspenderá provisionalmente la ejecución de la resolución impugnada, siempre y cuando:
 
-I. Lo solicite expresamente el recurrente;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+I. Lo solicite expresamente la persona recurrente;
 
 II. No se cause perjuicio al interés social o se contravengan disposiciones de orden público;
 
-III. Tratándose de multas, que el recurrente garantice el crédito fiscal en cualquiera de las formas prevista en las Leyes Fiscales del Estado, según sea el caso de la Autoridad Sanitaria de que se trate; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
 
-IV. En los casos en que resulte procedente la suspensión de la ejecución de la resolución que se reclama, pero con ella se puedan ocasionar daños o perjuicios a terceros; la misma surtirá sus efectos, si el recurrente otorga fianza bastante para reparar el daño e indemnizar los perjuicios que con ella se causaren, si no obtiene resolución favorable, contando la Autoridad Sanitaria con facultad discrecional para fijar el monto de esa garantía a otorgar. La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días hábiles siguientes a su interposición, en cuyo defecto se entenderá otorgada la suspensión.
+III. Tratándose de multas, que la persona recurrente garantice el crédito fiscal en cualquiera de las formas prevista (sic) en las Leyes Fiscales del Estado, según sea el caso de la Autoridad Sanitaria de que se trate; y
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+IV. En los casos en que resulte procedente la suspensión de la ejecución de la resolución que se reclama, pero con ella se puedan ocasionar daños o perjuicios a terceras personas; la misma surtirá sus efectos, si la persona recurrente otorga fianza bastante para reparar el daño e indemnizar los perjuicios que con ella se causaren, si no obtiene resolución favorable, contando la Autoridad Sanitaria con facultad discrecional para fijar el monto de esa garantía a otorgar. La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días hábiles siguientes a su interposición, en cuyo defecto se entenderá otorgada la suspensión.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 42.
 
-La Autoridad Sanitaria concederá o no la suspensión contra la resolución que se recurra, cuando el propio recurrente la solicite; siempre que no se violen disposiciones de orden público.
+La Autoridad Sanitaria concederá o no la suspensión contra la resolución que se recurra, cuando la propia persona recurrente la solicite; siempre que no se violen disposiciones de orden público.
 
 ###### ARTÍCULO 43.
 
@@ -455,7 +537,9 @@ El recurso se tendrá por no interpuesto, cuando:
 
 I. No sea presentado en el término concedido por esta Ley, por resultar extemporáneo;
 
-II. No se haya presentado la documentación que acredite la personalidad del recurrente, o ésta no se acredite legalmente, aún después de haber sido requerido por la autoridad; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+II. No se haya presentado la documentación que acredita la personalidad de la persona recurrente, o ésta no se acredite legalmente, aún después de haber sido requerido por la autoridad; y
 
 III. Cuando se promueva contra resoluciones que sean materia de otro recurso, que se encuentre pendiente de resolución.
 
@@ -463,7 +547,9 @@ III. Cuando se promueva contra resoluciones que sean materia de otro recurso, qu
 
 Procederá el sobreseimiento del recurso, cuando:
 
-I. El promovente se desista expresamente de su recurso; y
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2026)</small>
+
+I. La persona promovente se desista expresamente de su recurso; y
 
 II. Cuando hayan cesado los efectos de la resolución impugnada.
 
@@ -471,13 +557,17 @@ II. Cuando hayan cesado los efectos de la resolución impugnada.
 
 La Autoridad Sanitaria, al resolver el recurso podrá confirmar, modificar o revocar la resolución impugnada.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 46.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará solo el examen de dicho punto. Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de quince días hábiles.
+La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por la persona recurrente, teniendo la autoridad la facultad de invocar hechos notorios; cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará solo el examen de dicho punto. Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de quince días hábiles.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 47.
 
-En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y los servidores públicos responsables serán sancionados conforme lo dispuesto en la Ley de Responsabilidades de Servidores Públicos del Estado y demás leyes aplicables. Dicha nulidad deberá ser declarada por medio del recurso a que se refiere este Capítulo.
+En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y las personas servidoras públicas responsables serán sancionadas conforme lo dispuesto en la Ley de Responsabilidades de Servidores Públicos del Estado y demás leyes aplicables.
 
 ## TRANSITORIOS
 
@@ -512,3 +602,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1, LA FRACCIÓN II DEL 2, LA FRACCIÓN V Y EL ÚLTIMO PÁRRAFO DEL 3, EL ÚLTIMO PÁRRAFO DEL 3 BIS, LOS PÁRRAFOS PRIMERO Y ÚLTIMO DEL 4, LOS PÁRRAFOS PRIMERO Y ÚLTIMO DEL 5, EL SEGUNDO PÁRRAFO DEL 6, EL 7, EL 8, 9, EL SEGUNDO PÁRRAFO DEL 11, LA FRACCIÓN III DEL 11 BIS, EL 14, LOS PÁRRAFOS PRIMERO Y ÚLTIMO DEL 16, LA FRACCIÓN I Y EL ÚLTIMO PÁRRAFO DEL 17, EL SEGUNDO PÁRRAFO DEL 19, EL 24, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL 26, EL 27, LAS FRACCIONES I Y IX DEL 30, EL 31, EL 32, EL 33, EL 35, EL 37, EL 39, LAS FRACCIONES II, VI, VIII Y IX DEL 40, LAS FRACCIONES I, III Y IV DEL 41, EL 42, LA FRACCIÓN II DEL 43, LA FRACCIÓN I DEL 44, EL 46 Y EL PRIMER PÁRRAFO DEL 47, TODOS DE LA LEY DE PROTECCIÓN A LOS NO FUMADORES PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a los quince días naturales de su publicación.
+
+SEGUNDO. Se deroga toda disposición legal y reglamentaria que se oponga al presente Decreto.
