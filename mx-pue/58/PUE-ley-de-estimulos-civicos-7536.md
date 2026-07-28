@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-estimulos-civicos-7536"
 country: "mx"
 rank: "ley"
 publication_date: "1987-04-17"
-last_updated: "1987-04-17"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ESTIMULOS CIVICOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 17 de abril de 1987.
 
@@ -51,17 +51,21 @@ Que estando satisfechos además, los requisitos de los Artículos 57 fracción I
 
 LEY DE ESTIMULOS CIVICOS
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 1º.
 
-Esta Ley tiene por objeto regular el otorgamiento de reconocimientos por parte del Estado respecto a los poblanos que se distingan por su conducta y trayectoria en beneficio de la humanidad, de la república, del Estado y de los no poblanos cuya conducta y trayectoria sea en beneficio de la entidad, siempre que haya un reconocimiento público de las mismas.
+Esta Ley tiene por objeto regular el otorgamiento de reconocimientos por parte del Estado a personas poblanas que se distingan por su conducta y trayectoria en beneficio de la humanidad, de la república, del Estado y de las personas no poblanas cuya conducta y trayectoria sea en beneficio de la entidad, siempre que haya un reconocimiento público de las mismas.
 
 ###### ARTICULO 2º.
 
 Las preseas a que se refiere esta Ley se otorgarán con motivo de las conmemoraciones del 5 de Mayo y 18 de Noviembre, por determinación del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 3º.
 
-Cuando dos o más personas reúnan los mismos merecimientos para el otorgamiento de una presea a juicio del Congreso, podrá resolverse que la misma se otorgue a todos ellos.
+Cuando a juicio del Congreso dos o más personas reúnan los mismos merecimientos, para el otorgamiento de una presea, podrá resolverse que la misma se otorgue a todas ellas.
 
 ###### ARTICULO 4º.
 
@@ -109,13 +113,17 @@ La medalla que se otorgue contendrá las siguientes características:
 
 Será de forma rectangular abarrilada, de 6 centímetros por 4.8, de oro amarillo o blanco de 18 Kilates.
 
-En el anverso: la efigie del prócer respectivo y el nombre del mismo.
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
+En el anverso: la efigie de la persona prócer respectiva y el nombre de la misma.
 
 En el reverso: el nombre de la persona a quien se concede, la fecha en que se otorga y la Legislatura que acuerda.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 11.
 
-Las preseas sólo podrán usarse por sus titulares.
+Las preseas sólo podrán usarse por las personas titulares.
 
 ###### ARTICULO 12.
 
@@ -142,3 +150,13 @@ Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los 15 días del mes de Abril de 1987.- Diputada Presidenta.- Lic. Guadalupe Sánchez Lozada.- Rúbrica.- Diputado Secretario.- Lic. Jorge Yunes Abrach.- Rúbrica.- Diputada Secretaria.- Profra. Arcelia Amador Gutiérrez.- Rúbrica.
 
 Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los dieciséis días del mes de abril de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado.- Lic. Mariano Piña Olaya.- Rúbrica.- El Secretario de Gobernación.- Lic. Marco Antonio Rojas Flores.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, EL 3, EL TERCER PÁRRAFO DEL 10 Y EL 11; TODOS DE LA LEY DE ESTÍMULOS CÍVICOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
