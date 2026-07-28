@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2026-07-02"
+last_updated: "2026-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -1779,6 +1779,98 @@ III. Contar con un sistema de información y registro actualizado, que incluya n
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE JULIO DE 2023)</small>
 
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2026)</small>
+
+ARTÍCULO 112 BIS. El Sistema Estatal DIF, contará para el desarrollo de sus atribuciones, con un Consejo Técnico de Adopciones integrado por:
+
+I. Una persona titular de la Presidencia, que será la persona titular de la Dirección General del Sistema Estatal DIF, conforme a lo establecido en la fracción XXIII del artículo 28 de la Ley Sobre el Sistema Estatal de Asistencia Social;
+
+II. Una persona titular de la Secretaría, que será la persona titular de la Procuraduría de Protección;
+
+III. Las personas consejeras siguientes:
+
+a) La persona titular de la Dirección de Centros de Asistencia Social y Gerontológicos;
+
+b) La persona titular de la Dirección Jurídica;
+
+c) La persona titular del Departamento de la Defensa de la Infancia y la Familia;
+
+d) La persona titular del Departamento de Adopciones;
+
+e) La persona titular de Casa de la Niñez Poblana;
+
+f) La persona titular de la Casa del Adolescente;
+
+g) La persona titular de la Casa de la Niñez Tehuacán;
+
+h) La persona titular del Albergue Psiquiátrico Infantil;
+
+i) Un médico con especialidad en pediatría adscrito al Sistema Estatal DIF;
+
+j) Un médico con especialidad en psiquiatra adscrita al Sistema Estatal DIF, y
+
+k) Un psicólogo adscrito al Sistema Estatal DIF.
+
+IV. Los asesores que al efecto se inviten por la persona titular de la Presidencia del Consejo Técnico de Adopciones, serán:
+
+a) Una persona representante del Tribunal Superior de Justicia del Poder Judicial del Estado de Puebla;
+
+b) Una persona representante de la Fiscalía General del Estado;
+
+c) La persona titular de la Casa de Asistencia Privada que, con autorización y convenio suscrito con el Sistema Estatal DIF, alberga a la niña, niño o adolescente, propuesto para adopción, y
+
+d) Una persona representante de la Secretaría Anticorrupción y Buen Gobierno del Estado de Puebla.
+
+Los integrantes del Consejo Técnico de Adopciones señalados en las fracciones I, II y III del presente artículo, contarán con derecho a voz y voto, en caso de empate la persona Titular de la Presidencia tendrá voto de calidad; los asesores contarán únicamente con derecho voz, pero no a voto.
+
+V. A través de la persona titular de la Presidencia del Consejo Técnico de Adopciones, podrán invitarse a participar en las sesiones de este a cuatro personas especialistas en las disciplinas que lo integran, quienes tendrán derecho a voz, pero no a voto.
+
+La persona Titular de la Presidencia del Patronato del Sistema Estatal DIF podrá acudir a las sesiones del Consejo Técnico de Adopciones, con derecho a voz.
+
+El Consejo Técnico de Adopciones sesionará ordinariamente de forma trimestral, y de manera extraordinaria cuantas veces sea necesario, el quórum se integrará con la mitad más uno de sus integrantes, dentro de los cuales deberá estar invariablemente la persona titular de la Presidencia de este. Las decisiones serán irrevocables y válidas por el voto mayoritario de sus miembros presentes.
+
+Los demás integrantes podrán designar un suplente que lo sustituya en sus ausencias.
+
+La Junta Directiva del Sistema Estatal DIF aprobará el Reglamento Interior del Consejo Técnico de Adopciones para su funcionamiento.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2026)</small>
+
+ARTÍCULO 112 TER. El Consejo Técnico de Adopciones tendrá las siguientes atribuciones:
+
+I. Recibir el informe de los ingresos y egresos de las niñas, niños y adolescentes en los centros infantiles o de asistencia social, bajo tutela y custodia del Sistema Estatal DIF;
+
+II. Conocer los casos de restitución al núcleo familiar de las niñas, niños y adolescentes bajo la protección del Sistema Estatal DIF y, en su caso, el traslado de éstos a su lugar de origen, autorizado por la persona titular de la Procuraduría de Protección;
+
+III. Conocer el seguimiento de las niñas, niños y adolescentes que se han restituido a su núcleo familiar;
+
+IV. Establecer los requisitos que deben cumplir los solicitantes de adopción para la integración del expediente respectivo;
+
+V. Analizar la situación jurídica, médica, psicológica y psiquiátrica de las niñas, niños y adolescentes que se encuentran bajo la tutela y custodia del Sistema Estatal DIF;
+
+VI. Determinar las medidas que, conforme a la ley, se tengan que aplicar respecto a las niñas, niños y adolescentes, asegurando su bienestar físico y mental;
+
+VII. Aprobar las propuestas sometidas a su consideración, relativa a las niñas, niños y adolescentes candidatos a ingresar al programa de adopciones;
+
+VIII. Aprobar o negar la emisión del Certificado de Idoneidad a las personas solicitantes de adopción; mismo que será suscrito por la persona titular de la Procuraduría de Protección en ejecución del acuerdo correspondiente;
+
+IX. Asignar a los solicitantes que previamente hayan sido aceptados e incorporados a la lista de espera que corresponda y se consideren los más idóneos, a las niñas, niños y adolescentes sujetos de adopción;
+
+X. Aprobar, conocer y tener seguimiento de la niña, niño o adolescente que se encuentra bajo la protección del Sistema Estatal DIF, así como la dinámica familiar en el momento de la restitución;
+
+XI. Generar políticas y criterios para la asignación o integración de una niña, niño y/o adolescente a una Familia de Acogimiento Pre-adoptivo que cuente con Certificado de Idoneidad vigente;
+
+XII. Analizar la procedencia, improcedencia o baja de las familias de acogimiento pre-adoptivo en lista de espera que cuenten con Certificado de Idoneidad, por falta de interés y/o modificación sustancial o relevante en la situación personal, familiar o laboral de los solicitantes;
+
+XIII. Solicitar a las áreas u órganos del Sistema Estatal DIF, por conducto de la persona titular de la Procuraduría de Protección, la realización de estudios, dictámenes, valoraciones y demás actos que, en su caso, les permitan pronunciarse acerca de la procedencia o improcedencia de la expedición del Certificado de Idoneidad, así como las medidas que sean necesarias para el desahogo de las convivencias temporales entre la niña, niño y/o adolescente y los solicitantes;
+
+XIV. Realizar las acciones necesarias para la actualización de datos y búsqueda de posibles padres adoptivos de niñas, niños y/o adolescentes institucionalizados susceptibles de adopción;
+
+XV. Solicitar al personal de trabajo social y psicología, por conducto de la persona titular de la Procuraduría de Protección, un informe detallado de la integración de la niña, niño y/o adolescente, con la Familia de Acogimiento Pre-adoptivo, así como los seguimientos post-adopción;
+
+XVI. Evaluar la continuidad del trámite de adopción, en aquellos casos en que el personal de trabajo social y psicología, identifiquen durante las convivencias de integración de la niña, niño y/o adolescente, con la Familia de Acogimiento Pre-adoptivo, que no se consolidaron las condiciones de Integración, y
+
+XVII. Las demás que le correspondan, de conformidad con el presente ordenamiento y disposiciones jurídicas y administrativas aplicables.
+
 ###### ARTÍCULO 113.
 
 Corresponde exclusivamente al Sistema Estatal DIF, las atribuciones siguientes:
@@ -2650,3 +2742,13 @@ P.O. 2 DE JULIO DE 2026.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR VIRTUD DEL CUAL SE ADICIONAN LOS ARTÍCULOS 112 BIS Y 112 TER, A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. La Junta Directiva del Sistema Estatal DIF deberá expedir el Reglamento Interior del Consejo Técnico de Adopciones dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
