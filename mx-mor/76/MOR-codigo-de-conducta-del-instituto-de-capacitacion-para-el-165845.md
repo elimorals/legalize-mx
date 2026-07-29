@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-instituto-de-capacitacion-para-el-165845
 country: "mx"
 rank: "codigo"
 publication_date: "2023-04-26"
-last_updated: "2023-04-26"
+last_updated: "2026-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 29 DE JULIO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2026 (ABROGADO).
 
 Código publicado en el Número 6189 del Periódico Oficial del Estado de Morelos, el miércoles 26 de abril de 2023.
 
@@ -330,3 +332,13 @@ Lic. Juan Carlos Rodríguez Flores
 Comisario público en el ICATMOR
 
 Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JULIO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "CÓDIGO DE CONDUCTA DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE MORELOS".]</small>
+
+PRIMERO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga el Código de Conducta del Instituto de Capacitación para el Trabajo del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 6189, de fecha veintiséis de abril de dos mil veintitrés.
