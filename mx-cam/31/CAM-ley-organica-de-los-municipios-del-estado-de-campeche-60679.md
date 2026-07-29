@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2026-07-10"
+last_updated: "2026-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2026.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -2221,6 +2221,30 @@ IX. Las demás que determinen ésta y otras normas legales.
 
 El Ayuntamiento procurará que los centros de población mayores a quinientos habitantes cuenten con los servicios públicos a que hace referencia el presente ordenamiento.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2026)</small>
+
+ARTÍCULO 161 BIS.- Los Ayuntamientos, en el ámbito de sus competencias y por conducto de las dependencias competentes o de los organismos operadores previstos en la Ley de Agua Potable y Alcantarillado del Estado de Campeche, según corresponda conforme a las modalidades de prestación previstas en dicho ordenamiento, garantizarán progresivamente la prestación continua, suficiente, salubre, aceptable, accesible y asequible del servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, en términos de lo dispuesto por los artículos 4 y 115, fracción III, inciso a), de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables.
+
+Para tal efecto, conforme a sus instrumentos de planeación y capacidades técnicas, operativas y financieras, deberán:
+
+I. Participar en la planeación y programación de la prestación del servicio, así como promover la operación, conservación, rehabilitación y ampliación de la infraestructura hidráulica necesaria, con base en los diagnósticos técnicos correspondientes;
+
+II. Establecer políticas, programas y acciones orientadas a la cobertura universal del servicio, priorizando a las comunidades rurales, localidades con menor cobertura y zonas con mayor rezago social;
+
+III. Garantizar que el servicio se presente bajo criterios de disponibilidad, calidad, continuidad, accesibilidad y asequibilidad, sin discriminación alguna;
+
+IV. Dar seguimiento, a través de los mecanismos previstos en la legislación aplicable, a las acciones de supervisión, evaluación, transparencia y rendición de cuentas respecto de la prestación del servicio;
+
+V. Coordinarse con autoridades del ámbito federal y estatal, para la adecuada prestación del servicio, en los términos de la legislación aplicable;
+
+VI. Promover el uso eficiente, sustentable y responsable del agua, así como la cultura de su cuidado; y
+
+VII. Adoptar medidas para prevenir y atender oportunamente las interrupciones o deficiencias en la prestación del servicio.
+
+El incumplimiento injustificado de las obligaciones previstas en el presente artículo por parte de las personas servidoras públicas municipales, incluyendo aquellas adscritas a los organismos descentralizados de la administración pública municipal encargados de la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, podrá dar lugar a las responsabilidades administrativas que correspondan, en los términos de la legislación aplicable y de acuerdo con las atribuciones específicamente conferidas a cada persona servidora pública.
+
+La vigilancia y el seguimiento de dichas obligaciones se realizarán a través de los órganos y mecanismos previstos en la Ley de Agua Potable y Alcantarillado del Estado de Campeche. Cuando, en el ejercicio de esas atribuciones, se adviertan hechos u omisiones que pudieran constituir faltas administrativas, se dará vista al Órgano Interno de Control o a la autoridad competente para que proceda conforme a la legislación aplicable.
+
 ###### ARTÍCULO 162.
 
 La prestación de los servicios públicos a cargo del Municipio la realizará el Ayuntamiento por conducto de las dependencias y entidades de la Administración Pública Municipal que señalen los reglamentos municipales.
@@ -2842,3 +2866,15 @@ SEGUNDO.- Los HH. Ayuntamientos promoverán, en el ámbito de su competencia y c
 TERCERO.- Los HH. Ayuntamientos en un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente decreto, deberán realizar la armonización y ajustes necesarios a su marco reglamentario aplicable.
 
 CUARTO.- Se derogan las disposiciones legales y reglamentarias del marco normativo local, en lo que se opongan al contenido del presente decreto.
+
+P.O. 29 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 262 POR EL QUE "SE ADICIONA EL ARTÍCULO 161 BIS A LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos del Estado deberán, en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente decreto, revisar y, en su caso, adecuar sus reglamentos municipales, instrumentos de planeación, programas operativos y disposiciones administrativas, en el ámbito de sus respectivas competencias, a fin de dar cumplimiento progresivo a lo establecido en este decreto.
+
+TERCERO.- Los Ayuntamientos deberán incorporar de manera progresiva en sus respectivos presupuestos de egresos, conforme a sus instrumentos de planeación y disponibilidad financiera, las previsiones presupuestarias necesarias para avanzar en el cumplimiento de las obligaciones previstas en el presente decreto, en el ámbito de sus respectivas competencias.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
