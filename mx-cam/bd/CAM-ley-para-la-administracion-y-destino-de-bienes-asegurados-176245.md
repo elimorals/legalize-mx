@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-administracion-y-destino-de-bienes-asegurados-17624
 country: "mx"
 rank: "ley"
 publication_date: "2024-10-28"
-last_updated: "2024-10-28"
+last_updated: "2026-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS Y DESTINO DE BIENES DECLARADOS EXTINTOS Y DE SANCIONES ECONÓMICAS POR HECHOS DE CORRUPCIÓN PARA EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 28 de octubre de 2024.
 
@@ -43,7 +43,9 @@ LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS O DECOMI
 
 La presente Ley es de orden público y de observancia general en todo el territorio del Estado de Campeche, la cual tiene por objeto regular la administración y destino de los bienes asegurados, abandonados o decomisados en juicios y procedimientos de índole penal, administrativo o de extinción de dominio, conforme a lo establecido en el Código Nacional de Procedimientos Penales y en las demás leyes aplicables, según corresponda; así como regular el destino de los bienes declarados extintos por las autoridades jurisdiccionales estatales, de conformidad con la Ley Nacional de Extinción de Dominio, y el destino de los ingresos por las sanciones económicas impuestas por faltas administrativas graves, de conformidad con la Ley General de Responsabilidades Administrativas.
 
-En caso de suscitarse dudas sobre la interpretación de la presente Ley, la misma la podrán realizar la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado, la Fiscalía General del Estado de Campeche, la Fiscalía Especializada en Combate a la Corrupción del Estado de Campeche, la Consejería Jurídica del Poder Ejecutivo del Estado de Campeche, el Tribunal de Justicia Administrativa del Estado de Campeche y/o el Poder Judicial del Estado de Campeche.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
+La interpretación de los preceptos de esta Ley, para efectos administrativos, corresponderá a la Secretaría de Administración, Finanzas y Planeación del Poder Ejecutivo, en el ámbito de sus atribuciones.
 
 ###### Artículo 2.
 
@@ -51,7 +53,9 @@ Para efectos de la presente Ley se entenderá por:
 
 I. Autoridad Administrativa: A cualquier autoridad del orden administrativo, ya sea Estatal o Municipal, establecidas en las leyes, entre cuyas atribuciones se hallen las de realizar aseguramientos distintos de los relacionados con los procedimientos penales;
 
-II. Autoridad Jurisdiccional: A los órganos jurisdiccionales competentes para instruir los procedimientos penales o administrativos, en los términos establecidos por la legislación aplicable;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+II. Autoridad Jurisdiccional: A los órganos jurisdiccionales competentes para substanciar procedimientos penales, administrativos, civiles o de extinción de dominio en los términos establecidos por la legislación aplicable;
 
 III. Bienes: Todas las cosas materiales que no estén excluidas del comercio, ya sean muebles o inmuebles y todo aquel derecho real o personal, sus objetos, productos, rendimientos y frutos, susceptibles de apropiación;
 
@@ -61,15 +65,23 @@ V. Bienes Abandonados: A los Bienes Asegurados que sean declarados en condición
 
 VI. Bienes Asegurados: A los bienes que con motivo de un procedimiento o por mandato de la autoridad jurisdiccional, del ministerio público o de autoridad administrativa, en el ámbito de sus respectivas competencias, adquieran esta condición, de conformidad con lo dispuesto por el Código Nacional, Ley Nacional de Extinción de Dominio, esta Ley y demás ordenamientos aplicables;
 
-VII. Bienes Decomisados: A los bienes, objetos, instrumentos o productos sobre los que se determine esta pena mediante sentencia emitida por autoridad jurisdiccional competente;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+VII. Bienes Decomisados: A los bienes, objetos, instrumentos o productos sobre los que se determine esta sanción mediante sentencia o resolución firme emitida por Autoridad Jurisdiccional o Administrativa competente;
 
 VIII. Código Nacional: Al Código Nacional de Procedimientos Penales;
 
-IX. Costos de Administración: A la suma de todos los gastos, tanto directos como indirectos, que se requieran para la conservación, mantenimiento, supervisión, custodia, destrucción o enajenación del bien; así como los pagos que se generen por conceptos de honorarios a terceros especializados, de servicios de vigilancia, de transporte y almacenamiento, de avalúos y de energía eléctrica, que se vinculen estrictamente con el bien de que se trate;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
 
-X. Ente Responsable: Es aquella Secretaría, Dependencia y Entidad de la Administración Pública Estatal, un Órgano del Poder Judicial y del Poder Legislativo del Estado, así como cualquier Organismo Constitucional Autónomo mencionado en la presente Ley, u otro órgano competente, que tenga facultades conforme a las leyes nacionales, generales y estatales aplicables, para realizar el aseguramiento de bienes o administrar directamente los bienes asegurados o decomisados en procedimientos no relacionados con extinción de dominio, y es responsable de su custodia, conservación y, en su caso, devolución o destino final, conforme a lo dispuesto en esta Ley y su reglamento;
+IX. Costos de Administración: A la suma de todos los gastos, tanto directos como indirectos, que se requieran para la recepción, registro, custodia, conservación, supervisión, defensa jurídica, regularización, certificaciones, elaboración de planos, cobranza, embalaje, pago de contribuciones, peritajes, seguros, publicaciones; así como los relativos al mantenimiento, destrucción o enajenación del bien; a los pagos que se generen por conceptos de honorarios a terceros especializados, de servicios de vigilancia, de transporte y almacenamiento, de avalúos, de energía eléctrica y cualesquiera otros que se que se vinculen estrictamente con el bien de que se trate;
 
-XI. Entidades Transferentes: Son aquellas Secretarías, Dependencias y Entidades de la Administración Pública, así como los Organismos Constitucionales Autónomos, mencionados en la presente Ley, quienes deberán transferir para su administración, enajenación o destrucción los Bienes señalados en esta Ley;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+X. Ente Responsable: Es aquella Secretaría, Dependencia o Entidad de la Administración Pública Estatal o Municipal, un Órgano del Poder Judicial o del Poder Legislativo del Estado, así como cualquier Organismo Constitucional Autónomo mencionado en la presente Ley, u otro órgano competente que tenga facultades conforme a las leyes nacionales, generales y estatales aplicables, para realizar el aseguramiento de bienes y administrar directamente los bienes asegurados en procedimientos no relacionados con extinción de dominio, y es responsable de su custodia, conservación y, en su caso, devolución o transferencia a la UNDECAR, conforme a lo dispuesto en el Código Nacional, esta Ley y su Reglamento;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+XI. Remanente: Es el recurso económico que resulta del producto de la enajenación de bienes abandonados, decomisados o sujetos a extinción de dominio, así como de los recursos económicos en dichas condiciones, una vez realizadas las deducciones legales correspondientes, tales como la reparación del daño, las multas aplicables y los costos de administración de la UNDECAR;
 
 XII. Fiscalía: A la Fiscalía General del Estado de Campeche;
 
@@ -81,13 +93,19 @@ XV. Ley: A la Ley para la Administración y Destino de Bienes Asegurados, Abando
 
 XVI. Monetización: El producto de la conversión de un bien o activo, en su valor en dinero;
 
-XVII. Transferencia: El procedimiento por el cual una Entidad Transferente entrega uno o más Bienes a la UNDECAR, para su administración, enajenación, destino o destrucción, sin que dicha entrega implique transmisión de propiedad alguna ni genere el pago de impuestos;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
 
-XVIII. UNDECAR: A la Unidad para Devolver a Campeche lo Robado, Órgano Desconcentrado de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Campeche;
+XVII. Transferencia: Al procedimiento por el cual se entrega jurídica o materialmente uno o más Bienes a la UNDECAR, para su administración, enajenación, destino o destrucción, sin que dicha entrega implique transmisión de propiedad alguna ni genere el pago de impuestos;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+XVIII. UNDECAR: A la Unidad para Devolver a Campeche lo Robado, Órgano Desconcentrado de la Secretaría de Administración, Finanzas y Planeación del Poder Ejecutivo del Estado de Campeche;
 
 XIX. Representante Legal: A la persona encargada de la representación jurídica de la persona interesada, mediante poder otorgado por la misma;
 
-XX. SAFIN: A la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Campeche; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+XX. SAFIN: A la Secretaría de Administración, Finanzas y Planeación del Poder Ejecutivo del Estado de Campeche; y
 
 XXI. Tribunal de Justicia Administrativa: Al Tribunal de Justicia Administrativa del Estado de Campeche.
 
@@ -113,23 +131,43 @@ b) Los edictos deberán contener un resumen de la resolución por notificar.
 
 Las notificaciones personales surtirán sus efectos el día hábil siguiente al que hubieren sido practicadas y las efectuadas por edictos el día hábil siguiente al de la última publicación.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2026)</small>
+
+###### Artículo 3 Bis.
+
+Las Secretarías, Dependencias o Entidades de la Administración Pública Estatal o Municipal, los Órganos de los Poderes Judicial y Legislativo del Estado, así como cualquier Organismo Constitucional Autónomo u otro órgano competente del Estado que tenga facultades conforme a las leyes nacionales, generales y estatales aplicables para realizar el aseguramiento de bienes, deberán considerar el valor pecuniario de los mismos, su susceptibilidad de administración y el interés económico del Estado, a efecto de garantizar su adecuado aprovechamiento.
+
+En caso de que por su estado, naturaleza, costos de conservación o mantenimiento, dichos bienes resulten incosteables o pudieren representar una pérdida o carga económica para el Estado, los Entes Responsables deberán proceder, conforme a la normatividad aplicable, a determinar su destino mediante asignación, enajenación, destrucción o, en su caso, donación a instituciones autorizadas para recibir donativos deducibles en términos de la legislación fiscal, o bien definir un fin específico que garantice la mayor utilidad económica y social para el Estado.
+
 ### CAPÍTULO SEGUNDO. DE LA UNIDAD PARA DEVOLVER A CAMPECHE LO ROBADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 4.
 
-La Unidad para Devolver a Campeche lo Robado es un órgano desconcentrado de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Campeche, el cual tendrá las siguientes atribuciones:
+La Unidad para Devolver a Campeche lo Robado es un órgano desconcentrado de la Secretaría de Administración, Finanzas y Planeación del Poder Ejecutivo del Estado de Campeche, el cual tendrá las siguientes atribuciones:
 
 I. Proponer a la persona titular de la SAFIN el destino final de los bienes declarados extintos por las autoridades jurisdiccionales, de conformidad con la Ley Nacional de Extinción de Dominio, así como determinar el destino final de los ingresos por las sanciones económicas que se impongan por faltas administrativas graves, de conformidad con la Ley General de Responsabilidades Administrativas;
 
-II. Proponer a la persona titular de la SAFIN, acuerdos y lineamientos generales para la adecuada administración de los bienes a que se refiere la Ley, que incluyan la definición y pago de los costos de administración así como para evitar que se alteren, deterioren, desaparezcan, destruyan, o sean utilizados indebidamente; también, deberán considerarse en los mismos la contratación de los seguros a los que se hace referencia en el artículo 10 de la presente Ley y los procedimientos para la destrucción de los bienes conforme a las leyes aplicables y la presente Ley;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
 
-III. Proponer a la persona titular de la SAFIN, acuerdos y lineamientos generales a los que deberán ajustarse los depositarios, administradores o interventores en la utilización de los bienes sujetos a medidas cautelares en el procedimiento de extinción de dominio, cuando así resulte procedente;
+II. Proponer a la persona titular de la SAFIN, los lineamientos generales para la adecuada administración de los bienes a que se refiere la Ley, que incluyan la definición y pago de los costos de administración para evitar que se alteren, deterioren, desaparezcan, destruyan, o sean utilizados indebidamente. También, será objeto de los referidos lineamientos generales la contratación de los seguros a los que se hace referencia en el artículo 10 de la presente Ley y los procedimientos para la destrucción de los bienes conforme a las disposiciones jurídicas y reglamentarias aplicables;
 
-IV. Nombrar y remover a depositarios, administradores o interventores de bienes asegurados, con carácter definitivo; o ratificar, con el mismo carácter, las que de manera provisional se autoricen;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
 
-V. Supervisar que el Registro Público de Bienes Asegurados, Decomisados y Abandonados a que se refiere esta Ley, se encuentre debidamente actualizado y disponible;
+III. Proponer a la persona titular de la SAFIN, los lineamientos generales a los que deberán ajustarse los depositarios, administradores o interventores en la utilización de los bienes sujetos a medidas cautelares en el procedimiento de extinción de dominio, cuando así resulte procedente;
 
-VI. Recibir de los Organismos Centralizados y Entidades Paraestatales los bienes muebles, inmuebles o los recursos económicos que hayan sido otorgados a su favor, o en favor del Estado, en razón de cualquier tipo (sic) resolución firme emitida por la autoridad competente en la materia;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+IV. Nombrar y remover a depositarios, administradores o interventores, con carácter definitivo o, en su caso, ratificar, con el mismo carácter, los que de manera provisional se autoricen;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+V. Integrar y supervisar que el Registro Público de Bienes Asegurados, Abandonados o Decomisados al que se refiere esta Ley se encuentre debidamente actualizado y disponible;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+VI. Recibir los bienes muebles o inmuebles que hayan sido otorgados en favor del Estado, de los Organismos Centralizados o de las Entidades Paraestatales del Poder Ejecutivo del Estado en razón de cualquier tipo de resolución firme emitida por la autoridad competente en la materia;
 
 VII. Proponer a la o el Secretario la disposición final de los bienes que se hayan destinado a favor del Estado por procedimiento administrativo o jurisdiccional definitivo;
 
@@ -141,7 +179,9 @@ X. Optimizar el aprovechamiento de los bienes muebles e inmuebles que hayan sido
 
 XI. Proponer a la o el Secretario la celebración de convenios de coordinación o colaboración relacionados con sus facultades;
 
-XII. Diseñar los mecanismos de evaluación que permitan destacar su eficiencia y eficacia en la aplicación de los recursos obtenidos, de conformidad con lo previsto en la legislación aplicable en la materia, en programas prioritarios que tengan beneficio directo en la población del Estado;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+XII. Diseñar los mecanismos de evaluación que permitan destacar su eficiencia y eficacia en la aplicación de los recursos obtenidos, de conformidad con lo previsto en la legislación aplicable en la materia;
 
 XIII. Integrar y dar seguimiento a los expedientes técnicos de todos los bienes muebles e inmuebles que le hayan sido transferidos por los Organismos Centralizados y Entidades Paraestatales;
 
@@ -151,37 +191,59 @@ XV. Llevar a cabo la disposición, uso, usufructo, enajenación y monetización 
 
 XVI. Proceder a la venta o Disposición Anticipada de los Bienes sujetos a proceso de extinción de dominio, con excepción de los que las autoridades consideren objeto de prueba que imposibiliten su destino final;
 
-XVII. Ejercer las atribuciones que la Ley Nacional de Extinción de Dominio otorga a la autoridad administradora; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
 
-XVIII. Las demás que le confieran expresamente la presente Ley, otras disposiciones legales y reglamentarias aplicables y aquellas que le asigne la persona titular de la SAFIN.
+XVII. Ejercer las atribuciones que la Ley Nacional de Extinción de Dominio otorga a la autoridad administradora;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2026)</small>
+
+XVIII. Recibir, a través del Servicio de Administración Fiscal del Estado de Campeche, los recursos económicos que hayan sido otorgados en favor del Estado, de sus Organismos Centralizados o Entidades Paraestatales en razón de cualquier tipo de resolución firme emitida por la autoridad competente en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 29 DE JULIO DE 2026)</small>
+
+XIX. Las demás que le confieran expresamente la presente Ley, otras disposiciones legales y reglamentarias aplicables, así como aquellas que le asigne la persona titular de la SAFIN.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 5.
 
-La persona titular de la SAFIN emitirá las disposiciones legales en las que se desarrollarán los sistemas de control y registro, procedimientos y demás lineamientos necesarios para garantizar la adecuada administración, guarda y custodia de los bienes que sean puestos a disposición de la UNDECAR, derivados de procedimientos de orden penal, administrativo o de extinción de dominio, así como de los bienes declarados extintos por las autoridades jurisdiccionales y de las sanciones económicas por faltas administrativas graves.
+La persona titular de la SAFIN dictará las disposiciones administrativas necesarias para la adecuada aplicación y ejecución de la presente Ley.
 
 Lo anterior, sin demérito de los instrumentos jurídicos que en uso de sus respectivas atribuciones emitan los entes públicos que correspondan.
 
 ### CAPÍTULO TERCERO. DE LA ADMINISTRACIÓN DE LOS BIENES ASEGURADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 6.
 
-Los Bienes Asegurados serán administrados por cada Ente que legalmente haya realizado el aseguramiento, de conformidad con las disposiciones del Código Nacional, de las leyes específicas para cada materia y de esta Ley hasta que se resuelva su situación legal. Quedan exceptuados de esta disposición los bienes asegurados derivados de procedimientos iniciados por Extinción de dominio, los cuales serán administrados por la UNDECAR, de conformidad con lo dispuesto en la Ley Nacional de Extinción de Dominio.
+Los Bienes Asegurados serán administrados por cada Ente Responsable que haya realizado el aseguramiento, de conformidad con las disposiciones del Código Nacional, de las leyes específicas para cada materia y de esta Ley hasta que se resuelva su situación legal. Quedan exceptuados de esta disposición los bienes asegurados derivados de procedimientos iniciados por Extinción de Dominio, los cuales serán administrados por la UNDECAR, de conformidad con lo dispuesto en la Ley Nacional de Extinción de Dominio, en esta Ley y demás disposiciones legales y reglamentarias aplicables.
 
 En todo caso, se establecerán con claridad las facultades y responsabilidades que en cada caso y etapa del procedimiento de cadena de custodia, hasta su conclusión, correspondan a las instituciones y servidores públicos que en él intervengan, atendiendo como mínimo a la naturaleza del bien y su peligrosidad, además de otras características que resulte necesario tener en consideración, conforme a lo que disponen las leyes nacionales, generales y federales aplicables a cada tipo de bien.
 
-Las facultades y responsabilidades a las que hace referencia el párrafo anterior, deberá establecerlas cada Ente y la UNDECAR, según sea el caso, y de conformidad con las leyes nacionales, generales y federales aplicables.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
+Las facultades y responsabilidades a las que hace referencia el párrafo anterior, deberá establecerlas cada Ente Responsable y la UNDECAR, según sea el caso, sin perjuicio de lo previsto en las leyes nacionales, generales, federales y demás disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 7.
 
 La administración de los Bienes Asegurados comprende su recepción, registro, custodia, conservación, supervisión y, en su caso, devolución a la persona interesada o entrega al destinatario final.
 
-Serán conservados en el estado en que hayan sido puestos a disposición jurídica y material de cada Ente, para ser devueltos o entregados en las mismas condiciones, salvo el deterioro normal que se les cause por el transcurso del tiempo o el uso ordinario. Podrán utilizarse o ser enajenados única y exclusivamente en los casos y cumpliendo los requisitos establecidos en esta Ley.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
+Serán conservados en el estado en que hayan sido puestos a disposición jurídica y material de cada Ente Responsable, para ser devueltos o entregados en las mismas condiciones, salvo el deterioro normal que se les cause por el transcurso del tiempo o el uso ordinario. Podrán utilizarse o ser enajenados única y exclusivamente en los casos y cumpliendo los requisitos establecidos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2026)</small>
+
+El numerario asegurado deberá conservarse en los términos establecidos en el artículo 17 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 8.
 
-La recepción jurídica y material de los Bienes Asegurados que realice cada Ente, se ajustará a lo siguiente, según deriven de procedimientos penales o administrativos:
+La recepción jurídica y material de los Bienes Asegurados que realice cada Ente Responsable, salvo que la legislación para cada materia establezca un procedimiento específico, se ajustará a lo siguiente:
 
-I. Una vez recibidos los Bienes Asegurados y el inventario respectivo realizado por las autoridades correspondientes, se levantará a su vez un diverso inventario en el que se harán constar las características, datos de identificación y condiciones físicas en que se reciban los Bienes Asegurados, así como cualquier otro dato que sea relevante para su individualización;
+I. Al momento de la entrega de los Bienes Asegurados conforme el inventario respectivo realizado por las autoridades correspondientes, se levantará a su vez un diverso inventario en el que se harán constar las características, datos de identificación y condiciones físicas en las que se reciban los Bienes Asegurados, así como cualquier otro dato que sea relevante para su individualización;
 
 II. Se tomarán las medidas conducentes e inmediatas para evitar que los Bienes Asegurados se deterioren, destruyan, alteren, desaparezcan o sean indebidamente utilizados;
 
@@ -191,59 +253,73 @@ IV. Se registrarán de manera interna, mediante una nomenclatura o método de cl
 
 V. Se levantará constancia pormenorizada, conforme al formato homologado de cadena de custodia, que deberá ser firmada por los que en ella intervienen; y
 
-VI. Se llevará a cabo en las instalaciones destinadas para efectos de la recepción jurídica y material de los Bienes Asegurados; salvo los inmuebles o aquellos que por su propia naturaleza no sean susceptibles de traslado o cuando su traslado sea incosteable; en cuyo caso el personal acreditado de la UNDECAR se constituirá en el lugar en que se encuentren éstos, para los efectos correspondientes.
+VI. Se llevará a cabo en las instalaciones destinadas para efectos de la recepción jurídica y material de los Bienes Asegurados; salvo los inmuebles o aquellos que por su propia naturaleza no sean susceptibles de traslado o cuando su traslado sea incosteable; en cuyo caso el personal acreditado por el Ente Responsable se constituirá en el lugar en que se encuentren dichos Bienes, para los efectos correspondientes.
 
-El presente numeral aplica tanto para bienes asegurados derivados de procedimientos penales y administrativos, salvo que las leyes específicas indiquen procedimientos específicos.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 9.
 
-La UNDECAR integrará una base de datos denominada Registro de Bienes Asegurados, Abandonados o Decomisados, para su adecuada administración. El registro se regulará en el reglamento de la presente Ley.
+La UNDECAR integrará una base de datos denominada Registro Público de Bienes Asegurados, Abandonados o Decomisados, para el adecuado control de los bienes que le sean transferidos. El registro se regulará en el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 10.
 
-La UNDECAR podrá administrar directamente los Bienes Asegurados o nombrar depositarios, interventores o administradores de los mismos, de conformidad con esta Ley.
+El Ente Responsable administrará directamente los Bienes Asegurados o podrá nombrar depositarios, interventores o administradores de los mismos, de conformidad con esta Ley y demás disposiciones legales y reglamentarias aplicables.
 
-Los depositarios, interventores o administradores serán preferentemente los Poderes Públicos, las Secretarías, Dependencias o Entidades de la Administración Pública Estatal o Municipal, y demás entes públicos, previa solicitud o acuerdo, sin perjuicio de que puedan ser designadas otras personas que, a juicio del Ente responsable o la UNDECAR, resulten idóneas.
+Los depositarios, interventores o administradores serán preferentemente los Poderes Públicos, las Secretarías, Dependencias o Entidades de la Administración Pública Estatal o Municipal, y demás entes públicos estatales, previa solicitud o acuerdo, sin perjuicio de que puedan ser designadas otras personas que, a juicio del Ente Responsable resulten idóneas. La SAFIN y la UNDECAR no podrán ser nombradas depositarias, interventoras o administradoras de Bienes Asegurados.
 
-Quienes reciban Bienes Asegurados en depositaría, intervención o administración, están obligados a rendir al Ente responsable o a la UNDECAR un informe bimestral sobre el mantenimiento y conservación de los mismos, así como a brindarle todas las facilidades para su supervisión y vigilancia o, en su caso, a reintegrarlos cuando así se les requiera.
+Quienes reciban Bienes Asegurados en depositaría, intervención o administración, están obligados a rendir al Ente Responsable un informe bimestral sobre el mantenimiento y conservación de los mismos, así como a brindarle todas las facilidades para su supervisión y vigilancia o, en su caso, a reintegrarlos cuando así se les requiera.
 
-El Ente responsable, la UNDECAR o el depositario, interventor o administrador de bienes asegurados, contratará seguros por valor real cuando exista riesgo de daño o pérdida, siempre que el valor y las características de los bienes lo ameriten, de conformidad con los lineamientos emitidos para tal efecto por la SAFIN.
+El Ente Responsable o el depositario, interventor o administrador de bienes asegurados, contratará seguros por valor real cuando exista riesgo de daño o pérdida, siempre que el valor y las características de los bienes lo ameriten, de conformidad con los lineamientos emitidos para tal efecto por la SAFIN.
 
-El Ente responsable o la UNDECAR, podrán otorgar a los depositarios, interventores o administradores de bienes asegurados las siguientes facultades:
+El Ente Responsable, podrá otorgar a los depositarios, interventores o administradores de bienes asegurados las siguientes facultades:
 
-I.- Poder general para pleitos y cobranzas y actos de administración en los términos del Código Civil del Estado de Campeche;
+I. Poder general para pleitos y cobranzas y actos de administración en los términos del Código Civil del Estado de Campeche;
 
-II.- Poder especial para pleitos y cobranzas, con las cláusulas especiales a que se refiere el Código Civil del Estado de Campeche;
+II. Poder especial para pleitos y cobranzas, con las cláusulas especiales a que se refiere el Código Civil del Estado de Campeche;
 
-III.- Poder para actos de administración en materia laboral con facultades expresas para articular y absolver posiciones de acuerdo con lo dispuesto en el artículo 786 de la Ley Federal del Trabajo, con facultades para administrar las relaciones laborales y conciliar de acuerdo con lo dispuesto en los artículos 11 y 876, fracciones I y VI de la misma Ley, así como comparecer en juicio en los términos de los artículos 692, fracciones I, II y III, y el 878 de la Ley referida; y
+III. Poder para actos de administración en materia laboral con facultades expresas para articular y absolver posiciones de acuerdo con lo dispuesto en el artículo 786 de la Ley Federal del Trabajo, con facultades para administrar las relaciones laborales y participar en los procedimientos de conciliación como representante del Ente Responsable conforme a lo dispuesto en los artículos 11 y 684-E de la precitada Ley, así como comparecer en juicio en los términos del artículo 692, fracciones I, II y III de la Ley referida; y
 
-IV.- Poder para otorgar y suscribir títulos de crédito, en los términos del artículo 9o. de la Ley General de Títulos y Operaciones de Crédito.
+IV. Poder para otorgar y suscribir títulos de crédito, en los términos del artículo 9o. de la Ley General de Títulos y Operaciones de Crédito.
+
+Estas mismas facultades serán ejercidas por la UNDECAR tratándose de Bienes Asegurados en materia de extinción de dominio.
 
 ###### Artículo 11.
 
 Las armas de fuego, municiones y explosivos serán remitidos a la Secretaría de la Defensa Nacional del Poder Ejecutivo Federal, observándose para ello lo dispuesto en el Código Nacional y en las leyes federales aplicables en la materia. Tratándose de substancias psicotrópicas, estupefacientes, psicoactivas, drogas, narcóticos, flora y fauna protegidos o en peligro de extinción, materiales o substancias peligrosos y demás Bienes cuya propiedad o posesión se encuentre prohibida, restringida o especialmente regulada, se procederá en los términos de la legislación federal aplicable.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 12.
 
-A los frutos o rendimientos que produzcan los bienes durante el tiempo que permanezcan al cuidado del Ente responsable o la UNDECAR, se les dará el mismo tratamiento que a los Bienes Asegurados que los generen.
+A los frutos o rendimientos que produzcan los bienes durante el tiempo que permanezcan al cuidado del Ente Responsable, se les dará el mismo tratamiento que a los Bienes Asegurados que los generen.
 
-En todo caso, los recursos que se obtengan de la administración de los Bienes Asegurados se destinarán a resarcir los Costos de Administración y el remanente, si lo hubiera, se distribuirá conforme lo señala el Código Nacional, la legislación en materia de disciplina financiera y demás disposiciones legales y reglamentarias aplicables.
+En todo caso, los recursos que se obtengan de la administración de los Bienes Asegurados se destinarán a resarcir los Costos de Administración y el remanente, si lo hubiera, se depositará en la cuenta bancaria que corresponda y se entregará a quien en su momento acredite tener derecho.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 13.
 
-Respecto de los Bienes Asegurados, el Ente responsable o la UNDECAR y en su caso los depositarios, interventores o administradores que se hayan designado tendrán, además de las obligaciones previstas en esta Ley, las que señala el Código Civil del Estado de Campeche, para cada una de ellas.
+Respecto de los Bienes Asegurados, el Ente Responsable y, en su caso, los depositarios, interventores o administradores que se hayan designado tendrán, además de las obligaciones previstas en esta Ley, las que señala el Código Civil del Estado de Campeche, para cada una de ellas.
 
-Para la debida conservación y, en su caso, buen funcionamiento de los Bienes Asegurados, incluyendo el de los inmuebles destinados a actividades agropecuarias, el Ente responsable o la UNDECAR tendrá todas las facultades y obligaciones de un mandatario para pleitos y cobranzas, actos de administración y, en los casos previstos en la Ley, actos de dominio, mediante el otorgamiento de un poder general, de conformidad con lo que establece el Código Civil del Estado de Campeche.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
-Los depositarios, interventores y administradores que el Ente responsable o la UNDECAR designe, tendrán sólo las facultades para pleitos y cobranzas y de administración que dicha Unidad les otorgue.
+Para la debida conservación y, en su caso, buen funcionamiento de los Bienes Asegurados, incluyendo el de los inmuebles destinados a actividades agropecuarias, el Ente Responsable tendrá todas las facultades y obligaciones de un mandatario para pleitos y cobranzas, actos de administración y, en los casos previstos en la Ley, actos de dominio, mediante el otorgamiento de un poder general, de conformidad con lo que establece el Código Civil del Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
+Los depositarios, interventores y administradores que el Ente Responsable designe, tendrán sólo las facultades para pleitos y cobranzas y de administración que, en su caso, se les otorguen.
 
 El aseguramiento de bienes no implica que éstos entren al erario estatal. Para su administración, no serán aplicables las disposiciones propias de los bienes del patrimonio estatal ni municipal, conforme a lo señalado en esta Ley.
 
 Quienes soliciten bienes en depositaría están obligados a realizarlo por escrito y debidamente justificado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 14.
 
-El Ente responsable o la UNDECAR, así como los depositarios, administradores o interventores de Bienes Asegurados, darán todas las facilidades para que la Autoridad Jurisdiccional, las y los Agentes del Ministerio Público u otras autoridades competentes, cuando así lo requieran, practiquen con dichos bienes todas las diligencias necesarias en el lugar donde se encuentre resguardado el bien.
+El Ente Responsable, así como los depositarios, administradores o interventores de Bienes Asegurados, darán todas las facilidades para que la Autoridad Jurisdiccional, las personas Agentes del Ministerio Público u otras autoridades competentes, cuando así lo requieran, practiquen con dichos bienes todas las diligencias necesarias en el lugar donde se encuentre resguardado el bien.
 
 Este artículo resultará aplicable para todos los bienes, de conformidad con la presente Ley.
 
@@ -251,33 +327,47 @@ Este artículo resultará aplicable para todos los bienes, de conformidad con la
 
 En caso de que se ejercite la acción penal, los Bienes Asegurados durante el desarrollo de la investigación estarán legalmente a disposición de la Autoridad Jurisdiccional, para los efectos del proceso; la custodia material seguirá a cargo del Ente Responsable.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 16.
 
-Los Bienes Asegurados serán custodiados y conservados en los lugares que determine el Ente responsable o la UNDECAR.
+Los Bienes Asegurados serán custodiados y conservados en los lugares que determine el Ente Responsable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 17.
 
-La moneda nacional o extranjera que se asegure, deberá entregarse al Ente responsable o a la UNDECAR, quien a su vez la depositará en la institución bancaria que determine para tal efecto y, en todo caso, responderá de ella ante la autoridad que haya ordenado el aseguramiento.
+La moneda nacional o extranjera que se asegure deberá entregarse al área o unidad administrativa respectiva del Ente Responsable, quien a su vez la depositará en la institución bancaria que determine. Para tal efecto, la autoridad competente, en todo caso, responderá de ella ante la autoridad que haya ordenado el aseguramiento.
 
 Estos depósitos devengarán intereses a la tasa que la institución bancaria fije en el momento, por los depósitos a la vista que reciba.
 
-En caso de billetes o piezas metálicas que por tener marcas, señas, indicios u otras características, que sea necesario conservar para fines del procedimiento penal, la Autoridad Jurisdiccional o las o los Agentes del Ministerio Público ordenarán al Ente Responsable, que los resguarde y conserve en el estado en que los reciba. En estos casos, los depósitos no devengarán intereses.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
+En caso de billetes o piezas metálicas que, por tener marcas, señas, indicios u otras características, que sea necesario conservar para fines del procedimiento penal, la Autoridad Jurisdiccional o las o los Agentes del Ministerio Público ordenarán al Ente Responsable, que los resguarde y conserve en el estado en que los reciba.
 
 ###### Artículo 18.
 
 Las obras de arte o las piezas de valor histórico que se aseguren, serán provistas de los cuidados necesarios y depositados preferentemente en museos, centros u otras instituciones culturales públicas, y para su administración, preservación y cuidado se observarán las disposiciones legales en la materia.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 19.
 
-Los bienes semovientes, fungibles o perecederos y los que sean de mantenimiento incosteable a juicio del Ente responsable o la UNDECAR, previa autorización de la o el Juez de Control, en su caso, serán enajenados, atendiendo a la naturaleza del caso, mediante venta directa o subasta pública por la propia UNDECAR, de conformidad con las leyes aplicables.
+Los bienes semovientes, fungibles, no fungibles, consumibles o perecederos; los que sean de mantenimiento incosteable a juicio del Ente Responsable o causen perjuicio al erario; así como los que representen un peligro para el medio ambiente o para la salud, o que por el transcurso del tiempo puedan sufrir pérdida, merma o deterioro, o se pueda afectar gravemente su funcionamiento; o aquellos que sin sufrir deterioro material se deprecien sustancialmente por el transcurso del tiempo; previa autorización de la Autoridad Jurisdiccional competente, en su caso, serán enajenados, atendiendo a la naturaleza del caso, mediante venta directa o subasta pública, o destruidos de conformidad con las disposiciones legales y reglamentarias aplicables.
+
+En estos casos, el Ente Responsable solicitará a la UNDECAR la celebración del convenio de colaboración para su enajenación, acompañando a la solicitud la justificación de la causa de enajenación y, en su caso, la autorización emitida por la Autoridad Jurisdiccional competente.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 20.
 
-El producto que se obtenga de la enajenación de los bienes asegurados a que alude el artículo anterior, después de resarcir los Costos de Administración, será destinado conforme lo señala el Código Nacional respecto a dichos bienes.
+El producto que se obtenga de la enajenación de los Bienes Asegurados a los que alude el artículo anterior tendrá el tratamiento al que se refiere el artículo 12 de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 21.
 
-Los bienes inmuebles que se aseguren podrán quedar depositados con alguno de sus ocupantes, con su administrador o con quien designe el Ente responsable o la UNDECAR. Los administradores designados no podrán enajenar o gravar los inmuebles a su cargo. En todo caso, se respetarán los derechos legítimos de terceros. También podrán entregarse en depositaría a una autoridad estatal o municipal que así lo requiera, o ser arrendados a particulares.
+Los bienes inmuebles que se aseguren podrán quedar depositados con alguno de sus ocupantes, con su administrador o con quien designe el Ente Responsable. Los administradores designados no podrán enajenar o gravar los inmuebles a su cargo. En todo caso, se respetarán los derechos legítimos de terceros. También podrán entregarse en depositaría a una autoridad estatal o municipal que así lo requiera, o ser arrendados a particulares.
 
 Respecto de bienes inmuebles asegurados, susceptibles de destinarse a actividades agropecuarias, se procurará mantenerlos productivos.
 
@@ -293,45 +383,45 @@ El aseguramiento realizado por autoridades competentes en los procedimientos pen
 
 El aseguramiento realizado como medida cautelar en materia de extinción de dominio, se sujetará a lo dispuesto para tal efecto en la Ley Nacional de Extinción de Dominio.
 
-### CAPÍTULO QUINTO. DE LOS BIENES ASEGURADOS POR OTRAS AUTORIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JULIO DE 2026)</small>
+
+### CAPÍTULO QUINTO. DE LOS BIENES ASEGURADOS POR AUTORIDADES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 24.
 
-Cuando autoridades administrativas del Poder Ejecutivo del Estado realicen el aseguramiento de bienes conforme a las leyes respectivas, los pondrán a disposición de la UNDECAR, previo un convenio de colaboración con esta Unidad, refrendado por la o el titular de la SAFIN, para efectos de su guarda y administración, debiéndose proceder a su registro en los términos señalados en esta ley. En caso de no celebrarse el convenio, dichas autoridades administrativas deberán tener la guarda y administración de los bienes, de conformidad con el presente capítulo.
+Cuando el Ente Responsable realice el aseguramiento de bienes conforme a las leyes aplicables, deberá notificar a la persona interesada o a su representante legal dicho aseguramiento, dentro de los sesenta días naturales siguientes a su realización, entregando o poniendo a su disposición, según corresponda, una copia del registro de aseguramiento, a fin de que manifieste lo que a su derecho convenga. En dicha notificación, se apercibirá a la persona interesada o a su representante legal para que se abstenga de realizar actos de dominio sobre los bienes asegurados.
 
-Hecho lo anterior, la autoridad que realice el aseguramiento deberá notificar a la persona interesada o a su representante legal el aseguramiento del bien de que se trate, dentro de los sesenta días naturales siguientes a su realización, conforme a las reglas señaladas en esta Ley, entregándole o poniendo a su disposición, según sea el caso, una copia del registro de aseguramiento, para que manifieste lo que a su derecho convenga. En la notificación se apercibirá a la persona interesada o a su representante legal para que se abstenga de ejercer actos de dominio sobre los bienes asegurados.
-
-Salvo lo previsto en los artículos siguientes para el caso del aseguramiento de vehículos automotores, los bienes asegurados derivados de procedimientos administrativos, serán declarados abandonados, enajenados y liquidados en favor del Estado, conforme a lo señalado en esta Ley.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 25.
 
-Los vehículos automotores que sean asegurados por la Autoridad Administrativa competente, estarán bajo su custodia por un plazo de tres meses en el lugar que la propia autoridad determine. Si en ese plazo no comparece el legítimo propietario o propietaria o su poseedor o poseedora a recoger la unidad motriz, las autoridades administrativas procederán a su guarda y custodia, o remitirán a la UNDECAR según sea el caso.
+En el caso de vehículos depositados en inmuebles particulares, una vez que se pongan a disposición del Ente Responsable, éste señalará las condiciones específicas para el resguardo de los mismos. En caso de abandono y enajenación, resarcirá a través de convenio con las o los propietarios o administradores de los inmuebles particulares un porcentaje por la guarda y custodia de los automotores, siempre y cuando no exista deterioro o hecho alguno en ellos que demerite su valor.
 
-En el caso de vehículos depositados por la autoridad en inmuebles particulares, una vez que se pongan a disposición de la autoridad o de la UNDECAR, según sea el caso, ésta señalará las condiciones específicas para el resguardo de los mismos; en caso de abandono y enajenación, resarcirá a través de convenio con las o los propietarios o administradores de los inmuebles particulares un porcentaje por la guarda y custodia de los automotores, siempre y cuando no exista deterioro o hecho alguno en ellos que demerite su valor.
-
-En todo caso, las autoridades administrativas deberán:
-
-I. Levantar un inventario con la descripción y el estado en que se encuentran los vehículos automotores que se remitirán para su custodia y administración por la autoridad administrativa o a la UNDECAR;
-
-II. Identificar por sus números, de registro vehicular, de serie, placas, sellos, marcas u otros medios que se acuerde colocar, a los vehículos que se pongan a disposición de la autoridad administrativa o la UNDECAR; y
-
-III. Trasladar los vehículos automotores al lugar que se señale, cuando así lo requiera.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 26.
 
-Dentro de los sesenta días naturales siguientes a la recepción legal y material de un vehículo asegurado por Autoridad Administrativa, se procederá a notificar a los propietarios o poseedores de dichos vehículos a efecto de dar cumplimiento al capítulo relativo a la devolución de Bienes Asegurados o, en su caso, a declarar abandonados dichos bienes. Para ello, deberá observarse lo dispuesto en esta Ley.
+Los Bienes Asegurados derivados de procedimientos administrativos en el ámbito estatal serán declarados abandonados a favor del Estado en los términos señalados en esta Ley, y transferidos a la UNDECAR conforme al procedimiento establecido en las disposiciones aplicables, para su enajenación, destino o destrucción.
+
+La UNDECAR tendrá la obligación de verificar, previo a disponer de los bienes declarados abandonados en favor del Estado, que no existan procedimientos en curso en los que se haya ordenado su conservación.
 
 ### CAPÍTULO SEXTO. DE LA UTILIZACIÓN DE LOS BIENES ASEGURADOS
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 27.
 
-Los Entes Responsables o la persona titular de la SAFIN podrán autorizar a los depositarios, administradores o interventores para que utilicen los bienes que hayan recibido, lo que en su caso harán de conformidad con los lineamientos que expida dicho titular.
+Los Entes Responsables podrán autorizar a los depositarios, administradores o interventores para que utilicen los bienes que hayan recibido, lo que, en su caso, harán de conformidad con la normatividad aplicable.
 
-En el caso de vehículos automotores, las autoridades administrativas prestarán las facilidades necesarias para permitir el libre tránsito de las unidades autorizadas por los Entes Responsables o por la UNDECAR para su utilización por las y los servidores públicos en las funciones que tengan encomendadas, siempre y cuando cumplan con las disposiciones de tránsito y vialidad que establece la ley de la materia. En todo caso, los vehículos de que se trate deberán portar la documentación oficial que ampare el régimen legal de depositaría al que se encuentran asignados.
+En el caso de vehículos automotores, las autoridades administrativas prestarán las facilidades necesarias para permitir el libre tránsito de las unidades autorizadas por los Entes Responsables para su utilización por las personas servidoras públicas en las funciones que tengan encomendadas, siempre y cuando cumplan con las disposiciones de tránsito y vialidad que establece la ley de la materia. En todo caso, los vehículos de que se trate deberán portar la documentación oficial que ampare el régimen legal de depositaría al que se encuentran asignados.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 28.
 
-De conformidad con el numeral 10 de la presente Ley, los depositarios, administradores o interventores rendirán a los Entes Responsables o a la UNDECAR un informe bimestral pormenorizado sobre la utilización de los Bienes Asegurados que les sean asignados, conforme a los lineamientos y formatos que al efecto se emitan.
+Los depositarios, administradores o interventores deberán rendir a los Entes Responsables, mediante el informe bimestral a que se refiere el artículo 10 de la presente Ley, información pormenorizada sobre la utilización de los Bienes Asegurados que les sean asignados, conforme a los lineamientos y formatos que al efecto emita la persona Titular de la SAFIN.
 
 ###### Artículo 29.
 
@@ -339,41 +429,59 @@ Cuando proceda la devolución de bienes que se hayan utilizado conforme a los ar
 
 ### CAPÍTULO SÉPTIMO. DE LOS BIENES DECOMISADOS
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 30.
 
-La Autoridad Jurisdiccional, mediante sentencia en el proceso penal correspondiente, podrá decretar el decomiso de bienes, en términos de lo dispuesto en el Código Nacional.
+La Autoridad Jurisdiccional, mediante sentencia en el proceso penal, podrá decretar el decomiso de bienes, en términos de lo dispuesto en el Código Nacional.
+
+En los procedimientos de orden administrativo será la autoridad competente quien decretará el decomiso mediante resolución, en los términos que disponga la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 31.
 
-Los Bienes Asegurados de los que se decrete su decomiso conforme al Código Nacional, serán enajenados o destruidos en los términos de dicho ordenamiento, esta Ley y demás legislación aplicable.
+Una vez que la resolución o sentencia que decrete el decomiso de los bienes quede firme, deberán ser transferidos a la UNDECAR por los Entes Responsables de la Administración Pública Estatal, conforme al procedimiento de transferencia previsto en las disposiciones legales y reglamentarias aplicables para efectos de que se determine su enajenación, destino o, en su caso, su destrucción.
 
-En su caso, el numerario decomisado o el aprovechamiento producto de la enajenación serán destinados conforme a lo dispuesto en el artículo 250 del Código Nacional.
+Dichos bienes deberán ser registrados en la Base de Datos del Registro Público de Bienes Asegurados, Abandonados o Decomisados, así como en los demás registros públicos que resulten necesarios.
+
+En su caso, el numerario decomisado o el aprovechamiento producto de la enajenación serán destinados conforme a lo dispuesto en el artículo 250 del Código Nacional y en esta Ley.
 
 ### CAPÍTULO OCTAVO. DE LA DEVOLUCIÓN DE LOS BIENES ASEGURADOS
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 32.
 
-La devolución de Bienes Asegurados, así como de los bienes que se encuentren en administración, procede en los casos siguientes:
+La devolución de Bienes Asegurados procede en los casos siguientes:
 
-I. Durante el proceso, cuando los Agentes del Ministerio Público levanten el aseguramiento, o la Autoridad Jurisdiccional no declare el abandono o no condene al decomiso, la devolución surtirá efectos, previo el pago correspondiente por los Costos de Administración; y
+I. En caso de aseguramientos derivados de procedimientos penales en los supuestos previstos por el Código Nacional, previo el pago correspondiente por los Costos de Administración; y
 
-II. En el caso de aseguramiento hecho por autoridades administrativas, cuando no se declare y ratifique el abandono, y se haya realizado el pago de las multas y Costos de Administración correspondientes.
+II. En el caso de aseguramientos derivados de procedimientos administrativos, cuando no se imponga la sanción de decomiso, no se declare o ratifique el abandono, o bien se levante el aseguramiento y se hayan cubierto las multas y los Costos de Administración correspondientes.
+
+En el acuerdo de devolución de bienes, el Ente Responsable apercibirá a la persona interesada o a su representante legal que, de no recoger los bienes en un plazo de diez días siguientes a su notificación, causarán abandono a favor del Estado conforme a la presente Ley y demás disposiciones legales y reglamentarias aplicables.
 
 Lo relativo a los pagos por los Costos de Administración deberá establecerse en los acuerdos o lineamientos que para tal efecto se emitan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 33.
 
-El personal de los Entes Responsables o de la UNDECAR, al momento en que la persona interesada o su representante legal se presenten a recuperar los bienes, deberá:
+El personal de los Entes Responsables, al momento en que la persona interesada o su representante legal se presenten a recuperar los bienes deberá:
 
 I. Requerir la documentación correspondiente;
 
-II. Levantar acta en la que se haga constar el derecho del Interesado a recibir los bienes y las observaciones que formule;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+II. Levantar acta en la que se haga constar el derecho de la persona interesada o de su representante legal a recibir los bienes y las observaciones que formule;
 
 III. Realizar un inventario detallado de los bienes, precisando sus condiciones; y
 
 IV. Entregar los bienes al Interesado o a su representante legal.
 
-En caso de oposición del Interesado o su representante legal, serán puestos a disposición de la autoridad competente.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
+En caso de oposición de la persona interesada o de su representante legal, los bienes serán puestos a disposición de la autoridad competente.
 
 ###### Artículo 34.
 
@@ -381,13 +489,15 @@ La devolución de los bienes asegurados incluirá la entrega de los frutos o ren
 
 La devolución de numerario comprenderá la entrega del principal y de sus rendimientos durante el tiempo en que haya sido administrado.
 
-A partir de la devolución de los bienes, la persona interesada o su representante legal tendrán un plazo de treinta días naturales para interponer el recurso de inconformidad a que se refiere la Ley por las condiciones en que se encuentren los mismos y las cuentas que se les rindieron.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
+A partir de la devolución de los bienes, la persona interesada o su representante legal tendrán un plazo de quince días hábiles para interponer el recurso previsto en el artículo 83 de esta Ley, por las condiciones en las que se encuentren los bienes y/o las cuentas que se le rindieron respecto de su administración y custodia por parte del Ente Responsable.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 35.
 
-Los Entes Responsables o la UNDECAR sólo serán responsables del resguardo de los bienes, sin responsabilidad alguna ante su deterioro natural por el transcurso del tiempo y su uso ordinario.
-
-Sin embargo, el Ente Responsable o la UNDECAR será responsable de los daños derivados de la pérdida, extravío o deterioro inusual de los Bienes que administre. Quien tenga derecho a la devolución de Bienes que se hubieran perdido, extraviado o deteriorado, podrá reclamar su pago a la UNDECAR o al Ente Responsable.
+Los Entes Responsables y, en su caso, el depositario, administrador o interventor, responderán de los daños derivados de la pérdida, extravío o deterioro inusual de los Bienes que administre. Quien tenga derecho a la devolución de Bienes que se hubieran perdido, extraviado o deteriorado, podrá reclamar su pago a quien haya dado causa. Sin embargo, no tendrán responsabilidad alguna ante su deterioro natural por el transcurso del tiempo y su uso ordinario.
 
 ### CAPÍTULO NOVENO. DE LOS BIENES ABANDONADOS
 
@@ -395,53 +505,77 @@ Sin embargo, el Ente Responsable o la UNDECAR será responsable de los daños de
 
 En los procedimientos del orden penal, las reglas, plazos y términos para el aseguramiento y declaración de abandono de bienes son los que señala el Código Nacional en su Libro Segundo, Título III, Capítulo III, los que serán aplicados por el Ministerio Público, la o el Juez de Control y demás autoridades competentes, según corresponda.
 
-En los procedimientos de orden administrativo, una vez que los bienes hayan sido entregados o puestos a disposición de la UNDECAR y hecha la notificación del aseguramiento conforme a lo señalado en esta Ley, de no manifestar la persona interesada o su representante legal lo que a su derecho convenga, en un plazo de noventa días naturales siguientes al de la notificación, los bienes causarán abandono a favor del Estado, según se dispone en el artículo siguiente.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
+En los procedimientos de orden administrativo, una vez hecha la notificación del aseguramiento conforme a lo señalado en esta Ley, de no manifestar la persona interesada o su representante legal lo que a su derecho convenga en un plazo de noventa días naturales siguientes al de la notificación, los bienes causarán abandono a favor del Estado, según se dispone en el artículo siguiente, con excepción de aquellos que por resolución firme hayan sido declarados abandonados, decomisados o extintos en procedimientos penales o de extinción de dominio.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 37.
 
-Vencidos los plazos a que se refiere el párrafo segundo del artículo anterior, la UNDECAR iniciará el procedimiento para declarar abandonados los bienes de que se trate. Al efecto, notificará a la persona interesada o a su representante legal el vencimiento de los plazos correspondientes, otorgándole el plazo de diez días hábiles contados a partir del día siguiente al de la notificación para que manifieste lo que a su derecho convenga.
+Vencidos los plazos a los que se refiere el artículo 32 y el párrafo segundo del artículo anterior, el Ente Responsable iniciará el procedimiento para declarar abandonados los bienes de que se trate. Para ello, notificará a la persona interesada o a su representante legal el vencimiento de los plazos correspondientes, otorgándole el plazo de diez días hábiles contados a partir del día siguiente al de la notificación para que manifieste lo que a su derecho convenga.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 38.
 
-La UNDECAR procederá a declarar abandonados los Bienes Asegurados derivados de procedimientos administrativos, conforme a las reglas siguientes:
+El Ente Responsable procederá a declarar abandonados los Bienes Asegurados derivados de procedimientos administrativos, conforme a las reglas siguientes:
 
-I. Solicitará a la Autoridad Administrativa competente, el informe en el que se haga constar que la persona interesada o su apoderado legal no se presentaron a recoger los bienes o a hacer reclamo alguno; dicho informe que realice la Autoridad Administrativa deberá de ser previa notificación que haga a la persona interesada o a su representante legal de la resolución, haciéndose constar que la misma no se presentó a recibir los bienes;
+I. Verificará que la persona interesada o su apoderado legal no se presentaron a manifestar lo que a su derecho corresponda o a recoger los bienes, agregando a la declaratoria respectiva copia certificada de las resoluciones de aseguramiento y, en su caso, devolución; así como de sus respectivas notificaciones;
 
-II. Transcurridos los plazos previstos en esta Ley, sin que la persona interesada o su representante legal manifiesten lo que a su derecho convenga, la UNDECAR declarará que los bienes han causado abandono a favor del Estado; y
+II. Transcurridos los plazos previstos en esta Ley sin que la persona interesada o su representante legal se hayan presentado a deducir derechos sobre los bienes asegurados o no lo hayan acreditado, el Ente Responsable declarará que los bienes han causado abandono a favor del Estado; y
 
-III. Una vez declarado el abandono, la UNDECAR deberá requerir a la autoridad jurisdiccional la ratificación de la declaración efectuada en los términos antes señalados.
+III. Una vez declarado el abandono, el Ente Responsable deberá requerir a la Autoridad Jurisdiccional la ratificación de la declaración efectuada en los términos antes señalados.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 39.
 
-Al revisar la determinación de la UNDECAR, la autoridad jurisdiccional correspondiente deberá verificar que las notificaciones a que se refiere el artículo anterior se realizaron correctamente, que transcurrieron los plazos correspondientes y que se recabó la constancia de que la persona interesada o su representante legal no se presentaron a recoger los bienes o a presentar reclamo alguno.
+Al revisar la determinación del Ente Responsable, la Autoridad Jurisdiccional correspondiente deberá verificar que las notificaciones a que se refieren los artículos anteriores se realizaron correctamente, que transcurrieron los plazos correspondientes y que se recabó la constancia de que la persona interesada o su representante legal no se presentaron a recoger los bienes o no acreditaron derechos.
 
-La autoridad jurisdiccional ratificará o rectificará la declaración de abandono en un plazo que no excederá de quince días hábiles a partir del siguiente en que la UNDECAR lo haya requerido. En el supuesto de que la autoridad jurisdiccional considere que alguna de las notificaciones no fue practicada conforme a esta Ley, ordenará que se reponga el procedimiento a partir de la notificación hecha incorrectamente.
+La Autoridad Jurisdiccional ratificará o rectificará la declaración de abandono en un plazo que no excederá de quince días hábiles a partir del siguiente en el que el Ente Responsable lo haya requerido.
+
+En el supuesto de que la Autoridad Jurisdiccional considere que alguna de las notificaciones no fue practicada conforme a esta Ley, ordenará que se reponga el procedimiento a partir de la notificación hecha incorrectamente.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 40.
 
-Los bienes que sean declarados abandonados a favor del Estado, así como su destino, serán registrados en la Base de Datos del Registro Público de Bienes Asegurados, Decomisados y Abandonados, y en los demás registros públicos en los que resultare necesario.
+Los bienes que sean declarados abandonados a favor del Estado deberán ser transferidos a la UNDECAR por los Entes Responsables de la Administración Pública Estatal, en términos del procedimiento de transferencia previsto en el Reglamento de la presente Ley, a efecto de que dicha Unidad determine su enajenación o, en su caso, destrucción. El aprovechamiento que, en su caso, se obtenga de dichos bienes será destinado conforme a lo establecido en la presente Ley.
+
+Asimismo, los bienes deberán ser registrados en la Base de Datos del Registro Público de Bienes Asegurados, Abandonados o Decomisados, así como en los demás registros públicos que resulten necesarios.
 
 ### CAPÍTULO DÉCIMO. DEL DESTINO DE LOS BIENES
 
 #### SECCIÓN PRIMERA. DEL DESTINO DE LOS BIENES ABANDONADOS Y DECOMISADOS
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 41.
 
-Los bienes abandonados y los decomisados, sus frutos y productos, así como los derivados de su enajenación, serán considerados Aprovechamientos. Aquellos distintos al numerario serán enajenados conforme al procedimiento previsto por esta Ley.
+Los bienes abandonados y los decomisados, sus frutos y productos, así como los derivados de su enajenación, serán considerados Aprovechamientos. Aquellos distintos al numerario serán enajenados y al producto de su enajenación le serán descontados los Costos de Administración y, en su caso, la reparación del daño y las multas impuestas por la autoridad competente.
+
+El remanente será destinado por la UNDECAR, previa opinión favorable de la Comisión Intersecretarial de Gasto-Financiamiento del Estado de Campeche, a programas, acciones, proyectos y servicios en materias de salud, educación, bienestar, atención a víctimas, defensoría pública, asistencia jurídica gratuita e impartición de justicia, así como a políticas públicas de desarrollo social, combate a la corrupción, protección de derechos humanos y para prevenir y erradicar las violencias contra la mujer, además de la mejora de los entornos de atención ciudadana, para ampliar y mejorar la prestación de servicios públicos en beneficio de las y los habitantes del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 42.
 
-Cuando provengan de procedimientos penales, los Aprovechamientos a que se refiere el artículo anterior, una vez descontados el pago de la reparación de daños y perjuicios, la multa en los casos que proceda, los Costos de Administración de la UNDECAR, serán entregados a las instituciones y autoridades correspondientes, según provengan de bienes abandonados o decomisados, conforme lo señalan los artículos 231 y 250 del Código Nacional, respectivamente.
+Cuando provengan de procedimientos penales, los Aprovechamientos a que se refiere el artículo anterior, serán entregados a las instituciones y autoridades correspondientes, según provengan de bienes abandonados o decomisados, conforme lo señalan los artículos 231 y 250 del Código Nacional, respectivamente.
 
-Una vez que sea notificada una declaratoria de abandono a la UNDECAR por la autoridad jurisdiccional competente, respecto de bienes que aquél tenga bajo su administración, procederá a la enajenación y liquidación que señala el artículo 231 del Código Nacional.
+Cuando haya causado ejecutoria la resolución en la que se declare el abandono o por el que se condene al decomiso de bienes, la Autoridad Jurisdiccional, sin que medie petición de parte y sin demora alguna, deberá notificar a la UNDECAR remitiendo copia certificada de dicha determinación para los registros que correspondan.
 
-Una vez enajenado y liquidado el bien abandonado de que se trate y hechas las deducciones procedentes a que se refiere el párrafo anterior, el remanente lo tendrá a su disposición la UNDECAR, con refrendo de la persona titular de la SAFIN; para destinarlo a los programas sociales prioritarios en el Estado, los cuales únicamente podrán ser en materias de salud, educación, bienestar, de atención a víctimas, de políticas públicas de desarrollo social, combate a la corrupción, de protección de derechos humanos, así como destinados a prevenir y erradicar la violencia contra las (sic) mujer.
+El Ente Responsable, una vez que tenga conocimiento que ha causado ejecutoria la resolución respectiva, sin demora alguna, solicitará la transferencia de dichos bienes a la UNDECAR, conforme a lo previsto en esta Ley, su Reglamento y demás normatividad que expida la persona titular de la SAFIN.
 
-En lo relativo a bienes a disposición de la UNDECAR respecto de los cuales se haya decretado el decomiso mediante sentencia firme de la autoridad judicial, una vez que sea notificado, se procederá a su enajenación y liquidación aplicando igualmente, en su caso, las reglas y procedimientos señalados en esta Ley y su reglamento. Hechas las deducciones pertinentes y satisfecha, en su caso, la reparación a la víctima en términos de la resolución judicial correspondiente, el remanente será destinado a los programas sociales prioritarios en el Estado, los cuales únicamente podrán ser en materias de salud, educación, bienestar, de atención a víctimas, de políticas públicas de desarrollo social, combate a la corrupción, de protección de derechos humanos, así como destinados a prevenir y erradicar la violencia contra la mujer.
+Tratándose de bienes abandonados, la UNDECAR procederá a su enajenación y liquidación, efectuando las deducciones correspondientes, y el remanente se destinará conforme a lo señalado en el artículo 41 de la presente Ley.
+
+Por cuanto hace a los bienes decomisados, la UNDECAR llevará a cabo su enajenación, realizando las deducciones pertinentes y, en su caso, cubriendo previamente la reparación del daño a la víctima conforme a la resolución judicial correspondiente. El remanente será destinado conforme a lo señalado en el artículo 41 de esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 43.
 
-Cuando los aprovechamientos se deriven de bienes abandonados o decomisados en el transcurso de procedimientos administrativos, la UNDECAR con el refrendo de la persona titular de la SAFIN; los destinará a los programas sociales prioritarios de la Administración Pública Estatal, los cuales podrán ser en materias de salud, educación, bienestar y de atención a víctimas, entre otros.
+Cuando los aprovechamientos se deriven de bienes abandonados o decomisados en el transcurso de procedimientos administrativos, la UNDECAR realizará las deducciones pertinentes y el remanente lo destinará conforme a lo señalado en el artículo 41 de la presente Ley.
 
 ###### Artículo 44.
 
@@ -453,11 +587,25 @@ La SAFIN a través de la UNDECAR establecerá la coordinación necesaria con las
 
 Cuando algún bien sea declarado extinto de conformidad con la Ley Nacional de Extinción de Dominio y la sentencia haya quedado firme, se procederá a la enajenación del o los bienes correspondientes, de los cuales el producto de dicha enajenación se considerará un Aprovechamiento.
 
-Una vez realizado lo anterior, la UNDECAR, con el refrendo de la persona titular de la SAFIN, destinará el producto de dicha enajenación a los programas sociales prioritarios de la Administración Pública Estatal, los cuales únicamente podrán ser en materias de salud, educación, bienestar, de atención a víctimas, de políticas públicas de desarrollo social, combate a la corrupción, de protección de derechos humanos, así como destinados a prevenir y erradicar la violencia contra la mujer.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
+Realizado lo anterior y efectuadas las deducciones pertinentes, la UNDECAR, previa opinión favorable de la Comisión Intersecretarial de Gasto-Financiamiento del Estado de Campeche, destinará el remanente del producto de la enajenación a programas, acciones, proyectos y servicios en materias de salud, educación, bienestar, atención a víctimas, defensoría pública, asistencia jurídica gratuita e impartición de justicia, así como a políticas públicas de desarrollo social, combate a la corrupción, protección de derechos humanos y para prevenir y erradicar las violencias contra la mujer, además de la mejora de los entornos de atención ciudadana, para ampliar y mejorar la prestación de servicios públicos en beneficio de las y los habitantes del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 46.
 
-Los ingresos derivados de las sanciones económicas impuestas por Faltas Administrativas Graves por parte del Tribunal de Justicia Administrativa del Estado, de conformidad con la Ley General de Responsabilidades Administrativas, se destinarán a los programas sociales prioritarios en el Estado, los cuales únicamente podrán ser en materias de salud, educación, bienestar, de atención a víctimas, de políticas públicas de desarrollo social, combate a la corrupción, de protección de derechos humanos, así como destinados a prevenir y erradicar la violencia contra la mujer.
+Los ingresos derivados de las sanciones económicas impuestas por Faltas Administrativas Graves por parte del Tribunal de Justicia Administrativa del Estado, de conformidad con la Ley General de Responsabilidades Administrativas, serán destinados por la UNDECAR, previa opinión favorable de la Comisión Intersecretarial de Gasto-Financiamiento del Estado de Campeche, a programas, acciones, proyectos y servicios en materias de salud, educación, bienestar, atención a víctimas, defensoría pública, asistencia jurídica gratuita e impartición de justicia, así como a políticas públicas de desarrollo social, combate a la corrupción, protección de derechos humanos y para prevenir y erradicar las violencias contra la mujer, además de la mejora de los entornos de atención ciudadana, para ampliar y mejorar la prestación de servicios públicos en beneficio de las y los habitantes del Estado.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2026)</small>
+
+#### SECCIÓN TERCERA. DE LAS CUENTAS
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2026)</small>
+
+###### Artículo 46 Bis.
+
+Los recursos a los que se refiere este Capítulo deberán ser depositados en la institución bancaria que determine la SAFIN, en cuentas, productos o servicios de inversión que generen intereses mayores a los depositados a la vista y que permitan garantizar, en todo momento, el control, identificación, trazabilidad y transparencia de los recursos, conforme a su origen y destino, sin imponer esquemas financieros rígidos que limiten su adecuada administración, de conformidad con lo dispuesto en la presente Ley y demás disposiciones legales y reglamentarias que, en su caso, resultaren aplicables.
 
 ### CAPÍTULO DÉCIMO PRIMERO. DEL PROCEDIMIENTO DE ENAJENACIÓN
 
@@ -585,25 +733,41 @@ Durante dicho plazo, el comprobante de pago, así como el instrumento en el que 
 
 La UNDECAR deberá establecer en el reglamento de la Ley los procedimientos que se deban seguir para la enajenación de Bienes, respetando en todo momento la legislación aplicable y las facultades y competencias de los distintos órdenes de gobierno.
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LA DONACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JULIO DE 2026)</small>
+
+### CAPÍTULO DÉCIMO SEGUNDO. DE LA ASIGNACIÓN Y LA DONACIÓN
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 64.
 
-En casos excepcionales, de conformidad con lo que establezca, para tal efecto, el reglamento de la Ley y las disposiciones aplicables, y previo cumplimiento de los requisitos que, en su caso, prevean las mismas, tales como los relativos al monto, plazo o tipo de bienes, los bienes abandonados, decomisados provenientes de procedimientos administrativos y jurisdiccionales que hayan quedado firmes, a excepción de aquellos bienes que deban conservarse por determinación judicial, podrán ser donados, según corresponda, a favor de los Entes Responsables en materias de salud, educación, de bienestar, de atención a víctimas, entre otros, que los requieran para el desarrollo de sus actividades.
+Los bienes abandonados, decomisados o extintos provenientes de procedimientos administrativos y jurisdiccionales que hayan quedado firmes, a excepción de aquellos bienes que deban conservarse por determinación judicial, podrán ser asignados o donados, según corresponda, a Secretarías, Dependencias, Entidades u Órganos de los Poderes Ejecutivo, Legislativo y Judicial, de la Federación o del Estado así como de sus Municipios que los requieran para el desarrollo de sus actividades o programas en las materias que mencionan los artículos 41 y 45 de esta Ley, el Reglamento de la Ley, las disposiciones aplicables, y previo cumplimiento de los requisitos que, en su caso, prevean las mismas.
+
+En los contratos de donación que celebre el Estado, se estipulará cláusula de rescisión en caso de incumplimiento por causas imputables al donatario a las obligaciones pactadas o a los fines previstos, revirtiéndose la donación de los bienes, así como las mejoras hechas por el donatario, a favor del Estado. Será imprescriptible el ejercicio de la acción rescisoria por parte del Estado.
+
+En el propio contrato se establecerá el tiempo máximo dentro del cual deberá iniciarse la utilización del bien, en caso de omisión se entenderá que el plazo será de un año contado a partir de la fecha de la suscripción del contrato.
+
+Por lo que corresponde a los bienes asignados, en el acuerdo relativo se establecerá que, en caso de incumplimiento por causas imputables a las Secretarías, Dependencias, Entidades u Órganos de los Poderes Ejecutivo, Legislativo y Judicial, de la Federación, del Estado, así como de sus Municipios a las obligaciones pactadas o a los fines para los que les fue asignado el bien, éste quedará a disposición de la UNDECAR en un plazo de treinta días naturales contados a partir de la fecha de la notificación de la terminación de la asignación, por lo que la UNDECAR podrá proceder a su enajenación.
 
 ### CAPÍTULO DÉCIMO TERCERO. DE LA LICITACIÓN
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 65.
 
-La licitación pública se realizará a través de convocatoria en la que se establecerá el precio o precios y la forma de pago de las bases, mismo que será fijado en atención a la recuperación de las erogaciones por publicación de la convocatoria y por los documentos que al efecto se entreguen, así como de las circunstancias del procedimiento y bien o bienes a licitar. Los interesados podrán revisar las bases, en su caso, previo pago de las mismas.
+La licitación pública se realizará a través de convocatoria en la que se establecerá el precio o precios y la forma de pago de las bases, mismo que será fijado en atención a la recuperación de las erogaciones por publicación de la convocatoria y por los documentos que al efecto se entreguen, así como de las circunstancias del procedimiento y bien o bienes a licitar. Las personas interesadas podrán revisar las bases, en su caso, previo pago de las mismas.
 
-La publicación de un extracto de la convocatoria, así como sus modificaciones, podrán hacerse en el Periódico Oficial del Estado, en un diario de circulación estatal y deberá divulgarse, íntegramente, a través de páginas oficiales, redes sociales y cualquier otro medio electrónico, óptico o de cualquier otra tecnología de la información y de la comunicación, que permitan la difusión de la oferta.
+La convocatoria y sus modificaciones se publicarán íntegramente en la página web oficial de la UNDECAR. Simultáneamente podrá publicarse un extracto de la convocatoria, indistintamente, en el Periódico Oficial del Estado, en un diario de circulación estatal, en páginas de internet oficiales, redes sociales o cualquier otro medio electrónico, óptico o de cualquier otra tecnología de la información y de la comunicación, que permita la difusión de la oferta.
+
+Las modificaciones a la convocatoria podrán realizarse en atención a las características, condiciones o necesidades específicas del bien objeto del procedimiento, o bien con la finalidad de propiciar una mayor participación de las personas interesadas, fomentar la competencia y asegurar una adecuada difusión de la licitación. En todos los casos, dichas modificaciones deberán publicarse por los mismos medios utilizados para la convocatoria original, garantizando su máxima publicidad, y deberán hacerse del conocimiento público con una anticipación mínima de seis días hábiles previos a la fecha señalada para la apertura de la licitación.
 
 ###### Artículo 66.
 
 En las convocatorias deberá incluirse cuando menos:
 
-I. El nombre, denominación o razón social de la Entidad Transferente;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+I. El nombre, denominación o razón social del Ente Responsable;
 
 II. La descripción; condición física y ubicación de los Bienes. En caso de bienes muebles, adicionalmente, se señalarán sus características, cantidad y unidad de medida; y tratándose de bienes inmuebles, la superficie total, linderos y colindancias, mismos que podrán difundir entre los interesados mediante el uso de las tecnologías de la información;
 
@@ -617,7 +781,9 @@ VI. Lugar, fecha y hora en que los interesados podrán obtener las bases de lici
 
 VII. Fecha límite para que los interesados se inscriban a la licitación;
 
-VIII. Forma y monto de la garantía de seriedad de ofertas y de cumplimiento de las obligaciones que se deriven de los contratos de compraventa que, en su caso, deberán otorgar los interesados, de conformidad con los lineamientos que para tal efecto sean emitidos;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+VIII. Forma y monto de la garantía de seriedad de ofertas y de cumplimiento de las obligaciones que se deriven de los contratos de compraventa que, en su caso, deberán otorgar las personas interesadas, de conformidad con lo dispuesto en el Reglamento de la Ley;
 
 IX. La existencia, en su caso, de gravámenes, limitaciones de dominio, o cualquier otra carga que recaiga sobre los bienes;
 
@@ -643,41 +809,37 @@ III. Que las ofertas de compra que se presenten no sean aceptables.
 
 Se considera que las ofertas de compra no son aceptables cuando no cubran el precio base de venta del bien o no cumplan con la totalidad de los requisitos establecidos en la convocatoria y en las bases.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 68.
 
-Las bases estarán a disposición de los interesados a partir de la fecha de publicación de la convocatoria y hasta antes del acto de presentación de ofertas de compra y contendrán lo siguiente:
+Las bases estarán a disposición de las personas interesadas a partir de la fecha de publicación de la convocatoria y hasta antes del acto de presentación de ofertas de compra y contendrán lo siguiente:
 
-I. La referencia exacta de la convocatoria a la cual corresponden las mismas;
+I. La referencia exacta de la convocatoria a la cual correspondan las mismas;
 
-II. La descripción, condición física y ubicación de los bienes, así como el lugar, fecha, horarios y condiciones requeridas para mostrar fotografías, catálogos, planos o para que los interesados tengan acceso a los sitios en que se encuentren los bienes para su inspección física, cuando proceda;
+II. La descripción, condición física y ubicación de los bienes, así como las indicaciones para que las personas interesadas tengan acceso a los sitios en que se encuentren para su inspección física, cuando proceda;
 
-III. Lugar, fecha, horarios y condiciones requeridas para mostrar fotografías, catálogos, planos para que los interesados tengan acceso a los sitios en que se encuentren los bienes para inspección física, cuando proceda;
+III. Lugar, fecha, horarios y condiciones requeridas para mostrar fotografías, catálogos y planos de los bienes, cuando proceda;
 
-IV. Forma y monto de la garantía de seriedad de ofertas y de cumplimiento de las obligaciones que se deriven de los contratos de compraventa que, en su caso, deberán otorgar los interesados, de conformidad con lo dispuesto en el reglamento de la Ley;
+IV. Forma y monto de la garantía de seriedad de ofertas y de cumplimiento de las obligaciones que se deriven de los contratos de compraventa que, en su caso, deberán otorgar las personas interesadas, de conformidad con lo dispuesto en el Reglamento de la Ley;
 
-V. Los criterios para la evaluación de las ofertas de compra y para la adjudicación;
+V. Los criterios para la evaluación de las ofertas de compra y para la adjudicación del contrato;
 
-VI. Los documentos por los cuales el interesado acreditará su personalidad jurídica;
+VI. Los documentos por los cuales la persona interesada acreditará su personalidad jurídica;
 
-VII. Instrucciones para elaborar y entregar o presentar ofertas de compra, haciendo mención de que dichas ofertas deberán ser en firme;
+VII. Instrucciones para elaborar y presentar ofertas de compra, haciendo mención de que dichas ofertas deberán ser en firme;
 
-VIII. Lugar, fecha y hora en que los interesados podrán obtener las bases de licitación, y en su caso, el costo y forma de pago de las mismas;
+VIII. La forma y términos para la formalización de la operación y entrega física del bien. En el caso de bienes inmuebles, los gastos, incluyendo los de escrituración, serán por cuenta del adquirente. Tratándose de contribuciones, éstas se entenderán por cada una de las partes que las causen en términos de la legislación correspondiente;
 
-IX. Los criterios claros y detallados para la adjudicación del bien;
+IX. El señalamiento de las causas de descalificación de la licitación; y
 
-X. Forma y términos para la formalización de la operación y entrega física del bien. En el caso de bienes inmuebles, los gastos, incluyendo los de escrituración, serán por cuenta del adquirente. Tratándose de contribuciones, éstas se entenderán por cada una de las partes que las causen;
+X. Cualquier otra que de acuerdo a la naturaleza de los bienes o su condición de venta señale el Reglamento de la Ley.
 
-XI. El señalamiento de las causas de descalificación de la licitación;
-
-XII. Criterios para la evaluación de las ofertas de compra y para la adjudicación;
-
-XIII. Forma y monto de la garantía de seriedad de ofertas y de cumplimiento de las obligaciones que se deriven de los contratos de compraventa que, en su caso, deberán otorgar los interesados; y
-
-XIV. Cualquier otra que de acuerdo a la naturaleza de los bienes o su condición de venta señale el reglamento de la Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO , P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 69.
 
-El plazo para la presentación de las ofertas de compra no podrá ser mayor a diez días hábiles contados a partir de la fecha de publicación de la convocatoria de la licitación, salvo que, por la naturaleza de los bienes, la UNDECAR considere conveniente establecer un plazo mayor.
+El plazo para la presentación de las ofertas de compra no podrá ser menor a diez días hábiles ni mayor a treinta días hábiles contados a partir de la fecha de publicación de la convocatoria de la licitación.
 
 La UNDECAR retendrá las garantías que se hubieren presentado, de conformidad con las disposiciones establecidas por esta Ley y su reglamento y demás disposiciones aplicables, hasta que se emita el fallo. A partir de esa fecha procederá a la devolución de las garantías a cada uno de los interesados, salvo la de aquél a quien hubiere adjudicado el bien, misma que se retendrá como garantía de cumplimiento de la obligación que podrá aplicarse como parte del precio de venta.
 
@@ -711,21 +873,31 @@ El atraso de la UNDECAR en la formalización de la operación de compraventa, pr
 
 ### CAPÍTULO DÉCIMO CUARTO. DE LA SUBASTA
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 73.
 
-La UNDECAR llevará a cabo el procedimiento de subasta pública, electrónica o presencial, el cual deberá efectuarse dentro de los diez días hábiles siguientes a la publicación de la convocatoria.
+La UNDECAR llevará a cabo el procedimiento de subasta pública, electrónica o presencial, el cual deberá efectuarse al menos en los diez días hábiles siguientes a la publicación de la convocatoria, salvo que la UNDECAR considere conveniente, bajo causa justificada, un plazo mayor, mismo que no podrá exceder de treinta días hábiles.
+
+En las bases de la subasta se establecerá su tipo, las instrucciones para presentar ofertas de compra, así como la documentación y requisitos necesarios que la UNDECAR podrá exigir a los postores que hayan de participar en la subasta, a fin de garantizar el cumplimiento de sus ofertas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2026)</small>
 
 ###### Artículo 74.
 
-El procedimiento se desarrollará en los siguientes términos:
+El procedimiento de subasta electrónica se desarrollará en los siguientes términos:
 
 I. La UNDECAR deberá mostrar a través de medios electrónicos el bien objeto de la subasta debiendo proporcionar una descripción del mismo;
 
-II. La UNDECAR establecerá un período de al menos 24 horas para que los postores realicen sus ofertas a través de los medios electrónicos y de acuerdo con el formato que para tal efecto determine la UNDECAR;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+II. La UNDECAR establecerá un periodo de, por lo menos, doscientas cuarenta horas para que los postores realicen sus ofertas a través de los medios electrónicos, de acuerdo con el formato que para tal efecto determine la UNDECAR;
 
 III. Los interesados podrán mejorar sus ofertas durante la celebración de la subasta, para lo cual deberán manifestarlo en forma escrita a través de los medios electrónicos autentificados mediante controles de seguridad; y
 
-IV. Transcurrido el período que la UNDECAR determine para la realización de la subasta, el bien se adjudicará a la oferta que signifique las mejores condiciones de precio y oportunidad, atendiendo al tipo de subasta que se haya seguido.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+IV. Transcurrido el período que la UNDECAR determine para la realización de la subasta, el bien se adjudicará a la oferta que signifique las mejores condiciones de precio y oportunidad.
 
 En las bases de la subasta se establecerá su tipo, las instrucciones para presentar ofertas de compra, así como la documentación y requisitos necesarios que la UNDECAR podrá exigir a los postores que hayan de participar en la subasta, a fin de garantizar el cumplimiento de sus ofertas.
 
@@ -765,9 +937,11 @@ I. Bienes que por su estado de conservación no se les pueda dar otro destino, a
 
 II. Todos aquellos bienes que los Entes Responsables o la UNDECAR consideren para su destrucción.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 79.
 
-De manera general, para la destrucción de los Bienes se estará a lo dispuesto en las leyes nacionales, generales y estatales que apliquen de conformidad con cada tipo de Bien. Además, se deberán establecer en el reglamento de la Ley los procedimientos que se deban seguir para la destrucción de los mismos, respetando en todo momento la legislación aplicable y las facultades y competencias de los distintos órdenes de gobierno.
+De manera general, para la destrucción de los Bienes se estará a lo dispuesto en las leyes nacionales, generales y estatales que apliquen de conformidad con cada tipo de Bien. Además, se deberán establecer en el Reglamento de la Ley, los criterios y demás especificidades necesarias para la destrucción de los mismos, respetando en todo momento la legislación aplicable y las facultades y competencias de los distintos órdenes de gobierno.
 
 ###### Artículo 80.
 
@@ -777,9 +951,13 @@ I. Oficio de la autoridad facultada para autorizar la destrucción de los bienes
 
 II. Oficio de autorización de la o el Titular de la UNDECAR;
 
-III. Notificación al Ente Transferente;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
 
-IV. Acta de la destrucción del bien, que deberán suscribir los servidores públicos facultados de la UNDECAR, así como otras autoridades que deban participar y un representante del órgano interno de control de la Secretaría de Administración y Finanzas del Estado, quien, en ejercicio de sus atribuciones, se cerciorará de que se observen estrictamente las disposiciones legales aplicables al caso; y
+III. La notificación al Ente Responsable;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2026)</small>
+
+IV. El acta de la destrucción del bien, que deberán suscribir las y los servidores públicos facultados de la UNDECAR, así como otras autoridades que deban participar y un representante del órgano interno de control de la SAFIN, quien, en ejercicio de sus atribuciones, se cerciorará de que se observen estrictamente las disposiciones legales aplicables al caso; y
 
 V. Las demás que establezca el reglamento de esta Ley.
 
@@ -795,9 +973,11 @@ En caso de que del producto de la destrucción se obtengan recursos a favor, la 
 
 ### CAPÍTULO DÉCIMO SÉPTIMO. DE LOS RECURSOS
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
 ###### Artículo 83.
 
-Contra los actos emitidos por la UNDECAR previstos en esta ley, se podrá interponer el recurso de revisión previsto en la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche.
+Contra los actos del Ente Responsable o la UNDECAR previstos en esta Ley, se podrá interponer el recurso de revisión conforme a la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche.
 
 ## TRANSITORIOS
 
@@ -828,3 +1008,17 @@ Que la LXV Legislatura del H. Congreso del Estado Libre y Soberano de Campeche m
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los dieciocho días del mes de octubre del año dos mil veinticuatro.
 
 LA GOBERNADORA DEL ESTADO DE CAMPECHE, LICDA. LAYDA ELENA SANSORES SAN ROMÁN. RÚBRICA.- EL SECRETARIO DE GOBIERNO, ING. ARMANDO CONSTANTINO TOLEDO JAMIT.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO".]</small>
+
+P.O. 29 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 261 POR EL QUE SE "REFORMAN LOS ARTÍCULOS 1, PÁRRAFO SEGUNDO; 2 EN SUS FRACCIONES II, VII, IX, X, XI, XVII, XVIII Y XX; 4, PÁRRAFO PRIMERO Y SUS FRACCIONES II, III, IV, V, VI, XII, XVII, XVIII; 5, PÁRRAFO PRIMERO; 6, PÁRRAFOS PRIMERO Y TERCERO; 7, PÁRRAFO SEGUNDO; 8; 9; 10; 12; 13, PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO; 14 PÁRRAFO PRIMERO;16; 17, PÁRRAFOS PRIMERO Y TERCERO; 19; 20 Y 21, PÁRRAFO PRIMERO; LA DENOMINACIÓN DEL CAPÍTULO QUINTO PARA QUEDAR COMO "DE LOS BIENES ASEGURADOS POR AUTORIDADES ADMINISTRATIVAS"; LOS ARTÍCULOS 24; 25; 26; 27; 28; 30; 31; 32; 33, PÁRRAFO PRIMERO Y SU FRACCIÓN II Y, PÁRRAFO SEGUNDO; 34, PÁRRAFO TERCERO; 35; 36, PÁRRAFO SEGUNDO; 37; 38; 39; 40; 41; 42; 43; 45, PÁRRAFO SEGUNDO; 46; LA DENOMINACIÓN DEL CAPÍTULO DÉCIMO SEGUNDO PARA QUEDAR COMO "DE LA ASIGNACIÓN Y LA DONACIÓN"; LOS ARTÍCULOS 64; 65; 66 EN SUS FRACCIONES I Y VIII; 68; 69, PÁRRAFO PRIMERO; 73; 74, PÁRRAFO PRIMERO Y SUS FRACCIONES II Y IV; 79; 80 EN SUS FRACCIONES III Y IV Y 83; Y SE ADICIONAN EL ARTÍCULO 3 BIS; LA FRACCIÓN XIX AL ARTÍCULO 4; UN PÁRRAFO TERCERO AL ARTÍCULO 7; UNA SECCIÓN TERCERA DENOMINADA "DE LAS CUENTAS" AL CAPÍTULO DÉCIMO "DEL DESTINO DE LOS BIENES", ASÍ COMO EL ARTÍCULO 46 BIS TODOS DE LA LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS Y DESTINO DE BIENES DECLARADOS EXTINTOS Y DE SANCIONES ECONÓMICAS POR HECHOS DE CORRUPCIÓN PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los recursos económicos que hubieren sido recibidos por la UNDECAR, con anterioridad a la entrada en vigor del presente Decreto; podrán ser destinados a programas, acciones, proyectos y servicios en materias de salud, educación, bienestar, atención a víctimas, defensoría pública, asistencia jurídica gratuita e impartición de justicia, así como a políticas públicas de desarrollo social, combate a la corrupción, protección de derechos humanos y para prevenir y erradicar las violencias contra la mujer. Además, podrán utilizarse para la mejora de los entornos de atención ciudadana, para ampliar y mejorar la prestación de servicios públicos en beneficio de las y los habitantes del Estado, sin que la fecha de su recepción constituya limitación alguna.
+
+TERCERO.- El Ejecutivo del Estado contará con un plazo de ciento ochenta días naturales para expedir el Reglamento de la Ley, posterior a la entrada en vigor del presente Decreto. Por su parte, el Ejecutivo del Estado, a través de la Secretaría de Administración, Finanzas y Planeación, deberá emitir en el mismo plazo los lineamientos a los que hace referencia esta Ley.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
