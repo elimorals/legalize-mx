@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2026-07-20"
+last_updated: "2026-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -545,9 +545,9 @@ d. El Estado, a través de la Unidad para Devolver a Campeche lo Robado;
 
 III. El Estado, cuando se trate de delitos cometidos en su contra.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
-La reparación del daño que derive de hechos de corrupción deberá ser enterada y administrada por el Estado a través de la Unidad para Devolver a Campeche lo Robado, debiéndose destinar a los programas sociales prioritarios de la Administración Pública Estatal, en materias de salud, educación, bienestar, de atención a víctimas, así como en políticas públicas de desarrollo social, combate a la corrupción y de protección de derechos humanos. Lo anterior en beneficio de los habitantes de los Municipios donde se haya cometido el hecho de corrupción.
+La reparación del daño que derive de hechos de corrupción deberá ser enterada y administrada por el Estado a través de la Unidad para Devolver a Campeche lo Robado, debiéndose destinar previa opinión favorable de la Comisión Intersecretarial de Gasto-Financiamiento del Estado de Campeche a programas, acciones, proyectos y servicios en materias de salud, educación, bienestar, atención a víctimas, defensoría pública, asistencia jurídica gratuita e impartición de justicia, así como a políticas públicas de desarrollo social, combate a la corrupción, protección de derechos humanos y para prevenir y erradicar las violencias contra la mujer, además de la mejora de los entornos de atención ciudadana, para ampliar y mejorar la prestación de servicios públicos en beneficio de las y los habitantes del Estado.
 
 ###### Artículo 41.
 
@@ -603,9 +603,13 @@ La obligación de pagar la reparación del daño es preferente con respecto a cu
 
 Si no se logra hacer efectivo todo el importe de las sanciones pecuniarias, se cubrirá de preferencia la reparación del daño a favor de la víctima y, en su caso, a prorrata entre los ofendidos.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
 
-Si la víctima o el ofendido renunciaren a la reparación, o no la hicieren efectiva en un plazo de tres meses contados a partir del día siguiente de que cause ejecutoria la sentencia que otorgue dicha reparación, o no se encuentren identificados, el importe de ésta se aplicará al Estado a través de la Unidad para Devolver a Campeche lo Robado.
+Si la víctima o el ofendido renunciaren a la reparación, o no la hicieren efectiva en un plazo de tres meses contados a partir del día siguiente de que cause ejecutoria la sentencia que otorgue dicha reparación, o no se encuentren identificados, el importe de ésta se aplicará al Estado a través de la Unidad para Devolver a Campeche lo Robado, debiéndose destinar, previa opinión favorable de la Comisión Intersecretarial de Gasto-Financiamiento del Estado de Campeche, a programas, acciones, proyectos y servicios en materias de salud, educación, bienestar, atención a víctimas, defensoría pública, asistencia jurídica gratuita e impartición de justicia, así como a políticas públicas de desarrollo social, combate a la corrupción, protección de derechos humanos y para prevenir y erradicar las violencias contra la mujer, además de la mejora de los entornos de atención ciudadana, para ampliar y mejorar la prestación de servicios públicos en beneficio de las y los habitantes del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2026)</small>
+
+Para efectos de lo dispuesto en el presente artículo, también se considerará que la víctima u ofendido no se encuentra identificado cuando el delito afecte bienes jurídicos colectivos, difusos o supraindividuales tutelados por la ley penal y no exista persona física o moral determinada que pueda recibir directamente la reparación del daño.
 
 Los depósitos que garanticen la reparación del daño cuando se dé la garantía económica, se aplicarán como pago de aquélla y serán entregados a la víctima o al ofendido o a su legítimo representante, cuando el imputado se hubiese sustraído a la acción de la justicia.
 
@@ -705,17 +709,21 @@ Se aplicarán las reglas de la suspensión de derechos a la sanción de suspensi
 
 El decomiso es la aplicación a favor del Estado, por resolución judicial, de los instrumentos, objetos o productos del delito, en los términos establecidos en el presente Código. Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso lícito se decomisarán al imputado cuando fuere condenado por delito intencional. Si pertenecen a un tercero, sólo se decomisarán cuando el tercero que los tenga en su poder o los haya adquirido bajo cualquier título, haya actuado de mala fe, independientemente de la naturaleza jurídica de dicho tercero como propietario o poseedor y de la relación que, en su caso, tenga con el delincuente.
 
-Si los instrumentos o cosas decomisadas son nocivos o peligrosos, se destruirán a juicio de la autoridad jurisdiccional competente, en los términos previstos por el Código Nacional de Procedimientos Penales y demás disposiciones legales aplicables en la materia, pero si lo estimare conveniente, podrá determinar su conservación para fines de docencia o investigación. Respecto de los instrumentos del delito o cosas que sean objeto o producto de él, la autoridad jurisdiccional competente dictará las medidas pertinentes para su conservación, según su utilidad, para beneficio del Instituto de Acceso a la Justicia del Estado de Campeche.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
+Si los instrumentos o cosas decomisadas son nocivos o peligrosos, se destruirán a juicio de la autoridad jurisdiccional competente, en los términos previstos por el Código Nacional de Procedimientos Penales y demás disposiciones legales aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2026)</small>
+
+Cuando haya causado ejecutoria la sentencia que condene el decomiso de los instrumentos, objetos o productos del delito, la autoridad jurisdiccional, sin que medie petición de parte y sin demora alguna, ordenará a la autoridad que los tenga en administración, realice la transferencia a la Unidad para Devolver a Campeche lo Robado; la que deberá realizarse conforme a lo disponga la Ley para la Administración y Destino de Bienes Asegurados, Abandonados o Decomisados y Destino de Bienes Declarados Extintos y de Sanciones Económicas por Hechos de Corrupción para el Estado de Campeche y demás disposiciones aplicables.
 
 ###### Artículo 62.
 
-Los objetos de uso lícito o valores que se encuentren a disposición de las autoridades investigadoras, que no hayan sido decomisados y que no sean reclamados por quien tenga derecho a ello en un lapso de noventa días naturales, contados a partir de la notificación al interesado, se enajenarán en subasta pública y el producto de la venta se aplicará a quien tenga derecho a recibirlo, lo que se le hará saber mediante la notificación correspondiente. Si no se presenta dentro de los noventa días siguientes a la fecha de esta notificación, el producto de la venta se destinará al Instituto de Acceso a la Justicia del Estado de Campeche, previas las deducciones de los gastos ocasionados.
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+(DEROGADO, P.O. 29 DE JULIO DE 2026)
 
 ###### Artículo 63.
 
-En el caso de bienes que se encuentren a disposición de la autoridad jurisdiccional competente, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de noventa días a partir de la notificación que se le haga, transcurrido el cual, si no hubiese sido reclamado, se destinará al Instituto de Acceso a la Justicia del Estado de Campeche.
+(DEROGADO, P.O. 29 DE JULIO DE 2026)
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
@@ -3643,7 +3651,9 @@ I. Si el miembro de la asociación delictuosa es o ha sido servidor público de 
 
 II. Cuando la asociación o alguno de sus miembros, utilice a menores de edad o incapaces para delinquir.
 
-En todos los casos de este Capítulo, se aplicará el decomiso, en beneficio del Instituto de Acceso a la Justicia del Estado de Campeche, de aquellos bienes cuya procedencia lícita no se logre acreditar de acuerdo con lo dispuesto en la legislación correspondiente.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
+En todos los casos de este Capítulo, se aplicará el decomiso en los términos previstos en el Código Nacional de Procedimientos Penales y en la Ley para la Administración y Destino de Bienes Asegurados, Abandonados o Decomisados y Destino de Bienes Declarados Extintos y de Sanciones Económicas por Hechos de Corrupción para el Estado de Campeche y demás disposiciones aplicables.
 
 ### CAPÍTULO III. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
@@ -4055,7 +4065,9 @@ I. Cuando el monto al que ascienda el enriquecimiento ilícito no exceda del equ
 
 II. Cuando el monto al que ascienda el enriquecimiento ilícito exceda del equivalente a quinientas mil Unidades Diarias de Medida y Actualización, con prisión de dos a diez años y multa de mil a dos mil Unidades Diarias de Medida y Actualización.
 
-En ambos casos, en términos del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos, además de las sanciones señaladas, se decretará el decomiso y la privación de la propiedad de los bienes mal habidos, los que se destinarán al Instituto de Acceso a la Justicia del Estado.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2026)</small>
+
+En ambos casos, en términos del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos, además de las sanciones señaladas, se decretará el decomiso y la privación de la propiedad de los bienes mal habidos, los cuales se destinarán de acuerdo a lo establecido en el Código Nacional de Procedimientos Penales y la Ley para la Administración y Destino de Bienes Asegurados, Abandonados o Decomisados y Destino de Bienes Declarados Extintos y de Sanciones Económicas por Hechos de Corrupción para el Estado de Campeche y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
@@ -5784,3 +5796,15 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
+
+P.O. 29 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 261 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 40, PÁRRAFO SEGUNDO; 46, PÁRRAFO SEGUNDO; 61 PÁRRAFO SEGUNDO; 283, PÁRRAFO SEGUNDO; 301, PÁRRAFO SEGUNDO; SE ADICIONAN UN PÁRRAFO TERCERO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 46; UN PÁRRAFO TERCERO AL ARTÍCULO 61 Y SE DEROGAN LOS ARTÍCULOS 62 Y 63, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los recursos económicos que hubieren sido recibidos por la UNDECAR, con anterioridad a la entrada en vigor del presente Decreto; podrán ser destinados a programas, acciones, proyectos y servicios en materias de salud, educación, bienestar, atención a víctimas, defensoría pública, asistencia jurídica gratuita e impartición de justicia, así como a políticas públicas de desarrollo social, combate a la corrupción, protección de derechos humanos y para prevenir y erradicar las violencias contra la mujer. Además, podrán utilizarse para la mejora de los entornos de atención ciudadana, para ampliar y mejorar la prestación de servicios públicos en beneficio de las y los habitantes del Estado, sin que la fecha de su recepción constituya limitación alguna.
+
+TERCERO.- El Ejecutivo del Estado contará con un plazo de ciento ochenta días naturales para expedir el Reglamento de la Ley, posterior a la entrada en vigor del presente Decreto. Por su parte, el Ejecutivo del Estado, a través de la Secretaría de Administración, Finanzas y Planeación, deberá emitir en el mismo plazo los lineamientos a los que hace referencia esta Ley.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
