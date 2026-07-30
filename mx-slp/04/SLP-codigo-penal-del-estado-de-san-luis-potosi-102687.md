@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2026-06-24"
+last_updated: "2026-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2026.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2687,19 +2687,7 @@ III. Asuma, suplante, se apropie o utilice, a través de internet, cualquier sis
 
 Las penas previstas en el presente artículo se aumentarán hasta en la mitad, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito; así como en el supuesto en que el sujeto activo del delito tenga licenciatura, ingeniería, o cualquier otro grado académico en el rubro de informática, computación o telemática; asimismo, cuando sea servidor público o empleado en cualquier institución bancaria, financiera o crediticia.
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2025)</small>
-
-ARTÍCULO 187 TER. Uso no autorizado de imagen o voz generada mediante inteligencia artificial. Comete el delito quien, sin consentimiento previo, expreso, específico e informado de la persona a la que corresponda la imagen, la voz o la identidad digital, utilice sistemas de inteligencia artificial o programas automatizados para crear, reproducir, modificar, manipular o difundir contenidos que simulen la apariencia, la voz, los gestos o la identidad de una persona real.
-
-Se impondrá pena de uno a tres años de prisión y multa de cien a trescientas veces la Unidad de Medida y Actualización vigente en el Estado.
-
-La pena se aumentará hasta en una mitad cuando el contenido sea difundido, comercializado o empleado con fines de lucro o de causar daño al honor, a la reputación o a la vida privada de la persona.
-
-Para los efectos de este artículo, se entenderá por inteligencia artificial cualquier sistema, modelo computacional o algoritmo, incluidas las redes neuronales y las técnicas de aprendizaje automático o equivalentes, capaz de ejecutar, de manera autónoma o asistida, tareas que impliquen procesos de razonamiento, aprendizaje, percepción, interpretación o generación de información, imitando o sustituyendo funciones cognitivas humanas, y que permita producir, modificar, alterar o difundir contenidos digitales, tales como textos, imágenes, sonidos o videos, con apariencia verosímil o similar a la realidad.
-
-Las penas previstas en este artículo se aplicarán sin perjuicio de las que correspondan por otros delitos que resulten de la misma conducta, cuando afecten bienes jurídicos distintos.
-
-No constituye delito la creación o difusión de contenidos con fines periodísticos, académicos, artísticos, parodia o de crítica política, cuando de las circunstancias del hecho no se acredite el dolo con fines de causar daño al honor, a la reputación o a la vida privada de la persona.
+ARTÍCULO 187 TER. (DEROGADO, P.O. 30 DE JULIO DE 2026)
 
 ### CAPÍTULO VI
 
@@ -3945,33 +3933,13 @@ Comete el delito de terrorismo quien, utilizando explosivos, sustancias peligros
 
 Este delito se sancionará con una pena de cinco a veinte años de prisión y sanción pecuniaria de quinientos a dos mil días del valor de la unidad de medida y actualización.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE NOVIEMBRE DE 2025)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JULIO DE 2026)</small>
 
 ### CAPÍTULO V. Uso indebido de inteligencia artificial para provocar alarma social
 
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2025)</small>
+ARTÍCULO 272 TER (SIC). (DEROGADO, P.O. 30 DE JULIO DE 2026)
 
-ARTÍCULO 272 TER (SIC). Manipulación institucional mediante inteligencia artificial. Comete el delito quien, a sabiendas de su falsedad y con la finalidad directa de alterar la confianza pública en las instituciones o poner en riesgo verificable la seguridad del Estado, genere, modifique o difunda, mediante sistemas de inteligencia artificial, contenidos digitales que simulen de manera verosímil declaraciones, comunicados o actuaciones de autoridades, instituciones públicas o cuerpos de seguridad.
-
-Para los efectos de este artículo, se entenderá por inteligencia artificial cualquier sistema, modelo computacional o algoritmo, incluidas las redes neuronales y las técnicas de aprendizaje automático o equivalentes, capaz de ejecutar, de manera autónoma o asistida, tareas que impliquen procesos de razonamiento, aprendizaje, percepción, interpretación o generación de información, imitando o sustituyendo funciones cognitivas humanas, y que permita producir, modificar, alterar o difundir contenidos digitales, tales como textos, imágenes, sonidos o videos, con apariencia verosímil o similar a la realidad.
-
-Este delito se sancionará con pena de tres a seis años de prisión y multa de trescientas a seiscientas veces la Unidad de Medida y Actualización vigente en el Estado.
-
-Si la conducta se realiza durante procesos electorales, de seguridad pública o de justicia, o produce alteraciones efectivas del orden o daño a bienes públicos, la pena se aumentará hasta en una mitad.
-
-No constituye delito la generación o difusión de contenidos con fines periodísticos, académicos, artísticos, parodia o de crítica política, cuando de las circunstancias del hecho no se acredite el dolo de alterar la confianza pública en las instituciones o poner en riesgo verificable la seguridad del Estado
-
-> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2025)</small>
-
-ARTÍCULO 272 BIS (SIC). Difusión dolosa de desinformación generada mediante inteligencia artificial. Comete el delito quien, de manera dolosa y con el propósito directo de generar alarma pública o alterar la paz social, fabrique, modifique o difunda, mediante el uso de sistemas de inteligencia artificial, contenidos falsos o manipulados que se presenten como reales, y que sean idóneos para producir un riesgo verificable a la paz pública o a la seguridad de las personas.
-
-Para los efectos de este artículo, se entenderá por inteligencia artificial cualquier sistema, modelo computacional o algoritmo, incluidas las redes neuronales y las técnicas de aprendizaje automático o equivalentes, capaz de ejecutar, de manera autónoma o asistida, tareas que impliquen procesos de razonamiento, aprendizaje, percepción, interpretación o generación de información, imitando o sustituyendo funciones cognitivas humanas, y que permita producir, modificar, alterar o difundir contenidos digitales, tales como textos, imágenes, sonidos o videos, con apariencia verosímil o similar a la realidad.
-
-El delito se sancionará con pena de dos a cinco años de prisión y multa de doscientas a cuatrocientas veces la Unidad de Medida y Actualización vigente en el Estado.
-
-Cuando la conducta se realice utilizando medios de comunicación masiva, plataformas digitales o redes sociales, o empleando cuentas automatizadas o anónimas para simular información real, la pena se aumentará hasta en una mitad.
-
-No constituye delito la generación o difusión de contenidos con fines periodísticos, académicos, artísticos, parodia o de crítica política, cuando de las circunstancias del hecho no se acredite el dolo de causar alarma o desinformación social.
+ARTÍCULO 272 BIS (SIC). (DEROGADO, P.O. 30 DE JULIO DE 2026)
 
 ## TÍTULO DÉCIMO SEGUNDO. DELITOS CONTRA LA AUTORIDAD, E INSTITUCIONES DE AUXILIO
 
@@ -6552,3 +6520,15 @@ P.O. 24 DE JUNIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0564.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 218, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 30 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0582.- POR EL QUE SE DEROGA EL ARTÍCULO 187 TER, ASÍ COMO EL CAPÍTULO V DENOMINADO "USO INDEBIDO DE INTELIGENCIA ARTIFICIAL PARA PROVOCAR ALARMA SOCIAL", CON SUS ARTÍCULOS 272 BIS Y 272 TER, DEL TÍTULO DÉCIMO PRIMERO, DEL CÓDIGO PENAL DEL ESTADO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. La derogación prevista en el presente Decreto no limita la potestad del Congreso del Estado para continuar el análisis y, en su caso, desarrollar un marco jurídico integral en materia de inteligencia artificial.
+
+Para tal efecto, y con el fin de favorecer una nueva etapa de análisis legislativa sobre la regulación de la inteligencia artificial sustentada en parámetros de control de regularidad constitucional, el Congreso del Estado, en ejercicio de su potestad legislativa y con pleno respeto a los principios de Parlamento Abierto, propiciará la realización de mecanismos de deliberación plural, abierta, técnica y participativa, que permitan la intervención de instituciones académicas, especialistas, organismos públicos, organizaciones de la sociedad civil, sectores productivos y demás personas interesadas.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
