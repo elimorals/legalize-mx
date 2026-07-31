@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-29867
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-26"
-last_updated: "2026-03-15"
+last_updated: "2026-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 26 de marzo de 2003.
 
@@ -101,13 +101,15 @@ En los procedimientos para la contratación de obra pública interestatal, será
 
 Quedan comprendidas las obras que se realicen con fondos previstos en el Capítulo V de la Ley de Coordinación Fiscal.
 
-Así mismo, la obra multianual y los proyectos de infraestructura productiva de largo plazo, se realizarán conforme a lo dispuesto por la Ley de Deuda Pública del Estado, Ley Estatal de Presupuesto, Contabilidad y Gasto Público y las disposiciones correspondientes en materia de supervisión y control del gasto público y estarán regidas por esta Ley, únicamente en lo que se refiere a los procedimientos de contratación y ejecución de obra pública.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2026)</small>
+
+Asimismo, la obra multianual y los proyectos de infraestructura productiva de largo plazo, se realizarán conforme a lo dispuesto por la Ley de Deuda Pública para el Estado Libre y Soberano de Puebla, Ley de Presupuesto y Gasto Público Responsable del Estado de Puebla y las disposiciones correspondientes en materia de supervisión y control del gasto público y estarán regidas por esta Ley, únicamente en lo que se refiere a los procedimientos de contratación y ejecución de obra pública.
 
 No estarán sujetas a las disposiciones de esta Ley, las obras que deban ejecutarse para crear la infraestructura necesaria en la prestación de servicios públicos que los particulares tengan concesionados, en los términos de la legislación aplicable, cuando éstos las lleven a cabo.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2026)</small>
 
-La obra pública que sea considerada como proyecto de inversión, se regirá por lo dispuesto en la Ley Estatal de Presupuesto, Contabilidad y Gasto Público, para los efectos en ella establecidos, quedando sujeta en lo demás a lo previsto por esta Ley.
+La obra pública que sea considerada como proyecto de inversión, se regirá por lo dispuesto en la Ley de Presupuesto y Gasto Público Responsable del Estado de Puebla, para los efectos en ella establecidos, quedando sujeta en lo demás a lo previsto por esta Ley.
 
 ###### ARTÍCULO 2.
 
@@ -117,9 +119,9 @@ Para efectos de la presente Ley, se entenderá por:
 
 I.- Convocante: La Secretaría de Infraestructura, las Dependencias y Entidades Paraestatales que de conformidad con la Ley Orgánica de la Administración Pública del Estado, su Decreto de creación, Reglamentos Interiores y demás disposiciones aplicables, según sea el caso, cuenten con facultades para ejecutar obra, así como el Comité de Obra Municipal en el ámbito municipal, según corresponda.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2026)</small>
 
-II.- Contraloría.- La Secretaría de la Contraloría o su similar Municipal;
+II.- Contraloría.- La Secretaría Anticorrupción y Buen Gobierno del Gobierno del Estado de Puebla o su similar Municipal;
 
 III.- Contratista.- La persona que celebre contratos de obras públicas o de servicios relacionados con las mismas;
 
@@ -213,9 +215,11 @@ Sólo por excepción las demás Dependencias y Entidades bajo su responsabilidad
 
 Por lo que respecta a la Administración Pública Municipal, la instrumentación de los procedimientos de adjudicación en todas sus fases, correrá a cargo de los Comités de Obra Pública que constituya cada Ayuntamiento. En el supuesto que no cuenten con los recursos necesarios para tal efecto, podrán celebrar convenio de colaboración administrativa con el Estado a través de la Secretaría, para que ésta realice los procedimientos de adjudicación de las obras públicas y servicios relacionados con la misma.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2026)</small>
+
 ###### ARTÍCULO 7.
 
-El gasto de la obra pública y de los servicios relacionados con la misma, se sujetará en su caso, a lo previsto en la Ley de Egresos vigente en el Estado de Puebla y en el presupuesto anual de egresos de los Municipios, así como a las disposiciones de la Ley Estatal de Presupuesto, Contabilidad y Gasto Público y en lo conducente, a las disposiciones de la presente Ley.
+El gasto de la obra pública y de los servicios relacionados con la misma, se sujetará en su caso, a lo previsto en la Ley de Egresos vigente en el Estado de Puebla y en el presupuesto anual de egresos de los Municipios, así como a las disposiciones de la Ley de Presupuesto y Gasto Público Responsable del Estado de Puebla y en lo conducente, a las disposiciones de la presente Ley.
 
 ###### ARTÍCULO 8.
 
@@ -1039,11 +1043,11 @@ La información que sustente la inscripción de especialidades en el listado, se
 
 La convocante deberá solicitar a la Contraloría o al Comité de Obra Municipal, según corresponda, relación actualizada de personas físicas y jurídicas que se encuentren inscritas en el listado de contratistas calificados, para la instrumentación de los procedimientos de adjudicación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2026)</small>
 
 ###### ARTÍCULO 57.
 
-El reglamento correspondiente establecerá los requisitos que deberán reunir los interesados en obtener la calificación para ejecutar obras o prestar servicios relacionados, en el Estado. De igual forma incorporará las condiciones que se requerirán para acreditar la solvencia económica, técnica y moral, así como la especialización y experiencia de los contratistas y prestadores de servicios relacionados con la misma. Dichos requisitos deberán ser difundidos por la Contraloría y el Comité de Obra Municipal según corresponda a través de medios electrónicos.
+La Contraloría establecerá los requisitos que deberán reunir los interesados en obtener la calificación para ejecutar obras o prestar servicios relacionados en el Estado y sus Municipios. De igual forma incorporará las condiciones que se requerirán para acreditar la solvencia económica, técnica e integridad, así como la especialización y experiencia de las personas contratistas y prestadores de servicios relacionados con la misma. Dichos requisitos deberán ser difundidos por la Contraloría y el Comité de Obra Municipal según corresponda a través de medios oficiales de difusión.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
@@ -1067,6 +1071,14 @@ I.- La experiencia, capacidad financiera, comercial, técnica y moral del contra
 
 II.- La Contraloría y el Comité de Obra Municipal deberán comunicar su decisión de otorgar o no, la calificación o revalidación correspondiente al contratista o prestador de servicios relacionados con la obra que lo solicite, dentro del término de treinta días naturales contados a partir de la recepción de la solicitud y la documentación respectiva, de no emitir respuesta en dicho plazo, se entenderá por otorgada o revalidada dicha calificación;
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2026)</small>
+
+Cuando la solicitud resulte confusa o incompleta, la Contraloría podrá requerir a la persona solicitante, la aclare o complemente dentro de los cinco días hábiles siguientes a la notificación mediante la plataforma. En este supuesto, el plazo para resolver se suspenderá hasta en tanto el solicitante atienda el requerimiento correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2026)</small>
+
+Si la persona contratista no presenta la información requerida dentro del plazo antes señalado, se tendrá por no presentada la solicitud.
+
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
 III.- En todo caso la Contraloría y el Comité de Obra Municipal deberán fundar y motivar su negativa de otorgar una calificación o revalidación;
@@ -1078,6 +1090,18 @@ IV.- Para determinar la solvencia moral de un contratista, la Contraloría y el 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
 V.- La solicitud de calificación y/o revalidación, será bajo la más estricta responsabilidad del solicitante, por lo que en caso de negativa de la calificación y/o revalidación, no se suspenderá el procedimiento de adjudicación o contratación.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2026)</small>
+
+La Contraloría, durante los procesos de solicitud de inscripción, revalidación y ampliación de especialidades al Listado de personas Contratistas Calificadas, podrá verificar la veracidad de la información que proporcionen las personas solicitantes.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2026)</small>
+
+ARTÍCULO 58 BIS.- La Contraloría, cuando tenga conocimiento de que la información o documentación que sea proporcionada por la persona solicitante difiera con la obtenida como resultado de la verificación, deberá negar el otorgamiento de una calificación, revalidación, o ampliación de especialidades la cual se notificará a la persona solicitante por los medios electrónicos correspondientes que para tal efecto establezca.
+
+Asimismo, deberá hacer de conocimiento el resultado de esa verificación a las autoridades competentes para que inicien el procedimiento que conforme a derecho corresponda.
+
+Las personas solicitantes que se encuentren dentro del supuesto previsto en el presente artículo no podrán participar en los procesos de inscripción, revalidación y ampliación de especialidades al listado de personas Contratistas calificadas hasta en tanto no se resuelva el procedimiento descrito en el párrafo que antecede.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -1778,3 +1802,15 @@ P.O. 15 DE MARZO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LOS PÁRRAFOS CUARTO Y QUINTO DEL ARTÍCULO 1, LA FRACCIÓN II DEL 2, EL 7, EL PRIMER PÁRRAFO DEL 57; Y SE ADICIONAN DOS PÁRRAFOS A LA FRACCIÓN II Y EL PÁRRAFO SEGUNDO A LA FRACCIÓN V DEL 58 Y EL 58 BIS, TODOS DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se dejan sin efectos las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Secretaría Anticorrupción y Buen Gobierno deberá emitir los requisitos y condiciones a que se refiere el artículo 57 del presente Decreto, dentro de un plazo de sesenta días naturales contados a partir de la entrada en vigor del mismo.
+
+CUARTO. La Persona Titular de la Gubernatura, dentro de los ciento veinte días naturales, contados a partir de la entrada en vigor de este Decreto, expedirá las reformas al Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno en términos del presente Decreto.
