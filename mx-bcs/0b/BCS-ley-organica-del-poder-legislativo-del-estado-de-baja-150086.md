@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2026-02-10"
+last_updated: "2026-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2026.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -527,9 +527,9 @@ IX.- DE LA SALUD, LA FAMILIA Y LA ASISTENCIA PÚBLICA.
 
 X.- DE ASUNTOS EDUCATIVOS.
 
-> <small>(REFORMADA, B.O. 26 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2026)</small>
 
-XI.- DE ECOLOGIA Y MEDIO AMBIENTE.
+XI.- DE ECOLOGIA, MEDIO AMBIENTE Y RECURSOS NATURALES:
 
 XII.- DE ASUNTOS FISCALES Y ADMINISTRATIVOS.
 
@@ -719,13 +719,23 @@ a).- Lo que corresponda a Educación en todos sus niveles.
 
 b).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 26 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 31 DE JULIO DE 2026)</small>
 
-XI.- DE ECOLOGIA Y MEDIO AMBIENTE:
+XI.- DE ECOLOGÍA, MEDIO AMBIENTE Y RECURSOS NATURALES:
 
-a).- Lo que se refiera a la preservación del medio ambiente, de los ecosistemas, de los recursos naturales, protección de la flora y la fauna y en general lo relacionado con la prevención y control de la contaminación y la declaratoria de reservas ecológicas en la entidad.
+a).- Los que se refieran a la protección y preservación del medio ambiente, de los ecosistemas, de los recursos naturales, de la flora y la fauna;
 
-b).- Los demás que le señale la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+b).- Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con la materia ambiental;
+
+c) Los relacionados con la legislación en materia forestal, de residuos sólidos, economía circular y de cambio climático;
+
+d) La protección y preservación de las áreas naturales protegidas;
+
+e) Los relativos a la contaminación del ambiente;
+
+f) El impulso al desarrollo sustentable, transición energética, y uso eficiente de recursos y medio ambiente;
+
+g) Los demás que le señale la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 XII.- DE ASUNTOS FISCALES Y ADMINISTRATIVOS:
 
@@ -2229,6 +2239,16 @@ Para el caso de proposiciones con punto de acuerdo económico, iniciativas con p
 
 El orden del día deberá fijarse en el exterior de la Sala de Sesiones a más tardar a las nueve de la mañana del día de la sesión que corresponda; asimismo el orden del día y los documentos que señalan las fracciones V, VI y VIII del presente artículo, deberán hacerse públicos por los medios electrónicos disponibles del Honorable Congreso del Estado de Baja California Sur, a más tardar a las 19:00 horas del día que corresponda en los términos señalados en los incisos a) y b) referidos en éste artículo.
 
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2026)</small>
+
+Artículo 96 Bis
+
+Para el caso de proposiciones con punto de acuerdo, iniciativas con proyecto de decreto, dictámenes o cualquier otro asunto parlamentario sometido a consideración del Pleno, las diputadas y los diputados podrán auxiliarse de herramientas tecnológicas, audiovisuales o ilustrativas para fortalecer la exposición de sus planteamientos.
+
+Cuando se pretenda utilizar material multimedia o audiovisual durante la sesión, éste deberá remitirse previamente junto con el documento parlamentario correspondiente, en formatos digitales compatibles para su reproducción institucional, incluyendo archivos PDF, JPG, PNG, MP4, AVI, PPT o PPTX, o aquellos que determine la Dirección de Informática.
+
+El material que sea proyectado o difundido durante las sesiones deberá guardar respeto a la dignidad de las personas, a la institucionalidad parlamentaria y al adecuado desarrollo de la sesión, por lo que no podrá contener imágenes explícitamente violentas, degradantes, discriminatorias, ofensivas o ajenas al asunto parlamentario en discusión.
+
 Artículo 97
 
 Cuando algún Diputado haga uso de la tribuna para los efectos de la Fracción IV del Artículo 96 de esta Ley, su intervención no podrá durar más de media hora sin permiso previo de la Asamblea.
@@ -2530,6 +2550,16 @@ III.- Cuando se viertan injurias o calumnias en contra de alguna autoridad, corp
 IV.- Cuando el orador se aparte del asunto a discusión o rebase el tiempo reglamentario permitido. En los casos respectivos, la Presidencia llamará al orden al orador; y
 
 V.- Para solicitar al orador su autorización para formular alguna interpelación sobre el asunto a discusión.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2026)</small>
+
+Artículo 138 Bis
+
+Cuando se trate de los casos previstos en la fracción I del artículo 138 de esta Ley, las diputadas y los diputados podrán ilustrar la discusión mediante la lectura, exhibición o presentación de documentos, gráficos, estadísticas, imágenes o cualquier otro elemento relacionado con el asunto sometido a debate.
+
+En dichos casos, la Secretaría podrá dar lectura a fragmentos concretos de documentos relacionados con el asunto en discusión, cuando ello contribuya a ilustrar el debate parlamentario.
+
+La Presidencia de la Mesa Directiva podrá limitar o negar la exhibición del material correspondiente cuando advierta que éste vulnera disposiciones legales, debiendo indicar cuáles, o cuando resulte notoriamente ajeno al asunto discutido.
 
 Artículo 139
 
@@ -3628,3 +3658,19 @@ Segundo.- El Congreso del Estado deberá expedir el Reglamento de Comisiones a m
 Tercero.- Las iniciativas de ley o decreto, así como las proposiciones con punto de acuerdo que se encuentren pendientes de dictamen y que provengan de legislaturas anteriores a la actual, se considerarán automáticamente caducadas, por lo que deberán archivarse por la Oficialía Mayor como asuntos total y definitivamente concluidos.
 
 Cuarto.- Se Derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
+
+B.O. 31 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO ÚNICO DEL DECRETO 3297 POR EL QUE “SE REFORMAN LAS FRACCIONES XI DEL ARTÍCULO 45 Y XI DEL ARTÍCULO 46 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las Disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3301 SE ADICIONAN LOS ARTÍCULOS 96 BIS Y 138 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decret |o (sic) entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan sin necesidad de manifestación explícita, las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas correspondientes al presente Decreto.
