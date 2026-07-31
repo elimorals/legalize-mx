@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-juventud-para-el-estado-de-puebla-71034"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-09"
-last_updated: "2026-06-26"
+last_updated: "2026-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de noviembre de 2009.
 
@@ -557,13 +557,17 @@ La Política Estatal de la Juventud, contará con una estrategia integral y perm
 
 I.- Avanzar en el establecimiento de las condiciones que aseguren el disfrute y ejercicio efectivo de los derechos civiles, políticos, económicos, sociales, culturales y ambientales de las personas jóvenes;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2026)</small>
 
-II.- Promover el desarrollo integral de toda persona joven, entendido como el conjunto de dimensiones biológicas, psicológicas, sociales y espirituales que, articuladas coherentemente, garantizan y potencializan la participación de toda persona joven como ciudadanos y ciudadanas en ejercicio pleno de sus derechos y deberes, replanteando la posición social de subordinación, favoreciendo condiciones de emancipación, de constitución de su identidad individual y colectiva y de su autonomía política, en cualquiera de los contextos en que se desarrolle la juventud; y
+II.- Promover el desarrollo integral de toda persona joven, entendido como el conjunto de dimensiones biológicas, psicológicas, sociales y espirituales que, articuladas coherentemente, garantizan y potencializan la participación de toda persona joven como ciudadanos y ciudadanas en ejercicio pleno de sus derechos y deberes, replanteando la posición social de subordinación, favoreciendo condiciones de emancipación, de constitución de su identidad individual y colectiva y de su autonomía política, en cualquiera de los contextos en que se desarrolle la juventud;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2026)</small>
 
-III.- Garantizar la participación de toda persona joven en el diseño, planeación, programación, ejecución, seguimiento y evaluación de las políticas, programas y acciones dirigidas a la juventud.
+III.- Garantizar la participación de toda persona joven en el diseño, planeación, programación, ejecución, seguimiento y evaluación de las políticas, programas y acciones dirigidas a la juventud; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2026)</small>
+
+IV.- Observar los criterios de integridad y transversalidad en la ejecución de programas y acciones que procuren cubrir las necesidades básicas de los jóvenes y promover su desarrollo personal y social. Asimismo, impulsar la ejecución de los programas y acciones que, en su caso, se coordinen entre las distintas dependencias y entidades de la Administración Pública, en el ámbito de su competencia, con los municipios.
 
 ###### Artículo 55.
 
@@ -1096,6 +1100,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE JUNIO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 45 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 54; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 54; TODOS DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
