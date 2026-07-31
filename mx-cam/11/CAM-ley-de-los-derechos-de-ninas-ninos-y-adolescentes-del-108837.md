@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2026-06-04"
+last_updated: "2026-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -227,9 +227,19 @@ XI. La autonomía progresiva;
 
 XII. El principio pro persona;
 
-XIII. El acceso a una vida libre de violencia; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2026)</small>
+
+XIII. El acceso a una vida libre de violencias;
 
 XIV. La accesibilidad.
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2026)</small>
+
+XV. Mínima intervención cuando intervengan en procedimientos judiciales como víctimas o testigos; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2026)</small>
+
+XVI. No revictimización cuando intervengan en procedimientos judiciales como víctimas o testigos.
 
 ###### Artículo 6.
 
@@ -291,7 +301,9 @@ VI. Derecho a no ser discriminado y a recibir protección especial cuando se enc
 
 VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral;
 
-VIII. Derecho a una vida libre de violencia y a la integridad personal;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2026)</small>
+
+VIII. Derecho a una vida libre de violencias y a la integridad personal;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
@@ -323,13 +335,17 @@ XVIII. Derecho a la seguridad jurídica, acceso a la justicia y al debido proces
 
 XIX. Derechos de niñas, niños y adolescentes migrantes;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2026)</small>
 
-XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión; y
+XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley en Materia de Telecomunicaciones y Radiodifusión;
 
 > <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
 
 XXI. Derecho a la protección y seguridad sexual.
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2026)</small>
+
+XXII. Derecho a disfrutar una vivienda digna y decorosa.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -857,7 +873,9 @@ IX. Implementar mecanismos para la atención, canalización y seguimiento de los
 
 X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
-XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2026)</small>
+
+XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos; así como, la promoción de la cultura de la denuncia desde edades tempranas;
 
 XII. Se elaboren protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
@@ -881,7 +899,9 @@ XIX. Inculcar en las niñas, niños y adolescentes el respeto al medio ambiente,
 
 XX. Establecer mecanismos normativos, institucionales y pedagógicos que aseguren entornos digitales seguros, libres de violencia, discriminación y riesgos cibernéticos, mediante la coordinación interinstitucional, la participación de madres, padres, personas tutoras y docentes, y la incorporación de contenidos en los planes y programas educativos, con perspectiva de género, niñez y derechos humanos;
 
-XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de las niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2026)</small>
+
+XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de las niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal. Además, deberán implementar campañas de concientización sobre la exclusión educativa que enfrentan niñas y adolescentes en situación de maternidad temprana, reconociendo esta condición como una barrera estructural que limita el ejercicio de sus derechos. Estas campañas deberán incluir acciones en escuelas, medios de comunicación, redes sociales y espacios comunitarios, con enfoque de derechos humanos, género e interseccionalidad. Las disposiciones de la presente fracción, también serán aplicables para los niños y adolescentes que ejerzan la paternidad;
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2022)</small>
 
@@ -900,6 +920,10 @@ En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título 
 > <small>(ADICIONADA, P.O. 11 DE JULIO DE 2024)</small>
 
 XXIV. Inculcar en niñas, niños y adolescentes la cultura de la paz y la educación cívica;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2026)</small>
+
+XXV. Fomentar la cultura financiera adecuada, desde edades tempranas, que los prepare para una implementación oportuna en las siguientes etapas de la vida.
 
 Las autoridades escolares, en el ámbito de sus facultades, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
@@ -2432,3 +2456,11 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Las autoridades estatales y municipales deberán realizar las adecuaciones administrativas, operativas y presupuestarias necesarias para la implementación progresiva de los mecanismos previstos en el presente decreto, conforme al principio de disponibilidad presupuestaria y progresividad de los derechos humanos.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+P.O. 31 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 265 POR EL QUE "SE REFORMAN LA FRACCIÓN XIII DEL ARTÍCULO 5; LAS FRACCIONES VIII Y XX DEL ARTÍCULO 13; LAS FRACCIONES XI Y XXI DEL ARTÍCULO 56; Y SE ADICIONAN LAS FRACCIONES XV Y XVI AL ARTÍCULO 5; LA FRACCIÓN XXII AL ARTÍCULO 13 Y LA FRACCIÓN XXV AL ARTÍCULO 56, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
