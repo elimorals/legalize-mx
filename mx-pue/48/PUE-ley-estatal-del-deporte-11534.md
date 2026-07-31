@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-del-deporte-11534"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2026-07-28"
+last_updated: "2026-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DEL DEPORTE EN EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2026.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1997.
 
@@ -83,9 +83,11 @@ Las disposiciones de esta Ley, son de orden público e interés social y tienen 
 
 Se reconoce el derecho de todo individuo al conocimiento, difusión y práctica del deporte, sin distinción, exclusión o restricción basada por razón del origen étnico, el género, la edad, la discapacidad, la condición social o económica, las condiciones de salud, la lengua, la orientación sexual, el estado civil, la creencia religiosa, o cualquier otra condición que tenga por efecto anular o menoscabar el goce y ejercicio de este derecho. Al constituir un derecho, el Gobierno del Estado y los Ayuntamientos de los Municipios tienen la obligación de incluirlo dentro de sus planes, programas y presupuestos, acciones y recursos que propicien las prácticas deportivas.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2026)</small>
+
 ###### ARTICULO 3.
 
-Para lograr los objetivos de esta Ley, se establece el Sistema Estatal del Deporte, así como las bases para su funcionamiento.
+Para lograr los objetivos de esta Ley, se establece el Sistema Estatal del Deporte, así como las bases y principios para su funcionamiento, siendo, de manera enunciativa, el acceso universal y máxima participación; accesibilidad; equidad e igualdad sustantiva; respeto a la dignidad humana y no discriminación; inclusión y coordinación; juego limpio y ética deportiva; perspectiva de género; transversalidad; interés superior de la niñez; fomento de la cultura física y el deporte; descentralización del desarrollo integral deportivo, y transparencia y rendición de cuentas.
 
 ###### ARTICULO 4.
 
@@ -181,9 +183,17 @@ III.- Determinar las necesidades y requerimientos del deporte estatal, así como
 
 IV.- Promover la conjunción de esfuerzos en materia deportiva con los sectores social y privado;
 
-V.- Formular el Programa Estatal del Deporte y llevar a cabo las acciones que se deriven del mismo; y
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2026)</small>
 
-VI.- Propiciar la participación de los organismos deportivos y de los deportistas en la determinación y ejecución de las políticas a que se refiere la fracción I, del presente artículo estableciendo los procedimientos para ello.
+V.- Formular el Programa Estatal del Deporte y llevar a cabo las acciones que se deriven del mismo;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2026)</small>
+
+VI.- Propiciar la participación de los organismos deportivos y de los deportistas en la determinación y ejecución de las políticas a que se refiere la fracción I del presente artículo estableciendo los procedimientos para ello; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2026)</small>
+
+VII. Promover, formular y ejecutar acciones para garantizar la participación igualitaria en actividades físicas y deportivas.
 
 > <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
 
@@ -411,17 +421,21 @@ IX.- El Gobierno del Estado, designará de su presupuesto de egresos anual, una 
 
 X.- Promover el otorgamiento de estímulos a las personas que destaquen en alguna actividad deportiva;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2026)</small>
 
-XI.- Promover en el ámbito de su competencia, y establecer, en coordinación con las autoridades de Seguridad Pública y de Protección Civil competentes, así como con servicios de Seguridad Privada, los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos o de espectáculo, cuando por el número de asistentes así se requiera para garantizar la seguridad de las personas y de su patrimonio, el desarrollo pacífico en los recintos donde se celebren y de sus inmediaciones; y
+XI.- Promover en el ámbito de su competencia, y establecer, en coordinación con las autoridades de Seguridad Pública y de Protección Civil competentes, así como con servicios de Seguridad Privada, los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos o de espectáculo, cuando por el número de asistentes así se requiera para garantizar la seguridad de las personas y de su patrimonio, el desarrollo pacífico en los recintos donde se celebren y de sus inmediaciones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2026)</small>
 
-XII.- Promover el uso de la bicicleta, fomentando una cultura de respeto hacia los ciclistas en la vía pública; y
+XII.- Promover el uso de la bicicleta, fomentando una cultura de respeto hacia los ciclistas en la vía pública;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2026)</small>
 
-XIII.- Participar, en los programas que se deriven de los Sistemas Nacional y Estatal del Deporte.
+XIII.- Participar, en los programas que se deriven de los Sistemas Nacional y Estatal del Deporte; y
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2026)</small>
+
+XIV. Promover, formular y ejecutar acciones para garantizar la participación igualitaria en actividades físicas y deportivas.
 
 ### CAPITULO II. DE LOS CONSEJOS MUNICIPALES DEL DEPORTE
 
@@ -619,9 +633,9 @@ II. Concientizar y motivar el interés integrador y socializador para una mejor 
 
 III. Impulsar el desarrollo de talento de las personas con alguna discapacidad, inculcando la propia superación personal.
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2026)</small>
 
-ARTICULO 30 TER.- Las autoridades y personas que tengan participación en la actividad deportiva de una persona con discapacidad promoverán, respetarán, protegerán y garantizarán los derechos humanos de las personas con discapacidad atendiendo a los principios y derechos establecidos en esta Ley.
+ARTICULO 30 TER.- Las autoridades y personas que tengan participación en la actividad deportiva de personas con discapacidad promoverán, respetarán, protegerán y garantizarán sus derechos humanos, atendiendo los Tratados Internacionales de los que el Estado Mexicano sea parte, así como a los principios y derechos establecidos en esta Ley y demás legislación aplicable.
 
 > <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
 
@@ -926,6 +940,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I, II, III, IV, VIII Y IX DEL ARTÍCULO 28; Y ADICIONA LAS FRACCIONES X Y XI AL ARTÍCULO 28; TODAS DE LA LEY ESTATAL DEL DEPORTE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN EL ARTÍCULO 3 Y EL 30 TER DE LA LEY ESTATAL DEL DEPORTE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 10, LAS FRACCIONES XI, XII Y XIII DEL 21, Y SE ADICIONAN LA FRACCIÓN VII AL ARTÍCULO 10, Y LA FRACCIÓN XIV AL 21; TODOS DE LA LEY ESTATAL DEL DEPORTE".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
