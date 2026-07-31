@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-mecanismos-alternativos-de-solucion-de-controversias-186
 country: "mx"
 rank: "ley"
 publication_date: "2026-03-15"
-last_updated: "2026-03-15"
+last_updated: "2026-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=186532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2026.
 
 Ley publicada en la Séptima Sección en el Número 11 del Periódico Oficial del Estado de Puebla, el domingo 15 de marzo de 2026.
 
@@ -479,7 +479,7 @@ I. Contar con Título y Cédula profesional de estudios de licenciatura;
 
 II. Contar con nacionalidad mexicana en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-III. No haber sido sentenciado por delito doloso;
+III. (DEROGADA, P.O. 31 DE JULIO DE 2026)
 
 IV. No ser declarada como persona deudora alimentaria morosa, ni estar inscrita en el Registro Nacional de Obligaciones Alimentarias;
 
@@ -1352,3 +1352,13 @@ Dado en la sede del Poder Ejecutivo del Estado de Puebla, en la Cuatro veces Her
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de marzo de dos mil veintiséis. Diputado Presidente. ELÍAS LOZADA ORTEGA. Rúbrica. Diputada Vicepresidenta. NAYELI SALVATORI BOJALIL. Rúbrica. Diputada Vicepresidenta. CELIA BONAGA RUIZ. Rúbrica. Diputada Secretaria. ANA LAURA GÓMEZ RAMÍREZ. Rúbrica. Diputada Secretaria. ARACELI CELESTINO ROSAS. Rúbrica.
 
 Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, instruyo se publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de marzo de dos mil veintiséis. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. CIUDADANO ALEJANDRO ARMENTA MIER. Rúbrica. El Secretario de Gobernación. CIUDADANO JOSÉ SAMUEL AGUILAR PALA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 33 DE LA LEY MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
