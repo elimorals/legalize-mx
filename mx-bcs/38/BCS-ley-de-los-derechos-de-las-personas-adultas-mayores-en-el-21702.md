@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-21702
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-20"
-last_updated: "2023-08-10"
+last_updated: "2026-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 10 DE AGOSTO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2026.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de junio de 2001.
 
@@ -119,6 +117,30 @@ IX.- Tanatologia.- Los estudios encaminados a procurar una muerte digna con cuid
 
 X.- Atención Médica.- El conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a las personas adultas mayores de sesenta años en todos los niveles, con el fin de proteger, promover y restaurar su salud.
 
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2026)</small>
+
+XI.- Violencia.- La violencia psicológica, física, patrimonial, económica, sexual y cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2026)</small>
+
+###### Artículo 3 Bis.
+
+Los tipos de violencia contra las Personas Adultas Mayores, son:
+
+I. Violencia emocional y psicológica. Cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II. Violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+III. Violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado;
+
+IV. Violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso o egreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V. Violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder;
+
+VI. Violencia Institucional. Es cualquier violación de derechos que se manifiesta en actos u omisiones por parte de instituciones o personal que los atiende, tendientes a la discriminación o falta de perspectiva de atención para personas adultas mayores, y a menudo se deriva de la falta de políticas adecuadas, el edadismo y la negligencia del personal;
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
+
 ## TÍTULO SEGUNDO. Principio y Derechos
 
 ### Capítulo I. De los Principios
@@ -151,6 +173,10 @@ A) A la Integridad, Dignidad y Preferencia:
 
 I. A la vida, con calidad, siendo obligación de la familia, de los órganos locales de Gobierno del Estado de Baja California Sur y de la sociedad, garantizar a las personas adultas mayores de sesenta años su sobrevivencia así como el acceso a los mecanismos necesarios para ello;
 
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2026)</small>
+
+Los Poderes Públicos en el ámbito de sus respectivas competencias garantizarán y promoverán que, mediante servicios ágiles, preferenciales, eficientes, diferenciados y accesibles, se atiendan las necesidades de las personas mayores, principalmente aquellas que, por encontrarse en una situación de especial vulnerabilidad, requieren apoyos para desarrollar sus actividades y acceder a los servicios públicos;
+
 II. A la no discriminación, por lo que la observancia a sus derechos se hará sin distinción alguna;
 
 III. A una vida libre de violencia;
@@ -167,17 +193,19 @@ VII. A gozar de oportunidades, en atención a las condiciones a que se refiere l
 
 VIII. A vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimiento y en donde ejerza libremente sus derechos.
 
-B) De la certeza jurídica y familia:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE JULIO DE 2026)</small>
+
+B) A LA FAMILIA:
 
 I. A vivir en el seno de una familia, o a mantener relaciones personales y contacto directo con ella aún en el caso de estar separados, salvo si ello es contrario a sus intereses;
 
 II. A expresar su opinión libremente, conocer sus derechos y a participar en el ámbito familiar y comunitario, así como en todo procedimiento administrativo o judicial, que afecte sus esferas personal, familiar y social;
 
-III. A recibir un trato digno y apropiado cuando sean víctimas, o ellos mismos cometan cualquier tipo de ilícito o infracción;
+III. (DEROGADA, B.O. 31 DE JULIO DE 2026)
 
-IV. A recibir el apoyo de los órganos locales de gobierno en lo relativo al ejercicio y respeto de sus derechos a través de las instituciones creadas para tal efecto como son: Sistema Estatal para el Desarrollo Integral de la Familia, el Tribunal Superior de Justicia del Estado de Baja California Sur, la Procuraduría General de Justicia del Estado de Baja California Sur y la Comisión Estatal de Derechos Humanos;
+IV. (DEROGADA, B.O. 31 DE JULIO DE 2026)
 
-V. A contar con asesoría jurídica gratuita y contar con un representante legal cuando lo considere necesario, poniendo especial cuidado en la protección de su patrimonio personal y familiar.
+V. (DEROGADA, B.O. 31 DE JULIO DE 2026)
 
 C) De la salud y alimentación:
 
@@ -227,6 +255,24 @@ II. Los servicios y establecimientos de uso público deberán implementar medida
 
 III. A contar con asientos preferentes en los establecimientos que prestan servicios al público y en los servicios de autotransporte de pasajeros.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], B.O. 31 DE JULIO DE 2026)</small>
+
+H) AL PATRIMONIO Y LA CERTEZA JURÍDICA:
+
+I. Las autoridades responsables deberán generar los mecanismos accesibles, expeditos y preferenciales para garantizar a las personas mayores la protección y certeza jurídica en el ejercicio de sus derechos;
+
+II. Las autoridades responsables deberán garantizar a las personas mayores certeza jurídica y real acceso a la justicia de manera pronta, completa e imparcial, en cualquier procedimiento administrativo o judicial que le involucre, asegurando su autonomía, protección y cuidado;
+
+III. A contar con asesoría jurídica gratuita y contar con un representante legal cuando lo considere necesario, poniendo especial cuidado en la protección de su patrimonio personal y familiar; las autoridades competentes deberán, dentro de su planeación anual, realizar las acciones y gestiones pertinentes para la obtención de recursos que permitan ofrecer dicho servicio.
+
+IV. Denunciar y que se sancione toda conducta orientada a limitar o menoscabar el pleno ejercicio de los derechos patrimoniales de las personas mayores, incluyendo el abuso y enajenación ilegal con engaños o sin consentimiento previo e informado por parte éstas, según lo dispuesto en la legislación penal;
+
+V. Para que se consideré válido el consentimiento que otorguen las personas mayores respecto a la disposición de los bienes de su propiedad o su patrimonio, sin demérito de lo dispuesto en el Código Civil para el Estado Libre y Soberano de Baja California Sur y demás leyes respecto de la capacidad legal de las personas, éstas deberán ser debidamente informadas; lo que significa explicarles en forma amplia, completa y sin tecnicismos las consecuencias, alternativas y los procedimientos relacionados con el acto jurídico de que se trate, garantizando en todo momento su autonomía, protección y cuidado en la toma de decisiones relacionadas con su patrimonio personal y familiar;
+
+VI. Toda autoridad que conozca o se involucre en el otorgamiento del consentimiento de una persona mayor para disponer de su patrimonio se cerciorará bajo su más estricta responsabilidad, que el mismo haya sido otorgado en la forma señalada anteriormente, esta obligación deberán observarla también quienes ejerzan el notariado público, jueces y demás personas intervinientes en el proceso, sin perjuicio de las demás disposiciones que les otorgan responsabilidades al respecto; y
+
+VII. Toda persona Adulta Mayor tendrá derecho a recibir un trato digno y apropiado cuando tengan la calidad de víctimas de la comisión de un delito, o ellos mismos cometan cualquier tipo de ilícito o infracción.
+
 ## TÍTULO TERCERO
 
 ### Capítulo Único. De las Obligaciones de la Familia
@@ -239,17 +285,51 @@ La familia de la persona adulta mayor de sesenta años deberá cumplir su funci�
 
 El lugar ideal para que la persona adulta mayor de sesenta años permanezca es su hogar, y sólo en caso de enfermedad, decisión personal o causas de fuerza mayor, podrá solicitar su ingreso en alguna institución asistencial pública o privada dedicada al cuidado de personas adultas mayores de sesenta años.
 
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2026)</small>
+
+Cuando una persona mayor viva separada de su familia no implicará que los familiares no tengan la obligación de velar por su protección y cuidados.
+
 ###### Artículo 8.
 
 La familia tendrá las siguientes obligaciones:
 
-I. Otorgar alimentos de conformidad con lo establecido en el Código Civil;
+> <small>(REFORMADA, B.O. 31 DE JULIO DE 2026)</small>
+
+I. Otorgar alimentos de conformidad con lo establecido en el Código Civil para el Estado Libre y Soberano de Baja California Sur, habitación, protección permanente, atención médica y medicamentos, cuidar y mantener su higiene personal, así como contribuir a la satisfacción de sus necesidades humanas.
 
 II. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor de sesenta años participe activamente, y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y de apoyo;
 
 III. Conocer los derechos de las personas adultas mayores de sesenta años, previstos en la presente Ley, así como los que se encuentran contemplados en nuestra Constitución y demás ordenamientos para su debida observancia; y
 
 IV. Evitar que alguno de sus integrantes, cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo su persona, bienes y derechos.
+
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2026)</small>
+
+V. Vigilar y cumplir con diligencia los controles médicos que se prescriban para velar por la salud de las personas mayores, adicionalmente también se deberá cuidar que el suministro de alimentos sea nutricional y adecuado para su edad y salud;
+
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2026)</small>
+
+VI. Los familiares de personas mayores están obligados a atender sus necesidades psicoafectivas cuando éstas se encuentren en alguna institución para su atención y cuidado. En ningún caso podrán incurrir en abandono y dejándoles exclusivamente a cargo de la institución sin mantener los lazos familiares;
+
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2026)</small>
+
+VII. Evitar que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo su persona, bienes y derechos;
+
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2026)</small>
+
+VIII. Es obligación de los integrantes de la familia conocer los derechos de las personas mayores; de igual forma deberán conocer los programas y servicios desarrollados para apoyar a este sector de la población a efecto de coadyuvar a su vinculación a los mismos. Para alcanzar los fines señalados en este artículo las autoridades de la administración pública realizarán campañas de difusión de estos;
+
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2026)</small>
+
+IX. Los familiares incurrirán en las responsabilidades civiles y penales señaladas para el caso de abandono de personas y demás relativas; sin perjuicio de lo anterior, serán corresponsables los administradores de los establecimientos que proporcionen servicios de cuidados de verificar que se les brinde atención a sus requerimientos de salud, atención médica y psicológica, por lo que aún en estos casos deberán asegurarse que tengan la atención adecuada; y
+
+> <small>(ADICIONADA, B.O. 31 DE JULIO DE 2026)</small>
+
+X. Las demás que establezcan esta ley y otros ordenamientos.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2026)</small>
+
+El incumplimiento o falta de observancia de los deberes contenidos en este capítulo por parte de algún integrante de la familia lo incapacitará para heredar en términos de lo establecido en el Código Civil para el Estado Libre y Soberano de Baja California Sur.
 
 > <small>(REFORMADO, B.O. 21 DE JULIO DE 2023)</small>
 
@@ -475,7 +555,13 @@ IX. Vigilar que las instituciones presten el cuidado y atención adecuada, a las
 
 X. Establecer programas de apoyo a las familias para que la falta de recursos no sea causa de separación de las personas adultas mayores de sesenta años, y
 
-XI. Las demás que le confieran otros ordenamientos jurídicos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE JULIO DE 2026)</small>
+
+XI. Desarrollar programas de capacitación dirigidos a los familiares y personas que ejerzan tareas de cuidado domiciliario, a fin de garantizar que se cuenten con los conocimientos y habilidades necesarias para la realización de las tareas de cuidado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 31 DE JULIO DE 2026)</small>
+
+XII. Las demás que le confieran otros ordenamientos jurídicos.
 
 ## TÍTULO QUINTO
 
@@ -736,3 +822,11 @@ B.O. 21 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2936.- SE ADICIONA UN ARTÍCULO 167 BIS, AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y SE REFORMAN LOS ARTÍCULOS 9, 15, 16, 17, 18, 19, 20, 26, 28 Y 32, 42 Y 46 Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN I Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 28 Y SE REFORMAN LAS FRACCIONES II Y V DEL ARTÍCULO 30 Y SE REFORMA LA FRACCIÓN (SIC) 31 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE JULIO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3302 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
