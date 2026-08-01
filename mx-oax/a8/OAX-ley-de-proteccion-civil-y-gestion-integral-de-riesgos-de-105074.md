@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2026-05-23"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -1005,7 +1005,11 @@ II. Ejecutar las políticas del gobierno del Estado en la organización, coordin
 
 III. Promover la cultura de prevención de riesgos de desastres y corresponsabilidad social en las tareas de protección civil.
 
-IV. Sensibilizar y dar seguimiento a los procesos de transversalización de la prevención en las inversiones, proyectos, programas, leyes y demás instrumentos privados, sociales y públicos de desarrollo dentro del Estado.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+IV. Coordinar con las autoridades federales y municipales acciones de prevención y mitigación para reducir el riesgo por el manejo de artificios pirotécnicos;
+
+V. Sensibilizar y dar seguimiento a los procesos de transversalización de la prevención en las inversiones, proyectos, programas, leyes y demás instrumentos privados, sociales y públicos de desarrollo dentro del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -1053,143 +1057,149 @@ XIII. Impulsar la creación de la Escuela Estatal de Protección Civil y Gestió
 
 XIV. Fomentar en la población una cultura de prevención de riesgos, desastres y protección civil que brinde herramientas que permitan salvaguardar su vida, posesiones y entorno ante los riesgos derivados de fenómenos naturales y humanos. Para esta tarea, debe considerarse el apoyo de las instituciones y organizaciones de la sociedad civil, que cuenten con una certificación de competencia del CENAPRED;
 
-> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-XV. Fomentar en la ciudadanía la cultura de la prevención en el uso y manejo de fuegos artificiales, con el fin de evitar poner en riesgo la vida, el patrimonio y daños al medio ambiente;
+XV. Fomentar en la ciudadanía la cultura de la prevención en el uso y manejo de artificios pirotécnicos y fuegos artificiales, con el fin de evitar poner en riesgo la vida, el patrimonio y daños al medio ambiente. La Coordinación Estatal efectuará recorridos de campo para realizar levantamientos de puntos de producción, almacenamiento y venta irregular de artificios pirotécnicos e integrará en su Atlas Estatal la información y georreferenciación de las principales zonas identificadas;
 
-XVI. Promover, coordinadamente con las personas morales, la constitución de mecanismos tendientes a la obtención de recursos que sirvan para fomentar una cultura de prevención de riesgos y protección civil y, en su caso, para coadyuvar en la gestión de los riesgos;
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-XVII. Promover el establecimiento de Consejos Regionales en Materia de Prevención de Desastres y el auxilio de la población en situaciones de emergencias o desastre;
+XVI. Realizar políticas públicas y programas de concientización, sensibilización y capacitación en el uso responsable de artificios pirotécnicos, así como para la difusión de recomendaciones de seguridad y la realización de campañas de educación dirigida a familias para evitar el acceso de menores a fuegos artificiales.
 
-XVIII. Promover entre las instancias competentes de los distintos órdenes de gobierno, la generación de información relativa a la prevención de riesgos y protección, que por su oportunidad, calidad y cantidad fortalezca los procesos de toma de decisiones;
+La capacitación incluirá la realización de talleres que aborden temas como las medidas de seguridad durante la manipulación, almacenamiento, venta y uso de estos productos, además de informar sobre las normativas vigentes y la importancia de adquirir productos certificados en lugares autorizados. Además, en coordinación con las Unidades de Protección Civil Municipal, verificarán que previo al uso y quema de artificios pirotécnicos los organizadores cuenten con las medidas de seguridad y permisos correspondientes;
 
-XIX. Promover la instrumentación de un Subsistema de Información sobre fenómenos perturbadores, vulnerabilidad y riesgos, que permita generar conocimiento sobre los riesgos y mantener informada oportunamente a la población;
+XVII. Promover, coordinadamente con las personas morales, la constitución de mecanismos tendientes a la obtención de recursos que sirvan para fomentar una cultura de prevención de riesgos y protección civil y, en su caso, para coadyuvar en la gestión de los riesgos;
 
-XX. Supervisar que se realicen y mantengan actualizados los Atlas Estatal y Municipales de riesgos, conforme a los lineamientos establecidos en el Reglamento de esta Ley;
+XVIII. Promover el establecimiento de Consejos Regionales en Materia de Prevención de Desastres y el auxilio de la población en situaciones de emergencias o desastre;
 
-XXI. Coordinar el apoyo y asesoría en la prevención de riesgos y desastres con las dependencias y entidades de la administración pública estatal, así como de los Poderes Legislativo y Judicial, Organismos Autónomos, Municipios, Sectores Privado y Social, con base en la suscripción de convenios;
+XIX. Promover entre las instancias competentes de los distintos órdenes de gobierno, la generación de información relativa a la prevención de riesgos y protección, que por su oportunidad, calidad y cantidad fortalezca los procesos de toma de decisiones;
 
-XXII. Promover y apoyar la capacitación de los profesionales, especialistas y técnicos en materia de gestión integral de riesgo, prevención de riesgos de desastres y protección civil;
+XX. Promover la instrumentación de un Subsistema de Información sobre fenómenos perturbadores, vulnerabilidad y riesgos, que permita generar conocimiento sobre los riesgos y mantener informada oportunamente a la población;
 
-XXIII. Promover en coordinación con los ayuntamientos la creación y construcción de infraestructura y herramientas, que permitan fortalecer la gestión integral del riesgo de desastre;
+XXI. Supervisar que se realicen y mantengan actualizados los Atlas Estatal y Municipales de riesgos, conforme a los lineamientos establecidos en el Reglamento de esta Ley;
 
-XXIV. Promover la elaboración y actualización de los programas preventivos y protección civil en el estado y municipios, procurando sean incorporados dentro de los planes de desarrollo correspondientes;
+XXII. Coordinar el apoyo y asesoría en la prevención de riesgos y desastres con las dependencias y entidades de la administración pública estatal, así como de los Poderes Legislativo y Judicial, Organismos Autónomos, Municipios, Sectores Privado y Social, con base en la suscripción de convenios;
 
-XXV. Regular, operar, actualizar y ampliar el Sistema de Alerta Sísmica para el Estado, en términos del Reglamento de la presente Ley;
+XXIII. Promover y apoyar la capacitación de los profesionales, especialistas y técnicos en materia de gestión integral de riesgo, prevención de riesgos de desastres y protección civil;
+
+XXIV. Promover en coordinación con los ayuntamientos la creación y construcción de infraestructura y herramientas, que permitan fortalecer la gestión integral del riesgo de desastre;
+
+XXV. Promover la elaboración y actualización de los programas preventivos y protección civil en el estado y municipios, procurando sean incorporados dentro de los planes de desarrollo correspondientes;
+
+XXVI. Regular, operar, actualizar y ampliar el Sistema de Alerta Sísmica para el Estado, en términos del Reglamento de la presente Ley;
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2024)</small>
 
-XXVI. Difundir e informar en tiempo real a las autoridades correspondientes y a la población en general, a través de las redes sociales oficiales y damas medios de comunicación masivos, los casos de emergencia o desastre, así como toda aquella información que permita la generación, desarrollo y consolidación de una cultura fundamentalmente de prevención de riesgos de desastres y protección civil.
+XXVII. Difundir e informar en tiempo real a las autoridades correspondientes y a la población en general, a través de las redes sociales oficiales y damas medios de comunicación masivos, los casos de emergencia o desastre, así como toda aquella información que permita la generación, desarrollo y consolidación de una cultura fundamentalmente de prevención de riesgos de desastres y protección civil.
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2023)</small>
 
-XXVII. Coordinar y regular la instalación de refugios temporales para brindar protección, alimentación y bienestar a las personas afectadas por la emergencia o desastre.
+XXVIII. Coordinar y regular la instalación de refugios temporales para brindar protección, alimentación y bienestar a las personas afectadas por la emergencia o desastre.
 
-XXVIII. Participar en la evaluación y cuantificación de los daños ocasionados por los desastres generados por fenómenos perturbadores de origen natural o humano, cuando así lo determinen las disposiciones específicas aplicables;
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
-
-XXIX. Presentar la solicitud que deberá formularse en términos de la Ley General, así como la presente Ley y su Reglamento, para que sean emitidas las correspondientes declaratorias de emergencia y desastres;
-
-XXX. Promover la creación de un fideicomiso para administrar de manera transparente toda donación destinada a la prevención de riesgos y protección civil del Estado de Oaxaca;
-
-XXXI. Promover la realización de eventos para obtener de la ciudadanía la aportación de insumos necesarios o idóneos para hacer frente a cualquier contingencia;
-
-XXXII. Participar en forma coordinada con las dependencias federales, instituciones privadas y del sector social, en la aplicación y distribución de la ayuda nacional y extranjera que se reciba en caso de emergencia o desastre;
-
-XXXIII. Fomentar y regular la integración, participación y registro de los grupos voluntarios y de aquellos que realicen actividades afines a la prevención de riesgo y protección civil, coordinando su participación en la atención a las emergencias, así como en la recuperación de la normalidad;
-
-XXXIV. Brindar asesoría, capacitación y demás servicios en materia de prevención de riesgos de desastre y protección civil, a las dependencias y entidades de la administración pública federal, estatal, municipal, sectores privados y sociales;
+XXIX. Participar en la evaluación y cuantificación de los daños ocasionados por los desastres generados por fenómenos perturbadores de origen natural o humano, cuando así lo determinen las disposiciones específicas aplicables;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XXXV. Emitir dictámenes de riesgo y vulnerabilidad en materia de prevención de riesgos de desastres y protección civil, en términos de la presente Ley y su reglamento;
+XXX. Presentar la solicitud que deberá formularse en términos de la Ley General, así como la presente Ley y su Reglamento, para que sean emitidas las correspondientes declaratorias de emergencia y desastres;
+
+XXXI. Promover la creación de un fideicomiso para administrar de manera transparente toda donación destinada a la prevención de riesgos y protección civil del Estado de Oaxaca;
+
+XXXII. Promover la realización de eventos para obtener de la ciudadanía la aportación de insumos necesarios o idóneos para hacer frente a cualquier contingencia;
+
+XXXIII. Participar en forma coordinada con las dependencias federales, instituciones privadas y del sector social, en la aplicación y distribución de la ayuda nacional y extranjera que se reciba en caso de emergencia o desastre;
+
+XXXIV. Fomentar y regular la integración, participación y registro de los grupos voluntarios y de aquellos que realicen actividades afines a la prevención de riesgo y protección civil, coordinando su participación en la atención a las emergencias, así como en la recuperación de la normalidad;
+
+XXXV. Brindar asesoría, capacitación y demás servicios en materia de prevención de riesgos de desastre y protección civil, a las dependencias y entidades de la administración pública federal, estatal, municipal, sectores privados y sociales;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XXXVI. Otorgar opinión técnica o reporte de análisis de riesgo para la emisión de la conformidad del Gobernador del Estado, para el uso y/o manejo de sustancias explosivas en la industria y en los centros artesanales, como requisito para que la Secretaría de la Defensa Nacional pueda otorgar el permiso correspondiente;
+XXXVI. Emitir dictámenes de riesgo y vulnerabilidad en materia de prevención de riesgos de desastres y protección civil, en términos de la presente Ley y su reglamento;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XXXVII. Acreditar, registrar y revalidar a las personas físicas y morales que cuenten con los conocimientos, capacidad técnica y práctica en materia de prevención de riesgos y desastres, gestión integral de riesgo y protección civil, en términos de la presente Ley y su reglamento;
+XXXVII. Otorgar opinión técnica o reporte de análisis de riesgo para la emisión de la conformidad del Gobernador del Estado, para el uso y/o manejo de sustancias explosivas en la industria y en los centros artesanales, como requisito para que la Secretaría de la Defensa Nacional pueda otorgar el permiso correspondiente;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XXXVIII. Conceder, negar o revocar la acreditación y registro de personas físicas o morales, para ejercer la actividad de asesoría y capacitación, así como para emitir dictámenes de riesgo y vulnerabilidad en materia de prevención de riesgos y protección civil en términos de la presente Ley y su Reglamento;
-
-XXXIX. Brindar asesoría para la conformación de las Unidades Internas de Protección Civil, los comités sectoriales de prevención de riesgos de desastres, así como los Comités de Seguridad y Emergencia Escolar, en las dependencias y entidades de la Administración Pública del Estado, así como en las instituciones y organismos de los sectores social y privado;
+XXXVIII. Acreditar, registrar y revalidar a las personas físicas y morales que cuenten con los conocimientos, capacidad técnica y práctica en materia de prevención de riesgos y desastres, gestión integral de riesgo y protección civil, en términos de la presente Ley y su reglamento;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XL. Autorizar, supervisar y revalidar, o en su caso reponer las constancias de los Programas Internos, de Seguridad y Emergencia Escolar, así como los Especiales y los Planes Hospitalarios de Emergencias y Desastres, de Prevención de Riesgos y Protección Civil, en términos de esta Ley y su Reglamento;
+XXXIX. Conceder, negar o revocar la acreditación y registro de personas físicas o morales, para ejercer la actividad de asesoría y capacitación, así como para emitir dictámenes de riesgo y vulnerabilidad en materia de prevención de riesgos y protección civil en términos de la presente Ley y su Reglamento;
+
+XL. Brindar asesoría para la conformación de las Unidades Internas de Protección Civil, los comités sectoriales de prevención de riesgos de desastres, así como los Comités de Seguridad y Emergencia Escolar, en las dependencias y entidades de la Administración Pública del Estado, así como en las instituciones y organismos de los sectores social y privado;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+XLI. Autorizar, supervisar y revalidar, o en su caso reponer las constancias de los Programas Internos, de Seguridad y Emergencia Escolar, así como los Especiales y los Planes Hospitalarios de Emergencias y Desastres, de Prevención de Riesgos y Protección Civil, en términos de esta Ley y su Reglamento;
 
 En caso de incumplimiento u omisión de algunos de los lineamientos establecidos por los Sistemas Nacional, Estatal y Municipal se revocarán los documentos con validez oficial que se hayan autorizado de los programas en materia de prevención de riesgos de desastres y protección civil;
 
-XLI. Atender la práctica de simulacros en los establecimientos públicos y privados, que permitan orientar y auxiliar a la población en caso de siniestro y de estado de emergencia;
+XLII. Atender la práctica de simulacros en los establecimientos públicos y privados, que permitan orientar y auxiliar a la población en caso de siniestro y de estado de emergencia;
 
-XLII. Realizar cursos, talleres, seminarios, foros, orientados a la prevención y reducción del (sic) riesgos de desastre y simulacros dirigidos a todos los sectores de la población, públicos y privados que permitan mejorar la capacidad en la materia de los Sistemas Estatal y Municipales de Protección Civil;
+XLIII. Realizar cursos, talleres, seminarios, foros, orientados a la prevención y reducción del (sic) riesgos de desastre y simulacros dirigidos a todos los sectores de la población, públicos y privados que permitan mejorar la capacidad en la materia de los Sistemas Estatal y Municipales de Protección Civil;
 
-XLIII. Identificar a las personas físicas y morales, tanto públicas como privadas, que por sus características específicas y operaciones representen un riesgo para la población;
+XLIV. Identificar a las personas físicas y morales, tanto públicas como privadas, que por sus características específicas y operaciones representen un riesgo para la población;
 
-XLIV. Practicar visitas de inspección a fin de vigilar el cumplimiento de las disposiciones estatales en materia de prevención de riesgos y protección civil;
+XLV. Practicar visitas de inspección a fin de vigilar el cumplimiento de las disposiciones estatales en materia de prevención de riesgos y protección civil;
 
-XLV. Emprender las medidas necesarias para evitar que cualquier acción u omisión de personas físicas o morales, públicas o privadas, pongan en peligro la vida, la propiedad y el medio ambiente de los habitantes del Estado, implementando las medidas de seguridad o sanciones que procedan; lo anterior sin perjuicio de lo que establezcan otras disposiciones legales aplicables;
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
-
-XLVI. En el ámbito de su competencia y en coordinación con las dependencias y entidades responsables, integrar en el Atlas de Riesgos correspondiente, la cartografía e información del ordenamiento ecológico regional del territorio del Estado de Oaxaca;
-
-XLVII. Expedir certificados, opiniones, constancias y diplomas de conformidad con la presente Ley, su Reglamento y demás ordenamientos aplicables;
-
-XLVIII. Promover los convenios con personas y organismos e instituciones públicas privadas y sociales en materia de prevención de riesgos y protección civil;
+XLVI. Emprender las medidas necesarias para evitar que cualquier acción u omisión de personas físicas o morales, públicas o privadas, pongan en peligro la vida, la propiedad y el medio ambiente de los habitantes del Estado, implementando las medidas de seguridad o sanciones que procedan; lo anterior sin perjuicio de lo que establezcan otras disposiciones legales aplicables;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-XLIX. Participar en la Comisión Intersectorial y su Comité Técnico de cambio climático, y el seguimiento a sus programas, planes y acuerdos, vinculado a la Ley Estatal de Cambio Climático;
+XLVII. En el ámbito de su competencia y en coordinación con las dependencias y entidades responsables, integrar en el Atlas de Riesgos correspondiente, la cartografía e información del ordenamiento ecológico regional del territorio del Estado de Oaxaca;
+
+XLVIII. Expedir certificados, opiniones, constancias y diplomas de conformidad con la presente Ley, su Reglamento y demás ordenamientos aplicables;
+
+XLIX. Promover los convenios con personas y organismos e instituciones públicas privadas y sociales en materia de prevención de riesgos y protección civil;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-L. Proponer la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de desastres;
+L. Participar en la Comisión Intersectorial y su Comité Técnico de cambio climático, y el seguimiento a sus programas, planes y acuerdos, vinculado a la Ley Estatal de Cambio Climático;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
+LI. Proponer la adquisición de equipo especializado de transporte, comunicación, alertamiento y atención de desastres;
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-LI. La Coordinación Estatal y las Coordinaciones Municipales supervisarán y participarán de forma coordinada en los eventos o espectáculos públicos, funciones y diversiones de tipo cultural, artístico, deportivo, recreativo y otros donde se lleve a cabo la afluencia o concentración masiva de personas con los organizadores, encargados, interesados, o quien haga las veces de éstos, con el objeto de asegurar se apliquen las medidas y recomendaciones en materia de prevención integral de riesgos y protección civil que se establecen en los programas especiales con la finalidad de prevenir la seguridad pública, la seguridad de los habitantes y la asistencia médica, para la prevención de desastres;
+LII. La Coordinación Estatal y las Coordinaciones Municipales supervisarán y participarán de forma coordinada en los eventos o espectáculos públicos, funciones y diversiones de tipo cultural, artístico, deportivo, recreativo y otros donde se lleve a cabo la afluencia o concentración masiva de personas con los organizadores, encargados, interesados, o quien haga las veces de éstos, con el objeto de asegurar se apliquen las medidas y recomendaciones en materia de prevención integral de riesgos y protección civil que se establecen en los programas especiales con la finalidad de prevenir la seguridad pública, la seguridad de los habitantes y la asistencia médica, para la prevención de desastres;
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-LII. Asesorar y validar los programas municipales;
+LIII. Asesorar y validar los programas municipales;
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-LIII. Hacer efectivas las multas por infracciones a las disposiciones contenidas en la presente Ley.
+LIV. Hacer efectivas las multas por infracciones a las disposiciones contenidas en la presente Ley.
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2023)</small>
 
-LIV. La Coordinación Estatal deberá rendir e integrar la información relacionada con los avances de gestión e indicadores del programa presupuestario y remitirlos a la Secretaría de Finanzas para su integración a los informes y Cuenta Pública a que se refiere la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca, en los términos señalados por la Ley de Contabilidad Gubernamental y los acuerdos emitidos por el Consejo Nacional de Armonización Contable;
+LV. La Coordinación Estatal deberá rendir e integrar la información relacionada con los avances de gestión e indicadores del programa presupuestario y remitirlos a la Secretaría de Finanzas para su integración a los informes y Cuenta Pública a que se refiere la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca, en los términos señalados por la Ley de Contabilidad Gubernamental y los acuerdos emitidos por el Consejo Nacional de Armonización Contable;
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-LV. Emitir oficios de trámite y vialidad de los programas internos de protección civil para los sectores públicos y privados en términos de esta Ley y su Reglamento;
+LVI. Emitir oficios de trámite y vialidad de los programas internos de protección civil para los sectores públicos y privados en términos de esta Ley y su Reglamento;
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
-LVI.- Expedir nombramientos internos y honoríficos de los delegados regionales de protección civil en el Estado; y
+LVII.- Expedir nombramientos internos y honoríficos de los delegados regionales de protección civil en el Estado; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE FEBRERO DE 2023)</small>
 
-LVII. Promover y coordinar, con la Federación, los Municipios instituciones privadas y el sector social, la constitución de mecanismos tendientes a la obtención y donación de alimentos para ser entregados a las personas afectadas por los desastres naturales; y
+LVIII. Promover y coordinar, con la Federación, los Municipios instituciones privadas y el sector social, la constitución de mecanismos tendientes a la obtención y donación de alimentos para ser entregados a las personas afectadas por los desastres naturales; y
 
 > <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2025)</small>
 
-LVIII. Comprar o arrendar maquinaria, así como vehículos necesarios para el cumplimiento de su objeto, tendientes a la mejora de la infraestructura que represente un riesgo a la seguridad de los habitantes, así como para la prevención de desastres.
+LIX. Comprar o arrendar maquinaria, así como vehículos necesarios para el cumplimiento de su objeto, tendientes a la mejora de la infraestructura que represente un riesgo a la seguridad de los habitantes, así como para la prevención de desastres.
 
 > <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2025)</small>
 
-LIX. Apoyar con maquinaria y equipo a los municipios en las tareas de mantenimiento, mejora de la infraestructura que represente un riesgo a la seguridad de los habitantes, así como para la prevención de desastres.
+LX. Apoyar con maquinaria y equipo a los municipios en las tareas de mantenimiento, mejora de la infraestructura que represente un riesgo a la seguridad de los habitantes, así como para la prevención de desastres.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE FEBRERO DE 2023)</small>
 
-LX. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
+LXI. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
@@ -2416,3 +2426,11 @@ P.O. 23 DE MAYO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1582.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XV DEL ARTÍCULO 35; Y SE ADICIONA LA FRACCIÓN IV RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, AL ARTÍCULO 34, Y LA FRACCIÓN XVI RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 35, TODOS DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA; REFORMA EL ARTÍCULO 163; Y SE ADICIONA LA FRACCIÓN VI, A LA BASE F DEL ARTÍCULO 43, Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 163, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
