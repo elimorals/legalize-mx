@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2026-07-25"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -507,7 +507,9 @@ Son atribuciones del Ayuntamiento:
 
 A. En materia de gobierno y régimen interior
 
-I. Expedir y reformar los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de su ámbito territorial; que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal de acuerdo con la Constitución Política del Estado de Oaxaca, esta Ley y las demás leyes en materia municipal que expida el Congreso del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+I. Aprobar y modificar bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general dentro del ámbito territorial por el que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia. Aprobar y expedir reformas a las disposiciones arriba citadas que le sean turnadas en carácter de iniciativas ciudadanas y que versen exclusivamente sobre asuntos vecinales.
 
 Tratándose del Bando de Policía y Gobierno, y reglamentos deberán ser aprobados y publicados o, en su caso, ratificados o actualizados los vigentes dentro de los 90 días siguientes a su toma de posesión, debiendo remitirlo al Congreso del Estado para su conocimiento; así como de cualquier modificación durante la gestión municipal;
 
@@ -609,7 +611,9 @@ II. Elaborar y aprobar su Presupuesto Anual de Egresos de conformidad con la Con
 
 III. Presupuestar y asignar de forma inmediata y transparente, la partida que cubra el pago de las obligaciones condenadas en sentencias o laudos;
 
-IV. Celebrar los correspondientes contratos de prestación de servicios profesionales, tratándose de contratación de asesores externos en materia jurídica, técnica de obra y contable, preferentemente con aquellos que se encuentren debidamente registrados en el padrón que para tal efecto deberá crear y administrar la Auditoría Superior de Fiscalización del Estado, de conformidad con las reglas establecidas en los lineamientos que para tal efecto emita y en el cual invariablemente contará con una cláusula de penalización por incumplimiento;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+IV. Celebrar los correspondientes contratos de prestación de servicios profesionales, la firma de un contrato será obligatoria en todos los casos en que los ayuntamientos decidan contratar asesores externos en áreas jurídicas, técnicas de obra, contables u otras, debiendo cumplir, sin excepción, con las formalidades establecidas en la ley con sujeción a lo dispuesto en la normativa aplicable, tal acto podrá realizarse preferentemente con aquellos que se encuentran debidamente registrados en el padrón que para tal efecto deberá crear y administrar la Auditoría Superior de Fiscalización del Estado de Oaxaca, de conformidad con las reglas establecidas en los lineamientos que para tal efecto emita y en el cual invariablemente contará con una cláusula de penalización por incumplimiento.
 
 Los prestadores de servicios profesionales que celebren contratos en los términos de esta fracción, serán responsables de los daños y perjuicios ocasionados a la Hacienda Pública Municipal derivado del incumplimiento de las obligaciones establecidas en los contratos respectivos, por lo que deberán señalarse de manera puntual los servicios profesionales que los asesores externos prestarán.
 
@@ -717,6 +721,10 @@ IV. Formular e instrumentar en coordinación con la Secretaría y la Dirección 
 
 V. Constituir y operar el Consejo de Protección Civil Municipal, y llevar a las medidas y acciones que promuevan los sistemas nacional y estatal de protección civil, para garantizar la seguridad de la población en caso de emergencias o de siniestros; promoviendo la elaboración del Atlas de Riesgos Municipal a fin de ubicar las situaciones de riesgo en su jurisdicción;
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+VI. Coordinar con la autoridad estatal acciones de prevención y mitigación para reducir el riesgo por el manejo de artificios pirotécnicos;
+
 G. En materia ambiental
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2025)</small>
@@ -748,6 +756,10 @@ VIII. Integrar e implementar planes, programas y proyectos en materia de Econom�
 > <small>(ADICIONADA, P.O. 10 DE ENERO DE 2026)</small>
 
 IX. Promover la protección y bienestar de los animales como parte esencial del equilibrio ecológico, garantizando su trato digno y respetuoso, impulsando campañas de concientización, programas de esterilización, vacunación y control poblacional de fauna doméstica y silvestre en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+X. Coordinar y colaborar con las autoridades educativas y ambientales estatales en la implementación, seguimiento y supervisión de los programas de reforestación escolar en el ámbito municipal, asegurando la disponibilidad de los espacios adecuados, la participación de las comunidades y el uso de especies nativas o adaptadas a las condiciones ecológicas locales. Las acciones desarrolladas en el marco de dichos programas deberán integrarse a las políticas municipales de protección ambiental, restauración ecológica y fortalecimiento de la cultura ambiental comunitaria.
 
 H. En materia de salud pública
 
@@ -1129,6 +1141,10 @@ XXVII.- Las demás que apruebe el Ayuntamiento.
 
 La Comisión de Hacienda estará integrada por el Presidente, el Síndico y el Regidor de Hacienda; será presidida por el Presidente Municipal. Las demás comisiones estarán presididas por el regidor de la materia; y los demás integrantes de dichas comisiones se insacularán de entre de (sic) los regidores de mayoría relativa y representación proporcional.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+En los municipios con población de más de cien mil habitantes se integrará la comisión de protección animal.
+
 ###### ARTÍCULO 57.
 
 Podrán crearse comisiones especiales para atender asuntos específicos, situaciones emergentes, eventuales o de cualquier otra índole y se integrarán con los miembros que el Ayuntamiento determine.
@@ -1501,9 +1517,9 @@ XIII. Ejecutar, administrar, vigilar y evaluar la formulación e instrumentos de
 
 XIV.- Elaborar el Plan Municipal de Desarrollo incorporando los principios de igualdad, no discriminación, perspectiva de género y derechos humanos, dentro de los seis primeros meses de su administración, así como los programas anuales de obras y servicios públicos y someterlos al Ayuntamiento para su aprobación;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-XV.- Promover y vigilar la organización e integración del Concejo de Desarrollo Social Municipal; atendiendo a la paridad de género y en atención a los grupos en situación de vulnerabilidad.
+XV.- Elaborar el Plan Municipal de Desarrollo incorporando los principios de igualdad, no discriminación, perspectiva de género y derechos humanos, además de programas de fomento a la lectura, dentro de los seis primeros meses de su administración, así como los programas anuales de obras y servicios públicos y someterlos al Ayuntamiento para su aprobación;
 
 XVI.- Promover la integración del Concejo Municipal de Protección Civil;
 
@@ -1573,7 +1589,7 @@ XXXI.- Celebrar convenios con autoridades fiscales estatales o municipales para 
 
 XXXII.- Tramitar y resolver las solicitudes de aclaración a que se refiriere el artículo 34 del Código Fiscal Municipal del Estado de Oaxaca; y
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XXXIII, VÉASE PUBLICACIÓN OFICIAL DE FECHA 13 DE NOVIEMBRE DE 2021.]</small>
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XXXIII, VÉASE PUBLICACIÓN OFICIAL DE FECHA 13 DE NOVIEMBRE DE 2021]</small>
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
 
@@ -1659,7 +1675,9 @@ VI.- Asistir con derecho de voz y voto a las sesiones del Cabildo;
 
 VII.- Formar parte de la Comisión de Hacienda Pública Municipal, y aquellas otras que le hayan sido asignadas;
 
-VIII.- Proponer al Ayuntamiento la formulación, modificaciones o reformas a los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de su ámbito territorial;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+VIII.- Proponer al Ayuntamiento la formulación, modificaciones o reformas a los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general que le presenten los integrantes del Cabildo y aquellas que le hagan llegar los habitantes en carácter de iniciativa ciudadana en materia vecinal;
 
 IX.- Intervenir en la formulación del inventario general de los bienes muebles e inmuebles propiedad del Municipio, promoviendo la inclusión de los que se hayan omitido, y haciendo que se inscriban en el libro especial con la expresión real de sus valores y las características de identificación, así como el destino de los mismos;
 
@@ -1711,9 +1729,9 @@ XX.- Atender los requerimientos de información del Contralor Interno Municipal 
 
 XXI.- Informar a la población, sobre las acciones realizadas en el marco de sus atribuciones, en la sesión pública solemne a que hace referencia el artículo 68 Fracción VIII de esta Ley.
 
-> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-XXII.- Emitir las órdenes de protección idóneas, para salvaguardar la integridad de las mujeres y niñas que se encuentren viviendo cualquier tipo de violencia de género, y realizar las gestiones necesarias para garantizar su cumplimiento y ejecución de conformidad con lo dispuesto en la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género; y
+XXII.- Emitir las órdenes de protección idóneas, para salvaguardar la integridad de las niñas, adolescentes y mujeres, que se encuentren viviendo cualquier tipo de violencia de género, realizar las gestiones necesarias para garantizar su cumplimiento y ejecución de conformidad con lo dispuesto en la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género; e identificar si la persona requiere de intérprete o traductora, para lo cual contactará a una intérprete o bien, a una promotora comunitaria; y
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2021)</small>
 
@@ -1779,9 +1797,9 @@ Los Regidores tendrán facultades de inspección y vigilancia en las materias a 
 
 La denominación de cada regiduría corresponderá a la materia que tenga a su cargo, la cual se designará en la primera sesión de Cabildo y solo podrá cambiarse de titular por renuncia o por causa que deberá calificarse por acuerdo de la mayoría calificada de los integrantes del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2026)</small>
 
-El Ayuntamiento establecerá en sus respectivos bandos de policía y gobierno así como en los reglamentos municipales las denominaciones o materias de las regidurías, mismas que se harán atendiendo a las necesidades reales del municipio, señalando además las funciones y/o atribuciones de la Regiduría.
+El Ayuntamiento establecerá en sus respectivos bandos de policía y gobierno, así como en los reglamentos municipales las denominaciones o materias de las regidurías, mismas que se harán atendiendo a las necesidades reales del municipio, las propuestas que le solicite la población en materia vecinal a través de la iniciativa ciudadana.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2025)</small>
 
@@ -2911,6 +2929,10 @@ VIII.- Que la normatividad de la administración y de los servicios públicos mu
 
 IX.- Que incluyan un capítulo sobre recursos de inconformidad que permita a los particulares impugnar actos de autoridad.
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+X.- Que permitan y regulen un procedimiento para que la población presente iniciativas ciudadanas a reglamentos o reformas a disposiciones municipales en materia vecinal.
+
 ###### ARTÍCULO 135.
 
 En la medida que se modifiquen las condiciones socioeconómicas del Municipio, en virtud de su crecimiento demográfico, surgimiento y desarrollo de actividades productivas, transformación de las condiciones políticas y múltiples aspectos de la vida comunitaria, el Ayuntamiento deberá adecuar sus ordenamientos, con el fin de preservar su autoridad institucional y propiciar el desarrollo armónico de la sociedad.
@@ -3219,11 +3241,15 @@ En cada Municipio se integrará un Consejo Municipal, que será un órgano de co
 
 La integración y facultades de los Consejos Municipales estarán determinadas por la Ley de Protección Civil y Gestión Integral de Riesgos de Desastres para el Estado de Oaxaca.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2026)</small>
 
 ###### ARTÍCULO 163.
 
-Cada Municipio establecerá una Unidad de Protección Civil, la cual estará obligada a capacitarse por lo menos una vez cada año, de forma virtual o presencial, misma que tendrá las atribuciones que determine la Ley de la materia.
+Cada Municipio establecerá una Unidad de Protección Civil, la cual estará obligada a capacitarse por lo menos una vez cada año, de forma virtual o presencial, misma que tendrá las atribuciones que determine la Ley de la materia, incluidas las relativas a las acciones de prevención y control en el uso y manejo de artificios pirotécnicos y fuegos artificiales, con el fin de prevenir accidentes y evitar poner en riesgo la vida, el patrimonio y daños al medio ambiente, para lo cual, verificará que, previo al uso y quema de artificios pirotécnicos, los organizadores cuenten con las medidas de seguridad y permisos correspondientes.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+Las Unidades de Protección Civil efectuarán recorridos de campo en su jurisdicción para realizar levantamientos de puntos de producción, almacenamiento y venta irregular de artificios pirotécnicos e integrará en su Atlas Municipal la información y georreferenciación de las principales zonas identificadas.
 
 ### CAPÍTULO VIII. DE LA CRÓNICA MUNICIPAL
 
@@ -5128,3 +5154,65 @@ P.O. 25 DE JULIO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado del Oaxaca.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1576.- MEDIANTE EL CUAL ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. En un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, los Ayuntamientos del Estado deberán modificar las disposiciones normativas correspondientes para instalar la Comisión de Protección al Bienestar Animal.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1577.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN X AL APARTADO G DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.p
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1578.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN IV DEL APARTADO D DEL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Comuníquese el presente Decreto a las instancias correspondientes para los efectos legales a que haya lugar.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1582.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XV DEL ARTÍCULO 35; Y SE ADICIONA LA FRACCIÓN IV RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, AL ARTÍCULO 34, Y LA FRACCIÓN XVI RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 35, TODOS DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA; REFORMA EL ARTÍCULO 163; Y SE ADICIONA LA FRACCIÓN VI, A LA BASE F DEL ARTÍCULO 43, Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 163, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1598.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN I DEL APARTADO A DEL ARTÍCULO 43, LA FRACCIÓN VIII DEL ARTÍCULO 71, EL TERCER PÁRRAFO DEL ARTÍCULO 75; Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 134, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1599.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 71 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Comuníquese el presente Decreto a las instancias correspondientes para los efectos legales a que haya lugar.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1600.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XV DEL ARTÍCULO 68 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
