@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2025-10-25"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -289,9 +289,11 @@ IV. A la certeza jurídica, que incluye:
 
 a) Gozar de la presunción de ser persona adulta mayor, salvo prueba en contrario;
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2026)</small>
 
-b) Simplificar, brindar apoyo y dar mayor celeridad en la realización de las diligencias y trámites que se ordenen;
+b) Recibir procedimientos claros, accesibles y expeditos en la realización de trámites, gestiones y servicios, garantizando apoyos administrativos, tecnológicos y de acompañamiento que faciliten su atención y reduzcan cualquier obstáculo que limite el ejercicio pleno de sus derechos.
+
+Las instituciones públicas y privadas deberán implementar medidas específicas para asegurar accesibilidad física, tecnológica y comunicacional, salvaguardando la integridad física y psicológica de las personas adultas mayores en todo proceso.
 
 c) Participar y ser ampliamente informado de todo procedimiento administrativo o judicial, que afecte su esfera personal, familiar, económica o social;
 
@@ -453,9 +455,11 @@ XII. Todas aquellas que se establezcan en esta Ley y demás ordenamientos aplica
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LAS INSTITUCIONES SOCIALES Y PRIVADAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 12.
 
-Las instituciones sociales y privadas cuyo objeto preponderante sea la atención a las personas adultas mayores, tendrán los siguientes derechos y obligaciones:
+Las instituciones públicas y privadas, tendrán los siguientes derechos y obligaciones:
 
 I. Fomentar una cultura de trato digno a las personas adultas mayores, favorecer su revaloración y plena integración social, así como procurar una mayor sensibilidad, conciencia social, respeto, solidaridad y convivencia entre generaciones, con el fin de evitar toda forma de discriminación, descuido, abandono o indiferencia por motivo de su edad, estado físico o mental;
 
@@ -477,9 +481,13 @@ V. Participar en los programas públicos que establezcan las autoridades en bene
 
 VI. Denunciar ante la autoridad competente los casos que sean de su conocimiento sobre discriminación, abandono, desamparo, marginación, abuso, explotación, despojo o violencia contra personas adultas mayores;
 
-VII. Establecer áreas o espacios informativos relativos a la oferta laboral para las personas adultas mayores, en la propia institución, en sector productivo distinto o en las bolsas de trabajo estatales o municipales; y
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-VIII. Todas aquellas que se establezcan en esta Ley y demás ordenamientos aplicables.
+VII. Brindar todas las facilidades administrativas, tecnológicas, operativas y de acceso físico a las personas adultas mayores para realizar cualquier trámite, gestión o solicitud de servicio. Estas facilidades deberán incluir apoyos para el uso de tecnologías, accesos preferentes, mecanismos de acompañamiento, claridad en la información y personal capacitado para atender a las personas adultas mayores, con el fin de salvaguardar su integridad física y psicológica y evitar cualquier acción que limite, obstaculice o ponga en riesgo sus derechos.
+
+VIII. Establecer áreas o espacios informativos relativos a la oferta laboral para las personas adultas mayores, en la propia institución, en sector productivo distinto o en las bolsas de trabajo estatales o municipales; y
+
+IX. Todas aquellas que se establezcan en esta Ley y demás ordenamientos aplicables.
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES GENÉRICAS DE LAS AUTORIDADES
 
@@ -531,9 +539,15 @@ IV. Recibir quejas, denuncias e informes, sobre la violación de los derechos de
 
 V. Proporcionar información y asesoría, así como el apoyo necesario sobre los servicios y trámites que presten a favor de las personas adultas mayores y adoptar las medidas necesarias que permitan su simplificación.
 
-VI. Difundir entre las personas adultas mayores y en la sociedad en general, el contenido de la presente Ley y de otras disposiciones aplicables; e
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-VII. Integrar y mantener actualizado el registro de personas adultas mayores con los datos e información establecida en el artículo 5 de esta Ley.
+VI. Supervisar, coordinar y establecer lineamientos para que las instituciones públicas y privadas implementen facilidades administrativas, tecnológicas, operativas y de acceso físico dirigidas a las personas adultas mayores, garantizando que estas medidas se apliquen en todos los trámites y servicios.
+
+Las autoridades deberán asegurar que se establezcan mecanismos de accesibilidad universal, capacitación continua del personal y procesos que reduzcan cargas administrativas y riesgos físicos o psicológicos para las personas adultas mayores.
+
+VII. Difundir entre las personas adultas mayores y en la sociedad en general, el contenido de la presente Ley y de otras disposiciones aplicables; e
+
+VIII. Integrar y mantener actualizado el registro de personas adultas mayores con los datos e información establecida en el artículo 5 de esta Ley.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES Y OBLIGACIONES PARTICULARES DE LAS AUTORIDADES ESTATALES
 
@@ -1124,3 +1138,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. El cumplimiento del Decreto estará sujeto a la capacidad presupuestaria y disponibilidad financiera del Gobierno del Estado de Oaxaca, para analizar, planear, diseñar e implementar las políticas pública orientadas a solventar las necesidades de las personas adultas mayores.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1572.- MEDIANTE EL CUAL REFORMA EL INCISO B) DE LA FRACCIÓN IV DEL ARTÍCULO 9, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 12; SE ADICIONA LA FRACCIÓN VII RECORRIENDO EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 12, Y LA FRACCIÓN VI RECORRIENDO EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 14, DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
