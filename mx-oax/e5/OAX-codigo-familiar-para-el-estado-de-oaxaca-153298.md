@@ -4,7 +4,7 @@ identifier: "OAX-codigo-familiar-para-el-estado-de-oaxaca-153298"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-12-04"
-last_updated: "2026-07-25"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Código publicado en la Décima Primera Sección del Número 49 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2021.
 
@@ -1778,6 +1778,14 @@ A efecto de que la niña, niño o adolescente sea adecuadamente escuchado, deber
 Dicho asistente será designado por el Sistema Estatal para el Desarrollo Integral de la Familia o la Dirección de Servicios Periciales del Tribunal y tendrá la facultad de solicitar hasta dos entrevistas previas a la escucha del menor, siendo obligatorio para el progenitor que tenga su guarda y custodia dar cumplimiento a sus requerimientos.
 
 Si en la escucha, la niña, niño o adolescente manifestaré la negativa de convivir con uno de sus progenitores, el órgano jurisdiccional suspenderá provisionalmente la convivencia y ordenará las medidas y el desahogo de pruebas que considere necesarias para asegurar la estabilidad y desarrollo integral del mismo, levantando dicha medida una vez asegurado que no exista una situación de riesgo o las condiciones sean favorables para la convivencia.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+Las audiencias de escucha a que se refiere el presente artículo serán videograbadas para evitar la repetición y revictimización en el proceso de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+Las videograbaciones se realizarán con las medidas de seguridad que garanticen la protección de los datos personales sensibles y deben ser resguardadas con absoluta discrecionalidad, atendiendo a los principios de confidencialidad y privacidad.
 
 ###### Artículo 271.
 
@@ -5862,3 +5870,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su Publicación.
 
 TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1571.- MEDIANTE EL CUAL ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 270 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
