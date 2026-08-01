@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-planeacion-del-estado-de-oaxaca-112059"
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-09"
-last_updated: "2023-04-08"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PLANEACIÓN DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de enero de 2016.
 
@@ -121,9 +121,9 @@ XXVII. Objetivos institucionales: Elementos de planeación estratégica y compro
 
 XXVIII. PED: Plan Estatal de Desarrollo, instrumento rector de la Planeación Estatal en el largo, mediano y el corto plazo;
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-XXIX. Perspectiva de Género: Visión científica, analítica y política sobre las mujeres y los hombres que propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres y los hombres contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
+XXIX. Perspectiva de Género: Visión científica, analítica y política sobre las mujeres y los hombres que propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad sustantiva entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres y los hombres contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los bienes, beneficios, recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
 
 XXX. Planes: Comprende el Plan Estatal de Desarrollo (PED), los Planes Estratégicos Sectoriales, Regionales, Microrregionales, Institucionales, Especiales y Municipales que establece esta Ley;
 
@@ -175,9 +175,11 @@ La Planeación Estatal deberá sujetarse a lo dispuesto en el Sistema Nacional d
 
 Es responsabilidad del Poder Ejecutivo del Estado conducir la Planeación Estatal del Desarrollo mediante esquemas de participación democrática.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 7.
 
-La Planeación Estatal es una función permanente, de carácter técnico, estandarizada, sistemática y transversal a la Administración Pública Estatal y Municipal, que incorpora las perspectivas indígena, ambiental y de género, así como la gestión integral de riesgo en la identificación de objetivos de política y prioridades de intervención del Gobierno Estatal tendientes a promover el desarrollo, a proporcionar una orientación estratégica al gasto público y a las acciones del Poder Ejecutivo Estatal.
+La Planeación Estatal es una función permanente, de carácter técnico, estandarizada, sistemática y transversal a la Administración Pública Estatal y Municipal, que incorpora las perspectivas intercultural indígena y afromexicana, ambiental, de género y de derechos humanos, con la finalidad de impulsar la igualdad sustantiva y la inclusión de grupos en situación de vulnerabilidad, así como la gestión integral de riesgo en la identificación de objetivos de política y prioridades de intervención del Gobierno Estatal tendientes a promover el desarrollo equitativo, incluyente, integral y sostenible, a proporcionar una orientación estratégica al gasto público y a las acciones del Poder Ejecutivo Estatal.
 
 A través de la planeación se fijarán objetivos y metas de desempeño estatal de corto, mediano y largo plazo, se programarán recursos, responsabilidades y tiempos de ejecución, se coordinarán acciones, se garantizará la disponibilidad de información desagregada de acuerdo a los requerimientos mínimos establecidos y se evaluarán resultados.
 
@@ -1418,3 +1420,13 @@ P.O. 8 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1079.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN III DEL ARTÍCULO 2, EL ARTÍCULO 66 Y EL ARTÍCULO 112 DE LA LEY ESTATAL DE PLANEACIÓN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1585.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXIX DEL ARTÍCULO 2 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 7 DE LA LEY ESTATAL DE PLANEACIÓN”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan derogadas las disposiciones jurídicas de igual o menor jerarquía normativa que se opongan a lo establecido en el presente Decreto.
