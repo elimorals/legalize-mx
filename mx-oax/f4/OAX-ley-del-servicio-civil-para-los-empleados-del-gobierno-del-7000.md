@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2026-01-03"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -227,9 +227,15 @@ Se otorgará a las y los empleados un permiso con goce de sueldo de cinco días 
 
 Para efectos de la anterior, el empleado deberá hacerlo del conocimiento a su superior jerárquico, por la vía que considere más oportuna, el primer día de su ausencia y deberá exhibir copia simple del documento en que conste tal suceso, en un plazo no mayor de quince días naturales a partir del primer día hábil de su reingreso.
 
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2026)</small>
 
-ARTICULO 21 QUÁTER.- A las mujeres trabajadoras y personas menstruantes que presentan dismenorrea en grado incapacitante, avalado con constancia o certificado médico de institución pública de salud, se le otorgarán dos días de permiso durante su periodo menstrual.
+ARTICULO 21 QUÁTER.- A las mujeres trabajadoras y personas menstruantes que presenten un diagnóstico de endometriosis o patologías uterinas que causen dismenorrea primaria o secundaria, avalado con constancia o certificado médico de institución pública o privada de salud, se le otorgarán dos días de permiso atendiendo al comportamiento de su período menstrual.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+Cuando la constancia o certificado médico sea expedido por una institución privada de salud, deberá contener el nombre y número de cédula profesional de la persona médica que lo expida, la fecha de emisión y la descripción del estado de salud de la persona trabajadora. Además, la persona trabajadora deberá manifestar la imposibilidad material o justificada para acudir a una institución pública de salud.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2024)</small>
 
 Este permiso no afectará salario, antigüedad, pago de primas, vacaciones, incentivos u otro derecho laboral adquirido.
 
@@ -1248,3 +1254,13 @@ P.O. 3 DE ENERO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1620.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO, SE ADICIONA UN SEGUNDO PÁRRAFO Y SE RECORRE EL SUBSECUENTE DEL ARTÍCULO 21 QUÁTER DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en Periódico Oficial del Estado.
+
+TERCERO. Se deroga cualquier disposición legal de igual o menor jerarquía que se oponga al presente decreto.
