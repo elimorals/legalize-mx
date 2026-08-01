@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-desarrollo-economico-del-estado-de-oaxaca-175616"
 country: "mx"
 rank: "ley"
 publication_date: "2024-10-12"
-last_updated: "2024-10-12"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en la Décima Sexta Sección del Número 41 del Periódico Oficial del Estado de Oaxaca, el sábado 12 de octubre de 2024.
 
@@ -197,9 +197,15 @@ X. Promover e impulsar las actividades artesanales y el arte popular oaxaqueño,
 
 XI. Impulsar ferias de emprendimiento infantil, juvenil y artesanales, así como exposiciones, congresos y eventos similares que promuevan el comercio local de los productores y prestadores de servicios;
 
-XII. Conformar Comités, Órganos Consultivos y de Enlace que resulten necesarios para la atención y seguimiento de los compromisos y/o políticas que adopte el Titular del Poder Ejecutivo en materia de desarrollo económico, siendo obligatoria la participación de las Dependencias y Entidades que resulten competentes; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-XIII. Las demás que le confieran esta Ley y otras disposiciones jurídicas aplicables.
+XII. Conformar Comités, Órganos Consultivos y de Enlace que resulten necesarios para la atención y seguimiento de los compromisos y/o políticas que adopte el Titular del Poder Ejecutivo en materia de desarrollo económico, siendo obligatoria la participación de las Dependencias y Entidades que resulten competentes;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XIII. Coordinarse con las dependencias y entidades para fortalecer la presencia comercial del sector agropecuario en el exterior y la atracción de inversión y tecnología, sin perjuicio de las acciones que a nivel federal o estatal realice la Secretaría de Fomento Agroalimentario y Desarrollo Rural para el mismo fin; y
+
+XIV. Las demás que le confieran esta Ley y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 7.
 
@@ -678,3 +684,13 @@ CUARTO. El Titular del Poder Ejecutivo del Estado de Oaxaca, deberá emitir el R
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 18 de Septiembre de 2024.- Dip. Samuel Gurrión Matías, Presidente.- Dip. Juana Aguilar Espinoza, Vicepresidenta.- Dip. Rosalinda López García, Secretaria.- Dip. Lizbeth Anaid Concha Ojeda, Secretaria.- Dip. Minerva Leonor López Calderón, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 19 de Septiembre de 2024. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, Ing. Salomón Jara Cruz.- Rúbrica.- El Secretario de Gobierno. Lcdo. José de Jesús Romero López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1595.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XII Y SE ADICIONA LA FRACCIÓN XIII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 6 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
