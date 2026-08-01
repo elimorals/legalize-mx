@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2025-10-25"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -231,11 +231,13 @@ También ejercerá violencia económica el agresor que se desentienda de sus obl
 
 V. Violencia sexual.- Cualquier acto realizado por la persona agresora que degrade, dañe o atente contra el cuerpo y/o la sexualidad de la víctimas (sic); en espacio público o privado; puede consistir en: la imposición mediante violencia física o psicológica de relaciones sexuales, incluso la ejercida por el cónyuge o la pareja sentimental; la explotación o comercio sexual; el acoso u hostigamiento sexual; el empleo de mujeres sin su consentimiento y de niñas en pornografía; los delitos contra la libertad sexual e integridad de las personas señalados en el Código Penal para el Estado Libre y Soberano de Oaxaca, y todos los abusos, agresiones y conductas que atenten o limiten el derecho a la libertad, dignidad, integridad y desarrollo físico y sexual de las mujeres;
 
-> <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DEL PRIMER PÁRRAFO DEL ARTÍCULO 19 BIS, P.O. 10 DE NOVIEMBRE DE 2018]</small>
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+El embarazo en niñas menores de catorce años de edad, también se considera violencia sexual, por constituir un indicio de ésta, mismo que deberá ser investigado con perspectiva de género e infancia conforme a la legislación penal aplicable, garantizando en todo momento el interés superior de la niñez y la protección integral de sus derechos.
 
-VI. (SIC) Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y pueden culminar en feminicidio y otras formas de muerte violenta de mujeres;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+VI. Violencia feminicida.- Es la forma extrema de violencia de género contra las mujeres, las niñas y las adolescentes, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas, violentas o crueles, que ponen en riesgo la vida de las víctimas, que pueden conllevar impunidad social y del Estado y pueden culminar en feminicidio y otras formas de muerte violenta de mujeres.
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
@@ -521,11 +523,11 @@ Puede consistir en un solo evento dañino o en una serie de eventos cuya suma pr
 
 Violencia en el ámbito laboral, es la negativa ilegal de contratación a la víctima o de respetar su permanencia o condiciones generales de trabajo, la descalificación de la actividad realizada, las amenazas, la intimidación, las humillaciones, la percepción de un salario menor por igual trabajo, desempeño y jornada dentro de un mismo centro laboral, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la Ley General de Salud, y todo tipo de explotación y discriminación por condición de género, así como la falta de respeto a las condiciones generales de trabajo por la exigencia de pruebas de gravidez, imposición de requisitos sexistas en la forma de vestir, exclusión de género en ciertos cargos por edad de conformidad con la ley Federal del Trabajo.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 14.
 
-Violencia en el ámbito escolar o docente, son los actos u omisiones discriminatorios que atenten contra la integridad física, sexual y psicológica de las alumnas por razón de su sexo, edad, condición social, limitaciones o características físicas, las cuales son infligidas por el personal docente o administrativo de los centros educativos.
+Violencia en el ámbito escolar o docente, son los actos u omisiones discriminatorios que atenten contra la integridad física, sexual y psicológica de las alumnas por razón de su sexo, edad, condición social, limitaciones o características físicas, las cuales son infligidas por el personal docente o administrativo de los centros educativos o centros donde se realice servicio social o prácticas profesionales.
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -569,21 +571,23 @@ Para efectos del hostigamiento y acoso sexual, el Estado y los Municipios deber�
 
 I. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida;
 
-II. Establecer mecanismos que favorezcan su erradicación en escuelas y centros laborales privados o públicos, mediante acuerdos y convenios con instituciones escolares, empresas y sindicatos;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+II. Establecer mecanismos que favorezcan su erradicación en escuelas, centros donde se realice servicio social o prácticas profesionales y centros laborales privados o públicos, mediante acuerdos y convenios con instituciones escolares, empresas y sindicatos;
 
-III. Establecer un Protocolo para la atención e investigación del hostigamiento y acoso sexual en la Administración Pública, el sistema educativo y los centros laborales; así como crear procedimientos administrativos, para sancionar estos ilícitos e inhibir su comisión;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+III. Establecer un Protocolo para la atención e investigación del hostigamiento acoso sexual en la Administración Pública, el sistema educativo y los centros laborales, incluidos los centros donde se realice el servicio social o prácticas profesionales; así como crear procedimientos administrativos, para sancionar estos ilícitos e inhibir su comisión;
 
-IV. En ningún caso se hará público el nombre de la víctima para evitar algún tipo de sobrevictimización o que sea boletinada o presionada para abandonar la escuela o trabajo;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+IV. En ningún caso se hará público el nombre de la víctima para evitar algún tipo de sobrevictimización o que sea boletinada o presionada para abandonar la escuela, servicio social, práctica profesional o trabajo;
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
 V. Proporcionar atención psicológica, psiquiátrica y legal, especializada y gratuita, a quien sea víctima de hostigamiento o acoso sexual; e
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE AGOSTO DE 2026)</small>
 
 VI. Implementar e imponer sanciones administrativas en el ámbito de sus competencias, a los superiores jerárquicos del hostigador o acosador cuando sean omisos en recibir y/o dar curso a una queja.
 
@@ -629,11 +633,11 @@ Existe violencia por Inteligencia artificial, cuando mediante el uso de aplicaci
 
 ### Capítulo Cuarto. En el Ámbito Social o en la Comunidad
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 18.
 
-Violencia en el ámbito social o en la comunidad, son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público; puede ocurrir en espacios, públicos, de libre tránsito, espacios de uso común, transporte público, entre otros, y pueden manifestarse de manera verbal o física con una connotación sexual de género.
+Violencia en el ámbito social o en la comunidad, son los actos individuales o colectivos que transgreden los derechos humanos y fundamentales de las mujeres, adolescentes y niñas y propician su denigración, discriminación, marginación o exclusión en el ámbito público; puede ocurrir en espacios públicos, de libre tránsito, espacios de uso común, transporte público, entre otros, y pueden manifestarse de manera verbal o física con una connotación sexual de género o a través de expresiones de burlas, imágenes o comportamientos agresivos, ofensivos o intimidatorios o que restrinjan su participación en eventos, festividades o actividades públicas y en la toma de decisiones comunitarias.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
 
@@ -671,23 +675,35 @@ III. La creación de programas de trabajo reeducativo con agresores basados en l
 
 ### Capítulo Cuarto Bis. De la Violencia Feminicida
 
-> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL DE LA FRACCIÓN VI DEL ARTÍCULO 7, P.O. 10 DE NOVIEMBRE DE 2018]</small>
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 19 Bis.
 
-Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y pueden culminar en feminicidio y otras formas de muerte violenta de mujeres.
+Violencia feminicida: Es la forma extrema de violencia de género contra las mujeres, las niñas y las adolescentes, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas, violentas o crueles, que ponen en riesgo la vida de las víctimas, que pueden conllevar impunidad social y del Estado y pueden culminar en feminicidio y otras formas de muerte violenta de mujeres.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 El protocolo de investigación Ministerial, Policial y Pericial del Delito de Feminicidio para el Estado de Oaxaca, deberá:
 
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 I. Enfocar transversalmente la investigación pericial, ministerial y policial con perspectiva de género.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 II. Analizar las conexiones que existan entre la víctima y la violación a otros derechos humanos.
 
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 III. Evitar los juicios de valor hacia las conductas o comportamiento anterior de la víctima.
 
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
 IV. Diferenciar los feminicidios de las muertes de mujeres ocurridas en otros contextos.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+V. Evitar la revictimización directa e indirecta de la violencia feminicida.
 
 ###### Artículo 20.
 
@@ -3420,3 +3436,33 @@ P.O. 25 DE OCTUBRE DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1632.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 18 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1581.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 7 DE LA LEY ESTATAL DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1618.- MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS 14 Y LAS FRACCIONES II, III, IV Y VI DEL ARTÍCULO 17 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1619.- MEDIANTE EL CUAL REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 7 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 19 BIS; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 19 BIS DE LA LEY ESTATAL DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
