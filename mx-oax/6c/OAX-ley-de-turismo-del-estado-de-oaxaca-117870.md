@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2026-05-23"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -159,11 +159,15 @@ XII Ter. Padrón de plataformas tecnológicas: Registro de personas físicas o m
 
 XII Quáter. Plataforma Tecnológica: Personas físicas o morales que operan, intermedian y/o administran una aplicación tecnológica o página de internet, mediante la cual los anfitriones, en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, ofertan los inmuebles a que se refiere la fracción IX BIS de este artículo, y que permite a las y los usuarios contratar diferentes tipos de servicios, incluyendo los ofertados por los prestadores de servicios turísticos;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2026)</small>
 
-XII Quinquies. Sistema Integral de Información Turística: Sistema de información intensivo y extensivo de las Tecnologías de la información y las Comunicaciones para integrar la información de prestadores de servicios turísticos vinculados de manera directa e indirecta con el sector, atractivos turísticos susceptibles de ser explotados y promocionados, así como la integración de información estadística generada a través de los diferentes monitoreos estadísticos implementados para medir la evolución del sector y la toma de decisiones.
+XII Quinquies. Sistema Integral de Información Turística: Sistema de información intensivo y extensivo de las Tecnologías de la Información y las Comunicaciones para integrar la información de prestadores de servicios turísticos vinculados de manera directa e indirecta con el sector, incluyendo sus directorios digitales; atractivos turísticos susceptibles de ser explotados y promocionados, las rutas turísticas comunitarias y culturales; información sobre destinos con accesibilidad universal; reservas y comercialización de experiencias comunitarias y materiales informativos accesibles en lenguas originarias, así como la integración de información estadística generada a través de los diferentes monitoreos estadísticos implementados para medir la evolución del sector y la toma de decisiones.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
 
 Opera tecnológicamente todas las plataformas, registro y módulos que regule esta ley.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
 
 Registra, genera, explota y disemina información estratégica online de manera integral para ser utilizada de manera diversa en el sector gubernamental, nacional, estatal, municipal, académico atracción de inversiones y público en general;
 
@@ -537,13 +541,21 @@ XVII. Elaborar los catálogos, directorios y guías turísticas de los prestador
 
 XVIII. Implementar mecanismos de coordinación con los Municipios, para lograr la transversalidad de la perspectiva de género, así como libre de prejuicios y discriminación por identidad de género, expresión de género u orientación sexual en el sector turístico a través de la coordinación de acciones a nivel municipal en el ámbito de sus respectivas competencias;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-XIX. Recibir quejas o denuncias en contra de autoridades y prestadores de servicios turísticos, así como implementar las medidas necesarias para mejorar la calidad en la prestación de los servicios turísticos.
+XIX. Recibir quejas o denuncias en contra de autoridades y prestadores de servicios turísticos, así como implementar las medidas necesarias para mejorar la calidad en la prestación de los servicios turísticos;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-XX. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, el Reglamento de esta ley, el Reglamento interno y demás disposiciones aplicables.
+XX. Promover la producción, el uso y la venta de productos locales en los destinos turísticos y su plena integración a la cadena de valor del sector;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XXI. Impulsar la participación y contratación de las mujeres en pequeñas, medianas y grandes empresas relacionadas con el turismo; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XXII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, el Reglamento de esta Ley, el Reglamento Interno y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
 
@@ -558,6 +570,18 @@ Con la información que genere y obtenga la Secretaría elaborará y actualizar�
 ###### Artículo 10.
 
 En todo caso, para la debida atención de los asuntos de su competencia y cuando así se requiera, la Secretaría se coordinará con las demás áreas de la Administración Pública Estatal, incluyendo los organismos descentralizados y fideicomisos públicos.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+###### Artículo 10 Bis.
+
+La Secretaría de Turismo del Estado de Oaxaca, en coordinación con la Secretaría de Seguridad y Protección Ciudadana del Estado y la Fiscalía General del Estado de Oaxaca, podrá:
+
+a) Diseñar, publicar y capacitar anualmente en protocolos para la prevención y detección de trata de personas, explotación sexual de niñas, niños y adolescentes y violencia de género.
+
+b) Establecer el programa de distintivos "Destino Seguro, Amigable para Niñas, Niños y Adolescentes" para establecimientos turísticos que cumplan con los estándares de protección.
+
+c) Realizar inspecciones aleatorias, monitoreo y operación de canales de denuncia anónima.
 
 ## TÍTULO TERCERO
 
@@ -603,11 +627,31 @@ El Consejo Consultivo de Turismo será presidido por el Titular del Ejecutivo de
 
 La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, estimularán y promoverán entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar la economía del Estado y de los Municipios y con ello, buscar el desarrollo regional. Lo anterior, a través de estudios sociales y de mercado, tomando en cuenta la información disponible en el Sistema Integral de Información Turística, el Registro Nacional de Turismo, en el Atlas Turístico de México y en el Catálogo Turístico Estatal.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+La Secretaría promoverá, en el ámbito de sus atribuciones y en coordinación con las autoridades municipales y las instancias competentes, el diseño e implementación de políticas públicas en materia turística que consideren instrumentos de carácter fiscal, con el fin de impulsar el desarrollo económico y turístico de los municipios, atendiendo a sus características y necesidades.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+###### Artículo 15 Bis.
+
+En los planes y políticas que para el desarrollo de las actividades turísticas se implementen en el Estado y los municipios, se deberá garantizar el respeto al medio ambiente y turismo sustentable.
+
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
 
-15 BIS (SIC).- En los planes y políticas que para el desarrollo de las actividades turísticas se implementen en el Estado, se deberá garantizar el respeto al medio ambiente y turismo sustentable.
-
 La Secretaría será la responsable de diseñar políticas públicas centradas a fomentar la Economía Circular en los hoteles, restaurantes, recintos culturales y actividades turísticas en el estado, a través de la implementación de estrategias que promuevan la adopción de prácticas sostenibles que contribuyan a la reducción de residuos sólidos y una cultura de reciclaje con la finalidad de preservar el medio ambiente.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+###### Artículo 15 Ter.
+
+La Secretaría impulsará una política turística con enfoque hacia los municipios, a través de estrategias de desarrollo con potencial turístico, identificando las zonas de desarrollo social para lograr su desarrollo económico y turístico.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+###### Artículo 15 Quáter.
+
+La Secretaría y los Ayuntamientos fomentarán una estrategia de cultura turística entre la cadena de valor y las comunidades, con el fin de sensibilizar sobre la importancia del sector para el desarrollo económico y social del estado y municipios.
 
 ### CAPITULO II
 
@@ -933,11 +977,11 @@ La inscripción al Registro Nacional de Turismo será obligatoria para los prest
 
 La base de datos del Registro Nacional de Turismo quedará bajo la guarda de la Secretaría Federal, siendo responsabilidad de la Secretaría y de los Ayuntamientos, constatar la veracidad de la información que proporcionen los prestadores de servicios turísticos en el Estado.
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 51 Bis.
 
-El Sistema Integral de Información Turística registrará y procesará las bases de datos e información de prestadores de servicios turísticos, atractivos turísticos, estadísticas y normatividad turística del Estado de Oaxaca, bajo los procesos y metodologías que implemente y opere la Secretaría de Turismo.
+El Sistema Integral de Información Turística registrará y procesará las bases de datos e información de prestadores de servicios turísticos, atractivos turísticos, información sobre destinos con accesibilidad universal, reservas y comercialización de experiencias comunitarias y materiales informativos accesibles en lenguas originarias, así como estadísticas y normatividad turística del Estado de Oaxaca, bajo los procesos y metodologías que implemente y opere la Secretaría de Turismo.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
 
@@ -1081,9 +1125,13 @@ II. Solicitar la exhibición de credencial de elector o de cualquier otro docume
 
 III. Autorizar el ingreso de niñas, niños y adolescentes a las habitaciones o inmuebles de uso habitacional destinado a la prestación del servicio de hospedaje o estancia turística eventual, exclusivamente en compañía de quien acredite mediante documento idóneo tener parentesco, o ser quien ejerza la patria potestad, tutela o guarda y custodia;
 
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 2026)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-IV. Informar inmediatamente a las policías y el Ministerio Público, sobre la posible comisión de algún delito en perjuicio de niñas, niños y adolescentes a fin de salvaguardar su vida, integridad o algún otro bien jurídico tutelado.
+IV. Notificar a las autoridades correspondientes inmediatamente, en caso de advertir la posible comisión de un delito; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+V. Los establecimientos que presten los servicios a que se refiere el artículo 4, fracción XX, inciso a), deberán colocar en cada habitación y en las zonas comunes un aviso preventivo visible, que contenga la leyenda: "Este establecimiento colabora con las autoridades en la prevención y combate de la explotación sexual infantil y adolescente." Asimismo, dicho aviso deberá incluir los números telefónicos de denuncia y emergencia, entre ellos los de la Fiscalía General del Estado, la Secretaría de Seguridad Pública, así como las líneas nacionales de atención y emergencia, como el 911.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
 
@@ -1740,5 +1788,21 @@ P.O. 23 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1498.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I TER Y XII QUÁTER DEL ARTÍCULO 4, LA FRACCIÓN XII DEL ARTÍCULO 9, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 9 BIS, Y EL ARTÍCULO 80; SE ADICIONA EL TÍTULO QUINTO, DENOMINADO "DE LAS ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE", RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES TÍTULOS DE LA LEY DE TURISMO DEL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en (sic) Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2026
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1583.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IV DEL ARTÍCULO 54 BIS; Y SE ADICIONA EL ARTÍCULO 10 BIS, Y LA FRACCIÓN V AL ARTÍCULO 54 BIS, A LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1584.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN XII QUINQUIES DEL ARTÍCULO 4, LA FRACCIÓN XIX DEL ARTÍCULO 9, EL PRIMER PÁRRAFO DEL ARTÍCULO 15 BIS Y EL ARTÍCULO 51 BIS; Y SE ADICIONAN LAS FRACCIONES XX Y XXI RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 9, UN SEGUNDO PÁRRAFO AL ARTÍCULO 15, Y LOS ARTÍCULOS 15 TER Y 15 QUÁTER, TODOS DE LA LEY DE TURISMO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
