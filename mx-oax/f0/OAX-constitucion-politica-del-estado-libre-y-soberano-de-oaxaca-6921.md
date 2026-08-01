@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2026-07-25"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -191,9 +191,9 @@ En los juicios del orden criminal queda prohibido imponer por simple analogía y
 
 En el Estado, jamás se expedirá ley que imponga penas a personas determinadas, que pretenda surtir efecto retroactivo en perjuicio de alguien, que decrete la infamia de cualquier persona, de mutilación, marcas, azotes, palos, el tormento de cualquier especie o que establezca la confiscación de bienes o multas excesivas o cualesquiera otras penas inusitadas o trascendentales, entendiéndose por una y otras, las que afecten al patrimonio. Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2026)</small>
 
-En los decretos que se expidan, no podrá restringirse ni suspenderse el ejercicio de los derechos a la no discriminación, al reconocimiento de la personalidad jurídica, a la vida, a la integridad personal, a la protección a la familia, al nombre, a la nacionalidad, los derechos de la niñez, los derechos políticos, las libertades de pensamiento, conciencia y de profesar creencia religiosa alguna, el principio de legalidad y retroactividad, la prohibición de la pena de muerte, la prohibición de la esclavitud y la servidumbre, la prohibición de la desaparición forzada y la tortura, ni las garantías judiciales indispensables para la protección de tales derechos.
+En los decretos que se expidan, no podrá restringirse ni suspenderse el ejercicio de los derechos a la no discriminación, el reconocimiento de la personalidad jurídica, a la vida, a la integridad personal, a la protección a la familia, al nombre, a la nacionalidad, los derechos de la niñez, los derechos políticos, las libertades de pensamiento, conciencia y de profesar creencia religiosa alguna, el principio de legalidad y retroactividad, la prohibición de la pena de muerte, la prohibición de la esclavitud y la servidumbre, la prohibición de la desaparición forzada, la extorsión y la tortura, ni las garantías judiciales indispensables para la protección de tales derechos.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -1513,9 +1513,9 @@ El Congreso elaborará su propio proyecto de presupuesto en los términos de la 
 
 Una vez aprobado el Presupuesto de Egresos del Estado, las erogaciones previstas para el Poder Legislativo no podrán ser reducidas ni transferidas, salvo en los casos de ajuste presupuestal general previstos en la Ley.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2026)</small>
 
-El Poder Legislativo se regirá por los principios de Parlamento Abierto por lo que para tal efecto las Diputadas y los Diputados deberán implementar mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana y la rendición de cuentas. La ley establecerá los mecanismos a los que hace referencia este artículo.
+El Poder Legislativo se regirá por los principios de Parlamento Abierto, la transparencia, acceso a la Información, la máxima publicidad, la apertura gubernamental, la participación ciudadana y la rendición de cuentas: La ley establecerá los mecanismos para hacer efectivos, los principios a los que hace referencia este artículo. El Órgano Interno de Control fungirá como Autoridad Garante en materia de Transparencia.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2343,9 +2343,9 @@ La Auditoría Superior de Fiscalización del Estado de Oaxaca, podrá iniciar el
 
 Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior de Fiscalización del Estado de Oaxaca, podrá solicitar información del ejercicio en curso, respecto de procesos concluidos.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2026)</small>
 
-En el desempeño de sus funciones, la Auditoría Superior de Fiscalización del Estado de Oaxaca, contará con plena autonomía técnica, de gestión, presupuestal y financiera para decidir sobre su organización interna, funcionamiento y resoluciones. La función de fiscalización se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
+En el desempeño de sus funciones, la Auditoría Superior de Fiscalización del Estado de Oaxaca, contará con plena autonomía técnica, de gestión, presupuestal y financiera para decidir sobre su organización interna, funcionamiento y resoluciones. La función de fiscalización se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad. No obstante, cumplirá sus obligaciones en materia de Transparencia ante la Autoridad Garante del Poder Legislativo.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
@@ -7098,3 +7098,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La Fiscalía General del Estado de Oaxaca junto con la Secretaría de Finanzas del Gobierno del Estado y demás entes públicos competentes, tendrán un plazo de 90 días naturales para realizar todas las gestiones. administrativas, legales, presupuestales y materiales para la creación de la Vicefiscalía General de Atención a Víctimas y Derechos Humanos, estructurada de manera tal que contemple, dentro de su organización, dos fiscalías especializadas: una en la investigación de la desaparición cometida por particulares desaparición forzada y delitos vinculados; y otra en la investigación de los delitos de tortura, tratos crueles, inhumanos o degradantes y delitos vinculados. Las titularidades de la Vicefiscalía General de Víctimas y Derechos Humanos y de las Fiscalías Especializadas a que hace mención el presente Decreto, serán designadas libremente por el Fiscal General del Estado.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1575.- MEDIANTE EL. CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 6 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1596.- MEDIANTE EL CUAL REFORMA EL QUINTO PÁRRAFO DEL ARTÍCULO 31, Y EL QUINTO PARRAFO DEL ARTÍCULO 65 BIS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. publíquese.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
