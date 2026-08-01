@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2026-03-21"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -53,7 +53,9 @@ Las disposiciones de la presente Ley son de orden público, de interés social y
 
 La presente Ley tiene por objeto:
 
-I. Promover y garantizar las condiciones que aseguren el desarrollo social y humano y el pleno ejercicio de los derechos sociales consagrados en la Constitución Política de los Estados Unidos Mexicanos, del Estado Libre y Soberano de Oaxaca, así como Tratados y Acuerdos Internacionales firmados y ratificados por nuestro País, así como las demás leyes y reglamentos aplicables en materia de desarrollo social y humano;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+I. Promover y garantizar las condiciones que aseguren el desarrollo social y humano y el pleno ejercicio de los derechos sociales y la igualdad sustantiva entre mujeres y hombres consagrados en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Oaxaca, así como Tratados y Acuerdos Internacionales firmados y ratificados por nuestro País, así como las demás leyes y reglamentos aplicables en materia de desarrollo social y humano;
 
 II. La creación de un marco jurídico que permita implementar los procedimientos legales y garantizar a la población del Estado de Oaxaca el acceso al desarrollo social y humano, en el marco de las atribuciones que corresponden al Estado;
 
@@ -121,7 +123,7 @@ IX. Comités Ciudadanos: Comités encargados de supervisar, vigilar y verificar 
 
 X. CONAPO: Consejo Nacional de Población, establecido por la Ley General de Población;
 
-XI. CONEVAL: Consejo Nacional de Evaluación de la Política de Desarrollo Social, instaurado por la Ley General de Desarrollo Social;
+XI. (DEROGADA, P.O. 1 DE AGOSTO DE 2026)
 
 XII. Consejo Estatal: El Consejo Estatal de Desarrollo Social y Humano;
 
@@ -139,7 +141,7 @@ XVIII. Desarrollo Sustentable: Es un proceso dinámico, de cambio, donde la expl
 
 XIX. Diagnóstico Situacional: Estudio socioeconómico para detectar ubicación territorial o sectorial que mediante indicadores de pobreza o insuficiencia económica, establezca prioridades y oriente la política de desarrollo social en el estado, regiones y municipios;
 
-XX. DIGEPO: A la Dirección General de Población de Oaxaca;
+XX. (DEROGADA, P.O. 1 DE AGOSTO DE 2026)
 
 XXI. Empresa Social: La unidad económica conformada para realizar actividades de producción, transformación, comercialización o de servicios, integradas por cualquier sector o grupo social de la población, cuya actividad se orienta a satisfacer necesidades sociales, así como generar un beneficio económico y de desarrollo sustentable en su localidad;
 
@@ -152,6 +154,10 @@ XXIV. Ética Social: Implica la comunidad de valores, el consenso en torno a mí
 XXV. Grupos Sociales en Condición de Vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de la atención e inversión del Gobierno para lograr su bienestar;
 
 XXVI. Integración Social: El proceso dinámico y multifactorial que posibilita a las personas a participar del nivel mínimo de bienestar que es consistente con el desarrollo alcanzado en un determinado territorio;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XXVI Bis. INEGI: Instituto Nacional de Estadística y Geografía;
 
 XXVII. Ley General: La Ley General de Desarrollo Social;
 
@@ -255,7 +261,9 @@ V. El derecho a la educación;
 
 VI. El derecho a un medio ambiente sano;
 
-VII. El derecho a la equidad de género;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+VII. El derecho a la igualdad sustantiva entre mujeres y hombres.
 
 VIII. El derecho a la no-discriminación;
 
@@ -303,7 +311,9 @@ Está prohibida toda práctica discriminatoria en otorgamiento de subsidios y/o 
 
 Las personas sujetos del desarrollo social tendrán derecho a:
 
-I. Recibir por parte de los oferentes de los programas un trato oportuno, respetuoso y de calidad;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+I. Recibir por parte de los oferentes de los programas un trato oportuno, respetuoso, de calidad y libre de cualquier forma de discriminación o violencias;
 
 II. Obtener la información sobre los programas que operen los Gobiernos Federal, Estatal y Municipales, así como, sus reglas de operación y sus grados de avance;
 
@@ -343,27 +353,35 @@ IV. Informar cuando se lo solicite la Secretaria, sobre el desarrollo y mejorami
 
 V. Las demás que se establezcan en las reglas de operación.
 
-### CAPÍTULO IV. DEL PADRÓN ESTATAL DE BENEFICIARIOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2026)</small>
+
+### CAPÍTULO IV. DEL PADRÓN ÚNICO DE BENEFICIARIOS
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 12.
 
-La Secretaria integrará y actualizará los datos relativos al Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano, con el propósito de asegurar la equidad y la eficacia de los programas. Los Ayuntamientos remitirán a través del área Administrativa correspondiente, la información relativa a sus beneficiarios cuando se ejerzan recursos Federales o Estatales.
+La Secretaría integrará y actualizará los datos relativos al Padrón Único de Beneficiarios de Programas de Desarrollo Social y Humano, con el propósito de asegurar la equidad, la eficacia y la transparencia de los programas. Los Ayuntamientos remitirán a través del área Administrativa correspondiente, la información relativa a sus beneficiarios cuando se ejerzan recursos Federales o Estatales.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 13.
 
-Las Dependencias y Entidades que ejecuten los programas de desarrollo social deberán incorporar al Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano la información de aquellas personas y sus familias que son beneficiadas con los mismos.
+Las Dependencias y Entidades que ejecuten los programas de desarrollo social deberán incorporar al Padrón Único de Beneficiarios de Programas de Desarrollo Social y Humano la información de aquellas personas y sus familias que son beneficiadas con los mismos.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 14.
 
-El Gobierno del Estado podrá convenir con los Ayuntamientos la integración de los beneficiarios de los programas sociales financiados con recursos Municipales al Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano.
+El Gobierno del Estado podrá convenir con los Ayuntamientos la integración de los beneficiarios de los programas sociales financiados con recursos Municipales al Padrón Único de Beneficiarios de Programas de Desarrollo Social y Humano.
 
 ### CAPÍTULO V. DE LAS POLÍTICAS DE DESARROLLO SOCIAL Y HUMANO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 15.
 
-Las políticas estatales, regionales, y municipales para el bienestar y desarrollo social, en concordancia con las políticas nacionales en la materia, se sujetarán a los siguientes principios:
+Las políticas estatales, regionales y municipales para el bienestar y desarrollo social, en concordancia con las políticas nacionales en la materia, se sujetarán a los siguientes principios y enfoques:
 
 I. Autogestión: Implica la recuperación del control de su calidad de vida, la conducción de su desarrollo, por parte de los ciudadanos y comunidades;
 
@@ -393,7 +411,13 @@ XI. Progresividad: Refiere al avance en la cobertura de los derechos sociales y 
 
 XII. Rendición de Cuentas: obligación de los Servidores Públicos a informar y justificar los actos de su decisión, así mismo el de ser sancionables en la medida de que dichos Funcionarios desatiendan sus deberes Públicos; y
 
-XIII. Respeto a la diversidad: reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, ideológicas y políticas, Estado Civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2026)</small>
+
+XIII. Respeto a la diversidad: reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, orientación sexual, preferencias ideológicas y políticas, estado civil o cualquier otra, para superar toda condición de discriminación y promover la igualdad sustantiva, un desarrollo con equidad y respeto a las diferencias.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+Para garantizar la igualdad sustantiva entre mujeres y hombres, el Estado adoptará las medidas necesarias para prevenir y erradicar cualquier forma de discriminación.
 
 XIV. Soberanía y seguridad alimentaria: Fomento de la capacidad de producir lo necesario y suficiente para vivir, mediante apoyos individuales, familiares o colectivos que garanticen la producción de alimentos básicos. En el caso de las comunidades y pueblos indígenas, subsidiar actividades agropecuarias, acuícolas, apícolas y otros productos originarios, dando prioridad al cultivo regional, de acuerdo con las condiciones geográficas y climatológicas del lugar, a fin de alcanzar soberanía y seguridad alimentaria
 
@@ -429,13 +453,27 @@ XXIII. Interés superior de la niñez: De conformidad con lo establecido en la C
 
 XXIV. Accesibilidad lingüística e inclusiva: las autoridades garantizarán que la información y difusión de los programas de bienestar y desarrollo social se realice en español y en lenguas maternas en medios físicos y electrónicos accesibles, y en formatos accesibles y de fácil comprensión para las personas con discapacidad; a fin de eliminar barreras de idioma y erradicar la discriminación, procurando el ejercicio efectivo de los derechos sociales.
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XXV. Interseccionalidad: herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias, que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las personas a derechos y oportunidades;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XXVI. Interculturalidad: enfoque que parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí, pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las personas de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas, y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XXVII. Enfoque diferencial: tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las personas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos por pertenecer a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar acciones afirmativas para la garantía del goce efectivo de los derechos de las personas.
+
 ###### Artículo 16.
 
 La Política Social del Estado tendrá además los siguientes objetivos generales:
 
 I. Garantizar el ejercicio de los derechos sociales consagrados en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado;
 
-II. Garantizar el acceso a los programas de desarrollo social y humano en igualdad de oportunidades, abatiendo la discriminación y la exclusión social;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+II. Garantizar el acceso a los programas de desarrollo social y humano en igualdad de oportunidades, abatiendo la discriminación, la exclusión social y la eliminación de las brechas de desigualdad entre mujeres y hombres;
 
 III. Fortalecer el desarrollo estatal, regional y municipal equilibrado;
 
@@ -449,7 +487,9 @@ VII. Orientar los recursos físicos, humanos y financieros de las Instituciones 
 
 VIII. Fortalecer las capacidades individuales y colectivas además de crear entornos sociales donde se generen oportunidades equitativas de producir;
 
-IX. Promover un desarrollo económico sustentable con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+IX. Promover un desarrollo económico sustentable con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso, mejore su distribución y fomente la igualdad salarial entre mujeres y hombres;
 
 X. Combatir la inequidad social derivada de condiciones de sexo, edad, origen étnico, religioso, orientación sexual o condición física, respetando la pluralidad y diversidad;
 
@@ -499,13 +539,25 @@ g) La cobertura universal de los servicios de salud para garantizar a las person
 
 h) El disfrute de una vida lúdica, recreativa, deportiva y cultural.
 
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XXIV. Garantizar la transversalidad de la perspectiva de género y de derechos humanos en el diseño, implementación y evaluación de los programas de bienestar y desarrollo social;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XXV. Fomentar la conciencia social y empresarial mediante campañas de información sobre la importancia de la donación de alimentos, para reducir su desperdicio y mitigar la inseguridad alimentaria; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XXVI. Fortalecer el trabajo de las organizaciones públicas, sociales y privadas, promoviendo acciones para la donación, el aprovechamiento y la distribución de alimentos aptos para consumo humano, a fin de reducir el desperdicio alimentario y fortalecer la seguridad alimentaria de la población en situación de vulnerabilidad.
+
 ###### Artículo 17.
 
 Todos los programas estatales y municipales que beneficien los derechos humanos y sociales se considerarán como de desarrollo social para esta Ley.
 
-> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2026)</small>
 
-Los programas de desarrollo social, deberán garantizar la universalidad, progresividad y el ejercicio pleno de los derechos sociales de la población.
+Los programas de bienestar y desarrollo social , deberán incorporar la perspectiva de género y de derechos humanos en su diseño, implementación y evaluación, a fin de mejorar las condiciones de vida de las mujeres y eliminar las brechas de desigualdad entre mujeres y hombres.
 
 ###### Artículo 18.
 
@@ -523,11 +575,11 @@ La planeación para el desarrollo social del estado, es el proceso a través del
 
 La planeación deberá vincular la operación e instrumentación de los programas específicos con los objetivos generales establecidos en el Programa Estatal de Desarrollo Social. En ella participarán los grupos sociales involucrados, a través de un proceso de consulta pública impulsada por las dependencias y entidades de la Administración, conforme a lo dispuesto en la Constitución Política del Estado, la Ley de Planeación del Estado de Oaxaca y el Plan Estatal de Desarrollo de Oaxaca vigente, debiendo incluir las políticas Municipales de desarrollo social y las demás disposiciones en la materia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 21.
 
-El Ejecutivo del Estado como responsable de elaborar la planeación en política de bienestar y desarrollo social, con apego a la Ley de Planeación, atenderá los criterios del INEGI, COESPO, CONEVAL e indicadores de pobreza y marginación elaborados por los organismos estatales, nacionales e internacionales. La planeación se realizará fundamentalmente por las siguientes instituciones e instancias:
+El Ejecutivo del Estado como responsable de elaborar la planeación en política del bienestar y desarrollo social, con apego a la Ley de Planeación, atenderá los criterios del INEGI, COESPO e indicadores de pobreza y marginación elaborados por los organismos estatales, nacionales e internacionales. La planeación se realizará fundamentalmente por las siguientes instituciones e instancias:
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
@@ -547,9 +599,7 @@ IV. Secretaría de Gobierno
 
 V. Secretaría de Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-VI. Dirección General de Población de Oaxaca;
+VI. (DEROGADA, P.O. 1 DE AGOSTO DE 2026)
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
@@ -1111,9 +1161,9 @@ El Comité Estatal tiene como objetivo impulsar, orientar, coordinar, proponer, 
 
 El Comité Estatal de Bienestar y Desarrollo Social buscará los siguientes objetivos:
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-I. Proponer políticas públicas (sic) bienestar y desarrollo social bajo los criterios de integralidad y transversalidad;
+I. Proponer políticas públicas de bienestar y desarrollo social bajo los criterios de integralidad y transversalidad, con perspectiva de género y de derechos humanos;
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
@@ -1197,13 +1247,9 @@ V. La persona titular del Instituto de Planeación para el Bienestar;
 
 VI. La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
+VII. (DEROGADA, P.O. 1 DE AGOSTO DE 2026)
 
-VII. La persona titular de la Dirección General de Población de Oaxaca;
-
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
-
-VIII. La persona titular de la Coordinación de Planeación y Evaluación para el Desarrollo Social de Oaxaca;
+VIII. (DEROGADA, P.O. 1 DE AGOSTO DE 2026)
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2023)</small>
 
@@ -1214,6 +1260,14 @@ IX. La persona titular de la Coordinación Estatal de Protección Civil y Gesti�
 X. La persona titular de la Dirección General de Caminos Bienestar, y
 
 XI. (DEROGADA, P.O. 14 DE OCTUBRE DE 2023)
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XII. La persona titular del Instituto de Lenguas Originarias de Oaxaca, y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XIII. La persona titular de la Secretaría de Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas.
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2023)</small>
 
@@ -1906,3 +1960,11 @@ SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su
 TERCERO. La Secretaría de Bienestar, Tequio e Inclusión del Gobierno del Estado de Oaxaca, atendiendo al principio de progresividad de los derechos humanos, considerando sus recursos económicos, administrativos, humanos y de diversa índole, traducirá a lenguas indígenas y afromexicanas las principales convocatorias de bienestar y desarrollo social implementadas en el Estado y los Municipios, o en su caso, realizará resúmenes de información de los principales programas en lenguas indígenas y afromexicanas. Lo anterior, sin perjuicio de que en lo sucesivo amplíe la traducción a lenguas originarias y afrodescendientes de la información que se considere útil y necesaria de los principales programas de bienestar y desarrollo social. Para tal efecto, en el ámbito de sus competencias y atribuciones legales correspondientes, la Secretaría se podrá auxiliar y coordinar con la Secretaría de Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas del Gobierno del Estado de Oaxaca, el Instituto de Lenguas Originarias de Oaxaca, las Universidades o demás dependencias públicas estatales y federales y particulares y organismos privados que considere conveniente.
 
 CUARTO. La Secretaría de Finanzas del Gobierno del Estado de Oaxaca, realizará las adecuaciones presupuestarias necesarias para garantizar la implementación de la presente reforma, priorizando las zonas de atención prioritaria y respetando la disponibilidad presupuestaria.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1589.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 2, LA FRACCIÓN VII DEL ARTÍCULO 6, LA FRACCIÓN I DEL ARTÍCULO 10, LA DENOMINACIÓN DEL CAPÍTULO IV DEL PADRÓN ÚNICO DE BENEFICIARIOS, LOS ARTÍCULOS 12, 13 Y 14, EL PÁRRAFO PRIMERO Y LA FRACCIÓN XIII DEL ARTICULO 15, LAS FRACCIONES II Y IX DEL ARTÍCULO 16, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 17, EL PÁRRAFO PRIMERO DEL ARTÍCULO 21 Y LA FRACCIÓN I DEL ARTÍCULO 65; SE ADICIONA LA FRACCION XXVI. BIS AL ARTÍCULO 3, LAS FRACCIONES XXIV, XXV Y XXVI Y EL PÁRRAFO SEGUNDO A LA FRACCION XIII DEL ARTÍCULO 15, LAS FRACCIONES XXIV, XXV Y XXVI AL ARTÍCULO 16 Y LAS FRACCIONES XII Y XIII DEL ARTÍCULO 66; Y SE DEROGAN LAS FRACCIONES XI Y XX DEL ARTÍCULO 3, LA FRACCION VI DEL ARTÍCULO 21 Y LAS FRACCIONES VII Y VIII DEL ARTÍCULO 66 DE LA LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
