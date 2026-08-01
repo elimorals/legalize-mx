@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1743
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-09-07"
-last_updated: "2025-08-23"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en el Suplemento 6 al Número 72 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de septiembre de 2024.
 
@@ -2507,9 +2507,13 @@ VII. Emitir opinión para el dictamen sobre reconocimientos y distinciones que h
 
 VIII. Impulsar programas de profesionalización y actualización en derecho parlamentario, prácticas legislativas y otros temas necesarios para el eficaz desempeño del Poder Legislativo;
 
-IX. Aprobar el programa de trabajo del Centro de Investigaciones y Estudios Legislativos;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-X. Coordinarse con instituciones académicas y de investigación para el apoyo de las tareas del Centro de Investigaciones y Estudios Legislativos;
+IX. Aprobar el programa de trabajo del Centro de Investigaciones y Estudios Legislativos, así como el Plan de Desarrollo Archivístico de la Legislatura;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+X. Coordinarse con instituciones académicas y de investigación para el apoyo de las tareas del Centro de Investigaciones y Estudios Legislativos, así como del Archivo General;
 
 XI. Actualizar, a través del Centro de Investigaciones y Estudios Legislativos, el Sistema Estatal Normativo;
 
@@ -3438,3 +3442,11 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 338.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
