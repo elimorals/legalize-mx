@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-economia-circular-del-estado-de-oaxaca-170212"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-30"
-last_updated: "2023-12-30"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ECONOMÍA CIRCULAR, DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 30 de diciembre de 2023.
 
@@ -144,6 +144,14 @@ XXVII. SEDECO: Secretaría de Desarrollo Económico del Gobierno del Estado;
 XXVIII. Secretaría de Medio Ambiente: Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad; y
 
 XXIX. Subproducto: Aquellos materiales que se generan de manera no intencional en los procesos productivos y que son susceptibles de ser reutilizados, reciclados o aprovechados ya sea en el mismo proceso productivo o en procesos distintos.
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XXX. Emprendimiento juvenil, es la creación de nuevas ideas, productos o servicios por parte de las y los jóvenes, impulsada por la innovación y la necesidad de resolver problemas sociales o económicos; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XXXI. La innovación circular, es un enfoque de diseño que transforma los sistemas económicos de lineal a regenerativo, minimizando los residuos y maximizando el uso de recursos.
 
 ###### Artículo 5.
 
@@ -657,6 +665,20 @@ Los gobiernos municipales, con el apoyo de la SEDECO y la Secretaría de Medio A
 
 En el marco del proceso de regularización de las Personas Acopiadoras, se incluirá un programa para mejorar e incrementar su capacidad para captar, clasificar materiales, y aumentar el valor agregado a los materiales que comercializan, para el desarrollo del mercado de reciclaje o de aprovechamiento.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+### CAPÍTULO III BIS. De la Inclusión Juvenil en la Economía Circular
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+###### Artículo 52 Bis.
+
+El Estado y los municipios promoverán la inclusión de las y los jóvenes en los procesos de economía circular mediante:
+
+I. El fomento e impulso de programas de capacitación, formación y certificación en economía circular, gestión de residuos, diseño sustentable y tecnologías verdes; y
+
+II. La celebración de convenios de colaboración con instituciones educativas, tecnológicas, comunitarias y de investigación para el impulso del emprendimiento juvenil y generar espacios de innovación circular.
+
 ### CAPÍTULO IV. De las Sanciones Administrativas y el Recurso de Revisión
 
 ###### Artículo 53.
@@ -708,3 +730,13 @@ QUINTO. El titular del Poder Ejecutivo del Estado de Oaxaca, a través de la Sec
 Dip. Elvia Gabriela Pérez López, Secretaria.- Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 18 de Diciembre de 2023. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Ing. Salomón Jara Cruz.- Rúbrica.- El Secretario de Gobierno. Lcdo. José de Jesús Romero López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1594.- MEDIANTE EL CUAL ADICIONAN LAS FRACCIONES XXX Y XXXI AL ARTÍCULO 4 Y UN CAPÍTULO III BIS DENOMINADO "DE LA INCLUSIÓN JUVENIL EN LA ECONOMÍA CIRCULAR" QUE CONTIENE EL ARTÍCULO 52 BIS, AL TÍTULO CUARTO DE LA LEY ESTATAL DE ECONOMÍA CIRCULAR".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
