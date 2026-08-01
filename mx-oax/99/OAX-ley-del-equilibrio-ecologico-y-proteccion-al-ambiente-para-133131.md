@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2026-01-03"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -1508,6 +1508,10 @@ Asimismo, en el ámbito de sus respectivas competencias, establecerán la prohib
 > <small>(ADICIONADO, P.O. 6 DE JULIO DE 2024)</small>
 
 El Gobierno del Estado en coordinación con los Municipios, en el ámbito de sus respectivas competencias, garantizarán el trato digno y respetuoso de los animales en los centros de control animal, estableciendo las sanciones correspondientes para todo aquel que los maltrate, así como en la medida de lo posible, la esterilización gratuita. De igual forma, promoverán el establecimiento de Clínicas Veterinarias Públicas con el objeto de suministrar a los animales atención médica preventiva y, en caso de enfermedad, brindar tratamiento médico expedito avalado por un médico veterinario.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+De igual forma, los Municipios podrán promover programas que tengan por objeto la captura, resguardo y esterilización de los gatos y perros en condición de calle; así como, promover activamente la adopción de estos.
 
 > <small>(ADICIONADO, P.O. 6 DE JULIO DE 2024)</small>
 
@@ -3446,6 +3450,14 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 3 DE ENERO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 860.- MEDIANTE EL CUAL SE ADICIONAN LAS FRACCIONES XLV Y XLVI AL ARTÍCULO 6; LA FRACCIÓN XXVII AL ARTÍCULO 7, RECORRIÉNDOSE LA SUBSECUENTE; Y, EL TERCER PÁRRAFO AL ARTÍCULO 188 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1617.- MEDIANTE EL CUAL ADICIONA EL PÁRRAFO QUINTO, RECORRIÉNDOSE EL SUBSECUENTE DEL ARTÍCULO 97 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA".]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
