@@ -4,7 +4,7 @@ identifier: "OAX-ley-pecuaria-del-estado-de-oaxaca-82751"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2023-07-15"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PECUARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 18 de agosto de 2011.
 
@@ -361,7 +361,11 @@ VII. Los Sistemas Producto inherentes al Sector Pecuario;
 
 VIII. Los profesionistas y técnicos afines del sector pecuario, en ejercicio de su profesión; y
 
-IX. Los demás organismos afines.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+IX. Los centros de investigación, universidades, colegios, escuelas e instituciones académicas relacionadas con la actividad pecuaria.
+
+X. Los demás organismos afines.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES
 
@@ -406,6 +410,10 @@ c. Coadyuvar al cumplimiento de la Ley Forestal en relación a la tramitación y
 d. Prevenir y combatir los incendios, plagas y enfermedades de la vegetación en los agostaderos; y
 
 e. Proteger la fauna silvestre.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+f. Fortalecer la actividad pecuaria.
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2023)</small>
 
@@ -491,7 +499,11 @@ XL. Establecer los programas necesarios que permitan la certificación de origen
 
 XLI. Propiciar la conservación, mejoramiento y aprovechamiento sustentable de las tierras de pastoreo; y
 
-XLI. Las demás que establezcan la presente Ley, su reglamento, los convenios que celebre el Gobernador del Estado, el artículo 30 de Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca y demás normatividad aplicable en la materia.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XLII. Promover la ganadería de traspatio para la autosuficiencia alimentaria con perspectiva de género, y
+
+XLIII. Las demás que establezcan la presente Ley, su reglamento, los convenios que celebre el Gobernador del Estado, el artículo 30 de Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca y demás normatividad aplicable en la materia.
 
 ###### ARTÍCULO 10.
 
@@ -509,7 +521,11 @@ V. Mantener y fortalecer las actividades que permitan la operatividad del rastro
 
 VI. Auxiliar a las autoridades estatales y al Ministerio Público en la prevención y combate al abigeato y otros delitos relacionados con la materia de esta Ley; y
 
-VII. Las demás que señale esta Ley, su reglamento y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+VII. Apoyar en el combate de las plagas y enfermedades en los animales: y
+
+VIII. Las demás que señale esta Ley, su reglamento y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
@@ -563,7 +579,7 @@ I. Ser ciudadano mexicano en pleno goce de sus derechos;
 
 II. Ser de reconocida honradez;
 
-III. No tener antecedentes penales;
+III. (DEROGADA, P.O. 1 DE AGOSTO DE 2026)
 
 IV. No ser tablajero, introductor, acopiador o comerciante en ganado por sí o por interpósita persona;
 
@@ -787,6 +803,10 @@ Con objeto de impulsar la ganadería en el Estado mediante el otorgamiento de cr
 
 Los créditos a que se refiere el artículo anterior, se destinarán entre otros fines al mejoramiento del inventario pecuario y al fortalecimiento de la infraestructura y alimentación, a través del desarrollo de los programas implementados por las secretarías del ramo.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+ARTÍCULO 39 BIS. La SECRETARÍA deberá promover y gestionar mecanismos de vinculación institucional con las dependencias y entidades de la administración pública federal y estatal, así como con instituciones financieras públicas, privadas y organismos internacionales, con el propósito de coordinar acciones que permitan el acceso a esquemas de financiamiento e inversión orientados a impulsar la productividad, la innovación, la sostenibilidad y el fortalecimiento económico de las actividades pecuarias en el Estado, conforme a la normatividad aplicable.
+
 ### CAPÍTULO III. DEL SEGURO PECUARIO
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
@@ -899,11 +919,11 @@ La Secretaría establecerá los mecanismos adecuados para evaluar el desempeño 
 
 La Secretaría impulsará los sistemas producto como forma de integración de los productores con los demás sectores que participan en el proceso, desde la producción hasta el consumo, buscando lograr mayores niveles de competitividad en todas las cadenas productivas, como estrategia del fomento y desarrollo pecuario, todo ello en base al sustento legal que proporciona la Ley Federal de Desarrollo Rural Sustentable.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2026)</small>
 
 ###### ARTÍCULO 50.
 
-La Secretaría asesorará, capacitará y dará asistencia técnica a las personas que pretendan dedicarse a la producción pecuaria, desde la planeación hasta la comercialización de sus productos.
+La SECRETARÍA asesorará, capacitará y dará asistencia técnica con un enfoque en el valor agregado, a las personas que pretendan dedicarse a la producción pecuaria, desde la planeación hasta la comercialización de sus productos.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
@@ -2628,3 +2648,13 @@ P.O. 15 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1597.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 50; SE ADICIONA LA FRACCIÓN IX RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 7; EL INCISO F) A LA FRACCIÓN V, Y LA FRACCIÓN XLII RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 9, LA FRACCIÓN VII RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 10, Y EL ARTÍCULO 39 BIS; Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 16, TODOS DE LA LEY PECUARIA DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
