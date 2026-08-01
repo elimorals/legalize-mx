@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2026-01-31"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -1095,7 +1095,9 @@ XXVIII. Fijar normas técnicas para el funcionamiento y operación de los servic
 
 XXIX. Promover y fomentar la participación de los diversos sectores de la sociedad, con el objeto de construir y llevar a cabo las acciones necesarias para dar solución a la problemática en materia de vialidad, transporte y servicios auxiliares;
 
-XXX. Coadyuvar con la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, en la implementación del Programa Estatal de Verificación Vehicular sobre emisiones contaminantes;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XXX. Coadyuvar con la Secretaría del Medio Ambiente, Biodiversidad, Energías y Sostenibilidad, en la implementación del Programa Estatal de Verificación Vehicular sobre emisiones contaminantes;
 
 XXXI. Regular, autorizar, planear e inspeccionar la publicidad en el servicio de transporte, así como, imponer las sanciones en caso de incumplimiento de acuerdo con las normas jurídicas y administrativas correspondientes;
 
@@ -2231,19 +2233,37 @@ IX. Elaborar y emprender proyectos estratégicos, innovadores y sustentables que
 
 X. Promover de manera permanente y estratégica la imagen turística y las oportunidades de inversión en el Estado a nivel nacional e internacional;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE AGOSTO DE 2026)</small>
+
 XI. Desarrollar de manera permanente fuentes alternas de turismo que estén en armonía con el entorno de vida de las diferentes comunidades;
 
-XII. Promover en coordinación con la Secretaría de las Culturas y Artes de Oaxaca, la realización de eventos que promuevan las expresiones y manifestaciones culturales, incrementando la afluencia turística;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-XIII. Desarrollar productos turísticos en coordinación con diferentes actores de la sociedad, que coadyuven en el desarrollo sustentable de la entidad oaxaqueña;
+XII. Promover en coordinación con la Secretaría de las culturas y artes de Oaxaca, la realización de eventos que promuevan las expresiones y manifestaciones culturales, incrementando la afluencia turística;
 
-XIV. Expedir o revocar previo acuerdo del Gobernador del Estado las concesiones para la explotación de los recursos o infraestructura turísticos del Estado;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-XV. Participar y coadyuvar con los Gobiernos Municipales, así como los sectores social y privado, dentro del proceso integral de planeación turística Estatal;
+XIII. Desarrollar productos turísticos en coordinación con diferentes actores de la sociedad que cuando ayuden (sic) en el desarrollo sustentable de la entidad oaxaqueña;
 
-XVI. Promover la celebración de acuerdos, convenios de coordinación y bases de colaboración con otras dependencias estatales, con los gobiernos federal y municipales y con organizaciones de los sectores social y privado, a fin de facilitar e intensificar las actividades turísticas; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-XVII. Las que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones aplicables.
+XIV. Expedir o revocar previo acuerdo de la gobernadora o del gobernador del estado las concesiones para la explotación de los recursos o infraestructura turísticos del estado;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XV. Participar y coadyuvar con los gobiernos municipales, así como los sectores social y privado, dentro del proceso integral de planeación turística estatal;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XVI. Promover la celebración de acuerdos, convenios de coordinación y bases de colaboración con otras dependencias estatales, con los gobiernos federal y municipales y con organizaciones de los sectores social y privado, a fin de facilitar e intensificar las actividades turísticas;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XVII. Diseñar e implementar acciones para impulsar el turismo gastronómico del Estado, mediante la promoción y difusión de su oferta culinaria, a través de programas, actividades, festivales y campañas que fortalezcan la identidad gastronómica y fomenten la atracción de visitantes; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+XVIII. Las que en el ámbito de su competencia le confiere directamente la gobernadora del gobernador del estado, su reglamento interno y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
@@ -4340,3 +4360,19 @@ Una vez que se dé el inicio de funciones del nuevo sistema del padrón de prove
 Las constancias que se encuentren vigentes, con motivo del registro en el Padrón de Proveedores de la Secretaría de Administración, mantendrán la vigencia previamente establecida en las mismas.
 
 SÉPTIMO. Hasta en tanto se realicen las modificaciones a las diversas normativas, deberá entenderse en lo relativo a la antes Secretaría de la Contraloría y Transparencia Gubernamental y/o Contraloría, a la ahora Secretaría de Honestidad, Transparencia y Función Pública.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1586.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXX DEL ARTÍCULO 40 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1587.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XI, XII, XIII, XIV, XV, XVI Y LA ACTUAL FRACCIÓN XVII; Y SE ADICIONA LA FRACCIÓN XVII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 46-B DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
