@@ -4,7 +4,7 @@ identifier: "COL-ley-de-movilidad-sustentable-para-el-estado-de-colima-118706"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2023-03-11"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 7 del Periódico Oficial del Estado de Colima, el lunes 30 de enero de 2017.
 
@@ -775,11 +775,15 @@ LXVI. Calificar las infracciones a la Ley y sus reglamentos, en el ámbito de su
 
 LXVII. Promover, en el ámbito de su competencia, las facilidades y acciones con otras dependencias para la prevención del acoso sexual callejero en el servicio de transporte público;
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2026)</small>
 
-LXVIII. Impulsar en el ámbito de su competencia, cursos obligatorios a los prestadores de servicios del transporte público, con un enfoque de prevención y erradicación del acoso sexual callejero en el transporte público; y
+LXVIII. Impulsar en el ámbito de su competencia, cursos obligatorios a los prestadores de servicios del transporte público, con un enfoque de prevención y erradicación del acoso sexual callejero en el transporte público;
 
-LXIX. Las demás facultades y obligaciones que le concedan la presente Ley, los reglamentos que de ella deriven, los acuerdos y órdenes del Ejecutivo del Estado y demás disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2026)</small>
+
+LXIX. Establecer en coordinación con el Instituto Colimense de las Mujeres la implementación de protocolos para la prevención y combate a la violencia de género, así como la creación de políticas públicas que incorpore de manera transversal la perspectiva de género y el enfoque de cuidados; y
+
+LXX. Las demás facultades y obligaciones que le concedan la presente Ley, los reglamentos que de ella deriven, los acuerdos y órdenes del Ejecutivo del Estado y demás disposiciones jurídicas aplicables.
 
 2. El Secretario podrá delegar sus atribuciones a oficiales, supervisores, peritos, inspectores, verificadores, notificadores y al demás personal adscrito a su dependencia con el fin de dar cumplimiento de la presente Ley, además de las facultades y atribuciones que tienen conferidas en su nombramiento, gafete y oficio de comisión correspondiente.
 
@@ -995,7 +999,9 @@ III. El titular de una de las direcciones generales de la Secretaria, quien fung
 
 IV. Presidente de la Comisión de Comunicaciones, Transporte y Movilidad del H. Congreso del Estado;
 
-V. Como Consejeros Permanentes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2026)</small>
+
+V. Como personas Consejeras Permanentes:
 
 a. Los titulares de las secretarías General de Gobierno, de Planeación y Finanzas, de Infraestructura y Desarrollo Urbano, de Desarrollo Social, de Fomento Económico, la Consejería Jurídica del Poder Ejecutivo del Estado, así como un representante del Sistema Estatal para el Desarrollo Integral de la Familia (DIF);
 
@@ -1036,6 +1042,10 @@ k. Doce miembros permanentes, representantes legales de las empresas de transpor
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
 
 l. Tres representantes de las Organizaciones de la Sociedad Civil en materia de movilidad.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+m. La persona titular del Instituto Colimense de las Mujeres.
 
 VI. A invitación que les extienda el Presidente del Consejo, podrán integrarse:
 
@@ -6562,5 +6572,11 @@ SEGUNDO. El Ejecutivo del Estado y los municipios, en el ámbito de sus respecti
 P.O. 11 DE MARZO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 248.- POR EL QUE SE REFORMAN LAS FRACCIONES XXVI Y XXVII, SE ADICIONAN CUATRO FRACCIONES, PASANDO HACER ESTAS LAS XXVIII, XXIX, XXX Y XXXI AL ARTÍCULO 82 DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 346.- POR EL QUE SE ADICIONAN DISPOSICIONES A LOS ARTÍCULOS 17 Y 27 DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
