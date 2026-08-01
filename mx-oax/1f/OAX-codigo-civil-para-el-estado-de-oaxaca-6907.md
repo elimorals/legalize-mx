@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2025-12-13"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -177,35 +177,61 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 
 Las personas de ambos sexos que no han cumplido dieciocho años, son menores de edad, la mayor edad comienza a los dieciocho años.
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 24 Bis.
 
-La identidad es un derecho de las personas. Se consideran medios para acreditar la identidad aquellos documentos públicos ya sea en original o copia certificada, expedidos por autoridades competentes, de manera enunciativa y no limitativa los siguientes:
+La identidad es un derecho de las personas, será imprescriptible en términos de lo establecido en la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales. Se consideran medios para acreditar la identidad aquellos documentos públicos ya sea en original o copia certificada, expedidos por autoridades competentes, de manera enunciativa y no limitativa los siguientes:
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
 I En caso de menores de edad:
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
 a) Acta de nacimiento.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
 
 b) Carta de naturalización.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
 c) Credencial con fotografía expedida por autoridades educativas que cuenten con autorización o reconocimiento de validez oficial.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2026)</small>
+
+d) Clave Única de Registro de Población con datos biométricos.
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
 II En caso de los mayores de edad:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE AGOSTO DE 2026)</small>
+
 a) Credencial para votar expedida por el Instituto Nacional Electoral.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
 
 b) Pasaporte.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
 c) Matricula consular mexicana.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
 
 d) Licencia para conducir.
 
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
+
 e) Cartilla militar.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2018)</small>
 
 f) Carta de naturalización.
 
-g) Cédula profesional.
+g) (DEROGADO, P.O. 1 DE AGOSTO DE 2026)
 
 ## TITULO SEGUNDO. De las personas morales
 
@@ -15806,3 +15832,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1570.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO Y EL INCISO A) DE LA FRACCIÓN II DE ARTÍCULO 24 BIS; SE ADICIONA EL INCISO D) A LA FRACCIÓN I DEL ARTÍCULO 24 BIS; Y SE DEROGA EL INCISO G) DE LA FRACCIÓN II DEL ARTÍCULO 24 BIS DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
