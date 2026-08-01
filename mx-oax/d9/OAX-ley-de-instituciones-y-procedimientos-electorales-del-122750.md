@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2026-05-21"
+last_updated: "2026-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2026.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -2153,9 +2153,13 @@ XX.- Intervenir en los procesos de entrega-recepción por inicio o conclusión d
 
 XXI.- Inscribir la información correspondiente al sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de todos los servidores públicos del Instituto, de conformidad con lo previsto por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, y;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2019)</small>
+(ADICIONADA, P.O. 1 DE AGOSTO DE 2026
 
-XXII.- Las demás que le otorgue esta Ley o las leyes aplicables en la materia.
+XXII.- Fungir como Autoridad Garante del Instituto Estatal, en materia de transparencia, acceso a la información pública y protección de datos personales, conforme lo previsto en la Ley de Transparencia, Acceso a la Información Pública con Sentido Social y Buen Gobierno del Estado de Oaxaca y demás normatividad aplicable en materia de Transparencia; y
+
+(REFORMADA, P.O. 1 DE AGOSTO DE 2026
+
+XXIII.- Las demás que le otorgue esta Ley o las Leyes aplicables en la materia.
 
 Artículo 76
 
@@ -6416,3 +6420,11 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 TERCERO. Las reformas relativas a la integración de los ayuntamientos contenidas en el artículo 24, numeral 1, fracciones II y III, de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca surtirán efectos a partir del periodo administrativo municipal subsecuente, en términos del régimen transitorio de la reforma constitucional federal aplicable. Los ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con un número menor de regidurías conservarán su integración actual hasta la conclusión del periodo para el que fueron electos, sin perjuicio de los ajustes que legalmente correspondan en procesos electorales posteriores.
 
 CUARTO. El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y el Tribunal Electoral del Estado de Oaxaca contarán con un plazo de sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas, administrativas y presupuestarias necesarias para el cumplimiento de sus disposiciones.
+
+P.O. 1 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1573.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XVI Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 108 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA; ADICIONA LA FRACCIÓN XXII Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 75 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
