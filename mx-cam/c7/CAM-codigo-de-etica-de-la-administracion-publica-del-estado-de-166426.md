@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-etica-de-la-administracion-publica-del-estado-de-1664
 country: "mx"
 rank: "codigo"
 publication_date: "2023-05-04"
-last_updated: "2023-06-26"
+last_updated: "2026-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE ETICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA E INTEGRIDAD PARA UN BUEN GOBIERNO EN LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 3 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE JUNIO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2026 (ABROGADO).
 
 Código publicado en la Segunda Sección del Número 1916 del Periódico Oficial del Estado de Campeche, el jueves 4 de mayo de 2023.
 
@@ -570,3 +570,19 @@ Dado en la ciudad de San Francisco de Campeche, Municipio y Estado de Campeche, 
 MAESTRA MARÍA EUGENIA ENRÍQUEZ REYES
 
 SECRETARIA DE LA CONTRALORÍA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
+
+> <small>N. DE E. A CONTINUACIÓN, SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CODIGO DE ÉTICA E INTEGRIDAD PARA UN BUEN GOBIERNO EN LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE"]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO. Se abroga el Acuerdo por el que se emite el Código de Ética de la Administración Pública del Estado de Campeche, publicado en el Periódico Oficial del Estado de Campeche el 4 de mayo del 2023; así como cualquier disposición de índole administrativa que se contraponga al presente Código de igual o menor jerarquía.
+
+TERCERO. Los Organismos Centralizados y las Entidades Paraestatales de la Administración Pública del Estado de Campeche, tendrán hasta el 31 de mayo del 2027 para actualizar sus Códigos de Conducta en términos del presente Código de Ética.
+
+CUARTO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Ética se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+QUINTO. La normativa que rige a los Comités de Ética, así como los mecanismos de coordinación y evaluación permanecerán vigentes, salvo disposición en contrario.
