@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-al-que-deberan-sujetarse-las-personas-169952
 country: "mx"
 rank: "codigo"
 publication_date: "2023-12-01"
-last_updated: "2023-12-01"
+last_updated: "2026-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE CONDUCTA AL QUE DEBERAN SUJETARSE LAS PERSONAS SERVIDORAS PUBLICAS DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS Y SU ORGANO DESCONCENTRADO DENOMINADO SERVICIO DE ADMINISTRACION FISCAL DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE ADMINISTRACIÓN, FINANZAS Y PLANEACIÓN, PUBLICADO EN EL P.O. DE 4 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS Y SU ÓRGANO DESCONCENTRADO DENOMINADO SERVICIO DE ADMINISTRACIÓN FISCAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2026 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 1 de diciembre de 2023.
 
@@ -502,3 +504,13 @@ Al comprometerme a lo que establece el Código de Conducta, procuraré con mi de
 Atentamente
 
 (nombre y firma del servidor público)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE ADMINISTRACIÓN, FINANZAS Y PLANEACIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche, previa aprobación del Comité, mediante Sesión Ordinaria celebrada el 7 de julio de 2026.
+
+SEGUNDO. Se abroga el Código de Conducta al que deberán sujetarse las Personas Servidoras Públicas de la Secretaría de Administración y Finanzas y su Órgano Desconcentrado denominado Servicio de Administración Fiscal del Estado de Campeche, publicado en el Periódico Oficial del Estado de Campeche el 1 de diciembre de 2023, así como todas aquellas disposiciones que se opongan al presente Acuerdo.
