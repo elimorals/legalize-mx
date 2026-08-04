@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2026-05-27"
+last_updated: "2026-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -103,9 +103,9 @@ Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunida
 
 Se reconoce a los pueblos y comunidades indígenas y afromexicanas como sujetos de derecho público con personalidad jurídica y patrimonio propio.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2026)</small>
 
-La ley protegerá la organización y desarrollo de la familia, dentro de la cual tendrá preferencia la atención del menor y de la persona adulta mayor.
+La ley protegerá la organización y desarrollo de la familia, dentro de la cual tendrá preferencia la atención de niñas, niños y adolescentes, personas adultas mayores, personas con discapacidad y mujeres gestantes. Tratándose de personas en contexto de movilidad humana, el Estado garantizará la preservación de la unidad familiar en los términos que señalen las leyes de la materia.
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
 
@@ -1463,7 +1463,7 @@ XX.- Nombrar, remover y conocer de las renuncias de sus servidores públicos, en
 
 XXI.- Seleccionar, en los términos de esta Constitución, a las personas que habrán de participar en la elección para las magistraturas del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial del Estado, a las personas juzgadoras del Poder Judicial, así como a la persona integrante del Órgano de Administración Judicial correspondiente al Poder Legislativo.
 
-(NOTA: EL 1 DE JUNIO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 96/2025 Y SUS ACUMULADAS 101/2025 Y 103/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE JUNIO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 1 DE JUNIO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 96/2025 Y SUS ACUMULADAS 101/2025 Y 103/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE JUNIO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2025)</small>
 
@@ -4844,3 +4844,13 @@ Artícu lo Qu into (sic). Las disposiciones del presente Decreto en materia de r
 Las remuneraciones y prestaciones que se encuentren vigentes a la entrada en vigor del presente Decreto deberán ajustarse de manera progresiva en los presupuestos de egresos correspondientes, sin afectar los derechos adquiridos durante el periodo para el cual fueron designadas las personas servidoras públicas.
 
 Artícu loSexto (sic). El Congreso del Estado contará con 30 días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones legislativas correspondientes.
+
+P.O. 4 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 204 QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA AL PÁRRAFO DÉCIMO QUINTO DEL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las autoridades correspondientes destinarán anualmente y conforme al principio de progresividad los recursos presupuestarios suficientes y oportunos, para dar cumplimiento al presente Decreto.
+
+Artículo Tercero. Los ayuntamientos deberán realizar las adecuaciones correspondientes a sus reglamentos y programas sociales, a fin de brindar una atención integral a las familias en contexto de movilidad humana que se encuentren en situación de tránsito, retorno o residencia temporal, en un plazo de 180 días hábiles a partir de la vigencia del presente Decreto.
