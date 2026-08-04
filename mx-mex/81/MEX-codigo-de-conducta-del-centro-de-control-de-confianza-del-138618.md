@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-del-centro-de-control-de-confianza-del-13861
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-08"
-last_updated: "2019-10-08"
+last_updated: "2026-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE CONDUCTA DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE AGOSTO DE 2026.
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 8 de octubre de 2019.
 
@@ -463,6 +463,12 @@ a) Carta Compromiso: Es el documento que consiste en la declaración de conocimi
 
 b) Carta de Confidencialidad: Es el documento que consiste en la declaración de confidencialidad de la información a la cual tenga acceso con motivo del ejercicio de su empleo, cargo o comisión y que cada persona servidora pública adscrita al Centro deberá suscribir.
 
+> <small>(ADICIONADO, G.G. 4 DE AGOSTO DE 2026)</small>
+
+###### Artículo 12.
+
+La omisión de las disposiciones establecidas en el presente Código de Conducta, pueden ser constitutivas de sanciones administrativas, de conformidad con la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
 ## TRANSITORIOS
 
 PRIMERO. Publíquese el Presente Código de Conducta en el Periódico Oficial “Gaceta de (sic) Gobierno”.
@@ -479,7 +485,9 @@ Mtra. Angélica Arely Nevárez
 
 (Rúbrica).
 
-Lerma, Estado de México a -- de septiembre de 2019
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2026)</small>
+
+Lerma, Estado de México a __ de ____________ de ____.
 
 CARTA DE PRESENTACIÓN
 
@@ -497,13 +505,15 @@ Asimismo, les exhorto a que trabajemos en estricto apego a la legalidad y ética
 
 El Código de Conducta y Reglas de Integridad son de observancia general y de cumplimiento obligatorio para todas las personas servidoras públicas de este Centro Estatal.
 
-Los invito a que seamos promotores y ejemplo del Código de Conducta de nuestro Organismo.
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2026)</small>
+
+Las y los invito a que seamos personas promotoras y ejemplo del Código de Conducta de nuestro Organismo.
 
 A T E N T A M E N T E
 
-MTRA. ANGÉLICA ARELY NEVÁREZ
+> <small>(REFORMADO, G.G. 4 DE AGOSTO DE 2026)</small>
 
-TITULAR DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MÉXICO
+NOMBRE Y FIRMA DE LA PERSONA TITULAR DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MÉXICO
 
 CARTA COMPROMISO
 
@@ -586,3 +596,13 @@ Huella dactilar
 (8) Nombre y firma de la persona servidora pública.
 
 (9) Huella dactilar (índice derecho).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 4 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ADICIONA EL ARTÍCULO 12 Y SE REFORMA EL ANEXO CONSISTENTE EN LA CARTA DE PRESENTACIÓN DEL CÓDIGO DE CONDUCTA DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta de Gobierno”.
+
+SEGUNDO. Este Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
