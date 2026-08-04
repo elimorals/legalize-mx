@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-determinacion-y-pago-de-la-cuota-de-81464"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-27"
-last_updated: "2011-05-27"
+last_updated: "2026-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81464&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-05-23"
 ---
 # REGLAMENTO PARA LA DETERMINACION Y PAGO DE LA CUOTA DE GARANTIA DE NO CADUCIDAD DE DERECHOS DE AGUAS NACIONALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA DETERMINACIÓN Y PAGO DE LA CUOTA DE GARANTÍA DE NO CADUCIDAD DE DERECHOS DE AGUAS NACIONALES, PUBLICADO EN EL D.O.F. DE 4 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA LA DETERMINACION Y PAGO DE LA CUOTA DE GARANTIA DE NO CADUCIDAD DE DERECHOS DE AGUAS NACIONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE AGOSTO DE 2026 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 27 de mayo de 2011.
 
@@ -110,3 +112,19 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Los asignatarios y concesionarios de aguas nacionales que a la entrada en vigor del presente Reglamento se ubiquen en el supuesto previsto por el artículo 29 Bis 3, fracción VI, de la Ley de Aguas Nacionales y que opten por pagar la "cuota de garantía de no caducidad" determinarán su monto a pagar, aplicando la "cuota autorizada por m³" que la Secretaría de Hacienda y Crédito Público fije por primera vez, al volumen mínimo de agua sin explotar, usar o aprovechar durante dos años consecutivos anteriores a dicha fecha, y deberán efectuar el pago respectivo dentro de los seis meses siguientes a la publicación de la referida "cuota autorizada por m³".
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan Rafael Elvira Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ernesto Javier Cordero Arroyo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA LA DETERMINACIÓN Y PAGO DE LA CUOTA DE GARANTÍA DE NO CADUCIDAD DE DERECHOS DE AGUAS NACIONALES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento para la determinación y pago de la cuota de garantía de no caducidad de derechos de aguas nacionales, publicado el 27 de mayo de 2011 en el Diario Oficial de la Federación y se derogan las disposiciones administrativas que se opongan a lo previsto en el presente Decreto, salvo lo previsto en el QUINTO transitorio de este ordenamiento.
+
+TERCERO. Los trámites en materia de determinación y pago de cuota de garantía de no caducidad iniciados con anterioridad a la entrada en vigor del presente Decreto se atenderán y resolverán conforme a las disposiciones jurídicas vigentes al momento de su presentación.
+
+CUARTO. El cómputo de la primera ocasión y de las dos prórrogas para el pago de la cuota de garantía de no caducidad a que se refiere el presente Decreto se realizará respecto de cada título de concesión y asignación, a partir del primer periodo completo de dos años consecutivos sin explotar, utilizar o aprovechar total o parcialmente el volumen concesionado o asignado posterior a la entrada en vigor del presente Decreto.
+
+QUINTO. Los títulos de concesión y asignación que, a la entrada en vigor del presente Decreto, cuenten con periodos menores de dos años sin explotar, usar o aprovechar volúmenes concesionados o asignados y estos concluyan con posterioridad a la entrada en vigor de este ordenamiento, se sujetarán por única ocasión a las disposiciones del Reglamento para la determinación y pago de la cuota de garantía de no caducidad de derechos de aguas nacionales, publicado el 27 de mayo de 2011 en el Diario Oficial de la Federación, a efecto de que, en este supuesto, el pago de la cuota de garantía de no caducidad que se realice, no se considere en la cuenta de primera ocasión y sus prórrogas a que se refiere el CUARTO transitorio del presente Decreto.
