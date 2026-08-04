@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-oficina-de-la-presidencia-de-la-republica-1394
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-12-09"
-last_updated: "2025-01-24"
+last_updated: "2026-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139402&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-12-06"
 ---
 # REGLAMENTO DE LA OFICINA DE LA PRESIDENCIA DE LA REPUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA, PUBLICADO EN EL D.O.F. DE 4 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE AGOSTO DE 2026 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 9 de diciembre de 2019.
 
@@ -644,3 +646,17 @@ D.O.F. 24 DE ENERO DE 2025.
 PRIMERO.- El presente decreto entra en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- A la entrada en vigor del presente decreto se tendrán por derogados los artículos 2, fracción II; 3, fracción IX, y 36, del Reglamento de la Oficina de la Presidencia de la República, publicado en el Diario Oficial de la Federación el 9 de septiembre de 2019.
+
+D.O.F. 4 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Oficina de la Presidencia de la República publicado el 9 de diciembre de 2019 en el Diario Oficial de la Federación y se derogan las disposiciones administrativas que se opongan al presente decreto.
+
+TERCERO. Las referencias que se hagan y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, reglas, manuales y demás disposiciones administrativas a las unidades administrativas de la Oficina de la Presidencia de la República que desaparecen, cambian de denominación o modifican sus atribuciones por virtud del presente ordenamiento, se entenderán hechas u otorgadas, según el caso, a las unidades administrativas que resulten competentes conforme al presente ordenamiento.
+
+CUARTO. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este decreto, que deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella a la que este ordenamiento le atribuya la competencia respectiva y conforme a las disposiciones vigentes al momento de su inicio.
+
+QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, incluidas las que resulten de las modificaciones competenciales y de la estructura ocupacional, deberán cubrirse con cargo al presupuesto aprobado para el ejercicio fiscal 2026 y subsecuentes, mediante movimientos compensados, de conformidad con las disposiciones jurídicas aplicables. No se autorizarán ampliaciones al presupuesto regularizable de la Oficina de la Presidencia de la República.
