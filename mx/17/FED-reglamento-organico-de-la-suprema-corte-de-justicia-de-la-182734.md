@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-la-suprema-corte-de-justicia-de-la-18273
 country: "mx"
 rank: "reglamento"
 publication_date: "2025-12-10"
-last_updated: "2025-12-10"
+last_updated: "2026-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182734&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2025-12-09"
 
 REGLAMENTO ORGÁNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE AGOSTO DE 2026.
 
 Reglamento publicado en la Edición Vespertina Número 332/2025 del Diario Oficial de la Federación, el miércoles 10 de diciembre de 2025.
 
@@ -105,7 +105,7 @@ II. Dirección General de Asuntos Jurídicos;
 
 III. Dirección General del Centro de Documentación y Análisis, Archivos y Compilación de Leyes;
 
-IV. Dirección General de Enlace con los Poderes Federales, Instituciones y Autoridades Comunitarias;
+IV. (DEROGADA, D.O.F. 5 DE AGOSTO DE 2026)
 
 V. Dirección General de Derechos Humanos y Justicia Pluricultural;
 
@@ -419,9 +419,17 @@ VI. Rendir los informes sobre las controversias constitucionales y acciones de i
 
 VII. Firmar y dar fe de los proveídos emitidos por la persona titular de la Presidencia o por la Ministra o Ministro instructor, y de los actos competencia del área a su cargo;
 
-VIII. Designar a las personas directoras de área, dictaminadoras y secretarias auxiliares para que realicen las certificaciones de plazos en los asuntos de su competencia, y
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2026)</small>
 
-IX. Dar seguimiento al eficaz cumplimiento de las sentencias de su competencia en términos del artículo 17 Constitucional.
+VIII. Designar a las personas directoras de área, dictaminadoras y secretarias auxiliares para que realicen las certificaciones de plazos en los asuntos de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+IX. Propiciar el acercamiento entre las diferentes áreas jurisdiccionales y las de apoyo a la labor jurisdiccional de la Suprema Corte con las autoridades obligadas y vinculadas al cumplimiento de sentencias, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+X. Dar seguimiento al eficaz cumplimiento de las sentencias de su competencia en términos del artículo 17 Constitucional.
 
 ### CAPÍTULO CUARTO. SECRETARÍA GENERAL DE LA PRESIDENCIA
 
@@ -465,9 +473,33 @@ XVII. Supervisar las labores de estudio, investigación y difusión en materia d
 
 XVIII. Coordinar la realización de eventos de divulgación del quehacer institucional, y autorizar, en su caso, actividades no programadas de promoción y difusión de los saberes jurídicos;
 
-XIX. Coordinar las políticas, estrategias y procedimientos de operación de las áreas que se le adscriban, y
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2026)</small>
 
-XX. Prestar los apoyos que requieran las Ministras y Ministros, en el ámbito de su competencia.
+XIX. Coordinar las políticas, estrategias y procedimientos de operación de las áreas que se le adscriban;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+XX. Impulsar estrategias de vinculación que permitan a los órganos y áreas coordinarse con otras instituciones y las autoridades de los pueblos y comunidades indígenas y afromexicanas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+XXI. Apoyar, en coordinación con los órganos y áreas, en la organización de audiencias públicas que instruya la persona titular de la Presidencia, así como coadyuvar como enlace con autoridades para facilitar al Pleno de la Suprema Corte la celebración de sesiones extraordinarias en territorio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+XXII. Diseñar y establecer mecanismos de rendición de cuentas de la Suprema Corte, a través de foros interinstitucionales, informes públicos o comparecencias ante la ciudadanía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+XXIII. Gestionar y coordinar la participación de la Suprema Corte en redes de cooperación internacional y foros multilaterales, así como la atención de estos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+XXIV. Dictaminar la procedencia de acudir a invitaciones nacionales e internacionales recibidas por la Suprema Corte, así como elaborar fichas técnicas para que las personas servidoras públicas designadas cuenten con la información necesaria, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+XXV. Prestar los apoyos que requieran las Ministras y Ministros, en el ámbito de su competencia.
 
 ###### Artículo 14.
 
@@ -557,11 +589,29 @@ XX. Certificar los documentos que contengan los acuerdos y demás disposiciones 
 
 XXI. Solicitar a los órganos, áreas y a la Unidad de Administración de la Suprema Corte la documentación, información y gestiones necesarias para el cumplimiento de sus funciones y obligaciones, en términos de las disposiciones jurídicas aplicables;
 
-XXII. Presidir el Comité de Transparencia de la Suprema Corte, y
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2026)</small>
 
-XXIII. Orientar a las personas servidoras públicas que den cuenta de hechos posiblemente constitutivos de alguna conducta que ponga en riesgo el servicio público o el desarrollo de funciones en la Suprema Corte.
+XXII. Presidir el Comité de Transparencia de la Suprema Corte;
 
-Las atribuciones previstas en las fracciones II, III, V, VI, VII, IX, XVI y XXI de este artículo podrán ser ejercidas, indistintamente, de manera separada o conjunta y en cualquier momento o etapa del juicio, procedimiento o instancia correspondiente, por la persona titular de la Dirección General de Asuntos Jurídicos, así como por las personas subdirectoras generales adscritas a dicha Dirección General, salvo lo previsto en el párrafo siguiente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+XXIII. Opinar respecto a la procedencia técnica de la suscripción de convenios con los Poderes, organismos nacionales e internacionales y autoridades comunitarias que celebre la Suprema Corte, a efecto de establecer bases y mecanismos de cooperación institucional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+XXIV. Resguardar, sistematizar y dar seguimiento a los convenios celebrados por la Suprema Corte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+XXV. Operar un sistema integral de monitoreo, clasificación y análisis de iniciativas legislativas relevantes, así como diseñar líneas de acción estratégicas, alertas jurídicas y posicionamientos institucionales, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+XXVI. Orientar a las personas servidoras públicas que den cuenta de hechos posiblemente constitutivos de alguna conducta que ponga en riesgo el servicio público o el desarrollo de funciones en la Suprema Corte.
+
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+Las atribuciones previstas en las fracciones II, III, V, VI, VII, IX, XVI y XXI de este artículo podrán ser ejercidas, indistintamente, de manera separada o conjunta y en cualquier momento o etapa del juicio, procedimiento o instancia correspondiente, por la persona titular de la Dirección General de Asuntos Jurídicos, así como por las personas subdirectoras generales. Las personas directoras de área podrán ejercer las atribuciones previstas en las fracciones V y VI del presente artículo. Lo anterior, salvo lo previsto en el párrafo siguiente.
 
 Únicamente la persona titular de la Dirección General de Asuntos Jurídicos, previa autorización de la persona titular de la Presidencia podrá desistirse en los procedimientos, juicios o medios de impugnación, otorgar el perdón en los procedimientos penales, así como celebrar convenios para dar por concluidas controversias de las cuales la Suprema Corte sea parte.
 
@@ -593,27 +643,7 @@ XI. Recibir, dar trámite y desahogar las solicitudes de versiones impresas de l
 
 ###### Artículo 17.
 
-La Dirección General de Enlace con los Poderes Federales, Instituciones y Autoridades Comunitarias tendrá las atribuciones siguientes:
-
-I. Coordinar y ejecutar las acciones de enlace institucional con los Poderes de la Unión, gobiernos locales y autoridades comunitarias indígenas y afromexicanas y organismos nacionales e internacionales;
-
-II. Impulsar estrategias de vinculación que permita a los órganos y áreas coordinarse con otras instituciones y las autoridades de los pueblos y comunidades indígenas y afromexicanas;
-
-III. Opinar respecto a la procedencia técnica de la suscripción de convenios con los Poderes, organismos nacionales e internacionales y autoridades comunitarias que celebre la Suprema Corte, a efecto de establecer bases y mecanismos de cooperación institucional, para su posterior dictaminación jurídica por parte de la Dirección General de Asuntos Jurídicos;
-
-IV. Resguardar, sistematizar y dar seguimiento a los convenios celebrados por la Suprema Corte;
-
-V. Operar un sistema integral de monitoreo, clasificación y análisis de iniciativas legislativas relevantes, así como diseñar líneas de acción estratégicas, alertas jurídicas y posicionamientos institucionales;
-
-VI. Propiciar el acercamiento entre las diferentes áreas jurisdiccionales de la Suprema Corte con las autoridades obligadas y vinculadas al cumplimiento de sentencias;
-
-VII. Apoyar, en coordinación con los órganos y áreas, en la organización de audiencias públicas que instruya la persona titular de la Presidencia, así como coadyuvar como enlace con autoridades para facilitar al Pleno de la Suprema Corte la celebración de sesiones extraordinarias en territorio;
-
-VIII. Diseñar y establecer mecanismos de rendición de cuentas de la Suprema Corte, a través de foros interinstitucionales, informes públicos o comparecencias ante la ciudadanía;
-
-IX. Gestionar y coordinar la participación de la Suprema Corte en redes de cooperación internacional y foros multilaterales, y
-
-X. Dictaminar la procedencia de acudir a invitaciones nacionales e internacionales recibidas por la Suprema Corte, así como elaborar fichas técnicas para que las personas servidoras públicas designadas cuenten con la información necesaria.
+(DEROGADO, D.O.F. 5 DE AGOSTO DE 2026)
 
 ###### Artículo 18.
 
@@ -659,9 +689,17 @@ XIX. Establecer mecanismos e instrumentos de coordinación entre las jurisdiccio
 
 XX. Generar mecanismos de acercamiento, conocimiento, sistematización y análisis del ejercicio de la jurisdicción indígena cuando así se requiera;
 
-XXI. Sistematizar, en coordinación con las áreas competentes, la información documental y de campo de los sistemas jurídicos comunitarios, y
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2026)</small>
 
-XXII. Generar opiniones especializadas en materia de derechos humanos y pluralismo jurídico.
+XXI. Sistematizar, en coordinación con las áreas competentes, la información documental y de campo de los sistemas jurídicos comunitarios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+XXII. Coordinar y ejecutar, previa autorización de la Secretaría General de la Presidencia, las acciones de enlace institucional con los Poderes de la Unión, gobiernos locales y autoridades comunitarias indígenas y afromexicanas y organismos nacionales e internacionales, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 5 DE AGOSTO DE 2026)</small>
+
+XXIII. Generar opiniones especializadas en materia de derechos humanos y pluralismo jurídico.
 
 ###### Artículo 19.
 
@@ -1142,3 +1180,21 @@ Así lo acordó y firma el Ministro Hugo Aguilar Ortiz, Presidente de la Suprema
 Ministro Presidente Hugo Aguilar Ortiz.- Rúbrica.- Directora General de Asuntos Jurídicos, Maestra Camelia Gaspar Martínez.- Rúbrica.
 
 En la Ciudad de México a nueve de diciembre de dos mil veinticinco, la Maestra Camelia Gaspar Martínez, Directora General de Asuntos Jurídicos de la Suprema Corte de Justicia de la Nación, con fundamento en el artículo 8 fracción XVI y 10 fracción XIII, del Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación.- CERTIFICA: Que las presentes copias constantes de 35 (treinta y cinco) fojas útiles, concuerdan fiel y exactamente con los documentos que obran en los archivos de la Dirección General de Asuntos Jurídicos a mi cargo.- Directora General de Asuntos Jurídicos, Maestra Camelia Gaspar Martínez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL REGLAMENTO ORGÁNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE FECHA CATORCE DE JULIO DE DOS MIL VEINTISÉIS, DEL MINISTRO PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+
+PRIMERO. La presente reforma al Reglamento Orgánico de la Suprema Corte de Justicia de la Nación entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. En su caso, deberá formalizarse la entrega y recepción de recursos, información y documentación a la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad; la Secretaría General de la Presidencia; la Dirección General de Asuntos Jurídicos, y la Dirección General de Derechos Humanos y Justicia Pluricultural, según corresponda, con motivo de la entrada en vigor de la presente reforma al Reglamento Orgánico de la Suprema Corte de Justicia de la Nación, de conformidad con las disposiciones jurídicas aplicables.
+
+TERCERO. Se deberán realizar las acciones necesarias ante la Unidad de Administración de la Suprema Corte de Justicia de la Nación, para adecuar las estructuras orgánicas y los manuales administrativos correspondientes, conforme a la presente reforma al Reglamento Orgánico de la Suprema Corte de Justicia de la Nación, en un plazo no mayor de noventa días naturales contados a partir de la entrada en vigor del presente instrumento.
+
+CUARTO. Las referencias que se hagan en las disposiciones jurídicas aplicables a la Dirección General de Enlace con los Poderes Federales, Instituciones y Autoridades Comunitarias, se entenderán hechas a los órganos y áreas que asumen las atribuciones, según la materia de que se trate.
+
+QUINTO. Se instruye a los órganos y áreas de la Suprema Corte de Justicia de la Nación que se coordinen con la Unidad de Administración de la Suprema Corte de Justicia de la Nación, para realizar las adecuaciones comprendidas en la fracción III, del artículo 7o., y la fracción III, del artículo 8o., del Reglamento Orgánico de la Suprema Corte de Justicia de la Nación, respecto a las estructuras organizacionales y ocupacionales, así como los manuales de organización y de procedimientos de las áreas y órganos, que para estos últimos, se deberán tomar en consideración las posibilidades materiales, formales y temporales, así como las necesidades que el servicio requiera y su naturaleza.
+
+SEXTO. Publíquese la presente reforma al Reglamento Orgánico de la Suprema Corte de Justicia de la Nación en el Diario Oficial de la Federación, el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
