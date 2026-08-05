@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2026-07-09"
+last_updated: "2026-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2026.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -412,6 +412,14 @@ No serán considerados como supuestos de exposición o estado de abandono los ca
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2021)</small>
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a instaurar políticas de fortalecimiento familiar y tomar las medidas necesarias con la finalidad de evitar la separación física de niñas, niños y adolescentes de su madre, padre y entorno familiar y para que, en su caso, sean atendidos a través de las medidas de protección que dispone el artículo 19 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2026)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán el fortalecimiento de entornos familiares protectores y de redes familiares de apoyo que contribuyan al desarrollo integral de niñas, niños y adolescentes, entendidos aquellos como espacios de convivencia en los que crecen en condiciones de cuidado, respeto, afecto y estabilidad emocional, incluyendo la participación y acompañamiento de abuelas, abuelos y otros familiares en su cuidado y formación.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2026)</small>
+
+Las autoridades competentes impulsarán acciones de orientación y acompañamiento familiar que favorezcan la participación de las redes familiares de apoyo, con la coadyuvancia del Sistema para el Desarrollo Integral de la Familia del Estado de Michoacán, en el ámbito de sus atribuciones.
 
 ###### Artículo 16.
 
@@ -2690,3 +2698,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La implementación del presente Decreto se realizará con cargo a los recursos disponibles de las instancias competentes, por lo que no se autorizarán ampliaciones presupuestales adicionales.
 
 TERCERO. Las autoridades competentes deberán armonizar sus programas y acciones conforme al presente Decreto, con cargo a su presupuesto autorizado.
+
+P.O. 5 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 492 POR EL QUE "SE ADICIONAN DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 15 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, realizarán las acciones necesarias para el cumplimiento del presente Decreto.
