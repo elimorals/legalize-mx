@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-la-secretaria-de-administracion-y-181702"
 country: "mx"
 rank: "codigo"
 publication_date: "2025-09-20"
-last_updated: "2025-09-20"
+last_updated: "2026-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS, PUBLICADO EN EL P.O. DE 5 DE AGOSTO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS, DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2026 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 20 de septiembre de 2025.
 
@@ -580,3 +582,13 @@ DADO EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS 10 DÍAS
 L.C.P. JULIÁN ENRIQUE ROMEROOROPEZA
 
 SECRETARIO DE ADMINISTRACIÓN Y FINANZAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS"]
+
+PRIMERO. El presente Código de Conducta entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Código de Conducta de la Secretaría de Administración y Finanzas, publicado en el Periódico Oficial del Estado de Tabasco, (sic) el suplemento K, Edición 8665 de fecha 20 de septiembre 2025.
