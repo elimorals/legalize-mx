@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-mental-del-estado-de-michoacan-de-ocampo-102417"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2026-05-26"
+last_updated: "2026-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2026.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -367,13 +367,17 @@ IV BIS. La mejora continua en los centros destinados a la prevención, orientaci
 
 V. Detectar y atender de manera inmediata a personas que practiquen actividades que pongan en riesgo su vida;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2026)</small>
 
-VI. Elaborar programas que promuevan la referencia de estudiantes que presenten conductas disfuncionales en las distintas áreas del desarrollo humano; y,
+VI. Elaborar programas que promuevan la referencia de estudiantes que presenten conductas disfuncionales en las distintas áreas del desarrollo humano;
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2026)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2026)</small>
 
-VII. Realizar programas de prevención en materia de salud mental perinatal, incluyendo ansiedad, depresión y psicosis postparto.
+VII. Realizar programas de prevención en materia de salud mental perinatal, incluyendo ansiedad, depresión y psicosis postparto; y,
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2026)</small>
+
+VIII. Promover programas de apoyo emocional, orientación y prevención del desgaste físico, emocional y mental de las personas cuidadoras de personas que requieran cuidados permanentes o de larga duración.
 
 ###### Artículo 17.
 
@@ -992,3 +996,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. La Secretaría de Salud del Estado contará con un plazo de ciento ochenta días naturales para emitir o adecuar los lineamientos y protocolos necesarios para el cumplimiento del presente Decreto. La implementación de las acciones previstas se realizará de manera gradual y progresiva, conforme a la capacidad instalada, disponibilidad presupuestaria y suficiencia operativa de las unidades administrativas competentes.
 
 Tercero. Las dependencias y entidades competentes realizarán las adecuaciones administrativas necesarias para el cumplimiento del presente Decreto con los recursos humanos, materiales y financieros existentes.
+
+P.O. 5 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 480.- ARTÍCULO SEGUNDO.- SE REFORMAN LAS FRACCIONES VI Y VII Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 16 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Salud del Estado implementará las acciones derivadas del presente Decreto de manera progresiva, conforme a su capacidad institucional, operativa y presupuestaria.
+
+TERCERO. La Secretaría de Salud del Estado podrá coordinarse con las instituciones públicas, sociales y privadas que resulten competentes, a efecto de fortalecer las acciones de orientación, apoyo emocional y prevención de la sobrecarga física, emocional y mental de las personas cuidadoras.
