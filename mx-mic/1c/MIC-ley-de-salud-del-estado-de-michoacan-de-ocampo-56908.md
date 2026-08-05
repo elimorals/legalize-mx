@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2026-07-24"
+last_updated: "2026-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -1194,6 +1194,10 @@ X. La prevención de enfermedades crónico degenerativas y la concientización s
 La Salud Pública tiene por objeto promover la salud, para prevenir enfermedades y prolongar la vida, a través del esfuerzo comunitario organizado.
 
 Dentro de las necesidades básicas del ser humano se encuentra la salud mental; por ello, la Secretaría de Salud, conforme a su capacidad instalada, habilitará áreas de atención especializada en salud mental en los establecimientos de salud de primer nivel de atención del Estado, a fin de brindar atención integral a la población que lo requiera, desde un enfoque preventivo y garantizará los servicios de psiquiatría en el segundo nivel de atención, cuando exista referencia médica.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2026)</small>
+
+Asimismo, la Secretaría promoverá, dentro de los servicios de salud mental del primer nivel de atencioìn (sic), programas de orientacioìn (sic), apoyo emocional y prevencioìn (sic) del desgaste físico y mental dirigidos a las personas cuidadoras de personas que requieran cuidados permanentes o de larga duración.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2024)</small>
 
@@ -3980,3 +3984,13 @@ TERCERO. La Secretarla de Salud del Estado, a través de la instancia competente
 CUARTO. Los Centros de Atención Integral para Personas con Adicciones deberán adecuar sus registros, procedimientos internos y mecanismos de resguardo de información a lo previsto en el presente Decreto, de conformidad con la normatividad aplicable en materia de salud, confidencialidad y protección de datos personales, dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
 
 QUINTO. Las acciones derivadas del presente Decreto se realizarán con cargo al presupuesto aprobado de las autoridades competentes, por lo que no implicarán la creación inmediata de nuevas estructuras administrativas ni compromisos presupuestales adicionales, salvo disponibilidad presupuestaria y conforme a la legislación aplicable.
+
+P.O. 5 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 480.- ARTÍCULO PRIMERO.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 30 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN LAS FRACCIONES VI Y VII Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 16 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Salud del Estado implementará las acciones derivadas del presente Decreto de manera progresiva, conforme a su capacidad institucional, operativa y presupuestaria.
+
+TERCERO. La Secretaría de Salud del Estado podrá coordinarse con las instituciones públicas, sociales y privadas que resulten competentes, a efecto de fortalecer las acciones de orientación, apoyo emocional y prevención de la sobrecarga física, emocional y mental de las personas cuidadoras.
