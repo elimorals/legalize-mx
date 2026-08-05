@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-economico-del-estado-de-michoacan-de-103814"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-03"
-last_updated: "2026-05-26"
+last_updated: "2026-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2026.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -145,9 +145,9 @@ XVI. Identificar el sector productivo preponderante de zonas marginadas del Esta
 
 XVII. Proponer al Titular del Poder Ejecutivo del Estado, la celebración de convenios y acuerdos con el Ejecutivo Federal, con gobiernos de las entidades federativas, municipios, organizaciones de la sociedad civil, para la ejecución conjunta de programas de desarrollo económico;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2026)</small>
 
-XVIII. Impulsar la generación de fuentes de empleo o el autoempleo de los michoacanos, incluyendo acciones para incorporar a las actividades productivas a personas con discapacidad, adultos mayores, recién egresados de las instituciones educativas del estado, jóvenes y mujeres;
+XVIII. Impulsar la generación de fuentes de empleo o el autoempleo de los michoacanos, mediante acciones presenciales y digitales que favorezcan el acceso a mecanismos de vinculación laboral, capacitación, orientación y participación en oportunidades productivas, incluyendo modalidades remotas o híbridas, para incorporar a las actividades productivas a personas con discapacidad, adultos mayores, recién egresados de las instituciones educativas del estado, jóvenes y mujeres;
 
 XIX. Promover en el mercado estatal, nacional e internacional los productos y servicios Michoacanos;
 
@@ -155,15 +155,15 @@ XIX. Promover en el mercado estatal, nacional e internacional los productos y se
 
 XX. Estimular el comercio exterior en el Estado, y la definición de los apoyos que se requieran, para ofrecer estrategias de desarrollo económico en beneficio de las empresas y sociedades cooperativas Michoacanas;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2026)</small>
 
-XXI. Consolidar la competitividad de la planta productiva estatal, la implementación de programas que otorguen apoyos de gestoría, consultoría, capacitación y económicos, como son: infraestructura, incentivos fiscales, financiamientos y adopción de estrategias de innovación para el desarrollo económico;
+XXI. Consolidar la competitividad de la planta productiva estatal, mediante la implementación de programas que otorguen apoyos de gestoría, consultoría, capacitación y económicos, con enfoque en formación financiera, emprendedora y cuidado del capital, brindando un acompañamiento continuo a las empresas de reciente creación, como son: infraestructura, incentivos fiscales, financiamientos y adopción de estrategias de innovación para el desarrollo económico;
 
 XXII. Promover y desarrollar corredores turísticos, comerciales, de servicios, parques industriales y agropecuarios, así como zonas integrales de actividades logísticas en puntos de fácil acceso, dotándolos con infraestructura y servicios necesarios para el desarrollo de los mismos;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2026)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2026)</small>
 
-XXIII. Promover la vinculación de los sectores educativo y productivo, para obtener una mano de obra adecuada a la demanda de las empresas, así como apoyar proyectos productivos de los jóvenes para estimular su capacidad emprendedora y de participación para la integración de sociedades cooperativas;
+XXIII. Promover la vinculación de los sectores educativo y productivo, para obtener una mano de obra adecuada a la demanda de las empresas, así como apoyar proyectos productivos de los jóvenes para estimular su capacidad emprendedora y de participación para la integración de sociedades cooperativas, mediante el impulso de acciones de difusión y acceso a los programas, apoyos, mecanismos y herramientas existentes en materia de autoempleo, emprendimiento y desarrollo económico;
 
 XXIV. Implementar estrategias y mecanismos para industrializar los productos agrícolas, pecuarios, ganaderos, pesqueros, forestales y mineros;
 
@@ -778,5 +778,17 @@ CUARTO. La normativa que refiere el segundo párrafo de la fracción I del artí
 P.O. 26 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 439 POR EL QUE SE "REFORMAN LOS ARTÍCULOS 1, 3 Y 4 EN SUS FRACCIONES III, IV, VII, XIV, XX, XXIII, XL, XLVI, Y XLVII; 19 EN SU FRACCIÓN XIX; 27, 30; 37 Y 40, DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 490.- ÚNICO.- SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 4 DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 491.- ÚNICO.- SE REFORMAN LAS FRACCIONES XXI Y XXIII DEL ARTÍCULO 4 DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
