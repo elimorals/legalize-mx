@@ -4,7 +4,7 @@ identifier: "HID-ley-de-poblacion-para-el-estado-de-hidalgo-50965"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-03"
-last_updated: "2025-12-29"
+last_updated: "2026-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 3 de julio de 2006.
 
@@ -233,9 +233,15 @@ XI.- Contribuir a controlar la expansión del crecimiento urbano sobre terrenos 
 
 XII.- Establecer acciones entre dependencias, Entidades Estatales y Municipales, así como con organismos no Gubernamentales, para el auxilio de la Población, en las áreas que se prevea u ocurra algún desastre;
 
-XIII.- Contemplar la realización de estudios, análisis e investigaciones, para ampliar el conocimiento demográfico, con objeto de integrar el Sistema Estatal de información socio-demográfico; y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
 
-XIV.- Las demás que sean necesarias para que la Población del Estado, alcance mayores niveles de bienestar.
+XIII.- Contemplar la realización de estudios, análisis e investigaciones, para ampliar el conocimiento demográfico, con objeto de integrar el Sistema Estatal de información socio-demográfico;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2026)</small>
+
+XIV.- Incorporar en la planeación demográfica estatal el análisis de la organización social de los cuidados como un factor estructural de la dinámica poblacional, a efecto de orientar la formulación de políticas públicas de mediano y largo plazo; y
+
+XV.- Las demás que sean necesarias para que la Población del Estado, alcance mayores niveles de bienestar.
 
 ###### Artículo 12.
 
@@ -626,5 +632,13 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 P.O. 29 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 384 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 10 DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE FORTALECIMIENTO SOBRE PLANEACIÓN DEMOGRÁFICA SUSTENTABLE.”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 676 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 11 DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA (SIC) ORGANIZACIÓN SOCIAL DE LOS CUIDADOS COMO FACTOR EN LA PLANEACIÓN DEMOGRÁFICA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
