@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-turismo-del-estado-de-michoacan-de-ocampo-81262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-03"
-last_updated: "2026-02-12"
+last_updated: "2026-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE TURISMO DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2026.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Michoacán, el martes 3 de mayo de 2011.
 
@@ -1273,15 +1275,21 @@ IV. Talleres interactivos y actividades educativas dirigidas a los visitantes.
 
 ### CAPÍTULO II. DEL REGISTRO TURÍSTICO Y LA ESTANCIA TURÍSTICA EVENTUAL
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2026)</small>
 
 ###### ARTÍCULO 115 Quater.
 
-El Registro Turístico Estatal será creado y operado por la Entidad responsable del Gobierno Digital en el Estado de Michoacán y la Secretaría será la encargada de regularlo y coordinarlo, el registro tendrá como propósito:
+Corresponde a la Secretaría regular y operar el Registro Turístico del Estado, el cual será administrado a través de un sistema informático. El registro tendrá como propósito:
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
 I. Identificar a las y los prestadores de servicios turísticos del Estado de Michoacán; e,
 
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
 II. Integrar una base de datos confiable que permita a las autoridades vigilar el correcto funcionamiento en la prestación de servicios turísticos, así como el pago de las contribuciones correspondientes de conformidad con la presente Ley y normativa en la materia.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 Para ser incorporados en este registro y obtener folio de registro, los prestadores de servicios turísticos deberán presentar:
 
@@ -1311,19 +1319,33 @@ XII. En su caso, carátula de la póliza o documento que acredite que cada Inmue
 
 XIII. Los demás establecidas en el Reglamento de esta Ley.
 
-Los requisitos señalados en las fracciones VI al XII son obligatorios para prestadores de servicios turísticos de hospedaje.
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
-Los integrantes de los padrones de anfitriones y Plataformas Tecnológicas de manera automática formarán en parte del Registro Turístico Estatal.
+Los requisitos señalados en las fracciones VI al XII son obligatorios para prestadores de servicios turísticos de hospedaje.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
+Los integrantes de los padrones de anfitriones y Plataformas Tecnológicas de manera automática formarán en parte del Registro Turístico Estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2026)</small>
+
 ###### ARTÍCULO 115 Quinquies.
 
-La Entidad responsable del Gobierno Digital en el Estado de Michoacán será la encargada de crear y operar el Padrón de Anfitriones y el Padrón de Plataformas Tecnológicas y la Secretaría será la encargada de regularlo y coordinarlo, los padrones tendrán como propósito:
+La Secretaría será la encargada de regular, administrar y operar el Padrón de Anfitriones y el Padrón de Plataformas Tecnológicas, a través de los sistemas informáticos respectivos.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES UBICADO EN LA PARTE FINAL DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO], P.O. 6 DE AGOSTO DE 2026)</small>
+
+Los padrones tendrán como propósito:
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
 I. Identificar a las y los anfitriones y plataformas tecnológicas que ofrezcan, proporcionen o contraten al turista el servicio de Estancia Turística Eventual en el Estado;
 
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
 II. Identificar los inmuebles de uso habitacional donde se brinde el servicio de Estancia Turística Eventual; e,
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
 III. Integrar una base de datos confiable que permita a las autoridades vigilar el correcto funcionamiento en la prestación de este servicio, así como el pago de las contribuciones correspondientes de conformidad con la presente Ley y normativa en la materia.
 
@@ -1341,7 +1363,9 @@ III. Incluir de manera visible en todo anuncio en plataformas tecnológicas el f
 
 IV. Proporcionar a los turistas información clara, cierta y detallada de las características, precios y reglas de uso del inmueble ofertado;
 
-V. Exhibir en un sitio visible del inmueble los números de emergencia, los números de contacto para solicitar la asistencia del Anfitrión o un representante, así como la constancia y folio del inmueble otorgado por la Dirección General de Gobierno Digital Michoacán;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
+
+V. Exhibir en un sitio visible del inmueble los números de emergencia, los números de contacto para solicitar la asistencia del Anfitrión o un representante, así como la constancia y folio del inmueble otorgado por la Secretaría, mediante el sistema informatico;
 
 VI. Proporcionar semestralmente a la Secretaría, en los meses de enero y julio de cada año, un reporte del número de ocasiones en las que se han ocupado los inmuebles, la cantidad de noches ocupadas durante el periodo a reportar; proporcionar información falsa o ser omiso en la entrega de los informes de referencia, será motivo de baja del Padrón;
 
@@ -1367,9 +1391,13 @@ Son obligaciones de las Plataformas Tecnológicas a través de su representante 
 
 I. Incorporarse al Padrón de Plataformas Tecnológicas y mantener vigente su registro; este registro tendrá una vigencia de dos años y deberá ser renovado treinta días antes de su vencimiento;
 
-II. Solicitar a los Anfitriones la constancia y el folio de registro otorgado por la Entidad responsable del Gobierno Digital en el Estado de Michoacán al momento de realizar la inscripción en el Padrón de Anfitriones como requisito indispensable para ofertar los inmuebles;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
 
-III. Verificar la autenticidad y vigencia del folio mediante el sistema de consulta que para tal efecto ponga a disposición la Entidad responsable del Gobierno Digital en el Estado de Michoacán;
+II. Solicitar a los anfitriones la constancia y el folio de registro otorgado por la Secretaría, mediante el sistema informático, al momento de realizar la inscripción en el Padrón de Anfitriones como requisito indispensable para ofertar los inmuebles;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
+
+III. Verificar la autenticidad y vigencia del folio mediante el sistema de consulta que para tal efecto ponga a disposición la Secretaría;
 
 IV. Mostrar dentro de su plataforma, en cada anuncio, la constancia y folio del registro en el Padrón de Anfitriones para consulta de los potenciales usuarios;
 
@@ -1381,37 +1409,63 @@ VII. Cumplir con las obligaciones en materia fiscal establecidas en la normativi
 
 VIII. Las demás que se señale en la normatividad aplicable en el Estado.
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2026)</small>
 
 ###### ARTÍCULO 115 Octies.
 
-El Padrón de Anfitriones es el registro creado y operado por la Entidad responsable del Gobierno Digital en el Estado de Michoacán y la Secretaría será la encargada de regularlo y coordinarlo, en el que los anfitriones registran cada uno de los inmuebles destinados a brindar el servicio de Estancia Turística Eventual.
+El Padrón de Anfitriones es el registro público en el que deberán inscribirse todas las personas físicas o morales que presten o pretendan prestar el servicio de Estancia Turística Eventual, así como los inmuebles que destinen para ello.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 Para ser incorporados en este Padrón y obtener el folio de registro, los anfitriones deberán presentar:
 
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
 I. Nombre, denominación o razón social y nacionalidad del Anfitrión;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
 II. Identificación oficial vigente con domicilio o Carta Bajo protesta de decir verdad que habita el domicilio donde se encuentran los cuartos o habitaciones que se ofertan en las plataformas tecnológicas;
 
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
 III. Documento con el que acredita la propiedad, administración o posesión de cada uno de los inmuebles registrados;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
 IV. Cédula de Registro Federal de Contribuyentes;
 
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
 V. Constancia de situación fiscal;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
 VI. Comprobante de domicilio del inmueble que se inscribe;
 
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
 VII. Tipo de inmueble que se inscribe de acuerdo al tipo contenido en la fracción VIII del artículo 4 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
 VIII. Nombre de la Plataforma o plataformas tecnológicas en las que se ofrece cada inmueble;
 
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
 IX. Documento expedido por la autoridad competente que indique que el inmueble cumple con las medidas de seguridad, atendiendo la normatividad en materia de gestión integral de riesgos y protección civil, por cada inmueble registrado;
 
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
 X. Licencia de funcionamiento expedida por la autoridad municipal correspondiente;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
 XI. Carátula de la póliza o documento que acredite que cada inmueble cuenta con seguro de responsabilidad civil suficiente que cubra posibles riesgos en la prestación de los servicios, por cada inmueble registrado, cuando cuente con éste; número telefónico y correo electrónico para recibir y resolver quejas respecto al uso de los inmuebles por parte de vecinos y turistas, por cada inmueble registrado.
 
 Lo anterior, podrá ser acreditado de manera individual por el propietario o poseedor del inmueble, o bien, de manera solidaria en conjunto con la plataforma tecnológica a través de la cual se oferten los servicios; y,
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
 XII. Las demás establecidas en el Reglamento de esta Ley.
 
@@ -1447,7 +1501,7 @@ VII. Número telefónico y correo electrónico para recibir y resolver quejas po
 
 VIII. Carátula de la póliza de seguro de responsabilidad civil de la plataforma, contratada con una institución aseguradora acreditada ante la Comisión Nacional de Seguros y Fianzas, que cubra los riesgos derivados de su actividad de intermediación;
 
-IX. Descripción del sistema técnico que implementarán para verificar la autenticidad y vigencia de los folios de registro de los anfitriones en el Padrón Estatal;
+IX. (DEROGADA, P.O. 6 DE AGOSTO DE 2026)
 
 X. Acuerdo de colaboración mediante el cual se comprometan a actuar como agentes de retención del Impuesto sobre Hospedaje, en los términos que señale la legislación del Estado; y,
 
@@ -1553,9 +1607,9 @@ Por infracciones a esta Ley, la Secretaría impondrá las siguientes sanciones:
 
 I. Por infracciones a lo establecido en las fracciones III, XIII, XIV, XVI y XVII del Artículo 115, se impondrá una multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
 
-II. Por infracciones a lo previsto en la fracción VIII del artículo 53, el artículo 113 y las fracciones V, VII, VIII, IX y XI del artículo 115, se sancionará con multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización; y,
+II. Por infracciones a lo previsto en la fracción VIII del artículo 53, el artículo 113 y las fracciones V, VII, VIII, IX, XI y XIII Ter del artículo 115, se sancionará con multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización; y,
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
 
@@ -1754,3 +1808,31 @@ CUARTO. A partir de la publicación del presente Decreto, la Secretaría de Turi
 QUINTO. A partir de la fecha de creación del sistema electrónico para el registro de Plataformas Tecnológicas, éstas tendrán un plazo de cincuenta días naturales para registrarse.
 
 SEXTO. A partir de la fecha de creación del sistema electrónico para el registro de Anfitriones, éstos tendrán un plazo de noventa días naturales para registrarse e incorporar sus inmuebles a dicho Padrón, así como para registrar su constancia y folio dentro de las Plataformas en las que se encuentren ofreciendo sus inmuebles, con lo cual estarán en posibilidad de presentar los informes referidos en el artículo 115 Sexies fracción VI de la presente Ley.
+
+P.O. 6 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 489. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 115 QUATER; EL ARTÍCULO 115 QUINQUIES; LA FRACCIÓN V DEL ARTÍCULO 115 SEXIES; LAS FRACCIONES II Y III DEL ARTÍCULO 115 SEPTIES; EL PRIMER PÁRRAFO DEL ARTÍCULO 115 OCTIES; Y LA FRACCIÓN II DEL ARTÍCULO 129; Y SE DEROGA LA FRACCIÓN IX DEL ARTÍCULO 115 DECIES, TODOS CORRESPONDIENTES A LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Quedan sin efectos los artículos transitorios TERCERO, CUARTO, QUINTO y SEXTO del Decreto número 258 publicado en el Periódico Oficial del Estado con fecha jueves 12 de febrero del año 2026.
+
+TERCERO. A partir de la publicación del presente Decreto, la Secretaría dispondrá de 90 días naturales para realizar las reformas que correspondan al Reglamento de la Ley de Turismo del Estado de Michoacán de Ocampo, para la aplicación de la Ley.
+
+Para la implementación de los sistemas informáticos a través de los cuales la Secretaría gestionará y administrará los registros y padrones a que esta reforma se refiere, se deberá observar lo siguiente:
+
+La Dirección General de Gobierno Digital o la unidad responsable de la conducción de la política pública en materia de gobierno digital, del Poder Ejecutivo, en Michoacán; a partir de la entrega del proyecto del sistema de registro de prestadores de servicios turísticos y padrones por parte de la Secretaría; procederá conforme a sus atribuciones, reglamento, lineamientos y las políticas correspondientes para efectos de coadyuvar en la implementación del mismo.
+
+Los sistemas y su implementación deberán estar operando al inicio del próximo ejercicio fiscal anual posterior a la entrada en vigor del presente Decreto.
+
+CUARTO. A partir de la fecha de habilitación y entrada en funcionamiento del sistema informático para el Registro Turístico del Estado, los prestadores de servicios turísticos tendrán un plazo de noventa días naturales para realizar su inscripción.
+
+QUINTO. A partir de la fecha de habilitación y entrada en funcionamiento del sistema informático para el Padrón de Plataformas Tecnológicas, éstas tendrán un plazo de
+
+cincuenta días naturales para realizar su inscripción.
+
+SEXTO. A partir de la fecha de habilitación del sistema informático para el Padrón de Anfitriones, éstos tendrán un plazo de noventa días naturales para registrarse e incorporar sus inmuebles al mismo, así como para registrar su constancia y folio dentro de las plataformas en las que se encuentren ofreciendo sus inmuebles, con lo cual estarán en posibilidad de presentar los informes referidos en el artículo 115 Sexies, fracción VI de la Ley.
+
+SÉPTIMO. Los municipios del Estado podrán prever, en el ámbito de sus atribuciones y conforme a su autonomía hacendaria, las disposiciones relativas a las licencias o autorizaciones de funcionamiento de los prestadores de servicios turísticos que resulten procedentes.
+
+OCTAVO. Los Ayuntamientos tendrán 180 días naturales, a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones reglamentarias necesarias a efecto del cumplimiento del mismo, la reglamentación correspondiente deberá cumplir con la legislación en materia turística y de protección civil del Estado de Michoacán de Ocampo.
