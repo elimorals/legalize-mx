@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-mental-y-prevencion-del-suicidio-para-el-174150"
 country: "mx"
 rank: "ley"
 publication_date: "2024-08-20"
-last_updated: "2026-07-08"
+last_updated: "2026-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174150&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE SALUD MENTAL Y PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2026.
 
 Ley publicada en el Número 34 Alcance uno del Periódico Oficial del Estado de Hidalgo, el martes 20 de agosto de 2024.
 
@@ -249,7 +249,9 @@ I. Promover la salud mental en instituciones de salud, a fin de facilitar la det
 
 II. Realizar programas para la prevención y control del uso de sustancias psicotrópicas, estupefacientes, inhalantes y otras sustancias que puedan causar alteraciones mentales o dependencia;
 
-III. Elaborar programas de prevención de riesgos psicosociales del personal sanitario;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
+
+III. Elaborar programas de prevención de riesgos psicosociales de acuerdo con la naturaleza de las funciones del puesto de trabajo, exposición a acontecimientos traumáticos severos o actos de violencia laboral al trabajador;
 
 IV. Brindar atención, prevención y tratamiento de la depresión, con énfasis en grupos vulnerables;
 
@@ -510,5 +512,11 @@ RÚBRICA
 P.O. 8 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 367 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD MENTAL Y PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE HIDALGO, EN MATERIA DE NO DISCRIMINACIÓN A PERSONAS DE LA DIVERSIDAD SEXOGENÉRICA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 683 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN III, DEL ARTÍCULO 10 DE LA LEY DE SALUD MENTAL Y PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
