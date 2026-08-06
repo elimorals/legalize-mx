@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2026-07-08"
+last_updated: "2026-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2026.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -169,9 +169,9 @@ Los planteles educativos del nivel básico y medio superior del Sistema Educativ
 
 Así mismo, dichas autoridades podrán implementar programas de capacitación y orientación, en materia de educación sexual integral y reproductiva, dirigidos a personal docente, estudiantes, padres, madres de familia o tutores. Estos programas deberán brindar información oportuna y adecuada, respetar los derechos humanos, ser sensibles al género y a la diversidad, promover la salud sexual, la dignificación del ciclo menstrual y fomentar el uso de métodos anticonceptivos.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, G.O. 6 DE AGOSTO DE 2026)</small>
 
-De igual forma, podrán implementar programas de capacitación, orientación y vigilancia, en materia de nutrición, sobrepeso, obesidad y buenos hábitos saludables; buscando fomentar una cultura de autocuidado y prevención de enfermedades desde el ámbito educativo.
+De igual forma, la Secretaría, en coordinación con la Secretaría de Salud y con la participación que corresponda a los municipios, en el ámbito de sus respectivas atribuciones, promoverá acciones de educación para la salud y entornos escolares saludables, orientadas a la alimentación nutritiva, la actividad física, la prevención del sobrepeso, obesidad, el fomento de buenos hábitos saludables, así como a la orientación y canalización a los servicios de salud cuando resulte necesario; buscando fomentar una cultura de autocuidado y prevención de enfermedades desde el ámbito educativo.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
 
@@ -2714,5 +2714,11 @@ P.O. 8 DE JULIO DE 2026.
 P.O. 8 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 573 - LXVI POR EL QUE SE ADICIONA LA FRACCIÓN III TER AL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE CULTURA DE RESPETO A LAS PERSONAS EN SITUACIÓN DE CALLE".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 684 - LXVI POR EL QUE SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN PARA LA SALUD Y PREVENCIÓN DEL SOBREPESO Y LA OBESIDAD EN EL ENTORNO ESCOLAR".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
