@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2026-07-08"
+last_updated: "2026-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1733,13 +1733,17 @@ XVII.- Elaborar y dar cumplimiento a su Agenda de Trabajo, la cual deberá estar
 
 XVIII.- Solicitar a las personas titulares de las diferentes áreas de la administración municipal, la información y demás documentación necesaria para el cumplimiento de sus funciones. Dicha solicitud se realizará por conducto de la persona titular de la Secretaría General;
 
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
 
-XIX.- Concurrir a las ceremonias cívicas y demás actos oficiales a las que sean convocados, y
+XIX.- Concurrir a las ceremonias cívicas y demás actos oficiales a las que sean convocados;
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2026)</small>
 
-XX.- Las demás que les otorguen las leyes y reglamentos.
+XX.- Proponer al Ayuntamiento la creación de Comisiones Especiales de Seguimiento a los programas y políticas públicas, y
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
+
+XXI.- Las demás que les otorguen las Leyes y Reglamentos.
 
 Los Regidores, concurrirán a las sesiones del Ayuntamiento, con voz y voto; percibirán su dieta de asistencia que señale el presupuesto de egresos del Municipio y no podrán, en ningún caso, desempeñar cargos, empleos o comisiones remuneradas en la Administración Pública Municipal.
 
@@ -3147,9 +3151,17 @@ II.- Para la permanencia:
 
 a).- Cumplir con los requisitos mencionados en las fracciones señaladas en el apartado anterior, a excepción de la edad por razón de la antigüedad dentro del servicio;
 
-b).- Acreditar que cuenta con los conocimientos, habilidades y perfil físico, médico, ético y de personalidad establecidos en el servicio profesional de carrera de los Cuerpos de Seguridad Pública; y
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2026)</small>
 
-c).- Cumplir con los principios básicos de actuación señalados en la presente Ley.
+b.- Acreditar que cuenta con los conocimientos, habilidades y perfil físico, médico, ético y de personalidad establecidos en el servicio profesional de carrera de los Cuerpos de Seguridad Pública;
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2026)</small>
+
+c.- Cumplir con los principios básicos de actuación señalados en la presente Ley; y
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2026)</small>
+
+d.- Mantener actualizado su Certificado Único Policial y registro correspondiente.
 
 > <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
@@ -5388,5 +5400,19 @@ P.O. 6 DE JULIO DE 2026.
 P.O. 8 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 584 – LXVI POR EL QUE SE REFORMA EL ARTÍCULO 49 BIS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE SESIONES ORDINARIAS DE LOS AYUNTAMIENTOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 677 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 124 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DEL CERTIFICADO ÚNICO POLICIAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los ciento ochenta días siguientes a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los Ayuntamientos de la entidad deberán efectuar las modificaciones y adecuaciones normativas y administrativas necesarias para dar cumplimiento a este Decreto, sin que ello implique autorizaciones presupuestales extraordinarias.
+
+P.O. 6 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 678 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE CREACIÓN DE COMISIONES ESPECIALES".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
