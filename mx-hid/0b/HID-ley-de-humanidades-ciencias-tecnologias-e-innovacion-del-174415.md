@@ -4,7 +4,7 @@ identifier: "HID-ley-de-humanidades-ciencias-tecnologias-e-innovacion-del-174415
 country: "mx"
 rank: "ley"
 publication_date: "2024-09-17"
-last_updated: "2025-08-06"
+last_updated: "2026-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2026.
 
 Ley publicada en el Alcance Uno del Número 38 del Periódico Oficial del Estado de Hidalgo, el martes 17 de septiembre de 2024.
 
@@ -627,7 +627,9 @@ V. Difundir e informar la investigación científica, el desarrollo tecnológico
 
 VI. Planear y programar las políticas y acciones relacionadas con la investigación científica, el desarrollo tecnológico, la innovación, las humanidades y el posgrado, de acuerdo con el Programa Estatal y con el Plan Estatal de Desarrollo;
 
-VII. Actuar como órgano de consulta y asesoría de las dependencias y Entidades de la Administración Pública Estatal y municipales, así como de los sectores social y privado cuando así lo soliciten;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
+
+VII. Actuar como órgano de consulta y asesoría de los Poderes Legislativo y Judicial del Estado de Hidalgo, de las dependencias y entidades de la Administración Pública Estatal y municipales, así como de los sectores social y privado cuando así lo soliciten;
 
 VIII. Fungir como representante del Estado en materia de investigación científica, desarrollo tecnológico, innovación y las humanidades ante la Federación y Municipios organizaciones privadas sociales y organismos internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que la persona Titular del Poder Ejecutivo del Estado solicite su participación;
 
@@ -1006,5 +1008,11 @@ P.O. 26 DE MAYO DE 2025.
 P.O. 6 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 304 - LXVI POR EL QUE SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 35 Y LA FRACCIÓN III DEL ARTÍCULO 49 DE LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN DE COMPETENCIAS Y EXPOSICIONES DE INNOVACIÓN CIENTÍFICA Y TECNOLÓGICA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 674 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 50 DE LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE FORTALECIMIENTO DE LAS ATRIBUCIONES DEL CONSEJO DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y HUMANIDADES DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
