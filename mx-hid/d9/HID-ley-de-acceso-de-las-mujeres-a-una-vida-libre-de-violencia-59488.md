@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2026-07-27"
+last_updated: "2026-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -215,9 +215,9 @@ IX.- Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el 
 
 X.- Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
 
-XI.- Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad contribuyendo a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+XI.- Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve el derecho a una vida libre de violencias, el adelanto y el bienestar de las mujeres, así como la igualdad sustantiva entre los géneros a través de la equidad contribuyendo a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -239,13 +239,13 @@ XV.- Sistema Estatal: El Sistema Estatal de Prevención, Atención, Sanción y E
 
 XVI.- Transversalidad: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
 
-VII (SIC).- Víctima: La mujer de cualquier edad a quien se le inflige algún tipo de violencia; y
+XVII.- Víctima: La mujer de cualquier edad a quien se le inflige algún tipo de violencia; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
 
-XVIII.- Violencia contra las mujeres: Cualquier acción u omisión que, a través del uso o abuso del poder ejercido sobre una mujer y basada en su género, tiene por objeto, fin o resultado causar la muerte o un daño físico, psicológico, patrimonial, económico o sexual en el ámbito público o privado.
+XVIII.- Violencia contra las mujeres: Cualquier acción, omisión o conjunto de estas que, a través del uso o abuso del poder ejercido sobre una mujer y basada en su género, tiene por objeto, fin o resultado causar o pretenda causar la muerte, o un daño físico, psicológico, patrimonial, económico o sexual en el ámbito público o privado.
 
 ###### ARTÍCULO 5.
 
@@ -2626,5 +2626,11 @@ P.O. 8 DE JULIO DE 2026.
 P.O. 27 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 663 – LXVI POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 10 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE VIOLENCIA LABORAL HORIZONTAL Y ASCENDENTE".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 675 – LXVI POR EL QUE SE REFORMAN LAS FRACCIONES XI Y XVIII DEL ARTÍCULO 4 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE PERSPECTIVA DE GÉNERO Y VIOLENCIA CONTRA LAS MUJERES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
