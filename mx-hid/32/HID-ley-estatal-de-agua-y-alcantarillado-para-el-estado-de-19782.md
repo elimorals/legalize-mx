@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2026-07-27"
+last_updated: "2026-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -707,9 +707,13 @@ El Organismo Operador Municipal tendrá a su cargo:
 
 I. Las atribuciones a que se refiere el artículo 25 de la presente Ley;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE AGOSTO DE 2026)</small>
 
-II. Elaborar el anteproyecto de las cuotas y tarifas de conformidad con lo establecido en la presente Ley, incorporando la información y documentación técnica y normativa que lo sustente, debiéndolas enviar para su revisión, análisis y opinión a su Junta de Gobierno y, posteriormente remitirlo al Congreso del Estado para su aprobación y publicación en el Periódico Oficial del Gobierno del Estado;
+II. Elaborar, a más tardar en el mes de agosto del año previo a su aplicación, el anteproyecto de las cuotas y tarifas, de conformidad con lo establecido en la presente Ley, incorporando la información y documentación técnica y normativa que lo sustente, debiéndolas enviar para su revisión, análisis y autorización a su Junta de Gobierno.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2026)</small>
+
+Una vez autorizado, el proyecto se remitirá al Congreso del Estado durante los primeros 10 días naturales del mes de septiembre para su aprobación y publicación en el Periódico Oficial del Gobierno del Estado. Cuando se trate del primer año constitucional de la administración municipal, por única ocasión se podrá remitir el proyecto de cuotas y tarifas al Congreso del Estado, durante los primeros 15 días naturales del mes de septiembre;
 
 III. Establecer las oficinas necesarias dentro de su competencia;
 
@@ -769,7 +773,9 @@ I. Aplicar en el ámbito de su competencia, los lineamientos y políticas emanad
 
 II. Aprobar el Programa de Desarrollo Municipal que le presente el Director General y supervisar que se actualice periódicamente;
 
-III. Elaborar el anteproyecto de cuotas y tarifas que se deban aplicar por la prestación de los servicios de agua, observando las fórmulas correspondientes;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
+
+III. Autorizar el proyecto de cuotas y tarifas que se deban aplicar por la prestación de los servicios de agua, y si existieran, sus propuestas de modificación, observando las fórmulas correspondientes;
 
 IV. Resolver sobre los asuntos que en materia de servicios públicos someta a su consideración el Director General;
 
@@ -811,9 +817,13 @@ El Director General del Organismo Operador tendrá las siguientes facultades y o
 
 I. Tener la representación legal del Organismo, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la Ley; así como otorgar poderes, formular querellas y denuncias, otorgar el perdón extintivo de la acción penal, elaborar y absolver posiciones, así como promover y desistirse del juicio de amparo;
 
-II. Elaborar el Programa de Desarrollo del Organismo y que se actualice periódicamente, para su aprobación por parte de la Junta de Gobierno;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
 
-III. Ejecutar el Programa de Desarrollo aprobado por la Junta de Gobierno;
+II. Elaborar, actualizar y ejecutar el Programa de Desarrollo del Organismo, con aprobación de su Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
+
+III. Elaborar con apoyo de su área administrativa, el anteproyecto de las cuotas y tarifas, para ser presentado durante el mes de agosto a su Junta de Gobierno, así como las modificaciones que considere necesarias cuando éstas ya se encuentren aprobadas y vigentes;
 
 IV. Ordenar la publicación de las cuotas y tarifas aprobadas por el Congreso del Estado en el Periódico Oficial del Estado y en el diario de mayor circulación de la localidad;
 
@@ -2732,3 +2742,11 @@ P.O. 27 DE JULIO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 662 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS PÁRRAFOS DEL ARTÍCULO 124 DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO, EN MATERIA DE APOYOS Y SUBSIDIOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 680 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO, EN MATERIA DE ESTABLECIMIENTO DE PLAZOS PARA LA FORMULACIÓN, APROBACIÓN Y PRESENTACIÓN DE LOS ACUERDOS TARIFARIOS DE LOS ORGANISMOS OPERADORES DE AGUA MUNICIPALES ANTE EL CONGRESO DEL ESTADO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
