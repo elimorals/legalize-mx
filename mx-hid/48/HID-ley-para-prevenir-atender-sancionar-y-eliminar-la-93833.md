@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-atender-sancionar-y-eliminar-la-93833"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2024-08-16"
+last_updated: "2026-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -177,9 +177,9 @@ VI. Diseño Universal: Principio sustentado en el establecimiento de productos, 
 
 VII. Estado: Estado Libre y Soberano de Hidalgo;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
 
-VIII. Homofobia: Rechazo, discriminación, invisibilización, burlas y otras formas de violencia basadas en prejuicios, estereotipos y estigmas hacia la homosexualidad o hacia las personas con orientación o preferencia homosexual, o que son percibidas como tales.
+VIII. Homofobia: Rechazo, discriminación, invisibilización, burlas y otras formas de violencia basadas en prejuicios, estereotipos y estigmas hacia la homosexualidad o hacia las personas con orientación sexual diversa, o que son percibidas como tales;
 
 IX. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
@@ -383,9 +383,9 @@ XXVIII. Limitar o negar el otorgamiento de concesiones, permisos o autorizacione
 
 XXIX. Incitar a la exclusión, persecución, odio, violencia, rechazo, burla, difamación, ofensa o injuria en contra de cualquier persona, grupo o comunidad;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
 
-XXX. Realizar o promover violencia física, sexual, o psicológica, patrimonial o económica por la edad, género, discapacidad, apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación o preferencia sexual, identidad de género o por cualquier otro motivo de discriminación;
+XXX. Realizar o promover violencia física, sexual o psicológica, patrimonial o económica por la edad, género, discapacidad, apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación sexual, identidad o expresión de género, o por cualquier otro motivo de discriminación;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -417,13 +417,17 @@ XXXVII. Implementar o ejecutar políticas públicas, programas u otras acciones 
 
 XXXVIII. Criminalizar a cualquier persona, grupo o comunidad;
 
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
+
+XXXIX. Impedir el acceso a los inmuebles que brinden servicio o atención al público o establecimientos mercantiles derivada de falta de accesibilidad de estos;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2026)</small>
+
+XL. Someter, promover, obligar o aplicar prácticas que tengan por objeto modificar, anular o suprimir la orientación sexual, identidad o expresión de género de una persona;
+
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-XXXIX. Impedir el acceso a los inmuebles que brinden servicio o atención al público o establecimientos mercantiles derivada de falta de accesibilidad de estos, y
-
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
-
-XL. En general cualquier otro acto u omisión discriminatorio en términos del artículo 11 de esta Ley.
+XLI. En general cualquier otro acto u omisión discriminatorio en términos del artículo 11 de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -475,7 +479,9 @@ VII. Prohibir la difusión de contenidos discriminatorios, en los medios de comu
 
 VIII. Establecer, a través de los medios de comunicación oficial y mediante el uso de las tecnologías de la información y la comunicación, prácticas orientadas a erradicar la discriminación en los contenidos que los propios medios oficiales y privados difundan;
 
-IX. Informar, sensibilizar, capacitar y formar de manera permanente a las y los servidores públicos, en materia de derechos humanos con perspectiva de género, igualdad de oportunidades, de trato y no discriminación;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
+
+IX. Informar, sensibilizar, capacitar y formar de manera permanente a las y los servidores públicos, en materia de derechos humanos con perspectiva de género, orientación sexual, identidad y expresión de género, igualdad de oportunidades, de trato y no discriminación;
 
 > <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN XI BIS.]</small>
 
@@ -857,7 +863,9 @@ I. Prevenir, atender, disminuir y eliminar los factores de riesgo a los que est�
 
 II. Crear programas de capacitación para el empleo, para su inserción en el mercado laboral y para la creación de empresas;
 
-III. Ofrecer y hacer accesible, información completa y actualizada, sobre salud y sexualidad, con respeto a su identidad y preferencia sexual, intimidad, libertad y seguridad personal;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2026)</small>
+
+III. Ofrecer y hacer accesible información completa y actualizada sobre salud y sexualidad, con respeto a su orientación sexual, identidad o expresión de género, intimidad, libertad y seguridad personal;
 
 IV. Dar atención prioritaria a jóvenes embarazadas en todo lo relacionado con salud sexual, reproductiva, materna y perinatal;
 
@@ -897,11 +905,11 @@ XIII. Realizar acciones de sensibilización y capacitación dirigidas a integran
 
 XIV. Las demás que establezca (sic) la presente Ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 25.
 
-Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las acciones afirmativas, medidas de inclusión y medidas de nivelación necesarias, a favor de la igualdad sustantiva de oportunidades, de trato y la no discriminación de las personas que presenten diversa orientación o preferencia sexual y forma de expresar su identidad de género, entre las cuales deberán incluir de manera enunciativa mas no limitativa, las siguientes:
+Las autoridades del Gobierno del Estado, Ayuntamientos, Entidades Estatales y Municipales y Organismos Públicos Autónomos, en el ámbito de su respectiva competencia, deberán adoptar las acciones afirmativas, medidas de inclusión y medidas de nivelación necesarias, a favor de la igualdad sustantiva de oportunidades, de trato y la no discriminación de las personas en razón de su orientación sexual, identidad y expresión de género, entre las cuales deberán incluir de manera enunciativa mas no limitativa, las siguientes:
 
 I. Asegurar el acceso a programas de salud, libre de estereotipos, prejuicios o estigmas;
 
@@ -1510,3 +1518,9 @@ P.O. 16 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1054 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 14 DE LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 6 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 673 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO, EN MATERIA DE ORIENTACIÓN SEXUAL, IDENTIDAD Y EXPRESIÓN DE GÉNERO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
