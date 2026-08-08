@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-rural-integral-sustentable-para-el-estado-877
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-17"
-last_updated: "2026-04-18"
+last_updated: "2026-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 17 de marzo de 2012.
 
@@ -475,9 +475,9 @@ V. Secretaría de Economía.
 
 VI. Secretaría de Comunicaciones y Obras Públicas.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2026)</small>
 
-VII. Secretaría de Desarrollo Social.
+VII. Secretaría de Desarrollo Humano y Bien Común.
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -489,9 +489,21 @@ X. Secretaría de Salud.
 
 XI. Secretaría de Trabajo y Previsión Social.
 
-XII. Fiscalía General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2026)</small>
 
-XIII. Junta Central de Agua y Saneamiento.
+XII. Secretaría de Pueblos y Comunidades Indígenas.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE AGOSTO DE 2026)</small>
+
+XIII. Fiscalía General.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE AGOSTO DE 2026)</small>
+
+XIV. Junta Central de Agua y Saneamiento.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+XV. Instituto Chihuahuense de las Mujeres.
 
 ###### Artículo 23.
 
@@ -1850,3 +1862,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo del Estado, promoverá las adecuaciones a las políticas públicas en materia de agua, que permitan promover la utilización de las aguas tratadas en cultivos del sector agrícola en el Estado, de conformidad con la infraestructura disponible.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0517/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
