@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-6448
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-05"
-last_updated: "2017-04-01"
+last_updated: "2026-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 5 de noviembre de 2008.
 
@@ -75,9 +75,9 @@ II. Artesano: Toda persona con sensibilidad y creatividad que desarrolla sus hab
 
 III. Producción Artesanal: La actividad económica de transformación en cuyo proceso se utilizan materias primas de origen natural o industrial, que posee aspectos culturales e históricos del lugar donde se elabora.
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2026)</small>
 
-IV. Secretaría: La Secretaría de Economía del Gobierno del Estado de Chihuahua.
+IV. Secretaría: La Secretaría de Innovación y Desarrollo Económico del Estado de Chihuahua.
 
 V. Estado: El Estado de Chihuahua.
 
@@ -189,9 +189,27 @@ I. Promover aquellas artesanías contempladas dentro del Catálogo que para tal 
 
 II. Generar centros de capacitación que fomenten el autoempleo en elaboración de productos artesanales;
 
-III. Promover programas específicos para garantizar la infraestructura y equipamiento para cumplir con su responsabilidad de fomentar las actividades artesanales, y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+III. Promover programas específicos para garantizar la infraestructura y equipamiento para cumplir con su responsabilidad de fomentar las actividades artesanales.
 
 IV. Apoyar la comercialización de las artesanías en los mercados local, nacional e internacional.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+V. Coordinarse con las instancias estatales y municipales, en materia de turismo, para garantizar que en todos los eventos y programas de promoción turística se integren y difundan las tradiciones y manifestaciones artesanales de las comunidades.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+VI. Impulsar de manera articulada acciones en producción, promoción, capacitación, infraestructura y regulación, así como la profesionalización de las y los productores, la consolidación de una identidad distintiva y el mejoramiento de los espacios de comercialización.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+VII. Propiciar la habilitación de espacios estratégicos para la exhibición y venta de productos artesanales locales, reconociendo su valor cultural, y fomentar su preservación como parte del patrimonio estatal.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+VIII. Consolidar, mediante la coordinación entre gobierno, sector privado y sociedad, un modelo turístico competitivo, incluyente y respetuoso de las tradiciones.
 
 ## TRANSITORIOS
 
@@ -328,3 +346,11 @@ Igualmente quedan subsistentes todos los compromisos, obligaciones, deudas y dem
 ###### ARTÍCULO TERCERO.
 
 Háganse por parte de quien ocupe la Dirección de "Fomento y Desarrollo Artesanal del Estado de Chihuahua", todas las modificaciones documentales a que haya lugar, para que la razón social del Organismo quede ahora como "Fomento y Desarrollo Artesanal del Estado de Chihuahua".
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0527/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
