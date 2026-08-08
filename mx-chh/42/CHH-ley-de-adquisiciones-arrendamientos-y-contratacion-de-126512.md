@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-y-contratacion-de-126512"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-17"
-last_updated: "2023-01-04"
+last_updated: "2026-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 17 de febrero de 2018.
 
@@ -1267,11 +1267,11 @@ X. En su caso, la información sobre los porcentajes a otorgar por concepto de a
 
 XI. El lugar, plazo de entrega y condiciones de pago; en caso de arrendamiento, la indicación de si este es con o sin opción a compra.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 54.
 
-La convocatoria se publicará en el Sistema de Contrataciones Públicas. Simultáneamente, se enviará un resumen para su publicación en al menos uno de los periódicos de mayor circulación local y en el Periódico Oficial del Estado.
+La convocatoria se publicará en el Sistema de Contrataciones Públicas. Simultáneamente, se enviará un resumen para su publicación en los medios de mayor difusión, uso y circulación y en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
@@ -3146,3 +3146,11 @@ Las funcionalidades del Sistema de Contrataciones Públicas del Estado que no se
 ###### ARTÍCULO OCTAVO.
 
 En los entes públicos que por razones técnicas no cuenten con usuarios en el Sistema de Contrataciones Públicas, la publicación en el Periódico Oficial del Estado será la que dará inicio al procedimiento de licitación.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0497/2026 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 54 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
