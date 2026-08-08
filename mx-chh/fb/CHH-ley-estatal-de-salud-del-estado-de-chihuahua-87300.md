@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2026-01-24"
+last_updated: "2026-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -466,6 +466,10 @@ XX. La persona titular de la Secretaría de Innovación y Desarrollo Económico.
 > <small>(ADICIONADA, P.O. 26 DE ENERO DE 2022)</small>
 
 XXI. La persona titular de la Secretaría de Seguridad Pública.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+XXII. La persona titular del Instituto Chihuahuense de las Mujeres.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE ENERO DE 2022)</small>
 
@@ -985,6 +989,10 @@ VII. Los Municipios del Estado, en el ámbito de sus competencias, o conforme a 
 
 VIII. La Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+IX. El Instituto Chihuahuense de las Mujeres.
+
 La Secretaría de Salud, encabezará la Presidencia, y las demás dependencias fungirán como vocales.
 
 La Comisión Estatal de los Derechos Humanos, será invitada permanente, a fin de que brinde asesoría en la materia a su cargo, la cual contará únicamente con derecho al uso de la voz.
@@ -1071,17 +1079,27 @@ Dentro del protocolo de prevención de cáncer de mama, la Secretaría contará 
 
 La Secretaría, en coordinación con las instituciones del sector salud, fomentará y desarrollará programas con acciones de promoción, prevención, detección, tratamiento y rehabilitación para atender la salud de las mujeres, de manera integral, de acuerdo a las normas oficiales establecidas.
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2026)</small>
 
 ###### Artículo 75 Bis.
 
-Las autoridades sanitarias, en coordinación con el Desarrollo Integral de la Familia, las Secretarías de Desarrollo Social, de Educación y Deporte, y del Trabajo y Previsión Social del Estado, en sus respectivos ámbitos de competencia, promoverán, establecerán y apoyarán:
+Las autoridades sanitarias, en coordinación con el Desarrollo Integral de la Familia, el Instituto Chihuahuense de las Mujeres, las Secretarías de Desarrollo Humano y Bien Común, de Educación y Deporte, y del Trabajo y Previsión Social del Estado, en sus respectivos ámbitos de competencia, promoverán, establecerán y apoyarán:
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2017)</small>
 
 I. Los programas educativos, destinados a la protección de la salud de las mujeres.
 
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2017)</small>
+
 II. Las bases de coordinación con las dependencias del Gobierno Federal y Municipal, que permitan elevar la calidad de atención a la salud de las mujeres, y a sus familiares con problemas oncológicos.
 
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2017)</small>
+
 III. La integración de un sistema de información, que contenga los datos necesarios que permitan brindar un seguimiento oportuno a las mujeres con problemas oncológicos.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+IV. La atención prioritaria a las mujeres rurales que habitan en zonas de alta y muy alta marginación y pobreza.
 
 > <small>(ADICIONADO, P.O. 5 DE MARZO DE 2025)</small>
 
@@ -2444,6 +2462,20 @@ I.- Promover la adopción de medidas de prevención desde la adolescencia en la 
 > <small>(ADICIONADA, P.O. 5 DE MARZO DE 2025)</small>
 
 II.- Facilitar la detección y tratamiento oportunos especializados, en masculinos de 40 años en adelante.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+###### Artículo 217 Bis.
+
+Los Programas para la Atención de Cánceres deberán intensificar sus acciones de promoción, difusión y sensibilización durante los siguientes periodos, sin perjuicio de las acciones permanentes que deban realizarse durante todo el año:
+
+I. Octubre, para la sensibilización sobre el cáncer de mama.
+
+II. Agosto, para la sensibilización sobre el cáncer cervicouterino.
+
+III. Noviembre, para la sensibilización sobre el cáncer de próstata.
+
+Las actividades previstas en el presente artículo, se implementarán conforme al principio de accesibilidad universal, procurando que la información sea clara y comprensible.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2014)</small>
 
@@ -4446,6 +4478,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 24 DE ENERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0287/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN, DE LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA, DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0517/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0530/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 217 BIS, A LA LEY ESTATAL DE SALUD".]
 
 ###### ARTÍCULO ÚNICO.
 
