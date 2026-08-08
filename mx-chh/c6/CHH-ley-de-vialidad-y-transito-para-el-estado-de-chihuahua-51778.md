@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2024-03-02"
+last_updated: "2026-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -509,6 +509,10 @@ Las placas y tarjeta de circulación son intransferibles.
 
 En cualquier caso de transmisión de la propiedad o posesión legal de los vehículos deberá realizarse el cambio correspondiente, por lo que el propietario deberá notificar la operación a la Secretaría de Hacienda, con objeto de que el nuevo adquirente esté en aptitud de cumplir con lo establecido en el artículo 33 de esta Ley, obtener las placas y tarjeta de circulación correspondientes y efectuar el registro respectivo.
 
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+En la tramitación correspondiente, la autoridad competente podrá requerir, durante la verificación física de la información vehicular, documentación adicional a la solicitada para el trámite, cuando sea necesario por causa justificada, observando que exista coincidencia del vehículo con las especificaciones y características documentadas.
+
 ###### Artículo 35.
 
 Los vehículos registrados en otros países podrán circular en las vías públicas cuando satisfagan los siguientes requisitos:
@@ -582,6 +586,12 @@ Tratándose de vehículos de barrido mecanizado de limpieza, deberá efectuar su
 Ningún vehículo podrá desplazarse por las vías públicas sin llevar colocadas las placas correspondientes al tipo de uso o servicio que se le otorgue o, en su caso, permiso provisional otorgado por la Secretaría, en tanto concluyan los trámites necesarios para su obtención.
 
 Los ayuntamientos podrán celebrar convenios con la Secretaría, para la expedición de permisos provisionales, debiendo remitir a la misma una relación mensual de las autorizaciones que hayan otorgado.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+###### Artículo 42 Bis.
+
+Las placas, que sean expedidas para uso o servicio particular, serán válidas exclusivamente para la circulación de vehículos debidamente identificados ante la autoridad competente. Se tendrán como debidamente identificados los vehículos que porten tarjeta de circulación vigente, y que concuerde con las placas que le fueron expedidas.
 
 ###### Artículo 43.
 
@@ -749,9 +759,17 @@ IV. Viajar en las salpicaderas, estribos o defensas de los vehículos;
 
 V. Cargar sobre sus piernas niños, mascotas u objetos al conducir;
 
-VI. Operar o accionar teléfonos celulares o cualquier otro aparato mecánico o electrónico mientras los vehículos se encuentren en movimiento, con excepción de los pasajeros y conductores de vehículos de paso preferencial o emergencia; y,
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2026)</small>
 
-VII. Las demás que establezcan esta Ley y sus reglamentos.
+VI. Operar o accionar teléfonos celulares o cualquier otro aparato mecánico o electrónico mientras los vehículos se encuentren en movimiento, con excepción de los pasajeros y conductores de vehículos de paso preferencial o emergencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2026)</small>
+
+VII. Transportar sin una silla especial que cumpla con los requisitos establecidos en la Norma Oficial Mexicana aplicable a niñas, niños o adolescentes, con una estatura menor a 1.35 metros, o cualquier persona que por su constitución física lo requiera; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE AGOSTO DE 2026)</small>
+
+VIII. Las demás que establezcan esta Ley y sus reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2012)</small>
 
@@ -803,9 +821,17 @@ IX. Presentarse ante las autoridades de tránsito cuando así sea requerido;
 
 X. Entregar a los oficiales la documentación inherente a la conducción de tránsito de vehículos, cuando le sea solicitada;
 
-XI. Utilizar casco protector, tanto los conductores como sus acompañantes, en el caso de que los vehículos fuesen motocicletas; y,
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2026)</small>
 
-XII. Las demás que establezca esta Ley.
+XI. Utilizar casco protector, tanto los conductores como sus acompañantes, en el caso de que los vehículos fuesen motocicletas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2026)</small>
+
+XII. Cuando se transporte a niñas, niños o adolescentes, con una estatura menor a 1.35 metros, o cualquier persona que por su constitución física lo requiera, hacerlo en una silla especial que cumpla con los requisitos establecidos en la Norma Oficial Mexicana aplicable, asegurada en el asiento posterior; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE AGOSTO DE 2026)</small>
+
+XIII. Las demás que establezcan esta Ley y sus reglamentos.
 
 ###### Artículo 51.
 
@@ -820,6 +846,10 @@ Los conductores de vehículos de paso preferencial o emergencia quedarán exento
 Para conducir un vehículo, el interesado deberá obtener la licencia otorgada por la autoridad competente, quien recabará la información personal del conductor que sea necesaria.
 
 La licencia no contendrá los datos del domicilio y teléfono, salvo que el conductor solicite su inclusión.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+Se aceptará un formato digital como accesorio a la licencia de conducir, su trámite será accesible en línea, a través del sitio oficial de la Secretaría, para dispositivos móviles, que valida que la persona titular posee una licencia física; asimismo, podrá ser emitida tanto para las personas operadoras del servicio de transporte público, como para las personas conductoras del servicio privado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
@@ -1185,9 +1215,11 @@ En lugares donde haya instalados relojes estacionómetros, es obligación de los
 
 En las calles de preferencia, alimentadoras, secundarias y laterales, la velocidad máxima permitida es de sesenta kilómetros por hora, salvo que el señalamiento gráfico indique otra.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 85.
 
-En los tramos donde existan escuelas, hospitales, templos, maternidades, parques infantiles y lugares de esparcimiento, la velocidad de los vehículos no deberá exceder de treinta kilómetros por hora.
+En los tramos donde existan escuelas, hospitales, templos, maternidades, parques infantiles, lugares de esparcimiento, asilos, albergues y casas hogar, la velocidad de los vehículos no deberá exceder de veinte kilómetros por hora.
 
 ###### Artículo 86.
 
@@ -1342,6 +1374,22 @@ E) Agredir físicamente a comandantes, oficiales o demás personal de las corpor
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2020)</small>
 
 F) Abandonar en el interior de cualquier vehículo automotor a una persona incapaz de valerse por sí misma.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+G) En el caso de motocicletas, la conducción deliberadamente riesgosa de las mismas. Así mismo, que se exceda el número de tripulantes para el cual están específicamente diseñadas y equipadas, o la circulación sin placas.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+H) Cualquier siniestro de tránsito, cuando sea derivado de no respetar el paso peatonal o rebasar el límite de velocidad establecido en el supuesto del numeral 85 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+I) Participar en carreras o realizar maniobras peligrosas o efectuar intencionalmente emisiones por fricción de rodadura de neumáticos, en vehículos de motor en la vía pública.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+J) Conducir 25 kilómetros por hora sobre el límite de velocidad permitido.
 
 Tratándose de estas infracciones se podrán aplicar conjuntamente dos o más sanciones mencionadas en el artículo 90.
 
@@ -2038,3 +2086,59 @@ P.O. 2 DE MARZO DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Secretaría contará con 180 días naturales para adecuar la reglamentación necesaria para la aplicación de este Decreto.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0535/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0536/2026 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0537/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 52, UN PÁRRAFO TERCERO, DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0538/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 91, EL INCISO G), DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0541/2026 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 85; Y SE ADICIONA AL ARTÍCULO 91, EL INCISO H), DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0542/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 91, EL INCISO I), DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0543/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 91, EL INCISO J), DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
