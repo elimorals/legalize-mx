@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2026-07-01"
+last_updated: "2026-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -1975,7 +1975,9 @@ a) Secretaría General de Gobierno.
 
 b) Secretaría de Hacienda.
 
-c) Secretaría de Desarrollo Social.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+c) Secretaría de Desarrollo Humano y Bien Común.
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 2017)</small>
 
@@ -3122,6 +3124,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 1 DE JULIO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0511/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 123, LA FRACCIÓN XXXI, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0532/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD MENTAL, LA LEY DE CULTURA DE LA LEGALIDAD, LA LEY DE VIVIENDA, LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL, AGRUPACIONES Y REDES Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODAS DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
