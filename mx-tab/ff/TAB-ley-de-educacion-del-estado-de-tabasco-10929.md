@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-educacion-del-estado-de-tabasco-10929"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-26"
-last_updated: "2025-09-24"
+last_updated: "2026-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE EDUCACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 26 de febrero de 1997.
 
@@ -990,6 +990,10 @@ VI.- Dar prioridad a la acción formativa en términos de valores y habilidades 
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2014)</small>
 
 Corresponde a la Autoridad Educativa Federal formular y actualizar los planes y programas de estudio para la educación normal y demás de formación de maestros de educación básica, y mantenerlos acordes al marco de educación de calidad contemplado en el Servicio Profesional Docente, así como a las necesidades detectadas en las evaluaciones realizadas a los componentes del sistema educativo estatal; dichos programas serán revisados y evaluados por la autoridad federal, al menos, cada cuatro años, conforme a los parámetros y perfiles a los que se refiere la Ley General del Servicio Profesional Docente.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+Las Escuelas Normales e instituciones formadoras de docentes del Gobierno del Estado estarán adscritas administrativa y presupuestalmente a la Secretaría de Educación, la cual ejercerá las facultades de coordinación, planeación, supervisión y demás que correspondan en términos de la normatividad aplicable.
 
 Artículo 79 En la educación normal se mantendrá el equilibrio entre el egreso de profesionistas y las necesidades de ocupación, tomando en consideración la evolución de la matrícula en educación básica.
 
@@ -2560,3 +2564,21 @@ P.O. 24 DE SEPTIEMBRE DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 135 POR EL QUE "SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 78, DE LA LEY DE EDUCACIÓN DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+TERCERO.- En un plazo no mayor a noventa días hábiles siguientes a la entrada en vigor del presente Decreto, la Secretaría de Administración y Finanzas deberá realizar las adecuaciones presupuestarias y administrativas necesarias para la implementación del presente Decreto.
+
+En el mismo plazo, la Secretaría de Educación deberá realizar las gestiones pertinentes para la actualización de su estructura orgánica y realizar las demás acciones administrativas para el cumplimiento del presente Decreto.
+
+La adscripción de las Escuelas Normales e instituciones formadoras de docentes del Gobierno del Estado a la Secretaría de Educación no genera cambios o afectaciones en los derechos laborales de las personas que trabajan en ellas.
+
+CUARTO.- En un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones al Reglamento Interior de la Secretaría de Educación.
+
+QUINTO.- En tanto se realizan las adecuaciones normativas correspondientes, continuarán aplicándose las disposiciones vigentes en lo que no se opongan al presente Decreto.
