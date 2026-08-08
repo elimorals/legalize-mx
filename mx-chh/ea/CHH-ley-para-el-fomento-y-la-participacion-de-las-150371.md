@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-el-fomento-y-la-participacion-de-las-150371"
 country: "mx"
 rank: "ley"
 publication_date: "2021-07-28"
-last_updated: "2021-07-28"
+last_updated: "2026-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL, AGRUPACIONES Y REDES DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
 
 Ley publicada en el Número 60 del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de julio de 2021.
 
@@ -121,7 +121,9 @@ XIV. Registro Federal: Registro Federal de Organizaciones en el que se inscriban
 
 XV. Reglamento: Reglamento de la Ley para el Fomento y la Participación de las Organizaciones de la Sociedad Civil, Agrupaciones y Redes del Estado de Chihuahua.
 
-XVI. Secretaría: Secretaría de Desarrollo Social de Gobierno del Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+XVI. Secretaría: Secretaría de Desarrollo Humano y Bien Común de Gobierno del Estado de Chihuahua.
 
 ###### Artículo 4.
 
@@ -173,7 +175,9 @@ XX. Las que determinen otras leyes.
 
 Son autoridades para la aplicación de la presente Ley, en el ámbito de sus respectivas competencias:
 
-I. La Secretaría de Desarrollo Social.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+I. La Secretaría de Desarrollo Humano y Bien Común.
 
 II. Los Gobiernos Municipales, a través de la instancia correspondiente.
 
@@ -347,7 +351,9 @@ Se crea el Consejo Estatal para el Fomento y Participación de las Organizacione
 
 El Consejo Estatal estará integrado por la persona titular o por la representación de:
 
-I. Secretaría de Desarrollo Social.
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+I. Secretaría de Desarrollo Humano y Bien Común.
 
 II. Secretaría de Hacienda.
 
@@ -556,3 +562,13 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los doce días del 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica.
 
 EL SECRETARIO GENERAL DE GOBIERNO. MTRO. LUIS FERNANDO MESTA SOULÉ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0532/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD MENTAL, LA LEY DE CULTURA DE LA LEGALIDAD, LA LEY DE VIVIENDA, LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL, AGRUPACIONES Y REDES Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
