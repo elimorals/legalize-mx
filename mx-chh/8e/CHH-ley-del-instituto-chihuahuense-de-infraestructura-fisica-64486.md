@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-infraestructura-fisica-64486"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-05"
-last_updated: "2024-10-05"
+last_updated: "2026-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 5 de noviembre de 2008.
 
@@ -89,11 +89,11 @@ Por infraestructura física educativa se entiende los muebles e inmuebles destin
 
 ### CAPÍTULO TERCERO. DE LA CALIDAD DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2026)</small>
 
 ###### ARTÍCULO 5°.
 
-La infraestructura física educativa del Estado deberá cumplir requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, pertinencia y oferta suficiente de agua potable para consumo humano, de acuerdo con la política educativa determinada por el mismo, por la Federación y los municipios, con base en lo establecido en el Artículo 3o. Constitucional; la Ley General de Educación; la Ley Estatal de Educación, los Planes Nacional y Estatal de Desarrollo; los Programas Sectoriales respectivos; los programas educativos aplicables, así como los programas de desarrollo regional.
+La infraestructura física educativa del Estado deberá cumplir requisitos de calidad, seguridad, funcionalidad, oportunidad, equidad, sustentabilidad, accesibilidad, diseño universal, ajustes razonables, pertinencia y oferta suficiente de agua potable para consumo humano, de acuerdo con la política educativa determinada por el mismo, por la Federación y los municipios, con base en lo establecido en el Artículo 3o. Constitucional; la Ley General de Educación; la Ley Estatal de Educación; la Ley para la Inclusión y Desarrollo de las Personas con Discapacidad en el Estado de Chihuahua, los Planes Nacional y Estatal de Desarrollo; los Programas Sectoriales respectivos; los programas educativos aplicables, así como los programas de desarrollo regional.
 
 Las autoridades educativas promoverán la participación de sectores sociales para optimizar y elevar la calidad de la INFE, en los términos que señalan esta Ley y las disposiciones que de la misma se deriven.
 
@@ -726,3 +726,11 @@ Se derogan las disposiciones legales y reglamentarias contrarias a lo dispuesto 
 ###### ARTÍCULO TERCERO.
 
 Las disposiciones administrativas y reglamentarias expedidas en esta materia, vigentes al momento de la entrada en vigor de este Decreto, se seguirán aplicando en todo lo que no se opongan al presente Decreto.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0521/2026 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5° DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
