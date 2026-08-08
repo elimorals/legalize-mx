@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-salud-mental-del-estado-de-chihuahua-129073"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-13"
-last_updated: "2024-10-19"
+last_updated: "2026-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE SALUD MENTAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
 
 Ley publicada en el Folleto Anexo al Número 47 del Periódico Oficial del Estado de Chihuahua, el miércoles 13 de junio de 2018.
 
@@ -489,17 +489,21 @@ XVI. A garantizar los principios generales aplicables a la Convención Interamer
 
 Las disposiciones de la presente Ley serán aplicables en lo conducente a todas las personas que se sometan por las autoridades a un proceso para determinar si son inimputables o imputables, así como aquellas que ya determinada la inimputabilidad, sean sujetas a una medida cautelar y/o seguridad y puesta de acuerdo a las disposiciones legales existentes.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 31.
 
-Para la atención de las personas sujetas a un estado de inimputabilidad en los términos que resulten aplicables, se deberá contar con un establecimiento especial y destinado para ese propósito distinto a las unidades médicas hospitalarias, el cual deberá cumplir con las medidas de seguridad, programas y protocolos, así como con las instalaciones, mobiliario, suministro y personal especializado necesarios para su funcionamiento, esto en coordinación con la unidad médica que preste la atención médica, Fiscalía General del Estado, DIF Estatal, Instituto de Servicios Previos al Juicio del Tribunal Superior de Justicia, Secretaría de Desarrollo Social y demás instancias que en su caso tengan injerencia.
+Para la atención de las personas sujetas a un estado de inimputabilidad en los términos que resulten aplicables, se deberá contar con un establecimiento especial y destinado para ese propósito, distinto a las unidades médicas hospitalarias, el cual deberá cumplir con las medidas de seguridad, programas y protocolos, así como con las instalaciones, mobiliario, suministro y personal especializado necesarios para su funcionamiento, esto en coordinación con la unidad médica que preste la atención médica, Fiscalía General del Estado, DIF Estatal, Instituto de Servicios Previos al Juicio del Tribunal Superior de Justicia, Secretaría de Desarrollo Humano y Bien Común y demás instancias que en su caso tengan injerencia.
 
 ###### Artículo 32.
 
 La unidad médica especializada para la atención de inimputables, se apoyará para la atención de enfermos mentales agudos o en crisis, de las unidades médicas que para tal efecto cuenten, lo cual será únicamente por el tiempo necesario para su control o estabilidad debiendo de remitirse nuevamente a la unidad especializada una vez que el personal médico tratante así lo determine.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
 ###### Artículo 33.
 
-Queda prohibido retener o mantener dentro de las mismas instalaciones en cualquier unidad hospitalaria, a las personas que ya no estén sujetas a una medida cautelar o de seguridad, o que ya no requieran la atención médica especializada, conforme a las normas médicas existentes dentro de la misma, por lo que deberá notificar a las autoridades que las haya puesto a disposición, para que les notifique a los familiares, tutores, DIF Estatal, Secretaría de Desarrollo Social y/o a quien corresponda, conforme a las leyes vigentes, quienes quedarán bajo su tutela de manera inmediata, tomando las medidas necesarias conducentes.
+Queda prohibido retener o mantener dentro de las mismas instalaciones en cualquier unidad hospitalaria, a las personas que ya no estén sujetas a una medida cautelar o de seguridad, o que ya no requieran la atención médica especializada, conforme a las normas médicas existentes dentro de la misma, por lo que deberá notificar a las autoridades que las haya (sic) puesto a disposición, para que les notifique a los familiares, tutores, DIF Estatal, Secretaría de Desarrollo Humano y Bien Común y/o a quien corresponda, conforme a las leyes vigentes, quienes quedarán bajo su tutela de manera inmediata, tomando las medidas necesarias conducentes.
 
 ### CAPÍTULO IX. EVALUACIÓN Y DIAGNÓSTICO
 
@@ -549,7 +553,9 @@ IV. Una o un representante de la Secretaria de Educación y Deporte;
 
 V. Una o un representante de la Fiscalía General del Estado;
 
-VI. Una o un representante de la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+VI. Una o un representante de la Secretaría de Desarrollo Humano y Bien Común;
 
 VII. Una o un representante de los Servicios de Salud de Chihuahua;
 
@@ -784,6 +790,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 19 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0902/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO, DE LA LEY DE SALUD MENTAL DEL ESTADO Y DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0532/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD MENTAL, LA LEY DE CULTURA DE LA LEGALIDAD, LA LEY DE VIVIENDA, LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL, AGRUPACIONES Y REDES Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODAS DEL ESTADO DE CHIHUAHUA.".]
 
 ###### ARTÍCULO ÚNICO.
 
