@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-la-campana-contra-las-enfermedades-y-plagas-del-12963"
 country: "mx"
 rank: "ley"
 publication_date: "1963-01-02"
-last_updated: "1963-01-02"
+last_updated: "2026-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "TAB"
 
 LEY DE LA CAMPAÑA CONTRA LAS ENFERMEDADES Y PLAGAS DEL PLATANO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el 2 de enero de 1963.
 
@@ -42,17 +42,39 @@ LEY DE LA CAMPAÑA CONTRA LAS ENFERMEDADES Y PLAGAS DEL PLATANO
 
 ### CAPITULO I
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
 ###### ARTICULO 1o.
 
-El objeto de la presente Ley es la prevención y combate de las enfermedades y plagas de las plantaciones de plátano, cualquiera que sea su especie, en el Estado.
+El objeto de la presente Ley es la prevención y combate de las enfermedades y plagas de las plantaciones de plátano, cualquiera que sea su especie, así como establecer mecanismos de protección fitosanitaria, trazabilidad, vigilancia y control de movilización para prevenir riesgos sanitarios que afecten la producción platanera en el Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+###### ARTICULO 1o Bis.
+
+Para efectos de la presente Ley se entenderá por:
+
+I. Guía de Tránsito Fitosanitaria: Documento expedido conforme a esta Ley para la movilización interna de plátano, sus productos, subproductos o material vegetativo dentro del territorio estatal;
+
+II. Material vegetativo: Toda parte vegetal susceptible de reproducción o propagación relacionada con el cultivo del plátano;
+
+III. Movilización: El traslado de plátano, sus productos, subproductos o material vegetativo dentro del territorio estatal;
+
+IV. Secretaría: La Secretaría de Desarrollo Agropecuario y Pesca;
+
+V. Trazabilidad: El conjunto de mecanismos y procedimientos que permiten identificar el origen, traslado y destino del plátano, sus productos, subproductos o material vegetativo; y
+
+VI. Comité de Defensa: El Comité de Defensa contra las Enfermedades y Plagas del Plátano, como órgano auxiliar de coordinación, consulta y apoyo técnico en materia de protección fitosanitaria del cultivo del plátano.
 
 ###### ARTICULO 2o.
 
 Se declara de utilidad pública, la prevención y el combate de las enfermedades y plagas materia de la presente Ley.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
 ###### ARTICULO 3o.
 
-El Gobierno de Estado a través del Comité de Defensa contra las Enfermedades y Plagas del Plátano determinará cuales son las enfermedades y plagas que se vayan a prevenir o combatir en los términos de esta Ley.
+El Gobierno del Estado, a través del Comité de Defensa y en coordinación con la Secretaría y las autoridades federales competentes, determinará las enfermedades, plagas y riesgos fitosanitarios que deban prevenirse, controlarse o combatirse en términos de la presente Ley.
 
 ###### ARTICULO 4o.
 
@@ -62,69 +84,193 @@ Las personas dedicadas al cultivo del plátano; cualquiera que sea su especie, e
 
 Los cultivadores de plátano que por cualquier razón abandonen dicho cultivo, deberán dar aviso oportuno por escrito, en tal sentido, al Comité de Defensa contra las enfermedades y plagas del plátano, y proceder a derribar y extinguir sus plantaciones abandonadas a fin de evitar focos de infección o de propagación en las mismas. Los vecinos de las plantaciones de plátano abandonadas tienen la misma obligación de dar el aviso a que se refiere el presente artículo.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
 ###### ARTICULO 6o.
 
-El Gobierno del Estado a través del Comité de Defensa, proporcionará a los agricultores plataneros los auxilios técnicos y fitosanitarios que se requieran para la enseñanza y demostración de los métodos de prevención y combate más eficaces para el éxito de la campaña.
+El Gobierno del Estado, a través del Comité de Defensa y de la Secretaría, proporcionará a las personas productoras plataneras los apoyos técnicos, fitosanitarios y de capacitación que se requieran para la enseñanza, prevención, vigilancia y demostración de los métodos más eficaces para el control y combate de enfermedades, plagas y riesgos fitosanitarios que afecten la producción platanera en el Estado.
 
 ###### ARTICULO 7o.
 
 Los agricultores plataneros, propietarios, ejidatarios, colonos, arrendatarios o encargados de las plantaciones, tienen la obligación de realizar las labores culturales que sea menester para evitar la contaminación y propagación de las enfermedades y plagas del plátano.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
 ###### ARTICULO 8o.
 
-En caso de emergencia el Ejecutivo Local, por conducto del Comité de Defensa, tomará las medidas que sean necesarias para combatir las enfermedades y plagas de los platanares.
+En caso de emergencia fitosanitaria o riesgo de propagación de enfermedades y plagas que afecten los platanares, el Ejecutivo del Estado, por conducto del Comité de Defensa y de la Secretaría, en coordinación con las autoridades competentes, tomará las medidas necesarias para prevenir, contener, controlar o combatir los riesgos sanitarios que afecten la producción platanera en el Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+###### ARTICULO 8o Bis.
+
+Las personas productoras, comercializadoras, empacadoras, transportistas y demás participantes en la cadena productiva del plátano deberán colaborar con las autoridades competentes en la implementación de medidas fitosanitarias, vigilancia, prevención y control previstas en la presente Ley.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 9o.
 
-El Ejecutivo Local, oyendo al Comité de Defensa, concertará convenios con otros Estados de la República para la prevención y combate de las enfermedades y plagas.
+El Ejecutivo del Estado, por conducto del Comité de Defensa y de la Secretaría, podrá celebrar convenios y mecanismos de coordinación con entidades federativas, autoridades federales y organismos competentes para la prevención, control y combate de enfermedades, plagas y riesgos fitosanitarios que afecten la producción platanera.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 10.
 
-El Gobierno del Estado propiciará el cultivo de aquellas variedades que presenten una resistencia mayor contra las enfermedades y plagas.
+El Gobierno del Estado promoverá el cultivo, investigación, conservación y utilización de variedades de plátano con mayor resistencia a enfermedades, plagas y riesgos fitosanitarios, así como el desarrollo de prácticas agrícolas sustentables que fortalezcan la protección sanitaria de la producción platanera.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO NTEGRAN, P.O. 8 DE AGOSTO DE 2026)</small>
+
+### CAPITULO I BIS. DE LA MOVILIZACIÓN Y TRAZABILIDAD FITOSANITARIA
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+###### ARTICULO 10 Bis.
+
+La Secretaría integrará y administrará un padrón estatal de personas productoras, empacadoras, comercializadoras, centros de acopio y transportistas vinculados con la producción y movilización de plátano en el Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+###### ARTICULO 10 Ter.
+
+Toda movilización de plátano, sus productos, subproductos o material vegetativo dentro del territorio estatal deberá realizarse conforme a las disposiciones y mecanismos de control fitosanitario que determine la Secretaría.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+###### ARTICULO 10 Quáter.
+
+La Secretaría podrá implementar mecanismos de trazabilidad, inspección y verificación para identificar el origen, traslado y destino de productos plataneros dentro del territorio estatal y constatar el cumplimiento de las disposiciones previstas en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+###### ARTICULO 10 Quinquies.
+
+Cuando exista riesgo fitosanitario o incumplimiento a las disposiciones previstas en esta Ley, la Secretaría podrá ordenar medidas precautorias conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO NTEGRAN, P.O. 8 DE AGOSTO DE 2026)</small>
+
+### CAPÍTULO I TER. DE LAS MEDIDAS FITOSANITARIAS
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+###### ARTICULO 10 Sexies.
+
+La Secretaría implementará medidas de prevención, vigilancia y control fitosanitario respecto de enfermedades, plagas y riesgos sanitarios que afecten o puedan afectar la producción platanera en el Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+###### ARTICULO 10 Septies.
+
+La Secretaría podrá establecer medidas especiales de vigilancia y contención respecto de plagas cuarentenarias o riesgos fitosanitarios de alto impacto para la producción platanera.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+###### ARTICULO 10 Octies.
+
+Toda persona que tenga conocimiento de la posible presencia de enfermedades, plagas o riesgos fitosanitarios que puedan afectar la producción platanera deberá dar aviso inmediato a la Secretaría o al Comité de Defensa.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+###### ARTICULO 10 Nonies.
+
+En caso de riesgo fitosanitario grave o emergencia sanitaria vegetal, la Secretaría podrá implementar medidas extraordinarias de prevención, control y contención conforme a las disposiciones legales aplicables y en coordinación con las autoridades competentes.
 
 ### CAPITULO II. COMITE DE DEFENSA CONTRA LAS ENFERMEDADES Y PLAGAS DEL PLATANO
 
-### CAPITULO III. SANCIONES
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 11.
 
-La aplicación de esta Ley queda a cargo del Comité de Defensa contra las Enfermedades y Plagas del Plátano.
+La aplicación de la presente Ley corresponderá al Ejecutivo del Estado, por conducto de la Secretaría y del Comité de Defensa, en coordinación con las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+###### ARTICULO 11 Bis.
+
+El Comité de Defensa es un órgano auxiliar de coordinación, consulta y apoyo técnico de la Secretaría en materia de protección fitosanitaria, vigilancia sanitaria, prevención de plagas y enfermedades que afecten la producción platanera del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+###### ARTICULO 11 Ter.
+
+Son atribuciones del Comité de Defensa:
+
+I. Coadyuvar en la identificación y evaluación de riesgos fitosanitarios;
+
+II. Emitir opiniones técnicas y recomendaciones;
+
+III. Participar en campañas de prevención y control;
+
+IV. Promover la capacitación de productores;
+
+V. Colaborar en acciones de vigilancia fitosanitaria;
+
+VI. Apoyar a la Secretaría en la difusión de medidas preventivas; y
+
+VII. Las demás que establezcan esta Ley y su Reglamento.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 12.
 
-El Comité de Defensa estará integrado por un Representante del Gobierno del Estado, uno de la Secretaría de Agricultura y Ganadería, uno de los cultivadores de plátano roatán, uno de los cultivadores del plátano macho, uno de los cultivadores del plátano manzano, uno de los cultivadores del plátano dátil y uno de los agricultores de plátano abacá.
+El Comité de Defensa estará integrado por:
+
+I. Una persona representante de la Secretaría, quien lo presidirá;
+
+II. Una persona representante de la autoridad federal competente en materia fitosanitaria;
+
+III. Personas representantes de las asociaciones y organizaciones de productores plataneros del Estado;
+
+IV. Personas representantes de instituciones académicas o de investigación relacionadas con el sector agropecuario; y
+
+V. Las demás personas integrantes que determine el Reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 13.
 
-Se faculta al Comité de Defensa para que formule el Reglamento interno que norme y regule su funcionamiento.
+El Comité de Defensa expedirá su Reglamento Interior y demás disposiciones necesarias para regular su organización y funcionamiento conforme a la presente Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 14.
 
-Para que el Comité de Defensa dé cumplimiento a sus atribuciones se le faculta para crear otros organismos que funcionen bajo su dependencia así como para solicitar la cooperación de las organizaciones de plataneros existentes en el Estado.
+Para el cumplimiento de sus atribuciones, el Comité de Defensa podrá coordinar acciones con autoridades federales, estatales y municipales, así como con organizaciones de productores, instituciones académicas y organismos auxiliares vinculados con la protección fitosanitaria de la producción platanera.
+
+### CAPITULO III. SANCIONES
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 15.
 
-El Gobierno del Estado queda autorizado para fijar el alcance e interpretación de esta Ley, para formular los Reglamentos de la misma y dictar todas aquellas otras disposiciones que estime necesarias para su exacto cumplimiento.
+Las infracciones a las disposiciones previstas en esta Ley y demás ordenamientos aplicables serán sancionadas administrativamente conforme a la gravedad de la conducta y en los términos que establezca el Reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 16.
 
-La violación de las disposiciones contenidas en la presente Ley, en sus reglamentos y en las demás disposiciones que se dicten para proveer su observancia, se castigará con multa de $ 5.00 a $ 5,000.00 en los términos que se fijen para cada caso.
+La imposición de sanciones administrativas será independiente de las responsabilidades civiles o penales que pudieran derivarse conforme a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 17.
 
-Las multas serán aplicadas administrativamente por el Gobierno del Estado sin perjuicio de las responsabilidades civiles y penales en que se incurran los infractores por los daños causados a la agricultura en el ramo materia de la presente Ley.
+El cobro de las multas impuestas con motivo de la aplicación de la presente Ley se realizará por las autoridades competentes conforme a las disposiciones fiscales y administrativas aplicables en el Estado.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 18.
 
-El cobro de las multas impuestas se hará efectivo por conducto de la Tesorería General del Estado, aplicándose en su caso la facultad económica coactiva.
+Contra las resoluciones emitidas con motivo de la aplicación de la presente Ley procederán los medios de defensa previstos en las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 19.
 
-Contra las resoluciones del Comité de Defensa en las que se impongan las sanciones previstas en esta Ley, procederá el recurso de revisión ante el Gobernador del Estado.
+Los procedimientos administrativos, plazos, recursos y medios de impugnación relacionados con la aplicación de la presente Ley se sustanciarán conforme a las disposiciones legales aplicables en materia administrativa del Estado.
 
 ###### ARTICULO 20.
 
-Para interponer el recurso, los interesados disfrutarán de un plazo de quince días hábiles contados a partir del siguiente en que surta sus efectos la notificación de la multa. Al admitirse el recurso se asegurará el interés fiscal y si por cualquier circunstancia la garantía no se otorga dentro del término de diez días contados a partir del día siguiente en que se hubiere presentado el escrito de inconformidad, se tendrá como no interpuesto el recurso.
+(DEROGADO, P.O. 8 DE AGOSTO DE 2026)
 
 TRANSITORIO:
 
@@ -143,3 +289,19 @@ LIC. CARLOS A. MADRAZO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. MANUEL GURRIA O.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 280 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1, 3, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 Y 19; SE ADICIONAN LOS ARTÍCULOS 1 BIS, 8 BIS, 10 BIS, 10 TER, 10 QUÁTER, 10 QUINQUIES, 10 SEXIES, 10 SEPTIES, 10 OCTIES, 10 NONIES, 11 BIS Y 11 TER; ASÍ COMO LOS CAPÍTULOS I BIS DENOMINADO "DE LA MOVILIZACIÓN Y TRAZABILIDAD FITOSANITARIA" Y I TER DENOMINADO "DE LAS MEDIDAS FITOSANITARIAS", Y SE DEROGA EL ARTÍCULO 20, TODOS DE LA LEY DE LA CAMPAÑA CONTRA LAS ENFERMEDADES Y PLAGAS DEL PLÁTANO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado, por conducto de las autoridades competentes, deberá expedir o adecuar las disposiciones reglamentarias necesarias para la debida aplicación del presente Decreto dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+CUARTO.- Las personas físicas y jurídicas que realicen actividades de producción, acopio, transporte, comercialización o movilización de productos plataneros contarán con un plazo de noventa días naturales, contados a partir de la entrada en vigor de las disposiciones reglamentarias a que se refiere el artículo transitorio tercero del presente Decreto, para adecuar sus procedimientos y cumplir con las obligaciones previstas en el mismo.
