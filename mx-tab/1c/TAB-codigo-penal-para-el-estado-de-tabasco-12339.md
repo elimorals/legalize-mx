@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2026-05-06"
+last_updated: "2026-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -2437,15 +2437,17 @@ XII.- Sobre embarcaciones o cosas que se encuentren en ellas;
 
 XIII.- Sobre equipaje o valores de viajero en cualquier lugar durante el transcurso del viaje;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2026)</small>
 
-XIV.- Respecto de documentos que se conserven en oficinas públicas, cuando la sustracción afecte el servicio público o cause daño a terceros. Si el delito lo comete un servidor público que labore en la dependencia donde cometió el robo, se le aplicará, además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos de uno a cinco años; y
+XIV.- Respecto de documentos que se conserven en oficinas públicas, cuando la sustracción afecte el servicio público o cause daño a terceros. Si el delito lo comete un servidor público que labore en la dependencia donde cometió el robo, se le aplicará, además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos de uno a cinco años;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2026)</small>
 
-XV.- Respecto a uno o más bienes que en propiedad o en posesión formen parte de la infraestructura de centros de trabajo, o de hospitales, clínicas, centros o casas de salud, públicos o privados, o de todo inmueble destinado a la prestación de cualquier servicio público a cargo del Estado o los Municipios.
+XV.- Respecto a uno o más bienes que en propiedad o en posesión formen parte de la infraestructura de centros de trabajo, o de hospitales, clínicas, centros o casas de salud, públicos o privados, o de todo inmueble destinado a la prestación de cualquier servicio público a cargo del Estado o los Municipios; y
 
-XVI.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2026)</small>
+
+XVI.- Respecto de mazorcas de cacao, cacao en baba o seco, ya sea en proceso de beneficio postcosecha, almacenado o en transporte.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
 
@@ -2981,13 +2983,39 @@ VII. Expida dictamen de la prueba de tuberculosis y brucelosis bovina o certific
 
 VIII. Fabrique o comercialice dispositivos falsos de identificación individual de especies pecuarias mayores o menores.
 
-## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD DE LA SUBSISTENCIA FAMILIAR
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
+## TITULO DECIMO PRIMERO BIS. DELITOS CONTRA LA PRODUCCION AGRICOLA Y LA SANIDAD VEGETAL
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+Artículo 205 Undecies.- A quien movilice plátano, sus productos, subproductos o material vegetativo incumpliendo las disposiciones fitosanitarias previstas en la legislación aplicable o sin acreditar su legal movilización dentro del territorio estatal, se le impondrá de uno a cuatro años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+Artículo 205 Duodecies.- A quien altere, falsifique, expida, proporcione o utilice documentación relacionada con mecanismos de control fitosanitario, trazabilidad o movilización de productos plataneros, se le impondrá de dos a cinco años de prisión y multa de doscientas a seiscientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+Artículo 205 Terdecies.- A quien introduzca, disperse o movilice material vegetativo o productos plataneros con conocimiento de que representan riesgo fitosanitario para la producción agrícola del Estado, se le impondrá de tres a seis años de prisión y multa de trescientas a ochocientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2026)</small>
+
+Artículo 205 Quaterdecies.- Las penas previstas en el presente Capítulo se incrementarán hasta en una mitad cuando:
+
+I. La conducta se realice con fines comerciales;
+
+II. Exista reincidencia;
+
+III. Participe una persona servidora pública; o
+
+IV. Se genere afectación masiva a la producción platanera o riesgo de propagación de plagas cuarentenarias.
 
 #### SECCION SEGUNDA. DELITOS CONTRA LA FAMILIA
 
-## TITULO SEGUNDO. DELITOS CONTRA EL ESTADO CIVIL Y EL EJERCICIO DE LOS DERECHOS FAMILIARES
+## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD DE LA SUBSISTENCIA FAMILIAR
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2003)</small>
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
@@ -3065,7 +3093,7 @@ Al servidor público que incumpla con lo establecido en el párrafo anterior se 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MAYO DE 2003)</small>
 
-## TITULO TERCERO. DELITOS CONTRA LA FILIACION
+## TITULO SEGUNDO. DELITOS CONTRA EL ESTADO CIVIL Y EL EJERCICIO DE LOS DERECHOS FAMILIARES
 
 ### CAPITULO I. SUSTRACCION O RETENCION DE MENORES O INCAPACES
 
@@ -3117,7 +3145,7 @@ Al que tenga legalmente la obligación de hacerse cargo de una persona incapaz d
 
 No se impondrá pena alguna a la madre que entregue a su hijo por ignorancia o extrema pobreza, o cuando aquél sea el producto de una violación o una inseminación artificial sin consentimiento.
 
-## TITULO CUARTO. DELITOS CONTRA LA INSTITUCION DEL MATRIMONIO Y EL ORDEN SEXUAL
+## TITULO TERCERO. DELITOS CONTRA LA FILIACION
 
 ### CAPITULO I. SUPRESION DEL ESTADO CIVIL
 
@@ -3147,9 +3175,7 @@ Se aplicará prisión de uno a cinco años al que, con el fin de adquirir derech
 
 Al que cambie o haga cambiar a un menor por otro para ocasionarle perjuicio en sus derechos de familia, se le aplicará prisión de uno a cinco años.
 
-## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD DE LOS BIENES JURIDICOS
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+## TITULO CUARTO. DELITOS CONTRA LA INSTITUCION DEL MATRIMONIO Y EL ORDEN SEXUAL
 
 ### CAPITULO I. BIGAMIA
 
@@ -3183,9 +3209,9 @@ Se aplicará prisión de dos a seis años al que tenga cópula con su descendien
 
 #### SECCION TERCERA. DELITOS CONTRA LA SOCIEDAD
 
-## TITULO SEGUNDO. DELITOS CONTRA EL ERARIO Y EL SERVICIO PUBLICOS, POR HECHOS DE CORRUPCION
+## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD DE LOS BIENES JURIDICOS
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 2017)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
 ### CAPITULO I. COMISION DE DELITO POR MEDIO DE OTRA PERSONA
 
@@ -3287,7 +3313,9 @@ A quienes actuando bajo coacción o amenaza lleven a cabo alguna de las conducta
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 2017)</small>
 
-## TITULO TERCERO. DELITOS CONTRA LAS GARANTIAS RECTORAS DEL PROCEDIMIENTO PENAL
+## TITULO SEGUNDO. DELITOS CONTRA EL ERARIO Y EL SERVICIO PUBLICOS, POR HECHOS DE CORRUPCION
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 2017)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -3733,7 +3761,7 @@ II.- De dos a catorce años de prisión y multa de trescientos a quinientos día
 
 Se aplicará prisión de uno a seis años y multa de treinta a cien días multa, al que sin ser servidor público se atribuya ese carácter y ejerza alguna de las funciones de tal.
 
-## TITULO CUARTO. DELITOS CONTRA LA RECTITUD DE LA FUNCION PERSECUTORIA Y DE LA JUDICATURA
+## TITULO TERCERO. DELITOS CONTRA LAS GARANTIAS RECTORAS DEL PROCEDIMIENTO PENAL
 
 ### CAPITULO I. ORDEN DE APREHENSION ILEGITIMA
 
@@ -3917,7 +3945,7 @@ En materia del delito de Tortura se estará a lo establecido en la Ley General a
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 2015)
 
-## TITULO QUINTO. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
+## TITULO CUARTO. DELITOS CONTRA LA RECTITUD DE LA FUNCION PERSECUTORIA Y DE LA JUDICATURA
 
 ### CAPITULO I. EJERCICIO LABORAL LEGALMENTE PROHIBIDO
 
@@ -3953,7 +3981,7 @@ Se aplicará prisión de cuatro a diez años y multa de cien a trescientos días
 
 Además de las punibilidades previstas en los capítulos de este Título, se aplicarán destitución e inhabilitación de uno a cinco años para obtener y desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público.
 
-## TITULO SEXTO. DELITOS CONTRA LA VERACIDAD NECESARIA PARA LA ADECUADA ADMINISTRACION DE JUSTICIA
+## TITULO QUINTO. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
 ### CAPITULO I. PREVARICACION
 
@@ -4159,7 +4187,7 @@ II. Se trate de cadáveres de mujeres, niñas o adolescentes, o
 
 III. Se refiera a las circunstancias de su muerte, de las lesiones o del estado de salud de la víctima.
 
-## TITULO SEPTIMO. DELITOS CONTRA EL EJERCICIO LEGITIMO DE LA AUTORIDAD
+## TITULO SEXTO. DELITOS CONTRA LA VERACIDAD NECESARIA PARA LA ADECUADA ADMINISTRACION DE JUSTICIA
 
 ### CAPITULO I. PRESENTACION DE DENUNCIAS O QUERELLAS FALSAS
 
@@ -4223,7 +4251,7 @@ II.- Oculte o niegue su domicilio o designe como tal uno distinto del verdadero.
 
 Cuando con base en la simulación de pruebas o en la denuncia, querella, imputación o declaraciones falsas, se dicte una sentencia penal de condena, se aplicará al falsario la misma sanción impuesta en dicha sentencia penal de condena, en caso de que éste hubiese sido inocente, además de la pena que le corresponda por el delito cometido.
 
-## TITULO OCTAVO. DELITOS CONTRA EL RESPETO DE LOS SIMBOLOS INSTITUCIONALES
+## TITULO SEPTIMO. DELITOS CONTRA EL EJERCICIO LEGITIMO DE LA AUTORIDAD
 
 ### CAPITULO I. IMPOSICION FORZADA DE UN ACTO ILEGAL
 
@@ -4289,9 +4317,7 @@ A quien siendo titular o propietario de una casa habitación en construcción, q
 
 Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá de noventa a ciento ochenta días de semilibertad.
 
-## TITULO NOVENO. DELITOS CONTRA EL EQUILIBRIO VITAL DE LA NATURALEZA Y LOS ANIMALES
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
+## TITULO OCTAVO. DELITOS CONTRA EL RESPETO DE LOS SIMBOLOS INSTITUCIONALES
 
 ### CAPITULO I. USO INDEBIDO DE CONDECORACIONES O UNIFORMES
 
@@ -4319,9 +4345,9 @@ Dichas sanciones se impondrán con independencia de las que correspondan por otr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MAYO DE 2019)</small>
 
-## TITULO DECIMO. DELITOS CONTRA LA SEGURIDAD COLECTIVA
+## TITULO NOVENO. DELITOS CONTRA EL EQUILIBRIO VITAL DE LA NATURALEZA Y LOS ANIMALES
 
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2019)</small>
 
 ### CAPITULO PRIMERO. DELITOS CONTRA EL EQUILIBRIO VITAL DE LA NATURALEZA
 
@@ -4503,9 +4529,9 @@ VII. Si el sujeto activo es reincidente o cuenta con antecedentes por delitos si
 
 Se entenderá por métodos de extrema crueldad, todos aquellos que ocasionen lesiones graves, o que provoquen mutilación innecesaria y evitable, o que conduzcan a una muerte no inmediata.
 
-## TÍTULO DÉCIMO CUARTO BIS. DELITOS CONTRA LA INDEMNIDAD DE PRIVACIDAD DE LA INFORMACIÓN SEXUAL
+## TITULO DECIMO. DELITOS CONTRA LA SEGURIDAD COLECTIVA
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2020)</small>
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
 
 ### CAPITULO UNICO. AFECTACION DE LA SEGURIDAD COLECTIVA POR INCENDIO, EXPLOSION O INUNDACION
 
@@ -4923,7 +4949,9 @@ Para los efectos de este artículo, se entiende por pornografía infantil toda r
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2020)</small>
 
-## TITULO UNICO
+## TÍTULO DÉCIMO CUARTO BIS. DELITOS CONTRA LA INDEMNIDAD DE PRIVACIDAD DE LA INFORMACIÓN SEXUAL
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE JULIO DE 2020)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -5068,6 +5096,8 @@ Las sanciones previstas en este Título se impondrán sin perjuicio de los que r
 Además de las sanciones previstas en los capítulos I, II y III se aplicará suspensión de seis meses a tres años del derecho a ejercer la profesión médica o inhabilitación para éste mismo efecto de seis meses a cinco años.
 
 #### SECCION CUARTA. DELITOS CONTRA LA AUTONOMIA DEL PUEBLO DE TABASCO
+
+## TITULO UNICO
 
 ### CAPITULO UNICO. DELITOS ELECTORALES
 
@@ -6024,3 +6054,23 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los procedimientos penales que se hayan iniciado antes de la entrada en vigor del presente decreto deberán concluirse aplicando el código penal vigente al momento de la supuesta comisión del delito y en ningún momento deberá considerarse que las nuevas disposiciones contenidas en el presente Decreto despenalizan los delitos cometidos con anterioridad.
 
 TERCERO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 280 POR EL QUE “SE ADICIONA EL TÍTULO DÉCIMO PRIMERO BIS DENOMINADO "DELITOS CONTRA LA PRODUCCIÓN AGRÍCOLA Y LA SANIDAD VEGETAL", ASÍ COMO LOS ARTÍCULOS 205 UNDECIES, 205 DUODECIES, 205 TERDECIES Y 205 QUATERDECIES AL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado, por conducto de las autoridades competentes, deberá expedir o adecuar las disposiciones reglamentarias necesarias para la debida aplicación del presente Decreto dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+CUARTO.- Las personas físicas y jurídicas que realicen actividades de producción, acopio, transporte, comercialización o movilización de productos plataneros contarán con un plazo de noventa días naturales, contados a partir de la entrada en vigor de las disposiciones reglamentarias a que se refiere el artículo transitorio tercero del presente Decreto, para adecuar sus procedimientos y cumplir con las obligaciones previstas en el mismo.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 281 POR EL QUE “SE REFORMA EL ARTÍCULO 179, EN SUS FRACCIONES XIV, XV Y XVI DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Los delitos cometidos con anterioridad a la entrada en vigor de este Decreto se sancionarán conforme a las disposiciones vigentes al momento de su comisión.
