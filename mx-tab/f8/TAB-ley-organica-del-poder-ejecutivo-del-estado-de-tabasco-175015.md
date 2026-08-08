@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-175015"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-11-09"
-last_updated: "2025-12-24"
+last_updated: "2026-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
 
 Ley publicada en el Suplemento I del Periódico Oficial del Estado de Tabasco, el sábado 9 de noviembre de 2024.
 
@@ -1183,7 +1183,13 @@ XXXIII. Promover las disposiciones jurídicas y normas oficiales mexicanas aplic
 
 XXXIV. Coordinar acciones en materia de sanidad agropecuaria, de conformidad con las disposiciones establecidas, así como instrumentar y evaluar las campañas de prevención en conjunto con las autoridades correspondientes y con las asociaciones de productores, con el fin de prevenir, combatir y erradicar siniestros, plagas, enfermedades y epidemias;
 
-XXXV. Implementar las medidas de control para la movilización de productos agropecuarios que garanticen la protección sanitaria del Estado; y
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+XXXIV Bis. Implementar, coordinar y supervisar mecanismos de trazabilidad, vigilancia fitosanitaria y control de movilización aplicables a productos agrícolas estratégicos del Estado, en coordinación con las autoridades federales competentes;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2026)</small>
+
+XXXV. Implementar las medidas de control, trazabilidad, verificación y vigilancia fitosanitaria aplicables a la movilización de productos agropecuarios y agrícolas estratégicos, con el objeto de garantizar la protección sanitaria del Estado y prevenir riesgos derivados de plagas, enfermedades o movilización irregular; y
 
 XXXVI. Las demás que se prevean en otras disposiciones y las que le sean encomendadas por la persona titular del Poder Ejecutivo.
 
@@ -2034,3 +2040,15 @@ NOVENO. A partir de la entrada en vigor del presente Decreto, cuando en cualquie
 DÉCIMO. La Secretaría de Administración y Finanzas deberá realizar las adecuaciones presupuestarias y administrativas necesarias para la implementación del presente Decreto.
 
 DÉCIMO PRIMERO. El Consejo Estatal deberá quedar instalado dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 280 POR EL QUE "SE ADICIONA LA FRACCIÓN XXXIV BIS Y SE REFORMA LA FRACCIÓN XXXV DEL ARTÍCULO 28 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado, por conducto de las autoridades competentes, deberá expedir o adecuar las disposiciones reglamentarias necesarias para la debida aplicación del presente Decreto dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+CUARTO.- Las personas físicas y jurídicas que realicen actividades de producción, acopio, transporte, comercialización o movilización de productos plataneros contarán con un plazo de noventa días naturales, contados a partir de la entrada en vigor de las disposiciones reglamentarias a que se refiere el artículo transitorio tercero del presente Decreto, para adecuar sus procedimientos y cumplir con las obligaciones previstas en el mismo.
