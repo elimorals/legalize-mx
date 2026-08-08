@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vivienda-del-estado-de-chihuahua-89615"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-26"
-last_updated: "2024-10-16"
+last_updated: "2026-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2026.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de mayo de 2012.
 
@@ -369,9 +369,9 @@ b) Consejería Jurídica.
 
 c) Secretaría de Hacienda.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2026)</small>
 
-d) Secretaría de Desarrollo Social.
+d) Secretaría de Desarrollo Humano y Bien Común.
 
 e) Secretaría de Comunicaciones y Obras Públicas.
 
@@ -1656,6 +1656,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 16 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0907/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 47 DE LA LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXVIII/RFLEY/0532/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD MENTAL, LA LEY DE CULTURA DE LA LEGALIDAD, LA LEY DE VIVIENDA, LA LEY PARA EL FOMENTO Y LA PARTICIPACIÓN DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL, AGRUPACIONES Y REDES Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODAS DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
