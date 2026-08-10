@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2025-12-30"
+last_updated: "2026-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -785,11 +785,11 @@ Para conducir las sesiones del pleno y velar por el funcionamiento del Congreso,
 
 La representación del Congreso recae en el presidente de la Mesa Directiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2026)</small>
 
 ###### ARTICULO 32.
 
-El congreso del estado estará integrado por veinticinco diputados electos en su totalidad cada tres años; quince según el principio de mayoría relativa mediante el sistema de distritos electorales uninominales y diez electos según el principios (sic) de representación proporcional en una circunscripción plurinominal, mediante el sistema de listas de candidatos. Las listas se integrarán y votarán de acuerdo con las bases que determina esta Constitución y con las reglas y los procedimientos que establece la Ley de la materia. Por cada Diputado Propietario se elegirá un suplente y ambos conformarán una misma fórmula.
+El Congreso del Estado estará integrado por veinticinco diputados electos en su totalidad cada tres años; quince según el principio de mayoría relativa mediante el sistema de distritos electorales uninominales y diez electos según los principios de representación proporcional en una circunscripción plurinominal, mediante el sistema de listas de candidatos. Las listas se integrarán y votarán de acuerdo con las bases que determina esta Constitución y con las reglas y los procedimientos que establece la Ley de la materia. Por cada Diputado Propietario se elegirá un suplente y ambos conformarán una misma fórmula. En la integración y funcionamiento del Congreso del Estado se observarán en todo momento los principios de paridad, igualdad sustantiva y perspectiva de género.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1125,9 +1125,9 @@ Una vez aprobada la Ley de Ingresos para el Estado y los municipios, se deberá 
 
 Así mismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2026)</small>
 
-XIII. Discutir, aprobar o modificar, en su caso, el presupuesto de egresos que para el ejercicio anual del Congreso, proponga la Comisión de Finanzas y Fiscalización del mismo;
+XIII. Discutir, aprobar o modificar, en su caso, el Presupuesto de Egresos que proponga la Comisión de Finanzas y Fiscalización, para el ejercicio anual del Congreso. El presupuesto anual del Congreso no excederá del cero punto setenta por ciento del Presupuesto de Egresos del Estado;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2295,9 +2295,9 @@ Tratándose de los consejeros electorales y de los magistrados del órgano juris
 
 Los Municipios están investidos de personalidad jurídica y su patrimonio lo manejarán a través de su Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2026)</small>
 
-Cada ayuntamiento se integrará por un presidente municipal, un síndico y los regidores cuya cantidad determinen las leyes aplicables. Por cada integrante propietario habrá un suplente.
+Cada Ayuntamiento se integrará por un Presidente o Presidenta Municipal, una sindicatura y las regidurías cuya cantidad determine la Ley, que no podrá exceder de quince regidurías, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. Por cada integrante propietario habrá un suplente.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2586,6 +2586,10 @@ El órgano jurisdiccional local en materia electoral se compondrá de tres magis
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2023)</small>
 
 Al finalizar su encargo, quien haya ejercido el cargo de titular de alguna Magistratura del órgano jurisdiccional local en materia electoral, durante la totalidad del periodo de su nombramiento, tendrá derecho a un haber de retiro y no podrá ejercer actos de representación legal o litigio, en aquellos temas relacionados con la función que haya desempeñado.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2026)</small>
+
+Apartado C. Las remuneraciones de las personas consejeras electorales, las magistradas y magistrados electorales, titulares de las secretarías de órganos administrativos y titulares de áreas ejecutivas y técnicas del Instituto Tlaxcalteca de Elecciones y del Tribunal Electoral del Estado, no excederán el límite establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -4544,3 +4548,45 @@ En términos de lo previsto por el artículo 120 párrafo primero de la Constitu
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 10 DE AGOSTO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 285.- SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+El límite al presupuesto anual del Congreso del Estado previsto en el artículo 54 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, armonizado con el artículo 116, fracción II, de la Constitución Política de los Estados Unidos Mexicanos, deberá observarse a partir del inicio de la LXVI Legislatura, es decir, causa efectos a partir del día 29 de agosto de 2027.
+
+En consecuencia, las reducciones presupuestarias que, en su caso, resulten necesarias para ajustar el presupuesto anual del Congreso del Estado al límite del cero punto setenta por ciento del Presupuesto de Egresos del Estado, surtirán efectos a partir del inicio de la subsecuente Legislatura, sin resultar aplicables al presupuesto autorizado para la Legislatura en funciones al momento de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para el ejercicio fiscal 2027, el Presupuesto de Egresos del Estado deberá prever las medidas presupuestarias necesarias para que, a partir del inicio de la LXVI Legislatura del Congreso del Estado, el presupuesto que corresponda ejercer a dicha Legislatura no exceda el límite del cero punto setenta por ciento del presupuesto de egresos del Estado.
+
+La previsión anterior no implicará la reducción automática e inmediata del presupuesto que corresponda ejercer a la LXV Legislatura durante el periodo previo al inicio de funciones de la Legislatura subsecuente.
+
+El tope presupuestal previsto en el artículo 54, fracción XIII, comenzará a regir a partir del 29 de agosto de 2027, fecha en que comienza la LXVI Legislatura del Congreso del Estado, sin afectar esta disposición a la LXV Legislatura que se encuentra en funciones. Esto de conformidad con lo previsto en el artículo Quinto Transitorio del Decreto por el que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO CUARTO.
+
+En caso de que se generen economías o ahorros presupuestarios, con motivo de la aplicación del presente Decreto, se estará a lo dispuesto en el artículo Séptimo Transitorio del Decreto por el que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO QUINTO.
+
+El Instituto Tlaxcalteca de Elecciones y el Tribunal Electoral del Estado de Tlaxcala, revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el artículo Cuarto Transitorio del Decreto por el que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO SEXTO.
+
+Se faculta al Secretario Parlamentario para que notifique al Instituto Tlaxcalteca de Elecciones y al Tribunal Electoral de Tlaxcala el contenido del presente Decreto a efecto de que, en el ámbito de sus respectivas competencias, revisen y adecuen sus disposiciones normativas, administrativas y presupuestarias, en términos de lo dispuesto en el artículo transitorio inmediato anterior de este Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Remítase el presente Decreto a los sesenta ayuntamientos, que corresponden a los municipios que integran el Estado de Tlaxcala, para los efectos de lo dispuesto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
